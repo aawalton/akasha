@@ -13,6 +13,8 @@ const DOMAIN = "domain"
 
 const PREFERRED: readonly string[] = [DOMAIN, PERSON, "persona", "initiative"]
 
+const CALLED_AS = "seat-stating"
+
 export type SeatStated = {
   readonly agentId: string
   readonly persona: string | null
@@ -75,18 +77,30 @@ export function seatBody(stated: SeatStated, seatName: string, root: string): st
 
 export type Stating =
   | { readonly kind: "wrote" }
+  | { readonly kind: "took" }
   | { readonly kind: "unchanged" }
   | { readonly kind: "unstated" }
   | { readonly kind: "refused"; readonly said: string }
 
-export function statedSeat(given: Given, stated: SeatStated, seatName: string): Stating {
-  const body = seatBody(stated, seatName, given.root)
+function programmatically(root: string): Given {
+  return {
+    root,
+    calledAs: CALLED_AS,
+    from: root,
+    writer: null,
+    agentId: null,
+    programmatic: true,
+  }
+}
+
+export function statedSeat(root: string, stated: SeatStated, seatName: string): Stating {
+  const body = seatBody(stated, seatName, root)
   if (body === null) return { kind: "unstated" }
   const page = seatPathForName(seatName)
-  if (existsSync(join(given.root, page)) && readFileSync(join(given.root, page), "utf8") === body) {
+  if (existsSync(join(root, page)) && readFileSync(join(root, page), "utf8") === body) {
     return { kind: "unchanged" }
   }
-  const landed = landingAsked(given, {
+  const landed = landingAsked(programmatically(root), {
     changes: [{ path: page, body: new TextEncoder().encode(body) }],
     message: `${seatName}: the seat is in akasha as what it states`,
     dryRun: false,
@@ -96,4 +110,19 @@ export function statedSeat(given: Given, stated: SeatStated, seatName: string): 
   })
   if (landed.code !== 0) return { kind: "refused", said: landed.refusals.join("; ") }
   return { kind: "wrote" }
+}
+
+export function tookSeat(root: string, seatName: string, why: string): Stating {
+  const page = seatPathForName(seatName)
+  if (!existsSync(join(root, page))) return { kind: "unchanged" }
+  const landed = landingAsked(programmatically(root), {
+    changes: [{ path: page, body: null }],
+    message: `${seatName} stopped, ${why}, so its page goes`,
+    dryRun: false,
+    glass: null,
+    unmoved: [],
+    saying: wroteAndTook,
+  })
+  if (landed.code !== 0) return { kind: "refused", said: landed.refusals.join("; ") }
+  return { kind: "took" }
 }
