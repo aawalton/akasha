@@ -1,7 +1,13 @@
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { QuestionLink } from "@akasha/open-questions/question-link"
-import { askComposed } from "@shared/pages-query/ask"
+// The remote path, not the local-first facade. `QuestionAnswerArm` calls this from a client
+// effect in the capacitor SPA, and a phone has no checkout, so `@shared/pages-query/ask` could
+// only ever delegate to the store anyway — while dragging `here.ts` -> `checkout-roots` and its
+// node builtins into the phone bundle. `/ask-remote` is that same delegation with the checkout
+// half severed; it is not `@akasha/pages-query/ask`, which would also drop the key-spelling
+// adapter and leave multi-word keys silently unmatched.
+import { askComposed } from "@shared/pages-query/ask-remote"
 import { z } from "zod"
 
 const PERSONA_SLUG = "persona"
