@@ -12,6 +12,8 @@ export const WRITE_OVER_SERVER_OPS = [
   "patchPages",
   "upsertPage",
   "upsertPages",
+  "deletePage",
+  "deletePages",
 ] as const
 
 export type WriteOverServerOp = (typeof WRITE_OVER_SERVER_OPS)[number]
