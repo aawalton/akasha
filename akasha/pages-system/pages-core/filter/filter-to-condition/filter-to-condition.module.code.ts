@@ -1,5 +1,5 @@
-import type { Json } from "@akasha/supabase-database/json"
 import { isJson } from "@akasha/utils-narrow/is-json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import type { PropertyType } from "../../page-data/page-data.module.code.ts"
 import type { PageCondition } from "../../page-types/page-types.module.code.ts"
 import type {

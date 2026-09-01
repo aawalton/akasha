@@ -1,4 +1,4 @@
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import type { JsonPatchOp } from "../../view-state/view-state-change/view-state-change.module.code.ts"
 import {
   arrayChild,

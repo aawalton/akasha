@@ -1,5 +1,5 @@
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 
 export type Page = {
   id: string

@@ -1,4 +1,4 @@
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import { asJson } from "../../as-json/as-json.module.code.ts"
 
 export type JsonObject = { [key: string]: Json | undefined }
