@@ -81,6 +81,14 @@
     "akasha/agents-system": {
       "name": "@akasha/agents-system",
     },
+    "akasha/alan/chess/core": {
+      "name": "@akasha/chess-core",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
@@ -114,14 +122,6 @@
       "name": "@akasha/checks-system",
       "dependencies": {
         "typescript": "5.9.3",
-      },
-    },
-    "akasha/chess-core": {
-      "name": "@akasha/chess-core",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "akasha/code-system": {
@@ -3700,7 +3700,7 @@
 
     "@akasha/checks-system": ["@akasha/checks-system@workspace:akasha/checks-system"],
 
-    "@akasha/chess-core": ["@akasha/chess-core@workspace:akasha/chess-core"],
+    "@akasha/chess-core": ["@akasha/chess-core@workspace:akasha/alan/chess/core"],
 
     "@akasha/code-system": ["@akasha/code-system@workspace:akasha/code-system"],
 
