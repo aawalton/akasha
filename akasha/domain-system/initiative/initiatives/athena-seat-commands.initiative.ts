@@ -19,7 +19,6 @@ export const athenaSeatCommands = {
   constraints: [
     "Alan settles each act's shape before it lands.",
     "The acts stand on the seat command rather than as commands of their own.",
-    "Sending a message and claiming one are not this initiative's work.",
     "An act's old command goes as the act lands.",
   ],
 } as const satisfies Initiative
