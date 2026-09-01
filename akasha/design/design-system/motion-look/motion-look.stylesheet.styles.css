@@ -1,0 +1,38 @@
+@keyframes skeleton-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+@keyframes scroll-target-highlight {
+  0%,
+  20% {
+    outline-color: oklch(0.63 0.13 73 / 0.5);
+  }
+  100% {
+    outline-color: transparent;
+  }
+}
+
+.scroll-target {
+  outline: 2px solid oklch(0.63 0.13 73 / 0.5);
+  outline-offset: -1px;
+  border-radius: var(--radius-lg);
+  animation: scroll-target-highlight 1.5s ease-out forwards;
+}
+
+@keyframes tab-flash-highlight {
+  0% {
+    background-color: oklch(0.63 0.13 73 / 0.25);
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+.tab-flash {
+  animation: tab-flash-highlight 1600ms ease-out forwards;
+}

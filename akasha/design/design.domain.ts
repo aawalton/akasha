@@ -11,6 +11,7 @@ export const design = {
     "workspace-package/design-layout",
     "workspace-package/design-patterns",
     "workspace-package/design-primitives",
+    "workspace-package/design-system",
     "workspace-package/design-tokens",
   ],
 } as const satisfies Domain
