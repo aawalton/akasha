@@ -3,9 +3,9 @@ import { join } from "node:path"
 import type { Holder } from "@akasha/file-system/lock-holder"
 import { alive } from "@akasha/file-system/lock-holder"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
-import { mergeUncommitted, uncommittedIn } from "@akasha/pages-system/page-uncommitted"
+import { mergeUncommitted } from "@akasha/pages-system/page-uncommitted"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
-import { holderIn, nameOf, seatPathForName } from "@akasha/seat-system/seat-reading"
+import { nameOf, seatPathForName, supervisorOf } from "@akasha/seat-system/seat-reading"
 import { type Stopped, stopping } from "@akasha/seat-system/seat-stopping"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
@@ -28,8 +28,6 @@ const ASK = "reExecAsk"
 
 const ASKED = "asked"
 
-const HELD = "supervisorProcess"
-
 const SIGNAL = "SIGTERM"
 
 const ID = "id"
@@ -44,9 +42,7 @@ function seatsIn(root: string): readonly Seat[] {
   const found: Seat[] = []
   for (const one of everyOfType(root, typeSlugOf(root, SEAT_TYPE))) {
     if (!one.path.startsWith(SEAT_DIR)) continue
-    const beside = uncommittedIn(root, one.path)
-    const said = beside === null ? null : (beside as Record<string, unknown>)[HELD]
-    found.push({ page: one.path, name: nameOf(one.path), holder: holderIn(said) })
+    found.push({ page: one.path, name: nameOf(one.path), holder: supervisorOf(root, one.path) })
   }
   return [...found].sort((one, other) => (one.name < other.name ? -1 : 1))
 }

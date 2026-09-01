@@ -1,5 +1,5 @@
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
-import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
+import { wholeValue } from "@akasha/pages-system/page-uncommitted"
 import { valueAt } from "@akasha/pages-system/page-value"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
@@ -52,20 +52,20 @@ export function readingsIn(root: string): readonly Reading[] {
   for (const one of everyOfType(root, typeSlugOf(root, ACCOUNT_TYPE))) {
     const stated = valueAt(one.path, root)
     if (stated === null) continue
-    const account = textIn(stated, "slug")
+    const whole = wholeValue(root, one.path, stated)
+    const account = textIn(whole, "slug")
     if (account === null) continue
-    const beside = uncommittedIn(root, one.path) ?? {}
     found.push({
       account,
-      aliasIndex: numberIn(stated, "aliasIndex"),
-      fiveHourPercentUsed: numberIn(beside, "fiveHourPercentUsed"),
-      sevenDayPercentUsed: numberIn(beside, "sevenDayPercentUsed"),
-      fiveHourResetsAt: textIn(beside, "fiveHourResetsAt"),
-      sevenDayResetsAt: textIn(beside, "sevenDayResetsAt"),
-      accessTokenExpiresAt: textIn(beside, "accessTokenExpiresAt"),
-      usageReadAt: textIn(beside, "usageReadAt"),
-      terminalAt: textIn(beside, "terminalAt"),
-      subscriptionDisabledReason: textIn(beside, "subscriptionDisabledReason"),
+      aliasIndex: numberIn(whole, "aliasIndex"),
+      fiveHourPercentUsed: numberIn(whole, "fiveHourPercentUsed"),
+      sevenDayPercentUsed: numberIn(whole, "sevenDayPercentUsed"),
+      fiveHourResetsAt: textIn(whole, "fiveHourResetsAt"),
+      sevenDayResetsAt: textIn(whole, "sevenDayResetsAt"),
+      accessTokenExpiresAt: textIn(whole, "accessTokenExpiresAt"),
+      usageReadAt: textIn(whole, "usageReadAt"),
+      terminalAt: textIn(whole, "terminalAt"),
+      subscriptionDisabledReason: textIn(whole, "subscriptionDisabledReason"),
     })
   }
   return found
