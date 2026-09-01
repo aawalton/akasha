@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const noCallerReachesTheRefusalAndAlansUsageWidgetReportsZeroSpent = {
+  id: "01a05c9f-1fad-78fa-8c10-7a971a9fbb07",
+  pageTypeSlug: "finding",
+  slug: "no-caller-reaches-the-refusal-and-alans-usage-widget-reports-zero-spent",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "No live reader of `persona` or `claude-account` reaches the 503. Every one asks through `@shared/pages-query`, whose router sends a page type the local engine cannot reach on to the store, and the store answers forty-two personas and eight accounts. What is lost is what the store never held: the derived and the uncommitted. Alan's usage widget draws a fleet at zero percent spent with nothing pending off that loss, and says nothing.",
+  evidence:
+    "Measured 2026-09-01. `answerNamed(resolveRoots(), X)` answers null for `persona-all`, `claude-account-all` and `claude-accounts-mean-session-used`, and no caller takes that path. `standsHere` in `shared/pages-query/src/here.ts` is false for a page type the local engine cannot reach, so `askNamed` routes to the store: persona-all n=42, claude-account-all n=8, mean-session n=8. All six persona-all callers and both mean callers ask through `askNamed` or `askTaking`. Run as the store queries they resolve to, the five views answer 8, 42, 42, 8 and 0, and the 0 is personas-not-empty filtering on `alan-notes`, a key no page property definition ever declared. So the 503 at `page-query-answer.ts:38` is reached by nothing.\n\nWhat the store cannot answer is what it never held. Every claude-account observation — both percentages, both resets-at, the disabled reason — is declared uncommitted and stands in the file beside the akasha page, so only what an account states lands and only what it states reaches the store. `claude-accounts-mean-session-used` and `claude-accounts-mean-weekly-used` reduce over `effective-five-hour-percent-used` and `effective-seven-day-percent-used`, derived properties deleted with the page type at 54ee772b64, and both answer over 0. The editor's two slots are repointed at akasha at d4cea37e32 and read 27 and 29.625.\n\n`alanwalton/web/app/routes/api.claude-usage.ts` cannot be repointed the same way, because it runs where no checkout stands. Its `meanUsedPct` reads over 0 as `avgUsedPct: 0` rather than as unread, and its three instant queries answer n=0 because each tests an uncommitted key, so `tierFor` is handed null and answers blue.",
+} as const satisfies Finding
