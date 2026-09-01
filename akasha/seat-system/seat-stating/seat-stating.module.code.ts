@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { landedProgrammatically } from "@akasha/command-system/asking"
+import { landedMechanically } from "@akasha/command-system/asking"
 import { listedAt, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { kindsUnder } from "@akasha/pages-system/page-type-descent"
@@ -88,7 +88,7 @@ export function statedSeat(root: string, stated: SeatStated, seatName: string): 
   if (existsSync(join(root, page)) && readFileSync(join(root, page), "utf8") === body) {
     return { kind: "unchanged" }
   }
-  const landed = landedProgrammatically(
+  const landed = landedMechanically(
     root,
     CALLED_AS,
     [{ path: page, body: new TextEncoder().encode(body) }],
@@ -101,7 +101,7 @@ export function statedSeat(root: string, stated: SeatStated, seatName: string): 
 export function tookSeat(root: string, seatName: string, why: string): Stating {
   const page = seatPathForName(seatName)
   if (!existsSync(join(root, page))) return { kind: "unchanged" }
-  const landed = landedProgrammatically(
+  const landed = landedMechanically(
     root,
     CALLED_AS,
     [{ path: page, body: null }],

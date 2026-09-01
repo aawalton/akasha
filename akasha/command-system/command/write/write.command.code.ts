@@ -38,7 +38,7 @@ export function unwarrantedIn(
   glass: string | null,
   changes: readonly FileEdit[]
 ): readonly string[] {
-  if (given.programmatic === true) return []
+  if (given.mechanical === true) return []
   if (glass !== null) return []
   return owedIn(
     given.root,

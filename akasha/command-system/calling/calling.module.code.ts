@@ -14,7 +14,7 @@ export type Outside = {
   readonly from: string
   readonly writer: string | null
   readonly agentId: string | null
-  readonly programmatic?: boolean
+  readonly mechanical?: boolean
 }
 
 export type Answer = {
@@ -227,7 +227,7 @@ async function answeredBy(
     from: outside.from,
     writer: outside.writer,
     agentId: outside.agentId,
-    programmatic: outside.programmatic === true || mechanicalOf(page),
+    mechanical: outside.mechanical === true || mechanicalOf(page),
   })
 }
 

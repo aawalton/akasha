@@ -18,7 +18,7 @@ export const BREAK_GLASS = "--break-the-glass"
 
 const NOTHING = "nothing was judged and nothing was written"
 
-const PROGRAMMATIC = "no check ran: this landing was made by a program rather than by an agent"
+const MECHANICAL = "no check ran: this landing was made by a program rather than by an agent"
 
 const ABSENT: ReadonlySet<string> = new Set(["ENOENT", "ENOTDIR"])
 
@@ -178,8 +178,8 @@ function bypassIn(given: Given, asked: Asked): Bypass | null {
     const said = `no check ran — the glass was broken for: ${asked.glass}`
     return { reason: asked.glass, said }
   }
-  if (given.programmatic !== true) return null
-  return { reason: PROGRAMMATIC, said: PROGRAMMATIC }
+  if (given.mechanical !== true) return null
+  return { reason: MECHANICAL, said: MECHANICAL }
 }
 
 function messageWith(asked: Asked, bypass: Bypass | null, broken: string | null): string {
@@ -353,14 +353,14 @@ export function landingAsked(given: Given, asked: Asked): Answer {
   }
 }
 
-export function landedProgrammatically(
+export function landedMechanically(
   root: string,
   calledAs: string,
   changes: readonly FileEdit[],
   message: string
 ): Answer {
   return landingAsked(
-    { root, calledAs, from: root, writer: null, agentId: null, programmatic: true },
+    { root, calledAs, from: root, writer: null, agentId: null, mechanical: true },
     { changes, message, dryRun: false, glass: null, unmoved: [], saying: wroteAndTook }
   )
 }

@@ -1,6 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
-import { landedProgrammatically } from "@akasha/command-system/asking"
+import { landedMechanically } from "@akasha/command-system/asking"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { dropReadings } from "@akasha/command-system/reading"
 import { listedAt, listedById } from "@akasha/indexes"
@@ -70,7 +70,7 @@ export function seatNamedIn(root: string, seatId: string): string | null {
 }
 
 function handed(root: string, changes: readonly FileEdit[], message: string): boolean {
-  return landedProgrammatically(root, CALLED_AS, changes, message).code === 0
+  return landedMechanically(root, CALLED_AS, changes, message).code === 0
 }
 
 export function wrote(root: string, seatName: string, own: string, dispatchedAs: string): boolean {
