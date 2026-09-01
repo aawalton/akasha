@@ -1,11 +1,9 @@
-import { spawnSync } from "node:child_process"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { bytes, ran } from "@akasha/utils-run/running"
 import { SCRATCH_AT } from "../scratching/scratching.module.code.ts"
 
 const OBJECT_ID = /^[0-9a-f]{40,64}$/
-
-const HELD_AT_MOST = 64 * 1024 * 1024
 
 const DIFFERING_AT = "akasha-differing-"
 
@@ -23,30 +21,27 @@ const DIFFERED = 1
 
 export function bodyRead(root: string, oid: string): Uint8Array | null {
   if (!OBJECT_ID.test(oid)) return null
-  const run = spawnSync("git", ["-C", root, "cat-file", "blob", oid], { maxBuffer: HELD_AT_MOST })
-  if (run.status !== 0 || run.stdout === null) return null
-  return new Uint8Array(run.stdout)
+  const run = bytes(["git", "-C", root, "cat-file", "blob", oid])
+  if (run.code !== 0) return null
+  return run.out
 }
 
 function saidOver(dir: string): string | null {
-  const run = spawnSync(
+  const run = ran([
     "git",
-    [
-      "-C",
-      dir,
-      "diff",
-      "--no-ext-diff",
-      "--no-textconv",
-      "--no-color",
-      "--no-index",
-      "--unified=1",
-      "--",
-      BEFORE,
-      AFTER,
-    ],
-    { encoding: "utf8", maxBuffer: HELD_AT_MOST }
-  )
-  return run.status === DIFFERED && run.stdout !== null ? run.stdout : null
+    "-C",
+    dir,
+    "diff",
+    "--no-ext-diff",
+    "--no-textconv",
+    "--no-color",
+    "--no-index",
+    "--unified=1",
+    "--",
+    BEFORE,
+    AFTER,
+  ])
+  return run.code === DIFFERED ? run.out : null
 }
 
 export function differenceOf(was: Uint8Array, now: Uint8Array): string | null {
