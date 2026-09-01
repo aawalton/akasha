@@ -1,7 +1,7 @@
-import type { PageCondition, PageWhere } from "@shared/pages-core/page-types"
-import { isBlocksValueEmpty } from "@shared/pages-core/property-types/rich-document"
-import type { PropertyValue } from "@shared/pages-core/property-types/types"
-import { pageHasNonEmptyContentKey } from "@shared/pages-core/schema/content-tier"
+import type { PageCondition, PageWhere } from "@akasha/pages-core/page-types"
+import { isBlocksValueEmpty } from "@akasha/pages-core/property-types/rich-document"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
+import { pageHasNonEmptyContentKey } from "@akasha/pages-core/schema/content-tier"
 import { asRecord } from "../../collection/page-row/page-row.module.code.ts"
 
 function asPropertyValue(v: unknown): PropertyValue {

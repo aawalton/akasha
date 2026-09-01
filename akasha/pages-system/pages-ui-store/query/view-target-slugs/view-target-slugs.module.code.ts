@@ -1,7 +1,7 @@
-import { collectResolutionTargetTypeIds } from "@shared/pages-core/property-types/resolution-target-types"
-import type { PageTypePropertiesMap } from "@shared/pages-core/property-types/rollup"
-import type { ViewDataJSON } from "@shared/pages-core/schema/view-data"
-import type { PropertyDefinition } from "@shared/pages-core/types"
+import { collectResolutionTargetTypeIds } from "@akasha/pages-core/property-types/resolution-target-types"
+import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
+import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 
 export interface ViewTargetSlugs {
   readonly gating: readonly string[]

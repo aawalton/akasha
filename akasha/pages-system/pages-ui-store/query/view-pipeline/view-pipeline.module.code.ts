@@ -1,6 +1,6 @@
-import type { PageWhere } from "@shared/pages-core/page-types"
-import type { PageTypePropertiesMap } from "@shared/pages-core/property-types/rollup"
-import type { PageDataJSON, PropertyDefinition } from "@shared/pages-core/types"
+import type { PageWhere } from "@akasha/pages-core/page-types"
+import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
+import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { type Collection, createLiveQueryCollection } from "@tanstack/db"
 import {
   asPageRecord,

@@ -1,4 +1,4 @@
-import { applyJsonPatch } from "@shared/pages-core/json-patch/apply"
+import { applyJsonPatch } from "@akasha/pages-core/json-patch/apply"
 import type { Json } from "@shared/supabase-database/generated/database"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { type Collection, createOptimisticAction, type WritableDeep } from "@tanstack/db"
