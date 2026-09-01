@@ -4,7 +4,7 @@ export const contactFormatsAreNamedLooselyAndCheckedNowhere = {
   id: "01a05a1c-4d80-7000-9c31-6f2a1b7e4d05",
   pageTypeSlug: "finding",
   slug: "contact-formats-are-named-loosely-and-checked-nowhere",
-  domainSlug: "domain/pages-system",
+  domainSlug: "workspace-package/pages-system",
   claim:
     "The two contact property types state their formats in prose that names no standard precisely enough to validate against, and no code validates a value of either type.",
   evidence:

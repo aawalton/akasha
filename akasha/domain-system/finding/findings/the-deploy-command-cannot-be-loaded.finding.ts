@@ -4,7 +4,7 @@ export const theDeployCommandCannotBeLoaded = {
   id: "01a05ac5-35e4-7adb-a3f7-7c84f5b4bc5d",
   pageTypeSlug: "finding",
   slug: "the-deploy-command-cannot-be-loaded",
-  domainSlug: "domain/service-system",
+  domainSlug: "workspace-package/service-system",
   claim:
     "`ops deploy` cannot be loaded, so no cluster service can be put up from this repo. Its entry point imports two modules that were deleted on purpose, and it is the only thing anywhere that builds or restarts a web app; CI has no twin of it. Every site therefore keeps serving whatever build its pod happens to hold, and there is no path to a new one.",
   evidence:

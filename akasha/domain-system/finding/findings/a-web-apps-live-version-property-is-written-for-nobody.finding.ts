@@ -4,7 +4,7 @@ export const aWebAppsLiveVersionPropertyIsWrittenForNobody = {
   id: "01a05ac5-35e4-7a97-b24a-3ba38c12d9e4",
   pageTypeSlug: "finding",
   slug: "a-web-apps-live-version-property-is-written-for-nobody",
-  domainSlug: "domain/service-system",
+  domainSlug: "workspace-package/service-system",
   claim:
     "The `live-version` and `deployed-at` properties on a web app page have no reader left. They were written by the deploy command and read back by `/api/live-version`, which now answers out of the running build instead. Whether the properties are kept as a record of when a deploy last ran, or go with the writer that can no longer run, is undecided.",
   evidence:

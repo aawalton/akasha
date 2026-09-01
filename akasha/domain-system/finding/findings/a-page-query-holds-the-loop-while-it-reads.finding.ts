@@ -4,7 +4,7 @@ export const aPageQueryHoldsTheLoopWhileItReads = {
   id: "01a05ab8-fce9-7775-97fa-12c758702008",
   pageTypeSlug: "finding",
   slug: "a-page-query-holds-the-loop-while-it-reads",
-  domainSlug: "domain/pages-system",
+  domainSlug: "workspace-package/pages-system",
   claim:
     "A page query is answered while another is still being answered, and it holds because Bun.serve gives each socket its own task rather than because answering ever yields. Answering a question reads a whole index file and parses every line of it without yielding once, so while one answer is being worked out nothing else moves. The cost is small today and grows with the pages of one page type. Whether the read path should stop holding the loop has not been decided.",
   evidence:
