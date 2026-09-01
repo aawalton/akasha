@@ -46,7 +46,7 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement:
-        "An import the change adds or takes away is judged at the folder holding what the import reaches up to the folder holding the importer too.",
+        "An import the change adds or takes away is judged at the folder the import reaches.",
     },
     {
       invariantKind: "departure",

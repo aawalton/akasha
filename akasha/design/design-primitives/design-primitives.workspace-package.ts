@@ -69,8 +69,7 @@ export const designPrimitives = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement:
-        "`manifest-names-what-is-reached` reads `.ts` and not `.tsx` so this manifest leaves out the seven packages only a `.tsx` module here reaches.",
+      statement: "This manifest leaves out the seven packages only a `.tsx` module here reaches.",
     },
     {
       invariantKind: "gap",

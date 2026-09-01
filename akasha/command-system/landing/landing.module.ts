@@ -22,7 +22,7 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "The bodies the change does not touch are read through one git process for the whole judging rather than through one git process for each body.",
+        "The bodies the change does not touch are read through one git process for the whole judging.",
     },
     {
       invariantKind: "departure",

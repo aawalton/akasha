@@ -60,8 +60,7 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An index that cannot say which properties are held in a file refuses the run rather than reading as an index naming no properties and judging every property file a page.",
+      statement: "An index that cannot say which properties a file holds refuses the run.",
     },
     {
       invariantKind: "departure",

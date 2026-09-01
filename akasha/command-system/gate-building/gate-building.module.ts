@@ -32,7 +32,7 @@ export const gateBuilding = {
     {
       invariantKind: "departure",
       statement:
-        "A change judged in a scratch tree is judged by the checks standing at the root this code stands under rather than by whatever stands in the scratch tree.",
+        "A change judged in a scratch tree is judged by the checks at this code's own root.",
     },
     {
       invariantKind: "departure",

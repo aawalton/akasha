@@ -14,8 +14,7 @@ export const propertyPagesOnly = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page is a property by the page type that page states extending `page-property` however far above that page type `page-property` stands rather than by what the page's file is named.",
+      statement: "A page is a property where `page-property` is anywhere above its page type.",
     },
     {
       invariantKind: "departure",

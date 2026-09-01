@@ -67,7 +67,7 @@ export const pageMatchesItsType = {
     {
       invariantKind: "departure",
       statement:
-        "A text property stating a name format has each value of that text property judged by that format's own code rather than by a shape written here.",
+        "A text property stating a name format has every value judged by that format's own code.",
     },
     {
       invariantKind: "constraint",

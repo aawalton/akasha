@@ -11,7 +11,7 @@ export const codeRule = {
     {
       invariantKind: "departure",
       statement:
-        "Two functions say the same thing when their shape is the same once every name a function binds is read as the order the function binds the names.",
+        "Two functions say the same thing when their shapes match with each bound name read as its order.",
     },
     {
       invariantKind: "departure",
