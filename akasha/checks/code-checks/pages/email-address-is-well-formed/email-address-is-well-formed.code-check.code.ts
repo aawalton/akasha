@@ -1,8 +1,5 @@
-import { pageTypesIn } from "@akasha/indexes/entries"
 import { namesIn } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
-import { kindsUnder } from "@akasha/pages-system/page-type-descent"
-import { propertiesOf } from "@akasha/pages-system/page-type-properties"
 import { textAt, type Value } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -56,7 +53,7 @@ export function keyingIn(under: ReadonlySet<string>, shadow: Shadow): Keying {
     const found = held.get(pageTypeSlug)
     if (found !== undefined) return found
     const made: Keyed[] = []
-    for (const one of propertiesOf(pageTypeSlug, shadow.reading, shadow.pageOf)) {
+    for (const one of shadow.index.propertiesOf(pageTypeSlug, shadow.pageOf)) {
       if (under.has(one.pageTypeSlug)) made.push({ propertySlug: one.propertySlug, key: one.key })
     }
     held.set(pageTypeSlug, made)
@@ -78,9 +75,9 @@ export function reasonsIn(path: string, value: Value, keying: Keying): readonly 
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const carried = carriedBy(change, pageTypesIn(shadow.reading))
+  const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (carried.length === 0) return []
-  const under = kindsUnder(change.root, ADDRESS, shadow.reading, shadow.pageOf)
+  const under = shadow.index.kindsUnder(change.root, ADDRESS, shadow.pageOf)
   const keying = keyingIn(under, shadow)
   const said: Judged[] = []
   for (const one of carried) said.push(...reasonsIn(one.path, one.value, keying))
