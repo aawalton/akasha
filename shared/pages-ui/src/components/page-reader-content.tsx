@@ -21,7 +21,7 @@ import {
   decideRestoreReady,
   fractionToScrollTop,
   resolveResumeFraction,
-} from "./position-fraction"
+} from "@akasha/pages-ui/components/position-fraction"
 import { ReaderAudioBlock } from "./reader-audio-block"
 import { type ReaderNeighborLink, ReaderPager, ReadingProgressBar } from "./reader-chrome"
 import { useReaderPageSource } from "./reader-page-source"

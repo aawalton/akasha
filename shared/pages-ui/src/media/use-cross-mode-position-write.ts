@@ -1,5 +1,5 @@
 import { type RefObject, useEffect } from "react"
-import { POSITION_WRITE_EPSILON, timeToFraction } from "../components/position-fraction"
+import { POSITION_WRITE_EPSILON, timeToFraction } from "@akasha/pages-ui/components/position-fraction"
 import { emitPositionWrite } from "../components/position-write-event"
 import { computeReadProgress } from "../components/read-progress"
 import type { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"

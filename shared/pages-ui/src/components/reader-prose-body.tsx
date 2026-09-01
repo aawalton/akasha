@@ -3,7 +3,7 @@
 import { cn } from "@akasha/design-primitives/cn"
 import { useWindowVirtualizer } from "@tanstack/react-virtual"
 import { memo, type RefObject, useImperativeHandle, useMemo, useRef } from "react"
-import { clampFraction, fractionToScrollTop } from "./position-fraction"
+import { clampFraction, fractionToScrollTop } from "@akasha/pages-ui/components/position-fraction"
 import {
   blockPositionForFraction,
   buildProseCharTable,

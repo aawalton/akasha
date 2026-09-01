@@ -17,7 +17,7 @@ import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 import type { PageRow } from "../view-engine/page-row"
-import { type BoardColumnRect, computeBoardDropColumn } from "./page-board-dnd-helpers"
+import { type BoardColumnRect, computeBoardDropColumn } from "@akasha/pages-ui/components/page-board-dnd-helpers"
 import type { ServerGroupedSection } from "./page-system-view-types"
 
 interface PageBoardProps {
