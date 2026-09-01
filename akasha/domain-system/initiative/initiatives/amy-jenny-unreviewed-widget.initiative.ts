@@ -25,11 +25,6 @@ export const amyJennyUnreviewedWidget = {
     { statement: "`pages-ui` stands in akasha." },
     { statement: "The source of Alan's site stands in akasha." },
     {
-      statement: "An akasha command puts up the web app a page describes.",
-      workingMemory:
-        "Landed as `akasha deploy <web-app>` in command-system/command/deploy, over web-app-reading, workload-deploying and web-app-building. It reads the web app page, the cluster service page it names, and the code beside that page; it refuses two names, a slug no page carries, and a page naming two services. `kubectl diff` says whether each manifest stands. It builds now as well, so no-web-app-in-the-repository-can-be-built no longer holds.",
-    },
-    {
       statement: "The reading is taken by a process running on a workstation rather than by a pod.",
       workingMemory:
         "The workstation half is done: `monarch-reading-service` stands under alan-harness, installed and enabled, a oneshot on `*:0/5` sourcing the secrets file and running the reading module's own `import.meta.main`. Two halves remain, both filed. The pod still takes its own reading at `api.categorization.ts:21-24`, which is the next intent. And no reading reaches a pod, because the store reads out of the commit and a reading is never committed. The cookie 401s, so nothing live is proved.",
