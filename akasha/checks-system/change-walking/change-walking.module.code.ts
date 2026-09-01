@@ -57,7 +57,7 @@ const CSS_ENDING = `.${CSS}`
 
 const PAGE_TYPES = new WeakMap<Shadow, ReadonlySet<string>>()
 
-function standingIn(change: Change): readonly Body[] {
+function bodiesIn(change: Change): readonly Body[] {
   const found: Body[] = []
   for (const path of change.changed) {
     const bytes = change.after(path)
@@ -78,7 +78,7 @@ function pageTypesFor(shadow: Shadow): ReadonlySet<string> {
 export const FILES: Selector<Body> = {
   named: "files",
   isInput: () => true,
-  from: (change) => standingIn(change),
+  from: (change) => bodiesIn(change),
 }
 
 export function textNamed(path: string): boolean {
@@ -99,7 +99,7 @@ function textsBy(named: string, taken: (path: string) => boolean): Selector<Text
     isInput: (path) => taken(path),
     from: (change) => {
       const found: Text[] = []
-      for (const given of standingIn(change)) {
+      for (const given of bodiesIn(change)) {
         if (!taken(given.path)) continue
         found.push({ root: given.root, path: given.path, text: bodyOf(given) })
       }
@@ -131,7 +131,7 @@ export const PAGES: Selector<Paged> = {
   isInput: pagedInside,
   from: (change, shadow) => {
     const found: Paged[] = []
-    for (const given of standingIn(change)) {
+    for (const given of bodiesIn(change)) {
       if (!pagedInside(given.path, shadow)) continue
       found.push({ root: given.root, path: given.path, value: loadedFrom(bodyOf(given)) })
     }
@@ -200,7 +200,7 @@ export function overEachFile(
   judge: (given: Body) => readonly string[]
 ): readonly Judged[] {
   const said: Judged[] = []
-  for (const given of standingIn(change)) {
+  for (const given of bodiesIn(change)) {
     for (const reason of judge(given)) said.push({ path: given.path, reason })
   }
   return said
