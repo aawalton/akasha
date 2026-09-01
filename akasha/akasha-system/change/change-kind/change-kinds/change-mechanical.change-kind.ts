@@ -7,4 +7,10 @@ export const changeMechanical = {
   definition: "a change composed by a program",
   runsChecks: false,
   runsWarrants: false,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A fault a mechanical change lands is a fault in the program that composed it.",
+    },
+  ],
 } as const satisfies ChangeKind
