@@ -114,7 +114,7 @@ export function listedAlsoFiled(
   adding(root, join(indexIdentity.name, pageTypeSlug, SLUG, slug), lines)
 }
 
-export function standingFiledIn(root: string, pageTypeSlug: string, slug: string): boolean {
+export function listedFiledIn(root: string, pageTypeSlug: string, slug: string): boolean {
   return identityStanding(root, pageTypeSlug, SLUG, slug)
 }
 

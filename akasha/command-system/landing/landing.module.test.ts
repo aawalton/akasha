@@ -7,7 +7,7 @@ import {
   fileWhereTheIndexStands,
   identitiesStandingIn,
   idFiledIn,
-  standingFiledIn,
+  listedFiledIn,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { rebuiltFrom } from "../../pages-system/indexes/indexing/indexing.module.code.ts"
 import { butTheStamp } from "../../pages-system/indexes/indexing/indexing.module.test-fixtures.ts"
@@ -129,7 +129,7 @@ test("a landing that takes a page away takes its index entries with it", () => {
   expect(idFiledIn(root, ID)).toBe(true)
   landing(root, [{ path: "akasha/a.domain.ts", body: null }], "held", ADMITS)
   expect(idFiledIn(root, ID)).toBe(false)
-  expect(standingFiledIn(root, "domain", "a")).toBe(false)
+  expect(listedFiledIn(root, "domain", "a")).toBe(false)
   expect(identitiesStandingIn(root, "domain")).toBe(false)
 })
 

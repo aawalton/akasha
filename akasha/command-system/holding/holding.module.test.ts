@@ -4,7 +4,7 @@ import { join } from "node:path"
 import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
 import {
   idFiledIn,
-  standingFiledIn,
+  listedFiledIn,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { bytesOf as bytes } from "../../testing-system/bodying/bodying.module.code.ts"
 import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
@@ -124,7 +124,7 @@ test("landings at once each land, and none takes another back", async () => {
   expect(git(root, ["rev-list", "--count", `${was}..HEAD`]).trim()).toBe(String(AT_ONCE.length))
   for (const one of AT_ONCE) {
     expect(idFiledIn(root, idOf(one))).toBe(true)
-    expect(standingFiledIn(root, "domain", one)).toBe(true)
+    expect(listedFiledIn(root, "domain", one)).toBe(true)
   }
 })
 

@@ -10,10 +10,10 @@ import {
   everythingFiled,
   importUnreadableFiled,
   indexTakenFrom,
+  listedFiledIn,
   rebuiltApart,
   rebuiltIn,
   stampStandingIn,
-  standingFiledIn,
   standingTakenFrom,
   standingUnreadableFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
@@ -202,7 +202,7 @@ test("`index refresh` is reached through an index that will not parse", async ()
   })
   expect(answer.refusals).toEqual([])
   expect(answer.code).toBe(OK)
-  expect(standingFiledIn(root, "command", "index")).toBe(false)
+  expect(listedFiledIn(root, "command", "index")).toBe(false)
 })
 
 test("a damaged index is put back to what a clean rebuild builds", () => {
@@ -249,7 +249,7 @@ test("`--unlanded` builds over the worktree, and the stamp names what stands apa
   )
   const answer = index(["refresh", "--unlanded"], givenAt(root))
   expect(answer.code).toBe(OK)
-  expect(standingFiledIn(root, "domain", "b")).toBe(true)
+  expect(listedFiledIn(root, "domain", "b")).toBe(true)
   expect(said(answer)).toContain("stand apart from HEAD and the stamp names them")
   expect(stampStandingIn(root)?.settled).toEqual([`${AKASHA}/b.domain.ts`])
 })
