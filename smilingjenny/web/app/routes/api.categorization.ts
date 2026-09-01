@@ -1,4 +1,4 @@
-import { answerReadout } from "@akasha/readout-system/readout-categorization"
+import { answerReadout } from "@akasha/readout-system/readout-serving"
 import { ringCredential } from "~/lib/ring-credential.server"
 import type { Route } from "./+types/api.categorization"
 

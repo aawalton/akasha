@@ -1,4 +1,4 @@
-import { refuseUncredentialedRingCaller as refuseUncredentialed } from "@akasha/readout-system/readout-categorization"
+import { refuseUncredentialedRingCaller as refuseUncredentialed } from "@akasha/readout-system/readout-serving"
 
 const RING_CREDENTIAL_NAME = "SMILINGJENNY_RING_CREDENTIAL"
 

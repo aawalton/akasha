@@ -1,4 +1,4 @@
-import { answerReadoutAdmittedBy } from "@akasha/readout-system/readout-categorization"
+import { answerReadoutAdmittedBy } from "@akasha/readout-system/readout-serving"
 import { guardReadout } from "~/readout-credential/lib/readout-credential.server"
 import type { Route } from "./+types/api.categorization"
 

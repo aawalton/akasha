@@ -1,4 +1,4 @@
-import { NO_READING } from "@akasha/readout-system/readout-categorization"
+import { NO_READING } from "@akasha/readout-system/readout-serving"
 import { refuseUncredentialedRingCaller } from "~/lib/ring-credential.server"
 import type { Route } from "./+types/api.surplus"
 
