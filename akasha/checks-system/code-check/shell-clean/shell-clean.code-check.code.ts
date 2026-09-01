@@ -1,6 +1,7 @@
 import { worldOf } from "@akasha/code-system/code-tests"
 import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
+import { ran } from "@akasha/utils-run/running"
 import type { Body, Selector } from "../../change-walking/change-walking.module.code.ts"
 import { everyFileIn, FILES, input } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
@@ -92,15 +93,15 @@ export function lookedOver(root: string, named: readonly string[], at: string | 
   if (at === null) {
     return { found: [], failed: `no \`${TOOL}\` stands on PATH, so nothing was looked at` }
   }
-  const done = Bun.spawnSync([at, ...ARGV, ...named], { cwd: root, stdout: "pipe", stderr: "pipe" })
-  if (!JUDGED.has(done.exitCode)) {
-    const why = done.stderr.toString().trim().slice(0, SAID_AT_MOST)
+  const done = ran([at, ...ARGV, ...named], { cwd: root })
+  if (!JUDGED.has(done.code)) {
+    const why = done.err.trim().slice(0, SAID_AT_MOST)
     return {
       found: [],
-      failed: `\`${TOOL}\` exited ${done.exitCode} and looked at nothing — ${why}`,
+      failed: `\`${TOOL}\` exited ${done.code} and looked at nothing — ${why}`,
     }
   }
-  const found = foundIn(done.stdout.toString())
+  const found = foundIn(done.out)
   if (found === null) {
     return { found: [], failed: `the \`json1\` answer \`${TOOL}\` gave could not be read` }
   }
