@@ -1,3 +1,12 @@
+import type { Value } from "@akasha/pages-system/page-value"
+import type { Row } from "@akasha/pages-system-service/asking"
+import {
+  askingFor,
+  type Fetcher,
+  type Sleeper,
+  writingFor,
+} from "@akasha/pages-system-service/calling"
+
 export type ErrorCapturePayload = {
   fingerprint: string
   message: string
@@ -9,17 +18,83 @@ export type ErrorCapturePayload = {
   releaseSha?: string
 }
 
-const NO_ERROR_PAGE_TYPE =
-  "a capture read the error page already filed under a fingerprint, raised its count and wrote the whole page back. `@akasha/pages-system-service` answers for the pages akasha holds, and akasha declares no `error` page type, so there is no page to read and none to write."
+export type Captured = {
+  readonly slug: string
+  readonly commit: string | null
+}
 
-const BELONGS =
-  "Filing a client error as a page needs an `error` page type in akasha, and then a read and a write through `@akasha/pages-system-service`. Until that page type is declared, an error reaching this route goes nowhere."
+export const PAGE_TYPE = "error"
+
+export const ERROR_CAPTURE_WRITER = "error capture <errors@alanwalton.com>"
+
+export function slugFor(payload: ErrorCapturePayload): string {
+  return `${payload.app}-${payload.fingerprint}`
+}
+
+export function firstValuesFor(payload: ErrorCapturePayload, at: string): Value {
+  const held: Value = {
+    pageTypeSlug: PAGE_TYPE,
+    slug: slugFor(payload),
+    fingerprint: payload.fingerprint,
+    app: payload.app,
+    kind: payload.kind,
+    message: payload.message,
+    userAgent: payload.userAgent,
+    firstSeenAt: at,
+    lastSeenAt: at,
+    count: 1,
+  }
+  if (payload.url !== "") held.url = payload.url
+  if (payload.releaseSha !== undefined) held.releaseSha = payload.releaseSha
+  return held
+}
+
+export function againValuesFor(row: Row, at: string): Value {
+  const held: Value = { ...row, lastSeenAt: at }
+  const was = row.count
+  if (typeof was === "number") held.count = was + 1
+  else delete held.count
+  return held
+}
 
 export async function captureError(
   payload: ErrorCapturePayload,
-  _writer?: string
-): Promise<{ id: string }> {
-  throw new Error(
-    `captureError(${payload.fingerprint}): ${NO_ERROR_PAGE_TYPE} ${BELONGS} Nothing has been written, and how many times this has broken this way is unchanged.`
+  writer: string = ERROR_CAPTURE_WRITER,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<Captured> {
+  const slug = slugFor(payload)
+  const at = new Date().toISOString()
+  const asked = await askingFor(
+    { pageTypeSlug: PAGE_TYPE, where: { slug: { is: slug } }, limit: 1 },
+    fetcher,
+    naps
   )
+  if ("refused" in asked) {
+    throw new Error(
+      `captureError(${slug}): the pages would not say what is already filed under this fingerprint, so nothing was raised — ${asked.refused}`
+    )
+  }
+  const row = asked.rows[0]
+  const wrote = await writingFor(
+    {
+      writer,
+      message: row === undefined ? `${slug} was met for the first time` : `${slug} was met again`,
+      pages: [
+        {
+          pageTypeSlug: PAGE_TYPE,
+          slug,
+          values: row === undefined ? firstValuesFor(payload, at) : againValuesFor(row, at),
+        },
+      ],
+    },
+    fetcher,
+    naps
+  )
+  if ("refused" in wrote) {
+    throw new Error(
+      `captureError(${slug}): the pages refused the write, so how often this has broken is unchanged — ${wrote.refused}`
+    )
+  }
+  return { slug, commit: wrote.commit }
 }
