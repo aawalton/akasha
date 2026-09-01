@@ -3,7 +3,7 @@ import { READOUT_CACHE_CONTROL } from "@akasha/readout-system/readout-credential
 import { readingAged, STALE_AFTER_MS } from "@akasha/readout-system/readout-reading"
 import { relayedHeld } from "@akasha/readout-system/readout-relay"
 import { readNoneLeft } from "@akasha/readout-system/readout-none-left"
-import { guardRingReadout } from "~/readout-credential/lib/readout-credential.server"
+import { guardReadout } from "~/readout-credential/lib/readout-credential.server"
 import type { Route } from "./+types/api.categorization"
 
 const UNREVIEWED_READOUT_SLUG = "unreviewed"
@@ -17,7 +17,7 @@ function unreviewedRelayed(now: Date = new Date()): number | null {
 }
 
 export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
-  const refusal = await guardRingReadout(request)
+  const refusal = await guardReadout(request)
   if (refusal !== null) return refusal
 
   const unreviewed = unreviewedRelayed()

@@ -1,8 +1,4 @@
-import {
-  buildReadoutRefusal,
-  presentsSecret,
-  RELAY_SECRET_HEADER,
-} from "@akasha/readout-system/readout-credential"
+import { buildReadoutRefusal } from "@akasha/readout-system/readout-credential"
 import {
   type DeviceSecretContext,
   resolveDeviceSecretContext,
@@ -19,16 +15,4 @@ export async function guardReadout(
   if (!credential.authenticated) return buildReadoutRefusal()
   const permitted = await holdsRouteAccess(credential.userId, ROUTE_TARGETS.READOUT_FEED)
   return permitted ? null : buildReadoutRefusal()
-}
-
-function presentsRelaySecret(request: Request): boolean {
-  return presentsSecret(request, RELAY_SECRET_HEADER, process.env.SMILINGJENNY_RELAY_SECRET)
-}
-
-export async function guardRingReadout(
-  request: Request,
-  resolveCredential: DeviceSecretResolver = resolveDeviceSecretContext
-): Promise<Response | null> {
-  if (presentsRelaySecret(request)) return null
-  return guardReadout(request, resolveCredential)
 }
