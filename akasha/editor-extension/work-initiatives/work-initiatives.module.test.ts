@@ -38,12 +38,7 @@ function worldFor(typeSlug: string = INITIATIVE): string {
   return root
 }
 
-function standing(
-  root: string,
-  slug: string,
-  id: string,
-  typeSlug: string = INITIATIVE
-): undefined {
+function filing(root: string, slug: string, id: string, typeSlug: string = INITIATIVE): undefined {
   listedFiled(root, typeSlug, slug, [{ path: pathFor(slug, typeSlug), id }])
 }
 
@@ -53,14 +48,14 @@ function under(root: string, child: string, parent: string): undefined {
 
 test("every initiative the index files is drawn", () => {
   const root = worldFor()
-  standing(root, "amy-one", ONE)
-  standing(root, "amy-two", TWO)
+  filing(root, "amy-one", ONE)
+  filing(root, "amy-two", TWO)
   expect(initiativesDrawn(root).map((one) => one.slug)).toEqual(["amy-one", "amy-two"])
 })
 
 test("every initiative is drawn though the page type saying what one is carries another slug", () => {
   const root = worldFor("endeavour")
-  standing(root, "amy-one", ONE, "endeavour")
+  filing(root, "amy-one", ONE, "endeavour")
   expect(initiativesDrawn(root).map((one) => one.slug)).toEqual(["amy-one"])
 })
 
@@ -82,8 +77,8 @@ test("an index naming no page type for initiatives refuses rather than drawing n
 
 test("the edge is filed under the parent, so the child is the one that stands under", () => {
   const root = worldFor()
-  standing(root, "amy-parent", ONE)
-  standing(root, "amy-child", TWO)
+  filing(root, "amy-parent", ONE)
+  filing(root, "amy-child", TWO)
   under(root, TWO, ONE)
   const drawn = initiativesDrawn(root)
   expect(drawn.find((one) => one.slug === "amy-child")?.parent).toBe("amy-parent")
@@ -92,22 +87,22 @@ test("the edge is filed under the parent, so the child is the one that stands un
 
 test("an initiative naming no parent stands under none", () => {
   const root = worldFor()
-  standing(root, "amy-one", ONE)
+  filing(root, "amy-one", ONE)
   expect(initiativesDrawn(root)[0]?.parent).toBe(null)
 })
 
 test("a parent the index files no initiative for stands under none", () => {
   const root = worldFor()
-  standing(root, "amy-two", TWO)
+  filing(root, "amy-two", TWO)
   under(root, TWO, THREE)
   expect(initiativesDrawn(root)[0]?.parent).toBe(null)
 })
 
 test("an initiative standing under two stands under none", () => {
   const root = worldFor()
-  standing(root, "amy-one", ONE)
-  standing(root, "amy-two", TWO)
-  standing(root, "amy-three", THREE)
+  filing(root, "amy-one", ONE)
+  filing(root, "amy-two", TWO)
+  filing(root, "amy-three", THREE)
   under(root, THREE, ONE)
   under(root, THREE, TWO)
   const drawn = initiativesDrawn(root)
@@ -116,9 +111,9 @@ test("an initiative standing under two stands under none", () => {
 
 test("a parent standing under two children keeps each of them under it", () => {
   const root = worldFor()
-  standing(root, "amy-one", ONE)
-  standing(root, "amy-two", TWO)
-  standing(root, "amy-three", THREE)
+  filing(root, "amy-one", ONE)
+  filing(root, "amy-two", TWO)
+  filing(root, "amy-three", THREE)
   under(root, TWO, ONE)
   under(root, THREE, ONE)
   const drawn = initiativesDrawn(root)
@@ -142,7 +137,7 @@ function pageAt(root: string, slug: string, body: string): undefined {
 
 test("a persona is read out of the page the index named", () => {
   const root = worldFor()
-  standing(root, "amy-one", ONE)
+  filing(root, "amy-one", ONE)
   pageAt(
     root,
     "amy-one",
@@ -153,13 +148,13 @@ test("a persona is read out of the page the index named", () => {
 
 test("a page the index named but no file holds answers no persona", () => {
   const root = worldFor()
-  standing(root, "amy-one", ONE)
+  filing(root, "amy-one", ONE)
   expect(initiativesDrawn(root)[0]?.persona).toBe(null)
 })
 
 test("a page stating no persona answers none", () => {
   const root = worldFor()
-  standing(root, "amy-one", ONE)
+  filing(root, "amy-one", ONE)
   pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
   expect(initiativesDrawn(root)[0]?.persona).toBe(null)
 })
