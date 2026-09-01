@@ -1,4 +1,4 @@
-import { buildBrowserLaunchEnv } from "@shared/browser-launch-env"
+import { buildBrowserLaunchEnv } from "@akasha/browser-launch-env"
 import { signInWithPassword } from "@shared/supabase-auth/auth"
 import type { Database } from "@shared/supabase-database/generated/database"
 import { createClient } from "@supabase/supabase-js"

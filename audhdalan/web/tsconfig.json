@@ -42,12 +42,6 @@
     },
     {
       "path": "../../shared/errors-core"
-    },
-    {
-      "path": "../../shared/web-security-headers"
-    },
-    {
-      "path": "../../shared/web-static-assets"
     }
   ],
   "include": [

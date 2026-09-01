@@ -9,7 +9,7 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
-    "@shared/browser-launch-env": "workspace:*",
+    "@akasha/browser-launch-env": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",

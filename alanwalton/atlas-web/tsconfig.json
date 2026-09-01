@@ -60,12 +60,6 @@
     },
     {
       "path": "../../shared/web-build-sha"
-    },
-    {
-      "path": "../../shared/web-security-headers"
-    },
-    {
-      "path": "../../shared/web-static-assets"
     }
   ],
   "include": [

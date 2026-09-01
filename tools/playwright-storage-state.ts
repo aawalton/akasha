@@ -5,7 +5,7 @@ export const tool = {
 
 import { chmodSync, mkdirSync } from "node:fs"
 import { dirname } from "node:path"
-import { buildBrowserLaunchEnv } from "@shared/browser-launch-env"
+import { buildBrowserLaunchEnv } from "@akasha/browser-launch-env"
 import {
   assertCredentialPathAllowed,
   isInvalidCredentialsError,
