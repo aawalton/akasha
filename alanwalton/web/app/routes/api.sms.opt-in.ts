@@ -1,7 +1,7 @@
 import { writePage } from "@akasha/pages-query"
+import { CONSENT_TEXT_VERSION } from "@akasha/person-system/sms-consent"
 import { z } from "zod"
 import { capacitorCorsHeaders } from "~/lib/capacitor-cors"
-import { CONSENT_TEXT_VERSION } from "~/sms/consent-copy"
 import type { Route } from "./+types/api.sms.opt-in"
 
 const CORS_METHODS = "POST, OPTIONS"
