@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { join, relative } from "node:path"
+import { told } from "@akasha/git/git-running"
 import { stringAt } from "@akasha/utils-narrow/string-at"
-import { said as saying } from "@akasha/utils-run/running"
 
 export type Stamp = {
   readonly commit: string
@@ -50,20 +50,12 @@ export function stampTaken(at: string): undefined {
   rmSync(join(at, STAMP), { force: true })
 }
 
-function gitIn(repo: string, argv: readonly string[]): string | null {
-  try {
-    return saying(["git", "-C", repo, ...argv])
-  } catch {
-    return null
-  }
-}
-
 function pathsIn(said: string | null): readonly string[] | null {
   return said === null ? null : said.split("\0").filter((one) => one !== "")
 }
 
 export function headOf(repo: string): string | null {
-  const said = gitIn(repo, ["rev-parse", "HEAD"])
+  const said = told(repo, ["rev-parse", "HEAD"])
   return said === null ? null : said.trim()
 }
 
@@ -74,16 +66,16 @@ export function changedSince(
   tree: string
 ): readonly string[] | null {
   return pathsIn(
-    gitIn(repo, ["diff", "--name-only", "--no-renames", "-z", commit, head, "--", tree])
+    told(repo, ["diff", "--name-only", "--no-renames", "-z", commit, head, "--", tree])
   )
 }
 
 export function unlandedIn(repo: string, tree: string): readonly string[] {
   const changed = pathsIn(
-    gitIn(repo, ["diff", "--name-only", "--no-renames", "-z", "HEAD", "--", tree])
+    told(repo, ["diff", "--name-only", "--no-renames", "-z", "HEAD", "--", tree])
   )
   const untracked = pathsIn(
-    gitIn(repo, ["ls-files", "--others", "--exclude-standard", "-z", "--", tree])
+    told(repo, ["ls-files", "--others", "--exclude-standard", "-z", "--", tree])
   )
   return [...new Set([...(changed ?? []), ...(untracked ?? [])])].sort()
 }
