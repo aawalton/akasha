@@ -30,11 +30,11 @@ export const whereTesting = {
     },
     {
       invariantKind: "departure",
-      statement: "Two values order as numbers where both are numbers.",
+      statement: "Two values order as numbers where both values are numbers.",
     },
     {
       invariantKind: "departure",
-      statement: "Two values order as instants where both parse as one.",
+      statement: "Two values order as instants where both values parse as an instant.",
     },
     {
       invariantKind: "departure",

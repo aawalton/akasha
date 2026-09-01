@@ -14,7 +14,7 @@ export const noCodeComments = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A comment no program parses is prose whatever it says.",
+      statement: "A comment no program parses is prose whatever the comment says.",
     },
     {
       invariantKind: "absence",
@@ -30,7 +30,8 @@ export const noCodeComments = {
     },
     {
       invariantKind: "departure",
-      statement: "A comment in a stylesheet is found by scanning past the strings it holds.",
+      statement:
+        "A comment in a stylesheet is found by scanning past the strings the stylesheet holds.",
     },
     {
       invariantKind: "gap",

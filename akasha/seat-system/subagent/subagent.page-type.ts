@@ -31,11 +31,11 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's page stands while it runs.",
+      statement: "A subagent's page stands while the subagent runs.",
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's page goes when it returns.",
+      statement: "A subagent's page goes when the subagent returns.",
     },
     {
       invariantKind: "gap",
@@ -43,7 +43,8 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's slug is the name of the seat that ran it and the id it runs under.",
+      statement:
+        "A subagent's slug is the name of the seat that ran the subagent and the id the subagent runs under.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +68,7 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A message to a subagent dies with the session that carried it.",
+      statement: "A message to a subagent dies with the session that carried the message.",
     },
   ],
 } as const satisfies PageType

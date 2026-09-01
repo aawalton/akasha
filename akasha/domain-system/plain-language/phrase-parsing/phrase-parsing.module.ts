@@ -13,7 +13,7 @@ export const phraseParsing = {
     },
     {
       invariantKind: "departure",
-      statement: "A sentence parses where any one reading of it reaches the end.",
+      statement: "A sentence parses where any one reading of the sentence reaches the end.",
     },
     {
       invariantKind: "departure",

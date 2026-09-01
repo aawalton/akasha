@@ -34,7 +34,7 @@ export const estimateMarks = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here listens to the audio it marks.",
+      statement: "Nothing here listens to the audio this module marks.",
     },
   ],
 } as const satisfies Module

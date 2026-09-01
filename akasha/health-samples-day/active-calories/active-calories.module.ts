@@ -17,7 +17,8 @@ export const activeCalories = {
     },
     {
       invariantKind: "departure",
-      statement: "A day no reading falls in keeps whatever reading was already stored for it.",
+      statement:
+        "A day no reading falls in keeps whatever reading was already stored for that day.",
     },
     {
       invariantKind: "departure",

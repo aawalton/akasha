@@ -20,7 +20,7 @@ export const foundation = {
     {
       invariantKind: "departure",
       statement:
-        "the script header installs bun through homebrew on a mac that does not already have it",
+        "the script header installs bun through homebrew on a mac that does not already have bun",
     },
     {
       invariantKind: "constraint",

@@ -48,7 +48,7 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "Every write takes a lock keyed on the file it writes.",
+      statement: "Every write takes a lock keyed on the file that write writes.",
     },
     {
       invariantKind: "departure",
@@ -56,11 +56,11 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "The lock is taken by one create that fails where it already stands.",
+      statement: "The lock is taken by one create that fails where the lock already stands.",
     },
     {
       invariantKind: "departure",
-      statement: "The lock is released however the act inside it ends.",
+      statement: "The lock is released however the act inside the lock ends.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +68,8 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "The lock names the process that took it and the moment that process started.",
+      statement:
+        "The lock names the process that took the lock and the moment that process started.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +77,8 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "A lock naming no holder that can be read is taken once it has stood too long.",
+      statement:
+        "A lock naming no holder that can be read is taken once that lock has stood too long.",
     },
     {
       invariantKind: "departure",

@@ -11,7 +11,7 @@ export const checking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A check's page names the export it runs.",
+      statement: "A check's page names the export the check runs.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "A count of runs above none is the phase a model check runs on.",
+      statement: "A count of runs above zero is the phase a model check runs on.",
     },
     {
       invariantKind: "departure",
@@ -35,11 +35,12 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "An index naming no check refuses the change it would leave unjudged.",
+      statement: "An index naming no check refuses the change the index would leave unjudged.",
     },
     {
       invariantKind: "departure",
-      statement: "A check is run once over the change it was given rather than over the pages.",
+      statement:
+        "A check is run once over the change the check was given rather than over the pages.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +48,7 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "A path outside the akasha folder is input to no check and is judged by none.",
+      statement: "A path outside the akasha folder is input to no check and is judged by no check.",
     },
     {
       invariantKind: "departure",
@@ -75,7 +76,7 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "A check that threw refuses the change it could not judge.",
+      statement: "A check that threw refuses the change the check could not judge.",
     },
     {
       invariantKind: "departure",

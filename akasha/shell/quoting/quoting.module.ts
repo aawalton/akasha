@@ -18,11 +18,11 @@ export const quoting = {
     },
     {
       invariantKind: "departure",
-      statement: "An escaped single quote follows it.",
+      statement: "An escaped single quote follows the quoting.",
     },
     {
       invariantKind: "departure",
-      statement: "The quoting opens again after that.",
+      statement: "The quoting opens again after the escaped single quote.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const quoting = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here builds a command or runs one.",
+      statement: "Nothing here builds a command or runs a command.",
     },
   ],
 } as const satisfies Module

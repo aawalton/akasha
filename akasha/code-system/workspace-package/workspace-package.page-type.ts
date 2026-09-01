@@ -26,7 +26,7 @@ export const workspacePackage = {
     },
     {
       invariantKind: "departure",
-      statement: "A file outside the package reaches it only where the manifest names.",
+      statement: "A file outside the package reaches the package only where the manifest names.",
     },
     {
       invariantKind: "departure",

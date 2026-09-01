@@ -13,7 +13,7 @@ export const akashaType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page satisfies its type rather than being annotated with it.",
+      statement: "A page satisfies its type rather than being annotated with that type.",
     },
     {
       invariantKind: "departure",

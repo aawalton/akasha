@@ -15,7 +15,7 @@ export const testsPass = {
     {
       invariantKind: "departure",
       statement:
-        "The tests a change is judged by are the ones standing beside the files it carries.",
+        "The tests a change is judged by are the ones standing beside the files the change carries.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A test stands beside a changed file when the change answers a body for it.",
+      statement: "A test stands beside a changed file when the change answers a body for the test.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A change carrying no file with a test beside it is judged by no run.",
+      statement: "A change carrying no file with a test beside that file is judged by no run.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,7 @@ export const testsPass = {
     },
     {
       invariantKind: "absence",
-      statement: "No test is named for a file whose test does not stand beside it.",
+      statement: "No test is named for a file whose test does not stand beside that file.",
     },
     {
       invariantKind: "constraint",
@@ -69,7 +69,7 @@ export const testsPass = {
     },
     {
       invariantKind: "gap",
-      statement: "A failing run is reported against the first test file it named.",
+      statement: "A failing run is reported against the first test file the run named.",
     },
   ],
 } as const satisfies CodeCheck

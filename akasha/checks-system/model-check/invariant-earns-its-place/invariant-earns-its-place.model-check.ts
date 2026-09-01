@@ -12,11 +12,12 @@ export const invariantEarnsItsPlace = {
     {
       invariantKind: "departure",
       statement:
-        "A statement a change writes or alters is judged rather than every statement on the page it touches.",
+        "A statement a change writes or alters is judged rather than every statement on the page the change touches.",
     },
     {
       invariantKind: "departure",
-      statement: "A page whose definition a change alters has every departure on it judged again.",
+      statement:
+        "A page whose definition a change alters has every departure on that page judged again.",
     },
     {
       invariantKind: "gap",

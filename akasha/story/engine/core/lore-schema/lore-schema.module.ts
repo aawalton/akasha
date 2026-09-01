@@ -10,11 +10,11 @@ export const loreSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A citation's quote appears word for word in the turn it cites.",
+      statement: "A citation's quote appears word for word in the turn the citation cites.",
     },
     {
       invariantKind: "departure",
-      statement: "A turn edited after it was read for lore is read again.",
+      statement: "A turn edited after that turn was read for lore is read again.",
     },
   ],
 } as const satisfies Module

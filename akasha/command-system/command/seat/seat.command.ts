@@ -52,7 +52,8 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "A signal that could not be sent is reported against the seat it was meant for.",
+      statement:
+        "A signal that could not be sent is reported against the seat the signal was meant for.",
     },
     {
       invariantKind: "departure",
@@ -64,12 +65,12 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "A restart reaches every seat and a stop reaches one.",
+      statement: "A restart reaches every seat and a stop reaches one seat.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name no seat holds a page for is answered apart from a word this does not take.",
+        "A name no seat holds a page for is answered apart from a word this command does not take.",
     },
     {
       invariantKind: "departure",

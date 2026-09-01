@@ -42,7 +42,7 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the hook that refused before it says why.",
+      statement: "A refusal names the hook that refused before the refusal says why.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const hookAnswer = {
     {
       invariantKind: "absence",
       statement:
-        "A hook that judges a call reads no field of the payload but the tool input it is handed.",
+        "A hook that judges a call reads no field of the payload but the tool input the hook is handed.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "Any hook answering it differently is a hook that has left.",
+      statement: "Any hook answering that call differently is a hook that has left.",
     },
     {
       invariantKind: "departure",

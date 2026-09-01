@@ -20,11 +20,11 @@ export const contextReplaced = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "How a seat came by its context and when it did are one fact.",
+      statement: "How a seat came by its context and when the seat did are one fact.",
     },
     {
       invariantKind: "departure",
-      statement: "A read taken before a context was started fresh is no longer the seat's.",
+      statement: "A read taken before a context was started fresh is no longer the seat's read.",
     },
   ],
 } as const satisfies RecordProperty

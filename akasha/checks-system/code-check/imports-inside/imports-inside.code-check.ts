@@ -14,7 +14,7 @@ export const importsInside = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A specifier naming a package lands where the manifests name it.",
+      statement: "A specifier naming a package lands where the manifests name the package.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,8 @@ export const importsInside = {
     },
     {
       invariantKind: "departure",
-      statement: "A workspace the root manifest names is read at the manifest beneath it.",
+      statement:
+        "A workspace the root manifest names is read at the manifest beneath the workspace.",
     },
     {
       invariantKind: "departure",
@@ -38,20 +39,20 @@ export const importsInside = {
     },
     {
       invariantKind: "departure",
-      statement: "The manifests are read as the change would leave them.",
+      statement: "The manifests are read as the change would leave the manifests.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Where a relative specifier lands is decided by the file holding it rather than by where the check was run from.",
+        "Where a relative specifier lands is decided by the file holding the specifier rather than by where the check was run from.",
     },
     {
       invariantKind: "departure",
-      statement: "A specifier is judged where it is written.",
+      statement: "A specifier is judged where the specifier is written.",
     },
     {
       invariantKind: "departure",
-      statement: "A specifier is judged by where it lands rather than by what is there.",
+      statement: "A specifier is judged by where the specifier lands rather than by what is there.",
     },
     {
       invariantKind: "departure",

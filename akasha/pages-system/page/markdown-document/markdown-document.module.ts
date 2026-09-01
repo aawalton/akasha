@@ -9,7 +9,7 @@ export const markdownDocument = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every part of a parsed document carries the span it was read from.",
+      statement: "Every part of a parsed document carries the span that part was read from.",
     },
     {
       invariantKind: "departure",

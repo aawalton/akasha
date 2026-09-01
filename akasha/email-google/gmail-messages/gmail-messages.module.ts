@@ -9,11 +9,12 @@ export const gmailMessages = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A listing fetches each message's headers one at a time.",
+      statement: "A listing fetches each message's headers one message at a time.",
     },
     {
       invariantKind: "departure",
-      statement: "A reply carries the References of what it answers with its own id appended.",
+      statement:
+        "A reply carries the References of what that reply answers with its own id appended.",
     },
     {
       invariantKind: "departure",

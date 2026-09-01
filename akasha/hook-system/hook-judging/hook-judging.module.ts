@@ -25,7 +25,7 @@ export const hookJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "A test asking about a call under another root must name it explicitly.",
+      statement: "A test asking about a call under another root must name that root explicitly.",
     },
     {
       invariantKind: "absence",
@@ -41,7 +41,7 @@ export const hookJudging = {
     },
     {
       invariantKind: "absence",
-      statement: "What stands here is stood up by the tests that reach for it.",
+      statement: "What stands here is stood up by the tests that reach for this module.",
     },
     {
       invariantKind: "absence",

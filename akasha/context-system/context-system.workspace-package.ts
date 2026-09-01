@@ -31,7 +31,7 @@ export const contextSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "No file names them by hand.",
+      statement: "No file names the warrants by hand.",
     },
   ],
 } as const satisfies WorkspacePackage

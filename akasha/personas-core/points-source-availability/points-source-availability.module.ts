@@ -11,7 +11,7 @@ export const pointsSourceAvailability = {
     {
       invariantKind: "departure",
       statement:
-        "A persona declaring her source unavailable has her stored total left as it stands.",
+        "A persona declaring her source unavailable has her stored total left as that total stands.",
     },
     {
       invariantKind: "absence",

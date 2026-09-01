@@ -33,11 +33,11 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
-      statement: "The grammar parses a refused shape so a refusal can name it.",
+      statement: "The grammar parses a refused shape so a refusal can name that shape.",
     },
     {
       invariantKind: "departure",
-      statement: "A shape akasha refuses says the fact it is refused on.",
+      statement: "A shape akasha refuses says the fact that shape is refused on.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape stating no `allowed` is admitted until it is decided.",
+      statement: "A shape stating no `allowed` is admitted until that shape is decided.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +57,8 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape is weighed by the load it costs a reader rather than by how it reads.",
+      statement:
+        "A shape is weighed by the load the shape costs a reader rather than by how the shape reads.",
     },
     {
       invariantKind: "departure",

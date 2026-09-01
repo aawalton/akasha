@@ -18,7 +18,7 @@ export const healthSamplesBody = {
     },
     {
       invariantKind: "departure",
-      statement: "A sample that ends before it starts is refused.",
+      statement: "A sample that ends before that sample starts is refused.",
     },
     {
       invariantKind: "departure",
