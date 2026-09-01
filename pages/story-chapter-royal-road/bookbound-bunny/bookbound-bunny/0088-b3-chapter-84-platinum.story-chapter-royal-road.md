@@ -1,0 +1,141 @@
+---
+id: f044939e-5fea-59c2-8aba-215cb40bb29c
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 84 - Platinum"
+slug: 0088-b3-chapter-84-platinum
+partOf: bookbound-bunny
+position: 88
+ownLength: 2360
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3894143/b3-chapter-84-platinum"
+royalRoadId: "3894143"
+---
+
+Lily sighed as she clutched the side of her head, feeling quite exasperated by recent predicaments.
+
+First Hana and now Clarissa… Are all Equinia this competitive, or only the ones with noble roots? I went my entire life without any rivals, and in less than a year, I've suddenly gotten two.
+
+A small part of her knew she was at least partially responsible for these events; if she had simply chosen to lie low, she probably wouldn't have had so many eyes on her. However, she had chosen not to take the quiet path, even before the whole belief-gathering idea, thanks to how Regarth was structured. You were rewarded for effort and results, so unless Lily was happy to forfeit the benefits, she was pretty much forced to perform.
+
+Yet while she had come somewhat to terms with this, she also realized it might only get worse as time went on, especially once the other schools found out about her. She wanted to use the interschool tournament to be the turning point for her glyphs, but it could also cause a storm of Stremweth nobles all suddenly inviting her to social gatherings.
+
+Is this what Rose had to deal with? Probably much worse, right? I guess at least I can look forward to the point when I can just reject all of them… Unfortunately, there's probably no getting out of Clarissa's invitation without causing a big fuss, since I can't really turn down Hana's request now.
+
+Despite everything, Lily didn't hate Clarissa. If she weren't the unfortunate target of her antics, she'd even find her poor attempts at what could only be loosely described as bullying humorous. Lily even realized that if she were a bit greedier, she could probably take advantage of the situation like Rose had done with Lady Desthu. Rose had really taken advantage of the woman, though it mostly amounted to replacing her clothes, which were consistently destroyed by her bloodline awakening.
+
+Lily tried to imagine herself dropping hints for a new pen or some fancy ink or even a Mana potion, but quickly shook away those thoughts. It sounded far too fake, greedy, and verging on sycophancy. Just thinking about it had caused Lily to cringe and left her wondering how Rose had stomached it back then.
+
+I'll ask her and maybe get some tips on how to deal with this. Although I bet she will tell me to just milk it. Greedy dragon…
+
+Naturally, this was all stuff she needed to worry about later, and she still had a forest to explore. Now that Clarissa was supposedly dealt with, her trip through the forest would probably be less eventful, although she still kept her eyes and ears open for any suddenly hostile foliage. Clarissa's direct attack failed, and she wouldn't put it past the girl to try a sneak attack.
+
+As Lily wandered through the forest, pruning plants as she went, she occasionally came across monsters or more tied-up students. She swiftly dealt with the monsters and helped free any student regardless of faction. Oddly enough, whatever Clarissa had done was somewhat indiscriminate, as she even found that a few Terravix students had become victims of the entangling vines and roots.
+
+Sadly, the same couldn't be said for treasures, and other than the gem she found in the mole cave, she was coming up remarkably short. She almost wondered if she should've stuck to the rocky area even if her delay tactics had run out of steam.
+
+Lily's luck briefly turned around when she defeated a spider monster, and she found another gem tied up in its webs. After she freed it with some very controlled burning, she discovered that this one was bronze in color, leading her to wonder if there was also a gold variety. However, Lily's ponderings were cut short as she suddenly found the area around her twisting, and a rather familiar and unpleasant feeling was turning her stomach.
+
+[It appears we are being teleported. I suppose the competition is over.]
+
+This announcement caught Lily by surprise, though, thanks to the jungle of trees, it had been a little hard to notice where the sun was. When she consulted her own internal clock, she realized it was already late in the afternoon.
+
+{Do I need to do anything?}
+
+[Just relax and let it happen, don't try to fight it. It seems rather than instantly returning everyone, they are doing it gradually in waves.]
+
+Lily nodded and calmed herself down with a bit of meditation. Not long after that, she found herself removed from the forest and instead in a grand hallway with plenty of other students. One by one, more students appeared in brief flashes of light before curiously scanning their new environment.
+
+"Attention everyone, please start coming forward and placing your gems in your respective boxes," a professor announced, pointing to three areas clearly marked for Terravix, Maranix, and Zephyrix.
+
+As Lily joined the lineup, she was soon reunited with Lotte, who had clearly spotted her from a distance and ran up to her.
+
+"There you are. I'm glad your ears are an easy way to find you in a crowd," she teased.
+
+"I could say the same for your tail if you weren't hiding it," Lily poked back.
+
+"Trust me, it's not nearly as eye-catching," Lotte giggled. "So, how did things go on your end? Considering how few people I ran into, I'm assuming well."
+
+Lily nodded. "I dug holes and built walls, but also tried freezing the ground or making areas of darkness. Hana flew over everything, though, so I couldn't stop her."
+
+"Figures you couldn't stop everyone. I didn't spot Hana, so she must have gone a different route. How many gems did you find? I got easily over a dozen."
+
+"Two…" Lily mumbled. "A silver one and a bronze one."
+
+"Damn, I was hoping some of your lucky rabbit shenanigans would've helped you land a gold gem or two," Lotte sighed. "But despite that, I'm sure you did a great job. We were on team treasure collecting, and you were on team delaying, so any gems you collected are the cherry on top."
+
+Lily smiled, feeling better thanks to Lotte's friendly reminder. This was a team competition after all, and she had done her part by securing their head start much further than it originally should have lasted. Lotte recounted her time, which was spent mostly killing monsters and grabbing whatever shiny thing she came across. She also confirmed the fact that monster dens seemed to always hold a gem, and she had ruthlessly targeted them during the event.
+
+While Lily's time wasn't as exciting, she still told Lotte all about it. The stalling tactics weren't as exciting to talk about, but the underground mole lair and the encounter with Clarissa had left Lotte on the edge of her seat.
+
+"So she failed and then invited you to dinner?" Lotte asked, barely holding back her laughter.
+
+"It was so weird… And then she called me her rival."
+
+"You seem to be collecting those. Should I declare you my rival before you have a waiting list?"
+
+"If you do, then I'm declaring you my champion to fight off all the dinner invitations," Lily jokingly threatened.
+
+"Yikes… I'd better not then," Lotte chuckled and pointed to the front of the line. "So, do you think we won?"
+
+"I'm not sure… Maybe the first-years, but I don't know about overall. I'd like to say Terravix probably won the second-years, but considering it's a team event I don't know how much Rose could do on her own."
+
+"Clearly, you need to have more faith in Bradley. He's our secret weapon, you know," Lotte whispered.
+
+They continued chatting as they neared the front and saw what was going on. There were actually five boxes, one for each year, and it appeared that they were somehow linked to a gem, as each treasure placed in a box would make the corresponding gem glow brighter. It didn't end there, as a central gem appeared to link the five together and determine how things were competing overall.
+
+"Damn, I'm not sure I like this setup," Lotte admitted. "This means that in theory, one year's contributions could outweigh two or more combined. I think it would have been better if each year were weighed up separately."
+
+"Maybe it's factored in somehow?" Lily suggested. "Why else have five separate boxes? Maybe they award the overall winner with a grand prize and the individual winners with smaller prizes, or something like that?"
+
+"I hope so. Cause at the moment our big gem isn't looking so good compared to the others."
+
+Lily looked to where Lotte was pointing, and you could barely catch the silhouettes of the other gems from their position. It might have looked like they were brighter, but it was honestly hard to tell from here, and brightness might not have been how they were weighed. Mana-level was what Lily thought of almost immediately, but even when she looked at them with her Magesight, she struggled to tell a difference between the three of them.
+
+I really need to upgrade my Magesight. Arakil keeps reminding me, and I keep putting it off for other things…
+
+Of course, with the levels of each gem constantly changing as the students deposited their spoils, it was pointless to judge them at all until it was over. For example, the other factions could've been frontloaded with their best students, leading to an early skewed lead that tapered off at the end.
+
+When it came to their turn, Lily got to see just how many spoils Lotte had acquired as she pulled gem after gem in a variety of colors, and yes, even a handful of gold ones. Seeing their box glow brighter and brighter with each one, Lily couldn't help but feel a bit embarrassed by her own lackluster contributions. She pulled out her two and threw them in quickly before anyone noticed.
+
+Hopefully nobody sees…
+
+Unfortunately for Lily, her hope was dashed immediately, but not for the reason she expected. As her two treasures went in, the box seemed to burst with more vigorous energy than before, causing the person in charge to look over with excitement.
+
+"Oh? Do we finally have a rare one?" he asked.
+
+"I knew your bunny luck would save the day," Lotte instantly chimed in.
+
+"Rare? I just found a bronze and silver one…" Lily admitted, visibly confused.
+
+"Are you sure?" he asked. "There's no way a bronze or silver one would've caused that reaction. It must have been platinum."
+
+Lily could only shrug. She had no idea, and honestly, she hadn't looked too closely at what she found. The professor, however, seemed convinced and explained that it can be hard to tell them apart, which was apparently part of the headmaster's plot to spice things up. Of course, the professor admitted that it wasn't as crazy as he made it sound, since the few platinum treasures had been placed in areas fitting of their stature.
+
+Thankfully, time was short, and Lily got her chance to leave as the next students were up to deposit their treasures, so they went to the side where a waiting area was filled with various foods, snacks, and drinks. The already finished students were happily chomping and chatting away, while watching as gems shone brighter and brighter.
+
+Lotte nudged Lily's arm while smiling. "So you found a platinum treasure, huh? Great job. Not only did you help us keep our head start, but you also contributed."
+
+"I guess I got lucky…?"
+
+"Luck is part of the package. Who else would have thought of digging down and fighting a bunch of mole monsters?"
+
+Lily had to admit that her decision had been a bit out of the ordinary, and if not for Arakil pointing out the monster den, she would have certainly left the area behind. Even the intended route was quite well hidden, since the entrance was amongst the jungle of trees and foliage, unlike the other caverns in the foothills.
+
+Eventually, they reunited with Arthur, and shortly after that, Hana, both of whom looked quite pleased with themselves. Hana once again thanked Lily for helping delay the Terravix students, giving her more than enough time to catch up and do some scouting.
+
+Arthur, while not as lucky, seemed to have still come out relatively successful. He found various stashes of gems in nests, most of which were only bronze, but had been too high up for the casual student to notice. Even Lily found herself facepalming at not realizing to look at the tops of trees for treasures, as she had been far too focused on the ground, especially after being attacked by roots.
+
+Finally, Thomas came, who had also been quite fortunate. He'd taken advantage of his head start and managed to locate a few prime locations. Unlike everyone else in their group who had gone entirely solo, he'd actually had the intuition to work together with some of the other Maranix students to defeat larger encounters and claim several gold treasures that were spread amongst them. While he didn't have as large a personal stockpile as Lotte, there was a chance his group had accomplished more.
+
+Of course, the question came up about whether any of them faced Clarissa, but it seemed like only Lily was unfortunate enough to meet her. Arthur spotted her from a distance and stayed away, having no real means to hinder her progress. Thomas also claimed he hadn't run into her.
+
+"Damn, you missed your opportunity for a rematch," Arthur joked.
+
+"We aren't allowed to attack each other, remember," Thomas quickly pointed out.
+
+"That didn't stop her from trying to attack Lily," Lotte countered.
+
+"Well, she wanted to tie me up," Lily corrected. "If she actually attacked, I'm assuming I couldn't have kept her plants at bay so easily with just my cloak."
+
+That got several of her friends to agree, as they all munched away. Judging by how the lines were thinning out, the final results were about to be announced, bringing an end to Regarth's festival.
