@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { OperationalError } from "@shared/errors-core/exit"
-import { pidAliveOrAssumeDead } from "@shared/utils-process/pid-signal"
+import { pidAliveOrAssumeDead } from "@akasha/utils-process/pid-signal"
 import { watcherConfigDir, watcherLogDir } from "@temper/shared-foundation-misc-eso-paths/eso-paths"
 import { z } from "zod"
 import { akashaRoot } from "../../repo/roots/roots.ts"

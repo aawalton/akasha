@@ -7,7 +7,7 @@
     "@shared/supabase-auth": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
-    "@shared/utils-process": "workspace:*",
+    "@akasha/utils-process": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {
