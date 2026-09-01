@@ -21,7 +21,7 @@ export const akashaRequiredReading = {
     {
       invariantKind: "departure",
       statement:
-        "A read stops counting when what was read changes unless an agent-mechanical change carried it forward.",
+        "A read stops counting when what was read changes unless a mechanical change carried it forward.",
     },
     {
       invariantKind: "departure",

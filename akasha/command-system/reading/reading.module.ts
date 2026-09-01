@@ -15,7 +15,7 @@ export const reading = {
     {
       invariantKind: "departure",
       statement:
-        "A line carries the path read and the object id of what was read and when it was read and the object id an agent-mechanical change left.",
+        "A line carries the path read and the object id of what was read and when it was read and the object id a mechanical change left.",
     },
     {
       invariantKind: "departure",
@@ -40,30 +40,29 @@ export const reading = {
     {
       invariantKind: "departure",
       statement:
-        "A body answers a reading where it is the body read or the body an agent-mechanical change left.",
+        "A body answers a reading where it is the body read or the body a mechanical change left.",
     },
     {
       invariantKind: "departure",
-      statement: "Reading a body again clears what an agent-mechanical change left.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An agent-mechanical change carries a reading of what it changed onto the body it left and to the path it left it at.",
+      statement: "Reading a body again clears what a mechanical change left.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A reading is carried only where the body it holds is the one the agent-mechanical change started from.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The body an agent-mechanical change left answers what a warrant asks.",
+        "A mechanical change carries a reading of what it changed onto the body it left and to the path it left it at.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The body an agent-mechanical change left does not answer writing over that body itself.",
+        "A reading is carried only where the body it holds is the one the mechanical change started from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body a mechanical change left answers what a warrant asks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body a mechanical change left does not answer writing over that body itself.",
     },
     {
       invariantKind: "departure",
