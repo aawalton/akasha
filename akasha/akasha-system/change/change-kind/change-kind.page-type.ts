@@ -14,7 +14,13 @@ export const changeKind = {
   slug: "change-kind",
   definition: "which sort one change is",
   pluralSlug: "change-kinds",
-  partSlugs: ["boolean-property/runs-checks", "boolean-property/runs-warrants"],
+  partSlugs: [
+    "change-kind/change-authored",
+    "change-kind/change-mechanical",
+    "change-kind/change-operational",
+    "boolean-property/runs-checks",
+    "boolean-property/runs-warrants",
+  ],
   extendsSlug: "page-type/domain",
   properties: [
     { pagePropertySlug: "runs-checks", required: true, many: false },

@@ -5,12 +5,7 @@ export const change = {
   pageTypeSlug: "domain",
   slug: "change",
   definition: "everything one act edits",
-  partSlugs: [
-    "page-type/change-kind",
-    "domain/change-agent-authored",
-    "domain/change-agent-mechanical",
-    "domain/change-service-operational",
-  ],
+  partSlugs: ["page-type/change-kind"],
   invariants: [
     {
       invariantKind: "departure",
