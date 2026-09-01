@@ -1,10 +1,10 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 
-export type PushReceiveStanding = "prompt" | "prompt-with-rationale" | "granted" | "denied"
+export type Permission = "prompt" | "prompt-with-rationale" | "granted" | "denied"
 
 export type RegisterAction = "register" | "request" | "degrade"
 
-export function decidePermissionAction(receive: PushReceiveStanding): RegisterAction {
+export function decidePermissionAction(receive: Permission): RegisterAction {
   switch (receive) {
     case "granted":
       return "register"
