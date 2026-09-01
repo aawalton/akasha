@@ -47,7 +47,7 @@ export function typedListed(root: string, typeSlug: string, slug: string, stated
   return pageStanding(root, `akasha/${slug}/${slug}.${typeSlug}.ts`, typeSlug, slug, stated)
 }
 
-export function domainStanding(root: string, slug: string): Listed {
+export function domainListed(root: string, slug: string): Listed {
   return typedListed(root, "domain", slug)
 }
 

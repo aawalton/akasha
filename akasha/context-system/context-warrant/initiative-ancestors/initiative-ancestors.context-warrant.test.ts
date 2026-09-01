@@ -5,7 +5,7 @@ import { blobIdOf, recordRead } from "../../../command-system/reading/reading.mo
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
-  domainStanding,
+  domainListed,
   initiativeStanding,
   pathsOf,
   seatStanding,
@@ -63,7 +63,7 @@ test("a seat stating an initiative nothing stands above warrants none", () => {
 
 test("a seat stating no initiative warrants none", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
-  domainStanding(root, "akasha-system")
+  domainListed(root, "akasha-system")
   initiativeStanding(root, "one-work")
   initiativeStanding(root, "one-step", `parentSlug: "initiative/one-work"`)
   const at = seatStanding(root, "one", `assignmentSlug: "domain/akasha-system"`)

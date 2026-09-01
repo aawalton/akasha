@@ -9,7 +9,7 @@ import {
   pathFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import {
-  domainStanding,
+  domainListed,
   type Listed,
   namesPart,
   pathsOf,
@@ -33,24 +33,24 @@ function beside(root: string, one: Listed, ending: string): string {
 
 test("a file warrants the page that names it among its parts", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  const whole = domainStanding(root, "whole")
-  const part = domainStanding(root, "part")
+  const whole = domainListed(root, "whole")
+  const part = domainListed(root, "part")
   namesPart(root, whole, part)
   expect(pathsOf(fileDomain(root, part.path))).toEqual([whole.path])
 })
 
 test("a file standing beside a page warrants what names that page among its parts", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  const whole = domainStanding(root, "whole")
-  const part = domainStanding(root, "part")
+  const whole = domainListed(root, "whole")
+  const part = domainListed(root, "part")
   namesPart(root, whole, part)
   expect(pathsOf(fileDomain(root, beside(root, part, "code")))).toEqual([whole.path])
 })
 
 test("a warrant carries the body standing at the naming page, and why it is owed", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  const whole = domainStanding(root, "whole")
-  const part = domainStanding(root, "part")
+  const whole = domainListed(root, "whole")
+  const part = domainListed(root, "part")
   namesPart(root, whole, part)
   const held = fileDomain(root, part.path)[0]
   expect(held?.path).toBe(whole.path)
@@ -62,16 +62,16 @@ test("a warrant carries the body standing at the naming page, and why it is owed
 
 test("a file no page names among its parts warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  domainStanding(root, "whole")
-  const part = domainStanding(root, "part")
+  domainListed(root, "whole")
+  const part = domainListed(root, "part")
   expect(pathsOf(fileDomain(root, part.path))).toEqual([])
 })
 
 test("a page naming several parts is warranted by each of them", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  const whole = domainStanding(root, "whole")
-  const one = domainStanding(root, "one")
-  const two = domainStanding(root, "two")
+  const whole = domainListed(root, "whole")
+  const one = domainListed(root, "one")
+  const two = domainListed(root, "two")
   namesPart(root, whole, one)
   namesPart(root, whole, two)
   expect(pathsOf(fileDomain(root, one.path))).toEqual([whole.path])
@@ -80,9 +80,9 @@ test("a page naming several parts is warranted by each of them", () => {
 
 test("a page named among the parts of several pages warrants every one of them, by path", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  const part = domainStanding(root, "part")
-  const two = domainStanding(root, "two")
-  const one = domainStanding(root, "one")
+  const part = domainListed(root, "part")
+  const two = domainListed(root, "two")
+  const one = domainListed(root, "one")
   namesPart(root, two, part)
   namesPart(root, one, part)
   expect(pathsOf(fileDomain(root, part.path))).toEqual([one.path, two.path])
@@ -97,8 +97,8 @@ test("a cold index refuses rather than warranting nothing", () => {
 
 test("a path standing at no page warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  const whole = domainStanding(root, "whole")
-  const part = domainStanding(root, "part")
+  const whole = domainListed(root, "whole")
+  const part = domainListed(root, "part")
   namesPart(root, whole, part)
   const loose = "akasha/part/loose.ts"
   standing(root, loose, "body\n")
@@ -107,8 +107,8 @@ test("a path standing at no page warrants nothing", () => {
 
 test("a naming page the index no longer holds warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  const whole = domainStanding(root, "whole")
-  const part = domainStanding(root, "part")
+  const whole = domainListed(root, "whole")
+  const part = domainListed(root, "part")
   namesPart(root, whole, part)
   idTakenFrom(root, whole.id)
   expect(pathsOf(fileDomain(root, part.path))).toEqual([])
@@ -116,8 +116,8 @@ test("a naming page the index no longer holds warrants nothing of itself", () =>
 
 test("a naming page whose body is gone warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  const whole = domainStanding(root, "whole")
-  const part = domainStanding(root, "part")
+  const whole = domainListed(root, "whole")
+  const part = domainListed(root, "part")
   namesPart(root, whole, part)
   rmSync(join(root, whole.path))
   expect(pathsOf(fileDomain(root, part.path))).toEqual([])
@@ -125,7 +125,7 @@ test("a naming page whose body is gone warrants nothing of itself", () => {
 
 test("a page naming itself among its parts warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  const one = domainStanding(root, "one")
+  const one = domainListed(root, "one")
   namesPart(root, one, one)
   expect(pathsOf(fileDomain(root, one.path))).toEqual([])
 })
@@ -133,8 +133,8 @@ test("a page naming itself among its parts warrants nothing of itself", () => {
 test("a naming page not read is refused, and the refusal says why it is owed", () => {
   const root = scratch.rootFor("akasha-file-domain-")
   warrantsStanding(root, ["file-domain"])
-  const whole = domainStanding(root, "whole")
-  const part = domainStanding(root, "part")
+  const whole = domainListed(root, "whole")
+  const part = domainListed(root, "part")
   namesPart(root, whole, part)
   const oid = standing(root, part.path, "one\n")
   recordRead(root, AGENT, { path: part.path, oid, seenAt: 1, mechanicalOid: null })
