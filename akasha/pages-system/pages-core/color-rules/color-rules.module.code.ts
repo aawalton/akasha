@@ -4,7 +4,7 @@ import {
   runFormula,
   type Shape,
   type Value,
-} from "@shared/pages-system/formula"
+} from "@akasha/pages-formula"
 import type {
   PageDataJSON,
   PropertyDefinition,
