@@ -66,9 +66,9 @@ export async function insertLocationTraces(
 
   for (const day of [...byDay.keys()].sort()) {
     const held = byDay.get(day) ?? []
-    const standing = await keysOn(day)
+    const keys = await keysOn(day)
     const rows = held
-      .filter(([identity]) => !standing.has(identity))
+      .filter(([identity]) => !keys.has(identity))
       .map(([, record]) => rowValuesOf(record, Bun.randomUUIDv7()))
     if (rows.length === 0) continue
     if (!(await dayStands(day))) {
