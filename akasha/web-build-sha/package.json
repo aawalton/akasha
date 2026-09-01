@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/web-build-sha",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./build-sha": "./build-sha/build-sha.module.code.ts",
+    "./live-version": "./live-version/live-version.module.code.ts",
+    "./build-sha-define": "./build-sha-define/build-sha-define.module.code.ts"
+  }
+}
