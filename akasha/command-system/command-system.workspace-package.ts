@@ -22,7 +22,7 @@ export const commandSystem = {
     "module/reading",
     "module/rooting",
     "module/scratching",
-    "module/standing",
+    "module/change-freshness",
     "module/value-minting",
   ],
   invariants: [

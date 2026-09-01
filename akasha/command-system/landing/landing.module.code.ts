@@ -4,6 +4,11 @@ import type { Judged, Judging } from "@akasha/checks-system/judging"
 import { textIn, textOf } from "@akasha/code-system/body-text"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages-system/change"
+import {
+  INSIDE,
+  movedOnDisk,
+  reachedSince,
+} from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed } from "../committing/committing.module.code.ts"
 import { oneLine } from "../fault-saying/fault-saying.module.code.ts"
@@ -11,7 +16,6 @@ import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
-import { INSIDE, movedOnDisk, reachedSince } from "../standing/standing.module.code.ts"
 
 export type FileEdit = {
   readonly path: string

@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code-system/module"
 
-export const standing = {
+export const changeFreshness = {
   id: "01a04faa-e70a-757d-a665-8e7b7bcfd14d",
   pageTypeSlug: "module",
-  slug: "standing",
+  slug: "change-freshness",
   definition:
     "the rules holding a change to the bodies its writer read and to the commit it was judged against",
   code: "ts",

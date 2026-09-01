@@ -8,7 +8,7 @@ import { landing } from "../landing/landing.module.code.ts"
 import { A, ADMITS, bytes, MODULE_AT, TYPE } from "../landing/landing.module.test-fixtures.ts"
 import { blobIdOf, type Reading } from "../reading/reading.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { movedOnDisk, reachedSince } from "./standing.module.code.ts"
+import { movedOnDisk, reachedSince } from "./change-freshness.module.code.ts"
 
 const scratch = scratchWorld()
 
