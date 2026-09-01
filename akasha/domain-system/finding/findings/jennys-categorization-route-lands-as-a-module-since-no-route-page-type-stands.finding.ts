@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const jennysCategorizationRouteLandsAsAModuleSinceNoRoutePageTypeStands = {
+  id: "01a05bdc-98ff-7c1d-b142-ecbef0776099",
+  pageTypeSlug: "finding",
+  slug: "jennys-categorization-route-lands-as-a-module-since-no-route-page-type-stands",
+  domainSlug: "workspace-package/readout-system",
+  claim:
+    "Jenny's categorization route lands in akasha as a module rather than as a route page. No route page type stands, and the intent that would model one is Alan's and unmet. The call taken in his absence: the answering moves into `module/readout-categorization`, and the route file keeps only the wiring, reading the credential her site names and handing it in. The file itself stays outside akasha, since nothing has shown react-router resolving a route module through a symlinked package root.",
+  evidence:
+    "The two route bodies were the same but for the guard: Alan's called `guardReadout`, hers `refuseWithoutSecret` on `SMILINGJENNY_RING_CREDENTIAL`. Hers was 55 lines over 5 akasha imports.\n\nThree shapes were open. A route page type is what the intent `The routes of Alan's site stand in akasha` holds, and its working memory calls `app/routes` the only part of this move with modelling nobody has done, so inventing one here would pre-empt his unmet intent against the constraint that every intent on his side comes before hers. Pointing `routes.ts` inside the package was left alone for the reason that memory names: a lane has since built through a symlinked package root, but not a react-router route module. Hence a module, which is what the relay route already did.\n\nThe guard was not the categorization route's alone. `api.safety-level.ts` and `api.surplus.ts` both imported `refuseUncredentialedRingCaller` from `./api.categorization`, so three routes were admitted by a helper living inside one of them. It moved to a lib of its own and both repoints landed with the route.\n\nProved rather than read. The new module: 12 pass, 0 fail. Her own site test, unchanged and still importing `loader`: 9 pass, 0 fail. The site typechecks with no error on any of the four files. `react-router build` exits 0 and the bundle carries `X-Ring-Credential`. That built server, run on a local port, answers all three routes with the words `Not authenticated.` under `Cache-Control: no-store`, which is the whole chain loading: route, lib, module, credential.",
+} as const satisfies Finding
