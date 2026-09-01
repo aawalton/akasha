@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Tile is live: the reading service's installed unit kept the pre-rename path; reinstalled and the timer is proven. Repoint landed ca7036fa02 + 2e51456524: RingScale/RingCounts now in module/readout-body; scale-reading and none-left ask the akasha store via pages-system-service on camelCase keys, not markdown; the answerer takes a readout slug and reads wireKey/scaleSlug off its page. Left: each route names its one readout, and the pod is well behind HEAD so none of this is live yet.",
+        "Tile is live and the repoint is deployed: pod web-79fcf4cb8f runs 7f50ee694b, up from 4647159e77, a gap of 637 commits. RingScale/RingCounts sit in module/readout-body; scale-reading and none-left ask the akasha store through pages-system-service on camelCase keys; the answerer takes a readout slug and reads wireKey and scaleSlug off its page. Next, per Alan: delete readoutCatalog, which parses frontmatter across 71k files per request, and stub the stoplights.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
