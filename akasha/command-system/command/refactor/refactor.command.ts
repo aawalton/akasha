@@ -10,6 +10,7 @@ export const refactor = {
   mechanical: true,
   partSlugs: [
     "module/key-respelling",
+    "module/package-renaming",
     "module/refactor-landing",
     "module/token-renaming",
     "module/type-renaming",
