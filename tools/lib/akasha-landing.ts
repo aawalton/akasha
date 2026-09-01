@@ -1,5 +1,6 @@
 import { mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { landedProgrammatically } from "@akasha/command-system/asking"
 import { type Outcome, type Run, whyRefused } from "./gated-write.ts"
 
 const CLI = "akasha/command-system/cli/cli.module.code.ts"
@@ -62,4 +63,23 @@ export function landInAkasha(writer: string, root: string, args: readonly string
   }
   if (asked.code !== 0) return { kind: "refused", detail: whyRefused(asked.output) }
   return { kind: "written" }
+}
+
+// A program composes this body, so it lands without the checks and without owing a reading. The
+// bytes go straight in: only the command line needed them written to a file first.
+export function landProgrammatically(
+  root: string,
+  calledAs: string,
+  relPath: string,
+  body: string,
+  message: string
+): Outcome {
+  const said = landedProgrammatically(
+    root,
+    calledAs,
+    [{ path: relPath, body: new TextEncoder().encode(body) }],
+    message
+  )
+  if (said.code === 0) return { kind: "written" }
+  return { kind: "refused", detail: whyRefused(said.refusals.join("\n")) }
 }

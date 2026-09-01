@@ -1,7 +1,5 @@
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
 import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { landInAkasha } from "./akasha-landing.ts"
+import { landProgrammatically } from "./akasha-landing.ts"
 import { akashaAccountPath, akashaAccountsDir, akashaRoot } from "./claude-account-akasha.ts"
 import type { Outcome } from "./gated-write.ts"
 import { ACCOUNT_SHAPE } from "./oauth-page-push.ts"
@@ -9,8 +7,6 @@ import { ACCOUNT_SHAPE } from "./oauth-page-push.ts"
 export const PAGE_TYPE_SLUG = "claude-account"
 
 const WRITER = "claude-account-page-writer"
-
-const SCRATCH = "/var/tmp"
 
 const EMAIL_SHAPE = /^\S+@\S+$/
 
@@ -104,23 +100,13 @@ export function createAccountPage(args: AccountPageCreate): PageCreate {
     const text = accountPageText({ account, email: args.email, aliasIndex: args.aliasIndex, id })
 
     const root = akashaRoot()
-    const dir = mkdtempSync(join(SCRATCH, "claude-account-create-"))
-    let landed: Outcome
-    try {
-      const bodyPath = join(dir, "body.ts")
-      writeFileSync(bodyPath, text, "utf8")
-      landed = landInAkasha(WRITER, root, [
-        "write",
-        "--file-path",
-        join(root, relPath),
-        "--content-file",
-        bodyPath,
-        "--message",
-        `akasha: add ${relPath}`,
-      ])
-    } finally {
-      rmSync(dir, { recursive: true, force: true })
-    }
+    const landed: Outcome = landProgrammatically(
+      root,
+      WRITER,
+      relPath,
+      text,
+      `akasha: add ${relPath}`
+    )
     if (landed.kind !== "written" && landed.kind !== "unchanged") {
       const why = landed.kind === "refused" ? landed.detail : `the landing said \`${landed.kind}\``
       return { kind: "refused", account, why }
