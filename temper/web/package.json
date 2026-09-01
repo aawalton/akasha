@@ -20,7 +20,7 @@
     "@akasha/web-static-assets": "workspace:*",
     "@infra/k8s-types": "workspace:*",
     "@shared/auth": "workspace:*",
-    "@shared/design-system": "workspace:*",
+    "@akasha/design-system": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",

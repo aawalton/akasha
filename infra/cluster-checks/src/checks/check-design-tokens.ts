@@ -24,7 +24,7 @@ import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workf
 
 const PREFIX = "[design-tokens]"
 
-const TOKENS_CSS_REL = "shared/design-system/src/styles/tokens.css"
+const TOKENS_CSS_REL = "akasha/design/design-system/token-values/token-values.stylesheet.styles.css"
 const TOKENS_PKG_REL = "akasha/design/design-tokens"
 
 const READ_MODULES: readonly string[] = ["surface-color", "semantic-color", "text-color"]

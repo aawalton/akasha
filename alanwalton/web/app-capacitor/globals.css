@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "@shared/design-system/styles.css";
+@import "@akasha/design-system/styles.css";
 @import "@fontsource-variable/literata";
 
 @font-face {
@@ -16,11 +16,12 @@
     Cambria, serif;
 }
 
-@source "../../../shared/design-system/src/**/*.{ts,tsx}";
+@source "../../../akasha/design/design-system/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-badges/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-layout/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-forms/**/*.{ts,tsx}";
 @source "../../../shared/design-patterns/src/**/*.{ts,tsx}";
+@source "../../../akasha/design/design-patterns/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-primitives/**/*.{ts,tsx}";
 @source "../../../shared/pages-ui/src/**/*.{ts,tsx}";
 @source "../app/**/*.{ts,tsx}";

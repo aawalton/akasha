@@ -1,7 +1,0 @@
-node_modules
-dist/
-.turbo/
-*.tsbuildinfo
-*.d.ts
-.next/
-next-env.d.ts

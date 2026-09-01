@@ -3,7 +3,7 @@
   "dependencies": {
     "@akasha/design-patterns": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@shared/design-system": "workspace:*",
+    "@akasha/design-system": "workspace:*",
     "@temper/game-characters-classes": "workspace:*",
     "@temper/game-characters-skill-lines": "workspace:*",
     "@temper/game-characters-skills-morphs-core": "workspace:*",

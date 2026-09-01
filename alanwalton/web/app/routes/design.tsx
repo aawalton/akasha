@@ -1,4 +1,4 @@
-import { DesignSystemPageContent } from "@shared/design-system/demo/design-system-page-content"
+import { DesignSystemPageContent } from "@akasha/design-system/design-system-page-content"
 import type { Route } from "./+types/design"
 
 export function meta() {
