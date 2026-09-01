@@ -13,7 +13,7 @@ import { pageRowToPageDataJSON, toPageDataRecord } from "./page-data-json"
 import { ToggleSection } from "./page-detail-sections"
 import { buildTableColumns } from "./page-properties-shared"
 import { PageTable, PageTableRowCells } from "./page-table"
-import { TITLE_COLUMN_ID } from "./page-table-shared"
+import { TITLE_COLUMN_ID } from "@akasha/pages-ui/components/page-table-shared"
 import { withColumnWidths } from "./page-table-widths"
 
 const SUBPAGE_VISIBLE_PROPERTIES: readonly string[] = [TITLE_COLUMN_ID]

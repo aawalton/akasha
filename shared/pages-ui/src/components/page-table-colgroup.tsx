@@ -1,4 +1,4 @@
-import { ACTIONS_COLUMN_PX, type PageTableColumn } from "./page-table-shared"
+import { ACTIONS_COLUMN_PX, type PageTableColumn } from "@akasha/pages-ui/components/page-table-shared"
 
 interface PageTableColGroupProps {
   columns: readonly PageTableColumn[]

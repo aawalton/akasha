@@ -5,7 +5,7 @@ import type { ListingConfig } from "@akasha/pages-core/schema/listing-config"
 import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import { useMemo } from "react"
 import type { PageWithProperties } from "../supabase/types"
-import { resolveListingViewData } from "./resolve-listing-config"
+import { resolveListingViewData } from "@akasha/pages-ui/components/resolve-listing-config"
 import { useDescendantListing } from "./use-descendant-pages"
 
 export interface EffectiveListing {

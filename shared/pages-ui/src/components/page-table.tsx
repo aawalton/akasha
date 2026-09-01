@@ -16,7 +16,7 @@ import { PageActionsMenu } from "./page-actions-menu.tsx"
 import { orderTableColumns } from "./page-properties-shared.ts"
 import { PageTableColGroup } from "./page-table-colgroup.tsx"
 import { ReorderableColumnTable } from "./page-table-header.tsx"
-import { ACTIONS_COLUMN_PX, type PageTableColumn } from "./page-table-shared.ts"
+import { ACTIONS_COLUMN_PX, type PageTableColumn } from "@akasha/pages-ui/components/page-table-shared"
 import { tableMinWidthPx } from "./page-table-widths.ts"
 
 interface PageTableProps {

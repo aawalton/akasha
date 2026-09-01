@@ -21,7 +21,7 @@ import {
   type ColumnRectMeasure,
   computeColumnDropZone,
 } from "@akasha/pages-ui/components/page-table-column-dnd-helpers"
-import { ACTIONS_COLUMN_PX, type PageTableColumn } from "./page-table-shared"
+import { ACTIONS_COLUMN_PX, type PageTableColumn } from "@akasha/pages-ui/components/page-table-shared"
 import { tableMinWidthPx } from "./page-table-widths"
 
 interface SortableColumnHeaderProps {
