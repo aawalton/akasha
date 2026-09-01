@@ -3,7 +3,9 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./pid-signal": "./pid-signal/pid-signal.module.code.ts"
+    "./pid-signal": "./pid-signal/pid-signal.module.code.ts",
+    "./proc-reading": "./proc-reading/proc-reading.module.code.ts",
+    "./process-ending": "./process-ending/process-ending.module.code.ts"
   },
   "dependencies": {
     "@akasha/utils-narrow": "workspace:*"
