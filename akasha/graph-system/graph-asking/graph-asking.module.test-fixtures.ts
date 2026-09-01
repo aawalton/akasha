@@ -163,7 +163,7 @@ export function relationWorld(lines: number, pagesStand = true): string {
   return root
 }
 
-function stoodUp(indexName: string): string {
+function worldFor(indexName: string): string {
   const root = scratch.rootFor(PREFIX)
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", HELD])
@@ -184,13 +184,13 @@ function stoodUp(indexName: string): string {
 }
 
 export function importWorld(indexName: string): string {
-  const root = stoodUp(indexName)
+  const root = worldFor(indexName)
   filed(root, `${IMPORT}/path/${TARGET_AT}.jsonl`, { path: SOURCE_AT })
   return root
 }
 
 export function reachingWorld(reaching: Readonly<Record<string, readonly string[]>>): string {
-  const root = stoodUp(IMPORT)
+  const root = worldFor(IMPORT)
   for (const [into, from] of Object.entries(reaching)) {
     filedAll(
       root,
@@ -202,7 +202,7 @@ export function reachingWorld(reaching: Readonly<Record<string, readonly string[
 }
 
 export function loadingWorld(loadedBySlug: string | null, typeStands = true): string {
-  const root = stoodUp(IMPORT)
+  const root = worldFor(IMPORT)
   filed(root, `${IMPORT}/path/${LOADED_AT}.jsonl`, { path: SOURCE_AT })
   paged(root, TYPE_AT, {
     id: TYPE_ID,
