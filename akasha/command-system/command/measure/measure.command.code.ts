@@ -1,4 +1,4 @@
-import { linesOf, readingsIn } from "@akasha/agents-system/claude-account-measuring"
+import { linesOf, readingsIn } from "@akasha/agents/claude-account-measuring"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import {
   akashaUnder,
