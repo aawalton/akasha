@@ -1,10 +1,6 @@
-import type { Identifier } from "../../indexes/index-entries/index-entries.module.code.ts"
-import {
-  listedAt,
-  type Schema,
-  schemaOf,
-} from "../../indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../indexes/index-shape/index-shape.module.code.ts"
+import { listedAt, type Schema, schemaOf } from "@akasha/indexes"
+import type { Identifier } from "@akasha/indexes/entries"
+import type { Reading } from "@akasha/indexes/shape"
 import { addressIn, slugIn } from "../../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
 import {

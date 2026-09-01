@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, utimesSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { until } from "../../../testing-system/waiting/waiting.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { until } from "@akasha/testing-system/waiting"
 import {
   bodyFor,
   dropUncommitted,

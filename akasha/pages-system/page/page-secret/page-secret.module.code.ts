@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { dataIn } from "../../../file-system/data-place/data-place.module.code.ts"
+import { dataIn } from "@akasha/file-system/data-place"
 import { secretAt } from "../page-file-name/page-file-name.module.code.ts"
 
 export type Secrets = ReadonlyMap<string, string>

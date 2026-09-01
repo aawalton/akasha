@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
 export const pagesQuery = {
   id: "01a05aec-eaaa-785b-b175-87946b2c2eb7",

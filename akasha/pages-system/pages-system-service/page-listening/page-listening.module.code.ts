@@ -1,6 +1,6 @@
-import { listedAt } from "../../indexes/index-reading/index-reading.module.code.ts"
-import type { Value } from "../../page/page-value/page-value.module.code.ts"
-import { numberAt, textsAt, valueAt } from "../../page/page-value/page-value.module.code.ts"
+import { listedAt } from "@akasha/indexes"
+import type { Value } from "@akasha/pages-system/page-value"
+import { numberAt, textsAt, valueAt } from "@akasha/pages-system/page-value"
 import { answering } from "../page-serving/page-serving.module.code.ts"
 import { writerFor } from "../page-writing/page-writing.module.code.ts"
 

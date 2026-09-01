@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, existsSync, mkdirSync, readdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { dataIn } from "../../../file-system/data-place/data-place.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { dataIn } from "@akasha/file-system/data-place"
 import {
   cipherFor,
   keysBeside,

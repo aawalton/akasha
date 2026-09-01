@@ -1,5 +1,5 @@
-import { valuesOfType } from "../../indexes/index-reading/index-reading.module.code.ts"
-import type { Value } from "../../page/page-value/page-value.module.code.ts"
+import { valuesOfType } from "@akasha/indexes"
+import type { Value } from "@akasha/pages-system/page-value"
 
 export const TESTS_RUN: readonly string[] = [
   "is",

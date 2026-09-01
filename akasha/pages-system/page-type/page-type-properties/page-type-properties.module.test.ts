@@ -1,11 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import {
-  listedFiled,
-  schemaFiled,
-} from "../../indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { valueAt } from "../../page/page-value/page-value.module.code.ts"
 import { type Carried, declarationsOf, propertiesOf } from "./page-type-properties.module.code.ts"
 
