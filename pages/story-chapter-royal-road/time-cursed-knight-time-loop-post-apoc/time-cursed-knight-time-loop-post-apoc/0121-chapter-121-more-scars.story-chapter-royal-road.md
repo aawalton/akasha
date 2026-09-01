@@ -1,0 +1,247 @@
+---
+id: fd44503b-8af1-5ced-b8b9-82f5c9cb3e53
+page-type-slug: story-chapter-royal-road
+title: "Chapter 121: More Scars"
+slug: 0121-chapter-121-more-scars
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 121
+ownLength: 2579
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3896859/chapter-121-more-scars"
+royalRoadId: "3896859"
+---
+
+The column approaching Qalathar.
+
+What made one knight better than another?
+
+The question had lived in Dorn's skull since he was fourteen years old, crouched behind a practice dummy in his father's courtyard with a wooden sword across his knees and the taste of his own blood on his tongue. The dummy had won that exchange. The dummy won most exchanges in the first year. But Dorn kept coming back and eventually the equation reversed, and by the time he was fifteen the dummy had nothing left to teach him and his father had hired a retired sergeant to take its place.
+
+The sergeant lasted eight months.
+
+So Dorn had asked the question then, kneeling on the packed earth of the courtyard with the sergeant's practice blade pressed against his throat and his own lying two meters away where it had been knocked. The sergeant had beaten him. And Dorn, who had spent eight months learning everything the man could teach and had believed, with the arrogance of a boy whose talent had outrun his experience, that the gap was closing, realized the gap had never been what he thought it was.
+
+"What makes you better than me?" he had asked.
+
+The sergeant had removed the blade from his throat and offered his hand. His answer was two words.
+
+"More scars."
+
+The answer was unsatisfying. Dorn had come to understand over the years that it was also honest.
+
+Technique, footwork, and strength could all be trained. Even mana, for those who possessed it, could be channeled and refined and pushed toward higher expression.
+
+The gap between a knight who survived and a knight who excelled was paid in pain.
+
+Dorn had paid a fair amount. He was seventeen and he had the scars to prove it.
+
+But he was honest enough to know that it was still not enough.
+
+He was the son of Baron Ehrhardt of the Thalmark lowlands. A minor house. Three generations of undistinguished military service, no magical aptitude in the bloodline, no political ambitions beyond maintaining the modest holdings that an ancestor had been granted for unremarkable loyalty to a prince whose name Dorn could never remember.
+
+The core evaluation came back insufficient and nobody in the house treated it as a tragedy. The house had no reputation for magical brilliance to defend, no dynasty of mages whose legacy demanded continuation.
+
+The Ehrhardts were swordsmen. They had always been swordsmen. And when Dorn had demonstrated, at the age of twelve, that he could disarm adults twice his size, his father had simply nodded and said, "The Iron Cross, then."
+
+It was the greatest gift his family had ever given him, the freedom to pursue the sword without a mage-house hanging over it.
+
+He had entered the Knight Formation School four months after Kaspar von Hexenzeit.
+
+The timing mattered, because it meant that when Dorn arrived, the institution was still vibrating with Kaspar's passage through it.
+
+Dorn had not expected this.
+
+He had expected to be noticed. He was, by the objective metrics that the Formation School used to sort its candidates, exceptional. Youngest in his cohort. Highest sword proficiency score at intake. The instructors assessed him as a prodigy. His intake file contained the words generational talent underlined twice.
+
+None of it mattered.
+
+Because the school was still talking about Kaspar.
+
+Drescher, the mana-trace instructor, mentioned him in the second week. "We had a candidate last cycle whose Mana Perception was so developed that he detected a control variable I had hidden in the exercise. I have used that exercise for eleven years. No one had found it before." The bronze prosthetic clicked as Drescher gestured. "Some of you will develop that sensitivity. Most of you won't."
+
+Thiel, the alchemy instructor, was less restrained. "The last candidate who sat in that chair could have taught my fourth-year class. If any of you achieve a quarter of his instinct, I'll consider this cycle a success."
+
+Dorn told himself he didn't care.
+
+He sat in the classrooms and absorbed the material and performed well. His swordsmanship sat above every candidate in his cohort, and his conditioning was excellent. The tactical instincts translated cleanly from the practice yard to the field exercises.
+
+He told himself this was enough.
+
+The missions made it worse.
+
+His first field assignment took him to the frontier villages east of the capital, where iron-tusk boars had been tearing through livestock pens and threatening the spring planting.
+
+Routine Patrol Division work.
+
+The kind of job that the Formation School used to season its candidates before giving them anything that might actually kill them.
+
+The garrison sergeant who met them at the village gate looked at Dorn's Formation School insignia and said, "Another batch? I heard the last one sent a kid who killed a Titan with his bare hands. You planning to top that?"
+
+He hadn't meant it cruelly. The sergeant was making conversation the way soldiers did. Trading rumor and exaggeration was the military's informal economy. Kaspar hadn't killed a Titan with his bare hands. Even Dorn, who had assembled the facts from a dozen sources, knew that the truth was more complicated and more impressive than the myth.
+
+But the myth was what traveled. And the myth had Kaspar's name on it.
+
+The Hero of Grenzheim. The Bastard Knight. The Chain-Breaker. The Mana Breather.
+
+The epithets accumulated. They came from soldiers who'd never met him and from Academy graduates who'd once humiliated him. Veterans admired him. Mages despised a man without Circles who had done what Circles hadn't.
+
+The contradictions should have been clarifying. A man praised by half the world and damned by the other half was usually somewhere in the middle, and the middle was where ordinary people lived.
+
+But the facts kept refusing to be ordinary.
+
+An abandoned technique that the entire magical establishment had written off as useless, channeled through a body that no one understood. A commendation from Prince Varen. A trial for high treason that ended with the heir to the Kumsur Sultanate testifying on his behalf.
+
+And being recognized as a cousin of a prince.
+
+That fact sat in Dorn's mind. Varen had called Kaspar "cousin" publicly. In front of the court.
+
+Perhaps that was the answer. Perhaps the fame, the promotions, and the assignments were just patronage.
+
+Dorn wanted to believe that.
+
+It would have been simpler. If Kaspar was a product of his name and his bloodline and the political needs of a prince building an unconventional army, then the comparison was illegitimate.
+
+He wasn't a Hexenzeit, and he didn't have a prince in his corner. Talent without patronage went unrewarded, which was the excuse he kept reaching for. The reports from Grenzheim were too specific. The accounts from the Coliseum were too consistent. The details didn't have the polished, symmetrical quality of a manufactured legend.
+
+So when the orders came for the Qalathar deployment Dorn had volunteered before the briefing officer finished the sentence.
+
+Some of the other candidates had looked at him the way people looked at someone who had just bet his savings on a lame horse. Qalathar was under Titan siege. The eastern desert was unmapped. The mission was at least dangerous enough that we'd rather not tell you until you've already agreed.
+
+Dorn didn't care.
+
+He would see for himself. He would stand beside the man whose shadow he'd been measuring himself against for months, and he would know whether the legend was deserved.
+
+It was deserved.
+
+The realization hadn't come in a single moment. It had accumulated. Invisible at first, then undeniable, then overwhelming.
+
+The first thing Dorn noticed was the bearing.
+
+Kaspar moved through the world as though he had been leading men for years. The way he positioned himself relative to the group, at the center, where his presence anchored the column and his voice could reach every corner of the formation. The way his eyes moved, constantly, reading faces and terrain and the spaces between them with an attention that never rested.
+
+Nobody had given him command.
+
+The operational brief said Eckhardt led the wall contingent and Kaspar led the expedition element, but the reality was simpler and stranger. Kaspar simply acted as the leader, and everyone around him reorganized themselves to accommodate that fact. Voller, who was older and more experienced, deferred to Kaspar without hesitation and without resentment. The mercenaries followed his orders as though the chain of command were a physical law rather than a social convention.
+
+In theory, Kaspar was a knight in formation. The same status as Dorn. The Formation School's rolls listed them both as trainees.
+
+Nobody treated Kaspar like a trainee.
+
+Nobody would have dared.
+
+The locust swarm was the first test. Dorn had fought monsters before. Nothing at the scale of fifty dog-sized insects descending from the sky.
+
+Kaspar's voice cut through the chaos before the first locust hit Voller's shield. Formation commands. Precise, adapted to the terrain and the threat in the time it took most people to process what they were seeing.
+
+And then the man had fought.
+
+Dorn had seen excellent swordsmen. His father's garrison instructor had been excellent. The Formation School's combat trainers were excellent. The Iron Cross knights who had sparred with him during field exercises were, without exception, technically proficient.
+
+Kaspar was not.
+
+The swordsmanship was rough. The grip shifted during transitions in ways that any competent instructor would have corrected in the first week of training. The footwork had gaps, covered by speed and by whatever that breathing technique pumped through his body, but the gaps were there. His guard dropped after the third swing in a combination, and his recovery from the backhand was a half-second slower than it should have been, the kind of structural flaw that an opponent with formal training and patience would exploit.
+
+Yet Dorn knew he couldn't have beaten him.
+
+The cuts that lacked elegance still found the joints between thorax and abdomen. The footwork that had gaps still carried him to the right place at the right time. The guard that dropped after the third swing didn't matter because nothing survived to the fourth.
+
+It was ugly, and it worked. And the man didn't seem to care about the difference.
+
+When they'd found the building, Dorn had watched Kaspar's face go through a transformation that lasted perhaps two seconds.
+
+Kaspar processed the information, identified the priorities, and issued orders with the calm of a man who had done this before. Many times.
+
+The dawn assault was Kaspar's plan. Dorn had questioned it and Kaspar had provided a justification that was plausible but that Dorn suspected was not the real reason.
+
+Then the Titan.
+
+Dorn had fought. His longsword had bitten the wolf's flank twice, maybe three times. He'd dodged a tail strike. Failed to dodge the second. His shoulder had separated on impact with the supply pallet and he'd screamed and shoved it back into the socket with his palm braced against the concrete, and the white-hot agony of that had nearly taken him out of the fight entirely.
+
+He hadn't quit. He was proud of that.
+
+But what he had done was the contribution of a soldier in a battle that was being won by someone else.
+
+Kaspar had fought the Titan.
+
+One man with a bastard sword and a breathing technique, standing in front of something that could have crushed him with a footstep.
+
+When the forepaw had launched Kaspar through three walls of reinforced concrete, Dorn had been certain the man was dead.
+
+Instead Kaspar walked back through the holes.
+
+The man had been hit by a Titan and his only wound was a cut on his side.
+
+And then he'd said, "Miss me?" and charged back in.
+
+What made one knight better than another?
+
+Dorn had carried the question for three years. He had turned it over in every training yard and every classroom and every sleepless night.
+
+More scars, the sergeant had said.
+
+That was part of it. Kaspar had scars that Dorn couldn't see.
+
+The ambush on the return march was the last piece.
+
+Eckhardt's column had appeared on the western horizon, and Dorn's first instinct had been relief. Reinforcements. A friendly face.
+
+He had questioned Kaspar's caution. That's Captain Eckhardt. She's ours. Is that really necessary?
+
+Kaspar had felt the wrongness in the air or in the mana or in whatever invisible thing his perception mapped, and had begun preparing for a fight.
+
+The fire lances had fallen, and the world had become noise and heat and the screaming of men who were dying.
+
+Kaspar's instinct had saved them.
+
+He had started preparing for a fight while Dorn was still glad to see a friendly face.
+
+He read a situation before it declared itself and decided fast enough that the people around him survived.
+
+The walls of Qalathar appeared through the heat shimmer on the afternoon of the sixth day.
+
+The column had lost weight. The prisoners were dead, all of them, killed by Eckhardt's fire mages before they could reach the Sultan's custody. The workers walked at the center of the formation, exhausted but alive. Voller's scouts flanked them in a protective cordon that had not relaxed since the ambush.
+
+Farhan had moved to the front. The guide's stride quickened as the familiar landmark resolved through the shimmer, and behind him the horses pressed closer.
+
+Dorn walked near the rear.
+
+His arm still ached. The strapping had loosened during the march and he'd retied it twice, each time pulling the knots tighter.
+
+He didn't care about the arm.
+
+He was watching Kaspar.
+
+The man walked at the column's center. His coat was gone, lost in the Titan's chamber or torn away during the ambush. His shirt was stained with sweat and dust and the dark residue of blood that wasn't entirely his own. The bastard sword rode at his left hip, the scabbard battered.
+
+Kaspar's eyes moved. Even now, with Qalathar's walls visible and the immediate danger behind them, the man's attention swept the terrain.
+
+Dorn had entered the desert to judge this man.
+
+He had been arrogant enough to believe that seeing Kaspar up close would strip the legend down to something he could stand beside.
+
+He had been right about one thing. Kaspar was human-sized.
+
+He bled, made questionable calls, and fought with subpar technique. There were swordsmen in the Formation School who could match his bladework. There were tacticians in the Iron Cross who could match his planning.
+
+Because the bladework and the planning and the mana and the durability were not the point. They were tools. Instruments in the hands of a will that had been forged in fires Dorn couldn't see and tempered by losses Dorn couldn't measure.
+
+Something had happened to Kaspar von Hexenzeit, many things that would never appear in any report, and what those things had produced was not a soldier.
+
+A leader.
+
+The gate appeared through the shimmer. The bronze slabs. The ward symbols painted in blood. The Ashkeri gate guards with their half-masks and their curved swords.
+
+Dorn adjusted the strap on his shoulder. The pain flared and he let it.
+
+More scars.
+
+The gate opened and the column entered Qalathar.
+
+Dorn's right hand found the pommel of his longsword. He gripped it once, the pressure of a fist around a decision already made.
+
+I'll follow him.
+
+The power to make others want to stay.
+
+Dorn released the pommel and walked through the gate.
