@@ -198,7 +198,7 @@ export function headedIn(report: readonly string[], path: string): number {
   return report.filter((one) => one.startsWith(`${path} —`)).length
 }
 
-function standingFor(name: string, at: string): string {
+function forwarding(name: string, at: string): string {
   return [
     `import { ${name} as held } from ${JSON.stringify(at)}`,
     "",
@@ -211,15 +211,12 @@ const REAL: readonly Planted[] = [
   {
     slug: "file-itself",
     name: "fileItself",
-    code: standingFor(
-      "fileItself",
-      join(BESIDE, "file-itself/file-itself.context-warrant.code.ts")
-    ),
+    code: forwarding("fileItself", join(BESIDE, "file-itself/file-itself.context-warrant.code.ts")),
   },
   {
     slug: "file-page-type",
     name: "filePageType",
-    code: standingFor(
+    code: forwarding(
       "filePageType",
       join(BESIDE, "file-page-type/file-page-type.context-warrant.code.ts")
     ),
