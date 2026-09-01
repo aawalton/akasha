@@ -1,0 +1,19 @@
+{
+  "name": "@akasha/drive-google",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./env": "./drive-credentials/drive-credentials.module.code.ts",
+    "./auth": "./drive-auth/drive-auth.module.code.ts",
+    "./client": "./drive-client/drive-client.module.code.ts",
+    "./schema": "./drive-file-schema/drive-file-schema.module.code.ts",
+    "./files": "./drive-files/drive-files.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/google-oauth": "workspace:*",
+    "@googleapis/drive": "^20.2.0",
+    "@shared/errors-core": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

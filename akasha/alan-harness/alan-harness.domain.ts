@@ -15,6 +15,7 @@ export const alanHarness = {
     "workspace-package/personas-core",
     "workspace-package/email-inbound",
     "workspace-package/google-oauth",
+    "workspace-package/drive-google",
     "workspace-package/awen-core",
     "workspace-package/alanwalton-web",
     "workspace-package/imessage",
