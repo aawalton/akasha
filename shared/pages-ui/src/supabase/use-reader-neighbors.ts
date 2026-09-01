@@ -5,7 +5,6 @@ import { getOrderedNeighbors } from "@akasha/pages-access/ordered"
 import { type Page } from "@akasha/pages-core/page-types"
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect, useRef, useState } from "react"
 import type { ReaderNeighborLink } from "../components/reader-chrome"
 
@@ -20,7 +19,6 @@ export function useReaderNeighbors(
   id: string | undefined,
   pageTypeSlug: PageTypeSlug
 ): ReaderNeighbors {
-  const client = useSupabase()
   const [neighbors, setNeighbors] = useState<ReaderNeighbors>(EMPTY)
   const reqRef = useRef(0)
   useEffect(() => {
@@ -51,7 +49,7 @@ export function useReaderNeighbors(
         if (reqId === reqRef.current) setNeighbors(EMPTY)
       }
     })()
-  }, [client, id, pageTypeSlug])
+  }, [id, pageTypeSlug])
   return neighbors
 }
 

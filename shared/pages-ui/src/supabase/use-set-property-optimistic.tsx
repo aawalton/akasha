@@ -1,7 +1,6 @@
 "use client"
 
 import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { isJson } from "@akasha/utils-narrow/is-json"
 import { useCallback, useMemo } from "react"
 import type { InteractionToken } from "../perf/page-card-perf"
@@ -16,8 +15,7 @@ interface SetPropertyArgs {
 }
 
 export function useSetPropertyOptimistic() {
-  const client = useSupabase()
-  const boundPatch = useCallback((args: PatchPageArgs) => patchPage(args), [client])
+  const boundPatch = useCallback((args: PatchPageArgs) => patchPage(args), [])
   const optimisticPatch = useOptimisticPatchPage(boundPatch)
   return useMemo(
     () => (args: SetPropertyArgs) => {

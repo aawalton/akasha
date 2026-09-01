@@ -6,7 +6,6 @@ import { type PageWhere } from "@akasha/pages-core/page-types"
 import { FILE_BACKING_POLL_MS } from "@akasha/pages-ui-store/collection/fetch-attach"
 import { getContentPersistence } from "@akasha/pages-ui-store/singleton"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect, useMemo, useRef, useState } from "react"
 import { useQuery } from "@akasha/pages-ui/cache/use-query"
 import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
@@ -75,7 +74,6 @@ function useOnDemandPageById({
   convergenceSignal: string | undefined
   largeKeys: readonly string[] | undefined
 }): { page: PageWithProperties | null; isLoading: boolean } {
-  const client = useSupabase()
   const [page, setPage] = useState<PageWithProperties | null>(null)
   const [isLoading, setIsLoading] = useState(false)
   const reqRef = useRef(0)
@@ -128,6 +126,6 @@ function useOnDemandPageById({
         setIsLoading(false)
       }
     })()
-  }, [client, pageTypeSlug, id, enabled, includeContent, convergenceSignal, named])
+  }, [pageTypeSlug, id, enabled, includeContent, convergenceSignal, named])
   return { page, isLoading }
 }

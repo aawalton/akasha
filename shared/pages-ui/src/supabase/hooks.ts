@@ -5,7 +5,6 @@ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { type PageCondition, type PageWhere } from "@akasha/pages-core/page-types"
 import { createIdSuffixPipeline, type IdSuffixResult } from "@akasha/pages-ui-store/query/id-suffix-pipeline"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { useEffect, useMemo, useRef, useState } from "react"
 import { useAcquireSlug, usePipelineLive } from "@akasha/pages-ui/cache/tanstack-live"
@@ -99,7 +98,6 @@ export function useRelatedPages({
   pages: readonly { properties: Record<string, unknown> }[]
   pageTypeSlugById: ReadonlyMap<string, string>
 }): readonly PageWithProperties[] {
-  const client = useSupabase()
 
   const specs = useMemo<readonly RelationSpec[]>(() => {
     if (!definitions) return []
@@ -138,7 +136,7 @@ export function useRelatedPages({
       if (reqId !== reqRef.current) return
       setRows(result.map((row) => toPageWithProperties(row)))
     })()
-  }, [client, groupsKey])
+  }, [groupsKey])
 
   return rows
 }

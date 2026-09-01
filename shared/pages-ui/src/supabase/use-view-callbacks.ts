@@ -7,7 +7,6 @@ import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
 import { type Page } from "@akasha/pages-core/page-types"
 import { createView as createViewReducer, deleteView as deleteViewReducer, duplicateView as duplicateViewReducer, renameView as renameViewReducer, reorderViews as reorderViewsReducer, updateViewConfig as updateViewConfigReducer } from "@akasha/pages-core/view-state/reducers"
 import { type ViewEffect, type ViewRow } from "@akasha/pages-core/view-state/types"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { isJson } from "@akasha/utils-narrow/is-json"
 import { useCallback, useMemo } from "react"
@@ -37,19 +36,18 @@ export function useSupabaseViewCallbacks({
   ownerNavItemId: string
   views: readonly PageWithProperties[]
 }): ViewCallbacks {
-  const client = useSupabase()
 
   const boundCreate = useCallback(
     (args: CreatePageArgs): Promise<Page> => createPage(args),
-    [client]
+    []
   )
   const boundPatch = useCallback(
     (args: PatchPageArgs): Promise<Page | null> => patchPage(args),
-    [client]
+    []
   )
   const boundSoftDelete = useCallback(
     (args: DeletePageArgs): Promise<Page | null> => softDeletePage(args),
-    [client]
+    []
   )
 
   const createPageFn = useOptimisticCreatePage(boundCreate)
