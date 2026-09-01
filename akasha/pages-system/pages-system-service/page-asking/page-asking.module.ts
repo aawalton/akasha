@@ -38,7 +38,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "The tests this runs are the ones `@akasha/pages-query` names.",
+      statement: "The tests this runs are the ones `where-testing` names.",
     },
     {
       invariantKind: "departure",

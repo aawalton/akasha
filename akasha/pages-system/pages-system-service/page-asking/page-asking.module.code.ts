@@ -1,8 +1,8 @@
 import { listedAt, type Valued, valuesOfType } from "@akasha/indexes"
-import { matches, weigh } from "@akasha/pages-query/where-testing"
 import { propertiesFrom, sourceAmong, sourceIn } from "@akasha/pages-system/page-type-properties"
 import { wholeValue } from "@akasha/pages-system/page-uncommitted"
 import type { Value } from "@akasha/pages-system/page-value"
+import { matches, weigh } from "../where-testing/where-testing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

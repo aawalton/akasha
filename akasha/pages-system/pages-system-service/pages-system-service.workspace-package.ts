@@ -14,6 +14,7 @@ export const pagesSystemService = {
     "module/page-reading",
     "module/page-serving",
     "module/page-writing",
+    "module/where-testing",
     "workstation-service/pages-system-service",
   ],
   invariants: [
