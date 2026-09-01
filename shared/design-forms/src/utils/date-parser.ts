@@ -1,4 +1,4 @@
-import { getEsoDayAnchor } from "../../../../day/day"
+import { getEsoDayAnchor } from "@shared/day"
 import * as chrono from "chrono-node"
 import { z } from "zod"
 

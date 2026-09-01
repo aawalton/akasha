@@ -17,6 +17,9 @@
   },
   "references": [
     {
+      "path": "../../shared/day"
+    },
+    {
       "path": "../game-items-alchemy"
     },
     {

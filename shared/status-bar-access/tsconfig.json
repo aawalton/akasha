@@ -24,7 +24,6 @@
     "../../cache/keep/keep.ts",
     "../../cache/mark/mark.ts",
     "../../cache/outcome/outcome.ts",
-    "../../day/day.ts",
     "../../during-call/during-call.ts",
     "../../exclusive/exclusive.ts",
     "../../page/attachment-file.ts",

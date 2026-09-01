@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "../../../../day/day"
+import { getEsoDayStr } from "@shared/day"
 import { getSurplusStoplightTiers } from "@shared/status-bar-access/stoplights"
 import type { Route } from "./+types/api.surplus"
 import { refuseUncredentialedRingCaller } from "./api.categorization"

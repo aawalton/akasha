@@ -13,6 +13,7 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
+    "@shared/day": "workspace:*",
     "@shared/pages-url": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/supabase-database": "workspace:*",

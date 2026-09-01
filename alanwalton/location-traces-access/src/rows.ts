@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "../../../day/day"
+import { getEsoDayStr } from "@shared/day"
 import type { LocationTraceInsert } from "./types"
 
 export const ANCHOR_PAGE_TYPE = "eso-daily-tracking"

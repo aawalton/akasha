@@ -32,6 +32,9 @@
   },
   "references": [
     {
+      "path": "../../shared/day"
+    },
+    {
       "path": "../awen-core"
     },
     {

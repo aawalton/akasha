@@ -9,6 +9,7 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
+    "@shared/day": "workspace:*",
     "@shared/recurrence": "workspace:*"
   },
   "scripts": {

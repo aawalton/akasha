@@ -5,23 +5,19 @@
     "noEmit": false,
     "emitDeclarationOnly": true,
     "declarationDir": "dist",
+    "lib": [
+      "esnext"
+    ],
     "types": [
       "@types/bun"
-    ],
-    "rootDir": "../..",
-    "allowImportingTsExtensions": true
+    ]
   },
   "include": [
-    "src/**/*.ts"
+    "day.ts"
   ],
   "exclude": [
     "node_modules",
-    "dist",
-    "./**/*.test.ts"
+    "dist"
   ],
-  "references": [
-    {
-      "path": "../day"
-    }
-  ]
+  "references": []
 }

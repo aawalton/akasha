@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "../../../day/day"
+import { getEsoDayStr } from "@shared/day"
 import type { HealthSampleRecord } from "./types"
 
 export const ANCHOR_PAGE_TYPE = "eso-daily-tracking"

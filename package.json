@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "workspaces": [
+    "shared/day",
     "editor-extension",
     "akasha/agents-system",
     "akasha/checks-system",

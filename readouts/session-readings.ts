@@ -1,4 +1,4 @@
-import { dayAfter, nyWallToInstant } from "../day/day.ts"
+import { dayAfter, nyWallToInstant } from "@shared/day"
 import { type Ask, askOr } from "./readout-resolver.ts"
 
 export const SESSIONS_QUERY = "session-tracking-all"

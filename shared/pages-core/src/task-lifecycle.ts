@@ -1,4 +1,4 @@
-import { getEsoDayStr, getEsoDayStrOffset } from "../../../day/day"
+import { getEsoDayStr, getEsoDayStrOffset } from "@shared/day"
 import { assertNever } from "../../utils-narrow/src/assert-never"
 import type { PageWhere } from "./page-types"
 

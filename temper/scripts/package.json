@@ -1,6 +1,7 @@
 {
   "name": "@temper/scripts",
   "dependencies": {
+    "@shared/day": "workspace:*",
     "@shared/pages-access": "workspace:*",
     "@shared/pages-core": "workspace:*",
     "@shared/recurrence": "workspace:*",

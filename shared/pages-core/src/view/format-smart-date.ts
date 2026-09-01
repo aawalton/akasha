@@ -1,4 +1,4 @@
-import { diffEsoDays, getEsoDayStr } from "../../../../day/day"
+import { diffEsoDays, getEsoDayStr } from "@shared/day"
 
 const DATE_REGEX = /^\d{4}-\d{2}-\d{2}$/
 

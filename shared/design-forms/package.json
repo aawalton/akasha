@@ -25,6 +25,7 @@
     "@radix-ui/react-slot": "*"
   },
   "dependencies": {
+    "@shared/day": "workspace:*",
     "@shared/design-primitives": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "chrono-node": "^2.9.0",

@@ -15,6 +15,7 @@
     "test": "bun test"
   },
   "dependencies": {
+    "@shared/day": "workspace:*",
     "@infra/k8s-types": "workspace:*",
     "@shared/design-primitives": "workspace:*",
     "@shared/design-system": "workspace:*",

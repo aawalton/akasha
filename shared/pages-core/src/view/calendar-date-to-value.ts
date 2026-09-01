@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "../../../../day/day"
+import { getEsoDayStr } from "@shared/day"
 import { instantToMillis } from "../property-types/instant"
 import type { PropertyValue } from "../property-types/types"
 import type { PropertyDefinition } from "../types"

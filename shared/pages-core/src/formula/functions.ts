@@ -1,4 +1,4 @@
-import { getEsoDayStr, getEsoResetTime } from "../../../../day/day"
+import { getEsoDayStr, getEsoResetTime } from "@shared/day"
 import { advanceRecurrenceDueDate } from "@shared/recurrence/scheduling"
 import type { ReadonlyJSONValue } from "../schema/pages"
 import { FormulaEvaluationError } from "./errors"

@@ -1,6 +1,9 @@
 {
   "references": [
     {
+      "path": "./shared/day"
+    },
+    {
       "path": "./shared/supabase-database"
     },
     {

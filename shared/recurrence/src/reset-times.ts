@@ -10,4 +10,4 @@ export {
   getMountainMorningDayStr,
   nyWallHm,
   nyWallToInstant,
-} from "../../../day/day.ts"
+} from "@shared/day"
