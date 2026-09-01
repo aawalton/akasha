@@ -58,7 +58,7 @@ export function reachingFor(root: string): Naming {
   return said
 }
 
-export type Standing = {
+export type Page = {
   readonly path: string
   readonly value: Value
 }
@@ -79,7 +79,7 @@ export function bodiesOver(repo: string, carried: ReadonlyMap<string, string | n
 }
 
 export function reachingBuilt(
-  held: readonly Standing[],
+  held: readonly Page[],
   repo: string,
   fileProperties: ReadonlyMap<string, string | null>
 ): Naming {
