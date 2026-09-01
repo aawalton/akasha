@@ -6,4 +6,28 @@ export const filePropertyDefs = {
   slug: "file-property-defs",
   definition: "the property definitions a file-backed page type declares",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "gap",
+      statement: "Every question here refuses.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "`@akasha/pages-system-service` answers no question about what a page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal names `@akasha/pages-system/page-type-properties` as what reads a page type's properties off the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An empty list is never answered.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An empty list would read as a page type declaring no property.",
+    },
+  ],
 } as const satisfies Module
