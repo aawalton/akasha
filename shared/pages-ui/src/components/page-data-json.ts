@@ -1,4 +1,4 @@
-import { isRecord } from "../../../utils-narrow/src/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { AggregateInput } from "@akasha/pages-core/property-types/aggregate"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { PageDataJSON } from "@akasha/pages-core/types"

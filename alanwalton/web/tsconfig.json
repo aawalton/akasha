@@ -41,16 +41,7 @@
       "path": "../../shared/design-patterns"
     },
     {
-      "path": "../../shared/design-system"
-    },
-    {
       "path": "../../shared/pages-ui"
-    },
-    {
-      "path": "../../shared/status-bar-access"
-    },
-    {
-      "path": "../../shared/utils-narrow"
     },
     {
       "path": "../../shared/utils-test"

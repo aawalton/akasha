@@ -4,7 +4,7 @@ import { Badge } from "@akasha/design-badges/badge"
 import { useBadgeLayoutContext } from "@akasha/design-badges/badge-layout-context"
 import type { PageDataJSON } from "@akasha/pages-core/types"
 import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
-import { requireGet } from "@shared/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 
 import { MultiSelectPopover } from "../components/multi-select-popover"
 import type { PropertyDefinition } from "@akasha/pages-core/types"

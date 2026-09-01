@@ -1,5 +1,5 @@
 import { CliError, OperationalError } from "@akasha/errors-core/exit-code"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 import { ASC_ISSUER_ID, ASC_KEY_ID } from "./foundation"
 import { classifyTestflightFailure } from "./signing"

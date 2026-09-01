@@ -12,7 +12,7 @@ import {
 } from "@akasha/open-questions/question-status"
 import { usePage } from "@shared/pages-ui/supabase/use-page"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { type FormEvent, useState } from "react"
 import { useNavigate } from "react-router"
 import { SignedOutNotice } from "~/components/signed-out-notice"

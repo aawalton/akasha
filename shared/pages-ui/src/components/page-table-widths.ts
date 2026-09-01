@@ -4,7 +4,7 @@ import { formatAbsoluteInstant, instantToMillis } from "@akasha/pages-core/prope
 import { formatPropertyNumber, toNumber } from "@akasha/pages-core/property-types/number"
 import { type InstantConfig } from "@akasha/pages-core/schema/property-config-schemas"
 import { type PropertyType } from "@akasha/pages-core/types"
-import { assertNever } from "../../../utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { formatSmartDate } from "@akasha/pages-core/view/format-smart-date"

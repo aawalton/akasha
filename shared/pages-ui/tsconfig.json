@@ -30,9 +30,6 @@
       "path": "../design-patterns"
     },
     {
-      "path": "../utils-narrow"
-    },
-    {
       "path": "../object-store"
     }
   ]

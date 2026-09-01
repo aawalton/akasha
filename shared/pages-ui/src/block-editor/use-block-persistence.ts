@@ -10,7 +10,7 @@ import {
 import { type ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { Json } from "@akasha/supabase-database/json"
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
-import { isJson } from "../../../utils-narrow/src/is-json.ts"
+import { isJson } from "@akasha/utils-narrow/is-json"
 import { useCallback, useRef } from "react"
 import { toast } from "sonner"
 import { createSaveQueue, type SaveQueue } from "@akasha/pages-ui/block-editor/save-queue"

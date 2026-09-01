@@ -1,4 +1,4 @@
-import { isRecord } from "../../../utils-narrow/src/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { RESERVED_PROPERTY_IDS } from "./page-properties-shared"
 
 export const PAGE_TYPE_SLUG = "page-type"

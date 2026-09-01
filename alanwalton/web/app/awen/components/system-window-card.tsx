@@ -1,7 +1,7 @@
 import type { ItemAward, QuestWindow, StatusAssessment, SystemWindow, TalentActivation } from "@akasha/awen-core/system-window-schema"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { SystemChoiceCard } from "./system-choice-card"
 
 function Field({ label, value }: { label: string; value: string }) {

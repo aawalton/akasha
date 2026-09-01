@@ -1,4 +1,4 @@
-import { assertNever } from "../../../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { z } from "zod"
 import { cumulativeTrainCost, gainedStars, maxAffordableTrainCount, maxTeam, sumOwnedRanks, trainCost } from "@akasha/idle-system/accrual"
 import { AFFINITY_SEATS, APO_DIVISOR, ASCEND_MIN, BASE_IMAGE_ID, BOON_DEFS, ECHO_PER, MASTERY_RANK_REQ, PERK_DEFS, TRAIN_BULK_COUNT } from "@akasha/idle-system/constants"

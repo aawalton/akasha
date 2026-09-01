@@ -6,7 +6,7 @@ import { type PageCondition, type PageWhere } from "@akasha/pages-core/page-type
 import { createIdSuffixPipeline, type IdSuffixResult } from "@akasha/pages-ui-store/query/id-suffix-pipeline"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
-import { isRecord } from "../../../utils-narrow/src/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { useEffect, useMemo, useRef, useState } from "react"
 import { useAcquireSlug, usePipelineLive } from "../cache/tanstack-live"
 import {

@@ -1,5 +1,5 @@
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { optionalEnv } from "@shared/utils-narrow/require-env"
+import { optionalEnv } from "@akasha/utils-narrow/require-env"
 import {
   createSession,
   dismissAlert,

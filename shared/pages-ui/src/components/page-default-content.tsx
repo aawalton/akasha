@@ -9,7 +9,7 @@ import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design
 import { IconPicker } from "@akasha/design-patterns/icon-picker"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { isRecord } from "@shared/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { BlockEditor } from "../block-editor/block-editor"
 import { MarkdownRenderer } from "../markdown/markdown-renderer"
 import { MultiRelationPropertyBadge } from "../property-types/multi-relation"

@@ -15,7 +15,7 @@ import { FilterTextField } from "@akasha/design-primitives/filterable-list"
 import { Heading } from "@akasha/design-primitives/heading"
 import { SubView } from "@akasha/design-primitives/sub-view"
 import type { PropertyVisibilityMode, VisibilityChange } from "@akasha/pages-core/schema/view-data"
-import { requireGet } from "@shared/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from "react"
 import {
   applySectionDrop,

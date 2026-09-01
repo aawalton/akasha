@@ -4,7 +4,7 @@ import { getPages } from "@akasha/pages-access/get"
 import { type PageWhere } from "@akasha/pages-core/page-types"
 import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
-import { isRecord } from "../../../utils-narrow/src/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { useEffect, useMemo, useRef, useState } from "react"
 import { type PageWithProperties, toPageWithProperties } from "./types"
 

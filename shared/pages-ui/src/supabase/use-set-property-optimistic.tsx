@@ -2,7 +2,7 @@
 
 import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
-import { isJson } from "@shared/utils-narrow/is-json"
+import { isJson } from "@akasha/utils-narrow/is-json"
 import { useCallback, useMemo } from "react"
 import type { InteractionToken } from "../perf/page-card-perf"
 import { useOptimisticPatchPage } from "./mutations/use-optimistic-patch-page"

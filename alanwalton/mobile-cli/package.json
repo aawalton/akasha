@@ -6,7 +6,7 @@
     "@akasha/errors-core": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
     "zod": "^4.3.6"
   },

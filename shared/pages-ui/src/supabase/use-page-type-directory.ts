@@ -1,6 +1,6 @@
 "use client"
 
-import { isRecord } from "../../../utils-narrow/src/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { useEffect, useState } from "react"
 import type { PageTypeIdBySlug } from "./view-data-of-page"
 

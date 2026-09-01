@@ -8,7 +8,7 @@ import { type Asked, askNamed } from "@shared/pages-query"
 import { type MediaVariant } from "@shared/pages-ui/media/page-media-player"
 import { KOKORO_STREAM_LABEL, KOKORO_STREAM_VARIANT, STORED_READ_ALOUD_VARIANT } from "@akasha/pages-ui/media/media-src"
 import { getAvailableRenditions, pickDefaultVariant } from "@akasha/pages-ui/media/media-renditions"
-import { isRecord } from "../../../../shared/utils-narrow/src/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { resolveReadAloudSentenceMarks } from "~/lib/read-aloud-marks"
 
 const VOICED_PERSONAS_QUERY = "persona-all"

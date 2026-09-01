@@ -4,7 +4,7 @@ import { type GetPageArgs, getPage } from "@akasha/pages-access/get"
 import { type Page } from "@akasha/pages-core/page-types"
 import { isMedium, MEDIA_FORMATS, type Medium } from "@akasha/pages-core/media-formats"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
-import { requireMatchPositional } from "../../../utils-narrow/src/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
 

@@ -1,4 +1,4 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { useCallback, useEffect, useState } from "react"
 import { isWebKitClient } from "@akasha/pages-ui/media/is-webkit"
 import { mediaHlsSrcForVariant, mediaSrcForVariant } from "@akasha/pages-ui/media/media-src"
