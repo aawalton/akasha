@@ -15,7 +15,7 @@
     "./markdown-page-at": "./page/markdown-page-at/markdown-page-at.module.code.ts",
     "./markdown-page-name": "./page/markdown-page-name/markdown-page-name.module.code.ts",
     "./markdown-page-type": "./page/markdown-page-type/markdown-page-type.module.code.ts",
-    "./name-format/format-reaching": "./name-format/format-reaching/format-reaching.module.code.ts",
+    "./name-format/format-reaching": "./name-format/modules/format-reaching/format-reaching.module.code.ts",
     "./name-format/lower-camel-case": "./name-format/lower-camel-case/lower-camel-case.name-format.code.ts",
     "./name-format/lower-kebab-case": "./name-format/lower-kebab-case/lower-kebab-case.name-format.ts",
     "./name-format/lower-uuid": "./name-format/lower-uuid/lower-uuid.name-format.code.ts",
