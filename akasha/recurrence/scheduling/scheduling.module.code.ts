@@ -1,3 +1,4 @@
+import { padTwo } from "@akasha/digit-padding"
 import { RRule } from "rrule"
 import type {
   RecurrenceDueResult,
@@ -10,8 +11,7 @@ function toEpoch(date: string, time: string | null): number {
 }
 
 function utcDateString(d: Date): string {
-  const pad = (n: number) => String(n).padStart(2, "0")
-  return `${d.getUTCFullYear()}-${pad(d.getUTCMonth() + 1)}-${pad(d.getUTCDate())}`
+  return `${d.getUTCFullYear()}-${padTwo(d.getUTCMonth() + 1)}-${padTwo(d.getUTCDate())}`
 }
 
 export function advanceRecurrenceDueDate(
@@ -61,6 +61,5 @@ export function getOccurrenceAtOrAfter(rruleStr: string, from: string): string |
 }
 
 function formatRruleDate(d: Date): string {
-  const pad = (n: number) => String(n).padStart(2, "0")
-  return `${d.getUTCFullYear()}${pad(d.getUTCMonth() + 1)}${pad(d.getUTCDate())}T${pad(d.getUTCHours())}${pad(d.getUTCMinutes())}${pad(d.getUTCSeconds())}Z`
+  return `${d.getUTCFullYear()}${padTwo(d.getUTCMonth() + 1)}${padTwo(d.getUTCDate())}T${padTwo(d.getUTCHours())}${padTwo(d.getUTCMinutes())}${padTwo(d.getUTCSeconds())}Z`
 }

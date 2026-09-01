@@ -10,8 +10,9 @@
     "./send": "./imessage-send/imessage-send.module.code.ts"
   },
   "dependencies": {
-    "@akasha/ssh-access": "workspace:*",
+    "@akasha/digit-padding": "workspace:*",
     "@akasha/errors-core": "workspace:*",
+    "@akasha/ssh-access": "workspace:*",
     "zod": "^4.3.6"
   }
 }

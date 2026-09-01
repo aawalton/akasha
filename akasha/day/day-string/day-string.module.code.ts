@@ -1,9 +1,11 @@
+import { padTwo } from "@akasha/digit-padding"
+
 export const MS_PER_DAY = 86_400_000
 
 export const NOON = 12
 
 export function pad2(n: number): string {
-  return n < 10 ? `0${n}` : String(n)
+  return padTwo(n)
 }
 
 export function dayStrOf(at: Date): string {

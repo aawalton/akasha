@@ -9,6 +9,7 @@
     "./scheduling": "./scheduling/scheduling.module.code.ts"
   },
   "dependencies": {
+    "@akasha/digit-padding": "workspace:*",
     "rrule": "^2.8.1",
     "zod": "^4.3.6"
   }

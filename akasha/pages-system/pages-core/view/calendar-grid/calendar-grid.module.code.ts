@@ -1,3 +1,4 @@
+import { padTwo } from "@akasha/digit-padding"
 import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
 import { z } from "zod"
 
@@ -23,10 +24,6 @@ export const CALENDAR_WEEKDAY_LABELS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"
 
 const DAY_MS = 86_400_000
 
-function pad2(n: number): string {
-  return n < 10 ? `0${n}` : String(n)
-}
-
 function pad4(n: number): string {
   return n.toString().padStart(4, "0")
 }
@@ -48,7 +45,7 @@ function toNoonUtc(y: number, m: number, d: number): number {
 }
 
 function format(y: number, m: number, d: number): string {
-  return `${pad4(y)}-${pad2(m)}-${pad2(d)}`
+  return `${pad4(y)}-${padTwo(m)}-${padTwo(d)}`
 }
 
 export function addCalendarDays(dayStr: string, n: number): string {
@@ -74,7 +71,7 @@ export function getWeekStart(dayStr: string): string {
 export function monthKeyOf(dayStr: string): string {
   const parsed = parseDay(dayStr)
   if (parsed === null) return ""
-  return `${pad4(parsed[0])}-${pad2(parsed[1])}`
+  return `${pad4(parsed[0])}-${padTwo(parsed[1])}`
 }
 
 export function shiftMonth(anchorDayStr: string, delta: number): string {
@@ -105,5 +102,5 @@ export function buildMonthGrid(anchorDayStr: string): MonthGrid {
     }
     weeks.push(row)
   }
-  return { monthKey: `${pad4(y)}-${pad2(m)}`, label: `${MONTH_NAMES[m - 1]} ${y}`, weeks }
+  return { monthKey: `${pad4(y)}-${padTwo(m)}`, label: `${MONTH_NAMES[m - 1]} ${y}`, weeks }
 }

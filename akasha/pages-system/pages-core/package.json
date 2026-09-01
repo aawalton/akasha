@@ -68,6 +68,7 @@
   },
   "dependencies": {
     "@akasha/day": "workspace:*",
+    "@akasha/digit-padding": "workspace:*",
     "@akasha/id-minting": "workspace:*",
     "@akasha/pages-formula": "workspace:*",
     "@akasha/pages-url": "workspace:*",

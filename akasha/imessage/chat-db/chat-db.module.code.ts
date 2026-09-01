@@ -1,3 +1,4 @@
+import { padTwo } from "@akasha/digit-padding"
 import { z } from "zod"
 import { handleKey } from "../contacts-db/contacts-db.module.code.ts"
 import { decodeAttributedBody } from "../typedstream/typedstream.module.code.ts"
@@ -213,8 +214,7 @@ export function parseUnreadCount(stdout: string): number {
 
 export function formatLocalMinute(unixSeconds: number): string {
   const d = new Date(unixSeconds * 1000)
-  const p = (n: number): string => String(n).padStart(2, "0")
-  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}T${p(d.getHours())}:${p(d.getMinutes())}`
+  return `${d.getFullYear()}-${padTwo(d.getMonth() + 1)}-${padTwo(d.getDate())}T${padTwo(d.getHours())}:${padTwo(d.getMinutes())}`
 }
 
 export function messageLabel(msg: ImessageMessage, nameByKey: ReadonlyMap<string, string>): string {
