@@ -16,28 +16,54 @@ test("an arrow annotated that way is refused", () => {
   expect(noVoidReturn(standing("const one = (): void => {}\n"))).toHaveLength(1)
 })
 
+test("a function expression annotated that way is refused", () => {
+  expect(noVoidReturn(standing("const one = function (): void {}\n"))).toHaveLength(1)
+})
+
 test("a method declaration is refused", () => {
   expect(noVoidReturn(standing("class One { two(): void {} }\n"))).toHaveLength(1)
 })
 
-test("a function type is refused, that being the slot the value lands in", () => {
-  expect(noVoidReturn(standing("type One = () => void\n"))).toHaveLength(1)
+test("a method an object literal carries is refused", () => {
+  expect(noVoidReturn(standing("const one = { two(): void {} }\n"))).toHaveLength(1)
 })
 
-test("a method signature is refused", () => {
-  expect(noVoidReturn(standing("interface One { two(): void }\n"))).toHaveLength(1)
+test("a getter is refused", () => {
+  expect(noVoidReturn(standing("class One { get two(): void {} }\n"))).toHaveLength(1)
 })
 
-test("a call signature is refused", () => {
-  expect(noVoidReturn(standing("interface One { (): void }\n"))).toHaveLength(1)
+test("a function type stands, being a function written elsewhere", () => {
+  expect(noVoidReturn(standing("type One = () => void\n"))).toEqual([])
 })
 
-test("a property holding a function type is refused", () => {
-  expect(noVoidReturn(standing("interface One { two: () => void }\n"))).toHaveLength(1)
+test("a callback parameter's type stands", () => {
+  expect(noVoidReturn(standing("function one(two: () => void): undefined {}\n"))).toEqual([])
 })
 
-test("a constructor type is refused", () => {
-  expect(noVoidReturn(standing("type One = new () => void\n"))).toHaveLength(1)
+test("a property holding a function type stands", () => {
+  expect(noVoidReturn(standing("interface One { two: () => void }\n"))).toEqual([])
+})
+
+test("a method signature stands", () => {
+  expect(noVoidReturn(standing("interface One { two(): void }\n"))).toEqual([])
+})
+
+test("a call signature stands", () => {
+  expect(noVoidReturn(standing("interface One { (): void }\n"))).toEqual([])
+})
+
+test("a constructor type stands", () => {
+  expect(noVoidReturn(standing("type One = new () => void\n"))).toEqual([])
+})
+
+test("a return annotation that is itself a function type stands", () => {
+  expect(noVoidReturn(standing("function one(): () => void {\n  return () => {}\n}\n"))).toEqual([])
+})
+
+test("an arrow filling a `void` slot is refused for its own annotation alone", () => {
+  const said = noVoidReturn(standing("const one: () => void = (): void => {}\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.line).toBe(1)
 })
 
 test("`undefined` in the same place stands", () => {
