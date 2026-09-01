@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { dataAt } from "@akasha/file-system/data-place"
+import { ran } from "@akasha/utils-run/running"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import { askedIn, holdingIn, refusalFor, SCOPE } from "./block-akasha-edits.agent-hook.code.ts"
 
@@ -232,9 +233,9 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
     tool_input: { file_path: "akasha/hook-system/hook-system.domain.ts" },
     cwd: HERE,
   })
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payload) })
-  expect(ran.exitCode).toBe(2)
-  const said: unknown = JSON.parse(ran.stdout.toString())
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payload) })
+  expect(done.code).toBe(2)
+  const said: unknown = JSON.parse(done.out)
   expect(said).toMatchObject({ decision: "block" })
   expect((said as { reason: string }).reason).toContain("akasha write --file-path akasha/")
 })
@@ -245,12 +246,12 @@ test("the agent the call came from names the folder the body is staged in", () =
     tool_input: { file_path: "akasha/hook-system/hook-system.domain.ts" },
     cwd: HERE,
   })
-  const ran = Bun.spawnSync(["bun", SCRIPT], {
+  const done = ran(["bun", SCRIPT], {
     stdin: Buffer.from(payload),
     env: { ...process.env, AGENT_ID: "01a0-stated" },
   })
-  expect(ran.exitCode).toBe(2)
-  expect(ran.stderr.toString()).toContain("/var/tmp/01a0-stated/block-akasha-edits-")
+  expect(done.code).toBe(2)
+  expect(done.err).toContain("/var/tmp/01a0-stated/block-akasha-edits-")
 })
 
 test("the hook stands aside on stdin for a path outside the guarded roots", () => {
@@ -259,13 +260,13 @@ test("the hook stands aside on stdin for a path outside the guarded roots", () =
     tool_input: { file_path: "/var/tmp/block-akasha-edits-aside.txt" },
     cwd: HERE,
   })
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payload) })
-  expect(ran.exitCode).toBe(0)
-  expect(ran.stdout.toString()).toBe("")
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payload) })
+  expect(done.code).toBe(0)
+  expect(done.out).toBe("")
 })
 
 test("the hook prints its scope when it is asked", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
-  expect(ran.exitCode).toBe(0)
-  expect(ran.stdout.toString()).toContain("NOT REACHED")
+  const done = ran(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
+  expect(done.code).toBe(0)
+  expect(done.out).toContain("NOT REACHED")
 })
