@@ -1,6 +1,6 @@
-import { type Asked, askNamed } from "@akasha/pages-query"
-import { type QueryRow } from "@akasha/pages-query/answer-schema"
-import { askComposed } from "@akasha/pages-query/ask"
+import { type Asked, askNamed } from "@shared/pages-query"
+import { type QueryRow } from "@shared/pages-query/answer-schema"
+import { askComposed } from "@shared/pages-query/ask"
 
 const PERSONA_QUERY = "persona-all"
 const POINTS_SOURCE_QUERY = "persona-points-source-all"

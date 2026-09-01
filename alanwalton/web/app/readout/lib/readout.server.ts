@@ -1,4 +1,4 @@
-import { askNamed } from "@akasha/pages-query"
+import { askNamed } from "@shared/pages-query"
 
 const READOUTS_ALL = "readouts-all"
 

@@ -1,5 +1,5 @@
-import { askComposed, type ComposedQuery } from "@akasha/pages-query/ask"
-import { type Asked } from "@akasha/pages-query"
+import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
+import { type Asked } from "@shared/pages-query"
 import { nameFromAt } from "./file-name"
 import { backings, type Roster } from "./file-write-backing"
 

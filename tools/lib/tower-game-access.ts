@@ -1,7 +1,7 @@
 import { type TowerState, TowerStateSchema } from "@alanwalton/tower-core/state-schema"
 import { TOWER_SESSION_SLUG } from "@alanwalton/tower/tower/page-types"
-import { patchRow, writeRow } from "@akasha/pages-query"
-import { askComposed } from "@akasha/pages-query/ask"
+import { patchRow, writeRow } from "@shared/pages-query"
+import { askComposed } from "@shared/pages-query/ask"
 
 export const TOWER_WRITER = "ops tower"
 

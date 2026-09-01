@@ -1,4 +1,4 @@
-import type { Value } from "@akasha/pages-query"
+import type { Value } from "@shared/pages-query"
 import { fileRelationDeclarations } from "./file-property-defs.ts"
 import { nameOfPageId, type Translated } from "./file-page-name.ts"
 import { namesNothing, type RelationOnType, relationsOn, standsUnder } from "./file-relation.ts"

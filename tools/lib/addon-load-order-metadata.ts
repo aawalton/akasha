@@ -1,6 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import {
   type AddonManifest,
   addonManifestSchema,

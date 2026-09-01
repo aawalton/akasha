@@ -1,5 +1,5 @@
 import type { PageWhere } from "@shared/pages-core/page-types"
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import type { Database } from "../../supabase-database/src/generated/database"
 import type { SupabaseClient } from "@supabase/supabase-js"
 

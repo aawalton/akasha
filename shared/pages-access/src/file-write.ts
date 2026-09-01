@@ -3,8 +3,8 @@ import {
   removePage as removeOverService,
   type Written,
   writePage as writeOverService,
-} from "@akasha/pages-query"
-import { askComposed } from "@akasha/pages-query/ask"
+} from "@shared/pages-query"
+import { askComposed } from "@shared/pages-query/ask"
 import { z } from "zod"
 import { NAMED_FOR_DEFAULT, nameForNew, nameFromAt, refuseTakenName } from "./file-name"
 import { askableNarrows, matches, narrowing } from "./file-narrow"

@@ -1,4 +1,4 @@
-import type { Value } from "@akasha/pages-query"
+import type { Value } from "@shared/pages-query"
 import type { MbArtist, MbArtistSearchHit, MbRecording, MbWork } from "./schemas"
 
 export type Written = "solo" | "collab"

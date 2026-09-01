@@ -1,4 +1,4 @@
-import { patchRow } from "@akasha/pages-query"
+import { patchRow } from "@shared/pages-query"
 import { fetchAllEvents } from "../communico/client"
 import { caldataEventToPageProps, type MapContext } from "../map/to-page"
 import { emptyResult, type SyncResult } from "./sync-result"

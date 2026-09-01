@@ -1,4 +1,4 @@
-import { writePage } from "@akasha/pages-query"
+import { writePage } from "@shared/pages-query"
 import { CONSENT_TEXT_VERSION } from "@akasha/person-system/sms-consent"
 import { z } from "zod"
 import { capacitorCorsHeaders } from "~/lib/capacitor-cors"

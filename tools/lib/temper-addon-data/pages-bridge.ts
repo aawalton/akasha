@@ -1,5 +1,5 @@
 
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import { requireFirst } from "@shared/utils-narrow/require-first"
 import { type FileTree } from "../../../page/file-tree.ts"
 import { diskFileTree } from "../../../page/file-tree.ts"

@@ -1,6 +1,6 @@
 import { captureError } from "@shared/pages-access/capture-error"
-import { patchPage } from "@akasha/pages-query"
-import { askComposed } from "@akasha/pages-query/ask"
+import { patchPage } from "@shared/pages-query"
+import { askComposed } from "@shared/pages-query/ask"
 import type { Catalog } from "~/idle/lib/catalog"
 import type { GameState } from "@akasha/idle-system/state"
 import { loadPersonaInfoBySlug, resolveDrawContext } from "~/idle/lib/gacha-draw-context.server"

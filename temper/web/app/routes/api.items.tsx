@@ -1,4 +1,4 @@
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import type { MinedItemData } from "@temper/game-items-core/item-tooltip-types"
 import { MINED_ITEM_PAGE_TYPE, rowToMinedItemData } from "@/lib/mined-item-rows"
 import type { Route } from "./+types/api.items"

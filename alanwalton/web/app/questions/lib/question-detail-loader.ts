@@ -1,5 +1,5 @@
 import type { QuestionLink } from "@shared/open-questions"
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { z } from "zod"
 

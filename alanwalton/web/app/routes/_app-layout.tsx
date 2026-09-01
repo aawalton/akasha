@@ -1,5 +1,5 @@
 import { Toaster } from "@shared/design-primitives/components/sonner"
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import { PlayingSessionProvider } from "@shared/pages-ui/media/playing-session-context"
 import { SupabaseProvider } from "@shared/supabase-rr/provider"
 import { getUser } from "@shared/supabase-rr/auth/server"

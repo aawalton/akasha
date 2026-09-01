@@ -1,4 +1,4 @@
-import { askNamed } from "@akasha/pages-query"
+import { askNamed } from "@shared/pages-query"
 import { z } from "zod"
 
 const PERSONA_QUERY = "persona-all"

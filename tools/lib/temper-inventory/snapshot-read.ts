@@ -1,4 +1,4 @@
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import { assembleInventory } from "@temper/game-items-core/assemble-inventory"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
 import { shape } from "../shape.ts"

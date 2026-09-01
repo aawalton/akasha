@@ -1,4 +1,4 @@
-import { patchRows } from "@akasha/pages-query"
+import { patchRows } from "@shared/pages-query"
 import { isRecord } from "@shared/utils-narrow/is-record"
 import { MINE_NAME, MINED_QUEST_PAGE_TYPE } from "@/lib/mined-item-rows"
 import { validateWatcherToken } from "@/lib/watcher-auth"

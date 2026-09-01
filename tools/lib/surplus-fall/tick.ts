@@ -1,5 +1,5 @@
-import { patchPage, writePage } from "@akasha/pages-query"
-import { askComposed } from "@akasha/pages-query/ask"
+import { patchPage, writePage } from "@shared/pages-query"
+import { askComposed } from "@shared/pages-query/ask"
 import { getEsoDayStr } from "@shared/recurrence/reset-times"
 import { ALAN_PERSON } from "../notify.ts"
 import { writeNotification } from "../push-notification/feed.ts"

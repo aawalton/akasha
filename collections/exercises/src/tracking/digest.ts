@@ -1,4 +1,4 @@
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import { getEsoDayStr } from "@shared/recurrence/reset-times"
 import { getPages, pageOfRow } from "../pages/access"
 import type { Page } from "../pages/page"

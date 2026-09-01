@@ -1,7 +1,7 @@
 import { type MediaConfig, parseMediaConfig } from "@shared/pages-core/schema/media-config"
 import { parseSequenceConfig, type SequenceConfig } from "@shared/pages-core/schema/sequence-config"
-import { askComposed, type ComposedQuery } from "@akasha/pages-query/ask"
-import { type Asked } from "@akasha/pages-query"
+import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
+import { type Asked } from "@shared/pages-query"
 import { z } from "zod"
 
 const PAGE_TYPE_SLUG = "page-type"

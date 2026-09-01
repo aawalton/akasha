@@ -4,7 +4,7 @@ import {
   askPage,
   type NamingAsk,
   type NamingAsked,
-} from "@akasha/pages-query/ask"
+} from "@shared/pages-query/ask"
 import { z } from "zod"
 import { fileRelationDeclarations } from "./file-property-defs.ts"
 import { type FileReadDeps, fileBackedPageTypes, isFileBacked, pageOf } from "./file-read.ts"

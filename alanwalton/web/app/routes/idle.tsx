@@ -1,4 +1,4 @@
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { redirect } from "react-router"
 import type { Route } from "./+types/idle"

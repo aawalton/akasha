@@ -1,5 +1,5 @@
-import { askComposed, askPageTypes } from "@akasha/pages-query/ask"
-import { type Asked } from "@akasha/pages-query"
+import { askComposed, askPageTypes } from "@shared/pages-query/ask"
+import { type Asked } from "@shared/pages-query"
 import { buildRawPageRows } from "./file-rows.ts"
 import { getPageTypeBySlug } from "./page-type.ts"
 import { getPropertyDefinitions, type PropertyDefinition } from "./page-type-config.ts"

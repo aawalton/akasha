@@ -1,6 +1,6 @@
 import { MAX_OPTION_LABEL_LENGTH, resolveSelectOptionCreate } from "@shared/pages-core/schema/select-option-create"
 import { multiSelectConfigSchema } from "@shared/pages-core/schema/property-config-schemas"
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { z } from "zod"
 

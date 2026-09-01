@@ -1,4 +1,4 @@
-import type { Value } from "@akasha/pages-query"
+import type { Value } from "@shared/pages-query"
 import type { LrclibRecord } from "./schemas"
 
 const LYRICS_SOURCE = "lrclib"

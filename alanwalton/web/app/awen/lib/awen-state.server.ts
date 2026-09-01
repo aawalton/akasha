@@ -1,5 +1,5 @@
 import type { GameState } from "@alanwalton/awen-core/state-schema"
-import { askComposed } from "@akasha/pages-query/ask"
+import { askComposed } from "@shared/pages-query/ask"
 import { parseAwenStatePage } from "./awen-state-parse"
 import type { AwenGameConfig } from "./game.server"
 

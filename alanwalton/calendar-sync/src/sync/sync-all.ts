@@ -1,5 +1,5 @@
-import { askNamed, patchPage } from "@akasha/pages-query"
-import type { QueryRow } from "@akasha/pages-query/answer-schema"
+import { askNamed, patchPage } from "@shared/pages-query"
+import type { QueryRow } from "@shared/pages-query/answer-schema"
 import { combineResults, type SyncResult } from "./sync-result"
 import { type CalendarSource, syncSource, WRITER } from "./sync-source"
 import { trackSyncRun } from "./track-sync-run"

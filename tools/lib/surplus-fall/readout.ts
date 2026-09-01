@@ -1,5 +1,5 @@
-import { askNamed, askTaking } from "@akasha/pages-query"
-import { askPage } from "@akasha/pages-query/ask"
+import { askNamed, askTaking } from "@shared/pages-query"
+import { askPage } from "@shared/pages-query/ask"
 import { resolveReadoutGroup } from "../../../readouts/readout-resolver.ts"
 import { type ReadoutScale, readoutShape } from "../../../readouts/readout-scale-shape.ts"
 import { isTierColor, type Rung } from "./tier.ts"

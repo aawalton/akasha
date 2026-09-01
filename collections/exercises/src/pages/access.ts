@@ -1,5 +1,5 @@
-import { patchPage as patchPageThere, type Value, writePage } from "@akasha/pages-query"
-import { askComposed, type ComposedQuery } from "@akasha/pages-query/ask"
+import { patchPage as patchPageThere, type Value, writePage } from "@shared/pages-query"
+import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
 import type { Json, Page } from "./page"
 
 export const WRITER = "ops exercise"
