@@ -295,6 +295,9 @@
         "react-dom": "^18 || ^19",
       },
     },
+    "akasha/design/design-tokens": {
+      "name": "@akasha/design-tokens",
+    },
     "akasha/digit-padding": {
       "name": "@akasha/digit-padding",
     },
@@ -325,6 +328,15 @@
     },
     "akasha/email-inbound": {
       "name": "@akasha/email-inbound",
+    },
+    "akasha/errors-client": {
+      "name": "@akasha/errors-client",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+      },
     },
     "akasha/errors-core": {
       "name": "@akasha/errors-core",
@@ -493,6 +505,8 @@
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
+        "@shared/pages-query": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -667,6 +681,7 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/geo-io": "workspace:*",
         "@akasha/id-minting": "workspace:*",
@@ -686,7 +701,6 @@
         "@infra/k8s-types": "workspace:*",
         "@protomaps/basemaps": "^5.7.2",
         "@shared/design-system": "workspace:*",
-        "@shared/errors-client": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
@@ -742,6 +756,7 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/id-minting": "workspace:*",
@@ -764,7 +779,6 @@
         "@fontsource-variable/literata": "^5.2.5",
         "@infra/k8s-types": "workspace:*",
         "@shared/design-system": "workspace:*",
-        "@shared/errors-client": "workspace:*",
         "@shared/notifications": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/open-questions": "workspace:*",
@@ -826,6 +840,7 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -838,7 +853,6 @@
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
         "@shared/design-system": "workspace:*",
-        "@shared/errors-client": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "isbot": "^5.1.36",
@@ -868,6 +882,7 @@
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -876,7 +891,6 @@
         "@infra/k8s-types": "workspace:*",
         "@shared/design-patterns": "workspace:*",
         "@shared/design-system": "workspace:*",
-        "@shared/errors-client": "workspace:*",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
         "react": "19.2.0",
@@ -959,7 +973,7 @@
       "name": "ops",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/design-tokens": "workspace:*",
+        "@akasha/design-tokens": "workspace:*",
         "zod": "^4.4.3",
       },
       "devDependencies": {
@@ -1029,7 +1043,7 @@
       "name": "@infra/cluster-checks",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/design-tokens": "workspace:*",
+        "@akasha/design-tokens": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -1348,6 +1362,16 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
+    "readouts": {
+      "name": "readouts",
+      "dependencies": {
+        "@akasha/day": "workspace:*",
+        "@shared/pages-query": "workspace:*",
+      },
+      "devDependencies": {
+        "@types/bun": "^1.3.9",
+      },
+    },
     "shared/auth": {
       "name": "@shared/auth",
       "version": "0.1.0",
@@ -1491,30 +1515,6 @@
         "tailwindcss": "^4.0",
       },
     },
-    "shared/design-tokens": {
-      "name": "@shared/design-tokens",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "shared/errors-client": {
-      "name": "@shared/errors-client",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "@types/react": "^19",
-        "react": "19.2.0",
-        "typescript": "^5.8.3",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-      },
-    },
     "shared/notifications": {
       "name": "@shared/notifications",
       "version": "0.1.0",
@@ -1571,6 +1571,7 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-client": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
@@ -1580,7 +1581,6 @@
         "@akasha/supabase-database": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
-        "@shared/errors-client": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -1635,12 +1635,8 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/personas-core": "workspace:*",
         "@shared/pages-query": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
+        "readouts": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -1708,13 +1704,13 @@
         "@akasha/day": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-client": "workspace:*",
         "@akasha/id-minting": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
         "@shared/design-system": "workspace:*",
-        "@shared/errors-client": "workspace:*",
         "@shared/notifications": "workspace:*",
         "@shared/status-bar-access": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
@@ -1819,7 +1815,7 @@
       "name": "@temper/catalog-host",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/shared-saved-variables": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -1866,7 +1862,7 @@
       "name": "@temper/game-characters-champion-points",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/shared-formula-framework": "workspace:*",
       },
       "devDependencies": {
@@ -1878,7 +1874,7 @@
       "name": "@temper/game-characters-character",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
         "@temper/game-characters-classes": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
@@ -1921,7 +1917,7 @@
       "name": "@temper/game-characters-classes",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/shared-formula-framework": "workspace:*",
       },
       "devDependencies": {
@@ -1933,7 +1929,7 @@
       "name": "@temper/game-characters-equipment",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-classes": "workspace:*",
         "@temper/game-characters-skill-lines": "workspace:*",
         "@temper/shared-formula-framework": "workspace:*",
@@ -1964,7 +1960,7 @@
       "name": "@temper/game-characters-races",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -1975,7 +1971,7 @@
       "name": "@temper/game-characters-skill-lines",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -1986,7 +1982,7 @@
       "name": "@temper/game-characters-skills",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-classes": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-characters-races": "workspace:*",
@@ -2030,7 +2026,7 @@
       "name": "@temper/game-characters-skills-morphs-core",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-skill-lines": "workspace:*",
         "@temper/game-characters-skills": "workspace:*",
       },
@@ -2043,7 +2039,7 @@
       "name": "@temper/game-characters-stats",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
@@ -2062,7 +2058,7 @@
       "name": "@temper/game-codec",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-classes": "workspace:*",
@@ -2250,7 +2246,7 @@
       "name": "@temper/game-companions-addon",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/design-tokens": "workspace:*",
+        "@akasha/design-tokens": "workspace:*",
         "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
         "@temper/shared-capture-perf": "workspace:*",
         "@temper/shared-foundation-misc-codec": "workspace:*",
@@ -2288,7 +2284,7 @@
       "name": "@temper/game-companions-core",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-characters-skills": "workspace:*",
@@ -2460,7 +2456,7 @@
       "name": "@temper/game-items-addon",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/design-tokens": "workspace:*",
+        "@akasha/design-tokens": "workspace:*",
         "@temper/game-characters-capture-addon": "workspace:*",
         "@temper/game-characters-skill-lines": "workspace:*",
         "@temper/game-characters-skills-morphs-core": "workspace:*",
@@ -2475,7 +2471,7 @@
         "@temper/shared-narrow": "workspace:*",
       },
       "devDependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "typescript": "^5.8.3",
         "zod": "^4.3.6",
       },
@@ -2484,7 +2480,7 @@
       "name": "@temper/game-items-alchemy",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/shared-formula-framework": "workspace:*",
       },
       "devDependencies": {
@@ -2516,7 +2512,7 @@
       "name": "@temper/game-items-core",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-characters-skills": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
@@ -2566,7 +2562,7 @@
       "name": "@temper/game-items-filters-core",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
         "@temper/game-items-core": "workspace:*",
@@ -2582,7 +2578,7 @@
       "name": "@temper/game-items-rules-core",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
@@ -2611,7 +2607,7 @@
       "name": "@temper/game-items-rules-matcher",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-characters-skill-lines": "workspace:*",
@@ -2636,7 +2632,7 @@
       "name": "@temper/game-items-rules-routing",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-items-core": "workspace:*",
         "@temper/game-items-rules-core": "workspace:*",
         "@temper/game-items-rules-routing-core": "workspace:*",
@@ -2651,7 +2647,7 @@
       "name": "@temper/game-items-rules-routing-core",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-items-core": "workspace:*",
         "@temper/game-items-rules-core": "workspace:*",
       },
@@ -2726,7 +2722,7 @@
       "name": "@temper/game-trading-core",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-items-core": "workspace:*",
         "@temper/shared-capture-host": "workspace:*",
         "zod": "^4.3.6",
@@ -2747,7 +2743,7 @@
       "name": "@temper/game-trading-pricing",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2771,7 +2767,7 @@
       "name": "@temper/player-build-validation",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-skills": "workspace:*",
         "@temper/game-codec": "workspace:*",
@@ -2791,7 +2787,7 @@
       "name": "@temper/player-completion",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
         "@temper/game-characters-classes": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
@@ -2815,7 +2811,7 @@
       "name": "@temper/player-completion-addon",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/design-tokens": "workspace:*",
+        "@akasha/design-tokens": "workspace:*",
         "@temper/game-characters-capture-addon": "workspace:*",
         "@temper/game-characters-skills-morphs-addon": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
@@ -2839,8 +2835,8 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-patterns": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@shared/design-system": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
         "@temper/game-characters-classes": "workspace:*",
         "@temper/game-characters-skill-lines": "workspace:*",
         "@temper/game-characters-skills-morphs-core": "workspace:*",
@@ -2890,7 +2886,7 @@
       "name": "@temper/player-economics-core",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
         "@temper/game-items-core": "workspace:*",
         "@temper/game-trading-pricing": "workspace:*",
@@ -2907,8 +2903,8 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@shared/design-system": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
         "@temper/game-characters": "workspace:*",
         "@temper/game-codec": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
@@ -2945,11 +2941,11 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
         "@temper/game-characters-character-ui": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-characters-equipment-ui": "workspace:*",
@@ -3040,7 +3036,7 @@
         "@akasha/supabase-client": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/catalog-core": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
@@ -3329,8 +3325,8 @@
       "name": "@temper/shared-build-deploy-addons-resolve",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -3343,7 +3339,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@temper/shared-build-deploy-addons-resolve": "workspace:*",
         "@temper/shared-build-deploy-lua-runner": "workspace:*",
         "@temper/shared-foundation-misc-eso-paths": "workspace:*",
@@ -3359,7 +3355,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "extract-zip": "^2.0.1",
         "zod": "^4.3.6",
       },
@@ -3386,7 +3382,7 @@
       "name": "@temper/shared-build-deploy-saved-vars-migration",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -3551,7 +3547,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/day": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
       "devDependencies": {
         "@temper/shared-foundation-misc-dungeons": "workspace:*",
@@ -3604,7 +3600,7 @@
       "name": "@temper/shared-interface-hud-addon",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/design-tokens": "workspace:*",
+        "@akasha/design-tokens": "workspace:*",
         "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
         "@temper/shared-interface-hud-scene-catalog": "workspace:*",
         "@temper/shared-interface-lam": "workspace:*",
@@ -3681,7 +3677,7 @@
       "name": "@temper/shared-saved-variables",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/utils-narrow": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -3696,6 +3692,7 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -3705,16 +3702,15 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/design-system": "workspace:*",
-        "@shared/errors-client": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
         "@temper/game-characters": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
@@ -3818,6 +3814,8 @@
 
     "@akasha/design-primitives": ["@akasha/design-primitives@workspace:akasha/design/design-primitives"],
 
+    "@akasha/design-tokens": ["@akasha/design-tokens@workspace:akasha/design/design-tokens"],
+
     "@akasha/digit-padding": ["@akasha/digit-padding@workspace:akasha/digit-padding"],
 
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
@@ -3827,6 +3825,8 @@
     "@akasha/email-google": ["@akasha/email-google@workspace:akasha/email-google"],
 
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
+
+    "@akasha/errors-client": ["@akasha/errors-client@workspace:akasha/errors-client"],
 
     "@akasha/errors-core": ["@akasha/errors-core@workspace:akasha/errors-core"],
 
@@ -4487,10 +4487,6 @@
     "@shared/design-patterns": ["@shared/design-patterns@workspace:shared/design-patterns"],
 
     "@shared/design-system": ["@shared/design-system@workspace:shared/design-system"],
-
-    "@shared/design-tokens": ["@shared/design-tokens@workspace:shared/design-tokens"],
-
-    "@shared/errors-client": ["@shared/errors-client@workspace:shared/errors-client"],
 
     "@shared/notifications": ["@shared/notifications@workspace:shared/notifications"],
 
@@ -5735,6 +5731,8 @@
     "readable-stream": ["readable-stream@3.6.2", "", { "dependencies": { "inherits": "^2.0.3", "string_decoder": "^1.1.1", "util-deprecate": "^1.0.1" } }, "sha512-9u/sniCrY3D5WdsERHzHE4G2YCXqoG5FTHUiCC4SIbr6XcLZBY05ya9EKjYek9O5xOAwjGq+1JdGBAS7Q9ScoA=="],
 
     "readdirp": ["readdirp@4.1.2", "", {}, "sha512-GDhwkLfywWL2s6vEjyhri+eXmfH6j1L7JE27WhqLeYzoh/A3DBaYGEj2H/HFZCn/kMfim73FXxEJTw06WtxQwg=="],
+
+    "readouts": ["readouts@workspace:readouts"],
 
     "recharts": ["recharts@3.10.1", "", { "dependencies": { "@reduxjs/toolkit": "^1.9.0 || 2.x.x", "clsx": "^2.1.1", "decimal.js-light": "^2.5.1", "es-toolkit": "^1.39.3", "eventemitter3": "^5.0.1", "immer": "^11.1.8", "react-redux": "8.x.x || 9.x.x", "reselect": "5.2.0", "tiny-invariant": "^1.3.3", "use-sync-external-store": "^1.2.2", "victory-vendor": "^37.0.2" }, "peerDependencies": { "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react-dom": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0", "react-is": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0" } }, "sha512-QXFrvt6IVcw7eeZCoyXTwkIJAX3Dv1nyVhMicXJ47GsGDDpcN8z6o644DibE9XjpBTThtsomLKnTV6lc+cVFUA=="],
 

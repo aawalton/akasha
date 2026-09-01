@@ -9,18 +9,13 @@
   },
   "dependencies": {
     "@akasha/health-samples-access": "workspace:*",
-    "@akasha/personas-core": "workspace:*",
-    "@akasha/pages-access": "workspace:*",
-    "@akasha/pages-core": "workspace:*",
     "@shared/pages-query": "workspace:*",
-    "@shared/utils-narrow": "workspace:*",
-    "zod": "^4.3.6"
+    "readouts": "workspace:*"
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview -b",
     "lint": "biome check .",
-    "lint:fix": "biome check --write .",
-    "test:database": "bun test src/*.database.test.ts"
+    "lint:fix": "biome check --write ."
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

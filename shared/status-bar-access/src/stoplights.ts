@@ -7,26 +7,26 @@ import {
   type PersonaDaily,
   readPersonaDaily as personaDaily,
   type ValueStoplightFace,
-} from "../../../readouts/daily-stoplights.ts"
+} from "readouts/daily-stoplights"
 import {
   type InboxStoplight,
   getInboxStoplights as inboxStoplights,
   getInboxStoplightTiers as inboxStoplightTiers,
-} from "../../../readouts/inbox-stoplights.ts"
+} from "readouts/inbox-stoplights"
 import {
   type PersonaDayColour,
   type PersonaStoplight,
   getPersonaDayColours as personaDayColours,
   getPersonaStoplights as personaStoplights,
-} from "../../../readouts/persona-stoplights.ts"
-import type { Ask } from "../../../readouts/readout-resolver.ts"
+} from "readouts/persona-stoplights"
+import type { Ask } from "readouts/readout-resolver"
 import {
   getSafetyStoplightTiers as safetyStoplightTiers,
   getSurplusStoplightTiers as surplusStoplightTiers,
   type UpkeepStoplight,
   getUpkeepStoplights as upkeepStoplights,
   getUpkeepStoplightTiers as upkeepStoplightTiers,
-} from "../../../readouts/upkeep-stoplights.ts"
+} from "readouts/upkeep-stoplights"
 import { askVia } from "./ask-through"
 
 export interface DayArgs {

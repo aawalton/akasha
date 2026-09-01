@@ -5,12 +5,12 @@ import {
   type DayMeasures,
   type HealthSample,
   readDayMeasures as akashaReadDayMeasures,
-} from "../../../readouts/activity-reading.ts"
+} from "readouts/activity-reading"
 import {
   readSessionPages as akashaReadSessionPages,
   type SessionPage,
   type WakeWindow,
-} from "../../../readouts/session-readings.ts"
+} from "readouts/session-readings"
 import { askVia } from "./ask-through"
 
 async function readSamples(given: {
