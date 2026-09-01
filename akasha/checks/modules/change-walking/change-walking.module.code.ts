@@ -1,6 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { everyPath } from "@akasha/indexes"
+import type { Answering } from "@akasha/indexes/answering"
 import { pageTypesIn } from "@akasha/indexes/entries"
 import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "@akasha/pages-system/change"
@@ -206,8 +207,16 @@ export function overEachFile(
   return said
 }
 
+function filedOnce(paths: readonly string[]): readonly string[] {
+  return [...new Set(paths)].sort()
+}
+
 export function everyFileIn(root: string, given: string | Reading = root): readonly string[] {
-  return [...new Set(everyPath(given))].sort()
+  return filedOnce(everyPath(given))
+}
+
+export function everyFileOf(index: Answering): readonly string[] {
+  return filedOnce(index.everyPath())
 }
 
 export function everythingIn(root: string): Change {

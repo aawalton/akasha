@@ -4,7 +4,7 @@ import type { Shadow } from "@akasha/pages-system/shadow"
 import { ran } from "@akasha/utils-run/running"
 import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
-  everyFileIn,
+  everyFileOf,
   FILES,
   input,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -52,7 +52,7 @@ export function carriedIn(change: Change): readonly string[] {
 }
 
 export function besideIn(change: Change, shadow: Shadow): readonly string[] {
-  const every = everyFileIn(change.root, shadow.reading).filter((one) => one.endsWith(SH))
+  const every = everyFileOf(shadow.index).filter((one) => one.endsWith(SH))
   return [...new Set([...every, ...carriedIn(change)])].sort()
 }
 
