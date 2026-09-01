@@ -33,7 +33,11 @@ export const monarch = {
     },
     {
       invariantKind: "departure",
-      statement: "The site is carried the reading rather than taking one.",
+      statement: "Every site showing the reading is carried it rather than taking one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A carry that fails to one site does not stop the carry to another.",
     },
   ],
 } as const satisfies Domain
