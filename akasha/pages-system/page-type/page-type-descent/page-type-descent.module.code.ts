@@ -14,7 +14,7 @@ function saidIn(value: Value | null, key: string): string | null {
   return typeof said === "string" && said !== "" ? said : null
 }
 
-export function standingAbove(
+export function listedAbove(
   root: string,
   given: string | Reading = root,
   pageOf: (path: string) => Value | null = (path) => valueAt(path, root)
@@ -35,7 +35,7 @@ export function kindsUnder(
   given: string | Reading = root,
   pageOf: (path: string) => Value | null = (path) => valueAt(path, root)
 ): ReadonlySet<string> {
-  const above = standingAbove(root, given, pageOf)
+  const above = listedAbove(root, given, pageOf)
   const under = new Set<string>([slug])
   for (;;) {
     let grew = false

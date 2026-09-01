@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { listedFiled } from "../../indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { kindsUnder, standingAbove } from "./page-type-descent.module.code.ts"
+import { kindsUnder, listedAbove } from "./page-type-descent.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -55,5 +55,5 @@ test("a page type standing outside is left out", () => {
 test("a page type naming no parent is read as standing above nothing", () => {
   const root = scratch.rootFor("akasha-descent-")
   typed(root, "page", null)
-  expect(standingAbove(root).has("page")).toBe(false)
+  expect(listedAbove(root).has("page")).toBe(false)
 })

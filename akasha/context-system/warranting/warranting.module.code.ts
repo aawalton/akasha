@@ -18,7 +18,7 @@ import {
   besideAt,
   namedIn,
 } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { standingAbove } from "../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
+import { listedAbove } from "../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import { slugOf } from "../../seat-system/subagent/subagent-standing/subagent-standing.module.code.ts"
 
 const READ_CALL = "akasha read --file-path"
@@ -95,7 +95,7 @@ export function knowingIn(root: string): Knowing {
   return () =>
     (known ??= {
       types: new Set<string>([PAGE_TYPE, ...slugsOfType(root, PAGE_TYPE)]),
-      above: () => (above ??= standingAbove(root)),
+      above: () => (above ??= listedAbove(root)),
     })
 }
 
