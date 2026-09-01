@@ -3,6 +3,7 @@ import { join } from "node:path"
 import { blobIdOf, recordRead, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { standing } from "@akasha/command-system/scratching/testing"
+import { pageFiled } from "@akasha/indexes/testing"
 import {
   agentPathOf,
   gatheredIn,
@@ -21,7 +22,6 @@ import {
   SEAT_AT,
   SEEDED_AT,
   SUB_AT,
-  seated,
   subaged,
   warrantingStated,
 } from "./warranting.module.test-fixtures.ts"
@@ -283,31 +283,31 @@ test("a root carrying no warrant hands back the paths handed in", () => {
 
 test("the page a seat owes from is the one standing at its id", () => {
   const root = rootWith()
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   expect(seatPathOf(root, AGENT)).toBe(SEAT_AT)
 })
 
 test("a page standing at the id that is no seat is no seat", () => {
   const root = rootWith()
-  seated(root, AGENT, PATH)
+  pageFiled(root, AGENT, PATH)
   expect(seatPathOf(root, AGENT)).toBe(null)
 })
 
 test("an id standing at no page is no seat", () => {
   const root = rootWith()
-  seated(root, OTHER, SEAT_AT)
+  pageFiled(root, OTHER, SEAT_AT)
   expect(seatPathOf(root, AGENT)).toBe(null)
 })
 
 test("an agent standing at no page owes nothing of one", () => {
   const root = rootWith()
-  seated(root, OTHER, SEAT_AT)
+  pageFiled(root, OTHER, SEAT_AT)
   expect(unheldIn(root, AGENT)).toEqual([])
 })
 
 test("the page a subagent owes from stands at its seat's name and the id it runs under", () => {
   const root = rootWith()
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   subaged(root, "one-suba", SUB_AT)
   expect(subagentPathOf(root, UNDER)).toBe(SUB_AT)
   expect(agentPathOf(root, UNDER)).toBe(SUB_AT)
@@ -321,20 +321,20 @@ test("a subagent whose seat stands at no page stands at none", () => {
 
 test("a subagent the index carries no page for stands at none", () => {
   const root = rootWith()
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   expect(subagentPathOf(root, UNDER)).toBe(null)
 })
 
 test("an id carrying no mark names no subagent", () => {
   const root = rootWith()
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   subaged(root, "one-suba", SUB_AT)
   expect(subagentPathOf(root, AGENT)).toBe(null)
 })
 
 test("a subagent owes what its own page names rather than what its seat's does", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X], [SUB_AT]: [Y] }) }])
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   subaged(root, "one-suba", SUB_AT)
   const said = unheldIn(root, UNDER)
   expect(said.length).toBe(1)
@@ -343,13 +343,13 @@ test("a subagent owes what its own page names rather than what its seat's does",
 
 test("a subagent standing at no page owes nothing", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   expect(unheldIn(root, UNDER)).toEqual([])
 })
 
 test("a seat owes what its page names", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   const said = unheldIn(root, AGENT)
   expect(said.length).toBe(1)
   expect(said[0]).toContain(X)
@@ -358,28 +358,28 @@ test("a seat owes what its page names", () => {
 test("a seat owes what its page names rather than the page itself", () => {
   const root = rootWith()
   standing(root, SEAT_AT, "one\n")
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   expect(warrantsIn(root, SEAT_AT, "write").length).toBe(1)
   expect(unheldIn(root, AGENT)).toEqual([])
 })
 
 test("a reading of what a seat's page names answers for it", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   recordRead(root, AGENT, { path: X, oid: "oid", seenAt: 1, mechanicalOid: null })
   expect(unheldIn(root, AGENT)).toEqual([])
 })
 
 test("one agent's reading does not answer for another agent's seat", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   recordRead(root, OTHER, { path: X, oid: "oid", seenAt: 1, mechanicalOid: null })
   expect(unheldIn(root, AGENT).length).toBe(1)
 })
 
 test("a seat refusal says what the reading is owed for and names the read", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
-  seated(root, AGENT, SEAT_AT)
+  pageFiled(root, AGENT, SEAT_AT)
   expect(unheldIn(root, AGENT)[0]).toContain(`akasha read --file-path ${X}`)
 })
 

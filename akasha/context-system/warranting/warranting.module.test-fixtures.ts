@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { standing } from "@akasha/command-system/scratching/testing"
 import { dataAt } from "@akasha/file-system/data-place"
-import { idFiled, listedFiled } from "@akasha/indexes/testing"
+import { listedFiled } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { mintedId } from "@akasha/testing-system/minting"
 
@@ -124,10 +124,6 @@ export function warrantingStated(root: string, every: readonly Said[]): undefine
     standing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code ?? statedCodeFor(one))
     listedFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
   }
-}
-
-export function seated(root: string, id: string, path: string): undefined {
-  idFiled(root, id, [{ path, id }])
 }
 
 export function subaged(root: string, slug: string, path: string): undefined {
