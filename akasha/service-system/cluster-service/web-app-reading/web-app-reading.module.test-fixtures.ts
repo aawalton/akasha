@@ -86,26 +86,26 @@ function clusterService(slug: string, at: number, name: string, code: string): s
 
 export function seededWorld(): World {
   const root = mkdtempSync(join(HOLD, PREFIX))
-  const stand = (path: string, body: string): undefined => {
+  const written = (path: string, body: string): undefined => {
     const at = join(root, path)
     mkdirSync(dirname(at), { recursive: true })
     writeFileSync(at, body, "utf8")
   }
-  stand(`${WEB_APPS_AT}/one-web.web-app.ts`, webApp("one-web", 1, ["one-web"]))
-  stand(`${WEB_APPS_AT}/two-web.web-app.ts`, webApp("two-web", 2, ["one-web", "other-web"]))
-  stand(`${WEB_APPS_AT}/none-web.web-app.ts`, webApp("none-web", 3, []))
-  stand(`${WEB_APPS_AT}/lost-web.web-app.ts`, webApp("lost-web", 4, ["no-such-service"]))
-  stand(`${WEB_APPS_AT}/bare-web.web-app.ts`, webApp("bare-web", 5, ["bare"]))
-  stand(`${WEB_APPS_AT}/short-web.web-app.ts`, webApp("short-web", 6, ["one-web"], false))
-  stand(
+  written(`${WEB_APPS_AT}/one-web.web-app.ts`, webApp("one-web", 1, ["one-web"]))
+  written(`${WEB_APPS_AT}/two-web.web-app.ts`, webApp("two-web", 2, ["one-web", "other-web"]))
+  written(`${WEB_APPS_AT}/none-web.web-app.ts`, webApp("none-web", 3, []))
+  written(`${WEB_APPS_AT}/lost-web.web-app.ts`, webApp("lost-web", 4, ["no-such-service"]))
+  written(`${WEB_APPS_AT}/bare-web.web-app.ts`, webApp("bare-web", 5, ["bare"]))
+  written(`${WEB_APPS_AT}/short-web.web-app.ts`, webApp("short-web", 6, ["one-web"], false))
+  written(
     `${CLUSTER_SERVICES_AT}/one-web.cluster-service.ts`,
     clusterService("one-web", 1, "web", SYNTH_AT)
   )
-  stand(
+  written(
     `${CLUSTER_SERVICES_AT}/bare.cluster-service.ts`,
     clusterService("bare", 2, "bare", "one/bare/bare.cluster-service.code.attachment.ts")
   )
-  stand(SYNTH_AT, SYNTH)
+  written(SYNTH_AT, SYNTH)
   said(["git", "-C", root, "init", "-q"])
   said(["git", "-C", root, "add", "-A"])
   return {
