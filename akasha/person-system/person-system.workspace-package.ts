@@ -13,6 +13,8 @@ export const personSystem = {
     "page-type/person",
     "page-type/person-access",
     "page-type/person-authority",
+    "module/device-secret-body",
+    "module/device-secret-minting",
     "module/device-secret-standing",
     "module/person-enrolment",
     "module/route-access",

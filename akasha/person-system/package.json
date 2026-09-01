@@ -3,10 +3,15 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./device-secret-body": "./device-secret-body/device-secret-body.module.code.ts",
+    "./device-secret-minting": "./device-secret-minting/device-secret-minting.module.code.ts",
     "./device-secret-standing": "./device-secret-standing/device-secret-standing.module.code.ts",
     "./phone": "./person/properties/phone.phone-number-property.ts",
     "./route-access": "./route-access/route-access.module.code.ts",
     "./sms-consent": "./sms-consent/sms-consent.module.code.ts",
     "./sms-opt-in": "./sms-opt-in/sms-opt-in.module.code.tsx"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
   }
 }
