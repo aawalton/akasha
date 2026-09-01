@@ -18,8 +18,8 @@ const AT = "akasha/held.check.ts"
 const HERE = dirname(import.meta.path)
 
 const OWN: readonly string[] = [
-  "statement-is-plain.code-check.code.ts",
-  "statement-is-plain.code-check.test.ts",
+  "invariant-statement-is-plain.code-check.code.ts",
+  "invariant-statement-is-plain.code-check.test.ts",
 ]
 
 const REPO_AT = rootOf(import.meta.dir)
