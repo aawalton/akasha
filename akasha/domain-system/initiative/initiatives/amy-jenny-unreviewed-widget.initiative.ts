@@ -39,7 +39,11 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "Alan's categorization route in akasha answers from the readout rather than from Monarch.",
     },
-    { statement: "A readout route opens for the device secret Alan's phone presents." },
+    {
+      statement: "A readout route opens for the device secret Alan's phone presents.",
+      workingMemory:
+        "This side stands. `device-secret` is a page type in person-system, and `module/device-secret-standing` reads a presented secret to the account that minted it under `secretHash`; the kebab key answered zero rows and refused every caller before route access. Proved end to end over a fixture since taken away: nothing, a wrong secret and a malformed one each 401, a valid one opens. The `last-used-at` patch is gone. Only a session mints the first secret, so the rest is Alan's.",
+    },
     { statement: "Alan's unreviewed transaction iOS widget works." },
     { statement: "The relay that carries Alan's reading to Jenny's site is in akasha." },
     { statement: "Jenny's categorization route is in akasha." },
