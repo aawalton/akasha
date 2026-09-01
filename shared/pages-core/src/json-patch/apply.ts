@@ -1,4 +1,4 @@
-import type { Json } from "../../../supabase-database/src/generated/database"
+import type { Json } from "@shared/supabase-database/generated/database"
 import type { JsonPatchOp } from "../view-state/types"
 import {
   arrayChild,

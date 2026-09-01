@@ -1,4 +1,4 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { Block } from "./rich-document"
 
 export type MarkerBlockType = "bulleted-list-item" | "numbered-list-item" | "to-do" | "toggle"

@@ -1,4 +1,4 @@
-import { requireGet } from "../../../utils-narrow/src/require-get.ts"
+import { requireGet } from "@shared/utils-narrow/require-get"
 import type { PageDataJSON, PropertyDefinition } from "../types.ts"
 import type { ReadonlyJSONValue } from "../schema/pages.ts"
 import { evaluateFormula } from "./evaluate.ts"

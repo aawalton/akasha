@@ -1,5 +1,5 @@
 import { getEsoDayAnchor, getEsoDayStr, getEsoDayStrOffset, getEsoResetTime } from "@shared/day"
-import { assertNever } from "../../../utils-narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 
 type DateSentinel =
   | "today"

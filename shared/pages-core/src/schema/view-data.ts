@@ -1,4 +1,4 @@
-import { isRecord } from "../../../utils-narrow/src/is-record.ts"
+import { isRecord } from "@shared/utils-narrow/is-record"
 import * as z from "zod"
 import type { ReadonlyJSONValue } from "./pages.ts"
 import type { GalleryCardSize } from "../view/gallery.ts"

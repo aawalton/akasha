@@ -1,4 +1,4 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { healBlockMarker, isMarkerType, markerFor, stripLeadingMarker } from "./block-markers"
 import { type Block, type RichDocument, richDocumentSchema } from "./rich-document"
 import {

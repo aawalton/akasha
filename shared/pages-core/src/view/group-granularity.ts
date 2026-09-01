@@ -1,5 +1,5 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never"
-import { requireMatchPositional } from "../../../utils-narrow/src/require-match-positional"
+import { assertNever } from "@shared/utils-narrow/assert-never"
+import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
 import { z } from "zod"
 import type { GroupGranularity } from "../schema/view-data"
 import { getWeekStart, MONTH_NAMES, monthKeyOf } from "./calendar-grid"

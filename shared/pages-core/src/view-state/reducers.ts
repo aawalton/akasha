@@ -1,5 +1,5 @@
-import { isJson } from "../../../utils-narrow/src/is-json"
-import { isRecord } from "../../../utils-narrow/src/is-record"
+import { isJson } from "@shared/utils-narrow/is-json"
+import { isRecord } from "@shared/utils-narrow/is-record"
 import { defaultViewData, type ViewDataJSON } from "../schema/view-data"
 import type {
   CreateViewArgs,

@@ -1,4 +1,4 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never.ts"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { formulaConfigSchema } from "../schema/property-config-schemas.ts"
 import type { PropertyDefinition } from "../types.ts"
 import { booleanOps } from "./boolean.ts"

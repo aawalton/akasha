@@ -1,4 +1,4 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { InstantFormat } from "../schema/property-config-schemas"
 import type {
   BetweenInstantValue,

@@ -1,4 +1,4 @@
-import { joinPath as joinPathPure } from "../../../utils-narrow/src/join-path"
+import { joinPath as joinPathPure } from "@shared/utils-narrow/join-path"
 import type { ReadonlyJSONValue } from "../schema/pages"
 import { FormulaEvaluationError } from "./errors"
 

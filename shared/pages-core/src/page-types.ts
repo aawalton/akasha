@@ -1,5 +1,5 @@
 import type { PageTypeSlug } from "@shared/pages-url"
-import type { Json } from "../../supabase-database/src/generated/database"
+import type { Json } from "@shared/supabase-database/generated/database"
 
 export type Page = {
   id: string

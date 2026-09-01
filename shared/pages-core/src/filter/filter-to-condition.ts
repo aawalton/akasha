@@ -1,5 +1,5 @@
-import type { Json } from "../../../supabase-database/src/generated/database"
-import { isJson } from "../../../utils-narrow/src/is-json"
+import type { Json } from "@shared/supabase-database/generated/database"
+import { isJson } from "@shared/utils-narrow/is-json"
 import type { PageCondition } from "../page-types"
 import type {
   RelativeToTodayValue,

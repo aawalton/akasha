@@ -1,6 +1,6 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never"
-import { isJson } from "../../../utils-narrow/src/is-json"
-import { isRecord } from "../../../utils-narrow/src/is-record"
+import { assertNever } from "@shared/utils-narrow/assert-never"
+import { isJson } from "@shared/utils-narrow/is-json"
+import { isRecord } from "@shared/utils-narrow/is-record"
 import type { ReadonlyJSONValue } from "../schema/pages"
 import type { Block, RichDocument } from "./rich-document"
 import {

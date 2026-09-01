@@ -1,4 +1,4 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never.ts"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { type AggregateFilter, aggregateFilterSchema } from "../schema/property-config-schemas.ts"
 import type { PageDataJSON, PropertyDefinition } from "../types.ts"
 import { matchesAggregateFilter } from "./aggregate-filter.ts"

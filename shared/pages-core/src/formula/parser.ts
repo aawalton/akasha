@@ -1,5 +1,5 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never"
-import { requireFirst } from "../../../utils-narrow/src/require-first"
+import { assertNever } from "@shared/utils-narrow/assert-never"
+import { requireFirst } from "@shared/utils-narrow/require-first"
 import { formulaFunctions } from "./functions"
 import { FormulaParseError, type Token, TokenType, tokenize } from "./lexer"
 

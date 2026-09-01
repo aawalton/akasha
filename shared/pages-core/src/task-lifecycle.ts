@@ -1,5 +1,5 @@
 import { getEsoDayStr, getEsoDayStrOffset } from "@shared/day"
-import { assertNever } from "../../utils-narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { PageWhere } from "./page-types"
 
 export const SNAPSHOT_SLUG_BY_TASK_SLUG: Readonly<Record<string, string>> = {

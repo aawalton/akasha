@@ -1,4 +1,4 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { parseConfig } from "../schema/pages"
 import { type NumberFormat, numberConfigSchema } from "../schema/property-config-schemas"
 import type { PropertyDefinition } from "../types"
