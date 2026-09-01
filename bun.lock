@@ -45,10 +45,6 @@
         "@modelcontextprotocol/sdk": "^1.30.0",
         "@shared/browser-test-harness": "workspace:*",
         "@shared/cli": "workspace:*",
-        "@shared/proc-compiler": "workspace:*",
-        "@shared/proc-template": "workspace:*",
-        "@shared/triggers-proc": "workspace:*",
-        "@shared/triggers-proc-compiler": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@stories/text": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
@@ -1634,25 +1630,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "shared/proc-compiler": {
-      "name": "@shared/proc-compiler",
-      "version": "0.1.0",
-      "dependencies": {
-        "typescript": "^5.8.3",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "shared/proc-template": {
-      "name": "@shared/proc-template",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "shared/status-bar-access": {
       "name": "@shared/status-bar-access",
       "version": "0.1.0",
@@ -1692,33 +1669,6 @@
       "peerDependencies": {
         "react": ">=18.3",
         "react-router": ">=7",
-      },
-    },
-    "shared/triggers-proc": {
-      "name": "@shared/triggers-proc",
-      "version": "0.1.0",
-      "dependencies": {
-        "@shared/proc-compiler": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "shared/triggers-proc-compiler": {
-      "name": "@shared/triggers-proc-compiler",
-      "version": "0.1.0",
-      "bin": {
-        "compile-trigger-proc": "./src/bin/compile.ts",
-      },
-      "dependencies": {
-        "@shared/proc-compiler": "workspace:*",
-        "typescript": "^5.8.3",
-      },
-      "devDependencies": {
-        "@shared/triggers-proc": "workspace:*",
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
       },
     },
     "shared/utils-narrow": {
@@ -4556,17 +4506,9 @@
 
     "@shared/person-target": ["@shared/person-target@workspace:shared/person-target"],
 
-    "@shared/proc-compiler": ["@shared/proc-compiler@workspace:shared/proc-compiler"],
-
-    "@shared/proc-template": ["@shared/proc-template@workspace:shared/proc-template"],
-
     "@shared/status-bar-access": ["@shared/status-bar-access@workspace:shared/status-bar-access"],
 
     "@shared/supabase-rr": ["@shared/supabase-rr@workspace:shared/supabase-rr"],
-
-    "@shared/triggers-proc": ["@shared/triggers-proc@workspace:shared/triggers-proc"],
-
-    "@shared/triggers-proc-compiler": ["@shared/triggers-proc-compiler@workspace:shared/triggers-proc-compiler"],
 
     "@shared/utils-narrow": ["@shared/utils-narrow@workspace:shared/utils-narrow"],
 
