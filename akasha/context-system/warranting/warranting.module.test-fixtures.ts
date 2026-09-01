@@ -108,10 +108,10 @@ export function chainOf(said: Record<string, readonly string[]>): string {
 
 function statedCodeFor(one: Said): string {
   return [
-    `import { standingOf } from ${JSON.stringify(MODULE_AT)}`,
+    `import { blobAt } from ${JSON.stringify(MODULE_AT)}`,
     "",
     `export function ${exportedAs(one.slug)}(root, path) {`,
-    "  const oid = standingOf(root, path)",
+    "  const oid = blobAt(root, path)",
     `  return oid === null ? [] : [{ path, oid, owed: ${JSON.stringify(OWED)} }]`,
     "}",
     "",

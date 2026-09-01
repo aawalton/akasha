@@ -5,7 +5,7 @@ import {
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { slugStated, typeStated } from "../../agent-stated/agent-stated.module.code.ts"
-import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const UNDER =
   "A seat answers for the initiative it states, and every initiative that one stands under is read before the seat is changed."
@@ -33,7 +33,7 @@ export function initiativeAncestors(root: string, path: string): readonly Warran
   let above = aboveOf(root, standing)
   while (above !== undefined && !walked.has(above.id)) {
     walked.add(above.id)
-    const oid = standingOf(root, above.path)
+    const oid = blobAt(root, above.path)
     if (oid !== null) found.push({ path: above.path, oid, owed: UNDER })
     above = aboveOf(root, above)
   }

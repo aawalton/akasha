@@ -9,7 +9,7 @@ import {
   namedIn,
   pageNamed,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { type Knowing, standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const PAGE =
   "A property's file answers to the page it stands beside, and that page states the property it holds."
@@ -29,7 +29,7 @@ function propertyOf(root: string, propertySlug: string): Warrant | null {
   if ("refused" in said) return null
   const standing = standingAt(root, said.schema.pageTypeSlug, propertySlug)[0]
   if (standing === undefined) return null
-  const oid = standingOf(root, standing.path)
+  const oid = blobAt(root, standing.path)
   return oid === null ? null : { path: standing.path, oid, owed: PROPERTY }
 }
 
@@ -40,7 +40,7 @@ export function filePropertyFile(root: string, path: string, knowing: Knowing): 
   if (known.types.has(said.tail)) return []
   const page = pageBeside(path, said)
   if (page === null || !pageNamed(page, known.types)) return []
-  const standing = standingOf(root, page)
+  const standing = blobAt(root, page)
   if (standing === null) return []
   const found: Warrant[] = [{ path: page, oid: standing, owed: PAGE }]
   const held = propertyOf(root, said.tail)

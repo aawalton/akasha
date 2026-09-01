@@ -124,7 +124,7 @@ export function movedOf(warrant: Warrant, held: string): string {
   ].join("\n")
 }
 
-export function standingOf(root: string, path: string): string | null {
+export function blobAt(root: string, path: string): string | null {
   try {
     return blobIdOf(readFileSync(join(root, path)))
   } catch {

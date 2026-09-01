@@ -1,9 +1,9 @@
 import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import {
+  blobAt,
   type Changing,
   type Knowing,
-  standingOf,
   type Warrant,
 } from "../../warranting/warranting.module.code.ts"
 
@@ -95,7 +95,7 @@ export function changeTabooTerms(
   for (const term of termsIn(root)) {
     if (term.path === path) continue
     if (!foundIn(term.pattern, added)) continue
-    const oid = standingOf(root, term.path)
+    const oid = blobAt(root, term.path)
     if (oid === null) continue
     found.push({ path: term.path, oid, owed: owedOf(term.senses) })
   }

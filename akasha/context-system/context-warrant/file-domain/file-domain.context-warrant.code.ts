@@ -3,7 +3,7 @@ import {
   standingById,
   standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const WHOLE =
   "A page names its parts, and the whole a part belongs to is read before the part is changed."
@@ -17,7 +17,7 @@ export function fileDomain(root: string, path: string): readonly Warrant[] {
   for (const id of idsNaming(root, held.id, PARTS)) {
     const said = standingById(root, id)
     if (said === null || said.path === path) continue
-    const standing = standingOf(root, said.path)
+    const standing = blobAt(root, said.path)
     if (standing === null) continue
     found.push({ path: said.path, oid: standing, owed: WHOLE })
   }

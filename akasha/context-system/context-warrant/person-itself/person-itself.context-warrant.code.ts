@@ -1,6 +1,6 @@
 import { standingAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { slugStated } from "../../agent-stated/agent-stated.module.code.ts"
-import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const PERSON =
   "A seat is held by the person it states, and that person is read before the seat is changed."
@@ -14,6 +14,6 @@ export function personItself(root: string, path: string): readonly Warrant[] {
   if (slug === null) return []
   const standing = standingAt(root, PERSON_TYPE, slug)[0]
   if (standing === undefined) return []
-  const oid = standingOf(root, standing.path)
+  const oid = blobAt(root, standing.path)
   return oid === null ? [] : [{ path: standing.path, oid, owed: PERSON }]
 }

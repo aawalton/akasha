@@ -10,7 +10,7 @@ import {
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
-import { knowingIn, standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, knowingIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { filePropertyFile, PAGE, PROPERTY } from "./file-property-file.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -88,7 +88,7 @@ test("the property is warranted by its own page, never by the page type it answe
   const root = scratch.rootFor("akasha-file-property-file-")
   propertyWorld(root)
   standing(root, CODE_AT, "code\n")
-  expect(standingOf(root, TYPE_AT)).not.toBeNull()
+  expect(blobAt(root, TYPE_AT)).not.toBeNull()
   expect(pathsOf(warrantsAt(root, CODE_AT))).not.toContain(TYPE_AT)
 })
 

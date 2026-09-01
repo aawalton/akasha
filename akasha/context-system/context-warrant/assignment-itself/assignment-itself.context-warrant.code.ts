@@ -4,7 +4,7 @@ import {
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { slugStated, typeStated } from "../../agent-stated/agent-stated.module.code.ts"
-import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const ASSIGNMENT =
   "A seat answers for the assignment it states, and that assignment is read before the seat is changed."
@@ -21,7 +21,7 @@ const KEY = "assignmentSlug"
 const DOMAIN_KEY = "domainSlug"
 
 function warrantAt(root: string, path: string, owed: string): readonly Warrant[] {
-  const oid = standingOf(root, path)
+  const oid = blobAt(root, path)
   return oid === null ? [] : [{ path, oid, owed }]
 }
 

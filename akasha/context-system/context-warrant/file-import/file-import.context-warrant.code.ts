@@ -5,7 +5,7 @@ import {
   specifiersIn,
 } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { standingByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const IMPORTED =
   "A file leans on every file it imports, and what an import is held to is said on its page."
@@ -40,7 +40,7 @@ export function fileImport(root: string, path: string): readonly Warrant[] {
     const page = pageOf(root, one)
     if (page === null || held.has(page)) continue
     held.add(page)
-    const standing = standingOf(root, page)
+    const standing = blobAt(root, page)
     if (standing === null) continue
     found.push({ path: page, oid: standing, owed: IMPORTED })
   }

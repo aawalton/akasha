@@ -1,6 +1,6 @@
 import { standingAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { type Knowing, standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const TYPE = "A page answers to its type, and to every type that one extends."
 
@@ -22,7 +22,7 @@ export function filePageType(root: string, path: string, knowing: Knowing): read
   while (here !== null && !walked.has(here)) {
     walked.add(here)
     const standing = standingAt(root, PAGE_TYPE, here)[0]
-    const oid = standing === undefined ? null : standingOf(root, standing.path)
+    const oid = standing === undefined ? null : blobAt(root, standing.path)
     if (standing !== undefined && oid !== null) {
       found.push({ path: standing.path, oid, owed: TYPE })
     }

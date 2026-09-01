@@ -7,7 +7,7 @@ import {
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
-import { type Knowing, standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const PROPERTY =
   "A page states each property as the page defining it shapes it, and that page is read first."
@@ -35,7 +35,7 @@ export function fileProperty(root: string, path: string, knowing: Knowing): read
     if ("refused" in filed) continue
     const standing = standingAt(root, filed.schema.pageTypeSlug, slug)[0]
     if (standing === undefined || standing.path === path) continue
-    const oid = standingOf(root, standing.path)
+    const oid = blobAt(root, standing.path)
     if (oid === null) continue
     found.push({ path: standing.path, oid, owed: PROPERTY })
   }

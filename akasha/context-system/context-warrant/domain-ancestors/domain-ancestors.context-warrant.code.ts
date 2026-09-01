@@ -7,7 +7,7 @@ import {
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { slugStated, typeStated } from "../../agent-stated/agent-stated.module.code.ts"
-import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const ABOVE =
   "A seat answers for one domain, and every domain that one is a part of is read before the seat is changed."
@@ -53,7 +53,7 @@ export function domainAncestors(root: string, path: string): readonly Warrant[] 
         next.push(above)
         const said = standingById(root, above)
         if (said === null) continue
-        const oid = standingOf(root, said.path)
+        const oid = blobAt(root, said.path)
         if (oid === null) continue
         found.push({ path: said.path, oid, owed: ABOVE })
       }
