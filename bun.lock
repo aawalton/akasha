@@ -289,8 +289,7 @@
       "name": "@akasha/health-samples-import",
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
-        "@shared/errors-core": "workspace:*",
-        "@shared/utils-fs": "workspace:*",
+        "@akasha/ssh-access": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -306,8 +305,8 @@
     "akasha/imessage": {
       "name": "@akasha/imessage",
       "dependencies": {
+        "@akasha/ssh-access": "workspace:*",
         "@shared/errors-core": "workspace:*",
-        "@shared/utils-fs": "workspace:*",
         "zod": "^4.3.6",
       },
     },
