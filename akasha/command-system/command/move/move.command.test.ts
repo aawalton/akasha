@@ -13,12 +13,14 @@ import {
   BOTH,
   besideWorld,
   bodyIn,
+  CARRY,
   CODE,
   claiming,
   codeWorld,
   DEEP,
   DEEPER,
   filedAt,
+  GLASSED,
   git,
   givenIn,
   HELD,
@@ -30,6 +32,7 @@ import {
   heldUnindexed,
   importing,
   LOCK,
+  linkWatched,
   MISSING,
   NAMER,
   NAMERS,
@@ -47,6 +50,7 @@ import {
   renamed,
   renamedText,
   renaming,
+  SAYING,
   SECOND_UNSAID,
   SECOND_UNSAID_AT,
   SIDE,
@@ -55,6 +59,7 @@ import {
   SPELLS,
   scratch,
   sidecarWorld,
+  spellingWorld,
   TARGET,
   THING,
   THING_AT,
@@ -116,13 +121,10 @@ test("a moved body's relative specifier is repointed and a package one is not", 
 })
 
 test("what imports or spells what moved is repointed, and a dry run writes none", () => {
-  const root = codeWorld({ [NAMER]: SPELLS })
-  claiming(root, NAMER, [AAAA])
-  importing(root, TARGET, [HOLDER])
-  const carry = ["--from", TARGET, "--to", ARRIVES]
-  expect(told(move([...carry, "--dry-run"], givenIn(root)))).toContain(REPOINTED)
+  const root = spellingWorld()
+  expect(told(move([...CARRY, "--dry-run"], givenIn(root)))).toContain(REPOINTED)
   expect(bodyIn(root, NAMER)).toBe(SPELLS)
-  const said = move(carry, givenIn(root))
+  const said = move(CARRY, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(bodyIn(root, HOLDER)).toContain('from "../four/other.module.code.ts"')
   expect(bodyIn(root, NAMER)).toBe(`export const at = "${ARRIVES}"\n`)
@@ -267,6 +269,10 @@ test("a dry run gates and writes nothing at all", () => {
   expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
 })
 
+test("a package is reached again while the checks judge a move, and a dry run reaches none", () => {
+  expect(linkWatched()).toEqual(["gone", "linked"])
+})
+
 test("a dry run names the pairs it would carry, sidecars and all", () => {
   const root = sidecarWorld()
   const said = move(["--from", HELD, "--to", DEEP, "--dry-run"], givenIn(root))
@@ -292,16 +298,13 @@ test("breaking the glass carries a move the checks refuse, and only breaking it 
   const root = heldIndexed()
   refusing(root)
   const was = head(root)
-  const gated = move([...PAIR, "--message", "held moves"], givenIn(root))
+  const gated = move(SAYING, givenIn(root))
   expect(gated.code).toBe(3)
   expect(why(gated)).toContain("refused for the test")
   expect(there(root, THREE)).toBe(false)
   expect(head(root)).toBe(was)
 
-  const said = move(
-    [...PAIR, "--message", "held moves", "--break-the-glass", "  the check is wrong  "],
-    givenIn(root)
-  )
+  const said = move(GLASSED, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(told(said)).toContain("no check ran — the glass was broken for: the check is wrong")

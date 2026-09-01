@@ -420,6 +420,62 @@ export function renaming(names = '"thing/held"'): string {
   return root
 }
 
+export const SAYING = [...PAIR, "--message", "held moves"]
+
+export const GLASSED = [...SAYING, "--break-the-glass", "  the check is wrong  "]
+
+export const CARRY = ["--from", TARGET, "--to", ARRIVES]
+
+export function spellingWorld(): string {
+  const root = codeWorld({ [NAMER]: SPELLS })
+  claiming(root, NAMER, [AAAA])
+  importing(root, TARGET, [HOLDER])
+  return root
+}
+
+const MANIFEST = "akasha/one/package.json"
+
+const MANIFEST_AT = "akasha/far/one/package.json"
+
+const MANIFEST_BODY = `{\n  "name": "@akasha/one"\n}\n`
+
+const LINK = "node_modules/@akasha/one"
+
+const SEEN = "seen.txt"
+
+const WATCHES = "watches"
+
+function watching(root: string): undefined {
+  const code = `import { lstatSync, writeFileSync } from "node:fs"
+
+export function ${WATCHES}() {
+  let said = "gone"
+  try {
+    said = lstatSync(${JSON.stringify(join(root, LINK))}).isSymbolicLink() ? "linked" : "taken"
+  } catch {
+    said = "gone"
+  }
+  writeFileSync(${JSON.stringify(join(root, SEEN))}, said)
+  return []
+}
+`
+  minting(root, WATCHES, mintedId(WATCHES), "a check saying what the package link was", code)
+}
+
+function seenIn(root: string): string {
+  return readFileSync(join(root, SEEN), "utf8")
+}
+
+export function linkWatched(): readonly [string, string] {
+  const root = rebuilt(repoWith({ [HELD]: PAGE, [MANIFEST]: MANIFEST_BODY }))
+  watching(root)
+  const pair = ["--from", MANIFEST, "--to", MANIFEST_AT]
+  move([...pair, "--dry-run"], givenIn(root))
+  const dry = seenIn(root)
+  move(pair, givenIn(root))
+  return [dry, seenIn(root)]
+}
+
 export function renamed(): { readonly root: string; readonly said: Answer } {
   const root = renaming()
   return { root, said: move(SLUG_RENAME, givenIn(root)) }
