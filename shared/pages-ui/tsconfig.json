@@ -30,9 +30,6 @@
       "path": "../day"
     },
     {
-      "path": "../../alanwalton/voice-core"
-    },
-    {
       "path": "../errors-client"
     },
     {

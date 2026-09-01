@@ -53,9 +53,6 @@
       "path": "../sms-core"
     },
     {
-      "path": "../voice-core"
-    },
-    {
       "path": "../../infra/k8s-types"
     },
     {

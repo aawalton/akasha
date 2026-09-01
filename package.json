@@ -32,7 +32,7 @@
     "lua-compiler/vendor/*",
     "alanwalton/calendar-sync",
     "alanwalton/chess",
-    "alanwalton/voice-core",
+    "akasha/voice-core",
     "infra/auth-proxy",
     "infra/git-transport",
     "infra/inference",

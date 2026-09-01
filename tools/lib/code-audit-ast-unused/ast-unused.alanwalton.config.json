@@ -30,7 +30,7 @@
         "**/*.ts"
       ]
     },
-    "alanwalton/voice-core": {
+    "akasha/voice-core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
