@@ -33,11 +33,11 @@ function answeredFor(root: string, path: string): Listed | undefined {
 }
 
 export function domainAncestors(root: string, path: string): readonly Warrant[] {
-  const standing = answeredFor(root, path)
-  if (standing === undefined) return []
+  const listed = answeredFor(root, path)
+  if (listed === undefined) return []
   const found: Warrant[] = []
-  const walked = new Set<string>([standing.id])
-  let edge: readonly string[] = [standing.id]
+  const walked = new Set<string>([listed.id])
+  let edge: readonly string[] = [listed.id]
   while (edge.length > 0) {
     const next: string[] = []
     for (const id of edge) {
