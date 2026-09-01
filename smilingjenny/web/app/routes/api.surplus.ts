@@ -1,16 +1,13 @@
-import { getEsoDayStr } from "@akasha/day/eso-day"
-import { getSurplusStoplightTiers } from "@akasha/status-bar-access/stoplight-reading"
 import { refuseUncredentialedRingCaller } from "~/lib/ring-credential.server"
 import type { Route } from "./+types/api.surplus"
 
-const JENNYS_CAPTION = "Alan's Surplus"
+// Stubbed. The engine behind this endpoint resolved its readouts by parsing markdown
+// frontmatter across the whole page tree, uncached, on every request. It is out of the
+// serving path now. Nothing fills these tiles until their readouts are akasha pages.
+const stoplights: readonly never[] = []
 
 export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   const refusal = refuseUncredentialedRingCaller(request)
   if (refusal !== null) return refusal
-  const drawn = await getSurplusStoplightTiers({ day: getEsoDayStr(new Date()) })
-  return Response.json(
-    { stoplights: drawn.map((circle) => ({ ...circle, label: JENNYS_CAPTION })) },
-    { headers: { "Cache-Control": "private, no-store" } }
-  )
+  return Response.json({ stoplights }, { headers: { "Cache-Control": "private, no-store" } })
 }
