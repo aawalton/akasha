@@ -1,0 +1,14 @@
+{
+  "name": "@alanwalton/voice-core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./voice/estimate-marks": "./estimate-marks/estimate-marks.module.code.ts",
+    "./voice/infer-endpoint": "./infer-endpoint/infer-endpoint.module.code.ts",
+    "./voice/mark-schema": "./mark-schema/mark-schema.module.code.ts",
+    "./voice/speech": "./speech/speech.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}
