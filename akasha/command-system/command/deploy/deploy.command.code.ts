@@ -19,7 +19,7 @@ import {
   appliedOf,
   planFor,
   putUp,
-  standInsOf,
+  unfilledOf,
   upAlready,
   writeManifests,
 } from "@akasha/service-system/workload-deploying"
@@ -64,7 +64,7 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   const plan = await planFor(given.root, workload, deployable.synthPath)
   if (typeof plan === "string") return { report, refusals: [plan], code: DATA }
 
-  const left = standInsOf(plan)
+  const left = unfilledOf(plan)
   if (left.length > 0) {
     return {
       report,

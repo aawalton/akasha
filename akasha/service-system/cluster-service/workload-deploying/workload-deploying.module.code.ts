@@ -162,7 +162,7 @@ export function unfilledIn(manifest: Manifest): readonly string[] {
   return left
 }
 
-export function standInsOf(plan: Plan): readonly string[] {
+export function unfilledOf(plan: Plan): readonly string[] {
   return plan.manifests.flatMap((one) => unfilledIn(one).map((why) => `${one.path}: ${why}`))
 }
 
