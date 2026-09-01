@@ -21,6 +21,12 @@ export function personPrincipals(root: string): readonly string[] {
   return peopleStanding(root).map((one) => one.slug)
 }
 
+// A name that is exactly a person's slug is that person's, not a spelling of what the seat is, so
+// it stands however the attributes move. Every other name is composed from them, so it recomposes.
+export function movesWithTheAttributes(name: string, root: string): boolean {
+  return !personPrincipals(root).includes(name)
+}
+
 export function principalsFrom(persons: readonly string[]): readonly string[] {
   return [...persons, FLEET]
 }

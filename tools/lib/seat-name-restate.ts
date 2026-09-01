@@ -1,9 +1,8 @@
-import { admitSeatName } from "./admit-seat-name.ts"
 import { resolveRoots, targetRoot } from "@akasha/pages-system/checkout-roots"
+import { movesWithTheAttributes } from "./compose-seat-name.ts"
 import { seatByName } from "./seat-by-name.ts"
 import { isValidSeatName } from "./seat-handle.ts"
 import { refuseSeatName } from "./seat-name-bind.ts"
-import { nameVocabularyOf } from "./seat-name-vocabulary.ts"
 import { pageTextOf } from "./seat-page-values.ts"
 
 export type SeatPresence = "present" | "absent" | "unknown"
@@ -19,20 +18,8 @@ function seatTextOf(values: Record<string, unknown> | null, key: string): string
   return typeof held === "string" && held !== "" ? held : null
 }
 
-function movesWithTheAttributes(family: string | null): boolean {
-  if (family === null) return true
-  if (family === "composed-identity") return true
-  return family === "bare-persona"
-}
-
 function composedFromAttributes(name: string): boolean {
-  const named = nameVocabularyOf(targetRoot(resolveRoots()))
-  const { family } = admitSeatName(name, {
-    personas: new Set(named.personas),
-    persons: new Set(named.persons),
-    domains: new Set(named.domains),
-  })
-  return movesWithTheAttributes(family)
+  return movesWithTheAttributes(name, targetRoot(resolveRoots()))
 }
 
 export async function restateSeatName(args: {

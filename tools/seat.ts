@@ -76,14 +76,7 @@ export async function run(argv: readonly string[]): Promise<void> {
   const set: Partial<Record<Declaration, string>> = { ...args.set }
   const notes: string[] = []
   if (args.fromSeat) {
-    const proposed = fromSeat(agent, pages)
-    if ("note" in proposed) notes.push(`note:   ${proposed.note}`)
-    else {
-      for (const key of DECLARATIONS) {
-        const value = proposed.set[key]
-        if (value !== undefined && set[key] === undefined) set[key] = value
-      }
-    }
+    notes.push(`note:   ${fromSeat(agent).note}`)
   }
 
   let initiative = args.initiative

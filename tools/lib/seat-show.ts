@@ -1,12 +1,11 @@
 
-import { ATTRIBUTES, type Attributes, type Declaration, type Mode, type ModeRecord, ownAttributesOf } from "./attributes.ts"
+import { ATTRIBUTES, type Attributes, type Mode, type ModeRecord, ownAttributesOf } from "./attributes.ts"
 import { documentsOnDemand } from "./documents-on-demand.ts"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { declaredSeatReading } from "./declared-seat-reading.ts"
 import { documentNamed } from "./seat-attribute.ts"
 import type { Args } from "./seat-args.ts"
 import { initiativeLine } from "./seat-initiative.ts"
-import { personaDefaultsOf } from "./compose-seat-name.ts"
 import { composedNameOf } from "./seat-rename.ts"
 import { flexLine } from "./seat-flex.ts"
 import { principalLine } from "./seat-principal.ts"
@@ -23,8 +22,6 @@ import {
   turnPendingSourceLine,
   turnPendingSourceOf,
 } from "./seat-turn.ts"
-import { readSeatName, vocabulariesOf } from "./read-seat-name.ts"
-import { vocabularyOf } from "./seat-vocabulary.ts"
 import { fail } from "./command.ts"
 
 export function showLines(agent: string, args: Args): readonly string[] {
@@ -112,10 +109,7 @@ export function modeLine(applies: Mode, recorded: ModeRecord | null): string {
   return `  ${"mode".padEnd(8)} ${said}`
 }
 
-export function fromSeat(
-  agent: string,
-  root: string
-): { readonly set: Partial<Record<Declaration, string>> } | { readonly note: string } {
+export function fromSeat(agent: string): { readonly note: string } {
   const name = composedNameOf(agent)
   if (name === null) {
     return {
@@ -125,26 +119,10 @@ export function fromSeat(
         `--domain <slug> --role <slug>`,
     }
   }
-  const read = readSeatName(name, vocabulariesOf(vocabularyOf(root)))
-  if ("unreadable" in read) {
-    return {
-      note:
-        `the seat is named \`${name}\` and ` +
-        (read.unreadable.length === 0
-          ? "no division of it is drawn from the vocabularies this repository declares"
-          : `${read.unreadable.length} readings of it tie — ${read.unreadable.join("; ")}`) +
-        `, so nothing was proposed. Name the attributes yourself`,
-    }
+  return {
+    note:
+      `the seat is named \`${name}\`, and a name spells what a seat is rather than being read ` +
+      `back into attributes, so nothing was proposed. Name the attributes yourself: ` +
+      `--persona <slug> --domain <slug> --role <slug>`,
   }
-  const spelled = read.reading
-  const defaults = spelled.persona === null ? null : personaDefaultsOf(root, spelled.persona)
-  const set: Partial<Record<Declaration, string>> = {}
-  for (const [slot, slug] of [
-    ["persona", spelled.persona],
-    ["domain", spelled.domain ?? defaults?.domain ?? null],
-    ["role", defaults?.role ?? null],
-  ] as const) {
-    if (slug !== null) set[slot] = slug
-  }
-  return { set }
 }
