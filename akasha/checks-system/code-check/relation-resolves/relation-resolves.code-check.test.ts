@@ -1,15 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { pathFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import {
-  knownIn,
-  type Shaped,
-} from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
-import {
-  type Shadow,
-  shadowAt,
-  shadowFor,
-} from "../../../pages-system/shadow/shadow.module.code.ts"
+import { knownIn, type Shaped } from "@akasha/indexes/reaching"
+import { pathFiled } from "@akasha/indexes/testing"
+import type { Change } from "@akasha/pages-system/change"
+import { type Shadow, shadowAt, shadowFor } from "@akasha/pages-system/shadow"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   danglingIn,

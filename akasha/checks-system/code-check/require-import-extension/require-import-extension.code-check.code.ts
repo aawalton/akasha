@@ -1,7 +1,4 @@
-import {
-  landingOf,
-  specifiersIn,
-} from "../../../code-system/code-specifier/code-specifier.module.code.ts"
+import { landingOf, specifiersIn } from "@akasha/code-system/code-specifier"
 import {
   judgingEach,
   overEachText,

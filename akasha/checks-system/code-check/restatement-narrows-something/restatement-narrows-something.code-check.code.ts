@@ -1,11 +1,11 @@
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import { pageTypesIn } from "@akasha/indexes/entries"
+import type { Change } from "@akasha/pages-system/change"
 import {
   type Carried as Declared,
   declarationsOf,
   identityOf,
-} from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+} from "@akasha/pages-system/page-type-properties"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import { input, PAGES } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {

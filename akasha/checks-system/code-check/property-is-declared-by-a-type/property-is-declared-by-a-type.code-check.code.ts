@@ -1,25 +1,11 @@
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  idsNaming,
-  listedByPath,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  knownIn,
-  reaches,
-  recordsIn,
-} from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
-import {
-  namedIn,
-  pageNamed,
-} from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import {
-  textAt,
-  type Value,
-  valueIn,
-} from "../../../pages-system/page/page-value/page-value.module.code.ts"
-import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { idsNaming, listedByPath } from "@akasha/indexes"
+import { pageTypesIn } from "@akasha/indexes/entries"
+import { knownIn, reaches, recordsIn } from "@akasha/indexes/reaching"
+import type { Change } from "@akasha/pages-system/change"
+import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
+import { kindsUnder } from "@akasha/pages-system/page-type-descent"
+import { textAt, type Value, valueIn } from "@akasha/pages-system/page-value"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, input, PAGES } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
