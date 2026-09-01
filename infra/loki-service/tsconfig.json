@@ -18,9 +18,6 @@
   "references": [
     {
       "path": "../k8s-types"
-    },
-    {
-      "path": "../../shared/utils-narrow"
     }
   ]
 }

@@ -1,4 +1,4 @@
-import { JsonSchema } from "@shared/utils-narrow/json-schema"
+import { JsonSchema } from "@akasha/utils-narrow/json-schema"
 import { z } from "zod"
 import { landRow, mergeRow } from "./generation-log"
 import { buildFinishPatch, type FinishInferenceRunInput, type InferenceRunRecord, sha256Hex } from "./inference-run-record"

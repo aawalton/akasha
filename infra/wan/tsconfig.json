@@ -19,9 +19,6 @@
   "references": [
     {
       "path": "../comfy"
-    },
-    {
-      "path": "../../shared/utils-narrow"
     }
   ]
 }

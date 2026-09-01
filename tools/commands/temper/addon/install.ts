@@ -6,7 +6,7 @@ import { createHash } from "node:crypto"
 import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs"
 import { readFile, readdir } from "node:fs/promises"
 import { join, relative, resolve } from "node:path"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import {
   collectFloorsFor,
   decideFolderOwnership,

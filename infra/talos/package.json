@@ -25,7 +25,7 @@
   "dependencies": {
     "@infra/k8s-types": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "yaml": "^2.8.0",
     "zod": "^4.3.6"
   },

@@ -20,8 +20,5 @@
     "dist"
   ],
   "references": [
-    {
-      "path": "../../shared/utils-narrow"
-    }
   ]
 }

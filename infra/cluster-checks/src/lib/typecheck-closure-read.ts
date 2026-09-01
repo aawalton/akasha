@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@shared/utils-narrow/is-object-record"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import { z } from "zod"
 import { type RawProjectConfig, resolveReference } from "./typecheck-reach"
 

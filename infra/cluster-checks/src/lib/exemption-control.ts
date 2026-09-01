@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 
 export const CONTROLLED_EXEMPTION_SETS = ["shim-allowlist", "color-literal-allowlist"] as const
 

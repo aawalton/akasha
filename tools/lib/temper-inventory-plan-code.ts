@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
 import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"

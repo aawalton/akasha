@@ -1,5 +1,5 @@
 import { dirname, join, normalize } from "node:path/posix"
-import { requireAt } from "@shared/utils-narrow/require-at"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 
 export interface RawProjectConfig {
   readonly references: readonly string[]

@@ -1,4 +1,4 @@
-import { requireMatchPositional } from "@shared/utils-narrow/validate"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 import { authenticate } from "./auth.ts"
 import { handleCgi } from "./cgi.ts"

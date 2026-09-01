@@ -1,4 +1,4 @@
-import { requireEnv } from "@shared/utils-narrow/validate"
+import { requireEnv } from "@akasha/utils-narrow/require-env"
 
 export async function getAgentId(): Promise<string> {
   return requireEnv("AGENT_ID")

@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readdirSync, statSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 
 const SOURCE_ROOT = join(homedir(), "Pictures", "ESO Wallpaper")

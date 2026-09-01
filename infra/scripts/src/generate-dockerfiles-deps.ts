@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { requireMatchPositional } from "../../../shared/utils-narrow/src/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { Glob } from "bun"
 import { z } from "zod"

@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { requireGet } from "../../../shared/utils-narrow/src/require-get"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import { collectExecutedDeps } from "./generate-dockerfiles-imports"
 import { HEADER, ROOT } from "./generate-dockerfiles-registry"
 import type { DockerfileExtensions, ServiceConfig } from "./generate-dockerfiles-types"

@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, mkdtempSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { requireMatchPositional } from "../../../shared/utils-narrow/src/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 import {
   rcloneCat,

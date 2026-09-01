@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, statSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 
 const CATALOG_URL = "https://www.elderscrollsonline.com/en-us/media/category/wallpapers"

@@ -32,7 +32,7 @@
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
     "@akasha/day": "workspace:*",
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   },
   "scripts": {

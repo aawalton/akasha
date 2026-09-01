@@ -19,7 +19,7 @@
     "@collections/music-spotify": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/day": "workspace:*",
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

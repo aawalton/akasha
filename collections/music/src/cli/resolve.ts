@@ -1,7 +1,7 @@
 import { getDevices, getPlaybackState } from "@collections/music-spotify/endpoints/player"
 import { search } from "@collections/music-spotify/endpoints/search"
 import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 import { selectCandidates } from "./track-candidate"
 

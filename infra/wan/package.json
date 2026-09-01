@@ -19,7 +19,7 @@
   "dependencies": {
     "@infra/comfy": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@shared/utils-narrow": "workspace:*"
+    "@akasha/utils-narrow": "workspace:*"
   },
   "scripts": {
     "test": "bun test",

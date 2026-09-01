@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { z } from "zod"
 
 // Every widget's Swift is an ios-component in akasha. The shells' own `ios-widget`

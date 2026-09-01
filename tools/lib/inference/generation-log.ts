@@ -2,7 +2,7 @@ import { OperationalError } from "@akasha/errors-core/exit-code"
 import type { Json } from "@akasha/supabase-database/json"
 import { kebabizeKey } from "../tracking/keys.ts"
 import { patchRow, type Written, writeRow } from "@shared/pages-query"
-import { optionalEnv } from "@shared/utils-narrow/require-env"
+import { optionalEnv } from "@akasha/utils-narrow/require-env"
 
 export function generationLogSlug(): string {
   const stated = optionalEnv("GENERATION_LOG")?.trim()

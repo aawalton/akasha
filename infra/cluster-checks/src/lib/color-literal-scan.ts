@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { GRANTED_VALUES_BY_PATH, normalizeLiteral, RULE_HOME_PATH } from "./color-literal-grants.ts"
 import {
   COLOR_BEARING_DECLARATION_RE,
@@ -28,7 +28,7 @@ const EXEMPT_SEGMENTS: ReadonlySet<string> = new Set([
   "tstl",
 ])
 
-const DESIGN_HOME_PREFIX = "shared/design-"
+const DESIGN_HOME_PREFIXES = ["shared/design-", "akasha/design/"]
 
 // A shell's www/ holds what a build put there — a staged SPA bundle for one shell, a
 // copied boot page for the other — and neither is authored. Matched under ios-apps
@@ -36,7 +36,7 @@ const DESIGN_HOME_PREFIX = "shared/design-"
 const NATIVE_SHELL_BUILT_ARTIFACT_RE = /^akasha\/code-system\/ios-app\/ios-apps\/[^/]+\/www\//
 
 export function shouldScanColorFile(repoRelPath: string): boolean {
-  if (repoRelPath.startsWith(DESIGN_HOME_PREFIX)) return false
+  if (DESIGN_HOME_PREFIXES.some((prefix) => repoRelPath.startsWith(prefix))) return false
   if (NATIVE_SHELL_BUILT_ARTIFACT_RE.test(repoRelPath)) return false
   if (repoRelPath === RULE_HOME_PATH) return false
   if (!/\.(css|tsx?)$/.test(repoRelPath)) return false

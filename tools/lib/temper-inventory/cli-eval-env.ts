@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { styleToChapters } from "./game-code.ts"
 import type { ItemKey } from "@temper/game-items-rules-core/use-destination-types"
 import type { EvalEnv } from "@temper/game-items-rules-eval/eval-env"

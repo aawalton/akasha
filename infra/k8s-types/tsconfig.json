@@ -18,8 +18,5 @@
     "./**/*.test.ts"
   ],
   "references": [
-    {
-      "path": "../../shared/utils-narrow"
-    }
   ]
 }

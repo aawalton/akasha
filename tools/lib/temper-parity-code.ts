@@ -1,4 +1,4 @@
-import * as utilsNarrow from "@shared/utils-narrow"
+import * as utilsNarrow from "@akasha/utils-narrow/assert-never"
 import type { InventoryItemData } from "./temper-explain-code.ts"
 import * as parityAddonTraceModule from "./temper-inventory/parity-addon-trace.ts"
 import * as parityRoutingModule from "./temper-inventory/parity-routing.ts"

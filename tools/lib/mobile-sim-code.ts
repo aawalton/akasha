@@ -1,4 +1,4 @@
-import { optionalEnv } from "@shared/utils-narrow/require-env"
+import { optionalEnv } from "@akasha/utils-narrow/require-env"
 import { z } from "zod"
 import * as simWwwStageModule from "../../alanwalton/mobile-cli/src/lib/sim-www-stage.ts"
 import * as installShellModule from "../../alanwalton/mobile-cli/src/mobile/sim/install-shell.ts"

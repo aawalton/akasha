@@ -51,7 +51,7 @@ export function generateTemperLocationType(rows: readonly Page[]): string {
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
 
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { LocationTypeTemplate } from "../location-type-data"
 
 const LOCATION_TYPE_DATA = {

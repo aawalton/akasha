@@ -2,7 +2,7 @@ export const summary = "Send an SMS via the Telnyx toll-free number (--to E.164,
 
 import type { CommandHelp } from "../../ops/surface.ts"
 import { buildTelnyxSendRequest, parseTelnyxSendResponse } from "@akasha/sms-core/telnyx-send"
-import { requireEnv } from "@shared/utils-narrow/validate"
+import { requireEnv } from "@akasha/utils-narrow/require-env"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 

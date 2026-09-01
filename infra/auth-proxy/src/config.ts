@@ -1,4 +1,4 @@
-import { requireEnv } from "@shared/utils-narrow/validate"
+import { requireEnv } from "@akasha/utils-narrow/require-env"
 import { z } from "zod"
 
 import { parseRouteMap, type RouteTarget } from "./route-map-core"

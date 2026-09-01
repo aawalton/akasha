@@ -1,4 +1,4 @@
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 
 export const DAYS_OF_WEEK = [

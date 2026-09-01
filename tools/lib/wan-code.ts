@@ -6,7 +6,7 @@ import {
   WAN_FULL_STEPS,
   WAN_LIGHTNING_STEPS,
 } from "@infra/wan/cli/wan-backbone"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 import { fetchImage, runComfyGraph } from "./inference/cli/comfy-client.ts"
 import { buildInferenceRunRecord, sha256Hex } from "./inference/inference-run-record.ts"

@@ -2,7 +2,7 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
 import { z } from "zod"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"

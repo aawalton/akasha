@@ -1,4 +1,4 @@
-import { requireEnv } from "@shared/utils-narrow/require-env"
+import { requireEnv } from "@akasha/utils-narrow/require-env"
 
 const DISABLED_ERROR =
   "spotify OAuth is disabled: the shared credential store was decommissioned; music/auth.ts needs its own storage before this can work again"

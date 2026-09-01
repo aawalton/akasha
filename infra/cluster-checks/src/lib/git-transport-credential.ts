@@ -1,4 +1,4 @@
-import { requireEnv } from "@shared/utils-narrow/require-env"
+import { requireEnv } from "@akasha/utils-narrow/require-env"
 
 const GIT_TRANSPORT_HOST = "git-transport.git.svc.cluster.local:3000"
 

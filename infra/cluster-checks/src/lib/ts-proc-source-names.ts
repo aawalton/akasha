@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { basename } from "node:path"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import ts from "typescript"
 import { z } from "zod"
 

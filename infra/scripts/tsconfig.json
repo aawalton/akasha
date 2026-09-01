@@ -27,9 +27,6 @@
   ],
   "references": [
     {
-      "path": "../../shared/utils-narrow"
-    },
-    {
       "path": "../k8s"
     }
   ]

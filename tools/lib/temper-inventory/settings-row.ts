@@ -1,6 +1,6 @@
 import { patchPage } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
-import { isJson } from "@shared/utils-narrow/is-json"
+import { isJson } from "@akasha/utils-narrow/is-json"
 import type { InventoryRuleSettings } from "@temper/game-items-rules-core/inventory-rule-types"
 import { AutomationSettingsSchema } from "./automation-settings-schema.ts"
 import type { AutomationSettings } from "./automation-types.ts"

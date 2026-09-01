@@ -2,7 +2,7 @@
 
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import ts from "typescript"
 import { listAllAddons } from "../../../../tools/lib/check-workflow/addons-resolve.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"

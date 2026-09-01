@@ -1,6 +1,6 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { asRecord } from "../../../shared/utils-narrow/src/as-record.ts"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 import { Glob } from "bun"
 import { readJson } from "./generate-dockerfiles-deps.ts"
 import { ROOT } from "./generate-dockerfiles-registry.ts"
