@@ -9,54 +9,54 @@ export const amyJennyUnreviewedWidget = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "Alan's unreviewed transaction iOS widget works.",
-      workingMemory:
-        "The service composes a page from values: composedFor (bce4b05b48) reads the page type, routes uncommitted keys to `kept` and renders the rest with bodyOf (1b843d4c74). Proved on device-token: 7 values in, lastSeenAt kept beside, body byte-identical to disk. `kept` writes beside the page (0da945c2ab). 118 pass. Left: the /write route taking pages, then registerDeviceToken hands over one bag.",
+      "statement": "Alan's unreviewed transaction iOS widget works.",
+      "workingMemory":
+        "The service takes property data end to end: /write carries `pages` of pageTypeSlug, slug and values (0688168806), composedFor routes uncommitted keys to `kept` and renders the rest, and landedIn now mints an id for a page being created and formats every body (672f7ab549). A page it replaces keeps the id it has. 129 pass. Left: registerDeviceToken hands over one bag, and the legacy device-token markdown goes with it.",
     },
     {
-      statement: "The packages reading and writing pages stand in akasha.",
-      workingMemory:
+      "statement": "The packages reading and writing pages stand in akasha.",
+      "workingMemory":
         "`shared/pages-query` is 8 files but no small move: its sources close over 168 under `tools/`, `page/`, `repo/`, `readouts/`, and `imports-inside` refuses every relative escape from `akasha/`. It waits on the root page engine beneath it, filed at `the-root-page-engine-lands-as-five-packages-in-this-order` as five increments. `shared/` is down to 5 folders and only this and `pages-ui` still move; `auth`, `design-patterns` and `utils-test` are settled. Inbound: 120 statements in 86 files.",
     },
     {
-      statement: "The packages Alan's own work rests on stand in akasha.",
-      workingMemory:
+      "statement": "The packages Alan's own work rests on stand in akasha.",
+      "workingMemory":
         "Six folders under `alanwalton/`, two build scratch; `calendar-sync` there is 3 files of deploy machinery over `@akasha/calendar-sync`; that, `@akasha/health-samples-import` and `@akasha/ssh-access` landed. Audit: 40 checks, 5497 files, 16 refusals — 11 `manifest-names-what-is-reached`, all `@capacitor` and not moving; 4 `no-rule-in-two-files`, down from 15 in an hour; 1 lower-camel. mobile-cli's 4 `ios-program` reaches resolve; 6 escapes in 3 files onto `tools/lib`/`repo/roots` block it.",
     },
     {
-      statement: "The design packages stand in akasha.",
-      workingMemory:
+      "statement": "The design packages stand in akasha.",
+      "workingMemory":
         "design-system stands at `644bb74cec` and `583bc845f5`: 5 stylesheets, 36 gallery modules, `shared/design-system` gone. The blocker was already gone: its 13 TS2322 errors typecheck clean and no `void` was rewritten. Inbound resolved to 8 edges, 7 products reaching the `.css` and one route the gallery; 10 tsconfigs dropped a reference rather than repoint. Every globals.css scanned only `shared/design-patterns`, so its 37 moved modules went unscanned by Tailwind; each names both now.",
     },
     {
-      statement: "`pages-ui` stands in akasha.",
-      workingMemory:
+      "statement": "`pages-ui` stands in akasha.",
+      "workingMemory":
         "94 modules stand; `shared/pages-ui` is 197 files, down from 242 in three waves, each akasha side then shared: `e6bc83de08`/`3d7dbbb9a4`, `5e6066a97e`/`4ec864267d`, `8c976b924d`/`e6fb3628c6`. Land akasha first so HEAD never goes red. Slugs renamed here: `types`->`page-with-properties`, `page-row`->`view-row`, `views`->`view-callbacks`; two pass-throughs died rather than moved. 51 leaves left. Arriving private casts took `no-rule-in-two-files` 4 to 7, filed. 10 tsconfigs name the old path.",
     },
     {
-      statement: "The interior of Alan's site stands in akasha.",
-      workingMemory:
+      "statement": "The interior of Alan's site stands in akasha.",
+      "workingMemory":
         "`lib` 51, `idle` 50, `awen` 51, `components` 18, `hooks` 2, `questions` 7 under `alanwalton/web/app/`: 179 files as one landing, none moved. Only pages-ui gates it now — design-primitives landed, and these folders already reach `@akasha/design-primitives` in 23 files over 49 statements. What waits is 42 `@shared/pages-ui` statements in 22 files, rewritten twice if this went first. `.json` and `.css` are no crux: `file-has-its-page` holds no extension list and they land as file properties.",
     },
     {
-      statement:
+      "statement":
         "The packages under Alan's site that name no package of their own stand in akasha.",
-      workingMemory:
+      "workingMemory":
         "Two of the four are gone: `chess` and `action-verbs` landed into `@akasha/alanwalton-web` at `6edf596cb8`, 16 files in 7 modules, reached by name at 3 call sites. `hooks` (2 files) and `questions` (7) are left, and they never waited on that package. 5 of the 9 are `~/`-free and could stand alone; the other 4 rest on 8 files under `app/lib` — api-fetch, api-origin, auth-error, capacitor-bridge, offline-text, open-questions-resync, read-completion, sender-surface — which the interior intent owns.",
     },
     {
-      statement: "The routes of Alan's site stand in akasha.",
-      workingMemory:
+      "statement": "The routes of Alan's site stand in akasha.",
+      "workingMemory":
         "Last of the three, because `app/routes` is the only part of this move with modelling nobody has done. Nothing waits on it: the site is a leaf with no inbound importers. The shape is settled: a lane built the site through a symlinked package root and got exit 0 with asset hashes identical to the control, tailwind emitting 114,234 bytes. Its 62 files carry 307 imports: 47 stay inside, 164 name packages, 20 npm, 76 escape to app siblings — 66 by `~/` and 10 by `../`, all into `awen`.",
     },
     {
-      statement: "Jenny's site deploys from akasha.",
-      workingMemory:
+      "statement": "Jenny's site deploys from akasha.",
+      "workingMemory":
         "Deployed and proved live. READING_RELAY_SECRET stands in her sops at the workstation's value, moved by `sops edit`, digest-checked, never printed. Pod b4289a8e7a: her relay 401s bare and 400s with the secret on a body that is no reading; her tile route answers 503 No reading on the ring credential. A relay secret 401s at her tile route as at Alan's, a category error and not a stale build, filed at alans-tile-route-refuses-jennys-credential-by-design-rather-than-by-age. He now runs 0c6fb83a1f.",
     },
     {
-      statement: "Jenny's unreviewed transaction iOS widget works.",
-      workingMemory:
+      "statement": "Jenny's unreviewed transaction iOS widget works.",
+      "workingMemory":
         "Her Swift compiles: `akasha ios-app build smilingjenny` exits 0 with BUILD_SIM_OK, 12 files into SmilingJennyWidgetExtension, `ring` and `categorize-ring` among them, so the one ring both tiles name is proven. This box has no swiftc; the command hands it to `macbook`. Both routes are 7 lines over `module/readout-categorization` now, Alan's copy gone at `0011a6c725` onto `answerCategorizationAdmittedBy`, which takes his guard: he admits on a device secret and a grant, she on a shared secret.",
     },
   ],
