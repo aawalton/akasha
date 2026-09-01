@@ -77,6 +77,10 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "What a name reaches from a place is answered from the scopes over that place.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name shadowing an imported one inside a scope is left as it stands.",
     },
     {

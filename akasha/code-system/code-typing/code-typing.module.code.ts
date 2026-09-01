@@ -194,6 +194,15 @@ export function declaredOn(typing: Typing, path: string, node: ts.Node): number 
   return source.getLineAndCharacterOfPosition(named.getStart(source)).line + 1
 }
 
+export function reachedFrom(typing: Typing, at: ts.Node, name: string): readonly ts.Node[] {
+  const found: ts.Node[] = []
+  for (const symbol of typing.checker.getSymbolsInScope(at, ts.SymbolFlags.All)) {
+    if (symbol.name !== name) continue
+    found.push(...(symbol.declarations ?? []))
+  }
+  return found
+}
+
 export function namingOf(
   typing: Typing,
   root: string,
