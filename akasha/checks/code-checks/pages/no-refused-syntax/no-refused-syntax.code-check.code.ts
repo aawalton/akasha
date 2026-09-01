@@ -3,7 +3,6 @@ import { dirname, join } from "node:path"
 import { textOf } from "@akasha/code-system/body-text"
 import { parsedAs } from "@akasha/code-system/code-source"
 import { saidBy } from "@akasha/command-system/fault-saying"
-import { everyOfType } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
@@ -68,7 +67,7 @@ export function rulesIn(
   change: Change | null = null
 ): readonly Rule[] {
   const found: Rule[] = []
-  for (const one of everyOfType(shadow.reading, RULE)) {
+  for (const one of shadow.index.everyOfType(RULE)) {
     const said = namedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a syntax rule, and its name says no slug`)
