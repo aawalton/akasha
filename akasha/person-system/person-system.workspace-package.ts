@@ -13,5 +13,6 @@ export const personSystem = {
     "page-type/person-access",
     "page-type/person-authority",
     "module/person-enrolment",
+    "module/route-access",
   ],
 } as const satisfies WorkspacePackage
