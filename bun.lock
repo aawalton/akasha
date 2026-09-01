@@ -16,6 +16,7 @@
         "@akasha/supabase-database": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
         "@akasha/utils-system": "workspace:*",
@@ -611,6 +612,13 @@
     },
     "akasha/utils-fs": {
       "name": "@akasha/utils-fs",
+    },
+    "akasha/utils-narrow": {
+      "name": "@akasha/utils-narrow",
+      "dependencies": {
+        "@akasha/supabase-database": "workspace:*",
+        "zod": "^4.3.6",
+      },
     },
     "akasha/utils-process": {
       "name": "@akasha/utils-process",
@@ -3957,6 +3965,8 @@
     "@akasha/tower-engine": ["@akasha/tower-engine@workspace:akasha/tower-engine"],
 
     "@akasha/utils-fs": ["@akasha/utils-fs@workspace:akasha/utils-fs"],
+
+    "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:akasha/utils-narrow"],
 
     "@akasha/utils-process": ["@akasha/utils-process@workspace:akasha/utils-process"],
 
