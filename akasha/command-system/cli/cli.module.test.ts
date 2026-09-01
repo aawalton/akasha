@@ -167,38 +167,38 @@ test("what was done and what refused it are answered apart", () => {
   expect(said.code).toBe(INPUT)
 })
 
-test("naming no command is a caller's mistake rather than an unclassified failure", () => {
-  const said = answering([], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
+test("naming no command is a caller's mistake rather than an unclassified failure", async () => {
+  const said = await answering([], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("takes a command")
 })
 
-test("a name no command carries is a caller's mistake too", () => {
+test("a name no command carries is a caller's mistake too", async () => {
   const root = scratch.rootFor("akasha-cli-")
   standingFiled(root, COMMAND, "read", [{ path: "akasha/r.command.ts", id: ID }])
   idFiled(root, COMMAND_TYPE, [
     { path: "akasha/command-system/command/command.page-type.ts", id: COMMAND_TYPE },
   ])
-  const said = answering(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
+  const said = await answering(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("is no command akasha carries")
 })
 
-test("a name looked for where no index stands says nothing was read, not that none is carried", () => {
-  const said = answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
+test("a name looked for where no index stands says nothing was read, not that none is carried", async () => {
+  const said = await answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("was looked for and not read")
   expect(said.err[0]).toContain(`No index stands at \`${indexNamed()}\``)
   expect(said.err[0]).not.toContain("is no command akasha carries")
 })
 
-test("a failure of no known kind says so rather than claiming one", () => {
+test("a failure of no known kind says so rather than claiming one", async () => {
   const hostile = {
     get AKASHA_ROOT(): string {
       throw new Error("the environment itself failed")
     },
   }
-  const said = answering([], hostile, AT, "/nowhere")
+  const said = await answering([], hostile, AT, "/nowhere")
   expect(said.code).toBe(UNCLASSIFIED)
   expect(said.err[0]).toStartWith("akasha: ")
 })

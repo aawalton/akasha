@@ -174,10 +174,10 @@ test("the rebuild's stamp is read back and named, and it names HEAD", () => {
   expect(stampStandingIn(root)?.settled).toEqual([])
 })
 
-test("`index refresh` is reached with no index at all", () => {
+test("`index refresh` is reached with no index at all", async () => {
   const root = repoAt()
   indexTakenFrom(root)
-  const answer = calling(["index", "refresh"], {
+  const answer = await calling(["index", "refresh"], {
     root,
     calledAs: "akasha",
     from: root,
@@ -189,11 +189,11 @@ test("`index refresh` is reached with no index at all", () => {
   expect(everythingFiled(root)).toEqual(wantedFor(root))
 })
 
-test("`index refresh` is reached through an index that will not parse", () => {
+test("`index refresh` is reached through an index that will not parse", async () => {
   const root = repoAt()
   seeded(root)
   standingUnreadableFiled(root, "command", "index")
-  const answer = calling(["index", "refresh"], {
+  const answer = await calling(["index", "refresh"], {
     root,
     calledAs: "akasha",
     from: root,

@@ -14,6 +14,10 @@ export const cli = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer is waited for before anything is printed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What was done is printed apart from what refused it.",
     },
     {

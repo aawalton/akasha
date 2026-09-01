@@ -39,6 +39,10 @@ export const commandSystem = {
     },
     {
       invariantKind: "departure",
+      statement: "A command may answer later than it was called.",
+    },
+    {
+      invariantKind: "departure",
       statement: "It prints nothing itself.",
     },
     {

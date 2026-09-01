@@ -30,7 +30,7 @@ export type Answer = {
 
 export type Given = Outside
 
-export type Answering = (argv: readonly string[], given: Given) => Answer
+export type Answering = (argv: readonly string[], given: Given) => Answer | Promise<Answer>
 
 export type Surface = {
   readonly taking: Taking
@@ -182,13 +182,13 @@ export function unreadIn(root: string, calledAs: string): string | null {
   return null
 }
 
-function answeredBy(
+async function answeredBy(
   named: string,
   path: string,
   root: string,
   argv: readonly string[],
   outside: Outside
-): Answer {
+): Promise<Answer> {
   const beside = besideAt(path, CODE, TS)
   if (beside === null) {
     return refusing(
@@ -216,7 +216,7 @@ function answeredBy(
       `\`${named}\` is a command page, and ${beside} answers to nothing that can be called`
     )
   }
-  return answering(argv, {
+  return await answering(argv, {
     root,
     calledAs: `${outside.calledAs} ${named}`,
     from: outside.from,
@@ -244,7 +244,7 @@ function helping(root: string, outside: Outside): Answer {
   return { report, refusals: [], code: 0 }
 }
 
-export function calling(argv: readonly string[], outside: Outside): Answer {
+export async function calling(argv: readonly string[], outside: Outside): Promise<Answer> {
   const root = resolve(outside.root)
   const named = argv[0]
   if (named === HELP || named === HELP_SHORT) return helping(root, outside)

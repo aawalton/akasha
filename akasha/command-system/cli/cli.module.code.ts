@@ -43,14 +43,14 @@ export function saidOf(answer: Answer): Said {
   return { out: answer.report, err: answer.refusals, code: answer.code }
 }
 
-export function answering(
+export async function answering(
   argv: readonly string[],
   env: Readonly<Record<string, string | undefined>>,
   at: string,
   from: string
-): Said {
+): Promise<Said> {
   try {
-    return saidOf(calling(argv, outsideOf(env, at, from)))
+    return saidOf(await calling(argv, outsideOf(env, at, from)))
   } catch (thrown) {
     const why = saidBy(thrown)
     return { out: [], err: [`akasha: ${why}`], code: UNCLASSIFIED }
@@ -58,7 +58,7 @@ export function answering(
 }
 
 if (import.meta.main) {
-  const said = answering(process.argv.slice(2), process.env, import.meta.path, process.cwd())
+  const said = await answering(process.argv.slice(2), process.env, import.meta.path, process.cwd())
   for (const one of said.out) process.stdout.write(`${one}\n`)
   for (const one of said.err) process.stderr.write(`${one}\n`)
   process.exit(said.code)
