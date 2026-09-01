@@ -7,7 +7,7 @@
     "./ssh-reach": "./ssh-reach/ssh-reach.module.code.ts"
   },
   "dependencies": {
-    "@shared/errors-core": "workspace:*",
-    "@shared/utils-fs": "workspace:*"
+    "@akasha/utils-fs": "workspace:*",
+    "@shared/errors-core": "workspace:*"
   }
 }
