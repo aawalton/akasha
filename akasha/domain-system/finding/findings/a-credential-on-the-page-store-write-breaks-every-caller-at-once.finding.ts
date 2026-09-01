@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aCredentialOnThePageStoreWriteBreaksEveryCallerAtOnce = {
+  id: "01a05ba6-1855-7000-b73b-7b7fde2810ea",
+  pageTypeSlug: "finding",
+  slug: "a-credential-on-the-page-store-write-breaks-every-caller-at-once",
+  domainSlug: "workspace-package/pages-system-service",
+  claim:
+    "Asking `/write` for a credential stops every caller in the same instant, because none carries one and no second route stands to fall back to. The callers are the workstation's own tools, the pods, and the agents, and the pods are reached through a socat that forwards bytes and can add no header. What the change costs is counted here so the call takes one sitting rather than a re-derivation.",
+  evidence:
+    "Proved by running. `ss -lntp` shows the store bound to `127.0.0.1`, `::1` and `100.64.0.4` on 8787 and nothing on `0.0.0.0`; curl to the house address 192.168.68.50 reaches nothing while the other three answer. Nothing in `page-listening` or `page-serving` reads a header.\n\nThe cluster reaches it. A pod in `alanwalton` holding no grant and unrelated to page-store reached `page-store.page-store.svc.cluster.local:8787` on `/ask` and on `/read` and was answered 200 with a real body. That namespace holds `default-deny` and three more policies, but the only CNI standing is flannel — no calico, cilium, weave or antrea pod runs anywhere — and flannel enforces no NetworkPolicy, so none of them binds. `allow-ingress-from-the-cluster` names `namespaceSelector: {}` in any case. All 113 running pods are callers. `/write` was not called; it is the same handler and asks the same nothing.\n\nOn the tailnet, `tailscale debug prefs` reads `ShieldsUp: false` and names no port allow-list. Seventeen peers are known and two besides this node are up: `macbook`, and `tailnet-egress-ailcgkrb`, which is how the cluster comes in. The headscale ACL was not dumped, so no rule was proved absent.\n\nWhat it costs, caller by caller. `tools/lib/page-query-client.ts` builds every workstation request in one place and would take a header there. The pods come through the socat in `page-store.cluster-service.code.attachment.ts`, which forwards bytes and cannot add one, so that deployment is rewritten rather than configured. `alanwalton/web` writes from its own routes and wants the value in its sops. The service sources no secrets today: its unit carries no `EnvironmentFile`, so `needsSecrets` goes on its page first. Four places, each failing closed the moment the check lands.",
+} as const satisfies Finding
