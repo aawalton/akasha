@@ -263,7 +263,7 @@ function asBuilt(given: string | Reading): Reading {
   return indexStanding(reading) ? reading : readingNone()
 }
 
-function standingBeside(
+function elsewhereIn(
   reading: Reading,
   carried: ReadonlySet<string>,
   pageOf: (path: string) => Value | null
@@ -335,8 +335,7 @@ export function settlingOver(
   const before = held.flatMap((one) => (one.was === null ? [] : [one.was]))
   const wasIdentifying = identifyingFrom(sourceAmong(before, sourceIn(reading, wasPageOf)))
   const nowIdentifying = identifyingFrom(sourceAmong(left, sourceIn(overSchema, pageOf)))
-  const elsewhere =
-    turned.size === 0 ? [] : standingBeside(reading, new Set(carried.keys()), pageOf)
+  const elsewhere = turned.size === 0 ? [] : elsewhereIn(reading, new Set(carried.keys()), pageOf)
   const identity = filingOf(
     reading,
     [
