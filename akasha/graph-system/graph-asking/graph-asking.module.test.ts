@@ -7,7 +7,7 @@ import {
   AT_INDEX,
   EDGE_AT,
   EDGE_ID,
-  edgeStandsAt,
+  edgeFiledAt,
   FIRST_AT,
   filed,
   HELD,
@@ -178,7 +178,7 @@ test("a relation edge standing only in the reading given is answered, and none w
 test("an edge kind's own pages, standing only in the reading given, still answer it", () => {
   const root = relationWorld(1, false)
   const over = readingLaidOver(root, {
-    [edgeStandsAt(RELATION)]: [{ path: EDGE_AT, id: EDGE_ID }],
+    [edgeFiledAt(RELATION)]: [{ path: EDGE_AT, id: EDGE_ID }],
     [INDEX_FILED_AT]: [{ path: INDEX_AT, id: INDEX_ID }],
   })
 

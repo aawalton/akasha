@@ -115,7 +115,7 @@ export function filed(root: string, at: string, said: Record<string, string>): u
 
 export const INDEX_FILED_AT = `identity/${INDEX}/slug/${HELD_INDEX}.jsonl`
 
-export function edgeStandsAt(kind: string): string {
+export function edgeFiledAt(kind: string): string {
   return `identity/${GRAPH_EDGE}/slug/${kind}.jsonl`
 }
 
@@ -144,7 +144,7 @@ function edged(
     indexSlug: `${INDEX}/${HELD_INDEX}`,
     ...held,
   })
-  if (stands) filed(root, edgeStandsAt(kind), { path: EDGE_AT, id: EDGE_ID })
+  if (stands) filed(root, edgeFiledAt(kind), { path: EDGE_AT, id: EDGE_ID })
 }
 
 export function relationWorld(lines: number, pagesStand = true): string {
