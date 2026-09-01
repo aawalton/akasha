@@ -30,11 +30,6 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The commit the change was judged against is the commit the change lands on or the change is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A change may state the commit its bodies were read against.",
     },
     {
@@ -67,15 +62,6 @@ export const landing = {
     {
       invariantKind: "departure",
       statement: "One that moved is refused unwritten.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A change commits only where no commit reaching `akasha/` landed between the base the change read and the writing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One that did is refused unwritten.",
     },
     {
       invariantKind: "departure",
@@ -119,11 +105,24 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "One hold spans the whole landing.",
+      statement: "A hold spans writing and indexing and carrying and committing.",
     },
     {
       invariantKind: "departure",
-      statement: "A change that never took the hold is refused unjudged and unwritten.",
+      statement: "A change is judged before the hold is taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change is judged against the commit the change read rather than the commit the change lands on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit landing while a change is judged does not refuse that change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change that never took the hold is refused unwritten.",
     },
     {
       invariantKind: "departure",
@@ -176,10 +175,6 @@ export const landing = {
     {
       invariantKind: "departure",
       statement: "A change says whether the body the change carries came from another path.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A change that was judged is the change that landed.",
     },
   ],
 } as const satisfies Module

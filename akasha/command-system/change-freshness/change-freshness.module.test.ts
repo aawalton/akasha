@@ -172,7 +172,7 @@ test("a commit reaching `akasha/` is named, and one reaching nothing under it is
   expect(reachedSince(root, base, headOf(root))).toEqual(["akasha/inside.txt"])
 })
 
-test("a commit reaching `akasha/` while the change was judged refuses it unwritten", () => {
+test("a commit reaching `akasha/` while the change was judged refuses nothing", () => {
   const root = repoWith(PAGES)
   const said = landing(
     root,
@@ -180,10 +180,9 @@ test("a commit reaching `akasha/` while the change was judged refuses it unwritt
     "held",
     landedMeanwhile(root, "akasha/meanwhile.txt", "landed inside")
   )
-  expect("refusals" in said).toBe(true)
-  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("reaching `akasha/` landed")
-  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("akasha/meanwhile.txt")
-  expect(readFileSync(join(root, AT), "utf8")).toBe(A)
+  expect("refusals" in said).toBe(false)
+  expect(readFileSync(join(root, AT), "utf8")).toBe("written over")
+  expect(readFileSync(join(root, "akasha/meanwhile.txt"), "utf8")).toBe("landed inside")
 })
 
 test("a commit reaching nothing under `akasha/` while the change was judged refuses nothing", () => {

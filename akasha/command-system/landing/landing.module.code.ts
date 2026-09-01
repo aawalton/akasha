@@ -4,14 +4,10 @@ import type { Judged, Judging } from "@akasha/checks-system/judging"
 import { textIn, textOf } from "@akasha/code-system/body-text"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages-system/change"
-import {
-  INSIDE,
-  movedOnDisk,
-  reachedSince,
-} from "../change-freshness/change-freshness.module.code.ts"
+import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed } from "../committing/committing.module.code.ts"
-import { oneLine, saidBy } from "../fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
@@ -256,6 +252,16 @@ export function landing(
       ],
     }
   }
+  const judgedAt = baseOf(root)
+  const said = judged(judging, changeOf(root, { base: judgedAt, edits: changes }))
+  if (said.length > 0) {
+    return {
+      refusals: [
+        ...said.map((one) => `${one.path} — ${one.reason}`),
+        `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`,
+      ],
+    }
+  }
   return holding(root, () => {
     const base = baseOf(root)
     const moved = named === null || named === base ? [] : movedBetween(root, named, base, changes)
@@ -270,17 +276,6 @@ export function landing(
         ],
       }
     }
-    const proposed = { base, edits: changes }
-    const change = changeOf(root, proposed)
-    const said = judged(judging, change)
-    if (said.length > 0) {
-      return {
-        refusals: [
-          ...said.map((one) => `${one.path} — ${one.reason}`),
-          `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`,
-        ],
-      }
-    }
     const stirred = movedOnDisk(root, asRead)
     if (stirred.length > 0) {
       return {
@@ -289,18 +284,6 @@ export function landing(
             (one) =>
               `${one} — what stands on disk is not the body you read, so writing it would put back what moved in between`
           ),
-          "nothing was written — read them again against what stands now",
-        ],
-      }
-    }
-    const now = baseOf(root)
-    const reached = reachedSince(root, base, now)
-    if (reached === null || reached.length > 0) {
-      return {
-        refusals: [
-          reached === null
-            ? `what reached \`${INSIDE}/\` between \`${base}\` and \`${now}\` would not read, so what was judged cannot be shown to be what stands`
-            : `a commit reaching \`${INSIDE}/\` landed while this change was judged, so what was judged is not what stands — it moved ${reached.length} path(s): ${oneLine(reached.join(", "))}`,
           "nothing was written — read them again against what stands now",
         ],
       }

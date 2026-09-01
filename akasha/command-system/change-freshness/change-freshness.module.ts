@@ -34,11 +34,6 @@ export const changeFreshness = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A change commits only where no commit reaching `akasha/` landed after that change read its base.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A commit reaching nothing under `akasha/` can change no verdict.",
     },
     {
