@@ -10,7 +10,13 @@ export const move = {
   test: "ts",
   testFixtures: "ts",
   mechanical: true,
-  partSlugs: ["module/move-renaming", "module/move-repointing", "module/move-spreading"],
+  partSlugs: [
+    "module/move-arguing",
+    "module/move-manifesting",
+    "module/move-renaming",
+    "module/move-repointing",
+    "module/move-spreading",
+  ],
   taking: [
     { said: "--from <path>", takes: "the path a body stands at now" },
     { said: "--to <path>", takes: "the path it arrives at" },
@@ -26,6 +32,7 @@ export const move = {
     "the files standing beside what you name go with it.",
     "a folder you name carries every file git holds under it, each keeping its place beneath it.",
     "the files naming what moves are repointed in the same commit.",
+    "a package manifest naming a file that moves is repointed with it.",
     "a value beside a renamed page named for its old slug is renamed with it.",
     "a path is read against the repository root, wherever the call was made.",
   ],
@@ -66,6 +73,19 @@ export const move = {
     {
       invariantKind: "departure",
       statement: "A folder a move leaves empty is cleared on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package manifest naming a file that moves is repointed with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A way into a package is repointed only where the file it names arrives inside that package.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A manifest that moves is not rewritten.",
     },
     {
       invariantKind: "departure",
@@ -197,10 +217,6 @@ export const move = {
     {
       invariantKind: "gap",
       statement: "A string reading as a moved path is repointed only where it names one.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A manifest naming a file that moves is repointed with it.",
     },
     {
       invariantKind: "gap",

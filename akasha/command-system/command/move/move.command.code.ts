@@ -5,13 +5,7 @@ import { everyPath, importersOf, listedByPath } from "@akasha/indexes"
 import { besideOf } from "@akasha/pages-system/page-beside"
 import { uncommittedNamed } from "@akasha/pages-system/page-file-name"
 import type { Asked } from "../../asking/asking.module.code.ts"
-import {
-  BREAK_GLASS,
-  counted,
-  DRY_RUN,
-  landingAsked,
-  textOf,
-} from "../../asking/asking.module.code.ts"
+import { counted, landingAsked, textOf } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
@@ -20,13 +14,9 @@ import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import { pruneEmptied, wouldEmpty } from "../remove/remove.command.code.ts"
-import {
-  glassIn,
-  MESSAGE,
-  MESSAGE_FILE,
-  messageIn,
-  pathInside,
-} from "../write/write.command.code.ts"
+import { glassIn, messageIn, pathInside } from "../write/write.command.code.ts"
+import { FROM, pairsIn, TO, VALUED } from "./move-arguing/move-arguing.module.code.ts"
+import { manifestingOver } from "./move-manifesting/move-manifesting.module.code.ts"
 import type { Renaming } from "./move-renaming/move-renaming.module.code.ts"
 import {
   addressingOver,
@@ -46,65 +36,9 @@ const INSIDE = `${AKASHA}/`
 
 const TS = ".ts"
 
-const FROM = "--from"
-
-const TO = "--to"
-
-const VALUED = [FROM, TO, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
-
-const BARE = [DRY_RUN]
-
 const OUTSIDE_INDEX =
   `the index carries \`${INSIDE}\` alone, so a file outside it importing what moved stands ` +
   "unrepointed and was not looked for"
-
-export type Read =
-  | { readonly pairs: readonly Pair[]; readonly dryRun: boolean }
-  | { readonly refused: string }
-
-export function pairsIn(argv: readonly string[]): Read {
-  const pairs: Pair[] = []
-  let pending: string | null = null
-  let dryRun = false
-  let at = 0
-  while (at < argv.length) {
-    const token = argv[at]
-    if (token === undefined) break
-    if (BARE.includes(token)) {
-      dryRun = true
-      at = at + 1
-      continue
-    }
-    if (!VALUED.includes(token)) {
-      return {
-        refused: `\`${token}\` is not a flag this takes — a move names its sides as \`${FROM} <path> ${TO} <path>\``,
-      }
-    }
-    const value = argv[at + 1]
-    const carries = token === MESSAGE || token === MESSAGE_FILE || token === BREAK_GLASS
-    if (value === undefined || (value.startsWith("-") && !carries)) {
-      return { refused: `${token} needs a value, and the line ends or names another flag` }
-    }
-    at = at + 2
-    if (carries) continue
-    if (token === FROM) {
-      if (pending !== null) {
-        return { refused: `${FROM} ${pending} has no ${TO} — each pair names both sides` }
-      }
-      pending = value
-      continue
-    }
-    if (pending === null) {
-      return { refused: `${TO} ${value} has no ${FROM} — each pair names both sides` }
-    }
-    pairs.push({ from: pending, to: value })
-    pending = null
-  }
-  if (pending !== null) {
-    return { refused: `${FROM} ${pending} has no ${TO} — each pair names both sides` }
-  }
-  return { pairs, dryRun }
-}
 
 export type Naming = { readonly held: Listed | null } | { readonly unread: string }
 
@@ -395,6 +329,13 @@ export function move(argv: readonly string[], given: Given): Answer {
     for (const path of spellingOf(root, base, moved, naming)) naming.add(path)
   }
   const repointing: string[] = []
+  for (const [path, text] of manifestingOver(moved, bodyText)) {
+    const held = bodyAt(root, base, path)
+    if (held === null) continue
+    repointing.push(path)
+    carries.push({ was: path, now: path, from: blobIdOf(held) })
+    changes.push({ path, body: new TextEncoder().encode(text), carried: true })
+  }
   for (const path of [...naming].sort()) {
     if (!path.endsWith(TS) || moved.has(path)) continue
     const held = bodyAt(root, base, path)

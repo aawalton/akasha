@@ -5,7 +5,7 @@ import { unreadIn } from "@akasha/context-system/warranting"
 import { refusing } from "@akasha/testing-system/minting"
 import { stands } from "@akasha/testing-system/putting"
 import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"
-import { move, pairsIn } from "./move.command.code.ts"
+import { move } from "./move.command.code.ts"
 import {
   AAAA,
   AGENT,
@@ -65,6 +65,7 @@ import {
   why,
 } from "./move.command.test-fixtures.ts"
 import { move as moveCommand } from "./move.command.ts"
+import { pairsIn } from "./move-arguing/move-arguing.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -241,11 +242,6 @@ test("naming no pair is refused rather than committed empty", () => {
   const said = move([], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("name at least one pair")
-})
-
-test("a --from with no --to is refused", () => {
-  const said = pairsIn(["--from", "one", "--from", "two"])
-  expect("refused" in said ? said.refused : "").toContain("each pair names both sides")
 })
 
 test("a dry run gates and writes nothing at all", () => {
