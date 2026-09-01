@@ -26,6 +26,18 @@ export const importsInside = {
     },
     {
       invariantKind: "departure",
+      statement: "A package reached through `node_modules` is named by no manifest here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A workspace the root manifest names is read at the manifest beneath it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A workspace the root manifest names by a pattern is answered by the index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The manifests are read as the change would leave them.",
     },
     {

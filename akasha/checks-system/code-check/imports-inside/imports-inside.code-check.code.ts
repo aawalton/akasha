@@ -4,7 +4,9 @@ import {
   type Naming,
   specifiersIn,
 } from "@akasha/code-system/code-specifier"
-import { bodiesAt, reachingAt } from "@akasha/indexes/package-reaching"
+import { everyPath } from "@akasha/indexes"
+import { filePropertiesAt } from "@akasha/indexes/entries"
+import { bodiesAt, reachingIn } from "@akasha/indexes/package-reaching"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
   type Body,
@@ -16,6 +18,10 @@ import {
 const AKASHA = "akasha"
 
 const INSIDE = `${AKASHA}/`
+
+const MANIFEST = "package.json"
+
+const PATTERN = "*"
 
 const HELD = new WeakMap<Shadow, Naming>()
 
@@ -49,10 +55,30 @@ export function foundIn(
   return said
 }
 
+export function workspacesIn(text: string | null): readonly string[] {
+  if (text === null) return []
+  let held: unknown
+  try {
+    held = JSON.parse(text)
+  } catch {
+    return []
+  }
+  const named = (held as { readonly workspaces?: unknown }).workspaces
+  if (!Array.isArray(named)) return []
+  const found: string[] = []
+  for (const one of named) {
+    if (typeof one !== "string" || one.includes(PATTERN)) continue
+    found.push(`${one}/${MANIFEST}`)
+  }
+  return found
+}
+
 export function namingFor(root: string, shadow: Shadow): Naming {
   const found = HELD.get(shadow)
   if (found !== undefined) return found
-  const made = reachingAt(shadow.reading, bodiesAt(root))
+  const bodyAt = bodiesAt(root)
+  const named = [...everyPath(shadow.reading), ...workspacesIn(bodyAt(MANIFEST))]
+  const made = reachingIn(named, filePropertiesAt(shadow.reading), bodyAt)
   HELD.set(shadow, made)
   return made
 }

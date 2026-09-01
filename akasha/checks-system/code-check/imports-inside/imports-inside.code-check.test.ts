@@ -1,7 +1,12 @@
 import { expect, test } from "bun:test"
 import type { Naming } from "@akasha/code-system/code-specifier"
 import { bodiesIn } from "@akasha/testing-system/bodying"
-import { reachedBy, reasonsIn, reasonsWith } from "./imports-inside.code-check.code.ts"
+import {
+  reachedBy,
+  reasonsIn,
+  reasonsWith,
+  workspacesIn,
+} from "./imports-inside.code-check.code.ts"
 
 const ROOT = "/repo"
 
@@ -161,4 +166,21 @@ test("a package lands where the naming says, and nowhere where none is handed in
 test("a specifier spelt from the root names itself, so what it reaches is still judged", () => {
   expect(reachedBy("akasha/a/held.ts", "/etc/passwd")).toBe("/etc/passwd")
   expect(reasonsIn(given("akasha/held.ts", 'import { one } from "/etc/passwd"\n'))).toHaveLength(1)
+})
+
+test("a workspace the root manifest names is read at the manifest beneath it", () => {
+  const said = workspacesIn('{"workspaces":["shared/pages-query","tools"]}')
+  expect(said).toEqual(["shared/pages-query/package.json", "tools/package.json"])
+})
+
+test("a workspace named by a pattern is left to the index", () => {
+  expect(workspacesIn('{"workspaces":["akasha/**","shared/one"]}')).toEqual([
+    "shared/one/package.json",
+  ])
+})
+
+test("a root manifest naming no workspaces, or none at all, names nothing", () => {
+  expect(workspacesIn('{"name":"held"}')).toEqual([])
+  expect(workspacesIn("not json at all")).toEqual([])
+  expect(workspacesIn(null)).toEqual([])
 })
