@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aStoreAnswersEmptyForAPageTypeItCannotHold = {
+  id: "01a05b48-7d46-730c-8b52-6cbabe84bed6",
+  pageTypeSlug: "finding",
+  slug: "a-store-answers-empty-for-a-page-type-it-cannot-hold",
+  domainSlug: "workspace-package/pages-system-service",
+  claim:
+    'The page store answers `{"rows":[]}` with status 200 for a page type it does not hold, including one that exists nowhere, so no caller can tell a true empty from pages the store does not serve. This breaks the Answer Or Refuse rule its own parent package states. The fault is not an oversight: two module pages beneath that package each state the opposite as an invariant, so a directive and the modules under it disagree in writing, and the code follows the modules.',
+  evidence:
+    'Asked on the running store, `POST /ask` with `{"pageTypeSlug":"no-such-page-type-xyz"}` answers `{"rows":[]}` and HTTP 200, byte for byte what `{"pageTypeSlug":"health-sample"}` answers, while `{"pageTypeSlug":"finding"}` answers rows. Nothing in the answer parts a page type holding no pages from one the store never serves. `akasha/pages-system/pages-system.workspace-package.ts:52-62` states the rule Answer Or Refuse, act `Refuse where you cannot answer, rather than answering as though there were nothing`, warrant `A true empty and a failure read alike, and only one of them is a fault`. Against it, `akasha/pages-system/pages-system-service/page-asking/page-asking.module.ts:19-22` states the departure `A page type no page is filed under is answered empty`, `akasha/pages-system/indexes/index-reading/index-reading.module.ts:34-37` states the same, and :38-41 adds `A question is refused only where the index it reads is not there`. The code obeys the modules: `page-asking.module.code.ts:140` calls `valuesOfType(root, query.pageTypeSlug)`, filters, and returns `{rows: taken...}` at :151 with no branch for a page type it does not know, and `page-serving.module.code.ts:235-237` hands that back as 200. The scope itself is meant, so the silence is what costs: `pages-system-service.workspace-package.ts:22-25` states `It answers for the pages standing in akasha and for no others`. Drawing the line looks cheap. The index at `.git/pages/index/pages.jsonl` holds 56,273 entries, every one `"repo":"akasha"`, naming 296 distinct types, so whether a page type is one the store answers for at all is knowable at the moment it is asked.',
+} as const satisfies Finding
