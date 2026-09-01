@@ -1,4 +1,4 @@
-import { parseBuildSha } from "@shared/web-build-sha/sha"
+import { parseBuildSha } from "@akasha/web-build-sha/build-sha"
 
 export function shouldPromptVersionUpdate(input: {
   buildSha: string | null
