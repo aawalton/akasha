@@ -1,13 +1,9 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import {
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-} from "@shared/design-primitives/components/popover"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Button } from "@akasha/design-primitives/button"
+import { cn } from "@akasha/design-primitives/cn"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { PanelLeftClose, PanelLeftOpen } from "lucide-react"
 import { isNavItemActive } from "../nav-active/nav-active.module.code.ts"
 import type { AppNavConfig, AppNavItem } from "../nav-types/nav-types.module.code.ts"

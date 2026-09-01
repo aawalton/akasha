@@ -18,7 +18,7 @@ export function PanelToggleProvider({
     action: "collapse-all",
     generation: 0,
   })
-  const handleToggle = useCallback(() => {
+  const handleToggle = useCallback((): undefined => {
     if (!active) return
     const openPanels = document.querySelectorAll(
       '[data-global-toggle][data-state="open"]:not([inert] *)'

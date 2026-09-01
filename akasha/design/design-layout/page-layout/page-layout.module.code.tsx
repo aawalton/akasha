@@ -1,8 +1,8 @@
 "use client"
 
-import { Skeleton } from "@shared/design-primitives/components/skeleton"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
+import { Skeleton } from "@akasha/design-primitives/skeleton"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import * as React from "react"
 import { useAppShellOptional } from "../app-shell-context/app-shell-context.module.code.tsx"
 import {

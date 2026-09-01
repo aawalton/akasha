@@ -1,6 +1,6 @@
 "use client"
 
-import { Skeleton } from "@shared/design-primitives/components/skeleton"
+import { Skeleton } from "@akasha/design-primitives/skeleton"
 import { createGenericLayout } from "../column-layout/column-layout.module.code.ts"
 import { ResponsiveColumnsSkeleton } from "../responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 

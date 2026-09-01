@@ -1,6 +1,6 @@
 "use client"
 
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
 import type * as React from "react"
 import { Children } from "react"
 import { BalancedColumns, getChildId } from "../balanced-columns/balanced-columns.module.code.tsx"

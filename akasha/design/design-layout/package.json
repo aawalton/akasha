@@ -43,7 +43,7 @@
     "./virtual-card-grid": "./virtual-card-grid/virtual-card-grid.module.code.tsx"
   },
   "dependencies": {
-    "@shared/design-primitives": "workspace:*",
+    "@akasha/design-primitives": "workspace:*",
     "@tanstack/react-virtual": "^3.14.10",
     "class-variance-authority": "^0.7.1",
     "lucide-react": "^0.576.0"

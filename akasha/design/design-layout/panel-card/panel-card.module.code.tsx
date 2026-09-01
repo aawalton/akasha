@@ -1,12 +1,12 @@
 "use client"
 
-import { Card, CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
+import { Card, CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
+import { cn } from "@akasha/design-primitives/cn"
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "@shared/design-primitives/components/collapsible"
-import { cn } from "@shared/design-primitives/utils/cn"
+} from "@akasha/design-primitives/collapsible"
 import { ChevronDown } from "lucide-react"
 import type * as React from "react"
 import { useEffect, useLayoutEffect, useRef, useState } from "react"

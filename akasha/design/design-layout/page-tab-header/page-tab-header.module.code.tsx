@@ -1,4 +1,4 @@
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
 
 export function PageTabTitleBadges({ className, ...props }: React.ComponentProps<"div">) {
   return (

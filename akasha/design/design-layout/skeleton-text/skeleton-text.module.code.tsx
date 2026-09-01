@@ -1,5 +1,5 @@
-import { Skeleton } from "@shared/design-primitives/components/skeleton"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
+import { Skeleton } from "@akasha/design-primitives/skeleton"
 import { cva, type VariantProps } from "class-variance-authority"
 
 const skeletonTextVariants = cva("flex flex-col", {

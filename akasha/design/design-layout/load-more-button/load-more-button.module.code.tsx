@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
+import { Button } from "@akasha/design-primitives/button"
 
 interface LoadMoreButtonProps {
   visibleCount: number

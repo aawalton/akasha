@@ -1,8 +1,8 @@
 "use client"
 
-import { Skeleton } from "@shared/design-primitives/components/skeleton"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
+import { Skeleton } from "@akasha/design-primitives/skeleton"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { Ellipsis } from "lucide-react"
 import { useState } from "react"
 import { AppShellMoreDrawer } from "../app-shell-more-drawer/app-shell-more-drawer.module.code.tsx"
