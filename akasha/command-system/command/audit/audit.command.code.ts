@@ -50,11 +50,11 @@ export function meaning(argv: readonly string[]): Meant {
 
 export function narrowedTo(every: readonly Gathered[], named: readonly string[]): Narrowed {
   if (named.length === 0) return { checks: every, refusals: [] }
-  const standing = new Map(every.map((one) => [one.slug, one]))
+  const bySlug = new Map(every.map((one) => [one.slug, one]))
   const checks: Gathered[] = []
   const refusals: string[] = []
   for (const one of named) {
-    const found = standing.get(one)
+    const found = bySlug.get(one)
     if (found === undefined) {
       refusals.push(
         `\`${one}\` is no check that runs at audit — those that do are ` +
