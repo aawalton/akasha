@@ -151,7 +151,7 @@ export async function planFor(
   return { workload, synthPath, manifests: inApplyOrder(manifests, workload) }
 }
 
-export function standInsIn(manifest: Manifest): readonly string[] {
+export function unfilledIn(manifest: Manifest): readonly string[] {
   const left: string[] = []
   for (const found of manifest.yaml.matchAll(LEFT_TO_FILL)) {
     if (found[1] !== undefined) left.push(`${found[1]} is a checksum nothing filled in`)
@@ -163,7 +163,7 @@ export function standInsIn(manifest: Manifest): readonly string[] {
 }
 
 export function standInsOf(plan: Plan): readonly string[] {
-  return plan.manifests.flatMap((one) => standInsIn(one).map((why) => `${one.path}: ${why}`))
+  return plan.manifests.flatMap((one) => unfilledIn(one).map((why) => `${one.path}: ${why}`))
 }
 
 export type Matched = { readonly stands: boolean } | { readonly why: string }

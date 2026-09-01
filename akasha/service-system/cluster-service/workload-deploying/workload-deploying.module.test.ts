@@ -11,7 +11,7 @@ import {
   opensTheNamespace,
   planFor,
   rolloutOf,
-  standInsIn,
+  unfilledIn,
 } from "./workload-deploying.module.code.ts"
 
 const WORLD = seededWorld()
@@ -90,16 +90,16 @@ test("the namespace stands first and the workload last", () => {
 
 test("a checksum nothing filled in is a stand-in", () => {
   const held = manifest({ yaml: "      checksum/s3-creds: PENDING\n" })
-  expect(standInsIn(held)[0]).toContain("checksum/s3-creds")
+  expect(unfilledIn(held)[0]).toContain("checksum/s3-creds")
 })
 
 test("a checksum that is a digest is no stand-in", () => {
   const digest = "a".repeat(64)
-  expect(standInsIn(manifest({ yaml: `      checksum/s3-creds: ${digest}\n` }))).toEqual([])
+  expect(unfilledIn(manifest({ yaml: `      checksum/s3-creds: ${digest}\n` }))).toEqual([])
 })
 
 test("an image nothing filled in is a stand-in", () => {
-  expect(standInsIn(manifest({ yaml: "      image: MUST_BE_SET\n" }))[0]).toContain("image")
+  expect(unfilledIn(manifest({ yaml: "      image: MUST_BE_SET\n" }))[0]).toContain("image")
 })
 
 test("a manifest opening no namespace is applied into the workload's own", () => {
