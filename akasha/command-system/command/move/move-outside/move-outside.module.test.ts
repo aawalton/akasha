@@ -8,45 +8,69 @@ import {
   FOLDER_AT,
   FOLDER_PAIR,
   givenIn,
-  head,
   LOCK,
   LOCKED,
   outsideMoved,
   outsideWorld,
+  REACHED,
+  REACHER,
+  reachMoved,
   scratch,
   told,
 } from "../move.command.test-fixtures.ts"
-import { namedOutside, outsideSaid, repointedText } from "./move-outside.module.code.ts"
+import { outsideSaid, reachesIn, repointedText } from "./move-outside.module.code.ts"
 
 afterAll(scratch.sweep)
 
 const MOVED = new Map([[FOLDER, FOLDER_AT]])
 
-const HELD_UNDER = "akasha/one/held.ts"
+const AT = "tools/lib/reach.ts"
 
-test("a path is repointed where a segment ends after it and left alone where one runs on", () => {
-  const said = repointedText('"akasha/one" "akasha/one-other" "akasha/one/held.ts"', MOVED)
-  expect(said).toBe('"akasha/far/one" "akasha/one-other" "akasha/far/one/held.ts"')
+test("a path spelled whole outside the akasha folder is repointed where it moved", () => {
+  const said = repointedText(AT, '"akasha/one" "akasha/one-other"', MOVED)
+  expect(said).toBe('"akasha/far/one" "akasha/one-other"')
 })
 
-test("a name a path character leads and a name a package name leads are left alone", () => {
-  const said = repointedText('xakasha/one "@akasha/one" "repo/akasha/one" "akasha/one"', MOVED)
-  expect(said).toBe('xakasha/one "@akasha/one" "repo/akasha/one" "akasha/far/one"')
+test("a relative reach from outside is repointed to where what it resolves to arrived", () => {
+  const said = repointedText(AT, '"../../akasha/one/held.module.ts"', MOVED)
+  expect(said).toBe('"../../akasha/far/one/held.module.ts"')
 })
 
-test("the longest path matching at one place is the path written back", () => {
-  const moved = new Map([...MOVED, [HELD_UNDER, "akasha/far/held.ts"]])
-  expect(repointedText(`"${HELD_UNDER}"`, moved)).toBe('"akasha/far/held.ts"')
+test("a relative reach is resolved against the folder of the file carrying that reach", () => {
+  const said = repointedText("tools/reach.ts", '"../akasha/one/held.module.ts"', MOVED)
+  expect(said).toBe('"../akasha/far/one/held.module.ts"')
+})
+
+test("a relative reach resolving to no path that moved is left alone", () => {
+  const text = '"../../akasha/one-other/held.module.ts" "./one/held.module.ts"'
+  expect(repointedText(AT, text, MOVED)).toBe(text)
+})
+
+test("a relative reach climbing out of the repository is left alone", () => {
+  const text = '"../../../akasha/one/held.module.ts"'
+  expect(repointedText(AT, text, MOVED)).toBe(text)
+})
+
+test("a reach is answered with where the reach sits and what it becomes", () => {
+  const found = reachesIn(AT, 'x "../../akasha/one"', MOVED)
+  expect(found.map((one) => one.now)).toEqual(["../../akasha/far/one"])
 })
 
 test("a body naming nothing that moved comes back as that body was", () => {
-  expect(repointedText(LOCKED, new Map())).toBe(LOCKED)
+  expect(repointedText(LOCK, LOCKED, new Map())).toBe(LOCKED)
 })
 
-test("what names a moved path is looked for outside the akasha folder alone", () => {
-  const root = outsideWorld()
-  const found = namedOutside(root, head(root), MOVED)
-  expect("paths" in found ? found.paths : ["it refused"]).toEqual([LOCK])
+test("a file outside akasha reaching in by a relative path is repointed by a move", () => {
+  const { root, said } = reachMoved()
+  expect(said.refusals).toEqual([])
+  expect(bodyIn(root, REACHER)).toBe(REACHED)
+})
+
+test("what reached in by a relative path is told apart from what spelled the path whole", () => {
+  const { said } = reachMoved()
+  expect(told(said)).toContain(
+    `reached in by a relative path rather than by the path itself — ${REACHER}`
+  )
 })
 
 test("a body git reads as binary is left out of the search and out of the change", () => {
@@ -65,7 +89,7 @@ test("a dry run outside the akasha folder writes nothing and names what it would
 })
 
 test("finding nothing outside the akasha folder is said as plainly as finding something", () => {
-  expect(outsideSaid([], false)[0]).toBe("no file outside `akasha/` named what moved")
-  expect(outsideSaid([LOCK], true)[0]).toContain(`would be repointed — ${LOCK}`)
-  expect(outsideSaid([], false)[1]).toContain("is left alone")
+  expect(outsideSaid([], [], false)[0]).toBe("no file outside `akasha/` named what moved")
+  expect(outsideSaid([LOCK], [], true)[0]).toContain(`would be repointed — ${LOCK}`)
+  expect(outsideSaid([], [], false)[1]).toContain("is left alone")
 })

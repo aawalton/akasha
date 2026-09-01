@@ -35,6 +35,7 @@ export const move = {
     "a file git is told to ignore goes as a sidecar rather than as folder contents.",
     "the files naming what moves are repointed in the same commit.",
     "a tracked file outside `akasha/` spelling a path that moves is repointed with it.",
+    "one reaching in by a relative path is repointed where that path resolves to what moves.",
     "a package manifest naming a file that moves is repointed with it.",
     "a manifest that moves states its ways in from the folder it arrives in.",
     "a way in whose file leaves the package is taken out of that manifest.",
@@ -241,8 +242,20 @@ export const move = {
     },
     {
       invariantKind: "departure",
+      statement: "A path outside `akasha/` is repointed where a body spells that path itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relative path outside `akasha/` resolving to a path that moved is repointed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relative path is resolved against the folder of the file carrying that path.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A path outside `akasha/` is repointed by the path itself rather than by what a specifier reaches.",
+        "The files that reached in by a relative path are reported apart from those that spelled one.",
     },
     {
       invariantKind: "absence",

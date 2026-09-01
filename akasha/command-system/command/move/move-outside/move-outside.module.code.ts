@@ -1,87 +1,84 @@
-import { argvFor } from "@akasha/git/git-running"
-import { ran } from "@akasha/utils-run/running"
-import { counted, textOf } from "../../../asking/asking.module.code.ts"
-import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
+import { dirname, join, relative } from "node:path"
+import { counted } from "../../../asking/asking.module.code.ts"
 import type { FileEdit } from "../../../landing/landing.module.code.ts"
+import type { Placed } from "../../../outside-naming/outside-naming.module.code.ts"
+import {
+  INSIDE,
+  namesIn,
+  outsideRespelt,
+  splicedOver,
+} from "../../../outside-naming/outside-naming.module.code.ts"
 import type { Carry } from "../../../reading/reading.module.code.ts"
 import { blobIdOf } from "../../../reading/reading.module.code.ts"
 
-const INSIDE = "akasha/"
+const HERE = "."
 
-const SEGMENT = /[A-Za-z0-9._-]/
+const CLIMBS = ".."
 
-const LEADING = /[A-Za-z0-9._@/-]/
-
-const FOUND_NOTHING = 1
+const UNDER = "/"
 
 export const OUTSIDE_SPELLING =
-  `a path that moved is looked for outside \`${INSIDE}\` as the path itself, so a body naming ` +
-  "what moved by any other spelling is left alone"
-
-export type Found = { readonly paths: readonly string[] } | { readonly refusal: string }
+  `a path that moved is looked for outside \`${INSIDE}\` as the path itself and as a relative ` +
+  "reach resolved against the folder of the file carrying that reach, so a body naming what moved " +
+  "by any other spelling is left alone"
 
 export type Outside = {
   readonly paths: readonly string[]
+  readonly reaching: readonly string[]
   readonly changes: readonly FileEdit[]
   readonly carries: readonly Carry[]
 }
 
-type Placed = {
-  readonly at: number
-  readonly was: string
-  readonly now: string
-}
-
-function boundedAt(text: string, at: number, was: string): boolean {
-  const before = at === 0 ? "" : text.slice(at - 1, at)
-  const after = text.slice(at + was.length, at + was.length + 1)
-  if (before !== "" && LEADING.test(before)) return false
-  return after === "" || !SEGMENT.test(after)
-}
-
-function foundIn(text: string, moved: ReadonlyMap<string, string>): readonly Placed[] {
-  const found: Placed[] = []
+export function arrivalOf(landed: string, moved: ReadonlyMap<string, string>): string | null {
+  const whole = moved.get(landed)
+  if (whole !== undefined) return whole
+  let held = ""
+  let found: string | null = null
   for (const [was, now] of moved) {
-    for (let at = text.indexOf(was); at >= 0; at = text.indexOf(was, at + 1)) {
-      if (boundedAt(text, at, was)) found.push({ at, was, now })
-    }
+    if (was.length <= held.length || !landed.startsWith(`${was}${UNDER}`)) continue
+    held = was
+    found = `${now}${landed.slice(was.length)}`
   }
-  return found.sort((one, other) => one.at - other.at || other.was.length - one.was.length)
+  return found
 }
 
-export function repointedText(text: string, moved: ReadonlyMap<string, string>): string {
-  let out = ""
-  let at = 0
-  for (const one of foundIn(text, moved)) {
-    if (one.at < at) continue
-    out = `${out}${text.slice(at, one.at)}${one.now}`
-    at = one.at + one.was.length
-  }
-  return `${out}${text.slice(at)}`
+export function reachedFrom(from: string, said: string): string | null {
+  const at = join(from, said)
+  const landed = at.endsWith(UNDER) ? at.slice(0, -1) : at
+  if (landed === HERE || landed === CLIMBS || landed.startsWith(`${CLIMBS}${UNDER}`)) return null
+  return landed
 }
 
-export function namedOutside(
-  root: string,
-  base: string,
+export function saidFrom(from: string, to: string): string {
+  const said = relative(from, to)
+  return said.startsWith(CLIMBS) ? said : `${HERE}${UNDER}${said}`
+}
+
+export function reachesIn(
+  path: string,
+  text: string,
   moved: ReadonlyMap<string, string>
-): Found {
-  const named = [...moved.keys()].flatMap((one) => ["-e", one])
-  const done = ran(
-    argvFor(root, ["grep", "-l", "-I", "-z", "-F", ...named, base, "--", `:(exclude)${INSIDE}`])
-  )
-  if (done.code === FOUND_NOTHING) return { paths: [] }
-  if (done.code !== 0) {
-    return {
-      refusal:
-        `git could not say which files outside \`${INSIDE}\` name what moved, so nothing was ` +
-        `judged — ${done.err.trim()}`,
-    }
+): readonly Placed[] {
+  const from = dirname(path)
+  const scan = /(?<![A-Za-z0-9._@/-])\.\.?\/[A-Za-z0-9._/-]*/g
+  const found: Placed[] = []
+  for (let one = scan.exec(text); one !== null; one = scan.exec(text)) {
+    const said = one[0]
+    const landed = reachedFrom(from, said)
+    if (landed === null) continue
+    const now = arrivalOf(landed, moved)
+    if (now === null) continue
+    found.push({ at: one.index, was: said, now: saidFrom(from, now) })
   }
-  const held = `${base}:`
-  const paths = done.out
-    .split("\0")
-    .flatMap((one) => (one.startsWith(held) ? [one.slice(held.length)] : []))
-  return { paths: [...new Set(paths)].sort() }
+  return found
+}
+
+export function repointedText(
+  path: string,
+  text: string,
+  moved: ReadonlyMap<string, string>
+): string {
+  return splicedOver(text, [...namesIn(text, moved), ...reachesIn(path, text, moved)])
 }
 
 export function outsideIn(
@@ -89,32 +86,41 @@ export function outsideIn(
   base: string,
   moved: ReadonlyMap<string, string>
 ): Outside | { readonly refusal: string } {
-  const found = namedOutside(root, base, moved)
+  const found = outsideRespelt(root, base, [...moved.keys()], (path, text) =>
+    repointedText(path, text, moved)
+  )
   if ("refusal" in found) return found
   const paths: string[] = []
+  const reaching: string[] = []
   const changes: FileEdit[] = []
   const carries: Carry[] = []
-  for (const path of found.paths) {
-    const held = bodyAt(root, base, path)
-    if (held === null) continue
-    const text = textOf(held)
-    if (text === null) continue
-    const next = repointedText(text, moved)
-    if (next === text) continue
-    paths.push(path)
-    carries.push({ was: path, now: path, from: blobIdOf(held) })
-    changes.push({ path, body: new TextEncoder().encode(next), carried: true })
+  for (const one of found.respelt) {
+    paths.push(one.path)
+    if (reachesIn(one.path, one.was, moved).length > 0) reaching.push(one.path)
+    carries.push({ was: one.path, now: one.path, from: blobIdOf(one.held) })
+    changes.push({ path: one.path, body: new TextEncoder().encode(one.text), carried: true })
   }
-  return { paths, changes, carries }
+  return { paths, reaching, changes, carries }
 }
 
-export function outsideSaid(paths: readonly string[], dry: boolean): readonly string[] {
+export function outsideSaid(
+  paths: readonly string[],
+  reaching: readonly string[],
+  dry: boolean
+): readonly string[] {
   if (paths.length === 0) {
     return [`no file outside \`${INSIDE}\` named what moved`, OUTSIDE_SPELLING]
   }
-  return [
+  const said = [
     `${counted(paths.length, "file")} outside \`${INSIDE}\` naming what moved ` +
       `${dry ? "would be" : "was"} repointed — ${paths.join(", ")}`,
-    OUTSIDE_SPELLING,
   ]
+  if (reaching.length > 0) {
+    said.push(
+      `${counted(reaching.length, "file")} of them ${dry ? "reaches" : "reached"} in by a ` +
+        `relative path rather than by the path itself — ${reaching.join(", ")}`
+    )
+  }
+  said.push(OUTSIDE_SPELLING)
+  return said
 }

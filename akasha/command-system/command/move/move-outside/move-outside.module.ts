@@ -12,67 +12,60 @@ export const moveOutside = {
     {
       invariantKind: "departure",
       statement:
-        "Which files outside `akasha/` spell a path that moved is answered by git rather than by the index.",
+        "Which files outside `akasha/` name a path that moved is answered by `outside-naming`.",
     },
     {
       invariantKind: "departure",
-      statement: "Git is asked once for every path that moved rather than once for each one.",
+      statement: "The names looked for are the paths that moved.",
     },
     {
       invariantKind: "departure",
-      statement: "The bodies searched are the bodies the commit the move was read against holds.",
+      statement: "A path is repointed where a body spells that path whole.",
     },
     {
       invariantKind: "departure",
-      statement: "A path under the akasha folder is left out of the search.",
+      statement: "A relative path resolving to a path that moved is repointed.",
     },
     {
       invariantKind: "departure",
-      statement: "A body git reads as binary is left out of the search.",
+      statement: "A relative path is resolved against the folder of the file carrying that path.",
     },
     {
       invariantKind: "departure",
-      statement: "A search git could not run refuses the whole move.",
+      statement: "A resolved path is weighed against what moved as a path rather than as text.",
     },
     {
       invariantKind: "departure",
-      statement: "A path is rewritten where the character after that path ends a path segment.",
+      statement: "A resolved path under a folder that moved arrives under what that folder became.",
     },
     {
       invariantKind: "departure",
-      statement: "A path is rewritten where nothing follows that path.",
+      statement: "The longest path that moved and covers a resolved path is the one it follows.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What is written back is a relative path from the folder of the file carrying that path.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A relative path resolving to no path that moved is left alone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A relative path climbing out of the repository is left alone.",
     },
     {
       invariantKind: "absence",
       statement: "A name carrying more of a segment than the path that moved is left alone.",
     },
     {
-      invariantKind: "absence",
-      statement: "A name another path character leads is left alone.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A name a package name leads is left alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The longest path matching at one place is the path written back.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body is rewritten once with every name replaced where that name matched.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body whose bytes are not utf-8 is left as that body was.",
-    },
-    {
       invariantKind: "departure",
       statement: "A body no rewriting changed is left out of the change.",
     },
     {
-      invariantKind: "absence",
-      statement: "No specifier is read here.",
+      invariantKind: "departure",
+      statement: "The files that reached in by a relative path are named apart from the rest.",
     },
     {
       invariantKind: "absence",

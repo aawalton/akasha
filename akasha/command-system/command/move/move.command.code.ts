@@ -110,6 +110,7 @@ type Reached = {
   readonly repointed: readonly string[]
   readonly unread: string | null
   readonly outside: readonly string[]
+  readonly reaching: readonly string[]
 }
 
 function sidedIn(
@@ -238,7 +239,7 @@ function carrying(
     )
   }
   if (reached.unread !== null) report.push(reached.unread)
-  report.push(...outsideSaid(reached.outside, dry))
+  report.push(...outsideSaid(reached.outside, reached.reaching, dry))
   return report
 }
 
@@ -373,6 +374,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     repointed: repointing,
     unread: "unread" in reading ? reading.unread : null,
     outside: outside.paths,
+    reaching: outside.reaching,
   }
   const message =
     said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`

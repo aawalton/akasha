@@ -26,6 +26,7 @@ export const commandSystem = {
     "module/value-minting",
     "module/package-linking",
     "module/folder-clearing",
+    "module/outside-naming",
   ],
   invariants: [
     {

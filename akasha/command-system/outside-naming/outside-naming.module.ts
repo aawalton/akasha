@@ -1,0 +1,105 @@
+import type { Module } from "@akasha/code-system/module"
+
+export const outsideNaming = {
+  id: "01a05f2c-6eb9-79ac-8d42-8c7a796c1ece",
+  pageTypeSlug: "module",
+  slug: "outside-naming",
+  definition: "a tracked file outside the akasha folder found by what it names and respelled",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "Which files outside `akasha/` carry a name is answered by git rather than by the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Git is asked once for every name rather than once for each one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The bodies searched are the bodies the commit handed in holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path under the akasha folder is left out of the search.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body git reads as binary is left out of the search.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A search git could not run is answered as a refusal for the caller to carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming nothing is answered with no file rather than by asking git.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How a body is respelled is handed in rather than worked out here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body whose bytes are not utf-8 is left as that body was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the respelling did not change is left out of the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that changed is answered with its bytes and with the text it came from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is rewritten where the character after that name ends a path segment.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is rewritten where nothing follows that name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name carrying more of a segment than the name looked for is left alone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name another path character leads is left alone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name a package name leads is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The longest name matching at one place is the name written back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is rewritten once with every place replaced where a place matched.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A place another place already covered is passed over.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No specifier is read here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here commits.",
+    },
+  ],
+} as const satisfies Module

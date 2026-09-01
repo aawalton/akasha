@@ -301,6 +301,29 @@ export function outsideMoved(): { readonly root: string; readonly said: Answer }
   return { root, said: move(FOLDER_PAIR, givenIn(root)) }
 }
 
+export const REACHER = "tools/lib/reach.ts"
+
+export const REACHES = `import { held } from "../../akasha/one/held.module.ts"
+import { other } from "../../akasha/one-other/held.module.ts"
+
+export const said = { held, other }
+`
+
+export const REACHED = `import { held } from "../../akasha/far/one/held.module.ts"
+import { other } from "../../akasha/one-other/held.module.ts"
+
+export const said = { held, other }
+`
+
+export function reachWorld(): string {
+  return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [TARGET]: OTHER, [REACHER]: REACHES }))
+}
+
+export function reachMoved(): { readonly root: string; readonly said: Answer } {
+  const root = reachWorld()
+  return { root, said: move(FOLDER_PAIR, givenIn(root)) }
+}
+
 export function folderWorld(): string {
   return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [NESTED_HELD]: OTHER, [TARGET]: OTHER }))
 }
