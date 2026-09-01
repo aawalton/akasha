@@ -3,7 +3,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   importsStanding,
-  standingTakenFrom,
+  listedTakenFrom,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { ADMITS_CODE, REFUSES_CODE } from "../../testing-system/minting/minting.module.code.ts"
 import { put } from "../../testing-system/putting/putting.module.code.ts"
@@ -185,7 +185,7 @@ test("a landing names what judged it, and says so when nothing did", () => {
 
 test("a landing whose phase runs no check says the paths landed unjudged", () => {
   const root = repoWith()
-  standingTakenFrom(root, "code-check", "admits")
+  listedTakenFrom(root, "code-check", "admits")
   checking(root, "later", ADMITS_CODE, "deploy")
   const from = bodyIn(root)
   const said = write(

@@ -11,11 +11,11 @@ import {
   importUnreadableFiled,
   indexTakenFrom,
   listedFiledIn,
+  listedTakenFrom,
   listedUnreadableFiled,
   rebuiltApart,
   rebuiltIn,
   stampStandingIn,
-  standingTakenFrom,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { id as idPage } from "../../../pages-system/page/properties/id.text-property.ts"
 import { slug as slugPage } from "../../../pages-system/page/properties/slug.text-property.ts"
@@ -209,7 +209,7 @@ test("a damaged index is put back to what a clean rebuild builds", () => {
   const root = repoAt()
   seeded(root)
   const wanted = wantedFor(root)
-  standingTakenFrom(root, "domain", "a")
+  listedTakenFrom(root, "domain", "a")
   listedUnreadableFiled(root, "domain", "gone")
   importUnreadableFiled(root, `${AKASHA}/a.domain.ts`)
   const answer = index(["refresh"], givenAt(root))
@@ -257,7 +257,7 @@ test("`--unlanded` builds over the worktree, and the stamp names what stands apa
 test("`--dry-run` puts nothing in place and leaves nothing aside", () => {
   const root = repoAt()
   seeded(root)
-  standingTakenFrom(root, "domain", "a")
+  listedTakenFrom(root, "domain", "a")
   const was = everythingFiled(root)
   const answer = index(["refresh", "--dry-run"], givenAt(root))
   expect(answer.code).toBe(OK)

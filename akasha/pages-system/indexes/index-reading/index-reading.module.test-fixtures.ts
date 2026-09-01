@@ -273,7 +273,7 @@ export function idCopied(from: string, into: string, id: string): undefined {
   cpSync(under(from, at), under(into, at))
 }
 
-export function standingTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
+export function listedTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
   taking(root, join(indexIdentity.name, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
 
