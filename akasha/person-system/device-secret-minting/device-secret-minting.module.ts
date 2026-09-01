@@ -9,8 +9,21 @@ export const deviceSecretMinting = {
   test: "ts",
   invariants: [
     {
+      invariantKind: "constraint",
+      statement:
+        "A keychain item outside the shared access group is unreadable by the widget extension.",
+    },
+    {
       invariantKind: "departure",
-      statement: "A device holding a secret mints none.",
+      statement: "A device holding its secret in the pinned domain mints none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A device holding its secret only in the default domain mints one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A device that did not say which domain holds its secret mints one.",
     },
     {
       invariantKind: "departure",
