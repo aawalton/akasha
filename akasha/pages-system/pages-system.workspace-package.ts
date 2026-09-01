@@ -29,6 +29,7 @@ export const pagesSystem = {
     "workspace-package/pages-query",
     "workspace-package/pages-system-service",
     "workspace-package/pages-core",
+    "workspace-package/pages-access",
     "workspace-package/pages-ui-store",
     "domain/naming",
     "module/change",

@@ -1,0 +1,41 @@
+{
+  "name": "@akasha/pages-access",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./answer": "./answer/answer.module.code.ts",
+    "./answer-write": "./answer-write/answer-write.module.code.ts",
+    "./capture-error": "./capture-error/capture-error.module.code.ts",
+    "./create": "./create/create.module.code.ts",
+    "./delete": "./deleting/deleting.module.code.ts",
+    "./file-detail-config": "./file-detail-config/file-detail-config.module.code.ts",
+    "./file-name": "./file-name/file-name.module.code.ts",
+    "./file-read": "./file-read/file-read.module.code.ts",
+    "./file-rows": "./file-rows/file-rows.module.code.ts",
+    "./get": "./get/get.module.code.ts",
+    "./get-by-relation": "./get-by-relation/get-by-relation.module.code.ts",
+    "./get-for-view": "./get-for-view/get-for-view.module.code.ts",
+    "./iterate": "./iterate/iterate.module.code.ts",
+    "./ordered": "./ordered/ordered.module.code.ts",
+    "./page-row": "./raw-page-row/raw-page-row.module.code.ts",
+    "./page-type": "./page-type/page-type.module.code.ts",
+    "./page-type-config": "./page-type-config/page-type-config.module.code.ts",
+    "./patch": "./patch/patch.module.code.ts",
+    "./property-definition": "./property-definition/property-definition.module.code.ts",
+    "./routing-core": "./routing-core/routing-core.module.code.ts",
+    "./sentinels": "./sentinels/sentinels.module.code.ts",
+    "./types": "./types/types.module.code.ts",
+    "./upsert": "./upsert/upsert.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-core": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@shared/file-page-identity": "workspace:*",
+    "@shared/named-for": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "@shared/pages-url": "workspace:*",
+    "@shared/supabase-database": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
