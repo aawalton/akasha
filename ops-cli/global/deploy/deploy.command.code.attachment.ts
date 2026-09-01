@@ -24,7 +24,6 @@ import {
   resolveBuildEnv,
   standingIn,
 } from "../../../deploy-system/build/build.ts"
-import { publishLiveVersion } from "../../../deploy-system/live-version/live-version.ts"
 import { DeployRefused } from "../../../deploy-system/refusal/refusal.ts"
 import {
   keyOf,
@@ -278,7 +277,6 @@ async function buildIfItBuilds(root: string, plan: Plan): Promise<void> {
   }
   if (built.skipped) {
     process.stdout.write(`${built.pod} is already serving a build made from ${sha}\n`)
-    await publish(root, plan, sha)
     return
   }
   process.stdout.write(`building ${target.packagePath} at ${sha} in ${built.pod}\n`)
@@ -289,25 +287,6 @@ async function buildIfItBuilds(root: string, plan: Plan): Promise<void> {
       process.stderr.write(`error: kubectl ${ran.argv.join(" ")} exited ${ran.code}\n`)
       process.exit(3)
     }
-  }
-  await publish(root, plan, sha)
-}
-
-async function publish(root: string, plan: Plan, sha: string): Promise<void> {
-  const published = await publishLiveVersion(root, plan.service.slug, sha)
-  if (published.length === 0) {
-    process.stdout.write(
-      `no web app page names ${plan.service.slug}, so nothing was told it is live at ${sha}\n`
-    )
-    return
-  }
-  for (const one of published) {
-    if (one.ok) {
-      process.stdout.write(`${one.webApp} is live at ${sha}\n`)
-      continue
-    }
-    process.stderr.write(`error: ${one.webApp} was not told it is live at ${sha}: ${one.why}\n`)
-    process.exit(3)
   }
 }
 

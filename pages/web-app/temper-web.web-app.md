@@ -5,8 +5,6 @@ title: "Temper web"
 slug: temper-web
 repo: akasha
 domain-parent-slug: domain/temper
-cluster-service-slugs:
-  - temper-web
 required-reading-slugs:
   - domain/browser
 sequence-slugs:

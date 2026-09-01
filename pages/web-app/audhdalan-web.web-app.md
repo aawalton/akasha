@@ -5,8 +5,6 @@ title: "AuDHD Alan web"
 slug: audhdalan-web
 repo: akasha
 domain-parent-slug: domain/audhdalan
-cluster-service-slugs:
-  - audhdalan-web
 required-reading-slugs:
   - domain/browser
 ---

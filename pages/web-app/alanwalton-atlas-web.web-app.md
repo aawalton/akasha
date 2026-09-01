@@ -5,8 +5,6 @@ title: "Alanwalton atlas web"
 slug: alanwalton-atlas-web
 repo: akasha
 domain-parent-slug: domain/atlas-app
-cluster-service-slugs:
-  - alanwalton-atlas
 required-reading-slugs:
   - domain/browser
 ---
