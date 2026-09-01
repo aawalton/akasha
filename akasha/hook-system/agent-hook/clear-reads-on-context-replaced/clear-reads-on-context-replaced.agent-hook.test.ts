@@ -28,7 +28,7 @@ const HERE = rootOf(import.meta.path)
 
 const REPLACING: readonly string[] = ["startup", "clear", "compact"]
 
-const STANDING: readonly string[] = ["resume", "", "other", "Startup", "compaction", "session"]
+const KEEPING: readonly string[] = ["resume", "", "other", "Startup", "compaction", "session"]
 
 const scratch = scratchWorld()
 
@@ -86,7 +86,7 @@ test("a startup, a clearing and a compaction each replace the context", () => {
 })
 
 test("a resumed session, and a source this does not name, replace nothing", () => {
-  for (const one of STANDING) expect(replacing(one)).toBe(false)
+  for (const one of KEEPING) expect(replacing(one)).toBe(false)
 })
 
 test("a context replaced takes the record with it", () => {
@@ -104,7 +104,7 @@ test("a resumed session keeps its readings", () => {
 })
 
 test("a source this does not recognise leaves the record standing", () => {
-  for (const one of STANDING) {
+  for (const one of KEEPING) {
     const root = rooted()
     expect(cleared(root, ONE, one)).toBe(false)
     expect(existsSync(readingAt(root, ONE))).toBe(true)
