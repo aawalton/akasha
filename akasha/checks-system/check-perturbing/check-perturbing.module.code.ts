@@ -120,8 +120,10 @@ function manifested(path: string): boolean {
   return basename(path) === MANIFEST
 }
 
+const CODE_TAIL = ".module.code.ts"
+
 const KINDS: readonly Kind[] = [
-  { named: "a module's code body", taken: tailed(".module.code.ts"), made: appending },
+  { named: "a module's code body", taken: tailed(CODE_TAIL), made: appending },
   { named: "a page", taken: tailed(".module.ts"), made: appending },
   { named: "a package manifest", taken: manifested, made: keying },
   {

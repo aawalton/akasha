@@ -44,6 +44,14 @@ export const checkPerturbing = {
       statement: "A kind reaching no path in the tree yields no scenario.",
     },
     {
+      invariantKind: "departure",
+      statement: "A scenario may carry more than one path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One scenario carries a manifest together with a body the package it names holds.",
+    },
+    {
       invariantKind: "absence",
       statement: "No scenario here is judged.",
     },
