@@ -4,7 +4,7 @@ set -euo pipefail
 
 # THIS IS A BRIDGE FOR SESSIONS ALREADY RUNNING, and it goes when they have all cycled.
 #
-# The statusline moved to `akasha/code-system/shell-script/shell-scripts/` and `settings/agents.json`
+# The statusline moved to `akasha/code-system/shell-script/pages/` and `settings/agents.json`
 # moved with it. But a session's settings are a frozen snapshot under `/tmp`, written once when the
 # session launches and named for a digest of its contents. A session launched before the move holds
 # a snapshot naming this path forever, and Claude Code reads the command out of it at startup. So
