@@ -80,10 +80,45 @@ test("a key written out names nothing the checker could weld a name to", () => {
       "}\n",
   })
   const found = keyingsIn(typing, at, "keyed")
+  const declared = declarationsNamed(typing, at, "keyed")
 
   expect(found).toHaveLength(2)
   expect(found[1]?.declares).toBe(false)
   expect(found[1]?.names).toEqual([])
+  expect(found[1]?.keys).toContain(declared[0])
+})
+
+test("a key one part of a union alone declares is resolved through that part", () => {
+  const at = "akasha/parted.module.code.ts"
+  const { root, typing } = typed({
+    [at]:
+      "export type Held = { readonly keyed: readonly string[] } | { readonly refused: string }\n" +
+      "export function heldOf(said: readonly string[]): Held {\n" +
+      "  return { keyed: said }\n" +
+      "}\n",
+  })
+  const naming = namingOf(typing, root, new Set(declarationsNamed(typing, at, "keyed")))
+
+  expect(naming).toHaveLength(2)
+})
+
+test("a key more than one part of a union declares apart is resolved through none of them", () => {
+  const at = "akasha/split.module.code.ts"
+  const { root, typing } = typed({
+    [at]:
+      "type One = { readonly keyed: readonly string[] }\n" +
+      "type Two = { readonly keyed: number }\n" +
+      "type Three = { readonly other: string }\n" +
+      "export type Held = One | Two | Three\n" +
+      "export function heldOf(said: readonly string[]): Held {\n" +
+      "  return { keyed: said }\n" +
+      "}\n",
+  })
+  const declared = declarationsNamed(typing, at, "keyed")
+  const naming = namingOf(typing, root, new Set(declared.slice(0, 1)))
+
+  expect(declared).toHaveLength(2)
+  expect(naming).toHaveLength(1)
 })
 
 test("a path inside the akasha folder compiles and one outside it does not", () => {

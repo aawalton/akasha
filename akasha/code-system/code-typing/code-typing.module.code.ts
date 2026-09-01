@@ -130,18 +130,31 @@ function shorthandIn(node: ts.Node): boolean {
   return ts.isBindingElement(node) && node.propertyName === undefined
 }
 
+function propertyIn(type: ts.Type, key: string): ts.Symbol | undefined {
+  const own = type.getProperty(key)
+  if (own !== undefined) return own
+  if (!type.isUnion()) return undefined
+  const found = new Set<ts.Symbol>()
+  for (const one of type.types) {
+    const held = one.getProperty(key)
+    if (held !== undefined) found.add(held)
+  }
+  return found.size === 1 ? [...found][0] : undefined
+}
+
 function contextualIn(typing: Typing, node: ts.Node, name: ts.Node): ts.Symbol | undefined {
   const key = keyOf(name)
   if (key === null) return undefined
   if (ts.isPropertyAssignment(node) || ts.isShorthandPropertyAssignment(node)) {
     const held = node.parent
     if (!ts.isObjectLiteralExpression(held)) return undefined
-    return typing.checker.getContextualType(held)?.getProperty(key)
+    const type = typing.checker.getContextualType(held)
+    return type === undefined ? undefined : propertyIn(type, key)
   }
   if (!ts.isBindingElement(node)) return undefined
   const pattern = node.parent
   if (!ts.isObjectBindingPattern(pattern)) return undefined
-  return typing.checker.getTypeAtLocation(pattern).getProperty(key)
+  return propertyIn(typing.checker.getTypeAtLocation(pattern), key)
 }
 
 function declaring(symbol: ts.Symbol | undefined, declared: ReadonlySet<ts.Node>): boolean {
@@ -166,12 +179,21 @@ export function declarationsNamed(typing: Typing, path: string, key: string): re
 export type Keying = {
   readonly node: ts.Node
   readonly declares: boolean
+  readonly shorthand: boolean
   readonly names: readonly ts.Node[]
+  readonly keys: readonly ts.Node[]
 }
 
 function namesOf(typing: Typing, node: ts.Node): readonly ts.Node[] {
   if (!ts.isShorthandPropertyAssignment(node)) return []
   return typing.checker.getShorthandAssignmentValueSymbol(node)?.declarations ?? []
+}
+
+function keysOf(typing: Typing, node: ts.Node, name: ts.Node): readonly ts.Node[] {
+  const found = new Set<ts.Node>()
+  for (const one of typing.checker.getSymbolAtLocation(name)?.declarations ?? []) found.add(one)
+  for (const one of contextualIn(typing, node, name)?.declarations ?? []) found.add(one)
+  return [...found]
 }
 
 export function keyingsIn(typing: Typing, path: string, key: string): readonly Keying[] {
@@ -181,7 +203,13 @@ export function keyingsIn(typing: Typing, path: string, key: string): readonly K
   const walk = (node: ts.Node): undefined => {
     const name = namedIn(node)
     if (name !== null && keyOf(name) === key) {
-      found.push({ node, declares: ts.isPropertySignature(node), names: namesOf(typing, node) })
+      found.push({
+        node,
+        declares: ts.isPropertySignature(node),
+        shorthand: shorthandIn(node),
+        names: namesOf(typing, node),
+        keys: keysOf(typing, node, name),
+      })
     }
     ts.forEachChild(node, walk)
   }

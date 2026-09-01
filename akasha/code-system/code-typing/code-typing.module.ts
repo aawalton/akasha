@@ -47,6 +47,19 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "A key one part of a union alone declares is resolved through that part.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key more than one part of a union declares apart is resolved through none of them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where a key one file spells resolves is answered beside what a shorthand names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shorthand names the key and the value at once.",
     },
     {
