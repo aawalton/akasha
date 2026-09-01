@@ -62,7 +62,8 @@ export const amyJennyUnreviewedWidget = {
     "The route cannot move before the credential and the readers it uses and the reading itself.",
     "An akasha deploy names one thing, reads what it is made of from its page, refuses what is ambiguous, and does nothing already done.",
     "Deploys are broken today, so an intent naming a site or an app being put up is about that rather than about anything being written.",
-    "Nothing waits on Alan: a question for him is written down with the call taken in his absence, and the work carries on.",
+    "Nothing waits on Alan: a question for him becomes a finding with the call taken in his absence, and the work carries on.",
+    "No act on this initiative is out of reach, deploys to the cluster included; only permanently deleting the repository is refused.",
     "Work runs in parallel through subagents wherever it can, twenty at once at the most.",
   ],
 } as const satisfies Initiative
