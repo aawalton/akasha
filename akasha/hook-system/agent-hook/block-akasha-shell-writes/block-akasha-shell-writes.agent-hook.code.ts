@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
+import { rootOf } from "@akasha/command-system/rooting"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import {
   basenameOf,

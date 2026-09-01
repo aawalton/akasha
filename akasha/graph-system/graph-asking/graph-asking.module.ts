@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const graphAsking = {
   id: "01a04ff4-320c-7689-9d79-b3b0caa05ab1",

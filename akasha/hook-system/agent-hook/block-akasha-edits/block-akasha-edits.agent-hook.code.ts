@@ -1,6 +1,6 @@
 import { basename, join, resolve } from "node:path"
-import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
-import { dataAt, dataIn } from "../../../file-system/data-place/data-place.module.code.ts"
+import { rootOf } from "@akasha/command-system/rooting"
+import { dataAt, dataIn } from "@akasha/file-system/data-place"
 import { shownIn } from "../../path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 

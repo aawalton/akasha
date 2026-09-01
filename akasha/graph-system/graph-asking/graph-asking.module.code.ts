@@ -8,15 +8,10 @@ import {
   namersOf,
   readingIn,
   typeSlugById,
-} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
-import { addressIn } from "../../pages-system/page/page-address/page-address.module.code.ts"
-import {
-  slugOf,
-  textAt,
-  type Value,
-  valueAt,
-} from "../../pages-system/page/page-value/page-value.module.code.ts"
+} from "@akasha/indexes"
+import type { Reading } from "@akasha/indexes/shape"
+import { addressIn } from "@akasha/pages-system/page-address"
+import { slugOf, textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 import type { Known } from "../graph-attribute/graph-attributes/known.graph-attribute.ts"
 
 const GRAPH_EDGE = "graph-edge"

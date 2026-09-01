@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
 export const graphSystem = {
   id: "01a04fcf-588c-7772-afed-357ed2e459d4",

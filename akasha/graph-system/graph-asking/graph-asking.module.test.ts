@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
-import { readingLaidOver } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { rootOf } from "@akasha/command-system/rooting"
+import { readingLaidOver } from "@akasha/indexes/testing"
 import { edgesInto, reachingInto } from "./graph-asking.module.code.ts"
 import {
   APART_AT,

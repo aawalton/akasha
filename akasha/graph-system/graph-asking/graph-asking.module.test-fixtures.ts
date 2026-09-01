@@ -1,10 +1,7 @@
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import {
-  linesFiled,
-  stampedIn,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
-import { put } from "../../testing-system/putting/putting.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { linesFiled, stampedIn } from "@akasha/indexes/testing"
+import { gitIn } from "@akasha/testing-system/gitting"
+import { put } from "@akasha/testing-system/putting"
 
 const GRAPH_EDGE = "graph-edge"
 

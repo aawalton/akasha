@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import { alive, holderOf, markIn, startedAt } from "./lock-holder.module.code.ts"
 
 const UNKNOWN = "-"

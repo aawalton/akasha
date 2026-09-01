@@ -1,5 +1,5 @@
-import type { Slug } from "../../../pages-system/page/properties/slug.text-property.ts"
-import type { RelationProperty } from "../../../pages-system/relation-property/relation-property.page-type.ts"
+import type { Slug } from "@akasha/pages-system/page/slug"
+import type { RelationProperty } from "@akasha/pages-system/relation-property"
 
 export type IndexSlug = Slug
 

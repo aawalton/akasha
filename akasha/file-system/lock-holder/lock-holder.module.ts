@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const lockHolder = {
   id: "01a05231-61c5-7336-8fa7-302f778209a9",
