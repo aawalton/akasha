@@ -90,10 +90,10 @@ test("a leaf holding one path twice is answered with one edge rather than two", 
 })
 
 test("an index the answer needs, gone, is answered with nothing rather than refused", () => {
-  const stands = relationWorld(1)
+  const withEdge = relationWorld(1)
   const gone = relationWorld(0)
 
-  expect(edgesInto(stands, TARGET_AT, [RELATION])).toEqual([
+  expect(edgesInto(withEdge, TARGET_AT, [RELATION])).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
   expect(edgesInto(gone, TARGET_AT, [RELATION])).toEqual([])
