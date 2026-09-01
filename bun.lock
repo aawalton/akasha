@@ -5,6 +5,7 @@
     "": {
       "name": "akasha",
       "dependencies": {
+        "@akasha/health-samples-import": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@alanwalton/elaine-cli": "workspace:*",
         "@alanwalton/imessage": "workspace:*",
@@ -276,6 +277,15 @@
         "@akasha/health-samples-access": "workspace:*",
         "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
+      },
+    },
+    "akasha/health-samples-import": {
+      "name": "@akasha/health-samples-import",
+      "dependencies": {
+        "@akasha/health-samples-access": "workspace:*",
+        "@shared/errors-core": "workspace:*",
+        "@shared/utils-fs": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "akasha/hook-system": {
@@ -4004,6 +4014,8 @@
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:akasha/health-samples-access"],
 
     "@akasha/health-samples-day": ["@akasha/health-samples-day@workspace:akasha/health-samples-day"],
+
+    "@akasha/health-samples-import": ["@akasha/health-samples-import@workspace:akasha/health-samples-import"],
 
     "@akasha/hook-system": ["@akasha/hook-system@workspace:akasha/hook-system"],
 

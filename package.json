@@ -26,6 +26,7 @@
     "akasha/google-oauth",
     "akasha/graph-system",
     "akasha/health-samples-access",
+    "akasha/health-samples-import",
     "akasha/hook-system",
     "akasha/idle-system",
     "akasha/pages-system",
@@ -296,6 +297,7 @@
     "temper/web"
   ],
   "dependencies": {
+    "@akasha/health-samples-import": "workspace:*",
     "@alanwalton/elaine-cli": "workspace:*",
     "@alanwalton/imessage": "workspace:*",
     "@alanwalton/mobile-cli": "workspace:*",
