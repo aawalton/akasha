@@ -4,7 +4,7 @@ export const noVoidReturn = {
   id: "01a0502e-a144-778b-8b3c-5e4f4be4713d",
   pageTypeSlug: "syntax-rule",
   slug: "no-void-return",
-  definition: "the rule refusing a return type written as `void`",
+  definition: "the rule refusing `void` where a function written here states its return type",
   code: "ts",
   test: "ts",
   invariants: [
@@ -26,12 +26,34 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "Every return position is judged alike.",
+      statement: "Only a function whose body is written here is judged.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A declaration and an arrow and a method and a function type and a method signature and a call signature and a constructor type are return positions.",
+        "A declaration and a function expression and an arrow and a method and a getter carry a body written here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An overload signature is judged with the body it heads.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A function type and a method signature and a call signature and a constructor type describe a function written elsewhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type describing a function written elsewhere stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A callback a caller fills is such a type.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A function answering `undefined` fits a slot spelled `void` and a function answering `void` fits no slot spelled `undefined`.",
     },
     {
       invariantKind: "departure",
@@ -60,6 +82,10 @@ export const noVoidReturn = {
     {
       invariantKind: "gap",
       statement: "A parameter typed `void` is not seen.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A body filling a slot spelled `void` and dropping a promise is not seen.",
     },
   ],
 } as const satisfies SyntaxRule
