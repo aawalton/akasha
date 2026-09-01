@@ -35,11 +35,6 @@ export const amyJennyUnreviewedWidget = {
       workingMemory:
         "The pod now runs 283599af2e and the relay route 401s for want of `READING_RELAY_SECRET` rather than 405, so the one thing left is the reading: `MONARCH_COOKIE` is dead, Monarch 401s, and only Alan at a browser can mint another. The tile is whole and both its defects are fixed: a cached reading carries the moment it was written and is let go at 45 minutes, and the yellow rung moved off zero so a cleared backlog draws grey rather than caution. No Swift was compiled: no toolchain stands here.",
     },
-    {
-      statement: "The relay that carries Alan's reading to Jenny's site is in akasha.",
-      workingMemory:
-        "Met in the repository, unproved live. The relay was already in akasha; what carried to Jenny was a pull in `shared/`, so it goes rather than moves. `monarch-relay-service` carries to both origins on two dash-led runs lines: proved by running, both carries attempt and neither stops the other. Her site holds and serves it as Alan's does, proved over real HTTP, 9 tests. Two findings. Left: both pods run 1124e0a with no relay route, and her sops wants READING_RELAY_SECRET.",
-    },
     { statement: "Jenny's categorization route is in akasha." },
     { statement: "The page describing Jenny's tile is in akasha." },
     { statement: "Jenny's site deploys from akasha." },
