@@ -46,6 +46,7 @@ export const alanHarness = {
     "workspace-package/errors-core",
     "workspace-package/supabase-client",
     "workspace-package/errors-client",
+    "workspace-package/supabase-rr",
   ],
   invariants: [
     {

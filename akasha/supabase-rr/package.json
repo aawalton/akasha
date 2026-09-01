@@ -1,0 +1,29 @@
+{
+  "name": "@akasha/supabase-rr",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./auth-client": "./auth-client/auth-client.module.code.ts",
+    "./auth-guard": "./auth-guard/auth-guard.module.code.ts",
+    "./auth-server": "./auth-server/auth-server.module.code.ts",
+    "./browser-client": "./browser-client/browser-client.module.code.ts",
+    "./client-env-define": "./client-env-define/client-env-define.module.code.ts",
+    "./request-session-cache": "./request-session-cache/request-session-cache.module.code.ts",
+    "./server-client": "./server-client/server-client.module.code.ts",
+    "./session-refresh": "./session-refresh/session-refresh.module.code.ts",
+    "./supabase-provider": "./supabase-provider/supabase-provider.module.code.tsx"
+  },
+  "dependencies": {
+    "@akasha/pages-url": "workspace:*",
+    "@akasha/supabase-auth": "workspace:*",
+    "@akasha/supabase-database": "workspace:*",
+    "@supabase/ssr": "^0.10.2",
+    "@supabase/supabase-js": "^2.104.0",
+    "cookie": "^1.0.2",
+    "zod": "^4.3.6"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19",
+    "react-router": ">=7"
+  }
+}
