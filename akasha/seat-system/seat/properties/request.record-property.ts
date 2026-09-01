@@ -23,11 +23,11 @@ export const request = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat holds one request or none.",
+      statement: "A seat holds one request or no request.",
     },
     {
       invariantKind: "departure",
-      statement: "A new one takes the place of what stood.",
+      statement: "A new request takes the place of what stood.",
     },
   ],
 } as const satisfies RecordProperty

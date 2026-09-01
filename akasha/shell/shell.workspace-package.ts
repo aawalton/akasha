@@ -10,7 +10,7 @@ export const shell = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "The native shell an iOS app is built into is not this.",
+      statement: "The native shell an iOS app is built into is not this package.",
     },
     {
       invariantKind: "departure",

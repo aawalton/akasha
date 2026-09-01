@@ -15,7 +15,7 @@ export const onCall = {
     },
     {
       invariantKind: "departure",
-      statement: "A page cleared of this is refused.",
+      statement: "A page cleared of this property is refused.",
     },
   ],
 } as const satisfies BooleanProperty
