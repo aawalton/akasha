@@ -27,9 +27,8 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "An akasha command puts up the web app a page describes.",
       workingMemory:
-        "Landed as `akasha deploy <web-app>` in command-system/command/deploy, over module/web-app-reading and module/workload-deploying. It reads the web app page, the cluster service page that names, and the code beside that page. It refuses two names, a slug no page carries, and a page naming two services. `kubectl diff` says whether each manifest already stands, so a second call applies nothing. It makes no build; none can be made. See no-web-app-in-the-repository-can-be-built.",
+        "Landed as `akasha deploy <web-app>` in command-system/command/deploy, over web-app-reading, workload-deploying and web-app-building. It reads the web app page, the cluster service page it names, and the code beside that page; it refuses two names, a slug no page carries, and a page naming two services. `kubectl diff` says whether each manifest stands. It builds now as well, so no-web-app-in-the-repository-can-be-built no longer holds.",
     },
-    { statement: "Alan's site deploys from akasha." },
     {
       statement: "The reading is taken by a process running on a workstation rather than by a pod.",
       workingMemory:
