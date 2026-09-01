@@ -9,12 +9,6 @@ export const amyJennyUnreviewedWidget = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement:
-        "A file writing a page through the page store lands the write rather than refusing.",
-      workingMemory:
-        "Met, proved by running. `@shared/pages-query` presents the four akasha entry points and routes on `reaches(roots, pageType)`: a page type standing as files here is answered here, one standing in akasha goes to the store. 82 callers repointed. a08342663a and 44a48c1aeb are this seat's, not Alan's or another agent's. A renderer in the store was not what was wanted; one already stands at tools/lib/page-write.ts. Suite 3218 pass 0 fail, alanwalton/web builds.",
-    },
-    {
       statement: "`pages-core` stands in akasha.",
       workingMemory:
         "Surveyed, not moved. Inbound was scored 0 from relative edges alone; the true figure is 239 files reaching `@shared/pages-core` by name, over 16 manifests and 61 subpaths, all rewritten in one landing because the name cannot survive the move. Cost ~530 files: 138 module pages, 138 code files, 448 internal specifiers of which 380 are extensionless, 239 external files. No barrels; 2 of 106 sources hold a comment. Three findings filed. No safe partial: a module page needs its code beside it.",
