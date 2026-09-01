@@ -1,5 +1,5 @@
 import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { landProgrammatically } from "./akasha-landing.ts"
+import { landMechanically } from "./akasha-landing.ts"
 import { akashaAccountPath, akashaAccountsDir, akashaRoot } from "./claude-account-akasha.ts"
 import type { Outcome } from "./gated-write.ts"
 import { ACCOUNT_SHAPE } from "./oauth-page-push.ts"
@@ -100,7 +100,7 @@ export function createAccountPage(args: AccountPageCreate): PageCreate {
     const text = accountPageText({ account, email: args.email, aliasIndex: args.aliasIndex, id })
 
     const root = akashaRoot()
-    const landed: Outcome = landProgrammatically(
+    const landed: Outcome = landMechanically(
       root,
       WRITER,
       relPath,

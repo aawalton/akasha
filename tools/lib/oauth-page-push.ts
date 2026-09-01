@@ -3,7 +3,7 @@ import { chmodSync } from "node:fs"
 import { join } from "node:path"
 
 import { uncommittedAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { landProgrammatically } from "./akasha-landing.ts"
+import { landMechanically } from "./akasha-landing.ts"
 import type { Outcome } from "./gated-write.ts"
 import {
   akashaAccountBeside,
@@ -116,7 +116,7 @@ function dropHeld(account: string): void {
 // What lands here is the sops ciphertext, never a plaintext secret, and it never reaches the disk
 // outside the landing itself.
 function landBody(root: string, relPath: string, body: string, message: string): Outcome {
-  return landProgrammatically(root, WRITER, relPath, body, message)
+  return landMechanically(root, WRITER, relPath, body, message)
 }
 
 function unfit(key: string, value: string): string | null {
