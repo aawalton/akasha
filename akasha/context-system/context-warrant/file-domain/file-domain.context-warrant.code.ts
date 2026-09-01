@@ -13,9 +13,9 @@ export function fileDomain(root: string, path: string): readonly Warrant[] {
   for (const id of idsNaming(root, held.id, PARTS)) {
     const said = listedById(root, id)
     if (said === null || said.path === path) continue
-    const standing = blobAt(root, said.path)
-    if (standing === null) continue
-    found.push({ path: said.path, oid: standing, owed: WHOLE })
+    const oid = blobAt(root, said.path)
+    if (oid === null) continue
+    found.push({ path: said.path, oid: oid, owed: WHOLE })
   }
   return found.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
 }
