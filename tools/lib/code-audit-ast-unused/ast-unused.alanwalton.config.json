@@ -16,7 +16,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "alanwalton/health-samples-access": {
+    "akasha/health-samples-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

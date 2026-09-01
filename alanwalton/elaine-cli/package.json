@@ -2,7 +2,7 @@
   "name": "@alanwalton/elaine-cli",
   "functionalType": "program",
   "dependencies": {
-    "@alanwalton/health-samples-access": "workspace:*",
+    "@akasha/health-samples-access": "workspace:*",
     "@shared/errors-core": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
     "@shared/supabase-server": "workspace:*",

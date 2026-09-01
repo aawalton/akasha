@@ -23,9 +23,6 @@
   "references": [
     {
       "path": "../../shared/recurrence"
-    },
-    {
-      "path": "../health-samples-access"
     }
   ]
 }

@@ -1,5 +1,5 @@
-import { selectHealthSamples } from "../../../alanwalton/health-samples-access/src/select"
-import { type HealthMetric } from "../../../alanwalton/health-samples-access/src/types"
+import { selectHealthSamples } from "@akasha/health-samples-access/sample-selecting"
+import { type HealthMetric } from "@akasha/health-samples-access/sample-shape"
 import {
   cardioReading as akashaCardioReading,
   type DayMeasures,

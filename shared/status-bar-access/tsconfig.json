@@ -56,9 +56,6 @@
       "path": "../supabase-auth"
     },
     {
-      "path": "../../alanwalton/health-samples-access"
-    },
-    {
       "path": "../recurrence"
     },
     {

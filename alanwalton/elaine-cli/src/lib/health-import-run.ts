@@ -1,4 +1,4 @@
-import type { HealthSample, HealthSampleWriteReport, HealthMetric as StoredMetric } from "@alanwalton/health-samples-access/types"
+import type { HealthSample, HealthSampleWriteReport, HealthMetric as StoredMetric } from "@akasha/health-samples-access/sample-shape"
 import { parseExportDateLine, parseRecordLine } from "./health-export"
 import {
   countConversion,

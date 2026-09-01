@@ -1,6 +1,6 @@
 export const summary = "Import Alan's HealthKit history (active energy, steps) from an Apple Health export on the macbook into the raw sample store"
 
-import { upsertHealthSamples } from "@alanwalton/health-samples-access/upsert"
+import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
 import { buildFetchScript } from "@alanwalton/elaine-cli/lib/health-export"
 import { IMPORT_METRICS } from "@alanwalton/elaine-cli/lib/health-import"
 import { importReading } from "@alanwalton/elaine-cli/lib/health-import-reading"

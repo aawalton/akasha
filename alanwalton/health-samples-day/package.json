@@ -8,7 +8,7 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
-    "@alanwalton/health-samples-access": "workspace:*",
+    "@akasha/health-samples-access": "workspace:*",
     "@shared/recurrence": "workspace:*"
   },
   "scripts": {

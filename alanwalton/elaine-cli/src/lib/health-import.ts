@@ -1,4 +1,4 @@
-import { HEALTH_METRIC_UNIT, type HealthSample, type HealthMetric as StoredMetric } from "@alanwalton/health-samples-access/types"
+import { HEALTH_METRIC_UNIT, type HealthSample, type HealthMetric as StoredMetric } from "@akasha/health-samples-access/sample-shape"
 import type { HealthMetric, HealthRecord } from "./health-export"
 
 export const IMPORT_METRICS: readonly HealthMetric[] = ["activeEnergy", "stepCount"]

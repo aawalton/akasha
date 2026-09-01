@@ -1,5 +1,5 @@
-import { selectHealthSamples } from "@alanwalton/health-samples-access/select"
-import { type HealthSampleRecord } from "@alanwalton/health-samples-access/types"
+import { selectHealthSamples } from "@akasha/health-samples-access/sample-selecting"
+import { type HealthSampleRecord } from "@akasha/health-samples-access/sample-shape"
 import { getWakeDayWindow } from "./wake-day"
 
 const DAYS_AT_ONCE = 4

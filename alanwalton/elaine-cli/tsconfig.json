@@ -15,9 +15,6 @@
     },
     {
       "path": "../../shared/utils-fs"
-    },
-    {
-      "path": "../health-samples-access"
     }
   ],
   "include": [
