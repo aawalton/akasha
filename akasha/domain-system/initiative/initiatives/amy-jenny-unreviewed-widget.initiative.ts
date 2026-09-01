@@ -34,7 +34,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The routes of Alan's site stand in akasha.",
       workingMemory:
-        "Last of the three, because `app/routes` is the only part of this whole move with modelling nobody has done. Nothing waits on it: the site is a leaf with no inbound importers. One thing is unproved and decides the shape: nobody has shown that vite, react-router and tailwind resolve through a symlinked package root. `native-shell` proves it for an iOS package rather than for a build.",
+        "Last of the three, because `app/routes` is the only part of this move with modelling nobody has done. Nothing waits on it: the site is a leaf with no inbound importers. The shape is settled: a lane built the site through a symlinked package root and got exit 0 with asset hashes identical to the control, tailwind emitting 114,234 bytes. What breaks a move is depth rather than the symlink, and 3 of 15 escaping imports reach siblings.",
     },
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
