@@ -1,4 +1,4 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "../page-type/page-type.page-type.ts"
 import type { Generator } from "./properties/generator.relation-property.ts"
 import type { PropertySlug } from "./properties/property-slug.text-property.ts"

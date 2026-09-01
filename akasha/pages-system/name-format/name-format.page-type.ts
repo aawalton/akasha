@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 import type { PageType } from "../page-type/page-type.page-type.ts"
 
 export type NameFormat = Module
