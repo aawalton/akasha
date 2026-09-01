@@ -4,12 +4,7 @@ import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { said as gitIn } from "@akasha/git/git-running"
 import { put } from "@akasha/testing-system/putting"
-import {
-  dirtyIn,
-  restoreIn,
-  saying,
-  standingIn,
-} from "./restore-akasha-when-dirty.agent-hook.code.ts"
+import { dirtyIn, dirtyOf, restoreIn, saying } from "./restore-akasha-when-dirty.agent-hook.code.ts"
 
 const scratch = scratchWorld()
 
@@ -26,23 +21,23 @@ function seeded(): string {
 }
 
 test("a status line outside the akasha folder is passed over", () => {
-  expect(standingIn(" M outside/kept.ts\n")).toEqual([])
+  expect(dirtyOf(" M outside/kept.ts\n")).toEqual([])
 })
 
 test("a changed path inside the akasha folder is read off the status", () => {
-  expect(standingIn(" M akasha/held.domain.ts\n")).toEqual([
+  expect(dirtyOf(" M akasha/held.domain.ts\n")).toEqual([
     { code: "M", path: "akasha/held.domain.ts" },
   ])
 })
 
 test("a path a rename moved to is the one read", () => {
-  expect(standingIn("R  akasha/was.ts -> akasha/now.ts\n")).toEqual([
+  expect(dirtyOf("R  akasha/was.ts -> akasha/now.ts\n")).toEqual([
     { code: "R", path: "akasha/now.ts" },
   ])
 })
 
 test("a quoted path is unquoted", () => {
-  expect(standingIn('?? "akasha/a b.ts"\n')).toEqual([{ code: "??", path: "akasha/a b.ts" }])
+  expect(dirtyOf('?? "akasha/a b.ts"\n')).toEqual([{ code: "??", path: "akasha/a b.ts" }])
 })
 
 test("a clean tree is put back as nothing", () => {

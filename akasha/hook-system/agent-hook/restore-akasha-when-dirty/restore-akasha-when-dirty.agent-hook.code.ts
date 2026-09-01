@@ -29,7 +29,7 @@ function unquoted(said: string): string {
   return said.startsWith('"') && said.endsWith('"') ? said.slice(1, -1) : said
 }
 
-export function standingIn(said: string): readonly Dirty[] {
+export function dirtyOf(said: string): readonly Dirty[] {
   const found: Dirty[] = []
   for (const line of said.split("\n")) {
     if (line.length < 4) continue
@@ -43,7 +43,7 @@ export function standingIn(said: string): readonly Dirty[] {
 }
 
 export function dirtyIn(root: string): readonly Dirty[] {
-  return standingIn(gitIn(root, ["status", "--porcelain", "--", GUARDED]))
+  return dirtyOf(gitIn(root, ["status", "--porcelain", "--", GUARDED]))
 }
 
 export function restoreIn(root: string): readonly string[] {
