@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Alan is on 198 and signed in; the widget is empty because the pod crash-loops. It answers page queries from its own checkout, so the roster became a synchronous scan when the index went; `/api/health` misses six probes and kubelet kills it, and his app reports `nav` readiness over 4000ms and degrades, so no mint ever runs. Alan's direction is that the pod reads and writes no page from a checkout copy and everything goes through pages-system-service. The here-or-there switch is `here.ts:15`.",
+        "device-token is rebuilt in akasha: the page type and 4 properties at ea83c1e63e, 3 pages at b7e9cfd31e, naming person and ios-app rather than restating an account and a bundle. It is now double-declared, the 18th such type: the legacy .md and its 3 pages are still what the pod writes and reads, so the two copies drift on the next registration. The rewire is blocked — the store refuses every page write (NO_RENDER_SAYS) and has no route for an uncommitted value.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
