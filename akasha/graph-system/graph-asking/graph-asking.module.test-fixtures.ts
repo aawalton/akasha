@@ -97,7 +97,7 @@ export const LOADED_CODE_AT = "akasha/held/loaded.held-type.code.ts"
 
 export const LEAF_AT = `${HELD_RELATION}/page/id/${TARGET_ID}/${PART}/${SOURCE_ID}.jsonl`
 
-export const TYPE_STANDS_AT = `identity/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`
+export const TYPE_FILED_AT = `identity/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`
 
 export const scratch = scratchWorld()
 
@@ -211,7 +211,7 @@ export function loadingWorld(loadedBySlug: string | null, typeStands = true): st
     definition: "a page type a test invented",
     ...(loadedBySlug === null ? {} : { loadedBySlug }),
   })
-  if (typeStands) filed(root, TYPE_STANDS_AT, { path: TYPE_AT, id: TYPE_ID })
+  if (typeStands) filed(root, TYPE_FILED_AT, { path: TYPE_AT, id: TYPE_ID })
   paged(root, LOADER_AT, {
     id: LOADER_ID,
     pageTypeSlug: MODULE,
