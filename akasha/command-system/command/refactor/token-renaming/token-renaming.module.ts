@@ -7,6 +7,7 @@ export const tokenRenaming = {
   definition: "the name a body carries changed wherever the checker resolves to it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
