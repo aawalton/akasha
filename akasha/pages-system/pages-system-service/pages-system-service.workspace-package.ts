@@ -70,7 +70,7 @@ export const pagesSystemService = {
     },
     {
       invariantKind: "departure",
-      statement: "A write that did not commit did not write.",
+      statement: "A write that did not commit put nothing into the commit.",
     },
     {
       invariantKind: "departure",
