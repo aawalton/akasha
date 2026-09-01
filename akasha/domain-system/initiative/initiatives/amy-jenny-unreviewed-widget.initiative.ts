@@ -16,14 +16,18 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
       workingMemory:
-        "Nine folders left under `alanwalton/`, and none of them has a relative escape, so nothing is blocked. The Google five landed, and a sixth with them: three held one byte-identical parser, so `@akasha/google-oauth` holds it once. `imessage` landed but nothing reaches it and six callers still name the old package, so a package standing under akasha is not yet a package moved.",
+        "Seven folders left under `alanwalton/`. The Google five landed, and a sixth with them: three held one byte-identical parser, so `@akasha/google-oauth` holds it once. `imessage` is done, its carry proven by 273 comparisons with no difference. `mobile-cli` corrects an earlier note here saying nothing was blocked: it escapes its own src ten times into `tools/lib` and `repo/`, neither of which is a package, so it waits on those.",
     },
     {
       statement: "The design packages stand in akasha.",
       workingMemory:
         "Three landed under akasha/design: badges, forms and layout. design-tokens went into shared/ instead. Three are held rather than merely hard: primitives, patterns and system each carry `.ts` beside `.tsx`, and `manifest-names-what-is-reached` reads `.ts` but not `.tsx`, so a mixed package must name exactly what its `.ts` files reach and leave out what only its `.tsx` reach. design-layout had to omit four real dependencies. That knot and the two copies of @types/react want Alan.",
     },
-    { statement: "`pages-ui` stands in akasha." },
+    {
+      statement: "`pages-ui` stands in akasha.",
+      workingMemory:
+        "`@akasha/pages-ui` stands with four modules and the old folder is down from 296 files to 291. It is one package rather than several: components and supabase are mutually dependent, and the 58 subpaths consumers reach cut across one core. The cost is not the module pages but what a file is rewritten to satisfy: 116 of 286 carry a `void` return, 360 in all, and every `.tsx` rendering a component by name meets the lower-camel rule. 98 files import nothing else inside it and go first.",
+    },
     {
       statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
