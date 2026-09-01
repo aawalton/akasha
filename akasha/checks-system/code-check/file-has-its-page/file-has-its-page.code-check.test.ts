@@ -3,7 +3,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { noPathsFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
-import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
+import { claiming, declaring, filing } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { fileHasItsPage, UNCLAIMED, unclaimedIn } from "./file-has-its-page.code-check.code.ts"
 
@@ -19,7 +19,7 @@ function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
   const root = scratch.rootFor("akasha-claimed-")
   noPathsFiled(root)
   for (const one of KINDS) {
-    stands(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
+    filing(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
   }
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
   for (const one of fileProperties)

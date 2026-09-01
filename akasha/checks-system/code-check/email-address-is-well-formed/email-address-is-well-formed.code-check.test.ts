@@ -4,11 +4,11 @@ import { shadowFor } from "@akasha/pages-system/shadow"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import {
   declaring,
+  filing,
   founded,
   landing,
   pathFor,
   put,
-  stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
@@ -48,7 +48,7 @@ function bodyFor(kind: string, stated: Record<string, unknown>): string {
 
 function judged(root: string, kind: string, stated: Record<string, unknown>): readonly Judged[] {
   const at = pathFor(kind, "one")
-  stands(root, kind, "one", ONE)
+  filing(root, kind, "one", ONE)
   const change = landing(root, { [at]: put(root, at, bytesOf(bodyFor(kind, stated))) })
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)

@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
-import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
+import { claiming, declaring, filing } from "../../check-scratch/check-scratch.module.code.ts"
 import {
   everyShapeIn,
   noSecondSpellingOfANameFormat,
@@ -83,7 +83,7 @@ afterAll(scratch.sweep)
 function rooted(): string {
   const root = scratch.rootFor("akasha-second-spelling-")
   for (const [at, one] of KINDS.entries()) {
-    stands(root, "page-type", one, `${ID}${at}`)
+    filing(root, "page-type", one, `${ID}${at}`)
   }
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "within-page-type" })

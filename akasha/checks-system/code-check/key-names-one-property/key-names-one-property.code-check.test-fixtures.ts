@@ -1,6 +1,6 @@
 import type { Change } from "@akasha/pages-system/change"
 import { bytesOf } from "@akasha/testing-system/bodying"
-import { landing, pathFor, put, stands } from "../../check-scratch/check-scratch.module.code.ts"
+import { filing, landing, pathFor, put } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 export const PAGE_TYPE = "page-type"
@@ -23,7 +23,7 @@ export function typing(
   declared: readonly Record<string, unknown>[]
 ): Uint8Array {
   const said = above === null ? "null" : JSON.stringify(`${PAGE_TYPE}/${above}`)
-  stands(root, PAGE_TYPE, slug, id)
+  filing(root, PAGE_TYPE, slug, id)
   return put(
     root,
     pathFor(PAGE_TYPE, slug),
@@ -41,7 +41,7 @@ export function recording(
   id: string,
   declared: readonly Record<string, unknown>[]
 ): Uint8Array {
-  stands(root, RECORD, slug, id)
+  filing(root, RECORD, slug, id)
   return put(
     root,
     pathFor(RECORD, slug),
@@ -54,7 +54,7 @@ export function recording(
 }
 
 export function propertied(root: string, kind: string, slug: string, id: string): Uint8Array {
-  stands(root, kind, slug, id)
+  filing(root, kind, slug, id)
   return put(
     root,
     pathFor(kind, slug),

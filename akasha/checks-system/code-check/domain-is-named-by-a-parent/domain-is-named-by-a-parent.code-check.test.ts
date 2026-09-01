@@ -7,12 +7,12 @@ import {
   claiming,
   declaring,
   edging,
+  filing,
   founded,
   landing,
   NO_BYTES,
   pathFor,
   put,
-  stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
@@ -63,7 +63,7 @@ function judged(change: Change): readonly Judged[] {
 
 test("a page the index says some page names among its parts is let through", () => {
   const root = rooted()
-  stands(root, "domain", "held", ONE)
+  filing(root, "domain", "held", ONE)
   edging(root, ONE, "part-slugs", TWO, UP_AT)
   pageFiled(root, TWO, "akasha/up.domain.ts")
   const said = judged(landing(root, { [pathFor("domain", "held")]: body("domain", "held", ONE) }))
@@ -72,7 +72,7 @@ test("a page the index says some page names among its parts is let through", () 
 
 test("a page no page names is refused, and the refusal names the address", () => {
   const root = rooted()
-  stands(root, "domain", "held", ONE)
+  filing(root, "domain", "held", ONE)
   const said = judged(landing(root, { [pathFor("domain", "held")]: body("domain", "held", ONE) }))
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain("`domain/held`")
@@ -80,8 +80,8 @@ test("a page no page names is refused, and the refusal names the address", () =>
 
 test("a page and the parent naming it landing together is let through", () => {
   const root = rooted()
-  stands(root, "domain", "under", ONE)
-  stands(root, "domain", "over", TWO)
+  filing(root, "domain", "under", ONE)
+  filing(root, "domain", "over", TWO)
   edging(root, TWO, "part-slugs", UP, UP_AT)
   pageFiled(root, UP, "akasha/up.domain.ts")
   const said = judged(
@@ -95,8 +95,8 @@ test("a page and the parent naming it landing together is let through", () => {
 
 test("a parent that stops naming a part leaves that part refused", () => {
   const root = rooted()
-  stands(root, "domain", "under", ONE)
-  stands(root, "domain", "over", TWO)
+  filing(root, "domain", "under", ONE)
+  filing(root, "domain", "over", TWO)
   edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
   edging(root, TWO, "part-slugs", UP, UP_AT)
   pageFiled(root, UP, "akasha/up.domain.ts")
@@ -117,8 +117,8 @@ test("a parent that stops naming a part leaves that part refused", () => {
 
 test("a parent dropping a part leaves that part refused, though it did not change", () => {
   const root = rooted()
-  stands(root, "domain", "under", ONE)
-  stands(root, "domain", "over", TWO)
+  filing(root, "domain", "under", ONE)
+  filing(root, "domain", "over", TWO)
   pageFiled(root, ONE, pathFor("domain", "under"))
   edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
   edging(root, TWO, "part-slugs", UP, UP_AT)
@@ -137,8 +137,8 @@ test("a parent dropping a part leaves that part refused, though it did not chang
 
 test("a parent the change takes away leaves the part it named refused", () => {
   const root = rooted()
-  stands(root, "domain", "under", ONE)
-  stands(root, "domain", "over", TWO)
+  filing(root, "domain", "under", ONE)
+  filing(root, "domain", "over", TWO)
   pageFiled(root, ONE, pathFor("domain", "under"))
   pageFiled(root, TWO, pathFor("domain", "over"))
   edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
@@ -156,13 +156,13 @@ test("a parent the change takes away leaves the part it named refused", () => {
 
 test("a page the change takes away is passed over", () => {
   const root = rooted()
-  stands(root, "domain", "held", ONE)
+  filing(root, "domain", "held", ONE)
   expect(judged(landing(root, { [pathFor("domain", "held")]: null }))).toEqual([])
 })
 
 test("akasha-system stands under nothing, so it alone is passed over", () => {
   const root = rooted()
-  stands(root, "domain", "akasha-system", ONE)
+  filing(root, "domain", "akasha-system", ONE)
   const at = pathFor("domain", "akasha-system")
   expect(judged(landing(root, { [at]: body("domain", "akasha-system", ONE) }))).toEqual([])
 })
@@ -170,7 +170,7 @@ test("akasha-system stands under nothing, so it alone is passed over", () => {
 test("a page whose page type stands under domain is judged too", () => {
   const root = rooted()
   typed(root, "module", "domain")
-  stands(root, "module", "held", ONE)
+  filing(root, "module", "held", ONE)
   const said = judged(landing(root, { [pathFor("module", "held")]: body("module", "held", ONE) }))
   expect(said).toHaveLength(1)
 })
@@ -192,7 +192,7 @@ test("a page of a page type the change itself adds is judged too", () => {
 test("a page whose page type stands outside domain is not judged", () => {
   const root = rooted()
   typed(root, "finding", "page")
-  stands(root, "finding", "held", ONE)
+  filing(root, "finding", "held", ONE)
   const said = judged(landing(root, { [pathFor("finding", "held")]: body("finding", "held", ONE) }))
   expect(said).toEqual([])
 })
@@ -216,7 +216,7 @@ test("a page arriving with no identity is passed over rather than thrown on", ()
 
 test("a page giving up its identity is passed over rather than thrown on", () => {
   const root = rooted()
-  stands(root, "domain", "held", ONE)
+  filing(root, "domain", "held", ONE)
   pageFiled(root, ONE, pathFor("domain", "held"))
   claiming(root, pathFor("domain", "held"), pathFor("domain", "held"), ONE)
   const at = pathFor("domain", "held")
@@ -229,7 +229,7 @@ test("a page giving up its identity is passed over rather than thrown on", () =>
 
 test("a page whose body will not load is passed over rather than thrown on", () => {
   const root = rooted()
-  stands(root, "domain", "held", ONE)
+  filing(root, "domain", "held", ONE)
   pageFiled(root, ONE, pathFor("domain", "held"))
   claiming(root, pathFor("domain", "held"), pathFor("domain", "held"), ONE)
   const at = pathFor("domain", "held")

@@ -3,7 +3,7 @@ import { speltIn } from "@akasha/code-system/code-rule"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
-import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
+import { claiming, declaring, filing } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Said } from "./no-rule-in-two-files.code-check.code.ts"
 import {
   everySpeltIn,
@@ -99,7 +99,7 @@ afterAll(scratch.sweep)
 function rooted(): string {
   const root = scratch.rootFor("akasha-two-files-")
   for (const one of KINDS) {
-    stands(root, "page-type", one, `${ID}${one.length}`)
+    filing(root, "page-type", one, `${ID}${one.length}`)
   }
   declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "within-page-type" })

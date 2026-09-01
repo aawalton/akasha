@@ -83,7 +83,7 @@ export function founded(root: string): undefined {
   typed(root, PAGE, null, [ID, SLUG, "page-type-slug"])
 }
 
-export function stands(root: string, kind: string, slug: string, id: string): undefined {
+export function filing(root: string, kind: string, slug: string, id: string): undefined {
   listedFiled(root, kind, slug, [{ path: pathFor(kind, slug), id }])
 }
 

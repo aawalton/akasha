@@ -7,12 +7,12 @@ import {
   claiming,
   declaring,
   edging,
+  filing,
   founded,
   landing,
   NO_BYTES,
   pathFor,
   put,
-  stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
@@ -62,7 +62,7 @@ function rooted(): string {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: "page-property",
   })
-  stands(root, "record-property", "properties", RECORD)
+  filing(root, "record-property", "properties", RECORD)
   put(
     root,
     pathFor("record-property", "properties"),
@@ -79,7 +79,7 @@ function judged(change: Change): readonly Judged[] {
 
 test("a property the index says some page type declares is let through", () => {
   const root = rooted()
-  stands(root, "relation-property", "held", ONE)
+  filing(root, "relation-property", "held", ONE)
   edging(root, ONE, "page-property-slug", TWO, UP_AT)
   pageFiled(root, TWO, UP_AT)
   const said = judged(
@@ -92,7 +92,7 @@ test("a property the index says some page type declares is let through", () => {
 
 test("a property no page type declares is refused, and the refusal names the address", () => {
   const root = rooted()
-  stands(root, "relation-property", "held", ONE)
+  filing(root, "relation-property", "held", ONE)
   const said = judged(
     landing(root, {
       [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
@@ -104,8 +104,8 @@ test("a property no page type declares is refused, and the refusal names the add
 
 test("a property and the page type declaring it landing together is let through", () => {
   const root = rooted()
-  stands(root, "relation-property", "held", ONE)
-  stands(root, "page-type", "over", TWO)
+  filing(root, "relation-property", "held", ONE)
+  filing(root, "page-type", "over", TWO)
   const said = judged(
     landing(root, {
       [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
@@ -117,8 +117,8 @@ test("a property and the page type declaring it landing together is let through"
 
 test("a page type that stops declaring a property leaves that property refused", () => {
   const root = rooted()
-  stands(root, "relation-property", "held", ONE)
-  stands(root, "page-type", "over", TWO)
+  filing(root, "relation-property", "held", ONE)
+  filing(root, "page-type", "over", TWO)
   edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
   const said = judged(
@@ -137,8 +137,8 @@ test("a page type that stops declaring a property leaves that property refused",
 
 test("a page type dropping a property leaves it refused, though the property did not change", () => {
   const root = rooted()
-  stands(root, "relation-property", "held", ONE)
-  stands(root, "page-type", "over", TWO)
+  filing(root, "relation-property", "held", ONE)
+  filing(root, "page-type", "over", TWO)
   pageFiled(root, ONE, pathFor("relation-property", "held"))
   edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
@@ -155,10 +155,10 @@ test("a page type dropping a property leaves it refused, though the property did
 
 test("a page type the change takes away leaves the property it declared refused", () => {
   const root = rooted()
-  stands(root, "relation-property", "held", ONE)
+  filing(root, "relation-property", "held", ONE)
   pageFiled(root, ONE, pathFor("relation-property", "held"))
   claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
-  stands(root, "page-type", "over", TWO)
+  filing(root, "page-type", "over", TWO)
   pageFiled(root, TWO, pathFor("page-type", "over"))
   edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
@@ -170,8 +170,8 @@ test("a page type the change takes away leaves the property it declared refused"
 
 test("a record property declaring a field declares it as a page type would", () => {
   const root = rooted()
-  stands(root, "relation-property", "held", ONE)
-  stands(root, "record-property", "over", TWO)
+  filing(root, "relation-property", "held", ONE)
+  filing(root, "record-property", "over", TWO)
   const said = judged(
     landing(root, {
       [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
@@ -197,14 +197,14 @@ test("a property of a page type the change itself adds is judged too", () => {
 
 test("a property the change takes away is passed over", () => {
   const root = rooted()
-  stands(root, "relation-property", "held", ONE)
+  filing(root, "relation-property", "held", ONE)
   const at = pathFor("relation-property", "held")
   expect(judged(landing(root, { [at]: null }))).toEqual([])
 })
 
 test("a page whose page type stands outside page-property is not judged", () => {
   const root = rooted()
-  stands(root, "domain", "held", ONE)
+  filing(root, "domain", "held", ONE)
   const said = judged(landing(root, { [pathFor("domain", "held")]: body("domain", "held", ONE) }))
   expect(said).toEqual([])
 })
@@ -223,7 +223,7 @@ test("a property arriving with no identity is passed over rather than thrown on"
 
 test("a property giving up its identity is passed over rather than thrown on", () => {
   const root = rooted()
-  stands(root, "relation-property", "held", ONE)
+  filing(root, "relation-property", "held", ONE)
   pageFiled(root, ONE, pathFor("relation-property", "held"))
   claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
   const at = pathFor("relation-property", "held")
@@ -236,7 +236,7 @@ test("a property giving up its identity is passed over rather than thrown on", (
 
 test("a property whose body will not load is passed over rather than thrown on", () => {
   const root = rooted()
-  stands(root, "relation-property", "held", ONE)
+  filing(root, "relation-property", "held", ONE)
   pageFiled(root, ONE, pathFor("relation-property", "held"))
   claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
   const at = pathFor("relation-property", "held")
