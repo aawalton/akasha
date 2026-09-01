@@ -19,6 +19,7 @@ export const alanHarness = {
     "workspace-package/alanwalton-web",
     "workspace-package/imessage",
     "workspace-package/tower-core",
+    "workspace-package/tower-engine",
     "workspace-package/health-samples-access",
   ],
   invariants: [
