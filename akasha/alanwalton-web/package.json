@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@akasha/pages-core": "workspace:*",
+    "@akasha/pages-ui": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "chess.js": "^1.4.0",

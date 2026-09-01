@@ -3,7 +3,7 @@ import {
   type ActionVerbContext,
   type ActionVerbHandler,
   registerActionVerb,
-} from "@shared/pages-ui/action-verbs/action-verb-registry"
+} from "@akasha/pages-ui/action-verbs/action-verb-registry"
 
 const declaredEffectsHandler: ActionVerbHandler = (_ctx: ActionVerbContext) => {}
 
