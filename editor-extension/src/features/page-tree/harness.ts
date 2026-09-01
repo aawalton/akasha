@@ -1,6 +1,6 @@
 import * as path from 'node:path';
 import { z } from 'zod';
-import { duringOneCall } from '../../../../during-call/during-call.ts';
+import { duringOneCall } from '@akasha/command-system/during-call';
 import { askHere } from '../../../../readouts/ask-here.ts';
 import type { Ask } from '../../../../readouts/readout-resolver.ts';
 import { akashaRoot } from '../../harness-call.ts';

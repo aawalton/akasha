@@ -37,7 +37,7 @@ import { ENV_FILE_NODE_TYPE } from "../lib/graph/producers/file/env-file/types.t
 import { CONF_FILE_NODE_TYPE } from "../lib/graph/producers/file/conf-file/types.ts"
 import { IGNORE_FILE_NODE_TYPE } from "../lib/graph/producers/file/ignore-file/types.ts"
 import { SOPS_CONFIG_FILE_NODE_TYPE } from "../lib/graph/producers/file/sops-config-file/types.ts"
-import { judge, over } from "../../outcome/outcome.ts"
+import { judge, over } from "@akasha/verdict/outcome"
 
 const NAME = "lint-scope-coverage"
 

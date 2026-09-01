@@ -5,7 +5,7 @@ import type { Check } from "../lib/check.ts"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { ownTypeScript } from "../lib/own-typescript.ts"
 import { REFUSAL_DIR, refusalText } from "../../refusal/refusal.ts"
-import { judge, over } from "../../outcome/outcome.ts"
+import { judge, over } from "@akasha/verdict/outcome"
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { fileStemOf } from "@akasha/file-page-identity"
 

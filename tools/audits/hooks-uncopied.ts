@@ -1,6 +1,6 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
-import { judge, over, skip } from "../../outcome/outcome.ts"
+import { judge, over, skip } from "@akasha/verdict/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
 import { commandsIn, SETTINGS_PATH, tokensIn } from "../lib/hook-settings.ts"
 

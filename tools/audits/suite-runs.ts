@@ -1,6 +1,6 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { CHECKS_CEILING_MS, type AsyncCheck, type CheckOutcome } from "../lib/check.ts"
-import { judge, over, skip } from "../../outcome/outcome"
+import { judge, over, skip } from "@akasha/verdict/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
 import { withSuiteTree } from "../lib/suite-tree.ts"
 import { headSha, selection } from "../lib/test-selection.ts"

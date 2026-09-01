@@ -1,5 +1,5 @@
 
-import { type Outcome, skip } from "../../outcome/outcome"
+import { type Outcome, skip } from "@akasha/verdict/outcome"
 import { type Roots } from "../../page/page"
 import { targetRoot } from "../../repo/roots/roots"
 

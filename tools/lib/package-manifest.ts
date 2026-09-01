@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { onceInCall } from "../../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 
 export const MANIFEST_FILE = "package.json"
 

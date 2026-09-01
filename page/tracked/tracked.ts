@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process"
-import { onceInCall } from "../../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 import { PAGE_EXTENSION, type PageName, pageNameOf } from "../name/name.ts"
 
 const BUFFER_CEILING = 64 * 1024 * 1024

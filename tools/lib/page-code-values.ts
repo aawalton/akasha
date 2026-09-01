@@ -1,4 +1,4 @@
-import { statusOfShape } from "../../file-structure/folder-shape/folder-shape.ts"
+import { standingOfShape } from "@akasha/code-system/shape-standing"
 import type { Property } from "../../page/property/property.ts"
 import type { Held } from "./page-file-values.ts"
 import type { Reached } from "./page-reach.ts"
@@ -54,7 +54,7 @@ const CODE_VALUES: ReadonlyMap<string, CodeValue> = new Map<string, CodeValue>([
     (page) => {
       const slug = page.values[SLUG]
       if (typeof slug !== "string" || slug === "") return null
-      return statusOfShape(slug)
+      return standingOfShape(slug)
     },
   ],
 ])

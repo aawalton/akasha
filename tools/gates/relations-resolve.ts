@@ -1,5 +1,5 @@
 import { type Gate, readsText, type Subject, textOf } from "../lib/gate.ts"
-import { judge, skip } from "../../outcome/outcome"
+import { judge, skip } from "@akasha/verdict/outcome"
 import type { FileTree } from "../../page/file-tree.ts"
 import { chainOf } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"

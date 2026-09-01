@@ -6,7 +6,7 @@ import {
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { uncommittedAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
-import { onceInCall } from "../../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 
 // WHERE A SEAT STANDS IN AKASHA, AND WHERE EACH OF ITS VALUES STANDS ON IT. This holds nothing but

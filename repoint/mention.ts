@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { judge, type Outcome } from "../outcome/outcome.ts"
+import { judge, type Outcome } from "@akasha/verdict/outcome"
 import type { Roots } from "../page/page.ts"
 import { trackedIn } from "../page/tracked/tracked.ts"
 import { canonicalize, normalizeAbsolute } from "../repo/path/path.ts"

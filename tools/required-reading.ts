@@ -7,7 +7,7 @@ import { existsSync, readFileSync } from "node:fs"
 import type { Repo } from "../page/document/types.ts"
 import { listDocuments } from "./lib/check.ts"
 import { closure } from "./lib/closure.ts"
-import { onceInCall } from "../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 import {
   type Documents,
   FILE_KIND_EXTENSION_KEY,

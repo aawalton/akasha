@@ -1,5 +1,5 @@
 import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
-import { onceInCall } from "../../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 import { rootsHere } from "../../repo/roots/roots.ts"
 import { diskFileTree } from "../file-tree.ts"
 import { parseFrontmatter, textField } from "../frontmatter.ts"

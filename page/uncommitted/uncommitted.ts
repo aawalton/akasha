@@ -1,8 +1,8 @@
 import { mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { parse, stringify } from "yaml"
-import { holdInCall, onceInCall } from "../../during-call/during-call.ts"
-import { exclusively } from "../../exclusive/exclusive.ts"
+import { holdInCall, onceInCall } from "@akasha/command-system/during-call"
+import { exclusively } from "@akasha/file-system/exclusive"
 import { isMissing } from "@akasha/utils-fs/missing"
 
 const PAGE_SUFFIX = ".md"

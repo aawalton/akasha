@@ -1,7 +1,7 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { textField } from "../../page/frontmatter.ts"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over } from "@akasha/verdict/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
 import { COLOR_KEY, VALUE_KEY } from "../lib/seat-value.ts"
 import { personasStanding } from "../lib/akasha-personas.ts"

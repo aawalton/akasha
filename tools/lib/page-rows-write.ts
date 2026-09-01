@@ -19,8 +19,8 @@ import {
   writeOutParts,
 } from "./page-rows-parts.ts"
 import { forgetRowsPages } from "./page-rows.ts"
-import { duringOneCall } from "../../during-call/during-call.ts"
-import { exclusively } from "../../exclusive/exclusive.ts"
+import { duringOneCall } from "@akasha/command-system/during-call"
+import { exclusively } from "@akasha/file-system/exclusive"
 import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 import { type Written } from "./page-write.ts"
 import { commitAll } from "./page-write-commit.ts"

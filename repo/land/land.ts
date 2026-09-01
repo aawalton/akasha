@@ -10,7 +10,7 @@ import {
 } from "node:fs"
 import { dirname } from "node:path"
 import { commitAuthor } from "../../agent/commit-author.ts"
-import { exclusively } from "../../exclusive/exclusive.ts"
+import { exclusively } from "@akasha/file-system/exclusive"
 import { indexAfterLanding, bodiesBefore } from "./landing.ts"
 import { patchAside } from "./body-aside.ts"
 import { GATED } from "../../patches/patch.ts"

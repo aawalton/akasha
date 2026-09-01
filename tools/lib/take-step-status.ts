@@ -1,4 +1,4 @@
-import { exclusively } from "../../exclusive/exclusive.ts"
+import { exclusively } from "@akasha/file-system/exclusive"
 import { whereFor } from "./page-write-where.ts"
 import type { Roots } from "../../page/page"
 import { readUncommitted, uncommittedPathFor, writeUncommitted } from "../../page/uncommitted/uncommitted.ts"

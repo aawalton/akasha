@@ -1,5 +1,5 @@
 import * as path from 'node:path';
-import { duringOneCall } from '../../../../during-call/during-call.ts';
+import { duringOneCall } from '@akasha/command-system/during-call';
 import { domainsDrawn } from '../../../../akasha/editor-extension/panel-domains/panel-domains.module.code.ts';
 import { type DomainRow, championTree } from '../../../../tools/lib/champions-tree.ts';
 import { AKASHA, resolveRoots, rootFor } from '../../../../repo/roots/roots.ts';

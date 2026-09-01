@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { exclusively } from "../../../exclusive/exclusive.ts"
+import { exclusively } from "@akasha/file-system/exclusive"
 import { uncommittedPathFor, readUncommitted, writeUncommitted } from "../../../page/uncommitted/uncommitted.ts"
 import { parseFrontmatter, textField } from "../../../page/frontmatter.ts"
 import { patchPage } from "../page-write.ts"

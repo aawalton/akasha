@@ -1,5 +1,5 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
-import { onceInCall } from "../../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 import { rootsKey } from "../../page/file-tree.ts"
 import type { Held } from "./page-file-values.ts"
 import type { Property } from "../../page/property/property.ts"

@@ -1,5 +1,5 @@
 import * as path from 'node:path';
-import { duringOneCall } from '../../../../during-call/during-call.ts';
+import { duringOneCall } from '@akasha/command-system/during-call';
 import { type Initiatives, type Node, workTree } from '../../../../tools/lib/work-tree.ts';
 import { initiativesDrawn } from '../../../../akasha/editor-extension/work-initiatives/work-initiatives.module.code.ts';
 import { drawnNow } from '../../../../tools/lib/work-tree-drawn.ts';

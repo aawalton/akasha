@@ -2,7 +2,7 @@ import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { readFileSync } from "node:fs"
 import type { Check } from "../lib/check.ts"
 import { agreement, refusalFor } from "../lib/hook-merge.ts"
-import { judge, over, skip } from "../../outcome/outcome"
+import { judge, over, skip } from "@akasha/verdict/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
 import { byScript, SETTINGS_PATH } from "../lib/hook-settings.ts"
 

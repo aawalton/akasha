@@ -1,6 +1,6 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over } from "@akasha/verdict/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
 import { CEILING_MS, type Band } from "../lib/run-cost.ts"
 import { unitFiles } from "./suite-runs.ts"

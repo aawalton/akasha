@@ -9,7 +9,7 @@ import { fileStemOf as stemOf } from "@akasha/file-page-identity"
 import { pageStemOf } from "./name/name.ts"
 import { indexWouldAnswer, scannedFromIndex } from "./index/scan/scan.ts"
 import { indexReaches, loadPages } from "./index/store/store.ts"
-import { onceInCall } from "../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 import type { Roots } from "./page.ts"
 import { blockOf, NONE, stringAt } from "./text/text.ts"
 

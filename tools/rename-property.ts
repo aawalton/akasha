@@ -5,7 +5,7 @@ export const tool = {
 
 import { existsSync, readFileSync } from "node:fs"
 import { escapedSpellings, textFiles } from "../repoint/mention"
-import { anyRefused, render } from "../outcome/outcome"
+import { anyRefused, render } from "@akasha/verdict/outcome"
 import { diskFileTree } from "../page/file-tree.ts"
 import { registryOf } from "../page/property/registry.ts"
 import { rejectUnknownFlags, repoFlag } from "./lib/payload.ts"

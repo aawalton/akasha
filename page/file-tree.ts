@@ -1,4 +1,4 @@
-import { onceInCall } from "../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 import { repoPlacings, scanSpanning } from "./page-types.ts"
 import { textAt } from "./text/text.ts"
 import { AKASHA, REPOS, rootFor } from "../repo/roots/roots.ts"

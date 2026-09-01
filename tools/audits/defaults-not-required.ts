@@ -1,6 +1,6 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
-import { judge, over, skip } from "../../outcome/outcome"
+import { judge, over, skip } from "@akasha/verdict/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { PROPERTY_GLOBS } from "../../page/page-types.ts"
 import { DEFAULT } from "../../page/property/declarations.ts"

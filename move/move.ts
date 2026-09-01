@@ -1,6 +1,6 @@
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
 import type { Addressed } from "../ops-cli/global/address.ts"
-import { anyRefused, render } from "../outcome/outcome.ts"
+import { anyRefused, render } from "@akasha/verdict/outcome"
 import { carriesBytes } from "../page/file-kind/carries-bytes.ts"
 import type { Roots } from "../page/page.ts"
 import { pageOfSidecar, sidecarCarriedTo, sidecarsOf } from "../page/sidecar/sidecar.ts"

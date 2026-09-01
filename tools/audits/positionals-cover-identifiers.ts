@@ -1,7 +1,7 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { commandSurface, type CommandSurface } from "../lib/command-surface.ts"
 import type { AsyncCheck } from "../lib/check.ts"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over } from "@akasha/verdict/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
 import type { HelpFlag, HelpPositional } from "../ops/surface.ts"
 import {

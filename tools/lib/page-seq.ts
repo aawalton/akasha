@@ -1,7 +1,7 @@
 import { spawnSync } from "node:child_process"
 import { accessSync, constants, existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { exclusively } from "../../exclusive/exclusive.ts"
+import { exclusively } from "@akasha/file-system/exclusive"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { toolArgv } from "./tool-argv.ts"

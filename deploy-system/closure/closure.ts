@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto"
-import { answerAt, cacheAnswer, forget, gitDirAt, type Key, sweep } from "../../cache/cache.ts"
-import { type Input, markOf } from "../../cache/mark/mark.ts"
+import { answerAt, cacheAnswer, forget, gitDirAt, type Key, sweep } from "@akasha/file-system/answer-keeping"
+import { type Input, markOf } from "@akasha/file-system/answer-mark"
 import { RUNTIME_MARK } from "../../page/runtime/runtime.ts"
 import { type Plan, relativeTo } from "../deploy/deploy.ts"
 

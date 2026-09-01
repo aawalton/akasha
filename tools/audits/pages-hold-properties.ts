@@ -1,6 +1,6 @@
 import { rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
-import { advise, over, skip } from "../../outcome/outcome.ts"
+import { advise, over, skip } from "@akasha/verdict/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { type CompiledPageType, compiledPageTypeFor, PROPERTY_ROOTS } from "../../page/property/frontmatter.ts"
 import { judgeFrontmatter } from "../../page/property/judge.ts"

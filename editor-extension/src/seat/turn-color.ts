@@ -1,5 +1,5 @@
 import * as path from 'node:path';
-import { duringOneCall } from '../../../during-call/during-call.ts';
+import { duringOneCall } from '@akasha/command-system/during-call';
 import { colorsOf } from '../../../tools/lib/agent-turn-drawn.ts';
 import { akashaRoot, repositoryPath } from '../harness-call.ts';
 import { colorNamed } from '../palette.ts';

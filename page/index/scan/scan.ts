@@ -1,4 +1,4 @@
-import { onceInCall } from "../../../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 import { matchesGlob } from "../../glob/glob.ts"
 import { REPOS } from "../../../repo/roots/roots.ts"
 import { builtFrom, indexReaches, loadPages } from "../store/store.ts"

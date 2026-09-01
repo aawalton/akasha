@@ -8,12 +8,14 @@ import { RUNTIME_MARK } from "../runtime/runtime.ts"
 import { folderIn, PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
 
 export const CODE_DIRS: readonly string[] = [
+  "akasha/code-system/shape-standing",
+  "akasha/command-system/during-call",
+  "akasha/file-system/answer-keeping",
+  "akasha/file-system/answer-mark",
+  "akasha/file-system/exclusive",
   "akasha/pages-system/page/markdown-page-type",
   "akasha/utils-fs/atomic-write",
   "akasha/utils-fs/missing",
-  "cache",
-  "during-call",
-  "exclusive",
   "page",
   "refusal",
   "repo",

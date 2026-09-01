@@ -1,4 +1,4 @@
-import { onceInCall } from "../../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 import { type Subject, textOf } from "../lib/gate.ts"
 import type { FileTree } from "../../page/file-tree.ts"
 import { placeDirOf, repoPlacings, scanIn } from "../../page/page-types.ts"

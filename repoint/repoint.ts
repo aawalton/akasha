@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { isGeneratedFile } from "../generated-file/generated-file.ts"
-import { judge, type Outcome, over, skip } from "../outcome/outcome.ts"
+import { judge, type Outcome, over, skip } from "@akasha/verdict/outcome"
 import { fileStemOf } from "@akasha/file-page-identity"
 import type { Roots } from "../page/page.ts"
 import { trackedIn } from "../page/tracked/tracked.ts"

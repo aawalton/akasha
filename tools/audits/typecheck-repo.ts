@@ -1,7 +1,7 @@
 import { mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import type { Check } from "../lib/check.ts"
-import { judge, over, skip } from "../../outcome/outcome"
+import { judge, over, skip } from "@akasha/verdict/outcome"
 import { AKASHA, isDirty, isVendored, rootFor } from "../../repo/roots/roots"
 import { linkSibling } from "../lib/sibling-link.ts"
 import { ABSENT, diagnostics, excludesFor, FROM_DISK, instrument, linkModules, reported, runTsc, writeTsconfig } from "../lib/typecheck-run.ts"

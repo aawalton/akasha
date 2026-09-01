@@ -1,5 +1,5 @@
 import type { Check } from "../lib/check.ts"
-import { judge, over } from "../../outcome/outcome.ts"
+import { judge, over } from "@akasha/verdict/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { chainOf } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"

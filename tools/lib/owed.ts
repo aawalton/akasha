@@ -1,7 +1,7 @@
 
 import { type Roots } from "../../page/page"
 import { locate } from "../../repo/roots/roots"
-import type { Outcome } from "../../outcome/outcome"
+import type { Outcome } from "@akasha/verdict/outcome"
 
 export function owedBy(outcomes: readonly Outcome[]): readonly string[] {
   const owed: string[] = []

@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { advise, type Outcome, skip } from "../outcome/outcome.ts"
+import { advise, type Outcome, skip } from "@akasha/verdict/outcome"
 import { frontmatter as readBlock } from "../page/document/frontmatter.ts"
 import { Source } from "../page/document/position.ts"
 import type { FrontmatterValue, Repo } from "../page/document/types.ts"

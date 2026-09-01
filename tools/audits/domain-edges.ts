@@ -1,5 +1,5 @@
 import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over } from "@akasha/verdict/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { domainKindTest } from "../../page/page-types.ts"

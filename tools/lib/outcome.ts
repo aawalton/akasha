@@ -8,5 +8,4 @@ export {
   skip,
   type Outcome,
   type Population,
-  type Verdict,
-} from "../../outcome/outcome.ts"
+} from "@akasha/verdict/outcome"

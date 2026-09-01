@@ -1,6 +1,6 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check, CheckOutcome, RepoView } from "./check.ts"
-import { judge, over, skip } from "../../outcome/outcome"
+import { judge, over, skip } from "@akasha/verdict/outcome"
 import type { RuleSet } from "./rules-engine.ts"
 import { CEILING, eachCase, matches, type Case, type Matchable } from "./rules-partition.ts"
 

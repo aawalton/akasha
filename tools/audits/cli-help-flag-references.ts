@@ -15,7 +15,7 @@ import {
   type FlagSurface,
 } from "../lib/cli-help-flag-references.ts"
 import { commandSurface } from "../lib/command-surface.ts"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over } from "@akasha/verdict/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
 
 const NAME = "cli-help-flag-references"

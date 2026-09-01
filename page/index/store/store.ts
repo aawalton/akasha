@@ -9,8 +9,8 @@ import {
   statSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { markOf } from "../../../cache/mark/mark.ts"
-import { exclusively } from "../../../exclusive/exclusive.ts"
+import { markOf } from "@akasha/file-system/answer-mark"
+import { exclusively } from "@akasha/file-system/exclusive"
 import { canonicalize } from "../../../repo/path/path.ts"
 import { rootBeside } from "../../../repo/roots/roots.ts"
 import { oidsUnder } from "../../../repo/oid/oid.ts"

@@ -14,7 +14,7 @@ import {
   uncommittedIn,
 } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 import { propertiesOf } from "../../akasha/pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
-import { onceInCall } from "../../during-call/during-call.ts"
+import { onceInCall } from "@akasha/command-system/during-call"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 
 // A claude-account stands in akasha and the readers above still ask for it by the keys its

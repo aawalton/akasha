@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, rmSync } from "node:fs"
 import { dirname } from "node:path"
-import { exclusively } from "../../exclusive/exclusive.ts"
+import { exclusively } from "@akasha/file-system/exclusive"
 import { patchUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { attachmentFileOf, removeAttachment, writeAttachment } from "../../page/attachment-file.ts"
 import { attachmentKeysFor } from "./page-attachment-keys.ts"

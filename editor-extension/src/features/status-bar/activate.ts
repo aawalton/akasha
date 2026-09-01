@@ -1,7 +1,7 @@
 import * as os from 'node:os';
 import * as path from 'node:path';
 import { getEsoDayStr } from '../../../../day/day.ts';
-import { duringOneCall } from '../../../../during-call/during-call.ts';
+import { duringOneCall } from '@akasha/command-system/during-call';
 import { askHere } from '../../../../readouts/ask-here.ts';
 import { getDailyValues, getValuesLegend } from '../../../../readouts/daily-stoplights.ts';
 import { getInboxLegend, getInboxStoplights } from '../../../../readouts/inbox-stoplights.ts';

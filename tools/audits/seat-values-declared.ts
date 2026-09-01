@@ -1,5 +1,5 @@
 import type { Check } from "../lib/check.ts"
-import { judge, over } from "../../outcome/outcome.ts"
+import { judge, over } from "@akasha/verdict/outcome"
 
 const NAME = "seat-values-declared"
 
