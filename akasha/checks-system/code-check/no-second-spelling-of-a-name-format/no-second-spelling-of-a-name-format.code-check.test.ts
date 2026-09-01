@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import type { Change } from "@akasha/pages-system/change"
+import { shadowFor } from "@akasha/pages-system/shadow"
 import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
 import {
   everyShapeIn,

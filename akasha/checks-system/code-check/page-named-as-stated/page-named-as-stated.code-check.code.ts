@@ -1,9 +1,9 @@
+import { literalOf, parsedAs } from "@akasha/code-system/code-source"
+import { filePropertiesAt } from "@akasha/indexes/entries"
+import type { Change } from "@akasha/pages-system/change"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { namedIn } from "@akasha/pages-system/page-file-name"
 import ts from "typescript"
-import { literalOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Body } from "../../change-walking/change-walking.module.code.ts"
 import {
   bodyOf,

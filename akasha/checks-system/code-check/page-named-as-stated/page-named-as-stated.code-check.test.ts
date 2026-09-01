@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { shadowAsked } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { bodiesIn } from "../../../testing-system/bodying/bodying.module.code.ts"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { shadowAsked } from "@akasha/pages-system/shadow"
+import { bodiesIn } from "@akasha/testing-system/bodying"
 import { change } from "../../check-scratch/check-scratch.module.code.ts"
 import {
   pageIn,

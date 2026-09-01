@@ -1,24 +1,16 @@
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { waitingProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
-import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  type Formatting,
-  matchingIn,
-} from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
-import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import {
-  loadedFrom,
-  numberAt,
-  textAt,
-  type Value,
-} from "../../../pages-system/page/page-value/page-value.module.code.ts"
+import { pageTypesIn } from "@akasha/indexes/entries"
+import { waitingProperties } from "@akasha/indexes/generated-properties"
+import type { Change } from "@akasha/pages-system/change"
+import { type Formatting, matchingIn } from "@akasha/pages-system/name-format/format-reaching"
+import { pageNamed } from "@akasha/pages-system/page-file-name"
 import {
   type Carried,
   carriedIn,
   pageAt,
   propertiesOf,
-} from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+} from "@akasha/pages-system/page-type-properties"
+import { loadedFrom, numberAt, textAt, type Value } from "@akasha/pages-system/page-value"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import type { Body } from "../../change-walking/change-walking.module.code.ts"
 import { bodyOf, input, PAGES } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"

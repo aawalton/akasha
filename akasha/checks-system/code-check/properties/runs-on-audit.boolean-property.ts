@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "../../../pages-system/boolean-property/boolean-property.page-type.ts"
+import type { BooleanProperty } from "@akasha/pages-system/boolean-property"
 
 export type RunsOnAudit = boolean
 

@@ -1,15 +1,11 @@
 import { dirname, join } from "node:path"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import {
-  filePropertiesAt,
-  pageTypesIn,
-  pathsOf,
-} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { listedByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
-import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { valueIn } from "../../../pages-system/page/page-value/page-value.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { listedByPath } from "@akasha/indexes"
+import { filePropertiesAt, pageTypesIn, pathsOf } from "@akasha/indexes/entries"
+import type { Reading } from "@akasha/indexes/shape"
+import type { Change } from "@akasha/pages-system/change"
+import { pageNamed } from "@akasha/pages-system/page-file-name"
+import { valueIn } from "@akasha/pages-system/page-value"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, FILES, input } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 

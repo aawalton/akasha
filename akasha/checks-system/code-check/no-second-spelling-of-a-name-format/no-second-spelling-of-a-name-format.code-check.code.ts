@@ -1,7 +1,7 @@
+import { lineOf, parsedAs } from "@akasha/code-system/code-source"
+import type { Change } from "@akasha/pages-system/change"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
-import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   bodyOf,
   everyFileIn,

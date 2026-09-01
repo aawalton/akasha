@@ -1,20 +1,14 @@
 import { dirname, join } from "node:path"
-import {
-  landingOf,
-  specifiersIn,
-} from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  everyOfType,
-  listedByPath,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { matchingIn } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
-import { lowerKebabCase } from "../../../pages-system/name-format/lower-kebab-case/lower-kebab-case.name-format.ts"
-import type { Matching } from "../../../pages-system/name-format/name-matching/name-matching.module.code.ts"
-import { packageName } from "../../../pages-system/name-place/name-places/package-name.name-place.ts"
-import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { landingOf, specifiersIn } from "@akasha/code-system/code-specifier"
+import { everyOfType, listedByPath } from "@akasha/indexes"
+import { filePropertiesAt } from "@akasha/indexes/entries"
+import type { Change } from "@akasha/pages-system/change"
+import { matchingIn } from "@akasha/pages-system/name-format/format-reaching"
+import { lowerKebabCase } from "@akasha/pages-system/name-format/lower-kebab-case"
+import type { Matching } from "@akasha/pages-system/name-format/name-matching"
+import { packageName } from "@akasha/pages-system/name-place/package-name"
+import { kindsUnder } from "@akasha/pages-system/page-type-descent"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import {
   bodyOf,
   FILES,
