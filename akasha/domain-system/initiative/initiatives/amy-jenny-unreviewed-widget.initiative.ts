@@ -12,7 +12,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "A file writing a page through the page store lands the write rather than refusing.",
       workingMemory:
-        "No file imports @shared/pages-query now. 114 specifiers over 89 files, and 11 more that reached by relative path, name @akasha/pages-query; 175 value imports resolve. Reads switched on the specifier alone. Writes cannot: /write takes a whole file body and nothing answers with one, so patchPage, patchState, patchRow, patchRows and writeRow cannot be built honestly and would lose a concurrent write in silence. writePage, writeRows and removePage are buildable. patchPageIfMatch has no caller.",
+        "Interim: the store now serves POST /read, answering a whole body and the commit it was read at, and POST /write takes that commit as `read`. This line was put here by patchFiles over HTTP.",
     },
     {
       statement:
