@@ -15,7 +15,7 @@ import {
   stampedIn,
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
-import { put, stands } from "@akasha/testing-system/putting"
+import { put, there } from "@akasha/testing-system/putting"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 
@@ -206,7 +206,7 @@ export function change(
   const based = (path: string): Uint8Array | null => {
     const found = bodies.get(path)
     if (found !== undefined) return new TextEncoder().encode(found)
-    return stands(root, path) ? readFileSync(join(root, path)) : null
+    return there(root, path) ? readFileSync(join(root, path)) : null
   }
   return {
     root,

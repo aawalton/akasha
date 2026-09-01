@@ -3,7 +3,7 @@ import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { unreadIn } from "@akasha/context-system/warranting"
 import { refusing } from "@akasha/testing-system/minting"
-import { stands } from "@akasha/testing-system/putting"
+import { there } from "@akasha/testing-system/putting"
 import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"
 import { move } from "./move.command.code.ts"
 import {
@@ -74,7 +74,7 @@ test("a file is carried to its new path, the old path goes, and the page's id is
   const said = move(PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  expect(stands(root, HELD)).toBe(false)
+  expect(there(root, HELD)).toBe(false)
   expect(git(root, ["ls-files"]).trim().split("\n")).toEqual([...VOCABULARY, THREE].sort())
   expect(bodyIn(root, THREE)).toBe(PAGE)
   expect(said.report[0]).toBe(`${HELD} moved to ${THREE}`)
@@ -87,9 +87,9 @@ test("a page's sidecars go with it without being named", () => {
   const root = rebuilt(sidecarWorld())
   const said = move(["--from", HELD, "--to", DEEP], givenIn(root))
   expect(said.refusals).toEqual([])
-  expect(stands(root, DEEPER)).toBe(true)
-  expect(stands(root, "akasha/one/deep/held.module.test.ts")).toBe(true)
-  expect(stands(root, HOLDER)).toBe(false)
+  expect(there(root, DEEPER)).toBe(true)
+  expect(there(root, "akasha/one/deep/held.module.test.ts")).toBe(true)
+  expect(there(root, HOLDER)).toBe(false)
   expect(told(said)).toContain("stood beside what you named")
 })
 
@@ -159,7 +159,7 @@ test("an unanswerable index leaves the importers as they stand and says so", () 
 test("a rename carries the page, restates its slug, and repoints what names it", () => {
   const { root, said } = renamed()
   expect(said.refusals).toEqual([])
-  expect(stands(root, THING)).toBe(false)
+  expect(there(root, THING)).toBe(false)
   const now = renamedText(root)
   expect(now).toContain('slug: "renamed"')
   expect(now).toContain("export const renamed =")
@@ -169,7 +169,7 @@ test("a rename carries the page, restates its slug, and repoints what names it",
   expect(filedAt(root, "renamed")).toEqual([THING_AT])
   expect(namersIn(root, AAAA)).toEqual(NAMERS)
   expect(told(said)).toContain("renamed from the slug `held` to `renamed`")
-  expect(THING_BESIDE.map((one) => stands(root, one))).toEqual([false, true])
+  expect(THING_BESIDE.map((one) => there(root, one))).toEqual([false, true])
   expect(bodyIn(root, THING_BESIDE[1] ?? "")).toContain("const renamed")
 })
 
@@ -178,7 +178,7 @@ test("a page type's slug is not renamed here", () => {
   const said = move(["--from", THING_TYPE, "--to", "akasha/other.page-type.ts"], givenIn(root))
   expect(said.code).toBe(1)
   expect(why(said)).toContain("a page type's slug")
-  expect(stands(root, THING_TYPE)).toBe(true)
+  expect(there(root, THING_TYPE)).toBe(true)
 })
 
 test("a rename leaving an edge naming nobody is refused and lands nothing", () => {
@@ -187,8 +187,8 @@ test("a rename leaving an edge naming nobody is refused and lands nothing", () =
   const said = move(SLUG_RENAME, givenIn(root))
   expect(said.code).toBe(3)
   expect(why(said)).toContain("no `thing` carries the slug `held`")
-  expect(stands(root, THING)).toBe(true)
-  expect(stands(root, THING_AT)).toBe(false)
+  expect(there(root, THING)).toBe(true)
+  expect(there(root, THING_AT)).toBe(false)
   expect(head(root)).toBe(was)
 })
 
@@ -197,7 +197,7 @@ test("a rename the index cannot answer for is refused", () => {
   expect(why(move(RENAME, givenIn(root)))).toContain("could not be answered")
   claiming(root, HELD, [AAAA, "01a04bed-1450-7000-8000-00000000dddd"])
   expect(why(move(RENAME, givenIn(root)))).toContain("the index answers 2 pages")
-  expect(stands(root, HELD)).toBe(true)
+  expect(there(root, HELD)).toBe(true)
 })
 
 test("a refused move leaves nothing behind", () => {
@@ -207,10 +207,10 @@ test("a refused move leaves nothing behind", () => {
   const said = move(PAIR, givenIn(root))
   expect(said.code).toBe(3)
   expect(why(said)).toContain("refused for the test")
-  expect(stands(root, HELD)).toBe(true)
-  expect(stands(root, HOLDER)).toBe(true)
-  expect(stands(root, THREE)).toBe(false)
-  expect(stands(root, "akasha/three")).toBe(false)
+  expect(there(root, HELD)).toBe(true)
+  expect(there(root, HOLDER)).toBe(true)
+  expect(there(root, THREE)).toBe(false)
+  expect(there(root, "akasha/three")).toBe(false)
   expect(head(root)).toBe(was)
 })
 
@@ -219,7 +219,7 @@ test("a path that is not there is refused", () => {
   const said = move(MISSING, givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not there")
-  expect(stands(root, "akasha/three")).toBe(false)
+  expect(there(root, "akasha/three")).toBe(false)
 })
 
 test("a destination that already stands is refused", () => {
@@ -250,7 +250,7 @@ test("a dry run gates and writes nothing at all", () => {
   const said = move([...PAIR, "--dry-run"], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(told(said)).toContain("nothing was written")
-  expect(stands(root, "akasha/three")).toBe(false)
+  expect(there(root, "akasha/three")).toBe(false)
   expect(head(root)).toBe(was)
   expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
 })
@@ -272,8 +272,8 @@ test("a dry run over a move the checks refuse reports it and carries nothing", (
   const said = move([...PAIR, "--dry-run"], givenIn(root))
   expect(said.code).toBe(3)
   expect(why(said)).toContain("refused for the test")
-  expect(stands(root, "akasha/three")).toBe(false)
-  expect(stands(root, HELD)).toBe(true)
+  expect(there(root, "akasha/three")).toBe(false)
+  expect(there(root, HELD)).toBe(true)
 })
 
 test("breaking the glass carries a move the checks refuse, and only breaking it does", () => {
@@ -283,7 +283,7 @@ test("breaking the glass carries a move the checks refuse, and only breaking it 
   const gated = move([...PAIR, "--message", "held moves"], givenIn(root))
   expect(gated.code).toBe(3)
   expect(why(gated)).toContain("refused for the test")
-  expect(stands(root, THREE)).toBe(false)
+  expect(there(root, THREE)).toBe(false)
   expect(head(root)).toBe(was)
 
   const said = move(
@@ -293,8 +293,8 @@ test("breaking the glass carries a move the checks refuse, and only breaking it 
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(told(said)).toContain("no check ran — the glass was broken for: the check is wrong")
-  expect(stands(root, THREE)).toBe(true)
-  expect(stands(root, HELD)).toBe(false)
+  expect(there(root, THREE)).toBe(true)
+  expect(there(root, HELD)).toBe(false)
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe(
     "held moves\n\nChecks-bypassed: the check is wrong"
   )
@@ -311,7 +311,7 @@ test("breaking the glass with no reason, or alongside a dry run, is refused", ()
   const both = move([...PAIR, "--break-the-glass", "no time", "--dry-run"], givenIn(root))
   expect(both.code).toBe(1)
   expect(both.refusals[0]).toContain("runs none, so together they report nothing")
-  expect(stands(root, "akasha/three")).toBe(false)
+  expect(there(root, "akasha/three")).toBe(false)
 })
 
 test("a message is read from a file and trimmed, and stated twice over or empty is refused", () => {
@@ -325,7 +325,7 @@ test("a message is read from a file and trimmed, and stated twice over or empty 
   const empty = move([...PAIR, "--message-file", at], givenIn(root))
   expect(empty.code).toBe(1)
   expect(empty.refusals[0]).toContain("the message given is empty")
-  expect(stands(root, "akasha/three")).toBe(false)
+  expect(there(root, "akasha/three")).toBe(false)
   writeFileSync(at, "  carried by a file  \n")
   const said = move([...PAIR, "--message-file", at], givenIn(root))
   expect(said.refusals).toEqual([])
@@ -336,7 +336,7 @@ test("a path is read against the repository root, wherever the call was made", (
   const root = heldIndexed()
   const said = move(PAIR, { ...givenIn(root), from: join(root, "akasha/one") })
   expect(said.refusals).toEqual([])
-  expect(stands(root, THREE)).toBe(true)
+  expect(there(root, THREE)).toBe(true)
   const out = move(["--from", HELD, "--to", "one/held.module.ts"], givenIn(root))
   expect(out.refusals[0]).toContain("read against the repository root")
 })
@@ -353,7 +353,7 @@ test("a page holding uncommitted values is carried, and that file goes with it",
   const said = move(PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  expect(stands(root, UNSAID)).toBe(false)
+  expect(there(root, UNSAID)).toBe(false)
   expect(bodyIn(root, UNSAID_AT)).toBe(VALUES)
   expect(told(said)).toContain(`${UNSAID} to ${UNSAID_AT}`)
 })
@@ -371,8 +371,8 @@ test("two pages each holding uncommitted values carry both of those files with t
   const root = twoUnsaid()
   const said = move(BOTH, givenIn(root))
   expect(said.refusals).toEqual([])
-  expect(stands(root, UNSAID)).toBe(false)
-  expect(stands(root, SECOND_UNSAID)).toBe(false)
+  expect(there(root, UNSAID)).toBe(false)
+  expect(there(root, SECOND_UNSAID)).toBe(false)
   expect(bodyIn(root, UNSAID_AT)).toBe(VALUES)
   expect(bodyIn(root, SECOND_UNSAID_AT)).toBe(VALUES)
 })
@@ -388,6 +388,6 @@ test("an uncommitted file that will not carry leaves the one carried before it w
   }
   expect(head(root)).toBe(was)
   expect(bodyIn(root, UNSAID)).toBe(VALUES)
-  expect(stands(root, HELD)).toBe(true)
+  expect(there(root, HELD)).toBe(true)
   expect(code).toBe(3)
 })

@@ -14,7 +14,7 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import type { Reading } from "@akasha/indexes/shape"
 import { everythingRead, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
-import { put, stands } from "@akasha/testing-system/putting"
+import { put, there } from "@akasha/testing-system/putting"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import { type Cast, NOT_WORKED_OUT, shadowFor } from "./shadow.module.code.ts"
 
@@ -93,7 +93,7 @@ const CHANGES: readonly FileEdit[] = [
 ]
 
 function onDisk(root: string): (path: string) => Uint8Array | null {
-  return (path) => (stands(root, path) ? readFileSync(join(root, path)) : null)
+  return (path) => (there(root, path) ? readFileSync(join(root, path)) : null)
 }
 
 function changeOver(root: string, changes: readonly FileEdit[]): Change {

@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowAt, shadowFor } from "@akasha/pages-system/shadow"
-import { put, stands } from "@akasha/testing-system/putting"
+import { put, there } from "@akasha/testing-system/putting"
 import { indexIn } from "../index-surface/index-surface.module.code.ts"
 import {
   generatedProperties,
@@ -83,7 +83,7 @@ function heldBody(said: string): string {
 
 function patchOver(root: string, changes: ReadonlyMap<string, string | null>): Change {
   const was = (path: string): Uint8Array | null =>
-    stands(root, path) ? readFileSync(join(root, path)) : null
+    there(root, path) ? readFileSync(join(root, path)) : null
   return {
     root,
     changed: [...changes.keys()].sort(),

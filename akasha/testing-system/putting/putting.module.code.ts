@@ -8,6 +8,6 @@ export function put(root: string, path: string, body: string): string {
   return at
 }
 
-export function stands(root: string, path: string): boolean {
+export function there(root: string, path: string): boolean {
   return existsSync(join(root, path))
 }

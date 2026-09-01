@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { put, stands } from "@akasha/testing-system/putting"
+import { put, there } from "@akasha/testing-system/putting"
 import { move } from "../move.command.code.ts"
 import {
   bareDir,
@@ -163,9 +163,9 @@ test("a folder named for a move carries every file under it and lands as one com
   expect(told(said)).toContain("3 files under a folder you named went with it")
   expect(told(said)).toContain("git holds no empty folder")
   expect(bodyIn(root, HELD_AT)).toBe(PAGE)
-  expect(stands(root, HOLDER_AT)).toBe(true)
-  expect(stands(root, NESTED_AT)).toBe(true)
-  expect(stands(root, FOLDER)).toBe(false)
+  expect(there(root, HOLDER_AT)).toBe(true)
+  expect(there(root, NESTED_AT)).toBe(true)
+  expect(there(root, FOLDER)).toBe(false)
   expect(bodyIn(root, HOLDER_AT)).toContain('from "../../two/other.module.code.ts"')
   expect(git(root, ["rev-list", "--count", `${was}..HEAD`]).trim()).toBe("1")
 })
@@ -178,7 +178,7 @@ test("a dry run over a folder names it and carries nothing", () => {
   expect(told(said)).toContain(`${FOLDER} would move to ${FOLDER_AT}`)
   expect(told(said)).toContain("under a folder you named would go with it")
   expect(told(said)).toContain("would be left empty")
-  expect(stands(root, FOLDER_AT)).toBe(false)
-  expect(stands(root, HELD)).toBe(true)
+  expect(there(root, FOLDER_AT)).toBe(false)
+  expect(there(root, HELD)).toBe(true)
   expect(head(root)).toBe(was)
 })

@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { refusing } from "@akasha/testing-system/minting"
-import { stands } from "@akasha/testing-system/putting"
+import { there } from "@akasha/testing-system/putting"
 import { readingIn, recordRead } from "../../reading/reading.module.code.ts"
 import { emptiedBy, namedIn, pruneEmptied, remove, wouldEmpty } from "./remove.command.code.ts"
 import {
@@ -31,7 +31,7 @@ test("named paths are taken away and the removal is committed", () => {
   const said = remove(naming(HELD), givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  expect(stands(root, HELD)).toBe(false)
+  expect(there(root, HELD)).toBe(false)
   expect(git(root, ["ls-files"]).trim()).toBe("akasha/one/kept.module.ts")
   expect(said.report[0]).toBe(`${HELD} taken away`)
   expect(said.report.join("\n")).not.toContain("took away ")
@@ -45,7 +45,7 @@ test("a path that is not there is already gone, and what does stand is still tak
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe(`${HELD} taken away`)
   expect(said.report.join("\n")).toContain(`${GONE} was already gone`)
-  expect(stands(root, HELD)).toBe(false)
+  expect(there(root, HELD)).toBe(false)
 })
 
 test("a removal forgets the reading of what went, for every agent holding one", () => {
@@ -68,7 +68,7 @@ test("naming a path already gone forgets its reading and commits nothing", () =>
   expect(said.report.join("\n")).toContain(`${GONE} was already gone`)
   expect(said.report.join("\n")).toContain("nothing stood to be taken away")
   expect(readingIn(root, AGENT, GONE)).toBeNull()
-  expect(stands(root, HELD)).toBe(true)
+  expect(there(root, HELD)).toBe(true)
   expect(head(root)).toBe(was)
 })
 
@@ -86,7 +86,7 @@ test("a directory holding no tracked file is refused", () => {
   const said = remove(naming("akasha/empty"), givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("git holds no file under")
-  expect(stands(root, "akasha/empty")).toBe(true)
+  expect(there(root, "akasha/empty")).toBe(true)
 })
 
 test("a page's sidecars go with it without being named", () => {
@@ -98,8 +98,8 @@ test("a page's sidecars go with it without being named", () => {
   })
   const said = remove(naming(HELD), givenIn(root))
   expect(said.refusals).toEqual([])
-  expect(stands(root, BESIDE)).toBe(false)
-  expect(stands(root, "akasha/one/held.module.test.ts")).toBe(false)
+  expect(there(root, BESIDE)).toBe(false)
+  expect(there(root, "akasha/one/held.module.test.ts")).toBe(false)
   expect(said.report.join("\n")).toContain("stood beside what you named")
   expect(git(root, ["ls-files"]).trim()).toBe("akasha/one/kept.module.ts")
 })
@@ -108,9 +108,9 @@ test("a directory the removal leaves empty goes with it", () => {
   const root = repoWith({ [DEEP]: BODY, [KEPT]: BODY })
   const said = remove(naming(DEEP), givenIn(root))
   expect(said.refusals).toEqual([])
-  expect(stands(root, "akasha/one/deep")).toBe(false)
-  expect(stands(root, "akasha/one")).toBe(false)
-  expect(stands(root, "akasha")).toBe(true)
+  expect(there(root, "akasha/one/deep")).toBe(false)
+  expect(there(root, "akasha/one")).toBe(false)
+  expect(there(root, "akasha")).toBe(true)
   expect(said.report.join("\n")).toContain("git holds no empty directory")
 })
 
@@ -120,9 +120,9 @@ test("a refused removal leaves nothing behind, and takes none of the paths it co
   const was = head(root)
   const said = remove(naming(HELD, "akasha/empty"), givenIn(root))
   expect(said.code).toBe(1)
-  expect(stands(root, HELD)).toBe(true)
-  expect(stands(root, BESIDE)).toBe(true)
-  expect(stands(root, "akasha/empty")).toBe(true)
+  expect(there(root, HELD)).toBe(true)
+  expect(there(root, BESIDE)).toBe(true)
+  expect(there(root, "akasha/empty")).toBe(true)
   expect(head(root)).toBe(was)
 })
 
@@ -133,7 +133,7 @@ test("a check that refuses a deletion stops the removal, and nothing is taken aw
   const said = remove(naming(HELD), givenIn(root))
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("refused for the test")
-  expect(stands(root, HELD)).toBe(true)
+  expect(there(root, HELD)).toBe(true)
   expect(head(root)).toBe(was)
 })
 
@@ -142,7 +142,7 @@ test("a path standing outside the akasha folder, or named twice, is refused", ()
   const out = remove(naming("elsewhere/held.ts"), givenIn(root))
   expect(out.code).toBe(1)
   expect(out.refusals[0]).toContain("is not under `akasha/`")
-  expect(stands(root, "elsewhere/held.ts")).toBe(true)
+  expect(there(root, "elsewhere/held.ts")).toBe(true)
   const twice = remove(naming(HELD, HELD), givenIn(root))
   expect(twice.code).toBe(1)
   expect(twice.refusals[0]).toContain("named more than once")
@@ -190,13 +190,13 @@ test("a dry run takes nothing away and writes nothing at all", () => {
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(said.report.join("\n")).toContain("nothing was written")
-  expect(stands(root, DEEP)).toBe(true)
-  expect(stands(root, "akasha/one/deep")).toBe(true)
+  expect(there(root, DEEP)).toBe(true)
+  expect(there(root, "akasha/one/deep")).toBe(true)
   expect(head(root)).toBe(was)
   expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
   const then = remove(argv, givenIn(root))
   expect(then.refusals).toEqual([])
-  expect(stands(root, "akasha/one")).toBe(false)
+  expect(there(root, "akasha/one")).toBe(false)
   expect(git(root, ["ls-files"]).trim()).toBe(KEPT)
   expect(head(root)).not.toBe(was)
 })
@@ -227,7 +227,7 @@ test("a dry run over a removal the checks refuse reports the refusal and takes n
   const said = remove([...naming(HELD), "--dry-run"], givenIn(root))
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("refused for the test")
-  expect(stands(root, HELD)).toBe(true)
+  expect(there(root, HELD)).toBe(true)
 })
 
 test("breaking the glass takes away what the checks refuse, and only breaking it does", () => {
@@ -237,7 +237,7 @@ test("breaking the glass takes away what the checks refuse, and only breaking it
   const gated = remove([...naming(HELD), "--message", "held goes"], givenIn(root))
   expect(gated.code).toBe(3)
   expect(gated.refusals.join("\n")).toContain("refused for the test")
-  expect(stands(root, HELD)).toBe(true)
+  expect(there(root, HELD)).toBe(true)
   expect(head(root)).toBe(was)
 
   const said = remove(
@@ -249,7 +249,7 @@ test("breaking the glass takes away what the checks refuse, and only breaking it
   expect(said.report.join("\n")).toContain(
     "no check ran — the glass was broken for: the check is wrong"
   )
-  expect(stands(root, HELD)).toBe(false)
+  expect(there(root, HELD)).toBe(false)
   expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe("held goes")
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe(
     "held goes\n\nChecks-bypassed: the check is wrong"
@@ -271,7 +271,7 @@ test("breaking the glass with no reason, or alongside a dry run, is refused", ()
   expect(both.refusals[0]).toBe(
     "--dry-run reports what the checks say and --break-the-glass runs none, so together they report nothing"
   )
-  expect(stands(root, HELD)).toBe(true)
+  expect(there(root, HELD)).toBe(true)
 })
 
 test("what a dry run says would be emptied is what the removal empties", () => {
@@ -298,7 +298,7 @@ test("a message is read from a file and trimmed, and stated twice over or empty 
   const empty = remove([...naming(HELD), "--message-file", at], givenIn(root))
   expect(empty.code).toBe(1)
   expect(empty.refusals[0]).toContain("the message given is empty")
-  expect(stands(root, HELD)).toBe(true)
+  expect(there(root, HELD)).toBe(true)
   writeFileSync(at, "  taken by a file  \n")
   const said = remove([...naming(HELD), "--message-file", at], givenIn(root))
   expect(said.refusals).toEqual([])
