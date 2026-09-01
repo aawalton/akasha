@@ -1,6 +1,6 @@
 import { z } from "zod"
-import { wordCount } from "../../word-count/word-count.module.code.ts"
 import { BeatSchema } from "../beat-schema/beat-schema.module.code.ts"
+import { wordCount } from "../word-count/word-count.module.code.ts"
 
 export interface DerivedTurn {
   readonly externalId: string
