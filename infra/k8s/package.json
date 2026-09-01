@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@infra/k8s-types": "workspace:*",
-    "@shared/supabase-client": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "cdk8s": "^2.70.60",
     "yaml": "^2.8.0",

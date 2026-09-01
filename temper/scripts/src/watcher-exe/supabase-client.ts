@@ -1,4 +1,4 @@
-import { createClient, type SupabaseUserClient } from "@shared/supabase-client/client"
+import { createClient, type SupabaseUserClient } from "@akasha/supabase-client/user-client"
 import { z } from "zod"
 import { authenticate, loadConfig, SESSION_STORAGE_KEY, saveConfig } from "./auth"
 import { log, logError } from "./logger"

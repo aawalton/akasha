@@ -103,12 +103,6 @@
         "**/*.ts"
       ]
     },
-    "shared/supabase-client": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "shared/supabase-rr": {
       "entry": [
         "**/*.test.{ts,tsx}"
