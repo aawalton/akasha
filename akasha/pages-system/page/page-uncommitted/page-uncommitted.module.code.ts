@@ -85,7 +85,7 @@ export function bodyFor(page: string, values: Value): string {
   return `export const ${nameFor(page)} = ${JSON.stringify(values, null, 2)} as const\n`
 }
 
-function standingIn(full: string, at: string): Value | null {
+function valuesIn(full: string, at: string): Value | null {
   if (!existsSync(full)) return null
   const held = loadedFrom(readFileSync(full, "utf8"))
   if (held.failed !== null) {
@@ -104,7 +104,7 @@ function standingIn(full: string, at: string): Value | null {
 export function uncommittedIn(root: string, page: string): Value | null {
   const at = uncommittedAt(page)
   if (at === null) return null
-  return standingIn(join(root, at), at)
+  return valuesIn(join(root, at), at)
 }
 
 function besideOr(page: string): string {
@@ -130,7 +130,7 @@ export function mergeUncommitted(root: string, page: string, values: Value): und
   const at = besideOr(page)
   const full = join(root, at)
   exclusively(full, () => {
-    writtenAt(full, page, { ...(standingIn(full, at) ?? {}), ...values })
+    writtenAt(full, page, { ...(valuesIn(full, at) ?? {}), ...values })
   })
 }
 
@@ -139,7 +139,7 @@ export function dropUncommitted(root: string, page: string, keys: readonly strin
   if (at === null) return
   const full = join(root, at)
   exclusively(full, () => {
-    const held = standingIn(full, at)
+    const held = valuesIn(full, at)
     if (held === null) return
     const kept: Value = { ...held }
     let dropped = false
