@@ -1,0 +1,19 @@
+{
+  "name": "@akasha/chess-core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./chess-engine": "./chess-engine/chess-engine.module.code.ts",
+    "./chess-uci": "./chess-uci/chess-uci.module.code.ts",
+    "./chess-position": "./chess-position/chess-position.module.code.ts",
+    "./chess-maia": "./chess-maia/chess-maia.module.code.ts",
+    "./chess-game": "./chess-game/chess-game.module.code.ts",
+    "./chess-game-loop": "./chess-game-loop/chess-game-loop.module.code.ts",
+    "./chess-game-record": "./chess-game-record/chess-game-record.module.code.ts"
+  },
+  "dependencies": {
+    "@shared/errors-core": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
