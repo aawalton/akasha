@@ -171,14 +171,14 @@ test("a caller that waits out the hold is refused, and the landing it would have
 test("a hold is released however the act inside it ends, so one failure wedges nothing after it", () => {
   const root = repoWith({ "one.txt": "committed" })
   const at = join(root, LOCK_AT)
-  let stood = false
+  let heldInside = false
   expect(() =>
     holding(root, () => {
-      stood = existsSync(at)
+      heldInside = existsSync(at)
       throw new Error("thrown for the test")
     })
   ).toThrow("thrown for the test")
-  expect(stood).toBe(true)
+  expect(heldInside).toBe(true)
   expect(existsSync(at)).toBe(false)
   const throwing: Judging = {
     named: ["throwing"],
