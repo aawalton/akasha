@@ -9,7 +9,7 @@
     "./email-address-property": "./email-address-property/email-address-property.page-type.ts",
     "./file-property": "./file-property/file-property.page-type.ts",
     "./generator-kind": "./generator-kind/generator-kind.page-type.ts",
-    "./generator-kind/uuid-v7": "./generator-kind/generator-kinds/uuid-v7.generator-kind.ts",
+    "./generator-kind/uuid-v7": "./generator-kind/pages/uuid-v7.generator-kind.ts",
     "./instant-property": "./instant-property/instant-property.page-type.ts",
     "./markdown-document": "./page/markdown-document/markdown-document.module.code.ts",
     "./markdown-page-at": "./page/markdown-page-at/markdown-page-at.module.code.ts",
