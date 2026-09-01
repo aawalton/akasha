@@ -11,9 +11,13 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages reading and writing pages stand in akasha.",
       workingMemory:
-        "`@akasha/pages-access` stands at 387a8ccb47, its carry proven by 422 comparisons of old against new whose only 2 differences are the rename inside an error message. `@akasha/pages-core` stands with 128 module pages. `shared/pages-access-old` is cleared. Left: pages-url at 4 files and 116 reaches, pages-system at 55 and 15, pages-ui at 296 and 130. pages-query waits on the root page engine, see its finding.",
+        "`@akasha/pages-access` and `@akasha/pages-core` stand, the first proven by 422 comparisons whose only 2 differences are a rename inside an error message. `pages-access-old` is cleared, and `@akasha/pages-url` stands. `@akasha/pages-ui` stands and takes slices: its cost is 291 slugs and definitions rather than its 296 files, and 98 of those import nothing else inside it. pages-system has a lane. pages-query waits on the root page engine, see its finding.",
     },
-    { statement: "The packages Alan's own work rests on stand in akasha." },
+    {
+      statement: "The packages Alan's own work rests on stand in akasha.",
+      workingMemory:
+        "Nine folders left under `alanwalton/`, and none of them has a relative escape, so nothing is blocked. The Google five landed, and a sixth with them: three held one byte-identical parser, so `@akasha/google-oauth` holds it once. `imessage` landed but nothing reaches it and six callers still name the old package, so a package standing under akasha is not yet a package moved.",
+    },
     {
       statement: "The design packages stand in akasha.",
       workingMemory:
