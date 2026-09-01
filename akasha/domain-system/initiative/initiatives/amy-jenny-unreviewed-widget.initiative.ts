@@ -47,7 +47,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "His widget compiles. With `www` staged, `ios-app build alanwalton --www <dir>` exits 0 with BUILD_SIM_OK: BUILD SUCCEEDED, no error, 15 components into ValuesWidgetExtension, `alanwalton-widget-feed` among them, so its `HELD_FOR` and `takenAt` are proven; the two warnings are old AppDelegate captures. Staging is still by hand and that is filed. Nothing but the reading is left: `MONARCH_COOKIE` is dead and only Alan can mint another.",
+        "His widget compiles. With `www` staged, `ios-app build alanwalton --www <dir>` exits 0 with BUILD_SIM_OK: BUILD SUCCEEDED, no error, all 21 components into ValuesWidgetExtension, `alanwalton-widget-feed` among them, so its `HELD_FOR` and `takenAt` are proven; the two warnings are old AppDelegate captures. Staging is still by hand and that is filed. Nothing but the reading is left: `MONARCH_COOKIE` is dead and only Alan can mint another.",
     },
     {
       statement: "Jenny's site deploys from akasha.",
