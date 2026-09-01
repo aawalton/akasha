@@ -1,17 +1,17 @@
 export const summary = "Import Alan's HealthKit history (active energy, steps) from an Apple Health export on the macbook into the raw sample store"
 
 import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
-import { buildFetchScript } from "@alanwalton/elaine-cli/lib/health-export"
-import { IMPORT_METRICS } from "@alanwalton/elaine-cli/lib/health-import"
-import { importReading } from "@alanwalton/elaine-cli/lib/health-import-reading"
+import { buildFetchScript } from "@akasha/health-samples-import/health-export"
+import { IMPORT_METRICS } from "@akasha/health-samples-import/health-import"
+import { importReading } from "@akasha/health-samples-import/health-import-reading"
 import {
   type ImportOutcome,
   MAX_IMPORT_BATCH,
   NO_LOWER_BOUND,
   runHealthImport,
-} from "@alanwalton/elaine-cli/lib/health-import-run"
-import { MACBOOK } from "@alanwalton/elaine-cli/lib/host"
-import { streamSshLines } from "@alanwalton/elaine-cli/lib/ssh"
+} from "@akasha/health-samples-import/health-import-run"
+import { MACBOOK } from "@akasha/health-samples-import/laptop-host"
+import { streamSshLines } from "@akasha/health-samples-import/ssh-streaming"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { emitReading } from "../../lib/reading-channel.ts"
@@ -144,6 +144,7 @@ export default async function elaineHealthImport(args: readonly string[]): Promi
         process.stderr.write(
           `  batch ${p.batches}: ${p.samplesWritten} samples, ${p.recordLines} record lines read\n`
         )
+        return undefined
       },
     },
     {

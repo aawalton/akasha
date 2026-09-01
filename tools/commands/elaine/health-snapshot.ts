@@ -1,12 +1,12 @@
 
 export const summary = "Read a current Apple Health snapshot (HRV, resting HR, SpO2, sleep, steps) off the macbook on demand"
 
-import { fetchHealthExport } from "@alanwalton/elaine-cli/lib/remote"
+import { fetchHealthExport } from "@akasha/health-samples-import/export-fetching"
 import {
   formatSnapshot,
   SNAPSHOT_METRICS,
   summarizeSnapshot,
-} from "@alanwalton/elaine-cli/lib/snapshot"
+} from "@akasha/health-samples-import/health-snapshot"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
