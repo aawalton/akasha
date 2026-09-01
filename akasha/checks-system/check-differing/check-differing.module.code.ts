@@ -51,6 +51,7 @@ export type Row = {
   readonly runsOn: readonly Phase[]
   readonly state: State
   readonly ran: number
+  readonly spoke: boolean
 }
 
 export type Seen = {
@@ -86,6 +87,7 @@ export function differed(one: readonly string[], two: readonly string[]): boolea
 
 type Taken = {
   readonly ran: ReadonlySet<string>
+  readonly spoke: ReadonlySet<string>
   readonly moved: readonly Shown[]
 }
 
@@ -108,13 +110,15 @@ function takenOver(root: string, every: readonly Gathered[], scenario: Scenario)
     bodiesAs(root, pristine)
   }
   const moved: Shown[] = []
+  const spoke = new Set<string>()
   for (const one of each) {
     const said = agreeing.get(one.slug) ?? []
     const other = against.get(one.slug) ?? []
+    if (said.length > 0 || other.length > 0) spoke.add(one.slug)
     if (!differed(said, other)) continue
     moved.push({ slug: one.slug, scenario: scenario.named, agreeing: said, contradicting: other })
   }
-  return { ran, moved }
+  return { ran, spoke, moved }
 }
 
 export function reachingFor(
@@ -150,6 +154,7 @@ export function differingOver(
   scenarios: readonly Scenario[]
 ): Seen {
   const ran = new Map<string, number>()
+  const spoke = new Set<string>()
   const moved = new Set<string>()
   const shown: Shown[] = []
   const named: string[] = []
@@ -162,6 +167,7 @@ export function differingOver(
     }
     named.push(scenario.named)
     for (const slug of taken.ran) ran.set(slug, (ran.get(slug) ?? 0) + 1)
+    for (const slug of taken.spoke) spoke.add(slug)
     for (const one of taken.moved) {
       moved.add(one.slug)
       shown.push(one)
@@ -173,6 +179,7 @@ export function differingOver(
     runsOn: one.runsOn,
     state: stateOf(one.slug, seen, moved),
     ran: ran.get(one.slug) ?? 0,
+    spoke: spoke.has(one.slug),
   }))
   return { rows, scenarios: named, dropped, shown }
 }
@@ -202,7 +209,9 @@ function saidOver(said: readonly string[]): readonly string[] {
 
 function rowOf(one: Row): string {
   const phases = one.runsOn.length === 0 ? "no phase" : one.runsOn.join(",")
-  return `${one.state.padEnd(STATE_WIDE)}${one.slug.padEnd(SLUG_WIDE)}ran on ${one.ran} — ${phases}`
+  const said = one.spoke ? "refused something" : "refused nothing"
+  const over = `ran on ${one.ran}, ${said}`
+  return `${one.state.padEnd(STATE_WIDE)}${one.slug.padEnd(SLUG_WIDE)}${over} — ${phases}`
 }
 
 export function reportOf(seen: Seen): readonly string[] {
@@ -210,7 +219,9 @@ export function reportOf(seen: Seen): readonly string[] {
   for (const one of seen.scenarios) said.push(`  ${one}`)
   for (const one of seen.dropped) said.push(`  dropped, casting no shadow: ${one}`)
   const measured = seen.rows.filter((one) => one.state !== NEVER)
-  said.push("", `coverage: ${measured.length} of ${seen.rows.length} checks were measured`, "")
+  const spoke = measured.filter((one) => one.spoke)
+  said.push("", `coverage: ${measured.length} of ${seen.rows.length} checks were measured`)
+  said.push(`${spoke.length} of those ${measured.length} refused something in one reading`, "")
   for (const state of [MOVED, HELD, NEVER]) {
     for (const one of seen.rows.filter((row) => row.state === state)) said.push(rowOf(one))
   }
