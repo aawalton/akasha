@@ -14,7 +14,6 @@ import { type BoolExpr, conditionToExpr } from "../condition-expr/condition-expr
 
 const DEFAULT_LIMIT = 1000
 const ALIAS = "p"
-const noop = (): undefined => {}
 
 export interface RegularResult {
   readonly rows: readonly PageRow[]
@@ -142,7 +141,7 @@ export function createRegularPipeline(
       totalCount: sorted.length,
       isLoading: false,
       hasMore: false,
-      loadMore: noop,
+      loadMore: () => undefined,
       error: null,
     }
   }
