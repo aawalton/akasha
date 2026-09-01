@@ -1,7 +1,7 @@
 "use client"
 
-import { getPages } from "@shared/pages-access/get"
-import { NEVER_MATCH_VALUE } from "@shared/pages-access/sentinels"
+import { getPages } from "@akasha/pages-access/get"
+import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { type PageWhere } from "@akasha/pages-core/page-types"
 import { FILE_BACKING_POLL_MS } from "@akasha/pages-ui-store/collection/fetch-attach"
 import { getContentPersistence } from "@akasha/pages-ui-store/singleton"

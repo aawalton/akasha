@@ -5,8 +5,8 @@ import {
 import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import { type ObjectStore } from "@shared/object-store"
 import { hlsPlaylistObjectKey } from "@shared/object-store/keys"
-import { getPage } from "@shared/pages-access/get"
-import { getMediaConfig } from "@shared/pages-access/page-type-config"
+import { getPage } from "@akasha/pages-access/get"
+import { getMediaConfig } from "@akasha/pages-access/page-type-config"
 import { parseHlsExtinf } from "./hls-extinf"
 
 async function readReadAloudPlaylist(

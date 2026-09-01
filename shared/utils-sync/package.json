@@ -12,7 +12,7 @@
     "typecheck": "bunx @typescript/native-preview -b"
   },
   "dependencies": {
-    "@shared/pages-access": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
     "@shared/supabase-server": "workspace:*"

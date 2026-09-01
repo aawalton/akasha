@@ -2,7 +2,7 @@
   "name": "@temper/game-companions-ui",
   "dependencies": {
     "@shared/auth": "workspace:*",
-    "@shared/pages-access": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@shared/supabase-rr": "workspace:*",

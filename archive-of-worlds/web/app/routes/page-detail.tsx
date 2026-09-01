@@ -1,5 +1,5 @@
-import { getPageByIdSuffix, getPageByIdSuffixAcrossTypes } from "@shared/pages-access/get"
-import { getDescendantPageTypeSlugs } from "@shared/pages-access/page-type"
+import { getPageByIdSuffix, getPageByIdSuffixAcrossTypes } from "@akasha/pages-access/get"
+import { getDescendantPageTypeSlugs } from "@akasha/pages-access/page-type"
 import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"

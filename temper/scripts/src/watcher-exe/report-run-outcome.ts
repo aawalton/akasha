@@ -1,5 +1,5 @@
-import { getPage } from "@shared/pages-access/get"
-import { patchPageById } from "@shared/pages-access/patch"
+import { getPage } from "@akasha/pages-access/get"
+import { patchPageById } from "@akasha/pages-access/patch"
 import { z } from "zod"
 import { logError } from "./logger"
 import {

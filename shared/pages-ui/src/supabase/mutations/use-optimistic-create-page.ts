@@ -1,4 +1,4 @@
-import type { CreatePageArgs } from "@shared/pages-access/create"
+import type { CreatePageArgs } from "@akasha/pages-access/create"
 import type { Page } from "@akasha/pages-core/page-types"
 import { type PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
 import { getPagesStore } from "@akasha/pages-ui-store/singleton"

@@ -1,4 +1,4 @@
-import { getPageTypeByPluralSlug } from "@shared/pages-access/page-type"
+import { getPageTypeByPluralSlug } from "@akasha/pages-access/page-type"
 import { PagesFilteredContent } from "@shared/pages-ui/components/pages-by-relation-content"
 import { PageTypeSlug } from "@shared/pages-url"
 import { getUser } from "@shared/supabase-rr/auth/server"

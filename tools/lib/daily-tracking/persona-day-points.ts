@@ -1,6 +1,6 @@
 import { z } from "zod"
 import { askComposed, DEFAULT_GREEN_DAY_POINTS, kebabKey, WRITER } from "./tracking-modules.ts"
-import { upsertPage } from "@shared/pages-access/upsert"
+import { upsertPage } from "@akasha/pages-access/upsert"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 import type { WriteOutcome } from "./tracking-types.ts"
 

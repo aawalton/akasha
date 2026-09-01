@@ -1,6 +1,6 @@
 "use client"
 
-import type { PageOrder, PageSelect } from "@shared/pages-access/types"
+import type { PageOrder, PageSelect } from "@akasha/pages-access/types"
 import type { Page, PageWhere } from "@akasha/pages-core/page-types"
 import { useQuery } from "../cache/use-query"
 

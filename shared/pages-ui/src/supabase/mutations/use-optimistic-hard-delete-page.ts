@@ -1,4 +1,4 @@
-import type { DeletePageArgs } from "@shared/pages-access/delete"
+import type { DeletePageArgs } from "@akasha/pages-access/delete"
 import type { Page } from "@akasha/pages-core/page-types"
 import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
 import { runOptimisticMutation } from "./apply-prediction"

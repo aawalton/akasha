@@ -8,9 +8,9 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
-    "@alanwalton/health-samples-access": "workspace:*",
+    "@akasha/health-samples-access": "workspace:*",
     "@akasha/personas-core": "workspace:*",
-    "@shared/pages-access": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@shared/pages-query": "workspace:*",
     "@shared/recurrence": "workspace:*",

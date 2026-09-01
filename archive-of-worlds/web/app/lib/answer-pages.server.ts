@@ -1,4 +1,4 @@
-import { answerPages as answerFrom, pagesDeps } from "@shared/pages-access/answer"
+import { answerPages as answerFrom, pagesDeps } from "@akasha/pages-access/answer"
 import { getUser } from "@shared/supabase-rr/auth/server"
 
 const DEPS = pagesDeps(getUser)

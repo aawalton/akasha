@@ -1,6 +1,6 @@
 "use client"
 
-import { recordPageView } from "@shared/pages-access/patch"
+import { recordPageView } from "@akasha/pages-access/patch"
 import type { PageTypeSlug } from "@shared/pages-url"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { useEffect, useRef } from "react"

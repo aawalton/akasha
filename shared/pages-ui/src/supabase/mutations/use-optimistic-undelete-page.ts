@@ -1,4 +1,4 @@
-import type { DeletePageArgs } from "@shared/pages-access/delete"
+import type { DeletePageArgs } from "@akasha/pages-access/delete"
 import type { Page } from "@akasha/pages-core/page-types"
 
 export function useOptimisticUndeletePage(mutate: (args: DeletePageArgs) => Promise<Page | null>) {

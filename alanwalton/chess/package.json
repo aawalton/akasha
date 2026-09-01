@@ -3,7 +3,7 @@
   "functionalType": "io",
   "dependencies": {
     "@shared/errors-core": "workspace:*",
-    "@shared/pages-access": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@shared/utils-sync": "workspace:*",

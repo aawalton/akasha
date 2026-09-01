@@ -1,6 +1,6 @@
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { getPageByIdSuffix } from "@shared/pages-access/get"
-import { getPagesByRelation } from "@shared/pages-access/get-by-relation"
+import { getPageByIdSuffix } from "@akasha/pages-access/get"
+import { getPagesByRelation } from "@akasha/pages-access/get-by-relation"
 import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { data } from "react-router"

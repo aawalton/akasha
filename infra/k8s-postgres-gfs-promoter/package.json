@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@infra/k8s-types": "workspace:*",
-    "@shared/pages-access": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   },

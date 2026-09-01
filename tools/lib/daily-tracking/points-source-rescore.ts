@@ -6,7 +6,7 @@ import {
   textOf,
   WRITER,
 } from "./tracking-modules.ts"
-import { upsertPage } from "@shared/pages-access/upsert"
+import { upsertPage } from "@akasha/pages-access/upsert"
 import { personaDaySlug, PERSONA_DAY_PAGE_TYPE_SLUG } from "./persona-day-points.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 

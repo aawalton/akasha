@@ -1,5 +1,5 @@
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { collectPages } from "@shared/pages-access/iterate"
+import { collectPages } from "@akasha/pages-access/iterate"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { data } from "react-router"
 import { z } from "zod"

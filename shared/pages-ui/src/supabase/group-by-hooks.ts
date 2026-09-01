@@ -1,6 +1,6 @@
 "use client"
 
-import type { PageOrder } from "@shared/pages-access/types"
+import type { PageOrder } from "@akasha/pages-access/types"
 import type { Page, PageCondition, PageWhere } from "@akasha/pages-core/page-types"
 import { type PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import { type GroupGranularity, type ViewFilter } from "@akasha/pages-core/schema/view-data"

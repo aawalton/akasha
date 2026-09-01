@@ -1,6 +1,6 @@
 "use client"
 
-import type { PageOrder } from "@shared/pages-access/types"
+import type { PageOrder } from "@akasha/pages-access/types"
 import type { PageCondition, PageWhere } from "@akasha/pages-core/page-types"
 import { type PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import { getCrossTypePredicate } from "@akasha/pages-core/schema/cross-type-predicates"

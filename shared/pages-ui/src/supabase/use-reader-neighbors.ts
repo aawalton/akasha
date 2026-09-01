@@ -1,7 +1,7 @@
 "use client"
 
-import { getPages } from "@shared/pages-access/get"
-import { getOrderedNeighbors } from "@shared/pages-access/ordered"
+import { getPages } from "@akasha/pages-access/get"
+import { getOrderedNeighbors } from "@akasha/pages-access/ordered"
 import { type Page } from "@akasha/pages-core/page-types"
 import { buildPageHref, type PageTypeSlug } from "@shared/pages-url"
 import { useSupabase } from "@shared/supabase-rr/provider"

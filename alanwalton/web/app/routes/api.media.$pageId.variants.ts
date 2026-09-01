@@ -1,4 +1,4 @@
-import { getPage } from "@shared/pages-access/get"
+import { getPage } from "@akasha/pages-access/get"
 import { resolveMediaVariants } from "~/lib/media-variants"
 import type { Route } from "./+types/api.media.$pageId.variants"
 

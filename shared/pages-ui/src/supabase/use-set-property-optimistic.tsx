@@ -1,6 +1,6 @@
 "use client"
 
-import { type PatchPageArgs, patchPage } from "@shared/pages-access/patch"
+import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { isJson } from "@shared/utils-narrow/is-json"
 import { useCallback, useMemo } from "react"

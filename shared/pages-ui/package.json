@@ -54,7 +54,7 @@
     "@shared/design-primitives": "workspace:*",
     "@shared/errors-client": "workspace:*",
     "@shared/object-store": "workspace:*",
-    "@shared/pages-access": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
     "@shared/pages-url": "workspace:*",

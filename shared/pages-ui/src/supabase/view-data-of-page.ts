@@ -1,4 +1,4 @@
-import { camelizeKey } from "@shared/pages-access/file-rows"
+import { camelizeKey } from "@akasha/pages-access/file-rows"
 import { parseViewDataJSON, type ViewDataJSON, type ViewFilter, type ViewLayout, type ViewSort } from "@akasha/pages-core/schema/view-data"
 import { pageQueryTimeIn } from "@akasha/pages-core/view/page-query-times"
 import * as z from "zod"

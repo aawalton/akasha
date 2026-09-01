@@ -1,6 +1,6 @@
 "use client"
 
-import { patchPage } from "@shared/pages-access/patch"
+import { patchPage } from "@akasha/pages-access/patch"
 import { type RichDocument } from "@akasha/pages-core/property-types/rich-document"
 import {
   applyEditorOp,

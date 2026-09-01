@@ -1,4 +1,4 @@
-import { PROMOTED_COLUMN_KEYS } from "@shared/pages-access/routing-core"
+import { PROMOTED_COLUMN_KEYS } from "@akasha/pages-access/routing-core"
 import type { PageRow } from "@akasha/pages-ui-store/collection/page-row"
 
 export function buildPredictedRow(

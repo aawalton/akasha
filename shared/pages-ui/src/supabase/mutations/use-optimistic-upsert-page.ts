@@ -1,4 +1,4 @@
-import type { UpsertPageArgs } from "@shared/pages-access/upsert"
+import type { UpsertPageArgs } from "@akasha/pages-access/upsert"
 import type { Page } from "@akasha/pages-core/page-types"
 import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
 import { runOptimisticMutation } from "./apply-prediction"

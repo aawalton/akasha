@@ -1,5 +1,5 @@
-import { getPages } from "@shared/pages-access/get"
-import { upsertPage } from "@shared/pages-access/upsert"
+import { getPages } from "@akasha/pages-access/get"
+import { upsertPage } from "@akasha/pages-access/upsert"
 import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role"
 import { asRecord } from "../../../../shared/utils-narrow/src/as-record"
 import type {

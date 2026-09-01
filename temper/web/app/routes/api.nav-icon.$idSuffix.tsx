@@ -1,4 +1,4 @@
-import { getPageByIdSuffix } from "@shared/pages-access/get"
+import { getPageByIdSuffix } from "@akasha/pages-access/get"
 import { PageTypeSlug } from "@shared/pages-url"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { buildNavIconSvg } from "@/lib/nav-icon-svg"

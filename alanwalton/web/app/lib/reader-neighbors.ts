@@ -1,4 +1,4 @@
-import { getOrderedNeighbors } from "@shared/pages-access/ordered"
+import { getOrderedNeighbors } from "@akasha/pages-access/ordered"
 import { type Page } from "@akasha/pages-core/page-types"
 import type { ReaderNeighborLink } from "@shared/pages-ui/components/reader-chrome"
 import { buildPageHref, type PageTypeSlug } from "@shared/pages-url"

@@ -5,7 +5,7 @@
     "@akasha/design-layout": "workspace:*",
     "@shared/design-primitives": "workspace:*",
     "@shared/design-system": "workspace:*",
-    "@shared/pages-access": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@shared/supabase-rr": "workspace:*",

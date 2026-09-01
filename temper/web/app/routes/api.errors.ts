@@ -1,6 +1,6 @@
 import { computeFingerprint } from "../../../../shared/errors-core/src/fingerprint"
 import { ErrorReportSchema } from "../../../../shared/errors-core/src/schema"
-import { captureError, type ErrorCapturePayload } from "@shared/pages-access/capture-error"
+import { captureError, type ErrorCapturePayload } from "@akasha/pages-access/capture-error"
 import type { Route } from "./+types/api.errors"
 
 export async function action({ request }: Route.ActionArgs): Promise<Response> {

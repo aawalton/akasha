@@ -1,4 +1,4 @@
-import type { PatchPageArgs } from "@shared/pages-access/patch"
+import type { PatchPageArgs } from "@akasha/pages-access/patch"
 import type { Page } from "@akasha/pages-core/page-types"
 import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
 import type { InteractionToken } from "../../perf/page-card-perf.ts"

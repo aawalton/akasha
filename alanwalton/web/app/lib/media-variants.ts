@@ -1,7 +1,7 @@
 import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import { seaweedFSObjectStoreFromEnv } from "@shared/object-store"
 import { mediaRenderObjectKey } from "@shared/object-store/keys"
-import { getPage } from "@shared/pages-access/get"
+import { getPage } from "@akasha/pages-access/get"
 import { type Page } from "@akasha/pages-core/page-types"
 import { MEDIA_FORMATS } from "@akasha/pages-core/media-formats"
 import { type Asked, askNamed } from "@shared/pages-query"

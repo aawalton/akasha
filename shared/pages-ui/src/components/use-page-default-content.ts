@@ -1,6 +1,6 @@
 "use client"
 
-import { patchPropertyDefinitionById } from "@shared/pages-access/property-definition"
+import { patchPropertyDefinitionById } from "@akasha/pages-access/property-definition"
 import { type IconName } from "@akasha/pages-core/generated/icon-search-index"
 import { computeAggregatesForPage } from "@akasha/pages-core/property-types/aggregate"
 import { type PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"

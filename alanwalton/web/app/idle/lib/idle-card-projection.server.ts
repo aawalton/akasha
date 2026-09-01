@@ -1,4 +1,4 @@
-import { captureError } from "@shared/pages-access/capture-error"
+import { captureError } from "@akasha/pages-access/capture-error"
 import { patchPage } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import type { Catalog } from "~/idle/lib/catalog"

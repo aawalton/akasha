@@ -1,4 +1,4 @@
-import { upsertPage } from "@shared/pages-access/upsert"
+import { upsertPage } from "@akasha/pages-access/upsert"
 import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role"
 import { asRecord } from "../../../../shared/utils-narrow/src/as-record"
 import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"

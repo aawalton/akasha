@@ -28,7 +28,7 @@
     "@shared/errors-core": "workspace:*",
     "@shared/geo-io": "workspace:*",
     "@shared/object-store": "workspace:*",
-    "@shared/pages-access": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",

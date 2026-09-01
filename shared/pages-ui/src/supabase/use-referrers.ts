@@ -1,6 +1,6 @@
 "use client"
 
-import { getPages } from "@shared/pages-access/get"
+import { getPages } from "@akasha/pages-access/get"
 import { type PageWhere } from "@akasha/pages-core/page-types"
 import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import { useSupabase } from "@shared/supabase-rr/provider"

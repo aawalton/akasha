@@ -1,6 +1,6 @@
 import { createHash, timingSafeEqual } from "node:crypto"
-import { getPage } from "@shared/pages-access/get"
-import { patchPageById } from "@shared/pages-access/patch"
+import { getPage } from "@akasha/pages-access/get"
+import { patchPageById } from "@akasha/pages-access/patch"
 
 const TEMPER_WATCHER_ENROLMENT_SLUG = "temper-watcher-enrolment"
 const TOKEN_SHAPE = /^wt_[0-9a-f]{64}$/

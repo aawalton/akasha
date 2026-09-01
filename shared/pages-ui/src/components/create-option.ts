@@ -1,4 +1,4 @@
-import type { PatchPropertyDefinitionArgs } from "@shared/pages-access/property-definition"
+import type { PatchPropertyDefinitionArgs } from "@akasha/pages-access/property-definition"
 import type { Page } from "@akasha/pages-core/page-types"
 import type { Json } from "../../../supabase-database/src/generated/database"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"

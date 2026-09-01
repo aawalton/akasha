@@ -1,5 +1,5 @@
-import { getPages } from "@shared/pages-access/get"
-import { collectPages } from "@shared/pages-access/iterate"
+import { getPages } from "@akasha/pages-access/get"
+import { collectPages } from "@akasha/pages-access/iterate"
 import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
 import { foodOrDrink } from "@temper/game-characters-character/food-and-drink/food-or-drink-source"
 import { decodeBuild } from "@temper/game-codec/character/build-codec"

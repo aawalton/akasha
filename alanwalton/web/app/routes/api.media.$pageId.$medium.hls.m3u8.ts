@@ -1,6 +1,6 @@
 import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@shared/object-store"
 import { hlsPlaylistObjectKey } from "@shared/object-store/keys"
-import { getPage } from "@shared/pages-access/get"
+import { getPage } from "@akasha/pages-access/get"
 import { mediaTokenSecret, verifyMediaToken } from "@shared/pages-ui/media/media-token"
 import { MEDIA_UUID_PATTERN, MEDIA_VARIANT_PATTERN, mediaPageStands } from "@shared/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@shared/supabase-rr/auth/server"

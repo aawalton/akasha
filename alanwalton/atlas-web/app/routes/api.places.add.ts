@@ -1,4 +1,4 @@
-import { createPage } from "@shared/pages-access/create"
+import { createPage } from "@akasha/pages-access/create"
 import { buildPageHref, PageTypeSlug, slugStem } from "@shared/pages-url"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { createServerClient } from "@shared/supabase-rr/server"

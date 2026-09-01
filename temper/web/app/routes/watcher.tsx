@@ -1,6 +1,6 @@
 import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
-import { getPage, getPages } from "@shared/pages-access/get"
+import { getPage, getPages } from "@akasha/pages-access/get"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { Suspense } from "react"

@@ -1,4 +1,4 @@
-import { getPageByIdSuffix, getPages } from "@shared/pages-access/get"
+import { getPageByIdSuffix, getPages } from "@akasha/pages-access/get"
 import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"

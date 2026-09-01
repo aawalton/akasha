@@ -1,6 +1,6 @@
 "use client"
 
-import { NEVER_MATCH_SLUG, NEVER_MATCH_VALUE } from "@shared/pages-access/sentinels"
+import { NEVER_MATCH_SLUG, NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
 import { type ViewDataJSON } from "@akasha/pages-core/schema/view-data"

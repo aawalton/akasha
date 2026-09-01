@@ -1,9 +1,9 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { patchPage } from "@shared/pages-access/patch"
-import { NEVER_MATCH_VALUE } from "@shared/pages-access/sentinels"
-import { upsertPage } from "@shared/pages-access/upsert"
+import { patchPage } from "@akasha/pages-access/patch"
+import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
+import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"

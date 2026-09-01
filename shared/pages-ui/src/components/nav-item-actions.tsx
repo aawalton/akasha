@@ -1,7 +1,7 @@
 "use client"
 
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
-import { softDeletePage } from "@shared/pages-access/delete"
+import { softDeletePage } from "@akasha/pages-access/delete"
 import { MoreHorizontal, Trash2 } from "lucide-react"
 import { usePagesUIRouter } from "../router-context"
 import { useOptimisticSoftDeletePage } from "../supabase/mutations/use-optimistic-soft-delete-page"

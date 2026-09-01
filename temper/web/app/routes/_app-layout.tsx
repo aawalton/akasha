@@ -1,4 +1,4 @@
-import { getPages } from "@shared/pages-access/get"
+import { getPages } from "@akasha/pages-access/get"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { Suspense } from "react"
 import { data, Outlet } from "react-router"

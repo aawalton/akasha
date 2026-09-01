@@ -1,6 +1,6 @@
 import { computeFingerprint } from "../../../../shared/errors-core/src/fingerprint"
 import { ErrorReportSchema } from "../../../../shared/errors-core/src/schema"
-import { captureError, type ErrorCapturePayload } from "@shared/pages-access/capture-error"
+import { captureError, type ErrorCapturePayload } from "@akasha/pages-access/capture-error"
 import type { Route } from "./+types/api.errors"
 
 const CAPACITOR_ORIGIN = "capacitor://localhost"

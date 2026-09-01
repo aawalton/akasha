@@ -1,6 +1,6 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { AsyncCheck, CheckOutcome } from "../lib/check.ts"
-import { constantHolesIn } from "@shared/pages-access/file-name"
+import { constantHolesIn } from "@akasha/pages-access/file-name"
 import { filledBy, unfilledIn } from "@shared/named-for"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { advise, over, skip } from "../../outcome/outcome.ts"

@@ -1,9 +1,9 @@
 "use client"
 
-import { createPage } from "@shared/pages-access/create"
-import { softDeletePage } from "@shared/pages-access/delete"
-import { NEVER_MATCH_VALUE } from "@shared/pages-access/sentinels"
-import { upsertPage } from "@shared/pages-access/upsert"
+import { createPage } from "@akasha/pages-access/create"
+import { softDeletePage } from "@akasha/pages-access/delete"
+import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
+import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticCreatePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticSoftDeletePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-soft-delete-page"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"

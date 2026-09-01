@@ -1,8 +1,8 @@
 "use client"
 
-import { createPage } from "@shared/pages-access/create"
-import { getPages } from "@shared/pages-access/get"
-import { patchPage } from "@shared/pages-access/patch"
+import { createPage } from "@akasha/pages-access/create"
+import { getPages } from "@akasha/pages-access/get"
+import { patchPage } from "@akasha/pages-access/patch"
 import { DEFAULT_ICON_NAME } from "@akasha/pages-core/icon"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { useCallback } from "react"

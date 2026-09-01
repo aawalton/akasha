@@ -1,4 +1,4 @@
-import { getPages } from "@shared/pages-access/get"
+import { getPages } from "@akasha/pages-access/get"
 import { patchPage, patchRow } from "@shared/pages-query"
 import { askPage, type PageAsked } from "@shared/pages-query/ask"
 import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role.ts"

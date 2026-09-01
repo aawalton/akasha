@@ -1,9 +1,9 @@
 "use client"
 
-import { getPages } from "@shared/pages-access/get"
-import { extractRelationContainment, getPagesByRelation } from "@shared/pages-access/get-by-relation"
-import { collectPages } from "@shared/pages-access/iterate"
-import { type PageOrder, type PageSelect } from "@shared/pages-access/types"
+import { getPages } from "@akasha/pages-access/get"
+import { extractRelationContainment, getPagesByRelation } from "@akasha/pages-access/get-by-relation"
+import { collectPages } from "@akasha/pages-access/iterate"
+import { type PageOrder, type PageSelect } from "@akasha/pages-access/types"
 import { type Page, type PageWhere } from "@akasha/pages-core/page-types"
 import { type ListingConfig, listingIncludesDescendants } from "@akasha/pages-core/schema/listing-config"
 import { resolveDescendantPageTypeIds } from "@akasha/pages-core/schema/page-type-inheritance"

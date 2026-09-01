@@ -24,7 +24,7 @@
     "@shared/design-system": "workspace:*",
     "@shared/errors-client": "workspace:*",
     "@shared/errors-core": "workspace:*",
-    "@shared/pages-access": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@shared/supabase-server": "workspace:*",
     "@shared/web-security-headers": "workspace:*",

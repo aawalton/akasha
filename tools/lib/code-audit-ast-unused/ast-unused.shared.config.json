@@ -46,7 +46,7 @@
         "**/*.ts"
       ]
     },
-    "shared/pages-access": {
+    "akasha/pages-system/pages-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

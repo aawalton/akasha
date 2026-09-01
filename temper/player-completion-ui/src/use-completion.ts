@@ -1,7 +1,7 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { NEVER_MATCH_VALUE } from "@shared/pages-access/sentinels"
+import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
 import type {
   AccountCompletion,

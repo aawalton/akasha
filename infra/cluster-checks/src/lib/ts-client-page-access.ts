@@ -14,7 +14,7 @@ export interface ClientPageAccessFinding {
   readonly snippet: string
 }
 
-const PAGES_ACCESS_MODULE = "@shared/pages-access"
+const PAGES_ACCESS_MODULE = "@akasha/pages-access"
 const PAGES_UI_MODULE = "@shared/pages-ui"
 const USE_OPTIMISTIC_RE = /^useOptimistic/
 const REALTIME_EVENT = "postgres_changes"

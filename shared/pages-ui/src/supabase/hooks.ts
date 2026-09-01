@@ -1,7 +1,7 @@
 "use client"
 
-import { flattenRow } from "@shared/pages-access/routing-core"
-import { NEVER_MATCH_VALUE } from "@shared/pages-access/sentinels"
+import { flattenRow } from "@akasha/pages-access/routing-core"
+import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { type PageCondition, type PageWhere } from "@akasha/pages-core/page-types"
 import { createIdSuffixPipeline, type IdSuffixResult } from "@akasha/pages-ui-store/query/id-suffix-pipeline"
 import type { PageTypeSlug } from "@shared/pages-url"

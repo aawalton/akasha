@@ -1,4 +1,4 @@
-import { getPages } from "@shared/pages-access/get"
+import { getPages } from "@akasha/pages-access/get"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { BuildId } from "@temper/shared-formula-framework/branded"

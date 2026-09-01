@@ -1,9 +1,9 @@
 "use client"
 
 import { type Json } from "../../../supabase-database/src/generated/database"
-import { type CreatePageArgs, createPage } from "@shared/pages-access/create"
-import { type DeletePageArgs, softDeletePage } from "@shared/pages-access/delete"
-import { type PatchPageArgs, patchPage } from "@shared/pages-access/patch"
+import { type CreatePageArgs, createPage } from "@akasha/pages-access/create"
+import { type DeletePageArgs, softDeletePage } from "@akasha/pages-access/delete"
+import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
 import { type Page } from "@akasha/pages-core/page-types"
 import { createView as createViewReducer, deleteView as deleteViewReducer, duplicateView as duplicateViewReducer, renameView as renameViewReducer, reorderViews as reorderViewsReducer, updateViewConfig as updateViewConfigReducer } from "@akasha/pages-core/view-state/reducers"
 import { type ViewEffect, type ViewRow } from "@akasha/pages-core/view-state/types"

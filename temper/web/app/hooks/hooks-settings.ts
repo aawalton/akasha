@@ -2,8 +2,8 @@
 
 import { useAuth } from "@shared/auth/use-auth"
 import { useSingleFlight } from "@shared/design-primitives/hooks/use-single-flight"
-import { NEVER_MATCH_VALUE } from "@shared/pages-access/sentinels"
-import { upsertPage } from "@shared/pages-access/upsert"
+import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
+import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
 import type { Json } from "../../../../shared/supabase-database/src/generated/database"

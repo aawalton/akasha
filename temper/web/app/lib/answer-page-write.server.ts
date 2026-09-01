@@ -1,4 +1,4 @@
-import { readPageWrite, runPageWrite, TAKES, writesAs } from "@shared/pages-access/answer-write"
+import { readPageWrite, runPageWrite, TAKES, writesAs } from "@akasha/pages-access/answer-write"
 import { getUser } from "@shared/supabase-rr/auth/server"
 
 writesAs("temper-web")

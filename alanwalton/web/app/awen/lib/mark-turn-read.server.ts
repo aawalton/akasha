@@ -1,5 +1,5 @@
-import { getPage } from "@shared/pages-access/get"
-import { patchPage } from "@shared/pages-access/patch"
+import { getPage } from "@akasha/pages-access/get"
+import { patchPage } from "@akasha/pages-access/patch"
 import { z } from "zod"
 
 const AWEN_GAME_SLUG = "game"

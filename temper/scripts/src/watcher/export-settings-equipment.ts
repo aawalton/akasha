@@ -1,5 +1,5 @@
-import { getPage } from "@shared/pages-access/get"
-import { collectPages } from "@shared/pages-access/iterate"
+import { getPage } from "@akasha/pages-access/get"
+import { collectPages } from "@akasha/pages-access/iterate"
 import { decodeBuild } from "@temper/game-codec/character/build-codec"
 import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import {
