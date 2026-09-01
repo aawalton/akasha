@@ -260,6 +260,22 @@ export function unknownToGit(root: string, paths: readonly string[]): readonly s
   return missing.filter((one) => !known.has(one))
 }
 
+const NAMED_AUTHOR = /^\s*(.*?)\s*<([^>]*)>\s*$/
+
+// `--author` names the author and leaves the committer to whatever git config the machine
+// carries. A deployed pod carries none, so the commit dies on "unable to auto-detect email
+// address" after the write has already been applied to the tree, and the caller sees a
+// failure with the file changed and nothing committed. The committer is taken from the
+// author already named rather than added as a second thing to configure.
+export function identifyingAs(author: string): readonly string[] {
+  const found = NAMED_AUTHOR.exec(author)
+  if (found === null) return []
+  const name = found[1]
+  const email = found[2]
+  if (name === undefined || name === "" || email === undefined || email === "") return []
+  return ["-c", `user.name=${name}`, "-c", `user.email=${email}`]
+}
+
 export function commitPaths(
   root: string,
   paths: readonly string[],
@@ -286,7 +302,11 @@ export function commitPaths(
   if (gitAskingPaths(root, ["diff", "--quiet", "HEAD"], landing).code === 0) {
     return { ok: true, sha: null, nothing }
   }
-  const commit = gitWritingPaths(root, ["commit", `--author=${author}`, "-m", message], landing)
+  const commit = gitWritingPaths(
+    root,
+    [...identifyingAs(author), "commit", `--author=${author}`, "-m", message],
+    landing
+  )
   if (commit.code !== 0) {
     if (creating.length > 0) gitWritingPaths(root, ["reset", "--quiet"], creating)
     return {

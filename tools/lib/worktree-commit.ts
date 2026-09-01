@@ -1,5 +1,5 @@
 import { commitAuthor } from "../../agent/commit-author.ts"
-import { git } from "../../repo/git/git.ts"
+import { git, identifyingAs } from "../../repo/git/git.ts"
 
 const FORMATTABLE = [".ts", ".tsx", ".js", ".jsx", ".json", ".css"]
 
@@ -58,7 +58,8 @@ export function commitWorktree(root: string, message: string): WorktreeCommit {
   }
   const unfixable = whyFormattingFailed(root)
   if (unfixable !== null) return { ok: false, why: unfixable }
-  const committed = git(root, ["commit", `--author=${commitAuthor()}`, "-m", message])
+  const author = commitAuthor()
+  const committed = git(root, [...identifyingAs(author), "commit", `--author=${author}`, "-m", message])
   if (committed.code !== 0) {
     const said = committed.stderr !== "" ? committed.stderr : committed.stdout
     return { ok: false, why: `git commit failed: ${said}` }
