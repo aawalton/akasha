@@ -16,5 +16,7 @@ export const personSystem = {
     "module/device-secret-standing",
     "module/person-enrolment",
     "module/route-access",
+    "module/sms-consent",
+    "module/sms-opt-in",
   ],
 } as const satisfies WorkspacePackage
