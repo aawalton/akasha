@@ -15,8 +15,8 @@ import {
   IMPORT,
   IMPORT_EDGE,
   INDEX_AT,
+  INDEX_FILED_AT,
   INDEX_ID,
-  INDEX_STANDS_AT,
   importWorld,
   KNOWN,
   LEAF_AT,
@@ -179,7 +179,7 @@ test("an edge kind's own pages, standing only in the reading given, still answer
   const root = relationWorld(1, false)
   const over = readingLaidOver(root, {
     [edgeStandsAt(RELATION)]: [{ path: EDGE_AT, id: EDGE_ID }],
-    [INDEX_STANDS_AT]: [{ path: INDEX_AT, id: INDEX_ID }],
+    [INDEX_FILED_AT]: [{ path: INDEX_AT, id: INDEX_ID }],
   })
 
   expect(edgesInto(root, TARGET_AT, [RELATION], over)).toEqual([

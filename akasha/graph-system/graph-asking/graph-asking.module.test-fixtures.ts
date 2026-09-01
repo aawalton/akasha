@@ -113,7 +113,7 @@ export function filed(root: string, at: string, said: Record<string, string>): u
   filedAll(root, at, [said])
 }
 
-export const INDEX_STANDS_AT = `identity/${INDEX}/slug/${HELD_INDEX}.jsonl`
+export const INDEX_FILED_AT = `identity/${INDEX}/slug/${HELD_INDEX}.jsonl`
 
 export function edgeStandsAt(kind: string): string {
   return `identity/${GRAPH_EDGE}/slug/${kind}.jsonl`
@@ -127,7 +127,7 @@ function indexed(root: string, indexName: string, stands: boolean): undefined {
     definition: INVENTED,
     name: indexName,
   })
-  if (stands) filed(root, INDEX_STANDS_AT, { path: INDEX_AT, id: INDEX_ID })
+  if (stands) filed(root, INDEX_FILED_AT, { path: INDEX_AT, id: INDEX_ID })
 }
 
 function edged(
