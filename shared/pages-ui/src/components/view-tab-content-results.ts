@@ -1,4 +1,4 @@
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { PageWithProperties } from "../supabase/types"
 
 type FlatViewResult = {

@@ -11,7 +11,7 @@ import {
   type QuestionLink,
 } from "@shared/open-questions"
 import { usePage } from "@shared/pages-ui/supabase/use-page"
-import { PageTypeSlug } from "@shared/pages-url"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { type FormEvent, useState } from "react"
 import { useNavigate } from "react-router"
@@ -22,7 +22,7 @@ import { dispatchOpenQuestionsResync } from "~/lib/open-questions-resync"
 import { decideLinkTarget } from "./lib/link-target"
 import { type ResolveAction, resolveQuestion } from "./lib/resolve-question"
 
-const QUESTION_TYPE = PageTypeSlug(QUESTION_PAGE_TYPE_SLUG)
+const QUESTION_TYPE = toPageTypeSlug(QUESTION_PAGE_TYPE_SLUG)
 
 function toAbsoluteMediaUrl(url: string): string {
   return url.startsWith("/") ? `${API_ORIGIN}${url}` : url

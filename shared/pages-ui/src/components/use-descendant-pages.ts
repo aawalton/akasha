@@ -8,7 +8,7 @@ import { type Page, type PageWhere } from "@akasha/pages-core/page-types"
 import { type ListingConfig, listingIncludesDescendants } from "@akasha/pages-core/schema/listing-config"
 import { resolveDescendantPageTypeIds } from "@akasha/pages-core/schema/page-type-inheritance"
 import { type ViewSort } from "@akasha/pages-core/schema/view-data"
-import { PageTypeSlug } from "@shared/pages-url"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { useEffect, useMemo, useRef, useState } from "react"
 import { type PageWithProperties, toPageWithProperties } from "../supabase/types"
@@ -63,7 +63,7 @@ function useDescendantPages(
     }
     let cancelled = false
     setIsLoading(true)
-    const slugList = slugsKey.split(",").map((s) => PageTypeSlug(s))
+    const slugList = slugsKey.split(",").map((s) => toPageTypeSlug(s))
     const { select, order, limit, where } = optionsRef.current
     const hasWhere = where != null && where.length > 0
     const relation = hasWhere ? extractRelationContainment(where) : null
@@ -166,7 +166,7 @@ export function useDescendantListing(args: {
     for (const pt of pageTypes) {
       if (!ids.has(pt._id)) continue
       const slug = pt.properties?.slug
-      if (typeof slug === "string" && slug.length > 0) slugs.push(PageTypeSlug(slug))
+      if (typeof slug === "string" && slug.length > 0) slugs.push(toPageTypeSlug(slug))
     }
     return slugs
   }, [pageTypes, targetPageTypeId, listingConfig])

@@ -6,7 +6,8 @@ import { IconPicker } from "@shared/design-patterns/components/icon-picker"
 import { triggerSafeNode } from "@akasha/design-primitives/trigger-safe-node"
 import type { PageCondition, PageWhere } from "@akasha/pages-core/page-types"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { Plus } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { z } from "zod"
@@ -16,7 +17,7 @@ import { NavCountBadge } from "./nav-count-badge"
 import { parseShowCountBadge } from "./nav-count-badge-decider"
 import { NavItemActions } from "./nav-item-actions"
 
-const NAV_SLUG = PageTypeSlug("nav")
+const NAV_SLUG = toPageTypeSlug("nav")
 const NAV_ITEM_LIMIT = 200
 const NEW_PAGE_TITLE = "New Page"
 

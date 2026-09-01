@@ -1,5 +1,6 @@
 import { createPage } from "@akasha/pages-access/create"
-import { buildPageHref, PageTypeSlug, slugStem } from "@shared/pages-url"
+import { buildPageHref, slugStem } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { placeCandidateSchema } from "~/lib/place-candidate"
@@ -64,7 +65,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
   }
 
   const href = buildPageHref({
-    pageTypeSlug: PageTypeSlug(LOCATION_PAGE_TYPE_SLUG),
+    pageTypeSlug: toPageTypeSlug(LOCATION_PAGE_TYPE_SLUG),
     slug,
     fallbackSlugSource: candidate.name,
     id: pageId,

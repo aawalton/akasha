@@ -4,14 +4,14 @@ import { UserIdContext } from "@shared/pages-ui/use-user-id"
 import { useAppVersionCheck } from "@akasha/pages-ui/app-version/use-app-version-check"
 import { reportPagesStoreStall } from "@akasha/pages-ui-store/report-stall"
 import { configurePagesStoreAuth, getPagesStore } from "@akasha/pages-ui-store/singleton"
-import { PageTypeSlug } from "@shared/pages-url"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { useEffect, useRef, useState } from "react"
 import { z } from "zod"
 
-const PAGE_TYPE_SLUG = PageTypeSlug("page-type")
-const PROPERTY_DEFINITION_SLUG = PageTypeSlug("page-property-definition")
-const AUTOMATION_SLUG = PageTypeSlug("automation")
+const PAGE_TYPE_SLUG = toPageTypeSlug("page-type")
+const PROPERTY_DEFINITION_SLUG = toPageTypeSlug("page-property-definition")
+const AUTOMATION_SLUG = toPageTypeSlug("automation")
 
 const SupabaseUrlSchema = z.string().url()
 const SupabaseAnonKeySchema = z.string().min(1)

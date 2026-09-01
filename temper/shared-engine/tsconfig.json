@@ -19,9 +19,6 @@
   "references": [
     {
       "path": "../shared-formula-framework"
-    },
-    {
-      "path": "../../shared/pages-url"
     }
   ]
 }

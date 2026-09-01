@@ -19,7 +19,7 @@
     "react-router": ">=7"
   },
   "dependencies": {
-    "@shared/pages-url": "workspace:*",
+    "@akasha/pages-url": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
     "@supabase/ssr": "^0.10.2",

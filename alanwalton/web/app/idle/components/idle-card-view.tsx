@@ -6,7 +6,7 @@ import { PageCardRenderer } from "@shared/pages-ui/components/page-card-renderer
 import { PageSystemTabContent } from "@shared/pages-ui/components/page-system-view"
 import { useReorderViewWiring } from "@shared/pages-ui/components/use-reorder-view-wiring"
 import { type PageRow } from "@shared/pages-ui/view-engine/page-row"
-import { PageTypeSlug } from "@shared/pages-url"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react"
 import { cumulativeTrainCost, maxAffordableTrainCount } from "@akasha/idle-system/accrual"
 import { displayedResource } from "@akasha/idle-system/rate"
@@ -31,7 +31,7 @@ const EMPTY_AGGREGATES: ReadonlyMap<string, Record<string, number | null>> = new
 const EMPTY_PLURAL_SLUGS: ReadonlyMap<string, string> = new Map()
 const NO_HREF = (): string => ""
 
-const ROW_PAGE_TYPE_SLUG = PageTypeSlug(IDLE_PERSONA_CARD_PAGE_TYPE_SLUG)
+const ROW_PAGE_TYPE_SLUG = toPageTypeSlug(IDLE_PERSONA_CARD_PAGE_TYPE_SLUG)
 
 interface CardViewLayout {
   readonly visibleProperties: readonly string[]

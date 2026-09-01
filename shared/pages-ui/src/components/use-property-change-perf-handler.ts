@@ -1,6 +1,6 @@
 "use client"
 
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback } from "react"
 import { startInteraction } from "../perf/page-card-perf"
 

@@ -10,7 +10,7 @@ import { cn } from "@akasha/design-primitives/cn"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
-import { PageTypeSlug } from "@shared/pages-url"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PropertyBadge } from "../property-types/property-badge"
 import { PagesUILink } from "../router-context"
 import { useAllPages } from "../supabase/hooks"
@@ -128,7 +128,7 @@ export function PageCollectionContent({
       {childCollection != null && (
         <PagesFilteredContent
           embedded
-          pageTypeSlug={PageTypeSlug(childCollection.childType)}
+          pageTypeSlug={toPageTypeSlug(childCollection.childType)}
           searchParams={{ [childCollection.childRelation]: id }}
         />
       )}

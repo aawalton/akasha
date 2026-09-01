@@ -62,6 +62,14 @@
         "**/*.ts"
       ]
     },
+    "akasha/pages-system/pages-url": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
     "shared/pages-ui": {
       "entry": [
         "**/*.test.{ts,tsx}",
@@ -72,14 +80,6 @@
       ]
     },
     "shared/pages-ui-store": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "shared/pages-url": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

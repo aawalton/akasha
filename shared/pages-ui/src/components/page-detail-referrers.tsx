@@ -2,7 +2,8 @@
 
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { usePagesUIRouter } from "../router-context"
 import { type Referrer, useReferrers } from "../supabase/use-referrers"
 import { ToggleSection } from "./page-detail-sections"
@@ -34,7 +35,7 @@ export function PageDetailReferrers({
     const titleSource = typeof props?.title === "string" ? props.title : null
     router.push(
       buildPageHref({
-        pageTypeSlug: PageTypeSlug(r.sourcePageTypeSlug),
+        pageTypeSlug: toPageTypeSlug(r.sourcePageTypeSlug),
         slug,
         fallbackSlugSource: titleSource,
         id: r.page._id,

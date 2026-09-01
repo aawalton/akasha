@@ -2,7 +2,7 @@
 
 import { type AuthMode, type AuthSubmitPayload, AuthPageContent as DSAuthPageContent } from "@shared/design-patterns/components/auth-page-content"
 import { usePagesUIRouter } from "@shared/pages-ui/router-context"
-import { safeInternalPath } from "@shared/pages-url"
+import { safeInternalPath } from "@akasha/pages-url/safe-target"
 import { signInWithPassword, signUpWithPassword } from "@shared/supabase-rr/auth/client"
 import type { ReactNode } from "react"
 import { useState } from "react"

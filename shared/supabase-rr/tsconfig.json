@@ -22,9 +22,6 @@
     },
     {
       "path": "../supabase-auth"
-    },
-    {
-      "path": "../pages-url"
     }
   ],
   "include": [

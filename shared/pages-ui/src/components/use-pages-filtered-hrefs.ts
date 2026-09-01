@@ -1,7 +1,8 @@
 "use client"
 
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { buildPageHref, type PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback } from "react"
 import type { PageWithProperties } from "../supabase/types"
 import type { PageRow } from "../view-engine/page-row"

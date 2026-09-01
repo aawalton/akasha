@@ -7,7 +7,8 @@ import { type ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import { type LockedFacet, mergeLockedFacets } from "@akasha/pages-core/schema/view-data-locked"
 import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { deriveViewTargetSlugs } from "@akasha/pages-ui-store/query/view-target-slugs"
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback, useMemo } from "react"
 import { useGroupByPaginatedQuery } from "../supabase/group-by-hooks.ts"
 import { useRelatedPages } from "../supabase/hooks.ts"
@@ -97,7 +98,7 @@ export function useViewTabContentData({
     [pageTypes, effectivePageTypeId, viewConfig?.pageTypeSlug]
   )
   const rowSlugRaw = effectivePageType?.properties?.slug ?? viewConfig?.pageTypeSlug
-  const rowPageTypeSlug = typeof rowSlugRaw === "string" ? PageTypeSlug(rowSlugRaw) : undefined
+  const rowPageTypeSlug = typeof rowSlugRaw === "string" ? toPageTypeSlug(rowSlugRaw) : undefined
 
   const viewTargetSlugs = useMemo((): {
     gating: readonly string[]
@@ -271,7 +272,7 @@ export function useViewTabContentData({
       const slug = typeof props?.slug === "string" ? props.slug : null
       const titleSource = typeof props?.title === "string" ? props.title : null
       return buildPageHref({
-        pageTypeSlug: pageTypeSlug ?? PageTypeSlug("page"),
+        pageTypeSlug: pageTypeSlug ?? toPageTypeSlug("page"),
         slug,
         fallbackSlugSource: titleSource,
         id,

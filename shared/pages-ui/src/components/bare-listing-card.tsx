@@ -2,7 +2,7 @@
 
 import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { ReactElement } from "react"
 import type { PageRow } from "../view-engine/page-row"
 import { PageCard } from "./page-card"

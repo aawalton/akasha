@@ -6,7 +6,8 @@ import { getMediaConfig, getSequenceConfig } from "@akasha/pages-access/page-typ
 import { resolveDisplayKind } from "@akasha/pages-core/schema/detail-config"
 import type { ReaderNeighborLink } from "@shared/pages-ui/components/reader-chrome"
 import type { MediaVariant } from "@shared/pages-ui/media/page-media-player"
-import { buildPageHref, PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
+import { buildPageHref, parsePageHrefParam } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { getRequestServerClient, resolveRequestSession } from "@shared/supabase-rr/request-session-cache"
 import { isRecord } from "../../../../shared/utils-narrow/src/is-record"
 import { data } from "react-router"
@@ -35,7 +36,7 @@ export async function loader({ params, request }: Route.LoaderArgs) {
     throw new Response("Not Found", { status: 404 })
   }
 
-  const brandedSlug = PageTypeSlug(pageTypeSlug)
+  const brandedSlug = toPageTypeSlug(pageTypeSlug)
   const { headers } = getRequestServerClient(request)
   await resolveRequestSession(request)
 
@@ -193,7 +194,7 @@ export async function loader({ params, request }: Route.LoaderArgs) {
     nextUnreadHref = await resolveNextUnreadHref({ storyId: id })
   }
 
-  const resolvedBrandedSlug = PageTypeSlug(resolvedSlug)
+  const resolvedBrandedSlug = toPageTypeSlug(resolvedSlug)
   const mediaConfig = await getMediaConfig({ pageTypeSlug: resolvedBrandedSlug })
   const sequenceConfig = await getSequenceConfig({ pageTypeSlug: resolvedBrandedSlug })
   if (mediaConfig?.audio != null || sequenceConfig != null) {
@@ -222,7 +223,7 @@ export async function loader({ params, request }: Route.LoaderArgs) {
           })
           if (story != null && typeof story.id === "string") {
             storyHref = buildPageHref({
-              pageTypeSlug: PageTypeSlug("reading-story"),
+              pageTypeSlug: toPageTypeSlug("reading-story"),
               slug: typeof story.slug === "string" ? story.slug : null,
               fallbackSlugSource: typeof story.title === "string" ? story.title : null,
               id: story.id,

@@ -1,4 +1,5 @@
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { ApnsPayload } from "./apns.ts"
 
 export const NOTIFICATION_PAGE_TYPE_SLUG = "notification"
@@ -15,7 +16,7 @@ export function notificationRoute(args: {
   readonly id: string
 }): string {
   return buildPageHref({
-    pageTypeSlug: PageTypeSlug(NOTIFICATION_PAGE_TYPE_SLUG),
+    pageTypeSlug: toPageTypeSlug(NOTIFICATION_PAGE_TYPE_SLUG),
     slug: args.slug,
     fallbackSlugSource: args.title,
     id: args.id,

@@ -1,8 +1,8 @@
 "use client"
 
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PagesFilteredContent } from "@shared/pages-ui/components/pages-by-relation-content"
 import { useAllPages } from "@shared/pages-ui/supabase/hooks"
-import { PageTypeSlug } from "@shared/pages-url"
 import { useMemo } from "react"
 import { useParams, useSearchParams } from "react-router"
 
@@ -44,7 +44,7 @@ export default function CapacitorPageListing() {
 
   return (
     <PagesFilteredContent
-      pageTypeSlug={PageTypeSlug(resolvedSlug)}
+      pageTypeSlug={toPageTypeSlug(resolvedSlug)}
       searchParams={parsedSearchParams}
     />
   )

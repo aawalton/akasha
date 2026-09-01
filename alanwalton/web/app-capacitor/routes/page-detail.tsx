@@ -6,7 +6,8 @@ import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { getPageDisplay } from "@shared/pages-ui/capabilities/page-display-registry"
 import { useAllPages, usePageByIdSuffix } from "@shared/pages-ui/supabase/hooks"
 import { useReaderNeighbors } from "@shared/pages-ui/supabase/use-reader-neighbors"
-import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
+import { parsePageHrefParam } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { lazy, Suspense } from "react"
 import { useParams } from "react-router"
@@ -47,7 +48,7 @@ function PageDetailDispatch({
   pageTypeSlug: string
   pageHrefParam: string
 }) {
-  const slug = PageTypeSlug(pageTypeSlug)
+  const slug = toPageTypeSlug(pageTypeSlug)
   const parsed = parsePageHrefParam(pageHrefParam)
   const isOnline = useIsOnline()
 

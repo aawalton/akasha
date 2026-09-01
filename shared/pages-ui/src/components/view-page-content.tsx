@@ -9,7 +9,8 @@ import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-sele
 import { type ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import { type LockedFacet } from "@akasha/pages-core/schema/view-data-locked"
 import { type PropertyDefinition } from "@akasha/pages-core/types"
-import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
+import { parsePageHrefParam } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { ArrowLeft } from "lucide-react"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { PagesUILink } from "../router-context.tsx"
@@ -31,7 +32,7 @@ import type { ViewTabItem } from "./view-tab-context-menu.tsx"
 const SYSTEM_PAGE_TYPE_NAMES = new Set(["View", "Page Type", "Nav"])
 
 const PAGE_TYPE_SLUG = "page-type"
-const NAV_SLUG = PageTypeSlug("nav")
+const NAV_SLUG = toPageTypeSlug("nav")
 
 interface ViewPageContentProps {
   navItemIdParam: string

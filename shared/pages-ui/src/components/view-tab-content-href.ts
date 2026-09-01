@@ -1,5 +1,7 @@
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { buildPageHref, buildPageListingHref, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { buildPageListingHref } from "@akasha/pages-url/page-listing-href"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { PageWithProperties } from "../supabase/types"
 import type { PageRow } from "../view-engine/page-row"
 
@@ -25,7 +27,7 @@ export function buildPageTypeSlugMaps(pageTypes: readonly PageWithProperties[]):
     const slug = pt.properties?.slug
     const plural = pt.properties?.pluralSlug
     const hasSlug = typeof slug === "string" && slug.length > 0
-    if (hasSlug) slugById.set(pt._id, PageTypeSlug(slug))
+    if (hasSlug) slugById.set(pt._id, toPageTypeSlug(slug))
     if (typeof plural === "string" && plural.length > 0) pluralSlugById.set(pt._id, plural)
     else if (hasSlug) pluralSlugById.set(pt._id, slug)
   }

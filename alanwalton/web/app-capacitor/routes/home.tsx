@@ -7,12 +7,13 @@ import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { reportError } from "@shared/errors-client/report-error"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
-import { buildPageHrefParam, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHrefParam } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useEffect, useMemo } from "react"
 import { ALANWALTON_APP_ID, ALANWALTON_APP_SLUG } from "~/lib/app-id"
 import { HOME_NAV_SLUG } from "~/lib/home-dni"
 
-const NAV_SLUG = PageTypeSlug("nav")
+const NAV_SLUG = toPageTypeSlug("nav")
 
 export function meta() {
   return [{ title: "Home" }]

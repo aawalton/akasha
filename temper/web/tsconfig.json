@@ -71,9 +71,6 @@
       "path": "../../shared/pages-ui"
     },
     {
-      "path": "../../shared/pages-url"
-    },
-    {
       "path": "../../shared/supabase-database"
     },
     {

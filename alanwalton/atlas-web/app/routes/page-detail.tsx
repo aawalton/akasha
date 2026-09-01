@@ -1,8 +1,9 @@
 import { getPageByIdSuffix, getPageByIdSuffixAcrossTypes } from "@akasha/pages-access/get"
 import { getDescendantPageTypeSlugs } from "@akasha/pages-access/page-type"
+import { parsePageHrefParam } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
-import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { data } from "react-router"
 import type { Route } from "./+types/page-detail"
@@ -42,7 +43,7 @@ export async function loader({ params, request }: Route.LoaderArgs) {
     )
   }
 
-  const brandedSlug = PageTypeSlug(pageTypeSlug)
+  const brandedSlug = toPageTypeSlug(pageTypeSlug)
   const { headers } = createServerClient(request)
 
   const exact = await getPageByIdSuffix({
@@ -89,6 +90,6 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
   if (loaderData.kind === "nav") {
     return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />
   }
-  const brandedSlug = PageTypeSlug(loaderData.pageTypeSlug)
+  const brandedSlug = toPageTypeSlug(loaderData.pageTypeSlug)
   return <PageDetailContent pageTypeSlug={brandedSlug} id={loaderData.id} />
 }

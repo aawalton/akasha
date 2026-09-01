@@ -317,9 +317,9 @@
     "akasha/pages-system/pages-core": {
       "name": "@akasha/pages-core",
       "dependencies": {
+        "@akasha/pages-formula": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@shared/day": "workspace:*",
-        "@shared/pages-system": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",

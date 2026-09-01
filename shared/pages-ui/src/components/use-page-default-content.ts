@@ -7,7 +7,8 @@ import { type PageTypePropertiesMap } from "@akasha/pages-core/property-types/ro
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
 import { type PropertyDefinition } from "@akasha/pages-core/types"
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback, useMemo } from "react"
 import { useHostCreateSelectOption } from "../option-create-context.tsx"
 import { usePagesUIRouter } from "../router-context.tsx"
@@ -60,7 +61,7 @@ export function usePageDefaultContent({
     const map = new Map<string, PageTypeSlug>()
     for (const pt of pageTypes) {
       const slug = pt.properties?.slug
-      if (typeof slug === "string" && slug.length > 0) map.set(pt._id, PageTypeSlug(slug))
+      if (typeof slug === "string" && slug.length > 0) map.set(pt._id, toPageTypeSlug(slug))
     }
     return map
   }, [pageTypes])
@@ -212,7 +213,7 @@ export function usePageDefaultContent({
       const matchedPageTypeId = extractPageTypeId(props?.pageTypeId)
       const resolvedPageTypeSlug =
         statedSlug !== null && statedSlug.length > 0
-          ? PageTypeSlug(statedSlug)
+          ? toPageTypeSlug(statedSlug)
           : matchedPageTypeId != null
             ? pageTypeSlugById.get(matchedPageTypeId)
             : undefined

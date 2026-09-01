@@ -1,5 +1,6 @@
 
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { InputError } from "./active-core.ts"
 import { createQuestionPage, getOpenQuestions, type OpenQuestion } from "./attention-question.ts"
 import { QUESTION_PAGE_TYPE_SLUG } from "./question-page.ts"
@@ -69,7 +70,7 @@ export async function askAlanForPersona(args: {
   })
 
   const link = buildPageHref({
-    pageTypeSlug: PageTypeSlug(QUESTION_PAGE_TYPE_SLUG),
+    pageTypeSlug: toPageTypeSlug(QUESTION_PAGE_TYPE_SLUG),
     slug: undefined,
     fallbackSlugSource: question,
     id: questionId,

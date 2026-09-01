@@ -3,7 +3,7 @@
 import { type IconName } from "@akasha/pages-core/generated/icon-search-index"
 import { type PageDataJSON } from "@akasha/pages-core/types"
 import { type GalleryCardSize, resolveGalleryCoverUrl } from "@akasha/pages-core/view/gallery"
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { getCoverClickHandler } from "../cover-click/cover-click-registry.ts"
 import { getCoverMask } from "../cover-click/cover-mask-registry.ts"
 import type { PropertyDefinition } from "@akasha/pages-core/types"

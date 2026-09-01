@@ -1,6 +1,7 @@
-import { buildPageHrefParam, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHrefParam } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 
-export const TURN_TYPE = PageTypeSlug("game-turn")
+export const TURN_TYPE = toPageTypeSlug("game-turn")
 
 export function expectedHref(row: Record<string, unknown>, readerBaseUrl: string | null): string {
   const title = typeof row.title === "string" ? row.title : "Untitled"

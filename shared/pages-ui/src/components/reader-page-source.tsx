@@ -1,7 +1,7 @@
 "use client"
 
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { createContext, type ReactNode, useContext, useEffect, useState } from "react"
 import { useAllPages } from "../supabase/hooks"
 import { usePage } from "../supabase/use-page"

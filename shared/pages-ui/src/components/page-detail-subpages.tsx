@@ -2,7 +2,8 @@
 
 import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useMemo } from "react"
 import { SupabasePageResolverProvider } from "../supabase/page-resolver-provider"
 import { type PageWithProperties } from "../supabase/types"
@@ -62,7 +63,7 @@ export function PageDetailSubpages({
     const slug = typeof props?.slug === "string" ? props.slug : null
     const titleSource = typeof props?.title === "string" ? props.title : null
     return buildPageHref({
-      pageTypeSlug: PageTypeSlug(subpage?.sourcePageTypeSlug ?? "page"),
+      pageTypeSlug: toPageTypeSlug(subpage?.sourcePageTypeSlug ?? "page"),
       slug,
       fallbackSlugSource: titleSource,
       id: item._id,

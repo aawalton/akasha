@@ -1,8 +1,9 @@
+import { buildPageHrefParam } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { askComposed } from "@shared/pages-query/ask"
-import { buildPageHrefParam, PageTypeSlug } from "@shared/pages-url"
 import { HOME_NAV_SLUG } from "./home-dni"
 
-const NAV_SLUG = PageTypeSlug("nav")
+const NAV_SLUG = toPageTypeSlug("nav")
 const NAV_TITLE = "Home"
 
 export function navItemParamOf(nav: Record<string, unknown>): string | null {

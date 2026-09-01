@@ -1,6 +1,6 @@
 "use client"
 
-import { buildViewPropertiesHref } from "@shared/pages-url"
+import { buildViewPropertiesHref } from "@akasha/pages-url/page-display-mode"
 import type { ReactNode } from "react"
 import { usePagesUIRouter } from "../router-context"
 import { PageActionsMenu } from "./page-actions-menu"

@@ -1,7 +1,7 @@
 "use client"
 
 import { softDeletePage } from "@akasha/pages-access/delete"
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { usePagesUIRouter } from "../router-context"
 import { useOptimisticSoftDeletePage } from "../supabase/mutations/use-optimistic-soft-delete-page"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"

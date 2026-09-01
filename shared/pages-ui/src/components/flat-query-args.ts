@@ -1,6 +1,6 @@
 import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 
 export interface FlatQueryArgs {
   pageTypeId: string

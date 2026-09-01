@@ -1,9 +1,9 @@
 "use client"
 
 import { patchPage } from "@akasha/pages-access/patch"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { usePage } from "@shared/pages-ui/supabase/use-page"
-import type { PageTypeSlug } from "@shared/pages-url"
 import { useEffect, useRef } from "react"
 
 const NOTIFICATION_PAGE_TYPE_SLUG = "notification"

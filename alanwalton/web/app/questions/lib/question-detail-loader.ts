@@ -1,6 +1,7 @@
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { QuestionLink } from "@shared/open-questions"
 import { askComposed } from "@shared/pages-query/ask"
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { z } from "zod"
 
 const PERSONA_SLUG = "persona"
@@ -63,7 +64,7 @@ async function resolveAskingPersona(askedBy: string | null): Promise<QuestionDet
   if (personaRow === undefined) return null
   const persona = personaRowSchema.parse(personaRow.values)
   const chatHref = buildPageHref({
-    pageTypeSlug: PageTypeSlug(PERSONA_SLUG),
+    pageTypeSlug: toPageTypeSlug(PERSONA_SLUG),
     slug: persona.slug,
     fallbackSlugSource: persona.title,
     id: askedBy,

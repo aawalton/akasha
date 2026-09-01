@@ -1,6 +1,6 @@
 import { getPageTypeByPluralSlug } from "@akasha/pages-access/page-type"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PagesFilteredContent } from "@shared/pages-ui/components/pages-by-relation-content"
-import { PageTypeSlug } from "@shared/pages-url"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { Suspense } from "react"
 import { data } from "react-router"
@@ -25,7 +25,7 @@ export async function loader({ params, request }: Route.LoaderArgs) {
 }
 
 export default function PagesListingRoute({ loaderData }: Route.ComponentProps) {
-  const brandedSlug = PageTypeSlug(loaderData.slug)
+  const brandedSlug = toPageTypeSlug(loaderData.slug)
   return (
     <Suspense>
       <PagesFilteredContent pageTypeSlug={brandedSlug} searchParams={loaderData.searchParams} />

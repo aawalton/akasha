@@ -1,10 +1,11 @@
 import { type ChapterProseHistory } from "@akasha/awen-core/game-schema"
 import { isPublishedTurnStatus, TurnStatusSchema } from "@akasha/awen-core/turn-schema"
-import { buildPageHrefParam, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHrefParam } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { z } from "zod"
 import type { ClientStoryChapter, ClientStoryTurn } from "./client-story-session"
 
-const TURN_PAGE_TYPE_SLUG = PageTypeSlug("game-turn")
+const TURN_PAGE_TYPE_SLUG = toPageTypeSlug("game-turn")
 
 export const PUBLISHED_TURN_STATUSES = TurnStatusSchema.options.filter((s) =>
   isPublishedTurnStatus(s)

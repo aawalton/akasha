@@ -1,4 +1,4 @@
-import { coverUrl } from "@shared/pages-url/cover"
+import { coverUrl } from "@akasha/pages-url/cover-url"
 import { resolveRoots } from "../../repo/roots/roots"
 import { operationalError } from "./exit.ts"
 import { seaweedFSObjectStoreFromEnv } from "./object-store.ts"

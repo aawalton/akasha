@@ -1,4 +1,4 @@
-import { parseCoverPageId } from "../../../../shared/pages-url/src/cover"
+import { parseCoverPageId } from "@akasha/pages-url/cover-url"
 
 export interface PersonaCoverRow {
   readonly id: string

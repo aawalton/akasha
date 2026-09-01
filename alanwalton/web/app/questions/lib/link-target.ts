@@ -1,5 +1,5 @@
+import { safeInternalPath } from "@akasha/pages-url/safe-target"
 import type { QuestionLink } from "@shared/open-questions"
-import { safeInternalPath } from "@shared/pages-url"
 
 const APP_URL_SCHEME = "alanwalton"
 

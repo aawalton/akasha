@@ -3,7 +3,8 @@ import { QuestSchema } from "@akasha/awen-core/quest-schema"
 import { DEFAULT_REVEAL_KEYS, narrowRevealed } from "@akasha/awen-core/revealed"
 import { type GameState, HudSchema } from "@akasha/awen-core/state-schema"
 import { SystemWindowSchema } from "@akasha/awen-core/system-window-schema"
-import { buildPageHrefParam, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHrefParam } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { z } from "zod"
 import type { ClientStoryChapter } from "./client-story-session"
 
@@ -211,7 +212,7 @@ function toClientBeat(raw: unknown): ClientBeat | null {
 }
 
 const STORY_CHAPTER_SLUG = "story-chapter-played"
-const STORY_CHAPTER_PAGE_TYPE_SLUG = PageTypeSlug(STORY_CHAPTER_SLUG)
+const STORY_CHAPTER_PAGE_TYPE_SLUG = toPageTypeSlug(STORY_CHAPTER_SLUG)
 
 function toChapterLinksFromState(chapters: readonly unknown[]): readonly ClientStoryChapter[] {
   return chapters.flatMap((entry) => {

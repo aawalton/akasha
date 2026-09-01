@@ -1,7 +1,8 @@
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { getPageByIdSuffix } from "@akasha/pages-access/get"
 import { getPagesByRelation } from "@akasha/pages-access/get-by-relation"
-import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
+import { parsePageHrefParam } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { data } from "react-router"
 import { z } from "zod"
@@ -28,7 +29,7 @@ export async function loader({ params, request }: Route.LoaderArgs) {
   const { headers } = createServerClient(request)
 
   const collection = await getPageByIdSuffix({
-    pageTypeSlug: PageTypeSlug(COLLECTION_SLUG),
+    pageTypeSlug: toPageTypeSlug(COLLECTION_SLUG),
     idSuffix: parsed.idSuffix,
     slug: parsed.slug ?? undefined,
     select: ["id", "title"],

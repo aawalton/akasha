@@ -3,7 +3,7 @@
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { cn } from "@akasha/design-primitives/cn"
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { BlockEditor } from "../block-editor/block-editor.tsx"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { MarkdownPropertyBadge } from "../property-types/markdown.tsx"

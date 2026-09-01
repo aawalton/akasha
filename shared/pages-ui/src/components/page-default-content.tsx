@@ -8,7 +8,7 @@ import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { IconPicker } from "@shared/design-patterns/components/icon-picker"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
-import { PageTypeSlug } from "@shared/pages-url"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { isRecord } from "@shared/utils-narrow/is-record"
 import { BlockEditor } from "../block-editor/block-editor"
 import { MarkdownRenderer } from "../markdown/markdown-renderer"
@@ -83,7 +83,7 @@ export function PageDefaultContent({
                 {targetSlug != null && (
                   <div className="ml-auto">
                     <PageDetailHeaderMenu
-                      pageTypeSlug={PageTypeSlug(targetSlug)}
+                      pageTypeSlug={toPageTypeSlug(targetSlug)}
                       pageId={id}
                       isFavorite={data.favoritedAt != null}
                     />

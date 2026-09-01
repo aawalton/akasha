@@ -1,8 +1,9 @@
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { BuildId } from "@temper/shared-formula-framework/branded"
 
-const CHARACTER_SLUG = PageTypeSlug("character-build")
-const COMPANION_SLUG = PageTypeSlug("companion-build")
+const CHARACTER_SLUG = toPageTypeSlug("character-build")
+const COMPANION_SLUG = toPageTypeSlug("companion-build")
 
 export function characterUrl(buildId: BuildId, name?: string): string {
   return buildPageHref({

@@ -8,7 +8,8 @@ import { getPage, getPages } from "@akasha/pages-access/get"
 import { patchPage } from "@akasha/pages-access/patch"
 import { type PageWhere } from "@akasha/pages-core/page-types"
 import { writePage } from "@shared/pages-query"
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { z } from "zod"
 import { type InboundSender, withSenderFooter } from "~/lib/sender-surface"
 import { HOURLY_CONFIRM_ANSWER_SEAT, TRACKING_HOURLY_CONFIRM_SOURCE } from "./hourly-confirm-source"
@@ -143,7 +144,7 @@ async function nextOpenQuestionHref(
   const next = rows.find((row) => row.id !== excludeId)
   if (next === undefined) return null
   return buildPageHref({
-    pageTypeSlug: PageTypeSlug(QUESTION_PAGE_TYPE_SLUG),
+    pageTypeSlug: toPageTypeSlug(QUESTION_PAGE_TYPE_SLUG),
     slug: next.slug,
     fallbackSlugSource: next.title,
     id: next.id,

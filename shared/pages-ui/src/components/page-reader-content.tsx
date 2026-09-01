@@ -7,7 +7,7 @@ import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design
 import { cn } from "@akasha/design-primitives/cn"
 import { bodyPropertyIsContentTier } from "@akasha/pages-core/schema/content-tier"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { type ReactNode, useCallback, useMemo, useRef } from "react"
 import { DisplayFrame } from "../frame/display-frame"
 import type { MediaVariant } from "../media/page-media-player"

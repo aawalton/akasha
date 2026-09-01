@@ -1,9 +1,10 @@
+import { buildPageHref } from "@akasha/pages-url/page-href"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { askComposed } from "@shared/pages-query/ask"
-import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { redirect } from "react-router"
 import type { Route } from "./+types/idle"
 
-const IDLE_GAME_SLUG = PageTypeSlug("idle-game")
+const IDLE_GAME_SLUG = toPageTypeSlug("idle-game")
 
 export async function loader({ request: _request }: Route.LoaderArgs) {
   const asked = await askComposed({
