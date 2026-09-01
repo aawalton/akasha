@@ -21,7 +21,7 @@ export const alanHarness = {
     "workspace-package/calendar-sync",
     "workspace-package/email-google",
     "workspace-package/awen-core",
-    "workspace-package/web",
+    "domain/alanwalton",
     "workspace-package/imessage",
     "workspace-package/tower-core",
     "workspace-package/tower-engine",
