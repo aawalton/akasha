@@ -1,4 +1,4 @@
-import type { NamedFileProperty } from "../../../pages-system/named-file-property/named-file-property.page-type.ts"
+import type { NamedFileProperty } from "@akasha/pages-system/named-file-property"
 
 export type Main = "swift"
 

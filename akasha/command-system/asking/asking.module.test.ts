@@ -1,12 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  importsListed,
-  listedTakenFrom,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { ADMITS_CODE, REFUSES_CODE } from "../../testing-system/minting/minting.module.code.ts"
-import { put } from "../../testing-system/putting/putting.module.code.ts"
+import { importsListed, listedTakenFrom } from "@akasha/indexes/testing"
+import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
+import { put } from "@akasha/testing-system/putting"
 import { write } from "../command/write/write.command.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"

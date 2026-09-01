@@ -1,16 +1,11 @@
 import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Phase } from "../../checks-system/checking/checking.module.code.ts"
-import { warrantsStanding } from "../../context-system/warranting/warranting.module.test-fixtures.ts"
-import { bytesOf as bytes } from "../../testing-system/bodying/bodying.module.code.ts"
-import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
-import {
-  ADMITS_CODE,
-  MINTED,
-  mintedId,
-  minting,
-} from "../../testing-system/minting/minting.module.code.ts"
-import { put } from "../../testing-system/putting/putting.module.code.ts"
+import type { Phase } from "@akasha/checks-system/checking"
+import { warrantsStanding } from "@akasha/context-system/warranting/testing"
+import { bytesOf as bytes } from "@akasha/testing-system/bodying"
+import { gitIn } from "@akasha/testing-system/gitting"
+import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
+import { put } from "@akasha/testing-system/putting"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
