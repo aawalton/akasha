@@ -22,7 +22,7 @@ function saying(named: readonly string[], said: readonly Judged[]): Judging {
   return { named, checksFor: () => named, over: () => said }
 }
 
-function standing(slugs: readonly string[]): readonly Gathered[] {
+function gathered(slugs: readonly string[]): readonly Gathered[] {
   return slugs.map(
     (slug): Gathered => ({
       slug,
@@ -103,19 +103,19 @@ test("a judging that throws is refused as unjudged rather than answered clean", 
 })
 
 test("naming no check leaves every check standing", () => {
-  const every = standing(["one", "two"])
+  const every = gathered(["one", "two"])
   expect(narrowedTo(every, []).checks).toEqual(every)
 })
 
 test("a named check that runs at no audit is refused, and the ones that do are named", () => {
-  const said = narrowedTo(standing(["one", "two"]), ["three"])
+  const said = narrowedTo(gathered(["one", "two"]), ["three"])
   expect(said.checks).toEqual([])
   expect(said.refusals[0]).toContain("`three` is no check that runs at audit")
   expect(said.refusals[0]).toContain("`one`, `two`")
 })
 
 test("naming a check leaves only that one standing", () => {
-  const said = narrowedTo(standing(["one", "two"]), ["two"])
+  const said = narrowedTo(gathered(["one", "two"]), ["two"])
   expect(said.refusals).toEqual([])
   expect(said.checks.map((one) => one.slug)).toEqual(["two"])
 })
