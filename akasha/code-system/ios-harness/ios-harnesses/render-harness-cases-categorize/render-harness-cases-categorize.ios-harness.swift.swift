@@ -66,6 +66,7 @@ func categorizeCases() -> [RenderCase] {
             familySource: "systemSmall", body: categorizeBody(unreviewed: 900)))
 
     for band in [
+        (name: "zero", unreviewed: 0),
         (name: "one", unreviewed: 1),
         (name: "ten", unreviewed: 10),
         (name: "eleven", unreviewed: 11),
