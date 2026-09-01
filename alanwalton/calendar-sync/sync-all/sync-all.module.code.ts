@@ -1,21 +1,27 @@
-import type { QueryRow } from "@shared/pages-query/answer-schema"
 import type { SyncResult } from "../sync-result/sync-result.module.code.ts"
 import type { CalendarSource } from "../sync-source/sync-source.module.code.ts"
 
 export const SOURCE_SLUG = "calendar-event-source"
 export const SOURCES_QUERY = "calendar-event-sources-all"
 
+// A row as any answering store hands one over: the values it was asked for, under the keys it was
+// asked for them by. This was imported from the old engine's `answer-schema`, which stopped
+// exporting the name, and `targetsIn` below never wanted more of a row than this.
+export type SourceRow = {
+  readonly values: Readonly<Record<string, unknown>>
+}
+
 export type SyncAllOptions = {
   sourceSlug?: string
   dryRun?: boolean
 }
 
-function stringAt(row: QueryRow, key: string): string {
+function stringAt(row: SourceRow, key: string): string {
   const value = row.values[key]
   return typeof value === "string" ? value : ""
 }
 
-export function sourceOf(row: QueryRow): CalendarSource | null {
+export function sourceOf(row: SourceRow): CalendarSource | null {
   const name = stringAt(row, "external-id")
   const baseUrl = stringAt(row, "base-url")
   const providerClient = stringAt(row, "provider-client")
@@ -25,7 +31,7 @@ export function sourceOf(row: QueryRow): CalendarSource | null {
 }
 
 export function targetsIn(
-  rows: readonly QueryRow[],
+  rows: readonly SourceRow[],
   only: string | undefined
 ): readonly CalendarSource[] {
   const wanted: CalendarSource[] = []
