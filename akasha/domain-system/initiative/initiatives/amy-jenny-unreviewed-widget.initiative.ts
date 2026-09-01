@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "No file imports `@shared/pages-query`.",
       workingMemory:
-        "Deleted in 094d71b8a1, so its source is read from that commit's parent. 111 files import it. What it exports is small: askComposed carries 49 reads and maps straight onto POST /ask; then askNamed 13, askPage 6, askTaking 4, askPageTypes 3, askShape 2, askNaming 1. writePage, patchPage, writeRow, patchRow and removePage carry the writes onto POST /write. Only tools/lib asks for count-by or sum, which /ask does not answer. Reached at page-store.page-store.svc.cluster.local:8787.",
+        "Deleted in 094d71b8a1; its source reads at that commit's parent. The footprint is 89 files and 114 specifiers rather than 111 files: the /ask entry 59, the root 50, answer-schema 3, fetcher 2. Nothing in akasha truly imports it, the six matches there being fixtures and prose. askComposed is 49 of the reads and maps onto POST /ask; askNamed 13, askPage 6, askTaking 4, askPageTypes 3, askShape 2, askNaming 1. Only tools/lib wants count-by or sum. Mapped dry run: /var/tmp/pq-rewrite.ts.",
     },
     {
       statement:
