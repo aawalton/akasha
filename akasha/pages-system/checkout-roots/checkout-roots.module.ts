@@ -17,7 +17,15 @@ export const checkoutRoots = {
     },
     {
       invariantKind: "departure",
-      statement: "Which repositories there are is read from disk when this is loaded.",
+      statement: "Which repositories there are is read from disk when first asked.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Loading this reads no disk and works nothing out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each answer read from disk is worked out once and kept.",
     },
     {
       invariantKind: "departure",
@@ -26,6 +34,10 @@ export const checkoutRoots = {
     {
       invariantKind: "departure",
       statement: "A root stated in the environment stands over the one found on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where node is absent an answer is refused rather than guessed.",
     },
   ],
 } as const satisfies Module
