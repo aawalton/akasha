@@ -1,6 +1,6 @@
 
 import type { PendingAgentAction } from "./supervisor-agent-action-types.ts"
-import { handleRestartPreserve } from "./supervisor-iteration-outcome-handlers.ts"
+import { handleRestartNow } from "./supervisor-iteration-outcome-handlers.ts"
 import type { LoopState } from "./supervisor-loop-state.ts"
 
 
@@ -14,8 +14,8 @@ export async function dispatchPostExitOutcome(
 ): Promise<LoopDirective> {
   if (pending === null) return "break"
   const { event } = pending
-  if (event.action === "restart_preserve") {
-    return handleRestartPreserve(event, pending.maintenance, state)
+  if (event.action === "restart-now") {
+    return handleRestartNow(event, pending.maintenance, state)
   }
   return "break"
 }

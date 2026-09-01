@@ -43,12 +43,12 @@ export function buildAgentActionSubsystem(opts: {
     }
   }
 
-  const fireRestartPreserve = async (
+  const fireRestartNow = async (
     interruptMessage: string | null,
     maintenance: boolean
   ): Promise<undefined> => {
     pendingEvent.value = {
-      event: { action: "restart_preserve", interruptMessage },
+      event: { action: "restart-now", interruptMessage },
       maintenance,
     }
     supervisorKilledProc = true
@@ -60,7 +60,7 @@ export function buildAgentActionSubsystem(opts: {
 
   const arm = buildIdleGateArm({
     deferredRestart,
-    fire: fireRestartPreserve,
+    fire: fireRestartNow,
     armDeferred,
     getClaudePid: opts.getClaudePid,
     getProxyPort: opts.getProxyPort,
@@ -71,18 +71,18 @@ export function buildAgentActionSubsystem(opts: {
   })
 
   const handleAgentAction = async (event: AgentActionEvent): Promise<undefined> => {
-    if (event.action === "proxy_swap") {
+    if (event.action === "swap-proxy") {
       if (proxySwapInFlight) return
       proxySwapInFlight = true
-      log(`Received proxy_swap for agent ${getAgentId()} — consuming the request then swapping proxy`)
+      log(`Received swap-proxy for agent ${getAgentId()} — consuming the request then swapping proxy`)
       void onProxySwap().finally(() => {
         proxySwapInFlight = false
       })
       return
     }
-    if (event.action === "restart_preserve_on_idle") {
+    if (event.action === "restart") {
       if (deferredRestart.cancel !== null || arm.isArming()) return
-      log(`Received restart_preserve_on_idle for agent ${getAgentId()} — arming idle gate`)
+      log(`Received restart for agent ${getAgentId()} — arming idle gate`)
       await arm.armIdleGate((w) => ({
         interruptMessage: event.interruptMessage,
         maxDeferMs: w.maxDeferMs,

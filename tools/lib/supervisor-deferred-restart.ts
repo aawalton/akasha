@@ -63,7 +63,7 @@ export function armDeferredRestart(opts: {
     clearInterval(timer)
     if (ceilingTimer !== undefined) clearTimeout(ceilingTimer)
     if (cause === "idle") {
-      opts.log?.("deferred-restart: agent idle — firing restart_preserve")
+      opts.log?.("deferred-restart: agent idle — firing restart-now")
     } else if (cause === "past-cliff-override") {
       logPastCliffOverride(
         opts.pastCliffOverride?.getChildAgeMs() ?? null,

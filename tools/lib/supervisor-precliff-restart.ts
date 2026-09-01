@@ -68,7 +68,7 @@ export function startPreCliffRestartMonitor(opts: {
       armedForPid = pid
       opts.log(
         `pre-cliff: claude child (pid ${pid}) reached ~${Math.round(childAgeMs / 3_600_000)}h ` +
-          `age — armed idle-gated restart_preserve to pre-empt the edge-connection cliff (#15352)`
+          `age — armed idle-gated restart-now to pre-empt the edge-connection cliff (#15352)`
       )
     }
   }

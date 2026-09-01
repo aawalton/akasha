@@ -15,8 +15,8 @@ export function restartFirstTurn(plan: RestartNoticePlan): string {
   return plan.route === "spawn-argv" ? plan.notice : ""
 }
 
-export async function handleRestartPreserve(
-  event: ActionEventOf<"restart_preserve">,
+export async function handleRestartNow(
+  event: ActionEventOf<"restart-now">,
   maintenance: boolean,
   state: LoopState
 ): Promise<LoopDirective> {
@@ -34,13 +34,13 @@ export async function handleRestartPreserve(
       await withTimeout(clearRequestedAction(agentId), "clearRequestedAction (retry)")
     }
   } catch (err) {
-    console.error(`${LOG} Failed to finalize restart_preserve:`, err)
+    console.error(`${LOG} Failed to finalize restart-now:`, err)
   }
   if (reExecPending) {
-    console.log(`${LOG} restart_preserve + self-heal pending — exiting runInteractive to re-exec`)
+    console.log(`${LOG} restart-now + self-heal pending — exiting runInteractive to re-exec`)
     return "break"
   }
-  console.log(`${LOG} restart_preserve — resuming session ${sessionId}`)
+  console.log(`${LOG} restart-now — resuming session ${sessionId}`)
   state.setResume({
     resume: true,
     driver: plan.route === "rail" ? "deferred-notice" : "argv-prompt",

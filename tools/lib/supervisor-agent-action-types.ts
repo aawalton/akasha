@@ -1,12 +1,12 @@
 
 export type AgentActionEvent =
-  | { action: "restart_preserve"; interruptMessage: string | null }
+  | { action: "restart-now"; interruptMessage: string | null }
   | {
-      action: "restart_preserve_on_idle"
+      action: "restart"
       interruptMessage: string | null
       restartArmedAt: number | null
     }
-  | { action: "proxy_swap" }
+  | { action: "swap-proxy" }
 
 export type PendingAgentAction = {
   event: AgentActionEvent

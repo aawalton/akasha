@@ -27,8 +27,9 @@ propagate to running gateways automatically.
 THE UNCOMMITTED FILE CARRIES `swap-proxy`, matching the akasha page of that name.
 It read `proxy_swap` until the move this file used to describe as pending: the
 supervisor learned both spellings in 748661b8, every live one was restarted onto
-that reader, and the value moved in f49fb818. The old spelling is still read, and
-goes once nothing writes it. The ack subsystem's own label for this command is
+that reader, and the value moved in f49fb818. The old spelling is no longer read:
+only a CLI spawned from disk ever wrote one, so none could still be in flight.
+The ack subsystem's own label for this command is
 `swap-proxy`, typed in `tools/lib/seat-action.ts` beside the action value it sends.
 
 One target: `model-gateway swap <agent>`. Whole fleet: `model-gateway swap

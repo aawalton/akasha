@@ -25,7 +25,7 @@ export function logPastCliffOverride(
 ): undefined {
   const head =
     `deferred-restart: PAST-CLIFF OVERRIDE — claude child age ${fmtAgeMs(ageMs)} at/past ` +
-    "the ~8h edge cliff (#15352); firing restart_preserve at turn boundary"
+    "the ~8h edge cliff (#15352); firing restart-now at turn boundary"
   void readBusyChildDetails()
     .then((kids) => {
       const kidList =
@@ -91,7 +91,7 @@ export function busyTrail(log?: (line: string) => void): BusyTrail {
 
     logFireWhileBusy: (cause, deferredS, frozenNote, nowMs) => {
       log?.(
-        `deferred-restart: FIRING restart_preserve WHILE BUSY — cause=${cause}, ` +
+        `deferred-restart: FIRING restart-now WHILE BUSY — cause=${cause}, ` +
           `deferred ${deferredS}s;${frozenNote} busy-signal history: ${render(nowMs)}`
       )
     },

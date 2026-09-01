@@ -1,6 +1,6 @@
 
-export interface RestartPreserveEvent {
-  readonly action: "restart_preserve"
+export interface RestartNowEvent {
+  readonly action: "restart-now"
   readonly interruptMessage: string | null
 }
 
@@ -13,7 +13,7 @@ export interface ResumeNotices {
 export type RestartNoticeRoute = "spawn-argv" | "rail"
 
 function selectRestartNoticeBody(
-  event: RestartPreserveEvent,
+  event: RestartNowEvent,
   ctx: { maintenance: boolean; reExecPending: boolean },
   notices: ResumeNotices
 ): { route: RestartNoticeRoute; body: string } {
@@ -27,7 +27,7 @@ function selectRestartNoticeBody(
 }
 
 export function planRestartNotice(
-  event: RestartPreserveEvent,
+  event: RestartNowEvent,
   ctx: { maintenance: boolean; reExecPending: boolean },
   notices: ResumeNotices
 ): { route: RestartNoticeRoute; notice: string } {

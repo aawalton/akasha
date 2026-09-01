@@ -51,7 +51,7 @@ function degradedRestart(reason: string): RestartNoticePlan {
 
 export async function askRestartNotice(
   question: {
-    readonly event: { action: "restart_preserve"; interruptMessage: string | null }
+    readonly event: { action: "restart-now"; interruptMessage: string | null }
     readonly ctx: { maintenance: boolean; reExecPending: boolean }
   },
   ask: AskDecide = askSupervisorDecide

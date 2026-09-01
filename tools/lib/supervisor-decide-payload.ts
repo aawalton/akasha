@@ -4,7 +4,7 @@ import type { LimitResumeInput } from "./decide-limit-resume.ts"
 import type { WaitResumeInput } from "./decide-wait-resume.ts"
 import type { RcDegradedSeat } from "./decide-rc-degraded.ts"
 import type { RemoteControlSeatQuestion } from "./decide-remote-control.ts"
-import type { RestartPreserveEvent } from "./decide-restart-notice.ts"
+import type { RestartNowEvent } from "./decide-restart-notice.ts"
 import type { UncertainBlockSeat } from "./decide-uncertain-wait.ts"
 import { arr, bool, maybe, num, obj, oneOf, str } from "./narrow.ts"
 
@@ -139,13 +139,13 @@ export function parseRcDegraded(value: unknown, path: string): RcDegradedSeat[] 
   })
 }
 
-const RESTART_ACTIONS: readonly RestartPreserveEvent["action"][] = ["restart_preserve"]
+const RESTART_ACTIONS: readonly RestartNowEvent["action"][] = ["restart-now"]
 
 export function parseRestartNotice(
   value: unknown,
   path: string
 ): {
-  readonly event: RestartPreserveEvent
+  readonly event: RestartNowEvent
   readonly ctx: { maintenance: boolean; reExecPending: boolean }
 } {
   const question = obj(value, path)
