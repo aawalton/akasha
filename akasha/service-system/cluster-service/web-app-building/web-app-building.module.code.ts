@@ -11,6 +11,7 @@ const REPO_PATH = "/app/repo"
 const STAMP = "build/.built-from"
 const MAIN_REF = "refs/heads/main"
 const FETCHED = "FETCH_HEAD"
+const GOING = "\t"
 const ROLLOUT_WAIT = "5m"
 const SYNC_ATTEMPTS = 4
 const SYNC_PAUSE = 3
@@ -80,6 +81,16 @@ export function pushToOrigin(root: string, sha: string): Ran {
   return runGit(root, ["push", "origin", `${sha}:${MAIN_REF}`])
 }
 
+export function livestOf(said: string): string | null {
+  for (const line of said.split("\n")) {
+    const [name, going] = line.split(GOING)
+    if (name === undefined || name.trim() === "") continue
+    if ((going ?? "").trim() !== "") continue
+    return name.trim()
+  }
+  return null
+}
+
 export function livePod(target: BuildTarget): string | null {
   const ran = runKubectl([
     "get",
@@ -90,11 +101,10 @@ export function livePod(target: BuildTarget): string | null {
     `app.kubernetes.io/name=${target.workload}`,
     "--field-selector=status.phase=Running",
     "-o",
-    "jsonpath={.items[0].metadata.name}",
+    `jsonpath={range .items[*]}{.metadata.name}{"${GOING}"}{.metadata.deletionTimestamp}{"\\n"}{end}`,
   ])
   if (ran.code !== 0) return null
-  const name = ran.stdout.trim()
-  return name === "" ? null : name
+  return livestOf(ran.stdout)
 }
 
 function inSync(target: BuildTarget, pod: string, script: string): Ran {

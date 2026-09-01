@@ -58,6 +58,10 @@ export const webAppBuilding = {
       statement: "Whether a build already stands is asked of the pod holding it.",
     },
     {
+      invariantKind: "departure",
+      statement: "A pod already going away holds no build.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a page.",
     },

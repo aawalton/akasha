@@ -7,6 +7,7 @@ import {
   buildScript,
   buildTargetOf,
   headOf,
+  livestOf,
   saidBy,
   syncScript,
 } from "./web-app-building.module.code.ts"
@@ -128,4 +129,17 @@ test("a pod holding no build is not already built", () => {
 
 test("what a run said is read from both what it wrote and what it complained", () => {
   expect(saidBy({ argv: [], code: 1, stdout: "one\n", stderr: "two\n" })).toBe("one; two")
+})
+
+test("a pod already going away holds no build", () => {
+  const said = ["web-old\t2026-09-01T04:28:16Z", "web-new\t", ""].join("\n")
+  expect(livestOf(said)).toBe("web-new")
+})
+
+test("a pod nothing is taking away holds the build", () => {
+  expect(livestOf("web-one\t\n")).toBe("web-one")
+})
+
+test("no pod standing means no pod holds a build", () => {
+  expect(livestOf("")).toBe(null)
 })
