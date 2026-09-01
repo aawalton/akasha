@@ -9,7 +9,7 @@ import {
   rejectReadOnlyKeys,
   requireFileBacked,
 } from "../guards/guards.module.code.ts"
-import { overServer, writesOverServer } from "../over-server/over-server.module.code.ts"
+import { asPageList, overServer, writesOverServer } from "../over-server/over-server.module.code.ts"
 import type { PagePropertiesInput, PageSelect } from "../types/types.module.code.ts"
 
 export type UpsertPageArgs<T extends Record<string, unknown> = Record<string, Json>> = {
@@ -34,11 +34,6 @@ export type BulkUpsertPagesArgs<T extends Record<string, unknown> = Record<strin
   items: ReadonlyArray<PagePropertiesInput<T>>
   select?: PageSelect
   pipelineScope?: number | string
-}
-
-function asPageList(value: unknown): readonly Page[] {
-  if (!Array.isArray(value)) return []
-  return value.map((row) => asPage(row))
 }
 
 export async function upsertPage<T extends Record<string, unknown> = Record<string, Json>>(

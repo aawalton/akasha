@@ -8,7 +8,7 @@ import {
   rejectWholesaleTagsSet,
   requireFileBacked,
 } from "../guards/guards.module.code.ts"
-import { overServer, writesOverServer } from "../over-server/over-server.module.code.ts"
+import { asPageList, overServer, writesOverServer } from "../over-server/over-server.module.code.ts"
 import type { JsonPatch, PagePropertiesInput, PageSelect } from "../types/types.module.code.ts"
 
 const LAST_VIEWED_AT_KEY = "lastViewedAt"
@@ -20,11 +20,6 @@ export type PatchPageArgs<T extends Record<string, unknown> = Record<string, Jso
   patch?: JsonPatch
   select?: PageSelect
   pipelineScope?: number | string
-}
-
-function asPageList(value: unknown): readonly Page[] {
-  if (!Array.isArray(value)) return []
-  return value.map((row) => asPage(row))
 }
 
 async function callPagePatch<T extends Record<string, unknown> = Record<string, Json>>(

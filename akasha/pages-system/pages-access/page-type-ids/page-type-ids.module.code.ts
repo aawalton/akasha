@@ -1,5 +1,6 @@
 import type { Asked } from "@shared/pages-query"
 import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
+import { textOf } from "../file-property-defs/file-property-defs.module.code.ts"
 
 export type GetPageTypeIdsBySlugsArgs = { readonly slugs: ReadonlyArray<string> }
 
@@ -25,11 +26,6 @@ export class PageTypesMissing extends Error {
     this.name = "PageTypesMissing"
     this.slugs = slugs
   }
-}
-
-function textOf(values: Readonly<Record<string, unknown>>, key: string): string | null {
-  const value = values[key]
-  return typeof value === "string" && value !== "" ? value : null
 }
 
 export async function getPageTypeIdsBySlugs(

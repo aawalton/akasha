@@ -1,3 +1,4 @@
+import { asPage, type Page } from "@akasha/pages-core/page-types"
 import type { Json } from "@shared/supabase-database/generated/database"
 import { JsonSchema } from "@shared/utils-narrow/json-schema"
 import { z } from "zod"
@@ -53,6 +54,11 @@ const SERVER_REPLY = z.looseObject({
 })
 
 type ServerReply = { readonly error?: string; readonly result?: Json }
+
+export function asPageList(value: unknown): readonly Page[] {
+  if (!Array.isArray(value)) return []
+  return value.map((row) => asPage(row))
+}
 
 export async function overServer(op: WriteOverServerOp, args: unknown): Promise<Json> {
   let response: Response
