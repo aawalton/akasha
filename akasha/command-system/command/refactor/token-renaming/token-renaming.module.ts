@@ -178,7 +178,7 @@ export const tokenRenaming = {
     {
       invariantKind: "departure",
       statement:
-        "The paths a name is resolved over and the paths a spelling left behind is looked for in are handed in apart.",
+        "The paths a name is resolved over arrive apart from the paths a leftover spelling is looked for in.",
     },
     {
       invariantKind: "absence",
