@@ -175,8 +175,12 @@ export function codeWorld(named: Readonly<Record<string, string>> = {}): string 
   return repoWith({ [HOLDER]: CODE, [TARGET]: OTHER, ...named })
 }
 
+export const SIDE = "akasha/one/held.module.test.ts"
+
+export const SIDE_AT = "akasha/one/deep/held.module.test.ts"
+
 export function sidecarWorld(): string {
-  return repoWith({ [HELD]: PAGE, [HOLDER]: CODE, "akasha/one/held.module.test.ts": OTHER })
+  return repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [SIDE]: OTHER })
 }
 
 export function takenWorld(): string {
@@ -255,6 +259,47 @@ export const NESTED_AT = "akasha/far/one/under/nested.module.code.ts"
 export const LOOSE = "akasha/one/loose.module.ts"
 
 export const UNSAID_UNDER = "akasha/far/one/held.module.uncommitted.ts"
+
+export const LOCK = "tools/lock.json"
+
+export const BINARY = "tools/held.bin"
+
+export const BINARY_BODY = `${FOLDER}\u0000held\n`
+
+export const REPOINTED = `2 files naming what moved would be repointed — ${NAMER}, ${HOLDER}`
+
+export const LOCKED = `{
+  "akasha/one": 1,
+  "akasha/one-other": 2,
+  "akasha/one/held.module.ts": 3,
+  "@akasha/one": "workspace:akasha/one"
+}
+`
+
+export const RELOCKED = `{
+  "akasha/far/one": 1,
+  "akasha/one-other": 2,
+  "akasha/far/one/held.module.ts": 3,
+  "@akasha/one": "workspace:akasha/far/one"
+}
+`
+
+export function outsideWorld(): string {
+  return rebuilt(
+    repoWith({
+      [HELD]: PAGE,
+      [HOLDER]: CODE,
+      [TARGET]: OTHER,
+      [LOCK]: LOCKED,
+      [BINARY]: BINARY_BODY,
+    })
+  )
+}
+
+export function outsideMoved(): { readonly root: string; readonly said: Answer } {
+  const root = outsideWorld()
+  return { root, said: move(FOLDER_PAIR, givenIn(root)) }
+}
 
 export function folderWorld(): string {
   return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [NESTED_HELD]: OTHER, [TARGET]: OTHER }))

@@ -18,6 +18,7 @@ import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import { glassIn, messageIn, pathInside } from "../write/write.command.code.ts"
 import { FROM, pairsIn, TO, VALUED } from "./move-arguing/move-arguing.module.code.ts"
 import { manifestingOver } from "./move-manifesting/move-manifesting.module.code.ts"
+import { outsideIn, outsideSaid } from "./move-outside/move-outside.module.code.ts"
 import type { Renaming } from "./move-renaming/move-renaming.module.code.ts"
 import {
   addressingOver,
@@ -36,10 +37,6 @@ const AKASHA = "akasha"
 const INSIDE = `${AKASHA}/`
 
 const TS = ".ts"
-
-const OUTSIDE_INDEX =
-  `the index carries \`${INSIDE}\` alone, so a file outside it importing what moved stands ` +
-  "unrepointed and was not looked for"
 
 export type Naming = { readonly held: Listed | null } | { readonly unread: string }
 
@@ -112,7 +109,7 @@ type Sided = {
 type Reached = {
   readonly repointed: readonly string[]
   readonly unread: string | null
-  readonly reaching: boolean
+  readonly outside: readonly string[]
 }
 
 function sidedIn(
@@ -241,7 +238,7 @@ function carrying(
     )
   }
   if (reached.unread !== null) report.push(reached.unread)
-  if (reached.reaching) report.push(OUTSIDE_INDEX)
+  report.push(...outsideSaid(reached.outside, dry))
   return report
 }
 
@@ -367,10 +364,15 @@ export function move(argv: readonly string[], given: Given): Answer {
     carries.push({ was: path, now: path, from: blobIdOf(held) })
     changes.push({ path, body: new TextEncoder().encode(next), carried: true })
   }
+  const named = new Map([...spread.folders.map((one) => [one.from, one.to] as const), ...moved])
+  const outside = outsideIn(root, base, named)
+  if ("refusal" in outside) return answering([], [outside.refusal], 1)
+  changes.push(...outside.changes)
+  carries.push(...outside.carries)
   const reached: Reached = {
     repointed: repointing,
     unread: "unread" in reading ? reading.unread : null,
-    reaching: [...moved.keys()].some((one) => one.endsWith(TS)),
+    outside: outside.paths,
   }
   const message =
     said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`

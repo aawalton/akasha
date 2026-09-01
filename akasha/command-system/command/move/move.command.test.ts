@@ -29,6 +29,7 @@ import {
   heldPage,
   heldUnindexed,
   importing,
+  LOCK,
   MISSING,
   NAMER,
   NAMERS,
@@ -36,15 +37,20 @@ import {
   namersIn,
   OTHER,
   oneUnsaid,
+  outsideMoved,
   PAGE,
   PAIR,
+  RELOCKED,
   RENAME,
+  REPOINTED,
   rebuilt,
   renamed,
   renamedText,
   renaming,
   SECOND_UNSAID,
   SECOND_UNSAID_AT,
+  SIDE,
+  SIDE_AT,
   SLUG_RENAME,
   SPELLS,
   scratch,
@@ -80,7 +86,14 @@ test("a file is carried to its new path, the old path goes, and the page's id is
   expect(said.report[0]).toBe(`${HELD} moved to ${THREE}`)
   expect(told(said)).not.toContain("wrote ")
   expect(said.report.at(-1)).toStartWith("committed as ")
-  expect(told(said)).toContain("was not looked for")
+  expect(told(said)).toContain("no file outside")
+})
+
+test("a file outside akasha naming a moved folder is repointed and a near name is not", () => {
+  const { root, said } = outsideMoved()
+  expect(said.refusals).toEqual([])
+  expect(bodyIn(root, LOCK)).toBe(RELOCKED)
+  expect(told(said)).toContain(`outside \`akasha/\` naming what moved was repointed — ${LOCK}`)
 })
 
 test("a page's sidecars go with it without being named", () => {
@@ -88,7 +101,7 @@ test("a page's sidecars go with it without being named", () => {
   const said = move(["--from", HELD, "--to", DEEP], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(there(root, DEEPER)).toBe(true)
-  expect(there(root, "akasha/one/deep/held.module.test.ts")).toBe(true)
+  expect(there(root, SIDE_AT)).toBe(true)
   expect(there(root, HOLDER)).toBe(false)
   expect(told(said)).toContain("stood beside what you named")
 })
@@ -107,8 +120,7 @@ test("what imports or spells what moved is repointed, and a dry run writes none"
   claiming(root, NAMER, [AAAA])
   importing(root, TARGET, [HOLDER])
   const carry = ["--from", TARGET, "--to", ARRIVES]
-  const named = `2 files naming what moved would be repointed — ${NAMER}, ${HOLDER}`
-  expect(told(move([...carry, "--dry-run"], givenIn(root)))).toContain(named)
+  expect(told(move([...carry, "--dry-run"], givenIn(root)))).toContain(REPOINTED)
   expect(bodyIn(root, NAMER)).toBe(SPELLS)
   const said = move(carry, givenIn(root))
   expect(said.refusals).toEqual([])
@@ -261,8 +273,8 @@ test("a dry run names the pairs it would carry, sidecars and all", () => {
   const report = told(said)
   expect(report).toContain(`${HELD} would move to ${DEEP}`)
   expect(report).toContain("stand beside what you named and would go with it")
-  expect(report).toContain("akasha/one/held.module.code.ts to akasha/one/deep/held.module.code.ts")
-  expect(report).toContain("akasha/one/held.module.test.ts to akasha/one/deep/held.module.test.ts")
+  expect(report).toContain(`${HOLDER} to ${DEEPER}`)
+  expect(report).toContain(`${SIDE} to ${SIDE_AT}`)
   expect(report).toContain("none were repointed")
 })
 

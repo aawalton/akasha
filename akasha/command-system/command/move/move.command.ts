@@ -13,6 +13,7 @@ export const move = {
   partSlugs: [
     "module/move-arguing",
     "module/move-manifesting",
+    "module/move-outside",
     "module/move-renaming",
     "module/move-repointing",
     "module/move-spreading",
@@ -33,6 +34,7 @@ export const move = {
     "a folder you name carries every file git holds under it, each keeping its place beneath it.",
     "a file git is told to ignore goes as a sidecar rather than as folder contents.",
     "the files naming what moves are repointed in the same commit.",
+    "a tracked file outside `akasha/` spelling a path that moves is repointed with it.",
     "a package manifest naming a file that moves is repointed with it.",
     "a manifest that moves states its ways in from the folder it arrives in.",
     "a way in whose file leaves the package is taken out of that manifest.",
@@ -226,6 +228,30 @@ export const move = {
     {
       invariantKind: "constraint",
       statement: "The index carries the `akasha/` folder alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A tracked file outside `akasha/` spelling a path that moves is repointed in the same commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which files outside `akasha/` spell a path that moves is answered by searching what git tracks.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path outside `akasha/` is repointed by the path itself rather than by what a specifier reaches.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name carrying more of a segment than the path that moved is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The files outside `akasha/` that were repointed are reported apart from those inside.",
     },
     {
       invariantKind: "departure",
