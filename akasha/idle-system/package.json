@@ -5,6 +5,12 @@
   "exports": {
     "./state": "./idle-state/idle-state.module.code.ts",
     "./constants": "./idle-constants/idle-constants.module.code.ts",
-    "./gacha-state": "./idle-gacha-state/idle-gacha-state.module.code.ts"
+    "./gacha-state": "./idle-gacha-state/idle-gacha-state.module.code.ts",
+    "./dormancy": "./idle-dormancy/idle-dormancy.module.code.ts",
+    "./deriving": "./idle-deriving/idle-deriving.module.code.ts",
+    "./save": "./idle-save/idle-save.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
   }
 }
