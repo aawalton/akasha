@@ -1,7 +1,6 @@
 import { dirname, join } from "node:path"
-import { listedByPath } from "@akasha/indexes"
-import { filePropertiesAt, pageTypesIn, pathsOf } from "@akasha/indexes/entries"
-import type { Reading } from "@akasha/indexes/shape"
+import type { Answering } from "@akasha/indexes/answering"
+import { pathsOf } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages-system/change"
 import { pageNamed } from "@akasha/pages-system/page-file-name"
 import { valueIn } from "@akasha/pages-system/page-value"
@@ -16,13 +15,13 @@ const TS = ".ts"
 export function pagesTouchedBy(
   change: Change,
   pageTypes: ReadonlySet<string>,
-  given: string | Reading
+  index: Answering
 ): readonly string[] {
   const found = new Set<string>()
   for (const path of change.changed) {
     if (!path.startsWith(INSIDE)) continue
     if (pageNamed(path, pageTypes)) found.add(path)
-    for (const one of listedByPath(given, path)) {
+    for (const one of index.listedByPath(path)) {
       if (one.path.startsWith(INSIDE)) found.add(one.path)
     }
   }
@@ -79,10 +78,10 @@ export function missingFor(
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const pageTypes = pageTypesIn(shadow.reading)
-  const fileProperties = filePropertiesAt(shadow.reading)
+  const pageTypes = shadow.index.pageTypesIn()
+  const fileProperties = shadow.index.filePropertiesAt()
   const said: Judged[] = []
-  for (const page of pagesTouchedBy(change, pageTypes, shadow.reading)) {
+  for (const page of pagesTouchedBy(change, pageTypes, shadow.index)) {
     said.push(...missingFor(change, page, fileProperties))
   }
   return said
