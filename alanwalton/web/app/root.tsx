@@ -43,6 +43,7 @@ const AUTH_CONFIG: AuthRouteConfig = {
     "/api/surplus",
     "/api/safety-level",
     "/api/categorization",
+    "/api/readout-relay",
     "/api/wallpaper",
     /^\/api\/media\//,
     /^\/api\/load$/,

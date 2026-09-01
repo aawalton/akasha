@@ -30,6 +30,7 @@ export default [
   route("api/surplus", "routes/api.surplus.ts"),
   route("api/safety-level", "routes/api.safety-level.ts"),
   route("api/categorization", "routes/api.categorization.ts"),
+  route("api/readout-relay", "routes/api.readout-relay.ts"),
   route("api/sms/webhook", "routes/api.sms.webhook.ts"),
   route("api/sms/opt-in", "routes/api.sms.opt-in.ts"),
   route("api/spotify/callback", "routes/api.spotify.callback.ts"),
