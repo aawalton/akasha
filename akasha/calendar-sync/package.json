@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/calendar-sync",
+  "private": true,
+  "type": "module",
+  "exports": {},
+  "dependencies": {
+    "@shared/pages-query": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
