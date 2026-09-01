@@ -1,9 +1,8 @@
-import { execFileSync } from "node:child_process"
 import { copyFileSync, existsSync, realpathSync, rmSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
-import { said } from "@akasha/utils-run/running"
+import { said, shown } from "@akasha/utils-run/running"
 import { codeRoot } from "@tools/lib/code-root"
 import {
   fetchOrigin,
@@ -61,16 +60,12 @@ export async function buildWwwFromMainTip(opts: {
 
   if (!worktreeStands(buildDir, repoRoot)) {
     rmSync(buildDir, { recursive: true, force: true })
-    execFileSync("git", ["-C", repoRoot, "worktree", "prune"], { stdio: "inherit" })
-    execFileSync("git", ["-C", repoRoot, "worktree", "add", "--detach", buildDir, mainSha], {
-      stdio: "inherit",
-    })
+    shown(["git", "-C", repoRoot, "worktree", "prune"])
+    shown(["git", "-C", repoRoot, "worktree", "add", "--detach", buildDir, mainSha])
   } else {
-    execFileSync("git", ["-C", buildDir, "fetch", "origin"], { stdio: "inherit" })
-    execFileSync("git", ["-C", buildDir, "checkout", "--detach", "--force", mainSha], {
-      stdio: "inherit",
-    })
-    execFileSync("git", ["-C", buildDir, "clean", "-fd"], { stdio: "inherit" })
+    shown(["git", "-C", buildDir, "fetch", "origin"])
+    shown(["git", "-C", buildDir, "checkout", "--detach", "--force", mainSha])
+    shown(["git", "-C", buildDir, "clean", "-fd"])
   }
 
   const webEnvSegments = app.webEnvSegments
@@ -81,17 +76,16 @@ export async function buildWwwFromMainTip(opts: {
     }
   }
 
-  execFileSync("bun", ["install"], { cwd: buildDir, stdio: "inherit" })
+  shown(["bun", "install"], { cwd: buildDir })
   const shellRoot = shellRepoRoot(app)
   const stageScript = join(shellRoot, splitRepoPath(app.wwwStageScript).path)
   const spaSource =
     app.spaSourceRepoPath === null
       ? buildDir
       : join(buildDir, splitRepoPath(app.spaSourceRepoPath).path)
-  execFileSync("bash", [stageScript], {
+  shown(["bash", stageScript], {
     cwd: shellRoot,
     env: { ...process.env, [SPA_SOURCE_VAR]: spaSource },
-    stdio: "inherit",
   })
 
   const wwwDir = join(shellRoot, stagedWwwRepoPath(app) ?? "")
