@@ -32,11 +32,11 @@ export const commandSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "Naming one costs the same at any size.",
+      statement: "Naming a command costs the same amount at any size.",
     },
     {
       invariantKind: "departure",
-      statement: "A command answers with what to report and what refused it.",
+      statement: "A command answers with what to report and what refused the command.",
     },
     {
       invariantKind: "departure",

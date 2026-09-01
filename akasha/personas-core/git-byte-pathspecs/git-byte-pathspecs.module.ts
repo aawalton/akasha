@@ -14,7 +14,7 @@ export const gitBytePathspecs = {
     },
     {
       invariantKind: "departure",
-      statement: "A pathspec two prefixes both ask for is listed once.",
+      statement: "A pathspec two prefixes ask for is listed once.",
     },
   ],
 } as const satisfies Module

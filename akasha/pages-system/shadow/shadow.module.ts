@@ -30,11 +30,11 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A body that must be loaded is reached at the path on disk holding it rather than the path the change leaves it at.",
+        "A body that must be loaded is reached at the path on disk holding the body rather than the path the change leaves the body at.",
     },
     {
       invariantKind: "departure",
-      statement: "A body the change only carries elsewhere stands at the path it came from.",
+      statement: "A body the change only carries elsewhere stands at the path the body came from.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "An audit leaves everything as it stands.",
+      statement: "An audit leaves everything as everything stands.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +77,7 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A shadow handed to something that may not read it is worked out when it is first read.",
+        "A shadow handed to something that may not read the shadow is worked out when the shadow is first read.",
     },
     {
       invariantKind: "absence",

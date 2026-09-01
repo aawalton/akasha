@@ -24,29 +24,30 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "departure",
-      statement: "Every page type is judged whenever the change carries one.",
+      statement: "Every page type is judged whenever the change carries a page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type the change carries is read as the change leaves it.",
+      statement: "A page type the change carries is read as the change leaves the page type.",
     },
     {
       invariantKind: "departure",
-      statement: "Which page types stand is read from the index as the change leaves it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What a page type above declares is read as the change leaves it.",
+      statement: "Which page types stand is read from the index as the change leaves the index.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A part is matched by the slug it addresses rather than by the page type it names.",
+        "What a page type above declares is read as the change leaves the page type above.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A change carrying no page type is passed over before the index as the change leaves it is worked out.",
+        "A part is matched by the slug the part addresses rather than by the page type the part names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change carrying no page type is passed over before the index as the change leaves the index is worked out.",
     },
     {
       invariantKind: "absence",
@@ -54,7 +55,7 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "absence",
-      statement: "A property a page type restates to narrow it is no introduction.",
+      statement: "A property a page type restates to narrow the property is no introduction.",
     },
     {
       invariantKind: "gap",

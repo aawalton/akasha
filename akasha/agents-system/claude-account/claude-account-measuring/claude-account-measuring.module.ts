@@ -20,7 +20,7 @@ export const claudeAccountMeasuring = {
     {
       invariantKind: "departure",
       statement:
-        "A root naming no claude-account index is refused rather than answered as a fleet of none.",
+        "A root naming no claude-account index is refused rather than answered as a fleet of no accounts.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const claudeAccountMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "An account whose subscription is withdrawn has spent all of both windows.",
+      statement: "An account whose subscription is withdrawn has spent the whole of both windows.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,8 @@ export const claudeAccountMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "An account whose access token has lapsed is passed over as the picker passes it.",
+      statement:
+        "An account whose access token has lapsed is passed over as the picker passes the account.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +46,7 @@ export const claudeAccountMeasuring = {
     {
       invariantKind: "departure",
       statement:
-        "An account that can no longer renew itself is marked with the alias that signs it back in.",
+        "An account that can no longer renew itself is marked with the alias that signs the account back in.",
     },
     {
       invariantKind: "departure",

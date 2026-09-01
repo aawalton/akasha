@@ -21,7 +21,7 @@ export const duringCall = {
     },
     {
       invariantKind: "absence",
-      statement: "Loading this reaches nothing of node and makes nothing.",
+      statement: "Loading this module reaches nothing of node and makes nothing.",
     },
     {
       invariantKind: "departure",

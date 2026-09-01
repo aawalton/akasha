@@ -10,7 +10,7 @@ export const recurrence = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A recurrence is stored as an rrule string and read back from it.",
+      statement: "A recurrence is stored as an rrule string and read back from the rrule string.",
     },
     {
       invariantKind: "departure",

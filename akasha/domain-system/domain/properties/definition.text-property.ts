@@ -14,7 +14,7 @@ export const definition = {
     {
       invariantKind: "absence",
       statement:
-        "A definition holds no clause saying what the thing is for or why it is worth having or where it sits.",
+        "A definition holds no clause saying what the thing is for or why the thing is worth having or where the thing sits.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const definition = {
     {
       invariantKind: "departure",
       statement:
-        "What a domain is about stays on its own line even where every sibling is about it too.",
+        "What a domain is about stays on its own line even where every sibling is about what the domain is about too.",
     },
   ],
 } as const satisfies TextProperty

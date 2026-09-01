@@ -10,7 +10,7 @@ export const idMinting = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what an identifier it makes will name.",
+      statement: "Nothing here knows what an identifier this package makes will name.",
     },
   ],
 } as const satisfies WorkspacePackage

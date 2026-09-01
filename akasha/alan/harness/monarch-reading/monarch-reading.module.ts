@@ -26,7 +26,7 @@ export const monarchReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Running this file takes a reading.",
+      statement: "A run of this file takes a reading.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const monarchReading = {
     {
       invariantKind: "departure",
       statement:
-        "A cookie that is not set refuses by that name and says only Alan can produce one.",
+        "A cookie that is not set refuses by that name and says only Alan can produce a cookie.",
     },
     {
       invariantKind: "departure",

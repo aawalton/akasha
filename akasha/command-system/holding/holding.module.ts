@@ -22,7 +22,8 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement: "The hold names the process that took it and the moment that process started.",
+      statement:
+        "The hold names the process that took the hold and the moment that process started.",
     },
     {
       invariantKind: "departure",
@@ -30,15 +31,16 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement: "A hold naming no holder that can be read is taken once it has stood too long.",
+      statement:
+        "A hold naming no holder that can be read is taken once the hold has stood too long.",
     },
     {
       invariantKind: "departure",
-      statement: "A hold is released however the act inside it ends.",
+      statement: "A hold is released however the act inside the hold ends.",
     },
     {
       invariantKind: "departure",
-      statement: "A hold is released only by the process whose mark stands in it.",
+      statement: "A hold is released only by the process whose mark stands in the hold.",
     },
     {
       invariantKind: "departure",

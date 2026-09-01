@@ -18,7 +18,7 @@ export const serviceReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A file that will not scan stops what stands behind it and not the rest.",
+      statement: "A file that will not scan stops what stands behind the file and not the rest.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const serviceReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "The reach stops at a thousand files and says that it stopped.",
+      statement: "The reach stops at a thousand files and says that the reach stopped.",
     },
     {
       invariantKind: "absence",

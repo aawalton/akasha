@@ -25,7 +25,7 @@ export const healthSamplesAccess = {
     {
       invariantKind: "departure",
       statement:
-        "A reading is filed under the ESO day it started in rather than the day it arrived.",
+        "A reading is filed under the ESO day the reading started in rather than the day the reading arrived.",
     },
   ],
 } as const satisfies WorkspacePackage

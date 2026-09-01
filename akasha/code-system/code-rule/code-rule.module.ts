@@ -11,11 +11,11 @@ export const codeRule = {
     {
       invariantKind: "departure",
       statement:
-        "Two functions say the same thing when their shape is the same once every name a function binds is read as the order it binds them.",
+        "Two functions say the same thing when their shape is the same once every name a function binds is read as the order the function binds the names.",
     },
     {
       invariantKind: "departure",
-      statement: "A name the function does not bind is read as it is written.",
+      statement: "A name the function does not bind is read as the name is written.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const codeRule = {
     {
       invariantKind: "departure",
       statement:
-        "A function's export status is answered by climbing from it to the statement holding it.",
+        "A function's export status is answered by climbing from the function to the statement holding the function.",
     },
     {
       invariantKind: "absence",
@@ -41,7 +41,7 @@ export const codeRule = {
     {
       invariantKind: "absence",
       statement:
-        "A rule spelled inline as an expression bound to nothing says no rule here at all.",
+        "A rule spelled inline as an expression bound to nothing says no rule here whatsoever.",
     },
     {
       invariantKind: "absence",
@@ -62,7 +62,7 @@ export const codeRule = {
     },
     {
       invariantKind: "absence",
-      statement: "What is done with it is answered elsewhere.",
+      statement: "What is done with a rule is answered elsewhere.",
     },
   ],
 } as const satisfies Module

@@ -52,12 +52,12 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "departure",
-      statement: "That is asked once for the whole run.",
+      statement: "That question is asked once for the whole run.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An index that cannot say which properties are held in a file refuses the run rather than reading as an index naming none and judging every property file a page.",
+        "An index that cannot say which properties are held in a file refuses the run rather than reading as an index naming no properties and judging every property file a page.",
     },
     {
       invariantKind: "departure",

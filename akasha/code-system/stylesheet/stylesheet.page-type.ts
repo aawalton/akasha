@@ -22,11 +22,12 @@ export const stylesheet = {
     },
     {
       invariantKind: "departure",
-      statement: "A stylesheet is its own page rather than a property of what it dresses.",
+      statement:
+        "A stylesheet is its own page rather than a property of what the stylesheet dresses.",
     },
     {
       invariantKind: "departure",
-      statement: "One stylesheet dresses as many components as name its classes.",
+      statement: "One stylesheet dresses as many components as name the stylesheet's classes.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +35,7 @@ export const stylesheet = {
     },
     {
       invariantKind: "departure",
-      statement: "A component imports a stylesheet only to make a bundler emit it.",
+      statement: "A component imports a stylesheet only to make a bundler emit the stylesheet.",
     },
     {
       invariantKind: "departure",

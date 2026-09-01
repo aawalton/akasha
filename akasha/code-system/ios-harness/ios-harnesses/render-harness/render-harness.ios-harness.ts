@@ -19,7 +19,7 @@ export const renderHarness = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Which components it compiles is read from the app it is given.",
+      statement: "Which components the harness compiles is read from the app the harness is given.",
     },
     {
       invariantKind: "departure",

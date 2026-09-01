@@ -9,7 +9,7 @@ export const gateDimension = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A dimension may name the sort of game it is suspended in.",
+      statement: "A dimension may name the sort of game the dimension is suspended in.",
     },
   ],
 } as const satisfies Module

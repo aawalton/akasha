@@ -11,7 +11,7 @@ export const fileFollowing = {
     {
       invariantKind: "departure",
       statement:
-        "A file is weighed by a hash of its bytes rather than by when it was last touched.",
+        "A file is weighed by a hash of its bytes rather than by when the file was last touched.",
     },
     {
       invariantKind: "departure",

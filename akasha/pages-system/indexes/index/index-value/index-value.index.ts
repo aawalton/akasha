@@ -11,7 +11,7 @@ export const indexValue = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value file is found by the page type whose pages it carries.",
+      statement: "A value file is found by the page type whose pages the value file carries.",
     },
     {
       invariantKind: "departure",

@@ -18,16 +18,17 @@ export const seatNameClaim = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat retaking the name it already holds is allowed without any further test.",
+      statement:
+        "A seat retaking the name the seat already holds is allowed without any further test.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name held by a seat with a process in it is refused unless the caller says to take it.",
+        "A name held by a seat with a process in the seat is refused unless the caller says to take the name.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller whose own seat holds the name takes it back without saying so.",
+      statement: "A caller whose own seat holds the name takes the name back without saying so.",
     },
     {
       invariantKind: "absence",

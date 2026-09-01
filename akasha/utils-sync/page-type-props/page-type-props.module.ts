@@ -9,7 +9,8 @@ export const pageTypeProps = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property naming another page states what it targets and what comes back.",
+      statement:
+        "A property naming another page states what the property targets and what comes back.",
     },
     {
       invariantKind: "absence",

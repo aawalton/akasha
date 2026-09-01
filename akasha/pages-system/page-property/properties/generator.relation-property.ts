@@ -16,11 +16,11 @@ export const generator = {
     },
     {
       invariantKind: "departure",
-      statement: "A page being created that states the property keeps what it states.",
+      statement: "A page being created that states the property keeps what the page states.",
     },
     {
       invariantKind: "departure",
-      statement: "A body carried from another path is left as it stands.",
+      statement: "A body carried from another path is left as the body stands.",
     },
     {
       invariantKind: "departure",

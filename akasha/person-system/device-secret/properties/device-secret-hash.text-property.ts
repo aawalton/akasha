@@ -14,7 +14,7 @@ export const deviceSecretHash = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here is reversible to the secret it was taken over.",
+      statement: "Nothing here is reversible to the secret the hash was taken over.",
     },
   ],
 } as const satisfies TextProperty

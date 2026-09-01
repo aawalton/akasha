@@ -13,7 +13,7 @@ export const fileName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is the whole name rather than an extension.",
+      statement: "This file name is the whole name rather than an extension.",
     },
   ],
 } as const satisfies TextProperty

@@ -15,28 +15,30 @@ export const codeSource = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a node can be asked what holds it is named rather than passed as a bare flag.",
+        "Whether a node can be asked what holds the node is named rather than passed as a bare flag.",
     },
     {
       invariantKind: "departure",
-      statement: "A line is answered counting from one.",
+      statement: "A line is answered counting from the first line.",
     },
     {
       invariantKind: "departure",
-      statement: "A node is answered at where its own text starts past whatever trivia leads it.",
+      statement:
+        "A node is answered at where its own text starts past whatever trivia leads the node.",
     },
     {
       invariantKind: "departure",
-      statement: "The object literal a declaration holds is answered past whatever casts wrap it.",
+      statement:
+        "The object literal a declaration holds is answered past whatever casts wrap the object literal.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges a body or knows why it is read.",
+      statement: "Nothing here judges a body or knows why the body is read.",
     },
     {
       invariantKind: "absence",
       statement:
-        "A check and a rule and a move all parse the same way and differ only in what they then walk.",
+        "A check and a rule and a move all parse the same way and differ only in what a check and a rule and a move then walk.",
     },
     {
       invariantKind: "absence",

@@ -15,7 +15,7 @@ export const scopes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A scope is written as the grant spells it.",
+      statement: "A scope is written as the grant spells the scope.",
     },
     {
       invariantKind: "departure",

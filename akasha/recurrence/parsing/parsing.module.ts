@@ -13,7 +13,8 @@ export const parsing = {
     },
     {
       invariantKind: "departure",
-      statement: "`every!` marks a rule anchored at completion rather than at the day it was due.",
+      statement:
+        "`every!` marks a rule anchored at completion rather than at the day the repeating thing was due.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +22,7 @@ export const parsing = {
     },
     {
       invariantKind: "departure",
-      statement: "A time is answered as twenty-four hour `HH:MM` however it was written.",
+      statement: "A time is answered as twenty-four hour `HH:MM` however the time was written.",
     },
   ],
 } as const satisfies Module

@@ -12,7 +12,7 @@ export const nameSubagent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name is honoured only where the seat's own id begins it.",
+      statement: "A name is honoured only where the seat's own id begins the name.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +20,8 @@ export const nameSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "The name reaches a command through the environment of the call it runs in.",
+      statement:
+        "The name reaches a command through the environment of the call the command runs in.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +30,7 @@ export const nameSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A payload naming no subagent leaves the call as it stands.",
+      statement: "A payload naming no subagent leaves the call as the call stands.",
     },
     {
       invariantKind: "departure",
