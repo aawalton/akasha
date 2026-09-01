@@ -1,4 +1,5 @@
 import { readdirSync } from "node:fs"
+import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
 import { matchesGlob, scanGlob } from "./glob/glob.ts"
 import { listField, type Frontmatter } from "./frontmatter.ts"
 import { ignoresUnanswered, notIgnored } from "../repo/ignored/ignored.ts"
@@ -11,7 +12,6 @@ import { indexReaches, loadPages } from "./index/store/store.ts"
 import { onceInCall } from "../during-call/during-call.ts"
 import type { Roots } from "./page.ts"
 import { blockOf, NONE, stringAt } from "./text/text.ts"
-import { pageTypeOf } from "@shared/pages-system/page-type"
 
 export const PAGES_ROOT = "pages"
 

@@ -1,10 +1,10 @@
+import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
 import { attachmentFileOf } from "../../attachment-file.ts"
 import { listField } from "../../frontmatter.ts"
 import { NONE, stringAt } from "../../text/text.ts"
 import { BY_FILE, type Held, type Resolve, kindOf } from "../identity/identity.ts"
 import { LINK_RELATION } from "../link/link.ts"
 import { pageTargetOf } from "../place/place.ts"
-import { pageTypeOf } from "@shared/pages-system/page-type"
 
 const DEFINITION = "page-property-definition"
 

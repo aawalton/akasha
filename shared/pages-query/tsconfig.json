@@ -34,6 +34,7 @@
     "../../akasha/pages-system/name-format/lower-uuid/lower-uuid.name-format.code.ts",
     "../../akasha/pages-system/name-format/name-matching/name-matching.module.code.ts",
     "../../akasha/pages-system/page-type/page-type-descent/page-type-descent.module.code.ts",
+    "../../akasha/pages-system/page/markdown-page-type/markdown-page-type.module.code.ts",
     "../../akasha/pages-system/page/page-address/page-address.module.code.ts",
     "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts",
     "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts",

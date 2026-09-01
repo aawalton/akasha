@@ -1,6 +1,7 @@
 export const summary = "Name a page type's files for their page type, and file them by that name"
 
 import { existsSync, readdirSync, readFileSync } from "node:fs"
+import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
 import { land } from "../../lib/command.ts"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import {
@@ -19,7 +20,6 @@ import { landMoves } from "../../../move/move.ts"
 import { registryOf } from "../../../page/property/registry.ts"
 import { pagesOf, type PageType, pageTypePathIn, soleRepoOf } from "../../../page/page-types.ts"
 import { blockOf, stringAt } from "../../../page/text/text.ts"
-import { pageTypeOf } from "@shared/pages-system/page-type"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {

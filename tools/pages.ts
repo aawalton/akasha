@@ -4,10 +4,10 @@ export const tool = {
 } as const
 
 import { readFileSync } from "node:fs"
+import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
 import { slugNamed } from "../page/page-address.ts"
 import { listDocuments } from "./lib/check.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
-import { pageTypeOf } from "@shared/pages-system/page-type"
 import {
   type PageTypeRows,
   countPages,

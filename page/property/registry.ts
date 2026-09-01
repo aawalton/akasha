@@ -1,3 +1,4 @@
+import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
 import { answeredWhole } from "./answer-cache.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import type { FileTree } from "../file-tree.ts"
@@ -11,7 +12,6 @@ import {
   pageTypeStatedAt,
   type StatedPageType,
 } from "../page-types.ts"
-import { pageTypeOf } from "@shared/pages-system/page-type"
 import { loadPages, rowsStamp } from "../index/store/store.ts"
 import { akashaRoot } from "../../repo/roots/roots.ts"
 import { canonicalize } from "../../repo/path/path.ts"

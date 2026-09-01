@@ -1,11 +1,11 @@
 import { existsSync, readFileSync } from "node:fs"
+import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
 import type { AddressIndex } from "./address-index/address-index.ts"
 import { ENDING_WORD, EXTENSION_WORD, HEADING_WORD } from "../index/identity/identity.ts"
 import { fileTargetOf } from "../index/relation/relation.ts"
 import { listField } from "../frontmatter.ts"
 import type { PageAt } from "../page.ts"
 import { NONE, stringAt } from "../text/text.ts"
-import { pageTypeOf } from "@shared/pages-system/page-type"
 
 const REQUIRED_KEY = "required-reading-slugs"
 

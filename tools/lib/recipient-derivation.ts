@@ -1,8 +1,8 @@
+import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { textField } from "../../page/frontmatter.ts"
 import { domainKindTest } from "../../page/page-types.ts"
 import { registryOf } from "../../page/property/registry.ts"
-import { pageTypeOf } from "@shared/pages-system/page-type"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { championsStanding } from "./akasha-personas.ts"
 import {

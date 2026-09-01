@@ -12,12 +12,12 @@ const VERSION = 5
 const CACHE_AT = ".git/pages/resolved/page-type"
 
 export const CODE_AT: readonly string[] = [
+  "akasha/pages-system/page/markdown-page-type",
   "cache",
   "during-call",
   "exclusive",
   "missing",
   "page",
-  "pages-system/page-type",
   "refusal",
   "repo",
   "write-whole",
