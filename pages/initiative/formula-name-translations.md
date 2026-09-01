@@ -9,6 +9,11 @@ set of page types whose effective rule is non-default.
 
 ## What the translations rest on
 
+The three citations below name files under `shared/pages-system/formula/cases/`. That folder
+was emptied when the package moved into akasha, and nothing had ever run or imported it. Read
+those three at `dec7254da5`, the last commit they stood in; the line numbers are that commit's.
+The formula engine itself stands as `@akasha/pages-formula`.
+
 `named-for` is not plain substitution. `page/name/naming/named-for.ts:16` puts the filled rule
 through `pageStem`: NFKD-normalise, strip diacritics, remove apostrophes, turn every run of
 non-alphanumeric characters into a dash, strip edge dashes, fold to lower case, bound at 100
