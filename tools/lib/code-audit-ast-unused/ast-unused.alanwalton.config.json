@@ -24,8 +24,10 @@
         "**/*.ts"
       ]
     },
-    "alanwalton/sms-access": {
-      "entry": [],
+    "akasha/sms-access": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
       "project": [
         "**/*.ts"
       ]
