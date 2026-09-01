@@ -18,7 +18,7 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading never leaves the machine that took it.",
+      statement: "The file a reading is kept in never leaves the machine that took it.",
     },
     {
       invariantKind: "departure",
