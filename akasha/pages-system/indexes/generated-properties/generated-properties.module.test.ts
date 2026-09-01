@@ -26,7 +26,7 @@ function filed(root: string, at: string, said: Record<string, unknown>): undefin
   put(indexIn(root), at, `${JSON.stringify(said)}\n`)
 }
 
-function standing(root: string, slug: string, said: string): undefined {
+function property(root: string, slug: string, said: string): undefined {
   const at = `akasha/${slug}.${SHAPE}.ts`
   put(
     root,
@@ -117,27 +117,27 @@ test("an index naming no property answers no generated property", () => {
 test("a property stating a generator is answered by its slug", () => {
   const root = rooted()
   named(root, "held")
-  standing(root, "held", ', generator: "uuid-v7"')
+  property(root, "held", ', generator: "uuid-v7"')
   expect([...generatedProperties(shadowAt(root)).keys()]).toEqual(["held"])
 })
 
 test("a property stating no generator is not answered, so the set is what pages say", () => {
   const root = rooted()
   named(root, "held")
-  standing(root, "held", "")
+  property(root, "held", "")
   expect([...generatedProperties(shadowAt(root)).keys()]).toEqual([])
 })
 
 test("a property stating `generator` as nothing states no generator", () => {
   const root = rooted()
   named(root, "held")
-  standing(root, "held", ", generator: null")
+  property(root, "held", ", generator: null")
   expect([...generatedProperties(shadowAt(root)).keys()]).toEqual([])
 })
 
 test("a property page the index does not name is not read, so the index is what answers", () => {
   const root = rooted()
-  standing(root, "held", ', generator: "uuid-v7"')
+  property(root, "held", ', generator: "uuid-v7"')
   expect([...generatedProperties(shadowAt(root)).keys()]).toEqual([])
 })
 
@@ -151,7 +151,7 @@ test("the slugs come back in one order, whatever order the index answers them in
   const root = rooted()
   for (const slug of ["beta", "alpha"]) {
     named(root, slug)
-    standing(root, slug, ', generator: "uuid-v7"')
+    property(root, slug, ', generator: "uuid-v7"')
   }
   expect([...generatedProperties(shadowAt(root)).keys()]).toEqual(["alpha", "beta"])
 })
@@ -160,7 +160,7 @@ test("a third property taking a generator is answered with no code changed here"
   const root = rooted()
   for (const slug of ["one", "two", "three"]) {
     named(root, slug)
-    standing(root, slug, ', generator: "waiting"')
+    property(root, slug, ', generator: "waiting"')
   }
   expect([...generatedProperties(shadowAt(root)).keys()]).toEqual(["one", "three", "two"])
 })
@@ -169,7 +169,7 @@ test("a generator a change declares is answered while that change is being judge
   const root = rooted()
   named(root, "slug", "page-type")
   named(root, "held")
-  standing(root, "held", "")
+  property(root, "held", "")
   expect([...generatedProperties(shadowAt(root)).keys()]).toEqual([])
   expect(overOne(root, heldBody(', generator: "uuid-v7"'))).toEqual(["held"])
 })
@@ -185,7 +185,7 @@ test("a generator a change takes away stops being answered while that change is 
   const root = rooted()
   named(root, "slug", "page-type")
   named(root, "held")
-  standing(root, "held", ', generator: "uuid-v7"')
+  property(root, "held", ', generator: "uuid-v7"')
   expect([...generatedProperties(shadowAt(root)).keys()]).toEqual(["held"])
   expect(overOne(root, heldBody(""))).toEqual([])
 })
@@ -194,14 +194,14 @@ test("a property page a change takes away is answered by nothing", () => {
   const root = rooted()
   named(root, "slug", "page-type")
   named(root, "held")
-  standing(root, "held", ', generator: "uuid-v7"')
+  property(root, "held", ', generator: "uuid-v7"')
   expect(overOne(root, null)).toEqual([])
 })
 
 test("a generated property carries the kind that works it out", () => {
   const root = rooted()
   named(root, "held")
-  standing(root, "held", ', generator: "uuid-v7"')
+  property(root, "held", ', generator: "uuid-v7"')
 
   expect(generatedProperties(shadowAt(root)).get("held")).toEqual({
     key: "held",
@@ -213,9 +213,9 @@ test("a generated property carries the kind that works it out", () => {
 test("whether a value waits for the checks is read from the kind's own page", () => {
   const root = rooted()
   named(root, "early")
-  standing(root, "early", ', generator: "uuid-v7"')
+  property(root, "early", ', generator: "uuid-v7"')
   named(root, "late")
-  standing(root, "late", ', generator: "waiting"')
+  property(root, "late", ', generator: "waiting"')
 
   expect(generatedProperties(shadowAt(root)).get("late")?.afterChecks).toBe(true)
   expect([...waitingProperties(shadowAt(root))]).toEqual(["late"])
@@ -224,7 +224,7 @@ test("whether a value waits for the checks is read from the kind's own page", ()
 test("a generator naming a kind that stands nowhere is refused rather than guessed at", () => {
   const root = rooted()
   named(root, "held")
-  standing(root, "held", ', generator: "no-such-kind"')
+  property(root, "held", ', generator: "no-such-kind"')
 
   expect(() => generatedProperties(shadowAt(root))).toThrow("no `generator-kind` carries that slug")
 })
@@ -232,7 +232,7 @@ test("a generator naming a kind that stands nowhere is refused rather than guess
 test("a generated property is read by the key its property states rather than by its slug", () => {
   const root = rooted()
   named(root, "held", null, "read-by")
-  standing(root, "held", ', generator: "uuid-v7"')
+  property(root, "held", ', generator: "uuid-v7"')
 
   expect(generatedProperties(shadowAt(root)).get("held")?.key).toBe("readBy")
 })
@@ -240,7 +240,7 @@ test("a generated property is read by the key its property states rather than by
 test("what waits for the checks is named by its key where a reader asks for keys", () => {
   const root = rooted()
   named(root, "held", null, "read-by")
-  standing(root, "held", ', generator: "waiting"')
+  property(root, "held", ', generator: "waiting"')
 
   expect([...waitingProperties(shadowAt(root))]).toEqual(["held"])
   expect([...waitingKeys(shadowAt(root))]).toEqual(["readBy"])
