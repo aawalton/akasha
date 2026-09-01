@@ -198,10 +198,10 @@ test("the page is asked for under the key the page carries", async () => {
 
 test("a caller presenting a revoked secret is refused", async () => {
   const secret = generateDeviceSecret()
-  const standing = pageFor(secret, { revokedAt: "2026-08-31T00:00:00.000Z" })
+  const page = pageFor(secret, { revokedAt: "2026-08-31T00:00:00.000Z" })
   const refused = await deviceSecretPresented(
     secret,
-    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [standing] }),
+    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [page] }),
     noNap
   )
   expect(refused.outcome).toBe("refused")
