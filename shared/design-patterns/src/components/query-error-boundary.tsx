@@ -4,7 +4,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import { FolderOpen } from "lucide-react"
 import * as React from "react"
-import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "./empty"
+import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 
 interface QueryErrorBoundaryProps {
   children: React.ReactNode

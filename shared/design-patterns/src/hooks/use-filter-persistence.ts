@@ -3,7 +3,7 @@
 import { useLayoutPathname } from "@akasha/design-layout/router-context"
 import { useCallback, useDeferredValue, useEffect, useRef, useState } from "react"
 import { z } from "zod"
-import { buildValuesFromFields, type FilterField } from "../utils/build-values-from-fields"
+import { buildValuesFromFields, type FilterField } from "@akasha/design-patterns/build-values-from-fields"
 
 export type { FilterField }
 

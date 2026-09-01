@@ -16,13 +16,13 @@ import { cn } from "@akasha/design-primitives/cn"
 import { ArrowDown, ArrowUp, GripVertical, X } from "lucide-react"
 import type { CSSProperties, HTMLAttributes } from "react"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
-import type { SortDirection } from "../utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import {
   applySortDrop,
   computeSortDropZone,
   type SortDropZone,
   type SortRowMeasure,
-} from "./sort-group-helpers"
+} from "@akasha/design-patterns/sort-group-helpers"
 
 const DROP_INDICATOR_CLASS = {
   before:

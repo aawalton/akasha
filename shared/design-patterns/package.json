@@ -5,7 +5,6 @@
   "type": "module",
   "private": true,
   "exports": {
-    ".": "./src/index.ts",
     "./*": "./src/*.ts",
     "./components/*": "./src/components/*.tsx"
   },
@@ -23,10 +22,9 @@
     "@akasha/design-badges": "workspace:*",
     "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
-    "@akasha/pages-core": "workspace:*",
+    "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
-    "ansi-to-html": "^0.7.2",
-    "class-variance-authority": "^0.7.1",
+    "@akasha/pages-core": "workspace:*",
     "lucide-react": "^0.576.0",
     "zod": "^4.3.6"
   },

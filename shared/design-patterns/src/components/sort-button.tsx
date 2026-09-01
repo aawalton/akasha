@@ -12,7 +12,7 @@ import { AddSortButton } from "./add-sort-button"
 import { SortableSortList } from "./sort-group"
 
 
-import type { SortEntry, SortOption } from "../utils/sort-types"
+import type { SortEntry, SortOption } from "@akasha/design-patterns/sort-types"
 
 export interface SortButtonProps<T extends string = string> {
   options: readonly SortOption<T>[]

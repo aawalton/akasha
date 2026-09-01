@@ -8,7 +8,7 @@ import { resolveIconName, searchIcons } from "@akasha/pages-core/icon"
 import { type IconName } from "@akasha/pages-core/generated/icon-search-index"
 import { ChevronLeft, ChevronRight, Search } from "lucide-react"
 import { useCallback, useMemo, useState } from "react"
-import { Icon } from "./icon"
+import { Icon } from "@akasha/design-patterns/lucide-icon"
 
 const ICONS_PER_PAGE = 36
 

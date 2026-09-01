@@ -10,7 +10,7 @@ import { cn } from "@akasha/design-primitives/cn"
 import { Group, X } from "lucide-react"
 import { useState } from "react"
 import { AddSortButton } from "./add-sort-button"
-import type { SortEntry, SortOption } from "../utils/sort-types"
+import type { SortEntry, SortOption } from "@akasha/design-patterns/sort-types"
 import { SortableSortList } from "./sort-group"
 
 export interface GroupOption<T extends string = string> {
