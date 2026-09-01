@@ -1,0 +1,9 @@
+{
+  "name": "@akasha/web-security-headers",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./security-headers": "./security-headers/security-headers.module.code.ts",
+    "./csp-nonce": "./csp-nonce/csp-nonce.module.code.ts"
+  }
+}

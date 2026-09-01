@@ -34,6 +34,7 @@ export const alanHarness = {
     "workspace-package/geo-io",
     "workspace-package/browser-launch-env",
     "workspace-package/web-static-assets",
+    "workspace-package/web-security-headers",
   ],
   invariants: [
     {
