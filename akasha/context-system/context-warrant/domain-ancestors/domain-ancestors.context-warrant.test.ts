@@ -10,7 +10,7 @@ import {
   namesPart,
   pathsOf,
   seatStanding,
-  typedStanding,
+  typedListed,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
@@ -34,7 +34,7 @@ test("a seat warrants the domain the one it states is a part of", () => {
 test("a seat stating another page type walks from the page standing under it", () => {
   const root = scratch.rootFor("akasha-domain-ancestors-")
   const top = domainStanding(root, "akasha-system")
-  const mid = typedStanding(root, "workspace-package", "checks-system")
+  const mid = typedListed(root, "workspace-package", "checks-system")
   namesPart(root, top, mid)
   const at = seatStanding(root, "one", `assignmentSlug: "workspace-package/checks-system"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
@@ -107,7 +107,7 @@ test("a seat stating an initiative walks from the domain that initiative names",
 test("an initiative naming its domain under another page type walks from that page", () => {
   const root = scratch.rootFor("akasha-domain-ancestors-")
   const top = domainStanding(root, "akasha-system")
-  const mid = typedStanding(root, "workspace-package", "domain-system")
+  const mid = typedListed(root, "workspace-package", "domain-system")
   namesPart(root, top, mid)
   initiativeStanding(root, "one-work", `domainSlug: "workspace-package/domain-system"`)
   const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
