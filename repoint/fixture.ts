@@ -1,7 +1,7 @@
 import { cpSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
-import { AKASHA, ownRepoRoot, REPOS } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, ownRepoRoot, repos } from "@akasha/pages-system/checkout-roots"
 import { type Moves, surveyRename } from "./repoint.ts"
 
 const SCRATCH = "/var/tmp"
@@ -47,7 +47,7 @@ export function installPages(root: string, relPaths: readonly string[]): void {
   }
 }
 
-const BESIDE: readonly string[] = REPOS.filter((one) => one !== AKASHA)
+const BESIDE: readonly string[] = repos().filter((one) => one !== AKASHA)
 
 export function rootsAt(at: string): Roots {
   const roots: Record<string, string> = { [AKASHA]: at, target: AKASHA }

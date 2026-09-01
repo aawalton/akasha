@@ -1,10 +1,10 @@
 import { execFileSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { join } from "node:path"
-import { HERE } from "@akasha/pages-system/checkout-roots"
+import { akashaHere } from "@akasha/pages-system/checkout-roots"
 
 function akashaStands(): string {
-  return HERE
+  return akashaHere()
 }
 
 const UNDER = "pages"

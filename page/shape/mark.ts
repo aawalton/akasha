@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { existsSync } from "node:fs"
 import { gitCapped } from "../../repo/git/git.ts"
-import { AKASHA, akashaRoot, REPOS } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, akashaRoot, repos } from "@akasha/pages-system/checkout-roots"
 import type { FileTree } from "../file-tree.ts"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { RUNTIME_MARK } from "../runtime/runtime.ts"
@@ -133,7 +133,7 @@ export function groundSpanning(roots: Roots): Ground | null {
   if (own === null) return null
   const parts: string[] = []
   const blobs = new Map<string, string>()
-  for (const repo of REPOS) {
+  for (const repo of repos()) {
     const root = roots[repo]
     if (root === undefined) continue
     const one = repoParts(repo, root)

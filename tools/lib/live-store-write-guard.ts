@@ -1,5 +1,5 @@
 import { canonicalize } from "@akasha/pages-system/repo-path"
-import { checkoutBeside, REPOS } from "@akasha/pages-system/checkout-roots"
+import { checkoutBeside, repos } from "@akasha/pages-system/checkout-roots"
 
 export const TEST_RUN = "AKASHA_TEST_RUN"
 
@@ -10,7 +10,7 @@ function inATestRun(): boolean {
 
 function liveCheckoutAt(root: string): string | null {
   const at = canonicalize(root)
-  for (const repo of REPOS) {
+  for (const repo of repos()) {
     if (canonicalize(checkoutBeside(repo)) === at) return repo
   }
   return null

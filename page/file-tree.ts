@@ -1,7 +1,7 @@
 import { onceInCall } from "@akasha/command-system/during-call"
 import { repoPlacings, scanSpanning } from "./page-types.ts"
 import { textAt } from "./text/text.ts"
-import { AKASHA, REPOS, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, repos, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export type Open = (relPath: string) => string | null
@@ -17,7 +17,7 @@ export interface FileTree {
 
 function openAcross(roots: Roots): Open {
   return (relPath: string): string | null => {
-    for (const repo of REPOS) {
+    for (const repo of repos()) {
       const root = roots[repo]
       if (root === undefined) continue
       const text = textAt(root, relPath)
@@ -39,7 +39,7 @@ function builtDiskTree(roots: Roots): FileTree {
 }
 
 export function rootsKey(roots: Roots): string {
-  return REPOS.map((repo) => roots[repo] ?? "").join("|")
+  return repos().map((repo) => roots[repo] ?? "").join("|")
 }
 
 export function diskFileTree(roots: Roots): FileTree {

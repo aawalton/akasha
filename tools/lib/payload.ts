@@ -5,7 +5,7 @@ import { type Repo as Addressable } from "@akasha/pages-system/markdown-document
 import { type Roots } from "@akasha/pages-system/markdown-page-at"
 import {
   AKASHA,
-  ADDRESSABLE_NAMED,
+  addressableNamed,
   isAddressable,
   locate,
   resolveRoots,
@@ -105,7 +105,7 @@ export function repoNamed(argv: readonly string[]): Addressable | null {
   const value = argv[at + 1]
   if (value === undefined) fail("--repo needs a value")
   if (!isAddressable(value)) {
-    fail(`--repo ${value} names no repo a command addresses; it takes ${ADDRESSABLE_NAMED}`)
+    fail(`--repo ${value} names no repo a command addresses; it takes ${addressableNamed()}`)
   }
   return value
 }
@@ -143,7 +143,7 @@ export function addressOf(argv: readonly string[], also: readonly string[] = [])
   }
   const [repo, absolute] = [...where][0] as [Repo, string]
   if (!isAddressable(repo)) {
-    fail(`${absolute} is inside no repo this reaches — it reaches ${ADDRESSABLE_NAMED}`)
+    fail(`${absolute} is inside no repo this reaches — it reaches ${addressableNamed()}`)
   }
   const named = repoNamed(argv)
   if (named !== null && named !== repo) {
@@ -185,7 +185,7 @@ export function rootsOfSide(flag: string, paths: readonly string[]): Roots {
   if (first === undefined) fail(`${flag} names no path, so nothing says which repo it reaches`)
   const [repo, absolute] = first
   if (!isAddressable(repo)) {
-    fail(`${absolute} is inside no repo this reaches — it reaches ${ADDRESSABLE_NAMED}`)
+    fail(`${absolute} is inside no repo this reaches — it reaches ${addressableNamed()}`)
   }
   return resolveRoots(repo)
 }

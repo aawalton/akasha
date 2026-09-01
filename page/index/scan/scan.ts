@@ -1,6 +1,6 @@
 import { onceInCall } from "@akasha/command-system/during-call"
 import { matchesGlob } from "../../glob/glob.ts"
-import { REPOS } from "@akasha/pages-system/checkout-roots"
+import { repos } from "@akasha/pages-system/checkout-roots"
 import { builtFrom, indexReaches, loadPages } from "../store/store.ts"
 
 const SUFFIXED = /\*\.[a-z0-9-]+\.md$/
@@ -17,7 +17,7 @@ function indexBuiltOver(repo: string): boolean {
 export function indexWouldAnswer(root: string, patterns: readonly string[]): string | null {
   if (patterns.length === 0) return null
   if (!patterns.every((one) => SUFFIXED.test(one))) return null
-  return REPOS.find((one) => indexReaches(one, root) && indexBuiltOver(one)) ?? null
+  return repos().find((one) => indexReaches(one, root) && indexBuiltOver(one)) ?? null
 }
 
 export function scannedFromIndex(

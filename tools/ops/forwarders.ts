@@ -1,6 +1,6 @@
 
 import { type Dirent, existsSync, readdirSync, readFileSync } from "node:fs"
-import { REPOS as ADDRESSABLE, akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaRoot, repos as addressable } from "@akasha/pages-system/checkout-roots"
 import { declarationIn, type ToolDeclaration } from "../lib/tool-declaration.ts"
 import type { Command, CommandModule } from "./surface.ts"
 import type { ForwardRepo } from "./tool-forward.ts"
@@ -51,7 +51,7 @@ function forwardNamespaces(tools: readonly DeclaringTool[]): readonly ForwardRep
   for (const tool of tools) {
     for (const repo of tool.declaration.repos ?? []) declared.add(repo)
   }
-  return ADDRESSABLE.filter((repo) => declared.has(repo))
+  return addressable().filter((repo) => declared.has(repo))
 }
 
 export function forwarderCommands(root: string = akashaRoot()): readonly Command[] {

@@ -1,6 +1,6 @@
 
 import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { locate, REPOS } from "@akasha/pages-system/checkout-roots"
+import { locate, repos } from "@akasha/pages-system/checkout-roots"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { diskFileTree, type FileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
@@ -10,7 +10,7 @@ export const MORTAL_KEY = "mortal"
 const registries = new Map<string, readonly PageType[]>()
 
 function pageTypesOnDisk(roots: Roots): readonly PageType[] {
-  const at = REPOS.map((repo) => roots[repo]).join("\n")
+  const at = repos().map((repo) => roots[repo]).join("\n")
   const held = registries.get(at)
   if (held !== undefined) return held
   const made = registryOf(diskFileTree(roots))

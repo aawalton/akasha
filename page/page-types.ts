@@ -3,7 +3,7 @@ import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
 import { matchesGlob, scanGlob } from "./glob/glob.ts"
 import { listField, type Frontmatter } from "./frontmatter.ts"
 import { ignoresUnanswered, notIgnored } from "../repo/ignored/ignored.ts"
-import { AKASHA, REPOS } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, repos } from "@akasha/pages-system/checkout-roots"
 import { MARKDOWN, pageFileIn } from "./page-file.ts"
 import { fileStemOf as stemOf } from "@akasha/file-page-identity"
 import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
@@ -125,7 +125,7 @@ export function scanIn(
 
 export function scanSpanning(roots: Roots, globs: readonly string[]): readonly string[] {
   const found: string[] = []
-  for (const repo of REPOS) {
+  for (const repo of repos()) {
     const root = roots[repo]
     if (root === undefined) continue
     found.push(...scanIn(root, globs, repo))
@@ -200,7 +200,7 @@ export function placeDirOf(slug: string): string {
 
 export function repoPlacings(roots: Roots): ReadonlyMap<string, string> {
   const placed = new Map<string, string>()
-  for (const repo of REPOS) {
+  for (const repo of repos()) {
     let entries
     try {
       entries = readdirSync(`${roots[repo]}/${PAGES_ROOT}`, { withFileTypes: true })
@@ -259,7 +259,7 @@ export function filedIn(fm: Frontmatter): readonly Filed[] | null {
     if (cut < 0) return null
     const repo = text.slice(0, cut).trim()
     const place = text.slice(cut + 1).trim()
-    if (!REPOS.includes(repo) || place === "") return null
+    if (!repos().includes(repo) || place === "") return null
     filed.push({ repo, place })
   }
   return filed
@@ -289,13 +289,13 @@ export function reposOf(one: PageType): readonly string[] {
   return one.filed.flatMap((each) => (each.repo === null ? [] : [each.repo]))
 }
 
-export function filedIntoAny(one: PageType, repos: readonly string[]): boolean {
-  return reposOf(one).some((each) => repos.includes(each))
+export function filedIntoAny(one: PageType, named: readonly string[]): boolean {
+  return reposOf(one).some((each) => named.includes(each))
 }
 
 export function soleRepoOf(one: PageType): string | null {
-  const repos = reposOf(one)
-  return repos.length === 1 ? (repos[0] ?? null) : null
+  const named = reposOf(one)
+  return named.length === 1 ? (named[0] ?? null) : null
 }
 
 export function placesIn(one: PageType, repo: string): readonly string[] {

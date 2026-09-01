@@ -3,9 +3,9 @@ import { dirname, resolve } from "node:path"
 import type { Repo } from "@akasha/pages-system/markdown-document"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { canonicalize } from "@akasha/pages-system/repo-path"
-import { REPOS } from "@akasha/pages-system/checkout-roots"
+import { repos } from "@akasha/pages-system/checkout-roots"
 
-export const REPOS_NAMED = REPOS.map((one) => `\`${one}\``).join(", ")
+export const REPOS_NAMED = repos().map((one) => `\`${one}\``).join(", ")
 
 export const RG_DEFAULTS: readonly string[] = [
   "--color",
@@ -77,7 +77,7 @@ export type Parsed =
   | { readonly ok: false; readonly why: string }
 
 export function isRepo(value: string): value is Repo {
-  return (REPOS as readonly string[]).includes(value)
+  return repos().includes(value)
 }
 
 interface Carved {
@@ -165,7 +165,7 @@ export interface Reach {
 }
 
 export function reach(named: readonly Repo[], roots: Roots): Reach {
-  const wanted = named.length > 0 ? named : REPOS
+  const wanted = named.length > 0 ? named : repos()
   const searching: Place[] = []
   const absent: string[] = []
   for (const repo of wanted) {

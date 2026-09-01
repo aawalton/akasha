@@ -2,7 +2,7 @@ import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readdirSync, rmSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { linkModulesInto, workspacesDeclaredIn } from "./main-pipeline-creator/sha-pinned-tree.ts"
-import { REPOS, resolveRoots, rootEnvName, AKASHA as SIBLING } from "@akasha/pages-system/checkout-roots"
+import { repos, resolveRoots, rootEnvName, AKASHA as SIBLING } from "@akasha/pages-system/checkout-roots"
 import { linkSibling } from "./sibling-link.ts"
 
 export const SUITE_TREES_ROOT = "/var/tmp/suite-trees"
@@ -23,7 +23,7 @@ function randomSuffix(): string {
 export function suiteTreeEnv(pinnedAt: string): Readonly<Record<string, string>> {
   const roots = resolveRoots()
   const env: Record<string, string> = { ...(process.env as Record<string, string>) }
-  for (const repo of REPOS) {
+  for (const repo of repos()) {
     const root = repo === "instructions" ? pinnedAt : roots[repo]
     if (root === undefined) continue
     env[rootEnvName(repo)] = root

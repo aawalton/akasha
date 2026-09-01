@@ -1,12 +1,12 @@
 import { z } from "zod"
-import { REPOS } from "@akasha/pages-system/checkout-roots"
+import { repos } from "@akasha/pages-system/checkout-roots"
 
 const AttrsSchema = z.record(z.string(), z.unknown())
 
 const SerializedNodeSchema = z
   .object({
     type: z.string(),
-    repo: z.enum([...REPOS] as [string, ...string[]]).optional(),
+    repo: z.enum([...repos()] as [string, ...string[]]).optional(),
     key: z.string(),
     attrs: AttrsSchema,
     derived: AttrsSchema,

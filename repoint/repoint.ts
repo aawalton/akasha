@@ -9,7 +9,7 @@ import {
   isAddressable,
   isDirty,
   isVendored,
-  REPOS,
+  repos,
   targetRepo,
   targetRoot,
 } from "@akasha/pages-system/checkout-roots"
@@ -201,7 +201,7 @@ export function surveyImporters(
   const held = heldIn(roots)
   const seen = new Set([canonicalize(targetRoot(roots)), canonicalize(targetRoot(landing))])
   const found: Importers[] = []
-  for (const repo of REPOS) {
+  for (const repo of repos()) {
     const root: string | undefined = roots[repo]
     if (root === undefined || !isAddressable(repo)) continue
     const at = canonicalize(root)

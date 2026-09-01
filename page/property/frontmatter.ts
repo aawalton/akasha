@@ -10,7 +10,7 @@ import type { NamedSet, Vocabulary } from "./stated.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import { type FileTree } from "../file-tree.ts"
 import { indexStamp, registryOf } from "./registry.ts"
-import { AKASHA, REPOS } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, repos } from "@akasha/pages-system/checkout-roots"
 import { recordsFor } from "./record.ts"
 import type { RecordField } from "./stated.ts"
 import { answeredWhole } from "./answer-cache.ts"
@@ -26,7 +26,7 @@ export const PROPERTY_ROOTS: readonly string[] = PROPERTY_GLOBS.map((one) =>
 function reposRead(tree: FileTree): readonly string[] {
   const roots = tree.roots
   if (roots === undefined) return [AKASHA]
-  return REPOS.filter((one) => roots[one] !== undefined)
+  return repos().filter((one) => roots[one] !== undefined)
 }
 
 export function vocabularyOf(types: readonly PageType[], tree: FileTree): Vocabulary {

@@ -4,7 +4,7 @@ export const summary = "Refresh the page index, writing it again from every page
 import { buildOver } from "../../../page/index/build.ts"
 import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { REPOS, resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { repos, resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
@@ -18,7 +18,7 @@ export const help: CommandHelp = {
 function rootsHere(): Readonly<Record<string, string>> {
   const held = resolveRoots()
   const made: Record<string, string> = {}
-  for (const repo of REPOS) {
+  for (const repo of repos()) {
     const root = held[repo]
     if (typeof root === "string") made[repo] = root
   }

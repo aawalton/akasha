@@ -3,12 +3,12 @@ import { addressParts } from "../../page/page-address.ts"
 import { filedIn, pageRelIn, pageTypePathIn, repoPlacings } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
 import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { AKASHA, REPOS, rootFor } from "@akasha/pages-system/checkout-roots"
+import { AKASHA, repos, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const placings = new Map<string, ReadonlyMap<string, string>>()
 
 function placedIn(roots: Roots): ReadonlyMap<string, string> {
-  const key = REPOS.map((repo) => roots[repo]).join("\n")
+  const key = repos().map((repo) => roots[repo]).join("\n")
   const held = placings.get(key)
   if (held !== undefined) return held
   const made = repoPlacings(roots)

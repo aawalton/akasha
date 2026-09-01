@@ -3,7 +3,7 @@ import { existsSync } from "node:fs"
 import type { RequiredReading } from "../required-reading.ts"
 import type { Repo } from "@akasha/pages-system/markdown-document"
 import { type Roots } from "@akasha/pages-system/markdown-page-at"
-import { locate, REPOS } from "@akasha/pages-system/checkout-roots"
+import { locate, repos } from "@akasha/pages-system/checkout-roots"
 
 export function locatePath(argv: readonly string[], roots: Roots): { relPath: string; repo: Repo } {
   const at = argv.findIndex((a) => a === "--file-path" || a === "--path")
@@ -18,7 +18,7 @@ export function locatePath(argv: readonly string[], roots: Roots): { relPath: st
     process.exit(1)
   }
   if (!relPath.startsWith("/") && !existsSync(`${process.cwd()}/${relPath}`)) {
-    for (const repo of REPOS) {
+    for (const repo of repos()) {
       if (repo === located.repo) continue
       if (!existsSync(`${roots[repo]}/${relPath}`)) continue
       process.stderr.write(

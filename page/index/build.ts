@@ -16,7 +16,7 @@ import { linkTargetsFrom } from "./link/link.ts"
 import { identityFile, relationFileFor } from "./place/place.ts"
 import { type Holds, type Relation, reachedFrom, relationsOver } from "./relation/relation.ts"
 import { trackedIn } from "../tracked/tracked.ts"
-import { REPOS } from "@akasha/pages-system/checkout-roots"
+import { repos } from "@akasha/pages-system/checkout-roots"
 import {
   identityBodies,
   keepBuiltFrom,
@@ -111,7 +111,7 @@ function holdsOver(roots: Roots): Holds {
 
 function oidsOver(roots: Roots): ReadonlyMap<string, ReadonlyMap<string, string>> {
   const made = new Map<string, ReadonlyMap<string, string>>()
-  for (const repo of REPOS) {
+  for (const repo of repos()) {
     const root = roots[repo]
     if (root === undefined) continue
     made.set(repo, pageOidsIn(root))
