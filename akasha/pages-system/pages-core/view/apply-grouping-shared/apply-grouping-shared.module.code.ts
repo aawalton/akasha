@@ -73,7 +73,7 @@ export function effectiveGroupable(prop: PropertyDefinition): boolean {
   return prop.groupable ?? GROUPABLE_BY_TYPE[prop.type]
 }
 
-function isSelectOption(value: unknown): value is SelectOption {
+export function isSelectOption(value: unknown): value is SelectOption {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return false
   if (!("id" in value) || typeof value.id !== "string") return false
   if (!("label" in value) || typeof value.label !== "string") return false

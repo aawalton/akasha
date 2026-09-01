@@ -1,13 +1,7 @@
-import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
+import { type PropertyDefinition, readString } from "../../page-data/page-data.module.code.ts"
 import { type PageTypePropertiesMap, parseRollupConfig } from "../rollup/rollup.module.code.ts"
 
 const MAX_DEPTH = 10
-
-function readString(config: PropertyDefinition["config"], key: string): string | null {
-  if (!config) return null
-  const value = config[key]
-  return typeof value === "string" ? value : null
-}
 
 function relationTargetTypeId(
   relationPropertyId: string,

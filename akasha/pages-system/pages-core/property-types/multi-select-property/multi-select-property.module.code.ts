@@ -1,29 +1,17 @@
 import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
 import { parseConfig } from "../../schema/pages/pages.module.code.ts"
 import { multiSelectConfigSchema } from "../../schema/property-config-schemas/property-config-schemas.module.code.ts"
+import { getValueArray } from "../multi-relation/multi-relation.module.code.ts"
 import type {
   FilterConfig,
   FilterOperatorOption,
   PropertyTypeOps,
   PropertyValue,
 } from "../property-type-ops/property-type-ops.module.code.ts"
-
-interface OptionLike {
-  readonly id: string
-  readonly label: string
-}
+import { findOption, type OptionLike } from "../select/select.module.code.ts"
 
 function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
   return parseConfig(multiSelectConfigSchema, definition.config, { options: [] }).options
-}
-
-function findOption(options: readonly OptionLike[], id: string): OptionLike | undefined {
-  return options.find((o) => o.id === id)
-}
-
-function getValueArray(value: PropertyValue): readonly string[] {
-  if (!Array.isArray(value)) return []
-  return value.filter((v): v is string => typeof v === "string")
 }
 
 export const MULTI_SELECT_OPS: PropertyTypeOps = {

@@ -1,5 +1,9 @@
 import type * as z from "zod"
-import type { PropertyDefinition, PropertyType } from "../../page-data/page-data.module.code.ts"
+import {
+  type PropertyDefinition,
+  type PropertyType,
+  readString,
+} from "../../page-data/page-data.module.code.ts"
 import {
   aggregateConfigSchema,
   formulaConfigSchema,
@@ -150,12 +154,6 @@ function walkRollupChain(
   }
 
   return { type: targetProp.type, config: targetProp.config ?? {} }
-}
-
-function readString(config: PropertyDefinition["config"], key: string): string | null {
-  if (!config) return null
-  const value = config[key]
-  return typeof value === "string" ? value : null
 }
 
 type ConfigValue = NonNullable<PropertyDefinition["config"]>

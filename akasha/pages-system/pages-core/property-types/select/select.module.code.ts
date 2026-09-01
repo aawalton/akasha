@@ -8,7 +8,7 @@ import type {
   PropertyValue,
 } from "../property-type-ops/property-type-ops.module.code.ts"
 
-interface OptionLike {
+export interface OptionLike {
   readonly id: string
   readonly label: string
 }
@@ -17,7 +17,7 @@ function getOptions(definition: PropertyDefinition): readonly OptionLike[] {
   return parseConfig(selectConfigSchema, definition.config, { options: [] }).options
 }
 
-function findOption(options: readonly OptionLike[], id: string): OptionLike | undefined {
+export function findOption(options: readonly OptionLike[], id: string): OptionLike | undefined {
   return options.find((o) => o.id === id)
 }
 

@@ -3,7 +3,10 @@ import type { FilterOperatorOption } from "../../property-types/property-type-op
 import { PROPERTY_TYPE_OPS_REGISTRY } from "../../property-types/registry/registry.module.code.ts"
 import { resolveComputedProperty } from "../../property-types/resolve-computed-type/resolve-computed-type.module.code.ts"
 import type { PageTypePropertiesMap } from "../../property-types/rollup/rollup.module.code.ts"
-import type { SelectOption } from "../apply-grouping-shared/apply-grouping-shared.module.code.ts"
+import {
+  isSelectOption,
+  type SelectOption,
+} from "../apply-grouping-shared/apply-grouping-shared.module.code.ts"
 
 export interface PageFilterDimension {
   id: string
@@ -12,13 +15,6 @@ export interface PageFilterDimension {
   options?: readonly SelectOption[]
   operators: readonly FilterOperatorOption[]
   targetPageTypeId?: string
-}
-
-function isSelectOption(value: unknown): value is SelectOption {
-  if (value === null || typeof value !== "object" || Array.isArray(value)) return false
-  if (!("id" in value) || typeof value.id !== "string") return false
-  if (!("label" in value) || typeof value.label !== "string") return false
-  return true
 }
 
 function readOptions(config: PropertyDefinition["config"]): readonly SelectOption[] | undefined {
