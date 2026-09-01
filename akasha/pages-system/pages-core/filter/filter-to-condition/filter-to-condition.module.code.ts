@@ -1,4 +1,4 @@
-import type { Json } from "@shared/supabase-database/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import { isJson } from "@shared/utils-narrow/is-json"
 import type { PropertyType } from "../../page-data/page-data.module.code.ts"
 import type { PageCondition } from "../../page-types/page-types.module.code.ts"

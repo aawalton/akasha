@@ -1,3 +1,4 @@
+import type { Json } from "@akasha/supabase-database/json"
 import type { Asked } from "@shared/pages-query"
 import {
   askComposed,
@@ -6,7 +7,6 @@ import {
   type Declaration,
   type PageTypeShape,
 } from "@shared/pages-query/ask"
-import type { Json } from "@shared/supabase-database/generated/database"
 import { isRecord } from "@shared/utils-narrow/is-record"
 import { z } from "zod"
 import { camelizeKey } from "../file-rows/file-rows.module.code.ts"

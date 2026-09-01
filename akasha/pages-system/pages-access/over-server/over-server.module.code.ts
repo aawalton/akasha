@@ -1,5 +1,5 @@
 import { asPage, type Page } from "@akasha/pages-core/page-types"
-import type { Json } from "@shared/supabase-database/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import { JsonSchema } from "@shared/utils-narrow/json-schema"
 import { z } from "zod"
 

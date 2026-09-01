@@ -1,5 +1,5 @@
 import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
-import type { Json } from "@shared/supabase-database/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import { z } from "zod"
 import { createFilePage, upsertFilePage } from "../file-write/file-write.module.code.ts"
 import {

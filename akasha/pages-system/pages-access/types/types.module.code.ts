@@ -1,4 +1,4 @@
-import type { Json } from "@shared/supabase-database/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 
 export type JsonObjectInput<T> = {
   [K in keyof T]: T[K] extends Json | undefined

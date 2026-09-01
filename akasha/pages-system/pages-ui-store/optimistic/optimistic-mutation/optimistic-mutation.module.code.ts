@@ -1,5 +1,5 @@
 import { applyJsonPatch } from "@akasha/pages-core/json-patch/apply"
-import type { Json } from "@shared/supabase-database/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { isRecord } from "@shared/utils-narrow/is-record"
 import { type Collection, createOptimisticAction, type WritableDeep } from "@tanstack/db"

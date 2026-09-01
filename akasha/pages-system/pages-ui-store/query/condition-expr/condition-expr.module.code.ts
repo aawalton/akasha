@@ -1,5 +1,5 @@
 import { isPromotedKey, PROMOTED_COLUMN } from "@akasha/pages-access/routing-core"
-import type { Json } from "@shared/supabase-database/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import {
   eq,
   gt,

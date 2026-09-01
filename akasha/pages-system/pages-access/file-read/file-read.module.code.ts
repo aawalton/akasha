@@ -1,7 +1,7 @@
 import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
+import type { Json } from "@akasha/supabase-database/json"
 import type { Asked } from "@shared/pages-query"
 import { askComposed, askPageTypes, type ComposedQuery } from "@shared/pages-query/ask"
-import type { Json } from "@shared/supabase-database/generated/database"
 import { isJson } from "@shared/utils-narrow/is-json"
 import { type CursorPayload, decodeCursor, encodeCursor } from "../cursor/cursor.module.code.ts"
 import {

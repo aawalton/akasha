@@ -1,5 +1,5 @@
 import type { JsonPatch } from "@akasha/pages-access/types"
-import type { Json } from "@shared/supabase-database/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import type { PageRow } from "../../collection/page-row/page-row.module.code.ts"
 
 export interface RowOverlay {

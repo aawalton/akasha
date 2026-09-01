@@ -30,7 +30,7 @@
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-url": "workspace:*",
-    "@shared/supabase-database": "workspace:*",
+    "@akasha/supabase-database": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@tanstack/db": "^0.6.14",
     "zod": "^4.3.6"
