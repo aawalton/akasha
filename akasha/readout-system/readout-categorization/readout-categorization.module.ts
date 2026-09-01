@@ -18,6 +18,18 @@ export const readoutCategorization = {
     },
     {
       invariantKind: "departure",
+      statement: "A site admitting on more than a secret hands in its own guard instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A guard handed in answers a refusal or nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal a guard answers is served whole rather than made again here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The count answered is the reading carried in rather than one taken here.",
     },
     {
@@ -43,6 +55,10 @@ export const readoutCategorization = {
     {
       invariantKind: "absence",
       statement: "Nothing here decides the color a count is shown in.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a person or a device.",
     },
   ],
 } as const satisfies Module

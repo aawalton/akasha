@@ -3,6 +3,7 @@ import { RING_CREDENTIAL_HEADER } from "../readout-credential/readout-credential
 import { dropRelayed, holdRelayed } from "../readout-relay/readout-relay.module.code.ts"
 import {
   answerCategorization,
+  answerCategorizationAdmittedBy,
   UNREVIEWED_READOUT,
   unreviewedRelayed,
 } from "./readout-categorization.module.code.ts"
@@ -107,4 +108,42 @@ test("nothing between here and the tile is allowed to keep an answer", async () 
   dropRelayed()
   expect((await ring(CREDENTIAL)).headers.get("Cache-Control")).toBe("no-store")
   expect((await ring()).headers.get("Cache-Control")).toBe("no-store")
+})
+
+test("a guard handed in decides who is admitted", async () => {
+  carried(41)
+  const admitted = await answerCategorizationAdmittedBy(new Request(origin), () => null)
+  expect(admitted.status).toBe(200)
+  expect(((await admitted.json()) as { unreviewed: number }).unreviewed).toBe(41)
+})
+
+test("a refusal a guard answers is served whole rather than made again here", async () => {
+  carried(41)
+  const refused = await answerCategorizationAdmittedBy(
+    new Request(origin),
+    () => new Response("held back", { status: 403, headers: { "X-Said-By": "the guard" } })
+  )
+  expect(refused.status).toBe(403)
+  expect(refused.headers.get("X-Said-By")).toBe("the guard")
+  expect(await refused.text()).toBe("held back")
+})
+
+test("a guard answering only in time is waited for", async () => {
+  carried(41)
+  const admitted = await answerCategorizationAdmittedBy(new Request(origin), async () => {
+    await Promise.resolve()
+    return null
+  })
+  expect(admitted.status).toBe(200)
+  const refused = await answerCategorizationAdmittedBy(new Request(origin), async () => {
+    await Promise.resolve()
+    return new Response("held back", { status: 403 })
+  })
+  expect(refused.status).toBe(403)
+})
+
+test("a guard admitting a caller with no reading behind it still says there is none", async () => {
+  const answered = await answerCategorizationAdmittedBy(new Request(origin), () => null)
+  expect(answered.status).toBe(503)
+  expect(answered.headers.get("Cache-Control")).toBe("no-store")
 })

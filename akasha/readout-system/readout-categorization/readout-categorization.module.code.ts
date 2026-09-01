@@ -14,6 +14,8 @@ export const UNREVIEWED_READOUT_SLUG = "unreviewed"
 
 export const NO_READING = { ok: false, error: "No reading." } as const
 
+export type RingAdmission = (request: Request) => Response | null | Promise<Response | null>
+
 export function refuseUncredentialedRingCaller(
   request: Request,
   credential: string | undefined
@@ -27,11 +29,11 @@ export function unreviewedRelayed(now: Date = new Date()): number | null {
   return readingAged(held, now) >= STALE_AFTER_MS ? null : held.value
 }
 
-export async function answerCategorization(
+export async function answerCategorizationAdmittedBy(
   request: Request,
-  credential: string | undefined
+  admit: RingAdmission
 ): Promise<Response> {
-  const refusal = refuseUncredentialedRingCaller(request, credential)
+  const refusal = await admit(request)
   if (refusal !== null) return refusal
 
   const unreviewed = unreviewedRelayed()
@@ -54,5 +56,14 @@ export async function answerCategorization(
       ...(noneLeft.emoji === undefined ? {} : { noneLeftEmoji: noneLeft.emoji }),
     },
     { headers: { "Cache-Control": READOUT_CACHE_CONTROL } }
+  )
+}
+
+export function answerCategorization(
+  request: Request,
+  credential: string | undefined
+): Promise<Response> {
+  return answerCategorizationAdmittedBy(request, (admitted) =>
+    refuseUncredentialedRingCaller(admitted, credential)
   )
 }
