@@ -1,6 +1,6 @@
+import { lineOf } from "@akasha/code-system/code-source"
+import { basenameOf } from "@akasha/hook-system/shell-calls"
 import ts from "typescript"
-import { lineOf } from "../../../../../code-system/code-source/code-source.module.code.ts"
-import { basenameOf } from "../../../../../hook-system/shell-calls/shell-calls.module.code.ts"
 import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
 
 const DISPATCHER = "command-system/cli/cli.module.code.ts"

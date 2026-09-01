@@ -1,5 +1,5 @@
+import { lineOf } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import { lineOf } from "../../../../../code-system/code-source/code-source.module.code.ts"
 import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
 
 const DROPPED =
