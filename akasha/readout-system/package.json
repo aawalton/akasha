@@ -3,7 +3,9 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./readout-credential": "./readout-credential/readout-credential.module.code.ts",
     "./readout-reading": "./readout-reading/readout-reading.module.code.ts",
+    "./readout-relay": "./readout-relay/readout-relay.module.code.ts",
     "./readout-scale-reading": "./readout-scale-reading/readout-scale-reading.module.code.ts",
     "./monarch-unreviewed-transactions": "./readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
   },
