@@ -22,9 +22,9 @@ const FRESH = "new"
 const REOPENED = "in-progress"
 const FIX_DEPLOYED = "fix-deployed"
 
-type Standing = Readonly<Record<string, unknown>> | null
+type Before = Readonly<Record<string, unknown>> | null
 
-async function valuesFor(fingerprint: string): Promise<Standing> {
+async function valuesFor(fingerprint: string): Promise<Before> {
   const asked = await askPage(ERROR_PAGE_TYPE, fingerprint)
   if (asked.outcome === "found") return asked.page.values
   if (asked.outcome === "absent") return null
@@ -33,19 +33,19 @@ async function valuesFor(fingerprint: string): Promise<Standing> {
   )
 }
 
-function countIn(standing: Standing): number {
+function countIn(standing: Before): number {
   const held = standing?.count
   const tally = typeof held === "number" ? held : Number.parseInt(String(held ?? ""), 10)
   return Number.isFinite(tally) && tally > 0 ? tally : 0
 }
 
-function statusAfter(standing: Standing): string {
+function statusAfter(standing: Before): string {
   const held = standing?.status
   if (typeof held !== "string" || held.trim() === "") return FRESH
   return held === FIX_DEPLOYED ? REOPENED : held
 }
 
-function idFor(standing: Standing): string {
+function idFor(standing: Before): string {
   const held = standing?.id
   return typeof held === "string" && held.trim() !== "" ? held.trim() : mintedId()
 }
