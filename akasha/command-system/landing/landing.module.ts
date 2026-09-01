@@ -99,6 +99,10 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A repair that fails is said along with the fault that caused the repair.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change may name paths carried on disk rather than written and committed.",
     },
     {

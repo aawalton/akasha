@@ -11,7 +11,7 @@ import {
 } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed } from "../committing/committing.module.code.ts"
-import { oneLine } from "../fault-saying/fault-saying.module.code.ts"
+import { oneLine, saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
@@ -146,12 +146,23 @@ function unstaged(root: string, changed: readonly FileEdit[]): undefined {
   gitIn(root, ["reset", "-q", "HEAD", "--", ...changed.map((one) => one.path)])
 }
 
-function quietly(act: () => undefined): undefined {
+function alsoFailed(act: () => undefined): string | null {
   try {
     act()
-  } catch {
-    return
+    return null
+  } catch (thrown) {
+    return saidBy(thrown)
   }
+}
+
+function alsoSaid(why: string, back: string | null, off: string | null): string {
+  const held = [why]
+  if (back !== null) {
+    held.push(`the index still names what did not land, and putting it back failed too: ${back}`)
+    held.push("`akasha index refresh` builds the index again")
+  }
+  if (off !== null) held.push(`what was staged is staged still: ${off}`)
+  return held.join("; ")
 }
 
 function carriedOnto(root: string, carries: readonly FileCarry[]): () => undefined {
@@ -309,9 +320,10 @@ export function landing(
       }
     } catch (thrown) {
       restored(root, before)
-      quietly(() => reindexed(root, changes, before, keeping))
-      quietly(() => unstaged(root, changes))
-      throw thrown
+      const back = alsoFailed(() => reindexed(root, changes, before, keeping))
+      const off = alsoFailed(() => unstaged(root, changes))
+      if (back === null && off === null) throw thrown
+      throw new Error(alsoSaid(saidBy(thrown), back, off))
     }
   })
 }
