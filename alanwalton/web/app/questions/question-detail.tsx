@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { Button } from "@shared/design-primitives/components/button"
 import { Textarea } from "@shared/design-primitives/components/textarea"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"

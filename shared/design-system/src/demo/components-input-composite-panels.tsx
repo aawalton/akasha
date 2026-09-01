@@ -2,7 +2,7 @@
 
 import { Mail, Search, Tag } from "lucide-react"
 import { useState } from "react"
-import { NumberBadge } from "@shared/design-badges/components/number-badge"
+import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { InlineEditableText } from "@shared/design-forms/components/inline-editable-text"
 import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput, InputGroupText, InputGroupTextarea } from "@shared/design-forms/components/input-group"
 import { InputOTP, InputOTPGroup, InputOTPSeparator, InputOTPSlot } from "@shared/design-forms/components/input-otp"

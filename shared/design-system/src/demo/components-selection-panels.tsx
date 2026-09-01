@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { MultiSelect, type MultiSelectItem } from "@shared/design-forms/components/multi-select"
 import { SearchMultiSelect, type SearchMultiSelectItem } from "@shared/design-forms/components/search-multi-select"
 import { PanelCard } from "@shared/design-layout/components/panel-card"

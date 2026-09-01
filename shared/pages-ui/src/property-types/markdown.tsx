@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { Badge } from "@akasha/design-badges/badge"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { Textarea } from "@shared/design-primitives/components/textarea"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { useEffect, useRef, useState } from "react"

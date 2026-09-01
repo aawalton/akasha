@@ -1,6 +1,6 @@
 "use client"
 
-import { BadgeLayoutProvider } from "@shared/design-badges/components/badge-layout-context"
+import { BadgeLayoutProvider } from "@akasha/design-badges/badge-layout-context"
 import { InlineEditableText } from "@shared/design-forms/components/inline-editable-text"
 import { PageLayout } from "@shared/design-layout/components/page-layout"
 import { PAGE_TITLE_CLASSES } from "@shared/design-layout/components/page-layout-data"

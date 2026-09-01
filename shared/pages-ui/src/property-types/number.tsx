@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { NumberBadge } from "@shared/design-badges/components/number-badge"
+import { Badge } from "@akasha/design-badges/badge"
+import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
 import { formatPropertyNumber, toNumber } from "@shared/pages-core/property-types/number"
 import { type NumberConfig } from "@shared/pages-core/schema/property-config-schemas"

@@ -11,7 +11,7 @@ import {
   useSensors,
 } from "@dnd-kit/core"
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { LoadMoreButton } from "@shared/design-layout/components/load-more-button"
 import { Heading } from "@shared/design-primitives/components/heading"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"

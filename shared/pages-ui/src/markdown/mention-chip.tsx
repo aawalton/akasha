@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { formatSmartDate } from "@shared/pages-core/view/format-smart-date"
 
 import type { MentionResolver, MentionType } from "./remark-mentions"

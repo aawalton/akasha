@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { InputBadge } from "@shared/design-badges/components/input-badge"
+import { Badge } from "@akasha/design-badges/badge"
+import { InputBadge } from "@akasha/design-badges/input-badge"
 import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
 import { useEffect, useState } from "react"
 

@@ -1,7 +1,7 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { useDebouncedCallback } from "@shared/design-primitives/hooks/use-debounced-callback"

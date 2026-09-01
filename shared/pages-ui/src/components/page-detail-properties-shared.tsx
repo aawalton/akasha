@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { Calendar } from "@shared/design-forms/components/calendar"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { useState } from "react"

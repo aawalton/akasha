@@ -1,6 +1,6 @@
 "use client"
 
-import { CheckboxBadge } from "@shared/design-badges/components/checkbox-badge"
+import { CheckboxBadge } from "@akasha/design-badges/checkbox-badge"
 
 import type { PropertyBadgeProps } from "./property-badge"
 

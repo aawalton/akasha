@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { useBadgeLayoutContext } from "@shared/design-badges/components/badge-layout-context"
+import { Badge } from "@akasha/design-badges/badge"
+import { useBadgeLayoutContext } from "@akasha/design-badges/badge-layout-context"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { resolveBadgeVariant } from "@shared/pages-core/color-rules"

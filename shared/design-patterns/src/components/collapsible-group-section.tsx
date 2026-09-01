@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@shared/design-primitives/components/collapsible"
 import { ChevronDownIcon } from "lucide-react"
 import type { ReactNode } from "react"

@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { TimeBadge } from "@shared/design-badges/components/time-badge"
+import { Badge } from "@akasha/design-badges/badge"
+import { TimeBadge } from "@akasha/design-badges/time-badge"
 import { formatTime12h } from "@shared/design-forms/utils/format-time"
 import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
 

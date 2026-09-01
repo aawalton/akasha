@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { formatRelativeTime } from "@shared/design-primitives/utils/format-relative-time"
 import { resolveBadgeVariant } from "@shared/pages-core/color-rules"

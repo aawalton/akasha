@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { parsePageTypeData } from "@shared/pages-core/schema/pages"
 import { resolveDefinitionOptions } from "@shared/pages-core/schema/resolve-select-options"
 import { type ViewDataJSON } from "@shared/pages-core/schema/view-data"

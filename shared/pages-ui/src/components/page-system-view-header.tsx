@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { PageTabHeader } from "@shared/design-patterns"
 import { SearchButton } from "@shared/design-patterns/components/search-button"
 import { SearchSortFilterRow } from "@shared/design-patterns/components/search-sort-filter-row"

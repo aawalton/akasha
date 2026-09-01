@@ -2,7 +2,7 @@
 
 import { DndContext, DragOverlay, useDraggable } from "@dnd-kit/core"
 import { getEsoDayStr } from "@shared/day"
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { Button } from "@shared/design-primitives/components/button"
 import { FilterableList, FilterableListItem } from "@shared/design-primitives/components/filterable-list"
 import { Heading } from "@shared/design-primitives/components/heading"

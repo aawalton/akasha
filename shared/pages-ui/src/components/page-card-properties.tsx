@@ -1,6 +1,6 @@
 "use client"
 
-import { BadgeRow } from "@shared/design-badges/components/badge"
+import { BadgeRow } from "@akasha/design-badges/badge"
 import { propertyTypeRendersWhenEmpty } from "@shared/pages-core/property-types/registry"
 import { resolvePropertyVisibilityMode } from "@shared/pages-core/schema/view-data"
 import { useMemo } from "react"

@@ -1,9 +1,9 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { useBadgeLayoutContext } from "@shared/design-badges/components/badge-layout-context"
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
-import { LinkBadge } from "@shared/design-badges/components/link-badge"
+import { Badge } from "@akasha/design-badges/badge"
+import { useBadgeLayoutContext } from "@akasha/design-badges/badge-layout-context"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
+import { LinkBadge } from "@akasha/design-badges/link-badge"
 import {
   getRelationId,
   type RelationValue,

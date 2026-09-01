@@ -1,6 +1,6 @@
 "use client"
 
-import { EmptyBadge } from "@shared/design-badges/components/empty-badge"
+import { EmptyBadge } from "@akasha/design-badges/empty-badge"
 import { resolveComputedProperty } from "@shared/pages-core/property-types/resolve-computed-type"
 import { type PageTypePropertiesMap, parseRollupConfig } from "@shared/pages-core/property-types/rollup"
 import { type PropertyDefinition } from "@shared/pages-core/types"

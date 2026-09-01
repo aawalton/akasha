@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 
 import type { PropertyDefinition } from "@shared/pages-core/types"
 import { parseConfig } from "@shared/pages-core/schema/pages"

@@ -1,6 +1,6 @@
 "use client"
 
-import { InputBadge } from "@shared/design-badges/components/input-badge"
+import { InputBadge } from "@akasha/design-badges/input-badge"
 import { SearchMultiSelect, type SearchMultiSelectItem } from "@shared/design-forms/components/search-multi-select"
 import { useDebouncedValue } from "@shared/design-primitives/hooks/use-debounced-value"
 import { useMemo, useState } from "react"

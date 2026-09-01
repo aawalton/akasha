@@ -1,9 +1,9 @@
 "use client"
 
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
-import { DateBadge } from "@shared/design-badges/components/date-badge"
-import { InputBadge } from "@shared/design-badges/components/input-badge"
-import { NumberBadge } from "@shared/design-badges/components/number-badge"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
+import { DateBadge } from "@akasha/design-badges/date-badge"
+import { InputBadge } from "@akasha/design-badges/input-badge"
+import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { Check, ChevronDown } from "lucide-react"

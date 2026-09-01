@@ -1,7 +1,7 @@
 "use client"
 
-import { BadgeLayoutProvider } from "@shared/design-badges/components/badge-layout-context"
-import { EmptyBadge } from "@shared/design-badges/components/empty-badge"
+import { BadgeLayoutProvider } from "@akasha/design-badges/badge-layout-context"
+import { EmptyBadge } from "@akasha/design-badges/empty-badge"
 import { Icon } from "@shared/design-patterns/components/icon"
 import type { PageDataJSON, PropertyDefinition, PropertyType } from "@shared/pages-core/types"
 import { propertyTypeRendersWhenEmpty } from "@shared/pages-core/property-types/registry"

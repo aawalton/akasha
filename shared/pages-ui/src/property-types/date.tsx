@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
 import { DateBadge as DetailDateBadge } from "../components/page-detail-properties-shared"
 import type { BadgeVariant } from "@shared/pages-core/schema/color-rule"

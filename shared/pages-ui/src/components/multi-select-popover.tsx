@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { Input } from "@shared/design-primitives/components/input"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { Plus, X } from "lucide-react"

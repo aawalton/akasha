@@ -1,7 +1,7 @@
 "use client"
 
-import { BadgeLayoutProvider, useBadgeLayoutContext } from "@shared/design-badges/components/badge-layout-context"
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { BadgeLayoutProvider, useBadgeLayoutContext } from "@akasha/design-badges/badge-layout-context"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { Icon } from "@shared/design-patterns/components/icon"
 import { type MouseEvent, useEffect } from "react"
 

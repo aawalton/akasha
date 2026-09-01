@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge, BadgeRow } from "@shared/design-badges/components/badge"
-import { BadgeLayoutProvider } from "@shared/design-badges/components/badge-layout-context"
+import { Badge, BadgeRow } from "@akasha/design-badges/badge"
+import { BadgeLayoutProvider } from "@akasha/design-badges/badge-layout-context"
 import { Input } from "@shared/design-primitives/components/input"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { Textarea } from "@shared/design-primitives/components/textarea"

@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { Badge } from "@akasha/design-badges/badge"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { StatRow } from "@shared/design-patterns/components/stat-row"
 import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
 import { resolveBadgeVariant } from "@shared/pages-core/color-rules"

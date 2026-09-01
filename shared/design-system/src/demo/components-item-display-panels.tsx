@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import { HorizontalScrollFade } from "@shared/design-primitives/components/horizontal-scroll-fade"

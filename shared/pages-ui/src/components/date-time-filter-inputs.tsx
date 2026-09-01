@@ -1,6 +1,6 @@
 "use client"
 
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { useSurface } from "@shared/design-primitives/components/surface-provider"

@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { useBadgeLayoutContext } from "@shared/design-badges/components/badge-layout-context"
+import { Badge } from "@akasha/design-badges/badge"
+import { useBadgeLayoutContext } from "@akasha/design-badges/badge-layout-context"
 import type { PageDataJSON } from "@shared/pages-core/types"
 import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
 import { requireGet } from "@shared/utils-narrow/require-get"
