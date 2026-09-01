@@ -10,13 +10,13 @@ export const emberMigrateTemperToAkasha = {
   intents: [
     {
       statement:
-        "An entry is the shape of a page property rather than a page, and every entry shape extends `page-property-entry`.",
+        "An entry is a page property shape extending `page-property-entry` rather than a page.",
       workingMemory:
         "Settled with Alan. An entry has no slug and no page type of its own; `page-property-entry` extends `page-property`, and each entry shape extends that. The old system holds 67 entry properties over 44 shapes, none of which has a page file; `reference` serves 13 and `temper-metric-effect` 9. 11,740 JSONL files hold 5,653,899 entries, each named `<slug>.<page-type>.<key>.jsonl` beside its page. The old index holds no entry. `append-only` and `uncommitted` are each used once of the 67.",
     },
     {
       statement:
-        "A declaration carrying many says `entries`, and what it carries is kept one to a line in a JSONL beside the page.",
+        "A declaration carrying many values says `entries` and keeps each value in a JSONL beside the page.",
     },
     {
       statement:

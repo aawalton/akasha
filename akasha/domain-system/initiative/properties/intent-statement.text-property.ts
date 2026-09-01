@@ -8,6 +8,6 @@ export const intentStatement = {
   slug: "intent-statement",
   propertySlug: "statement",
   definition: "one sentence saying what an initiative is to make so",
-  max: 200,
+  max: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty
