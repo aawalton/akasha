@@ -12,8 +12,8 @@ const KEY = "personSlug"
 export function personItself(root: string, path: string): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return []
-  const standing = listedAt(root, PERSON_TYPE, slug)[0]
-  if (standing === undefined) return []
-  const oid = blobAt(root, standing.path)
-  return oid === null ? [] : [{ path: standing.path, oid, owed: PERSON }]
+  const listed = listedAt(root, PERSON_TYPE, slug)[0]
+  if (listed === undefined) return []
+  const oid = blobAt(root, listed.path)
+  return oid === null ? [] : [{ path: listed.path, oid, owed: PERSON }]
 }
