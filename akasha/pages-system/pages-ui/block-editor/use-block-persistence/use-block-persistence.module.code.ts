@@ -9,9 +9,9 @@ import {
 } from "@akasha/pages-core/property-types/rich-document-ops"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import { createSaveQueue, type SaveQueue } from "@akasha/pages-ui/block-editor/save-queue"
-import type { Json } from "@akasha/supabase-database/json"
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { isJson } from "@akasha/utils-narrow/is-json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import { useCallback, useRef } from "react"
 import { toast } from "sonner"
 

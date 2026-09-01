@@ -2,7 +2,7 @@ import { PROMOTED_COLUMN_KEYS } from "@akasha/pages-access/routing-core"
 import type { JsonPatch } from "@akasha/pages-access/types"
 import { asJson } from "@akasha/pages-core/as-json"
 import type { RowOverlay } from "@akasha/pages-ui-store/optimistic/plan"
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import { z } from "zod"
 
 const PromotedColumnPatchSchema = z
