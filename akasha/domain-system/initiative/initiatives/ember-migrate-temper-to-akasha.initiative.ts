@@ -27,6 +27,11 @@ export const emberMigrateTemperToAkasha = {
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
     },
     { statement: "No part of temper is outside akasha." },
+    {
+      statement: "Every landing names its change kind.",
+      workingMemory:
+        "Six commands land tracked commits: write, edit, move, refactor, remove and seat. `calling` reads the `mechanical` boolean off the command page and hands `programmatic` down, which sets NO_GATE. `subagent-presence` and `seat-stating` reach `landingAsked` with no command between them and it, so nothing names their kind. The `mechanical` boolean is the stopgap a relation to a change kind replaces, and `programmatic` is the bypass it replaces.",
+    },
   ],
   constraints: [
     "The entries work lands in pages-system rather than under temper.",
