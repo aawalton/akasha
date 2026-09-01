@@ -18,7 +18,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "A package reaches another package by the name its manifest states rather than by a path.",
       workingMemory:
-        "The workspaces half is done: eighteen packages stand in the root list, bun.lock registers them, node_modules/@akasha holds all eighteen, and each of the 1298 reaches past a package edge lands on a file its manifest exports. What blocks the rewrite is the import index: landingOf answers null for a bare specifier, so naming the reaches would file no edge and the required-reading gate would go quiet. See finding naming-a-reach-would-empty-the-import-index. Dry run: /var/tmp/name-the-reaches.ts.",
+        "The index blocker is cleared. landingOf takes a naming built from the manifests a change carries rather than through node_modules, so a copied test world stays hermetic, and the import index, the required-reading gate and folder-matches-a-shape all see a named reach. Proved by a write refused until the named import's page was read. The rewrite lands in batches through akasha write. Two holes filed: no-import-cycle is blind through a package edge, and akasha move does not repoint a manifest.",
     },
     {
       statement:
