@@ -1,11 +1,10 @@
-import { existsSync, lstatSync, mkdirSync, rmSync, symlinkSync } from "node:fs"
-import { dirname, join } from "node:path"
 import { spelledIn } from "@akasha/code-system/code-specifier"
 import { everyPath } from "@akasha/indexes"
 import { counted } from "../../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../calling/calling.module.code.ts"
 import { answering } from "../../../calling/calling.module.code.ts"
 import { baseOf } from "../../../landing/landing.module.code.ts"
+import { nameIn, reachedOver } from "../../../package-linking/package-linking.module.code.ts"
 import {
   bodyTextOf,
   respelledLanded,
@@ -17,8 +16,6 @@ import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 const PARTED_BY = "/"
 
 const MANIFEST = "package.json"
-
-const MODULES = "node_modules"
 
 const INSTALL = "run `bun install` to settle the lockfile under the new name"
 
@@ -42,18 +39,6 @@ export type Asked = { readonly packaging: Packaging } | { readonly refused: stri
 export function namedAs(spelt: string, was: string, now: string): string | null {
   if (spelt !== was && !spelt.startsWith(`${was}${PARTED_BY}`)) return null
   return `${now}${spelt.slice(was.length)}`
-}
-
-export function nameIn(text: string): string | null {
-  let read: unknown
-  try {
-    read = JSON.parse(text)
-  } catch {
-    return null
-  }
-  if (read === null || typeof read !== "object") return null
-  const named = (read as Record<string, unknown>).name
-  return typeof named === "string" ? named : null
 }
 
 export function packagingFor(
@@ -136,30 +121,6 @@ export function packageSaying(
   ]
 }
 
-export function reachedAt(root: string, one: Packaging): string {
-  return join(root, MODULES, ...one.now.split(PARTED_BY))
-}
-
-function alreadyAt(at: string): boolean {
-  try {
-    lstatSync(at)
-    return true
-  } catch {
-    return existsSync(at)
-  }
-}
-
-export function reachedFor(root: string, one: Packaging): (() => undefined) | null {
-  const at = reachedAt(root, one)
-  if (alreadyAt(at)) return null
-  const parts = one.now.split(PARTED_BY)
-  mkdirSync(dirname(at), { recursive: true })
-  symlinkSync(`${"../".repeat(parts.length)}${one.folder}`, at)
-  return () => {
-    rmSync(at, { force: true })
-  }
-}
-
 export function packageLanded(
   given: Given,
   root: string,
@@ -180,10 +141,7 @@ export function packageLanded(
   const asked = packagingFor(manifests, from, to)
   if ("refused" in asked) return answering([], [asked.refused], 1)
   const said = renamingOver(asked.packaging, paths, bodyText)
-  const undo = reachedFor(root, asked.packaging)
-  const clear = (): undefined => {
-    if (undo !== null) undo()
-  }
+  const clear = reachedOver(root, [{ name: asked.packaging.now, folder: asked.packaging.folder }])
   try {
     const landing = respelledLanded(
       given,

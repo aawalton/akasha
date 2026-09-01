@@ -82,19 +82,7 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The workspace reaches a package by the name the package was installed under.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The new name is reachable before the checks judge the rename.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What the workspace is reached through is a link beside the packages.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A link is made only where nothing is at that name already.",
     },
     {
       invariantKind: "departure",

@@ -24,6 +24,7 @@ export const commandSystem = {
     "module/scratching",
     "module/change-freshness",
     "module/value-minting",
+    "module/package-linking",
   ],
   invariants: [
     {

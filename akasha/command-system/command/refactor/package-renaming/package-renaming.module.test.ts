@@ -3,7 +3,6 @@ import {
   bodyRespeltIn,
   manifestRespeltIn,
   namedAs,
-  nameIn,
   packagingFor,
   renamingOver,
   respeltIn,
@@ -68,14 +67,6 @@ test("a name another package already carries is refused", () => {
 test("renaming a package to the name it has is refused", () => {
   const said = packagingFor(manifests([AT, manifest(WAS)]), WAS, WAS)
   expect("refused" in said ? said.refused : "").toContain("already carries")
-})
-
-test("a manifest that will not parse names no package", () => {
-  expect(nameIn("{ not json")).toBeNull()
-})
-
-test("a manifest calling its package nothing names none", () => {
-  expect(nameIn('{ "private": true }')).toBeNull()
 })
 
 test("an import naming the package is respelled", () => {
