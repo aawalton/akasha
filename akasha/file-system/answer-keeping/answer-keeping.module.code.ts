@@ -1,6 +1,6 @@
-import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { said } from "@akasha/utils-run/running"
 
 const SUFFIX = ".json"
 
@@ -30,9 +30,7 @@ function heldAt(file: string): unknown {
 }
 
 export function gitDirAt(root: string): string {
-  return execFileSync("git", ["-C", root, "rev-parse", "--absolute-git-dir"], {
-    encoding: "utf8",
-  }).trim()
+  return said(["git", "-C", root, "rev-parse", "--absolute-git-dir"]).trim()
 }
 
 export function answerAt(at: string, key: Key): unknown {
