@@ -46,6 +46,10 @@ export function personaDaySlug(personaSlug: string, dayStr: string): string {
   return `${personaSlug}-${dayStr}`
 }
 
+// A refusal and an empty answer read alike here and mean opposite things. Taking a refusal as
+// "no page yet" sends the caller down the create arm, which writes over a persona-day that may
+// already carry the day's points. So a question that could not be answered is raised rather than
+// answered false.
 async function personaDayStands(personaSlug: string, dayStr: string): Promise<boolean> {
   const asked = await askComposed({
     "page-type": PERSONA_DAY_PAGE_TYPE_SLUG,
@@ -53,7 +57,12 @@ async function personaDayStands(personaSlug: string, dayStr: string): Promise<bo
     where: { "persona-slug": { is: personaSlug }, date: { is: dayStr } },
     limit: 1,
   })
-  return asked.ok && asked.answer.rows.length > 0
+  if (!asked.ok) {
+    throw new Error(
+      `personaDayStands: whether \`${personaDaySlug(personaSlug, dayStr)}\` is already written could not be read, so nothing is written over: ${asked.why}`
+    )
+  }
+  return asked.answer.rows.length > 0
 }
 
 async function patchPersonaDayFields(
