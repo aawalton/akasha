@@ -94,6 +94,14 @@
     "akasha/agents-system": {
       "name": "@akasha/agents-system",
     },
+    "akasha/alanwalton-web": {
+      "name": "@akasha/alanwalton-web",
+      "dependencies": {
+        "@akasha/pages-core": "workspace:*",
+        "@shared/pages-ui": "workspace:*",
+        "chess.js": "^1.4.0",
+      },
+    },
     "akasha/awen-core": {
       "name": "@akasha/awen-core",
       "dependencies": {
@@ -538,6 +546,7 @@
       "name": "@alanwalton/web",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/alanwalton-web": "workspace:*",
         "@akasha/awen-core": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
@@ -3962,6 +3971,8 @@
     "@acemir/cssom": ["@acemir/cssom@0.9.31", "", {}, "sha512-ZnR3GSaH+/vJ0YlHau21FjfLYjMpYVIzTD8M8vIEQvIGxeOXyXdzCI140rrCY862p/C/BbzWsjc1dgnM9mkoTA=="],
 
     "@akasha/agents-system": ["@akasha/agents-system@workspace:akasha/agents-system"],
+
+    "@akasha/alanwalton-web": ["@akasha/alanwalton-web@workspace:akasha/alanwalton-web"],
 
     "@akasha/awen-core": ["@akasha/awen-core@workspace:akasha/awen-core"],
 

@@ -6,7 +6,7 @@ import "~/idle/lib/idle-trainmax-verb"
 import "~/idle/lib/idle-remove-verb"
 import "~/idle/lib/idle-lock-verb"
 import "~/idle/lib/idle-reorder-verb"
-import "~/action-verbs/declared-effects"
+import "@akasha/alanwalton-web/declared-effects"
 
 import { registerCapabilityHost } from "@shared/pages-ui/capabilities/capability-hosts"
 import { RevealHost } from "~/idle/components/reveal-host"
