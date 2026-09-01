@@ -12,6 +12,7 @@ export const indexes = {
     "index/index-schema",
     "index/index-import",
     "index/index-path",
+    "index/index-value",
     "page-type/index",
     "module/index-entries",
     "module/indexing",
