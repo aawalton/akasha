@@ -159,6 +159,15 @@ function within(folder: string, path: string): boolean {
   return path.startsWith(`${folder}/`)
 }
 
+export function holdingIn(packages: readonly Package[], path: string): Package | null {
+  let held: Package | null = null
+  for (const one of packages) {
+    if (!within(one.folder, path)) continue
+    if (held === null || one.folder.length > held.folder.length) held = one
+  }
+  return held
+}
+
 export function pageIn(shadow: Shadow): (at: string) => boolean {
   return (at) => listedByPath(shadow.reading, at).some((one) => one.path === at)
 }
@@ -174,15 +183,14 @@ export function reasonsIn(
     const landed = landingOf(path, one)
     if (landed === null) continue
     if (page(landed)) continue
-    for (const held of packages) {
-      if (!within(held.folder, landed)) continue
-      if (within(held.folder, path)) continue
-      if (held.reached.has(landed)) continue
-      said.push(
-        `\`${one}\` reaches \`${landed}\`, which \`${held.named}\` does not name ` +
-          `among its exports — ${SAID}`
-      )
-    }
+    const held = holdingIn(packages, landed)
+    if (held === null) continue
+    if (within(held.folder, path)) continue
+    if (held.reached.has(landed)) continue
+    said.push(
+      `\`${one}\` reaches \`${landed}\`, which \`${held.named}\` does not name ` +
+        `among its exports — ${SAID}`
+    )
   }
   return said
 }

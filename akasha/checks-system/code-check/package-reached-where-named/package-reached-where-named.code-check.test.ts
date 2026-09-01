@@ -3,6 +3,7 @@ import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { matchingIn } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import { lowerKebabCase } from "../../../pages-system/name-format/lower-kebab-case/lower-kebab-case.name-format.ts"
 import {
+  holdingIn,
   nameIn,
   namingIn,
   type Package,
@@ -126,6 +127,40 @@ test("a reach at a code file the manifest does not name is refused while a page 
   const said = reasonsIn(NAMED, OUTSIDE, body, onlyThePage)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain(SURFACE)
+})
+
+const OUTER = "akasha/pages-system"
+
+const OUTER_MANIFEST = JSON.stringify({
+  name: "@akasha/pages-system",
+  exports: { "./shadow": "./shadow/shadow.module.code.ts" },
+})
+
+const NESTED: readonly Package[] = [
+  namingIn(OUTER, OUTER_MANIFEST) as Package,
+  namingIn(FOLDER, MANIFEST) as Package,
+]
+
+test("a package standing inside another holds the files under it, so the outer one answers for none", () => {
+  expect(holdingIn(NESTED, READING)?.named).toBe("@akasha/indexes")
+  expect(holdingIn(NESTED, `${OUTER}/shadow/shadow.module.code.ts`)?.named).toBe(
+    "@akasha/pages-system"
+  )
+  expect(holdingIn(NESTED, "akasha/code-system/held.ts")).toBe(null)
+})
+
+test("a reach the inner manifest names is let through though the outer one never names it", () => {
+  const body = `import { readingIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"\n`
+  const at = "akasha/checks-system/held/held.module.code.ts"
+  expect(reasonsIn(NESTED, at, body, nothingIsAPage)).toEqual([])
+})
+
+test("a reach neither manifest names is refused once, by the inner package alone", () => {
+  const body = `import { beneath } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"\n`
+  const at = "akasha/checks-system/held/held.module.code.ts"
+  const said = reasonsIn(NESTED, at, body, nothingIsAPage)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("@akasha/indexes")
 })
 
 test("a manifest naming no exports declares no interface", () => {

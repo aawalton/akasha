@@ -49,6 +49,15 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A file reached inside a package standing inside another belongs to the inner one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The package a file belongs to is the only one answering for reaching it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A manifest stating no exports declares no interface.",
     },
     {
