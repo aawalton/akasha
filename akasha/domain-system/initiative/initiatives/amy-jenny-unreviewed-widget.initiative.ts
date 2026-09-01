@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "TestFlight 198 is up from `04959e93f4`, VALID and tester-visible. It boots: `appReady` is 1, zero skeletons, `Sign In` renders, and the fatal `no-node-in-client` gate at `72fe63a069` reads clean. Six commits did it: `d45c18277d`, `a1006ec033`, `a0ee83f004`, `9c2a7fb47a`, `80a2266a0a`, `72fe63a069`. Alan installs and signs in next. After that the risk is data rather than boot: authorization is pulled per request and held nowhere, so a sleeping workstation is a 500.",
+        "TestFlight 198 is up from `04959e93f4`, VALID and tester-visible; the app boots. The live pod runs `0c6fb83a1f`, which predates the index deletion and is self-consistent, so the widget needs no deploy and a deploy would blank the in-memory relay map for ~5 minutes. Pod logs over 6 hours: 14 `[device-secret] refusing: absent`, 1 malformed, zero `[route-access] refusing`. The grant is fine; the widget waits only on Alan signing in to mint a secret.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
