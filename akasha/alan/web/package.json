@@ -3,16 +3,12 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./chess-board": "./chess-board/chess-board.module.code.tsx",
     "./declared-effects": "./declared-effects/declared-effects.module.code.ts"
   },
   "dependencies": {
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
-    "chess.js": "^1.4.0",
-    "chessground": "^9.2.1",
-    "zod": "^4.3.6"
+    "@akasha/utils-narrow": "workspace:*"
   },
   "peerDependencies": {
     "react": "^18 || ^19"
