@@ -1,7 +1,6 @@
 import { readFileSync } from "node:fs"
 import type { AgentNameBindInput, SeatPresence } from "./name-claim-guard.ts"
 import { planSeatResolution } from "./seat-handle.ts"
-import type { SeatNameAdmission } from "./seat-name-admission.ts"
 import { agentHolderProcess } from "./seat-presence-read.ts"
 import { parseSeatProcKey, seatProcKeyPresence } from "./seat-proc-key.ts"
 
@@ -44,9 +43,7 @@ export function gatherAgentNameBindInput(args: {
   readonly priorHolderId: string | null
   readonly priorHolderPresence?: SeatPresence
   readonly takeLiveName?: boolean
-  readonly admission: SeatNameAdmission
 }): AgentNameBindInput {
-  const { admitted, declaredShapes } = args.admission
   const priorHolder =
     args.priorHolderId === null
       ? null
@@ -59,7 +56,5 @@ export function gatherAgentNameBindInput(args: {
     priorHolderIsCallerSeat:
       args.priorHolderId !== null && isPriorHolderCallerSeat(args.priorHolderId),
     takeLiveName: args.takeLiveName ?? false,
-    admitted,
-    declaredShapes,
   }
 }

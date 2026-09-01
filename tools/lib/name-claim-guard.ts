@@ -1,6 +1,6 @@
 import type { SeatHandle } from "./seat-handle.ts"
 
-export type AgentNameBindRefusal = "unaddressable" | "live-holder" | "undeclared-shape"
+export type AgentNameBindRefusal = "unaddressable" | "live-holder"
 
 export type SeatPresence = "present" | "absent" | "unknown"
 
@@ -18,8 +18,6 @@ export interface AgentNameBindInput {
   readonly priorHolder: AgentNameBindPriorHolder | null
   readonly priorHolderIsCallerSeat: boolean
   readonly takeLiveName: boolean
-  readonly admitted: boolean
-  readonly declaredShapes: readonly string[]
 }
 
 export type AgentNameBindDecision =
@@ -58,17 +56,6 @@ export function decideAgentNameBind(input: AgentNameBindInput): AgentNameBindDec
         "spelling one name: the pending mail addressed to it moves here, and the next page write " +
         `lands on the file that seat is named by. Stop it with \`akasha seat supervisor stop ${name}\`, or ` +
         `pass \`${TAKE_LIVE_NAME_FLAG}\` to take the name from it deliberately.`
-    )
-  }
-
-  if (!input.priorHolderIsCallerSeat && !input.admitted) {
-    return refuse(
-      "undeclared-shape",
-      `'${name}' matches no declared agent-name shape, so nothing downstream can address ` +
-        "this seat: a name is what every sweep in this system reaches it by. " +
-        "A seat bound to it works just well enough that nothing asks — it is refused " +
-        "`project check` and `deploy`, it cannot reach Alan, and no reaper, revive, dispatch " +
-        `count or roster can see it. The declared shapes are: ${input.declaredShapes.join(", ")}.`
     )
   }
 

@@ -4,7 +4,6 @@ import { dataError, inputError, operationalError } from "./exit.ts"
 import { FLEET, personaDefaultsOf } from "./compose-seat-name.ts"
 import { seatByName } from "./seat-by-name.ts"
 import { isValidSeatName } from "./seat-handle.ts"
-import { seatNameAdmission } from "./seat-name-admission.ts"
 import { mintNamedAgent } from "./seat-name-bind.ts"
 import { launchSeatUnderTmux, type LaunchSeatResult } from "./launch-seat-tmux.ts"
 import {
@@ -89,7 +88,7 @@ export async function spawnSeat(input: SpawnSeatInput): Promise<SpawnSeatResult>
   const held = refuseHeldName(seatByName(name))
   if (held !== null) throw dataError(held)
 
-  const agentId = await mintNamedAgent(name, seatNameAdmission(name))
+  const agentId = await mintNamedAgent(name)
 
   const unstated = await stateSpawnedSeat({
     agentId,

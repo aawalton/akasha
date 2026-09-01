@@ -2,7 +2,6 @@ import { admitSeatName } from "./admit-seat-name.ts"
 import { resolveRoots, targetRoot } from "@akasha/pages-system/checkout-roots"
 import { seatByName } from "./seat-by-name.ts"
 import { isValidSeatName } from "./seat-handle.ts"
-import { seatNameAdmission } from "./seat-name-admission.ts"
 import { refuseSeatName } from "./seat-name-bind.ts"
 import { nameVocabularyOf } from "./seat-name-vocabulary.ts"
 import { pageTextOf } from "./seat-page-values.ts"
@@ -61,7 +60,7 @@ export async function restateSeatName(args: {
     holder !== null && holder.id !== agentId ? holder.presence : "absent"
 
   try {
-    await refuseSeatName(agentId, name, seatNameAdmission(name), {
+    await refuseSeatName(agentId, name, {
       priorHolderPresence,
       ...(args.takeLiveName === undefined ? {} : { takeLiveName: args.takeLiveName }),
     })

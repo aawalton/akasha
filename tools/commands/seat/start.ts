@@ -1,7 +1,6 @@
 export const summary = "Start a seat: create it under a name, state what it is, and launch it where asked"
 
 import { dataError, inputError } from "../../lib/exit.ts"
-import { seatNameAdmission } from "../../lib/seat-name-admission.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
 import {
@@ -177,7 +176,7 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
   const held = refuseHeldName(seatByName(name))
   if (held !== null) throw dataError(held)
 
-  const agentId = await mintNamedAgent(name, seatNameAdmission(name))
+  const agentId = await mintNamedAgent(name)
 
   const unstated = await stateSpawnedSeat({
     agentId,

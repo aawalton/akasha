@@ -3,7 +3,6 @@ import { inputError } from "./exit.ts"
 import { decideAgentNameBind, type SeatPresence } from "./name-claim-guard.ts"
 import { seatByName } from "./seat-by-name.ts"
 import { isValidSeatName } from "./seat-handle.ts"
-import type { SeatNameAdmission } from "./seat-name-admission.ts"
 
 export interface SetAgentNameBind {
   readonly priorHolderPresence?: SeatPresence
@@ -13,7 +12,6 @@ export interface SetAgentNameBind {
 export async function refuseSeatName(
   agentId: string,
   name: string,
-  admission: SeatNameAdmission,
   bind: SetAgentNameBind = {}
 ): Promise<void> {
   if (!isValidSeatName(name)) {
@@ -29,7 +27,6 @@ export async function refuseSeatName(
       ? {}
       : { priorHolderPresence: bind.priorHolderPresence }),
     ...(bind.takeLiveName === undefined ? {} : { takeLiveName: bind.takeLiveName }),
-    admission,
   })
   const decision = decideAgentNameBind(input)
   if (!decision.allow) {
@@ -37,11 +34,8 @@ export async function refuseSeatName(
   }
 }
 
-export async function mintNamedAgent(
-  name: string,
-  admission: SeatNameAdmission
-): Promise<string> {
+export async function mintNamedAgent(name: string): Promise<string> {
   const agentId = Bun.randomUUIDv7()
-  await refuseSeatName(agentId, name, admission)
+  await refuseSeatName(agentId, name)
   return agentId
 }

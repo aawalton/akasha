@@ -9,7 +9,6 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
 import { flexInName } from "../../lib/seat-flex.ts"
 import { resolveSeatTargetCli } from "../../lib/seat-handle.ts"
 import { SEAT_MODES, SEAT_MODE_HEADLESS, isSeatMode } from "../../lib/seat-modes.ts"
-import { seatNameAdmission } from "../../lib/seat-name-admission.ts"
 import { mintNamedAgent } from "../../lib/seat-name-bind.ts"
 import { type SeatFromHistory, seatFromHistory } from "../../lib/seat-page-history.ts"
 import { principalSeatNameOf } from "../../lib/seat-principal.ts"
@@ -133,7 +132,7 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
 
   await killSeatSession(name)
 
-  const fresh = await mintNamedAgent(name, seatNameAdmission(name))
+  const fresh = await mintNamedAgent(name)
 
   const unstated = await stateSpawnedSeat({
     agentId: fresh,
