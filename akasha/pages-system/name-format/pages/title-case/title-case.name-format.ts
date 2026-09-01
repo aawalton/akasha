@@ -1,4 +1,4 @@
-import type { NameFormat } from "../name-format.page-type.ts"
+import type { NameFormat } from "../../name-format.page-type.ts"
 
 export const titleCase = {
   id: "01a04eba-7459-7314-a8c6-dc565526fb11",
