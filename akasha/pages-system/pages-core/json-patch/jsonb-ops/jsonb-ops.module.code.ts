@@ -1,4 +1,5 @@
 import type { Json } from "@akasha/supabase-database/json"
+import { asJson } from "../../as-json/as-json.module.code.ts"
 
 export type JsonObject = { [key: string]: Json | undefined }
 
@@ -138,10 +139,6 @@ function jsonbInsertAt(node: Json, segs: readonly string[], value: Json, depth: 
 
 function asString(value: unknown): string {
   return value as string
-}
-
-function asJson(value: unknown): Json {
-  return value as Json
 }
 
 export function parsePgInt(s: string): number | null {

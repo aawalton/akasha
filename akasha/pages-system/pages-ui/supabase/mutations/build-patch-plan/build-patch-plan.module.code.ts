@@ -1,5 +1,6 @@
 import { PROMOTED_COLUMN_KEYS } from "@akasha/pages-access/routing-core"
 import type { JsonPatch } from "@akasha/pages-access/types"
+import { asJson } from "@akasha/pages-core/as-json"
 import type { RowOverlay } from "@akasha/pages-ui-store/optimistic/plan"
 import type { Json } from "@akasha/supabase-database/json"
 import { z } from "zod"
@@ -66,8 +67,4 @@ export function buildOverlay(triple: {
     attributesPatch: triple.patchAttributesPatch,
     promoted: triple.patchPromoted,
   }
-}
-
-function asJson(value: unknown): Json {
-  return value as Json
 }

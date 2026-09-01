@@ -1,3 +1,4 @@
+import { asJson } from "@akasha/pages-core/as-json"
 import type { PagesStore } from "@akasha/pages-ui-store/collection/store"
 import type { Json } from "@akasha/supabase-database/json"
 import { isRecord } from "@akasha/utils-narrow/is-record"
@@ -27,8 +28,4 @@ export function readCurrentAttributes(
   const out: Record<string, Json> = {}
   for (const [k, v] of Object.entries(attrs)) out[k] = asJson(v)
   return out
-}
-
-function asJson(value: unknown): Json {
-  return value as Json
 }
