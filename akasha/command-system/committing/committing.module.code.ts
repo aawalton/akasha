@@ -65,9 +65,9 @@ function ordering(one: Entry, two: Entry): number {
 function madeFrom(root: string, every: readonly Entry[]): string {
   const body = [...every]
     .sort(ordering)
-    .map((one) => `${one.mode} ${one.kind} ${one.oid}\t${one.name}`)
-    .join("\n")
-  return gitIn(root, ["mktree"], { stdin: bytesOf(`${body}\n`) }).trim()
+    .map((one) => `${one.mode} ${one.kind} ${one.oid}\t${one.name}\n`)
+    .join("")
+  return gitIn(root, ["mktree"], { stdin: bytesOf(body) }).trim()
 }
 
 function nodeOf(put: ReadonlyMap<string, string | null>): Node {
@@ -163,8 +163,7 @@ export function committed(
   const put = new Map<string, string | null>()
   for (const one of wrote) put.set(one, blobFor(root, one))
   for (const one of took) put.set(one, null)
-  const tree = treeFrom(root, was, nodeOf(put))
-  if (tree === null) throw new Error("the change would leave no tree at the root")
+  const tree = treeFrom(root, was, nodeOf(put)) ?? madeFrom(root, [])
   if (tree === was) return null
   const writing = writer ?? AUTHOR
   const made = gitIn(root, [
