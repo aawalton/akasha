@@ -5,6 +5,7 @@
   "workspaces": [
     "akasha/**",
     "alanwalton/atlas-web",
+    "alanwalton/calendar-sync",
     "alanwalton/mobile-cli",
     "alanwalton/web",
     "archive-of-worlds/web",

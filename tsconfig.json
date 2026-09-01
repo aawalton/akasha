@@ -97,6 +97,9 @@
       "path": "./alanwalton/web"
     },
     {
+      "path": "./alanwalton/calendar-sync"
+    },
+    {
       "path": "./alanwalton/atlas-web"
     },
     {
