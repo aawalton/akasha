@@ -6,6 +6,7 @@ export const START = "S"
 
 export const PLAIN: readonly string[] = [
   "S -> NP VP",
+  "S -> ADV S",
 
   "NP -> NOM | DET NOM | QUANT NOM | SELF | INDEF",
   "NP -> NP PP",

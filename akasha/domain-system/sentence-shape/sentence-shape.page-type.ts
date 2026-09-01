@@ -7,7 +7,7 @@ import type { Rules } from "./properties/rules.text-property.ts"
 
 export type SentenceShape = Page & {
   definition: Definition
-  allowed: Allowed
+  allowed?: Allowed
   rules: readonly Rules[]
   reason?: Reason
 }
@@ -22,7 +22,7 @@ export const sentenceShape = {
   partSlugs: ["boolean-property/allowed", "text-property/reason", "text-property/rules"],
   properties: [
     { pagePropertySlug: "definition", required: true, many: false },
-    { pagePropertySlug: "allowed", required: true, many: false },
+    { pagePropertySlug: "allowed", required: false, many: false },
     { pagePropertySlug: "rules", required: true, many: true, max: null },
     { pagePropertySlug: "reason", required: false, many: false },
   ],
@@ -45,7 +45,15 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape is written down only once Alan has decided it.",
+      statement: "A shape Alan has not decided states no `allowed`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape Alan has not decided is admitted until he decides it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape is written down once it is parsed rather than once it is decided.",
     },
     {
       invariantKind: "absence",
