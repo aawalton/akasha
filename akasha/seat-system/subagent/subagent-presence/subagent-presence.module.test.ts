@@ -80,7 +80,7 @@ test("a body states no id, leaving the command to mint one", () => {
 test("a page takes the assignment from the page its seat stands at", () => {
   const world = scratchWorld()
   try {
-    const root = world.rootFor("subagent-standing-")
+    const root = world.rootFor("subagent-presence-")
     writing(root, SEAT_AT, SEAT_BODY)
     listedFiled(root, "seat", "akasha", [{ path: SEAT_AT, id: SEAT_ID }])
     expect(assignedTo(root, "akasha")).toBe("domain/akasha-system")
@@ -92,7 +92,7 @@ test("a page takes the assignment from the page its seat stands at", () => {
 test("a seat the index carries no page for is assigned nothing", () => {
   const world = scratchWorld()
   try {
-    const root = world.rootFor("subagent-standing-")
+    const root = world.rootFor("subagent-presence-")
     pageFiled(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
     expect(assignedTo(root, "akasha")).toBe(null)
   } finally {
@@ -103,7 +103,7 @@ test("a seat the index carries no page for is assigned nothing", () => {
 test("a seat is named by the page the index carries for its id", () => {
   const world = scratchWorld()
   try {
-    const root = world.rootFor("subagent-standing-")
+    const root = world.rootFor("subagent-presence-")
     pageFiled(root, SEAT_ID, "akasha/seat-system/seat/seats/akasha.seat.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe("akasha")
   } finally {
@@ -114,7 +114,7 @@ test("a seat is named by the page the index carries for its id", () => {
 test("a seat the index carries no page for is named by nothing", () => {
   const world = scratchWorld()
   try {
-    const root = world.rootFor("subagent-standing-")
+    const root = world.rootFor("subagent-presence-")
     pageFiled(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe(null)
   } finally {
@@ -125,7 +125,7 @@ test("a seat the index carries no page for is named by nothing", () => {
 test("a page that is no seat names no seat", () => {
   const world = scratchWorld()
   try {
-    const root = world.rootFor("subagent-standing-")
+    const root = world.rootFor("subagent-presence-")
     pageFiled(root, SEAT_ID, "akasha/persona-system/persona/akasha/akasha.persona.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe(null)
   } finally {
@@ -136,7 +136,7 @@ test("a page that is no seat names no seat", () => {
 test("a page is landed by a program, its commit saying no check ran", () => {
   const world = scratchWorld()
   try {
-    const root = seated(world.rootFor("subagent-standing-"))
+    const root = seated(world.rootFor("subagent-presence-"))
     expect(wrote(root, "akasha", OWN, "Explore")).toBe(true)
     const at = join(root, pathOf(slugOf("akasha", OWN)))
     expect(readFileSync(at, "utf8")).toContain('dispatchedAs: "Explore"')
@@ -149,7 +149,7 @@ test("a page is landed by a program, its commit saying no check ran", () => {
 test("a page already standing is left as it is", () => {
   const world = scratchWorld()
   try {
-    const root = seated(world.rootFor("subagent-standing-"))
+    const root = seated(world.rootFor("subagent-presence-"))
     expect(wrote(root, "akasha", OWN, "Explore")).toBe(true)
     const held = gitIn(root, ["rev-parse", "HEAD"])
     expect(wrote(root, "akasha", OWN, "Task")).toBe(true)
@@ -162,7 +162,7 @@ test("a page already standing is left as it is", () => {
 test("a seat stating no assignment writes nothing", () => {
   const world = scratchWorld()
   try {
-    const root = seated(world.rootFor("subagent-standing-"))
+    const root = seated(world.rootFor("subagent-presence-"))
     expect(wrote(root, "thea", OWN, "Explore")).toBe(false)
     expect(existsSync(join(root, pathOf(slugOf("thea", OWN))))).toBe(false)
   } finally {
@@ -173,7 +173,7 @@ test("a seat stating no assignment writes nothing", () => {
 test("a page taken away goes, and the commit says a program took it", () => {
   const world = scratchWorld()
   try {
-    const root = seated(world.rootFor("subagent-standing-"))
+    const root = seated(world.rootFor("subagent-presence-"))
     wrote(root, "akasha", OWN, "Explore")
     expect(took(root, "akasha", OWN)).toBe(true)
     expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
@@ -186,7 +186,7 @@ test("a page taken away goes, and the commit says a program took it", () => {
 test("a page taken away is forgotten by whoever read it", () => {
   const world = scratchWorld()
   try {
-    const root = seated(world.rootFor("subagent-standing-"))
+    const root = seated(world.rootFor("subagent-presence-"))
     wrote(root, "akasha", OWN, "Explore")
     const at = pathOf(slugOf("akasha", OWN))
     const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
@@ -202,7 +202,7 @@ test("a page taken away is forgotten by whoever read it", () => {
 test("a page that is not there is taken away by doing nothing", () => {
   const world = scratchWorld()
   try {
-    const root = seated(world.rootFor("subagent-standing-"))
+    const root = seated(world.rootFor("subagent-presence-"))
     const held = gitIn(root, ["rev-parse", "HEAD"])
     expect(took(root, "akasha", OWN)).toBe(true)
     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)

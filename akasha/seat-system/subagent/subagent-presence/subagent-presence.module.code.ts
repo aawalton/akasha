@@ -15,7 +15,7 @@ export const WRITING = "write"
 
 export const TAKING = "take"
 
-const CALLED_AS = "subagent-standing"
+const CALLED_AS = "subagent-presence"
 
 const SEAT = "seat"
 
