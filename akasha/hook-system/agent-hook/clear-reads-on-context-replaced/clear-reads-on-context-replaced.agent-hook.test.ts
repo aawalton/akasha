@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { READS_AT, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { ran } from "@akasha/utils-run/running"
 import {
   agentIn,
   cleared,
@@ -72,8 +73,8 @@ function ranWith(
   const held: Record<string, string> = { ...process.env } as Record<string, string>
   if (named === null) delete held[NAMED]
   else held[NAMED] = named
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payloadOf(source)), env: held })
-  return { code: ran.exitCode, out: ran.stdout.toString() }
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf(source)), env: held })
+  return { code: done.code, out: done.out }
 }
 
 test("the folder taken away is the one the reading module names", () => {
@@ -226,9 +227,9 @@ test("the scope says what this reaches and what it does not", () => {
 
 test("the session begins at every source, and the hook says nothing", () => {
   for (const one of [...REPLACING, "resume", "other"]) {
-    const ran = ranWith(one, NOBODY)
-    expect(ran.code).toBe(0)
-    expect(ran.out).toBe("")
+    const done = ranWith(one, NOBODY)
+    expect(done.code).toBe(0)
+    expect(done.out).toBe("")
   }
 })
 
@@ -247,13 +248,13 @@ test("the hook run as the harness runs it leaves a resumed session's record stan
 
 test("the session begins with no agent named, and on a payload that will not parse", () => {
   expect(ranWith("startup", null).code).toBe(0)
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from("{") })
-  expect(ran.exitCode).toBe(0)
-  expect(ran.stdout.toString()).toBe("")
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from("{") })
+  expect(done.code).toBe(0)
+  expect(done.out).toBe("")
 })
 
 test("the hook prints its scope when it is asked", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
-  expect(ran.exitCode).toBe(0)
-  expect(ran.stdout.toString()).toContain("NOT REACHED")
+  const done = ran(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
+  expect(done.code).toBe(0)
+  expect(done.out).toContain("NOT REACHED")
 })
