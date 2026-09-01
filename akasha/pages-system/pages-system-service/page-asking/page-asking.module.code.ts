@@ -1,6 +1,12 @@
-import { listedAt, valuesOfType } from "@akasha/indexes"
+import { listedAt, type Valued, valuesOfType } from "@akasha/indexes"
 import { matches, weigh } from "@akasha/pages-query/where-testing"
-import { propertiesFrom, sourceAmong, sourceIn } from "@akasha/pages-system/page-type-properties"
+import {
+  type Carried,
+  propertiesFrom,
+  sourceAmong,
+  sourceIn,
+} from "@akasha/pages-system/page-type-properties"
+import { wholeValue } from "@akasha/pages-system/page-uncommitted"
 import type { Value } from "@akasha/pages-system/page-value"
 
 const PAGE_TYPE = "page-type"
@@ -73,12 +79,16 @@ function unrun(where: Readonly<Record<string, Test>> | undefined): string | null
   return null
 }
 
-export function keysOf(root: string, pageTypeSlug: string): ReadonlySet<string> {
+function carriedIn(root: string, pageTypeSlug: string): readonly Carried[] {
   const source = sourceAmong(
     valuesOfType(root, PAGE_TYPE).map((one) => one.value),
     sourceIn(root, () => null)
   )
-  return new Set(propertiesFrom(pageTypeSlug, source).map((one) => one.key))
+  return propertiesFrom(pageTypeSlug, source)
+}
+
+export function keysOf(root: string, pageTypeSlug: string): ReadonlySet<string> {
+  return new Set(carriedIn(root, pageTypeSlug).map((one) => one.key))
 }
 
 export function askedFor(query: Query): readonly (readonly [string, string])[] {
@@ -91,15 +101,21 @@ export function askedFor(query: Query): readonly (readonly [string, string])[] {
   return wanted
 }
 
-function unkeyed(root: string, query: Query): string | null {
+function unkeyed(carried: readonly Carried[], query: Query): string | null {
   const wanted = askedFor(query)
   if (wanted.length === 0) return null
-  const keys = keysOf(root, query.pageTypeSlug)
+  const keys = new Set(carried.map((one) => one.key))
   for (const [key, at] of wanted) {
     if (keys.has(key)) continue
     return `\`${at}\` names \`${key}\`, and the \`${query.pageTypeSlug}\` page type declares no such key. the keys are ${[...keys].sort().join(", ")}`
   }
   return null
+}
+
+function valuedFor(root: string, pageTypeSlug: string, beside: boolean): readonly Valued[] {
+  const held = valuesOfType(root, pageTypeSlug)
+  if (!beside) return held
+  return held.map((one) => ({ path: one.path, value: wholeValue(root, one.path, one.value) }))
 }
 
 function narrows(value: Value, where: Readonly<Record<string, Test>> | undefined): boolean {
@@ -130,11 +146,18 @@ export function asking(root: string, query: Query): Asked {
   if (listedAt(root, PAGE_TYPE, query.pageTypeSlug).length === 0) {
     return { refused: `\`${query.pageTypeSlug}\` names no page type the index holds` }
   }
-  const unnamed = unkeyed(root, query)
+  const carried = carriedIn(root, query.pageTypeSlug)
+  const unnamed = unkeyed(carried, query)
   if (unnamed !== null) return { refused: unnamed }
-  const held = valuesOfType(root, query.pageTypeSlug).filter((one) =>
-    narrows(one.value, query.where)
-  )
+  const beside = carried.some((one) => one.uncommitted)
+  let held: readonly Valued[]
+  try {
+    held = valuedFor(root, query.pageTypeSlug, beside).filter((one) =>
+      narrows(one.value, query.where)
+    )
+  } catch (thrown) {
+    return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
+  }
   const sortBy = query.sortBy
   const sorted =
     sortBy === undefined
