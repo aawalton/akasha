@@ -19,7 +19,7 @@ export const pagesSystemService = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "It runs on a workstation.",
+      statement: "The pages system service runs on a workstation.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const pagesSystemService = {
     {
       invariantKind: "departure",
       statement:
-        "A value a page keeps outside the commit is written beside it and committed with nothing.",
+        "A value a page keeps outside the commit is written beside the page and committed with nothing.",
     },
     {
       invariantKind: "departure",
@@ -76,43 +76,45 @@ export const pagesSystemService = {
     },
     {
       invariantKind: "departure",
-      statement: "The index it reads is built from the commit at HEAD.",
+      statement: "The index the pages system service reads is built from the commit at HEAD.",
     },
     {
       invariantKind: "departure",
-      statement: "The index names the paths it does not answer for.",
+      statement: "The index names the paths the pages system service does not answer for.",
     },
     {
       invariantKind: "departure",
-      statement: "A pod reaches it over the tailnet.",
+      statement: "A pod reaches the pages system service over the tailnet.",
     },
     {
       invariantKind: "departure",
-      statement: "The port it listens on is read from a page.",
+      statement: "The port the pages system service listens on is read from a page.",
     },
     {
       invariantKind: "departure",
-      statement: "The host names it answers on are read from a page.",
+      statement: "The host names the pages system service answers on are read from a page.",
     },
     {
       invariantKind: "absence",
-      statement: "It answers on the house network.",
+      statement: "The pages system service answers on the house network.",
     },
     {
       invariantKind: "departure",
-      statement: "A page stating no port is refused when it is written.",
+      statement: "A page stating no port is refused when the page is written.",
     },
     {
       invariantKind: "departure",
-      statement: "What the cluster reaches reads as ready only while it is listening.",
+      statement:
+        "What the cluster reaches reads as ready only while the pages system service is listening.",
     },
     {
       invariantKind: "gap",
-      statement: "It is not what limits any caller of it.",
+      statement:
+        "The pages system service is not what limits any caller of the pages system service.",
     },
     {
       invariantKind: "gap",
-      statement: "An answer costs nothing where the pages it rests on have not changed.",
+      statement: "An answer costs nothing where the pages the answer rests on have not changed.",
     },
   ],
 } as const satisfies WorkspacePackage

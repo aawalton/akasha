@@ -13,7 +13,8 @@ export const cover = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement: "This holds the route a picture is fetched by rather than the picture itself.",
+      statement:
+        "This property holds the route a picture is fetched by rather than the picture itself.",
     },
   ],
 } as const satisfies TextProperty

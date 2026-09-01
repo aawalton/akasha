@@ -26,7 +26,7 @@ export const packageReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder a manifest names against is the folder it stands in.",
+      statement: "The folder a manifest names against is the folder the manifest stands in.",
     },
     {
       invariantKind: "departure",
@@ -46,11 +46,12 @@ export const packageReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A settle is answered from the paths the index names and the paths it carries.",
+      statement:
+        "A settle is answered from the paths the index names and the paths the change carries.",
     },
     {
       invariantKind: "departure",
-      statement: "A manifest the change carries is read as the change leaves it.",
+      statement: "A manifest the change carries is read as the change leaves the manifest.",
     },
     {
       invariantKind: "absence",

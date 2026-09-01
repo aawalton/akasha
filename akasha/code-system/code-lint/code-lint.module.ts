@@ -31,11 +31,11 @@ export const codeLint = {
     {
       invariantKind: "constraint",
       statement:
-        "Biome says of its own JSON reporter that it is unstable and may change between patches.",
+        "Biome says of its own JSON reporter that the reporter is unstable and may change between patches.",
     },
     {
       invariantKind: "constraint",
-      statement: "We read it anyway.",
+      statement: "This module reads the JSON reporter anyway.",
     },
     {
       invariantKind: "constraint",

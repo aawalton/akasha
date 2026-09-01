@@ -14,11 +14,11 @@ export const answerKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer that cannot be read or parsed is answered as none.",
+      statement: "An answer that cannot be read or parsed is answered as no answer.",
     },
     {
       invariantKind: "departure",
-      statement: "Forgetting a kind keeps only the names it is told are live.",
+      statement: "Forgetting a kind keeps only the names the forgetting is told are live.",
     },
     {
       invariantKind: "absence",

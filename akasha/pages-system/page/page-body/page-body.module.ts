@@ -10,7 +10,7 @@ export const pageBody = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body names the type its page answers to and satisfies it.",
+      statement: "A body names the type its page answers to and satisfies the type.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const pageBody = {
     },
     {
       invariantKind: "departure",
-      statement: "The keys are written in the order the caller names them.",
+      statement: "The keys are written in the order the caller names the keys.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const pageBody = {
     },
     {
       invariantKind: "departure",
-      statement: "A key inside a value is written bare where TypeScript reads it bare.",
+      statement: "A key inside a value is written bare where TypeScript reads the key bare.",
     },
     {
       invariantKind: "absence",
@@ -47,11 +47,11 @@ export const pageBody = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here formats what it wrote.",
+      statement: "Nothing here formats what this module wrote.",
     },
     {
       invariantKind: "departure",
-      statement: "What lands the body mints and formats it.",
+      statement: "What lands the body mints and formats the body.",
     },
   ],
 } as const satisfies Module

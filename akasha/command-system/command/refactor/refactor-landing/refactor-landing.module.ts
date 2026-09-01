@@ -21,7 +21,7 @@ export const refactorLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading of every body that landed is carried with it.",
+      statement: "A reading of every body that landed is carried with the landing.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const refactorLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A dry run says what it would land and writes nothing.",
+      statement: "A dry run says what the dry run would land and writes nothing.",
     },
     {
       invariantKind: "departure",

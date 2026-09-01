@@ -21,7 +21,7 @@ export const packageReachedWhereNamed = {
     {
       invariantKind: "departure",
       statement:
-        "A page type descending from `workspace-package` that the index files no page under is answered as none.",
+        "A page type descending from `workspace-package` that the index files no page under is answered as no packages.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest is read as the change leaves it.",
+      statement: "A manifest is read as the change leaves the manifest.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,8 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A package declaring no interface is not enforced against what reaches it.",
+      statement:
+        "A package declaring no interface is not enforced against what reaches the package.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +75,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A package is named in a refusal by what its manifest calls it.",
+      statement: "A package is named in a refusal by what its manifest calls the package.",
     },
     {
       invariantKind: "departure",
@@ -110,7 +111,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing is a page where the index files it under its own path.",
+      statement: "A landing is a page where the index files the page under its own path.",
     },
     {
       invariantKind: "departure",

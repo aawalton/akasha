@@ -13,7 +13,7 @@ export const floorSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A floor enemy's equipment is known only by the numbers it adds.",
+      statement: "A floor enemy's equipment is known only by the numbers the equipment adds.",
     },
     {
       invariantKind: "departure",

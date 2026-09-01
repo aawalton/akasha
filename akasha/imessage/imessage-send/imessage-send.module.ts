@@ -9,7 +9,8 @@ export const imessageSend = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every value the script carries is base64 encoded before the shell reads it.",
+      statement:
+        "Every value the script carries is base64 encoded before the shell reads the value.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +18,7 @@ export const imessageSend = {
     },
     {
       invariantKind: "departure",
-      statement: "A message may carry a body or an attachment or both.",
+      statement: "A message may carry a body or an attachment or a body and an attachment.",
     },
   ],
 } as const satisfies Module

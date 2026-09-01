@@ -13,7 +13,7 @@ export const fileDomain = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file warrants the page that names it among its parts.",
+      statement: "A file warrants the page that names the file among its parts.",
     },
   ],
 } as const satisfies ContextWarrant

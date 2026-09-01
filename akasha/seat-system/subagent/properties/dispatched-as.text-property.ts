@@ -13,7 +13,7 @@ export const dispatchedAs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A kind is spelled as the tool running it takes the name.",
+      statement: "A kind is spelled as the tool running the kind takes the name.",
     },
     {
       invariantKind: "stopgap",
@@ -21,7 +21,7 @@ export const dispatchedAs = {
     },
     {
       invariantKind: "gap",
-      statement: "This is a relation to an agent kind.",
+      statement: "This property is a relation to an agent kind.",
     },
   ],
 } as const satisfies TextProperty

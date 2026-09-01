@@ -24,7 +24,7 @@ export const emailGoogle = {
     {
       invariantKind: "departure",
       statement:
-        "A message is reached by the id Gmail gives it rather than by its Message-ID header.",
+        "A message is reached by the id Gmail gives the message rather than by its Message-ID header.",
     },
     {
       invariantKind: "absence",

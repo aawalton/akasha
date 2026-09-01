@@ -26,12 +26,12 @@ export const typeRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The plural it carries now is read off its own file.",
+      statement: "The plural a page type carries now is read off its own file.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page type whose plural cannot be read is refused rather than renamed without it.",
+        "A page type whose plural cannot be read is refused rather than renamed without its plural.",
     },
     {
       invariantKind: "departure",
@@ -44,11 +44,12 @@ export const typeRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "It carries the name it is exported under.",
+      statement: "A page type's own file carries the name the page type is exported under.",
     },
     {
       invariantKind: "departure",
-      statement: "The folder a page type stands in is named for it and moves with it.",
+      statement:
+        "The folder a page type stands in is named for the page type and moves with the page type.",
     },
     {
       invariantKind: "departure",

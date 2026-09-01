@@ -42,11 +42,11 @@ export const pageListening = {
     },
     {
       invariantKind: "departure",
-      statement: "Running this file starts the service.",
+      statement: "Running this module's file starts the service.",
     },
     {
       invariantKind: "absence",
-      statement: "Importing this file starts nothing.",
+      statement: "Importing this module's file starts nothing.",
     },
   ],
 } as const satisfies Module

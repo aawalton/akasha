@@ -25,7 +25,7 @@ export const audit = {
     },
     {
       invariantKind: "departure",
-      statement: "A run narrowed to named checks says in its answer that it is not an audit.",
+      statement: "A run narrowed to named checks says in its answer that the run is not an audit.",
     },
     {
       invariantKind: "departure",

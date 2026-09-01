@@ -31,7 +31,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "The keys are written in the order they are declared.",
+      statement: "The keys are written in the order the keys are declared.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the index already holds is written back at the path it has.",
+      statement: "A page the index already holds is written back at the path the page has.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the index already holds keeps the identity it has.",
+      statement: "A page the index already holds keeps the identity the page has.",
     },
     {
       invariantKind: "absence",
@@ -63,7 +63,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "Several pages compose into what one write puts and what it keeps.",
+      statement: "Several pages compose into what one write puts and what the write keeps.",
     },
     {
       invariantKind: "departure",

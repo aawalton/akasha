@@ -10,7 +10,8 @@ export const webBuildSha = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A build that cannot say which commit it came from says so rather than guessing.",
+      statement:
+        "A build that cannot say which commit the build came from says so rather than guessing.",
     },
   ],
 } as const satisfies WorkspacePackage

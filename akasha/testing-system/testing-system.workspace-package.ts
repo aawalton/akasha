@@ -41,7 +41,7 @@ export const testingSystem = {
     {
       invariantKind: "departure",
       statement:
-        "A module the running system also reaches for belongs to the system that runs it however much its tests want it too.",
+        "A module the running system also reaches for belongs to the system that runs the module however much its tests want the module too.",
     },
     {
       invariantKind: "absence",
@@ -49,7 +49,7 @@ export const testingSystem = {
     },
     {
       invariantKind: "absence",
-      statement: "What stands here is stood up by the tests that reach for it.",
+      statement: "What stands here is stood up by the tests that reach for what is here.",
     },
     {
       invariantKind: "absence",

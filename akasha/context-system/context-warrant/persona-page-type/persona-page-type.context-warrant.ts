@@ -13,15 +13,15 @@ export const personaPageType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat warrants the type of the persona it states.",
+      statement: "A seat warrants the type of the persona the seat states.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat warrants every type that one extends.",
+      statement: "A seat warrants every type that the persona's type extends.",
     },
     {
       invariantKind: "departure",
-      statement: "What a page answers to its type for is one rule wherever it is asked.",
+      statement: "What a page answers to its type for is one rule wherever the rule is asked.",
     },
     {
       invariantKind: "departure",

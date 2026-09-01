@@ -14,11 +14,11 @@ export const noRunOutsideTheRunner = {
     },
     {
       invariantKind: "departure",
-      statement: "A name is refused only where it was taken from node's child process.",
+      statement: "A name is refused only where the name was taken from node's child process.",
     },
     {
       invariantKind: "departure",
-      statement: "`Bun.spawnSync` is refused wherever it is reached.",
+      statement: "`Bun.spawnSync` is refused wherever `Bun.spawnSync` is reached.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const noRunOutsideTheRunner = {
     },
     {
       invariantKind: "departure",
-      statement: "A process started to be awaited or held is not this.",
+      statement: "A process started to be awaited or held is not what this rule refuses.",
     },
     {
       invariantKind: "departure",

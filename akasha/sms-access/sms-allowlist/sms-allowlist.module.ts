@@ -18,7 +18,7 @@ export const smsAllowlist = {
     },
     {
       invariantKind: "departure",
-      statement: "A sending permission spelt as a word is read as the boolean it names.",
+      statement: "A sending permission spelt as a word is read as the boolean the word names.",
     },
   ],
 } as const satisfies Module

@@ -10,7 +10,7 @@ export const totals = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A forced write replaces the stored total whatever it holds.",
+      statement: "A forced write replaces the stored total whatever the stored total holds.",
     },
     {
       invariantKind: "departure",

@@ -38,7 +38,7 @@ export const mobileCli = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every build runs on the one mac this reaches over ssh.",
+      statement: "Every build runs on the one mac this workstation reaches over ssh.",
     },
     {
       invariantKind: "departure",

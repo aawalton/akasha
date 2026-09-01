@@ -18,7 +18,7 @@ export const healthImportRun = {
     },
     {
       invariantKind: "departure",
-      statement: "A run states what it wrote for each metric rather than one total.",
+      statement: "A run states what the run wrote for each metric rather than one total.",
     },
   ],
 } as const satisfies Module

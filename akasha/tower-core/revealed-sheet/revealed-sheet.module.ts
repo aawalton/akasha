@@ -9,11 +9,12 @@ export const revealedSheet = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A skill's displayed score stands in front of the score it was stored with.",
+      statement:
+        "A skill's displayed score stands in front of the score the skill was stored with.",
     },
     {
       invariantKind: "departure",
-      statement: "An affinity is shown by the counter it has reached.",
+      statement: "An affinity is shown by the counter the affinity has reached.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +26,7 @@ export const revealedSheet = {
     },
     {
       invariantKind: "absence",
-      statement: "A sheet holding neither weapon nor armour is shown with no equipment at all.",
+      statement: "A sheet holding neither weapon nor armour is shown with no equipment.",
     },
   ],
 } as const satisfies Module

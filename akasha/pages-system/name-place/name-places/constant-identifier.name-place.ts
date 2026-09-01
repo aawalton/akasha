@@ -9,7 +9,7 @@ export const constantIdentifier = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Data is data whether it is written out or built as the file loads.",
+      statement: "Data is data whether the data is written out or built as the file loads.",
     },
     {
       invariantKind: "departure",
