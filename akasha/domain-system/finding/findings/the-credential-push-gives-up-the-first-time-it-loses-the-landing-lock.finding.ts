@@ -4,7 +4,7 @@ export const theCredentialPushGivesUpTheFirstTimeItLosesTheLandingLock = {
   id: "01a05beb-a22d-70f2-aa6b-04938e9830d5",
   pageTypeSlug: "finding",
   slug: "the-credential-push-gives-up-the-first-time-it-loses-the-landing-lock",
-  domainSlug: "workspace-package/agents-system",
+  domainSlug: "workspace-package/agents",
   claim:
     "The credential push makes one attempt at the landing and takes any refusal as final, including a lost race for `.git/akasha-landing.lock`, which is not a judgement on the change but a statement that nothing looked at it. The rotated pair then goes to the escape hatch and the account's expiry stamp does not advance. An account has about eight hourly attempts inside one token's life, so this self-heals in the ordinary case and would not under sustained contention.",
   evidence:
