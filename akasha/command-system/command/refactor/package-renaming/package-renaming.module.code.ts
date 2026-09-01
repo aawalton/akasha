@@ -4,6 +4,11 @@ import { counted } from "../../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../calling/calling.module.code.ts"
 import { answering } from "../../../calling/calling.module.code.ts"
 import { baseOf } from "../../../landing/landing.module.code.ts"
+import {
+  INSIDE,
+  outsideRespelt,
+  respeltNames,
+} from "../../../outside-naming/outside-naming.module.code.ts"
 import { nameIn, reachedOver } from "../../../package-linking/package-linking.module.code.ts"
 import {
   bodyTextOf,
@@ -24,8 +29,8 @@ const CODE = [".ts", ".tsx"]
 const QUOTED = /"([^"\\]*)"/g
 
 const OUTSIDE =
-  "the index carries `akasha/` alone, so a file outside it naming this package is left " +
-  "unrespelled and was not looked for"
+  `the index carries \`${INSIDE}\` alone, so a file outside that folder naming this package is ` +
+  "found by searching what git tracks rather than by the index"
 
 export type Packaging = {
   readonly was: string
@@ -35,6 +40,8 @@ export type Packaging = {
 }
 
 export type Asked = { readonly packaging: Packaging } | { readonly refused: string }
+
+export type Outside = { readonly said: ReadonlyMap<string, string> } | { readonly refusal: string }
 
 export function namedAs(spelt: string, was: string, now: string): string | null {
   if (spelt !== was && !spelt.startsWith(`${was}${PARTED_BY}`)) return null
@@ -87,6 +94,18 @@ export function respeltIn(path: string, text: string, was: string, now: string):
   return bodyRespeltIn(path, text, was, now)
 }
 
+export function packageRespelt(text: string, was: string, now: string): string {
+  return respeltNames(text, new Map([[was, now]]))
+}
+
+export function outsidePackage(root: string, base: string, one: Packaging): Outside {
+  const found = outsideRespelt(root, base, [one.was], (_path, text) =>
+    packageRespelt(text, one.was, one.now)
+  )
+  if ("refusal" in found) return found
+  return { said: new Map(found.respelt.map((held) => [held.path, held.text])) }
+}
+
 export function renamingOver(
   one: Packaging,
   paths: readonly string[],
@@ -105,6 +124,7 @@ export function renamingOver(
 export function packageSaying(
   one: Packaging,
   said: ReadonlyMap<string, string>,
+  outside: readonly string[],
   dry: boolean
 ): readonly string[] {
   const paths = [...said.keys()].sort()
@@ -116,6 +136,11 @@ export function packageSaying(
     `${counted(manifests.length, "manifest")} and ${counted(bodies, "other file")} ` +
       `${were(paths.length, dry)} respelled`,
     ...(dry ? paths.map((path) => `  ${path}`) : []),
+    outside.length === 0
+      ? `no file outside \`${INSIDE}\` named the package`
+      : `${counted(outside.length, "file")} outside \`${INSIDE}\` naming the package ` +
+        `${were(outside.length, dry)} respelled`,
+    ...(dry ? outside.map((path) => `  ${path}`) : []),
     OUTSIDE,
     ...(dry ? [] : [INSTALL]),
   ]
@@ -130,7 +155,8 @@ export function packageLanded(
   argv: readonly string[],
   flags: readonly string[]
 ): Answer {
-  const bodyText = bodyTextOf(root, baseOf(root))
+  const base = baseOf(root)
+  const bodyText = bodyTextOf(root, base)
   const paths = everyPath(root)
   const manifests = new Map<string, string>()
   for (const path of paths) {
@@ -140,7 +166,11 @@ export function packageLanded(
   }
   const asked = packagingFor(manifests, from, to)
   if ("refused" in asked) return answering([], [asked.refused], 1)
-  const said = renamingOver(asked.packaging, paths, bodyText)
+  const inside = renamingOver(asked.packaging, paths, bodyText)
+  const outside = outsidePackage(root, base, asked.packaging)
+  if ("refusal" in outside) return answering([], [outside.refusal], 1)
+  const said = new Map([...inside, ...outside.said])
+  const named = [...outside.said.keys()].sort()
   const clear = reachedOver(root, [{ name: asked.packaging.now, folder: asked.packaging.folder }])
   try {
     const landing = respelledLanded(
@@ -148,7 +178,7 @@ export function packageLanded(
       root,
       said,
       `rename the package \`${from}\` to \`${to}\``,
-      (dry) => packageSaying(asked.packaging, said, dry),
+      (dry) => packageSaying(asked.packaging, inside, named, dry),
       dryRun,
       argv,
       flags

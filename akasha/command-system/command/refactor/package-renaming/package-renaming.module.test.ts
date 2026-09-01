@@ -3,6 +3,8 @@ import {
   bodyRespeltIn,
   manifestRespeltIn,
   namedAs,
+  packageRespelt,
+  packageSaying,
   packagingFor,
   renamingOver,
   respeltIn,
@@ -135,4 +137,53 @@ test("what is rewritten is found by path and holds its new text", () => {
 test("a rename touching nothing rewrites nothing", () => {
   const one = { was: WAS, now: NOW, at: AT, folder: "akasha/held" }
   expect(renamingOver(one, ["akasha/y/y.ts"], () => "export const two = 2\n").size).toBe(0)
+})
+
+const PACKAGING = { was: WAS, now: NOW, at: AT, folder: "akasha/held" }
+
+test("an import outside the akasha folder naming the package is respelled", () => {
+  const text = `import { one } from "${WAS}/one"\n`
+  expect(packageRespelt(text, WAS, NOW)).toBe(`import { one } from "${NOW}/one"\n`)
+})
+
+test("a manifest key naming the package is respelled outside the akasha folder", () => {
+  const text = `{\n  "dependencies": {\n    "${WAS}": "workspace:*"\n  }\n}\n`
+  expect(packageRespelt(text, WAS, NOW)).toBe(
+    `{\n  "dependencies": {\n    "${NOW}": "workspace:*"\n  }\n}\n`
+  )
+})
+
+test("a lockfile entry naming the package is respelled", () => {
+  const text = `  "${WAS}": ["${WAS}@workspace:akasha/held", {}, ""],\n`
+  expect(packageRespelt(text, WAS, NOW)).toBe(
+    `  "${NOW}": ["${NOW}@workspace:akasha/held", {}, ""],\n`
+  )
+})
+
+test("a longer package name this one only opens is left alone", () => {
+  expect(packageRespelt(`"${WAS}-fast" "${WAS}"`, WAS, NOW)).toBe(`"${WAS}-fast" "${NOW}"`)
+})
+
+test("the folder a lockfile files a workspace under is left alone", () => {
+  const text = `    "akasha/held": {\n      "name": "${WAS}"\n    }\n`
+  expect(packageRespelt(text, WAS, NOW)).toBe(
+    `    "akasha/held": {\n      "name": "${NOW}"\n    }\n`
+  )
+})
+
+test("an answer says how many files outside the akasha folder were respelled", () => {
+  const said = packageSaying(PACKAGING, new Map(), ["tools/lib/held.ts"], true)
+  expect(said.join("\n")).toContain(
+    "1 file outside `akasha/` naming the package would be respelled"
+  )
+})
+
+test("an answer naming no file outside the akasha folder says so", () => {
+  const said = packageSaying(PACKAGING, new Map(), [], false)
+  expect(said).toContain("no file outside `akasha/` named the package")
+})
+
+test("an answer says the files outside the akasha folder were looked for", () => {
+  const said = packageSaying(PACKAGING, new Map(), [], true)
+  expect(said.join("\n")).toContain("found by searching what git tracks")
 })

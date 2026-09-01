@@ -44,7 +44,7 @@ export const refactor = {
     "a plural is stated rather than worked out, so it is asked for rather than guessed.",
     "a package rename takes the name it carries now and the name it becomes.",
     "a package rename moves no folder and changes no page's slug.",
-    "a file outside the akasha folder naming a renamed package is named rather than changed.",
+    "a tracked file outside the akasha folder naming a renamed package is respelled with it.",
     "`page-type` itself is refused, being the tail every page type's own file carries.",
     "--dry-run names every file it would carry; a landing says how many.",
     "a spelling it cannot judge to be a path is named in the answer rather than changed.",
@@ -195,7 +195,16 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement:
-        "A file outside that folder naming a renamed package is named rather than changed.",
+        "A tracked file outside that folder naming a renamed package is respelled in the same commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which files outside that folder name a renamed package is answered by searching what git tracks.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A package name the renamed name only opens is left as that name is.",
     },
     {
       invariantKind: "absence",

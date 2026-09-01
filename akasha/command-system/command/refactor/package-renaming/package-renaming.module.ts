@@ -70,7 +70,38 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer says a file outside the akasha folder was not looked for.",
+      statement:
+        "Which files outside the akasha folder name the package is answered by `outside-naming`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A tracked file outside the akasha folder naming the package is respelled in the same commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file outside the akasha folder is respelled at the name itself rather than through the parser.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest key naming the package is respelled as a bare specifier is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lockfile entry naming the package is respelled as a bare specifier is.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A longer package name this one only opens is left alone outside as inside.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer says how many files outside the akasha folder were respelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A search git could not run refuses the whole rename.",
     },
     {
       invariantKind: "absence",
