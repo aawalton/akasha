@@ -1,7 +1,7 @@
 "use client"
 
 import { InputBadge } from "@akasha/design-badges/input-badge"
-import { SearchMultiSelect, type SearchMultiSelectItem } from "@shared/design-forms/components/search-multi-select"
+import { SearchMultiSelect, type SearchMultiSelectItem } from "@akasha/design-forms/search-multi-select"
 import { useDebouncedValue } from "@shared/design-primitives/hooks/use-debounced-value"
 import { useMemo, useState } from "react"
 import { usePageResolverOptional } from "../contexts/page-resolver"

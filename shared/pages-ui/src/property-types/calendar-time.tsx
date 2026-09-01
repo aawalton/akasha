@@ -2,7 +2,7 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { TimeBadge } from "@akasha/design-badges/time-badge"
-import { formatTime12h } from "@shared/design-forms/utils/format-time"
+import { formatTime12h } from "@akasha/design-forms/format-time"
 import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
 
 import type { BadgeVariant } from "@shared/pages-core/schema/color-rule"

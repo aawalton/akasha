@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { EditableNumber } from "@shared/design-forms/components/editable-number"
+import { EditableNumber } from "@akasha/design-forms/editable-number"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { ALL_STOCKED_OPTIONS } from "@temper/game-items-rules-core/filters/all-stocked-filter"

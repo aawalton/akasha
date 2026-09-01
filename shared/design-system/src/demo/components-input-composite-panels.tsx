@@ -3,9 +3,9 @@
 import { Mail, Search, Tag } from "lucide-react"
 import { useState } from "react"
 import { NumberBadge } from "@akasha/design-badges/number-badge"
-import { InlineEditableText } from "@shared/design-forms/components/inline-editable-text"
-import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput, InputGroupText, InputGroupTextarea } from "@shared/design-forms/components/input-group"
-import { InputOTP, InputOTPGroup, InputOTPSeparator, InputOTPSlot } from "@shared/design-forms/components/input-otp"
+import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
+import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput, InputGroupText, InputGroupTextarea } from "@akasha/design-forms/input-group"
+import { InputOTP, InputOTPGroup, InputOTPSeparator, InputOTPSlot } from "@akasha/design-forms/input-otp"
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { Heading } from "@shared/design-primitives/components/heading"
 

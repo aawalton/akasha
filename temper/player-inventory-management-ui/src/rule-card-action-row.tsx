@@ -2,8 +2,8 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { EditableNumber } from "@shared/design-forms/components/editable-number"
-import { InputGroup, InputGroupAddon, InputGroupInput } from "@shared/design-forms/components/input-group"
+import { EditableNumber } from "@akasha/design-forms/editable-number"
+import { InputGroup, InputGroupAddon, InputGroupInput } from "@akasha/design-forms/input-group"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import type {
   CategoryRule,

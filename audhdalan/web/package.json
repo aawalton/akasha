@@ -17,7 +17,7 @@
   "dependencies": {
     "@infra/k8s-types": "workspace:*",
     "@akasha/design-badges": "workspace:*",
-    "@shared/design-forms": "workspace:*",
+    "@akasha/design-forms": "workspace:*",
     "@shared/design-layout": "workspace:*",
     "@shared/design-patterns": "workspace:*",
     "@shared/design-primitives": "workspace:*",

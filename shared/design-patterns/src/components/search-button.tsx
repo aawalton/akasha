@@ -1,6 +1,6 @@
 "use client"
 
-import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput } from "@shared/design-forms/components/input-group"
+import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput } from "@akasha/design-forms/input-group"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { cn } from "@shared/design-primitives/utils/cn"

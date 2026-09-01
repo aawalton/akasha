@@ -25,7 +25,7 @@
     "@collections/litrpg": "workspace:*",
     "@fontsource-variable/literata": "^5.2.5",
     "@infra/k8s-types": "workspace:*",
-    "@shared/design-forms": "workspace:*",
+    "@akasha/design-forms": "workspace:*",
     "@shared/design-layout": "workspace:*",
     "@shared/design-patterns": "workspace:*",
     "@shared/design-primitives": "workspace:*",

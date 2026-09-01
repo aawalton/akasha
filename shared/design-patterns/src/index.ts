@@ -1,7 +1,7 @@
-export { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput, InputGroupText, InputGroupTextarea } from "@shared/design-forms/components/input-group"
-export { type ParsedDate, parseDateExpression } from "@shared/design-forms/utils/date-parser"
-export { formatTime12h } from "@shared/design-forms/utils/format-time"
-export { normalizeBareNumericTime } from "@shared/design-forms/utils/normalize-bare-numeric-time"
+export { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput, InputGroupText, InputGroupTextarea } from "@akasha/design-forms/input-group"
+export { type ParsedDate, parseDateExpression } from "@akasha/design-forms/date-parser"
+export { formatTime12h } from "@akasha/design-forms/format-time"
+export { normalizeBareNumericTime } from "@akasha/design-forms/normalize-bare-numeric-time"
 
 export { LoadMoreButton } from "@shared/design-layout/components/load-more-button"
 export { LoadingContainer } from "@shared/design-layout/components/loading-container"

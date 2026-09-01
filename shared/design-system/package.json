@@ -51,7 +51,7 @@
     "@fontsource-variable/geist": "5.2.9",
     "@fontsource-variable/geist-mono": "5.2.8",
     "@akasha/design-badges": "workspace:*",
-    "@shared/design-forms": "workspace:*",
+    "@akasha/design-forms": "workspace:*",
     "@shared/design-layout": "workspace:*",
     "@shared/design-patterns": "workspace:*",
     "@shared/design-primitives": "workspace:*",

@@ -1,4 +1,4 @@
-import { formatTime12h } from "@shared/design-forms/utils/format-time"
+import { formatTime12h } from "@akasha/design-forms/format-time"
 import { formatRelativeTime } from "@shared/design-primitives/utils/format-relative-time"
 import { formatAbsoluteInstant, instantToMillis } from "@shared/pages-core/property-types/instant"
 import { formatPropertyNumber, toNumber } from "@shared/pages-core/property-types/number"

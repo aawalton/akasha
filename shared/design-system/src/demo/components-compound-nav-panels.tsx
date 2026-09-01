@@ -3,7 +3,7 @@
 import { useState } from "react"
 import { useForm } from "react-hook-form"
 import { toast } from "sonner"
-import { Form, FormControl, FormDescription, FormField, FormItem, FormLabel, FormMessage } from "@shared/design-forms/components/form"
+import { Form, FormControl, FormDescription, FormField, FormItem, FormLabel, FormMessage } from "@akasha/design-forms/form"
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { SidebarNavGroup } from "@shared/design-layout/components/sidebar-nav-group"
 import { Button } from "@shared/design-primitives/components/button"

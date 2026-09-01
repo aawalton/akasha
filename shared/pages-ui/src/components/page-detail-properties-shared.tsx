@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Calendar } from "@shared/design-forms/components/calendar"
+import { Calendar } from "@akasha/design-forms/calendar"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { useState } from "react"
 import { formatSmartDate } from "@shared/pages-core/view/format-smart-date"
