@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages reading and writing pages stand in akasha.",
       workingMemory:
-        "`shared/pages-query` is 8 files and no small move: its sources close over 214 under `tools/`, `page/`, `repo/`, `readouts/`, and `imports-inside` refuses every relative escape from `akasha/`. It waits on the root page engine landing beneath it, not on `roots.ts`, whose depth arithmetic went at `099d098c77`. Five increments, filed at `the-root-page-engine-lands-as-five-packages-in-this-order`; none of P0's 7 leaf folders stands in akasha. Inbound: 120 statements in 86 files, 113 name the router.",
+        "`shared/pages-query` is 8 files but no small move: its sources close over 168 under `tools/`, `page/`, `repo/`, `readouts/`, and `imports-inside` refuses every relative escape from `akasha/`. It waits on the root page engine beneath it, filed at `the-root-page-engine-lands-as-five-packages-in-this-order` as five increments. `shared/` is down to 5 folders and only this and `pages-ui` still move; `auth`, `design-patterns` and `utils-test` are settled. Inbound: 120 statements in 86 files.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
