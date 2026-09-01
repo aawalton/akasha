@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The service takes property data end to end: /write carries `pages` of pageTypeSlug, slug and values (0688168806), composedFor routes uncommitted keys to `kept` and renders the rest, and landedIn now mints an id for a page being created and formats every body (672f7ab549). A page it replaces keeps the id it has. 129 pass. Left: registerDeviceToken hands over one bag, and the legacy device-token markdown goes with it.",
+        "Three landed, proved live on 8787: /write takes `pages` of values (0688168806); a page created gets an id and every body is formatted (672f7ab549); a name that is no page type is refused, not answered `{rows:[]}` (985ba3bcce). Left is one atomic swap — reader tools/lib/push-notification/store.ts (user-id, bundle-id), writer registerDeviceToken, and prune naming the page by its token. The new type has personSlug+iosAppSlug, so all three move together or pushes break.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
