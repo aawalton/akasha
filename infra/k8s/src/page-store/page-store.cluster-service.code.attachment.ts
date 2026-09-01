@@ -43,6 +43,32 @@ const LISTEN_ADDRESS = `TCP-LISTEN:${PAGE_STORE_PORT},fork,reuseaddr`
 
 const DIAL_ADDRESS = `PROXY:${EGRESS_HOST}:${WORKSTATION_HOST}:${PAGE_STORE_PORT},proxyport=${EGRESS_PORT}`
 
+// The path the pages system service answers a question at.
+const ASK_PATH = "/ask"
+
+// The smallest true question there is: one page of the type the pages system service is itself
+// described by, cut down to one row carrying one key. It costs the workstation an index read.
+const READINESS_QUESTION = JSON.stringify({
+  pageTypeSlug: "workstation-service",
+  limit: 1,
+  keys: ["slug"],
+})
+
+// wget gives up well before the probe's own timeout, so a workstation that neither answers nor
+// refuses is failed by wget rather than cut off by the kubelet. A healthy round trip here is a
+// few milliseconds, so two seconds is slack rather than a bound anything real runs against.
+const READINESS_SECONDS = 2
+
+// busybox's wget and grep stand in the socat image already, so this asks for no second image.
+// wget exits non-zero on a refused connection, on a stream socat closes when its dial out fails,
+// and on any status outside 2xx; the grep then holds the answer to one the pages system service
+// itself composed rather than to anything else that might be listening.
+const READINESS_COMMAND = [
+  "/bin/sh",
+  "-c",
+  `wget -q -O- --timeout=${READINESS_SECONDS} --header='content-type: application/json' --post-data='${READINESS_QUESTION}' http://127.0.0.1:${PAGE_STORE_PORT}${ASK_PATH} | grep -q '"rows"'`,
+]
+
 function namespaceYaml(): string {
   return synthOne(NAMESPACE, "namespace", {
     apiVersion: "v1",
@@ -78,16 +104,21 @@ function deploymentYaml(): string {
               // -d -d reports warnings and notices, so each carried connection says so in the log.
               args: ["-d", "-d", LISTEN_ADDRESS, DIAL_ADDRESS],
               ports: [{ name: "page-store", containerPort: PAGE_STORE_PORT, protocol: "TCP" }],
-              // The probe opens a connection, which socat answers by dialling the workstation
-              // through the egress, so readiness says the whole path stands rather than that a
-              // socket is bound.
+              // socat answers a connection before it has dialled anything, so a bound socket says
+              // nothing about the workstation. The probe therefore asks the pages system service a
+              // real question back through this same forwarder, and the pod reads ready only while
+              // an answer comes back.
               readinessProbe: {
-                tcpSocket: { port: PAGE_STORE_PORT },
+                exec: { command: READINESS_COMMAND },
                 initialDelaySeconds: 2,
-                periodSeconds: 30,
+                periodSeconds: 10,
                 timeoutSeconds: 5,
                 failureThreshold: 3,
               },
+              // Nothing here probes liveness. socat is this container's only process, so its death
+              // already restarts the container, and a check of the listener socat binds would pass
+              // in every case a restart would help. A workstation that is asleep leaves this pod
+              // not ready, and nothing is allowed to read that as a fault of socat's.
               resources: {
                 requests: { cpu: "10m", memory: "32Mi" },
                 limits: { memory: "64Mi" },

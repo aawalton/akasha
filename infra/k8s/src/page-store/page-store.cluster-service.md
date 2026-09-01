@@ -26,3 +26,6 @@ configured with a proxy.
 
 The carrying is done through the tailnet egress that already stands, so no second private-network
 node is enrolled for this.
+
+Readiness is judged by asking the workstation a real question and reading the answer, so a pod that
+is reached is one the whole path stands for rather than one that has merely bound a socket.
