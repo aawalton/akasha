@@ -8,27 +8,21 @@ export const aineChecksJudgeTheChange = {
   personaSlug: "aine",
   intents: [
     {
-      statement: "A check the differential leaves untried is told apart from one it found sound.",
+      statement: "A check reads the index as the change leaves the index.",
       workingMemory:
-        "The differential runs 42 checks over 10 scenarios and reports all 42 held. Only 5 refused anything in either reading, so 37 held by answering nothing twice. `invariant-earns-its-place` runs zero times and holds vacuously. A held verdict is currently reported the same whether the check was exercised or not.",
+        "Index readers take `given: string | Reading`, and a root reads the committed index. Some take an optional reading defaulting to the committed index, so omitting an argument reads the before state and no search finds it. `shadow.index` binds the reading. Checks migrate one at a time, then `shadow.reading` comes off, so anything unmigrated stops compiling.",
     },
     {
-      statement: "The differential answers for a check written to read the tree.",
+      statement: "A world a check hands to a foreign engine holds the change rather than the tree.",
       workingMemory:
-        "Both known movers were caught only after scenarios were added for them: without the manifest-and-body pair the old typecheck reads as held, without the package-edge pair the old tests-pass reads as held. The controls were built at `da201217c1^` and `372aa7fa86` and live in no test. The scenario set is the instrument.",
-    },
-    {
-      statement: "The change an audit judges is one a tree can contradict.",
-      workingMemory:
-        "At audit `everythingIn(root)` makes before and after one closure, `nothingMoved` is true, and the shadow falls through to `shadowAt(root)`, which reads the tree. So the change is the tree and content it does not describe is undefined. No audit-shaped scenario has been run.",
+        "`worldOf` in `code-tests` copies the committed index into the scratch rather than the shadow, and symlinks the world's top-level `node_modules` to the real tree's `@akasha/*` farm. `lint-clean` materialises only the changed files, so nearly every `@akasha/*` import inside its world resolves out to the live working tree.",
     },
     { statement: "What a landing pays for a world built from the change is measured." },
-    { statement: "Every check is handed a world built from the change alone." },
-    { statement: "A check reading the tree where the change says otherwise cannot land." },
+    { statement: "A check cannot reach the index or the tree as they were before the change." },
   ],
   constraints: [
     "No check is weakened, skipped or disabled to make a verdict hold.",
-    "A verdict that held is no proof until the check refused in a reading.",
+    "A change that moves a verdict lands apart from one that cannot.",
     "Nothing outside the akasha folder is judged.",
   ],
 } as const satisfies Initiative
