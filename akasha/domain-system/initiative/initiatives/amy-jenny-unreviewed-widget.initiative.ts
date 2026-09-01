@@ -13,7 +13,11 @@ export const amyJennyUnreviewedWidget = {
       workingMemory:
         "Surveyed, not moved. Inbound was scored 0 from relative edges alone; the true figure is 239 files reaching `@shared/pages-core` by name, over 16 manifests and 61 subpaths, all rewritten in one landing because the name cannot survive the move. Cost ~530 files: 138 module pages, 138 code files, 448 internal specifiers of which 380 are extensionless, 239 external files. No barrels; 2 of 106 sources hold a comment. Three findings filed. No safe partial: a module page needs its code beside it.",
     },
-    { statement: "The packages reading and writing pages stand in akasha." },
+    {
+      statement: "The packages reading and writing pages stand in akasha.",
+      workingMemory:
+        "Unblocked, not moved. `pages-access` reached `naming.ts` by path for `idOfFilePage` and `slugOfFilePage`. Packaging `page/` was never needed: those want `fileStemOf`, one of five exports of `page/name/name.ts`, and only 16 of that file's 44 reaches want it. All four moved whole into `@shared/file-page-identity`, 24 reaches repointed, so nothing under `shared/pages-access` escapes it now. The move itself costs 253 reaches over 163 files, 22 manifests, 24 subpaths.",
+    },
     { statement: "The packages Alan's own work rests on stand in akasha." },
     {
       statement: "The design packages stand in akasha.",
