@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "No file imports `@shared/pages-query`.",
       workingMemory:
-        "The package is already gone; 111 files still import it, so none of them build. Heaviest: alanwalton/web 28, shared/pages-access 27, tools/lib 20, shared/status-bar-access 11. What replaces it is the page store: POST /ask taking pageTypeSlug, where, keys, sortBy, descending, limit and offset and answering rows; POST /write taking writer, message, puts and removes. A pod reaches it at page-store.page-store.svc.cluster.local on 8787, a workstation at 100.64.0.4:8787.",
+        "Deleted in 094d71b8a1, so its source is read from that commit's parent. 111 files import it. What it exports is small: askComposed carries 49 reads and maps straight onto POST /ask; then askNamed 13, askPage 6, askTaking 4, askPageTypes 3, askShape 2, askNaming 1. writePage, patchPage, writeRow, patchRow and removePage carry the writes onto POST /write. Only tools/lib asks for count-by or sum, which /ask does not answer. Reached at page-store.page-store.svc.cluster.local:8787.",
     },
     {
       statement:
