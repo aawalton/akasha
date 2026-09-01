@@ -1,4 +1,4 @@
-import type { NameFormat } from "../name-format.page-type.ts"
+import type { NameFormat } from "../../name-format.page-type.ts"
 
 export const lowerKebabCase = {
   id: "01a04eba-7459-71b8-9356-78cfec88c104",
