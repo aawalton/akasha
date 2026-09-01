@@ -7,7 +7,7 @@
       "dependencies": {
         "@akasha/browser-launch-env": "workspace:*",
         "@akasha/browser-test-harness": "workspace:*",
-        "@akasha/checkout-provenance": "workspace:*",
+        "@akasha/checkout-version": "workspace:*",
         "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/file-page-identity": "workspace:*",
@@ -738,7 +738,7 @@
       "name": "@akasha/verdict",
     },
     "akasha/version/checkout": {
-      "name": "@akasha/checkout-provenance",
+      "name": "@akasha/checkout-version",
       "dependencies": {
         "@akasha/git": "workspace:*",
         "@infra/git-porcelain": "workspace:*",
@@ -3696,7 +3696,7 @@
 
     "@akasha/calendar-google": ["@akasha/calendar-google@workspace:akasha/calendar-google"],
 
-    "@akasha/checkout-provenance": ["@akasha/checkout-provenance@workspace:akasha/version/checkout"],
+    "@akasha/checkout-version": ["@akasha/checkout-version@workspace:akasha/version/checkout"],
 
     "@akasha/checks-system": ["@akasha/checks-system@workspace:akasha/checks-system"],
 

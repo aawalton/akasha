@@ -236,7 +236,7 @@
     "@modelcontextprotocol/sdk": "^1.30.0",
     "@akasha/browser-launch-env": "workspace:*",
     "@akasha/browser-test-harness": "workspace:*",
-    "@akasha/checkout-provenance": "workspace:*",
+    "@akasha/checkout-version": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/file-page-identity": "workspace:*",
     "@akasha/open-questions": "workspace:*",

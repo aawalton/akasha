@@ -2,7 +2,7 @@
 import {
   formatProvenance,
   readRunningCheckoutProvenance,
-} from "@akasha/checkout-provenance/provenance"
+} from "@akasha/checkout-version/provenance"
 import { normalizeThrowable } from "@akasha/errors-core/throwable-normalizing"
 import { commandSet } from "./set.ts"
 import type { Command } from "./surface.ts"
