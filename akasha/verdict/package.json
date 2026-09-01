@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/verdict",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./verdict-shape": "./verdict-shape/verdict-shape.module.code.ts",
+    "./verdict-exit": "./verdict-exit/verdict-exit.module.code.ts",
+    "./verdict-text": "./verdict-text/verdict-text.module.code.ts"
+  }
+}

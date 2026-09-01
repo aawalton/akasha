@@ -25,6 +25,7 @@ export const akashaSystem = {
     "workspace-package/hook-system",
     "domain/editor-extension",
     "workspace-package/testing-system",
+    "workspace-package/verdict",
     "workspace-package/seat-system",
     "workspace-package/persona-system",
     "domain/role-system",
