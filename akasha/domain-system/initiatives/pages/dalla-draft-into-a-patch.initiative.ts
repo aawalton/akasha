@@ -15,6 +15,8 @@ export const dallaDraftIntoAPatch = {
     },
     { statement: "A draft says what the checks would refuse and refuses nothing." },
     { statement: "An applied patch lands through the gate as one commit." },
+    { statement: "A drafting command takes no dry run flag." },
+    { statement: "The glass is broken only where a patch applies." },
     { statement: "A rename landing under an open patch leaves that patch coherent." },
     { statement: "A seat and its subagents draft against one worktree of their own." },
   ],
