@@ -12,7 +12,7 @@ export const invariantEarnsItsPlace = {
     {
       invariantKind: "departure",
       statement:
-        "A statement a change writes or alters is judged rather than every statement on the page the change touches.",
+        "A statement a change writes or alters is judged rather than every statement the page holds.",
     },
     {
       invariantKind: "departure",

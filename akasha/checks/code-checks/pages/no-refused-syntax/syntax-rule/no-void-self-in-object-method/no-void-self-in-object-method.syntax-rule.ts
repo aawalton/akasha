@@ -40,7 +40,7 @@ export const noVoidSelfInObjectMethod = {
     {
       invariantKind: "gap",
       statement:
-        "That the generated call uses a colon is assumed here rather than read from the transpiler's settings.",
+        "That the generated call uses a colon is assumed rather than read from the transpiler's settings.",
     },
     {
       invariantKind: "gap",
