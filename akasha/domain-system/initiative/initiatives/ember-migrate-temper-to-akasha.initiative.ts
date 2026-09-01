@@ -32,6 +32,11 @@ export const emberMigrateTemperToAkasha = {
       workingMemory:
         "Six commands land tracked commits: write, edit, move, refactor, remove and seat. `calling` reads the `mechanical` boolean off the command page and hands `programmatic` down, which sets NO_GATE. `subagent-presence` and `seat-stating` reach `landingAsked` with no command between them and it, so nothing names their kind. The `mechanical` boolean is the stopgap a relation to a change kind replaces, and `programmatic` is the bypass it replaces.",
     },
+    {
+      statement: "The index says what the pages say.",
+      workingMemory:
+        "`akasha index refresh --dry-run` reports the index drifted from the pages: 1 file changed and 4 files taken away, where twenty minutes earlier it was 3 taken away. Landings happened in between, so the incremental update inside the landing lock leaks an entry. Nothing was interleaved, so this is no ordering fault. The index is 66MB and a full rebuild costs 2.86s. Callers trust the index, so the root cause is fixed rather than the drift swept.",
+    },
   ],
   constraints: [
     "The entries work lands in pages-system rather than under temper.",
