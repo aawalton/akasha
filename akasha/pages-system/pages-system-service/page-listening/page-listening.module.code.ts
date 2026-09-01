@@ -30,8 +30,8 @@ export type Bound = {
 }
 
 function statedFor(root: string): Value | null {
-  const standing = listedAt(root, SERVICE_PAGE_TYPE, SERVICE_SLUG)
-  const one = standing[0]
+  const listed = listedAt(root, SERVICE_PAGE_TYPE, SERVICE_SLUG)
+  const one = listed[0]
   if (one === undefined) return null
   return valueAt(one.path, root)
 }
