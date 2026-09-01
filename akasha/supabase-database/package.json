@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/supabase-database",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./database/database.module.code.ts",
+    "./database": "./database/database.module.code.ts",
+    "./json": "./database-json/database-json.module.code.ts"
+  }
+}
