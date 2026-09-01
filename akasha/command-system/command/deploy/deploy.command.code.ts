@@ -125,10 +125,10 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
 
   let differs = false
   for (const manifest of plan.manifests) {
-    const stands = standingOf(manifest)
-    if ("why" in stands) return { report, refusals: [stands.why], code: OPERATIONAL }
-    report.push(`manifest\t${manifest.path}\t${stands.stands ? "stands" : "differs"}`)
-    if (!stands.stands) differs = true
+    const applied = standingOf(manifest)
+    if ("why" in applied) return { report, refusals: [applied.why], code: OPERATIONAL }
+    report.push(`manifest\t${manifest.path}\t${applied.stands ? "stands" : "differs"}`)
+    if (!applied.stands) differs = true
   }
   const up = upAlready(workload)
   report.push(`standing\t${up ? "up" : "not up"}`)
