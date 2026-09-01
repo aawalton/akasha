@@ -26,6 +26,7 @@ export const clusterService = {
   pluralSlug: "cluster-services",
   extendsSlug: "page-type/service",
   partSlugs: [
+    "cluster-service/audhdalan-web",
     "number-property/container-port",
     "number-property/replicas",
     "text-property/image",

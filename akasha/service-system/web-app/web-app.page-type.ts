@@ -24,6 +24,7 @@ export const webApp = {
     "text-property/build-command",
     "text-property/hostnames",
     "text-property/source-directory",
+    "web-app/audhdalan-web",
   ],
   properties: [
     { pagePropertySlug: "source-directory", required: true, many: false },
