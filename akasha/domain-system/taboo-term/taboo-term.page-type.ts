@@ -1,11 +1,13 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { KeptSenses } from "./properties/kept-senses.text-property.ts"
 import type { Pattern } from "./properties/pattern.text-property.ts"
 import type { TabooSenses } from "./properties/taboo-senses.record-property.ts"
 
 export type TabooTerm = Page & {
   pattern: Pattern
   tabooSenses: TabooSenses
+  keptSenses?: KeptSenses
 }
 
 export const tabooTerm = {
@@ -17,6 +19,7 @@ export const tabooTerm = {
   partSlugs: [
     "record-property/taboo-senses",
     "text-property/instead",
+    "text-property/kept-senses",
     "text-property/pattern",
     "text-property/sense",
   ],
@@ -24,6 +27,7 @@ export const tabooTerm = {
   properties: [
     { pagePropertySlug: "pattern", required: true, many: false },
     { pagePropertySlug: "taboo-senses", required: true, many: true, max: null },
+    { pagePropertySlug: "kept-senses", required: false, many: true, max: null },
   ],
   invariants: [
     {
@@ -33,6 +37,14 @@ export const tabooTerm = {
     {
       invariantKind: "departure",
       statement: "The word stands wherever it carries a sense the term does not bar.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A term names the senses it keeps as well as the senses it bars.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A term naming no kept sense permits every other sense by omission alone.",
     },
     {
       invariantKind: "departure",
