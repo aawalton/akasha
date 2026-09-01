@@ -59,7 +59,7 @@ export function service(argv: readonly string[], given: Given): Answer {
 
   const installed = ourInstalled(home)
   const owned = slug === undefined ? installed : ownedByService(installed, slug)
-  const plan = planFor(read.standing, owned)
+  const plan = planFor(read.services, owned)
 
   const report: string[] = []
   for (const name of plan.write.keys()) report.push(`write\t${name}`)

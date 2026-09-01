@@ -88,15 +88,15 @@ test("the service standing today is read from its page", () => {
   const read = readFor(ROOT, "pages-system-service")
   expect("refused" in read).toBe(false)
   if ("refused" in read) return
-  expect(read.standing.length).toBe(1)
-  expect(read.standing[0]?.service.slug).toBe("pages-system-service")
-  expect(read.standing[0]?.service.enabled).toBe(true)
-  expect(read.standing[0]?.pagePath).toContain("pages-system-service.workstation-service.ts")
+  expect(read.services.length).toBe(1)
+  expect(read.services[0]?.service.slug).toBe("pages-system-service")
+  expect(read.services[0]?.service.enabled).toBe(true)
+  expect(read.services[0]?.pagePath).toContain("pages-system-service.workstation-service.ts")
 })
 
 test("every service standing is read, and the one standing today is among them", () => {
   const read = everyService(ROOT)
   expect("refused" in read).toBe(false)
   if ("refused" in read) return
-  expect(read.standing.map((one) => one.service.slug)).toContain("pages-system-service")
+  expect(read.services.map((one) => one.service.slug)).toContain("pages-system-service")
 })

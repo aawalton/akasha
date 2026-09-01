@@ -9,7 +9,7 @@ export const SERVICE_PAGE_TYPE = "workstation-service"
 const SYSTEMD_TEXT_KEYS = ["restart", "schedule"] as const
 const SYSTEMD_NUMBER_KEYS = ["restartDelaySeconds", "startTimeoutSeconds", "jitterSeconds"] as const
 
-export type Read = { readonly standing: readonly Service[] } | { readonly refused: string }
+export type Read = { readonly services: readonly Service[] } | { readonly refused: string }
 
 export function runsIn(value: Value): readonly string[] | null {
   const held = value.runs
@@ -72,18 +72,18 @@ export function readFor(root: string, slug: string): Read {
   const one = found[0]
   if (one === undefined) return { refused: `no ${SERVICE_PAGE_TYPE} is slugged \`${slug}\`` }
   const read = serviceAt(root, one.path)
-  return typeof read === "string" ? { refused: read } : { standing: [read] }
+  return typeof read === "string" ? { refused: read } : { services: [read] }
 }
 
 export function everyService(root: string): Read {
   const found = [...everyOfType(root, SERVICE_PAGE_TYPE)].sort((a, b) =>
     a.path < b.path ? -1 : a.path > b.path ? 1 : 0
   )
-  const standing: Service[] = []
+  const services: Service[] = []
   for (const one of found) {
     const read = serviceAt(root, one.path)
     if (typeof read === "string") return { refused: read }
-    standing.push(read)
+    services.push(read)
   }
-  return { standing }
+  return { services }
 }
