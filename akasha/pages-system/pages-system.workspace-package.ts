@@ -31,6 +31,7 @@ export const pagesSystem = {
     "workspace-package/pages-core",
     "workspace-package/pages-access",
     "workspace-package/pages-ui-store",
+    "workspace-package/pages-url",
     "workspace-package/pages-ui",
     "domain/naming",
     "module/change",

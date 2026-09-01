@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/pages-url",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./cover-url": "./cover-url/cover-url.module.code.ts",
+    "./page-display-mode": "./page-display-mode/page-display-mode.module.code.ts",
+    "./page-href": "./page-href/page-href.module.code.ts",
+    "./page-listing-href": "./page-listing-href/page-listing-href.module.code.ts",
+    "./page-type-slug": "./page-type-slug/page-type-slug.module.code.ts",
+    "./safe-target": "./safe-target/safe-target.module.code.ts"
+  }
+}
