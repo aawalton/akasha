@@ -341,6 +341,9 @@
     "akasha/domain-system": {
       "name": "@akasha/domain-system",
     },
+    "akasha/domain-system/plain-language": {
+      "name": "@akasha/plain-language",
+    },
     "akasha/drive-google": {
       "name": "@akasha/drive-google",
       "dependencies": {
@@ -632,13 +635,15 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/shell": {
+      "name": "@akasha/shell",
+    },
     "akasha/sms-access": {
       "name": "@akasha/sms-access",
       "dependencies": {
         "@akasha/pages-query": "workspace:*",
         "@akasha/sms-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@supabase/supabase-js": "^2.104.0",
       },
     },
     "akasha/sms-core": {
@@ -3789,6 +3794,8 @@
 
     "@akasha/personas-core": ["@akasha/personas-core@workspace:akasha/personas-core"],
 
+    "@akasha/plain-language": ["@akasha/plain-language@workspace:akasha/domain-system/plain-language"],
+
     "@akasha/readout-system": ["@akasha/readout-system@workspace:akasha/readout-system"],
 
     "@akasha/recurrence": ["@akasha/recurrence@workspace:akasha/recurrence"],
@@ -3796,6 +3803,8 @@
     "@akasha/seat-system": ["@akasha/seat-system@workspace:akasha/seat-system"],
 
     "@akasha/service-system": ["@akasha/service-system@workspace:akasha/service-system"],
+
+    "@akasha/shell": ["@akasha/shell@workspace:akasha/shell"],
 
     "@akasha/sms-access": ["@akasha/sms-access@workspace:akasha/sms-access"],
 
