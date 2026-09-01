@@ -1,7 +1,7 @@
-import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { besideAll } from "@akasha/pages-system/page-beside"
+import { said as saying } from "@akasha/utils-run/running"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import { BREAK_GLASS, DRY_RUN, landingAsked } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
@@ -73,10 +73,7 @@ export function namedIn(argv: readonly string[]): Read {
 
 export function trackedUnder(root: string, path: string): readonly string[] | null {
   try {
-    const said = execFileSync("git", ["-C", root, "ls-files", "-z", "--", path], {
-      encoding: "utf8",
-      maxBuffer: 64 * 1024 * 1024,
-    })
+    const said = saying(["git", "-C", root, "ls-files", "-z", "--", path])
     return said.split("\0").filter((one) => one !== "")
   } catch {
     return null
