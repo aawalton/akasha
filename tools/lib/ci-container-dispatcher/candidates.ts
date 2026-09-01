@@ -1,5 +1,6 @@
 import { readUncommitted } from "../../../page/uncommitted/uncommitted.ts"
-import { answer } from "../page-query.ts"
+import { PagesUnread } from "../file-pages.ts"
+import { answer, UNREACHED } from "../page-query.ts"
 import { type Values } from "../page-file-values.ts"
 import { listOf, textOf } from "../page-query-values.ts"
 import { whereFor } from "../page-write-where.ts"
@@ -61,7 +62,8 @@ async function pagesBySeq(
 ): Promise<Map<string, Values>> {
   if (seqs.length === 0) return new Map()
   const found = answer(roots, { pageType, where: [{ key: "seq", in: seqs }] })
-  return found === null ? new Map() : byKey(found.rows, "seq")
+  if (found === null) throw new PagesUnread(pageType, UNREACHED)
+  return byKey(found.rows, "seq")
 }
 
 async function pipelineMaxRequests(
@@ -75,7 +77,7 @@ async function pipelineMaxRequests(
     where: [{ key: "pipeline-seq", in: unboundPipelineSeqs }],
     keys: ["seq", "pipeline-seq"],
   })
-  if (found === null) return most
+  if (found === null) throw new PagesUnread("step", UNREACHED)
   for (const row of found.rows) {
     const stepSeq = textOf(row.values, "seq")
     const pipelineSeq = textOf(row.values, "pipeline-seq")
@@ -94,7 +96,8 @@ export function scanDispatchingSteps(roots: Roots, limit: number): readonly Valu
     sortBy: "seq",
     limit,
   })
-  return found === null ? [] : found.rows.map((row) => row.values)
+  if (found === null) throw new PagesUnread("step", UNREACHED)
+  return found.rows.map((row) => row.values)
 }
 
 export async function enrich(
