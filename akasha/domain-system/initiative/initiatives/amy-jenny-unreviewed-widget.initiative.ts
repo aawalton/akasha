@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The app boots. Built `ddc5a605d2` and read it in a browser: `appReady` is 1, zero skeletons, `Sign In` renders. No fatal node module is left. The client facade sever `a0ee83f004` took the gate from 60 to 2; `during-call` `a1006ec033` and `checkout-roots` `d45c18277d` answer when asked. Left are the two `node:crypto` reaches: a leaf split for the device-secret predicate, and a browser sha1 for `file-page-identity`, which `file-rows:166` calls on the row path, so it throws live. Then a TestFlight.",
+        "TestFlight 198 is up from `04959e93f4`, VALID and tester-visible. It boots: `appReady` is 1, zero skeletons, `Sign In` renders, and the fatal `no-node-in-client` gate at `72fe63a069` reads clean. Six commits did it: `d45c18277d`, `a1006ec033`, `a0ee83f004`, `9c2a7fb47a`, `80a2266a0a`, `72fe63a069`. Alan installs and signs in next. After that the risk is data rather than boot: authorization is pulled per request and held nowhere, so a sleeping workstation is a 500.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
