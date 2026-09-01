@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { declaring, landing, NO_BYTES } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
@@ -53,7 +53,7 @@ function standing(
   parts: readonly string[]
 ): undefined {
   const path = pathFor(slug)
-  standingFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
+  listedFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, path), stated(slug, above, declares, parts))
 }

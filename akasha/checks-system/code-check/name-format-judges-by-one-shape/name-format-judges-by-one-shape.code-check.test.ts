@@ -3,8 +3,8 @@ import { scratchWorld } from "../../../command-system/scratching/scratching.modu
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
   idFiled,
+  listedFiled,
   pathFiled,
-  standingFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { change } from "../../check-scratch/check-scratch.module.code.ts"
@@ -106,7 +106,7 @@ function rooted(body: string): string {
   standing(root, AT, body)
   const held = [{ path: page, id: ID }]
   idFiled(root, ID, held)
-  standingFiled(root, "name-format", "lower-kebab-case", held)
+  listedFiled(root, "name-format", "lower-kebab-case", held)
   pathFiled(root, page, held)
   pathFiled(root, AT, held)
   return root

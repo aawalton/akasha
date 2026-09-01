@@ -4,8 +4,8 @@ import { join } from "node:path"
 import {
   idFiled,
   idTakenFrom,
+  listedFiled,
   noneOfTypeFiled,
-  standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { calling, commandsIn, HELP, HELP_SHORT, type Surface } from "./calling.module.code.ts"
@@ -64,7 +64,7 @@ function rootWith(
     if (one.also !== undefined) {
       lines.push({ path: one.also, id: "01a04bdd-0000-7000-8000-000000000099" })
     }
-    standingFiled(root, typeSlug, one.slug, lines)
+    listedFiled(root, typeSlug, one.slug, lines)
   }
   return root
 }

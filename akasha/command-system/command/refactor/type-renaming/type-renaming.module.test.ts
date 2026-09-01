@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  listedFiled,
   pathFiled,
-  standingFiled,
 } from "../../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
 import {
@@ -33,8 +33,8 @@ function bodied(said: string | null = SEAT_BODY): (path: string) => string | nul
 
 function world(): string {
   const root = scratch.rootFor("akasha-type-renaming-")
-  standingFiled(root, "page-type", "seat", [{ path: SEAT_AT, id: SEAT_ID }])
-  standingFiled(root, "page-type", "module", [
+  listedFiled(root, "page-type", "seat", [{ path: SEAT_AT, id: SEAT_ID }])
+  listedFiled(root, "page-type", "module", [
     { path: "akasha/code-system/module/module.page-type.ts", id: "01a0587b-0000-7000-8000-b" },
   ])
   return root

@@ -3,7 +3,7 @@ import { scratchWorld } from "../../../command-system/scratching/scratching.modu
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
   idFiled,
-  standingFiled,
+  listedFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import {
   assignedTo,
@@ -56,7 +56,7 @@ test("a page takes the assignment from the page its seat stands at", () => {
     const root = world.rootFor("subagent-standing-")
     const at = "akasha/seat-system/seat/seats/akasha.seat.ts"
     standing(root, at, `export const akasha = { assignmentSlug: "domain/akasha-system" }\n`)
-    standingFiled(root, "seat", "akasha", [{ path: at, id: SEAT_ID }])
+    listedFiled(root, "seat", "akasha", [{ path: at, id: SEAT_ID }])
     expect(assignedTo(root, "akasha")).toBe("domain/akasha-system")
   } finally {
     world.sweep()

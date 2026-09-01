@@ -5,8 +5,8 @@ import { blobIdOf, recordRead } from "../../../command-system/reading/reading.mo
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
+  listedFiled,
   schemaFiled,
-  standingFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
@@ -30,7 +30,7 @@ function pageType(root: string, slug: string): undefined {
     path,
     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}" }\n`
   )
-  standingFiled(root, "page-type", slug, [{ path, id }])
+  listedFiled(root, "page-type", slug, [{ path, id }])
 }
 
 function propertyPage(root: string, slug: string, pageTypeSlug: string): string {
@@ -41,7 +41,7 @@ function propertyPage(root: string, slug: string, pageTypeSlug: string): string 
     path,
     `export const held = { id: "${id}", pageTypeSlug: "${pageTypeSlug}", slug: "${slug}" }\n`
   )
-  standingFiled(root, pageTypeSlug, slug, [{ path, id }])
+  listedFiled(root, pageTypeSlug, slug, [{ path, id }])
   schemaFiled(root, pageTypeSlug, slug, [{ pageTypeSlug, targetPageTypeSlug: null, slug }])
   return path
 }
@@ -190,7 +190,7 @@ test("a page defining a property does not warrant itself for it", () => {
   const path = "akasha/thing/properties/slug.text-property.ts"
   const id = mintedId("slug")
   standing(root, path, `export const slug = { id: "${id}", slug: "slug" }\n`)
-  standingFiled(root, "text-property", "slug", [{ path, id }])
+  listedFiled(root, "text-property", "slug", [{ path, id }])
   schemaFiled(root, "text-property", "slug", [
     { pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "slug" },
   ])

@@ -4,8 +4,8 @@ import { standing } from "../../../command-system/scratching/scratching.module.t
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
   idFiled,
+  listedFiled,
   pathFiled,
-  standingFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { declaring } from "../../check-scratch/check-scratch.module.code.ts"
@@ -124,7 +124,7 @@ function stands(
   standing(root, path, body)
   const held = [{ path, id }]
   idFiled(root, id, held)
-  standingFiled(root, kind, slug, held)
+  listedFiled(root, kind, slug, held)
   pathFiled(root, path, held)
 }
 

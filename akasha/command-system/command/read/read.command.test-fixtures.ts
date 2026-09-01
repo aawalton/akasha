@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { SEEDED_AT } from "../../../context-system/warranting/warranting.module.test-fixtures.ts"
-import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
@@ -270,14 +270,14 @@ export function rootWarranting(
   const root = rootWith([...named, ...TYPES.map((one) => ({ at: one.at, body: one.body }))])
   for (const [order, one] of TYPES.entries()) {
     const id = `01a04f59-0000-7000-8000-${String(order).padStart(12, "0")}`
-    standingFiled(root, PAGE_TYPE_SLUG, one.slug, [{ path: one.at, id }])
+    listedFiled(root, PAGE_TYPE_SLUG, one.slug, [{ path: one.at, id }])
   }
   for (const one of [...REAL, ...also]) {
     const id = mintedId(one.slug)
     const at = join(SEEDED_AT, `${one.slug}.context-warrant.ts`)
     planting(root, at, pageFor(one, id))
     planting(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code)
-    standingFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
+    listedFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
   }
   return root
 }

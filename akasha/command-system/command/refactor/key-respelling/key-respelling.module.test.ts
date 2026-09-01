@@ -4,10 +4,10 @@ import { dirname, join } from "node:path"
 import { readingIn } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   idFiled,
+  listedFiled,
   pathFiled,
   relationFiled,
   schemaFiled,
-  standingFiled,
 } from "../../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
 import { keyingFor, respellingFor } from "./key-respelling.module.code.ts"
@@ -63,9 +63,9 @@ function rooted(): string {
       fileName: null,
     },
   ])
-  standingFiled(root, "text-property", "keyed", [{ path: PROPERTY_AT, id: KEYED }])
-  standingFiled(root, "page-type", "held", [{ path: TYPE_AT, id: HELD }])
-  standingFiled(root, "held", "one", [{ path: PAGE_AT, id: ONE }])
+  listedFiled(root, "text-property", "keyed", [{ path: PROPERTY_AT, id: KEYED }])
+  listedFiled(root, "page-type", "held", [{ path: TYPE_AT, id: HELD }])
+  listedFiled(root, "held", "one", [{ path: PAGE_AT, id: ONE }])
   idFiled(root, HELD, [{ path: TYPE_AT, id: HELD }])
   relationFiled(root, KEYED, "page-property-slug", HELD, [{ path: TYPE_AT }])
   return root

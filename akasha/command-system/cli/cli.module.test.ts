@@ -7,7 +7,7 @@ import {
   idCopied,
   identitiesCopied,
   idFiled,
-  standingFiled,
+  listedFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
 import { minting, REFUSES_CODE } from "../../testing-system/minting/minting.module.code.ts"
@@ -175,7 +175,7 @@ test("naming no command is a caller's mistake rather than an unclassified failur
 
 test("a name no command carries is a caller's mistake too", async () => {
   const root = scratch.rootFor("akasha-cli-")
-  standingFiled(root, COMMAND, "read", [{ path: "akasha/r.command.ts", id: ID }])
+  listedFiled(root, COMMAND, "read", [{ path: "akasha/r.command.ts", id: ID }])
   idFiled(root, COMMAND_TYPE, [
     { path: "akasha/command-system/command/command.page-type.ts", id: COMMAND_TYPE },
   ])

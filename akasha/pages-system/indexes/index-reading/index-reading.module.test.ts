@@ -17,11 +17,11 @@ import {
 import {
   idFiled,
   importFiled,
+  listedFiled,
   noPathsFiled,
   nothingFiled,
   pathFiled,
   schemaFiled,
-  standingFiled,
 } from "./index-reading.module.test-fixtures.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
@@ -38,7 +38,7 @@ function rootAt(): string {
 test("a page an address names is answered under the page type that address states", () => {
   const root = rootAt()
   const held = { path: "akasha/one/one.workspace-package.ts", id: A }
-  standingFiled(root, "workspace-package", "one", [held])
+  listedFiled(root, "workspace-package", "one", [held])
 
   expect(listedAddressed(root, "workspace-package/one", "domain")).toEqual(held)
   expect(listedAddressed(root, "domain/one", "domain")).toBe(null)
@@ -47,7 +47,7 @@ test("a page an address names is answered under the page type that address state
 test("an address stating no page type is answered under the one its caller names", () => {
   const root = rootAt()
   const held = { path: "akasha/one/one.domain.ts", id: A }
-  standingFiled(root, "domain", "one", [held])
+  listedFiled(root, "domain", "one", [held])
 
   expect(listedAddressed(root, "one", "domain")).toEqual(held)
   expect(listedAddressed(root, "one", "workspace-package")).toBe(null)

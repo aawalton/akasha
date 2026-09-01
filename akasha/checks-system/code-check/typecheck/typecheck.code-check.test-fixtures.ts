@@ -7,11 +7,11 @@ import { importIn } from "../../../pages-system/indexes/index/index-import/index
 import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
 import {
   entriesFiled,
+  listedFiled,
   noImportersFiled,
   pathFiled,
   schemaFiled,
   stampedIn,
-  standingFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { headOf } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
@@ -91,7 +91,7 @@ function named(
   slug: string,
   id: string
 ): undefined {
-  standingFiled(root, pageTypeSlug, slug, [{ path: at, id }])
+  listedFiled(root, pageTypeSlug, slug, [{ path: at, id }])
 }
 
 function graphed(root: string): undefined {

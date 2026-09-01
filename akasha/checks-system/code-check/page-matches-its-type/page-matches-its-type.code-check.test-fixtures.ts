@@ -1,7 +1,7 @@
 import {
+  listedFiled,
   rebuiltIn,
   schemaFiled,
-  standingFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import type { Value } from "../../../pages-system/page/page-value/page-value.module.code.ts"
@@ -340,12 +340,12 @@ export function generating(root: string, generator: string): string {
   schemaFiled(root, "text-property", "slug", [UNIQUE_SLUG])
   schemaFiledFor(root, "text-property", "held")
   schemaFiledFor(root, "relation-property", "page-type-slug")
-  standingFiled(root, "text-property", "held", [
+  listedFiled(root, "text-property", "held", [
     { path: "akasha/held.text-property.ts", id: GENERATED_ID },
   ])
-  standingFiled(root, "page-type", "thing", [{ path: "akasha/thing.page-type.ts", id: THING_ID }])
-  standingFiled(root, "generator-kind", "waiting", [{ path: KIND_AT, id: GENERATED_ID }])
-  standingFiled(root, "generator-kind", "uuid-v7", [
+  listedFiled(root, "page-type", "thing", [{ path: "akasha/thing.page-type.ts", id: THING_ID }])
+  listedFiled(root, "generator-kind", "waiting", [{ path: KIND_AT, id: GENERATED_ID }])
+  listedFiled(root, "generator-kind", "uuid-v7", [
     { path: "akasha/uuid-v7.generator-kind.ts", id: GENERATED_ID },
   ])
   return root
@@ -377,13 +377,13 @@ function grounding(root: string): undefined {
   const held = '{ pagePropertySlug: "id" }, { pagePropertySlug: "slug" }'
   put(root, pageAt, typing(ROOT_ID, "page", "null", held))
   schemaFiledFor(root, "text-property", "id")
-  standingFiled(root, "page-type", "page", [{ path: pageAt, id: ROOT_ID }])
+  listedFiled(root, "page-type", "page", [{ path: pageAt, id: ROOT_ID }])
   const typeAt = "akasha/page-type.page-type.ts"
   const declares =
     '{ pagePropertySlug: "extends-slug" }, { pagePropertySlug: "page-type-slug" }' +
     ', { pagePropertySlug: "properties", many: true, max: null }'
   put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '"page-type/page"', declares))
-  standingFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
+  listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
   schemaFiledFor(root, "relation-property", "extends-slug")
   schemaFiledFor(root, "relation-property", "page-type-slug")
   schemaFiledFor(root, "record-property", "properties")
@@ -395,7 +395,7 @@ export function extending(root: string): string {
   schemaFiled(root, "text-property", "slug", [UNIQUE_SLUG])
   schemaFiledFor(root, "relation-property", "page-type-slug")
   schemaFiledFor(root, "text-property", "note")
-  standingFiled(root, "page-type", "alpha", [{ path: ALPHA_AT, id: THING_ID }])
+  listedFiled(root, "page-type", "alpha", [{ path: ALPHA_AT, id: THING_ID }])
   return root
 }
 

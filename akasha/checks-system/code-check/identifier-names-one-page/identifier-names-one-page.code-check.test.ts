@@ -3,7 +3,7 @@ import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import {
@@ -43,7 +43,7 @@ function rooted(): string {
 }
 
 function slugged(root: string, pageTypeSlug: string, slug: string, path: string): undefined {
-  standingFiled(root, pageTypeSlug, slug, [{ path, id: ONE }])
+  listedFiled(root, pageTypeSlug, slug, [{ path, id: ONE }])
 }
 
 function body(kind: string, slug: string, id: string): Uint8Array {

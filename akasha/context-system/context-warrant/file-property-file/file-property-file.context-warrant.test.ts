@@ -5,8 +5,8 @@ import { blobIdOf } from "../../../command-system/reading/reading.module.code.ts
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
+  listedFiled,
   schemaFiled,
-  standingFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
@@ -37,7 +37,7 @@ function pageType(root: string, slug: string): string {
     path,
     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}" }\n`
   )
-  standingFiled(root, "page-type", slug, [{ path, id }])
+  listedFiled(root, "page-type", slug, [{ path, id }])
   return path
 }
 
@@ -53,7 +53,7 @@ function filed(root: string, slug: string, pageTypeSlug: string): string {
     path,
     `export const held = { id: "${id}", pageTypeSlug: "${pageTypeSlug}", slug: "${slug}" }\n`
   )
-  standingFiled(root, pageTypeSlug, slug, [{ path, id }])
+  listedFiled(root, pageTypeSlug, slug, [{ path, id }])
   return path
 }
 

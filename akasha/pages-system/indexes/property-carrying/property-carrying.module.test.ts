@@ -2,9 +2,9 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
   idFiled,
+  listedFiled,
   relationFiled,
   schemaFiled,
-  standingFiled,
 } from "../index-reading/index-reading.module.test-fixtures.ts"
 import { carryingOf } from "./property-carrying.module.code.ts"
 
@@ -32,7 +32,7 @@ function pageAt(slug: string, kind: string): string {
 
 function stands(root: string, slug: string, kind: string, id: string): undefined {
   const path = pageAt(slug, kind)
-  standingFiled(root, kind, slug, [{ path, id }])
+  listedFiled(root, kind, slug, [{ path, id }])
   idFiled(root, id, [{ path, id }])
 }
 
@@ -62,7 +62,7 @@ function rooted(): string {
   const root = scratch.rootFor("akasha-carrying-")
   property(root, "held", "text-property", HELD)
   stands(root, "thing", "page-type", THING)
-  standingFiled(root, "thing", "one", [{ path: "akasha/one.thing.ts", id: ONE }])
+  listedFiled(root, "thing", "one", [{ path: "akasha/one.thing.ts", id: ONE }])
   return root
 }
 
@@ -84,7 +84,7 @@ test("a property is carried by the pages of every type beneath the one declaring
   declares(root, HELD, THING, pageAt("thing", "page-type"))
   stands(root, "deeper", "page-type", DEEPER)
   extending(root, THING, DEEPER, pageAt("deeper", "page-type"))
-  standingFiled(root, "deeper", "two", [{ path: "akasha/two.deeper.ts", id: TWO }])
+  listedFiled(root, "deeper", "two", [{ path: "akasha/two.deeper.ts", id: TWO }])
   const said = carryingOf(root, "held")
   expect("carrying" in said ? said.carrying.map((one) => one.path) : []).toEqual([
     "akasha/one.thing.ts",

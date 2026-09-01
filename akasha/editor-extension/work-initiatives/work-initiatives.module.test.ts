@@ -4,9 +4,9 @@ import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import {
   idFiled,
+  listedFiled,
   noneOfTypeFiled,
   relationFiled,
-  standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { initiativesDrawn } from "./work-initiatives.module.code.ts"
 
@@ -44,7 +44,7 @@ function standing(
   id: string,
   typeSlug: string = INITIATIVE
 ): undefined {
-  standingFiled(root, typeSlug, slug, [{ path: pathFor(slug, typeSlug), id }])
+  listedFiled(root, typeSlug, slug, [{ path: pathFor(slug, typeSlug), id }])
 }
 
 function under(root: string, child: string, parent: string): undefined {
@@ -128,7 +128,7 @@ test("a parent standing under two children keeps each of them under it", () => {
 
 test("a path the file name says is no initiative is passed over", () => {
   const root = worldFor()
-  standingFiled(root, INITIATIVE, "stray", [
+  listedFiled(root, INITIATIVE, "stray", [
     { path: "akasha/editor-extension/stray.module.ts", id: ONE },
   ])
   expect(initiativesDrawn(root)).toEqual([])

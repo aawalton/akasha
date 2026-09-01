@@ -1,9 +1,9 @@
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
   idFiled,
+  listedFiled,
   pathFiled,
   relationFiled,
-  standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
@@ -21,7 +21,7 @@ export function pathsOf(found: readonly Warrant[]): readonly string[] {
 function filed(root: string, held: Listed, typeSlug: string, slug: string): undefined {
   pathFiled(root, held.path, [held])
   idFiled(root, held.id, [held])
-  standingFiled(root, typeSlug, slug, [held])
+  listedFiled(root, typeSlug, slug, [held])
 }
 
 function pageListed(
@@ -87,7 +87,7 @@ export function pageTypeListed(root: string, slug: string, above: string | null)
     path,
     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}"${said} }\n`
   )
-  standingFiled(root, "page-type", slug, [{ path, id }])
+  listedFiled(root, "page-type", slug, [{ path, id }])
   return path
 }
 

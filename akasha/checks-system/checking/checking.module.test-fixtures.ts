@@ -3,9 +3,9 @@ import { join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import {
   idFiled,
+  listedFiled,
   noneOfTypeFiled,
   pathFiled,
-  standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
@@ -82,7 +82,7 @@ export function rootWith(
     minted = minted + 1
     const id = `01a04bc4-0000-7000-8000-00000000000${minted}`
     const held = [{ path: at, id }]
-    standingFiled(root, stands.slug, one.slug, held)
+    listedFiled(root, stands.slug, one.slug, held)
     idFiled(root, id, held)
     pathFiled(root, at, held)
     pathFiled(root, `${at.slice(0, -".ts".length)}.code.ts`, held)
@@ -152,7 +152,7 @@ const PAGE_CHECKS = [
 
 export function pagedRoot(): string {
   const root = rootWith(PAGE_CHECKS)
-  standingFiled(root, PAGE_TYPE, MODULE, [{ path: MODULE_AT, id: MODULE_ID }])
+  listedFiled(root, PAGE_TYPE, MODULE, [{ path: MODULE_AT, id: MODULE_ID }])
   mkdirSync(join(root, HELD_PAGE_AT.slice(0, HELD_PAGE_AT.lastIndexOf("/"))), { recursive: true })
   writeFileSync(join(root, HELD_PAGE_AT), `export const held = { slug: "held" }\n`)
   writeFileSync(join(root, HELD_CODE_AT), `export const HELD = "held"\n`)

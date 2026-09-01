@@ -4,8 +4,8 @@ import { parsedAs } from "../../../code-system/code-source/code-source.module.co
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
+  listedFiled,
   noneOfTypeFiled,
-  standingFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { type Shadow, shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.code-check.code.ts"
@@ -48,7 +48,7 @@ function changing(root: string, before: string | null, after: string | null): Ch
 }
 
 function ruleFiled(root: string): undefined {
-  standingFiled(root, RULE, PROBE_SLUG, [{ path: PROBE_RULE_AT, id: PROBE_ID }])
+  listedFiled(root, RULE, PROBE_SLUG, [{ path: PROBE_RULE_AT, id: PROBE_ID }])
   return undefined
 }
 

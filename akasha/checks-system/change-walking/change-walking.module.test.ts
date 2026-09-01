@@ -5,9 +5,9 @@ import { scratchWorld } from "../../command-system/scratching/scratching.module.
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   indexTakenFrom,
+  listedFiled,
   pathFiled,
   pathsTakenFrom,
-  standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { type Shadow, shadowAt } from "../../pages-system/shadow/shadow.module.code.ts"
@@ -72,7 +72,7 @@ function pagedWorld(): Change {
   mkdirSync(join(root, PAGE_AT.slice(0, PAGE_AT.lastIndexOf("/"))), { recursive: true })
   writeFileSync(join(root, PAGE_AT), `export const held = { slug: "held" }\n`)
   writeFileSync(join(root, CODE_AT), `export const HELD = "held"\n`)
-  standingFiled(root, PAGE_TYPE, MODULE, [{ path: PAGE_AT, id: HELD_ID }])
+  listedFiled(root, PAGE_TYPE, MODULE, [{ path: PAGE_AT, id: HELD_ID }])
   const held = onDisk(root)
   return { root, changed: [CODE_AT, GONE_AT, PAGE_AT], after: held, before: held }
 }

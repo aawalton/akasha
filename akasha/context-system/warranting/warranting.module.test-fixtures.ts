@@ -5,7 +5,7 @@ import { standing } from "../../command-system/scratching/scratching.module.test
 import { dataAt } from "../../file-system/data-place/data-place.module.code.ts"
 import {
   idFiled,
-  standingFiled,
+  listedFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
@@ -59,7 +59,7 @@ export function warrantsStanding(root: string, slugs: readonly string[] = WARRAN
     const path = join(SEEDED_AT, `${slug}.context-warrant.ts`)
     writeFileSync(join(root, path), pageFor(slug, id))
     writeFileSync(join(root, `${path.slice(0, -".ts".length)}.code.ts`), codeFor(slug))
-    standingFiled(root, CONTEXT_WARRANT, slug, [{ path, id }])
+    listedFiled(root, CONTEXT_WARRANT, slug, [{ path, id }])
   }
 }
 
@@ -125,7 +125,7 @@ export function warrantingStated(root: string, every: readonly Said[]): undefine
     const at = join(SEEDED_AT, `${one.slug}.context-warrant.ts`)
     standing(root, at, one.page ?? statedPageFor(one, id))
     standing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code ?? statedCodeFor(one))
-    standingFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
+    listedFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
   }
 }
 
@@ -134,5 +134,5 @@ export function seated(root: string, id: string, path: string): undefined {
 }
 
 export function subaged(root: string, slug: string, path: string): undefined {
-  standingFiled(root, "subagent", slug, [{ path, id: "sub" }])
+  listedFiled(root, "subagent", slug, [{ path, id: "sub" }])
 }

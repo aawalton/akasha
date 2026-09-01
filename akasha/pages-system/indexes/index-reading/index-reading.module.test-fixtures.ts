@@ -96,7 +96,7 @@ function identityStanding(
   return existsSync(under(root, at))
 }
 
-export function standingFiled(
+export function listedFiled(
   root: string,
   pageTypeSlug: string,
   slug: string,

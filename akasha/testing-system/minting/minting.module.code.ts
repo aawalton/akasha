@@ -4,7 +4,7 @@ import { join } from "node:path"
 import type { Phase } from "../../checks-system/checking/checking.module.code.ts"
 import {
   idFiled,
-  standingFiled,
+  listedFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
@@ -70,7 +70,7 @@ export function minting(
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, at), pageFor(slug, id, definition, phase))
   writeFileSync(join(root, `akasha/${slug}.${CHECK}.code.ts`), code)
-  standingFiled(root, CHECK, slug, [{ path: at, id }])
+  listedFiled(root, CHECK, slug, [{ path: at, id }])
   idFiled(root, CHECK_TYPE, [{ path: CHECK_TYPE_AT, id: CHECK_TYPE }])
 }
 

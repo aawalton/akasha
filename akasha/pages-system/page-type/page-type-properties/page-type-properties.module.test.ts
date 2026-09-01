@@ -3,8 +3,8 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
+  listedFiled,
   schemaFiled,
-  standingFiled,
 } from "../../indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { valueAt } from "../../page/page-value/page-value.module.code.ts"
 import { type Carried, declarationsOf, propertiesOf } from "./page-type-properties.module.code.ts"
@@ -20,7 +20,7 @@ function typed(
   declared: readonly Record<string, unknown>[]
 ): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
-  standingFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
+  listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
   const said = above === null ? "null" : JSON.stringify(`page-type/${above}`)

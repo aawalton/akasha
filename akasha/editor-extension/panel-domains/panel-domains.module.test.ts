@@ -3,8 +3,8 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import {
+  listedFiled,
   relationFiled,
-  standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { domainsDrawn, kindsUnderDomain } from "./panel-domains.module.code.ts"
 
@@ -30,7 +30,7 @@ function pageAt(root: string, path: string, body: string): undefined {
 
 function standing(root: string, kind: string, slug: string, id: string, body?: string): undefined {
   const path = `akasha/held/${slug}.${kind}.ts`
-  standingFiled(root, kind, slug, [{ path, id }])
+  listedFiled(root, kind, slug, [{ path, id }])
   if (body !== undefined) pageAt(root, path, body)
 }
 

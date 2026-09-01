@@ -2,8 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  listedFiled,
   schemaFiled,
-  standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
 import { put } from "../../testing-system/putting/putting.module.code.ts"
@@ -65,7 +65,7 @@ function property(
   schemaFiled(root, "text-property", slug, [
     { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique, slug, propertySlug: slug },
   ])
-  standingFiled(root, "text-property", slug, [
+  listedFiled(root, "text-property", slug, [
     { path: `akasha/${slug}.text-property.ts`, id: HELD_ID },
   ])
 }
@@ -77,7 +77,7 @@ function kind(root: string, slug: string, afterChecks: boolean): undefined {
     `export const kind = { id: "${HELD_ID}", pageTypeSlug: "generator-kind",` +
       ` slug: "${slug}", afterChecks: ${afterChecks} }\n`
   )
-  standingFiled(root, "generator-kind", slug, [
+  listedFiled(root, "generator-kind", slug, [
     { path: `akasha/${slug}.generator-kind.ts`, id: HELD_ID },
   ])
 }
@@ -90,9 +90,9 @@ function rooted(generator: string | null): string {
   property(root, "slug", null, "page-type")
   kind(root, "uuid-v7", false)
   kind(root, "held", true)
-  standingFiled(root, "page-type", "thing", [{ path: "akasha/thing.page-type.ts", id: HELD_ID }])
+  listedFiled(root, "page-type", "thing", [{ path: "akasha/thing.page-type.ts", id: HELD_ID }])
   put(root, PAGE_TYPE_AT, PAGE_TYPE_BODY)
-  standingFiled(root, "page-type", "page-type", [{ path: PAGE_TYPE_AT, id: TYPE_ID }])
+  listedFiled(root, "page-type", "page-type", [{ path: PAGE_TYPE_AT, id: TYPE_ID }])
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@akasha"])
   gitIn(root, ["config", "user.name", "held"])

@@ -3,10 +3,10 @@ import { join } from "node:path"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   idFiled,
+  listedFiled,
   pathFiled,
   relationFiled,
   schemaFiled,
-  standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "../../testing-system/bodying/bodying.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
@@ -45,7 +45,7 @@ export function typed(
   declares: readonly string[] = []
 ): undefined {
   const path = `${TYPES_AT}/${slug}.${PAGE_TYPE}.ts`
-  standingFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
+  listedFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
   mkdirSync(join(root, TYPES_AT), { recursive: true })
   const said = above === null ? "null" : JSON.stringify(`${PAGE_TYPE}/${above}`)
   writeFileSync(
@@ -90,7 +90,7 @@ export function founded(root: string): undefined {
 }
 
 export function stands(root: string, kind: string, slug: string, id: string): undefined {
-  standingFiled(root, kind, slug, [{ path: pathFor(kind, slug), id }])
+  listedFiled(root, kind, slug, [{ path: pathFor(kind, slug), id }])
 }
 
 export function identified(root: string, id: string, path: string): undefined {
