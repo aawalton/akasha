@@ -5,4 +5,5 @@ export const sonnet = {
   pageTypeSlug: "model-family",
   slug: "sonnet",
   definition: "less expensive, less capable",
+  name: "claude-sonnet-5",
 } as const satisfies ModelFamily

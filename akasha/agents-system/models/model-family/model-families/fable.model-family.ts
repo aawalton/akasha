@@ -5,4 +5,5 @@ export const fable = {
   pageTypeSlug: "model-family",
   slug: "fable",
   definition: "most expensive, most capable",
+  name: "claude-fable-5",
 } as const satisfies ModelFamily

@@ -5,4 +5,5 @@ export const haiku = {
   pageTypeSlug: "model-family",
   slug: "haiku",
   definition: "least expensive, least capable",
+  name: "claude-haiku-4-5-20251001",
 } as const satisfies ModelFamily

@@ -5,4 +5,5 @@ export const opus = {
   pageTypeSlug: "model-family",
   slug: "opus",
   definition: "more expensive, more capable",
+  name: "claude-opus-5",
 } as const satisfies ModelFamily
