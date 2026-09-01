@@ -29,6 +29,7 @@ import {
 } from "../../../tools/lib/page-query-answer.ts"
 import { backedTypes } from "../../../tools/lib/page-query.ts"
 import { askedOf, here, standsHere, whyIn } from "./here.ts"
+import { askedAsSpelled } from "./store-spelling.ts"
 
 export type {
   Asked,
@@ -54,7 +55,9 @@ export async function askComposed(
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<Asked> {
-  if (!standsHere(query["page-type"])) return askComposedThere(query, fetcher, naps)
+  if (!standsHere(query["page-type"])) {
+    return askedAsSpelled(query, (asked) => askComposedThere(asked, fetcher, naps))
+  }
   return askedOf(askedFrom(here(), JSON.stringify(query)))
 }
 

@@ -32,6 +32,7 @@ import { answered } from "../../../tools/lib/page-query-answer.ts"
 import { written } from "../../../tools/lib/page-query-landing.ts"
 import { askedOf, here, standsHere, whyIn } from "./here.ts"
 import { pageTypeOf, standingOf } from "./named.ts"
+import { askedAsSpelled } from "./store-spelling.ts"
 
 export { patchFiles, readFiles, readPages, removeFiles, writeFiles } from "@akasha/pages-query"
 
@@ -254,7 +255,9 @@ async function namedAsked(
   const pageType = pageTypeOf(slug)
   const standing = standingOf(slug, given, pageType === null || standsHere(pageType))
   if (standing.where === "refused") return { ok: false, why: standing.why, status: 400 }
-  if (standing.where === "there") return askComposedThere(standing.query, fetcher, naps)
+  if (standing.where === "there") {
+    return askedAsSpelled(standing.query, (asked) => askComposedThere(asked, fetcher, naps))
+  }
   return askedOf(answered(here(), slug, paramsIn(given)))
 }
 
