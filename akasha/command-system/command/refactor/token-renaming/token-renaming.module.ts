@@ -23,12 +23,28 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A name the file already carries is refused rather than shadowed.",
+      statement: "A name the renamed declaration reaches is refused rather than shadowed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name reaching the renamed declaration is refused rather than shadowed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name bound only where the renamed declaration cannot reach refuses nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a name reaches from a declaration is asked of the checker's scopes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key rename is refused wherever the file carries the name it would become.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name a file the rename would respell already carries is refused rather than shadowed.",
+        "A name carried anywhere in a file the rename would respell is refused rather than shadowed.",
     },
     {
       invariantKind: "departure",

@@ -5,6 +5,7 @@ import {
   declaredOn,
   exportsNamed,
   namingOf,
+  reachedFrom,
   readingOf,
   referencesOf,
   spelledAs,
@@ -138,6 +139,39 @@ function carriesAlready(typing: Typing, path: string, name: string): boolean {
   return declarationsNamed(typing, path, name).length > 0
 }
 
+function reachesInto(
+  typing: Typing,
+  at: ts.Node,
+  name: string,
+  held: ReadonlySet<ts.Node>
+): boolean {
+  for (const one of reachedFrom(typing, at, name)) {
+    if (held.has(one)) return true
+  }
+  return false
+}
+
+function ownReaching(typing: Typing, path: string, at: ts.Node, name: string): boolean {
+  const source = typing.sourceAt(path)
+  if (source === null) return false
+  for (const held of reachedFrom(typing, at, name)) {
+    if (held.getSourceFile() === source) return true
+  }
+  return false
+}
+
+function carriedAround(typing: Typing, one: Tokening, target: Stood): boolean {
+  if (declarationsNamed(typing, one.path, one.now).length > 0) return true
+  if (target.key) return namedIn(typing, one.path, one.now).size > 0
+  for (const at of target.nodes) {
+    if (ownReaching(typing, one.path, at, one.now)) return true
+  }
+  for (const held of namedIn(typing, one.path, one.now)) {
+    if (reachesInto(typing, held, one.was, target.nodes)) return true
+  }
+  return false
+}
+
 export function bindingFor(
   root: string,
   over: Over,
@@ -147,7 +181,7 @@ export function bindingFor(
   const typing = typingOver(root, over.typed, readingOf(root, textOf))
   const target = standingFor(typing, one)
   if ("refused" in target) return { refused: target.refused }
-  if (carriesAlready(typing, one.path, one.now)) {
+  if (carriedAround(typing, one, target)) {
     return { refused: `${one.path} already carries \`${one.now}\`` }
   }
   const places = target.key
