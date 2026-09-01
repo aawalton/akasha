@@ -17,7 +17,7 @@
 }
 
 @source "../../../shared/design-system/src/**/*.{ts,tsx}";
-@source "../../../shared/design-badges/src/**/*.{ts,tsx}";
+@source "../../../akasha/design/design-badges/**/*.{ts,tsx}";
 @source "../../../shared/design-layout/src/**/*.{ts,tsx}";
 @source "../../../shared/design-forms/src/**/*.{ts,tsx}";
 @source "../../../shared/design-patterns/src/**/*.{ts,tsx}";
