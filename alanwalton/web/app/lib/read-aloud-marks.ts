@@ -28,7 +28,6 @@ async function resolveChapterBody(pageId: string, pageTypeSlug: string): Promise
   const row = await getPage({
     where: [{ key: "id", eq: pageId }],
     select: ["id", sourcePropertyId],
-    includeContent: true,
   })
   const textValue = row?.[sourcePropertyId]
   return typeof textValue === "string" ? textValue : ""

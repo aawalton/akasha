@@ -80,7 +80,6 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   const textRow = await getPage({
     where: [{ key: "id", eq: pageId }],
     select: ["id", sourcePropertyId],
-    includeContent: true,
   })
   const textValue = textRow?.[sourcePropertyId]
   const rawText = typeof textValue === "string" ? textValue : ""

@@ -40,7 +40,6 @@ export async function resolveChapterKokoroSegments(
   const textRow = await getPage({
     where: [{ key: "id", eq: pageId }],
     select: ["id", sourcePropertyId],
-    includeContent: true,
   })
   const textValue = textRow?.[sourcePropertyId]
   const rawText = typeof textValue === "string" ? textValue : ""
