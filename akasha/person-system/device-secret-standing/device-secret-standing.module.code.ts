@@ -34,7 +34,7 @@ const STAMPED = 6
 
 const OVER = 256
 
-const NOT_STANDING = "no device secret stands for the secret presented"
+const NO_MATCH = "no device secret stands for the secret presented"
 
 export type Presented =
   | { readonly ok: true; readonly secret: string }
@@ -221,13 +221,13 @@ export async function deviceSecretPresented(
   const presentedHash = hashDeviceSecret(presented.secret)
   const found = await deviceSecretCarryingHash(presentedHash, fetcher, naps)
   if (found.outcome === "unread") return found
-  if (found.outcome === "none") return { outcome: "refused", why: NOT_STANDING }
+  if (found.outcome === "none") return { outcome: "refused", why: NO_MATCH }
   const page = found.page
   if (page.revokedAt !== null) {
     return { outcome: "refused", why: `\`${page.slug}\` was revoked at ${page.revokedAt}` }
   }
   if (!deviceSecretHashesEqual(page.secretHash, presentedHash)) {
-    return { outcome: "refused", why: NOT_STANDING }
+    return { outcome: "refused", why: NO_MATCH }
   }
   return { outcome: "stands", userId: page.userId, slug: page.slug }
 }
