@@ -9,6 +9,7 @@ export const supervisorAction = {
   slug: "supervisor-action",
   definition: "one thing a supervisor can be asked to do",
   pluralSlug: "supervisor-actions",
+  partSlugs: ["supervisor-action/restart", "supervisor-action/restart-now"],
   extendsSlug: "page-type/domain",
   invariants: [
     {
