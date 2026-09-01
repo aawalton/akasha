@@ -14,6 +14,11 @@ export const emberMigrateTemperToAkasha = {
         "Reproduced 2026-09-01: `index refresh --dry-run` says 0 added, 1 changed, 1 taken away, over 2184 pages and 22804 entries. Earlier it said 4 taken away, so the leak follows landings rather than sitting still. The incremental update inside the landing lock leaks an entry; nothing was interleaved, so this is no ordering fault. A full rebuild of the 66MB index costs 2.86s. First because the migration lands thousands of pages through a swarm, and a per-landing leak compounds past trusting any of it.",
     },
     {
+      statement: "A reminder is an akasha page, and the service sending it reads it there.",
+      workingMemory:
+        "The old `reminder` extends `message`, adds `schedule` written as systemd states a calendar, and holds its text in a body slot. One reminder exists, amy's, at `*:0/15`, with `next-at` uncommitted beside it. An akasha page has no body, so the text becomes a property. `message` is not in akasha and carrying it across is the whole messaging system, so reminder extends `page` and a finding records what that leaves. 450 lines follow: `send-due-reminders`, `reminder-file`, `reminder set|list|drop`.",
+    },
+    {
       statement:
         "An entry is a page property shape extending `page-property-entry` rather than a page.",
       workingMemory:
