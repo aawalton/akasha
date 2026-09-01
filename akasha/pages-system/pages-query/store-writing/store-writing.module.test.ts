@@ -1,6 +1,8 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "../store-reaching/store-reaching.module.code.ts"
 import {
+  askNamed,
+  askTaking,
   patchPage,
   patchPageIfMatch,
   patchRow,
@@ -144,4 +146,13 @@ test("a compare-and-set is never answered as won", async () => {
   expect(compared.outcome).toBe("failed")
   if (compared.outcome !== "failed") return
   expect(compared.why).toContain("takes no compare-and-set")
+})
+
+test("a query asked for by name is refused", async () => {
+  const named = await askNamed("some-saved-query")
+  expect(named.ok).toBe(false)
+  if (named.ok) return
+  expect(named.why).toContain("holds no page under `page-query`")
+  const taking = await askTaking("some-saved-query", { day: "2026-08-31" })
+  expect(taking.ok).toBe(false)
 })

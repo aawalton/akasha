@@ -41,6 +41,10 @@ export const storeWriting = {
       statement: "A compare-and-set is never answered as won.",
     },
     {
+      invariantKind: "departure",
+      statement: "A query asked for by name is refused.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here renders a page's body.",
     },

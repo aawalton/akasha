@@ -1,13 +1,33 @@
 import {
-  type Fetcher,
   pagesFetcher,
   postingTo,
-  type Sleeper,
   sleep,
   WRITE_CEILING_MS,
 } from "../store-reaching/store-reaching.module.code.ts"
 
+export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
+
+export type Sleeper = (ms: number) => Promise<void>
+
+export type Given = Readonly<Record<string, string | readonly string[]>>
+
 export type Value = string | number | boolean | readonly string[]
+
+export type QueryRow = { readonly at?: string; readonly values: Record<string, unknown> }
+
+export type QueryAnswer = {
+  readonly n: number
+  readonly value: number | null
+  readonly over: number | null
+  readonly rows: readonly QueryRow[]
+  readonly faults: readonly string[]
+  readonly omitted: readonly string[]
+  readonly unfound: readonly string[]
+}
+
+export type Asked =
+  | { readonly ok: true; readonly answer: QueryAnswer }
+  | { readonly ok: false; readonly why: string; readonly status?: number }
 
 export type Written =
   | { readonly ok: true; readonly at: string }
@@ -214,4 +234,24 @@ export async function patchPageIfMatch(
     outcome: "failed",
     why: `\`patch-if ${pageType}/${name}\` compared nothing: the store takes no compare-and-set, so a win here would be claimed without anything having been compared — ${INSTEAD_SAYS}`,
   }
+}
+
+const NO_SAVED_QUERY_SAYS =
+  "the store answers one composed query at a time and holds no page under `page-query`, so nothing here can look up a query by name"
+
+export async function askNamed(
+  slug: string,
+  _fetcher: Fetcher = pagesFetcher(),
+  _naps: Sleeper = sleep
+): Promise<Asked> {
+  return { ok: false, why: `\`${slug}\` went unasked: ${NO_SAVED_QUERY_SAYS}` }
+}
+
+export async function askTaking(
+  slug: string,
+  _given: Given,
+  _fetcher: Fetcher = pagesFetcher(),
+  _naps: Sleeper = sleep
+): Promise<Asked> {
+  return { ok: false, why: `\`${slug}\` went unasked: ${NO_SAVED_QUERY_SAYS}` }
 }
