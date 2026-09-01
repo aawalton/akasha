@@ -56,10 +56,28 @@ test("a body that is not a whole reading is refused rather than held", () => {
   expect(relayedIn({ readout: READOUT, value: 19 })).toBeNull()
   expect(relayedIn({ readout: READOUT, at: TAKEN })).toBeNull()
   expect(relayedIn({ value: 19, at: TAKEN })).toBeNull()
-  expect(relayedIn({ readout: READOUT, value: -1, at: TAKEN })).toBeNull()
+  expect(relayedIn({ readout: READOUT, value: Number.NaN, at: TAKEN })).toBeNull()
+  expect(relayedIn({ readout: READOUT, value: Number.POSITIVE_INFINITY, at: TAKEN })).toBeNull()
+  expect(relayedIn({ readout: READOUT, value: "19", at: TAKEN })).toBeNull()
   expect(relayedIn({ readout: "", value: 19, at: TAKEN })).toBeNull()
   expect(relayedIn("19")).toBeNull()
   expect(relayedIn(null)).toBeNull()
+})
+
+test("a reading below zero is carried rather than refused", () => {
+  expect(relayedIn({ readout: READOUT, value: -2, at: TAKEN })).toEqual({
+    readout: READOUT,
+    value: -2,
+    at: TAKEN,
+  })
+})
+
+test("a reading between two whole numbers is carried rather than refused", () => {
+  expect(relayedIn({ readout: READOUT, value: -1.5, at: TAKEN })).toEqual({
+    readout: READOUT,
+    value: -1.5,
+    at: TAKEN,
+  })
 })
 
 test("a moment that cannot be read is no reading", () => {

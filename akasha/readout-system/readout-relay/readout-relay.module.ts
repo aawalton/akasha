@@ -39,6 +39,18 @@ export const readoutRelay = {
     },
     {
       invariantKind: "departure",
+      statement: "A reading below zero is carried rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading between two whole numbers is carried rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading that is no finite number is refused rather than carried.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A moment that cannot be read is no reading.",
     },
     {

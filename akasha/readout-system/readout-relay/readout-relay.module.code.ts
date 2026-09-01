@@ -25,7 +25,7 @@ export type Sent = (to: URL, init: RequestInit) => Promise<Response>
 
 const relayed = z.object({
   readout: z.string().trim().min(1),
-  value: z.number().int().nonnegative(),
+  value: z.number().finite(),
   at: z.string().trim().min(1),
 })
 
