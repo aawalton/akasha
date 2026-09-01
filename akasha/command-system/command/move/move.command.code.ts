@@ -388,7 +388,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     carries: uncommitted,
     saying: (landed) => carrying(sided.sides, reached, false, spread, landed.cleared),
   }
-  const relink = reachedOver(root, linkingsIn(moved, bodyText))
+  const relink = read.dryRun ? () => undefined : reachedOver(root, linkingsIn(moved, bodyText))
   let landed: Answer
   try {
     landed = landingAsked({ ...given, root }, asked)
