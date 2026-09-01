@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./atomic-write": "./atomic-write/atomic-write.module.code.ts",
-    "./expand-tilde": "./expand-tilde/expand-tilde.module.code.ts"
+    "./expand-tilde": "./expand-tilde/expand-tilde.module.code.ts",
+    "./missing": "./missing/missing.module.code.ts"
   }
 }
