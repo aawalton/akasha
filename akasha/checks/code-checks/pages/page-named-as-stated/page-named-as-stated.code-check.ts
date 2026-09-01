@@ -15,7 +15,7 @@ export const pageNamedAsStated = {
     {
       invariantKind: "departure",
       statement:
-        "The stem is bound to the `slug` the page states rather than to anything a reader would call its title.",
+        "The stem is the `slug` the page states rather than a title a reader would give the page.",
     },
     {
       invariantKind: "departure",

@@ -27,12 +27,12 @@ export const nameFormatJudgesByOneShape = {
     {
       invariantKind: "departure",
       statement:
-        "A format's code is loaded from wherever on disk its body stands rather than from where the change leaves it.",
+        "A format's code is loaded from wherever its body sits on disk rather than from the change.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A change writing a format's code anew is refused rather than judged by the body standing before the change.",
+        "A change writing a format's code anew is refused rather than judged by the body before the change.",
     },
     {
       invariantKind: "departure",
