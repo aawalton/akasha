@@ -129,7 +129,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A hold spans writing and indexing and carrying and committing.",
+      statement: "A hold runs from the first write to the commit.",
     },
     {
       invariantKind: "departure",
