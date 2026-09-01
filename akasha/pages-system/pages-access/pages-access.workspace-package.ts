@@ -51,7 +51,15 @@ export const pagesAccess = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type answers for whether its pages stand in the store or in the tree.",
+      statement: "Every page this package reaches is asked of `@akasha/pages-system-service`.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A question `@akasha/pages-system-service` does not answer refuses here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names what the answer would have taken.",
     },
     {
       invariantKind: "absence",
