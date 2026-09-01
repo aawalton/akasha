@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const codeOutsideAkashaHasNoGateAnAgentCanUse = {
+  id: "01a05e92-1a08-73dc-83bd-f73f8806f0dd",
+  pageTypeSlug: "finding",
+  slug: "code-outside-akasha-has-no-gate-an-agent-can-use",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "Code outside `akasha/` has no gate an agent can reach. The rule given is that typecheck runs only through the akasha commands, and `akasha audit` and `akasha test` both see only `akasha/`. The root `typecheck` script is tsc, which is barred. So a change to `readouts/` or `shared/` can be committed but never judged, in a worktree six lanes share. This is why the one unblocked step toward deleting readoutCatalog did not happen: it touches three files nothing available to me can check.",
+  evidence:
+    "Measured 2026-09-01. `akasha audit --help` answers `every check that runs at audit, over every file the akasha folder holds`, and `--check narrows which checks run and never which files they see`. `akasha test --help` answers `--file-path <path> a file or folder under akasha/`, and `named nothing, it runs every test under akasha/`. Neither takes a path outside the folder. The root `package.json` carries one script for this, `typecheck: bunx @typescript/native-preview -b`, which is tsc under another name and barred here.\n\nThe change this blocked is the narrow one recommended at `the-akasha-readout-holds-a-pushed-reading-and-the-catalog-callers-need-a-pulled-one`: lift `Given`, `QueryRow`, `QueryAnswer` and `Ask` out of `readouts/readout-resolver.ts:15-32` into a file of their own, then repoint `readouts/ask-answer.ts:1` and `readouts/ask-here.ts:2`. It severs `shared/pages-query` from readoutCatalog without touching one readout, since ask-answer takes those four as types only while readout-resolver imports readoutCatalog as a value. The types are self-contained at the top of the file and depend on nothing above them, so the edit itself is small.\n\nWhat makes it a poor trade today is not difficulty. `shared/pages-query` emits the declarations nearly every package consumes, akasha modules included, so a mistake there reddens HEAD for every lane at once, and I would learn of it from someone else's refused landing rather than from a check.\n\nThe call taken in Alan's absence: left undone and written down, rather than done blind. The finding it serves already records it as step one whenever a gate exists or he says to go without one.",
+} as const satisfies Finding
