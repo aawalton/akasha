@@ -121,6 +121,10 @@ export function idFiled(root: string, id: string, lines: readonly unknown[]): un
   identityFiled(root, PAGE, ID, id, lines)
 }
 
+export function pageFiled(root: string, id: string, path: string): undefined {
+  idFiled(root, id, [{ path, id }])
+}
+
 export function idFiledIn(root: string, id: string): boolean {
   return identityListed(root, PAGE, ID, id)
 }
