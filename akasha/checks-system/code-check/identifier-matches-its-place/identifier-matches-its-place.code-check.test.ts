@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { lowerCamelCase } from "../../../pages-system/name-format/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { upperCamelCase } from "../../../pages-system/name-format/upper-camel-case/upper-camel-case.name-format.code.ts"
 import { upperSnakeCase } from "../../../pages-system/name-format/upper-snake-case/upper-snake-case.name-format.code.ts"
+import { componentIdentifier } from "../../../pages-system/name-place/name-places/component-identifier.name-place.ts"
 import { constantIdentifier } from "../../../pages-system/name-place/name-places/constant-identifier.name-place.ts"
 import { derivedIdentifier } from "../../../pages-system/name-place/name-places/derived-identifier.name-place.ts"
 import { functionIdentifier } from "../../../pages-system/name-place/name-places/function-identifier.name-place.ts"
@@ -17,6 +18,10 @@ const PLACES: Places = {
     nameFormatSlug: functionIdentifier.nameFormatSlug,
     matching: lowerCamelCase,
   },
+  componentIdentifier: {
+    nameFormatSlug: componentIdentifier.nameFormatSlug,
+    matching: upperCamelCase,
+  },
   constantIdentifier: {
     nameFormatSlug: constantIdentifier.nameFormatSlug,
     matching: upperSnakeCase,
@@ -28,6 +33,8 @@ const PLACES: Places = {
 }
 
 const AT = "akasha/held.ts"
+
+const DRAWN_AT = "akasha/held.tsx"
 
 const PAGE_AT = "akasha/held-over.module.ts"
 
@@ -200,9 +207,41 @@ test("every name a file declares is reported, not only the first", () => {
   expect(refusedIn(AT, body, PLACES)).toHaveLength(3)
 })
 
+test("a function drawing a JSX element is a component, so upper camel case is let through", () => {
+  const body = "export function ReadoutRing() {\n  return <p>one</p>\n}\n"
+  expect(refusedIn(DRAWN_AT, body, PLACES)).toEqual([])
+})
+
+test("a component not in upper camel case is refused, naming it a component", () => {
+  const body = "export function readoutRing() {\n  return <p>one</p>\n}\n"
+  const said = refusedIn(DRAWN_AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the component `readoutRing`")
+  expect(said[0]).toContain("`name-format/upper-camel-case`")
+})
+
+test("a function beside a component that draws nothing is still a function", () => {
+  const body = "export function RungOf() {\n  return 1\n}\n"
+  const said = refusedIn(DRAWN_AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the function `RungOf`")
+  expect(said[0]).toContain("`name-format/lower-camel-case`")
+})
+
+test("a component bound to a name is judged as one, arrow and declaration alike", () => {
+  const body = "export const readoutRing = () => <p>one</p>\n"
+  expect(refusedIn(DRAWN_AT, body, PLACES)[0]).toContain("the component `readoutRing`")
+})
+
+test("a self-closing element and a fragment each make a component", () => {
+  expect(refusedIn(DRAWN_AT, "const one = () => <br />\n", PLACES)).toHaveLength(1)
+  expect(refusedIn(DRAWN_AT, "const one = () => <>held</>\n", PLACES)).toHaveLength(1)
+})
+
 test("the formats judged are the ones the place pages state", () => {
   expect(typeIdentifier.nameFormatSlug).toBe("name-format/upper-camel-case")
   expect(functionIdentifier.nameFormatSlug).toBe("name-format/lower-camel-case")
+  expect(componentIdentifier.nameFormatSlug).toBe("name-format/upper-camel-case")
   expect(constantIdentifier.nameFormatSlug).toBe("name-format/upper-snake-case")
   expect(derivedIdentifier.nameFormatSlug).toBe("name-format/lower-camel-case")
 })

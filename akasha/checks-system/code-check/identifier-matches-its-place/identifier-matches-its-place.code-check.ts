@@ -38,11 +38,23 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "A type parameter and a property key and a component are each their own place.",
+      statement: "A type parameter and a property key are each their own place.",
     },
     {
       invariantKind: "absence",
-      statement: "None is judged here.",
+      statement: "Neither is judged here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A function whose body holds a JSX element is judged as a component.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "JSX reads a name opening lower as a tag of the browser's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body written with JSX is judged as readily as one written without.",
     },
     {
       invariantKind: "departure",

@@ -2,6 +2,7 @@ import ts from "typescript"
 import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { matchingIn } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching/name-matching.module.code.ts"
+import { componentIdentifier } from "../../../pages-system/name-place/name-places/component-identifier.name-place.ts"
 import { constantIdentifier } from "../../../pages-system/name-place/name-places/constant-identifier.name-place.ts"
 import { derivedIdentifier } from "../../../pages-system/name-place/name-places/derived-identifier.name-place.ts"
 import { functionIdentifier } from "../../../pages-system/name-place/name-places/function-identifier.name-place.ts"
@@ -13,12 +14,11 @@ import {
   input,
   overEachFile,
   TEXTS,
+  textNamed,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Running } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
-
-const ENDING = ".ts"
 
 const UNDER = "_"
 
@@ -30,6 +30,7 @@ export type Placing = {
 export type Places = {
   readonly typeIdentifier: Placing
   readonly functionIdentifier: Placing
+  readonly componentIdentifier: Placing
   readonly constantIdentifier: Placing
   readonly derivedIdentifier: Placing
 }
@@ -55,6 +56,20 @@ function boundToAFunction(node: ts.VariableDeclaration): boolean {
   const held = node.initializer
   if (held === undefined) return false
   return ts.isArrowFunction(held) || ts.isFunctionExpression(held)
+}
+
+export function drawing(node: ts.Node): boolean {
+  let found = false
+  const walk = (each: ts.Node): undefined => {
+    if (found) return
+    if (ts.isJsxElement(each) || ts.isJsxSelfClosingElement(each) || ts.isJsxFragment(each)) {
+      found = true
+      return
+    }
+    ts.forEachChild(each, walk)
+  }
+  walk(node)
+  return found
 }
 
 function heldIn(node: ts.Expression): ts.Expression {
@@ -145,15 +160,20 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
   const eachIn = (name: ts.BindingName): undefined => {
     for (const one of namesIn(name)) take(one, "name", places.derivedIdentifier)
   }
+  const taking = (name: ts.Identifier, held: ts.Node): undefined => {
+    if (drawing(held)) return take(name, "component", places.componentIdentifier)
+    return take(name, "function", places.functionIdentifier)
+  }
   const walk = (node: ts.Node, inside: boolean): undefined => {
     if (ts.isTypeAliasDeclaration(node)) take(node.name, "type", places.typeIdentifier)
     if (ts.isInterfaceDeclaration(node)) take(node.name, "interface", places.typeIdentifier)
     if (ts.isFunctionDeclaration(node) && node.name !== undefined) {
-      take(node.name, "function", places.functionIdentifier)
+      taking(node.name, node)
     }
     if (ts.isVariableDeclaration(node)) {
-      if (ts.isIdentifier(node.name) && boundToAFunction(node)) {
-        take(node.name, "function", places.functionIdentifier)
+      const bound = node.initializer
+      if (ts.isIdentifier(node.name) && bound !== undefined && boundToAFunction(node)) {
+        taking(node.name, bound)
       } else if (inside && !ts.isCatchClause(node.parent)) {
         eachIn(node.name)
       }
@@ -191,17 +211,18 @@ export function placesIn(
   return {
     typeIdentifier: held(typeIdentifier.nameFormatSlug),
     functionIdentifier: held(functionIdentifier.nameFormatSlug),
+    componentIdentifier: held(componentIdentifier.nameFormatSlug),
     constantIdentifier: held(constantIdentifier.nameFormatSlug),
     derivedIdentifier: held(derivedIdentifier.nameFormatSlug),
   }
 }
 
 const refusalsIn: Running = (change, shadow) => {
-  const wanted = change.changed.some((one) => one.startsWith(INSIDE) && one.endsWith(ENDING))
+  const wanted = change.changed.some((one) => one.startsWith(INSIDE) && textNamed(one))
   if (!wanted) return []
   const places = placesIn(change.root, shadow.codeAt)
   return overEachFile(change, (given) => {
-    if (!given.path.startsWith(INSIDE) || !given.path.endsWith(ENDING)) return []
+    if (!given.path.startsWith(INSIDE) || !textNamed(given.path)) return []
     return refusedIn(given.path, bodyOf(given), places)
   })
 }
