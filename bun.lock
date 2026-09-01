@@ -212,6 +212,20 @@
     "akasha/pages-system/indexes": {
       "name": "@akasha/indexes",
     },
+    "akasha/pages-system/pages-access": {
+      "name": "@akasha/pages-access",
+      "dependencies": {
+        "@akasha/pages-core": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@shared/file-page-identity": "workspace:*",
+        "@shared/named-for": "workspace:*",
+        "@shared/pages-query": "workspace:*",
+        "@shared/pages-url": "workspace:*",
+        "@shared/supabase-database": "workspace:*",
+        "@shared/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/pages-system/pages-core": {
       "name": "@akasha/pages-core",
       "dependencies": {
@@ -248,7 +262,7 @@
     "akasha/person-system": {
       "name": "@akasha/person-system",
       "dependencies": {
-        "@alanwalton/health-samples-access": "workspace:*",
+        "@akasha/health-samples-access": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
@@ -4005,6 +4019,8 @@
     "@akasha/idle-system": ["@akasha/idle-system@workspace:akasha/idle-system"],
 
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
+
+    "@akasha/pages-access": ["@akasha/pages-access@workspace:akasha/pages-system/pages-access"],
 
     "@akasha/pages-core": ["@akasha/pages-core@workspace:akasha/pages-system/pages-core"],
 
