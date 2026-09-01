@@ -32,8 +32,6 @@ export const amyJennyUnreviewedWidget = {
     { statement: "`pages-core` stands in akasha." },
     { statement: "The packages reading and writing pages stand in akasha." },
     { statement: "The packages Alan's own work rests on stand in akasha." },
-    { statement: "A page type holds code written in TSX." },
-    { statement: "A page type holds a stylesheet." },
     { statement: "The design packages stand in akasha." },
     { statement: "`pages-ui` stands in akasha." },
     { statement: "The source of Alan's site stands in akasha." },
