@@ -15,9 +15,6 @@
     },
     {
       "path": "../game-characters-skill-lines"
-    },
-    {
-      "path": "../../shared/utils-narrow"
     }
   ],
   "include": [

@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { TEMPER_EQUIPMENT_QUALITIES_BY_ID } from "./generated/temper-quality.generated"
 
 export interface EquipmentQualityTemplate {

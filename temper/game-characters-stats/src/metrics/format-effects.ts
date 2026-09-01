@@ -1,4 +1,4 @@
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { buffOrDebuff } from "@temper/shared-formula-framework/buff-or-debuff-source"
 import { type BuffOrDebuffEffect } from "@temper/shared-formula-framework/effects-types"
 import { formatPercent } from "@temper/shared-formula-framework/format"

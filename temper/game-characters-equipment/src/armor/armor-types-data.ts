@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { TEMPER_ARMOR_TYPES_BY_ID } from "./generated/temper-armor-type.generated"
 
 export interface ArmorTypeTemplate {

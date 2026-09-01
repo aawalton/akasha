@@ -1,5 +1,5 @@
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
-import { requireFirst } from "../../../../shared/utils-narrow/src/require-first"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import {
   convertArithmeticToDisplay,
   type DisplayResult,

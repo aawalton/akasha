@@ -11,7 +11,7 @@
  * 500-line cap.
  */
 
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
 import type { MetricTemplate } from "./metric-template"
 import { METRICS_DATA_AD } from "./metrics-data-ad.generated"

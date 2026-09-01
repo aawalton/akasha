@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { TEMPER_SIGNATURE_SCRIPTS } from "../generated/temper-signature-script.generated"
 
 export interface SignatureScriptTemplate {

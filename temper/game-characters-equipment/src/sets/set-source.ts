@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { EffectSourceInterface } from "@temper/shared-formula-framework/effect-source"
 import type { Effect } from "@temper/shared-formula-framework/effects-types"
 import { isMetricEffect } from "@temper/shared-formula-framework/effects-types"

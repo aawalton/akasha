@@ -1,4 +1,4 @@
-import { requireGet } from "../../../shared/utils-narrow/src/require-get"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"
 import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
 import {

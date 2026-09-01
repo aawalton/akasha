@@ -2,7 +2,7 @@
 
 import { mkdtempSync, readdirSync, readFileSync, rmSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 
 const SCRATCH_ROOT = "/var/tmp"

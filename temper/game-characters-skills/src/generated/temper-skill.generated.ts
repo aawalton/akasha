@@ -15,7 +15,7 @@
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
 
-import { createDataFile, type DataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
 import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { SkillTemplate } from "../skills-data"
 

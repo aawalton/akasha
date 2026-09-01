@@ -1,5 +1,5 @@
-import { requireGet } from "../../../../shared/utils-narrow/src/require-get"
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { requireGet } from "@akasha/utils-narrow/require-get"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { TEMPER_SET_CATEGORIES_BY_ID } from "./generated/temper-set-category.generated"
 import type { SetsAll } from "./sets-all-data"
 

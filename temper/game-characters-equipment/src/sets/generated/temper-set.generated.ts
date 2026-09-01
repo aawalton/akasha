@@ -16,7 +16,7 @@
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
 
-import { createDataFile, type DataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
 import type { SetsAllTemplate } from "../sets-all-data"
 import type { SetCategoryId } from "../set-categories-data"
 

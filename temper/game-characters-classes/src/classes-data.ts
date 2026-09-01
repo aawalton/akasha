@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { ClassId } from "@temper/shared-formula-framework/class-id"
 import { TEMPER_CLASSES } from "./generated/classes.generated"
 

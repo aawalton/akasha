@@ -1,4 +1,4 @@
-import { createDataFile, type DataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
 import type { ClassId } from "@temper/shared-formula-framework/class-id"
 import type { Effect } from "@temper/shared-formula-framework/effects-types"
 import type { ArmorTypeId } from "../armor/armor-types-data"

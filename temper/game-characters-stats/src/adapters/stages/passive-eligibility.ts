@@ -1,4 +1,4 @@
-import { assertNever } from "../../../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { CurseState } from "@temper/game-characters-character/curse-data"
 import type { StandardArmorWeightId } from "@temper/game-characters-equipment/armor/armor-weights-data"

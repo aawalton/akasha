@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { VAMPIRE_STAGE_DATA } from "./generated/temper-vampire-stage.generated"
 
 export interface VampireStage {

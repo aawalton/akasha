@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { ItemLevel } from "../item-composites"
 import { getWeaponPowerForLevel } from "../level-scaling"
 import type { EquipmentQualityId } from "../quality-data"

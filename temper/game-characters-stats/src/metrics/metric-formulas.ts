@@ -1,5 +1,5 @@
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
-import { requireFirst } from "../../../../shared/utils-narrow/src/require-first"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import type { EffectSource } from "@temper/shared-formula-framework/effect-source"
 import { evaluateArithmeticNode } from "@temper/shared-formula-framework/formula-evaluator"
 import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"

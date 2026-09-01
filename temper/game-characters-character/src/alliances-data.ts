@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { TEMPER_ALLIANCE_DATA } from "./generated/temper-alliance.generated"
 
 export interface Alliance {

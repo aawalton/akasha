@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { TEMPER_WEAPON_SLOTS_BY_ID } from "./generated/temper-weapon-slot.generated"
 
 export interface WeaponSlotTemplate {

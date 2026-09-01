@@ -1,4 +1,4 @@
-import { requireGet } from "../../../shared/utils-narrow/src/require-get"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import { classes } from "@temper/game-characters-classes/classes-data"
 import {
   type ArmorWeightId,

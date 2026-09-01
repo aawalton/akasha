@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { TEMPER_CURSES_BY_ID } from "./generated/temper-curse.generated"
 
 export interface CurseTemplate {

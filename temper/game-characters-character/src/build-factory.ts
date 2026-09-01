@@ -1,4 +1,4 @@
-import { getSubcategory } from "@shared/utils-narrow/get-subcategory"
+import { getSubcategory } from "@akasha/utils-narrow/get-subcategory"
 import { championPoints } from "@temper/game-characters-champion-points/champion-points-source"
 import { BuildId } from "@temper/shared-formula-framework/branded"
 import type { CharacterState } from "./build-types"

@@ -1,4 +1,4 @@
-import { requireFirst } from "../../../../shared/utils-narrow/src/require-first"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { championPoints } from "@temper/game-characters-champion-points/champion-points-source"
 import { esoPlus } from "@temper/game-characters-character/account/eso-plus-source"
 import { alliances } from "@temper/game-characters-character/alliances-data"

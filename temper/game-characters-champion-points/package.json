@@ -1,7 +1,7 @@
 {
   "name": "@temper/game-characters-champion-points",
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@temper/shared-formula-framework": "workspace:*"
   },
   "devDependencies": {

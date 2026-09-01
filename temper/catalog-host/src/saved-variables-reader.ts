@@ -1,4 +1,4 @@
-import { isRecord } from "@shared/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
 import { z } from "zod"
 

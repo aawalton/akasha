@@ -32,9 +32,6 @@
       "path": "../game-characters-champion-points"
     },
     {
-      "path": "../../shared/utils-narrow"
-    },
-    {
       "path": "../shared-engine"
     }
   ],

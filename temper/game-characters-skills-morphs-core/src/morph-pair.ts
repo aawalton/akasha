@@ -1,4 +1,4 @@
-import { requireGet } from "../../../shared/utils-narrow/src/require-get"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import type { Skill } from "@temper/game-characters-skills/skills-data"
 
 export interface MorphPair {

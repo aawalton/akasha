@@ -1,4 +1,4 @@
-import { requireFirst } from "../../../../shared/utils-narrow/src/require-first"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import type { CompanionArmorWeight } from "@temper/game-companions-core/companion-types"
 import { companions } from "@temper/game-companions-core/companions-data"
 import { companionEquipmentQualities } from "@temper/game-companions-core/generated/temper-companion-equipment-quality.generated"

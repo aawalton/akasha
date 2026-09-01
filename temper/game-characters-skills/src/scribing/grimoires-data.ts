@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { ClassId } from "@temper/shared-formula-framework/class-id"
 import { getFromPartialRecord } from "@temper/shared-formula-framework/object-utils"

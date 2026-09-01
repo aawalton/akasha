@@ -18,9 +18,6 @@
   ],
   "references": [
     {
-      "path": "../../shared/utils-narrow"
-    },
-    {
       "path": "../shared-saved-variables"
     }
   ]

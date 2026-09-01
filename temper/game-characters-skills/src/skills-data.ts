@@ -1,4 +1,4 @@
-import { createDataFile, type DataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
 import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { Effect } from "@temper/shared-formula-framework/effects-types"
 import { skillsFromPages } from "./generated/temper-skill.generated"

@@ -12,9 +12,6 @@
   "references": [
     {
       "path": "../shared-formula-framework"
-    },
-    {
-      "path": "../../shared/utils-narrow"
     }
   ],
   "include": [

@@ -7,7 +7,7 @@
  * DO NOT EDIT — regenerate with the skill-line-categories generator.
  */
 
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { SkillLineCategoryTemplate } from "../skill-line-categories"
 
 const SKILL_LINE_CATEGORY_DATA = {

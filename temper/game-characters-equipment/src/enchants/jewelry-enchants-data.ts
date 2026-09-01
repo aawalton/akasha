@@ -1,5 +1,5 @@
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { MetricEffect } from "@temper/shared-formula-framework/effects-types"
 import { updateEffectValue } from "@temper/shared-formula-framework/update-effect-value"
 import type { JewelryItem } from "../item-composites"

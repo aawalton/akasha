@@ -1,7 +1,7 @@
 {
   "name": "@temper/game-characters-classes",
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@temper/shared-formula-framework": "workspace:*"
   },
   "devDependencies": {
