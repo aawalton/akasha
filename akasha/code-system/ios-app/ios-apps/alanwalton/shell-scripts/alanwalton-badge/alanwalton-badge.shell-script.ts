@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const alanwaltonBadge = {
   id: "01a0595b-ef56-7471-b7f1-459db54bf00e",

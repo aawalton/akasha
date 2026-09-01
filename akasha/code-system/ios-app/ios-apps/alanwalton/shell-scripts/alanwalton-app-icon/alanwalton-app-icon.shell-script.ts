@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const alanwaltonAppIcon = {
   id: "01a0595b-ef55-7026-82e6-319945218bc0",

@@ -1,4 +1,4 @@
-import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { PageType } from "@akasha/pages-system/page-type"
 import type { WorkspacePackage } from "../workspace-package/workspace-package.page-type.ts"
 import type { BuildScript } from "./properties/build-script.relation-property.ts"
 import type { BundleId } from "./properties/bundle-id.text-property.ts"

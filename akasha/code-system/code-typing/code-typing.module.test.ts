@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Typing } from "./code-typing.module.code.ts"
 import {
   boundAs,

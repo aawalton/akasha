@@ -1,8 +1,8 @@
 import { afterAll, test as check, expect } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import { rootOf } from "@akasha/command-system/rooting"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import { formattedBody } from "./code-format.module.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)

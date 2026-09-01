@@ -10,8 +10,8 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { indexNamed } from "@akasha/indexes"
+import { besideAt } from "@akasha/pages-system/page-file-name"
 
 const TS = ".ts"
 

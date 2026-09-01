@@ -1,15 +1,7 @@
 import { dirname } from "node:path"
-import {
-  indexStanding,
-  listedAt,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { besideAt } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import {
-  slugOf,
-  textAt,
-  type Value,
-  valueAt,
-} from "../../../pages-system/page/page-value/page-value.module.code.ts"
+import { indexStanding, listedAt } from "@akasha/indexes"
+import { besideAt } from "@akasha/pages-system/page-file-name"
+import { slugOf, textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 
 export const SHARED_PATHS: readonly string[] = [
   "akasha/code-system/ios-app/shell-scripts",

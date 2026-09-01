@@ -1,16 +1,10 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import type { Change } from "../../pages-system/change/change.module.code.ts"
-import {
-  everyOfType,
-  typeSlugOf,
-} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import {
-  besideAt,
-  namedIn,
-} from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import type { Shadow } from "../../pages-system/shadow/shadow.module.code.ts"
+import { everyOfType, typeSlugOf } from "@akasha/indexes"
+import type { Change } from "@akasha/pages-system/change"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import { PAGES } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
 

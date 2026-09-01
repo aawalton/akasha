@@ -8,9 +8,9 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import { readingIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { linesFiled } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { readingIn } from "@akasha/indexes"
+import { linesFiled } from "@akasha/indexes/testing"
 import {
   alreadyRunning,
   CARRIED,

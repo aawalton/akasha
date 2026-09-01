@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const alanwaltonCaptureDeviceConsole = {
   id: "01a0595b-ef56-7138-9806-741fbd45a321",

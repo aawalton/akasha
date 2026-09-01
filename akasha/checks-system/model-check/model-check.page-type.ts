@@ -1,5 +1,5 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
-import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { Domain } from "@akasha/domain-system/domain"
+import type { PageType } from "@akasha/pages-system/page-type"
 import type { AuditRuns } from "./properties/audit-runs.number-property.ts"
 import type { ModelTestSlugs } from "./properties/model-test-slugs.relation-property.ts"
 import type { PatchRuns } from "./properties/patch-runs.number-property.ts"
