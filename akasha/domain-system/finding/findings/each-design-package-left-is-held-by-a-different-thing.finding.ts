@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const eachDesignPackageLeftIsHeldByADifferentThing = {
+  id: "01a05c26-3b16-74ea-a002-b5ac33f7ea23",
+  pageTypeSlug: "finding",
+  slug: "each-design-package-left-is-held-by-a-different-thing",
+  domainSlug: "domain/design",
+  claim:
+    "The three design packages left are each held by a different thing. design-system holds no `.ts` at all, so manifest-names-what-is-reached sees it reach nothing and would refuse all ten dependencies it names, landing as design-badges did: naming none. design-patterns is held by its barrel, whose exports re-export two sibling packages. design-primitives stands and is reached, but its move stalled: akasha's own design packages still reach the old name.",
+  evidence:
+    "shared/design-system/src is 36 .tsx and 5 .css and no .ts whatever, so wholeOf answers an empty reach and all ten dependencies its manifest names would be refused as unreached. The omission this has already caused runs wider than one package: design-badges landed naming no dependency at all while reaching class-variance-authority, lucide-react, @radix-ui/react-slot, react and zod; design-forms names the three its .ts reach and omits input-otp, react-day-picker, react-hook-form and those same four; design-layout omits react-dom, @radix-ui/react-collapsible, @tanstack/react-virtual and class-variance-authority. That is 16 real dependencies unnamed across three landed packages, and design-system would carry it to 26. Only third-party names are at stake, since unnamedIn skips names.has(one) and creditedIn answers true on byName.has(dep), so a workspace dependency is exempt both ways. Of the four design-layout omits, three are reached from files holding real JSX and cannot be renamed; only class-variance-authority is reached from a cva block holding none, which could be drawn out into a .ts module beside the .tsx as skeleton-presets and layout-data already are. shared/design-patterns/src/index.ts is a pure re-export and 14 of its lines re-export @akasha/design-forms and @akasha/design-layout, which akasha forbids; of its 196 inbound files 92 reach utils/sort-types, a .ts. design-primitives is reached by 360 files under @akasha, yet 36 still reach @shared: design-badges 9, design-forms 10, design-layout 15, sms-opt-in 1, every one already inside akasha. shared/design-primitives still stands at 62 tracked files and is still a workspace.",
+} as const satisfies Finding
