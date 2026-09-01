@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theUnnamedHalfReadsTsAlone = {
+  id: "01a05c7b-84b8-7ad9-9e8a-70e92e758ddf",
+  pageTypeSlug: "finding",
+  slug: "the-unnamed-half-reads-ts-alone",
+  domainSlug: "domain/akasha-check",
+  claim:
+    "The two halves of manifest-names-what-is-reached are widened apart. `holdingBy` reads `.ts`, `.tsx` and `.css` since abc9d4d18f and 96b233f937, so the named-but-unreached half credits a reach from any of them; but the reading guarding `unnamedIn` still takes `.ts` alone, so the reached-but-unnamed half sees neither `.tsx` nor `.css`. A package drawing its interface in TSX may therefore leave out every dependency it truly has, and four akasha manifests had drifted twelve names that way.",
+  evidence:
+    "manifest-names-what-is-reached.code-check.code.ts:343 reads `if (!given.path.endsWith(TS_ENDING)) return []` before `unnamedIn`, and TS_ENDING is `.ts` at line 28, which `.tsx` does not end with and a `.css` is nothing like. Line 298, the other reading, was swapped to `bodyNamed`, which answers for all three. Measured by importing the check's own `reachFrom`, `ownerOf`, `declaringIn` and `creditedIn`, `manifestsIn` from package-reached-where-named, and `everyFileIn` over `shadowAt(root)`, then running both halves over every akasha package, so the package set, the file ownership and the specifier grammar are the check's rather than a second spelling of them. Twelve names were missing across four of 69 packages, and every one of the twelve was reached from a `.tsx` or a `.css` and from no `.ts`, which is why the audit showed none: @akasha/alanwalton-web missed react, chessground, zod and @shared/utils-narrow, none of them an akasha package and so exempt by neither half; @akasha/design-primitives missed the seven it dropped moving in from shared/design-primitives; @akasha/person-system and @akasha/readout-system each missed react. All twelve landed at 1e1d7ab69a and this check refused 11 before and 11 after, the same @capacitor eleven. Closing the gap is the one-line swap the other half already took and it would refuse nothing today, the sweep answering zero in both directions but for those eleven. It changes what the check refuses, which Alan Approves Checks reserves to Alan. The call taken in his absence: name the twelve, file the reading, leave the check as it stands.",
+} as const satisfies Finding
