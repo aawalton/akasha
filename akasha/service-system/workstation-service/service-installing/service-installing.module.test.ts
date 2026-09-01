@@ -28,46 +28,46 @@ const BASE = {
   enabled: true,
 } as const satisfies WorkstationService
 
-function standingOf(more: Partial<WorkstationService>) {
+function pageOf(more: Partial<WorkstationService>) {
   return { service: { ...BASE, ...more }, pagePath: "akasha/a.workstation-service.ts" }
 }
 
 test("an unscheduled service is written one unit and a scheduled one is written two", () => {
-  expect([...textFor(standingOf({})).keys()]).toEqual(["page-query-service.service"])
-  expect([...textFor(standingOf({ systemd: { schedule: "daily" } })).keys()]).toEqual([
+  expect([...textFor(pageOf({})).keys()]).toEqual(["page-query-service.service"])
+  expect([...textFor(pageOf({ systemd: { schedule: "daily" } })).keys()]).toEqual([
     "page-query-service.service",
     "page-query-service.timer",
   ])
 })
 
 test("a service that is to be running is enabled and one that is not is stopped", () => {
-  const on = planFor([standingOf({})], [])
+  const on = planFor([pageOf({})], [])
   expect(on.enable).toEqual(["page-query-service.service"])
   expect(on.stop).toEqual([])
-  const off = planFor([standingOf({ enabled: false })], [])
+  const off = planFor([pageOf({ enabled: false })], [])
   expect(off.enable).toEqual([])
   expect(off.stop).toEqual(["page-query-service.service"])
 })
 
 test("a service that is not to be running is still written its unit", () => {
-  expect([...planFor([standingOf({ enabled: false })], []).write.keys()]).toEqual([
+  expect([...planFor([pageOf({ enabled: false })], []).write.keys()]).toEqual([
     "page-query-service.service",
   ])
 })
 
 test("only the timer of a scheduled service is enabled", () => {
-  const plan = planFor([standingOf({ systemd: { schedule: "daily" } })], [])
+  const plan = planFor([pageOf({ systemd: { schedule: "daily" } })], [])
   expect(plan.enable).toEqual(["page-query-service.timer"])
   expect([...plan.write.keys()].length).toBe(2)
 })
 
 test("a unit standing that no service accounts for is removed", () => {
-  const plan = planFor([standingOf({})], ["page-query-service.service", "gone-away.service"])
+  const plan = planFor([pageOf({})], ["page-query-service.service", "gone-away.service"])
   expect(plan.remove).toEqual(["gone-away.service"])
 })
 
 test("a unit a service does account for is not removed", () => {
-  expect(planFor([standingOf({})], ["page-query-service.service"]).remove).toEqual([])
+  expect(planFor([pageOf({})], ["page-query-service.service"]).remove).toEqual([])
 })
 
 test("what one service owns is its own two names and no others", () => {
