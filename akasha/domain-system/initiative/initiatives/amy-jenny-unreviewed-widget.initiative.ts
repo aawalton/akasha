@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Client landed: @akasha/pages-system-service/calling (ca8790f388), built from the service's own types so the two cannot drift; 147 pass, proved live — reads rows, carries refusals through. It replaces @shared/pages-query in all 30 imports-inside violations. Blocker: of the page types those files name, only page-type, device-token and readout are in akasha. daily-tracking, error, health-sample, session-tracking, location-trace, open-question, sync-run, scale-reading are markdown-only, so each file waits on its page type moving in.",
+        "Alan: remove the dependency, do not migrate the page types, do not remove the old pages. 29 -> 22 files import @shared/pages-query. Landed fb06db5f68 (3 type-only), 7815e4ca02 and 81ca07f77d (3 dead modules plus email-google's manifest edge); another lane took mobile-cli at a86ab2b802. Left: 4 injectable seams where the import is only a default, 18 hard calls. The akasha service refuses every markdown-only page type by name, so a hard call cannot simply be repointed at the new client.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
