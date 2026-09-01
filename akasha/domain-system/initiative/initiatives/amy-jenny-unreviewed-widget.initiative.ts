@@ -16,7 +16,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
       workingMemory:
-        "Six folders left under `alanwalton/`, and `calendar-sync` is deploy machinery only now rather than a package. `@akasha/calendar-sync`, `@akasha/health-samples-import` (was `elaine-cli`, which states no `bin`) and `@akasha/ssh-access` landed; the last cleared the four `no-rule-in-two-files` refusals, so the audit stands at 11, all Capacitor. `mobile-cli` waits on the root page engine rather than on four files: `roots.ts` alone has 297 inbound.",
+        "Six folders left under `alanwalton/`, and `calendar-sync` is deploy machinery only now rather than a package. `@akasha/calendar-sync`, `@akasha/health-samples-import` (was `elaine-cli`, which states no `bin`) and `@akasha/ssh-access` landed; the last cleared the four `no-rule-in-two-files` refusals, so the audit stands at 11, all Capacitor. `mobile-cli`'s four `ios-program` reaches are named now; the rest wait on `pages/ios-app/` moving in: eight keys and one app akasha has not.",
     },
     {
       statement: "The design packages stand in akasha.",
