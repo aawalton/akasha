@@ -15,6 +15,7 @@ import {
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { useActiveQuickAddPageType } from "@shared/pages-ui/components/quick-add/use-active-quick-add-page-type"
 import { PagesUILinkProvider, PagesUIRouterProvider } from "@akasha/pages-ui/navigation-context"
+import { signOut } from "@akasha/supabase-rr/auth-client"
 import { useAllPages } from "@shared/pages-ui/supabase/hooks"
 import { useOptimisticCreatePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { LogIn, LogOut } from "lucide-react"
@@ -39,20 +40,51 @@ interface AppShellProps {
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
 }
 
+/**
+ * Signing out happens in the browser, never as a form POST to `/sign-out`.
+ *
+ * This shell is shared: `app-capacitor/` maps `~/*` onto `../app/*` and ships this same footer
+ * inside the native WebView. That build is `ssr: false` and its route table (`app-capacitor/
+ * routes.ts`) has no `/sign-out` entry, so a native `<form method="POST" action="/sign-out">`
+ * had no action to reach and no server behind it either — Capacitor answers
+ * `capacitor://localhost` from bundled static files. The tap became a whole-document navigation
+ * to `capacitor://localhost/sign-out` (recorded from a real device in
+ * `pages/error/34940cc43ed78824.error.md`), which left the session sitting in localStorage and
+ * re-booted the app signed in. That is why the menu kept offering "Sign Out".
+ *
+ * The client call works in both auth modes: `capacitor-local` keeps the session in
+ * localStorage, `cookie-ssr` in cookies, and `signOut()` clears whichever is in play. It also
+ * mirrors how sign-in already works (`routes/sign-in.tsx` calls `signInWithPassword`).
+ *
+ * Where the person lands is decided by `AuthProvider`'s `onAuthStateChange`, which is the one
+ * place that reacts to a session ending — token expiry reaches it too, not just this button.
+ */
 function AuthFooter({ user }: { user: { id: string } | null }) {
   const { effectiveIsCollapsed } = useSidebarState()
+  const [signingOut, setSigningOut] = useState(false)
+
+  const onSignOut = useCallback(async () => {
+    setSigningOut(true)
+    const { error } = await signOut()
+    if (error !== null) {
+      console.error("[app-shell] sign out failed", error)
+      setSigningOut(false)
+    }
+  }, [])
 
   if (user) {
     return (
-      <form method="POST" action="/sign-out">
-        <button
-          type="submit"
-          className="flex w-full cursor-pointer items-center gap-3 rounded-md px-3 py-2 text-secondary text-sm transition-colors hover:bg-surface-2 hover:text-primary"
-        >
-          <LogOut className="h-5 w-5 shrink-0" />
-          {!effectiveIsCollapsed && <span>Sign Out</span>}
-        </button>
-      </form>
+      <button
+        type="button"
+        disabled={signingOut}
+        onClick={() => {
+          void onSignOut()
+        }}
+        className="flex w-full cursor-pointer items-center gap-3 rounded-md px-3 py-2 text-secondary text-sm transition-colors hover:bg-surface-2 hover:text-primary disabled:cursor-default disabled:opacity-60"
+      >
+        <LogOut className="h-5 w-5 shrink-0" />
+        {!effectiveIsCollapsed && <span>Sign Out</span>}
+      </button>
     )
   }
 

@@ -34,6 +34,19 @@ interface AuthProviderProps {
   children: React.ReactNode
 }
 
+/**
+ * Yields long enough for React to commit a queued render and run the effects it scheduled.
+ * React drains those through a MessageChannel, which the event loop empties ahead of any timer
+ * callback, so a zero-delay timer is a reliable "the last commit's effects have already run"
+ * marker. Used to keep a sign-out render from being batched together with the route change that
+ * would unmount the very effect the render exists to trigger.
+ */
+function afterEffectsRun(): Promise<void> {
+  return new Promise((resolve) => {
+    setTimeout(resolve, 0)
+  })
+}
+
 export function AuthProvider({ children }: AuthProviderProps) {
   useAppVersionCheck({ enabled: !isNativeShell() })
   const supabase = useSupabase()
@@ -146,11 +159,23 @@ export function AuthProvider({ children }: AuthProviderProps) {
               : currentPath
           const signInTo =
             routerPath !== "/" ? `/sign-in?next=${encodeURIComponent(routerPath)}` : "/sign-in"
-          if (base === "/") {
-            window.location.href = signInTo
-          } else {
-            navigateRef.current(signInTo)
-          }
+
+          // Drop the identity FIRST, on the live tree. `DeviceSecretSync` keys its effect on
+          // this value, and the `userID -> null` edge is the only route to `clearAndRevoke`,
+          // which calls the native `DeviceSecret.clear()` — the one way a stale keychain item
+          // ever leaves the phone. Two rules follow, and both were broken here:
+          //   1. it has to be set at all. This branch used to return without it, so the context
+          //      kept the old id, the effect never re-ran, and the clear never happened.
+          //   2. the URL must not change until this render's effects have run. `/sign-in` sits
+          //      outside the layout that mounts this provider, so moving in the same commit
+          //      unmounts `DeviceSecretSync` and React runs its cleanup rather than the null-id
+          //      effect. A whole-document reload (the old `window.location.href`) is worse
+          //      still: it remounts with no earlier id to compare against, `signedOutFrom` is
+          //      null, and the clear is skipped on every sign-out forever.
+          setUserID(null)
+          await afterEffectsRun()
+          if (cancelled) return
+          navigateRef.current(signInTo)
           return
         }
 
