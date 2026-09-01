@@ -272,10 +272,10 @@ export async function revokeDeviceSecret(
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<Revoked> {
-  const standing = await deviceSecretFor(userId, deviceId, fetcher, naps)
-  if (standing.outcome === "unread") return { ok: false, why: standing.why }
-  if (standing.outcome === "none") return { ok: true, slug: null, at: null }
-  const page = standing.page
+  const found = await deviceSecretFor(userId, deviceId, fetcher, naps)
+  if (found.outcome === "unread") return { ok: false, why: found.why }
+  if (found.outcome === "none") return { ok: true, slug: null, at: null }
+  const page = found.page
   if (page.revokedAt !== null) return { ok: true, slug: page.slug, at: null }
   const put = {
     path: deviceSecretPath(page.slug),
