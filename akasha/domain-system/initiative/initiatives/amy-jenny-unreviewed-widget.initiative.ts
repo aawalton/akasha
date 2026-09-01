@@ -30,8 +30,6 @@ export const amyJennyUnreviewedWidget = {
     { statement: "The design packages stand in akasha." },
     { statement: "`pages-ui` stands in akasha." },
     { statement: "The source of Alan's site stands in akasha." },
-    { statement: "A page describes one web app." },
-    { statement: "A page describes the workload a cluster runs for a web app." },
     {
       statement: "An akasha command puts up the web app a page describes.",
       workingMemory:
