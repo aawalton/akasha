@@ -199,41 +199,39 @@ test("a body naming the slug nowhere is answered as nothing rather than as itsel
 })
 
 test("a name standing whole in a literal is respelled", () => {
-  expect(nameSpelled("import { standingOf } from x", "standingOf", "blobAt")).toBe(
-    "import { blobAt } from x"
+  expect(nameSpelled("import { seatOf } from x", "seatOf", "chairAt")).toBe(
+    "import { chairAt } from x"
   )
-  expect(nameSpelled("  const oid = standingOf(root, path)", "standingOf", "blobAt")).toBe(
-    "  const oid = blobAt(root, path)"
+  expect(nameSpelled("  const oid = seatOf(root, path)", "seatOf", "chairAt")).toBe(
+    "  const oid = chairAt(root, path)"
   )
 })
 
 test("a longer name carrying the renamed one is no spelling of it", () => {
-  expect(nameSpelled("standingOfSomething", "standingOf", "blobAt")).toBe(null)
-  expect(nameSpelled("heldstandingOf", "standingOf", "blobAt")).toBe(null)
+  expect(nameSpelled("seatOfSomething", "seatOf", "chairAt")).toBe(null)
+  expect(nameSpelled("heldseatOf", "seatOf", "chairAt")).toBe(null)
 })
 
 test("a name spelled inside a plain string is respelled", () => {
-  const text = 'const said = "  const oid = standingOf(root, path)"\n'
-  expect(nameRespelled("akasha/held.ts", text, "standingOf", "blobAt")).toBe(
-    'const said = "  const oid = blobAt(root, path)"\n'
+  const text = 'const said = "  const oid = seatOf(root, path)"\n'
+  expect(nameRespelled("akasha/held.ts", text, "seatOf", "chairAt")).toBe(
+    'const said = "  const oid = chairAt(root, path)"\n'
   )
 })
 
 test("a template's head and middle and tail are read for a name as a plain string is", () => {
-  const text = "const at = `standingOf ${one} standingOf ${two} standingOf`\n"
-  expect(nameRespelled("akasha/held.ts", text, "standingOf", "blobAt")).toBe(
-    "const at = `blobAt ${one} blobAt ${two} blobAt`\n"
+  const text = "const at = `seatOf ${one} seatOf ${two} seatOf`\n"
+  expect(nameRespelled("akasha/held.ts", text, "seatOf", "chairAt")).toBe(
+    "const at = `chairAt ${one} chairAt ${two} chairAt`\n"
   )
 })
 
 test("a name outside a literal is left, the name walk reaching literals alone", () => {
-  expect(nameRespelled("akasha/held.ts", "const standingOf = 1\n", "standingOf", "blobAt")).toBe(
-    null
-  )
+  expect(nameRespelled("akasha/held.ts", "const seatOf = 1\n", "seatOf", "chairAt")).toBe(null)
 })
 
 test("a body naming the name nowhere is answered as nothing rather than as itself", () => {
-  expect(nameRespelled("akasha/held.ts", "const one = 1\n", "standingOf", "blobAt")).toBe(null)
+  expect(nameRespelled("akasha/held.ts", "const one = 1\n", "seatOf", "chairAt")).toBe(null)
 })
 
 test("a spelling the rename cannot judge is named by the line it stands on", () => {
