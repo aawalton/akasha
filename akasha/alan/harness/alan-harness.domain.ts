@@ -7,6 +7,7 @@ export const alanHarness = {
   definition: "how Alan does things",
   partSlugs: [
     "domain/monarch",
+    "domain/alan-safety",
     "workspace-package/readout-system",
     "workspace-package/voice-core",
     "workspace-package/idle-system",
