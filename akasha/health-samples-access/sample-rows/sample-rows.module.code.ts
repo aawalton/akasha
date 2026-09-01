@@ -1,13 +1,8 @@
-import { getEsoDayStr } from "@shared/day"
 import type { HealthSampleRecord } from "../sample-shape/sample-shape.module.code.ts"
 
 export const ANCHOR_PAGE_TYPE = "eso-daily-tracking"
 
 export const ROW_CEILING = 50000
-
-export function esoDayOfSample(startedAt: string): string {
-  return getEsoDayStr(new Date(startedAt))
-}
 
 export function textAt(values: Readonly<Record<string, unknown>>, key: string): string {
   const held = values[key]

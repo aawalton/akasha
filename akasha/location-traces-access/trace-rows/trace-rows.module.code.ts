@@ -1,4 +1,3 @@
-import { getEsoDayStr } from "@shared/day"
 import type { LocationTraceInsert } from "../trace-shape/trace-shape.module.code.ts"
 
 export const ANCHOR_PAGE_TYPE = "eso-daily-tracking"
@@ -6,10 +5,6 @@ export const ANCHOR_PAGE_TYPE = "eso-daily-tracking"
 export const ROW_PAGE_TYPE = "location-trace"
 
 export const ROW_CEILING = 50000
-
-export function esoDayOfTrace(capturedAt: string): string {
-  return getEsoDayStr(new Date(capturedAt))
-}
 
 export interface TraceIdentityParts {
   readonly deviceId: string

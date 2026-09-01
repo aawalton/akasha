@@ -1,8 +1,8 @@
+import { getEsoDayStrAt } from "@shared/day"
 import { writePage, writeRows } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import {
   ANCHOR_PAGE_TYPE,
-  esoDayOfTrace,
   ROW_CEILING,
   ROW_PAGE_TYPE,
   rowValuesOf,
@@ -56,7 +56,7 @@ export async function insertLocationTraces(
 
   const byDay = new Map<string, [string, LocationTraceInsert][]>()
   for (const pair of byIdentity) {
-    const day = esoDayOfTrace(pair[1].capturedAt)
+    const day = getEsoDayStrAt(pair[1].capturedAt)
     const held = byDay.get(day) ?? []
     held.push(pair)
     byDay.set(day, held)

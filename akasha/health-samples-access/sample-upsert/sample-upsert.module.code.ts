@@ -1,9 +1,9 @@
+import { getEsoDayStrAt } from "@shared/day"
 import { writePage, writeRows } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import { sampleIdentity } from "../sample-identity/sample-identity.module.code.ts"
 import {
   ANCHOR_PAGE_TYPE,
-  esoDayOfSample,
   numberAt,
   ROW_CEILING,
   textAt,
@@ -73,7 +73,7 @@ export async function upsertHealthSamples(args: {
 
   const byDay = new Map<string, [string, HealthSample][]>()
   for (const pair of byIdentity) {
-    const day = esoDayOfSample(pair[1].startedAt)
+    const day = getEsoDayStrAt(pair[1].startedAt)
     const held = byDay.get(day) ?? []
     held.push(pair)
     byDay.set(day, held)
