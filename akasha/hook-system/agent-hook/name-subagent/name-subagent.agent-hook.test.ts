@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import { ACTING_NAMED, SEAT_NAMED, SUBAGENT_MARK } from "@akasha/command-system/reading"
+import { ran } from "@akasha/utils-run/running"
 import { ASIDE, STANDING_ASIDE } from "../../hook-answer/hook-answer.module.code.ts"
 import {
   actingIn,
@@ -43,8 +44,7 @@ function ranWith(
   for (const [one, standing] of Object.entries(env)) {
     if (standing !== undefined) held[one] = standing
   }
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(raw), env: held })
-  return { code: ran.exitCode, out: ran.stdout.toString(), err: ran.stderr.toString() }
+  return ran(["bun", SCRIPT], { stdin: Buffer.from(raw), env: held })
 }
 
 test("a subagent is named by its seat and its own id together", () => {
@@ -196,7 +196,7 @@ test("the hook run as the harness runs it says nothing of a seat's own call", ()
 })
 
 test("the hook prints its scope when it is asked", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
-  expect(ran.exitCode).toBe(ASIDE)
-  expect(ran.stdout.toString()).toContain("NOT REACHED")
+  const done = ran(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
+  expect(done.code).toBe(ASIDE)
+  expect(done.out).toContain("NOT REACHED")
 })
