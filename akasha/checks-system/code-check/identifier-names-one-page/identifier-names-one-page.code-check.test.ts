@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { listedFiled } from "@akasha/indexes/testing"
+import { listedFiled, pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import { bytesOf } from "@akasha/testing-system/bodying"
@@ -10,7 +10,6 @@ import {
   claiming,
   declaring,
   founded,
-  identified,
   landing,
   NO_BYTES,
   pathFor,
@@ -107,14 +106,14 @@ test("a page whose identifiers no other page carries is let through", () => {
 test("a page rewritten where it already stands is let through", () => {
   const root = rooted()
   slugged(root, "check", "held", pathFor("check", "held"))
-  identified(root, ONE, pathFor("check", "held"))
+  pageFiled(root, ONE, pathFor("check", "held"))
   const said = judged(landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) }))
   expect(said).toEqual([])
 })
 
 test("an id another page carries is refused though the pages are of different types", () => {
   const root = rooted()
-  identified(root, ONE, pathFor("module", "other"))
+  pageFiled(root, ONE, pathFor("module", "other"))
   const said = judged(landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) }))
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain(`page/id/${ONE}`)

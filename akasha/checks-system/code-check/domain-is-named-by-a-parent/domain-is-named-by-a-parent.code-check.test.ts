@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import {
@@ -7,7 +8,6 @@ import {
   declaring,
   edging,
   founded,
-  identified,
   landing,
   NO_BYTES,
   pathFor,
@@ -65,7 +65,7 @@ test("a page the index says some page names among its parts is let through", () 
   const root = rooted()
   stands(root, "domain", "held", ONE)
   edging(root, ONE, "part-slugs", TWO, UP_AT)
-  identified(root, TWO, "akasha/up.domain.ts")
+  pageFiled(root, TWO, "akasha/up.domain.ts")
   const said = judged(landing(root, { [pathFor("domain", "held")]: body("domain", "held", ONE) }))
   expect(said).toEqual([])
 })
@@ -83,7 +83,7 @@ test("a page and the parent naming it landing together is let through", () => {
   stands(root, "domain", "under", ONE)
   stands(root, "domain", "over", TWO)
   edging(root, TWO, "part-slugs", UP, UP_AT)
-  identified(root, UP, "akasha/up.domain.ts")
+  pageFiled(root, UP, "akasha/up.domain.ts")
   const said = judged(
     landing(root, {
       [pathFor("domain", "under")]: body("domain", "under", ONE),
@@ -99,7 +99,7 @@ test("a parent that stops naming a part leaves that part refused", () => {
   stands(root, "domain", "over", TWO)
   edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
   edging(root, TWO, "part-slugs", UP, UP_AT)
-  identified(root, UP, "akasha/up.domain.ts")
+  pageFiled(root, UP, "akasha/up.domain.ts")
   const at = pathFor("domain", "over")
   const said = judged(
     landing(
@@ -119,10 +119,10 @@ test("a parent dropping a part leaves that part refused, though it did not chang
   const root = rooted()
   stands(root, "domain", "under", ONE)
   stands(root, "domain", "over", TWO)
-  identified(root, ONE, pathFor("domain", "under"))
+  pageFiled(root, ONE, pathFor("domain", "under"))
   edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
   edging(root, TWO, "part-slugs", UP, UP_AT)
-  identified(root, UP, "akasha/up.domain.ts")
+  pageFiled(root, UP, "akasha/up.domain.ts")
   const at = pathFor("domain", "over")
   const said = judged(
     landing(
@@ -139,8 +139,8 @@ test("a parent the change takes away leaves the part it named refused", () => {
   const root = rooted()
   stands(root, "domain", "under", ONE)
   stands(root, "domain", "over", TWO)
-  identified(root, ONE, pathFor("domain", "under"))
-  identified(root, TWO, pathFor("domain", "over"))
+  pageFiled(root, ONE, pathFor("domain", "under"))
+  pageFiled(root, TWO, pathFor("domain", "over"))
   edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
   const at = pathFor("domain", "over")
   const said = judged(
@@ -217,7 +217,7 @@ test("a page arriving with no identity is passed over rather than thrown on", ()
 test("a page giving up its identity is passed over rather than thrown on", () => {
   const root = rooted()
   stands(root, "domain", "held", ONE)
-  identified(root, ONE, pathFor("domain", "held"))
+  pageFiled(root, ONE, pathFor("domain", "held"))
   claiming(root, pathFor("domain", "held"), pathFor("domain", "held"), ONE)
   const at = pathFor("domain", "held")
   const bare = new TextEncoder().encode('export const held = { slug: "held" }\n')
@@ -230,7 +230,7 @@ test("a page giving up its identity is passed over rather than thrown on", () =>
 test("a page whose body will not load is passed over rather than thrown on", () => {
   const root = rooted()
   stands(root, "domain", "held", ONE)
-  identified(root, ONE, pathFor("domain", "held"))
+  pageFiled(root, ONE, pathFor("domain", "held"))
   claiming(root, pathFor("domain", "held"), pathFor("domain", "held"), ONE)
   const at = pathFor("domain", "held")
   const broken = new TextEncoder().encode("export const held = { this is not a body\n")

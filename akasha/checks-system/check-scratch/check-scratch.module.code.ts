@@ -1,12 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  idFiled,
-  listedFiled,
-  pathFiled,
-  relationFiled,
-  schemaFiled,
-} from "@akasha/indexes/testing"
+import { listedFiled, pathFiled, relationFiled, schemaFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
@@ -91,10 +85,6 @@ export function founded(root: string): undefined {
 
 export function stands(root: string, kind: string, slug: string, id: string): undefined {
   listedFiled(root, kind, slug, [{ path: pathFor(kind, slug), id }])
-}
-
-export function identified(root: string, id: string, path: string): undefined {
-  idFiled(root, id, [{ path, id }])
 }
 
 export function claiming(root: string, path: string, page: string, id: string): undefined {

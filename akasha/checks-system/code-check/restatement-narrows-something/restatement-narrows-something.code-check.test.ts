@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import {
   declaring,
   edging,
   founded,
-  identified,
   landing,
   pathFor,
   typed,
@@ -234,7 +234,7 @@ test("a page type is judged when the change carries a property it declares", () 
   const at = pathFor(PAGE_TYPE, "under")
   typing(root, "over", TWO, null, [{ pagePropertySlug: "held", required: true, many: false }])
   typing(root, "under", ONE, "over", [{ pagePropertySlug: "held", required: true, many: false }])
-  identified(root, ONE, at)
+  pageFiled(root, ONE, at)
   edging(root, THREE, "page-property-slug", ONE, at)
   const said = judged(
     landing(root, { [pathFor(TEXT, "held")]: propertied(root, TEXT, "held", THREE) })

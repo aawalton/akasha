@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import {
@@ -7,7 +8,6 @@ import {
   declaring,
   edging,
   founded,
-  identified,
   landing,
   NO_BYTES,
   pathFor,
@@ -81,7 +81,7 @@ test("a property the index says some page type declares is let through", () => {
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
   edging(root, ONE, "page-property-slug", TWO, UP_AT)
-  identified(root, TWO, UP_AT)
+  pageFiled(root, TWO, UP_AT)
   const said = judged(
     landing(root, {
       [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
@@ -139,7 +139,7 @@ test("a page type dropping a property leaves it refused, though the property did
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
   stands(root, "page-type", "over", TWO)
-  identified(root, ONE, pathFor("relation-property", "held"))
+  pageFiled(root, ONE, pathFor("relation-property", "held"))
   edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
   const said = judged(
@@ -156,10 +156,10 @@ test("a page type dropping a property leaves it refused, though the property did
 test("a page type the change takes away leaves the property it declared refused", () => {
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
-  identified(root, ONE, pathFor("relation-property", "held"))
+  pageFiled(root, ONE, pathFor("relation-property", "held"))
   claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
   stands(root, "page-type", "over", TWO)
-  identified(root, TWO, pathFor("page-type", "over"))
+  pageFiled(root, TWO, pathFor("page-type", "over"))
   edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
   const said = judged(
@@ -224,7 +224,7 @@ test("a property arriving with no identity is passed over rather than thrown on"
 test("a property giving up its identity is passed over rather than thrown on", () => {
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
-  identified(root, ONE, pathFor("relation-property", "held"))
+  pageFiled(root, ONE, pathFor("relation-property", "held"))
   claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
   const at = pathFor("relation-property", "held")
   const bare = new TextEncoder().encode('export const held = { slug: "held" }\n')
@@ -237,7 +237,7 @@ test("a property giving up its identity is passed over rather than thrown on", (
 test("a property whose body will not load is passed over rather than thrown on", () => {
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
-  identified(root, ONE, pathFor("relation-property", "held"))
+  pageFiled(root, ONE, pathFor("relation-property", "held"))
   claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
   const at = pathFor("relation-property", "held")
   const broken = new TextEncoder().encode("export const held = { this is not a body\n")

@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import {
   declaring,
   edging,
   founded,
-  identified,
   landing,
   pathFor,
   typed,
@@ -190,7 +190,7 @@ test("a page type is judged when the change carries a property it declares", () 
     { pagePropertySlug: "text-property/held", required: true, many: false },
     { pagePropertySlug: "number-property/held", required: false, many: false },
   ])
-  identified(root, TWO, at)
+  pageFiled(root, TWO, at)
   edging(root, THREE, "page-property-slug", TWO, at)
   const said = judged(
     landing(root, { [pathFor(TEXT, "held")]: propertied(root, TEXT, "held", THREE) })
@@ -260,7 +260,7 @@ test("a record property is judged when the change carries a field it declares", 
     { pagePropertySlug: "text-property/held", required: true, many: false },
     { pagePropertySlug: "number-property/held", required: false, many: false },
   ])
-  identified(root, TWO, at)
+  pageFiled(root, TWO, at)
   edging(root, THREE, "page-property-slug", TWO, at)
   const said = judged(
     landing(root, { [pathFor(TEXT, "held")]: propertied(root, TEXT, "held", THREE) })
