@@ -17,7 +17,7 @@ export interface SearchMultiSelectItem {
 export interface SearchMultiSelectProps {
   items: readonly SearchMultiSelectItem[]
 
-  onSelect: (value: readonly SearchMultiSelectItem[]) => undefined
+  onSelect: (value: readonly SearchMultiSelectItem[]) => void
 
   value: readonly SearchMultiSelectItem[]
 
@@ -25,7 +25,7 @@ export interface SearchMultiSelectProps {
 
   searchValue: string
 
-  onSearchValueChange: (s: string) => undefined
+  onSearchValueChange: (s: string) => void
 
   collapseOnSelect?: boolean
 
@@ -35,7 +35,7 @@ export interface SearchMultiSelectProps {
 
   className?: string
 
-  onOpenChange?: (open: boolean) => undefined
+  onOpenChange?: (open: boolean) => void
 
   footer?: React.ReactNode
 }

@@ -15,7 +15,7 @@ export interface KeyBinding {
   id: string
   chord: string
   label: string
-  onTrigger: () => undefined
+  onTrigger: () => void
   scope?: string
   enabled?: boolean
   allowInTextInput?: boolean

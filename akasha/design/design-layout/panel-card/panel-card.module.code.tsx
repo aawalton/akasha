@@ -29,7 +29,7 @@ export interface PanelCardProps extends Omit<React.ComponentProps<"div">, "title
   headerActions?: React.ReactNode
   defaultOpen?: boolean
   open?: boolean
-  onOpenChange?: (open: boolean) => undefined
+  onOpenChange?: (open: boolean) => void
   forceMount?: boolean
 }
 
