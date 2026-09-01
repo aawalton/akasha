@@ -17,7 +17,7 @@ export const changeKind = {
   partSlugs: [
     "change-kind/change-authored",
     "change-kind/change-mechanical",
-    "change-kind/change-operational",
+    "change-kind/change-none",
     "boolean-property/runs-checks",
     "boolean-property/runs-warrants",
   ],
