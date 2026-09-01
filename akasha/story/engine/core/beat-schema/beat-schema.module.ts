@@ -10,11 +10,6 @@ export const beatSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A system beat carries mechanics alone or spoken lines alone or a typed window alone.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A beat is known by its id where it has one and by its content where it does not.",
     },
     {
