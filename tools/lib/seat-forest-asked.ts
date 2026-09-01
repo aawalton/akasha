@@ -1,12 +1,34 @@
-import { answer } from "./page-query.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
-import { FLEET } from "./compose-seat-name.ts"
-import type { ForestRow } from "./seat-forest.ts"
-import { statedProcessPresence } from "./seat-proc-key.ts"
+import { type ForestRow, readSeatForest } from "./seat-forest.ts"
 import { colorOfState } from "./seat-turn-color.ts"
-import { TURN_PENDING_COMPONENTS } from "./seat-turn-pending.ts"
-import { type SeatTurnRecords, type SeatTurnState, readSeatTurn } from "./seat-turn-state.ts"
-import { TURN_WORKING_COMPONENTS } from "./seat-turn-working.ts"
+import {
+  type SeatTurnState,
+  readSeatTurn,
+  seatTurnRecordsOf,
+} from "./seat-turn-state.ts"
+
+// THE FOREST IS READ FROM AKASHA RATHER THAN ASKED OF THE OLD PAGE QUERY. This asked
+// `answer(roots, { pageType: "seat", ... })` and read the result as `asked?.rows ?? []`, so the
+// editor's agent tree drew an empty forest and said nothing.
+//
+// TWO SEPARATE THINGS EMPTIED IT, AND ONLY ONE OF THEM WAS A NULL. `4bb2acd9e0` drained the eight
+// `agent/seat/*.seat.md` pages the old `seat` page type was filed over; from that moment the query
+// answered a perfectly valid `{ n: 0, rows: [] }` and the tree was already blank. `4e6ba6e6ec`
+// then took `pages/page-type/seat.page-type.md` away and the same query started answering null.
+// The tree looked identical across both, which is why distinguishing null from empty would not
+// have caught this: for three hours the answer was empty and honest.
+//
+// SO THE READER IS REPOINTED RATHER THAN THE ENGINE TAUGHT. A seat's page is
+// `akasha/seat-system/seat/seats/<name>.seat.ts` and what is observed of it stands beside that
+// page. The old engine reads markdown frontmatter off a glob, so no amount of registry work makes
+// it read a seat; `readSeatForest` already walks akasha's index and is what `tools/agent-forest.ts`
+// has been reading all along. This adds the turn reading and its colour on top of that walk.
+//
+// THE TURN KEYS THIS USED TO ASK FOR WERE ANSWERING NOTHING EVEN WHEN THE QUERY WORKED.
+// `turn-state`, `turn-pending-source`, `turn-end-reading` and the `turn-working` components are
+// records nobody keeps — `seat-turn.ts` and `seat-turn-working.ts` say so and return null and `{}`.
+// `seatTurnRecordsOf` reads the one that is kept, `turn-pending`, from akasha, so the reading here
+// is no worse than before and its pending half is live rather than frozen.
 
 export interface ForestReading extends ForestRow {
   readonly state: SeatTurnState
@@ -14,87 +36,23 @@ export interface ForestReading extends ForestRow {
   readonly color: string | null
 }
 
-const SEAT_KEYS = [
-  "id",
-  "slug",
-  "person-slug",
-  "principal-seat-name",
-  "start-mode",
-  "role-slug",
-  "supervisor-process",
-  "turn-state",
-  "turn-pending-source",
-  "turn-end-reading",
-  ...TURN_WORKING_COMPONENTS.map((one) => `turn-working-${one}`),
-  ...TURN_PENDING_COMPONENTS.map((one) => `turn-pending-${one}`),
-] as const
-
-type Values = Readonly<Record<string, unknown>>
-
-function textAt(values: Values, key: string): string | null {
-  const held = values[key]
-  return typeof held === "string" && held !== "" ? held : null
-}
-
-function recordOf(values: Values, key: string): { readonly value: string; readonly at: number } | null {
-  const held = textAt(values, key)
-  return held === null ? null : { value: held, at: 0 }
-}
-
-function componentsOf(
-  values: Values,
-  prefix: string,
-  names: readonly string[]
-): Record<string, { readonly value: boolean; readonly at: number }> {
-  const found: Record<string, { readonly value: boolean; readonly at: number }> = {}
-  for (const name of names) {
-    const held = textAt(values, `${prefix}-${name}`)
-    if (held === null) continue
-    found[name] = { value: held === "true", at: 0 }
-  }
-  return found
-}
-
-function turnRecordsOf(values: Values): SeatTurnRecords {
-  return {
-    stamped: recordOf(values, "turn-state"),
-    source: recordOf(values, "turn-pending-source"),
-    pending: componentsOf(values, "turn-pending", TURN_PENDING_COMPONENTS),
-    working: componentsOf(values, "turn-working", TURN_WORKING_COMPONENTS),
-    reading: recordOf(values, "turn-end-reading"),
-  }
+function byName(one: ForestReading, two: ForestReading): number {
+  return (one.name ?? "").localeCompare(two.name ?? "")
 }
 
 export function askSeatForest(): readonly ForestReading[] {
-  const roots = resolveRoots()
-  const akasha = rootFor(roots, AKASHA)
-  const asked = answer(roots, { pageType: "seat", keys: [...SEAT_KEYS], sortBy: "slug" })
+  const akasha = rootFor(resolveRoots(), AKASHA)
   const colours = new Map<SeatTurnState, string | null>()
-  const idByName = new Map<string, string>()
-  for (const row of asked?.rows ?? []) {
-    const name = textAt(row.values, "slug")
-    const id = textAt(row.values, "id")
-    if (name !== null && id !== null) idByName.set(name, id)
-  }
   const found: ForestReading[] = []
-  for (const row of asked?.rows ?? []) {
-    const values = row.values
-    const person = textAt(values, "person-slug")
-    const parentName = textAt(values, "principal-seat-name")
-    const reading = readSeatTurn(turnRecordsOf(values))
+  for (const row of readSeatForest()) {
+    const reading = readSeatTurn(seatTurnRecordsOf(row.id))
     if (!colours.has(reading.state)) colours.set(reading.state, colorOfState(reading.state, akasha))
     found.push({
-      id: textAt(values, "id") ?? "",
-      name: textAt(values, "slug"),
-      parent_agent_id: parentName === null ? null : (idByName.get(parentName) ?? null),
-      principal: person ?? (parentName === null ? null : FLEET),
-      launch: person !== null ? "opened" : parentName !== null ? "spawned" : null,
-      mode: textAt(values, "start-mode"),
-      live: statedProcessPresence(textAt(values, "supervisor-process")) === "present",
+      ...row,
       state: reading.state,
       waitingOn: reading.waitingOn,
       color: colours.get(reading.state) ?? null,
     })
   }
-  return found
+  return found.sort(byName)
 }
