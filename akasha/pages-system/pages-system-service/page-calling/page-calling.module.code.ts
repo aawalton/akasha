@@ -1,0 +1,144 @@
+import type { Query, Row, Asked as Rows } from "../page-asking/page-asking.module.code.ts"
+import type { Naming } from "../page-composing/page-composing.module.code.ts"
+import type { Read, Asked as Sought } from "../page-reading/page-reading.module.code.ts"
+import type { Put, Wrote } from "../page-writing/page-writing.module.code.ts"
+
+export const ASK_AT = "/ask"
+
+export const READ_AT = "/read"
+
+export const WRITE_AT = "/write"
+
+export const ORIGIN_NAMES: readonly string[] = ["PAGES_SERVICE_ORIGIN", "PAGE_STORE_ORIGIN"]
+
+export const OVER_THE_TAILNET = "http://page-store.page-store.svc.cluster.local:8787"
+
+export const IN_A_BROWSER = "/api"
+
+export const ASK_CEILING_MS = 5000
+
+export const WRITE_CEILING_MS = 30000
+
+export const ATTEMPTS = 4
+
+export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
+
+export type Sleeper = (waited: number) => Promise<void>
+
+export type Writing = {
+  readonly writer: string
+  readonly message: string
+  readonly puts?: readonly Put[]
+  readonly removes?: readonly string[]
+  readonly pages?: readonly Naming[]
+  readonly read?: string
+}
+
+function saidIn(name: string): string | null {
+  const held = (globalThis as { process?: { env?: Record<string, string | undefined> } }).process
+  const said = held?.env?.[name]
+  return said === undefined || said === "" ? null : said
+}
+
+function browserOrigin(): string | null {
+  const held = (globalThis as { location?: { origin?: string } }).location
+  const said = held?.origin
+  return typeof said === "string" && said !== "" ? said : null
+}
+
+export function originOf(named: readonly string[] = ORIGIN_NAMES): string {
+  for (const one of named) {
+    const said = saidIn(one)
+    if (said !== null) return said.replace(/\/+$/, "")
+  }
+  const here = browserOrigin()
+  return here === null ? OVER_THE_TAILNET : `${here}${IN_A_BROWSER}`
+}
+
+export function backoffFor(taken: number): number {
+  return 100 * 2 ** (taken - 1)
+}
+
+export const sleep: Sleeper = (waited) =>
+  new Promise((settle) => {
+    setTimeout(settle, waited)
+  })
+
+export function refusedIn(said: unknown): string | null {
+  if (said === null || typeof said !== "object") return null
+  const held = (said as { readonly refused?: unknown }).refused
+  return typeof held === "string" ? held : null
+}
+
+const fetchThrough: Fetcher = (url, init) => fetch(url, init)
+
+type Sent = { readonly said: unknown } | { readonly refused: string }
+
+async function sentTo(
+  at: string,
+  body: unknown,
+  ceiling: number,
+  fetcher: Fetcher,
+  naps: Sleeper
+): Promise<Sent> {
+  let why = "nothing came back"
+  for (let taken = 1; taken <= ATTEMPTS; taken += 1) {
+    try {
+      const answered = await fetcher(`${originOf()}${at}`, {
+        method: "POST",
+        headers: { "content-type": "application/json", accept: "application/json" },
+        body: JSON.stringify(body),
+        signal: AbortSignal.timeout(ceiling),
+      })
+      const held: unknown = await answered.json().catch(() => null)
+      const refused = refusedIn(held)
+      if (refused !== null) return { refused }
+      if (answered.ok) return { said: held }
+      why = `the pages answered ${answered.status}`
+    } catch (thrown) {
+      why = thrown instanceof Error ? thrown.message : String(thrown)
+    }
+    if (taken < ATTEMPTS) await naps(backoffFor(taken))
+  }
+  return { refused: `${why} — ${ATTEMPTS} attempts reached ${originOf()}${at}` }
+}
+
+export async function askingFor(
+  query: Query,
+  fetcher: Fetcher = fetchThrough,
+  naps: Sleeper = sleep
+): Promise<Rows> {
+  const held = await sentTo(ASK_AT, query, ASK_CEILING_MS, fetcher, naps)
+  if ("refused" in held) return held
+  const rows = (held.said as { readonly rows?: unknown }).rows
+  if (!Array.isArray(rows)) return { refused: "the pages answered a question with no rows" }
+  return { rows: rows as readonly Row[] }
+}
+
+export async function readingFor(
+  sought: Sought,
+  fetcher: Fetcher = fetchThrough,
+  naps: Sleeper = sleep
+): Promise<Read> {
+  const held = await sentTo(READ_AT, sought, ASK_CEILING_MS, fetcher, naps)
+  if ("refused" in held) return held
+  const said = held.said as { readonly at?: unknown; readonly bodies?: unknown }
+  if (typeof said.at !== "string" || !Array.isArray(said.bodies)) {
+    return { refused: "the pages answered a read naming no commit and no bodies" }
+  }
+  return held.said as Read
+}
+
+export async function writingFor(
+  asked: Writing,
+  fetcher: Fetcher = fetchThrough,
+  naps: Sleeper = sleep
+): Promise<Wrote> {
+  const held = await sentTo(WRITE_AT, asked, WRITE_CEILING_MS, fetcher, naps)
+  if ("refused" in held) return held
+  const said = held.said as { readonly wrote?: unknown }
+  if (!Array.isArray(said.wrote)) {
+    return { refused: "the pages answered a write saying nothing about what it wrote" }
+  }
+  return held.said as Wrote
+}
