@@ -24,7 +24,7 @@ function paged(root: string, path: string, page: string): undefined {
   pathFiled(root, path, [{ path: page, id: mintedId(page) }])
 }
 
-function standing(root: string, path: string, page: string, body: string): string {
+function filed(root: string, path: string, page: string, body: string): string {
   const oid = wrote(root, path, body)
   paged(root, path, page)
   entriesFiled(root, importIn(body, path, root))
@@ -37,13 +37,13 @@ function pageAt(slug: string): string {
 
 function moduleAt(root: string, slug: string): string {
   const path = pageAt(slug)
-  standing(root, path, path, `export const held = { slug: "${slug}" }\n`)
+  filed(root, path, path, `export const held = { slug: "${slug}" }\n`)
   return path
 }
 
 function codeAt(root: string, slug: string, body: string): string {
   const path = `akasha/${slug}/${slug}.module.code.ts`
-  standing(root, path, pageAt(slug), body)
+  filed(root, path, pageAt(slug), body)
   return path
 }
 
@@ -97,7 +97,7 @@ test("two files of one page are one warrant, the page being read once", () => {
   const root = scratch.rootFor(PREFIX)
   world(root, ["a", "b"])
   codeAt(root, "b", "")
-  standing(root, "akasha/b/b.module.test-fixtures.ts", pageAt("b"), "export const held = 1\n")
+  filed(root, "akasha/b/b.module.test-fixtures.ts", pageAt("b"), "export const held = 1\n")
   const at = codeAt(
     root,
     "a",
@@ -145,15 +145,15 @@ test("a file importing itself warrants nothing, the file changed being no warran
   const root = scratch.rootFor(PREFIX)
   world(root, ["a"])
   const page = pageAt("s")
-  standing(root, page, page, 'import { held } from "./s.module.ts"\n')
+  filed(root, page, page, 'import { held } from "./s.module.ts"\n')
   expect(pathsOf(warrantsAt(root, page))).toEqual([])
 })
 
 test("a page importing its own file warrants nothing, the page being what is changed", () => {
   const root = scratch.rootFor(PREFIX)
   const page = pageAt("s")
-  standing(root, page, page, 'import { held } from "./s.module.code.ts"\n')
-  standing(root, "akasha/s/s.module.code.ts", page, "export const held = 1\n")
+  filed(root, page, page, 'import { held } from "./s.module.code.ts"\n')
+  filed(root, "akasha/s/s.module.code.ts", page, "export const held = 1\n")
   expect(pathsOf(warrantsAt(root, page))).toEqual([])
 })
 
@@ -187,7 +187,7 @@ function manifested(root: string, slug: string, named: string): undefined {
       fileName: "package.json",
     },
   ])
-  standing(
+  filed(
     root,
     `akasha/${slug}/package.json`,
     pageAt(slug),
