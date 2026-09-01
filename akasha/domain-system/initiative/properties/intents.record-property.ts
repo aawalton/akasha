@@ -1,10 +1,10 @@
 import type { List } from "@akasha/pages-system/page-property"
 import type { RecordProperty } from "@akasha/pages-system/record-property"
-import type { Statement } from "../../domain/properties/statement.text-property.ts"
+import type { IntentStatement } from "./intent-statement.text-property.ts"
 import type { WorkingMemory } from "./working-memory.text-property.ts"
 
 export type Intent = {
-  statement: Statement
+  statement: IntentStatement
   workingMemory?: WorkingMemory
 }
 
@@ -17,7 +17,7 @@ export const intents = {
   propertySlug: "intents",
   definition: "what an initiative is to make so",
   properties: [
-    { pagePropertySlug: "statement", required: true, many: false },
+    { pagePropertySlug: "intent-statement", required: true, many: false },
     { pagePropertySlug: "working-memory", required: false, many: false },
   ],
   invariants: [
