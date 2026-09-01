@@ -1,6 +1,6 @@
 "use client"
 
-import { Icon } from "@shared/design-patterns/components/icon"
+import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { cn } from "@akasha/design-primitives/cn"

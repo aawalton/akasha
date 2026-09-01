@@ -4,7 +4,7 @@ import { AddSortButton } from "@shared/design-patterns/components/add-sort-butto
 import { FilterGroup } from "@shared/design-patterns/components/filter-group"
 import { type GroupOption } from "@shared/design-patterns/components/group-button"
 import { SortableSortList } from "@shared/design-patterns/components/sort-group"
-import { type SortEntry, type SortOption } from "@shared/design-patterns/utils/sort-types"
+import { type SortEntry, type SortOption } from "@akasha/design-patterns/sort-types"
 import { FilterableList, FilterableListItem } from "@akasha/design-primitives/filterable-list"
 import { Heading } from "@akasha/design-primitives/heading"
 import { SubView } from "@akasha/design-primitives/sub-view"

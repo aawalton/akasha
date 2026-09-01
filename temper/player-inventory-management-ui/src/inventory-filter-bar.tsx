@@ -7,7 +7,7 @@ import { FilterGroup } from "@shared/design-patterns/components/filter-group"
 import { SearchButton } from "@shared/design-patterns/components/search-button"
 import { SearchSortFilterRow } from "@shared/design-patterns/components/search-sort-filter-row"
 import { SortButton } from "@shared/design-patterns/components/sort-button"
-import { type SortDirection } from "@shared/design-patterns/utils/sort-types"
+import { type SortDirection } from "@akasha/design-patterns/sort-types"
 import { TRAIT_OPTIONS_BY_FAMILY } from "@temper/game-items-rules-core/filters/traits-filter"
 import { useState } from "react"
 import {

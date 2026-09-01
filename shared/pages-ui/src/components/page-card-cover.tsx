@@ -1,6 +1,6 @@
 "use client"
 
-import { Icon } from "@shared/design-patterns/components/icon"
+import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { cn } from "@akasha/design-primitives/cn"
 
 interface PageCardCoverProps {

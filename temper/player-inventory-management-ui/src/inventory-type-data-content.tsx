@@ -7,8 +7,8 @@ import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Button } from "@akasha/design-primitives/button"
-import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
-import { type SortDirection } from "@shared/design-patterns/utils/sort-types"
+import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
+import { type SortDirection } from "@akasha/design-patterns/sort-types"
 import { computeCurrencyGoldTotal } from "@temper/game-items-core/inventory-currencies"
 import {
   filterInventoryTypeGroups,

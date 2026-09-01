@@ -2,7 +2,7 @@
 
 import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
 import { useLoadMore } from "@akasha/design-layout/use-load-more"
-import { Icon } from "@shared/design-patterns/components/icon"
+import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@akasha/design-primitives/table"
 import { cn } from "@akasha/design-primitives/cn"
 import { type PageDataJSON } from "@akasha/pages-core/types"

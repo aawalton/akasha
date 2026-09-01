@@ -11,7 +11,7 @@ import { FilterGroup } from "@shared/design-patterns/components/filter-group"
 import { SearchSortFilterRow } from "@shared/design-patterns/components/search-sort-filter-row"
 import { SortButton } from "@shared/design-patterns/components/sort-button"
 import { SortGroup } from "@shared/design-patterns/components/sort-group"
-import { type SortDirection, type SortEntry, type SortOption } from "@shared/design-patterns/utils/sort-types"
+import { type SortDirection, type SortEntry, type SortOption } from "@akasha/design-patterns/sort-types"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 

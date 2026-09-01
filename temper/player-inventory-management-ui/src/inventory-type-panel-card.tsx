@@ -1,6 +1,6 @@
 "use client"
 
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import type { InventoryTypeGroup } from "@temper/game-items-core/inventory-grouping-types"
 import { buildInventoryTypeNodes } from "@temper/game-items-core/inventory-type-tree-builder"
 import { useMemo } from "react"

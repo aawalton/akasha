@@ -6,7 +6,7 @@ import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
+import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 import { TrendingUp } from "lucide-react"
 import { useMemo } from "react"
 import { useInventory, useNetWorthHistory } from "./hooks-inventory"

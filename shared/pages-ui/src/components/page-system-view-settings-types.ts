@@ -1,5 +1,5 @@
 import type { GroupOption } from "@shared/design-patterns/components/group-button"
-import type { SortEntry, SortOption } from "@shared/design-patterns/utils/sort-types"
+import type { SortEntry, SortOption } from "@akasha/design-patterns/sort-types"
 import type { GroupGranularity, ViewLayout, VisibilityChange } from "@akasha/pages-core/schema/view-data"
 import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
 

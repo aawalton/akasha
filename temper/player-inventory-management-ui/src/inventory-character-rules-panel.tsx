@@ -3,7 +3,7 @@
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
-import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
+import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
 import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
 import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"

@@ -1,6 +1,6 @@
 "use client"
 
-import { Icon } from "@shared/design-patterns/components/icon"
+import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { MenuTabsTrigger } from "@shared/design-patterns/components/tabs"
 import { Button } from "@akasha/design-primitives/button"
 import { Dialog, DialogBody, DialogContent, DialogFooter, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"

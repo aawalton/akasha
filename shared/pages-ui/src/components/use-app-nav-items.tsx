@@ -1,7 +1,7 @@
 "use client"
 
 import type { AppNavItem } from "@akasha/design-layout/nav-types"
-import { Icon } from "@shared/design-patterns/components/icon"
+import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { IconPicker } from "@shared/design-patterns/components/icon-picker"
 import { triggerSafeNode } from "@akasha/design-primitives/trigger-safe-node"
 import type { PageCondition, PageWhere } from "@akasha/pages-core/page-types"

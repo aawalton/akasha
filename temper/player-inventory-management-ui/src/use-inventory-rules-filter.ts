@@ -1,6 +1,6 @@
 "use client"
 
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { GOAL_NONE_ID } from "@temper/game-items-rules-core/inventory-rule-goals"
 import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
 import type { CategoryRule, ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"

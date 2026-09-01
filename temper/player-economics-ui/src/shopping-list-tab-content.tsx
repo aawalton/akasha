@@ -9,7 +9,7 @@ import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, 
 import { Card, CardContent, CardTitleBadges } from "@akasha/design-primitives/card"
 import { Progress } from "@akasha/design-primitives/progress-bar"
 import { Text } from "@akasha/design-primitives/text-body"
-import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
+import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { needToShoppingItem, needToShoppingKey } from "@temper/player-economics-core/companion-gear-shopping-bridge"
 import { isShoppingSettings } from "@temper/player-economics-core/shopping-not-available-types"

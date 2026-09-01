@@ -1,6 +1,6 @@
 "use client"
 
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { classifyItem } from "@temper/game-items-core/classify-item"
 import { buildLocationCurrencyNodes } from "@temper/game-items-core/inventory-currencies"
 import { type InventoryLocationGroup } from "@temper/game-items-core/inventory-grouping"

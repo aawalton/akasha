@@ -2,7 +2,7 @@
 
 import { BadgeLayoutProvider } from "@akasha/design-badges/badge-layout-context"
 import { EmptyBadge } from "@akasha/design-badges/empty-badge"
-import { Icon } from "@shared/design-patterns/components/icon"
+import { Icon } from "@akasha/design-patterns/lucide-icon"
 import type { PageDataJSON, PropertyDefinition, PropertyType } from "@akasha/pages-core/types"
 import { propertyTypeRendersWhenEmpty } from "@akasha/pages-core/property-types/registry"
 import type { ComponentType } from "react"

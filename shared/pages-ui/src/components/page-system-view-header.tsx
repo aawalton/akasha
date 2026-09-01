@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { PageTabHeader } from "@shared/design-patterns"
+import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { SearchButton } from "@shared/design-patterns/components/search-button"
 import { SearchSortFilterRow } from "@shared/design-patterns/components/search-sort-filter-row"
 import { SortButton } from "@shared/design-patterns/components/sort-button"

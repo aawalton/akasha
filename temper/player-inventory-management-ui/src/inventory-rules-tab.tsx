@@ -2,7 +2,7 @@
 
 import { useAuth } from "@shared/auth/use-auth"
 import { LayoutLink } from "@akasha/design-layout/router-context"
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Alert, AlertDescription, AlertTitle } from "@akasha/design-primitives/alert"
 import { partitionUnmanagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-filter"

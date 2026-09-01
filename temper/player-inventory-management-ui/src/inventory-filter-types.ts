@@ -1,5 +1,5 @@
 import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import type { SortDirection, SortOption } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-types"
 import type { ReactNode } from "react"
 
 export type SortField = "name" | "quality" | "count" | "value"

@@ -6,7 +6,7 @@ import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { QueryErrorBoundary } from "@shared/design-patterns/components/query-error-boundary"
 import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@shared/design-patterns/components/tabs"
 import { useFilterPersistence } from "@shared/design-patterns/hooks/use-filter-persistence"
-import { type SortDirection } from "@shared/design-patterns/utils/sort-types"
+import { type SortDirection } from "@akasha/design-patterns/sort-types"
 import { LayoutList, MapPin, Scale, TrendingUp } from "lucide-react"
 import { Suspense } from "react"
 import {

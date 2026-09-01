@@ -2,7 +2,7 @@
 
 import { BadgeLayoutProvider, useBadgeLayoutContext } from "@akasha/design-badges/badge-layout-context"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { Icon } from "@shared/design-patterns/components/icon"
+import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { type MouseEvent, useEffect } from "react"
 
 import { getActionVerb, getActionVerbPresentation } from "../action-verbs/action-verb-registry"

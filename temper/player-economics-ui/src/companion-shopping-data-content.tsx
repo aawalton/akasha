@@ -6,7 +6,7 @@ import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import { AddFilterButton } from "@shared/design-patterns/components/add-filter-button"
-import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
+import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 import { FilterButton } from "@shared/design-patterns/components/filter-button"
 import { FilterGroup } from "@shared/design-patterns/components/filter-group"
 import { SearchSortFilterRow } from "@shared/design-patterns/components/search-sort-filter-row"

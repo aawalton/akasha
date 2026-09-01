@@ -2,7 +2,7 @@
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
-import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
+import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import type { MinedItemSearchResult } from "@temper/game-items-core/item-tooltip-types"
 import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
 import { Plus } from "lucide-react"

@@ -1,4 +1,4 @@
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { assertNever } from "../../../shared/utils-narrow/src/assert-never"
 import type { CategoryRule, ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"
 import { getActionLabel } from "./action-options"

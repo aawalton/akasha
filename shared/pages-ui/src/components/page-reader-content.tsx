@@ -3,7 +3,7 @@
 import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import { PageLayout } from "@akasha/design-layout/page-layout"
 import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
-import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
+import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import { cn } from "@akasha/design-primitives/cn"
 import { bodyPropertyIsContentTier } from "@akasha/pages-core/schema/content-tier"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"

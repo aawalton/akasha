@@ -7,7 +7,7 @@ import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbP
 import { Heading } from "@akasha/design-primitives/heading"
 import { Separator } from "@akasha/design-primitives/separator"
 import { Text } from "@akasha/design-primitives/text-body"
-import { Kbd, KbdGroup } from "@shared/design-patterns/components/kbd"
+import { Kbd, KbdGroup } from "@akasha/design-patterns/kbd"
 
 const TEXT_VARIANTS = ["description", "hint", "caption", "prose"] as const
 

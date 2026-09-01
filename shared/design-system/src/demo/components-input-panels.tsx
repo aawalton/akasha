@@ -6,7 +6,7 @@ import { Input } from "@akasha/design-primitives/input"
 import { Label } from "@akasha/design-primitives/label"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { Textarea } from "@akasha/design-primitives/textarea"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 

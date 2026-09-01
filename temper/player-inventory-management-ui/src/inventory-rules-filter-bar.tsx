@@ -7,7 +7,7 @@ import { FilterGroup } from "@shared/design-patterns/components/filter-group"
 import { SearchButton } from "@shared/design-patterns/components/search-button"
 import { SearchSortFilterRow } from "@shared/design-patterns/components/search-sort-filter-row"
 import { SortButton } from "@shared/design-patterns/components/sort-button"
-import { type SortDirection } from "@shared/design-patterns/utils/sort-types"
+import { type SortDirection } from "@akasha/design-patterns/sort-types"
 import { useMemo, useState } from "react"
 import type {
   ActiveStatusFilter,

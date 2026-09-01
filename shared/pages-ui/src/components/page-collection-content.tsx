@@ -1,8 +1,8 @@
 "use client"
 
 import { PageLayout } from "@akasha/design-layout/page-layout"
-import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
-import { Icon } from "@shared/design-patterns/components/icon"
+import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
+import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { buttonVariants } from "@akasha/design-primitives/button"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
