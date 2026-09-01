@@ -30,15 +30,35 @@ export const storeWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A write naming a page by page type and name is refused rather than placed.",
+      statement: "A read answers with a whole body and the commit it was read at.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch is refused rather than read and written back.",
+      statement: "A patch writes back the bodies it read.",
     },
     {
       invariantKind: "departure",
-      statement: "A compare-and-set is never answered as won.",
+      statement: "A patch states the commit its bodies were read at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch a write landed under is refused rather than told it won.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch leaving every body as it stood writes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is taken away by the page type and the name it is reached by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write stating the keys a page would carry is refused for want of a renderer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write naming a row inside a page is refused for want of a way to address one.",
     },
     {
       invariantKind: "departure",

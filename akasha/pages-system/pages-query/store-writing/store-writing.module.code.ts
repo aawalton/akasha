@@ -1,4 +1,5 @@
 import {
+  ASK_CEILING_MS,
   pagesFetcher,
   postingTo,
   sleep,
@@ -35,6 +36,22 @@ export type Written =
 
 export type Put = { readonly path: string; readonly content: string }
 
+export type Body = { readonly path: string; readonly content: string | null }
+
+export type Named = { readonly pageTypeSlug: string; readonly slug: string }
+
+export type Read = {
+  readonly at: string
+  readonly bodies: readonly Body[]
+  readonly unplaced: readonly string[]
+}
+
+export type Found =
+  | ({ readonly ok: true } & Read)
+  | { readonly ok: false; readonly why: string; readonly status?: number }
+
+export type Changing = (bodies: readonly Body[]) => readonly Put[] | null
+
 export type Compared =
   | { readonly outcome: "won"; readonly at: string }
   | {
@@ -49,14 +66,14 @@ export type Compared =
 
 const WRITER_SHAPE = /^[^<>]+<[^<>@\s]+@[^<>@\s]+>$/
 
-const NO_PLACE_SAYS =
-  "the store writes a path and a whole body, and nothing it answers says where a page of a given page type stands, so nothing here can place this write"
+const NO_RENDER_SAYS =
+  "the store writes a path and a whole body, and nothing in akasha renders a page's body out of the keys it carries, so these values cannot become the file this would write"
 
-const NO_COMPARE_SAYS =
-  "a patch would read the page, change some keys and write the whole body back, and the store takes no compare, so a change landing in between would be lost without a word"
+const NO_ROW_SAYS =
+  "a row stands inside a page's body rather than at a path of its own, and nothing the store answers addresses one, so nothing here can reach the row this names"
 
 const INSTEAD_SAYS =
-  "land it with `writeFiles` naming the path and the whole body, or through the akasha command line"
+  "land it with `writeFiles` or `patchFiles` naming the path and the whole body, or through the akasha command line"
 
 function refusedFor(act: string, named: string, saying: string): Written {
   return { ok: false, why: `\`${act} ${named}\` did not land: ${saying} — ${INSTEAD_SAYS}` }
@@ -102,11 +119,16 @@ export async function writeFiles(
   writer: string,
   message: string,
   fetcher: Fetcher = pagesFetcher(),
-  rest: Sleeper = sleep
+  rest: Sleeper = sleep,
+  read: string | null = null
 ): Promise<Written> {
   if (puts.length === 0) return { ok: false, why: "a write carries at least one path" }
   const what = `a write of ${puts.map((one) => one.path).join(", ")}`
-  return landing(what, { writer, message, puts: [...puts] }, writer, fetcher, rest)
+  const body =
+    read === null
+      ? { writer, message, puts: [...puts] }
+      : { writer, message, puts: [...puts], read }
+  return landing(what, body, writer, fetcher, rest)
 }
 
 export async function removeFiles(
@@ -114,11 +136,83 @@ export async function removeFiles(
   writer: string,
   message: string,
   fetcher: Fetcher = pagesFetcher(),
-  rest: Sleeper = sleep
+  rest: Sleeper = sleep,
+  read: string | null = null
 ): Promise<Written> {
   if (paths.length === 0) return { ok: false, why: "a write carries at least one path" }
   const what = `a taking of ${paths.join(", ")}`
-  return landing(what, { writer, message, removes: [...paths] }, writer, fetcher, rest)
+  const body =
+    read === null
+      ? { writer, message, removes: [...paths] }
+      : { writer, message, removes: [...paths], read }
+  return landing(what, body, writer, fetcher, rest)
+}
+
+function bodiesIn(body: unknown): Read | null {
+  if (typeof body !== "object" || body === null) return null
+  const held = body as { at?: unknown; bodies?: unknown; unplaced?: unknown }
+  if (typeof held.at !== "string" || !Array.isArray(held.bodies)) return null
+  const bodies: Body[] = []
+  for (const one of held.bodies) {
+    if (typeof one !== "object" || one === null) return null
+    const each = one as { path?: unknown; content?: unknown }
+    if (typeof each.path !== "string") return null
+    if (each.content !== null && typeof each.content !== "string") return null
+    bodies.push({ path: each.path, content: each.content })
+  }
+  const unplaced = Array.isArray(held.unplaced) ? held.unplaced.map((one) => String(one)) : []
+  return { at: held.at, bodies, unplaced }
+}
+
+async function finding(
+  what: string,
+  body: Readonly<Record<string, unknown>>,
+  fetcher: Fetcher,
+  rest: Sleeper
+): Promise<Found> {
+  const reached = await postingTo("/read", what, body, fetcher, ASK_CEILING_MS, rest)
+  if (!reached.ok) return reached
+  const held = bodiesIn(reached.body)
+  if (held === null) {
+    return { ok: false, why: `\`${what}\` answered in a shape this reader cannot read` }
+  }
+  return { ok: true, ...held }
+}
+
+export async function readFiles(
+  paths: readonly string[],
+  fetcher: Fetcher = pagesFetcher(),
+  rest: Sleeper = sleep
+): Promise<Found> {
+  if (paths.length === 0) return { ok: false, why: "a read carries at least one path" }
+  return finding(`a read of ${paths.join(", ")}`, { paths: [...paths] }, fetcher, rest)
+}
+
+export async function readPages(
+  pages: readonly Named[],
+  fetcher: Fetcher = pagesFetcher(),
+  rest: Sleeper = sleep
+): Promise<Found> {
+  if (pages.length === 0) return { ok: false, why: "a read carries at least one page" }
+  const what = `a read of ${pages.map((one) => `${one.pageTypeSlug}/${one.slug}`).join(", ")}`
+  return finding(what, { pages: [...pages] }, fetcher, rest)
+}
+
+export async function patchFiles(
+  paths: readonly string[],
+  changing: Changing,
+  writer: string,
+  message: string,
+  fetcher: Fetcher = pagesFetcher(),
+  rest: Sleeper = sleep
+): Promise<Written> {
+  const found = await readFiles(paths, fetcher, rest)
+  if (!found.ok) return { ok: false, why: found.why, status: found.status }
+  const puts = changing(found.bodies)
+  if (puts === null || puts.length === 0) {
+    return { ok: false, why: `a patch of ${paths.join(", ")} left every body as it stood` }
+  }
+  return writeFiles(puts, writer, message, fetcher, rest, found.at)
 }
 
 export async function writePage(
@@ -129,7 +223,7 @@ export async function writePage(
   _fetcher: Fetcher = pagesFetcher(),
   _rest: Sleeper = sleep
 ): Promise<Written> {
-  return refusedFor("write", `${pageType}/${name}`, NO_PLACE_SAYS)
+  return refusedFor("write", `${pageType}/${name}`, NO_RENDER_SAYS)
 }
 
 export async function patchPage(
@@ -140,7 +234,7 @@ export async function patchPage(
   _fetcher: Fetcher = pagesFetcher(),
   _rest: Sleeper = sleep
 ): Promise<Written> {
-  return refusedFor("patch", `${pageType}/${name}`, NO_COMPARE_SAYS)
+  return refusedFor("patch", `${pageType}/${name}`, NO_RENDER_SAYS)
 }
 
 export async function patchState(
@@ -151,17 +245,24 @@ export async function patchState(
   _fetcher: Fetcher = pagesFetcher(),
   _rest: Sleeper = sleep
 ): Promise<Written> {
-  return refusedFor("patch-state", `${pageType}/${name}`, NO_COMPARE_SAYS)
+  return refusedFor("patch-state", `${pageType}/${name}`, NO_RENDER_SAYS)
 }
 
 export async function removePage(
   pageType: string,
   name: string,
-  _writer: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _rest: Sleeper = sleep
+  writer: string,
+  fetcher: Fetcher = pagesFetcher(),
+  rest: Sleeper = sleep
 ): Promise<Written> {
-  return refusedFor("remove", `${pageType}/${name}`, NO_PLACE_SAYS)
+  const named = `${pageType}/${name}`
+  const found = await readPages([{ pageTypeSlug: pageType, slug: name }], fetcher, rest)
+  if (!found.ok) return { ok: false, why: found.why, status: found.status }
+  if (found.unplaced.length > 0) {
+    return { ok: false, why: `\`remove ${named}\` did not land: no page stands at ${named}` }
+  }
+  const paths = found.bodies.map((one) => one.path)
+  return removeFiles(paths, writer, `remove ${named}`, fetcher, rest, found.at)
 }
 
 export async function writeRow(
@@ -172,7 +273,7 @@ export async function writeRow(
   _fetcher: Fetcher = pagesFetcher(),
   _rest: Sleeper = sleep
 ): Promise<Written> {
-  return refusedFor("write-row", `${pageType}/${parentName}`, NO_PLACE_SAYS)
+  return refusedFor("write-row", `${pageType}/${parentName}`, NO_ROW_SAYS)
 }
 
 export async function patchRow(
@@ -183,7 +284,7 @@ export async function patchRow(
   _fetcher: Fetcher = pagesFetcher(),
   _rest: Sleeper = sleep
 ): Promise<Written> {
-  return refusedFor("patch-row", `${pageType}/${parentName}`, NO_COMPARE_SAYS)
+  return refusedFor("patch-row", `${pageType}/${parentName}`, NO_ROW_SAYS)
 }
 
 export async function writeRows(
@@ -194,7 +295,7 @@ export async function writeRows(
   _fetcher: Fetcher = pagesFetcher(),
   _rest: Sleeper = sleep
 ): Promise<Written> {
-  return refusedFor("write-row", `${pageType}/${parentName}`, NO_PLACE_SAYS)
+  return refusedFor("write-row", `${pageType}/${parentName}`, NO_ROW_SAYS)
 }
 
 export async function patchRows(
@@ -205,7 +306,7 @@ export async function patchRows(
   _fetcher: Fetcher = pagesFetcher(),
   _rest: Sleeper = sleep
 ): Promise<Written> {
-  return refusedFor("patch-row", `${pageType}/${parentName}`, NO_COMPARE_SAYS)
+  return refusedFor("patch-row", `${pageType}/${parentName}`, NO_ROW_SAYS)
 }
 
 export async function removeRow(
@@ -216,7 +317,7 @@ export async function removeRow(
   _fetcher: Fetcher = pagesFetcher(),
   _rest: Sleeper = sleep
 ): Promise<Written> {
-  return refusedFor("remove-row", `${pageType}/${parentName}`, NO_PLACE_SAYS)
+  return refusedFor("remove-row", `${pageType}/${parentName}`, NO_ROW_SAYS)
 }
 
 export async function patchPageIfMatch(
@@ -232,7 +333,7 @@ export async function patchPageIfMatch(
 ): Promise<Compared> {
   return {
     outcome: "failed",
-    why: `\`patch-if ${pageType}/${name}\` compared nothing: the store takes no compare-and-set, so a win here would be claimed without anything having been compared — ${INSTEAD_SAYS}`,
+    why: `\`patch-if ${pageType}/${name}\` compared nothing: ${NO_RENDER_SAYS} — ${INSTEAD_SAYS}`,
   }
 }
 
