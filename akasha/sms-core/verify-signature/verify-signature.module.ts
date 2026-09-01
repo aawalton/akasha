@@ -7,6 +7,7 @@ export const verifySignature = {
   definition: "whether an inbound webhook truly came from Telnyx",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -27,6 +28,10 @@ export const verifySignature = {
     {
       invariantKind: "absence",
       statement: "Nothing here throws.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The base64 spelling of bytes stands here for whoever needs it.",
     },
   ],
 } as const satisfies Module
