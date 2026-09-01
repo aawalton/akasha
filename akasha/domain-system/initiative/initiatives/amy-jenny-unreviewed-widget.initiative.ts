@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Tile is live and the repoint is deployed: pod web-79fcf4cb8f runs 7f50ee694b, up from 4647159e77, a gap of 637 commits. RingScale/RingCounts sit in module/readout-body; scale-reading and none-left ask the akasha store through pages-system-service on camelCase keys; the answerer takes a readout slug and reads wireKey and scaleSlug off its page. Next, per Alan: delete readoutCatalog, which parses frontmatter across 71k files per request, and stub the stoplights.",
+        "Both sites run 03a3026ade. The eight stoplight endpoints answer an empty list, so no HTTP path reaches readoutCatalog, which parsed frontmatter across 71k files once per request; all ten routes answer 401 rather than faulting. module/stoplight-reading is gone with its part and its export. What still calls the catalog is off the request path: two workstation timers, the widget Swift emitter, the editor bar. Deleting it outright would take Alan points ledger down, so that waits on him.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
