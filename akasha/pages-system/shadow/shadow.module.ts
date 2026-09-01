@@ -11,7 +11,7 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A check judging a change reads the index the change leaves rather than the index the last commit left.",
+        "A check judging a change reads the index the change leaves rather than the committed index.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A page's body is read from the change where the change carries it and from the tree where it does not.",
+        "A body the change carries is read from the change and every other body is read from the tree.",
     },
     {
       invariantKind: "departure",
@@ -88,7 +88,7 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A shadow handed to something that may not read the shadow is worked out when the shadow is first read.",
+        "A shadow handed to a reader that may never read the shadow is worked out at the first reading.",
     },
     {
       invariantKind: "absence",
