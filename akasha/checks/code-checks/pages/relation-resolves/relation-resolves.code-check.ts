@@ -17,7 +17,7 @@ export const relationResolves = {
     {
       invariantKind: "departure",
       statement:
-        "Which of a page's keys are relations is read from the property schema in the index rather than from a list written here.",
+        "Which of a page's keys are relations is read from the index rather than from a list written here.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const relationResolves = {
     {
       invariantKind: "departure",
       statement:
-        "The pages the index says name a page being taken away are judged though the change never names those pages.",
+        "A page the index says names a page being taken away is judged though the change names no such page.",
     },
     {
       invariantKind: "departure",
@@ -42,8 +42,11 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "It is judged on the page type the name reaches or on the property's declared target when it reaches none.",
+      statement: "Mortality is judged on the page type the name reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name reaching no page is judged on the property's declared target.",
     },
     {
       invariantKind: "departure",

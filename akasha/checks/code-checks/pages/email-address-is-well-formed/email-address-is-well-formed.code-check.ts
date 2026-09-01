@@ -15,7 +15,7 @@ export const emailAddressIsWellFormed = {
     {
       invariantKind: "departure",
       statement:
-        "Which of a page's keys hold an address is read from the page types standing under `email-address-property`.",
+        "Which of a page's keys hold an address is read from the page types under `email-address-property`.",
     },
     {
       invariantKind: "departure",

@@ -87,7 +87,7 @@ export const noCredentialInScriptText = {
     {
       invariantKind: "stopgap",
       statement:
-        "The harness the rule guards stands outside the akasha folder and arrives when the harness moves inside.",
+        "The harness the rule guards sits outside the akasha folder until the harness moves inside.",
     },
   ],
 } as const satisfies SyntaxRule

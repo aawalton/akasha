@@ -20,7 +20,7 @@ export const iosSigning = {
     {
       invariantKind: "departure",
       statement:
-        "every existing App Store profile for the bundle id is deleted and recreated whenever a capability was just enabled",
+        "every App Store profile for the bundle id is remade where a capability was just enabled",
     },
     {
       invariantKind: "departure",
@@ -29,8 +29,7 @@ export const iosSigning = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "the App Store Connect .p8 private key is read from the mac's own home directory rather than from this code",
+      statement: "the App Store Connect .p8 private key is read from the mac's own home directory",
     },
   ],
 } as const satisfies Module

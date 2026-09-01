@@ -39,7 +39,7 @@ export const definition = {
     {
       invariantKind: "departure",
       statement:
-        "What a domain is about stays on its own line even where every sibling is about what the domain is about too.",
+        "What a domain is about stays on its own line even where every sibling is about the same thing.",
     },
   ],
 } as const satisfies TextProperty

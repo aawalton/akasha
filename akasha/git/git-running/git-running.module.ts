@@ -27,8 +27,11 @@ export const gitRunning = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A command git could not run throws where the text was asked for and answers nothing where it was not.",
+      statement: "A command git could not run throws where the text was asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command git could not run answers nothing where no text was asked for.",
     },
     {
       invariantKind: "departure",

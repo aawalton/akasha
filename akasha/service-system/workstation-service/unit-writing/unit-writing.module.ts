@@ -22,8 +22,11 @@ export const unitWriting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A service stating no schedule is wanted by the default target and started again when the service stops.",
+      statement: "A service stating no schedule is wanted by the default target.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service stating no schedule is started again when the service stops.",
     },
     {
       invariantKind: "departure",

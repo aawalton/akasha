@@ -67,7 +67,7 @@ export const indexes = {
     {
       invariantKind: "departure",
       statement:
-        "A caller outside is answered or refused rather than reading an index that is missing as one naming none.",
+        "A caller is answered or refused rather than reading a missing index as an index naming no page.",
     },
     {
       invariantKind: "departure",

@@ -50,8 +50,11 @@ export const edit = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Substitutions against one file are worked in the order stated with each against what the one before left.",
+      statement: "Substitutions against one file are worked in the order stated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each substitution is worked against what the earlier substitutions left.",
     },
     {
       invariantKind: "departure",
@@ -65,12 +68,12 @@ export const edit = {
     {
       invariantKind: "departure",
       statement:
-        "Once the bodies are worked out this lands exactly as `write` lands on the same gate and the same hold.",
+        "Once the bodies are worked out the edit lands exactly as `write` on the same gate and the same hold.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file this call would change is warranted exactly as `write` warrants a file on the same record and the same glass.",
+        "A file this call would change is warranted as `write` warrants a file on the same record and glass.",
     },
     {
       invariantKind: "departure",

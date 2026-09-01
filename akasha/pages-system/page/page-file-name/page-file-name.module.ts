@@ -52,7 +52,7 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement:
-        "A file carrying the tail `uncommitted` holds the uncommitted values of the page the file stands beside.",
+        "A file carrying the tail `uncommitted` holds uncommitted values of the page the file sits beside.",
     },
     {
       invariantKind: "departure",
