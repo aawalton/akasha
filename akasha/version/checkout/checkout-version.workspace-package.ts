@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const checkoutProvenance = {
+export const checkoutVersion = {
   id: "01a05c9d-dccd-7864-8e73-f8fd81e86a9c",
   pageTypeSlug: "workspace-package",
-  slug: "checkout-provenance",
+  slug: "checkout-version",
   definition: "which commit of which checkout the code now running was taken from",
   manifest: "json",
   partSlugs: ["module/provenance"],
