@@ -4,6 +4,7 @@
   "type": "module",
   "workspaces": [
     "shared/day",
+    "shared/named-for",
     "shared/pages-system",
     "editor-extension",
     "akasha/agents-system",

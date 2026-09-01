@@ -4,6 +4,9 @@
       "path": "./shared/day"
     },
     {
+      "path": "./shared/named-for"
+    },
+    {
       "path": "./shared/supabase-database"
     },
     {

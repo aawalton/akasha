@@ -27,7 +27,6 @@
     "../../during-call/during-call.ts",
     "../../exclusive/exclusive.ts",
     "../../missing/missing.ts",
-    "../../named-for/named-for.ts",
     "../../page/attachment-file.ts",
     "../../page/document/frontmatter.ts",
     "../../page/document/holes.ts",
@@ -99,6 +98,9 @@
     "./**/*.test.ts"
   ],
   "references": [
+    {
+      "path": "../named-for"
+    },
     {
       "path": "../pages-core"
     },

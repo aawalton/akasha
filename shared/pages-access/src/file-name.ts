@@ -1,7 +1,7 @@
 import type { Value } from "@akasha/pages-query"
 import { camelizeKey, SETTLED_BY_ROW } from "./file-rows"
 import { FileWriteError } from "./file-write-error"
-import { filledBy, type HeldAt, holesIn, unfilledIn } from "../../../named-for/named-for.ts"
+import { filledBy, type HeldAt, holesIn, unfilledIn } from "@shared/named-for"
 import type { PageWhere } from "@shared/pages-core/page-types"
 
 export type Filled =

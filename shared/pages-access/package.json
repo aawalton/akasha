@@ -17,6 +17,7 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
+    "@shared/named-for": "workspace:*",
     "@shared/errors-core": "workspace:*",
     "@shared/pages-core": "workspace:*",
     "@shared/pages-url": "workspace:*",

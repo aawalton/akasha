@@ -28,7 +28,6 @@
     "../../exclusive/exclusive.ts",
     "../../file-structure/folder-shape/folder-shape.ts",
     "../../missing/missing.ts",
-    "../../named-for/named-for.ts",
     "../../page/attachment-file.ts",
     "../../page/document/frontmatter.ts",
     "../../page/document/holes.ts",
