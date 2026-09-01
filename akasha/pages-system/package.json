@@ -10,6 +10,7 @@
     "./generator-kind": "./generator-kind/generator-kind.page-type.ts",
     "./generator-kind/uuid-v7": "./generator-kind/generator-kinds/uuid-v7.generator-kind.ts",
     "./instant-property": "./instant-property/instant-property.page-type.ts",
+    "./markdown-page-type": "./page/markdown-page-type/markdown-page-type.module.code.ts",
     "./name-format/format-reaching": "./name-format/format-reaching/format-reaching.module.code.ts",
     "./name-format/lower-camel-case": "./name-format/lower-camel-case/lower-camel-case.name-format.code.ts",
     "./name-format/lower-kebab-case": "./name-format/lower-kebab-case/lower-kebab-case.name-format.ts",

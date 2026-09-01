@@ -37,6 +37,7 @@ export const pagesSystem = {
     "domain/naming",
     "module/change",
     "module/page-address",
+    "module/markdown-page-type",
     "module/page-file-name",
     "module/page-export-name",
     "module/page-beside",
