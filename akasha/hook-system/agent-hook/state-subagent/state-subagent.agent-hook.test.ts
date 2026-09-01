@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { SEAT_NAMED } from "../../../command-system/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { idFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { SEAT_NAMED } from "@akasha/command-system/reading"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { idFiled } from "@akasha/indexes/testing"
 import { actIn, askedOf, SCOPE } from "./state-subagent.agent-hook.code.ts"
 
 const SEAT = "01a05844-6e60-7000-b54c-4b14559df70b"

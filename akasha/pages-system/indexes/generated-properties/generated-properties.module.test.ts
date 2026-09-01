@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { put, stands } from "../../../testing-system/putting/putting.module.code.ts"
-import { shadowAt, shadowFor } from "../../shadow/shadow.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import type { Change } from "@akasha/pages-system/change"
+import { shadowAt, shadowFor } from "@akasha/pages-system/shadow"
+import { put, stands } from "@akasha/testing-system/putting"
 import { indexIn } from "../index-surface/index-surface.module.code.ts"
 import {
   generatedProperties,

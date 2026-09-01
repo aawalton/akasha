@@ -1,6 +1,6 @@
-import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
-import { slugOf, textAt } from "../../page/page-value/page-value.module.code.ts"
-import type { Shadow } from "../../shadow/shadow.module.code.ts"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { slugOf, textAt } from "@akasha/pages-system/page-value"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import { schemaAt } from "../index-entries/index-entries.module.code.ts"
 import { listedAt } from "../index-reading/index-reading.module.code.ts"
 

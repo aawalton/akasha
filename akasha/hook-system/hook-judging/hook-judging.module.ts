@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const hookJudging = {
   id: "01a04f83-5df2-71b1-a666-6309398763b8",

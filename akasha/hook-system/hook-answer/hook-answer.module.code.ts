@@ -1,4 +1,4 @@
-import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
+import { rootOf } from "@akasha/command-system/rooting"
 
 export const SCOPE_FLAG = "--scope"
 
