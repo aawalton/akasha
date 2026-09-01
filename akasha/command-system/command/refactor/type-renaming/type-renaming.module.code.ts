@@ -57,12 +57,12 @@ export function renamingFor(
   if (from === to) {
     return { refused: `\`${from}\` is already what it would become, so there is nothing to rename` }
   }
-  const standing = listedAt(given, PAGE_TYPE, from)
-  const one = standing[0]
+  const listed = listedAt(given, PAGE_TYPE, from)
+  const one = listed[0]
   if (one === undefined) return { refused: `no page type carries the slug \`${from}\`` }
-  if (standing.length > 1) {
+  if (listed.length > 1) {
     return {
-      refused: `\`${from}\` is carried by ${standing.length} page types, so this names more than one`,
+      refused: `\`${from}\` is carried by ${listed.length} page types, so this names more than one`,
     }
   }
   if (listedAt(given, PAGE_TYPE, to).length > 0) {
