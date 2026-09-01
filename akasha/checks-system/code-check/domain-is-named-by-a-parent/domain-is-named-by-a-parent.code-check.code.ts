@@ -76,9 +76,9 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     for (const shown of partsWere(change, path)) {
       const reached = reaches(shown, DOMAIN, known)
       if (!("id" in reached)) continue
-      const standing = known.byId(reached.id)
-      if (standing === null || theWhole(standing.path)) continue
-      judge(standing.path, reached.id, shown)
+      const listed = known.byId(reached.id)
+      if (listed === null || theWhole(listed.path)) continue
+      judge(listed.path, reached.id, shown)
     }
     if (change.after(path) === null) continue
     const held = domainNamedIn(change.root, path, under)
