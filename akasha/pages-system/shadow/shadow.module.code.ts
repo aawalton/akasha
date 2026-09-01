@@ -36,7 +36,7 @@ function keyOf(bytes: Uint8Array): string {
   return createHash("sha256").update(bytes).digest("hex")
 }
 
-function standingOver(change: Change): (path: string) => string | null {
+function codeOver(change: Change): (path: string) => string | null {
   const carried = new Set(change.changed)
   let held: Map<string, string> | null = null
   const before = (): Map<string, string> => {
@@ -80,7 +80,7 @@ function castOver(change: Change): Cast {
       after: textOf(change.after(path)),
     }))
     const reading = readingOver(change.root, moving, pageOf)
-    return { shadow: { reading, pageOf, codeAt: standingOver(change) } }
+    return { shadow: { reading, pageOf, codeAt: codeOver(change) } }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { refused: `${NOT_WORKED_OUT} — ${why}` }
