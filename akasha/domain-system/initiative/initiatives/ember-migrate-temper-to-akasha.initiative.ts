@@ -31,5 +31,10 @@ export const emberMigrateTemperToAkasha = {
   constraints: [
     "The entries work lands in pages-system rather than under temper.",
     "Every part of temper migrated into akasha lands under `akasha/temper`.",
+    "The intent stack and its working memory hold where the work is, so a fresh context resumes from the page rather than from what it remembers.",
+    "Work never halts on doubt: a finding is filed, a decision is made, and the work goes on.",
+    "Changes swarm across as many as twenty agents, and the akasha commands are left to settle what collides.",
+    "Every change goes through an akasha command, and a command that cannot do what is needed is enhanced or written rather than bypassed.",
+    "A reminder every fifteen minutes restates these constraints and says to keep going.",
   ],
 } as const satisfies Initiative
