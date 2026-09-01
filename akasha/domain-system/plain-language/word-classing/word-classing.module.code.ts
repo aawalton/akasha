@@ -11,7 +11,7 @@ export const PRON = listed("it they them he she him we us you i me")
 export const PREP = listed(
   "of in on at to for with by from into onto over under above below through across against " +
     "about after before between beyond during without within outside inside beside past up down " +
-    "off out per via upon among around behind beneath toward towards until since than as like"
+    "off out per via upon among around behind beneath toward towards until since as like"
 )
 
 export const REL = listed("that which who whom whose where when what")
@@ -33,7 +33,7 @@ export const MODAL = listed("may might can could will would shall should must")
 export const NEG = listed("not never no nor")
 
 export const ADV = listed(
-  "only also still already now then here there always ever once again rather instead " +
+  "only also still already now then here there always ever once again instead " +
     "even just yet so too very more most less least alone apart back away together"
 )
 
