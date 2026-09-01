@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Alan: no code may name a specific readout, none may read the old .md readouts. Root cause: RingScale and the tile body are declared inside monarch-unreviewed-transactions.readout.code.ts, so generic code imports one readout. Runtime answers markdown (slug `unreviewed`) while code asks the akasha slug, so none-left never resolves. imports-inside refuses any edit to readout-scale-reading until it drops @shared/pages-query, so type move and repoint land as one. Pod reaches akasha pages: 200.",
+        "The tile was dark because monarch-reading-service's installed systemd unit kept the pre-rename path `akasha/alan-harness/...` while its page was already correct; reinstalled, fresh reading 18:50:37Z carried to both sites. Alan: no code may name a specific readout, none may read the old .md readouts. Left: `RingScale` is declared inside monarch-unreviewed-transactions.readout.code.ts, so generic code imports one readout, and imports-inside makes that move and the repoint one commit.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
