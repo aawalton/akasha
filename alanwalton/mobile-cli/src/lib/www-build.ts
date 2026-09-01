@@ -3,10 +3,10 @@ import { copyFileSync, existsSync, realpathSync, rmSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
+import { codeRoot } from "@tools/lib/code-root"
 import { type MobileApp, shellRepoRoot, splitRepoPath, stagedWwwRepoPath } from "./apps"
-import { SPA_SOURCE_VAR } from "./sim-www-stage"
-import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { fetchOrigin, resolveRef, resolveRepoRoot } from "./git-tree-hash"
+import { SPA_SOURCE_VAR } from "./sim-www-stage"
 
 function worktreeStands(dir: string, repoRoot: string): boolean {
   if (!existsSync(join(dir, ".git"))) return false

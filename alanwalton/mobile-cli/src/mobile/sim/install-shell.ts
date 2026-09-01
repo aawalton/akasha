@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { InputError } from "@akasha/errors-core/exit-code"
-import { codeRoot } from "../../../../../tools/lib/code-root.ts"
+import { codeRoot } from "@tools/lib/code-root"
 import {
   macWwwStagingDir,
   type MobileApp,

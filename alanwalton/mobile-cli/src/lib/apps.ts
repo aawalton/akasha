@@ -1,8 +1,8 @@
 import { InputError } from "@akasha/errors-core/exit-code"
-import { readFilePages } from "../../../../tools/lib/file-pages.ts"
-import { resolveRoots } from "../../../../repo/roots/roots"
-import { type Row } from "../../../../tools/lib/page-derive-shape.ts"
-import { listOf, textOf } from "../../../../tools/lib/page-query-values.ts"
+import { resolveRoots } from "@repo/roots"
+import { readFilePages } from "@tools/lib/file-pages"
+import { type Row } from "@tools/lib/page-derive-shape"
+import { listOf, textOf } from "@tools/lib/page-query-values"
 
 export interface MobileApp {
   readonly slug: string
