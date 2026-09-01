@@ -81,17 +81,36 @@ export const packageRenaming = {
       statement: "A name spelled inside a template is respelled as one written whole is.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "departure",
       statement: "The workspace reaches a package by the name it was installed under.",
     },
     {
-      invariantKind: "stopgap",
-      statement:
-        "A rename therefore lands only where the new name was installed before the checks ran.",
+      invariantKind: "departure",
+      statement: "The new name is reachable before the checks judge the rename.",
     },
     {
-      invariantKind: "gap",
-      statement: "A renamed package is reachable by its new name without another command.",
+      invariantKind: "departure",
+      statement: "What the workspace is reached through is a link beside the packages.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link is made only where nothing is at that name already.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link this made is taken back where the rename does not land.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dry run takes back the link it made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer says the lockfile wants settling under the new name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The lockfile is not written here.",
     },
   ],
 } as const satisfies Module

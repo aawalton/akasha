@@ -1,3 +1,5 @@
+import { existsSync, lstatSync, mkdirSync, rmSync, symlinkSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { spelledIn } from "@akasha/code-system/code-specifier"
 import { everyPath } from "@akasha/indexes"
 import { counted } from "../../../asking/asking.module.code.ts"
@@ -15,6 +17,10 @@ import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 const PARTED_BY = "/"
 
 const MANIFEST = "package.json"
+
+const MODULES = "node_modules"
+
+const INSTALL = "run `bun install` to settle the lockfile under the new name"
 
 const CODE = [".ts", ".tsx"]
 
@@ -126,7 +132,32 @@ export function packageSaying(
       `${were(paths.length, dry)} respelled`,
     ...(dry ? paths.map((path) => `  ${path}`) : []),
     OUTSIDE,
+    ...(dry ? [] : [INSTALL]),
   ]
+}
+
+export function reachedAt(root: string, one: Packaging): string {
+  return join(root, MODULES, ...one.now.split(PARTED_BY))
+}
+
+function alreadyAt(at: string): boolean {
+  try {
+    lstatSync(at)
+    return true
+  } catch {
+    return existsSync(at)
+  }
+}
+
+export function reachedFor(root: string, one: Packaging): (() => undefined) | null {
+  const at = reachedAt(root, one)
+  if (alreadyAt(at)) return null
+  const parts = one.now.split(PARTED_BY)
+  mkdirSync(dirname(at), { recursive: true })
+  symlinkSync(`${"../".repeat(parts.length)}${one.folder}`, at)
+  return () => {
+    rmSync(at, { force: true })
+  }
 }
 
 export function packageLanded(
@@ -149,14 +180,25 @@ export function packageLanded(
   const asked = packagingFor(manifests, from, to)
   if ("refused" in asked) return answering([], [asked.refused], 1)
   const said = renamingOver(asked.packaging, paths, bodyText)
-  return respelledLanded(
-    given,
-    root,
-    said,
-    `rename the package \`${from}\` to \`${to}\``,
-    (dry) => packageSaying(asked.packaging, said, dry),
-    dryRun,
-    argv,
-    flags
-  )
+  const undo = reachedFor(root, asked.packaging)
+  const clear = (): undefined => {
+    if (undo !== null) undo()
+  }
+  try {
+    const landing = respelledLanded(
+      given,
+      root,
+      said,
+      `rename the package \`${from}\` to \`${to}\``,
+      (dry) => packageSaying(asked.packaging, said, dry),
+      dryRun,
+      argv,
+      flags
+    )
+    if (dryRun || landing.code !== 0) clear()
+    return landing
+  } catch (thrown) {
+    clear()
+    throw thrown
+  }
 }
