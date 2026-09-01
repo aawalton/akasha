@@ -24,5 +24,6 @@
 @source "../../../akasha/design/design-patterns/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-primitives/**/*.{ts,tsx}";
 @source "../../../shared/pages-ui/src/**/*.{ts,tsx}";
+@source "../../../akasha/pages-system/pages-ui/**/*.{ts,tsx}";
 @source "../app/**/*.{ts,tsx}";
 @source "./**/*.{ts,tsx}";
