@@ -7,7 +7,7 @@ import {
 } from "@temper/game-characters-character/target-armor-data"
 import type { CompanionTargetHealthId } from "@temper/game-companions-core/companion-types"
 import { useCompanionMetadata } from "@/components/companions/context/use-companion"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface CompanionTargetPanelCardProps {
   target: {

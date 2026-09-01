@@ -7,7 +7,7 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { toCharacterVisibility } from "@temper/game-characters-character/build-types"
 import { useEffect, useState } from "react"
 import { useCharacterMetadata } from "@/components/characters/context/use-character"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface BuildInfoPanelCardProps {
   buildName: string

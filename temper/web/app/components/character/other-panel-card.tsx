@@ -6,7 +6,7 @@ import { Switch } from "@akasha/design-primitives/switch-control"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { EsoPlusId } from "@temper/game-characters-character/account/eso-plus-source"
 import { type AllianceId, alliances } from "@temper/game-characters-character/alliances-data"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface OtherPanelCardProps {
   alliance: AllianceId

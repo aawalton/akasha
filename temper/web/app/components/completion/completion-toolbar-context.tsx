@@ -1,7 +1,7 @@
 "use client"
 
 import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import type { SortDirection, SortOption } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-types"
 import type { CompletionFilter, CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"
 import { createContext, useContext } from "react"
 

@@ -1,5 +1,5 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Kbd, KbdGroup } from "@shared/design-patterns/components/kbd"
+import { Kbd, KbdGroup } from "@akasha/design-patterns/kbd"
 import type { shortcutGroups } from "./keyboard-shortcuts-data"
 
 interface ShortcutSectionCardProps {

@@ -1,4 +1,4 @@
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import type { AccountZoneCompletionUnionProgress } from "@temper/player-completion/completion-account-zone-poi-union"
 import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"

@@ -7,7 +7,7 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { toVisibility } from "@temper/game-companions-core/companion-types"
 import { useEffect, useState } from "react"
 import { useCompanionMetadata } from "@/components/companions/context/use-companion"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface CompanionInfoPanelCardProps {
   buildName: string

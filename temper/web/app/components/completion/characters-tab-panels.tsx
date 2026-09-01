@@ -1,4 +1,4 @@
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import { SkillMorphsProgressPanelCard } from "@temper/player-completion-skills-morphs-ui/skill-morphs-progress-panel-card"

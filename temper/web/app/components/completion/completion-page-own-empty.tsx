@@ -4,7 +4,7 @@ import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
-import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
+import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 import { FolderOpen } from "lucide-react"
 
 export function CompletionPageOwnEmpty() {

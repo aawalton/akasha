@@ -2,7 +2,7 @@
 
 import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
-import { useScrollRestoration } from "@shared/design-patterns/hooks/use-scroll-restoration"
+import { useScrollRestoration } from "@akasha/design-patterns/use-scroll-restoration"
 import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { applyCompanionMetadata } from "@temper/game-characters/build-metadata"

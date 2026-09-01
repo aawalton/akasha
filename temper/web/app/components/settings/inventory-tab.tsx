@@ -5,7 +5,7 @@ import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Skeleton } from "@akasha/design-primitives/skeleton"
 import { Switch } from "@akasha/design-primitives/switch-control"
-import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
+import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { extractGuildBankKeys } from "@temper/game-items-core/inventory-guild-bank-filter"
 import { useInventory } from "@temper/player-inventory-management-ui/hooks-inventory"
@@ -16,7 +16,7 @@ import {
   type GuildBankListState,
   resolveGuildBankListState,
 } from "@/components/settings/guild-bank-list-state"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface InventoryTabProps {
   active: boolean

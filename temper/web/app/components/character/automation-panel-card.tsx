@@ -5,7 +5,7 @@ import { Text } from "@akasha/design-primitives/text-body"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import { useAutomationSettings } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { AutomationSelect } from "@/components/automation/automation-select"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface CharacterAutomationPanelCardProps {
   esoCharacterId: string

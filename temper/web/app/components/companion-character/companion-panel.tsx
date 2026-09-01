@@ -8,7 +8,7 @@ import {
 } from "@temper/game-companions-core/companion-base-roles-data"
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import { type CompanionId, companions } from "@temper/game-companions-core/companions-data"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface CompanionPanelProps {
   companion: CompanionState["companion"]

@@ -10,7 +10,7 @@ import type { ProfileMetadata } from "@temper/game-characters/build-metadata"
 import { useCraftBagAccess } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { usePlayer } from "@temper/player-profile/use-player"
 import { useCallback, useEffect, useState } from "react"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import {
   type CraftBagAccessValue,
   fromCraftBagAccessValue,

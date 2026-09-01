@@ -6,7 +6,7 @@ import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { capitalize } from "@shared/utils-narrow/capitalize"
 import { Maximize2 } from "lucide-react"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 type AttributeKey = "magicka" | "health" | "stamina"
 

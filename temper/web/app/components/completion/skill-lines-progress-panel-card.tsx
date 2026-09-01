@@ -1,4 +1,4 @@
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { classes } from "@temper/game-characters-classes/classes-data"
 import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"
 import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"

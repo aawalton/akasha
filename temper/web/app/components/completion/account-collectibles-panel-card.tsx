@@ -1,4 +1,4 @@
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { COLLECTIBLE_CATEGORY_TO_ACTIVITY } from "@temper/player-completion/activity-categories"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import type { AccountCollectiblesProgress } from "@temper/player-completion/completion-ui-types"

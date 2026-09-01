@@ -17,7 +17,7 @@ import {
 } from "@temper/game-items-core/inventory-safety-types"
 import { useBackpackSettings } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { useEffect, useMemo, useState } from "react"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { useLoggingSettings, useSafetySettings } from "@/hooks/hooks-settings"
 
 type ConfirmActionItem = BadgeToggleGroupItem & { value: DestructiveAction }

@@ -1,4 +1,4 @@
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter } from "@temper/player-completion-ui/completion-panel-card"
 import { COMPANION_CARDS, type CompanionSummaryData } from "@temper/player-completion/completion-card-registry"
 

@@ -1,5 +1,5 @@
 import { useFilterPersistence } from "@shared/design-patterns/hooks/use-filter-persistence"
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { activityCategories } from "@temper/player-completion/activity-category-data"
 import type { CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"
 import { getTabForCard } from "@temper/player-completion/completion-card-registry"

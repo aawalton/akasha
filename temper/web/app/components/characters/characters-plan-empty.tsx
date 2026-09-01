@@ -3,7 +3,7 @@
 import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
-import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
+import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { Gamepad2, Loader2 } from "lucide-react"
 import type { PlanEmptyState } from "@/components/characters/characters-plan-empty-state"

@@ -1,5 +1,5 @@
 import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import {
   type TargetArmorId,
   targetArmor,

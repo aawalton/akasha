@@ -2,7 +2,7 @@
 
 import { PanelToggleContext, PanelToggleLocalContext, type PanelToggleSignal } from "@akasha/design-layout/panel-toggle-context"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
+import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { METRIC_TREE } from "@temper/game-characters-stats/metrics/metric-tree-data"
 import {

@@ -12,7 +12,7 @@ import type { RaceId } from "@temper/game-characters-races/races"
 import { useState } from "react"
 import { RaceSelectDialog } from "@/components/character/race-select-dialog"
 import { FilterableSelectTrigger } from "@/components/ui/filterable-select-dialog"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface IdentityPanelCardProps {
   character: {

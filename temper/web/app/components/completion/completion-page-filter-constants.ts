@@ -1,5 +1,5 @@
 import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import type { SortOption } from "@shared/design-patterns/utils/sort-types"
+import type { SortOption } from "@akasha/design-patterns/sort-types"
 import { activityCategories } from "@temper/player-completion/activity-category-data"
 import type { CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"
 

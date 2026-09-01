@@ -15,7 +15,7 @@ import {
 import { getMundusById, MundusSelectDialog } from "@/components/character/mundus-select-dialog"
 import { PotionSelectDialog } from "@/components/character/potion-select-dialog"
 import { FilterableSelectTrigger } from "@/components/ui/filterable-select-dialog"
-import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface ConsumablesPanelCardProps {
   consumables: {
