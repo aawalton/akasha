@@ -39,6 +39,7 @@ export const alanHarness = {
     "workspace-package/workspace-paths",
     "workspace-package/web-build-sha",
     "workspace-package/supabase-database",
+    "workspace-package/recurrence",
     "workspace-package/supabase-auth",
   ],
   invariants: [
