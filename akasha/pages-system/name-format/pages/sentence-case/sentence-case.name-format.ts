@@ -1,4 +1,4 @@
-import type { NameFormat } from "../name-format.page-type.ts"
+import type { NameFormat } from "../../name-format.page-type.ts"
 
 export const sentenceCase = {
   id: "01a04eba-7459-7eaf-808c-edc6d257bb1c",
