@@ -48,8 +48,12 @@ export function meaning(argv: readonly string[]): Meant {
   return { only, refusal: null }
 }
 
-export function narrowedTo(every: readonly Gathered[], named: readonly string[]): Narrowed {
-  if (named.length === 0) return { checks: every, refusals: [] }
+export function narrowedTo(
+  every: readonly Gathered[],
+  atAudit: readonly Gathered[],
+  named: readonly string[]
+): Narrowed {
+  if (named.length === 0) return { checks: atAudit, refusals: [] }
   const bySlug = new Map(every.map((one) => [one.slug, one]))
   const checks: Gathered[] = []
   const refusals: string[] = []
@@ -57,7 +61,7 @@ export function narrowedTo(every: readonly Gathered[], named: readonly string[])
     const found = bySlug.get(one)
     if (found === undefined) {
       refusals.push(
-        `\`${one}\` is no check that runs at audit — those that do are ` +
+        `\`${one}\` is no check the index names — those it names are ` +
           `\`${every.map((two) => two.slug).join("`, `")}\``
       )
       continue
@@ -65,6 +69,11 @@ export function narrowedTo(every: readonly Gathered[], named: readonly string[])
     checks.push(found)
   }
   return { checks, refusals }
+}
+
+export function leftOutOf(atAudit: readonly Gathered[], ran: readonly Gathered[]): number {
+  const slugs = new Set(ran.map((one) => one.slug))
+  return atAudit.filter((one) => !slugs.has(one.slug)).length
 }
 
 export function heldTo(said: readonly string[], ceiling: number): readonly string[] {
@@ -84,7 +93,7 @@ export function heldTo(said: readonly string[], ceiling: number): readonly strin
   return held
 }
 
-export function judgedOver(judging: Judging, change: Change, atAudit: number): Answer {
+export function judgedOver(judging: Judging, change: Change, leftOut: number): Answer {
   if (judging.named.length === 0) return { report: [], refusals: [NOTHING_RUNS], code: 3 }
   let said: readonly Judged[]
   try {
@@ -93,15 +102,10 @@ export function judgedOver(judging: Judging, change: Change, atAudit: number): A
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }
   const woke = judging.checksFor(change).length
-  const left = atAudit - woke
-  const by =
-    left > 0
-      ? `${counted(woke, "check")} of the ${atAudit} that run at audit`
-      : counted(woke, "check")
-  const over = `${by} judged ${counted(change.changed.length, "file")}`
+  const over = `${counted(woke, "check")} judged ${counted(change.changed.length, "file")}`
   const also =
-    left > 0
-      ? [`this is not an audit — the ${counted(left, "check")} it left out judged nothing`]
+    leftOut > 0
+      ? [`this is not an audit — the ${counted(leftOut, "check")} it left out judged nothing`]
       : []
   if (said.length === 0) {
     return { report: [`${over}, and none refused`, ...also], refusals: [], code: 0 }
@@ -121,13 +125,13 @@ export function audit(argv: readonly string[], given: Given): Answer {
   let every: readonly Gathered[]
   let change: Change
   try {
-    every = checksAt(checksIn(root), AUDIT)
+    every = checksIn(root)
     change = everythingIn(root)
   } catch (thrown) {
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }
-  if (every.length === 0) return { report: [], refusals: [NOTHING_RUNS], code: 3 }
-  const narrowed = narrowedTo(every, meant.only)
+  const atAudit = checksAt(every, AUDIT)
+  const narrowed = narrowedTo(every, atAudit, meant.only)
   if (narrowed.refusals.length > 0) return { report: [], refusals: [...narrowed.refusals], code: 1 }
-  return judgedOver(judgingBy(narrowed.checks), change, every.length)
+  return judgedOver(judgingBy(narrowed.checks), change, leftOutOf(atAudit, narrowed.checks))
 }

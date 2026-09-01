@@ -7,7 +7,9 @@ export const audit = {
   definition: "every check that runs at audit, over every file the akasha folder holds",
   code: "ts",
   test: "ts",
-  taking: [{ said: "--check <slug>", takes: "a check that runs at audit, to run on its own" }],
+  taking: [
+    { said: "--check <slug>", takes: "a check to run on its own even where it runs at no audit" },
+  ],
   helpNotes: [
     "--check repeats, so several checks run in one call.",
     "named nothing, every check that runs at audit judges every file the index names.",
@@ -29,7 +31,15 @@ export const audit = {
     },
     {
       invariantKind: "departure",
-      statement: "A named check that runs at no audit is refused.",
+      statement: "A named check runs even where that check runs at no audit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit naming no check runs only the checks that run at audit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug naming no check is refused.",
     },
     {
       invariantKind: "departure",
