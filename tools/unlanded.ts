@@ -39,7 +39,7 @@ THE THREE STATES, and what each asks of you:
             before touching it: the lock's pid rotates between live writers and its
             timestamp does not move, so a working lock looks abandoned.
   orphaned  The process that queued it is gone. Nothing is retrying it right now. The
-            page-query-service picks these up and re-queues them the next time it starts,
+            pages-system-service picks these up and re-queues them the next time it starts,
             so restarting it is the fix; a file whose repo root no longer exists is
             dropped from the journal at that point instead.
 
