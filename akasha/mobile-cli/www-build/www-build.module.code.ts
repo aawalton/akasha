@@ -3,6 +3,7 @@ import { copyFileSync, existsSync, realpathSync, rmSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
+import { said } from "@akasha/utils-run/running"
 import { codeRoot } from "@tools/lib/code-root"
 import {
   fetchOrigin,
@@ -20,11 +21,14 @@ import { SPA_SOURCE_VAR } from "../sim-www-stage/sim-www-stage.module.code.ts"
 function worktreeStands(dir: string, repoRoot: string): boolean {
   if (!existsSync(join(dir, ".git"))) return false
   try {
-    const common = execFileSync(
+    const common = said([
       "git",
-      ["-C", dir, "rev-parse", "--path-format=absolute", "--git-common-dir"],
-      { encoding: "utf8" }
-    ).trim()
+      "-C",
+      dir,
+      "rev-parse",
+      "--path-format=absolute",
+      "--git-common-dir",
+    ]).trim()
     return realpathSync(common) === realpathSync(join(repoRoot, ".git"))
   } catch {
     return false
