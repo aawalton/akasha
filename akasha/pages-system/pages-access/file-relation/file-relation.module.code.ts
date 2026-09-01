@@ -93,7 +93,7 @@ export type Standing =
   | { readonly outcome: "absent" }
   | { readonly outcome: "unasked"; readonly why: string }
 
-export async function standsUnder(
+export async function pageUnder(
   targetSlug: string,
   name: string,
   deps: FileRelationDeps = LIVE

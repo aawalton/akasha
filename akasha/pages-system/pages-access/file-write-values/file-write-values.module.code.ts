@@ -3,9 +3,9 @@ import { nameOfPageId, type Translated } from "../file-page-name/file-page-name.
 import { fileRelationDeclarations } from "../file-property-defs/file-property-defs.module.code.ts"
 import {
   namesNothing,
+  pageUnder,
   type RelationOnType,
   relationsOn,
-  standsUnder,
 } from "../file-relation/file-relation.module.code.ts"
 import { camelizeKey, kebabizeKey } from "../file-rows/file-rows.module.code.ts"
 import { backings } from "../file-write-backing/file-write-backing.module.code.ts"
@@ -148,7 +148,7 @@ async function refuseUnresolvedRelations(
     for (const one of Array.isArray(held) ? held : [held]) {
       if (typeof one !== "string" || namesNothing(one)) continue
       const named = one.trim()
-      const standing = await standsUnder(relation.targetSlug, named)
+      const standing = await pageUnder(relation.targetSlug, named)
       if (standing.outcome === "stands") continue
       if (standing.outcome === "unasked") {
         throw new FileWriteError(
