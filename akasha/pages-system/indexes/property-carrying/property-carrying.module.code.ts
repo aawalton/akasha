@@ -53,9 +53,9 @@ function underneath(reading: Reading, id: string): readonly string[] {
   for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
     if (walked.has(one)) continue
     walked.add(one)
-    const standing = listedById(reading, one)
-    if (standing === null) continue
-    const named = namedIn(standing.path)
+    const listed = listedById(reading, one)
+    if (listed === null) continue
+    const named = namedIn(listed.path)
     if (named === null || named.tail !== PAGE_TYPE) continue
     found.push(named.stem)
     waiting.push(...idsNaming(reading, one, EXTENDS))
