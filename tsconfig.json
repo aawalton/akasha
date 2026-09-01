@@ -124,9 +124,6 @@
       "path": "./shared/utils-narrow"
     },
     {
-      "path": "./shared/utils-sync"
-    },
-    {
       "path": "./shared/verdict"
     },
     {

@@ -12,6 +12,7 @@
         "@akasha/supabase-database": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-process": "workspace:*",
+        "@akasha/utils-sync": "workspace:*",
         "@akasha/utils-system": "workspace:*",
         "@alanwalton/mobile-cli": "workspace:*",
         "@collections/exercises": "workspace:*",
@@ -48,7 +49,6 @@
         "@shared/triggers-proc": "workspace:*",
         "@shared/triggers-proc-compiler": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
-        "@shared/utils-sync": "workspace:*",
         "@stories/text": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "@temper/catalog-cli": "workspace:*",
@@ -225,6 +225,8 @@
     "akasha/design/design-patterns": {
       "name": "@akasha/design-patterns",
       "dependencies": {
+        "@akasha/design-badges": "workspace:*",
+        "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -234,7 +236,11 @@
         "zod": "^4.3.6",
       },
       "peerDependencies": {
+        "@dnd-kit/core": ">=6",
+        "@dnd-kit/modifiers": ">=7",
+        "@dnd-kit/sortable": ">=8",
         "@radix-ui/react-slot": "*",
+        "@radix-ui/react-tabs": "*",
         "react": "^18 || ^19",
       },
     },
@@ -541,6 +547,13 @@
         "@shared/utils-narrow": "workspace:*",
       },
     },
+    "akasha/utils-sync": {
+      "name": "@akasha/utils-sync",
+      "dependencies": {
+        "@akasha/pages-core": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
+      },
+    },
     "akasha/utils-system": {
       "name": "@akasha/utils-system",
       "dependencies": {
@@ -661,6 +674,7 @@
         "@akasha/sms-access": "workspace:*",
         "@akasha/sms-core": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
+        "@akasha/utils-sync": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
@@ -683,7 +697,6 @@
         "@shared/supabase-rr": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
-        "@shared/utils-sync": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "chess.js": "^1.4.0",
         "chessground": "^9.2.1",
@@ -829,10 +842,10 @@
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "@akasha/utils-sync": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
-        "@shared/utils-sync": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -1759,19 +1772,6 @@
       "dependencies": {
         "@akasha/supabase-database": "workspace:*",
         "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-      },
-    },
-    "shared/utils-sync": {
-      "name": "@shared/utils-sync",
-      "dependencies": {
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
-        "@shared/supabase-auth": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -4009,6 +4009,8 @@
 
     "@akasha/utils-process": ["@akasha/utils-process@workspace:akasha/utils-process"],
 
+    "@akasha/utils-sync": ["@akasha/utils-sync@workspace:akasha/utils-sync"],
+
     "@akasha/utils-system": ["@akasha/utils-system@workspace:akasha/utils-system"],
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
@@ -4622,8 +4624,6 @@
     "@shared/triggers-proc-compiler": ["@shared/triggers-proc-compiler@workspace:shared/triggers-proc-compiler"],
 
     "@shared/utils-narrow": ["@shared/utils-narrow@workspace:shared/utils-narrow"],
-
-    "@shared/utils-sync": ["@shared/utils-sync@workspace:shared/utils-sync"],
 
     "@shared/utils-test": ["@shared/utils-test@workspace:shared/utils-test"],
 

@@ -1,5 +1,5 @@
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PropSpec } from "@shared/utils-sync/page-type-props"
+import type { PropSpec } from "@akasha/utils-sync/page-type-props"
 
 export const IDLE_PERSONA_CARD_PAGE_TYPE_SLUG = "idle-persona-card"
 

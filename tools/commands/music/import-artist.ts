@@ -5,7 +5,7 @@ import {
   type ImportArtistResult,
 } from "@collections/music/musicbrainz/import"
 import type { CommandHelp } from "../../ops/surface.ts"
-import { todayYYYYMMDD } from "@shared/utils-sync/today"
+import { todayYYYYMMDD } from "@akasha/utils-sync/today"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 

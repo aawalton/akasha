@@ -18,7 +18,7 @@
     "@akasha/pages-core": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
-    "@shared/utils-sync": "workspace:*",
+    "@akasha/utils-sync": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

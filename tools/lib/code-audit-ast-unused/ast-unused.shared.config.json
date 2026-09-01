@@ -155,7 +155,7 @@
         "**/*.ts"
       ]
     },
-    "shared/utils-sync": {
+    "akasha/utils-sync": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
