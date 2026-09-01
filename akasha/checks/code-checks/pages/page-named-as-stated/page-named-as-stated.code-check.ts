@@ -52,6 +52,10 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "departure",
+      statement: "That question is asked of the index as the change leaves the index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That question is asked once for the whole run.",
     },
     {

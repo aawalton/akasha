@@ -1,8 +1,16 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { noPathsFiled } from "@akasha/indexes/testing"
+import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { shadowAsked } from "@akasha/pages-system/shadow"
-import { bodiesIn } from "@akasha/testing-system/bodying"
-import { change } from "../../../modules/check-scratch/check-scratch.module.code.ts"
+import { shadowAsked, shadowFor } from "@akasha/pages-system/shadow"
+import { bodiesIn, bytesOf } from "@akasha/testing-system/bodying"
+import {
+  change,
+  declaring,
+  landing,
+} from "../../../modules/check-scratch/check-scratch.module.code.ts"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   pageIn,
   pageNamedAsStated,
@@ -248,4 +256,56 @@ test("a page bound by a pattern rather than a name is refused", () => {
   const said = reasons("akasha/ledger.module.ts", body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("bound to no name")
+})
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const PROPERTY = "akasha/note.file-property.ts"
+
+const BESIDE = "akasha/ledger.module.note.ts"
+
+function rooted(fileProperties: readonly string[]): string {
+  const root = scratch.rootFor("akasha-page-named-")
+  noPathsFiled(root)
+  declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
+  declaring(root, "slug", { pageTypeSlug: "text-property", unique: "page-type" })
+  for (const one of fileProperties) {
+    declaring(root, one, { pageTypeSlug: "file-property", unique: null })
+  }
+  return root
+}
+
+function property(slug: string): Uint8Array {
+  return bytesOf(
+    [
+      `export const ${slug} = {`,
+      '  id: "01a04b5e-39e5-7fa4-be61-f3fa8d7d1737",',
+      '  pageTypeSlug: "file-property",',
+      `  slug: "${slug}",`,
+      `  propertySlug: "${slug}",`,
+      "} as const satisfies Page",
+      "",
+    ].join("\n")
+  )
+}
+
+function judged(over: Change): readonly Judged[] {
+  const cast = shadowFor(over)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return pageNamedAsStated(over, cast.shadow)
+}
+
+test("a file property the change introduces holds its file back from being judged a page", () => {
+  const root = rooted(["code"])
+  const bodies = { [PROPERTY]: property("note"), [BESIDE]: bytesOf(page("ledges", "domain")) }
+  expect(judged(landing(root, bodies))).toEqual([])
+})
+
+test("a file property the change takes away leaves its file judged as the page the file is", () => {
+  const root = rooted(["note"])
+  const bodies = { [PROPERTY]: null, [BESIDE]: bytesOf(page("ledges", "domain")) }
+  const said = judged(landing(root, bodies, { [PROPERTY]: property("note") }))
+  expect(said.map((one) => one.path)).toEqual([BESIDE, BESIDE])
 })

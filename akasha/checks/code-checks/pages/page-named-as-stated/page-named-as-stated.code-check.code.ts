@@ -1,8 +1,8 @@
 import { literalOf, parsedAs } from "@akasha/code-system/code-source"
-import { filePropertiesAt } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { namedIn } from "@akasha/pages-system/page-file-name"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
@@ -115,8 +115,8 @@ export function reasonsIn(
   return found
 }
 
-function refusalsIn(change: Change): readonly Judged[] {
-  const heldInAFile = filePropertiesAt(change.root)
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+  const heldInAFile = shadow.index.filePropertiesAt()
   return overEachFile(change, (given) => reasonsIn(given, heldInAFile))
 }
 
