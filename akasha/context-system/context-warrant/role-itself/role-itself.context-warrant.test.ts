@@ -6,7 +6,7 @@ import { scratchWorld } from "../../../command-system/scratching/scratching.modu
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
   pathsOf,
-  roleStanding,
+  roleListed,
   seatStanding,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
@@ -21,41 +21,41 @@ const AGENT = "01a0596c-0000-7000-8000-000000000002"
 
 test("a seat warrants the role it states", () => {
   const root = scratch.rootFor("akasha-role-itself-")
-  const held = roleStanding(root, "definer")
+  const held = roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "definer"`)
   expect(pathsOf(roleItself(root, at))).toEqual([held.path])
 })
 
 test("a role is named by its slug where the seat states it under a page type", () => {
   const root = scratch.rootFor("akasha-role-itself-")
-  const held = roleStanding(root, "definer")
+  const held = roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "role/definer"`)
   expect(pathsOf(roleItself(root, at))).toEqual([held.path])
 })
 
 test("a seat stating no role warrants none", () => {
   const root = scratch.rootFor("akasha-role-itself-")
-  roleStanding(root, "definer")
+  roleListed(root, "definer")
   const at = seatStanding(root, "one", `personaSlug: "akasha"`)
   expect(pathsOf(roleItself(root, at))).toEqual([])
 })
 
 test("a role whose page cannot be found is no warrant", () => {
   const root = scratch.rootFor("akasha-role-itself-")
-  roleStanding(root, "definer")
+  roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "ghost"`)
   expect(pathsOf(roleItself(root, at))).toEqual([])
 })
 
 test("only a seat warrants a role", () => {
   const root = scratch.rootFor("akasha-role-itself-")
-  const held = roleStanding(root, "definer")
+  const held = roleListed(root, "definer")
   expect(pathsOf(roleItself(root, held.path))).toEqual([])
 })
 
 test("a warrant carries the body standing at the role, and why it is owed", () => {
   const root = scratch.rootFor("akasha-role-itself-")
-  const definer = roleStanding(root, "definer")
+  const definer = roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "definer"`)
   const held = roleItself(root, at)[0]
   expect(held?.path).toBe(definer.path)
@@ -67,7 +67,7 @@ test("a warrant carries the body standing at the role, and why it is owed", () =
 
 test("a role whose body is gone warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-role-itself-")
-  const held = roleStanding(root, "definer")
+  const held = roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "definer"`)
   rmSync(join(root, held.path))
   expect(pathsOf(roleItself(root, at))).toEqual([])
@@ -76,7 +76,7 @@ test("a role whose body is gone warrants nothing of itself", () => {
 test("a role not read is refused, and the refusal says why it is owed", () => {
   const root = scratch.rootFor("akasha-role-itself-")
   warrantsStanding(root, ["role-itself"])
-  const held = roleStanding(root, "definer")
+  const held = roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "definer"`)
   const oid = standing(root, at, `export const one = { roleSlug: "definer" }\n`)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })

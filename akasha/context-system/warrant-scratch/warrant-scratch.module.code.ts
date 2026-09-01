@@ -74,7 +74,7 @@ export function personaListed(root: string, slug: string): Listed {
   )
 }
 
-export function roleStanding(root: string, slug: string): Listed {
+export function roleListed(root: string, slug: string): Listed {
   return pageStanding(root, `akasha/role-system/role/roles/${slug}.role.ts`, "role", slug)
 }
 

@@ -7,7 +7,7 @@ import { standing } from "../../../command-system/scratching/scratching.module.t
 import {
   pageTypeStanding,
   pathsOf,
-  roleStanding,
+  roleListed,
   seatStanding,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
@@ -33,7 +33,7 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
 test("a seat warrants the type of the role it states, and every type that one extends", () => {
   const root = scratch.rootFor("akasha-role-page-type-")
   const chain = typeWorld(root)
-  roleStanding(root, "definer")
+  roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "definer"`)
   expect(pathsOf(warrantsAt(root, at))).toEqual(chain)
 })
@@ -41,7 +41,7 @@ test("a seat warrants the type of the role it states, and every type that one ex
 test("a warrant says the seat is what owes the type", () => {
   const root = scratch.rootFor("akasha-role-page-type-")
   typeWorld(root)
-  roleStanding(root, "definer")
+  roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "definer"`)
   expect(warrantsAt(root, at)[0]?.owed).toBe(ROLE_TYPE)
 })
@@ -49,7 +49,7 @@ test("a warrant says the seat is what owes the type", () => {
 test("a seat stating no role warrants no type", () => {
   const root = scratch.rootFor("akasha-role-page-type-")
   typeWorld(root)
-  roleStanding(root, "definer")
+  roleListed(root, "definer")
   const at = seatStanding(root, "one", `personaSlug: "akasha"`)
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
@@ -57,7 +57,7 @@ test("a seat stating no role warrants no type", () => {
 test("a role whose page cannot be found warrants no type", () => {
   const root = scratch.rootFor("akasha-role-page-type-")
   typeWorld(root)
-  roleStanding(root, "definer")
+  roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "ghost"`)
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
@@ -65,14 +65,14 @@ test("a role whose page cannot be found warrants no type", () => {
 test("only a seat warrants the type of a role", () => {
   const root = scratch.rootFor("akasha-role-page-type-")
   typeWorld(root)
-  const at = roleStanding(root, "definer").path
+  const at = roleListed(root, "definer").path
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
 test("a type whose page is not there warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-role-page-type-")
   const chain = typeWorld(root)
-  roleStanding(root, "definer")
+  roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "definer"`)
   rmSync(join(root, chain[0] ?? ""))
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
@@ -82,7 +82,7 @@ test("a type not read is refused, and the refusal says the seat owes it", () => 
   const root = scratch.rootFor("akasha-role-page-type-")
   warrantsStanding(root, ["role-page-type"])
   const chain = typeWorld(root)
-  roleStanding(root, "definer")
+  roleListed(root, "definer")
   const at = seatStanding(root, "one", `roleSlug: "definer"`)
   const oid = standing(root, at, `export const one = { roleSlug: "definer" }\n`)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
