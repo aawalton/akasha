@@ -1,6 +1,6 @@
 import type { RecordProperty } from "@akasha/pages-system/record-property"
 import type { InterruptMessage } from "./interrupt-message.text-property.ts"
-import type { RequestedAction } from "./requested-action.text-property.ts"
+import type { RequestedAction } from "./requested-action.relation-property.ts"
 import type { RestartArmedAt } from "./restart-armed-at.instant-property.ts"
 
 export type Request = {
