@@ -1,0 +1,127 @@
+---
+id: 7e2e3e5f-7859-5a01-8852-9e571768e50e
+page-type-slug: story-chapter-royal-road
+title: "220 - An Introduction to Spell Constructs"
+slug: 0032-220-an-introduction-to-spell-constructs
+partOf: bunny-girl-evolution
+position: 32
+ownLength: 2777
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3894268/220-an-introduction-to-spell-constructs"
+royalRoadId: "3894268"
+---
+
+“He’s using you! How can you not see that?!”
+
+“I don’t want to hear it, Ber’Isel.”
+
+“Well, you need to!”
+
+“I don’t think I do. And if you bring it up again, I’m going to leave.”
+
+“He’s using you.”
+
+“Isel–”
+
+“I’m going to keep saying it until you listen.”
+
+“Then I’m done here. Goodbye.”
+
+“Are you really choosing Ur over your family?!”
+
+“I’m not choosing him over anything. You’re the one making ultimatums. And if you’re going to be like that, I’m not going to stay and listen to you shouting in my ear.”
+
+“Fine, then! Go running back to him, if that’s what you want. But don’t blame me when I say ‘I told you so!’”
+
+“Goodbye, Isel.”
+
+Elise woke in darkness, as usual. She had not quite figured out the art of making her spells last a long time. Her mana lanterns always burned out after just a couple hours, no matter how much mana she put into them before she went to sleep.
+
+She lay in her mossy bed for a few minutes, staring into darkness as she thought about her dream. It was not the first such dream she had experienced, but she still didn’t know what they meant. They all seemed to center around this Ber’Isel person, whoever she was, and most of them mentioned someone named Ur as well.
+
+Usually, all she could remember were the words. She definitely saw things that had gone with the conversations, but whenever she woke up, it was always so chaotic and disjointed that her mental image rapidly fell apart until she couldn’t even be sure if the ones talking were even people. Or if it had even been the same conversation, or just some other dream leaking in.
+
+After trying and failing to piece together any kind of context, she finally got up with a sigh, stretching her back and legs. A moment later, a floating orb of light appeared behind her as she hopped out of her mossy bed and started making her way downstairs. The light followed behind her, illuminating the black stone that the house she had claimed was made of.
+
+She paused at the entryway, reaching her senses outward. A single Abyssal Rat had spawned while she slept. Within her soul, she wrote a tally on the board she had set up, then got to work forming the spells she would need to take care of it. Only when they were ready did she finally step out of the house.
+
+The rat did not notice her at first, but when she set her spells to trigger, it did. It was far too late by then, though. The spell she had cast was the equivalent of her {Magic Missile} Skill, though she personally thought that the manual spell was better. It was one of the spells that Aya’Rhun’s crystal had walked her through, and since she had built it herself, she understood how the parts worked together, and could modify it at will.
+
+The base spell was identical to {Magic Missile} and Aya’Rhun’s crystal even called it the same thing, which made her suspect that the System had stolen her spell. It conjured a blunt, destructive mana projectile, used a small amount of aether to lock onto a target, then fired the projectile at the target. It was one of the most useful basic attack spells because of how difficult it was to miss, especially when aiming at living creatures. And since she had built the spell herself, she could modify the shape of the projectile, which she had taken to doing.
+
+As the rat turned to face her, three long, thin, needle-like projectiles flew toward it from over her shoulder, stabbing it once in the face and twice in the back. It died only a few seconds later, the fog of its soul essence entering Elise’s soul, getting captured by a large box that promptly compressed it to a more liquid form and added it to a growing pool where she had condensed the rest of the soul fog she gathered.
+
+At first, she had been drinking it, like she did with the wyrm’s essence during the Dungeon Competition. After about a week of that, though, she had realized that she actually had no idea what to do with it after drinking it. She felt it making her soul stronger, but she didn’t know what that actually did for her, or how exactly the System turned the essence into stats. She wasn’t even sure if she was supposed to be drinking it, or if there was something else she should do with it. Not wanting to break something in her soul, she decided that for now, she would just gather it and not do anything with it until she had a better idea of how things worked without the System.
+
+She stretched again, turning away from the bleeding corpse, and hopped over to her stone table. It was now marginally more intact than it had been. Her repairs were not perfect, but she had used some rudimentary earth magic to repair the chipped corners and fill in some of the cracks. It didn’t actually do anything for her either, since it was already stable, even in its damaged state, but she liked it being whole more than cracked, and it had been good practice.
+
+Once comfortably positioned in her usual spot, she started running through her magical warmups, performing a series of simple spells utilizing nearly every single casting technique the crystal had taught her. It took a long time—nearly an hour—to get through them all. Spellcasting manually was tedious, at least compared to System Skills. Elise had already respected Aya’Rhun greatly for her skill, but now that she knew more about how magic worked, her magic had reached the point of near deification. She had only seen the Mage in action once, but she had cast so many spells in an instant that Elise wondered if it would even be possible to reach that level. Even the most basic light spell still took her a couple seconds to cast fully.
+
+Elise had many theories about how it was possible. Maybe Aya’Rhun had multiple other selves in her soul helping her cast faster. Maybe she had whatever the non-System equivalent of the Intelligence stat basically maxed out. Maybe she was just that talented.
+
+Whatever the case, Elise still had a long way to go before getting anywhere near that level. Even now, combat with manual spells was basically out of the question. She could only do it via ambushes, since she needed so long to prepare her spells. She had to supplement with her pure aether abilities, which she wasn’t actually that much more proficient at, but it was easier to brute force it that way.
+
+When she finished her warmups, she was hungry and thirsty, so she took an hour or so to collect water, then switched to her full rabbit form to graze on some of the plants she was growing in the makeshift garden she planted near the dried-up pool. She was extremely grateful that she could subsist on a herbivore diet like this, because she really did not want to take any chances with the Abyssal meat.
+
+When she finished that, she summoned the crystal from Astrid’s star and quickly skipped to the very final part. After nearly a year in the caverns, she had gradually worked her way through every single spell contained within it, which was quite a few. It was surprisingly well-put-together for something that Aya’Rhun had thrown together in a few minutes. Elise suspected that she was running through some kind of standard course from the pre-System era.
+
+It had been tedious at times, but it was usually stimulating, and being able to see such visible progress with her spellcasting was a big incentive to stay on top of things. It had allowed her to turn what would have been a potentially decade-long endeavor into a single-year cram course. And now, today, she was finally going to be doing the last spell.
+
+She had looked it over multiple times already, trying to mentally piece it together. It was by far the most complicated spell in the entire crystal, and it contained elements of literally every single other one she had learned. Every element, every aether shape, and every shaping technique were necessary to make it work. It was so complicated that what the spell did was a complete mystery to her, but it was certainly worthy of being a final exam.
+
+Three times she ran through it until she was certain she had the entire thing memorized. Then, she took a deep breath and began.
+
+Her first attempt was a failure. She had gotten good at controlling the aether pulses precisely, but when she was working with so many different ones, even all her practice wasn’t enough to prevent mistakes. But she was used to failure, so unfazed, she went right back to work.
+
+Her second attempt was also a failure, and the third was interrupted by the soul storm coming from the cavern at the end of the tunnel beside her house. She had gone to investigate a couple times over the past year, but there were powerful monsters dwelling in the tunnel, the kind that burned through her aether trying to keep {Don’t Look At Me, Peasants!} active, so she decided it was best to save that trip for later.
+
+After weathering the storm, she returned to her practice, failing seven more times before finally reaching what she felt was near the end. The next two attempts, she got even further, and the one after that, she got to the very last step before it broke down. Cursing, she got right back to work, and this time, she finally made it to the end.
+
+She paused at the final step, taking a deep breath before finishing it off. Then, she focused on the crystal before her, setting it as the spell’s target, and released it to do its work.
+
+Compared to how much work she had put into making it work, the results of the spell were underwhelming. The crystal floated up, slowly rotating as magical effects occurred all around. Small balls of fire orbited it, water condensed out of the air and joined it, and she could feel a light breeze as the wind got kicked up. Elise recognized how objectively impressive the spell was from a technical standpoint, but as she watched, she couldn’t help but feel slightly disappointed.
+
+Then, there was a pop, and the crystal duplicated.
+
+“What?!” she said aloud.
+
+The miniature show continued, now with small explosions and sound effects that sounded vaguely like trumpets as the now-two crystals floated back down, landing gently on the ground in front of her. The old one looked the same as it had before, an icy blue prism, while the new one had a distinct green tint to differentiate it.
+
+Elise stared at it for a few seconds in shock, then cautiously reached out a paw to touch it. She mentally reached out to it in the same way that she accessed the other, and a moment later, she heard Aya’Rhun’s voice in her head.
+
+“Elise. If you are hearing this, that means you have successfully learned the foundational basics of magic. I do not know how long this took you. If it was within three years, then congratulations on your progress, and thank you for being an attentive student. If it was more than three years, then as your teacher, I must scold you for your lack of dedication. Magic is not something that can be mastered with such an attitude.”
+
+The Mage’s voice was monotone and completely devoid of emotion to the point that it almost sounded robotic.
+
+“Now that you understand the foundational basics of magic, you are ready to move on to the second module. This module will focus on spell constructs. Spell constructs are constructs contained within your soul that can automatically send aether pulses on your behalf, allowing you to cast spells more quickly and with less effort. You will be turning every spell that you learned in the first module into spell constructs, as well as learning how to make your own spell constructs for new spells.”
+
+Elise waited for more, but there was no more. That was the end of the recording. She could play it back if she wanted to, and she did exactly that to make sure she heard everything correctly. Then, she just stared at the new crystal, dumbfounded.
+
+“There are multiple modules…” she muttered. “How many are there?”
+
+She recovered a minute or so later, and returned to the second crystal, skimming over its contents. It seemed to be exactly what Aya’Rhun said it would be. It just went through all the spells she had already learned, and instructed her on how to turn them into constructs. There was no mention of further modules, or whatever the next step beyond constructs might have been, but now that she knew there was a second module, there was no reason to believe there wasn’t a third one when she finished this.
+
+“Well, no point in complaining about more magic lessons,” she said. “Charlotte might not be happy, though…”
+
+Charlotte’s own practice with her soul defenses had been going well, and Elise had been probing her during their dreamwalking meetings. She was pretty sure that Charlotte had reached the point of being able to survive the soul storm, but she didn’t want to have to handle babysitting and magic lessons, so she told the arachne to wait until she finished. Just the previous night, she had promised Charlotte it would only be a few more days, and then they could explore the underground city together.
+
+She would still bring Charlotte down with her, of course, but juggling caring for her and continuing Aya’Rhun’s lessons would be a little difficult. The company would probably be good for her, though, and even knowing she had more to deal with, she was still looking forward to it.
+
+She wanted to get at least one construct built before then, though, so she pushed those thoughts aside, and refocused on the task at hand.
+
+The crystal walked through the process of making constructs in great detail, and it was actually relatively easy for her. Most of it required soul shaping skills, but Elise had been practicing those for far longer than she had been practicing magic, and at this point it was second nature. Making the structure of the spell construct only took her a few minutes. Applying the spell to the construct was a bit more difficult, but even so, it only took her a half hour before she got it working.
+
+When she was certain she had it working, she returned her focus back to the real world, holding out her hand and activating the construct. Instantly, a small light appeared at the end of her paw. There was no wait, like there was when she manually shaped the spell. Experimentally, she flipped the construct on and off, and increased how much she put into it, watching as the light appeared and disappeared, and increased in decreased in intensity.
+
+Huh. It’s kinda like a Skill.
+
+At that thought, she froze. It wasn’t just “kinda like” a Skill. It was exactly like a Skill. The way she used this spell construct was the exact same way that she used her Skills. Her theory about {Magic Missile} being taken from Aya’Rhun suddenly had even more credibility than before. If she had a spell construct for that, and taught it to others, then the creators of the System could easily have taken it and turned it into a Skill.
+
+And if that was true, that meant that her aether-based Skills were also spell constructs. Not quite the same as the ones Aya’Rhun was teaching her, but still spell constructs that she could recreate on her own if she wanted.
+
+Or maybe, I don’t have to recreate them at all.
+
+She sank her consciousness back into her soul, gazing out at the vast web surrounding her soul. It had always looked impossibly complex to her, but now that she understood how spell constructs before the System worked, she wondered if it was actually as complex as it looked. Theoretically, somewhere in that web, the constructs for her Skills existed, and if they existed there, maybe she could take them out of the System and turn them into her own…
+
+Sorry Charlotte, she thought. But I might have to put you off for a couple more days…
