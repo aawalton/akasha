@@ -8,7 +8,6 @@ export const athenaSeatCommands = {
   personaSlug: "athena",
   parentSlug: "akasha-migration",
   intents: [
-    { statement: "A seat's name, id, page and launch are composed inside akasha." },
     { statement: "An agent holds no way to send a message to another seat." },
     { statement: "A seat is started through akasha." },
     { statement: "A seat is emptied and refilled through akasha." },
