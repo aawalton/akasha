@@ -22,14 +22,6 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "shared/design-system": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
     "shared/object-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
@@ -95,7 +87,7 @@
         "**/*.ts"
       ]
     },
-    "shared/status-bar-access": {
+    "akasha/status-bar-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

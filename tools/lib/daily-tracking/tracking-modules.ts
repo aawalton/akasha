@@ -12,7 +12,7 @@ export { askComposed } from "@shared/pages-query/ask"
 import { getEsoDayStrOffset as esoDayStrOffset } from "@akasha/day/eso-day"
 
 export { getEsoDayStr, getEsoDayStrOffset, getEsoDayWindow } from "@akasha/day/eso-day"
-export { cardioReading, readSessionPages } from "@shared/status-bar-access/readings"
+export { cardioReading, readSessionPages } from "@akasha/status-bar-access/session-reading"
 export { assertNever } from "@akasha/utils-narrow/assert-never"
 export const SOURCE_POINTS_FIELD = "sourcePoints"
 export { DEFAULT_GREEN_DAY_POINTS } from "../../../readouts/ring/ladder/ladder.ts"

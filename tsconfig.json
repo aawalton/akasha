@@ -7,9 +7,6 @@
       "path": "./shared/design-patterns"
     },
     {
-      "path": "./shared/design-system"
-    },
-    {
       "path": "./temper/shared-formula-framework"
     },
     {
@@ -101,9 +98,6 @@
     },
     {
       "path": "./shared/object-store"
-    },
-    {
-      "path": "./shared/status-bar-access"
     }
   ],
   "files": []

@@ -1,5 +1,5 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { getSafetyStoplightTiers } from "@shared/status-bar-access/stoplights"
+import { getSafetyStoplightTiers } from "@akasha/status-bar-access/stoplight-reading"
 import { READOUT_CACHE_CONTROL } from "@akasha/readout-system/readout-credential"
 import { guardReadout } from "~/readout-credential/lib/readout-credential.server"
 import type { Route } from "./+types/api.safety-level"

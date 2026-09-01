@@ -33,12 +33,6 @@
   "references": [
     {
       "path": "../../infra/k8s-types"
-    },
-    {
-      "path": "../../shared/design-system"
-    },
-    {
-      "path": "../../shared/status-bar-access"
     }
   ],
   "include": [
