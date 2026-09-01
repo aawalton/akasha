@@ -230,9 +230,9 @@ export async function createFilePage(args: CreateFilePageArgs, op = "createPage"
     undefined,
     backed.namedFor
   )
-  const standing = await locate(op, args.pageTypeSlug, backed.glob, undefined)
+  const located = await locate(op, args.pageTypeSlug, backed.glob, undefined)
   const name = naming.stated ? naming.name : naming.stem
-  const already = standing.find((one) => one.name === name)
+  const already = located.find((one) => one.name === name)
   if (already !== undefined) {
     const held = `\`${String(already.page.title ?? already.page.slug ?? name)}\`, id ${String(already.page.id)}`
     if (!naming.stated) {
