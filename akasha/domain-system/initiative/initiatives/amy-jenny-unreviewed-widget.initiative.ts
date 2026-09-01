@@ -52,7 +52,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Jenny's site deploys from akasha.",
       workingMemory:
-        "The relay intent is met and gone: it stands in akasha, and `monarch-relay-service` carries to both origins on two dash-led runs lines, neither stopping the other, proved by running. Her site holds and serves a carried reading as Alan's does, proved over real HTTP in 9 tests. Alan's pod is deployed at 283599af2e. Left here: READING_RELAY_SECRET into her sops, then her deploy, then the guardRingReadout bypass arm goes once she has stopped pulling.",
+        "Deployed and proved live. READING_RELAY_SECRET stands in her sops at the workstation's value, moved by `sops edit` and checked by digest, never printed. Her pod runs b4289a8e7a: the relay route 401s without the secret and 400s with it on a body that is no reading, and her tile route answers 503 No reading in 0.23s, its build naming neither alanwalton.com nor SMILINGJENNY_RELAY_SECRET. The bypass arm is gone and Alan runs f25c8ffc, where that secret answers 401 rather than 503.",
     },
     { statement: "Jenny's unreviewed transaction iOS widget works." },
   ],
