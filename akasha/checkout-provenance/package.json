@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/checkout-provenance",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./provenance": "./provenance/provenance.module.code.ts"
+  },
+  "dependencies": {
+    "@infra/git-porcelain": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
