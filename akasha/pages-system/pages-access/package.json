@@ -32,7 +32,7 @@
     "@akasha/pages-system": "workspace:*",
     "@akasha/named-for": "workspace:*",
     "@akasha/pages-url": "workspace:*",
-    "@shared/file-page-identity": "workspace:*",
+    "@akasha/file-page-identity": "workspace:*",
     "@shared/pages-query": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@shared/utils-narrow": "workspace:*",

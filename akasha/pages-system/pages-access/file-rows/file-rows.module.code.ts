@@ -1,4 +1,4 @@
-import { idOfFilePage, slugOfFilePage } from "@shared/file-page-identity"
+import { idOfFilePage, slugOfFilePage } from "@akasha/file-page-identity"
 import type { QueryRow } from "@shared/pages-query/answer-schema"
 import { isRecord } from "@shared/utils-narrow/is-record"
 import { z } from "zod"
