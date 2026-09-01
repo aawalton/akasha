@@ -2,5 +2,8 @@
   "name": "@akasha/domain-system",
   "private": true,
   "type": "module",
-  "exports": {}
+  "exports": {
+    "./domain": "./domain/domain.page-type.ts",
+    "./persona-slug": "./initiative/properties/persona-slug.relation-property.ts"
+  }
 }

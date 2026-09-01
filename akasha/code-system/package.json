@@ -11,7 +11,12 @@
     "./code-source": "./code-source/code-source.module.code.ts",
     "./code-specifier": "./code-specifier/code-specifier.module.code.ts",
     "./code-tests": "./code-tests/code-tests.module.code.ts",
-    "./code-typing": "./code-typing/code-typing.module.code.ts"
+    "./code-typing": "./code-typing/code-typing.module.code.ts",
+    "./ios-app": "./ios-app/ios-app.page-type.ts",
+    "./module": "./module/module.page-type.ts",
+    "./module/test": "./module/properties/test.file-property.ts",
+    "./shell-script": "./shell-script/shell-script.page-type.ts",
+    "./workspace-package": "./workspace-package/workspace-package.page-type.ts"
   },
   "dependencies": {
     "typescript": "5.9.3"

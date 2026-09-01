@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./graph-asking": "./graph-asking/graph-asking.module.code.ts"
+    "./graph-asking": "./graph-asking/graph-asking.module.code.ts",
+    "./import-edge": "./graph-edge/graph-edges/import-edge.graph-edge.ts"
   }
 }
