@@ -46,13 +46,19 @@ export function buildReleaseMacBuildLock(app: MobileApp): string {
   ].join("\n")
 }
 
-export function buildClaimBuildNumber(opts: {
+// A number is CHOSEN before the archive, because the archive compiles it in as
+// CURRENT_PROJECT_VERSION, and RESERVED only after the upload that spends it.
+// A run that dies between the two — a failed archive, a failed stamp gate, a
+// refused upload — leaves the durable counter where it found it, so the next run
+// picks the same number rather than skipping it (#14174: build 196 was burned by
+// an attempt that never uploaded).
+export function buildChooseBuildNumber(opts: {
   readonly app: MobileApp
   readonly explicit?: number
   readonly ascFloor: number
 }): string {
   const lines: string[] = [
-    "# ── claim the TestFlight build number (under the mac build lock, #14174) ──",
+    "# ── choose the TestFlight build number (under the mac build lock, #14174) ──",
     `_counter="$(cat "${opts.app.macBuildNumberFile}" 2>/dev/null || echo 0)"`,
     "case \"$_counter\" in ''|*[!0-9]*) _counter=0 ;; esac",
     `_asc_floor=${opts.ascFloor}`,
@@ -60,20 +66,34 @@ export function buildClaimBuildNumber(opts: {
   if (opts.explicit === undefined) {
     lines.push(
       'if [ "$_counter" -gt "$_asc_floor" ]; then _base="$_counter"; else _base="$_asc_floor"; fi',
-      "BUILD_NUMBER=$(( _base + 1 ))",
-      `echo "$BUILD_NUMBER" > "${opts.app.macBuildNumberFile}"`
+      "BUILD_NUMBER=$(( _base + 1 ))"
     )
   } else {
-    lines.push(
-      `BUILD_NUMBER=${opts.explicit}`,
-      `if [ "$_counter" -lt "$BUILD_NUMBER" ]; then echo "$BUILD_NUMBER" > "${opts.app.macBuildNumberFile}"; fi`
-    )
+    lines.push(`BUILD_NUMBER=${opts.explicit}`)
   }
   lines.push(
     `echo "${BUILD_NUMBER_MARKER_PREFIX}$BUILD_NUMBER"`,
-    'echo "[build-number] claimed CURRENT_PROJECT_VERSION=$BUILD_NUMBER (counter was $_counter, asc floor $_asc_floor)"'
+    'echo "[build-number] chose CURRENT_PROJECT_VERSION=$BUILD_NUMBER (counter is $_counter, asc floor $_asc_floor) — the counter advances only once this number is uploaded"'
   )
   return lines.join("\n")
+}
+
+// Spending the number: called only where an upload has already succeeded, so the
+// durable counter records what App Store Connect actually holds. Re-reads the
+// file rather than trusting the value read at choosing time, and never lowers it.
+export function buildReserveBuildNumber(app: MobileApp): string {
+  return [
+    "# ── the upload succeeded, so the number is now spent: advance the durable counter ──",
+    `_reserved="$(cat "${app.macBuildNumberFile}" 2>/dev/null || echo 0)"`,
+    "case \"$_reserved\" in ''|*[!0-9]*) _reserved=0 ;; esac",
+    `if [ "$_reserved" -lt "$BUILD_NUMBER" ]; then`,
+    `  mkdir -p "$(dirname "${app.macBuildNumberFile}")"`,
+    `  echo "$BUILD_NUMBER" > "${app.macBuildNumberFile}"`,
+    '  echo "[build-number] reserved $BUILD_NUMBER (counter was $_reserved) — spent by a completed upload"',
+    "else",
+    '  echo "[build-number] counter already at $_reserved, at or past $BUILD_NUMBER — left alone"',
+    "fi",
+  ].join("\n")
 }
 
 export function parseAssignedBuildNumber(out: string): number | undefined {

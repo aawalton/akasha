@@ -2,8 +2,9 @@ import { ALTOOL_MARKERS, buildUploadApp, buildValidateApp } from "./altool"
 import { iosAppDir, type MobileApp, macWwwStagingDir, nativeShellDir } from "./apps"
 import {
   buildAcquireMacBuildLock,
-  buildClaimBuildNumber,
+  buildChooseBuildNumber,
   buildReleaseMacBuildLock,
+  buildReserveBuildNumber,
 } from "./build-serialization"
 import { buildStampGate } from "./build-stamp"
 import { buildExportOptionsPlist } from "./export-options"
@@ -11,6 +12,7 @@ import {
   ascAuthArgs,
   buildKeychainUnlock,
   buildNativeSync,
+  buildOnCleanup,
   buildRunCheckout,
   CHECKOUT_ROOT,
   SCRIPT_HEADER,
@@ -65,6 +67,10 @@ export function buildTestflightDeployScript(opts: {
     buildKeychainUnlock(opts.password),
     buildLoginOnlyKeychainScope(),
     buildAcquireMacBuildLock(opts.app),
+    // The lock outlives a failed run otherwise: the success path releases it, and
+    // a run that dies at the archive leaves the directory standing until the next
+    // run judges it stale. Released on the way out however the run ends.
+    buildOnCleanup(`rm -rf "${opts.app.macBuildLockDir}" 2>/dev/null || true`),
     buildRunCheckout(opts.cutCommit),
   ]
   if (opts.sync) {
@@ -84,7 +90,7 @@ export function buildTestflightDeployScript(opts: {
   sections.push(
     buildEnsureAppStoreProfile(opts.app),
     `cd ${iosAppDir(opts.app, CHECKOUT_ROOT)}`,
-    buildClaimBuildNumber({ app: opts.app, explicit: opts.buildNumber, ascFloor: opts.ascFloor }),
+    buildChooseBuildNumber({ app: opts.app, explicit: opts.buildNumber, ascFloor: opts.ascFloor }),
     archive,
     `cat > ${plistPath} <<PLIST`,
     buildExportOptionsPlist(opts.app),
@@ -94,12 +100,16 @@ export function buildTestflightDeployScript(opts: {
     ...buildStampGate({ ipa, expectedCommit: opts.cutCommit }),
     ...(opts.noUpload
       ? [
+          // A dry run validates and uploads nothing, so it spends no number:
+          // the counter is left where it stood and the next run picks this
+          // same number.
           ...buildValidateApp(ipa),
           buildReleaseMacBuildLock(opts.app),
           'echo "MOBILE_DEPLOY_TESTFLIGHT_DRYRUN_OK"',
         ]
       : [
           ...buildUploadApp(ipa),
+          buildReserveBuildNumber(opts.app),
           buildReleaseMacBuildLock(opts.app),
           `echo "${ALTOOL_MARKERS.uploadOk}"`,
         ])
