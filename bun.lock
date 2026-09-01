@@ -141,6 +141,9 @@
     "akasha/context-system": {
       "name": "@akasha/context-system",
     },
+    "akasha/design/design-badges": {
+      "name": "@akasha/design-badges",
+    },
     "akasha/domain-system": {
       "name": "@akasha/domain-system",
     },
@@ -185,6 +188,12 @@
     },
     "akasha/testing-system": {
       "name": "@akasha/testing-system",
+    },
+    "akasha/voice-core": {
+      "name": "@alanwalton/voice-core",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
     },
     "alanwalton/atlas-web": {
       "name": "@alanwalton/atlas-web",
@@ -352,6 +361,7 @@
       "name": "@alanwalton/health-samples-access",
       "version": "0.1.0",
       "dependencies": {
+        "@shared/day": "workspace:*",
         "@shared/recurrence": "workspace:*",
       },
       "devDependencies": {
@@ -388,6 +398,7 @@
       "name": "@alanwalton/location-traces-access",
       "version": "0.1.0",
       "dependencies": {
+        "@shared/day": "workspace:*",
         "@shared/recurrence": "workspace:*",
       },
       "devDependencies": {
@@ -487,17 +498,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "alanwalton/voice-core": {
-      "name": "@alanwalton/voice-core",
-      "version": "0.1.0",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "alanwalton/web": {
       "name": "@alanwalton/web",
       "version": "0.1.0",
@@ -511,6 +511,7 @@
         "@collections/litrpg": "workspace:*",
         "@fontsource-variable/literata": "^5.2.5",
         "@infra/k8s-types": "workspace:*",
+        "@shared/day": "workspace:*",
         "@shared/design-forms": "workspace:*",
         "@shared/design-layout": "workspace:*",
         "@shared/design-patterns": "workspace:*",
@@ -725,6 +726,7 @@
       "name": "ops",
       "version": "0.1.0",
       "dependencies": {
+        "@shared/design-tokens": "workspace:*",
         "zod": "^4.4.3",
       },
       "devDependencies": {
@@ -793,6 +795,9 @@
     "infra/cluster-checks": {
       "name": "@infra/cluster-checks",
       "version": "0.1.0",
+      "dependencies": {
+        "@shared/design-tokens": "workspace:*",
+      },
       "devDependencies": {
         "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
@@ -1168,6 +1173,14 @@
         "@types/bun": "^1.3.9",
       },
     },
+    "shared/day": {
+      "name": "@shared/day",
+      "version": "0.1.0",
+      "devDependencies": {
+        "@types/bun": "^1.3.9",
+        "typescript": "^5.8.3",
+      },
+    },
     "shared/design-badges": {
       "name": "@shared/design-badges",
       "version": "0.1.0",
@@ -1200,6 +1213,7 @@
       "name": "@shared/design-forms",
       "version": "0.1.0",
       "dependencies": {
+        "@shared/day": "workspace:*",
         "@shared/design-primitives": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "chrono-node": "^2.9.0",
@@ -1504,6 +1518,14 @@
         "typescript": "^5.8.3",
       },
     },
+    "shared/named-for": {
+      "name": "@shared/named-for",
+      "version": "0.1.0",
+      "devDependencies": {
+        "@types/bun": "^1.3.9",
+        "typescript": "^5.8.3",
+      },
+    },
     "shared/notifications": {
       "name": "@shared/notifications",
       "version": "0.1.0",
@@ -1547,6 +1569,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@shared/errors-core": "workspace:*",
+        "@shared/named-for": "workspace:*",
         "@shared/pages-core": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/supabase-database": "workspace:*",
@@ -1562,6 +1585,8 @@
       "name": "@shared/pages-core",
       "version": "0.1.0",
       "dependencies": {
+        "@shared/day": "workspace:*",
+        "@shared/pages-system": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/supabase-database": "workspace:*",
@@ -1573,11 +1598,23 @@
         "typescript": "^5.8.3",
       },
     },
+    "shared/pages-system": {
+      "name": "@shared/pages-system",
+      "version": "0.1.0",
+      "dependencies": {
+        "yaml": "^2.8.1",
+      },
+      "devDependencies": {
+        "@types/bun": "^1.3.9",
+        "typescript": "^5.8.3",
+      },
+    },
     "shared/pages-ui": {
       "name": "@shared/pages-ui",
       "version": "0.1.0",
       "dependencies": {
         "@alanwalton/voice-core": "workspace:*",
+        "@shared/day": "workspace:*",
         "@shared/design-forms": "workspace:*",
         "@shared/design-layout": "workspace:*",
         "@shared/design-patterns": "workspace:*",
@@ -1690,6 +1727,7 @@
       "name": "@shared/recurrence",
       "version": "0.1.0",
       "dependencies": {
+        "@shared/day": "workspace:*",
         "rrule": "^2.8.1",
         "zod": "^4.3.6",
       },
@@ -1933,6 +1971,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@infra/k8s-types": "workspace:*",
+        "@shared/day": "workspace:*",
         "@shared/design-primitives": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
@@ -3258,6 +3297,7 @@
       "name": "@temper/scripts",
       "version": "0.1.0",
       "dependencies": {
+        "@shared/day": "workspace:*",
         "@shared/pages-access": "workspace:*",
         "@shared/pages-core": "workspace:*",
         "@shared/recurrence": "workspace:*",
@@ -3775,6 +3815,7 @@
       "name": "@temper/shared-formula-framework",
       "version": "0.1.0",
       "dependencies": {
+        "@shared/day": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
       },
@@ -4016,6 +4057,8 @@
 
     "@akasha/context-system": ["@akasha/context-system@workspace:akasha/context-system"],
 
+    "@akasha/design-badges": ["@akasha/design-badges@workspace:akasha/design/design-badges"],
+
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
 
     "@akasha/file-system": ["@akasha/file-system@workspace:akasha/file-system"],
@@ -4088,7 +4131,7 @@
 
     "@alanwalton/tower-engine": ["@alanwalton/tower-engine@workspace:alanwalton/tower-engine"],
 
-    "@alanwalton/voice-core": ["@alanwalton/voice-core@workspace:alanwalton/voice-core"],
+    "@alanwalton/voice-core": ["@alanwalton/voice-core@workspace:akasha/voice-core"],
 
     "@alanwalton/web": ["@alanwalton/web@workspace:alanwalton/web"],
 
@@ -4632,6 +4675,8 @@
 
     "@shared/cli": ["@shared/cli@workspace:shared/cli"],
 
+    "@shared/day": ["@shared/day@workspace:shared/day"],
+
     "@shared/design-badges": ["@shared/design-badges@workspace:shared/design-badges"],
 
     "@shared/design-forms": ["@shared/design-forms@workspace:shared/design-forms"],
@@ -4654,6 +4699,8 @@
 
     "@shared/monarch-categorization-access": ["@shared/monarch-categorization-access@workspace:shared/monarch-categorization-access"],
 
+    "@shared/named-for": ["@shared/named-for@workspace:shared/named-for"],
+
     "@shared/notifications": ["@shared/notifications@workspace:shared/notifications"],
 
     "@shared/object-store": ["@shared/object-store@workspace:shared/object-store"],
@@ -4663,6 +4710,8 @@
     "@shared/pages-access": ["@shared/pages-access@workspace:shared/pages-access"],
 
     "@shared/pages-core": ["@shared/pages-core@workspace:shared/pages-core"],
+
+    "@shared/pages-system": ["@shared/pages-system@workspace:shared/pages-system"],
 
     "@shared/pages-ui": ["@shared/pages-ui@workspace:shared/pages-ui"],
 
