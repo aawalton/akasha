@@ -1,5 +1,5 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { assertNever } from "../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { CategoryRule, ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"
 import { getActionLabel } from "./action-options"
 import type { RuleSortField } from "./inventory-filter-types"

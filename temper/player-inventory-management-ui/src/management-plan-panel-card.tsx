@@ -8,7 +8,7 @@ import { Text } from "@akasha/design-primitives/text-body"
 import { ItemRow } from "@akasha/design-patterns/item-row"
 import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { buildNodePath } from "@akasha/design-patterns/path"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"
 import type {
   ActionGroup,

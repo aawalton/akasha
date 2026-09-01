@@ -19,9 +19,6 @@
   "references": [
     {
       "path": "../game-companions-core"
-    },
-    {
-      "path": "../../shared/utils-narrow"
     }
   ]
 }

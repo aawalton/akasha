@@ -1,6 +1,6 @@
 import { upsertPage } from "@akasha/pages-access/upsert"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
-import { asRecord } from "../../../../shared/utils-narrow/src/as-record"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { companionRoles } from "@temper/game-companions-core/generated/temper-companion-role.generated"
 import type { CompanionState } from "@temper/game-companions-core/companion-types"

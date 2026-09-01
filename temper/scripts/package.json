@@ -8,7 +8,7 @@
     "@akasha/supabase-client": "workspace:*",
     "@akasha/supabase-server": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@temper/catalog-core": "workspace:*",
     "@temper/game-characters-champion-points": "workspace:*",
     "@temper/game-characters-character": "workspace:*",

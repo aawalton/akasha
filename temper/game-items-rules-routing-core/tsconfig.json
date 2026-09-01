@@ -11,9 +11,6 @@
   },
   "references": [
     {
-      "path": "../../shared/utils-narrow"
-    },
-    {
       "path": "../game-items-core"
     },
     {

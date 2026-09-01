@@ -1,4 +1,4 @@
-import { requireGet } from "../../../../shared/utils-narrow/src/require-get"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import { convertRatingToChance } from "@temper/shared-formula-framework/rating-utils"
 import { type CompanionSkillId, companionSkills } from "../skills/companion-skills-data"
 import { type CompanionMetricValue, companionMetrics } from "../stats/companion-metrics.generated"

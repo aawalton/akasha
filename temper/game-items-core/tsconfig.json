@@ -29,9 +29,6 @@
       "path": "../shared-engine"
     },
     {
-      "path": "../../shared/utils-narrow"
-    },
-    {
       "path": "../shared-saved-variables"
     }
   ],

@@ -1,6 +1,6 @@
 import { upsertPage } from "@akasha/pages-access/upsert"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
-import { asRecord } from "../../../../shared/utils-narrow/src/as-record"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 import type { ChampionPointId } from "@temper/game-characters-champion-points/champion-points-source"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { type SkillLineId, skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"

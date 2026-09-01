@@ -17,9 +17,6 @@
       "path": "../game-companions-core"
     },
     {
-      "path": "../../shared/utils-narrow"
-    },
-    {
       "path": "../shared-saved-variables"
     }
   ],

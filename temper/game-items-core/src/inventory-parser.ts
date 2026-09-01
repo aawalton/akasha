@@ -1,4 +1,4 @@
-import { asRecord } from "../../../shared/utils-narrow/src/as-record"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 import { stripEsoNameSuffix } from "@temper/shared-engine/utils/eso-name"
 import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
 import { readFirstAccountWide } from "@temper/shared-saved-variables/saved-variables-account-wide"

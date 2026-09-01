@@ -1,4 +1,4 @@
-import { assertNever } from "../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { computeValue } from "@temper/game-items-core/inventory-display-value"
 import type { InventoryDatabase, InventoryItemData } from "@temper/game-items-core/inventory-types"
 import { getLocationDisplayName } from "@temper/game-items-core/location-classify"

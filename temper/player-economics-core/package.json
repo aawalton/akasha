@@ -1,7 +1,7 @@
 {
   "name": "@temper/player-economics-core",
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@temper/game-companions-core": "workspace:*",
     "@temper/game-items-core": "workspace:*",
     "@temper/game-trading-pricing": "workspace:*"

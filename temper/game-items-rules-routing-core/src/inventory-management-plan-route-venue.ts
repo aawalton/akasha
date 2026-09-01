@@ -1,4 +1,4 @@
-import { assertNever } from "../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { LocationTypeId } from "@temper/game-items-core/location-type-data"
 import type {
   ItemAction,

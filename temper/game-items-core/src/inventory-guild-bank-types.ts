@@ -1,4 +1,4 @@
-import { isRecord } from "../../../shared/utils-narrow/src/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 
 export interface ManagedGuildBankSettings {
   managedGuildBanks: readonly string[]

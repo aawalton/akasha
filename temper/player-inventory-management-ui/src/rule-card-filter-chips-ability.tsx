@@ -2,7 +2,7 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { CAN_COMPANION_EQUIP_OPTIONS } from "@temper/game-items-rules-core/filters/can-companion-equip-filter"
 import { CAN_GIVE_MAX_REWARDS_OPTIONS } from "@temper/game-items-rules-core/filters/can-give-max-rewards-filter"
 import { CAN_INSPIRE_OPTIONS } from "@temper/game-items-rules-core/filters/can-inspire-filter"

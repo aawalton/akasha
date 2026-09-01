@@ -1,4 +1,4 @@
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { targetArmor } from "@temper/game-characters-character/target-armor-data"
 import { convertRatingToChance } from "@temper/shared-formula-framework/rating-utils"
 import type { CompanionState } from "../companion-types"

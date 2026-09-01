@@ -2,7 +2,7 @@
 
 import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Text } from "@akasha/design-primitives/text-body"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { ReactNode } from "react"
 import {
   DEFAULT_PRICING_PLATFORM,

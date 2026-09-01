@@ -24,9 +24,6 @@
     },
     {
       "path": "../shared-engine"
-    },
-    {
-      "path": "../../shared/utils-narrow"
     }
   ],
   "include": [

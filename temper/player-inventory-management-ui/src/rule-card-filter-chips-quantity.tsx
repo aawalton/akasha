@@ -3,7 +3,7 @@
 import { Badge } from "@akasha/design-badges/badge"
 import { EditableNumber } from "@akasha/design-forms/editable-number"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { ALL_STOCKED_OPTIONS } from "@temper/game-items-rules-core/filters/all-stocked-filter"
 import { KEEP_QUANTITY_OPTIONS } from "@temper/game-items-rules-core/filters/keep-quantity-filter"
 import { STOCK_THRESHOLD_OPTIONS } from "@temper/game-items-rules-core/filters/stock-threshold-filter"

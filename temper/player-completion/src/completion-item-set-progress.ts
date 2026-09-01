@@ -1,4 +1,4 @@
-import { requireGet } from "../../../shared/utils-narrow/src/require-get"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import type { SetCategoryId } from "@temper/game-characters-equipment/sets/set-categories-data"
 import { setCategories } from "@temper/game-characters-equipment/sets/set-categories-data"
 import { setsAll } from "@temper/game-characters-equipment/sets/sets-all-data"

@@ -1,5 +1,5 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { requireFirst } from "@shared/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { classes } from "@temper/game-characters-classes/classes-data"
 import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"
 import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"

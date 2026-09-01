@@ -1,4 +1,4 @@
-import { isObjectRecord } from "../../../shared/utils-narrow/src/is-object-record"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { CompletionCharacterInput } from "@temper/game-items-rules-core/rule-matcher-context-types"
 

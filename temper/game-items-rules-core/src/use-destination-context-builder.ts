@@ -1,4 +1,4 @@
-import { assertNever } from "../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import {
   ESO_ITEMTYPE_CRAFTED_ABILITY_SCRIPT,
   ESO_ITEMTYPE_RECIPE,

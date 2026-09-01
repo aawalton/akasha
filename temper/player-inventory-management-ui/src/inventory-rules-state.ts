@@ -1,4 +1,4 @@
-import { isRecord } from "../../../shared/utils-narrow/src/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { migrateControlledRules } from "@temper/game-items-rules-core/inventory-rule-controlled"
 import { createDefaultRuleSettings } from "@temper/game-items-rules-core/inventory-rule-settings"
 import type { InventoryRuleSettings } from "@temper/game-items-rules-core/inventory-rule-types"

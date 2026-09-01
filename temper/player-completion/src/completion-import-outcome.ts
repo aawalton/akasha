@@ -1,4 +1,4 @@
-import { asRecord } from "../../../shared/utils-narrow/src/as-record"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 import { deepForward } from "./completion-merge-forward"
 
 export type CompletionImportOutcome = "created" | "updated" | "unchanged" | "preserved"

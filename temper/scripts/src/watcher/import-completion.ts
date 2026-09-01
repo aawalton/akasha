@@ -1,7 +1,7 @@
 import { getPages } from "@akasha/pages-access/get"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
-import { asRecord } from "../../../../shared/utils-narrow/src/as-record"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 import type {
   AccountCompletion,
   CharacterCompletion,

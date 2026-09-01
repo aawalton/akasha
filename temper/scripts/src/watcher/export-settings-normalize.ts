@@ -1,4 +1,4 @@
-import { asRecord } from "../../../../shared/utils-narrow/src/as-record"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 import { ALL_DESTRUCTIVE_ACTIONS } from "@temper/game-items-core/inventory-safety-types"
 
 export function toLoggingSettings(value: unknown): {

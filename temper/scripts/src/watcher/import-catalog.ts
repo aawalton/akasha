@@ -1,6 +1,6 @@
 import { collectPages } from "@akasha/pages-access/iterate"
 import { patchPageById } from "@akasha/pages-access/patch"
-import { asRecord } from "../../../../shared/utils-narrow/src/as-record"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 import type { DomainKey } from "@temper/catalog-core/domain-keys"
 import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
 

@@ -1,4 +1,4 @@
-import { requireFirst } from "../../../shared/utils-narrow/src/require-first"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import type { CharacterQuestProgress, QuestZoneProgress } from "./completion-ui-types"
 
 export interface AccountQuestUnionProgress {

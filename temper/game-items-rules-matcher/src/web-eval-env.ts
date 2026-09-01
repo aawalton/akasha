@@ -1,4 +1,4 @@
-import { assertNever } from "../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { findCooldownGroup } from "@temper/game-items-core/cooldown-groups"
 import { isCraftingRankBelowCap } from "@temper/game-items-core/crafting-passive-ranks"
 import { signatureMatchesItem } from "@temper/game-items-core/equipment-signature-matcher"

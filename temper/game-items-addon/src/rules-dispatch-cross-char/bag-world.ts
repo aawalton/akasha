@@ -1,5 +1,5 @@
 import { afterEach, beforeEach } from "bun:test"
-import { requireMatchPositional } from "../../../../shared/utils-narrow/src/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 
 import type { CompiledRuleConfig, ResolvedEntry } from "../generated/rule-types.generated"

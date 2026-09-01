@@ -1,5 +1,5 @@
-import { isRecord } from "../../../shared/utils-narrow/src/is-record"
-import { joinPath } from "../../../shared/utils-narrow/src/join-path"
+import { isRecord } from "@akasha/utils-narrow/is-record"
+import { joinPath } from "@akasha/utils-narrow/join-path"
 import type {
   AccountCompletion,
   CharacterCompletion,

@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { TEMPER_ROTATION_BREAKDOWN_ROWS } from "./generated/temper-rotation-breakdown-row.generated"
 
 export interface RotationBreakdownRowTemplate {

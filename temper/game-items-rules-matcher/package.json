@@ -1,19 +1,19 @@
 {
   "name": "@temper/game-items-rules-matcher",
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*",
-    "@temper/game-items-alchemy": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
+    "@temper/game-characters-equipment": "workspace:*",
+    "@temper/game-characters-skill-lines": "workspace:*",
+    "@temper/game-characters-skills-morphs-access": "workspace:*",
     "@temper/game-codec": "workspace:*",
     "@temper/game-companions-core": "workspace:*",
-    "@temper/shared-engine": "workspace:*",
-    "@temper/shared-formula-framework": "workspace:*",
-    "@temper/game-characters-equipment": "workspace:*",
+    "@temper/game-items-alchemy": "workspace:*",
     "@temper/game-items-core": "workspace:*",
     "@temper/game-items-rules-core": "workspace:*",
     "@temper/game-items-rules-eval": "workspace:*",
-    "@temper/game-characters-skill-lines": "workspace:*",
-    "@temper/game-characters-skills-morphs-access": "workspace:*",
+    "@temper/shared-engine": "workspace:*",
+    "@temper/shared-formula-framework": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

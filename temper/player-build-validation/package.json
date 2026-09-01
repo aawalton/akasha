@@ -1,7 +1,7 @@
 {
   "name": "@temper/player-build-validation",
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",
     "@temper/game-codec": "workspace:*",

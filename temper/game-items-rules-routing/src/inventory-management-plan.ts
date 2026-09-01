@@ -1,4 +1,4 @@
-import { requireGet } from "../../../shared/utils-narrow/src/require-get"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
 import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
 import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventory-rule-compiler-types"

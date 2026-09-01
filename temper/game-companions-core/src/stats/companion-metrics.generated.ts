@@ -8,7 +8,7 @@
  * data structure directly from named exports.
  */
 
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { RatingSurplusInfo } from "@temper/shared-formula-framework/rating-utils"
 import type { SourceCategoryId } from "@temper/shared-formula-framework/source-categories-data"
 import type { CompanionMetricId } from "./companion-metric-ids.generated"

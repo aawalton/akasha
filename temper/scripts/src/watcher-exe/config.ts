@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { addonsDir as resolveAddonsDir, savedVarsDir as resolveSavedVarsDir } from "../../../shared-foundation-misc-eso-paths-resolve/src/eso-paths-resolve"
 import type { FileType } from "./dispatch"
 

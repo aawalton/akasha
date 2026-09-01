@@ -1,4 +1,4 @@
-import { assertNever } from "../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { CharacterId, ItemKey, UseDestinationContext } from "./use-destination-types"
 
 export function hashItemKey(itemKey: ItemKey): string {

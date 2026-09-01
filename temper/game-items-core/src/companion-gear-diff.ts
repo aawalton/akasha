@@ -1,4 +1,4 @@
-import { capitalize } from "@shared/utils-narrow/capitalize"
+import { capitalize } from "@akasha/utils-narrow/capitalize"
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
 import { companionArmorSlots } from "@temper/game-companions-core/equipment/companion-armor-slots-data"

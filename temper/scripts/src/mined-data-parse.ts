@@ -1,4 +1,4 @@
-import { asRecord } from "../../../shared/utils-narrow/src/as-record"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 import type { MinedItemEntry, MinedQuestEntry } from "@temper/shared-capture-datamining-core/types"
 import {
   minedItemSchema,

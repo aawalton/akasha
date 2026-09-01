@@ -1,4 +1,4 @@
-import { asRecord } from "../../../shared/utils-narrow/src/as-record"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 
 export function parseOpenCooldowns(raw: unknown): Record<string, number> | undefined {
   const obj = asRecord(raw)

@@ -1,4 +1,4 @@
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { runExportCompanionBuilds } from "../watcher/export-companion-builds"
 import { runExportSettings } from "../watcher/export-settings"
 import { runExportTasks } from "../watcher/export-tasks"

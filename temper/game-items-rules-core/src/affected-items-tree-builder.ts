@@ -1,4 +1,4 @@
-import { requireFirst } from "../../../shared/utils-narrow/src/require-first"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { classifyItem } from "@temper/game-items-core/classify-item"
 import { computeValue } from "@temper/game-items-core/inventory-display-value"
 import { classifyLocation } from "@temper/game-items-core/inventory-grouping"

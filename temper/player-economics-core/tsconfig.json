@@ -18,9 +18,6 @@
     },
     {
       "path": "../game-trading-pricing"
-    },
-    {
-      "path": "../../shared/utils-narrow"
     }
   ],
   "include": [

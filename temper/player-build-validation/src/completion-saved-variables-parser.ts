@@ -1,5 +1,5 @@
-import { asRecord } from "../../../shared/utils-narrow/src/as-record"
-import { isRecord } from "../../../shared/utils-narrow/src/is-record"
+import { asRecord } from "@akasha/utils-narrow/as-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { getCompanionIdByDefId } from "@temper/game-companions-core/companions-data"
 import type {
   AccountCompletion,

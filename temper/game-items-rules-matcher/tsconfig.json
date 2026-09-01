@@ -42,9 +42,6 @@
     },
     {
       "path": "../game-characters-skills-morphs-access"
-    },
-    {
-      "path": "../../shared/utils-narrow"
     }
   ],
   "include": [

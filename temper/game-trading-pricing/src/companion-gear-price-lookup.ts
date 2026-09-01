@@ -1,4 +1,4 @@
-import { assertNever } from "../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { CompanionEquipmentQualityId } from "@temper/game-companions-core/equipment/companion-equipment-quality-data"
 import type { CompanionTraitId } from "@temper/game-companions-core/equipment/companion-traits-data"
 import type { PricingData, TTCPriceEntry } from "./pricing-types"

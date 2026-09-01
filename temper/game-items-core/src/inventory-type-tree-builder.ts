@@ -1,4 +1,4 @@
-import { requireFirst } from "../../../shared/utils-narrow/src/require-first"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { hasSignals, matchesSignals } from "./classify-item"
 import { getCompanionTraitName } from "./companion-trait-labels"
 import type {
