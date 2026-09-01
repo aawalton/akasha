@@ -90,7 +90,38 @@ test("a reason names how many attempts were spent", async () => {
   const reached = await postingTo("/ask", "a question", {}, answering(503, {}), 50, noNap)
   expect(reached.ok).toBe(false)
   if (reached.ok) return
-  expect(reached.why).toContain(`attempt ${ATTEMPTS} of ${ATTEMPTS}`)
+  expect(reached.why).toContain(`${ATTEMPTS} attempts were spent`)
+})
+
+test("a reason for a refusal names the one attempt it took", async () => {
+  const held = await postingTo(
+    "/ask",
+    "a question",
+    {},
+    answering(400, { refused: "no" }),
+    50,
+    noNap
+  )
+  expect(held.ok).toBe(false)
+  if (held.ok) return
+  expect(held.why).toContain("one attempt was spent")
+})
+
+test("a reason says nothing came back only where nothing did", async () => {
+  const answered = await postingTo(
+    "/ask",
+    "a question",
+    {},
+    answering(400, { refused: "no" }),
+    50,
+    noNap
+  )
+  expect(answered.ok ? "" : answered.why).not.toContain("nothing came back")
+  const away: Fetcher = async () => {
+    throw new Error("away")
+  }
+  const gone = await postingTo("/ask", "a question", {}, away, 50, noNap)
+  expect(gone.ok ? "" : gone.why).toContain(`${ATTEMPTS} attempts were spent and nothing came back`)
 })
 
 test("an answer that is not JSON is a reason rather than a throw", async () => {

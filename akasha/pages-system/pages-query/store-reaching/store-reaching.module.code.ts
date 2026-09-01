@@ -118,6 +118,10 @@ async function postedOnce(
   return { ok: true, body: parsed }
 }
 
+export function attemptsSaid(spent: number): string {
+  return spent === 1 ? "one attempt was spent" : `${spent} attempts were spent`
+}
+
 export async function postingTo(
   path: string,
   what: string,
@@ -127,14 +131,17 @@ export async function postingTo(
   naps: Sleeper = sleep
 ): Promise<Reached<unknown>> {
   const url = `${pageStoreOrigin()}${path}`
+  let spent = 1
   let held = await postedOnce(url, what, body, fetcher, ceiling)
-  for (let round = 1; round < ATTEMPTS && !held.ok && worthRetrying(held.status); round += 1) {
-    await naps(backoffFor(round))
+  while (spent < ATTEMPTS && !held.ok && worthRetrying(held.status)) {
+    await naps(backoffFor(spent))
     held = await postedOnce(url, what, body, fetcher, ceiling)
+    spent += 1
   }
   if (held.ok) return held
+  const said = attemptsSaid(spent)
   return {
     ...held,
-    why: `${held.why} — this was attempt ${ATTEMPTS} of ${ATTEMPTS} and nothing came back`,
+    why: `${held.why} — ${held.status === undefined ? `${said} and nothing came back` : said}`,
   }
 }

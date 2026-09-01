@@ -37,6 +37,10 @@ export const storeReaching = {
       statement: "A reason names how many attempts were spent.",
     },
     {
+      invariantKind: "departure",
+      statement: "A reason says nothing came back only where nothing did.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here knows what a question or a write is made of.",
     },
