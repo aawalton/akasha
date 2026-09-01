@@ -59,22 +59,22 @@ export async function captureError(
     throw new Error("captureError: a capture states a non-empty fingerprint, and this one does not")
   }
 
-  const standing = await valuesFor(fingerprint)
+  const before = await valuesFor(fingerprint)
   const seenAt = new Date().toISOString()
-  const id = idFor(standing)
+  const id = idFor(before)
 
   const values = {
-    ...(standing === null ? { id, "first-seen-at": seenAt } : {}),
+    ...(before === null ? { id, "first-seen-at": seenAt } : {}),
     title: payload.message.slice(0, TITLE_BOUND),
     app: payload.app,
     fingerprint,
     kind: payload.kind,
     message: payload.message,
-    status: statusAfter(standing),
+    status: statusAfter(before),
     url: payload.url,
     "user-agent": payload.userAgent,
     stack: payload.stack,
-    count: countIn(standing) + 1,
+    count: countIn(before) + 1,
     "last-seen-at": seenAt,
     ...(payload.releaseSha === undefined ? {} : { "release-sha": payload.releaseSha }),
   }
