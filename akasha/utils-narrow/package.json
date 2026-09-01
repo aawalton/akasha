@@ -1,0 +1,32 @@
+{
+  "name": "@akasha/utils-narrow",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./as-record": "./as-record/as-record.module.code.ts",
+    "./assert-never": "./assert-never/assert-never.module.code.ts",
+    "./badge-variant": "./badge-variant/badge-variant.module.code.ts",
+    "./capitalize": "./capitalize/capitalize.module.code.ts",
+    "./collapse": "./collapse/collapse.module.code.ts",
+    "./create-data-file": "./create-data-file/create-data-file.module.code.ts",
+    "./get-subcategory": "./get-subcategory/get-subcategory.module.code.ts",
+    "./is-json": "./is-json/is-json.module.code.ts",
+    "./is-object-record": "./is-object-record/is-object-record.module.code.ts",
+    "./is-record": "./is-record/is-record.module.code.ts",
+    "./join-path": "./join-path/join-path.module.code.ts",
+    "./json-equal": "./json-equal/json-equal.module.code.ts",
+    "./json-schema": "./json-schema/json-schema.module.code.ts",
+    "./require-at": "./require-at/require-at.module.code.ts",
+    "./require-env": "./require-env/require-env.module.code.ts",
+    "./require-first": "./require-first/require-first.module.code.ts",
+    "./require-get": "./require-get/require-get.module.code.ts",
+    "./require-match": "./require-match/require-match.module.code.ts",
+    "./require-match-positional": "./require-match-positional/require-match-positional.module.code.ts",
+    "./require-only": "./require-only/require-only.module.code.ts",
+    "./text-at": "./text-at/text-at.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/supabase-database": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

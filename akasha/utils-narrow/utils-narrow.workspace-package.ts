@@ -1,0 +1,33 @@
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
+
+export const utilsNarrow = {
+  id: "01a05c94-2c03-7ab7-b93f-49a8ed498a29",
+  pageTypeSlug: "workspace-package",
+  slug: "utils-narrow",
+  definition: "how a wide value is read as the narrow one it must be, or refused",
+  manifest: "json",
+  partSlugs: [
+    "module/as-record",
+    "module/assert-never",
+    "module/badge-variant",
+    "module/capitalize",
+    "module/collapse",
+    "module/create-data-file",
+    "module/get-subcategory",
+    "module/is-json",
+    "module/is-object-record",
+    "module/is-record",
+    "module/join-path",
+    "module/json-equal",
+    "module/json-schema",
+    "module/narrow-error",
+    "module/require-at",
+    "module/require-env",
+    "module/require-first",
+    "module/require-get",
+    "module/require-match",
+    "module/require-match-positional",
+    "module/require-only",
+    "module/text-at",
+  ],
+} as const satisfies WorkspacePackage
