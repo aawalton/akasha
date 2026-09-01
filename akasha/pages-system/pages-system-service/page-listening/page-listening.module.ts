@@ -18,6 +18,26 @@ export const pageListening = {
     },
     {
       invariantKind: "departure",
+      statement: "The host names bound are read from the page describing the service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating no host name leaves the loopback address bound alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A host name that will not bind is said rather than stopping the rest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing listens where no host name bound.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One writer stands behind every host name bound.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What is bound answers every question the same way a handed request is answered.",
     },
     {

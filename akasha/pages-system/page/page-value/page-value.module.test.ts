@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { loadedFrom, valueAt, valueIn } from "./page-value.module.code.ts"
+import { loadedFrom, textsAt, valueAt, valueIn } from "./page-value.module.code.ts"
 
 const A = "01a04b79-0000-7000-8000-00000000000a"
 
@@ -50,4 +50,17 @@ test("a path standing as a file is read for the page it holds", () => {
   writeFileSync(join(repo, "held.module.ts"), 'export const held = { slug: "held" }\n', "utf8")
 
   expect(valueAt("held.module.ts", repo)?.["slug"]).toBe("held")
+})
+
+test("a key holding a list of text is answered as that list", () => {
+  expect(textsAt({ binds: ["127.0.0.1", "one.example"] }, "binds")).toEqual([
+    "127.0.0.1",
+    "one.example",
+  ])
+})
+
+test("a key holding no list, or a list holding what is not text, is answered as nothing", () => {
+  expect(textsAt({ binds: "127.0.0.1" }, "binds")).toBe(null)
+  expect(textsAt({ binds: [8787] }, "binds")).toBe(null)
+  expect(textsAt({}, "binds")).toBe(null)
 })

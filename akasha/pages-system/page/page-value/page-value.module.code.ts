@@ -55,6 +55,12 @@ export function textAt(value: Value, key: string): string | null {
   return typeof held === "string" ? held : null
 }
 
+export function textsAt(value: Value, key: string): readonly string[] | null {
+  const held = value[key]
+  if (!Array.isArray(held)) return null
+  return held.every((one) => typeof one === "string") ? (held as readonly string[]) : null
+}
+
 export function numberAt(value: Value, key: string): number | null {
   const held = value[key]
   return typeof held === "number" ? held : null

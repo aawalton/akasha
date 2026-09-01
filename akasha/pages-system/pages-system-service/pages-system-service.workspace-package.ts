@@ -84,6 +84,14 @@ export const pagesSystemService = {
     },
     {
       invariantKind: "departure",
+      statement: "The host names it answers on are read from a page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "It answers on the house network.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page stating no port is refused when it is written.",
     },
     {
