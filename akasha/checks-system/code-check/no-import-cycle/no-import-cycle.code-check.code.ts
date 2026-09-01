@@ -74,7 +74,7 @@ export function cyclesIn(
   let counted = 0
   const index = new Map<string, number>()
   const low = new Map<string, number>()
-  const standing = new Set<string>()
+  const onStack = new Set<string>()
   const stack: string[] = []
   const found: string[][] = []
   const walk = (at: string): undefined => {
@@ -82,14 +82,14 @@ export function cyclesIn(
     low.set(at, counted)
     counted += 1
     stack.push(at)
-    standing.add(at)
+    onStack.add(at)
     for (const next of reaching.get(at) ?? []) {
       if (!index.has(next)) {
         walk(next)
         low.set(at, Math.min(low.get(at) ?? 0, low.get(next) ?? 0))
         continue
       }
-      if (standing.has(next)) low.set(at, Math.min(low.get(at) ?? 0, index.get(next) ?? 0))
+      if (onStack.has(next)) low.set(at, Math.min(low.get(at) ?? 0, index.get(next) ?? 0))
     }
     if (low.get(at) !== index.get(at)) return
     const held: string[] = []
@@ -97,7 +97,7 @@ export function cyclesIn(
     do {
       said = stack.pop()
       if (said === undefined) break
-      standing.delete(said)
+      onStack.delete(said)
       held.push(said)
     } while (said !== at)
     if (held.length > 1 || (reaching.get(at) ?? []).includes(at)) found.push([...held].sort())
