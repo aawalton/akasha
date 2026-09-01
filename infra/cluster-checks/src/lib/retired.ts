@@ -19,7 +19,7 @@ const SAID = [
   "    akasha lint <path>    what the linter finds in the paths you name",
   "    akasha test <path>    the tests beside the code you name",
   "",
-  "  Every rule that still holds is a page under akasha/checks-system/code-check/.",
+  "  Every rule that still holds is a page under akasha/checks/code-checks/pages/.",
   "  To bring back a rule one of these files carried, write it there as a code",
   "  check. Do not revive this one, and do not delete this refusal to run it.",
   "",
