@@ -152,6 +152,16 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/design/design-layout": {
+      "name": "@akasha/design-layout",
+      "dependencies": {
+        "@shared/design-primitives": "workspace:*",
+        "lucide-react": "^0.576.0",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+      },
+    },
     "akasha/domain-system": {
       "name": "@akasha/domain-system",
     },
@@ -213,6 +223,7 @@
     "akasha/readout-system": {
       "name": "@akasha/readout-system",
       "dependencies": {
+        "@shared/pages-query": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -538,6 +549,7 @@
       "name": "@alanwalton/web",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/design-forms": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@alanwalton/awen-core": "workspace:*",
@@ -549,7 +561,6 @@
         "@fontsource-variable/literata": "^5.2.5",
         "@infra/k8s-types": "workspace:*",
         "@shared/day": "workspace:*",
-        "@shared/design-forms": "workspace:*",
         "@shared/design-layout": "workspace:*",
         "@shared/design-patterns": "workspace:*",
         "@shared/design-primitives": "workspace:*",
@@ -666,8 +677,8 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-badges": "workspace:*",
+        "@akasha/design-forms": "workspace:*",
         "@infra/k8s-types": "workspace:*",
-        "@shared/design-forms": "workspace:*",
         "@shared/design-layout": "workspace:*",
         "@shared/design-patterns": "workspace:*",
         "@shared/design-primitives": "workspace:*",
@@ -1285,7 +1296,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-badges": "workspace:*",
-        "@shared/design-forms": "workspace:*",
+        "@akasha/design-forms": "workspace:*",
         "@shared/design-layout": "workspace:*",
         "@shared/design-primitives": "workspace:*",
         "@shared/pages-core": "workspace:*",
@@ -1394,9 +1405,9 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-badges": "workspace:*",
+        "@akasha/design-forms": "workspace:*",
         "@fontsource-variable/geist": "5.2.9",
         "@fontsource-variable/geist-mono": "5.2.8",
-        "@shared/design-forms": "workspace:*",
         "@shared/design-layout": "workspace:*",
         "@shared/design-patterns": "workspace:*",
         "@shared/design-primitives": "workspace:*",
@@ -1632,10 +1643,10 @@
       "name": "@shared/pages-ui",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/design-forms": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@shared/day": "workspace:*",
-        "@shared/design-forms": "workspace:*",
         "@shared/design-layout": "workspace:*",
         "@shared/design-patterns": "workspace:*",
         "@shared/design-primitives": "workspace:*",
@@ -4060,6 +4071,8 @@
     "@akasha/design-badges": ["@akasha/design-badges@workspace:akasha/design/design-badges"],
 
     "@akasha/design-forms": ["@akasha/design-forms@workspace:akasha/design/design-forms"],
+
+    "@akasha/design-layout": ["@akasha/design-layout@workspace:akasha/design/design-layout"],
 
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
 
