@@ -89,6 +89,7 @@
       "name": "@akasha/alanwalton-web",
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "chess.js": "^1.4.0",
@@ -202,8 +203,8 @@
     "akasha/design/design-forms": {
       "name": "@akasha/design-forms",
       "dependencies": {
+        "@akasha/day": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
-        "@shared/day": "workspace:*",
         "chrono-node": "^2.9.0",
         "class-variance-authority": "^0.7.1",
         "input-otp": "^1.5.0",
@@ -353,15 +354,15 @@
     "akasha/health-samples-access": {
       "name": "@akasha/health-samples-access",
       "dependencies": {
-        "@shared/day": "workspace:*",
+        "@akasha/day": "workspace:*",
         "@shared/pages-query": "workspace:*",
       },
     },
     "akasha/health-samples-day": {
       "name": "@akasha/health-samples-day",
       "dependencies": {
+        "@akasha/day": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
-        "@shared/day": "workspace:*",
         "@shared/pages-query": "workspace:*",
       },
     },
@@ -396,7 +397,7 @@
     "akasha/location-traces-access": {
       "name": "@akasha/location-traces-access",
       "dependencies": {
-        "@shared/day": "workspace:*",
+        "@akasha/day": "workspace:*",
         "@shared/pages-query": "workspace:*",
       },
     },
@@ -426,11 +427,11 @@
     "akasha/pages-system/pages-core": {
       "name": "@akasha/pages-core",
       "dependencies": {
+        "@akasha/day": "workspace:*",
         "@akasha/id-minting": "workspace:*",
         "@akasha/pages-formula": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
-        "@shared/day": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
