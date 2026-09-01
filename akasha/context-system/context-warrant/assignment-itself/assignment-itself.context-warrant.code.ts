@@ -30,8 +30,8 @@ function namedAt(root: string, path: string, key: string): string | null {
 function domainOf(root: string, path: string): readonly Warrant[] {
   const named = namedAt(root, path, DOMAIN_KEY)
   if (named === null) return []
-  const standing = listedAddressed(root, named, DOMAIN_TYPE)
-  return standing === null ? [] : warrantAt(root, standing.path, WITHIN)
+  const listed = listedAddressed(root, named, DOMAIN_TYPE)
+  return listed === null ? [] : warrantAt(root, listed.path, WITHIN)
 }
 
 function initiativeOf(root: string, slug: string): readonly Warrant[] {
