@@ -12,8 +12,8 @@ const KEY = "roleSlug"
 export function roleItself(root: string, path: string): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return []
-  const standing = listedAt(root, ROLE_TYPE, slug)[0]
-  if (standing === undefined) return []
-  const oid = blobAt(root, standing.path)
-  return oid === null ? [] : [{ path: standing.path, oid, owed: ROLE }]
+  const listed = listedAt(root, ROLE_TYPE, slug)[0]
+  if (listed === undefined) return []
+  const oid = blobAt(root, listed.path)
+  return oid === null ? [] : [{ path: listed.path, oid, owed: ROLE }]
 }
