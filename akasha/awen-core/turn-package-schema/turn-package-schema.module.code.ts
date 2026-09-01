@@ -1,4 +1,8 @@
 import { z } from "zod"
+import {
+  type SchemaViolation,
+  toViolations,
+} from "../schema-violation/schema-violation.module.code.ts"
 
 export const PoolChangeSchema = z
   .object({
@@ -19,21 +23,9 @@ export const TurnPackageSchema = z
   .strict()
 export type TurnPackage = z.infer<typeof TurnPackageSchema>
 
-export interface TurnPackageViolation {
-  readonly field: string
-  readonly message: string
-}
-
 export type TurnPackageResult =
   | { readonly ok: true; readonly value: TurnPackage }
-  | { readonly ok: false; readonly violations: readonly TurnPackageViolation[] }
-
-function toViolations(error: z.ZodError): readonly TurnPackageViolation[] {
-  return error.issues.map((issue) => ({
-    field: issue.path.length > 0 ? issue.path.join(".") : "(root)",
-    message: issue.message,
-  }))
-}
+  | { readonly ok: false; readonly violations: readonly SchemaViolation[] }
 
 export function validateTurnPackage(input: unknown): TurnPackageResult {
   const parsed = TurnPackageSchema.safeParse(input)

@@ -1,4 +1,8 @@
 import { z } from "zod"
+import {
+  type SchemaViolation,
+  toViolations,
+} from "../schema-violation/schema-violation.module.code.ts"
 
 export const FOG_REPORT_SEATS = ["resolver", "worldbuilder", "loremaker"] as const
 
@@ -22,21 +26,9 @@ export const FogReportSchema = z
   .strict()
 export type FogReport = z.infer<typeof FogReportSchema>
 
-export interface FogReportViolation {
-  readonly field: string
-  readonly message: string
-}
-
 export type FogReportResult =
   | { readonly ok: true; readonly value: FogReport }
-  | { readonly ok: false; readonly violations: readonly FogReportViolation[] }
-
-function toViolations(error: z.ZodError): readonly FogReportViolation[] {
-  return error.issues.map((issue) => ({
-    field: issue.path.length > 0 ? issue.path.join(".") : "(root)",
-    message: issue.message,
-  }))
-}
+  | { readonly ok: false; readonly violations: readonly SchemaViolation[] }
 
 export function validateFogReport(input: unknown): FogReportResult {
   const parsed = FogReportSchema.safeParse(input)
