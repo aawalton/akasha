@@ -140,6 +140,20 @@ test("a command page throwing what is no Error is still refused with what it sai
   expect(said.refusals[0]).toContain("could not be loaded — the value was never set")
 })
 
+const ANSWERS_LATER = `export async function held(argv, given) {
+  await new Promise((keep) => setTimeout(keep, 1))
+  return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }
+}
+`
+
+test("a command answering later is waited for rather than handed back as it stands", async () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS_LATER }])
+  const said = await calling(["held", "one"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("one")
+  expect(said.report[1]).toBe("akasha held")
+})
+
 const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
 
 function rooted(root: string): undefined {
