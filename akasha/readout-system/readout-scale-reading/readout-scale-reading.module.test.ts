@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
+import { answering } from "../readout-answering/readout-answering.module.code.ts"
 import { declaredThreshold, readScale, scaleIn } from "./readout-scale-reading.module.code.ts"
-
-const answering = (said: unknown) => async (): Promise<Response> => Response.json(said)
 
 test("a rung stated as a number is that number", () => {
   expect(declaredThreshold(11)).toBe(11)

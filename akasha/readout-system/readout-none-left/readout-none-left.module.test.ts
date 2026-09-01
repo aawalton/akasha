@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
+import { answering } from "../readout-answering/readout-answering.module.code.ts"
 import { noneLeftIn, readNoneLeft, stated } from "./readout-none-left.module.code.ts"
-
-const answering = (said: unknown) => async (): Promise<Response> => Response.json(said)
 
 test("a value that is not text says nothing", () => {
   expect(stated(11)).toBe(undefined)
