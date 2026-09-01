@@ -37,7 +37,6 @@ export const pagesAccess = {
     "module/over-server",
     "module/page-type",
     "module/page-type-config",
-    "module/page-type-ids",
     "module/parse-page-seq",
     "module/patch",
     "module/property-definition",

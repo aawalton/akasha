@@ -9,11 +9,19 @@ import {
   refuseJsonPatch,
 } from "../file-write/file-write.module.code.ts"
 import { getPages } from "../get/get.module.code.ts"
-import { PageTypesMissing } from "../page-type-ids/page-type-ids.module.code.ts"
 import { validateSlugReserved } from "../reserved-slugs/reserved-slugs.module.code.ts"
 import type { JsonPatch, PageSelect } from "../types/types.module.code.ts"
 
 const PAGE_TYPE_SLUG = "page-type"
+
+export class PageTypesMissing extends Error {
+  readonly slugs: readonly string[]
+  constructor(slugs: readonly string[]) {
+    super(`no page-type file for slug(s): ${slugs.join(", ")}`)
+    this.name = "PageTypesMissing"
+    this.slugs = slugs
+  }
+}
 
 async function requirePageTypeOnFiles(): Promise<undefined> {
   if (await isFileBacked(PAGE_TYPE_SLUG)) return
