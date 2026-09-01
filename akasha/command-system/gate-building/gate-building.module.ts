@@ -14,6 +14,14 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
+      statement: "The path a module loads from is worked out from the package name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name that resolves nowhere is kept as the path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The checks are reached only to judge.",
     },
     {

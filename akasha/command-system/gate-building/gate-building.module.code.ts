@@ -1,23 +1,35 @@
 import { createRequire } from "node:module"
-import { join } from "node:path"
+import { join, relative } from "node:path"
 import type { Judging } from "@akasha/checks-system/judging"
 import type { Indexing } from "@akasha/indexes/indexing"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 
-export const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
+const CHECKING_IN = "@akasha/checks-system/checking"
 
-export const INDEXING_AT = "akasha/pages-system/indexes/indexing/indexing.module.code.ts"
-
-const HERE = rootOf(import.meta.path)
-
-const CHECKING = join(HERE, CHECKING_AT)
-
-const INDEXING = join(HERE, INDEXING_AT)
+const INDEXING_IN = "@akasha/indexes/indexing"
 
 const PATCH = "patch"
 
 const loadFrom = createRequire(import.meta.url)
+
+const HERE = rootOf(import.meta.path)
+
+function pathOf(name: string): string {
+  try {
+    return relative(HERE, loadFrom.resolve(name))
+  } catch {
+    return name
+  }
+}
+
+export const CHECKING_AT = pathOf(CHECKING_IN)
+
+export const INDEXING_AT = pathOf(INDEXING_IN)
+
+const CHECKING = join(HERE, CHECKING_AT)
+
+const INDEXING = join(HERE, INDEXING_AT)
 
 export const NO_GATE: Judging = { named: [], checksFor: () => [], over: () => [] }
 
