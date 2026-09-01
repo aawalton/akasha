@@ -1,7 +1,7 @@
 import {
   everyOfType,
   idsNaming,
-  type Standing,
+  type Listed,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { type Value, valueAt } from "../../pages-system/page/page-value/page-value.module.code.ts"
@@ -37,7 +37,7 @@ export function kindsUnderDomain(root: string): ReadonlySet<string> {
 }
 
 export function domainsDrawn(root: string): readonly DomainRow[] {
-  const standing: Standing[] = []
+  const standing: Listed[] = []
   for (const kind of [...kindsUnderDomain(root)].sort()) {
     standing.push(...everyOfType(root, kind))
   }

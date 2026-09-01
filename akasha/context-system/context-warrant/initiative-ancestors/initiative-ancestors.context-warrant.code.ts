@@ -1,5 +1,5 @@
 import {
-  type Standing,
+  type Listed,
   standingAddressed,
   standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -16,7 +16,7 @@ const KEY = "assignmentSlug"
 
 const PARENT_KEY = "parentSlug"
 
-function aboveOf(root: string, standing: Standing): Standing | undefined {
+function aboveOf(root: string, standing: Listed): Listed | undefined {
   const value = valueAt(standing.path, root)
   const named = value === null ? null : textAt(value, PARENT_KEY)
   if (named === null) return undefined

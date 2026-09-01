@@ -1,6 +1,6 @@
 import {
   idsNaming,
-  type Standing,
+  type Listed,
   standingAddressed,
   standingAt,
   standingById,
@@ -22,14 +22,14 @@ const DOMAIN_KEY = "domainSlug"
 
 const PARTS = "part-slugs"
 
-function domainOf(root: string, path: string): Standing | undefined {
+function domainOf(root: string, path: string): Listed | undefined {
   const value = valueAt(path, root)
   const named = value === null ? null : textAt(value, DOMAIN_KEY)
   if (named === null) return undefined
   return standingAddressed(root, named, DOMAIN_TYPE) ?? undefined
 }
 
-function answeredFor(root: string, path: string): Standing | undefined {
+function answeredFor(root: string, path: string): Listed | undefined {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return undefined
   const stated = typeStated(root, path, KEY) ?? DOMAIN_TYPE

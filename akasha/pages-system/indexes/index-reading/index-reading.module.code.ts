@@ -17,7 +17,7 @@ import {
   readingOf,
 } from "../index-surface/index-surface.module.code.ts"
 
-export type Standing = {
+export type Listed = {
   readonly path: string
   readonly id: string
 }
@@ -88,8 +88,8 @@ function named(said: unknown): string | null {
   return typeof said === "string" ? said : null
 }
 
-function standingIn(reading: Reading, at: string): readonly Standing[] {
-  const found: Standing[] = []
+function standingIn(reading: Reading, at: string): readonly Listed[] {
+  const found: Listed[] = []
   for (const line of reading.lines(at)) {
     const said = JSON.parse(line) as { readonly path?: unknown; readonly id?: unknown }
     if (typeof said.path === "string" && typeof said.id === "string") {
@@ -112,7 +112,7 @@ export function standingNamed(
   scope: string,
   propertySlug: string,
   said: string
-): readonly Standing[] {
+): readonly Listed[] {
   return answered(
     given,
     ROOT,
@@ -125,11 +125,11 @@ export function standingAt(
   given: string | Reading,
   pageTypeSlug: string,
   slug: string
-): readonly Standing[] {
+): readonly Listed[] {
   return standingNamed(given, pageTypeSlug, SLUG, slug)
 }
 
-export function standingById(given: string | Reading, id: string): Standing | null {
+export function standingById(given: string | Reading, id: string): Listed | null {
   return answered(
     given,
     ROOT,
@@ -142,14 +142,14 @@ export function standingAddressed(
   given: string | Reading,
   named: string,
   unqualified: string
-): Standing | null {
+): Listed | null {
   const address = addressIn(named)
   if (address.kind === "id") return standingById(given, address.id)
   const under = address.kind === "qualified" ? address.pageTypeSlug : unqualified
   return standingAt(given, under, address.slug)[0] ?? null
 }
 
-export function standingByPath(given: string | Reading, path: string): readonly Standing[] {
+export function standingByPath(given: string | Reading, path: string): readonly Listed[] {
   return answered(given, ROOT, `what names \`${path}\``, (reading) =>
     standingIn(reading, join(PATH, `${path}${ENDING}`))
   )
@@ -238,12 +238,12 @@ export function schemaOf(given: string | Reading, named: string): Schemad {
   return answered(given, ROOT, `what shape \`${named}\` has`, (reading) => shapedIn(reading, named))
 }
 
-function byPath(one: Standing, two: Standing): number {
+function byPath(one: Listed, two: Listed): number {
   return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
 }
 
-function gatheredIn(reading: Reading, dir: string): readonly Standing[] {
-  const found: Standing[] = []
+function gatheredIn(reading: Reading, dir: string): readonly Listed[] {
+  const found: Listed[] = []
   for (const one of reading.listing(dir)) {
     if (!one.name.endsWith(ENDING)) continue
     found.push(...standingIn(reading, join(dir, one.name)))
@@ -251,7 +251,7 @@ function gatheredIn(reading: Reading, dir: string): readonly Standing[] {
   return [...found].sort(byPath)
 }
 
-export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Standing[] {
+export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Listed[] {
   return answered(given, ROOT, `which \`${pageTypeSlug}\` pages stand`, (reading) =>
     gatheredIn(reading, join(IDENTITY, pageTypeSlug, SLUG))
   )
@@ -290,7 +290,7 @@ export function everyPath(given: string | Reading): readonly string[] {
   )
 }
 
-function slugOf(standing: Standing | null, id: string): string | null {
+function slugOf(standing: Listed | null, id: string): string | null {
   if (standing === null) return null
   const said = namedIn(standing.path)
   if (said === null) {

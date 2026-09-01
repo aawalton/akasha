@@ -1,10 +1,10 @@
 import {
   everyOfType,
   importersOf,
+  type Listed,
   type Named,
   namersOf,
   readingIn,
-  type Standing,
   standingAt,
   standingByPath,
   typeSlugById,
@@ -70,12 +70,7 @@ function textFor(held: Value, key: string, path: string, asked: string): string 
   return said
 }
 
-function standingFor(
-  reading: Reading,
-  pageTypeSlug: string,
-  slug: string,
-  asked: string
-): Standing {
+function standingFor(reading: Reading, pageTypeSlug: string, slug: string, asked: string): Listed {
   const found = standingAt(reading, pageTypeSlug, slug)[0]
   if (found === undefined) {
     throw new Error(

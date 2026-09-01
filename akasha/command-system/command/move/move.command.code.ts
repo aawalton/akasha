@@ -1,6 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
-import type { Standing } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import type { Listed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   everyPath,
   importersOf,
@@ -112,10 +112,10 @@ export function pairsIn(argv: readonly string[]): Read {
   return { pairs, dryRun }
 }
 
-export type Naming = { readonly held: Standing | null } | { readonly unread: string }
+export type Naming = { readonly held: Listed | null } | { readonly unread: string }
 
 export function namingOf(root: string, path: string): Naming {
-  let standing: readonly Standing[]
+  let standing: readonly Listed[]
   try {
     standing = standingByPath(root, path)
   } catch (cause) {

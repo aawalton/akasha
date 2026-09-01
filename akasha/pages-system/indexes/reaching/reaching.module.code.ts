@@ -10,7 +10,7 @@ import { propertiesOf } from "../../page-type/page-type-properties/page-type-pro
 import { schemaAt } from "../index-entries/index-entries.module.code.ts"
 import {
   everyOfType,
-  type Standing,
+  type Listed,
   standingAt,
   standingById,
 } from "../index-reading/index-reading.module.code.ts"
@@ -28,8 +28,8 @@ const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
 export type Known = {
   readonly targetOf: (propertySlug: string) => string | null
   readonly admitting: (target: string) => readonly string[]
-  readonly at: (pageTypeSlug: string, slug: string) => readonly Standing[]
-  readonly byId: (id: string) => Standing | null
+  readonly at: (pageTypeSlug: string, slug: string) => readonly Listed[]
+  readonly byId: (id: string) => Listed | null
 }
 
 export type Shaped = Known & {
@@ -145,12 +145,12 @@ export function knownIn(
 
 export type Reached = { readonly id: string } | { readonly refused: string }
 
-function only(found: readonly Standing[]): Standing | null {
+function only(found: readonly Listed[]): Listed | null {
   const one = found[0]
   return found.length === 1 && one !== undefined ? one : null
 }
 
-function among(named: string, found: readonly Standing[]): string {
+function among(named: string, found: readonly Listed[]): string {
   return `\`${named}\` narrows to ${found.length} pages and must name its page type — ${found
     .map((one) => one.path)
     .join(", ")}`

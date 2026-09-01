@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Standing } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import type { Listed } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Shaped } from "../../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import {
   addressingIn,
@@ -25,7 +25,7 @@ const PAGE = `export const held = {
 
 const NAMER = { id: "01a04bed-1450-7000-8000-00000000eeee", names: ["thing/held", "held"] }
 
-const HELD: readonly Standing[] = [{ path: AT, id: AAAA }]
+const HELD: readonly Listed[] = [{ path: AT, id: AAAA }]
 
 const KNOWN: Shaped = {
   targetOf: (propertySlug) => (propertySlug === "names" ? "thing" : null),
