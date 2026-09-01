@@ -28,7 +28,7 @@ export const graphSystem = {
     {
       invariantKind: "departure",
       statement:
-        "What an answer rests on is worked out from the code that computes that answer rather than recorded as the code runs.",
+        "What an answer rests on is worked out from the code rather than recorded as the code runs.",
     },
     {
       invariantKind: "gap",

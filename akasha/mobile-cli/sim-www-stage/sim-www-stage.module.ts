@@ -10,7 +10,7 @@ export const simWwwStage = {
     {
       invariantKind: "departure",
       statement:
-        "The package the stage script runs in is named on the app's page rather than counted back from the script's path.",
+        "The package the stage script runs in is named on the app's page rather than counted from its path.",
     },
     {
       invariantKind: "departure",

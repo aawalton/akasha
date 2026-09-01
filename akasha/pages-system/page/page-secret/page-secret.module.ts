@@ -59,8 +59,11 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The plaintext handed to sops stands under the folder git does not track and is taken away however the call ends.",
+      statement: "The plaintext handed to sops sits under the folder git does not track.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The plaintext handed to sops is taken away however the call ends.",
     },
     {
       invariantKind: "departure",

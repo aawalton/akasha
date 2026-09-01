@@ -46,7 +46,7 @@ export const nameFormat = {
     {
       invariantKind: "gap",
       statement:
-        "Converting between lower-kebab-case and lower-camel-case is owned by their pages rather than by loose modules.",
+        "Converting between lower-kebab-case and lower-camel-case is owned by their pages alone.",
     },
   ],
   directives: [
