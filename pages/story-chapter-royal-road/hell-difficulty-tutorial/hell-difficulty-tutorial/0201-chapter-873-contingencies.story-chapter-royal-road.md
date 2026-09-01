@@ -1,0 +1,151 @@
+---
+id: 5012ae6f-74b5-5497-a367-9de89aaed365
+page-type-slug: story-chapter-royal-road
+title: "Chapter 873 - Contingencies"
+slug: 0201-chapter-873-contingencies
+partOf: hell-difficulty-tutorial
+position: 201
+ownLength: 2212
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3897672/chapter-873-contingencies"
+royalRoadId: "3897672"
+---
+
+"So you want me to keep the wyvern blood that I purified?" Lily asks.
+
+"Yup," I say. "For now. Once I feel like I’m properly prepared, I’ll, probably during this floor, strengthen Mana Vessel to the second stage. During that process, you’ll inject me with the wyvern blood and empyrean ichor I’ve gathered. Then, during the trait strengthening, I will support my trait, which will surely clash with the wyvern blood and ichor."
+
+I squint and look at some shiny structure in the distance, likely a corporate building, and continue to talk to Lily. "If I am very lucky, Mana Vessel might evolve, though I think it’s already a really high-grade trait even as it is, so probably not. I could also probably hunt down Savi and take the sample he scavenged of Nyssa's primordial blood, but I think trying to deal with three kinds of blood would kill me even with your help."
+
+"It’s also possible that the ichor you collected will forcibly strengthen your ichor trait," Lily says.
+
+Meanwhile, we watch Tacita running nearby, playing catch with an awakened baby ferret that, even if it can’t move as quickly as she does, remains extremely nimble when changing direction. Still, the mute girl must be holding herself back so much, even if the baby ferret is likely faster than all Hard difficulty attendees and plenty of Hell ones.
+
+Out of nowhere, I mutter, "I almost want to meet up with Lissandra and ask her what she’s been doing to check in on Biscuit as per our deal. I mean, I don’t think she’d break her promise, but didn’t she just fuck off to the Labyrinth? Is she planning to do it later, or did she get a vow from the wyvern and delegate the task to it?"
+
+"She would have told you if she thought he was in real danger, would she not?" Lily asks.
+
+I think about it for a moment and conclude that she likely would. Lissandra isn’t the sort of person who would soften her words just because they might hurt someone.
+
+"I think I want to talk to the wyvern if possible, but that asshole refuses to talk in a normal language, so that could be a problem." I let out a sigh and ask Lily, "Have you been earning shards the way you should?"
+
+To that, she rolls her eyes. "Yes, I have. I met with that mora trio from Crimson Forge and joined up with some healing guilds so they can pass me some jobs, of course, they get a cut, which I managed to negotiate down to 10 percent."
+
+"No hidden payments or clauses?"
+
+"I had the contracts checked."
+
+"Good."
+
+"I guess. It doesn’t take much effort, and the shards are nice. Do you want to know how much I’ve made, Nat?"
+
+As we walk, I give myself time to think and then close my eyes and sigh again. For some reason, I’ve noticed I do that a lot when dealing with group 4.
+
+"Is it a lot?" I ask.
+
+"Millions."
+
+"How the hell are you making millions already for just a bit of healing?!" I raise my voice.
+
+"Right?!" Lily raises her voice as well to match mine. "It takes me only a few minutes. They even schedule the meetings, so I don’t have to wait around and waste time, so I just walk in, heal, collect the shards, and leave."
+
+"Is it at least for something difficult?"
+
+"Not really? I mean, maybe? I don’t really know. It’s so much more difficult to heal your body. Like, healing you is like what I’d imagine doing surgery on a hummingbird to be like, while most of the people they want me to heal are more like elephants. I have so much space for mistakes, it’s just crazy. And then they just go "whoa" and "wow," while staring at me with wide eyes. Nat, the last time, they gave me two hours to regenerate the arm of some high constitution A-rank and fix some nerve damage. It took me five minutes, and most of it was because he was really annoying and kept complaining about pain."
+
+She lowers her voice and mutters, "Sometimes people come and beg me to heal their bonds. Cute animals. Lizards, foxes, wolves, ravens, and such. I give those people a big discount, though, since I started doing that, more of them started coming and saying they weren’t able to pay the previous prices, but I don’t mind those at all."
+
+"Our cute Lily’s made enemies of quite a few healing guilds that’ve gotten angry because she kept undercutting prices they’d set and has been giving discounts to everyone she’s felt even the slightest bit of pity for," Tess says.
+
+"They won't do anything about it," Lily answers with an uncharacteristically angry voice. "Some of them came to me to try to make me change my mind, but I threw them out. Through the walls. I also think Tacita’s been killing a few of the more ill-intentioned ones." She looks at the mute girl, who playfully boops her golden ferret before running away.
+
+Lily smiles at the sight. "But I’ve also been shamelessly spreading the word that I’m in the same tutorial grouping as the Guild Master of Primordial Knights, and most of them stopped after that. I think most of them gave up and are now waiting for me to complete the tutorial or get bored."
+
+"That guild master must be a menace," I say.
+
+"He is the worst," she chuckles. "But, as you see, I’m making some decent money. I am being financially responsible. I think I’ll spend it all on passives. Soon, I might even start selling healing marks. I’ve been working with a few healers my Handler recommended on making them more difficult to copy. Though I'm hesitant about it, I think it would be nice if a lot more healers could create these healing marks, it would save a lot of people."
+
+It takes me a few moments to realize she means this as a question, and that she’s been waiting for a reaction from me.
+
+"Lily," I say.
+
+"Yes?"
+
+"Do whatever you want."
+
+"Of course, you would say that."
+
+"So stop asking."
+
+"But it’s nice to hear out loud," she says.
+
+"Sure, sure. But you know, if other healers start copying you, you can just improve the healing marks, right? Then the other healers would take care of the lower segment, and you could sell your much better healing marks at a much higher price to the rich ones."
+
+"Huh."
+
+"Of course, it would be nice if you could put some sort of backdoor into it. Like, if someone were to try and kill you while bearing one of these healing marks, you could just destroy the marks at a distance and render them useless."
+
+"I... probably?"
+
+I nod twice. "We could also try to come up with some spatial component to your healing mark. Imagine if you could place a mark once, and recharge it from a distance. For a subscription or something."
+
+"I..."
+
+"Lily, I think Nathaniel is mostly just teasing you, he’s joking. Mostly," Tess says.
+
+Looking at me, our black haired healer narrows her eyes. "Did he always have such a punchable face?"
+
+Nearly an hour later, we reach the next member of Group 4. From the hot haze of the desert, we see Dennis moving towards us at high speed.
+
+Even before he’s reached us, he’s weaving his [Connection] to make a telepathic link between us. He does so surprisingly quickly, making me think he’s working in tandem with Aaron.
+
+Then the first thing he does is charge me and pull me into a hug.
+
+"Nat, you stupid, beautiful, annoyingly perfect motherfucker," he says with a surprising dose of emotion. He is even shaking a little bit, though I can see him smiling widely as he looks up with that low, pristine crystal imbued in his forehead.
+
+"I want 1% of those ten million shards you got, so you do not have to than-"
+
+I do not get to finish as he interrupts me, "Not that! I am talking about Iant!"
+
+"Oh, the vessel of Diligence acting as your Handler. What about him?"
+
+He smiles so brightly, I think it might be brighter than the desert. "Iant said Diligence might be able to help us! Of course, it won’t be now, and it won’t be free, but Iant said our [Connection] skill and whatever’s happened to our minds and our connection as twins is very fascinating, Diligence might want to study it!"
+
+"Dennis, you-"
+
+"Yes, yes, I know: be careful, don’t get my hopes up, be careful, and then once again be careful not to get scammed by a Ruler whose full intentions we don’t know, and such."
+
+(Yeah, Nat, we’re not dumb! If you think of it, we’re actually a superior species with human brains. Diligence is just an ant!) Aaron sends through the connection.
+
+"What exactly did Iant say?" Tess asks curiously as Dennis lets go of me and gives her and Lily a quick hug.
+
+"Nothing concrete for now. He was a bit vague, but I made him use a vow. He did not lie. He just said the cost might be high. We might have to spend years on Domus being studied and looked over," Dennis says.
+
+(We also think he probably wants to use Nathaniel through us. Diligence is… well, super fucking diligent, everyone says. He probably plans really far ahead and likes to create contingencies,) Aaron also throws in.
+
+"Well, feel free to use me. I don’t think Diligence would truly try to push me if he wanted something from me, so we could always just negotiate. Now how’ve you been otherwise?"
+
+(Currently, we are in the Third City of the second floor. We talk to Spark a lot, and he’s been showing us techniques to help stabilize our minds. That sweet little guy isn’t even asking us for anything, and only says he can understand what we must be going through.) Aaron’s voice turns gentle and thankful. (Of course, there are still dangers. A powerful mind mage could erase me. As could a mana disruption powerful enough to break Dennis’s natural barrier, and probably some other things as well. I’ll tell you all about it later, I think it’ll be safer if you know.)
+
+His brother then completes the thought for him, "But we can do that over a drink."
+
+All in agreement, we continue to move while sharing what’s happened thus far. Most of the time, we don’t even bother trying to hide anything from Tacita, and she doesn’t seem to care in the least. She often disappears, moving far away, likely to examine something she found interesting, and then returns. She also has a habit of moving all around me, pointing at Veto until I give her the dagger so she can hold it for a few minutes before mournfully returning it to me.
+
+I also use that very same dagger to stab myself to examine the way it locks each of my skills.
+
+From that, I learn that the skills I’d always thought of as higher grade are blocked for shorter periods of time, and the skill level has an influence as well. It’s very fascinating to watch how my level 83 [Focus] gets turned off, giving me no chance in hell of reactivating it until the effect wears off. There’s no cooldown on the dagger either; once my skill is unlocked, I can stab myself, and it blocks that skill for the exact same duration.
+
+The only difference is that while a skill is locked, if I stab myself, it locks another skill.
+
+As for [Focus], it gets locked for a ridiculous 8 seconds. [Mana Manipulation] gets locked for 4 seconds, and for example, level 19 [Selective Adaptation] gets locked for close to one minute.
+
+And no matter how much I observe the process or try to fight against it, I find no way of shortening the duration or blocking it. I know I just started experimenting, and in a few days or weeks, that might change, but it still annoys me. The fact that it will lead to me improving my hold on my skills doesn’t matter that much right now.
+
+Lily joins me too, stabbing herself a few times as well, fascinated by her locked skills. As if she’s trying to follow our lead and keep from being left behind, Tess eventually joins in as well.
+
+Dennis does not. Almost with horror, he reads the description and widens his eyes as he takes a step away from the blade, as if its mere presence could lock the skills that might or might not be the only thing keeping his brother with him.
+
+The realization makes me apologize to him as I store the dagger away, and even though he smiles, I still see the fear the dagger brought to the surface. For the rest of the time, he follows Tacita, trying to learn from her and constantly pushing himself to try to use his skills and doubled stats to catch up to her.
+
+The next members of Group 4 we meet are Sophie, Izzy, Noodle, and Blackie.
