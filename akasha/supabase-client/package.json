@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/supabase-client",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./user-client": "./user-client/user-client.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/supabase-database": "workspace:*",
+    "@supabase/supabase-js": "^2.104.0"
+  }
+}
