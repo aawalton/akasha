@@ -20,6 +20,7 @@
     "akasha/design/design-primitives",
     "akasha/domain-system",
     "akasha/drive-google",
+    "akasha/email-google",
     "akasha/email-inbound",
     "akasha/file-system",
     "akasha/google-oauth",
