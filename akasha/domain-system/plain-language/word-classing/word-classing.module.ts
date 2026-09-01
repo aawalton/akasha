@@ -22,7 +22,7 @@ export const wordClassing = {
     {
       invariantKind: "departure",
       statement:
-        "A pronoun naming something outside its sentence is classed apart from a pronoun naming something inside its sentence.",
+        "A pronoun naming what sits outside its sentence is classed apart from one naming what sits inside.",
     },
     {
       invariantKind: "departure",

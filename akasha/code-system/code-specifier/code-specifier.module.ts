@@ -31,7 +31,7 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement:
-        "Specifiers are answered in the order the specifiers are written however deep in the body the specifiers sit.",
+        "Specifiers are answered in the order written however deep in the body the specifiers sit.",
     },
     {
       invariantKind: "absence",
