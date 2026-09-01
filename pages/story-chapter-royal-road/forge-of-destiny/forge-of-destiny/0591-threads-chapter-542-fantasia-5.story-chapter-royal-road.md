@@ -1,0 +1,155 @@
+---
+id: 7be95ca6-7137-5bbe-8017-13639f5652cb
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 542 Fantasia 5"
+slug: 0591-threads-chapter-542-fantasia-5
+partOf: forge-of-destiny
+position: 591
+ownLength: 2364
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3893459/threads-chapter-542-fantasia-5"
+royalRoadId: "3893459"
+---
+
+"Confident in your ability to wrangle children, are you?" Ling Qi asked as the sound faded, cocking her head to glance at Bao Qian.
+
+"I have your confidence to do so, don't I? Well, I suppose a brat who does not think they will get in trouble for vexing me too much will be worse."
+
+Ling Qi placed her hand over her mouth in faux shock. "Bao Qian! You would speak of your client, the young miss, that way?"
+
+He snorted. "And here I thought you wanted me to put away my salesman's smile."
+
+"Point," Ling Qi allowed. "So, what are your thoughts on how we go about this?"
+
+"The mirror should be the treasure to pursue first," Bao Qian proposed. "While we do not know what aspects of the lady's domain they draw from, the mirror is typically a tool of divination in some way. You have some skill in that field, don't you?"
+
+"Mm, clairvoyance isn't my best field, but yes, I can do a little, especially if I have an artifact. Plus, the maiden who stole the mirror also seems like she might be the easiest to cajole into returning with us."
+
+"You may have gotten a stronger impression than I did, but one should not underestimate the obstinacy of a lazy child," Bao Qian warned. "But I don't disagree."
+
+"The question is how to even begin finding any of them though." Ling Qi turned a slow circle. The leaves still crunched under her feet, despite her attempt to keep her tread light. "Normally, just the impression the madam gave us would be enough to navigate to them in the liminal. However…"
+
+"Our host does not want to make it so easy, I take it?" Bao Qian asked rhetorically. "I can feel a vague sense of the paths which lead back to settlement, but anywhere else, it feels like I'm a mortal looking through a faceful of mud."
+
+"Is that something you've experienced?"
+
+"Even noble children play in the mud, much to our caretakers’ chagrin." Bao Qian pointed out into the distance to their right. "This way would go back to people, or dreams of them anyway."
+
+"You can sense that?" Ling Qi asked, surprised.
+
+"Roads are roads, whether they're paved in stone or trampled through the brush," Bao Qian replied.
+
+"The liminal is too ephemeral for roads to be sure, hence the muddy view," Ling Qi realized. "We are on the board the madam wants us to be on, so it makes sense that I can't simply shape the dream to get to where I want to go."
+
+"The question is would the little glutton and voyeur lie that way, or would she be enjoying her grandmother's toy somewhere more out of the way?" Bao Qian wondered.
+
+"If I had to guess, our sickle bearer will have the run of the fields and woods. Her nature seems to be similar to the wind. The firecracker, on the other hand…"
+
+"Is not likely to be hiding," Bao Qian finished. "Nor somewhere alone."
+
+"Not the sort to play her music for her own sake, unlike me. Perhaps she should be your recruit?"
+
+Bao Qian grimaced. "I can imagine the miniature typhoon in my wagon when we go on tour already."
+
+Ling Qi laughed. "Are you telling me everything in there isn't already waterproofed?"
+
+"I didn't say that," Bao Qian grumbled good-naturedly, extending his hand. "We've gotten distracted. Lanchi will be…"
+
+"Somewhere near, but not in the settlement. Away, but not too far." Ling Qi took his hand. "Walk me along where you feel the road. If we combine our efforts, I might still be able to navigate us somewhere closer."
+
+The walk through the woods was pleasant. There was no reason to rush after all. Stirring up eddies of dream by running off like hounds on the chase would only spook their quarry. Besides, this little vacation would be among the last remaining moments of peace she would have for some time.
+
+She did not feel the rush of emotion that she associated with romantic feeling, walking beside Bao Qian under the colorful canopy, but he was comfortable and fine company on a walk.
+
+"So, may I assume that you don't think I should just sneak on ahead and try to net our Lanchi?" Ling Qi posed.
+
+"We should save your tool. The other two are more likely to need that kind of action." Bao Qian stroked his chin. Ling Qi thought he looked better, clean-shaven.
+
+"Contentment and reflection are not concepts I associate with dodging, running or hiding," Ling Qi agreed.
+
+There was a trail under their feet. A very faint one. As a city girl, Ling Qi was not familiar with game trails, but she had learned to spot them in the outer sect on those occasions she had to go hunting through the woods for something or another. The realm wavered, though, and most annoyingly, the ground and the trees shifted whenever her eyes were not on them. Normally, her steps, the internalized qi pattern of her dance, stabilized the dream where she trod, but this was a greater spirit's demesne, not merely wild dream.
+
+She trusted Bao Qian to know where he was going, though, and indeed, the landscape was slowly changing. The signs of habitation were increasing.
+
+… After a fashion. Ling Qi eyed the hut strung up along the high branches on a thick cable of webbing.
+
+Why spiders specifically?
+
+"Ah."
+
+Bao Qian glanced over at her, raising an eyebrow. "Did you realize something?"
+
+"Just remembering an old sect job. It was a minor one. I had to infiltrate a nest of dreamspinner spiders. I wonder if there is any relation with the spiders here."
+
+The scent of a lake, of fresh, clear water and fish, was something she had become familiar with over the last year.
+
+The forest ahead opened up, the skittering shapes of the villagers clambering along dirt streets and woven walkways that criss-crossed, creating an oddly homey tangle of horizontal and vertical construction. All of it was built into the copse of trees they were emerging from, which extended almost all the way to the shore of the clear midnight blue lake that stretched off into the distance.
+
+"I would have expected a temple by the lake," Bao Qian commented.
+
+"That did cross my mind, once I smelled the lake." Ling Qi observed a spider the size of a man casting a net of webbing into the water. "It seems it won't be so simple. What do we want to do anyway? It is difficult to divine me, but this is not a snatch and grab plan."
+
+Bao Qian considered. "To start with, we could question the villagers. Let’s see if they are aware of a young miss and where she might be lurking. Failing that, perhaps we could bait her use of the mirror to track her divination back."
+
+"The madam did say she was seeking entertainment," Ling Qi remembered. "I wonder what might draw her eye without spooking her—"
+
+Ling Qi stilled, and Bao Qian's eyes snapped upward as they both felt an eruption of fiery qi. It was small compared to the sorts of infernos Ling Qi had become familiar with, but still a potent detonation.
+
+The sharp ring of a high note upon a zither thundered through the village, and overhead, bright crimson and flaring gold sparks burst across the sky, scattering hissing sparks that rained down and painting a flowery pattern in the fading afternoon sky. A second and a third followed, intertwined with the wild melody pouring from a zither somewhere out of sight.
+
+Many of the villagers had stopped to stare as well, some in befuddlement, some waving excited pedipalps at the sky. Jaws clacked to the sound of the music as they moved toward its source.
+
+"We can call one found, I think," Ling Qi said dryly.
+
+"Likely. I suppose we should take a stroll, just to see what she is up to. Or would we be too obvious?"
+
+"I suspect we aren't dealing with very experienced spirits," Ling Qi said. If anything, these spirits were probably like Sixiang, spun off from the greater spirit for, if not this test, then this festival time. "We are just festival goers, are we not? Travelers and dreamers."
+
+They began their trek deeper into the village, toward the source of the music and the lurid light cast by a great bonfire, trading their greetings with the many-legged inhabitants as they went. Through streets of packed earth, they took a turn onto a rising ramp of thickly corded silk webbing, and found themselves in an unusual village square. Carved paving stones were mortared together with sticky webbing hanging over a wide clearing in the trees, surrounded by festival stalls and sacklike buildings hanging off the trunks of the trees at the periphery.
+
+At the center, there was a bonfire, over which the fireworks shot into the sky, flashed, and burst. The strident twang of rapid notes played on a zither rang out from the fire. There, hopping from one tongue of flame to another, as if they were solid, a girl danced and played her instrument. Her hair was a vibrant crimson red shot through with streaks of orange and yellow. Messy and loose, it fell in ringlets around her shoulders and jumped and danced with her motion, flaring off sparks.
+
+The fiery spirit’s dress was an even more vibrant red, flapping around bare feet and ankles. Glittering, black, insect-like eyes, all four sets of them, were arranged vertically along her forehead.
+
+The musician had gathered quite a crowd, who shuffled and circled with the air of seeing something unexpected but not unwelcome. A scattering of chittering approval and shouts of amazement sounded after each burst of fireworks, more and more seeming to be getting into it.
+
+Ling Qi winced at the way the zither squealed under the girl's fingers. That note was atrocious. She had thought that the spirit was going for something like Yu Nuan's songs, but the occasional dissonance was not followed up on, and thus, felt unintentional. Amateurish. Ling Qi didn't even think it was due to a lack of skill; the girl was just careless.
+
+"Oh, is that the dreaded disappointed big sis face I have heard so much about?" Bao Qian teased.
+
+"Just what is that girl saying when I'm not around?" Ling Qi complained. "Madam Autumn's descriptions were accurate."
+
+The spirit was fire and noise, the excitement of celebration after a long year's dour labor, manifest.
+
+"They were." Bao Qian gave her hand a slight tug, and she followed his lead, strolling around the edge of the crowd forming around the bonfire. As they were not the only strangers, they did not stand out too much.
+
+They strolled toward a stall, its counter set out with rich amber drinks in cups of clay. The proprietor had a bulbous, hairy, black abdomen with colorful markings, but her head was mostly human, with eight eyes similar to Hongpao's, and shimmery skin that looked like polished porcelain. Naturally, the lower half of her face split smoothly apart into toothy mandibles that clacked with each spoken word.
+
+"Welcome, welcome, customers! You arrive at an auspicious time." Pedipalps that ended in human hands spread wide. "Would you care for a cider? The cost is only a small memory, a warm sunbeam on skin, a crisp inhale of clean winter air, the scent of flowers in spring."
+
+"A steal indeed for such fine wares," Bao Qian said pleasantly. "I almost feel like I would rob you for such a price. How about a lazy summer morning lying on the garden veranda? Would that buy us two?"
+
+She glanced at him surreptitiously, surprised that he did not even hesitate to bargain with the spirit.
+
+The spider woman's jaws displayed a toothy smile. "A generous customer indeed, but you shame me with such an offer. A cup for each, and refill from the cask for each. This, I shall give for such a memory, in honor of the celebration."
+
+"You have a deal, madam." Bao Qian reached out to shake the proprietor’s hand. Ling Qi felt the flow of qi, and saw the slight twitch of his brows. "I am curious, does a young miss of the palace perform at your village often?"
+
+"No, no, not even when we are on this side of the veil. It is quite a surprise. We are doubly blessed for it." The spider merchant gestured to them to take their drinks.
+
+The drinks were quite qi rich, Ling Qi had to admit, and it made the cider slide warmly down her throat and gave a toasty, comfortable feeling in her belly as she politely sipped. "We've been sightseeing, and the rumors say there are many of those children running around. Is the young miss on the bonfire the only one you've seen?"
+
+"You seemed the touring sort. The colors always draw them," the merchant confided, but they seemed pleased to chit chat, observing the festivities behind them. "I did hear another one came by, but she didn't cause so much of a stir. Just slipped by the docks and took up in the Azure Mists Shrine."
+
+"I hadn't heard of that one," Bao Qian confessed. “Nor did I see a shrine as we walked through your village."
+
+"I believe I may have heard of it. It was a human shrine that slipped through the veil a while back, wasn't it?" Ling Qi mused.
+
+During her readings of the histories of Ogodei's invasion, she'd seen a mention of one of Blue Mountains' outlying shrine networks. It had been defended by a liminal labyrinth, but the formation was left on for so long that it just fell through the barrier into the liminal and couldn't return.
+
+"That's the one! Naturally, you can't see it. It's deeper than we are, but it's still there, if you know the ways. 'Course, the young miss closed those off. A bit ruder than her sister."
+
+"Thank you very much indeed," Bao Qian said. "We'll be back for those refills!"
+
+They strolled off, leaving the stall free for other customers.
