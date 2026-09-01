@@ -296,7 +296,7 @@ export function importsTakenFrom(root: string): undefined {
   taking(root, indexImport.name)
 }
 
-export function fileWhereTheIndexStands(root: string, text: string): undefined {
+export function fileWhereTheIndexIs(root: string, text: string): undefined {
   const at = indexIn(root)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, text)

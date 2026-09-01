@@ -4,7 +4,7 @@ import { join } from "node:path"
 import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
 import {
   everythingFiled,
-  fileWhereTheIndexStands,
+  fileWhereTheIndexIs,
   identitiesListedIn,
   idFiledIn,
   listedFiledIn,
@@ -297,7 +297,7 @@ test("a change read against the commit that stands is landed", () => {
 
 test("what was written is put back when the landing throws after writing", () => {
   const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
-  fileWhereTheIndexStands(root, "no directory stands here")
+  fileWhereTheIndexIs(root, "no directory stands here")
   const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
   expect(() =>
     landing(
