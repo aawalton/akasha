@@ -61,6 +61,10 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A shape no rewrite beats is not thereby allowed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refused shape is reached again through the shapes that rebuild its rules.",
     },
     {

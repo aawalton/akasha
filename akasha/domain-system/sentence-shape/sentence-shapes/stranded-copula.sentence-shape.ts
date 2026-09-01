@@ -5,5 +5,5 @@ export const strandedCopula = {
   pageTypeSlug: "sentence-shape",
   slug: "stranded-copula",
   definition: "a clause ending in `be` with nothing after it",
-  rules: ["NP -> REL NP BE", "RELC -> NP BE | REL NP BE"],
+  rules: ["NP -> REL NP BE", "RELC -> REL NP BE"],
 } as const satisfies SentenceShape
