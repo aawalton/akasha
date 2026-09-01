@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The web pods are never killed for failing to answer.",
       workingMemory:
-        "The local branch is gone at `4c1f05a264`. `@shared/pages-query` reached the pod's own checkout with spawnSync git once per page type, 57.6s of work no await yields out of. `./ask` now resolves to `asking-remote.ts`, the same facade with the local test fixed at false; `writing.ts` sends every act to the store; `here.ts`, `named.ts`, `asking.ts` and `holding.ts` are deleted, and with them the reach into `tools/lib` and `readouts/`. Alan's pod has yet to run that build.",
+        "Deployed at `6681df985c` and serving; pod `web-5fb4c8f76c-l9ckh` carries no local branch. The baseline to beat is two kills in 52 minutes, kubelet's own RESTARTS 2 agreeing with a sampler. That same sampler runs against the new pod from 22:49. Were it to die again the diagnosis was wrong rather than the fix partial, since `@shared/pages-query` reaches nothing above itself and Alan's app names neither engine.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
