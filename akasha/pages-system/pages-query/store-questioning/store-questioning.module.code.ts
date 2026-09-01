@@ -1,4 +1,9 @@
 import {
+  bare,
+  matches,
+  weigh,
+} from "../../pages-system-service/where-testing/where-testing.module.code.ts"
+import {
   ASK_CEILING_MS,
   type Fetcher,
   pagesFetcher,
@@ -6,7 +11,6 @@ import {
   type Sleeper,
   sleep,
 } from "../store-reaching/store-reaching.module.code.ts"
-import { bare, matches, weigh } from "../where-testing/where-testing.module.code.ts"
 
 export type Value = string | number | boolean | readonly string[]
 
