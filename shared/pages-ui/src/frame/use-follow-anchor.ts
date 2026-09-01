@@ -1,8 +1,7 @@
 "use client"
 
 import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
-import { computeAnchorBelowViewport } from "./compute-anchor-below-viewport"
-import { computePinned } from "./compute-pinned"
+import { computeAnchorBelowViewport, computePinned } from "./viewport-thresholds"
 import type { FrameFollowMode } from "./frame-config"
 
 const PIN_THRESHOLD_PX = 120

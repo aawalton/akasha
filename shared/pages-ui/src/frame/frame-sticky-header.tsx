@@ -5,7 +5,6 @@ import { cn } from "@akasha/design-primitives/cn"
 import { ArrowLeft } from "lucide-react"
 import type { ReactNode } from "react"
 import { PagesUILink, usePagesUIRouter } from "../router-context"
-import { decideBackNavigation } from "./back-navigation"
 
 export interface FrameHeader {
   readonly title?: string
@@ -20,7 +19,7 @@ export function FrameStickyHeader({ header }: { header: FrameHeader }) {
 
   function onBack() {
     const canGoBack = typeof window !== "undefined" && window.history.length > 1
-    if (decideBackNavigation({ canGoBack }) === "back") window.history.back()
+    if (canGoBack) window.history.back()
     else router.push("/")
   }
 
