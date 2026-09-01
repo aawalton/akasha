@@ -6,6 +6,7 @@
     "akasha/**",
     "alanwalton/atlas-web",
     "alanwalton/calendar-sync",
+    "alanwalton/location-traces-access",
     "alanwalton/mobile-cli",
     "alanwalton/web",
     "archive-of-worlds/web",
