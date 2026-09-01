@@ -1,13 +1,5 @@
-import { idsNaming, listedAt, listedById, listedByPath } from "@akasha/indexes"
-import { pageTypesIn, schemaAt } from "@akasha/indexes/entries"
-import {
-  type Known,
-  knownIn,
-  namesIn,
-  namingsIn,
-  reaches,
-  type Shaped,
-} from "@akasha/indexes/reaching"
+import { idsNaming, listedById, listedByPath } from "@akasha/indexes"
+import { type Known, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
 import { textAt, type Value, valueIn } from "@akasha/pages-system/page-value"
@@ -40,7 +32,7 @@ export function carriedBy(change: Change, pageTypes: ReadonlySet<string>): reado
 
 export function relationProperties(shadow: Shadow, known: Known): readonly string[] {
   const found: string[] = []
-  for (const held of schemaAt(shadow.reading).values()) {
+  for (const held of shadow.index.schemaAt().values()) {
     if (known.targetOf(held.slug) !== null) found.push(held.slug)
   }
   return found.sort()
@@ -80,7 +72,7 @@ export function mortalityIn(shadow: Shadow, known: Known): Mortality {
   const stated = (pageTypeSlug: string): boolean => {
     const held = byType.get(pageTypeSlug)
     if (held !== undefined) return held
-    const one = listedAt(shadow.reading, PAGE_TYPE, pageTypeSlug)[0]
+    const one = shadow.index.listedAt(PAGE_TYPE, pageTypeSlug)[0]
     const value = one === undefined ? null : shadow.pageOf(one.path)
     const said = value !== null && value["mortal"] === true
     byType.set(pageTypeSlug, said)
@@ -141,10 +133,10 @@ export function danglingIn(
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const carried = carriedBy(change, pageTypesIn(shadow.reading))
+  const carried = carriedBy(change, shadow.index.pageTypesIn())
   const took = change.changed.some((one) => change.after(one) === null)
   if (carried.length === 0 && !took) return []
-  const known = knownIn(shadow.reading, change.root, shadow.pageOf)
+  const known = shadow.index.knownIn(change.root, shadow.pageOf)
   const mortal = mortalityIn(shadow, known)
   const said: Judged[] = []
   for (const one of carried) said.push(...danglingIn(one.path, one.value, known, mortal))

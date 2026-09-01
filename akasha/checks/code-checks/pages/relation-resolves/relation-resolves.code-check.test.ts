@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { knownIn, type Shaped } from "@akasha/indexes/reaching"
+import type { Shaped } from "@akasha/indexes/reaching"
 import { pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { type Shadow, shadowAt, shadowFor } from "@akasha/pages-system/shadow"
@@ -39,7 +39,7 @@ import {
 afterAll(scratch.sweep)
 
 function knowing(shadow: Shadow, root: string): Shaped {
-  return knownIn(shadow.reading, root, shadow.pageOf)
+  return shadow.index.knownIn(root, shadow.pageOf)
 }
 
 function judged(change: Change): readonly Judged[] {
