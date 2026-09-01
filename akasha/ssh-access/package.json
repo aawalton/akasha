@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/ssh-access",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./ssh-target": "./ssh-target/ssh-target.module.code.ts",
+    "./ssh-reach": "./ssh-reach/ssh-reach.module.code.ts"
+  },
+  "dependencies": {
+    "@shared/errors-core": "workspace:*",
+    "@shared/utils-fs": "workspace:*"
+  }
+}
