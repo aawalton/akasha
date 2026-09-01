@@ -8,14 +8,16 @@ import {
   TEXTS,
 } from "../../change-walking/change-walking.module.code.ts"
 
-const TS = ".ts"
+const ENDINGS: readonly string[] = [".ts", ".tsx", ".css"]
+
+const CARRIED = ENDINGS.map((one) => `\`${one}\``).join(" or ")
 
 function found(path: string, text: string): readonly string[] {
   const said: string[] = []
   for (const one of specifiersIn(path, text)) {
     if (landingOf(path, one) === null) continue
-    if (one.endsWith(TS)) continue
-    said.push(`\`${one}\` is written without the \`.ts\` extension of the file it names`)
+    if (ENDINGS.some((ending) => one.endsWith(ending))) continue
+    said.push(`\`${one}\` is written without the ${CARRIED} extension of the file it names`)
   }
   return said
 }

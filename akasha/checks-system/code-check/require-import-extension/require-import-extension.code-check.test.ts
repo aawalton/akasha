@@ -17,7 +17,22 @@ test("a relative import written bare is refused, and names the specifier", () =>
   const said = reasonsIn(given("akasha/held.ts", body))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`./ledger.module.code`")
-  expect(said[0]).toContain("without the `.ts` extension")
+  expect(said[0]).toContain("without the `.ts` or `.tsx` or `.css` extension")
+})
+
+test("a relative import of a body written with JSX carries `.tsx`, and is let through", () => {
+  const body = 'import { Ring } from "./ring.module.code.tsx"\n'
+  expect(reasonsIn(given("akasha/held.tsx", body))).toEqual([])
+})
+
+test("a relative import of a stylesheet carries `.css`, and is let through", () => {
+  const body = 'import "./ring.stylesheet.styles.css"\n'
+  expect(reasonsIn(given("akasha/held.tsx", body))).toEqual([])
+})
+
+test("a body written with JSX is judged, so a bare specifier in one is refused", () => {
+  const body = 'import { Ring } from "./ring.module.code"\n'
+  expect(reasonsIn(given("akasha/held.tsx", body))).toHaveLength(1)
 })
 
 test("a package is not this check's business, however it is spelled", () => {
