@@ -1,5 +1,5 @@
-import type { Domain } from "../../../domain-system/domain/domain.page-type.ts"
-import type { PageType } from "../../../pages-system/page-type/page-type.page-type.ts"
+import type { Domain } from "@akasha/domain-system/domain"
+import type { PageType } from "@akasha/pages-system/page-type"
 import type { ModelName } from "./properties/model-name.text-property.ts"
 
 export type ModelFamily = Domain & {

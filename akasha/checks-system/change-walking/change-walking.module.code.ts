@@ -1,18 +1,12 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Change } from "../../pages-system/change/change.module.code.ts"
-import { pageTypesIn } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { everyPath } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
-import {
-  namedIn,
-  pageNamed,
-} from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import {
-  type Loaded,
-  loadedFrom,
-} from "../../pages-system/page/page-value/page-value.module.code.ts"
-import type { Shadow } from "../../pages-system/shadow/shadow.module.code.ts"
+import { everyPath } from "@akasha/indexes"
+import { pageTypesIn } from "@akasha/indexes/entries"
+import type { Reading } from "@akasha/indexes/shape"
+import type { Change } from "@akasha/pages-system/change"
+import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
+import { type Loaded, loadedFrom } from "@akasha/pages-system/page-value"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
 
 export type Body = {

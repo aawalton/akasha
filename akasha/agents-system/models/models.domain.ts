@@ -1,4 +1,4 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "@akasha/domain-system/domain"
 
 export const models = {
   id: "01a0535c-f2cf-7edc-8a2e-f495d1255183",

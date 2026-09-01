@@ -1,14 +1,14 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   idFiled,
   listedFiled,
   pathFiled,
   relationFiled,
   schemaFiled,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { bytesOf } from "../../testing-system/bodying/bodying.module.code.ts"
+} from "@akasha/indexes/testing"
+import type { Change } from "@akasha/pages-system/change"
+import { bytesOf } from "@akasha/testing-system/bodying"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 
 const PAGE_TYPE = "page-type"

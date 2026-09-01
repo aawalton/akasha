@@ -1,4 +1,4 @@
-import type { NumberProperty } from "../../../pages-system/number-property/number-property.page-type.ts"
+import type { NumberProperty } from "@akasha/pages-system/number-property"
 
 export type SevenDayPercentUsed = number
 
