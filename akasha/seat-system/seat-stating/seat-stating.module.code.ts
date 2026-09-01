@@ -1,7 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
-import type { Given } from "@akasha/command-system/calling"
+import { landedProgrammatically } from "@akasha/command-system/asking"
 import { listedAt, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { kindsUnder } from "@akasha/pages-system/page-type-descent"
@@ -82,17 +81,6 @@ export type Stating =
   | { readonly kind: "unstated" }
   | { readonly kind: "refused"; readonly said: string }
 
-function programmatically(root: string): Given {
-  return {
-    root,
-    calledAs: CALLED_AS,
-    from: root,
-    writer: null,
-    agentId: null,
-    programmatic: true,
-  }
-}
-
 export function statedSeat(root: string, stated: SeatStated, seatName: string): Stating {
   const body = seatBody(stated, seatName, root)
   if (body === null) return { kind: "unstated" }
@@ -100,14 +88,12 @@ export function statedSeat(root: string, stated: SeatStated, seatName: string): 
   if (existsSync(join(root, page)) && readFileSync(join(root, page), "utf8") === body) {
     return { kind: "unchanged" }
   }
-  const landed = landingAsked(programmatically(root), {
-    changes: [{ path: page, body: new TextEncoder().encode(body) }],
-    message: `${seatName}: the seat is in akasha as what it states`,
-    dryRun: false,
-    glass: null,
-    unmoved: [],
-    saying: wroteAndTook,
-  })
+  const landed = landedProgrammatically(
+    root,
+    CALLED_AS,
+    [{ path: page, body: new TextEncoder().encode(body) }],
+    `${seatName}: the seat is in akasha as what it states`
+  )
   if (landed.code !== 0) return { kind: "refused", said: landed.refusals.join("; ") }
   return { kind: "wrote" }
 }
@@ -115,14 +101,12 @@ export function statedSeat(root: string, stated: SeatStated, seatName: string): 
 export function tookSeat(root: string, seatName: string, why: string): Stating {
   const page = seatPathForName(seatName)
   if (!existsSync(join(root, page))) return { kind: "unchanged" }
-  const landed = landingAsked(programmatically(root), {
-    changes: [{ path: page, body: null }],
-    message: `${seatName} stopped, ${why}, so its page goes`,
-    dryRun: false,
-    glass: null,
-    unmoved: [],
-    saying: wroteAndTook,
-  })
+  const landed = landedProgrammatically(
+    root,
+    CALLED_AS,
+    [{ path: page, body: null }],
+    `${seatName} stopped, ${why}, so its page goes`
+  )
   if (landed.code !== 0) return { kind: "refused", said: landed.refusals.join("; ") }
   return { kind: "took" }
 }
