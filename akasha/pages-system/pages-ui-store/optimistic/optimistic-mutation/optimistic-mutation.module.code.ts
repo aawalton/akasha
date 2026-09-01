@@ -130,13 +130,7 @@ export function runPagesOptimisticMutation<Result>(
     .map((rowId) => chain.get(rowId))
     .filter((p): p is Promise<void> => p !== undefined)
 
-  let markSettled: () => undefined = () => undefined
-  const settled = new Promise<undefined>((resolve) => {
-    markSettled = () => {
-      resolve(undefined)
-      return undefined
-    }
-  })
+  const { promise: settled, resolve: markSettled } = Promise.withResolvers<undefined>()
   for (const rowId of holdRowIds) chain.set(rowId, settled)
 
   let captured: Result | typeof UNSET = UNSET
@@ -163,7 +157,7 @@ export function runPagesOptimisticMutation<Result>(
       return captured
     })
     .finally(() => {
-      markSettled()
+      markSettled(undefined)
       for (const rowId of holdRowIds) {
         if (chain.get(rowId) === settled) chain.delete(rowId)
       }
