@@ -6,5 +6,5 @@ export const idleSystem = {
   slug: "idle-system",
   definition: "the rules an idle game's roster earns and grows by",
   manifest: "json",
-  partSlugs: ["module/idle-state"],
+  partSlugs: ["module/idle-state", "module/idle-constants", "module/idle-gacha-state"],
 } as const satisfies WorkspacePackage
