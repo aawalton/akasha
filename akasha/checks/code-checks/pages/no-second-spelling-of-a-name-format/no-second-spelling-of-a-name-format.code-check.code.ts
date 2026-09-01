@@ -4,7 +4,7 @@ import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
 import {
   bodyOf,
-  everyFileIn,
+  everyFileOf,
   input,
   overEachFile,
   TEXTS,
@@ -47,7 +47,7 @@ export function everyShapeIn(
   shadow: Shadow
 ): ReadonlyMap<string, readonly string[]> {
   const stated = new Map<string, string[]>()
-  for (const path of everyFileIn(change.root, shadow.reading)) {
+  for (const path of everyFileOf(shadow.index)) {
     if (!path.endsWith(FORMAT)) continue
     const text = textIn(change, path)
     if (text === null) continue
