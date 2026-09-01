@@ -14,7 +14,7 @@ export const absence = {
     {
       invariantKind: "departure",
       statement:
-        "An absence earns its place only where what is left out is near enough to what is kept to be reached for by mistake.",
+        "An absence belongs where what is left out is near enough to what is kept to be reached by mistake.",
     },
   ],
 } as const satisfies InvariantKind

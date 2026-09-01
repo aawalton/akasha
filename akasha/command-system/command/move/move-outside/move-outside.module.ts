@@ -12,7 +12,7 @@ export const moveOutside = {
     {
       invariantKind: "departure",
       statement:
-        "Which files outside the akasha folder spell a path that moved is answered by git rather than by the index.",
+        "Which files outside `akasha/` spell a path that moved is answered by git rather than by the index.",
     },
     {
       invariantKind: "departure",

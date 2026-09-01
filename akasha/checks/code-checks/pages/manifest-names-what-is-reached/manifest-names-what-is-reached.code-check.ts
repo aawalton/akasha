@@ -117,7 +117,7 @@ export const manifestNamesWhatIsReached = {
     {
       invariantKind: "departure",
       statement:
-        "A dependency another package beside that dependency states as a peer is reached by that other package.",
+        "A dependency another dependency states as a peer is reached by that other dependency.",
     },
     {
       invariantKind: "departure",

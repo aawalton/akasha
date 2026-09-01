@@ -13,7 +13,7 @@ export const blockGitWrites = {
     {
       invariantKind: "departure",
       statement:
-        "A git write is refused unless the call names its paths and every one stands outside the akasha folder.",
+        "A git write is refused unless the call names its paths and every path sits outside `akasha/`.",
     },
     {
       invariantKind: "departure",

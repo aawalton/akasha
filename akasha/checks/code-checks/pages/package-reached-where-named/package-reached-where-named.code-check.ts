@@ -20,8 +20,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page type descending from `workspace-package` that the index files no page under is answered as no packages.",
+      statement: "A page type the index files no page under is answered as no packages.",
     },
     {
       invariantKind: "departure",

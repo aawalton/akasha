@@ -32,7 +32,7 @@ export const codeRule = {
     {
       invariantKind: "departure",
       statement:
-        "A function's export status is answered by climbing from the function to the statement holding the function.",
+        "A function's export status is answered by climbing to the statement holding that function.",
     },
     {
       invariantKind: "absence",

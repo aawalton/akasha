@@ -33,8 +33,11 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A removal forgets the reading of every path it takes and of a named path already gone for every agent holding one.",
+      statement: "A removal forgets every agent's reading of every path the removal takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A removal forgets every agent's reading of a named path already gone.",
     },
     {
       invariantKind: "departure",
