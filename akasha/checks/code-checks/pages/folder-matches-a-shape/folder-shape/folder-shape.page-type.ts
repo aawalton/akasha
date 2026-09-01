@@ -40,8 +40,12 @@ export const folderShape = {
   partSlugs: [
     "boolean-property/folder-shape-enabled",
     "folder-shape/folders-only",
+    "folder-shape/modules-only",
     "folder-shape/one-page-with-its-properties",
+    "folder-shape/page-type-with-its-parts",
     "folder-shape/pages-of-one-type",
+    "folder-shape/pages-of-the-type-above",
+    "folder-shape/properties-of-the-type-above",
     "folder-shape/property-pages-only",
   ],
   extendsSlug: "page-type/module",

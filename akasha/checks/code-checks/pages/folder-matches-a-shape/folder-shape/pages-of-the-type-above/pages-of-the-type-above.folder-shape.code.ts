@@ -1,0 +1,49 @@
+import { basename, dirname } from "node:path"
+import { namedIn } from "@akasha/pages-system/page-file-name"
+import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
+import type { Standing } from "../folder-shape.page-type.ts"
+
+const PAGES = "pages"
+
+const TS = "ts"
+
+function ownPagesIn(standing: Standing, at: string, slug: string): number {
+  return standing.under(at).filter((one) => {
+    const said = namedIn(one)
+    return said !== null && said.held === TS && said.tail === slug
+  }).length
+}
+
+export function pagesOfTheTypeAbove(standing: Standing): readonly string[] {
+  const said: string[] = []
+  const named = basename(standing.folder)
+  if (named !== PAGES) said.push(`it is named \`${named}\` rather than \`${PAGES}\``)
+  const above = standing.declaring(dirname(standing.folder))
+  if (above === null) {
+    said.push("the folder above holds no page type of its own")
+    return said
+  }
+  if (standing.strays.length > 0) {
+    said.push(
+      `${standing.strays.length} files are neither a page nor a file beside one: ${saidInside(standing.folder, standing.strays)}`
+    )
+  }
+  if (standing.properties.length > 0) {
+    said.push(
+      `${standing.properties.length} files sit beside a page, and a page carrying files of its own belongs in a subfolder: ${saidInside(standing.folder, standing.properties)}`
+    )
+  }
+  const other = standing.pages.filter((one) => one.pageTypeSlug !== above.slug)
+  if (other.length > 0) {
+    said.push(
+      `${other.length} pages here are not of \`${above.slug}\`: ${saidInside(standing.folder, other)}`
+    )
+  }
+  const loose = standing.subfolders.filter((at) => ownPagesIn(standing, at, above.slug) !== 1)
+  if (loose.length > 0) {
+    said.push(
+      `${loose.length} subfolders hold no one page of \`${above.slug}\`: ${saidInside(standing.folder, loose)}`
+    )
+  }
+  return said
+}
