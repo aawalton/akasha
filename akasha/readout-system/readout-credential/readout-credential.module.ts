@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const readoutCredential = {
   id: "01a054d9-d41f-796f-a2ff-b2c0fa9863a0",

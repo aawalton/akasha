@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import { mergeUncommitted } from "../../pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { mergeUncommitted } from "@akasha/pages-system/page-uncommitted"
 import { keepReading, readingAged, readingKept } from "./readout-reading.module.code.ts"
 
 const PAGE = "akasha/readout-system/readout/readouts/backlog/backlog.readout.ts"

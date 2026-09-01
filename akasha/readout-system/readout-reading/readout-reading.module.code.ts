@@ -1,7 +1,4 @@
-import {
-  mergeUncommitted,
-  uncommittedIn,
-} from "../../pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
+import { mergeUncommitted, uncommittedIn } from "@akasha/pages-system/page-uncommitted"
 
 const LAST_VALUE = "lastValue"
 
