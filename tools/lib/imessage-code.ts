@@ -1,15 +1,12 @@
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
-const PACKAGE = "@akasha/imessage"
-
 export class ImessageImportError extends Error {}
 
 function imessageRoot(): string {
   return process.env.OPS_IMESSAGE_ROOT ?? rootFor(resolveRoots(), AKASHA)
 }
 
-async function imessageModule<T>(subpath: string): Promise<T> {
-  const ref = `${PACKAGE}/${subpath}`
+async function akashaModule<T>(ref: string): Promise<T> {
   const root = imessageRoot()
   let file: string
   try {
@@ -28,39 +25,38 @@ async function imessageModule<T>(subpath: string): Promise<T> {
   }
 }
 
-
 export type ImessageRemote = typeof import("@akasha/imessage/remote")
 
 export function imessageRemote(): Promise<ImessageRemote> {
-  return imessageModule<ImessageRemote>("remote")
+  return akashaModule<ImessageRemote>("@akasha/imessage/remote")
 }
 
 export type ImessageContactsDb = typeof import("@akasha/imessage/contacts-db")
 
 export function imessageContactsDb(): Promise<ImessageContactsDb> {
-  return imessageModule<ImessageContactsDb>("contacts-db")
+  return akashaModule<ImessageContactsDb>("@akasha/imessage/contacts-db")
 }
 
 export type ImessageChatDb = typeof import("@akasha/imessage/chat-db")
 
 export function imessageChatDb(): Promise<ImessageChatDb> {
-  return imessageModule<ImessageChatDb>("chat-db")
+  return akashaModule<ImessageChatDb>("@akasha/imessage/chat-db")
 }
 
 export type ImessageHost = typeof import("@akasha/imessage/host")
 
 export function imessageHost(): Promise<ImessageHost> {
-  return imessageModule<ImessageHost>("host")
+  return akashaModule<ImessageHost>("@akasha/imessage/host")
 }
 
-export type ImessageSsh = typeof import("@akasha/imessage/ssh")
+export type SshReach = typeof import("@akasha/ssh-access/ssh-reach")
 
-export function imessageSsh(): Promise<ImessageSsh> {
-  return imessageModule<ImessageSsh>("ssh")
+export function sshReach(): Promise<SshReach> {
+  return akashaModule<SshReach>("@akasha/ssh-access/ssh-reach")
 }
 
 export type ImessageSend = typeof import("@akasha/imessage/send")
 
 export function imessageSendScript(): Promise<ImessageSend> {
-  return imessageModule<ImessageSend>("send")
+  return akashaModule<ImessageSend>("@akasha/imessage/send")
 }

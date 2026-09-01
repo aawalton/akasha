@@ -5,7 +5,7 @@ import { basename, resolve } from "node:path"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { imessageContactsDb, imessageHost, imessageRemote, imessageSendScript, imessageSsh } from "../../lib/imessage-code.ts"
+import { imessageContactsDb, imessageHost, imessageRemote, imessageSendScript, sshReach } from "../../lib/imessage-code.ts"
 import { type SendAttachment } from "@akasha/imessage/send"
 
 const MAX_ATTACHMENT_BYTES = 10 * 1024 * 1024
@@ -127,7 +127,7 @@ export default async function imessageSend(args: readonly string[]): Promise<voi
   const recipient = await resolveRecipient(to)
   const [host, ssh, send] = await Promise.all([
     imessageHost(),
-    imessageSsh(),
+    sshReach(),
     imessageSendScript(),
   ])
   await ssh.runSshCapture(host.MACBOOK, send.buildSendScript(recipient, text, attachment))

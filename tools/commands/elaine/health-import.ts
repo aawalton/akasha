@@ -11,7 +11,7 @@ import {
   runHealthImport,
 } from "@akasha/health-samples-import/health-import-run"
 import { MACBOOK } from "@akasha/health-samples-import/laptop-host"
-import { streamSshLines } from "@akasha/health-samples-import/ssh-streaming"
+import { streamSshLines } from "@akasha/ssh-access/ssh-reach"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { emitReading } from "../../lib/reading-channel.ts"
