@@ -92,7 +92,7 @@ function named(said: unknown): string | null {
   return typeof said === "string" ? said : null
 }
 
-function standingIn(reading: Reading, at: string): readonly Listed[] {
+function listedIn(reading: Reading, at: string): readonly Listed[] {
   const found: Listed[] = []
   for (const line of reading.lines(at)) {
     const said = JSON.parse(line) as { readonly path?: unknown; readonly id?: unknown }
@@ -121,7 +121,7 @@ export function listedNamed(
     given,
     ROOT,
     `which \`${scope}\` carries \`${said}\` as its \`${propertySlug}\``,
-    (reading) => standingIn(reading, join(IDENTITY, scope, propertySlug, `${said}${ENDING}`))
+    (reading) => listedIn(reading, join(IDENTITY, scope, propertySlug, `${said}${ENDING}`))
   )
 }
 
@@ -138,7 +138,7 @@ export function listedById(given: string | Reading, id: string): Listed | null {
     given,
     ROOT,
     `which page carries \`${id}\``,
-    (reading) => standingIn(reading, join(IDENTITY, PAGE, ID, `${id}${ENDING}`))[0] ?? null
+    (reading) => listedIn(reading, join(IDENTITY, PAGE, ID, `${id}${ENDING}`))[0] ?? null
   )
 }
 
@@ -155,7 +155,7 @@ export function listedAddressed(
 
 export function listedByPath(given: string | Reading, path: string): readonly Listed[] {
   return answered(given, ROOT, `what names \`${path}\``, (reading) =>
-    standingIn(reading, join(PATH, `${path}${ENDING}`))
+    listedIn(reading, join(PATH, `${path}${ENDING}`))
   )
 }
 
@@ -250,7 +250,7 @@ function gatheredIn(reading: Reading, dir: string): readonly Listed[] {
   const found: Listed[] = []
   for (const one of reading.listing(dir)) {
     if (!one.name.endsWith(ENDING)) continue
-    found.push(...standingIn(reading, join(dir, one.name)))
+    found.push(...listedIn(reading, join(dir, one.name)))
   }
   return [...found].sort(byPath)
 }
