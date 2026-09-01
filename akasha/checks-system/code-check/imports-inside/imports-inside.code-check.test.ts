@@ -1,10 +1,18 @@
 import { expect, test } from "bun:test"
+import type { Naming } from "@akasha/code-system/code-specifier"
 import { bodiesIn } from "@akasha/testing-system/bodying"
-import { reachedBy, reasonsIn } from "./imports-inside.code-check.code.ts"
+import { reachedBy, reasonsIn, reasonsWith } from "./imports-inside.code-check.code.ts"
 
 const ROOT = "/repo"
 
 const given = bodiesIn(ROOT)
+
+const NAMING: Naming = new Map([
+  ["@shared/pages-query", "shared/pages-query/src/writing.ts"],
+  ["@akasha/indexes", "akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"],
+])
+
+const reasonsNaming = reasonsWith(NAMING)
 
 test("a relative import landing inside the akasha folder is let through", () => {
   const said = reasonsIn(
@@ -28,14 +36,34 @@ test("a relative import climbing out of the akasha folder is refused, and names 
   expect(said[0]).toContain("imports no file outside the akasha folder")
 })
 
-test("a package is not the akasha folder's business, however it is spelled", () => {
+test("a specifier no manifest names lands nowhere and is passed over", () => {
   const body = [
     'import ts from "typescript"',
     'import { readFileSync } from "node:fs"',
     'import { test } from "bun:test"',
-    'import one from "@shared/pages-query"',
   ].join("\n")
-  expect(reasonsIn(given("akasha/held.ts", body))).toEqual([])
+  expect(reasonsNaming(given("akasha/held.ts", body))).toEqual([])
+})
+
+test("a package landing outside the akasha folder is refused like any other path", () => {
+  const said = reasonsNaming(given("akasha/held.ts", 'import one from "@shared/pages-query"\n'))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`shared/pages-query/src/writing.ts`")
+  expect(said[0]).toContain("imports no file outside the akasha folder")
+})
+
+test("a package landing inside the akasha folder is let through", () => {
+  const said = reasonsNaming(given("akasha/held.ts", 'import { one } from "@akasha/indexes"\n'))
+  expect(said).toEqual([])
+})
+
+test("a subpath of a package the naming names is judged by where that subpath lands", () => {
+  const naming: Naming = new Map([["@shared/pages-query/ask", "shared/pages-query/src/asking.ts"]])
+  const said = reasonsWith(naming)(
+    given("akasha/held.ts", 'import { askPage } from "@shared/pages-query/ask"\n')
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`shared/pages-query/src/asking.ts`")
 })
 
 test("a type-only import that leaves is refused the same as a value one", () => {
@@ -120,8 +148,12 @@ test("a specifier is judged by where it lands, not by what is there", () => {
   expect(said).toHaveLength(1)
 })
 
-test("a package names no landing, and a relative specifier names one under the holder", () => {
+test("a package lands where the naming says, and nowhere where none is handed in", () => {
   expect(reachedBy("akasha/a/held.ts", "typescript")).toBeNull()
+  expect(reachedBy("akasha/a/held.ts", "@shared/pages-query")).toBeNull()
+  expect(reachedBy("akasha/a/held.ts", "@shared/pages-query", NAMING)).toBe(
+    "shared/pages-query/src/writing.ts"
+  )
   expect(reachedBy("akasha/a/held.ts", "./b.ts")).toBe("akasha/a/b.ts")
   expect(reachedBy("akasha/a/held.ts", "../../b.ts")).toBe("b.ts")
 })

@@ -13,12 +13,20 @@ export const importsInside = {
   runsOnAudit: true,
   invariants: [
     {
-      invariantKind: "absence",
-      statement: "A specifier naming no path of its own is a package.",
+      invariantKind: "departure",
+      statement: "A specifier naming a package lands where the manifests name it.",
     },
     {
-      invariantKind: "absence",
-      statement: "A package is not the akasha folder's business.",
+      invariantKind: "departure",
+      statement: "A package landing outside the akasha folder is refused like any other path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier no manifest names lands nowhere and is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The manifests are read as the change would leave them.",
     },
     {
       invariantKind: "departure",
