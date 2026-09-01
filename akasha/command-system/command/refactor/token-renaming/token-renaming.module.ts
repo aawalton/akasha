@@ -108,6 +108,43 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A key spelled outside its own declaration only by shorthands naming the renamed name is welded to that name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a shorthand names is asked of the checker rather than read off the syntax.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Welding is judged over the whole file rather than around the declaration.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One key written out anywhere in the file welds nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key no shorthand ever fills welds nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A welded key and name are renamed as one act rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shorthand a welded rename carries is left as the one name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A welded rename needs no line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A welded rename takes the line either declaration starts on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An answer names every line still spelling the name that was renamed.",
     },
     {

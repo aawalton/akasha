@@ -4,6 +4,8 @@ import {
   declaredNamed,
   declaredOn,
   exportsNamed,
+  keyingsIn,
+  type Naming,
   namingOf,
   reachedFrom,
   readingOf,
@@ -116,14 +118,38 @@ function oneOf(typing: Typing, one: Tokening, found: ReadonlySet<ts.Node>, key: 
   }
 }
 
-function standingFor(typing: Typing, one: Tokening): Picked {
-  const named = namedIn(typing, one.path, one.was)
-  const keyed = new Set<ts.Node>(declarationsNamed(typing, one.path, one.was))
-  if (named.size > 0 && keyed.size > 0) {
+function weldedTo(typing: Typing, one: Tokening, named: ReadonlySet<ts.Node>): boolean {
+  let welds = false
+  for (const keying of keyingsIn(typing, one.path, one.was)) {
+    if (keying.declares) continue
+    if (keying.names.length === 0) return false
+    for (const at of keying.names) if (!named.has(at)) return false
+    welds = true
+  }
+  return welds
+}
+
+function bothOf(
+  typing: Typing,
+  one: Tokening,
+  named: ReadonlySet<ts.Node>,
+  keyed: ReadonlySet<ts.Node>
+): Picked {
+  if (!weldedTo(typing, one, named)) {
     return {
       refused: `${one.path} carries \`${one.was}\` as a name and as a key, so which one to rename is unsaid`,
     }
   }
+  const every = new Set<ts.Node>([...named, ...keyed])
+  if (one.line === undefined) return { nodes: every, key: false }
+  const at = onLine(typing, one, every, false)
+  return "refused" in at ? at : { nodes: every, key: false }
+}
+
+function standingFor(typing: Typing, one: Tokening): Picked {
+  const named = namedIn(typing, one.path, one.was)
+  const keyed = new Set<ts.Node>(declarationsNamed(typing, one.path, one.was))
+  if (named.size > 0 && keyed.size > 0) return bothOf(typing, one, named, keyed)
   if (named.size > 0) return oneOf(typing, one, named, false)
   if (keyed.size > 0) return oneOf(typing, one, keyed, true)
   return { refused: `${one.path} carries no \`${one.was}\`` }
@@ -167,6 +193,29 @@ function carriedAround(typing: Typing, one: Tokening, target: Target): boolean {
   return false
 }
 
+function weldedIn(typing: Typing, one: Tokening): boolean {
+  if (namedIn(typing, one.path, one.was).size === 0) return false
+  return declarationsNamed(typing, one.path, one.was).length > 0
+}
+
+function placesFor(
+  typing: Typing,
+  root: string,
+  target: Target,
+  welded: boolean
+): readonly Naming[] {
+  if (welded) {
+    return [...namingOf(typing, root, target.nodes), ...referencesOf(typing, root, target.nodes)]
+  }
+  if (target.key) return namingOf(typing, root, target.nodes)
+  return referencesOf(typing, root, target.nodes)
+}
+
+function saidFor(found: Naming, one: Tokening, welded: boolean, key: boolean): string {
+  if (welded) return found.quoted ? JSON.stringify(one.now) : one.now
+  return key ? spelledAs(found, one.was, one.now) : boundAs(found, one.was, one.now)
+}
+
 export function bindingFor(
   root: string,
   over: Over,
@@ -179,12 +228,14 @@ export function bindingFor(
   if (carriedAround(typing, one, target)) {
     return { refused: `${one.path} already carries \`${one.now}\`` }
   }
-  const places = target.key
-    ? namingOf(typing, root, target.nodes)
-    : referencesOf(typing, root, target.nodes)
+  const welded = weldedIn(typing, one)
   const held = new Map<string, (readonly [Spot, string])[]>()
-  for (const found of places) {
-    const said = target.key ? spelledAs(found, one.was, one.now) : boundAs(found, one.was, one.now)
+  const seen = new Set<string>()
+  for (const found of placesFor(typing, root, target, welded)) {
+    const spot = `${found.path}:${found.start}`
+    if (seen.has(spot)) continue
+    seen.add(spot)
+    const said = saidFor(found, one, welded, target.key)
     const at = held.get(found.path) ?? []
     at.push([{ start: found.start, end: found.end }, said])
     held.set(found.path, at)

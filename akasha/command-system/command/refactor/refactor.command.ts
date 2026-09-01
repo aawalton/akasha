@@ -160,6 +160,10 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
+      statement: "A key one shorthand welds to a name is renamed with that name in one commit.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Respelling a name inside strings is asked for rather than done by default.",
     },
     {
