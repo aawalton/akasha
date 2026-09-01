@@ -40,7 +40,7 @@ export const help: CommandHelp = {
   ],
   examples: [
     "ops tests run <path>",
-    "ops tests run shared/pages-core --timeout 30000",
+    "ops tests run smilingjenny/web --timeout 30000",
   ],
 }
 
