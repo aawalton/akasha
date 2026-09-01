@@ -9,7 +9,7 @@ import {
 import { personaDocumentGateLines, personaDocumentStandsShell } from "./persona-document.ts"
 import { personDocumentStandsShell } from "./person-document.ts"
 import { HANDLER } from "../../lib/compose-seat-name.ts"
-import { PROXY, ROOT_LOCAL, SEAT_START_DIR, SUPERVISOR } from "./entry-points.ts"
+import { AKASHA, PROXY, ROOT_LOCAL, SEAT_START_DIR, SUPERVISOR } from "./entry-points.ts"
 import { implName } from "./reload.ts"
 import { payloadEscapeLines, resolveTokensLines, SEAT_COMMAND_REL } from "./state-seat.ts"
 import {
@@ -158,7 +158,7 @@ export function seatNewFn(name: string): string {
     `  local _${name}_stop_flags=() _${name}_stop_err _${name}_stop_rc=0`,
     `  [ "$_${name}_force" = 1 ] && _${name}_stop_flags+=(--force)`,
     `  _${name}_stop_err="/var/tmp/aw-${name}-stop-$$.err"`,
-    `  ops seat stop "$_${name}_seat" "\${_${name}_stop_flags[@]}" ` +
+    `  ${AKASHA} seat supervisor stop "$_${name}_seat" "\${_${name}_stop_flags[@]}" ` +
       `>/dev/null 2>"$_${name}_stop_err"`,
     `  _${name}_stop_rc=$?`,
     `  if [ "$_${name}_stop_rc" != 0 ] && [ "$_${name}_stop_rc" != 2 ]; then`,
