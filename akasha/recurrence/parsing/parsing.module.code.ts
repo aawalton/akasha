@@ -1,3 +1,4 @@
+import { padTwo } from "@akasha/digit-padding"
 import { RRule } from "rrule"
 import { z } from "zod"
 
@@ -76,7 +77,7 @@ function parseTime(token: string): string | null {
     if (minute < 0 || minute > 59) return null
     let hour = hourRaw % 12
     if (meridiem === "pm") hour += 12
-    return `${pad(hour)}:${pad(minute)}`
+    return `${padTwo(hour)}:${padTwo(minute)}`
   }
 
   const h24 = H24_MATCH_SCHEMA.parse(lower.match(H24_REGEX))
@@ -88,12 +89,8 @@ function parseTime(token: string): string | null {
     const minute = Number(minuteStr)
     if (hour < 0 || hour > 23) return null
     if (minute < 0 || minute > 59) return null
-    return `${pad(hour)}:${pad(minute)}`
+    return `${padTwo(hour)}:${padTwo(minute)}`
   }
 
   return null
-}
-
-function pad(n: number): string {
-  return String(n).padStart(2, "0")
 }
