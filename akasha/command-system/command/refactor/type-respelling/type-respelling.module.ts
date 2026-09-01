@@ -12,15 +12,17 @@ export const typeRespelling = {
     {
       invariantKind: "departure",
       statement:
-        "An address is rewritten where a relation states one rather than where text matches.",
+        "An address is rewritten where a relation states an address rather than where text matches.",
     },
     {
       invariantKind: "departure",
-      statement: "Which relations state one is read from the index rather than from the pages.",
+      statement:
+        "Which relations state an address is read from the index rather than from the pages.",
     },
     {
       invariantKind: "departure",
-      statement: "An address to the page type is rewritten in the form it was written in.",
+      statement:
+        "An address to the page type is rewritten in the form that address was written in.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +30,7 @@ export const typeRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "A bare address to a page of that type is left as it stands.",
+      statement: "A bare address to a page of that type is left unchanged.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +38,7 @@ export const typeRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "A name imported from the page type's own file is renamed with it.",
+      statement: "A name imported from the page type's own file is renamed with the page type.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +46,7 @@ export const typeRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "A name imported under another is renamed where imported and not where used.",
+      statement: "A name imported under another name is renamed where imported and not where used.",
     },
     {
       invariantKind: "departure",
@@ -60,11 +62,11 @@ export const typeRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug standing between no path marks is left as it stands.",
+      statement: "A slug sitting between no path marks is left unchanged.",
     },
     {
       invariantKind: "departure",
-      statement: "A longer name carrying the old slug is no spelling of it.",
+      statement: "A longer name carrying the old slug is no spelling of the old slug.",
     },
     {
       invariantKind: "departure",
@@ -80,11 +82,12 @@ export const typeRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a body still names the old slug is answered by the line it stands on.",
+      statement:
+        "Where a body still names the old slug is answered by the line the old slug sits on.",
     },
     {
       invariantKind: "absence",
-      statement: "An address spelled as an id is left as it stands.",
+      statement: "An address spelled as an id is left unchanged.",
     },
     {
       invariantKind: "absence",
