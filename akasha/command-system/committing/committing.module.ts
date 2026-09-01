@@ -34,6 +34,10 @@ export const committing = {
         "A change asking for what already stands answers as nothing rather than as a commit.",
     },
     {
+      invariantKind: "departure",
+      statement: "A commit no writer is named for is authored by akasha.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges or writes or indexes.",
     },

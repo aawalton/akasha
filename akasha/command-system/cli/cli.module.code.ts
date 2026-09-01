@@ -1,6 +1,7 @@
 import { resolve } from "node:path"
 import type { Answer, Outside } from "../calling/calling.module.code.ts"
 import { calling } from "../calling/calling.module.code.ts"
+import { AUTHOR } from "../committing/committing.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import { writerIn } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
@@ -14,8 +15,6 @@ export const DATA = 2
 export const OPERATIONAL = 3
 
 export const UNCLASSIFIED = 70
-
-export const AUTHOR = "Akasha <akasha@alanwalton.com>"
 
 export type Said = {
   readonly out: readonly string[]

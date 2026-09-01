@@ -2,6 +2,8 @@ import { execFileSync } from "node:child_process"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 
+export const AUTHOR = "Akasha <akasha@alanwalton.com>"
+
 export const UNNAMED = "unnamed"
 
 export function gitIn(root: string, argv: readonly string[]): string {
@@ -67,7 +69,7 @@ export function committed(
     gitIn(root, ["diff", "--quiet", "HEAD", "--", ...paths])
     return null
   } catch {}
-  const named = writer === null ? [] : [`--author=${writer}`]
+  const named = [`--author=${writer ?? AUTHOR}`]
   try {
     gitIn(root, ["commit", ...named, "-m", message, "--", ...paths])
   } catch (thrown) {

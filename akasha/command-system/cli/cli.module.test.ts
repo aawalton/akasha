@@ -11,10 +11,10 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
 import { minting, REFUSES_CODE } from "../../testing-system/minting/minting.module.code.ts"
+import { AUTHOR } from "../committing/committing.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
-  AUTHOR,
   answering,
   INPUT,
   OK,

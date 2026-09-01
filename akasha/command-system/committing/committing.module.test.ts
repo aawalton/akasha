@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { baseOf, landing } from "../landing/landing.module.code.ts"
 import { ADMITS, bytes } from "../landing/landing.module.test-fixtures.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { gitIn as git } from "./committing.module.code.ts"
+import { AUTHOR, gitIn as git } from "./committing.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -66,6 +66,13 @@ test("a commit that failed is answered where what stands carries the change all 
   if ("refusals" in said) return
   expect(said.commit).toBe(baseOf(root))
   expect(git(root, ["ls-tree", "-r", "--name-only", "HEAD"])).toContain("new.txt")
+})
+
+test("a commit no writer is named for is authored by akasha", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const said = landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+  expect("refusals" in said).toBe(false)
+  expect(git(root, ["log", "-1", "--pretty=%an <%ae>"]).trim()).toBe(AUTHOR)
 })
 
 test("a path that could not be staged refuses the change rather than reading as nothing to commit", () => {
