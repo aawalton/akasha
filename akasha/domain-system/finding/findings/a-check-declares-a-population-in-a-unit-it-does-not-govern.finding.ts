@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aCheckDeclaresAPopulationInAUnitItDoesNotGovern = {
+  id: "01a05cf8-fcf2-7001-935f-d1f548f27840",
+  pageTypeSlug: "finding",
+  slug: "a-check-declares-a-population-in-a-unit-it-does-not-govern",
+  domainSlug: "domain/akasha-check",
+  claim:
+    "The harness already refuses a population of zero and has since the audits tree was made, so no check goes green while reading literally nothing. What still gets through is a check declaring its population in a unit it does not read: the denominator looks healthy while the thing it actually looks for sits at zero. That is what left `command-help-bound` green over 7969 files and no declaration, and the same shape is green elsewhere today.",
+  evidence:
+    "`certified()` in `tools/run-checks.ts` fails any outcome carrying no population, and turns a pass or advisory whose `population.measured` is 0 into a fail saying it `certifies nothing`. `git log -S` puts both strings in `5e523b13cd`, the commit that created the audits tree, so the guard is not new work. Over a full run of 31 checks the string `certifies nothing` appeared 0 times and no check printed pass over a zero population.\n\nSo `command-help-bound` was never a zero-population pass. `tools/audits/command-help-bound.ts:221` declares `population: over(scanned.length, UNIT)` with the unit `workspace-package TypeScript file`. When it read 7969 files and 0 `CommandHelp` declarations, `measured` was 7969 and `certified()` had nothing to catch. The zero was in the numerator, the unit it governs, never in the population it declares. It now reads 9821 files, 293 declarations and 38 unbound or drifted.\n\nThe shape is still green. `suite-runs` passes over `1 test file(s) weighed` having run 0. `hooks-agree` passed over `1 registered hook(s)` while the fleet registers 14, because it read the stated `hooks` key and none of the 13 registrations derived from `agent-hook` pages; repaired at `8c365049ef`, population 1 to 14, refused set unchanged. `commands-declare-summary` passed over 291 commands while the surface holds 319, because `tools/ops/declared.ts` is rooted at a literal `tools/commands`; repaired at `29b7af3122`, population 291 to 319, refused set unchanged.\n\nA check whose declared unit is the unit it refuses over cannot fail this way. The gap is worth closing where the two differ.",
+} as const satisfies Finding
