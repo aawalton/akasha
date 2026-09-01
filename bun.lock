@@ -159,6 +159,9 @@
     "akasha/pages-system/indexes": {
       "name": "@akasha/indexes",
     },
+    "akasha/pages-system/pages-query": {
+      "name": "@akasha/pages-query",
+    },
     "akasha/pages-system/pages-system-service": {
       "name": "@akasha/pages-system-service",
     },
@@ -4022,6 +4025,8 @@
     "@akasha/hook-system": ["@akasha/hook-system@workspace:akasha/hook-system"],
 
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
+
+    "@akasha/pages-query": ["@akasha/pages-query@workspace:akasha/pages-system/pages-query"],
 
     "@akasha/pages-system": ["@akasha/pages-system@workspace:akasha/pages-system"],
 

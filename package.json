@@ -15,6 +15,7 @@
     "akasha/hook-system",
     "akasha/pages-system",
     "akasha/pages-system/indexes",
+    "akasha/pages-system/pages-query",
     "akasha/pages-system/pages-system-service",
     "akasha/person-system",
     "akasha/persona-system",
