@@ -25,9 +25,9 @@ export const migrateAlanAndJennyToAkasha = {
         "Deployed and proved live. READING_RELAY_SECRET stands in her sops at the workstation's value, moved by `sops edit`, digest-checked, never printed. Pod b4289a8e7a: her relay 401s bare and 400s with the secret on a body that is no reading; her tile route answers 503 No reading on the ring credential. A relay secret 401s at her tile route as at Alan's, a category error and not a stale build, filed at alans-tile-route-refuses-jennys-credential-by-design-rather-than-by-age. He now runs 0c6fb83a1f.",
     },
     {
-      statement: "The packages reading and writing pages stand in akasha.",
+      statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "`shared/pages-query` is 8 files but no small move: its sources close over 168 under `tools/`, `page/`, `repo/`, `readouts/`, and `imports-inside` refuses every relative escape from `akasha/`. It waits on the root page engine beneath it, filed at `the-root-page-engine-lands-as-five-packages-in-this-order` as five increments. `shared/` is down to 5 folders and only this and `pages-ui` still move; `auth`, `design-patterns` and `utils-test` are settled. Inbound: 120 statements in 86 files.",
+        "Alan's call: delete `@shared/pages-query` rather than move it into akasha, and reach pages only through `@akasha/pages-system-service`. A legacy query not yet migrated is stubbed unless it serves a global feature such as nav. 75 call sites: 13 global, 5 migratable, 57 stub. The service now answers uncommitted values, which unblocks api.claude-usage. Writes wait on the new write path, which refuses while `sms-discard` swallows the refusal.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
