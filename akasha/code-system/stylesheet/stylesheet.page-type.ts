@@ -30,7 +30,11 @@ export const stylesheet = {
     },
     {
       invariantKind: "departure",
-      statement: "A component reaches a stylesheet by naming a class rather than by importing it.",
+      statement: "A component is dressed by naming a class rather than by importing a stylesheet.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A component imports a stylesheet only to make a bundler emit it.",
     },
     {
       invariantKind: "departure",
@@ -53,8 +57,12 @@ export const stylesheet = {
       statement: "A stylesheet imports nothing.",
     },
     {
+      invariantKind: "departure",
+      statement: "A comment in a stylesheet is refused as prose in code is.",
+    },
+    {
       invariantKind: "gap",
-      statement: "A stylesheet a component imports for its effect alone typechecks.",
+      statement: "A specifier naming a stylesheet that is not there is refused by the typechecker.",
     },
   ],
 } as const satisfies PageType
