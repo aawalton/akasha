@@ -5,7 +5,7 @@ import { recordRead } from "../../../command-system/reading/reading.module.code.
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
-  pageTypeStanding,
+  pageTypeListed,
   pathsOf,
   roleListed,
   seatStanding,
@@ -21,8 +21,8 @@ afterAll(scratch.sweep)
 const AGENT = "01a0596c-0000-7000-8000-000000000005"
 
 function typeWorld(root: string): readonly string[] {
-  const page = pageTypeStanding(root, "page", null)
-  const role = pageTypeStanding(root, "role", "page")
+  const page = pageTypeListed(root, "page", null)
+  const role = pageTypeListed(root, "role", "page")
   return [role, page]
 }
 
