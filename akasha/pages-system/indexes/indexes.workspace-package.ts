@@ -25,6 +25,7 @@ export const indexes = {
     "module/index-shape",
     "module/package-reaching",
     "module/property-carrying",
+    "module/index-answering",
   ],
   invariants: [
     {

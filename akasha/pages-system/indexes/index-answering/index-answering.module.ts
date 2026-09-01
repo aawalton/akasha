@@ -1,0 +1,49 @@
+import type { Module } from "@akasha/code-system/module"
+
+export const indexAnswering = {
+  id: "01a05eca-0849-789d-8118-1e8d7ae05244",
+  pageTypeSlug: "module",
+  slug: "index-answering",
+  definition: "the index's answers bound to one reading, each asked without naming an index",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Every question here is asked of the one reading the answers were bound over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question here takes no index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reader whose reading could be left off is bound to the reading here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question here takes what the reader beneath takes besides the reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The questions bound here are the ones the checks ask of the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer here is what the reader beneath answers with that reading.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here holds an answer.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A reader guarding itself against the index at a root still reads that index from here.",
+    },
+  ],
+} as const satisfies Module
