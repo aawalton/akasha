@@ -37,7 +37,7 @@ export default async function mobileTestflightStatus(args: readonly string[]): P
   const app = resolveApp(parsed.requireString("--app"))
   const wait = parsed.boolean("--wait")
 
-  const { fetchLatestBuild, mintAscJwt, resolveAppId } = await ascClient()
+  const { createAscJwtSource, fetchLatestBuild, resolveAppId } = await ascClient()
   const {
     classifyProcessingState,
     describeProcessingFailure,
@@ -47,13 +47,18 @@ export default async function mobileTestflightStatus(args: readonly string[]): P
     processingFailureFor,
   } = await testflightPoll()
 
-  const jwt = await mintAscJwt()
-  const appId = await resolveAppId(app.bundleId, jwt)
+  // Asked afresh for each read: a 30-minute wait outlives any one token.
+  const ascJwt = createAscJwtSource()
+  const appId = await resolveAppId(app.bundleId, await ascJwt())
 
   if (wait) {
-    process.stdout.write(`Polling App Store Connect for the latest ${app.bundleId} build…\n`)
+    process.stdout.write(
+      `Polling App Store Connect for the latest ${app.bundleId} build every ${
+        POLL_INTERVAL_MS / 1000
+      }s, up to ${POLL_TIMEOUT_MS / 60_000} minutes…\n`
+    )
     const outcome = await pollBuildUntilTerminal({
-      fetchLatest: () => fetchLatestBuild(appId, jwt),
+      fetchLatest: async () => fetchLatestBuild(appId, await ascJwt()),
       isTarget: () => true,
       sleep: (ms) => new Promise((resolve) => setTimeout(resolve, ms)),
       now: () => Date.now(),
@@ -75,7 +80,7 @@ export default async function mobileTestflightStatus(args: readonly string[]): P
     )
   }
 
-  const build = await fetchLatestBuild(appId, jwt)
+  const build = await fetchLatestBuild(appId, await ascJwt())
   if (build === null) {
     process.stdout.write(`No ${app.bundleId} builds have been uploaded to App Store Connect yet.\n`)
     return

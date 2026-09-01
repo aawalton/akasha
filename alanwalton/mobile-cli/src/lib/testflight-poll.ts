@@ -98,21 +98,79 @@ export interface PollDeps {
   readonly onTick?: (message: string) => void
 }
 
+// What the target build looks like when App Store Connect has not yet listed it.
+// Carried as a state of its own so that its arrival reads as a transition.
+export const NOT_YET_LISTED = "not yet listed in App Store Connect"
+
+// A poll that dies on the first hiccup is not a poll. A read that fails is
+// retried at the next interval; this many failures in a row and the error is
+// raised, so a genuinely broken key or a revoked permission is still loud.
+export const POLL_READ_FAILURE_TOLERANCE = 3
+
+export function pollElapsed(ms: number): string {
+  const seconds = Math.max(0, Math.round(ms / 1000))
+  if (seconds < 60) return `${seconds}s`
+  return `${Math.floor(seconds / 60)}m${String(seconds % 60).padStart(2, "0")}s`
+}
+
+function readFailureMessage(err: unknown): string {
+  return err instanceof Error ? err.message : String(err)
+}
+
 export async function pollBuildUntilTerminal(deps: PollDeps): Promise<PollOutcome> {
   const start = deps.now()
+  const everySeconds = Math.round(deps.intervalMs / 1000)
+  const givingUpAt = pollElapsed(deps.timeoutMs)
   let lastState: string | undefined
+  let reported: string | undefined
+  let failures = 0
   for (;;) {
-    const latest = await deps.fetchLatest()
-    if (latest !== null && deps.isTarget(latest)) {
-      lastState = latest.processingState
-      const classification = classifyProcessingState(latest.processingState)
-      if (classification === "valid") return { kind: "valid", build: latest }
-      if (classification === "failed") {
-        return { kind: "failed", build: latest, failure: processingFailureFor(latest) }
+    const at = (): string => pollElapsed(deps.now() - start)
+    let latest: LatestBuild | null = null
+    let read = true
+    try {
+      latest = await deps.fetchLatest()
+      failures = 0
+    } catch (err) {
+      failures += 1
+      if (failures >= POLL_READ_FAILURE_TOLERANCE) throw err
+      read = false
+      deps.onTick?.(
+        `[${at()}] could not read App Store Connect (${readFailureMessage(err)}) — retrying in ${everySeconds}s (${failures}/${POLL_READ_FAILURE_TOLERANCE})`
+      )
+    }
+    if (read) {
+      const found = latest !== null && deps.isTarget(latest) ? latest : null
+      if (found !== null) {
+        lastState = found.processingState
+        const classification = classifyProcessingState(found.processingState)
+        if (classification === "valid") {
+          deps.onTick?.(
+            `[${at()}] ${reported ?? "?"} → ${found.processingState}: build ${found.version} finished processing`
+          )
+          return { kind: "valid", build: found }
+        }
+        if (classification === "failed") {
+          deps.onTick?.(
+            `[${at()}] ${reported ?? "?"} → ${found.processingState}: build ${found.version} will not process`
+          )
+          return { kind: "failed", build: found, failure: processingFailureFor(found) }
+        }
       }
-      deps.onTick?.(`build ${latest.version} still processing (${latest.processingState})…`)
-    } else {
-      deps.onTick?.("waiting for the uploaded build to appear in App Store Connect…")
+      const observed = found === null ? NOT_YET_LISTED : found.processingState
+      const named = found === null ? "the uploaded build" : `build ${found.version}`
+      if (observed !== reported) {
+        deps.onTick?.(
+          reported === undefined
+            ? `[${at()}] ${named} is ${observed} — waiting for VALID, giving up at ${givingUpAt}`
+            : `[${at()}] ${reported} → ${observed} (${named})`
+        )
+        reported = observed
+      } else {
+        deps.onTick?.(
+          `[${at()}] ${named} still ${observed} — next check in ${everySeconds}s, giving up at ${givingUpAt}`
+        )
+      }
     }
     if (deps.now() - start >= deps.timeoutMs) return { kind: "timeout", lastState }
     await deps.sleep(deps.intervalMs)
@@ -135,14 +193,51 @@ export interface VisibilityPollDeps {
 
 export async function pollUntilTesterVisible(deps: VisibilityPollDeps): Promise<VisibilityOutcome> {
   const start = deps.now()
+  const everySeconds = Math.round(deps.intervalMs / 1000)
+  const givingUpAt = pollElapsed(deps.timeoutMs)
   let lastState: string | null = null
+  let reported: string | undefined
+  let failures = 0
   for (;;) {
-    const state = await deps.fetchState()
-    lastState = state
-    const classification = classifyInternalBuildState(state)
-    if (classification === "visible") return { kind: "visible", state: state ?? "" }
-    if (classification === "blocked") return { kind: "blocked", state: state ?? "" }
-    deps.onTick?.(`build not yet tester-visible (internalBuildState: ${state ?? "not yet set"})…`)
+    const at = (): string => pollElapsed(deps.now() - start)
+    let state: string | null = null
+    let read = true
+    try {
+      state = await deps.fetchState()
+      failures = 0
+    } catch (err) {
+      failures += 1
+      if (failures >= POLL_READ_FAILURE_TOLERANCE) throw err
+      read = false
+      deps.onTick?.(
+        `[${at()}] could not read the build's beta detail (${readFailureMessage(err)}) — retrying in ${everySeconds}s (${failures}/${POLL_READ_FAILURE_TOLERANCE})`
+      )
+    }
+    if (read) {
+      lastState = state
+      const observed = state ?? "not yet set"
+      const classification = classifyInternalBuildState(state)
+      if (classification === "visible") {
+        deps.onTick?.(`[${at()}] ${reported ?? "?"} → ${observed}: the build is tester-visible`)
+        return { kind: "visible", state: state ?? "" }
+      }
+      if (classification === "blocked") {
+        deps.onTick?.(`[${at()}] ${reported ?? "?"} → ${observed}: the build is held back`)
+        return { kind: "blocked", state: state ?? "" }
+      }
+      if (observed !== reported) {
+        deps.onTick?.(
+          reported === undefined
+            ? `[${at()}] internalBuildState is ${observed} — waiting for tester visibility, giving up at ${givingUpAt}`
+            : `[${at()}] ${reported} → ${observed} (internalBuildState)`
+        )
+        reported = observed
+      } else {
+        deps.onTick?.(
+          `[${at()}] internalBuildState still ${observed} — next check in ${everySeconds}s, giving up at ${givingUpAt}`
+        )
+      }
+    }
     if (deps.now() - start >= deps.timeoutMs) return { kind: "timeout", lastState }
     await deps.sleep(deps.intervalMs)
   }

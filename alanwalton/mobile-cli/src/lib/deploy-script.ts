@@ -108,10 +108,16 @@ export function buildTestflightDeployScript(opts: {
           'echo "MOBILE_DEPLOY_TESTFLIGHT_DRYRUN_OK"',
         ]
       : [
+          // The upload runs under `set -e`, so anything short of a completed
+          // upload ends the script here and the counter is never advanced. The
+          // marker is echoed before the reservation so that a reservation that
+          // fails on its own is not read back as a failed upload — and the
+          // reservation stays inside the mac build mutex, which the release
+          // below ends.
           ...buildUploadApp(ipa),
+          `echo "${ALTOOL_MARKERS.uploadOk}"`,
           buildReserveBuildNumber(opts.app),
           buildReleaseMacBuildLock(opts.app),
-          `echo "${ALTOOL_MARKERS.uploadOk}"`,
         ])
   )
   return sections.join("\n")

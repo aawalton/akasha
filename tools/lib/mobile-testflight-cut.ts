@@ -39,10 +39,10 @@ export async function runTestflightCut(opts: {
   const startedAt = Date.now()
 
   const {
+    createAscJwtSource,
     fetchInternalBuildState,
     fetchLatestBuild,
     fetchMaxBuildVersion,
-    mintAscJwt,
     resolveAppId,
   } = await ascClient()
   const { MACBOOK } = await host()
@@ -74,12 +74,15 @@ export async function runTestflightCut(opts: {
     visibilityFailureFor,
   } = await testflightPoll()
 
+  // One source, asked afresh for every read: the cut plus a --wait poll runs far
+  // longer than any single token lives.
+  const ascJwt = createAscJwtSource()
+
   let appId: string | undefined
   let ascFloor = 0
   try {
-    const jwt = await mintAscJwt()
-    appId = await resolveAppId(app.bundleId, jwt)
-    ascFloor = await fetchMaxBuildVersion(appId, jwt)
+    appId = await resolveAppId(app.bundleId, await ascJwt())
+    ascFloor = await fetchMaxBuildVersion(appId, await ascJwt())
   } catch (err) {
     if (wait) throw err
     process.stdout.write(
@@ -107,7 +110,22 @@ export async function runTestflightCut(opts: {
     }
     process.stdout.write("Building www on the workstation from the origin/main tip…\n")
     const wwwAt = Date.now()
-    const built = await buildWwwFromMainTip({ app, ref })
+    // The stage script inherits this terminal, so a client-build gate that
+    // refuses — `no-node-in-client` among them — has already named its modules
+    // above. What execFileSync throws for that is a bare Error, which carries no
+    // exit code and lands as 70/unclassified, where this command's page says a
+    // failed workstation www build is a 3. Named here, so the last line says
+    // which step failed and where its detail is.
+    let built: Awaited<ReturnType<typeof buildWwwFromMainTip>>
+    try {
+      built = await buildWwwFromMainTip({ app, ref })
+    } catch (err) {
+      throw operationalError(
+        `the workstation www build failed, so nothing was staged to the MacBook and no build number was spent (${
+          err instanceof Error ? err.message : String(err)
+        }). The stage script's own output is above — search the run for \`[stage-app]\` and read what follows it for the refusing gate and the modules it names.`
+      )
+    }
     mainSha = built.mainSha
     process.stdout.write(
       `Staging www (main ${mainSha.slice(0, 12)}) → ${MACBOOK.user}@${MACBOOK.host}:~/${stagingRel}…\n`
@@ -215,11 +233,14 @@ export async function runTestflightCut(opts: {
       )
     }
     const resolvedAppId = appId
-    const pollJwt = await mintAscJwt()
     const targetVersion = String(assignedBuildNumber)
-    process.stdout.write("Polling App Store Connect for build processing…\n")
+    process.stdout.write(
+      `Polling App Store Connect for build ${targetVersion} every ${
+        POLL_INTERVAL_MS / 1000
+      }s, up to ${POLL_TIMEOUT_MS / 60_000} minutes…\n`
+    )
     const outcome = await pollBuildUntilTerminal({
-      fetchLatest: () => fetchLatestBuild(resolvedAppId, pollJwt),
+      fetchLatest: async () => fetchLatestBuild(resolvedAppId, await ascJwt()),
       isTarget: (build) => build.version === targetVersion,
       sleep: (ms) => new Promise((resolve) => setTimeout(resolve, ms)),
       now: () => Date.now(),
@@ -237,11 +258,15 @@ export async function runTestflightCut(opts: {
         }). The upload succeeded — check App Store Connect → TestFlight, or re-run \`ops mobile testflight-status --wait\` to keep waiting.`
       )
     }
-    process.stdout.write(`\n✓ build ${outcome.build.version} VALID — checking tester visibility…\n`)
+    process.stdout.write(
+      `\n✓ build ${outcome.build.version} VALID — polling tester visibility every ${
+        POLL_INTERVAL_MS / 1000
+      }s, up to ${VISIBILITY_TIMEOUT_MS / 60_000} minutes…\n`
+    )
 
     const validBuild = outcome.build
     const visibility = await pollUntilTesterVisible({
-      fetchState: () => fetchInternalBuildState(validBuild.id, pollJwt),
+      fetchState: async () => fetchInternalBuildState(validBuild.id, await ascJwt()),
       sleep: (ms) => new Promise((resolve) => setTimeout(resolve, ms)),
       now: () => Date.now(),
       intervalMs: POLL_INTERVAL_MS,
