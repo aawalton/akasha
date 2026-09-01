@@ -33,6 +33,7 @@ export const alanHarness = {
     "workspace-package/chess-core",
     "workspace-package/geo-io",
     "workspace-package/browser-launch-env",
+    "workspace-package/web-static-assets",
   ],
   invariants: [
     {
