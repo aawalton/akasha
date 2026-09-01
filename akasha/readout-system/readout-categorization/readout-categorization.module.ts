@@ -51,7 +51,7 @@ export const readoutCategorization = {
     {
       invariantKind: "departure",
       statement:
-        "A readout whose page cannot be read is answered as none rather than under a guessed key.",
+        "A readout whose page cannot be read is answered under no key rather than under a guessed key.",
     },
     {
       invariantKind: "departure",

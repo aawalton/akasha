@@ -22,7 +22,7 @@ export const readoutBody = {
     },
     {
       invariantKind: "gap",
-      statement: "A body carries as many readings as the group drawing them holds.",
+      statement: "A body carries as many readings as the group drawing the readings holds.",
     },
     {
       invariantKind: "absence",

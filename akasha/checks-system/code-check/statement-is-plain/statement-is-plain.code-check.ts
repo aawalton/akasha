@@ -7,7 +7,7 @@ export const statementIsPlain = {
   definition: "the check refusing an invariant that is not written in plain language",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
@@ -61,7 +61,7 @@ export const statementIsPlain = {
     },
     {
       invariantKind: "stopgap",
-      statement: "Every phase is off until the invariants akasha holds are rewritten.",
+      statement: "Every phase but patch is off until the invariants akasha holds are rewritten.",
     },
     {
       invariantKind: "gap",

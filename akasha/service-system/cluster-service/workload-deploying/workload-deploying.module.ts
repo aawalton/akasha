@@ -45,7 +45,7 @@ export const workloadDeploying = {
     },
     {
       invariantKind: "departure",
-      statement: "A kubectl that refuses stops the apply where it stands.",
+      statement: "A kubectl that refuses stops the apply where the apply stands.",
     },
     {
       invariantKind: "absence",
