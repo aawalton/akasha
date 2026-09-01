@@ -88,3 +88,11 @@ export const BODIES = new Map<string, string>([
     'export type Both = {\n  readonly split: string\n}\n\nexport function split(): string {\n  return "two"\n}\n',
   ],
 ])
+
+export const ROOT = "/var/tmp/token-renaming-stands-nowhere"
+
+export const PATHS = [...BODIES.keys()]
+
+export function textOf(path: string): string | null {
+  return BODIES.get(path) ?? null
+}

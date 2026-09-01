@@ -8,17 +8,15 @@ import {
   NAMER,
   OWN,
   PAIRED,
+  PATHS,
+  PLAIN,
+  ROOT,
   SHADOW,
   TWICE,
+  textOf,
+  UNWELDED,
+  WELDED,
 } from "./token-renaming.module.test-fixtures.ts"
-
-const ROOT = "/var/tmp/token-renaming-stands-nowhere"
-
-const PATHS = [...BODIES.keys()]
-
-function textOf(path: string): string | null {
-  return BODIES.get(path) ?? null
-}
 
 function over(
   at: string,
@@ -45,6 +43,44 @@ function changed(made: ReturnType<typeof bindingFor>, at: string): string {
   if ("refused" in made) throw new Error(made.refused)
   return made.binding.changes.get(at) ?? ""
 }
+
+test("a key and a name one shorthand welds together are renamed as one", () => {
+  const welded = changed(bound(WELDED, "keyed", "services"), WELDED)
+
+  expect(welded).toContain("readonly services: readonly string[]")
+  expect(welded).toContain("const services: string[] = []")
+  expect(welded).toContain("services.push(at)")
+  expect(welded).toContain("return { services }")
+  expect(welded).not.toContain("keyed")
+})
+
+test("a shorthand a welded rename carries is left as the one name", () => {
+  const plain = changed(bound(PLAIN, "keyed", "services"), PLAIN)
+
+  expect(plain).toContain("readonly services: readonly string[]")
+  expect(plain).toContain("return { services }")
+  expect(plain).not.toContain("services: services")
+})
+
+test("a welded rename takes the line either declaration starts on", () => {
+  const key = changed(lined(WELDED, "keyed", "services", "1"), WELDED)
+
+  expect(key).toBe(changed(lined(WELDED, "keyed", "services", "4"), WELDED))
+  expect(key).toContain("return { services }")
+})
+
+test("a line no welded declaration starts on is refused rather than renaming nothing", () => {
+  expect(lined(WELDED, "keyed", "services", "3")).toEqual({
+    refused: `${WELDED} declares no \`keyed\` on line 3 — say --line with 1 or 4`,
+  })
+})
+
+test("one key written out anywhere in the file welds nothing, so the rename is refused", () => {
+  expect(bound(UNWELDED, "keyed", "services")).toEqual({
+    refused:
+      `${UNWELDED} carries \`keyed\` as a name and as a key, ` + "so which one to rename is unsaid",
+  })
+})
 
 test("a name that is already the one it would become is refused rather than worked out", () => {
   expect(tokeningFor(HELD, "marking", "marking")).toEqual({
