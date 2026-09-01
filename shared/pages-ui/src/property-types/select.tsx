@@ -12,7 +12,8 @@ import { type BadgeVariant } from "@akasha/pages-core/schema/color-rule"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { selectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyBadgeProps } from "./property-badge"
-import type { PropertyValue, SelectOption } from "./types"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
+import type { SelectOption } from "@akasha/pages-core/schema/select-option-create"
 
 function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
   return parseConfig(selectConfigSchema, definition.config, { options: [] }).options

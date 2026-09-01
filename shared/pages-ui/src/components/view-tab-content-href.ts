@@ -2,8 +2,8 @@ import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import { buildPageListingHref } from "@akasha/pages-url/page-listing-href"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import type { PageWithProperties } from "../supabase/types"
-import type { PageRow } from "../view-engine/page-row"
+import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
+import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
 
 export function readRelationConfig(
   config: PropertyDefinition["config"]

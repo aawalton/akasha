@@ -2,7 +2,7 @@ import type { DeletePageArgs } from "@akasha/pages-access/delete"
 import type { Page } from "@akasha/pages-core/page-types"
 import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
 import { runOptimisticMutation } from "./apply-prediction"
-import { extractTargetIds } from "./extract-target-ids"
+import { extractTargetIds } from "@akasha/pages-ui/supabase/mutations/extract-target-ids"
 
 export function useOptimisticSoftDeletePage(
   mutate: (args: DeletePageArgs) => Promise<Page | null>

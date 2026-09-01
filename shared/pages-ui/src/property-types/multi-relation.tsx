@@ -16,7 +16,7 @@ import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { multiRelationConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyBadgeProps } from "./property-badge"
-import type { PropertyValue } from "./types"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 
 function colClassFor(align: "start" | "end"): string {
   return align === "start" ? "flex flex-col items-start gap-1" : "flex flex-col items-end gap-1"

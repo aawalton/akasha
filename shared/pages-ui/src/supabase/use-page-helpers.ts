@@ -1,4 +1,4 @@
-import type { PageWithProperties } from "./types"
+import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 
 export function composeContentTierPage(
   onDemandPage: PageWithProperties | null,

@@ -9,7 +9,7 @@ import { type PropertyDefinition } from "@akasha/pages-core/types"
 import type { ShapeDescriptor } from "@akasha/pages-ui-store/collection/shape-descriptor"
 import { useMemo } from "react"
 import { adjustTotalForClientFilters, applyClientViewFilters } from "./apply-client-view-filters"
-import { type PageWithProperties, toPageWithProperties } from "./types"
+import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useViewPagesSupabase } from "./use-view-pages"
 import { viewFilterToCondition } from "./view-filter-to-condition"
 

@@ -8,7 +8,7 @@ import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitiv
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
-import type { FilterOperator } from "../property-types/types"
+import type { FilterOperator } from "@akasha/pages-core/property-types/types"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
 

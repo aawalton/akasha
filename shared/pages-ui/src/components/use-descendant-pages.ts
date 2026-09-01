@@ -11,7 +11,7 @@ import { type ViewSort } from "@akasha/pages-core/schema/view-data"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect, useMemo, useRef, useState } from "react"
-import { type PageWithProperties, toPageWithProperties } from "../supabase/types"
+import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 
 interface DescendantPagesResult {
   rows: readonly Page[]

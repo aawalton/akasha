@@ -4,7 +4,7 @@ import type { PageWhere } from "@akasha/pages-core/page-types"
 import type { ListingConfig } from "@akasha/pages-core/schema/listing-config"
 import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import { useMemo } from "react"
-import type { PageWithProperties } from "../supabase/types"
+import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { resolveListingViewData } from "@akasha/pages-ui/components/resolve-listing-config"
 import { useDescendantListing } from "./use-descendant-pages"
 

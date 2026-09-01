@@ -18,7 +18,7 @@ import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigge
 import { Ellipsis } from "lucide-react"
 import { type CSSProperties, useCallback, useEffect, useRef, useState } from "react"
 import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
-import type { ViewCallbacks } from "../mutators/views"
+import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
 import { CreateViewPopover } from "./create-view-popover"
 import {
   VIEW_FALLBACK_ICON_NAME,

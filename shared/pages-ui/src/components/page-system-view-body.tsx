@@ -6,7 +6,7 @@ import { ResponsiveColumnsSkeleton } from "@akasha/design-layout/responsive-colu
 import { CollapsibleGroupSection } from "@akasha/design-patterns/collapsible-group-section"
 import { type useCollapsedGroups } from "@akasha/design-patterns/use-collapsed-groups"
 import type { Dispatch, SetStateAction } from "react"
-import type { PageRow } from "../view-engine/page-row"
+import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
 import { PageBoard } from "./page-board"
 import { PageCalendar } from "./page-calendar"
 import { PageListSection } from "./page-list-section"

@@ -7,7 +7,7 @@ import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { QuickAddConfig } from "@akasha/pages-core/schema/quick-add"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { useState } from "react"
-import type { PageWithProperties } from "../../supabase/types"
+import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { QuickAddForm } from "./quick-add-form"
 
 const FORM_ID = "quick-add-form"

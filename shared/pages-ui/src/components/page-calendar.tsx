@@ -17,7 +17,7 @@ import {
   useState,
 } from "react"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PageRow } from "../view-engine/page-row"
+import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
 import { usePageCalendarState } from "./use-page-calendar-state"
 
 interface PageCalendarProps {

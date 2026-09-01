@@ -10,7 +10,7 @@ import { pageDayKey } from "@akasha/pages-core/view/calendar-date-to-value"
 import { applyGranularityBucket } from "@akasha/pages-core/view/group-granularity"
 import { useMemo } from "react"
 import { adjustTotalForClientFilters, applyClientViewFilters } from "./apply-client-view-filters.ts"
-import { type PageWithProperties, toPageWithProperties } from "./types.ts"
+import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { type UsePagesSupabaseOptions, usePagesSupabase } from "./use-pages.tsx"
 import { viewFilterToCondition } from "./view-filter-to-condition.ts"
 

@@ -6,7 +6,7 @@ import { pageDayKey } from "@akasha/pages-core/view/calendar-date-to-value"
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PageRow } from "../view-engine/page-row"
+import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
 import { type CalendarCellRect, computeCalendarDropDay } from "@akasha/pages-ui/components/page-calendar-dnd-helpers"
 
 export function usePageCalendarState({

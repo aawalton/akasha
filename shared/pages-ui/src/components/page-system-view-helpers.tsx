@@ -10,7 +10,7 @@ import { Plus } from "lucide-react"
 import type { ReactNode } from "react"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { ViewSort } from "@akasha/pages-core/schema/view-data"
-import type { PageRow } from "../view-engine/page-row"
+import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
 import type { ServerGroupedSection } from "./page-system-view-types"
 import { PageTimeline } from "./page-timeline"
 

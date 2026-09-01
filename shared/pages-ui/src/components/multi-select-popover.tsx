@@ -5,7 +5,7 @@ import { Input } from "@akasha/design-primitives/input"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { Plus, X } from "lucide-react"
 import { useState } from "react"
-import type { SelectOption } from "../property-types/types"
+import type { SelectOption } from "@akasha/pages-core/schema/select-option-create"
 import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
 
 interface MultiSelectPopoverProps {

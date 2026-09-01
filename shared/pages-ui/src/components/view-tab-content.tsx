@@ -5,7 +5,7 @@ import { isLocked, isPageTypeLocked, type ViewDataJSON } from "@akasha/pages-cor
 import { type LockedFacet } from "@akasha/pages-core/schema/view-data-locked"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { SupabasePageResolverProvider } from "../supabase/page-resolver-provider.tsx"
-import { type PageWithProperties } from "../supabase/types.ts"
+import { type PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic.tsx"
 import { useUserId } from "../use-user-id.tsx"
 import { PageCardRenderer } from "./page-card-renderer.tsx"

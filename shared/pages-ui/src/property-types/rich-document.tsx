@@ -5,7 +5,7 @@ import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { richDocumentSchema } from "@akasha/pages-core/property-types/rich-document"
 
 import type { PropertyBadgeProps } from "./property-badge"
-import type { PropertyValue } from "./types"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 
 function blockCount(value: PropertyValue): number {
   const parsed = richDocumentSchema.safeParse(value)

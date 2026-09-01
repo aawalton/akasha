@@ -6,7 +6,7 @@ import { resolvePropertyVisibilityMode } from "@akasha/pages-core/schema/view-da
 import { useMemo } from "react"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { isEmptyValue, PropertyBadge } from "../property-types/property-badge.tsx"
-import type { PropertyValue } from "../property-types/types.ts"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import { selectVisibleCardProperties } from "./page-properties-shared.ts"
 
 interface PageCardPropertiesProps {

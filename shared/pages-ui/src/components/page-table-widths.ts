@@ -10,7 +10,7 @@ import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { formatSmartDate } from "@akasha/pages-core/view/format-smart-date"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { instantConfigSchema, multiSelectConfigSchema, numberConfigSchema, selectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
-import type { PageRow } from "../view-engine/page-row"
+import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
 import { type PageTableColumn, TITLE_COLUMN_ID } from "@akasha/pages-ui/components/page-table-shared"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/

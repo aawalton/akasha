@@ -3,7 +3,7 @@
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { useAllPages } from "@shared/pages-ui/supabase/hooks"
-import { type PageWithProperties } from "@shared/pages-ui/supabase/types"
+import { type PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"

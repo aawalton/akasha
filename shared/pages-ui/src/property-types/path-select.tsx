@@ -6,7 +6,7 @@ import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { pathSelectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyBadgeProps } from "./property-badge"
-import type { PropertyValue } from "./types"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 
 const DEFAULT_SEPARATOR = " > "
 

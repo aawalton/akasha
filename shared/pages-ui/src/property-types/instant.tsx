@@ -13,7 +13,7 @@ import { type BadgeVariant } from "@akasha/pages-core/schema/color-rule"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { instantConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyBadgeProps } from "./property-badge"
-import type { PropertyValue } from "./types"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 
 function getInstantFormat(definition: PropertyDefinition): InstantFormat {
   const config: InstantConfig = parseConfig(instantConfigSchema, definition.config, {

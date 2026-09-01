@@ -1,7 +1,7 @@
 "use client"
 
 import { type RefObject, useEffect, useRef } from "react"
-import type { PageWithProperties } from "../supabase/types"
+import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { clampFraction } from "@akasha/pages-ui/components/position-fraction"
 import { emitPositionWrite } from "@akasha/pages-ui/components/position-write-event"
 import { computeReadProgress } from "@akasha/pages-ui/components/read-progress"

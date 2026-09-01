@@ -4,7 +4,7 @@ import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
 import type { InteractionToken } from "../../perf/page-card-perf.ts"
 import { runOptimisticMutation } from "./apply-prediction.ts"
 import { buildOverlay, buildPatchPlan } from "./build-patch-plan.ts"
-import { extractTargetIds } from "./extract-target-ids.ts"
+import { extractTargetIds } from "@akasha/pages-ui/supabase/mutations/extract-target-ids"
 
 export function useOptimisticPatchPage(mutate: (args: PatchPageArgs) => Promise<Page | null>) {
   return async (args: PatchPageArgs, perfToken?: InteractionToken): Promise<Page | null> => {

@@ -15,7 +15,7 @@ import {
   type RelationSpec,
 } from "@akasha/pages-ui/supabase/collect-related-ids"
 import { getRelatedPagesByIdCoalesced } from "./related-pages-coalesce"
-import { type PageWithProperties, toPageWithProperties } from "./types"
+import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { type UsePagesSupabaseOptions, usePagesSupabase } from "./use-pages"
 
 export function usePageByIdSuffix({

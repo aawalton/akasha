@@ -12,7 +12,7 @@ import { getOccurrenceAtOrAfter } from "@akasha/recurrence/scheduling"
 import { useId, useState } from "react"
 
 import type { PropertyBadgeProps } from "./property-badge"
-import type { PropertyValue } from "./types"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 
 interface RruleValue {
   rule: string

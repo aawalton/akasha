@@ -3,7 +3,7 @@
 import { useMemo } from "react"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { PropertyBadge } from "../property-types/property-badge.tsx"
-import type { PropertyValue } from "../property-types/types.ts"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import { SortablePropertyList } from "./page-detail-sortable-list.tsx"
 import { RESERVED_PROPERTY_IDS } from "./page-properties-shared.ts"
 

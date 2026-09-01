@@ -7,7 +7,7 @@ import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 
 import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
 import type { PropertyBadgeProps } from "./property-badge"
-import type { PropertyValue } from "./types"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/
 

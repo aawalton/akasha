@@ -6,7 +6,7 @@ import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value
 import { useMemo, useState } from "react"
 import { usePageResolverOptional } from "../contexts/page-resolver"
 import { useRelationPicker } from "../contexts/relation-picker"
-import type { FilterOperator } from "../property-types/types"
+import type { FilterOperator } from "@akasha/pages-core/property-types/types"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
 import { toStringArray } from "./value-filter-inputs"

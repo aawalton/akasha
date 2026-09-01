@@ -8,7 +8,7 @@ import { z } from "zod"
 
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PropertyBadgeProps } from "./property-badge"
-import type { PropertyValue } from "./types"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 
 type JsonValue =
   | string

@@ -6,7 +6,7 @@ import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/ro
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { useEffect, useMemo, useRef, useState } from "react"
-import { type PageWithProperties, toPageWithProperties } from "./types"
+import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 
 export interface Referrer {
   page: PageWithProperties

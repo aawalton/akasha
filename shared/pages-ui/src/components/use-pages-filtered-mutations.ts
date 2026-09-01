@@ -10,7 +10,7 @@ import { useCallback } from "react"
 import type { PagesUIRouter } from "../router-context"
 import { useOptimisticCreatePage } from "../supabase/mutations/use-optimistic-create-page"
 import { useOptimisticSoftDeletePage } from "../supabase/mutations/use-optimistic-soft-delete-page"
-import { type PageWithProperties } from "../supabase/types"
+import { type PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
 
 export interface PagesFilteredMutations {

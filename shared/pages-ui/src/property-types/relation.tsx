@@ -16,7 +16,7 @@ import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { relationConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PropertyBadgeProps } from "./property-badge"
-import type { PropertyValue } from "./types"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 
 function isRelationObject(value: unknown): value is { id: string; title: string } {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return false

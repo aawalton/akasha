@@ -8,7 +8,7 @@ import { DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator } from "@a
 import { Input } from "@akasha/design-primitives/input"
 import { Label } from "@akasha/design-primitives/label"
 import { useEffect, useRef, useState } from "react"
-import type { ViewCallbacks } from "../mutators/views"
+import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
 
 export const VIEW_FALLBACK_ICON_NAME = "layout-list"
 

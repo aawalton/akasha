@@ -10,7 +10,7 @@ import {
 } from "../contexts/relation-picker"
 import { buildPageResolver } from "../view-engine/build-page-resolver"
 import { usePaginatedRelationPicker } from "./relation-picker"
-import type { PageWithProperties } from "./types"
+import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 
 interface SupabasePageResolverProviderProps {
   pages: readonly PageWithProperties[]

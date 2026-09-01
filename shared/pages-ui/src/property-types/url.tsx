@@ -6,7 +6,7 @@ import { ExternalLink } from "lucide-react"
 import { useEffect, useState } from "react"
 
 import type { PropertyBadgeProps } from "./property-badge"
-import type { PropertyValue } from "./types"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 
 function asUrl(value: PropertyValue): string {
   if (value == null || typeof value === "object") return ""

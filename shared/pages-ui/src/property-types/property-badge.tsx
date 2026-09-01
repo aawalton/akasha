@@ -8,7 +8,7 @@ import { propertyTypeRendersWhenEmpty } from "@akasha/pages-core/property-types/
 import type { ComponentType } from "react"
 
 import { propertyBadgeRegistry } from "./badge-registry.ts"
-import type { PropertyValue } from "./types.ts"
+import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 
 export type PropertyBadgeContext = "card" | "detail" | "title"
 

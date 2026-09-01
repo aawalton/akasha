@@ -1,6 +1,6 @@
 import { colorRuleVariantSchema } from "@akasha/pages-core/schema/color-rule"
 import type { PageResolverEntry, PageResolverValue } from "../contexts/page-resolver"
-import type { PageWithProperties } from "../supabase/types"
+import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 
 export function buildPageResolver(
   pageSets: readonly (readonly PageWithProperties[])[],
