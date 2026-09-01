@@ -84,13 +84,13 @@ export function placedIn(root: string, asked: Asked, places: Placing = placing):
   const paths: string[] = [...(asked.paths ?? [])]
   const unplaced: string[] = []
   for (const one of asked.pages ?? []) {
-    const standing = places(root, one.pageTypeSlug, one.slug)
-    if (standing.length > 1) {
+    const listed = places(root, one.pageTypeSlug, one.slug)
+    if (listed.length > 1) {
       return {
-        refused: `\`${namedIn(one)}\` stands at ${standing.length} paths, so no one body is the page's`,
+        refused: `\`${namedIn(one)}\` stands at ${listed.length} paths, so no one body is the page's`,
       }
     }
-    const first = standing[0]
+    const first = listed[0]
     if (first === undefined) unplaced.push(namedIn(one))
     else paths.push(first.path)
   }
