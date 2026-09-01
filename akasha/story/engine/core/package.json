@@ -39,7 +39,8 @@
     "./tally-boundary": "./tally-boundary/tally-boundary.module.code.ts",
     "./tally-catalog": "./tally-catalog/tally-catalog.module.code.ts",
     "./turn-package-schema": "./turn-package-schema/turn-package-schema.module.code.ts",
-    "./turn-schema": "./turn-schema/turn-schema.module.code.ts"
+    "./turn-schema": "./turn-schema/turn-schema.module.code.ts",
+    "./word-count": "./word-count/word-count.module.code.ts"
   },
   "dependencies": {
     "@akasha/pages-core": "workspace:*",
