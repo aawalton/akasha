@@ -1,7 +1,7 @@
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { ApotheosisPanel } from "~/idle/components/apotheosis-panel"
 import { LegacyPerksPanel } from "~/idle/components/legacy-perks-panel"
-import type { GameState } from "../lib/core/types"
+import type { GameState } from "@akasha/idle-system/state"
 import { deriveApotheosisView, deriveLegacyPerksView } from "~/idle/lib/display"
 import type { IdleActions } from "~/idle/lib/use-idle-actions"
 

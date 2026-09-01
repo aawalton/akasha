@@ -1,9 +1,9 @@
-import { gainedStars, sumOwnedRanks } from "./core/accrual"
-import { APO_DIVISOR, ASCEND_MIN, BOON_DEFS, OVERDRIVE_MULT, PERK_DEFS, PRESTIGE_UNLOCK, STAR_VALUE } from "./core/constants"
-import { affinityBonus, apotheosisBonus, boonBonus, constellationBonus, echoBonus, eternityAvailable, foundationBonus, harmonyBonus, legacyPointsAvailable, legacyTiersBonus, medalBonus, perkBonus, resonanceBonus, seatTiers } from "./core/dormant-bonus"
-import { collectionBonus } from "./core/gacha/state"
-import { teamSynergy } from "./core/rate"
-import { type GameState } from "./core/types"
+import { gainedStars, sumOwnedRanks } from "@akasha/idle-system/accrual"
+import { APO_DIVISOR, ASCEND_MIN, BOON_DEFS, OVERDRIVE_MULT, PERK_DEFS, PRESTIGE_UNLOCK, STAR_VALUE } from "@akasha/idle-system/constants"
+import { affinityBonus, apotheosisBonus, boonBonus, constellationBonus, echoBonus, eternityAvailable, foundationBonus, harmonyBonus, legacyPointsAvailable, legacyTiersBonus, medalBonus, perkBonus, resonanceBonus, seatTiers } from "@akasha/idle-system/dormancy"
+import { collectionBonus } from "@akasha/idle-system/gacha-state"
+import { teamSynergy } from "@akasha/idle-system/rate"
+import { type GameState } from "@akasha/idle-system/state"
 import { formatShortNumber as fmt } from "@shared/pages-core/property-types/number"
 
 type IndicatorChip = {

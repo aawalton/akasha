@@ -1,8 +1,8 @@
-import { bankAccrual, normalizeGameState, withLatches } from "./core/accrual"
-import { type GameState } from "./core/types"
+import { bankAccrual, normalizeGameState, withLatches } from "@akasha/idle-system/accrual"
+import { type GameState } from "@akasha/idle-system/state"
 import { type ActionIntent, actionKey } from "~/idle/lib/idle-actions"
 import { commitIntent } from "~/idle/lib/idle-apply"
-import { parseIdleSave } from "~/idle/lib/idle-save"
+import { parseIdleSave } from "@akasha/idle-system/save"
 import { apiFetch } from "~/lib/api-fetch"
 
 export type IdleStatus = "loading" | "signin" | "nosave" | "ready"

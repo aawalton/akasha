@@ -1,10 +1,10 @@
 import { assertNever } from "../../../../../shared/utils-narrow/src/assert-never"
 import { z } from "zod"
-import { cumulativeTrainCost, gainedStars, maxAffordableTrainCount, maxTeam, sumOwnedRanks, trainCost } from "./core/accrual"
-import { AFFINITY_SEATS, APO_DIVISOR, ASCEND_MIN, BASE_IMAGE_ID, BOON_DEFS, ECHO_PER, MASTERY_RANK_REQ, PERK_DEFS, TRAIN_BULK_COUNT } from "./core/constants"
-import { eternityAvailable, legacyPointsAvailable } from "./core/dormant-bonus"
-import { isUnlocked } from "./core/gacha/state"
-import { type GachaState, type GameState } from "./core/types"
+import { cumulativeTrainCost, gainedStars, maxAffordableTrainCount, maxTeam, sumOwnedRanks, trainCost } from "@akasha/idle-system/accrual"
+import { AFFINITY_SEATS, APO_DIVISOR, ASCEND_MIN, BASE_IMAGE_ID, BOON_DEFS, ECHO_PER, MASTERY_RANK_REQ, PERK_DEFS, TRAIN_BULK_COUNT } from "@akasha/idle-system/constants"
+import { eternityAvailable, legacyPointsAvailable } from "@akasha/idle-system/dormancy"
+import { isUnlocked } from "@akasha/idle-system/gacha-state"
+import { type GachaState, type GameState } from "@akasha/idle-system/state"
 
 export const actionIntentSchema = z.discriminatedUnion("type", [
   z.object({ type: z.literal("train"), slug: z.string() }),

@@ -2,7 +2,7 @@ import { surfaceClass } from "@shared/design-primitives/components/surface-class
 import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { ErrorMessage } from "~/idle/components/error-message"
-import type { GameState } from "../lib/core/types"
+import type { GameState } from "@akasha/idle-system/state"
 import { deriveLegacyPerksView } from "~/idle/lib/display"
 import { formatShortNumber as fmt } from "@shared/pages-core/property-types/number"
 import type { IdleActions } from "~/idle/lib/use-idle-actions"

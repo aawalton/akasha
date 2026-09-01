@@ -1,9 +1,9 @@
 import type { Catalog } from "./catalog"
-import { cumulativeTrainCost, trainCost } from "./core/accrual"
-import { BASE_IMAGE_ID, TRAIN_BULK_COUNT } from "./core/constants"
-import { nextStarThreshold } from "./core/gacha/state"
-import { effectiveRate } from "./core/rate"
-import { type GameState } from "./core/types"
+import { cumulativeTrainCost, trainCost } from "@akasha/idle-system/accrual"
+import { BASE_IMAGE_ID, TRAIN_BULK_COUNT } from "@akasha/idle-system/constants"
+import { nextStarThreshold } from "@akasha/idle-system/gacha-state"
+import { effectiveRate } from "@akasha/idle-system/rate"
+import { type GameState } from "@akasha/idle-system/state"
 
 export type GirlCardVM = {
   readonly slug: string

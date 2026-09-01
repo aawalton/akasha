@@ -1,8 +1,8 @@
 import { askComposed } from "@akasha/pages-query/ask"
 import { type QueryRow } from "@akasha/pages-query/answer-schema"
-import type { DerivedMechanics, PersonaIdentity } from "./core/derive"
-import type { DrawContext, DrawGirl } from "./core/gacha/draw"
-import { deriveMechanics } from "./core/derive"
+import type { DerivedMechanics, PersonaIdentity } from "@akasha/idle-system/deriving"
+import type { DrawContext, DrawGirl } from "@akasha/idle-system/draw"
+import { deriveMechanics } from "@akasha/idle-system/deriving"
 import type { IdleSupabase } from "./idle-save-context.server"
 
 async function everyRow(

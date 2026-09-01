@@ -7,7 +7,7 @@ import { cn } from "@shared/design-primitives/utils/cn"
 import { DegradingImage } from "@shared/pages-ui/components/degrading-image"
 import { useSyncExternalStore } from "react"
 import { StarRow } from "~/idle/components/star-row"
-import type { DrawReveal } from "../lib/core/gacha/draw"
+import type { DrawReveal } from "@akasha/idle-system/draw"
 import { clearReveal, getRevealSnapshot, subscribeReveal } from "~/idle/lib/reveal-store"
 import "./reveal-host.css"
 

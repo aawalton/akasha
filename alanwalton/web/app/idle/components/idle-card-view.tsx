@@ -8,8 +8,8 @@ import { useReorderViewWiring } from "@shared/pages-ui/components/use-reorder-vi
 import { type PageRow } from "@shared/pages-ui/view-engine/page-row"
 import { PageTypeSlug } from "@shared/pages-url"
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react"
-import { cumulativeTrainCost, maxAffordableTrainCount } from "../lib/core/accrual.ts"
-import { displayedResource } from "../lib/core/rate.ts"
+import { cumulativeTrainCost, maxAffordableTrainCount } from "@akasha/idle-system/accrual"
+import { displayedResource } from "@akasha/idle-system/rate"
 import { bucketPageRowsByGroup } from "~/idle/lib/idle-card-grouping"
 import {
   IDLE_CARD_PROPERTY_DEFINITIONS,

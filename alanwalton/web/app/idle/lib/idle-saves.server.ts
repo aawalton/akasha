@@ -1,7 +1,7 @@
 import { writePage } from "@akasha/pages-query"
 import { askComposed } from "@akasha/pages-query/ask"
 import { assertNotProtectedSaveUser } from "./idle-protected-user"
-import { type IdleSave, parseIdleSave, toJsonSave } from "./idle-save"
+import { type IdleSave, parseIdleSave, toJsonSave } from "@akasha/idle-system/save"
 
 const PAGE_TYPE = "idle-save"
 

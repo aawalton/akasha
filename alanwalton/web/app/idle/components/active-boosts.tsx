@@ -1,7 +1,7 @@
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { cn } from "@shared/design-primitives/utils/cn"
-import type { GameState } from "../lib/core/types"
+import type { GameState } from "@akasha/idle-system/state"
 import { deriveIndicatorChips } from "~/idle/lib/display"
 
 export function ActiveBoosts({ state }: { state: GameState }) {

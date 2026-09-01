@@ -1,5 +1,5 @@
-import { AFFINITY_SEATS, MASTERY_RANK_REQ } from "./core/constants"
-import { type GameState } from "./core/types"
+import { AFFINITY_SEATS, MASTERY_RANK_REQ } from "@akasha/idle-system/constants"
+import { type GameState } from "@akasha/idle-system/state"
 import { IDLE_LOCK_STATE_LOCKED, IDLE_LOCK_STATE_UNLOCKED } from "~/idle/lib/idle-card-page-type"
 import { portraitSrc } from "~/idle/lib/portrait"
 import type { GirlCardVM } from "~/idle/lib/roster-view"

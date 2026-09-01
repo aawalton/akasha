@@ -1,8 +1,8 @@
 import { toPageDataRecord } from "@shared/pages-ui/components/page-data-json"
 import { type PageRow } from "@shared/pages-ui/view-engine/page-row"
 import type { Catalog } from "~/idle/lib/catalog"
-import type { GameState } from "./core/types"
-import { boostedRateMap } from "./core/rate"
+import type { GameState } from "@akasha/idle-system/state"
+import { boostedRateMap } from "@akasha/idle-system/rate"
 import { buildLockInputs, deriveCardProjections } from "~/idle/lib/idle-card-projection"
 import { deriveRosterView, formatCollectedBadge, formatStarsDetail } from "~/idle/lib/roster-view"
 

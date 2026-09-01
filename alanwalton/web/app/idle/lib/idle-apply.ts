@@ -1,5 +1,5 @@
-import { bankAccrual, withLatches } from "./core/accrual"
-import { type GameState } from "./core/types"
+import { bankAccrual, withLatches } from "@akasha/idle-system/accrual"
+import { type GameState } from "@akasha/idle-system/state"
 import { type ActionIntent, type ActionResult, applyIntent } from "~/idle/lib/idle-actions"
 
 export function commitIntent(state: GameState, intent: ActionIntent, now: number): ActionResult {

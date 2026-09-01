@@ -1,6 +1,6 @@
-import { normalizeGameState } from "../core/accrual"
-import { type GachaGirl, type GameState, type SynergyMatrix, type Teammate } from "../core/types"
-import { parseIdleSave } from "../idle-save"
+import { normalizeGameState } from "@akasha/idle-system/accrual"
+import { type GachaGirl, type GameState, type SynergyMatrix, type Teammate } from "@akasha/idle-system/state"
+import { parseIdleSave } from "@akasha/idle-system/save"
 
 export const NOW = 1_000_000
 

@@ -1,6 +1,6 @@
-import { maxTeam } from "../lib/core/accrual"
-import { isUnlocked } from "../lib/core/gacha/state"
-import { type GameState } from "../lib/core/types"
+import { maxTeam } from "@akasha/idle-system/accrual"
+import { isUnlocked } from "@akasha/idle-system/gacha-state"
+import { type GameState } from "@akasha/idle-system/state"
 import { applyDrop, pickerCandidates } from "~/idle/lib/lineup-slots-draft"
 import type { IdleActions } from "~/idle/lib/use-idle-actions"
 

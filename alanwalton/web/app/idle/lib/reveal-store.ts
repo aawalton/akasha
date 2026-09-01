@@ -1,4 +1,4 @@
-import type { DrawReveal } from "./core/gacha/draw"
+import type { DrawReveal } from "@akasha/idle-system/draw"
 
 let current: DrawReveal | null = null
 const listeners = new Set<() => void>()
