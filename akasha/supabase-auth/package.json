@@ -1,0 +1,16 @@
+{
+  "name": "@akasha/supabase-auth",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./auth": "./auth/auth.module.code.ts",
+    "./protected-user": "./protected-user/protected-user.module.code.ts",
+    "./supabase-user": "./supabase-user/supabase-user.module.code.ts",
+    "./user-id": "./user-id/user-id.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/supabase-database": "workspace:*",
+    "@supabase/supabase-js": "^2.104.0",
+    "zod": "^4.3.6"
+  }
+}
