@@ -16,7 +16,9 @@ const NOW = "@akasha/kept"
 const AT = "akasha/held/package.json"
 
 function manifests(...pairs: readonly (readonly [string, string])[]): ReadonlyMap<string, string> {
-  return new Map(pairs)
+  const found = new Map<string, string>()
+  for (const [path, text] of pairs) found.set(path, text)
+  return found
 }
 
 function manifest(name: string): string {
