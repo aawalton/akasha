@@ -10,13 +10,10 @@ export const amyJennyUnreviewedWidget = {
   intents: [
     { statement: "No file imports `@shared/pages-query`." },
     {
-      statement: "Every folder a package reaches is a package.",
-      workingMemory:
-        "1301 imports in akasha cross a package edge and 640 land in a folder that is no package. file-system, service-system and testing-system now state manifests naming the ways into them, and akasha-system names all three as workspace packages. What is left is pages-system, much the largest: 152 reaches into page alone, then text-property, page-type, change, shadow and the property types. write-system never existed. The root workspaces list belongs to the next intent.",
-    },
-    {
       statement:
         "A package reaches another package by the name its manifest states rather than by a path.",
+      workingMemory:
+        "1299 imports inside akasha cross a package edge and every one of them now lands in a package. Sixteen packages stand: agents, checks, code, command, context, domain, file, graph, hook, indexes, pages, pages-service, person, persona, readout, seat, service, testing. None but the two ios apps are named in the root workspaces list, so a name would not resolve yet; add them there first, then rewrite the relative specifiers, then narrow each manifest to what is really reached.",
     },
     { statement: "No file Alan's site is built from is too long for akasha to hold." },
     {
