@@ -40,7 +40,7 @@ type PageType = {
   readonly at: string
 }
 
-const STANDS: PageType = {
+const CHECK_PAGE_TYPE: PageType = {
   slug: CHECK,
   at: "akasha/checks-system/code-check/code-check.page-type.ts",
 }
@@ -52,7 +52,7 @@ export function rootWith(
     readonly raw?: string
     readonly body: string
   }[],
-  stands: PageType = STANDS
+  stands: PageType = CHECK_PAGE_TYPE
 ): string {
   const root = scratch.rootFor("akasha-checking-")
   noneOfTypeFiled(root, stands.slug)
