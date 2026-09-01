@@ -12,6 +12,7 @@ export const readoutSystem = {
     "page-type/readout-scale",
     "page-type/readout-widget",
     "module/readout-credential",
+    "module/readout-none-left",
     "module/readout-reading",
     "module/readout-relay",
     "module/readout-ring",

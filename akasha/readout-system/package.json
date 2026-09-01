@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./readout-credential": "./readout-credential/readout-credential.module.code.ts",
+    "./readout-none-left": "./readout-none-left/readout-none-left.module.code.ts",
     "./readout-reading": "./readout-reading/readout-reading.module.code.ts",
     "./readout-relay": "./readout-relay/readout-relay.module.code.ts",
     "./readout-scale-reading": "./readout-scale-reading/readout-scale-reading.module.code.ts",
