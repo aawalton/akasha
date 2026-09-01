@@ -19,6 +19,7 @@ export const PLAIN: readonly string[] = [
   "VP -> BE NEG NP | BE NEG ADJP | BE NEG VEN",
   "VP -> MODAL VB | MODAL BE NP | MODAL BE ADJP | MODAL BE VEN",
   "VP -> AUX VEN | AUX VEN NP",
+  "VP -> AUX NEG VB",
   "VP -> VP PP",
   "VP -> ADV VP | VP ADV",
   "VB -> V | V NP | V PP",
