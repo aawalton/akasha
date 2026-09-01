@@ -13,7 +13,7 @@ import { join } from "node:path"
 import { ran } from "@akasha/utils-run/running"
 import {
   installedUnitName,
-  type Standing,
+  type Service,
   serviceUnitText,
   timerUnitText,
 } from "../unit-writing/unit-writing.module.code.ts"
@@ -89,7 +89,7 @@ export function unitChanged(home: string, name: string, text: string): boolean {
   }
 }
 
-export function textFor(given: Standing): ReadonlyMap<string, string> {
+export function textFor(given: Service): ReadonlyMap<string, string> {
   const held = new Map<string, string>()
   held.set(`${given.service.slug}${SERVICE_SUFFIX}`, serviceUnitText(given))
   const timer = timerUnitText(given)
@@ -97,7 +97,7 @@ export function textFor(given: Standing): ReadonlyMap<string, string> {
   return held
 }
 
-export function planFor(standing: readonly Standing[], owned: readonly string[]): Plan {
+export function planFor(standing: readonly Service[], owned: readonly string[]): Plan {
   const write = new Map<string, string>()
   const enable: string[] = []
   const stop: string[] = []

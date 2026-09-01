@@ -16,43 +16,43 @@ const SECRETS_FILE = "%h/.secrets.env"
 export const RESTART_EXIT = 79
 export const WRITTEN_PREFIX = "# Written from "
 
-export type Standing = {
+export type Service = {
   readonly service: WorkstationService
   readonly pagePath: string
 }
 
-export function scheduleOf(given: Standing): string | null {
+export function scheduleOf(given: Service): string | null {
   const stated = given.service.systemd?.schedule
   if (stated === undefined) return null
   const one = stated.trim()
   return one === "" ? null : one
 }
 
-export function isScheduled(given: Standing): boolean {
+export function isScheduled(given: Service): boolean {
   return scheduleOf(given) !== null
 }
 
-function described(given: Standing): string {
+function described(given: Service): string {
   const one = given.service.definition
   return one.charAt(0).toUpperCase() + one.substring(1)
 }
 
-function header(given: Standing): string {
+function header(given: Service): string {
   return `${WRITTEN_PREFIX}${given.pagePath} by akasha service install. Edits here are lost.`
 }
 
-export function isWrapped(given: Standing): boolean {
+export function isWrapped(given: Service): boolean {
   if (isScheduled(given)) return false
   return given.service.runs.some((one) => TYPESCRIPT_RUN.test(one))
 }
 
-export function underWrapper(given: Standing, command: string): string {
+export function underWrapper(given: Service, command: string): string {
   if (isScheduled(given)) return command
   if (!TYPESCRIPT_RUN.test(command)) return command
   return `${WRAPPER_RUNS} -- ${command}`
 }
 
-function wrapped(given: Standing, one: string): string {
+function wrapped(given: Service, one: string): string {
   const lenient = one.startsWith(LENIENT)
   const command = lenient ? one.slice(1) : one
   const run = underWrapper(given, command)
@@ -63,11 +63,11 @@ function wrapped(given: Standing, one: string): string {
   return `${lenient ? LENIENT : ""}/usr/bin/env bash -c '${inner}'`
 }
 
-export function execLines(given: Standing): readonly string[] {
+export function execLines(given: Service): readonly string[] {
   return given.service.runs.map((one) => `ExecStart=${wrapped(given, one)}`)
 }
 
-function opening(given: Standing): readonly string[] {
+function opening(given: Service): readonly string[] {
   return [
     header(given),
     "",
@@ -77,7 +77,7 @@ function opening(given: Standing): readonly string[] {
   ]
 }
 
-export function serviceUnitText(given: Standing): string {
+export function serviceUnitText(given: Service): string {
   const scheduled = isScheduled(given)
   const stated = given.service.systemd
   const lines: string[] = [
@@ -108,7 +108,7 @@ export function serviceUnitText(given: Standing): string {
   return `${lines.join("\n")}\n`
 }
 
-export function timerUnitText(given: Standing): string | null {
+export function timerUnitText(given: Service): string | null {
   const calendar = scheduleOf(given)
   if (calendar === null) return null
   const stated = given.service.systemd
@@ -119,12 +119,12 @@ export function timerUnitText(given: Standing): string | null {
   return `${lines.join("\n")}\n`
 }
 
-export function unitFileNames(given: Standing): readonly string[] {
+export function unitFileNames(given: Service): readonly string[] {
   const slug = given.service.slug
   return isScheduled(given) ? [`${slug}.service`, `${slug}.timer`] : [`${slug}.service`]
 }
 
-export function installedUnitName(given: Standing): string {
+export function installedUnitName(given: Service): string {
   const slug = given.service.slug
   return isScheduled(given) ? `${slug}.timer` : `${slug}.service`
 }

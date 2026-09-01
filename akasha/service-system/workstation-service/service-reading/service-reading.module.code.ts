@@ -1,7 +1,7 @@
 import { everyOfType, listedAt } from "@akasha/indexes"
 import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 import type { Systemd } from "../properties/systemd.record-property.ts"
-import type { Standing } from "../unit-writing/unit-writing.module.code.ts"
+import type { Service } from "../unit-writing/unit-writing.module.code.ts"
 import type { WorkstationService } from "../workstation-service.page-type.ts"
 
 export const SERVICE_PAGE_TYPE = "workstation-service"
@@ -9,7 +9,7 @@ export const SERVICE_PAGE_TYPE = "workstation-service"
 const SYSTEMD_TEXT_KEYS = ["restart", "schedule"] as const
 const SYSTEMD_NUMBER_KEYS = ["restartDelaySeconds", "startTimeoutSeconds", "jitterSeconds"] as const
 
-export type Read = { readonly standing: readonly Standing[] } | { readonly refused: string }
+export type Read = { readonly standing: readonly Service[] } | { readonly refused: string }
 
 export function runsIn(value: Value): readonly string[] | null {
   const held = value.runs
@@ -57,7 +57,7 @@ export function serviceIn(value: Value): WorkstationService | null {
   }
 }
 
-function standingOf(root: string, path: string): Standing | string {
+function standingOf(root: string, path: string): Service | string {
   const value = valueAt(path, root)
   if (value === null) return `${path} did not load, so the service it states is not read`
   const service = serviceIn(value)
@@ -79,7 +79,7 @@ export function everyStanding(root: string): Read {
   const found = [...everyOfType(root, SERVICE_PAGE_TYPE)].sort((a, b) =>
     a.path < b.path ? -1 : a.path > b.path ? 1 : 0
   )
-  const standing: Standing[] = []
+  const standing: Service[] = []
   for (const one of found) {
     const read = standingOf(root, one.path)
     if (typeof read === "string") return { refused: read }
