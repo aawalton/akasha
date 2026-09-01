@@ -1,14 +1,17 @@
-import { READOUT_CACHE_CONTROL } from "@akasha/readout-system/readout-credential"
+import { NO_READING } from "@akasha/readout-system/readout-categorization"
 import { guardReadout } from "~/readout-credential/lib/readout-credential.server"
 import type { Route } from "./+types/api.inbox-stoplights"
 
 // Stubbed. The engine behind this endpoint resolved its readouts by parsing markdown
-// frontmatter across the whole page tree, uncached, on every request. It is out of the
-// serving path now. Nothing fills these tiles until their readouts are akasha pages.
-const stoplights: readonly never[] = []
+// frontmatter across the whole page tree, uncached, once per request. It is out of the
+// serving path now. This refuses rather than answering an empty list, because a day
+// that truly drew nothing and an engine that is gone read alike, and only one is a fault.
 
 export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   const refusal = await guardReadout(request)
   if (refusal !== null) return refusal
-  return Response.json({ stoplights }, { headers: { "Cache-Control": READOUT_CACHE_CONTROL } })
+  return Response.json(NO_READING, {
+    status: 503,
+    headers: { "Cache-Control": "private, no-store" },
+  })
 }
