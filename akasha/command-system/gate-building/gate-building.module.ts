@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const gateBuilding = {
   id: "01a0531c-b3ec-7f09-a560-bb87dc11609d",

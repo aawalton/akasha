@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const faultSaying = {
   id: "01a04fea-ace5-7d39-9830-e4793edb0b2c",

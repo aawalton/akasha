@@ -1,7 +1,7 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
-import type { Indexing } from "../../pages-system/indexes/indexing/indexing.module.code.ts"
+import type { Judging } from "@akasha/checks-system/judging"
+import type { Indexing } from "@akasha/indexes/indexing"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 

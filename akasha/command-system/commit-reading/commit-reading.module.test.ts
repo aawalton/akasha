@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { spawn, spawnSync } from "node:child_process"
-import { until } from "../../testing-system/waiting/waiting.module.code.ts"
+import { until } from "@akasha/testing-system/waiting"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { git, gitOver, repoWith } from "../landing/landing.module.test-fixtures.ts"
 import { bodyAt, readingEnded } from "./commit-reading.module.code.ts"

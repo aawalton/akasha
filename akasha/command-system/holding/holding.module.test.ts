@@ -1,14 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
-import {
-  idFiledIn,
-  listedFiledIn,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { bytesOf as bytes } from "../../testing-system/bodying/bodying.module.code.ts"
-import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
-import { until } from "../../testing-system/waiting/waiting.module.code.ts"
+import type { Judging } from "@akasha/checks-system/judging"
+import { idFiledIn, listedFiledIn } from "@akasha/indexes/testing"
+import { bytesOf as bytes } from "@akasha/testing-system/bodying"
+import { gitIn as git } from "@akasha/testing-system/gitting"
+import { until } from "@akasha/testing-system/waiting"
 import { baseOf, landing } from "../landing/landing.module.code.ts"
 import { CARRIED } from "../landing/landing.module.test-fixtures.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
