@@ -8,11 +8,11 @@ const WAITED_AT_MOST = 120000
 
 const WAITED = 50
 
-const STOOD_TOO_LONG = 10000
+const AGED_AFTER = 10000
 
 function agedOut(at: string): boolean {
   try {
-    return Date.now() - statSync(at).mtimeMs >= STOOD_TOO_LONG
+    return Date.now() - statSync(at).mtimeMs >= AGED_AFTER
   } catch {
     return false
   }
