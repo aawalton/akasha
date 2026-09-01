@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../../pages-system/record-property/record-property.page-type.ts"
+import type { RecordProperty } from "@akasha/pages-system/record-property"
 import type { CatchUp } from "./catch-up.boolean-property.ts"
 import type { JitterSeconds } from "./jitter-seconds.number-property.ts"
 import type { Restart } from "./restart.text-property.ts"

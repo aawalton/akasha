@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const serviceReading = {
   id: "01a05a64-6ba1-7aaa-847b-316b27475e49",

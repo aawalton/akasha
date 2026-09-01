@@ -1,4 +1,4 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "@akasha/domain-system/domain"
 
 export const testFixture = {
   id: "01a04f3e-eea5-7c4e-a36d-40a390ffd6ef",

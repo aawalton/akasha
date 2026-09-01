@@ -1,12 +1,5 @@
-import {
-  everyOfType,
-  listedAt,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  textAt,
-  type Value,
-  valueAt,
-} from "../../../pages-system/page/page-value/page-value.module.code.ts"
+import { everyOfType, listedAt } from "@akasha/indexes"
+import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 import type { Systemd } from "../properties/systemd.record-property.ts"
 import type { Standing } from "../unit-writing/unit-writing.module.code.ts"
 import type { WorkstationService } from "../workstation-service.page-type.ts"

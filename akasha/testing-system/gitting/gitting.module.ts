@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const gitting = {
   id: "01a04eee-b581-7abb-b541-41013cd37875",

@@ -1,8 +1,8 @@
-import { generatorKind } from "../../pages-system/generator-kind/generator-kind.page-type.ts"
-import { uuidV7 } from "../../pages-system/generator-kind/generator-kinds/uuid-v7.generator-kind.ts"
-import { id as idPage } from "../../pages-system/page/properties/id.text-property.ts"
-import { slug as slugPage } from "../../pages-system/page/properties/slug.text-property.ts"
-import { textProperty } from "../../pages-system/text-property/text-property.page-type.ts"
+import { generatorKind } from "@akasha/pages-system/generator-kind"
+import { uuidV7 } from "@akasha/pages-system/generator-kind/uuid-v7"
+import { id as idPage } from "@akasha/pages-system/page/id"
+import { slug as slugPage } from "@akasha/pages-system/page/slug"
+import { textProperty } from "@akasha/pages-system/text-property"
 
 export function declaringUnder(folder: string): Readonly<Record<string, string>> {
   const found: Record<string, string> = {}
