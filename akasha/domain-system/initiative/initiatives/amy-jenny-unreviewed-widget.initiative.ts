@@ -17,7 +17,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "A package reaches another package by the name its manifest states rather than by a path.",
       workingMemory:
-        "1299 imports inside akasha cross a package edge and every one of them now lands in a package. Sixteen packages stand: agents, checks, code, command, context, domain, file, graph, hook, indexes, pages, pages-service, person, persona, readout, seat, service, testing. None but the two ios apps are named in the root workspaces list, so a name would not resolve yet; add them there first, then rewrite the relative specifiers, then narrow each manifest to what is really reached.",
+        "The workspaces half is done: eighteen packages stand in the root list, bun.lock registers them, node_modules/@akasha holds all eighteen, and each of the 1298 reaches past a package edge lands on a file its manifest exports. What blocks the rewrite is the import index: landingOf answers null for a bare specifier, so naming the reaches would file no edge and the required-reading gate would go quiet. See finding naming-a-reach-would-empty-the-import-index. Dry run: /var/tmp/name-the-reaches.ts.",
     },
     { statement: "No file Alan's site is built from is too long for akasha to hold." },
     {
