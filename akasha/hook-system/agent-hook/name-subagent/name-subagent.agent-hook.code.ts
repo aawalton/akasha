@@ -86,9 +86,9 @@ export function calledWith(
   if (acting === null || acting === seatIn(env)) return null
   if (!spellable(acting)) return null
   const input = inputIn(payload) ?? {}
-  const standing = input[RUNS]
-  if (typeof standing !== "string" || standing === "") return null
-  return { ...input, [RUNS]: exporting(acting, standing) }
+  const runs = input[RUNS]
+  if (typeof runs !== "string" || runs === "") return null
+  return { ...input, [RUNS]: exporting(acting, runs) }
 }
 
 export function answerFor(env: Readonly<Record<string, string | undefined>>, raw: string): Answer {
