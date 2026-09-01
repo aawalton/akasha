@@ -1,11 +1,11 @@
 "use client"
 
 import { createPage } from "@akasha/pages-access/create"
-import { softDeletePage } from "@akasha/pages-access/delete"
+import { deletePage } from "@akasha/pages-access/delete"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticCreatePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-create-page"
-import { useOptimisticSoftDeletePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-soft-delete-page"
+import { useOptimisticDeletePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
 import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
@@ -77,15 +77,15 @@ export function useInventoryImport(userId: string | null) {
 
   const runUpsert = useOptimisticUpsertPage((args) => upsertPage(args))
   const runCreate = useOptimisticCreatePage((args) => createPage(args))
-  const runSoftDelete = useOptimisticSoftDeletePage((args) => softDeletePage(args))
+  const runDelete = useOptimisticDeletePage((args) => deletePage(args))
   const runUpsertRef = useRef(runUpsert)
   const runCreateRef = useRef(runCreate)
-  const runSoftDeleteRef = useRef(runSoftDelete)
+  const runDeleteRef = useRef(runDelete)
   useEffect(() => {
     runUpsertRef.current = runUpsert
     runCreateRef.current = runCreate
-    runSoftDeleteRef.current = runSoftDelete
-  }, [runUpsert, runCreate, runSoftDelete])
+    runDeleteRef.current = runDelete
+  }, [runUpsert, runCreate, runDelete])
 
   const processFile = useCallback(
     async (file: File) => {
@@ -163,7 +163,7 @@ export function useInventoryImport(userId: string | null) {
           snapshotId = snapshot.id
         }
         for (const extraId of snapshotPlan.snapshotsToSoftDelete) {
-          await runSoftDeleteRef.current({
+          await runDeleteRef.current({
             pageTypeSlug: INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
             where: [{ key: "id", eq: extraId }],
           })
@@ -175,7 +175,7 @@ export function useInventoryImport(userId: string | null) {
           payloads
         )
         for (const chunkId of chunkPlan.chunksToSoftDelete) {
-          await runSoftDeleteRef.current({
+          await runDeleteRef.current({
             pageTypeSlug: INVENTORY_CHUNK_PAGE_TYPE_SLUG,
             where: [{ key: "id", eq: chunkId }],
           })

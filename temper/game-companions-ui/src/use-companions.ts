@@ -2,12 +2,12 @@
 
 import { useAuth } from "@shared/auth/use-auth"
 import { createPage } from "@akasha/pages-access/create"
-import { softDeletePage } from "@akasha/pages-access/delete"
+import { deletePage } from "@akasha/pages-access/delete"
 import { patchPage } from "@akasha/pages-access/patch"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { useOptimisticCreatePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"
-import { useOptimisticSoftDeletePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-soft-delete-page"
+import { useOptimisticDeletePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import type { CompanionBuildMetadata } from "@temper/game-characters/build-metadata"
@@ -136,7 +136,7 @@ export function useCompanion(buildId: string) {
   })
 
   const runPatch = useOptimisticPatchPage((args) => patchPage(args))
-  const runDelete = useOptimisticSoftDeletePage((args) => softDeletePage(args))
+  const runDelete = useOptimisticDeletePage((args) => deletePage(args))
 
   const build = useMemo<CompanionBuildRow | undefined>(() => {
     const row = rows[0]

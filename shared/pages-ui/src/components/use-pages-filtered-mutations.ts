@@ -2,14 +2,14 @@
 
 import { type Json } from "@akasha/utils-narrow/json-value"
 import { createPage } from "@akasha/pages-access/create"
-import { softDeletePage } from "@akasha/pages-access/delete"
+import { deletePage } from "@akasha/pages-access/delete"
 import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback } from "react"
 import type { PagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useOptimisticCreatePage } from "../supabase/mutations/use-optimistic-create-page"
-import { useOptimisticSoftDeletePage } from "../supabase/mutations/use-optimistic-soft-delete-page"
+import { useOptimisticDeletePage } from "../supabase/mutations/use-optimistic-delete-page"
 import { type PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
 
@@ -32,7 +32,7 @@ export function usePagesFilteredMutations(args: {
   const { pageTypeSlug, targetPageTypeId, userId, targetPageType, router } = args
   const setProperty = useSetPropertyOptimistic()
   const runCreate = useOptimisticCreatePage((createArgs) => createPage(createArgs))
-  const runSoftDelete = useOptimisticSoftDeletePage((deleteArgs) => softDeletePage(deleteArgs))
+  const runDelete = useOptimisticDeletePage((deleteArgs) => deletePage(deleteArgs))
 
   const handleCreatePage = useCallback(async () => {
     if (pageTypeSlug.length === 0 || targetPageTypeId.length === 0 || userId == null) return
@@ -74,9 +74,9 @@ export function usePagesFilteredMutations(args: {
 
   const handleDeletePage = useCallback(
     (pageId: string) => {
-      void runSoftDelete({ pageTypeSlug, where: [{ key: "id", eq: pageId }] })
+      void runDelete({ pageTypeSlug, where: [{ key: "id", eq: pageId }] })
     },
-    [runSoftDelete, pageTypeSlug]
+    [runDelete, pageTypeSlug]
   )
 
   const handleToggleFavorite = useCallback(

@@ -2,7 +2,7 @@
 
 import { type Json } from "@akasha/utils-narrow/json-value"
 import { type CreatePageArgs, createPage } from "@akasha/pages-access/create"
-import { type DeletePageArgs, softDeletePage } from "@akasha/pages-access/delete"
+import { type DeletePageArgs, deletePage } from "@akasha/pages-access/delete"
 import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
 import { type Page } from "@akasha/pages-core/page-types"
 import { createView as createViewReducer, deleteView as deleteViewReducer, duplicateView as duplicateViewReducer, renameView as renameViewReducer, reorderViews as reorderViewsReducer, updateViewConfig as updateViewConfigReducer } from "@akasha/pages-core/view-state/reducers"
@@ -14,7 +14,7 @@ import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
 import { useOptimisticCreatePage } from "./mutations/use-optimistic-create-page"
 import { useOptimisticPatchPage } from "./mutations/use-optimistic-patch-page"
-import { useOptimisticSoftDeletePage } from "./mutations/use-optimistic-soft-delete-page"
+import { useOptimisticDeletePage } from "./mutations/use-optimistic-delete-page"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useSetPropertyOptimistic } from "./use-set-property-optimistic"
 
@@ -45,14 +45,14 @@ export function useSupabaseViewCallbacks({
     (args: PatchPageArgs): Promise<Page | null> => patchPage(args),
     []
   )
-  const boundSoftDelete = useCallback(
-    (args: DeletePageArgs): Promise<Page | null> => softDeletePage(args),
+  const boundDelete = useCallback(
+    (args: DeletePageArgs): Promise<Page | null> => deletePage(args),
     []
   )
 
   const createPageFn = useOptimisticCreatePage(boundCreate)
   const patchPageFn = useOptimisticPatchPage(boundPatch)
-  const softDeleteFn = useOptimisticSoftDeletePage(boundSoftDelete)
+  const deletePageFn = useOptimisticDeletePage(boundDelete)
   const setProperty = useSetPropertyOptimistic()
 
   const dispatchEffects = useCallback(
@@ -81,7 +81,7 @@ export function useSupabaseViewCallbacks({
             break
           }
           case "deletePage": {
-            await softDeleteFn({
+            await deletePageFn({
               pageTypeSlug: VIEW_PAGE_TYPE_SLUG,
               where: [{ key: "id", eq: resolveId(effect.pageId) }],
             })
@@ -127,7 +127,7 @@ export function useSupabaseViewCallbacks({
         }
       }
     },
-    [createPageFn, softDeleteFn, setProperty, patchPageFn, userId]
+    [createPageFn, deletePageFn, setProperty, patchPageFn, userId]
   )
 
   const buildCtx = useCallback(

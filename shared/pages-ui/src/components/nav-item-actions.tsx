@@ -1,22 +1,22 @@
 "use client"
 
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
-import { softDeletePage } from "@akasha/pages-access/delete"
+import { deletePage } from "@akasha/pages-access/delete"
 import { MoreHorizontal, Trash2 } from "lucide-react"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { useOptimisticSoftDeletePage } from "../supabase/mutations/use-optimistic-soft-delete-page"
+import { useOptimisticDeletePage } from "../supabase/mutations/use-optimistic-delete-page"
 
 const NAV_SLUG = "nav"
 
 export function NavItemActions({ pageId, href }: { pageId: string; href: string }) {
-  const runSoftDelete = useOptimisticSoftDeletePage((args) => softDeletePage(args))
+  const runDelete = useOptimisticDeletePage((args) => deletePage(args))
   const { pathname, push } = usePagesUIRouter()
 
   const handleDelete = async (e: React.MouseEvent) => {
     e.stopPropagation()
     e.preventDefault()
     const onDeletedPage = pathname === href || pathname.startsWith(`${href}/`)
-    await runSoftDelete({
+    await runDelete({
       pageTypeSlug: NAV_SLUG,
       where: [{ key: "id", eq: pageId }],
     })

@@ -1,9 +1,9 @@
 "use client"
 
-import { softDeletePage } from "@akasha/pages-access/delete"
+import { deletePage } from "@akasha/pages-access/delete"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { useOptimisticSoftDeletePage } from "../supabase/mutations/use-optimistic-soft-delete-page"
+import { useOptimisticDeletePage } from "../supabase/mutations/use-optimistic-delete-page"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
 import { PageActionsMenu } from "./page-actions-menu"
 
@@ -19,7 +19,7 @@ export function PageDetailHeaderMenu({
   isFavorite,
 }: PageDetailHeaderMenuProps) {
   const setProperty = useSetPropertyOptimistic()
-  const runSoftDelete = useOptimisticSoftDeletePage((args) => softDeletePage(args))
+  const runDelete = useOptimisticDeletePage((args) => deletePage(args))
   const { push } = usePagesUIRouter()
 
   return (
@@ -35,7 +35,7 @@ export function PageDetailHeaderMenu({
       }
       onDelete={() => {
         void (async () => {
-          await runSoftDelete({ pageTypeSlug, where: [{ key: "id", eq: pageId }] })
+          await runDelete({ pageTypeSlug, where: [{ key: "id", eq: pageId }] })
           push("/")
         })()
       }}

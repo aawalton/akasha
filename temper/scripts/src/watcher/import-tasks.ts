@@ -1,4 +1,4 @@
-import { softDeletePageById, undeletePageById } from "@akasha/pages-access/delete"
+import { deletePageById } from "@akasha/pages-access/delete"
 import { getPages } from "@akasha/pages-access/get"
 import { collectPages } from "@akasha/pages-access/iterate"
 import { patchPageById } from "@akasha/pages-access/patch"
@@ -243,7 +243,7 @@ async function applyCompletion(
     id: taskId,
     set: { completedAt },
   })
-  await softDeletePageById({
+  await deletePageById({
     pageTypeSlug: "temper-task",
     id: taskId,
   })
@@ -252,8 +252,7 @@ async function applyCompletion(
 
 async function clearCompletion(
   task: TaskPage
-): Promise<{ action: "cleared"; recreated: boolean } | { action: "skip"; reason: string }> {
-  const taskId = task.id
+): Promise<{ action: "cleared" } | { action: "skip"; reason: string }> {
   const { rows: completed } = await getPages({
     pageTypeSlug: "temper-completed-task",
     where: [{ key: "task", eq: task.slug }],
@@ -271,31 +270,12 @@ async function clearCompletion(
     return { action: "skip", reason: "completion row missing id" }
   }
 
-  await softDeletePageById({
+  await deletePageById({
     pageTypeSlug: "temper-completed-task",
     id: completedId,
   })
 
-  const { rows: taskRows } = await getPages({
-    pageTypeSlug: "temper-task",
-    where: [{ key: "id", eq: taskId }],
-    limit: 1,
-  })
-  const taskRow = taskRows[0]
-  if (taskRow?.deletedAt != null) {
-    await undeletePageById({
-      pageTypeSlug: "temper-task",
-      id: taskId,
-    })
-    await patchPageById({
-      pageTypeSlug: "temper-task",
-      id: taskId,
-      set: { pendingSync: true },
-    })
-    return { action: "cleared", recreated: true }
-  }
-
-  return { action: "cleared", recreated: false }
+  return { action: "cleared" }
 }
 
 export async function runImportTasks(
@@ -369,9 +349,7 @@ export async function runImportTasks(
         continue
       }
 
-      console.log(
-        `  Task ${entry.taskId}: cleared completion${result.recreated ? ", re-created task" : ""}`
-      )
+      console.log(`  Task ${entry.taskId}: cleared completion`)
       cleared++
     }
   }
@@ -381,7 +359,7 @@ export async function runImportTasks(
     if (task.deletedAt != null) continue
     if (deletedThisRun.has(task.id)) continue
     if (!isCompleteForever(task)) continue
-    await softDeletePageById({ pageTypeSlug: "temper-task", id: task.id })
+    await deletePageById({ pageTypeSlug: "temper-task", id: task.id })
     deletedThisRun.add(task.id)
     sweptForever++
     console.log(`  Task ${task.id}: cumulative cap reached, completed forever (swept)`)

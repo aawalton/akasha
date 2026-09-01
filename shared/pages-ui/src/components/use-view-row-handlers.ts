@@ -1,6 +1,6 @@
 import { type Json } from "@akasha/utils-narrow/json-value"
 import { createPage } from "@akasha/pages-access/create"
-import { softDeletePage } from "@akasha/pages-access/delete"
+import { deletePage } from "@akasha/pages-access/delete"
 import { patchPropertyDefinitionById } from "@akasha/pages-access/property-definition"
 import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
@@ -11,7 +11,7 @@ import { useHostCreateSelectOption } from "../option-create-context"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useOptimisticCreatePage } from "../supabase/mutations/use-optimistic-create-page"
 import { useOptimisticPatchPropertyDefinition } from "../supabase/mutations/use-optimistic-patch-property-definition"
-import { useOptimisticSoftDeletePage } from "../supabase/mutations/use-optimistic-soft-delete-page"
+import { useOptimisticDeletePage } from "../supabase/mutations/use-optimistic-delete-page"
 import { type useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
 import { createOptionOnDefinition } from "./create-option"
 
@@ -33,7 +33,7 @@ export function useViewRowHandlers({
   setProperty,
 }: UseViewRowHandlersArgs) {
   const runCreate = useOptimisticCreatePage((args) => createPage(args))
-  const runSoftDelete = useOptimisticSoftDeletePage((args) => softDeletePage(args))
+  const runDelete = useOptimisticDeletePage((args) => deletePage(args))
   const patchDefinition = useOptimisticPatchPropertyDefinition((args) =>
     patchPropertyDefinitionById(args)
   )
@@ -73,9 +73,9 @@ export function useViewRowHandlers({
     (pageId: string) => {
       const slug = resolveRowSlug?.(pageId) ?? rowPageTypeSlug
       if (slug == null) return
-      void runSoftDelete({ pageTypeSlug: slug, where: [{ key: "id", eq: pageId }] })
+      void runDelete({ pageTypeSlug: slug, where: [{ key: "id", eq: pageId }] })
     },
-    [runSoftDelete, rowPageTypeSlug, resolveRowSlug]
+    [runDelete, rowPageTypeSlug, resolveRowSlug]
   )
 
   const handleToggleFavorite = useCallback(
