@@ -9,10 +9,12 @@ export const athenaSeatCommands = {
   parentSlug: "akasha-migration",
   intents: [
     { statement: "A seat's name, id, page and launch are composed inside akasha." },
+    { statement: "An agent holds no way to send a message to another seat." },
     { statement: "A seat is started through akasha." },
     { statement: "A seat is emptied and refilled through akasha." },
     { statement: "A seat is brought back on the session it is bound to through akasha." },
     { statement: "Every client behind the settings standing now is restarted through akasha." },
+    { statement: "A reminder is set through akasha." },
     { statement: "The settings every live seat watches are rewritten through akasha." },
     { statement: "The supervisor runs inside akasha." },
   ],
@@ -20,5 +22,6 @@ export const athenaSeatCommands = {
     "Alan settles each act's shape before it lands.",
     "The acts stand on the seat command rather than as commands of their own.",
     "An act's old command goes as the act lands.",
+    "A person and a program keep reaching a seat.",
   ],
 } as const satisfies Initiative
