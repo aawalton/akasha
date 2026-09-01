@@ -54,7 +54,7 @@ export type Found =
   | { readonly outcome: "none" }
   | { readonly outcome: "unread"; readonly why: string }
 
-export type PresentedStanding =
+export type Admitted =
   | { readonly outcome: "stands"; readonly userId: string; readonly slug: string }
   | { readonly outcome: "refused"; readonly why: string }
   | { readonly outcome: "unread"; readonly why: string }
@@ -213,7 +213,7 @@ export async function deviceSecretPresented(
   headerValue: string | null,
   fetcher?: Fetcher,
   naps?: Sleeper
-): Promise<PresentedStanding> {
+): Promise<Admitted> {
   const presented = readPresentedDeviceSecret(headerValue)
   if (!presented.ok) {
     return { outcome: "refused", why: `the device secret presented is ${presented.reason}` }
