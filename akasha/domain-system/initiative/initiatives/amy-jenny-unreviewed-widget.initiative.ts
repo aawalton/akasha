@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "TestFlight 198 is up from `04959e93f4`, VALID and tester-visible; the app boots. The live pod runs `0c6fb83a1f`, which predates the index deletion and is self-consistent, so the widget needs no deploy and a deploy would blank the in-memory relay map for ~5 minutes. Pod logs over 6 hours: 14 `[device-secret] refusing: absent`, 1 malformed, zero `[route-access] refusing`. The grant is fine; the widget waits only on Alan signing in to mint a secret.",
+        "Build 198 boots and Alan signed in. The pod was 500ing on a missing `.git/pages`; deploying `a5d11cc542` made `/api/categorization` a clean 401 in 0.17s with zero index errors. What is left is the credential. The mint route has never once succeeded: no commit carries `a device secret is minted` nor the author `web@alanwalton.com`. `decideMintAction` is presence-only, so a stale keychain item blocks re-minting, and Sign Out, the one path that clears it, is broken.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
