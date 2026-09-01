@@ -6,6 +6,8 @@ export const typedstream = {
   slug: "typedstream",
   definition: "the text held inside an Apple typedstream message body",
   code: "ts",
+  test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -14,6 +16,14 @@ export const typedstream = {
     {
       invariantKind: "departure",
       statement: "Only the first string the body carries is read out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body states its length in one of three forms.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No fixture here is a message anyone sent.",
     },
   ],
 } as const satisfies Module
