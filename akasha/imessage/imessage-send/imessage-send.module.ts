@@ -16,9 +16,5 @@ export const imessageSend = {
       invariantKind: "departure",
       statement: "An attachment is written to a temporary folder the script removes on exit.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A message may carry a body or an attachment or a body and an attachment.",
-    },
   ],
 } as const satisfies Module

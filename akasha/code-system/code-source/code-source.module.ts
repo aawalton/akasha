@@ -37,11 +37,6 @@ export const codeSource = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A check and a rule and a move all parse the same way and differ only in what a check and a rule and a move then walk.",
-    },
-    {
-      invariantKind: "absence",
       statement: "Nothing here reads the disk.",
     },
     {

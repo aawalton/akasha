@@ -27,6 +27,10 @@ export const codeLint = {
     },
     {
       invariantKind: "departure",
+      statement: "A run's answer carries nothing more.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run whose answer cannot be read says why rather than an empty list.",
     },
     {

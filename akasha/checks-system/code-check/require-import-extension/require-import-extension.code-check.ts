@@ -23,6 +23,10 @@ export const requireImportExtension = {
     },
     {
       invariantKind: "departure",
+      statement: "A relative specifier carrying no extension is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A relative specifier carrying `.ts` stands.",
     },
     {

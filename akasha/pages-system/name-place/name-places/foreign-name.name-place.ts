@@ -14,11 +14,6 @@ export const foreignName = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An owner is a tool looking for the name or a language spelling the name or an engine loading the name or a generator writing the name.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A name its owner spells is judged by no format here.",
     },
     {

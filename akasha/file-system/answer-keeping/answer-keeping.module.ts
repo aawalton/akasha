@@ -10,10 +10,6 @@ export const answerKeeping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key is a kind and a name and a mark and a subject.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An answer that cannot be read or parsed is answered as no answer.",
     },
     {

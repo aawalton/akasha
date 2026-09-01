@@ -10,11 +10,6 @@ export const codeSpecifier = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "TypeScript names a module by an import or an export naming where the export comes from or a dynamic import or a require call or an import assignment or a module named inside a type.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Every way TypeScript names a module is read as one specifier.",
     },
     {

@@ -47,10 +47,6 @@ export const readoutScale = {
     },
     {
       invariantKind: "departure",
-      statement: "A scale's rungs run black and red and orange and yellow and green and blue.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A scale states only the rungs the scale has.",
     },
     {

@@ -10,11 +10,6 @@ export const labeling = {
     {
       invariantKind: "departure",
       statement:
-        "A rule naming BYSECOND or BYMINUTE or BYSETPOS or WKST or TZID is refused rather than labeled.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
         "A rule that cannot be labeled without loss is refused rather than labeled loosely.",
     },
     {

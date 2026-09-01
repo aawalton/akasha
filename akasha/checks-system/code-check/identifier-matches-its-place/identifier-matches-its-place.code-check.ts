@@ -63,11 +63,6 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A literal is an object or an array or a string or a number or a regular expression or `true` or `false`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The name passed over is the one the file's stem makes.",
     },
     {
