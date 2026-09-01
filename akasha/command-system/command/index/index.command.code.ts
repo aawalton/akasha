@@ -20,7 +20,7 @@ const AKASHA = "akasha"
 
 const SHOWN = 5
 
-const STANDS = "the index stands as it did, and nothing was put in its place"
+const UNCHANGED = "the index stands as it did, and nothing was put in its place"
 
 const COMMITTING = new Map<string, string>([
   ["--message", "says what a commit is for, and a refresh makes none"],
@@ -97,7 +97,7 @@ export function driftSaid(drift: Drift): string {
 }
 
 function refusing(said: readonly string[], code: number): Answer {
-  return { report: [], refusals: [...said, STANDS], code }
+  return { report: [], refusals: [...said, UNCHANGED], code }
 }
 
 function stampSaid(held: Stamp | null): string {
