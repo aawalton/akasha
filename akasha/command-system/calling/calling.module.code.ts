@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
-import { indexNamed, indexStanding, listedAt, slugsOfType, typeSlugById } from "@akasha/indexes"
+import { indexNamed, indexThere, listedAt, slugsOfType, typeSlugById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import type { HelpNotes } from "../command/properties/help-notes.text-property.ts"
@@ -67,7 +67,7 @@ export function refused(said: string, code: number): Answer {
 }
 
 export function commandSlugIn(root: string): string | null {
-  return indexStanding(root) ? typeSlugById(root, COMMAND_TYPE) : null
+  return indexThere(root) ? typeSlugById(root, COMMAND_TYPE) : null
 }
 
 export function commandsIn(root: string): readonly string[] {
@@ -166,7 +166,7 @@ function refusing(said: string): Answer {
 export function unreadIn(root: string, calledAs: string): string | null {
   const at = indexNamed()
   const said = `\`${calledAs} ${ROOTED}\` is found without the index and says what it can do.`
-  if (!indexStanding(root)) {
+  if (!indexThere(root)) {
     return `No index stands at \`${at}\`, so no command was read. ${said}`
   }
   if (commandSlugIn(root) === null) {

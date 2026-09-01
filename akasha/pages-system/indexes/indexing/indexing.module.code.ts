@@ -39,7 +39,7 @@ import {
   uniquePropertiesAt,
   uniquePropertiesIn,
 } from "../index-entries/index-entries.module.code.ts"
-import { everyPath, indexStanding, readingIn } from "../index-reading/index-reading.module.code.ts"
+import { everyPath, indexThere, readingIn } from "../index-reading/index-reading.module.code.ts"
 import type { Filing, Reading } from "../index-shape/index-shape.module.code.ts"
 import { stampBuilt, stampSettled } from "../index-stamp/index-stamp.module.code.ts"
 import {
@@ -260,7 +260,7 @@ function turningIn(
 
 function asBuilt(given: string | Reading): Reading {
   const reading = readingOf(given)
-  return indexStanding(reading) ? reading : readingNone()
+  return indexThere(reading) ? reading : readingNone()
 }
 
 function elsewhereIn(

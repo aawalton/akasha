@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
-import { indexNamed, indexStanding } from "@akasha/indexes"
+import { indexNamed, indexThere } from "@akasha/indexes"
 import {
   besideTheIndex,
   everythingFiled,
@@ -283,7 +283,7 @@ test("a root holding no akasha folder is refused, and the index stands as it was
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(DATA)
   expect(answer.refusals[0]).toContain("stands under")
-  expect(indexStanding(root)).toBe(false)
+  expect(indexThere(root)).toBe(false)
 })
 
 test("a root git does not hold is refused as the command's trouble, not the caller's", () => {

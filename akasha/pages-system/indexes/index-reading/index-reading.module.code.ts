@@ -65,7 +65,7 @@ export function indexNamed(): string {
   return INDEX_AT
 }
 
-export function indexStanding(given: string | Reading): boolean {
+export function indexThere(given: string | Reading): boolean {
   return readingIn(given).holds("")
 }
 

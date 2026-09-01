@@ -1,5 +1,5 @@
 import { dirname } from "node:path"
-import { indexStanding, listedAt } from "@akasha/indexes"
+import { indexThere, listedAt } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { slugOf, textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 import { quoted } from "@akasha/shell/quoting"
@@ -38,7 +38,7 @@ function listAt(value: Value, key: string): readonly string[] {
 }
 
 function pathOf(root: string, typeSlug: string, slug: string): string | null {
-  if (!indexStanding(root)) return null
+  if (!indexThere(root)) return null
   const listed = listedAt(root, typeSlug, slug)
   return listed.length === 1 ? (listed[0]?.path ?? null) : null
 }
