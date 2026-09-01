@@ -28,7 +28,7 @@ export function relayedFresh(readoutSlug: string, now: Date = new Date()): numbe
   return readingAged(held, now) >= STALE_AFTER_MS ? null : held.value
 }
 
-function noReading(): Response {
+export function noReading(): Response {
   return Response.json(NO_READING, {
     status: 503,
     headers: { "Cache-Control": READOUT_CACHE_CONTROL },

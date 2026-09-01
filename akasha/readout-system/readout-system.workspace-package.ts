@@ -13,6 +13,7 @@ export const readoutSystem = {
     "page-type/readout-widget",
     "module/readout-answering",
     "module/readout-body",
+    "module/readout-group-serving",
     "module/readout-serving",
     "module/readout-credential",
     "module/readout-none-left",
