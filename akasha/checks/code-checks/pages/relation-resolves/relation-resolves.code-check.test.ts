@@ -42,10 +42,14 @@ function knowing(shadow: Shadow): Shaped {
   return shadow.index.knownIn()
 }
 
-function judged(change: Change): readonly Judged[] {
+function shadowing(change: Change): Shadow {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  return relationResolves(change, cast.shadow)
+  return cast.shadow
+}
+
+function judged(change: Change): readonly Judged[] {
+  return relationResolves(change, shadowing(change))
 }
 
 test("a page naming a page the index already carries is let through", () => {
@@ -191,8 +195,19 @@ test("the pages to judge for a page taken away are the ones the reverse edges na
   naming(root, D_ID, "domain-slug", A_ID, A)
   filing(root, A, A_ID, "note", "a")
   const change = over(root, [D], { [D]: null })
-  expect(namersOf(change, ["domain-slug", "part-slugs"])).toEqual([A])
-  expect(namersOf(over(root, [D], { [D]: "held" }), ["domain-slug"])).toEqual([])
+  expect(namersOf(change, shadowing(change), ["domain-slug", "part-slugs"])).toEqual([A])
+  const kept = over(root, [D], { [D]: "held" })
+  expect(namersOf(kept, shadowing(kept), ["domain-slug"])).toEqual([])
+})
+
+test("the id of a page taken away is read from the body the change takes away", () => {
+  const root = rooted()
+  naming(root, D_ID, "domain-slug", A_ID, A)
+  filing(root, A, A_ID, "note", "a")
+  const change = over(root, [D], { [D]: null })
+  const shadow = shadowing(change)
+  expect(shadow.index.listedByPath(D)).toEqual([])
+  expect(namersOf(change, shadow, ["domain-slug"])).toEqual([A])
 })
 
 test("a refusal is laid on the page that names, and one is raised for each name", () => {
@@ -379,6 +394,6 @@ test("a file the index files against a page is no page taken away, and nothing i
   pathFiled(root, D_CODE, [{ path: D, id: D_ID }])
   const bodies = { ...note(', domainSlug: "domain/d"'), [D_CODE]: null }
   const change = over(root, [D_CODE], bodies)
-  expect(namersOf(change, ["domain-slug", "part-slugs"])).toEqual([])
+  expect(namersOf(change, shadowing(change), ["domain-slug", "part-slugs"])).toEqual([])
   expect(judged(change)).toEqual([])
 })

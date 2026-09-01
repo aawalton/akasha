@@ -1,4 +1,3 @@
-import { idsNaming, listedById, listedByPath } from "@akasha/indexes"
 import { type Known, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
@@ -38,17 +37,30 @@ export function relationProperties(shadow: Shadow, known: Known): readonly strin
   return found.sort()
 }
 
-export function namersOf(change: Change, properties: readonly string[]): readonly string[] {
+export function idTakenFrom(change: Change, path: string): string | null {
+  const bytes = change.before(path)
+  if (bytes === null) return null
+  const value = valueIn(bodyOf({ root: change.root, path, bytes }))
+  return value === null ? null : textAt(value, "id")
+}
+
+export function namersOf(
+  change: Change,
+  shadow: Shadow,
+  properties: readonly string[]
+): readonly string[] {
+  const heldInAFile = shadow.index.filePropertiesAt()
   const found = new Set<string>()
   for (const path of change.changed) {
     if (change.after(path) !== null) continue
-    for (const gone of listedByPath(change.root, path)) {
-      if (gone.path !== path) continue
-      for (const propertySlug of properties) {
-        for (const id of idsNaming(change.root, gone.id, propertySlug)) {
-          const naming = listedById(change.root, id)
-          if (naming !== null) found.add(naming.path)
-        }
+    const said = namedIn(path)
+    if (said === null || heldInAFile.has(said.tail)) continue
+    const gone = idTakenFrom(change, path)
+    if (gone === null) continue
+    for (const propertySlug of properties) {
+      for (const id of shadow.index.idsNaming(gone, propertySlug)) {
+        const naming = shadow.index.listedById(id)
+        if (naming !== null) found.add(naming.path)
       }
     }
   }
@@ -142,7 +154,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   for (const one of carried) said.push(...danglingIn(one.path, one.value, known, mortal))
   if (!took) return said
   const carrying = new Set(carried.map((one) => one.path))
-  for (const path of namersOf(change, relationProperties(shadow, known))) {
+  for (const path of namersOf(change, shadow, relationProperties(shadow, known))) {
     if (carrying.has(path)) continue
     const value = valueFor(change, path)
     if (value !== null) said.push(...danglingIn(path, value, known, mortal))

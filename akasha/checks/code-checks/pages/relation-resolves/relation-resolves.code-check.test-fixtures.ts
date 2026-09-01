@@ -57,6 +57,7 @@ export const SCHEMA: Record<string, Record<string, string | null>> = {
   "part-slugs": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain", unique: null },
   definition: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: null },
   marks: { pageTypeSlug: "record-property", targetPageTypeSlug: null, unique: null },
+  code: { pageTypeSlug: "file-property", targetPageTypeSlug: null, unique: null },
 }
 
 export const M = "akasha/t/marks.record-property.ts"

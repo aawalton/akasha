@@ -64,7 +64,11 @@ export const relationResolves = {
     {
       invariantKind: "departure",
       statement:
-        "Which pages named a page being taken away is read from the index as the index stands.",
+        "Which pages named a page being taken away is read from the index as the change leaves the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The id of a page being taken away is read from the body the change takes away.",
     },
   ],
 } as const satisfies CodeCheck
