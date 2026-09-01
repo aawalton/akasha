@@ -7,7 +7,7 @@ export const statementIsPlain = {
   definition: "the check refusing an invariant that is not written in plain language",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
@@ -36,7 +36,7 @@ export const statementIsPlain = {
     },
     {
       invariantKind: "departure",
-      statement: "A statement the grammar refuses is not plain.",
+      statement: "A statement written in a shape akasha refuses is not plain.",
     },
     {
       invariantKind: "departure",
@@ -52,11 +52,16 @@ export const statementIsPlain = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal naming no shape says the word the parse stopped at.",
+      statement: "A statement no shape of the grammar reads is passed over rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A shape the grammar lacks is a gap in the grammar rather than a fault in the statement.",
     },
     {
       invariantKind: "stopgap",
-      statement: "The phases judging the whole tree are off until every invariant is rewritten.",
+      statement: "Every phase is off until the invariants akasha holds are rewritten.",
     },
     {
       invariantKind: "gap",

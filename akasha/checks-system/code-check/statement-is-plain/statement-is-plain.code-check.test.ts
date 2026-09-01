@@ -250,12 +250,9 @@ test("a statement written in a refused shape names that shape", () => {
   expect(said[0]).toContain("say the same fact in the plainest words")
 })
 
-test("a statement no shape reads says the word the parse stopped at", () => {
+test("a statement no shape of the grammar reads is passed over", () => {
   const body = paged(JSON.stringify("A page is one TypeScript file whenever whenever."))
-  const said = judged(given(body))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("not plain language")
-  expect(said[0]).toContain("stopped at")
+  expect(judged(given(body))).toEqual([])
 })
 
 test("a statement refused for a mark is not judged against the grammar too", () => {

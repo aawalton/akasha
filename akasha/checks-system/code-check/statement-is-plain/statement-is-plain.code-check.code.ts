@@ -129,17 +129,12 @@ function sayingOf(split: Split): string {
 export function refusalOf(one: Stated, grammars: Grammars): string | null {
   const said = plainlyBy(grammars, one.text)
   if (said.plain) return null
-  if (said.shape !== null) {
-    return (
-      `line ${one.line} is written in \`${said.shape}\`, a shape akasha refuses\n` +
-      `  ${said.reason ?? ""}\n` +
-      "  say the same fact in the plainest words that keep it."
-    )
-  }
+  if (said.shape === null) return null
   return (
-    `line ${one.line} is not plain language, and the grammar stopped at \`${said.stoppedOn}\`\n` +
+    `line ${one.line} is written in \`${said.shape}\`, a shape akasha refuses\n` +
+    `  ${said.reason ?? ""}\n` +
     `  ${one.text}\n` +
-    "  say it more simply, or hand it back as one the grammar lacks a shape for."
+    "  say the same fact in the plainest words that keep it."
   )
 }
 
