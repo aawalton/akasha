@@ -1,4 +1,4 @@
-import { createServiceRoleClient, type SupabaseServiceRoleClient } from "../../../../../shared/supabase-server/src/service-role"
+import { createServiceRoleClient, type SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 
 let client: SupabaseServiceRoleClient | null = null
 

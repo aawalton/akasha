@@ -6,12 +6,14 @@
       "name": "akasha",
       "dependencies": {
         "@akasha/browser-launch-env": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/imessage": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
+        "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
@@ -41,12 +43,9 @@
         "@modelcontextprotocol/sdk": "^1.30.0",
         "@shared/browser-test-harness": "workspace:*",
         "@shared/cli": "workspace:*",
-        "@shared/errors-core": "workspace:*",
-        "@shared/file-page-identity": "workspace:*",
         "@shared/proc-compiler": "workspace:*",
         "@shared/proc-template": "workspace:*",
         "@shared/recurrence": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "@shared/triggers-proc": "workspace:*",
         "@shared/triggers-proc-compiler": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -91,7 +90,13 @@
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
         "@shared/pages-ui": "workspace:*",
+        "@shared/utils-narrow": "workspace:*",
         "chess.js": "^1.4.0",
+        "chessground": "^9.2.1",
+        "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
       },
     },
     "akasha/awen-core": {
@@ -108,9 +113,9 @@
     "akasha/calendar-google": {
       "name": "@akasha/calendar-google",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@akasha/google-oauth": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
-        "@shared/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -131,7 +136,7 @@
     "akasha/chess-core": {
       "name": "@akasha/chess-core",
       "dependencies": {
-        "@shared/errors-core": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -177,6 +182,9 @@
     },
     "akasha/context-system": {
       "name": "@akasha/context-system",
+    },
+    "akasha/day": {
+      "name": "@akasha/day",
     },
     "akasha/design/design-badges": {
       "name": "@akasha/design-badges",
@@ -248,8 +256,15 @@
     "akasha/design/design-primitives": {
       "name": "@akasha/design-primitives",
       "dependencies": {
+        "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
+        "cmdk": "1.0.4",
+        "embla-carousel-react": "^8.6.0",
+        "lucide-react": "^0.576.0",
+        "react-resizable-panels": "^4.4.0",
+        "sonner": "^2.0.7",
         "tailwind-merge": "^3.3.1",
+        "vaul": "^1.1.2",
       },
       "peerDependencies": {
         "@radix-ui/react-accordion": "*",
@@ -285,9 +300,9 @@
     "akasha/drive-google": {
       "name": "@akasha/drive-google",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@akasha/google-oauth": "workspace:*",
         "@googleapis/drive": "^20.2.0",
-        "@shared/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -296,9 +311,9 @@
       "name": "@akasha/email-google",
       "dependencies": {
         "@akasha/email-inbound": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@akasha/google-oauth": "workspace:*",
         "@googleapis/gmail": "^17.0.0",
-        "@shared/errors-core": "workspace:*",
         "@shared/pages-query": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
@@ -306,6 +321,12 @@
     },
     "akasha/email-inbound": {
       "name": "@akasha/email-inbound",
+    },
+    "akasha/errors-core": {
+      "name": "@akasha/errors-core",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
     },
     "akasha/file-page-identity": {
       "name": "@akasha/file-page-identity",
@@ -322,7 +343,7 @@
     "akasha/google-oauth": {
       "name": "@akasha/google-oauth",
       "dependencies": {
-        "@shared/errors-core": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
       },
     },
@@ -340,8 +361,8 @@
       "name": "@akasha/health-samples-day",
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
+        "@shared/day": "workspace:*",
         "@shared/pages-query": "workspace:*",
-        "@shared/recurrence": "workspace:*",
       },
     },
     "akasha/health-samples-import": {
@@ -367,8 +388,8 @@
     "akasha/imessage": {
       "name": "@akasha/imessage",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@akasha/ssh-access": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -391,13 +412,13 @@
     "akasha/pages-system/pages-access": {
       "name": "@akasha/pages-access",
       "dependencies": {
+        "@akasha/file-page-identity": "workspace:*",
         "@akasha/named-for": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-system": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@shared/file-page-identity": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@shared/pages-query": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -408,8 +429,8 @@
         "@akasha/id-minting": "workspace:*",
         "@akasha/pages-formula": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@shared/day": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -449,7 +470,7 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-system": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@tanstack/db": "^0.6.14",
         "zod": "^4.3.6",
@@ -469,6 +490,9 @@
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+      },
     },
     "akasha/persona-system": {
       "name": "@akasha/persona-system",
@@ -487,6 +511,9 @@
         "@shared/pages-query": "workspace:*",
         "zod": "^4.3.6",
       },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+      },
     },
     "akasha/seat-system": {
       "name": "@akasha/seat-system",
@@ -499,7 +526,7 @@
       "dependencies": {
         "@akasha/pages-query": "workspace:*",
         "@akasha/sms-core": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
       },
     },
@@ -513,8 +540,8 @@
     "akasha/ssh-access": {
       "name": "@akasha/ssh-access",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
-        "@shared/errors-core": "workspace:*",
       },
     },
     "akasha/supabase-auth": {
@@ -527,6 +554,14 @@
     },
     "akasha/supabase-database": {
       "name": "@akasha/supabase-database",
+    },
+    "akasha/supabase-server": {
+      "name": "@akasha/supabase-server",
+      "dependencies": {
+        "@akasha/supabase-database": "workspace:*",
+        "@supabase/supabase-js": "^2.104.0",
+        "zod": "^4.3.6",
+      },
     },
     "akasha/testing-system": {
       "name": "@akasha/testing-system",
@@ -601,6 +636,7 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@akasha/geo-io": "workspace:*",
         "@akasha/id-minting": "workspace:*",
         "@akasha/location-traces-access": "workspace:*",
@@ -620,11 +656,9 @@
         "@protomaps/basemaps": "^5.7.2",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "isbot": "^5.1.36",
@@ -653,10 +687,10 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-process": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -672,10 +706,12 @@
         "@akasha/alanwalton-web": "workspace:*",
         "@akasha/awen-core": "workspace:*",
         "@akasha/chess-core": "workspace:*",
+        "@akasha/day": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -687,6 +723,7 @@
         "@akasha/sms-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
+        "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
@@ -695,10 +732,8 @@
         "@collections/litrpg": "workspace:*",
         "@fontsource-variable/literata": "^5.2.5",
         "@infra/k8s-types": "workspace:*",
-        "@shared/day": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "@shared/notifications": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/open-questions": "workspace:*",
@@ -706,7 +741,6 @@
         "@shared/recurrence": "workspace:*",
         "@shared/status-bar-access": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "chess.js": "^1.4.0",
@@ -762,6 +796,7 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -774,10 +809,8 @@
         "@infra/k8s-types": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
         "react": "19.2.0",
@@ -805,6 +838,7 @@
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
@@ -813,8 +847,6 @@
         "@shared/design-patterns": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
-        "@shared/errors-core": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
         "react": "19.2.0",
@@ -838,7 +870,7 @@
       "name": "@collections/exercises",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/errors-core": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
@@ -852,10 +884,10 @@
       "name": "@collections/litrpg",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -867,8 +899,8 @@
     "collections/music": {
       "name": "@collections/music",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@collections/music-spotify": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
@@ -909,8 +941,8 @@
       "name": "@infra/analysis-complexity-cli",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@infra/analysis-complexity-core": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "typescript": "^5.8.3",
       },
       "devDependencies": {
@@ -954,8 +986,8 @@
       "name": "@infra/ci-workflows",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@infra/k8s-types": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
       },
       "devDependencies": {
@@ -1042,7 +1074,6 @@
       "dependencies": {
         "@infra/k8s-types": "workspace:*",
         "@shared/supabase-client": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@shared/verdict": "workspace:*",
         "cdk8s": "^2.70.60",
@@ -1119,7 +1150,6 @@
         "@akasha/workspace-paths": "workspace:*",
         "@infra/k8s": "workspace:*",
         "@shared/supabase-client": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@shared/verdict": "workspace:*",
         "typescript": "^5.8.3",
@@ -1146,8 +1176,8 @@
       "name": "@infra/talos",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@infra/k8s-types": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "yaml": "^2.8.0",
         "zod": "^4.3.6",
@@ -1199,8 +1229,8 @@
         "wan-provision": "./bin/wan-provision.sh",
       },
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@infra/comfy": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
       },
       "devDependencies": {
@@ -1230,9 +1260,9 @@
         "zimage-provision": "./bin/zimage-provision.sh",
       },
       "dependencies": {
+        "@akasha/errors-core": "workspace:*",
         "@akasha/utils-system": "workspace:*",
         "@infra/comfy": "workspace:*",
-        "@shared/errors-core": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -1271,7 +1301,7 @@
       "name": "@media/cli",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/errors-core": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -1328,7 +1358,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@infra/git-porcelain": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -1456,7 +1485,7 @@
       "name": "@shared/errors-client",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/errors-core": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -1468,32 +1497,12 @@
         "react": "^18 || ^19",
       },
     },
-    "shared/errors-core": {
-      "name": "@shared/errors-core",
-      "version": "0.1.0",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "shared/file-page-identity": {
-      "name": "@shared/file-page-identity",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "shared/notifications": {
       "name": "@shared/notifications",
       "version": "0.1.0",
       "dependencies": {
-        "@akasha/pages-access": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
+        "@shared/pages-query": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -1637,7 +1646,7 @@
       "name": "@shared/recurrence",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/day": "workspace:*",
+        "@akasha/day": "workspace:*",
         "rrule": "^2.8.1",
         "zod": "^4.3.6",
       },
@@ -1677,14 +1686,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "shared/supabase-database": {
-      "name": "@shared/supabase-database",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "shared/supabase-rr": {
       "name": "@shared/supabase-rr",
       "version": "0.1.0",
@@ -1707,19 +1708,6 @@
       "peerDependencies": {
         "react": ">=18.3",
         "react-router": ">=7",
-      },
-    },
-    "shared/supabase-server": {
-      "name": "@shared/supabase-server",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/supabase-database": "workspace:*",
-        "@supabase/supabase-js": "^2.104.0",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
       },
     },
     "shared/triggers-proc": {
@@ -1791,6 +1779,7 @@
       "name": "@smilingjenny/web",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/day": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/id-minting": "workspace:*",
@@ -1798,14 +1787,12 @@
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
-        "@shared/day": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
         "@shared/notifications": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/status-bar-access": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "isbot": "^5.1.36",
         "react": "19.2.0",
         "react-dom": "19.2.0",
@@ -2848,7 +2835,6 @@
       "name": "@temper/game-trading-pricing-client",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/supabase-server": "workspace:*",
         "@temper/game-trading-pricing": "workspace:*",
       },
       "devDependencies": {
@@ -3122,13 +3108,13 @@
       "name": "@temper/scripts",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/day": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
-        "@shared/day": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/supabase-client": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@temper/catalog-core": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
@@ -3431,7 +3417,7 @@
       "name": "@temper/shared-build-deploy-checks",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/errors-core": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@temper/shared-build-deploy-addons-resolve": "workspace:*",
         "@temper/shared-build-deploy-lua-runner": "workspace:*",
@@ -3447,7 +3433,7 @@
       "name": "@temper/shared-build-deploy-community-addons",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/errors-core": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "extract-zip": "^2.0.1",
         "zod": "^4.3.6",
@@ -3639,7 +3625,7 @@
       "name": "@temper/shared-formula-framework",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/day": "workspace:*",
+        "@akasha/day": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
       },
@@ -3786,6 +3772,7 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
         "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -3793,6 +3780,7 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
+        "@akasha/supabase-server": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
@@ -3800,10 +3788,8 @@
         "@shared/auth": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
-        "@shared/errors-core": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@temper/game-characters": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
@@ -3896,6 +3882,8 @@
 
     "@akasha/context-system": ["@akasha/context-system@workspace:akasha/context-system"],
 
+    "@akasha/day": ["@akasha/day@workspace:akasha/day"],
+
     "@akasha/design-badges": ["@akasha/design-badges@workspace:akasha/design/design-badges"],
 
     "@akasha/design-forms": ["@akasha/design-forms@workspace:akasha/design/design-forms"],
@@ -3913,6 +3901,8 @@
     "@akasha/email-google": ["@akasha/email-google@workspace:akasha/email-google"],
 
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
+
+    "@akasha/errors-core": ["@akasha/errors-core@workspace:akasha/errors-core"],
 
     "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:akasha/file-page-identity"],
 
@@ -3983,6 +3973,8 @@
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:akasha/supabase-auth"],
 
     "@akasha/supabase-database": ["@akasha/supabase-database@workspace:akasha/supabase-database"],
+
+    "@akasha/supabase-server": ["@akasha/supabase-server@workspace:akasha/supabase-server"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
 
@@ -4568,10 +4560,6 @@
 
     "@shared/errors-client": ["@shared/errors-client@workspace:shared/errors-client"],
 
-    "@shared/errors-core": ["@shared/errors-core@workspace:shared/errors-core"],
-
-    "@shared/file-page-identity": ["@shared/file-page-identity@workspace:shared/file-page-identity"],
-
     "@shared/notifications": ["@shared/notifications@workspace:shared/notifications"],
 
     "@shared/object-store": ["@shared/object-store@workspace:shared/object-store"],
@@ -4598,11 +4586,7 @@
 
     "@shared/supabase-client": ["@shared/supabase-client@workspace:shared/supabase-client"],
 
-    "@shared/supabase-database": ["@shared/supabase-database@workspace:shared/supabase-database"],
-
     "@shared/supabase-rr": ["@shared/supabase-rr@workspace:shared/supabase-rr"],
-
-    "@shared/supabase-server": ["@shared/supabase-server@workspace:shared/supabase-server"],
 
     "@shared/triggers-proc": ["@shared/triggers-proc@workspace:shared/triggers-proc"],
 
@@ -5210,6 +5194,8 @@
 
     "clsx": ["clsx@2.1.1", "", {}, "sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA=="],
 
+    "cmdk": ["cmdk@1.0.4", "", { "dependencies": { "@radix-ui/react-dialog": "^1.1.2", "@radix-ui/react-id": "^1.1.0", "@radix-ui/react-primitive": "^2.0.0", "use-sync-external-store": "^1.2.2" }, "peerDependencies": { "react": "^18 || ^19 || ^19.0.0-rc", "react-dom": "^18 || ^19 || ^19.0.0-rc" } }, "sha512-AnsjfHyHpQ/EFeAnG216WY7A5LiYCoZzCSygiLvfXC3H3LFGCprErteUcszaVluGOhuOTbJS3jWHrSDYPBBygg=="],
+
     "color-convert": ["color-convert@2.0.1", "", { "dependencies": { "color-name": "~1.1.4" } }, "sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ=="],
 
     "color-name": ["color-name@1.1.4", "", {}, "sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA=="],
@@ -5313,6 +5299,12 @@
     "electron-to-chromium": ["electron-to-chromium@1.5.415", "", {}, "sha512-958V+Kbhtgz+SxXeEVKBjrlKRBIDAYvUJfwhjxMZ5S6ut9jAl7l9ZKBkBrvjyjZE36PabLUo2L8kEeV5O4vgJg=="],
 
     "elementtree": ["elementtree@0.1.7", "", { "dependencies": { "sax": "1.1.4" } }, "sha512-wkgGT6kugeQk/P6VZ/f4T+4HB41BVgNBq5CDIZVbQ02nvTVqAiVTbskxxu3eA/X96lMlfYOwnLQpN2v5E1zDEg=="],
+
+    "embla-carousel": ["embla-carousel@8.6.0", "", {}, "sha512-SjWyZBHJPbqxHOzckOfo8lHisEaJWmwd23XppYFYVh10bU66/Pn5tkVkbkCMZVdbUE5eTCI2nD8OyIP4Z+uwkA=="],
+
+    "embla-carousel-react": ["embla-carousel-react@8.6.0", "", { "dependencies": { "embla-carousel": "8.6.0", "embla-carousel-reactive-utils": "8.6.0" }, "peerDependencies": { "react": "^16.8.0 || ^17.0.1 || ^18.0.0 || ^19.0.0 || ^19.0.0-rc" } }, "sha512-0/PjqU7geVmo6F734pmPqpyHqiM99olvyecY7zdweCw+6tKEXnrE90pBiBbMMU8s5tICemzpQ3hi5EpxzGW+JA=="],
+
+    "embla-carousel-reactive-utils": ["embla-carousel-reactive-utils@8.6.0", "", { "peerDependencies": { "embla-carousel": "8.6.0" } }, "sha512-fMVUDUEx0/uIEDM0Mz3dHznDhfX+znCCDCeIophYb1QGVM7YThSWX+wz11zlYwWFOr74b4QLGg0hrGPJeG2s4A=="],
 
     "emoji-regex": ["emoji-regex@8.0.0", "", {}, "sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A=="],
 
@@ -5818,6 +5810,8 @@
 
     "react-remove-scroll-bar": ["react-remove-scroll-bar@2.3.8", "", { "dependencies": { "react-style-singleton": "^2.2.2", "tslib": "^2.0.0" }, "peerDependencies": { "@types/react": "*", "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0" }, "optionalPeers": ["@types/react"] }, "sha512-9r+yi9+mgU33AKcj6IbT9oRCO78WriSj6t/cF8DWBZJ9aOGPOTEDvdUDz1FwKim7QXWwmHqtdHnRJfhAxEG46Q=="],
 
+    "react-resizable-panels": ["react-resizable-panels@4.12.3", "", { "peerDependencies": { "react": "^18.0.0 || ^19.0.0", "react-dom": "^18.0.0 || ^19.0.0" } }, "sha512-GHMJWnDXui/3RX4bT+cgBP+N3N2nkwcoZATr/2xLFpqQQe7TlBrE0cGM0dUa9ceT7A90tUrSRsiqgRG+g0/2AA=="],
+
     "react-router": ["react-router@7.15.1", "", { "dependencies": { "cookie": "^1.0.1", "set-cookie-parser": "^2.6.0" }, "peerDependencies": { "react": ">=18", "react-dom": ">=18" }, "optionalPeers": ["react-dom"] }, "sha512-R8rl9HhgikFYoPJymnUtPXWbnDb3oget6lQnfIoupbt61aT9aOhRkDsY2XRhZRyX1Z/8a5sL74fXmFNm3NRK5A=="],
 
     "react-style-singleton": ["react-style-singleton@2.2.3", "", { "dependencies": { "get-nonce": "^1.0.0", "tslib": "^2.0.0" }, "peerDependencies": { "@types/react": "*", "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^19.0.0-rc" }, "optionalPeers": ["@types/react"] }, "sha512-b6jSvxvVnyptAiLjbkWLE/lOnR4lfTtDAl+eUC7RZy+QQWc6wRzIV2CE6xBuMmDxc2qIihtDCZD5NPOFl7fRBQ=="],
@@ -6017,6 +6011,8 @@
     "valibot": ["valibot@1.4.2", "", { "peerDependencies": { "typescript": ">=5" }, "optionalPeers": ["typescript"] }, "sha512-gjdCvJ6d3RyHAneqxMYMW9QMCwYMb3jpOO0IyHZV1bnRHFBHrX3VkIILt5XYR0WhwHiH7Mty8ovuPZ/O3gamrg=="],
 
     "vary": ["vary@1.1.2", "", {}, "sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg=="],
+
+    "vaul": ["vaul@1.1.2", "", { "dependencies": { "@radix-ui/react-dialog": "^1.1.1" }, "peerDependencies": { "react": "^16.8 || ^17.0 || ^18.0 || ^19.0.0 || ^19.0.0-rc", "react-dom": "^16.8 || ^17.0 || ^18.0 || ^19.0.0 || ^19.0.0-rc" } }, "sha512-ZFkClGpWyI2WUQjdLJ/BaGuV6AVQiJ3uELGk3OYtP+B6yCO7Cmn9vPFXVJkRaGkOJu3m8bQMgtyzNHixULceQA=="],
 
     "vfile": ["vfile@6.0.3", "", { "dependencies": { "@types/unist": "^3.0.0", "vfile-message": "^4.0.0" } }, "sha512-KzIbH/9tXat2u30jf+smMwFCsno4wHVdNmzFyL+T/L3UGqqk6JKfVqOFOZEpZSHADH1k40ab6NUIXZq422ov3Q=="],
 

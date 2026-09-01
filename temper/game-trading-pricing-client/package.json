@@ -13,7 +13,6 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@shared/supabase-server": "workspace:*",
     "@temper/game-trading-pricing": "workspace:*"
   },
   "devDependencies": {

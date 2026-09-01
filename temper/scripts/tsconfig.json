@@ -86,9 +86,6 @@
       "path": "../../shared/supabase-client"
     },
     {
-      "path": "../../shared/supabase-server"
-    },
-    {
       "path": "../../shared/utils-narrow"
     },
     {

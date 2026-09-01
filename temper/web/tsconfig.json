@@ -65,19 +65,10 @@
       "path": "../../shared/errors-client"
     },
     {
-      "path": "../../shared/errors-core"
-    },
-    {
       "path": "../../shared/pages-ui"
     },
     {
-      "path": "../../shared/supabase-database"
-    },
-    {
       "path": "../../shared/supabase-rr"
-    },
-    {
-      "path": "../../shared/supabase-server"
     },
     {
       "path": "../../shared/utils-narrow"

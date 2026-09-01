@@ -1,5 +1,5 @@
 import { upsertPage } from "@akasha/pages-access/upsert"
-import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role"
+import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { asRecord } from "../../../../shared/utils-narrow/src/as-record"
 import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
 import { readFirstAccountWide } from "../../../shared-saved-variables/src/saved-variables-account-wide"

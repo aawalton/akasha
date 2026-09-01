@@ -17,12 +17,6 @@
     ]
   },
   "references": [
-    {
-      "path": "../supabase-database"
-    },
-    {
-      "path": "../supabase-auth"
-    }
   ],
   "include": [
     "src/**/*.ts",

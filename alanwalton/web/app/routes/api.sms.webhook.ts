@@ -2,7 +2,7 @@ import { loadSmsExternalIdentities } from "@akasha/sms-access/sms-allowlist"
 import { recordSmsDiscard } from "@akasha/sms-access/sms-discard"
 import { handleInboundSms } from "@akasha/sms-core/handle-inbound"
 import { writePage } from "@shared/pages-query"
-import { createServiceRoleClient } from "../../../../shared/supabase-server/src/service-role"
+import { createServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { z } from "zod"
 import type { Route } from "./+types/api.sms.webhook"
 

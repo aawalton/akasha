@@ -50,9 +50,6 @@
       "path": "../../shared/errors-client"
     },
     {
-      "path": "../../shared/errors-core"
-    },
-    {
       "path": "../../shared/open-questions"
     },
     {
@@ -68,13 +65,7 @@
       "path": "../../shared/status-bar-access"
     },
     {
-      "path": "../../shared/supabase-database"
-    },
-    {
       "path": "../../shared/supabase-rr"
-    },
-    {
-      "path": "../../shared/supabase-server"
     },
     {
       "path": "../../shared/utils-narrow"

@@ -19,12 +19,5 @@
     "node_modules",
     "dist"
   ],
-  "references": [
-    {
-      "path": "../supabase-auth"
-    },
-    {
-      "path": "../supabase-database"
-    }
-  ]
+  "references": []
 }

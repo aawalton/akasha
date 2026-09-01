@@ -11,7 +11,6 @@
   "dependencies": {
     "@infra/k8s-types": "workspace:*",
     "@shared/supabase-client": "workspace:*",
-    "@shared/supabase-server": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@shared/verdict": "workspace:*",
     "cdk8s": "^2.70.60",

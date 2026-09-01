@@ -55,9 +55,6 @@
     {
       "path": "../../shared/supabase-rr"
     },
-    {
-      "path": "../../shared/supabase-server"
-    }
   ],
   "include": [
     "app/**/*.ts",

@@ -1,6 +1,6 @@
 import { getPage } from "@akasha/pages-access/get"
 import { patchPage } from "@akasha/pages-access/patch"
-import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role"
+import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { asRecord } from "../../../../shared/utils-narrow/src/as-record"
 import { isJson } from "../../../../shared/utils-narrow/src/is-json"
 import { upsertItemRuleByItemId } from "@temper/game-items-rules-core/inventory-rule-settings"

@@ -1,5 +1,5 @@
 import { getPage } from "@akasha/pages-access/get"
-import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role"
+import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { asRecord } from "../../../../shared/utils-narrow/src/as-record"
 import { isRecord } from "../../../../shared/utils-narrow/src/is-record"
 import { DEFAULT_BACKPACK_SETTINGS } from "@temper/game-items-core/backpack-settings-types"

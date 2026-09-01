@@ -15,7 +15,6 @@
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@shared/supabase-client": "workspace:*",
-    "@shared/supabase-server": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@shared/verdict": "workspace:*",
     "@akasha/workspace-paths": "workspace:*",
