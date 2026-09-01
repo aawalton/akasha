@@ -2,8 +2,8 @@ import { saidBy } from "@akasha/command-system/fault-saying"
 import {
   fetchRingCountsFromMonarch,
   type RingCounts,
-} from "../../readout-system/readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
-import { keepReading } from "../../readout-system/readout-reading/readout-reading.module.code.ts"
+} from "../../../readout-system/readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
+import { keepReading } from "../../../readout-system/readout-reading/readout-reading.module.code.ts"
 
 export const READOUT_PAGE =
   "akasha/readout-system/readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
