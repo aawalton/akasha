@@ -23,20 +23,20 @@ const EMPTY_REPORT: HealthSampleWriteReport = {
   valueChanged: 0,
 }
 
-interface Standing {
+interface Filed {
   readonly id: string
   readonly value: number
   readonly arrivedAt: string
 }
 
-async function pagesOn(day: string): Promise<ReadonlyMap<string, Standing>> {
+async function pagesOn(day: string): Promise<ReadonlyMap<string, Filed>> {
   const asked = await askComposed({
     "page-type": "health-sample",
     where: { [`${ANCHOR_PAGE_TYPE}-slug`]: { is: day } },
     limit: ROW_CEILING,
   })
   if (!asked.ok) throw new Error(`upsertHealthSamples: reading ${day}: ${asked.why}`)
-  const held = new Map<string, Standing>()
+  const held = new Map<string, Filed>()
   for (const row of asked.answer.rows) {
     const id = textAt(row.values, "id")
     if (id === "") continue
