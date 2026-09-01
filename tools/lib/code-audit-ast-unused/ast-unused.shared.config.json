@@ -6,14 +6,6 @@
         "**/*.ts"
       ]
     },
-    "shared/design-badges": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
     "shared/design-layout": {
       "entry": [
         "**/*.test.{ts,tsx}"
