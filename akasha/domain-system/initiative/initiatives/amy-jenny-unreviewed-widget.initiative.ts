@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Three landed, proved live on 8787: /write takes `pages` of values (0688168806); a page created gets an id and every body is formatted (672f7ab549); a name that is no page type is refused, not answered `{rows:[]}` (985ba3bcce). Left is one atomic swap — reader tools/lib/push-notification/store.ts (user-id, bundle-id), writer registerDeviceToken, and prune naming the page by its token. The new type has personSlug+iosAppSlug, so all three move together or pushes break.",
+        "Client landed: @akasha/pages-system-service/calling (ca8790f388), built from the service's own types so the two cannot drift; 147 pass, proved live — reads rows, carries refusals through. It replaces @shared/pages-query in all 30 imports-inside violations. Blocker: of the page types those files name, only page-type, device-token and readout are in akasha. daily-tracking, error, health-sample, session-tracking, location-trace, open-question, sync-run, scale-reading are markdown-only, so each file waits on its page type moving in.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
