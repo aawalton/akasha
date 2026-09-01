@@ -9,6 +9,11 @@ export const emberMigrateTemperToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
+      statement: "The index says what the pages say.",
+      workingMemory:
+        "Reproduced 2026-09-01: `index refresh --dry-run` says 0 added, 1 changed, 1 taken away, over 2184 pages and 22804 entries. Earlier it said 4 taken away, so the leak follows landings rather than sitting still. The incremental update inside the landing lock leaks an entry; nothing was interleaved, so this is no ordering fault. A full rebuild of the 66MB index costs 2.86s. First because the migration lands thousands of pages through a swarm, and a per-landing leak compounds past trusting any of it.",
+    },
+    {
       statement:
         "An entry is a page property shape extending `page-property-entry` rather than a page.",
       workingMemory:
@@ -25,6 +30,8 @@ export const emberMigrateTemperToAkasha = {
     {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
+      workingMemory:
+        "`akasha/temper` holds one file, the domain page. Outside it: the `temper/` workspace of 151 packages over 10,545 files, 99 page types under `pages/temper-*` over 6,464 files, of which 5,557 are pages and 252 are JSONL holding 164,071 entries, plus `tools/lib/temper-addon-data` and two watcher services. 12,252 files name temper repo-wide. No page type of the 99 is defined anywhere; its shape lives in md frontmatter and in whatever reads it, so each is worked out rather than carried across.",
     },
     { statement: "No part of temper is outside akasha." },
     {
@@ -32,19 +39,17 @@ export const emberMigrateTemperToAkasha = {
       workingMemory:
         "Only write and edit run the gate. `calling` reads the `mechanical` boolean off the command page and hands `mechanical` down, which sets NO_GATE. `seat-stating`, `subagent-presence` and the oauth pair in `tools/lib` land through `landedMechanically` in `asking`, the one caller a program lands through. Nothing outside akasha shells out to `akasha write` any more. What is left is the boolean itself, which a relation to a change kind replaces.",
     },
-    {
-      statement: "The index says what the pages say.",
-      workingMemory:
-        "`akasha index refresh --dry-run` reports the index drifted from the pages: 1 file changed and 4 files taken away, where twenty minutes earlier it was 3 taken away. Landings happened in between, so the incremental update inside the landing lock leaks an entry. Nothing was interleaved, so this is no ordering fault. The index is 66MB and a full rebuild costs 2.86s. Callers trust the index, so the root cause is fixed rather than the drift swept.",
-    },
   ],
   constraints: [
     "The entries work lands in pages-system rather than under temper.",
     "Every part of temper migrated into akasha lands under `akasha/temper`.",
     "The intent stack and its working memory hold where the work is, so a fresh context resumes from the page rather than from what it remembers.",
     "Work never halts on doubt: a finding is filed, a decision is made, and the work goes on.",
-    "Changes swarm across as many as twenty agents, and the akasha commands are left to settle what collides.",
+    "Changes swarm across as many as twenty agents this initiative's persona spawns and shepherds, and the akasha commands are left to settle what collides.",
     "Every change goes through an akasha command, and a command that cannot do what is needed is enhanced or written rather than bypassed.",
     "A reminder every fifteen minutes restates these constraints and says to keep going.",
+    "Temper is recreated in the new paradigms rather than carried across, and a feature lost in the recreation is filed as a finding.",
+    "No directive comes across, and each directive left behind is filed as a finding.",
+    "Temper is allowed to break until this initiative is done.",
   ],
 } as const satisfies Initiative
