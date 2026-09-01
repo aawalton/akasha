@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Alan: remove the dependency, do not migrate the page types, do not remove the old pages. 29 -> 22 files import @shared/pages-query. Landed fb06db5f68 (3 type-only), 7815e4ca02 and 81ca07f77d (3 dead modules plus email-google's manifest edge); another lane took mobile-cli at a86ab2b802. Left: 4 injectable seams where the import is only a default, 18 hard calls. The akasha service refuses every markdown-only page type by name, so a hard call cannot simply be repointed at the new client.",
+        "29 -> 22 import @shared/pages-query; 7 gone (fb06db5f68, 7815e4ca02, 81ca07f77d, and mobile-cli by another lane at a86ab2b802). Decisive, at 971182ebd2: the cluster page store is socat onto this workstation's akasha service, answers for akasha's 71 page types alone, and refuses the {page-type:...} shape every caller sends. Nothing breaks because each web pod carries a full 380-type checkout that pages-query reads first. These 22 are served by that checkout rather than by the store.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
