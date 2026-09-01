@@ -31,7 +31,7 @@ type FileEdit = {
   readonly body: string | null
 }
 
-const STANDING: readonly Named[] = [
+const PAGES: readonly Named[] = [
   ...VOCABULARY,
   ["b.domain.ts", { id: idOf("b"), pageTypeSlug: "domain", slug: "b" }],
   ["g.domain.ts", { id: idOf("g"), pageTypeSlug: "domain", slug: "g" }],
@@ -52,7 +52,7 @@ const BODIES: readonly (readonly [string, string])[] = [
 
 function seeded(): string {
   const repo = scratch.rootFor("akasha-shadow-")
-  for (const [at, value] of STANDING) put(repo, join(AKASHA, at), bodyOf(value))
+  for (const [at, value] of PAGES) put(repo, join(AKASHA, at), bodyOf(value))
   for (const [at, body] of BODIES) put(repo, join(AKASHA, at), body)
   rebuiltIn(repo, AKASHA)
   return repo
@@ -191,7 +191,7 @@ function naming(unique: string | null): Held {
 
 function seededNaming(): string {
   const repo = scratch.rootFor("akasha-naming-")
-  for (const [at, value] of STANDING) put(repo, join(AKASHA, at), bodyOf(value))
+  for (const [at, value] of PAGES) put(repo, join(AKASHA, at), bodyOf(value))
   const [namingAt, named] = aType("1", "domain", "page", ["name"])
   put(repo, join(AKASHA, namingAt), bodyOf(named))
   put(repo, join(AKASHA, NAME_AT), bodyOf(naming("always")))
