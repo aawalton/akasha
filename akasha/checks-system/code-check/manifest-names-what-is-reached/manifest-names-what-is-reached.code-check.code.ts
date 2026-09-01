@@ -273,7 +273,7 @@ function configNamed(shadow: Shadow): string | null {
   return filePropertiesAt(shadow.reading).get(CAPACITOR_CONFIG) ?? null
 }
 
-function standingFrom(change: Change, folder: string): (named: string) => boolean {
+function thereIn(change: Change, folder: string): (named: string) => boolean {
   return (named) => change.after(join(folder, named)) !== null
 }
 
@@ -338,7 +338,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return overEachFile(change, (given) => {
     const held = carried.get(given.path)
     if (held !== undefined) {
-      return unreachedIn(held, byName, wholeOf(held), standingFrom(change, held.folder), config)
+      return unreachedIn(held, byName, wholeOf(held), thereIn(change, held.folder), config)
     }
     if (!given.path.endsWith(TS_ENDING)) return []
     const owner = ownerOf(folders, given.path)
