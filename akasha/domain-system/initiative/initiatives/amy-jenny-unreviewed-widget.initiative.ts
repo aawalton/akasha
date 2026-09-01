@@ -45,7 +45,7 @@ export const amyJennyUnreviewedWidget = {
     "Every intent on Alan's side comes before Jenny's even though the end of the work is hers.",
     "The ring is drawn by one file both tiles share, so it moves once and serves both.",
     "The reading is taken on a workstation because a reading is never committed, and the store writes only what it commits.",
-    "The route cannot move before the credential and the readers it uses and the reading itself.",
+    "A package under akasha may depend on one standing outside it, and several already do, so an outside dependency is no reason to hold a move back.",
     "An akasha deploy names one thing, reads what it is made of from its page, refuses what is ambiguous, and does nothing already done.",
     "Deploys are broken today, so an intent naming a site or an app being put up is about that rather than about anything being written.",
     "Nothing waits on Alan: a question for him becomes a finding with the call taken in his absence, and the work carries on.",
