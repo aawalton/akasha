@@ -38,6 +38,15 @@ export const running = {
       statement: "An environment stated replaces the one inherited.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "What a process says on its output stream is answered as bytes where those are asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Text is those bytes read as text rather than a second run.",
+    },
+    {
       invariantKind: "absence",
       statement: "No shell comes between a caller and the process it starts.",
     },

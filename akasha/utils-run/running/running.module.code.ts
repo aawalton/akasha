@@ -6,6 +6,12 @@ export type Said = {
   readonly err: string
 }
 
+export type Held = {
+  readonly code: number
+  readonly out: Uint8Array
+  readonly err: string
+}
+
 export type Asked = {
   readonly cwd?: string
   readonly env?: Record<string, string | undefined>
@@ -13,7 +19,7 @@ export type Asked = {
   readonly timeout?: number
 }
 
-export function ran(argv: readonly string[], asked: Asked = {}): Said {
+export function bytes(argv: readonly string[], asked: Asked = {}): Held {
   const done = Bun.spawnSync([...argv], {
     stdout: "pipe",
     stderr: "pipe",
@@ -24,9 +30,14 @@ export function ran(argv: readonly string[], asked: Asked = {}): Said {
   })
   return {
     code: done.exitCode ?? NO_CODE,
-    out: done.stdout.toString(),
+    out: new Uint8Array(done.stdout),
     err: done.stderr.toString(),
   }
+}
+
+export function ran(argv: readonly string[], asked: Asked = {}): Said {
+  const done = bytes(argv, asked)
+  return { code: done.code, out: new TextDecoder().decode(done.out), err: done.err }
 }
 
 export function said(argv: readonly string[], asked: Asked = {}): string {

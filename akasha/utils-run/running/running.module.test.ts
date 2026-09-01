@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { ran, said } from "./running.module.code.ts"
+import { bytes, ran, said } from "./running.module.code.ts"
 
 test("a command exiting zero is answered as zero and what it printed", () => {
   expect(ran(["sh", "-c", "printf hello"])).toEqual({ code: 0, out: "hello", err: "" })
@@ -45,4 +45,15 @@ test("an environment a caller widens carries what it was widened from", () => {
       env: { ...process.env, AKASHA_RUNNING_PROBE: "here" },
     }).out
   ).toBe("here\n")
+})
+
+test("what a process says on its output stream comes back as the bytes it wrote", () => {
+  const done = bytes(["printf", "hi"])
+  expect(done.code).toBe(0)
+  expect([...done.out]).toEqual([104, 105])
+})
+
+test("bytes a reader could not read as text come back whole", () => {
+  const done = bytes(["printf", "\\377\\376"])
+  expect([...done.out]).toEqual([255, 254])
 })
