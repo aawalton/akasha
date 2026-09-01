@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const typecheckReadsOneIndexWithNothingToTellThemApart = {
+  id: "01a05fd4-2c3a-7b16-9d48-6e2f7a10c934",
+  pageTypeSlug: "finding",
+  slug: "typecheck-reads-one-index-with-nothing-to-tell-them-apart",
+  domainSlug: "workspace-package/checks-system",
+  claim:
+    "Typecheck asks the graph for import edges alone, and for those the committed index and the shadow a change leaves provably answer alike, so the reading that `reachedBy` and `rootsOf` take is correct but unpinned: no test fails if a caller stops passing it.",
+  evidence:
+    "`reachedBy` at `typecheck.code-check.code.ts:29` asks for `[IMPORT]` only. Commit `9b4ce0e403`, which added the reading parameter, argued in its own message that for an import edge alone the two readings answer alike: the closure runs backwards over what imports a file, every import edge a change makes or unmakes has a changed file as its source, and a changed file is already a seed of that closure. What differed was the declaration edge, the module a page type names as its loader. Commit `a6705f2f5c` retired that edge as a reversed pseudo-import and made `An import edge stands only where the index answers one` an invariant of graph-asking; `08ca9d5e17` re-added the relationship as a `relation` edge running page to loader rather than loader to page. Neither commit touched typecheck, its only consumer of the edge. Probed at HEAD against the `declaring()` fixture world: `reachingInto` over `[import-edge]`, over `[relation]`, and over both together each answer `[akasha/loaded.held-type.ts]` and never reach `akasha/held-loader.module.code.ts`. The call taken: the test `the files compiled are read from the index the change leaves, not the one it found` had stood red since 16:10 on 31 Aug asserting `rootsOf(gone)` still held the loader. That assertion pinned the retired model, so it was removed and the test renamed to `a page the change takes away leaves what its page type says loads it uncompiled`, its other two assertions unchanged. Compiling the loader was never needed for type safety, because compilation follows imports and the loader does not import the page. The typecheck page's invariant naming the old behaviour was replaced in the same spirit. Left open: whether the reading should be pinned by some other world, or whether the parameter should go.",
+} as const satisfies Finding
