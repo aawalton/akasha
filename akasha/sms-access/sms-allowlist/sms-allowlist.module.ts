@@ -10,15 +10,23 @@ export const smsAllowlist = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A relationship row that will not parse is dropped.",
+      statement: "This raises rather than answering that nobody may send.",
     },
     {
       invariantKind: "departure",
-      statement: "A store that cannot answer throws rather than reading as nobody.",
+      statement: "A refusal names the page type nothing answers for.",
     },
     {
       invariantKind: "departure",
-      statement: "A sending permission spelt as a word is read as the boolean the word names.",
+      statement: "A refusal says where those pages sit.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches a page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A relationship is a page akasha carries.",
     },
   ],
 } as const satisfies Module

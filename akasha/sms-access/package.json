@@ -7,8 +7,6 @@
     "./sms-discard": "./sms-discard/sms-discard.module.code.ts"
   },
   "dependencies": {
-    "@akasha/pages-query": "workspace:*",
-    "@akasha/sms-core": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/sms-core": "workspace:*"
   }
 }

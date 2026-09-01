@@ -1,45 +1,18 @@
-import { afterAll, beforeEach, describe, expect, mock, test } from "bun:test"
-import * as pagesQuery from "@akasha/pages-query"
-
-const REAL_PAGES_QUERY = { ...pagesQuery }
-
-type Landing = { readonly ok: true } | { readonly ok: false; readonly why: string }
-
-type Held = { given: unknown[]; landing: Landing }
-
-function fresh(): Held {
-  return { given: [], landing: { ok: true } }
-}
-
-const held = fresh()
-
-mock.module("@akasha/pages-query", () => ({
-  ...REAL_PAGES_QUERY,
-  writePage: (...taken: unknown[]) => {
-    held.given = taken
-    return Promise.resolve(held.landing)
-  },
-}))
-
-afterAll(() => {
-  mock.module("@akasha/pages-query", () => REAL_PAGES_QUERY)
-})
-
-const { SMS_DISCARD_PAGE_TYPE_SLUG, WRITER, discardNamed, recordSmsDiscard } = await import(
-  "./sms-discard.module.code.ts"
-)
+import { describe, expect, test } from "bun:test"
+import {
+  discardLost,
+  discardNamed,
+  recordSmsDiscard,
+  SMS_DISCARD_PAGE_TYPE_SLUG,
+} from "./sms-discard.module.code.ts"
 
 const DISCARDED_INBOUND = { sender: "+15550101234", reason: "unknown sender" }
 
-beforeEach(() => {
-  const clean = fresh()
-  held.given = clean.given
-  held.landing = clean.landing
-})
+const AN_INSTANT = "2026-08-31T14:05:09.123Z"
 
 describe("discardNamed", () => {
   test("turns every colon and dot of an instant into a hyphen", () => {
-    expect(discardNamed("2026-08-31T14:05:09.123Z")).toBe("2026-08-31T14-05-09-123Z")
+    expect(discardNamed(AN_INSTANT)).toBe("2026-08-31T14-05-09-123Z")
   })
 
   test("leaves an instant carrying neither alone", () => {
@@ -47,37 +20,52 @@ describe("discardNamed", () => {
   })
 })
 
+describe("discardLost", () => {
+  test("names the page type nothing is written under", () => {
+    expect(discardLost(DISCARDED_INBOUND, AN_INSTANT)).toContain(SMS_DISCARD_PAGE_TYPE_SLUG)
+  })
+
+  test("names the sender, the reason and the moment the message was turned away", () => {
+    const said = discardLost(DISCARDED_INBOUND, AN_INSTANT)
+    expect(said).toContain("+15550101234")
+    expect(said).toContain("unknown sender")
+    expect(said).toContain(AN_INSTANT)
+  })
+
+  test("says the message is lost", () => {
+    expect(discardLost(DISCARDED_INBOUND, AN_INSTANT)).toContain("is lost")
+  })
+})
+
 describe("recordSmsDiscard", () => {
-  test("names the page for the instant of the discard", async () => {
-    await recordSmsDiscard(DISCARDED_INBOUND, "2026-08-31T14:05:09.123Z")
-    expect(held.given[0]).toBe(SMS_DISCARD_PAGE_TYPE_SLUG)
-    expect(held.given[1]).toBe("2026-08-31T14-05-09-123Z")
-    expect(held.given[3]).toBe(WRITER)
+  test("answers that nothing was recorded rather than that something was", async () => {
+    const held = await recordSmsDiscard(DISCARDED_INBOUND, AN_INSTANT)
+    expect(held.kind).toBe("not-recorded")
   })
 
-  test("writes the sender and the reason down beside the instant", async () => {
-    await recordSmsDiscard(DISCARDED_INBOUND, "2026-08-31T14:05:09.123Z")
-    expect(held.given[2]).toMatchObject({
-      sender: "+15550101234",
-      reason: "unknown sender",
-      "discarded-at": "2026-08-31T14:05:09.123Z",
-    })
+  test("carries the whole loss into the reason it answers with", async () => {
+    const held = await recordSmsDiscard(DISCARDED_INBOUND, AN_INSTANT)
+    if (held.kind !== "not-recorded") return
+    expect(held.reason).toBe(discardLost(DISCARDED_INBOUND, AN_INSTANT))
   })
 
-  test("answers recorded where the write lands", async () => {
-    expect(await recordSmsDiscard(DISCARDED_INBOUND)).toEqual({ kind: "recorded" })
+  test("writes the loss where a reader of the logs meets it", async () => {
+    const held: unknown[] = []
+    const spoke = console.error
+    console.error = (...said: unknown[]) => {
+      held.push(said[0])
+    }
+    try {
+      await recordSmsDiscard(DISCARDED_INBOUND, AN_INSTANT)
+    } finally {
+      console.error = spoke
+    }
+    expect(String(held[0])).toContain("+15550101234")
   })
 
-  test("answers not recorded rather than throwing where the write does not land", async () => {
-    held.landing = { ok: false, why: "the store refused" }
-    expect(await recordSmsDiscard(DISCARDED_INBOUND)).toEqual({
-      kind: "not-recorded",
-      reason: "the store refused",
-    })
-  })
-
-  test("names the page for now where no instant is given", async () => {
-    await recordSmsDiscard(DISCARDED_INBOUND)
-    expect(held.given[1]).toMatch(/^\d{4}-\d{2}-\d{2}T\d{2}-\d{2}-\d{2}-\d{3}Z$/)
+  test("names the moment of the loss as now where no instant is given", async () => {
+    const held = await recordSmsDiscard(DISCARDED_INBOUND)
+    if (held.kind !== "not-recorded") return
+    expect(held.reason).toMatch(/\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z/)
   })
 })
