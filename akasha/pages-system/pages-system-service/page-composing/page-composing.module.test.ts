@@ -53,7 +53,7 @@ test("one type's keys keep the order that type declares them in", () => {
 
 test("a page the index does not hold is placed under its type's folder by the plural", () => {
   const said = pathFor(
-    "akasha/person-system/device-token/device-token.page-type.ts",
+    "akasha/person-system/device-tokens/device-token.page-type.ts",
     "device-tokens",
     "device-token",
     "one"

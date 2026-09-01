@@ -3,7 +3,7 @@ import { bodyOf, importedFrom, saidAs, unnamedIn } from "./page-body.module.code
 
 const AT = "akasha/person-system/device-token/device-tokens/one.device-token.ts"
 
-const TYPE_AT = "akasha/person-system/device-token/device-token.page-type.ts"
+const TYPE_AT = "akasha/person-system/device-tokens/device-token.page-type.ts"
 
 test("a page beneath its type reaches it by going up", () => {
   expect(importedFrom(AT, TYPE_AT)).toBe("../device-token.page-type.ts")
