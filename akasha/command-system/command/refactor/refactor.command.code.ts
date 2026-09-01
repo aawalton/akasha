@@ -407,8 +407,8 @@ export function refactor(argv: readonly string[], given: Given): Answer {
       1
     )
   }
-  const stood = baseOf(root)
-  const asked = renamingFor(root, from, to, plural, bodyTextOf(root, stood))
+  const base = baseOf(root)
+  const asked = renamingFor(root, from, to, plural, bodyTextOf(root, base))
   if ("refused" in asked) return answering([], [asked.refused], 1)
   return landed(given, root, asked.renaming, read.dryRun, argv)
 }
