@@ -11,7 +11,6 @@
     "./free-exercise-db/custom-features": "./src/free-exercise-db/custom-features.ts",
     "./free-exercise-db/map": "./src/free-exercise-db/map.ts",
     "./free-exercise-db/selection-features": "./src/free-exercise-db/selection-features.ts",
-    "./page-types/seed-coaching-context": "./src/page-types/seed-coaching-context.ts",
     "./page-types/tracking-options": "./src/page-types/tracking-options.ts",
     "./pages/access": "./src/pages/access.ts",
     "./pages/page": "./src/pages/page.ts",
