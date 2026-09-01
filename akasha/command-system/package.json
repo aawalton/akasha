@@ -3,8 +3,11 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./asking": "./asking/asking.module.code.ts",
+    "./calling": "./calling/calling.module.code.ts",
     "./committing": "./committing/committing.module.code.ts",
     "./holding": "./holding/holding.module.code.ts",
+    "./landing": "./landing/landing.module.code.ts",
     "./reading": "./reading/reading.module.code.ts",
     "./rooting": "./rooting/rooting.module.code.ts",
     "./scratching": "./scratching/scratching.module.code.ts",
