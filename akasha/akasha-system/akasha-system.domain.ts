@@ -16,6 +16,7 @@ export const akashaSystem = {
     "workspace-package/utils-process",
     "workspace-package/utils-run",
     "workspace-package/utils-system",
+    "workspace-package/git",
     "workspace-package/pages-system",
     "workspace-package/domain-system",
     "workspace-package/graph-system",
