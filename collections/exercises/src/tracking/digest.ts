@@ -1,5 +1,5 @@
 import { askComposed } from "@shared/pages-query/ask"
-import { getEsoDayStr } from "@shared/recurrence/reset-times"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { getPages, pageOfRow } from "../pages/access"
 import type { Page } from "../pages/page"
 import { fieldBool, fieldNum, fieldStr } from "../cli/lib/fields"

@@ -50,9 +50,6 @@
   ],
   "references": [
     {
-      "path": "../recurrence"
-    },
-    {
       "path": "../pages-query"
     }
   ]

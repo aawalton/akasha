@@ -11,13 +11,7 @@
   "exclude": ["node_modules", "dist"],
   "references": [
     {
-      "path": "../../shared/day"
-    },
-    {
       "path": "../shared-foundation-misc-dungeons"
-    },
-    {
-      "path": "../../shared/recurrence"
     },
     {
       "path": "../../shared/utils-narrow"

@@ -32,9 +32,6 @@
   },
   "references": [
     {
-      "path": "../../shared/day"
-    },
-    {
       "path": "../../collections/litrpg"
     },
     {
@@ -57,9 +54,6 @@
     },
     {
       "path": "../../shared/pages-ui"
-    },
-    {
-      "path": "../../shared/recurrence"
     },
     {
       "path": "../../shared/status-bar-access"

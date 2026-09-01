@@ -95,14 +95,6 @@
         "**/*.ts"
       ]
     },
-    "shared/recurrence": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "shared/status-bar-access": {
       "entry": [
         "**/*.test.{ts,tsx}"

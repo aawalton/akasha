@@ -13,7 +13,6 @@
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@shared/pages-query": "workspace:*",
-    "@shared/recurrence": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   },

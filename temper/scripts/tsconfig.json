@@ -17,9 +17,6 @@
   },
   "references": [
     {
-      "path": "../../shared/day"
-    },
-    {
       "path": "../game-items-alchemy"
     },
     {
@@ -78,12 +75,6 @@
     },
     {
       "path": "../shared-capture-datamining-reader"
-    },
-    {
-      "path": "../../shared/recurrence"
-    },
-    {
-      "path": "../../shared/supabase-client"
     },
     {
       "path": "../../shared/utils-narrow"

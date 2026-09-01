@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "@shared/recurrence/reset-times"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { fieldStr } from "./fields"
 import { getPage, getPages } from "../../pages/access"
 import type { Page } from "../../pages/page"

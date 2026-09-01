@@ -3,7 +3,7 @@
 import type { DragStartEvent } from "@dnd-kit/core"
 import { KeyboardSensor, PointerSensor, useSensor, useSensors } from "@dnd-kit/core"
 import { pageDayKey } from "@akasha/pages-core/view/calendar-date-to-value"
-import { getEsoDayStr } from "@shared/day"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PageRow } from "../view-engine/page-row"

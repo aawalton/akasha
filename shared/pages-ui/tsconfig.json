@@ -27,16 +27,10 @@
   ],
   "references": [
     {
-      "path": "../day"
-    },
-    {
       "path": "../errors-client"
     },
     {
       "path": "../design-patterns"
-    },
-    {
-      "path": "../recurrence"
     },
     {
       "path": "../supabase-rr"

@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "@shared/recurrence/reset-times"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 
 const MS_PER_MINUTE = 60_000
 

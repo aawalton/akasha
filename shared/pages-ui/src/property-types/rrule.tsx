@@ -1,14 +1,14 @@
 "use client"
 
-import { getEsoDayStr } from "@shared/day"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { Badge } from "@akasha/design-badges/badge"
 import { Button } from "@akasha/design-primitives/button"
 import { Input } from "@akasha/design-primitives/input"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { labelRrule } from "@shared/recurrence/labeling"
-import { parseRecurringText } from "@shared/recurrence/parsing"
-import { getOccurrenceAtOrAfter } from "@shared/recurrence/scheduling"
+import { labelRrule } from "@akasha/recurrence/labeling"
+import { parseRecurringText } from "@akasha/recurrence/parsing"
+import { getOccurrenceAtOrAfter } from "@akasha/recurrence/scheduling"
 import { useId, useState } from "react"
 
 import type { PropertyBadgeProps } from "./property-badge"

@@ -1,4 +1,4 @@
-import { getEsoDayStr, getEsoDayStrOffset } from "@shared/recurrence/reset-times"
+import { getEsoDayStr, getEsoDayStrOffset } from "@akasha/day/eso-day"
 import { getPages } from "../pages/access"
 import { fieldBool, fieldNum, fieldStr } from "../cli/lib/fields"
 import { resolveActiveSchedule } from "../cli/lib/resolve"

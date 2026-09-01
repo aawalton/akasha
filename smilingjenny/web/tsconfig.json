@@ -32,9 +32,6 @@
   },
   "references": [
     {
-      "path": "../../shared/day"
-    },
-    {
       "path": "../../infra/k8s-types"
     },
     {
@@ -47,14 +44,11 @@
       "path": "../../shared/notifications"
     },
     {
-      "path": "../../shared/recurrence"
-    },
-    {
       "path": "../../shared/status-bar-access"
     },
     {
       "path": "../../shared/supabase-rr"
-    },
+    }
   ],
   "include": [
     "app/**/*.ts",
