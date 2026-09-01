@@ -1,7 +1,7 @@
-import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { join, relative } from "node:path"
 import { stringAt } from "@akasha/utils-narrow/string-at"
+import { said as saying } from "@akasha/utils-run/running"
 
 export type Stamp = {
   readonly commit: string
@@ -18,8 +18,6 @@ const SHORT = 7
 const SHOWN = 5
 
 const HERE = "."
-
-const READ_AT_MOST = 64 * 1024 * 1024
 
 export function stampIn(at: string): Stamp | null {
   const file = join(at, STAMP)
@@ -54,11 +52,7 @@ export function stampTaken(at: string): undefined {
 
 function gitIn(repo: string, argv: readonly string[]): string | null {
   try {
-    return execFileSync("git", ["-C", repo, ...argv], {
-      encoding: "utf8",
-      maxBuffer: READ_AT_MOST,
-      stdio: ["ignore", "pipe", "ignore"],
-    })
+    return saying(["git", "-C", repo, ...argv])
   } catch {
     return null
   }
