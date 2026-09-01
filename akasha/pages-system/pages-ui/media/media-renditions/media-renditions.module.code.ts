@@ -1,6 +1,6 @@
+import { mediaRenderObjectKey } from "@akasha/object-store/object-store-key"
+import type { ObjectStore } from "@akasha/object-store/seaweedfs-store"
 import { MEDIA_FORMATS, type Medium } from "@akasha/pages-core/media-formats"
-import type { ObjectStore } from "@shared/object-store"
-import { mediaRenderObjectKey } from "@shared/object-store/keys"
 
 export type AvailableRenditionsArgs = {
   pageId: string
