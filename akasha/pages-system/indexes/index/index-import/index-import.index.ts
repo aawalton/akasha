@@ -24,7 +24,7 @@ export const indexImport = {
     {
       invariantKind: "departure",
       statement:
-        "A specifier naming a package makes an edge at the file the naming handed in resolves the specifier to.",
+        "A specifier naming a package makes an edge at the file the naming handed in resolves to.",
     },
     {
       invariantKind: "departure",

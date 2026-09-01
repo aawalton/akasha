@@ -49,7 +49,7 @@ export const command = {
     {
       invariantKind: "departure",
       statement:
-        "A command's page states what the command takes and what is worth knowing about taking what the command takes.",
+        "A command's page states what the command takes and what is worth knowing about the taking.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +58,7 @@ export const command = {
     {
       invariantKind: "departure",
       statement:
-        "A path a command is named is read against the repository root and never against the folder the call was made in.",
+        "A path a command is named is read against the repository root rather than the calling folder.",
     },
   ],
 } as const satisfies PageType

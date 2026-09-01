@@ -15,7 +15,7 @@ export const noAkashaCommandFromCode = {
     {
       invariantKind: "departure",
       statement:
-        "The dispatcher's path is refused wherever the dispatcher's path stands among a launching call's arguments.",
+        "The dispatcher's path is refused wherever that path sits among a launching call's arguments.",
     },
     {
       invariantKind: "departure",

@@ -15,7 +15,7 @@ export const foundation = {
     {
       invariantKind: "departure",
       statement:
-        "a bun install run inside a native shell directory installs the whole workspace from the checkout root",
+        "a bun install inside a native shell directory installs the whole workspace from the checkout root",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const foundation = {
     {
       invariantKind: "constraint",
       statement:
-        "the macbook keychain password is read from the MACBOOK_KEYCHAIN_PASSWORD environment variable rather than written here",
+        "the macbook keychain password is read from the MACBOOK_KEYCHAIN_PASSWORD environment variable",
     },
     {
       invariantKind: "constraint",

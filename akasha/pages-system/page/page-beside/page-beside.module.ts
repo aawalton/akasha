@@ -24,7 +24,7 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
-        "A folder that is not there holds no file which is an answer rather than a failure to read the folder.",
+        "A folder that is not there is answered as holding no file rather than as a read that failed.",
     },
     {
       invariantKind: "departure",

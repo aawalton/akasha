@@ -15,7 +15,7 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "departure",
       statement:
-        "Every page whose page type stands under `domain` is judged rather than only one whose own page type is `domain`.",
+        "Every page whose page type sits under `domain` is judged rather than a `domain` page alone.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a page names the page judged is one directory listed on the index as the change leaves the index.",
+        "What names a page judged is one directory listed on the index as the change leaves the index.",
     },
     {
       invariantKind: "departure",
@@ -58,8 +58,11 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A page stating no `id` and a body that will not load are refused in words beside this check in every phase.",
+      statement: "A page stating no `id` is refused in words beside this check in every phase.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A body that will not load is refused in words beside this check in every phase.",
     },
     {
       invariantKind: "departure",
@@ -72,7 +75,7 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "departure",
       statement:
-        "Those parts are looked for in the body the change withdrew and not among the pages the change carries.",
+        "Those parts are looked for in the withdrawn body rather than among the change's own pages.",
     },
     {
       invariantKind: "gap",

@@ -11,8 +11,11 @@ export const warranting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every path a change names is asked what it warrants and passes by answering rather than by not being asked.",
+      statement: "Every path a change names is asked what the path warrants.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path clears its warrant by answering rather than by going unasked.",
     },
     {
       invariantKind: "departure",
@@ -59,12 +62,12 @@ export const warranting = {
     {
       invariantKind: "departure",
       statement:
-        "A warrant is what the change owes rather than what a warranted file would owe were the warranted file changed.",
+        "A warrant is what the change owes rather than what changing a warranted file would owe.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A read is handed the paths it names and after each of them what the warrants running on read name for it.",
+        "A read is handed each named path followed by what the warrants running on read name for the path.",
     },
     {
       invariantKind: "departure",
@@ -85,7 +88,7 @@ export const warranting = {
     {
       invariantKind: "departure",
       statement:
-        "The page a subagent owes from is the one standing at its seat's name and the id the subagent runs under.",
+        "The page a subagent owes from sits at the seat's name and the id the subagent runs under.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +119,7 @@ export const warranting = {
     {
       invariantKind: "departure",
       statement:
-        "What a change owes and what the seat writing it owes are ordered as one answer rather than one list after another.",
+        "What a change owes and what the writing seat owes are ordered as one answer rather than two lists.",
     },
     {
       invariantKind: "gap",

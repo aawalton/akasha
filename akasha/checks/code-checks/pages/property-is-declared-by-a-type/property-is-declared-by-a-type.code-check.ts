@@ -50,7 +50,7 @@ export const propertyIsDeclaredByAType = {
     {
       invariantKind: "departure",
       statement:
-        "Those properties are looked for in the body the change withdrew and not among the pages the change carries.",
+        "Those properties are looked for in the withdrawn body rather than among the change's own pages.",
     },
     {
       invariantKind: "departure",
@@ -67,8 +67,11 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A page stating no `id` and a body that will not load are refused in words beside this check in every phase.",
+      statement: "A page stating no `id` is refused in words beside this check in every phase.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A body that will not load is refused in words beside this check in every phase.",
     },
     {
       invariantKind: "departure",
