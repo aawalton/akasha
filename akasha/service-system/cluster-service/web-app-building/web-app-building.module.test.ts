@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
 import { mkdirSync, mkdtempSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { said as saying } from "@akasha/utils-run/running"
 import type { Workload } from "../web-app-reading/web-app-reading.module.code.ts"
 import { SYNTH_AT, standingWorld } from "../web-app-reading/web-app-reading.module.test-fixtures.ts"
 import type { Manifest, Plan } from "../workload-deploying/workload-deploying.module.code.ts"
@@ -41,17 +41,16 @@ type Trees = {
 function treesStanding(): Trees {
   const root = mkdtempSync(join(HOLD, TREES_AT))
   const git = (...argv: readonly string[]): undefined => {
-    execFileSync("git", ["-C", root, ...argv], { stdio: "ignore" })
+    saying(["git", "-C", root, ...argv])
   }
-  const headHere = (): string =>
-    execFileSync("git", ["-C", root, "rev-parse", "HEAD"], { encoding: "utf8" }).trim()
+  const headHere = (): string => saying(["git", "-C", root, "rev-parse", "HEAD"]).trim()
   git("init", "-q")
   git("config", "user.email", "none@example")
   git("config", "user.name", "none")
   mkdirSync(join(root, "one"))
   writeFileSync(join(root, "package.json"), '{ "name": "root", "workspaces": ["one"] }\n', "utf8")
   writeFileSync(join(root, "one/package.json"), '{ "name": "one", "version": "0.0.0" }\n', "utf8")
-  execFileSync("bun", ["install"], { cwd: root, stdio: "ignore" })
+  saying(["bun", "install"], { cwd: root })
   git("add", "--", "package.json", "bun.lock")
   git("commit", "-q", "-m", "the root manifest and the lockfile")
   const missing = headHere()
