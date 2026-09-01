@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/idle-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./state": "./idle-state/idle-state.module.code.ts"
+  }
+}

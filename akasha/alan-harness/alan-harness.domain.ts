@@ -5,7 +5,12 @@ export const alanHarness = {
   pageTypeSlug: "domain",
   slug: "alan-harness",
   definition: "how Alan does things",
-  partSlugs: ["domain/monarch", "workspace-package/readout-system", "workspace-package/voice-core"],
+  partSlugs: [
+    "domain/monarch",
+    "workspace-package/readout-system",
+    "workspace-package/voice-core",
+    "workspace-package/idle-system",
+  ],
   invariants: [
     {
       invariantKind: "constraint",
