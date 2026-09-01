@@ -8,8 +8,8 @@ import {
   livePod,
   pushToOrigin,
   saidBy,
-} from "../../../service-system/cluster-service/web-app-building/web-app-building.module.code.ts"
-import { deployableNamed } from "../../../service-system/cluster-service/web-app-reading/web-app-reading.module.code.ts"
+} from "@akasha/service-system/web-app-building"
+import { deployableNamed } from "@akasha/service-system/web-app-reading"
 import {
   planFor,
   putUp,
@@ -17,7 +17,7 @@ import {
   standingOf,
   upAlready,
   writeManifests,
-} from "../../../service-system/cluster-service/workload-deploying/workload-deploying.module.code.ts"
+} from "@akasha/service-system/workload-deploying"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 const INPUT = 1

@@ -1,10 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  indexNamed,
-  indexStanding,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { indexNamed, indexStanding } from "@akasha/indexes"
 import {
   besideTheIndex,
   everythingFiled,
@@ -16,11 +13,11 @@ import {
   rebuiltApart,
   rebuiltIn,
   stampListedIn,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { id as idPage } from "../../../pages-system/page/properties/id.text-property.ts"
-import { slug as slugPage } from "../../../pages-system/page/properties/slug.text-property.ts"
-import { textProperty } from "../../../pages-system/text-property/text-property.page-type.ts"
-import { gitIn as git } from "../../../testing-system/gitting/gitting.module.code.ts"
+} from "@akasha/indexes/testing"
+import { id as idPage } from "@akasha/pages-system/page/id"
+import { slug as slugPage } from "@akasha/pages-system/page/slug"
+import { textProperty } from "@akasha/pages-system/text-property"
+import { gitIn as git } from "@akasha/testing-system/gitting"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { calling } from "../../calling/calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../cli/cli.module.code.ts"

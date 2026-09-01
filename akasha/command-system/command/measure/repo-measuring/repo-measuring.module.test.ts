@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { symlinkSync } from "node:fs"
 import { join } from "node:path"
-import { put } from "../../../../testing-system/putting/putting.module.code.ts"
+import { put } from "@akasha/testing-system/putting"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
 import { akashaStandsIn, countsIn, linesOf, shareOf } from "./repo-measuring.module.code.ts"
 

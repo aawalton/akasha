@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Listed } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Shaped } from "../../../../pages-system/indexes/reaching/reaching.module.code.ts"
+import type { Listed } from "@akasha/indexes"
+import type { Shaped } from "@akasha/indexes/reaching"
 import {
   addressingIn,
   besideRenamed,

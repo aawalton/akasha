@@ -1,15 +1,8 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  headOf,
-  type Stamp,
-  unlandedIn,
-} from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
-import {
-  type Drift,
-  rebuiltWhole,
-} from "../../../pages-system/indexes/rebuilding/rebuilding.module.code.ts"
+import { indexNamed } from "@akasha/indexes"
+import { type Drift, rebuiltWhole } from "@akasha/indexes/rebuilding"
+import { headOf, type Stamp, unlandedIn } from "@akasha/indexes/stamp"
 import { counted } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"

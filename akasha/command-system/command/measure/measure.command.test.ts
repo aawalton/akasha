@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { put } from "../../../testing-system/putting/putting.module.code.ts"
+import { put } from "@akasha/testing-system/putting"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { measure } from "./measure.command.code.ts"

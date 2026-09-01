@@ -1,9 +1,5 @@
 import { dirname, relative } from "node:path"
-import {
-  landingOf,
-  placedIn,
-  spelledIn,
-} from "../../../../code-system/code-specifier/code-specifier.module.code.ts"
+import { landingOf, placedIn, spelledIn } from "@akasha/code-system/code-specifier"
 
 function specifierFor(dir: string, target: string): string {
   const said = relative(dir, target)

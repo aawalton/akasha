@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import type { Gathered } from "../../../checks-system/checking/checking.module.code.ts"
-import type { Judged, Judging } from "../../../checks-system/judging/judging.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
+import type { Gathered } from "@akasha/checks-system/checking"
+import type { Judged, Judging } from "@akasha/checks-system/judging"
+import type { Change } from "@akasha/pages-system/change"
 import type { Given } from "../../calling/calling.module.code.ts"
 import {
   ANSWER_CEILING,

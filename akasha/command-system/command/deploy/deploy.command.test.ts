@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { standingWorld } from "../../../service-system/cluster-service/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { standingWorld } from "@akasha/service-system/web-app-reading/testing"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { deploy } from "./deploy.command.code.ts"
 

@@ -1,23 +1,14 @@
 import { basename } from "node:path"
+import { literalOf, parsedAs } from "@akasha/code-system/code-source"
+import { spelledIn } from "@akasha/code-system/code-specifier"
+import { namersOf, readingIn } from "@akasha/indexes"
+import { knownIn, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
+import { addressIn } from "@akasha/pages-system/page-address"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { namedIn } from "@akasha/pages-system/page-file-name"
+import type { Value } from "@akasha/pages-system/page-value"
+import { valueIn } from "@akasha/pages-system/page-value"
 import ts from "typescript"
-import { literalOf, parsedAs } from "../../../../code-system/code-source/code-source.module.code.ts"
-import { spelledIn } from "../../../../code-system/code-specifier/code-specifier.module.code.ts"
-import {
-  namersOf,
-  readingIn,
-} from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  knownIn,
-  namesIn,
-  namingsIn,
-  reaches,
-  type Shaped,
-} from "../../../../pages-system/indexes/reaching/reaching.module.code.ts"
-import { addressIn } from "../../../../pages-system/page/page-address/page-address.module.code.ts"
-import { exportedAs } from "../../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { namedIn } from "../../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import type { Value } from "../../../../pages-system/page/page-value/page-value.module.code.ts"
-import { valueIn } from "../../../../pages-system/page/page-value/page-value.module.code.ts"
 
 const SLUG = "slug"
 

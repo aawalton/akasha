@@ -1,5 +1,5 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
-import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
+import type { PageType } from "@akasha/pages-system/page-type"
 import type { HelpNotes } from "./properties/help-notes.text-property.ts"
 import type { Mechanical } from "./properties/mechanical.boolean-property.ts"
 import type { Taking } from "./properties/taking.record-property.ts"
