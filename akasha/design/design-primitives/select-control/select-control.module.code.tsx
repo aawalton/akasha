@@ -16,7 +16,7 @@ function Select<T extends string = string>({
   ...props
 }: Omit<React.ComponentProps<typeof SelectPrimitive.Root>, "value" | "onValueChange"> & {
   value?: T
-  onValueChange?: (value: T) => undefined
+  onValueChange?: (value: T) => void
 }) {
   return (
     <SelectPrimitive.Root data-slot="select" value={value} {...props}>

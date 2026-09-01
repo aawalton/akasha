@@ -7,7 +7,7 @@ interface UseLoadMoreOptions {
   pageSize?: number
   initialVisibleCount?: number
   resetKey?: string
-  onServerLoadMore?: () => undefined
+  onServerLoadMore?: () => void
   canServerLoadMore?: boolean
   serverPrefetchPages?: number
 }

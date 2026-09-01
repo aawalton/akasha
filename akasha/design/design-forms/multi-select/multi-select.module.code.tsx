@@ -17,7 +17,7 @@ export interface MultiSelectItem {
 export interface MultiSelectProps {
   items: readonly MultiSelectItem[]
 
-  onSelect: (value: readonly MultiSelectItem[]) => undefined
+  onSelect: (value: readonly MultiSelectItem[]) => void
 
   value: readonly MultiSelectItem[]
 
