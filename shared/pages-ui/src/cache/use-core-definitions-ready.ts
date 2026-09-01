@@ -3,7 +3,7 @@
 import { emitStoreDiagnostic } from "@akasha/pages-ui-store/diagnostics"
 import { awaitPagesStoreReady, getPagesStore } from "@akasha/pages-ui-store/singleton"
 import { useEffect, useRef, useState } from "react"
-import { BOOT_GATE_TIMEOUT_MS } from "./boot-gate"
+import { BOOT_GATE_TIMEOUT_MS } from "@akasha/pages-ui/cache/boot-gate"
 
 export const CORE_DEFINITION_SLUGS = ["page-type", "page-property-definition"] as const
 

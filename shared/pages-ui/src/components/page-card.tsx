@@ -18,7 +18,7 @@ import { PagesUILink } from "../router-context.tsx"
 import { PageActionsMenu } from "./page-actions-menu.tsx"
 import { PageCardCover } from "./page-card-cover.tsx"
 import { PageCardProperties } from "./page-card-properties.tsx"
-import { useOverflowFade } from "./use-overflow-fade.ts"
+import { useOverflowFade } from "@akasha/pages-ui/components/use-overflow-fade"
 
 interface PageCardProps extends Omit<React.ComponentProps<"div">, "title" | "id"> {
   id: string

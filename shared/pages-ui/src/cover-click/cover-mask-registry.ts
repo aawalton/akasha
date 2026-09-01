@@ -1,4 +1,4 @@
-import type { CoverClickContext } from "./cover-click-registry"
+import type { CoverClickContext } from "@akasha/pages-ui/cover-click/cover-click-registry"
 
 export type CoverMaskResolver = (ctx: CoverClickContext) => string | null
 

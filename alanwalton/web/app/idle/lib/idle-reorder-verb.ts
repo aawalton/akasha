@@ -1,4 +1,4 @@
-import { type ReorderVerbContext, registerReorderVerb } from "@shared/pages-ui/reorder-verbs/reorder-verb-registry"
+import { type ReorderVerbContext, registerReorderVerb } from "@akasha/pages-ui/reorder-verbs/reorder-verb-registry"
 import { idleGameStore } from "~/idle/lib/idle-game-store"
 import { IDLE_REORDER_VERB_ID } from "~/idle/lib/idle-lineup-view-config"
 import { reorderTeam } from "~/idle/lib/lineup-slots-draft"

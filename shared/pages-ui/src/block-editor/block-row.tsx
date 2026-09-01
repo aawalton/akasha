@@ -6,7 +6,7 @@ import { isTodoChecked } from "@akasha/pages-core/property-types/block-markers"
 import { type ShorthandTransform } from "@akasha/pages-core/property-types/markdown-shorthand"
 import { type Block } from "@akasha/pages-core/property-types/rich-document"
 import { type HeadingLevel, type V1BlockType } from "@akasha/pages-core/property-types/rich-document-ops"
-import { useCoarsePointer } from "./use-coarse-pointer"
+import { useCoarsePointer } from "@akasha/pages-ui/block-editor/use-coarse-pointer"
 import { useTextareaInput } from "./use-textarea-input"
 
 const baseTextarea =

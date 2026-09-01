@@ -13,7 +13,7 @@ import {
   collectRelatedIds,
   RELATED_IDS_PER_PROPERTY_CAP,
   type RelationSpec,
-} from "./collect-related-ids"
+} from "@akasha/pages-ui/supabase/collect-related-ids"
 import { getRelatedPagesByIdCoalesced } from "./related-pages-coalesce"
 import { type PageWithProperties, toPageWithProperties } from "./types"
 import { type UsePagesSupabaseOptions, usePagesSupabase } from "./use-pages"

@@ -1,5 +1,5 @@
 import { DECLARED_EFFECTS_VERB_ID } from "@akasha/pages-core/schema/action-button-config"
-import { type ActionVerbContext, type ActionVerbHandler, registerActionVerb } from "@shared/pages-ui/action-verbs/action-verb-registry"
+import { type ActionVerbContext, type ActionVerbHandler, registerActionVerb } from "@akasha/pages-ui/action-verbs/action-verb-registry"
 
 const declaredEffectsHandler: ActionVerbHandler = (_ctx: ActionVerbContext) => {}
 

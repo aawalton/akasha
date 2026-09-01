@@ -4,7 +4,7 @@ import { recordPageView } from "@akasha/pages-access/patch"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { useEffect, useRef } from "react"
-import { shouldRecordView, VIEW_RECORD_STALENESS_MS } from "./record-view-staleness"
+import { shouldRecordView, VIEW_RECORD_STALENESS_MS } from "@akasha/pages-ui/supabase/record-view-staleness"
 
 export function useRecordPageView(args: {
   pageTypeSlug: PageTypeSlug

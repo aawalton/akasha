@@ -1,5 +1,5 @@
 import { useMemo } from "react"
-import { getReorderVerb } from "../reorder-verbs/reorder-verb-registry"
+import { getReorderVerb } from "@akasha/pages-ui/reorder-verbs/reorder-verb-registry"
 
 export interface ReorderCardsChange {
   readonly orderedIds: readonly string[]

@@ -5,7 +5,7 @@ import { type PagesStore } from "@akasha/pages-ui-store/collection/store"
 import { emitStoreDiagnostic } from "@akasha/pages-ui-store/diagnostics"
 import { awaitPagesStoreReady, getPagesStore } from "@akasha/pages-ui-store/singleton"
 import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react"
-import { BOOT_GATE_TIMEOUT_MS } from "./boot-gate"
+import { BOOT_GATE_TIMEOUT_MS } from "@akasha/pages-ui/cache/boot-gate"
 
 type PagesCollection = PagesStore["collection"]
 

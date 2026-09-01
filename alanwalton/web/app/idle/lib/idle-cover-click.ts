@@ -1,4 +1,4 @@
-import { type CoverClickContext, registerCoverClickHandler } from "@shared/pages-ui/cover-click/cover-click-registry"
+import { type CoverClickContext, registerCoverClickHandler } from "@akasha/pages-ui/cover-click/cover-click-registry"
 import { registerCoverMask } from "@shared/pages-ui/cover-click/cover-mask-registry"
 import { z } from "zod"
 import {

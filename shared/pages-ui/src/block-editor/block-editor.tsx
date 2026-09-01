@@ -9,14 +9,14 @@ import { BlockRow } from "./block-row.tsx"
 import { BlockTree } from "./block-tree.tsx"
 import { collectToggleIds } from "./block-type-helpers.ts"
 import { SlashMenu } from "./slash-menu.tsx"
-import { useBlockCollapse } from "./use-block-collapse.ts"
+import { useBlockCollapse } from "@akasha/pages-ui/block-editor/use-block-collapse"
 import { useBlockFocus } from "./use-block-focus.ts"
 import { useBlockKeys } from "./use-block-keys.ts"
 import { useBlockOps } from "./use-block-ops.ts"
 import { useBlockPersistence } from "./use-block-persistence.ts"
 import { useBlockSelection } from "./use-block-selection.ts"
 import { useCoarsePointer } from "./use-coarse-pointer.ts"
-import { useKeyboardInset } from "./use-keyboard-inset.ts"
+import { useKeyboardInset } from "@akasha/pages-ui/block-editor/use-keyboard-inset"
 
 interface BlockEditorProps {
   pageTypeSlug: string

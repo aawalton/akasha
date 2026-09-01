@@ -2,7 +2,7 @@
 
 import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
 import { computeAnchorBelowViewport, computePinned } from "@akasha/pages-ui/frame/viewport-thresholds"
-import type { FrameFollowMode } from "./frame-config"
+import type { FrameFollowMode } from "@akasha/pages-ui/frame/frame-config"
 
 const PIN_THRESHOLD_PX = 120
 

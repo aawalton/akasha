@@ -5,7 +5,7 @@ import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { type MouseEvent, useEffect } from "react"
 
-import { getActionVerb, getActionVerbPresentation } from "../action-verbs/action-verb-registry"
+import { getActionVerb, getActionVerbPresentation } from "@akasha/pages-ui/action-verbs/action-verb-registry"
 import { actionButtonConfigSchema } from "@akasha/pages-core/schema/action-button-config"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"

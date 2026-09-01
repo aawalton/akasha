@@ -1,7 +1,7 @@
 import { getPages } from "@akasha/pages-access/get"
 import type { Page } from "@akasha/pages-core/page-types"
 import { getContentPersistence } from "@akasha/pages-ui-store/singleton"
-import type { RelatedIdGroup } from "./collect-related-ids"
+import type { RelatedIdGroup } from "@akasha/pages-ui/supabase/collect-related-ids"
 
 export type RelatedPagesReader = (args: {
   pageTypeSlug: string

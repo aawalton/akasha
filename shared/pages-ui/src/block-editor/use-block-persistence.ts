@@ -13,7 +13,7 @@ import { useSupabase } from "@shared/supabase-rr/provider"
 import { isJson } from "../../../utils-narrow/src/is-json.ts"
 import { useCallback, useRef } from "react"
 import { toast } from "sonner"
-import { createSaveQueue, type SaveQueue } from "./save-queue.ts"
+import { createSaveQueue, type SaveQueue } from "@akasha/pages-ui/block-editor/save-queue"
 
 export const SAVE_FAILED_MESSAGE = "This note is not saving"
 

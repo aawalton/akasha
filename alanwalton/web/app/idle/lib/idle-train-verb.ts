@@ -1,4 +1,4 @@
-import { type ActionPresentation, type ActionVerbContext, registerActionVerb } from "@shared/pages-ui/action-verbs/action-verb-registry"
+import { type ActionPresentation, type ActionVerbContext, registerActionVerb } from "@akasha/pages-ui/action-verbs/action-verb-registry"
 import { z } from "zod"
 import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
 import { IDLE_LOCK_STATE_UNLOCKED, IDLE_TRAIN_VERB_ID } from "~/idle/lib/idle-card-page-type"

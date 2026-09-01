@@ -1,6 +1,6 @@
 import { assertNever } from "../../../utils-narrow/src/assert-never"
 import { useCallback, useEffect, useRef, useState } from "react"
-import type { NativeTtsAdapter } from "./native-tts-adapter"
+import type { NativeTtsAdapter } from "@akasha/pages-ui/media/native-tts-adapter"
 import type { PlayingSessionState } from "./playing-session"
 
 export type NativeTtsTransportState = {
