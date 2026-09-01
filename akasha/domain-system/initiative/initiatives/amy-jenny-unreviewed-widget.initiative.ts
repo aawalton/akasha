@@ -9,11 +9,10 @@ export const amyJennyUnreviewedWidget = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "An akasha command installs a workstation service.",
+      statement: "A page query is answered from an index rather than by reading every page file.",
       workingMemory:
-        "unit-writing gives the text, service-wrapping is what the unit names, and both are tested. Install writes each unit to ~/.local/state/workstation-services/<name> and symlinks it into ~/.config/systemd/user/, which is also how a unit is known to be ours. Then daemon-reload, then enable --now. Two departures from the old command: a page stating enabled false is installed and stopped rather than deleted, and a systemctl that refuses must fail the call rather than be printed and exit 0.",
+        "The index carries no property values: every line it files is a path and an id, and the reader drops any other key by construction. So this wants a sixth index beside the five standing today. A new index-value page and code files the values; rebuiltFrom in indexing already holds every loaded Value, so the whole rebuild is nearly free; settlingOver needs a matching filing for the incremental path. Then page-asking drops its readFileSync loop.",
     },
-    { statement: "A page query is answered from an index rather than by reading every page file." },
     { statement: "A page query is answered while another is still being answered." },
     { statement: "A pod reaches the page store." },
     { statement: "A page is written over HTTP from a workstation." },
