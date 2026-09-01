@@ -1,6 +1,6 @@
 import type { ChapterProsePastTurns, ChapterProseTitles } from "@akasha/awen-core/game-schema"
 import { useUserId } from "@shared/pages-ui/use-user-id"
-import { useReadEndObserver } from "@shared/pages-ui/components/use-read-end-observer"
+import { useReadEndObserver } from "@akasha/pages-ui/components/use-read-end-observer"
 import { Fragment, type RefObject, useCallback, useEffect, useRef } from "react"
 import type { ClientStoryTurn } from "../lib/client-story-session"
 import { projectProseRows } from "../lib/story-prose-dividers"

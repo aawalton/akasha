@@ -8,10 +8,10 @@ import { type ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import { type PropertyDefinition } from "@akasha/pages-core/types"
 import type { ShapeDescriptor } from "@akasha/pages-ui-store/collection/shape-descriptor"
 import { useMemo } from "react"
-import { adjustTotalForClientFilters, applyClientViewFilters } from "./apply-client-view-filters"
+import { adjustTotalForClientFilters, applyClientViewFilters } from "@akasha/pages-ui/supabase/apply-client-view-filters"
 import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useViewPagesSupabase } from "./use-view-pages"
-import { viewFilterToCondition } from "./view-filter-to-condition"
+import { viewFilterToCondition } from "@akasha/pages-ui/supabase/view-filter-to-condition"
 
 export function usePageViewQuery({
   pageTypeId,

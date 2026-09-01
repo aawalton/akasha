@@ -15,7 +15,7 @@ import {
   SentenceNarrationProvider,
   type SentenceNarrationValue,
 } from "../media/sentence-narration-context"
-import { toPageDataJSON } from "./page-data-json"
+import { toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 import {
   decideReadRestore,
   decideRestoreReady,

@@ -9,10 +9,10 @@ import { GROUP_NONE_KEY } from "@akasha/pages-core/view/apply-grouping-shared"
 import { pageDayKey } from "@akasha/pages-core/view/calendar-date-to-value"
 import { applyGranularityBucket } from "@akasha/pages-core/view/group-granularity"
 import { useMemo } from "react"
-import { adjustTotalForClientFilters, applyClientViewFilters } from "./apply-client-view-filters.ts"
+import { adjustTotalForClientFilters, applyClientViewFilters } from "@akasha/pages-ui/supabase/apply-client-view-filters"
 import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { type UsePagesSupabaseOptions, usePagesSupabase } from "./use-pages.tsx"
-import { viewFilterToCondition } from "./view-filter-to-condition.ts"
+import { viewFilterToCondition } from "@akasha/pages-ui/supabase/view-filter-to-condition"
 
 interface GroupByArgs {
   pageTypeSlug: string

@@ -1,4 +1,4 @@
-import { toPageDataRecord } from "@shared/pages-ui/components/page-data-json"
+import { toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
 import { type PageRow } from "@akasha/pages-ui/view-engine/view-row"
 import type { Catalog } from "~/idle/lib/catalog"
 import type { GameState } from "@akasha/idle-system/state"

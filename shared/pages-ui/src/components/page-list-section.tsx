@@ -12,7 +12,7 @@ import { PageTable } from "./page-table"
 import type { PageTableColumn } from "@akasha/pages-ui/components/page-table-shared"
 import { withColumnWidths } from "./page-table-widths"
 import { SortableCardCollection } from "./sortable-card-collection"
-import type { ReorderCardsHandler } from "./use-reorder-view-wiring"
+import type { ReorderCardsHandler } from "@akasha/pages-ui/components/use-reorder-view-wiring"
 
 interface PageListSectionProps {
   layout?: ViewLayout

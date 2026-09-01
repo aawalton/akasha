@@ -18,15 +18,15 @@ import {
   IDLE_PLAYING_SESSION,
   type PlayingSessionState,
   playingSessionReducer,
-} from "./playing-session"
+} from "@akasha/pages-ui/media/playing-session"
 import { persistedToSessionInit, readPersistedSession } from "./playing-session-storage"
 import { useAudioAutoAdvance } from "./use-audio-auto-advance"
 import { useAudioSeekAndPlay } from "./use-audio-seek-and-play"
-import { useAudioTimeSubscription } from "./use-audio-time-subscription"
+import { useAudioTimeSubscription } from "@akasha/pages-ui/media/use-audio-time-subscription"
 import { useAudioTransport } from "./use-audio-transport"
 import { useCrossModePositionWrite } from "./use-cross-mode-position-write"
 import { usePersistAudioSession } from "./use-persist-audio-session"
-import { usePersistentAudioContainer } from "./use-persistent-audio-container"
+import { usePersistentAudioContainer } from "@akasha/pages-ui/media/use-persistent-audio-container"
 import type { MediaSrcResolver } from "@akasha/pages-ui/media/use-shell-media-src"
 import type { EnsureRenditionFn } from "./use-webkit-read-aloud-ensure"
 

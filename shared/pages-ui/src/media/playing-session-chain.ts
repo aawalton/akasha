@@ -1,5 +1,5 @@
 import { z } from "zod"
-import type { ActiveSessionInit } from "./playing-session"
+import type { ActiveSessionInit } from "@akasha/pages-ui/media/playing-session"
 
 const CHAIN_LOADER_SCHEMA = z
   .object({

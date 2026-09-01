@@ -4,7 +4,7 @@ import { computeFillRollupsForPage, type PageTypePropertiesMap } from "@akasha/p
 import { type PropertyValue } from "@akasha/pages-core/property-types/types"
 import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { useMemo } from "react"
-import { toAggregateInputs, toPageDataJSON } from "../components/page-data-json"
+import { toAggregateInputs, toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 
 interface PageLike {
   readonly _id: string

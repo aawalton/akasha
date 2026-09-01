@@ -9,7 +9,7 @@ import { SupabasePageResolverProvider } from "../supabase/page-resolver-provider
 import { type PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { type Subpage, useSubpages } from "../supabase/use-subpages"
 import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
-import { pageRowToPageDataJSON, toPageDataRecord } from "./page-data-json"
+import { pageRowToPageDataJSON, toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
 import { ToggleSection } from "./page-detail-sections"
 import { buildTableColumns } from "./page-properties-shared"
 import { PageTable, PageTableRowCells } from "./page-table"

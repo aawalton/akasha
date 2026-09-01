@@ -1,6 +1,6 @@
 import { isMedium, type Medium } from "@akasha/pages-core/media-formats"
 import { z } from "zod"
-import type { ActiveSessionInit } from "./playing-session"
+import type { ActiveSessionInit } from "@akasha/pages-ui/media/playing-session"
 
 const STORAGE_KEY = "playing-session:v1"
 

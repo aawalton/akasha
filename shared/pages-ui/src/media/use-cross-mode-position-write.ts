@@ -3,7 +3,7 @@ import { POSITION_WRITE_EPSILON, timeToFraction } from "@akasha/pages-ui/compone
 import { emitPositionWrite } from "@akasha/pages-ui/components/position-write-event"
 import { computeReadProgress } from "@akasha/pages-ui/components/read-progress"
 import type { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
-import type { PlayingSessionState } from "./playing-session"
+import type { PlayingSessionState } from "@akasha/pages-ui/media/playing-session"
 
 export function useCrossModePositionWrite(args: {
   readonly state: PlayingSessionState

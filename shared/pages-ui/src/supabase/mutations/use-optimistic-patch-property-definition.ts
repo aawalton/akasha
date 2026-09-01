@@ -2,7 +2,7 @@ import type { PatchPropertyDefinitionArgs, PatchPropertyDefinitionByIdArgs } fro
 import type { Page } from "@akasha/pages-core/page-types"
 import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
 import { runOptimisticMutation } from "./apply-prediction"
-import { buildOverlay, buildPatchPlan } from "./build-patch-plan"
+import { buildOverlay, buildPatchPlan } from "@akasha/pages-ui/supabase/mutations/build-patch-plan"
 import { extractTargetIds } from "@akasha/pages-ui/supabase/mutations/extract-target-ids"
 
 export function useOptimisticPatchPropertyDefinition(

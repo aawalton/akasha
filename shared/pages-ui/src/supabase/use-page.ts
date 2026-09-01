@@ -10,7 +10,7 @@ import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect, useMemo, useRef, useState } from "react"
 import { useQuery } from "../cache/use-query"
 import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { composeContentTierPage } from "./use-page-helpers"
+import { composeContentTierPage } from "@akasha/pages-ui/supabase/compose-content-tier-page"
 
 export function usePage({
   pageTypeSlug,

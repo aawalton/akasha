@@ -1,5 +1,5 @@
 import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
-import type { PlayingSessionState } from "./playing-session"
+import type { PlayingSessionState } from "@akasha/pages-ui/media/playing-session"
 
 export type PlayFromSentencePlan =
   | { readonly kind: "play"; readonly seconds: number }

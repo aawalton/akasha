@@ -3,7 +3,7 @@
 import { computeFillAggregatesForPage } from "@akasha/pages-core/property-types/aggregate"
 import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { useMemo } from "react"
-import { toAggregateInputs, toPageDataJSON } from "../components/page-data-json.ts"
+import { toAggregateInputs, toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 
 interface PageLike {
   readonly _id: string

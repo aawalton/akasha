@@ -4,7 +4,7 @@ import type {
   ActiveSessionInit,
   PlayingSessionAction,
   PlayingSessionState,
-} from "./playing-session"
+} from "@akasha/pages-ui/media/playing-session"
 
 export function useAudioSeekAndPlay(
   audioRef: RefObject<HTMLAudioElement | null>,

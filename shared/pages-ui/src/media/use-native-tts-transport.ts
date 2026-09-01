@@ -1,7 +1,7 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { useCallback, useEffect, useRef, useState } from "react"
 import type { NativeTtsAdapter } from "@akasha/pages-ui/media/native-tts-adapter"
-import type { PlayingSessionState } from "./playing-session"
+import type { PlayingSessionState } from "@akasha/pages-ui/media/playing-session"
 
 export type NativeTtsTransportState = {
   readonly isPaused: boolean

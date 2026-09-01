@@ -2,7 +2,7 @@ import type { PageCondition, PageWhere } from "@akasha/pages-core/page-types"
 import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { viewFilterToCondition } from "../supabase/view-filter-to-condition"
+import { viewFilterToCondition } from "@akasha/pages-ui/supabase/view-filter-to-condition"
 
 export function buildBaseConditions(args: {
   baseFilters: readonly ViewFilter[]

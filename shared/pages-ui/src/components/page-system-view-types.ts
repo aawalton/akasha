@@ -6,7 +6,7 @@ import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { ViewConfig, ViewFilter } from "@akasha/pages-core/schema/view-data"
 import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
 import type { PageTypeOption } from "./page-system-view-settings-types"
-import type { ReorderCardsHandler } from "./use-reorder-view-wiring"
+import type { ReorderCardsHandler } from "@akasha/pages-ui/components/use-reorder-view-wiring"
 
 export interface ServerGroupedSection {
   key: string
