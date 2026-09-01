@@ -13,7 +13,7 @@ const KEY = "personaSlug"
 export function personaPageType(root: string, path: string, knowing: Knowing): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return []
-  const standing = listedAt(root, PERSONA, slug)[0]
-  if (standing === undefined) return []
-  return filePageType(root, standing.path, knowing).map((one) => ({ ...one, owed: PERSONA_TYPE }))
+  const listed = listedAt(root, PERSONA, slug)[0]
+  if (listed === undefined) return []
+  return filePageType(root, listed.path, knowing).map((one) => ({ ...one, owed: PERSONA_TYPE }))
 }
