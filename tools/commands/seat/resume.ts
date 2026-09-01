@@ -273,7 +273,7 @@ export default async function seatResume(args: readonly string[]): Promise<void>
           `${launching.length === 1 ? "speaks" : "speak"} to a LAUNCH. A running seat already has a ` +
           "turn, so there is no first turn to give it and no transcript to hydrate: it is cycled " +
           "in place instead. Hand it work with `ops seat send`, which reaches a live seat and " +
-          `revives a stopped one, or stop it first with \`ops seat stop ${seat.name ?? agentId}\`.`
+          `revives a stopped one, or stop it first with \`akasha seat supervisor stop ${seat.name ?? agentId}\`.`
       )
     }
     refuseWhereSubagentsWork(agentId, force)

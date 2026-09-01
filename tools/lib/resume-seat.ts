@@ -91,7 +91,7 @@ export async function resumeSeat(
   const guard = deps.decideGuard({ holder: presence })
   if (guard.kind === "reject") {
     throw dataError(
-      `agent '${name}' is already live — stop it first with \`ops seat stop ${name}\`. ` +
+      `agent '${name}' is already live — stop it first with \`akasha seat supervisor stop ${name}\`. ` +
         "`ops seat resume` reaches this only where nothing live holds the seat; against a live " +
         "one it cycles the seat in place rather than launching a second supervisor over it."
     )

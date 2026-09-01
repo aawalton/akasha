@@ -56,7 +56,7 @@ export function decideAgentNameBind(input: AgentNameBindInput): AgentNameBindDec
       `'${name}' is held by seat ${priorHolder.id}, which has a process in it right now. Name ` +
         "distinctness is this system's mutual exclusion, so binding it would leave two seats " +
         "spelling one name: the pending mail addressed to it moves here, and the next page write " +
-        `lands on the file that seat is named by. Stop it with \`ops seat stop ${name}\`, or ` +
+        `lands on the file that seat is named by. Stop it with \`akasha seat supervisor stop ${name}\`, or ` +
         `pass \`${TAKE_LIVE_NAME_FLAG}\` to take the name from it deliberately.`
     )
   }

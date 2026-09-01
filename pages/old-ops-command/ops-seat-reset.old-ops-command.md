@@ -45,9 +45,9 @@ name is what persists across it, so a later seat that took the same name would r
 this one unless the id said otherwise. Where neither the standing page nor history
 states a domain, a role and a principal, the reset refuses rather than guessing.
 
-THE TARGET IS REQUIRED and defaults to nothing, where `ops seat stop` defaults
-to self. A seat resetting itself would take the turn issuing the command with
-it, and there would be nothing left to answer. A seat that wants to come back
+THE TARGET IS REQUIRED and defaults to nothing. A seat resetting itself would
+take the turn issuing the command with it, and there would be nothing left to
+answer. A seat that wants to come back
 as itself runs `ops seat resume`; a reset is somebody else's to run.
 
 Resetting a seat whose subagents are working is REFUSED: they run inside the

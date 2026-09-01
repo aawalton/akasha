@@ -73,10 +73,9 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
   if (input === undefined) {
     throw inputError(
       "no <agent-id> given — `ops seat reset` names the seat it resets and takes no default. " +
-        "`ops seat stop` defaults to self because a seat knows when it is finished; a reset " +
-        "takes the agent out of the seat, so a seat resetting itself would destroy the turn " +
-        "issuing the command before it could answer. Name the seat, or run `ops seat resume` " +
-        "to come back as yourself."
+        "A reset takes the agent out of the seat, so a seat resetting itself would destroy " +
+        "the turn issuing the command before it could answer. Name the seat, or run " +
+        "`ops seat resume` to come back as yourself."
     )
   }
 

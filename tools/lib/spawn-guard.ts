@@ -31,7 +31,7 @@ export function decideSpawnGuard(input: SpawnGuardInput): SpawnGuardDecision {
       reason:
         "a seat holds this name and the process its page names cannot be read, so whether it " +
         "is running is unknown — refusing rather than risk clobbering a live agent. Resolve it " +
-        "with `ops seat stop <name>` (safe either way), or pick a different name",
+        "with `akasha seat supervisor stop <name>` (safe either way), or pick a different name",
     }
   }
 
@@ -39,7 +39,7 @@ export function decideSpawnGuard(input: SpawnGuardInput): SpawnGuardDecision {
     kind: "reject",
     basis: "holder-live",
     reason:
-      "a live agent already holds this name; stop it first with `ops seat stop <name>` " +
+      "a live agent already holds this name; stop it first with `akasha seat supervisor stop <name>` " +
       "(or pick a different name)",
   }
 }
