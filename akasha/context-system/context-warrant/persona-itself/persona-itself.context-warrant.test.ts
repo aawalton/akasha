@@ -6,7 +6,7 @@ import { scratchWorld } from "../../../command-system/scratching/scratching.modu
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
   pathsOf,
-  personaStanding,
+  personaListed,
   seatStanding,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
@@ -21,41 +21,41 @@ const AGENT = "01a0596c-0000-7000-8000-000000000001"
 
 test("a seat warrants the persona it states", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
-  const held = personaStanding(root, "akasha")
+  const held = personaListed(root, "akasha")
   const at = seatStanding(root, "one", `personaSlug: "akasha"`)
   expect(pathsOf(personaItself(root, at))).toEqual([held.path])
 })
 
 test("a persona is named by its slug where the seat states it under a page type", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
-  const held = personaStanding(root, "akasha")
+  const held = personaListed(root, "akasha")
   const at = seatStanding(root, "one", `personaSlug: "persona/akasha"`)
   expect(pathsOf(personaItself(root, at))).toEqual([held.path])
 })
 
 test("a seat stating no persona warrants none", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
-  personaStanding(root, "akasha")
+  personaListed(root, "akasha")
   const at = seatStanding(root, "one", `roleSlug: "definer"`)
   expect(pathsOf(personaItself(root, at))).toEqual([])
 })
 
 test("a persona whose page cannot be found is no warrant", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
-  personaStanding(root, "akasha")
+  personaListed(root, "akasha")
   const at = seatStanding(root, "one", `personaSlug: "ghost"`)
   expect(pathsOf(personaItself(root, at))).toEqual([])
 })
 
 test("only a seat warrants a persona", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
-  const held = personaStanding(root, "akasha")
+  const held = personaListed(root, "akasha")
   expect(pathsOf(personaItself(root, held.path))).toEqual([])
 })
 
 test("a seat whose body cannot be loaded warrants nothing", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
-  personaStanding(root, "akasha")
+  personaListed(root, "akasha")
   const path = "akasha/seat-system/seat/seats/one.seat.ts"
   standing(root, path, "this is no module {\n")
   expect(pathsOf(personaItself(root, path))).toEqual([])
@@ -63,7 +63,7 @@ test("a seat whose body cannot be loaded warrants nothing", () => {
 
 test("a warrant carries the body standing at the persona, and why it is owed", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
-  const personaPage = personaStanding(root, "akasha")
+  const personaPage = personaListed(root, "akasha")
   const at = seatStanding(root, "one", `personaSlug: "akasha"`)
   const held = personaItself(root, at)[0]
   expect(held?.path).toBe(personaPage.path)
@@ -75,7 +75,7 @@ test("a warrant carries the body standing at the persona, and why it is owed", (
 
 test("a persona whose body is gone warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
-  const held = personaStanding(root, "akasha")
+  const held = personaListed(root, "akasha")
   const at = seatStanding(root, "one", `personaSlug: "akasha"`)
   rmSync(join(root, held.path))
   expect(pathsOf(personaItself(root, at))).toEqual([])
@@ -84,7 +84,7 @@ test("a persona whose body is gone warrants nothing of itself", () => {
 test("a persona not read is refused, and the refusal says why it is owed", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
   warrantsStanding(root, ["persona-itself"])
-  const held = personaStanding(root, "akasha")
+  const held = personaListed(root, "akasha")
   const at = seatStanding(root, "one", `personaSlug: "akasha"`)
   const oid = standing(root, at, `export const one = { personaSlug: "akasha" }\n`)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })

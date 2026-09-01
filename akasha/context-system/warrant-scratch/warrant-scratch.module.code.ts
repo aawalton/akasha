@@ -65,7 +65,7 @@ export function personListed(root: string, slug: string): Listed {
   return pageStanding(root, `akasha/person-system/person/people/${slug}.person.ts`, "person", slug)
 }
 
-export function personaStanding(root: string, slug: string): Listed {
+export function personaListed(root: string, slug: string): Listed {
   return pageStanding(
     root,
     `akasha/persona-system/persona/${slug}/${slug}.persona.ts`,
