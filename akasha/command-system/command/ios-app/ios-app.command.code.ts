@@ -1,6 +1,7 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { type Plan, planFor } from "@akasha/code-system/app-building"
+import { ran as running } from "@akasha/utils-run/running"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 export const BUILD = "build"
@@ -66,19 +67,11 @@ export function readIn(argv: readonly string[]): Read {
   return { act, app, www }
 }
 
-function said(chunk: Uint8Array | null): string {
-  return chunk === null ? "" : new TextDecoder().decode(chunk)
-}
-
 type Ran = { readonly out: string; readonly code: number }
 
 function ran(command: readonly string[], named: Record<string, string> = {}): Ran {
-  const done = Bun.spawnSync([...command], {
-    stdout: "pipe",
-    stderr: "pipe",
-    env: { ...process.env, ...named },
-  })
-  return { out: `${said(done.stdout)}${said(done.stderr)}`, code: done.exitCode }
+  const done = running(command, { env: { ...process.env, ...named } })
+  return { out: `${done.out}${done.err}`, code: done.code }
 }
 
 function hostIn(): string {
