@@ -66,10 +66,10 @@ test("a command naming no TypeScript file runs under no wrapper", () => {
 })
 
 test("a scheduled service is oneshot, runs under no wrapper, and states no install", () => {
-  const standing = standingOf({ systemd: { schedule: "hourly" } })
-  expect(isScheduled(standing)).toBe(true)
-  expect(isWrapped(standing)).toBe(false)
-  const text = serviceUnitText(standing)
+  const service = standingOf({ systemd: { schedule: "hourly" } })
+  expect(isScheduled(service)).toBe(true)
+  expect(isWrapped(service)).toBe(false)
+  const text = serviceUnitText(service)
   expect(text).toContain("Type=oneshot")
   expect(text).not.toContain("[Install]")
   expect(text).not.toContain("Restart=")
