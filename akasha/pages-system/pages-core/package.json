@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./as-json": "./as-json/as-json.module.code.ts",
     "./color-rules": "./color-rules/color-rules.module.code.ts",
     "./filter/filter-to-condition": "./filter/filter-to-condition/filter-to-condition.module.code.ts",
     "./generated/icon-search-index": "./generated/icon-search-index/icon-search-index.module.code.ts",
