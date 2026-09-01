@@ -31,6 +31,7 @@ export const pageType = {
     "relation-property/extends-slug",
     "relation-property/loaded-by-slug",
     "relation-property/page-property-slug",
+    "text-property/default-value",
     "text-property/plural-slug",
   ],
   extendsSlug: "page-type/domain",

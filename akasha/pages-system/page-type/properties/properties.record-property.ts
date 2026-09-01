@@ -2,6 +2,7 @@ import type { List } from "../../page-property/page-property.page-type.ts"
 import type { Max } from "../../page-property/properties/max.number-property.ts"
 import type { Total } from "../../page-property/properties/total.number-property.ts"
 import type { RecordProperty } from "../../record-property/record-property.page-type.ts"
+import type { DefaultValue } from "./default-value.text-property.ts"
 import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
 import type { Required } from "./required.boolean-property.ts"
 import type { Secret } from "./secret.boolean-property.ts"
@@ -12,6 +13,7 @@ export type Declaration =
       pagePropertySlug: PagePropertySlug
       required: Required
       many: false
+      default?: DefaultValue
       uncommitted?: Uncommitted
       secret?: Secret
     }
@@ -37,6 +39,7 @@ export const properties = {
     { pagePropertySlug: "page-property-slug", required: true, many: false },
     { pagePropertySlug: "required", required: true, many: false },
     { pagePropertySlug: "many", required: true, many: false },
+    { pagePropertySlug: "default-value", required: false, many: false },
     { pagePropertySlug: "max", required: false, many: false },
     { pagePropertySlug: "total", required: false, many: false },
     { pagePropertySlug: "uncommitted", required: false, many: false },
@@ -74,6 +77,10 @@ export const properties = {
     {
       invariantKind: "departure",
       statement: "Only a declaration carrying many states a max or a total.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a declaration carrying one states a default.",
     },
     {
       invariantKind: "departure",
