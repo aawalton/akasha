@@ -23,6 +23,7 @@
     "./require-match": "./require-match/require-match.module.code.ts",
     "./require-match-positional": "./require-match-positional/require-match-positional.module.code.ts",
     "./require-only": "./require-only/require-only.module.code.ts",
+    "./string-at": "./string-at/string-at.module.code.ts",
     "./text-at": "./text-at/text-at.module.code.ts"
   },
   "dependencies": {
