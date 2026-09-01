@@ -11,6 +11,7 @@
     "./import/page": "./index/index-import/index-import.index.ts",
     "./indexing": "./indexing/indexing.module.code.ts",
     "./indexing/testing": "./indexing/indexing.module.test-fixtures.ts",
+    "./package-reaching": "./package-reaching/package-reaching.module.code.ts",
     "./property-carrying": "./property-carrying/property-carrying.module.code.ts",
     "./reaching": "./reaching/reaching.module.code.ts",
     "./rebuilding": "./rebuilding/rebuilding.module.code.ts",
