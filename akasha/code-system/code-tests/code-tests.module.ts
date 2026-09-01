@@ -12,15 +12,15 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A run is answered as what it exited and what it printed and the summary read out of it and the verdict that follows.",
+        "A run is answered as what the run exited and what the run printed and the summary read out of what the run printed and the verdict that follows.",
     },
     {
       invariantKind: "departure",
-      statement: "Every caller reads one answer rather than repeating how it is read.",
+      statement: "Every caller reads one answer rather than repeating how the answer is read.",
     },
     {
       invariantKind: "departure",
-      statement: "A run marks the child it spawns.",
+      statement: "A run marks the child the run spawns.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A run printing no summary is a crash whatever it exited.",
+      statement: "A run printing no summary is a crash whatever the run exited.",
     },
     {
       invariantKind: "departure",
@@ -51,11 +51,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A file is answered with every test that could stand beside it.",
+      statement: "A file is answered with every test that could sit beside the file.",
     },
     {
       invariantKind: "departure",
-      statement: "Which one does stand is settled by whoever asked.",
+      statement: "Which test does sit beside the file is settled by whoever asked.",
     },
     {
       invariantKind: "departure",
@@ -65,19 +65,20 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A world borrows from the tree it is made from only the index and what a run is configured by and a link to the modules imported.",
+        "A world borrows from the tree the world is made from only the index and what a run is configured by and a link to the modules imported.",
     },
     {
       invariantKind: "departure",
-      statement: "What is borrowed is skipped where it is not there.",
+      statement: "What is borrowed is skipped where what is borrowed is not there.",
     },
     {
       invariantKind: "departure",
-      statement: "A package a specifier names is answered from the world where the world holds it.",
+      statement:
+        "A package a specifier names is answered from the world where the world holds that package.",
     },
     {
       invariantKind: "departure",
-      statement: "The world holds a package where it holds that package's manifest.",
+      statement: "The world holds a package where the world holds that package's manifest.",
     },
     {
       invariantKind: "departure",
@@ -112,11 +113,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree left there is taken out of it.",
+      statement: "A tree left in `/tmp` is taken out of `/tmp`.",
     },
     {
       invariantKind: "departure",
-      statement: "A world is swept by whoever asked for it.",
+      statement: "A world is swept by whoever asked for the world.",
     },
     {
       invariantKind: "absence",

@@ -20,27 +20,27 @@ export const seatSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every reader of a seat reads it from akasha.",
+      statement: "Every reader of a seat reads the seat from akasha.",
     },
     {
       invariantKind: "departure",
-      statement: "No writer of a seat writes it outside akasha.",
+      statement: "No writer of a seat writes the seat outside akasha.",
     },
     {
       invariantKind: "departure",
-      statement: "No writer of a subagent writes it outside akasha.",
+      statement: "No writer of a subagent writes the subagent outside akasha.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat's page stands while an agent is present in it.",
+      statement: "A seat's page remains while an agent is present in the seat.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat's page goes when none is.",
+      statement: "A seat's page goes when no agent is present in the seat.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat outlives the initiative it was assigned.",
+      statement: "A seat outlives the initiative the seat was assigned.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const seatSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "What a seat holds is either declared of it or observed of it.",
+      statement: "What a seat holds is either declared of the seat or observed of the seat.",
     },
     {
       invariantKind: "upkeep",
@@ -64,7 +64,7 @@ export const seatSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "What an agent has read is found by the seat it works from.",
+      statement: "What an agent has read is found by the seat the agent works from.",
     },
     {
       invariantKind: "constraint",
@@ -86,7 +86,7 @@ export const seatSystem = {
     {
       invariantKind: "departure",
       statement:
-        "Every writer of a seat's uncommitted values takes a lock keyed on the file it writes.",
+        "Every writer of a seat's uncommitted values takes a lock keyed on the file the writer writes.",
     },
     {
       invariantKind: "departure",
@@ -99,7 +99,7 @@ export const seatSystem = {
     },
     {
       invariantKind: "constraint",
-      statement: "A seat outlives the editor showing it and the agent sitting in it.",
+      statement: "A seat outlives the editor showing the seat and the agent sitting in the seat.",
     },
     {
       invariantKind: "departure",
@@ -107,7 +107,7 @@ export const seatSystem = {
     },
     {
       invariantKind: "absence",
-      statement: "No command sends a message from one seat to another.",
+      statement: "No command sends a message from one seat to another seat.",
     },
     {
       invariantKind: "gap",

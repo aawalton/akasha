@@ -16,11 +16,11 @@ export const pageMatchesItsType = {
     {
       invariantKind: "departure",
       statement:
-        "What a page must carry is read from its page type and the types above it rather than from a list written here.",
+        "What a page must carry is read from the page's page type and the types above that page type rather than from a list written here.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type restating an inherited property narrows it.",
+      statement: "A page type restating an inherited property narrows that property.",
     },
     {
       invariantKind: "departure",
@@ -48,15 +48,17 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type the change carries is read as the change leaves it.",
+      statement: "A page type the change carries is read as the change leaves that page type.",
     },
     {
       invariantKind: "departure",
-      statement: "Where a page type stands is read from the index as the change leaves it.",
+      statement:
+        "Where a page type sits is read from the index as the change leaves that page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A record's fields are judged against the record property that declares them.",
+      statement:
+        "A record's fields are judged against the record property that declares those fields.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +67,7 @@ export const pageMatchesItsType = {
     {
       invariantKind: "departure",
       statement:
-        "A text property stating a name format has each of its values judged by that format's own code rather than by a shape written here.",
+        "A text property stating a name format has each value of that text property judged by that format's own code rather than by a shape written here.",
     },
     {
       invariantKind: "constraint",
@@ -92,7 +94,7 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that will not load declares none.",
+      statement: "A body that will not load declares no page.",
     },
     {
       invariantKind: "departure",
@@ -104,7 +106,7 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement: "It is required of every page already standing.",
+      statement: "A property a generator fills is required of every page that already exists.",
     },
     {
       invariantKind: "departure",
@@ -112,7 +114,8 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement: "This is read from the change and not from the disk.",
+      statement:
+        "What counts as a page being created is read from the change and not from the disk.",
     },
     {
       invariantKind: "departure",
