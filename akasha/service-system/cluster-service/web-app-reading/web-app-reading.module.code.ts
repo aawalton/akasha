@@ -1,18 +1,32 @@
 import { execFileSync } from "node:child_process"
-import { existsSync, readFileSync } from "node:fs"
+import { existsSync } from "node:fs"
 import { basename, join } from "node:path"
+import type { Value } from "@akasha/pages-system/page-value"
+import { numberAt, textAt, textsAt, valueAt } from "@akasha/pages-system/page-value"
 
-const WEB_APP_SUFFIX = ".web-app.md"
-const CLUSTER_SERVICE_SUFFIX = ".cluster-service.md"
-const MARKDOWN_SUFFIX = ".md"
-const ATTACHMENT_SUFFIX = ".code.attachment.ts"
-const FENCE = "---"
-const LIST_MARK = "- "
-const CLUSTER_SERVICE_SLUGS = "cluster-service-slugs"
-const TITLE = "title"
-const KIND = "kind"
+const WEB_APP_SUFFIX = ".web-app.ts"
+const CLUSTER_SERVICE_SUFFIX = ".cluster-service.ts"
+const CLUSTER_SERVICE_SLUGS = "clusterServiceSlugs"
+const SOURCE_DIRECTORY = "sourceDirectory"
+const BUILD_COMMAND = "buildCommand"
+const HOSTNAMES = "hostnames"
+const RESOURCE_KIND = "resourceKind"
 const NAMESPACE = "namespace"
-const RESOURCE_NAME = "resource-name"
+const RESOURCE_NAME = "resourceName"
+const IMAGE = "image"
+const REPLICAS = "replicas"
+const CONTAINER_PORT = "containerPort"
+const MANIFEST_CODE = "manifestCode"
+const WEB_APP_NEEDS = [SOURCE_DIRECTORY, BUILD_COMMAND]
+const CLUSTER_SERVICE_NEEDS = [
+  RESOURCE_KIND,
+  NAMESPACE,
+  RESOURCE_NAME,
+  IMAGE,
+  REPLICAS,
+  CONTAINER_PORT,
+  MANIFEST_CODE,
+]
 const QUIETLY: ["ignore", "pipe", "ignore"] = ["ignore", "pipe", "ignore"]
 
 export interface Workload {
@@ -23,58 +37,20 @@ export interface Workload {
 
 export interface Deployable {
   readonly slug: string
-  readonly title: string
   readonly pagePath: string
   readonly servicePath: string
   readonly synthPath: string
   readonly clusterServiceSlug: string
+  readonly sourceDirectory: string
+  readonly buildCommand: string
+  readonly hostnames: readonly string[]
+  readonly image: string
+  readonly replicas: number
+  readonly containerPort: number
   readonly workload: Workload
 }
 
 export type Read = { readonly deployable: Deployable } | { readonly refused: string }
-
-export type Front = ReadonlyMap<string, readonly string[]>
-
-function unquoted(said: string): string {
-  const held = said.trim()
-  if (held.length < 2) return held
-  const opening = held.slice(0, 1)
-  if ((opening === '"' || opening === "'") && held.endsWith(opening)) return held.slice(1, -1)
-  return held
-}
-
-function spelledOut(said: string): readonly string[] {
-  if (!said.startsWith("[") || !said.endsWith("]")) return [said]
-  const inside = said.slice(1, -1).trim()
-  if (inside === "") return []
-  return inside.split(",").map(unquoted)
-}
-
-export function frontmatterOf(text: string): Front {
-  const lines = text.split("\n")
-  const found = new Map<string, string[]>()
-  if (lines[0]?.trim() !== FENCE) return found
-  let standing: string | null = null
-  for (const line of lines.slice(1)) {
-    if (line.trim() === FENCE) break
-    if (line.startsWith(" ") || line.startsWith("\t")) {
-      const held = line.trim()
-      if (standing === null || !held.startsWith(LIST_MARK)) continue
-      found.get(standing)?.push(unquoted(held.slice(LIST_MARK.length)))
-      continue
-    }
-    const at = line.indexOf(":")
-    if (at === -1) continue
-    standing = line.slice(0, at).trim()
-    const said = unquoted(line.slice(at + 1))
-    found.set(standing, said === "" ? [] : [...spelledOut(said)])
-  }
-  return found
-}
-
-export function firstOf(front: Front, key: string): string | null {
-  return front.get(key)?.[0] ?? null
-}
 
 export function pagesUnder(root: string, suffix: string): readonly string[] | null {
   try {
@@ -96,24 +72,20 @@ export function namedAmong(
   return paths.filter((one) => basename(one) === `${slug}${suffix}`)
 }
 
-export function workloadIn(front: Front): Workload | null {
-  const kind = firstOf(front, KIND)
-  const namespace = firstOf(front, NAMESPACE)
-  const name = firstOf(front, RESOURCE_NAME)
+export function wantingIn(value: Value, keys: readonly string[]): readonly string[] {
+  return keys.filter((one) => value[one] === undefined)
+}
+
+export function workloadIn(value: Value): Workload | null {
+  const kind = textAt(value, RESOURCE_KIND)
+  const namespace = textAt(value, NAMESPACE)
+  const name = textAt(value, RESOURCE_NAME)
   if (kind === null || namespace === null || name === null) return null
   return { kind, name, namespace }
 }
 
-export function synthBeside(servicePath: string): string {
-  return `${servicePath.slice(0, -MARKDOWN_SUFFIX.length)}${ATTACHMENT_SUFFIX}`
-}
-
-function frontAt(root: string, path: string): Front | null {
-  try {
-    return frontmatterOf(readFileSync(join(root, path), "utf8"))
-  } catch {
-    return null
-  }
+function statedAt(root: string, path: string): Value | null {
+  return valueAt(path, root)
 }
 
 function serviceFor(root: string, slug: string, from: string): Read | string {
@@ -149,10 +121,16 @@ export function deployableNamed(root: string, slug: string): Read {
     }
   }
   const pagePath = named[0] as string
-  const front = frontAt(root, pagePath)
-  if (front === null)
-    return { refused: `${pagePath} would not open, so the web app it states is not read` }
-  const serviceSlugs = front.get(CLUSTER_SERVICE_SLUGS) ?? []
+  const stated = statedAt(root, pagePath)
+  if (stated === null)
+    return { refused: `${pagePath} would not load, so the web app it states is not read` }
+  const wanting = wantingIn(stated, WEB_APP_NEEDS)
+  if (wanting.length > 0) {
+    return {
+      refused: `${pagePath} states no ${wanting.join(" and no ")}, so a deploy of \`${slug}\` would rest on what no page says`,
+    }
+  }
+  const serviceSlugs = textsAt(stated, CLUSTER_SERVICE_SLUGS) ?? []
   if (serviceSlugs.length === 0) {
     return {
       refused: `${pagePath} names no cluster service, so nothing says what the cluster runs for \`${slug}\``,
@@ -166,30 +144,41 @@ export function deployableNamed(root: string, slug: string): Read {
   const clusterServiceSlug = serviceSlugs[0] as string
   const found = serviceFor(root, clusterServiceSlug, pagePath)
   if (typeof found !== "string") return found
-  const serviceFront = frontAt(root, found)
-  if (serviceFront === null) {
-    return { refused: `${found} would not open, so the workload it states is not read` }
+  const service = statedAt(root, found)
+  if (service === null) {
+    return { refused: `${found} would not load, so the workload it states is not read` }
   }
-  const workload = workloadIn(serviceFront)
+  const short = wantingIn(service, CLUSTER_SERVICE_NEEDS)
+  if (short.length > 0) {
+    return {
+      refused: `${found} states no ${short.join(" and no ")}, so the workload \`${slug}\` is put up as is not whole`,
+    }
+  }
+  const workload = workloadIn(service)
   if (workload === null) {
     return {
       refused: `${found} states no kind, namespace and resource name together, so it names no workload`,
     }
   }
-  const synthPath = synthBeside(found)
+  const synthPath = textAt(service, MANIFEST_CODE) as string
   if (!existsSync(join(root, synthPath))) {
     return {
-      refused: `${found} has no code beside it at ${synthPath}, so nothing says what \`${slug}\` is made of`,
+      refused: `${found} names its manifest code at ${synthPath}, where no file stands, so nothing says what \`${slug}\` is made of`,
     }
   }
   return {
     deployable: {
       slug,
-      title: firstOf(front, TITLE) ?? slug,
       pagePath,
       servicePath: found,
       synthPath,
       clusterServiceSlug,
+      sourceDirectory: textAt(stated, SOURCE_DIRECTORY) as string,
+      buildCommand: textAt(stated, BUILD_COMMAND) as string,
+      hostnames: textsAt(stated, HOSTNAMES) ?? [],
+      image: textAt(service, IMAGE) as string,
+      replicas: numberAt(service, REPLICAS) as number,
+      containerPort: numberAt(service, CONTAINER_PORT) as number,
       workload,
     },
   }

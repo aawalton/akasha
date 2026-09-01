@@ -36,11 +36,19 @@ export const webAppReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The code standing beside a cluster service page emits that service's manifests.",
+      statement: "The code emitting a cluster service's manifests is the file its page names.",
     },
     {
       invariantKind: "departure",
-      statement: "A cluster service page with no code beside it is refused.",
+      statement: "A cluster service page naming manifest code no file stands at is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A web app's page states where its own source stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page short of what a deploy rests on is refused by naming what it wants.",
     },
     {
       invariantKind: "absence",
@@ -51,16 +59,8 @@ export const webAppReading = {
       statement: "Nothing here loads the code it names.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The pages read here stand outside akasha.",
-    },
-    {
       invariantKind: "departure",
-      statement: "A page is read as text rather than through the index.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A web app's page states where its own source stands.",
+      statement: "A page's value is loaded from its own file rather than read through the index.",
     },
   ],
 } as const satisfies Module

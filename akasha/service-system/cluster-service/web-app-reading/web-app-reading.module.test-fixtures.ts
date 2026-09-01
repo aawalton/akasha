@@ -4,6 +4,8 @@ import { dirname, join } from "node:path"
 
 const HOLD = "/var/tmp"
 const PREFIX = "akasha-web-app-"
+const WEB_APPS_AT = "akasha/service-system/web-app/web-apps"
+const CLUSTER_SERVICES_AT = "akasha/service-system/cluster-service/cluster-services"
 
 export const SYNTH_AT = "one/web/one-web.cluster-service.code.attachment.ts"
 
@@ -11,29 +13,6 @@ export type Standing = {
   readonly root: string
   readonly sweep: () => undefined
 }
-
-const SERVICE = [
-  "---",
-  "page-type-slug: cluster-service",
-  'title: "One web"',
-  "slug: one-web",
-  "kind: Deployment",
-  "namespace: one",
-  "resource-name: web",
-  "---",
-  "",
-].join("\n")
-
-const BARE = [
-  "---",
-  "page-type-slug: cluster-service",
-  "slug: bare",
-  "kind: Deployment",
-  "namespace: one",
-  "resource-name: bare",
-  "---",
-  "",
-].join("\n")
 
 const SERVICE_YAML = [
   "apiVersion: v1",
@@ -67,14 +46,45 @@ const SYNTH = [
   "",
 ].join("\n")
 
-function webApp(slug: string, named: readonly string[]): string {
-  const lines = ["---", "page-type-slug: web-app", `slug: ${slug}`, `title: "${slug}"`]
-  if (named.length > 0) {
-    lines.push("cluster-service-slugs:")
-    for (const one of named) lines.push(`  - ${one}`)
+function named(slug: string): string {
+  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
+}
+
+function pageOf(slug: string, held: Record<string, unknown>): string {
+  const lines = Object.entries(held).map(([key, one]) => `  ${key}: ${JSON.stringify(one)},`)
+  return [`export const ${named(slug)} = {`, ...lines, "}", ""].join("\n")
+}
+
+function webApp(slug: string, at: number, slugs: readonly string[], whole = true): string {
+  const held: Record<string, unknown> = {
+    id: `01a05b26-0000-7000-8000-00000000000${at}`,
+    pageTypeSlug: "web-app",
+    slug,
+    definition: `the ${slug} site`,
   }
-  lines.push("---", "")
-  return lines.join("\n")
+  if (whole) {
+    held.sourceDirectory = "one/web"
+    held.buildCommand = "bun run build"
+  }
+  held.clusterServiceSlugs = slugs
+  held.hostnames = [`${slug}.example`]
+  return pageOf(slug, held)
+}
+
+function clusterService(slug: string, at: number, name: string, code: string): string {
+  return pageOf(slug, {
+    id: `01a05b26-0000-7001-8000-00000000000${at}`,
+    pageTypeSlug: "cluster-service",
+    slug,
+    definition: `what runs ${slug}`,
+    resourceKind: "Deployment",
+    namespace: "one",
+    resourceName: name,
+    image: "registry.example/bun:latest",
+    replicas: 1,
+    containerPort: 3000,
+    manifestCode: code,
+  })
 }
 
 export function standingWorld(): Standing {
@@ -84,14 +94,21 @@ export function standingWorld(): Standing {
     mkdirSync(dirname(at), { recursive: true })
     writeFileSync(at, body, "utf8")
   }
-  stand("pages/web-app/one-web.web-app.md", webApp("one-web", ["one-web"]))
-  stand("pages/web-app/two-web.web-app.md", webApp("two-web", ["one-web", "other-web"]))
-  stand("pages/web-app/none-web.web-app.md", webApp("none-web", []))
-  stand("pages/web-app/lost-web.web-app.md", webApp("lost-web", ["no-such-service"]))
-  stand("pages/web-app/bare-web.web-app.md", webApp("bare-web", ["bare"]))
-  stand("one/web/one-web.cluster-service.md", SERVICE)
+  stand(`${WEB_APPS_AT}/one-web.web-app.ts`, webApp("one-web", 1, ["one-web"]))
+  stand(`${WEB_APPS_AT}/two-web.web-app.ts`, webApp("two-web", 2, ["one-web", "other-web"]))
+  stand(`${WEB_APPS_AT}/none-web.web-app.ts`, webApp("none-web", 3, []))
+  stand(`${WEB_APPS_AT}/lost-web.web-app.ts`, webApp("lost-web", 4, ["no-such-service"]))
+  stand(`${WEB_APPS_AT}/bare-web.web-app.ts`, webApp("bare-web", 5, ["bare"]))
+  stand(`${WEB_APPS_AT}/short-web.web-app.ts`, webApp("short-web", 6, ["one-web"], false))
+  stand(
+    `${CLUSTER_SERVICES_AT}/one-web.cluster-service.ts`,
+    clusterService("one-web", 1, "web", SYNTH_AT)
+  )
+  stand(
+    `${CLUSTER_SERVICES_AT}/bare.cluster-service.ts`,
+    clusterService("bare", 2, "bare", "one/bare/bare.cluster-service.code.attachment.ts")
+  )
   stand(SYNTH_AT, SYNTH)
-  stand("one/bare/bare.cluster-service.md", BARE)
   execFileSync("git", ["-C", root, "init", "-q"])
   execFileSync("git", ["-C", root, "add", "-A"])
   return {
