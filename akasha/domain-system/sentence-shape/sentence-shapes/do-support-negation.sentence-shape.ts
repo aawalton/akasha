@@ -5,6 +5,5 @@ export const doSupportNegation = {
   pageTypeSlug: "sentence-shape",
   slug: "do-support-negation",
   definition: "`does` followed by `not` and a verb taking no ending",
-  allowed: true,
   rules: ["VP -> AUX NEG VB"],
 } as const satisfies SentenceShape

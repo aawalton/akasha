@@ -56,8 +56,27 @@ export const sentenceShape = {
       statement: "A shape is written down once it is parsed rather than once it is decided.",
     },
     {
+      invariantKind: "departure",
+      statement: "A shape is weighed by the load it costs a reader rather than by how it reads.",
+    },
+    {
       invariantKind: "absence",
       statement: "A shape says nothing about what a sentence means.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Alan Approves Sentence Shapes",
+      act: "State `allowed` on a sentence shape only where Alan has decided that shape.",
+      warrant:
+        "An approved shape enters the grammar, and every sentence written after it is judged by it.",
+      aids: [
+        "Refusing a shape is deciding it.",
+        "A shape inferred from a past answer is not decided.",
+        "Approving one shape is not approving another.",
+        "Leaving `allowed` out is the honest state.",
+      ],
     },
   ],
 } as const satisfies PageType
