@@ -1,1 +1,0 @@
-export const POPOVER_COLLISION_PADDING = 8

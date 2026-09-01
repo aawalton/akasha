@@ -22,14 +22,6 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "shared/design-primitives": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
     "shared/design-system": {
       "entry": [
         "**/*.test.{ts,tsx}"

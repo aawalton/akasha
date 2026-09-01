@@ -4,9 +4,9 @@ import { requireMatchPositional } from "@shared/utils-narrow/require-match-posit
 import ts from "typescript"
 import { z } from "zod"
 
-const PRIMITIVES_PACKAGE_DIR = "shared/design-primitives"
+const PRIMITIVES_PACKAGE_DIR = "akasha/design/design-primitives"
 const PRIMITIVES_PACKAGE_NAME = "@akasha/design-primitives"
-const COMPONENTS_SUBDIR = "src/components"
+const COMPONENT_ENDING = ".module.code.tsx"
 
 const CAPPED_BY_AVAILABLE_WIDTH =
   /max-w-(?:\[var\(|\()--radix-([a-z][a-z-]*?)-content-available-width\)/
@@ -118,25 +118,23 @@ export function derivePopoverFamilyTags(repoRoot: string): ReadonlyMap<string, s
     )
   }
 
-  const componentsDir = resolve(packageDir, COMPONENTS_SUBDIR)
-  if (!existsSync(componentsDir)) {
-    throw new Error(`popover-family wrappers: no components directory at ${componentsDir}`)
-  }
-
   const sources: PrimitiveSource[] = []
-  for (const entry of readdirSync(componentsDir, { withFileTypes: true })) {
-    if (!entry.isFile()) continue
-    if (!entry.name.endsWith(".tsx")) continue
-    if (entry.name.endsWith(".test.tsx")) continue
-    const path = resolve(componentsDir, entry.name)
-    sources.push({ path, source: readFileSync(path, "utf8") })
+  for (const moduleEntry of readdirSync(packageDir, { withFileTypes: true })) {
+    if (!moduleEntry.isDirectory()) continue
+    const moduleDir = resolve(packageDir, moduleEntry.name)
+    for (const entry of readdirSync(moduleDir, { withFileTypes: true })) {
+      if (!entry.isFile()) continue
+      if (!entry.name.endsWith(COMPONENT_ENDING)) continue
+      const path = resolve(moduleDir, entry.name)
+      sources.push({ path, source: readFileSync(path, "utf8") })
+    }
   }
   sources.sort((a, b) => a.path.localeCompare(b.path))
 
   const tags = tagsFromPrimitiveSources(sources)
   if (tags.size === 0) {
     throw new Error(
-      `popover-family wrappers: ${componentsDir} holds ${sources.length} component file(s) and none declares a collisionPadding with a --radix-<family>-content-available-width cap — a rule derived from this would govern no tag at all and report clean over every override in the tree`
+      `popover-family wrappers: ${packageDir} holds ${sources.length} component file(s) and none declares a collisionPadding with a --radix-<family>-content-available-width cap — a rule derived from this would govern no tag at all and report clean over every override in the tree`
     )
   }
 

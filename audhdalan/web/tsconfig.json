@@ -35,9 +35,6 @@
       "path": "../../infra/k8s-types"
     },
     {
-      "path": "../../shared/design-primitives"
-    },
-    {
       "path": "../../shared/errors-client"
     },
     {

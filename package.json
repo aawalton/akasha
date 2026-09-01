@@ -109,7 +109,6 @@
     "shared/cli",
     "shared/day",
     "shared/design-patterns",
-    "shared/design-primitives",
     "shared/design-system",
     "shared/design-tokens",
     "shared/errors-client",
