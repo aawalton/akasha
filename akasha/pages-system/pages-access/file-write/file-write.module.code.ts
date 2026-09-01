@@ -295,7 +295,7 @@ export type RemoveFilePagesArgs = {
 
 export async function removeFilePages(
   args: RemoveFilePagesArgs,
-  op = "softDeletePages"
+  op = "deletePages"
 ): Promise<readonly Page[]> {
   const backed = await filedUnder(op, args.pageTypeSlug)
   const found = await locate(op, args.pageTypeSlug, backed.glob, args.where)
