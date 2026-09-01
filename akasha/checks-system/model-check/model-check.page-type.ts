@@ -62,9 +62,5 @@ export const modelCheck = {
       invariantKind: "absence",
       statement: "A model check states no phase.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A model check runs.",
-    },
   ],
 } as const satisfies PageType
