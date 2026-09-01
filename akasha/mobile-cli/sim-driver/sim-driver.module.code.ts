@@ -30,10 +30,6 @@ export const APP_ORIGIN = "capacitor://localhost"
 const WEBVIEW_POLL_ATTEMPTS = 30
 const WEBVIEW_POLL_DELAY_MS = 1_000
 
-function sleep(ms: number): Promise<void> {
-  return new Promise((resolve) => setTimeout(resolve, ms))
-}
-
 export function buildAppUrl(route: string, kbDebug: boolean): string {
   const path = route.startsWith("/") ? route : `/${route}`
   if (!kbDebug) return `${APP_ORIGIN}${path}`
@@ -50,7 +46,7 @@ async function acquireWebview(base: string, sessionId: string): Promise<string> 
       await setContext(base, sessionId, webview)
       return webview
     }
-    await sleep(WEBVIEW_POLL_DELAY_MS)
+    await Bun.sleep(WEBVIEW_POLL_DELAY_MS)
   }
   throw new OperationalError(
     "the WKWebView never attached (only NATIVE_APP present after polling). " +
@@ -129,7 +125,7 @@ export async function openSession(opts: {
   try {
     await executeScript(opts.base, sessionId, "window.location.assign(arguments[0]);", [url])
   } catch {}
-  await sleep(WEBVIEW_POLL_DELAY_MS)
+  await Bun.sleep(WEBVIEW_POLL_DELAY_MS)
   const webview = await acquireWebview(opts.base, sessionId)
 
   const state: SimSessionState = {

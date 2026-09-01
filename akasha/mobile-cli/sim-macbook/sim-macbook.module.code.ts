@@ -15,10 +15,6 @@ import { runSshCapture } from "../mobile-ssh/mobile-ssh.module.code.ts"
 const APPIUM_START_ATTEMPTS = 40
 const APPIUM_START_DELAY_MS = 1_500
 
-function sleep(ms: number): Promise<void> {
-  return new Promise((resolve) => setTimeout(resolve, ms))
-}
-
 export function buildStartAppiumScript(): string {
   return [
     SCRIPT_HEADER,
@@ -106,7 +102,7 @@ export async function ensureAppium(): Promise<string> {
   if (await appiumReady(APPIUM_BASE)) return APPIUM_BASE
   await runSshCapture(MACBOOK, buildStartAppiumScript())
   for (let attempt = 0; attempt < APPIUM_START_ATTEMPTS; attempt++) {
-    await sleep(APPIUM_START_DELAY_MS)
+    await Bun.sleep(APPIUM_START_DELAY_MS)
     if (await appiumReady(APPIUM_BASE)) return APPIUM_BASE
   }
   throw new OperationalError(
