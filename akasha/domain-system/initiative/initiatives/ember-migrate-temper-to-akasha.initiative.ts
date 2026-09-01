@@ -30,7 +30,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "Every landing names its change kind.",
       workingMemory:
-        "Only write and edit run the gate. `calling` reads the `mechanical` boolean off the command page and hands `programmatic` down, which sets NO_GATE. `seat-stating` and `subagent-presence` reach `landingAsked` with no command between them, and each builds its own programmatic caller. Left: `tools/lib/oauth-page-create.ts` and `oauth-page-push.ts` shell out to `akasha write` for an account page a program composed, four landings in two thousand commits, and no akasha module writes account pages.",
+        "Only write and edit run the gate. `calling` reads the `mechanical` boolean off the command page and hands `mechanical` down, which sets NO_GATE. `seat-stating`, `subagent-presence` and the oauth pair in `tools/lib` land through `landedMechanically` in `asking`, the one caller a program lands through. Nothing outside akasha shells out to `akasha write` any more. What is left is the boolean itself, which a relation to a change kind replaces.",
     },
     {
       statement: "The index says what the pages say.",

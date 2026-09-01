@@ -31,7 +31,7 @@ const AGENT = "01a05844-6e60-7000-b54c-4b14559df70d"
 
 const TREE = "akasha"
 
-const PROGRAMMATIC =
+const MECHANICAL =
   "Checks-bypassed: no check ran: this landing was made by a program rather than by an agent"
 
 function seated(root: string): string {
@@ -140,7 +140,7 @@ test("a page is landed by a program, its commit saying no check ran", () => {
     expect(wrote(root, "akasha", OWN, "Explore")).toBe(true)
     const at = join(root, pathOf(slugOf("akasha", OWN)))
     expect(readFileSync(at, "utf8")).toContain('dispatchedAs: "Explore"')
-    expect(messageIn(root)).toContain(PROGRAMMATIC)
+    expect(messageIn(root)).toContain(MECHANICAL)
   } finally {
     world.sweep()
   }
@@ -177,7 +177,7 @@ test("a page taken away goes, and the commit says a program took it", () => {
     wrote(root, "akasha", OWN, "Explore")
     expect(took(root, "akasha", OWN)).toBe(true)
     expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
-    expect(messageIn(root)).toContain(PROGRAMMATIC)
+    expect(messageIn(root)).toContain(MECHANICAL)
   } finally {
     world.sweep()
   }
