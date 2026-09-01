@@ -1,0 +1,187 @@
+---
+id: e7555094-366d-5a4f-abe2-33a186dc6653
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: Ascension"
+slug: 0042-chapter-37-ascension
+partOf: shapeshifter-a-non-human-litrpg
+position: 42
+ownLength: 1872
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3894466/chapter-37-ascension"
+royalRoadId: "3894466"
+---
+
+[Your unique [Shapeshifter] class has upgraded based on your achievements and chosen evolution path]
+
+[Class: Shapeshifter (Unique) → Shapeshifter (Ascended)]
+
+Xen felt a ripple through his very soul, followed by a rush of power like a dozen level-ups at once. He staggered and collapsed to one knee, heat flooding his body. A towering stack of system messages popped up, eclipsing his view.
+
+​​[Name: Xen]
+
+[Level: 100 (S)]
+
+[Race: Changeling Slime (Rare Variant)]
+
+[Current Form: Human (Spellblade: Level 75)]
+
+[Class: Shapeshifter (Ascended)]
+
+Changeling Slime: Level 100 (S) (+100 Strength, +100 Vitality, +100 Agility, +250 Resistance, +450 Magic)
+
+< [Devour (S)] - [Changeling Veil (A)] - [Geomantic Perception (B)] - [Perish (B)] - [Appraisal (C)] - [Withering Hex (C)] - [Soul Leech (D)] - [Acidic Burst (D)] - [Shapeshift (E)] >
+
+< [Undeath Resonance] - [Blight Aura] - [Hex Catalyst] - [First Strike] >
+
+Myriad Forms: Level 75 (B)
+
+All form experience has been consolidated. Skills below are accessible in any form.
+
+< [Grand Ritual: Reclaim the Fallen (S)] >
+
+< [Stormcall (A)] - [Cataclysm (A)] - [Chains of the Damned (A)] - [Immunity to Poison (A)] - [Ashen Gaze (A)] - [Amber Sheath (A)] - [Abyssal Carapace (A)] >
+
+< [Multilingual (B)] - [Ghoststep (B)] - [Corruption Missile (B)] - [Crescent Rage (B)] - [Spellblade's Edge (B)] - [Bulwark Stance (B)] - [Verdant Anchor (B)] - [Bladestorm (B)] - [Radiant Lightning (B)] - [Beacon of Grace (B)] - [Hellfire Howl (B)] - [Earthen Regeneration (B)] - [Bloodmark Hunter (B)] >
+
+< [Buff of the Berserker (C)] - [Indomitable Defense (C)] - [Vampiric Blade (C)] - [Windveil Agility (C)] - [Threadwalk (C)] - [Flash Mend (C)] - [Sentinel's Provocation (C)] - [Lend Weight (C)] - [Spellbreak (C)] - [Alpha Presence (C)] - [Infernal Claws (C)] - [Blood Drain (C)] - [Geomantic Anchor (C)] - [Resin Capture (C)] - [Cinderburrow (C)] >
+
+< [Quiet Steps (D)] - [Phantom Strike (D)] - [Cleansing Light (D)] - [Mending Pulse (D)] - [Necrotic Pulse (D)] - [Bloodthirst (D)] - [Earthen Trapmaster (D)] - [Echo Pulse (D)] - [Piercing Fang (D)] >
+
+< [Orbs of Light (E)] >
+
+Unlocked Forms:
+
+All forms will match the combined level of the Myriad Forms (Currently level 75).
+
+Human (Spellblade) (+375 Strength, +225 Vitality, +300 Agility, +225 Resistance, +450 Magic)
+
+< [Sword Proficiency] - [Solo Hunter] - [Duelist's Cadence] >
+
+Elf (Radiant Healer) (+150 Strength, +225 Vitality, +225 Agility, +300 Resistance, +600 Magic)
+
+< [Radiant Aura] - [Healer's Instinct] - [Mana Empowerment] >
+
+Hellfang (+525 Strength, +300 Vitality, +525 Agility, +150 Resistance, +150 Magic)
+
+Undead Mage (+75 Strength, +150 Vitality, +75 Agility, +300 Resistance, +600 Magic)
+
+< [Corpse Conduit] >
+
+Sand-Drowned Revenant (+300 Strength, +375 Vitality, +150 Agility, +375 Resistance, +150 Magic)
+
+Underworld Orc (+600 Strength, +525 Vitality, +225 Agility, +225 Resistance, +225 Magic)
+
+Vampiric Bat (+150 Strength, +150 Vitality, +450 Agility, +75 Resistance, +225 Magic)
+
+< [Winged Flight] - [Nocturnal Vitality] >
+
+Ashen Colossus (+600 Strength, +675 Vitality, +75 Agility, +450 Resistance, +150 Magic)
+
+Resinreaver (+450 Strength, +375 Vitality, +375 Agility, +225 Resistance, +75 Magic)
+
+Abyssalspawn (+375 Strength, +525 Vitality, +225 Agility, +450 Resistance, +75 Magic)
+
+< [Abyss-Tempered] >
+
+Xen was stunned into silence. He could hear Alex and the others calling out to him, but their voices were nothing but white noise his brain ignored. All of his attention was on the wall of text floating in his mind. There was simply too much to go over.
+
+Okay, let's start small. My Shapeshifter class is now listed as Ascended rather than Unique grade. Sounds fancy, though I have no idea what that means. Next, my human form is now showing level 75, up from level 65. That's an instant ten-level jump, which must be why my body feels so hot.
+
+His gaze drifted to the literal wall of skills, and he started counting them.
+
+Wait, I have over fifty skills, and that's not even including all my passives?! Xen let out a small breath. His status screen had been rather messy before, with all the different forms, some of which had overlapping skills. His ten free skill slots were also gone, as he could apparently use all the skills freely across all forms.
+
+Now that it's all laid out like this, it shows just how rare S-rank skills are. I only have two despite having over fifty skills and being able to upgrade them through merging. Any person lucky enough to get an S-rank skill will become a powerhouse.
+
+After all, it was his own S-rank skill, Devour, that allowed him to rise in power so quickly. The only other S-rank skill he had, Grand Ritual: Reclaim the Fallen, had been taken from a boss monster.
+
+His attention was then drawn to the Unlocked Forms and the large numbers displayed beside each.
+
+I can finally see the stats of each form. But why are the numbers so high even for my level 1 forms?
+
+Unlocked Forms:
+
+All forms will match the combined level of the Myriad Forms (Currently level 75).
+
+He froze as realization dawned on him. All of his forms were now level 75. Until now, only his Human and Elf forms had been high enough level to use against recent threats. But with this change, even his Vampiric Bat or Sand-Drowned Revenant forms were now level 75.
+
+His focus locked onto the stats of the Ashen Colossus form in particular, as its vitality was the highest overall stat from any of his forms.
+
+Ashen Colossus (+600 Strength, +675 Vitality, +75 Agility, +450 Resistance, +150 Magic)
+
+But its agility was hilariously low at only one stat point per level, and its magic was also subpar.
+
+So if I take on the Ashen Colossus form right now, I'd have a combined vitality of 775. That's insane.
+
+His eyes scanned the list another time, and he realized that the passives were still form-locked, such as [Winged Flight] for Vampiric Bat and [Solo Hunter] for Human.
+
+So besides the stats and general capabilities of each form, I also have to consider what passives I need. Because with [Solo Hunter] active, Human is still my outright strongest form when I'm fighting against multiple enemies at once. But if I want to fly, I need to be a Vampiric Bat.
+
+His line of thinking was interrupted by another system message.
+
+[Changeling Slime] has reached Level 100 (S Grade). Your final evolution is available.
+
+[Hidden titles: The Mind That Eats, Bodybreaker, and Soul-Eater have converged with the influence of the equipped Unique-grade artifact: Faceless Cursed Mask]
+
+[All alternative evolution paths have been exhausted. Only one path remains]
+
+[Faceless One (Ancient Variant)]
+
+The Faceless Infiltrators are the World Dungeon's hidden hands—apex mimics grown to walk among the natives of invaded worlds, wearing their faces and unraveling them from within. Having devoured the minds of the many, broken and remade your flesh without hesitation, and supped on souls without revulsion, you qualify for the Dungeon's most secretive and ancient lineage. A monster who stands above the Faceless Infiltrators as their ancient ancestor, a being rumored to conquer entire worlds from the shadows. The Faceless One.
+
+Skill: [Changeling Veil (A)] has upgraded to [Perfect Guise (S)]
+
+Your illusions gain substance. Assume the complete likeness of any being you have devoured—face, voice, mannerisms, and mana signature included. Illusory flesh yields warmth and resistance to the touch, eyes blink, and mouths speak. Maintaining the guise of a being of a higher grade than yourself rapidly drains mana.
+
+Skill: [Shapeshift (E)] has upgraded to [Shapeshift (A)]
+
+The speed of shapeshifting has significantly increased, while the biomass required to switch between forms and create modifications has decreased.
+
+Passive: [Nameless Existence]
+
+You have no true name written in the Dungeon's records. Appraisal and identification-type skills automatically fail against you. You may instead choose what such skills perceive.
+
+Unlike previous evolutions, he was presented with only a single option, which was deemed his final evolution.
+
+I assume that means I won't evolve again, Xen mused, and could see why from the form's description. The Faceless One seems to be the absolute apex form a Mind Slime can reach. From here on out, I'll have to grow in power through levels, skills, and new forms. But the description of this Faceless One makes it sound like this isn't the first planet the World Dungeon has tried to devour.
+
+Do you wish to begin the evolution process?
+
+Not yet, he thought, dismissing the notification. He would need to complete his evolution in a safe place. Glancing around, he saw nothing but blood-stained porous rock, monster corpses, abyssal corruption, and four Hunters who somewhat trusted him.
+
+If they betray me during my evolution, that will be the end of me. Xen's eyes flickered up to the ceiling, where the amber crystals he had originally planned to hide inside were. Though he'd chosen to ambush Dorian by using his new Cinderburrow instead. What if I used Amber Sheath and completed my evolution inside an amber crystal rather than out in the open?
+
+The idea seemed far more plausible than any other he could come up with.
+
+"Ghostwire?" Alex asked cautiously. "Is what Iris said true? Will the Ether Technocrats really be able to create their own gates to the World Dungeon by working with these infiltrators?"
+
+"I believe that is the case," Xen replied, slowly looking down from the amber crystal and meeting Alex's ashen expression. "Due to the greed of the guilds, humanity will fall in due time."
+
+"I need to get back," Kenji said, his voice shaking. "My daughter, I need to protect her if gates are to randomly open. I don't trust those Ether Technocrat bastards to do it safely. They only care about profits."
+
+Alex firmly nodded. "We can't waste any more time here."
+
+Xen held up a hand. "Before fighting the Guardian, I need to recover and exchange this pressing information with the other Faceless Hunters on the outside. Give me an hour and protect me and this area."
+
+Kenji looked like he wanted to protest, but Alex held him back.
+
+"Whatever you need, Ghostwire, we will help. So long as you defeat the Guardian, that is."
+
+"You have my word, I will defeat it," Xen said as he reached up and activated [Amber Sheath (A)] to begin merging with the crystal. The four Hunters watched in awe, then took up arms and surrounded the area with firm expressions.
+
+Good, Xen thought. With their escape hinging on me killing the Guardian, they won't dare betray me.
+
+"Don't take too long, Ghostwire!" Alex called out, though his voice was dulled by the crystal. "We will be waiting for you!"
+
+Xen smiled. He had found another good party of humans.
+
+"System, I want to evolve now," he said.
+
+[Evolution to Faceless One Confirmed: Time until completion 2:59:59]
+
+A wave of exhaustion washed over him, but his attention was locked onto the timer. It was far longer than usual.
+
+Why does it take three hours? Xen cursed in his mind. The excuses I gave them assumed that it would take an hour. At three hours, they might think I abandoned them and leave, assuming a monster doesn't wipe them out first.
+
+Worry gripped him as he faded into the darkness of sleep to complete his S-grade evolution.
