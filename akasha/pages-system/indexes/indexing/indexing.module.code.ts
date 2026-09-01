@@ -27,6 +27,8 @@ import { NOTHING_FILED, relationIn } from "../index/index-relation/index-relatio
 import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { schemaIn } from "../index/index-schema/index-schema.index.code.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
+import { valueIn } from "../index/index-value/index-value.index.code.ts"
+import { indexValue } from "../index/index-value/index-value.index.ts"
 import {
   type Entry,
   filePropertiesAt,
@@ -58,6 +60,8 @@ const PATH = indexPath.name
 const RELATION = indexRelation.name
 
 const SCHEMA = indexSchema.name
+
+const VALUE = indexValue.name
 
 const PAGE_TYPE = "page-type"
 
@@ -225,10 +229,18 @@ export function rebuiltFrom(
     importIn(readFileSync(path, "utf8"), path, repo)
   )
   reconcile(join(root, IMPORT), imported, root)
+  const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
+  reconcile(join(root, VALUE), valued, root)
   stampBuilt(repo, tree, root)
   return {
     pages: held.length,
-    entries: identity.length + paths.length + schema.length + relation.length + imported.length,
+    entries:
+      identity.length +
+      paths.length +
+      schema.length +
+      relation.length +
+      imported.length +
+      valued.length,
     refused: filed.flatMap((one) => one.refused),
   }
 }
@@ -371,8 +383,14 @@ export function settlingOver(
     now.flatMap((one) => one.entries)
   )
 
+  const valued = filingOf(
+    reading,
+    held.flatMap((one) => (one.was === null ? [] : valueIn(one.was, one.path, repo))),
+    held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
+  )
+
   return {
-    filings: [...imported, ...identity, ...paths, ...schema, ...relation],
+    filings: [...imported, ...identity, ...paths, ...schema, ...relation, ...valued],
     noted,
     refused: [...was, ...now].flatMap((one) => one.refused),
   }
