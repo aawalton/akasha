@@ -33,6 +33,7 @@ import {
 import type { Tokening } from "./token-renaming/token-renaming.module.code.ts"
 import {
   bindingFor,
+  LINE,
   tokeningFor,
   tokenSaying,
 } from "./token-renaming/token-renaming.module.code.ts"
@@ -73,9 +74,9 @@ const AT = "--at"
 
 const IN_STRINGS = "--in-strings"
 
-const VALUED = [FROM, TO, PLURAL, AT, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+const VALUED = [FROM, TO, PLURAL, AT, LINE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
-const NAMED = [FROM, TO, PLURAL, AT]
+const NAMED = [FROM, TO, PLURAL, AT, LINE]
 
 const BYTES = new TextEncoder()
 
@@ -366,8 +367,9 @@ export function refactor(argv: readonly string[], given: Given): Answer {
   }
   const read = flagsIn(rest)
   if ("refused" in read) return answering([], [read.refused], 1)
-  if (read.inStrings && namespace !== TOKEN) {
-    return answering([], [`only a name rename takes ${IN_STRINGS}`], 1)
+  const only = read.inStrings ? IN_STRINGS : read.said.has(LINE) ? LINE : null
+  if (only !== null && namespace !== TOKEN) {
+    return answering([], [`only a name rename takes ${only}`], 1)
   }
   const from = read.said.get(FROM)
   const to = read.said.get(TO)
@@ -378,7 +380,7 @@ export function refactor(argv: readonly string[], given: Given): Answer {
       const said = `a name rename takes ${AT}, ${FROM} and ${TO}, and one of them was not said`
       return answering([], [said], 1)
     }
-    const asked = tokeningFor(at, from, to)
+    const asked = tokeningFor(at, from, to, read.said.get(LINE))
     if ("refused" in asked) return answering([], [asked.refused], 1)
     return tokenLanded(given, root, asked.tokening, read.dryRun, argv, read.inStrings)
   }

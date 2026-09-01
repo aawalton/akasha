@@ -26,6 +26,10 @@ export const refactor = {
     { said: "--to <slug>", takes: "the slug it becomes, or the key the property is read by" },
     { said: "--plural <slug>", takes: "the plural it becomes, on a page type rename alone" },
     { said: "--at <path>", takes: "the file exporting the name, on a name rename alone" },
+    {
+      said: "--line <n>",
+      takes: "the line the name is declared on, on a name rename alone",
+    },
     { said: "--in-strings", takes: "respell the name inside strings too, on a name rename alone" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
@@ -42,6 +46,8 @@ export const refactor = {
     "a key rename carries no file, so it takes no plural and repoints no address.",
     "a name is named by the file exporting it, since one name is carried by many files.",
     "a name is renamed where the checker resolves to it rather than where a body spells it.",
+    "--line picks one where the file declares that name in more than one place.",
+    "a refusal for a name declared more than once names each line --line would take.",
     "--in-strings respells the name inside strings as well as where the checker resolves it.",
     "a distinctive name is safe to respell in a string, and a plain word standing in prose is not.",
   ],
@@ -137,6 +143,15 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement: "A name standing for something else in its own scope is left as it stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which declaration of a name carried more than once is renamed is named by a line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rename naming no line renames the one declaration or refuses the many.",
     },
     {
       invariantKind: "departure",

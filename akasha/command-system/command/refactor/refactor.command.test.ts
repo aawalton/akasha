@@ -69,6 +69,44 @@ test("a page type rename respells no string", () => {
   expect(said.refusals[0]).toContain("--in-strings")
 })
 
+test("a key rename takes no line", () => {
+  const said = refactor(
+    ["rename", "property-slug", "--from", "text-property/slug", "--to", "named", "--line", "3"],
+    GIVEN
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toBe("only a name rename takes --line")
+})
+
+test("a page type rename takes no line", () => {
+  const said = refactor(
+    ["rename", "page-type", "--from", "seat", "--to", "chair", "--plural", "chairs", "--line", "3"],
+    GIVEN
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toBe("only a name rename takes --line")
+})
+
+test("a name rename naming a line no body could carry is refused", () => {
+  const said = refactor(
+    [
+      "rename",
+      "token",
+      "--at",
+      "akasha/one.module.code.ts",
+      "--from",
+      "a",
+      "--to",
+      "b",
+      "--line",
+      "x",
+    ],
+    GIVEN
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--line takes the line a declaration starts on")
+})
+
 test("a rename takes the slug, what it becomes, and the plural it becomes", () => {
   const said = refactor(["rename", "page-type", "--from", "seat", "--to", "chair"], GIVEN)
   expect(said.code).toBe(1)
@@ -95,4 +133,9 @@ test("the flags are read whatever order they stand in", () => {
   expect("said" in said && said.dryRun).toBe(true)
   expect("said" in said && said.said.get("--from")).toBe("seat")
   expect("said" in said && said.said.get("--plural")).toBe("chairs")
+})
+
+test("the line a name is declared on is read off the flags", () => {
+  const said = flagsIn(["--at", "akasha/one.module.code.ts", "--line", "288"])
+  expect("said" in said && said.said.get("--line")).toBe("288")
 })
