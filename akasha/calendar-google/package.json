@@ -14,7 +14,7 @@
     "@akasha/google-oauth": "workspace:*",
     "@googleapis/calendar": "^15.0.0",
     "@akasha/errors-core": "workspace:*",
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
 }

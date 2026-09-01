@@ -1,5 +1,5 @@
 import { InputError } from "@akasha/errors-core/exit-code"
-import { requireMatchPositional } from "@shared/utils-narrow/validate"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 
 const UCI_MOVE = /^[a-h][1-8][a-h][1-8][qrbn]?$/

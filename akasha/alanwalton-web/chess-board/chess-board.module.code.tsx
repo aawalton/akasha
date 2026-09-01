@@ -1,7 +1,7 @@
 "use client"
 import "../chess-board-look/chess-board-look.stylesheet.styles.css"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { useChromeToggle } from "@shared/pages-ui/components/use-chrome-toggle"
-import { assertNever } from "@shared/utils-narrow/assert-never"
 import { Chessground } from "chessground"
 import type { Api as CgApi } from "chessground/api"
 import type { Config as CgConfig } from "chessground/config"
