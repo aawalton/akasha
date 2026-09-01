@@ -11,7 +11,7 @@ export const tokenRenaming = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name is named by the file carrying it rather than by the name on its own.",
+      statement: "A name is named by the file carrying that name rather than by the name alone.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A key rename is refused wherever the file carries the name it would become.",
+      statement: "A key rename is refused wherever the file carries the name the key would become.",
     },
     {
       invariantKind: "departure",
@@ -54,11 +54,11 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A name standing for something else in its own scope is left as it stands.",
+      statement: "A name representing something else in that name's own scope is left unchanged.",
     },
     {
       invariantKind: "departure",
-      statement: "A name a file keeps to itself is renamed though nothing exports it.",
+      statement: "A name a file keeps to itself is renamed though nothing exports that name.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +71,7 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A line names the declaration whose name starts on it.",
+      statement: "A line names the declaration whose name starts on that line.",
     },
     {
       invariantKind: "departure",
@@ -92,15 +92,16 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A spelling this cannot read as a line is refused rather than counted as none.",
+      statement:
+        "A spelling this module cannot read as a line is refused rather than counted as no line.",
     },
     {
       invariantKind: "departure",
-      statement: "An answer says the line the caller named where one was named.",
+      statement: "An answer says the line the caller named where a line was named.",
     },
     {
       invariantKind: "departure",
-      statement: "A key a type declares is renamed wherever the checker resolves to it.",
+      statement: "A key a type declares is renamed wherever the checker resolves to that key.",
     },
     {
       invariantKind: "departure",
@@ -122,16 +123,16 @@ export const tokenRenaming = {
     {
       invariantKind: "departure",
       statement:
-        "A key written out where the checker resolves it to the renamed key welds as a shorthand does.",
+        "A key written out where the checker resolves that key to the renamed key welds as a shorthand does.",
     },
     {
       invariantKind: "departure",
-      statement: "A key spelled where the checker resolves it to nothing welds nothing.",
+      statement: "A key spelled where the checker resolves that key to nothing welds nothing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A key spelled where the checker resolves it to another declaration welds nothing.",
+        "A key spelled where the checker resolves that key to another declaration welds nothing.",
     },
     {
       invariantKind: "departure",
@@ -163,7 +164,8 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A name spelled inside a string is respelled only where the caller asks for it.",
+      statement:
+        "A name spelled inside a string is respelled only where the caller asks for that name.",
     },
     {
       invariantKind: "departure",
@@ -192,7 +194,7 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here lands what it works out.",
+      statement: "Nothing here lands what this module works out.",
     },
   ],
 } as const satisfies Module
