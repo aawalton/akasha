@@ -7,14 +7,28 @@ import {
   mintDeviceSecretSchema,
   revokeDeviceSecretSchema,
 } from "@akasha/person-system/device-secret-body"
-import { decideMintAction, type PeekProbe } from "@akasha/person-system/device-secret-minting"
+import {
+  decideMintAction,
+  domainSaid,
+  type PeekProbe,
+} from "@akasha/person-system/device-secret-minting"
 import { apiFetch } from "~/lib/api-fetch"
 import { type DeviceSecretPlugin, getDeviceSecret, isNativeShell } from "~/lib/capacitor-bridge"
 
+// `domain` is carried through rather than dropped, because WHERE the item sits decides
+// whether the widget extension can ever read it — an item in the app's default domain
+// satisfies this probe while the extension's read of it is refused.
+//
+// A shell that answers with no `domain` at all reads as `unsaid`, and `unsaid` re-mints.
+// That case is unreachable in anything shipped rather than merely unlikely: the shipped
+// build 198 (mainSha 04959e93f4) resolves `domain` in its `peek`, and the web assets ride
+// in the same archive as the native code (`webDir: "www"`, no `server.url`, CSP
+// `script-src 'self'`), so this file never meets a shell older than itself. The mapping is
+// written down anyway so the answer to a missing field is a decision and not an accident.
 async function probeKeychain(plugin: DeviceSecretPlugin, userId: string): Promise<PeekProbe> {
   try {
     const result = await plugin.peek({ userId })
-    return { ok: true, present: result.present }
+    return { ok: true, present: result.present, domain: domainSaid(result.domain) }
   } catch (error: unknown) {
     console.error("[device-secret] Keychain probe failed; treating as absent", error)
     return { ok: false }
@@ -126,8 +140,15 @@ export function DeviceSecretSync() {
       const probe = await probeKeychain(plugin, userID)
       if (cancelled) return
       if (decideMintAction(probe) === "skip") {
-        console.info("[device-secret] secret already stored for this identity; not re-minting")
+        console.info(
+          "[device-secret] secret already stored for this identity in the shared access group; not re-minting"
+        )
         return
+      }
+      if (probe.ok && probe.present) {
+        console.warn(
+          `[device-secret] a secret is stored, but in the ${probe.domain} keychain domain, which the widget extension cannot read — re-minting so it lands in the shared access group`
+        )
       }
       await mintAndStore(plugin, userID)
     })()
