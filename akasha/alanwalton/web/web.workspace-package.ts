@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const alanwaltonWeb = {
+export const web = {
   id: "01a05bb1-0c04-751f-8f51-baadbd134cf6",
   pageTypeSlug: "workspace-package",
-  slug: "alanwalton-web",
+  slug: "web",
   definition: "the code Alan's site is built from",
   manifest: "json",
   partSlugs: [
