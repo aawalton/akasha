@@ -18,7 +18,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing outlives the call that asked for it.",
+      statement: "A landing outlives the call that asked for the landing.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "What lands a page mints the id it keeps.",
+      statement: "What lands a page mints the id the page keeps.",
     },
     {
       invariantKind: "departure",

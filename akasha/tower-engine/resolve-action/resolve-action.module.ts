@@ -17,7 +17,7 @@ export const resolveAction = {
     },
     {
       invariantKind: "departure",
-      statement: "A hit takes at least one point of damage.",
+      statement: "A hit takes at least a single point of damage.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const resolveAction = {
     },
     {
       invariantKind: "departure",
-      statement: "Intent is held between zero and ten before it counts.",
+      statement: "Intent is held between zero and ten before intent counts.",
     },
   ],
 } as const satisfies Module

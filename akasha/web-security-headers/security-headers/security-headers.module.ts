@@ -9,7 +9,7 @@ export const securityHeaders = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A site widens a policy directive and never narrows one.",
+      statement: "A site widens a policy directive and never narrows a policy directive.",
     },
     {
       invariantKind: "departure",

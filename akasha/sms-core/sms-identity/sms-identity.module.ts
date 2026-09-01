@@ -14,7 +14,7 @@ export const smsIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A leading country code of one is dropped before matching.",
+      statement: "A leading country code of `1` is dropped before matching.",
     },
     {
       invariantKind: "departure",

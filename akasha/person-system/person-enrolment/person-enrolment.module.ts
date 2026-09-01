@@ -27,7 +27,7 @@ export const personEnrolment = {
     },
     {
       invariantKind: "departure",
-      statement: "An account two people state is read to neither.",
+      statement: "An account two people state is read to neither person.",
     },
     {
       invariantKind: "departure",

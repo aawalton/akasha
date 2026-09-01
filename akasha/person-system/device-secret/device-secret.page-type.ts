@@ -35,7 +35,7 @@ export const deviceSecret = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A device secret stands for the account it was minted for.",
+      statement: "A device secret stands for the account the device secret was minted for.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +51,8 @@ export const deviceSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "A device secret is reached by the person holding it and the device it names.",
+      statement:
+        "A device secret is reached by the person holding the device secret and the device the device secret names.",
     },
     {
       invariantKind: "absence",

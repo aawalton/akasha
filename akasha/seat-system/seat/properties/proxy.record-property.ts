@@ -19,7 +19,7 @@ export const proxy = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat reaches one proxy or none.",
+      statement: "A seat reaches one proxy or no proxy.",
     },
     {
       invariantKind: "departure",

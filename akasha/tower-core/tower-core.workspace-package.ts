@@ -15,7 +15,7 @@ export const towerCore = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches outside the value it is handed.",
+      statement: "Nothing here reaches outside the value this package is handed.",
     },
     {
       invariantKind: "departure",

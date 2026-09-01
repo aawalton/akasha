@@ -19,11 +19,11 @@ export const verifySignature = {
     },
     {
       invariantKind: "departure",
-      statement: "The tolerance is five minutes where none is given.",
+      statement: "The tolerance is five minutes where no tolerance is given.",
     },
     {
       invariantKind: "departure",
-      statement: "A clock ahead of the signer is tolerated as far as a clock behind it.",
+      statement: "A clock ahead of the signer is tolerated as far as a clock behind the signer.",
     },
     {
       invariantKind: "absence",
@@ -31,7 +31,7 @@ export const verifySignature = {
     },
     {
       invariantKind: "departure",
-      statement: "The base64 spelling of bytes stands here for whoever needs it.",
+      statement: "The base64 spelling of bytes stands here for whoever needs that spelling.",
     },
   ],
 } as const satisfies Module

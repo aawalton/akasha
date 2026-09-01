@@ -14,7 +14,7 @@ export const voiceSpec = {
     },
     {
       invariantKind: "departure",
-      statement: "A designed voice carries the instruction it was designed by.",
+      statement: "A designed voice carries the instruction the designed voice was designed by.",
     },
     {
       invariantKind: "constraint",
