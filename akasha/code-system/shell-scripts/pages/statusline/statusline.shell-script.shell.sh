@@ -5,7 +5,17 @@ set -euo pipefail
 # WHAT A SEAT STATES IS READ FROM AKASHA, BY A MODULE STANDING IN IT. What is still reached outside
 # is a count of live children and a write of what the payload observed: subagents have no page here
 # yet, and a writer belongs with the other writers rather than forked off into this one.
-AKASHA=$(cd "$(dirname "${BASH_SOURCE[0]}")/../../.." && pwd -P)
+# Counting the levels up to akasha was wrong twice, because this file moved twice and the count
+# did not follow. Nothing said so: a seat reader at a path that is not there answers nothing, and
+# the line simply came out short. Walking up to the folder that holds the seats survives the move.
+AKASHA=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd -P)
+while [ "$AKASHA" != "/" ] && [ ! -d "$AKASHA/seat-system" ]; do
+  AKASHA=$(dirname "$AKASHA")
+done
+if [ ! -d "$AKASHA/seat-system" ]; then
+  printf 'statusline: no folder above this one holds seat-system\n' >&2
+  exit 1
+fi
 REPO=$(cd "$AKASHA/.." && pwd -P)
 BUN_BIN=$(command -v bun || echo "$HOME/.bun/bin/bun")
 SEAT_READER="$AKASHA/seat-system/seat-reading/seat-reading.module.code.ts"
