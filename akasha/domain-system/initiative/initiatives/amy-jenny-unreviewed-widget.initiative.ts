@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "29 -> 22 import @shared/pages-query; 7 gone (fb06db5f68, 7815e4ca02, 81ca07f77d, and mobile-cli by another lane at a86ab2b802). Decisive, at 971182ebd2: the cluster page store is socat onto this workstation's akasha service, answers for akasha's 71 page types alone, and refuses the {page-type:...} shape every caller sends. Nothing breaks because each web pod carries a full 380-type checkout that pages-query reads first. These 22 are served by that checkout rather than by the store.",
+        "Alan: no code may name a specific readout, none may read the old .md readouts. Root cause: RingScale and the tile body are declared inside monarch-unreviewed-transactions.readout.code.ts, so generic code imports one readout. Runtime answers markdown (slug `unreviewed`) while code asks the akasha slug, so none-left never resolves. imports-inside refuses any edit to readout-scale-reading until it drops @shared/pages-query, so type move and repoint land as one. Pod reaches akasha pages: 200.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
