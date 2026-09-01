@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "../store-reaching/store-reaching.module.code.ts"
+import { noNap } from "../store-reaching/store-reaching.module.test-fixtures.ts"
 import {
   askNamed,
   askNaming,
@@ -10,8 +11,6 @@ import {
 } from "./store-page-asking.module.code.ts"
 
 const LIVE_ORIGIN = "http://127.0.0.1:8787"
-
-const noNap = async () => undefined
 
 function answering(each: readonly (readonly Record<string, unknown>[])[]): Fetcher {
   let round = 0

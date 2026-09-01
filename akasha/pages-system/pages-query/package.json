@@ -7,6 +7,7 @@
     "./ask": "./store-page-asking/store-page-asking.module.code.ts",
     "./answer-schema": "./store-questioning/store-questioning.module.code.ts",
     "./fetcher": "./store-reaching/store-reaching.module.code.ts",
+    "./fetcher/testing": "./store-reaching/store-reaching.module.test-fixtures.ts",
     "./where-testing": "./where-testing/where-testing.module.code.ts"
   }
 }

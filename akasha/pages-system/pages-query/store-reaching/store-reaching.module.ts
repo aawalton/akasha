@@ -7,6 +7,7 @@ export const storeReaching = {
   definition: "where the page store stands, and the POST that carries a body to it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

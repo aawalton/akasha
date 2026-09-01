@@ -10,8 +10,7 @@ import {
   postingTo,
   worthRetrying,
 } from "./store-reaching.module.code.ts"
-
-const noNap = async () => undefined
+import { noNap } from "./store-reaching.module.test-fixtures.ts"
 
 function answering(status: number, body: unknown): Fetcher {
   return async () =>

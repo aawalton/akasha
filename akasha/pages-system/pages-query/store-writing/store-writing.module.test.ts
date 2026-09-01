@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "../store-reaching/store-reaching.module.code.ts"
+import { noNap } from "../store-reaching/store-reaching.module.test-fixtures.ts"
 import {
   askNamed,
   askTaking,
@@ -21,8 +22,6 @@ import {
 } from "./store-writing.module.code.ts"
 
 const WRITER = "Amy <amy@alanwalton.com>"
-
-const noNap = async () => undefined
 
 type Sent = { url: string; body: Record<string, unknown> }
 
