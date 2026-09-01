@@ -16,7 +16,7 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement:
-        "A name not saying its page type costs one read for each page type it could be rather than a walk of the pages.",
+        "A name saying no page type costs one read for each page type the name might be filed under.",
     },
     {
       invariantKind: "departure",

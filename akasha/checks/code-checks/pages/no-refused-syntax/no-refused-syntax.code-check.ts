@@ -25,7 +25,7 @@ export const noRefusedSyntax = {
     {
       invariantKind: "departure",
       statement:
-        "A change rewriting a rule's code is refused rather than judged by the body standing before the change.",
+        "A change rewriting a rule's code is refused rather than judged by the body before the change.",
     },
     {
       invariantKind: "departure",

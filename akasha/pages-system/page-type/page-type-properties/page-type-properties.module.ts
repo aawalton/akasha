@@ -24,12 +24,12 @@ export const pageTypeProperties = {
     {
       invariantKind: "departure",
       statement:
-        "A property is keyed by what its own page states rather than by the slug the declaration reaches the property with.",
+        "A property is keyed by what its own page states rather than by the slug the declaration names.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A declaration reaching no page property is left out rather than keyed by the name the declaration states.",
+        "A declaration reaching no page property is left out rather than keyed by the declaration's name.",
     },
     {
       invariantKind: "departure",

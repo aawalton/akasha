@@ -36,7 +36,7 @@ export const ascClient = {
     {
       invariantKind: "constraint",
       statement:
-        "the App Store Connect .p8 private key is read from the workstation home directory rather than from this code",
+        "the .p8 private key is read from the workstation home directory rather than from this code",
     },
     {
       invariantKind: "departure",

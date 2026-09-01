@@ -39,8 +39,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test reaching for this can tell it already stands inside a run and stops rather than starting another.",
+      statement: "A test reaching for this stops where the mark says a run is already going.",
     },
     {
       invariantKind: "departure",

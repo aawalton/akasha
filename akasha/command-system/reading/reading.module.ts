@@ -60,7 +60,7 @@ export const reading = {
     {
       invariantKind: "departure",
       statement:
-        "A mechanical change carries a reading of what it changed onto the body it left and to the path it left it at.",
+        "A mechanical change carries a reading of what changed onto the body and path the change left.",
     },
     {
       invariantKind: "departure",

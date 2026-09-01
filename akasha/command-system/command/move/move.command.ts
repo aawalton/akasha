@@ -144,7 +144,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "The bodies a move carries and repoints are read from the commit the move sits on rather than from the working tree.",
+        "The bodies a move carries and repoints are read from the base commit rather than the working tree.",
     },
     {
       invariantKind: "departure",

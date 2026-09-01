@@ -18,7 +18,7 @@ export const pattern = {
     {
       invariantKind: "departure",
       statement:
-        "A pattern is matched against a copy of the added text split at its camelCase seams as well as against the added text.",
+        "A pattern is matched against the added text as well as against a copy split at its camelCase seams.",
     },
     {
       invariantKind: "departure",
