@@ -35,7 +35,11 @@ export const indexAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "What is bound here is the reading and the root and the reader of page bodies.",
+      statement: "The root is bound here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing more is bound here.",
     },
     {
       invariantKind: "departure",
