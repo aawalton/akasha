@@ -1,6 +1,7 @@
 import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
+import { ran as running } from "@akasha/utils-run/running"
 import {
   carries,
   type Plan,
@@ -61,13 +62,8 @@ export function buildTargetOf(plan: Plan): BuildTarget | null {
 }
 
 export function runGit(root: string, argv: readonly string[]): Ran {
-  const ran = Bun.spawnSync([GIT, "-C", root, ...argv], { stdout: "pipe", stderr: "pipe" })
-  return {
-    argv: [GIT, ...argv],
-    code: ran.exitCode,
-    stdout: new TextDecoder().decode(ran.stdout),
-    stderr: new TextDecoder().decode(ran.stderr),
-  }
+  const done = running([GIT, "-C", root, ...argv])
+  return { argv: [GIT, ...argv], code: done.code, stdout: done.out, stderr: done.err }
 }
 
 export function saidBy(ran: Ran): string {
@@ -97,13 +93,8 @@ export function pushToOrigin(root: string, sha: string): Ran {
 }
 
 export function ranOf(argv: readonly string[], at: string): Ran {
-  const ran = Bun.spawnSync([...argv], { cwd: at, stdout: "pipe", stderr: "pipe" })
-  return {
-    argv: [...argv],
-    code: ran.exitCode,
-    stdout: new TextDecoder().decode(ran.stdout),
-    stderr: new TextDecoder().decode(ran.stderr),
-  }
+  const done = running([...argv], { cwd: at })
+  return { argv: [...argv], code: done.code, stdout: done.out, stderr: done.err }
 }
 
 export function unfoundIn(said: string): string | null {
