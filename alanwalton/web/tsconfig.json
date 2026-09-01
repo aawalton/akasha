@@ -86,9 +86,6 @@
       "path": "../../shared/utils-sync"
     },
     {
-      "path": "../../shared/web-build-sha"
-    },
-    {
       "path": "../../shared/utils-test"
     },
     {

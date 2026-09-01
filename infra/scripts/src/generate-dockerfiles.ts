@@ -3,7 +3,7 @@
 import { existsSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { assertNever } from "../../../shared/utils-narrow/src/assert-never"
-import { listWorkspaceDirs } from "@shared/workspace-paths"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { generateBunServiceDockerfile } from "./generate-dockerfiles-bun"
 import { buildPackageNameMap, discoverWorkflowFiles, readJson } from "./generate-dockerfiles-deps"
 import { generateNextjsDockerfile } from "./generate-dockerfiles-nextjs"

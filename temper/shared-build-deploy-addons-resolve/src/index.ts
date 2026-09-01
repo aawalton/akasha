@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import { listWorkspaceDirs } from "@shared/workspace-paths"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { computeWorkspaceClosure, loadWorkspaceCatalog, repoRelOf } from "./closure"
 import { addonManifestSchema } from "./manifest"
 

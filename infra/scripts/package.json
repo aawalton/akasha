@@ -20,7 +20,7 @@
     "@shared/supabase-server": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@shared/verdict": "workspace:*",
-    "@shared/workspace-paths": "workspace:*",
+    "@akasha/workspace-paths": "workspace:*",
     "typescript": "^5.8.3",
     "zod": "^4.3.6"
   }

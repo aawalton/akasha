@@ -49,9 +49,6 @@
     },
     {
       "path": "../object-store"
-    },
-    {
-      "path": "../web-build-sha"
     }
   ]
 }

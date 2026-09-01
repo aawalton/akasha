@@ -86,9 +86,6 @@
       "path": "../../shared/utils-test"
     },
     {
-      "path": "../../shared/web-build-sha"
-    },
-    {
       "path": "../game-characters"
     },
     {

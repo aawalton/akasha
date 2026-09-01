@@ -10,8 +10,7 @@
     ]
   },
   "references": [
-    { "path": "../../shared/utils-narrow" },
-    { "path": "../../shared/workspace-paths" }
+    { "path": "../../shared/utils-narrow" }
   ],
   "include": [
     "src/**/*.ts"

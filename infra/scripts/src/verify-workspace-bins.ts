@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
-import { expectedWorkspaceBinNames, findMissingBins } from "@shared/workspace-paths"
+import { expectedWorkspaceBinNames, findMissingBins } from "@akasha/workspace-paths/workspace-bins"
 import { codeRoot } from "../../../tools/lib/code-root.ts"
 
 function main(): never {

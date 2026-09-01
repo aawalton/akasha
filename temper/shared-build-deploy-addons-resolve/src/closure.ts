@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join, relative, sep } from "node:path"
-import { listWorkspaceDirs } from "@shared/workspace-paths"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { z } from "zod"
 
 const WORKSPACE_PROTOCOL_PREFIX = "workspace:"

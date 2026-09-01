@@ -1,5 +1,5 @@
 import { posix } from "node:path"
-import { listWorkspaceDirs } from "@shared/workspace-paths"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { z } from "zod"
 import { listFiles, readText, writeText } from "./fs.ts"
 import type { Logger } from "./logger.ts"

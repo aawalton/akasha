@@ -39,7 +39,7 @@
     "@shared/supabase-rr": "workspace:*",
     "@shared/supabase-server": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
-    "@shared/web-build-sha": "workspace:*",
+    "@akasha/web-build-sha": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",

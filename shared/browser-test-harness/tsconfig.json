@@ -21,9 +21,6 @@
   ],
   "references": [
     {
-      "path": "../browser-launch-env"
-    },
-    {
       "path": "../supabase-auth"
     },
     {

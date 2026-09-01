@@ -1,4 +1,4 @@
-import { isCoveredByWorkspaceGlob } from "@shared/workspace-paths"
+import { isCoveredByWorkspaceGlob } from "@akasha/workspace-paths/workspace-dirs"
 import { expectedPackageName } from "../../../../cluster-checks/src/checks/check-package-names.ts"
 
 export const FUNCTIONAL_TYPES = [

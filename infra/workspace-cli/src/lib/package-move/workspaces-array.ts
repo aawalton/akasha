@@ -1,4 +1,4 @@
-import { isCoveredByWorkspaceGlob } from "@shared/workspace-paths"
+import { isCoveredByWorkspaceGlob } from "@akasha/workspace-paths/workspace-dirs"
 
 export function computeWorkspacesAfterMove(
   workspaces: readonly string[],

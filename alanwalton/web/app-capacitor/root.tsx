@@ -8,7 +8,7 @@ import { reportError, setErrorReportOrigin, setReleaseSha } from "@shared/errors
 import { useReportRenderError } from "@shared/errors-client/use-report-render-error"
 import { PagesUICapabilityHosts } from "@akasha/pages-ui/capabilities/capability-hosts"
 import { configureLocalPositionReader } from "@shared/pages-ui/components/local-position-port"
-import { parseBuildSha } from "@shared/web-build-sha/sha"
+import { parseBuildSha } from "@akasha/web-build-sha/build-sha"
 import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
 import { configureContentPersistence, configurePagesPersistence, configurePagesStoreFetch } from "@akasha/pages-ui-store/singleton"
 import { type ReactNode, useEffect } from "react"

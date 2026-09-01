@@ -2,7 +2,7 @@
   "name": "@temper/shared-build-deploy-addons-resolve",
   "dependencies": {
     "@shared/utils-narrow": "workspace:*",
-    "@shared/workspace-paths": "workspace:*",
+    "@akasha/workspace-paths": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

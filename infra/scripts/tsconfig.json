@@ -30,9 +30,6 @@
       "path": "../../shared/utils-narrow"
     },
     {
-      "path": "../../shared/workspace-paths"
-    },
-    {
       "path": "../k8s"
     }
   ]

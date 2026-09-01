@@ -81,7 +81,7 @@ export function validateWorkspacesAgainstSeam(
           {
             message:
               `root package.json#workspaces entry "${entry}" is not parseable by the ` +
-              "deployed-main @shared/workspace-paths seam — this exact shape would crash " +
+              "deployed-main @akasha/workspace-paths seam — this exact shape would crash " +
               "merge-queue advance-forming (the failure that wedged a fleet-wide batch). " +
               `Seam error: ${detail}. Fix via expand-contract: land the seam grammar ` +
               "extension on main FIRST, then use the new workspaces shape in a later change.",

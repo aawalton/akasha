@@ -36,9 +36,6 @@
       "path": "../../shared/worker-runtime"
     },
     {
-      "path": "../../shared/workspace-paths"
-    },
-    {
       "path": "../../temper/shared-build-deploy-addons-resolve"
     },
     {

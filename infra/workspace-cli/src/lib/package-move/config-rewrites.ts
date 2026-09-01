@@ -1,6 +1,6 @@
 import { readdirSync } from "node:fs"
 import { join } from "node:path"
-import { listWorkspaceDirs } from "@shared/workspace-paths"
+import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 import { exists, listFiles, readText, writeText } from "./fs"
 import type { Logger } from "./logger"
 import { applyPathRename } from "./rename-primitives"

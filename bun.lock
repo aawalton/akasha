@@ -378,11 +378,11 @@
     "akasha/pages-system/pages-access": {
       "name": "@akasha/pages-access",
       "dependencies": {
+        "@akasha/named-for": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-system": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@shared/file-page-identity": "workspace:*",
-        "@shared/named-for": "workspace:*",
         "@shared/pages-query": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -1531,14 +1531,6 @@
     },
     "shared/file-page-identity": {
       "name": "@shared/file-page-identity",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "shared/named-for": {
-      "name": "@shared/named-for",
       "version": "0.1.0",
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -4659,8 +4651,6 @@
     "@shared/errors-core": ["@shared/errors-core@workspace:shared/errors-core"],
 
     "@shared/file-page-identity": ["@shared/file-page-identity@workspace:shared/file-page-identity"],
-
-    "@shared/named-for": ["@shared/named-for@workspace:shared/named-for"],
 
     "@shared/notifications": ["@shared/notifications@workspace:shared/notifications"],
 

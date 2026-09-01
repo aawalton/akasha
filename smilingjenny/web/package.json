@@ -25,7 +25,7 @@
     "@shared/status-bar-access": "workspace:*",
     "@shared/supabase-rr": "workspace:*",
     "@shared/supabase-server": "workspace:*",
-    "@shared/web-build-sha": "workspace:*",
+    "@akasha/web-build-sha": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",
     "isbot": "^5.1.36",
