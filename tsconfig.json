@@ -40,9 +40,6 @@
       "path": "./shared/design-tokens"
     },
     {
-      "path": "./shared/geo-io"
-    },
-    {
       "path": "./temper/shared-formula-framework"
     },
     {

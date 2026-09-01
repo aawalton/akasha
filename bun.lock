@@ -284,6 +284,12 @@
     "akasha/file-system": {
       "name": "@akasha/file-system",
     },
+    "akasha/geo-io": {
+      "name": "@akasha/geo-io",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/google-oauth": {
       "name": "@akasha/google-oauth",
       "dependencies": {
@@ -509,6 +515,7 @@
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/geo-io": "workspace:*",
         "@akasha/location-traces-access": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -523,7 +530,6 @@
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
-        "@shared/geo-io": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
@@ -1487,15 +1493,6 @@
       "devDependencies": {
         "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
-      },
-    },
-    "shared/geo-io": {
-      "name": "@shared/geo-io",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
       },
     },
     "shared/named-for": {
@@ -4016,6 +4013,8 @@
 
     "@akasha/file-system": ["@akasha/file-system@workspace:akasha/file-system"],
 
+    "@akasha/geo-io": ["@akasha/geo-io@workspace:akasha/geo-io"],
+
     "@akasha/google-oauth": ["@akasha/google-oauth@workspace:akasha/google-oauth"],
 
     "@akasha/graph-system": ["@akasha/graph-system@workspace:akasha/graph-system"],
@@ -4647,8 +4646,6 @@
     "@shared/errors-core": ["@shared/errors-core@workspace:shared/errors-core"],
 
     "@shared/file-page-identity": ["@shared/file-page-identity@workspace:shared/file-page-identity"],
-
-    "@shared/geo-io": ["@shared/geo-io@workspace:shared/geo-io"],
 
     "@shared/named-for": ["@shared/named-for@workspace:shared/named-for"],
 

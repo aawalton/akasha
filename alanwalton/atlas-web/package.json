@@ -26,7 +26,7 @@
     "@shared/design-system": "workspace:*",
     "@shared/errors-client": "workspace:*",
     "@shared/errors-core": "workspace:*",
-    "@shared/geo-io": "workspace:*",
+    "@akasha/geo-io": "workspace:*",
     "@shared/object-store": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",

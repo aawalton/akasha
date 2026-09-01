@@ -1,4 +1,4 @@
-import { buildGeoapifyAutocompleteUrl } from "@shared/geo-io/geoapify"
+import { buildGeoapifyAutocompleteUrl } from "@akasha/geo-io/geoapify"
 import { z } from "zod"
 import type { PlaceCandidate } from "./place-candidate"
 
