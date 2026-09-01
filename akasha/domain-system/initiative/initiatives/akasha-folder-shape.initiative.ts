@@ -9,11 +9,15 @@ export const akashaFolderShape = {
   parentSlug: "akasha-migration",
   intents: [
     {
+      statement: "Renaming a workspace package is a single safe akasha refactor.",
+      workingMemory:
+        "`akasha refactor` carries `rename page-type`, `rename property-slug` and `rename token`, and no `rename package`. A rename touches the package's own manifest name, the dependency entries naming it elsewhere, and every specifier spelling it. Over 91 packages the middle one is 12 files and the widest is 923. Much of that sits outside akasha, where the index does not reach, so those places are named rather than changed. `refactor.command.code.ts` has 315 bytes free, so the act wants its own part.",
+    },
+    {
       statement: "The akasha subfolder has a clean folder shape.",
       workingMemory:
         "Two folders named `supabase` hold no supabase code. `akasha/pages-system/pages-ui/supabase` is 30 files of page and view shaping, reached by 15 `./supabase/*` export keys. `shared/pages-ui/src/supabase` is 26 files outside akasha whose only supabase reach is one auth call. Renaming either folder repoints its export targets already, but the export keys and the importers naming them wait on package renaming. Alan says the shape before it is written into the check.",
     },
     { statement: "The folder-matches-a-shape check judges a folder holding no file of its own." },
-    { statement: "Renaming a workspace package is a single safe akasha move." },
   ],
 } as const satisfies Initiative
