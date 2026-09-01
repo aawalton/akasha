@@ -145,17 +145,17 @@ export function bindingFor(
   textOf: (path: string) => string | null
 ): Made {
   const typing = typingOver(root, over.typed, readingOf(root, textOf))
-  const stood = standingFor(typing, one)
-  if ("refused" in stood) return { refused: stood.refused }
+  const target = standingFor(typing, one)
+  if ("refused" in target) return { refused: target.refused }
   if (carriesAlready(typing, one.path, one.now)) {
     return { refused: `${one.path} already carries \`${one.now}\`` }
   }
-  const places = stood.key
-    ? namingOf(typing, root, stood.nodes)
-    : referencesOf(typing, root, stood.nodes)
+  const places = target.key
+    ? namingOf(typing, root, target.nodes)
+    : referencesOf(typing, root, target.nodes)
   const held = new Map<string, (readonly [Spot, string])[]>()
   for (const found of places) {
-    const said = stood.key ? spelledAs(found, one.was, one.now) : boundAs(found, one.was, one.now)
+    const said = target.key ? spelledAs(found, one.was, one.now) : boundAs(found, one.was, one.now)
     const at = held.get(found.path) ?? []
     at.push([{ start: found.start, end: found.end }, said])
     held.set(found.path, at)
