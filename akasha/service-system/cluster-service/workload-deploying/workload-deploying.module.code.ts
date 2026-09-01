@@ -9,7 +9,7 @@ const GENERATED_SUFFIX = ".generated.yaml"
 const NAMESPACE_KIND = "Namespace"
 const ROLLED_OUT: ReadonlySet<string> = new Set(["Deployment", "StatefulSet", "DaemonSet"])
 const ROLLOUT_WAIT = "5m"
-const STANDING_WAIT = "1s"
+const ASKING_WAIT = "1s"
 const KIND_AT = "kind:"
 const METADATA_AT = "metadata:"
 const NAME_AT = "name:"
@@ -185,7 +185,7 @@ export function upAlready(workload: Workload): boolean {
         "-n",
         workload.namespace,
         "--timeout",
-        STANDING_WAIT,
+        ASKING_WAIT,
       ]).code === 0
     )
   }
