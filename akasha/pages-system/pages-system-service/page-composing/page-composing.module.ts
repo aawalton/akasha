@@ -54,6 +54,14 @@ export const pageComposing = {
       statement: "A value under a property the page type declares secret is refused.",
     },
     {
+      invariantKind: "departure",
+      statement: "Several pages compose into what one write puts and what it keeps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One page refused refuses the whole list.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a file.",
     },

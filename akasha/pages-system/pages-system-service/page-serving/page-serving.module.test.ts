@@ -7,6 +7,7 @@ import type { Asked, Wrote } from "../page-writing/page-writing.module.code.ts"
 import {
   ASK_AT,
   answering,
+  foldedInto,
   queryIn,
   READ_AT,
   readIn,
@@ -324,4 +325,62 @@ test("a write stating what it read as something other than a string is refused",
     read: 7,
   })
   expect("refused" in read && read.refused).toContain("`read`")
+})
+
+const AN_INSTANT = "2026-09-01T12:00:00.000Z"
+
+const A_DEVICE_TOKEN = {
+  pageTypeSlug: "device-token",
+  slug: "held-one",
+  values: {
+    id: "01a05dc7-421c-7000-b93a-ac4514adf294",
+    pageTypeSlug: "device-token",
+    slug: "held-one",
+    personSlug: "alan",
+    iosAppSlug: "alanwalton",
+    lastSeenAt: AN_INSTANT,
+  },
+}
+
+function writing(body: Record<string, unknown>): Request {
+  return asking({ writer: "Amy <amy@alanwalton.com>", message: "a message", ...body }, WRITE_AT)
+}
+
+test("a write may carry pages rather than bodies", async () => {
+  const answered = await answering(GIVEN, writing({ pages: [A_DEVICE_TOKEN] }))
+  expect(answered.status).toBe(200)
+  const told = TOLD[TOLD.length - 1]
+  expect(told?.puts?.[0]?.path).toBe(
+    "akasha/person-system/device-token/device-tokens/held-one.device-token.ts"
+  )
+})
+
+test("which values a page carried commit is read from its page type", async () => {
+  await answering(GIVEN, writing({ pages: [A_DEVICE_TOKEN] }))
+  const told = TOLD[TOLD.length - 1]
+  expect(told?.puts?.[0]?.content).not.toContain("lastSeenAt")
+  expect(told?.kept?.[0]?.values.lastSeenAt).toBe(AN_INSTANT)
+})
+
+test("a page handing over no values is refused", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one" }],
+  })
+  expect("refused" in read && read.refused).toContain("values")
+})
+
+test("a page naming a page type nothing holds refuses the write", async () => {
+  const answered = await answering(
+    GIVEN,
+    writing({ pages: [{ pageTypeSlug: "nothing-at-all", slug: "one", values: {} }] })
+  )
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("no page type")
+})
+
+test("a write carrying no page is handed on as it arrived", () => {
+  const asked = { writer: "Amy <amy@alanwalton.com>", message: "a message" }
+  expect(foldedInto(asked, [], [])).toBe(asked)
 })

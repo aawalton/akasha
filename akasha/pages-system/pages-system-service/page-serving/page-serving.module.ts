@@ -78,6 +78,22 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A write may carry pages rather than bodies.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a write carries is a page type and a slug and values.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a write carries is composed into a body before the write is handed on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page that will not compose refuses the write.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An answer to a write names the commit it landed as.",
     },
     {

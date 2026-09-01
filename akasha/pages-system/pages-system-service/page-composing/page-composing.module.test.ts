@@ -1,6 +1,24 @@
 import { expect, test } from "bun:test"
+import { join } from "node:path"
 import type { Carried } from "@akasha/pages-system/page-type-properties"
-import { orderedIn, pathFor } from "./page-composing.module.code.ts"
+import { foldedFor, orderedIn, pathFor } from "./page-composing.module.code.ts"
+
+const ROOT = join(import.meta.dir, "..", "..", "..", "..")
+
+const AN_INSTANT = "2026-09-01T12:00:00.000Z"
+
+const A_DEVICE_TOKEN = {
+  pageTypeSlug: "device-token",
+  slug: "held-one",
+  values: {
+    id: "01a05dc7-421c-7000-b93a-ac4514adf294",
+    pageTypeSlug: "device-token",
+    slug: "held-one",
+    personSlug: "alan",
+    iosAppSlug: "alanwalton",
+    lastSeenAt: AN_INSTANT,
+  },
+}
 
 function carrying(key: string, declaredBy: string): Carried {
   return {
@@ -41,4 +59,33 @@ test("a page the index does not hold is placed under its type's folder by the pl
     "one"
   )
   expect(said).toBe("akasha/person-system/device-token/device-tokens/one.device-token.ts")
+})
+
+test("several pages compose into what one write puts and what it keeps", () => {
+  const said = foldedFor(ROOT, [A_DEVICE_TOKEN])
+  expect("puts" in said && said.puts.length).toBe(1)
+  expect("puts" in said && said.puts[0]?.path).toBe(
+    "akasha/person-system/device-token/device-tokens/held-one.device-token.ts"
+  )
+  expect("kept" in said && said.kept[0]?.values.lastSeenAt).toBe(AN_INSTANT)
+})
+
+test("a value the page type keeps outside the commit is written into no body", () => {
+  const said = foldedFor(ROOT, [A_DEVICE_TOKEN])
+  expect("puts" in said && said.puts[0]?.content).toContain("personSlug")
+  expect("puts" in said && said.puts[0]?.content).not.toContain("lastSeenAt")
+})
+
+test("one page refused refuses the whole list", () => {
+  const said = foldedFor(ROOT, [
+    A_DEVICE_TOKEN,
+    { pageTypeSlug: "device-token", slug: "held-two", values: { nowhere: "one" } },
+  ])
+  expect("refused" in said && said.refused).toContain("nowhere")
+})
+
+test("a list of no page composes into nothing put and nothing kept", () => {
+  const said = foldedFor(ROOT, [])
+  expect("puts" in said && said.puts.length).toBe(0)
+  expect("kept" in said && said.kept.length).toBe(0)
 })

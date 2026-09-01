@@ -1,10 +1,11 @@
 import { asking, type Query, TESTS_RUN, type Test } from "../page-asking/page-asking.module.code.ts"
+import { foldedFor, type Naming } from "../page-composing/page-composing.module.code.ts"
 import {
   type Named,
   reading,
   type Asked as Sought,
 } from "../page-reading/page-reading.module.code.ts"
-import type { Asked, Put, Writer } from "../page-writing/page-writing.module.code.ts"
+import type { Asked, Kept, Put, Writer } from "../page-writing/page-writing.module.code.ts"
 
 export const ASK_AT = "/ask"
 
@@ -154,7 +155,26 @@ export function readIn(given: unknown): Found {
   return { asked }
 }
 
-export type Written = { readonly asked: Asked } | { readonly refused: string }
+export type Written =
+  | { readonly asked: Asked; readonly pages: readonly Naming[] }
+  | { readonly refused: string }
+
+function namingsIn(given: unknown): readonly Naming[] | string {
+  if (!Array.isArray(given)) return "`pages` is a list"
+  const pages: Naming[] = []
+  for (const one of given) {
+    const page = objectIn(one)
+    if (page === null) return "`pages` holds JSON objects"
+    if (typeof page.pageTypeSlug !== "string") {
+      return "a page names its page type as `pageTypeSlug`"
+    }
+    if (typeof page.slug !== "string") return "a page names itself as `slug`"
+    const values = objectIn(page.values)
+    if (values === null) return "a page hands over its `values` as a JSON object"
+    pages.push({ pageTypeSlug: page.pageTypeSlug, slug: page.slug, values })
+  }
+  return pages
+}
 
 export function writeIn(given: unknown): Written {
   const held = objectIn(given)
@@ -195,7 +215,16 @@ export function writeIn(given: unknown): Written {
     }
     asked.read = held.read
   }
-  return { asked }
+  if (held.pages === undefined) return { asked, pages: [] }
+  const pages = namingsIn(held.pages)
+  if (typeof pages === "string") return { refused: pages }
+  return { asked, pages }
+}
+
+export function foldedInto(asked: Asked, puts: readonly Put[], kept: readonly Kept[]): Asked {
+  if (puts.length === 0 && kept.length === 0) return asked
+  const held: Asked = { ...asked, puts: [...(asked.puts ?? []), ...puts] }
+  return kept.length === 0 ? held : { ...held, kept }
 }
 
 async function bodyIn(request: Request): Promise<unknown> {
@@ -226,7 +255,9 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   if (at === WRITE_AT) {
     const read = writeIn(body)
     if ("refused" in read) return said({ refused: read.refused }, 400)
-    const wrote = await given.writer.writing(read.asked)
+    const folded = foldedFor(given.root, read.pages)
+    if ("refused" in folded) return said({ refused: folded.refused }, 400)
+    const wrote = await given.writer.writing(foldedInto(read.asked, folded.puts, folded.kept))
     if ("refused" in wrote) return said({ refused: wrote.refused }, 400)
     return said(wrote, 200)
   }

@@ -101,3 +101,19 @@ export function composedFor(root: string, named: Naming): Composed {
   const kept = Object.keys(outside).length === 0 ? null : { path: at, values: outside }
   return { put: { path: at, content }, kept }
 }
+
+export type Folded =
+  | { readonly puts: readonly Put[]; readonly kept: readonly Kept[] }
+  | { readonly refused: string }
+
+export function foldedFor(root: string, named: readonly Naming[]): Folded {
+  const puts: Put[] = []
+  const kept: Kept[] = []
+  for (const one of named) {
+    const composed = composedFor(root, one)
+    if ("refused" in composed) return { refused: composed.refused }
+    puts.push(composed.put)
+    if (composed.kept !== null) kept.push(composed.kept)
+  }
+  return { puts, kept }
+}
