@@ -352,8 +352,8 @@ export const ringAmong = (
   const open: string[] = []
   const shut = new Set<string>()
   const walk = (key: string): readonly string[] | null => {
-    const standing = open.indexOf(key)
-    if (standing !== -1) return open.slice(standing)
+    const at = open.indexOf(key)
+    if (at !== -1) return open.slice(at)
     if (shut.has(key)) return null
     const named = reads.get(key)
     if (named === undefined) return null
