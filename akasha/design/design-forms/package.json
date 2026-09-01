@@ -1,0 +1,25 @@
+{
+  "name": "@akasha/design-forms",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./calendar": "./calendar/calendar.module.code.tsx",
+    "./date-parser": "./date-parser/date-parser.module.code.ts",
+    "./editable-number": "./editable-number/editable-number.module.code.tsx",
+    "./field": "./field/field.module.code.tsx",
+    "./form": "./form/form.module.code.tsx",
+    "./format-time": "./format-time/format-time.module.code.ts",
+    "./inline-editable-number": "./inline-editable-number/inline-editable-number.module.code.tsx",
+    "./inline-editable-text": "./inline-editable-text/inline-editable-text.module.code.tsx",
+    "./input-group": "./input-group/input-group.module.code.tsx",
+    "./input-otp": "./input-otp/input-otp.module.code.tsx",
+    "./multi-select": "./multi-select/multi-select.module.code.tsx",
+    "./normalize-bare-numeric-time": "./normalize-bare-numeric-time/normalize-bare-numeric-time.module.code.ts",
+    "./search-multi-select": "./search-multi-select/search-multi-select.module.code.tsx"
+  },
+  "dependencies": {
+    "@shared/day": "workspace:*",
+    "chrono-node": "^2.9.0",
+    "zod": "^4.3.6"
+  }
+}
