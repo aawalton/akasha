@@ -41,8 +41,6 @@ export const amyJennyUnreviewedWidget = {
       workingMemory:
         "The pod runs 283599af2e and the pipe is whole on both sides: `READING_RELAY_SECRET` stands in Alan's sops and in Jenny's, and both relay routes answer 401 to an unauthenticated POST, checked by curl. What is left is the reading itself: `MONARCH_COOKIE` is dead, Monarch 401s, and only Alan at a browser can mint another. The tile is whole and both defects fixed: a cached reading carries when it was written and is let go at 45 minutes, and the yellow rung moved off zero. No Swift compiled here.",
     },
-    { statement: "Jenny's categorization route is in akasha." },
-    { statement: "The page describing Jenny's tile is in akasha." },
     {
       statement: "Jenny's site deploys from akasha.",
       workingMemory:
