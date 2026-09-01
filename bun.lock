@@ -393,6 +393,9 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/git": {
+      "name": "@akasha/git",
+    },
     "akasha/google-oauth": {
       "name": "@akasha/google-oauth",
       "dependencies": {
@@ -3729,6 +3732,8 @@
     "@akasha/file-system": ["@akasha/file-system@workspace:akasha/file-system"],
 
     "@akasha/geo-io": ["@akasha/geo-io@workspace:akasha/geo-io"],
+
+    "@akasha/git": ["@akasha/git@workspace:akasha/git"],
 
     "@akasha/google-oauth": ["@akasha/google-oauth@workspace:akasha/google-oauth"],
 
