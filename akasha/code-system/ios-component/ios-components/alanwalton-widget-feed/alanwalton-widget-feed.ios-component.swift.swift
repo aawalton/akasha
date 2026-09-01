@@ -20,16 +20,33 @@ protocol WidgetFeed {
 }
 
 enum LastKnownStore {
+    static let HELD_FOR: TimeInterval = 45 * 60
+
     private static func key(for endpoint: URL) -> String {
         "last-known" + endpoint.path
     }
 
-    static func write(_ body: Data, for endpoint: URL) {
-        UserDefaults.standard.set(body, forKey: key(for: endpoint))
+    private static func takenKey(for endpoint: URL) -> String {
+        "last-known-taken-at" + endpoint.path
     }
 
-    static func read(for endpoint: URL) -> Data? {
-        UserDefaults.standard.data(forKey: key(for: endpoint))
+    static func stillHeld(takenAt taken: TimeInterval, now: Date) -> Bool {
+        guard taken > 0 else { return false }
+        let age = now.timeIntervalSince1970 - taken
+        return age >= 0 && age < HELD_FOR
+    }
+
+    static func write(_ body: Data, for endpoint: URL, at moment: Date = Date()) {
+        UserDefaults.standard.set(body, forKey: key(for: endpoint))
+        UserDefaults.standard.set(moment.timeIntervalSince1970, forKey: takenKey(for: endpoint))
+    }
+
+    static func read(for endpoint: URL, now: Date = Date()) -> Data? {
+        let defaults = UserDefaults.standard
+        guard let body = defaults.data(forKey: key(for: endpoint)) else { return nil }
+        guard stillHeld(takenAt: defaults.double(forKey: takenKey(for: endpoint)), now: now)
+        else { return nil }
+        return body
     }
 }
 
