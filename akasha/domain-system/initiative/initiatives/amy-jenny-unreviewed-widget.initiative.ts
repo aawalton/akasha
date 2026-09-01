@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages reading and writing pages stand in akasha.",
       workingMemory:
-        "`@akasha/pages-access` and `@akasha/pages-core` stand, the first proven by 422 comparisons whose only 2 differences are a rename inside an error message. `pages-access-old` is cleared, and `@akasha/pages-url` stands. `@akasha/pages-ui` stands and takes slices: its cost is 291 slugs and definitions rather than its 296 files, and 98 of those import nothing else inside it. pages-system split; 42 of 52 files reach nothing, see finding. pages-query waits on the root page engine, see its finding.",
+        "`@akasha/pages-access`, `pages-core`, `pages-url`, `pages-ui-store`, `pages-formula` and the store half of `pages-query` all stand, the first proven by 422 comparisons. Two remain, both deferred on purpose with findings: `shared/pages-query` is the local-first router above the akasha one and waits on `tools/lib`, `page/` and `repo/` being packaged; `shared/pages-system` was split, and 42 of its 52 files are reached by nothing and stay outside. `pages-ui` is its own intent.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
