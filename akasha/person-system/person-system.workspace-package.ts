@@ -16,6 +16,7 @@ export const personSystem = {
     "module/device-secret-body",
     "module/device-secret-minting",
     "module/device-secret-standing",
+    "module/health-samples-body",
     "module/person-enrolment",
     "module/push-permission",
     "module/push-register-body",

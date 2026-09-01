@@ -6,6 +6,7 @@
     "./device-secret-body": "./device-secret-body/device-secret-body.module.code.ts",
     "./device-secret-minting": "./device-secret-minting/device-secret-minting.module.code.ts",
     "./device-secret-standing": "./device-secret-standing/device-secret-standing.module.code.ts",
+    "./health-samples-body": "./health-samples-body/health-samples-body.module.code.ts",
     "./phone": "./person/properties/phone.phone-number-property.ts",
     "./push-permission": "./push-permission/push-permission.module.code.ts",
     "./push-register-body": "./push-register-body/push-register-body.module.code.ts",
@@ -15,6 +16,7 @@
     "./sms-opt-in": "./sms-opt-in/sms-opt-in.module.code.tsx"
   },
   "dependencies": {
+    "@alanwalton/health-samples-access": "workspace:*",
     "@shared/pages-url": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
