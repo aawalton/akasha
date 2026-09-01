@@ -25,7 +25,7 @@ export const domain = {
     "text-property/aids",
     "text-property/definition",
     "text-property/name",
-    "text-property/statement",
+    "text-property/invariant-statement",
     "text-property/warrant",
   ],
   pageTypeSlug: "page-type",
