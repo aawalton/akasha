@@ -18,7 +18,6 @@ export const emailGoogle = {
     "module/gmail-attachments",
     "module/gmail-history",
     "module/list-unsubscribe",
-    "module/persona-email-channels",
     "module/gmail-inbound-adapter",
   ],
   invariants: [

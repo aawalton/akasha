@@ -14,7 +14,6 @@
     "./attachments": "./gmail-attachments/gmail-attachments.module.code.ts",
     "./history": "./gmail-history/gmail-history.module.code.ts",
     "./unsubscribe": "./list-unsubscribe/list-unsubscribe.module.code.ts",
-    "./agent-channels": "./persona-email-channels/persona-email-channels.module.code.ts",
     "./inbound-adapter": "./gmail-inbound-adapter/gmail-inbound-adapter.module.code.ts"
   },
   "dependencies": {
@@ -22,7 +21,6 @@
     "@akasha/google-oauth": "workspace:*",
     "@googleapis/gmail": "^17.0.0",
     "@akasha/errors-core": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }

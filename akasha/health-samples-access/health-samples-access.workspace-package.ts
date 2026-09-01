@@ -11,7 +11,6 @@ export const healthSamplesAccess = {
     "module/sample-identity",
     "module/sample-rows",
     "module/sample-selecting",
-    "module/latest-arrival",
     "module/sample-upsert",
   ],
   invariants: [
