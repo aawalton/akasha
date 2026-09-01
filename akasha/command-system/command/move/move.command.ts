@@ -10,7 +10,7 @@ export const move = {
   test: "ts",
   testFixtures: "ts",
   mechanical: true,
-  partSlugs: ["module/move-renaming", "module/move-repointing"],
+  partSlugs: ["module/move-renaming", "module/move-repointing", "module/move-spreading"],
   taking: [
     { said: "--from <path>", takes: "the path a body stands at now" },
     { said: "--to <path>", takes: "the path it arrives at" },
@@ -24,6 +24,7 @@ export const move = {
     "a page's own file arriving called something else renames the slug the page states.",
     "what addresses a renamed page by its slug is repointed in the same commit.",
     "the files standing beside what you name go with it.",
+    "a folder you name carries every file git holds under it, each keeping its place beneath it.",
     "the files naming what moves are repointed in the same commit.",
     "a value beside a renamed page named for its old slug is renamed with it.",
     "a path is read against the repository root, wherever the call was made.",
@@ -40,6 +41,31 @@ export const move = {
     {
       invariantKind: "departure",
       statement: "A page's sidecars go with it without being named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path naming a folder carries every file git holds under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under a folder that moves keeps the place it had beneath it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder arrives at the path it names rather than inside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder git holds no file under is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder holding a file git does not track is refused rather than moved without it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder a move leaves empty is cleared on disk.",
     },
     {
       invariantKind: "departure",

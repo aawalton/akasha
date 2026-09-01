@@ -19,6 +19,7 @@ import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
+import { pruneEmptied, wouldEmpty } from "../remove/remove.command.code.ts"
 import {
   glassIn,
   MESSAGE,
@@ -36,6 +37,8 @@ import {
   restated,
 } from "./move-renaming/move-renaming.module.code.ts"
 import { repointed } from "./move-repointing/move-repointing.module.code.ts"
+import type { Pair, Spread } from "./move-spreading/move-spreading.module.code.ts"
+import { expandedIn, spreadSaid } from "./move-spreading/move-spreading.module.code.ts"
 
 const AKASHA = "akasha"
 
@@ -54,11 +57,6 @@ const BARE = [DRY_RUN]
 const OUTSIDE_INDEX =
   `the index carries \`${INSIDE}\` alone, so a file outside it importing what moved stands ` +
   "unrepointed and was not looked for"
-
-export type Pair = {
-  readonly from: string
-  readonly to: string
-}
 
 export type Read =
   | { readonly pairs: readonly Pair[]; readonly dryRun: boolean }
@@ -273,8 +271,15 @@ function sidedIn(
   return { sides }
 }
 
-function carrying(sides: readonly Sided[], reached: Reached, dry: boolean): readonly string[] {
-  const report = sides
+function carrying(
+  sides: readonly Sided[],
+  reached: Reached,
+  dry: boolean,
+  spread: Spread,
+  pruned: readonly string[]
+): readonly string[] {
+  const own = sides.filter((one) => !spread.under.has(one.from))
+  const report = own
     .filter((one) => one.named)
     .map((one) => {
       const said = `${one.from} ${dry ? "would move to" : "moved to"} ${one.to}`
@@ -282,7 +287,7 @@ function carrying(sides: readonly Sided[], reached: Reached, dry: boolean): read
       const now = one.renaming.now
       return `${said}, ${dry ? "renaming" : "renamed"} from the slug \`${one.renaming.was}\` to \`${now}\``
     })
-  const beside = sides.filter((one) => !one.named)
+  const beside = own.filter((one) => !one.named)
   if (beside.length > 0) {
     const said = beside.map((one) => `${one.from} to ${one.to}`).join(", ")
     report.push(
@@ -291,6 +296,7 @@ function carrying(sides: readonly Sided[], reached: Reached, dry: boolean): read
         : `these stood beside what you named and went with it — ${said}`
     )
   }
+  report.push(...spreadSaid(spread, sides.length - own.length, pruned, dry))
   if (reached.repointed.length === 0) {
     report.push("no file naming what moved needed repointing")
   } else {
@@ -316,8 +322,11 @@ export function move(argv: readonly string[], given: Given): Answer {
   if ("refusals" in said) return answering([], said.refusals, 1)
   const root = resolve(given.root)
   const base = baseOf(root)
-  const sided = sidedIn(root, read.pairs)
+  const spread = expandedIn(root, read.pairs)
+  if ("refusals" in spread) return answering([], spread.refusals, 1)
+  const sided = sidedIn(root, spread.pairs)
   if ("refusals" in sided) return answering([], sided.refusals, 1)
+  const gone = sided.sides.map((one) => one.from)
   const moved = new Map<string, string>(sided.sides.map((one) => [one.from, one.to]))
   const bodyText = (path: string): string | null => {
     const bytes = bodyAt(root, base, path)
@@ -422,10 +431,11 @@ export function move(argv: readonly string[], given: Given): Answer {
     unmoved: [],
     read: base,
     carries: uncommitted,
-    saying: () => carrying(sided.sides, reached, false),
+    saying: () => carrying(sided.sides, reached, false, spread, pruneEmptied(root, gone)),
   }
   const landed = landingAsked({ ...given, root }, asked)
   if (landed.code === 0 && !read.dryRun) carryReadings(root, carries)
   if (landed.code !== 0 || !read.dryRun) return landed
-  return answering([...carrying(sided.sides, reached, true), ...landed.report], [], 0)
+  const would = carrying(sided.sides, reached, true, spread, wouldEmpty(root, gone))
+  return answering([...would, ...landed.report], [], 0)
 }

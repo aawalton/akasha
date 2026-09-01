@@ -238,6 +238,30 @@ export const BETA = "akasha/six/beta.thing.ts"
 
 export const SLUG_RENAME = ["--from", THING, "--to", THING_AT]
 
+export const FOLDER = "akasha/one"
+
+export const FOLDER_AT = "akasha/far/one"
+
+export const FOLDER_PAIR = ["--from", FOLDER, "--to", FOLDER_AT]
+
+export const HELD_AT = "akasha/far/one/held.module.ts"
+
+export const HOLDER_AT = "akasha/far/one/held.module.code.ts"
+
+export const NESTED_HELD = "akasha/one/under/nested.module.code.ts"
+
+export const NESTED_AT = "akasha/far/one/under/nested.module.code.ts"
+
+export const LOOSE = "akasha/one/loose.module.ts"
+
+export function folderWorld(): string {
+  return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [NESTED_HELD]: OTHER, [TARGET]: OTHER }))
+}
+
+export function bareDir(root: string, path: string): undefined {
+  mkdirSync(join(root, path), { recursive: true })
+}
+
 const CHECKS_AT = join(import.meta.dir, "../../../checks-system/code-check")
 
 const idOf = (said: string): string => `01a04bed-1450-7000-8000-0000000000${said}`
