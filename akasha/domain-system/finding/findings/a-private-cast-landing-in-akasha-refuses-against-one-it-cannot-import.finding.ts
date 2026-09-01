@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aPrivateCastLandingInAkashaRefusesAgainstOneItCannotImport = {
+  id: "01a05cc3-34bc-79e3-84aa-461717f2cdd3",
+  pageTypeSlug: "finding",
+  slug: "a-private-cast-landing-in-akasha-refuses-against-one-it-cannot-import",
+  domainSlug: "domain/akasha-check",
+  claim:
+    "A file landing in akasha carries its private cast helpers in with it, and each one that matches a private helper already standing raises a `no-rule-in-two-files` refusal that no importer can answer, because the file it matches does not export the name and its package does not name that module.",
+  evidence:
+    "Landing 45 `shared/pages-ui` leaves raised the `no-rule-in-two-files` count from 4 to 7. Three pairs are new, and all three are one-line casts:\\n\\n`asJson` in `pages-ui/supabase/mutations/build-patch-plan` and again in `.../collection-lookup` against `asJson` in `pages-core/json-patch/jsonb-ops`. `asPageDataJSON` in `pages-ui/components/page-data-json` against the one in `pages-ui-store/query/sort-resolve`. `readStringProp` in `pages-ui/supabase/mutations/build-predicted-row` against `textIn` in `indexes/index-stamp`.\\n\\nNone of the three counterparts can be imported as it stands. `jsonb-ops` declares `asJson` at line 71 without `export`, and `akasha/pages-system/pages-core/package.json` names no `jsonb-ops` subpath at all. `sort-resolve` declares `asPageDataJSON` at line 47 without `export`. `index-stamp` declares `textIn` at line 23 without `export`. So the refusal cannot be cleared from the arriving side: it needs the standing side to export the name and its manifest to name the module, in three packages none of which the arriving lane owns.\\n\\nThe count is a floor rather than a ceiling. `shared/pages-ui` still holds 197 files and casts of this shape are common in it, so every further wave can raise the count again without any lane writing a second rule on purpose. The refusal is also reported on both sides, so one duplicated helper shows as two entries and the total reads worse than the number of duplications.\\n\\nWhat is worth deciding is whether a one-line cast is a rule at all. `asJson`, `asPageDataJSON` and `readStringProp` carry no logic beyond a type assertion and a `typeof` guard; treating each as a rule that belongs in one file makes every package that needs a cast depend on whichever package declared it first.",
+} as const satisfies Finding
