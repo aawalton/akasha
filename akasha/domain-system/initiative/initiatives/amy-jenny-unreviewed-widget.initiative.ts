@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The pages service writes a value kept outside the commit: `kept: [{path, values}]` merges beside the page and lands no commit when nothing else changed (0da945c2ab), invariants corrected (2777874f1c, b4307ef935), 7 tests (00540fcaff), 115 pass. device-token is rebuilt in akasha (ea83c1e63e, b7e9cfd31e) and the store serves all 3 rows. Left: the renderer turning property data into a page body, which nav and error wait on too.",
+        "The renderer exists: `bodyOf` in pages-system/page/page-body (1b843d4c74) writes a page body from its values and reproduces a landed device-token page byte-identical, 10 tests. The service keeps values outside the commit via `kept` (0da945c2ab), 115 pass. device-token is rebuilt in akasha (ea83c1e63e, b7e9cfd31e) and the store serves all 3 rows. Left: the service taking {pageTypeSlug, slug, values} and partitioning by propertiesFrom.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
