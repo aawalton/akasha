@@ -86,9 +86,9 @@ export async function upsertHealthSamples(args: {
 
   for (const day of [...byDay.keys()].sort()) {
     const held = byDay.get(day) ?? []
-    const standing = await pagesOn(day)
+    const pages = await pagesOn(day)
     const rows = held.map(([identity, sample]) => {
-      const prior = standing.get(identity)
+      const prior = pages.get(identity)
       if (prior === undefined) inserted += 1
       else if (prior.value === sample.value) unchanged += 1
       else valueChanged += 1
