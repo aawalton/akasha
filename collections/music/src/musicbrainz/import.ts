@@ -1,4 +1,4 @@
-import { patchPage, type Value } from "@shared/pages-query"
+import { type Value } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import { searchLyrics } from "../lrclib/client"
 import { lyricsToProps, pickBestLyrics } from "../lrclib/map"
@@ -7,7 +7,6 @@ import {
   dedupeRecordings,
   extractGenres,
   isSongWork,
-  mbArtistToProps,
   mbRecordingToSongProps,
   mbWorkToSongProps,
   performedWorkIds,
@@ -17,8 +16,6 @@ import { artistSlugOf, mintSongSlug } from "./song-slug"
 
 const ARTIST_SLUG = "artist"
 const SONG_SLUG = "music-song"
-
-const WRITER = "musicbrainz-import"
 
 export interface ImportArtistArgs {
   readonly name?: string
@@ -90,6 +87,17 @@ async function lyricsPropsFor(
   }
 }
 
+// NEITHER LANDING BELOW HAS WRITTEN A PAGE SINCE THE STORE STOPPED TAKING KEYED WRITES. Both went
+// in through `patchPage`, which refuses unconditionally, so `ops music import-artist` has failed at
+// `landArtist` — its first landing — on every run. Everything above it still works: MusicBrainz and
+// LRCLIB answer, the `askComposed` reads answer, and all the mapping in `./map.ts` and
+// `../lrclib/map.ts` runs. The narrowing is not what is missing; a road to write down its result is.
+//
+// The refusals are stated here rather than fetched from a shim that always says no, and they name
+// what would have landed, so a run says which artist and how many songs went unfiled rather than
+// only that a write refused.
+const NO_KEYED_WRITE = "the page store refuses every keyed write"
+
 async function landSong(
   name: string,
   values: Record<string, Value>,
@@ -98,16 +106,17 @@ async function landSong(
 ): Promise<boolean> {
   const lyrics = await lyricsPropsFor(title, artistName)
   if (lyrics != null) Object.assign(values, lyrics)
-  const landed = await patchPage(SONG_SLUG, name, values, WRITER)
-  if (!landed.ok) throw new Error(`\`${SONG_SLUG}/${name}\` did not land: ${landed.why}`)
-  return lyrics != null
+  throw new Error(
+    `\`${SONG_SLUG}/${name}\` did not land — ${NO_KEYED_WRITE}. "${title}" by ${artistName} was ` +
+      `read from MusicBrainz${lyrics != null ? " with lyrics" : ""} and then dropped`
+  )
 }
 
 async function landArtist(
   mbid: string,
   name: string,
-  genres: readonly string[],
-  today: string
+  _genres: readonly string[],
+  _today: string
 ): Promise<string> {
   const asked = await askComposed({
     "page-type": ARTIST_SLUG,
@@ -119,14 +128,10 @@ async function landArtist(
   const first = asked.answer.rows[0]
   const held = first === undefined ? null : textOf(first.values, "slug")
   const slug = held ?? artistSlugOf(name)
-  const landed = await patchPage(
-    ARTIST_SLUG,
-    slug,
-    mbArtistToProps({ mbid, name, genres, today }),
-    WRITER
+  throw new Error(
+    `\`${ARTIST_SLUG}/${slug}\` did not land — ${NO_KEYED_WRITE}. ${name} (${mbid}) was resolved ` +
+      `against MusicBrainz and dropped, so no song of theirs was reached either`
   )
-  if (!landed.ok) throw new Error(`\`${ARTIST_SLUG}/${slug}\` did not land: ${landed.why}`)
-  return slug
 }
 
 async function importFromRecordings(args: {

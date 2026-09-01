@@ -1,5 +1,4 @@
 import { asPage, type Page } from "@akasha/pages-core/page-types"
-import { patchPage } from "@shared/pages-query"
 import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
 import { z } from "zod"
 
@@ -9,7 +8,6 @@ const READ_CHAPTER_TYPES = ["story-chapter-royal-road", "story-chapter-wandering
 const EAGER_STORY_TYPE = "story-read-wandering-inn"
 const FOLLOWING_KEY = "following"
 
-const WRITER = "offline-text-sync"
 const ASK_LIMIT = 20_000
 
 type Values = Readonly<Record<string, unknown>>
@@ -92,28 +90,33 @@ export async function loadChapterForOffline(chapterId: string): Promise<Page | n
   return asPage({ ...found.values, text: parsed.body })
 }
 
+// READING DOWN WORKS AND READING POSITION DOES NOT GO BACK UP. Both writers below landed with
+// `patchPage`, which the store refuses unconditionally, so neither a finished chapter nor a scroll
+// position has been kept since. `alanwalton/web/app/components/offline-text-sync.tsx` catches both
+// at `:83` and `:122` and logs, so the reader shows no sign of it.
+//
+// This is asymmetric in a way that matters: `loadChapterForOffline` and the two story-id loaders
+// above still answer, so chapters keep arriving on the phone, and `markedReadAt` and `ownProgress`
+// keep reading as whatever they were when the writes died. A chapter Alan has finished reads as
+// unfinished, and next-unread — `alanwalton/web/app/lib/next-unread.ts` — keeps offering it.
+//
+// Both wanted one page patched by name. Nothing about the shape is hard; there is no writing road.
+const NO_KEYED_WRITE = "the page store refuses every keyed write"
+
 export async function writeChapterCompletion(
   pageId: string,
-  completedAtMs: number,
-  size: number
+  _completedAtMs: number,
+  _size: number
 ): Promise<void> {
-  const found = await findChapterById(pageId, ["id"])
-  if (found === null) throw new Error(`writeChapterCompletion: no chapter carries id \`${pageId}\``)
-  const written = await patchPage(
-    found.pageType,
-    found.name,
-    { markedReadAt: new Date(completedAtMs).toISOString(), ownProgress: size },
-    WRITER
+  throw new Error(
+    `writeChapterCompletion(${pageId}): the chapter was not marked read — ${NO_KEYED_WRITE}, ` +
+      `so it still reads as unfinished and next-unread will offer it again`
   )
-  if (!written.ok) throw new Error(`writeChapterCompletion(${pageId}): ${written.why}`)
 }
 
 export async function writeChapterPosition(pageId: string, progress: number): Promise<void> {
-  const found = await findChapterById(pageId, ["id", "ownProgress"])
-  if (found === null) throw new Error(`writeChapterPosition: no chapter carries id \`${pageId}\``)
-  const raw = found.values.ownProgress
-  const current = raw == null || raw === "" ? null : Number(raw)
-  if (current != null && Number.isFinite(current) && progress <= current) return
-  const written = await patchPage(found.pageType, found.name, { ownProgress: progress }, WRITER)
-  if (!written.ok) throw new Error(`writeChapterPosition(${pageId}): ${written.why}`)
+  throw new Error(
+    `writeChapterPosition(${pageId}): position ${progress} was not kept — ${NO_KEYED_WRITE}, ` +
+      `so this chapter still reads at whatever progress stood before the writes died`
+  )
 }

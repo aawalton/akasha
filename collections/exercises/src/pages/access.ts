@@ -1,8 +1,5 @@
-import { patchPage as patchPageThere, type Value, writePage } from "@shared/pages-query"
 import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
 import type { Json, Page } from "./page"
-
-export const WRITER = "ops exercise"
 
 export type PageCondition =
   | { readonly key: string; readonly eq: string | number | boolean }
@@ -101,45 +98,31 @@ export async function getPage(query: PageQuery): Promise<Page | null> {
   return found.rows[0] ?? null
 }
 
-function valueOf(key: string, held: Json): Value | null {
-  if (held === null) return null
-  if (typeof held === "string" || typeof held === "number" || typeof held === "boolean") return held
-  if (Array.isArray(held)) {
-    const out: string[] = []
-    for (const one of held) {
-      if (typeof one !== "string") {
-        throw new Error(`\`${key}\` states a list this writer cannot land: every entry has to be text`)
-      }
-      out.push(one)
-    }
-    return out
-  }
-  throw new Error(`\`${key}\` states a map, and the page query service takes text, numbers, flags and lists of text`)
-}
-
-export function valuesFor(
-  properties: Readonly<Record<string, Json>>
-): Readonly<Record<string, Value>> {
-  const out: Record<string, Value> = {}
-  for (const [key, held] of Object.entries(properties)) {
-    const value = valueOf(key, held)
-    if (value !== null) out[kebabKey(key)] = value
-  }
-  return out
-}
+// THE READING HALF OF THIS FILE WORKS AND THE WRITING HALF DOES NOT. `getPages`, `getPage` and
+// `pageOfRow` above ask the store and are asked by `ops exercise today`, `ranks`, `next-set`,
+// `history`, `session-show`, `mobility-show`, `equipment-list` and `constraint-list`, all of which
+// still answer.
+//
+// `createPage` and `patchPage` landed through `writePage` and `patchPage`, and the store refuses
+// every keyed write, so they have thrown since. What that costs is one-sided and worth naming: a
+// workout is read back fine and cannot be recorded. `ops exercise session-start`, `log-set`,
+// `log-activity`, `add`, `session-finish`, `schedule-create`, `constraint-set` and `equipment-set`
+// all end here, so nothing Alan does in a session is being written down. The reads keep answering
+// from what was already filed, which makes the history look whole while it stops advancing.
+//
+// The `valuesFor` narrowing that stood here served only these two, and went with them. A
+// restoration wants a writing road, not a fuller conversion.
+const NO_KEYED_WRITE = "the page store refuses every keyed write"
 
 export async function createPage(
   pageTypeSlug: string,
   name: string,
-  properties: Readonly<Record<string, Json>>
+  _properties: Readonly<Record<string, Json>>
 ): Promise<Page> {
-  const landed = await writePage(pageTypeSlug, name, valuesFor(properties), WRITER)
-  if (!landed.ok) throw new Error(`\`${pageTypeSlug}/${name}\` was not written: ${landed.why}`)
-  const written = await getPage({ pageTypeSlug, where: [{ key: "slug", eq: name }] })
-  if (written === null) {
-    throw new Error(`\`${pageTypeSlug}/${name}\` landed and then read back as nothing`)
-  }
-  return written
+  throw new Error(
+    `\`${pageTypeSlug}/${name}\` was not written — ${NO_KEYED_WRITE}, so this exercise page does ` +
+      `not stand and the reads over this page type will keep answering as though it was never made`
+  )
 }
 
 export async function patchPage(
@@ -147,6 +130,8 @@ export async function patchPage(
   name: string,
   values: Readonly<Record<string, Json>>
 ): Promise<void> {
-  const landed = await patchPageThere(pageTypeSlug, name, valuesFor(values), WRITER)
-  if (!landed.ok) throw new Error(`\`${pageTypeSlug}/${name}\` was not patched: ${landed.why}`)
+  throw new Error(
+    `\`${pageTypeSlug}/${name}\` was not patched — ${NO_KEYED_WRITE}, so ` +
+      `${Object.keys(values).join(", ")} still read as whatever they were before this asked`
+  )
 }
