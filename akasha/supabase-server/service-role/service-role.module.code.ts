@@ -1,8 +1,7 @@
-import type { Database } from "@akasha/supabase-database"
 import { createClient, type SupabaseClient } from "@supabase/supabase-js"
 import { z } from "zod"
 
-export type SupabaseServiceRoleClient = SupabaseClient<Database>
+export type SupabaseServiceRoleClient = SupabaseClient
 
 export type CreateServiceRoleClientOptions = {
   url?: string
@@ -70,7 +69,7 @@ export function createServiceRoleClient(
   const timeoutFetch: typeof fetch = graftPreconnect(
     makeErrorBodySummaryFetch(makeTimeoutFetch(requestTimeoutMs))
   )
-  const client = createClient<Database, "public">(url, serviceRoleKey, {
+  const client = createClient(url, serviceRoleKey, {
     global: {
       fetch: timeoutFetch,
     },

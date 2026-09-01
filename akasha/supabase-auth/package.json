@@ -9,7 +9,6 @@
     "./user-id": "./user-id/user-id.module.code.ts"
   },
   "dependencies": {
-    "@akasha/supabase-database": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",
     "zod": "^4.3.6"
   }

@@ -1,4 +1,3 @@
-import type { Database } from "@akasha/supabase-database"
 import { createBrowserClient as createSsrBrowserClient } from "@supabase/ssr"
 import { createClient, type SupabaseClient } from "@supabase/supabase-js"
 import { z } from "zod"
@@ -7,7 +6,7 @@ import { parseSupabaseCookieOptions } from "../cookie-options/cookie-options.mod
 
 const OPTIONAL_ENV_SCHEMA = z.string().min(1).optional()
 
-export type SupabaseBrowserClient = SupabaseClient<Database>
+export type SupabaseBrowserClient = SupabaseClient
 
 export type BrowserAuthStorage = {
   getItem: (key: string) => string | null | Promise<string | null>
@@ -43,7 +42,7 @@ export function createBrowserClient(
   if (mode === "capacitor-local") {
     const storage =
       options.storage ?? (typeof window !== "undefined" ? window.localStorage : undefined)
-    return createClient<Database>(url, anonKey, {
+    return createClient(url, anonKey, {
       auth: {
         storage,
         persistSession: true,
@@ -54,7 +53,7 @@ export function createBrowserClient(
     })
   }
 
-  return createSsrBrowserClient<Database>(url, anonKey, {
+  return createSsrBrowserClient(url, anonKey, {
     cookieOptions: parseSupabaseCookieOptions(process.env.NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN),
   })
 }

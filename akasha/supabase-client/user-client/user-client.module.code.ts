@@ -1,11 +1,10 @@
-import type { Database } from "@akasha/supabase-database"
 import {
   createClient as createSupabaseClient,
   type SupabaseClient,
   type SupportedStorage,
 } from "@supabase/supabase-js"
 
-export type SupabaseUserClient = SupabaseClient<Database>
+export type SupabaseUserClient = SupabaseClient
 
 export type CreateClientOptions = {
   storage?: SupportedStorage
@@ -17,7 +16,7 @@ export function createClient(
   anonKey: string,
   options: CreateClientOptions = {}
 ): SupabaseUserClient {
-  return createSupabaseClient<Database>(url, anonKey, {
+  return createSupabaseClient(url, anonKey, {
     auth: {
       autoRefreshToken: true,
       persistSession: true,

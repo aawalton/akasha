@@ -1,4 +1,3 @@
-import type { Database } from "@akasha/supabase-database"
 import type { SupabaseClient } from "@supabase/supabase-js"
 import { parseClaimsToUser } from "../claims/claims.module.code.ts"
 import {
@@ -16,7 +15,7 @@ export function isInvalidCredentialsError(error: unknown): boolean {
 }
 
 export async function signInWithPassword(
-  client: SupabaseClient<Database>,
+  client: SupabaseClient,
   email: string,
   password: string
 ): Promise<AuthResult> {
@@ -30,7 +29,7 @@ export async function signInWithPassword(
 }
 
 export async function signUpWithPassword(
-  client: SupabaseClient<Database>,
+  client: SupabaseClient,
   email: string,
   password: string
 ): Promise<AuthResult> {
@@ -43,21 +42,19 @@ export async function signUpWithPassword(
   }
 }
 
-export async function signOut(client: SupabaseClient<Database>): Promise<{ error: Error | null }> {
+export async function signOut(client: SupabaseClient): Promise<{ error: Error | null }> {
   const { error } = await client.auth.signOut()
   return { error: error ?? null }
 }
 
-export async function getClaimsUser(
-  client: SupabaseClient<Database>
-): Promise<SupabaseUser | null> {
+export async function getClaimsUser(client: SupabaseClient): Promise<SupabaseUser | null> {
   const { data, error } = await client.auth.getClaims()
   if (error != null || data == null) return null
   return parseClaimsToUser(data.claims)
 }
 
 export async function getUserFromToken(
-  client: SupabaseClient<Database>,
+  client: SupabaseClient,
   jwt: string
 ): Promise<SupabaseUser | null> {
   const { data, error } = await client.auth.getUser(jwt)

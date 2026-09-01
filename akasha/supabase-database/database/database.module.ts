@@ -4,7 +4,7 @@ export const database = {
   id: "01a05c5c-1e3e-7960-b5e3-72d070ca07d3",
   pageTypeSlug: "module",
   slug: "database",
-  definition: "the one `Database` type every Supabase client in this repository is typed by",
+  definition: "the `Database` type Supabase emitted for Alan's database",
   code: "ts",
   invariants: [
     {

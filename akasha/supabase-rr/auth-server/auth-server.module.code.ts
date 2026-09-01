@@ -1,6 +1,5 @@
 import { getUserFromToken as baseGetUserFromToken } from "@akasha/supabase-auth/auth"
 import type { SupabaseUser } from "@akasha/supabase-auth/supabase-user"
-import type { Database } from "@akasha/supabase-database"
 import { createClient } from "@supabase/supabase-js"
 import { z } from "zod"
 import { resolveRequestSession } from "../request-session-cache/request-session-cache.module.code.ts"
@@ -21,7 +20,7 @@ export async function getUserFromBearerToken(jwt: string): Promise<{ user: Supab
     throw new Error("getUserFromBearerToken: NEXT_PUBLIC_SUPABASE_ANON_KEY is not set")
   }
 
-  const client = createClient<Database, "public">(url, anonKey, {
+  const client = createClient(url, anonKey, {
     auth: { persistSession: false, autoRefreshToken: false, detectSessionInUrl: false },
   })
   const user = await baseGetUserFromToken(client, jwt)

@@ -1,11 +1,10 @@
-import type { Database } from "@akasha/supabase-database"
 import { createServerClient as createSsrServerClient } from "@supabase/ssr"
 import { createClient, type SupabaseClient } from "@supabase/supabase-js"
 import { parseCookie, stringifySetCookie } from "cookie"
 import { z } from "zod"
 import { parseSupabaseCookieOptions } from "../cookie-options/cookie-options.module.code.ts"
 
-export type SupabaseServerClient = SupabaseClient<Database>
+export type SupabaseServerClient = SupabaseClient
 
 export type CreateServerClientOptions = {
   url?: string
@@ -35,7 +34,7 @@ export function createServerClient(
 
   const headers = new Headers()
 
-  const supabase = createSsrServerClient<Database>(url, anonKey, {
+  const supabase = createSsrServerClient(url, anonKey, {
     cookieOptions: parseSupabaseCookieOptions(process.env.NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN),
     cookies: {
       getAll() {
@@ -74,5 +73,5 @@ export function createBearerScopedClient(token: string): SupabaseServerClient {
   if (anonKey == null) {
     throw new Error("createBearerScopedClient: NEXT_PUBLIC_SUPABASE_ANON_KEY is not set")
   }
-  return createClient<Database>(url, anonKey, bearerScopedClientOptions(token))
+  return createClient(url, anonKey, bearerScopedClientOptions(token))
 }
