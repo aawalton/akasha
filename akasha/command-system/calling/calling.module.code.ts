@@ -221,6 +221,7 @@ async function answeredBy(
     from: outside.from,
     writer: outside.writer,
     agentId: outside.agentId,
+    programmatic: outside.programmatic,
   })
 }
 

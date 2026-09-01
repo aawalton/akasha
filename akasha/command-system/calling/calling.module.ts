@@ -39,5 +39,9 @@ export const calling = {
       invariantKind: "departure",
       statement: "An index naming no page type for commands is not an index carrying no command.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A command a programmatic write reaches is itself programmatic.",
+    },
   ],
 } as const satisfies Module

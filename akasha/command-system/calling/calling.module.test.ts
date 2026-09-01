@@ -260,3 +260,15 @@ test("a name no command carries is told where the surface is written down", asyn
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("Say `akasha --help` for what each of them takes.")
 })
+
+const SAYS_PROGRAMMATIC = `export function held(argv, given) {
+  return { report: [String(given.programmatic)], refusals: [], code: 0 }
+}
+`
+
+test("a command a programmatic write reaches is handed that it is programmatic", async () => {
+  const root = rootWith([{ slug: "held", body: SAYS_PROGRAMMATIC }])
+  const said = await calling(["held"], { ...OUTSIDE, root, programmatic: true })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("true")
+})
