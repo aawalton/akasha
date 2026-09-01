@@ -36,7 +36,7 @@ async function keysOn(day: string): Promise<ReadonlySet<string>> {
   return held
 }
 
-async function dayStands(day: string): Promise<boolean> {
+async function dayPaged(day: string): Promise<boolean> {
   const asked = await askComposed({
     "page-type": ANCHOR_PAGE_TYPE,
     where: { "eso-day": { is: day } },
@@ -71,7 +71,7 @@ export async function insertLocationTraces(
       .filter(([identity]) => !keys.has(identity))
       .map(([, record]) => rowValuesOf(record, Bun.randomUUIDv7()))
     if (rows.length === 0) continue
-    if (!(await dayStands(day))) {
+    if (!(await dayPaged(day))) {
       const page = await writePage(ANCHOR_PAGE_TYPE, day, { "eso-day": day }, WRITER)
       if (!page.ok) throw new Error(`insertLocationTraces: the day ${day}: ${page.why}`)
     }
