@@ -7,11 +7,16 @@
     "./device-secret-minting": "./device-secret-minting/device-secret-minting.module.code.ts",
     "./device-secret-standing": "./device-secret-standing/device-secret-standing.module.code.ts",
     "./phone": "./person/properties/phone.phone-number-property.ts",
+    "./push-permission": "./push-permission/push-permission.module.code.ts",
+    "./push-register-body": "./push-register-body/push-register-body.module.code.ts",
+    "./push-routing": "./push-routing/push-routing.module.code.ts",
     "./route-access": "./route-access/route-access.module.code.ts",
     "./sms-consent": "./sms-consent/sms-consent.module.code.ts",
     "./sms-opt-in": "./sms-opt-in/sms-opt-in.module.code.tsx"
   },
   "dependencies": {
+    "@shared/pages-url": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
 }
