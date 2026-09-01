@@ -48,9 +48,7 @@
     "akasha/tower",
     "akasha/voice-core",
     "alanwalton/atlas-web",
-    "alanwalton/calendar-google",
     "alanwalton/calendar-sync",
-    "alanwalton/drive-google",
     "alanwalton/elaine-cli",
     "alanwalton/email-google",
     "akasha/health-samples-day",
@@ -296,8 +294,6 @@
     "temper/web"
   ],
   "dependencies": {
-    "@alanwalton/calendar-google": "workspace:*",
-    "@alanwalton/drive-google": "workspace:*",
     "@alanwalton/elaine-cli": "workspace:*",
     "@alanwalton/email-google": "workspace:*",
     "@alanwalton/imessage": "workspace:*",
