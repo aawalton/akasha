@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "@akasha/pages-query/fetcher"
+import { noNap } from "@akasha/pages-query/fetcher/testing"
 import {
   overTheLiveStore,
   recordingFetcher,
@@ -26,8 +27,6 @@ const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 const A_DEVICE = "A1B2C3D4-E5F6-47B8-9C0D-1E2F3A4B5C6D"
 
 const AN_IDENTIFIER = /^[A-Za-z][A-Za-z0-9]*$/
-
-const noNap = async () => undefined
 
 type Rows = Record<string, readonly Record<string, unknown>[]>
 

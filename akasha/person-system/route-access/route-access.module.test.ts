@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "@akasha/pages-query/fetcher"
+import { noNap } from "@akasha/pages-query/fetcher/testing"
 import {
   accountStatedBy,
   overTheLiveStore,
@@ -14,8 +15,6 @@ import {
 } from "./route-access.module.code.ts"
 
 const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
-
-const noNap = async () => undefined
 
 function answeringByType(byType: Record<string, readonly Record<string, unknown>[]>): Fetcher {
   return async (_url, init) => {

@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "@akasha/pages-query/fetcher"
+import { noNap } from "@akasha/pages-query/fetcher/testing"
 import { personSlugForAccount } from "./person-enrolment.module.code.ts"
 import {
   accountStatedBy,
@@ -8,8 +9,6 @@ import {
 } from "./person-enrolment.module.test-fixtures.ts"
 
 const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
-
-const noNap = async () => undefined
 
 function answering(rows: readonly Record<string, unknown>[]): Fetcher {
   return async () =>
