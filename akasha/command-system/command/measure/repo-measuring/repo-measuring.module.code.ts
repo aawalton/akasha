@@ -1,7 +1,7 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
 
-const SKIPPED: readonly string[] = ["node_modules", ".git"]
+const SKIPPED: readonly string[] = ["node_modules", ".git", "dist"]
 
 const AKASHA_DIR = "akasha"
 

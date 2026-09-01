@@ -15,7 +15,7 @@ export const measure = {
     "the numbers are read from the pages the upkeep service writes, and nothing here fetches.",
     "the `>` names the account the picker would take right now.",
     "`repo` counts the files the checkout holds and the files that have arrived in akasha.",
-    "`node_modules` and `.git` are not counted, and a symbolic link is not a file.",
+    "`node_modules`, `.git` and `dist` are not counted, and a symbolic link is not a file.",
     "the share `repo` says is the migration read as a fraction.",
   ],
   invariants: [

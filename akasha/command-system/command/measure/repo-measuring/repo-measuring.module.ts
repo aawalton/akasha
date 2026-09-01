@@ -18,6 +18,14 @@ export const repoMeasuring = {
     },
     {
       invariantKind: "departure",
+      statement: "`dist` is skipped wherever it stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Built output is not a file waiting to arrive.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Only a regular file is counted.",
     },
     {

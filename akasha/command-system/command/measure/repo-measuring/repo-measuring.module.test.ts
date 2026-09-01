@@ -18,6 +18,8 @@ function repoWith(): string {
   put(root, ".git/objects/five", "five\n")
   put(root, "akasha/node_modules/six.ts", "six\n")
   put(root, "tools/nested/.git/seven", "seven\n")
+  put(root, "tools/dist/eight.js", "eight\n")
+  put(root, "akasha/dist/nine.js", "nine\n")
   return root
 }
 
@@ -25,6 +27,13 @@ test("`node_modules` and `.git` are skipped wherever they stand", () => {
   const counts = countsIn(repoWith())
 
   expect(counts.repo).toBe(3)
+})
+
+test("`dist` is skipped wherever it stands", () => {
+  const counts = countsIn(repoWith())
+
+  expect(counts.repo).toBe(3)
+  expect(counts.akasha).toBe(2)
 })
 
 test("the akasha folder is counted inside the repo as well as on its own", () => {
