@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/google-oauth",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./oauth-callback": "./oauth-callback/oauth-callback.module.code.ts",
+    "./oauth-app-credentials": "./oauth-app-credentials/oauth-app-credentials.module.code.ts"
+  },
+  "dependencies": {
+    "@shared/errors-core": "workspace:*",
+    "@shared/utils-narrow": "workspace:*"
+  }
+}
