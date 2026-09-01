@@ -52,7 +52,7 @@ test("`repo` counts the checkout and what has arrived in akasha", () => {
 
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
-  expect(said.report).toEqual(["akasha     1", "repo       2", "share  50.0%"])
+  expect(said.report).toEqual(["akasha      1", "repo        2", "share  50.00%"])
 })
 
 test("a checkout holding no akasha folder is refused rather than measured at none", () => {

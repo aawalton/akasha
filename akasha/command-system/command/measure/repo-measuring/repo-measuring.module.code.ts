@@ -5,7 +5,7 @@ const SKIPPED: readonly string[] = ["node_modules", ".git"]
 
 const AKASHA_DIR = "akasha"
 
-const PERCENT_DECIMALS = 1
+const PERCENT_DECIMALS = 2
 
 export interface Counts {
   readonly repo: number

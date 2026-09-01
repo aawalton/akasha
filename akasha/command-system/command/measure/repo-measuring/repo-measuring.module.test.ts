@@ -42,15 +42,15 @@ test("a symbolic link is neither followed nor counted", () => {
 })
 
 test("the share is what has arrived over everything there is to arrive", () => {
-  expect(shareOf({ repo: 3, akasha: 2 })).toBe("66.7")
-  expect(shareOf({ repo: 1000, akasha: 15 })).toBe("1.5")
+  expect(shareOf({ repo: 3, akasha: 2 })).toBe("66.67")
+  expect(shareOf({ repo: 1000, akasha: 15 })).toBe("1.50")
 })
 
 test("the numbers stand in a column", () => {
   expect(linesOf({ repo: 95434, akasha: 1455 })).toEqual([
     "akasha  1455",
     "repo   95434",
-    "share   1.5%",
+    "share  1.52%",
   ])
 })
 
