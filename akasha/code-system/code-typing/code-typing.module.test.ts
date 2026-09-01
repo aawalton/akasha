@@ -22,7 +22,7 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function stood(root: string, said: Readonly<Record<string, string>>): string[] {
+function wrote(root: string, said: Readonly<Record<string, string>>): string[] {
   for (const [path, text] of Object.entries(said)) {
     const at = join(root, path)
     mkdirSync(dirname(at), { recursive: true })
@@ -44,7 +44,7 @@ function typed(said: Readonly<Record<string, string>>): {
   typing: Typing
 } {
   const root = scratch.rootFor("akasha-typing-")
-  const paths = stood(root, said)
+  const paths = wrote(root, said)
   const typing = typingOver(root, paths, (at) => {
     const rel = insideOf(root, at)
     return rel === null ? onDisk(at) : said[rel]
