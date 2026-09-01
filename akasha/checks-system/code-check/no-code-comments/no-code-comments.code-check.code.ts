@@ -1,5 +1,5 @@
+import { lineAt, parsedAs } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import { lineAt, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import {
   BODIES,
   judgingEach,

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bodiesAt } from "../../../testing-system/bodying/bodying.module.code.ts"
+import { bodiesAt } from "@akasha/testing-system/bodying"
 import { commentsIn, reasonsIn, styleCommentsIn } from "./no-code-comments.code-check.code.ts"
 
 const ROOT = "/repo"

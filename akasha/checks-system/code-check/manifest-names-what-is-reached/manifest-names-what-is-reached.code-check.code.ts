@@ -1,12 +1,9 @@
 import { builtinModules } from "node:module"
 import { join } from "node:path"
-import {
-  landingOf,
-  specifiersIn,
-} from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { landingOf, specifiersIn } from "@akasha/code-system/code-specifier"
+import { filePropertiesAt } from "@akasha/indexes/entries"
+import type { Change } from "@akasha/pages-system/change"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import {
   everyFileIn,
   FILES,

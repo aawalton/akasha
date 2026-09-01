@@ -1,12 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import {
-  idFiled,
-  listedFiled,
-  pathFiled,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { standing } from "@akasha/command-system/scratching/testing"
+import { idFiled, listedFiled, pathFiled } from "@akasha/indexes/testing"
+import { shadowFor } from "@akasha/pages-system/shadow"
 import { change } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
