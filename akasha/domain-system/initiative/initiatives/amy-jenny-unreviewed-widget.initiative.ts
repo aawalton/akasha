@@ -37,7 +37,11 @@ export const amyJennyUnreviewedWidget = {
     },
     { statement: "Jenny's categorization route is in akasha." },
     { statement: "The page describing Jenny's tile is in akasha." },
-    { statement: "Jenny's site deploys from akasha." },
+    {
+      statement: "Jenny's site deploys from akasha.",
+      workingMemory:
+        "The relay intent is met and gone: it stands in akasha, and `monarch-relay-service` carries to both origins on two dash-led runs lines, neither stopping the other, proved by running. Her site holds and serves a carried reading as Alan's does, proved over real HTTP in 9 tests. Alan's pod is deployed at 283599af2e. Left here: READING_RELAY_SECRET into her sops, then her deploy, then the guardRingReadout bypass arm goes once she has stopped pulling.",
+    },
     { statement: "Jenny's unreviewed transaction iOS widget works." },
   ],
   constraints: [
