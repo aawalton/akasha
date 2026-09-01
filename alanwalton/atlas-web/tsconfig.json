@@ -56,9 +56,6 @@
       "path": "../../shared/object-store"
     },
     {
-      "path": "../../shared/pages-access"
-    },
-    {
       "path": "../../shared/pages-ui"
     },
     {

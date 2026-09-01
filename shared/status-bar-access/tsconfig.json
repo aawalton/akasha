@@ -50,9 +50,6 @@
   ],
   "references": [
     {
-      "path": "../pages-access"
-    },
-    {
       "path": "../supabase-auth"
     },
     {

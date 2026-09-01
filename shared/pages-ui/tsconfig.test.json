@@ -21,9 +21,6 @@
       "path": "./tsconfig.json"
     },
     {
-      "path": "../pages-access"
-    },
-    {
       "path": "../supabase-rr"
     },
     {

@@ -20,9 +20,6 @@
       "path": "../../shared/auth"
     },
     {
-      "path": "../../shared/pages-access"
-    },
-    {
       "path": "../../shared/pages-ui"
     },
     {

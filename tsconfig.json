@@ -13,9 +13,6 @@
       "path": "./shared/supabase-database"
     },
     {
-      "path": "./shared/pages-access"
-    },
-    {
       "path": "./shared/pages-query"
     },
     {

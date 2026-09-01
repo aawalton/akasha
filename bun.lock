@@ -323,6 +323,9 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/tower-engine": {
+      "name": "@akasha/tower-engine",
+    },
     "akasha/voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
@@ -1520,24 +1523,6 @@
         "@akasha/pages-core": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "shared/pages-access": {
-      "name": "@shared/pages-access",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/pages-core": "workspace:*",
-        "@shared/errors-core": "workspace:*",
-        "@shared/file-page-identity": "workspace:*",
-        "@shared/named-for": "workspace:*",
-        "@shared/pages-url": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -4054,6 +4039,8 @@
 
     "@akasha/tower-core": ["@akasha/tower-core@workspace:akasha/tower-core"],
 
+    "@akasha/tower-engine": ["@akasha/tower-engine@workspace:akasha/tower-engine"],
+
     "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
 
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:native-shell/atlas"],
@@ -4655,8 +4642,6 @@
     "@shared/object-store": ["@shared/object-store@workspace:shared/object-store"],
 
     "@shared/open-questions": ["@shared/open-questions@workspace:shared/open-questions"],
-
-    "@shared/pages-access": ["@shared/pages-access@workspace:shared/pages-access"],
 
     "@shared/pages-query": ["@shared/pages-query@workspace:shared/pages-query"],
 

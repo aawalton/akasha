@@ -44,9 +44,6 @@
       "path": "../../shared/errors-core"
     },
     {
-      "path": "../../shared/pages-access"
-    },
-    {
       "path": "../../shared/web-security-headers"
     },
     {
