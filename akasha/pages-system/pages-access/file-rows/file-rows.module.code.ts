@@ -1,10 +1,10 @@
 import { idOfFilePage, slugOfFilePage } from "@akasha/file-page-identity"
 import { isRecord } from "@akasha/utils-narrow/is-record"
-import type { QueryRow } from "@shared/pages-query/answer-schema"
 import { z } from "zod"
 import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
 import { parsePageSeq } from "../parse-page-seq/parse-page-seq.module.code.ts"
 import type { RawPageRow } from "../raw-page-row/raw-page-row.module.code.ts"
+import type { QueryRow } from "../types/types.module.code.ts"
 
 export type FilePageRow = Omit<RawPageRow, "seq"> & { readonly seq: number | null }
 

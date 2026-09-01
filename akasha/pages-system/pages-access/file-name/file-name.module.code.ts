@@ -1,8 +1,8 @@
 import { filledBy, type HeldAt, holesIn, unfilledIn } from "@akasha/named-for/name-rule"
 import type { PageWhere } from "@akasha/pages-core/page-types"
-import type { Value } from "@shared/pages-query"
 import { camelizeKey, SETTLED_BY_ROW } from "../file-rows/file-rows.module.code.ts"
 import { FileWriteError } from "../file-write-error/file-write-error.module.code.ts"
+import type { Value } from "../types/types.module.code.ts"
 
 export type Filled =
   | { readonly ok: true; readonly stem: string }
