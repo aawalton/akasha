@@ -1,4 +1,4 @@
-const NO_CODE = -1
+export const NO_CODE = -1
 
 export type Said = {
   readonly code: number
