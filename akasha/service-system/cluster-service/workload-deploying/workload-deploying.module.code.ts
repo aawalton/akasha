@@ -168,7 +168,7 @@ export function standInsOf(plan: Plan): readonly string[] {
 
 export type Matched = { readonly stands: boolean } | { readonly why: string }
 
-export function standingOf(manifest: Manifest): Matched {
+export function appliedOf(manifest: Manifest): Matched {
   const ran = runKubectlOn(["diff", "-f", "-"], manifest.yaml)
   if (ran.code === 0) return { stands: true }
   if (ran.code === 1) return { stands: false }

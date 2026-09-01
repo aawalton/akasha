@@ -16,10 +16,10 @@ import {
 } from "@akasha/service-system/web-app-building"
 import { deployableNamed } from "@akasha/service-system/web-app-reading"
 import {
+  appliedOf,
   planFor,
   putUp,
   standInsOf,
-  standingOf,
   upAlready,
   writeManifests,
 } from "@akasha/service-system/workload-deploying"
@@ -125,7 +125,7 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
 
   let differs = false
   for (const manifest of plan.manifests) {
-    const applied = standingOf(manifest)
+    const applied = appliedOf(manifest)
     if ("why" in applied) return { report, refusals: [applied.why], code: OPERATIONAL }
     report.push(`manifest\t${manifest.path}\t${applied.stands ? "stands" : "differs"}`)
     if (!applied.stands) differs = true
