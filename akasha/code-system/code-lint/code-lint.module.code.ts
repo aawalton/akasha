@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { ran } from "@akasha/utils-run/running"
 
 export const BINARY = "node_modules/.bin/biome"
 
@@ -123,12 +124,8 @@ function unlooked(why: string): Linted {
 }
 
 function askedOf(at: string, root: string, named: readonly string[]): Done {
-  const done = Bun.spawnSync([at, CHECKS, REPORTER, CEILING, ...named], {
-    cwd: root,
-    stdout: "pipe",
-    stderr: "pipe",
-  })
-  return { code: done.exitCode, output: `${done.stdout.toString()}${done.stderr.toString()}` }
+  const done = ran([at, CHECKS, REPORTER, CEILING, ...named], { cwd: root })
+  return { code: done.code, output: `${done.out}${done.err}` }
 }
 
 export function lintedOver(root: string, named: readonly string[]): Linted {
