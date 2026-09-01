@@ -190,6 +190,13 @@
     "akasha/graph-system": {
       "name": "@akasha/graph-system",
     },
+    "akasha/health-samples-access": {
+      "name": "@akasha/health-samples-access",
+      "dependencies": {
+        "@shared/day": "workspace:*",
+        "@shared/pages-query": "workspace:*",
+      },
+    },
     "akasha/hook-system": {
       "name": "@akasha/hook-system",
     },
@@ -3990,6 +3997,8 @@
     "@akasha/file-system": ["@akasha/file-system@workspace:akasha/file-system"],
 
     "@akasha/graph-system": ["@akasha/graph-system@workspace:akasha/graph-system"],
+
+    "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:akasha/health-samples-access"],
 
     "@akasha/hook-system": ["@akasha/hook-system@workspace:akasha/hook-system"],
 
