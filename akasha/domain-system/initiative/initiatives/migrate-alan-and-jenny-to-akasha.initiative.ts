@@ -27,7 +27,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "Alan's call: delete `@shared/pages-query` rather than move it into akasha, and reach pages only through `@akasha/pages-system-service`. A legacy query not yet migrated is stubbed unless it serves a global feature such as nav. 75 call sites: 13 global, 5 migratable, 57 stub. The service now answers uncommitted values, which unblocks api.claude-usage. Writes wait on the new write path, which refuses while `sms-discard` swallows the refusal.",
+        "The router is severed at `4c1f05a264`, so what is left is the store protocol under it. `api.claude-usage` is migrated at `73dfc5bb6e` and undeployed. Five lanes run: pages-access, the akasha leaves, Alan's site, tools and collections, and rehoming `where-testing` so the new service stops importing the old package. `askNamed` and `askTaking` refuse at 501, which kills every saved query. Writes refuse, and `sms-discard` still swallows that refusal.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
