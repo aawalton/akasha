@@ -10,6 +10,7 @@ import {
   input,
   overEachFile,
   textIn,
+  textNamed,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
@@ -258,7 +259,7 @@ function holdingBy(
   const found = new Map<string, string[]>()
   for (const one of folders) found.set(one, [])
   for (const path of every) {
-    if (!path.endsWith(TS_ENDING)) continue
+    if (!textNamed(path)) continue
     const owner = ownerOf(folders, path)
     if (owner === null) continue
     found.get(owner)?.push(path)
