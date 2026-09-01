@@ -45,6 +45,7 @@ export const akashaSystem = {
     "workspace-package/id-minting",
     "workspace-package/file-page-identity",
     "workspace-package/checkout-provenance",
+    "domain/temper",
   ],
   invariants: [
     {
