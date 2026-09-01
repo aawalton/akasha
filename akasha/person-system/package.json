@@ -20,5 +20,8 @@
     "@akasha/pages-url": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
   }
 }

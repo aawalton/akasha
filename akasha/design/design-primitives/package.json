@@ -63,8 +63,15 @@
     "./use-single-flight": "./use-single-flight/use-single-flight.module.code.ts"
   },
   "dependencies": {
+    "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "tailwind-merge": "^3.3.1"
+    "cmdk": "1.0.4",
+    "embla-carousel-react": "^8.6.0",
+    "lucide-react": "^0.576.0",
+    "react-resizable-panels": "^4.4.0",
+    "sonner": "^2.0.7",
+    "tailwind-merge": "^3.3.1",
+    "vaul": "^1.1.2"
   },
   "peerDependencies": {
     "react": "^18 || ^19",

@@ -9,6 +9,12 @@
   "dependencies": {
     "@akasha/pages-core": "workspace:*",
     "@shared/pages-ui": "workspace:*",
-    "chess.js": "^1.4.0"
+    "@shared/utils-narrow": "workspace:*",
+    "chess.js": "^1.4.0",
+    "chessground": "^9.2.1",
+    "zod": "^4.3.6"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
   }
 }

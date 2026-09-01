@@ -14,5 +14,8 @@
   "dependencies": {
     "@shared/pages-query": "workspace:*",
     "zod": "^4.3.6"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
   }
 }
