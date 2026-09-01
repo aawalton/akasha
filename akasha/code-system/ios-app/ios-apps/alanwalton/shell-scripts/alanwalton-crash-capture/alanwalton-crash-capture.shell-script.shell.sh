@@ -8,7 +8,7 @@ cat >> "$APPDELEGATE" <<'SWIFT_CRASH'
 // Reports native-shell failures into the web /api/errors sink so they land in
 // error rows like web errors. A SECOND appended @objc plugin (own marker;
 // registered in packageClassList below). Both paths POST the EXACT
-// @shared/errors-core ErrorReport wire shape (the server parses with .strict(),
+// @akasha/errors-core ErrorReport wire shape (the server parses with .strict(),
 // so the body must carry ONLY those keys) with app="alanwalton-native". The web
 // app keeps reporting in-page JS errors as app="alanwalton"; these two native
 // kinds are only ever emitted here.
