@@ -41,20 +41,56 @@ export const shellCalls = {
       statement: "A word is matched by its basename.",
     },
     {
+      invariantKind: "departure",
+      statement: "A prefix that only runs the call behind it is stepped over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A prefix's own flags are stepped over with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A prefix flag taking a value takes the word after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A prefix takes the numbers it is named as taking and no other word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A prefix flag that asks rather than runs leaves no call at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A prefix behind a prefix is stepped over too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A variable assignment before a call is stepped over.",
+    },
+    {
       invariantKind: "absence",
       statement: "The text is cut here rather than read for what it means.",
     },
     {
       invariantKind: "absence",
-      statement: "No tool is named here.",
+      statement: "No tool a hook guards is named here.",
     },
     {
       invariantKind: "constraint",
       statement: "This reads a shell command line without being a shell.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A shell marks no word as one that runs the call behind it.",
+    },
+    {
       invariantKind: "gap",
-      statement: "Two hooks cut a command line the same way without saying how twice.",
+      statement: "Every hook cuts a command line the same way without saying how twice.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A prefix this does not name hides the call behind it from every hook.",
     },
   ],
 } as const satisfies Module

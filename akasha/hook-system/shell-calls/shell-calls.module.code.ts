@@ -10,6 +10,55 @@ const LEADING_SPACE = /^\s+/
 
 const CONTINUED = /\\\n/g
 
+const ASSIGNMENT = /^[A-Za-z_][A-Za-z0-9_]*=/
+
+const NUMBER = /^[0-9]/
+
+type Runner = {
+  readonly valued: readonly string[]
+  readonly asking: readonly string[]
+  readonly numbered: number
+}
+
+const PLAIN: Runner = { valued: [], asking: [], numbered: 0 }
+
+const RUNNING_ANOTHER: ReadonlyMap<string, Runner> = new Map<string, Runner>([
+  ["sudo", { valued: ["-u", "-g", "-p", "-C"], asking: ["-v", "-V", "-l"], numbered: 0 }],
+  ["doas", { valued: ["-u", "-C"], asking: ["-L"], numbered: 0 }],
+  [
+    "env",
+    {
+      valued: ["-u", "--unset", "-C", "--chdir", "-S", "--split-string"],
+      asking: [],
+      numbered: 0,
+    },
+  ],
+  ["command", { valued: [], asking: ["-v", "-V"], numbered: 0 }],
+  ["exec", { valued: ["-a"], asking: [], numbered: 0 }],
+  ["nohup", PLAIN],
+  ["setsid", PLAIN],
+  ["unbuffer", PLAIN],
+  ["nice", { valued: ["-n", "--adjustment"], asking: [], numbered: 0 }],
+  [
+    "ionice",
+    {
+      valued: ["-c", "--class", "-n", "--classdata", "-p", "--pid", "-P", "--pgid", "-u", "--uid"],
+      asking: [],
+      numbered: 0,
+    },
+  ],
+  ["chrt", { valued: ["-p", "--pid"], asking: [], numbered: 1 }],
+  ["taskset", { valued: ["-c", "--cpu-list", "-p", "--pid"], asking: [], numbered: 1 }],
+  ["timeout", { valued: ["-k", "--kill-after", "-s", "--signal"], asking: [], numbered: 1 }],
+  [
+    "stdbuf",
+    { valued: ["-i", "--input", "-o", "--output", "-e", "--error"], asking: [], numbered: 0 },
+  ],
+  ["time", { valued: ["-o", "--output", "-f", "--format"], asking: [], numbered: 0 }],
+])
+
+export const RUNS_ANOTHER: readonly string[] = [...RUNNING_ANOTHER.keys()]
+
 export function joinedContinuations(command: string): string {
   return command.replace(CONTINUED, " ")
 }
@@ -46,4 +95,41 @@ export function ranBy(words: readonly string[]): string | null {
     return basenameOf(one)
   }
   return null
+}
+
+function pastRunner(words: readonly string[], from: number, runner: Runner): number {
+  let at = from
+  let numbers = 0
+  while (at < words.length) {
+    const one = words[at] ?? ""
+    if (runner.asking.includes(one)) return words.length
+    if (runner.valued.includes(one)) {
+      at += 2
+      continue
+    }
+    if (one.startsWith("-")) {
+      at += 1
+      continue
+    }
+    if (numbers < runner.numbered && NUMBER.test(one)) {
+      numbers += 1
+      at += 1
+      continue
+    }
+    return at
+  }
+  return at
+}
+
+export function calledWords(segment: string): readonly string[] {
+  const words = wordsOf(segment)
+  let at = 0
+  for (;;) {
+    while (ASSIGNMENT.test(words[at] ?? "")) at += 1
+    const head = words[at]
+    if (head === undefined) return []
+    const runner = RUNNING_ANOTHER.get(basenameOf(head))
+    if (runner === undefined) return words.slice(at)
+    at = pastRunner(words, at + 1, runner)
+  }
 }

@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
 import {
   basenameOf,
+  calledWords,
   dequoted,
   joinedContinuations,
+  RUNS_ANOTHER,
   segmentsOf,
   wordsOf,
 } from "./shell-calls.module.code.ts"
@@ -58,4 +60,75 @@ test("wordsOf drops the runs of space between words", () => {
 test("basenameOf takes the last part of a path, and a bare word is its own basename", () => {
   expect(basenameOf("/usr/local/bin/git")).toBe("git")
   expect(basenameOf("git")).toBe("git")
+})
+
+test("a segment carrying no prefix is its own words", () => {
+  expect(calledWords("tsc --noEmit")).toEqual(["tsc", "--noEmit"])
+  expect(calledWords("")).toEqual([])
+})
+
+test("a prefix that only runs what follows it is stepped over", () => {
+  for (const one of RUNS_ANOTHER) {
+    expect(calledWords(`${one} tsc --noEmit`)).toEqual(["tsc", "--noEmit"])
+  }
+})
+
+test("a prefix reached by a path is the same prefix", () => {
+  expect(calledWords("/usr/bin/timeout 900 tsc")).toEqual(["tsc"])
+})
+
+test("a prefix's own flags are stepped over with it", () => {
+  expect(calledWords("stdbuf -oL tsc")).toEqual(["tsc"])
+  expect(calledWords("timeout --preserve-status 900 tsc")).toEqual(["tsc"])
+  expect(calledWords("nohup --version tsc")).toEqual(["tsc"])
+})
+
+test("a prefix flag taking a value takes the word after it", () => {
+  expect(calledWords("timeout -k 5 900 tsc")).toEqual(["tsc"])
+  expect(calledWords("timeout --signal TERM 900 tsc")).toEqual(["tsc"])
+  expect(calledWords("nice -n 10 tsc")).toEqual(["tsc"])
+  expect(calledWords("env -u HOME tsc")).toEqual(["tsc"])
+  expect(calledWords("stdbuf -o L tsc")).toEqual(["tsc"])
+})
+
+test("a prefix's own number is stepped over and nothing else is", () => {
+  expect(calledWords("timeout 900 tsc")).toEqual(["tsc"])
+  expect(calledWords("timeout 1.5h tsc")).toEqual(["tsc"])
+  expect(calledWords("taskset 0x3 tsc")).toEqual(["tsc"])
+  expect(calledWords("chrt 99 tsc")).toEqual(["tsc"])
+  expect(calledWords("timeout 900 echo tsc")).toEqual(["echo", "tsc"])
+})
+
+test("a prefix takes one number of its own rather than every number", () => {
+  expect(calledWords("timeout 900 7 tsc")).toEqual(["7", "tsc"])
+})
+
+test("a prefix flag that asks rather than runs leaves no call", () => {
+  expect(calledWords("command -v tsc")).toEqual([])
+  expect(calledWords("sudo -l tsc")).toEqual([])
+  expect(calledWords("sudo -v")).toEqual([])
+})
+
+test("a prefix carrying nothing behind it leaves no call", () => {
+  expect(calledWords("timeout")).toEqual([])
+  expect(calledWords("env")).toEqual([])
+  expect(calledWords("timeout --help")).toEqual([])
+})
+
+test("a prefix behind a prefix is stepped over too", () => {
+  expect(calledWords("timeout 900 sudo nice -n 10 tsc --noEmit")).toEqual(["tsc", "--noEmit"])
+  expect(calledWords("nohup nice tsc")).toEqual(["tsc"])
+})
+
+test("a variable assignment before a call is stepped over, behind a prefix as well", () => {
+  expect(calledWords("TS_NODE=one tsc")).toEqual(["tsc"])
+  expect(calledWords("env NODE_ENV=one tsc")).toEqual(["tsc"])
+  expect(calledWords("timeout 900 NODE_ENV=one tsc")).toEqual(["tsc"])
+})
+
+test("a word this names no prefix is the call, whatever follows it", () => {
+  expect(calledWords("echo tsc")).toEqual(["echo", "tsc"])
+  expect(calledWords("xargs tsc")).toEqual(["xargs", "tsc"])
+  expect(calledWords("sh -c tsc")).toEqual(["sh", "-c", "tsc"])
+  expect(calledWords("make typecheck")).toEqual(["make", "typecheck"])
 })
