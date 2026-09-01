@@ -46,10 +46,6 @@ export const noLocalMidnightParse = {
         "The fault is the pretence that a date names an instant rather than the joining itself.",
     },
     {
-      invariantKind: "departure",
-      statement: "A test file is judged as any other.",
-    },
-    {
       invariantKind: "gap",
       statement: "A midnight held in a variable and joined on in a later statement is not seen.",
     },

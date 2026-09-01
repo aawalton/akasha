@@ -34,10 +34,6 @@ export const noAngleBracketCast = {
       statement: "A type argument written on a call carries the same brackets and is untouched.",
     },
     {
-      invariantKind: "departure",
-      statement: "A test file is judged as any other.",
-    },
-    {
       invariantKind: "gap",
       statement: "The same assertion written with `as` stands.",
     },

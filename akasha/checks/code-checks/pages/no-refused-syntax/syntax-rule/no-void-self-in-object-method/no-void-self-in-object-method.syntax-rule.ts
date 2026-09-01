@@ -34,10 +34,6 @@ export const noVoidSelfInObjectMethod = {
       statement: "A method declaring no `this` is left.",
     },
     {
-      invariantKind: "departure",
-      statement: "A test file is judged as any other.",
-    },
-    {
       invariantKind: "gap",
       statement:
         "That the generated call uses a colon is assumed rather than read from the transpiler's settings.",

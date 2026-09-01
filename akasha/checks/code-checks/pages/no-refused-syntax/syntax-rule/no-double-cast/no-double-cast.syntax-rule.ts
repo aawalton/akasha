@@ -37,10 +37,6 @@ export const noDoubleCast = {
       statement: "The angle-bracket spelling is read as `as` is.",
     },
     {
-      invariantKind: "departure",
-      statement: "A test file is judged as any other.",
-    },
-    {
       invariantKind: "gap",
       statement: "A widening held in a variable and asserted in a later statement is not seen.",
     },

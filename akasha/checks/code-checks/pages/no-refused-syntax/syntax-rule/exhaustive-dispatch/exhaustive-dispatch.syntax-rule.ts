@@ -34,10 +34,6 @@ export const exhaustiveDispatch = {
       statement: "A switch nested inside another statement is a switch.",
     },
     {
-      invariantKind: "departure",
-      statement: "A test file is judged as any other.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here says the cases cover the type.",
     },

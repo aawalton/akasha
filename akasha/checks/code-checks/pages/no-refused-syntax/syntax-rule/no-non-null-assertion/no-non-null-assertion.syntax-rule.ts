@@ -35,10 +35,6 @@ export const noNonNullAssertion = {
       statement: "Logical negation shares the character and is untouched.",
     },
     {
-      invariantKind: "departure",
-      statement: "A test file is judged as any other.",
-    },
-    {
       invariantKind: "gap",
       statement: "A cast asserting the same absence away some other way stands.",
     },

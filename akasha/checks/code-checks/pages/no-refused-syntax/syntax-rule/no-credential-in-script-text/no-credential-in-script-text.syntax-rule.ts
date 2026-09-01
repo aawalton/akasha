@@ -61,10 +61,6 @@ export const noCredentialInScriptText = {
     },
     {
       invariantKind: "departure",
-      statement: "A test file is judged as any other.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A credential in a failing test's trace is leaked as surely as a credential in a run.",
     },

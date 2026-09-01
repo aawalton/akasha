@@ -101,10 +101,6 @@ export const noVoidReturn = {
       statement: "It is no type at all.",
     },
     {
-      invariantKind: "departure",
-      statement: "A test file is judged as any other.",
-    },
-    {
       invariantKind: "gap",
       statement: "A parameter typed `void` is not seen.",
     },
