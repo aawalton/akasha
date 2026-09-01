@@ -24,6 +24,7 @@ export const alanHarness = {
     "workspace-package/tower",
     "workspace-package/health-samples-access",
     "workspace-package/health-samples-day",
+    "workspace-package/location-traces-access",
     "workspace-package/chess-core",
   ],
   invariants: [
