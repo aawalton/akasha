@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/supabase-server",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./service-role": "./service-role/service-role.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/supabase-database": "workspace:*",
+    "@supabase/supabase-js": "^2.104.0",
+    "zod": "^4.3.6"
+  }
+}
