@@ -36,8 +36,8 @@ test("a readout no page names carries nothing", async () => {
   expect(await readNoneLeft("no-readout-is-named-this")).toEqual({})
 })
 
-test("the words and emoji the unreviewed page states are read from the store", async () => {
-  const noneLeft = await readNoneLeft("unreviewed")
+test("the words and emoji the unreviewed readout states are read from the store", async () => {
+  const noneLeft = await readNoneLeft("monarch-unreviewed-transactions")
   expect(noneLeft.words).toBeDefined()
   expect(noneLeft.emoji).toBeDefined()
 })

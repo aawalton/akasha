@@ -10,8 +10,6 @@ import { readBacklogCountScale } from "../readout-scale-reading/readout-scale-re
 
 export const UNREVIEWED_READOUT = "monarch-unreviewed-transactions"
 
-export const UNREVIEWED_READOUT_SLUG = "unreviewed"
-
 export const NO_READING = { ok: false, error: "No reading." } as const
 
 export type RingAdmission = (request: Request) => Response | null | Promise<Response | null>
@@ -46,7 +44,7 @@ export async function answerCategorizationAdmittedBy(
 
   const [scale, noneLeft] = await Promise.all([
     readBacklogCountScale(),
-    readNoneLeft(UNREVIEWED_READOUT_SLUG),
+    readNoneLeft(UNREVIEWED_READOUT),
   ])
   return Response.json(
     {
