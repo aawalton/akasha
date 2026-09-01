@@ -5,12 +5,13 @@ import { filePropertiesAt } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
+  bodyNamed,
   everyFileIn,
   FILES,
   input,
   overEachFile,
+  styleNamed,
   textIn,
-  textNamed,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
@@ -58,6 +59,14 @@ const OWN: readonly string[] = ["dependencies", "devDependencies"]
 
 const WORDS = /\s+/
 
+const IMPORTED = /@import\s+(?:url\(\s*)?["']([^"'\n]+)["']/g
+
+const URLED = /\burl\(\s*(?:["']([^"'\n]+)["']|([^"')\s]+))\s*\)/g
+
+const SCHEMED = /^[a-zA-Z][a-zA-Z0-9+.-]*:/
+
+const FRAGMENT = "#"
+
 const BUILTIN = new Set(builtinModules)
 
 const SAID = "a manifest names what its own package reaches and nothing besides"
@@ -104,6 +113,33 @@ export function reachIn(at: string, text: string): Reach {
     if (found !== null) packages.add(found)
   }
   return { packages, protocols }
+}
+
+export function styleSpecifiersIn(text: string): readonly string[] {
+  const found: string[] = []
+  for (const one of text.matchAll(IMPORTED)) {
+    const said = one[1]
+    if (said !== undefined) found.push(said)
+  }
+  for (const one of text.matchAll(URLED)) {
+    const said = one[1] ?? one[2]
+    if (said !== undefined) found.push(said)
+  }
+  return found
+}
+
+export function styleReachIn(at: string, text: string): Reach {
+  const packages = new Set<string>()
+  for (const one of styleSpecifiersIn(text)) {
+    if (one.startsWith(FRAGMENT) || SCHEMED.test(one)) continue
+    const found = packageOf(at, one)
+    if (found !== null) packages.add(found)
+  }
+  return { packages, protocols: new Set() }
+}
+
+export function reachFrom(at: string, text: string): Reach {
+  return styleNamed(at) ? styleReachIn(at, text) : reachIn(at, text)
 }
 
 export function typesFor(named: string): string {
@@ -259,7 +295,7 @@ function holdingBy(
   const found = new Map<string, string[]>()
   for (const one of folders) found.set(one, [])
   for (const path of every) {
-    if (!textNamed(path)) continue
+    if (!bodyNamed(path)) continue
     const owner = ownerOf(folders, path)
     if (owner === null) continue
     found.get(owner)?.push(path)
@@ -283,7 +319,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     const found = reaches.get(path)
     if (found !== undefined) return found
     const text = textIn(change, path)
-    const made = text === null ? NOTHING : reachIn(path, text)
+    const made = text === null ? NOTHING : reachFrom(path, text)
     reaches.set(path, made)
     return made
   }

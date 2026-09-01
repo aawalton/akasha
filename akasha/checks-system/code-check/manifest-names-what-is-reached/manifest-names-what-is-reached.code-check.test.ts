@@ -6,7 +6,9 @@ import {
   ownerOf,
   packageOf,
   type Reach,
+  reachFrom,
   reachIn,
+  styleReachIn,
   typesFor,
   typesTargetOf,
   unnamedIn,
@@ -22,6 +24,8 @@ const MANIFEST = `${FOLDER}/package.json`
 const TSCONFIG = "tsconfig.json"
 
 const CONFIG = "capacitor.config.json"
+
+const STYLE_AT = `${FOLDER}/one/one.stylesheet.styles.css`
 
 const NOTHING: Reach = { packages: new Set(), protocols: new Set() }
 
@@ -281,4 +285,28 @@ test("a file is judged against the innermost package whose folder holds it", () 
 test("a file standing under no package is passed over", () => {
   expect(ownerOf(["akasha/one-system"], "akasha/two-system/two.module.code.ts")).toBe(null)
   expect(ownerOf(["akasha/one-system"], "akasha/one-system")).toBe(null)
+})
+
+test("a stylesheet names a module by an `@import`", () => {
+  const found = styleReachIn(STYLE_AT, '@import "@fontsource-variable/geist-mono";\n')
+  expect(found.packages).toEqual(new Set(["@fontsource-variable/geist-mono"]))
+})
+
+test("a stylesheet names a module by a `url()`", () => {
+  const body = 'src: url("@fontsource-variable/geist/files/geist-latin-wght-normal.woff2");\n'
+  expect(styleReachIn(STYLE_AT, body).packages).toEqual(new Set(["@fontsource-variable/geist"]))
+})
+
+test("a stylesheet reaching a sibling by a relative path reaches no package", () => {
+  expect(styleReachIn(STYLE_AT, '@import "./tokens.css";\n').packages).toEqual(new Set())
+})
+
+test("a url naming a scheme or a fragment reaches no package", () => {
+  const body = 'src: url("data:font/woff2;base64,AAA");\n  fill: url("#glyph");\n'
+  expect(styleReachIn(STYLE_AT, body).packages).toEqual(new Set())
+})
+
+test("a body read as a stylesheet is scanned and a body read as code is parsed", () => {
+  expect(reachFrom(STYLE_AT, '@import "zod";\n').packages).toEqual(new Set(["zod"]))
+  expect(reachFrom(AT, 'import one from "zod"\n').packages).toEqual(new Set(["zod"]))
 })

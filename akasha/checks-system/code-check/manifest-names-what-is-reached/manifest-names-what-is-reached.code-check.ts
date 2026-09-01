@@ -36,7 +36,27 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach is read from the parse rather than from the text.",
+      statement: "A reach in code is read from the parse rather than from the text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stylesheet names a module by an `@import` or by a `url()`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach in a stylesheet is found by scanning rather than by a parse.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A url naming a scheme or a fragment reaches no package.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stylesheet's reach credits a dependency rather than refusing the stylesheet.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A stylesheet is read by a parser rather than by a scan.",
     },
     {
       invariantKind: "absence",
