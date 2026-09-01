@@ -21,10 +21,4 @@ export const originKind = {
     "origin-kind/welsh",
   ],
   extendsSlug: "page-type/domain",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A name is taken from a language or taken from a work or made for her.",
-    },
-  ],
 } as const satisfies PageType

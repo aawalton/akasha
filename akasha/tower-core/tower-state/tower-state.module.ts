@@ -17,10 +17,6 @@ export const towerState = {
     },
     {
       invariantKind: "departure",
-      statement: "A chapter is open or closed or archived.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An illustration is anchored to the beat the illustration stands at.",
     },
   ],

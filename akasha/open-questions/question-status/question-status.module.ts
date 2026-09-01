@@ -9,10 +9,6 @@ export const questionStatus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A question stands open or answered or dismissed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Only an open question is still waiting on Alan.",
     },
     {
