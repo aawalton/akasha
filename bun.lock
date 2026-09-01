@@ -176,23 +176,47 @@
     },
     "akasha/design/design-badges": {
       "name": "@akasha/design-badges",
+      "dependencies": {
+        "@shared/design-primitives": "workspace:*",
+        "class-variance-authority": "^0.7.1",
+        "lucide-react": "^0.576.0",
+        "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "@radix-ui/react-slot": "*",
+        "react": "^18 || ^19",
+      },
     },
     "akasha/design/design-forms": {
       "name": "@akasha/design-forms",
       "dependencies": {
         "@shared/day": "workspace:*",
+        "@shared/design-primitives": "workspace:*",
         "chrono-node": "^2.9.0",
+        "class-variance-authority": "^0.7.1",
+        "input-otp": "^1.5.0",
+        "lucide-react": "^0.576.0",
+        "react-day-picker": "^9.13.0",
+        "react-hook-form": "^7.71.0",
         "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "@radix-ui/react-slot": "*",
+        "react": "^18 || ^19",
       },
     },
     "akasha/design/design-layout": {
       "name": "@akasha/design-layout",
       "dependencies": {
         "@shared/design-primitives": "workspace:*",
+        "@tanstack/react-virtual": "^3.14.10",
+        "class-variance-authority": "^0.7.1",
         "lucide-react": "^0.576.0",
       },
       "peerDependencies": {
+        "@radix-ui/react-collapsible": "*",
         "react": "^18 || ^19",
+        "react-dom": "^18 || ^19",
       },
     },
     "akasha/design/design-primitives": {
@@ -365,6 +389,7 @@
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "@akasha/pages-url": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/web-build-sha": "workspace:*",
@@ -5542,6 +5567,8 @@
     "ini": ["ini@4.1.3", "", {}, "sha512-X7rqawQBvfdjS10YU1y1YVreA3SsLrW9dX2CewP2EbBJM4ypVNLDkO5y04gejPwKIY9lR+7r9gn3rFPt/kmWFg=="],
 
     "inline-style-parser": ["inline-style-parser@0.2.7", "", {}, "sha512-Nb2ctOyNR8DqQoR0OwRG95uNWIC0C1lCgf5Naz5H6Ji72KZ8OcFZLz2P5sNgwlyoJ8Yif11oMuYs5pBQa86csA=="],
+
+    "input-otp": ["input-otp@1.5.0", "", { "peerDependencies": { "react": "^16.8 || ^17.0 || ^18.0 || ^19.0.0 || ^19.0.0-rc", "react-dom": "^16.8 || ^17.0 || ^18.0 || ^19.0.0 || ^19.0.0-rc" } }, "sha512-3AcfdW1sNG0FmSA5hHMBXG7jNW5CdcdKs8ln8JOmn6S2SRkoXoJx+2UwC+ZvjflfnOdHJx0SfQ9/YjlxVYLtGQ=="],
 
     "internmap": ["internmap@2.0.3", "", {}, "sha512-5Hh7Y1wQbvY5ooGgPbDaL5iYLAPzMTUrjMulskHLH6wnv/A+1q5rgEaiuqEjB+oxGXIVZs1FF+R/KPN3ZSQYYg=="],
 
