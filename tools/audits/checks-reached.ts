@@ -5,7 +5,7 @@ import type { Check, CheckOutcome } from "../lib/check.ts"
 import { judge, over } from "@akasha/verdict/outcome"
 import { pageTypePathIn } from "../../page/page-types.ts"
 import { refusalText } from "../../refusal/refusal.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const NAME = "checks-reached"
 
@@ -128,8 +128,8 @@ export const checksGoverned: Check = (repo) => {
   const there = scripts.filter((one) => !standsHere(one))
   const codeTree = `${root} at ${headOf(root)}`
   const required = new Map<string, readonly string[]>([
-    ...requiredReadingForEach(there, root, "code"),
-    ...requiredReadingForEach(here, root, "instructions"),
+    ...requiredReadingForEach(there, root, AKASHA),
+    ...requiredReadingForEach(here, root, AKASHA),
   ])
 
   const refusals: string[] = []
