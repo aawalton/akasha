@@ -10,7 +10,7 @@ export const fileShape = {
     {
       invariantKind: "departure",
       statement:
-        "A page type's slug is found by asking `@akasha/pages-system-service` for the page type carrying an id.",
+        "A page type's slug is found by asking `@akasha/pages-system-service` for the type carrying an id.",
     },
     {
       invariantKind: "departure",

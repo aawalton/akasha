@@ -31,8 +31,11 @@ export const fileRelation = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "`@akasha/pages-system-service` holds no index of what names what and answers one page type at a time.",
+      statement: "`@akasha/pages-system-service` holds no index of what names what.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "`@akasha/pages-system-service` answers one page type at a time.",
     },
   ],
 } as const satisfies Module

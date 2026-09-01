@@ -55,7 +55,7 @@ export const fileRead = {
     {
       invariantKind: "absence",
       statement:
-        "`@akasha/pages-system-service` draws no line between a page kept as a file and a page kept elsewhere.",
+        "`@akasha/pages-system-service` tells no page kept as a file from a page kept elsewhere.",
     },
   ],
 } as const satisfies Module

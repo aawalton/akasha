@@ -19,7 +19,7 @@ export const filePropertyDefs = {
     {
       invariantKind: "departure",
       statement:
-        "A refusal names `@akasha/pages-system/page-type-properties` as what reads a page type's properties off the index.",
+        "A refusal names `@akasha/pages-system/page-type-properties` as what reads properties off the index.",
     },
     {
       invariantKind: "absence",
