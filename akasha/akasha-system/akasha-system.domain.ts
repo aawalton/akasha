@@ -42,7 +42,7 @@ export const akashaSystem = {
     {
       invariantKind: "departure",
       statement:
-        "The akasha folder holds some four hundred of this repository's near ninety thousand files.",
+        "The akasha folder holds some seventeen hundred of this repository's near eighty-five thousand files.",
     },
     {
       invariantKind: "departure",
