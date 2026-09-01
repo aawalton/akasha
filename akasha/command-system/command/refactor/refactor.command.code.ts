@@ -184,10 +184,7 @@ export function landed(
   argv: readonly string[]
 ): Answer {
   const stood = baseOf(root)
-  const bodyText = (path: string): string | null => {
-    const bytes = bodyAt(root, stood, path)
-    return bytes === null ? null : textOf(bytes)
-  }
+  const bodyText = bodyTextOf(root, stood)
   const standing = (path: string): boolean => existsSync(join(root, path))
   const carries = carriesFor(root, one, standing)
   const moved = new Map<string, string>(carries.map((held) => [held.from, held.to]))
@@ -409,10 +406,7 @@ export function refactor(argv: readonly string[], given: Given): Answer {
     )
   }
   const stood = baseOf(root)
-  const asked = renamingFor(root, from, to, plural, (path) => {
-    const bytes = bodyAt(root, stood, path)
-    return bytes === null ? null : textOf(bytes)
-  })
+  const asked = renamingFor(root, from, to, plural, bodyTextOf(root, stood))
   if ("refused" in asked) return answering([], [asked.refused], 1)
   return landed(given, root, asked.renaming, read.dryRun, argv)
 }

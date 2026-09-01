@@ -6,7 +6,7 @@ import { knownIn, namesIn, namingsIn, reaches, type Shaped } from "@akasha/index
 import { addressIn } from "@akasha/pages-system/page-address"
 import { exportedAs, typedAs } from "@akasha/pages-system/page-export-name"
 import type { Value } from "@akasha/pages-system/page-value"
-import { valueIn } from "@akasha/pages-system/page-value"
+import { valuesOver } from "@akasha/pages-system/page-value"
 import ts from "typescript"
 import type { Renaming, Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
@@ -55,10 +55,7 @@ export function spellingOver(
   one: Renaming,
   textOf: (path: string) => string | null
 ): Spelling {
-  const loadedAt = (path: string): Value | null => {
-    const text = textOf(path)
-    return text === null ? null : valueIn(text)
-  }
+  const loadedAt = valuesOver(textOf)
   const known = knownIn(readingIn(root), root, loadedAt)
   const found = new Map<string, Held>()
   const take = (id: string, type: boolean): undefined => {

@@ -7,8 +7,10 @@ import { addressIn } from "@akasha/pages-system/page-address"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { namedIn } from "@akasha/pages-system/page-file-name"
 import type { Value } from "@akasha/pages-system/page-value"
-import { valueIn } from "@akasha/pages-system/page-value"
+import { valuesOver } from "@akasha/pages-system/page-value"
 import ts from "typescript"
+import type { Spot } from "../../refactor/type-renaming/type-renaming.module.code.ts"
+import { splicedIn } from "../../refactor/type-renaming/type-renaming.module.code.ts"
 
 const SLUG = "slug"
 
@@ -49,8 +51,6 @@ export function besideRenamed(name: string, one: Renaming): string {
   return name.startsWith(said) ? `${one.now}.${one.pageTypeSlug}.${name.slice(said.length)}` : name
 }
 
-type Spot = { readonly start: number; readonly end: number }
-
 function slugSpotIn(source: ts.SourceFile, held: ts.ObjectLiteralExpression): Spot | null {
   for (const one of held.properties) {
     if (!ts.isPropertyAssignment(one)) continue
@@ -76,16 +76,6 @@ export function statedIn(path: string, text: string): Stated | null {
     }
   }
   return null
-}
-
-function splicedIn(text: string, said: readonly (readonly [Spot, string])[]): string {
-  let out = ""
-  let at = 0
-  for (const [spot, held] of [...said].sort((one, two) => one[0].start - two[0].start)) {
-    out = `${out}${text.slice(at, spot.start)}${held}`
-    at = spot.end
-  }
-  return `${out}${text.slice(at)}`
 }
 
 export function restated(path: string, text: string, now: string): string | null {
@@ -156,10 +146,7 @@ export function addressingOver(
   textOf: (path: string) => string | null
 ): Addressing {
   if (renamings.length === 0) return NOTHING_ADDRESSED
-  const loadedAt = (path: string): Value | null => {
-    const text = textOf(path)
-    return text === null ? null : valueIn(text)
-  }
+  const loadedAt = valuesOver(textOf)
   const known = knownIn(readingIn(root), root, loadedAt)
   const found = new Map<string, Map<string, string>>()
   for (const one of renamings) {
