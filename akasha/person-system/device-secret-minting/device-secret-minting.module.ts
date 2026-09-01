@@ -30,6 +30,54 @@ export const deviceSecretMinting = {
       statement: "A device that could not be asked mints one.",
     },
     {
+      invariantKind: "constraint",
+      statement: "The route answered here judges the credential alone.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A store that did not answer is read as no answer rather than as a refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A device the route refuses lets go of its secret.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A device that let go of its secret mints another.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A device the route admits keeps what it holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A device the route left unanswered keeps what it holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A device presenting nothing to the route is read as refused.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A device recovers once in a day and no more.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A recovery mark later than now is read as no mark.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The keychain is emptied before the mint rather than after it.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The plaintext secret is never handed back out of the keychain.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "How often a device recovered is written nowhere.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches the keychain or the route.",
     },
