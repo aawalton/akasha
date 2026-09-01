@@ -1,4 +1,4 @@
-import { MintDeviceSecretSchema } from "~/device-secret/lib/device-secret"
+import { mintDeviceSecretSchema } from "@akasha/person-system/device-secret-body"
 import { mintDeviceSecret } from "~/device-secret/lib/device-secrets.server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
 import { holdsRouteAccess, ROUTE_TARGETS } from "~/person-access/lib/route-access.server"
@@ -41,7 +41,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
       { status: 400, headers: withCors(ctx.headers, cors) }
     )
   }
-  const parsed = MintDeviceSecretSchema.safeParse(body)
+  const parsed = mintDeviceSecretSchema.safeParse(body)
   if (!parsed.success) {
     return Response.json(
       { ok: false, error: "Invalid device secret mint." },

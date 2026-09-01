@@ -1,4 +1,4 @@
-import { RevokeDeviceSecretSchema } from "~/device-secret/lib/device-secret"
+import { revokeDeviceSecretSchema } from "@akasha/person-system/device-secret-body"
 import { revokeDeviceSecret } from "~/device-secret/lib/device-secrets.server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
 import { resolveDeviceTokenContext } from "~/push/lib/device-tokens.server"
@@ -33,7 +33,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
       { status: 400, headers: withCors(ctx.headers, cors) }
     )
   }
-  const parsed = RevokeDeviceSecretSchema.safeParse(body)
+  const parsed = revokeDeviceSecretSchema.safeParse(body)
   if (!parsed.success) {
     return Response.json(
       { ok: false, error: "Invalid device secret revoke." },

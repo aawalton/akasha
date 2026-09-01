@@ -3,11 +3,11 @@
 import { UserIdContext } from "@shared/pages-ui/use-user-id"
 import { useContext, useEffect, useRef } from "react"
 import {
-  MintDeviceSecretResponseSchema,
-  MintDeviceSecretSchema,
-  RevokeDeviceSecretSchema,
-} from "~/device-secret/lib/device-secret"
-import { decideMintAction, type PeekProbe } from "~/device-secret/lib/mint-decision"
+  mintDeviceSecretResponseSchema,
+  mintDeviceSecretSchema,
+  revokeDeviceSecretSchema,
+} from "@akasha/person-system/device-secret-body"
+import { decideMintAction, type PeekProbe } from "@akasha/person-system/device-secret-minting"
 import { apiFetch } from "~/lib/api-fetch"
 import { type DeviceSecretPlugin, getDeviceSecret, isNativeShell } from "~/lib/capacitor-bridge"
 
@@ -34,7 +34,7 @@ async function mintAndStore(plugin: DeviceSecretPlugin, userId: string): Promise
     return
   }
 
-  const body = MintDeviceSecretSchema.safeParse({ deviceId })
+  const body = mintDeviceSecretSchema.safeParse({ deviceId })
   if (!body.success) {
     console.error("[device-secret] built an invalid mint body", body.error.issues)
     return
@@ -51,7 +51,7 @@ async function mintAndStore(plugin: DeviceSecretPlugin, userId: string): Promise
       console.error("[device-secret] mint POST failed", res.status)
       return
     }
-    const payload = MintDeviceSecretResponseSchema.safeParse(await res.json())
+    const payload = mintDeviceSecretResponseSchema.safeParse(await res.json())
     if (!payload.success) {
       console.error("[device-secret] mint response did not match the expected shape")
       return
@@ -84,7 +84,7 @@ async function clearAndRevoke(plugin: DeviceSecretPlugin): Promise<void> {
   try {
     const deviceId = (await plugin.getDeviceId()).deviceId
     if (deviceId == null) return
-    const body = RevokeDeviceSecretSchema.safeParse({ deviceId })
+    const body = revokeDeviceSecretSchema.safeParse({ deviceId })
     if (!body.success) return
     const res = await apiFetch("/api/device-secret/revoke", {
       method: "POST",
