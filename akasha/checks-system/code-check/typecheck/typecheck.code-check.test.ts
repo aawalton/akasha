@@ -302,12 +302,12 @@ test("a file whole at base and deleted from the worktree alone still answers for
   })
   const held = readFileSync(join(root, "akasha/b.ts"), "utf8")
   const changed = { "akasha/a.ts": "export const one: number = 1\n" }
-  const standing = judged(change(root, changed))
+  const refusals = judged(change(root, changed))
   rmSync(join(root, "akasha/b.ts"))
   const gone = judged(change(root, changed, { "akasha/b.ts": held }))
-  expect(standing).toHaveLength(1)
-  expect(standing[0]?.path).toBe("akasha/b.ts")
-  expect(gone).toEqual(standing)
+  expect(refusals).toHaveLength(1)
+  expect(refusals[0]?.path).toBe("akasha/b.ts")
+  expect(gone).toEqual(refusals)
 })
 
 test("a diagnostic naming no file is thrown, because nothing could be kept against it", () => {
