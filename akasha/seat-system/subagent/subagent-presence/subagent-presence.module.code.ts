@@ -1,4 +1,4 @@
-import { existsSync } from "node:fs"
+import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
 import type { Given } from "@akasha/command-system/calling"
@@ -118,6 +118,32 @@ export function took(root: string, seatName: string, own: string): boolean {
     `${slug} is done, so its page goes; what it was stands in this repository's history`
   )
   if (gone) dropReadings(root, [at])
+  return gone
+}
+
+export function pathsUnder(root: string, seatName: string): readonly string[] {
+  const mark = `${seatName}-`
+  let names: readonly string[]
+  try {
+    names = readdirSync(join(root, SUBAGENTS_AT))
+  } catch {
+    return []
+  }
+  return names
+    .filter((one) => one.startsWith(mark) && one.endsWith(SUFFIX))
+    .map((one) => `${SUBAGENTS_AT}/${one}`)
+    .sort()
+}
+
+export function tookUnder(root: string, seatName: string, why: string): boolean {
+  const paths = pathsUnder(root, seatName)
+  if (paths.length === 0) return true
+  const gone = handed(
+    root,
+    paths.map((path) => ({ path, body: null })),
+    `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`
+  )
+  if (gone) dropReadings(root, paths)
   return gone
 }
 
