@@ -3,7 +3,7 @@ id: 9d5df7d2-01ab-5e24-bc00-714202ab9c81
 page-type-slug: list
 title: "Idle live seat"
 slug: idle-live-seat
-domain-parent-slug: page-property-definition/seat-presence
+domain-parent-slug: domain/seat-observation
 ---
 
 # Definition

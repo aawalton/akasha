@@ -6,11 +6,7 @@ slug: seat-charter
 domain-parent-slug: domain/seat-declaration
 sequence-slugs:
   - domain/seat-principal
-  - page-property-definition/seat-start-mode
-  - page-property-definition/seat-mode
   - domain/seat-flex
-  - page-property-definition/seat-registration-account
-  - page-property-definition/seat-creator-name
 settled: true
 ---
 

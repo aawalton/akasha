@@ -5,19 +5,7 @@ title: "Seat observation"
 slug: seat-observation
 domain-parent-slug: domain/agent-definitions
 sequence-slugs:
-  - page-property-definition/seat-presence
   - domain/seat-turn
-  - page-property-definition/seat-turn-state
-  - page-property-definition/seat-supervisor-process
-  - page-property-definition/seat-proxy-process
-  - page-property-definition/seat-proxy-port
-  - page-property-definition/seat-proxy-version
-  - page-property-definition/seat-model
-  - page-property-definition/seat-context-tokens
-  - page-property-definition/seat-cost-usd
-  - page-property-definition/seat-claude-code-session-uuid
-  - page-property-definition/seat-transcript-path
-  - page-property-definition/seat-rotated-session-uuid
 ---
 
 # Definition

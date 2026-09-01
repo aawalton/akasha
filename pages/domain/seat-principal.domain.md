@@ -4,9 +4,6 @@ page-type-slug: domain
 title: "Seat principal"
 slug: seat-principal
 domain-parent-slug: domain/seat-charter
-sequence-slugs:
-  - page-property-definition/seat-person-slug
-  - page-property-definition/seat-principal-seat-name
 settled: true
 ---
 
