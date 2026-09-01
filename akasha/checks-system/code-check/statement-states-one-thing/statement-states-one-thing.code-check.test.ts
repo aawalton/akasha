@@ -22,22 +22,22 @@ function paged(...every: readonly string[]): string {
   return ["export const held = {", "  invariants: [", ...held, "  ],", "}", ""].join("\n")
 }
 
-function quoted(said: string): string {
-  return JSON.stringify(said)
-}
-
 test("a page carrying no invariant is let through", () => {
   expect(reasonsIn(given('export const held = { slug: "held" }\n'))).toEqual([])
 })
 
 test("one sentence carrying no mark of its own is let through", () => {
-  const body = paged(quoted("A slug becomes a page's export name."))
+  const body = paged(JSON.stringify("A slug becomes a page's export name."))
   expect(reasonsIn(given(body))).toEqual([])
 })
 
 test("a statement giving its reason is refused and the clause it turns on is named", () => {
   const said = reasonsIn(
-    given(paged(quoted("A slug becomes an export name because reaching the format is an import.")))
+    given(
+      paged(
+        JSON.stringify("A slug becomes an export name because reaching the format is an import.")
+      )
+    )
   )
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 3")
@@ -47,12 +47,14 @@ test("a statement giving its reason is refused and the clause it turns on is nam
 })
 
 test("`since` states a reason as `because` does", () => {
-  const body = paged(quoted("A cast is refused since claiming a shape is not proving one."))
+  const body = paged(JSON.stringify("A cast is refused since claiming a shape is not proving one."))
   expect(reasonsIn(given(body))[0]).toContain("states why at `since`")
 })
 
 test("a comma joins a second fact and is refused", () => {
-  const body = paged(quoted("Patch judges only the paths a change carries, so it is turned on."))
+  const body = paged(
+    JSON.stringify("Patch judges only the paths a change carries, so it is turned on.")
+  )
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 3 joins a second fact at `,`")
@@ -61,7 +63,9 @@ test("a comma joins a second fact and is refused", () => {
 })
 
 test("a semicolon joins a second fact as a comma does", () => {
-  const body = paged(quoted("The indexes answer what stands; the graph answers what follows."))
+  const body = paged(
+    JSON.stringify("The indexes answer what stands; the graph answers what follows.")
+  )
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("joins a second fact at `;`")
@@ -69,12 +73,14 @@ test("a semicolon joins a second fact as a comma does", () => {
 })
 
 test("a colon joins a second fact as a comma does", () => {
-  const body = paged(quoted("The rule is plain: a statement says one thing."))
+  const body = paged(JSON.stringify("The rule is plain: a statement says one thing."))
   expect(reasonsIn(given(body))[0]).toContain("joins a second fact at `:`")
 })
 
 test("a dash joins a second fact as a comma does", () => {
-  const body = paged(quoted("A path the index files nothing for is passed over — not thrown on."))
+  const body = paged(
+    JSON.stringify("A path the index files nothing for is passed over — not thrown on.")
+  )
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("joins a second fact at `—`")
@@ -82,7 +88,9 @@ test("a dash joins a second fact as a comma does", () => {
 })
 
 test("two sentences in one statement are refused and the second is the one shown", () => {
-  const body = paged(quoted("The place is said here alone. What stands under it is named away."))
+  const body = paged(
+    JSON.stringify("The place is said here alone. What stands under it is named away.")
+  )
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("holds two sentences")
@@ -90,20 +98,24 @@ test("two sentences in one statement are refused and the second is the one shown
 })
 
 test("a full stop closing the statement is no second sentence", () => {
-  expect(reasonsIn(given(paged(quoted("A page is one TypeScript file."))))).toEqual([])
+  expect(reasonsIn(given(paged(JSON.stringify("A page is one TypeScript file."))))).toEqual([])
 })
 
 test("a full stop inside a spelt name is no second sentence", () => {
-  expect(reasonsIn(given(paged(quoted("The name `libc.so.6` reaches nothing."))))).toEqual([])
+  expect(reasonsIn(given(paged(JSON.stringify("The name `libc.so.6` reaches nothing."))))).toEqual(
+    []
+  )
 })
 
 test("a mark inside a spelt name is no mark of the statement's own", () => {
-  const body = paged(quoted("`tmpdir` is refused where it is taken from `node:os`."))
+  const body = paged(JSON.stringify("`tmpdir` is refused where it is taken from `node:os`."))
   expect(reasonsIn(given(body))).toEqual([])
 })
 
 test("a mark outside a spelt name is found where a spelt name stands beside it", () => {
-  const body = paged(quoted("A method declaring `this: void` is refused, and nothing else is."))
+  const body = paged(
+    JSON.stringify("A method declaring `this: void` is refused, and nothing else is.")
+  )
   expect(reasonsIn(given(body))[0]).toContain("joins a second fact at `,`")
 })
 
@@ -120,7 +132,10 @@ test("the earliest mark in a statement is the one named", () => {
 })
 
 test("a word merely carrying those letters is let through with the word read whole", () => {
-  const body = paged(quoted("A reading is sincere."), quoted("A file is refused as a stray."))
+  const body = paged(
+    JSON.stringify("A reading is sincere."),
+    JSON.stringify("A file is refused as a stray.")
+  )
   expect(reasonsIn(given(body))).toEqual([])
 })
 
@@ -180,9 +195,9 @@ test("a statement no reading can settle is passed over rather than guessed at", 
 
 test("every invariant a page carries is reported and not only the first", () => {
   const body = paged(
-    quoted("A page is named because the slug says so."),
-    quoted("A page is named, so the slug says it."),
-    quoted("A page is named for its slug.")
+    JSON.stringify("A page is named because the slug says so."),
+    JSON.stringify("A page is named, so the slug says it."),
+    JSON.stringify("A page is named for its slug.")
   )
   expect(reasonsIn(given(body))).toHaveLength(2)
 })
@@ -191,7 +206,7 @@ test("a file that is not TypeScript is passed over", () => {
   const held = {
     root: ROOT,
     path: "akasha/notes.md",
-    bytes: new TextEncoder().encode(paged(quoted("A page is named because it is."))),
+    bytes: new TextEncoder().encode(paged(JSON.stringify("A page is named because it is."))),
   }
   expect(reasonsIn(held)).toEqual([])
 })
