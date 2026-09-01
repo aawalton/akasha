@@ -1,6 +1,6 @@
 "use client"
 
-import { FilterGroup } from "@shared/design-patterns/components/filter-group"
+import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { FilterableList, FilterableListItem } from "@akasha/design-primitives/filterable-list"
 import { SubView } from "@akasha/design-primitives/sub-view"
 import { GALLERY_CARD_SIZES, type GalleryCardSize } from "@akasha/pages-core/view/gallery"

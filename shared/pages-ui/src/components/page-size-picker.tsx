@@ -1,7 +1,7 @@
 "use client"
 
 import { NumberBadge } from "@akasha/design-badges/number-badge"
-import { FilterGroup } from "@shared/design-patterns/components/filter-group"
+import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { SubView } from "@akasha/design-primitives/sub-view"
 import { DEFAULT_GROUP_PAGE_SIZE, DEFAULT_ITEM_PAGE_SIZE, DEFAULT_PAGE_SIZE } from "@akasha/pages-core/schema/view-data"
 

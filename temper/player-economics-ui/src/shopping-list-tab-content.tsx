@@ -10,7 +10,7 @@ import { Card, CardContent, CardTitleBadges } from "@akasha/design-primitives/ca
 import { Progress } from "@akasha/design-primitives/progress-bar"
 import { Text } from "@akasha/design-primitives/text-body"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
-import { ItemRow } from "@shared/design-patterns/components/item-row"
+import { ItemRow } from "@akasha/design-patterns/item-row"
 import { needToShoppingItem, needToShoppingKey } from "@temper/player-economics-core/companion-gear-shopping-bridge"
 import { isShoppingSettings } from "@temper/player-economics-core/shopping-not-available-types"
 import { PricingRegionNote } from "@temper/player-inventory-management-ui/pricing-region-note"

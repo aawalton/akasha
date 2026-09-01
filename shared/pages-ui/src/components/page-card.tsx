@@ -2,7 +2,7 @@
 
 import { PANEL_CARD_WIDTH_CLASSES } from "@akasha/design-layout/panel-card-data"
 import { Icon } from "@akasha/design-patterns/lucide-icon"
-import { IconPicker } from "@shared/design-patterns/components/icon-picker"
+import { IconPicker } from "@akasha/design-patterns/icon-picker"
 import { Card, CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"

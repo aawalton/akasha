@@ -2,7 +2,7 @@
 
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { TabsContent } from "@shared/design-patterns/components/tabs"
+import { TabsContent } from "@akasha/design-patterns/tabs"
 import { ComponentsCompoundNavPanels } from "./components-compound-nav-panels"
 import { ComponentsCompoundPanels } from "./components-compound-panels"
 import { ComponentsCorePanels } from "./components-core-panels"

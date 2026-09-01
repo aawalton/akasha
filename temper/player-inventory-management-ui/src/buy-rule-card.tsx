@@ -8,7 +8,7 @@ import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, 
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Text } from "@akasha/design-primitives/text-body"
-import { ItemCard } from "@shared/design-patterns/components/item-card"
+import { ItemCard } from "@akasha/design-patterns/item-card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
 import { EllipsisVertical, Info, ShoppingCart } from "lucide-react"

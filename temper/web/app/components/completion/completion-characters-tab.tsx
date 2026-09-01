@@ -2,7 +2,7 @@
 
 import { type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
-import { TabsContent } from "@shared/design-patterns/components/tabs"
+import { TabsContent } from "@akasha/design-patterns/tabs"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import { buildCharacterSummary } from "@temper/player-completion/completion-summary"
 import { useMemo } from "react"

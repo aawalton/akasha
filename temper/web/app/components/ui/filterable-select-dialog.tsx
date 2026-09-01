@@ -7,7 +7,7 @@ import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, Command
 import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
 import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { ItemCard } from "@shared/design-patterns/components/item-card"
+import { ItemCard } from "@akasha/design-patterns/item-card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 import { formatEffects } from "@temper/game-characters-stats/metrics/format-effects"

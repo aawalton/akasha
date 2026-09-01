@@ -1,6 +1,6 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
-import { ItemCard } from "@shared/design-patterns/components/item-card"
+import { ItemCard } from "@akasha/design-patterns/item-card"
 import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
 import { grimoires } from "@temper/game-characters-skills/scribing/grimoires-data"

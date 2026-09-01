@@ -3,7 +3,7 @@
 import { BookOpen, Component, LayoutGrid, Palette, Puzzle } from "lucide-react"
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
-import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"
+import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
 import { BrandTabContent } from "./brand-tab"
 import { ComponentsTabContent } from "./components-tab"
 import { LayoutTabContent } from "./layout-tab"

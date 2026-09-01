@@ -7,7 +7,7 @@ import { Heading } from "@akasha/design-primitives/heading"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle, SheetTrigger } from "@akasha/design-primitives/sheet"
 import { formatCompact, formatFull, formatPercent, formatPercentFull, Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableRowLabel, TableTotalCell, TableValue } from "@akasha/design-primitives/table"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@akasha/design-patterns/tabs"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 

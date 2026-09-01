@@ -2,7 +2,7 @@
 
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { TabsContent } from "@shared/design-patterns/components/tabs"
+import { TabsContent } from "@akasha/design-patterns/tabs"
 import { BordersPanel } from "./borders"
 import { GemstoneColorsPanel } from "./gemstone-colors"
 import { SpacingRadiusPanel } from "./spacing-radius"

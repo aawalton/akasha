@@ -8,8 +8,8 @@ import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scrol
 import { ScrollArea, ScrollBar } from "@akasha/design-primitives/scroll-area"
 import { Chip } from "@akasha/design-patterns/chip"
 import { ChipList } from "@akasha/design-patterns/chip-list"
-import { ItemCard } from "@shared/design-patterns/components/item-card"
-import { ItemRow } from "@shared/design-patterns/components/item-row"
+import { ItemCard } from "@akasha/design-patterns/item-card"
+import { ItemRow } from "@akasha/design-patterns/item-row"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 

@@ -1,6 +1,6 @@
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@akasha/design-patterns/tabs"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { ClientSheet } from "../lib/client-session"
 

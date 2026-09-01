@@ -10,7 +10,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 import { QueryErrorBoundary } from "@shared/design-patterns/components/query-error-boundary"
-import { StatRow } from "@shared/design-patterns/components/stat-row"
+import { StatRow } from "@akasha/design-patterns/stat-row"
 import { PagesUILink as Link, usePagesUIRouter } from "@shared/pages-ui/router-context"
 import {
   applyCharacterMetadata,

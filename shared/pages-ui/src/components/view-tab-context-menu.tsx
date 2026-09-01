@@ -1,7 +1,7 @@
 "use client"
 
 import { Icon } from "@akasha/design-patterns/lucide-icon"
-import { MenuTabsTrigger } from "@shared/design-patterns/components/tabs"
+import { MenuTabsTrigger } from "@akasha/design-patterns/tabs"
 import { Button } from "@akasha/design-primitives/button"
 import { Dialog, DialogBody, DialogContent, DialogFooter, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
 import { DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator } from "@akasha/design-primitives/dropdown-menu"

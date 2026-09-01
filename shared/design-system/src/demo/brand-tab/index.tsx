@@ -2,7 +2,7 @@
 
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { TabsContent } from "@shared/design-patterns/components/tabs"
+import { TabsContent } from "@akasha/design-patterns/tabs"
 import { BrandHeartPanel } from "./brand-heart"
 import { PersonalityTonePanel } from "./personality-tone"
 import { StrategicPrismPanel } from "./strategic-prism"

@@ -2,9 +2,9 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
-import { SearchButton } from "@shared/design-patterns/components/search-button"
-import { SearchSortFilterRow } from "@shared/design-patterns/components/search-sort-filter-row"
-import { SortButton } from "@shared/design-patterns/components/sort-button"
+import { SearchButton } from "@akasha/design-patterns/search-button"
+import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
+import { SortButton } from "@akasha/design-patterns/sort-button"
 import type { Dispatch, SetStateAction } from "react"
 import type { ViewConfig, ViewFilter } from "@akasha/pages-core/schema/view-data"
 import type { PageRow } from "../view-engine/page-row"

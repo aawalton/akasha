@@ -1,6 +1,6 @@
 "use client"
 
-import { ItemCard } from "@shared/design-patterns/components/item-card"
+import { ItemCard } from "@akasha/design-patterns/item-card"
 import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
 import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
 import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"

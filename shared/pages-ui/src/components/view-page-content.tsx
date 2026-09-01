@@ -2,7 +2,7 @@
 
 import { PageTitleBadges } from "@akasha/design-layout/page-layout"
 import { useLayoutSearchParams } from "@akasha/design-layout/router-context"
-import { TabsContent } from "@shared/design-patterns/components/tabs"
+import { TabsContent } from "@akasha/design-patterns/tabs"
 import { parseNavConfig } from "@akasha/pages-core/schema/nav-config"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"

@@ -2,8 +2,8 @@
 
 import { formatGold } from "@akasha/design-primitives/format-gold"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { ItemRow } from "@shared/design-patterns/components/item-row"
-import { useSetToggle } from "@shared/design-patterns/hooks/use-set-toggle"
+import { ItemRow } from "@akasha/design-patterns/item-row"
+import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { buildNodePath } from "@akasha/design-patterns/path"
 import { type SortDirection } from "@akasha/design-patterns/sort-types"
 import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"

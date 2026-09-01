@@ -3,7 +3,7 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { Tabs, TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
+import { Tabs, TabsList, TabsTrigger } from "@akasha/design-patterns/tabs"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { Shield, Swords } from "lucide-react"
 import { StatsToolbar } from "@/components/stats/components/stats-toolbar"

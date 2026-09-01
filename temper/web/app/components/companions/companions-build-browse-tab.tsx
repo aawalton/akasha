@@ -7,7 +7,7 @@ import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
-import { TabsContent } from "@shared/design-patterns/components/tabs"
+import { TabsContent } from "@akasha/design-patterns/tabs"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { getCompanionName } from "@temper/game-companions-core/companions-data"
 import { FolderOpen, Search } from "lucide-react"

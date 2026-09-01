@@ -7,7 +7,7 @@ import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { Text } from "@akasha/design-primitives/text-body"
-import { ItemCard } from "@shared/design-patterns/components/item-card"
+import { ItemCard } from "@akasha/design-patterns/item-card"
 import {
   goalIdToValue,
   goalValueToId,

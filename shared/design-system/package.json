@@ -55,7 +55,6 @@
     "@akasha/design-primitives": "workspace:*",
     "@fontsource-variable/geist": "5.2.9",
     "@fontsource-variable/geist-mono": "5.2.8",
-    "@shared/design-patterns": "workspace:*",
     "lucide-react": "^0.576.0",
     "react-day-picker": "^9.13.0",
     "react-hook-form": "^7.71.0",

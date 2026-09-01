@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
-import { TabsContent } from "@shared/design-patterns/components/tabs"
+import { TabsContent } from "@akasha/design-patterns/tabs"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { SkillLineCategoryId } from "@temper/game-characters-skill-lines/skill-line-categories"
 import type { BuildId } from "@temper/shared-formula-framework/branded"

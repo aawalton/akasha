@@ -2,7 +2,7 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { ItemCard } from "@shared/design-patterns/components/item-card"
+import { ItemCard } from "@akasha/design-patterns/item-card"
 import type { ClassId } from "@temper/game-characters-classes/classes-data"
 import {
   type ArmorEnchantId,

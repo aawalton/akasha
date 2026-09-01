@@ -6,7 +6,7 @@ import { MultiSelect, type MultiSelectItem } from "@akasha/design-forms/multi-se
 import { SearchMultiSelect, type SearchMultiSelectItem } from "@akasha/design-forms/search-multi-select"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Heading } from "@akasha/design-primitives/heading"
-import { SearchButton } from "@shared/design-patterns/components/search-button"
+import { SearchButton } from "@akasha/design-patterns/search-button"
 
 const FIRST_MULTI_SELECT_ITEM: MultiSelectItem = { value: "warrior", label: "Warrior" }
 const MULTI_SELECT_ITEMS: MultiSelectItem[] = [

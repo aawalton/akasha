@@ -3,7 +3,7 @@ import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Heading } from "@akasha/design-primitives/heading"
-import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@shared/design-patterns/components/tabs"
+import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@akasha/design-patterns/tabs"
 import { List } from "lucide-react"
 
 export function meta() {

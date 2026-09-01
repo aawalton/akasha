@@ -2,8 +2,8 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { StatRow } from "@shared/design-patterns/components/stat-row"
-import { useSetToggle } from "@shared/design-patterns/hooks/use-set-toggle"
+import { StatRow } from "@akasha/design-patterns/stat-row"
+import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { buildNodePath } from "@akasha/design-patterns/path"
 import { type SortDirection } from "@akasha/design-patterns/sort-types"
 import {

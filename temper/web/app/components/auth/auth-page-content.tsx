@@ -1,6 +1,6 @@
 "use client"
 
-import { type AuthMode, type AuthSubmitPayload, AuthPageContent as DSAuthPageContent } from "@shared/design-patterns/components/auth-page-content"
+import { type AuthMode, type AuthSubmitPayload, AuthPageContent as DSAuthPageContent } from "@akasha/design-patterns/auth-page-content"
 import { usePagesUIRouter } from "@shared/pages-ui/router-context"
 import { safeInternalPath } from "@akasha/pages-url/safe-target"
 import { signInWithPassword, signUpWithPassword } from "@shared/supabase-rr/auth/client"

@@ -1,4 +1,4 @@
-import { StatRow } from "@shared/design-patterns/components/stat-row"
+import { StatRow } from "@akasha/design-patterns/stat-row"
 import type { MetricTreeNode } from "@temper/game-characters-stats/metrics/metric-tree-types"
 import type { MetricValue } from "@temper/game-characters-stats/metrics/types"
 import {

@@ -1,8 +1,8 @@
 "use client"
 
-import { AddFilterButton } from "@shared/design-patterns/components/add-filter-button"
-import { FilterButton } from "@shared/design-patterns/components/filter-button"
-import { FilterGroup } from "@shared/design-patterns/components/filter-group"
+import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
+import { FilterButton } from "@akasha/design-patterns/filter-button"
+import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { useState } from "react"
 import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
 import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"

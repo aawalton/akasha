@@ -1,4 +1,4 @@
-import { useFilterPersistence } from "@shared/design-patterns/hooks/use-filter-persistence"
+import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { activityCategories } from "@temper/player-completion/activity-category-data"
 import type { CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"

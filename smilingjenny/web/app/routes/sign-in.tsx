@@ -1,4 +1,4 @@
-import { AuthPageContent } from "@shared/design-patterns/components/auth-page-content"
+import { AuthPageContent } from "@akasha/design-patterns/auth-page-content"
 import { signInWithPassword } from "@shared/supabase-rr/auth/client"
 
 export default function SignIn() {

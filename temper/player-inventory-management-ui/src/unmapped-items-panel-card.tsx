@@ -3,7 +3,7 @@
 import { formatGold } from "@akasha/design-primitives/format-gold"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Text } from "@akasha/design-primitives/text-body"
-import { ItemRow } from "@shared/design-patterns/components/item-row"
+import { ItemRow } from "@akasha/design-patterns/item-row"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
 import { useMemo } from "react"

@@ -8,7 +8,7 @@ import { Heading } from "@akasha/design-primitives/heading"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@akasha/design-primitives/table"
 import { COLUMN_WIDTH } from "@akasha/design-layout/layout-data"
 import { getPageWidth } from "@akasha/design-layout/page-layout-data"
-import { TabsContent } from "@shared/design-patterns/components/tabs"
+import { TabsContent } from "@akasha/design-patterns/tabs"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 

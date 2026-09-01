@@ -1,5 +1,5 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { StatRow } from "@shared/design-patterns/components/stat-row"
+import { StatRow } from "@akasha/design-patterns/stat-row"
 import type { BuffOrDebuffSource } from "@temper/shared-formula-framework/buff-or-debuff-source"
 import { type EffectSource, isNamedSource } from "@temper/shared-formula-framework/effect-source"
 import {

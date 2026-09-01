@@ -2,7 +2,7 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { StatRow } from "@shared/design-patterns/components/stat-row"
+import { StatRow } from "@akasha/design-patterns/stat-row"
 import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
 import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import { type PageDataJSON, type PropertyDefinition } from "@akasha/pages-core/types"

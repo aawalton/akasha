@@ -1,7 +1,7 @@
 import { Button } from "@akasha/design-primitives/button"
 import { Command, CommandInput, CommandList } from "@akasha/design-primitives/command"
 import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
-import { ItemCard } from "@shared/design-patterns/components/item-card"
+import { ItemCard } from "@akasha/design-patterns/item-card"
 import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
 import {

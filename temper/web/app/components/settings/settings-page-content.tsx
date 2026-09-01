@@ -2,8 +2,8 @@
 
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
-import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"
-import { useFilterPersistence } from "@shared/design-patterns/hooks/use-filter-persistence"
+import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
+import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
 import type { SupabaseUser } from "@shared/supabase-rr/auth/server"
 import { Bell, Package, Sliders, User as UserIcon } from "lucide-react"
 import { AccountTab } from "@/components/settings/account-tab"
