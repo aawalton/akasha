@@ -1,10 +1,6 @@
-import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
-import {
-  everyOfType,
-  listedById,
-  typeSlugOf,
-} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { type Value, valueAt } from "../../pages-system/page/page-value/page-value.module.code.ts"
+import { rootOf } from "@akasha/command-system/rooting"
+import { everyOfType, listedById, typeSlugOf } from "@akasha/indexes"
+import { type Value, valueAt } from "@akasha/pages-system/page-value"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 

@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../../pages-system/record-property/record-property.page-type.ts"
+import type { RecordProperty } from "@akasha/pages-system/record-property"
 import type { ContextReplacedAt } from "./context-replaced-at.instant-property.ts"
 import type { ContextReplacedSource } from "./context-replaced-source.text-property.ts"
 
