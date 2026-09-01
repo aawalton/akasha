@@ -51,7 +51,7 @@ function ruleFiled(root: string): undefined {
 
 function nowhereOnDisk(root: string): Shadow {
   const shadow = shadowAt(root)
-  return { reading: shadow.reading, pageOf: shadow.pageOf, codeAt: () => null }
+  return { ...shadow, codeAt: () => null }
 }
 
 function ruling(slug: string, line: number, reason: string): Rule {

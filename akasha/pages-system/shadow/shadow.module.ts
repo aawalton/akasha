@@ -15,6 +15,18 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A shadow answers the index's questions through a face of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That face is bound to the reading the shadow holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every way a shadow is made binds that face.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What the change files is worked out by the same rule a landing settles by.",
     },
     {

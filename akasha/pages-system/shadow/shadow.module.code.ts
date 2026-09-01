@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto"
 import { textOf } from "@akasha/code-system/body-text"
 import { readingIn } from "@akasha/indexes"
+import { type Answering, answeringOver } from "@akasha/indexes/answering"
 import { readingOver } from "@akasha/indexes/indexing"
 import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "../change/change.module.code.ts"
@@ -8,6 +9,7 @@ import { type Value, valueAt, valueIn } from "../page/page-value/page-value.modu
 
 export type Shadow = {
   readonly reading: Reading
+  readonly index: Answering
   readonly pageOf: (path: string) => Value | null
   readonly codeAt: (path: string) => string | null
 }
@@ -58,8 +60,10 @@ function codeOver(change: Change): (path: string) => string | null {
 }
 
 export function shadowAt(root: string): Shadow {
+  const reading = readingIn(root)
   return {
-    reading: readingIn(root),
+    reading,
+    index: answeringOver(reading),
     pageOf: remembering((path) => valueAt(path, root)),
     codeAt: (path) => path,
   }
@@ -80,7 +84,8 @@ function castOver(change: Change): Cast {
       after: textOf(change.after(path)),
     }))
     const reading = readingOver(change.root, moving, pageOf)
-    return { shadow: { reading, pageOf, codeAt: codeOver(change) } }
+    const index = answeringOver(reading)
+    return { shadow: { reading, index, pageOf, codeAt: codeOver(change) } }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { refused: `${NOT_WORKED_OUT} — ${why}` }
@@ -96,12 +101,14 @@ export function shadowAsked(change: Change): Shadow {
     held = found.shadow
     return held
   }
+  const reading: Reading = {
+    holds: (at) => worked().reading.holds(at),
+    listing: (at) => worked().reading.listing(at),
+    lines: (at) => worked().reading.lines(at),
+  }
   return {
-    reading: {
-      holds: (at) => worked().reading.holds(at),
-      listing: (at) => worked().reading.listing(at),
-      lines: (at) => worked().reading.lines(at),
-    },
+    reading,
+    index: answeringOver(reading),
     pageOf: (path) => worked().pageOf(path),
     codeAt: (path) => worked().codeAt(path),
   }
