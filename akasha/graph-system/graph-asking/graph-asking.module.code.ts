@@ -12,7 +12,7 @@ import {
 import type { Reading } from "@akasha/indexes/shape"
 import { addressIn } from "@akasha/pages-system/page-address"
 import { slugOf, textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
-import type { Known } from "../graph-attribute/graph-attributes/known.graph-attribute.ts"
+import type { Known } from "../graph-attribute/pages/known.graph-attribute.ts"
 
 const GRAPH_EDGE = "graph-edge"
 
