@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/browser-launch-env",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./launch-env/launch-env.module.code.ts"
+  }
+}

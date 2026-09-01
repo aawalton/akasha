@@ -32,6 +32,7 @@ export const alanHarness = {
     "workspace-package/location-traces-access",
     "workspace-package/chess-core",
     "workspace-package/geo-io",
+    "workspace-package/browser-launch-env",
   ],
   invariants: [
     {
