@@ -238,7 +238,7 @@ export function indexTakenFrom(root: string): undefined {
   rmSync(indexIn(root), { recursive: true, force: true })
 }
 
-export function stampStandingIn(root: string): Stamp | null {
+export function stampListedIn(root: string): Stamp | null {
   return stampIn(indexIn(root))
 }
 

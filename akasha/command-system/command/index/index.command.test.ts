@@ -15,7 +15,7 @@ import {
   listedUnreadableFiled,
   rebuiltApart,
   rebuiltIn,
-  stampStandingIn,
+  stampListedIn,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { id as idPage } from "../../../pages-system/page/properties/id.text-property.ts"
 import { slug as slugPage } from "../../../pages-system/page/properties/slug.text-property.ts"
@@ -171,7 +171,7 @@ test("the rebuild's stamp is read back and named, and it names HEAD", () => {
   const root = repoAt()
   const answer = index(["refresh"], givenAt(root))
   expect(said(answer)).toContain(`stamped with ${git(root, ["rev-parse", "HEAD"]).trim()}`)
-  expect(stampStandingIn(root)?.settled).toEqual([])
+  expect(stampListedIn(root)?.settled).toEqual([])
 })
 
 test("`index refresh` is reached with no index at all", async () => {
@@ -251,7 +251,7 @@ test("`--unlanded` builds over the worktree, and the stamp names what stands apa
   expect(answer.code).toBe(OK)
   expect(listedFiledIn(root, "domain", "b")).toBe(true)
   expect(said(answer)).toContain("stand apart from HEAD and the stamp names them")
-  expect(stampStandingIn(root)?.settled).toEqual([`${AKASHA}/b.domain.ts`])
+  expect(stampListedIn(root)?.settled).toEqual([`${AKASHA}/b.domain.ts`])
 })
 
 test("`--dry-run` puts nothing in place and leaves nothing aside", () => {
