@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const serviceSystem = {
   id: "01a05a3c-cafd-7ded-8901-f1468940d7ca",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "service-system",
   definition: "what the system runs without being asked each time",
+  manifest: "json",
   partSlugs: [
     "page-type/service",
     "page-type/workstation-service",
@@ -16,4 +17,4 @@ export const serviceSystem = {
     "module/service-reading",
     "module/service-installing",
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

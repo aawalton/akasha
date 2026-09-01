@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/service-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./workstation-service": "./workstation-service/workstation-service.page-type.ts",
+    "./service-installing": "./workstation-service/service-installing/service-installing.module.code.ts",
+    "./service-reading": "./workstation-service/service-reading/service-reading.module.code.ts"
+  }
+}
