@@ -5,5 +5,10 @@ export const models = {
   pageTypeSlug: "domain",
   slug: "models",
   definition: "the models work can be put to",
-  partSlugs: ["page-type/model-family", "page-type/model-test", "page-type/model-test-outcome"],
+  partSlugs: [
+    "module/model-asking",
+    "page-type/model-family",
+    "page-type/model-test",
+    "page-type/model-test-outcome",
+  ],
 } as const satisfies Domain
