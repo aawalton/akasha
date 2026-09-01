@@ -1,0 +1,29 @@
+{
+  "name": "@akasha/email-google",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./env": "./gmail-credentials/gmail-credentials.module.code.ts",
+    "./auth": "./gmail-auth/gmail-auth.module.code.ts",
+    "./client": "./gmail-client/gmail-client.module.code.ts",
+    "./types": "./email-shapes/email-shapes.module.code.ts",
+    "./mime": "./mime-message/mime-message.module.code.ts",
+    "./schema": "./gmail-schema/gmail-schema.module.code.ts",
+    "./messages": "./gmail-messages/gmail-messages.module.code.ts",
+    "./drafts": "./gmail-drafts/gmail-drafts.module.code.ts",
+    "./attachments": "./gmail-attachments/gmail-attachments.module.code.ts",
+    "./history": "./gmail-history/gmail-history.module.code.ts",
+    "./unsubscribe": "./list-unsubscribe/list-unsubscribe.module.code.ts",
+    "./agent-channels": "./persona-email-channels/persona-email-channels.module.code.ts",
+    "./inbound-adapter": "./gmail-inbound-adapter/gmail-inbound-adapter.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/email-inbound": "workspace:*",
+    "@akasha/google-oauth": "workspace:*",
+    "@googleapis/gmail": "^17.0.0",
+    "@shared/errors-core": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
