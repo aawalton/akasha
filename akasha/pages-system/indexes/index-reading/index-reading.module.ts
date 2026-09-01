@@ -84,7 +84,7 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement:
-        "A caller that must name an index in a refusal says the path it reached rather than spelling it again.",
+        "A caller naming an index in a refusal says the path reached rather than spelling that path again.",
     },
     {
       invariantKind: "departure",

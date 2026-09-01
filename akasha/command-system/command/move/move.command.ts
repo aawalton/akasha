@@ -213,7 +213,7 @@ export const move = {
     {
       invariantKind: "absence",
       statement:
-        "A string standing for no path that moves is left as it is unless it names a module and the body holding it moves.",
+        "A string naming no path that moves is left alone unless the string names a module in a moving body.",
     },
     {
       invariantKind: "departure",
