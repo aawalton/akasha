@@ -11,5 +11,17 @@ export const alanwaltonWidgetFeed = {
       invariantKind: "departure",
       statement: "The credential is read from the keychain as the tile is drawn.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A cached reading carries the moment it was written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cached reading is let go once it is older than the age the route refuses.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading let go is drawn as none rather than as a number.",
+    },
   ],
 } as const satisfies IosComponent
