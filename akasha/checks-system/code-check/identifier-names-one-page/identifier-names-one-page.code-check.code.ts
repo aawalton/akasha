@@ -1,7 +1,7 @@
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { filedIn } from "../../../pages-system/indexes/index/index-identity/index-identity.index.code.ts"
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { standingNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { listedNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   type Identifying,
   identifyingFrom,
@@ -57,7 +57,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   for (const held of statedByKey(statedBy(carried, identifying)).values()) {
     const one = held[0]
     if (one === undefined) continue
-    const standing = standingNamed(shadow.reading, one.scope, one.propertySlug, one.said)
+    const standing = listedNamed(shadow.reading, one.scope, one.propertySlug, one.said)
     if (standing.length < 2) continue
     const carrying = new Set(held.map((each) => each.path))
     const elsewhere = standing.find((found) => !carrying.has(found.path))

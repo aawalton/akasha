@@ -107,7 +107,7 @@ function endingIn(said: readonly { readonly name: string }[]): readonly string[]
     .sort()
 }
 
-export function standingNamed(
+export function listedNamed(
   given: string | Reading,
   scope: string,
   propertySlug: string,
@@ -126,7 +126,7 @@ export function standingAt(
   pageTypeSlug: string,
   slug: string
 ): readonly Listed[] {
-  return standingNamed(given, pageTypeSlug, SLUG, slug)
+  return listedNamed(given, pageTypeSlug, SLUG, slug)
 }
 
 export function standingById(given: string | Reading, id: string): Listed | null {
