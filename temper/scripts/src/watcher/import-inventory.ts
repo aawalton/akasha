@@ -1,6 +1,6 @@
 import { getPages } from "@shared/pages-access/get"
-import { patchPage, patchRow } from "@shared/pages-query"
-import { askPage, type PageAsked } from "@shared/pages-query/ask"
+import { patchPage, patchRow } from "@akasha/pages-query"
+import { askPage, type PageAsked } from "@akasha/pages-query/ask"
 import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role.ts"
 import { partitionUnmanagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-filter"
 import { readManagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-types"

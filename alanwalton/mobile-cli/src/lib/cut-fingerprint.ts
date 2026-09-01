@@ -1,5 +1,5 @@
-import { writePage } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import { writePage } from "@akasha/pages-query"
+import { askComposed } from "@akasha/pages-query/ask"
 import { z } from "zod"
 
 export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"

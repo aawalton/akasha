@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { fetchThrough } from "@shared/pages-query/fetcher"
+import { fetchThrough } from "@akasha/pages-query/fetcher"
 import { operationalError } from "../tools/lib/exit.ts"
 import { pageQueryInProcess } from "../tools/lib/page-query-in-process.ts"
 import { runCommitPoints } from "../tools/lib/daily-tracking/run-commit-points.ts"

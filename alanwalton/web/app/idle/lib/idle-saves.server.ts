@@ -1,5 +1,5 @@
-import { writePage } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import { writePage } from "@akasha/pages-query"
+import { askComposed } from "@akasha/pages-query/ask"
 import { assertNotProtectedSaveUser } from "./idle-protected-user"
 import { type IdleSave, parseIdleSave, toJsonSave } from "./idle-save"
 

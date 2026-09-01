@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { patchState } from "@shared/pages-query"
+import { patchState } from "@akasha/pages-query"
 import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { git } from "../../repo/git/git.ts"
 import { DeployRefused } from "../refusal/refusal.ts"

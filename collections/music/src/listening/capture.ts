@@ -5,8 +5,8 @@ import {
   type Written,
   writePage,
   writeRow,
-} from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+} from "@akasha/pages-query"
+import { askComposed } from "@akasha/pages-query/ask"
 import { personaRecipeRows } from "./persona-recipe-rows"
 import {
   HEARD_BY_SPOTIFY_ID_QUERY,

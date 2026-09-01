@@ -1,4 +1,4 @@
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/ask"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import type { Route } from "./+types/api.net-worth"
 

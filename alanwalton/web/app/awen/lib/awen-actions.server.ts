@@ -1,5 +1,5 @@
 import { pendingActions } from "@alanwalton/awen-core/action-box"
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/ask"
 import type { PendingActionInput } from "./client-envelope"
 import type { AwenGameConfig } from "./game.server"
 import { latestFrontierMs } from "./revealed-frontier"

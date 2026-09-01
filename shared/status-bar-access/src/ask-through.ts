@@ -1,4 +1,4 @@
-import { askTaking, type Fetcher } from "@shared/pages-query"
+import { askTaking, type Fetcher } from "@akasha/pages-query"
 import type { Ask } from "../../../readouts/readout-resolver.ts"
 
 export function askVia(fetcher?: Fetcher): Ask {

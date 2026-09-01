@@ -1,5 +1,5 @@
-import { patchPage, type Value } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import { patchPage, type Value } from "@akasha/pages-query"
+import { askComposed } from "@akasha/pages-query/ask"
 import { searchLyrics } from "../lrclib/client"
 import { lyricsToProps, pickBestLyrics } from "../lrclib/map"
 import { browseArtistRecordings, browseWorks, getArtist, searchArtist } from "./client"

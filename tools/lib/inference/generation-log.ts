@@ -1,7 +1,7 @@
 import { OperationalError } from "@shared/errors-core/exit"
 import type { Json } from "@shared/supabase-database/generated/database"
 import { kebabizeKey } from "../tracking/keys.ts"
-import { patchRow, type Written, writeRow } from "@shared/pages-query"
+import { patchRow, type Written, writeRow } from "@akasha/pages-query"
 import { optionalEnv } from "@shared/utils-narrow/require-env"
 
 export function generationLogSlug(): string {

@@ -1,4 +1,4 @@
-import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
+import { askComposed, type ComposedQuery } from "@akasha/pages-query/ask"
 import { type QueryRow } from "../../../../shared/pages-query/src/answer-schema"
 import { parseRuleMatch, type RuleCondition } from "./wording"
 

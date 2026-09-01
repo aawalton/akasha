@@ -1,5 +1,5 @@
-import { writePage, writeRows } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import { writePage, writeRows } from "@akasha/pages-query"
+import { askComposed } from "@akasha/pages-query/ask"
 import { sampleIdentity } from "./identity"
 import { ANCHOR_PAGE_TYPE, esoDayOfSample, numberAt, ROW_CEILING, textAt } from "./rows"
 import type { HealthSample, HealthSampleWriteReport } from "./types"

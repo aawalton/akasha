@@ -1,4 +1,4 @@
-import { writePage } from "@shared/pages-query"
+import { writePage } from "@akasha/pages-query"
 
 export const DEVICE_TOKEN_PAGE_TYPE_SLUG = "device-token"
 

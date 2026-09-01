@@ -1,5 +1,5 @@
-import { askComposed } from "@shared/pages-query/ask"
-import { type QueryRow } from "@shared/pages-query/answer-schema"
+import { askComposed } from "@akasha/pages-query/ask"
+import { type QueryRow } from "@akasha/pages-query/answer-schema"
 
 export const WRITER = "great-courses-sync"
 

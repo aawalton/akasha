@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { fetchThrough } from "@shared/pages-query/fetcher"
+import { fetchThrough } from "@akasha/pages-query/fetcher"
 import { pageQueryInProcess } from "../tools/lib/page-query-in-process.ts"
 import { syncGreatCourses } from "../tools/lib/great-courses/sync.ts"
 import { trackSyncRun } from "../tools/lib/sync-run/track.ts"

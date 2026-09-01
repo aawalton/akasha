@@ -7,7 +7,7 @@ import {
 import { getPage, getPages } from "@shared/pages-access/get"
 import { patchPage } from "@shared/pages-access/patch"
 import { type PageWhere } from "@shared/pages-core/page-types"
-import { writePage } from "@shared/pages-query"
+import { writePage } from "@akasha/pages-query"
 import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { z } from "zod"
 import { type InboundSender, withSenderFooter } from "~/lib/sender-surface"

@@ -1,6 +1,6 @@
 import { Page } from "@shared/pages-core/page-types"
-import { patchPage } from "@shared/pages-query"
-import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
+import { patchPage } from "@akasha/pages-query"
+import { askComposed, type ComposedQuery } from "@akasha/pages-query/ask"
 import { z } from "zod"
 
 const READ_STORY_TYPES = ["story-read-royal-road", "story-read-wandering-inn"] as const

@@ -1,5 +1,5 @@
-import { writePage, writeRows } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import { writePage, writeRows } from "@akasha/pages-query"
+import { askComposed } from "@akasha/pages-query/ask"
 import {
   ANCHOR_PAGE_TYPE,
   esoDayOfTrace,

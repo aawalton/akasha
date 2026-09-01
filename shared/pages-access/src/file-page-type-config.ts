@@ -1,6 +1,6 @@
 import { type MediaConfig, parseMediaConfig } from "@shared/pages-core/schema/media-config"
 import { parseSequenceConfig, type SequenceConfig } from "@shared/pages-core/schema/sequence-config"
-import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
+import { askComposed, type ComposedQuery } from "@akasha/pages-query/ask"
 import { type Asked } from "../../pages-query/src/index"
 import { z } from "zod"
 

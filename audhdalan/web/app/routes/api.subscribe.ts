@@ -1,4 +1,4 @@
-import { writePage } from "@shared/pages-query"
+import { writePage } from "@akasha/pages-query"
 import { z } from "zod"
 import type { Route } from "./+types/api.subscribe"
 

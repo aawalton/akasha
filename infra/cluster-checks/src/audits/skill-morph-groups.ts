@@ -1,5 +1,5 @@
 import { OperationalError } from "@shared/errors-core/exit"
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/ask"
 import { z } from "zod"
 import { type AuditReading, summarizeAudit } from "../lib/audit-reading"
 import {

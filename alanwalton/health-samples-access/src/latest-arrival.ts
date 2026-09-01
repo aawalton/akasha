@@ -1,4 +1,4 @@
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/ask"
 import { ROW_CEILING, textAt } from "./rows"
 import type { HealthMetric } from "./types"
 

@@ -1,5 +1,5 @@
-import { patchPage } from "@shared/pages-query"
-import { askPage } from "@shared/pages-query/ask"
+import { patchPage } from "@akasha/pages-query"
+import { askPage } from "@akasha/pages-query/ask"
 import { mintedId } from "./file-rows"
 import { writerOf } from "./file-write"
 

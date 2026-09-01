@@ -1,4 +1,4 @@
-import type { Value } from "@shared/pages-query"
+import type { Value } from "@akasha/pages-query"
 import { camelizeKey, SETTLED_BY_ROW } from "./file-rows"
 import { FileWriteError } from "./file-write-error"
 import { filledBy, type HeldAt, holesIn, unfilledIn } from "../../../named-for/named-for.ts"

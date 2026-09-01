@@ -1,4 +1,4 @@
-import { patchRows } from "@shared/pages-query"
+import { patchRows } from "@akasha/pages-query"
 import { isRecord } from "@shared/utils-narrow/is-record"
 import type { SetBonusEntry } from "@temper/game-items-core/item-tooltip-types"
 import { MINE_NAME, MINED_ITEM_PAGE_TYPE } from "@/lib/mined-item-rows"

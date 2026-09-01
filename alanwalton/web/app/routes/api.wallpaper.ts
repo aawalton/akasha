@@ -1,6 +1,6 @@
 import { seaweedFSObjectStoreFromEnv } from "@shared/object-store"
-import { askNamed } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import { askNamed } from "@akasha/pages-query"
+import { askComposed } from "@akasha/pages-query/ask"
 import { resolveServableImage, serveResolvedImage } from "~/lib/serve-image-object.server"
 import { orderedCoverCandidates, type PersonaCoverRow } from "~/lib/wallpaper-candidates"
 import type { Route } from "./+types/api.wallpaper"

@@ -1,4 +1,4 @@
-import { askPageTypes, type Backed } from "@shared/pages-query/ask"
+import { askPageTypes, type Backed } from "@akasha/pages-query/ask"
 import { FileWriteError } from "./file-write-error"
 
 export type Roster = {
@@ -55,7 +55,7 @@ export async function filedUnder(op: string, pageTypeSlug: string): Promise<File
     const held = backed.heldBy.length === 0 ? "nothing" : backed.heldBy.join(", ")
     throw new FileWriteError(
       pageTypeSlug,
-      `${op}(${pageTypeSlug}): this page type has no file of its own — its pages stand as rows inside another page, held by ${held}. Which parent page a row belongs to is a fact only the caller holds, so nothing here can route this. Write it with \`writeRow\`, \`writeRows\` or \`patchRow\` from \`@shared/pages-query\`, naming the parent page.`
+      `${op}(${pageTypeSlug}): this page type has no file of its own — its pages stand as rows inside another page, held by ${held}. Which parent page a row belongs to is a fact only the caller holds, so nothing here can route this. Write it with \`writeRow\`, \`writeRows\` or \`patchRow\` from \`@akasha/pages-query\`, naming the parent page.`
     )
   }
   return { ...backed, glob: backed.glob, repo: backed.repo }

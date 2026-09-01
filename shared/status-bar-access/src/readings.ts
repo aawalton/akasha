@@ -1,6 +1,6 @@
 import { selectHealthSamples } from "../../../alanwalton/health-samples-access/src/select"
 import { type HealthMetric } from "../../../alanwalton/health-samples-access/src/types"
-import type { Fetcher } from "@shared/pages-query"
+import type { Fetcher } from "@akasha/pages-query"
 import {
   cardioReading as akashaCardioReading,
   type DayMeasures,

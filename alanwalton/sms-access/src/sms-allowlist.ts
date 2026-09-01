@@ -1,5 +1,5 @@
 import { projectSmsIdentities, type RelationshipSmsRow, relationshipSmsRowSchema, type SmsExternalIdentity } from "@alanwalton/sms-core/sms-identity"
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/ask"
 import type { SmsAllowlistClient } from "./client"
 
 function asBoolean(value: unknown): boolean | undefined {

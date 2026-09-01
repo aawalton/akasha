@@ -1,5 +1,5 @@
-import { patchPage, patchRow, writeRow } from "@shared/pages-query"
-import { askPage } from "@shared/pages-query/ask"
+import { patchPage, patchRow, writeRow } from "@akasha/pages-query"
+import { askPage } from "@akasha/pages-query/ask"
 import type { SyncResult } from "./result.ts"
 
 const SYNC_RUN_SLUG = "sync-run"

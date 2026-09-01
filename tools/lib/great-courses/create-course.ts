@@ -1,4 +1,4 @@
-import { writePage } from "@shared/pages-query"
+import { writePage } from "@akasha/pages-query"
 import { classifyError, logError, safeUpdateResult, type SyncResult, toError } from "../sync-run/result.ts"
 import { extractExternalIdFromUrl, getCourseDetails } from "./catalogue.ts"
 import { slugFor, WRITER } from "./page-query.ts"

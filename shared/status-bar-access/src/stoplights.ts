@@ -1,4 +1,4 @@
-import type { Fetcher } from "@shared/pages-query"
+import type { Fetcher } from "@akasha/pages-query"
 import {
   type DailyValues,
   getDailyPerfectDay as dailyPerfectDay,

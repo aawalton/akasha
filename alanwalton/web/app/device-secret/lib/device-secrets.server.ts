@@ -1,5 +1,5 @@
-import { patchPage, writePage } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import { patchPage, writePage } from "@akasha/pages-query"
+import { askComposed } from "@akasha/pages-query/ask"
 import { DEVICE_SECRET_HEADER, readPresentedDeviceSecret } from "./device-secret"
 import {
   type DeviceSecretStanding,

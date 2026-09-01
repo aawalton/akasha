@@ -1,7 +1,7 @@
 export const summary = "Record that a question's answer has been applied to the ledger, which is what lets the hourly stream ask again (applying it stays your judgment)"
 
-import { patchPage } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import { patchPage } from "@akasha/pages-query"
+import { askComposed } from "@akasha/pages-query/ask"
 import type { CommandHelp } from "../../ops/surface.ts"
 import {
   ANSWERED_QUESTION_STATUS,

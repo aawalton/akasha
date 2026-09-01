@@ -1,4 +1,4 @@
-import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
+import { askComposed, type ComposedQuery } from "@akasha/pages-query/ask"
 import { type Asked } from "../../pages-query/src/index"
 import {
   filePropertyDefinitions,

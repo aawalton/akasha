@@ -1,4 +1,4 @@
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed } from "@akasha/pages-query/ask"
 import { parseAwenStatePage } from "./awen-state-parse"
 import type { AwenGameConfig } from "./game.server"
 import { STORY_READER_BASE_URL } from "./game-config.server"

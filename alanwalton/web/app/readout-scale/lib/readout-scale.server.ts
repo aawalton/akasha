@@ -1,5 +1,5 @@
 import type { RingScale } from "../../../../../akasha/readout-system/readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
-import { askNamed } from "@shared/pages-query"
+import { askNamed } from "@akasha/pages-query"
 
 const READOUT_SCALES_ALL = "readout-scales-all"
 

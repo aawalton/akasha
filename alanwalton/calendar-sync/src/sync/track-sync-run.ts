@@ -1,4 +1,4 @@
-import { patchPage, patchRow, writeRow } from "@shared/pages-query"
+import { patchPage, patchRow, writeRow } from "@akasha/pages-query"
 import type { SyncResult } from "./sync-result.ts"
 import { WRITER } from "./sync-source.ts"
 

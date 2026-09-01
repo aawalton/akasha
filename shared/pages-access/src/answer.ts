@@ -1,4 +1,4 @@
-import { askComposed, askPageTypes } from "@shared/pages-query/ask"
+import { askComposed, askPageTypes } from "@akasha/pages-query/ask"
 import { type Asked } from "../../pages-query/src/index.ts"
 import { buildRawPageRows } from "./file-rows.ts"
 import { getPageTypeBySlug } from "./page-type.ts"

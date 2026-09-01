@@ -1,4 +1,4 @@
-import { askComposed, askPageTypes, type ComposedQuery } from "@shared/pages-query/ask"
+import { askComposed, askPageTypes, type ComposedQuery } from "@akasha/pages-query/ask"
 import { type Asked } from "../../pages-query/src/index.ts"
 import type { Json } from "../../supabase-database/src/generated/database.ts"
 import { isJson } from "../../utils-narrow/src/is-json.ts"
