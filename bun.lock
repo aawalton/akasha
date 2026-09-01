@@ -311,6 +311,12 @@
     "akasha/testing-system": {
       "name": "@akasha/testing-system",
     },
+    "akasha/tower-core": {
+      "name": "@akasha/tower-core",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
@@ -4049,6 +4055,8 @@
     "@akasha/sms-core": ["@akasha/sms-core@workspace:akasha/sms-core"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
+
+    "@akasha/tower-core": ["@akasha/tower-core@workspace:akasha/tower-core"],
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
 

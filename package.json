@@ -54,6 +54,7 @@
     "akasha/personas-core",
     "akasha/sms-access",
     "akasha/sms-core",
+    "akasha/tower-core",
     "akasha/email-inbound",
     "alanwalton/web",
     "archive-of-worlds/web",
