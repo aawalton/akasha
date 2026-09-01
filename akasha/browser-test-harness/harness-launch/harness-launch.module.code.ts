@@ -1,6 +1,5 @@
 import { buildBrowserLaunchEnv } from "@akasha/browser-launch-env"
 import { signInWithPassword } from "@akasha/supabase-auth/auth"
-import type { Database } from "@akasha/supabase-database"
 import { createClient } from "@supabase/supabase-js"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 import {
@@ -28,7 +27,7 @@ export async function resolveUid(creds: {
   email: string
   password: string
 }): Promise<string> {
-  const authClient = createClient<Database>(creds.supabaseUrl, creds.supabaseAnonKey, {
+  const authClient = createClient(creds.supabaseUrl, creds.supabaseAnonKey, {
     auth: { autoRefreshToken: true, persistSession: true, detectSessionInUrl: false },
   })
   const signIn = await signInWithPassword(authClient, creds.email, creds.password)
