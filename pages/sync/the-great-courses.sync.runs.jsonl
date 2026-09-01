@@ -26,3 +26,4 @@
 {"id":"01a04dbf-799a-7000-ba1b-506f224d6640","source":"the-great-courses","status":"success","started-at":"2026-08-29T13:39:48.528Z","completed-at":"2026-08-29T13:39:49.933Z","duration-ms":1405,"created-count":0,"updated-count":0,"skipped-count":0,"failed-count":0}
 {"id":"01a052e3-2751-7000-a493-d29f8b28ff88","source":"the-great-courses","status":"success","started-at":"2026-08-30T13:36:52.867Z","completed-at":"2026-08-30T13:36:54.222Z","duration-ms":1355,"created-count":0,"updated-count":0,"skipped-count":0,"failed-count":0}
 {"id":"01a05bcf-6daa-7000-86a3-435366dfdc8b","source":"the-great-courses","status":"success","started-at":"2026-09-01T07:11:55.099Z","completed-at":"2026-09-01T07:11:56.611Z","duration-ms":1512,"created-count":0,"updated-count":0,"skipped-count":0,"failed-count":0}
+{"id":"01a05d32-510e-7000-ac60-9d0a859ab6f7","source":"the-great-courses","status":"running","started-at":"2026-09-01T13:39:33.052Z"}
