@@ -6,6 +6,7 @@
     "./asking": "./asking/asking.module.code.ts",
     "./calling": "./calling/calling.module.code.ts",
     "./committing": "./committing/committing.module.code.ts",
+    "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
     "./holding": "./holding/holding.module.code.ts",
     "./landing": "./landing/landing.module.code.ts",
     "./reading": "./reading/reading.module.code.ts",
