@@ -71,8 +71,12 @@ export const lintClean = {
       statement: "The world's root is taken out of what is reported.",
     },
     {
+      invariantKind: "departure",
+      statement: "A stylesheet is judged as readily as a body of TypeScript.",
+    },
+    {
       invariantKind: "gap",
-      statement: "Only TypeScript is judged.",
+      statement: "Only what the linter is configured to read is judged.",
     },
   ],
 } as const satisfies CodeCheck

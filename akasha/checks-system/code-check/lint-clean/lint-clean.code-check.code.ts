@@ -2,19 +2,30 @@ import type { Found, Linted } from "../../../code-system/code-lint/code-lint.mod
 import { lintedOver } from "../../../code-system/code-lint/code-lint.module.code.ts"
 import { worldOf } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { input, TEXTS } from "../../change-walking/change-walking.module.code.ts"
+import type { Body, Selector } from "../../change-walking/change-walking.module.code.ts"
+import { FILES, input } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
-const TS = ".ts"
+const READ: readonly string[] = [".ts", ".tsx", ".css"]
 
 const WORLD = "the world this change was stood up in"
 
 const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
 
+export function lookedAt(path: string): boolean {
+  return READ.some((one) => path.endsWith(one))
+}
+
+const LOOKED: Selector<Body> = {
+  named: "the files the linter reads",
+  isInput: (path) => lookedAt(path),
+  from: (change, shadow) => FILES.from(change, shadow).filter((one) => lookedAt(one.path)),
+}
+
 export function carriedIn(change: Change): readonly string[] {
   const held = new Set<string>()
   for (const one of change.changed) {
-    if (!one.endsWith(TS)) continue
+    if (!lookedAt(one)) continue
     if (change.after(one) === null) continue
     held.add(one)
   }
@@ -51,4 +62,4 @@ function refusalsIn(change: Change): readonly Judged[] {
   }
 }
 
-export const lintClean = input(TEXTS, refusalsIn)
+export const lintClean = input(LOOKED, refusalsIn)

@@ -11,6 +11,7 @@ import {
   carriedIn,
   judgedOf,
   lintClean,
+  lookedAt,
   outsideOf,
   reasonOf,
 } from "./lint-clean.code-check.code.ts"
@@ -30,6 +31,8 @@ const CLEAN = "export function held(): number {\n  return 1\n}\n"
 const UNUSED = "export function held(): number {\n  const spare = 2\n  return 1\n}\n"
 
 const RULE = "lint/correctness/noUnusedVariables"
+
+const STYLED = ".readout-ring {\n  color: red;\n}\n"
 
 const scratch = scratchWorld()
 
@@ -51,10 +54,35 @@ function repo(files: Record<string, string>, linter = true): string {
   return root
 }
 
-test("the files judged are the typescript ones the change carries, said once and in order", () => {
-  const root = repo({ "akasha/two.ts": CLEAN, "akasha/one.ts": CLEAN, "akasha/held.md": "held" })
-  const changed = ["akasha/two.ts", "akasha/one.ts", "akasha/two.ts", "akasha/held.md"]
-  expect(carriedIn(change(root, changed))).toEqual(["akasha/one.ts", "akasha/two.ts"])
+test("the files judged are the ones the linter reads, said once and in order", () => {
+  const root = repo({
+    "akasha/two.ts": CLEAN,
+    "akasha/one.ts": CLEAN,
+    "akasha/held.tsx": CLEAN,
+    "akasha/held.css": STYLED,
+    "akasha/held.md": "held",
+  })
+  const changed = [
+    "akasha/two.ts",
+    "akasha/one.ts",
+    "akasha/two.ts",
+    "akasha/held.tsx",
+    "akasha/held.css",
+    "akasha/held.md",
+  ]
+  expect(carriedIn(change(root, changed))).toEqual([
+    "akasha/held.css",
+    "akasha/held.tsx",
+    "akasha/one.ts",
+    "akasha/two.ts",
+  ])
+})
+
+test("a stylesheet and a body written with JSX are both read, and a note is not", () => {
+  expect(lookedAt("akasha/one.css")).toBe(true)
+  expect(lookedAt("akasha/one.tsx")).toBe(true)
+  expect(lookedAt("akasha/one.ts")).toBe(true)
+  expect(lookedAt("akasha/one.md")).toBe(false)
 })
 
 test("a file the change takes away is judged by nothing", () => {
@@ -62,7 +90,7 @@ test("a file the change takes away is judged by nothing", () => {
   expect(carriedIn(change(root, ["akasha/one.ts"], gone))).toEqual([])
 })
 
-test("a change carrying no typescript file is judged by no run", () => {
+test("a change carrying no file the linter reads is judged by no run", () => {
   const root = repo({ "akasha/held.md": "held" })
   expect(linted(change(root, ["akasha/held.md"]))).toEqual([])
 })
