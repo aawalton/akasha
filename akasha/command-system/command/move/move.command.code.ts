@@ -111,20 +111,20 @@ export function pairsIn(argv: readonly string[]): Read {
 export type Naming = { readonly held: Listed | null } | { readonly unread: string }
 
 export function namingOf(root: string, path: string): Naming {
-  let standing: readonly Listed[]
+  let listed: readonly Listed[]
   try {
-    standing = listedByPath(root, path)
+    listed = listedByPath(root, path)
   } catch (cause) {
     return { unread: cause instanceof Error ? cause.message : String(cause) }
   }
-  if (standing.length > 1) {
+  if (listed.length > 1) {
     return {
       unread:
-        `the index answers ${standing.length} pages to the path \`${path}\`, so what names it ` +
+        `the index answers ${listed.length} pages to the path \`${path}\`, so what names it ` +
         "could not be answered",
     }
   }
-  return { held: standing[0] ?? null }
+  return { held: listed[0] ?? null }
 }
 
 const NOTHING_SAID: ReadonlyMap<string, string> = new Map()
