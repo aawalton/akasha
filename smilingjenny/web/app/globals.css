@@ -3,7 +3,7 @@
 
 @source "../../../shared/design-system/src/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-badges/**/*.{ts,tsx}";
-@source "../../../shared/design-forms/src/**/*.{ts,tsx}";
+@source "../../../akasha/design/design-forms/**/*.{ts,tsx}";
 @source "../../../shared/design-layout/src/**/*.{ts,tsx}";
 @source "../../../shared/design-patterns/src/**/*.{ts,tsx}";
 @source "../../../shared/design-primitives/src/**/*.{ts,tsx}";
