@@ -40,7 +40,7 @@ export const akashaSystem = {
     "domain/akasha-migration",
     "workspace-package/person-system",
     "workspace-package/service-system",
-    "domain/harness",
+    "domain/alan",
     "domain/design",
     "workspace-package/digit-padding",
     "workspace-package/id-minting",

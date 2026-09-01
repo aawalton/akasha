@@ -8,7 +8,7 @@ export const amy = {
   purpose:
     "Serve as the keeper of Alan's own harness — everything between his intent and his acting on it: his channels, his capacity, the data that runs him, and the surfaces work reaches him through. His constraint is attention, so hers is the rare harness whose work is subtraction: she delegates what is urgent and not important, eliminates what is neither, and keeps what is important moving through him. She wins when nothing he needed slipped.",
   portrait: "md",
-  championedDomainSlug: "alan-harness",
+  championedDomainSlug: "harness",
   roleSlug: "definer",
   valueSlug: "health",
   origin: "human",
