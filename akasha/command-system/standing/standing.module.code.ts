@@ -8,11 +8,11 @@ export const INSIDE = "akasha"
 export function movedOnDisk(root: string, asRead: readonly Reading[]): readonly string[] {
   const moved: string[] = []
   for (const one of asRead) {
-    let stood = ""
+    let oid = ""
     try {
-      stood = blobIdOf(readFileSync(join(root, one.path)))
+      oid = blobIdOf(readFileSync(join(root, one.path)))
     } catch {}
-    if (!sameBody(one, stood)) moved.push(one.path)
+    if (!sameBody(one, oid)) moved.push(one.path)
   }
   return moved.sort()
 }
