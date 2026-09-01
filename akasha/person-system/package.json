@@ -4,8 +4,8 @@
   "type": "module",
   "exports": {
     "./device-secret-body": "./device-secret-body/device-secret-body.module.code.ts",
+    "./device-secret-keeping": "./device-secret-keeping/device-secret-keeping.module.code.ts",
     "./device-secret-minting": "./device-secret-minting/device-secret-minting.module.code.ts",
-    "./device-secret-standing": "./device-secret-keeping/device-secret-keeping.module.code.ts",
     "./device-token": "./device-token-registration/device-token.module.code.ts",
     "./health-samples-body": "./health-samples-body/health-samples-body.module.code.ts",
     "./phone": "./person/properties/phone.phone-number-property.ts",
