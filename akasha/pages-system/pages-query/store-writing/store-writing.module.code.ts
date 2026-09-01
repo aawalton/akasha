@@ -1,4 +1,8 @@
 import {
+  askNamed as namedAnswer,
+  askTaking as takingAnswer,
+} from "../store-page-asking/store-page-asking.module.code.ts"
+import {
   ASK_CEILING_MS,
   pagesFetcher,
   postingTo,
@@ -337,22 +341,19 @@ export async function patchPageIfMatch(
   }
 }
 
-const NO_SAVED_QUERY_SAYS =
-  "the store answers one composed query at a time and holds no page under `page-query`, so nothing here can look up a query by name"
-
 export async function askNamed(
   slug: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _naps: Sleeper = sleep
+  fetcher: Fetcher = pagesFetcher(),
+  naps: Sleeper = sleep
 ): Promise<Asked> {
-  return { ok: false, why: `\`${slug}\` went unasked: ${NO_SAVED_QUERY_SAYS}` }
+  return namedAnswer(slug, fetcher, naps)
 }
 
 export async function askTaking(
   slug: string,
-  _given: Given,
-  _fetcher: Fetcher = pagesFetcher(),
-  _naps: Sleeper = sleep
+  given: Given,
+  fetcher: Fetcher = pagesFetcher(),
+  naps: Sleeper = sleep
 ): Promise<Asked> {
-  return { ok: false, why: `\`${slug}\` went unasked: ${NO_SAVED_QUERY_SAYS}` }
+  return takingAnswer(slug, given, fetcher, naps)
 }
