@@ -98,7 +98,7 @@ export const checking = {
     {
       invariantKind: "departure",
       statement:
-        "Every path is taken from the index rather than worked out here from the property names a file is held under.",
+        "A path is taken from the index rather than worked out here from the property names above a file.",
     },
     {
       invariantKind: "departure",
@@ -107,7 +107,7 @@ export const checking = {
     {
       invariantKind: "departure",
       statement:
-        "A check needing what it was not handed reads the body the change would leave rather than the one on disk.",
+        "A check needing what the check was not handed reads the change's body rather than the disk's.",
     },
   ],
 } as const satisfies Module

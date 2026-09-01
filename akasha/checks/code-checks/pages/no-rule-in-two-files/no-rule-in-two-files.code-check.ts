@@ -56,7 +56,7 @@ export const noRuleInTwoFiles = {
     {
       invariantKind: "departure",
       statement:
-        "A rule standing in two files while one is being moved to the other is what a landing looks like partway.",
+        "A rule in two files during a move from one file to the other is a landing partway.",
     },
   ],
 } as const satisfies CodeCheck

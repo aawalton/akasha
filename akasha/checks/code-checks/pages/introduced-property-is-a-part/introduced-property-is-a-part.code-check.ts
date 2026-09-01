@@ -46,8 +46,7 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A change carrying no page type is passed over before the index as the change leaves the index is worked out.",
+      statement: "A change carrying no page type is passed over before the index is worked out.",
     },
     {
       invariantKind: "absence",
