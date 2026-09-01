@@ -175,10 +175,10 @@ test("a caller presenting a secret no page stands for is refused", async () => {
 
 test("a caller presenting a secret a page stands for is read to that account", async () => {
   const secret = generateDeviceSecret()
-  const standing = pageFor(secret)
+  const page = pageFor(secret)
   const read = await deviceSecretPresented(
     secret,
-    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [standing] }),
+    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [page] }),
     noNap
   )
   expect(read).toEqual({
