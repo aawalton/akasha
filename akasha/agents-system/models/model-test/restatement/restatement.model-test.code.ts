@@ -6,13 +6,19 @@ export type Judging = {
   readonly invariants?: readonly { readonly invariantKind: string; readonly statement: string }[]
 }
 
-export function restatement(page: Judging): readonly string[] {
+export type Asked = {
+  readonly statement: string
+  readonly prompt: string
+}
+
+export function restatement(page: Judging): readonly Asked[] {
   return (page.invariants ?? [])
     .filter((invariant) => invariant.invariantKind === "departure")
-    .map((invariant) =>
-      test.prompt
+    .map((invariant) => ({
+      statement: invariant.statement,
+      prompt: test.prompt
         .replace("{page}", page.slug)
         .replace("{definition}", page.definition)
-        .replace("{statement}", invariant.statement)
-    )
+        .replace("{statement}", invariant.statement),
+    }))
 }

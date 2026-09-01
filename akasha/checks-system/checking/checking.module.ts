@@ -19,6 +19,14 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A model check is gathered here beside the code checks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count of runs above none is the phase a model check runs on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Finding them costs nothing the pages grow.",
     },
     {

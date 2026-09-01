@@ -13,6 +13,7 @@ import {
 import { type Shadow, shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
 import type { Input } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Judging, Running } from "../judging/judging.module.code.ts"
+import { modelChecksIn } from "../model-running/model-running.module.code.ts"
 
 export type Phase = "patch" | "worktree" | "deploy" | "audit"
 
@@ -119,6 +120,12 @@ export function checksIn(root: string): readonly Gathered[] {
       throw new Error(`${path} is a check page, and ${beside} answers to nothing that can be run`)
     }
     found.push({ slug, page: path, runsOn, isInput: inputIn(run), run })
+  }
+  for (const one of modelChecksIn(root)) {
+    const runsOn: Phase[] = []
+    if (one.onPatch > 0) runsOn.push("patch")
+    if (one.onAudit > 0) runsOn.push("audit")
+    found.push({ slug: one.slug, page: one.page, runsOn, isInput: inputIn(one.run), run: one.run })
   }
   if (found.length === 0) {
     throw new Error(

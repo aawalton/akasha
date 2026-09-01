@@ -10,6 +10,7 @@ export const checksSystem = {
     "page-type/code-check",
     "page-type/model-check",
     "module/judging",
+    "module/model-running",
     "module/check-scratch",
     "module/checking",
     "module/change-walking",
