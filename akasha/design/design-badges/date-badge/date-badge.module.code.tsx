@@ -1,11 +1,7 @@
 "use client"
 
 import { Calendar } from "@akasha/design-forms/calendar"
-import {
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-} from "@shared/design-primitives/components/popover"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { CalendarDays } from "lucide-react"
 import { useState } from "react"
 import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"

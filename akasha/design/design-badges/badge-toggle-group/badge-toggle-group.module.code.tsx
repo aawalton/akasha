@@ -1,6 +1,6 @@
 "use client"
 
-import { HorizontalScrollFade } from "@shared/design-primitives/components/horizontal-scroll-fade"
+import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
 import type { VariantProps } from "class-variance-authority"
 import type * as React from "react"
 

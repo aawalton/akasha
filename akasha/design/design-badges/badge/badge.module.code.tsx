@@ -1,9 +1,9 @@
 "use client"
 
+import { cn } from "@akasha/design-primitives/cn"
+import { type SurfaceLevel, surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Slot } from "@radix-ui/react-slot"
-import { type SurfaceLevel, surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { cn } from "@shared/design-primitives/utils/cn"
 import { cva, type VariantProps } from "class-variance-authority"
 import { X } from "lucide-react"
 import * as React from "react"

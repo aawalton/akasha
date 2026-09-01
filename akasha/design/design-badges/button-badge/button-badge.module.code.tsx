@@ -1,6 +1,6 @@
 "use client"
 
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
 import type { VariantProps } from "class-variance-authority"
 import type * as React from "react"
 
