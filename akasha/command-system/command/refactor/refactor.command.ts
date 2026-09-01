@@ -61,7 +61,7 @@ export const refactor = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An act names the namespace it is worked over.",
+      statement: "An act names the namespace the act is worked over.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +73,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "What a rename would touch is answered before it is asked to land.",
+      statement: "What a rename would touch is answered before the rename is asked to land.",
     },
     {
       invariantKind: "departure",
@@ -81,11 +81,12 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "Every page of the renamed type states the slug it becomes.",
+      statement: "Every page of the renamed type states the slug that type becomes.",
     },
     {
       invariantKind: "departure",
-      statement: "Every address naming the type or a page of it is repointed in the same commit.",
+      statement:
+        "Every address naming the type or a page of the type is repointed in the same commit.",
     },
     {
       invariantKind: "departure",
@@ -93,15 +94,15 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "The type a page type declares is renamed with it.",
+      statement: "The type a page type declares is renamed with that page type.",
     },
     {
       invariantKind: "departure",
-      statement: "The name a page type's value is imported under is renamed with it.",
+      statement: "The name a page type's value is imported under is renamed with that page type.",
     },
     {
       invariantKind: "departure",
-      statement: "The bodies a rename carries are read from the commit it stood on.",
+      statement: "The bodies a rename carries are read from the commit the rename sits on.",
     },
     {
       invariantKind: "departure",
@@ -109,11 +110,11 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading of what a rename carries is carried with it.",
+      statement: "A reading of a file a rename carries is carried with that file.",
     },
     {
       invariantKind: "departure",
-      statement: "`--dry-run` names every file it would carry.",
+      statement: "`--dry-run` names every file the rename would carry.",
     },
     {
       invariantKind: "departure",
@@ -121,7 +122,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A path naming the renamed type is repointed wherever a body spells it.",
+      statement: "A path naming the renamed type is repointed wherever a body spells that path.",
     },
     {
       invariantKind: "departure",
@@ -129,7 +130,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer names every place still naming what was renamed.",
+      statement: "An answer names every place that still names what was renamed.",
     },
     {
       invariantKind: "departure",
@@ -145,16 +146,17 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A name is named by the file exporting it rather than by the name on its own.",
+      statement:
+        "A name is named by the file exporting that name rather than by the name on its own.",
     },
     {
       invariantKind: "departure",
-      statement: "A name standing for something else in its own scope is left as it stands.",
+      statement: "A name that represents something else in its own scope is left unchanged.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name already carried in the file refuses a rename only where one of the two scopes encloses the other.",
+        "A name already carried in the file refuses a rename only where either scope encloses the other scope.",
     },
     {
       invariantKind: "departure",
@@ -175,15 +177,16 @@ export const refactor = {
     },
     {
       invariantKind: "absence",
-      statement: "A module named for a renamed page type is not renamed with it.",
+      statement: "A module named for a renamed page type is not renamed with that page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A package is renamed where its manifest calls it that name.",
+      statement: "A package is renamed where its manifest calls the package that name.",
     },
     {
       invariantKind: "departure",
-      statement: "Every manifest and every body under the akasha folder spelling it is respelled.",
+      statement:
+        "Every manifest and every body under the akasha folder spelling the renamed package is respelled.",
     },
     {
       invariantKind: "constraint",
