@@ -112,8 +112,18 @@ export const TEXTS: Selector<Text> = textsBy("texts", textNamed)
 
 export const BODIES: Selector<Text> = textsBy("bodies read as text", bodyNamed)
 
+export function insideAkasha(path: string): boolean {
+  return path.startsWith(INSIDE)
+}
+
+export function insideOf(change: Change): Change {
+  const changed = change.changed.filter(insideAkasha)
+  if (changed.length === change.changed.length) return change
+  return { ...change, changed }
+}
+
 function pagedInside(path: string, shadow: Shadow): boolean {
-  return path.startsWith(INSIDE) && pageNamed(path, pageTypesFor(shadow))
+  return insideAkasha(path) && pageNamed(path, pageTypesFor(shadow))
 }
 
 export const PAGES: Selector<Paged> = {
