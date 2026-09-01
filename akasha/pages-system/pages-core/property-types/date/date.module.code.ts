@@ -1,9 +1,9 @@
 import type {
   BetweenDateValue,
-  RelativeToTodayValue,
   SentinelDateValue,
 } from "../date-sentinels/date-sentinels.module.code.ts"
 import {
+  isRelativeToTodayValue,
   resolveDateSentinel,
   resolveRelativeToToday,
 } from "../date-sentinels/date-sentinels.module.code.ts"
@@ -15,17 +15,6 @@ import type {
 } from "../property-type-ops/property-type-ops.module.code.ts"
 
 const DATE_REGEX = /^\d{4}-\d{2}-\d{2}$/
-
-const RELATIVE_DIRECTIONS = new Set<string>(["past", "next", "this"])
-const RELATIVE_UNITS = new Set<string>(["day", "week", "month", "year"])
-
-function isRelativeDirection(v: unknown): v is RelativeToTodayValue["direction"] {
-  return typeof v === "string" && RELATIVE_DIRECTIONS.has(v)
-}
-
-function isRelativeUnit(v: unknown): v is RelativeToTodayValue["unit"] {
-  return typeof v === "string" && RELATIVE_UNITS.has(v)
-}
 
 function isSentinelDateValue(value: unknown): value is SentinelDateValue {
   if (value == null || typeof value !== "object") return false
@@ -42,14 +31,6 @@ function isBetweenDateValue(value: unknown): value is BetweenDateValue {
   if (!("type" in value) || value.type !== "between") return false
   if (!("start" in value) || !isSentinelDateValue(value.start)) return false
   if (!("end" in value) || !isSentinelDateValue(value.end)) return false
-  return true
-}
-
-function isRelativeToTodayValue(value: unknown): value is RelativeToTodayValue {
-  if (value == null || typeof value !== "object") return false
-  if (!("type" in value) || value.type !== "relative_to_today") return false
-  if (!("direction" in value) || !isRelativeDirection(value.direction)) return false
-  if (!("unit" in value) || !isRelativeUnit(value.unit)) return false
   return true
 }
 

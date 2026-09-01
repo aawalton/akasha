@@ -69,6 +69,25 @@ export const RELATIVE_UNIT_OPTIONS: ReadonlyArray<{ value: RelativeUnit; label: 
   { value: "year", label: "Year" },
 ]
 
+const RELATIVE_DIRECTIONS = new Set<string>(RELATIVE_DIRECTION_OPTIONS.map((o) => o.value))
+const RELATIVE_UNITS = new Set<string>(RELATIVE_UNIT_OPTIONS.map((o) => o.value))
+
+function isRelativeDirection(v: unknown): v is RelativeDirection {
+  return typeof v === "string" && RELATIVE_DIRECTIONS.has(v)
+}
+
+function isRelativeUnit(v: unknown): v is RelativeUnit {
+  return typeof v === "string" && RELATIVE_UNITS.has(v)
+}
+
+export function isRelativeToTodayValue(value: unknown): value is RelativeToTodayValue {
+  if (value == null || typeof value !== "object") return false
+  if (!("type" in value) || value.type !== "relative_to_today") return false
+  if (!("direction" in value) || !isRelativeDirection(value.direction)) return false
+  if (!("unit" in value) || !isRelativeUnit(value.unit)) return false
+  return true
+}
+
 function formatAnchorAsDateStr(anchor: Date): string {
   const y = anchor.getUTCFullYear().toString().padStart(4, "0")
   const m = (anchor.getUTCMonth() + 1).toString().padStart(2, "0")

@@ -2,10 +2,10 @@ import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { InstantFormat } from "../../schema/property-config-schemas/property-config-schemas.module.code.ts"
 import type {
   BetweenInstantValue,
-  RelativeToTodayValue,
   SentinelInstantValue,
 } from "../date-sentinels/date-sentinels.module.code.ts"
 import {
+  isRelativeToTodayValue,
   resolveInstantSentinel,
   resolveInstantSentinelEndOfDay,
   resolveRelativeToTodayInstant,
@@ -35,25 +35,6 @@ function isBetweenInstantValue(value: unknown): value is BetweenInstantValue {
   if (!("type" in value) || value.type !== "between") return false
   if (!("start" in value) || !isSentinelInstantValue(value.start)) return false
   if (!("end" in value) || !isSentinelInstantValue(value.end)) return false
-  return true
-}
-
-const RELATIVE_DIRECTIONS = new Set<string>(["past", "next", "this"])
-const RELATIVE_UNITS = new Set<string>(["day", "week", "month", "year"])
-
-function isRelativeDirection(v: unknown): v is RelativeToTodayValue["direction"] {
-  return typeof v === "string" && RELATIVE_DIRECTIONS.has(v)
-}
-
-function isRelativeUnit(v: unknown): v is RelativeToTodayValue["unit"] {
-  return typeof v === "string" && RELATIVE_UNITS.has(v)
-}
-
-function isRelativeToTodayValue(value: unknown): value is RelativeToTodayValue {
-  if (value == null || typeof value !== "object") return false
-  if (!("type" in value) || value.type !== "relative_to_today") return false
-  if (!("direction" in value) || !isRelativeDirection(value.direction)) return false
-  if (!("unit" in value) || !isRelativeUnit(value.unit)) return false
   return true
 }
 
