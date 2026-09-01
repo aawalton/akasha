@@ -8,7 +8,6 @@ import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { landInAkasha } from "./akasha-landing.ts"
 import { personPrincipals } from "./compose-seat-name.ts"
 import { type Outcome } from "./gated-write.ts"
-import { domainAddressOf } from "./seat-page-slugs.ts"
 import { principalSeatNameOf } from "./seat-principal.ts"
 import type { Stated } from "./seat-stated.ts"
 
@@ -50,15 +49,16 @@ export function akashaSeatsDirIn(root: string): string {
   return `${root}/${DIR}`
 }
 
-// Where a slug stands in akasha, it is addressed from there. The old lookup reads the tree the
-// person pages have already left, and answers a bare name for a slug it no longer finds, so it
-// stands behind rather than in front: three of the domains the seats name have yet to move, and
-// their address is still only knowable there.
+// Where a slug is in akasha, it is addressed from there. A slug akasha does not carry is one of
+// the domains that have yet to move, and the old lookup that used to answer for them read an index
+// over the markdown tree that is no longer built. Every page it could ever have answered with was
+// a domain — that store knows no other kind — so the answer it gave is written out here directly
+// rather than read, and nothing in this path reaches the old index.
 function assignmentAddressOf(named: string, root: string): string {
   for (const pageType of assignedKinds(root)) {
     if (listedAt(root, pageType, named).length > 0) return `${pageType}/${named}`
   }
-  return domainAddressOf(named, root)
+  return `domain/${named}`
 }
 
 function said(value: string): string {
