@@ -9,6 +9,12 @@ export type FolderShape = Module & {
   enabled: FolderShapeEnabled
 }
 
+export type Declaring = {
+  readonly slug: string
+  readonly pluralSlug: string | null
+  readonly propertySlugs: ReadonlySet<string>
+}
+
 export type Standing = {
   readonly folder: string
   readonly files: readonly string[]
@@ -18,6 +24,9 @@ export type Standing = {
   readonly strays: readonly Held[]
   readonly entered: (path: string) => boolean
   readonly extending: (pageTypeSlug: string, wanted: string) => boolean
+  readonly subfolders: readonly string[]
+  readonly under: (folder: string) => readonly string[]
+  readonly declaring: (folder: string) => Declaring | null
 }
 
 export type Judging = (standing: Standing) => readonly string[]
@@ -57,6 +66,47 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement: "Every subfolder is a folder of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape reads the folders sitting directly under the folder that shape judges.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape reads the files sitting directly in any folder the shape names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape reads the page type sitting alone in any folder the shape names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding no page type answers with nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding more than one page type answers with nothing too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type answers with its slug and its plural slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type answers with every property slug that page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type declares the properties written on its own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type declares what every type above that page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type declares the fields of every record property in that page type's `properties` folder.",
     },
     {
       invariantKind: "departure",

@@ -8,6 +8,7 @@ import type { Known } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, type Held, heldIn, namedIn } from "@akasha/pages-system/page-file-name"
+import { textAt } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
   bodyOf,
@@ -16,7 +17,7 @@ import {
   textIn,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
+import type { Declaring, Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
 
 const SHAPE = "folder-shape"
 
@@ -27,6 +28,14 @@ const CODE = "code"
 const TS = "ts"
 
 const TS_ENDING = ".ts"
+
+const PAGE_TYPE = "page-type"
+
+const RECORD_PROPERTY = "record-property"
+
+const PROPERTIES = "properties"
+
+const PLURAL_SLUG = "pluralSlug"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -191,6 +200,70 @@ export function claimedIn(held: Held, index: Answering, filing: ReadonlyMap<stri
   }
 }
 
+export function filesUnder(files: readonly string[], folder: string): readonly string[] {
+  return files.filter((one) => folderOf(one) === folder)
+}
+
+export function subfoldersOf(folder: string, deep: readonly string[]): readonly string[] {
+  const found = new Set<string>()
+  for (const one of deep) {
+    const at = one.slice(folder.length + 1)
+    const cut = at.indexOf("/")
+    if (cut !== -1) found.add(`${folder}/${at.slice(0, cut)}`)
+  }
+  return [...found].sort()
+}
+
+export function pageTypesAt(files: readonly string[], folder: string): readonly string[] {
+  const found: string[] = []
+  for (const one of filesUnder(files, folder)) {
+    const said = namedIn(one)
+    if (said !== null && said.held === TS && said.tail === PAGE_TYPE) found.push(said.stem)
+  }
+  return found
+}
+
+export function fieldsIn(
+  index: Answering,
+  files: readonly string[],
+  folder: string
+): readonly string[] {
+  const found: string[] = []
+  for (const one of filesUnder(files, `${folder}/${PROPERTIES}`)) {
+    const said = namedIn(one)
+    if (said === null || said.held !== TS || said.tail !== RECORD_PROPERTY) continue
+    const value = index.pageAt(RECORD_PROPERTY, said.stem)
+    if (value === null) continue
+    for (const carried of index.carriedIn(value, said.stem)) found.push(carried.pagePropertySlug)
+  }
+  return found
+}
+
+export function declaringOver(
+  index: Answering,
+  files: readonly string[]
+): (folder: string) => Declaring | null {
+  const held = new Map<string, Declaring | null>()
+  return (folder) => {
+    const found = held.get(folder)
+    if (found !== undefined) return found
+    const slugs = pageTypesAt(files, folder)
+    const slug = slugs.length === 1 ? slugs[0] : undefined
+    let made: Declaring | null = null
+    if (slug !== undefined) {
+      const value = index.pageAt(PAGE_TYPE, slug)
+      const declared = index.propertiesOf(slug).map((one) => one.pagePropertySlug)
+      made = {
+        slug,
+        pluralSlug: value === null ? null : textAt(value, PLURAL_SLUG),
+        propertySlugs: new Set<string>([...declared, ...fieldsIn(index, files, folder)]),
+      }
+    }
+    held.set(folder, made)
+    return made
+  }
+}
+
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const shapes = shapesIn(change.root, shadow)
   const pageTypes = shadow.index.pageTypesIn()
@@ -210,10 +283,11 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     return held.has(pageTypeSlug)
   }
   const files = listedFiles(shadow.index, change)
+  const declaring = declaringOver(shadow.index, files)
   const entering = enteringOf(shadow)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
-    const here = files.filter((one) => folderOf(one) === folder)
+    const here = filesUnder(files, folder)
     const deep = files.filter((one) => one.startsWith(`${folder}/`) && folderOf(one) !== folder)
     const held = here.map((one) =>
       claimedIn(heldIn(one, pageTypes, fileProperties), shadow.index, filing)
@@ -222,11 +296,14 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       folder,
       files: here,
       deep,
+      subfolders: subfoldersOf(folder, deep),
+      under: (at) => filesUnder(files, at),
       pages: held.filter((one) => one.kind === "page"),
       properties: held.filter((one) => one.kind === "property"),
       strays: held.filter((one) => one.kind === "stray"),
       entered: (path) => entering(folder, path),
       extending,
+      declaring,
     }
     const said = shapes.map((one) => ({ slug: one.slug, reasons: one.judge(described) }))
     if (said.some((one) => one.reasons.length === 0)) continue
