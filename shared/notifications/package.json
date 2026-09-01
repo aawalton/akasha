@@ -13,9 +13,8 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@akasha/pages-access": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
-    "@shared/supabase-server": "workspace:*"
+    "@shared/pages-query": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",
