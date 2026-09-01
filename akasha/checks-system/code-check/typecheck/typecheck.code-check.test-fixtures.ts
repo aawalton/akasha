@@ -202,9 +202,9 @@ export function change(
   base: Readonly<Record<string, string>> = {}
 ): Change {
   const held = new Map(Object.entries(over))
-  const standing = new Map(Object.entries(base))
+  const bodies = new Map(Object.entries(base))
   const based = (path: string): Uint8Array | null => {
-    const found = standing.get(path)
+    const found = bodies.get(path)
     if (found !== undefined) return new TextEncoder().encode(found)
     return stands(root, path) ? readFileSync(join(root, path)) : null
   }
