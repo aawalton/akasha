@@ -25,7 +25,6 @@
       "!**/*.config.mjs",
       "!**/*.config.ts",
       "!**/*.generated.ts",
-      "!shared/supabase-database/src/generated",
       "!infra/scripts/__fixtures__/ast-unused"
     ]
   },

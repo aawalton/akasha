@@ -133,7 +133,6 @@
     "shared/recurrence",
     "shared/status-bar-access",
     "shared/supabase-client",
-    "shared/supabase-database",
     "shared/supabase-rr",
     "shared/triggers-proc",
     "shared/triggers-proc-compiler",

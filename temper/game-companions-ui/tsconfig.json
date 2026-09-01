@@ -23,9 +23,6 @@
       "path": "../../shared/pages-ui"
     },
     {
-      "path": "../../shared/supabase-database"
-    },
-    {
       "path": "../../shared/supabase-rr"
     },
     {
