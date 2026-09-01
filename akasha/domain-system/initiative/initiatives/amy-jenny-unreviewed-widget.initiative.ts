@@ -12,7 +12,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "A file writing a page through the page store lands the write rather than refusing.",
       workingMemory:
-        "Alan repaired the two timed services himself in a08342663a, so neither fails live; systemctl still reads failed from a run before that fix, which is stale rather than current. One importer of the deleted module survives at ops-cli/global/deploy/deploy.command.code.attachment.ts:39. 49 of the 50 page types the callers write are markdown under pages/, and the store answers for akasha alone, so a renderer is what this intent wants. `tools/lib/page-query-client.ts` still answers 132 rows.",
+        "Met, proved by running. `@shared/pages-query` presents the four akasha entry points and routes on `reaches(roots, pageType)`: a page type standing as files here is answered here, one standing in akasha goes to the store. 82 callers repointed. a08342663a and 44a48c1aeb are this seat's, not Alan's or another agent's. A renderer in the store was not what was wanted; one already stands at tools/lib/page-write.ts. Suite 3218 pass 0 fail, alanwalton/web builds.",
     },
     {
       statement: "`pages-core` stands in akasha.",
