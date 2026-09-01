@@ -1,16 +1,13 @@
 import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
+import { textOf } from "@akasha/code-system/body-text"
+import { parsedAs } from "@akasha/code-system/code-source"
+import { everyOfType } from "@akasha/indexes"
+import type { Change } from "@akasha/pages-system/change"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
-import { textOf } from "../../../code-system/body-text/body-text.module.code.ts"
-import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import {
-  besideAt,
-  namedIn,
-} from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   input,
   overEachFile,

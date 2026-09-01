@@ -1,7 +1,7 @@
+import { skimmedAs } from "@akasha/code-system/code-source"
+import { landingOf } from "@akasha/code-system/code-specifier"
+import type { Change } from "@akasha/pages-system/change"
 import ts from "typescript"
-import { skimmedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { input, TEXTS, textIn } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 

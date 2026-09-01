@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bodiesIn, bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
+import { bodiesIn, bytesOf } from "@akasha/testing-system/bodying"
 import { reasonsIn, sitesIn } from "./no-raw-nul-bytes.code-check.code.ts"
 
 const ROOT = "/repo"

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { shadowAsked } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Change } from "@akasha/pages-system/change"
+import { shadowAsked } from "@akasha/pages-system/shadow"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   cyclesIn,

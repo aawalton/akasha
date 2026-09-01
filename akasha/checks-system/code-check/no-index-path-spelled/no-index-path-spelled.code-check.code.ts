@@ -1,8 +1,5 @@
-import {
-  type Placed,
-  spelledIn,
-} from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { type Placed, spelledIn } from "@akasha/code-system/code-specifier"
+import { indexNamed } from "@akasha/indexes"
 import {
   judgingEach,
   overEachText,

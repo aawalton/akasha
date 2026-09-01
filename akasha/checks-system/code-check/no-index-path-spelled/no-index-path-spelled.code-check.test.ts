@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { bodiesIn } from "../../../testing-system/bodying/bodying.module.code.ts"
+import { indexNamed } from "@akasha/indexes"
+import { bodiesIn } from "@akasha/testing-system/bodying"
 import { reasonsIn } from "./no-index-path-spelled.code-check.code.ts"
 
 const ROOT = "/repo"

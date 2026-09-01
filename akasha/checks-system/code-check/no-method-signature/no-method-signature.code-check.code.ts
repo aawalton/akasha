@@ -1,5 +1,5 @@
+import { lineOf, parsedAs } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import {
   judgingEach,
   overEachText,
