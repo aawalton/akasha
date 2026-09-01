@@ -41,7 +41,12 @@ export const pagesSystemService = {
     },
     {
       invariantKind: "departure",
-      statement: "A write is committed.",
+      statement: "A write commits the values its pages keep in the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value a page keeps outside the commit is written beside it and committed with nothing.",
     },
     {
       invariantKind: "departure",
