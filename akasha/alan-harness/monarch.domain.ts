@@ -6,7 +6,11 @@ export const monarch = {
   slug: "monarch",
   definition:
     "the outside service that gathers every account Alan holds into one picture of his money",
-  partSlugs: ["readout/monarch-unreviewed-transactions", "module/monarch-reading"],
+  partSlugs: [
+    "readout/monarch-unreviewed-transactions",
+    "module/monarch-reading",
+    "workstation-service/monarch-reading-service",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -16,6 +20,11 @@ export const monarch = {
     {
       invariantKind: "constraint",
       statement: "A Monarch session cookie comes only from Alan at a signed-in browser.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The reading is taken by a workstation timer rather than by a pod serving a route.",
     },
   ],
 } as const satisfies Domain
