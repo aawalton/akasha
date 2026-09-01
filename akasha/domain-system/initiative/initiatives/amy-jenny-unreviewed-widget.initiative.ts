@@ -32,6 +32,8 @@ export const amyJennyUnreviewedWidget = {
     { statement: "Alan's site deploys from akasha." },
     {
       statement: "The reading is taken by a process running on a workstation rather than by a pod.",
+      workingMemory:
+        "The workstation half is done: `monarch-reading-service` stands under alan-harness, installed and enabled, a oneshot on `*:0/5` sourcing the secrets file and running the reading module's own `import.meta.main`. Two halves remain, both filed. The pod still takes its own reading at `api.categorization.ts:21-24`, which is the next intent. And no reading reaches a pod, because the store reads out of the commit and a reading is never committed. The cookie 401s, so nothing live is proved.",
     },
     {
       statement:
