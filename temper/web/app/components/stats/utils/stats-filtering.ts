@@ -10,7 +10,11 @@ export function filterEffectsBySearch(
   return effects.filter((effect) => effect.name.toLowerCase().includes(lowerSearch))
 }
 
-export function groupEffectsBySubcategory(effects: readonly NamedSource[]) {
+export function groupEffectsBySubcategory(effects: readonly NamedSource[]): {
+  major: NamedSource[]
+  minor: NamedSource[]
+  other: NamedSource[]
+} {
   const major = effects.filter((e) => e.id.startsWith("major-"))
   const minor = effects.filter((e) => e.id.startsWith("minor-"))
   const other = effects.filter((e) => !e.id.startsWith("major-") && !e.id.startsWith("minor-"))

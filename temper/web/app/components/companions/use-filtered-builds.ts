@@ -2,16 +2,19 @@ import {
   type DecodedBuild,
   getBuildScoreAndStats,
 } from "@temper/game-companions-core/companion-leaderboard"
+import type { CompanionStatsResult } from "@temper/game-companions-core/stats/companion-stats-calculator-impl"
 import { useMemo } from "react"
 import type { FilterValues } from "@/components/companions/companions-filter-types"
 
 type BuildWithData = DecodedBuild & { buildData: NonNullable<DecodedBuild["buildData"]> }
 
+type ScoredBuild = BuildWithData & { score: number; precomputedStats: CompanionStatsResult }
+
 export function useFilteredBuilds(
   decodedBuilds: readonly DecodedBuild[],
   values: FilterValues,
   userId: string | null
-) {
+): ScoredBuild[] {
   const {
     tab,
     search,
