@@ -1,9 +1,9 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 
-export const serviceOperationalChange = {
+export const changeServiceOperational = {
   id: "01a05df1-e263-73c0-8b58-8a1b925e557b",
   pageTypeSlug: "domain",
-  slug: "service-operational-change",
+  slug: "change-service-operational",
   definition: "a change a service makes as it runs",
   invariants: [
     {

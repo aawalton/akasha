@@ -1,9 +1,9 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 
-export const agentAuthoredChange = {
+export const changeAgentAuthored = {
   id: "01a05df1-e262-7648-bbe1-061d37bd706d",
   pageTypeSlug: "domain",
-  slug: "agent-authored-change",
+  slug: "change-agent-authored",
   definition: "a change an agent composes",
   invariants: [
     {

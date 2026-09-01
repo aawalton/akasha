@@ -1,9 +1,9 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 
-export const agentMechanicalChange = {
+export const changeAgentMechanical = {
   id: "01a05df1-e262-72e3-8f24-d6e5e4ed122d",
   pageTypeSlug: "domain",
-  slug: "agent-mechanical-change",
+  slug: "change-agent-mechanical",
   definition: "a change an agent runs and an akasha command composes",
   invariants: [
     {
