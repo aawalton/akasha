@@ -8,6 +8,7 @@ import {
   landingAsked,
   mistaking,
   textAt,
+  textOf,
   troubling,
   wroteAndTook,
 } from "../../asking/asking.module.code.ts"
@@ -15,6 +16,8 @@ import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
+import type { Piping } from "../../piping/piping.module.code.ts"
+import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
 
 export const FILE_PATH = "--file-path"
@@ -216,7 +219,7 @@ export function besideTaken(
 
 type Pair = {
   readonly path: string
-  readonly from: string
+  readonly from: string | null
 }
 
 type Read = {
@@ -272,11 +275,11 @@ function readIn(argv: readonly string[]): Read {
     }
     if (VALUED.includes(token)) at += 1
   }
-  if (open !== null) refusals.push(`${FILE_PATH} ${open} is closed by no ${CONTENT_FILE}`)
+  if (open !== null) pairs.push({ path: open, from: null })
   return { pairs, removals, refusals }
 }
 
-export function write(argv: readonly string[], given: Given): Answer {
+export function writing(argv: readonly string[], given: Given, piping: Piping): Answer {
   const unknown = unknownIn(argv, VALUED, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const read = readIn(argv)
@@ -290,6 +293,34 @@ export function write(argv: readonly string[], given: Given): Answer {
   if ("refusals" in glass) return mistaking(glass.refusals)
   const said = messageIn(argv, VALUED)
   if ("refusals" in said) return mistaking(said.refusals)
+
+  let piped: Uint8Array | null = null
+  if (read.pairs.length > 0) {
+    const wanted = read.pairs.find((one) => one.from === null)?.path ?? null
+    const held = pipedIn(piping, wanted, {
+      bare: (path) =>
+        `${FILE_PATH} ${path} names no ${CONTENT_FILE}, so its body is read from the input,` +
+        ` and nothing is piped in — say it as` +
+        ` \`${given.calledAs} ${FILE_PATH} ${path} ${MESSAGE} <text> <<'EOF'\`,` +
+        " then the body, then `EOF` on a line of its own",
+      both:
+        `a body is piped in and every ${FILE_PATH} names a ${CONTENT_FILE},` +
+        " so the body piped in belongs to no path",
+      opening: (path, why) =>
+        `the body for ${path} is read from the input, and the input would not open — ${why}`,
+    })
+    if ("refusals" in held) return mistaking(held.refusals)
+    if ("bytes" in held) {
+      const body = textOf(held.bytes)
+      if (body !== null && markingIn(body)) {
+        return mistaking([
+          `the body piped in holds a line beginning with ${RUNS_SAID}, and a body like that` +
+            ` is handed in at ${CONTENT_FILE} rather than piped in`,
+        ])
+      }
+      piped = held.bytes
+    }
+  }
 
   const mistaken: string[] = []
   const wrong: string[] = []
@@ -306,6 +337,10 @@ export function write(argv: readonly string[], given: Given): Answer {
       continue
     }
     seen.add(path)
+    if (one.from === null) {
+      changes.push({ path, body: piped ?? new Uint8Array() })
+      continue
+    }
     const held = bytesAt(one.from)
     if ("absent" in held) {
       mistaken.push(`${CONTENT_FILE} ${one.from} is not there, so ${path} has no body to write`)
@@ -354,4 +389,8 @@ export function write(argv: readonly string[], given: Given): Answer {
     )
   }
   return answer
+}
+
+export function write(argv: readonly string[], given: Given): Answer {
+  return writing(argv, given, inputIn)
 }

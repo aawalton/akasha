@@ -6,41 +6,13 @@ import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
 import { landingAsked } from "../../asking/asking.module.code.ts"
-import { checking, repoAt } from "../../asking/asking.module.test-fixtures.ts"
+import { checking } from "../../asking/asking.module.test-fixtures.ts"
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
-import { askedIn, edit } from "./edit.command.code.ts"
+import { askedIn, edit, editing } from "./edit.command.code.ts"
+import { givenIn, MARKS, repoWith, scratch, stating } from "./edit.command.test-fixtures.ts"
 import { edit as editCommand } from "./edit.command.ts"
 
-const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
-
-const scratch = scratchWorld()
-
 afterAll(scratch.sweep)
-
-function repoWith(named: Readonly<Record<string, string>>): string {
-  return repoAt(scratch.rootFor("akasha-edit-"), named)
-}
-
-const MARKS =
-  'import { writeFileSync } from "node:fs"\n' +
-  "\n" +
-  "export function marks(change) {\n" +
-  '  writeFileSync(`${change.root}/ran.txt`, "ran")\n' +
-  "  return []\n" +
-  "}\n"
-
-const givenIn = (root: string) => ({
-  root,
-  calledAs: "akasha edit",
-  from: root,
-  writer: null,
-  agentId: AGENT,
-})
-
-function stating(root: string, name: string, was: string, now: string): readonly string[] {
-  return ["--old-file", put(root, `${name}.old`, was), "--new-file", put(root, `${name}.new`, now)]
-}
 
 test("an edit of a body the record does not show read is refused", () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
@@ -278,11 +250,29 @@ test("an old file closed by no new file is refused", () => {
   expect(said.refusals[0]).toContain("closed by no --new-file")
 })
 
-test("a file path stating no substitution is refused", () => {
+test("a file path stating no old file with nothing piped in is refused", () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
-  const said = edit(["--file-path", "akasha/one.ts"], givenIn(root))
+  const said = editing(["--file-path", "akasha/one.ts"], givenIn(root), () => ({ tty: true }))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("states no --old-file")
+  expect(said.refusals[0]).toContain("nothing is piped in")
+  expect(said.refusals[0]).toContain("<<<<<<< old")
+})
+
+test("marker blocks piped in state the substitutions, worked in the order stated", () => {
+  const root = repoWith({ "akasha/one.ts": "alpha\nbeta\n" })
+  const one = "<<<<<<< old\nbeta\n=======\ndelta\n>>>>>>> new\n"
+  const two = "<<<<<<< old\ndelta\n=======\ngamma\n>>>>>>> new\n"
+  const piped = () => ({ bytes: bytes(one + two) })
+  const said = editing(["--file-path", "akasha/one.ts"], givenIn(root), piped)
+  expect(said.refusals).toEqual([])
+  expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\ngamma\n")
+  const also = editing(
+    ["--file-path", "akasha/one.ts", ...stating(root, "a", "gamma", "delta")],
+    givenIn(root),
+    piped
+  )
+  expect(also.code).toBe(1)
+  expect(also.refusals[0]).toContain("belongs to no path")
 })
 
 test("an empty passage names no place and is refused", () => {

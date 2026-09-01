@@ -12,6 +12,16 @@ import {
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
+import type { Piping } from "../../piping/piping.module.code.ts"
+import {
+  inputIn,
+  MARK_NEW,
+  MARK_OLD,
+  MARK_SPLIT,
+  PIPED,
+  passagesIn,
+  pipedIn,
+} from "../../piping/piping.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
   besideTaken,
@@ -40,6 +50,7 @@ const BARE = [DRY_RUN]
 type Stated = {
   readonly old: string
   readonly put: string
+  readonly fromFiles: boolean
 }
 
 type Asking = {
@@ -49,6 +60,7 @@ type Asking = {
 
 type Read = {
   readonly asking: readonly Asking[]
+  readonly wanting: string | null
   readonly removals: readonly string[]
   readonly refusals: readonly string[]
 }
@@ -100,7 +112,7 @@ function readIn(argv: readonly string[]): Read {
       }
       if (old === null) refusals.push(`${NEW_FILE} ${value} follows no ${OLD_FILE}`)
       else if (open !== null) {
-        open = { path: open.path, stated: [...open.stated, { old, put: value }] }
+        open = { path: open.path, stated: [...open.stated, { old, put: value, fromFiles: true }] }
       }
       old = null
       at += 1
@@ -119,13 +131,40 @@ function readIn(argv: readonly string[]): Read {
     if (VALUED.includes(token)) at += 1
   }
   if (old !== null) refusals.push(`${OLD_FILE} ${old} is closed by no ${NEW_FILE}`)
+  let wanting: string | null = null
   if (open !== null) {
-    if (open.stated.length === 0) {
-      refusals.push(`${FILE_PATH} ${open.path} states no ${OLD_FILE}, so it asks for no change`)
-    }
-    asking.push(open)
+    if (open.stated.length === 0) wanting = open.path
+    else asking.push(open)
   }
-  return { asking, removals, refusals }
+  return { asking, wanting, removals, refusals }
+}
+
+type Askings = { readonly asking: readonly Asking[] } | { readonly refusals: readonly string[] }
+
+function askingIn(read: Read, given: Given, piping: Piping): Askings {
+  if (read.asking.length === 0 && read.wanting === null) return { asking: [] }
+  const held = pipedIn(piping, read.wanting, {
+    bare: (path) =>
+      `${FILE_PATH} ${path} states no ${OLD_FILE}, so its passages are read from the input,` +
+      ` and nothing is piped in — say it as` +
+      ` \`${given.calledAs} ${FILE_PATH} ${path} ${MESSAGE} <text> <<'EOF'\`, then` +
+      ` \`${MARK_OLD}\`, the passage, \`${MARK_SPLIT}\`, what it becomes, \`${MARK_NEW}\`,` +
+      " then `EOF` on a line of its own",
+    both:
+      `passages are piped in and every ${FILE_PATH} states an ${OLD_FILE},` +
+      ` so ${PIPED} belongs to no path`,
+    opening: (path, why) =>
+      `the passages for ${path} are read from the input, and the input would not open — ${why}`,
+  })
+  if ("refusals" in held) return { refusals: held.refusals }
+  const path = read.wanting
+  if (path === null || !("bytes" in held)) return { asking: read.asking }
+  const said = textOf(held.bytes)
+  if (said === null) return { refusals: [`${PIPED} is not text, so no passage is read from it`] }
+  const passages = passagesIn(said, `${OLD_FILE} and ${NEW_FILE}`)
+  if ("refusals" in passages) return { refusals: passages.refusals }
+  const stated = passages.passages.map((one) => ({ ...one, fromFiles: false }))
+  return { asking: [...read.asking, { path, stated }] }
 }
 
 export function counted(body: string, said: string): number {
@@ -148,13 +187,16 @@ type Worked = { readonly body: string } | { readonly mistaken: string } | { read
 function working(path: string, body: string, stated: readonly Stated[]): Worked {
   let held = body
   for (const [which, one] of stated.entries()) {
-    const said = textAt(one.old)
+    const said = one.fromFiles ? textAt(one.old) : one.old
     if (said === null) return { mistaken: `${OLD_FILE} ${one.old} could not be read as text` }
-    const put = textAt(one.put)
+    const put = one.fromFiles ? textAt(one.put) : one.put
     if (put === null) return { mistaken: `${NEW_FILE} ${one.put} could not be read as text` }
     if (said === "") {
       return {
-        mistaken: `${OLD_FILE} ${one.old} is empty, and an empty passage names no place in ${path}`,
+        mistaken: one.fromFiles
+          ? `${OLD_FILE} ${one.old} is empty, and an empty passage names no place in ${path}`
+          : `marker block ${which + 1} carries no old passage, and an empty passage names` +
+            ` no place in ${path}`,
       }
     }
     const found = counted(held, said)
@@ -169,12 +211,12 @@ function working(path: string, body: string, stated: readonly Stated[]): Worked 
   return { body: held }
 }
 
-export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
+export function askedWith(argv: readonly string[], given: Given, piping: Piping): Asked | Answer {
   const unknown = unknownIn(argv, VALUED, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const read = readIn(argv)
   if (read.refusals.length > 0) return mistaking(read.refusals)
-  if (read.asking.length === 0 && read.removals.length === 0) {
+  if (read.asking.length === 0 && read.wanting === null && read.removals.length === 0) {
     return mistaking([
       `this call names no ${FILE_PATH} to change and no ${REMOVE} to take away, so it asks for nothing`,
     ])
@@ -183,13 +225,15 @@ export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
   if ("refusals" in glass) return mistaking(glass.refusals)
   const message = messageIn(argv, VALUED)
   if ("refusals" in message) return mistaking(message.refusals)
+  const every = askingIn(read, given, piping)
+  if ("refusals" in every) return mistaking(every.refusals)
 
   const mistaken: string[] = []
   const wrong: string[] = []
   const changes: FileEdit[] = []
   const unmoved: Held[] = []
   const seen = new Set<string>()
-  for (const one of read.asking) {
+  for (const one of every.asking) {
     const path = pathInside(given.root, one.path)
     if (path === null) {
       mistaken.push(outside(one.path))
@@ -260,8 +304,12 @@ export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
   return asked
 }
 
-export function edit(argv: readonly string[], given: Given): Answer {
-  const asked = askedIn(argv, given)
+export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
+  return askedWith(argv, given, inputIn)
+}
+
+export function editing(argv: readonly string[], given: Given, piping: Piping): Answer {
+  const asked = askedWith(argv, given, piping)
   if (!("changes" in asked)) return asked
   const answer = landingAsked(given, asked)
   if (answer.code === 0 && !asked.dryRun) {
@@ -271,4 +319,8 @@ export function edit(argv: readonly string[], given: Given): Answer {
     )
   }
   return answer
+}
+
+export function edit(argv: readonly string[], given: Given): Answer {
+  return editing(argv, given, inputIn)
 }

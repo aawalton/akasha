@@ -61,14 +61,33 @@ function checkoutOf(): string {
 
 function ran(
   root: string,
-  argv: readonly string[]
+  argv: readonly string[],
+  stdin?: Uint8Array
 ): { readonly said: string; readonly code: number } {
   const held = running([process.execPath, join(root, DISPATCHER), ...argv], {
+    cwd: root,
+    env: { ...process.env, AKASHA_ROOT: root },
+    ...(stdin === undefined ? {} : { stdin }),
+  })
+  return { said: `${held.out}${held.err}`, code: held.code }
+}
+
+function heredoc(
+  root: string,
+  argv: readonly string[],
+  body: string
+): { readonly said: string; readonly code: number } {
+  const named = [process.execPath, join(root, DISPATCHER), ...argv]
+    .map((one) => `'${one.replaceAll("'", "'\\''")}'`)
+    .join(" ")
+  const held = running(["bash", "-c", `${named} <<'AKASHA'\n${body}AKASHA\n`], {
     cwd: root,
     env: { ...process.env, AKASHA_ROOT: root },
   })
   return { said: `${held.out}${held.err}`, code: held.code }
 }
+
+const GLASS = ["--break-the-glass", "the check minted for this checkout refuses everything"]
 
 function bodyIn(root: string): string {
   writeFileSync(join(root, EDITED_AT), EDITED)
@@ -282,6 +301,57 @@ test("the codes are the ones the outer cli uses", () => {
   expect(UNCLASSIFIED).toBe(70)
 })
 
+test("a body carried in by a heredoc lands as the bytes the shell never touched", () => {
+  const root = checkoutOf()
+  const body = 'export const piped = "$(id) `whoami`";\n'
+  const said = heredoc(
+    root,
+    ["write", "--file-path", "akasha/piped.ts", "--message", "piped arrives", ...GLASS],
+    body
+  )
+  expect(said.code).toBe(OK)
+  expect(said.said).toContain("wrote akasha/piped.ts")
+  expect(readFileSync(join(root, "akasha/piped.ts"), "utf8")).toBe(body)
+}, 60000)
+
+test("a marker payload carried in by a heredoc edits the file", () => {
+  const root = bodyIn(checkoutOf())
+  const said = heredoc(
+    root,
+    ["edit", "--file-path", EDITED_AT, "--message", "edited arrives", ...GLASS],
+    "<<<<<<< old\nexport const edited = 1;\n=======\nexport const edited = 2;\n>>>>>>> new\n"
+  )
+  expect(said.code).toBe(OK)
+  expect(said.said).toContain(`edited ${EDITED_AT}`)
+  expect(readFileSync(join(root, EDITED_AT), "utf8")).toBe(
+    "export const edited = 2;\n\nexport const beside = 1;\n"
+  )
+}, 60000)
+
+test("a path named with nothing piped in is refused by the cli, showing the heredoc", () => {
+  const root = bodyIn(checkoutOf())
+  const written = ran(root, ["write", "--file-path", "akasha/piped.ts"])
+  expect(written.code).toBe(INPUT)
+  expect(written.said).toContain("nothing is piped in")
+  expect(written.said).toContain("<<'EOF'")
+  const edited = ran(root, ["edit", "--file-path", EDITED_AT])
+  expect(edited.code).toBe(INPUT)
+  expect(edited.said).toContain("nothing is piped in")
+}, 60000)
+
+test("a marker payload the cli cannot read is refused for what it is missing", () => {
+  const root = bodyIn(checkoutOf())
+  const at = ["edit", "--file-path", EDITED_AT]
+  const piped = (said: string) => ran(root, at, new TextEncoder().encode(said))
+  expect(piped("<<<<<<< old\nalpha\n>>>>>>> new\n").said).toContain("closed by no `=======`")
+  expect(piped("<<<<<<< old\nalpha\n=======\nbeta\n").said).toContain("closed by no `>>>>>>> new`")
+  expect(piped(">>>>>>> new\n").said).toContain("follows no `<<<<<<< old`")
+  const one = ran(root, [...at, ...stated(root, "a", "1", "2")], new TextEncoder().encode("a\n"))
+  expect(one.code).toBe(INPUT)
+  expect(one.said).toContain("belongs to no path")
+  expect(readFileSync(join(root, EDITED_AT), "utf8")).toBe(EDITED)
+}, 60000)
+
 test("akasha tells its own surface, and each command tells the flags it takes", () => {
   const root = checkoutOf()
 
@@ -295,9 +365,11 @@ test("akasha tells its own surface, and each command tells the flags it takes", 
   expect(writing.code).toBe(OK)
   expect(writing.said).toContain("--content-file <file>")
   expect(writing.said).toContain("--break-the-glass <reason>")
+  expect(writing.said).toContain("reads that body from standard input")
 
   const editing = ran(root, ["edit", "-h"])
   expect(editing.code).toBe(OK)
   expect(editing.said).toContain("--old-file <file>")
   expect(editing.said).toContain("--message <text>")
+  expect(editing.said).toContain("reads its passages from standard input")
 }, 60000)

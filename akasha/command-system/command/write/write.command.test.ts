@@ -5,24 +5,14 @@ import { said as git } from "@akasha/git/git-running"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
-import { bodyIn, checking, givenIn, repoAt } from "../../asking/asking.module.test-fixtures.ts"
+import { bodyIn, checking, givenIn } from "../../asking/asking.module.test-fixtures.ts"
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
 import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
-import { scratchWorld } from "../../scratching/scratching.module.code.ts"
-import { write } from "./write.command.code.ts"
+import { write, writing } from "./write.command.code.ts"
+import { AGENT, repoWith, scratch } from "./write.command.test-fixtures.ts"
 import { write as writeCommand } from "./write.command.ts"
 
-const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
-
-const scratch = scratchWorld()
-
 afterAll(scratch.sweep)
-
-function repoWith(
-  named: Readonly<Record<string, string>> = { "akasha/one.ts": "committed\n" }
-): string {
-  return repoAt(scratch.rootFor("akasha-write-"), named)
-}
 
 test("a write over a body the record does not show read is refused", () => {
   const root = repoWith()
@@ -276,11 +266,34 @@ test("a path climbing out of the root is refused", () => {
   expect(said.refusals[0]).toContain("is not under `akasha/`")
 })
 
-test("a file path closed by no content file is refused", () => {
+test("a file path naming no content file with nothing piped in is refused", () => {
   const root = repoWith()
-  const said = write(["--file-path", "akasha/two.ts"], givenIn(root))
+  const said = writing(["--file-path", "akasha/two.ts"], givenIn(root), () => ({ tty: true }))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("closed by no --content-file")
+  expect(said.refusals[0]).toContain("nothing is piped in")
+  expect(said.refusals[0]).toContain("<<'EOF'")
+})
+
+test("the bytes piped in are the body, text or not", () => {
+  const root = repoWith()
+  const raw = new Uint8Array([0xff, 0xfe, 0x01, 0x02])
+  const said = writing(["--file-path", "akasha/two.bin"], givenIn(root), () => ({ bytes: raw }))
+  expect(said.code).toBe(0)
+  expect([...readFileSync(join(root, "akasha/two.bin"))]).toEqual([...raw])
+})
+
+test("what is piped in is refused where no path wants it or it holds a marker", () => {
+  const root = repoWith()
+  const at = ["--file-path", "akasha/two.ts"]
+  const piped = () => ({ bytes: bytes("alpha\n=======\nbeta\n") })
+  const refused = (argv: readonly string[], saying: string) => {
+    const said = writing(argv, givenIn(root), piped)
+    expect(said.code).toBe(1)
+    expect(said.refusals[0]).toContain(saying)
+  }
+  refused([...at, "--content-file", bodyIn(root)], "belongs to no path")
+  refused(at, "handed in at --content-file")
+  refused([...at, ...at, "--content-file", bodyIn(root)], "closed by no --content-file before")
 })
 
 test("a flag this does not take is refused rather than ignored", () => {
