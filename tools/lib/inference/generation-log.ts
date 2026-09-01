@@ -1,7 +1,6 @@
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { kebabizeKey } from "../tracking/keys.ts"
-import { patchRow, type Written, writeRow } from "@shared/pages-query"
 import { optionalEnv } from "@akasha/utils-narrow/require-env"
 
 export function generationLogSlug(): string {
@@ -19,36 +18,34 @@ export function rowValuesOf(properties: Readonly<Record<string, Json>>): Record<
   return values
 }
 
-function orThrow(written: Written, what: string): undefined {
-  if (written.ok) return
-  throw new OperationalError(`${what} did not land: ${written.why}`)
-}
+// A GENERATION IS LOGGED AS A ROW, AND NOTHING LANDS A ROW. A row stands inside a page's body
+// rather than at a path of its own, and the store addresses paths and whole bodies, so `writeRow`
+// and `patchRow` refuse every call — they have since 4c1f05a264 severed the checkout branch that
+// used to land them. Both functions below asked anyway and threw on the refusal, so every
+// `inference` and `wan` command that records what it generated has stopped here since.
+//
+// The refusal is stated here rather than carried back from a shim. Landing these again means
+// writing the log page's whole body through `writeFiles` or `patchFiles`, or going through the
+// akasha command line — the same two roads the store names when it refuses.
+const NO_ROW =
+  "a row stands inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so nothing here can reach it. land the generation log's whole body with `writeFiles` or `patchFiles`, or record it through the akasha command line"
 
 export async function landRow(
   pageTypeSlug: string,
-  properties: Readonly<Record<string, Json>>,
+  _properties: Readonly<Record<string, Json>>,
   id: string = Bun.randomUUIDv7()
 ): Promise<string> {
-  const written = await writeRow(
-    pageTypeSlug,
-    generationLogSlug(),
-    { id, ...rowValuesOf(properties) },
-    GENERATION_WRITER
+  throw new OperationalError(
+    `the ${pageTypeSlug} row ${id} did not land in \`${generationLogSlug()}\`: ${NO_ROW}`
   )
-  orThrow(written, `the ${pageTypeSlug} row ${id}`)
-  return id
 }
 
 export async function mergeRow(
   pageTypeSlug: string,
   id: string,
-  properties: Readonly<Record<string, Json>>
+  _properties: Readonly<Record<string, Json>>
 ): Promise<void> {
-  const written = await patchRow(
-    pageTypeSlug,
-    generationLogSlug(),
-    { id, ...rowValuesOf(properties) },
-    GENERATION_WRITER
+  throw new OperationalError(
+    `the patch of ${pageTypeSlug} row ${id} did not land in \`${generationLogSlug()}\`: ${NO_ROW}`
   )
-  orThrow(written, `the patch of ${pageTypeSlug} row ${id}`)
 }
