@@ -19,7 +19,6 @@ export const amyJennyUnreviewedWidget = {
       workingMemory:
         "The workspaces half is done: eighteen packages stand in the root list, bun.lock registers them, node_modules/@akasha holds all eighteen, and each of the 1298 reaches past a package edge lands on a file its manifest exports. What blocks the rewrite is the import index: landingOf answers null for a bare specifier, so naming the reaches would file no edge and the required-reading gate would go quiet. See finding naming-a-reach-would-empty-the-import-index. Dry run: /var/tmp/name-the-reaches.ts.",
     },
-    { statement: "No file Alan's site is built from is too long for akasha to hold." },
     {
       statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
