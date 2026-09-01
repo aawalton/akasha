@@ -18,6 +18,10 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
+      statement: "A body read as text is named `.ts` or `.tsx`.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A selector takes as input every path it hands over.",
     },
     {

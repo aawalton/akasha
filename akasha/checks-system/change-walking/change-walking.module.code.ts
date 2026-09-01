@@ -51,7 +51,11 @@ const INSIDE = "akasha/"
 
 const TS = "ts"
 
+const TSX = "tsx"
+
 const TS_ENDING = `.${TS}`
+
+const TSX_ENDING = `.${TSX}`
 
 const PAGE_TYPES = new WeakMap<Shadow, ReadonlySet<string>>()
 
@@ -79,13 +83,17 @@ export const FILES: Selector<Body> = {
   from: (change) => standingIn(change),
 }
 
+export function textNamed(path: string): boolean {
+  return path.endsWith(TS_ENDING) || path.endsWith(TSX_ENDING)
+}
+
 export const TEXTS: Selector<Text> = {
   named: "texts",
-  isInput: (path) => path.endsWith(TS_ENDING),
+  isInput: (path) => textNamed(path),
   from: (change) => {
     const found: Text[] = []
     for (const given of standingIn(change)) {
-      if (!given.path.endsWith(TS_ENDING)) continue
+      if (!textNamed(given.path)) continue
       found.push({ root: given.root, path: given.path, text: bodyOf(given) })
     }
     return found
@@ -143,7 +151,7 @@ export function overEachText(
   found: (path: string, text: string) => readonly string[]
 ): (given: Body) => readonly string[] {
   return (given) => {
-    if (!given.path.endsWith(TS_ENDING)) return []
+    if (!textNamed(given.path)) return []
     return found(given.path, bodyOf(given))
   }
 }

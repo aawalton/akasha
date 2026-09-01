@@ -25,6 +25,7 @@ import {
   pagesTailed,
   type Selector,
   TEXTS,
+  textNamed,
 } from "./change-walking.module.code.ts"
 
 const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
@@ -148,6 +149,32 @@ test("the texts selected are TypeScript alone, each one handed over already read
   const handed = TEXTS.from(change, shadowAt(change.root))
   expect(handed.map((one) => one.path)).toEqual(["here.ts"])
   expect(handed.map((one) => one.text)).toEqual(["here"])
+})
+
+test("a body written with JSX is TypeScript too, so the texts take it and the pages do not", () => {
+  const root = scratch.rootFor("akasha-jsx-")
+  writeFileSync(join(root, "here.tsx"), "here")
+  writeFileSync(join(root, "note.md"), "note")
+  const held = onDisk(root)
+  const change = { root, changed: ["here.tsx", "note.md"], after: held, before: held }
+  const shadow = shadowAt(root)
+  expect(TEXTS.from(change, shadow).map((one) => one.path)).toEqual(["here.tsx"])
+  expect(TEXTS.isInput("here.tsx", shadow)).toBe(true)
+  expect(TEXTS.isInput("here.md", shadow)).toBe(false)
+})
+
+test("the name of a body says whether it is read as text, and `.tsx` says it is", () => {
+  expect(textNamed("one.ts")).toBe(true)
+  expect(textNamed("one.tsx")).toBe(true)
+  expect(textNamed("one.md")).toBe(false)
+  expect(textNamed("one.css")).toBe(false)
+})
+
+test("reading each text takes a body written with JSX as readily as one written without", () => {
+  const judge = overEachText((path) => [path])
+  const bytes = new TextEncoder().encode("held")
+  expect(judge({ root: "/nowhere", path: "one.tsx", bytes })).toEqual(["one.tsx"])
+  expect(judge({ root: "/nowhere", path: "one.css", bytes })).toEqual([])
 })
 
 test("the pages selected are the standing files the index names a page type for, already loaded", () => {
