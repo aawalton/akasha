@@ -38,15 +38,15 @@ export function respelledLanded(
   if ("refusals" in glass) return answering([], glass.refusals, 1)
   const asked = messageIn(argv, flags)
   if ("refusals" in asked) return answering([], asked.refusals, 1)
-  const stood = baseOf(root)
+  const base = baseOf(root)
   const changes: FileEdit[] = []
   const readings: Carry[] = []
   for (const path of [...said.keys()].sort()) {
     const body = said.get(path)
     if (body === undefined) continue
-    const bytes = bodyAt(root, stood, path)
+    const bytes = bodyAt(root, base, path)
     if (bytes === null) {
-      return answering([], [`${path} stands in no commit at \`${stood}\``], 2)
+      return answering([], [`${path} stands in no commit at \`${base}\``], 2)
     }
     readings.push({ was: path, now: path, from: blobIdOf(bytes) })
     changes.push({ path, body: BYTES.encode(body), carried: true })
@@ -57,7 +57,7 @@ export function respelledLanded(
     dryRun,
     glass: glass.glass,
     unmoved: [],
-    read: stood,
+    read: base,
     saying: () => saying(false),
   }
   const landing = landingAsked({ ...given, root }, asking)
