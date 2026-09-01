@@ -62,6 +62,18 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
+      statement: "A name spelled inside a string is respelled only where the caller asks for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A string is respelled over the body the checker already changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What still names the name is looked for after the strings were respelled.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The paths a name is resolved over and the paths a spelling left behind is looked for in are handed in apart.",
     },

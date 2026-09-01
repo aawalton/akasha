@@ -78,6 +78,8 @@ const PLURAL = "--plural"
 
 const AT = "--at"
 
+const IN_STRINGS = "--in-strings"
+
 const VALUED = [FROM, TO, PLURAL, AT, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const NAMED = [FROM, TO, PLURAL, AT]
@@ -89,18 +91,22 @@ const LEFT = 12
 const IMPORT = importEdge.slug
 
 export type Read =
-  | { readonly said: ReadonlyMap<string, string>; readonly dryRun: boolean }
+  | {
+      readonly said: ReadonlyMap<string, string>
+      readonly dryRun: boolean
+      readonly inStrings: boolean
+    }
   | { readonly refused: string }
 
 export function flagsIn(argv: readonly string[]): Read {
   const said = new Map<string, string>()
-  let dryRun = false
+  const bare = new Set<string>()
   let at = 0
   while (at < argv.length) {
     const token = argv[at]
     if (token === undefined) break
-    if (token === DRY_RUN) {
-      dryRun = true
+    if (token === DRY_RUN || token === IN_STRINGS) {
+      bare.add(token)
       at = at + 1
       continue
     }
@@ -113,7 +119,7 @@ export function flagsIn(argv: readonly string[]): Read {
     said.set(token, value)
     at = at + 2
   }
-  return { said, dryRun }
+  return { said, dryRun: bare.has(DRY_RUN), inStrings: bare.has(IN_STRINGS) }
 }
 
 type Rewriting = {
@@ -326,11 +332,12 @@ export function tokenLanded(
   root: string,
   one: Tokening,
   dryRun: boolean,
-  argv: readonly string[]
+  argv: readonly string[],
+  inStrings: boolean
 ): Answer {
   const every = everyPath(root).filter(compiled)
   const typed = reachingInto(root, [one.path], [IMPORT], compiled)
-  const made = bindingFor(root, { typed, every }, one, bodyTextOf(root, baseOf(root)))
+  const made = bindingFor(root, { typed, every, inStrings }, one, bodyTextOf(root, baseOf(root)))
   if ("refused" in made) return answering([], [made.refused], 1)
   return respelledLanded(
     given,
@@ -369,6 +376,9 @@ export function refactor(argv: readonly string[], given: Given): Answer {
   }
   const read = flagsIn(rest)
   if ("refused" in read) return answering([], [read.refused], 1)
+  if (read.inStrings && namespace !== TOKEN) {
+    return answering([], [`only a name rename takes ${IN_STRINGS}`], 1)
+  }
   const from = read.said.get(FROM)
   const to = read.said.get(TO)
   const root = resolve(given.root)
@@ -380,7 +390,7 @@ export function refactor(argv: readonly string[], given: Given): Answer {
     }
     const asked = tokeningFor(at, from, to)
     if ("refused" in asked) return answering([], [asked.refused], 1)
-    return tokenLanded(given, root, asked.tokening, read.dryRun, argv)
+    return tokenLanded(given, root, asked.tokening, read.dryRun, argv, read.inStrings)
   }
   if (namespace === PROPERTY_SLUG) {
     if (from === undefined || to === undefined) {

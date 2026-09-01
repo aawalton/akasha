@@ -51,6 +51,24 @@ test("a key rename takes no plural", () => {
   expect(said.refusals[0]).toContain("--plural")
 })
 
+test("a key rename respells no string", () => {
+  const said = refactor(
+    ["rename", "property-slug", "--from", "text-property/slug", "--to", "named", "--in-strings"],
+    GIVEN
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--in-strings")
+})
+
+test("a page type rename respells no string", () => {
+  const said = refactor(
+    ["rename", "page-type", "--from", "seat", "--to", "chair", "--in-strings"],
+    GIVEN
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--in-strings")
+})
+
 test("a rename takes the slug, what it becomes, and the plural it becomes", () => {
   const said = refactor(["rename", "page-type", "--from", "seat", "--to", "chair"], GIVEN)
   expect(said.code).toBe(1)

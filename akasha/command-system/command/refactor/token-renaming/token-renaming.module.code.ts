@@ -15,7 +15,7 @@ import { counted } from "../../../asking/asking.module.code.ts"
 import { were } from "../refactor-landing/refactor-landing.module.code.ts"
 import type { Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
-import { namesStill } from "../type-respelling/type-respelling.module.code.ts"
+import { nameRespelled, namesStill } from "../type-respelling/type-respelling.module.code.ts"
 
 const LEFT = 12
 
@@ -46,6 +46,7 @@ export type Made = { readonly binding: Binding } | { readonly refused: string }
 export type Over = {
   readonly typed: readonly string[]
   readonly every: readonly string[]
+  readonly inStrings?: boolean
 }
 
 type Stood = { readonly nodes: ReadonlySet<ts.Node>; readonly key: boolean }
@@ -128,6 +129,14 @@ export function bindingFor(
       return { refused: `${path} names \`${one.was}\` and its body could not be read` }
     }
     changes.set(path, splicedIn(text, spots))
+  }
+  if (over.inStrings === true) {
+    for (const path of over.every) {
+      const text = changes.get(path) ?? textOf(path)
+      if (text === null) continue
+      const next = nameRespelled(path, text, one.was, one.now)
+      if (next !== null) changes.set(path, next)
+    }
   }
   const still: Still[] = []
   for (const path of over.every) {

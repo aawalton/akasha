@@ -164,6 +164,60 @@ const CARRIED = new Map<string, string>([
 
 const CARRIED_PATHS = [...CARRIED.keys()]
 
+const STRUNG = "akasha/strung/strung.module.code.ts"
+
+const STRUNG_BODIES = new Map<string, string>([
+  [HELD, BODIES.get(HELD) ?? ""],
+  [
+    STRUNG,
+    'import { marking } from "../held/held.module.code.ts"\n' +
+      '\nconst a = "one"\nconst b = "two"\n' +
+      '\nexport const said = "import { marking } from x"\n' +
+      "\nexport const held = `marking ${a} marking ${b} marking`\n" +
+      '\nexport const apart = "markingHeld stands apart"\n' +
+      "\nexport const two = marking\n",
+  ],
+])
+
+const STRUNG_PATHS = [...STRUNG_BODIES.keys()]
+
+function strung(inStrings: boolean): ReturnType<typeof bindingFor> {
+  const asked = tokeningFor(HELD, "marking", "input")
+  if ("refused" in asked) throw new Error(asked.refused)
+  const over = inStrings
+    ? { typed: STRUNG_PATHS, every: STRUNG_PATHS, inStrings: true }
+    : { typed: STRUNG_PATHS, every: STRUNG_PATHS }
+  return bindingFor(ROOT, over, asked.tokening, (path) => STRUNG_BODIES.get(path) ?? null)
+}
+
+function strungSaid(inStrings: boolean): string {
+  const made = strung(inStrings)
+  if ("refused" in made) throw new Error(made.refused)
+  return made.binding.changes.get(STRUNG) ?? ""
+}
+
+test("a name spelled inside a string is respelled where the caller asks for it", () => {
+  const said = strungSaid(true)
+  expect(said).toContain('export const said = "import { input } from x"')
+  expect(said).toContain("export const held = `input ${a} input ${b} input`")
+})
+
+test("a longer name carrying the renamed one is left as it stands inside a string", () => {
+  expect(strungSaid(true)).toContain('export const apart = "markingHeld stands apart"')
+})
+
+test("a string is respelled over the body the checker already changed", () => {
+  const said = strungSaid(true)
+  expect(said).toContain('import { input } from "../held/held.module.code.ts"')
+  expect(said).toContain("export const two = input")
+})
+
+test("a name spelled inside a string is left as it stands where the caller asks nothing", () => {
+  const said = strungSaid(false)
+  expect(said).toContain('export const said = "import { marking } from x"')
+  expect(said).toContain("export const two = input")
+})
+
 test("a name a file the rename would respell already carries is refused rather than shadowed", () => {
   const asked = tokeningFor(HELD, "marking", "held")
   if ("refused" in asked) throw new Error(asked.refused)

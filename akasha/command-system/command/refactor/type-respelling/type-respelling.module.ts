@@ -68,6 +68,18 @@ export const typeRespelling = {
     },
     {
       invariantKind: "departure",
+      statement: "A name standing whole in any literal is respelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A template's parts are read for a name as a plain string is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A longer name carrying the renamed one is no spelling of it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Where a body still names the old slug is answered by the line it stands on.",
     },
     {
