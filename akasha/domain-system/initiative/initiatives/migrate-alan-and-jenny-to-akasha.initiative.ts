@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The web pods are never killed for failing to answer.",
       workingMemory:
-        "Mechanism found, residual cause open. The query path runs spawnSync git per FileTree rebuild, once per page type; alanwalton/web/server.ts:35 measures that at 57.6s no await yields out of. holdDerivers(5000) collapses it, Alan's pod carries it, and that pod was still killed at 20:34:34Z. Measured in-pod: those git calls cost 300ms, not 40s. Ruled out: a dirty worktree, the carries key, and /api/health itself. Jenny's server had no hold at all; added and deployed at ffb4f10762.",
+        "The cause is the old engine. `@shared/pages-query` answers from the pod's own checkout with spawnSync git, once per page type, which no await yields out of. Alan's call is to delete that engine rather than mitigate it. Jenny's site is already free of it and deployed. What is unproven is Alan's pod, which still carries every call site. Ruled out by measurement: memory, throttling, a dirty worktree, the carries key, and /api/health itself.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
