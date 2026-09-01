@@ -18,6 +18,7 @@ export const deploy = {
     "a manifest the cluster already stands as is applied again by nothing, so a second call does nothing.",
     "the build a pod serves is made here, inside that pod, from the commit HEAD stands at.",
     "a pod takes its source from origin, so a commit origin does not carry is pushed onto main first.",
+    "that commit is first proved to install from the manifests it tracks, since a workspace resolving on a workstation can be missing from git.",
     "a build already made from that commit is made again by nothing.",
     "what a build needs set is exported beside the manifest code, and a value it names that nothing holds refuses the call.",
   ],
@@ -45,6 +46,19 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "The source built is the commit the workstation's HEAD stands at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The commit built is proved to install before anything is pushed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An install is proved against the manifests the commit tracks rather than against the worktree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit whose tracked manifests do not install refuses the call.",
     },
     {
       invariantKind: "departure",

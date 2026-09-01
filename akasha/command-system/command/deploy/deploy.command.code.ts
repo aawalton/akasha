@@ -7,6 +7,7 @@ import {
   declaredBuildEnv,
   headOf,
   inPod,
+  installableAt,
   livePod,
   pushToOrigin,
   type Resolved,
@@ -108,6 +109,9 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
 
   let resolved: Resolved = { env: [], hidden: [], missing: [] }
   if (target !== null && !isBuilt) {
+    const installs = installableAt(given.root, sha)
+    if ("why" in installs) return { report, refusals: [installs.why], code: DATA }
+    report.push(`installs\t${sha}\tthe manifests it tracks`)
     const declared = await declaredBuildEnv(join(given.root, standing.synthPath))
     resolved = resolveBuildEnv(target.namespace, declared, sha)
     report.push(`build-env\t${resolved.env.map((one) => one.name).join(" ")}`)
