@@ -6,6 +6,6 @@ export const ENFORCED = "enforced"
 
 export type Stage = typeof HYPOTHESIS | typeof CODED | typeof ENFORCED
 
-export function standingOfShape(_slug: string, _root?: string): Stage {
+export function stageOf(_slug: string, _root?: string): Stage {
   return HYPOTHESIS
 }
