@@ -4,7 +4,7 @@ export const aSyntaxRulesOwnBodyCannotBeChangedThroughTheGate = {
   id: "01a05b3f-a384-7a3c-98e9-9324a713d35a",
   pageTypeSlug: "finding",
   slug: "a-syntax-rules-own-body-cannot-be-changed-through-the-gate",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "`no-refused-syntax` loads a syntax rule whose code already stands by importing the file on disk, so a change carrying a new body for an existing rule's `.code.ts` leaves it with a body no path holds and the check throws rather than judging. Fail Closed then refuses the change. Since `2903736a2f` a rule the change *introduces* is judged by the body the change carries, but a rewrite of a standing rule still cannot go through `akasha write`.",
   evidence:

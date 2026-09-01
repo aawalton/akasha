@@ -4,7 +4,7 @@ export const typecheckRepoCompilesOneProgramNoBuildMakes = {
   id: "01a05ce0-2436-7000-bb53-b68211a33944",
   pageTypeSlug: "finding",
   slug: "typecheck-repo-compiles-one-program-no-build-makes",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "typecheck-repo compiles all 15554 TypeScript files as one program under ten hand-written compiler options, so its 2647 errors describe a compilation this repository never performs, while the authoritative referenced build over the same tree is clean.",
   evidence:

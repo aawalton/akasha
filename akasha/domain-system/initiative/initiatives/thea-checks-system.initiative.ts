@@ -4,7 +4,7 @@ export const theaChecksSystem = {
   id: "01a04e69-e40a-7287-a2e2-2c49c76c0dee",
   pageTypeSlug: "initiative",
   slug: "thea-checks-system",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   personaSlug: "thea",
   intents: [
     {

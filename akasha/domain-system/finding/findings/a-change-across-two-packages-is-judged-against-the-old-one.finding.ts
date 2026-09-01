@@ -4,7 +4,7 @@ export const aChangeAcrossTwoPackagesIsJudgedAgainstTheOldOne = {
   id: "01a05b4b-2137-7324-9b54-9c820de1bbd0",
   pageTypeSlug: "finding",
   slug: "a-change-across-two-packages-is-judged-against-the-old-one",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "A change carrying two packages is judged with the reaching package's new code against the reached package's committed code, because a bare specifier resolves through node_modules into the tree as it stands rather than into the change. One commit adding an export and its caller cannot land; the work splits in two, and between those commits the tree does not typecheck. The same hole would hide a cross-package break whose old body still satisfies the new caller.",
   evidence:

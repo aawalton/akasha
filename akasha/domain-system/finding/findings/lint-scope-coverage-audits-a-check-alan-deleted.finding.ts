@@ -4,7 +4,7 @@ export const lintScopeCoverageAuditsACheckAlanDeleted = {
   id: "01a05ce0-2436-7003-986c-b3741241dee5",
   pageTypeSlug: "finding",
   slug: "lint-scope-coverage-audits-a-check-alan-deleted",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "lint-scope-coverage weighs biome's declared lint scope against the dispatch seeds of a cluster check Alan deleted, and its replacement declares no dispatch seeds at all, so there is nothing left to point the audit at and no repair preserves its verdict.",
   evidence:

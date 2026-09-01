@@ -4,7 +4,7 @@ export const aCycleThroughAPackageEdgeGoesUnseen = {
   id: "01a05b15-391f-73d0-abbe-6df3583b7d72",
   pageTypeSlug: "finding",
   slug: "a-cycle-through-a-package-edge-goes-unseen",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "The index, the required reading gate and the folder shape check all resolve a specifier naming a workspace package to the file its manifest states. `no-import-cycle` does not, and cannot without being handed something it is not handed today. The rewrite this was filed ahead of has since landed, so a cycle running through a package edge would now go unrefused, and 707 of the 1488 import edges under `akasha/` are invisible to the check.",
   evidence:

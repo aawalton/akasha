@@ -4,7 +4,7 @@ export const aMoveInsideBreaksWhatIsOutside = {
   id: "01a05931-1982-731d-9cf8-4c61aac946c2",
   pageTypeSlug: "finding",
   slug: "a-move-inside-breaks-what-is-outside",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "Moving a module inside the akasha folder broke six files outside it that import it, and every gate read green while it was broken. No check judges what the repository outside akasha imports from inside it, and no typecheck spans the two. Fifty-three imports cross that way today, held by whoever remembers to look.",
   evidence:

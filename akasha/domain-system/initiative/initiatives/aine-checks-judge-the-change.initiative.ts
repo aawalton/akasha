@@ -4,7 +4,7 @@ export const aineChecksJudgeTheChange = {
   id: "01a05e19-4c58-709b-9a7f-acfa62c725de",
   pageTypeSlug: "initiative",
   slug: "aine-checks-judge-the-change",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   personaSlug: "aine",
   intents: [
     {

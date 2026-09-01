@@ -4,7 +4,7 @@ export const akashaWouldRatherNotMutate = {
   id: "01a05022-3aa0-7837-ae96-152ad1f294ee",
   pageTypeSlug: "finding",
   slug: "akasha-would-rather-not-mutate",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "Built and measured, the rule found a fork, not a count. Judged by confinement, whether anything else can reach a collection, akasha costs eleven sites. Judged by no in-place mutation, it costs 566 across 120 files, 92% production, and 97% of that is the local builder that makes an array, fills it, and hands it back readonly. No-mutation refuses this rule's own code. Confinement is cheap and reaches the failure classes; no-mutation is a house style whose enforcement is a rewrite.",
   evidence:

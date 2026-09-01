@@ -4,7 +4,7 @@ export const theErrorsTheRootBuildReportsAreOneCauseAMoveDissolves = {
   id: "01a05c2c-0c9c-7ed1-9ba1-3cd60b2a56bb",
   pageTypeSlug: "finding",
   slug: "the-errors-the-root-build-reports-are-one-cause-a-move-dissolves",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "The 69 errors the root build reports are one cause rather than 69 faults. Every one is `Type 'void' is not assignable to type 'undefined'`: a module that landed in akasha under no-void-return declares `() => undefined`, and a consumer still standing in `shared/` passes `() => void`. All 69 sit in the two folders being peeled into akasha now, so each dissolves when its consumer moves. Annotating them buys nothing that a move will not throw away, and the count is not evidence of breakage.",
   evidence:

@@ -4,7 +4,7 @@ export const timeWantsItsRuleWhenTimeArrives = {
   id: "01a05024-9e8c-7321-910f-8c9e4b2f4ebf",
   pageTypeSlug: "finding",
   slug: "time-wants-its-rule-when-time-arrives",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "The old timezone rule would still guard little in akasha, but the stance this first took has been overtaken twice. A time rule has since landed here, `no-local-midnight-parse`, so it is no longer true that a rule waits on the code arriving. And the census this rested on has more than doubled. What holds is the narrower point: that one rule's pattern cannot tell an offset from a duration, so porting it unchanged would refuse correct code.",
   evidence:

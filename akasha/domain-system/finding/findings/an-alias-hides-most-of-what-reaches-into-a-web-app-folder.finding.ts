@@ -4,7 +4,7 @@ export const anAliasHidesMostOfWhatReachesIntoAWebAppFolder = {
   id: "01a05b56-acd8-7833-8080-fe245c19e793",
   pageTypeSlug: "finding",
   slug: "an-alias-hides-most-of-what-reaches-into-a-web-app-folder",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "Counting what reaches into a folder by tracing relative imports understates it by an order of magnitude, because `alanwalton/web` reaches into its own subfolders through the `~/*` tsconfig alias rather than by relative path. `app/lib` reads as zero inbound when only relative paths are traced and carries 88 alias imports from 54 files outside it. A move planned on the relative count leaves almost every importer dangling.",
   evidence:

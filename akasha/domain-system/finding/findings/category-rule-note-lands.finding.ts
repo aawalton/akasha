@@ -4,7 +4,7 @@ export const categoryRuleNoteLands = {
   id: "01a04ff0-af13-7255-89f6-665519093d80",
   pageTypeSlug: "finding",
   slug: "category-rule-note-lands",
-  domainSlug: "workspace-package/checks-system",
+  domainSlug: "workspace-package/checks",
   claim:
     "The old `category-rule-acts` check did two things under one name. One half is a type once category rules are modules. The other half is not, and nothing carries it: a code-kind category rule may hold a `note` that never lands, and the 133 category-rule pages have no guard against it.",
   evidence:
