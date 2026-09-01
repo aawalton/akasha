@@ -1,5 +1,6 @@
 import { PROMOTED_COLUMN_KEYS } from "@akasha/pages-access/routing-core"
 import type { PageRow } from "@akasha/pages-ui-store/collection/page-row"
+import { stringAt } from "@akasha/utils-narrow/string-at"
 
 export function buildPredictedRow(
   id: string,
@@ -17,9 +18,9 @@ export function buildPredictedRow(
     page_type_id: pageTypeId,
     page_type_slug: args.pageTypeSlug,
     seq: 0,
-    title: readStringProp(props, "title"),
-    icon: readStringProp(props, "icon"),
-    slug: readStringProp(props, "slug"),
+    title: stringAt(props, "title"),
+    icon: stringAt(props, "icon"),
+    slug: stringAt(props, "slug"),
     attributes,
     unique_key: null,
     status: null,
@@ -27,9 +28,4 @@ export function buildPredictedRow(
     favorited_at: null,
     last_viewed_at: null,
   }
-}
-
-function readStringProp(props: Record<string, unknown>, key: string): string | null {
-  const value = props[key]
-  return typeof value === "string" ? value : null
 }

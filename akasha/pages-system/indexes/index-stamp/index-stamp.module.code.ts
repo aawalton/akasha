@@ -1,6 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { join, relative } from "node:path"
+import { stringAt } from "@akasha/utils-narrow/string-at"
 
 export type Stamp = {
   readonly commit: string
@@ -20,11 +21,6 @@ const HERE = "."
 
 const READ_AT_MOST = 64 * 1024 * 1024
 
-function textIn(said: Record<string, unknown>, key: string): string | null {
-  const held = said[key]
-  return typeof held === "string" ? held : null
-}
-
 export function stampIn(at: string): Stamp | null {
   const file = join(at, STAMP)
   if (!existsSync(file)) return null
@@ -36,8 +32,8 @@ export function stampIn(at: string): Stamp | null {
   } catch {
     return null
   }
-  const commit = textIn(said, "commit")
-  const tree = textIn(said, "tree")
+  const commit = stringAt(said, "commit")
+  const tree = stringAt(said, "tree")
   const settled = said["settled"]
   if (commit === null || !COMMIT.test(commit)) return null
   if (tree === null || !Array.isArray(settled)) return null
