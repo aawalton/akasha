@@ -162,10 +162,10 @@ test("a caller presenting something of another shape is refused", async () => {
 })
 
 test("a caller presenting a secret no page stands for is refused", async () => {
-  const standing = pageFor(generateDeviceSecret())
+  const page = pageFor(generateDeviceSecret())
   const refused = await deviceSecretPresented(
     generateDeviceSecret(),
-    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [standing] }),
+    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [page] }),
     noNap
   )
   expect(refused.outcome).toBe("refused")
