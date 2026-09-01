@@ -1,4 +1,4 @@
-import type { Json } from "../../supabase-database/src/generated/database"
+import type { Json } from "@shared/supabase-database/generated/database"
 import type { StorageTier } from "@akasha/pages-core/types"
 
 export interface RelationTarget {
