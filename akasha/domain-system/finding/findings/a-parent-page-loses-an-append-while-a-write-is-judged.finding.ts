@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aParentPageLosesAnAppendWhileAWriteIsJudged = {
+  id: "01a05bfa-f627-7000-ad60-970809a9b60e",
+  pageTypeSlug: "finding",
+  slug: "a-parent-page-loses-an-append-while-a-write-is-judged",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`akasha write` carries whole file bodies, so two lanes appending to one parent domain page cannot both win. A lane builds its body from the file as it reads it, and any append another lane commits before that write finishes being judged is dropped from the body. Chaining the read and the write into one bash call does not close this: the window is the check run itself, a minute or more, not the moment of reading. Every lane landing a package under `alan-harness` pays repeated retries for it.",
+  evidence:
+    "Four move-lanes ran at once tonight, each adding one line to `alan-harness.domain.ts` partSlugs. This lane was refused three times over on that one file.\n\nFirst refusal, landing tower-engine: `akasha/imessage/imessage.workspace-package.ts — no page names workspace-package/imessage among its parts`. The imessage lane had appended its line after this lane's `sed` built its body and before the checks read the tree, so the body about to land dropped imessage. Second refusal, landing tower: the same shape with `akasha/health-samples-day/health-samples-day.workspace-package.ts`. Between attempts the file also gained `google-oauth`, `drive-google`, `chess-core` and `health-samples-access` from other lanes, each of which forced the body to be rebuilt.\n\nNothing is lost silently. `domain-is-named-by-a-parent` catches every one of these and refuses the whole change, so the failure mode is cost rather than corruption. The tower landings took five write attempts across three packages, and two of those five were this race alone.\n\nWhat would close it is an edit rather than a write for the parent page: `akasha edit` states a passage and what it becomes, and is applied against the file as it stands when it lands. It cannot be used here because a new package page and the parent line naming it have to land together, or `domain-is-named-by-a-parent` refuses the package page for having no parent, and `akasha edit` creates no files.\n\nThe call taken was to retry until the write landed between other lanes' commits, which worked, rather than to hold the move.",
+} as const satisfies Finding
