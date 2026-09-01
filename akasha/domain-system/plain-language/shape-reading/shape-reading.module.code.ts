@@ -13,6 +13,7 @@ export type Shape = {
   readonly definition: string
   readonly allowed: boolean | null
   readonly reason: string | null
+  readonly pattern: string | null
   readonly rules: readonly string[]
 }
 
@@ -46,6 +47,7 @@ function shapeIn(root: string, path: string): Shape {
     definition: textIn(value, "definition") ?? "",
     allowed: typeof allowed === "boolean" ? allowed : null,
     reason: textIn(value, "reason"),
+    pattern: textIn(value, "pattern"),
     rules: rulesIn(value),
   }
 }

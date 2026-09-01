@@ -4,11 +4,13 @@ import type { Definition } from "../domain/properties/definition.text-property.t
 import type { Allowed } from "./properties/allowed.boolean-property.ts"
 import type { Reason } from "./properties/reason.text-property.ts"
 import type { Rules } from "./properties/rules.text-property.ts"
+import type { ShapePattern } from "./properties/shape-pattern.text-property.ts"
 
 export type SentenceShape = Page & {
   definition: Definition
   allowed?: Allowed
-  rules: readonly Rules[]
+  rules?: readonly Rules[]
+  pattern?: ShapePattern
   reason?: Reason
 }
 
@@ -19,11 +21,17 @@ export const sentenceShape = {
   definition: "one shape a sentence takes, and whether akasha writes in it",
   pluralSlug: "sentence-shapes",
   extendsSlug: "page-type/page",
-  partSlugs: ["boolean-property/allowed", "text-property/reason", "text-property/rules"],
+  partSlugs: [
+    "boolean-property/allowed",
+    "text-property/shape-pattern",
+    "text-property/reason",
+    "text-property/rules",
+  ],
   properties: [
     { pagePropertySlug: "definition", required: true, many: false },
     { pagePropertySlug: "allowed", required: false, many: false },
-    { pagePropertySlug: "rules", required: true, many: true, max: null },
+    { pagePropertySlug: "rules", required: false, many: true, max: null },
+    { pagePropertySlug: "shape-pattern", required: false, many: false },
     { pagePropertySlug: "reason", required: false, many: false },
   ],
   invariants: [
@@ -33,7 +41,24 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
-      statement: "The grammar parses a refused shape so a refusal can name that shape.",
+      statement:
+        "The grammar parses a refused shape stating rules so a refusal can name that shape.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape states rules or a pattern.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape no grammar rule can hold states a pattern.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape stating a pattern is refused rather than admitted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A pattern is read before the grammar is read.",
     },
     {
       invariantKind: "departure",
