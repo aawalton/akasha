@@ -37,7 +37,6 @@ export const rynDomainLines = {
     "What an initiative holds is not counted.",
     "Alan is shown one thing at a time.",
     "A failure case a haiku model cannot detect is still written down, but only one it can detect can become a check.",
-    "A subagent returns the text it proposes rather than writing it.",
     "A sentence shape is put to Alan only where it is proposed for acceptance.",
     "The average is not a total because domains are expected to reach several thousand as the old system migrates in.",
     "If the documented failure cases run out while the average stands above fifty, it is raised with Alan rather than met by inventing one.",
