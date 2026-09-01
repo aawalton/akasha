@@ -65,9 +65,6 @@
       "path": "../../shared/pages-ui"
     },
     {
-      "path": "../../shared/utils-narrow"
-    },
-    {
       "path": "../../shared/utils-test"
     },
     {

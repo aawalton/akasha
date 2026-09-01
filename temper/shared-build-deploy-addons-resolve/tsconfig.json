@@ -10,7 +10,6 @@
     ]
   },
   "references": [
-    { "path": "../../shared/utils-narrow" }
   ],
   "include": [
     "src/**/*.ts"

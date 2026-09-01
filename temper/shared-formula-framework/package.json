@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@akasha/day": "workspace:*",
-    "@shared/utils-narrow": "workspace:*"
+    "@akasha/utils-narrow": "workspace:*"
   },
   "devDependencies": {
     "@temper/shared-foundation-misc-dungeons": "workspace:*",

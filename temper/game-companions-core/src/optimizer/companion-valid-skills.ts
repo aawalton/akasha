@@ -1,4 +1,4 @@
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { getArmorWeightForBaseRoles } from "../companion-base-roles-data"
 import type { CompanionState } from "../companion-types"
 import { companionWeaponRoles, getWeaponRole } from "../equipment/companion-weapon-roles-data"

@@ -1,4 +1,4 @@
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { CompanionValueFormula } from "../skills/companion-value-formula"
 import { getFormulaCoefficientType } from "../skills/companion-value-formula"
 import { badTruncate } from "./bad-truncate"

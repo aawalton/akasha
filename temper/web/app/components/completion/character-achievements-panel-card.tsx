@@ -1,5 +1,5 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { requireFirst } from "@shared/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import {
   ACHIEVEMENT_CATEGORY_ACTIVITY,
   ACHIEVEMENT_SUBCATEGORY_ACTIVITY,

@@ -1,4 +1,4 @@
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { evaluateArithmeticNode } from "@temper/shared-formula-framework/formula-evaluator"
 import { convertRatingToChance } from "@temper/shared-formula-framework/rating-utils"
 import type { CompanionBaseRoleId } from "../companion-base-roles-data"

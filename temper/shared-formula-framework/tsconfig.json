@@ -12,9 +12,6 @@
   "references": [
     {
       "path": "../shared-foundation-misc-dungeons"
-    },
-    {
-      "path": "../../shared/utils-narrow"
     }
   ]
 }

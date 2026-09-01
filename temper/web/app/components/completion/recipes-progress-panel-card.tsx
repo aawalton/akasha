@@ -1,6 +1,6 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { requireFirst } from "@shared/utils-narrow/require-first"
-import { requireGet } from "@shared/utils-narrow/require-get"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import type {
   CharacterRecipeProgress,

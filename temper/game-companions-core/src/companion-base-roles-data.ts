@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { CompanionRoleId } from "./companion-roles"
 import type { CompanionArmorWeight, CompanionState } from "./companion-types"
 import { setAllArmorWeights } from "./equipment/companion-armor-slots-data"

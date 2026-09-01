@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import { randomFrom } from "@temper/shared-formula-framework/object-utils"
 import type { CompanionState } from "../companion-types"
 import { TEMPER_COMPANION_WEAPON_ROLES } from "../generated/temper-companion-weapon-role.generated"

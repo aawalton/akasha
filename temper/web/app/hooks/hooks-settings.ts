@@ -7,7 +7,7 @@ import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
 import type { Json } from "@akasha/supabase-database/json"
-import { isRecord } from "../../../../shared/utils-narrow/src/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { InventoryLoggingSettings } from "@temper/game-items-core/inventory-logging-types"
 import {
   ALL_DESTRUCTIVE_ACTIONS,

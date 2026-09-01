@@ -14,7 +14,7 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

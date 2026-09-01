@@ -1,4 +1,4 @@
-import { isRecord } from "../../../shared/utils-narrow/src/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { z } from "zod"
 
 interface MatchHead {

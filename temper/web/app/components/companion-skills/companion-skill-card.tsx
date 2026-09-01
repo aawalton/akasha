@@ -4,7 +4,7 @@ import { BadgeRow } from "@akasha/design-badges/badge"
 import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
-import { capitalize } from "@shared/utils-narrow/capitalize"
+import { capitalize } from "@akasha/utils-narrow/capitalize"
 import { sortEffectsByCategory } from "@temper/game-companions-core/effect-display/effect-category"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
 import {

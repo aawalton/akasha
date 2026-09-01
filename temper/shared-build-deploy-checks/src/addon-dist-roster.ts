@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { basename, join } from "node:path"
-import { optionalEnv } from "../../../shared/utils-narrow/src/require-env"
+import { optionalEnv } from "@akasha/utils-narrow/require-env"
 import { listAllAddons } from "@temper/shared-build-deploy-addons-resolve"
 import { z } from "zod"
 

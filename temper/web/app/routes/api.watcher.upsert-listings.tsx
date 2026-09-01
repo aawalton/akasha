@@ -1,4 +1,4 @@
-import { isRecord } from "@shared/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { validateWatcherToken } from "@/lib/watcher-auth"
 import type { Route } from "./+types/api.watcher.upsert-listings"
 

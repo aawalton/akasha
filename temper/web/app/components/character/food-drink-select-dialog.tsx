@@ -1,6 +1,6 @@
 "use client"
 
-import { getSubcategory } from "@shared/utils-narrow/get-subcategory"
+import { getSubcategory } from "@akasha/utils-narrow/get-subcategory"
 import {
   type FoodOrDrinkId,
   type FoodOrDrinkSource,

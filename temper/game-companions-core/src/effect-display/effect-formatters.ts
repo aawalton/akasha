@@ -1,4 +1,4 @@
-import { capitalize } from "@shared/utils-narrow/capitalize"
+import { capitalize } from "@akasha/utils-narrow/capitalize"
 import type {
   TargetScope,
   TargetType,

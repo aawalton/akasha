@@ -8,7 +8,7 @@
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
 
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 
 interface CompanionEquipmentQualityTemplate {
   id: string

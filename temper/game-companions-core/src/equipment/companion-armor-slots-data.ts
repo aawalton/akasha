@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { CompanionArmorWeight, CompanionState } from "../companion-types"
 import { TEMPER_COMPANION_ARMOR_SLOTS_BY_ID } from "../generated/temper-companion-armor-slot.generated"
 

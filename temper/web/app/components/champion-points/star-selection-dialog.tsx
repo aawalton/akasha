@@ -1,7 +1,7 @@
 "use client"
 
-import { capitalize } from "@shared/utils-narrow/capitalize"
-import { getSubcategory } from "@shared/utils-narrow/get-subcategory"
+import { capitalize } from "@akasha/utils-narrow/capitalize"
+import { getSubcategory } from "@akasha/utils-narrow/get-subcategory"
 import {
   type ChampionPointId,
   type ChampionPointSource,

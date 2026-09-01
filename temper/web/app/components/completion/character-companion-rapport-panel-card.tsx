@@ -1,5 +1,5 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { requireFirst } from "@shared/utils-narrow/require-first"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import { MAX_COMPANION_RAPPORT } from "@temper/player-completion/companion-rapport"
 import type {

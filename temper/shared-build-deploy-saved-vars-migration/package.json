@@ -1,7 +1,7 @@
 {
   "name": "@temper/shared-build-deploy-saved-vars-migration",
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

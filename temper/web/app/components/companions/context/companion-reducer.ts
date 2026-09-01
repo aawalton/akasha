@@ -1,4 +1,4 @@
-import { assertNever } from "../../../../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
 import { COMPANION_ACTIONS, type CompanionAction } from "./companion-actions"

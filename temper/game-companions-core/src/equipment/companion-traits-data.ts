@@ -1,4 +1,4 @@
-import { createDataFile } from "@shared/utils-narrow/create-data-file"
+import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { EquipmentQualityId } from "@temper/game-characters-equipment/quality-data"
 import type { CompanionState } from "../companion-types"
 import { TEMPER_COMPANION_TRAITS } from "../generated/temper-companion-trait.generated"

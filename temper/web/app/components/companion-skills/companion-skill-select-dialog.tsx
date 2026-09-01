@@ -1,7 +1,7 @@
 "use client"
 
 import { CommandItem } from "@akasha/design-primitives/command"
-import { requireGet } from "@shared/utils-narrow/require-get"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
 import { isCompanionSkillAvailable } from "@temper/game-companions-core/skills/companion-skill-line-queries"

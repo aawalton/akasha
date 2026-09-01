@@ -1,5 +1,5 @@
 import { Badge } from "@akasha/design-badges/badge"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import {
   formatCooldown,
   formatDamageType,

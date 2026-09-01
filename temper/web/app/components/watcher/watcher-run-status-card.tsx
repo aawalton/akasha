@@ -3,7 +3,7 @@
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import { Heading } from "@akasha/design-primitives/heading"
 import { Text } from "@akasha/design-primitives/text-body"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { AlertTriangle, CheckCircle2, CircleDashed, FileQuestion, HelpCircle } from "lucide-react"
 import { formatRelativeTime } from "@/components/utils/format-relative-time"
 import type { WatcherRunOperation, WatcherRunSummary } from "@/lib/watcher-run-status"

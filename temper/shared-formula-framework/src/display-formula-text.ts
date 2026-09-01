@@ -1,4 +1,4 @@
-import { assertNever } from "../../../shared/utils-narrow/src/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { DisplayFormulaNode, NumberFormat } from "./display-formula-types"
 
 function formatNumber(value: number, format: NumberFormat = "decimal"): string {
