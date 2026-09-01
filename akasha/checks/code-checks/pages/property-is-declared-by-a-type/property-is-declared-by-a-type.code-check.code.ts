@@ -1,6 +1,4 @@
-import { idsNaming, listedByPath } from "@akasha/indexes"
-import { pageTypesIn } from "@akasha/indexes/entries"
-import { knownIn, reaches, recordsIn } from "@akasha/indexes/reaching"
+import { reaches, recordsIn } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
 import { kindsUnder } from "@akasha/pages-system/page-type-descent"
@@ -62,15 +60,15 @@ function reasonFor(shown: string): string {
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const under = kindsUnder(change.root, PAGE_PROPERTY, shadow.reading, shadow.pageOf)
-  const pageTypes = pageTypesIn(shadow.reading)
-  const known = knownIn(shadow.reading, change.root, shadow.pageOf)
+  const under = shadow.index.kindsUnder(change.root, PAGE_PROPERTY, shadow.pageOf)
+  const pageTypes = shadow.index.pageTypesIn()
+  const known = shadow.index.knownIn(change.root, shadow.pageOf)
   const said: Judged[] = []
   const judged = new Set<string>()
   const judge = (path: string, id: string, shown: string): undefined => {
     if (judged.has(path)) return
     judged.add(path)
-    if (idsNaming(shadow.reading, id, DECLARES).length > 0) return
+    if (shadow.index.idsNaming(id, DECLARES).length > 0) return
     said.push({ path, reason: reasonFor(shown) })
   }
   for (const path of change.changed) {
@@ -85,7 +83,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     if (change.after(path) === null) continue
     const held = propertyNamedIn(change.root, path, under)
     if (held === null) continue
-    const one = listedByPath(shadow.reading, path).find((filed) => filed.path === path)
+    const one = shadow.index.listedByPath(path).find((filed) => filed.path === path)
     if (one === undefined) continue
     judge(path, one.id, `${held.pageTypeSlug}/${held.slug}`)
   }
