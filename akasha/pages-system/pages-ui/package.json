@@ -49,9 +49,13 @@
     "./media/native-tts-adapter": "./media/native-tts-adapter/native-tts-adapter.module.code.ts",
     "./media/resolve-active-sentence": "./media/resolve-active-sentence/resolve-active-sentence.module.code.ts",
     "./media/use-shell-media-src": "./media/use-shell-media-src/use-shell-media-src.module.code.ts",
+    "./mutators/view-callbacks": "./mutators/view-callbacks/view-callbacks.module.code.ts",
     "./reorder-verbs/reorder-verb-registry": "./reorder-verbs/reorder-verb-registry/reorder-verb-registry.module.code.ts",
     "./supabase/collect-related-ids": "./supabase/collect-related-ids/collect-related-ids.module.code.ts",
-    "./supabase/record-view-staleness": "./supabase/record-view-staleness/record-view-staleness.module.code.ts"
+    "./supabase/mutations/extract-target-ids": "./supabase/mutations/extract-target-ids/extract-target-ids.module.code.ts",
+    "./supabase/page-with-properties": "./supabase/page-with-properties/page-with-properties.module.code.ts",
+    "./supabase/record-view-staleness": "./supabase/record-view-staleness/record-view-staleness.module.code.ts",
+    "./view-engine/view-row": "./view-engine/view-row/view-row.module.code.ts"
   },
   "peerDependencies": {
     "react": "^18 || ^19"
