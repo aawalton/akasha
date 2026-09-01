@@ -1,7 +1,7 @@
 const REASON =
   "The ops CLI is turned off. Use the ordinary tools instead: read and write files " +
-  "with the file tools, search with ripgrep, run git directly. Nothing records reading " +
-  "any more, and nothing is gated on it."
+  "with the file tools, search with ripgrep, run git directly. Under `akasha/`, read " +
+  "and write with the akasha CLI, which records what you read and gates what you write."
 
 function segmentsOf(command: string): string[] {
   const parts: string[] = []
