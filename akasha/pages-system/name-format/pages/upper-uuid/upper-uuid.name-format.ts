@@ -1,4 +1,4 @@
-import type { NameFormat } from "../name-format.page-type.ts"
+import type { NameFormat } from "../../name-format.page-type.ts"
 
 export const upperUuid = {
   id: "01a04eba-7459-7c0d-8dee-2a96140424a2",
