@@ -20,7 +20,7 @@ import type { Judged } from "../../judging/judging.module.code.ts"
 
 const KEPT = 40
 
-function testStandsBeside(path: string, shadow: Shadow): boolean {
+function testedBeside(path: string, shadow: Shadow): boolean {
   for (const beside of testsBesideOf(path)) {
     if (beside === path) return true
     if (listedByPath(shadow.reading, beside).length > 0) return true
@@ -30,9 +30,9 @@ function testStandsBeside(path: string, shadow: Shadow): boolean {
 
 const TESTED: Selector<Text> = {
   named: "texts a test stands beside",
-  isInput: testStandsBeside,
+  isInput: testedBeside,
   from: (change, shadow) =>
-    TEXTS.from(change, shadow).filter((one) => testStandsBeside(one.path, shadow)),
+    TEXTS.from(change, shadow).filter((one) => testedBeside(one.path, shadow)),
 }
 
 export function namedIn(change: Change): readonly string[] {
