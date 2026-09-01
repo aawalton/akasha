@@ -1,5 +1,5 @@
 import type { ComposeInput } from "@alanwalton/email-google/types"
-import { parseSender } from "@alanwalton/email-inbound/sender"
+import { parseSender } from "@akasha/email-inbound/sender"
 import type { ParsedArgs } from "./parse-args.ts"
 
 export type EmailGoogle = typeof import("@alanwalton/email-google/messages") &

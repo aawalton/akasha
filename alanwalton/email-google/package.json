@@ -14,7 +14,7 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@alanwalton/email-inbound": "workspace:*",
+    "@akasha/email-inbound": "workspace:*",
     "@googleapis/gmail": "^17.0.0",
     "@shared/errors-core": "workspace:*",
     "@shared/utils-narrow": "workspace:*",

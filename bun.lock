@@ -426,7 +426,7 @@
       "name": "@alanwalton/email-google",
       "version": "0.1.0",
       "dependencies": {
-        "@alanwalton/email-inbound": "workspace:*",
+        "@akasha/email-inbound": "workspace:*",
         "@googleapis/gmail": "^17.0.0",
         "@shared/errors-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
