@@ -38,6 +38,14 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A test named outside the vocabulary is refused by the name it was given.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal over a test names the key the test stands on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refusal says what was wrong with the question.",
     },
     {

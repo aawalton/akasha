@@ -22,6 +22,14 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "A test this does not run is refused rather than dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tests this runs are the ones `@akasha/pages-query` names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A row holds the keys the question names.",
     },
     {
