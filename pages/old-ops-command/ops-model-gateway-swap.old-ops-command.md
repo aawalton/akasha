@@ -18,18 +18,18 @@ path: model-gateway swap
 
 Deliberately swap an agent's model gateway to the current on-disk bytecode —
 the ONLY swap path now that auto-swap is disarmed (#14982). Writes a
-`proxy_swap` action to the seat's uncommitted file; the supervisor consumes it at handling
+`swap-proxy` action to the seat's uncommitted file; the supervisor consumes it at handling
 time, respawns only the gateway (same port, `ANTHROPIC_BASE_URL` unchanged, no
 Claude restart), and arms nothing further. Use this to roll out a critical
 gateway fix (credential selection, 429 handling); ordinary deploys no longer
 propagate to running gateways automatically.
 
-THE UNCOMMITTED FILE STILL CARRIES `proxy_swap`, not a name matching this command. The
-action value is a wire protocol read by supervisors already running the code
-they booted with, so renaming it in one step would strand every live one. It
-moves when both values can be accepted for as long as a supervisor booted
-before that change could still be alive. The ack subsystem's own label for this command is
-`proxy-swap`, typed in `tools/lib/seat-action.ts` beside the action value it sends.
+THE UNCOMMITTED FILE CARRIES `swap-proxy`, matching the akasha page of that name.
+It read `proxy_swap` until the move this file used to describe as pending: the
+supervisor learned both spellings in 748661b8, every live one was restarted onto
+that reader, and the value moved in f49fb818. The old spelling is still read, and
+goes once nothing writes it. The ack subsystem's own label for this command is
+`swap-proxy`, typed in `tools/lib/seat-action.ts` beside the action value it sends.
 
 One target: `model-gateway swap <agent>`. Whole fleet: `model-gateway swap
 --fleet` (every live seat, staggered). A seat with no live gateway is skipped —

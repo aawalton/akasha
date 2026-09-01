@@ -22,16 +22,23 @@ WHETHER A SUPERVISOR IS STILL RUNNING IN THE SEAT IS THIS COMMAND'S TO FIND
 OUT, never the caller's to know, and it takes whichever act the answer calls
 for:
 
-  live   the seat is cycled IN PLACE: `restart_preserve` goes into its
-         uncommitted file, its supervisor's poll picks it up, SIGTERMs the
-         Claude CLI and spawns an iteration resuming the session. The turn is
-         kept — nothing is killed out from under it. Prints `restarted`.
+  live   the seat is cycled IN PLACE: `restart` goes into its uncommitted
+         file, its supervisor's poll picks it up and arms an idle gate. At the
+         next turn boundary the gate SIGTERMs the Claude CLI and spawns an
+         iteration resuming the session. The turn is kept — nothing is killed
+         out from under it. Prints `queued-on-idle`, because the value clears
+         when the restart is ARMED rather than when it fires.
   gone   a detached supervisor is launched on the bound session, hydrating the
          local transcript from the object store where the local copy has gone.
          Prints `revived`.
-  SELF   never the immediate signal: `restart_preserve_on_idle` goes into its
-         own file and `queued-on-idle` returns at once, so the seat is not
-         killed mid-turn and its issuer is answered before it dies.
+  SELF   never the immediate signal: `restart` goes into its own file and
+         `queued-on-idle` returns at once, so the seat is not killed mid-turn
+         and its issuer is answered before it dies.
+
+`--now` writes `restart-now` instead, which the supervisor takes up at once:
+it interrupts the turn the agent is in and prints `restarted`. The flag is
+`--now` rather than `--force` because `--force` already means something else
+here — restart though subagents are working, ending them with it.
 
 A supervisor whose presence CANNOT BE READ is not a gone one: no sidecar, an
 unparsable process and an unreadable /proc entry all reach the guard as a LIVE
