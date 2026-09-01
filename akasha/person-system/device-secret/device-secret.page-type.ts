@@ -51,7 +51,7 @@ export const deviceSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "A device secret is reached by the account and the device it names.",
+      statement: "A device secret is reached by the person holding it and the device it names.",
     },
     {
       invariantKind: "absence",

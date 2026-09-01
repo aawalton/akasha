@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./device-secret-standing": "./device-secret-standing/device-secret-standing.module.code.ts",
     "./phone": "./person/properties/phone.phone-number-property.ts",
     "./route-access": "./route-access/route-access.module.code.ts"
   }
