@@ -67,7 +67,7 @@ function treesSeeded(): Trees {
 
 const TREES = treesSeeded()
 
-function scratchesStanding(): number {
+function scratches(): number {
   return readdirSync(HOLD).filter((one) => one.startsWith(GATE_AT)).length
 }
 
@@ -281,13 +281,13 @@ test("a sha no commit stands at is refused rather than passed", () => {
 })
 
 test("the scratch an install is proved in is swept when the proof passes", () => {
-  const before = scratchesStanding()
+  const before = scratches()
   installableAt(TREES.root, TREES.whole)
-  expect(scratchesStanding()).toBe(before)
+  expect(scratches()).toBe(before)
 })
 
 test("the scratch an install is proved in is swept when the proof fails", () => {
-  const before = scratchesStanding()
+  const before = scratches()
   installableAt(TREES.root, TREES.missing)
-  expect(scratchesStanding()).toBe(before)
+  expect(scratches()).toBe(before)
 })
