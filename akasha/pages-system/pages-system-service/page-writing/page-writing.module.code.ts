@@ -1,9 +1,16 @@
 import type { Judging } from "@akasha/checks-system/judging"
 import { type FileEdit, landing } from "@akasha/command-system/landing"
+import { mergeUncommitted } from "@akasha/pages-system/page-uncommitted"
+import type { Value } from "@akasha/pages-system/page-value"
 
 export type Put = {
   readonly path: string
   readonly content: string
+}
+
+export type Kept = {
+  readonly path: string
+  readonly values: Value
 }
 
 export type Asked = {
@@ -11,6 +18,7 @@ export type Asked = {
   readonly message: string
   readonly puts?: readonly Put[]
   readonly removes?: readonly string[]
+  readonly kept?: readonly Kept[]
   readonly read?: string
 }
 
@@ -47,7 +55,11 @@ const NOTHING_JUDGES: Judging = {
 }
 
 export function pathsIn(asked: Asked): readonly string[] {
-  return [...(asked.puts ?? []).map((one) => one.path), ...(asked.removes ?? [])]
+  return [
+    ...(asked.puts ?? []).map((one) => one.path),
+    ...(asked.removes ?? []),
+    ...(asked.kept ?? []).map((one) => one.path),
+  ]
 }
 
 export function refusalIn(asked: Asked): string | null {
@@ -89,20 +101,38 @@ export function latestIn(batch: readonly Asked[]): readonly FileEdit[] {
   return [...held.values()]
 }
 
+export function keptIn(batch: readonly Asked[]): readonly Kept[] {
+  const held = new Map<string, Value>()
+  for (const one of batch) {
+    for (const kept of one.kept ?? []) {
+      held.set(kept.path, { ...(held.get(kept.path) ?? {}), ...kept.values })
+    }
+  }
+  return [...held].map(([path, values]) => ({ path, values }))
+}
+
+function beside(root: string, kept: readonly Kept[]): readonly string[] {
+  for (const one of kept) mergeUncommitted(root, one.path, one.values)
+  return kept.map((one) => one.path)
+}
+
 export function landedIn(root: string, batch: readonly Asked[]): Wrote {
   const first = batch[0]
   if (first === undefined) return { refused: "a batch carries at least one write" }
   try {
+    const kept = keptIn(batch)
+    const changes = latestIn(batch)
+    if (changes.length === 0) return { commit: null, wrote: beside(root, kept), took: [] }
     const said = landing(
       root,
-      latestIn(batch),
+      changes,
       messageIn(batch),
       NOTHING_JUDGES,
       first.writer,
       first.read ?? null
     )
     if ("refusals" in said) return { refused: said.refusals.join(" — ") }
-    return { commit: said.commit, wrote: said.wrote, took: said.took }
+    return { commit: said.commit, wrote: [...said.wrote, ...beside(root, kept)], took: said.took }
   } catch (thrown) {
     return { refused: String(thrown) }
   }

@@ -57,5 +57,33 @@ export const pageWriting = {
       invariantKind: "absence",
       statement: "A write stating none is taken as read against what stands.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A value a page keeps outside the commit is written beside the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value kept outside the commit is merged onto what its page already keeps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two writes in one batch keeping one page merge onto one another in order.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value kept outside the commit is written after the commit its write landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write refused commits nothing and keeps nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write carrying only values kept outside the commit lands no commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page a value is kept for is judged for its path as a body would be.",
+    },
   ],
 } as const satisfies Module
