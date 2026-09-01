@@ -32,9 +32,9 @@ export function filePropertyFile(root: string, path: string, knowing: Knowing): 
   if (known.types.has(said.tail)) return []
   const page = pageBeside(path, said)
   if (page === null || !pageNamed(page, known.types)) return []
-  const standing = blobAt(root, page)
-  if (standing === null) return []
-  const found: Warrant[] = [{ path: page, oid: standing, owed: PAGE }]
+  const oid = blobAt(root, page)
+  if (oid === null) return []
+  const found: Warrant[] = [{ path: page, oid: oid, owed: PAGE }]
   const held = propertyOf(root, said.tail)
   if (held !== null) found.push(held)
   return found
