@@ -13,6 +13,15 @@ const TEXT = new TextDecoder()
 
 const JUDGE = "Read what it bars, then judge for yourself whether you meant a sense it bars."
 
+const INSIDE = [
+  "The term is inside a camelCase name your change writes rather than a word of its own.",
+  "Read the humps of the names you wrote as spaces to find it, then rename the one that means a sense below.",
+].join("\n")
+
+const HUMP = /([a-z0-9])([A-Z])/g
+
+const RUN_END = /([A-Z]+)([A-Z][a-z])/g
+
 export type Sense = {
   readonly sense: string
   readonly instead: string
@@ -24,9 +33,12 @@ export type Term = {
   readonly senses: readonly Sense[]
 }
 
-export function owedOf(senses: readonly Sense[]): string {
+export type Reach = "written" | "seam"
+
+export function owedOf(senses: readonly Sense[], reach: Reach): string {
   return [
     "Your change writes a taboo term.",
+    ...(reach === "seam" ? [INSIDE] : []),
     ...senses.map((one) => `  ${one.sense} — write ${one.instead} instead`),
     JUDGE,
   ].join("\n")
@@ -44,12 +56,22 @@ export function addedIn(before: string, after: string): string {
   return said.join("\n")
 }
 
+export function seamsApart(text: string): string {
+  return text.replace(HUMP, "$1 $2").replace(RUN_END, "$1 $2")
+}
+
 export function foundIn(pattern: string, added: string): boolean {
   try {
     return new RegExp(pattern, "gi").test(added)
   } catch {
     return false
   }
+}
+
+export function reachOf(pattern: string, added: string): Reach | null {
+  if (foundIn(pattern, added)) return "written"
+  if (foundIn(pattern, seamsApart(added))) return "seam"
+  return null
 }
 
 function sensesOf(said: unknown): readonly Sense[] {
@@ -94,10 +116,11 @@ export function changeTabooTerms(
   const found: Warrant[] = []
   for (const term of termsIn(root)) {
     if (term.path === path) continue
-    if (!foundIn(term.pattern, added)) continue
+    const reach = reachOf(term.pattern, added)
+    if (reach === null) continue
     const oid = blobAt(root, term.path)
     if (oid === null) continue
-    found.push({ path: term.path, oid, owed: owedOf(term.senses) })
+    found.push({ path: term.path, oid, owed: owedOf(term.senses, reach) })
   }
   return found
 }

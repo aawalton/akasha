@@ -50,5 +50,9 @@ export const tabooTerm = {
       invariantKind: "departure",
       statement: "A change adding text a pattern finds is refused until that term has been read.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A term reaches inside a camelCase name.",
+    },
   ],
 } as const satisfies PageType

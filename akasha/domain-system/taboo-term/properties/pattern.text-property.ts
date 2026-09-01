@@ -17,6 +17,15 @@ export const pattern = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A pattern is matched against a copy of the added text split at its camelCase seams as well as against the added text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A pattern therefore needs no case of its own to reach inside a camelCase name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A pattern narrows only to leave out what the term never means.",
     },
     {

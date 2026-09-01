@@ -1,5 +1,13 @@
 import { expect, test } from "bun:test"
-import { addedIn, foundIn, owedOf } from "./change-taboo-terms.context-warrant.code.ts"
+import {
+  addedIn,
+  foundIn,
+  owedOf,
+  reachOf,
+  seamsApart,
+} from "./change-taboo-terms.context-warrant.code.ts"
+
+const STAND = "(?<![a-z])(stands?|standing|stood)(?![a-z])"
 
 test("what a change adds is the lines the body did not already hold", () => {
   expect(addedIn("one\ntwo", "one\ntwo\nthree")).toBe("three")
@@ -34,11 +42,90 @@ test("a pattern that does not compile finds nothing", () => {
   expect(foundIn("(unclosed", "anything at all")).toBe(false)
 })
 
+test("a seam opens between a lower letter or a digit and an upper one", () => {
+  expect(seamsApart("dayStands")).toBe("day Stands")
+  expect(seamsApart("utf8Body")).toBe("utf8 Body")
+})
+
+test("a seam opens where a run of upper letters gives way to a word", () => {
+  expect(seamsApart("HTTPServer")).toBe("HTTP Server")
+  expect(seamsApart("myHTTPServer")).toBe("my HTTP Server")
+})
+
+test("an underscore or a hyphen is left as it is", () => {
+  expect(seamsApart("STANDING_ASIDE")).toBe("STANDING_ASIDE")
+  expect(seamsApart("subagent-standing")).toBe("subagent-standing")
+})
+
+test("a term written as a word of its own is reached in the text itself", () => {
+  for (const said of [
+    "standing",
+    "stands",
+    "stood",
+    "stand",
+    "Standing",
+    "STANDING_ASIDE",
+    "STOOD_TOO_LONG",
+    "TYPE_STANDS_AT",
+    "NOT_STANDING",
+    "subagent-standing",
+    "stand-in",
+    "a page stands here",
+  ]) {
+    expect([said, reachOf(STAND, said)]).toEqual([said, "written"])
+  }
+})
+
+test("a term inside a camelCase name is reached at its seams", () => {
+  for (const said of [
+    "standingOf",
+    "standInsIn",
+    "dayStands",
+    "everyStanding",
+    "standsIn",
+    "treesStanding",
+    "worktreeStands",
+    "shapeStanding",
+    "ranAsStanding",
+    "stoodUp",
+    "testStandsBeside",
+  ]) {
+    expect([said, reachOf(STAND, said)]).toEqual([said, "seam"])
+  }
+})
+
+test("a longer word merely holding the letters is reached neither way", () => {
+  for (const said of [
+    "standard",
+    "understand",
+    "understandsIt",
+    "Standard",
+    "STANDARD_START_FEN",
+    "noStandardWay",
+  ]) {
+    expect([said, reachOf(STAND, said)]).toEqual([said, null])
+  }
+})
+
+test("a pattern that does not compile is reached neither way", () => {
+  expect(reachOf("(unclosed", "anything at all")).toBe(null)
+})
+
 test("what is owed names every sense and what stands instead", () => {
-  const said = owedOf([
-    { sense: "a gated command", instead: "command" },
-    { sense: "anything that refuses", instead: "written plainly" },
-  ])
+  const said = owedOf(
+    [
+      { sense: "a gated command", instead: "command" },
+      { sense: "anything that refuses", instead: "written plainly" },
+    ],
+    "written"
+  )
   expect(said).toContain("a gated command — write command instead")
   expect(said).toContain("anything that refuses — write written plainly instead")
+})
+
+test("what is owed for a seam says the term is inside a camelCase name", () => {
+  const senses = [{ sense: "a gated command", instead: "command" }]
+  expect(owedOf(senses, "seam")).toContain("inside a camelCase name")
+  expect(owedOf(senses, "seam")).toContain("a gated command — write command instead")
+  expect(owedOf(senses, "written")).not.toContain("camelCase")
 })

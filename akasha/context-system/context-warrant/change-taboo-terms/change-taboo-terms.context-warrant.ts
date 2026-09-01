@@ -17,6 +17,36 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A taboo term whose pattern finds that text split at its camelCase seams is warranted too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seam opens between a lower letter or a digit and an upper one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seam opens where a run of upper letters gives way to a word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An underscore or a hyphen is left as it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The split copy is a matching aid rather than text the change wrote.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What is owed for a term found only in the split copy says the term is inside a camelCase name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The split text itself is never quoted back.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Text a change leaves standing is not text it adds.",
     },
     {
