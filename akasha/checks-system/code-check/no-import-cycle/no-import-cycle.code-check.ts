@@ -18,7 +18,7 @@ export const noImportCycle = {
     },
     {
       invariantKind: "departure",
-      statement: "This runs at audit alone.",
+      statement: "This check runs at audit alone.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const noImportCycle = {
     },
     {
       invariantKind: "departure",
-      statement: "A list of names is type-only when every name in it is.",
+      statement: "A list of names is type-only when every name in the list is.",
     },
     {
       invariantKind: "departure",

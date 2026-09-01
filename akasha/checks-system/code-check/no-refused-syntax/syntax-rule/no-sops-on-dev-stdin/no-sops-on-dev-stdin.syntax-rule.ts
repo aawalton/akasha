@@ -18,7 +18,7 @@ export const noSopsOnDevStdin = {
     },
     {
       invariantKind: "departure",
-      statement: "It is a flag no other tool here takes.",
+      statement: "`--filename-override` is a flag no other tool here takes.",
     },
     {
       invariantKind: "departure",

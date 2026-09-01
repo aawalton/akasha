@@ -19,7 +19,7 @@ export const noCredentialInScriptText = {
     {
       invariantKind: "departure",
       statement:
-        "Its arguments are bound and sent apart from the text rather than written into it.",
+        "Its arguments are bound and sent apart from the text rather than written into the text.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,8 @@ export const noCredentialInScriptText = {
     },
     {
       invariantKind: "departure",
-      statement: "A name a credential would carry is refused wherever it stands inside the text.",
+      statement:
+        "A name a credential would carry is refused wherever the name stands inside the text.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +53,7 @@ export const noCredentialInScriptText = {
     {
       invariantKind: "departure",
       statement:
-        "No folder here is the harness and a credential leaks from wherever it is written.",
+        "No folder here is the harness and a credential leaks from wherever the credential is written.",
     },
     {
       invariantKind: "departure",
@@ -60,11 +61,12 @@ export const noCredentialInScriptText = {
     },
     {
       invariantKind: "departure",
-      statement: "A credential in a failing test's trace is leaked as surely as one in a run.",
+      statement:
+        "A credential in a failing test's trace is leaked as surely as a credential in a run.",
     },
     {
       invariantKind: "departure",
-      statement: "A name is judged rather than what it holds.",
+      statement: "A name is judged rather than what the name holds.",
     },
     {
       invariantKind: "gap",
@@ -81,7 +83,7 @@ export const noCredentialInScriptText = {
     {
       invariantKind: "stopgap",
       statement:
-        "The harness it guards stands outside the akasha folder and arrives when it moves inside.",
+        "The harness the rule guards stands outside the akasha folder and arrives when the harness moves inside.",
     },
   ],
 } as const satisfies SyntaxRule

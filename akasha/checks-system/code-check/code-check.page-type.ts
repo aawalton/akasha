@@ -87,11 +87,11 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A check takes and gives paths under the root it was given.",
+      statement: "A check takes and gives paths under the root the check was given.",
     },
     {
       invariantKind: "departure",
-      statement: "A check states each phase it runs on.",
+      statement: "A check states each phase the check runs on.",
     },
     {
       invariantKind: "departure",
@@ -99,7 +99,7 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A check states whether it runs there.",
+      statement: "A check states whether the check runs there.",
     },
     {
       invariantKind: "departure",
@@ -128,7 +128,7 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "That is the ratchet working rather than the check misfiring.",
+      statement: "That refusal is the ratchet working rather than the check misfiring.",
     },
     {
       invariantKind: "departure",
@@ -136,7 +136,7 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A check asks the index for paths it cannot name.",
+      statement: "A check asks the index for paths the check cannot name.",
     },
     {
       invariantKind: "stopgap",
@@ -148,7 +148,7 @@ export const codeCheck = {
     },
     {
       invariantKind: "gap",
-      statement: "A check's phases are derived from what it reads.",
+      statement: "A check's phases are derived from what the check reads.",
     },
   ],
   directives: [

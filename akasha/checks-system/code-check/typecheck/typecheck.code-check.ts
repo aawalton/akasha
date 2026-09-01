@@ -19,7 +19,8 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "The files judged are the change and every file that imports it however far.",
+      statement:
+        "The files judged are the change and every file that imports the change however far.",
     },
     {
       invariantKind: "departure",
@@ -74,11 +75,12 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "What is judged is judged as the change would leave it.",
+      statement: "What is judged is judged as the change would leave what is judged.",
     },
     {
       invariantKind: "departure",
-      statement: "A package manifest is input to this check as readily as a body of TypeScript.",
+      statement:
+        "A package manifest is input to this code check as readily as a body of TypeScript.",
     },
     {
       invariantKind: "departure",
@@ -95,7 +97,8 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "Those files are judged together with everything importing them however far.",
+      statement:
+        "Those files are judged together with everything importing those files however far.",
     },
     {
       invariantKind: "departure",
@@ -117,7 +120,7 @@ export const typecheck = {
     {
       invariantKind: "departure",
       statement:
-        "A page being created and carrying no `satisfies` clause is compiled as it stands.",
+        "A page being created and carrying no `satisfies` clause is compiled as the page stands.",
     },
     {
       invariantKind: "absence",
