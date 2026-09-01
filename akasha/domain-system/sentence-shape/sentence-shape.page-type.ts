@@ -82,5 +82,19 @@ export const sentenceShape = {
         "Approving one shape is not approving another.",
       ],
     },
+    {
+      directiveKind: "rule",
+      name: "A Simpler Rewrite Refuses",
+      act: "Refuse a shape whose sentences can consistently be rewritten simpler, plainer and clearer.",
+      warrant:
+        "A shape kept where a rewrite always beats it spends reader load on every sentence written in it.",
+      aids: [
+        "One better rewrite is evidence rather than a decision.",
+        "Consistently means ten cases akasha holds, or all of them where akasha holds fewer.",
+        "A rewrite losing a fact has not beaten the shape.",
+        "A rewrite the grammar refuses has not beaten the shape.",
+        "Repeating a noun is not a cost.",
+      ],
+    },
   ],
 } as const satisfies PageType
