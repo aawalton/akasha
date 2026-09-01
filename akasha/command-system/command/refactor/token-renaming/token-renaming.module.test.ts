@@ -17,8 +17,22 @@ const BOTH = "akasha/both/both.module.code.ts"
 
 const TWICE = "akasha/twice/twice.module.code.ts"
 
+const PAIRED = "akasha/paired/paired.module.code.ts"
+
+const PAIRED_BODY =
+  "export function first(): string {\n" +
+  '  const kept = "one"\n' +
+  "  return kept\n" +
+  "}\n" +
+  "\n" +
+  "export function second(): string {\n" +
+  '  const kept = "two"\n' +
+  "  return kept\n" +
+  "}\n"
+
 const BODIES = new Map<string, string>([
   [TWICE, 'export function twice(): string {\n  const twice = "one"\n  return twice\n}\n'],
+  [PAIRED, PAIRED_BODY],
   [
     HELD,
     "export type Marking = (path: string) => boolean\n\nexport function marking(one: Marking): Marking {\n  return one\n}\n",
@@ -61,6 +75,17 @@ function over(
 
 function bound(at: string, from: string, to: string): ReturnType<typeof bindingFor> {
   return over(at, from, to, PATHS)
+}
+
+function lined(at: string, from: string, to: string, line: string): ReturnType<typeof bindingFor> {
+  const asked = tokeningFor(at, from, to, line)
+  if ("refused" in asked) throw new Error(asked.refused)
+  return bindingFor(ROOT, { typed: PATHS, every: PATHS }, asked.tokening, textOf)
+}
+
+function changed(made: ReturnType<typeof bindingFor>, at: string): string {
+  if ("refused" in made) throw new Error(made.refused)
+  return made.binding.changes.get(at) ?? ""
 }
 
 test("a name that is already the one it would become is refused rather than worked out", () => {
@@ -139,9 +164,71 @@ test("a key a type declares is renamed where the type states it and where a body
   expect(kept).toContain('export const kept: Kept = { isInput: "yes" }')
 })
 
-test("a name a file carries in more than one place is refused rather than guessed at", () => {
+test("a name a file carries in more than one place and no line names is refused", () => {
   expect(bound(TWICE, "twice", "once")).toEqual({
-    refused: `${TWICE} carries \`twice\` in more than one place, so which one to rename is unsaid`,
+    refused:
+      `${TWICE} carries \`twice\` in more than one place, so which one to rename is unsaid — ` +
+      "say --line with 1 or 2",
+  })
+})
+
+test("a refusal for a name carried in more than one place names each line to say", () => {
+  const made = bound(PAIRED, "kept", "only")
+  expect("refused" in made && made.refused).toContain("say --line with 2 or 7")
+})
+
+test("the first of two declarations carrying one name is renamed where the line names it", () => {
+  expect(changed(lined(PAIRED, "kept", "only", "2"), PAIRED)).toBe(
+    "export function first(): string {\n" +
+      '  const only = "one"\n' +
+      "  return only\n" +
+      "}\n" +
+      "\n" +
+      "export function second(): string {\n" +
+      '  const kept = "two"\n' +
+      "  return kept\n" +
+      "}\n"
+  )
+})
+
+test("the second of two declarations carrying one name is renamed where the line names it", () => {
+  expect(changed(lined(PAIRED, "kept", "only", "7"), PAIRED)).toBe(
+    "export function first(): string {\n" +
+      '  const kept = "one"\n' +
+      "  return kept\n" +
+      "}\n" +
+      "\n" +
+      "export function second(): string {\n" +
+      '  const only = "two"\n' +
+      "  return only\n" +
+      "}\n"
+  )
+})
+
+test("a declaration the line does not name changes no file of its own", () => {
+  const made = lined(PAIRED, "kept", "only", "2")
+  if ("refused" in made) throw new Error(made.refused)
+  expect([...made.binding.changes.keys()]).toEqual([PAIRED])
+})
+
+test("a line no declaration of the name starts on is refused rather than renaming nothing", () => {
+  expect(lined(PAIRED, "kept", "only", "5")).toEqual({
+    refused: `${PAIRED} declares no \`kept\` on line 5 — say --line with 2 or 7`,
+  })
+})
+
+test("a name a file carries in one place alone is renamed where a line names it", () => {
+  const own = changed(lined(OWN, "stood", "listed", "1"), OWN)
+  expect(own).toContain("function listed(): string")
+  expect(own).toContain("return listed()")
+})
+
+test("a spelling this cannot read as a line is refused rather than counted as none", () => {
+  expect(tokeningFor(HELD, "marking", "input", "two")).toEqual({
+    refused: "--line takes the line a declaration starts on, and `two` is none",
+  })
+  expect(tokeningFor(HELD, "marking", "input", "0")).toEqual({
+    refused: "--line takes the line a declaration starts on, and `0` is none",
   })
 })
 

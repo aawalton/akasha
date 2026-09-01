@@ -45,7 +45,41 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A name a file carries in more than one place is refused rather than guessed at.",
+      statement:
+        "A name a file carries in more than one place and no line names is refused rather than guessed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line names which of the declarations carrying one name is renamed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line names the declaration whose name starts on it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A line no declaration of the name starts on is refused rather than renaming nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for a name carried in more than one place names each line to say.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration the line does not name is not renamed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A spelling resolving to a declaration the line does not name is not respelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A spelling this cannot read as a line is refused rather than counted as none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer says the line the caller named where one was named.",
     },
     {
       invariantKind: "departure",
