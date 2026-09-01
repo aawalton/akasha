@@ -1,6 +1,5 @@
-import { patchPage } from "@shared/pages-query"
 import { classifyError, logError, toError } from "../sync-run/result.ts"
-import { pageTitled, textAt, WRITER } from "./page-query.ts"
+import { pageTitled, textAt } from "./page-query.ts"
 
 const GREAT_COURSES_COLLECTION_SLUG = "great-courses-collection"
 const ROOT_TIMER_TITLE = "The Great Courses"
@@ -44,23 +43,23 @@ export async function shouldRunGreatCoursesSync(): Promise<boolean> {
   }
 }
 
+// THE TIMER THIS SETS IS THE ONE `shouldRunGreatCoursesSync` READS. `patchPage` has refused every
+// call since 4c1f05a264 — the store writes a path and a whole body, not the keys a page carries —
+// so `lastSyncedAt` has not moved since. That leaves the read above answering an ever-staler date,
+// which is why the sync judges itself due on every run: the thirty-day gate can never close while
+// nothing can write the date it gates on.
+const NO_RENDER =
+  "the store writes a path and a whole body, and nothing renders a `great-courses-collection` page's body out of its keys, so `lastSyncedAt` cannot be set here. land the page's whole body with `patchFiles`, or set it through the akasha command line"
+
 export async function updateRootParentLastSyncedAt(): Promise<void> {
-  try {
-    const root = await pageTitled(GREAT_COURSES_COLLECTION_SLUG, ROOT_TIMER_TITLE, [])
-    const slug = root === null ? null : textAt(root, "slug")
-    if (slug == null) {
-      console.warn(`${ROOT_TIMER_TITLE} root not found, so nothing recorded when it last synced`)
-      return
-    }
-    const written = await patchPage(
-      GREAT_COURSES_COLLECTION_SLUG,
-      slug,
-      { lastSyncedAt: todayYYYYMMDD() },
-      WRITER
-    )
-    if (!written.ok) throw new Error(written.why)
-  } catch (thrown) {
-    const err = toError(thrown)
-    logError("Root parent update", "updateRootParentLastSyncedAt", err, classifyError(err))
+  const root = await pageTitled(GREAT_COURSES_COLLECTION_SLUG, ROOT_TIMER_TITLE, [])
+  const slug = root === null ? null : textAt(root, "slug")
+  if (slug == null) {
+    console.warn(`${ROOT_TIMER_TITLE} root not found, so nothing recorded when it last synced`)
+    return
   }
+  const err = toError(
+    new Error(`\`${GREAT_COURSES_COLLECTION_SLUG}/${slug}\` kept ${todayYYYYMMDD()}: ${NO_RENDER}`)
+  )
+  logError("Root parent update", "updateRootParentLastSyncedAt", err, classifyError(err))
 }
