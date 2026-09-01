@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bodyOf, importedFrom, unnamedIn } from "./page-body.module.code.ts"
+import { bodyOf, importedFrom, saidAs, unnamedIn } from "./page-body.module.code.ts"
 
 const AT = "akasha/person-system/device-token/device-tokens/one.device-token.ts"
 
@@ -90,4 +90,25 @@ test("a body closes with one newline", () => {
   })
   expect(said.endsWith("\n")).toBe(true)
   expect(said.endsWith("\n\n")).toBe(false)
+})
+
+test("a key inside a value is written bare where TypeScript reads it bare", () => {
+  const said = bodyOf({
+    pageTypeSlug: "thing",
+    slug: "one",
+    importFrom: "./thing.page-type.ts",
+    keys: ["invariants"],
+    values: { invariants: [{ invariantKind: "gap", statement: "one" }] },
+  })
+  expect(said).toContain('  invariants: [{invariantKind:"gap",statement:"one"}],')
+})
+
+test("a key TypeScript does not read bare is written quoted", () => {
+  expect(saidAs({ "a-key": 1 })).toBe('{"a-key":1}')
+})
+
+test("a value that is not an object is written as JSON", () => {
+  expect(saidAs(null)).toBe("null")
+  expect(saidAs(false)).toBe("false")
+  expect(saidAs(7)).toBe("7")
 })

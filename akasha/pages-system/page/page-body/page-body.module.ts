@@ -38,6 +38,10 @@ export const pageBody = {
       statement: "Only what JSON holds may be a value.",
     },
     {
+      invariantKind: "departure",
+      statement: "A key inside a value is written bare where TypeScript reads it bare.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here mints an id.",
     },

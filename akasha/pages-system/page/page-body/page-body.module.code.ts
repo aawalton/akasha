@@ -9,6 +9,8 @@ export type Rendering = {
   readonly values: Value
 }
 
+const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+
 const UP = ".."
 
 const HERE = "./"
@@ -29,6 +31,16 @@ export function unnamedIn(keys: readonly string[], values: Value): readonly stri
   return Object.keys(values).filter((one) => !named.has(one))
 }
 
+export function saidAs(value: unknown): string {
+  if (Array.isArray(value)) return `[${value.map(saidAs).join(",")}]`
+  if (value === null || typeof value !== "object") return JSON.stringify(value)
+  const held = Object.entries(value as Record<string, unknown>)
+  const said = held.map(
+    ([key, one]) => `${BARE.test(key) ? key : JSON.stringify(key)}:${saidAs(one)}`
+  )
+  return `{${said.join(",")}}`
+}
+
 export function bodyOf(given: Rendering): string {
   const named = typedAs(given.pageTypeSlug)
   const carried = given.keys.filter((one) => given.values[one] !== undefined)
@@ -36,7 +48,7 @@ export function bodyOf(given: Rendering): string {
     `import type { ${named} } from "${given.importFrom}"`,
     "",
     `export const ${exportedAs(given.slug)} = {`,
-    ...carried.map((one) => `  ${one}: ${JSON.stringify(given.values[one])},`),
+    ...carried.map((one) => `  ${one}: ${saidAs(given.values[one])},`),
     `} as const satisfies ${named}`,
     "",
   ].join("\n")
