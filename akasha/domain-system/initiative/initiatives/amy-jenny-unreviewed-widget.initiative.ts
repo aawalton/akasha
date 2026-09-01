@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages reading and writing pages stand in akasha.",
       workingMemory:
-        "`@akasha/pages-access` stands at 387a8ccb47, forty-one modules each with its page, and `shared/pages-access` is gone. Under it `@akasha/pages-core` stands with 128 module pages, and akasha holds its own pages-query and pages-ui-store. What this intent still wants: `shared/pages-query`, `shared/pages-system`, `shared/pages-ui` and `shared/pages-url` stand outside yet, and `shared/pages-access-old` is a leftover to clear.",
+        "`@akasha/pages-access` stands at 387a8ccb47, and its carry is proven rather than reported: a harness left behind in the old folder ran 422 comparisons of old against new, and the only 2 differences are the rename inside an error message. `@akasha/pages-core` stands with 128 module pages. `shared/pages-access-old` is cleared. Four are left, each with a lane: pages-url at 4 files and 116 reaches, pages-query at 9 and 109, pages-system at 55 and 15, pages-ui at 296 and 130.",
     },
     { statement: "The packages Alan's own work rests on stand in akasha." },
     {
