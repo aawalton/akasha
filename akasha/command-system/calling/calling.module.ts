@@ -41,7 +41,7 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A command a programmatic write reaches is itself programmatic.",
+      statement: "A command a service-operational change reaches is itself service-operational.",
     },
   ],
 } as const satisfies Module

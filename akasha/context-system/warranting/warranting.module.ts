@@ -38,7 +38,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "Warrants stand over an authored change alone.",
+      statement: "Warrants stand over an agent-authored change alone.",
     },
     {
       invariantKind: "departure",

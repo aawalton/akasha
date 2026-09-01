@@ -54,17 +54,5 @@ export const commandSystem = {
       invariantKind: "departure",
       statement: "The fault is the caller's or the data's or the command's.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A write is authored or mechanical or programmatic.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A programmatic write states no agent.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A programmatic write runs no check and owes no reading.",
-    },
   ],
 } as const satisfies WorkspacePackage

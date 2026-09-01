@@ -21,7 +21,7 @@ export const mechanical = {
     {
       invariantKind: "departure",
       statement:
-        "A read still counts after a mechanical change to what was read except for writing over that file itself.",
+        "A read still counts after an agent-mechanical change to what was read except for writing over that file itself.",
     },
   ],
 } as const satisfies BooleanProperty
