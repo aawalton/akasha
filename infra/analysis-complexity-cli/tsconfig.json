@@ -18,9 +18,6 @@
   ],
   "references": [
     {
-      "path": "../../shared/errors-core"
-    },
-    {
       "path": "../analysis-complexity-core"
     }
   ]

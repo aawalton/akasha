@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import ts from "typescript"
 import type { AuditReading } from "../lib/audit-reading.ts"
 import { examineFilePopulation, populationCoverage } from "../../../../tools/lib/check-workflow/population"

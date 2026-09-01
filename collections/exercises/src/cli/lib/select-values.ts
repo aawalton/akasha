@@ -1,4 +1,4 @@
-import { InputError } from "@shared/errors-core/exit"
+import { InputError } from "@akasha/errors-core/exit-code"
 import { slugifyOptionId } from "../../free-exercise-db/map"
 
 function optionIds(optionLabels: readonly string[]): readonly string[] {

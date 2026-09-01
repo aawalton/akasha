@@ -1,5 +1,5 @@
 import { writeFile } from "node:fs/promises"
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import { z } from "zod"
 import { ensureOutputDir } from "./output-path"
 

@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@infra/analysis-complexity-core": "workspace:*",
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "typescript": "^5.8.3"
   },
   "scripts": {

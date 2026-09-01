@@ -1,5 +1,5 @@
 import { readFileSync, rmSync, writeFileSync } from "node:fs"
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import { expandTilde } from "@akasha/utils-fs/expand-tilde"
 import { z } from "zod"
 

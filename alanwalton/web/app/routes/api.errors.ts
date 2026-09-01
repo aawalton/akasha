@@ -1,5 +1,5 @@
-import { computeFingerprint } from "../../../../shared/errors-core/src/fingerprint"
-import { ErrorReportSchema } from "../../../../shared/errors-core/src/schema"
+import { computeFingerprint } from "@akasha/errors-core/error-fingerprint"
+import { ErrorReportSchema } from "@akasha/errors-core/error-report"
 import { captureError, type ErrorCapturePayload } from "@akasha/pages-access/capture-error"
 import type { Route } from "./+types/api.errors"
 

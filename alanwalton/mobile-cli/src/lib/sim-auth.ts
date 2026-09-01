@@ -1,4 +1,4 @@
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
 import { z } from "zod"
 

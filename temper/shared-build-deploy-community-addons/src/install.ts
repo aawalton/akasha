@@ -2,7 +2,7 @@ import { createHash } from "node:crypto"
 import { cp, mkdtemp, readdir, rm, writeFile } from "node:fs/promises"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import extract from "extract-zip"
 import type { FileDetails } from "./catalog"
 

@@ -13,7 +13,7 @@
     "react": "^18 || ^19"
   },
   "dependencies": {
-    "@shared/errors-core": "workspace:*"
+    "@akasha/errors-core": "workspace:*"
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview -b",

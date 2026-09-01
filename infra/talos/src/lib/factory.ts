@@ -1,4 +1,4 @@
-import { DataError, OperationalError } from "@shared/errors-core/exit"
+import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
 import { z } from "zod"
 
 export const FACTORY_BASE = "https://factory.talos.dev"

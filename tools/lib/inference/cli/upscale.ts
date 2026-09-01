@@ -1,6 +1,6 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join } from "node:path"
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import { akashaRoot } from "../../../../repo/roots/roots"
 
 function upscaleBinPath(scriptName: string): string {

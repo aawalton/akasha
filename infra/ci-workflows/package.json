@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@infra/k8s-types": "workspace:*",
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@shared/utils-narrow": "workspace:*"
   },
   "devDependencies": {

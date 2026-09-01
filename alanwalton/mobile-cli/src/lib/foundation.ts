@@ -1,4 +1,4 @@
-import { InputError } from "@shared/errors-core/exit"
+import { InputError } from "@akasha/errors-core/exit-code"
 import { z } from "zod"
 import type { MobileApp } from "./apps"
 import { componentSwiftFor, widgetTargetNameFor } from "./ios-components"

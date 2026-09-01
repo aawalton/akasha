@@ -23,7 +23,7 @@
     "@akasha/design-primitives": "workspace:*",
     "@shared/design-system": "workspace:*",
     "@shared/errors-client": "workspace:*",
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@shared/supabase-server": "workspace:*",
     "@akasha/id-minting": "workspace:*",

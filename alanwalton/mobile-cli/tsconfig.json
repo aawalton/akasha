@@ -12,9 +12,6 @@
   },
   "references": [
     {
-      "path": "../../shared/errors-core"
-    },
-    {
       "path": "../../shared/utils-narrow"
     }
   ],

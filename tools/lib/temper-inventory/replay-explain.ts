@@ -1,4 +1,4 @@
-import { DataError } from "@shared/errors-core/exit"
+import { DataError } from "@akasha/errors-core/exit-code"
 import { luaArrayOrEmpty } from "@temper/shared-saved-variables/lua-array"
 import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
 import { savedVariablesRootSchema } from "@temper/shared-saved-variables/saved-variables-account-wide"

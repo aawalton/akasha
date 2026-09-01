@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { existsSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { InputError } from "@shared/errors-core/exit"
+import { InputError } from "@akasha/errors-core/exit-code"
 import { type MobileApp, shellRepoPath as shellRepoPathOf, splitRepoPath } from "./apps"
 import { MACBOOK } from "./host"
 import { rsyncToHost, runSshCapture } from "./ssh"

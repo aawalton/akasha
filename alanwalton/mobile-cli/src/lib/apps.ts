@@ -1,4 +1,4 @@
-import { InputError } from "@shared/errors-core/exit"
+import { InputError } from "@akasha/errors-core/exit-code"
 import { readFilePages } from "../../../../tools/lib/file-pages.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { type Row } from "../../../../tools/lib/page-derive-shape.ts"

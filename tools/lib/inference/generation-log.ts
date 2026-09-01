@@ -1,4 +1,4 @@
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import type { Json } from "@akasha/supabase-database/json"
 import { kebabizeKey } from "../tracking/keys.ts"
 import { patchRow, type Written, writeRow } from "@shared/pages-query"

@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { homedir } from "node:os"
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import { z } from "zod"
 import { ASC_ISSUER_ID, ASC_KEY_ID } from "./foundation"
 

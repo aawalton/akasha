@@ -1,5 +1,5 @@
-import { normalizeThrowable } from "../../errors-core/src/normalize-throwable"
-import { type ErrorReport } from "../../errors-core/src/schema"
+import { normalizeThrowable } from "@akasha/errors-core/throwable-normalizing"
+import { type ErrorReport } from "@akasha/errors-core/error-report"
 import { reportError } from "./report-error"
 
 export type ErrorApp = ErrorReport["app"]

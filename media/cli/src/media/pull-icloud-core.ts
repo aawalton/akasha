@@ -1,5 +1,5 @@
 import { basename, isAbsolute, join, resolve } from "node:path"
-import { DataError, InputError } from "@shared/errors-core/exit"
+import { DataError, InputError } from "@akasha/errors-core/exit-code"
 import { z } from "zod"
 
 const RESOLVE_URL =

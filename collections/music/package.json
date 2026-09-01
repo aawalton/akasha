@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@collections/music-spotify": "workspace:*",
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"

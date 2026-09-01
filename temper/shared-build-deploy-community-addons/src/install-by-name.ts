@@ -1,5 +1,5 @@
 import { mkdir } from "node:fs/promises"
-import { InputError, OperationalError } from "@shared/errors-core/exit"
+import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
 import { fetchCatalog, fetchFileDetails } from "./catalog"
 import { downloadAndInstall } from "./install"
 import { readInstalledAddons } from "./installed"

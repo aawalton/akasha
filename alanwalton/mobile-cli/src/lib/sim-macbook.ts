@@ -1,4 +1,4 @@
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
 import { z } from "zod"
 import { APPIUM_BASE, appiumReady } from "./appium-client"

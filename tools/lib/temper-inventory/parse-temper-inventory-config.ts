@@ -1,4 +1,4 @@
-import { DataError } from "@shared/errors-core/exit"
+import { DataError } from "@akasha/errors-core/exit-code"
 import { ruleConstantKeys } from "./game-code.ts"
 import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventory-rule-compiler-types"
 import { luaArrayOrEmpty } from "@temper/shared-saved-variables/lua-array"

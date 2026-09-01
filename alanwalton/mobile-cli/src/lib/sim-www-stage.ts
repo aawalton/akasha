@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { copyFileSync, type Dirent, existsSync, readdirSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { InputError, OperationalError } from "@shared/errors-core/exit"
+import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
 import {
   type MobileApp,
   shellRepoPath,

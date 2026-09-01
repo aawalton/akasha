@@ -1,5 +1,5 @@
 import { readFile } from "node:fs/promises"
-import { DataError } from "@shared/errors-core/exit"
+import { DataError } from "@akasha/errors-core/exit-code"
 import { savedVarsFile } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
 import { classifyItemToNodeIds, parseInventoryContent } from "./game-code.ts"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"

@@ -1,4 +1,4 @@
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import { seaweedFSObjectStoreFromEnv } from "../object-store.ts"
 import { imageObjectKey } from "../object-store-keys"
 import type { Json } from "@akasha/supabase-database/json"

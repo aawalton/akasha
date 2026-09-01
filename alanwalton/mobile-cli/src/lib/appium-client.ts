@@ -1,4 +1,4 @@
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import { z } from "zod"
 
 export const APPIUM_BASE = "http://100.64.0.2:4723"

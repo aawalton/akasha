@@ -1,4 +1,4 @@
-import { DataError } from "@shared/errors-core/exit"
+import { DataError } from "@akasha/errors-core/exit-code"
 import { askComposed } from "@shared/pages-query/ask"
 import { fieldStr } from "../cli/lib/fields"
 import { pageOfRow, patchPage } from "../pages/access"

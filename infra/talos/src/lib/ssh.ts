@@ -1,5 +1,5 @@
 import { spawn } from "node:child_process"
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 
 export interface SshOptions {
   readonly user: string

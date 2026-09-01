@@ -4,7 +4,7 @@ import {
   UPSCALE_SERVING_BUCKET,
   UPSCALE_SERVING_NAMESPACE,
 } from "../upscale-serving-job.ts"
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import { makeSeaweedFSObjectStore } from "../../object-store.ts"
 import { z } from "zod"
 

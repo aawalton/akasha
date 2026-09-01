@@ -3,7 +3,7 @@
   "functionalType": "program",
   "dependencies": {
     "@akasha/code-system": "workspace:*",
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@shared/utils-narrow": "workspace:*",

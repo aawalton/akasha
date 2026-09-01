@@ -1,4 +1,4 @@
-import { InputError, OperationalError } from "@shared/errors-core/exit"
+import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
 import { z } from "zod"
 
 export interface GenerationBody {

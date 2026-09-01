@@ -1,4 +1,4 @@
-import type { ErrorReport } from "../../errors-core/src/schema"
+import type { ErrorReport } from "@akasha/errors-core/error-report"
 
 export type ReportErrorInput = Omit<ErrorReport, "url" | "userAgent">
 

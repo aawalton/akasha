@@ -1,4 +1,4 @@
-import { InputError } from "@shared/errors-core/exit"
+import { InputError } from "@akasha/errors-core/exit-code"
 import type { Page } from "../../pages/page"
 
 export function fieldStr(page: Page, key: string): string | undefined {

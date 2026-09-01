@@ -1,7 +1,7 @@
 {
   "name": "@temper/shared-build-deploy-checks",
   "dependencies": {
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@temper/shared-build-deploy-addons-resolve": "workspace:*",
     "@temper/shared-build-deploy-lua-runner": "workspace:*",

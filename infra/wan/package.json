@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@infra/comfy": "workspace:*",
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@shared/utils-narrow": "workspace:*"
   },
   "scripts": {

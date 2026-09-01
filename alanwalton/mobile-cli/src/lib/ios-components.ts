@@ -1,4 +1,4 @@
-import { InputError } from "@shared/errors-core/exit"
+import { InputError } from "@akasha/errors-core/exit-code"
 import { alanwaltonDecodeHarness } from "@akasha/code-system/ios-program/alanwalton-decode-harness"
 import { alanwaltonWidget } from "@akasha/code-system/ios-program/alanwalton-widget"
 import { smilingjennyDecodeHarness } from "@akasha/code-system/ios-program/smilingjenny-decode-harness"

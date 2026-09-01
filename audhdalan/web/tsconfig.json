@@ -36,9 +36,6 @@
     },
     {
       "path": "../../shared/errors-client"
-    },
-    {
-      "path": "../../shared/errors-core"
     }
   ],
   "include": [

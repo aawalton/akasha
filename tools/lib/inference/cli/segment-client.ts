@@ -1,5 +1,5 @@
 import { extname } from "node:path"
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 
 export type SegmentOutput = "matte" | "cutout" | "flatten"
 

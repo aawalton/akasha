@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { InputError } from "@shared/errors-core/exit"
+import { InputError } from "@akasha/errors-core/exit-code"
 import { codeRoot } from "../../../../../tools/lib/code-root.ts"
 import {
   macWwwStagingDir,

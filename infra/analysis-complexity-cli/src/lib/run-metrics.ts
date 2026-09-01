@@ -4,7 +4,7 @@ import { computeCyclomaticComplexity } from "@infra/analysis-complexity-core/cyc
 import { computeHalstead } from "@infra/analysis-complexity-core/halstead"
 import { computeMaintainabilityIndex } from "@infra/analysis-complexity-core/maintainability"
 import { walkFunctions } from "@infra/analysis-complexity-core/walk-functions"
-import { InputError } from "@shared/errors-core/exit"
+import { InputError } from "@akasha/errors-core/exit-code"
 import ts from "typescript"
 import { listWorkspaceTypeScriptFiles, resolveRepoRoot } from "../file-discovery"
 

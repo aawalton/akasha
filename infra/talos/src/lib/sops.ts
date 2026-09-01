@@ -2,7 +2,7 @@ import { spawn } from "node:child_process"
 import { chmod, mkdtemp, writeFile } from "node:fs/promises"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 
 export async function decryptToTmp(sopsPath: string): Promise<string> {
   const dir = await mkdtemp(join(tmpdir(), "talos-secrets-"))
