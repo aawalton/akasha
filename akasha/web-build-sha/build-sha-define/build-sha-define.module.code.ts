@@ -1,19 +1,16 @@
-import { execFileSync } from "node:child_process"
+import { said } from "@akasha/utils-run/running"
 import { BUILD_SHA_ENV_NAME, parseBuildSha } from "../build-sha/build-sha.module.code.ts"
 
 export type BuildShaDefine = Record<string, string>
 
 export function headShaAt(root: string): string | null {
-  let said: string
+  let done: string
   try {
-    said = execFileSync("git", ["-C", root, "rev-parse", "HEAD"], {
-      encoding: "utf8",
-      stdio: ["ignore", "pipe", "ignore"],
-    })
+    done = said(["git", "-C", root, "rev-parse", "HEAD"])
   } catch {
     return null
   }
-  return parseBuildSha(said.trim())
+  return parseBuildSha(done.trim())
 }
 
 export function buildShaDefine(root?: string): BuildShaDefine {
