@@ -88,7 +88,7 @@ export function namesNothing(value: string): boolean {
   return named === "" || named === SETTLED_BY_THE_ROW
 }
 
-export type Standing =
+export type Presence =
   | { readonly outcome: "stands" }
   | { readonly outcome: "absent" }
   | { readonly outcome: "unasked"; readonly why: string }
@@ -97,7 +97,7 @@ export async function pageUnder(
   targetSlug: string,
   name: string,
   deps: FileRelationDeps = LIVE
-): Promise<Standing> {
+): Promise<Presence> {
   const named = slugNamed(name)
   const page = await askPage(targetSlug, named)
   if (page.outcome === "found") return { outcome: "stands" }
