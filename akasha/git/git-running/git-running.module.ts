@@ -35,6 +35,10 @@ export const gitRunning = {
       statement: "A ceiling is stated in milliseconds by a caller that wants a ceiling.",
     },
     {
+      invariantKind: "departure",
+      statement: "A caller feeding git on its input stream hands the bytes rather than a file.",
+    },
+    {
       invariantKind: "absence",
       statement: "No command is run here without a repository to run it in.",
     },

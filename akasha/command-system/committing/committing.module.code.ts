@@ -1,51 +1,137 @@
-import { existsSync } from "node:fs"
-import { join } from "node:path"
-import { said as gitIn } from "@akasha/git/git-running"
+import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
 
 export const AUTHOR = "Akasha <akasha@alanwalton.com>"
 
 export const UNNAMED = "unnamed"
 
+const FILE_MODE = "100644"
+
+const GONE_OID = "0000000000000000000000000000000000000000"
+
+const TREE_MODE = "040000"
+
+const TREE = "tree"
+
+const BLOB = "blob"
+
+type Entry = {
+  readonly mode: string
+  readonly kind: string
+  readonly oid: string
+  readonly name: string
+}
+
+type Node = {
+  readonly files: Map<string, string | null>
+  readonly dirs: Map<string, Node>
+}
+
+const bytesOf = (said: string): Uint8Array => new TextEncoder().encode(said)
+
 function nameOf(root: string): string {
-  try {
-    return gitIn(root, ["rev-parse", "HEAD"]).trim()
-  } catch {
-    return UNNAMED
-  }
+  return gitTold(root, ["rev-parse", "HEAD"])?.trim() ?? UNNAMED
 }
 
-function carrying(
-  root: string,
-  commit: string,
-  wrote: readonly string[],
-  took: readonly string[]
-): boolean {
-  const paths = [...wrote, ...took]
-  let held: Set<string>
-  try {
-    const said = gitIn(root, ["ls-tree", "-r", "--name-only", "-z", commit, "--", ...paths])
-    held = new Set(said.split("\0").filter((one) => one !== ""))
-  } catch {
-    return false
-  }
-  if (wrote.some((one) => !held.has(one))) return false
-  if (took.some((one) => held.has(one))) return false
-  try {
-    gitIn(root, ["diff", "--quiet", commit, "--", ...paths])
-  } catch {
-    return false
-  }
-  return true
+function refOf(root: string): string {
+  return gitTold(root, ["symbolic-ref", "HEAD"])?.trim() ?? "HEAD"
 }
 
-function staged(root: string, paths: readonly string[]): undefined {
-  for (const one of paths) {
-    try {
-      gitIn(root, ["add", "--intent-to-add", "--", one])
-    } catch (thrown) {
-      if (existsSync(join(root, one))) throw thrown
+function entriesIn(said: string): readonly Entry[] {
+  const held: Entry[] = []
+  for (const line of said.split("\n")) {
+    const cut = line.indexOf("\t")
+    if (cut < 0) continue
+    const meta = line.slice(0, cut).split(" ")
+    const mode = meta[0]
+    const kind = meta[1]
+    const oid = meta[2]
+    if (mode === undefined || kind === undefined || oid === undefined) continue
+    held.push({ mode, kind, oid, name: line.slice(cut + 1) })
+  }
+  return held
+}
+
+function entriesOf(root: string, tree: string): readonly Entry[] {
+  const said = gitTold(root, ["ls-tree", tree])
+  return said === null ? [] : entriesIn(said)
+}
+
+function ordering(one: Entry, two: Entry): number {
+  const a = one.kind === TREE ? `${one.name}/` : one.name
+  const b = two.kind === TREE ? `${two.name}/` : two.name
+  return a < b ? -1 : a > b ? 1 : 0
+}
+
+function madeFrom(root: string, every: readonly Entry[]): string {
+  const body = [...every]
+    .sort(ordering)
+    .map((one) => `${one.mode} ${one.kind} ${one.oid}\t${one.name}`)
+    .join("\n")
+  return gitIn(root, ["mktree"], { stdin: bytesOf(`${body}\n`) }).trim()
+}
+
+function nodeOf(put: ReadonlyMap<string, string | null>): Node {
+  const top: Node = { files: new Map(), dirs: new Map() }
+  for (const [path, oid] of put) {
+    const parts = path.split("/")
+    let at = top
+    for (const part of parts.slice(0, -1)) {
+      const found = at.dirs.get(part)
+      if (found !== undefined) {
+        at = found
+        continue
+      }
+      const made: Node = { files: new Map(), dirs: new Map() }
+      at.dirs.set(part, made)
+      at = made
     }
+    const last = parts[parts.length - 1]
+    if (last !== undefined) at.files.set(last, oid)
   }
+  return top
+}
+
+function treeFrom(root: string, from: string | null, node: Node): string | null {
+  const by = new Map<string, Entry>()
+  for (const one of from === null ? [] : entriesOf(root, from)) by.set(one.name, one)
+  for (const [name, sub] of node.dirs) {
+    const there = by.get(name)
+    const made = treeFrom(root, there !== undefined && there.kind === TREE ? there.oid : null, sub)
+    if (made === null) by.delete(name)
+    else by.set(name, { mode: TREE_MODE, kind: TREE, oid: made, name })
+  }
+  for (const [name, oid] of node.files) {
+    if (oid === null) {
+      by.delete(name)
+      continue
+    }
+    const there = by.get(name)
+    by.set(name, { mode: there?.mode ?? FILE_MODE, kind: BLOB, oid, name })
+  }
+  const every = [...by.values()]
+  return every.length === 0 ? null : madeFrom(root, every)
+}
+
+function modesIn(root: string, head: string, paths: readonly string[]): Map<string, string> {
+  const held = new Map<string, string>()
+  if (paths.length === 0) return held
+  const said = gitTold(root, ["ls-tree", "-r", head, "--", ...paths])
+  if (said === null) return held
+  for (const one of entriesIn(said)) held.set(one.name, one.mode)
+  return held
+}
+
+function indexOnto(
+  root: string,
+  put: ReadonlyMap<string, string | null>,
+  modes: ReadonlyMap<string, string>
+): undefined {
+  const lines: string[] = []
+  for (const [path, oid] of put) {
+    if (oid === null) lines.push(`0 ${GONE_OID}\t${path}`)
+    else lines.push(`${modes.get(path) ?? FILE_MODE} ${oid}\t${path}`)
+  }
+  gitIn(root, ["update-index", "--index-info"], { stdin: bytesOf(`${lines.join("\n")}\n`) })
 }
 
 const NAMED = /^\s*(.*?)\s*<([^>]*)>\s*$/
@@ -59,29 +145,38 @@ function identifying(writer: string): readonly string[] {
   return ["-c", `user.name=${name}`, "-c", `user.email=${email}`]
 }
 
+function blobFor(root: string, path: string): string {
+  return gitIn(root, ["hash-object", "-w", "--", path]).trim()
+}
+
 export function committed(
   root: string,
   wrote: readonly string[],
   took: readonly string[],
   message: string,
-  writer: string | null,
-  base: string
+  writer: string | null
 ): string | null {
-  const paths = [...wrote, ...took].sort()
-  staged(root, paths)
-  try {
-    gitIn(root, ["diff", "--quiet", "HEAD", "--", ...paths])
-    return null
-  } catch {}
+  const head = nameOf(root)
+  if (head === UNNAMED) throw new Error("HEAD names no commit, so nothing lands onto it")
+  const was = gitIn(root, ["rev-parse", `${head}^{tree}`]).trim()
+  const modes = modesIn(root, head, [...wrote, ...took])
+  const put = new Map<string, string | null>()
+  for (const one of wrote) put.set(one, blobFor(root, one))
+  for (const one of took) put.set(one, null)
+  const tree = treeFrom(root, was, nodeOf(put))
+  if (tree === null) throw new Error("the change would leave no tree at the root")
+  if (tree === was) return null
   const writing = writer ?? AUTHOR
-  const named = [`--author=${writing}`]
-  try {
-    gitIn(root, [...identifying(writing), "commit", ...named, "-m", message, "--", ...paths])
-  } catch (thrown) {
-    const now = nameOf(root)
-    if (now === base || now === UNNAMED) throw thrown
-    if (!carrying(root, now, wrote, took)) throw thrown
-    return now
-  }
-  return nameOf(root)
+  const made = gitIn(root, [
+    ...identifying(writing),
+    "commit-tree",
+    tree,
+    "-p",
+    head,
+    "-m",
+    message,
+  ]).trim()
+  indexOnto(root, put, modes)
+  gitIn(root, ["update-ref", refOf(root), made, head])
+  return made
 }

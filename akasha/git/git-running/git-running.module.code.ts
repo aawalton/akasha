@@ -2,6 +2,7 @@ import { type Asked, said as saying } from "@akasha/utils-run/running"
 
 export type Wanted = {
   readonly timeout?: number
+  readonly stdin?: Uint8Array
 }
 
 export function argvFor(root: string, argv: readonly string[]): readonly string[] {
@@ -9,7 +10,10 @@ export function argvFor(root: string, argv: readonly string[]): readonly string[
 }
 
 export function askedFor(wanted: Wanted): Asked {
-  return wanted.timeout === undefined ? {} : { timeout: wanted.timeout }
+  return {
+    ...(wanted.timeout === undefined ? {} : { timeout: wanted.timeout }),
+    ...(wanted.stdin === undefined ? {} : { stdin: wanted.stdin }),
+  }
 }
 
 export function said(root: string, argv: readonly string[], wanted: Wanted = {}): string {

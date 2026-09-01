@@ -295,7 +295,7 @@ export function landing(
       const noted = indexed(root, changes, before, keeping)
       const back = carriedOnto(root, carries)
       try {
-        const commit = committed(root, put.wrote, put.took, message, writer, base)
+        const commit = committed(root, put.wrote, put.took, message, writer)
         return { base, commit, wrote: put.wrote, took: put.took, noted }
       } catch (thrown) {
         back()

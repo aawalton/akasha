@@ -14,15 +14,27 @@ export const committing = {
     },
     {
       invariantKind: "departure",
-      statement: "What a commit carries is read from its tree rather than from a diff.",
+      statement: "A commit is built from trees rather than staged through the git index.",
     },
     {
       invariantKind: "departure",
-      statement: "A path that could not be staged refuses the change.",
+      statement: "A path the git index would not take refuses the change.",
     },
     {
       invariantKind: "departure",
-      statement: "Staging is allowed to fail only where the path does not stand on disk.",
+      statement: "Only the trees along a changed path are built again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The git index is written before the branch moves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Moving the branch is the one act that lands the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A branch no longer at the commit the change was built onto refuses the change.",
     },
     {
       invariantKind: "departure",
