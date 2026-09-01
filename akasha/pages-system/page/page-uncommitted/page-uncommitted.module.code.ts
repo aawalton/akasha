@@ -101,10 +101,33 @@ function valuesIn(full: string, at: string): Value | null {
   return held.value
 }
 
+type Remembered = {
+  readonly at: number
+  readonly size: number
+  readonly value: Value | null
+}
+
+const remembered = new Map<string, Remembered>()
+
 export function uncommittedIn(root: string, page: string): Value | null {
   const at = uncommittedAt(page)
   if (at === null) return null
-  return valuesIn(join(root, at), at)
+  const full = join(root, at)
+  const found = statSync(full, { throwIfNoEntry: false })
+  if (found === undefined) {
+    remembered.delete(full)
+    return null
+  }
+  const seen = remembered.get(full)
+  if (seen !== undefined && seen.at === found.mtimeMs && seen.size === found.size) return seen.value
+  const value = valuesIn(full, at)
+  remembered.set(full, { at: found.mtimeMs, size: found.size, value })
+  return value
+}
+
+export function wholeValue(root: string, page: string, value: Value): Value {
+  const beside = uncommittedIn(root, page)
+  return beside === null ? value : { ...value, ...beside }
 }
 
 function besideOr(page: string): string {
