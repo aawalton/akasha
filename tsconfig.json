@@ -173,6 +173,57 @@
     },
     {
       "path": "./stories/text"
+    },
+    {
+      "path": "./temper/catalog-cli"
+    },
+    {
+      "path": "./temper/catalog-host"
+    },
+    {
+      "path": "./temper/game-collections-antiquities-capture-host"
+    },
+    {
+      "path": "./temper/game-collections-capture-host"
+    },
+    {
+      "path": "./temper/game-collections-lore-capture-host"
+    },
+    {
+      "path": "./temper/game-collections-tribute-capture-host"
+    },
+    {
+      "path": "./temper/game-completion-capture-host"
+    },
+    {
+      "path": "./temper/game-crafting-capture-host"
+    },
+    {
+      "path": "./temper/game-navigation-capture-host"
+    },
+    {
+      "path": "./temper/game-items-filters-core"
+    },
+    {
+      "path": "./temper/player-quests-addon-cli"
+    },
+    {
+      "path": "./temper/shared-addon-libraries-lib-sets-scripts"
+    },
+    {
+      "path": "./temper/shared-build-deploy-checks"
+    },
+    {
+      "path": "./temper/shared-build-deploy-community-addons"
+    },
+    {
+      "path": "./temper/shared-build-deploy-lua-runner"
+    },
+    {
+      "path": "./temper/shared-build-deploy-saved-vars-migration"
+    },
+    {
+      "path": "./temper/shared-capture-errors-core"
     }
   ],
   "files": []
