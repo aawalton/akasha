@@ -1,19 +1,9 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { createGraph } from "../../../../tools/lib/graph/graph.ts"
-import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
-import {
-  PACKAGE_NODE_TYPE,
-  type PackageAttrs,
-  PackageAttrsSchema,
-  PKG_DEPENDS_EDGE_TYPE,
-  type PkgDependsAttrs,
-  PkgDependsAttrsSchema,
-  type PkgDependsEdgeType,
-} from "../../../../tools/lib/graph/producers/package/types.ts"
-import { findCycles } from "../../../../tools/lib/graph/queries/cycles.ts"
-import type { Edge, Graph, Node } from "../../../../tools/lib/graph/types.ts"
+import { packageDependencyCycles } from "../lib/package-cycles.ts"
+import { treeReadingAt } from "../lib/tree-reading.ts"
+import { readWorkspacePackages, type WorkspacePackage } from "../lib/workspace-packages.ts"
 import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
@@ -74,45 +64,32 @@ function formatViolation(f: PackageCycleFinding): string {
   return lines.join("\n")
 }
 
-const parsePackageNode = (n: Node): Node<"package", PackageAttrs> => ({
-  ...n,
-  type: PACKAGE_NODE_TYPE,
-  attrs: PackageAttrsSchema.parse(n.attrs),
-})
-
-const parsePkgDependsEdge = (e: Edge): Edge<PkgDependsEdgeType, PkgDependsAttrs> => ({
-  ...e,
-  type: PKG_DEPENDS_EDGE_TYPE,
-  attrs: PkgDependsAttrsSchema.parse(e.attrs),
-})
-
-async function main(): Promise<never> {
+function main(): never {
   const args = parseArgs()
 
-  let fullGraph: Graph
+  const root = codeRoot()
+
+  let packages: readonly WorkspacePackage[]
   try {
-    fullGraph = await buildFrom(readAt(args.treeSha).ctx)
+    packages = readWorkspacePackages(treeReadingAt(root, args.treeSha))
   } catch (err) {
-    return toolExit(`failed to build the package graph at ${args.treeSha}: ${errorMessage(err)}`)
+    return toolExit(`failed to read the packages at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const root = codeRoot()
-  const packageNodes = fullGraph.nodes(PACKAGE_NODE_TYPE).map(parsePackageNode)
-
   const { population } = examinePopulation({
-    members: packageNodes,
+    members: packages,
     unit: "workspace packages",
-    labelOf: (node) => node.attrs.name,
-    siteOf: (node) => resolve(root, node.attrs.path, "package.json"),
+    labelOf: (one) => one.name,
+    siteOf: (one) => resolve(root, one.path, "package.json"),
     examine: () => [],
     membership: {
       kind: "enumerated",
       because:
-        "these are the `package` nodes of the graph built at the tree sha above, and a build that could not complete throws out of `buildFrom` into the `toolExit` beside it rather than handing over a partial node set",
+        "these are every workspace the root manifest declares at the tree sha above, read from that tree rather than from disk, and a listing or a body that could not be read throws out of `readWorkspacePackages` into the `toolExit` beside it rather than handing over a partial set",
     },
   })
 
-  if (packageNodes.length === 0) {
+  if (packages.length === 0) {
     return exitOnResult({
       violations: [],
       options: {
@@ -123,21 +100,11 @@ async function main(): Promise<never> {
     })
   }
 
-  const cycleEdges = fullGraph
-    .edges({ type: [PKG_DEPENDS_EDGE_TYPE] })
-    .map(parsePkgDependsEdge)
-    .filter((e) => e.attrs.kind === "dependencies" || e.attrs.kind === "devDependencies")
-  const cycleGraph = createGraph(packageNodes, cycleEdges)
-
-  const cycles = findCycles(cycleGraph, { edgeTypes: [PKG_DEPENDS_EDGE_TYPE] })
-
-  const idToName = new Map<string, string>()
-  for (const node of packageNodes) idToName.set(node.id, node.attrs.name)
-
-  const findings: PackageCycleFinding[] = cycles.map((cycle) => {
-    const names = cycle.map((id) => idToName.get(id) ?? id)
-    return { kind: "PackageCycle", size: names.length, nodes: names }
-  })
+  const findings: PackageCycleFinding[] = packageDependencyCycles(packages).map((cycle) => ({
+    kind: "PackageCycle",
+    size: cycle.length,
+    nodes: [...cycle],
+  }))
   findings.sort(compareFindings)
 
   return exitOnResult({
@@ -147,12 +114,14 @@ async function main(): Promise<never> {
       format: args.jsonOutput ? "json" : "human",
       prefix: PREFIX,
       header: "Cycles in the workspace package dependency graph",
-      successMessage: `OK — ${packageNodes.length} package(s) analyzed, zero cycles`,
+      successMessage: `OK — ${packages.length} package(s) analyzed, zero cycles`,
       formatViolation,
     },
   })
 }
 
-main().catch((err: unknown) => {
+try {
+  main()
+} catch (err: unknown) {
   exitOnToolError({ error: err, prefix: PREFIX })
-})
+}
