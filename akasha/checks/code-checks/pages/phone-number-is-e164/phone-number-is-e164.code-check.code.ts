@@ -1,8 +1,5 @@
-import { pageTypesIn } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages-system/change"
 import { pageNamed } from "@akasha/pages-system/page-file-name"
-import { kindsUnder } from "@akasha/pages-system/page-type-descent"
-import { propertiesOf } from "@akasha/pages-system/page-type-properties"
 import { textAt, type Value } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -69,15 +66,15 @@ export function reasonsIn(value: Value, keyed: Keyed): readonly string[] {
 
 export function keyedIn(pageTypeSlug: string, under: ReadonlySet<string>, shadow: Shadow): Keyed {
   const found = new Map<string, string>()
-  for (const one of propertiesOf(pageTypeSlug, shadow.reading, shadow.pageOf)) {
+  for (const one of shadow.index.propertiesOf(pageTypeSlug, shadow.pageOf)) {
     if (under.has(one.pageTypeSlug)) found.set(one.key, one.pagePropertySlug)
   }
   return found
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const under = kindsUnder(change.root, PHONE_NUMBER, shadow.reading, shadow.pageOf)
-  const pageTypes = pageTypesIn(shadow.reading)
+  const under = shadow.index.kindsUnder(change.root, PHONE_NUMBER, shadow.pageOf)
+  const pageTypes = shadow.index.pageTypesIn()
   const held = new Map<string, Keyed>()
   const keyedBy = (pageTypeSlug: string): Keyed => {
     const found = held.get(pageTypeSlug)
