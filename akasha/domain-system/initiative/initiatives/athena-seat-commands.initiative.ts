@@ -8,12 +8,13 @@ export const athenaSeatCommands = {
   personaSlug: "athena",
   parentSlug: "akasha-migration",
   intents: [
-    { statement: "What a seat needs to be run stands inside akasha." },
+    { statement: "A seat's name, id, page and launch are composed inside akasha." },
     { statement: "A seat is started through akasha." },
     { statement: "A seat is emptied and refilled through akasha." },
     { statement: "A seat is brought back on the session it is bound to through akasha." },
     { statement: "Every client behind the settings standing now is restarted through akasha." },
     { statement: "The settings every live seat watches are rewritten through akasha." },
+    { statement: "The supervisor runs inside akasha." },
   ],
   constraints: [
     "Alan settles each act's shape before it lands.",
