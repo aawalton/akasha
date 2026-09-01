@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const noVoidReturnWasNarrowedToABodyWrittenHere = {
+  id: "01a05c69-4d64-7f4d-9619-91e433fc0031",
+  pageTypeSlug: "finding",
+  slug: "no-void-return-was-narrowed-to-a-body-written-here",
+  domainSlug: "domain/akasha-check",
+  claim:
+    "`no-void-return` now refuses `void` only where the body is written here. A function type, a method signature, a call signature and a constructor type stand. That narrows what an approved check refuses, which `Alan Approves Checks` reserves to Alan, and the call was taken in his absence under the initiative's own constraint. Reversing it means restoring five node kinds to the rule's body and re-spelling 44 callback declarations as `undefined`.",
+  evidence:
+    "Measured with the compiler rather than read off the rule. `const b: (v: string) => undefined = setter`, where `setter` answers `void`, is TS2322. The other direction stands. So a slot spelled `undefined` admits no React state setter, and 44 declarations across the design packages and pages-ui were spelled that way, with 66 typecheck errors following them.\n\nThe rule's warrant is about a body: `void` accepts an async body whose promise is dropped and whose failure goes unheard. A function type has no body. The rule reached a type position only through two invariants of breadth rather than of warrant, and those invariants stood on the page, so this is a change to what the approved rule refuses rather than the fixing of a defect. The precedent for narrowing a check in Alan's absence is `38774f08f0`, where `package-reached-where-named` stopped refusing a reach into an inner package, and `7fc36f884f`, where `page-property-has-its-file` stopped asking about a secret.\n\nWhat is given up is real. A slot spelled `undefined` refuses `async () => {}` and a slot spelled `void` admits it, so that guard is off for a callback a component takes. It was already defeated by the wrapper every call site had to write, and it cost every caller the ability to hand over a function it already held.\n\nLanded at `aa6a53a088` and `52ff117235`, the second with the glass broken because the check loads a rule's body from disk and can judge no change to one. The declarations at `6dc4d501dc`, `8b98ca5e15`, `bff3e8c1d5`, `80b6b06304` and `7b0b1d13af`. Typecheck over `-b tsconfig.json` went 66 to 0, `akasha test` 3747 pass and 0 fail, `manifest-names-what-is-reached` refuses 11 before and after.",
+} as const satisfies Finding
