@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  importsStanding,
+  importsListed,
   listedTakenFrom,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { ADMITS_CODE, REFUSES_CODE } from "../../testing-system/minting/minting.module.code.ts"
@@ -112,7 +112,7 @@ test("a dry run gates and writes nothing at all, index entry included", () => {
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(headOf(root)).toBe(was)
   expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
-  expect(importsStanding(root)).toBe(false)
+  expect(importsListed(root)).toBe(false)
 })
 
 test("a dry run over a change the checks refuse reports the refusal", () => {

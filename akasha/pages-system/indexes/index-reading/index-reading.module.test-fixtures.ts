@@ -277,7 +277,7 @@ export function listedTakenFrom(root: string, pageTypeSlug: string, slug: string
   taking(root, join(indexIdentity.name, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
 
-export function importsStanding(root: string): boolean {
+export function importsListed(root: string): boolean {
   return existsSync(under(root, indexImport.name))
 }
 
