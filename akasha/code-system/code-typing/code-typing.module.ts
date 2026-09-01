@@ -22,6 +22,14 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "A file the akasha folder compiles is named `.ts` or `.tsx`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The akasha folder compiles TypeScript written with JSX.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A spelling is matched by the declaration the checker resolves it to.",
     },
     {

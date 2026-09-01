@@ -3,6 +3,8 @@ import ts from "typescript"
 
 const TS = ".ts"
 
+const TSX = ".tsx"
+
 const INSIDE = "akasha/"
 
 const PACKAGES = "node_modules"
@@ -16,6 +18,7 @@ export const SETTINGS: ts.CompilerOptions = {
   moduleResolution: ts.ModuleResolutionKind.Bundler,
   target: ts.ScriptTarget.ESNext,
   skipLibCheck: true,
+  jsx: ts.JsxEmit.ReactJSX,
 }
 
 export type Reading = (at: string) => string | undefined
@@ -34,12 +37,16 @@ export type Naming = {
   readonly shorthand: boolean
 }
 
+export function typed(path: string): boolean {
+  return path.endsWith(TS) || path.endsWith(TSX)
+}
+
 export function compiled(path: string): boolean {
-  return path.endsWith(TS) && path.startsWith(INSIDE) && !path.includes(`/${PACKAGES}/`)
+  return typed(path) && path.startsWith(INSIDE) && !path.includes(`/${PACKAGES}/`)
 }
 
 export function insideOf(root: string, at: string): string | null {
-  if (!at.endsWith(TS)) return null
+  if (!typed(at)) return null
   if (at.includes(`/${PACKAGES}/`)) return null
   if (!at.startsWith(`${root}/`)) return null
   const rel = at.slice(root.length + 1)
