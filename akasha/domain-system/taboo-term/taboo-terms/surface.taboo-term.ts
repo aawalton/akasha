@@ -6,4 +6,8 @@ export const surface = {
   slug: "surface",
   pattern: "(?<![-_.])\\bsurface\\b(?![-_:(]|\\.\\w)",
   tabooSenses: [{ sense: "a document that binds its reader", instead: "document" }],
+  keptSenses: [
+    "the reads a module or an index offers to whatever reaches it",
+    "the layered plane a piece of interface is shown on",
+  ],
 } as const satisfies TabooTerm

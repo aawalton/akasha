@@ -11,4 +11,5 @@ export const schema = {
       instead: "a page type and the body shape it names",
     },
   ],
+  keptSenses: ["the shape a zod validator names a value must have"],
 } as const satisfies TabooTerm

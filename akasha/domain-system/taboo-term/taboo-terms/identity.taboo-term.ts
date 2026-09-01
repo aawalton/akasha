@@ -11,4 +11,8 @@ export const identity = {
       instead: "its attributes and what is required for them",
     },
   ],
+  keptSenses: [
+    "the identifier a page or a row is told apart from every other by",
+    "the marks and colors a brand is known by",
+  ],
 } as const satisfies TabooTerm
