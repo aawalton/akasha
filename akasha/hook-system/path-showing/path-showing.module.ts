@@ -10,7 +10,7 @@ export const pathShowing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path under the root is said relative to it.",
+      statement: "A path under the root is said relative to the root.",
     },
     {
       invariantKind: "departure",

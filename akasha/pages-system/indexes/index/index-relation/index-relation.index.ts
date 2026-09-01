@@ -27,7 +27,7 @@ export const indexRelation = {
     },
     {
       invariantKind: "departure",
-      statement: "One write creates and removes only files it alone owns.",
+      statement: "One write creates and removes only files that write alone owns.",
     },
     {
       invariantKind: "departure",

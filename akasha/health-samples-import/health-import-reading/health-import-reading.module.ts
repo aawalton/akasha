@@ -9,15 +9,15 @@ export const healthImportReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run that wrote every record it read reads as imported.",
+      statement: "A run that wrote every record the run read reads as imported.",
     },
     {
       invariantKind: "departure",
-      statement: "A run that lost records reads as lossy and names what it lost.",
+      statement: "A run that lost records reads as lossy and names what the run lost.",
     },
     {
       invariantKind: "departure",
-      statement: "A run that cannot tell what it lost reads as unsettled.",
+      statement: "A run that cannot tell what the run lost reads as unsettled.",
     },
   ],
 } as const satisfies Module

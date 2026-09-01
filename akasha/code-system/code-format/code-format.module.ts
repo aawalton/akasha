@@ -11,7 +11,7 @@ export const codeFormat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body is formatted where it is handed in before anything judges it.",
+      statement: "A body is formatted where the body is handed in before anything judges the body.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the formatter does not handle comes back as it went in.",
+      statement: "A body the formatter does not handle comes back unchanged.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +69,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "absence",
-      statement: "What a body's trouble means is left to the checks that judge it.",
+      statement: "What a body's trouble means is left to the checks that judge the body.",
     },
     {
       invariantKind: "absence",
@@ -81,7 +81,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing restates it.",
+      statement: "Nothing restates the config.",
     },
     {
       invariantKind: "absence",
@@ -93,7 +93,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "absence",
-      statement: "The formatter itself decides what it touches.",
+      statement: "The formatter itself decides what the formatter touches.",
     },
   ],
 } as const satisfies Module

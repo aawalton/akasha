@@ -14,7 +14,8 @@ export const serviceWrapping = {
     },
     {
       invariantKind: "departure",
-      statement: "It ends its child and leaves on the exit systemd starts the service again for.",
+      statement:
+        "The wrapper ends its child and leaves on the exit systemd starts the service again for.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +31,8 @@ export const serviceWrapping = {
     },
     {
       invariantKind: "departure",
-      statement: "It follows what it reaches itself as well as what its service reaches.",
+      statement:
+        "The wrapper follows what the wrapper reaches itself as well as what its service reaches.",
     },
     {
       invariantKind: "departure",
@@ -46,15 +48,15 @@ export const serviceWrapping = {
     },
     {
       invariantKind: "departure",
-      statement: "The repository it runs in is read from the environment its unit states.",
+      statement: "The repository the wrapper runs in is read from the environment its unit states.",
     },
     {
       invariantKind: "departure",
-      statement: "Running this file wraps a command.",
+      statement: "Running this module's file wraps a command.",
     },
     {
       invariantKind: "absence",
-      statement: "Importing this file runs nothing.",
+      statement: "Importing this module's file runs nothing.",
     },
     {
       invariantKind: "absence",

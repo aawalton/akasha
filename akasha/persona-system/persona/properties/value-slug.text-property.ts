@@ -17,7 +17,7 @@ export const valueSlug = {
     },
     {
       invariantKind: "gap",
-      statement: "This is a relation to a value.",
+      statement: "This property is a relation to a value.",
     },
   ],
 } as const satisfies TextProperty

@@ -44,7 +44,7 @@ export const namePlace = {
     {
       invariantKind: "departure",
       statement:
-        "A place stating no format holds no name at all or holds one whose owner stands outside akasha or holds a name built of parts each named elsewhere.",
+        "A place stating no format holds no name or holds a name whose owner stands outside akasha or holds a name built of parts each named elsewhere.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const namePlace = {
     },
     {
       invariantKind: "gap",
-      statement: "A place says in prose where it holds.",
+      statement: "A place says in prose where the place holds.",
     },
   ],
 } as const satisfies PageType

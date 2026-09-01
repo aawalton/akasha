@@ -17,7 +17,7 @@ export const hostnames = {
     },
     {
       invariantKind: "departure",
-      statement: "A web app states every name reaching the workload it runs as.",
+      statement: "A web app states every name reaching the workload the web app runs as.",
     },
   ],
 } as const satisfies TextProperty

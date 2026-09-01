@@ -42,11 +42,12 @@ export const domain = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What makes a page a domain is its page type rather than the folder it sits in.",
+      statement:
+        "What makes a page a domain is its page type rather than the folder the page sits in.",
     },
     {
       invariantKind: "departure",
-      statement: "Everything a domain carries could matter to every domain beneath it.",
+      statement: "Everything a domain carries could matter to every domain beneath that domain.",
     },
     {
       invariantKind: "departure",

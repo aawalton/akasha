@@ -9,7 +9,7 @@ export const expandTilde = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A tilde anywhere but the front of a path is left as it was written.",
+      statement: "A tilde anywhere but the front of a path is left unchanged.",
     },
   ],
 } as const satisfies Module

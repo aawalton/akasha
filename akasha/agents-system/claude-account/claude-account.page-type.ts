@@ -102,21 +102,22 @@ export const claudeAccount = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An account is reached by its slug rather than by the address it signs in as.",
+      statement:
+        "An account is reached by its slug rather than by the address the account signs in as.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An account is made stating the address it signs in as and the alias it answers to.",
+        "An account is made stating the address the account signs in as and the alias the account answers to.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The rest of what it states is answered by the upstream probe at its first sign-in.",
+        "The rest of what an account states is answered by the upstream probe at its first sign-in.",
     },
     {
       invariantKind: "departure",
-      statement: "What is observed of an account stands beside its page rather than in it.",
+      statement: "What is observed of an account stands beside its page rather than in that page.",
     },
     {
       invariantKind: "departure",
@@ -125,7 +126,7 @@ export const claudeAccount = {
     },
     {
       invariantKind: "departure",
-      statement: "A mark whose key this does not declare is refused rather than written.",
+      statement: "A mark whose key this page type does not declare is refused rather than written.",
     },
     {
       invariantKind: "departure",

@@ -10,15 +10,16 @@ export const statusline = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This runs on every render.",
+      statement: "This script runs on every render.",
     },
     {
       invariantKind: "departure",
-      statement: "What it cannot read it leaves out rather than saying it is unknown.",
+      statement:
+        "What this script cannot read this script leaves out rather than saying that value is unknown.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat is read from the page standing for it in akasha.",
+      statement: "A seat is read from the page standing for that seat in akasha.",
     },
     {
       invariantKind: "stopgap",

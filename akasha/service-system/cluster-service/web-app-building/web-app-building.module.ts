@@ -14,7 +14,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A workload no container syncs code into has no build made for it.",
+      statement: "A workload no container syncs code into has no build made for that workload.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,8 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A sha origin does not carry is pushed onto origin's main before it is built.",
+      statement:
+        "A sha origin does not carry is pushed onto origin's main before that sha is built.",
     },
     {
       invariantKind: "departure",
@@ -44,11 +45,12 @@ export const webAppBuilding = {
     {
       invariantKind: "departure",
       statement:
-        "Only the manifests a tree tracks and the lockfile beside them are taken out of it.",
+        "Only the manifests a tree tracks and the lockfile beside those manifests are taken out of the tree.",
     },
     {
       invariantKind: "departure",
-      statement: "An install proved this way writes nothing into the tree it was proved from.",
+      statement:
+        "An install proved this way writes nothing into the tree the install was proved from.",
     },
     {
       invariantKind: "departure",
@@ -77,11 +79,13 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A build leaves the sha it was made from inside the build it made.",
+      statement:
+        "A build run leaves the sha that run was made from inside the build that run made.",
     },
     {
       invariantKind: "departure",
-      statement: "The values a build needs are the ones the manifest code exports beside it.",
+      statement:
+        "The values a build needs are the values the manifest code exports beside the manifests.",
     },
     {
       invariantKind: "departure",
@@ -89,7 +93,8 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A value a build needs that nothing holds stops the build before it starts.",
+      statement:
+        "A value a build needs that nothing holds stops the build before the build starts.",
     },
     {
       invariantKind: "departure",
@@ -117,7 +122,8 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "stopgap",
-      statement: "Every web app's build stands in a host path on the one node that serves it.",
+      statement:
+        "Every web app's build stands in a host path on the one node that serves that web app.",
     },
     {
       invariantKind: "gap",

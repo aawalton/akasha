@@ -14,11 +14,12 @@ export const noTmp = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "`tmpdir` is refused where it is taken from `node:os`.",
+      statement: "`tmpdir` is refused where `tmpdir` is taken from `node:os`.",
     },
     {
       invariantKind: "departure",
-      statement: "A literal is judged by the value it carries rather than by the text around it.",
+      statement:
+        "A literal is judged by the value the literal carries rather than by the text around the literal.",
     },
     {
       invariantKind: "departure",

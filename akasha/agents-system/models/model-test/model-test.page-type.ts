@@ -31,11 +31,12 @@ export const modelTest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A test's code puts its prompt together from what it is handed.",
+      statement: "A test's code puts its prompt together from what the code is handed.",
     },
     {
       invariantKind: "departure",
-      statement: "A test's code picks which pages it judges rather than the prompt saying so.",
+      statement:
+        "A test's code picks which pages the code judges rather than the prompt saying so.",
     },
     {
       invariantKind: "departure",

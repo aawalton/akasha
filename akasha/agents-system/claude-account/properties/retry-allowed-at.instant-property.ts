@@ -12,7 +12,7 @@ export const retryAllowedAt = {
     {
       invariantKind: "departure",
       statement:
-        "An upstream `retry-after` header states a length and is added to now to reach this.",
+        "An upstream `retry-after` header states a length and is added to now to reach this instant.",
     },
   ],
 } as const satisfies InstantProperty

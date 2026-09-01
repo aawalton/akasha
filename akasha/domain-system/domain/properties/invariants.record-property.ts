@@ -27,7 +27,7 @@ export const invariants = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry that is none of the kinds is not an invariant.",
+      statement: "An entry that is no invariant kind is not an invariant.",
     },
     {
       invariantKind: "departure",

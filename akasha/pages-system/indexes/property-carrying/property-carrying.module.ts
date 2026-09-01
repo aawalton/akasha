@@ -23,7 +23,7 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "What declares a property is answered apart from what carries it.",
+      statement: "What declares a property is answered apart from what carries the property.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,8 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type declaring a property carries it to every type beneath it.",
+      statement:
+        "A page type declaring a property carries the property to every type beneath that page type.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +46,7 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "A field is answered with the record it is reached through.",
+      statement: "A field is answered with the record the field is reached through.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +58,7 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "A name no page property carries is refused rather than answered as none.",
+      statement: "A name no page property carries is refused rather than answered with no pages.",
     },
     {
       invariantKind: "absence",

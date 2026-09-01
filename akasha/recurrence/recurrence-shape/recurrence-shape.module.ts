@@ -17,7 +17,7 @@ export const recurrenceShape = {
     },
     {
       invariantKind: "departure",
-      statement: "An advanced due date names a time only where one was already held.",
+      statement: "An advanced due date names a time only where a time was already held.",
     },
   ],
 } as const satisfies Module

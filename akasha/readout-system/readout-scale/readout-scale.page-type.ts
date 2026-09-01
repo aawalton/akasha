@@ -51,7 +51,7 @@ export const readoutScale = {
     },
     {
       invariantKind: "departure",
-      statement: "A scale states only the rungs it has.",
+      statement: "A scale states only the rungs the scale has.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const readoutScale = {
     },
     {
       invariantKind: "departure",
-      statement: "Black stands at zero unless a scale moves it.",
+      statement: "Black stands at zero unless a scale moves black.",
     },
     {
       invariantKind: "constraint",

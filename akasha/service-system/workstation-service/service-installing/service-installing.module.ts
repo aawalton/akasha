@@ -14,11 +14,11 @@ export const serviceInstalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A unit of ours is one whose link points into that folder.",
+      statement: "A unit of ours is a unit whose link points into that folder.",
     },
     {
       invariantKind: "departure",
-      statement: "Anything else standing beside it is left alone.",
+      statement: "Anything else standing beside a unit of ours is left alone.",
     },
     {
       invariantKind: "departure",

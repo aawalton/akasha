@@ -13,7 +13,7 @@ export const tier = {
     },
     {
       invariantKind: "departure",
-      statement: "Black is the rung a reading sits at before it has moved.",
+      statement: "Black is the rung a reading sits at before the reading has moved.",
     },
   ],
 } as const satisfies IosComponent

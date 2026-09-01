@@ -39,7 +39,8 @@ export const differing = {
     },
     {
       invariantKind: "departure",
-      statement: "The files a difference was taken over are gone before it is answered.",
+      statement:
+        "The files a difference was taken over are gone before the difference is answered.",
     },
   ],
 } as const satisfies Module

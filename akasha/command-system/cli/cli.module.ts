@@ -10,7 +10,7 @@ export const cli = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command answers and this prints.",
+      statement: "A command answers and this module prints.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const cli = {
     },
     {
       invariantKind: "departure",
-      statement: "What was done is printed apart from what refused it.",
+      statement: "What was done is printed apart from what refused the command.",
     },
     {
       invariantKind: "departure",

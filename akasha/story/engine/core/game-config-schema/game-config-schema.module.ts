@@ -11,7 +11,7 @@ export const gameConfigSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A game that rolls declares how it resolves.",
+      statement: "A game that rolls declares how the game resolves.",
     },
     {
       invariantKind: "departure",

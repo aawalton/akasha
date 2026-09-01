@@ -12,7 +12,7 @@ export const blockBiome = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every biome call is refused whether it reads or writes.",
+      statement: "Every biome call is refused whether that call reads or writes.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,8 @@ export const blockBiome = {
     },
     {
       invariantKind: "departure",
-      statement: "What this does not reach is printed by the hook and asked for with `--scope`.",
+      statement:
+        "What `akasha lint` does not reach is printed by the hook and asked for with `--scope`.",
     },
     {
       invariantKind: "departure",

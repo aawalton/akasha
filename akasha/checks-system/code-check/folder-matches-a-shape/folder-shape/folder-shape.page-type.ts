@@ -54,7 +54,7 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A page carrying files beside it stands alone in a folder.",
+      statement: "A page carrying files beside that page stands alone in a folder.",
     },
     {
       invariantKind: "departure",
