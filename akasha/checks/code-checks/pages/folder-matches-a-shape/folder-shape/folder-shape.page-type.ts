@@ -64,6 +64,10 @@ export const folderShape = {
       statement: "A folder may match more than one shape.",
     },
     {
+      invariantKind: "gap",
+      statement: "No shape matches an empty folder.",
+    },
+    {
       invariantKind: "departure",
       statement: "A shape judges the files sitting in one folder.",
     },
