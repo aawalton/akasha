@@ -1,14 +1,11 @@
-import { said } from "@akasha/utils-run/running"
+import { told } from "@akasha/git/git-running"
 import type { WorktreeGitFacts } from "../target-guard/target-guard.module.code.ts"
 
+const CEILING = 5_000
+
 export function readWorktreeGitFacts(cwd: string = process.cwd()): WorktreeGitFacts {
-  const run = (args: readonly string[]): string | null => {
-    try {
-      return said(["git", ...args], { cwd, timeout: 5_000 }).trim()
-    } catch {
-      return null
-    }
-  }
+  const run = (args: readonly string[]): string | null =>
+    told(cwd, args, { timeout: CEILING })?.trim() ?? null
 
   if (run(["rev-parse", "--verify", "origin/main"]) === null) {
     return { available: false, branch: null, unlandedCommitCount: 0 }
