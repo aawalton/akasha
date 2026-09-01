@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aLinuxBoxWithNoSwiftcStillBuildsTheWidget = {
+  id: "01a05c68-6269-7182-ba6b-f6f81fea4662",
+  pageTypeSlug: "finding",
+  slug: "a-linux-box-with-no-swiftc-still-builds-the-widget",
+  domainSlug: "domain/alan-harness",
+  claim:
+    "A lane concluded no widget Swift could compile because this box has no swiftc. That is true of the box and beside the point: `akasha ios-app` reads `AKASHA_MAC_HOST`, defaults to `macbook`, and hands the build there. Run that way, `ios-app build smilingjenny` exits 0 with BUILD_SIM_OK and compiles clean. Alan's exits 3, but on a missing web bundle before xcodebuild rather than on any Swift.",
+  evidence:
+    "ios-app.command.code.ts:12-14 reads AKASHA_MAC_HOST, defaulting to `macbook`; :126-138 sends a build.sh and runs it under a trap that removes it. The scratch mkdtemp under /var/tmp is on the calling box rather than the Mac, whose run root is $HOME/.akasha-ios-build. Success is the DONE regex at :26.\n\nNothing here can reach a phone: readIn (:34-65) takes only `build <app>` and `--www <dir>`, so there is no device path to decline. build-sim.shell-script.shell.sh resolves a udid from `xcrun simctl list devices`, builds -destination 'platform=iOS Simulator' with CODE_SIGNING_ALLOWED=NO, installs with `xcrun simctl install`, and its page states the absence 'Nothing here is signed.'\n\nmacbook answers sw_vers 26.5.2 with xcodebuild and swift on PATH. `akasha ios-app build smilingjenny` exited 0: ** BUILD SUCCEEDED **, widget appex at CFBundleVersion=1, then BUILD_SIM_OK bundle=me.smilingjenny.app, installed. Twelve Swift files compiled into SmilingJennyWidgetExtension, ring and categorize-ring among them, so the one ring both tiles name compiles.\n\n`akasha ios-app build alanwalton` exited 3 with no BUILD_SIM_OK, dying inside alanwalton-ios-add on 'no www/index.html'. That precedes xcodebuild, so none of his Swift was attempted. alanwalton-stage-app wants a react-router build of alanwalton/web/app-capacitor plus the two NEXT_PUBLIC_SUPABASE_* names from web/.env.local; build/client on disk holds assets but no index.html, so there is no bundle for `--www`.\n\nHis Swift is not unproven though: the Mac holds ValuesWidgetExtension.appex built Aug 31 15:42. Of his 21 components, 20 are byte-identical to what this run delivered; only alanwalton-widget-feed differs.",
+} as const satisfies Finding

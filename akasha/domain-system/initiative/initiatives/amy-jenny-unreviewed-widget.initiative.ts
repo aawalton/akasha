@@ -47,7 +47,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The pod runs 283599af2e and the pipe is whole on both sides: `READING_RELAY_SECRET` stands in Alan's sops and in Jenny's, and both relay routes answer 401 to an unauthenticated POST, checked by curl. What is left is the reading itself: `MONARCH_COOKIE` is dead, Monarch 401s, and only Alan at a browser can mint another. The tile is whole and both defects fixed: a cached reading carries when it was written and is let go at 45 minutes, and the yellow rung moved off zero. No Swift compiled here.",
+        "The pipe is whole: `READING_RELAY_SECRET` stands in both sops and both relay routes 401 an unauthenticated POST. What is left is the reading: `MONARCH_COOKIE` is dead and only Alan can mint another. `ios-app build alanwalton` exits 3 with no BUILD_SIM_OK, dying in ios-add on a missing `www/index.html` before xcodebuild ever runs. His widget did compile on the Mac Aug 31 15:42: 20 of 21 components are byte-identical to that appex, and only `alanwalton-widget-feed` has changed since.",
     },
     {
       statement: "Jenny's site deploys from akasha.",
@@ -57,7 +57,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Jenny's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Nothing but the reading is left. Her feed's `LastKnownStore` now carries the moment written and is let go at 45 minutes, landed 4c0085a182, so that finding goes. Both widget programs name `categorize-ring` and `ring`, so one ring draws both tiles. Her route is 7 lines over `module/readout-categorization` and Alan's is still a 44-line copy, filed. Her /api/categorization 401s live in 0.11s. 3741 pass, audit 11 all Capacitor. No Swift compiles: this box has no swiftc.",
+        "Her Swift compiles: `akasha ios-app build smilingjenny` exits 0 with BUILD_SIM_OK — BUILD SUCCEEDED, no errors, no warnings, 12 files into SmilingJennyWidgetExtension, installed to a simulator. `ring` and `categorize-ring` are among them, so the one ring both tiles name is proven. This box has no swiftc but the command hands the build to `macbook`. Nothing but the reading is left. Her route is 7 lines over `module/readout-categorization` and Alan's is still a 44-line copy, filed.",
     },
   ],
   constraints: [
