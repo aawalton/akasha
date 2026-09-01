@@ -28,6 +28,7 @@ export const pagesSystem = {
     "workspace-package/indexes",
     "workspace-package/pages-query",
     "workspace-package/pages-system-service",
+    "workspace-package/pages-ui-store",
     "domain/naming",
     "module/change",
     "module/page-address",

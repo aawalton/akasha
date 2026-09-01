@@ -1,0 +1,38 @@
+{
+  "name": "@akasha/pages-ui-store",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./collection/content-persistence": "./collection/content-persistence/content-persistence.module.code.ts",
+    "./collection/fetch-attach": "./collection/fetch-attach/fetch-attach.module.code.ts",
+    "./collection/page-row": "./collection/page-row/page-row.module.code.ts",
+    "./collection/persistence": "./collection/persistence/persistence.module.code.ts",
+    "./collection/shape-descriptor": "./collection/shape-descriptor/shape-descriptor.module.code.ts",
+    "./collection/store": "./collection/store/store.module.code.ts",
+    "./diagnostics": "./diagnostics/diagnostics.module.code.ts",
+    "./optimistic/optimistic-mutation": "./optimistic/optimistic-mutation/optimistic-mutation.module.code.ts",
+    "./optimistic/plan": "./optimistic/plan/plan.module.code.ts",
+    "./query/id-suffix-pipeline": "./query/id-suffix-pipeline/id-suffix-pipeline.module.code.ts",
+    "./query/regular-pipeline": "./query/regular-pipeline/regular-pipeline.module.code.ts",
+    "./query/view-pipeline": "./query/view-pipeline/view-pipeline.module.code.ts",
+    "./query/view-target-slugs": "./query/view-target-slugs/view-target-slugs.module.code.ts",
+    "./realtime/payload-translator": "./realtime/payload-translator/payload-translator.module.code.ts",
+    "./realtime/shape-meta": "./realtime/shape-meta/shape-meta.module.code.ts",
+    "./report-stall": "./report-stall/report-stall.module.code.ts",
+    "./singleton": "./singleton/singleton.module.code.ts",
+    "./sql/options": "./sql/options/options.module.code.ts"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
+  },
+  "dependencies": {
+    "@akasha/pages-system": "workspace:*",
+    "@shared/pages-access": "workspace:*",
+    "@shared/pages-core": "workspace:*",
+    "@shared/pages-url": "workspace:*",
+    "@shared/supabase-database": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "@tanstack/db": "^0.6.14",
+    "zod": "^4.3.6"
+  }
+}
