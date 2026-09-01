@@ -1,10 +1,10 @@
 "use client"
 
 import { isBlankBlock, type RichDocument } from "@akasha/pages-core/property-types/rich-document"
-import { createBlock, type EditorOp, newBlockId } from "@akasha/pages-core/property-types/rich-document-ops"
+import { createBlock, type EditorOp, newBlockId, textOf } from "@akasha/pages-core/property-types/rich-document-ops"
 import { findBlock, findBlockPath, flattenBlockIds, getBlockAtPath } from "@akasha/pages-core/property-types/rich-document-tree"
 import { type RefObject, useCallback, useState } from "react"
-import { planEnterSplit, textOf } from "@akasha/pages-ui/block-editor/block-type-helpers"
+import { planEnterSplit } from "@akasha/pages-ui/block-editor/block-type-helpers"
 import type { SlashChoice } from "./slash-menu"
 
 export type FocusCaret = "start" | "end" | number
