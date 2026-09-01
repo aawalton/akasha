@@ -1,5 +1,6 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { ran as running } from "@akasha/utils-run/running"
 import type { Workload } from "../web-app-reading/web-app-reading.module.code.ts"
 
 const KUBECTL = "kubectl"
@@ -48,27 +49,13 @@ export type Named = {
 }
 
 export function runKubectl(argv: readonly string[]): Ran {
-  const ran = Bun.spawnSync([KUBECTL, ...argv], { stdout: "pipe", stderr: "pipe" })
-  return {
-    argv,
-    code: ran.exitCode,
-    stdout: new TextDecoder().decode(ran.stdout),
-    stderr: new TextDecoder().decode(ran.stderr),
-  }
+  const done = running([KUBECTL, ...argv])
+  return { argv, code: done.code, stdout: done.out, stderr: done.err }
 }
 
 export function runKubectlOn(argv: readonly string[], said: string): Ran {
-  const ran = Bun.spawnSync([KUBECTL, ...argv], {
-    stdin: new TextEncoder().encode(said),
-    stdout: "pipe",
-    stderr: "pipe",
-  })
-  return {
-    argv,
-    code: ran.exitCode,
-    stdout: new TextDecoder().decode(ran.stdout),
-    stderr: new TextDecoder().decode(ran.stderr),
-  }
+  const done = running([KUBECTL, ...argv], { stdin: new TextEncoder().encode(said) })
+  return { argv, code: done.code, stdout: done.out, stderr: done.err }
 }
 
 function said(line: string, at: string): string {
