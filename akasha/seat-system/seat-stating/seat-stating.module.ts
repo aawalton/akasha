@@ -41,6 +41,14 @@ export const seatStating = {
       statement: "A body matching the file the body would land in is not landed again.",
     },
     {
+      invariantKind: "departure",
+      statement: "A seat's page is landed by a program rather than by an agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat that stopped has its page taken away here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here runs the akasha command as a process.",
     },
