@@ -16,7 +16,7 @@
     "./sms-opt-in": "./sms-opt-in/sms-opt-in.module.code.tsx"
   },
   "dependencies": {
-    "@alanwalton/health-samples-access": "workspace:*",
+    "@akasha/health-samples-access": "workspace:*",
     "@shared/pages-url": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"

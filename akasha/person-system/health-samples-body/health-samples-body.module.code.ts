@@ -1,4 +1,4 @@
-import { HEALTH_METRIC_UNIT, HEALTH_METRICS } from "@alanwalton/health-samples-access/types"
+import { HEALTH_METRIC_UNIT, HEALTH_METRICS } from "@akasha/health-samples-access/sample-shape"
 import { z } from "zod"
 
 export const MAX_INGEST_SAMPLES = 1000
