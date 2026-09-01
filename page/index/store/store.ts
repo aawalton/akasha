@@ -14,7 +14,7 @@ import { exclusively } from "../../../exclusive/exclusive.ts"
 import { canonicalize } from "../../../repo/path/path.ts"
 import { rootBeside } from "../../../repo/roots/roots.ts"
 import { oidsUnder } from "../../../repo/oid/oid.ts"
-import { writeWhole } from "../../../write-whole/write-whole.ts"
+import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 import { pageNameOf } from "../../name/name.ts"
 import {
   type Named,
@@ -82,7 +82,7 @@ export function keepAt(relation: string, target: string, sources: readonly Sourc
     return
   }
   mkdirSync(dir, { recursive: true })
-  writeWhole(at, bodyOf(sources))
+  writeFileAtomicSync(at, bodyOf(sources))
 }
 
 export function updateAt(
@@ -106,7 +106,7 @@ export function keepNamedIn(file: string, held: readonly Named[]): void {
   }
   const sorted = [...held].sort((one, two) => (saidNamed(one) < saidNamed(two) ? -1 : 1))
   mkdirSync(dirname(file), { recursive: true })
-  writeWhole(file, namedBodyOf(sorted))
+  writeFileAtomicSync(file, namedBodyOf(sorted))
 }
 
 export function updateNamedIn(
@@ -173,7 +173,7 @@ export function keepBuiltFrom(marks: BuiltFrom): void {
   fresh.clear()
   const at = builtFromAt()
   mkdirSync(dirname(at), { recursive: true })
-  writeWhole(at, JSON.stringify(marks))
+  writeFileAtomicSync(at, JSON.stringify(marks))
 }
 
 const fresh = new Map<string, boolean>()
@@ -256,7 +256,7 @@ function settleUnder(root: string, want: ReadonlyMap<string, string>): void {
   for (const [at, body] of want) {
     if (bodyOrGone(at) === body) continue
     mkdirSync(dirname(at), { recursive: true })
-    writeWhole(at, body)
+    writeFileAtomicSync(at, body)
   }
   for (const dir of emptied) pruneUpTo(dir, root)
 }
@@ -296,7 +296,7 @@ export function keepPages(stated: Iterable<Stated>): void {
   for (const one of held) lines.push(JSON.stringify(one))
   const at = pagesAt()
   mkdirSync(dirname(at), { recursive: true })
-  writeWhole(at, lines.length === 0 ? "" : `${lines.join("\n")}\n`)
+  writeFileAtomicSync(at, lines.length === 0 ? "" : `${lines.join("\n")}\n`)
   heldPages = { at, stamp: stampOf(at), pages: held }
 }
 
@@ -321,7 +321,7 @@ export function loadPages(): readonly Stated[] {
 export function keepRelations(relations: ReadonlyMap<string, readonly Relation[]>): void {
   const at = relationsAt()
   mkdirSync(dirname(at), { recursive: true })
-  writeWhole(at, JSON.stringify(Object.fromEntries(relations)))
+  writeFileAtomicSync(at, JSON.stringify(Object.fromEntries(relations)))
 }
 
 export function loadRelations(): ReadonlyMap<string, readonly Relation[]> {

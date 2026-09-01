@@ -9,14 +9,14 @@ import { folderIn, PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
 
 export const CODE_DIRS: readonly string[] = [
   "akasha/pages-system/page/markdown-page-type",
+  "akasha/utils-fs/atomic-write",
+  "akasha/utils-fs/missing",
   "cache",
   "during-call",
   "exclusive",
-  "missing",
   "page",
   "refusal",
   "repo",
-  "write-whole",
 ]
 
 export const CODE_SEEDS: readonly string[] = [

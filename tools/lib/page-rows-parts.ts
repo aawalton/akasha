@@ -1,7 +1,7 @@
 import { appendFileSync, readFileSync, statSync } from "node:fs"
 import { rowsPartOf, rowsPartsOf, PART_CEILING_BYTES, partNumberOf } from "../../page/rows-file.ts"
 import { isMissing } from "@akasha/utils-fs/missing"
-import { writeWhole } from "../../write-whole/write-whole.ts"
+import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 
 export const NAMING: readonly string[] = ["slug", "id"]
 
@@ -138,7 +138,7 @@ export function writeOutParts(parts: readonly Part[]): readonly string[] {
   const paths: string[] = []
   for (const part of parts) {
     if (!part.touched && !part.grew) continue
-    if (part.touched) writeWhole(part.path, `${part.lines.join("\n")}\n`)
+    if (part.touched) writeFileAtomicSync(part.path, `${part.lines.join("\n")}\n`)
     else appendFileSync(part.path, `${part.lines.slice(part.from).join("\n")}\n`, "utf8")
     paths.push(part.path)
   }

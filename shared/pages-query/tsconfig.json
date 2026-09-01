@@ -229,8 +229,7 @@
     "../../tools/lib/tracking/keys.ts",
     "../../tools/lib/wake-day.ts",
     "../../tools/page/page-naming.ts",
-    "../../tools/page/page-rows-home.ts",
-    "../../write-whole/write-whole.ts"
+    "../../tools/page/page-rows-home.ts"
   ],
   "exclude": [
     "node_modules",

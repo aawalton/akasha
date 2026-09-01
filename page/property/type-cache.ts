@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { existsSync, mkdirSync, readFileSync, statSync } from "node:fs"
 import { gitCapped } from "../../repo/git/git.ts"
-import { writeWhole } from "../../write-whole/write-whole.ts"
+import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 import type { Property } from "./property.ts"
 import type { FileTree } from "../file-tree.ts"
 import { RUNTIME_MARK } from "../runtime/runtime.ts"
@@ -13,14 +13,14 @@ const CACHE_AT = ".git/pages/resolved/page-type"
 
 export const CODE_AT: readonly string[] = [
   "akasha/pages-system/page/markdown-page-type",
+  "akasha/utils-fs/atomic-write",
+  "akasha/utils-fs/missing",
   "cache",
   "during-call",
   "exclusive",
-  "missing",
   "page",
   "refusal",
   "repo",
-  "write-whole",
 ]
 
 export const ANSWER_SEEDS: readonly string[] = ["page/property/frontmatter.ts", "page/property/type-cache.ts"]
@@ -169,7 +169,7 @@ export function keepAnswer(root: string, slug: string, key: string, answer: Answ
   if (dir === null) return
   try {
     mkdirSync(dir, { recursive: true })
-    writeWhole(`${dir}/${key}.json`, `${JSON.stringify({ version: VERSION, key, answer })}\n`)
+    writeFileAtomicSync(`${dir}/${key}.json`, `${JSON.stringify({ version: VERSION, key, answer })}\n`)
   } catch {
     return
   }

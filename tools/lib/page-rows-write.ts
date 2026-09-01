@@ -21,7 +21,7 @@ import {
 import { forgetRowsPages } from "./page-rows.ts"
 import { duringOneCall } from "../../during-call/during-call.ts"
 import { exclusively } from "../../exclusive/exclusive.ts"
-import { writeWhole } from "../../write-whole/write-whole.ts"
+import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 import { type Written } from "./page-write.ts"
 import { commitAll } from "./page-write-commit.ts"
 import { whereFor, type Where } from "./page-write-where.ts"
@@ -400,7 +400,7 @@ function rowRemoved(
       const standing = standingAt(part.lines, named)
       if (standing < 0) continue
       const next = part.lines.filter((_one, index) => index !== standing)
-      writeWhole(part.path, next.length === 0 ? "" : `${next.join("\n")}\n`)
+      writeFileAtomicSync(part.path, next.length === 0 ? "" : `${next.join("\n")}\n`)
       return part.path
     }
     return null

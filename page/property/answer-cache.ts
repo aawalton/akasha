@@ -1,5 +1,5 @@
 import { mkdirSync, readFileSync, statSync } from "node:fs"
-import { writeWhole } from "../../write-whole/write-whole.ts"
+import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 
 const GIT_DIR = ".git"
 
@@ -63,7 +63,7 @@ export function answeredWhole<T, D>(
   if (keep !== undefined && !keep(made)) return made
   try {
     mkdirSync(dir, { recursive: true })
-    writeWhole(path, `${JSON.stringify({ version: VERSION, mark, data: put(made) })}\n`)
+    writeFileAtomicSync(path, `${JSON.stringify({ version: VERSION, mark, data: put(made) })}\n`)
   } catch {
     return made
   }
