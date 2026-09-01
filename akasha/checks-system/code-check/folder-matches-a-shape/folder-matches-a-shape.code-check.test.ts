@@ -109,7 +109,7 @@ function idFor(n: number): string {
   return `01a04e00-0000-7000-8000-0000000000${String(n).padStart(2, "0")}`
 }
 
-function stands(
+function filed(
   root: string,
   path: string,
   id: string,
@@ -135,7 +135,7 @@ function rooted(): string {
   declaring(root, "slug", { pageTypeSlug: "text-property", unique: "page-type" })
   declaring(root, "code", { pageTypeSlug: "file-property", unique: null })
   const shape = "akasha/s/no-strays.folder-shape.ts"
-  stands(
+  filed(
     root,
     shape,
     idFor(1),
@@ -148,7 +148,7 @@ function rooted(): string {
   const declares =
     '[{ pagePropertySlug: "id", required: true, many: false },' +
     ' { pagePropertySlug: "slug", required: true, many: false }]'
-  stands(
+  filed(
     root,
     "akasha/t/page.page-type.ts",
     idFor(5),
@@ -162,7 +162,7 @@ function rooted(): string {
     [3, "folder-shape"],
     [4, "file-property"],
   ] as [number, string][]) {
-    stands(
+    filed(
       root,
       `akasha/t/${slug}.page-type.ts`,
       idFor(n),
