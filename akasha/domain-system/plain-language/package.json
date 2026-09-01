@@ -5,6 +5,7 @@
   "exports": {
     ".": "./plain-grammar/plain-grammar.module.code.ts",
     "./parsing": "./phrase-parsing/phrase-parsing.module.code.ts",
+    "./shapes": "./shape-reading/shape-reading.module.code.ts",
     "./words": "./word-classing/word-classing.module.code.ts"
   }
 }

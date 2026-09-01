@@ -6,7 +6,12 @@ export const plainLanguage = {
   slug: "plain-language",
   definition: "whether a sentence is written in plain language",
   manifest: "json",
-  partSlugs: ["module/word-classing", "module/phrase-parsing", "module/plain-grammar"],
+  partSlugs: [
+    "module/word-classing",
+    "module/phrase-parsing",
+    "module/shape-reading",
+    "module/plain-grammar",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -14,7 +19,7 @@ export const plainLanguage = {
     },
     {
       invariantKind: "departure",
-      statement: "A construction is in the grammar only where Alan has called it plain.",
+      statement: "A construction Alan has refused is out of the plain grammar.",
     },
     {
       invariantKind: "departure",

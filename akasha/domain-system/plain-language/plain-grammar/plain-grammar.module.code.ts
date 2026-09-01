@@ -1,46 +1,75 @@
-import type { Parsed } from "../phrase-parsing/phrase-parsing.module.code.ts"
+import type { Grammar, Parsed } from "../phrase-parsing/phrase-parsing.module.code.ts"
 import { grammarOf, parsed } from "../phrase-parsing/phrase-parsing.module.code.ts"
+import type { Shape } from "../shape-reading/shape-reading.module.code.ts"
+import { shapesIn } from "../shape-reading/shape-reading.module.code.ts"
 import { classesOf, wordsIn } from "../word-classing/word-classing.module.code.ts"
 
 export const START = "S"
 
-export const PLAIN: readonly string[] = [
-  "S -> NP VP",
-  "S -> ADV S",
+export type Refused = {
+  readonly slug: string
+  readonly reason: string | null
+  readonly grammar: Grammar
+}
 
-  "NP -> NOM | DET NOM | QUANT NOM | SELF | INDEF",
-  "NP -> NP PP",
-  "NOM -> N | ADJ NOM | N NOM | VING NOM | VEN NOM",
+export type Grammars = {
+  readonly plain: Grammar
+  readonly refused: readonly Refused[]
+}
 
-  "PP -> PREP NP",
-
-  "VP -> V | V NP | V PP",
-  "VP -> BE NP | BE ADJP | BE PP",
-  "VP -> BE VEN | BE VEN PP",
-  "VP -> BE NEG NP | BE NEG ADJP | BE NEG VEN",
-  "VP -> MODAL VB | MODAL BE NP | MODAL BE ADJP | MODAL BE VEN",
-  "VP -> AUX VEN | AUX VEN NP",
-  "VP -> AUX NEG VB",
-  "VP -> VP PP",
-  "VP -> ADV VP | VP ADV",
-  "VB -> V | V NP | V PP",
-
-  "ADJP -> ADJ | ADV ADJ",
-]
-
-const GRAMMAR = grammarOf(PLAIN, START)
+export function grammarsFrom(shapes: readonly Shape[]): Grammars {
+  const admitted = shapes.filter((one) => one.allowed !== false).flatMap((one) => one.rules)
+  const refused = shapes
+    .filter((one) => one.allowed === false)
+    .map((one) => ({
+      slug: one.slug,
+      reason: one.reason,
+      grammar: grammarOf([...admitted, ...one.rules], START),
+    }))
+  return { plain: grammarOf(admitted, START), refused }
+}
 
 export type Said = Parsed & {
   readonly words: readonly string[]
   readonly stoppedOn: string | null
+  readonly shape: string | null
+  readonly reason: string | null
 }
 
-export function plainly(sentence: string): Said {
+function shapeFor(grammars: Grammars, reading: readonly (readonly string[])[]): Refused | null {
+  for (const one of grammars.refused) {
+    if (parsed(one.grammar, reading).plain) return one
+  }
+  return null
+}
+
+export function plainlyBy(grammars: Grammars, sentence: string): Said {
   const words = wordsIn(sentence)
-  const said = parsed(GRAMMAR, words.map(classesOf))
+  const reading = words.map(classesOf)
+  const said = parsed(grammars.plain, reading)
+  if (said.plain) {
+    return { ...said, words, stoppedOn: null, shape: null, reason: null }
+  }
+  const one = shapeFor(grammars, reading)
   return {
     ...said,
     words,
-    stoppedOn: said.plain ? null : (words[said.stoppedAt] ?? null),
+    stoppedOn: words[said.stoppedAt] ?? null,
+    shape: one?.slug ?? null,
+    reason: one?.reason ?? null,
   }
+}
+
+const HELD = new Map<string, Grammars>()
+
+export function grammarsIn(root: string): Grammars {
+  const found = HELD.get(root)
+  if (found !== undefined) return found
+  const made = grammarsFrom(shapesIn(root))
+  HELD.set(root, made)
+  return made
+}
+
+export function plainlyIn(root: string, sentence: string): Said {
+  return plainlyBy(grammarsIn(root), sentence)
 }
