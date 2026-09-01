@@ -3,7 +3,7 @@ import { symlinkSync } from "node:fs"
 import { join } from "node:path"
 import { put } from "@akasha/testing-system/putting"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
-import { akashaStandsIn, countsIn, linesOf, shareOf } from "./repo-measuring.module.code.ts"
+import { akashaUnder, countsIn, linesOf, shareOf } from "./repo-measuring.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -67,6 +67,6 @@ test("a root holding no akasha folder is known to hold none", () => {
   const root = scratch.rootFor("repo-measuring-bare-")
   put(root, "tools/one.ts", "one\n")
 
-  expect(akashaStandsIn(root)).toBe(false)
-  expect(akashaStandsIn(repoWith())).toBe(true)
+  expect(akashaUnder(root)).toBe(false)
+  expect(akashaUnder(repoWith())).toBe(true)
 })

@@ -25,7 +25,7 @@ function filesUnder(at: string): number {
   return found
 }
 
-export function akashaStandsIn(root: string): boolean {
+export function akashaUnder(root: string): boolean {
   return existsSync(join(root, AKASHA_DIR))
 }
 

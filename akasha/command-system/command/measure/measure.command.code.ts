@@ -1,7 +1,7 @@
 import { linesOf, readingsIn } from "@akasha/agents-system/claude-account-measuring"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import {
-  akashaStandsIn,
+  akashaUnder,
   countsIn,
   linesOf as repoLinesOf,
 } from "./repo-measuring/repo-measuring.module.code.ts"
@@ -32,7 +32,7 @@ function measureClaudeAccounts(given: Given): Answer {
 }
 
 function measureRepo(given: Given): Answer {
-  if (!akashaStandsIn(given.root)) {
+  if (!akashaUnder(given.root)) {
     return {
       report: [],
       refusals: [
