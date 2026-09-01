@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Both sites run 0ce4248bc1 and both built, which proves the routes. module/readout-categorization is module/readout-serving now, the last place the package named one group; 11 files outside akasha were repointed by hand, since akasha move repoints only what the index carries. Stoplight endpoints refuse 503. Widget payload checked by hand and lines up. Kills looked over at 43 min clean, past the old 22-34 min gap, before this deploy reset the window. The reading sits beside its page, gitignored.",
+        "Met on every link anyone here can observe; what is left is Alan looking at his phone. Both sites run 0ce4248bc1 and both built. iOS: BUILD SUCCEEDED and BUILD_SIM_OK, ValuesWidgetExtension carrying alanwalton-categorize-widget. Payload checked by hand against the Swift and lines up; relay carries 9. readout-categorization is readout-serving, and no code file in the package names a readout, scale or group. Kills looked over at 43 min clean before a deploy reset that window.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
