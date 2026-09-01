@@ -1,5 +1,9 @@
 import { createRequire } from "node:module"
 import { basename, join } from "node:path"
+import {
+  NAMING_NONE,
+  type Naming,
+} from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { edgesIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
 import {
@@ -13,6 +17,7 @@ import {
   listedByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
+import { reachingIn } from "../../../pages-system/indexes/package-reaching/package-reaching.module.code.ts"
 import { type Known, knownIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -22,7 +27,7 @@ import {
   namedIn,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { bodyOf, FILES, input } from "../../change-walking/change-walking.module.code.ts"
+import { bodyOf, FILES, input, textIn } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
 
@@ -66,9 +71,14 @@ export function reachedFolders(target: string, importer: string): readonly strin
   return found
 }
 
-export function edgesOf(root: string, path: string, bytes: Uint8Array | null): ReadonlySet<string> {
+export function edgesOf(
+  root: string,
+  path: string,
+  bytes: Uint8Array | null,
+  naming: Naming = NAMING_NONE
+): ReadonlySet<string> {
   if (bytes === null) return new Set<string>()
-  return new Set<string>(edgesIn(bodyOf({ root, path, bytes }), path))
+  return new Set<string>(edgesIn(bodyOf({ root, path, bytes }), path, naming))
 }
 
 export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
@@ -124,12 +134,15 @@ export function listedFiles(given: string | Reading, change: Change): readonly s
   return [...found].sort()
 }
 
-export function foldersTouchedBy(change: Change): ReadonlySet<string> {
+export function foldersTouchedBy(
+  change: Change,
+  naming: Naming = NAMING_NONE
+): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of change.changed) {
     for (const at of ancestorsOf(one)) found.add(at)
-    const now = edgesOf(change.root, one, change.after(one))
-    const before = edgesOf(change.root, one, change.before(one))
+    const now = edgesOf(change.root, one, change.after(one), naming)
+    const before = edgesOf(change.root, one, change.before(one), naming)
     for (const target of new Set([...now, ...before])) {
       if (now.has(target) === before.has(target)) continue
       for (const at of reachedFolders(target, one)) found.add(at)
@@ -138,9 +151,11 @@ export function foldersTouchedBy(change: Change): ReadonlySet<string> {
   return found
 }
 
-function enteringOf(change: Change): (folder: string, path: string) => boolean {
+function enteringOf(change: Change, naming: Naming): (folder: string, path: string) => boolean {
   const now = new Map<string, ReadonlySet<string>>()
-  for (const one of change.changed) now.set(one, edgesOf(change.root, one, change.after(one)))
+  for (const one of change.changed) {
+    now.set(one, edgesOf(change.root, one, change.after(one), naming))
+  }
   return (folder, path) => {
     const from = new Set<string>(importersOf(change.root, path))
     for (const [one, edges] of now) {
@@ -195,6 +210,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const stated = filePropertiesAt(shadow.reading)
   const fileProperties = new Set<string>(stated.keys())
   const filing = namesFiling(stated)
+  const naming = reachingIn(everyPath(shadow.reading), stated, (path) => textIn(change, path))
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
@@ -207,9 +223,9 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     return held.has(pageTypeSlug)
   }
   const files = listedFiles(shadow.reading, change)
-  const entering = enteringOf(change)
+  const entering = enteringOf(change, naming)
   const found: Judged[] = []
-  for (const folder of [...foldersTouchedBy(change)].sort()) {
+  for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
     const here = files.filter((one) => folderOf(one) === folder)
     if (here.length === 0) continue
     const deep = files.filter((one) => one.startsWith(`${folder}/`) && folderOf(one) !== folder)

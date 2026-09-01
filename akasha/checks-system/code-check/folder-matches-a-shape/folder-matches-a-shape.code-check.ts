@@ -28,6 +28,15 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A reach written as the name a manifest states counts as one into the folder it lands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those manifests are read as the change leaves them.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every folder above a changed path is judged.",
     },
     {
