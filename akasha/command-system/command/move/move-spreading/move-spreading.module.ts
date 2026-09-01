@@ -44,6 +44,10 @@ export const moveSpreading = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder holding a file git is told to ignore is moved rather than refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path git cannot be asked about is refused rather than read as holding nothing.",
     },
     {

@@ -31,6 +31,7 @@ export const move = {
     "what addresses a renamed page by its slug is repointed in the same commit.",
     "the files standing beside what you name go with it.",
     "a folder you name carries every file git holds under it, each keeping its place beneath it.",
+    "a file git is told to ignore goes as a sidecar rather than as folder contents.",
     "the files naming what moves are repointed in the same commit.",
     "a package manifest naming a file that moves is repointed with it.",
     "a manifest that moves states its ways in from the folder it arrives in.",
@@ -73,6 +74,15 @@ export const move = {
       invariantKind: "departure",
       statement:
         "A folder holding a file git does not track is refused rather than moved without that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding a file git is told to ignore is moved rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file git is told to ignore travels as a sidecar rather than as folder contents.",
     },
     {
       invariantKind: "departure",

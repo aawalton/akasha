@@ -123,7 +123,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   git(root, ["commit", "--quiet", "-m", "first"])
   writeFileSync(
     join(root, ".git/info/exclude"),
-    "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n"
+    "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n*.uncommitted.ts\n"
   )
   admitting(root)
   return root
@@ -254,8 +254,16 @@ export const NESTED_AT = "akasha/far/one/under/nested.module.code.ts"
 
 export const LOOSE = "akasha/one/loose.module.ts"
 
+export const UNSAID_UNDER = "akasha/far/one/held.module.uncommitted.ts"
+
 export function folderWorld(): string {
   return rebuilt(repoWith({ [HELD]: PAGE, [HOLDER]: CODE, [NESTED_HELD]: OTHER, [TARGET]: OTHER }))
+}
+
+export function folderUnsaid(): string {
+  const root = folderWorld()
+  put(root, UNSAID, VALUES)
+  return root
 }
 
 export function bareDir(root: string, path: string): undefined {

@@ -9,6 +9,7 @@ import {
   FOLDER,
   FOLDER_AT,
   FOLDER_PAIR,
+  folderUnsaid,
   folderWorld,
   git,
   givenIn,
@@ -24,6 +25,9 @@ import {
   PAGE,
   scratch,
   told,
+  UNSAID,
+  UNSAID_UNDER,
+  VALUES,
 } from "../move.command.test-fixtures.ts"
 import type { Spread, Spreading } from "./move-spreading.module.code.ts"
 import { expandedIn, othersUnder, spreadSaid } from "./move-spreading.module.code.ts"
@@ -96,6 +100,20 @@ test("a folder holding a file git does not track is refused", () => {
   const said = refused(opened(root, FOLDER, FOLDER_AT))
   expect(said).toContain("git does not track")
   expect(said).toContain(LOOSE)
+})
+
+test("a sidecar git is told to ignore draws no refusal, being no file left behind", () => {
+  const root = folderUnsaid()
+  expect(othersUnder(root, FOLDER)).toEqual([])
+  expect("refusals" in opened(root, FOLDER, FOLDER_AT)).toBe(false)
+})
+
+test("a folder carries the sidecar git is told to ignore to the folder it arrives in", () => {
+  const root = folderUnsaid()
+  const said = move(FOLDER_PAIR, givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(there(root, UNSAID)).toBe(false)
+  expect(bodyIn(root, UNSAID_UNDER)).toBe(VALUES)
 })
 
 test("one refusal stops the whole call rather than the pair that drew it", () => {
