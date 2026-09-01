@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Judged, Judging } from "@akasha/checks-system/judging"
+import type { Judged, Judging } from "@akasha/checks/judging"
 import { textIn, textOf } from "@akasha/code-system/body-text"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages-system/change"

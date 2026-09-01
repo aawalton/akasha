@@ -1,11 +1,11 @@
 import { createRequire } from "node:module"
 import { join, relative } from "node:path"
-import type { Judging } from "@akasha/checks-system/judging"
+import type { Judging } from "@akasha/checks/judging"
 import type { Indexing } from "@akasha/indexes/indexing"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 
-const CHECKING_IN = "@akasha/checks-system/checking"
+const CHECKING_IN = "@akasha/checks/checking"
 
 const INDEXING_IN = "@akasha/indexes/indexing"
 

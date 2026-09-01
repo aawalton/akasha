@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Gathered } from "@akasha/checks-system/checking"
-import type { Judged, Judging } from "@akasha/checks-system/judging"
+import type { Gathered } from "@akasha/checks/checking"
+import type { Judged, Judging } from "@akasha/checks/judging"
 import type { Change } from "@akasha/pages-system/change"
 import type { Given } from "../../calling/calling.module.code.ts"
 import {

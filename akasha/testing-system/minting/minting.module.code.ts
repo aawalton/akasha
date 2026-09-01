@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Phase } from "@akasha/checks-system/checking"
+import type { Phase } from "@akasha/checks/checking"
 import { idFiled, listedFiled } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 

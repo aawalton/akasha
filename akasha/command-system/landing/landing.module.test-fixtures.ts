@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "@akasha/checks-system/judging"
+import type { Judging } from "@akasha/checks/judging"
 import { said as gitIn } from "@akasha/git/git-running"
 import { bodyOf, thePage } from "@akasha/indexes/indexing/testing"
 import { id as idPage } from "@akasha/pages-system/page/id"

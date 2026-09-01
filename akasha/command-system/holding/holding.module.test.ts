@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "@akasha/checks-system/judging"
+import type { Judging } from "@akasha/checks/judging"
 import { said as git } from "@akasha/git/git-running"
 import { idFiledIn, listedFiledIn } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"

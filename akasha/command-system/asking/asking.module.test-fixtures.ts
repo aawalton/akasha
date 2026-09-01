@@ -1,6 +1,6 @@
 import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Phase } from "@akasha/checks-system/checking"
+import type { Phase } from "@akasha/checks/checking"
 import { warrantsSeeded } from "@akasha/context-system/warranting/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"

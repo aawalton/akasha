@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judged, Judging } from "@akasha/checks-system/judging"
+import type { Judged, Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code-system/code-format"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "@akasha/checks-system/judging"
+import type { Judging } from "@akasha/checks/judging"
 import { rebuiltFrom } from "@akasha/indexes/indexing"
 import { butTheStamp } from "@akasha/indexes/indexing/testing"
 import {

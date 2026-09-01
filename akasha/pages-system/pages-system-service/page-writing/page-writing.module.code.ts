@@ -1,4 +1,4 @@
-import type { Judging } from "@akasha/checks-system/judging"
+import type { Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code-system/code-format"
 import { type FileEdit, landing } from "@akasha/command-system/landing"
 import { mintingOnto } from "@akasha/command-system/value-minting"
