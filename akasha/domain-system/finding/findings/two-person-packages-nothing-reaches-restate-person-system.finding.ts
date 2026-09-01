@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const twoPersonPackagesNothingReachesRestatePersonSystem = {
+  id: "01a05c7d-0f6f-7e73-9da7-ff9373944d9c",
+  pageTypeSlug: "finding",
+  slug: "two-person-packages-nothing-reaches-restate-person-system",
+  domainSlug: "workspace-package/person-system",
+  claim:
+    "`shared/person-document` and `shared/person-target` are reached by nothing in the tree, and `akasha/person-system` already holds both ideas. PersonDocument's four fields are the `person` page type's slug, `answered-by`, `phone` and `email-address`. person-target's `*`-suffix grammar is a second grammar for a target, and `person-access-target` states that `all` is the only pattern an access takes. Moving either in would carry dead code into akasha, and the second a grammar akasha has refused.",
+  evidence:
+    "Counted by resolving every import specifier in the tree against the file that wrote it, so a relative reach counts as well as a bare one. Both packages come back with zero inbound from any file outside themselves.\n\nThe only mentions outside their own folders are the root `package.json` workspaces array, `tools/lib/code-audit-ast-unused/ast-unused.shared.config.json`, and the legacy `pages/package/shared-person-*.package.md`. `tools/aw/init/bash-tmux.ts` imports a local `./person-document.ts`, a different file, which a literal-path grep counts as a reach and which is not one.\n\nperson-document is one file of 6 lines holding one interface: slug, persona, phone, email. `akasha/person-system/person/person.page-type.ts` carries slug from `page`, plus `answered-by`, `phone`, `email-address` and `supabase-auth-user-id`.\n\nperson-target is one file of 17 lines holding three functions over a `*` suffix. `akasha/person-system/route-access` does that job with `grantsRoute`, where `all` is the only pattern, and `person-access-target.text-property.ts` states it as an invariant. Commit 0ee2ac3a73 is titled in part `with no second grammar`.\n\nperson-target's manifest names `main` and `types` at `./src/index.ts`, which does not exist; only `src/target.ts` does. Its `test` script names `src/*.unit.test.ts` and no test file stands. Commit 3b610a8844 removed person-document's unit test.\n\nThe call taken in Alan's absence was to move neither and delete neither. Moving them would put dead code into akasha and, for person-target, a grammar akasha bars. Deleting them is an ablation nobody asked for, and both stand one revert away in this repository's history.",
+} as const satisfies Finding
