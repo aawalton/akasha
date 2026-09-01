@@ -118,7 +118,7 @@ export function expandedIn(root: string, pairs: readonly Pair[]): Spreading {
 export function spreadSaid(
   spread: Spread,
   held: number,
-  pruned: readonly string[],
+  cleared: readonly string[],
   dry: boolean
 ): readonly string[] {
   const report = spread.folders.map(
@@ -131,12 +131,12 @@ export function spreadSaid(
         : `${counted(held, "file")} under a folder you named went with it`
     )
   }
-  if (pruned.length > 0) {
-    const said = pruned.join(", ")
+  if (cleared.length > 0) {
+    const said = cleared.join(", ")
     report.push(
       dry
-        ? `these would be left empty, and git holds no empty folder — ${said}`
-        : `these were left empty, and git holds no empty folder — ${said}`
+        ? `these would be left empty and would go, since git holds no empty folder — ${said}`
+        : `these were left empty and went, since git holds no empty folder — ${said}`
     )
   }
   return report

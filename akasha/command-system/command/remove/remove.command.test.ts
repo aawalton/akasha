@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { refusing } from "@akasha/testing-system/minting"
-import { there } from "@akasha/testing-system/putting"
+import { put, there } from "@akasha/testing-system/putting"
 import { readingIn, recordRead } from "../../reading/reading.module.code.ts"
-import { emptiedBy, namedIn, pruneEmptied, remove, wouldEmpty } from "./remove.command.code.ts"
+import { namedIn, remove } from "./remove.command.code.ts"
 import {
   BESIDE,
   BODY,
@@ -274,14 +274,17 @@ test("breaking the glass with no reason, or alongside a dry run, is refused", ()
   expect(there(root, HELD)).toBe(true)
 })
 
-test("what a dry run says would be emptied is what the removal empties", () => {
-  const root = repoWith({ [DEEP]: BODY, "akasha/one/kept.module.ts": BODY })
-  const gone = [DEEP]
-  const said = wouldEmpty(root, gone)
-  expect(said).toEqual(["akasha/one/deep"])
-  expect(pruneEmptied(root, gone)).toEqual([])
-  rmSync(join(root, gone[0] ?? ""))
-  expect(pruneEmptied(root, gone)).toEqual([...said])
+test("a directory left holding a file git does not track is kept, and the removal says so", () => {
+  const root = repoWith({ [DEEP]: BODY, [KEPT]: BODY })
+  const loose = "akasha/one/deep/unsaid.txt"
+  put(root, loose, "work in progress\n")
+  const said = remove(naming(DEEP), givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(there(root, DEEP)).toBe(false)
+  expect(there(root, loose)).toBe(true)
+  expect(there(root, "akasha/one/deep")).toBe(true)
+  expect(said.report.join("\n")).not.toContain("git holds no empty directory")
 })
 
 test("a message is read from a file and trimmed, and stated twice over or empty is refused", () => {
@@ -303,11 +306,6 @@ test("a message is read from a file and trimmed, and stated twice over or empty 
   const said = remove([...naming(HELD), "--message-file", at], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("taken by a file")
-})
-
-test("the directories a removal could empty stop at the akasha folder", () => {
-  expect(emptiedBy(["akasha/one/deep/held.ts"])).toEqual(["akasha/one/deep", "akasha/one"])
-  expect(emptiedBy(["akasha/held.ts"])).toEqual([])
 })
 
 test("a path is read against the repository root, wherever the call was made", () => {

@@ -9,12 +9,12 @@ import { counted, landingAsked, textOf } from "../../asking/asking.module.code.t
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
+import { wouldClear } from "../../folder-clearing/folder-clearing.module.code.ts"
 import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { linkingsIn, reachedOver } from "../../package-linking/package-linking.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
-import { pruneEmptied, wouldEmpty } from "../remove/remove.command.code.ts"
 import { glassIn, messageIn, pathInside } from "../write/write.command.code.ts"
 import { FROM, pairsIn, TO, VALUED } from "./move-arguing/move-arguing.module.code.ts"
 import { manifestingOver } from "./move-manifesting/move-manifesting.module.code.ts"
@@ -211,7 +211,7 @@ function carrying(
   reached: Reached,
   dry: boolean,
   spread: Spread,
-  pruned: readonly string[]
+  cleared: readonly string[]
 ): readonly string[] {
   const own = sides.filter((one) => !spread.under.has(one.from))
   const report = own
@@ -231,7 +231,7 @@ function carrying(
         : `these stood beside what you named and went with it — ${said}`
     )
   }
-  report.push(...spreadSaid(spread, sides.length - own.length, pruned, dry))
+  report.push(...spreadSaid(spread, sides.length - own.length, cleared, dry))
   if (reached.repointed.length === 0) {
     report.push("no file naming what moved needed repointing")
   } else {
@@ -382,7 +382,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     unmoved: [],
     read: base,
     carries: uncommitted,
-    saying: () => carrying(sided.sides, reached, false, spread, pruneEmptied(root, gone)),
+    saying: (landed) => carrying(sided.sides, reached, false, spread, landed.cleared),
   }
   const relink = reachedOver(root, linkingsIn(moved, bodyText))
   let landed: Answer
@@ -395,6 +395,6 @@ export function move(argv: readonly string[], given: Given): Answer {
   if (read.dryRun || landed.code !== 0) relink()
   if (landed.code === 0 && !read.dryRun) carryReadings(root, carries)
   if (landed.code !== 0 || !read.dryRun) return landed
-  const would = carrying(sided.sides, reached, true, spread, wouldEmpty(root, gone))
+  const would = carrying(sided.sides, reached, true, spread, wouldClear(root, gone))
   return answering([...would, ...landed.report], [], 0)
 }

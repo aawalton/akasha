@@ -105,6 +105,30 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder left holding nothing by a path taken away is cleared off the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder left holding nothing by a path carried away is cleared off the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folders are cleared after the commit rather than before the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change that commits nothing clears the folders its paths left empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folders cleared are answered alongside what was written and what was taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that throws clears no folder.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A hold spans writing and indexing and carrying and committing.",
     },
     {

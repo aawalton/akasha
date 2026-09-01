@@ -86,7 +86,7 @@ test("a landing that threw before its commit puts back what it wrote", () => {
 })
 
 test("a commit that could not be named is said to stand rather than said to be nothing", () => {
-  const held = { base: "held", wrote: ["akasha/two.ts"], took: [], noted: [] }
+  const held = { base: "held", wrote: ["akasha/two.ts"], took: [], noted: [], cleared: [] }
   expect(committedLine({ ...held, commit: UNNAMED })).toBe(
     "committed — the commit could not be named"
   )

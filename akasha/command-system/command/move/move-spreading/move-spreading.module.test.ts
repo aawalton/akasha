@@ -132,7 +132,7 @@ test("a spread is said as its folders, a count of what went under them, and what
   expect(said).toEqual([
     `${FOLDER} moved to ${FOLDER_AT}`,
     "1 file under a folder you named went with it",
-    `these were left empty, and git holds no empty folder — ${FOLDER}`,
+    `these were left empty and went, since git holds no empty folder — ${FOLDER}`,
   ])
 })
 
@@ -146,7 +146,7 @@ test("a dry spread says the same in the tense of what would happen", () => {
   expect(said).toEqual([
     `${FOLDER} would move to ${FOLDER_AT}`,
     "2 files under a folder you named would go with it",
-    `these would be left empty, and git holds no empty folder — ${FOLDER}`,
+    `these would be left empty and would go, since git holds no empty folder — ${FOLDER}`,
   ])
 })
 

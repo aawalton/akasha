@@ -25,6 +25,7 @@ export const commandSystem = {
     "module/change-freshness",
     "module/value-minting",
     "module/package-linking",
+    "module/folder-clearing",
   ],
   invariants: [
     {

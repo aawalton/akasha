@@ -21,6 +21,7 @@ export const write = {
     "--file-path and --content-file repeat in pairs, so several files land in one commit.",
     "a body is a file, never text said on the command line.",
     "the files standing beside a path given to --remove go with it.",
+    "a folder left holding nothing by what --remove takes is cleared off the disk.",
   ],
   invariants: [
     {
@@ -90,6 +91,10 @@ export const write = {
     {
       invariantKind: "departure",
       statement: "A path taken away is forgotten by the record for every agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder left holding nothing by a path taken away is cleared off the disk.",
     },
     {
       invariantKind: "absence",

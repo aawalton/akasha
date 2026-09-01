@@ -1,11 +1,12 @@
-import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
-import { dirname, join, resolve } from "node:path"
+import { existsSync, statSync } from "node:fs"
+import { join, resolve } from "node:path"
 import { besideAll } from "@akasha/pages-system/page-beside"
 import { said as saying } from "@akasha/utils-run/running"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import { BREAK_GLASS, DRY_RUN, landingAsked } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
+import { wouldClear } from "../../folder-clearing/folder-clearing.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
@@ -78,53 +79,6 @@ export function trackedUnder(root: string, path: string): readonly string[] | nu
   } catch {
     return null
   }
-}
-
-export function emptiedBy(gone: readonly string[]): readonly string[] {
-  const dirs = new Set<string>()
-  for (const path of gone) {
-    let dir = dirname(path)
-    while (dir.startsWith(INSIDE)) {
-      dirs.add(dir)
-      dir = dirname(dir)
-    }
-  }
-  return [...dirs].sort((one, two) => two.split("/").length - one.split("/").length)
-}
-
-export function wouldEmpty(root: string, gone: readonly string[]): readonly string[] {
-  const taken = new Set(gone)
-  const emptied = new Set<string>()
-  const pruned: string[] = []
-  for (const dir of emptiedBy(gone)) {
-    const at = join(root, dir)
-    try {
-      if (!existsSync(at)) continue
-      const left = readdirSync(at).filter((name) => {
-        const path = dir === "" ? name : `${dir}/${name}`
-        return !taken.has(path) && !emptied.has(path)
-      })
-      if (left.length > 0) continue
-    } catch {
-      continue
-    }
-    emptied.add(dir)
-    pruned.push(dir)
-  }
-  return pruned
-}
-
-export function pruneEmptied(root: string, gone: readonly string[]): readonly string[] {
-  const pruned: string[] = []
-  for (const dir of emptiedBy(gone)) {
-    const at = join(root, dir)
-    try {
-      if (!existsSync(at) || readdirSync(at).length > 0) continue
-      rmdirSync(at)
-      pruned.push(dir)
-    } catch {}
-  }
-  return pruned
 }
 
 type Opened = {
@@ -214,20 +168,19 @@ function wouldGo(
   if (beside.length > 0) {
     report.push(`these stand beside what you named and would go with it — ${beside.join(", ")}`)
   }
-  const pruned = wouldEmpty(root, paths)
-  if (pruned.length > 0) {
+  const cleared = wouldClear(root, paths)
+  if (cleared.length > 0) {
     report.push(
-      `these would be left empty by the removal, and git holds no empty directory — ${pruned.join(", ")}`
+      `these would be left empty by the removal and would go, since git holds no empty directory — ${cleared.join(", ")}`
     )
   }
   return report
 }
 
 function wentWith(
-  root: string,
-  paths: readonly string[],
   under: readonly string[],
-  beside: readonly string[]
+  beside: readonly string[],
+  cleared: readonly string[]
 ): readonly string[] {
   const report: string[] = []
   if (under.length > 0) {
@@ -236,9 +189,10 @@ function wentWith(
   if (beside.length > 0) {
     report.push(`these stood beside what you named and went with it — ${beside.join(", ")}`)
   }
-  const pruned = pruneEmptied(root, paths)
-  if (pruned.length > 0) {
-    report.push(`emptied by the removal, and git holds no empty directory — ${pruned.join(", ")}`)
+  if (cleared.length > 0) {
+    report.push(
+      `these were left empty by the removal and went, since git holds no empty directory — ${cleared.join(", ")}`
+    )
   }
   return report
 }
@@ -283,7 +237,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
     saying: (landed) => [
       ...landed.took.map((one) => `${one} taken away`),
       ...already,
-      ...wentWith(root, paths, held.under, beside),
+      ...wentWith(held.under, beside, landed.cleared),
     ],
   }
   const said = landingAsked({ ...given, root }, asked)

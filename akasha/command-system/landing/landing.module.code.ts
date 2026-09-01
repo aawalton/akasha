@@ -8,6 +8,7 @@ import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed } from "../committing/committing.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
+import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
@@ -35,6 +36,7 @@ export type Landed = {
   readonly wrote: readonly string[]
   readonly took: readonly string[]
   readonly noted: readonly string[]
+  readonly cleared: readonly string[]
 }
 
 export type Refused = {
@@ -296,7 +298,9 @@ export function landing(
       const back = carriedOnto(root, carries)
       try {
         const commit = committed(root, put.wrote, put.took, message, writer)
-        return { base, commit, wrote: put.wrote, took: put.took, noted }
+        const gone = [...put.took, ...carries.map((one) => one.from)]
+        const cleared = clearedOff(root, gone)
+        return { base, commit, wrote: put.wrote, took: put.took, noted, cleared }
       } catch (thrown) {
         back()
         throw thrown
