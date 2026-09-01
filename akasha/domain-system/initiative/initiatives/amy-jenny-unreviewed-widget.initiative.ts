@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Build 197 carries the refactor onto his phone and the app hangs on the loading skeleton, so he cannot sign in. Pod `web-56d55fb66-99rmn` logs one thing only: `the page index was not built over akasha`, 31 times in six minutes. The dead `page/index` is what blocks the widget. Alan called for deleting `.git/pages` and the old index code so the breaks show as TS errors; `.git/pages`, 110M over 11081 files, is moved aside. Ten files import the old index, three of them `page/required-reading`.",
+        "The app hangs on `HydrateFallback` (app-capacitor/root.tsx:121) because hydration throws. alanwalton.com answers `TypeError: (0,w.fileURLToPath) is not a function` at `assets/here-*.js`. `checkout-roots.module.code.ts:54,63` runs `checkoutHere()` and `akashaHere()` at module scope, so importing it in a browser dies; it reaches the client from `routes/_app-layout.tsx:2` through `shared/pages-query/src/here.ts:4`. Sign-in is well: / 200, /home 302. Separately /idle 500s on the dead page index.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
