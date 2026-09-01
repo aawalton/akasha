@@ -74,9 +74,19 @@ test("a folder named pages above which no page type sits is refused", () => {
   expect(pagesOfTheTypeAbove(held([]))).toEqual(["the folder above holds no page type of its own"])
 })
 
-test("a file beside a page here belongs in a subfolder rather than in this one", () => {
+test("a page carrying a file beside it is refused, and the reason names that page", () => {
   const said = pagesOfTheTypeAbove(folder(["one.code-check.ts", "one.code-check.code.ts"]))
-  expect(said.some((each) => each.includes("one.code-check.code.ts"))).toBe(true)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("one.code-check")
+  expect(said[0]).toContain("a folder of its own")
+})
+
+test("a page file beside a page folder is refused, and the reason names the file", () => {
+  const held = over(["two/two.code-check.ts"])
+  const said = pagesOfTheTypeAbove(held(["one.code-check.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("page files alone or page folders alone")
+  expect(said[0]).toContain("one.code-check.ts")
 })
 
 test("a file that is neither a page nor sits beside one is refused", () => {

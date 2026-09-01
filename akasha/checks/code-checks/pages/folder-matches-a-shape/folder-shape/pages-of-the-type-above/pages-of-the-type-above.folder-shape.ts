@@ -15,7 +15,11 @@ export const pagesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder above holds one page type and that page type says what belongs here.",
+      statement: "The folder above holds one page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That page type says what belongs here.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +27,11 @@ export const pagesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "A page carrying files of its own has a subfolder to itself.",
+      statement: "The folder holds page files alone or page folders alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder holds no file beside a page file.",
     },
     {
       invariantKind: "departure",

@@ -28,15 +28,21 @@ export function pagesOfTheTypeAbove(standing: Standing): readonly string[] {
       `${standing.strays.length} files are neither a page nor a file beside one: ${saidInside(standing.folder, standing.strays)}`
     )
   }
-  if (standing.properties.length > 0) {
+  const carrying = [...new Set(standing.properties.map((one) => one.page ?? one.path))]
+  if (carrying.length > 0) {
     said.push(
-      `${standing.properties.length} files sit beside a page, and a page carrying files of its own belongs in a subfolder: ${saidInside(standing.folder, standing.properties)}`
+      `${carrying.length} pages carry a file beside them, and each belongs in a folder of its own: ${carrying.join(", ")}`
     )
   }
   const other = standing.pages.filter((one) => one.pageTypeSlug !== above.slug)
   if (other.length > 0) {
     said.push(
       `${other.length} pages here are not of \`${above.slug}\`: ${saidInside(standing.folder, other)}`
+    )
+  }
+  if (standing.pages.length > 0 && standing.subfolders.length > 0) {
+    said.push(
+      `it holds page files alone or page folders alone, and ${standing.pages.length} pages here are files beside ${standing.subfolders.length} folders: ${saidInside(standing.folder, standing.pages)}`
     )
   }
   const loose = standing.subfolders.filter((at) => ownPagesIn(standing, at, above.slug) !== 1)
