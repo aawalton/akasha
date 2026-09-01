@@ -4,10 +4,10 @@ import {
   askComposed,
   decideTotalPointsWrite as decideTotalPointsWriteBridge,
   numberOf,
-  patchPage,
   textOf,
   WRITER,
 } from "./tracking-modules.ts"
+import { landTotalPoints } from "./persona-total-landing.ts"
 import {
   healthPersonaPopulation,
   healthTotalPopulation,
@@ -191,10 +191,10 @@ export async function writeHealthTotalPoints(options?: {
     const personaWrite = decideTotalPointsWrite(reading.storedTotal, reading.computedTotal, force)
     let personaWritten = false
     if (personaWrite !== null && !dryRun) {
-      const landed = await patchPage(
+      const landed = await landTotalPoints(
         PERSONA_PAGE_TYPE_SLUG,
         reading.personaSlug,
-        { "total-points": personaWrite },
+        personaWrite,
         WRITER
       )
       if (!landed.ok) {

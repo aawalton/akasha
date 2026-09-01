@@ -1,4 +1,5 @@
-import { decideTotalPointsWrite, getEsoDayStr, patchPage, WRITER } from "./tracking-modules.ts"
+import { decideTotalPointsWrite, getEsoDayStr, WRITER } from "./tracking-modules.ts"
+import { landTotalPoints } from "./persona-total-landing.ts"
 import { readHealthPersonaTotals } from "./health-total-points.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 import { type PointsSourceRowFields, resolvePointsSourceWriter } from "./points-source-writer.ts"
@@ -64,12 +65,7 @@ export async function writeEngineTotalPoints(repoRoot: string): Promise<EngineTo
 
     const personaWrite = decideTotalPointsWrite(num(row.totalPoints), computed.points)
     if (personaWrite !== null) {
-      const landed = await patchPage(
-        PERSONA_PAGE_TYPE_SLUG,
-        slug,
-        { "total-points": personaWrite },
-        WRITER
-      )
+      const landed = await landTotalPoints(PERSONA_PAGE_TYPE_SLUG, slug, personaWrite, WRITER)
       if (!landed.ok) throw new Error(`the ${slug} engine total went unwritten: ${landed.why}`)
     }
     personas.push({

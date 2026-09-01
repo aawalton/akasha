@@ -3,12 +3,12 @@ import {
   DEFAULT_GREEN_DAY_POINTS,
   getEsoDayWindow,
   numberOf,
-  patchPage,
   SOURCE_POINTS_FIELD,
   textOf,
   WRITER,
 } from "./tracking-modules.ts"
 import { type PersonaDayTarget, patchPersonaDayField } from "./persona-day-points.ts"
+import { landTotalPoints } from "./persona-total-landing.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 import {
   PERSONA_PAGE_TYPE_SLUG,
@@ -126,10 +126,10 @@ export async function writeSessionPointsTotalForPersona(
 
   const { patches, outcomes } = planPersonaSessionWrite(total, persona)
   for (const patch of patches) {
-    const landed = await patchPage(
+    const landed = await landTotalPoints(
       patch.pageTypeSlug,
       patch.slug,
-      { "total-points": patch.totalPoints },
+      patch.totalPoints,
       WRITER
     )
     if (!landed.ok) throw new Error(`the ${patch.slug} session total went unwritten: ${landed.why}`)
