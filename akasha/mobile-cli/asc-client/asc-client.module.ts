@@ -18,6 +18,24 @@ export const ascClient = {
     {
       invariantKind: "constraint",
       statement:
+        "an expired token draws the same 401 from App Store Connect as a key lacking access",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "a poll outliving its token reads back as a permissions failure on the key",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "a long-running read asks the token source for a token per request rather than holding one",
+    },
+    {
+      invariantKind: "departure",
+      statement: "a token source re-mints once the held token is within 120 seconds of expiry",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
         "the App Store Connect .p8 private key is read from the workstation home directory rather than from this code",
     },
     {

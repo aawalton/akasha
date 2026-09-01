@@ -8,7 +8,9 @@ export const ASC_KEY_LOCAL_PATH = `${homedir()}/.appstoreconnect/private_keys/Au
 
 const ASC_API_BASE = "https://api.appstoreconnect.apple.com"
 
-const JWT_TTL_SECONDS = 900
+export const JWT_TTL_SECONDS = 900
+
+export const JWT_REMINT_MARGIN_SECONDS = 120
 
 function base64Url(input: ArrayBuffer | Uint8Array | string): string {
   const buf =
@@ -76,6 +78,26 @@ export async function mintAscJwt(
     )
   }
   return buildAscJwt({ pem, keyId: ASC_KEY_ID, issuerId: ASC_ISSUER_ID, nowSeconds })
+}
+
+export type AscJwtSource = () => Promise<string>
+
+export function createAscJwtSource(opts?: {
+  readonly mint?: (nowSeconds: number) => Promise<string>
+  readonly nowSeconds?: () => number
+}): AscJwtSource {
+  const mint = opts?.mint ?? mintAscJwt
+  const nowSeconds = opts?.nowSeconds ?? (() => Math.floor(Date.now() / 1000))
+  let held: string | undefined
+  let mintedAt = 0
+  return async (): Promise<string> => {
+    const at = nowSeconds()
+    if (held === undefined || at - mintedAt >= JWT_TTL_SECONDS - JWT_REMINT_MARGIN_SECONDS) {
+      held = await mint(at)
+      mintedAt = at
+    }
+    return held
+  }
 }
 
 const buildAttributesSchema = z

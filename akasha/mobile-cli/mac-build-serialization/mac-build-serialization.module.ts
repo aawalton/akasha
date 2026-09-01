@@ -18,7 +18,36 @@ export const macBuildSerialization = {
     },
     {
       invariantKind: "departure",
-      statement: "The claimed build number reaches the caller only as a marked line in the output.",
+      statement: "The chosen build number reaches the caller only as a marked line in the output.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The archive compiles the build number into the binary it produces.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The number is chosen before the archive runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Choosing a number writes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The durable counter advances only in the reserving step after the upload that spends the number.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run dying between choosing and uploading leaves the counter where it found it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Reserving re-reads the counter file rather than trusting what choosing read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Reserving never lowers the counter.",
     },
   ],
 } as const satisfies Module

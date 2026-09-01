@@ -27,5 +27,25 @@ export const testflightDeployScript = {
       invariantKind: "departure",
       statement: "A no-upload run validates the ipa where a real run would upload it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A no-upload run reaches no reserving step.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A no-upload run spends no build number.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The build number is reserved only after altool has uploaded the ipa.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The upload-ok marker is emitted before the reserving step.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reserving step runs inside the mac build mutex.",
+    },
   ],
 } as const satisfies Module

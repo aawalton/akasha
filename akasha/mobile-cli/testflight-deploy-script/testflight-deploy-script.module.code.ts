@@ -15,8 +15,9 @@ import {
 } from "../ios-signing/ios-signing.module.code.ts"
 import {
   buildAcquireMacBuildLock,
-  buildClaimBuildNumber,
+  buildChooseBuildNumber,
   buildReleaseMacBuildLock,
+  buildReserveBuildNumber,
 } from "../mac-build-serialization/mac-build-serialization.module.code.ts"
 import {
   iosAppDir,
@@ -92,7 +93,7 @@ export function buildTestflightDeployScript(opts: {
   sections.push(
     buildEnsureAppStoreProfile(opts.app),
     `cd ${iosAppDir(opts.app, CHECKOUT_ROOT)}`,
-    buildClaimBuildNumber({ app: opts.app, explicit: opts.buildNumber, ascFloor: opts.ascFloor }),
+    buildChooseBuildNumber({ app: opts.app, explicit: opts.buildNumber, ascFloor: opts.ascFloor }),
     archive,
     `cat > ${plistPath} <<PLIST`,
     buildExportOptionsPlist(opts.app),
@@ -108,8 +109,9 @@ export function buildTestflightDeployScript(opts: {
         ]
       : [
           ...buildUploadApp(ipa),
-          buildReleaseMacBuildLock(opts.app),
           `echo "${ALTOOL_MARKERS.uploadOk}"`,
+          buildReserveBuildNumber(opts.app),
+          buildReleaseMacBuildLock(opts.app),
         ])
   )
   return sections.join("\n")
