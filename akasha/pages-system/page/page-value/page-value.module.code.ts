@@ -49,8 +49,8 @@ export function valuesOver(
 
 export function valueAt(path: string, repo: string): Value | null {
   const at = isAbsolute(path) ? path : join(repo, path)
-  const stood = statSync(at, { throwIfNoEntry: false })
-  if (stood === undefined || !stood.isFile()) return null
+  const entry = statSync(at, { throwIfNoEntry: false })
+  if (entry === undefined || !entry.isFile()) return null
   return loadedFrom(readFileSync(at, "utf8")).value
 }
 
