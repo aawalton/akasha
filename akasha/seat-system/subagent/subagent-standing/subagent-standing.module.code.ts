@@ -1,5 +1,9 @@
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { landingAsked, wroteAndTook } from "../../../command-system/asking/asking.module.code.ts"
+import type { Given } from "../../../command-system/calling/calling.module.code.ts"
+import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+import { dropReadings } from "../../../command-system/reading/reading.module.code.ts"
 import {
   listedAt,
   listedById,
@@ -8,27 +12,19 @@ import { exportedAs } from "../../../pages-system/page/page-export-name/page-exp
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 
-export const WRITER = "subagent-page-writer"
-
 export const SUBAGENTS_AT = "akasha/seat-system/subagent/subagents"
 
 export const WRITING = "write"
 
 export const TAKING = "take"
 
-const CLI = "akasha/command-system/cli/cli.module.code.ts"
+const CALLED_AS = "subagent-standing"
 
 const SEAT = "seat"
 
 const ASSIGNMENT = "assignmentSlug"
 
 const SUFFIX = ".subagent.ts"
-
-const SCRATCH = "/var/tmp"
-
-const WANTED = /--file-path\s+(\S+)/g
-
-const ROUNDS = 4
 
 export function slugOf(seatName: string, own: string): string {
   return `${seatName}-${own}`.replace(/-{2,}/g, "-")
@@ -77,82 +73,55 @@ export function seatNamedIn(root: string, seatId: string): string | null {
   return named === null || named.tail !== SEAT ? null : named.stem
 }
 
-function ran(root: string, args: readonly string[]): { code: number; output: string } {
-  const dir = mkdtempSync(join(SCRATCH, "subagent-standing-"))
-  const at = join(dir, "out.txt")
-  try {
-    const sink = Bun.file(at)
-    const proc = Bun.spawnSync([process.execPath, join(root, CLI), ...args], {
-      stdout: sink,
-      stderr: sink,
-      env: { ...process.env, AGENT_ID: WRITER, ACTING_AGENT_ID: "" },
-    })
-    let output = ""
-    try {
-      output = readFileSync(at, "utf8")
-    } catch {
-      output = ""
-    }
-    return { code: proc.exitCode ?? 1, output }
-  } finally {
-    rmSync(dir, { recursive: true, force: true })
+function programmatically(root: string): Given {
+  return {
+    root,
+    calledAs: CALLED_AS,
+    from: root,
+    writer: null,
+    agentId: null,
+    programmatic: true,
   }
 }
 
-export function wantedIn(output: string): readonly string[] {
-  const found = new Set<string>()
-  for (const [, path] of output.matchAll(WANTED)) if (path !== undefined) found.add(path)
-  return [...found]
-}
-
-export function landed(root: string, args: readonly string[]): boolean {
-  let asked = ran(root, args)
-  for (let round = 0; round < ROUNDS && asked.code !== 0; round += 1) {
-    const wanted = wantedIn(asked.output)
-    if (wanted.length === 0) break
-    for (const path of wanted) {
-      if (ran(root, ["read", "--file-path", path]).code !== 0) return false
-    }
-    asked = ran(root, args)
-  }
-  return asked.code === 0
+function handed(root: string, changes: readonly FileEdit[], message: string): boolean {
+  return (
+    landingAsked(programmatically(root), {
+      changes,
+      message,
+      dryRun: false,
+      glass: null,
+      unmoved: [],
+      saying: wroteAndTook,
+    }).code === 0
+  )
 }
 
 export function wrote(root: string, seatName: string, own: string, dispatchedAs: string): boolean {
   const slug = slugOf(seatName, own)
-  const at = join(root, pathOf(slug))
-  if (existsSync(at)) return true
+  const at = pathOf(slug)
+  if (existsSync(join(root, at))) return true
   const assignmentSlug = assignedTo(root, seatName)
   if (assignmentSlug === null) return false
-  const dir = mkdtempSync(join(SCRATCH, "subagent-body-"))
-  try {
-    const bodyPath = join(dir, "body.ts")
-    writeFileSync(bodyPath, bodyOf(slug, seatName, assignmentSlug, dispatchedAs), "utf8")
-    return landed(root, [
-      "write",
-      "--file-path",
-      at,
-      "--content-file",
-      bodyPath,
-      "--message",
-      `${slug}: a subagent states the kind it was dispatched as`,
-    ])
-  } finally {
-    rmSync(dir, { recursive: true, force: true })
-  }
+  const body = new TextEncoder().encode(bodyOf(slug, seatName, assignmentSlug, dispatchedAs))
+  return handed(
+    root,
+    [{ path: at, body }],
+    `${slug}: a subagent states the kind it was dispatched as`
+  )
 }
 
 export function took(root: string, seatName: string, own: string): boolean {
   const slug = slugOf(seatName, own)
-  const at = join(root, pathOf(slug))
-  if (!existsSync(at)) return true
-  return landed(root, [
-    "write",
-    "--remove",
-    at,
-    "--message",
-    `${slug} is done, so its page goes; what it was stands in this repository's history`,
-  ])
+  const at = pathOf(slug)
+  if (!existsSync(join(root, at))) return true
+  const gone = handed(
+    root,
+    [{ path: at, body: null }],
+    `${slug} is done, so its page goes; what it was stands in this repository's history`
+  )
+  if (gone) dropReadings(root, [at])
+  return gone
 }
 
 export function asking(root: string, args: readonly string[]): undefined {

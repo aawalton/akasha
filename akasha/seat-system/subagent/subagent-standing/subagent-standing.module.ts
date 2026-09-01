@@ -10,7 +10,11 @@ export const subagentStanding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A subagent's page is landed by a writer of its own rather than by the subagent.",
+      statement: "A subagent's page is landed by a program rather than by an agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing here owes no reading and runs no check.",
     },
     {
       invariantKind: "departure",
@@ -18,15 +22,11 @@ export const subagentStanding = {
     },
     {
       invariantKind: "departure",
-      statement: "What a landing is refused for is read and the landing asked again.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page states no id.",
     },
     {
       invariantKind: "departure",
-      statement: "The command that lands a page mints the id it keeps.",
+      statement: "What lands a page mints the id it keeps.",
     },
     {
       invariantKind: "departure",
