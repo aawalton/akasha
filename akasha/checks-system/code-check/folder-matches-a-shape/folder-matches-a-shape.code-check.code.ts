@@ -79,18 +79,18 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
         `${one.path} is a folder shape, and no code file can stand beside a name like it`
       )
     }
-    const standing = shadow.codeAt(beside)
-    if (standing === null) {
+    const codePath = shadow.codeAt(beside)
+    if (codePath === null) {
       throw new Error(
         `${one.path} is a folder shape, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`
       )
     }
     let mod: Record<string, unknown>
     try {
-      mod = loadFrom(join(root, standing)) as Record<string, unknown>
+      mod = loadFrom(join(root, codePath)) as Record<string, unknown>
     } catch (thrown) {
       throw new Error(
-        `${one.path} is a folder shape, and ${standing} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
+        `${one.path} is a folder shape, and ${codePath} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
       )
     }
     const named = mod[exportedAs(slug)]
