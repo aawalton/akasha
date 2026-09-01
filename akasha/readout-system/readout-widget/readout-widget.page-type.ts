@@ -30,6 +30,7 @@ export const readoutWidget = {
   pluralSlug: "readout-widgets",
   partSlugs: [
     "readout-widget/alanwalton-categorize",
+    "readout-widget/smilingjenny-categorize",
     "relation-property/component-slug",
     "text-property/families",
     "text-property/feed",
