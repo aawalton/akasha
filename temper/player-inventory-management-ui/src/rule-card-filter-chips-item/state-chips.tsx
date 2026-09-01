@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { BOP_TRADEABLE_OPTIONS } from "@temper/game-items-rules-core/filters/bop-tradeable-filter"
 import { BOUND_OPTIONS } from "@temper/game-items-rules-core/filters/bound-filter"

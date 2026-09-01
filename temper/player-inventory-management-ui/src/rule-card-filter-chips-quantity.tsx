@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { EditableNumber } from "@shared/design-forms/components/editable-number"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { assertNever } from "@shared/utils-narrow/assert-never"

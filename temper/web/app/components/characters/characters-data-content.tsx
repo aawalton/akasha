@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { ListContentSkeleton } from "@shared/design-layout/components/list-content-skeleton"
 import { PageTabHeader, PageTabTitleBadges } from "@shared/design-layout/components/page-tab-header"
 import { Card, CardContent } from "@shared/design-primitives/components/card"

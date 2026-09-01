@@ -1,6 +1,6 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { inventoryRuleGoals } from "@temper/game-items-rules-core/inventory-rule-goals"
 import {
   type ActiveStatusFilter,

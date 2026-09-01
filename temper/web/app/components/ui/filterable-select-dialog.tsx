@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { Badge } from "@akasha/design-badges/badge"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@shared/design-primitives/components/collapsible"
 import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@shared/design-primitives/components/command"
 import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"

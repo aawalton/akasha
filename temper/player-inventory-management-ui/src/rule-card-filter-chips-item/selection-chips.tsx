@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { BadgeToggleGroup } from "@shared/design-badges/components/badge-toggle-group"
+import { Badge } from "@akasha/design-badges/badge"
+import { BadgeToggleGroup } from "@akasha/design-badges/badge-toggle-group"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { Text } from "@shared/design-primitives/components/text"
 import { LOCATION_OPTIONS } from "@temper/game-items-rules-core/filters/location-filter"

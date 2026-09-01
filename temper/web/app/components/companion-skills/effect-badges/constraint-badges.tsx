@@ -1,4 +1,4 @@
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import type { EffectCondition } from "@temper/game-characters-skills/skill-activation-effect-types"
 import {
   formatEnemyType,

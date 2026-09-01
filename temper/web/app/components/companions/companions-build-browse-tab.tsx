@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { PageTabHeader, PageTabTitleBadges } from "@shared/design-layout/components/page-tab-header"
 import { PaginatedCardGrid } from "@shared/design-layout/components/paginated-card-grid"
 import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"

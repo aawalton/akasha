@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import { Text } from "@shared/design-primitives/components/text"

@@ -1,6 +1,6 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import { Heading } from "@shared/design-primitives/components/heading"

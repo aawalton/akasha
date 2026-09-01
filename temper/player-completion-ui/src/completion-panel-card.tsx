@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { StatRow } from "@shared/design-patterns/components/stat-row"
 import { useSetToggle } from "@shared/design-patterns/hooks/use-set-toggle"

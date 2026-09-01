@@ -1,8 +1,8 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
-import { NumberBadge } from "@shared/design-badges/components/number-badge"
+import { Badge } from "@akasha/design-badges/badge"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
+import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { InlineEditableText } from "@shared/design-forms/components/inline-editable-text"
 import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@shared/design-primitives/components/alert-dialog"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"

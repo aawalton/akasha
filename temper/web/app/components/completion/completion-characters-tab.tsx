@@ -1,6 +1,6 @@
 "use client"
 
-import { type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"

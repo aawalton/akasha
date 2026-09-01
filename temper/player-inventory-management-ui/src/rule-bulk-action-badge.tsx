@@ -1,7 +1,7 @@
 "use client"
 
-import { type badgeVariants } from "@shared/design-badges/components/badge"
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { type badgeVariants } from "@akasha/design-badges/badge"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@shared/design-primitives/components/alert-dialog"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
 import { ScrollArea } from "@shared/design-primitives/components/scroll-area"

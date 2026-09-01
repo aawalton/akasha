@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { classifyLocation } from "@temper/game-items-core/inventory-grouping"
 import { type LocationTypeId, locationTypes } from "@temper/game-items-core/location-type-data"

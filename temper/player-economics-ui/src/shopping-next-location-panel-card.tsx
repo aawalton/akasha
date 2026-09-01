@@ -1,7 +1,7 @@
 "use client"
 
 import { scrollToCard } from "@shared/design-layout/utils/scroll-to-card"
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import { CardTitleBadges } from "@shared/design-primitives/components/card"

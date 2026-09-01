@@ -1,6 +1,6 @@
 "use client"
 
-import { BadgeRow } from "@shared/design-badges/components/badge"
+import { BadgeRow } from "@akasha/design-badges/badge"
 import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { COLUMN_WIDTH } from "@shared/design-layout/components/layout-data"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"

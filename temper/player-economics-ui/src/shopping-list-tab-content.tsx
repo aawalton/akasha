@@ -1,6 +1,6 @@
 "use client"
 
-import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"

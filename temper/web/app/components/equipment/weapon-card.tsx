@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import type { ClassId } from "@temper/game-characters-classes/classes-data"

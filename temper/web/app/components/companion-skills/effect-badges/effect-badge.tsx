@@ -1,4 +1,4 @@
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import {
   formatCooldown,

@@ -1,7 +1,7 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { Button } from "@shared/design-primitives/components/button"
 import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
 import { Heading } from "@shared/design-primitives/components/heading"

@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge, type badgeVariants } from "@shared/design-badges/components/badge"
+import { Badge, type badgeVariants } from "@akasha/design-badges/badge"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import type { VariantProps } from "class-variance-authority"
 

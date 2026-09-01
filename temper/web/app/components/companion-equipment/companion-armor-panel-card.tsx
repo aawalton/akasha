@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { HorizontalScrollFade } from "@shared/design-primitives/components/horizontal-scroll-fade"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"

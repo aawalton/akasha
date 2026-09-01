@@ -1,7 +1,7 @@
 "use client"
 
 import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { Badge } from "@shared/design-badges/components/badge"
+import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { CardTitleBadges } from "@shared/design-primitives/components/card"
 import { Text } from "@shared/design-primitives/components/text"
