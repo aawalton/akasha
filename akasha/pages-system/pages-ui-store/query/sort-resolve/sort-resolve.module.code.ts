@@ -13,7 +13,7 @@ import { lowerUuid } from "@akasha/pages-system/name-format/lower-uuid"
 import { isPromotedKey, PROMOTED_COLUMN } from "@shared/pages-access/routing-core"
 import {
   asPageRecord,
-  asRecord,
+  attributesOf,
   type PageRow,
 } from "../../collection/page-row/page-row.module.code.ts"
 import { emitStoreDiagnostic } from "../../diagnostics/diagnostics.module.code.ts"
@@ -70,14 +70,6 @@ const AGGREGATE_FUNCTIONS: ReadonlySet<string> = new Set([
   "first",
   "count_distinct",
 ])
-
-export function attributesOf(row: PageRow): Readonly<Record<string, unknown>> {
-  const raw = asPageRecord(row).attributes
-  if (raw !== null && typeof raw === "object" && !Array.isArray(raw)) {
-    return asRecord(raw)
-  }
-  return {}
-}
 
 export function pageDataOf(row: PageRow): PageDataJSON {
   const rec = asPageRecord(row)

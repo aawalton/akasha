@@ -6,6 +6,7 @@ import {
   asPageRecord,
   asPageRowList,
   asRecord,
+  attributesOf,
   type PageRow,
 } from "../../collection/page-row/page-row.module.code.ts"
 import type { UseViewQueryOptions } from "../../sql/options/options.module.code.ts"
@@ -15,7 +16,6 @@ import {
   constTrue,
 } from "../condition-expr/condition-expr.module.code.ts"
 import {
-  attributesOf,
   classifyKey,
   coerceInstantMs,
   type KeyInfo,

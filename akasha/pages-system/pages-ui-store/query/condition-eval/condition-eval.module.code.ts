@@ -5,17 +5,10 @@ import { assertNever } from "@shared/utils-narrow/assert-never"
 import {
   asPageRecord,
   asRecord,
+  attributesOf,
   type PageRow,
 } from "../../collection/page-row/page-row.module.code.ts"
 import type { PageConditionLike } from "../../sql/options/options.module.code.ts"
-
-function attributesOf(row: PageRow): Readonly<Record<string, unknown>> {
-  const raw = asPageRecord(row).attributes
-  if (raw !== null && typeof raw === "object" && !Array.isArray(raw)) {
-    return asRecord(raw)
-  }
-  return {}
-}
 
 const MISSING = Symbol("missing")
 

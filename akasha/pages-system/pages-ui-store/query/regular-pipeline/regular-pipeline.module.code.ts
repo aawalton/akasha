@@ -5,7 +5,7 @@ import { and, type Collection, createLiveQueryCollection } from "@tanstack/db"
 import {
   asPageRecord,
   asPageRowList,
-  asRecord,
+  attributesOf,
   type PageRow,
 } from "../../collection/page-row/page-row.module.code.ts"
 import type { PageConditionLike, UsePagesOptions } from "../../sql/options/options.module.code.ts"
@@ -29,14 +29,6 @@ export interface RegularPipeline {
   readonly read: () => RegularResult
   readonly subscribe: (cb: () => undefined) => () => undefined
   readonly dispose: () => undefined
-}
-
-function attributesOf(row: PageRow): Readonly<Record<string, unknown>> {
-  const raw = asPageRecord(row).attributes
-  if (raw !== null && typeof raw === "object" && !Array.isArray(raw)) {
-    return asRecord(raw)
-  }
-  return {}
 }
 
 interface CompiledWhere {

@@ -18,6 +18,14 @@ export function asRecord(value: unknown): Record<string, unknown> {
   return value as Record<string, unknown>
 }
 
+export function attributesOf(row: PageRow): Readonly<Record<string, unknown>> {
+  const raw = asPageRecord(row).attributes
+  if (raw !== null && typeof raw === "object" && !Array.isArray(raw)) {
+    return asRecord(raw)
+  }
+  return {}
+}
+
 export function asPageRow(value: Record<string, unknown>): PageRow {
   return value as PageRow
 }
