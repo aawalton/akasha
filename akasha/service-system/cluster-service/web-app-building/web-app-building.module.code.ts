@@ -20,6 +20,9 @@ const A_SHA = /^[0-9a-f]{40}$/
 const SYNCS_CODE = new RegExp(`^\\s*-?\\s*name:\\s*${SYNC_CONTAINER}\\s*$`, "m")
 const WORKING_DIR_AT = /^[ \t-]*workingDir:[ \t]*(\S+)[ \t]*$/gm
 const RETRYABLE = ["not our ref", "remote end hung up", "Could not write new index file"]
+const BUILD_ENV_EXPORT = "BUILD_ENV"
+const BUILT_FROM_ENV = "NEXT_PUBLIC_BUILD_SHA"
+const HIDDEN = "[a secret this deploy read]"
 
 export interface BuildTarget {
   readonly kind: string
@@ -154,14 +157,113 @@ export function syncScript(sha: string): string {
   ].join(" && ")
 }
 
-export function buildScript(target: BuildTarget, sha: string): string {
-  return [
+export type BuildEnvEntry =
+  | { readonly name: string; readonly value: string }
+  | { readonly name: string; readonly fromSecret: { readonly name: string; readonly key: string } }
+
+export type BuildEnv = readonly { readonly name: string; readonly value: string }[]
+
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === "object" && value !== null
+}
+
+function isEntry(value: unknown): value is BuildEnvEntry {
+  if (!isRecord(value) || typeof value.name !== "string") return false
+  if (typeof value.value === "string") return true
+  const from = value.fromSecret
+  return isRecord(from) && typeof from.name === "string" && typeof from.key === "string"
+}
+
+export function entriesIn(loaded: unknown): readonly BuildEnvEntry[] {
+  const found = isRecord(loaded) ? loaded[BUILD_ENV_EXPORT] : undefined
+  return Array.isArray(found) ? found.filter(isEntry) : []
+}
+
+export async function declaredBuildEnv(at: string): Promise<readonly BuildEnvEntry[]> {
+  try {
+    return entriesIn((await import(at)) as unknown)
+  } catch {
+    return []
+  }
+}
+
+export function secretValue(namespace: string, secret: string, key: string): string | null {
+  const ran = runKubectl([
+    "get",
+    "secret",
+    secret,
+    "-n",
+    namespace,
+    "-o",
+    `jsonpath={.data.${key}}`,
+  ])
+  if (ran.code !== 0) return null
+  const held = ran.stdout.trim()
+  if (held === "") return null
+  return Buffer.from(held, "base64").toString("utf8")
+}
+
+export interface Resolved {
+  readonly env: BuildEnv
+  readonly hidden: readonly string[]
+  readonly missing: readonly string[]
+}
+
+export function resolveBuildEnv(
+  namespace: string,
+  entries: readonly BuildEnvEntry[],
+  sha: string
+): Resolved {
+  const env: { name: string; value: string }[] = [{ name: BUILT_FROM_ENV, value: sha }]
+  const hidden: string[] = []
+  const missing: string[] = []
+  for (const entry of entries) {
+    if ("value" in entry) {
+      env.push({ name: entry.name, value: entry.value })
+      continue
+    }
+    const held = secretValue(namespace, entry.fromSecret.name, entry.fromSecret.key)
+    if (held === null) {
+      missing.push(
+        `${entry.name} is read from the key ${entry.fromSecret.key} of the secret ${entry.fromSecret.name} in ${namespace}, and nothing readable stands there`
+      )
+      continue
+    }
+    env.push({ name: entry.name, value: held })
+    hidden.push(held)
+  }
+  return { env, hidden, missing }
+}
+
+export const NOTHING_SET: Resolved = { env: [], hidden: [], missing: [] }
+
+export function hiding(said: string, hidden: readonly string[]): string {
+  let held = said
+  for (const one of hidden) {
+    if (one === "") continue
+    held = held.split(one).join(HIDDEN)
+  }
+  return held
+}
+
+export function quoted(said: string): string {
+  return `'${said.split("'").join(`'\\''`)}'`
+}
+
+export function envPrefix(env: BuildEnv): string {
+  if (env.length === 0) return ""
+  return `env ${env.map((one) => `${one.name}=${quoted(one.value)}`).join(" ")} `
+}
+
+export function buildScript(target: BuildTarget, sha: string, env: BuildEnv = []): string {
+  const script = [
     `cd ${REPO_PATH}`,
     "bun install --frozen-lockfile",
     `cd ${REPO_PATH}/${target.packagePath}`,
     "bun run build",
     `printf %s ${sha} > ${STAMP}`,
   ].join(" && ")
+  return `${envPrefix(env)}sh -c ${quoted(script)}`
 }
 
 function sleepFor(seconds: number): undefined {
@@ -186,7 +288,11 @@ export interface Built {
   readonly why: string | null
 }
 
-export function buildInPod(target: BuildTarget, sha: string): Built {
+export function buildInPod(
+  target: BuildTarget,
+  sha: string,
+  resolved: Resolved = NOTHING_SET
+): Built {
   const ran: Ran[] = []
   const pod = livePod(target)
   if (pod === null) {
@@ -200,10 +306,11 @@ export function buildInPod(target: BuildTarget, sha: string): Built {
     const last = ran[ran.length - 1] as Ran
     return { pod, ran, why: `${pod} would not check out ${sha}: ${saidBy(last)}` }
   }
-  const built = inSync(target, pod, buildScript(target, sha))
+  const built = inSync(target, pod, buildScript(target, sha, resolved.env))
   ran.push(built)
   if (built.code !== 0) {
-    return { pod, ran, why: `${target.packagePath} would not build in ${pod}: ${saidBy(built)}` }
+    const why = `${target.packagePath} would not build in ${pod}: ${saidBy(built)}`
+    return { pod, ran, why: hiding(why, resolved.hidden) }
   }
   const named = `${target.kind.toLowerCase()}/${target.workload}`
   const restart = runKubectl(["rollout", "restart", named, "-n", target.namespace])

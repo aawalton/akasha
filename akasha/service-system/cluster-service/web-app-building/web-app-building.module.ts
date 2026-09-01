@@ -55,6 +55,26 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
+      statement: "The values a build needs are the ones the manifest code exports beside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value a build needs that a cluster secret holds is read from that secret.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value a build needs that nothing holds stops the build before it starts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The sha built stands among the values the build is handed.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No value read from a secret is carried into what is reported.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whether a build already stands is asked of the pod holding it.",
     },
     {

@@ -4,10 +4,15 @@ import { SYNTH_AT, standingWorld } from "../web-app-reading/web-app-reading.modu
 import type { Manifest, Plan } from "../workload-deploying/workload-deploying.module.code.ts"
 import {
   alreadyBuilt,
+  type BuildEnv,
   buildScript,
   buildTargetOf,
+  entriesIn,
+  envPrefix,
   headOf,
+  hiding,
   livestOf,
+  quoted,
   saidBy,
   syncScript,
 } from "./web-app-building.module.code.ts"
@@ -103,15 +108,51 @@ test("a checkout takes what origin carries rather than what stands in the pod", 
 
 test("a build leaves the sha it was made from inside the build it made", () => {
   const target = buildTargetOf(plan(pod(SERVING)))
-  expect(buildScript(target as NonNullable<typeof target>, SHA)).toContain(
+  expect(buildScript(target as NonNullable<typeof target>, SHA, [])).toContain(
     `printf %s ${SHA} > build/.built-from`
   )
 })
 
 test("a build runs its install from the checkout rather than from the package", () => {
   const target = buildTargetOf(plan(pod(SERVING)))
-  expect(buildScript(target as NonNullable<typeof target>, SHA)).toContain(
+  expect(buildScript(target as NonNullable<typeof target>, SHA, [])).toContain(
     "cd /app/repo && bun install --frozen-lockfile"
+  )
+})
+
+const HANDED: BuildEnv = [{ name: "ONE", value: "first" }]
+
+test("the values a build needs stand before the build it runs", () => {
+  const target = buildTargetOf(plan(pod(SERVING)))
+  expect(buildScript(target as NonNullable<typeof target>, SHA, HANDED)).toStartWith(
+    "env ONE='first' sh -c "
+  )
+})
+
+test("a value carrying a quote is handed over whole", () => {
+  expect(quoted("it's")).toBe("'it'\\''s'")
+})
+
+test("a value carrying a dollar is handed over unexpanded", () => {
+  expect(quoted("$HOME")).toBe("'$HOME'")
+})
+
+test("a build needing nothing set is handed nothing", () => {
+  expect(envPrefix([])).toBe("")
+})
+
+test("the values a build needs are the ones the code beside the manifests exports", () => {
+  const held = entriesIn({ BUILD_ENV: [{ name: "ONE", value: "first" }, { name: "TWO" }] })
+  expect(held).toEqual([{ name: "ONE", value: "first" }])
+})
+
+test("code exporting no values a build needs names none", () => {
+  expect(entriesIn({})).toEqual([])
+})
+
+test("a value read from a secret is not carried into what is reported", () => {
+  expect(hiding("the token abc123 would not do", ["abc123"])).toBe(
+    "the token [a secret this deploy read] would not do"
   )
 })
 
