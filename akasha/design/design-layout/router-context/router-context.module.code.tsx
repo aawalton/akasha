@@ -47,7 +47,7 @@ export interface LayoutLinkProps {
   readonly className?: string
   readonly children: ReactNode
   readonly title?: string
-  readonly onClick?: () => undefined
+  readonly onClick?: () => void
   readonly "aria-current"?:
     | boolean
     | "false"

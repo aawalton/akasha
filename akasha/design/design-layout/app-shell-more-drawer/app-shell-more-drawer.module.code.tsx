@@ -10,7 +10,7 @@ import { LayoutLink, useLayoutPathname } from "../router-context/router-context.
 
 interface AppShellMoreDrawerProps {
   open: boolean
-  onOpenChange: (open: boolean) => undefined
+  onOpenChange: (open: boolean) => void
   groups: readonly MoreDrawerGroup[]
   footerSlot?: React.ReactNode
 }
@@ -23,7 +23,7 @@ function MoreDrawerLink({
   asToggle,
 }: {
   item: AppNavItem
-  onClose: () => undefined
+  onClose: () => void
   pathname: string
   className?: string
   asToggle?: boolean
@@ -95,7 +95,7 @@ function MoreDrawerCollapsibleItem({
   pathname,
 }: {
   item: AppNavItem
-  onClose: () => undefined
+  onClose: () => void
   pathname: string
 }) {
   return (
@@ -134,7 +134,7 @@ function MoreDrawerCollapsibleGroup({
   pathname,
 }: {
   group: MoreDrawerGroup
-  onClose: () => undefined
+  onClose: () => void
   pathname: string
 }) {
   return (

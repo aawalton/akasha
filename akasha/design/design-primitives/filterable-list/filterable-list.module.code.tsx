@@ -125,7 +125,7 @@ export function FilterTextField({
   className,
 }: {
   value: string
-  onChange: (next: string) => undefined
+  onChange: (next: string) => void
   onKeyDown?: KeyboardEventHandler<HTMLInputElement>
   autoFocus?: boolean
   placeholder?: string
@@ -221,7 +221,7 @@ export function FilterableListItem({
   children,
 }: {
   selected?: boolean
-  onSelect?: () => undefined
+  onSelect?: () => void
   className?: string
   children: ReactNode
 }) {

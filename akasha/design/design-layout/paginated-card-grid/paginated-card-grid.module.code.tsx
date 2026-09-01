@@ -15,10 +15,10 @@ interface PaginatedCardGridProps<T> {
   trailingContent?: ReactNode
   itemLabel?: string
   initialVisibleCount?: number
-  onVisibleCountChange?: (count: number) => undefined
+  onVisibleCountChange?: (count: number) => void
   resetKey?: string
   keyExtractor?: (item: T) => string
-  onServerLoadMore?: () => undefined
+  onServerLoadMore?: () => void
   canServerLoadMore?: boolean
 }
 
