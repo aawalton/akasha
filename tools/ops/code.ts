@@ -1,5 +1,8 @@
 
-import { formatProvenance, readRunningCheckoutProvenance } from "@shared/cli/ops/provenance"
+import {
+  formatProvenance,
+  readRunningCheckoutProvenance,
+} from "@akasha/checkout-provenance/provenance"
 import { normalizeThrowable } from "@akasha/errors-core/throwable-normalizing"
 import { commandSet } from "./set.ts"
 import type { Command } from "./surface.ts"
