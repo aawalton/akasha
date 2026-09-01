@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
+import { parsedAs } from "@akasha/code-system/code-source"
 import ts from "typescript"
-import { parsedAs } from "../../../../../code-system/code-source/code-source.module.code.ts"
 import { PROBE_AT, standing } from "../../no-refused-syntax.code-check.test-fixtures.ts"
 import { noDoubleCast, withoutParens } from "./no-double-cast.syntax-rule.code.ts"
 

@@ -1,13 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
+import { parsedAs } from "@akasha/code-system/code-source"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
+import type { Change } from "@akasha/pages-system/change"
+import { type Shadow, shadowAt } from "@akasha/pages-system/shadow"
 import type { SourceFile } from "typescript"
-import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import {
-  listedFiled,
-  noneOfTypeFiled,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { type Shadow, shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.code-check.code.ts"
 import { PROBE_AT } from "./no-refused-syntax.code-check.test-fixtures.ts"
 import type { Standing } from "./syntax-rule/syntax-rule.page-type.ts"

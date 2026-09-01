@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "../../../../../code-system/code-source/code-source.module.code.ts"
+import { parsedAs } from "@akasha/code-system/code-source"
 import { PROBE_AT } from "../../no-refused-syntax.code-check.test-fixtures.ts"
 import type { Refusal } from "../syntax-rule.page-type.ts"
 import { noSwallowedRead } from "./no-swallowed-read.syntax-rule.code.ts"
