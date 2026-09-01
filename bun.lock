@@ -295,6 +295,9 @@
         "react-dom": "^18 || ^19",
       },
     },
+    "akasha/digit-padding": {
+      "name": "@akasha/digit-padding",
+    },
     "akasha/domain-system": {
       "name": "@akasha/domain-system",
     },
@@ -514,6 +517,13 @@
       },
       "peerDependencies": {
         "react": "^18 || ^19",
+      },
+    },
+    "akasha/recurrence": {
+      "name": "@akasha/recurrence",
+      "dependencies": {
+        "rrule": "^2.8.1",
+        "zod": "^4.3.6",
       },
     },
     "akasha/seat-system": {
@@ -3877,6 +3887,8 @@
 
     "@akasha/design-primitives": ["@akasha/design-primitives@workspace:akasha/design/design-primitives"],
 
+    "@akasha/digit-padding": ["@akasha/digit-padding@workspace:akasha/digit-padding"],
+
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
 
     "@akasha/drive-google": ["@akasha/drive-google@workspace:akasha/drive-google"],
@@ -3942,6 +3954,8 @@
     "@akasha/personas-core": ["@akasha/personas-core@workspace:akasha/personas-core"],
 
     "@akasha/readout-system": ["@akasha/readout-system@workspace:akasha/readout-system"],
+
+    "@akasha/recurrence": ["@akasha/recurrence@workspace:akasha/recurrence"],
 
     "@akasha/seat-system": ["@akasha/seat-system@workspace:akasha/seat-system"],
 
