@@ -1,14 +1,11 @@
 import type { PageCondition } from "@akasha/pages-core/page-types"
+import { pad2 } from "../image-name/image-name.module.code.ts"
 import {
   personaSlugCondition,
   relationshipLevelMatchCondition,
 } from "../persona-page-conditions/persona-page-conditions.module.code.ts"
 
 export const PERSONA_WALLPAPER_PAGE_TYPE_SLUG = "persona-wallpaper"
-
-function pad2(n: number): string {
-  return n < 10 ? `0${n}` : `${n}`
-}
 
 export interface WallpaperImageRecordInput {
   readonly personaSlug: string
