@@ -6,7 +6,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import {
   ANSWERED_QUESTION_STATUS,
   QUESTION_PAGE_TYPE_SLUG,
-} from "../../../shared/open-questions/src/index.ts"
+} from "@akasha/open-questions/question-status"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 

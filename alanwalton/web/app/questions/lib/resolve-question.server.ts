@@ -1,9 +1,11 @@
 import {
   ANSWERED_OPTION_INDEX_KEY,
+  selectTappedOptionIndex,
+} from "@akasha/open-questions/question-answer"
+import {
   openQuestionsWhere,
   QUESTION_PAGE_TYPE_SLUG,
-  selectTappedOptionIndex,
-} from "@shared/open-questions"
+} from "@akasha/open-questions/question-status"
 import { getPage, getPages } from "@akasha/pages-access/get"
 import { patchPage } from "@akasha/pages-access/patch"
 import { type PageWhere } from "@akasha/pages-core/page-types"

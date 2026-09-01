@@ -44,19 +44,10 @@
       "path": "../../shared/design-system"
     },
     {
-      "path": "../../shared/open-questions"
-    },
-    {
-      "path": "../../shared/notifications"
-    },
-    {
       "path": "../../shared/pages-ui"
     },
     {
       "path": "../../shared/status-bar-access"
-    },
-    {
-      "path": "../../shared/supabase-rr"
     },
     {
       "path": "../../shared/utils-narrow"

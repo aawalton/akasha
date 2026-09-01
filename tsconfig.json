@@ -4,9 +4,6 @@
       "path": "./shared/pages-query"
     },
     {
-      "path": "./shared/notifications"
-    },
-    {
       "path": "./shared/design-patterns"
     },
     {

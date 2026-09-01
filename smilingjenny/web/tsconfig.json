@@ -38,13 +38,7 @@
       "path": "../../shared/design-system"
     },
     {
-      "path": "../../shared/notifications"
-    },
-    {
       "path": "../../shared/status-bar-access"
-    },
-    {
-      "path": "../../shared/supabase-rr"
     }
   ],
   "include": [

@@ -1,14 +1,12 @@
 "use client"
 
-import { countOpenQuestions } from "@shared/open-questions"
+import { countOpenQuestions } from "@akasha/open-questions/open-question-count"
 import { UserIdContext } from "@shared/pages-ui/use-user-id"
-import { useSupabase } from "@shared/supabase-rr/provider"
 import { useContext, useEffect } from "react"
 import { getBadge, isNativeShell } from "~/lib/capacitor-bridge"
 import { OPEN_QUESTIONS_RESYNC_EVENT } from "~/lib/open-questions-resync"
 
 export function BadgeSync() {
-  const supabase = useSupabase()
   const userID = useContext(UserIdContext)
 
   useEffect(() => {
@@ -29,7 +27,7 @@ export function BadgeSync() {
       if (inFlight) return
       inFlight = true
       try {
-        const count = await countOpenQuestions(supabase)
+        const count = await countOpenQuestions()
         if (cancelled) return
         await badge.setCount({ count })
         console.info(`[badge] setCount(${count}) -> resolved`)
@@ -53,7 +51,7 @@ export function BadgeSync() {
       document.removeEventListener("visibilitychange", onVisibility)
       window.removeEventListener(OPEN_QUESTIONS_RESYNC_EVENT, resync)
     }
-  }, [supabase, userID])
+  }, [userID])
 
   return null
 }

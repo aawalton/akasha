@@ -1,5 +1,5 @@
-import { registerDeviceToken } from "@shared/notifications/device-token"
-import { SMILINGJENNY_PUSH_APP } from "@shared/notifications/push-apps"
+import { registerDeviceToken } from "@akasha/person-system/device-token"
+import { SMILINGJENNY_PUSH_APP } from "@akasha/person-system/push-apps"
 import { z } from "zod"
 import { requireApiJenny } from "~/lib/session.server"
 import type { Route } from "./+types/api.push.register"

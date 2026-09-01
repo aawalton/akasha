@@ -5,11 +5,11 @@ import { Button } from "@akasha/design-primitives/button"
 import { Textarea } from "@akasha/design-primitives/textarea"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { formatRelativeTime } from "@akasha/design-primitives/format-relative-time"
+import type { QuestionLink } from "@akasha/open-questions/question-link"
 import {
   OPEN_QUESTION_STATUS,
   QUESTION_PAGE_TYPE_SLUG,
-  type QuestionLink,
-} from "@shared/open-questions"
+} from "@akasha/open-questions/question-status"
 import { usePage } from "@shared/pages-ui/supabase/use-page"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { assertNever } from "@shared/utils-narrow/assert-never"

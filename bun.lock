@@ -6,11 +6,13 @@
       "name": "akasha",
       "dependencies": {
         "@akasha/browser-launch-env": "workspace:*",
+        "@akasha/checkout-provenance": "workspace:*",
         "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/imessage": "workspace:*",
+        "@akasha/open-questions": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
@@ -44,7 +46,6 @@
         "@media/cli": "workspace:*",
         "@modelcontextprotocol/sdk": "^1.30.0",
         "@shared/browser-test-harness": "workspace:*",
-        "@shared/cli": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@stories/text": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
@@ -122,6 +123,13 @@
       "name": "@akasha/calendar-sync",
       "dependencies": {
         "@shared/pages-query": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/checkout-provenance": {
+      "name": "@akasha/checkout-provenance",
+      "dependencies": {
+        "@infra/git-porcelain": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -420,6 +428,13 @@
     "akasha/named-for": {
       "name": "@akasha/named-for",
     },
+    "akasha/open-questions": {
+      "name": "@akasha/open-questions",
+      "dependencies": {
+        "@akasha/pages-core": "workspace:*",
+        "@shared/pages-query": "workspace:*",
+      },
+    },
     "akasha/pages-system": {
       "name": "@akasha/pages-system",
     },
@@ -590,6 +605,22 @@
     "akasha/supabase-database": {
       "name": "@akasha/supabase-database",
     },
+    "akasha/supabase-rr": {
+      "name": "@akasha/supabase-rr",
+      "dependencies": {
+        "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
+        "@supabase/ssr": "^0.10.2",
+        "@supabase/supabase-js": "^2.104.0",
+        "cookie": "^1.0.2",
+        "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+        "react-router": ">=7",
+      },
+    },
     "akasha/supabase-server": {
       "name": "@akasha/supabase-server",
       "dependencies": {
@@ -692,6 +723,7 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
@@ -703,7 +735,6 @@
         "@shared/design-system": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-rr": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "isbot": "^5.1.36",
@@ -760,15 +791,18 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/id-minting": "workspace:*",
+        "@akasha/open-questions": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/person-system": "workspace:*",
         "@akasha/sms-access": "workspace:*",
         "@akasha/sms-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
         "@akasha/voice-core": "workspace:*",
@@ -779,12 +813,9 @@
         "@fontsource-variable/literata": "^5.2.5",
         "@infra/k8s-types": "workspace:*",
         "@shared/design-system": "workspace:*",
-        "@shared/notifications": "workspace:*",
         "@shared/object-store": "workspace:*",
-        "@shared/open-questions": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/status-bar-access": "workspace:*",
-        "@shared/supabase-rr": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "chess.js": "^1.4.0",
@@ -848,13 +879,13 @@
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-rr": "workspace:*",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
         "react": "19.2.0",
@@ -1403,17 +1434,6 @@
         "playwright-core": "1.61.1",
       },
     },
-    "shared/cli": {
-      "name": "@shared/cli",
-      "version": "0.1.0",
-      "dependencies": {
-        "@infra/git-porcelain": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-      },
-    },
     "shared/design-patterns": {
       "name": "@shared/design-patterns",
       "version": "0.1.0",
@@ -1515,36 +1535,11 @@
         "tailwindcss": "^4.0",
       },
     },
-    "shared/notifications": {
-      "name": "@shared/notifications",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/supabase-auth": "workspace:*",
-        "@shared/pages-query": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "shared/object-store": {
       "name": "@shared/object-store",
       "dependencies": {
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "shared/open-questions": {
-      "name": "@shared/open-questions",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
-        "@supabase/supabase-js": "^2.104.0",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -1579,10 +1574,10 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/recurrence": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@shared/object-store": "workspace:*",
-        "@shared/supabase-rr": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@tanstack/react-virtual": "*",
         "sonner": "^2.0.7",
@@ -1643,30 +1638,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "shared/supabase-rr": {
-      "name": "@shared/supabase-rr",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/pages-url": "workspace:*",
-        "@akasha/supabase-auth": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
-        "@supabase/ssr": "^0.10.2",
-        "@supabase/supabase-js": "^2.104.0",
-        "cookie": "^1.0.2",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "@types/react": "^19",
-        "react": "^19.2.0",
-        "react-router": "7.15.1",
-        "typescript": "^5.8.3",
-      },
-      "peerDependencies": {
-        "react": ">=18.3",
-        "react-router": ">=7",
-      },
-    },
     "shared/utils-narrow": {
       "name": "@shared/utils-narrow",
       "dependencies": {
@@ -1706,14 +1677,15 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/id-minting": "workspace:*",
+        "@akasha/person-system": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
         "@shared/design-system": "workspace:*",
-        "@shared/notifications": "workspace:*",
         "@shared/status-bar-access": "workspace:*",
-        "@shared/supabase-rr": "workspace:*",
         "isbot": "^5.1.36",
         "react": "19.2.0",
         "react-dom": "19.2.0",
@@ -1898,7 +1870,6 @@
         "@akasha/supabase-database": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-rr": "workspace:*",
         "@temper/game-characters": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
       },
@@ -2304,7 +2275,6 @@
         "@akasha/supabase-database": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-rr": "workspace:*",
         "@temper/game-characters": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
       },
@@ -2945,7 +2915,6 @@
         "@shared/auth": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-rr": "workspace:*",
         "@temper/game-characters-character-ui": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-characters-equipment-ui": "workspace:*",
@@ -2987,7 +2956,6 @@
         "@akasha/supabase-database": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-rr": "workspace:*",
         "@temper/game-characters": "workspace:*",
       },
       "devDependencies": {
@@ -3700,7 +3668,9 @@
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
@@ -3710,7 +3680,6 @@
         "@shared/auth": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-rr": "workspace:*",
         "@temper/game-characters": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
@@ -3792,6 +3761,8 @@
 
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:akasha/calendar-sync"],
 
+    "@akasha/checkout-provenance": ["@akasha/checkout-provenance@workspace:akasha/checkout-provenance"],
+
     "@akasha/checks-system": ["@akasha/checks-system@workspace:akasha/checks-system"],
 
     "@akasha/chess-core": ["@akasha/chess-core@workspace:akasha/chess-core"],
@@ -3860,6 +3831,8 @@
 
     "@akasha/named-for": ["@akasha/named-for@workspace:akasha/named-for"],
 
+    "@akasha/open-questions": ["@akasha/open-questions@workspace:akasha/open-questions"],
+
     "@akasha/pages-access": ["@akasha/pages-access@workspace:akasha/pages-system/pages-access"],
 
     "@akasha/pages-core": ["@akasha/pages-core@workspace:akasha/pages-system/pages-core"],
@@ -3903,6 +3876,8 @@
     "@akasha/supabase-client": ["@akasha/supabase-client@workspace:akasha/supabase-client"],
 
     "@akasha/supabase-database": ["@akasha/supabase-database@workspace:akasha/supabase-database"],
+
+    "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:akasha/supabase-rr"],
 
     "@akasha/supabase-server": ["@akasha/supabase-server@workspace:akasha/supabase-server"],
 
@@ -4482,17 +4457,11 @@
 
     "@shared/browser-test-harness": ["@shared/browser-test-harness@workspace:shared/browser-test-harness"],
 
-    "@shared/cli": ["@shared/cli@workspace:shared/cli"],
-
     "@shared/design-patterns": ["@shared/design-patterns@workspace:shared/design-patterns"],
 
     "@shared/design-system": ["@shared/design-system@workspace:shared/design-system"],
 
-    "@shared/notifications": ["@shared/notifications@workspace:shared/notifications"],
-
     "@shared/object-store": ["@shared/object-store@workspace:shared/object-store"],
-
-    "@shared/open-questions": ["@shared/open-questions@workspace:shared/open-questions"],
 
     "@shared/pages-query": ["@shared/pages-query@workspace:shared/pages-query"],
 
@@ -4503,8 +4472,6 @@
     "@shared/person-target": ["@shared/person-target@workspace:shared/person-target"],
 
     "@shared/status-bar-access": ["@shared/status-bar-access@workspace:shared/status-bar-access"],
-
-    "@shared/supabase-rr": ["@shared/supabase-rr@workspace:shared/supabase-rr"],
 
     "@shared/utils-narrow": ["@shared/utils-narrow@workspace:shared/utils-narrow"],
 

@@ -1,6 +1,6 @@
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import type { QuestionLink } from "@shared/open-questions"
+import type { QuestionLink } from "@akasha/open-questions/question-link"
 import { askComposed } from "@shared/pages-query/ask"
 import { z } from "zod"
 
