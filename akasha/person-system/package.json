@@ -6,8 +6,10 @@
     "./device-secret-body": "./device-secret-body/device-secret-body.module.code.ts",
     "./device-secret-minting": "./device-secret-minting/device-secret-minting.module.code.ts",
     "./device-secret-standing": "./device-secret-standing/device-secret-standing.module.code.ts",
+    "./device-token": "./device-token/device-token.module.code.ts",
     "./health-samples-body": "./health-samples-body/health-samples-body.module.code.ts",
     "./phone": "./person/properties/phone.phone-number-property.ts",
+    "./push-apps": "./push-apps/push-apps.module.code.ts",
     "./push-permission": "./push-permission/push-permission.module.code.ts",
     "./push-register-body": "./push-register-body/push-register-body.module.code.ts",
     "./push-routing": "./push-routing/push-routing.module.code.ts",
@@ -18,6 +20,8 @@
   "dependencies": {
     "@akasha/health-samples-access": "workspace:*",
     "@akasha/pages-url": "workspace:*",
+    "@akasha/supabase-auth": "workspace:*",
+    "@shared/pages-query": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   },
