@@ -85,18 +85,18 @@ test("a slug no service is filed under is refused by name", () => {
 })
 
 test("the service standing today is read from its page", () => {
-  const read = readFor(ROOT, "page-query-service")
+  const read = readFor(ROOT, "pages-system-service")
   expect("standing" in read).toBe(true)
   if (!("standing" in read)) return
   expect(read.standing.length).toBe(1)
-  expect(read.standing[0]?.service.slug).toBe("page-query-service")
+  expect(read.standing[0]?.service.slug).toBe("pages-system-service")
   expect(read.standing[0]?.service.enabled).toBe(true)
-  expect(read.standing[0]?.pagePath).toContain("page-query-service.workstation-service.ts")
+  expect(read.standing[0]?.pagePath).toContain("pages-system-service.workstation-service.ts")
 })
 
 test("every service standing is read, and the one standing today is among them", () => {
   const read = everyService(ROOT)
   expect("standing" in read).toBe(true)
   if (!("standing" in read)) return
-  expect(read.standing.map((one) => one.service.slug)).toContain("page-query-service")
+  expect(read.standing.map((one) => one.service.slug)).toContain("pages-system-service")
 })

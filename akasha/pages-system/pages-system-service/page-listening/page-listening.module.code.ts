@@ -4,7 +4,7 @@ import { numberAt, textsAt, valueAt } from "@akasha/pages-system/page-value"
 import { answering } from "../page-serving/page-serving.module.code.ts"
 import { writerFor } from "../page-writing/page-writing.module.code.ts"
 
-export const SERVICE_SLUG = "page-query-service"
+export const SERVICE_SLUG = "pages-system-service"
 export const SERVICE_PAGE_TYPE = "workstation-service"
 export const LOOPBACK = "127.0.0.1"
 
