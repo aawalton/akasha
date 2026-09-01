@@ -25,11 +25,13 @@ import {
   type Value,
   type Written,
 } from "@akasha/pages-query"
+import { askComposed as askComposedThere } from "@akasha/pages-query/ask"
 import { paramsIn } from "../../../readouts/ask-answer.ts"
 import type { WriteAct } from "../../../tools/lib/page-landing-judge.ts"
 import { answered } from "../../../tools/lib/page-query-answer.ts"
 import { written } from "../../../tools/lib/page-query-landing.ts"
 import { askedOf, here, standsHere, whyIn } from "./here.ts"
+import { pageTypeOf, standingOf } from "./named.ts"
 
 export { patchFiles, readFiles, readPages, removeFiles, writeFiles } from "@akasha/pages-query"
 
@@ -243,19 +245,32 @@ export async function patchPageIfMatch(
   return { outcome: "absent", why: String(body.why ?? `no page stands at ${pageType}/${name}`) }
 }
 
+async function namedAsked(
+  slug: string,
+  given: Given,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<Asked> {
+  const pageType = pageTypeOf(slug)
+  const standing = standingOf(slug, given, pageType === null || standsHere(pageType))
+  if (standing.where === "refused") return { ok: false, why: standing.why, status: 400 }
+  if (standing.where === "there") return askComposedThere(standing.query, fetcher, naps)
+  return askedOf(answered(here(), slug, paramsIn(given)))
+}
+
 export async function askNamed(
   slug: string,
-  _fetcher?: Fetcher,
-  _naps?: Sleeper
+  fetcher?: Fetcher,
+  naps?: Sleeper
 ): Promise<Asked> {
-  return askedOf(answered(here(), slug, new URLSearchParams()))
+  return namedAsked(slug, {}, fetcher, naps)
 }
 
 export async function askTaking(
   slug: string,
   given: Given,
-  _fetcher?: Fetcher,
-  _naps?: Sleeper
+  fetcher?: Fetcher,
+  naps?: Sleeper
 ): Promise<Asked> {
-  return askedOf(answered(here(), slug, paramsIn(given)))
+  return namedAsked(slug, given, fetcher, naps)
 }
