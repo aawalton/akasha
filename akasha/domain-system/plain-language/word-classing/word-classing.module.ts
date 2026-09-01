@@ -30,6 +30,11 @@ export const wordClassing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A relativizer that can open a clause used as a noun is classed apart from one that cannot.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A word opening with a backtick is a noun.",
     },
     {

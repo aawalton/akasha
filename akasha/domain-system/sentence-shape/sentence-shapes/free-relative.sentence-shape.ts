@@ -5,5 +5,5 @@ export const freeRelative = {
   pageTypeSlug: "sentence-shape",
   slug: "free-relative",
   definition: "a clause used where a noun would be",
-  rules: ["NP -> REL VP | REL NOM VP | REL NP VP"],
+  rules: ["NP -> WH VP | WH NOM VP | WH NP VP"],
 } as const satisfies SentenceShape

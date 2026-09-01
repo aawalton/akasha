@@ -16,6 +16,8 @@ export const PREP = listed(
 
 export const REL = listed("that which who whom whose where when what")
 
+export const WH = listed("which who whom whose where when what")
+
 export const REL_NOUN = listed("what")
 
 export const DEM = listed("this that these those")
@@ -53,6 +55,7 @@ export type WordClass =
   | "INDEF"
   | "PREP"
   | "REL"
+  | "WH"
   | "BE"
   | "AUX"
   | "MODAL"
@@ -77,6 +80,7 @@ const CLOSED: readonly (readonly [ReadonlySet<string>, WordClass])[] = [
   [INDEF, "INDEF"],
   [PREP, "PREP"],
   [REL, "REL"],
+  [WH, "WH"],
   [BE, "BE"],
   [AUX, "AUX"],
   [MODAL, "MODAL"],
