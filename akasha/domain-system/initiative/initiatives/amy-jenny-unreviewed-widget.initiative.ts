@@ -12,7 +12,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "A file writing a page through the page store lands the write rather than refusing.",
       workingMemory:
-        "Two timed services name the fault and fail every tick: daily-tracking-points cannot find `tools/lib/page-query-in-process.ts`, deleted, and great-courses-sync cannot find `@shared/pages-query/fetcher`. Both stand failed with live timers. `tools/lib/page-query-client.ts` still answers, returning 132 daily-tracking rows. 49 of the 50 page types the callers write are markdown under pages/. The call stands: an adapter puts those callers back on the working client as each page type lands.",
+        "Alan repaired the two timed services himself in a08342663a, so neither fails live; systemctl still reads failed from a run before that fix, which is stale rather than current. One importer of the deleted module survives at ops-cli/global/deploy/deploy.command.code.attachment.ts:39. 49 of the 50 page types the callers write are markdown under pages/, and the store answers for akasha alone, so a renderer is what this intent wants. `tools/lib/page-query-client.ts` still answers 132 rows.",
     },
     {
       statement: "`pages-core` stands in akasha.",
