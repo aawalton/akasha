@@ -2,7 +2,6 @@ import { loadSmsExternalIdentities } from "@akasha/sms-access/sms-allowlist"
 import { recordSmsDiscard } from "@akasha/sms-access/sms-discard"
 import { handleInboundSms } from "@akasha/sms-core/handle-inbound"
 import { writePage } from "@shared/pages-query"
-import { createServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { z } from "zod"
 import type { Route } from "./+types/api.sms.webhook"
 
@@ -26,7 +25,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
       signatureBase64,
       timestamp,
       publicKeyBase64: publicKey.data,
-      loadIdentities: () => loadSmsExternalIdentities(createServiceRoleClient()),
+      loadIdentities: () => loadSmsExternalIdentities(),
       nowMs: Date.now(),
     },
     async (target, content, kind) => {
