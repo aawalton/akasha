@@ -11,9 +11,6 @@
         "@alanwalton/email-google": "workspace:*",
         "@alanwalton/imessage": "workspace:*",
         "@alanwalton/mobile-cli": "workspace:*",
-        "@alanwalton/tower": "workspace:*",
-        "@alanwalton/tower-core": "workspace:*",
-        "@alanwalton/tower-engine": "workspace:*",
         "@collections/exercises": "workspace:*",
         "@collections/music": "workspace:*",
         "@collections/music-spotify": "workspace:*",
@@ -271,6 +268,13 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/location-traces-access": {
+      "name": "@akasha/location-traces-access",
+      "dependencies": {
+        "@shared/day": "workspace:*",
+        "@shared/pages-query": "workspace:*",
+      },
+    },
     "akasha/pages-system": {
       "name": "@akasha/pages-system",
     },
@@ -407,10 +411,10 @@
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/location-traces-access": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
-        "@alanwalton/location-traces-access": "workspace:*",
         "@capacitor/core": "^8.4.1",
         "@capacitor/preferences": "^8.0.1",
         "@capgo/background-geolocation": "^8.3.1",
@@ -538,18 +542,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "alanwalton/location-traces-access": {
-      "name": "@alanwalton/location-traces-access",
-      "version": "0.1.0",
-      "dependencies": {
-        "@shared/day": "workspace:*",
-        "@shared/recurrence": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "alanwalton/mobile-cli": {
       "name": "@alanwalton/mobile-cli",
       "version": "0.1.0",
@@ -561,40 +553,6 @@
         "@shared/utils-process": "workspace:*",
         "zod": "^4.3.6",
       },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "alanwalton/tower": {
-      "name": "@alanwalton/tower",
-      "version": "0.1.0",
-      "dependencies": {
-        "@alanwalton/tower-core": "workspace:*",
-        "@alanwalton/tower-engine": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
-        "@stories/text": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "alanwalton/tower-core": {
-      "name": "@alanwalton/tower-core",
-      "version": "0.1.0",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "alanwalton/tower-engine": {
-      "name": "@alanwalton/tower-engine",
-      "version": "0.1.0",
       "devDependencies": {
         "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
@@ -4057,6 +4015,8 @@
 
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
 
+    "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
+
     "@akasha/pages-access": ["@akasha/pages-access@workspace:akasha/pages-system/pages-access"],
 
     "@akasha/pages-core": ["@akasha/pages-core@workspace:akasha/pages-system/pages-core"],
@@ -4111,17 +4071,9 @@
 
     "@alanwalton/imessage": ["@alanwalton/imessage@workspace:alanwalton/imessage"],
 
-    "@alanwalton/location-traces-access": ["@alanwalton/location-traces-access@workspace:alanwalton/location-traces-access"],
-
     "@alanwalton/mobile-cli": ["@alanwalton/mobile-cli@workspace:alanwalton/mobile-cli"],
 
     "@alanwalton/native-shell": ["@alanwalton/native-shell@workspace:akasha/code-system/ios-app/ios-apps/alanwalton"],
-
-    "@alanwalton/tower": ["@alanwalton/tower@workspace:alanwalton/tower"],
-
-    "@alanwalton/tower-core": ["@alanwalton/tower-core@workspace:alanwalton/tower-core"],
-
-    "@alanwalton/tower-engine": ["@alanwalton/tower-engine@workspace:alanwalton/tower-engine"],
 
     "@alanwalton/web": ["@alanwalton/web@workspace:alanwalton/web"],
 
