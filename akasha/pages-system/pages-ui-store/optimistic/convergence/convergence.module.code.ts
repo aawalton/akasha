@@ -1,5 +1,5 @@
-import { isRecord } from "@shared/utils-narrow/is-record"
-import { jsonEqual } from "@shared/utils-narrow/json-equal"
+import { isRecord } from "@akasha/utils-narrow/is-record"
+import { jsonEqual } from "@akasha/utils-narrow/json-equal"
 import type { Collection } from "@tanstack/db"
 import { FILE_BACKING_POLL_MS } from "../../collection/fetch-attach/fetch-attach.module.code.ts"
 import { asPageRow, type PageRow } from "../../collection/page-row/page-row.module.code.ts"

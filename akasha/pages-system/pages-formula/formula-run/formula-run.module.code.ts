@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { Value, Values } from "../formula-language/formula-language.module.code.ts"
 import type { Expression, TextPart } from "../formula-tree/formula-tree.module.code.ts"
 

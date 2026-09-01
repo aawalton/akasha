@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { Refused } from "../formula-language/formula-language.module.code.ts"
 import { refuse } from "../formula-refusal/formula-refusal.module.code.ts"
 import {

@@ -7,6 +7,6 @@
     "./held": "./formula-held/formula-held.module.code.ts"
   },
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*"
+    "@akasha/utils-narrow": "workspace:*"
   }
 }
