@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const webBuildSha = {
   id: "01a05c48-deeb-700d-9df1-fad9c81a0a32",
