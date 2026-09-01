@@ -1,4 +1,4 @@
-import type { PoolBarColor, PoolPresentation } from "@alanwalton/awen-core/game-schema"
+import type { PoolBarColor, PoolPresentation } from "@akasha/awen-core/game-schema"
 import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import type { ClientHud } from "../lib/client-session"

@@ -1,6 +1,6 @@
-import { classifyActionBarMessage } from "@alanwalton/awen-core/action-bar-message"
-import { type GameDisplayModules } from "@alanwalton/awen-core/game-schema"
-import { type GameState } from "@alanwalton/awen-core/state-schema"
+import { classifyActionBarMessage } from "@akasha/awen-core/action-bar-message"
+import { type GameDisplayModules } from "@akasha/awen-core/game-schema"
+import { type GameState } from "@akasha/awen-core/state-schema"
 import type { PendingActionInput, SessionEnvelope } from "./client-envelope"
 import {
   type ClientBeat,

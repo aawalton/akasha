@@ -1,4 +1,4 @@
-import type { PoolPresentation } from "@alanwalton/awen-core/game-schema"
+import type { PoolPresentation } from "@akasha/awen-core/game-schema"
 import type { ClientHud } from "./client-session"
 
 export interface PoolBar {

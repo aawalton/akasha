@@ -45,7 +45,7 @@
     "infra/git-transport",
     "infra/inference",
     "alanwalton/atlas-web",
-    "alanwalton/awen-core",
+    "akasha/awen-core",
     "alanwalton/health-samples-access",
     "alanwalton/location-traces-access",
     "akasha/personas-core",

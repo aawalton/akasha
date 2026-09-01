@@ -1,7 +1,7 @@
 "use client"
 
-import { formatPlayerChoiceAction } from "@alanwalton/awen-core/choice-action"
-import { type SystemChoice } from "@alanwalton/awen-core/system-window-schema"
+import { formatPlayerChoiceAction } from "@akasha/awen-core/choice-action"
+import { type SystemChoice } from "@akasha/awen-core/system-window-schema"
 import { Button } from "@shared/design-primitives/components/button"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"

@@ -1,4 +1,4 @@
-import { pendingActions } from "@alanwalton/awen-core/action-box"
+import { pendingActions } from "@akasha/awen-core/action-box"
 import { askComposed } from "@shared/pages-query/ask"
 import type { PendingActionInput } from "./client-envelope"
 import type { AwenGameConfig } from "./game.server"

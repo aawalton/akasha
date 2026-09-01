@@ -1,4 +1,4 @@
-import { parseProseIntoRawSegments } from "@alanwalton/awen-core/prose-segments"
+import { parseProseIntoRawSegments } from "@akasha/awen-core/prose-segments"
 import type { ClientBeat } from "./client-session"
 import type { ClientProseSegment, ClientStoryTurn } from "./client-story-session"
 

@@ -1,4 +1,4 @@
-import { type GameState, GameStateSchema } from "@alanwalton/awen-core/state-schema"
+import { type GameState, GameStateSchema } from "@akasha/awen-core/state-schema"
 
 export interface AwenStatePageFields {
   readonly turn: unknown

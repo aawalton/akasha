@@ -1,4 +1,4 @@
-import type { QuestStatus } from "@alanwalton/awen-core/quest-schema"
+import type { QuestStatus } from "@akasha/awen-core/quest-schema"
 import type { ClientQuest } from "../lib/client-session"
 
 const STATUS_LABEL: Record<QuestStatus, string> = {

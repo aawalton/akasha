@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@shared/day": "workspace:*",
-    "@alanwalton/awen-core": "workspace:*",
+    "@akasha/awen-core": "workspace:*",
     "@alanwalton/chess": "workspace:*",
     "@alanwalton/health-samples-access": "workspace:*",
     "@akasha/sms-access": "workspace:*",

@@ -1,6 +1,6 @@
-import { resolveChapterProseDials } from "@alanwalton/awen-core/display-defaults"
-import { GameDisplayConfigSchema, type ResolvedGameDisplay, resolveGameDisplay } from "@alanwalton/awen-core/game-schema"
-import { resolveRevealKeys } from "@alanwalton/awen-core/reveal-spec"
+import { resolveChapterProseDials } from "@akasha/awen-core/display-defaults"
+import { GameDisplayConfigSchema, type ResolvedGameDisplay, resolveGameDisplay } from "@akasha/awen-core/game-schema"
+import { resolveRevealKeys } from "@akasha/awen-core/reveal-spec"
 import { askComposed } from "@shared/pages-query/ask"
 import { z } from "zod"
 

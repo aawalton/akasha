@@ -1,4 +1,4 @@
-import type { AlertSound } from "@alanwalton/awen-core/game-schema"
+import type { AlertSound } from "@akasha/awen-core/game-schema"
 
 interface Note {
   readonly freq: number

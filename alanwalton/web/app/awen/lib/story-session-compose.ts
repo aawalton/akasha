@@ -1,5 +1,5 @@
-import { type ChapterProseHistory } from "@alanwalton/awen-core/game-schema"
-import { isPublishedTurnStatus, TurnStatusSchema } from "@alanwalton/awen-core/turn-schema"
+import { type ChapterProseHistory } from "@akasha/awen-core/game-schema"
+import { isPublishedTurnStatus, TurnStatusSchema } from "@akasha/awen-core/turn-schema"
 import { buildPageHrefParam, PageTypeSlug } from "@shared/pages-url"
 import { z } from "zod"
 import type { ClientStoryChapter, ClientStoryTurn } from "./client-story-session"

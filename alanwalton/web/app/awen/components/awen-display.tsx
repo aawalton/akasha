@@ -1,6 +1,6 @@
 "use client"
 
-import type { ResolvedGameDisplay } from "@alanwalton/awen-core/game-schema"
+import type { ResolvedGameDisplay } from "@akasha/awen-core/game-schema"
 import { useEffect, useState } from "react"
 import { API_ORIGIN } from "~/lib/api-origin"
 import { useContentAlerts } from "../hooks/use-content-alerts"
