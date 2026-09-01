@@ -22,9 +22,5 @@
     "./**/*.test.ts",
     "./**/*.test.tsx"
   ],
-  "references": [
-    {
-      "path": "../errors-core"
-    }
-  ]
+  "references": []
 }
