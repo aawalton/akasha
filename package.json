@@ -22,6 +22,7 @@
     "akasha/person-system",
     "akasha/persona-system",
     "akasha/readout-system",
+    "akasha/design/design-badges",
     "akasha/seat-system",
     "akasha/service-system",
     "akasha/testing-system",
