@@ -1,4 +1,4 @@
-import { InputError, OperationalError } from "@shared/errors-core/exit"
+import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
 import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
 import { z } from "zod"
 import type { DriveClient } from "../drive-client/drive-client.module.code.ts"
