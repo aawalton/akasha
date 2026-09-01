@@ -16,7 +16,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
       workingMemory:
-        "Six folders left under `alanwalton/`, and `calendar-sync` is deploy machinery only now rather than a package. `@akasha/calendar-sync`, `@akasha/health-samples-import` (was `elaine-cli`, which states no `bin`) and `@akasha/ssh-access` landed; the last cleared the four `no-rule-in-two-files` refusals, so the audit stands at 11, all Capacitor. `mobile-cli`'s four `ios-program` reaches are named now; the rest wait on `pages/ios-app/` moving in: eight keys and one app akasha has not.",
+        "Six folders under `alanwalton/`, two build scratch; `calendar-sync` there is 3 files of deploy machinery over `@akasha/calendar-sync`; that, `@akasha/health-samples-import` and `@akasha/ssh-access` landed. Audit: 40 checks, 5497 files, 16 refusals — 11 `manifest-names-what-is-reached`, all `@capacitor` and not moving; 4 `no-rule-in-two-files`, down from 15 in an hour; 1 lower-camel. mobile-cli's 4 `ios-program` reaches resolve; 6 escapes in 3 files onto `tools/lib`/`repo/roots` block it.",
     },
     {
       statement: "The design packages stand in akasha.",
