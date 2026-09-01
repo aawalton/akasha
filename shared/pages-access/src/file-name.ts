@@ -2,7 +2,7 @@ import type { Value } from "@shared/pages-query"
 import { camelizeKey, SETTLED_BY_ROW } from "./file-rows"
 import { FileWriteError } from "./file-write-error"
 import { filledBy, type HeldAt, holesIn, unfilledIn } from "@shared/named-for"
-import type { PageWhere } from "@shared/pages-core/page-types"
+import type { PageWhere } from "@akasha/pages-core/page-types"
 
 export type Filled =
   | { readonly ok: true; readonly stem: string }

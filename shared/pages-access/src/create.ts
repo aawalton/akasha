@@ -9,7 +9,7 @@ import {
 } from "./guards"
 import { overServer, writesOverServer } from "./over-server"
 import { type PagePropertiesInput, type PageSelect } from "./types"
-import { Page, type PageWhere } from "@shared/pages-core/page-types"
+import { asPage, type PageWhere } from "@akasha/pages-core/page-types"
 
 export type CreatePageArgs<T extends Record<string, unknown> = Record<string, Json>> = {
   pageTypeSlug: string
@@ -29,7 +29,7 @@ export async function createPage<T extends Record<string, unknown> = Record<stri
     ...args.properties,
   })
   await requireFileBacked("createPage", args.pageTypeSlug)
-  if (writesOverServer()) return Page(await overServer("createPage", args))
+  if (writesOverServer()) return asPage(await overServer("createPage", args))
   return createFilePage({
     pageTypeSlug: args.pageTypeSlug,
     properties: args.properties,
@@ -65,7 +65,7 @@ export async function createPageIfAbsent<T extends Record<string, unknown> = Rec
   await requireFileBacked("createPageIfAbsent", args.pageTypeSlug)
   if (writesOverServer()) {
     const over = CREATED_OVER_SERVER.parse(await overServer("createPageIfAbsent", args))
-    return { page: Page(over.page), created: over.created }
+    return { page: asPage(over.page), created: over.created }
   }
   return upsertFilePage(
     {

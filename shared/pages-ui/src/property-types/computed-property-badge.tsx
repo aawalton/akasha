@@ -1,9 +1,9 @@
 "use client"
 
 import { EmptyBadge } from "@akasha/design-badges/empty-badge"
-import { resolveComputedProperty } from "@shared/pages-core/property-types/resolve-computed-type"
-import { type PageTypePropertiesMap, parseRollupConfig } from "@shared/pages-core/property-types/rollup"
-import { type PropertyDefinition } from "@shared/pages-core/types"
+import { resolveComputedProperty } from "@akasha/pages-core/property-types/resolve-computed-type"
+import { type PageTypePropertiesMap, parseRollupConfig } from "@akasha/pages-core/property-types/rollup"
+import { type PropertyDefinition } from "@akasha/pages-core/types"
 import type * as React from "react"
 
 import type { PropertyBadgeProps } from "./property-badge"

@@ -186,6 +186,17 @@
     "akasha/pages-system/indexes": {
       "name": "@akasha/indexes",
     },
+    "akasha/pages-system/pages-core": {
+      "name": "@akasha/pages-core",
+      "dependencies": {
+        "@shared/day": "workspace:*",
+        "@shared/pages-system": "workspace:*",
+        "@shared/pages-url": "workspace:*",
+        "@shared/supabase-database": "workspace:*",
+        "@shared/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/pages-system/pages-query": {
       "name": "@akasha/pages-query",
     },
@@ -263,6 +274,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@alanwalton/location-traces-access": "workspace:*",
         "@capacitor/core": "^8.4.1",
@@ -277,7 +289,6 @@
         "@shared/geo-io": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
@@ -314,7 +325,7 @@
       "name": "@alanwalton/awen-core",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/pages-core": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -489,7 +500,7 @@
       "name": "@alanwalton/personas-core",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/pages-core": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -538,6 +549,7 @@
       "dependencies": {
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/sms-access": "workspace:*",
         "@akasha/sms-core": "workspace:*",
@@ -558,7 +570,6 @@
         "@shared/object-store": "workspace:*",
         "@shared/open-questions": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/recurrence": "workspace:*",
@@ -624,6 +635,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@infra/k8s-types": "workspace:*",
         "@shared/design-primitives": "workspace:*",
@@ -631,7 +643,6 @@
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
@@ -713,9 +724,9 @@
       "name": "@collections/litrpg",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/pages-core": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@shared/utils-sync": "workspace:*",
@@ -1221,8 +1232,8 @@
         "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@shared/design-primitives": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "ansi-to-html": "^0.7.2",
         "class-variance-authority": "^0.7.1",
         "lucide-react": "^0.576.0",
@@ -1484,7 +1495,7 @@
       "name": "@shared/open-questions",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/pages-core": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
       },
@@ -1497,9 +1508,9 @@
       "name": "@shared/pages-access",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/pages-core": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/named-for": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -1555,6 +1566,7 @@
       "dependencies": {
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@shared/day": "workspace:*",
@@ -1563,7 +1575,6 @@
         "@shared/errors-client": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/supabase-database": "workspace:*",
@@ -1661,10 +1672,10 @@
       "name": "@shared/status-bar-access",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/pages-core": "workspace:*",
         "@alanwalton/health-samples-access": "workspace:*",
         "@alanwalton/personas-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -1802,8 +1813,8 @@
     "shared/utils-sync": {
       "name": "@shared/utils-sync",
       "dependencies": {
+        "@akasha/pages-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/supabase-server": "workspace:*",
       },
@@ -3217,9 +3228,9 @@
       "name": "@temper/scripts",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/pages-core": "workspace:*",
         "@shared/day": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/supabase-client": "workspace:*",
         "@shared/supabase-database": "workspace:*",
@@ -3880,6 +3891,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@infra/k8s-types": "workspace:*",
         "@shared/auth": "workspace:*",
@@ -3888,7 +3900,6 @@
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-core": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/supabase-database": "workspace:*",
@@ -3994,6 +4005,8 @@
     "@akasha/idle-system": ["@akasha/idle-system@workspace:akasha/idle-system"],
 
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
+
+    "@akasha/pages-core": ["@akasha/pages-core@workspace:akasha/pages-system/pages-core"],
 
     "@akasha/pages-query": ["@akasha/pages-query@workspace:akasha/pages-system/pages-query"],
 

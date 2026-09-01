@@ -1,4 +1,4 @@
-import type { CoherenceRule } from "@shared/pages-core/schema/coherence-rules"
+import type { CoherenceRule } from "@akasha/pages-core/schema/coherence-rules"
 
 export const PERSONA_POINTS_SOURCE_COHERENCE_RULES: readonly CoherenceRule[] = [
   {

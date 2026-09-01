@@ -1,9 +1,9 @@
 "use client"
 
-import { parsePageTypeData } from "@shared/pages-core/schema/pages"
-import { parseQuickAddConfig, type QuickAddConfig } from "@shared/pages-core/schema/quick-add"
-import { resolveDefinitionOptions } from "@shared/pages-core/schema/resolve-select-options"
-import { type PropertyDefinition } from "@shared/pages-core/types"
+import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
+import { parseQuickAddConfig, type QuickAddConfig } from "@akasha/pages-core/schema/quick-add"
+import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
+import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { useMemo } from "react"
 import { usePagesUIRouter } from "../../router-context"
 import { useAllPages } from "../../supabase/hooks"

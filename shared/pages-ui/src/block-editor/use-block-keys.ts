@@ -1,8 +1,8 @@
 "use client"
 
-import { isBlankBlock, type RichDocument } from "@shared/pages-core/property-types/rich-document"
-import { createBlock, type EditorOp, newBlockId } from "@shared/pages-core/property-types/rich-document-ops"
-import { findBlock, findBlockPath, flattenBlockIds, getBlockAtPath } from "@shared/pages-core/property-types/rich-document-tree"
+import { isBlankBlock, type RichDocument } from "@akasha/pages-core/property-types/rich-document"
+import { createBlock, type EditorOp, newBlockId } from "@akasha/pages-core/property-types/rich-document-ops"
+import { findBlock, findBlockPath, flattenBlockIds, getBlockAtPath } from "@akasha/pages-core/property-types/rich-document-tree"
 import { type RefObject, useCallback, useState } from "react"
 import { planEnterSplit, textOf } from "./block-type-helpers"
 import type { SlashChoice } from "./slash-menu"

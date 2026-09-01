@@ -2,14 +2,14 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { useBadgeLayoutContext } from "@akasha/design-badges/badge-layout-context"
-import type { PageDataJSON } from "@shared/pages-core/types"
-import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
+import type { PageDataJSON } from "@akasha/pages-core/types"
+import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import { requireGet } from "@shared/utils-narrow/require-get"
 
 import { MultiSelectPopover } from "../components/multi-select-popover"
-import type { PropertyDefinition } from "@shared/pages-core/types"
-import { parseConfig } from "@shared/pages-core/schema/pages"
-import { multiSelectConfigSchema } from "@shared/pages-core/schema/property-config-schemas"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
+import { parseConfig } from "@akasha/pages-core/schema/pages"
+import { multiSelectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyBadgeProps } from "./property-badge"
 import type { PropertyValue, SelectOption } from "./types"
 

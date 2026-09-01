@@ -9,7 +9,7 @@ import { drawCost } from "@akasha/idle-system/gacha-state"
 import { displayedResource, totalRate } from "@akasha/idle-system/rate"
 import { type GameState } from "@akasha/idle-system/state"
 import { deriveAscensionView } from "~/idle/lib/display"
-import { formatShortNumber as fmt } from "@shared/pages-core/property-types/number"
+import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
 import { runDraw } from "~/idle/lib/idle-draw-verb"
 import type { IdleActions } from "~/idle/lib/use-idle-actions"
 

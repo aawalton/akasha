@@ -1,4 +1,4 @@
-import { isMedium, type Medium } from "@shared/pages-core/media-formats"
+import { isMedium, type Medium } from "@akasha/pages-core/media-formats"
 import { z } from "zod"
 import type { ActiveSessionInit } from "./playing-session"
 

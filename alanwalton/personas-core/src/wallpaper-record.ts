@@ -1,4 +1,4 @@
-import type { PageCondition } from "@shared/pages-core/page-types"
+import type { PageCondition } from "@akasha/pages-core/page-types"
 import { personaSlugCondition, relationshipLevelMatchCondition } from "./persona-page-conditions"
 
 export const PERSONA_WALLPAPER_PAGE_TYPE_SLUG = "persona-wallpaper"

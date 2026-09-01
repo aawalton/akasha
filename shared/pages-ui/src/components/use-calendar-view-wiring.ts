@@ -1,7 +1,7 @@
-import { calendarDayToPropertyValue, isCalendarDraggablePropertyType, isCalendarKeyablePropertyType } from "@shared/pages-core/view/calendar-date-to-value"
+import { calendarDayToPropertyValue, isCalendarDraggablePropertyType, isCalendarKeyablePropertyType } from "@akasha/pages-core/view/calendar-date-to-value"
 import { useCallback, useMemo } from "react"
-import type { PropertyDefinition } from "@shared/pages-core/types"
-import type { ViewConfig } from "@shared/pages-core/schema/view-data"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
+import type { ViewConfig } from "@akasha/pages-core/schema/view-data"
 
 interface UseCalendarViewWiringArgs {
   properties: readonly PropertyDefinition[]

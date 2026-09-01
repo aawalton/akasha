@@ -1,4 +1,4 @@
-import { colorRuleVariantSchema } from "@shared/pages-core/schema/color-rule"
+import { colorRuleVariantSchema } from "@akasha/pages-core/schema/color-rule"
 import type { PageResolverEntry, PageResolverValue } from "../contexts/page-resolver"
 import type { PageWithProperties } from "../supabase/types"
 

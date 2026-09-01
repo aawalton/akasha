@@ -1,6 +1,6 @@
 import { type ActionPresentation, type ActionVerbContext, registerActionVerb } from "@shared/pages-ui/action-verbs/action-verb-registry"
 import { z } from "zod"
-import { formatShortNumber as fmt } from "@shared/pages-core/property-types/number"
+import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
 import { IDLE_LOCK_STATE_UNLOCKED, IDLE_TRAINMAX_VERB_ID } from "~/idle/lib/idle-card-page-type"
 import { idleGameStore } from "~/idle/lib/idle-game-store"
 

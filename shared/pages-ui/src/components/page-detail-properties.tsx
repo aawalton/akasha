@@ -1,7 +1,7 @@
 "use client"
 
 import { useMemo } from "react"
-import type { PageDataJSON, PropertyDefinition } from "@shared/pages-core/types"
+import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { PropertyBadge } from "../property-types/property-badge.tsx"
 import type { PropertyValue } from "../property-types/types.ts"
 import { SortablePropertyList } from "./page-detail-sortable-list.tsx"

@@ -1,7 +1,7 @@
 "use client"
 
-import { type RichDocument } from "@shared/pages-core/property-types/rich-document"
-import { flattenBlockIds } from "@shared/pages-core/property-types/rich-document-tree"
+import { type RichDocument } from "@akasha/pages-core/property-types/rich-document"
+import { flattenBlockIds } from "@akasha/pages-core/property-types/rich-document-tree"
 import { type RefObject, useCallback, useEffect, useRef } from "react"
 import type { FocusCaret } from "./use-block-keys"
 

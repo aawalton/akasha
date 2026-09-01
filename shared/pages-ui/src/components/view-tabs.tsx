@@ -17,7 +17,7 @@ import { TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
 import { Ellipsis } from "lucide-react"
 import { type CSSProperties, useCallback, useEffect, useRef, useState } from "react"
-import type { ViewDataJSON } from "@shared/pages-core/schema/view-data"
+import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import type { ViewCallbacks } from "../mutators/views"
 import { CreateViewPopover } from "./create-view-popover"
 import {

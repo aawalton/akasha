@@ -6,7 +6,7 @@ import { DegradingImage } from "@shared/pages-ui/components/degrading-image"
 import { useEffect, useSyncExternalStore } from "react"
 import { ErrorMessage } from "~/idle/components/error-message"
 import { BASE_IMAGE_ID } from "@akasha/idle-system/constants"
-import { formatShortNumber as fmt } from "@shared/pages-core/property-types/number"
+import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
 import {
   ensureCatalogLoaded,
   getCatalogSnapshot,

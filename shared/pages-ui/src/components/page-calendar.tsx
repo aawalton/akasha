@@ -8,7 +8,7 @@ import { FilterableList, FilterableListItem } from "@shared/design-primitives/co
 import { Heading } from "@shared/design-primitives/components/heading"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { buildMonthGrid, CALENDAR_WEEKDAY_LABELS, monthKeyOf, shiftMonth } from "@shared/pages-core/view/calendar-grid"
+import { buildMonthGrid, CALENDAR_WEEKDAY_LABELS, monthKeyOf, shiftMonth } from "@akasha/pages-core/view/calendar-grid"
 import { Calendar as CalendarIcon, ChevronLeft, ChevronRight } from "lucide-react"
 import {
   type KeyboardEvent as ReactKeyboardEvent,
@@ -16,7 +16,7 @@ import {
   type ReactNode,
   useState,
 } from "react"
-import type { PropertyDefinition } from "@shared/pages-core/types"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PageRow } from "../view-engine/page-row"
 import { usePageCalendarState } from "./use-page-calendar-state"
 

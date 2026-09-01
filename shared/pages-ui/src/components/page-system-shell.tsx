@@ -6,7 +6,7 @@ import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design
 import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
-import type { ViewDataJSON } from "@shared/pages-core/schema/view-data"
+import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import type { ViewCallbacks } from "../mutators/views"
 import { deriveShellEmptyState } from "./page-system-shell-helpers"
 import type { ViewTabItem } from "./view-tab-context-menu"

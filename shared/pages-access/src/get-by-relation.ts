@@ -1,6 +1,6 @@
 import { type FileRelationDeps, getFilePagesByRelation } from "./file-relation"
 import type { PageSelect } from "./types"
-import type { Page, PageWhere } from "@shared/pages-core/page-types"
+import type { Page, PageWhere } from "@akasha/pages-core/page-types"
 
 export type GetPagesByRelationArgs = {
   relationKey: string

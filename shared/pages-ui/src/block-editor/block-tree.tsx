@@ -1,6 +1,6 @@
 "use client"
 
-import type { Block } from "@shared/pages-core/property-types/rich-document"
+import type { Block } from "@akasha/pages-core/property-types/rich-document"
 import type { ReactNode } from "react"
 
 interface BlockTreeProps {

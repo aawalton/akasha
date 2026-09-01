@@ -10,7 +10,7 @@ import {
 } from "./guards"
 import { overServer, writesOverServer } from "./over-server"
 import { type PagePropertiesInput, type PageSelect } from "./types"
-import { Page, type PageWhere } from "@shared/pages-core/page-types"
+import { asPage, type PageWhere } from "@akasha/pages-core/page-types"
 
 export type UpsertPageArgs<T extends Record<string, unknown> = Record<string, Json>> = {
   pageTypeSlug: string
@@ -37,12 +37,12 @@ export type BulkUpsertPagesArgs<T extends Record<string, unknown> = Record<strin
 }
 
 function asPage(value: unknown): Page {
-  return Page(value)
+  return asPage(value)
 }
 
 function asPageList(value: unknown): readonly Page[] {
   if (!Array.isArray(value)) return []
-  return value.map((row) => Page(row))
+  return value.map((row) => asPage(row))
 }
 
 export async function upsertPage<T extends Record<string, unknown> = Record<string, Json>>(

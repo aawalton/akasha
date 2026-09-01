@@ -1,7 +1,7 @@
 "use client"
 
-import type { GalleryCardSize } from "@shared/pages-core/view/gallery"
-import { resolveGalleryCardSize } from "@shared/pages-core/view/gallery"
+import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
+import { resolveGalleryCardSize } from "@akasha/pages-core/view/gallery"
 import { PageCardRenderer } from "@shared/pages-ui/components/page-card-renderer"
 import { PageSystemTabContent } from "@shared/pages-ui/components/page-system-view"
 import { useReorderViewWiring } from "@shared/pages-ui/components/use-reorder-view-wiring"

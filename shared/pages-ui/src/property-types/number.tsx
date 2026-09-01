@@ -2,14 +2,14 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { NumberBadge } from "@akasha/design-badges/number-badge"
-import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
-import { formatPropertyNumber, toNumber } from "@shared/pages-core/property-types/number"
-import { type NumberConfig } from "@shared/pages-core/schema/property-config-schemas"
+import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
+import { formatPropertyNumber, toNumber } from "@akasha/pages-core/property-types/number"
+import { type NumberConfig } from "@akasha/pages-core/schema/property-config-schemas"
 
-import type { PropertyDefinition } from "@shared/pages-core/types"
-import { type BadgeVariant } from "@shared/pages-core/schema/color-rule"
-import { parseConfig } from "@shared/pages-core/schema/pages"
-import { numberConfigSchema } from "@shared/pages-core/schema/property-config-schemas"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
+import { type BadgeVariant } from "@akasha/pages-core/schema/color-rule"
+import { parseConfig } from "@akasha/pages-core/schema/pages"
+import { numberConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyBadgeProps } from "./property-badge"
 
 function getConfig(definition: PropertyDefinition): NumberConfig {

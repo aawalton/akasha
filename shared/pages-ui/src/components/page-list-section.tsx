@@ -1,8 +1,8 @@
 "use client"
 
-import { type ViewLayout } from "@shared/pages-core/schema/view-data"
-import { type PropertyDefinition } from "@shared/pages-core/types"
-import { DEFAULT_GALLERY_CARD_SIZE, type GalleryCardSize } from "@shared/pages-core/view/gallery"
+import { type ViewLayout } from "@akasha/pages-core/schema/view-data"
+import { type PropertyDefinition } from "@akasha/pages-core/types"
+import { DEFAULT_GALLERY_CARD_SIZE, type GalleryCardSize } from "@akasha/pages-core/view/gallery"
 import type { ReactNode } from "react"
 import type { PageRow } from "../view-engine/page-row"
 import { PageCardGrid } from "./page-card-grid"

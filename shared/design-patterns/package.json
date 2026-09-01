@@ -23,7 +23,7 @@
     "@akasha/design-badges": "workspace:*",
     "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
-    "@shared/pages-core": "workspace:*",
+    "@akasha/pages-core": "workspace:*",
     "@shared/design-primitives": "workspace:*",
     "ansi-to-html": "^0.7.2",
     "class-variance-authority": "^0.7.1",

@@ -12,9 +12,9 @@ import {
 } from "../components/page-properties-shared"
 import { RelationPopover } from "../components/relation-popover"
 import { type PageResolverValue, usePageResolverOptional } from "../contexts/page-resolver"
-import { parseConfig } from "@shared/pages-core/schema/pages"
-import { relationConfigSchema } from "@shared/pages-core/schema/property-config-schemas"
-import type { PropertyDefinition } from "@shared/pages-core/types"
+import { parseConfig } from "@akasha/pages-core/schema/pages"
+import { relationConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PropertyBadgeProps } from "./property-badge"
 import type { PropertyValue } from "./types"
 

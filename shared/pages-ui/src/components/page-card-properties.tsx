@@ -1,10 +1,10 @@
 "use client"
 
 import { BadgeRow } from "@akasha/design-badges/badge"
-import { propertyTypeRendersWhenEmpty } from "@shared/pages-core/property-types/registry"
-import { resolvePropertyVisibilityMode } from "@shared/pages-core/schema/view-data"
+import { propertyTypeRendersWhenEmpty } from "@akasha/pages-core/property-types/registry"
+import { resolvePropertyVisibilityMode } from "@akasha/pages-core/schema/view-data"
 import { useMemo } from "react"
-import type { PageDataJSON, PropertyDefinition } from "@shared/pages-core/types"
+import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { isEmptyValue, PropertyBadge } from "../property-types/property-badge.tsx"
 import type { PropertyValue } from "../property-types/types.ts"
 import { selectVisibleCardProperties } from "./page-properties-shared.ts"

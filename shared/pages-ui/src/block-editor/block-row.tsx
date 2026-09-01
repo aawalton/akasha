@@ -2,10 +2,10 @@
 
 import { Textarea } from "@shared/design-primitives/components/textarea"
 import { cn } from "@shared/design-primitives/utils/cn"
-import { isTodoChecked } from "@shared/pages-core/property-types/block-markers"
-import { type ShorthandTransform } from "@shared/pages-core/property-types/markdown-shorthand"
-import { type Block } from "@shared/pages-core/property-types/rich-document"
-import { type HeadingLevel, type V1BlockType } from "@shared/pages-core/property-types/rich-document-ops"
+import { isTodoChecked } from "@akasha/pages-core/property-types/block-markers"
+import { type ShorthandTransform } from "@akasha/pages-core/property-types/markdown-shorthand"
+import { type Block } from "@akasha/pages-core/property-types/rich-document"
+import { type HeadingLevel, type V1BlockType } from "@akasha/pages-core/property-types/rich-document-ops"
 import { useCoarsePointer } from "./use-coarse-pointer"
 import { useTextareaInput } from "./use-textarea-input"
 

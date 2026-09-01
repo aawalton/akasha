@@ -1,6 +1,6 @@
-import { colorRuleVariantToBadgeVariant } from "@shared/pages-core/color-rules"
-import { type PropertyDefinition } from "@shared/pages-core/types"
-import type { BadgeVariant, ColorRuleVariant } from "@shared/pages-core/schema/color-rule"
+import { colorRuleVariantToBadgeVariant } from "@akasha/pages-core/color-rules"
+import { type PropertyDefinition } from "@akasha/pages-core/types"
+import type { BadgeVariant, ColorRuleVariant } from "@akasha/pages-core/schema/color-rule"
 import { type PageTableColumn, TITLE_COLUMN_ID } from "./page-table-shared"
 
 export const RESERVED_PROPERTY_IDS = [

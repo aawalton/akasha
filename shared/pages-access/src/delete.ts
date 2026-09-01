@@ -3,7 +3,7 @@ import { refuseUndelete, removeFilePages } from "./file-write"
 import { rejectDefinitionTier, requireFileBacked } from "./guards"
 import { overServer, writesOverServer } from "./over-server"
 import { type PageSelect } from "./types"
-import { Page, type PageWhere } from "@shared/pages-core/page-types"
+import { asPage, type PageWhere } from "@akasha/pages-core/page-types"
 
 export type DeletePageArgs = {
   pageTypeSlug: string
@@ -32,11 +32,11 @@ function label(mode: Mode, plural: boolean): string {
 
 function asPageList(value: Json): readonly Page[] {
   if (!Array.isArray(value)) return []
-  return value.map((row) => Page(row))
+  return value.map((row) => asPage(row))
 }
 
 function asPage(value: Json): Page {
-  return Page(value)
+  return asPage(value)
 }
 
 async function runBulk(

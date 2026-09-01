@@ -1,6 +1,6 @@
 import { camelizeKey } from "@shared/pages-access/file-rows"
-import { parseViewDataJSON, type ViewDataJSON, type ViewFilter, type ViewLayout, type ViewSort } from "@shared/pages-core/schema/view-data"
-import { pageQueryTimeIn } from "@shared/pages-core/view/page-query-times"
+import { parseViewDataJSON, type ViewDataJSON, type ViewFilter, type ViewLayout, type ViewSort } from "@akasha/pages-core/schema/view-data"
+import { pageQueryTimeIn } from "@akasha/pages-core/view/page-query-times"
 import * as z from "zod"
 
 export type PageTypeIdBySlug = (pageTypeSlug: string) => string | undefined

@@ -1,7 +1,7 @@
 "use client"
 
-import type { IconName } from "@shared/pages-core/icon"
-import type { PropertyDefinition } from "@shared/pages-core/types"
+import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PageTypeSlug } from "@shared/pages-url"
 import type { ReactElement } from "react"
 import type { PageRow } from "../view-engine/page-row"

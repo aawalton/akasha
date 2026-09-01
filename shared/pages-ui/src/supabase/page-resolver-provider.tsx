@@ -1,6 +1,6 @@
 "use client"
 
-import { resolveDescendantPageTypeIds } from "@shared/pages-core/schema/page-type-inheritance"
+import { resolveDescendantPageTypeIds } from "@akasha/pages-core/schema/page-type-inheritance"
 import { createContext, useCallback, useContext, useMemo } from "react"
 import { PageResolverProvider, type PageResolverValue } from "../contexts/page-resolver"
 import {

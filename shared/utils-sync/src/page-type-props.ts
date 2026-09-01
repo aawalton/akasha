@@ -1,5 +1,5 @@
 import type { Json } from "../../supabase-database/src/generated/database"
-import type { StorageTier } from "@shared/pages-core/types"
+import type { StorageTier } from "@akasha/pages-core/types"
 
 export interface RelationTarget {
   readonly target: string

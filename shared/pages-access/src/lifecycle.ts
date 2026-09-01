@@ -1,9 +1,9 @@
-import { computeRescheduleDate, decideCompletion, SNAPSHOT_SLUG_BY_TASK_SLUG } from "@shared/pages-core/task-lifecycle"
+import { computeRescheduleDate, decideCompletion, SNAPSHOT_SLUG_BY_TASK_SLUG } from "@akasha/pages-core/task-lifecycle"
 import { requireFirst } from "../../utils-narrow/src/require-first"
 import { softDeletePageById } from "./delete"
 import { getPage, getPages } from "./get"
 import { patchPageById } from "./patch"
-import type { Page } from "@shared/pages-core/page-types"
+import type { Page } from "@akasha/pages-core/page-types"
 
 function requireSlug(row: Page, op: string): string {
   const slug = row.pageTypeSlug

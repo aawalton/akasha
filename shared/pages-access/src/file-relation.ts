@@ -12,7 +12,7 @@ import { buildRawPageRows, kebabizeKey } from "./file-rows.ts"
 import { fileShapeOf } from "./file-shape.ts"
 import { applySelect } from "./routing-core.ts"
 import type { PageSelect } from "./types.ts"
-import type { Page } from "@shared/pages-core/page-types"
+import type { Page } from "@akasha/pages-core/page-types"
 
 const RPC_DEFAULT_LIMIT = 20_000
 

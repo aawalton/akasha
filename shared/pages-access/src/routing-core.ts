@@ -1,7 +1,7 @@
 import type { Json } from "../../supabase-database/src/generated/database"
 import { camelizeKey } from "./file-rows"
 import { parsePageSeq } from "./parse-page-seq"
-import { Page } from "@shared/pages-core/page-types"
+import { asPage } from "@akasha/pages-core/page-types"
 
 export const PROMOTED_COLUMN = {
   id: "id",
@@ -56,16 +56,16 @@ export function flattenRow(row: Record<string, unknown>): Page {
       out[key] = asJson(val)
     }
     coerceSeqInPlace(out)
-    return Page(out)
+    return asPage(out)
   }
   for (const [k, v] of Object.entries(row)) out[k] = asJson(v)
   coerceSeqInPlace(out)
-  return Page(out)
+  return asPage(out)
 }
 
 export function applySelect(props: Page, select?: readonly string[]): Page {
   if (!select) return props
   const out: Record<string, Json> = {}
   for (const k of select) out[k] = props[k] ?? props[camelizeKey(k)] ?? null
-  return Page(out)
+  return asPage(out)
 }

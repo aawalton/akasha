@@ -2,7 +2,7 @@
 
 import { Command, CommandEmpty, CommandInput, CommandItem, CommandList } from "@shared/design-primitives/components/command"
 import { Popover, PopoverAnchor, PopoverContent } from "@shared/design-primitives/components/popover"
-import type { HeadingLevel, V1BlockType } from "@shared/pages-core/property-types/rich-document-ops"
+import type { HeadingLevel, V1BlockType } from "@akasha/pages-core/property-types/rich-document-ops"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import {
   CheckSquare,

@@ -2,9 +2,9 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 
-import type { PropertyDefinition } from "@shared/pages-core/types"
-import { parseConfig } from "@shared/pages-core/schema/pages"
-import { pathSelectConfigSchema } from "@shared/pages-core/schema/property-config-schemas"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
+import { parseConfig } from "@akasha/pages-core/schema/pages"
+import { pathSelectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyBadgeProps } from "./property-badge"
 import type { PropertyValue } from "./types"
 

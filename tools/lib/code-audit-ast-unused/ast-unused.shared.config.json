@@ -54,7 +54,7 @@
         "**/*.ts"
       ]
     },
-    "shared/pages-core": {
+    "akasha/pages-system/pages-core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

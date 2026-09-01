@@ -1,5 +1,5 @@
 import type { Json } from "../../supabase-database/src/generated/database"
-import type { Page } from "@shared/pages-core/page-types"
+import type { Page } from "@akasha/pages-core/page-types"
 
 function pageString(p: Page, key: string): string {
   const v = p[key]

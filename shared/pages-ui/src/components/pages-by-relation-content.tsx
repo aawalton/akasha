@@ -1,6 +1,6 @@
 "use client"
 
-import type { ViewConfig } from "@shared/pages-core/schema/view-data"
+import type { ViewConfig } from "@akasha/pages-core/schema/view-data"
 import { buildPageListingHref, type PageTypeSlug } from "@shared/pages-url"
 import { useCallback } from "react"
 import { usePagesUIRouter } from "../router-context"

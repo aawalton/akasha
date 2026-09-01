@@ -1,4 +1,4 @@
-import type { PropertyType } from "@shared/pages-core/types"
+import type { PropertyType } from "@akasha/pages-core/types"
 import type { ComponentType } from "react"
 
 import { ActionButtonPropertyBadge } from "./action-button"

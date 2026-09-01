@@ -1,7 +1,7 @@
 import { isRecord } from "../../../utils-narrow/src/is-record"
-import type { AggregateInput } from "@shared/pages-core/property-types/aggregate"
-import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
-import type { PageDataJSON } from "@shared/pages-core/types"
+import type { AggregateInput } from "@akasha/pages-core/property-types/aggregate"
+import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
+import type { PageDataJSON } from "@akasha/pages-core/types"
 
 function asPageDataJSON(value: Record<string, unknown>): PageDataJSON {
   return value as PageDataJSON

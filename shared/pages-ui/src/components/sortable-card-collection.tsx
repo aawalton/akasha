@@ -21,7 +21,7 @@ import { CSS } from "@dnd-kit/utilities"
 import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
 import { PanelDefaultOpenProvider } from "@akasha/design-layout/panel-default-open-context"
 import { useLoadMore } from "@akasha/design-layout/use-load-more"
-import { type GalleryCardSize, galleryCardMinWidth } from "@shared/pages-core/view/gallery"
+import { type GalleryCardSize, galleryCardMinWidth } from "@akasha/pages-core/view/gallery"
 import { type ReactNode, useEffect, useMemo, useRef, useState } from "react"
 import type { ReorderCardsHandler } from "./use-reorder-view-wiring"
 

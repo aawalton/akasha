@@ -8,7 +8,7 @@ import { type SortEntry, type SortOption } from "@shared/design-patterns/utils/s
 import { FilterableList, FilterableListItem } from "@shared/design-primitives/components/filterable-list"
 import { Heading } from "@shared/design-primitives/components/heading"
 import { SubView } from "@shared/design-primitives/components/sub-view"
-import { GROUP_GRANULARITIES, type GroupGranularity } from "@shared/pages-core/schema/view-data"
+import { GROUP_GRANULARITIES, type GroupGranularity } from "@akasha/pages-core/schema/view-data"
 import { X } from "lucide-react"
 
 const GRANULARITY_LABELS: Record<GroupGranularity, string> = {

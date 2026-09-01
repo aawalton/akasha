@@ -1,6 +1,6 @@
 import { ACTION_BAR_MESSAGE_KINDS } from "@alanwalton/awen-core/action-bar-message"
 import { GameAlertsSchema, GameDisplayModulesSchema } from "@alanwalton/awen-core/game-schema"
-import { frameConfigSchema } from "@shared/pages-core/schema/detail-config"
+import { frameConfigSchema } from "@akasha/pages-core/schema/detail-config"
 import { z } from "zod"
 import {
   ClientBeatSchema,

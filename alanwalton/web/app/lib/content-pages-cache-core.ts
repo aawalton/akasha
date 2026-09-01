@@ -1,4 +1,4 @@
-import { Page } from "@shared/pages-core/page-types"
+import { asPage } from "@akasha/pages-core/page-types"
 import { z } from "zod"
 
 export const ContentPageIndexSchema = z
@@ -48,7 +48,7 @@ export function parseContentPageIndex(raw: string): ContentPageIndex {
 export function parsePersistedContentPage(raw: string): Page | null {
   try {
     const parsed = PersistedContentPageSchema.safeParse(JSON.parse(raw))
-    return parsed.success ? Page(parsed.data) : null
+    return parsed.success ? asPage(parsed.data) : null
   } catch {
     return null
   }
@@ -64,7 +64,7 @@ export function serializeContentPage(page: Page): string {
 
 export function mergeContentPage(existing: Page | null, next: Page): Page {
   if (existing === null) return next
-  return Page({ ...existing, ...next })
+  return asPage({ ...existing, ...next })
 }
 
 export function addContentPageIds(

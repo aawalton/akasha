@@ -1,7 +1,7 @@
-import type { ViewDataJSON, ViewLayout, VisibilityChange } from "@shared/pages-core/schema/view-data"
-import type { GalleryCardSize } from "@shared/pages-core/view/gallery"
+import type { ViewDataJSON, ViewLayout, VisibilityChange } from "@akasha/pages-core/schema/view-data"
+import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
 import { useCallback } from "react"
-import type { ViewConfig } from "@shared/pages-core/schema/view-data"
+import type { ViewConfig } from "@akasha/pages-core/schema/view-data"
 import { reorderVisibleProperties } from "./page-table-column-dnd-helpers"
 
 interface UseViewConfigHandlersArgs {

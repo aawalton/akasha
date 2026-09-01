@@ -1,5 +1,5 @@
 import type { JsonPatch, PageSelect } from "./types"
-import type { Page, PageWhere } from "@shared/pages-core/page-types"
+import type { Page, PageWhere } from "@akasha/pages-core/page-types"
 
 export type PatchPropertyDefinitionArgs = {
   where: PageWhere

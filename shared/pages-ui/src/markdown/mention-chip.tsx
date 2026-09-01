@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { formatSmartDate } from "@shared/pages-core/view/format-smart-date"
+import { formatSmartDate } from "@akasha/pages-core/view/format-smart-date"
 
 import type { MentionResolver, MentionType } from "./remark-mentions"
 import { isMentionType } from "./remark-mentions"

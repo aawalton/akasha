@@ -1,4 +1,4 @@
-import { resolveDescendantPageTypeIds } from "@shared/pages-core/schema/page-type-inheritance"
+import { resolveDescendantPageTypeIds } from "@akasha/pages-core/schema/page-type-inheritance"
 import { PageTypeSlug } from "@shared/pages-url"
 import { validateTemperTitlePrefix } from "./domain-title-prefix"
 import { isFileBacked } from "./file-read"
@@ -7,7 +7,7 @@ import { getPages } from "./get"
 import { PageTypesMissing } from "./page-type-ids"
 import { validateSlugReserved } from "./reserved-slugs"
 import type { JsonPatch, PageSelect } from "./types"
-import type { Page } from "@shared/pages-core/page-types"
+import type { Page } from "@akasha/pages-core/page-types"
 
 const PAGE_TYPE_SLUG = "page-type"
 

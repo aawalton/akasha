@@ -6,7 +6,7 @@ import { Textarea } from "@shared/design-primitives/components/textarea"
 import { useState } from "react"
 import { z } from "zod"
 
-import type { PropertyDefinition } from "@shared/pages-core/types"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PropertyBadgeProps } from "./property-badge"
 import type { PropertyValue } from "./types"
 

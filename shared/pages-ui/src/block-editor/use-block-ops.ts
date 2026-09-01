@@ -1,10 +1,10 @@
 "use client"
 
-import { toggleTodoMarker } from "@shared/pages-core/property-types/block-markers"
-import { type ShorthandTransform } from "@shared/pages-core/property-types/markdown-shorthand"
-import { type RichDocument } from "@shared/pages-core/property-types/rich-document"
-import { createBlock, type EditorOp, type HeadingLevel, newBlockId, type V1BlockType } from "@shared/pages-core/property-types/rich-document-ops"
-import { findBlock, findBlockPath, flattenBlockIds, getBlockAtPath } from "@shared/pages-core/property-types/rich-document-tree"
+import { toggleTodoMarker } from "@akasha/pages-core/property-types/block-markers"
+import { type ShorthandTransform } from "@akasha/pages-core/property-types/markdown-shorthand"
+import { type RichDocument } from "@akasha/pages-core/property-types/rich-document"
+import { createBlock, type EditorOp, type HeadingLevel, newBlockId, type V1BlockType } from "@akasha/pages-core/property-types/rich-document-ops"
+import { findBlock, findBlockPath, flattenBlockIds, getBlockAtPath } from "@akasha/pages-core/property-types/rich-document-tree"
 import { type RefObject, useCallback } from "react"
 
 export interface BlockOpsDeps {

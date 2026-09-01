@@ -1,4 +1,4 @@
-import { Page } from "@shared/pages-core/page-types"
+import { asPage } from "@akasha/pages-core/page-types"
 import { patchPage } from "@shared/pages-query"
 import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
 import { z } from "zod"
@@ -89,7 +89,7 @@ export async function loadChapterForOffline(chapterId: string): Promise<Page | n
   if (found === null) return null
   const parsed = chapterProseRowSchema.parse(found.values)
   if (parsed.body == null || parsed.body === "") return null
-  return Page({ ...found.values, text: parsed.body })
+  return asPage({ ...found.values, text: parsed.body })
 }
 
 export async function writeChapterCompletion(

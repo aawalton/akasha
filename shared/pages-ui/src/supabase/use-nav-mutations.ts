@@ -3,7 +3,7 @@
 import { createPage } from "@shared/pages-access/create"
 import { getPages } from "@shared/pages-access/get"
 import { patchPage } from "@shared/pages-access/patch"
-import { DEFAULT_ICON_NAME } from "@shared/pages-core/icon"
+import { DEFAULT_ICON_NAME } from "@akasha/pages-core/icon"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { useCallback } from "react"
 import { useOptimisticCreatePage } from "./mutations/use-optimistic-create-page"

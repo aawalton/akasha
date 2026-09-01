@@ -2,7 +2,7 @@ import { type FileReadDeps, getFilePages, isFileBacked } from "./file-read"
 import { fileShapeOf, pageTypeSlugById } from "./file-shape"
 import { shapelessWhy, unfiledWhy } from "./get"
 import type { PageCursor, PageOrder } from "./types"
-import type { Page, PageWhere } from "@shared/pages-core/page-types"
+import type { Page, PageWhere } from "@akasha/pages-core/page-types"
 
 export type GetPagesForViewArgs = {
   pageTypeId: string

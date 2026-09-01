@@ -6,7 +6,7 @@ import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitiv
 import { Plus, X } from "lucide-react"
 import { useState } from "react"
 import type { SelectOption } from "../property-types/types"
-import type { BadgeVariant } from "@shared/pages-core/schema/color-rule"
+import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
 
 interface MultiSelectPopoverProps {
   currentIds: readonly string[]

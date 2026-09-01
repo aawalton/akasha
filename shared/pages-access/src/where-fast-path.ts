@@ -1,4 +1,4 @@
-import type { PageWhere } from "@shared/pages-core/page-types"
+import type { PageWhere } from "@akasha/pages-core/page-types"
 
 export function tryExtractIdEq(where: PageWhere): string | undefined {
   if (where.length !== 1) return undefined

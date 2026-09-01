@@ -1,5 +1,5 @@
-import type { FilterConfig as CoreFilterConfig, FilterOperator as CoreFilterOperator, FilterOperatorOption as CoreFilterOperatorOption, PropertyValue as CorePropertyValue } from "@shared/pages-core/property-types/types"
-import type { PageDataJSON } from "@shared/pages-core/types"
+import type { FilterConfig as CoreFilterConfig, FilterOperator as CoreFilterOperator, FilterOperatorOption as CoreFilterOperatorOption, PropertyValue as CorePropertyValue } from "@akasha/pages-core/property-types/types"
+import type { PageDataJSON } from "@akasha/pages-core/types"
 
 export type PropertyValue = CorePropertyValue
 export type FilterOperator = CoreFilterOperator

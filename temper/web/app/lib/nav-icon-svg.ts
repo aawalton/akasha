@@ -1,4 +1,4 @@
-import { resolveIconName } from "@shared/pages-core/icon"
+import { resolveIconName } from "@akasha/pages-core/icon"
 import dynamicIconImports from "lucide-react/dynamicIconImports"
 
 export const NAV_ICON_ACCENT = "oklch(0.63 0.13 73)"

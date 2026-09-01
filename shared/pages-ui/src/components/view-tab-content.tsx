@@ -1,8 +1,8 @@
 "use client"
 
-import { parseListingConfig } from "@shared/pages-core/schema/listing-config"
-import { isLocked, isPageTypeLocked, type ViewDataJSON } from "@shared/pages-core/schema/view-data"
-import { type LockedFacet } from "@shared/pages-core/schema/view-data-locked"
+import { parseListingConfig } from "@akasha/pages-core/schema/listing-config"
+import { isLocked, isPageTypeLocked, type ViewDataJSON } from "@akasha/pages-core/schema/view-data"
+import { type LockedFacet } from "@akasha/pages-core/schema/view-data-locked"
 import { PageTypeSlug } from "@shared/pages-url"
 import { SupabasePageResolverProvider } from "../supabase/page-resolver-provider.tsx"
 import { type PageWithProperties } from "../supabase/types.ts"

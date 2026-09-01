@@ -1,4 +1,4 @@
-import { isMedium } from "@shared/pages-core/media-formats"
+import { isMedium } from "@akasha/pages-core/media-formats"
 import { mediaTokenSecret, mintMediaToken } from "@shared/pages-ui/media/media-token"
 import { MEDIA_UUID_PATTERN, MEDIA_VARIANT_PATTERN, mediaPageStands } from "@shared/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@shared/supabase-rr/auth/server"

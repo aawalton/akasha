@@ -2,11 +2,11 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { InputBadge } from "@akasha/design-badges/input-badge"
-import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
+import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import { useEffect, useState } from "react"
 
-import { parseConfig } from "@shared/pages-core/schema/pages"
-import { textConfigSchema } from "@shared/pages-core/schema/property-config-schemas"
+import { parseConfig } from "@akasha/pages-core/schema/pages"
+import { textConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyBadgeProps } from "./property-badge"
 import type { PropertyValue } from "./types"
 

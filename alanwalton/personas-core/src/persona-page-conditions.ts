@@ -1,4 +1,4 @@
-import type { PageCondition } from "@shared/pages-core/page-types"
+import type { PageCondition } from "@akasha/pages-core/page-types"
 
 export function personaSlugCondition(personaSlug: string): PageCondition {
   return { key: "personaSlug", eq: personaSlug }

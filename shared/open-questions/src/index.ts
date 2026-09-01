@@ -1,4 +1,4 @@
-import type { PageWhere } from "@shared/pages-core/page-types"
+import type { PageWhere } from "@akasha/pages-core/page-types"
 import { askComposed } from "@shared/pages-query/ask"
 import type { Database } from "../../supabase-database/src/generated/database"
 import type { SupabaseClient } from "@supabase/supabase-js"

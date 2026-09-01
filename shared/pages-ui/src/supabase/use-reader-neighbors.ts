@@ -2,7 +2,7 @@
 
 import { getPages } from "@shared/pages-access/get"
 import { getOrderedNeighbors } from "@shared/pages-access/ordered"
-import { type Page } from "@shared/pages-core/page-types"
+import { type Page } from "@akasha/pages-core/page-types"
 import { buildPageHref, type PageTypeSlug } from "@shared/pages-url"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { useEffect, useRef, useState } from "react"

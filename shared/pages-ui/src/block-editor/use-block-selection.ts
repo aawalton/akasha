@@ -1,9 +1,9 @@
 "use client"
 
-import { allSelection, type BlockSelection, extendSelection, focusAfterDelete, matchSelectionKey, navigateSelection, rangeSelection, type SelectionKey, selectedInOrder, singleSelection, toggleSelection } from "@shared/pages-core/property-types/block-selection"
-import { type RichDocument } from "@shared/pages-core/property-types/rich-document"
-import { type EditorOp, newBlockId } from "@shared/pages-core/property-types/rich-document-ops"
-import { flattenBlockIds } from "@shared/pages-core/property-types/rich-document-tree"
+import { allSelection, type BlockSelection, extendSelection, focusAfterDelete, matchSelectionKey, navigateSelection, rangeSelection, type SelectionKey, selectedInOrder, singleSelection, toggleSelection } from "@akasha/pages-core/property-types/block-selection"
+import { type RichDocument } from "@akasha/pages-core/property-types/rich-document"
+import { type EditorOp, newBlockId } from "@akasha/pages-core/property-types/rich-document-ops"
+import { flattenBlockIds } from "@akasha/pages-core/property-types/rich-document-tree"
 import { assertNever } from "../../../utils-narrow/src/assert-never"
 import { useCallback, useEffect, useRef, useState } from "react"
 

@@ -10,9 +10,9 @@ import { requireFirst } from "@shared/utils-narrow/require-first"
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
 import type { FilterOperator } from "../property-types/types"
-import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
-import type { ViewFilter } from "@shared/pages-core/schema/view-data"
-import type { PageFilterDimension } from "@shared/pages-core/view/generate-filter-dimensions"
+import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
+import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
+import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
 import {
   BetweenDateValueInput,
   BetweenInstantValueInput,

@@ -1,8 +1,8 @@
 "use client"
 
-import type { PageWhere } from "@shared/pages-core/page-types"
-import type { ListingConfig } from "@shared/pages-core/schema/listing-config"
-import type { ViewDataJSON } from "@shared/pages-core/schema/view-data"
+import type { PageWhere } from "@akasha/pages-core/page-types"
+import type { ListingConfig } from "@akasha/pages-core/schema/listing-config"
+import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import { useMemo } from "react"
 import type { PageWithProperties } from "../supabase/types"
 import { resolveListingViewData } from "./resolve-listing-config"

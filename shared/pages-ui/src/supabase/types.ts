@@ -1,4 +1,4 @@
-import type { Page } from "@shared/pages-core/page-types"
+import type { Page } from "@akasha/pages-core/page-types"
 
 export interface PageWithProperties {
   _id: string

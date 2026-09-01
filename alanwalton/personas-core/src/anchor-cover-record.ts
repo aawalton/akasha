@@ -1,4 +1,4 @@
-import type { PageCondition } from "@shared/pages-core/page-types"
+import type { PageCondition } from "@akasha/pages-core/page-types"
 import { personaSlugCondition, relationshipLevelMatchCondition } from "./persona-page-conditions"
 
 export const PERSONA_ANCHOR_IMAGE_PAGE_TYPE_SLUG = "persona-anchor-image"

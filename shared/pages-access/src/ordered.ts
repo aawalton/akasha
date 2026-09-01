@@ -1,10 +1,10 @@
-import type { SequenceConfig } from "@shared/pages-core/schema/sequence-config"
+import type { SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
 import type { Json } from "../../supabase-database/src/generated/database"
 import { streamPages } from "./iterate"
 import { getSequenceConfig } from "./page-type-config"
 import { applySelect } from "./routing-core"
 import type { PageSelect } from "./types"
-import type { Page } from "@shared/pages-core/page-types"
+import type { Page } from "@akasha/pages-core/page-types"
 
 const SEQUENCE_PAGE_SIZE = 500
 

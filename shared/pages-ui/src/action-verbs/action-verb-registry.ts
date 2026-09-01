@@ -1,5 +1,5 @@
-import type { PageDataJSON } from "@shared/pages-core/types"
-import type { ActionButtonConfig } from "@shared/pages-core/schema/action-button-config"
+import type { PageDataJSON } from "@akasha/pages-core/types"
+import type { ActionButtonConfig } from "@akasha/pages-core/schema/action-button-config"
 
 export interface ActionVerbContext {
   readonly pageId: string

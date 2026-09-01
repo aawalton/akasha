@@ -1,5 +1,5 @@
-import type { BetweenDateValue, BetweenInstantValue, RelativeToTodayValue, SentinelDateValue, SentinelInstantValue } from "@shared/pages-core/property-types/date-sentinels"
-import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
+import type { BetweenDateValue, BetweenInstantValue, RelativeToTodayValue, SentinelDateValue, SentinelInstantValue } from "@akasha/pages-core/property-types/date-sentinels"
+import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 
 export function isJsonObject(
   value: ReadonlyJSONValue | undefined

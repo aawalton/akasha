@@ -1,4 +1,4 @@
-import type { ViewDataJSON } from "@shared/pages-core/schema/view-data"
+import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 
 export interface ViewCallbacks {
   onCreateView: (name: string, data: ViewDataJSON) => void

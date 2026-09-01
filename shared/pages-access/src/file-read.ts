@@ -8,7 +8,7 @@ import { buildRawPageRows } from "./file-rows.ts"
 import type { PropertyDefinition } from "./page-type-config.ts"
 import { flattenRow } from "./routing-core.ts"
 import { type PageCursor, type PageOrder, type PageSelect } from "./types.ts"
-import { Page, type PageWhere } from "@shared/pages-core/page-types"
+import { asPage, type PageWhere } from "@akasha/pages-core/page-types"
 
 export type FileReadShape = {
   readonly pageTypeId: string
@@ -43,7 +43,7 @@ export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
     if (value === null || value === undefined || page[key] !== undefined) continue
     if (isJson(value)) alsoRead[key] = value
   }
-  return Object.keys(alsoRead).length === 0 ? page : Page({ ...page, ...alsoRead })
+  return Object.keys(alsoRead).length === 0 ? page : asPage({ ...page, ...alsoRead })
 }
 
 let known: ReadonlySet<string> | null = null
@@ -211,7 +211,7 @@ function markerOf(order: PageOrder, at: CursorPayload): Page {
     mark[step.by] = at.values[index] ?? null
   })
   mark.id = at.id
-  return Page(mark)
+  return asPage(mark)
 }
 
 function resumeAt(sorted: readonly Page[], order: PageOrder, at: CursorPayload): number {
@@ -262,7 +262,7 @@ function selectedFrom(page: Page, selection: Selection | null): Page {
   if (selection === null) return page
   const out: Record<string, Json> = {}
   for (const [key, field] of selection) out[key] = page[field] ?? null
-  return Page(out)
+  return asPage(out)
 }
 
 const warned = new Set<string>()

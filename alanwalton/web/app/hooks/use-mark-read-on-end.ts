@@ -1,7 +1,7 @@
 "use client"
 
 import { patchPage } from "@shared/pages-access/patch"
-import { parsePageTypeData } from "@shared/pages-core/schema/pages"
+import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { useAllPages } from "@shared/pages-ui/supabase/hooks"
 import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { usePage } from "@shared/pages-ui/supabase/use-page"

@@ -1,7 +1,7 @@
 "use client"
 
-import { computeFillAggregatesForPage } from "@shared/pages-core/property-types/aggregate"
-import { type PropertyDefinition } from "@shared/pages-core/types"
+import { computeFillAggregatesForPage } from "@akasha/pages-core/property-types/aggregate"
+import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { useMemo } from "react"
 import { toAggregateInputs, toPageDataJSON } from "../components/page-data-json.ts"
 

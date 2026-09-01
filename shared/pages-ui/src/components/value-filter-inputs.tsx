@@ -9,8 +9,8 @@ import { surfaceClass } from "@shared/design-primitives/components/surface-class
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
 import type { FilterOperator } from "../property-types/types"
-import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
-import type { PageFilterDimension } from "@shared/pages-core/view/generate-filter-dimensions"
+import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
+import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
 
 export function toStringArray(value: ReadonlyJSONValue | undefined): readonly string[] {
   if (!Array.isArray(value)) return []

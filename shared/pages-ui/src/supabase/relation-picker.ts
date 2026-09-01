@@ -1,7 +1,7 @@
 "use client"
 
 import { NEVER_MATCH_VALUE } from "@shared/pages-access/sentinels"
-import { type PageCondition, type PageWhere } from "@shared/pages-core/page-types"
+import { type PageCondition, type PageWhere } from "@akasha/pages-core/page-types"
 import { useMemo } from "react"
 import { useQuery } from "../cache/use-query"
 import { type PageWithProperties, toPageWithProperties } from "./types"

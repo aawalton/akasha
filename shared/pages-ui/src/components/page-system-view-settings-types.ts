@@ -1,7 +1,7 @@
 import type { GroupOption } from "@shared/design-patterns/components/group-button"
 import type { SortEntry, SortOption } from "@shared/design-patterns/utils/sort-types"
-import type { GroupGranularity, ViewLayout, VisibilityChange } from "@shared/pages-core/schema/view-data"
-import type { GalleryCardSize } from "@shared/pages-core/view/gallery"
+import type { GroupGranularity, ViewLayout, VisibilityChange } from "@akasha/pages-core/schema/view-data"
+import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
 
 export interface PageTypeOption {
   id: string

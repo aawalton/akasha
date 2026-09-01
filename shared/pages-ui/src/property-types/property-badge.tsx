@@ -3,8 +3,8 @@
 import { BadgeLayoutProvider } from "@akasha/design-badges/badge-layout-context"
 import { EmptyBadge } from "@akasha/design-badges/empty-badge"
 import { Icon } from "@shared/design-patterns/components/icon"
-import type { PageDataJSON, PropertyDefinition, PropertyType } from "@shared/pages-core/types"
-import { propertyTypeRendersWhenEmpty } from "@shared/pages-core/property-types/registry"
+import type { PageDataJSON, PropertyDefinition, PropertyType } from "@akasha/pages-core/types"
+import { propertyTypeRendersWhenEmpty } from "@akasha/pages-core/property-types/registry"
 import type { ComponentType } from "react"
 
 import { propertyBadgeRegistry } from "./badge-registry.ts"

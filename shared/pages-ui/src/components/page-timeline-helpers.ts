@@ -1,4 +1,4 @@
-import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
+import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { PageRow } from "../view-engine/page-row"
 
 const DATE_ONLY_REGEX = /^\d{4}-\d{2}-\d{2}$/

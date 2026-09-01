@@ -2,10 +2,10 @@
 
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { useCollapsedGroups } from "@shared/design-patterns/hooks/use-collapsed-groups"
-import { applySearch } from "@shared/pages-core/view/apply-search"
+import { applySearch } from "@akasha/pages-core/view/apply-search"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { usePageResolverOptional } from "../contexts/page-resolver"
-import type { ViewFilter } from "@shared/pages-core/schema/view-data"
+import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
 import { usePageView } from "../view-engine/use-page-view"
 import { buildTableColumns, isCardEligibleProperty } from "./page-properties-shared"
 import { PageSystemViewBody } from "./page-system-view-body"

@@ -1,6 +1,6 @@
 import { type ObjectStore } from "@shared/object-store"
 import { mediaRenderObjectKey } from "@shared/object-store/keys"
-import { MEDIA_FORMATS, type Medium } from "@shared/pages-core/media-formats"
+import { MEDIA_FORMATS, type Medium } from "@akasha/pages-core/media-formats"
 
 export type AvailableRenditionsArgs = {
   pageId: string

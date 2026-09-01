@@ -1,10 +1,10 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
+import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import { DateBadge as DetailDateBadge } from "../components/page-detail-properties-shared"
-import type { BadgeVariant } from "@shared/pages-core/schema/color-rule"
-import { formatSmartDate } from "@shared/pages-core/view/format-smart-date"
+import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
+import { formatSmartDate } from "@akasha/pages-core/view/format-smart-date"
 import type { PropertyBadgeProps } from "./property-badge"
 
 export function DatePropertyBadge({

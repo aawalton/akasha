@@ -1,6 +1,6 @@
 import { type GetPagesArgs, getPages } from "./get"
 import type { PageCursor } from "./types"
-import type { Page } from "@shared/pages-core/page-types"
+import type { Page } from "@akasha/pages-core/page-types"
 
 export type StreamPagesArgs = Omit<GetPagesArgs, "limit" | "cursor" | "pageTypeSlug"> & {
   pageTypeSlug?: string

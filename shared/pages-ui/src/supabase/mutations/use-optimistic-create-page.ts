@@ -1,5 +1,5 @@
 import type { CreatePageArgs } from "@shared/pages-access/create"
-import type { Page } from "@shared/pages-core/page-types"
+import type { Page } from "@akasha/pages-core/page-types"
 import { type PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
 import { getPagesStore } from "@akasha/pages-ui-store/singleton"
 import { runOptimisticMutation } from "./apply-prediction"

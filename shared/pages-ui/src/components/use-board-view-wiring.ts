@@ -1,6 +1,6 @@
-import { groupKeyToPropertyValue, isBoardDraggableGroupType } from "@shared/pages-core/view/group-key-to-value"
+import { groupKeyToPropertyValue, isBoardDraggableGroupType } from "@akasha/pages-core/view/group-key-to-value"
 import { useCallback, useMemo } from "react"
-import type { PropertyDefinition } from "@shared/pages-core/types"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 
 interface UseBoardViewWiringArgs {
   properties: readonly PropertyDefinition[]

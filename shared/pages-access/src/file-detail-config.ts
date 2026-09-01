@@ -1,4 +1,4 @@
-import { type DetailConfig, parseDetailConfig } from "@shared/pages-core/schema/detail-config"
+import { type DetailConfig, parseDetailConfig } from "@akasha/pages-core/schema/detail-config"
 import {
   type FilePageTypeConfigDeps,
   LIVE_PAGE_TYPE_CONFIG,

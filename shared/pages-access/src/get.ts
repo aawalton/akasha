@@ -11,7 +11,7 @@ import {
 import { fileShapeOf } from "./file-shape"
 import { applySelect } from "./routing-core"
 import type { PageCursor, PageOrder, PageSelect } from "./types"
-import type { Page, PageWhere } from "@shared/pages-core/page-types"
+import type { Page, PageWhere } from "@akasha/pages-core/page-types"
 
 const ID_SUFFIX_PATTERN = /^[0-9a-f]{8}$/
 

@@ -1,13 +1,13 @@
 "use client"
 
 import { patchPage } from "@shared/pages-access/patch"
-import { type RichDocument } from "@shared/pages-core/property-types/rich-document"
+import { type RichDocument } from "@akasha/pages-core/property-types/rich-document"
 import {
   applyEditorOp,
   type EditorOp,
   normalizeRichDocument,
-} from "@shared/pages-core/property-types/rich-document-ops"
-import { type ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
+} from "@akasha/pages-core/property-types/rich-document-ops"
+import { type ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { Json } from "../../../supabase-database/src/generated/database.ts"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { isJson } from "../../../utils-narrow/src/is-json.ts"

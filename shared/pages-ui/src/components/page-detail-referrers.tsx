@@ -1,7 +1,7 @@
 "use client"
 
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import type { PageTypePropertiesMap } from "@shared/pages-core/property-types/rollup"
+import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { usePagesUIRouter } from "../router-context"
 import { type Referrer, useReferrers } from "../supabase/use-referrers"

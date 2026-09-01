@@ -1,4 +1,4 @@
-import type { PropertyDefinition } from "@shared/pages-core/types"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { buildPageHref, buildPageListingHref, PageTypeSlug } from "@shared/pages-url"
 import type { PageWithProperties } from "../supabase/types"
 import type { PageRow } from "../view-engine/page-row"

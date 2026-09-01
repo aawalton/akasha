@@ -1,8 +1,8 @@
 "use client"
 
-import { propertyTypeRendersWhenEmpty } from "@shared/pages-core/property-types/registry"
+import { propertyTypeRendersWhenEmpty } from "@akasha/pages-core/property-types/registry"
 import { useMemo } from "react"
-import type { PageDataJSON, PropertyDefinition } from "@shared/pages-core/types"
+import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { isEmptyValue, PropertyBadge } from "../property-types/property-badge.tsx"
 import { selectVisibleCardProperties } from "./page-properties-shared.ts"
 

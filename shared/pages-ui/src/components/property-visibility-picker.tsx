@@ -14,7 +14,7 @@ import { SortableContext } from "@dnd-kit/sortable"
 import { FilterTextField } from "@shared/design-primitives/components/filterable-list"
 import { Heading } from "@shared/design-primitives/components/heading"
 import { SubView } from "@shared/design-primitives/components/sub-view"
-import type { PropertyVisibilityMode, VisibilityChange } from "@shared/pages-core/schema/view-data"
+import type { PropertyVisibilityMode, VisibilityChange } from "@akasha/pages-core/schema/view-data"
 import { requireGet } from "@shared/utils-narrow/require-get"
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from "react"
 import {

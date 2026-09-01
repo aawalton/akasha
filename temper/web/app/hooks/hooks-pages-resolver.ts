@@ -1,7 +1,7 @@
 "use client"
 
-import { parsePageTypeData } from "@shared/pages-core/schema/pages"
-import { type PropertyDefinition } from "@shared/pages-core/types"
+import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
+import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { useAllPages } from "@shared/pages-ui/supabase/hooks"
 import { type PageWithProperties } from "@shared/pages-ui/supabase/types"
 import { useMemo } from "react"

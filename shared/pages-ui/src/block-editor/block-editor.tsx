@@ -1,8 +1,8 @@
 "use client"
 
 import { useDebouncedCallback } from "@shared/design-primitives/hooks/use-debounced-callback"
-import { type Block, type RichDocument } from "@shared/pages-core/property-types/rich-document"
-import { applyEditorOp, type EditorOp, normalizeRichDocument } from "@shared/pages-core/property-types/rich-document-ops"
+import { type Block, type RichDocument } from "@akasha/pages-core/property-types/rich-document"
+import { applyEditorOp, type EditorOp, normalizeRichDocument } from "@akasha/pages-core/property-types/rich-document-ops"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 import { BlockAccessoryBar } from "./block-accessory-bar.tsx"
 import { BlockRow } from "./block-row.tsx"

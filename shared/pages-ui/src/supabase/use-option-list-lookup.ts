@@ -1,8 +1,8 @@
 "use client"
 
-import { type OptionListLookup, parseSelectOptionArray, resolveDefinitionOptions } from "@shared/pages-core/schema/resolve-select-options"
-import { type SelectOption } from "@shared/pages-core/schema/select-option-create"
-import { type PropertyDefinition } from "@shared/pages-core/types"
+import { type OptionListLookup, parseSelectOptionArray, resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
+import { type SelectOption } from "@akasha/pages-core/schema/select-option-create"
+import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { useMemo } from "react"
 import { useAllPages } from "./hooks"
 

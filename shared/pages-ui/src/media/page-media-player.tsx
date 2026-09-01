@@ -1,4 +1,4 @@
-import type { Medium } from "@shared/pages-core/media-formats"
+import type { Medium } from "@akasha/pages-core/media-formats"
 import { useEffect, useLayoutEffect, useRef } from "react"
 import { useLocation, useSearchParams } from "react-router"
 import { z } from "zod"

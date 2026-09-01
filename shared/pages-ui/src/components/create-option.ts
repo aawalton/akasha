@@ -1,7 +1,7 @@
 import type { PatchPropertyDefinitionArgs } from "@shared/pages-access/property-definition"
-import type { Page } from "@shared/pages-core/page-types"
+import type { Page } from "@akasha/pages-core/page-types"
 import type { Json } from "../../../supabase-database/src/generated/database"
-import type { PageDataJSON, PropertyDefinition } from "@shared/pages-core/types"
+import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import type { CreateSelectOptionEffect } from "../option-create-context"
 
 type OptionRow = { id: string; label: string; variant?: string; [k: string]: Json | undefined }

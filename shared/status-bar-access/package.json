@@ -11,7 +11,7 @@
     "@alanwalton/health-samples-access": "workspace:*",
     "@alanwalton/personas-core": "workspace:*",
     "@shared/pages-access": "workspace:*",
-    "@shared/pages-core": "workspace:*",
+    "@akasha/pages-core": "workspace:*",
     "@shared/pages-query": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/utils-narrow": "workspace:*",

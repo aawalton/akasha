@@ -1,8 +1,8 @@
-import type { PageCondition } from "@shared/pages-core/page-types"
-import type { PageTypePropertiesMap } from "@shared/pages-core/property-types/rollup"
-import type { PropertyDefinition } from "@shared/pages-core/types"
-import { filterToCondition } from "@shared/pages-core/filter/filter-to-condition"
-import { resolveComputedProperty } from "@shared/pages-core/property-types/resolve-computed-type"
+import type { PageCondition } from "@akasha/pages-core/page-types"
+import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
+import { filterToCondition } from "@akasha/pages-core/filter/filter-to-condition"
+import { resolveComputedProperty } from "@akasha/pages-core/property-types/resolve-computed-type"
 
 function unwrapRollupDefinition(
   definition: PropertyDefinition | undefined,

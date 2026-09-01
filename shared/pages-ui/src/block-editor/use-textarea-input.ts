@@ -1,8 +1,8 @@
 "use client"
 
-import { leadingMarker } from "@shared/pages-core/property-types/block-markers"
-import { matchBlockShortcut, matchDocumentExtreme } from "@shared/pages-core/property-types/block-shortcuts"
-import { detectMarkdownShorthand } from "@shared/pages-core/property-types/markdown-shorthand"
+import { leadingMarker } from "@akasha/pages-core/property-types/block-markers"
+import { matchBlockShortcut, matchDocumentExtreme } from "@akasha/pages-core/property-types/block-shortcuts"
+import { detectMarkdownShorthand } from "@akasha/pages-core/property-types/markdown-shorthand"
 import { assertNever } from "../../../utils-narrow/src/assert-never"
 import { type Ref, useCallback, useRef } from "react"
 import type { BlockRowProps } from "./block-row"

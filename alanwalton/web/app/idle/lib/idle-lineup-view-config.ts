@@ -1,4 +1,4 @@
-import type { ViewDataJSON } from "@shared/pages-core/schema/view-data"
+import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 
 export const IDLE_REORDER_VERB_ID = "idle-lineup-reorder"
 

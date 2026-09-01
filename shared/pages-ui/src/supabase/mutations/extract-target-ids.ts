@@ -1,4 +1,4 @@
-import type { PageWhere } from "@shared/pages-core/page-types"
+import type { PageWhere } from "@akasha/pages-core/page-types"
 
 export function extractTargetIds(where: PageWhere | undefined): readonly string[] | null {
   if (!where) return null

@@ -2,7 +2,7 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { richDocumentSchema } from "@shared/pages-core/property-types/rich-document"
+import { richDocumentSchema } from "@akasha/pages-core/property-types/rich-document"
 
 import type { PropertyBadgeProps } from "./property-badge"
 import type { PropertyValue } from "./types"

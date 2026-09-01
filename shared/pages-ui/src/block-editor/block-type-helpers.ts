@@ -1,6 +1,6 @@
-import { leadingMarker, markerFor, nextNumberedMarker, stripLeadingMarker } from "@shared/pages-core/property-types/block-markers"
-import { type Block } from "@shared/pages-core/property-types/rich-document"
-import { type V1BlockType } from "@shared/pages-core/property-types/rich-document-ops"
+import { leadingMarker, markerFor, nextNumberedMarker, stripLeadingMarker } from "@akasha/pages-core/property-types/block-markers"
+import { type Block } from "@akasha/pages-core/property-types/rich-document"
+import { type V1BlockType } from "@akasha/pages-core/property-types/rich-document-ops"
 
 export function continuationType(type: string): V1BlockType {
   switch (type) {

@@ -4,7 +4,7 @@ import { affinityBonus, apotheosisBonus, boonBonus, constellationBonus, echoBonu
 import { collectionBonus } from "@akasha/idle-system/gacha-state"
 import { teamSynergy } from "@akasha/idle-system/rate"
 import { type GameState } from "@akasha/idle-system/state"
-import { formatShortNumber as fmt } from "@shared/pages-core/property-types/number"
+import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
 
 type IndicatorChip = {
   readonly key: string

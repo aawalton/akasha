@@ -1,10 +1,10 @@
 "use client"
 
-import type { Page } from "@shared/pages-core/page-types"
-import { type PageTypePropertiesMap } from "@shared/pages-core/property-types/rollup"
-import { type ViewFilter } from "@shared/pages-core/schema/view-data"
-import { type PropertyDefinition } from "@shared/pages-core/types"
-import { applyView } from "@shared/pages-core/view/apply-view"
+import type { Page } from "@akasha/pages-core/page-types"
+import { type PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
+import { type ViewFilter } from "@akasha/pages-core/schema/view-data"
+import { type PropertyDefinition } from "@akasha/pages-core/types"
+import { applyView } from "@akasha/pages-core/view/apply-view"
 
 export function applyClientViewFilters(
   rows: readonly Page[],

@@ -21,6 +21,7 @@
     "akasha/pages-system/indexes",
     "akasha/pages-system/pages-query",
     "akasha/pages-system/pages-system-service",
+    "akasha/pages-system/pages-core",
     "akasha/pages-system/pages-ui-store",
     "akasha/person-system",
     "akasha/persona-system",

@@ -5,7 +5,7 @@ import { type CreatePageIfAbsentResult, createPage, createPageIfAbsent } from ".
 import { hardDeletePage, hardDeletePages, softDeletePage, softDeletePages } from "./delete"
 import { isWriteOverServerOp, type WriteOverServerOp } from "./over-server"
 import { patchPage, patchPages } from "./patch"
-import type { Page, PageCondition } from "@shared/pages-core/page-types"
+import type { Page, PageCondition } from "@akasha/pages-core/page-types"
 import { upsertPage, upsertPages } from "./upsert"
 
 export type PageWriteAsked = {

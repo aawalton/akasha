@@ -16,7 +16,7 @@ import { FileWriteError } from "./file-write-error"
 import { statedId, valuesToWrite } from "./file-write-values"
 import { applySelect, flattenRow } from "./routing-core"
 import type { PageSelect } from "./types"
-import type { Page, PageWhere } from "@shared/pages-core/page-types"
+import type { Page, PageWhere } from "@akasha/pages-core/page-types"
 
 
 const DEFAULT_WRITER = "pages-access"

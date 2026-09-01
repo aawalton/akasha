@@ -1,8 +1,8 @@
 "use client"
 
-import { computeFillRollupsForPage, type PageTypePropertiesMap } from "@shared/pages-core/property-types/rollup"
-import { type PropertyValue } from "@shared/pages-core/property-types/types"
-import { type PropertyDefinition } from "@shared/pages-core/types"
+import { computeFillRollupsForPage, type PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
+import { type PropertyValue } from "@akasha/pages-core/property-types/types"
+import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { useMemo } from "react"
 import { toAggregateInputs, toPageDataJSON } from "../components/page-data-json"
 

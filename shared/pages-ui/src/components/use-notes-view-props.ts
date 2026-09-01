@@ -1,6 +1,6 @@
-import { type ViewDataJSON } from "@shared/pages-core/schema/view-data"
-import { type PropertyDefinition } from "@shared/pages-core/types"
-import { isNotesEligible, resolveNotesPropertyId } from "@shared/pages-core/view/notes"
+import { type ViewDataJSON } from "@akasha/pages-core/schema/view-data"
+import { type PropertyDefinition } from "@akasha/pages-core/types"
+import { isNotesEligible, resolveNotesPropertyId } from "@akasha/pages-core/view/notes"
 import { useMemo } from "react"
 
 export interface NotesViewProps {

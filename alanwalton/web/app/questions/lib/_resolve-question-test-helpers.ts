@@ -1,5 +1,5 @@
 import { mock } from "bun:test"
-import { type Page, Page as PageBrand, type PageWhere } from "@shared/pages-core/page-types"
+import { type Page, Page as PageBrand, type PageWhere } from "@akasha/pages-core/page-types"
 import type { ResolveQuestionArgs, ResolveQuestionDeps } from "./resolve-question.server"
 
 export const ASKED_BY = "asker-page-uuid"

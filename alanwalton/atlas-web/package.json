@@ -29,7 +29,7 @@
     "@shared/geo-io": "workspace:*",
     "@shared/object-store": "workspace:*",
     "@shared/pages-access": "workspace:*",
-    "@shared/pages-core": "workspace:*",
+    "@akasha/pages-core": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
     "@shared/pages-url": "workspace:*",

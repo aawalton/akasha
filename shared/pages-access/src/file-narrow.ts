@@ -1,7 +1,7 @@
 import type { Json } from "../../supabase-database/src/generated/database"
 import { camelizeKey, kebabizeKey } from "./file-rows"
 import type { PropertyDefinition } from "./page-type-config"
-import type { Page, PageCondition, PageWhere } from "@shared/pages-core/page-types"
+import type { Page, PageCondition, PageWhere } from "@akasha/pages-core/page-types"
 
 export function declaredAs(key: string, definitions: readonly PropertyDefinition[]): string {
   const canonical = camelizeKey(key)

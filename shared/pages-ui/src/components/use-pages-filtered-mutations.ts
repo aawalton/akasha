@@ -3,7 +3,7 @@
 import { type Json } from "../../../supabase-database/src/generated/database"
 import { createPage } from "@shared/pages-access/create"
 import { softDeletePage } from "@shared/pages-access/delete"
-import type { IconName } from "@shared/pages-core/icon"
+import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
 import { buildPageHref, type PageTypeSlug } from "@shared/pages-url"
 import { useCallback } from "react"
 import type { PagesUIRouter } from "../router-context"

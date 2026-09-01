@@ -1,4 +1,4 @@
-import type { Medium } from "@shared/pages-core/media-formats"
+import type { Medium } from "@akasha/pages-core/media-formats"
 import { assertNever } from "../../../utils-narrow/src/assert-never"
 
 export type ActiveSessionInit = {

@@ -1,5 +1,5 @@
-import type { Page } from "@shared/pages-core/page-types"
-import { toNumber } from "@shared/pages-core/property-types/number"
+import type { Page } from "@akasha/pages-core/page-types"
+import { toNumber } from "@akasha/pages-core/property-types/number"
 import { z } from "zod"
 
 export const LocationPinSchema = z.object({

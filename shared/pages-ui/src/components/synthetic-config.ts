@@ -1,5 +1,5 @@
-import type { GroupGranularity, ViewConfig, ViewDataJSON, ViewFilter, ViewGroupSort, ViewSort } from "@shared/pages-core/schema/view-data"
-import { GROUP_GRANULARITIES } from "@shared/pages-core/schema/view-data"
+import type { GroupGranularity, ViewConfig, ViewDataJSON, ViewFilter, ViewGroupSort, ViewSort } from "@akasha/pages-core/schema/view-data"
+import { GROUP_GRANULARITIES } from "@akasha/pages-core/schema/view-data"
 import { isRecord } from "../../../utils-narrow/src/is-record"
 import { z } from "zod"
 

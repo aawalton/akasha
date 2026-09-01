@@ -1,6 +1,7 @@
 "use client"
 
-import { type IconName, PASCAL_TO_KEBAB, resolveIconName } from "@shared/pages-core/icon"
+import { resolveIconName } from "@akasha/pages-core/icon"
+import { type IconName, PASCAL_TO_KEBAB } from "@akasha/pages-core/generated/icon-search-index"
 import type { LucideIcon, LucideProps } from "lucide-react"
 import { icons } from "lucide-react"
 

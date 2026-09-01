@@ -1,4 +1,4 @@
-import { pageQueryTimeIn } from "@shared/pages-core/view/page-query-times"
+import { pageQueryTimeIn } from "@akasha/pages-core/view/page-query-times"
 import { getEsoDayStr, getEsoDayWindow } from "./eso-day.ts"
 import { dayAfter, WAKE_DAY, type Woke } from "./wake-day.ts"
 

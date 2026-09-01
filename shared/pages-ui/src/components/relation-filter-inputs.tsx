@@ -7,8 +7,8 @@ import { useMemo, useState } from "react"
 import { usePageResolverOptional } from "../contexts/page-resolver"
 import { useRelationPicker } from "../contexts/relation-picker"
 import type { FilterOperator } from "../property-types/types"
-import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
-import type { PageFilterDimension } from "@shared/pages-core/view/generate-filter-dimensions"
+import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
+import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
 import { toStringArray } from "./value-filter-inputs"
 
 const RELATION_SEARCH_DEBOUNCE_MS = 200

@@ -4,8 +4,8 @@ import { AddFilterButton } from "@shared/design-patterns/components/add-filter-b
 import { FilterButton } from "@shared/design-patterns/components/filter-button"
 import { FilterGroup } from "@shared/design-patterns/components/filter-group"
 import { useState } from "react"
-import type { ViewFilter } from "@shared/pages-core/schema/view-data"
-import type { PageFilterDimension } from "@shared/pages-core/view/generate-filter-dimensions"
+import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
+import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
 import { OperatorFilterControl } from "./operator-filter-control"
 
 interface PagesFilterBarProps {

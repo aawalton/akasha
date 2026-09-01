@@ -1,6 +1,6 @@
 import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@shared/object-store"
 import { mediaRenderObjectKey } from "@shared/object-store/keys"
-import { MEDIA_FORMATS } from "@shared/pages-core/media-formats"
+import { MEDIA_FORMATS } from "@akasha/pages-core/media-formats"
 import { STORED_READ_ALOUD_VARIANT } from "@shared/pages-ui/media/media-src"
 
 export function readAloudKey(pageId: string, opts?: { readonly fromSentence?: number }): string {

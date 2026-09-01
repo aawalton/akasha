@@ -1,7 +1,7 @@
 "use client"
 
-import type { PageTypePropertiesMap } from "@shared/pages-core/property-types/rollup"
-import type { PropertyDefinition } from "@shared/pages-core/types"
+import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { useMemo } from "react"
 import { SupabasePageResolverProvider } from "../supabase/page-resolver-provider"

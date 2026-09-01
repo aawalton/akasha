@@ -3,7 +3,7 @@
 import { FilterGroup } from "@shared/design-patterns/components/filter-group"
 import { FilterableList, FilterableListItem } from "@shared/design-primitives/components/filterable-list"
 import { SubView } from "@shared/design-primitives/components/sub-view"
-import { GALLERY_CARD_SIZES, type GalleryCardSize } from "@shared/pages-core/view/gallery"
+import { GALLERY_CARD_SIZES, type GalleryCardSize } from "@akasha/pages-core/view/gallery"
 
 interface GalleryOptionsPickerProps {
   coverSource?: string

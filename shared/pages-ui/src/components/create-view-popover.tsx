@@ -4,10 +4,10 @@ import { Button } from "@shared/design-primitives/components/button"
 import { Input } from "@shared/design-primitives/components/input"
 import { Label } from "@shared/design-primitives/components/label"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { defaultViewData, stripLockedFacet } from "@shared/pages-core/schema/view-data"
+import { defaultViewData, stripLockedFacet } from "@akasha/pages-core/schema/view-data"
 import { Plus } from "lucide-react"
 import { useEffect, useRef, useState } from "react"
-import type { ViewDataJSON } from "@shared/pages-core/schema/view-data"
+import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 
 interface CreateViewPopoverProps {
   currentViewData?: ViewDataJSON

@@ -1,8 +1,8 @@
 "use client"
 
-import { DEFAULT_GROUP_PAGE_SIZE, DEFAULT_ITEM_PAGE_SIZE, DEFAULT_PAGE_SIZE } from "@shared/pages-core/schema/view-data"
+import { DEFAULT_GROUP_PAGE_SIZE, DEFAULT_ITEM_PAGE_SIZE, DEFAULT_PAGE_SIZE } from "@akasha/pages-core/schema/view-data"
 import { useCallback, useMemo, useState } from "react"
-import type { ViewConfig, ViewFilter } from "@shared/pages-core/schema/view-data"
+import type { ViewConfig, ViewFilter } from "@akasha/pages-core/schema/view-data"
 
 export interface ViewLocalConfigDefaults {
   defaultFilters?: readonly ViewFilter[]

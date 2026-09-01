@@ -1,5 +1,5 @@
 import { getPages } from "@shared/pages-access/get"
-import type { Page } from "@shared/pages-core/page-types"
+import type { Page } from "@akasha/pages-core/page-types"
 import { getContentPersistence } from "@akasha/pages-ui-store/singleton"
 import type { RelatedIdGroup } from "./collect-related-ids"
 

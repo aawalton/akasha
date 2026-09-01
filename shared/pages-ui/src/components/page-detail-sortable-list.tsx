@@ -13,7 +13,7 @@ import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
 import { GripVertical } from "lucide-react"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
-import type { PropertyDefinition } from "@shared/pages-core/types"
+import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { type DropZoneInfo, findDropZone } from "./drop-zones.ts"
 
 function SortablePropertyRow({

@@ -116,7 +116,7 @@
       }
     },
     {
-      "includes": ["shared/pages-core/**"],
+      "includes": ["akasha/pages-system/pages-core/**"],
       "linter": {
         "rules": {
           "style": {
@@ -124,12 +124,12 @@
               "level": "error",
               "options": {
                 "paths": {
-                  "react": "react is not allowed in @shared/pages-core",
-                  "react-dom": "react-dom is not allowed in @shared/pages-core",
-                  "@akasha/design-layout": "@akasha/design-layout is not allowed in @shared/pages-core",
-                  "@shared/design-primitives": "@shared/design-primitives is not allowed in @shared/pages-core",
-                  "@akasha/design-forms": "@akasha/design-forms is not allowed in @shared/pages-core",
-                  "@shared/pages-ui": "@shared/pages-ui is not allowed in @shared/pages-core"
+                  "react": "react is not allowed in @akasha/pages-core",
+                  "react-dom": "react-dom is not allowed in @akasha/pages-core",
+                  "@akasha/design-layout": "@akasha/design-layout is not allowed in @akasha/pages-core",
+                  "@shared/design-primitives": "@shared/design-primitives is not allowed in @akasha/pages-core",
+                  "@akasha/design-forms": "@akasha/design-forms is not allowed in @akasha/pages-core",
+                  "@shared/pages-ui": "@shared/pages-ui is not allowed in @akasha/pages-core"
                 }
               }
             }

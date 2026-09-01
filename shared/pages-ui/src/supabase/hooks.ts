@@ -2,7 +2,7 @@
 
 import { flattenRow } from "@shared/pages-access/routing-core"
 import { NEVER_MATCH_VALUE } from "@shared/pages-access/sentinels"
-import { type PageCondition, type PageWhere } from "@shared/pages-core/page-types"
+import { type PageCondition, type PageWhere } from "@akasha/pages-core/page-types"
 import { createIdSuffixPipeline, type IdSuffixResult } from "@akasha/pages-ui-store/query/id-suffix-pipeline"
 import type { PageTypeSlug } from "@shared/pages-url"
 import { useSupabase } from "@shared/supabase-rr/provider"

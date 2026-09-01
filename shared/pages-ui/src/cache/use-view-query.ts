@@ -1,7 +1,7 @@
 "use client"
 
 import { flattenRow } from "@shared/pages-access/routing-core"
-import { type Page } from "@shared/pages-core/page-types"
+import { type Page } from "@akasha/pages-core/page-types"
 import { createViewPipeline, type ViewResult } from "@akasha/pages-ui-store/query/view-pipeline"
 import { type UseViewQueryOptions } from "@akasha/pages-ui-store/sql/options"
 import { useMemo } from "react"

@@ -1,4 +1,4 @@
-import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
+import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 
 export interface PageRow {
   readonly _id: string
