@@ -13,10 +13,6 @@ export const modelAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A prompt is put to a model and the model answers it.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A check cannot wait for a call.",
     },
     {

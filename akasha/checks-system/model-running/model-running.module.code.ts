@@ -141,7 +141,11 @@ function askingFor(
 ): readonly (Asked & { readonly path: string; readonly test: string })[] {
   const found: (Asked & { readonly path: string; readonly test: string })[] = []
   for (const given of PAGES.from(change, shadow)) {
-    const value: unknown = given.value
+    const loaded: unknown = given.value
+    const value =
+      typeof loaded === "object" && loaded !== null
+        ? (loaded as { value?: unknown }).value
+        : undefined
     const definition =
       typeof value === "object" && value !== null
         ? (value as { definition?: unknown }).definition
