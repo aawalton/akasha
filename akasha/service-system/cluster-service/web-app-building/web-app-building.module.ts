@@ -38,6 +38,32 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Whether a tree installs is asked of the manifests it tracks rather than of the worktree.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Only the manifests a tree tracks and the lockfile beside them are taken out of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An install proved this way writes nothing into the tree it was proved from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A workspace a tree names and tracks no manifest for is named in the refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scratch an install is proved in is swept whether the proof passed or failed.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No whole tree is laid out to prove an install.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The pod is checked out to the sha before the build runs.",
     },
     {

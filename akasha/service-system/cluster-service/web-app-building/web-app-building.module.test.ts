@@ -1,4 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
+import { execFileSync } from "node:child_process"
+import { mkdirSync, mkdtempSync, readdirSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import type { Workload } from "../web-app-reading/web-app-reading.module.code.ts"
 import { SYNTH_AT, standingWorld } from "../web-app-reading/web-app-reading.module.test-fixtures.ts"
 import type { Manifest, Plan } from "../workload-deploying/workload-deploying.module.code.ts"
@@ -11,16 +14,68 @@ import {
   envPrefix,
   headOf,
   hiding,
+  installableAt,
   livestOf,
   quoted,
   saidBy,
   syncScript,
+  unfoundIn,
+  whyUninstallable,
 } from "./web-app-building.module.code.ts"
 
 const WORLD = standingWorld()
 
+const HOLD = "/var/tmp"
+
+const TREES_AT = "akasha-gate-trees-"
+
+const GATE_AT = "akasha-install-gate-"
+
+type Trees = {
+  readonly root: string
+  readonly missing: string
+  readonly whole: string
+  readonly sweep: () => undefined
+}
+
+function treesStanding(): Trees {
+  const root = mkdtempSync(join(HOLD, TREES_AT))
+  const git = (...argv: readonly string[]): undefined => {
+    execFileSync("git", ["-C", root, ...argv], { stdio: "ignore" })
+  }
+  const headHere = (): string =>
+    execFileSync("git", ["-C", root, "rev-parse", "HEAD"], { encoding: "utf8" }).trim()
+  git("init", "-q")
+  git("config", "user.email", "none@example")
+  git("config", "user.name", "none")
+  mkdirSync(join(root, "one"))
+  writeFileSync(join(root, "package.json"), '{ "name": "root", "workspaces": ["one"] }\n', "utf8")
+  writeFileSync(join(root, "one/package.json"), '{ "name": "one", "version": "0.0.0" }\n', "utf8")
+  execFileSync("bun", ["install"], { cwd: root, stdio: "ignore" })
+  git("add", "--", "package.json", "bun.lock")
+  git("commit", "-q", "-m", "the root manifest and the lockfile")
+  const missing = headHere()
+  git("add", "--", "one/package.json")
+  git("commit", "-q", "-m", "the manifest the root names")
+  return {
+    root,
+    missing,
+    whole: headHere(),
+    sweep: (): undefined => {
+      rmSync(root, { recursive: true, force: true })
+    },
+  }
+}
+
+const TREES = treesStanding()
+
+function scratchesStanding(): number {
+  return readdirSync(HOLD).filter((one) => one.startsWith(GATE_AT)).length
+}
+
 afterAll(() => {
   WORLD.sweep()
+  TREES.sweep()
 })
 
 const WEB: Workload = { kind: "Deployment", name: "web", namespace: "one" }
@@ -183,4 +238,66 @@ test("a pod nothing is taking away holds the build", () => {
 
 test("no pod standing means no pod holds a build", () => {
   expect(livestOf("")).toBe(null)
+})
+
+test("a workspace a tree names and tracks no manifest for is read out of what bun said", () => {
+  expect(unfoundIn('error: Workspace not found "shared/design-forms"')).toBe("shared/design-forms")
+})
+
+test("an install failing for anything else names no workspace", () => {
+  expect(unfoundIn("error: lockfile had changes, but lockfile is frozen")).toBe(null)
+})
+
+test("an install that ran clean is nothing to refuse", () => {
+  expect(whyUninstallable(SHA, { argv: [], code: 0, stdout: "", stderr: "" })).toBe(null)
+})
+
+test("a refusal names the workspace the pod would stop at", () => {
+  const said = whyUninstallable(SHA, {
+    argv: [],
+    code: 1,
+    stdout: "",
+    stderr: 'error: Workspace not found "shared/design-forms"',
+  })
+  expect(said).toContain('Workspace not found "shared/design-forms"')
+})
+
+test("an install failing for anything else is refused by what it said", () => {
+  const said = whyUninstallable(SHA, {
+    argv: [],
+    code: 1,
+    stdout: "",
+    stderr: "error: lockfile had changes, but lockfile is frozen",
+  })
+  expect(said).toContain("lockfile is frozen")
+})
+
+test("a tree naming a workspace it tracks no manifest for does not install", () => {
+  const held = installableAt(TREES.root, TREES.missing)
+  expect("why" in held ? held.why : "").toContain('Workspace not found "one"')
+})
+
+test("a tree tracking every manifest it names installs", () => {
+  expect(installableAt(TREES.root, TREES.whole)).toEqual({ installs: true })
+})
+
+test("the worktree is not what an install is proved against", () => {
+  expect(installableAt(TREES.root, TREES.missing)).not.toEqual({ installs: true })
+})
+
+test("a sha no commit stands at is refused rather than passed", () => {
+  const held = installableAt(TREES.root, "f".repeat(40))
+  expect("why" in held ? held.why : "").toContain("could not be read out")
+})
+
+test("the scratch an install is proved in is swept when the proof passes", () => {
+  const before = scratchesStanding()
+  installableAt(TREES.root, TREES.whole)
+  expect(scratchesStanding()).toBe(before)
+})
+
+test("the scratch an install is proved in is swept when the proof fails", () => {
+  const before = scratchesStanding()
+  installableAt(TREES.root, TREES.missing)
+  expect(scratchesStanding()).toBe(before)
 })

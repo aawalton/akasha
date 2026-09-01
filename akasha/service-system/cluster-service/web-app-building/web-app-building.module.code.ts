@@ -1,3 +1,5 @@
+import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
+import { join } from "node:path"
 import {
   carries,
   type Plan,
@@ -6,6 +8,15 @@ import {
 } from "../workload-deploying/workload-deploying.module.code.ts"
 
 const GIT = "git"
+const BUN = "bun"
+const TAR = "tar"
+const SCRATCH_AT = "/var/tmp"
+const GATE_AT = "akasha-install-gate-"
+const ARCHIVE = "tracked.tar"
+const TREE = "tree"
+const TRACKED = [":(glob)**/package.json", "package.json", "bun.lock"]
+const INSTALL = ["install", "--frozen-lockfile", "--dry-run"]
+const UNFOUND = /Workspace not found "([^"]*)"/
 const SYNC_CONTAINER = "code-sync"
 const REPO_PATH = "/app/repo"
 const STAMP = "build/.built-from"
@@ -82,6 +93,54 @@ export function carriedByOrigin(root: string, sha: string): Carried {
 
 export function pushToOrigin(root: string, sha: string): Ran {
   return runGit(root, ["push", "origin", `${sha}:${MAIN_REF}`])
+}
+
+export function ranOf(argv: readonly string[], at: string): Ran {
+  const ran = Bun.spawnSync([...argv], { cwd: at, stdout: "pipe", stderr: "pipe" })
+  return {
+    argv: [...argv],
+    code: ran.exitCode,
+    stdout: new TextDecoder().decode(ran.stdout),
+    stderr: new TextDecoder().decode(ran.stderr),
+  }
+}
+
+export function unfoundIn(said: string): string | null {
+  const found = UNFOUND.exec(said)
+  return found === null ? null : (found[1] as string)
+}
+
+export function whyUninstallable(sha: string, ran: Ran): string | null {
+  if (ran.code === 0) return null
+  const unfound = unfoundIn(`${ran.stdout}${ran.stderr}`)
+  if (unfound === null) {
+    return `the manifests tracked at ${sha} would not install, so the build in the pod would stop: ${saidBy(ran)}`
+  }
+  const named = JSON.stringify(unfound)
+  return `the tree at ${sha} names the workspace ${named} and tracks no manifest for it, so the build in the pod would stop at Workspace not found ${named}`
+}
+
+export type Installable = { readonly installs: true } | { readonly why: string }
+
+export function installableAt(root: string, sha: string): Installable {
+  const held = mkdtempSync(join(SCRATCH_AT, GATE_AT))
+  try {
+    const archive = join(held, ARCHIVE)
+    const tree = join(held, TREE)
+    mkdirSync(tree)
+    const took = runGit(root, ["archive", "--format=tar", "-o", archive, sha, "--", ...TRACKED])
+    if (took.code !== 0) {
+      return { why: `the manifests tracked at ${sha} could not be read out: ${saidBy(took)}` }
+    }
+    const spread = ranOf([TAR, "-xf", archive, "-C", tree], held)
+    if (spread.code !== 0) {
+      return { why: `the manifests tracked at ${sha} could not be laid out: ${saidBy(spread)}` }
+    }
+    const why = whyUninstallable(sha, ranOf([BUN, ...INSTALL], tree))
+    return why === null ? { installs: true } : { why }
+  } finally {
+    rmSync(held, { recursive: true, force: true })
+  }
 }
 
 export function livestOf(said: string): string | null {
