@@ -25,6 +25,12 @@ export const amyJennyUnreviewedWidget = {
     { statement: "`pages-ui` stands in akasha." },
     { statement: "The source of Alan's site stands in akasha." },
     {
+      statement:
+        "The packages under Alan's site that name no package of their own stand in akasha.",
+      workingMemory:
+        "Eight of twelve folders are done: sms, readout-scale and tracking are gone, while device-secret, push and readout-credential keep only an adapter, and readout and person-access were already done. Typecheck errors under alanwalton/web fell from 151 to 115. The four left want a package no intent had stood up, so this now stands after the one that stands it up. Counts here must include the `~/*` alias: app/lib has 88 inbound that way rather than 0.",
+    },
+    {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
         "The credential side is done and its intent gone: both of Alan's unrevoked device secrets stand as pages (0e557db688, b3d44bf124), deviceSecretCarryingHash answers `found` with revokedAt null for each, and guardReadout returns open. The live web pod 401s for nothing, for malformed and for an unowned secret. What is left is unknowable here: the plaintext lives only on the phone, and if the app was reinstalled a fresh mint is needed, which takes Alan's session.",
