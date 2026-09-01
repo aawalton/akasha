@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "device-token is rebuilt in akasha: the page type and 4 properties at ea83c1e63e, 3 pages at b7e9cfd31e, naming person and ios-app rather than restating an account and a bundle. It is now double-declared, the 18th such type: the legacy .md and its 3 pages are still what the pod writes and reads, so the two copies drift on the next registration. The rewire is blocked — the store refuses every page write (NO_RENDER_SAYS) and has no route for an uncommitted value.",
+        "The pages service writes a value kept outside the commit: `kept: [{path, values}]` merges beside the page and lands no commit when nothing else changed (0da945c2ab), invariants corrected (2777874f1c, b4307ef935), 7 tests (00540fcaff), 115 pass. device-token is rebuilt in akasha (ea83c1e63e, b7e9cfd31e) and the store serves all 3 rows. Left: the renderer turning property data into a page body, which nav and error wait on too.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
