@@ -8,8 +8,11 @@ export const amyJennyUnreviewedWidget = {
   personaSlug: "amy",
   parentSlug: "akasha-migration",
   intents: [
-    { statement: "A unit is written from the page describing a service." },
-    { statement: "A workstation service starts again when a file it reaches changes." },
+    {
+      statement: "A workstation service starts again when a file it reaches changes.",
+      workingMemory:
+        "The wrapper restarts nothing: it kills its child and exits 79, which unit-writing already writes as RestartForceExitStatus. Port tools/service-wrapper.ts and tools/lib/service-wrapper/{command,following,local-closure}.ts. The files it follows come from a transitive import crawl over Bun.Transpiler.scanImports and Bun.resolveSync, held to the repo and out of node_modules. It watches parent directories, settles 1s, then diffs Bun.hash digests. No page states restarts-on, so --also can wait.",
+    },
     { statement: "An akasha command installs a workstation service." },
     { statement: "A page query is answered from an index rather than by reading every page file." },
     { statement: "A page query is answered while another is still being answered." },
