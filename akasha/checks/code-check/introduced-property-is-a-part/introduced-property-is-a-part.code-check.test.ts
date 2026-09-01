@@ -5,8 +5,12 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
-import { declaring, landing, NO_BYTES } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import {
+  declaring,
+  landing,
+  NO_BYTES,
+} from "../../modules/check-scratch/check-scratch.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import {
   declaresIn,
   introducedPropertyIsAPart,

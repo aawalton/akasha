@@ -3,8 +3,8 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { idFiled, listedFiled, pathFiled } from "@akasha/indexes/testing"
 import { shadowFor } from "@akasha/pages-system/shadow"
-import { change } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import { change } from "../../modules/check-scratch/check-scratch.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import {
   handedIn,
   nameFormatJudgesByOneShape,

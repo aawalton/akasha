@@ -10,8 +10,8 @@ import {
   pathFor,
   put,
   typed,
-} from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+} from "../../modules/check-scratch/check-scratch.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import { emailAddressIsWellFormed } from "./email-address-is-well-formed.code-check.code.ts"
 
 const ADDRESS = "email-address-property"

@@ -3,7 +3,7 @@ import { knownIn, type Shaped } from "@akasha/indexes/reaching"
 import { pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { type Shadow, shadowAt, shadowFor } from "@akasha/pages-system/shadow"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import {
   danglingIn,
   mortalityIn,

@@ -5,7 +5,12 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { noPathsFiled, pathFiled } from "@akasha/indexes/testing"
 import { shadowAt } from "@akasha/pages-system/shadow"
 import { bytesOf } from "@akasha/testing-system/bodying"
-import { change, gone, landing, proposing } from "../../check-scratch/check-scratch.module.code.ts"
+import {
+  change,
+  gone,
+  landing,
+  proposing,
+} from "../../modules/check-scratch/check-scratch.module.code.ts"
 import type { Found } from "./shell-clean.code-check.code.ts"
 import {
   besideIn,

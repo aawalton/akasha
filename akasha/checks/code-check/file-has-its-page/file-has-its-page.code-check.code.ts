@@ -1,7 +1,7 @@
 import { listedByPath } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
-import { FILES, judgingEach } from "../../change-walking/change-walking.module.code.ts"
+import { FILES, judgingEach } from "../../modules/change-walking/change-walking.module.code.ts"
 
 const INSIDE = "akasha/"
 

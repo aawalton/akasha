@@ -8,8 +8,8 @@ import {
   overEachFile,
   TEXTS,
   textIn,
-} from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+} from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 
 const TS = ".ts"
 

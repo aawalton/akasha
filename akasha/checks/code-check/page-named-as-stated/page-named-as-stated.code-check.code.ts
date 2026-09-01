@@ -4,14 +4,14 @@ import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { namedIn } from "@akasha/pages-system/page-file-name"
 import ts from "typescript"
-import type { Body } from "../../change-walking/change-walking.module.code.ts"
+import type { Body } from "../../modules/change-walking/change-walking.module.code.ts"
 import {
   bodyOf,
   FILES,
   input,
   overEachFile,
-} from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+} from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 
 const SLUG = "slug"
 

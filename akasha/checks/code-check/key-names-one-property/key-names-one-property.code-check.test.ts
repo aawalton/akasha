@@ -10,8 +10,8 @@ import {
   landing,
   pathFor,
   typed,
-} from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+} from "../../modules/check-scratch/check-scratch.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import { keyNamesOneProperty } from "./key-names-one-property.code-check.code.ts"
 import {
   ONE,

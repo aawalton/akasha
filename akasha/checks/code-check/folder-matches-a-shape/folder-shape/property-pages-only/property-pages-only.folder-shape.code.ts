@@ -1,5 +1,5 @@
 import { basename } from "node:path"
-import { saidInside } from "../../../../shape-saying/shape-saying.module.code.ts"
+import { saidInside } from "../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
 const PROPERTY = "page-property"

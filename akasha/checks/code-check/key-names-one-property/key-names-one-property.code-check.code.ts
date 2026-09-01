@@ -10,8 +10,8 @@ import {
 } from "@akasha/pages-system/page-type-properties"
 import { textAt } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
-import { input, PAGES } from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import { input, PAGES } from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
 
 const PAGE_TYPE = "page-type"

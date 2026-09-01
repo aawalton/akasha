@@ -1,4 +1,4 @@
-import { saidInside } from "../../../../shape-saying/shape-saying.module.code.ts"
+import { saidInside } from "../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
 export function foldersOnly(standing: Standing): readonly string[] {

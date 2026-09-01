@@ -15,8 +15,8 @@ import {
   input,
   overEachFile,
   overEachText,
-} from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+} from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 
 const PACKAGE = "workspace-package"
 

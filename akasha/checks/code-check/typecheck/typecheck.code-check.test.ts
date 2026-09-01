@@ -5,7 +5,7 @@ import { stampTakenFrom } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import ts from "typescript"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import { foundOf, omittingIn, reachedBy, rootsOf, typecheck } from "./typecheck.code-check.code.ts"
 import {
   change,

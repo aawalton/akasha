@@ -19,9 +19,9 @@ import type { Change } from "@akasha/pages-system/change"
 import { pageNamed } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
-import type { Body, Selector } from "../../change-walking/change-walking.module.code.ts"
-import { FILES, input, textNamed } from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import type { Body, Selector } from "../../modules/change-walking/change-walking.module.code.ts"
+import { FILES, input, textNamed } from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 
 const IMPORT = importEdge.slug
 

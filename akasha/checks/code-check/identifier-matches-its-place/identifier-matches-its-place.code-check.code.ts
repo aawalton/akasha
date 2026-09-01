@@ -15,8 +15,8 @@ import {
   overEachFile,
   TEXTS,
   textNamed,
-} from "../../change-walking/change-walking.module.code.ts"
-import type { Running } from "../../judging/judging.module.code.ts"
+} from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Running } from "../../modules/judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 

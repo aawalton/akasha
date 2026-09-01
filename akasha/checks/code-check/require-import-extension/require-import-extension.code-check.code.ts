@@ -3,7 +3,7 @@ import {
   judgingEach,
   overEachText,
   TEXTS,
-} from "../../change-walking/change-walking.module.code.ts"
+} from "../../modules/change-walking/change-walking.module.code.ts"
 
 const ENDINGS: readonly string[] = [".ts", ".tsx", ".css"]
 

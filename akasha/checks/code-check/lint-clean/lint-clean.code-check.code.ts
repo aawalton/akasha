@@ -2,9 +2,9 @@ import type { Found, Linted } from "@akasha/code-system/code-lint"
 import { lintedOver } from "@akasha/code-system/code-lint"
 import { worldOf } from "@akasha/code-system/code-tests"
 import type { Change } from "@akasha/pages-system/change"
-import type { Body, Selector } from "../../change-walking/change-walking.module.code.ts"
-import { FILES, input } from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import type { Body, Selector } from "../../modules/change-walking/change-walking.module.code.ts"
+import { FILES, input } from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 
 const READ: readonly string[] = [".ts", ".tsx", ".css"]
 

@@ -11,8 +11,13 @@ import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, type Held, heldIn, namedIn } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
-import { bodyOf, FILES, input, textIn } from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import {
+  bodyOf,
+  FILES,
+  input,
+  textIn,
+} from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
 
 const SHAPE = "folder-shape"

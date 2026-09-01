@@ -2,8 +2,8 @@ import { skimmedAs } from "@akasha/code-system/code-source"
 import { landingOf } from "@akasha/code-system/code-specifier"
 import type { Change } from "@akasha/pages-system/change"
 import ts from "typescript"
-import { input, TEXTS, textIn } from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import { input, TEXTS, textIn } from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 

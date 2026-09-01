@@ -6,8 +6,8 @@ import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
-import { FILES, input, textIn } from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import { FILES, input, textIn } from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 
 const NAME_FORMAT = "name-format"
 

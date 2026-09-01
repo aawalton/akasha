@@ -5,7 +5,7 @@ import {
   judgingEach,
   overEachBody,
   styleNamed,
-} from "../../change-walking/change-walking.module.code.ts"
+} from "../../modules/change-walking/change-walking.module.code.ts"
 
 export type Found = {
   readonly line: number

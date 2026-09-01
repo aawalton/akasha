@@ -1,14 +1,14 @@
 import type { Change } from "@akasha/pages-system/change"
 import { kindsUnder } from "@akasha/pages-system/page-type-descent"
 import type { Shadow } from "@akasha/pages-system/shadow"
-import type { Body } from "../../change-walking/change-walking.module.code.ts"
+import type { Body } from "../../modules/change-walking/change-walking.module.code.ts"
 import {
   input,
   overEachFile,
   overEachText,
   TEXTS,
-} from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+} from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import { pageIn } from "../page-named-as-stated/page-named-as-stated.code-check.code.ts"
 
 const INSIDE = "akasha/"

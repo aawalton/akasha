@@ -1,7 +1,12 @@
 import type { Change } from "@akasha/pages-system/change"
 import { bytesOf } from "@akasha/testing-system/bodying"
-import { filing, landing, pathFor, put } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import {
+  filing,
+  landing,
+  pathFor,
+  put,
+} from "../../modules/check-scratch/check-scratch.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 
 export const PAGE_TYPE = "page-type"
 

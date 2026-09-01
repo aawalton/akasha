@@ -4,7 +4,7 @@ import {
   judgingEach,
   overEachText,
   TEXTS,
-} from "../../change-walking/change-walking.module.code.ts"
+} from "../../modules/change-walking/change-walking.module.code.ts"
 
 function foundIn(at: string, text: string): readonly string[] {
   const source = parsedAs(at, text)

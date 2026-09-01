@@ -2,7 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
-import { claiming, declaring, filing } from "../../check-scratch/check-scratch.module.code.ts"
+import {
+  claiming,
+  declaring,
+  filing,
+} from "../../modules/check-scratch/check-scratch.module.code.ts"
 import {
   everyShapeIn,
   noSecondSpellingOfANameFormat,

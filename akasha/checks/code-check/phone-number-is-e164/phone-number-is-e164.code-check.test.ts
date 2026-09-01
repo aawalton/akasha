@@ -9,8 +9,8 @@ import {
   NO_BYTES,
   pathFor,
   typed,
-} from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+} from "../../modules/check-scratch/check-scratch.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import { phoneNumberIsE164, reasonFor, reasonsIn } from "./phone-number-is-e164.code-check.code.ts"
 
 const scratch = scratchWorld()

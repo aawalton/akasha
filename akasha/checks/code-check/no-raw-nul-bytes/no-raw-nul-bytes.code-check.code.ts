@@ -1,5 +1,5 @@
-import type { Body } from "../../change-walking/change-walking.module.code.ts"
-import { FILES, judgingEach } from "../../change-walking/change-walking.module.code.ts"
+import type { Body } from "../../modules/change-walking/change-walking.module.code.ts"
+import { FILES, judgingEach } from "../../modules/change-walking/change-walking.module.code.ts"
 
 const NUL = 0
 

@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { shadowAsked } from "@akasha/pages-system/shadow"
 import { bodiesIn } from "@akasha/testing-system/bodying"
-import { change } from "../../check-scratch/check-scratch.module.code.ts"
+import { change } from "../../modules/check-scratch/check-scratch.module.code.ts"
 import {
   pageIn,
   pageNamedAsStated,

@@ -12,8 +12,8 @@ import type { Change } from "@akasha/pages-system/change"
 import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
 import { textAt, type Value, valueIn } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
-import { bodyOf, input, PAGES } from "../../change-walking/change-walking.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import { bodyOf, input, PAGES } from "../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 

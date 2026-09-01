@@ -6,7 +6,7 @@ import { RUNNING } from "@akasha/code-system/code-tests"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { noPathsFiled, pathFiled } from "@akasha/indexes/testing"
 import { shadowAt } from "@akasha/pages-system/shadow"
-import { change, gone, proposing } from "../../check-scratch/check-scratch.module.code.ts"
+import { change, gone, proposing } from "../../modules/check-scratch/check-scratch.module.code.ts"
 import { namedIn, reasonOf, tailOf, testsPass } from "./tests-pass.code-check.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'

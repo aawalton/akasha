@@ -1,12 +1,12 @@
 import { lineOf, parsedAs } from "@akasha/code-system/code-source"
 import { type Grammars, grammarsIn, plainlyBy } from "@akasha/plain-language"
 import ts from "typescript"
-import type { Body } from "../../change-walking/change-walking.module.code.ts"
+import type { Body } from "../../modules/change-walking/change-walking.module.code.ts"
 import {
   judgingEach,
   overEachText,
   TEXTS,
-} from "../../change-walking/change-walking.module.code.ts"
+} from "../../modules/change-walking/change-walking.module.code.ts"
 
 const KIND = "invariantKind"
 

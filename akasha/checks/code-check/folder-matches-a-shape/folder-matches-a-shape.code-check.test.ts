@@ -4,8 +4,8 @@ import { writing } from "@akasha/command-system/scratching/testing"
 import { idFiled, listedFiled, pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
-import { declaring } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import { declaring } from "../../modules/check-scratch/check-scratch.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import {
   ancestorsOf,
   edgesOf,

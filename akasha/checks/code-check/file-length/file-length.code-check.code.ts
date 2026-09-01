@@ -1,6 +1,6 @@
 import { namedIn } from "@akasha/pages-system/page-file-name"
-import type { Body } from "../../change-walking/change-walking.module.code.ts"
-import { FILES, judgingEach } from "../../change-walking/change-walking.module.code.ts"
+import type { Body } from "../../modules/change-walking/change-walking.module.code.ts"
+import { FILES, judgingEach } from "../../modules/change-walking/change-walking.module.code.ts"
 
 export const CEILING = 15000
 

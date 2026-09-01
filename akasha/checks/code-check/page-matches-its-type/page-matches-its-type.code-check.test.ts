@@ -6,7 +6,7 @@ import { type Formatting, matchingIn } from "@akasha/pages-system/name-format/fo
 import { type Carried, propertiesOf } from "@akasha/pages-system/page-type-properties"
 import type { Value } from "@akasha/pages-system/page-value"
 import { shadowFor } from "@akasha/pages-system/shadow"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../modules/judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
   pageMatchesItsType,
