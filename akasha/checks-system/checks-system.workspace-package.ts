@@ -88,11 +88,6 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Whether a check reads the tree is answered by running it twice rather than by reading it.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A check no change woke is unmeasured rather than sound.",
     },
     {
