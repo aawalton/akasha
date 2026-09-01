@@ -122,7 +122,7 @@
       },
     },
     "akasha/checks-system": {
-      "name": "@akasha/checks-system",
+      "name": "@akasha/checks",
       "dependencies": {
         "typescript": "5.9.3",
       },
@@ -3701,7 +3701,7 @@
 
     "@akasha/checkout-version": ["@akasha/checkout-version@workspace:akasha/version/checkout"],
 
-    "@akasha/checks-system": ["@akasha/checks-system@workspace:akasha/checks-system"],
+    "@akasha/checks": ["@akasha/checks@workspace:akasha/checks-system"],
 
     "@akasha/chess-core": ["@akasha/chess-core@workspace:akasha/alan/chess"],
 
