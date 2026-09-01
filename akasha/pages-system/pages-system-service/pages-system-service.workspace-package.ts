@@ -10,6 +10,7 @@ export const pagesSystemService = {
     "module/page-asking",
     "module/page-listening",
     "module/page-serving",
+    "module/page-writing",
     "workstation-service/page-query-service",
   ],
   invariants: [
