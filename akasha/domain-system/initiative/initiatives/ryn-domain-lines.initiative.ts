@@ -7,8 +7,16 @@ export const rynDomainLines = {
   domainSlug: "workspace-package/domain-system",
   personaSlug: "ryn",
   intents: [
-    { statement: "Every construction akasha writes is parsed by the grammar." },
-    { statement: "Every sentence shape the grammar parses carries a decision." },
+    {
+      statement: "Every construction akasha writes is parsed by the grammar.",
+      workingMemory:
+        "Fifteen shapes over four tiers took plain from 655 of 3551 to 2043, and refusals the grammar cannot read from 2815 to 541. What is left is a long tail rather than a few big constructions. To find the next one, count the refusals by the word the parse stopped at; a construction the grammar lacks shows up as a cluster.",
+    },
+    {
+      statement: "Every sentence shape the grammar parses carries a decision.",
+      workingMemory:
+        "Four shapes refused, none allowed, 39 undecided. Alan approves only allowing, and holds that no simpler rewrite is necessary but not sufficient, so approvals wait on criteria he has not named yet. Mine for clearly wrong shapes instead. Every defect so far was a rule too loose, firing on a wrong analysis and hiding a missing rule: read a shape's dependents and check the construction is really in them.",
+    },
     { statement: "A sentence the grammar refuses names a shape it is refused for." },
     { statement: "A change writing a sentence the grammar refuses does not land." },
     { statement: "Every invariant under akasha is written in plain language." },
