@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const mobileCliWaitsOnThePageEngineRatherThanOnPackaging = {
+  id: "01a05c37-7a1d-7848-82a9-2924c2ea0bdf",
+  pageTypeSlug: "finding",
+  slug: "mobile-cli-waits-on-the-page-engine-rather-than-on-packaging",
+  domainSlug: "domain/alan-harness",
+  claim:
+    "Nine of mobile-cli's ten escapes are cheap and one carries everything: apps.ts reaching tools/lib/file-pages.ts closes over 89 files, the same root page engine shared/pages-query already waits on. Packaging four tools/lib files is mis-scoped, since code-root.ts closes over 6 and repo/roots over 5. Not moved: it waits on the engine rather than on packaging.",
+  evidence:
+    "Ten escapes, each measured. Four from ios-components.ts reach ios-program pages inside akasha, so imports-inside passes them, but package-reached-where-named does not: @akasha/code-system states an exports map holding no ./ios-program key, so four entries and one dependency answer them. Three from apps.ts reach tools/lib file-pages.ts, page-derive-shape.ts for the type Row, and page-query-values.ts for textOf and listOf; the last two close over 13 files each, the first over 89, 47 under page/. One from apps.ts reaches repo/roots/roots.ts for resolveRoots, closing over 5. Two reach tools/lib/code-root.ts, whose body is CODE_ROOT else ownRepoRoot() from that same roots.ts, closing over 6.\n\nfile-pages.ts calls answer() from page-query.ts, one of the seven tools/lib reaches shared-pages-query-waits-on-the-root-page-engine records as ordering-blocked. The four-file prerequisite omits page-file-values.ts and page-query.ts, both in the closure. Four reaches into tools/lib are five, install-shell.ts being a reacher rather than a target. Twenty-one inbound on code-root.ts is 53 files, 32 under tools/ and 19 under infra/.\n\nA smaller answer stands, not taken here: app-building.module.code.ts reads ios-program pages through @akasha/indexes and @akasha/pages-system/page-value with no escape, and apps.ts could read ios-app pages that way, taking root as a parameter as app-building does. That dissolves nine of ten. It is a rewrite of mobile-cli's page-reading and root-resolving head, 27 inbound specifiers under tools/, and three shell scripts loading ios-components.ts by literal path through bun -e. 12 of the 28 files carry refused syntax: 17 Promise<void>, one module-level let, 29 comment lines in 5 files.",
+} as const satisfies Finding
