@@ -1,4 +1,4 @@
-import { patchPage } from "@akasha/pages-query"
+import { patchPage } from "@shared/pages-query"
 import { classifyError, logError, toError } from "../sync-run/result.ts"
 import { pageTitled, textAt, WRITER } from "./page-query.ts"
 

@@ -1,8 +1,6 @@
 #!/usr/bin/env bun
 
-import { fetchThrough } from "@akasha/pages-query/fetcher"
 import { operationalError } from "../tools/lib/exit.ts"
-import { pageQueryInProcess } from "../tools/lib/page-query-in-process.ts"
 import { runCommitPoints } from "../tools/lib/daily-tracking/run-commit-points.ts"
 
 const HELP = `bun services/daily-tracking-points.ts — one daily-tracking points recompute
@@ -39,7 +37,6 @@ async function main(argv: readonly string[]): Promise<number> {
     process.stderr.write(`\`${one}\` is not an argument this takes — run it with --help\n`)
     return 1
   }
-  fetchThrough(pageQueryInProcess)
   try {
     await runCommitPoints()
   } catch (err) {
