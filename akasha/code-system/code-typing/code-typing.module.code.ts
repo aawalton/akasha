@@ -60,17 +60,35 @@ export function insideOf(root: string, at: string): string | null {
   return rel.startsWith(INSIDE) ? rel : null
 }
 
+const LINKED = new Map<string, string>()
+
 function realOf(at: string): string {
+  const found = LINKED.get(at)
+  if (found !== undefined) return found
+  let real = at
   try {
-    return realpathSync(at)
+    real = realpathSync(at)
   } catch {
-    return at
+    real = at
   }
+  LINKED.set(at, real)
+  return real
+}
+
+export function linkedOf(root: string, at: string): string {
+  const mark = `${root}/${PACKAGES}/`
+  if (!at.startsWith(mark)) return at
+  for (let to = at.indexOf("/", mark.length); to > 0; to = at.indexOf("/", to + 1)) {
+    const head = at.slice(0, to)
+    const real = realOf(head)
+    if (real !== head) return `${real}${at.slice(to)}`
+  }
+  return at
 }
 
 export function manifestOf(root: string, at: string): string | null {
   if (!manifested(at)) return null
-  const real = at.includes(`/${PACKAGES}/`) ? realOf(at) : at
+  const real = linkedOf(root, at)
   if (!real.startsWith(`${root}/`)) return null
   const rel = real.slice(root.length + 1)
   if (rel.includes(`/${PACKAGES}/`)) return null
@@ -78,7 +96,8 @@ export function manifestOf(root: string, at: string): string | null {
 }
 
 export function servedOf(root: string, at: string): string | null {
-  return insideOf(root, at) ?? manifestOf(root, at)
+  const real = linkedOf(root, at)
+  return insideOf(root, real) ?? manifestOf(root, real)
 }
 
 function directoriesIn(root: string, every: readonly string[]): ReadonlySet<string> {
@@ -99,6 +118,7 @@ export function hostOver(root: string, read: Reading, every: readonly string[]):
   return {
     ...base,
     getCurrentDirectory: () => root,
+    realpath: (path) => linkedOf(root, resolve(base.realpath?.(path) ?? path)),
     fileExists: (path) =>
       servedOf(root, resolve(path)) === null ? ts.sys.fileExists(path) : read(path) !== undefined,
     directoryExists: (path) => dirs.has(resolve(path)) || ts.sys.directoryExists(path),
@@ -113,7 +133,7 @@ export function hostOver(root: string, read: Reading, every: readonly string[]):
 
 export function readingOf(root: string, textOf: (path: string) => string | null): Reading {
   return (at) => {
-    const full = resolve(at)
+    const full = linkedOf(root, resolve(at))
     const rel = insideOf(root, full)
     if (rel !== null) {
       const text = textOf(rel)

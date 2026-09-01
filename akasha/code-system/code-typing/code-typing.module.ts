@@ -117,7 +117,11 @@ export const codeTyping = {
     {
       invariantKind: "departure",
       statement:
-        "A manifest reached through the packages folder is answered at the path it links to inside the akasha folder.",
+        "A path reached through the packages folder is answered where that package's link leads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link is followed whether or not a file is there to follow it to.",
     },
     {
       invariantKind: "departure",
