@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { dataIn } from "@akasha/file-system/data-place"
+import { NO_CODE, ran as running, type Said } from "@akasha/utils-run/running"
 import { secretAt } from "../page-file-name/page-file-name.module.code.ts"
 
 export type Secrets = ReadonlyMap<string, string>
@@ -57,24 +58,19 @@ function besideOr(page: string): string {
 }
 
 function ran(root: string, args: readonly string[], doing: string): Composed {
-  let done: { exitCode: number | null; stdout: Buffer; stderr: Buffer }
+  let done: Said
   try {
-    done = Bun.spawnSync([SOPS, ...args], {
-      cwd: root,
-      stdout: "pipe",
-      stderr: "pipe",
-      timeout: CEILING,
-    })
+    done = running([SOPS, ...args], { cwd: root, timeout: CEILING })
   } catch (thrown) {
     return { text: null, why: `${doing} could not run: ${String(thrown)}` }
   }
-  if (done.exitCode === null) {
+  if (done.code === NO_CODE) {
     return { text: null, why: `${doing} was killed after ${CEILING / 1000}s and said nothing` }
   }
-  if (done.exitCode !== 0) {
-    return { text: null, why: `${doing} failed: ${done.stderr.toString().trim()}` }
+  if (done.code !== 0) {
+    return { text: null, why: `${doing} failed: ${done.err.trim()}` }
   }
-  return { text: done.stdout.toString(), why: "" }
+  return { text: done.out, why: "" }
 }
 
 function scratchFor(root: string, body: string): string {
