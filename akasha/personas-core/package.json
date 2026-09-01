@@ -1,0 +1,32 @@
+{
+  "name": "@akasha/personas-core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./anchor-cover-record": "./anchor-cover-record/anchor-cover-record.module.code.ts",
+    "./canonical-image-classify": "./canonical-image-classify/canonical-image-classify.module.code.ts",
+    "./framework": "./framework/framework.module.code.ts",
+    "./git-byte-pathspecs": "./git-byte-pathspecs/git-byte-pathspecs.module.code.ts",
+    "./green-day-fraction": "./green-day-fraction/green-day-fraction.module.code.ts",
+    "./image-locator": "./image-locator/image-locator.module.code.ts",
+    "./image-name": "./image-name/image-name.module.code.ts",
+    "./last-messaged": "./last-messaged/last-messaged.module.code.ts",
+    "./persona-page-conditions": "./persona-page-conditions/persona-page-conditions.module.code.ts",
+    "./points-source-availability": "./points-source-availability/points-source-availability.module.code.ts",
+    "./points-source-coherence": "./points-source-coherence/points-source-coherence.module.code.ts",
+    "./points-source-declarers": "./points-source-declarers/points-source-declarers.module.code.ts",
+    "./render-prompt": "./render-prompt/render-prompt.module.code.ts",
+    "./totals": "./totals/totals.module.code.ts",
+    "./voice-spec": "./voice-spec/voice-spec.module.code.ts",
+    "./wallpaper-backfill-classify": "./wallpaper-backfill-classify/wallpaper-backfill-classify.module.code.ts",
+    "./wallpaper-backfill-execute": "./wallpaper-backfill-execute/wallpaper-backfill-execute.module.code.ts",
+    "./wallpaper-install": "./wallpaper-install/wallpaper-install.module.code.ts",
+    "./wallpaper-record": "./wallpaper-record/wallpaper-record.module.code.ts",
+    "./wallpaper-select": "./wallpaper-select/wallpaper-select.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-core": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
