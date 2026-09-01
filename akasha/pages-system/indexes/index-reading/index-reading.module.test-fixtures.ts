@@ -68,7 +68,7 @@ function unreadable(root: string, at: string): undefined {
   writeFileSync(path, NOT_JSON)
 }
 
-function standing(root: string, at: string): undefined {
+function foldering(root: string, at: string): undefined {
   mkdirSync(under(root, at), { recursive: true })
 }
 
@@ -165,19 +165,19 @@ export function importPartLeft(root: string, path: string, lines: readonly unkno
 }
 
 export function nothingFiled(root: string): undefined {
-  standing(root, "")
+  foldering(root, "")
 }
 
 export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
-  standing(root, join(indexIdentity.name, pageTypeSlug, SLUG))
+  foldering(root, join(indexIdentity.name, pageTypeSlug, SLUG))
 }
 
 export function noPathsFiled(root: string): undefined {
-  standing(root, indexPath.name)
+  foldering(root, indexPath.name)
 }
 
 export function noImportersFiled(root: string): undefined {
-  standing(root, join(indexImport.name, AT_PATH))
+  foldering(root, join(indexImport.name, AT_PATH))
 }
 
 export function entriesFiled(root: string, entries: readonly Entry[]): undefined {
