@@ -86,12 +86,7 @@ function identityFiled(
   filing(root, join(indexIdentity.name, scope, propertySlug, said), lines)
 }
 
-function identityStanding(
-  root: string,
-  scope: string,
-  propertySlug: string,
-  said: string
-): boolean {
+function identityListed(root: string, scope: string, propertySlug: string, said: string): boolean {
   const at = join(indexIdentity.name, scope, propertySlug, `${said}${ENDING}`)
   return existsSync(under(root, at))
 }
@@ -115,7 +110,7 @@ export function listedAlsoFiled(
 }
 
 export function listedFiledIn(root: string, pageTypeSlug: string, slug: string): boolean {
-  return identityStanding(root, pageTypeSlug, SLUG, slug)
+  return identityListed(root, pageTypeSlug, SLUG, slug)
 }
 
 export function listedUnreadableFiled(root: string, pageTypeSlug: string, slug: string): undefined {
@@ -127,7 +122,7 @@ export function idFiled(root: string, id: string, lines: readonly unknown[]): un
 }
 
 export function idFiledIn(root: string, id: string): boolean {
-  return identityStanding(root, PAGE, ID, id)
+  return identityListed(root, PAGE, ID, id)
 }
 
 export function pathFiled(root: string, path: string, lines: readonly unknown[]): undefined {
