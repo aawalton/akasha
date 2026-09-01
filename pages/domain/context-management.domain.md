@@ -7,7 +7,6 @@ domain-parent-slug: domain/domain-system
 required-reading-slugs:
   - domain/agent-harness
 sequence-slugs:
-  - domain/context-warrant
   - domain/context-machinery
 settled: true
 ---
