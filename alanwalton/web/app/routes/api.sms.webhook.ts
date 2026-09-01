@@ -1,6 +1,6 @@
 import { loadSmsExternalIdentities } from "@akasha/sms-access/sms-allowlist"
 import { recordSmsDiscard } from "@akasha/sms-access/sms-discard"
-import { handleInboundSms } from "@alanwalton/sms-core/handle-inbound"
+import { handleInboundSms } from "@akasha/sms-core/handle-inbound"
 import { writePage } from "@shared/pages-query"
 import { createServiceRoleClient } from "../../../../shared/supabase-server/src/service-role"
 import { z } from "zod"

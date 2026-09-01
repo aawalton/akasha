@@ -4,7 +4,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
-import { extractActingAccountUserId } from "@alanwalton/sms-core/acting-account"
+import { extractActingAccountUserId } from "@akasha/sms-core/acting-account"
 
 export const help: CommandHelp = {
   flags: [

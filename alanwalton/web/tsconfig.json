@@ -47,9 +47,6 @@
       "path": "../../collections/litrpg"
     },
     {
-      "path": "../sms-core"
-    },
-    {
       "path": "../../infra/k8s-types"
     },
     {
