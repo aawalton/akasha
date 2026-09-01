@@ -1,10 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { said as git } from "@akasha/git/git-running"
 import { baseOf, landing } from "../landing/landing.module.code.ts"
 import { ADMITS, bytes } from "../landing/landing.module.test-fixtures.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { AUTHOR, gitIn as git } from "./committing.module.code.ts"
+import { AUTHOR } from "./committing.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -1,14 +1,10 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { said } from "@akasha/utils-run/running"
+import { said as gitIn } from "@akasha/git/git-running"
 
 export const AUTHOR = "Akasha <akasha@alanwalton.com>"
 
 export const UNNAMED = "unnamed"
-
-export function gitIn(root: string, argv: readonly string[]): string {
-  return said(["git", "-C", root, ...argv])
-}
 
 function nameOf(root: string): string {
   try {

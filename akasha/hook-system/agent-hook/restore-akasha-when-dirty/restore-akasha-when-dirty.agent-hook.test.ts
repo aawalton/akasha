@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { gitIn } from "@akasha/command-system/committing"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { said as gitIn } from "@akasha/git/git-running"
 import { put } from "@akasha/testing-system/putting"
 import {
   dirtyIn,

@@ -1,8 +1,8 @@
 import { rmSync } from "node:fs"
 import { join } from "node:path"
-import { gitIn } from "@akasha/command-system/committing"
 import { holding } from "@akasha/command-system/holding"
 import { rootOf } from "@akasha/command-system/rooting"
+import { said as gitIn } from "@akasha/git/git-running"
 
 const HOOK_NAME = "restore-akasha-when-dirty"
 
