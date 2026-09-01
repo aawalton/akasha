@@ -1,5 +1,5 @@
-import { execFileSync } from "node:child_process"
 import { createHash } from "node:crypto"
+import { said } from "@akasha/utils-run/running"
 
 export const CODE_BUILD_INPUT_PATHS: readonly string[] = [
   "packages",
@@ -19,10 +19,7 @@ export const ABSENT_OBJECT = "absent"
 
 export function objectIdAt(repoRoot: string, ref: string, path: string): string {
   try {
-    return execFileSync("git", ["-C", repoRoot, "rev-parse", `${ref}:${path}`], {
-      encoding: "utf8",
-      stdio: ["ignore", "pipe", "ignore"],
-    }).trim()
+    return said(["git", "-C", repoRoot, "rev-parse", `${ref}:${path}`]).trim()
   } catch {
     return ABSENT_OBJECT
   }
@@ -36,20 +33,16 @@ export function computeBuildInputTreeHash(sources: readonly TreeSource[]): strin
 }
 
 export function resolveRepoRoot(cwd?: string): string {
-  return execFileSync("git", ["-C", cwd ?? process.cwd(), "rev-parse", "--show-toplevel"], {
-    encoding: "utf8",
-  }).trim()
+  return said(["git", "-C", cwd ?? process.cwd(), "rev-parse", "--show-toplevel"]).trim()
 }
 
 export function fetchOrigin(repoRoot: string): undefined {
-  execFileSync("git", ["-C", repoRoot, "fetch", "origin"], { encoding: "utf8" })
+  said(["git", "-C", repoRoot, "fetch", "origin"])
   return undefined
 }
 
 export function resolveRef(repoRoot: string, ref: string): string {
-  return execFileSync("git", ["-C", repoRoot, "rev-parse", ref], {
-    encoding: "utf8",
-  }).trim()
+  return said(["git", "-C", repoRoot, "rev-parse", ref]).trim()
 }
 
 export function countCommitsBetween(repoRoot: string, fromSha: string, toRef: string): number {
@@ -57,11 +50,7 @@ export function countCommitsBetween(repoRoot: string, fromSha: string, toRef: st
     return 0
   }
   try {
-    const out = execFileSync(
-      "git",
-      ["-C", repoRoot, "rev-list", "--count", `${fromSha}..${toRef}`],
-      { encoding: "utf8" }
-    ).trim()
+    const out = said(["git", "-C", repoRoot, "rev-list", "--count", `${fromSha}..${toRef}`]).trim()
     const count = Number.parseInt(out, 10)
     return Number.isNaN(count) ? 0 : count
   } catch {
