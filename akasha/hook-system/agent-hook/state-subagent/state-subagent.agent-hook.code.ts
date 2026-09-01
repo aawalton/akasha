@@ -1,6 +1,6 @@
 import { seatIn } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
-import { puttingUp, seatNamedIn, takingDown } from "@akasha/seat-system/subagent-standing"
+import { puttingUp, seatNamedIn, takingDown } from "@akasha/seat-system/subagent-presence"
 import { ASIDE, payloadIn, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "state-subagent"

@@ -6,7 +6,7 @@ import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
 import { listedAbove } from "@akasha/pages-system/page-type-descent"
-import { slugOf } from "@akasha/seat-system/subagent-standing"
+import { slugOf } from "@akasha/seat-system/subagent-presence"
 
 const READ_CALL = "akasha read --file-path"
 
