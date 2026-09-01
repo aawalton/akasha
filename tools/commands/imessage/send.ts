@@ -6,7 +6,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { imessageContactsDb, imessageHost, imessageRemote, imessageSendScript, imessageSsh } from "../../lib/imessage-code.ts"
-import { type SendAttachment } from "@alanwalton/imessage/imessage/send"
+import { type SendAttachment } from "@akasha/imessage/send"
 
 const MAX_ATTACHMENT_BYTES = 10 * 1024 * 1024
 

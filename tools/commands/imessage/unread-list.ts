@@ -4,7 +4,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { imessageChatDb, imessageContactsDb, imessageRemote } from "../../lib/imessage-code.ts"
-import { type ImessageMessage } from "@alanwalton/imessage/lib/chat-db"
+import { type ImessageMessage } from "@akasha/imessage/chat-db"
 import {
   formatLocalMinute,
   messageLabel,

@@ -1,6 +1,6 @@
 import type { ImessageContactsDb } from "./imessage-code.ts"
-import type { ImessageMessage } from "@alanwalton/imessage/lib/chat-db"
-import type { Contact } from "@alanwalton/imessage/lib/contacts-db"
+import type { ImessageMessage } from "@akasha/imessage/chat-db"
+import type { Contact } from "@akasha/imessage/contacts-db"
 
 export type NameFor = (id: string) => string | null
 
