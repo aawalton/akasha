@@ -8,7 +8,6 @@ export const amyJennyUnreviewedWidget = {
   personaSlug: "amy",
   parentSlug: "akasha-migration",
   intents: [
-    { statement: "A running site states the commit it was built from." },
     { statement: "No file imports `@shared/pages-query`." },
     {
       statement: "Every folder a package reaches is a package.",
