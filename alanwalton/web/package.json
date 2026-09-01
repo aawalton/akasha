@@ -50,7 +50,7 @@
     "@shared/pages-ui": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/status-bar-access": "workspace:*",
-    "@shared/supabase-auth": "workspace:*",
+    "@akasha/supabase-auth": "workspace:*",
     "@shared/supabase-rr": "workspace:*",
     "@shared/supabase-server": "workspace:*",
     "@shared/utils-narrow": "workspace:*",

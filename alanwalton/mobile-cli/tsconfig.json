@@ -15,9 +15,6 @@
       "path": "../../shared/errors-core"
     },
     {
-      "path": "../../shared/supabase-auth"
-    },
-    {
       "path": "../../shared/utils-narrow"
     }
   ],

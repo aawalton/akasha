@@ -1,5 +1,5 @@
 import { OperationalError } from "@shared/errors-core/exit"
-import { assertCredentialPathAllowed } from "@shared/supabase-auth/protected-user"
+import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
 import { z } from "zod"
 
 export const SUPABASE_STORAGE_KEY = "sb-supabase-auth-token"

@@ -68,9 +68,6 @@
       "path": "../../shared/status-bar-access"
     },
     {
-      "path": "../../shared/supabase-auth"
-    },
-    {
       "path": "../../shared/supabase-database"
     },
     {

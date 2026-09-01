@@ -1,4 +1,4 @@
-import { USER_ID } from "@shared/supabase-auth/user-id"
+import { USER_ID } from "@akasha/supabase-auth/user-id"
 import type { ApnsPayload, ApnsSender } from "./apns.ts"
 import { countOpenQuestions, type Notification, newestNotificationAt, readNotificationsAfter } from "./feed.ts"
 import {

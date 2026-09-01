@@ -16,9 +16,6 @@
       "path": "./shared/notifications"
     },
     {
-      "path": "./shared/supabase-auth"
-    },
-    {
       "path": "./shared/supabase-client"
     },
     {

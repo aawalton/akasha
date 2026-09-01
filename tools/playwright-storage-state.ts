@@ -6,11 +6,8 @@ export const tool = {
 import { chmodSync, mkdirSync } from "node:fs"
 import { dirname } from "node:path"
 import { buildBrowserLaunchEnv } from "@akasha/browser-launch-env"
-import {
-  assertCredentialPathAllowed,
-  isInvalidCredentialsError,
-  signInWithPassword,
-} from "@shared/supabase-auth"
+import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
+import { isInvalidCredentialsError, signInWithPassword } from "@akasha/supabase-auth/auth"
 import { createClient } from "@shared/supabase-client/client"
 import { chromium } from "playwright-core"
 import { DEFAULT_THROWAWAY_EMAIL, ensureThrowawayUser } from "./lib/browser-test-ensure-user.ts"

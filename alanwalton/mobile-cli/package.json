@@ -4,7 +4,7 @@
   "dependencies": {
     "@akasha/code-system": "workspace:*",
     "@shared/errors-core": "workspace:*",
-    "@shared/supabase-auth": "workspace:*",
+    "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",

@@ -1,5 +1,5 @@
-import { getClaimsUser } from "../../supabase-auth/src/auth"
-import { type SupabaseUser } from "../../supabase-auth/src/types"
+import { getClaimsUser } from "@akasha/supabase-auth/auth"
+import { type SupabaseUser } from "@akasha/supabase-auth/supabase-user"
 import { createRequestMemo } from "./request-memo"
 import { createServerClient, type SupabaseServerClient } from "./server"
 

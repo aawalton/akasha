@@ -1,4 +1,4 @@
-import type { SupabaseUser } from "../../supabase-auth/src/types"
+import type { SupabaseUser } from "@akasha/supabase-auth/supabase-user"
 import { getRequestServerClient, resolveRequestSession } from "./request-session-cache"
 import type { SupabaseServerClient } from "./server"
 

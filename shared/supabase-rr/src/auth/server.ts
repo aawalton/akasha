@@ -1,5 +1,5 @@
-import { getUserFromToken as baseGetUserFromToken } from "../../../supabase-auth/src/auth"
-import { type SupabaseUser } from "../../../supabase-auth/src/types"
+import { getUserFromToken as baseGetUserFromToken } from "@akasha/supabase-auth/auth"
+import { type SupabaseUser } from "@akasha/supabase-auth/supabase-user"
 import type { Database } from "@akasha/supabase-database"
 import { createClient } from "@supabase/supabase-js"
 import { z } from "zod"

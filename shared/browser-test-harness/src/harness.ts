@@ -1,4 +1,4 @@
-import { assertCredentialPathAllowed } from "@shared/supabase-auth/protected-user"
+import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 import { type ConsoleCapture, createConsoleCapture } from "./console-capture"
 import type { BrowserTestEnv, RealUserOptInEnv } from "./env"

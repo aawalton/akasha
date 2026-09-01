@@ -1,5 +1,5 @@
-import { signInWithPassword as baseSignInWithPassword, signOut as baseSignOut, signUpWithPassword as baseSignUpWithPassword } from "../../../supabase-auth/src/auth"
-import { type AuthResult } from "../../../supabase-auth/src/types"
+import { signInWithPassword as baseSignInWithPassword, signOut as baseSignOut, signUpWithPassword as baseSignUpWithPassword } from "@akasha/supabase-auth/auth"
+import { type AuthResult } from "@akasha/supabase-auth/supabase-user"
 import { getBrowserClient } from "../browser"
 
 export function signInWithPassword(email: string, password: string): Promise<AuthResult> {

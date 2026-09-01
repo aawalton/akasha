@@ -1,4 +1,4 @@
-import { USER_ID } from "../../supabase-auth/src/user-id"
+import { USER_ID } from "@akasha/supabase-auth/user-id"
 
 export interface PushApp {
   readonly bundleId: string

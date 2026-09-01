@@ -21,7 +21,7 @@
   "dependencies": {
     "@akasha/pages-url": "workspace:*",
     "@akasha/supabase-database": "workspace:*",
-    "@shared/supabase-auth": "workspace:*",
+    "@akasha/supabase-auth": "workspace:*",
     "@supabase/ssr": "^0.10.2",
     "@supabase/supabase-js": "^2.104.0",
     "cookie": "^1.0.2",

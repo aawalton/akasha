@@ -1,5 +1,5 @@
 import { randomBytes } from "node:crypto"
-import { assertCredentialPathAllowed } from "@shared/supabase-auth/protected-user"
+import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
 import { createServiceRoleClient } from "@shared/supabase-server/service-role"
 
 export const DEFAULT_THROWAWAY_EMAIL = "browser-test@throwaway.alanwalton.com"

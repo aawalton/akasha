@@ -111,14 +111,6 @@
         "**/*.ts"
       ]
     },
-    "shared/supabase-auth": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "shared/supabase-client": {
       "entry": [],
       "project": [
