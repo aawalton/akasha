@@ -96,5 +96,13 @@ export const seatSystem = {
       invariantKind: "constraint",
       statement: "A seat outlives the editor showing it and the agent sitting in it.",
     },
+    {
+      invariantKind: "gap",
+      statement: "Nothing outside akasha says what a seat is.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A seat at work keeps working while its page moves.",
+    },
   ],
 } as const satisfies WorkspacePackage
