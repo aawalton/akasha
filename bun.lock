@@ -110,16 +110,6 @@
         "playwright-core": "1.61.1",
       },
     },
-    "akasha/calendar-google": {
-      "name": "@akasha/calendar-google",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/google-oauth": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@googleapis/calendar": "^15.0.0",
-        "zod": "^4.3.6",
-      },
-    },
     "akasha/checks-system": {
       "name": "@akasha/checks-system",
       "dependencies": {
@@ -322,27 +312,6 @@
     "akasha/domain-system/plain-language": {
       "name": "@akasha/plain-language",
     },
-    "akasha/drive-google": {
-      "name": "@akasha/drive-google",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/google-oauth": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@googleapis/drive": "^20.2.0",
-        "zod": "^4.3.6",
-      },
-    },
-    "akasha/email-google": {
-      "name": "@akasha/email-google",
-      "dependencies": {
-        "@akasha/email-inbound": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/google-oauth": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@googleapis/gmail": "^17.0.0",
-        "zod": "^4.3.6",
-      },
-    },
     "akasha/email-inbound": {
       "name": "@akasha/email-inbound",
     },
@@ -376,7 +345,38 @@
     "akasha/git": {
       "name": "@akasha/git",
     },
-    "akasha/google-oauth": {
+    "akasha/google/calendar": {
+      "name": "@akasha/calendar-google",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/google-oauth": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "@googleapis/calendar": "^15.0.0",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/google/drive": {
+      "name": "@akasha/drive-google",
+      "dependencies": {
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/google-oauth": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "@googleapis/drive": "^20.2.0",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/google/email": {
+      "name": "@akasha/email-google",
+      "dependencies": {
+        "@akasha/email-inbound": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/google-oauth": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "@googleapis/gmail": "^17.0.0",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/google/oauth": {
       "name": "@akasha/google-oauth",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
@@ -3694,7 +3694,7 @@
 
     "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:akasha/browser/test-harness"],
 
-    "@akasha/calendar-google": ["@akasha/calendar-google@workspace:akasha/calendar-google"],
+    "@akasha/calendar-google": ["@akasha/calendar-google@workspace:akasha/google/calendar"],
 
     "@akasha/checkout-version": ["@akasha/checkout-version@workspace:akasha/version/checkout"],
 
@@ -3728,9 +3728,9 @@
 
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
 
-    "@akasha/drive-google": ["@akasha/drive-google@workspace:akasha/drive-google"],
+    "@akasha/drive-google": ["@akasha/drive-google@workspace:akasha/google/drive"],
 
-    "@akasha/email-google": ["@akasha/email-google@workspace:akasha/email-google"],
+    "@akasha/email-google": ["@akasha/email-google@workspace:akasha/google/email"],
 
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
 
@@ -3746,7 +3746,7 @@
 
     "@akasha/git": ["@akasha/git@workspace:akasha/git"],
 
-    "@akasha/google-oauth": ["@akasha/google-oauth@workspace:akasha/google-oauth"],
+    "@akasha/google-oauth": ["@akasha/google-oauth@workspace:akasha/google/oauth"],
 
     "@akasha/graph-system": ["@akasha/graph-system@workspace:akasha/graph-system"],
 
