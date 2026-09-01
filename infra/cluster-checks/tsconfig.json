@@ -15,28 +15,13 @@
       "path": "../../shared/design-tokens"
     },
     {
-      "path": "../../shared/design/tokens"
-    },
-    {
-      "path": "../../shared/graph/core"
-    },
-    {
-      "path": "../../shared/graph/producers"
-    },
-    {
       "path": "../../shared/utils-narrow"
-    },
-    {
-      "path": "../../shared/worker-runtime"
     },
     {
       "path": "../../temper/shared-build-deploy-addons-resolve"
     },
     {
       "path": "../../temper/shared-foundation-misc-eso-paths"
-    },
-    {
-      "path": "../ci/pipeline-core"
     },
     {
       "path": "../k8s"
@@ -46,9 +31,6 @@
     },
     {
       "path": "../scripts"
-    },
-    {
-      "path": "../workflow-dsl"
     }
   ],
   "include": [
