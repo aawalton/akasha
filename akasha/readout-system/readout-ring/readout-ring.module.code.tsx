@@ -1,3 +1,4 @@
+import "../readout-look/readout-look.stylesheet.styles.css"
 import type { ReactElement } from "react"
 import type { ReadoutScale } from "../readout-scale/readout-scale.page-type.ts"
 
