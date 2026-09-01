@@ -1,4 +1,4 @@
-import { stageOf } from "@akasha/code-system/shape-standing"
+import { stageOf } from "@akasha/code-system/shape-progress"
 import type { Property } from "../../page/property/property.ts"
 import type { Held } from "./page-file-values.ts"
 import type { Reached } from "./page-reach.ts"
