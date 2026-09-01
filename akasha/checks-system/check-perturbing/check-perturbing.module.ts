@@ -52,6 +52,15 @@ export const checkPerturbing = {
       statement: "One scenario carries a manifest together with a body the package it names holds.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "One scenario carries a body a manifest names together with a test in another package reaching it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which test reaches a body across a package edge is read from the index.",
+    },
+    {
       invariantKind: "absence",
       statement: "No scenario here is judged.",
     },
