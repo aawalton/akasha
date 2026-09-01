@@ -95,6 +95,24 @@
     },
     {
       "path": "./shared/object-store"
+    },
+    {
+      "path": "./alanwalton/web"
+    },
+    {
+      "path": "./alanwalton/atlas-web"
+    },
+    {
+      "path": "./temper/web"
+    },
+    {
+      "path": "./smilingjenny/web"
+    },
+    {
+      "path": "./archive-of-worlds/web"
+    },
+    {
+      "path": "./audhdalan/web"
     }
   ],
   "files": []
