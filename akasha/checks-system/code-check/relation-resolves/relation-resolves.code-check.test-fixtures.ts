@@ -75,7 +75,7 @@ export function stating(
   return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${read}${stated} }\n`
 }
 
-export function standing(
+export function filing(
   root: string,
   path: string,
   id: string,
@@ -108,7 +108,7 @@ const PAGE_DECLARES =
 
 export function rooted(carrying: boolean = true): string {
   const root = scratch.rootFor("akasha-relation-resolves-")
-  standing(
+  filing(
     root,
     "akasha/t/page.page-type.ts",
     PAGE_ID,
@@ -123,7 +123,7 @@ export function rooted(carrying: boolean = true): string {
     const id = `01a04d99-71ca-7e06-9000-00000000000${count}`
     const said = extendsSlug === null ? "null" : `"${extendsSlug}"`
     const dies = mortal ? ", mortal: true" : ""
-    standing(
+    filing(
       root,
       path,
       id,
@@ -135,7 +135,7 @@ export function rooted(carrying: boolean = true): string {
   for (const [slug, shape] of Object.entries(SCHEMA)) {
     schemaFiled(root, String(shape.pageTypeSlug), slug, [{ ...shape, slug, propertySlug: slug }])
   }
-  standing(
+  filing(
     root,
     M,
     M_ID,
@@ -143,7 +143,7 @@ export function rooted(carrying: boolean = true): string {
     "marks",
     stating(M_ID, "marks", "record-property", ', properties: [{ pagePropertySlug: "domain-slug" }]')
   )
-  if (carrying) standing(root, D, D_ID, "domain", "d")
+  if (carrying) filing(root, D, D_ID, "domain", "d")
   return root
 }
 

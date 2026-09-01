@@ -19,6 +19,7 @@ import {
   D_ID,
   E,
   E_ID,
+  filing,
   NOWHERE_ID,
   naming,
   note,
@@ -30,7 +31,6 @@ import {
   S_ID,
   scratch,
   spark,
-  standing,
   stating,
   T,
   T_ID,
@@ -128,7 +128,7 @@ test("a page and the page it names land together when the change carries both", 
 test("a change taking away a page refuses the page still naming it, though the change never names it", () => {
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
-  standing(root, A, A_ID, "note", "a")
+  filing(root, A, A_ID, "note", "a")
   const bodies = { ...note(', domainSlug: "domain/d"'), [D]: null }
   expect(judged(over(root, [D], bodies))).toEqual([
     { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `d`" },
@@ -138,19 +138,19 @@ test("a change taking away a page refuses the page still naming it, though the c
 test("a change taking away the page and the page naming it together is silent", () => {
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
-  standing(root, A, A_ID, "note", "a")
+  filing(root, A, A_ID, "note", "a")
   expect(judged(over(root, [D, A], { [A]: null, [D]: null }))).toEqual([])
 })
 
 test("a change taking away a page nothing names is silent", () => {
   const root = rooted()
-  standing(root, OTHER, OTHER_ID, "domain", "other")
+  filing(root, OTHER, OTHER_ID, "domain", "other")
   expect(judged(over(root, [OTHER], { [OTHER]: null }))).toEqual([])
 })
 
 test("a name narrowing to more than one page is refused, not taken as reached", () => {
   const root = rooted()
-  standing(root, OTHER, OTHER_ID, "domain", "d")
+  filing(root, OTHER, OTHER_ID, "domain", "d")
   expect(judged(over(root, [A], note(', domainSlug: "domain/d"')))).toEqual([
     {
       path: A,
@@ -189,7 +189,7 @@ test("which properties are relations is read from the schema in the index", () =
 test("the pages to judge for a page taken away are the ones the reverse edges name", () => {
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
-  standing(root, A, A_ID, "note", "a")
+  filing(root, A, A_ID, "note", "a")
   const change = over(root, [D], { [D]: null })
   expect(namersOf(change, ["domain-slug", "part-slugs"])).toEqual([A])
   expect(namersOf(over(root, [D], { [D]: "held" }), ["domain-slug"])).toEqual([])
@@ -247,7 +247,7 @@ const REACHED_MORTAL =
 
 test("a page that is not mortal naming a mortal page type is refused, reached or not", () => {
   const root = rooted()
-  standing(root, S, S_ID, "spark", "s")
+  filing(root, S, S_ID, "spark", "s")
   expect(judged(over(root, [A], note(', sparkSlug: "spark/s"')))).toEqual([
     { path: A, reason: NOT_MORTAL },
   ])
@@ -268,9 +268,9 @@ test("a mortal page naming a mortal page that reaches nothing is silent", () => 
 
 test("a change taking a mortal page away is silent though a page still names it", () => {
   const root = rooted()
-  standing(root, S, S_ID, "spark", "s")
+  filing(root, S, S_ID, "spark", "s")
   naming(root, S_ID, "spark-slug", T_ID, T)
-  standing(root, T, T_ID, "spark", "t")
+  filing(root, T, T_ID, "spark", "t")
   const bodies = { [T]: stating(T_ID, "t", "spark", ', sparkSlug: "spark/s"'), [S]: null }
   expect(judged(over(root, [S], bodies))).toEqual([])
 })
@@ -283,7 +283,7 @@ const REFUSING = [{ path: A, reason: REACHED_MORTAL }]
 
 test("a target that is not mortal is refused for the mortal page the name reaches", () => {
   const root = rooted()
-  standing(root, S, S_ID, "spark", "s")
+  filing(root, S, S_ID, "spark", "s")
   expect(reaching(root, ', domainSlug: "spark/s"')).toEqual(REFUSING)
   expect(reaching(root, ', domainSlug: "s"')).toEqual(REFUSING)
   expect(reaching(root, `, domainSlug: "${S_ID}"`)).toEqual(REFUSING)
@@ -298,8 +298,8 @@ test("a mortal page the change itself carries is read for its page type too", ()
 
 test("every name a property carries many of reaching a mortal page is refused, one refusal each", () => {
   const root = rooted()
-  standing(root, S, S_ID, "spark", "s")
-  standing(root, T, T_ID, "spark", "t")
+  filing(root, S, S_ID, "spark", "s")
+  filing(root, T, T_ID, "spark", "t")
   const said = reaching(root, ', partSlugs: ["spark/s", "spark/t"]')
   const one = "states `part-slugs`, and a page that is not mortal cannot name a mortal `spark`"
   expect(said).toEqual([
@@ -310,7 +310,7 @@ test("every name a property carries many of reaching a mortal page is refused, o
 
 test("a mortal page reaching a mortal page through a target that is not is silent", () => {
   const root = rooted()
-  standing(root, S, S_ID, "spark", "s")
+  filing(root, S, S_ID, "spark", "s")
   const bodies = { [T]: stating(T_ID, "t", "spark", ', domainSlug: "spark/s"') }
   expect(judged(over(root, [T], bodies))).toEqual([])
 })
@@ -375,7 +375,7 @@ const D_CODE = "akasha/t/d.domain.code.ts"
 test("a file the index files against a page is no page taken away, and nothing it names is judged", () => {
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
-  standing(root, A, A_ID, "note", "a")
+  filing(root, A, A_ID, "note", "a")
   pathFiled(root, D_CODE, [{ path: D, id: D_ID }])
   const bodies = { ...note(', domainSlug: "domain/d"'), [D_CODE]: null }
   const change = over(root, [D_CODE], bodies)
