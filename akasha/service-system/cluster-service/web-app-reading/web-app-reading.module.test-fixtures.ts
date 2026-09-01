@@ -10,7 +10,7 @@ const CLUSTER_SERVICES_AT = "akasha/service-system/cluster-service/cluster-servi
 
 export const SYNTH_AT = "one/web/one-web.cluster-service.code.attachment.ts"
 
-export type Standing = {
+export type World = {
   readonly root: string
   readonly sweep: () => undefined
 }
@@ -84,7 +84,7 @@ function clusterService(slug: string, at: number, name: string, code: string): s
   })
 }
 
-export function standingWorld(): Standing {
+export function standingWorld(): World {
   const root = mkdtempSync(join(HOLD, PREFIX))
   const stand = (path: string, body: string): undefined => {
     const at = join(root, path)
