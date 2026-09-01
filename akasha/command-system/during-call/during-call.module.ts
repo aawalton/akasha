@@ -19,5 +19,17 @@ export const duringCall = {
       invariantKind: "absence",
       statement: "Nothing here says what is worth holding.",
     },
+    {
+      invariantKind: "absence",
+      statement: "Loading this reaches nothing of node and makes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What keeps runs apart is reached at the first ask and kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where node is absent nothing is held and every value is made afresh.",
+    },
   ],
 } as const satisfies Module
