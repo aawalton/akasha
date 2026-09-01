@@ -22,7 +22,19 @@ export const noCodeComments = {
     },
     {
       invariantKind: "departure",
-      statement: "A comment is read from the token stream rather than from the text.",
+      statement: "A comment in code is read from the token stream rather than from the text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stylesheet carries a comment in exactly one form.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A comment in a stylesheet is found by scanning past the strings it holds.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A stylesheet is read by a parser rather than by a scan.",
     },
     {
       invariantKind: "departure",

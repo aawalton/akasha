@@ -18,7 +18,15 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A body read as text is named `.ts` or `.tsx`.",
+      statement: "A body read as code is named `.ts` or `.tsx`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body read as a stylesheet is named `.css`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check judging both reaches them through one selector.",
     },
     {
       invariantKind: "departure",

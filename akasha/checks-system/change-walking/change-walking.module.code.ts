@@ -57,6 +57,10 @@ const TS_ENDING = `.${TS}`
 
 const TSX_ENDING = `.${TSX}`
 
+const CSS = "css"
+
+const CSS_ENDING = `.${CSS}`
+
 const PAGE_TYPES = new WeakMap<Shadow, ReadonlySet<string>>()
 
 function standingIn(change: Change): readonly Body[] {
@@ -87,18 +91,32 @@ export function textNamed(path: string): boolean {
   return path.endsWith(TS_ENDING) || path.endsWith(TSX_ENDING)
 }
 
-export const TEXTS: Selector<Text> = {
-  named: "texts",
-  isInput: (path) => textNamed(path),
-  from: (change) => {
-    const found: Text[] = []
-    for (const given of standingIn(change)) {
-      if (!textNamed(given.path)) continue
-      found.push({ root: given.root, path: given.path, text: bodyOf(given) })
-    }
-    return found
-  },
+export function styleNamed(path: string): boolean {
+  return path.endsWith(CSS_ENDING)
 }
+
+export function bodyNamed(path: string): boolean {
+  return textNamed(path) || styleNamed(path)
+}
+
+function textsBy(named: string, taken: (path: string) => boolean): Selector<Text> {
+  return {
+    named,
+    isInput: (path) => taken(path),
+    from: (change) => {
+      const found: Text[] = []
+      for (const given of standingIn(change)) {
+        if (!taken(given.path)) continue
+        found.push({ root: given.root, path: given.path, text: bodyOf(given) })
+      }
+      return found
+    },
+  }
+}
+
+export const TEXTS: Selector<Text> = textsBy("texts", textNamed)
+
+export const BODIES: Selector<Text> = textsBy("bodies read as text", bodyNamed)
 
 function pagedInside(path: string, shadow: Shadow): boolean {
   return path.startsWith(INSIDE) && pageNamed(path, pageTypesFor(shadow))
@@ -147,13 +165,26 @@ export function input<T>(selector: Selector<T>, run: Running): Bounded {
   return Object.assign(bound, stated)
 }
 
-export function overEachText(
+function overEach(
+  taken: (path: string) => boolean,
   found: (path: string, text: string) => readonly string[]
 ): (given: Body) => readonly string[] {
   return (given) => {
-    if (!textNamed(given.path)) return []
+    if (!taken(given.path)) return []
     return found(given.path, bodyOf(given))
   }
+}
+
+export function overEachText(
+  found: (path: string, text: string) => readonly string[]
+): (given: Body) => readonly string[] {
+  return overEach(textNamed, found)
+}
+
+export function overEachBody(
+  found: (path: string, text: string) => readonly string[]
+): (given: Body) => readonly string[] {
+  return overEach(bodyNamed, found)
 }
 
 export function judgingEachFile(judge: (given: Body) => readonly string[]): Running {

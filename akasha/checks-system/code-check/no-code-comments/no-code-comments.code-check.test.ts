@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { bodiesAt } from "../../../testing-system/bodying/bodying.module.code.ts"
-import { commentsIn, reasonsIn } from "./no-code-comments.code-check.code.ts"
+import { commentsIn, reasonsIn, styleCommentsIn } from "./no-code-comments.code-check.code.ts"
 
 const ROOT = "/repo"
 
@@ -113,4 +113,56 @@ test("a body that is not text refuses rather than being passed over", () => {
   const held = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
   expect(() => reasonsIn(held)).toThrow("akasha/raw.ts")
   expect(() => reasonsIn(held)).toThrow("not valid UTF-8")
+})
+
+const dressed = bodiesAt(ROOT, "akasha/held.stylesheet.styles.css")
+
+test("a stylesheet carrying no comment is let through", () => {
+  expect(reasonsIn(dressed(".held {\n  color: red;\n}\n"))).toEqual([])
+})
+
+test("prose in a stylesheet is refused, and names the line it stands on", () => {
+  const body = [".held {", "  /* this holds the color */", "  color: red;", "}"].join("\n")
+  const said = reasonsIn(dressed(`${body}\n`))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 2")
+  expect(said[0]).toContain("prose")
+})
+
+test("a block of prose in a stylesheet is refused once rather than once a line", () => {
+  const said = reasonsIn(dressed("/*\n one\n two\n*/\n.held {\n  color: red;\n}\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 1")
+})
+
+test("a comment standing after a stylesheet rule names the line it stands on", () => {
+  const said = reasonsIn(dressed(".held {\n  color: red;\n}\n/* nothing follows */\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 4")
+})
+
+test("text shaped like a comment inside a stylesheet string is not a comment", () => {
+  const body = [".held::after {", '  content: "/* not a comment */";', "}"].join("\n")
+  expect(reasonsIn(dressed(`${body}\n`))).toEqual([])
+})
+
+test("a quote escaped inside a stylesheet string leaves the string open", () => {
+  const body = [".held::after {", '  content: "a \\" /* not a comment */ b";', "}"].join("\n")
+  expect(styleCommentsIn(`${body}\n`)).toEqual([])
+})
+
+test("a stylesheet comment never closed is read to the end of the body", () => {
+  const said = styleCommentsIn(".held {\n  color: red;\n}\n/* opened and left open\n")
+  expect(said).toHaveLength(1)
+  expect(said[0]?.line).toBe(4)
+})
+
+test("a suppression a stylesheet linter parses is let through", () => {
+  const body = ["/* biome-ignore lint/suspicious/noEmptyBlock: held */", ".held {", "}"].join("\n")
+  expect(reasonsIn(dressed(`${body}\n`))).toEqual([])
+})
+
+test("every comment a stylesheet carries is reported, one reason each", () => {
+  const body = ["/* one */", ".held {", "  color: red;", "}", "/* two */"].join("\n")
+  expect(reasonsIn(dressed(`${body}\n`))).toHaveLength(2)
 })

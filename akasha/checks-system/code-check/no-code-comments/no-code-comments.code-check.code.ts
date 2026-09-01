@@ -1,12 +1,13 @@
 import ts from "typescript"
 import { lineAt, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import {
+  BODIES,
   judgingEach,
-  overEachText,
-  TEXTS,
+  overEachBody,
+  styleNamed,
 } from "../../change-walking/change-walking.module.code.ts"
 
-type Found = {
+export type Found = {
   readonly line: number
   readonly raw: string
 }
@@ -37,6 +38,16 @@ const PARSED: readonly string[] = [
   "<reference",
   "sourceMappingURL",
 ]
+
+const OPENED = "/*"
+
+const CLOSED = "*/"
+
+const ESCAPE = "\\"
+
+const BREAK = "\n"
+
+const QUOTED = new Set(['"', "'"])
 
 export function commentsIn(path: string, text: string): readonly Found[] {
   const source = parsedAs(path, text)
@@ -92,9 +103,39 @@ function looksParsed(one: Found): boolean {
   return PARSED.some((marker) => said.startsWith(marker) || bare.startsWith(marker))
 }
 
-function found(path: string, text: string): readonly string[] {
+export function styleCommentsIn(text: string): readonly Found[] {
+  const found: Found[] = []
+  const breaksIn = (raw: string): number => raw.split(BREAK).length - 1
+  let line = 1
+  let at = 0
+  let quoted: string | null = null
+  while (at < text.length) {
+    const one = text[at]
+    if (one === undefined) break
+    if (quoted === null && text.startsWith(OPENED, at)) {
+      const closed = text.indexOf(CLOSED, at + OPENED.length)
+      const stop = closed === -1 ? text.length : closed + CLOSED.length
+      const raw = text.slice(at, stop)
+      found.push({ line, raw })
+      line += breaksIn(raw)
+      at = stop
+      continue
+    }
+    if (quoted !== null && one === ESCAPE) {
+      at += 2
+      continue
+    }
+    if (quoted === null && QUOTED.has(one)) quoted = one
+    else if (quoted === one) quoted = null
+    if (one === BREAK) line += 1
+    at += 1
+  }
+  return found
+}
+
+function refusalsFor(every: readonly Found[]): readonly string[] {
   const said: string[] = []
-  for (const one of commentsIn(path, text)) {
+  for (const one of every) {
     if (isForm(one)) continue
     const what = looksParsed(one) ? "a directive nothing declares" : "prose"
     said.push(`line ${one.line} carries ${what}, which is none of the code comment forms`)
@@ -102,6 +143,11 @@ function found(path: string, text: string): readonly string[] {
   return said
 }
 
-export const reasonsIn = overEachText(found)
+export function found(path: string, text: string): readonly string[] {
+  if (styleNamed(path)) return refusalsFor(styleCommentsIn(text))
+  return refusalsFor(commentsIn(path, text))
+}
 
-export const noCodeComments = judgingEach(TEXTS, (given) => found(given.path, given.text))
+export const reasonsIn = overEachBody(found)
+
+export const noCodeComments = judgingEach(BODIES, (given) => found(given.path, given.text))
