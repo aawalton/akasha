@@ -1,7 +1,7 @@
 import type { Subagent } from "../subagent.page-type.ts"
 
 export const athenaAd5579810b2e9ae6d = {
-  id: "01a05d80-c745-73c0-8dc1-ae93ca81b3cc",
+  id: "01a05d7f-d1f7-7301-8a92-d2d230c0d662",
   pageTypeSlug: "subagent",
   slug: "athena-ad5579810b2e9ae6d",
   principalSeatName: "athena",
