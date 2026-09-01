@@ -1,7 +1,5 @@
-import { readFileSync } from "node:fs"
-import { join } from "node:path"
-import { everyOfType } from "../../indexes/index-reading/index-reading.module.code.ts"
-import { loadedFrom, type Value } from "../../page/page-value/page-value.module.code.ts"
+import { valuesOfType } from "../../indexes/index-reading/index-reading.module.code.ts"
+import type { Value } from "../../page/page-value/page-value.module.code.ts"
 
 export type Test = {
   readonly is?: string
@@ -66,28 +64,16 @@ export function asking(root: string, query: Query): Asked {
       refused: `an offset is a whole number that is not below nothing, and ${offset} is not`,
     }
   }
-  const standing = [...everyOfType(root, query.pageTypeSlug)].sort((one, two) =>
-    one.path.localeCompare(two.path)
+  const held = valuesOfType(root, query.pageTypeSlug).filter((one) =>
+    passes(one.value, query.where)
   )
-  const held: { value: Value; path: string }[] = []
-  for (const one of standing) {
-    let body = ""
-    try {
-      body = readFileSync(join(root, one.path), "utf8")
-    } catch (why) {
-      return { refused: `${one.path} is named by the index and did not read: ${String(why)}` }
-    }
-    const loaded = loadedFrom(body)
-    if (loaded.failed !== null) return { refused: `${one.path} did not load: ${loaded.failed}` }
-    if (loaded.value === null) return { refused: `${one.path} declares no value` }
-    if (passes(loaded.value, query.where)) held.push({ value: loaded.value, path: one.path })
-  }
   const sortBy = query.sortBy
-  if (sortBy !== undefined) {
-    held.sort((one, two) => weigh(one.value[sortBy], two.value[sortBy]))
-  }
-  if (query.descending === true) held.reverse()
+  const sorted =
+    sortBy === undefined
+      ? [...held]
+      : [...held].sort((one, two) => weigh(one.value[sortBy], two.value[sortBy]))
+  if (query.descending === true) sorted.reverse()
   const from = offset ?? 0
-  const taken = limit === undefined ? held.slice(from) : held.slice(from, from + limit)
+  const taken = limit === undefined ? sorted.slice(from) : sorted.slice(from, from + limit)
   return { rows: taken.map((one) => rowOf(one.value, query.keys)) }
 }

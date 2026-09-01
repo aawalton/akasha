@@ -22,10 +22,6 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that will not load refuses the question.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A row holds the keys the question names.",
     },
     {
@@ -47,6 +43,10 @@ export const pageAsking = {
     {
       invariantKind: "departure",
       statement: "What is skipped is skipped before what is taken is taken.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page's file is opened.",
     },
     {
       invariantKind: "absence",
