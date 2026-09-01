@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/geo-io",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./coord": "./coord/coord.module.code.ts",
+    "./geoapify": "./geoapify/geoapify.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}
