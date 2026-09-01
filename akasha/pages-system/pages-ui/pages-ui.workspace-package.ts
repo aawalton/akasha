@@ -9,7 +9,13 @@ export const pagesUi = {
   partSlugs: [
     "module/app-version-check",
     "module/capability-hosts",
+    "module/is-webkit",
+    "module/media-renditions",
+    "module/media-src",
+    "module/media-token",
     "module/page-display-registry",
+    "module/resolve-active-sentence",
     "module/use-app-version-check",
+    "module/use-shell-media-src",
   ],
 } as const satisfies WorkspacePackage
