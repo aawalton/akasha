@@ -4,7 +4,7 @@ page-type-slug: readout-scale
 title: "Backlog count"
 slug: backlog-count
 domain-parent-slug: domain/readout-system
-yellow-at: 0
+yellow-at: 1
 orange-at: 11
 red-at: 21
 black-at: 31
