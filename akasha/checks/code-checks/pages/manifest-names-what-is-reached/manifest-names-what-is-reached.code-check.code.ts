@@ -1,12 +1,11 @@
 import { builtinModules } from "node:module"
 import { join } from "node:path"
 import { landingOf, specifiersIn } from "@akasha/code-system/code-specifier"
-import { filePropertiesAt } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
   bodyNamed,
-  everyFileIn,
+  everyFileOf,
   FILES,
   input,
   overEachFile,
@@ -270,7 +269,7 @@ export function unreachedIn(
 }
 
 function configNamed(shadow: Shadow): string | null {
-  return filePropertiesAt(shadow.reading).get(CAPACITOR_CONFIG) ?? null
+  return shadow.index.filePropertiesAt().get(CAPACITOR_CONFIG) ?? null
 }
 
 function thereIn(change: Change, folder: string): (named: string) => boolean {
@@ -312,7 +311,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const byFolder = new Map(packages.map((one) => [one.folder, one]))
   const carried = new Map(packages.map((one) => [one.at, one]))
   const config = configNamed(shadow)
-  const holding = holdingBy(folders, everyFileIn(change.root, shadow.reading))
+  const holding = holdingBy(folders, everyFileOf(shadow.index))
   const reaches = new Map<string, Reach>()
 
   const reachAt = (path: string): Reach => {
