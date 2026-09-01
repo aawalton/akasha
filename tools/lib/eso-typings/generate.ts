@@ -13,13 +13,14 @@ function returnType(
   returns: ReadonlyArray<{ name: string; type: string }>,
   hasVariableReturns: boolean
 ): string {
+  const last = returns[returns.length - 1]
   if (hasVariableReturns) {
-    if (returns.length === 0) return "LuaMultiReturn<unknown[]>"
-    const restType = returns[returns.length - 1].type
+    if (last === undefined) return "LuaMultiReturn<unknown[]>"
+    const restType = last.type
     const fixed = returns.map((r) => `${r.name}: ${r.type}`).join(", ")
     return `LuaMultiReturn<[${fixed}, ...rest: (${restType})[]]>`
   }
-  if (returns.length === 1) return returns[0].type
+  if (returns.length === 1 && last !== undefined) return last.type
   if (returns.length > 1) {
     const tuple = returns.map((r) => `${r.name}: ${r.type}`).join(", ")
     return `LuaMultiReturn<[${tuple}]>`

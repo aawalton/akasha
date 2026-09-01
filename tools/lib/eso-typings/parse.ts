@@ -40,6 +40,28 @@ function isMatch(input: string, re: RegExp): boolean {
   return RawMatchSchema.safeParse(raw).success
 }
 
+const CapturedOneSchema = z.tuple([z.string()])
+
+const CapturedPairSchema = z.tuple([z.string(), z.string()])
+
+function capturedOne(input: string, re: RegExp): readonly string[] {
+  const found: string[] = []
+  for (const raw of input.matchAll(re)) {
+    const said = CapturedOneSchema.safeParse(raw.slice(1))
+    if (said.success) found.push(said.data[0])
+  }
+  return found
+}
+
+function capturedPairs(input: string, re: RegExp): readonly (readonly [string, string])[] {
+  const found: (readonly [string, string])[] = []
+  for (const raw of input.matchAll(re)) {
+    const said = CapturedPairSchema.safeParse(raw.slice(1))
+    if (said.success) found.push(said.data)
+  }
+  return found
+}
+
 const TYPE_MAP: Record<string, string> = {
   string: "string",
   "string:nilable": "string | undefined",
@@ -126,9 +148,7 @@ export function parseEnums(content: string): ParsedEnum[] {
 
   let currentEnum: ParsedEnum | null = null
 
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i]
-
+  for (const line of lines) {
     const enumMatch = parseMatch1(line, /^h5\.\s+(\w+)/)
     if (enumMatch) {
       if (currentEnum && currentEnum.values.length > 0) {
@@ -178,9 +198,7 @@ export function parseFunctions(content: string): ParsedFunction[] {
   let currentFunc: ParsedFunction | null = null
   let hasVariableReturns = false
 
-  for (let i = 0; i < sectionLines.length; i++) {
-    const line = sectionLines[i]
-
+  for (const line of sectionLines) {
     const funcMatch = parseMatch2(line, /^\*\s+(\w+)\((.*)\)$/)
     if (funcMatch) {
       if (currentFunc) {
@@ -200,12 +218,10 @@ export function parseFunctions(content: string): ParsedFunction[] {
       hasVariableReturns = false
 
       if (paramsStr.trim() !== "") {
-        const paramRegex = /\*([^*]+)\*\s+_(\w+)_/g
-        const paramMatches = Array.from(paramsStr.matchAll(paramRegex))
-        for (const paramMatch of paramMatches) {
+        for (const [type, name] of capturedPairs(paramsStr, /\*([^*]+)\*\s+_(\w+)_/g)) {
           currentFunc.params.push({
-            name: paramMatch[2],
-            type: parseType(paramMatch[1]),
+            name,
+            type: parseType(type),
             isOptional: false,
           })
         }
@@ -222,12 +238,10 @@ export function parseFunctions(content: string): ParsedFunction[] {
     if (returnMatch && currentFunc) {
       const returnsStr = returnMatch[0]
 
-      const returnRegex = /\*([^*]+)\*\s+_(\w+)_/g
-      const retMatches = Array.from(returnsStr.matchAll(returnRegex))
-      for (const retMatch of retMatches) {
+      for (const [type, name] of capturedPairs(returnsStr, /\*([^*]+)\*\s+_(\w+)_/g)) {
         currentFunc.returns.push({
-          name: retMatch[2],
-          type: parseType(retMatch[1]),
+          name,
+          type: parseType(type),
         })
       }
     }
@@ -274,12 +288,10 @@ export function parseEvents(content: string): ParsedEvent[] {
       }
 
       if (eventMatch[1] != null) {
-        const paramRegex = /\*([^*]+)\*\s+_(\w+)_/g
-        const paramMatches = Array.from(eventMatch[1].matchAll(paramRegex))
-        for (const paramMatch of paramMatches) {
+        for (const [type, name] of capturedPairs(eventMatch[1], /\*([^*]+)\*\s+_(\w+)_/g)) {
           event.params.push({
-            name: paramMatch[2],
-            type: parseType(paramMatch[1]),
+            name,
+            type: parseType(type),
           })
         }
       }
@@ -311,9 +323,7 @@ export function parseObjects(content: string): ParsedObject[] {
   const childToParent = new Map<string, string>()
   let expectingChildList = false
 
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i]
-
+  for (const line of lines) {
     const objectMatch = parseMatch1(line, /^h3\.\s+(\w+)/)
     if (objectMatch) {
       if (currentObject) {
@@ -339,8 +349,8 @@ export function parseObjects(content: string): ParsedObject[] {
     }
 
     if (currentObject && expectingChildList && isMatch(line, /^\[[\w|#,\s[\]]+\]$/)) {
-      for (const match of line.matchAll(/\[(\w+)\|#\w+\]/g)) {
-        childToParent.set(match[1], currentObject.name)
+      for (const child of capturedOne(line, /\[(\w+)\|#\w+\]/g)) {
+        childToParent.set(child, currentObject.name)
       }
       expectingChildList = false
       continue
@@ -361,12 +371,10 @@ export function parseObjects(content: string): ParsedObject[] {
 
       const paramsStr = methodMatch[1]
       if (paramsStr.trim() !== "") {
-        const paramRegex = /\*([^*]+)\*\s+_(\w+)_/g
-        const paramMatches = Array.from(paramsStr.matchAll(paramRegex))
-        for (const paramMatch of paramMatches) {
+        for (const [type, name] of capturedPairs(paramsStr, /\*([^*]+)\*\s+_(\w+)_/g)) {
           currentMethod.params.push({
-            name: paramMatch[2],
-            type: parseType(paramMatch[1]),
+            name,
+            type: parseType(type),
             isOptional: false,
           })
         }
@@ -382,12 +390,10 @@ export function parseObjects(content: string): ParsedObject[] {
     const returnMatch = parseMatch1(line, /^\*\*\s+_Returns:_\s+(.+)$/)
     if (returnMatch && currentMethod) {
       const returnsStr = returnMatch[0]
-      const returnRegex = /\*([^*]+)\*\s+_(\w+)_/g
-      const retMatches = Array.from(returnsStr.matchAll(returnRegex))
-      for (const retMatch of retMatches) {
+      for (const [type, name] of capturedPairs(returnsStr, /\*([^*]+)\*\s+_(\w+)_/g)) {
         currentMethod.returns.push({
-          name: retMatch[2],
-          type: parseType(retMatch[1]),
+          name,
+          type: parseType(type),
         })
       }
     }

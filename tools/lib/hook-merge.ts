@@ -74,7 +74,7 @@ export function entriesOf(document: unknown): readonly HookEntry[] {
         found.push({
           event,
           matcher,
-          target: targetOf(fields.command),
+          target: targetOf(fields.command ?? ""),
           fields,
           key: ["", ...KEY_FIELDS.map((field) => fields[field])].join(NUL),
         })
@@ -117,13 +117,10 @@ export function agreement(authoritative: unknown, user: unknown): Agreement {
         shared += 1
         continue
       }
-      divergences.push({
-        event,
-        target,
-        times: keys.size,
-        left: mine.find((entry) => !yours.some((one) => one.key === entry.key)) ?? mine[0],
-        right: yours.find((entry) => !mine.some((one) => one.key === entry.key)) ?? yours[0],
-      })
+      const left = mine.find((entry) => !yours.some((one) => one.key === entry.key)) ?? mine[0]
+      const right = yours.find((entry) => !mine.some((one) => one.key === entry.key)) ?? yours[0]
+      if (left === undefined || right === undefined) continue
+      divergences.push({ event, target, times: keys.size, left, right })
     }
   }
   for (const [event, byTarget] of theirs) {
@@ -146,8 +143,8 @@ function byteOffset(text: string, at: number): number {
 
 function partsOn(divergence: Divergence, leftName: string, rightName: string): string {
   for (const field of KEY_FIELDS) {
-    const left = divergence.left.fields[field]
-    const right = divergence.right.fields[field]
+    const left = divergence.left.fields[field] ?? ""
+    const right = divergence.right.fields[field] ?? ""
     if (left === right) continue
     return (
       `\`${field}\` parts at byte ${byteOffset(left, firstDifference(left, right))} — ` +

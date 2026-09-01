@@ -165,7 +165,12 @@ function openLineStream(source: IngestSource): LineSource {
     if (!got.ok || got.body === null) {
       throw new Error(`${source.url} answered ${got.status} ${got.statusText}`)
     }
-    for await (const chunk of got.body) proc.stdin.write(chunk)
+    const reader = got.body.getReader()
+    for (;;) {
+      const said = await reader.read()
+      if (said.done) break
+      proc.stdin.write(said.value)
+    }
     await proc.stdin.end()
   })()
   pumped.catch(() => {})

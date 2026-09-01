@@ -1,10 +1,7 @@
 export { containerRuntime } from "./container-runtime.ts"
-export {
-  isBunNative,
-  LocalExecutor,
-  localCacheDir,
-  resetBuildkitPortForward,
-  resetRegistryPortForward,
-} from "./executor.ts"
+export { resetBuildkitPortForward, resetRegistryPortForward } from "./cluster-access.ts"
+export { isBunNative } from "./execute-step.ts"
+export { LocalExecutor } from "./executor.ts"
+export { localCacheDir } from "./local-cache.ts"
 export { loadPipelineSecrets } from "./secrets.ts"
 export type { PipelineContext, StepConfig } from "./types.ts"

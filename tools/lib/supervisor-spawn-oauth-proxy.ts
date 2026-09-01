@@ -195,9 +195,14 @@ async function spawnFreshProxy(
   if (typeof pid !== "number") {
     throw new Error("oauth-proxy spawn: Bun.spawn returned no pid")
   }
+  const out = proc.stdout
+  if (!(out instanceof ReadableStream)) {
+    stopByPid(pid)
+    throw new Error("oauth-proxy spawn: Bun.spawn gave no readable stdout to read the port from")
+  }
   let port: number
   try {
-    port = await readFirstLineAsPort(proc.stdout, PORT_READ_BUDGET_MS)
+    port = await readFirstLineAsPort(out, PORT_READ_BUDGET_MS)
   } catch (err) {
     stopByPid(pid)
     throw err

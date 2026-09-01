@@ -91,6 +91,7 @@ export function nameFromHistory(agentId: string, roots: Roots): string | null {
   const inAkasha = akashaSeatInHistory(agentId, rootFor(roots, AKASHA))
   const said = inAkasha === null ? null : inAkasha.values["slug"]
   if (typeof said === "string" && said !== "") return said
+  return null
 }
 
 export function frontmatterFromHistory(
@@ -99,6 +100,7 @@ export function frontmatterFromHistory(
 ): Record<string, unknown> | null {
   const inAkasha = akashaSeatInHistory(agentId, rootFor(roots, AKASHA))
   if (inAkasha !== null) return inAkasha.values
+  return null
 }
 
 const FIELD_LOOKBACK = 50
@@ -114,6 +116,7 @@ export function fieldFromHistory(agentId: string, roots: Roots, key: string): st
     const said = textField(inAkasha.values, key)
     if (said !== null) return said
   }
+  return null
 }
 
 

@@ -5,6 +5,7 @@ import { z } from "zod"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { inferenceSeed, mlxImageClient } from "../../lib/inference-clients.ts"
+import { INFERENCE_SERVICES } from "../../lib/inference/inference-run-services.ts"
 import { inferenceHosts, inferenceServices } from "../../lib/inference-registry.ts"
 import {
   formatCommandLine,
@@ -133,7 +134,7 @@ export default async function generateCommand(args: readonly string[]): Promise<
   const rawService = parsed.requireString("--service")
 
   const runRecord = await inferenceRunRecord()
-  const services = runRecord.INFERENCE_SERVICES
+  const services = INFERENCE_SERVICES
   const parsedService = z.enum(services).safeParse(rawService)
   if (!parsedService.success) {
     throw inputError(`--service must be one of ${services.join(", ")}, got '${rawService}'`)

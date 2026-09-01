@@ -86,14 +86,14 @@ export async function carry(rule: Rule, message: Message, box: Mailbox, root: st
   }
   if (rule.actions.includes("unsubscribe")) {
     if (message.oneClickUnsubscribe) {
-      const url = /<(https?:[^>]+)>/.exec(message.unsubscribe)
-      if (url !== null) {
-        await fetch(url[1], {
+      const url = /<(https?:[^>]+)>/.exec(message.unsubscribe)?.[1]
+      if (url !== undefined) {
+        await fetch(url, {
           method: "POST",
           headers: { "Content-Type": "application/x-www-form-urlencoded" },
           body: "List-Unsubscribe=One-Click",
         })
-        record({ message: message.id, rule: rule.slug, action: "unsubscribe", url: url[1] })
+        record({ message: message.id, rule: rule.slug, action: "unsubscribe", url })
       }
     } else record({ message: message.id, rule: rule.slug, action: "unsubscribe", taken: false, reason: "no one-click route" })
   }

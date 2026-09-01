@@ -68,8 +68,13 @@ export function pageWouldCompose(stated: Stated): boolean {
   )
 }
 
+function modeIn(said: string | null): declarations.Mode | null {
+  return declarations.MODES.find((one) => one === said) ?? null
+}
+
 export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Stated {
   if (held === null) return standing
+  const heldMode = modeIn(held.mode)
   const attributes: { -readonly [K in declarations.AttributeKey]?: declarations.Attribute } = {
     ...standing.attributes,
   }
@@ -89,8 +94,8 @@ export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Sta
     // What stands wins, and history fills what is missing. A seat that still states its own mode is
     // never told a older one, and a seat that states none takes what it last said rather than
     // composing to nothing.
-    recordedMode: standing.recordedMode ?? (held.mode === null ? null : { value: held.mode }),
-    mode: standing.recordedMode === null && held.mode !== null ? held.mode : standing.mode,
+    recordedMode: standing.recordedMode ?? (heldMode === null ? null : { value: heldMode }),
+    mode: standing.recordedMode === null && heldMode !== null ? heldMode : standing.mode,
     registration:
       standing.registration ?? (held.account === null ? null : { value: held.account }),
   }

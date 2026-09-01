@@ -106,7 +106,6 @@ export default async function modelGatewaySwap(args: readonly string[]): Promise
         agentId,
         timeoutMs: ACK_TIMEOUT_MS,
         lastRequestedAction: "proxy_swap",
-        lastDispatchStatus: null,
       })
     )
   }

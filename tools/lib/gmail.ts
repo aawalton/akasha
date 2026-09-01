@@ -36,7 +36,7 @@ function required(name: string): string {
 
 function addressOf(header: string): string {
   const angled = /<([^<>]+)>/.exec(header)
-  const bare = angled === null ? header : angled[1]
+  const bare = angled?.[1] ?? header
   return bare.trim().toLowerCase()
 }
 

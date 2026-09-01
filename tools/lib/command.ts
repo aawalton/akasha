@@ -10,7 +10,6 @@ import {
   type Landing,
   land as landAt,
   LandingRefused,
-  recordOwnWrite,
   type SizeChange,
   sizeLines,
 } from "../../repo/land/land.ts"
