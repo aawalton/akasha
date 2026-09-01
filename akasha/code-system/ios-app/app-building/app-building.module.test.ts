@@ -1,13 +1,35 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { listedFiled } from "@akasha/indexes/testing"
+import { put } from "@akasha/testing-system/putting"
 import { planFor, SHARED_PATHS } from "./app-building.module.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..", "..")
+
+const QUIET_ID = "01a05fd3-71b8-7c04-8a6e-3f19d4470b55"
+
+const QUIET_AT = "akasha/quiet.ios-app.ts"
+
+const QUIET_BODY =
+  `export const quiet = { id: "${QUIET_ID}", pageTypeSlug: "ios-app", slug: "quiet",` +
+  ` definition: "an app naming no build script", bundleId: "me.quiet.app" }\n`
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function planned(slug: string) {
   const held = planFor(root, slug)
   if ("refused" in held) throw new Error(held.refused.join("; "))
   return held
+}
+
+function namingNoBuildScript(): string {
+  const at = scratch.rootFor("akasha-app-building-")
+  put(at, QUIET_AT, QUIET_BODY)
+  listedFiled(at, "ios-app", "quiet", [{ path: QUIET_AT, id: QUIET_ID }])
+  return at
 }
 
 test("an app no page is slugged for is refused by that name", () => {
@@ -17,8 +39,9 @@ test("an app no page is slugged for is refused by that name", () => {
 })
 
 test("an app naming no build script is refused rather than walked to", () => {
-  const held = planFor(root, "nosuchapp")
+  const held = planFor(namingNoBuildScript(), "quiet")
   expect("refused" in held).toBe(true)
+  expect("refused" in held ? held.refused.join(" ") : "").toContain("build-script")
 })
 
 test("both apps are built by the one script standing above them", () => {
