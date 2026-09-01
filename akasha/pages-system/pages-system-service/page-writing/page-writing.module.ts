@@ -42,6 +42,10 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
+      statement: "The commit a write states is taken by any name git resolves to one.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A write stating one is refused where a path it carries no longer holds the body that commit held.",
     },

@@ -203,6 +203,21 @@ function movedBetween(
   return moved.sort()
 }
 
+function commitNamed(root: string, named: string): string | null {
+  try {
+    const said = gitIn(root, [
+      "rev-parse",
+      "--verify",
+      "--quiet",
+      "--end-of-options",
+      `${named}^{commit}`,
+    ]).trim()
+    return said === "" ? null : said
+  } catch {
+    return null
+  }
+}
+
 export function landing(
   root: string,
   changes: readonly FileEdit[],
@@ -216,15 +231,24 @@ export function landing(
   if (changes.length === 0) {
     return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
   }
+  const named = read === null ? null : commitNamed(root, read)
+  if (read !== null && named === null) {
+    return {
+      refusals: [
+        `\`${read}\` names no commit, so it says nothing about what this change read`,
+        "nothing was written — name a commit that stands, or name none",
+      ],
+    }
+  }
   return holding(root, () => {
     const base = baseOf(root)
-    const moved = read === null || read === base ? [] : movedBetween(root, read, base, changes)
-    if (moved.length > 0) {
+    const moved = named === null || named === base ? [] : movedBetween(root, named, base, changes)
+    if (named !== null && moved.length > 0) {
       return {
         refusals: [
           ...moved.map(
             (one) =>
-              `${one} — read against \`${read}\`, and what stands at \`${base}\` is not what was read, so writing it would put back what moved in between`
+              `${one} — read against \`${named}\`, and what stands at \`${base}\` is not what was read, so writing it would put back what moved in between`
           ),
           "nothing was written — read them again against what stands now",
         ],

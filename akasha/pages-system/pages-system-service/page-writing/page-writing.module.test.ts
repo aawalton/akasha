@@ -102,9 +102,9 @@ test("a write stating the commit it read is taken", () => {
   expect(refusalIn(held)).toBe(null)
 })
 
-test("a write stating a read that names no commit is refused", () => {
-  const held = asking({ puts: [{ path: "akasha/a.ts", content: "x" }], read: "yesterday" })
-  expect(refusalIn(held)).toContain("names no commit")
+test("a write stating the commit it read by a short name is taken", () => {
+  const held = asking({ puts: [{ path: "akasha/a.ts", content: "x" }], read: "dbe667c6bf" })
+  expect(refusalIn(held)).toBe(null)
 })
 
 test("writes stating nothing they read land together", () => {

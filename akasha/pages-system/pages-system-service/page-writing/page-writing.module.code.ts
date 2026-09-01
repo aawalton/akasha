@@ -40,8 +40,6 @@ const APART = "\n\n---\n\n"
 
 const AUTHORED = /^[^<>]+ <[^<>@\s]+@[^<>\s]+>$/
 
-const COMMITTED = /^[0-9a-f]{40,64}$/
-
 const NOTHING_JUDGES: Judging = {
   named: [],
   checksFor: () => [],
@@ -64,9 +62,6 @@ export function refusalIn(asked: Asked): string | null {
       return `\`${one}\` stands outside \`${UNDER}\`, and this answers for akasha alone`
     }
     if (one.split("/").includes(ABOVE)) return `\`${one}\` reaches above the root`
-  }
-  if (asked.read !== undefined && !COMMITTED.test(asked.read)) {
-    return `\`${asked.read}\` names no commit, so it says nothing about what this write read`
   }
   return null
 }

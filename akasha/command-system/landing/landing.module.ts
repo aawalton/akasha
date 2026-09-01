@@ -39,6 +39,14 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "The commit a change states is taken by any name git resolves to one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name resolving to no commit refuses the change unwritten.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A path that moved between that commit and what stands is refused unwritten rather than written over.",
     },

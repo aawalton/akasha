@@ -295,6 +295,28 @@ test("a change read against the commit that stands is landed", () => {
   expect(readFileSync(join(root, "akasha/b.txt"), "utf8")).toBe("new")
 })
 
+test("a change read against an abbreviated commit is read against the commit it names", () => {
+  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+  const read = git(root, ["rev-parse", "--short=10", "HEAD"]).trim()
+  writeFileSync(join(root, "later.txt"), "later")
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "second"])
+  const change = [{ path: "akasha/a.domain.ts", body: bytes("moved") }]
+  const said = landing(root, change, "m", ADMITS, null, read)
+  expect("refusals" in said).toBe(false)
+  expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe("moved")
+})
+
+test("a change read against a name standing for no commit is refused unwritten", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const was = baseOf(root)
+  const change = [{ path: "new.txt", body: bytes("proposed") }]
+  const said = landing(root, change, "m", ADMITS, null, "yesterday")
+  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("names no commit")
+  expect(existsSync(join(root, "new.txt"))).toBe(false)
+  expect(baseOf(root)).toBe(was)
+})
+
 test("what was written is put back when the landing throws after writing", () => {
   const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
   fileWhereTheIndexIs(root, "no directory stands here")
