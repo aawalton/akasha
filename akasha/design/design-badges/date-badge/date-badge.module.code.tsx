@@ -1,6 +1,6 @@
 "use client"
 
-import { Calendar } from "@shared/design-forms/components/calendar"
+import { Calendar } from "@akasha/design-forms/calendar"
 import {
   Popover,
   PopoverContent,

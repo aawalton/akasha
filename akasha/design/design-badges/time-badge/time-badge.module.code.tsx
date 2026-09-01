@@ -1,8 +1,8 @@
 "use client"
 
-import { parseDateExpression } from "@shared/design-forms/utils/date-parser"
-import { formatTime12h } from "@shared/design-forms/utils/format-time"
-import { normalizeBareNumericTime } from "@shared/design-forms/utils/normalize-bare-numeric-time"
+import { parseDateExpression } from "@akasha/design-forms/date-parser"
+import { formatTime12h } from "@akasha/design-forms/format-time"
+import { normalizeBareNumericTime } from "@akasha/design-forms/normalize-bare-numeric-time"
 import { Input } from "@shared/design-primitives/components/input"
 import {
   Popover,
