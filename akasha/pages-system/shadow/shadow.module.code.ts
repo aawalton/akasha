@@ -1,9 +1,9 @@
 import { createHash } from "node:crypto"
-import { textOf } from "../../code-system/body-text/body-text.module.code.ts"
+import { textOf } from "@akasha/code-system/body-text"
+import { readingIn } from "@akasha/indexes"
+import { readingOver } from "@akasha/indexes/indexing"
+import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "../change/change.module.code.ts"
-import { readingIn } from "../indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../indexes/index-shape/index-shape.module.code.ts"
-import { readingOver } from "../indexes/indexing/indexing.module.code.ts"
 import { type Value, valueAt, valueIn } from "../page/page-value/page-value.module.code.ts"
 
 export type Shadow = {

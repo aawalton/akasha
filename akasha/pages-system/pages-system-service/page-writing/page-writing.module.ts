@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const pageWriting = {
   id: "01a05abd-fe05-794d-8493-811846971bf6",

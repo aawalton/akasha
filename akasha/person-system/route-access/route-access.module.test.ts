@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { askComposed } from "../../pages-system/pages-query/store-questioning/store-questioning.module.code.ts"
-import type { Fetcher } from "../../pages-system/pages-query/store-reaching/store-reaching.module.code.ts"
+import { askComposed } from "@akasha/pages-query/answer-schema"
+import type { Fetcher } from "@akasha/pages-query/fetcher"
 import { ACCOUNT_KEY } from "../person-enrolment/person-enrolment.module.code.ts"
 import {
   grantsRoute,

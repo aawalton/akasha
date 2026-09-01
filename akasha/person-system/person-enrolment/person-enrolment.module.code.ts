@@ -1,8 +1,5 @@
-import { askComposed } from "../../pages-system/pages-query/store-questioning/store-questioning.module.code.ts"
-import type {
-  Fetcher,
-  Sleeper,
-} from "../../pages-system/pages-query/store-reaching/store-reaching.module.code.ts"
+import { askComposed } from "@akasha/pages-query/answer-schema"
+import type { Fetcher, Sleeper } from "@akasha/pages-query/fetcher"
 
 export const PERSON_PAGE_TYPE = "person"
 

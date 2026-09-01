@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const shadow = {
   id: "01a053a5-3240-7a15-81e0-042ef50c4d89",

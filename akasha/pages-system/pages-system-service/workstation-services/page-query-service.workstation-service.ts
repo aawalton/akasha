@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../../../service-system/workstation-service/workstation-service.page-type.ts"
+import type { WorkstationService } from "@akasha/service-system/workstation-service"
 
 export const pageQueryService = {
   id: "01a05a43-5afa-7d0d-8d60-dbd3c3498f99",

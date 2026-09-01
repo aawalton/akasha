@@ -1,5 +1,5 @@
-import type { Judging } from "../../../checks-system/judging/judging.module.code.ts"
-import { type FileEdit, landing } from "../../../command-system/landing/landing.module.code.ts"
+import type { Judging } from "@akasha/checks-system/judging"
+import { type FileEdit, landing } from "@akasha/command-system/landing"
 
 export type Put = {
   readonly path: string

@@ -1,17 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import type { Change } from "../../pages-system/change/change.module.code.ts"
-import { put, stands } from "../../testing-system/putting/putting.module.code.ts"
-import { readingIn } from "../indexes/index-reading/index-reading.module.code.ts"
-import {
-  everythingRead,
-  rebuiltIn,
-  schemaFiled,
-} from "../indexes/index-reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "../indexes/index-shape/index-shape.module.code.ts"
-import { keepingIn } from "../indexes/indexing/indexing.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { readingIn } from "@akasha/indexes"
+import { keepingIn } from "@akasha/indexes/indexing"
 import {
   aType,
   bodyOf,
@@ -19,7 +11,11 @@ import {
   idOf,
   type Named,
   VOCABULARY,
-} from "../indexes/indexing/indexing.module.test-fixtures.ts"
+} from "@akasha/indexes/indexing/testing"
+import type { Reading } from "@akasha/indexes/shape"
+import { everythingRead, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
+import { put, stands } from "@akasha/testing-system/putting"
+import type { Change } from "../../pages-system/change/change.module.code.ts"
 import { type Cast, NOT_WORKED_OUT, shadowFor } from "./shadow.module.code.ts"
 
 const scratch = scratchWorld()

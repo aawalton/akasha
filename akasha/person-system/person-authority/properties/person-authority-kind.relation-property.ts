@@ -1,4 +1,4 @@
-import type { RelationProperty } from "../../../pages-system/relation-property/relation-property.page-type.ts"
+import type { RelationProperty } from "@akasha/pages-system/relation-property"
 
 export type AuthorityKind =
   | "domain"
