@@ -6,7 +6,7 @@
         "**/*.ts"
       ]
     },
-    "shared/design-layout": {
+    "akasha/design/design-layout": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -63,7 +63,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "shared/pages-ui-store": {
+    "akasha/pages-system/pages-ui-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
