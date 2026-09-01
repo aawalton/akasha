@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The reading works: `monarch-reading-service` exits 0 on a fresh `MONARCH_COOKIE` after 78 failures, and the relay carries 9 to both sites. Both `/api/categorization` routes 401 bare by their guards, and Alan holds `alan-route-readout-feed`. Left is his phone: its app predates the refactor, so `device-secret-sync` is not in his Capacitor bundle and the pod refuses an absent secret. `akasha ios-app` does only `build`; `tools/commands/mobile/deploy-testflight.ts` works and wants to be an act.",
+        "The reading self-refreshes every 5 minutes: `monarch-reading-service` exits 0 on a fresh `MONARCH_COOKIE` and the relay carries 9 to both sites. Routes 401 bare by their guards; Alan holds `alan-route-readout-feed`. TestFlight 197 is live and installable, app and `ValuesWidgetExtension.appex` both at `18c549a94c`, with `DeviceSecretKeychain` now in `AppDelegate.swift`. Left is Alan installing 197. `akasha ios-app` does only `build`; a lane adds `ship` over `deploy-testflight.ts`.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
