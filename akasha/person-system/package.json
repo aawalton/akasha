@@ -8,7 +8,7 @@
     "./device-secret-minting": "./device-secret-minting/device-secret-minting.module.code.ts",
     "./device-token": "./device-token-registration/device-token-registration.module.code.ts",
     "./health-samples-body": "./health-samples-body/health-samples-body.module.code.ts",
-    "./phone": "./person/properties/phone.phone-number-property.ts",
+    "./phone": "./people/properties/phone.phone-number-property.ts",
     "./push-apps": "./push-apps/push-apps.module.code.ts",
     "./push-permission": "./push-permission/push-permission.module.code.ts",
     "./push-register-body": "./push-register-body/push-register-body.module.code.ts",
