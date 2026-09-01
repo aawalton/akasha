@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/pages-query",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./store-writing/store-writing.module.code.ts",
+    "./ask": "./store-page-asking/store-page-asking.module.code.ts",
+    "./answer-schema": "./store-questioning/store-questioning.module.code.ts",
+    "./fetcher": "./store-reaching/store-reaching.module.code.ts"
+  }
+}

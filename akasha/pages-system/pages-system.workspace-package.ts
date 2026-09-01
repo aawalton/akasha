@@ -26,6 +26,7 @@ export const pagesSystem = {
     "page-type/generator-kind",
     "page-type/unique-kind",
     "workspace-package/indexes",
+    "workspace-package/pages-query",
     "workspace-package/pages-system-service",
     "domain/naming",
     "module/change",
