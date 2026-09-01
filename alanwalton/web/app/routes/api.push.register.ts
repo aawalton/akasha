@@ -44,7 +44,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
 
   await registerDeviceToken({
     userId: ctx.userId,
-    deviceToken: parsed.data.deviceToken,
+    deviceTokenRegistration: parsed.data.deviceToken,
     platform: parsed.data.platform,
     bundleId: ALANWALTON_PUSH_APP.bundleId,
   })

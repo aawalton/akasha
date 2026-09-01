@@ -28,7 +28,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
 
   await registerDeviceToken({
     userId: SMILINGJENNY_PUSH_APP.userId,
-    deviceToken: parsed.data.deviceToken,
+    deviceTokenRegistration: parsed.data.deviceToken,
     platform: parsed.data.platform,
     bundleId: SMILINGJENNY_PUSH_APP.bundleId,
   })
