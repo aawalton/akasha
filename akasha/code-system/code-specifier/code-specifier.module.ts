@@ -70,7 +70,12 @@ export const codeSpecifier = {
     {
       invariantKind: "absence",
       statement:
-        "A caller refusing one that climbs out of the root or answering one spelt from the root keeps that rule where it belongs.",
+        "A caller refusing a specifier that climbs out of the root keeps that rule where the rule belongs.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A caller answering a specifier spelt from the root keeps that rule where the rule belongs.",
     },
     {
       invariantKind: "absence",

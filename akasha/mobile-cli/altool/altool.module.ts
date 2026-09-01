@@ -23,7 +23,7 @@ export const altool = {
     {
       invariantKind: "constraint",
       statement:
-        "Apple keys the HealthKit purpose string on the entitlement rather than on which HealthKit APIs the code calls",
+        "Apple keys the HealthKit purpose string on the entitlement rather than on the APIs the code calls",
     },
     {
       invariantKind: "departure",

@@ -52,7 +52,7 @@ export const deviceSecret = {
     {
       invariantKind: "departure",
       statement:
-        "A device secret is reached by the person holding the device secret and the device the device secret names.",
+        "A device secret is reached by the person holding the device secret and the device the secret names.",
     },
     {
       invariantKind: "absence",

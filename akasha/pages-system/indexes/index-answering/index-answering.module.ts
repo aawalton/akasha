@@ -64,7 +64,7 @@ export const indexAnswering = {
     {
       invariantKind: "gap",
       statement:
-        "A reader guarding itself against the index at a root reads that index and the commit at HEAD from the root bound here.",
+        "A reader guarding itself against the index reads that index and the commit at HEAD from the root.",
     },
   ],
 } as const satisfies Module
