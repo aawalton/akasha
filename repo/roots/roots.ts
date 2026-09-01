@@ -8,43 +8,9 @@ import type { Roots } from "../../page/page.ts"
 
 export const AKASHA = "akasha"
 
-function checkoutHere(): string {
-  const meta: { readonly dir?: string; readonly dirname?: string; readonly url?: string } = import.meta
-  const named = meta.dir ?? meta.dirname
-  const dir = named ?? (meta.url === undefined ? undefined : dirname(fileURLToPath(meta.url)))
-  if (dir === undefined || dir === "") {
-    throw new Error(
-      `nothing here says where this file is, so nothing says where \`${AKASHA}\` is — name it in \`${rootEnvName(AKASHA)}\``
-    )
-  }
-  return resolve(dir, "..", "..")
-}
-
-export const CHECKOUT_HERE = checkoutHere()
-
-function akashaHere(): string {
-  const stated = process.env[rootEnvName(AKASHA)]
-  if (stated !== undefined && stated !== "") return resolve(stated)
-  return CHECKOUT_HERE
-}
-
-export const HERE = akashaHere()
-
-export const QUARANTINE_ROOT = "dirty"
-
-export const VENDOR_ROOT = "node_modules"
-
 const REPO_PAGES = "pages/repo"
 
 const REPO_ENDING = "-repo"
-
-export function rootEnvName(repo: string): string {
-  return `${repo.replaceAll("-", "_").toUpperCase()}_ROOT`
-}
-
-export function ownRepoRoot(): string {
-  return rootOf(AKASHA)
-}
 
 function namedIn(at: string): readonly string[] {
   const found = new Set<string>()
@@ -61,6 +27,50 @@ function namedIn(at: string): readonly string[] {
     found.add(named.stem.slice(0, -REPO_ENDING.length))
   }
   return [...found].sort()
+}
+
+function checkoutFrom(dir: string): string {
+  let at = resolve(dir)
+  while (namedIn(`${at}/${REPO_PAGES}`).length === 0) {
+    const up = dirname(at)
+    if (up === at) return resolve(dir, "..", "..")
+    at = up
+  }
+  return at
+}
+
+function checkoutHere(): string {
+  const meta: { readonly dir?: string; readonly dirname?: string; readonly url?: string } = import.meta
+  const named = meta.dir ?? meta.dirname
+  const dir = named ?? (meta.url === undefined ? undefined : dirname(fileURLToPath(meta.url)))
+  if (dir === undefined || dir === "") {
+    throw new Error(
+      `nothing here says where this file is, so nothing says where \`${AKASHA}\` is — name it in \`${rootEnvName(AKASHA)}\``
+    )
+  }
+  return checkoutFrom(dir)
+}
+
+export const CHECKOUT_HERE = checkoutHere()
+
+function akashaHere(): string {
+  const stated = process.env[rootEnvName(AKASHA)]
+  if (stated !== undefined && stated !== "") return resolve(stated)
+  return CHECKOUT_HERE
+}
+
+export const HERE = akashaHere()
+
+export const QUARANTINE_ROOT = "dirty"
+
+export const VENDOR_ROOT = "node_modules"
+
+export function rootEnvName(repo: string): string {
+  return `${repo.replaceAll("-", "_").toUpperCase()}_ROOT`
+}
+
+export function ownRepoRoot(): string {
+  return rootOf(AKASHA)
 }
 
 function namedOnDisk(): readonly string[] {
