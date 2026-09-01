@@ -193,6 +193,7 @@
     "akasha/person-system": {
       "name": "@akasha/person-system",
       "dependencies": {
+        "@alanwalton/health-samples-access": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",

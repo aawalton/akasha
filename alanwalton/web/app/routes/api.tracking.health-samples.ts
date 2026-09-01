@@ -1,8 +1,8 @@
+import { healthSamplesIngestSchema } from "@akasha/person-system/health-samples-body"
 import { type HealthSample } from "../../../health-samples-access/src/types"
 import { upsertHealthSamples } from "../../../health-samples-access/src/upsert"
 import { resolveDeviceSecretContext } from "~/device-secret/lib/device-secrets.server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
-import { HealthSamplesIngestSchema } from "~/tracking/lib/health-samples-body"
 import type { Route } from "./+types/api.tracking.health-samples"
 
 const CORS_METHODS = "POST, OPTIONS"
@@ -40,7 +40,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
       { status: 400, headers: headers() }
     )
   }
-  const parsed = HealthSamplesIngestSchema.safeParse(body)
+  const parsed = healthSamplesIngestSchema.safeParse(body)
   if (!parsed.success) {
     return Response.json(
       { ok: false, error: "Invalid health-samples payload." },
