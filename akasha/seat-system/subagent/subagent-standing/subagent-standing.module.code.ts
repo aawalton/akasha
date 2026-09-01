@@ -64,9 +64,9 @@ export function assignedTo(root: string, seatName: string): string | null {
 }
 
 export function seatNamedIn(root: string, seatId: string): string | null {
-  const standing = listedById(root, seatId)
-  if (standing === null) return null
-  const named = namedIn(standing.path)
+  const listed = listedById(root, seatId)
+  if (listed === null) return null
+  const named = namedIn(listed.path)
   return named === null || named.tail !== SEAT ? null : named.stem
 }
 
