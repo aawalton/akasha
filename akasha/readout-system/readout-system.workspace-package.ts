@@ -20,6 +20,7 @@ export const readoutSystem = {
     "module/readout-relay",
     "module/readout-ring",
     "module/readout-scale-reading",
+    "module/readout-tier",
     "stylesheet/readout-look",
   ],
 } as const satisfies WorkspacePackage
