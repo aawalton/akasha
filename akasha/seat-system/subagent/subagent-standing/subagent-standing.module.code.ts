@@ -143,7 +143,7 @@ export function takingDown(root: string, seatName: string, own: string): undefin
   asking(root, [TAKING, seatName, own])
 }
 
-export function ranAsStanding(argv: readonly string[]): number {
+export function ran(argv: readonly string[]): number {
   const root = argv[2]
   const act = argv[3]
   const seatName = argv[4]
@@ -159,5 +159,5 @@ export function ranAsStanding(argv: readonly string[]): number {
 }
 
 if (import.meta.main) {
-  process.exit(ranAsStanding(Bun.argv))
+  process.exit(ran(Bun.argv))
 }
