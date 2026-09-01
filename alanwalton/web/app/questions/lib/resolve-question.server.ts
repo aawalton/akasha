@@ -14,7 +14,6 @@ import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { z } from "zod"
 import { unwritten } from "~/lib/pages-unheld"
 import { type InboundSender, withSenderFooter } from "~/lib/sender-surface"
-import { HOURLY_CONFIRM_ANSWER_SEAT, TRACKING_HOURLY_CONFIRM_SOURCE } from "./hourly-confirm-source"
 
 const ANSWERED_STATUS = "answered"
 const DISMISSED_STATUS = "dismissed"
@@ -66,10 +65,6 @@ const questionRowSchema = z.object({
   options: z.array(z.string()).catch([]),
   sourceContext: z.string().nullable().catch(null),
 })
-
-function automationSeat(sourceContext: string | null): string | null {
-  return sourceContext === TRACKING_HOURLY_CONFIRM_SOURCE ? HOURLY_CONFIRM_ANSWER_SEAT : null
-}
 
 type ResolvedAsker = { handle: string }
 
@@ -178,7 +173,7 @@ export async function resolveQuestion(
       content,
     })
     if (tappedIndex === null) {
-      const asker = await resolveAsker(parsed.askedBy, deps, automationSeat(parsed.sourceContext))
+      const asker = await resolveAsker(parsed.askedBy, deps)
       if ("error" in asker) return { ok: false, error: asker.error }
       try {
         await deliver(asker, content, ANSWER_SOURCE, args.sender)
@@ -197,25 +192,23 @@ export async function resolveQuestion(
       },
     })
   } else {
-    if (automationSeat(parsed.sourceContext) === null) {
-      const asker = await resolveAsker(parsed.askedBy, deps)
-      if ("error" in asker) {
-        console.warn(
-          `[resolve-question] dismiss: asker unresolved for ${args.questionId}: ${asker.error}`
+    const asker = await resolveAsker(parsed.askedBy, deps)
+    if ("error" in asker) {
+      console.warn(
+        `[resolve-question] dismiss: asker unresolved for ${args.questionId}: ${asker.error}`
+      )
+    } else {
+      try {
+        await deliver(
+          asker,
+          `Your question was dismissed without an answer: "${parsed.title}"`,
+          DISMISS_SOURCE,
+          args.sender
         )
-      } else {
-        try {
-          await deliver(
-            asker,
-            `Your question was dismissed without an answer: "${parsed.title}"`,
-            DISMISS_SOURCE,
-            args.sender
-          )
-        } catch (err) {
-          console.warn(
-            `[resolve-question] dismiss: notice delivery failed for ${args.questionId}: ${errMessage(err)}`
-          )
-        }
+      } catch (err) {
+        console.warn(
+          `[resolve-question] dismiss: notice delivery failed for ${args.questionId}: ${errMessage(err)}`
+        )
       }
     }
     await deps.patchPage({
