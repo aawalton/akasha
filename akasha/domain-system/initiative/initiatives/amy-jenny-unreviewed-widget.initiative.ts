@@ -12,7 +12,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "A file writing a page through the page store lands the write rather than refusing.",
       workingMemory:
-        "Interim: the store now serves POST /read, answering a whole body and the commit it was read at, and POST /write takes that commit as `read`. This line was put here by patchFiles over HTTP.",
+        "The store serves POST /read: whole bodies, a page placed by page type and slug, and the commit read at. POST /write takes that commit as `read` and landing refuses a path that moved, so a lost update is loud. patchFiles and removePage land; writePage, patchPage, patchState and the four row names still refuse, for want of anything rendering a page body from keys. See nothing-in-akasha-renders-a-page-body-from-its-keys.",
     },
     {
       statement:
