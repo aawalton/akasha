@@ -1,0 +1,16 @@
+{
+  "name": "@akasha/sms-access",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./client": "./client/client.module.code.ts",
+    "./sms-allowlist": "./sms-allowlist/sms-allowlist.module.code.ts",
+    "./sms-discard": "./sms-discard/sms-discard.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-query": "workspace:*",
+    "@alanwalton/sms-core": "workspace:*",
+    "@shared/supabase-database": "workspace:*",
+    "@supabase/supabase-js": "^2.104.0"
+  }
+}
