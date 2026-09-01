@@ -18,7 +18,6 @@ export const harness = {
     "workspace-package/google-oauth",
     "workspace-package/drive-google",
     "workspace-package/calendar-google",
-    "workspace-package/calendar-sync",
     "workspace-package/email-google",
     "workspace-package/awen-core",
     "workspace-package/imessage",
