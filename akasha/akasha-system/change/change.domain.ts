@@ -4,8 +4,9 @@ export const change = {
   id: "01a05df1-e261-76a1-ad1e-0db3d857450e",
   pageTypeSlug: "domain",
   slug: "change",
-  definition: "a set of edits to what akasha keeps, landed together",
+  definition: "everything one act edits",
   partSlugs: [
+    "page-type/change-kind",
     "domain/change-agent-authored",
     "domain/change-agent-mechanical",
     "domain/change-service-operational",
@@ -13,15 +14,11 @@ export const change = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change is agent-authored or agent-mechanical or service-operational.",
+      statement: "Nothing lands but through an akasha command or a service.",
     },
     {
       invariantKind: "departure",
-      statement: "An akasha command makes every change a service does not.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What a change is judged by follows from which of the three it is.",
+      statement: "What a change is judged by follows from its kind.",
     },
   ],
 } as const satisfies Domain
