@@ -4,6 +4,8 @@ const LAST_VALUE = "lastValue"
 
 const LAST_VALUE_AT = "lastValueAt"
 
+export const STALE_AFTER_MS = 45 * 60_000
+
 export type Reading = {
   readonly value: number
   readonly at: string

@@ -30,6 +30,11 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "How old a reading may be and still be shown is stated once and read wherever one is shown.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A readout with nothing standing beside it has taken no reading.",
     },
     {
