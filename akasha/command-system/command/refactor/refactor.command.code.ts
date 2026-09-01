@@ -184,8 +184,8 @@ export function landed(
   dryRun: boolean,
   argv: readonly string[]
 ): Answer {
-  const stood = baseOf(root)
-  const bodyText = bodyTextOf(root, stood)
+  const base = baseOf(root)
+  const bodyText = bodyTextOf(root, base)
   const standing = (path: string): boolean => existsSync(join(root, path))
   const carries = carriesFor(root, one, standing)
   const moved = new Map<string, string>(carries.map((held) => [held.from, held.to]))
@@ -201,7 +201,7 @@ export function landed(
   if ("unread" in reading) return answering([], [reading.unread], 2)
   const naming = new Set<string>(reading.importers)
   for (const path of held.spelling.keys()) naming.add(path)
-  for (const path of spellingOf(root, stood, moved, naming)) naming.add(path)
+  for (const path of spellingOf(root, base, moved, naming)) naming.add(path)
   const left: string[] = []
   const noting = (path: string, said: string): undefined => {
     for (const line of namesStill(said, one.was)) left.push(`  ${path}:${line}`)
@@ -211,7 +211,7 @@ export function landed(
     if (moved.has(path) || !standing(path)) continue
     if (namesStill(path, one.was).length > 0) left.push(`  ${path} — its own path`)
     if (!path.endsWith(TS)) continue
-    const bytes = bodyAt(root, stood, path)
+    const bytes = bodyAt(root, base, path)
     const text = bytes === null ? null : textOf(bytes)
     if (bytes === null || text === null || !text.includes(one.was)) continue
     bodies.set(path, bytes)
@@ -225,8 +225,8 @@ export function landed(
       moving.push({ from: carry.from, to: carry.to })
       continue
     }
-    const bytes = bodyAt(root, stood, carry.from)
-    if (bytes === null) return unread(carry.from, `stands in no commit at \`${stood}\``)
+    const bytes = bodyAt(root, base, carry.from)
+    if (bytes === null) return unread(carry.from, `stands in no commit at \`${base}\``)
     readings.push({ was: carry.from, now: carry.to, from: blobIdOf(bytes) })
     changes.push({ path: carry.from, body: null })
     if (!carry.from.endsWith(TS)) {
@@ -242,7 +242,7 @@ export function landed(
   const repointing: string[] = []
   for (const path of [...naming].sort()) {
     if (!path.endsWith(TS) || moved.has(path)) continue
-    const bytes = bodies.get(path) ?? bodyAt(root, stood, path)
+    const bytes = bodies.get(path) ?? bodyAt(root, base, path)
     if (bytes === null) continue
     const text = textOf(bytes)
     if (text === null) return unread(path, `names what moved and its bytes are not utf-8`)
@@ -265,7 +265,7 @@ export function landed(
     dryRun,
     glass: glass.glass,
     unmoved: [],
-    read: stood,
+    read: base,
     carries: moving,
     saying: () => saying(one, carries, repointing, pages, left, false),
   }
