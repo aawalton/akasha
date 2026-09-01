@@ -1,4 +1,4 @@
-import { patchFiles, patchPage, type Body, type Put, type Written } from "@shared/pages-query"
+import { patchPage, readFiles, writeFiles, type Written } from "@shared/pages-query"
 
 /**
  * A persona stands as a TypeScript file under `akasha/`, and the page store writes a path and a
@@ -37,20 +37,61 @@ export function personaBodyWithTotal(body: string, totalPoints: number): string 
   return `${body.slice(0, at)}${line}\n${body.slice(at)}`
 }
 
+/** How many points the body already states, or null where it states none. */
+export function totalIn(body: string): number | null {
+  const found = body.match(/^ {2}totalPoints: (-?\d+(?:\.\d+)?),$/m)
+  return found?.[1] === undefined ? null : Number(found[1])
+}
+
+const ATTEMPTS = 4
+
+const PAUSE_MS = 1_500
+
+const sleep = (ms: number): Promise<undefined> =>
+  new Promise((done) => {
+    setTimeout(() => {
+      done(undefined)
+    }, ms)
+  })
+
+/**
+ * A write of a persona's page runs the whole gate and can outlast the store client's ceiling, and
+ * the client tries again on hearing nothing. The first try may have landed by then, so the second
+ * is refused for reading a body that has since moved — the run's own change, read as a stranger's.
+ * So each try reads afresh, and a body already stating this total counts as landed rather than as
+ * a refusal: what is asserted is the figure standing on the page, not who put it there.
+ */
 async function landedOnPersona(slug: string, totalPoints: number): Promise<Written> {
   const path = personaPagePath(slug)
-  const changing = (bodies: readonly Body[]): readonly Put[] | null => {
-    const held = bodies.find((one) => one.path === path)
-    if (held === undefined || held.content === null) return null
+  let why = `no attempt to land ${path} was made`
+  for (let attempt = 1; attempt <= ATTEMPTS; attempt++) {
+    if (attempt > 1) await sleep(PAUSE_MS)
+    const found = await readFiles([path])
+    if (!found.ok) {
+      why = found.why
+      continue
+    }
+    const held = found.bodies.find((one) => one.path === path)
+    if (held === undefined || held.content === null) {
+      return { ok: false, why: `no body stands at ${path}, so no total can be set in one` }
+    }
+    if (totalIn(held.content) === totalPoints) return { ok: true, at: found.at }
     const content = personaBodyWithTotal(held.content, totalPoints)
-    return content === null ? null : [{ path, content }]
+    if (content === null) {
+      return { ok: false, why: `${path} is not a body this can set a total in` }
+    }
+    const landed = await writeFiles(
+      [{ path, content }],
+      PERSONA_TOTAL_WRITER,
+      `${slug} carries a total of ${totalPoints} points`,
+      undefined,
+      undefined,
+      found.at
+    )
+    if (landed.ok) return landed
+    why = landed.why
   }
-  return patchFiles(
-    [path],
-    changing,
-    PERSONA_TOTAL_WRITER,
-    `${slug} carries a total of ${totalPoints} points`
-  )
+  return { ok: false, why: `${why} — ${ATTEMPTS} attempts were spent` }
 }
 
 /**
