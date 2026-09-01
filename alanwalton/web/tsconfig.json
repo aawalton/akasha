@@ -122,6 +122,9 @@
       "path": "../../shared/utils-sync"
     },
     {
+      "path": "../../shared/web-build-sha"
+    },
+    {
       "path": "../../shared/web-security-headers"
     },
     {

@@ -1,7 +1,5 @@
-import { liveVersionLoader } from "@shared/pages-query/live-version"
+import { liveVersionResponse } from "@shared/web-build-sha/live-version"
 
-const WEB_APP_SLUG = "alanwalton-web"
-
-export function loader(): Promise<Response> {
-  return liveVersionLoader(WEB_APP_SLUG)
+export function loader(): Response {
+  return liveVersionResponse(process.env.NEXT_PUBLIC_BUILD_SHA)
 }

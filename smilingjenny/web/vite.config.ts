@@ -1,5 +1,6 @@
 import { reactRouter } from "@react-router/dev/vite"
 import { supabaseClientEnvDefine } from "@shared/supabase-rr/vite"
+import { buildShaDefine } from "@shared/web-build-sha/vite"
 import tailwindcss from "@tailwindcss/vite"
 import { defineConfig } from "vite"
 
@@ -8,5 +9,5 @@ export default defineConfig({
   resolve: {
     tsconfigPaths: true,
   },
-  define: { ...supabaseClientEnvDefine() },
+  define: { ...supabaseClientEnvDefine(), ...buildShaDefine() },
 })

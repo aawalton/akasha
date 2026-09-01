@@ -1,9 +1,6 @@
-const BUILD_SHA_PATTERN = /^[0-9a-f]{40}$/
+import { parseBuildSha } from "@shared/web-build-sha/sha"
 
-export function parseBuildSha(raw: string | undefined): string | null {
-  if (typeof raw !== "string") return null
-  return BUILD_SHA_PATTERN.test(raw) ? raw : null
-}
+export { parseBuildSha }
 
 export function shouldPromptVersionUpdate(input: {
   buildSha: string | null

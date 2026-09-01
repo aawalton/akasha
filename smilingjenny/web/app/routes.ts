@@ -8,6 +8,7 @@ export default [
   route("sign-in", "routes/sign-in.tsx"),
   route("sign-out", "routes/sign-out.ts"),
   route("api/health", "routes/api.health.ts"),
+  route("api/live-version", "routes/api.live-version.ts"),
   route("api/categorization", "routes/api.categorization.ts"),
   route("api/safety-level", "routes/api.safety-level.ts"),
   route("api/surplus", "routes/api.surplus.ts"),

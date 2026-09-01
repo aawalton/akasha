@@ -72,6 +72,7 @@
     "shared/utils-sync",
     "shared/utils-test",
     "shared/verdict",
+    "shared/web-build-sha",
     "shared/web-security-headers",
     "shared/web-static-assets",
     "shared/workspace-paths",

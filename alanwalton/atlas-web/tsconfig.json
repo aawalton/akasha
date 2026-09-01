@@ -83,6 +83,9 @@
       "path": "../../shared/supabase-server"
     },
     {
+      "path": "../../shared/web-build-sha"
+    },
+    {
       "path": "../../shared/web-security-headers"
     },
     {
