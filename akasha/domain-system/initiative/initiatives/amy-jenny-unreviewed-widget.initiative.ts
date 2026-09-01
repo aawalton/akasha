@@ -39,6 +39,16 @@ export const amyJennyUnreviewedWidget = {
         "Eight of twelve folders are done: sms, readout-scale and tracking are gone, while device-secret, push and readout-credential keep only an adapter, and readout and person-access were already done. Typecheck errors under alanwalton/web fell from 151 to 115. The four left want a package no intent had stood up, so this now stands after the one that stands it up. Counts here must include the `~/*` alias: app/lib has 88 inbound that way rather than 0.",
     },
     {
+      statement: "The interior of Alan's site stands in akasha.",
+      workingMemory:
+        "`lib`, `idle`, `awen`, `components`, `hooks` and `questions`, some 170 files as one landing. It stands after `pages-ui` at 96 reaches and `design-primitives` at 65, because landing it first means rewriting 161 specifiers twice. `.json` and `.css` are not the crux: `file-has-its-page` holds no extension list and they land as file properties, with five precedents including css, svg and json. Only 8 files of the 286 are awkward.",
+    },
+    {
+      statement: "The routes of Alan's site stand in akasha.",
+      workingMemory:
+        "Last of the three, because `app/routes` is the only part of this whole move with modelling nobody has done. Nothing waits on it: the site is a leaf with no inbound importers. One thing is unproved and decides the shape: nobody has shown that vite, react-router and tailwind resolve through a symlinked package root. `native-shell` proves it for an iOS package rather than for a build.",
+    },
+    {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
         "The pod now runs 283599af2e and the relay route 401s for want of `READING_RELAY_SECRET` rather than 405, so the one thing left is the reading: `MONARCH_COOKIE` is dead, Monarch 401s, and only Alan at a browser can mint another. The tile is whole and both its defects are fixed: a cached reading carries the moment it was written and is let go at 45 minutes, and the yellow rung moved off zero so a cleared backlog draws grey rather than caution. No Swift was compiled: no toolchain stands here.",
