@@ -24,24 +24,24 @@ interface ActionVerbEntry {
   readonly resolvePresentation?: ResolveActionPresentation
 }
 
-const registry = new Map<string, ActionVerbEntry>()
+const entriesByVerbId = new Map<string, ActionVerbEntry>()
 
 export function registerActionVerb(
   verbId: string,
   handler: ActionVerbHandler,
   resolvePresentation?: ResolveActionPresentation
 ): undefined {
-  registry.set(verbId, { handler, resolvePresentation })
+  entriesByVerbId.set(verbId, { handler, resolvePresentation })
 }
 
 export function getActionVerb(verbId: string): ActionVerbHandler | undefined {
-  return registry.get(verbId)?.handler
+  return entriesByVerbId.get(verbId)?.handler
 }
 
 export function getActionVerbPresentation(verbId: string): ResolveActionPresentation | undefined {
-  return registry.get(verbId)?.resolvePresentation
+  return entriesByVerbId.get(verbId)?.resolvePresentation
 }
 
 export function unregisterActionVerb(verbId: string): undefined {
-  registry.delete(verbId)
+  entriesByVerbId.delete(verbId)
 }

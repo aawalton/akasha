@@ -8,19 +8,19 @@ export interface CoverClickContext {
 
 export type CoverClickHandler = (ctx: CoverClickContext) => void
 
-const registry = new Map<string, CoverClickHandler>()
+const handlersByPageTypeSlug = new Map<string, CoverClickHandler>()
 
 export function registerCoverClickHandler(
   pageTypeSlug: string,
   handler: CoverClickHandler
 ): undefined {
-  registry.set(pageTypeSlug, handler)
+  handlersByPageTypeSlug.set(pageTypeSlug, handler)
 }
 
 export function getCoverClickHandler(pageTypeSlug: string): CoverClickHandler | undefined {
-  return registry.get(pageTypeSlug)
+  return handlersByPageTypeSlug.get(pageTypeSlug)
 }
 
 export function unregisterCoverClickHandler(pageTypeSlug: string): undefined {
-  registry.delete(pageTypeSlug)
+  handlersByPageTypeSlug.delete(pageTypeSlug)
 }
