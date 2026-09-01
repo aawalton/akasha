@@ -7,6 +7,7 @@ export const utilsNarrow = {
   definition: "how a wide value is read as the narrow one it must be, or refused",
   manifest: "json",
   partSlugs: [
+    "module/as-boolean",
     "module/as-record",
     "module/assert-never",
     "module/badge-variant",
@@ -21,6 +22,7 @@ export const utilsNarrow = {
     "module/json-equal",
     "module/json-schema",
     "module/narrow-error",
+    "module/no-op",
     "module/require-at",
     "module/require-env",
     "module/require-first",
