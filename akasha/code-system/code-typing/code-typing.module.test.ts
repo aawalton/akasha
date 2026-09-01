@@ -1,8 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import type { Typing } from "./code-typing.module.code.ts"
+import { join } from "node:path"
 import {
   boundAs,
   compiled,
@@ -19,52 +16,33 @@ import {
   referencesOf,
   servedOf,
   spelledAs,
-  typingOver,
 } from "./code-typing.module.code.ts"
-
-const scratch = scratchWorld()
+import { linked, PACKAGED, scratch, typed } from "./code-typing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
-function wrote(root: string, said: Readonly<Record<string, string>>): string[] {
-  for (const [path, text] of Object.entries(said)) {
-    const at = join(root, path)
-    mkdirSync(dirname(at), { recursive: true })
-    writeFileSync(at, text)
-  }
-  return Object.keys(said)
-}
+test("a body reached through the packages folder is served from inside the akasha folder", () => {
+  const root = linked({ "akasha/one/package.json": '{ "name": "@akasha/one" }\n' }, "one")
 
-function onDisk(at: string): string | undefined {
-  try {
-    return readFileSync(at, "utf8")
-  } catch {
-    return undefined
-  }
-}
+  expect(servedOf(root, join(root, PACKAGED, "one/two/two.module.code.ts"))).toBe(
+    "akasha/one/two/two.module.code.ts"
+  )
+})
 
-function typed(said: Readonly<Record<string, string>>): {
-  root: string
-  typing: Typing
-} {
-  const root = scratch.rootFor("akasha-typing-")
-  const paths = wrote(root, said)
-  const typing = typingOver(root, paths, (at) => {
-    const rel = insideOf(root, at)
-    return rel === null ? onDisk(at) : said[rel]
-  })
-  return { root, typing }
-}
+test("a body the change brings is served through the packages folder though no disk holds it", () => {
+  const root = linked({ "akasha/one/package.json": '{ "name": "@akasha/one" }\n' }, "one")
+  const body = "export const two = 2\n"
+  const read = readingOf(root, (rel) => (rel === "akasha/one/two.module.code.ts" ? body : null))
 
-const PACKAGED = "node_modules/@akasha"
+  expect(read(join(root, PACKAGED, "one/two.module.code.ts"))).toBe(body)
+})
 
-function linked(said: Readonly<Record<string, string>>, slug: string): string {
-  const root = scratch.rootFor("akasha-manifest-")
-  wrote(root, said)
-  mkdirSync(join(root, PACKAGED), { recursive: true })
-  symlinkSync(join(root, "akasha", slug), join(root, PACKAGED, slug))
-  return root
-}
+test("a body the change takes away reads as nothing through the packages folder", () => {
+  const root = linked({ "akasha/one/two.module.code.ts": "export const two = 2\n" }, "one")
+  const read = readingOf(root, () => null)
+
+  expect(read(join(root, PACKAGED, "one/two.module.code.ts"))).toBe(undefined)
+})
 
 test("a manifest is known by the name of the file holding it wherever it sits", () => {
   expect(manifested("package.json")).toBe(true)
