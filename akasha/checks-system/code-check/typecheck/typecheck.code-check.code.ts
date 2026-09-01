@@ -4,6 +4,7 @@ import { lineAt, parsedAs } from "@akasha/code-system/code-source"
 import {
   compiled,
   insideOf,
+  linkedOf,
   manifested,
   programOver,
   readingOf,
@@ -106,7 +107,7 @@ export function bodiesOf(change: Change, minting: Minting): (at: string) => stri
     return bytes === null ? null : minting(rel, textIn(bytes))
   })
   return (path) => {
-    const at = resolve(path)
+    const at = linkedOf(root, resolve(path))
     if (held.has(at)) return held.get(at)
     const said = base(at)
     held.set(at, said)
