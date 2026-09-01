@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bytes, ran, said } from "./running.module.code.ts"
+import { bytes, ran, said, shown } from "./running.module.code.ts"
 
 test("a command exiting zero is answered as zero and what it printed", () => {
   expect(ran(["sh", "-c", "printf hello"])).toEqual({ code: 0, out: "hello", err: "" })
@@ -56,4 +56,19 @@ test("what a process says on its output stream comes back as the bytes it wrote"
 test("bytes a reader could not read as text come back whole", () => {
   const done = bytes(["printf", "\\377\\376"])
   expect([...done.out]).toEqual([255, 254])
+})
+
+test("a process run to be watched writes to the streams its caller was given", () => {
+  const at = `${import.meta.dir}/running.module.code.ts`
+  const done = ran([
+    "bun",
+    "-e",
+    `import { shown } from ${JSON.stringify(at)}; shown(["sh", "-c", "printf seen; printf heard 1>&2"])`,
+  ])
+  expect(done.out).toBe("seen")
+  expect(done.err).toBe("heard")
+})
+
+test("a process run to be watched throws where it exits other than zero", () => {
+  expect(() => shown(["false"])).toThrow(/`false` exited 1/)
 })

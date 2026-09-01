@@ -47,6 +47,14 @@ export const running = {
       statement: "Text is those bytes read as text rather than a second run.",
     },
     {
+      invariantKind: "departure",
+      statement: "A process run to be watched writes to the streams its caller was given.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing a watched process said is carried back.",
+    },
+    {
       invariantKind: "absence",
       statement: "No shell comes between a caller and the process it starts.",
     },
