@@ -15,10 +15,10 @@ import {
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
+  type Manifest,
   manifestIn,
   manifestsIn,
   nameIn,
-  type Standing,
 } from "../package-reached-where-named/package-reached-where-named.code-check.code.ts"
 
 const AT = "@"
@@ -277,7 +277,7 @@ function standingFrom(change: Change, folder: string): (named: string) => boolea
   return (named) => change.after(join(folder, named)) !== null
 }
 
-function declaringOver(change: Change, standing: readonly Standing[]): readonly Named[] {
+function declaringOver(change: Change, standing: readonly Manifest[]): readonly Named[] {
   const found: Named[] = []
   for (const one of standing) {
     const text = textIn(change, one.at)

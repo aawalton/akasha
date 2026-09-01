@@ -42,7 +42,7 @@ export type Package = {
   readonly reached: ReadonlySet<string>
 }
 
-export type Standing = {
+export type Manifest = {
   readonly folder: string
   readonly at: string
 }
@@ -128,7 +128,7 @@ export function packagePagesIn(root: string, shadow: Shadow): readonly string[] 
   return [...found].sort()
 }
 
-export function manifestsIn(root: string, shadow: Shadow): readonly Standing[] {
+export function manifestsIn(root: string, shadow: Shadow): readonly Manifest[] {
   const pages = packagePagesIn(root, shadow)
   if (pages.length === 0) return []
   const manifest = manifestNamed(shadow)
@@ -138,7 +138,7 @@ export function manifestsIn(root: string, shadow: Shadow): readonly Standing[] {
   })
 }
 
-export function packagesIn(change: Change, standing: readonly Standing[]): readonly Package[] {
+export function packagesIn(change: Change, standing: readonly Manifest[]): readonly Package[] {
   const found: Package[] = []
   for (const one of standing) {
     const bytes = change.after(one.at)
