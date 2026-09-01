@@ -1,11 +1,11 @@
 import type { List } from "@akasha/pages-system/page-property"
 import type { RecordProperty } from "@akasha/pages-system/record-property"
 import type { InvariantKind } from "./invariant-kind.relation-property.ts"
-import type { Statement } from "./invariant-statement.text-property.ts"
+import type { InvariantStatement } from "./invariant-statement.text-property.ts"
 
 export type Invariant = {
   invariantKind: InvariantKind
-  statement: Statement
+  statement: InvariantStatement
 }
 
 export type Invariants = List<Invariant>
