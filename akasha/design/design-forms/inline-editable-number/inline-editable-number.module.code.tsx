@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from "react"
 
 export interface InlineEditableNumberProps {
   value: number | null | undefined
-  onChange: (value: number | null) => undefined
+  onChange: (value: number | null) => void
   placeholder?: string
   className?: string
   inputClassName?: string

@@ -12,10 +12,10 @@ import { useBadgeLayoutContext } from "../badge-layout-context/badge-layout-cont
 interface TimeBadgeProps {
   value: string | null
   editable?: boolean
-  onTimeChange?: (time: string | null) => undefined
+  onTimeChange?: (time: string | null) => void
   variant?: BadgeVariant
   isOverdue?: boolean
-  onOpenChange?: (open: boolean) => undefined
+  onOpenChange?: (open: boolean) => void
   clearable?: boolean
 }
 
@@ -52,9 +52,9 @@ function TimeBadgeEditable({
   clearable,
 }: {
   value: string | null
-  onTimeChange?: (time: string | null) => undefined
+  onTimeChange?: (time: string | null) => void
   variant?: BadgeVariant
-  onOpenChange?: (open: boolean) => undefined
+  onOpenChange?: (open: boolean) => void
   clearable?: boolean
 }) {
   const [open, setOpen] = useState(false)

@@ -11,7 +11,7 @@ interface NumberBadgeProps {
   editable?: boolean
   min?: number
   max?: number
-  onChange?: (value: number) => undefined
+  onChange?: (value: number) => void
   format?: (value: number) => string
   prefix?: string
   variant?: BadgeVariant
@@ -78,7 +78,7 @@ function NumberBadgeEditable({
   value: number
   min?: number
   max?: number
-  onChange?: (value: number) => undefined
+  onChange?: (value: number) => void
   format: (value: number) => string
   prefix: string
   variant?: BadgeVariant

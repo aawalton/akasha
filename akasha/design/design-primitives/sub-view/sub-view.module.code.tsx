@@ -12,7 +12,7 @@ export function SubView({
   children,
 }: {
   title: ReactNode
-  onBack: () => undefined
+  onBack: () => void
   className?: string
   children: ReactNode
 }) {

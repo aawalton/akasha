@@ -5,7 +5,7 @@ import { Button } from "@akasha/design-primitives/button"
 interface LoadMoreButtonProps {
   visibleCount: number
   totalCount: number
-  onLoadMore: () => undefined
+  onLoadMore: () => void
   indeterminate?: boolean
 }
 

@@ -7,8 +7,8 @@ import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
 
 interface InputBadgeProps {
   value: string
-  onChange: (value: string) => undefined
-  onCommit?: (value: string) => undefined
+  onChange: (value: string) => void
+  onCommit?: (value: string) => void
   placeholder?: string
   variant?: BadgeVariant
   className?: string

@@ -6,7 +6,7 @@ export interface AppNavItem {
   label: string
   shortLabel: string
   href?: string
-  onClick?: () => undefined
+  onClick?: () => void
   icon?: LucideIcon
   iconSlot?: React.ReactNode
   iconStatic?: TriggerSafeNode

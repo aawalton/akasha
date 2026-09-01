@@ -18,7 +18,7 @@ export interface BadgeToggleGroupItem {
 export interface BadgeToggleGroupProps {
   items: readonly BadgeToggleGroupItem[]
 
-  onSelect: (value: readonly BadgeToggleGroupItem[]) => undefined
+  onSelect: (value: readonly BadgeToggleGroupItem[]) => void
 
   value: readonly BadgeToggleGroupItem[]
 

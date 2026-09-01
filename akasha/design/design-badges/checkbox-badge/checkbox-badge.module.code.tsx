@@ -8,7 +8,7 @@ import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
 
 interface CheckboxBadgeProps {
   checked: boolean
-  onChange?: (checked: boolean) => undefined
+  onChange?: (checked: boolean) => void
   variant?: BadgeVariant
   "aria-label"?: string
   className?: string

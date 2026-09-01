@@ -21,7 +21,7 @@ function LinkBadge({
   ...anchorProps
 }: React.ComponentProps<"a"> &
   VariantProps<typeof badgeVariants> & {
-    onRemove?: () => undefined
+    onRemove?: () => void
     removeLabel?: string
     frontAction?: React.ReactNode
     truncate?: "fixed" | "fluid"

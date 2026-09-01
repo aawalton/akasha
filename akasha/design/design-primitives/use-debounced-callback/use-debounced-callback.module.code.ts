@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useRef } from "react"
 
 export function useDebouncedCallback<A extends unknown[]>(
-  fn: (...args: A) => undefined,
+  fn: (...args: A) => void,
   delay: number
 ): (...args: A) => undefined {
   const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null)

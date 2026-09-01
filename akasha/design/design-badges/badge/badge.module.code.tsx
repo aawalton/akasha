@@ -77,7 +77,7 @@ function BadgeRemove({
   className,
 }: {
   focusable?: boolean
-  onRemove: () => undefined
+  onRemove: () => void
   removeLabel?: string
   className?: string
 }) {
@@ -150,7 +150,7 @@ function Badge({
 }: React.ComponentProps<"span"> &
   VariantProps<typeof badgeVariants> & {
     asChild?: boolean
-    onRemove?: () => undefined
+    onRemove?: () => void
     removeLabel?: string
     frontAction?: React.ReactNode
     truncate?: "fixed" | "fluid"

@@ -28,7 +28,7 @@ function ButtonBadge({
   ...buttonProps
 }: Omit<React.ComponentProps<"button">, "type"> &
   VariantProps<typeof badgeVariants> & {
-    onRemove?: () => undefined
+    onRemove?: () => void
     removeLabel?: string
     frontAction?: React.ReactNode
     truncate?: "fixed" | "fluid"

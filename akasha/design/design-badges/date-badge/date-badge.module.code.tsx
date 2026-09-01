@@ -12,7 +12,7 @@ interface DateBadgeProps {
   label: string
   value: string | null
   editable?: boolean
-  onDateChange?: (date: string | null) => undefined
+  onDateChange?: (date: string | null) => void
   variant?: BadgeVariant
   clearable?: boolean
   removeLabel?: string
@@ -60,7 +60,7 @@ function DateBadgeEditable({
 }: {
   label: string
   value: string | null
-  onDateChange?: (date: string | null) => undefined
+  onDateChange?: (date: string | null) => void
   variant?: BadgeVariant
   clearable?: boolean
   removeLabel?: string

@@ -6,7 +6,7 @@ type HostEntry = {
 }
 
 const hosts = new Map<string, ComponentType>()
-const listeners = new Set<() => undefined>()
+const listeners = new Set<() => void>()
 
 function snapshotOf(): readonly HostEntry[] {
   return Array.from(hosts, ([id, component]) => ({ id, component }))
@@ -33,7 +33,7 @@ export function capabilityHostEntries(): readonly HostEntry[] {
   return entrySnapshot
 }
 
-function subscribe(listener: () => undefined): () => undefined {
+function subscribe(listener: () => void): () => undefined {
   listeners.add(listener)
   return () => {
     listeners.delete(listener)
