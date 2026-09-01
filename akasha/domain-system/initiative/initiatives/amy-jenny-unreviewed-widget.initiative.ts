@@ -21,7 +21,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The design packages stand in akasha.",
       workingMemory:
-        "design-primitives stands and 360 files reach it, but 36 inside akasha still reach `@shared`: badges 9, forms 10, layout 15, sms-opt-in 1. Its carry is faithful under akasha's own rules, so `undefined` at keyboard-registry:18 stays. design-system holds no `.ts` at all and would be refused all ten dependencies it names; design-patterns is held by a barrel re-exporting two siblings. 16 dependencies go unnamed across the three landed. The blindness has two halves and one widens safely, see finding.",
+        "The `.tsx` half of the manifest blindness is widened at `abc9d4d18f`, the check's own refusal set 11 before and 11 after, and the 16 dependencies are named. A third half stands: it reads no `.css`, so design-system's two fontsource names cannot be reached however far `.tsx` widens, while its other two are simply dead. Lanes hold that half with design-system, design-patterns' barrel, and the 36 reaches inside akasha still on `@shared/design-primitives`.",
     },
     {
       statement: "`pages-ui` stands in akasha.",
