@@ -1,0 +1,81 @@
+:root {
+  --readout-rung-black: #1c1c1e;
+  --readout-rung-red: #ff3b30;
+  --readout-rung-orange: #ff9500;
+  --readout-rung-yellow: #ffcc00;
+  --readout-rung-green: #34c759;
+  --readout-rung-blue: #0a84ff;
+  --readout-ring-groove: #3a3a3c;
+  --readout-ring-size: 120px;
+}
+
+.readout-ring {
+  --readout-ring-arc: var(--readout-ring-groove);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0;
+}
+
+.readout-ring[data-rung="black"] {
+  --readout-ring-arc: var(--readout-rung-black);
+}
+
+.readout-ring[data-rung="red"] {
+  --readout-ring-arc: var(--readout-rung-red);
+}
+
+.readout-ring[data-rung="orange"] {
+  --readout-ring-arc: var(--readout-rung-orange);
+}
+
+.readout-ring[data-rung="yellow"] {
+  --readout-ring-arc: var(--readout-rung-yellow);
+}
+
+.readout-ring[data-rung="green"] {
+  --readout-ring-arc: var(--readout-rung-green);
+}
+
+.readout-ring[data-rung="blue"] {
+  --readout-ring-arc: var(--readout-rung-blue);
+}
+
+.readout-ring-dial {
+  width: var(--readout-ring-size);
+  height: var(--readout-ring-size);
+}
+
+.readout-ring-track {
+  fill: none;
+  stroke: var(--readout-ring-groove);
+}
+
+.readout-ring-arc {
+  fill: none;
+  stroke: var(--readout-ring-arc);
+  stroke-linecap: round;
+}
+
+.readout-ring-caption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.125rem;
+}
+
+.readout-ring-value {
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.readout-ring-unit {
+  font-size: 0.75rem;
+  opacity: 0.7;
+}
+
+.readout-ring-label {
+  font-size: 0.875rem;
+}

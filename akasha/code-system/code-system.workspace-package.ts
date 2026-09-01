@@ -13,6 +13,7 @@ export const codeSystem = {
     "page-type/ios-harness",
     "page-type/ios-program",
     "page-type/shell-script",
+    "page-type/stylesheet",
     "page-type/workspace-package",
     "module/body-text",
     "module/code-specifier",
