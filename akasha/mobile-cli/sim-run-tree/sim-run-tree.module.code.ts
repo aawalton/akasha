@@ -1,7 +1,7 @@
-import { execFileSync } from "node:child_process"
 import { existsSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { InputError } from "@akasha/errors-core/exit-code"
+import { said } from "@akasha/utils-run/running"
 import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
 import {
   type MobileApp,
@@ -45,14 +45,8 @@ export function simRunNativeShellDir(app: MobileApp): string {
 }
 
 export function stampCommitOf(repoRoot: string, paths: readonly string[]): string {
-  const head = execFileSync("git", ["-C", repoRoot, "rev-parse", "HEAD"], {
-    encoding: "utf8",
-  }).trim()
-  const uncommitted = execFileSync(
-    "git",
-    ["-C", repoRoot, "status", "--porcelain", "--", ...paths],
-    { encoding: "utf8" }
-  ).trim()
+  const head = said(["git", "-C", repoRoot, "rev-parse", "HEAD"]).trim()
+  const uncommitted = said(["git", "-C", repoRoot, "status", "--porcelain", "--", ...paths]).trim()
   return uncommitted === "" ? head : `${head}-dirty`
 }
 
