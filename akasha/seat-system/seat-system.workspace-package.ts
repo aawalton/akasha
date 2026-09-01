@@ -10,6 +10,7 @@ export const seatSystem = {
     "page-type/seat",
     "page-type/subagent",
     "module/seat-launching",
+    "module/seat-name-claim",
     "module/seat-naming",
     "module/seat-reading",
     "module/seat-stating",
