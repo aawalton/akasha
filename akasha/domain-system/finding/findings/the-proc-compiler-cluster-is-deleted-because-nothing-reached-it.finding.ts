@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theProcCompilerClusterIsDeletedBecauseNothingReachedIt = {
+  id: "01a05c99-009a-75dc-bac1-a56632d9cba5",
+  pageTypeSlug: "finding",
+  slug: "the-proc-compiler-cluster-is-deleted-because-nothing-reached-it",
+  domainSlug: "domain/alan-harness",
+  claim:
+    "All four packages of the proc compiler cluster are deleted at ca8ed512c3 rather than repaired and carried into akasha. Nothing outside the four reached any of them, the one entry point could not run, and the plpgsql it compiles has no destination: this repo holds no SQL file, no migration directory and no mention of set_updated_at outside the cluster. The compiler does work when pointed at the right source, so what was dropped functioned. It was simply wanted by nothing.",
+  evidence:
+    "Settles the earlier finding by acting rather than restating it.\n\nReach, measured two ways over every tracked file and every untracked unignored one: no file outside the four names any of them, by package name or by relative path. proc-compiler held 3 inbound edges, all from triggers-proc and triggers-proc-compiler, so deleting those three left it at 0 as well. No tsconfig outside the cluster referenced them: the root solution build's 40 references never reached them, so the tree build never typechecked them and they could rot unnoticed. No shell script, systemd unit, Dockerfile, YAML, infra/ci-workflows file or package.json script named compile-trigger-proc. The repo carries no .github folder and no Makefile.\n\nBroken, proven by running it at HEAD before any move: bun shared/triggers-proc-compiler/src/bin/compile.ts set-updated-at exited 1 with ENOENT on shared/proc/src/set-updated-at.ts, because resolveProcSourcePath resolved two levels up to a shared/proc package that does not exist.\n\nNo destination for its output: the repo holds 0 files ending .sql, no migrations directory, no CREATE TRIGGER anywhere, and set_updated_at appears nowhere outside the cluster. Whatever maintains that function in Postgres sits outside this repo, and this was not the path to it.\n\nWhat argued against deleting, tested rather than assumed: driving compileSource at the correct source emits valid plpgsql and exits 0, so the tool works and the one-line repair would have been real. A working build-time compiler with no runner, no consumer and nowhere to put its output is still reached by nothing, and git keeps it.",
+} as const satisfies Finding
