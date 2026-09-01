@@ -8,7 +8,11 @@ export const amyJennyUnreviewedWidget = {
   personaSlug: "amy",
   parentSlug: "akasha-migration",
   intents: [
-    { statement: "No file imports `@shared/pages-query`." },
+    {
+      statement: "No file imports `@shared/pages-query`.",
+      workingMemory:
+        "The package is already gone; 111 files still import it, so none of them build. Heaviest: alanwalton/web 28, shared/pages-access 27, tools/lib 20, shared/status-bar-access 11. What replaces it is the page store: POST /ask taking pageTypeSlug, where, keys, sortBy, descending, limit and offset and answering rows; POST /write taking writer, message, puts and removes. A pod reaches it at page-store.page-store.svc.cluster.local on 8787, a workstation at 100.64.0.4:8787.",
+    },
     {
       statement:
         "A package reaches another package by the name its manifest states rather than by a path.",
