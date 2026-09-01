@@ -63,9 +63,14 @@ export const seat = {
     "text-property/transcript-path",
   ],
   properties: [
-    { pagePropertySlug: "persona-slug", required: true, many: false },
-    { pagePropertySlug: "assignment-slug", required: true, many: false },
-    { pagePropertySlug: "role-slug", required: true, many: false },
+    { pagePropertySlug: "persona-slug", required: true, many: false, default: "claude" },
+    {
+      pagePropertySlug: "assignment-slug",
+      required: true,
+      many: false,
+      default: "domain/akasha-system",
+    },
+    { pagePropertySlug: "role-slug", required: true, many: false, default: "worker" },
     { pagePropertySlug: "person-slug", required: false, many: false },
     { pagePropertySlug: "principal-seat-name", required: false, many: false },
     { pagePropertySlug: "start-mode", required: true, many: false },
