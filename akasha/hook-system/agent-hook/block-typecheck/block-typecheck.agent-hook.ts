@@ -32,10 +32,6 @@ export const blockTypecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A call running outside the repository this hook stands in is let through.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A prefix that only runs the call behind it does not hide a `tsc` from this.",
     },
     {

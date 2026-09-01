@@ -27,10 +27,6 @@ export const blockAkashaReads = {
       statement: "A read thrown away records nothing.",
     },
     {
-      invariantKind: "departure",
-      statement: "A call running outside the repository this hook stands in is let through.",
-    },
-    {
       invariantKind: "absence",
       statement: "The index is no page.",
     },
