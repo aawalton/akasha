@@ -27,7 +27,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "The router is severed at `4c1f05a264`, so what is left is the store protocol under it. `api.claude-usage` is migrated at `73dfc5bb6e` and undeployed. Five lanes run: pages-access, the akasha leaves, Alan's site, tools and collections, and rehoming `where-testing` so the new service stops importing the old package. `askNamed` and `askTaking` refuse at 501, which kills every saved query. Writes refuse, and `sms-discard` still swallows that refusal.",
+        "All five lanes landed; reaches fell from 105 files to 49, mostly stubs that say so out loud. Correction worth keeping: only KEYED writes refuse for good. The file verbs work, and the new service's `/write` takes puts under `akasha/`, which is what the device-secret writes moved onto. `sms-discard` shouts before answering now. `capture-error` did regress, since akasha declares no `error` page type and five web apps call it.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
