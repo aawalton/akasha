@@ -1,6 +1,13 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { type Asked, asking, meets, type Query } from "./page-asking.module.code.ts"
+import {
+  type Asked,
+  askedFor,
+  asking,
+  keysOf,
+  meets,
+  type Query,
+} from "./page-asking.module.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..", "..")
 
@@ -180,4 +187,61 @@ test("an ordering test over nothing held keeps nothing", () => {
 test("a test stating nothing is refused rather than narrowing nothing", () => {
   const asked = over({ slug: {} })
   expect("refused" in asked && asked.refused).toContain("where.slug")
+})
+
+test("a where naming a key the page type declares nothing for is refused", () => {
+  const asked = asking(root, {
+    pageTypeSlug: "invariant-kind",
+    where: { "not-a-key": { is: "gap" } },
+  })
+  expect("refused" in asked && asked.refused).toContain("`where` names `not-a-key`")
+})
+
+test("a sortBy naming a key the page type declares nothing for is refused", () => {
+  const asked = asking(root, { pageTypeSlug: "invariant-kind", sortBy: "not-a-key" })
+  expect("refused" in asked && asked.refused).toContain("`sortBy` names `not-a-key`")
+})
+
+test("a keys entry naming a key the page type declares nothing for is refused", () => {
+  const asked = asking(root, { pageTypeSlug: "invariant-kind", keys: ["slug", "not-a-key"] })
+  expect("refused" in asked && asked.refused).toContain("`keys` names `not-a-key`")
+})
+
+test("a refusal names the keys the page type does declare", () => {
+  const asked = asking(root, { pageTypeSlug: "invariant-kind", sortBy: "not-a-key" })
+  expect("refused" in asked && asked.refused).toContain("slug")
+  expect("refused" in asked && asked.refused).toContain("invariants")
+})
+
+test("a key spelt as its property slug rather than its own key is refused", () => {
+  const asked = asking(root, { pageTypeSlug: "invariant-kind", keys: ["invariant-group-slug"] })
+  expect("refused" in asked && asked.refused).toContain("invariant-group-slug")
+})
+
+test("a declared key no page of the type carries is answered rather than refused", () => {
+  const rows = rowsOf(asking(root, { pageTypeSlug: "invariant-kind", keys: ["cover"] }))
+  expect(rows.length).toBeGreaterThan(0)
+  for (const one of rows) expect(one.cover).toBeUndefined()
+})
+
+test("a key a type above declares is a key of the type below", () => {
+  const keys = keysOf(root, "invariant-kind")
+  expect(keys.has("slug")).toBe(true)
+  expect(keys.has("definition")).toBe(true)
+  expect(keys.has("invariantGroupSlug")).toBe(true)
+})
+
+test("what a query asks for is every key it names, each under where it named it", () => {
+  const wanted = askedFor({
+    pageTypeSlug: "invariant-kind",
+    where: { slug: { is: "gap" } },
+    sortBy: "slug",
+    keys: ["slug", "definition"],
+  })
+  expect(wanted).toEqual([
+    ["slug", "where"],
+    ["slug", "sortBy"],
+    ["slug", "keys"],
+    ["definition", "keys"],
+  ])
 })

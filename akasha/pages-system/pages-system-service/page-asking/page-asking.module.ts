@@ -42,6 +42,26 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "A key the page type declares nothing for is refused rather than left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key is refused wherever a question names it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the keys the page type does declare.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The keys a page type declares are its own and those of every page type above it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key is what a property page states rather than the slug reaching it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A row holds the keys the question names.",
     },
     {
@@ -51,6 +71,11 @@ export const pageAsking = {
     {
       invariantKind: "departure",
       statement: "A key a page does not carry stands in no row.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key the page type declares that no page carries is answered rather than refused.",
     },
     {
       invariantKind: "departure",

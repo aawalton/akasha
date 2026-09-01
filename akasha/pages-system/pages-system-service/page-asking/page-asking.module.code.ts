@@ -1,5 +1,6 @@
 import { listedAt, valuesOfType } from "@akasha/indexes"
 import { matches, weigh } from "@akasha/pages-query/where-testing"
+import { propertiesFrom, sourceAmong, sourceIn } from "@akasha/pages-system/page-type-properties"
 import type { Value } from "@akasha/pages-system/page-value"
 
 const PAGE_TYPE = "page-type"
@@ -72,6 +73,35 @@ function unrun(where: Readonly<Record<string, Test>> | undefined): string | null
   return null
 }
 
+export function keysOf(root: string, pageTypeSlug: string): ReadonlySet<string> {
+  const source = sourceAmong(
+    valuesOfType(root, PAGE_TYPE).map((one) => one.value),
+    sourceIn(root, () => null)
+  )
+  return new Set(propertiesFrom(pageTypeSlug, source).map((one) => one.key))
+}
+
+export function askedFor(query: Query): readonly (readonly [string, string])[] {
+  const wanted: (readonly [string, string])[] = []
+  if (query.where !== undefined) {
+    for (const key of Object.keys(query.where)) wanted.push([key, "where"])
+  }
+  if (query.sortBy !== undefined) wanted.push([query.sortBy, "sortBy"])
+  if (query.keys !== undefined) for (const key of query.keys) wanted.push([key, "keys"])
+  return wanted
+}
+
+function unkeyed(root: string, query: Query): string | null {
+  const wanted = askedFor(query)
+  if (wanted.length === 0) return null
+  const keys = keysOf(root, query.pageTypeSlug)
+  for (const [key, at] of wanted) {
+    if (keys.has(key)) continue
+    return `\`${at}\` names \`${key}\`, and the \`${query.pageTypeSlug}\` page type declares no such key. the keys are ${[...keys].sort().join(", ")}`
+  }
+  return null
+}
+
 function narrows(value: Value, where: Readonly<Record<string, Test>> | undefined): boolean {
   if (where === undefined) return true
   for (const [key, test] of Object.entries(where)) if (!meets(value, key, test)) return false
@@ -100,6 +130,8 @@ export function asking(root: string, query: Query): Asked {
   if (listedAt(root, PAGE_TYPE, query.pageTypeSlug).length === 0) {
     return { refused: `\`${query.pageTypeSlug}\` names no page type the index holds` }
   }
+  const unnamed = unkeyed(root, query)
+  if (unnamed !== null) return { refused: unnamed }
   const held = valuesOfType(root, query.pageTypeSlug).filter((one) =>
     narrows(one.value, query.where)
   )
