@@ -266,8 +266,8 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
     return carried(`${outside.calledAs} takes a command, and none was named.`)
   }
   const type = commandSlugIn(root)
-  const standing = type === null ? [] : listedAt(root, type, named)
-  const first = standing[0]
+  const found = type === null ? [] : listedAt(root, type, named)
+  const first = found[0]
   if (first === undefined) {
     return carried(
       unread === null
@@ -275,10 +275,10 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
         : `\`${named}\` was looked for and not read.`
     )
   }
-  if (standing.length > 1) {
-    const among = standing.map((one) => `  ${one.path}`).join("\n")
+  if (found.length > 1) {
+    const among = found.map((one) => `  ${one.path}`).join("\n")
     return refusing(
-      `\`${named}\` is carried by ${standing.length} commands, so this names more than one:\n${among}`
+      `\`${named}\` is carried by ${found.length} commands, so this names more than one:\n${among}`
     )
   }
   return answeredBy(named, first.path, root, argv.slice(1), outside)
