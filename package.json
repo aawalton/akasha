@@ -49,6 +49,7 @@
     "akasha/service-system",
     "akasha/sms-access",
     "akasha/sms-core",
+    "akasha/ssh-access",
     "akasha/testing-system",
     "akasha/tower-core",
     "akasha/tower-engine",

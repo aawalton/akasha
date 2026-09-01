@@ -444,6 +444,13 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/ssh-access": {
+      "name": "@akasha/ssh-access",
+      "dependencies": {
+        "@shared/errors-core": "workspace:*",
+        "@shared/utils-fs": "workspace:*",
+      },
+    },
     "akasha/testing-system": {
       "name": "@akasha/testing-system",
     },
@@ -4038,6 +4045,8 @@
     "@akasha/sms-access": ["@akasha/sms-access@workspace:akasha/sms-access"],
 
     "@akasha/sms-core": ["@akasha/sms-core@workspace:akasha/sms-core"],
+
+    "@akasha/ssh-access": ["@akasha/ssh-access@workspace:akasha/ssh-access"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
 
