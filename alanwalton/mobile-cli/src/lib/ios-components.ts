@@ -1,8 +1,8 @@
 import { InputError } from "@shared/errors-core/exit"
-import { alanwaltonDecodeHarness } from "../../../../akasha/code-system/ios-program/ios-programs/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts"
-import { alanwaltonWidget } from "../../../../akasha/code-system/ios-program/ios-programs/alanwalton-widget/alanwalton-widget.ios-program.ts"
-import { smilingjennyDecodeHarness } from "../../../../akasha/code-system/ios-program/ios-programs/smilingjenny-decode-harness/smilingjenny-decode-harness.ios-program.ts"
-import { smilingjennyWidget } from "../../../../akasha/code-system/ios-program/ios-programs/smilingjenny-widget/smilingjenny-widget.ios-program.ts"
+import { alanwaltonDecodeHarness } from "@akasha/code-system/ios-program/alanwalton-decode-harness"
+import { alanwaltonWidget } from "@akasha/code-system/ios-program/alanwalton-widget"
+import { smilingjennyDecodeHarness } from "@akasha/code-system/ios-program/smilingjenny-decode-harness"
+import { smilingjennyWidget } from "@akasha/code-system/ios-program/smilingjenny-widget"
 
 /**
  * Which components a program compiles is stated on its akasha ios-program page and

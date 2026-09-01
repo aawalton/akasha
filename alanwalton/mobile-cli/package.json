@@ -2,9 +2,10 @@
   "name": "@alanwalton/mobile-cli",
   "functionalType": "program",
   "dependencies": {
+    "@akasha/code-system": "workspace:*",
     "@shared/errors-core": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
-    "@shared/utils-fs": "workspace:*",
+    "@akasha/utils-fs": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@shared/utils-process": "workspace:*",
     "zod": "^4.3.6"

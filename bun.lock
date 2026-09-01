@@ -566,6 +566,7 @@
       "name": "@alanwalton/mobile-cli",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/code-system": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/utils-fs": "workspace:*",
