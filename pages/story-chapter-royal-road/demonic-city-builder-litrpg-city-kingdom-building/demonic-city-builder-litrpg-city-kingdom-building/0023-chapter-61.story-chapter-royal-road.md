@@ -1,0 +1,303 @@
+---
+id: 07abf1af-7799-54e7-bbef-6ba57bd809bb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61"
+slug: 0023-chapter-61
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 23
+ownLength: 3226
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3893632/chapter-61"
+royalRoadId: "3893632"
+---
+
+Kairon stood near the clay spreadsheets, studying the numbers. He had his black-scaled arms crossed, nose scrunched in concentration.
+
+To his side, Shiny did the same. Small claws crossed, orange pupils focusing.
+
+“I told you it was the right choice,” said Kairon.
+
+“Yes. Agreed. Just say rookery important,” replied Shiny.
+
+Putting point to number, Kairon re-checked his status page.
+
+Four days ago, the first camp was upgraded to a rookery. Since then, they added a second rookery, two more ashroot plots, and another feeding pit.
+
+That last choice had taken the most explaining. Just to make sure it settled in, Kairon waved a claw at Shiny.
+
+“Do you understand what I meant in regards to the second feeding pit?”
+
+Shiny nodded. “Yes. Not enough space. Needed more. Fourth plot. Big harvest.”
+
+“Exactly! Even with that third ashroot plot, we will barely have enough time to fully process all the raw food by the time our next harvest comes in a few days. And that’s not accounting for the corrupted wood we need to keep funneling in for gold.”
+
+The feeding pit could handle a capacity of twenty-five units. For materials like ashroot and timber, those could be done in eight hour batches. Which meant seventy-five a day all told.
+
+In the last half a week, they’d chewed through a mountain of material. Fifty raw food, and twenty raw corrupted timber in per day, with two hundred processed food and seventy gold in return.
+
+Going forward, they could now double that allotment with the addition of the second feeding pit. Casting his gaze out over the city, Kairon grinned in satisfaction.
+
+“This, Shiny, is the start of what I would call our own demonic industry.” Only instead of smokestacks, twin maws rose upwards, their stony teeth chewing and void-like throats digesting. Their sounds had grown a part of the city. Sort of like great beasts lived beneath it. Kairon found it brought a certain charm.
+
+“And over there, we even have the start of a skyline!” he said, waving a claw at the opposite side of the city. Where he pointed, the two rookeries towered over a collection of shabby camps. Even the walls looked small behind them, the twin structures of corrupted wood marring the skyline. Both had a truly demonic aura, with spider webs of orange veins organically infused throughout the timber paneling. They pulsed rhythmically, some unseen energy keeping the imps inside cozy and warm.
+
+“Once we find the time to pursue some vein brands, we’ll get some proper roads and carts in here too. Then we’ll really have ourselves a city, Shiny. We really will,” he breathed.
+
+“City! Our city, master.”
+
+He looked over, fangs glinting. “Indeed, my friend. Our city. It needs a name, by the way. Start thinking of one.”
+
+“Shiny?” tried his supervisor.
+
+“Not quite what I had in mind.”
+
+Three approaching imps caught their attention. Nod at the lead, with both of his DR department assistants.
+
+“Master!” said Nod. “When new food?”
+
+“Hmm? You don’t like the ashroot?”
+
+“Is good… but…” Nod turned to his assistants. “Bob. Report!”
+
+Bob spoke up, chin going up and down. “Yes m-manager Nod.” He cleared his throat. “Many warrior and brood. Agree. Want new food.” He glanced down at a piece of bark he was holding, with nondescript scratches on it. “Taste and texture. Temperature too.”
+
+Kairon chewed his lip. “So they want meal variety, not just sustenance. Maybe that’s why fervor won’t seem to surpass 69%... Another item for the sheet. Log it. I’ll see what we can do. Food likely comes from brood, which means we’d need a brood brand for some kind of kitchens or the like…” he mused aloud.
+
+As he thought, Nod motioned at his other assistant. Hastily, Shake grabbed one of the thin sticks waiting near the side of the clay sheet and began marking a new column. “Quickly. Make sure firm,” reminded Nod. “Good. Good. Now, next. Log violations. Warrior Wolf. Misused hearth.”
+
+From the side, Bob crossed his arms and snorted. “Yes! Tried burn ashroot! In fire! Thought funny! Stupid, stupid, stupid!”
+
+“Also Ram. Start fight with Boney. Created…” Nod looked at Kairon, who gave him an encouraging nod. “Residential disturbance.”
+
+The city lord put his claws on his hips. “Is that our only one this week?”
+
+Nod looked to his two assistants. Both paused, thought for a moment, before giving a claws up. “Yes master!”
+
+“Good, good. Remember, our residential disturbance rate must be less than five percent. With our population, we’re actually well below that threshold finally. Though, part of that may be due to how many warriors are currently out on missions.”
+
+Before the rookeries, they weren’t even tracking such a metric. Kairon, however, was fairly certain it was substantially beyond what was allowed by demonic regulation.
+
+Was. Not any longer, however.
+
+“How about our maintenance checks?” he asked, moving on.
+
+Nod looked down at the sheet. “Two instances… Minor damage. Residential.”
+
+“Cause?”
+
+“Undetermined. Crack in bunk… And charred wood.”
+
+“Burned?” hissed Kairon. “Where?”
+
+Nod held his claws up placatingly. “Not big. Small. Just near hearth.”
+
+“I swear, I knew those things were going to be a litigation nightmare the moment we got them. Nod, have you put up those rules we discussed?”
+
+“Yes, but… Imps get excited. Fire bright. Warm. Fun.”
+
+“If only we had a proper forge district. Then perhaps we could make some safety grating,” sighed Kairon. “For now, do your best, please. If we have repeat offenders you are able to identify, make sure I hear about it.”
+
+“Yes master!”
+
+He rubbed a claw under his chin. “Nod, make sure you let me know if you need more DR department members. I want to start inspecting the training grounds. Not inside, but for weapons. Proper storage of war instruments is imperative.” The demon thought back to the code sections pertaining to this. “Blades not in use must be stored at all times. Basically, stored is defined as being put in a stationary position and held in place by any reliable means, as well as kept out of travel ways, common rooms, and residential areas. Also, general instruments of violence, such as clubs, staves, and non bladed weapons must have some measure of organization. Piled is fine, but it must be by type. Understood?”
+
+“Got it!”
+
+“Good, good.” Kairon went back through everything he read, trying to see if there was anything he and Nod hadn’t yet covered in their meetups. “I think that’s all for now. We can adjourn for tonight. Until tomorrow, my friends. I need to get back to the tower. Bean’s meeting me there shortly.”
+
+“Touch base!” chimed Nod.
+
+Kairon patted the imp in approval. “Correct. We’ll touch base tomorrow on this.”
+
+“Tomorrow!” agreed Nod and Shiny together.
+
+With that, Kairon bade his farewell.
+
+***
+
+Once he got back inside the tower, Kairon found himself drawn to Veron. Observing the man, and hoping to perhaps find something Sythara hadn’t.
+
+Unfortunately, his inspection mirrored that of Sythara’s. Veron’s marbled, still form appeared like it had when the transformation first occurred. Pulses of violet and golden energy alike flowed into the torso, through the tangled network, and back out.
+
+Only, just like he’d described to Sythara, when he followed the trail with his mind sense… it didn’t lean into his dwindling pool of source energy. It ran off somewhere deeper that he couldn’t see.
+
+Like a filter, maybe? Or was Veron absorbing some of what came through? Maybe passing it elsewhere?
+
+Kairon really didn’t know—that ate at him.
+
+Pressing his claw to where Veron’s core was, the same notification appeared:
+
+A thought popped into his head. Denials gave information about their system. As did stress tests and bugs. And, as far as he knew, this was some sort of archaic and relatively unstable version of a system. So maybe…
+
+He selected N.
+
+Nothing happened.
+
+Again, he touched Veron. Got the notification. Selected N.
+
+Nothing happened.
+
+Again. Nothing. Again. Nothing.
+
+A familiar smirk coming over his lips, his button pressing began.
+
+It was on the sixth press that it happened. Kairon was just about to smash the button again when a message appeared.
+
+Huh. N&%.
+
+Nondescript symbols. This archaic source system spit that out at just a few short stopped query requests?
+
+He tried again, this time selecting Y.
+
+Back to pushing, he started spamming more requests. Memories of doing this exact tactic came back to his mind. The same way he’d gotten to this world.
+
+A few notifications later, another odd message appeared.
+
+Before he could even submit a new query, a new notification of garbled text came up.
+
+It’s like working with a broken system, and one that’s half awake. I’m literally seeing its behavior falter in real time!
+
+Grinning like a madman, he pressed, waited, and pressed. Each time the messages got odder and odder.
+
+His mental claw was just hovering over the Submit Query button when something flickered. The golden letters blinked. Flickered again. Then they disappeared entirely.
+
+Frowning, he prodded Veron trying to re-enable the connection. He felt something reach out, scrape against his mindscape… Seeing no reason to stop it, he didn’t shrink away, but mentally opened his arms.
+
+The moment he did so, several lines slammed into reality.
+
+“What in the system loving—host identified—Me?” he asked aloud.
+
+No reply.
+
+Of course it’s me. It has to be. As for this external influence, I’d wager it to be my previous affiliation with The Bureau & its system.
+
+Then he read the last two lines. Two unassuming, plain little messages of text.
+
+Kairon reeled back, gasping. They weren’t just text. They were more akin to dual stains of blood on a white dress.
+
+He closed his eyes and took a deep, long breath. Letting fresh air fill his chest. Kairon held it for a count of three.
+
+What came next took a moment to absorb. Finally, when he felt he was ready, he let himself open his eyelids.
+
+To his horror, the terrifying message was still there.
+
+Two sets of numbers, a letter, and a status readout. To any normal being, they meant nothing. But to Kairon, they meant everything.
+
+He shook his head violently, taking several steps away from Veron.
+
+27-A. 27-A?! Someone filed a system blasted 27-A? Nearly a month ago?! And if that wasn’t bad enough, they followed up with a 27-B?!
+
+Kairon didn’t even need to go back through his knowledge of The Bureau handbook. Those were infamous forms. Legendary, even.
+
+The 27-A must have been an investigation on me. My activities must have snagged someone’s attention and they got it in their head to escalate the matter.
+
+Typically, a 27-A form filing originated from one of the rapid response monitoring departments in The Bureau’s hierarchy. The form itself would have lots of red tape and layers to go through before anyone of note actually got it. But someone on the upper floors would get it. The Bureau made sure of it.
+
+That was bad. Very bad.
+
+But it paled in comparison to that last line.
+
+The 27-B. The 27-B. In all his time, Kairon himself had never even filed one. It was less a form and more a declaration. You might as well sign your own performance report as nonsensical and ship it straight to your supervisor’s doorstep. And then his supervisor, and the one above him too.
+
+A trickle of cold sweat ran down his spine. Kairon did his best to think logically for why it might have happened.
+
+The only reason I could think warranting following a 27-A up with a 27-B was if you needed to escalate the matter with some precarious upper-supervisor issues… Some that had already gone too far. If exposure was already out the window, and now it was more about shifting the blame.
+
+But that was a very dangerous game. Both for the ones that filed it, and now for him. Kairon, in all his knowledge and experience, really wasn’t sure what The Bureau would, or really even could do if they took action on that 27-B. He wasn’t sure where this realm was, and The Bureau probably didn’t know either.
+
+But if they find out…
+
+The thought was beyond terrifying.
+
+“Master! Here!” said Bean.
+
+Snapping back to the present, Kairon squealed. Taking a moment to collect himself, he turned around.
+
+Behind him, brown squad’s wrath leader and five other warriors came. The entire fist must have arrived during his internal musings.
+
+I’ll need to think on this. Later. Whatever is going to happen, the stronger my city is, the more options I’ll have.
+
+Taking a few measured breaths, he finished composing himself, and stood. He’d been getting better at imprinting voice commands through Sovereign Eye, a feat that seemed to get better as fervor rose higher and higher, but something like this would require cross-caste collaboration…
+
+Bean, observant as he’d become, caught the unease and distress on his master. “Master… Okay?” he asked worriedly.
+
+“Yes, yes. Master is fine. Thank you for asking.” He cleared his throat. “Anyway, listen up. Tonight is a very special project. Brown fist, I’ve asked Bean and his farmers to come out and help. They will be doing some digging. I’ve already instructed them how and where. Your job is to finish the imprints I told you about.”
+
+The wrath soldiers held up the old soldier’s boots, still sandy and stained from their use over the last several days.
+
+Kairon walked over to the clay war table, using the pointer stick to identify the three locations with black markings. Each was along a path that ran in an arc from the eastern forest to the pass leading into The Spines.
+
+“You are to start excavation at what I’m calling point A. Tomorrow, you will focus on B. And, finally, C on the day after. Bean, does that make sense?”
+
+“Yes master! Dig! Deep!”
+
+“And the sticks?”
+
+“Ready!” said another imp. They had bundles of sharpened wood, burned along the tips.
+
+“Master… I like Dig. But… Wonder why. Why dig there?” Bean inquired, pointing his little claw at the map.
+
+Kairon grinned. With a flick of his wrist, he pulled out the demonic regulatory compendium section of his audit notice, finding the correct passage.
+
+“Right, so what we are doing here is not just digging. It has two primary purposes. First, master has plans to deal with our upcoming guests.”
+
+“Ohhh,” said Bean. Around him, the other imps nodded.
+
+“Second,” stressed Kairon, “and this is the important bit, what we are doing…” he trailed off, eyes going down the page until he found the second major component of proving operation capacity for his plan, “is not just digging. We are enacting environmental containment. Specifically, we are doing so via loss prevention and sanitation excavation sites.”
+
+“Holes are… Containment?” asked Bean.
+
+“Exactly! The holes are containment sites that help with preventing the spread of corruption, and act as loss prevention tools.”
+
+Arguably, at least.
+
+“I see,” said Bean. “This good?”
+
+“Yes! Very good. Very important,” confirmed Kairon. “But… In order for us to claim this as such, each site needs to be at least five meters deep. To that end, outside the tower you’ll find several large sticks I had Shiny prepare. The hole needs to measure at least as deep as they are. Understood?”
+
+“Yes master!” chimed Bean.
+
+“Another thing—the number of holes needs to map a certain percentage of the area they are in to qualify as something we will refer to as regulatory operator status. I’ll help communicate this with check-ins as you work.”
+
+“Regulatory,” repeated Bean. “Got it!”
+
+“Oh! And one more thing. Bean, while you’re out there, I want you personally to do some… surveying. Think of it as… environmental measurement.”
+
+The little imp cocked his head. “How?”
+
+“Ah, nothing so extravagant. We just need measurements. I want you to estimate the number of steps between the thickest parts of the treeline and each dig site. Take some bark, and mark the numbers like I showed you.” Bean was about to pipe up, when another thought struck. “Also, I want you to identify at what depth the corruption becomes evident in each hole. And, as you make your trek, take note of the water color. Stick your claw into the channels, the ones I showed you before. Check the color. Like we used for farming, alright? Water quality sampling is very important.”
+
+As his master spoke, Bean’s eyes got wider and wider. When he finished, the little farm manager puffed his chest. “Leave to me! But… Master. I do this. Curious… Why? Lots changes… New…” He thought for a moment, before finding the right word. “New processes!”
+
+Around him, even the other imps looked curious. They rubbed their claws, watching their master closely.
+
+“Well, we have one war in front of us, as you all know. With these new processes, as you say, we aren’t just getting ready for it. But another war soon after.”
+
+For just a moment, his demonic eyes flicked to the blinking vault.
+
+“One I’m much more excited for,” he added.
+
+In the back of the room, the wrath soldiers had stood quietly this whole time. The leader of brown one stepped forward, banging claw to chest. “We do our part! Brown fist ready!”
+
+“Good. I’m counting on it.”
+
+***
+
+The dark sands and hellscape dirt flew behind as Boney sprinted. Tonight the moonlight was nearly nonexistent. So dark that only the speckled stars gave some measure of light. More than a league out as he was, the city was no more than a glowing purple and orange bead to his rear.
+
+Howling in glee, Boney dove under the next tree, scaled the one after, and flung himself to the next. He’d been practicing traversing the terrain as Vorathrex instructed. Not just by the ground, but whatever was offered.
+
+The pit had been an invaluable asset early on, its ground always shifting and terrain changing, but nothing could compare to moving through the hellscape in the pitch of night.
+
+Only, Boney wasn’t seeing with his eyes. He was… feeling. The warrior wasn’t sure how it worked, but each night he did this exercise, he got better and better.
+
+Inside his mind, he felt what should and should not be. He instinctively knew that if he just threw his body from this branch to the next, there was open air. And, paces in front, a new dying, corrupted tree to grapple on to.
+
+Embracing that feeling, the branch that moments ago was nothing more than an indescribable blur in the darkness thrummed into existence. An outline of vibrant orange laced in front of him, giving him a clear place to grab onto with his claws.
+
+“Rahhhh!” he shrieked, barreling through dead leaves and brush that still clung to the corrupted sapling, his claws finding a fur covered sack. Inside, his dinner waited.
+
+Grinning savagely, he sat and tore in.
+
+Unbeknownst to the little warrior, the lines of gold and crimson energy intertwined from him to the domain got a little bigger. And a little more flushed into his body. The feelings that allowed the warrior to see and move as he did got a little stronger. His muscles grew a little larger. And, somewhere deep in his mind, the drive for violence and destruction grew a smidge more… wrathful.
