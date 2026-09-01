@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const nothingTypechecksTheToolsFolderSoASignatureChangeLandsUnseen = {
+  id: "01a05be1-6c96-7149-b84f-27ed2e55f180",
+  pageTypeSlug: "finding",
+  slug: "nothing-typechecks-the-tools-folder-so-a-signature-change-lands-unseen",
+  domainSlug: "workspace-package/checks-system",
+  claim:
+    "The root `tsconfig.json` states `files: []` and lists only references, none of which reaches `tools/`, so nothing typechecks that folder. `landInAkasha` changed its parameter order and its return shape together; two of its four callers moved with it and two did not. The two that did not handed four arguments to a three-argument function and read three fields that no longer exist. Typecheck, lint and 3687 tests all stayed green while the credential push failed on every run for 35 hours.",
+  evidence:
+    '`tsconfig.json` at the root holds `"files": []` and 56 references. None names `tools`, so `tools/lib/oauth-page-push.ts` and `tools/lib/oauth-page-create.ts` are compiled by nothing. `tsc --noEmit -p tsconfig.json` exits 0 with both files broken; `tsc` over the two files directly reports the errors at once.\n\n`akasha-landing.ts` was rewritten at 45caf833bb, replacing `landInAkasha(root, writer, message, bodies)` answering `{ok, sha, why}` with `landInAkasha(writer, root, args)` answering an `Outcome` union. `seat-page-akasha.ts` and `subagent-page-akasha.ts` moved with it in that same commit. `oauth-page-push.ts:167` and `oauth-page-create.ts:96` did not.\n\n`.ok` on a union declaring no `ok` is `undefined`, so both callers took their refusal branch on every run and reported `landed.why`, also `undefined`. The journal carried the word itself: `the credential did not reach its page — ctw: undefined — the rotated pair is held beside the page`. A call never made and a landing judged and refused read alike.\n\nUpkeep kept renewing every token and failing to land it. The escape hatch held each rotated pair beside its page, so no account lost a credential, but `access-token-expires-at` is stamped only where a landing succeeds, so the stamp froze and the stall detector read all eight accounts as expired against a stamp that had stopped moving. First failure 2026-08-30T13:50:27-06:00, from an earlier and different cause; 75 failures across the two days.\n\nProved by re-landing the held pair for all eight, which pushed, and by the detector: `0 of 8 page(s) current` before, `8 of 8 page(s) current; 0 behind it, 0 could not be looked at` after.',
+} as const satisfies Finding
