@@ -21,10 +21,10 @@ export function filePageType(root: string, path: string, knowing: Knowing): read
   const above = known.above()
   while (here !== null && !walked.has(here)) {
     walked.add(here)
-    const standing = listedAt(root, PAGE_TYPE, here)[0]
-    const oid = standing === undefined ? null : blobAt(root, standing.path)
-    if (standing !== undefined && oid !== null) {
-      found.push({ path: standing.path, oid, owed: TYPE })
+    const listed = listedAt(root, PAGE_TYPE, here)[0]
+    const oid = listed === undefined ? null : blobAt(root, listed.path)
+    if (listed !== undefined && oid !== null) {
+      found.push({ path: listed.path, oid, owed: TYPE })
     }
     here = above.get(here) ?? null
   }
