@@ -12,7 +12,7 @@ import {
 import { reachesIn } from "@akasha/code-system/package-manifest"
 import { reachingInto } from "@akasha/graph-system/graph-asking"
 import { importEdge } from "@akasha/graph-system/import-edge"
-import { pageTypesIn } from "@akasha/indexes/entries"
+import type { Answering } from "@akasha/indexes/answering"
 import { waitingKeys } from "@akasha/indexes/generated-properties"
 import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "@akasha/pages-system/change"
@@ -90,12 +90,8 @@ export function omittingIn(path: string, text: string, keys: readonly string[]):
   return null
 }
 
-export function mintingIn(
-  change: Change,
-  keys: readonly string[],
-  given: string | Reading
-): Minting {
-  const pageTypes = keys.length === 0 ? null : pageTypesIn(given)
+export function mintingIn(change: Change, keys: readonly string[], index: Answering): Minting {
+  const pageTypes = keys.length === 0 ? null : index.pageTypesIn()
   return (path, text) => {
     if (pageTypes === null || !pageNamed(path, pageTypes)) return text
     if (change.before(path) !== null) return text
@@ -139,7 +135,7 @@ export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
   if (roots.length === 0) return []
   const root = resolve(change.root)
   const keys = [...waitingKeys(shadow)]
-  const read = bodiesOf(change, mintingIn(change, keys, shadow.reading))
+  const read = bodiesOf(change, mintingIn(change, keys, shadow.index))
   const program = programOver(root, roots, read)
   const held = new Map<string, ts.SourceFile>()
   for (const file of program.getSourceFiles()) {
