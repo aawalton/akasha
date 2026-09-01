@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/utils-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./inode-guard": "./inode-guard/inode-guard.module.code.ts",
+    "./memory-guard": "./memory-guard/memory-guard.module.code.ts",
+    "./worktree-paths": "./worktree-paths/worktree-paths.module.code.ts"
+  },
+  "dependencies": {
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
