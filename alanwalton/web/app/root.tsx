@@ -22,7 +22,7 @@ import {
 import type { Route } from "./+types/root"
 import "./globals.css"
 import "~/lib/capability-registrations"
-import { PagesUICapabilityHosts } from "@shared/pages-ui/capabilities/capability-hosts"
+import { PagesUICapabilityHosts } from "@akasha/pages-ui/capabilities/capability-hosts"
 import { NavCommands } from "~/components/nav-commands"
 import { StatusBarSync } from "~/components/status-bar-sync"
 

@@ -1,4 +1,4 @@
-import { registerPageDisplay } from "@shared/pages-ui/capabilities/page-display-registry"
+import { registerPageDisplay } from "@akasha/pages-ui/capabilities/page-display-registry"
 
 registerPageDisplay("idle", { offlineCapable: false })
 registerPageDisplay("awen", { offlineCapable: false })
