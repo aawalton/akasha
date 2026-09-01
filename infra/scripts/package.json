@@ -16,7 +16,6 @@
     "@akasha/pages-url": "workspace:*",
     "@shared/supabase-client": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
-    "@shared/verdict": "workspace:*",
     "@akasha/workspace-paths": "workspace:*",
     "typescript": "^5.8.3",
     "zod": "^4.3.6"

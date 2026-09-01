@@ -149,14 +149,6 @@
         "**/*.ts"
       ]
     },
-    "shared/verdict": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "shared/pages-query": {
       "entry": [
         "**/*.test.{ts,tsx}"

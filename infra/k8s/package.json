@@ -12,7 +12,6 @@
     "@infra/k8s-types": "workspace:*",
     "@shared/supabase-client": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
-    "@shared/verdict": "workspace:*",
     "cdk8s": "^2.70.60",
     "yaml": "^2.8.0",
     "zod": "^4.3.6"

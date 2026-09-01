@@ -22,9 +22,6 @@
       "path": "../../shared/utils-narrow"
     },
     {
-      "path": "../../shared/verdict"
-    },
-    {
       "path": "../k8s-types"
     }
   ]

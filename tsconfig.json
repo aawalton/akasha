@@ -112,9 +112,6 @@
       "path": "./shared/utils-narrow"
     },
     {
-      "path": "./shared/verdict"
-    },
-    {
       "path": "./shared/pages-ui/tsconfig.test.json"
     },
     {

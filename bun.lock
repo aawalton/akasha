@@ -609,6 +609,9 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/verdict": {
+      "name": "@akasha/verdict",
+    },
     "akasha/voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
@@ -1076,7 +1079,6 @@
         "@infra/k8s-types": "workspace:*",
         "@shared/supabase-client": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
-        "@shared/verdict": "workspace:*",
         "cdk8s": "^2.70.60",
         "yaml": "^2.8.0",
         "zod": "^4.3.6",
@@ -1152,7 +1154,6 @@
         "@infra/k8s": "workspace:*",
         "@shared/supabase-client": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
-        "@shared/verdict": "workspace:*",
         "typescript": "^5.8.3",
         "zod": "^4.3.6",
       },
@@ -1755,14 +1756,6 @@
       "peerDependencies": {
         "react": "^18 || ^19",
         "react-dom": "^18 || ^19",
-      },
-    },
-    "shared/verdict": {
-      "name": "@shared/verdict",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
       },
     },
     "smilingjenny/web": {
@@ -3982,6 +3975,8 @@
 
     "@akasha/utils-system": ["@akasha/utils-system@workspace:akasha/utils-system"],
 
+    "@akasha/verdict": ["@akasha/verdict@workspace:akasha/verdict"],
+
     "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
 
     "@akasha/web-build-sha": ["@akasha/web-build-sha@workspace:akasha/web-build-sha"],
@@ -4583,8 +4578,6 @@
     "@shared/utils-narrow": ["@shared/utils-narrow@workspace:shared/utils-narrow"],
 
     "@shared/utils-test": ["@shared/utils-test@workspace:shared/utils-test"],
-
-    "@shared/verdict": ["@shared/verdict@workspace:shared/verdict"],
 
     "@smilingjenny/native-shell": ["@smilingjenny/native-shell@workspace:akasha/code-system/ios-app/ios-apps/smilingjenny"],
 
