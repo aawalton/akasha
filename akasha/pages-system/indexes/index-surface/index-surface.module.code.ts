@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Filing, Listed, Reading } from "../index-shape/index-shape.module.code.ts"
+import type { Child, Filing, Reading } from "../index-shape/index-shape.module.code.ts"
 
 const ROOT = ""
 
@@ -141,7 +141,7 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
       const found = new Map<string, boolean>()
       for (const one of under.listing(at)) found.set(one.name, one.directory)
       for (const [name, directory] of added.get(at) ?? []) found.set(name, directory)
-      const said: Listed[] = []
+      const said: Child[] = []
       for (const [name, directory] of found) {
         if (thinned.has(at) && !stands(beneath(at, name))) continue
         said.push({ name, directory })
