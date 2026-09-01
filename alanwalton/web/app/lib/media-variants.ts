@@ -4,16 +4,29 @@ import { mediaRenderObjectKey } from "@akasha/object-store/object-store-key"
 import { getPage } from "@akasha/pages-access/get"
 import { type Page } from "@akasha/pages-core/page-types"
 import { MEDIA_FORMATS } from "@akasha/pages-core/media-formats"
-import { type Asked, askNamed } from "@shared/pages-query"
+import type { Asked, Query } from "@akasha/pages-system-service/asking"
+import { askingFor } from "@akasha/pages-system-service/calling"
 import { type MediaVariant } from "@shared/pages-ui/media/page-media-player"
 import { KOKORO_STREAM_LABEL, KOKORO_STREAM_VARIANT, STORED_READ_ALOUD_VARIANT } from "@akasha/pages-ui/media/media-src"
 import { getAvailableRenditions, pickDefaultVariant } from "@akasha/pages-ui/media/media-renditions"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { resolveReadAloudSentenceMarks } from "~/lib/read-aloud-marks"
 
-const VOICED_PERSONAS_QUERY = "persona-all"
-
 const READING_STORY_SLUG = "reading-story"
+
+// THE VOICED PERSONAS ARE ASKED OF THE PAGES RATHER THAN NAMED AT THE OLD ENGINE. This read the
+// `persona-all` saved query, and `askNamed` refuses with 501 now. `persona` is a page type the
+// pages system service holds and `voiceReferenceSha256` is a key it declares, so the same set
+// comes back from a question asked here. The filter still stands in `voicedPersonasIn` rather
+// than in the `where`: which personas carry a voice reference is the one thing this reads for,
+// and reading it off the rows keeps the refusal below able to tell an unread set from an empty
+// one.
+const VOICED_PERSONAS = "the personas carrying a voice reference"
+
+const EVERY_PERSONA_VOICE: Query = {
+  pageTypeSlug: "persona",
+  keys: ["slug", "voiceReferenceSha256"],
+}
 
 export function withKokoroFallback(
   variants: readonly MediaVariant[],
@@ -28,28 +41,26 @@ export function withKokoroFallback(
   }
 }
 
-export function voicedPersonasIn(asked: Asked): {
-  candidateSlugs: readonly string[]
-  displayNameBySlug: ReadonlyMap<string, string>
-} {
-  if (!asked.ok) {
-    throw new Error(
-      `\`${VOICED_PERSONAS_QUERY}\` went unread: ${asked.why} — the voiced personas are the whole set of voices this page offers, so carrying on without them would present a single fallback voice as everything there is`
-    )
+// A VOICE LIST THAT WENT UNREAD IS NOT A PAGE WITH ONE VOICE. The voiced personas are the whole
+// set of voices this page offers, so carrying on without them would present the single Kokoro
+// fallback as everything there is.
+//
+// The label a variant carries is the persona's slug. The old saved query read `title`, and the
+// persona page type in akasha declares no such key — it names a persona by slug — so the label is
+// what the old code already fell back to wherever a title was missing.
+export function voicedPersonasIn(asked: Asked): readonly string[] {
+  if ("refused" in asked) {
+    throw new Error(`${VOICED_PERSONAS} went unread: ${asked.refused}`)
   }
-  const displayNameBySlug = new Map<string, string>()
   const candidateSlugs: string[] = []
-  for (const row of asked.answer.rows) {
-    const sha256 = row.values["voice-reference-sha256"]
+  for (const row of asked.rows) {
+    const sha256 = row["voiceReferenceSha256"]
     if (typeof sha256 !== "string" || sha256.length === 0) continue
-    const slug = row.values["slug"]
+    const slug = row["slug"]
     if (typeof slug !== "string" || slug.length === 0) continue
-    const title = row.values["title"]
-    const voiceTitle = typeof title === "string" && title.length > 0 ? title : slug
-    if (!displayNameBySlug.has(slug)) displayNameBySlug.set(slug, voiceTitle)
     candidateSlugs.push(slug)
   }
-  return { candidateSlugs, displayNameBySlug }
+  return candidateSlugs
 }
 
 export async function resolveMediaVariants(args: { page: Page }): Promise<{
@@ -62,18 +73,13 @@ export async function resolveMediaVariants(args: { page: Page }): Promise<{
   const store = seaweedFSObjectStoreFromEnv()
   if (!store) return { variants: [], defaultVariant: null, sentenceMarks: [] }
 
-  const { candidateSlugs, displayNameBySlug } = voicedPersonasIn(
-    await askNamed(VOICED_PERSONAS_QUERY)
-  )
+  const candidateSlugs = voicedPersonasIn(await askingFor(EVERY_PERSONA_VOICE))
   const available = await getAvailableRenditions(store, {
     pageId: page.id,
     medium: "audio",
     candidates: candidateSlugs,
   })
-  const variants: MediaVariant[] = available.map((slug) => ({
-    id: slug,
-    label: displayNameBySlug.get(slug) ?? slug,
-  }))
+  const variants: MediaVariant[] = available.map((slug) => ({ id: slug, label: slug }))
 
   const storedReadAloud =
     available.length === 0 &&

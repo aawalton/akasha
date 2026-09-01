@@ -1,13 +1,22 @@
 import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
-import { askNamed } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import type { Query } from "@akasha/pages-system-service/asking"
+import { askingFor } from "@akasha/pages-system-service/calling"
 import { resolveServableImage, serveResolvedImage } from "~/lib/serve-image-object.server"
 import { orderedCoverCandidates, type PersonaCoverRow } from "~/lib/wallpaper-candidates"
 import type { Route } from "./+types/api.wallpaper"
 
 const PERSONA_PAGE_TYPE_SLUG = "persona"
 
-const PERSONA_QUERY = "persona-all"
+// TWO QUESTIONS BECAME ONE. This route asked the old engine for every persona's cover, then named
+// the `persona-all` saved query a second time only to read `last-messaged-at` off the same
+// personas. `askNamed` refuses with 501 now, and the stamp it fetched is `lastMessagedAt` on the
+// persona page type, which the pages system service answers alongside the cover. So one ask
+// carries both, and the ordering `orderedCoverCandidates` does — most recently messaged first —
+// is the ordering it did before.
+const EVERY_PERSONA_COVER: Query = {
+  pageTypeSlug: PERSONA_PAGE_TYPE_SLUG,
+  keys: ["id", "cover", "lastMessagedAt"],
+}
 
 function asStringOrNull(value: unknown): string | null {
   return typeof value === "string" ? value : null
@@ -17,27 +26,19 @@ export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   const store = seaweedFSObjectStoreFromEnv()
   if (store === null) return new Response("Object store unavailable", { status: 503 })
 
-  const askedPersonas = await askComposed({
-    "page-type": PERSONA_PAGE_TYPE_SLUG,
-    keys: ["id", "cover"],
-    limit: 1000,
-  })
-  if (!askedPersonas.ok) throw new Error(`api.wallpaper: ${askedPersonas.why}`)
-  const asked = await askNamed(PERSONA_QUERY)
-  const stampById = new Map<string, string>()
-  for (const row of asked.ok ? asked.answer.rows : []) {
-    const id = row.values["id"]
-    const stamp = row.values["last-messaged-at"]
-    if (typeof id === "string" && typeof stamp === "string") stampById.set(id, stamp)
+  const asked = await askingFor(EVERY_PERSONA_COVER)
+  // A REFUSAL IS NOT AN EMPTY WALLPAPER SET. Falling through to the 404 below would tell the
+  // caller there is no cover to draw, when what happened is that no cover was read.
+  if ("refused" in asked) {
+    return new Response(`The personas went unread: ${asked.refused}`, { status: 503 })
   }
 
-  const personaRows: PersonaCoverRow[] = askedPersonas.answer.rows.map((row) => {
-    const id = typeof row.values["id"] === "string" ? row.values["id"] : String(row.values["id"])
-    return {
-      id,
-      cover: asStringOrNull(row.values["cover"]),
-      lastMessagedAt: stampById.get(id) ?? null,
-    }
+  const personaRows: PersonaCoverRow[] = asked.rows.flatMap((row) => {
+    const id = asStringOrNull(row.id)
+    if (id === null) return []
+    return [
+      { id, cover: asStringOrNull(row.cover), lastMessagedAt: asStringOrNull(row.lastMessagedAt) },
+    ]
   })
 
   for (const coverPageId of orderedCoverCandidates(personaRows)) {
