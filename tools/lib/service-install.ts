@@ -62,7 +62,7 @@ export function ourInstalled(): readonly string[] {
     } catch {
       continue
     }
-    if (target.startsWith(`${ours}/`)) found.push(name)
+    if (target.startsWith(`${ours}/`) && carriesOurHeader(target)) found.push(name)
   }
   return found.sort()
 }
@@ -74,7 +74,10 @@ export function ourGenerated(): readonly string[] {
   } catch {
     return []
   }
-  return names.filter((name) => name.endsWith(".service") || name.endsWith(".timer")).sort()
+  return names
+    .filter((name) => name.endsWith(".service") || name.endsWith(".timer"))
+    .filter((name) => carriesOurHeader(`${unitsDir()}/${name}`))
+    .sort()
 }
 
 function carriesOurHeader(at: string): boolean {
