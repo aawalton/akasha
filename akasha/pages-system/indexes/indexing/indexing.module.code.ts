@@ -49,7 +49,11 @@ import {
   readingNone,
   readingOf,
 } from "../index-surface/index-surface.module.code.ts"
-import { reachingBuilt, reachingSettled } from "../package-reaching/package-reaching.module.code.ts"
+import {
+  reachingBuilt,
+  reachingSettled,
+  rereadOver,
+} from "../package-reaching/package-reaching.module.code.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
 
 const IDENTITY = indexIdentity.name
@@ -307,13 +311,17 @@ export function settlingOver(
   const left = held.flatMap((one) => (one.now === null ? [] : [one.now]))
   const fileProperties = new Map<string, string | null>([...filed, ...filePropertiesIn(left)])
   const naming = reachingSettled(reading, held, moving, repo, fileProperties)
+  const { was: wasNaming, reread } = rereadOver(reading, held, repo, fileProperties, naming)
+  const importing = [...held, ...reread]
 
   const imported = filingOf(
     reading,
-    held.flatMap((one) =>
-      one.before === null ? [] : importIn(one.before, one.path, repo, naming)
+    importing.flatMap((one) =>
+      one.before === null ? [] : importIn(one.before, one.path, repo, wasNaming)
     ),
-    held.flatMap((one) => (one.after === null ? [] : importIn(one.after, one.path, repo, naming)))
+    importing.flatMap((one) =>
+      one.after === null ? [] : importIn(one.after, one.path, repo, naming)
+    )
   )
 
   const nowSchema = held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now)))

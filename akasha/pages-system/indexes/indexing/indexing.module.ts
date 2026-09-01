@@ -91,6 +91,14 @@ export const indexing = {
       statement: "A name the withdrawal cannot resolve is reported rather than passed over.",
     },
     {
+      invariantKind: "departure",
+      statement: "An edge is withdrawn against where its specifier landed before the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The import filing covers importers the change does not carry.",
+    },
+    {
       invariantKind: "gap",
       statement: "A page the index cannot read is reported rather than answered as empty.",
     },

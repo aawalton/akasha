@@ -54,6 +54,29 @@ export const packageReaching = {
       statement: "A manifest the change carries is read as the change leaves the manifest.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Where a specifier landed before a change is read from the manifests as they were.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A manifest moving where a specifier lands answers with every importer of that specifier.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An importer is read off the index rather than found by walking the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An importer the change already carries is left out of that answer.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A specifier a manifest reaches anew answers with the importers that already name the specifier.",
+    },
+    {
       invariantKind: "absence",
       statement: "No specifier is resolved through `node_modules`.",
     },

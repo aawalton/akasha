@@ -3,11 +3,17 @@ import { basename, dirname, join } from "node:path"
 import type { Naming } from "@akasha/code-system/code-specifier"
 import { reachesIn, reachingOver } from "@akasha/code-system/package-manifest"
 import type { Value } from "@akasha/pages-system/page-value"
+import { indexImport } from "../index/index-import/index-import.index.ts"
 import { filePropertiesAt, pathsOf, under } from "../index-entries/index-entries.module.code.ts"
 import { everyPath } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
+import { readingOf } from "../index-surface/index-surface.module.code.ts"
 
 const MANIFEST = "manifest"
+
+const IMPORTS_AT = join(indexImport.name, "path")
+
+const ENDING = ".jsonl"
 
 const HELD = new Map<string, Naming>()
 
@@ -38,12 +44,19 @@ export function reachingOf(at: Iterable<string>, bodyAt: Body): Naming {
   return reachingOver(held)
 }
 
+export function manifestsIn(
+  paths: Iterable<string>,
+  fileProperties: ReadonlyMap<string, string | null>
+): readonly string[] {
+  return manifestsAmong(paths, fileProperties.get(MANIFEST) ?? null)
+}
+
 export function reachingIn(
   paths: Iterable<string>,
   fileProperties: ReadonlyMap<string, string | null>,
   bodyAt: Body
 ): Naming {
-  return reachingOf(manifestsAmong(paths, fileProperties.get(MANIFEST) ?? null), bodyAt)
+  return reachingOf(manifestsIn(paths, fileProperties), bodyAt)
 }
 
 export function reachingAt(given: string | Reading, bodyAt: Body): Naming {
@@ -103,4 +116,73 @@ export function reachingSettled(
     fileProperties,
     bodiesOver(repo, bodies)
   )
+}
+
+export function landedElsewhere(was: Naming, now: Naming): readonly string[] {
+  const said: string[] = []
+  for (const [specifier, before] of was) {
+    if (now.get(specifier) !== before) said.push(before)
+  }
+  return said
+}
+
+export function importersOf(
+  given: string | Reading,
+  landed: readonly string[]
+): ReadonlySet<string> {
+  const reading = readingOf(given)
+  const said = new Set<string>()
+  for (const one of landed) {
+    for (const line of reading.lines(join(IMPORTS_AT, `${one}${ENDING}`))) {
+      try {
+        const held = JSON.parse(line) as { readonly path?: unknown }
+        if (typeof held.path === "string") said.add(held.path)
+      } catch {}
+    }
+  }
+  return said
+}
+
+export type Turning = {
+  readonly path: string
+  readonly before: string | null
+  readonly was: Value | null
+}
+
+export type Reread = {
+  readonly path: string
+  readonly before: string
+  readonly after: string
+}
+
+export type Rereading = {
+  readonly was: Naming
+  readonly reread: readonly Reread[]
+}
+
+export function rereadOver(
+  given: string | Reading,
+  turning: readonly Turning[],
+  repo: string,
+  fileProperties: ReadonlyMap<string, string | null>,
+  now: Naming
+): Rereading {
+  const owned = new Set(turning.map((one) => under(repo, one.path)))
+  if (manifestsIn(owned, fileProperties).length === 0) return { was: now, reread: [] }
+  const was = reachingSettled(
+    given,
+    turning.map((one) => ({ path: one.path, now: one.was })),
+    turning.map((one) => ({ path: one.path, after: one.before })),
+    repo,
+    fileProperties
+  )
+  const bodyAt = bodiesAt(repo)
+  const reread: Reread[] = []
+  for (const path of importersOf(given, landedElsewhere(was, now))) {
+    if (owned.has(path)) continue
+    const body = bodyAt(path)
+    if (body === null) continue
+    reread.push({ path, before: body, after: body })
+  }
+  return { was, reread }
 }
