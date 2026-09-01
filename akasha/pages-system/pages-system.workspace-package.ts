@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const pagesSystem = {
   id: "01a04a26-9105-7000-ab9a-ee74f7657636",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "pages-system",
   definition: "how we keep track of things",
+  manifest: "json",
   partSlugs: [
     "page-type/page",
     "page-type/page-type",
@@ -59,4 +60,4 @@ export const pagesSystem = {
       ],
     },
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage
