@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { idFiled, listedFiled, noneOfTypeFiled, pathFiled } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
@@ -23,7 +24,7 @@ export const HELD_CODE_AT = "akasha/held/held.module.code.ts"
 const WALKING_AT = new URL("../change-walking/change-walking.module.code.ts", import.meta.url)
   .pathname
 
-export const ROOT = join(WALKING_AT, "..", "..", "..", "..")
+export const ROOT = rootOf(WALKING_AT)
 
 const HELD = "akasha/checks-system/checking/checking.module"
 

@@ -5,7 +5,7 @@ export const thea = {
   pageTypeSlug: "seat",
   slug: "thea",
   personaSlug: "thea",
-  assignmentSlug: "domain/checks-system",
+  assignmentSlug: "workspace-package/checks",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
