@@ -1,5 +1,5 @@
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import { kebabizeKey } from "../tracking/keys.ts"
 import { patchRow, type Written, writeRow } from "@shared/pages-query"
 import { optionalEnv } from "@akasha/utils-narrow/require-env"

@@ -7,8 +7,6 @@ import { AKASHA, repos } from "@akasha/pages-system/checkout-roots"
 import { MARKDOWN, pageFileIn } from "./page-file.ts"
 import { fileStemOf as stemOf } from "@akasha/file-page-identity"
 import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
-import { indexWouldAnswer, scannedFromIndex } from "./index/scan/scan.ts"
-import { indexReaches, loadPages } from "./index/store/store.ts"
 import { onceInCall } from "@akasha/command-system/during-call"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { blockOf, NONE, stringAt } from "./text/text.ts"
@@ -84,22 +82,14 @@ export interface PageType {
   readonly namedFor: string | null
 }
 
+// `_repo` is unread. It named the repository the page index was to be asked for, and there is no
+// index to ask — every scan now walks the disk under `root`. The argument stands because the caller
+// still knows which repository the root is, and the reader that will want it again is being written.
 export function scanIn(
   root: string,
   patterns: readonly string[],
-  repo: string | null
+  _repo: string | null
 ): readonly string[] {
-  const indexed = scannedFromIndex(root, patterns, repo)
-  if (indexed !== null) return indexed
-  const unnamed = repo === null ? indexWouldAnswer(root, patterns) : null
-  if (unnamed !== null) {
-    throw new Error(
-      `a scan of ${patterns.join(", ")} named no repository, and the page index describes this root ` +
-        `as \`${unnamed}\`. Walking the disk instead answers from a second source that can disagree ` +
-        `with the index, and nothing downstream would say which of the two it was handed. Name the ` +
-        `repository this root is.`
-    )
-  }
   const suffixes = new Set<string>()
   const walked: string[] = []
   for (const pattern of patterns) {
@@ -216,12 +206,13 @@ export function repoPlacings(roots: Roots): ReadonlyMap<string, string> {
 
 const PAGE_TYPE = "page-type"
 
+// Four page-type pages stand outside `pages/page-type/` — the readout ones — so this cannot be an
+// exact read of that folder. It walks the tree for the suffix instead, which the index used to save.
 function pageTypeFilesIn(root: string): ReadonlyMap<string, string> {
   return onceInCall(`page-type-files:${root}`, () => {
     const made = new Map<string, string>()
-    if (!indexReaches(AKASHA, root)) return made
-    for (const one of loadPages()) {
-      if (one.repo === AKASHA && one.type === PAGE_TYPE) made.set(pageStemOf(one.key), one.key)
+    for (const key of scanIn(root, [`**/*.${PAGE_TYPE}${MARKDOWN}`], AKASHA)) {
+      made.set(pageStemOf(key), key)
     }
     return made
   })

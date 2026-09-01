@@ -11,7 +11,7 @@ import type { Property } from "./property.ts"
 import type { FileTree } from "../file-tree.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import { answeredWhole } from "./answer-cache.ts"
-import { indexedPaths, indexStamp } from "./registry.ts"
+import { indexedPaths } from "./registry.ts"
 
 export const PROPERTY_KEY = "key"
 
@@ -60,8 +60,7 @@ const fromDeclarationsData = (one: DeclarationsData): Declarations => ({
 const anyDeclared = (one: Declarations): boolean => one.bySlug.size > 0
 
 function heldDeclarations(tree: FileTree): Declarations {
-  const shape = shapeMarkOf(tree)
-  const mark = shape === null ? null : `${shape}-${indexStamp()}`
+  const mark = shapeMarkOf(tree)
   const root = tree.root
   const make = (): Declarations => readDeclarations(tree)
   if (mark === null || root === undefined) return make()

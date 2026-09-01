@@ -1,5 +1,18 @@
-import { pathOf } from "../page/index/link/link.ts"
 import { normalizeAbsolute } from "@akasha/pages-system/repo-path"
+
+const SCHEME = /^[a-z][a-z0-9+.-]*:/i
+
+const SLOT = /^\{[^{}]*\}$/
+
+// Was `pathOf` in the page index's link reader, which has gone. The path an href names, with any
+// anchor and query cut off, or null where the href names no path in this tree.
+function pathOf(href: string): string | null {
+  const said = href.trim()
+  if (said === "" || SLOT.test(said)) return null
+  const target = said.split("#")[0]?.split("?")[0] ?? ""
+  if (target === "" || SCHEME.test(target)) return null
+  return target
+}
 
 export function dirOf(absolute: string): string {
   return absolute.slice(0, absolute.lastIndexOf("/"))

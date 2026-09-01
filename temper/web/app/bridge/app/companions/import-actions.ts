@@ -1,7 +1,7 @@
 import { createPage } from "@akasha/pages-access/create"
 import { getPages } from "@akasha/pages-access/get"
 import { patchPage } from "@akasha/pages-access/patch"
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { requireFirst } from "@akasha/utils-narrow/require-first"

@@ -9,7 +9,7 @@ import type { Property } from "./property.ts"
 import type { NamedSet, Vocabulary } from "./stated.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import { type FileTree } from "../file-tree.ts"
-import { indexStamp, registryOf } from "./registry.ts"
+import { registryOf } from "./registry.ts"
 import { AKASHA, repos } from "@akasha/pages-system/checkout-roots"
 import { recordsFor } from "./record.ts"
 import type { RecordField } from "./stated.ts"
@@ -113,8 +113,7 @@ export function vocabularyFor(tree: FileTree): Vocabulary {
 }
 
 function heldVocabulary(tree: FileTree): Vocabulary {
-  const shape = shapeMarkOf(tree)
-  const mark = shape === null ? null : `${shape}-${indexStamp()}`
+  const mark = shapeMarkOf(tree)
   const root = tree.root
   const make = (): Vocabulary => vocabularyOf(registryOf(tree), tree)
   if (mark === null || root === undefined) return make()

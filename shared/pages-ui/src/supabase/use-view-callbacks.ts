@@ -1,6 +1,6 @@
 "use client"
 
-import { type Json } from "@akasha/supabase-database/json"
+import { type Json } from "@akasha/utils-narrow/json-value"
 import { type CreatePageArgs, createPage } from "@akasha/pages-access/create"
 import { type DeletePageArgs, softDeletePage } from "@akasha/pages-access/delete"
 import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"

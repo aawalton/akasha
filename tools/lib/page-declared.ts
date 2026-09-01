@@ -7,12 +7,10 @@ import type { Held as Declaring } from "../../page/property/stated.ts"
 import {
   filedIn,
   PAGE_TYPE_GLOBS,
-  PAGE_TYPE_KINDS,
   repoPlacings,
   scanIn,
   type Filed,
 } from "../../page/page-types.ts"
-import { indexReaches, loadPages } from "../../page/index/store/store.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
 import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
@@ -57,17 +55,10 @@ export function declaringRoot(roots: Roots): string {
   return rootFor(roots, AKASHA)
 }
 
-function kindPathsIn(
-  root: string,
-  kinds: ReadonlySet<string>,
-  globs: readonly string[]
-): readonly string[] {
-  if (!indexReaches(AKASHA, root)) return scanIn(root, globs, AKASHA)
-  const found = new Set<string>()
-  for (const one of loadPages()) {
-    if (one.repo === AKASHA && kinds.has(one.type)) found.add(one.key)
-  }
-  return [...found].sort()
+// The index answered this over the akasha root and the disk answered it everywhere else. Only the
+// second reader is left, and it is the one that was already trusted off that root.
+function kindPathsIn(root: string, globs: readonly string[]): readonly string[] {
+  return scanIn(root, globs, AKASHA)
 }
 
 export function kindsIn(roots: Roots): ReadonlyMap<string, Kind> {
@@ -75,7 +66,7 @@ export function kindsIn(roots: Roots): ReadonlyMap<string, Kind> {
     const placed = repoPlacings(roots)
     const root = declaringRoot(roots)
     const kinds = new Map<string, Kind>()
-    for (const relPath of kindPathsIn(root, PAGE_TYPE_KINDS, PAGE_TYPE_GLOBS)) {
+    for (const relPath of kindPathsIn(root, PAGE_TYPE_GLOBS)) {
       const text = textAt(root, relPath)
       if (text === null) continue
       const { fm, why } = blockOf(text)

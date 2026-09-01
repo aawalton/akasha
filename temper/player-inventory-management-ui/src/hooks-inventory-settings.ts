@@ -6,7 +6,7 @@ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import {
   type BackpackSettings,

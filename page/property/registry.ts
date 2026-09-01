@@ -2,7 +2,6 @@ import { pageTypeOf } from "@akasha/pages-system/markdown-page-type"
 import { answeredWhole } from "./answer-cache.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import type { FileTree } from "../file-tree.ts"
-import { createHash } from "node:crypto"
 import {
   globsIn,
   PAGE_TYPE_GLOBS,
@@ -12,9 +11,6 @@ import {
   pageTypeStatedAt,
   type StatedPageType,
 } from "../page-types.ts"
-import { loadPages, rowsStamp } from "../index/store/store.ts"
-import { akashaRoot } from "@akasha/pages-system/checkout-roots"
-import { canonicalize } from "@akasha/pages-system/repo-path"
 
 const registries = new WeakMap<FileTree, readonly PageType[]>()
 
@@ -26,15 +22,12 @@ export function registryOf(tree: FileTree): readonly PageType[] {
   return made
 }
 
-export function indexStamp(): string {
-  return createHash("sha256").update(rowsStamp()).digest("hex").slice(0, 16)
-}
-
 const anyStated = (one: readonly StatedPageType[]): boolean => one.length > 0
 
 function heldRegistry(tree: FileTree): readonly PageType[] {
-  const shape = shapeMarkOf(tree)
-  const mark = shape === null ? null : `${shape}-${indexStamp()}`
+  // The mark once carried the mtime and size of the index row file alongside the tree shape. There
+  // is no row file, so the shape of the tree is the whole of what this answer stands on.
+  const mark = shapeMarkOf(tree)
   const root = tree.root
   const same = (one: readonly StatedPageType[]): readonly StatedPageType[] => one
   const stated =
@@ -55,25 +48,14 @@ function statedOver(relPaths: readonly string[], tree: FileTree): ReadonlyMap<st
   return made
 }
 
-function overTheIndex(tree: FileTree): boolean {
-  const root = tree.root
-  if (root === undefined) return false
-  return canonicalize(root) === canonicalize(akashaRoot())
-}
-
+// This used to union the index rows over the akasha root with what the tree answers. The tree is
+// now the only source, and it was always one of the two, so nothing here reads as an empty repo.
 export function indexedPaths(
   tree: FileTree,
   kinds: ReadonlySet<string>,
   globs: readonly string[]
 ): readonly string[] {
   const found = new Set<string>()
-  if (overTheIndex(tree)) {
-    for (const one of loadPages()) {
-      if (!kinds.has(one.type)) continue
-      if (tree.roots !== undefined && tree.roots[one.repo] === undefined) continue
-      found.add(one.key)
-    }
-  }
   for (const relPath of [...tree.paths(globsIn(tree.roots, globs)), ...(tree.pending ?? [])]) {
     const kind = pageTypeOf(relPath)
     if (kind !== null && kinds.has(kind)) found.add(relPath)

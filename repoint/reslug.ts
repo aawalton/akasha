@@ -5,7 +5,6 @@ import { Source } from "../page/document/position.ts"
 import type { FrontmatterValue, Repo } from "@akasha/pages-system/markdown-document"
 import { type FileTree, diskFileTree } from "../page/file-tree.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
-import { SLUG_WORD } from "../page/index/identity/identity.ts"
 import { bullets, sectionNamed } from "../page/markdown/markdown.ts"
 import { fileStemOf } from "@akasha/file-page-identity"
 import { addressOf, addressParts } from "../page/page-address.ts"
@@ -18,6 +17,10 @@ import type { Patch } from "./mention.ts"
 import type { Moves } from "./repoint.ts"
 
 export type Reslugged = ReadonlyMap<string, string>
+
+// Was `SLUG_WORD` in the page index's identity reader, which has gone. The frontmatter key a page
+// spells its slug under.
+const SLUG_WORD = "slug"
 
 const SLUG_TYPE = /(^|[^-\w])relation-(?:slug|address)\b/
 

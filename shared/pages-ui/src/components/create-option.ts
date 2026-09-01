@@ -1,6 +1,6 @@
 import type { PatchPropertyDefinitionArgs } from "@akasha/pages-access/property-definition"
 import type { Page } from "@akasha/pages-core/page-types"
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import type { CreateSelectOptionEffect } from "../option-create-context"
 

@@ -8,7 +8,9 @@ import { AKASHA, repos, rootFor } from "@akasha/pages-system/checkout-roots"
 const placings = new Map<string, ReadonlyMap<string, string>>()
 
 function placedIn(roots: Roots): ReadonlyMap<string, string> {
-  const key = repos().map((repo) => roots[repo]).join("\n")
+  const key = repos()
+    .map((repo) => roots[repo])
+    .join("\n")
   const held = placings.get(key)
   if (held !== undefined) return held
   const made = repoPlacings(roots)

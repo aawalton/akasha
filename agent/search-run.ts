@@ -5,7 +5,9 @@ import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { canonicalize } from "@akasha/pages-system/repo-path"
 import { repos } from "@akasha/pages-system/checkout-roots"
 
-export const REPOS_NAMED = repos().map((one) => `\`${one}\``).join(", ")
+export const REPOS_NAMED = repos()
+  .map((one) => `\`${one}\``)
+  .join(", ")
 
 export const RG_DEFAULTS: readonly string[] = [
   "--color",
