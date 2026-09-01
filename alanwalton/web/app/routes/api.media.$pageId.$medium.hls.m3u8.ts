@@ -1,6 +1,5 @@
 import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { hlsPlaylistObjectKey } from "@akasha/object-store/object-store-key"
-import { getPage } from "@akasha/pages-access/get"
 import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
 import { MEDIA_UUID_PATTERN, MEDIA_VARIANT_PATTERN, mediaPageStands } from "@shared/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
@@ -8,6 +7,7 @@ import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
 import { forwardedOrigin } from "~/lib/forwarded-origin"
 import { ensureHlsPlaylist } from "~/lib/hls-render"
 import { resolveChapterKokoroSegments } from "~/lib/kokoro-render"
+import { resolveMediaPage } from "~/lib/media-page"
 import { rewriteHlsPlaylist } from "~/lib/rewrite-hls-playlist"
 import type { Route } from "./+types/api.media.$pageId.$medium.hls.m3u8"
 
@@ -27,10 +27,9 @@ async function resolveChapterSegments(
   pageId: string,
   fromSentenceIndex: number
 ): Promise<readonly string[] | null> {
-  const page = await getPage({ where: [{ key: "id", eq: pageId }] })
-  const pageTypeSlug = typeof page?.pageTypeSlug === "string" ? page.pageTypeSlug : null
-  if (pageTypeSlug == null) return null
-  return resolveChapterKokoroSegments(pageId, pageTypeSlug, { fromSentenceIndex })
+  const found = await resolveMediaPage(pageId, ["id"])
+  if (found === null) return null
+  return resolveChapterKokoroSegments(pageId, found.pageTypeSlug, { fromSentenceIndex })
 }
 
 export async function loader({ params, request }: Route.LoaderArgs): Promise<Response> {

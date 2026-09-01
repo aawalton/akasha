@@ -4,6 +4,7 @@ import { getPage } from "@akasha/pages-access/get"
 import { getMediaConfig } from "@akasha/pages-access/page-type-config"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { ensureReadAloudRendition } from "~/lib/kokoro-render"
+import { resolveMediaPage } from "~/lib/media-page"
 import type { Route } from "./+types/api.media.$pageId.$medium.stream"
 
 const UUID_PATTERN = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
@@ -68,11 +69,10 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   const { pageId, medium } = params
   if (!UUID_PATTERN.test(pageId)) return respond("Not Found", 404)
   if (medium !== "audio") return respond("Not Found", 404)
-  const page = await getPage({ where: [{ key: "id", eq: pageId }] })
-  if (!page) return respond("Not Found", 404)
+  const found = await resolveMediaPage(pageId, ["id"])
+  if (found === null) return respond("Not Found", 404)
 
-  const pageTypeSlug = typeof page.pageTypeSlug === "string" ? page.pageTypeSlug : null
-  if (pageTypeSlug == null) return respond("Not Found", 404)
+  const pageTypeSlug = found.pageTypeSlug
   const mediaConfig = await getMediaConfig({ pageTypeSlug })
   const sourcePropertyId = mediaConfig?.audio?.sourcePropertyId
   if (sourcePropertyId == null) return respond("Not Found", 404)

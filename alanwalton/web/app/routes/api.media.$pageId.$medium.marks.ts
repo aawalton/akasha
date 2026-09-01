@@ -1,6 +1,6 @@
 import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
-import { getPage } from "@akasha/pages-access/get"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
+import { resolveMediaPage } from "~/lib/media-page"
 import { resolveFromNSentenceMarks } from "~/lib/read-aloud-marks"
 import type { Route } from "./+types/api.media.$pageId.$medium.marks"
 
@@ -24,10 +24,9 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   const { pageId, medium } = params
   if (!UUID_PATTERN.test(pageId)) return respond("Not Found", 404)
   if (medium !== "audio") return respond("Not Found", 404)
-  const page = await getPage({ where: [{ key: "id", eq: pageId }] })
-  if (!page) return respond("Not Found", 404)
-  const pageTypeSlug = typeof page.pageTypeSlug === "string" ? page.pageTypeSlug : null
-  if (pageTypeSlug == null) return respond("Not Found", 404)
+  const found = await resolveMediaPage(pageId, ["id"])
+  if (found === null) return respond("Not Found", 404)
+  const pageTypeSlug = found.pageTypeSlug
 
   const fromSentenceRaw = new URL(request.url).searchParams.get("fromSentence")
   const parsed = fromSentenceRaw == null ? 0 : Number.parseInt(fromSentenceRaw, 10)

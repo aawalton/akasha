@@ -1,4 +1,4 @@
-import { getPage } from "@akasha/pages-access/get"
+import { resolveMediaPage } from "~/lib/media-page"
 import { resolveMediaVariants } from "~/lib/media-variants"
 import type { Route } from "./+types/api.media.$pageId.variants"
 
@@ -21,10 +21,10 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   if (request.method === "OPTIONS") {
     return new Response(null, { status: 204, headers: cors })
   }
-  const page = await getPage({ where: [{ key: "id", eq: params.pageId }] })
-  if (page === null) {
+  const found = await resolveMediaPage(params.pageId)
+  if (found === null) {
     return Response.json({ error: "Page not found." }, { status: 404, headers: cors })
   }
-  const { variants, defaultVariant } = await resolveMediaVariants({ page })
+  const { variants, defaultVariant } = await resolveMediaVariants({ page: found.page })
   return Response.json({ variants, defaultVariant }, { headers: cors })
 }

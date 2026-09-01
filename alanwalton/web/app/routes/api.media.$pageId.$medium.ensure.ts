@@ -1,6 +1,6 @@
-import { getPage } from "@akasha/pages-access/get"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { ensureReadAloudRendition, resolveChapterKokoroSegments } from "~/lib/kokoro-render"
+import { resolveMediaPage } from "~/lib/media-page"
 import type { Route } from "./+types/api.media.$pageId.$medium.ensure"
 
 const UUID_PATTERN = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
@@ -40,12 +40,10 @@ export async function action({ params, request }: Route.ActionArgs): Promise<Res
   const { pageId, medium } = params
   if (!UUID_PATTERN.test(pageId)) return respond({ error: "Not Found" }, 404)
   if (medium !== "audio") return respond({ error: "Not Found" }, 404)
-  const page = await getPage({ where: [{ key: "id", eq: pageId }] })
-  if (!page) return respond({ error: "Not Found" }, 404)
-  const pageTypeSlug = typeof page.pageTypeSlug === "string" ? page.pageTypeSlug : null
-  if (pageTypeSlug == null) return respond({ error: "Not Found" }, 404)
+  const found = await resolveMediaPage(pageId, ["id"])
+  if (found === null) return respond({ error: "Not Found" }, 404)
 
-  const segments = await resolveChapterKokoroSegments(pageId, pageTypeSlug)
+  const segments = await resolveChapterKokoroSegments(pageId, found.pageTypeSlug)
   if (segments == null) return respond({ error: "Not Found" }, 404)
 
   const status = await ensureReadAloudRendition(pageId, segments)

@@ -13,6 +13,8 @@ import { resolveReadAloudSentenceMarks } from "~/lib/read-aloud-marks"
 
 const VOICED_PERSONAS_QUERY = "persona-all"
 
+const READING_STORY_SLUG = "reading-story"
+
 export function withKokoroFallback(
   variants: readonly MediaVariant[],
   defaultVariant: string | null,
@@ -89,6 +91,7 @@ export async function resolveMediaVariants(args: { page: Page }): Promise<{
   let narrator: string | null = null
   if (parentStoryId != null) {
     const story = await getPage({
+      pageTypeSlug: READING_STORY_SLUG,
       where: [{ key: "id", eq: parentStoryId }],
       select: ["narrator"],
     })

@@ -218,6 +218,7 @@ export async function loader({ params, request }: Route.LoaderArgs) {
       if (parentStoryId != null) {
         try {
           const story = await getPage({
+            pageTypeSlug: READING_STORY_SLUG,
             where: [{ key: "id", eq: parentStoryId }],
             select: ["id", "slug", "title"],
           })
