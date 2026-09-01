@@ -28,8 +28,8 @@ function cronjobYaml(): string {
                     "bun",
                     "run",
                     "--cwd",
-                    "alanwalton/calendar-sync",
-                    "src/run-sync.ts",
+                    "akasha/calendar-sync",
+                    "run-sync/run-sync.module.code.ts",
                   ],
                   envFrom: [{ secretRef: { name: "alanwalton-secrets" } }],
                   resources: {

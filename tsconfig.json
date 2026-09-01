@@ -106,9 +106,6 @@
       "path": "./temper/shared-interface-lam"
     },
     {
-      "path": "./alanwalton/calendar-sync"
-    },
-    {
       "path": "./infra/k8s"
     },
     {
