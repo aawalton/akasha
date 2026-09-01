@@ -35,9 +35,9 @@ function domainOf(root: string, path: string): readonly Warrant[] {
 }
 
 function initiativeOf(root: string, slug: string): readonly Warrant[] {
-  const standing = listedAt(root, INITIATIVE_TYPE, slug)[0]
-  if (standing === undefined) return []
-  return [...warrantAt(root, standing.path, ASSIGNMENT), ...domainOf(root, standing.path)]
+  const listed = listedAt(root, INITIATIVE_TYPE, slug)[0]
+  if (listed === undefined) return []
+  return [...warrantAt(root, listed.path, ASSIGNMENT), ...domainOf(root, listed.path)]
 }
 
 export function assignmentItself(root: string, path: string): readonly Warrant[] {
