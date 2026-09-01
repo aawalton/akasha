@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theWebPodsStallIsNeitherMemoryNorCpuThrottling = {
+  id: "01a05e6a-b604-7b86-8854-91bc022ed40b",
+  pageTypeSlug: "finding",
+  slug: "the-web-pods-stall-is-neither-memory-nor-cpu-throttling",
+  domainSlug: "cluster-service/alanwalton-web",
+  claim:
+    "The web container is killed for failing liveness every twenty-two to thirty-four minutes, and the two obvious causes are both ruled out by measurement: it is far below its memory ceiling when killed, and it is throttled for no CPU at all in steady state. Something makes it unresponsive for a full minute, and what that is remains unmeasured.",
+  evidence:
+    "Measured 2026-09-01 18:50Z-19:20Z on pod `web-6f48c47fbc-kg2rc`.\n\nThe kill is real and regular: `Killing` counted 6 from 15:54:21Z to 19:17:31Z, each `Container web failed liveness probe, will be restarted`, with `Liveness probe failed ... /api/health: context deadline exceeded` counted 29. Liveness allows 5s and carries `failureThreshold: 6` at `periodSeconds: 10`, so the container is unresponsive for about a minute before each kill rather than missing one unlucky probe.\n\nNot the memory ceiling. `/sys/fs/cgroup/memory.max` is 536870912 and `memory.current` read 148606976 — 141Mi of 512Mi. `kubectl top` caught 320Mi just before a kill, still under the limit, and an OOM kill would record 137 rather than the 139 seen. Memory does grow: 135Mi one minute after a restart, 320Mi about twenty-one minutes later, roughly 8Mi a minute. That is a leak worth its own look, but it is not what ends the container.\n\nNot steady-state CPU throttling. `cpu.stat` read twice, 84 periods apart, held `nr_throttled` at 27 and `throttled_usec` at 3963153 across both — no throttling accrued in between. All 3.96s of it landed during startup, and the kills come twenty minutes later.\n\nNot a bare tree walk. Walking the pod's `/app/repo/pages` reached 71,445 files in 93ms warm, so the size of the tree alone stalls nothing.\n\nWhat is left untested: `readoutCatalog()` does not merely walk that tree, it reads and parses frontmatter across it, and six stoplight routes call it on every request. Whether that parse blocks the loop long enough, and whether the kills line up with widget refresh traffic, was not measured. The call taken: ruled out what could be ruled out cheaply and filed the rest rather than guessing at a cause or quieting the symptom by loosening the probe.",
+} as const satisfies Finding
