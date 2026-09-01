@@ -19,9 +19,6 @@
   ],
   "references": [
     {
-      "path": "../pages-core"
-    },
-    {
       "path": "../supabase-database"
     }
   ]

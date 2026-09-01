@@ -22,9 +22,6 @@
   ],
   "references": [
     {
-      "path": "../../shared/pages-core"
-    },
-    {
       "path": "../../shared/utils-narrow"
     }
   ]

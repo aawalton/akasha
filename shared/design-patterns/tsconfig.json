@@ -28,9 +28,6 @@
       "path": "../design-primitives"
     },
     {
-      "path": "../pages-core"
-    },
-    {
       "path": "../utils-test"
     }
   ]

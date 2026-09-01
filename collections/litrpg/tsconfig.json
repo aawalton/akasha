@@ -14,7 +14,6 @@
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules", "dist"],
   "references": [
-    { "path": "../../shared/pages-access" },
-    { "path": "../../shared/pages-core" }
+    { "path": "../../shared/pages-access" }
   ]
 }

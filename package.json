@@ -78,7 +78,6 @@
     "shared/object-store",
     "shared/open-questions",
     "shared/pages-access",
-    "shared/pages-core",
     "shared/pages-query",
     "shared/pages-ui",
     "shared/pages-url",
