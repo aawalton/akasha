@@ -54,7 +54,11 @@ export const amyJennyUnreviewedWidget = {
       workingMemory:
         "Deployed and proved live. READING_RELAY_SECRET stands in her sops at the workstation's value, moved by `sops edit` and checked by digest, never printed. Her pod runs b4289a8e7a: the relay route 401s without the secret and 400s with it on a body that is no reading, and her tile route answers 503 No reading in 0.23s, its build naming neither alanwalton.com nor SMILINGJENNY_RELAY_SECRET. The bypass arm is gone and Alan runs f25c8ffc, where that secret answers 401 rather than 503.",
     },
-    { statement: "Jenny's unreviewed transaction iOS widget works." },
+    {
+      statement: "Jenny's unreviewed transaction iOS widget works.",
+      workingMemory:
+        "Nothing but the reading is left. Her feed's `LastKnownStore` now carries the moment written and is let go at 45 minutes, landed 4c0085a182, so that finding goes. Both widget programs name `categorize-ring` and `ring`, so one ring draws both tiles. Her route is 7 lines over `module/readout-categorization` and Alan's is still a 44-line copy, filed. Her /api/categorization 401s live in 0.11s. 3741 pass, audit 11 all Capacitor. No Swift compiles: this box has no swiftc.",
+    },
   ],
   constraints: [
     "Every intent on Alan's side comes before Jenny's even though the end of the work is hers.",
