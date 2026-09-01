@@ -27,7 +27,15 @@ export const dalla = {
     },
     {
       invariantKind: "gap",
-      statement: "The children of change-harness-workstation are named and defined and ordered.",
+      statement: "The children of change-harness-workstation are named.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The children of change-harness-workstation are defined.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The children of change-harness-workstation are ordered.",
     },
     {
       invariantKind: "gap",

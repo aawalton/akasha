@@ -23,7 +23,11 @@ export const noCredentialInScriptText = {
     },
     {
       invariantKind: "departure",
-      statement: "`evaluate` and `evaluateHandle` and `waitForFunction` are read alike.",
+      statement: "`evaluate` and `evaluateHandle` are read alike.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`waitForFunction` and `evaluate` are read alike.",
     },
     {
       invariantKind: "departure",

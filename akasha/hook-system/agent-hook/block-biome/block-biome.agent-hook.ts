@@ -45,7 +45,15 @@ export const blockBiome = {
     },
     {
       invariantKind: "constraint",
-      statement: "A biome write reaches akasha content with no gate and no index and no commit.",
+      statement: "A biome write reaches akasha content with no gate.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A biome write reaches akasha content with no index.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A biome write reaches akasha content with no commit.",
     },
     {
       invariantKind: "gap",

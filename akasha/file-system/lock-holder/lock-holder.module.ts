@@ -35,8 +35,15 @@ export const lockHolder = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A mark that cannot be read or stands empty or names no number is answered as no holder.",
+      statement: "A mark that cannot be read is answered as no holder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mark that stands empty is answered as no holder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mark that names no number is answered as no holder.",
     },
     {
       invariantKind: "departure",

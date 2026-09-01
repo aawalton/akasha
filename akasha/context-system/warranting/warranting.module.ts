@@ -42,7 +42,15 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing here writes or commits or records.",
+      statement: "Nothing here writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing here commits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing here records.",
     },
     {
       invariantKind: "departure",

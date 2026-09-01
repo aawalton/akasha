@@ -24,8 +24,11 @@ export const read = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A read returns the whole file or what changed after the agent read the file or says the agent read that body already.",
+      statement: "A read returns the whole file or what changed after the agent read the file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read of a body the agent read already says so.",
     },
     {
       invariantKind: "departure",

@@ -50,8 +50,19 @@ export const page = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page's identity is a uuid version 7 unchanged when its path or slug or title changes.",
+      statement: "A page's identity is a uuid version 7.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's identity is unchanged when its path changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's identity is unchanged when its slug changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's identity is unchanged when its title changes.",
     },
     {
       invariantKind: "departure",

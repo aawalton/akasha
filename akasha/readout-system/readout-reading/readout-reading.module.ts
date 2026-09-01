@@ -31,8 +31,12 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The age a reading may reach and still be shown is stated once.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "How old a reading may be and still be shown is stated once and read wherever one is shown.",
+        "The age a reading may reach and still be shown is read wherever a reading is shown.",
     },
     {
       invariantKind: "departure",

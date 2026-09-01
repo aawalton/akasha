@@ -13,7 +13,15 @@ export const constantIdentifier = {
     },
     {
       invariantKind: "departure",
-      statement: "A regular expression and a set of fixed words and a plain string are alike data.",
+      statement: "A regular expression is data.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A set of fixed words is data.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A plain string is data.",
     },
     {
       invariantKind: "departure",

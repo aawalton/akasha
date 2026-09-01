@@ -64,8 +64,19 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A world borrows from the tree the world is made from only the index and what a run is configured by and a link to the modules imported.",
+      statement: "A world borrows the index from the tree the world is made from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world borrows what a run is configured by from that tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world borrows a link to the modules imported from that tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world borrows nothing else from that tree.",
     },
     {
       invariantKind: "departure",

@@ -119,8 +119,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A single hold spans reading the base and judging and writing and indexing and carrying and committing.",
+      statement: "One hold spans the whole landing.",
     },
     {
       invariantKind: "departure",

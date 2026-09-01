@@ -10,8 +10,19 @@ export const seatStating = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A seat short of a persona or a domain or a role or a principal is written as no page.",
+      statement: "A seat short of a persona is written as no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat short of a domain is written as no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat short of a role is written as no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat short of a principal is written as no page.",
     },
     {
       invariantKind: "departure",

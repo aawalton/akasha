@@ -11,8 +11,19 @@ export const codeLint = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A run is answered as what it exited and how many errors were counted and every finding named and why it could not look where it could not.",
+      statement: "A run's answer carries what the run exited.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run's answer carries how many errors were counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run's answer carries every finding named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run's answer carries where the run could not look and why.",
     },
     {
       invariantKind: "departure",

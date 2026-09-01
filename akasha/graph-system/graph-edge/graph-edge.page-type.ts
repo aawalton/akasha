@@ -29,7 +29,11 @@ export const graphEdge = {
     {
       invariantKind: "departure",
       statement:
-        "An edge kind names the index that answers it or the graph derives it here or both.",
+        "An edge kind names the index that answers the edge kind or the graph derives the edge kind here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edge kind may name an index and be derived here as well.",
     },
     {
       invariantKind: "departure",

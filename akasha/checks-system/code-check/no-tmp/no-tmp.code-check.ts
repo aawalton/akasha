@@ -35,8 +35,15 @@ export const noTmp = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A reach for /tmp through a variable or an environment read or a re-export is not seen.",
+      statement: "A reach for /tmp through a variable is not seen.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A reach for /tmp through an environment read is not seen.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A reach for /tmp through a re-export is not seen.",
     },
   ],
 } as const satisfies CodeCheck

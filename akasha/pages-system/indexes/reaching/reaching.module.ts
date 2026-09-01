@@ -73,7 +73,15 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's `id` and `slug` and `pageTypeSlug` are answered as the page's own.",
+      statement: "A page's `id` is answered as the page's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's `slug` is answered as the page's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's `pageTypeSlug` is answered as the page's own.",
     },
     {
       invariantKind: "departure",

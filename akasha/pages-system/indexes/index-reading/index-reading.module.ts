@@ -20,8 +20,11 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A directory listed is one page type's own and grows with that type and not with the pages.",
+      statement: "A directory listed is one page type's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A directory listed grows with that type and not with the pages.",
     },
     {
       invariantKind: "departure",

@@ -47,7 +47,11 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "The index files identities and edges and no text.",
+      statement: "The index files identities and edges.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index files no text.",
     },
     {
       invariantKind: "absence",

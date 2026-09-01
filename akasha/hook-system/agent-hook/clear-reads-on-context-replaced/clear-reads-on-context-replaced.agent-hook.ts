@@ -19,7 +19,15 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
-      statement: "A startup and a clearing and a compaction clear the record.",
+      statement: "A startup clears the record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A clearing clears the record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A compaction clears the record.",
     },
     {
       invariantKind: "departure",

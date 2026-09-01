@@ -38,8 +38,15 @@ export const noSwallowedRead = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A catch that throws or calls `process.exit` or calls a function typed `never` stands.",
+      statement: "A catch that throws stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A catch that calls `process.exit` stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A catch that calls a function typed `never` stands.",
     },
     {
       invariantKind: "departure",

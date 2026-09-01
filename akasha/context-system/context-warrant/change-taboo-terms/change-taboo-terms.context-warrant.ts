@@ -22,7 +22,11 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
-      statement: "A seam opens between a lower letter or a digit and an upper one.",
+      statement: "A seam opens between a lower letter and an upper letter.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seam opens between a digit and an upper letter.",
     },
     {
       invariantKind: "departure",

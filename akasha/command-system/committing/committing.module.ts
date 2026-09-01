@@ -51,7 +51,15 @@ export const committing = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges or writes or indexes.",
+      statement: "Nothing here judges.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here indexes.",
     },
     {
       invariantKind: "absence",
