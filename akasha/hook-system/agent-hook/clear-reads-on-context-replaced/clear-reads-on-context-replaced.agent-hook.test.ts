@@ -241,9 +241,9 @@ test("the hook run as the harness runs it clears the record under the root it st
 })
 
 test("the hook run as the harness runs it leaves a resumed session's record standing", () => {
-  const standing = planted(TWO)
+  const two = planted(TWO)
   expect(ranWith("resume", TWO).code).toBe(0)
-  expect(readFileSync(standing, "utf8")).toContain(TWO)
+  expect(readFileSync(two, "utf8")).toContain(TWO)
 })
 
 test("the session begins with no agent named, and on a payload that will not parse", () => {
