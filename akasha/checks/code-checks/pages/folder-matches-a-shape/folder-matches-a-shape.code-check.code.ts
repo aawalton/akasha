@@ -200,7 +200,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
     let held = admits.get(wanted)
     if (held === undefined) {
-      if (known === null) known = shadow.index.knownIn(change.root, shadow.pageOf)
+      if (known === null) known = shadow.index.knownIn()
       held = new Set<string>(known.admitting(wanted))
       admits.set(wanted, held)
     }

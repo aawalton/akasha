@@ -303,7 +303,7 @@ function holdingBy(
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const packages = declaringOver(change, manifestsIn(change.root, shadow))
+  const packages = declaringOver(change, manifestsIn(shadow))
   if (packages.length === 0) return []
   const folders = packages.map((one) => one.folder)
   const byName = new Map(packages.map((one) => [one.called, one]))

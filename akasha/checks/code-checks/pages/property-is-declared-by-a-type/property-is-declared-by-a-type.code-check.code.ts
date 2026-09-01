@@ -60,9 +60,9 @@ function reasonFor(shown: string): string {
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const under = shadow.index.kindsUnder(change.root, PAGE_PROPERTY, shadow.pageOf)
+  const under = shadow.index.kindsUnder(PAGE_PROPERTY)
   const pageTypes = shadow.index.pageTypesIn()
-  const known = shadow.index.knownIn(change.root, shadow.pageOf)
+  const known = shadow.index.knownIn()
   const said: Judged[] = []
   const judged = new Set<string>()
   const judge = (path: string, id: string, shown: string): undefined => {

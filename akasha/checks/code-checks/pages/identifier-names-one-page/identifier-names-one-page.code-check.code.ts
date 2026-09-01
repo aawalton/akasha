@@ -47,7 +47,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (carried.length === 0) return []
   const said: Judged[] = []
-  const identifying = identifyingFrom(shadow.index.sourceIn(shadow.pageOf))
+  const identifying = identifyingFrom(shadow.index.sourceIn())
   for (const held of statedByKey(statedBy(carried, identifying)).values()) {
     const one = held[0]
     if (one === undefined) continue

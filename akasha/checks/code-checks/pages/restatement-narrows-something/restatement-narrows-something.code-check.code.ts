@@ -32,7 +32,7 @@ function narrowingNothing(nearer: Declared, further: Declared): string {
 
 export function restatingIn(one: Held, shadow: Shadow): readonly Judged[] {
   const said: Judged[] = []
-  const declared = shadow.index.declarationsOf(one.slug, shadow.pageOf)
+  const declared = shadow.index.declarationsOf(one.slug)
   for (const held of Map.groupBy(declared, identityOf).values()) {
     for (const [at, nearer] of held.entries()) {
       const further = held[at + 1]
@@ -48,7 +48,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (carried.length === 0) return []
   const said: Judged[] = []
-  for (const one of judgedIn(carried, change.root, shadow)) {
+  for (const one of judgedIn(carried, shadow)) {
     if (one.descends) said.push(...restatingIn(one, shadow))
   }
   return said

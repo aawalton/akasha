@@ -37,7 +37,7 @@ export function reasonsIn(under: ReadonlySet<string>): (given: Body) => readonly
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const under = shadow.index.kindsUnder(change.root, INSTANT_PROPERTY, shadow.pageOf)
+  const under = shadow.index.kindsUnder(INSTANT_PROPERTY)
   return overEachFile(change, reasonsIn(under))
 }
 

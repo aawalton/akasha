@@ -57,12 +57,8 @@ export function introducedIn(one: PageType, shadow: Shadow): readonly string[] {
   if (value === null) return []
   const said = textAt(value, ABOVE)
   const over = said === null ? null : slugIn(said)
-  const inherited = new Set(
-    over === null ? [] : shadow.index.propertiesOf(over, shadow.pageOf).map(identityOf)
-  )
-  const own = shadow.index
-    .declarationsOf(one.slug, shadow.pageOf)
-    .filter((each) => each.declaredBy === one.slug)
+  const inherited = new Set(over === null ? [] : shadow.index.propertiesOf(over).map(identityOf))
+  const own = shadow.index.declarationsOf(one.slug).filter((each) => each.declaredBy === one.slug)
   const introduced = new Set(
     own.filter((each) => !inherited.has(identityOf(each))).map((each) => each.pagePropertySlug)
   )

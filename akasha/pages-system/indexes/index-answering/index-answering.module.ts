@@ -18,11 +18,28 @@ export const indexAnswering = {
     },
     {
       invariantKind: "departure",
+      statement: "A question here takes no root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question here takes no reader of page bodies.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reader whose reading could be left off is bound to the reading here.",
     },
     {
       invariantKind: "departure",
-      statement: "A question here takes what the reader beneath takes besides the reading.",
+      statement:
+        "A reader whose reader of page bodies could be left off is bound to the reader of page bodies here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is bound here is the reading and the root and the reader of page bodies.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question here takes what the reader beneath takes besides what is bound here.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +60,7 @@ export const indexAnswering = {
     {
       invariantKind: "gap",
       statement:
-        "A reader guarding itself against the index at a root still reads that index from here.",
+        "A reader guarding itself against the index at a root reads that index and the commit at HEAD from the root bound here.",
     },
   ],
 } as const satisfies Module

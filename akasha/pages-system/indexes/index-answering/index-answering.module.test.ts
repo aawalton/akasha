@@ -112,9 +112,9 @@ function seeded(): string {
 test("every question answers what the reader beneath it answers with the reading bound", () => {
   const root = seeded()
   const reading = readingIn(root)
-  const index = answeringOver(reading)
+  const index = answeringOver(reading, root, pageOf)
   expect(index.carriedIn(TYPE_VALUE, MODULE)).toEqual(carriedIn(TYPE_VALUE, reading, MODULE))
-  expect(index.declarationsOf(MODULE, pageOf)).toEqual(declarationsOf(MODULE, reading, pageOf))
+  expect(index.declarationsOf(MODULE)).toEqual(declarationsOf(MODULE, reading, pageOf))
   expect(index.declaringOf(SLUG_ID)).toEqual(declaringOf(reading, SLUG_ID))
   expect(index.everyOfType(MODULE)).toEqual(everyOfType(reading, MODULE))
   expect(index.everyPath()).toEqual(everyPath(reading))
@@ -129,9 +129,9 @@ test("every question answers what the reader beneath it answers with the reading
     listedNamed(reading, MODULE, SLUG, "held")
   )
   expect(index.namersOf(TYPE_ID)).toEqual(namersOf(reading, TYPE_ID))
-  expect(index.pageAt(MODULE, "held", pageOf)).toEqual(pageAt(reading, MODULE, "held", pageOf))
+  expect(index.pageAt(MODULE, "held")).toEqual(pageAt(reading, MODULE, "held", pageOf))
   expect(index.pageTypesIn()).toEqual(pageTypesIn(reading))
-  expect(index.propertiesOf(MODULE, pageOf)).toEqual(propertiesOf(MODULE, reading, pageOf))
+  expect(index.propertiesOf(MODULE)).toEqual(propertiesOf(MODULE, reading, pageOf))
   expect(index.schemaAt()).toEqual(schemaAt(reading))
   expect(index.schemaOf(SLUG)).toEqual(schemaOf(reading, SLUG))
   expect(index.typeSlugById(HELD_ID)).toEqual(typeSlugById(reading, HELD_ID))
@@ -141,21 +141,19 @@ test("every question answers what the reader beneath it answers with the reading
 test("a question answered through a shape hands back the shape the reader beneath hands back", () => {
   const root = seeded()
   const reading = readingIn(root)
-  const index = answeringOver(reading)
-  expect(index.knownIn(root, pageOf).at(MODULE, "held")).toEqual(
+  const index = answeringOver(reading, root, pageOf)
+  expect(index.knownIn().at(MODULE, "held")).toEqual(
     knownIn(reading, root, pageOf).at(MODULE, "held")
   )
-  expect(index.sourceIn(pageOf).schemaFor(SLUG)).toEqual(sourceIn(reading, pageOf).schemaFor(SLUG))
-  expect(index.kindsUnder(root, PAGE_TYPE, pageOf)).toEqual(
-    kindsUnder(root, PAGE_TYPE, reading, pageOf)
-  )
+  expect(index.sourceIn().schemaFor(SLUG)).toEqual(sourceIn(reading, pageOf).schemaFor(SLUG))
+  expect(index.kindsUnder(PAGE_TYPE)).toEqual(kindsUnder(root, PAGE_TYPE, reading, pageOf))
 })
 
 test("what the reader beneath refuses is refused here in the same words", () => {
   const root = seeded()
   const reading = readingIn(root)
   const said = "the index names no commit it was built from"
-  expect(() => answeringOver(reading).importersOf(root, HELD_AT)).toThrow(said)
+  expect(() => answeringOver(reading, root, pageOf).importersOf(HELD_AT)).toThrow(said)
   expect(() => importersOf(root, HELD_AT, reading)).toThrow(said)
 })
 
@@ -165,7 +163,7 @@ test("a question is answered from the reading bound rather than from the index a
     "identity/module/slug/laid.jsonl": [{ path: LAID_AT, id: LAID_ID }],
     "path/akasha/laid/laid.module.ts.jsonl": [{ path: LAID_AT, id: LAID_ID }],
   })
-  const index = answeringOver(laid)
+  const index = answeringOver(laid, root, pageOf)
   expect(index.listedAt(MODULE, "laid")).toEqual([{ path: LAID_AT, id: LAID_ID }])
   expect(listedAt(root, MODULE, "laid")).toEqual([])
   expect(index.everyPath()).toContain(LAID_AT)
@@ -176,13 +174,13 @@ const COLD: Reading = { holds: () => false, listing: () => [], lines: () => [] }
 
 test("no question falls back to the index at a root, even one handed in for something else", () => {
   const root = seeded()
-  const index = answeringOver(COLD)
+  const index = answeringOver(COLD, root, pageOf)
   expect(listedAt(root, MODULE, "held")).toHaveLength(1)
   expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
   expect(() => index.everyPath()).toThrow(NOT_THERE)
   expect(() => index.listedAt(MODULE, "held")).toThrow(NOT_THERE)
   expect(() => index.listedById(HELD_ID)).toThrow(NOT_THERE)
   expect(() => index.filePropertiesAt()).toThrow(NOT_THERE)
-  expect(() => index.kindsUnder(root, PAGE_TYPE, pageOf)).toThrow(NOT_THERE)
-  expect(() => index.knownIn(root, pageOf)).toThrow(NOT_THERE)
+  expect(() => index.kindsUnder(PAGE_TYPE)).toThrow(NOT_THERE)
+  expect(() => index.knownIn()).toThrow(NOT_THERE)
 })

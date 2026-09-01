@@ -66,14 +66,14 @@ export function reasonsIn(value: Value, keyed: Keyed): readonly string[] {
 
 export function keyedIn(pageTypeSlug: string, under: ReadonlySet<string>, shadow: Shadow): Keyed {
   const found = new Map<string, string>()
-  for (const one of shadow.index.propertiesOf(pageTypeSlug, shadow.pageOf)) {
+  for (const one of shadow.index.propertiesOf(pageTypeSlug)) {
     if (under.has(one.pageTypeSlug)) found.set(one.key, one.pagePropertySlug)
   }
   return found
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const under = shadow.index.kindsUnder(change.root, PHONE_NUMBER, shadow.pageOf)
+  const under = shadow.index.kindsUnder(PHONE_NUMBER)
   const pageTypes = shadow.index.pageTypesIn()
   const held = new Map<string, Keyed>()
   const keyedBy = (pageTypeSlug: string): Keyed => {

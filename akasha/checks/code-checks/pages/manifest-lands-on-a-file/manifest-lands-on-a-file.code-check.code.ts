@@ -23,7 +23,7 @@ export function missingIn(
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const said: Judged[] = []
   const there = (path: string): boolean => change.after(path) !== null
-  for (const one of manifestsIn(change.root, shadow)) {
+  for (const one of manifestsIn(shadow)) {
     const text = textIn(change, one.at)
     if (text === null) continue
     for (const reason of missingIn(one.folder, text, there)) said.push({ path: one.at, reason })

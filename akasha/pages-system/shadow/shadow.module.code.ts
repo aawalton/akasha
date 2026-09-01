@@ -61,10 +61,11 @@ function codeOver(change: Change): (path: string) => string | null {
 
 export function shadowAt(root: string): Shadow {
   const reading = readingIn(root)
+  const pageOf = remembering((path) => valueAt(path, root))
   return {
     reading,
-    index: answeringOver(reading),
-    pageOf: remembering((path) => valueAt(path, root)),
+    index: answeringOver(reading, root, pageOf),
+    pageOf,
     codeAt: (path) => path,
   }
 }
@@ -84,7 +85,7 @@ function castOver(change: Change): Cast {
       after: textOf(change.after(path)),
     }))
     const reading = readingOver(change.root, moving, pageOf)
-    const index = answeringOver(reading)
+    const index = answeringOver(reading, change.root, pageOf)
     return { shadow: { reading, index, pageOf, codeAt: codeOver(change) } }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
@@ -106,10 +107,11 @@ export function shadowAsked(change: Change): Shadow {
     listing: (at) => worked().reading.listing(at),
     lines: (at) => worked().reading.lines(at),
   }
+  const pageOf = (path: string): Value | null => worked().pageOf(path)
   return {
     reading,
-    index: answeringOver(reading),
-    pageOf: (path) => worked().pageOf(path),
+    index: answeringOver(reading, change.root, pageOf),
+    pageOf,
     codeAt: (path) => worked().codeAt(path),
   }
 }

@@ -38,8 +38,8 @@ import {
 
 afterAll(scratch.sweep)
 
-function knowing(shadow: Shadow, root: string): Shaped {
-  return shadow.index.knownIn(root, shadow.pageOf)
+function knowing(shadow: Shadow): Shaped {
+  return shadow.index.knownIn()
 }
 
 function judged(change: Change): readonly Judged[] {
@@ -178,7 +178,7 @@ test("a change naming no page and taking nothing away asks the index nothing", (
 test("which properties are relations is read from the schema in the index", () => {
   const root = rooted()
   const shadow = shadowAt(root)
-  expect(relationProperties(shadow, knowing(shadow, root))).toEqual([
+  expect(relationProperties(shadow, knowing(shadow))).toEqual([
     "domain-slug",
     "page-type-slug",
     "part-slugs",
@@ -198,7 +198,7 @@ test("the pages to judge for a page taken away are the ones the reverse edges na
 test("a refusal is laid on the page that names, and one is raised for each name", () => {
   const root = rooted()
   const shadow = shadowAt(root)
-  const known = knowing(shadow, root)
+  const known = knowing(shadow)
   const value = { pageTypeSlug: "note", partSlugs: ["gone", "away"] }
   expect(danglingIn(A, value, known, mortalityIn(shadow, known)).map((one) => one.reason)).toEqual([
     "states `part-slugs`, and no page admitting `domain` carries the slug `gone`",
@@ -209,7 +209,7 @@ test("a refusal is laid on the page that names, and one is raised for each name"
 test("a relation nested in a record is judged, and the refusal names the record and the field", () => {
   const root = rooted()
   const shadow = shadowAt(root)
-  const known = knowing(shadow, root)
+  const known = knowing(shadow)
   const value = { pageTypeSlug: "note", marks: [{ domainSlug: "domain/gone" }] }
   expect(danglingIn(A, value, known, mortalityIn(shadow, known)).map((one) => one.reason)).toEqual([
     "states `marks domain-slug`, and no `domain` carries the slug `gone`",
@@ -219,7 +219,7 @@ test("a relation nested in a record is judged, and the refusal names the record 
 test("one name repeated across a record's entries is judged once", () => {
   const root = rooted()
   const shadow = shadowAt(root)
-  const known = knowing(shadow, root)
+  const known = knowing(shadow)
   const value = {
     pageTypeSlug: "note",
     marks: [{ domainSlug: "domain/gone" }, { domainSlug: "domain/gone" }],
@@ -232,7 +232,7 @@ test("one name repeated across a record's entries is judged once", () => {
 test("a field the record does not declare, and a record deeper than one, are left alone", () => {
   const root = rooted()
   const shadow = shadowAt(root)
-  const known = knowing(shadow, root)
+  const known = knowing(shadow)
   const value = {
     pageTypeSlug: "note",
     marks: [{ partSlugs: ["gone"], deeper: [{ domainSlug: "domain/gone" }] }],

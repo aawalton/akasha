@@ -136,7 +136,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, shadow.index.pageTypesIn())
   const took = change.changed.some((one) => change.after(one) === null)
   if (carried.length === 0 && !took) return []
-  const known = shadow.index.knownIn(change.root, shadow.pageOf)
+  const known = shadow.index.knownIn()
   const mortal = mortalityIn(shadow, known)
   const said: Judged[] = []
   for (const one of carried) said.push(...danglingIn(one.path, one.value, known, mortal))

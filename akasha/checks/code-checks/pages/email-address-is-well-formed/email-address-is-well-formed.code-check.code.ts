@@ -53,7 +53,7 @@ export function keyingIn(under: ReadonlySet<string>, shadow: Shadow): Keying {
     const found = held.get(pageTypeSlug)
     if (found !== undefined) return found
     const made: Keyed[] = []
-    for (const one of shadow.index.propertiesOf(pageTypeSlug, shadow.pageOf)) {
+    for (const one of shadow.index.propertiesOf(pageTypeSlug)) {
       if (under.has(one.pageTypeSlug)) made.push({ propertySlug: one.propertySlug, key: one.key })
     }
     held.set(pageTypeSlug, made)
@@ -77,7 +77,7 @@ export function reasonsIn(path: string, value: Value, keying: Keying): readonly 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (carried.length === 0) return []
-  const under = shadow.index.kindsUnder(change.root, ADDRESS, shadow.pageOf)
+  const under = shadow.index.kindsUnder(ADDRESS)
   const keying = keyingIn(under, shadow)
   const said: Judged[] = []
   for (const one of carried) said.push(...reasonsIn(one.path, one.value, keying))

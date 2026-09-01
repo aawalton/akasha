@@ -92,7 +92,7 @@ function tailedWorld(): Change {
   return { ...held, changed: [...held.changed, TYPE_AT] }
 }
 
-function counting(held: Shadow, asked: () => undefined): Shadow {
+function counting(root: string, held: Shadow, asked: () => undefined): Shadow {
   const reading: Reading = {
     holds: (at) => held.reading.holds(at),
     listing: (at) => {
@@ -103,7 +103,7 @@ function counting(held: Shadow, asked: () => undefined): Shadow {
   }
   return {
     reading,
-    index: answeringOver(reading),
+    index: answeringOver(reading, root, (path) => held.pageOf(path)),
     pageOf: (path) => held.pageOf(path),
     codeAt: (path) => held.codeAt(path),
   }
@@ -238,7 +238,7 @@ test("a page whose body will not load is handed over all the same, carrying why 
 test("the page types are read from a shadow once, however many paths are held against it", () => {
   const change = pagedWorld()
   let asked = 0
-  const shadow = counting(shadowAt(change.root), () => {
+  const shadow = counting(change.root, shadowAt(change.root), () => {
     asked = asked + 1
   })
   expect(PAGES.isInput(PAGE_AT, shadow)).toBe(true)

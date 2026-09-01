@@ -34,13 +34,9 @@ function taking(found: Map<string, Held>, one: Held): undefined {
   if (!found.has(at)) found.set(at, one)
 }
 
-export function judgedIn(
-  carried: readonly Carried[],
-  root: string,
-  shadow: Shadow
-): readonly Held[] {
-  const under = shadow.index.kindsUnder(root, PAGE_TYPE, shadow.pageOf)
-  const properties = shadow.index.kindsUnder(root, PAGE_PROPERTY, shadow.pageOf)
+export function judgedIn(carried: readonly Carried[], shadow: Shadow): readonly Held[] {
+  const under = shadow.index.kindsUnder(PAGE_TYPE)
+  const properties = shadow.index.kindsUnder(PAGE_PROPERTY)
   const found = new Map<string, Held>()
   for (const one of carried) {
     const kind = textAt(one.value, KIND)
@@ -102,7 +98,7 @@ function whyRefused(key: string, nearer: Declared, further: Declared): string | 
 }
 
 function declaringIn(one: Held, shadow: Shadow): readonly Declared[] {
-  if (one.descends) return shadow.index.declarationsOf(one.slug, shadow.pageOf)
+  if (one.descends) return shadow.index.declarationsOf(one.slug)
   const value = shadow.pageOf(one.path)
   return value === null ? [] : shadow.index.carriedIn(value, one.slug)
 }
@@ -124,7 +120,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (carried.length === 0) return []
   const said: Judged[] = []
-  for (const one of judgedIn(carried, change.root, shadow)) {
+  for (const one of judgedIn(carried, shadow)) {
     said.push(...collisionsIn(one, shadow))
   }
   return said

@@ -7,7 +7,6 @@ import { matchingIn } from "@akasha/pages-system/name-format/format-reaching"
 import { lowerKebabCase } from "@akasha/pages-system/name-format/lower-kebab-case"
 import type { Matching } from "@akasha/pages-system/name-format/name-matching"
 import { packageName } from "@akasha/pages-system/name-place/package-name"
-import { kindsUnder } from "@akasha/pages-system/page-type-descent"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
   bodyOf,
@@ -119,17 +118,17 @@ function manifestNamed(shadow: Shadow): string {
   return said
 }
 
-export function packagePagesIn(root: string, shadow: Shadow): readonly string[] {
+export function packagePagesIn(shadow: Shadow): readonly string[] {
   const found = new Set(everyOfType(shadow.reading, PACKAGE).map((one) => one.path))
-  for (const kind of kindsUnder(root, PACKAGE, shadow.reading, shadow.pageOf)) {
+  for (const kind of shadow.index.kindsUnder(PACKAGE)) {
     if (kind === PACKAGE) continue
     for (const one of everyOfType(shadow.reading, kind)) found.add(one.path)
   }
   return [...found].sort()
 }
 
-export function manifestsIn(root: string, shadow: Shadow): readonly Manifest[] {
-  const pages = packagePagesIn(root, shadow)
+export function manifestsIn(shadow: Shadow): readonly Manifest[] {
+  const pages = packagePagesIn(shadow)
   if (pages.length === 0) return []
   const manifest = manifestNamed(shadow)
   return pages.map((path) => {
@@ -190,7 +189,7 @@ export function reasonsIn(
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const manifests = manifestsIn(change.root, shadow)
+  const manifests = manifestsIn(shadow)
   if (manifests.length === 0) return []
   const at = new Set(manifests.map((one) => one.at))
   const packages = packagesIn(change, manifests)
