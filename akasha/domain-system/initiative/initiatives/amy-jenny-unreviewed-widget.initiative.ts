@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The tile was dark because monarch-reading-service's installed systemd unit kept the pre-rename path `akasha/alan-harness/...` while its page was already correct; reinstalled, fresh reading 18:50:37Z carried to both sites. Alan: no code may name a specific readout, none may read the old .md readouts. Left: `RingScale` is declared inside monarch-unreviewed-transactions.readout.code.ts, so generic code imports one readout, and imports-inside makes that move and the repoint one commit.",
+        "Tile is live: the reading service's installed unit kept the pre-rename path; reinstalled and the timer is proven. Repoint landed ca7036fa02 + 2e51456524: RingScale/RingCounts now in module/readout-body; scale-reading and none-left ask the akasha store via pages-system-service on camelCase keys, not markdown; the answerer takes a readout slug and reads wireKey/scaleSlug off its page. Left: each route names its one readout, and the pod is well behind HEAD so none of this is live yet.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
