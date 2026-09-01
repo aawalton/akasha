@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aMalformedReadAndARefusedOneAreToldApartOnlyByTheirWords = {
+  id: "01a05bd2-dd42-769e-a5b9-31df5dcfe3ee",
+  pageTypeSlug: "finding",
+  slug: "a-malformed-read-and-a-refused-one-are-told-apart-only-by-their-words",
+  domainSlug: "workspace-package/pages-system",
+  claim:
+    "The page store answers a malformed read and a refused one with the same 400, so a check that names the payload key wrongly reads exactly like the guard working. Whoever verifies the secret guard by status code alone gets a green having tested nothing.",
+  evidence:
+    "Found by making the mistake. Three probes were sent to `/read` carrying `filePath`, which the endpoint does not read; it takes `paths` as a list, or `pages`. All three came back 400. One asked for an ordinary page, one for a `.sops.` tail, one for an `.uncommitted.` tail, and the two meant to be refused were refused — but so was the one meant to succeed, and every body said the same thing: `a read carries at least one path or one page`. Read by status alone that is a guard turning away secrets. It is a request the endpoint never parsed.\n\nRe-run with `paths`, the four answers separate properly: an ordinary page 200 with its body; a `.sops.yaml` path 400 with `holds a page's secret values, and this hands out no secret`; an `.uncommitted.json` path 400 with `holds a page's uncommitted values, and this hands out no uncommitted value`; and a path under `shared/` 400 with `stands outside akasha/, and this answers for akasha alone`. So the guard does hold, and this finding is not that it is broken.\n\nWhat it is: the guard cannot be verified by status code, and the obvious verification is the one that lies. `refusalIn` returns its message before anything places a path, so a request naming no key and a request naming a secret are turned away by the same line. The messages differ and the codes do not.\n\nThis matters because that guard was closed against a real exposure: a pod in an unrelated namespace, holding no grant, was answered 200 with a real body, and all 113 running pods stand in the caller set. A guard closing that is worth re-checking, and the re-check costing one line is the one that cannot fail.\n\nThe call I took: file this rather than change the endpoint, whose callers were not surveyed. Whoever verifies this next asserts on the refusal's words rather than its number.",
+} as const satisfies Finding
