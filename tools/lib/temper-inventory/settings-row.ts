@@ -1,4 +1,3 @@
-import { patchPage } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import { isJson } from "@akasha/utils-narrow/is-json"
 import type { InventoryRuleSettings } from "@temper/game-items-rules-core/inventory-rule-types"
@@ -8,8 +7,6 @@ import { createDefaultRuleSettings } from "./game-code.ts"
 import { InventoryRuleSettingsSchema } from "./rule-settings-schema.ts"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
-
-const WRITER = "ops-temper-inventory"
 
 const INDENT = 2
 
@@ -70,6 +67,18 @@ async function readSettings(
   return (await readPlayerPage(accountUserId, caller)).settings
 }
 
+// EVERY RULE A PLAYER SETS IS READ BACK AND NONE OF THEM IS KEPT. Both slices live in one
+// `settings` key on the player page, patched with `patchPage`, which the store refuses
+// unconditionally. So the reads below answer every `list` and `show` command, and every command
+// that changes something — create, update, delete, reorder, lock, unlock and duplicate across the
+// rule, item-rule and buy-rule families, plus `automation set` — ends here.
+//
+// The slice is still assembled before the refusal, because assembling it is where a rule that
+// cannot be represented would be caught, and that judgement should not be lost behind a store that
+// says no first. What is dropped is named by size, so a run says how much of the settings blob went
+// unkept rather than only that a write refused.
+const NO_KEYED_WRITE = "the page store refuses every keyed write"
+
 async function writeSlice(
   accountUserId: string,
   sliceKey: SliceKey,
@@ -77,14 +86,12 @@ async function writeSlice(
   caller: string
 ): Promise<undefined> {
   const player = await readPlayerPage(accountUserId, caller)
-  const landed = await patchPage(
-    PLAYER_PAGE_TYPE_SLUG,
-    player.name,
-    { settings: JSON.stringify({ ...player.settings, [sliceKey]: next }, null, INDENT) },
-    WRITER
+  const settings = JSON.stringify({ ...player.settings, [sliceKey]: next }, null, INDENT)
+  throw new Error(
+    `${caller}: the \`${sliceKey}\` settings of \`${PLAYER_PAGE_TYPE_SLUG}/${player.name}\` were ` +
+      `not patched — ${NO_KEYED_WRITE}. ${settings.length} character(s) of settings were built ` +
+      `and dropped, and every read of these rules still answers with what stood before`
   )
-  if (!landed.ok) throw new Error(`${caller}: ${landed.why}`)
-  return undefined
 }
 
 export async function readInventoryRuleSettings(

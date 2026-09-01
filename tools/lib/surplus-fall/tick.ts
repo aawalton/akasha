@@ -1,4 +1,3 @@
-import { patchPage, writePage } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import { getEsoDayStr } from "@akasha/day/eso-day"
 import { ALAN_PERSON } from "../notify.ts"
@@ -54,16 +53,27 @@ export async function tierSaidOn(day: string): Promise<TierSaid> {
   return { stands: true, said }
 }
 
+// THIS IS THE SECOND OF TWO BREAKS ON THIS PATH, AND NOTHING REACHES IT. The tick already stops
+// above, in `readReading` and `readSleepHours` at `./readout.ts:93` and `:99`, which refuse because
+// both readings stood behind a saved query. So no tick has come this far since `4c1f05a264`.
+//
+// It is stated anyway, because repairing the readings alone would not restore the notifier: what
+// is written here is the mark that says a fall has already been announced today, and it went in
+// with `patchPage` or `writePage`, both refused. Without it `tierSaidOn` above would read `null`
+// every tick and the notifier would announce the same fall every five minutes.
+const NO_KEYED_WRITE = "the page store refuses every keyed write"
+
 export async function sayTierOn(
   day: string,
   tier: TierColor,
   stands: boolean,
-  writer: string
+  _writer: string
 ): Promise<void> {
-  const written = stands
-    ? await patchPage(DAY_PAGE_TYPE, day, { [TIER_SAID_KEY]: tier }, writer)
-    : await writePage(DAY_PAGE_TYPE, day, { [DAY_KEY]: day, [TIER_SAID_KEY]: tier }, writer)
-  if (!written.ok) throw new Error(`sayTierOn: ${written.why}`)
+  throw new Error(
+    `sayTierOn: \`${DAY_PAGE_TYPE}/${day}\` was not ${stands ? "patched" : "written"} — ` +
+      `${NO_KEYED_WRITE}, so \`${TIER_SAID_KEY}\` does not record that ${tier} was announced ` +
+      `and the next tick would announce it again`
+  )
 }
 
 async function tierOrNull(

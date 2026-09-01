@@ -1,9 +1,6 @@
 import { type TowerState, TowerStateSchema } from "@akasha/tower-core/tower-state"
 import { TOWER_SESSION_SLUG } from "@akasha/tower/tower-page-slugs"
-import { patchRow, writeRow } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
-
-export const TOWER_WRITER = "ops tower"
 
 const GAME_KEY = "game-slug"
 
@@ -68,23 +65,15 @@ async function sessionRow(game: string, externalId: string): Promise<Values | nu
   return held[0] ?? null
 }
 
-function valuesFor(
-  externalId: string,
-  session: TowerState,
-  characterId?: string,
-  floorId?: string
-): Readonly<Record<string, unknown>> {
-  return {
-    "external-id": externalId,
-    turn: session.turn,
-    hud: session.hud,
-    sheet: session.sheet,
-    log: session.log,
-    chapters: session.chapters,
-    ...(characterId === undefined ? {} : { character: characterId }),
-    ...(floorId === undefined ? {} : { floor: floorId }),
-  }
-}
+// NO TURN HAS BEEN COMMITTED SINCE THE STORE STOPPED TAKING KEYED WRITES. A new session went in
+// with `writeRow` and a standing one with `patchRow`; both refuse, so `ops tower commit` fails on
+// either branch. `getTowerSession` below still reads, so `ops tower state` and `ops tower
+// snapshot` answer — against whatever turn stood when the writes died. The game reads as playable
+// and does not advance.
+//
+// The turn is still parsed and narrowed before the refusal, so a commit that would have been
+// rejected as malformed is still rejected as malformed rather than blamed on the store.
+const NO_KEYED_WRITE = "the page store refuses every keyed write"
 
 export async function upsertTowerSession(args: {
   readonly game: string
@@ -94,31 +83,14 @@ export async function upsertTowerSession(args: {
   readonly floorId?: string
 }): Promise<TowerSessionRecord> {
   const session = TowerStateSchema.parse(args.session)
-  const values = valuesFor(args.externalId, session, args.characterId, args.floorId)
   const standing = await sessionRow(args.game, args.externalId)
 
-  if (standing === null) {
-    const written = await writeRow(TOWER_SESSION_SLUG, args.game, values, TOWER_WRITER)
-    if (!written.ok) {
-      throw new Error(
-        `\`${TOWER_SESSION_SLUG}/${args.externalId}\` was not written: ${written.why}`
-      )
-    }
-    const back = await sessionRow(args.game, args.externalId)
-    if (back === null) {
-      throw new Error(
-        `\`${TOWER_SESSION_SLUG}/${args.externalId}\` landed and then read back as nothing`
-      )
-    }
-    return { id: idOf(back), externalId: args.externalId, session }
-  }
-
-  const id = idOf(standing)
-  const patched = await patchRow(TOWER_SESSION_SLUG, args.game, { id, ...values }, TOWER_WRITER)
-  if (!patched.ok) {
-    throw new Error(`\`${TOWER_SESSION_SLUG}/${args.externalId}\` was not patched: ${patched.why}`)
-  }
-  return { id, externalId: args.externalId, session }
+  throw new Error(
+    `\`${TOWER_SESSION_SLUG}/${args.externalId}\` was not ` +
+      `${standing === null ? "written" : "patched"} — ${NO_KEYED_WRITE}. ` +
+      `Turn ${session.turn} of \`${args.game}\` was not kept, and the session still reads at ` +
+      `${standing === null ? "no turn at all" : `turn ${turnOf(standing)}`}`
+  )
 }
 
 export async function getTowerSession(

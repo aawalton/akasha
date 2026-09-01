@@ -1,143 +1,36 @@
-import { patchPage, patchRow, writeRow } from "@shared/pages-query"
-import { askPage } from "@shared/pages-query/ask"
 import type { SyncResult } from "./result.ts"
 
 const SYNC_RUN_SLUG = "sync-run"
-const SYNC_SLUG = "sync"
+
+// A RUN OF A SYNC HAS NOT BEEN RECORDED SINCE THE STORE STOPPED TAKING KEYED WRITES. Everything
+// this did was a keyed write: `writeRow` opened the run, `patchPage` marked the sync as running,
+// `patchRow` settled it, and a second `patchRow` swept a stale run left by a killed process. All
+// four refuse unconditionally.
+//
+// The opening `writeRow` was the first non-read statement, and it threw — so `syncFn()` was never
+// called. That is the part worth being clear about: this wrapper has not merely failed to record
+// the great-courses sync, it has been the reason that sync does not run at all. The one caller is
+// `services/great-courses-sync.ts`, on a 07:35 daily timer.
+//
+// It still refuses rather than running `syncFn` and shrugging about the record, because tracking
+// is the whole of what this is for. A run nobody can see the start, end or failure of is not a
+// tracked run, and `sweepStaleRun` existed precisely because a run whose ending went unwritten is
+// indistinguishable from one still going. Removing the refusal here would trade a loud stop for a
+// silent, unobservable sync — flip it deliberately if that is the trade you want, and know that
+// `tools/lib/great-courses/create-course.ts` refuses every course anyway, so today the sync would
+// read everything and create nothing.
+const NO_KEYED_WRITE = "the page store refuses every keyed write"
 
 export const SYNC_WRITER = "sync-run-tracker"
 
-const STALE_RUN_THRESHOLD_MS = 7 * 60 * 60 * 1000
-
-type Row = Record<string, string | number | boolean>
-
-function millisAt(value: unknown): number | null {
-  if (typeof value === "number") return Number.isFinite(value) ? value : null
-  if (typeof value !== "string" || value === "") return null
-  const parsed = Date.parse(value)
-  return Number.isNaN(parsed) ? null : parsed
-}
-
-async function sweepStaleRun(
-  source: string,
-  startedAtMs: number,
-  staleAfterMs: number
-): Promise<void> {
-  const asked = await askPage(SYNC_SLUG, source)
-  if (asked.outcome === "absent") return
-  if (asked.outcome === "unasked") {
-    throw new Error(
-      `sweepStaleRun(${source}): whether a run of this sync is still marked running went unread, so a stale one could not be swept: ${asked.why}`
-    )
-  }
-  const values = asked.page.values
-  const runId = values["running-run"]
-  if (typeof runId !== "string" || runId === "") return
-  const sinceMs = millisAt(values["running-since-at"])
-  if (sinceMs !== null && sinceMs >= startedAtMs - staleAfterMs) return
-  await patchRow(
-    SYNC_RUN_SLUG,
-    source,
-    {
-      id: runId,
-      status: "failed",
-      "completed-at": new Date(startedAtMs).toISOString(),
-      "error-message": "stale: process terminated before recording completion",
-    },
-    SYNC_WRITER
-  )
-}
-
 export async function trackSyncRun(
   source: string,
-  syncFn: () => Promise<SyncResult>,
-  staleAfterMs: number = STALE_RUN_THRESHOLD_MS
+  _syncFn: () => Promise<SyncResult>,
+  _staleAfterMs?: number
 ): Promise<void> {
-  const startedAtMs = Date.now()
-  const startedAt = new Date(startedAtMs).toISOString()
-
-  await sweepStaleRun(source, startedAtMs, staleAfterMs)
-
-  const runId = Bun.randomUUIDv7()
-  await writeRow(
-    SYNC_RUN_SLUG,
-    source,
-    { id: runId, source, status: "running", "started-at": startedAt },
-    SYNC_WRITER
+  throw new Error(
+    `trackSyncRun(${source}): no \`${SYNC_RUN_SLUG}\` row can be opened — ${NO_KEYED_WRITE}, ` +
+      `so the start, the ending and any failure of this run would all go unwritten. ` +
+      `The sync was not started rather than run unobserved`
   )
-  await patchPage(
-    SYNC_SLUG,
-    source,
-    { "running-run": runId, "running-since-at": startedAt },
-    SYNC_WRITER
-  )
-
-  let recorded = false
-  const finalize = async (set: Row): Promise<void> => {
-    recorded = true
-    await patchRow(SYNC_RUN_SLUG, source, { id: runId, ...set }, SYNC_WRITER)
-    await patchPage(SYNC_SLUG, source, { "running-run": "", "running-since-at": "" }, SYNC_WRITER)
-  }
-
-  const onSignal = (signal: NodeJS.Signals, code: number): undefined => {
-    if (recorded) return
-    recorded = true
-    const completedAtMs = Date.now()
-    void patchRow(
-      SYNC_RUN_SLUG,
-      source,
-      {
-        id: runId,
-        status: "failed",
-        "completed-at": new Date(completedAtMs).toISOString(),
-        "duration-ms": completedAtMs - startedAtMs,
-        "error-message": `terminated by ${signal} before completion`,
-      },
-      SYNC_WRITER
-    ).finally(() => process.exit(code))
-  }
-  const onSigterm = (): undefined => onSignal("SIGTERM", 143)
-  const onSigint = (): undefined => onSignal("SIGINT", 130)
-  process.once("SIGTERM", onSigterm)
-  process.once("SIGINT", onSigint)
-
-  try {
-    let result: SyncResult
-    try {
-      result = await syncFn()
-    } catch (thrown) {
-      const completedAtMs = Date.now()
-      await finalize({
-        status: "failed",
-        "completed-at": new Date(completedAtMs).toISOString(),
-        "duration-ms": completedAtMs - startedAtMs,
-        "error-message": String(thrown).slice(0, 2000),
-      })
-      throw thrown
-    }
-
-    const completedAtMs = Date.now()
-    const hasFailures = result.failed > 0
-    await finalize({
-      status: hasFailures ? "failed" : "success",
-      "completed-at": new Date(completedAtMs).toISOString(),
-      "duration-ms": completedAtMs - startedAtMs,
-      "created-count": result.created,
-      "updated-count": result.updated,
-      "skipped-count": result.skipped,
-      "failed-count": result.failed,
-      ...(hasFailures && {
-        "error-message": `sync completed with ${result.failed} item failure${result.failed === 1 ? "" : "s"}`,
-      }),
-    })
-
-    if (hasFailures) {
-      throw new Error(
-        `sync "${source}" recorded ${result.failed} item failure${result.failed === 1 ? "" : "s"}, so this exits non-zero`
-      )
-    }
-  } finally {
-    process.off("SIGTERM", onSigterm)
-    process.off("SIGINT", onSigint)
-  }
 }

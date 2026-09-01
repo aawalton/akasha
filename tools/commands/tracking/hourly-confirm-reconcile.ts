@@ -1,6 +1,5 @@
-export const summary = "Record that a question's answer has been applied to the ledger, which is what lets the hourly stream ask again (applying it stays your judgment)"
+export const summary = "Record that a question's answer has been applied to the ledger — refuses, because the store takes no keyed write, so the hourly stream cannot be released this way"
 
-import { patchPage } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import type { CommandHelp } from "../../ops/surface.ts"
 import {
@@ -12,7 +11,15 @@ import { parseArgs } from "../../lib/parse-args.ts"
 
 const RECONCILED_AT_KEY = "reconciled-at"
 
-const WRITER = "ops tracking hourly-confirm-reconcile"
+// THIS COMMAND EXISTS TO WRITE ONE KEY AND CANNOT WRITE IT. The stamp went on with `patchPage`,
+// which the store refuses unconditionally, so every run since has read the question fine and then
+// failed at the only thing it was for.
+//
+// What that blocks is worth naming, because the consumer is live: `tools/lib/tracking/
+// hourly-confirm.ts:35` gates on `reconciledAtMs === null` and will not ask about a question again
+// until this key is set. So the hourly stream stops on the first question Alan answers and has no
+// way to be released — not by this command, and there is no other writer of the key.
+const NO_KEYED_WRITE = "the page store refuses every keyed write"
 
 function textOf(value: unknown): string | undefined {
   if (typeof value !== "string") return undefined
@@ -40,10 +47,10 @@ export const help: CommandHelp = {
     },
   ],
   exits: [
-    { code: 0, meaning: "stamped, or reported an existing stamp" },
+    { code: 0, meaning: "reported an existing stamp — no new stamp can be written" },
     { code: 1, meaning: "invalid flags, or a question carrying no answer" },
     { code: 2, meaning: "no such question" },
-    { code: 3, meaning: "the page store could not be read, or the stamp did not land" },
+    { code: 3, meaning: "the page store could not be read, or refused the stamp" },
   ],
   examples: [
     "ops tracking hourly-confirm-reconcile --question 019faa50-4459-71af-bec7-17fd97a30fd4",
@@ -99,23 +106,9 @@ export default async function trackingHourlyConfirmReconcileCommand(
     )
   }
 
-  const at = new Date().toISOString()
-  const landed = await patchPage(
-    QUESTION_PAGE_TYPE_SLUG,
-    named,
-    { [RECONCILED_AT_KEY]: at },
-    WRITER
-  )
-  if (!landed.ok) {
-    throw operationalError(
-      `hourly-confirm-reconcile: stamping ${RECONCILED_AT_KEY} on question ${questionId}: ${landed.why}`
-    )
-  }
-
-  const envelope = { question: questionId, reconciledAt: at, alreadyStamped: false }
-  process.stdout.write(
-    json
-      ? `${JSON.stringify(envelope)}\n`
-      : `stamped ${questionId} reconciled at ${at} — the hourly stream can ask again\n`
+  throw operationalError(
+    `hourly-confirm-reconcile: \`${QUESTION_PAGE_TYPE_SLUG}/${named}\` was not stamped — ` +
+      `${NO_KEYED_WRITE}. Question ${questionId} still reads as unreconciled, so the hourly ` +
+      `stream stays stopped on it and no run of this command can release it`
   )
 }
