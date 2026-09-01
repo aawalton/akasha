@@ -1,4 +1,4 @@
-import type { ModelTest } from "../model-test.page-type.ts"
+import type { ModelTest } from "../../model-test.page-type.ts"
 
 export const restatement = {
   id: "01a05a0b-3a49-7019-a1b3-203a1b2c9625",
