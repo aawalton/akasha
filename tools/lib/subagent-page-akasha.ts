@@ -1,56 +1,34 @@
-import { readdirSync } from "node:fs"
-import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import {
+  pathOf,
+  pathsUnder,
+  slugOf,
+  SUBAGENTS_AT,
+  tookUnder,
+} from "../../akasha/seat-system/subagent/subagent-presence/subagent-presence.module.code.ts"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { landInAkasha } from "./akasha-landing.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { type Outcome } from "./gated-write.ts"
 
-const DIR = "akasha/seat-system/subagent/subagents"
-
-const SUFFIX = ".subagent.ts"
-
-const WRITER = "subagent-page-writer"
-
-// A slug holds no empty word and neither opens nor closes with a hyphen, so the `--` that marks a
-// subagent's own id off from its seat's in an agent id is one hyphen here. The seat is stated on
-// the page as well, so nothing has to take the slug apart to find it.
 export function akashaSubagentSlug(seatName: string, own: string): string {
-  return `${seatName}-${own}`.replace(/-{2,}/g, "-")
+  return slugOf(seatName, own)
 }
 
 export function akashaSubagentRelPath(slug: string): string {
-  return `${DIR}/${slug}${SUFFIX}`
+  return pathOf(slug)
 }
 
 export function akashaSubagentsDirIn(root: string): string {
-  return `${root}/${DIR}`
+  return `${root}/${SUBAGENTS_AT}`
 }
 
-function taking(root: string, paths: readonly string[], why: string): Outcome {
-  if (paths.length === 0) return { kind: "unchanged" }
-  const taken = landInAkasha(WRITER, root, [
-    "write",
-    ...paths.flatMap((one) => ["--remove", one]),
-    "--message",
-    why,
-  ])
-  return taken.kind === "written" ? { kind: "removed" } : taken
-}
-
+// The readers here address a page on disk rather than in a commit, so what they are handed is
+// rooted. What lands a change addresses it under the repository root, so the two are parted here.
 export function akashaSubagentPathsOf(
   seatName: string,
   roots: Roots = resolveRoots()
 ): readonly string[] {
-  const dir = akashaSubagentsDirIn(rootFor(roots, AKASHA))
-  const mark = `${seatName}-`
-  let names: readonly string[]
-  try {
-    names = readdirSync(dir)
-  } catch {
-    return []
-  }
-  return names
-    .filter((name) => name.startsWith(mark) && name.endsWith(SUFFIX))
-    .map((name) => `${dir}/${name}`)
+  const root = rootFor(roots, AKASHA)
+  return pathsUnder(root, seatName).map((one) => `${root}/${one}`)
 }
 
 export function removeAkashaSubagentPagesOf(
@@ -58,10 +36,8 @@ export function removeAkashaSubagentPagesOf(
   why: string,
   roots: Roots = resolveRoots()
 ): Outcome {
-  const paths = akashaSubagentPathsOf(seatName, roots)
-  return taking(
-    rootFor(roots, AKASHA),
-    paths,
-    `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) standing under it go`
-  )
+  const root = rootFor(roots, AKASHA)
+  if (pathsUnder(root, seatName).length === 0) return { kind: "unchanged" }
+  if (tookUnder(root, seatName, why)) return { kind: "removed" }
+  return { kind: "refused", detail: `the subagent pages under ${seatName} did not go` }
 }
