@@ -358,6 +358,9 @@
         "react": "^18 || ^19",
       },
     },
+    "akasha/pages-system/pages-url": {
+      "name": "@akasha/pages-url",
+    },
     "akasha/person-system": {
       "name": "@akasha/person-system",
       "dependencies": {
@@ -4025,6 +4028,8 @@
     "@akasha/pages-ui": ["@akasha/pages-ui@workspace:akasha/pages-system/pages-ui"],
 
     "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:akasha/pages-system/pages-ui-store"],
+
+    "@akasha/pages-url": ["@akasha/pages-url@workspace:akasha/pages-system/pages-url"],
 
     "@akasha/person-system": ["@akasha/person-system@workspace:akasha/person-system"],
 
