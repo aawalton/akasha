@@ -28,5 +28,8 @@ export const emberMigrateTemperToAkasha = {
     },
     { statement: "No part of temper is outside akasha." },
   ],
-  constraints: ["The entries work lands in pages-system rather than under temper."],
+  constraints: [
+    "The entries work lands in pages-system rather than under temper.",
+    "Every part of temper migrated into akasha lands under `akasha/temper`.",
+  ],
 } as const satisfies Initiative
