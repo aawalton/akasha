@@ -120,14 +120,6 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/checkout-provenance": {
-      "name": "@akasha/checkout-provenance",
-      "dependencies": {
-        "@akasha/git": "workspace:*",
-        "@infra/git-porcelain": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "akasha/checks-system": {
       "name": "@akasha/checks-system",
       "dependencies": {
@@ -744,6 +736,14 @@
     },
     "akasha/verdict": {
       "name": "@akasha/verdict",
+    },
+    "akasha/version/checkout": {
+      "name": "@akasha/checkout-provenance",
+      "dependencies": {
+        "@akasha/git": "workspace:*",
+        "@infra/git-porcelain": "workspace:*",
+        "zod": "^4.3.6",
+      },
     },
     "akasha/voice-core": {
       "name": "@akasha/voice-core",
@@ -3696,7 +3696,7 @@
 
     "@akasha/calendar-google": ["@akasha/calendar-google@workspace:akasha/calendar-google"],
 
-    "@akasha/checkout-provenance": ["@akasha/checkout-provenance@workspace:akasha/checkout-provenance"],
+    "@akasha/checkout-provenance": ["@akasha/checkout-provenance@workspace:akasha/version/checkout"],
 
     "@akasha/checks-system": ["@akasha/checks-system@workspace:akasha/checks-system"],
 
