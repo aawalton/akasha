@@ -1,6 +1,7 @@
 export const summary = "One-time OAuth consent flow that mints the Gmail refresh token"
 
-import { parseOauthCallbackUrl } from "../../../../alanwalton/email-google/src/oauth-callback.ts"
+import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
+import { parseOauthCallbackUrl } from "@akasha/google-oauth/oauth-callback"
 import type { CommandHelp } from "../../../ops/surface.ts"
 import { emailGoogle } from "../../../lib/email-code.ts"
 import { googleOauthConsent } from "../../../lib/google-oauth-consent.ts"
@@ -42,7 +43,7 @@ export default async function emailAuthLogin(args: readonly string[]): Promise<v
   const parsed = parseArgs(help, args)
 
   const google = await emailGoogle()
-  const { clientId, clientSecret } = google.readGmailOauthAppCredentials()
+  const { clientId, clientSecret } = readGoogleOauthAppCredentials()
 
   await googleOauthConsent({
     callbackParser: parseOauthCallbackUrl,

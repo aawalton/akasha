@@ -1,14 +1,14 @@
-import type { ComposeInput } from "@alanwalton/email-google/types"
+import type { ComposeInput } from "@akasha/email-google/types"
 import { parseSender } from "@akasha/email-inbound/sender"
 import type { ParsedArgs } from "./parse-args.ts"
 
-export type EmailGoogle = typeof import("@alanwalton/email-google/messages") &
-  typeof import("@alanwalton/email-google/drafts") &
-  typeof import("@alanwalton/email-google/attachments") &
-  typeof import("@alanwalton/email-google/client") &
-  typeof import("@alanwalton/email-google/env") &
-  typeof import("@alanwalton/email-google/schema") &
-  typeof import("@alanwalton/email-google/unsubscribe")
+export type EmailGoogle = typeof import("@akasha/email-google/messages") &
+  typeof import("@akasha/email-google/drafts") &
+  typeof import("@akasha/email-google/attachments") &
+  typeof import("@akasha/email-google/client") &
+  typeof import("@akasha/email-google/env") &
+  typeof import("@akasha/email-google/schema") &
+  typeof import("@akasha/email-google/unsubscribe")
 
 interface Sender {
   readonly name: string
@@ -17,13 +17,13 @@ interface Sender {
 
 export async function emailGoogle(): Promise<EmailGoogle> {
   const parts = await Promise.all([
-    import("@alanwalton/email-google/messages"),
-    import("@alanwalton/email-google/drafts"),
-    import("@alanwalton/email-google/attachments"),
-    import("@alanwalton/email-google/client"),
-    import("@alanwalton/email-google/env"),
-    import("@alanwalton/email-google/schema"),
-    import("@alanwalton/email-google/unsubscribe"),
+    import("@akasha/email-google/messages"),
+    import("@akasha/email-google/drafts"),
+    import("@akasha/email-google/attachments"),
+    import("@akasha/email-google/client"),
+    import("@akasha/email-google/env"),
+    import("@akasha/email-google/schema"),
+    import("@akasha/email-google/unsubscribe"),
   ])
   return Object.assign({}, ...parts) as EmailGoogle
 }

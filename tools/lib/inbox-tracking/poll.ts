@@ -1,5 +1,5 @@
-import { makeGmailClient } from "@alanwalton/email-google/client"
-import { INBOX_LABEL, listMessages } from "@alanwalton/email-google/messages"
+import { makeGmailClient } from "@akasha/email-google/client"
+import { INBOX_LABEL, listMessages } from "@akasha/email-google/messages"
 import { fetchUnreadCount } from "@alanwalton/imessage/lib/remote"
 import { askComposed } from "../page-query-client.ts"
 import type { InboxKey } from "./keys.ts"
