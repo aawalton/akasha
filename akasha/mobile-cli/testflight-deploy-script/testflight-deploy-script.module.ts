@@ -1,0 +1,31 @@
+import type { Module } from "@akasha/code-system/module"
+
+export const testflightDeployScript = {
+  id: "01a05cee-e560-7155-aa17-bd611c29ba2d",
+  pageTypeSlug: "module",
+  slug: "testflight-deploy-script",
+  definition: "the bash script a mac runs to archive an ios app and upload it to testflight",
+  code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The whole deploy is one bash script assembled before anything runs on the mac.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The mac build lock is taken before the checkout runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ipa is gated on carrying the cut commit before it is uploaded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The export options plist is written by a heredoc inside the script.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A no-upload run validates the ipa where a real run would upload it.",
+    },
+  ],
+} as const satisfies Module

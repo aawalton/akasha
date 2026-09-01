@@ -1,0 +1,42 @@
+{
+  "name": "@akasha/mobile-cli",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./altool": "./altool/altool.module.code.ts",
+    "./appium-client": "./appium-client/appium-client.module.code.ts",
+    "./asc-client": "./asc-client/asc-client.module.code.ts",
+    "./build-input-sources": "./build-input-sources/build-input-sources.module.code.ts",
+    "./build-stamp-gate": "./build-stamp-gate/build-stamp-gate.module.code.ts",
+    "./cut-fingerprint": "./cut-fingerprint/cut-fingerprint.module.code.ts",
+    "./foundation": "./foundation/foundation.module.code.ts",
+    "./git-tree-hash": "./git-tree-hash/git-tree-hash.module.code.ts",
+    "./install-sim-shell": "./install-sim-shell/install-sim-shell.module.code.ts",
+    "./ios-program-components": "./ios-program-components/ios-program-components.module.code.ts",
+    "./local-cut-lock": "./local-cut-lock/local-cut-lock.module.code.ts",
+    "./mac-build-serialization": "./mac-build-serialization/mac-build-serialization.module.code.ts",
+    "./macbook-target": "./macbook-target/macbook-target.module.code.ts",
+    "./mobile-app": "./mobile-app/mobile-app.module.code.ts",
+    "./mobile-ssh": "./mobile-ssh/mobile-ssh.module.code.ts",
+    "./push-tap-script": "./push-tap-script/push-tap-script.module.code.ts",
+    "./sim-driver": "./sim-driver/sim-driver.module.code.ts",
+    "./sim-macbook": "./sim-macbook/sim-macbook.module.code.ts",
+    "./sim-session": "./sim-session/sim-session.module.code.ts",
+    "./sim-www-stage": "./sim-www-stage/sim-www-stage.module.code.ts",
+    "./testflight-deploy-script": "./testflight-deploy-script/testflight-deploy-script.module.code.ts",
+    "./testflight-poll": "./testflight-poll/testflight-poll.module.code.ts",
+    "./www-build": "./www-build/www-build.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/code-system": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@akasha/supabase-auth": "workspace:*",
+    "@akasha/utils-fs": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/utils-process": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "@tools/lib": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

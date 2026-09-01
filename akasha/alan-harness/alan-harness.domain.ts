@@ -51,6 +51,7 @@ export const alanHarness = {
     "workspace-package/status-bar-access",
     "workspace-package/browser-test-harness",
     "workspace-package/object-store",
+    "workspace-package/mobile-cli",
   ],
   invariants: [
     {
