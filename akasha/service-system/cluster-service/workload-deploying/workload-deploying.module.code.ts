@@ -166,9 +166,9 @@ export function standInsOf(plan: Plan): readonly string[] {
   return plan.manifests.flatMap((one) => standInsIn(one).map((why) => `${one.path}: ${why}`))
 }
 
-export type Standing = { readonly stands: boolean } | { readonly why: string }
+export type Matched = { readonly stands: boolean } | { readonly why: string }
 
-export function standingOf(manifest: Manifest): Standing {
+export function standingOf(manifest: Manifest): Matched {
   const ran = runKubectlOn(["diff", "-f", "-"], manifest.yaml)
   if (ran.code === 0) return { stands: true }
   if (ran.code === 1) return { stands: false }
