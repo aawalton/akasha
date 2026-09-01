@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "@akasha/utils-fs": "workspace:*",
-    "@shared/errors-core": "workspace:*"
+    "@akasha/errors-core": "workspace:*"
   }
 }
