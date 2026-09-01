@@ -1,6 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
 
 const HOLD = "/var/tmp"
 const PREFIX = "akasha-web-app-"
@@ -46,13 +47,9 @@ const SYNTH = [
   "",
 ].join("\n")
 
-function named(slug: string): string {
-  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
-}
-
 function pageOf(slug: string, held: Record<string, unknown>): string {
   const lines = Object.entries(held).map(([key, one]) => `  ${key}: ${JSON.stringify(one)},`)
-  return [`export const ${named(slug)} = {`, ...lines, "}", ""].join("\n")
+  return [`export const ${exportedAs(slug)} = {`, ...lines, "}", ""].join("\n")
 }
 
 function webApp(slug: string, at: number, slugs: readonly string[], whole = true): string {
