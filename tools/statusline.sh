@@ -12,6 +12,16 @@ set -euo pipefail
 #
 # The lesson is the ordering rather than this file: a path a running process was handed cannot be
 # deleted in the commit that moves it. It goes one cycle later.
+#
+# It moved a second time, to `shell-scripts/pages/`, and this line was not carried along, so the
+# bridge exec'd a path that was not there and every bridged session lost its statusline without a
+# word. A bridge is only a bridge while both ends are real, and nothing here checks that.
 REPO=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd -P)
+HELD="$REPO/akasha/code-system/shell-scripts/pages/statusline/statusline.shell-script.shell.sh"
 
-exec bash "$REPO/akasha/code-system/shell-script/shell-scripts/statusline.shell-script.shell.sh" "$@"
+if [ ! -f "$HELD" ]; then
+  printf 'statusline: %s is not there\n' "$HELD" >&2
+  exit 1
+fi
+
+exec bash "$HELD" "$@"
