@@ -1,3 +1,5 @@
+import { bindingFor, tokeningFor } from "./token-renaming.module.code.ts"
+
 export const HELD = "akasha/held/held.module.code.ts"
 
 export const NAMER = "akasha/namer/namer.module.code.ts"
@@ -17,6 +19,8 @@ export const PAIRED = "akasha/paired/paired.module.code.ts"
 export const WELDED = "akasha/welded/welded.module.code.ts"
 
 export const PLAIN = "akasha/plain/plain.module.code.ts"
+
+export const FILLED = "akasha/filled/filled.module.code.ts"
 
 export const UNWELDED = "akasha/unwelded/unwelded.module.code.ts"
 
@@ -48,6 +52,18 @@ const PLAIN_BODY =
   "  return { keyed }\n" +
   "}\n"
 
+const FILLED_BODY =
+  "export type Filled = { readonly keyed: readonly string[] } | { readonly refused: string }\n" +
+  "\n" +
+  "export function everyFour(said: readonly string[]): Filled {\n" +
+  "  const keyed = [...said]\n" +
+  "  return { keyed }\n" +
+  "}\n" +
+  "\n" +
+  "export function oneFour(said: string): Filled {\n" +
+  "  return { keyed: [said] }\n" +
+  "}\n"
+
 const UNWELDED_BODY =
   "export type Written = { readonly keyed: readonly string[] }\n" +
   "\n" +
@@ -56,15 +72,14 @@ const UNWELDED_BODY =
   "  return { keyed }\n" +
   "}\n" +
   "\n" +
-  "export function noneTwo(): Written {\n" +
-  "  return { keyed: [] }\n" +
-  "}\n"
+  "export const loose = { keyed: 1 }\n"
 
 export const BODIES = new Map<string, string>([
   [TWICE, 'export function twice(): string {\n  const twice = "one"\n  return twice\n}\n'],
   [PAIRED, PAIRED_BODY],
   [WELDED, WELDED_BODY],
   [PLAIN, PLAIN_BODY],
+  [FILLED, FILLED_BODY],
   [UNWELDED, UNWELDED_BODY],
   [
     HELD,
@@ -95,4 +110,35 @@ export const PATHS = [...BODIES.keys()]
 
 export function textOf(path: string): string | null {
   return BODIES.get(path) ?? null
+}
+
+export function over(
+  at: string,
+  from: string,
+  to: string,
+  typed: readonly string[]
+): ReturnType<typeof bindingFor> {
+  const asked = tokeningFor(at, from, to)
+  if ("refused" in asked) throw new Error(asked.refused)
+  return bindingFor(ROOT, { typed, every: PATHS }, asked.tokening, textOf)
+}
+
+export function bound(at: string, from: string, to: string): ReturnType<typeof bindingFor> {
+  return over(at, from, to, PATHS)
+}
+
+export function lined(
+  at: string,
+  from: string,
+  to: string,
+  line: string
+): ReturnType<typeof bindingFor> {
+  const asked = tokeningFor(at, from, to, line)
+  if ("refused" in asked) throw new Error(asked.refused)
+  return bindingFor(ROOT, { typed: PATHS, every: PATHS }, asked.tokening, textOf)
+}
+
+export function changed(made: ReturnType<typeof bindingFor>, at: string): string {
+  if ("refused" in made) throw new Error(made.refused)
+  return made.binding.changes.get(at) ?? ""
 }
