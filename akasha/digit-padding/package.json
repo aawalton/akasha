@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    ".": "./nested/pad-two/pad-two.module.code.ts"
+    ".": "./pad-two/pad-two.module.code.ts"
   }
 }
