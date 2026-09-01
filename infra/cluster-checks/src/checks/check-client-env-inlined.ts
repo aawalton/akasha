@@ -19,7 +19,7 @@ const PREFIX = "[client-env-inlined]"
 
 const DEFINE_SOURCES = [
   "akasha/supabase-rr/client-env-define/client-env-define.module.code.ts",
-  "shared/pages-ui/src/vite.ts",
+  "akasha/web-build-sha/build-sha/build-sha.module.code.ts",
 ] as const
 
 function readTextIfPresent(absPath: string): string | undefined {
