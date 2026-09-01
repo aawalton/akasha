@@ -6,5 +6,10 @@ export const pagesUi = {
   slug: "pages-ui",
   definition: "what draws pages in a browser and takes what a reader does to them",
   manifest: "json",
-  partSlugs: ["module/app-version-check", "module/use-app-version-check"],
+  partSlugs: [
+    "module/app-version-check",
+    "module/capability-hosts",
+    "module/page-display-registry",
+    "module/use-app-version-check",
+  ],
 } as const satisfies WorkspacePackage

@@ -4,7 +4,9 @@
   "type": "module",
   "exports": {
     "./app-version/app-version-check": "./app-version/app-version-check/app-version-check.module.code.ts",
-    "./app-version/use-app-version-check": "./app-version/use-app-version-check/use-app-version-check.module.code.ts"
+    "./app-version/use-app-version-check": "./app-version/use-app-version-check/use-app-version-check.module.code.ts",
+    "./capabilities/capability-hosts": "./capabilities/capability-hosts/capability-hosts.module.code.tsx",
+    "./capabilities/page-display-registry": "./capabilities/page-display-registry/page-display-registry.module.code.ts"
   },
   "peerDependencies": {
     "react": "^18 || ^19"
