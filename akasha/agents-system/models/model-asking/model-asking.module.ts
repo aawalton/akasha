@@ -56,10 +56,6 @@ export const modelAsking = {
       statement: "The gateway named by the environment is what stands between this and Anthropic.",
     },
     {
-      invariantKind: "departure",
-      statement: "A prompt is put to a model and the model answers it.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here judges what a model answered.",
     },
