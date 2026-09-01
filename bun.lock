@@ -9,7 +9,6 @@
         "@alanwalton/drive-google": "workspace:*",
         "@alanwalton/elaine-cli": "workspace:*",
         "@alanwalton/email-google": "workspace:*",
-        "@alanwalton/health-samples-day": "workspace:*",
         "@alanwalton/imessage": "workspace:*",
         "@alanwalton/mobile-cli": "workspace:*",
         "@alanwalton/tower": "workspace:*",
@@ -114,6 +113,14 @@
         "typescript": "5.9.3",
       },
     },
+    "akasha/chess-core": {
+      "name": "@akasha/chess-core",
+      "dependencies": {
+        "@shared/errors-core": "workspace:*",
+        "@shared/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/code-system": {
       "name": "@akasha/code-system",
       "dependencies": {
@@ -177,8 +184,52 @@
         "react": "^18 || ^19",
       },
     },
+    "akasha/design/design-primitives": {
+      "name": "@akasha/design-primitives",
+      "dependencies": {
+        "clsx": "^2.1.1",
+        "tailwind-merge": "^3.3.1",
+      },
+      "peerDependencies": {
+        "@radix-ui/react-accordion": "*",
+        "@radix-ui/react-alert-dialog": "*",
+        "@radix-ui/react-avatar": "*",
+        "@radix-ui/react-checkbox": "*",
+        "@radix-ui/react-collapsible": "*",
+        "@radix-ui/react-context-menu": "*",
+        "@radix-ui/react-dialog": "*",
+        "@radix-ui/react-dropdown-menu": "*",
+        "@radix-ui/react-hover-card": "*",
+        "@radix-ui/react-label": "*",
+        "@radix-ui/react-menubar": "*",
+        "@radix-ui/react-navigation-menu": "*",
+        "@radix-ui/react-popover": "*",
+        "@radix-ui/react-progress": "*",
+        "@radix-ui/react-radio-group": "*",
+        "@radix-ui/react-scroll-area": "*",
+        "@radix-ui/react-select": "*",
+        "@radix-ui/react-separator": "*",
+        "@radix-ui/react-slider": "*",
+        "@radix-ui/react-slot": "*",
+        "@radix-ui/react-switch": "*",
+        "@radix-ui/react-toggle": "*",
+        "@radix-ui/react-toggle-group": "*",
+        "react": "^18 || ^19",
+        "react-dom": "^18 || ^19",
+      },
+    },
     "akasha/domain-system": {
       "name": "@akasha/domain-system",
+    },
+    "akasha/drive-google": {
+      "name": "@akasha/drive-google",
+      "dependencies": {
+        "@akasha/google-oauth": "workspace:*",
+        "@googleapis/drive": "^20.2.0",
+        "@shared/errors-core": "workspace:*",
+        "@shared/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
     },
     "akasha/email-inbound": {
       "name": "@akasha/email-inbound",
@@ -201,6 +252,14 @@
       "dependencies": {
         "@shared/day": "workspace:*",
         "@shared/pages-query": "workspace:*",
+      },
+    },
+    "akasha/health-samples-day": {
+      "name": "@akasha/health-samples-day",
+      "dependencies": {
+        "@akasha/health-samples-access": "workspace:*",
+        "@shared/pages-query": "workspace:*",
+        "@shared/recurrence": "workspace:*",
       },
     },
     "akasha/hook-system": {
@@ -337,6 +396,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
@@ -346,7 +406,6 @@
         "@capgo/background-geolocation": "^8.3.1",
         "@infra/k8s-types": "workspace:*",
         "@protomaps/basemaps": "^5.7.2",
-        "@shared/design-primitives": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
@@ -472,18 +531,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "alanwalton/health-samples-day": {
-      "name": "@alanwalton/health-samples-day",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/health-samples-access": "workspace:*",
-        "@shared/recurrence": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "alanwalton/imessage": {
       "name": "@alanwalton/imessage",
       "version": "0.1.0",
@@ -567,6 +614,7 @@
         "@akasha/awen-core": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -580,7 +628,6 @@
         "@infra/k8s-types": "workspace:*",
         "@shared/day": "workspace:*",
         "@shared/design-patterns": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
@@ -652,11 +699,11 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@infra/k8s-types": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
@@ -693,10 +740,10 @@
         "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@infra/k8s-types": "workspace:*",
         "@shared/design-patterns": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
@@ -1249,8 +1296,8 @@
         "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-core": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
         "ansi-to-html": "^0.7.2",
         "class-variance-authority": "^0.7.1",
         "lucide-react": "^0.576.0",
@@ -1358,10 +1405,10 @@
         "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@fontsource-variable/geist": "5.2.9",
         "@fontsource-variable/geist-mono": "5.2.8",
         "@shared/design-patterns": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
         "lucide-react": "^0.576.0",
         "react-day-picker": "^9.13.0",
         "react-hook-form": "^7.71.0",
@@ -1557,13 +1604,13 @@
       "dependencies": {
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@shared/day": "workspace:*",
         "@shared/design-patterns": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
         "@shared/errors-client": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/pages-url": "workspace:*",
@@ -1894,9 +1941,9 @@
       "name": "@smilingjenny/web",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/design-primitives": "workspace:*",
         "@infra/k8s-types": "workspace:*",
         "@shared/day": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
         "@shared/notifications": "workspace:*",
@@ -3094,7 +3141,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@temper/game-characters": "workspace:*",
@@ -3129,9 +3176,9 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@shared/auth": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-database": "workspace:*",
@@ -3883,12 +3930,12 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@infra/k8s-types": "workspace:*",
         "@shared/auth": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
@@ -3978,6 +4025,8 @@
 
     "@akasha/checks-system": ["@akasha/checks-system@workspace:akasha/checks-system"],
 
+    "@akasha/chess-core": ["@akasha/chess-core@workspace:akasha/chess-core"],
+
     "@akasha/code-system": ["@akasha/code-system@workspace:akasha/code-system"],
 
     "@akasha/command-system": ["@akasha/command-system@workspace:akasha/command-system"],
@@ -3990,7 +4039,11 @@
 
     "@akasha/design-layout": ["@akasha/design-layout@workspace:akasha/design/design-layout"],
 
+    "@akasha/design-primitives": ["@akasha/design-primitives@workspace:akasha/design/design-primitives"],
+
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
+
+    "@akasha/drive-google": ["@akasha/drive-google@workspace:akasha/drive-google"],
 
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
 
@@ -4001,6 +4054,8 @@
     "@akasha/graph-system": ["@akasha/graph-system@workspace:akasha/graph-system"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:akasha/health-samples-access"],
+
+    "@akasha/health-samples-day": ["@akasha/health-samples-day@workspace:akasha/health-samples-day"],
 
     "@akasha/hook-system": ["@akasha/hook-system@workspace:akasha/hook-system"],
 
@@ -4059,8 +4114,6 @@
     "@alanwalton/elaine-cli": ["@alanwalton/elaine-cli@workspace:alanwalton/elaine-cli"],
 
     "@alanwalton/email-google": ["@alanwalton/email-google@workspace:alanwalton/email-google"],
-
-    "@alanwalton/health-samples-day": ["@alanwalton/health-samples-day@workspace:alanwalton/health-samples-day"],
 
     "@alanwalton/imessage": ["@alanwalton/imessage@workspace:alanwalton/imessage"],
 
