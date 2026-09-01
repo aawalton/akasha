@@ -18,7 +18,11 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
     },
-    { statement: "`pages-core` stands in akasha." },
+    {
+      statement: "`pages-core` stands in akasha.",
+      workingMemory:
+        "Surveyed, not moved. Inbound was scored 0 from relative edges alone; the true figure is 239 files reaching `@shared/pages-core` by name, over 16 manifests and 61 subpaths, all rewritten in one landing because the name cannot survive the move. Cost ~530 files: 138 module pages, 138 code files, 448 internal specifiers of which 380 are extensionless, 239 external files. No barrels; 2 of 106 sources hold a comment. Three findings filed. No safe partial: a module page needs its code beside it.",
+    },
     { statement: "The packages reading and writing pages stand in akasha." },
     { statement: "The packages Alan's own work rests on stand in akasha." },
     { statement: "The design packages stand in akasha." },
