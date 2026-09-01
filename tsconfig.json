@@ -16,6 +16,9 @@
       "path": "./shared/pages-access"
     },
     {
+      "path": "./shared/pages-query"
+    },
+    {
       "path": "./shared/notifications"
     },
     {

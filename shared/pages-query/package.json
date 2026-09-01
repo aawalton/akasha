@@ -1,0 +1,25 @@
+{
+  "name": "@shared/pages-query",
+  "functionalType": "access",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./src/writing.ts",
+    "./ask": "./src/asking.ts",
+    "./answer-schema": "./src/answer-schema.ts",
+    "./fetcher": "./src/fetcher.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-query": "workspace:*"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}
