@@ -6,7 +6,6 @@
       "name": "akasha",
       "dependencies": {
         "@alanwalton/elaine-cli": "workspace:*",
-        "@alanwalton/email-google": "workspace:*",
         "@alanwalton/imessage": "workspace:*",
         "@alanwalton/mobile-cli": "workspace:*",
         "@collections/exercises": "workspace:*",
@@ -499,21 +498,6 @@
         "@shared/supabase-auth": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-fs": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "alanwalton/email-google": {
-      "name": "@alanwalton/email-google",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/email-inbound": "workspace:*",
-        "@googleapis/gmail": "^17.0.0",
-        "@shared/errors-core": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -4058,8 +4042,6 @@
     "@alanwalton/calendar-sync": ["@alanwalton/calendar-sync@workspace:alanwalton/calendar-sync"],
 
     "@alanwalton/elaine-cli": ["@alanwalton/elaine-cli@workspace:alanwalton/elaine-cli"],
-
-    "@alanwalton/email-google": ["@alanwalton/email-google@workspace:alanwalton/email-google"],
 
     "@alanwalton/imessage": ["@alanwalton/imessage@workspace:alanwalton/imessage"],
 

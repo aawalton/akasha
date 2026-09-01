@@ -51,7 +51,6 @@
     "alanwalton/atlas-web",
     "alanwalton/calendar-sync",
     "alanwalton/elaine-cli",
-    "alanwalton/email-google",
     "akasha/health-samples-day",
     "alanwalton/imessage",
     "akasha/location-traces-access",
@@ -296,7 +295,6 @@
   ],
   "dependencies": {
     "@alanwalton/elaine-cli": "workspace:*",
-    "@alanwalton/email-google": "workspace:*",
     "@alanwalton/imessage": "workspace:*",
     "@alanwalton/mobile-cli": "workspace:*",
     "@collections/exercises": "workspace:*",
