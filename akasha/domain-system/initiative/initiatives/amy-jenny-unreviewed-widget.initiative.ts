@@ -47,7 +47,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "His widget compiles. With `www` staged, `ios-app build alanwalton --www <dir>` exits 0 with BUILD_SIM_OK: BUILD SUCCEEDED, no error, all 21 components into ValuesWidgetExtension, `alanwalton-widget-feed` among them, so its `HELD_FOR` and `takenAt` are proven; the two warnings are old AppDelegate captures. Staging is still by hand and that is filed. Nothing but the reading is left: `MONARCH_COOKIE` is dead and only Alan can mint another.",
+        "Staging is no longer by hand: `akasha ios-app build alanwalton` exits 0 with BUILD_SIM_OK unaided, at e1e16d4a66. The ios-app page states `spa-source-path` and `stage-script`, `app-building` reads both, and the command runs that script here before the tree reaches the mac. BUILD SUCCEEDED, 21 components into ValuesWidgetExtension, `alanwalton-widget-feed` among them; the two warnings are old AppDelegate captures. Only the reading is left: `MONARCH_COOKIE` is dead and only Alan can mint another.",
     },
     {
       statement: "Jenny's site deploys from akasha.",
