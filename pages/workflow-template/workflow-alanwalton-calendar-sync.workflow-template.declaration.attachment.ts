@@ -5,7 +5,7 @@ import { workflow } from "../../tools/lib/workflow-dsl/workflow"
 
 export default workflow("alanwalton-calendar-sync", {
   kind: "apps",
-  package: "@alanwalton/calendar-sync",
+  package: "@akasha/calendar-sync",
   dependsOn: ["preparation", "alanwalton"],
   when: { branch: "main", event: "push" },
   steps: [
