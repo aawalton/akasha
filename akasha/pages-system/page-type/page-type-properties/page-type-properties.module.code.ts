@@ -50,8 +50,8 @@ export function pageAt(
   slug: string,
   pageOf: (path: string) => Value | null
 ): Value | null {
-  const standing = listedAt(given, pageTypeSlug, slug)
-  const one = standing.length === 1 ? standing[0] : undefined
+  const listed = listedAt(given, pageTypeSlug, slug)
+  const one = listed.length === 1 ? listed[0] : undefined
   return one === undefined ? null : pageOf(one.path)
 }
 
