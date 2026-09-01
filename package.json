@@ -6,6 +6,7 @@
     "akasha/agents-system",
     "akasha/alanwalton-web",
     "akasha/awen-core",
+    "akasha/calendar-google",
     "akasha/checks-system",
     "akasha/chess-core",
     "akasha/code-system",

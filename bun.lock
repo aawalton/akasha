@@ -104,6 +104,16 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/calendar-google": {
+      "name": "@akasha/calendar-google",
+      "dependencies": {
+        "@akasha/google-oauth": "workspace:*",
+        "@googleapis/calendar": "^15.0.0",
+        "@shared/errors-core": "workspace:*",
+        "@shared/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/checks-system": {
       "name": "@akasha/checks-system",
       "dependencies": {
@@ -3974,6 +3984,8 @@
     "@akasha/alanwalton-web": ["@akasha/alanwalton-web@workspace:akasha/alanwalton-web"],
 
     "@akasha/awen-core": ["@akasha/awen-core@workspace:akasha/awen-core"],
+
+    "@akasha/calendar-google": ["@akasha/calendar-google@workspace:akasha/calendar-google"],
 
     "@akasha/checks-system": ["@akasha/checks-system@workspace:akasha/checks-system"],
 
