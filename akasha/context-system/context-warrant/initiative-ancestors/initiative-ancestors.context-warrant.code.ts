@@ -22,11 +22,11 @@ function aboveOf(root: string, standing: Listed): Listed | undefined {
 export function initiativeAncestors(root: string, path: string): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null || typeStated(root, path, KEY) !== INITIATIVE_TYPE) return []
-  const standing = listedAt(root, INITIATIVE_TYPE, slug)[0]
-  if (standing === undefined) return []
+  const listed = listedAt(root, INITIATIVE_TYPE, slug)[0]
+  if (listed === undefined) return []
   const found: Warrant[] = []
-  const walked = new Set<string>([standing.id])
-  let above = aboveOf(root, standing)
+  const walked = new Set<string>([listed.id])
+  let above = aboveOf(root, listed)
   while (above !== undefined && !walked.has(above.id)) {
     walked.add(above.id)
     const oid = blobAt(root, above.path)
