@@ -73,12 +73,12 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement:
-        "A shape's code is loaded from wherever on disk its body stands rather than from where the change leaves it.",
+        "A shape's code is loaded from the body on disk rather than from where the change leaves the code.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A change writing a shape's code anew is refused rather than judged by the body standing before the change.",
+        "A change writing a shape's code anew is refused rather than judged by the body before the change.",
     },
     {
       invariantKind: "absence",
