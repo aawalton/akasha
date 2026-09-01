@@ -2,7 +2,7 @@ import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { landInAkasha } from "./akasha-landing.ts"
-import { akashaAccountPath, akashaRoot } from "./claude-account-akasha.ts"
+import { akashaAccountPath, akashaAccountsDir, akashaRoot } from "./claude-account-akasha.ts"
 import type { Outcome } from "./gated-write.ts"
 import { ACCOUNT_SHAPE } from "./oauth-page-push.ts"
 
@@ -38,14 +38,19 @@ export function accountTitle(account: string): string {
   return account.charAt(0).toUpperCase() + account.slice(1)
 }
 
-export const ACCOUNTS_AT = "akasha/agents-system/claude-account/claude-accounts"
+// Where a new account page is written is read off the pages already standing rather than written
+// out a second time. Two copies of this directory stood here and in claude-account-akasha.ts,
+// differing only by a trailing slash, and neither would have followed the folder if it moved.
+export function accountsAt(): string {
+  return akashaAccountsDir()
+}
 
 export function accountPageStands(account: string): boolean {
   return akashaAccountPath(account) !== null
 }
 
 export function accountPagePath(account: string): string {
-  return `${ACCOUNTS_AT}/${account}.${PAGE_TYPE_SLUG}.ts`
+  return `${accountsAt()}/${account}.${PAGE_TYPE_SLUG}.ts`
 }
 
 // What an account states when it is made. The uuid, the plan, the band, the renewal day and the

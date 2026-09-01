@@ -28,7 +28,12 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roo
 
 const PAGE_TYPE = "claude-account"
 
-const ACCOUNT_DIR = "akasha/agents-system/claude-account/claude-accounts/"
+// Where account pages sit is read off the pages the index names rather than written out here.
+// Written out, it was a second answer to a question the page type already answers, and it was the
+// answer that went stale: a folder move repoints no string in this repository, so the prefix would
+// have matched nothing and every reader below would have seen a fleet of none. This constant is
+// reached only for a root the index names no account in, where there is no page to read it off.
+const ACCOUNT_DIR = "akasha/agents-system/claude-account/claude-accounts"
 
 export function akashaRoot(): string {
   return rootFor(resolveRoots(), AKASHA)
@@ -93,7 +98,6 @@ function accountsStandingInAkasha(): ReadonlyMap<string, string> {
     const root = akashaRoot()
     const found = new Map<string, string>()
     for (const one of everyOfType(root, PAGE_TYPE)) {
-      if (!one.path.startsWith(ACCOUNT_DIR)) continue
       const value = valueAt(one.path, root)
       const slug = value === null ? null : value["slug"]
       if (typeof slug !== "string" || slug === "") continue
@@ -101,6 +105,16 @@ function accountsStandingInAkasha(): ReadonlyMap<string, string> {
     }
     return found
   })
+}
+
+// The folder the account pages sit in, read off a page that sits there. A root the index names no
+// account in has no page to read it off, and answers with where one would be written.
+export function akashaAccountsDir(): string {
+  for (const path of accountsStandingInAkasha().values()) {
+    const cut = path.lastIndexOf("/")
+    if (cut > 0) return path.slice(0, cut)
+  }
+  return ACCOUNT_DIR
 }
 
 // Every account standing in akasha, by slug, in the order the old reader answered them.
