@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../../pages-system/record-property/record-property.page-type.ts"
+import type { RecordProperty } from "@akasha/pages-system/record-property"
 import type { InterruptMessage } from "./interrupt-message.text-property.ts"
 import type { RequestedAction } from "./requested-action.text-property.ts"
 import type { RestartArmedAt } from "./restart-armed-at.instant-property.ts"
