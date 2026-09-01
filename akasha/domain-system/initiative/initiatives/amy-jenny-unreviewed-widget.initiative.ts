@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages reading and writing pages stand in akasha.",
       workingMemory:
-        "Unblocked and being landed. `pages-access` reached `naming.ts` by path for `idOfFilePage` and `slugOfFilePage`; packaging `page/` was never needed, since those four moved whole into `@shared/file-page-identity` and 24 reaches were repointed, so nothing under `shared/pages-access` escapes it now. What it sits on also stands: `@akasha/pages-core` landed with 128 module pages. The move costs 253 reaches over 163 files, 22 manifests, 24 subpaths.",
+        "`@akasha/pages-access` stands at 387a8ccb47, forty-one modules each with its page, and `shared/pages-access` is gone. Under it `@akasha/pages-core` stands with 128 module pages, and akasha holds its own pages-query and pages-ui-store. What this intent still wants: `shared/pages-query`, `shared/pages-system`, `shared/pages-ui` and `shared/pages-url` stand outside yet, and `shared/pages-access-old` is a leftover to clear.",
     },
     { statement: "The packages Alan's own work rests on stand in akasha." },
     {
