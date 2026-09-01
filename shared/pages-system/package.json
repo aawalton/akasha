@@ -5,10 +5,7 @@
   "type": "module",
   "private": true,
   "exports": {
-    "./formula": "./formula/formula.ts",
-    "./page-type": "./page-type/page-type.ts",
     "./query": "./query/query.ts",
-    "./read/held": "./read/held.ts",
     "./write/landing": "./write/landing.ts"
   },
   "scripts": {
