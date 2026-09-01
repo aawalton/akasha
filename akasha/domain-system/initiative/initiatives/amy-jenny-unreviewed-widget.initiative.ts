@@ -29,15 +29,15 @@ export const amyJennyUnreviewedWidget = {
         "`@akasha/pages-ui` stands with four modules and the old folder is down from 296 files to 291. It is one package rather than several: components and supabase are mutually dependent, and the 58 subpaths consumers reach cut across one core. The cost is not the module pages but what a file is rewritten to satisfy: 116 of 286 carry a `void` return, 360 in all, and every `.tsx` rendering a component by name meets the lower-camel rule. 98 files import nothing else inside it and go first.",
     },
     {
-      statement:
-        "The packages under Alan's site that name no package of their own stand in akasha.",
-      workingMemory:
-        "Eight of twelve folders are done: sms, readout-scale and tracking are gone, while device-secret, push and readout-credential keep only an adapter, and readout and person-access were already done. The package the four left were waiting on now stands as `@akasha/alanwalton-web`, holding chess and the declared-effects verb. Counts here must include the `~/*` alias: app/lib has 88 inbound that way rather than 0.",
-    },
-    {
       statement: "The interior of Alan's site stands in akasha.",
       workingMemory:
         "`lib`, `idle`, `awen`, `components`, `hooks` and `questions`, some 170 files as one landing. It stands after `pages-ui` at 96 reaches and `design-primitives` at 65, because landing it first means rewriting 161 specifiers twice. `.json` and `.css` are not the crux: `file-has-its-page` holds no extension list and they land as file properties, with five precedents including css, svg and json. Only 8 files of the 286 are awkward.",
+    },
+    {
+      statement:
+        "The packages under Alan's site that name no package of their own stand in akasha.",
+      workingMemory:
+        "Two of the four are gone: `chess` and `action-verbs` landed into `@akasha/alanwalton-web` at 6edf596cb8. `hooks` and `questions` are what is left, and they never waited on that package: every file of theirs still in place reaches `~/lib/*` or `~/components/*`, which nothing inside akasha resolves. Four of their nine files are `~/`-free and could stand alone; the other five rest on an 11-file closure under `app/lib` that the next intent owns and that already names both folders.",
     },
     {
       statement: "The routes of Alan's site stand in akasha.",
