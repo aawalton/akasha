@@ -50,7 +50,23 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A read is handed in at a path of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read carrying neither a path nor a page is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer to a read names the commit its bodies were read at.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A write is handed in at a path of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write may state the commit it read as a string.",
     },
     {
       invariantKind: "departure",

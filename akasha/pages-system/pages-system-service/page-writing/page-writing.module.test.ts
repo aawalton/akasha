@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   type Asked,
+  batchIn,
   editsIn,
   latestIn,
   messageIn,
@@ -91,4 +92,45 @@ test("a write refused is answered without reaching the repository", async () => 
   const writer = writerFor({ root: "/var/tmp/no-such-root-stands-here" })
   const said = await writer.writing(asking({ puts: [{ path: "tools/a.ts", content: "" }] }))
   expect("refused" in said && said.refused).toContain("outside")
+})
+
+test("a write stating the commit it read is taken", () => {
+  const held = asking({
+    puts: [{ path: "akasha/a.ts", content: "x" }],
+    read: "0123456789abcdef0123456789abcdef01234567",
+  })
+  expect(refusalIn(held)).toBe(null)
+})
+
+test("a write stating a read that names no commit is refused", () => {
+  const held = asking({ puts: [{ path: "akasha/a.ts", content: "x" }], read: "yesterday" })
+  expect(refusalIn(held)).toContain("names no commit")
+})
+
+test("writes stating nothing they read land together", () => {
+  const waiting = [{ asked: asking({}) }, { asked: asking({}) }, { asked: asking({}) }]
+  const taken = batchIn(waiting)
+  expect(taken.batch.length).toBe(3)
+  expect(taken.rest.length).toBe(0)
+})
+
+test("a write stating what it read lands in a batch of its own", () => {
+  const one = { asked: asking({ read: "a".repeat(40) }) }
+  const two = { asked: asking({}) }
+  const taken = batchIn([one, two])
+  expect(taken.batch).toEqual([one])
+  expect(taken.rest).toEqual([two])
+})
+
+test("a write stating what it read does not join the batch before it", () => {
+  const one = { asked: asking({}) }
+  const two = { asked: asking({ read: "a".repeat(40) }) }
+  const taken = batchIn([one, two])
+  expect(taken.batch).toEqual([one])
+  expect(taken.rest).toEqual([two])
+})
+
+test("nothing waiting is no batch", () => {
+  const taken = batchIn([])
+  expect(taken.batch.length).toBe(0)
 })

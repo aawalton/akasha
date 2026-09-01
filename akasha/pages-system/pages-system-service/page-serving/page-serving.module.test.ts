@@ -1,7 +1,18 @@
-import { expect, test } from "bun:test"
-import { join } from "node:path"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { gitIn } from "@akasha/testing-system/gitting"
 import type { Asked, Wrote } from "../page-writing/page-writing.module.code.ts"
-import { ASK_AT, answering, queryIn, WRITE_AT, writeIn } from "./page-serving.module.code.ts"
+import {
+  ASK_AT,
+  answering,
+  queryIn,
+  READ_AT,
+  readIn,
+  WRITE_AT,
+  writeIn,
+} from "./page-serving.module.code.ts"
 
 const ROOT = join(import.meta.dir, "..", "..", "..", "..")
 
@@ -226,4 +237,91 @@ test("a test named nowhere is refused rather than narrowing nothing", async () =
 test("a test stating nothing is refused by the key it stands on", () => {
   const read = queryIn({ pageTypeSlug: "invariant-kind", where: { slug: {} } })
   expect("refused" in read && read.refused).toContain("where.slug")
+})
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const A_PAGE = "akasha/a-page.module.ts"
+
+function repoWith(body: string): string {
+  const root = scratch.rootFor("akasha-page-serving-")
+  gitIn(root, ["init", "--quiet"])
+  gitIn(root, ["config", "user.email", "held@nowhere"])
+  gitIn(root, ["config", "user.name", "Held"])
+  const at = join(root, A_PAGE)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, body)
+  gitIn(root, ["add", "-A"])
+  gitIn(root, ["commit", "--quiet", "-m", "first"])
+  return root
+}
+
+function over(root: string) {
+  return { root, writer: GIVEN.writer }
+}
+
+test("a read is handed in at a path of its own", async () => {
+  const root = repoWith("the whole body\n")
+  const answered = await answering(over(root), asking({ paths: [A_PAGE] }, READ_AT))
+  expect(answered.status).toBe(200)
+  const held = await bodyOf(answered)
+  expect(JSON.stringify(held.bodies)).toContain("the whole body")
+})
+
+test("an answer to a read names the commit its bodies were read at", async () => {
+  const root = repoWith("one")
+  const answered = await answering(over(root), asking({ paths: [A_PAGE] }, READ_AT))
+  const held = await bodyOf(answered)
+  expect(held.at).toBe(gitIn(root, ["rev-parse", "HEAD"]).trim())
+})
+
+test("a read carrying neither a path nor a page is refused", async () => {
+  const root = repoWith("one")
+  const answered = await answering(over(root), asking({}, READ_AT))
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("at least one path")
+})
+
+test("a read of a path outside akasha is refused", async () => {
+  const root = repoWith("one")
+  const answered = await answering(over(root), asking({ paths: ["tools/a.ts"] }, READ_AT))
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("outside")
+})
+
+test("paths that are not strings are refused", () => {
+  const found = readIn({ paths: [7] })
+  expect("refused" in found && found.refused).toContain("paths")
+})
+
+test("a page named without a slug is refused", () => {
+  const found = readIn({ pages: [{ pageTypeSlug: "module" }] })
+  expect("refused" in found && found.refused).toContain("slug")
+})
+
+test("a read naming a page carries it through", () => {
+  const found = readIn({ pages: [{ pageTypeSlug: "module", slug: "a-page" }] })
+  expect("asked" in found && found.asked.pages?.[0]?.slug).toBe("a-page")
+})
+
+test("a write may state the commit it read", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    puts: [{ path: A_PAGE, content: "x" }],
+    read: "0123456789abcdef0123456789abcdef01234567",
+  })
+  expect("asked" in read && read.asked.read).toBe("0123456789abcdef0123456789abcdef01234567")
+})
+
+test("a write stating what it read as something other than a string is refused", () => {
+  const read = writeIn({
+    writer: "Amy <amy@alanwalton.com>",
+    message: "a message",
+    puts: [{ path: A_PAGE, content: "x" }],
+    read: 7,
+  })
+  expect("refused" in read && read.refused).toContain("`read`")
 })

@@ -11,6 +11,7 @@ export type Asked = {
   readonly message: string
   readonly puts?: readonly Put[]
   readonly removes?: readonly string[]
+  readonly read?: string
 }
 
 export type Wrote =
@@ -39,6 +40,8 @@ const APART = "\n\n---\n\n"
 
 const AUTHORED = /^[^<>]+ <[^<>@\s]+@[^<>\s]+>$/
 
+const COMMITTED = /^[0-9a-f]{40,64}$/
+
 const NOTHING_JUDGES: Judging = {
   named: [],
   checksFor: () => [],
@@ -61,6 +64,9 @@ export function refusalIn(asked: Asked): string | null {
       return `\`${one}\` stands outside \`${UNDER}\`, and this answers for akasha alone`
     }
     if (one.split("/").includes(ABOVE)) return `\`${one}\` reaches above the root`
+  }
+  if (asked.read !== undefined && !COMMITTED.test(asked.read)) {
+    return `\`${asked.read}\` names no commit, so it says nothing about what this write read`
   }
   return null
 }
@@ -92,7 +98,14 @@ export function landedIn(root: string, batch: readonly Asked[]): Wrote {
   const first = batch[0]
   if (first === undefined) return { refused: "a batch carries at least one write" }
   try {
-    const said = landing(root, latestIn(batch), messageIn(batch), NOTHING_JUDGES, first.writer)
+    const said = landing(
+      root,
+      latestIn(batch),
+      messageIn(batch),
+      NOTHING_JUDGES,
+      first.writer,
+      first.read ?? null
+    )
     if ("refusals" in said) return { refused: said.refusals.join(" — ") }
     return { commit: said.commit, wrote: said.wrote, took: said.took }
   } catch (thrown) {
@@ -105,18 +118,31 @@ type Waiting = {
   readonly settle: (wrote: Wrote) => unknown
 }
 
+type Held = { readonly asked: Asked }
+
+export function batchIn<T extends Held>(
+  waiting: readonly T[]
+): { readonly batch: readonly T[]; readonly rest: readonly T[] } {
+  const first = waiting[0]
+  if (first === undefined) return { batch: [], rest: [] }
+  if (first.asked.read !== undefined) return { batch: [first], rest: waiting.slice(1) }
+  let taken = 1
+  while (taken < waiting.length && waiting[taken]?.asked.read === undefined) taken += 1
+  return { batch: waiting.slice(0, taken), rest: waiting.slice(taken) }
+}
+
 export function writerFor(given: Writing): Writer {
   let waiting: Waiting[] = []
   let running = false
   const settling = (): undefined => {
     while (waiting.length > 0) {
-      const batch = waiting
-      waiting = []
+      const taken = batchIn(waiting)
+      waiting = [...taken.rest]
       const wrote = landedIn(
         given.root,
-        batch.map((one) => one.asked)
+        taken.batch.map((one) => one.asked)
       )
-      for (const one of batch) one.settle(wrote)
+      for (const one of taken.batch) one.settle(wrote)
     }
     running = false
     return undefined

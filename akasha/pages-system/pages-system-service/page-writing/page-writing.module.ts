@@ -36,5 +36,22 @@ export const pageWriting = {
       invariantKind: "departure",
       statement: "A batch refused is refused whole.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A write may state the commit its bodies were read against.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A write stating one is refused where a path it carries no longer holds the body that commit held.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write stating one lands in a batch of its own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A write stating none is taken as read against what stands.",
+    },
   ],
 } as const satisfies Module

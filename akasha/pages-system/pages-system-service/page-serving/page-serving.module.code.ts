@@ -1,7 +1,14 @@
 import { asking, type Query, TESTS_RUN, type Test } from "../page-asking/page-asking.module.code.ts"
+import {
+  type Named,
+  reading,
+  type Asked as Sought,
+} from "../page-reading/page-reading.module.code.ts"
 import type { Asked, Put, Writer } from "../page-writing/page-writing.module.code.ts"
 
 export const ASK_AT = "/ask"
+
+export const READ_AT = "/read"
 
 export const WRITE_AT = "/write"
 
@@ -119,6 +126,34 @@ export function queryIn(given: unknown): Read {
   return { query }
 }
 
+export type Found = { readonly asked: Sought } | { readonly refused: string }
+
+export function readIn(given: unknown): Found {
+  const held = objectIn(given)
+  if (held === null) return { refused: "a read is a JSON object" }
+  const asked: { paths?: readonly string[]; pages?: readonly Named[] } = {}
+  if (held.paths !== undefined) {
+    const paths = stringsIn(held.paths)
+    if (paths === null) return { refused: "`paths` is a list of strings" }
+    asked.paths = paths
+  }
+  if (held.pages !== undefined) {
+    if (!Array.isArray(held.pages)) return { refused: "`pages` is a list" }
+    const pages: Named[] = []
+    for (const one of held.pages) {
+      const page = objectIn(one)
+      if (page === null) return { refused: "`pages` holds JSON objects" }
+      if (typeof page.pageTypeSlug !== "string") {
+        return { refused: "a page names its page type as `pageTypeSlug`" }
+      }
+      if (typeof page.slug !== "string") return { refused: "a page names itself as `slug`" }
+      pages.push({ pageTypeSlug: page.pageTypeSlug, slug: page.slug })
+    }
+    asked.pages = pages
+  }
+  return { asked }
+}
+
 export type Written = { readonly asked: Asked } | { readonly refused: string }
 
 export function writeIn(given: unknown): Written {
@@ -133,6 +168,7 @@ export function writeIn(given: unknown): Written {
     message: string
     puts?: readonly Put[]
     removes?: readonly string[]
+    read?: string
   } = { writer, message }
   if (held.puts !== undefined) {
     if (!Array.isArray(held.puts)) return { refused: "`puts` is a list" }
@@ -153,6 +189,12 @@ export function writeIn(given: unknown): Written {
     if (removes === null) return { refused: "`removes` is a list of strings" }
     asked.removes = removes
   }
+  if (held.read !== undefined) {
+    if (typeof held.read !== "string") {
+      return { refused: "a write states the commit it read as `read`, written as a string" }
+    }
+    asked.read = held.read
+  }
   return { asked }
 }
 
@@ -166,12 +208,21 @@ async function bodyIn(request: Request): Promise<unknown> {
 
 export async function answering(given: Serving, request: Request): Promise<Response> {
   const at = new URL(request.url).pathname
-  if (at !== ASK_AT && at !== WRITE_AT) return said({ refused: `nothing is asked at ${at}` }, 404)
+  if (at !== ASK_AT && at !== READ_AT && at !== WRITE_AT) {
+    return said({ refused: `nothing is asked at ${at}` }, 404)
+  }
   if (request.method !== "POST") {
     return said({ refused: `a question arrives by POST rather than by ${request.method}` }, 405)
   }
   const body = await bodyIn(request)
   if (body === undefined) return said({ refused: "the body did not parse as JSON" }, 400)
+  if (at === READ_AT) {
+    const sought = readIn(body)
+    if ("refused" in sought) return said({ refused: sought.refused }, 400)
+    const found = reading({ root: given.root }, sought.asked)
+    if ("refused" in found) return said({ refused: found.refused }, 400)
+    return said(found, 200)
+  }
   if (at === WRITE_AT) {
     const read = writeIn(body)
     if ("refused" in read) return said({ refused: read.refused }, 400)
