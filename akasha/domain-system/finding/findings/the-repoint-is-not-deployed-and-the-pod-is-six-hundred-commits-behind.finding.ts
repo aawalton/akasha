@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theRepointIsNotDeployedAndThePodIsSixHundredCommitsBehind = {
+  id: "01a05e67-cd80-7dd2-b541-c7f2c0a5c426",
+  pageTypeSlug: "finding",
+  slug: "the-repoint-is-not-deployed-and-the-pod-is-six-hundred-commits-behind",
+  domainSlug: "cluster-service/alanwalton-web",
+  claim:
+    "The generic readout answerer is committed and proved, and it is not live. Deploying it is not a small act: the pod's checkout is six hundred and thirty-seven commits behind HEAD, by six different authors, so a deploy ships all of that at once. I left it undeployed rather than carry six lanes' in-flight work into production to make one change of mine live.",
+  evidence:
+    "Measured 2026-09-01 around 19:20Z. The pod `web-6f48c47fbc-kg2rc` reports its checkout at `4647159e77`; `git rev-list --count 4647159e77..HEAD` is 637 and `git log --format=%an` over that range names 6 authors. HEAD is only 5 commits ahead of `origin/main`, so the gap is the pod's rather than the workstation's.\n\nThe pod does not close that gap on its own: its `code-sync` container runs `sh -c 'sleep infinity'`, and the checkout still read `4647159e77` after five restarts today, so a restart does not re-clone. Nothing here reaches production unattended, which is what makes leaving it safe.\n\nWhat is proved without a deploy: Jenny's route test drives the real loader over real HTTP and passes nine tests, including the count served out and the rungs and both none-left halves read from a store rather than carried. The one thing that could differ in the pod is store reachability under the new narrowed queries, and that was run from inside the pod — `{pageTypeSlug:\"readout\",where:{slug:{is:\"monarch-unreviewed-transactions\"}}}` and the readout-scale twin both answered 200 with `scaleSlug`, `wireKey` and the four rungs spelled in camel. The workstation reading service was run after the change and took a fresh reading, so the import move did not break the live path.\n\nTwo further reasons to hold. The pod is failing its liveness probe and being killed on a schedule nobody has explained, and deploying onto that would confound a new failure with the one already there. And the tile is live right now on the old code, so nothing is bought by hurrying.\n\nA correction worth keeping: I first wrote this finding saying fifty-six commits, having read that number off `git status`, which counts commits ahead of `origin/main` and not commits ahead of the pod. The two differ by more than tenfold.",
+} as const satisfies Finding
