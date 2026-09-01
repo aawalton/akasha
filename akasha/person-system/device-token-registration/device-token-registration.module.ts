@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code-system/module"
 
-export const deviceToken = {
+export const deviceTokenRegistration = {
   id: "01a05c96-89f5-741d-a9a3-65ffde3552f4",
   pageTypeSlug: "module",
-  slug: "device-token",
+  slug: "device-token-registration",
   definition: "the push token a device is reached at, kept against whoever holds it",
   code: "ts",
   invariants: [
