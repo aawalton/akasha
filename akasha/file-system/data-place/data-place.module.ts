@@ -26,7 +26,7 @@ export const dataPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names it as text.",
+      statement: "A refusal names the place as text.",
     },
     {
       invariantKind: "absence",
@@ -46,7 +46,8 @@ export const dataPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "The index and the read record and a test's seeded warrants each name their own.",
+      statement:
+        "The index and the read record and a test's seeded warrants each name their own place.",
     },
     {
       invariantKind: "absence",

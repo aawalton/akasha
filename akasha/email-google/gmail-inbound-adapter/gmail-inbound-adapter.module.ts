@@ -9,7 +9,8 @@ export const gmailInboundAdapter = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Whether Alan sent it is read off the SENT label rather than off the sender.",
+      statement:
+        "Whether Alan sent the message is read off the SENT label rather than off the sender.",
     },
     {
       invariantKind: "departure",

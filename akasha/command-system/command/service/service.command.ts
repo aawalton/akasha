@@ -27,11 +27,11 @@ export const service = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The act stands first and what it acts on stands after it.",
+      statement: "The act stands first and what the act acts on stands after the act.",
     },
     {
       invariantKind: "departure",
-      statement: "A call naming a service and every service at once is refused.",
+      statement: "A call naming a service and every service at the same time is refused.",
     },
     {
       invariantKind: "departure",

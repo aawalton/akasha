@@ -48,7 +48,8 @@ export const command = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command's page states what it takes and what is worth knowing about taking it.",
+      statement:
+        "A command's page states what the command takes and what is worth knowing about taking what the command takes.",
     },
     {
       invariantKind: "departure",

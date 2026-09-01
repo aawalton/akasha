@@ -21,7 +21,7 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
-      statement: "Whatever else warrants it stands unchanged.",
+      statement: "Whatever else warrants the file stands unchanged.",
     },
     {
       invariantKind: "departure",

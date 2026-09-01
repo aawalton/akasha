@@ -10,7 +10,8 @@ export const appBuilding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What a build needs is read from the app's page and the pages it names.",
+      statement:
+        "What a build needs is read from the app's page and the pages the app's page names.",
     },
     {
       invariantKind: "departure",
@@ -19,7 +20,7 @@ export const appBuilding = {
     {
       invariantKind: "departure",
       statement:
-        "Two programs stating a name of their own is refused rather than one being picked.",
+        "Two programs stating a name of their own is refused rather than one program being picked.",
     },
     {
       invariantKind: "departure",

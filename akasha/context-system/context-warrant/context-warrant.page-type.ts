@@ -65,11 +65,11 @@ export const contextWarrant = {
     },
     {
       invariantKind: "departure",
-      statement: "A warrant is not transitive unless it says so.",
+      statement: "A warrant is not transitive unless the warrant says so.",
     },
     {
       invariantKind: "departure",
-      statement: "A warrant takes and gives paths under the root it was given.",
+      statement: "A warrant takes and gives paths under the root the warrant was given.",
     },
     {
       invariantKind: "gap",
@@ -77,7 +77,7 @@ export const contextWarrant = {
     },
     {
       invariantKind: "gap",
-      statement: "No file names one by hand.",
+      statement: "No file names a warrant by hand.",
     },
   ],
   directives: [
