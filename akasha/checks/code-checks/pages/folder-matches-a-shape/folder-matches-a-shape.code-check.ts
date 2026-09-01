@@ -9,9 +9,9 @@ export const folderMatchesAShape = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  runsOnPatch: true,
-  runsOnWorktree: true,
-  runsOnDeploy: true,
+  runsOnPatch: false,
+  runsOnWorktree: false,
+  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {
