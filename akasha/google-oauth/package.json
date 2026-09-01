@@ -7,7 +7,7 @@
     "./oauth-app-credentials": "./oauth-app-credentials/oauth-app-credentials.module.code.ts"
   },
   "dependencies": {
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@shared/utils-narrow": "workspace:*"
   }
 }
