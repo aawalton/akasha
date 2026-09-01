@@ -193,6 +193,8 @@
     "akasha/person-system": {
       "name": "@akasha/person-system",
       "dependencies": {
+        "@shared/pages-url": "workspace:*",
+        "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -215,7 +217,7 @@
       "name": "@akasha/testing-system",
     },
     "akasha/voice-core": {
-      "name": "@alanwalton/voice-core",
+      "name": "@akasha/voice-core",
       "dependencies": {
         "zod": "^4.3.6",
       },
@@ -528,12 +530,12 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-ui-store": "workspace:*",
+        "@akasha/voice-core": "workspace:*",
         "@alanwalton/awen-core": "workspace:*",
         "@alanwalton/chess": "workspace:*",
         "@alanwalton/health-samples-access": "workspace:*",
         "@alanwalton/sms-access": "workspace:*",
         "@alanwalton/sms-core": "workspace:*",
-        "@alanwalton/voice-core": "workspace:*",
         "@collections/litrpg": "workspace:*",
         "@fontsource-variable/literata": "^5.2.5",
         "@infra/k8s-types": "workspace:*",
@@ -1622,7 +1624,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-ui-store": "workspace:*",
-        "@alanwalton/voice-core": "workspace:*",
+        "@akasha/voice-core": "workspace:*",
         "@shared/day": "workspace:*",
         "@shared/design-forms": "workspace:*",
         "@shared/design-layout": "workspace:*",
@@ -1667,26 +1669,6 @@
         "react-markdown": ">=9",
         "react-router": ">=7",
         "remark-gfm": ">=4",
-      },
-    },
-    "shared/pages-ui-store": {
-      "name": "@shared/pages-ui-store",
-      "version": "0.1.0",
-      "dependencies": {
-        "@shared/pages-access": "workspace:*",
-        "@shared/pages-core": "workspace:*",
-        "@shared/pages-url": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
-        "@tanstack/db": "^0.6.14",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
       },
     },
     "shared/pages-url": {
@@ -1753,6 +1735,7 @@
         "@alanwalton/personas-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
         "@shared/pages-core": "workspace:*",
+        "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
@@ -4099,6 +4082,8 @@
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
 
+    "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
+
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:native-shell/atlas"],
 
     "@alanwalton/atlas-web": ["@alanwalton/atlas-web@workspace:alanwalton/atlas-web"],
@@ -4142,8 +4127,6 @@
     "@alanwalton/tower-core": ["@alanwalton/tower-core@workspace:alanwalton/tower-core"],
 
     "@alanwalton/tower-engine": ["@alanwalton/tower-engine@workspace:alanwalton/tower-engine"],
-
-    "@alanwalton/voice-core": ["@alanwalton/voice-core@workspace:akasha/voice-core"],
 
     "@alanwalton/web": ["@alanwalton/web@workspace:alanwalton/web"],
 
@@ -4726,8 +4709,6 @@
     "@shared/pages-system": ["@shared/pages-system@workspace:shared/pages-system"],
 
     "@shared/pages-ui": ["@shared/pages-ui@workspace:shared/pages-ui"],
-
-    "@shared/pages-ui-store": ["@shared/pages-ui-store@workspace:shared/pages-ui-store"],
 
     "@shared/pages-url": ["@shared/pages-url@workspace:shared/pages-url"],
 
