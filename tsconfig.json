@@ -91,9 +91,6 @@
       "path": "./infra/auth-proxy"
     },
     {
-      "path": "./shared/utils-narrow"
-    },
-    {
       "path": "./shared/pages-ui/tsconfig.test.json"
     },
     {

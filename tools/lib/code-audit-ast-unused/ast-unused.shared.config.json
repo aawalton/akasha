@@ -71,22 +71,6 @@
         "**/*.ts"
       ]
     },
-    "shared/person-document": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "shared/person-target": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "akasha/status-bar-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
@@ -95,7 +79,7 @@
         "**/*.ts"
       ]
     },
-    "shared/utils-narrow": {
+    "akasha/utils-narrow": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
