@@ -1,4 +1,4 @@
-import type { SentenceMark } from "@alanwalton/voice-core/voice/mark-schema"
+import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import { seaweedFSObjectStoreFromEnv } from "@shared/object-store"
 import { mediaRenderObjectKey } from "@shared/object-store/keys"
 import { getPage } from "@shared/pages-access/get"

@@ -21,7 +21,7 @@
     "@alanwalton/health-samples-access": "workspace:*",
     "@alanwalton/sms-access": "workspace:*",
     "@alanwalton/sms-core": "workspace:*",
-    "@alanwalton/voice-core": "workspace:*",
+    "@akasha/voice-core": "workspace:*",
     "@collections/litrpg": "workspace:*",
     "@fontsource-variable/literata": "^5.2.5",
     "@infra/k8s-types": "workspace:*",

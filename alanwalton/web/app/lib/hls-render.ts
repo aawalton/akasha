@@ -1,4 +1,4 @@
-import { DEFAULT_VOICE_INFER_URL } from "@alanwalton/voice-core/voice/infer-endpoint"
+import { DEFAULT_VOICE_INFER_URL } from "@akasha/voice-core/voice/infer-endpoint"
 import { type ObjectStore } from "@shared/object-store"
 import { type HlsKeyOpts, hlsPlaylistObjectKey, hlsSegmentPrefix } from "@shared/object-store/keys"
 import { z } from "zod"

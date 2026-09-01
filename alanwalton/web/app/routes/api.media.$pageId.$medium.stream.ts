@@ -1,5 +1,5 @@
-import { DEFAULT_VOICE_INFER_URL } from "@alanwalton/voice-core/voice/infer-endpoint"
-import { buildKokoroSpeechSegments } from "@alanwalton/voice-core/voice/speech"
+import { DEFAULT_VOICE_INFER_URL } from "@akasha/voice-core/voice/infer-endpoint"
+import { buildKokoroSpeechSegments } from "@akasha/voice-core/voice/speech"
 import { getPage } from "@shared/pages-access/get"
 import { getMediaConfig } from "@shared/pages-access/page-type-config"
 import { resolveRequestUser } from "@shared/supabase-rr/auth/server"

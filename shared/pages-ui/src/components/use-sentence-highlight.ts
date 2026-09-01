@@ -1,6 +1,6 @@
 "use client"
 
-import type { SentenceMark } from "@alanwalton/voice-core/voice/mark-schema"
+import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import { type RefObject, useEffect } from "react"
 import { useOptionalPlayingSession } from "../media/playing-session-context"
 import { resolveActiveSentence } from "../media/resolve-active-sentence"

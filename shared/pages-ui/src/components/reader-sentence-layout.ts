@@ -1,4 +1,4 @@
-import { buildKokoroSpeechInput, splitSentences } from "@alanwalton/voice-core/voice/speech"
+import { buildKokoroSpeechInput, splitSentences } from "@akasha/voice-core/voice/speech"
 import { parseProseBlocks, splitInlineEmphasis } from "./reader-prose"
 
 export interface SentenceRun {

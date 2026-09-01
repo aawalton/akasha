@@ -1,8 +1,8 @@
 import {
   estimateChapterSentenceMarks,
   estimateChapterSentenceMarksFromN,
-} from "@alanwalton/voice-core/voice/estimate-marks"
-import type { SentenceMark } from "@alanwalton/voice-core/voice/mark-schema"
+} from "@akasha/voice-core/voice/estimate-marks"
+import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import { type ObjectStore } from "@shared/object-store"
 import { hlsPlaylistObjectKey } from "@shared/object-store/keys"
 import { getPage } from "@shared/pages-access/get"

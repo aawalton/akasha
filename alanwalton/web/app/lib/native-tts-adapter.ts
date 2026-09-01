@@ -1,4 +1,4 @@
-import { buildKokoroSpeechInput } from "@alanwalton/voice-core/voice/speech"
+import { buildKokoroSpeechInput } from "@akasha/voice-core/voice/speech"
 import type { NativeTtsAdapter, NativeTtsEvent } from "@shared/pages-ui/media/native-tts-adapter"
 import { z } from "zod"
 import { getKokoroTts, type PluginListenerHandle } from "~/lib/capacitor-bridge"

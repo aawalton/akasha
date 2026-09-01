@@ -1,6 +1,6 @@
 "use client"
 
-import type { SentenceMark } from "@alanwalton/voice-core/voice/mark-schema"
+import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import { PageLayout } from "@shared/design-layout/components/page-layout"
 import { simplePageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"

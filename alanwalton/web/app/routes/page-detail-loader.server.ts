@@ -1,4 +1,4 @@
-import { type SentenceMark, sentenceMarkSchema } from "@alanwalton/voice-core/voice/mark-schema"
+import { type SentenceMark, sentenceMarkSchema } from "@akasha/voice-core/voice/mark-schema"
 import { detailConfigFor } from "@shared/pages-access/file-detail-config"
 import { getPage, getPageByIdSuffix, getPageByIdSuffixAcrossTypes, getPages } from "@shared/pages-access/get"
 import { getDescendantPageTypeSlugs } from "@shared/pages-access/page-type"
