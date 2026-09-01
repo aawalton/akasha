@@ -3,6 +3,7 @@ import { parseSequenceConfig, type SequenceConfig } from "@akasha/pages-core/sch
 import type { Asked } from "@shared/pages-query"
 import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
 import { z } from "zod"
+import { isFileBacked } from "../file-read/file-read.module.code.ts"
 
 const PAGE_TYPE_SLUG = "page-type"
 const EXTENDS_SLUG = "extends-slug"
@@ -99,4 +100,55 @@ export async function fileMediaConfig(
 ): Promise<MediaConfig | null> {
   const stated = await nearestConfigValue(pageTypeSlug, MEDIA_CONFIG_KEY, deps)
   return parseMediaConfig(reached(stated, `fileMediaConfig(${pageTypeSlug})`))
+}
+
+let mediaKin: ReadonlySet<string> | null = null
+
+export function forgetMediaPageTypes(): undefined {
+  mediaKin = null
+}
+
+function inheritsFrom(
+  slug: string,
+  declares: ReadonlySet<string>,
+  extendsOf: ReadonlyMap<string, string | null>
+): boolean {
+  let at: string | null | undefined = slug
+  for (let step = 0; at != null && step < EXTENDS_CEILING; step += 1) {
+    if (declares.has(at)) return true
+    at = extendsOf.get(at) ?? null
+  }
+  return false
+}
+
+export async function fileMediaPageTypeSlugs(
+  deps: FilePageTypeConfigDeps = LIVE_PAGE_TYPE_CONFIG
+): Promise<ReadonlySet<string>> {
+  if (mediaKin !== null) return mediaKin
+  const asked = await deps.ask({
+    "page-type": PAGE_TYPE_SLUG,
+    keys: ["slug", EXTENDS_SLUG, MEDIA_CONFIG_KEY],
+  })
+  if (!asked.ok) {
+    throw new Error(
+      `fileMediaPageTypeSlugs: the page query service did not answer, so no page type can be said to render media; an empty set would read as a tree where nothing does (${asked.why})`
+    )
+  }
+  const extendsOf = new Map<string, string | null>()
+  const declares = new Set<string>()
+  for (const row of asked.answer.rows) {
+    const slug = row.values.slug
+    if (typeof slug !== "string" || slug === "") continue
+    const above = row.values[EXTENDS_SLUG]
+    extendsOf.set(slug, typeof above === "string" && above !== "" ? above : null)
+    if (opened(row.values[MEDIA_CONFIG_KEY]) !== null) declares.add(slug)
+  }
+  const kin = new Set<string>()
+  for (const slug of extendsOf.keys()) {
+    if (!inheritsFrom(slug, declares, extendsOf)) continue
+    if (!(await isFileBacked(slug))) continue
+    kin.add(slug)
+  }
+  mediaKin = kin
+  return mediaKin
 }

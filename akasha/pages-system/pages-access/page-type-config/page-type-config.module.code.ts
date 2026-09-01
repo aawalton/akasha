@@ -5,6 +5,7 @@ import type { StorageTier } from "@akasha/pages-core/types"
 import type { Json } from "@akasha/supabase-database/json"
 import {
   fileMediaConfig,
+  fileMediaPageTypeSlugs,
   fileSequenceConfig,
 } from "../file-page-type-config/file-page-type-config.module.code.ts"
 import { filePropertyDefinitions } from "../file-property-defs/file-property-defs.module.code.ts"
@@ -69,6 +70,10 @@ export type GetMediaConfigArgs = { pageTypeId: string } | { pageTypeSlug: string
 export async function getMediaConfig(args: GetMediaConfigArgs): Promise<MediaConfig | null> {
   const label: string = "pageTypeId" in args ? args.pageTypeId : args.pageTypeSlug
   return fileMediaConfig(slugForFiles(args, `getMediaConfig(${label})`))
+}
+
+export async function getMediaPageTypeSlugs(): Promise<ReadonlySet<string>> {
+  return fileMediaPageTypeSlugs()
 }
 
 export type GetDetailConfigArgs = { pageTypeId: string } | { pageTypeSlug: string }
