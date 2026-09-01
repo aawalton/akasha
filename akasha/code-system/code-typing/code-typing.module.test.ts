@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Typing } from "./code-typing.module.code.ts"
@@ -12,8 +12,12 @@ import {
   exportsNamed,
   insideOf,
   keyingsIn,
+  manifested,
+  manifestOf,
   namingOf,
+  readingOf,
   referencesOf,
+  servedOf,
   spelledAs,
   typingOver,
 } from "./code-typing.module.code.ts"
@@ -51,6 +55,59 @@ function typed(said: Readonly<Record<string, string>>): {
   })
   return { root, typing }
 }
+
+const PACKAGED = "node_modules/@akasha"
+
+function linked(said: Readonly<Record<string, string>>, slug: string): string {
+  const root = scratch.rootFor("akasha-manifest-")
+  wrote(root, said)
+  mkdirSync(join(root, PACKAGED), { recursive: true })
+  symlinkSync(join(root, "akasha", slug), join(root, PACKAGED, slug))
+  return root
+}
+
+test("a manifest is known by the name of the file holding it wherever it sits", () => {
+  expect(manifested("package.json")).toBe(true)
+  expect(manifested("akasha/one/package.json")).toBe(true)
+  expect(manifested("akasha/one/one.module.code.ts")).toBe(false)
+  expect(manifested("akasha/one/my-package.json")).toBe(false)
+})
+
+test("a manifest reached through the packages folder is answered where it links to", () => {
+  const root = linked({ "akasha/one/package.json": '{ "name": "@akasha/one" }\n' }, "one")
+
+  expect(manifestOf(root, join(root, PACKAGED, "one/package.json"))).toBe("akasha/one/package.json")
+  expect(manifestOf(root, join(root, "akasha/one/package.json"))).toBe("akasha/one/package.json")
+  expect(manifestOf(root, join(root, "package.json"))).toBe(null)
+  expect(manifestOf(root, join(root, "akasha/one/one.module.code.ts"))).toBe(null)
+})
+
+test("the program is served a body it compiles and a manifest reaching one alike", () => {
+  const root = linked({ "akasha/one/package.json": '{ "name": "@akasha/one" }\n' }, "one")
+
+  expect(servedOf(root, join(root, "akasha/one/one.module.code.ts"))).toBe(
+    "akasha/one/one.module.code.ts"
+  )
+  expect(servedOf(root, join(root, PACKAGED, "one/package.json"))).toBe("akasha/one/package.json")
+  expect(servedOf(root, join(root, "tools/one.ts"))).toBe(null)
+})
+
+test("a manifest the change carries is read from the change where resolution asks for it", () => {
+  const root = linked({ "akasha/one/package.json": '{ "name": "@akasha/one" }\n' }, "one")
+  const carried = '{ "name": "@akasha/one", "exports": { ".": "./one.module.code.ts" } }\n'
+  const read = readingOf(root, (rel) => (rel === "akasha/one/package.json" ? carried : null))
+
+  expect(read(join(root, PACKAGED, "one/package.json"))).toBe(carried)
+})
+
+test("a manifest the change does not carry is read as the disk holds it", () => {
+  const body = '{ "name": "@akasha/one" }\n'
+  const root = linked({ "akasha/one/package.json": body }, "one")
+  const read = readingOf(root, () => null)
+
+  expect(read(join(root, PACKAGED, "one/package.json"))).toBe(body)
+  expect(read(join(root, "akasha/one/package.json"))).toBe(body)
+})
 
 test("every place one file spells a key is answered with what a shorthand there names", () => {
   const at = "akasha/welded.module.code.ts"

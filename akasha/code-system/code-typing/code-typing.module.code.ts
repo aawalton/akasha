@@ -1,3 +1,4 @@
+import { realpathSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import ts from "typescript"
 
@@ -8,6 +9,8 @@ const TSX = ".tsx"
 const INSIDE = "akasha/"
 
 const PACKAGES = "node_modules"
+
+const MANIFEST = "package.json"
 
 export const SETTINGS: ts.CompilerOptions = {
   noEmit: true,
@@ -45,12 +48,37 @@ export function compiled(path: string): boolean {
   return typed(path) && path.startsWith(INSIDE) && !path.includes(`/${PACKAGES}/`)
 }
 
+export function manifested(path: string): boolean {
+  return path === MANIFEST || path.endsWith(`/${MANIFEST}`)
+}
+
 export function insideOf(root: string, at: string): string | null {
   if (!typed(at)) return null
   if (at.includes(`/${PACKAGES}/`)) return null
   if (!at.startsWith(`${root}/`)) return null
   const rel = at.slice(root.length + 1)
   return rel.startsWith(INSIDE) ? rel : null
+}
+
+function realOf(at: string): string {
+  try {
+    return realpathSync(at)
+  } catch {
+    return at
+  }
+}
+
+export function manifestOf(root: string, at: string): string | null {
+  if (!manifested(at)) return null
+  const real = at.includes(`/${PACKAGES}/`) ? realOf(at) : at
+  if (!real.startsWith(`${root}/`)) return null
+  const rel = real.slice(root.length + 1)
+  if (rel.includes(`/${PACKAGES}/`)) return null
+  return rel.startsWith(INSIDE) ? rel : null
+}
+
+export function servedOf(root: string, at: string): string | null {
+  return insideOf(root, at) ?? manifestOf(root, at)
 }
 
 function directoriesIn(root: string, every: readonly string[]): ReadonlySet<string> {
@@ -72,7 +100,7 @@ export function hostOver(root: string, read: Reading, every: readonly string[]):
     ...base,
     getCurrentDirectory: () => root,
     fileExists: (path) =>
-      insideOf(root, resolve(path)) === null ? ts.sys.fileExists(path) : read(path) !== undefined,
+      servedOf(root, resolve(path)) === null ? ts.sys.fileExists(path) : read(path) !== undefined,
     directoryExists: (path) => dirs.has(resolve(path)) || ts.sys.directoryExists(path),
     readFile: read,
     getSourceFile: (path, language) => {
@@ -85,10 +113,15 @@ export function hostOver(root: string, read: Reading, every: readonly string[]):
 
 export function readingOf(root: string, textOf: (path: string) => string | null): Reading {
   return (at) => {
-    const rel = insideOf(root, resolve(at))
-    if (rel === null) return ts.sys.readFile(at)
-    const text = textOf(rel)
-    return text === null ? undefined : text
+    const full = resolve(at)
+    const rel = insideOf(root, full)
+    if (rel !== null) {
+      const text = textOf(rel)
+      return text === null ? undefined : text
+    }
+    const named = manifestOf(root, full)
+    if (named === null) return ts.sys.readFile(at)
+    return textOf(named) ?? ts.sys.readFile(at)
   }
 }
 

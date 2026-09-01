@@ -111,6 +111,19 @@ export const codeTyping = {
         "Renaming a binding a shorthand stood for states that binding rather than the key.",
     },
     {
+      invariantKind: "departure",
+      statement: "A package manifest is read through the reader the program was handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A manifest reached through the packages folder is answered at the path it links to inside the akasha folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest the reader answers nothing for is read from the disk.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges what it finds.",
     },
