@@ -242,6 +242,13 @@
         "@supabase/supabase-js": "^2.104.0",
       },
     },
+    "akasha/sms-core": {
+      "name": "@akasha/sms-core",
+      "dependencies": {
+        "@shared/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/testing-system": {
       "name": "@akasha/testing-system",
     },
@@ -4020,6 +4027,8 @@
     "@akasha/service-system": ["@akasha/service-system@workspace:akasha/service-system"],
 
     "@akasha/sms-access": ["@akasha/sms-access@workspace:akasha/sms-access"],
+
+    "@akasha/sms-core": ["@akasha/sms-core@workspace:akasha/sms-core"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
 

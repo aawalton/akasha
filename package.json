@@ -48,6 +48,7 @@
     "alanwalton/location-traces-access",
     "alanwalton/personas-core",
     "akasha/sms-access",
+    "akasha/sms-core",
     "alanwalton/sms-core",
     "alanwalton/web",
     "archive-of-worlds/web",
