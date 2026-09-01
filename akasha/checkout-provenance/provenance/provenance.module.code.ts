@@ -1,7 +1,7 @@
-import { execFileSync } from "node:child_process"
 import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { fileURLToPath } from "node:url"
+import { said } from "@akasha/utils-run/running"
 import { PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@infra/git-porcelain/parse-status"
 import { z } from "zod"
 
@@ -136,11 +136,7 @@ function declaresWorkspaces(manifestPath: string): boolean {
 
 function git(cwd: string, args: readonly string[]): string | null {
   try {
-    return execFileSync("git", args, {
-      cwd,
-      encoding: "utf8",
-      stdio: ["ignore", "pipe", "ignore"],
-    })
+    return said(["git", ...args], { cwd })
   } catch {
     return null
   }
