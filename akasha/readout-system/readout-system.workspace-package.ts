@@ -13,5 +13,6 @@ export const readoutSystem = {
     "page-type/readout-widget",
     "module/readout-credential",
     "module/readout-reading",
+    "module/readout-ring",
   ],
 } as const satisfies WorkspacePackage
