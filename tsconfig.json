@@ -224,6 +224,15 @@
     },
     {
       "path": "./temper/shared-capture-errors-core"
+    },
+    {
+      "path": "./infra/talos"
+    },
+    {
+      "path": "./infra/zimage"
+    },
+    {
+      "path": "./alanwalton/mobile-cli"
     }
   ],
   "files": []
