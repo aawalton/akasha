@@ -9,9 +9,15 @@ export const amyJennyUnreviewedWidget = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "No file imports `@shared/pages-query`.",
+      statement: "The page store refuses a reading test it cannot run rather than ignoring it.",
       workingMemory:
-        "The rewrite is landed as 0e6b6d059d: all 114 specifiers over 89 files now name @akasha/pages-query, which stands at akasha/pages-system/pages-query. What is left is inside that package. Its manifest states four exports and three resolve: the root carries the whole write API, answer-schema and fetcher stand, and ./ask names a store-page-asking folder that has never existed while askComposed sits in store-questioning. 59 of the 114 spell /ask, so that gap is the rest of this intent.",
+        "Proved live: where slug is finding answers one row; where slug startsWith fin answers all 66, silently. The store runs is, in, has and empty and drops every other key without a word, so a reading asking for today's rows answers with every row ever filed and reads as success. Nine tests became four; callers spell at-or-after, before, contains, ends-with and not-in. The client refuses what it cannot name, so the hole is the store's. See a-where-test-the-page-store-does-not-know-is-ignored.",
+    },
+    {
+      statement:
+        "A file writing a page through the page store lands the write rather than refusing.",
+      workingMemory:
+        "No file imports @shared/pages-query now. 114 specifiers over 89 files, and 11 more that reached by relative path, name @akasha/pages-query; 175 value imports resolve. Reads switched on the specifier alone. Writes cannot: /write takes a whole file body and nothing answers with one, so patchPage, patchState, patchRow, patchRows and writeRow cannot be built honestly and would lose a concurrent write in silence. writePage, writeRows and removePage are buildable. patchPageIfMatch has no caller.",
     },
     {
       statement:
