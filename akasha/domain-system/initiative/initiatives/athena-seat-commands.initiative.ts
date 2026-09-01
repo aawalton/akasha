@@ -9,7 +9,9 @@ export const athenaSeatCommands = {
   parentSlug: "akasha-migration",
   intents: [
     { statement: "A seat says what another seat is through akasha." },
+    { statement: "What a seat is stated as is recorded through akasha." },
     { statement: "A seat is stopped through akasha." },
+    { statement: "What a seat needs to be run stands inside akasha." },
     { statement: "A seat is started through akasha." },
     { statement: "A seat is emptied and refilled through akasha." },
     { statement: "A seat is brought back on the session it is bound to through akasha." },
