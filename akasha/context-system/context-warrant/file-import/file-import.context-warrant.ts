@@ -29,6 +29,14 @@ export const fileImport = {
       statement: "A file that does not stand imports nothing.",
     },
     {
+      invariantKind: "departure",
+      statement: "A specifier naming a package is read as the file the manifests land it on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those manifests are read from the index standing under the root handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "The index of what imports a path is not read here.",
     },

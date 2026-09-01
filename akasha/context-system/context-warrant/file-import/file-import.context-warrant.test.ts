@@ -9,6 +9,7 @@ import {
   entriesFiled,
   importsTakenFrom,
   pathFiled,
+  schemaFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
@@ -178,6 +179,53 @@ test("a cold index refuses rather than warranting nothing", () => {
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
   rmSync(join(root, ".git"), { recursive: true, force: true })
   expect(() => warrantsAt(root, at)).toThrow("is not there")
+})
+
+function manifested(root: string, slug: string, named: string): undefined {
+  schemaFiled(root, "named-file-property", "manifest", [
+    {
+      pageTypeSlug: "named-file-property",
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: "manifest",
+      propertySlug: "manifest",
+      fileName: "package.json",
+    },
+  ])
+  standing(
+    root,
+    `akasha/${slug}/package.json`,
+    pageAt(slug),
+    JSON.stringify({ name: named, exports: { ".": `./${slug}.module.code.ts` } })
+  )
+}
+
+test("a file importing a package by name warrants the page the manifest lands it on", () => {
+  const root = scratch.rootFor(PREFIX)
+  world(root, ["a", "b"])
+  codeAt(root, "b", "")
+  manifested(root, "b", "@akasha/b")
+  const at = codeAt(root, "a", 'import { b } from "@akasha/b"\n')
+  expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
+})
+
+test("a name no manifest states warrants nothing", () => {
+  const root = scratch.rootFor(PREFIX)
+  world(root, ["a", "b"])
+  codeAt(root, "b", "")
+  manifested(root, "b", "@akasha/b")
+  const at = codeAt(root, "a", 'import { c } from "@akasha/c"\n')
+  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+})
+
+test("a specifier naming a package is read as the file the naming handed in lands it on", () => {
+  const root = scratch.rootFor(PREFIX)
+  world(root, ["a", "b"])
+  const at = codeAt(root, "a", 'import { b } from "@akasha/b"\n')
+  expect(importedIn(root, at)).toEqual([])
+  expect(importedIn(root, at, new Map([["@akasha/b", "akasha/b/b.module.code.ts"]]))).toEqual([
+    "akasha/b/b.module.code.ts",
+  ])
 })
 
 test("what a file imports is read from its own body", () => {

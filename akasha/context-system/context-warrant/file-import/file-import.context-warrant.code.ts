@@ -1,10 +1,14 @@
-import { existsSync, readFileSync } from "node:fs"
-import { join } from "node:path"
 import {
   landingOf,
+  NAMING_NONE,
+  type Naming,
   specifiersIn,
 } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { listedByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  bodiesAt,
+  reachingFor,
+} from "../../../pages-system/indexes/package-reaching/package-reaching.module.code.ts"
 import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const IMPORTED =
@@ -12,18 +16,17 @@ export const IMPORTED =
 
 const TS = ".ts"
 
-function textAt(root: string, path: string): string | null {
-  const at = join(root, path)
-  return existsSync(at) ? readFileSync(at, "utf8") : null
-}
-
-export function importedIn(root: string, path: string): readonly string[] {
+export function importedIn(
+  root: string,
+  path: string,
+  naming: Naming = NAMING_NONE
+): readonly string[] {
   if (!path.endsWith(TS)) return []
-  const text = textAt(root, path)
+  const text = bodiesAt(root)(path)
   if (text === null) return []
   const found = new Set<string>()
   for (const one of specifiersIn(path, text)) {
-    const landed = landingOf(path, one)
+    const landed = landingOf(path, one, naming)
     if (landed !== null) found.add(landed)
   }
   return [...found].sort()
@@ -36,7 +39,7 @@ export function pageOf(root: string, path: string): string | null {
 export function fileImport(root: string, path: string): readonly Warrant[] {
   const found: Warrant[] = []
   const held = new Set<string>([path])
-  for (const one of importedIn(root, path)) {
+  for (const one of importedIn(root, path, reachingFor(root))) {
     const page = pageOf(root, one)
     if (page === null || held.has(page)) continue
     held.add(page)
