@@ -8,7 +8,7 @@ import {
   pageTypeListed,
   pathsOf,
   personaListed,
-  seatStanding,
+  seatListed,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
@@ -34,7 +34,7 @@ test("a seat warrants the type of the persona it states, and every type that one
   const root = scratch.rootFor("akasha-persona-page-type-")
   const chain = typeWorld(root)
   personaListed(root, "akasha")
-  const at = seatStanding(root, "one", `personaSlug: "akasha"`)
+  const at = seatListed(root, "one", `personaSlug: "akasha"`)
   expect(pathsOf(warrantsAt(root, at))).toEqual(chain)
 })
 
@@ -42,7 +42,7 @@ test("a warrant says the seat is what owes the type", () => {
   const root = scratch.rootFor("akasha-persona-page-type-")
   typeWorld(root)
   personaListed(root, "akasha")
-  const at = seatStanding(root, "one", `personaSlug: "akasha"`)
+  const at = seatListed(root, "one", `personaSlug: "akasha"`)
   expect(warrantsAt(root, at)[0]?.owed).toBe(PERSONA_TYPE)
 })
 
@@ -50,7 +50,7 @@ test("a seat stating no persona warrants no type", () => {
   const root = scratch.rootFor("akasha-persona-page-type-")
   typeWorld(root)
   personaListed(root, "akasha")
-  const at = seatStanding(root, "one", `roleSlug: "definer"`)
+  const at = seatListed(root, "one", `roleSlug: "definer"`)
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
@@ -58,7 +58,7 @@ test("a persona whose page cannot be found warrants no type", () => {
   const root = scratch.rootFor("akasha-persona-page-type-")
   typeWorld(root)
   personaListed(root, "akasha")
-  const at = seatStanding(root, "one", `personaSlug: "ghost"`)
+  const at = seatListed(root, "one", `personaSlug: "ghost"`)
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
@@ -73,7 +73,7 @@ test("a type whose page is not there warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-persona-page-type-")
   const chain = typeWorld(root)
   personaListed(root, "akasha")
-  const at = seatStanding(root, "one", `personaSlug: "akasha"`)
+  const at = seatListed(root, "one", `personaSlug: "akasha"`)
   rmSync(join(root, chain[0] ?? ""))
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
@@ -83,7 +83,7 @@ test("a type not read is refused, and the refusal says the seat owes it", () => 
   warrantsStanding(root, ["persona-page-type"])
   const chain = typeWorld(root)
   personaListed(root, "akasha")
-  const at = seatStanding(root, "one", `personaSlug: "akasha"`)
+  const at = seatListed(root, "one", `personaSlug: "akasha"`)
   const oid = standing(root, at, `export const one = { personaSlug: "akasha" }\n`)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
   const said = unreadIn(root, AGENT, [at])

@@ -9,7 +9,7 @@ import {
   initiativeListed,
   namesPart,
   pathsOf,
-  seatStanding,
+  seatListed,
   typedListed,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
@@ -27,7 +27,7 @@ test("a seat warrants the domain the one it states is a part of", () => {
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
-  const at = seatStanding(root, "one", `assignmentSlug: "domain/context-system"`)
+  const at = seatListed(root, "one", `assignmentSlug: "domain/context-system"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
 })
 
@@ -36,7 +36,7 @@ test("a seat stating another page type walks from the page standing under it", (
   const top = domainListed(root, "akasha-system")
   const mid = typedListed(root, "workspace-package", "checks-system")
   namesPart(root, top, mid)
-  const at = seatStanding(root, "one", `assignmentSlug: "workspace-package/checks-system"`)
+  const at = seatListed(root, "one", `assignmentSlug: "workspace-package/checks-system"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
 })
 
@@ -47,7 +47,7 @@ test("the chain is walked to the top rather than one step", () => {
   const low = domainListed(root, "warranting")
   namesPart(root, top, mid)
   namesPart(root, mid, low)
-  const at = seatStanding(root, "one", `assignmentSlug: "domain/warranting"`)
+  const at = seatListed(root, "one", `assignmentSlug: "domain/warranting"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path, mid.path])
 })
 
@@ -56,14 +56,14 @@ test("the domain the seat states is no ancestor of itself", () => {
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
-  const at = seatStanding(root, "one", `assignmentSlug: "domain/context-system"`)
+  const at = seatListed(root, "one", `assignmentSlug: "domain/context-system"`)
   expect(pathsOf(domainAncestors(root, at))).not.toContain(mid.path)
 })
 
 test("a seat stating a domain nothing stands above warrants none", () => {
   const root = scratch.rootFor("akasha-domain-ancestors-")
   domainListed(root, "akasha-system")
-  const at = seatStanding(root, "one", `assignmentSlug: "domain/akasha-system"`)
+  const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })
 
@@ -73,7 +73,7 @@ test("a chain that turns back on itself is walked once", () => {
   const two = domainListed(root, "two")
   namesPart(root, one, two)
   namesPart(root, two, one)
-  const at = seatStanding(root, "alpha", `assignmentSlug: "domain/one"`)
+  const at = seatListed(root, "alpha", `assignmentSlug: "domain/one"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([two.path])
 })
 
@@ -82,7 +82,7 @@ test("a seat stating no domain warrants none", () => {
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
-  const at = seatStanding(root, "one", `roleSlug: "definer"`)
+  const at = seatListed(root, "one", `roleSlug: "definer"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })
 
@@ -100,7 +100,7 @@ test("a seat stating an initiative walks from the domain that initiative names",
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
   initiativeListed(root, "one-work", `domainSlug: "domain/domain-system"`)
-  const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
+  const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
 })
 
@@ -110,7 +110,7 @@ test("an initiative naming its domain under another page type walks from that pa
   const mid = typedListed(root, "workspace-package", "domain-system")
   namesPart(root, top, mid)
   initiativeListed(root, "one-work", `domainSlug: "workspace-package/domain-system"`)
-  const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
+  const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
 })
 
@@ -120,7 +120,7 @@ test("the domain an initiative names is no ancestor of itself", () => {
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
   initiativeListed(root, "one-work", `domainSlug: "domain/domain-system"`)
-  const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
+  const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
   expect(pathsOf(domainAncestors(root, at))).not.toContain(mid.path)
 })
 
@@ -130,7 +130,7 @@ test("an initiative naming no domain warrants none", () => {
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
   initiativeListed(root, "one-work")
-  const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
+  const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })
 
@@ -139,7 +139,7 @@ test("an initiative whose page cannot be found warrants none", () => {
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
-  const at = seatStanding(root, "one", `assignmentSlug: "initiative/ghost"`)
+  const at = seatListed(root, "one", `assignmentSlug: "initiative/ghost"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })
 
@@ -148,7 +148,7 @@ test("a warrant carries the body standing above, and why it is owed", () => {
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
-  const at = seatStanding(root, "one", `assignmentSlug: "domain/context-system"`)
+  const at = seatListed(root, "one", `assignmentSlug: "domain/context-system"`)
   const held = domainAncestors(root, at)[0]
   expect(held?.path).toBe(top.path)
   expect(held?.oid).toBe(
@@ -162,7 +162,7 @@ test("a domain above whose body is gone warrants nothing of itself", () => {
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
-  const at = seatStanding(root, "one", `assignmentSlug: "domain/context-system"`)
+  const at = seatListed(root, "one", `assignmentSlug: "domain/context-system"`)
   rmSync(join(root, top.path))
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })
@@ -173,7 +173,7 @@ test("a domain above not read is refused, and the refusal says why it is owed", 
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
-  const at = seatStanding(root, "one", `assignmentSlug: "domain/context-system"`)
+  const at = seatListed(root, "one", `assignmentSlug: "domain/context-system"`)
   const oid = standing(root, at, `export const one = { assignmentSlug: "domain/context-system" }\n`)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
   const said = unreadIn(root, AGENT, [at])

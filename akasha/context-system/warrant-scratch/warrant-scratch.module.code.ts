@@ -91,7 +91,7 @@ export function pageTypeListed(root: string, slug: string, above: string | null)
   return path
 }
 
-export function seatStanding(root: string, slug: string, stated: string): string {
+export function seatListed(root: string, slug: string, stated: string): string {
   const path = `akasha/seat-system/seat/seats/${slug}.seat.ts`
   standing(root, path, `export const ${exportedAs(slug)} = { ${stated} }\n`)
   return path
