@@ -59,6 +59,14 @@ export const asking = {
       statement: "A body that will not open is answered with why it would not.",
     },
     {
+      invariantKind: "departure",
+      statement: "A program landing a change is handed the caller a program lands through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A program owes no reading and runs no check.",
+    },
+    {
       invariantKind: "gap",
       statement: "A caller is never told nothing happened when something did.",
     },
