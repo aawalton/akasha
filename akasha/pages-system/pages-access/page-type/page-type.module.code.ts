@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-core/page-types"
 import { resolveDescendantPageTypeIds } from "@akasha/pages-core/schema/page-type-inheritance"
-import { PageTypeSlug } from "@shared/pages-url"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { validateTemperTitlePrefix } from "../domain-title-prefix/domain-title-prefix.module.code.ts"
 import { isFileBacked } from "../file-read/file-read.module.code.ts"
 import {
@@ -74,7 +74,7 @@ async function pageTypeFromFiles(where: string, key: string, value: string): Pro
   }
   if (direct.rows.length === 1) return direct.rows[0] ?? null
 
-  for (const slug of await getDescendantPageTypeSlugs(PageTypeSlug(PAGE_TYPE_SLUG))) {
+  for (const slug of await getDescendantPageTypeSlugs(toPageTypeSlug(PAGE_TYPE_SLUG))) {
     if (slug === PAGE_TYPE_SLUG) continue
     if (!(await isFileBacked(slug))) continue
     const got = await getPages({
@@ -128,7 +128,7 @@ export async function getDescendantPageTypeSlugs(
   const slugs: PageTypeSlug[] = []
   for (const id of descendantIds) {
     const slug = slugById.get(id)
-    if (typeof slug === "string" && slug.length > 0) slugs.push(PageTypeSlug(slug))
+    if (typeof slug === "string" && slug.length > 0) slugs.push(toPageTypeSlug(slug))
   }
   return slugs
 }

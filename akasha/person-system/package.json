@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@akasha/health-samples-access": "workspace:*",
-    "@shared/pages-url": "workspace:*",
+    "@akasha/pages-url": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }

@@ -1,4 +1,4 @@
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { Json } from "@shared/supabase-database/generated/database"
 
 export type Page = {

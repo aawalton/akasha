@@ -30,10 +30,10 @@
   "dependencies": {
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-system": "workspace:*",
+    "@akasha/pages-url": "workspace:*",
     "@shared/file-page-identity": "workspace:*",
     "@shared/named-for": "workspace:*",
     "@shared/pages-query": "workspace:*",
-    "@shared/pages-url": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"

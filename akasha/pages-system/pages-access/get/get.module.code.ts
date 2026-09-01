@@ -1,5 +1,5 @@
 import type { Page, PageWhere } from "@akasha/pages-core/page-types"
-import type { PageTypeSlug } from "@shared/pages-url"
+import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { FileReadShape } from "../file-read/file-read.module.code.ts"
 import {
   getFilePage,
