@@ -9,6 +9,11 @@ export const amyJennyUnreviewedWidget = {
   parentSlug: "akasha-migration",
   intents: [
     {
+      statement: "Alan's unreviewed transaction iOS widget works.",
+      workingMemory:
+        "The reading works: `monarch-reading-service` exits 0 on a fresh `MONARCH_COOKIE` after 78 failures, and the relay carries 9 to both sites. Both `/api/categorization` routes 401 bare by their guards, and Alan holds `alan-route-readout-feed`. Left is his phone: its app predates the refactor, so `device-secret-sync` is not in his Capacitor bundle and the pod refuses an absent secret. `akasha ios-app` does only `build`; `tools/commands/mobile/deploy-testflight.ts` works and wants to be an act.",
+    },
+    {
       statement: "The packages reading and writing pages stand in akasha.",
       workingMemory:
         "`shared/pages-query` is 8 files but no small move: its sources close over 168 under `tools/`, `page/`, `repo/`, `readouts/`, and `imports-inside` refuses every relative escape from `akasha/`. It waits on the root page engine beneath it, filed at `the-root-page-engine-lands-as-five-packages-in-this-order` as five increments. `shared/` is down to 5 folders and only this and `pages-ui` still move; `auth`, `design-patterns` and `utils-test` are settled. Inbound: 120 statements in 86 files.",
@@ -43,11 +48,6 @@ export const amyJennyUnreviewedWidget = {
       statement: "The routes of Alan's site stand in akasha.",
       workingMemory:
         "Last of the three, because `app/routes` is the only part of this move with modelling nobody has done. Nothing waits on it: the site is a leaf with no inbound importers. The shape is settled: a lane built the site through a symlinked package root and got exit 0 with asset hashes identical to the control, tailwind emitting 114,234 bytes. Its 62 files carry 307 imports: 47 stay inside, 164 name packages, 20 npm, 76 escape to app siblings — 66 by `~/` and 10 by `../`, all into `awen`.",
-    },
-    {
-      statement: "Alan's unreviewed transaction iOS widget works.",
-      workingMemory:
-        "Staging is no longer by hand: `akasha ios-app build alanwalton` exits 0 with BUILD_SIM_OK unaided, at e1e16d4a66. The ios-app page states `spa-source-path` and `stage-script`, `app-building` reads both, and the command runs that script here before the tree reaches the mac. BUILD SUCCEEDED, 21 components into ValuesWidgetExtension, `alanwalton-widget-feed` among them; the two warnings are old AppDelegate captures. Only the reading is left: `MONARCH_COOKIE` is dead and only Alan can mint another.",
     },
     {
       statement: "Jenny's site deploys from akasha.",
