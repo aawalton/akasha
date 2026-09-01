@@ -10,6 +10,9 @@
       "path": "./shared/supabase-database"
     },
     {
+      "path": "./shared/pages-core"
+    },
+    {
       "path": "./shared/pages-access"
     },
     {
