@@ -55,6 +55,11 @@ export const readoutRelay = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Where a reading is carried to is said where it is run rather than held as a secret.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The readout carried under is read off the name of the page it was named by.",
     },
     {

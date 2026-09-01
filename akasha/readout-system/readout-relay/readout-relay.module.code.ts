@@ -4,17 +4,15 @@ import { type Reading, readingKept } from "../readout-reading/readout-reading.mo
 
 export const RELAY_PATH = "/api/readout-relay"
 
-export const RELAY_TO_NAME = "READING_RELAY_TO"
-
 export const RELAY_SECRET_NAME = "READING_RELAY_SECRET"
 
 export const NO_READOUT_NAMED =
   "no readout page was named, so there is no reading to carry. The page a reading stands beside " +
-  "is the one argument this takes."
+  "is the first of the two arguments this takes."
 
 export const NOWHERE_TO_CARRY_TO =
-  `${RELAY_TO_NAME} is not set, so there is nowhere to carry a reading to. It is the origin of ` +
-  "the site the reading is shown on."
+  "nowhere to carry a reading to was named. The origin of the site the reading is shown on is " +
+  "the second of the two arguments this takes."
 
 export const NO_SECRET_TO_CARRY_ON =
   `${RELAY_SECRET_NAME} is not set, so a reading carried would be refused. It is the secret the ` +
@@ -91,13 +89,13 @@ export function saidOf(thrown: unknown): string {
 
 if (import.meta.main) {
   const page = (process.argv[2] ?? "").trim()
-  const to = statedIn(process.env, RELAY_TO_NAME)
+  const to = (process.argv[3] ?? "").trim()
   const secret = statedIn(process.env, RELAY_SECRET_NAME)
   if (page === "") {
     process.stderr.write(`${NO_READOUT_NAMED}\n`)
     process.exit(2)
   }
-  if (to === null) {
+  if (to === "") {
     process.stderr.write(`${NOWHERE_TO_CARRY_TO}\n`)
     process.exit(2)
   }

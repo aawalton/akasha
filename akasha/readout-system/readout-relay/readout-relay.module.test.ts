@@ -4,6 +4,7 @@ import {
   dropRelayed,
   holdRelayed,
   RELAY_PATH,
+  RELAY_SECRET_NAME,
   readoutNamedBy,
   relayedHeld,
   relayedIn,
@@ -121,10 +122,8 @@ test("an answer that is not OK is refused rather than counted as carried", async
   ).rejects.toThrow("401")
 })
 
-test("a value that is unset or empty is stated as none", () => {
-  expect(statedIn({ READING_RELAY_TO: "https://alanwalton.com" }, "READING_RELAY_TO")).toBe(
-    "https://alanwalton.com"
-  )
-  expect(statedIn({ READING_RELAY_TO: "  " }, "READING_RELAY_TO")).toBeNull()
-  expect(statedIn({}, "READING_RELAY_TO")).toBeNull()
+test("a secret that is unset or empty is stated as none", () => {
+  expect(statedIn({ [RELAY_SECRET_NAME]: SECRET }, RELAY_SECRET_NAME)).toBe(SECRET)
+  expect(statedIn({ [RELAY_SECRET_NAME]: "  " }, RELAY_SECRET_NAME)).toBeNull()
+  expect(statedIn({}, RELAY_SECRET_NAME)).toBeNull()
 })

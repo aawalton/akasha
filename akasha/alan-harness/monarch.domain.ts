@@ -10,6 +10,7 @@ export const monarch = {
     "readout/monarch-unreviewed-transactions",
     "module/monarch-reading",
     "workstation-service/monarch-reading-service",
+    "workstation-service/monarch-relay-service",
   ],
   invariants: [
     {
@@ -25,6 +26,14 @@ export const monarch = {
       invariantKind: "departure",
       statement:
         "The reading is taken by a workstation timer rather than by a pod serving a route.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The cookie stands only on the workstation that takes the reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The site is carried the reading rather than taking one.",
     },
   ],
 } as const satisfies Domain
