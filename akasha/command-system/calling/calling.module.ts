@@ -10,7 +10,7 @@ export const calling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command's page names the export it runs.",
+      statement: "A command's page names the export the command runs.",
     },
     {
       invariantKind: "departure",

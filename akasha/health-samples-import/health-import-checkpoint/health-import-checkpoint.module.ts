@@ -13,7 +13,7 @@ export const healthImportCheckpoint = {
     },
     {
       invariantKind: "departure",
-      statement: "A checkpoint that will not parse is read as no checkpoint at all.",
+      statement: "A checkpoint that will not parse is read as no checkpoint.",
     },
     {
       invariantKind: "departure",

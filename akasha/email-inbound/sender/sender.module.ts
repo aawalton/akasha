@@ -9,11 +9,12 @@ export const sender = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An address inside angle brackets wins over the text standing around it.",
+      statement:
+        "An address inside angle brackets wins over the text standing around that address.",
     },
     {
       invariantKind: "departure",
-      statement: "An address is lowercased before anything compares it.",
+      statement: "An address is lowercased before anything compares the address.",
     },
     {
       invariantKind: "departure",

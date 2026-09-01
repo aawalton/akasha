@@ -22,7 +22,8 @@ export const bodyText = {
     },
     {
       invariantKind: "constraint",
-      statement: "A caller that must refuse them reaches for a decoder that is fatal.",
+      statement:
+        "A caller that must refuse bytes that are not text reaches for a decoder that is fatal.",
     },
     {
       invariantKind: "constraint",
@@ -30,7 +31,7 @@ export const bodyText = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what the text means or which file it came from.",
+      statement: "Nothing here knows what the text means or which file the text came from.",
     },
   ],
 } as const satisfies Module

@@ -50,11 +50,12 @@ export const valueMinting = {
     },
     {
       invariantKind: "gap",
-      statement: "A second early property can go into a page whose type declares none.",
+      statement:
+        "A second early property can go into a page whose type declares no early property.",
     },
     {
       invariantKind: "gap",
-      statement: "The checks refuse it.",
+      statement: "The checks refuse that property.",
     },
     {
       invariantKind: "absence",
@@ -62,7 +63,8 @@ export const valueMinting = {
     },
     {
       invariantKind: "absence",
-      statement: "It answers the changes as they would stand with their values in.",
+      statement:
+        "This module answers the changes as those changes would stand with their values in.",
     },
   ],
 } as const satisfies Module

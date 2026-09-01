@@ -19,7 +19,7 @@ export const keptSenses = {
     },
     {
       invariantKind: "departure",
-      statement: "A sense a term keeps is not a sense it bars.",
+      statement: "A sense a term keeps is not a sense the term bars.",
     },
     {
       invariantKind: "departure",

@@ -13,11 +13,11 @@ export const said = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What stands here is typed as it stands.",
+      statement: "What stands here is typed as that text stands.",
     },
     {
       invariantKind: "departure",
-      statement: "A value a flag carries is named in angle brackets after it.",
+      statement: "A value a flag carries is named in angle brackets after the flag.",
     },
   ],
 } as const satisfies TextProperty
