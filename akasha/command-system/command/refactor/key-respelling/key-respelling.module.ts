@@ -10,7 +10,8 @@ export const keyRespelling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property is named by its own address rather than by the key it carries.",
+      statement:
+        "A property is named by its own address rather than by the key the property carries.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +48,8 @@ export const keyRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "A page stating the key that the index does not name as carrying it is refused.",
+      statement:
+        "A page stating the key that the index does not name as carrying the key is refused.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +57,7 @@ export const keyRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "The property's own page states the key it becomes.",
+      statement: "The property's own page states the key the property becomes.",
     },
     {
       invariantKind: "absence",
@@ -63,7 +65,7 @@ export const keyRespelling = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here lands what it works out.",
+      statement: "Nothing here lands what this module works out.",
     },
   ],
 } as const satisfies Module

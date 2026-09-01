@@ -11,7 +11,7 @@ export const lockHolder = {
     {
       invariantKind: "departure",
       statement:
-        "A mark names the process that wrote it first and the moment that process started second.",
+        "A mark names the process that wrote the mark first and the moment that process started second.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const lockHolder = {
     {
       invariantKind: "absence",
       statement:
-        "Nothing here takes a lock or releases one and nothing here knows where a lock stands.",
+        "Nothing here takes a lock or releases a lock and nothing here knows where a lock stands.",
     },
     {
       invariantKind: "absence",

@@ -18,7 +18,7 @@ export const requestedAction = {
     },
     {
       invariantKind: "gap",
-      statement: "This is a relation to a seat action.",
+      statement: "This property is a relation to a seat action.",
     },
   ],
 } as const satisfies TextProperty

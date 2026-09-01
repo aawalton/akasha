@@ -15,7 +15,7 @@ export const indexImport = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the path of the file importing it.",
+      statement: "A line carries the path of the file importing the path imported.",
     },
     {
       invariantKind: "departure",
@@ -24,11 +24,11 @@ export const indexImport = {
     {
       invariantKind: "departure",
       statement:
-        "A specifier naming a package makes an edge at the file the naming handed in resolves it to.",
+        "A specifier naming a package makes an edge at the file the naming handed in resolves the specifier to.",
     },
     {
       invariantKind: "departure",
-      statement: "A specifier the naming handed in does not resolve makes none.",
+      statement: "A specifier the naming handed in does not resolve makes no edge.",
     },
     {
       invariantKind: "departure",

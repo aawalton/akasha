@@ -9,7 +9,7 @@ export const atomicWrite = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A write that throws leaves the path it was asked for as it stood.",
+      statement: "A write that throws leaves the path the write was asked for as the path stood.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,7 @@ export const atomicWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a caller asking for it has a busy file system tried again.",
+      statement: "Only a caller asking for another attempt has a busy file system tried again.",
     },
     {
       invariantKind: "constraint",

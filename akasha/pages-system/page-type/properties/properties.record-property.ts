@@ -48,11 +48,11 @@ export const properties = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type declares the properties it adds.",
+      statement: "A page type declares the properties the page type adds.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type takes the rest from the type it extends.",
+      statement: "A page type takes the rest from the type the page type extends.",
     },
     {
       invariantKind: "departure",
@@ -72,15 +72,15 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement: "How it is carried belongs here.",
+      statement: "How a property is carried belongs here.",
     },
     {
       invariantKind: "departure",
-      statement: "Only a declaration carrying many states a max or a total.",
+      statement: "Only a declaration carrying many values states a max or a total.",
     },
     {
       invariantKind: "departure",
-      statement: "Only a declaration carrying one states a default.",
+      statement: "Only a declaration carrying one value states a default.",
     },
     {
       invariantKind: "departure",

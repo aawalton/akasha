@@ -9,7 +9,7 @@ export const dayString = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A dashed date is read in UTC whatever zone settled it.",
+      statement: "A dashed date is read in UTC whatever zone settled the dashed date.",
     },
     {
       invariantKind: "departure",

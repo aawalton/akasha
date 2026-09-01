@@ -19,7 +19,7 @@ export const pagesFormula = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A formula answers absent where it cannot answer.",
+      statement: "A formula answers absent where the formula cannot answer.",
     },
     {
       invariantKind: "departure",

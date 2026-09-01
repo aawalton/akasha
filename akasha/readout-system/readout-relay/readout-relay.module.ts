@@ -10,20 +10,20 @@ export const readoutRelay = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading moves only when the machine that took it sends it.",
+      statement: "A reading moves only when the machine that took the reading sends the reading.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading is carried under the name of the readout it was taken for.",
+      statement: "A reading is carried under the name of the readout the reading was taken for.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The moment carried is the moment the reading was taken rather than the moment it arrived.",
+        "The moment carried is the moment the reading was taken rather than the moment the reading arrived.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading arriving replaces the one held before it.",
+      statement: "A reading arriving replaces the reading held before the arriving reading.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const readoutRelay = {
     },
     {
       invariantKind: "departure",
-      statement: "A carrier presents the relay secret the machine it carries to names.",
+      statement: "A carrier presents the relay secret the machine the carrier carries to names.",
     },
     {
       invariantKind: "departure",
@@ -56,19 +56,21 @@ export const readoutRelay = {
     {
       invariantKind: "departure",
       statement:
-        "Where a reading is carried to is said where it is run rather than held as a secret.",
+        "Where a reading is carried to is said where the carrier is run rather than held as a secret.",
     },
     {
       invariantKind: "departure",
-      statement: "The readout carried under is read off the name of the page it was named by.",
+      statement:
+        "The readout carried under is read off the name of the page the readout was named by.",
     },
     {
       invariantKind: "departure",
-      statement: "A readout with no reading beside it is said rather than carried as nothing.",
+      statement:
+        "A readout with no reading beside the readout is said rather than carried as nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading held is dropped only to prove that none is held.",
+      statement: "A reading held is dropped only to prove that no reading is held.",
     },
     {
       invariantKind: "absence",
@@ -76,7 +78,7 @@ export const readoutRelay = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides when one is due.",
+      statement: "Nothing here decides when a reading is due.",
     },
     {
       invariantKind: "absence",

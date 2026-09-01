@@ -18,7 +18,8 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A function is judged whether it is declared or bound to a name at any depth.",
+      statement:
+        "A function is judged whether the function is declared or bound to a name at any depth.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +43,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "Neither is judged here.",
+      statement: "Neither place is judged here.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +55,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A body written with JSX is judged as readily as one written without.",
+      statement: "A body written with JSX is judged as readily as a body written without.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +84,8 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "`page-named-as-stated` holds it to the name the slug it states makes.",
+      statement:
+        "`page-named-as-stated` holds a page file's own value to the name the slug that value states makes.",
     },
     {
       invariantKind: "departure",
@@ -108,7 +110,7 @@ export const identifierMatchesItsPlace = {
     {
       invariantKind: "departure",
       statement:
-        "A parameter opening with an underscore is passed over where the body does not read it.",
+        "A parameter opening with an underscore is passed over where the body does not read the parameter.",
     },
   ],
 } as const satisfies CodeCheck

@@ -15,7 +15,7 @@ export const noLibcByName = {
     },
     {
       invariantKind: "departure",
-      statement: "`libc.so.6` names nothing at all where musl is what runs.",
+      statement: "`libc.so.6` names no library of any kind where musl is what runs.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const noLibcByName = {
     },
     {
       invariantKind: "gap",
-      statement: "One written where it is opened is seen.",
+      statement: "A name written where the library is opened is seen.",
     },
   ],
 } as const satisfies SyntaxRule

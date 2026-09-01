@@ -15,7 +15,7 @@ export const noNonNullAssertion = {
     },
     {
       invariantKind: "departure",
-      statement: "It is refused wherever an expression may stand.",
+      statement: "The operator is refused wherever an expression may stand.",
     },
     {
       invariantKind: "departure",
@@ -23,12 +23,12 @@ export const noNonNullAssertion = {
     },
     {
       invariantKind: "departure",
-      statement: "One standing on another is refused once for each.",
+      statement: "An operator standing on another operator is refused once for each operator.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A definite assignment written on a declaration is another spelling and is not this.",
+        "A definite assignment written on a declaration is another spelling and is not this operator.",
     },
     {
       invariantKind: "departure",

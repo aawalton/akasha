@@ -12,7 +12,7 @@ export const blockAkashaEdits = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call is refused for where it writes rather than for what it is.",
+      statement: "A call is refused for where the call writes rather than for what the call is.",
     },
     {
       invariantKind: "departure",

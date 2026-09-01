@@ -48,7 +48,7 @@ export const webAppReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A page short of what a deploy rests on is refused by naming what it wants.",
+      statement: "A page short of what a deploy rests on is refused by naming what the page wants.",
     },
     {
       invariantKind: "absence",
@@ -56,7 +56,7 @@ export const webAppReading = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here loads the code it names.",
+      statement: "Nothing here loads the code this module names.",
     },
     {
       invariantKind: "departure",

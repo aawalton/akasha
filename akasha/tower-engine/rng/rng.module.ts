@@ -9,7 +9,7 @@ export const rng = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seed gives the same sequence every time it is handed in.",
+      statement: "A seed gives the same sequence every time the seed is handed in.",
     },
     {
       invariantKind: "departure",

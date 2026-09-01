@@ -10,7 +10,7 @@ export const smsConsent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The consent a person gave is known by the version of the wording they saw.",
+      statement: "The consent a person gave is known by the version of the wording the person saw.",
     },
     {
       invariantKind: "departure",

@@ -17,7 +17,7 @@ export const folderName = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding many pages of one type is named the plural of that type.",
+      statement: "A folder holding many pages of one type is named that type's plural.",
     },
   ],
 } as const satisfies NamePlace

@@ -13,11 +13,11 @@ export const defaultValue = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A default is what a writer states when it is told nothing.",
+      statement: "A default is what a writer states when the writer is told nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A page carries no value it does not state.",
+      statement: "A page carries no value the page does not state.",
     },
     {
       invariantKind: "departure",
@@ -29,11 +29,13 @@ export const defaultValue = {
     },
     {
       invariantKind: "departure",
-      statement: "One property takes a different default under each page type declaring it.",
+      statement:
+        "One property takes a different default under each page type declaring the property.",
     },
     {
       invariantKind: "stopgap",
-      statement: "A default is written as text whatever kind the property it stands for holds.",
+      statement:
+        "A default is written as text whatever kind the property the default stands for holds.",
     },
     {
       invariantKind: "gap",

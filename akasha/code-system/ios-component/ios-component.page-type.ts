@@ -54,11 +54,12 @@ export const iosComponent = {
     },
     {
       invariantKind: "departure",
-      statement: "Xcode compiles it.",
+      statement: "Xcode compiles the Swift.",
     },
     {
       invariantKind: "departure",
-      statement: "A shell's seam copies the components an app names into the extension it builds.",
+      statement:
+        "A shell's seam copies the components an app names into the extension the seam builds.",
     },
   ],
 } as const satisfies PageType

@@ -10,7 +10,7 @@ export const readoutCategorization = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A route serving this answer holds the wiring and none of the answering.",
+      statement: "A route serving this answer holds the wiring and no part of the answering.",
     },
     {
       invariantKind: "departure",

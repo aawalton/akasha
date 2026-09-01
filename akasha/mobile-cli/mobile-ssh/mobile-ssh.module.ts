@@ -9,7 +9,7 @@ export const mobileSsh = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A script reaches the host as a file rsynced to it.",
+      statement: "A script reaches the host as a file rsynced to the host.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,8 @@ export const mobileSsh = {
     },
     {
       invariantKind: "departure",
-      statement: "runSshResult answers a failing exit code rather than rejecting on it.",
+      statement:
+        "runSshResult answers a failing exit code rather than rejecting on the failing exit code.",
     },
     {
       invariantKind: "departure",

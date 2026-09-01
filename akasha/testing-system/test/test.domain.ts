@@ -16,15 +16,16 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A test over the pages proves what they hold.",
+      statement: "A test over the pages proves what the pages hold.",
     },
     {
       invariantKind: "departure",
-      statement: "Neither stands for the other.",
+      statement: "Neither test stands for the other.",
     },
     {
       invariantKind: "departure",
-      statement: "A test reaching the pages reads them whole rather than pinning what it found.",
+      statement:
+        "A test reaching the pages reads the pages whole rather than pinning what the test found.",
     },
     {
       invariantKind: "gap",

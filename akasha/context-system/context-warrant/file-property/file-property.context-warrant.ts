@@ -13,11 +13,11 @@ export const fileProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page warrants the page property type of every property it states.",
+      statement: "A page warrants the page property type of every property the page states.",
     },
     {
       invariantKind: "departure",
-      statement: "A page warrants nothing for a property it does not state.",
+      statement: "A page warrants nothing for a property the page does not state.",
     },
   ],
 } as const satisfies ContextWarrant

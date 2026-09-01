@@ -10,7 +10,7 @@ export const routeAccess = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A route opens only to a person holding an access naming it.",
+      statement: "A route opens only to a person holding an access naming the route.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const routeAccess = {
     },
     {
       invariantKind: "departure",
-      statement: "A decision carries why it refused.",
+      statement: "A decision carries why the decision refused.",
     },
     {
       invariantKind: "absence",

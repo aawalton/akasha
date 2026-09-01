@@ -23,7 +23,7 @@ export const openQuestions = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here asks one.",
+      statement: "Nothing here asks a question.",
     },
   ],
 } as const satisfies WorkspacePackage

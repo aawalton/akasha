@@ -21,7 +21,7 @@ export const iconPath = {
     },
     {
       invariantKind: "gap",
-      statement: "The seam is handed this rather than naming the same file a second time.",
+      statement: "The seam is handed the path rather than naming the same file a second time.",
     },
   ],
 } as const satisfies TextProperty
