@@ -116,7 +116,11 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A file named twice or named and warranted both comes back once.",
+      statement: "A file named twice comes back once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file named and warranted both comes back once.",
     },
     {
       invariantKind: "departure",

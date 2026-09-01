@@ -10,8 +10,11 @@ export const faultSaying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "What is thrown is read for a message and made to speak either way whether or not it is an Error.",
+      statement: "What is thrown is read for a message.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is thrown is made to speak even where what is thrown is no Error.",
     },
     {
       invariantKind: "departure",

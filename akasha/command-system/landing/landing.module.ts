@@ -147,7 +147,11 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A run may gate and report and leave no file and no loose object.",
+      statement: "A run may gate and report leaving no file behind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run may gate and report leaving no loose object behind.",
     },
     {
       invariantKind: "departure",

@@ -15,8 +15,15 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The three operations are whether a path stands and what a directory lists and the lines an entry file holds.",
+      statement: "One operation answers whether a path stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One operation answers what a directory lists.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One operation answers the lines an entry file holds.",
     },
     {
       invariantKind: "departure",

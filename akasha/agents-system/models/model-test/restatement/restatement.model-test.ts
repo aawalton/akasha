@@ -21,7 +21,11 @@ export const restatement = {
     },
     {
       invariantKind: "departure",
-      statement: "A gap and an absence read as obvious when the gap and the absence are right.",
+      statement: "A gap reads as obvious when the gap is right.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An absence reads as obvious when the absence is right.",
     },
     {
       invariantKind: "departure",

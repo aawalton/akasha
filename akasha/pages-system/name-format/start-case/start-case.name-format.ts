@@ -14,8 +14,11 @@ export const startCase = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A lower word between the first and the last is refused here and let through by title case.",
+      statement: "A lower word between the first and the last is refused here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lower word between the first and the last is let through by title case.",
     },
     {
       invariantKind: "constraint",

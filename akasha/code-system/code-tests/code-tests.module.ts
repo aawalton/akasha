@@ -163,8 +163,16 @@ export const codeTests = {
     },
     {
       invariantKind: "absence",
+      statement: "What is printed belongs to whoever asked for the run.",
+    },
+    {
+      invariantKind: "absence",
       statement:
-        "What is printed and how much of it a caller may hold and what a refusal says belong to whoever asked for the run.",
+        "How much of what is printed a caller may hold belongs to whoever asked for the run.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What a refusal says belongs to whoever asked for the run.",
     },
     {
       invariantKind: "absence",

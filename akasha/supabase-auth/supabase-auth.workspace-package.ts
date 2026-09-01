@@ -16,7 +16,15 @@ export const supabaseAuth = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "No key and no token and no password stands here.",
+      statement: "No key stands here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No token stands here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No password stands here.",
     },
     {
       invariantKind: "departure",

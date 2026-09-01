@@ -61,8 +61,11 @@ export const blockBiome = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "`prettier` stands in node_modules and writes the same files and is not named here.",
+      statement: "`prettier` sits in node_modules and writes the same files.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "`prettier` is not named here.",
     },
   ],
 } as const satisfies AgentHook

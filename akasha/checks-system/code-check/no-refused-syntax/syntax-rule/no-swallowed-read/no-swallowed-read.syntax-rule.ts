@@ -11,8 +11,15 @@ export const noSwallowedRead = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A file importing `Change` or `Judging` or `Judged` is walking the paths a change carries.",
+      statement: "A file importing `Change` walks the paths a change carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file importing `Judging` walks the paths a change carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file importing `Judged` walks the paths a change carries.",
     },
     {
       invariantKind: "departure",

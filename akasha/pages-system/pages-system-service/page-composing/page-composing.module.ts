@@ -10,7 +10,15 @@ export const pageComposing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A caller hands over a page type and a slug and values.",
+      statement: "A caller hands over a page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller hands over a slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller hands over values.",
     },
     {
       invariantKind: "absence",

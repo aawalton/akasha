@@ -13,8 +13,15 @@ export const definition = {
   invariants: [
     {
       invariantKind: "absence",
-      statement:
-        "A definition holds no clause saying what the thing is for or why the thing is worth having or where the thing sits.",
+      statement: "A definition holds no clause saying what the thing is for.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A definition holds no clause saying why the thing is worth having.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A definition holds no clause saying where the thing sits.",
     },
     {
       invariantKind: "departure",

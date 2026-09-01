@@ -51,8 +51,15 @@ export const lockHolder = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here takes a lock or releases a lock and nothing here knows where a lock stands.",
+      statement: "Nothing here takes a lock.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here releases a lock.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here knows where a lock stands.",
     },
     {
       invariantKind: "absence",

@@ -53,7 +53,15 @@ export const contextWarrant = {
     },
     {
       invariantKind: "departure",
-      statement: "A warrant states its reach on read and on write and whether it is transitive.",
+      statement: "A warrant states its reach on read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A warrant states its reach on write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A warrant states whether the warrant is transitive.",
     },
     {
       invariantKind: "departure",

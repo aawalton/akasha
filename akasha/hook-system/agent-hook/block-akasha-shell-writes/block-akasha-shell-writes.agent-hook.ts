@@ -16,7 +16,11 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "A copy or a move is judged on where the copy or the move puts things.",
+      statement: "A copy is judged on where the copy puts things.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move is judged on where the move puts things.",
     },
     {
       invariantKind: "departure",

@@ -67,8 +67,11 @@ export const readout = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A readout carries its label and unit and nothing about how the label and unit are drawn.",
+      statement: "A readout carries its label and unit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout carries nothing about how the label and unit are drawn.",
     },
     {
       invariantKind: "departure",

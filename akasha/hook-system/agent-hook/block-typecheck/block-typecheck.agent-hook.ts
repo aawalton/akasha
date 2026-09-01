@@ -24,7 +24,11 @@ export const blockTypecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "Tsc reached by a path or through a runner is the same call and is refused.",
+      statement: "Tsc reached by a path is the same call and is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Tsc reached through a runner is the same call and is refused.",
     },
     {
       invariantKind: "departure",

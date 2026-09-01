@@ -14,7 +14,7 @@ export const simDriver = {
     {
       invariantKind: "departure",
       statement:
-        "A recorded session is reused when its base and udid match and the recorded session still answers.",
+        "A recorded session whose base and udid match is reused where the recorded session still answers.",
     },
     {
       invariantKind: "departure",

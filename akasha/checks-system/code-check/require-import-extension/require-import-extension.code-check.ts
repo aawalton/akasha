@@ -23,7 +23,15 @@ export const requireImportExtension = {
     },
     {
       invariantKind: "departure",
-      statement: "A relative specifier carries `.ts` or `.tsx` or `.css`.",
+      statement: "A relative specifier carrying `.ts` stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relative specifier carrying `.tsx` stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relative specifier carrying `.css` stands.",
     },
     {
       invariantKind: "departure",
