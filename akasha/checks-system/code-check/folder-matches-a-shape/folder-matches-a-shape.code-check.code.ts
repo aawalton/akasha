@@ -216,7 +216,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     const held = here.map((one) =>
       claimedIn(heldIn(one, pageTypes, fileProperties), shadow.reading, filing)
     )
-    const standing: Standing = {
+    const described: Standing = {
       folder,
       files: here,
       deep,
@@ -226,7 +226,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       entered: (path) => entering(folder, path),
       extending,
     }
-    const said = shapes.map((one) => ({ slug: one.slug, reasons: one.judge(standing) }))
+    const said = shapes.map((one) => ({ slug: one.slug, reasons: one.judge(described) }))
     if (said.some((one) => one.reasons.length === 0)) continue
     const why = said.map((one) => `as ${one.slug}, ${one.reasons.join(" and ")}`).join("; ")
     found.push({ path: folder, reason: `this folder matches no folder shape — ${why}` })
