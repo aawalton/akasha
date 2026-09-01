@@ -1,4 +1,4 @@
-import { loadActiveCaloriesByDay } from "@alanwalton/health-samples-day/active-calories"
+import { loadActiveCaloriesByDay } from "@akasha/health-samples-day/active-calories"
 import { z } from "zod"
 import {
   askComposed,
