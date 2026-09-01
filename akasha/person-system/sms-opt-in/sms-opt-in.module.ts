@@ -22,7 +22,7 @@ export const smsOptIn = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal the route states is shown as it was given.",
+      statement: "A refusal the route states is shown as the refusal was given.",
     },
     {
       invariantKind: "absence",

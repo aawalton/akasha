@@ -10,11 +10,11 @@ export const processEnding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every process is asked before any is waited on.",
+      statement: "Every process is asked before any process is waited on.",
     },
     {
       invariantKind: "departure",
-      statement: "A process is waited on again after it is made to end.",
+      statement: "A process is waited on again after the process is made to end.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const processEnding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a process was running or what it belonged to.",
+      statement: "Nothing here knows what a process was running or what the process belonged to.",
     },
     {
       invariantKind: "absence",

@@ -9,7 +9,7 @@ export const modelAsking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is spawned rather than imported.",
+      statement: "This module is spawned rather than imported.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const modelAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A job that could not be answered exits three.",
+      statement: "A job that could not be answered exits with exit code `3`.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,8 @@ export const modelAsking = {
     },
     {
       invariantKind: "constraint",
-      statement: "The gateway named by the environment is what stands between this and Anthropic.",
+      statement:
+        "The gateway named by the environment is what stands between this module and Anthropic.",
     },
     {
       invariantKind: "absence",

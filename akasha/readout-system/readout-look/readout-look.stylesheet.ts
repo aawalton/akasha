@@ -21,7 +21,7 @@ export const readoutLook = {
     },
     {
       invariantKind: "departure",
-      statement: "The ring takes its size from a custom property so a caller may move it.",
+      statement: "The ring takes its size from a custom property so a caller may move the size.",
     },
     {
       invariantKind: "absence",

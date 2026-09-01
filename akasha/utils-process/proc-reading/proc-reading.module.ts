@@ -27,7 +27,7 @@ export const procReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A `/proc` that will not open at all is answered as no processes and said so.",
+      statement: "A `/proc` that will not open is answered as no processes and said so.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,8 @@ export const procReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A command name carrying brackets does not move the fields read past it.",
+      statement:
+        "A command name carrying brackets does not move the fields read past the command name.",
     },
     {
       invariantKind: "absence",

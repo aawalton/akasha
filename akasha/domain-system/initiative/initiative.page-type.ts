@@ -44,7 +44,7 @@ export const initiative = {
     {
       invariantKind: "departure",
       statement:
-        "An initiative takes each intent off the domain that held it and holds it as its own.",
+        "An initiative takes each intent off the domain that held the intent and holds the intent as its own.",
     },
     {
       invariantKind: "departure",
@@ -61,7 +61,7 @@ export const initiative = {
     {
       invariantKind: "departure",
       statement:
-        "An intent an initiative meets returns to the domain it came from as a design or condition invariant or is deleted.",
+        "An intent an initiative meets returns to the domain the intent came from as a design or condition invariant or is deleted.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +78,7 @@ export const initiative = {
     {
       invariantKind: "departure",
       statement:
-        "An initiative dies when it is reached rather than standing as a domain that is done.",
+        "An initiative dies when the initiative is reached rather than standing as a domain that is done.",
     },
     {
       invariantKind: "upkeep",

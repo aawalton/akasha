@@ -13,7 +13,7 @@ export const stageScript = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An app stating none of this serves whatever its package already carries.",
+      statement: "An app stating no stage script serves whatever its package already carries.",
     },
     {
       invariantKind: "departure",

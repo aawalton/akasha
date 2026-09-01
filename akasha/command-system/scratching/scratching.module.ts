@@ -13,15 +13,16 @@ export const scratching = {
     {
       invariantKind: "departure",
       statement:
-        "A body a test stands in its scratch root is put there through one spelling that gives back the id git would know it by.",
+        "A body a test stands in its scratch root is put there through one spelling that gives back the id git would know the body by.",
     },
     {
       invariantKind: "departure",
-      statement: "A scratch root is swept when the test file that stood it up ends pass or fail.",
+      statement:
+        "A scratch root is swept when the test file that stood the scratch root up ends pass or fail.",
     },
     {
       invariantKind: "departure",
-      statement: "A test names only the prefix it wants.",
+      statement: "A test names only the prefix the test wants.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +42,7 @@ export const scratching = {
     },
     {
       invariantKind: "departure",
-      statement: "Filling a shared tmpfs takes the whole machine down with it.",
+      statement: "Filling a shared tmpfs takes the whole machine down with the shared tmpfs.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +50,7 @@ export const scratching = {
     },
     {
       invariantKind: "departure",
-      statement: "Every scratch root the command system takes is taken from it.",
+      statement: "Every scratch root the command system takes is taken from that place.",
     },
   ],
 } as const satisfies Module

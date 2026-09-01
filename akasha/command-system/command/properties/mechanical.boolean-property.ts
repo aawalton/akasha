@@ -16,7 +16,7 @@ export const mechanical = {
     {
       invariantKind: "departure",
       statement:
-        "Nobody is held to reading again what a mechanical command changed until they come to write over that file itself.",
+        "No agent is held to reading again what a mechanical command changed until that agent comes to write over that file itself.",
     },
     {
       invariantKind: "departure",

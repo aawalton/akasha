@@ -11,15 +11,16 @@ export const indexEntries = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page states its own path and the file each of its file properties names.",
+      statement: "A page states its own path and the file each file property of the page names.",
     },
     {
       invariantKind: "departure",
-      statement: "A page claims everything it states.",
+      statement: "A page claims everything the page states.",
     },
     {
       invariantKind: "departure",
-      statement: "A page claims the sops file standing beside it whatever it carries.",
+      statement:
+        "A page claims the sops file standing beside the page whatever the sops file carries.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +28,7 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "A file a page claims without stating it is not asked to stand.",
+      statement: "A file that a page claims without stating is not asked to stand.",
     },
   ],
 } as const satisfies Module

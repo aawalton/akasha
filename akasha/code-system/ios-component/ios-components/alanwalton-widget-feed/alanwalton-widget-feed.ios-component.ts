@@ -13,7 +13,7 @@ export const alanwaltonWidgetFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "A cached reading carries the moment it was written.",
+      statement: "A cached reading carries the moment the cached reading was written.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const alanwaltonWidgetFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading let go is drawn as none rather than as a number.",
+      statement: "A reading let go is drawn as no reading rather than as a number.",
     },
   ],
 } as const satisfies IosComponent

@@ -9,7 +9,8 @@ export const questionAnswer = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A tap is trusted only where the option it names still reads as it did.",
+      statement:
+        "A tap is trusted only where the option the tap names still reads as the option did.",
     },
     {
       invariantKind: "departure",

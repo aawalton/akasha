@@ -27,7 +27,8 @@ export const storePageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration takes what it says from the property page the page type names.",
+      statement:
+        "A declaration takes what the declaration says from the property page the page type names.",
     },
     {
       invariantKind: "departure",

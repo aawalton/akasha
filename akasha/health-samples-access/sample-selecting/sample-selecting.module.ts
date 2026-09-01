@@ -9,11 +9,11 @@ export const sampleSelecting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A span holds the instant it starts at.",
+      statement: "A span holds the instant the span starts at.",
     },
     {
       invariantKind: "departure",
-      statement: "A span stops before the instant it ends at.",
+      statement: "A span stops before the instant the span ends at.",
     },
     {
       invariantKind: "departure",

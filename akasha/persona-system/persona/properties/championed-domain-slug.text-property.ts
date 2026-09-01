@@ -13,11 +13,11 @@ export const championedDomainSlug = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement: "Five of the thirty-nine domains championed stand as pages.",
+      statement: "Five domains of the thirty-nine domains championed stand as pages.",
     },
     {
       invariantKind: "gap",
-      statement: "This is a relation to a domain.",
+      statement: "This property is a relation to a domain.",
     },
   ],
 } as const satisfies TextProperty

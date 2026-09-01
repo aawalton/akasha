@@ -17,7 +17,7 @@ export const startMode = {
     },
     {
       invariantKind: "gap",
-      statement: "This is a relation to a start mode.",
+      statement: "This property is a relation to a start mode.",
     },
   ],
 } as const satisfies TextProperty

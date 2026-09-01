@@ -26,7 +26,7 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "A body reaches this only as a file named at `--content-file` rather than on the command line.",
+        "A body reaches this command only as a file named at `--content-file` rather than on the command line.",
     },
     {
       invariantKind: "departure",
@@ -51,11 +51,11 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "What the seat owes and what the paths owe are ordered together rather than said one list after another.",
+        "What the seat owes and what the paths owe are ordered together rather than said as one list after another list.",
     },
     {
       invariantKind: "departure",
-      statement: "An agent that has not read what it is changes nothing.",
+      statement: "An agent that has not read what the agent is changes nothing.",
     },
     {
       invariantKind: "departure",
@@ -63,16 +63,17 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "`--break-the-glass` passes the warrants as it passes the checks.",
+      statement:
+        "`--break-the-glass` passes the warrants as `--break-the-glass` passes the checks.",
     },
     {
       invariantKind: "departure",
-      statement: "The reason it was broken stands in the commit.",
+      statement: "The reason the glass was broken stands in the commit.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path taken away carries the files standing beside it like `move` and `remove` do.",
+        "A path taken away carries the files standing beside the path like `move` and `remove` do.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +81,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "What the caller warranted is the page claiming it.",
+      statement: "What the caller warranted is the page claiming the path.",
     },
     {
       invariantKind: "departure",
@@ -96,7 +97,7 @@ export const write = {
     },
     {
       invariantKind: "absence",
-      statement: "A path this call takes away was chosen by whoever called it.",
+      statement: "A path this call takes away was chosen by whoever called this call.",
     },
     {
       invariantKind: "absence",
@@ -105,7 +106,7 @@ export const write = {
     {
       invariantKind: "gap",
       statement:
-        "A caller hands in whole bodies and learns whether they were taken rather than half-taken.",
+        "A caller hands in whole bodies and learns whether the bodies were taken rather than half-taken.",
     },
   ],
 } as const satisfies Command

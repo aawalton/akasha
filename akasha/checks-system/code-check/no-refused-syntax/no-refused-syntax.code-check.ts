@@ -26,7 +26,7 @@ export const noRefusedSyntax = {
     {
       invariantKind: "departure",
       statement:
-        "A change rewriting a rule's code is refused rather than judged by the body standing before it.",
+        "A change rewriting a rule's code is refused rather than judged by the body standing before the change.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement: "The rules stand together under one check rather than each apart.",
+      statement: "The rules stand together under one check rather than each rule apart.",
     },
     {
       invariantKind: "departure",
@@ -46,11 +46,11 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement: "Each reason names the rule that gave it.",
+      statement: "Each reason names the rule that gave the reason.",
     },
     {
       invariantKind: "departure",
-      statement: "No rule standing at all is refused.",
+      statement: "No rule standing is refused.",
     },
     {
       invariantKind: "departure",

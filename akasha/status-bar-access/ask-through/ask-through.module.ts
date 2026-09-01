@@ -13,7 +13,7 @@ export const askThrough = {
     },
     {
       invariantKind: "departure",
-      statement: "A binding is made for each call rather than held between them.",
+      statement: "A binding is made for each call rather than held between calls.",
     },
     {
       invariantKind: "absence",

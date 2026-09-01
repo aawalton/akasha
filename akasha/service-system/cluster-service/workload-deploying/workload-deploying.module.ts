@@ -27,11 +27,12 @@ export const workloadDeploying = {
     },
     {
       invariantKind: "departure",
-      statement: "An apply takes the field ownership it needs.",
+      statement: "An apply takes whatever field ownership the apply needs.",
     },
     {
       invariantKind: "departure",
-      statement: "A manifest is written beside the code that emitted it before it is applied.",
+      statement:
+        "A manifest is written beside the code that emitted the manifest before the manifest is applied.",
     },
     {
       invariantKind: "departure",

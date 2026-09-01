@@ -13,7 +13,7 @@ export const calendarEventSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A start and an end are both all-day or both carry a time.",
+      statement: "A start and an end are both all-day boundaries or both boundaries carry a time.",
     },
     {
       invariantKind: "departure",

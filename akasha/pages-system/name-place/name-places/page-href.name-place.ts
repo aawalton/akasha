@@ -13,7 +13,7 @@ export const pageHref = {
     },
     {
       invariantKind: "departure",
-      statement: "Each is named elsewhere.",
+      statement: "Each slug is named elsewhere.",
     },
     {
       invariantKind: "departure",
@@ -21,11 +21,11 @@ export const pageHref = {
     },
     {
       invariantKind: "departure",
-      statement: "The tail parts two pages of one slug without either being renamed.",
+      statement: "The tail parts two pages of one slug without either page being renamed.",
     },
     {
       invariantKind: "departure",
-      statement: "A tail makes the part no longer a slug.",
+      statement: "A part carrying a tail is no slug.",
     },
   ],
 } as const satisfies NamePlace

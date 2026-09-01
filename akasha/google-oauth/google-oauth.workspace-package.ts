@@ -14,7 +14,7 @@ export const googleOauth = {
     },
     {
       invariantKind: "departure",
-      statement: "A refresh token belongs to the product that minted it.",
+      statement: "A refresh token belongs to the product that minted the refresh token.",
     },
   ],
 } as const satisfies WorkspacePackage

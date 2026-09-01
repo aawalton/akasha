@@ -13,11 +13,11 @@ export const roleItself = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat warrants the role it states.",
+      statement: "A seat warrants the role the seat states.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat stating no role warrants none.",
+      statement: "A seat stating no role warrants no role.",
     },
     {
       invariantKind: "departure",

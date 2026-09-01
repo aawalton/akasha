@@ -35,7 +35,8 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "What this does not reach is printed by the hook and asked for with `--scope`.",
+      statement:
+        "What this hook does not reach is printed by the hook and asked for with `--scope`.",
     },
     {
       invariantKind: "departure",

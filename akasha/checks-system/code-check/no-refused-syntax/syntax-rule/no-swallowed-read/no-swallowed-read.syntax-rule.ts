@@ -16,7 +16,7 @@ export const noSwallowedRead = {
     },
     {
       invariantKind: "departure",
-      statement: "That is where a read that fails costs a path rather than a caller.",
+      statement: "That file is where a read that fails costs a path rather than a caller.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +63,7 @@ export const noSwallowedRead = {
     },
     {
       invariantKind: "gap",
-      statement: "A null answered rather than thrown is followed to the caller reading it.",
+      statement: "A null answered rather than thrown is followed to the caller reading the null.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +71,7 @@ export const noSwallowedRead = {
     },
     {
       invariantKind: "departure",
-      statement: "A catch that never names what it caught has dropped it.",
+      statement: "A catch that never names what the catch caught has dropped the failure.",
     },
   ],
 } as const satisfies SyntaxRule

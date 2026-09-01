@@ -9,7 +9,7 @@ export const esoDay = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A day is anchored at noon rather than at the reset that opens it.",
+      statement: "A day is anchored at noon rather than at the reset that opens the day.",
     },
     {
       invariantKind: "departure",

@@ -14,7 +14,7 @@ export const towerEngine = {
     },
     {
       invariantKind: "departure",
-      statement: "An attack changes neither combatant it was handed.",
+      statement: "An attack changes neither combatant the attack was handed.",
     },
     {
       invariantKind: "departure",

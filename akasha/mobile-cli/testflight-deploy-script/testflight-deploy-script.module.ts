@@ -17,7 +17,7 @@ export const testflightDeployScript = {
     },
     {
       invariantKind: "departure",
-      statement: "The ipa is gated on carrying the cut commit before it is uploaded.",
+      statement: "The ipa is gated on carrying the cut commit before the ipa is uploaded.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const testflightDeployScript = {
     },
     {
       invariantKind: "departure",
-      statement: "A no-upload run validates the ipa where a real run would upload it.",
+      statement: "A no-upload run validates the ipa where a real run would upload the ipa.",
     },
     {
       invariantKind: "departure",
