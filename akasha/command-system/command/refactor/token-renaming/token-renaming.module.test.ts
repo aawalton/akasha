@@ -3,46 +3,40 @@ import { bindingFor, tokeningFor } from "./token-renaming.module.code.ts"
 import {
   BODIES,
   BOTH,
+  bound,
+  changed,
+  FILLED,
   HELD,
   KEPT,
+  lined,
   NAMER,
   OWN,
+  over,
   PAIRED,
-  PATHS,
   PLAIN,
   ROOT,
   SHADOW,
   TWICE,
-  textOf,
   UNWELDED,
   WELDED,
 } from "./token-renaming.module.test-fixtures.ts"
 
-function over(
-  at: string,
-  from: string,
-  to: string,
-  typed: readonly string[]
-): ReturnType<typeof bindingFor> {
-  const asked = tokeningFor(at, from, to)
-  if ("refused" in asked) throw new Error(asked.refused)
-  return bindingFor(ROOT, { typed, every: PATHS }, asked.tokening, textOf)
-}
+test("a key a union fills is renamed with the name a shorthand welds it to", () => {
+  const filled = changed(bound(FILLED, "keyed", "services"), FILLED)
 
-function bound(at: string, from: string, to: string): ReturnType<typeof bindingFor> {
-  return over(at, from, to, PATHS)
-}
+  expect(filled).toContain("readonly services: readonly string[]")
+  expect(filled).toContain("const services = [...said]")
+  expect(filled).toContain("return { services }")
+  expect(filled).toContain("return { services: [said] }")
+  expect(filled).not.toContain("keyed")
+})
 
-function lined(at: string, from: string, to: string, line: string): ReturnType<typeof bindingFor> {
-  const asked = tokeningFor(at, from, to, line)
-  if ("refused" in asked) throw new Error(asked.refused)
-  return bindingFor(ROOT, { typed: PATHS, every: PATHS }, asked.tokening, textOf)
-}
-
-function changed(made: ReturnType<typeof bindingFor>, at: string): string {
-  if ("refused" in made) throw new Error(made.refused)
-  return made.binding.changes.get(at) ?? ""
-}
+test("a key spelled where the checker resolves it to nothing welds nothing", () => {
+  expect(bound(UNWELDED, "keyed", "services")).toEqual({
+    refused:
+      `${UNWELDED} carries \`keyed\` as a name and as a key, ` + "so which one to rename is unsaid",
+  })
+})
 
 test("a key and a name one shorthand welds together are renamed as one", () => {
   const welded = changed(bound(WELDED, "keyed", "services"), WELDED)

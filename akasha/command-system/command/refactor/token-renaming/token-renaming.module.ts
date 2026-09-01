@@ -109,8 +109,7 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A key spelled outside its own declaration only by shorthands naming the renamed name is welded to that name.",
+      statement: "A key one shorthand names the renamed name in is welded to that name.",
     },
     {
       invariantKind: "departure",
@@ -122,7 +121,21 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "One key written out anywhere in the file welds nothing.",
+      statement:
+        "A key written out where the checker resolves it to the renamed key welds as a shorthand does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key spelled where the checker resolves it to nothing welds nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key spelled where the checker resolves it to another declaration welds nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shorthand naming anything but the renamed name welds nothing.",
     },
     {
       invariantKind: "departure",

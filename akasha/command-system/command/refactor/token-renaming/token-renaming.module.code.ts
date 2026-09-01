@@ -118,10 +118,26 @@ function oneOf(typing: Typing, one: Tokening, found: ReadonlySet<ts.Node>, key: 
   }
 }
 
-function weldedTo(typing: Typing, one: Tokening, named: ReadonlySet<ts.Node>): boolean {
+function reaching(found: readonly ts.Node[], held: ReadonlySet<ts.Node>): boolean {
+  for (const one of found) {
+    if (held.has(one)) return true
+  }
+  return false
+}
+
+function weldedTo(
+  typing: Typing,
+  one: Tokening,
+  named: ReadonlySet<ts.Node>,
+  keyed: ReadonlySet<ts.Node>
+): boolean {
   let welds = false
   for (const keying of keyingsIn(typing, one.path, one.was)) {
     if (keying.declares) continue
+    if (!keying.shorthand) {
+      if (!reaching(keying.keys, keyed)) return false
+      continue
+    }
     if (keying.names.length === 0) return false
     for (const at of keying.names) if (!named.has(at)) return false
     welds = true
@@ -135,7 +151,7 @@ function bothOf(
   named: ReadonlySet<ts.Node>,
   keyed: ReadonlySet<ts.Node>
 ): Picked {
-  if (!weldedTo(typing, one, named)) {
+  if (!weldedTo(typing, one, named, keyed)) {
     return {
       refused: `${one.path} carries \`${one.was}\` as a name and as a key, so which one to rename is unsaid`,
     }
