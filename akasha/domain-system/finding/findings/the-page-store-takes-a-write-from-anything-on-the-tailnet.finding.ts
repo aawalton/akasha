@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const thePageStoreTakesAWriteFromAnythingOnTheTailnet = {
+  id: "01a05aef-b3df-759a-b6d8-394b03016092",
+  pageTypeSlug: "finding",
+  slug: "the-page-store-takes-a-write-from-anything-on-the-tailnet",
+  domainSlug: "workspace-package/pages-system",
+  claim:
+    "The page store's `/write` route asks a caller for nothing, so anything reaching it over the tailnet can write any file under `akasha` and land a git commit, and the `writer` it names is taken as the author of that commit without being checked. The house network no longer reaches it, so what is open to this is Alan's own devices and whatever the cluster lets through the tailnet egress. The bind was fixed tonight and asking for a credential was not.",
+  evidence:
+    "`ss -lntp` now shows `127.0.0.1:8787`, `[::1]:8787` and `100.64.0.4:8787` and nothing on `*`. `curl -m 5` to `192.168.68.50:8787` is refused where it answered with rows an hour earlier. The house network is shut out and what stands open is the tailnet.\n\nNothing in `page-listening` or `page-serving` reads an authorization header or any other credential. `page-serving` refuses a write only for a missing `writer` or a missing `message`. `page-writing` states `A writer is stated as the name and address git takes as an author`, and nothing checks that the caller is that person, so authorship is whatever the request typed. `pages-system-service` states `A write is not gated by the checks`, so a body no check would pass lands.\n\nReaching the tailnet takes a node key Alan holds, and the cluster reaches the store through `tailnet-egress`, which any pod can dial. So the callers are Alan's devices plus every pod in the cluster.\n\nThe call I took: bind and stop, no credential tonight. A credential has to be invented, kept somewhere, and taught to the socat forwarder in the `page-store` deployment and to the HTTP client another agent is writing against this service right now. Doing that at speed on live callers risks the outage the bind fix was meant to avoid. It is filed here rather than half-built.",
+} as const satisfies Finding
