@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const oneAsJsonNowStandsBehindASoundCastAndAnUncheckedOne = {
+  id: "01a05ccc-36f0-7adc-a935-fb95531828b9",
+  pageTypeSlug: "finding",
+  slug: "one-as-json-now-stands-behind-a-sound-cast-and-an-unchecked-one",
+  domainSlug: "workspace-package/pages-core",
+  claim:
+    "The one `asJson` in pages-core now answers three call sites that rest on different warrants. jsonb-ops casts a `JsonObject` it built itself and the cast is sound. collection-lookup casts a value the store read out of a jsonb column and it is sound too. build-patch-plan casts whatever a caller put in `set`, and nothing has checked it. Hardening the body to read its argument is therefore no longer a decision pages-core can take alone.",
+  evidence:
+    "The three bodies were byte-identical private helpers before `no-rule-in-two-files` named them, and merging them was right on the rule. What the merge collapsed is not the rule but the warrant. In `json-patch/jsonb-ops`, every `asJson(out)` casts an `out: JsonObject` this file just built from a `Json` node, so the assertion only tells TypeScript what the alias already says. In `supabase/mutations/collection-lookup`, `readCurrentAttributes` guards with `isRecord` and the values come from the `attributes` jsonb column, so they are Json because Postgres would not have stored anything else. In `supabase/mutations/build-patch-plan`, `buildOverlay` walks `Object.entries(triple.patchAttributes)`, and those entries come from `buildPatchPlan(args.set)` where `set` is `Record<string, unknown>` handed in by whoever is writing a page. A Date, a function, a class instance or `undefined` reaches `asJson` there and is written into `RowOverlay.attributes`, typed `Record<string, Json>`, which the optimistic overlay then shows and the server later contradicts. No differential test can catch this: a cast is erased, so all three sites agreed on every one of 28 values tested, including arrays, boxed primitives and null-prototype objects. The divergence is in what may arrive, not in what the body does. If someone later gives `asJson` a check, or points it at utils-narrow's validating `is-json`, the first two call sites are unaffected and the third starts refusing or dropping values it passes silently today. Worth deciding: whether build-patch-plan should validate at its own boundary rather than leaning on a shared cast to say nothing.",
+} as const satisfies Finding
