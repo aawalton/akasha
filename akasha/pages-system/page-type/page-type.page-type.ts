@@ -1,8 +1,8 @@
 import type { Domain } from "@akasha/domain-system/domain"
+import type { PluralSlug } from "../../domain-system/domain/properties/plural-slug.text-property.ts"
 import type { ExtendsSlug } from "./properties/extends-slug.relation-property.ts"
 import type { LoadedBySlug } from "./properties/loaded-by-slug.relation-property.ts"
 import type { Mortal } from "./properties/mortal.boolean-property.ts"
-import type { PluralSlug } from "./properties/plural-slug.text-property.ts"
 import type { Properties } from "./properties/properties.record-property.ts"
 
 export type PageType = Domain & {

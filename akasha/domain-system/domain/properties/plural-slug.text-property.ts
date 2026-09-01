@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-property/text-property.page-type.ts"
+import type { TextProperty } from "../../../pages-system/text-property/text-property.page-type.ts"
 
 export type PluralSlug = string
 
