@@ -10,11 +10,11 @@ export const storeWriting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A write names a path and the whole body standing at it.",
+      statement: "A write names a path and the whole body standing at that path.",
     },
     {
       invariantKind: "departure",
-      statement: "A write that committed answers with the commit it landed as.",
+      statement: "A write that committed answers with the commit the write landed as.",
     },
     {
       invariantKind: "departure",
@@ -30,11 +30,11 @@ export const storeWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A read answers with a whole body and the commit it was read at.",
+      statement: "A read answers with a whole body and the commit the body was read at.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch writes back the bodies it read.",
+      statement: "A patch writes back the bodies the patch read.",
     },
     {
       invariantKind: "departure",
@@ -42,15 +42,15 @@ export const storeWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch a write landed under is refused rather than told it won.",
+      statement: "A patch a write landed under is refused rather than told the patch won.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch leaving every body as it stood writes nothing.",
+      statement: "A patch leaving every body as that body stood writes nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A page is taken away by the page type and the name it is reached by.",
+      statement: "A page is taken away by the page type and the name the page is reached by.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +58,8 @@ export const storeWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A write naming a row inside a page is refused for want of a way to address one.",
+      statement:
+        "A write naming a row inside a page is refused for want of a way to address a row.",
     },
     {
       invariantKind: "departure",

@@ -58,7 +58,7 @@ export const syntaxRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule names the line it refuses.",
+      statement: "A rule names the line the rule refuses.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +74,7 @@ export const syntaxRule = {
     },
     {
       invariantKind: "absence",
-      statement: "One not ready to judge is not written.",
+      statement: "A rule not ready to judge is not written.",
     },
   ],
 } as const satisfies PageType

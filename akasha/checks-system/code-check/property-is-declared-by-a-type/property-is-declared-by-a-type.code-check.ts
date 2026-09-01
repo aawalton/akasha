@@ -37,7 +37,7 @@ export const propertyIsDeclaredByAType = {
     {
       invariantKind: "departure",
       statement:
-        "What declares a page is one directory listed on the index as the change leaves it.",
+        "What declares a page is one directory listed on the index as the change leaves the index.",
     },
     {
       invariantKind: "departure",
@@ -45,12 +45,13 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type the change takes away leaves the properties it declared judged.",
+      statement:
+        "A page type the change takes away leaves the properties that page type declared judged.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Those are looked for in the body the change withdrew and not among the pages the change carries.",
+        "Those properties are looked for in the body the change withdrew and not among the pages the change carries.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +69,7 @@ export const propertyIsDeclaredByAType = {
     {
       invariantKind: "absence",
       statement:
-        "A page stating no `id` and a body that will not load are refused in words beside this in every phase.",
+        "A page stating no `id` and a body that will not load are refused in words beside this check in every phase.",
     },
     {
       invariantKind: "departure",

@@ -10,7 +10,7 @@ export const readoutNoneLeft = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each half is carried only where the page states it.",
+      statement: "Each half is carried only where the page states that half.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const readoutNoneLeft = {
     },
     {
       invariantKind: "departure",
-      statement: "A half is carried with the spaces around it trimmed off.",
+      statement: "A half is carried with the spaces around the half trimmed off.",
     },
     {
       invariantKind: "departure",

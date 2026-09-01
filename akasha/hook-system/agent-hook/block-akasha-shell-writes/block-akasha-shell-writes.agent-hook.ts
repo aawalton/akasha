@@ -16,23 +16,24 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "A copy or a move is judged on where it puts things.",
+      statement: "A copy or a move is judged on where the copy or the move puts things.",
     },
     {
       invariantKind: "departure",
-      statement: "A tool told to write the file it reads is judged on every path it names.",
+      statement:
+        "A tool told to write the file the tool reads is judged on every path the tool names.",
     },
     {
       invariantKind: "departure",
-      statement: "The flag saying so is what parts it from the same tool reading.",
+      statement: "The flag saying so is what parts that tool from the same tool reading.",
     },
     {
       invariantKind: "departure",
-      statement: "A descriptor redirected onto another is no path.",
+      statement: "A descriptor redirected onto another descriptor is no path.",
     },
     {
       invariantKind: "departure",
-      statement: "A descriptor redirected onto another is passed over.",
+      statement: "A descriptor redirected onto another descriptor is passed over.",
     },
     {
       invariantKind: "gap",

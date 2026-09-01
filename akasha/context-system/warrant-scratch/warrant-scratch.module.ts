@@ -33,7 +33,7 @@ export const warrantScratch = {
     },
     {
       invariantKind: "absence",
-      statement: "Scratching stands the bodies in it.",
+      statement: "Scratching stands the bodies in the scratch root.",
     },
     {
       invariantKind: "absence",
@@ -41,7 +41,7 @@ export const warrantScratch = {
     },
     {
       invariantKind: "absence",
-      statement: "What stands here is stood up by the warrant tests that reach for it.",
+      statement: "What stands here is stood up by the warrant tests that reach for this index.",
     },
   ],
 } as const satisfies Module

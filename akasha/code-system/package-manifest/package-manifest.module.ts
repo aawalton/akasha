@@ -43,11 +43,12 @@ export const packageManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A key that is neither a lone dot nor opens with one names no way in.",
+      statement: "A key that is not a lone dot and opens with no dot names no way in.",
     },
     {
       invariantKind: "departure",
-      statement: "A specifier two manifests both name lands where the first of them says.",
+      statement:
+        "A specifier two manifests both name lands where the first of those manifests says.",
     },
     {
       invariantKind: "absence",

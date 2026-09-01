@@ -54,7 +54,7 @@ export const pagesUiStore = {
     },
     {
       invariantKind: "stopgap",
-      statement: "It reaches the old page store rather than the one akasha holds.",
+      statement: "This package reaches the old page store rather than the one akasha holds.",
     },
     {
       invariantKind: "gap",

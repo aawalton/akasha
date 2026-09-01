@@ -10,7 +10,7 @@ export const digitPadding = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what the number it fills out counts.",
+      statement: "Nothing here knows what the number this package fills out counts.",
     },
     {
       invariantKind: "departure",

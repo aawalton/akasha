@@ -13,11 +13,11 @@ export const aliasIndex = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The alias `c3` opens the account carrying three.",
+      statement: "The alias `c3` opens the account carrying the alias index 3.",
     },
     {
       invariantKind: "departure",
-      statement: "An index freed by a departing account is not handed to another.",
+      statement: "An index freed by a departing account is not handed to another account.",
     },
   ],
 } as const satisfies NumberProperty

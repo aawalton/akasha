@@ -30,7 +30,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A test this does not run is refused rather than dropped.",
+      statement: "A test this module does not run is refused rather than dropped.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A key is refused wherever a question names it.",
+      statement: "A key is refused wherever a question names that key.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +58,8 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A key is what a property page states rather than the slug reaching it.",
+      statement:
+        "A key is what a property page states rather than the slug reaching that property page.",
     },
     {
       invariantKind: "departure",

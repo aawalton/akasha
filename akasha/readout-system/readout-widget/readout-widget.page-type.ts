@@ -54,7 +54,7 @@ export const readoutWidget = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A widget names the component it is drawn in rather than the file's path.",
+      statement: "A widget names the component the widget is drawn in rather than the file's path.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const checkoutRoots = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A checkout is found by the `pages/repo` folder standing in it.",
+      statement: "A checkout is found by the `pages/repo` folder standing in the checkout.",
     },
     {
       invariantKind: "stopgap",
@@ -21,7 +21,7 @@ export const checkoutRoots = {
     },
     {
       invariantKind: "absence",
-      statement: "Loading this reads no disk and works nothing out.",
+      statement: "Loading this module reads no disk and works nothing out.",
     },
     {
       invariantKind: "departure",

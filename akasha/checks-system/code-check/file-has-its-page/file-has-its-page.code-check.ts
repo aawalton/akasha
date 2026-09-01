@@ -26,7 +26,7 @@ export const fileHasItsPage = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is read as this change leaves it.",
+      statement: "The index is read as this change leaves the index.",
     },
     {
       invariantKind: "departure",

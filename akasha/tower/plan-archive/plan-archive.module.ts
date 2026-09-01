@@ -13,7 +13,7 @@ export const planArchive = {
     },
     {
       invariantKind: "departure",
-      statement: "A closed chapter missing either of its ends stops the whole plan.",
+      statement: "A closed chapter missing either end stops the whole plan.",
     },
     {
       invariantKind: "departure",

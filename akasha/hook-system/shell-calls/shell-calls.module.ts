@@ -42,23 +42,23 @@ export const shellCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A prefix that only runs the call behind it is stepped over.",
+      statement: "A prefix that only runs the call behind the prefix is stepped over.",
     },
     {
       invariantKind: "departure",
-      statement: "A prefix's own flags are stepped over with it.",
+      statement: "A prefix's own flags are stepped over with the prefix.",
     },
     {
       invariantKind: "departure",
-      statement: "A prefix flag taking a value takes the word after it.",
+      statement: "A prefix flag taking a value takes the word after that flag.",
     },
     {
       invariantKind: "departure",
-      statement: "A prefix takes the numbers it is named as taking and no other word.",
+      statement: "A prefix takes the numbers the prefix is named as taking and no other word.",
     },
     {
       invariantKind: "departure",
-      statement: "A prefix flag that asks rather than runs leaves no call at all.",
+      statement: "A prefix flag that asks rather than runs leaves no call.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +70,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "absence",
-      statement: "The text is cut here rather than read for what it means.",
+      statement: "The text is cut here rather than read for what the text means.",
     },
     {
       invariantKind: "absence",

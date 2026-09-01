@@ -19,7 +19,7 @@ export const graphSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "The graph answers what follows from it.",
+      statement: "The graph answers what follows from the pages.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const graphSystem = {
     {
       invariantKind: "departure",
       statement:
-        "What an answer rests on is worked out from the code that computes it rather than recorded as it runs.",
+        "What an answer rests on is worked out from the code that computes that answer rather than recorded as the code runs.",
     },
     {
       invariantKind: "gap",
@@ -44,7 +44,8 @@ export const graphSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "An answer is keyed by what it rests on and marked by the code that made it.",
+      statement:
+        "An answer is keyed by what the answer rests on and marked by the code that made the answer.",
     },
     {
       invariantKind: "departure",

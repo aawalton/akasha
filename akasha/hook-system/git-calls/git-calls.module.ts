@@ -10,7 +10,7 @@ export const gitCalls = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A global flag that takes a value takes the word after it.",
+      statement: "A global flag that takes a value takes the word after that flag.",
     },
     {
       invariantKind: "departure",

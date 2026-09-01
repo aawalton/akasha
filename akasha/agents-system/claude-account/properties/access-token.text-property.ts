@@ -13,7 +13,7 @@ export const accessToken = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This stands in the page's sops file rather than in the page.",
+      statement: "The access token stands in the page's sops file rather than in the page.",
     },
   ],
 } as const satisfies TextProperty

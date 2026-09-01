@@ -23,7 +23,7 @@ export const taking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The entries stand in the order they are shown.",
+      statement: "The entries stand in the order the entries are shown.",
     },
     {
       invariantKind: "departure",

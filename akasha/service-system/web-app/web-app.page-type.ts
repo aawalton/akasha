@@ -40,7 +40,7 @@ export const webApp = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A web app's page states everything a deploy of it needs.",
+      statement: "A web app's page states everything a deploy of the web app needs.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const webApp = {
     },
     {
       invariantKind: "absence",
-      statement: "A web app states nothing of the build standing for it now.",
+      statement: "A web app states nothing of the build standing for the web app now.",
     },
     {
       invariantKind: "gap",

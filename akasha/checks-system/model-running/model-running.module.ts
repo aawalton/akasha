@@ -14,7 +14,7 @@ export const modelRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A count of runs above none is the phase a check runs on.",
+      statement: "A count of runs above no runs is the phase a check runs on.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,8 @@ export const modelRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A root naming no model check is answered with none rather than refused.",
+      statement:
+        "A root naming no model check is answered with no model checks rather than refused.",
     },
     {
       invariantKind: "absence",
@@ -66,7 +67,7 @@ export const modelRunning = {
     },
     {
       invariantKind: "gap",
-      statement: "A run knows which phase it was reached from.",
+      statement: "A run knows which phase the run was reached from.",
     },
     {
       invariantKind: "gap",

@@ -12,7 +12,7 @@ export const daysToNext = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The last rung states none.",
+      statement: "The last rung states no days.",
     },
   ],
 } as const satisfies NumberProperty

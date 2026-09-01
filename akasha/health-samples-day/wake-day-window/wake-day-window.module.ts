@@ -21,11 +21,11 @@ export const wakeDayWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "A block ending outside the ESO day it was read for is passed over.",
+      statement: "A block ending outside the ESO day the block was read for is passed over.",
     },
     {
       invariantKind: "departure",
-      statement: "A store that cannot answer throws rather than reading as no sleep at all.",
+      statement: "A store that cannot answer throws rather than reading as no sleep.",
     },
   ],
 } as const satisfies Module

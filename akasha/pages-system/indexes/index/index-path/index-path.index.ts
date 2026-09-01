@@ -15,7 +15,7 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A path file has no scope or property above it.",
+      statement: "A path file has no scope or property above that path file.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A file a page property holds answers the page stating it.",
+      statement: "A file a page property holds answers the page stating that file.",
     },
     {
       invariantKind: "departure",
@@ -47,11 +47,12 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is filed here only when it carries an id and a slug and a page type.",
+      statement:
+        "A page is filed here only when the page carries an id and a slug and a page type.",
     },
     {
       invariantKind: "departure",
-      statement: "Every path a page states is found by walking this tree.",
+      statement: "Every path a page states is found by walking this path tree.",
     },
     {
       invariantKind: "departure",

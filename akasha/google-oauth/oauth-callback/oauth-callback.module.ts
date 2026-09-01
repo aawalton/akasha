@@ -17,7 +17,7 @@ export const oauthCallback = {
     },
     {
       invariantKind: "departure",
-      statement: "Quotation marks around a pasted URL are dropped before it is parsed.",
+      statement: "Quotation marks around a pasted URL are dropped before the URL is parsed.",
     },
   ],
 } as const satisfies Module

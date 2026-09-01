@@ -13,7 +13,7 @@ export const ring = {
     },
     {
       invariantKind: "departure",
-      statement: "A ring draws what it is handed and fetches nothing.",
+      statement: "A ring draws what the ring is handed and fetches nothing.",
     },
   ],
 } as const satisfies IosComponent

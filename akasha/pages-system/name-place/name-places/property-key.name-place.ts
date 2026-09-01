@@ -13,7 +13,7 @@ export const propertyKey = {
     },
     {
       invariantKind: "departure",
-      statement: "The property it names is called by its slug.",
+      statement: "The property the key names is called by its slug.",
     },
     {
       invariantKind: "departure",
