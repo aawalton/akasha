@@ -38,6 +38,15 @@ export function valueIn(body: string): Value | null {
   return loadedFrom(body).value
 }
 
+export function valuesOver(
+  textOf: (path: string) => string | null
+): (path: string) => Value | null {
+  return (path) => {
+    const text = textOf(path)
+    return text === null ? null : valueIn(text)
+  }
+}
+
 export function valueAt(path: string, repo: string): Value | null {
   const at = isAbsolute(path) ? path : join(repo, path)
   const stood = statSync(at, { throwIfNoEntry: false })
