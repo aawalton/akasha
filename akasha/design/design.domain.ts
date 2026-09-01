@@ -5,5 +5,9 @@ export const design = {
   pageTypeSlug: "domain",
   slug: "design",
   definition: "how a thing is drawn on a screen and worked by hand",
-  partSlugs: ["workspace-package/design-badges", "workspace-package/design-forms"],
+  partSlugs: [
+    "workspace-package/design-badges",
+    "workspace-package/design-forms",
+    "workspace-package/design-layout",
+  ],
 } as const satisfies Domain

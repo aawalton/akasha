@@ -1,0 +1,52 @@
+{
+  "name": "@akasha/design-layout",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./app-shell": "./app-shell/app-shell.module.code.tsx",
+    "./app-shell-bottom-nav": "./app-shell-bottom-nav/app-shell-bottom-nav.module.code.tsx",
+    "./app-shell-context": "./app-shell-context/app-shell-context.module.code.tsx",
+    "./app-shell-more-drawer": "./app-shell-more-drawer/app-shell-more-drawer.module.code.tsx",
+    "./app-shell-sidebar": "./app-shell-sidebar/app-shell-sidebar.module.code.tsx",
+    "./balanced-columns": "./balanced-columns/balanced-columns.module.code.tsx",
+    "./balanced-columns-layout": "./balanced-columns-layout/balanced-columns-layout.module.code.ts",
+    "./column-layout": "./column-layout/column-layout.module.code.ts",
+    "./layout-context": "./layout-context/layout-context.module.code.tsx",
+    "./layout-data": "./layout-data/layout-data.module.code.ts",
+    "./list-content-skeleton": "./list-content-skeleton/list-content-skeleton.module.code.tsx",
+    "./load-more-button": "./load-more-button/load-more-button.module.code.tsx",
+    "./loading-container": "./loading-container/loading-container.module.code.tsx",
+    "./nav-active": "./nav-active/nav-active.module.code.ts",
+    "./nav-types": "./nav-types/nav-types.module.code.ts",
+    "./page-layout": "./page-layout/page-layout.module.code.tsx",
+    "./page-layout-data": "./page-layout-data/page-layout-data.module.code.ts",
+    "./page-tab-header": "./page-tab-header/page-tab-header.module.code.tsx",
+    "./paginated-card-grid": "./paginated-card-grid/paginated-card-grid.module.code.tsx",
+    "./panel-card": "./panel-card/panel-card.module.code.tsx",
+    "./panel-card-data": "./panel-card-data/panel-card-data.module.code.ts",
+    "./panel-default-open-context": "./panel-default-open-context/panel-default-open-context.module.code.tsx",
+    "./panel-toggle-context": "./panel-toggle-context/panel-toggle-context.module.code.tsx",
+    "./panel-toggle-provider": "./panel-toggle-provider/panel-toggle-provider.module.code.tsx",
+    "./responsive-columns": "./responsive-columns/responsive-columns.module.code.tsx",
+    "./responsive-columns-skeleton": "./responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx",
+    "./router-context": "./router-context/router-context.module.code.tsx",
+    "./scroll-to-card": "./scroll-to-card/scroll-to-card.module.code.ts",
+    "./select-bottom-nav-items": "./select-bottom-nav-items/select-bottom-nav-items.module.code.ts",
+    "./select-drawer-groups": "./select-drawer-groups/select-drawer-groups.module.code.ts",
+    "./sidebar-nav-group": "./sidebar-nav-group/sidebar-nav-group.module.code.tsx",
+    "./skeleton-presets": "./skeleton-presets/skeleton-presets.module.code.ts",
+    "./skeleton-text": "./skeleton-text/skeleton-text.module.code.tsx",
+    "./use-column-count": "./use-column-count/use-column-count.module.code.tsx",
+    "./use-load-more": "./use-load-more/use-load-more.module.code.ts",
+    "./use-sidebar-state": "./use-sidebar-state/use-sidebar-state.module.code.ts",
+    "./use-stable-scroll": "./use-stable-scroll/use-stable-scroll.module.code.ts",
+    "./virtual-card-grid": "./virtual-card-grid/virtual-card-grid.module.code.tsx"
+  },
+  "dependencies": {
+    "@shared/design-primitives": "workspace:*",
+    "lucide-react": "^0.576.0"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
+  }
+}
