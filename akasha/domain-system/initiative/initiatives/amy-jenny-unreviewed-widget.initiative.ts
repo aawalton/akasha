@@ -9,11 +9,10 @@ export const amyJennyUnreviewedWidget = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "A workstation service starts again when a file it reaches changes.",
+      statement: "An akasha command installs a workstation service.",
       workingMemory:
-        "The wrapper restarts nothing: it kills its child and exits 79, which unit-writing already writes as RestartForceExitStatus. Port tools/service-wrapper.ts and tools/lib/service-wrapper/{command,following,local-closure}.ts. The files it follows come from a transitive import crawl over Bun.Transpiler.scanImports and Bun.resolveSync, held to the repo and out of node_modules. It watches parent directories, settles 1s, then diffs Bun.hash digests. No page states restarts-on, so --also can wait.",
+        "unit-writing gives the text, service-wrapping is what the unit names, and both are tested. Install writes each unit to ~/.local/state/workstation-services/<name> and symlinks it into ~/.config/systemd/user/, which is also how a unit is known to be ours. Then daemon-reload, then enable --now. Two departures from the old command: a page stating enabled false is installed and stopped rather than deleted, and a systemctl that refuses must fail the call rather than be printed and exit 0.",
     },
-    { statement: "An akasha command installs a workstation service." },
     { statement: "A page query is answered from an index rather than by reading every page file." },
     { statement: "A page query is answered while another is still being answered." },
     { statement: "A pod reaches the page store." },
