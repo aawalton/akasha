@@ -11,11 +11,11 @@ import {
   importUnreadableFiled,
   indexTakenFrom,
   listedFiledIn,
+  listedUnreadableFiled,
   rebuiltApart,
   rebuiltIn,
   stampStandingIn,
   standingTakenFrom,
-  standingUnreadableFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { id as idPage } from "../../../pages-system/page/properties/id.text-property.ts"
 import { slug as slugPage } from "../../../pages-system/page/properties/slug.text-property.ts"
@@ -192,7 +192,7 @@ test("`index refresh` is reached with no index at all", async () => {
 test("`index refresh` is reached through an index that will not parse", async () => {
   const root = repoAt()
   seeded(root)
-  standingUnreadableFiled(root, "command", "index")
+  listedUnreadableFiled(root, "command", "index")
   const answer = await calling(["index", "refresh"], {
     root,
     calledAs: "akasha",
@@ -210,7 +210,7 @@ test("a damaged index is put back to what a clean rebuild builds", () => {
   seeded(root)
   const wanted = wantedFor(root)
   standingTakenFrom(root, "domain", "a")
-  standingUnreadableFiled(root, "domain", "gone")
+  listedUnreadableFiled(root, "domain", "gone")
   importUnreadableFiled(root, `${AKASHA}/a.domain.ts`)
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(OK)

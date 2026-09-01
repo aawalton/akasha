@@ -118,11 +118,7 @@ export function listedFiledIn(root: string, pageTypeSlug: string, slug: string):
   return identityStanding(root, pageTypeSlug, SLUG, slug)
 }
 
-export function standingUnreadableFiled(
-  root: string,
-  pageTypeSlug: string,
-  slug: string
-): undefined {
+export function listedUnreadableFiled(root: string, pageTypeSlug: string, slug: string): undefined {
   unreadable(root, join(indexIdentity.name, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
 
