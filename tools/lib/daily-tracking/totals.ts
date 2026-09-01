@@ -1,5 +1,6 @@
 import { z } from "zod"
-import { decideTotalPointsWrite, patchPage, resolvePointsPrefixes, WRITER } from "./tracking-modules.ts"
+import { decideTotalPointsWrite, resolvePointsPrefixes, WRITER } from "./tracking-modules.ts"
+import { landTotalPoints } from "./persona-total-landing.ts"
 import { readNetBytesCumulative } from "./net-bytes-points.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 
@@ -44,10 +45,10 @@ export async function writeTotalPointsForPersonas(
 
     const personaWrite = decideTotalPointsWrite(persona.totalPoints, totalPoints, force)
     if (personaWrite !== null) {
-      const landed = await patchPage(
+      const landed = await landTotalPoints(
         PERSONA_PAGE_TYPE_SLUG,
         persona.slug,
-        { "total-points": personaWrite },
+        personaWrite,
         WRITER
       )
       if (!landed.ok) {
