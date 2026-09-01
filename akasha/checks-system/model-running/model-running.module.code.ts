@@ -170,24 +170,33 @@ function runningFor(root: string, slug: string, held: readonly Held[], runs: num
     const asking = askingFor(change, shadow, held)
     if (asking.length === 0) return []
     const model = held[0]?.model ?? ""
-    const prompts: string[] = []
-    for (const one of asking) for (let run = 0; run < runs; run += 1) prompts.push(one.prompt)
-    const answers = askedOf(root, model, prompts)
-    if (answers === null) {
-      process.stderr.write(`\`${slug}\` ${UNANSWERED} — ${counted(asking.length)}\n`)
-      return []
-    }
     const said: Judged[] = []
-    for (let at = 0; at < asking.length; at += 1) {
-      const one = asking[at]
-      if (one === undefined) continue
-      const mine = answers.slice(at * runs, at * runs + runs)
-      const yes = mine.filter((answer) => opensYes(answer)).length
-      if (yes === 0) continue
-      said.push({
-        path: one.path,
-        reason: `\`${slug}\` put this to \`${one.test}\` and it said yes ${yes} of ${runs} times — ${one.statement}`,
-      })
+    let left = asking.map((_, at) => at)
+    for (let round = 1; round <= runs && left.length > 0; round += 1) {
+      const answers = askedOf(
+        root,
+        model,
+        left.map((at) => asking[at]?.prompt ?? "")
+      )
+      if (answers === null) {
+        process.stderr.write(`\`${slug}\` ${UNANSWERED} — ${counted(left.length)}\n`)
+        return said
+      }
+      const again: number[] = []
+      for (let at = 0; at < left.length; at += 1) {
+        const mine = left[at]
+        const one = mine === undefined ? undefined : asking[mine]
+        if (mine === undefined || one === undefined) continue
+        if (!opensYes(answers[at] ?? "")) {
+          again.push(mine)
+          continue
+        }
+        said.push({
+          path: one.path,
+          reason: `\`${slug}\` put this to \`${one.test}\` and it said yes on run ${round} — ${one.statement}`,
+        })
+      }
+      left = again
     }
     return said
   }

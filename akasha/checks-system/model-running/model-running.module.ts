@@ -46,6 +46,10 @@ export const modelRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A statement answered yes is asked no further.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A root naming no model check is answered with none rather than refused.",
     },
     {

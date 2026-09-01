@@ -47,7 +47,7 @@ export const modelCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A model check spends a call for each run over each thing it judges.",
+      statement: "A model check spends a call for each run over each thing still answering no.",
     },
     {
       invariantKind: "departure",
