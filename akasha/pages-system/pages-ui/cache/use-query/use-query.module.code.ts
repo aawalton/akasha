@@ -8,6 +8,7 @@ import {
   type RegularResult,
 } from "@akasha/pages-ui-store/query/regular-pipeline"
 import type { UsePagesOptions } from "@akasha/pages-ui-store/sql/options"
+import { noOp } from "@akasha/utils-narrow/no-op"
 import { useMemo } from "react"
 
 export type UsePagesResult = {
@@ -19,8 +20,6 @@ export type UsePagesResult = {
   loadMore: () => void
   totalCount: number | null
 }
-
-const noopLoadMore = (): undefined => undefined
 
 export function useQuery(options: UsePagesOptions): UsePagesResult {
   const acquire = useAcquireSlug(options.pageTypeSlug)
@@ -40,7 +39,7 @@ export function useQuery(options: UsePagesOptions): UsePagesResult {
         isDegraded: false,
         error,
         hasMore: false,
-        loadMore: noopLoadMore,
+        loadMore: noOp,
         totalCount: null,
       }
     }
@@ -52,7 +51,7 @@ export function useQuery(options: UsePagesOptions): UsePagesResult {
         isDegraded: false,
         error: result?.error ?? null,
         hasMore: false,
-        loadMore: noopLoadMore,
+        loadMore: noOp,
         totalCount: null,
       }
     }
@@ -63,7 +62,7 @@ export function useQuery(options: UsePagesOptions): UsePagesResult {
       isDegraded: acquire.degraded && rows.length === 0,
       error: result.error,
       hasMore: false,
-      loadMore: noopLoadMore,
+      loadMore: noOp,
       totalCount: result.totalCount,
     }
   }, [acquire.ready, acquire.degraded, acquire.error, readError, result])

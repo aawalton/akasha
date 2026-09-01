@@ -7,6 +7,8 @@ import {
   type ViewSort,
 } from "@akasha/pages-core/schema/view-data"
 import { pageQueryTimeIn } from "@akasha/pages-core/view/page-query-times"
+import { asBoolean } from "@akasha/utils-narrow/as-boolean"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import * as z from "zod"
 
 export type PageTypeIdBySlug = (pageTypeSlug: string) => string | undefined
@@ -40,13 +42,6 @@ function intOf(value: unknown): number | undefined {
   if (typeof value !== "string" || value === "") return undefined
   const n = Number(value)
   return Number.isInteger(n) && n > 0 ? n : undefined
-}
-
-function boolOf(value: unknown): boolean | undefined {
-  if (typeof value === "boolean") return value
-  if (value === "true") return true
-  if (value === "false") return false
-  return undefined
 }
 
 function stringListOf(value: unknown): readonly string[] | undefined {
@@ -92,10 +87,6 @@ function boundAbove(raw: unknown): Bound {
     : { operator: "gte", value: TODAY }
 }
 
-function isMapping(value: unknown): value is Readonly<Record<string, unknown>> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-}
-
 function isFilterValue(value: unknown): value is ViewFilter["value"] {
   if (value === null || value === undefined) return true
   if (typeof value === "string" || typeof value === "number" || typeof value === "boolean") {
@@ -111,7 +102,7 @@ function asFilterValue(value: unknown): ViewFilter["value"] {
 }
 
 function filtersForKey(propertyKey: string, tests: unknown): readonly ViewFilter[] {
-  if (!isMapping(tests)) return []
+  if (!isRecord(tests)) return []
   const propertyId = camelizeKey(propertyKey)
   const out: ViewFilter[] = []
   for (const [test, raw] of Object.entries(tests)) {
@@ -125,7 +116,7 @@ function filtersForKey(propertyKey: string, tests: unknown): readonly ViewFilter
     else if (test === "contains")
       out.push({ propertyId, operator: "contains", value: asFilterValue(raw) })
     else if (test === "empty") {
-      const wanted = boolOf(raw)
+      const wanted = asBoolean(raw)
       if (wanted !== undefined) {
         out.push({ propertyId, operator: wanted ? "is_empty" : "is_not_empty" })
       }
@@ -154,7 +145,7 @@ function filtersOf(raw: unknown): readonly ViewFilter[] | undefined {
       return undefined
     }
   }
-  if (!isMapping(mapping)) return undefined
+  if (!isRecord(mapping)) return undefined
   const out: ViewFilter[] = []
   for (const [propertyKey, tests] of Object.entries(mapping)) {
     out.push(...filtersForKey(propertyKey, tests))
@@ -230,7 +221,7 @@ export function viewDataFromFile(
   if (predicateKey !== undefined) data.crossTypeSource = { predicateKey }
   const verbId = textOf(properties.reorderCommand)
   if (verbId !== undefined) data.reorder = { verbId }
-  if (boolOf(properties.lockedPageType) === true) data.locked = { pageType: true }
+  if (asBoolean(properties.lockedPageType) === true) data.locked = { pageType: true }
   return data
 }
 

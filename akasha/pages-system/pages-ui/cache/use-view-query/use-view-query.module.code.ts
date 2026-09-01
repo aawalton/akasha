@@ -11,6 +11,7 @@ import {
 import { useCoreDefinitionsReady } from "@akasha/pages-ui/cache/use-core-definitions-ready"
 import { createViewPipeline, type ViewResult } from "@akasha/pages-ui-store/query/view-pipeline"
 import type { UseViewQueryOptions } from "@akasha/pages-ui-store/sql/options"
+import { noOp } from "@akasha/utils-narrow/no-op"
 import { useMemo } from "react"
 
 export type UseViewQueryResult = {
@@ -23,9 +24,6 @@ export type UseViewQueryResult = {
   hydratedCount: number
   ensureHydratedUpTo: (target: number) => void
 }
-
-const noopLoadMore = (): undefined => undefined
-const noopEnsure = (_target: number): undefined => undefined
 
 export function useViewQuery(options: UseViewQueryOptions): UseViewQueryResult {
   const slugAcquire = useAcquireSlug(options.crossType === true ? undefined : options.pageTypeSlug)
@@ -51,10 +49,10 @@ export function useViewQuery(options: UseViewQueryOptions): UseViewQueryResult {
         isLoading: false,
         error,
         hasMore: false,
-        loadMore: noopLoadMore,
+        loadMore: noOp,
         totalCount: null,
         hydratedCount: 0,
-        ensureHydratedUpTo: noopEnsure,
+        ensureHydratedUpTo: noOp,
       }
     }
     const isLoading =
@@ -65,10 +63,10 @@ export function useViewQuery(options: UseViewQueryOptions): UseViewQueryResult {
         isLoading: true,
         error: result?.error ?? null,
         hasMore: false,
-        loadMore: noopLoadMore,
+        loadMore: noOp,
         totalCount: null,
         hydratedCount: 0,
-        ensureHydratedUpTo: noopEnsure,
+        ensureHydratedUpTo: noOp,
       }
     }
     const rows: Page[] = result.rows.map((row) => flattenRow(row))
@@ -77,10 +75,10 @@ export function useViewQuery(options: UseViewQueryOptions): UseViewQueryResult {
       isLoading: false,
       error: result.error,
       hasMore: false,
-      loadMore: noopLoadMore,
+      loadMore: noOp,
       totalCount: result.totalCount,
       hydratedCount: rows.length,
-      ensureHydratedUpTo: noopEnsure,
+      ensureHydratedUpTo: noOp,
     }
   }, [acquire.ready, acquire.error, gatingTargets.ready, gatingTargets.error, readError, result])
 }

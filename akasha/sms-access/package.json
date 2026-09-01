@@ -11,6 +11,7 @@
     "@akasha/pages-query": "workspace:*",
     "@akasha/sms-core": "workspace:*",
     "@akasha/supabase-database": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@supabase/supabase-js": "^2.104.0"
   }
 }

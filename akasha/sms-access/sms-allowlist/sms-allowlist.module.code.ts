@@ -5,14 +5,8 @@ import {
   relationshipSmsRowSchema,
   type SmsExternalIdentity,
 } from "@akasha/sms-core/sms-identity"
+import { asBoolean } from "@akasha/utils-narrow/as-boolean"
 import type { SmsAllowlistClient } from "../client/client.module.code.ts"
-
-function asBoolean(value: unknown): boolean | undefined {
-  if (typeof value === "boolean") return value
-  if (value === "true") return true
-  if (value === "false") return false
-  return undefined
-}
 
 export async function loadSmsExternalIdentities(
   _sb: SmsAllowlistClient
