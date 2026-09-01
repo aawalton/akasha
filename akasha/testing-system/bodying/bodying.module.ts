@@ -9,7 +9,7 @@ export const bodying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A test names the root once and is handed a way to make bodies under it.",
+      statement: "A test names the root once and is handed a way to make bodies under the root.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const bodying = {
     },
     {
       invariantKind: "departure",
-      statement: "What a test binds is what it was handed rather than a function of its own.",
+      statement: "What a test binds is what the test was handed rather than a function of its own.",
     },
   ],
 } as const satisfies Module

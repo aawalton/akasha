@@ -22,12 +22,12 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A process ending on a signal rather than a code of its own is answered as minus one.",
+      statement: "A process ending on a signal rather than a code of its own is answered as `-1`.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller wanting a throw asks for what the process said rather than how it ran.",
+      statement:
+        "A caller wanting a throw asks for what the process said rather than how the process ran.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const running = {
     {
       invariantKind: "departure",
       statement:
-        "What a process says on its output stream is answered as bytes where those are asked for.",
+        "What a process says on its output stream is answered as bytes where bytes are asked for.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const running = {
     },
     {
       invariantKind: "absence",
-      statement: "No shell comes between a caller and the process it starts.",
+      statement: "No shell comes between a caller and the process the caller starts.",
     },
     {
       invariantKind: "absence",

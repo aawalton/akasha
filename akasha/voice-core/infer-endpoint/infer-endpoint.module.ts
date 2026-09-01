@@ -13,7 +13,7 @@ export const inferEndpoint = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller naming its own address uses that instead.",
+      statement: "A caller naming its own address uses that address instead.",
     },
   ],
 } as const satisfies Module

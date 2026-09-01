@@ -19,7 +19,7 @@ export const declaring = {
     {
       invariantKind: "departure",
       statement:
-        "Every entry an index holds is one a rebuild or a settle worked out from a page that stands.",
+        "Every entry an index holds is an entry a rebuild or a settle worked out from a page that stands.",
     },
     {
       invariantKind: "departure",

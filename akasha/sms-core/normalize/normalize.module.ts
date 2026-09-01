@@ -10,11 +10,11 @@ export const normalize = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A refusal notice carries no part of the message it refused.",
+      statement: "A refusal notice carries no part of the message the notice refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A message with nothing but space in it is shown as having no body.",
+      statement: "A message with nothing but space in the message is shown as having no body.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const normalize = {
     },
     {
       invariantKind: "departure",
-      statement: "A sender is lower-cased before it is matched.",
+      statement: "A sender is lower-cased before the sender is matched.",
     },
   ],
 } as const satisfies Module
