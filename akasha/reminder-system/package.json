@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/reminder-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./reminder": "./reminders/reminder.page-type.ts"
+  }
+}
