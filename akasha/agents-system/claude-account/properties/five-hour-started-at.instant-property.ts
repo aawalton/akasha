@@ -1,4 +1,4 @@
-import type { InstantProperty } from "../../../pages-system/instant-property/instant-property.page-type.ts"
+import type { InstantProperty } from "@akasha/pages-system/instant-property"
 
 export type FiveHourStartedAt = string
 
