@@ -155,6 +155,24 @@
     },
     {
       "path": "./infra/wan"
+    },
+    {
+      "path": "./lua-compiler"
+    },
+    {
+      "path": "./collections/exercises"
+    },
+    {
+      "path": "./collections/music"
+    },
+    {
+      "path": "./collections/music-spotify"
+    },
+    {
+      "path": "./media/cli"
+    },
+    {
+      "path": "./stories/text"
     }
   ],
   "files": []
