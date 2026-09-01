@@ -147,6 +147,11 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement:
+        "A name already carried in the file refuses a rename only where one of the two scopes encloses the other.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "Which declaration of a name carried more than once is renamed is named by a line.",
     },
     {

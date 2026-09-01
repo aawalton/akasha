@@ -318,3 +318,100 @@ test("a name a file the rename would respell already carries is refused rather t
     refused: `${TAKER} names \`marking\` and already carries \`held\``,
   })
 })
+
+const APART = "akasha/apart/apart.module.code.ts"
+
+const OVER = "akasha/over/over.module.code.ts"
+
+const NESTED = "akasha/nested/nested.module.code.ts"
+
+const UNDER = "akasha/under/under.module.code.ts"
+
+const SCOPED = new Map<string, string>([
+  [HELD, BODIES.get(HELD) ?? ""],
+  [
+    APART,
+    "export function first(): string {\n" +
+      '  const held = "one"\n' +
+      "  return held\n" +
+      "}\n" +
+      "\n" +
+      "export function second(): string {\n" +
+      '  const kept = "two"\n' +
+      "  return kept\n" +
+      "}\n",
+  ],
+  [
+    OVER,
+    'import { marking } from "../held/held.module.code.ts"\n' +
+      "\nexport const top = 1\n" +
+      "\nexport const two = marking\n" +
+      "\nexport function first(): string {\n" +
+      '  const kept = "one"\n' +
+      "  return kept\n" +
+      "}\n",
+  ],
+  [
+    NESTED,
+    "export function outer(): string {\n" +
+      '  const held = "one"\n' +
+      "  function inner(): string {\n" +
+      '    const kept = "two"\n' +
+      "    return kept + held\n" +
+      "  }\n" +
+      "  return inner()\n" +
+      "}\n",
+  ],
+  [
+    UNDER,
+    "export function outer(): string {\n" +
+      '  const held = "one"\n' +
+      "  return held\n" +
+      "}\n" +
+      "\nexport const kept = outer()\n",
+  ],
+])
+
+const SCOPED_PATHS = [...SCOPED.keys()]
+
+function scoped(at: string, from: string, to: string): ReturnType<typeof bindingFor> {
+  const asked = tokeningFor(at, from, to)
+  if ("refused" in asked) throw new Error(asked.refused)
+  return bindingFor(
+    ROOT,
+    { typed: SCOPED_PATHS, every: SCOPED_PATHS },
+    asked.tokening,
+    (path) => SCOPED.get(path) ?? null
+  )
+}
+
+test("two locals in scopes neither reaches are each renamed to the name the other carries", () => {
+  const made = scoped(APART, "kept", "held")
+  if ("refused" in made) throw new Error(made.refused)
+  expect(made.binding.changes.get(APART) ?? "").toContain('  const held = "two"')
+  const back = scoped(APART, "held", "kept")
+  if ("refused" in back) throw new Error(back.refused)
+  expect(back.binding.changes.get(APART) ?? "").toContain('  const kept = "one"')
+})
+
+test("a local is refused where the name it would become is declared over the whole file", () => {
+  expect(scoped(OVER, "kept", "top")).toEqual({ refused: `${OVER} already carries \`top\`` })
+})
+
+test("a local is refused where the name it would become is imported by that file", () => {
+  expect(scoped(OVER, "kept", "marking")).toEqual({
+    refused: `${OVER} already carries \`marking\``,
+  })
+})
+
+test("a local is refused where the name it would become is bound in a scope around it", () => {
+  expect(scoped(NESTED, "kept", "held")).toEqual({ refused: `${NESTED} already carries \`held\`` })
+})
+
+test("a name the whole file carries is refused where a local inside would shadow the rename", () => {
+  expect(scoped(UNDER, "kept", "held")).toEqual({ refused: `${UNDER} already carries \`held\`` })
+})
+
+test("a key rename is refused wherever the file carries the name it would become", () => {
+  expect(bound(KEPT, "marksOn", "kept")).toEqual({ refused: `${KEPT} already carries \`kept\`` })
+})
