@@ -57,7 +57,7 @@ export function serviceIn(value: Value): WorkstationService | null {
   }
 }
 
-function standingOf(root: string, path: string): Service | string {
+function serviceAt(root: string, path: string): Service | string {
   const value = valueAt(path, root)
   if (value === null) return `${path} did not load, so the service it states is not read`
   const service = serviceIn(value)
@@ -71,7 +71,7 @@ export function standingFor(root: string, slug: string): Read {
   const found = listedAt(root, SERVICE_PAGE_TYPE, slug)
   const one = found[0]
   if (one === undefined) return { refused: `no ${SERVICE_PAGE_TYPE} is slugged \`${slug}\`` }
-  const read = standingOf(root, one.path)
+  const read = serviceAt(root, one.path)
   return typeof read === "string" ? { refused: read } : { standing: [read] }
 }
 
@@ -81,7 +81,7 @@ export function everyStanding(root: string): Read {
   )
   const standing: Service[] = []
   for (const one of found) {
-    const read = standingOf(root, one.path)
+    const read = serviceAt(root, one.path)
     if (typeof read === "string") return { refused: read }
     standing.push(read)
   }
