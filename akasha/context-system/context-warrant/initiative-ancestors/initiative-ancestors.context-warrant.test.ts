@@ -11,7 +11,7 @@ import {
   seatListed,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { initiativeAncestors, UNDER } from "./initiative-ancestors.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -122,7 +122,7 @@ test("an initiative above whose body is gone warrants nothing of itself", () => 
 
 test("an initiative above not read is refused, and the refusal says why it is owed", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
-  warrantsStanding(root, ["initiative-ancestors"])
+  warrantsSeeded(root, ["initiative-ancestors"])
   const top = initiativeListed(root, "one-work")
   initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)

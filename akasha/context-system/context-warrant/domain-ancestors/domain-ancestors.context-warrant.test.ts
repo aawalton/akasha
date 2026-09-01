@@ -13,7 +13,7 @@ import {
   typedListed,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { ABOVE, domainAncestors } from "./domain-ancestors.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -169,7 +169,7 @@ test("a domain above whose body is gone warrants nothing of itself", () => {
 
 test("a domain above not read is refused, and the refusal says why it is owed", () => {
   const root = scratch.rootFor("akasha-domain-ancestors-")
-  warrantsStanding(root, ["domain-ancestors"])
+  warrantsSeeded(root, ["domain-ancestors"])
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)

@@ -9,7 +9,7 @@ import { entriesFiled, importsTakenFrom, pathFiled, schemaFiled } from "@akasha/
 import { mintedId } from "@akasha/testing-system/minting"
 import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { fileImport, IMPORTED, importedIn } from "./file-import.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -267,7 +267,7 @@ test("an import warrants the body standing at the page, and says why it is owed"
 
 test("a page of an import not read is refused, and the refusal says the page is owed", () => {
   const root = scratch.rootFor(PREFIX)
-  warrantsStanding(root, ["file-import"])
+  warrantsSeeded(root, ["file-import"])
   world(root, ["a", "b"])
   codeAt(root, "b", "")
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')

@@ -10,7 +10,7 @@ import {
   seatListed,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { ROLE, roleItself } from "./role-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -75,7 +75,7 @@ test("a role whose body is gone warrants nothing of itself", () => {
 
 test("a role not read is refused, and the refusal says why it is owed", () => {
   const root = scratch.rootFor("akasha-role-itself-")
-  warrantsStanding(root, ["role-itself"])
+  warrantsSeeded(root, ["role-itself"])
   const held = roleListed(root, "definer")
   const at = seatListed(root, "one", `roleSlug: "definer"`)
   const oid = writing(root, at, `export const one = { roleSlug: "definer" }\n`)

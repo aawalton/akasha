@@ -8,7 +8,7 @@ import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { mintedId } from "@akasha/testing-system/minting"
 import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { fileProperty, PROPERTY } from "./file-property.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -196,7 +196,7 @@ test("a page defining a property does not warrant itself for it", () => {
 
 test("a property not read is refused, and the refusal says the property is owed", () => {
   const root = scratch.rootFor("akasha-file-property-")
-  warrantsStanding(root, ["file-property"])
+  warrantsSeeded(root, ["file-property"])
   const every = statingWorld(root)
   const oid = stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition"])
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })

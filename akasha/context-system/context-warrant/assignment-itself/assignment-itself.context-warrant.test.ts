@@ -12,7 +12,7 @@ import {
   typedListed,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { ASSIGNMENT, assignmentItself, WITHIN } from "./assignment-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -132,7 +132,7 @@ test("an initiative naming no domain warrants itself alone", () => {
 
 test("an assignment not read is refused, and the refusal says why it is owed", () => {
   const root = scratch.rootFor("akasha-assignment-itself-")
-  warrantsStanding(root, ["assignment-itself"])
+  warrantsSeeded(root, ["assignment-itself"])
   const held = domainListed(root, "akasha-system")
   const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
   const oid = writing(root, at, `export const one = { assignmentSlug: "domain/akasha-system" }\n`)

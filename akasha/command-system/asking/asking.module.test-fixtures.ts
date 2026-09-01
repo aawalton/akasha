@@ -1,7 +1,7 @@
 import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Phase } from "@akasha/checks-system/checking"
-import { warrantsStanding } from "@akasha/context-system/warranting/testing"
+import { warrantsSeeded } from "@akasha/context-system/warranting/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
@@ -54,7 +54,7 @@ export function repoAt(root: string, named: Readonly<Record<string, string>>): s
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
   checking(root, "admits", ADMITS_CODE)
-  warrantsStanding(root)
+  warrantsSeeded(root)
   return root
 }
 

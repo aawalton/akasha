@@ -11,7 +11,7 @@ import {
   seatListed,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { ROLE_TYPE, rolePageType } from "./role-page-type.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -80,7 +80,7 @@ test("a type whose page is not there warrants nothing of itself", () => {
 
 test("a type not read is refused, and the refusal says the seat owes it", () => {
   const root = scratch.rootFor("akasha-role-page-type-")
-  warrantsStanding(root, ["role-page-type"])
+  warrantsSeeded(root, ["role-page-type"])
   const chain = typeWorld(root)
   roleListed(root, "definer")
   const at = seatListed(root, "one", `roleSlug: "definer"`)

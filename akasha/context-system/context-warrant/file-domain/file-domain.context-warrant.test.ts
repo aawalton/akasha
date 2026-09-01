@@ -12,7 +12,7 @@ import {
   pathsOf,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { fileDomain, WHOLE } from "./file-domain.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -129,7 +129,7 @@ test("a page naming itself among its parts warrants nothing of itself", () => {
 
 test("a naming page not read is refused, and the refusal says why it is owed", () => {
   const root = scratch.rootFor("akasha-file-domain-")
-  warrantsStanding(root, ["file-domain"])
+  warrantsSeeded(root, ["file-domain"])
   const whole = domainListed(root, "whole")
   const part = domainListed(root, "part")
   namesPart(root, whole, part)

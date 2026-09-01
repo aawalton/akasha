@@ -1,6 +1,6 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { warrantsStanding } from "@akasha/context-system/warranting/testing"
+import { warrantsSeeded } from "@akasha/context-system/warranting/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedAt, namersOf } from "@akasha/indexes"
 import {
@@ -215,7 +215,7 @@ export function twoUnsaid(): string {
 }
 
 export function held(root: string, path: string, body: string): undefined {
-  warrantsStanding(root, ["file-itself"])
+  warrantsSeeded(root, ["file-itself"])
   recordRead(root, AGENT, {
     path,
     oid: blobIdOf(new TextEncoder().encode(body)),

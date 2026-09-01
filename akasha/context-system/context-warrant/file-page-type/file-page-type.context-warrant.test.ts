@@ -7,7 +7,7 @@ import { writing } from "@akasha/command-system/scratching/testing"
 import { schemaFiled } from "@akasha/indexes/testing"
 import { pageTypeListed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { filePageType, TYPE } from "./file-page-type.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -93,7 +93,7 @@ test("a type whose page is not there warrants nothing of itself", () => {
 
 test("a type not read is refused, and the refusal says the type is owed", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
-  warrantsStanding(root)
+  warrantsSeeded(root)
   typeWorld(root)
   const oid = writing(root, PATH, "one\n")
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
@@ -104,7 +104,7 @@ test("a type not read is refused, and the refusal says the type is owed", () => 
 
 test("one reading of a type answers for every path of that type", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
-  warrantsStanding(root)
+  warrantsSeeded(root)
   const chain = typeWorld(root)
   const other = "akasha/thing/other.module.ts"
   for (const at of [PATH, other]) {

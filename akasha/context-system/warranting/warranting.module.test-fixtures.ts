@@ -47,7 +47,7 @@ function codeFor(slug: string): string {
   return `export { ${named} } from ${JSON.stringify(realAt(slug))}\n`
 }
 
-export function warrantsStanding(root: string, slugs: readonly string[] = WARRANTS): undefined {
+export function warrantsSeeded(root: string, slugs: readonly string[] = WARRANTS): undefined {
   mkdirSync(join(root, SEEDED_AT), { recursive: true })
   let minted = 0
   for (const slug of slugs) {

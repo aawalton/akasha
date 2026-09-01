@@ -10,7 +10,7 @@ import {
   seatListed,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { warrantsSeeded } from "../../warranting/warranting.module.test-fixtures.ts"
 import { PERSONA, personaItself } from "./persona-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -83,7 +83,7 @@ test("a persona whose body is gone warrants nothing of itself", () => {
 
 test("a persona not read is refused, and the refusal says why it is owed", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
-  warrantsStanding(root, ["persona-itself"])
+  warrantsSeeded(root, ["persona-itself"])
   const held = personaListed(root, "akasha")
   const at = seatListed(root, "one", `personaSlug: "akasha"`)
   const oid = writing(root, at, `export const one = { personaSlug: "akasha" }\n`)
