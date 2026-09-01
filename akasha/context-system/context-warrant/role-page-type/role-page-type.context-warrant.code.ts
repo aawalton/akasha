@@ -13,7 +13,7 @@ const KEY = "roleSlug"
 export function rolePageType(root: string, path: string, knowing: Knowing): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return []
-  const standing = listedAt(root, ROLE, slug)[0]
-  if (standing === undefined) return []
-  return filePageType(root, standing.path, knowing).map((one) => ({ ...one, owed: ROLE_TYPE }))
+  const listed = listedAt(root, ROLE, slug)[0]
+  if (listed === undefined) return []
+  return filePageType(root, listed.path, knowing).map((one) => ({ ...one, owed: ROLE_TYPE }))
 }
