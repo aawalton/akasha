@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Hydration throws at module evaluation. Vite's builtin Proxy throws on ACCESS, not on import, so only a module-scope touch is fatal and the other node reaches are only weight. `checkout-roots` is fixed at `d45c18277d`; `during-call.module.code.ts:3` `new AsyncLocalStorage()` is next, its lane resumed. The gate `no-node-in-client` landed `72fe63a069` fatal, counting 60 modules over 100 reaches. Filed `17ace11f3f`. A lane splits the 60 into fatal and inert. No deploy while any fatal one is left.",
+        "The app boots. Built `ddc5a605d2` and read it in a browser: `appReady` is 1, zero skeletons, `Sign In` renders. No fatal node module is left. The client facade sever `a0ee83f004` took the gate from 60 to 2; `during-call` `a1006ec033` and `checkout-roots` `d45c18277d` answer when asked. Left are the two `node:crypto` reaches: a leaf split for the device-secret predicate, and a browser sha1 for `file-page-identity`, which `file-rows:166` calls on the row path, so it throws live. Then a TestFlight.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
