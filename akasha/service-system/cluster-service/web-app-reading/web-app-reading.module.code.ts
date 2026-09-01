@@ -1,8 +1,8 @@
-import { execFileSync } from "node:child_process"
 import { existsSync } from "node:fs"
 import { basename, join } from "node:path"
 import type { Value } from "@akasha/pages-system/page-value"
 import { numberAt, textAt, textsAt, valueAt } from "@akasha/pages-system/page-value"
+import { said } from "@akasha/utils-run/running"
 
 const WEB_APP_SUFFIX = ".web-app.ts"
 const CLUSTER_SERVICE_SUFFIX = ".cluster-service.ts"
@@ -27,7 +27,6 @@ const CLUSTER_SERVICE_NEEDS = [
   CONTAINER_PORT,
   MANIFEST_CODE,
 ]
-const QUIETLY: ["ignore", "pipe", "ignore"] = ["ignore", "pipe", "ignore"]
 
 export interface Workload {
   readonly kind: string
@@ -54,10 +53,7 @@ export type Read = { readonly deployable: Deployable } | { readonly refused: str
 
 export function pagesUnder(root: string, suffix: string): readonly string[] | null {
   try {
-    const held = execFileSync("git", ["-C", root, "ls-files", "-z", "--", `*${suffix}`], {
-      encoding: "utf8",
-      stdio: QUIETLY,
-    })
+    const held = said(["git", "-C", root, "ls-files", "-z", "--", `*${suffix}`])
     return held.split("\0").filter((one) => one !== "")
   } catch {
     return null
