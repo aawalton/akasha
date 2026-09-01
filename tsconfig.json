@@ -19,9 +19,6 @@
       "path": "./shared/notifications"
     },
     {
-      "path": "./shared/pages-url"
-    },
-    {
       "path": "./shared/supabase-auth"
     },
     {

@@ -116,7 +116,6 @@
     "shared/pages-query",
     "shared/pages-system",
     "shared/pages-ui",
-    "shared/pages-url",
     "shared/person-document",
     "shared/person-target",
     "shared/proc-compiler",
