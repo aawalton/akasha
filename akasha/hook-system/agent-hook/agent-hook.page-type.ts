@@ -43,7 +43,7 @@ export const agentHook = {
     {
       invariantKind: "departure",
       statement:
-        "A hook at a tool call answers whether that call may run or hands back the input that call is to run with.",
+        "A hook at a tool call answers whether the call may run or hands back the input the call runs with.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +77,7 @@ export const agentHook = {
     {
       invariantKind: "stopgap",
       statement:
-        "What works the registration out stands outside the akasha system until akasha answers for its own settings.",
+        "What works the registration out sits outside akasha until akasha answers for its own settings.",
     },
   ],
   directives: [
