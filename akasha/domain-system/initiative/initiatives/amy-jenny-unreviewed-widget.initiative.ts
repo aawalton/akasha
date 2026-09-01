@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The app hangs on `HydrateFallback` (app-capacitor/root.tsx:121) because hydration throws. alanwalton.com answers `TypeError: (0,w.fileURLToPath) is not a function` at `assets/here-*.js`. `checkout-roots.module.code.ts:54,63` runs `checkoutHere()` and `akashaHere()` at module scope, so importing it in a browser dies; it reaches the client from `routes/_app-layout.tsx:2` through `shared/pages-query/src/here.ts:4`. Sign-in is well: / 200, /home 302. Separately /idle 500s on the dead page index.",
+        "Hydration throws at module evaluation. Vite's builtin Proxy throws on ACCESS, not on import, so only a module-scope touch is fatal and the other node reaches are only weight. `checkout-roots` is fixed at `d45c18277d`; `during-call.module.code.ts:3` `new AsyncLocalStorage()` is next, its lane resumed. The gate `no-node-in-client` landed `72fe63a069` fatal, counting 60 modules over 100 reaches. Filed `17ace11f3f`. A lane splits the 60 into fatal and inert. No deploy while any fatal one is left.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
