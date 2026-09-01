@@ -8,7 +8,7 @@ import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import { type PageDataJSON, type PropertyDefinition } from "@akasha/pages-core/types"
 import { useState } from "react"
 
-import { usePagesUIRouter } from "../router-context"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"
 import type { PropertyBadgeProps } from "./property-badge"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"

@@ -3,7 +3,7 @@
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
 import { softDeletePage } from "@akasha/pages-access/delete"
 import { MoreHorizontal, Trash2 } from "lucide-react"
-import { usePagesUIRouter } from "../router-context"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useOptimisticSoftDeletePage } from "../supabase/mutations/use-optimistic-soft-delete-page"
 
 const NAV_SLUG = "nav"

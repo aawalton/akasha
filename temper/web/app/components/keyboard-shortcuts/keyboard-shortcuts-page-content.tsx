@@ -3,7 +3,7 @@
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Button } from "@akasha/design-primitives/button"
-import { PagesUILink as Link } from "@shared/pages-ui/router-context"
+import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { ChevronLeft } from "lucide-react"
 import { useEffect, useState } from "react"
 import { shortcutGroups } from "@/components/keyboard-shortcuts/keyboard-shortcuts-data"

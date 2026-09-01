@@ -2,7 +2,7 @@
 
 import { resolveDescendantPageTypeIds } from "@akasha/pages-core/schema/page-type-inheritance"
 import { createContext, useCallback, useContext, useMemo } from "react"
-import { PageResolverProvider, type PageResolverValue } from "../contexts/page-resolver"
+import { PageResolverProvider, type PageResolverValue } from "@akasha/pages-ui/contexts/page-resolver-context"
 import {
   type RelationPickerArgs,
   RelationPickerProvider,

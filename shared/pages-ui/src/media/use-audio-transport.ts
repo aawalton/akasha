@@ -5,9 +5,9 @@ import { mediaHlsSrcForVariant, mediaSrcForVariant } from "@akasha/pages-ui/medi
 import type { NativeTtsAdapter } from "@akasha/pages-ui/media/native-tts-adapter"
 import type { PlayingSessionState } from "@akasha/pages-ui/media/playing-session"
 import { selectTransport, type Transport } from "@akasha/pages-ui/media/transport-selection"
-import { useNativeTtsTransport } from "./use-native-tts-transport"
+import { useNativeTtsTransport } from "@akasha/pages-ui/media/use-native-tts-transport"
 import { type MediaSrcResolver, useShellMediaSrc } from "@akasha/pages-ui/media/use-shell-media-src"
-import { type EnsureRenditionFn, useWebKitReadAloudDivert } from "./use-webkit-read-aloud-ensure"
+import { type EnsureRenditionFn, useWebKitReadAloudDivert } from "@akasha/pages-ui/media/use-webkit-read-aloud-ensure"
 
 type NativeTransport = ReturnType<typeof useNativeTtsTransport>
 

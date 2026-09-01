@@ -3,7 +3,7 @@
 import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import type { GroupGranularity } from "@akasha/pages-core/schema/view-data"
 import { useCallback, useMemo, useRef } from "react"
-import { usePageResolverOptional } from "../contexts/page-resolver"
+import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { ViewConfig, ViewSort } from "@akasha/pages-core/schema/view-data"
 import { applyView } from "@akasha/pages-core/view/apply-view"

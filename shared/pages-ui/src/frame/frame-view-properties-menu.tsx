@@ -2,7 +2,7 @@
 
 import { buildViewPropertiesHref } from "@akasha/pages-url/page-display-mode"
 import { PageActionsMenu } from "../components/page-actions-menu"
-import { usePagesUIRouter } from "../router-context"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 
 export function FrameViewPropertiesMenu() {
   const { pathname } = usePagesUIRouter()

@@ -11,7 +11,7 @@ import {
   resolveRelationVariant,
 } from "@akasha/pages-ui/components/relation-display"
 import { RelationPopover } from "../components/relation-popover"
-import { type PageResolverValue, usePageResolverOptional } from "../contexts/page-resolver"
+import { type PageResolverValue, usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { relationConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyDefinition } from "@akasha/pages-core/types"

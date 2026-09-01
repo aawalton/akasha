@@ -2,7 +2,7 @@
 
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { useEffect, useState } from "react"
-import type { PageTypeIdBySlug } from "./view-data-of-page"
+import type { PageTypeIdBySlug } from "@akasha/pages-ui/supabase/view-data-of-page"
 
 export const PAGE_TYPE_DIRECTORY_PATH = "/api/pages/page-type"
 

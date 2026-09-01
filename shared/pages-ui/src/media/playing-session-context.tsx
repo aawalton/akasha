@@ -19,16 +19,16 @@ import {
   type PlayingSessionState,
   playingSessionReducer,
 } from "@akasha/pages-ui/media/playing-session"
-import { persistedToSessionInit, readPersistedSession } from "./playing-session-storage"
+import { persistedToSessionInit, readPersistedSession } from "@akasha/pages-ui/media/playing-session-storage"
 import { useAudioAutoAdvance } from "./use-audio-auto-advance"
-import { useAudioSeekAndPlay } from "./use-audio-seek-and-play"
+import { useAudioSeekAndPlay } from "@akasha/pages-ui/media/use-audio-seek-and-play"
 import { useAudioTimeSubscription } from "@akasha/pages-ui/media/use-audio-time-subscription"
 import { useAudioTransport } from "./use-audio-transport"
 import { useCrossModePositionWrite } from "./use-cross-mode-position-write"
 import { usePersistAudioSession } from "./use-persist-audio-session"
 import { usePersistentAudioContainer } from "@akasha/pages-ui/media/use-persistent-audio-container"
 import type { MediaSrcResolver } from "@akasha/pages-ui/media/use-shell-media-src"
-import type { EnsureRenditionFn } from "./use-webkit-read-aloud-ensure"
+import type { EnsureRenditionFn } from "@akasha/pages-ui/media/use-webkit-read-aloud-ensure"
 
 type PlayingSessionContextValue = {
   readonly state: PlayingSessionState

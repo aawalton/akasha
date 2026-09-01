@@ -4,7 +4,7 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 import { ArrowLeft } from "lucide-react"
 import type { ReactNode } from "react"
-import { PagesUILink, usePagesUIRouter } from "../router-context"
+import { PagesUILink, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 
 export interface FrameHeader {
   readonly title?: string

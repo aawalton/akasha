@@ -3,7 +3,7 @@
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { ReactNode } from "react"
 import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
-import { buildTimelineLayout, rowsToTimelineInputs } from "./page-timeline-helpers"
+import { buildTimelineLayout, rowsToTimelineInputs } from "@akasha/pages-ui/components/page-timeline-helpers"
 
 interface PageTimelineProps {
   rows: readonly PageRow[]

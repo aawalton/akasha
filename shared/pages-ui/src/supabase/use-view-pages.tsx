@@ -4,7 +4,7 @@ import type { GetPagesForViewArgs, GetPagesForViewResult } from "@akasha/pages-a
 import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { ShapeDescriptor } from "@akasha/pages-ui-store/collection/shape-descriptor"
-import { useViewQuery } from "../cache/use-view-query"
+import { useViewQuery } from "@akasha/pages-ui/cache/use-view-query"
 
 export type UseViewPagesSupabaseOptions = Omit<GetPagesForViewArgs, "cursor"> & {
   pageTypeSlug?: string

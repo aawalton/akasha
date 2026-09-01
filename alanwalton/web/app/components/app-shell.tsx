@@ -14,7 +14,7 @@ import {
 } from "@shared/pages-ui/option-create-context"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { useActiveQuickAddPageType } from "@shared/pages-ui/components/quick-add/use-active-quick-add-page-type"
-import { PagesUILinkProvider, PagesUIRouterProvider } from "@shared/pages-ui/router-context"
+import { PagesUILinkProvider, PagesUIRouterProvider } from "@akasha/pages-ui/navigation-context"
 import { useAllPages } from "@shared/pages-ui/supabase/hooks"
 import { useOptimisticCreatePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { LogIn, LogOut } from "lucide-react"

@@ -4,7 +4,7 @@ import { useLocation, useSearchParams } from "react-router"
 import { z } from "zod"
 import { KOKORO_STREAM_VARIANT } from "@akasha/pages-ui/media/media-src"
 import { usePlayingSession } from "./playing-session-context"
-import { readPersistedSession } from "./playing-session-storage"
+import { readPersistedSession } from "@akasha/pages-ui/media/playing-session-storage"
 
 export type MediaVariant = { id: string; label: string }
 

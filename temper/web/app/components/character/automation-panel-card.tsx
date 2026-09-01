@@ -2,7 +2,7 @@
 
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { Text } from "@akasha/design-primitives/text-body"
-import { PagesUILink as Link } from "@shared/pages-ui/router-context"
+import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { useAutomationSettings } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { AutomationSelect } from "@/components/automation/automation-select"
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"

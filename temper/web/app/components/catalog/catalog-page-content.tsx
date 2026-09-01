@@ -5,7 +5,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
 import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
-import { PagesUILink as Link } from "@shared/pages-ui/router-context"
+import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { ChevronLeft, Swords } from "lucide-react"
 import { DungeonsTab } from "@/components/catalog/dungeons-tab"
 

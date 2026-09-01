@@ -18,7 +18,7 @@ import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitiv
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
-import { PagesUILink, usePagesUIRouter } from "../router-context"
+import { PagesUILink, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { type DropZoneInfo, findDropZone } from "@akasha/pages-ui/components/drop-zones"
 
 function SortableNavItem({

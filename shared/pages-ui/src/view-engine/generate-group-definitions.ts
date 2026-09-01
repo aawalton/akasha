@@ -1,5 +1,5 @@
 import type { GroupGranularity } from "@akasha/pages-core/schema/view-data"
-import type { PageResolverValue } from "../contexts/page-resolver"
+import type { PageResolverValue } from "@akasha/pages-ui/contexts/page-resolver-context"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
 

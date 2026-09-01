@@ -6,7 +6,7 @@ import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { cn } from "@akasha/design-primitives/cn"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 import { useEffect, useState } from "react"
-import { PagesUILink } from "../router-context"
+import { PagesUILink } from "@akasha/pages-ui/navigation-context"
 
 export interface ReaderNeighborLink {
   readonly href: string

@@ -3,7 +3,7 @@
 import { useAuth } from "@shared/auth/use-auth"
 import { Button } from "@akasha/design-primitives/button"
 import { Spinner } from "@akasha/design-primitives/spinner"
-import { usePagesUIRouter } from "@shared/pages-ui/router-context"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { extractCharacterMetadata } from "@temper/game-characters/build-metadata"
 import { createNewCharacter } from "@temper/game-characters-character/build-factory"
 import { useCharacterLifecycle } from "@temper/game-characters-character-ui/use-characters"

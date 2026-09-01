@@ -12,7 +12,7 @@ import type { UsePageViewResult } from "../view-engine/use-page-view"
 import { PagesFilterBar } from "./page-filter-bar"
 import { CreatePageButton } from "./page-system-view-helpers"
 import { ViewSettingsButton } from "./page-system-view-settings"
-import type { PageSystemTabContentProps } from "./page-system-view-types"
+import type { PageSystemTabContentProps } from "@akasha/pages-ui/components/page-system-tab-content-props"
 
 export interface PageSystemViewHeaderProps
   extends Pick<

@@ -3,7 +3,7 @@
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { type PageCondition, type PageWhere } from "@akasha/pages-core/page-types"
 import { useMemo } from "react"
-import { useQuery } from "../cache/use-query"
+import { useQuery } from "@akasha/pages-ui/cache/use-query"
 import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 
 interface RelationPickerArgs {

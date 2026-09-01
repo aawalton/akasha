@@ -1,7 +1,7 @@
 import { type Dispatch, useEffect, useRef } from "react"
 import type { Location, NavigateFunction, useFetcher } from "react-router"
 import type { PlayingSessionAction, PlayingSessionState } from "@akasha/pages-ui/media/playing-session"
-import { parseNextSessionFromLoaderData } from "./playing-session-chain"
+import { parseNextSessionFromLoaderData } from "@akasha/pages-ui/media/playing-session-chain"
 
 type ActiveSession = Extract<PlayingSessionState, { status: "active" }>
 

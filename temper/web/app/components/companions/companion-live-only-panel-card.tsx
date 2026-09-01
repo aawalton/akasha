@@ -4,7 +4,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { CardContent, CardTitle } from "@akasha/design-primitives/card"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { PagesUILink as Link } from "@shared/pages-ui/router-context"
+import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
 import {

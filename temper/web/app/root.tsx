@@ -13,7 +13,7 @@ import {
   type PagesUILinkProps,
   PagesUILinkProvider,
   PagesUIRouterProvider,
-} from "@shared/pages-ui/router-context"
+} from "@akasha/pages-ui/navigation-context"
 import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
 import { SupabaseProvider } from "@akasha/supabase-rr/supabase-provider"
 import { type AuthRouteConfig, authGuard } from "@akasha/supabase-rr/auth-guard"

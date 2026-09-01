@@ -5,7 +5,7 @@ import { parseQuickAddConfig, type QuickAddConfig } from "@akasha/pages-core/sch
 import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
 import { type PropertyDefinition } from "@akasha/pages-core/types"
 import { useMemo } from "react"
-import { usePagesUIRouter } from "../../router-context"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useAllPages } from "../../supabase/hooks"
 import { useOptionListLookup } from "../../supabase/use-option-list-lookup"
 

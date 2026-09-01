@@ -2,7 +2,7 @@ import { Badge, BadgeRow } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardContent, CardHeader, CardTitle, CardTitleBadges } from "@akasha/design-primitives/card"
 import { Text } from "@akasha/design-primitives/text-body"
-import { PagesUILink as Link } from "@shared/pages-ui/router-context"
+import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import {
   type CompanionBaseRoleId,
   getBaseRoleName,

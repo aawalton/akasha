@@ -8,7 +8,7 @@ import { QueryErrorBoundary } from "@shared/design-patterns/components/query-err
 import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
 import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { PagesUILink as Link } from "@shared/pages-ui/router-context"
+import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
 import { CompanionsDataContent } from "@/components/companions/companions-data-content"

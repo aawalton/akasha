@@ -11,7 +11,7 @@ import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 import { QueryErrorBoundary } from "@shared/design-patterns/components/query-error-boundary"
 import { StatRow } from "@akasha/design-patterns/stat-row"
-import { PagesUILink as Link, usePagesUIRouter } from "@shared/pages-ui/router-context"
+import { PagesUILink as Link, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import {
   applyCharacterMetadata,
   applyCompanionMetadata,

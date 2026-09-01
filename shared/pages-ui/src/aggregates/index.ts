@@ -1,4 +1,4 @@
-import type { TreeNode } from "../tree"
+import type { TreeNode } from "@akasha/pages-ui/tree/parent-child-tree"
 
 export interface AggregateNode {
   id: string

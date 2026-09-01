@@ -3,7 +3,7 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { formatCompact, formatFull, Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableTotalCell, TableValue } from "@akasha/design-primitives/table"
 import { cn } from "@akasha/design-primitives/cn"
-import { PagesUILink as Link } from "@shared/pages-ui/router-context"
+import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import {
   type ComboRankingsMap,
   displayRoleComboKey,

@@ -8,7 +8,7 @@ import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
 import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
-import { PagesUILink as Link } from "@shared/pages-ui/router-context"
+import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import {
   type ActivityCategoryId,
   activityCategories,

@@ -8,7 +8,7 @@ import { getContentPersistence } from "@akasha/pages-ui-store/singleton"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect, useMemo, useRef, useState } from "react"
-import { useQuery } from "../cache/use-query"
+import { useQuery } from "@akasha/pages-ui/cache/use-query"
 import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { composeContentTierPage } from "@akasha/pages-ui/supabase/compose-content-tier-page"
 

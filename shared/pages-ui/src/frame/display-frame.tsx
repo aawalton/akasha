@@ -10,7 +10,7 @@ import { frameFollowMode, frameSupportsFocusMode } from "@akasha/pages-ui/frame/
 import { FrameSafeAreaMasks } from "./frame-safe-area-masks"
 import { FrameStickyFooter } from "./frame-sticky-footer"
 import { type FrameHeader, FrameStickyHeader } from "./frame-sticky-header"
-import { useFollowAnchor } from "./use-follow-anchor"
+import { useFollowAnchor } from "@akasha/pages-ui/frame/use-follow-anchor"
 
 interface DisplayFrameProps {
   readonly config?: FrameConfig

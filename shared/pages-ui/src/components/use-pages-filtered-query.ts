@@ -18,8 +18,8 @@ import { buildBaseConditions } from "@akasha/pages-ui/components/base-conditions
 import { buildServerGroupedSections } from "./build-server-grouped-sections.ts"
 import { buildFlatQueryArgs } from "@akasha/pages-ui/components/flat-query-args"
 import { toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
-import type { ServerGroupedSection } from "./page-system-view-types.ts"
-import { buildBaseFilters, buildSyntheticConfig } from "./synthetic-config.ts"
+import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
+import { buildBaseFilters, buildSyntheticConfig } from "@akasha/pages-ui/components/synthetic-config"
 import { useEffectiveListing } from "./use-effective-listing.ts"
 import { buildPageTypeSlugMaps } from "@akasha/pages-ui/components/view-tab-content-href"
 

@@ -10,7 +10,7 @@ import { PageGallery } from "./page-gallery"
 import { buildTableColumns } from "@akasha/pages-ui/components/card-property-columns"
 import { PageTable } from "./page-table"
 import type { PageTableColumn } from "@akasha/pages-ui/components/page-table-shared"
-import { withColumnWidths } from "./page-table-widths"
+import { withColumnWidths } from "@akasha/pages-ui/components/page-table-widths"
 import { SortableCardCollection } from "./sortable-card-collection"
 import type { ReorderCardsHandler } from "@akasha/pages-ui/components/use-reorder-view-wiring"
 

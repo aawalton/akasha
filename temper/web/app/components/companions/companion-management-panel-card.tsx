@@ -5,7 +5,7 @@ import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, 
 import { Button } from "@akasha/design-primitives/button"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { usePagesUIRouter } from "@shared/pages-ui/router-context"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useCompanion } from "@temper/game-companions-ui/use-companions"
 import type { BuildId } from "@temper/shared-formula-framework/branded"
 import { useState } from "react"

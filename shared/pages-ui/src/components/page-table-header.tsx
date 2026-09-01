@@ -22,7 +22,7 @@ import {
   computeColumnDropZone,
 } from "@akasha/pages-ui/components/page-table-column-dnd-helpers"
 import { ACTIONS_COLUMN_PX, type PageTableColumn } from "@akasha/pages-ui/components/page-table-shared"
-import { tableMinWidthPx } from "./page-table-widths"
+import { tableMinWidthPx } from "@akasha/pages-ui/components/page-table-widths"
 
 interface SortableColumnHeaderProps {
   column: PageTableColumn

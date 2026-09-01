@@ -3,7 +3,7 @@
 import { useAuth } from "@shared/auth/use-auth"
 import { Button } from "@akasha/design-primitives/button"
 import { Spinner } from "@akasha/design-primitives/spinner"
-import { usePagesUIRouter } from "@shared/pages-ui/router-context"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { extractCompanionMetadata } from "@temper/game-characters/build-metadata"
 import { encodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { createNewCompanion } from "@temper/game-companions-core/companion-factory"

@@ -5,7 +5,7 @@ import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitiv
 import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import { Plus, X } from "lucide-react"
 import { useMemo, useState } from "react"
-import type { PageResolverValue } from "../contexts/page-resolver"
+import type { PageResolverValue } from "@akasha/pages-ui/contexts/page-resolver-context"
 import { useRelationPicker } from "../contexts/relation-picker"
 
 const SEARCH_DEBOUNCE_MS = 200

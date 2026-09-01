@@ -2,7 +2,7 @@
 
 import { buildViewPropertiesHref } from "@akasha/pages-url/page-display-mode"
 import type { ReactNode } from "react"
-import { usePagesUIRouter } from "../router-context"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { PageActionsMenu } from "./page-actions-menu"
 
 export function ViewPageFrame({

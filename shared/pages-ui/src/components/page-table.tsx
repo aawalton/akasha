@@ -17,7 +17,7 @@ import { orderTableColumns } from "@akasha/pages-ui/components/card-property-col
 import { PageTableColGroup } from "./page-table-colgroup.tsx"
 import { ReorderableColumnTable } from "./page-table-header.tsx"
 import { ACTIONS_COLUMN_PX, type PageTableColumn } from "@akasha/pages-ui/components/page-table-shared"
-import { tableMinWidthPx } from "./page-table-widths.ts"
+import { tableMinWidthPx } from "@akasha/pages-ui/components/page-table-widths"
 
 interface PageTableProps {
   items: readonly PageRow[]

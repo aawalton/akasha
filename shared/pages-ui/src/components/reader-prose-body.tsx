@@ -16,7 +16,7 @@ import {
   proseBlockSource,
 } from "@akasha/pages-ui/components/reader-prose"
 import { ProseBlockView } from "./reader-prose-block"
-import type { BlockSentenceLayout } from "./reader-sentence-layout"
+import type { BlockSentenceLayout } from "@akasha/pages-ui/components/reader-sentence-layout"
 
 export interface ReaderPositionAnchor {
   readonly fractionAt: (scrollTop: number) => number

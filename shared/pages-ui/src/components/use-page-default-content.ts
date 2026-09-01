@@ -11,7 +11,7 @@ import { buildPageHref } from "@akasha/pages-url/page-href"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback, useMemo } from "react"
 import { useHostCreateSelectOption } from "../option-create-context.tsx"
-import { usePagesUIRouter } from "../router-context.tsx"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useAllPages, useRelatedPages } from "../supabase/hooks.ts"
 import { useOptimisticPatchPropertyDefinition } from "../supabase/mutations/use-optimistic-patch-property-definition.ts"
 import { useOptionListLookup } from "../supabase/use-option-list-lookup.ts"
@@ -23,7 +23,7 @@ import {
   DETAIL_EXCLUDED_IDS,
   extractPageTypeId,
   PAGE_TYPE_SLUG,
-} from "./page-detail-content-helpers.ts"
+} from "@akasha/pages-ui/components/page-detail-content-helpers"
 
 export function usePageDefaultContent({
   pageTypeSlug,

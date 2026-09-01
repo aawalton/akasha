@@ -4,8 +4,8 @@ import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { usePagesUIRouter } from "../router-context"
-import { type Referrer, useReferrers } from "../supabase/use-referrers"
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+import { type Referrer, useReferrers } from "@akasha/pages-ui/supabase/use-referrers"
 import { ToggleSection } from "./page-detail-sections"
 
 function referrerTitle(r: Referrer): string {
