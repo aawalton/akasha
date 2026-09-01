@@ -8,6 +8,7 @@
     "./service-reading": "./workstation-service/service-reading/service-reading.module.code.ts",
     "./web-app-reading": "./cluster-service/web-app-reading/web-app-reading.module.code.ts",
     "./web-app-reading/testing": "./cluster-service/web-app-reading/web-app-reading.module.test-fixtures.ts",
-    "./workload-deploying": "./cluster-service/workload-deploying/workload-deploying.module.code.ts"
+    "./workload-deploying": "./cluster-service/workload-deploying/workload-deploying.module.code.ts",
+    "./web-app-building": "./cluster-service/web-app-building/web-app-building.module.code.ts"
   }
 }
