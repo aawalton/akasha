@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { listedFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { listedFiled } from "@akasha/indexes/testing"
+import type { Change } from "@akasha/pages-system/change"
+import { shadowFor } from "@akasha/pages-system/shadow"
+import { bytesOf } from "@akasha/testing-system/bodying"
 import {
   claiming,
   declaring,
