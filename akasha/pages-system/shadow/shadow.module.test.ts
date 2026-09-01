@@ -116,10 +116,10 @@ function landedInto(root: string, changes: readonly FileEdit[]): string {
   const twin = scratch.rootFor("akasha-landed-")
   rmSync(twin, { recursive: true, force: true })
   cpSync(root, twin, { recursive: true })
-  const standing = onDisk(twin)
+  const bytesAt = onDisk(twin)
   const before = new Map<string, string | null>()
   for (const one of changes) {
-    const bytes = standing(one.path)
+    const bytes = bytesAt(one.path)
     before.set(one.path, bytes === null ? null : new TextDecoder().decode(bytes))
   }
   const indexing = keepingIn(twin)
