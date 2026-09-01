@@ -1,7 +1,7 @@
 import { getEsoDayStr } from "@shared/day"
 import { getSurplusStoplightTiers } from "@shared/status-bar-access/stoplights"
+import { refuseUncredentialedRingCaller } from "~/lib/ring-credential.server"
 import type { Route } from "./+types/api.surplus"
-import { refuseUncredentialedRingCaller } from "./api.categorization"
 
 const JENNYS_CAPTION = "Alan's Surplus"
 
