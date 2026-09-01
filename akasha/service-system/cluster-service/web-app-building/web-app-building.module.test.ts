@@ -16,7 +16,6 @@ import {
   hiding,
   installableAt,
   livestOf,
-  quoted,
   saidBy,
   syncScript,
   unfoundIn,
@@ -181,14 +180,6 @@ test("the values a build needs stand before the build it runs", () => {
   expect(buildScript(target as NonNullable<typeof target>, SHA, HANDED)).toStartWith(
     "env ONE='first' sh -c "
   )
-})
-
-test("a value carrying a quote is handed over whole", () => {
-  expect(quoted("it's")).toBe("'it'\\''s'")
-})
-
-test("a value carrying a dollar is handed over unexpanded", () => {
-  expect(quoted("$HOME")).toBe("'$HOME'")
 })
 
 test("a build needing nothing set is handed nothing", () => {

@@ -1,5 +1,6 @@
 import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { quoted } from "@akasha/shell/quoting"
 import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import { ran as running } from "@akasha/utils-run/running"
 import {
@@ -291,10 +292,6 @@ export function hiding(said: string, hidden: readonly string[]): string {
     held = held.split(one).join(HIDDEN)
   }
   return held
-}
-
-export function quoted(said: string): string {
-  return `'${said.split("'").join(`'\\''`)}'`
 }
 
 export function envPrefix(env: BuildEnv): string {

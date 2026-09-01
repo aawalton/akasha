@@ -1,4 +1,5 @@
 import { InputError } from "@akasha/errors-core/exit-code"
+import { quoted } from "@akasha/shell/quoting"
 import { z } from "zod"
 import {
   componentSwiftFor,
@@ -41,10 +42,6 @@ export function readKeychainPassword(): string {
   return parsed.data
 }
 
-export function shellSingleQuote(value: string): string {
-  return `'${value.replaceAll("'", "'\\''")}'`
-}
-
 const APP_VALUE_ENV: readonly (readonly [string, (app: MobileApp) => string | null])[] = [
   ["NATIVE_SHELL_BUNDLE_ID", (app) => app.bundleId],
   ["NATIVE_SHELL_DISPLAY_NAME", (app) => app.displayName],
@@ -61,7 +58,7 @@ const APP_VALUE_ENV: readonly (readonly [string, (app: MobileApp) => string | nu
 export function appValueExports(app: MobileApp): readonly string[] {
   return APP_VALUE_ENV.flatMap(([name, read]) => {
     const value = read(app)
-    return value === null ? [] : [`export ${name}=${shellSingleQuote(value)}`]
+    return value === null ? [] : [`export ${name}=${quoted(value)}`]
   })
 }
 
@@ -91,10 +88,10 @@ export function readNativeShellKokoroTtsEnv(): string | undefined {
 }
 
 export function buildKeychainUnlock(password: string): string {
-  const quoted = shellSingleQuote(password)
+  const held = quoted(password)
   const keychain = "$HOME/Library/Keychains/login.keychain-db"
   return [
-    `KEYCHAIN_PW=${quoted}`,
+    `KEYCHAIN_PW=${held}`,
     `security unlock-keychain -p "$KEYCHAIN_PW" ${keychain}`,
     `security set-key-partition-list -S apple-tool:,apple:,codesign: -s -k "$KEYCHAIN_PW" ${keychain} >/dev/null 2>&1`,
     "unset KEYCHAIN_PW",
@@ -108,7 +105,7 @@ export const CHECKOUT_VAR = "NATIVE_SHELL_CHECKOUT"
 export const CHECKOUT_ROOT = `"$${CHECKOUT_VAR}"`
 
 export function buildOnCleanup(command: string): string {
-  return `_on_cleanup ${shellSingleQuote(command)}`
+  return `_on_cleanup ${quoted(command)}`
 }
 
 export function buildRunCheckout(commit: string): string {
@@ -136,26 +133,24 @@ export function buildNativeSync(opts: {
 }): string {
   const widget = opts?.nativeShellWidget
   const widgetExport =
-    widget !== undefined && widget !== ""
-      ? [`export NATIVE_SHELL_WIDGET=${shellSingleQuote(widget)}`]
-      : []
+    widget !== undefined && widget !== "" ? [`export NATIVE_SHELL_WIDGET=${quoted(widget)}`] : []
   const aps = opts?.nativeShellAps
   const apsExport =
-    aps !== undefined && aps !== "" ? [`export NATIVE_SHELL_APS=${shellSingleQuote(aps)}`] : []
+    aps !== undefined && aps !== "" ? [`export NATIVE_SHELL_APS=${quoted(aps)}`] : []
   const healthkit = opts?.nativeShellHealthkit
   const healthkitExport =
     healthkit !== undefined && healthkit !== ""
-      ? [`export NATIVE_SHELL_HEALTHKIT=${shellSingleQuote(healthkit)}`]
+      ? [`export NATIVE_SHELL_HEALTHKIT=${quoted(healthkit)}`]
       : []
   const ringCredential = opts?.nativeShellRingCredential
   const ringCredentialExport =
     ringCredential !== undefined && ringCredential !== ""
-      ? [`export NATIVE_SHELL_RING_CREDENTIAL=${shellSingleQuote(ringCredential)}`]
+      ? [`export NATIVE_SHELL_RING_CREDENTIAL=${quoted(ringCredential)}`]
       : []
   const kokoroTts = opts?.nativeShellKokoroTts
   const kokoroExport =
     kokoroTts !== undefined && kokoroTts !== ""
-      ? [`export NATIVE_SHELL_KOKORO_TTS=${shellSingleQuote(kokoroTts)}`]
+      ? [`export NATIVE_SHELL_KOKORO_TTS=${quoted(kokoroTts)}`]
       : []
   const injectWww =
     opts?.stagedWwwDir !== undefined && opts.stagedWwwDir !== ""

@@ -2,6 +2,7 @@ import { dirname } from "node:path"
 import { indexStanding, listedAt } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { slugOf, textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
+import { quoted } from "@akasha/shell/quoting"
 
 export const SHARED_PATHS: readonly string[] = [
   "akasha/code-system/ios-app/shell-scripts",
@@ -30,10 +31,6 @@ export type Plan = {
 }
 
 export type Planned = Plan | { readonly refused: readonly string[] }
-
-function quoted(value: string): string {
-  return `'${value.replaceAll("'", "'\\''")}'`
-}
 
 function listAt(value: Value, key: string): readonly string[] {
   const held = value[key]

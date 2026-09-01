@@ -1,4 +1,5 @@
 import { OperationalError } from "@akasha/errors-core/exit-code"
+import { quoted } from "@akasha/shell/quoting"
 import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 import { APPIUM_BASE, appiumReady } from "../appium-client/appium-client.module.code.ts"
@@ -6,7 +7,6 @@ import {
   appValueExports,
   MAC_PATH_PREFIX,
   SCRIPT_HEADER,
-  shellSingleQuote,
 } from "../foundation/foundation.module.code.ts"
 import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
 import type { MobileApp } from "../mobile-app/mobile-app.module.code.ts"
@@ -29,7 +29,7 @@ export function buildResolveAndBootSimScript(preferredUdid?: string): string {
   const pref = preferredUdid !== undefined && preferredUdid !== "" ? preferredUdid : ""
   return [
     SCRIPT_HEADER,
-    `PREF=${shellSingleQuote(pref)}`,
+    `PREF=${quoted(pref)}`,
     'SIM_UDID="$PREF"',
     'if [ -z "$SIM_UDID" ]; then',
     '  SIM_UDID="$(xcrun simctl list devices booted -j | python3 -c \'import sys,json; d=json.load(sys.stdin)["devices"]; ids=[x["udid"] for v in d.values() for x in v if x.get("state")=="Booted"]; print(ids[0] if ids else "")\')"',
@@ -68,14 +68,14 @@ export function buildInstallScript(opts: {
   const exports: string[] = [
     MAC_PATH_PREFIX,
     `export NATIVE_SHELL_DIR="${opts.nativeShellDir}"`,
-    `export NATIVE_SHELL_STAMP_COMMIT=${shellSingleQuote(opts.stampCommit)}`,
+    `export NATIVE_SHELL_STAMP_COMMIT=${quoted(opts.stampCommit)}`,
     ...appValueExports(opts.app),
   ]
   if (opts.udid !== undefined && opts.udid !== "") {
-    exports.push(`export SIM_UDID=${shellSingleQuote(opts.udid)}`)
+    exports.push(`export SIM_UDID=${quoted(opts.udid)}`)
   }
   if (opts.configuration !== undefined && opts.configuration !== "") {
-    exports.push(`export CONFIGURATION=${shellSingleQuote(opts.configuration)}`)
+    exports.push(`export CONFIGURATION=${quoted(opts.configuration)}`)
   }
   if (opts.stagedWwwDir !== undefined && opts.stagedWwwDir !== "") {
     exports.push(`export STAGED_WWW_DIR="${opts.stagedWwwDir}"`)
