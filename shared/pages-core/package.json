@@ -13,6 +13,7 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
+    "@shared/pages-system": "workspace:*",
     "@shared/day": "workspace:*",
     "@shared/pages-url": "workspace:*",
     "@shared/recurrence": "workspace:*",

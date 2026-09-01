@@ -11,7 +11,7 @@ import {
   pageTypeStatedAt,
   type StatedPageType,
 } from "../page-types.ts"
-import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
+import { pageTypeOf } from "@shared/pages-system/page-type"
 import { loadPages, rowsStamp } from "../index/store/store.ts"
 import { akashaRoot } from "../../repo/roots/roots.ts"
 import { canonicalize } from "../../repo/path/path.ts"

@@ -5,7 +5,7 @@ import { fileTargetOf } from "../index/relation/relation.ts"
 import { listField } from "../frontmatter.ts"
 import type { PageAt } from "../page.ts"
 import { NONE, stringAt } from "../text/text.ts"
-import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
+import { pageTypeOf } from "@shared/pages-system/page-type"
 
 const REQUIRED_KEY = "required-reading-slugs"
 

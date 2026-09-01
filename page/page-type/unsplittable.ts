@@ -2,7 +2,7 @@ import { onceInCall } from "../../during-call/during-call.ts"
 import { rootsHere } from "../../repo/roots/roots.ts"
 import { diskFileTree } from "../file-tree.ts"
 import { parseFrontmatter, textField } from "../frontmatter.ts"
-import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
+import { pageTypeOf } from "@shared/pages-system/page-type"
 
 const TYPE_GLOB = "**/*.page-type.md"
 

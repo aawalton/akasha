@@ -1,5 +1,5 @@
 import { addressOf, slugNamed } from "../../page/page-address.ts"
-import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
+import { pageTypeOf } from "@shared/pages-system/page-type"
 import { documentsOnDemand } from "./documents-on-demand.ts"
 
 // The slugs a seat page states. One renderer composes a seat page now, so what was shared between

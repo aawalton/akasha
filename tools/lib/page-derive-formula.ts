@@ -5,8 +5,8 @@ import {
   type DeclaredType,
   type Shape,
   type Value as Worked,
-} from "../../pages-system/formula/formula.ts"
-import { heldBy, valuedAs } from "../../pages-system/read/held.ts"
+} from "@shared/pages-system/formula"
+import { heldBy, valuedAs } from "@shared/pages-system/read/held"
 import type { Property } from "../../page/property/property.ts"
 import { EXPRESSION } from "./page-declared.ts"
 import type { Held } from "./page-file-values.ts"

@@ -1,4 +1,4 @@
-import { type Answer, type Asked, useLanding } from "../../pages-system/write/landing.ts"
+import { type Answer, type Asked, useLanding } from "@shared/pages-system/write/landing"
 import { patchAside } from "./body-aside.ts"
 import { LandingRefused, landFiles } from "./land.ts"
 

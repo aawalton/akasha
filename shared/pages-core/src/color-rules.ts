@@ -4,7 +4,7 @@ import {
   type DeclaredType,
   type Shape,
   type Value,
-} from "../../../pages-system/formula/formula.ts"
+} from "@shared/pages-system/formula"
 import type { PropertyValue } from "./property-types/types.ts"
 import type { BadgeVariant, ColorRuleVariant } from "./schema/color-rule.ts"
 import type { PageDataJSON, PropertyDefinition, PropertyType } from "./types.ts"

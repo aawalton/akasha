@@ -160,7 +160,7 @@
       "path": "./shared/status-bar-access"
     },
     {
-      "path": "./pages-system"
+      "path": "./shared/pages-system"
     }
   ],
   "files": []

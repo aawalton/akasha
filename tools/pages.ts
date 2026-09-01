@@ -7,7 +7,7 @@ import { readFileSync } from "node:fs"
 import { slugNamed } from "../page/page-address.ts"
 import { listDocuments } from "./lib/check.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
-import { pageTypeOf } from "../pages-system/page-type/page-type.ts"
+import { pageTypeOf } from "@shared/pages-system/page-type"
 import {
   type PageTypeRows,
   countPages,

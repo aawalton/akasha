@@ -19,7 +19,7 @@ import { landMoves } from "../../../move/move.ts"
 import { registryOf } from "../../../page/property/registry.ts"
 import { pagesOf, type PageType, pageTypePathIn, soleRepoOf } from "../../../page/page-types.ts"
 import { blockOf, stringAt } from "../../../page/text/text.ts"
-import { pageTypeOf } from "../../../pages-system/page-type/page-type.ts"
+import { pageTypeOf } from "@shared/pages-system/page-type"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {

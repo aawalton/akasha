@@ -10,7 +10,7 @@ import { indexReaches, loadPages } from "./index/store/store.ts"
 import { onceInCall } from "../during-call/during-call.ts"
 import type { Roots } from "./page.ts"
 import { blockOf, NONE, stringAt } from "./text/text.ts"
-import { pageTypeOf } from "../pages-system/page-type/page-type.ts"
+import { pageTypeOf } from "@shared/pages-system/page-type"
 
 export const PAGES_ROOT = "pages"
 
