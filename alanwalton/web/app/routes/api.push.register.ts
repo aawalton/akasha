@@ -1,8 +1,8 @@
+import { registerDeviceTokenSchema } from "@akasha/person-system/push-register-body"
 import { registerDeviceToken } from "@shared/notifications/device-token"
 import { ALANWALTON_PUSH_APP } from "@shared/notifications/push-apps"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
 import { resolveDeviceTokenContext } from "~/push/lib/device-tokens.server"
-import { RegisterDeviceTokenSchema } from "~/push/lib/register-body"
 import type { Route } from "./+types/api.push.register"
 
 const CORS_METHODS = "POST, OPTIONS"
@@ -34,7 +34,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
       { status: 400, headers: withCors(ctx.headers, cors) }
     )
   }
-  const parsed = RegisterDeviceTokenSchema.safeParse(body)
+  const parsed = registerDeviceTokenSchema.safeParse(body)
   if (!parsed.success) {
     return Response.json(
       { ok: false, error: "Invalid device token registration." },

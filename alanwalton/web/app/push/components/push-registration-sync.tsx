@@ -1,5 +1,8 @@
 "use client"
 
+import { decidePermissionAction } from "@akasha/person-system/push-permission"
+import { registerDeviceTokenSchema } from "@akasha/person-system/push-register-body"
+import { decidePushRoute } from "@akasha/person-system/push-routing"
 import { UserIdContext } from "@shared/pages-ui/use-user-id"
 import { useContext, useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
@@ -9,11 +12,9 @@ import {
   isNativeShell,
   type PluginListenerHandle,
 } from "~/lib/capacitor-bridge"
-import { decidePermissionAction, decidePushRoute } from "~/push/lib/push-routing"
-import { RegisterDeviceTokenSchema } from "~/push/lib/register-body"
 
 async function postDeviceToken(deviceToken: string): Promise<void> {
-  const body = RegisterDeviceTokenSchema.safeParse({ deviceToken, platform: "ios" })
+  const body = registerDeviceTokenSchema.safeParse({ deviceToken, platform: "ios" })
   if (!body.success) {
     console.error("[push] built an invalid registration body", body.error.issues)
     return

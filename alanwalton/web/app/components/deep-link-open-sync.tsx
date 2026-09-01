@@ -3,7 +3,7 @@
 import { useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
 import { getApp, isNativeShell, type PluginListenerHandle } from "~/lib/capacitor-bridge"
-import { decideOpenUrlRoute } from "~/push/lib/push-routing"
+import { decideOpenUrlRoute } from "@akasha/person-system/push-routing"
 
 export function DeepLinkOpenSync() {
   const navigate = useNavigate()
