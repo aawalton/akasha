@@ -2,15 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { spawnSync } from "node:child_process"
 import { appendFileSync, cpSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  idCopied,
-  identitiesCopied,
-  idFiled,
-  listedFiled,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
-import { minting, REFUSES_CODE } from "../../testing-system/minting/minting.module.code.ts"
+import { indexNamed } from "@akasha/indexes"
+import { idCopied, identitiesCopied, idFiled, listedFiled } from "@akasha/indexes/testing"
+import { gitIn as git } from "@akasha/testing-system/gitting"
+import { minting, REFUSES_CODE } from "@akasha/testing-system/minting"
 import { AUTHOR } from "../committing/committing.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"

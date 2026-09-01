@@ -1,15 +1,9 @@
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
-import {
-  indexNamed,
-  indexStanding,
-  listedAt,
-  slugsOfType,
-  typeSlugById,
-} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { indexNamed, indexStanding, listedAt, slugsOfType, typeSlugById } from "@akasha/indexes"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { besideAt } from "@akasha/pages-system/page-file-name"
 import type { HelpNotes } from "../command/properties/help-notes.text-property.ts"
 import type { Taking } from "../command/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"

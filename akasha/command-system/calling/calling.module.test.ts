@@ -1,12 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  idFiled,
-  idTakenFrom,
-  listedFiled,
-  noneOfTypeFiled,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { idFiled, idTakenFrom, listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { calling, commandsIn, HELP, HELP_SHORT, type Surface } from "./calling.module.code.ts"
 
