@@ -1,6 +1,7 @@
 import type { Frontmatter } from "../../frontmatter.ts"
 import { blockOf, stringAt } from "../../text/text.ts"
-import { filledBy, pageStem } from "@shared/named-for"
+import { filledBy } from "@akasha/named-for/name-rule"
+import { pageStem } from "@akasha/named-for/page-stem"
 
 export const NAMED_FOR = "named-for"
 

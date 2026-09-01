@@ -222,6 +222,22 @@
         "react-dom": "^18 || ^19",
       },
     },
+    "akasha/design/design-patterns": {
+      "name": "@akasha/design-patterns",
+      "dependencies": {
+        "@akasha/design-layout": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
+        "ansi-to-html": "^0.7.2",
+        "class-variance-authority": "^0.7.1",
+        "lucide-react": "^0.576.0",
+        "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "@radix-ui/react-slot": "*",
+        "react": "^18 || ^19",
+      },
+    },
     "akasha/design/design-primitives": {
       "name": "@akasha/design-primitives",
       "dependencies": {
@@ -350,6 +366,9 @@
         "@shared/pages-query": "workspace:*",
       },
     },
+    "akasha/named-for": {
+      "name": "@akasha/named-for",
+    },
     "akasha/pages-system": {
       "name": "@akasha/pages-system",
     },
@@ -400,8 +419,8 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/voice-core": "workspace:*",
+        "@akasha/web-build-sha": "workspace:*",
         "@shared/object-store": "workspace:*",
-        "@shared/web-build-sha": "workspace:*",
         "sonner": "^2.0.7",
         "zod": "^4.3.6",
       },
@@ -521,11 +540,20 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/web-build-sha": {
+      "name": "@akasha/web-build-sha",
+    },
     "akasha/web-security-headers": {
       "name": "@akasha/web-security-headers",
     },
     "akasha/web-static-assets": {
       "name": "@akasha/web-static-assets",
+    },
+    "akasha/workspace-paths": {
+      "name": "@akasha/workspace-paths",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
     },
     "alanwalton/atlas-web": {
       "name": "@alanwalton/atlas-web",
@@ -540,6 +568,7 @@
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@capacitor/core": "^8.4.1",
@@ -557,7 +586,6 @@
         "@shared/supabase-rr": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
-        "@shared/web-build-sha": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
@@ -606,6 +634,7 @@
         "@akasha/chess-core": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -616,6 +645,7 @@
         "@akasha/sms-access": "workspace:*",
         "@akasha/sms-core": "workspace:*",
         "@akasha/voice-core": "workspace:*",
+        "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@collections/litrpg": "workspace:*",
@@ -638,7 +668,6 @@
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@shared/utils-sync": "workspace:*",
-        "@shared/web-build-sha": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "chess.js": "^1.4.0",
         "chessground": "^9.2.1",
@@ -697,6 +726,7 @@
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
@@ -706,7 +736,6 @@
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@shared/supabase-server": "workspace:*",
-        "@shared/web-build-sha": "workspace:*",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
         "react": "19.2.0",
@@ -1047,6 +1076,7 @@
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/workspace-paths": "workspace:*",
         "@infra/k8s": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/supabase-client": "workspace:*",
@@ -1054,7 +1084,6 @@
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@shared/verdict": "workspace:*",
-        "@shared/workspace-paths": "workspace:*",
         "typescript": "^5.8.3",
         "zod": "^4.3.6",
       },
@@ -1283,10 +1312,9 @@
         "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-core": "workspace:*",
-        "ansi-to-html": "^0.7.2",
-        "class-variance-authority": "^0.7.1",
         "lucide-react": "^0.576.0",
         "zod": "^4.3.6",
       },
@@ -1392,6 +1420,7 @@
         "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@fontsource-variable/geist": "5.2.9",
         "@fontsource-variable/geist-mono": "5.2.8",
@@ -1582,12 +1611,14 @@
       "dependencies": {
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/voice-core": "workspace:*",
+        "@akasha/web-build-sha": "workspace:*",
         "@shared/day": "workspace:*",
         "@shared/design-patterns": "workspace:*",
         "@shared/errors-client": "workspace:*",
@@ -1596,7 +1627,6 @@
         "@shared/supabase-database": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
-        "@shared/web-build-sha": "workspace:*",
         "@tanstack/react-virtual": "*",
         "sonner": "^2.0.7",
         "zod": "^4.3.6",
@@ -1856,29 +1886,12 @@
         "typescript": "^5.8.3",
       },
     },
-    "shared/web-build-sha": {
-      "name": "@shared/web-build-sha",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "shared/workspace-paths": {
-      "name": "@shared/workspace-paths",
-      "version": "0.1.0",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-      },
-    },
     "smilingjenny/web": {
       "name": "@smilingjenny/web",
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
@@ -1890,7 +1903,6 @@
         "@shared/status-bar-access": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@shared/supabase-server": "workspace:*",
-        "@shared/web-build-sha": "workspace:*",
         "isbot": "^5.1.36",
         "react": "19.2.0",
         "react-dom": "19.2.0",
@@ -3013,6 +3025,7 @@
       "name": "@temper/player-completion-skills-morphs-ui",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/design-patterns": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@temper/game-characters-classes": "workspace:*",
@@ -3038,6 +3051,7 @@
       "name": "@temper/player-completion-ui",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/design-patterns": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/design-system": "workspace:*",
@@ -3078,6 +3092,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -3113,6 +3128,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@shared/auth": "workspace:*",
@@ -3501,8 +3517,8 @@
       "name": "@temper/shared-build-deploy-addons-resolve",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/workspace-paths": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
-        "@shared/workspace-paths": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -3867,12 +3883,14 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
@@ -3885,7 +3903,6 @@
         "@shared/supabase-rr": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
-        "@shared/web-build-sha": "workspace:*",
         "@temper/game-characters": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
@@ -3983,6 +4000,8 @@
 
     "@akasha/design-layout": ["@akasha/design-layout@workspace:akasha/design/design-layout"],
 
+    "@akasha/design-patterns": ["@akasha/design-patterns@workspace:akasha/design/design-patterns"],
+
     "@akasha/design-primitives": ["@akasha/design-primitives@workspace:akasha/design/design-primitives"],
 
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
@@ -4016,6 +4035,8 @@
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
+
+    "@akasha/named-for": ["@akasha/named-for@workspace:akasha/named-for"],
 
     "@akasha/pages-access": ["@akasha/pages-access@workspace:akasha/pages-system/pages-access"],
 
@@ -4067,9 +4088,13 @@
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
 
+    "@akasha/web-build-sha": ["@akasha/web-build-sha@workspace:akasha/web-build-sha"],
+
     "@akasha/web-security-headers": ["@akasha/web-security-headers@workspace:akasha/web-security-headers"],
 
     "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:akasha/web-static-assets"],
+
+    "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:akasha/workspace-paths"],
 
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:native-shell/atlas"],
 
@@ -4684,10 +4709,6 @@
     "@shared/utils-test": ["@shared/utils-test@workspace:shared/utils-test"],
 
     "@shared/verdict": ["@shared/verdict@workspace:shared/verdict"],
-
-    "@shared/web-build-sha": ["@shared/web-build-sha@workspace:shared/web-build-sha"],
-
-    "@shared/workspace-paths": ["@shared/workspace-paths@workspace:shared/workspace-paths"],
 
     "@smilingjenny/native-shell": ["@smilingjenny/native-shell@workspace:akasha/code-system/ios-app/ios-apps/smilingjenny"],
 

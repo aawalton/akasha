@@ -1,7 +1,7 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { AsyncCheck, CheckOutcome } from "../lib/check.ts"
 import { constantHolesIn } from "@akasha/pages-access/file-name"
-import { filledBy, unfilledIn } from "@shared/named-for"
+import { filledBy, unfilledIn } from "@akasha/named-for/name-rule"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { advise, over, skip } from "../../outcome/outcome.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
