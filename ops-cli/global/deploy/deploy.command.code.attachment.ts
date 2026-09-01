@@ -36,7 +36,6 @@ import type { ClusterService } from "../../../deploy-system/service/service.ts"
 import { everyService, serviceNamed } from "../../../deploy-system/service/service.ts"
 import { fail } from "../../../patches/patch.ts"
 import { akashaRoot } from "../../../repo/roots/roots.ts"
-import { answerPageQueriesInProcess } from "../../../tools/ops/page-queries-in-process.ts"
 import { rejectUnknownFlags } from "../address.ts"
 
 const LIST = "--list"
@@ -298,7 +297,6 @@ if (import.meta.main) {
         "other command through `ops`. Its help is `ops deploy --help`.\n"
     )
   } else {
-    answerPageQueriesInProcess()
     await deployCommand(own)
   }
 }
