@@ -1,13 +1,5 @@
-import { pageTypesIn } from "@akasha/indexes/entries"
-import { declaringOf } from "@akasha/indexes/property-carrying"
 import type { Change } from "@akasha/pages-system/change"
-import { kindsUnder } from "@akasha/pages-system/page-type-descent"
-import {
-  carriedIn,
-  type Carried as Declared,
-  declarationsOf,
-  identityOf,
-} from "@akasha/pages-system/page-type-properties"
+import { type Carried as Declared, identityOf } from "@akasha/pages-system/page-type-properties"
 import { textAt } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -47,8 +39,8 @@ export function judgedIn(
   root: string,
   shadow: Shadow
 ): readonly Held[] {
-  const under = kindsUnder(root, PAGE_TYPE, shadow.reading, shadow.pageOf)
-  const properties = kindsUnder(root, PAGE_PROPERTY, shadow.reading, shadow.pageOf)
+  const under = shadow.index.kindsUnder(root, PAGE_TYPE, shadow.pageOf)
+  const properties = shadow.index.kindsUnder(root, PAGE_PROPERTY, shadow.pageOf)
   const found = new Map<string, Held>()
   for (const one of carried) {
     const kind = textAt(one.value, KIND)
@@ -63,7 +55,7 @@ export function judgedIn(
     const kind = textAt(one.value, KIND)
     const id = textAt(one.value, ID)
     if (kind === null || id === null || !properties.has(kind)) continue
-    for (const said of declaringOf(shadow.reading, id)) {
+    for (const said of shadow.index.declaringOf(id)) {
       const { slug, path } = said
       if (under.has(said.kind)) {
         taking(found, { slug, kind: said.kind, path, descends: true })
@@ -110,9 +102,9 @@ function whyRefused(key: string, nearer: Declared, further: Declared): string | 
 }
 
 function declaringIn(one: Held, shadow: Shadow): readonly Declared[] {
-  if (one.descends) return declarationsOf(one.slug, shadow.reading, shadow.pageOf)
+  if (one.descends) return shadow.index.declarationsOf(one.slug, shadow.pageOf)
   const value = shadow.pageOf(one.path)
-  return value === null ? [] : carriedIn(value, shadow.reading, one.slug)
+  return value === null ? [] : shadow.index.carriedIn(value, one.slug)
 }
 
 export function collisionsIn(one: Held, shadow: Shadow): readonly Judged[] {
@@ -129,7 +121,7 @@ export function collisionsIn(one: Held, shadow: Shadow): readonly Judged[] {
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const carried = carriedBy(change, pageTypesIn(shadow.reading))
+  const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (carried.length === 0) return []
   const said: Judged[] = []
   for (const one of judgedIn(carried, change.root, shadow)) {
