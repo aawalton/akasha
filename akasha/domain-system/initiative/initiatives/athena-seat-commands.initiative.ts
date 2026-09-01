@@ -8,7 +8,6 @@ export const athenaSeatCommands = {
   personaSlug: "athena",
   parentSlug: "akasha-migration",
   intents: [
-    { statement: "A seat says what another seat is through akasha." },
     { statement: "What a seat is stated as is recorded through akasha." },
     { statement: "A seat is stopped through akasha." },
     { statement: "What a seat needs to be run stands inside akasha." },
