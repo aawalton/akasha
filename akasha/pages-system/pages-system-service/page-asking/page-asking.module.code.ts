@@ -1,6 +1,8 @@
-import { valuesOfType } from "@akasha/indexes"
+import { listedAt, valuesOfType } from "@akasha/indexes"
 import { matches, weigh } from "@akasha/pages-query/where-testing"
 import type { Value } from "@akasha/pages-system/page-value"
+
+const PAGE_TYPE = "page-type"
 
 export const TESTS_RUN: readonly string[] = [
   "is",
@@ -95,6 +97,9 @@ export function asking(root: string, query: Query): Asked {
   }
   const unknown = unrun(query.where)
   if (unknown !== null) return { refused: unknown }
+  if (listedAt(root, PAGE_TYPE, query.pageTypeSlug).length === 0) {
+    return { refused: `\`${query.pageTypeSlug}\` names no page type the index holds` }
+  }
   const held = valuesOfType(root, query.pageTypeSlug).filter((one) =>
     narrows(one.value, query.where)
   )

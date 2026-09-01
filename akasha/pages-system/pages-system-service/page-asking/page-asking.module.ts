@@ -22,6 +22,14 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "A name that is no page type is refused rather than answered empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a name is a page type is read from the index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A test this does not run is refused rather than dropped.",
     },
     {

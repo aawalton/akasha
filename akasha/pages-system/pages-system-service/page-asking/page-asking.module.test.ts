@@ -35,7 +35,12 @@ test("where narrows to what matches", () => {
 })
 
 test("a page type no page is filed under is answered empty", () => {
-  expect(rowsOf(asking(root, { pageTypeSlug: "no-such-page-type-stands" }))).toEqual([])
+  expect(rowsOf(asking(root, { pageTypeSlug: "service" }))).toEqual([])
+})
+
+test("a name that is no page type is refused rather than answered empty", () => {
+  const said = asking(root, { pageTypeSlug: "no-such-page-type-anywhere" })
+  expect("refused" in said && said.refused).toContain("names no page type")
 })
 
 test("rows are ordered by the key the question sorts on", () => {
