@@ -11,7 +11,6 @@ export const pagesQuery = {
     "module/store-questioning",
     "module/store-reaching",
     "module/store-writing",
-    "module/where-testing",
   ],
   invariants: [
     {

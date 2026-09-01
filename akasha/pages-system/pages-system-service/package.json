@@ -9,6 +9,7 @@
     "./listening": "./page-listening/page-listening.module.code.ts",
     "./reading": "./page-reading/page-reading.module.code.ts",
     "./serving": "./page-serving/page-serving.module.code.ts",
-    "./writing": "./page-writing/page-writing.module.code.ts"
+    "./writing": "./page-writing/page-writing.module.code.ts",
+    "./where-testing": "./where-testing/where-testing.module.code.ts"
   }
 }
