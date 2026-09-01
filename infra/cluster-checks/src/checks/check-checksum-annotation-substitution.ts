@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { CHECKSUM_ANNOTATION_MARKER, type ChecksumAnnotationScanFile, type ChecksumAnnotationViolation, findChecksumAnnotationEmits, findSeamSubstitutionSites, isChecksumScanPath, scanChecksumAnnotationSubstitution, type SeamSubstitutionCensus } from "../../../../tools/lib/check-workflow/checksum-annotation-substitution"

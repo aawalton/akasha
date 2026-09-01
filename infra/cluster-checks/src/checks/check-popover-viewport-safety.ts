@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { existsSync, readdirSync } from "node:fs"
 import { relative, resolve } from "node:path"
 import ts from "typescript"

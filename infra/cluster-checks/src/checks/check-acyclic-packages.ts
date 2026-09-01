@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { resolve } from "node:path"
 import { packageDependencyCycles } from "../lib/package-cycles.ts"
 import { treeReadingAt } from "../lib/tree-reading.ts"

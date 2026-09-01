@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { resolve } from "node:path"
 import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
 import { z } from "zod"

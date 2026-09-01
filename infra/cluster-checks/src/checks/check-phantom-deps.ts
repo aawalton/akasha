@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { resolve } from "node:path"
 import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"

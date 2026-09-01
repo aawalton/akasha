@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { loadRepoContext, parseArgs } from "./check-unused-deps-context.ts"

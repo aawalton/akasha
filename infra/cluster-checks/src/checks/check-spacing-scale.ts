@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { readFileSync } from "node:fs"
 import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
 import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"

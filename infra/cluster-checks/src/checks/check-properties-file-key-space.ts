@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
 import { parseArgs } from "../lib/cli-args.ts"

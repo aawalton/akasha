@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"

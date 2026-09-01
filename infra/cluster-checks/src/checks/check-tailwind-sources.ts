@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { resolve } from "node:path"
 import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"

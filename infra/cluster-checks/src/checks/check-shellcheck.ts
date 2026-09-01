@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { resolve } from "node:path"
 import { classifyExtension } from "../../../../file-kind/file-kind.ts"
 import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"

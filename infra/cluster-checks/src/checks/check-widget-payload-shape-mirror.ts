@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { readdirSync, readFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"

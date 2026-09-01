@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { relative } from "node:path"
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"

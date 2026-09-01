@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { readdirSync, readFileSync } from "node:fs"
 import * as semanticTokens from "@akasha/design-tokens/semantic-color"
 import * as surfaceTokens from "@akasha/design-tokens/surface-color"

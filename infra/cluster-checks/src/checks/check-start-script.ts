@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { isSynthPath } from "@infra/k8s-synth/manifests"

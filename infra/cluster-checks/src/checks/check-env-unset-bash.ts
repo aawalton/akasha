@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { type EnvUnsetBashViolation, scanEnvUnsetBash } from "../lib/env-unset-bash.ts"

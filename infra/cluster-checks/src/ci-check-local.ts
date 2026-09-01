@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "./lib/retired.ts"
+
 import {
   decideLocalCheckExit,
   decideLocalCheckVerdict,

@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { readFileSync } from "node:fs"
 import { basename, dirname, posix, relative, resolve } from "node:path"
 import { z } from "zod"

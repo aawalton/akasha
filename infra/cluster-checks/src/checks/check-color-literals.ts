@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { type ChangeClosure, describeClosure, resolveChangeClosure } from "../lib/change-closure.ts"

@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { readdirSync, readFileSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"

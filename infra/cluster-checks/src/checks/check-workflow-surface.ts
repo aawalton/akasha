@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { existsSync } from "node:fs"
 import { parseArgs } from "../lib/cli-args"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"

@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import {

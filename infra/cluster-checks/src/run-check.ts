@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "./lib/retired.ts"
+
 import { existsSync, realpathSync } from "node:fs"
 import { resolve } from "node:path"
 import { opsArgv, opsInvocationOf } from "../../../tools/lib/ops-invocation.ts"

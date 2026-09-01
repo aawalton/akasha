@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { execFileSync } from "node:child_process"
 import {
   type BinModeViolation,

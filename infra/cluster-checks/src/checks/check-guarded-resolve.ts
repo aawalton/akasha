@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { resolve } from "node:path"
 import { CHECK_EXEMPT_DIRS } from "../../../../repo/scope/scope.ts"
 import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"

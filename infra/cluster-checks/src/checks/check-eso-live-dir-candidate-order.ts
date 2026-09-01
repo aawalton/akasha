@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { readdirSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { esoLiveDirCandidates } from "@temper/shared-foundation-misc-eso-paths/eso-paths"

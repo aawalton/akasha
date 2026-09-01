@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { existsSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { type FlagSpec, parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"

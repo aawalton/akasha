@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { resolve } from "node:path"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import { TS_FILE_NODE_TYPES } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"

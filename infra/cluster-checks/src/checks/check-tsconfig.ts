@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import { resolve } from "node:path"
 import ts from "typescript"
 import { type TreeReading, treeReadingAt } from "../lib/tree-reading.ts"

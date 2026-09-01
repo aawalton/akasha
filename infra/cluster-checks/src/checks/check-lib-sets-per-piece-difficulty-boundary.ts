@@ -1,5 +1,7 @@
 #!/usr/bin/env bun
 
+import "../lib/retired.ts"
+
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
 import { FILESYSTEM_WALK_EXEMPT_DIRS, findFiles } from "../../../../tools/lib/check-workflow/file-finder"
