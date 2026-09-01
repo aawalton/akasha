@@ -68,7 +68,8 @@ export function shouldRevalidate(args: ShouldRevalidateFunctionArgs): boolean {
   return shouldRevalidatePageDetail(args)
 }
 
-
+export { loader } from "./page-detail-loader.server"
+export { PageDetailErrorBoundary as ErrorBoundary } from "./page-detail-error-boundary"
 
 export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
   const [searchParams] = useSearchParams()
