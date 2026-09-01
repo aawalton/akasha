@@ -30,11 +30,11 @@ export function fileProperty(root: string, path: string, knowing: Knowing): read
   for (const slug of statedIn(root, path, said.stem)) {
     const filed = schemaOf(root, slug)
     if ("refused" in filed) continue
-    const standing = listedAt(root, filed.schema.pageTypeSlug, slug)[0]
-    if (standing === undefined || standing.path === path) continue
-    const oid = blobAt(root, standing.path)
+    const listed = listedAt(root, filed.schema.pageTypeSlug, slug)[0]
+    if (listed === undefined || listed.path === path) continue
+    const oid = blobAt(root, listed.path)
     if (oid === null) continue
-    found.push({ path: standing.path, oid, owed: PROPERTY })
+    found.push({ path: listed.path, oid, owed: PROPERTY })
   }
   return found.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
 }
