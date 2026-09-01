@@ -33,7 +33,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The credential side is done and its intent gone: both of Alan's unrevoked device secrets stand as pages (0e557db688, b3d44bf124), deviceSecretCarryingHash answers `found` with revokedAt null for each, and guardReadout returns open. The live web pod 401s for nothing, for malformed and for an unowned secret. What is left is unknowable here: the plaintext lives only on the phone, and if the app was reinstalled a fresh mint is needed, which takes Alan's session.",
+        "The widget is whole, not a stub: `ios-program/alanwalton-widget` names 21 components and builds ValuesWidgetExtension. It GETs /api/categorization with X-Device-Secret, and that route reads what the relay holds and refuses a reading past 45 minutes. The server half is proved locally, 30 checks. Two things block it, neither the credential: no reading exists at all, since the cookie 401s and the relay says `stands beside no reading`; and the pod runs 1124e0a, 177 behind, with no relay route.",
     },
     { statement: "The relay that carries Alan's reading to Jenny's site is in akasha." },
     { statement: "Jenny's categorization route is in akasha." },
