@@ -46,6 +46,7 @@ export const pagesSystem = {
     "module/page-file-name",
     "module/page-export-name",
     "module/page-beside",
+    "module/page-body",
     "module/page-uncommitted",
     "module/page-secret",
     "module/page-value",
