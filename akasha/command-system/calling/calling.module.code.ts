@@ -103,8 +103,8 @@ function widest(said: readonly string[]): number {
 
 function pageAt(root: string, slug: string): string | null {
   const said = commandSlugIn(root)
-  const standing = said === null ? [] : listedAt(root, said, slug)
-  if (standing.length === 1) return standing[0]?.path ?? null
+  const found = said === null ? [] : listedAt(root, said, slug)
+  if (found.length === 1) return found[0]?.path ?? null
   return slug === ROOTED && existsSync(join(root, ROOTED_AT)) ? ROOTED_AT : null
 }
 
