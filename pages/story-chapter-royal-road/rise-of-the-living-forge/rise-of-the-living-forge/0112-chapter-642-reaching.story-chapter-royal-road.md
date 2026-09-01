@@ -1,0 +1,195 @@
+---
+id: f763fe0b-6e5a-5fd5-8fad-51741ee95780
+page-type-slug: story-chapter-royal-road
+title: "Chapter 642: Reaching"
+slug: 0112-chapter-642-reaching
+partOf: rise-of-the-living-forge
+position: 112
+ownLength: 1868
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3895854/chapter-642-reaching"
+royalRoadId: "3895854"
+---
+
+An axe slammed into One’s shoulder.
+
+He stumbled, but he didn’t stop. He just kept running. Every step he took was one that brought him closer to his goal. He couldn’t falter now. Not when he was so close.
+
+Another blow slammed into his back. Something wound around One’s leg. He tripped, crashing to the ground. Pain tore through his entire body. But after it came fury.
+
+“No,” One roared, driving himself back to his feet. He thrust his hand behind him. Several deafening explosions tore through the air. A dozen men died, their lives wasted, their blood sent flying through the air to fall down like rain.
+
+An arrow of frost crashed into One’s shoulder. He spun, thrown off balance, and fell to the ground again. Darkness flashed before his eyes. Guildsmen poured in around him, their weapons drawn. One’s fingers dug through the muddied earth.
+
+He screamed, throwing himself forward. Motes of brilliant orange light ignited.
+
+A deafening explosion ripped through the battlefield. He stumbled into the flames, pushing through them even as they licked at his flesh. He’d been burned before. His armor wouldn’t melt so easily. Not this time. One held his hands out before him, drawing deep on his fading magical reserves.
+
+More explosions cut through the din of war. Screams followed from those who had been unfortunate enough to survive his attack. One continued through the hellscape, stumbling, limping. He could feel the life weeping from his body through the huge wounds riddling him.
+
+He grabbed a spear impaling his side and snapped the smoldering haft. And still he pushed onward, breathing ragged. He was too close. Too—
+
+An arrow slammed into his chest. It shattered against his armor, but it knocked the breath from his lungs and sent him stumbling back.
+
+Another arrow slammed into him. Two more followed, striking his shoulder in rapid succession.
+
+One fell back. He landed in the burnt, bloodied mud.
+
+A man burst from the flames surrounding him, bringing his axe arcing down for One’s head.
+
+One gritted his teeth.
+
+The man exploded.
+
+Chunks of the dead man rained down as One dragged himself back to his feet, ignoring the pieces of once-magical armor clinking against him. He stepped through the flames…
+
+And out into another wave of Guildsmen, weapons raised, magic ready.
+
+His throat felt dry.
+
+He couldn’t hear the rest of his guild anymore. But he didn’t need to. All he cared about was the two figures stood in the distance.
+
+The Hero and the Demon Queen.
+
+Too far to reach by earshot, but they were there. He could finally see them… and the Guild’s men that were slowly but steadily closing in around the two. They hadn’t noticed yet. They were too locked in their own fight, unaware of who the true enemy really was.
+
+One swallowed blood.
+
+So close. He was so close.
+
+The guildsmen raced toward him A hail of magic came crashing down toward him from every direction.
+
+One’s teeth ground. He raised an exhausted hand and drew on fading magic.
+
+Just a little more.
+
+He swept his hand.
+
+Magic slammed into his battered body. At the same time, more explosions tore through the battlefield. Flames roared all around One. Chunks of metal and flesh crashed down, and the scent of burnt death filled One’s nostrils. He swayed.  Fire danced all around him, cracking and hissing. He couldn’t see anything or anyone anymore. For a moment, darkness threatened to swallow his mind.
+
+Then One drove it down.
+
+Death had been waiting to claim him for this long.
+
+It would have to wait a few more minutes.
+
+Then he pushed through the flames.
+
+***
+
+“You,” the Deepmind hissed. It was furious, now. The enormous monster wasn’t even trying to conceal its hatred anymore. It thrust its palm toward Two, sending three beams of death magic slicing free.
+
+Two drove his sword into the ground. A brilliant white barrier snapped to life before him. The death magic slammed into it, sending ripples through the magic, but it failed to penetrate.
+
+A cold smile pulled across Two’s lips. He pulled his sword free from the ground and pointed it at the Deepmind. “So you know of me? I am honored.”
+
+“I made you!” the Deepmind said. “I made your damn guild. You are nothing but tools. I have watched every step you took. Every single movement was made because I permitted it!”
+
+“Then you really shouldn’t be surprised about my presence, should you?” Two asked. “Or was letting Arwin slip right out of your grasp part of your plan as well?”
+
+The Deepmind’s hand crashed down for Two.
+
+He leapt to the side, hitting the ground in a roll as a laugh tore free of his throat. Out of the corner of his eye, he spotted people rushing up to the now-open doorway.
+
+The Guild’s reinforcements had arrived.
+
+Not many of them, and none were anywhere near bold enough to dare enter the room with the Deepmind, but it seemed that he wasn’t going back the way he’d come.
+
+But he’d already known that to be the case. There would never have been enough time.
+
+“I will consume you,” the Deepmind said furiously. “And then I will consume the rest of your guild. I will consume the Menagerie. You are all pigs, raised for the slaughter. There is absolutely nothing you can do. There never was. All your struggles are for nothing.”
+
+Two let out a booming laugh. “If that were true, you wouldn’t be so insistent on reminding us. Your end approaches. I am no prophet, but I know with absolute certainty that not a single one of the things you claim will come to pass.”
+
+“And what will you do to stop me?” the Deepmind asked with a cold, upside-down sneer. “Do you think you can escape? Your power will merge with mine. Perhaps I will leave enough of your soul in place to witness the new world as I reshape it.”
+
+“Oh, I doubt that,” Two said. His lips thinned. Eleven would have gotten Arwin and Reya out by now. And that meant his job was done.
+
+“Is that so?” the Deepmind sneered. “And by whose power?”
+
+“My own,” Two replied. He tightened his grip on his sword. A brilliant hum filled the air as power pumped through his body and poured into his armor. “And, for the record, we do agree on one thing. I won’t be around to see what comes next.”
+
+Two charged.
+
+The Deepmind extended its hand.
+
+Two dashed past it, then leapt. He flew past the lich’s hand and slammed into its chest, digging his hands into cloth covering Deepmind’s body as he launched himself up toward its head.
+
+He sailed up. And, a brief instant, he was face to face with the ancient being.
+
+“I’ve got a gift for you. From an old friend. He had a message for me to pass along,” Two said. His armor cracked. Lodged in the center of his chest-piece was a black gemstone, filled to the brim with overwhelming power. Two’s lips split apart into a cold smile. “Go fuck yourself.”
+
+Then the gemstone shattered.
+
+***
+
+Arwin’s eyes snapped open as the sounds of distant fighting reached his ears.
+
+He drew in a ragged gasp, jerking upright, hand darting out for Caldera—
+
+And then he froze.
+
+He was in bed, and standing at its foot was Anna.
+
+Arwin blinked. Then he blinked again. Pain still wracked his entire body, but the agony from the lich’s death magic was gone. He could think again. Moving, while painful, was possible. Fragmented memories slithered back into their places reluctantly.
+
+“Anna?” Arwin asked, blinking. “I — what? Where am I? What’s going on? The Deepmind—”
+
+“The Den,” Anna said with a gentle but tired smile.
+
+“You Sunset?” Arwin asked, a bit too suddenly. A spike of pain cut through him and he grimaced, coughing. That only made the pain stronger.A wave of gentle light rolled out from Anna’s outstretched hand to envelop him. The pain faded, and Arwin let out a relieved breath. “Thanks.”
+
+She nodded. “Yes. We Sunset. I’m sorry we couldn’t get here faster.”
+
+“What happened?” Arwin asked. He swung his legs out of bed and pushed himself upright. He swayed, then caught himself on a wall. Anna didn’t stop him. “Why am I here? I… where’s Reya?”
+
+“Fighting,” Anna replied grimly. “She got you out of there alongside Two. I came to reinforce the Menagerie. Eleven was holding two portals open at once. One to her Guildhall and one to ours. Now she’s backing everyone else up. We’re still holding the Den. Raen and Melissa sent forces as well. They’re helping us. It’s probably the only reason we haven’t been completely overwhelmed yet. ”
+
+Arwin shoved down the questions that fought to burst free from his lips.
+
+“Status?”
+
+“Bad,” Anna said. “We’re only barely holding, and the Guild isn’t letting up. It’s fortunate that Lillia returned. She’s keeping the den going and somehow getting food to everyone to keep them fighting. But even still… we won’t last for much longer.”
+
+Arwin’s jaw clenched. “Damnation. And Two? Where is he?”
+
+Anna stared quietly at Arwin for a moment. Then she shook her head. “Reya, you, and Eleven were the only ones that made it back from the portal. The Guild’s reinforcements were showing up.”
+
+Arwin’s throat clenched.
+
+Two was dead, then.
+
+He’d died to save him.
+
+Fuck.
+
+“The Deepmind?” Anna asked. “We couldn’t beat it?”
+
+Arwin’s hands clenched. He didn’t have time to mourn yet. If they didn’t do something, then every single one of them wouldn’t be far behind Two.
+
+“No,” he said. “It was too strong. We couldn’t even scratch it. I tried to eat the daggers, but the power was already a part of the lich. It was impossible. We failed.”
+
+“Sympathetic magic?” Anna asked desperately. “There has to be something. We can’t give up, Arwin. Not now.”
+
+“I know that. But…” Arwin trailed off.
+
+Then every single strand of hair covering his arms and back stood on end. Memories slotted together in his mind with what almost could have been an audible click.
+
+“Wait,” Arwin whispered.
+
+“What?” Anna asked urgently. “Did you find something we can use?”
+
+Images of a mural back in a cave flashed through Arwin’s thoughts. It felt like it had been ages since he’d seen it, but they suddenly felt clearer than ever. A massive skeleton, covered in green crystal.
+
+Crystal that stored magical power.
+
+The Prism’s Reach. It wasn’t trembling in excitement, was it?
+
+It was recognition.
+
+“That’s it,” Arwin whispered. “The lich isn’t the fucking skeleton. That’s why Koyu couldn’t figure it out. The Deepmind is a ghost, just like he is. It doesn’t have a body at all. The Deepmind is in the crystals.”
+
+“What?” Anna asked, but she’d picked up on the excitement in Arwin’s voice. Hope lit in her eyes. “Does that mean we’ve got a way to—”
+
+“Yeah,” Arwin said. He swallowed the mixture of fear and excitement pounding through him. There was no time for any of it. They had to act while there was still a chance. “I know how to kill the Deepmind.”
