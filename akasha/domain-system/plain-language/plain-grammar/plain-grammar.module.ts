@@ -31,5 +31,9 @@ export const plainGrammar = {
       invariantKind: "gap",
       statement: "Every construction the grammar admits was put to Alan first.",
     },
+    {
+      invariantKind: "gap",
+      statement: "The grammar is read from the sentence shapes rather than written here.",
+    },
   ],
 } as const satisfies Module
