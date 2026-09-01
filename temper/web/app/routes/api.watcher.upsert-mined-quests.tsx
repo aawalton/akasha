@@ -1,4 +1,3 @@
-import { patchRows } from "@shared/pages-query"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { MINE_NAME, MINED_QUEST_PAGE_TYPE } from "@/lib/mined-item-rows"
 import { validateWatcherToken } from "@/lib/watcher-auth"
@@ -34,11 +33,6 @@ function isRequestBody(v: unknown): v is RequestBody {
   return v.items.every(isMinedQuest)
 }
 
-/** A quest is keyed by the number the game knows it by, as an item is. */
-function rowOf(quest: MinedQuest): Record<string, unknown> {
-  return { ...quest, slug: String(quest.questId), title: quest.name }
-}
-
 export async function action({ request }: Route.ActionArgs): Promise<Response> {
   let body: unknown
   try {
@@ -66,9 +60,17 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     )
   }
 
-  const written = await patchRows(MINED_QUEST_PAGE_TYPE, MINE_NAME, items.map(rowOf), WRITER)
-  if (!written.ok) {
-    return Response.json({ error: written.why }, { status: 502 })
-  }
-  return Response.json({ ok: true, upserted: items.length })
+  // Same refusal as `api.watcher.upsert-mined-items`: a mined quest landed as a row, and a row
+  // stands inside a page's body rather than at a path of its own, so `patchRows` has refused every
+  // call since 4c1f05a264. The watcher has been posting here and reading 502 ever since.
+  console.error(
+    `upsert-mined-quests: ${items.length} quest(s) were not kept in \`${MINED_QUEST_PAGE_TYPE}/${MINE_NAME}\` — a row stands inside a page's body, and ${WRITER} has no way to reach one`
+  )
+  return Response.json(
+    {
+      error: `a row stands inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} quest(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
+      upserted: 0,
+    },
+    { status: 503 }
+  )
 }

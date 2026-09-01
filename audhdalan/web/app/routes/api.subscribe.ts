@@ -1,4 +1,3 @@
-import { writePage } from "@shared/pages-query"
 import { z } from "zod"
 import type { Route } from "./+types/api.subscribe"
 
@@ -39,15 +38,24 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     return Response.json({ error: "Server misconfigured" }, { status: 500 })
   }
 
-  const landed = await writePage(
-    "audhdalan-subscriber",
-    nameFor(email),
-    { title: email, slug: nameFor(email), email },
-    WRITER
+  // A SUBSCRIBER IS A WHOLE PAGE, AND NOTHING WRITES ONE FROM ITS KEYS. This landed the address
+  // with `writePage`, which has refused every call since 4c1f05a264: the store writes a path and
+  // a whole body, and nothing renders an `audhdalan-subscriber` page's body out of `title`,
+  // `slug` and `email`. Every address typed into the form on audhdalan.com since then has been
+  // answered with a failure, and none has been kept.
+  //
+  // It is said here as a 503 rather than carried back as a 500 from a shim. 503 is the truthful
+  // code: the address is well-formed and the site is up — what is missing is the road that lands
+  // it. Taking subscribers again means composing the page's body and landing it with `writeFiles`,
+  // or through the akasha command line.
+  console.error(
+    `subscribe: \`audhdalan-subscriber/${nameFor(email)}\` was not kept — nothing renders that page's body out of its keys, so ${WRITER} has no way to land one`
   )
-  if (!landed.ok) {
-    return Response.json({ error: `Subscribe failed: ${landed.why}` }, { status: 500 })
-  }
-
-  return Response.json({ ok: true })
+  return Response.json(
+    {
+      error:
+        "Subscriptions are not being taken right now. Nothing here can record an address, so yours was not kept — please try again later.",
+    },
+    { status: 503 }
+  )
 }

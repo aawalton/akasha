@@ -1,4 +1,3 @@
-import { patchRows } from "@shared/pages-query"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { SetBonusEntry } from "@temper/game-items-core/item-tooltip-types"
 import { MINE_NAME, MINED_ITEM_PAGE_TYPE } from "@/lib/mined-item-rows"
@@ -62,14 +61,6 @@ function isRequestBody(v: unknown): v is RequestBody {
   return v.items.every(isMinedItem)
 }
 
-/**
- * The mine keys an item by the number the game knows it by, so `slug` is the
- * item id and a later mine of the same item replaces the row standing under it.
- */
-function rowOf(item: MinedItem): Record<string, unknown> {
-  return { ...item, slug: String(item.itemId), title: item.name }
-}
-
 export async function action({ request }: Route.ActionArgs): Promise<Response> {
   let body: unknown
   try {
@@ -97,9 +88,23 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     )
   }
 
-  const written = await patchRows(MINED_ITEM_PAGE_TYPE, MINE_NAME, items.map(rowOf), WRITER)
-  if (!written.ok) {
-    return Response.json({ error: written.why }, { status: 502 })
-  }
-  return Response.json({ ok: true, upserted: items.length })
+  // A MINED ITEM LANDED AS A ROW, AND NOTHING LANDS A ROW. `patchRows` has refused every call
+  // since 4c1f05a264: a row stands inside a page's body rather than at a path of its own, and the
+  // store addresses paths and whole bodies. The watcher on Alan's machine has been posting
+  // batches of up to a thousand items here and being told 502 ever since, and has kept retrying
+  // because 502 reads as a bad gateway rather than as a road that is gone.
+  //
+  // 503 is the truthful code, and the body says plainly that nothing was upserted. Landing the
+  // mine again means composing the page's whole body and writing it with `writeFiles` or
+  // `patchFiles`, or going through the akasha command line.
+  console.error(
+    `upsert-mined-items: ${items.length} item(s) were not kept in \`${MINED_ITEM_PAGE_TYPE}/${MINE_NAME}\` — a row stands inside a page's body, and ${WRITER} has no way to reach one`
+  )
+  return Response.json(
+    {
+      error: `a row stands inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} item(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
+      upserted: 0,
+    },
+    { status: 503 }
+  )
 }
