@@ -25,8 +25,37 @@ export const monarchReading = {
       statement: "A taking that refuses keeps nothing.",
     },
     {
+      invariantKind: "departure",
+      statement: "Running this file takes a reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The cookie is read from the environment by name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A cookie that is not set refuses by that name and says only Alan can produce one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal is said as one line rather than thrown as a stack.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cookie that is not set and a taking that refuses leave on different codes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root read is the one the environment states or the one the call was made in.",
+    },
+    {
       invariantKind: "stopgap",
       statement: "The readout's path is spelled here rather than asked of the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Importing this file takes none.",
     },
     {
       invariantKind: "absence",
