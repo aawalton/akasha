@@ -57,8 +57,8 @@ export function service(argv: readonly string[], given: Given): Answer {
     return refused("no home directory is stated, so no unit has anywhere to stand", OPERATIONAL)
   }
 
-  const standing = ourInstalled(home)
-  const owned = slug === undefined ? standing : ownedByService(standing, slug)
+  const installed = ourInstalled(home)
+  const owned = slug === undefined ? installed : ownedByService(installed, slug)
   const plan = planFor(read.standing, owned)
 
   const report: string[] = []
