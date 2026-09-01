@@ -40,7 +40,7 @@ export function statedByKey(stated: readonly Stated[]): ReadonlyMap<string, read
 
 const CARRIES = "carries it too in this change"
 
-const STANDS = "already stands with it"
+const CARRIES_ALREADY = "already stands with it"
 
 function reasonFor(one: Stated, other: string, how: string): string {
   return (
@@ -68,7 +68,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       continue
     }
     for (const each of held) {
-      said.push({ path: each.path, reason: reasonFor(each, elsewhere.path, STANDS) })
+      said.push({ path: each.path, reason: reasonFor(each, elsewhere.path, CARRIES_ALREADY) })
     }
   }
   return said
