@@ -19,7 +19,7 @@ export type ResolvedDrawContext = DrawContext & { readonly mechanics: DerivedMec
 // it is.
 export async function resolveDrawContext(
   _sb: IdleSupabase,
-  now: number
+  _now: number
 ): Promise<ResolvedDrawContext> {
   throw new Error(unheld(PERSONA_COVER_IMAGE, "the images a draw lands on"))
 }

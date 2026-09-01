@@ -16,7 +16,7 @@ import type { IdleSupabase } from "./idle-save-context.server"
 // treat the save and the roster as agreeing when they do not. So this refuses, which is what it
 // already did wherever a patch failed.
 export async function projectUserCards(
-  sb: IdleSupabase,
+  _sb: IdleSupabase,
   args: {
     readonly userId: string
     readonly state: GameState

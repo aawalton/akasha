@@ -120,7 +120,6 @@ async function deliver(
   asker: ResolvedAsker,
   content: string,
   source: string,
-  deps: ResolveQuestionDeps,
   sender: InboundSender
 ): Promise<void> {
   const body = withSenderFooter(content, sender, QUESTION_CHANNEL)
@@ -182,7 +181,7 @@ export async function resolveQuestion(
       const asker = await resolveAsker(parsed.askedBy, deps, automationSeat(parsed.sourceContext))
       if ("error" in asker) return { ok: false, error: asker.error }
       try {
-        await deliver(asker, content, ANSWER_SOURCE, deps, args.sender)
+        await deliver(asker, content, ANSWER_SOURCE, args.sender)
       } catch (err) {
         return { ok: false, error: `Failed to deliver answer to asker: ${errMessage(err)}` }
       }
@@ -210,7 +209,6 @@ export async function resolveQuestion(
             asker,
             `Your question was dismissed without an answer: "${parsed.title}"`,
             DISMISS_SOURCE,
-            deps,
             args.sender
           )
         } catch (err) {

@@ -22,8 +22,8 @@ export async function loadAllSaves(): Promise<ReadonlyArray<{ userId: string; sa
 // `upsertSave` returned `void`, so a caller reads a return as a save that landed. It never did.
 export async function upsertSave(
   userId: string,
-  save: IdleSave,
-  opts?: { readonly isDevTestWrite?: boolean }
+  _save: IdleSave,
+  _opts?: { readonly isDevTestWrite?: boolean }
 ): Promise<void> {
   throw new Error(unwritten(PAGE_TYPE, `the save of \`${userId}\``))
 }
