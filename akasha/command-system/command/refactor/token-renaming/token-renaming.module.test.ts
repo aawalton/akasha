@@ -1,60 +1,18 @@
 import { expect, test } from "bun:test"
 import { bindingFor, tokeningFor } from "./token-renaming.module.code.ts"
+import {
+  BODIES,
+  BOTH,
+  HELD,
+  KEPT,
+  NAMER,
+  OWN,
+  PAIRED,
+  SHADOW,
+  TWICE,
+} from "./token-renaming.module.test-fixtures.ts"
 
 const ROOT = "/var/tmp/token-renaming-stands-nowhere"
-
-const HELD = "akasha/held/held.module.code.ts"
-
-const NAMER = "akasha/namer/namer.module.code.ts"
-
-const SHADOW = "akasha/shadow/shadow.module.code.ts"
-
-const KEPT = "akasha/kept/kept.module.code.ts"
-
-const OWN = "akasha/own/own.module.code.ts"
-
-const BOTH = "akasha/both/both.module.code.ts"
-
-const TWICE = "akasha/twice/twice.module.code.ts"
-
-const PAIRED = "akasha/paired/paired.module.code.ts"
-
-const PAIRED_BODY =
-  "export function first(): string {\n" +
-  '  const kept = "one"\n' +
-  "  return kept\n" +
-  "}\n" +
-  "\n" +
-  "export function second(): string {\n" +
-  '  const kept = "two"\n' +
-  "  return kept\n" +
-  "}\n"
-
-const BODIES = new Map<string, string>([
-  [TWICE, 'export function twice(): string {\n  const twice = "one"\n  return twice\n}\n'],
-  [PAIRED, PAIRED_BODY],
-  [
-    HELD,
-    "export type Marking = (path: string) => boolean\n\nexport function marking(one: Marking): Marking {\n  return one\n}\n",
-  ],
-  [
-    NAMER,
-    'import type { Marking } from "../held/held.module.code.ts"\nimport { marking } from "../held/held.module.code.ts"\n\nconst one: Marking = (path) => path.endsWith(".ts")\n\nexport const two = marking(one)\n',
-  ],
-  [SHADOW, 'export function shadowed(): string {\n  const marking = "held"\n  return marking\n}\n'],
-  [
-    KEPT,
-    'export type Kept = {\n  readonly marksOn: string\n}\n\nexport const kept: Kept = { marksOn: "yes" }\n',
-  ],
-  [
-    OWN,
-    'function stood(): string {\n  return "one"\n}\n\nexport function reaches(): string {\n  return stood()\n}\n',
-  ],
-  [
-    BOTH,
-    'export type Both = {\n  readonly split: string\n}\n\nexport function split(): string {\n  return "two"\n}\n',
-  ],
-])
 
 const PATHS = [...BODIES.keys()]
 
