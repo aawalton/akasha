@@ -10,5 +10,8 @@ export const serviceSystem = {
     "page-type/workstation-service",
     "page-type/cluster-service",
     "module/unit-writing",
+    "module/service-reaching",
+    "module/file-following",
+    "module/service-wrapping",
   ],
 } as const satisfies Domain
