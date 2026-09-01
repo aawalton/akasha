@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/utils-process",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./pid-signal": "./pid-signal/pid-signal.module.code.ts"
+  },
+  "dependencies": {
+    "@shared/utils-narrow": "workspace:*"
+  }
+}
