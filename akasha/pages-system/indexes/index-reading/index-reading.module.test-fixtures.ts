@@ -105,7 +105,7 @@ export function listedFiled(
   identityFiled(root, pageTypeSlug, SLUG, slug, lines)
 }
 
-export function standingAlsoFiled(
+export function listedAlsoFiled(
   root: string,
   pageTypeSlug: string,
   slug: string,

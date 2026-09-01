@@ -5,10 +5,10 @@ import { standing as wrote } from "../../../command-system/scratching/scratching
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
   idFiled,
+  listedAlsoFiled,
   pathFiled,
   relationFiled,
   schemaFiled,
-  standingAlsoFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 
 export const A = "akasha/t/a.note.ts"
@@ -86,7 +86,7 @@ export function standing(
   if (!existsSync(join(root, path))) wrote(root, path, body)
   const held = [{ path, id }]
   idFiled(root, id, held)
-  standingAlsoFiled(root, pageTypeSlug, slug, held)
+  listedAlsoFiled(root, pageTypeSlug, slug, held)
   pathFiled(root, path, held)
 }
 
