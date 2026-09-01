@@ -1,8 +1,5 @@
-import { execFileSync } from "node:child_process"
+import { said } from "@akasha/utils-run/running"
 
 export function gitIn(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], {
-    encoding: "utf8",
-    stdio: ["ignore", "pipe", "pipe"],
-  })
+  return said(["git", "-C", root, ...argv])
 }
