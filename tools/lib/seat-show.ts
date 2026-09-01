@@ -6,7 +6,6 @@ import { declaredSeatReading } from "./declared-seat-reading.ts"
 import { documentNamed } from "./seat-attribute.ts"
 import type { Args } from "./seat-args.ts"
 import { initiativeLine } from "./seat-initiative.ts"
-import { composedNameOf } from "./seat-rename.ts"
 import { flexLine } from "./seat-flex.ts"
 import { principalLine } from "./seat-principal.ts"
 import { registrationAccountLine } from "./seat-registration-account.ts"
@@ -33,7 +32,6 @@ export function showLines(agent: string, args: Args): readonly string[] {
     args.mode !== null ? "--mode" : null,
     args.principal !== null ? "--principal" : null,
     args.onCall ? "--on-call" : null,
-    args.fromSeat ? "--from-seat" : null,
   ].filter((one): one is string => one !== null)
   if (setting.length > 0) {
     fail(
@@ -107,22 +105,4 @@ export function describe(attributes: Attributes): readonly string[] {
 export function modeLine(applies: Mode, recorded: ModeRecord | null): string {
   const said = recorded === null ? `${applies} — nothing recorded one` : applies
   return `  ${"mode".padEnd(8)} ${said}`
-}
-
-export function fromSeat(agent: string): { readonly note: string } {
-  const name = composedNameOf(agent)
-  if (name === null) {
-    return {
-      note:
-        `no seat page stands for ${agent}, and a seat is named by the page it holds, so there is ` +
-        `no name here to read attributes out of. Name them yourself: --persona <slug> ` +
-        `--domain <slug> --role <slug>`,
-    }
-  }
-  return {
-    note:
-      `the seat is named \`${name}\`, and a name spells what a seat is rather than being read ` +
-      `back into attributes, so nothing was proposed. Name the attributes yourself: ` +
-      `--persona <slug> --domain <slug> --role <slug>`,
-  }
 }

@@ -22,7 +22,6 @@ const PRESENT: readonly (readonly [string, string])[] = [
   ["name", "--name"],
   ["show", "--show"],
   ["default", "--default"],
-  ["fromSeat", "--from-seat"],
   ["onCall", "--on-call"],
 ]
 

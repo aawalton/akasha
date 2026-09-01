@@ -17,7 +17,7 @@ import { statedFromHistory } from "./lib/seat-page-history.ts"
 import { writeSeatPage } from "./lib/seat-page.ts"
 import { statedNow } from "./lib/seat-stated.ts"
 import { nameableFrom, nameableStated } from "./lib/seat-nameable.ts"
-import { fromSeat, showLines, statedLines } from "./lib/seat-show.ts"
+import { showLines, statedLines } from "./lib/seat-show.ts"
 import { akashaSeatRelPath } from "./lib/seat-page-akasha.ts"
 import { fail } from "./lib/command.ts"
 
@@ -75,9 +75,6 @@ export async function run(argv: readonly string[]): Promise<void> {
 
   const set: Partial<Record<Declaration, string>> = { ...args.set }
   const notes: string[] = []
-  if (args.fromSeat) {
-    notes.push(`note:   ${fromSeat(agent).note}`)
-  }
 
   let initiative = args.initiative
   let onCall = args.onCall

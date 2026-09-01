@@ -48,7 +48,6 @@ before it has a row to record anything on. Neither reaches the store on any path
 
 Usage:
   bun tools/seat.ts --persona <slug> --domain <slug> --role <slug>
-  bun tools/seat.ts --from-seat
   bun tools/seat.ts --from-history
   bun tools/seat.ts --mode headless
   bun tools/seat.ts --initiative <slug>
@@ -66,10 +65,6 @@ Flags:
                     often a page type or folder rather than a file under domains/.
   --role <slug>     What it is answerable for across every piece of work. Taken as stated;
                     roles stand in the akasha system, which this does not read.
-  --from-seat       Propose persona, domain and role from the seat name on disk, and state
-                    them. The domain is the persona's own championed-domain, so a seat named
-                    after her carries it without anyone typing one; a persona declaring
-                    none proposes none. Anything you state yourself outranks the proposal.
   --from-history    Read back what this seat stated the last time it had a page, out of the
                     commit that last held \`seats/<name>.md\` in the memory repository. A
                     stopped seat's page is deleted rather than kept, so history is where its

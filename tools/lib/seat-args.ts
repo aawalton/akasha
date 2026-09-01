@@ -17,7 +17,6 @@ export interface Args {
   readonly show: boolean
   readonly resolve: boolean
   readonly name: boolean
-  readonly fromSeat: boolean
   readonly fromHistory: boolean
   readonly asDefault: boolean
   readonly agent: string | null
@@ -37,7 +36,6 @@ export function parseArgs(argv: readonly string[]): Args {
   let show = false
   let resolve = false
   let name = false
-  let fromSeat = false
   let fromHistory = false
   let asDefault = false
   let agent: string | null = null
@@ -76,7 +74,6 @@ export function parseArgs(argv: readonly string[]): Args {
     else if (arg === "--show") show = true
     else if (arg === "--resolve") resolve = true
     else if (arg === "--name") name = true
-    else if (arg === "--from-seat") fromSeat = true
     else if (arg === "--from-history") fromHistory = true
     else if (arg === "--default") asDefault = true
     else if (arg === "--agent") agent = value()
@@ -92,5 +89,5 @@ export function parseArgs(argv: readonly string[]): Args {
       set[stated] = value()
     }
   }
-  return { set, initiative, flex, tokens, clear, show, resolve, name, fromSeat, fromHistory, asDefault, agent, parentName, registration, mode, principal, onCall, takeLiveName }
+  return { set, initiative, flex, tokens, clear, show, resolve, name, fromHistory, asDefault, agent, parentName, registration, mode, principal, onCall, takeLiveName }
 }

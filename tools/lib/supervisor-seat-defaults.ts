@@ -26,7 +26,6 @@ export interface SeatCall {
   readonly name?: boolean
   readonly show?: boolean
   readonly default?: boolean
-  readonly fromSeat?: boolean
   readonly onCall?: boolean
   readonly initiative?: string | readonly string[] | null
   readonly clear?: readonly string[] | null
