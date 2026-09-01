@@ -4,11 +4,8 @@ import {
   ourInstalled,
   ownedByService,
   planFor,
-} from "../../../service-system/workstation-service/service-installing/service-installing.module.code.ts"
-import {
-  everyStanding,
-  standingFor,
-} from "../../../service-system/workstation-service/service-reading/service-reading.module.code.ts"
+} from "@akasha/service-system/service-installing"
+import { everyStanding, standingFor } from "@akasha/service-system/service-reading"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 const INPUT = 1

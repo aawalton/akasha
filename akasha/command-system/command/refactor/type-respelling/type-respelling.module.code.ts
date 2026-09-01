@@ -1,30 +1,13 @@
+import { parsedAs } from "@akasha/code-system/code-source"
+import type { Typing } from "@akasha/code-system/code-typing"
+import { boundAs, exportsNamed, referencesOf } from "@akasha/code-system/code-typing"
+import { everyOfType, namersOf, readingIn } from "@akasha/indexes"
+import { knownIn, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
+import { addressIn } from "@akasha/pages-system/page-address"
+import { exportedAs, typedAs } from "@akasha/pages-system/page-export-name"
+import type { Value } from "@akasha/pages-system/page-value"
+import { valueIn } from "@akasha/pages-system/page-value"
 import ts from "typescript"
-import { parsedAs } from "../../../../code-system/code-source/code-source.module.code.ts"
-import type { Typing } from "../../../../code-system/code-typing/code-typing.module.code.ts"
-import {
-  boundAs,
-  exportsNamed,
-  referencesOf,
-} from "../../../../code-system/code-typing/code-typing.module.code.ts"
-import {
-  everyOfType,
-  namersOf,
-  readingIn,
-} from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  knownIn,
-  namesIn,
-  namingsIn,
-  reaches,
-  type Shaped,
-} from "../../../../pages-system/indexes/reaching/reaching.module.code.ts"
-import { addressIn } from "../../../../pages-system/page/page-address/page-address.module.code.ts"
-import {
-  exportedAs,
-  typedAs,
-} from "../../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import type { Value } from "../../../../pages-system/page/page-value/page-value.module.code.ts"
-import { valueIn } from "../../../../pages-system/page/page-value/page-value.module.code.ts"
 import type { Renaming, Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 

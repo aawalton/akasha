@@ -1,12 +1,6 @@
-import { alive, type Holder } from "../../../file-system/lock-holder/lock-holder.module.code.ts"
-import {
-  everyOfType,
-  typeSlugOf,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  mergeUncommitted,
-  uncommittedIn,
-} from "../../../pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
+import { alive, type Holder } from "@akasha/file-system/lock-holder"
+import { everyOfType, typeSlugOf } from "@akasha/indexes"
+import { mergeUncommitted, uncommittedIn } from "@akasha/pages-system/page-uncommitted"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"

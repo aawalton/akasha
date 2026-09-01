@@ -1,8 +1,8 @@
 import { existsSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import { textIn } from "../../../code-system/body-text/body-text.module.code.ts"
-import type { Summary, Verdict } from "../../../code-system/code-tests/code-tests.module.code.ts"
-import { ranOver, testsUnder } from "../../../code-system/code-tests/code-tests.module.code.ts"
+import { textIn } from "@akasha/code-system/body-text"
+import type { Summary, Verdict } from "@akasha/code-system/code-tests"
+import { ranOver, testsUnder } from "@akasha/code-system/code-tests"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 const FILE_PATH = "--file-path"

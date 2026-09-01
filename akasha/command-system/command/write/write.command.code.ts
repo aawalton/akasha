@@ -1,10 +1,6 @@
 import { isAbsolute, relative, resolve } from "node:path"
-import {
-  changingOf,
-  unheldIn,
-  unreadIn,
-} from "../../../context-system/warranting/warranting.module.code.ts"
-import { besideAll } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
+import { changingOf, unheldIn, unreadIn } from "@akasha/context-system/warranting"
+import { besideAll } from "@akasha/pages-system/page-beside"
 import {
   BREAK_GLASS,
   bytesAt,

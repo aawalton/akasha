@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const typeRenaming = {
   id: "01a0587b-6769-7174-8713-f1d9fe7fd25d",
