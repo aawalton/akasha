@@ -177,7 +177,7 @@
     "akasha/design/design-badges": {
       "name": "@akasha/design-badges",
       "dependencies": {
-        "@shared/design-primitives": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "class-variance-authority": "^0.7.1",
         "lucide-react": "^0.576.0",
         "zod": "^4.3.6",
@@ -190,8 +190,8 @@
     "akasha/design/design-forms": {
       "name": "@akasha/design-forms",
       "dependencies": {
+        "@akasha/design-primitives": "workspace:*",
         "@shared/day": "workspace:*",
-        "@shared/design-primitives": "workspace:*",
         "chrono-node": "^2.9.0",
         "class-variance-authority": "^0.7.1",
         "input-otp": "^1.5.0",
@@ -208,7 +208,7 @@
     "akasha/design/design-layout": {
       "name": "@akasha/design-layout",
       "dependencies": {
-        "@shared/design-primitives": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@tanstack/react-virtual": "^3.14.10",
         "class-variance-authority": "^0.7.1",
         "lucide-react": "^0.576.0",
