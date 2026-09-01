@@ -8,7 +8,6 @@
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/imessage": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@alanwalton/imessage": "workspace:*",
         "@alanwalton/mobile-cli": "workspace:*",
         "@collections/exercises": "workspace:*",
         "@collections/music": "workspace:*",
@@ -521,19 +520,6 @@
         "@infra/k8s-types": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/supabase-server": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "alanwalton/imessage": {
-      "name": "@alanwalton/imessage",
-      "version": "0.1.0",
-      "dependencies": {
-        "@shared/errors-core": "workspace:*",
-        "@shared/utils-fs": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -4068,8 +4054,6 @@
     "@alanwalton/atlas-web": ["@alanwalton/atlas-web@workspace:alanwalton/atlas-web"],
 
     "@alanwalton/calendar-sync": ["@alanwalton/calendar-sync@workspace:alanwalton/calendar-sync"],
-
-    "@alanwalton/imessage": ["@alanwalton/imessage@workspace:alanwalton/imessage"],
 
     "@alanwalton/mobile-cli": ["@alanwalton/mobile-cli@workspace:alanwalton/mobile-cli"],
 

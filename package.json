@@ -56,7 +56,6 @@
     "alanwalton/atlas-web",
     "alanwalton/calendar-sync",
     "akasha/health-samples-day",
-    "alanwalton/imessage",
     "akasha/location-traces-access",
     "alanwalton/mobile-cli",
     "alanwalton/web",
@@ -299,7 +298,6 @@
   "dependencies": {
     "@akasha/health-samples-import": "workspace:*",
     "@akasha/imessage": "workspace:*",
-    "@alanwalton/imessage": "workspace:*",
     "@alanwalton/mobile-cli": "workspace:*",
     "@collections/exercises": "workspace:*",
     "@collections/music": "workspace:*",
