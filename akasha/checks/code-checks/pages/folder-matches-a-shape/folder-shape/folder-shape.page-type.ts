@@ -62,10 +62,6 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape is handed the folder it judges and looks for nothing.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A shape states its test.",
     },
     {
