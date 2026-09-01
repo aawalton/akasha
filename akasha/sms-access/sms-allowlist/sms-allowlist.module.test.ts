@@ -1,5 +1,8 @@
-import { describe, expect, mock, test } from "bun:test"
+import { afterAll, describe, expect, mock, test } from "bun:test"
+import * as askModule from "@akasha/pages-query/ask"
 import type { SmsAllowlistClient } from "../client/client.module.code.ts"
+
+const REAL_ASK = { ...askModule }
 
 type Row = { readonly values: Record<string, unknown> }
 
@@ -20,8 +23,13 @@ function fresh(): Held {
 const held = fresh()
 
 mock.module("@akasha/pages-query/ask", () => ({
+  ...REAL_ASK,
   askComposed: () => Promise.resolve(held.asked),
 }))
+
+afterAll(() => {
+  mock.module("@akasha/pages-query/ask", () => REAL_ASK)
+})
 
 const { loadSmsExternalIdentities } = await import("./sms-allowlist.module.code.ts")
 

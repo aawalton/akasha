@@ -1,4 +1,7 @@
-import { beforeEach, describe, expect, mock, test } from "bun:test"
+import { afterAll, beforeEach, describe, expect, mock, test } from "bun:test"
+import * as pagesQuery from "@akasha/pages-query"
+
+const REAL_PAGES_QUERY = { ...pagesQuery }
 
 type Landing = { readonly ok: true } | { readonly ok: false; readonly why: string }
 
@@ -11,11 +14,16 @@ function fresh(): Held {
 const held = fresh()
 
 mock.module("@akasha/pages-query", () => ({
+  ...REAL_PAGES_QUERY,
   writePage: (...taken: unknown[]) => {
     held.given = taken
     return Promise.resolve(held.landing)
   },
 }))
+
+afterAll(() => {
+  mock.module("@akasha/pages-query", () => REAL_PAGES_QUERY)
+})
 
 const { SMS_DISCARD_PAGE_TYPE_SLUG, WRITER, discardNamed, recordSmsDiscard } = await import(
   "./sms-discard.module.code.ts"
