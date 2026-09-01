@@ -28,7 +28,7 @@ const WIDEN = `function widen(one: string): string {
 
 type Held = { readonly path: string; readonly text: string }
 
-function standing(held: readonly Held[]): ReadonlyMap<string, readonly Said[]> {
+function byRule(held: readonly Held[]): ReadonlyMap<string, readonly Said[]> {
   const found = new Map<string, Said[]>()
   for (const one of held) {
     for (const each of speltIn(one.path, one.text)) {
@@ -40,7 +40,7 @@ function standing(held: readonly Held[]): ReadonlyMap<string, readonly Said[]> {
 }
 
 test("a rule standing in another file is refused, and the refusal names that file", () => {
-  const every = standing([
+  const every = byRule([
     { path: "one.ts", text: CAMEL },
     { path: "two.module.code.ts", text: EXPORTED_AS },
   ])
@@ -50,7 +50,7 @@ test("a rule standing in another file is refused, and the refusal names that fil
 })
 
 test("a rule no other file spells is passed over", () => {
-  const every = standing([
+  const every = byRule([
     { path: "one.ts", text: WIDEN },
     { path: "two.module.code.ts", text: EXPORTED_AS },
   ])
@@ -58,7 +58,7 @@ test("a rule no other file spells is passed over", () => {
 })
 
 test("neither file is the owner, so a rule in two files refuses both", () => {
-  const every = standing([
+  const every = byRule([
     { path: "one.ts", text: CAMEL },
     { path: "two.ts", text: EXPORTED_AS },
   ])
@@ -67,7 +67,7 @@ test("neither file is the owner, so a rule in two files refuses both", () => {
 })
 
 test("a rule standing in more than one other file names one and counts the rest", () => {
-  const every = standing([
+  const every = byRule([
     { path: "one.ts", text: CAMEL },
     { path: "two.ts", text: EXPORTED_AS },
     { path: "three.ts", text: EXPORTED_AS },
@@ -79,12 +79,12 @@ test("a rule standing in more than one other file names one and counts the rest"
 
 test("a file saying the same thing twice is not judged here, one file being one place", () => {
   const both = `${CAMEL}\n${EXPORTED_AS}`
-  expect(reasonsIn("one.ts", both, standing([{ path: "one.ts", text: both }]))).toEqual([])
+  expect(reasonsIn("one.ts", both, byRule([{ path: "one.ts", text: both }]))).toEqual([])
 })
 
 test("a rule spelled inline is not seen, because only a function is read", () => {
   const inline = `const camel = one.slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())\n`
-  const every = standing([{ path: "two.module.code.ts", text: EXPORTED_AS }])
+  const every = byRule([{ path: "two.module.code.ts", text: EXPORTED_AS }])
   expect(reasonsIn("one.ts", inline, every)).toEqual([])
 })
 
