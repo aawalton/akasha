@@ -7,6 +7,7 @@ export const codeTyping = {
   definition: "a program built over the pages, and what the checker says a spelling means",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
