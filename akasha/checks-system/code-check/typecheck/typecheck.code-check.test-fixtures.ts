@@ -1,10 +1,10 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { importIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
-import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { importEdge } from "@akasha/graph-system/import-edge"
+import { importIn } from "@akasha/indexes/import"
+import { indexImport } from "@akasha/indexes/import/page"
+import { headOf } from "@akasha/indexes/stamp"
 import {
   entriesFiled,
   listedFiled,
@@ -12,10 +12,10 @@ import {
   pathFiled,
   schemaFiled,
   stampedIn,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { headOf } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
-import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
-import { put, stands } from "../../../testing-system/putting/putting.module.code.ts"
+} from "@akasha/indexes/testing"
+import type { Change } from "@akasha/pages-system/change"
+import { gitIn } from "@akasha/testing-system/gitting"
+import { put, stands } from "@akasha/testing-system/putting"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 

@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { stampTakenFrom } from "@akasha/indexes/testing"
+import type { Change } from "@akasha/pages-system/change"
+import { shadowFor } from "@akasha/pages-system/shadow"
 import ts from "typescript"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { stampTakenFrom } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { foundOf, omittingIn, reachedBy, rootsOf, typecheck } from "./typecheck.code-check.code.ts"
 import {

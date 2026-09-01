@@ -1,21 +1,16 @@
 import { resolve } from "node:path"
+import { textIn } from "@akasha/code-system/body-text"
+import { lineAt, parsedAs } from "@akasha/code-system/code-source"
+import { compiled, insideOf, programOver, readingOf } from "@akasha/code-system/code-typing"
+import { reachingInto } from "@akasha/graph-system/graph-asking"
+import { importEdge } from "@akasha/graph-system/import-edge"
+import { pageTypesIn } from "@akasha/indexes/entries"
+import { waitingKeys } from "@akasha/indexes/generated-properties"
+import type { Reading } from "@akasha/indexes/shape"
+import type { Change } from "@akasha/pages-system/change"
+import { pageNamed } from "@akasha/pages-system/page-file-name"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
-import { textIn } from "../../../code-system/body-text/body-text.module.code.ts"
-import { lineAt, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import {
-  compiled,
-  insideOf,
-  programOver,
-  readingOf,
-} from "../../../code-system/code-typing/code-typing.module.code.ts"
-import { reachingInto } from "../../../graph-system/graph-asking/graph-asking.module.code.ts"
-import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { waitingKeys } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
-import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
-import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { input, TEXTS } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 

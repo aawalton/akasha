@@ -1,9 +1,6 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  type Plan,
-  planFor,
-} from "../../../code-system/ios-app/app-building/app-building.module.code.ts"
+import { type Plan, planFor } from "@akasha/code-system/app-building"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 export const BUILD = "build"
