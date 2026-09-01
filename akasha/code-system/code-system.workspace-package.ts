@@ -24,5 +24,6 @@ export const codeSystem = {
     "module/code-format",
     "module/code-lint",
     "module/package-manifest",
+    "module/shape-standing",
   ],
 } as const satisfies WorkspacePackage

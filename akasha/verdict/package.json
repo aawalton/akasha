@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./outcome": "./outcome/outcome.module.code.ts",
     "./verdict-shape": "./verdict-shape/verdict-shape.module.code.ts",
     "./verdict-exit": "./verdict-exit/verdict-exit.module.code.ts",
     "./verdict-text": "./verdict-text/verdict-text.module.code.ts"

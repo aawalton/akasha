@@ -6,5 +6,11 @@ export const fileSystem = {
   slug: "file-system",
   definition: "where akasha keeps what git does not track, and how processes take turns over it",
   manifest: "json",
-  partSlugs: ["module/data-place", "module/lock-holder"],
+  partSlugs: [
+    "module/answer-keeping",
+    "module/answer-mark",
+    "module/data-place",
+    "module/exclusive",
+    "module/lock-holder",
+  ],
 } as const satisfies WorkspacePackage
