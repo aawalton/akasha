@@ -13,11 +13,11 @@ export const rolePageType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat warrants the type of the role it states.",
+      statement: "A seat warrants the type of the role the seat states.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat warrants every type that one extends.",
+      statement: "A seat warrants every type that the type of the role the seat states extends.",
     },
     {
       invariantKind: "departure",

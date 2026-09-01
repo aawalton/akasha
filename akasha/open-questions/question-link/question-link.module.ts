@@ -9,7 +9,7 @@ export const questionLink = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A link states the platform it opens on.",
+      statement: "A link states the platform the link opens on.",
     },
     {
       invariantKind: "departure",

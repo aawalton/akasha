@@ -13,7 +13,7 @@ export const restatement = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A departure obvious from its page is one the reader would have guessed.",
+      statement: "A departure obvious from its page is a departure the reader would have guessed.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const restatement = {
     },
     {
       invariantKind: "departure",
-      statement: "A gap and an absence read as obvious when they are right.",
+      statement: "A gap and an absence read as obvious when the gap and the absence are right.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,8 @@ export const restatement = {
     },
     {
       invariantKind: "constraint",
-      statement: "What this reads is the words rather than what a reader would build from them.",
+      statement:
+        "What this reads is the words rather than what a reader would build from the words.",
     },
   ],
 } as const satisfies ModelTest

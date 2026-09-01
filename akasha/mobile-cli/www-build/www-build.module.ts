@@ -17,12 +17,12 @@ export const wwwBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "The ref built is `origin/main` where none is named.",
+      statement: "The ref built is `origin/main` where no ref is named.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The workstation's web env file is copied into the build worktree where it exists.",
+        "The workstation's web env file is copied into the build worktree where the workstation's web env file exists.",
     },
     {
       invariantKind: "departure",

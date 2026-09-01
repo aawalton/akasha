@@ -14,7 +14,7 @@ export const noVoidSelfInObjectMethod = {
     },
     {
       invariantKind: "departure",
-      statement: "It is reached with a dot rather than a colon.",
+      statement: "A function assigned to a property is reached with a dot rather than a colon.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const noVoidSelfInObjectMethod = {
     },
     {
       invariantKind: "departure",
-      statement: "A method declaring no `this` at all is left.",
+      statement: "A method declaring no `this` is left.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,8 @@ export const noVoidSelfInObjectMethod = {
     },
     {
       invariantKind: "gap",
-      statement: "It stands outside the object literal.",
+      statement:
+        "A method put onto an object after the literal is written stands outside the object literal.",
     },
   ],
 } as const satisfies SyntaxRule

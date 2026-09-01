@@ -10,7 +10,7 @@ export const auditRecordSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A record carries the hash of the record before it.",
+      statement: "A record carries the hash of the record before that record.",
     },
     {
       invariantKind: "departure",

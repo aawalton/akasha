@@ -17,7 +17,8 @@ export const provenance = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit is reported only beside a reading of the working tree it describes.",
+      statement:
+        "A commit is reported only beside a reading of the working tree the commit describes.",
     },
   ],
 } as const satisfies Module

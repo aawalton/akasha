@@ -14,7 +14,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "It is the one spelling a body returning something cannot fill.",
+      statement: "`undefined` is the one spelling a body returning something cannot fill.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "Every failure inside it goes unheard.",
+      statement: "Every failure inside the async body goes unheard.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "An overload signature is judged with the body it heads.",
+      statement: "An overload signature is judged with the body the overload signature heads.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "`Promise<void>` stands above all.",
+      statement: "`Promise<void>` stands above all other cases.",
     },
     {
       invariantKind: "departure",

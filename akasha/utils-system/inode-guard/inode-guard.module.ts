@@ -10,11 +10,11 @@ export const inodeGuard = {
     {
       invariantKind: "constraint",
       statement:
-        "Two hundred thousand free inodes is the floor unless the environment names another.",
+        "Two hundred thousand free inodes is the floor unless the environment names another floor.",
     },
     {
       invariantKind: "departure",
-      statement: "A mount reporting no inodes at all is left out rather than read as full.",
+      statement: "A mount reporting no inodes is left out rather than read as full.",
     },
     {
       invariantKind: "departure",

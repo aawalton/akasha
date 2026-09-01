@@ -13,7 +13,7 @@ export const service = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A service is started by what runs it rather than by hand.",
+      statement: "A service is started by what runs the service rather than by hand.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const service = {
     },
     {
       invariantKind: "departure",
-      statement: "A service states what it runs.",
+      statement: "A service states what the service runs.",
     },
     {
       invariantKind: "departure",

@@ -16,15 +16,16 @@ export const pagesQuery = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "It holds the store half of `@shared/pages-query` rather than the router.",
+      statement:
+        "This package holds the store half of `@shared/pages-query` rather than the router.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller keeps the name and the signature it already spells.",
+      statement: "A caller keeps the name and the signature the caller already spells.",
     },
     {
       invariantKind: "departure",
-      statement: "A question the store cannot answer is refused rather than answered as none.",
+      statement: "A question the store cannot answer is refused rather than answered as nothing.",
     },
     {
       invariantKind: "departure",

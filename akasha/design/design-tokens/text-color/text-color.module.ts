@@ -9,7 +9,7 @@ export const textColor = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Text falls towards its surface as it matters less.",
+      statement: "Text falls towards its surface as the text matters less.",
     },
   ],
 } as const satisfies Module

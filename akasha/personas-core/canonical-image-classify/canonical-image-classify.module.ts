@@ -10,11 +10,11 @@ export const canonicalImageClassify = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path under none of the named roots is classified as nothing.",
+      statement: "A path under no named root is classified as nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A grade is read off the end of the filename where no folder gives one.",
+      statement: "A grade is read off the end of the filename where no folder gives a grade.",
     },
   ],
 } as const satisfies Module

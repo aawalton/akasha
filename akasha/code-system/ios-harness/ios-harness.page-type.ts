@@ -35,11 +35,11 @@ export const iosHarness = {
     },
     {
       invariantKind: "departure",
-      statement: "A harness compiles the components it draws.",
+      statement: "A harness compiles the components the harness draws.",
     },
     {
       invariantKind: "departure",
-      statement: "Whoever changed the drawing looks at what it drew.",
+      statement: "Whoever changed the drawing looks at what the harness drew.",
     },
     {
       invariantKind: "absence",

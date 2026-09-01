@@ -13,7 +13,7 @@ export const oauthAppCredentials = {
     },
     {
       invariantKind: "departure",
-      statement: "The pair is read from the environment at the moment it is asked for.",
+      statement: "The pair is read from the environment at the moment the pair is asked for.",
     },
   ],
 } as const satisfies Module

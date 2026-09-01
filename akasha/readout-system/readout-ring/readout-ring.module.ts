@@ -10,7 +10,7 @@ export const readoutRing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading takes the rung stating the greatest number it has reached.",
+      statement: "A reading takes the rung stating the greatest number the reading has reached.",
     },
     {
       invariantKind: "departure",

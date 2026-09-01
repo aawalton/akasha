@@ -25,7 +25,7 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "A read returns the whole file or what changed after the agent read it or says the agent read that body already.",
+        "A read returns the whole file or what changed after the agent read the file or says the agent read that body already.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +51,8 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A read of a body that is not UTF-8 text returns what it is instead of the body.",
+      statement:
+        "A read of a body that is not UTF-8 text returns what the body is instead of the body.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +68,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A body past what one answer holds returns what it is.",
+      statement: "A body past what one answer holds returns what the body is.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +84,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "The call for what is left over is priced as it is printed.",
+      statement: "The call for what is left over is priced as that call is printed.",
     },
     {
       invariantKind: "departure",
@@ -99,7 +100,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A read hands back what the file it names warrants.",
+      statement: "A read hands back what the file the read names warrants.",
     },
     {
       invariantKind: "departure",
@@ -108,7 +109,7 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "What a warrant names is asked what it warrants in turn only where that warrant is transitive.",
+        "What a warrant names is asked what the named file warrants in turn only where that warrant is transitive.",
     },
     {
       invariantKind: "departure",
@@ -116,12 +117,12 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A file a warrant names comes back after the file that warranted it.",
+      statement: "A file a warrant names comes back after the file that warranted the named file.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A read the warrants cannot be worked out for returns the files it was named rather than refusing what it can answer.",
+        "A read the warrants cannot be worked out for returns the files the read was named rather than refusing what the read can answer.",
     },
   ],
 } as const satisfies Command

@@ -23,7 +23,7 @@ export const stateSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A payload naming no subagent leaves what stands as it is.",
+      statement: "A payload naming no subagent leaves what stands unchanged.",
     },
     {
       invariantKind: "departure",

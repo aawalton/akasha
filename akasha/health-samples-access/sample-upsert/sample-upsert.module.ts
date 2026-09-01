@@ -13,11 +13,11 @@ export const sampleUpsert = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading that already stood keeps the row it stood in.",
+      statement: "A reading that already stood keeps the row the reading stood in.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading that already stood keeps the arrival it had.",
+      statement: "A reading that already stood keeps the arrival the reading had.",
     },
     {
       invariantKind: "departure",

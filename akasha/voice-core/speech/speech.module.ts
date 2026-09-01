@@ -24,7 +24,8 @@ export const speech = {
     },
     {
       invariantKind: "departure",
-      statement: "Sentences are packed together up to the budget rather than sent one at a time.",
+      statement:
+        "Sentences are packed together up to the budget rather than sent one sentence at a time.",
     },
     {
       invariantKind: "departure",
@@ -44,11 +45,12 @@ export const speech = {
     },
     {
       invariantKind: "departure",
-      statement: "A piece says whether a paragraph opens at it.",
+      statement: "A piece says whether a paragraph opens at that piece.",
     },
     {
       invariantKind: "departure",
-      statement: "A leading bracketed marker is taken off each paragraph before it is spoken.",
+      statement:
+        "A leading bracketed marker is taken off each paragraph before the paragraph is spoken.",
     },
     {
       invariantKind: "absence",

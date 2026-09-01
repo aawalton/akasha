@@ -10,7 +10,8 @@ export const gitRunning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The repository is the first thing a caller states and the arguments follow it.",
+      statement:
+        "The repository is the first thing a caller states and the arguments follow the repository.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +23,7 @@ export const gitRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller wanting the text trimmed trims it.",
+      statement: "A caller wanting the text trimmed trims the text.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +32,7 @@ export const gitRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A ceiling is stated in milliseconds by a caller that wants one.",
+      statement: "A ceiling is stated in milliseconds by a caller that wants a ceiling.",
     },
     {
       invariantKind: "absence",

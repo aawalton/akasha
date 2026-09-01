@@ -17,7 +17,7 @@ export const warranting = {
     {
       invariantKind: "departure",
       statement:
-        "A reading answers for a warrant by object id alone rather than by when it was read.",
+        "A reading answers for a warrant by object id alone rather than by when the object was read.",
     },
     {
       invariantKind: "departure",
@@ -46,12 +46,12 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "It is asked and it answers.",
+      statement: "Warranting is asked and warranting answers.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A warrant is what the change owes rather than what a warranted file would owe were it changed.",
+        "A warrant is what the change owes rather than what a warranted file would owe were the warranted file changed.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +77,7 @@ export const warranting = {
     {
       invariantKind: "departure",
       statement:
-        "The page a subagent owes from is the one standing at its seat's name and the id it runs under.",
+        "The page a subagent owes from is the one standing at its seat's name and the id the subagent runs under.",
     },
     {
       invariantKind: "departure",
@@ -85,7 +85,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "An agent standing at no page owes nothing of one.",
+      statement: "An agent standing at no page owes nothing of a page.",
     },
     {
       invariantKind: "departure",
@@ -103,7 +103,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "Warrants owed of no taboo term keep the order they were worked out in.",
+      statement: "Warrants owed of no taboo term keep the order the warrants were worked out in.",
     },
     {
       invariantKind: "departure",

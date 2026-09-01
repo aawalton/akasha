@@ -39,7 +39,7 @@ export const storeQuestioning = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is answered under `values` though the store answers it flat.",
+      statement: "A row is answered under `values` though the store answers the row flat.",
     },
     {
       invariantKind: "absence",

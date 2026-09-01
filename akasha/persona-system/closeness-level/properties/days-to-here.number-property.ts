@@ -12,7 +12,7 @@ export const daysToHere = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The first rung takes none and is where everyone starts.",
+      statement: "The first rung takes no days and is where everyone starts.",
     },
   ],
 } as const satisfies NumberProperty

@@ -25,7 +25,7 @@ export const categorizeRing = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading of nothing is drawn as the words or the emoji sent for it.",
+      statement: "A reading of nothing is drawn as the words or the emoji sent for that reading.",
     },
   ],
 } as const satisfies IosComponent

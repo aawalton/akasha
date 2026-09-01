@@ -13,7 +13,7 @@ export const image = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The image is named as the cluster's own registry hands it out.",
+      statement: "The image is named as the cluster's own registry hands the image out.",
     },
     {
       invariantKind: "departure",

@@ -11,7 +11,7 @@ export const indexSurface = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An index is read by three operations and no more.",
+      statement: "An index is read by three operations and no more operations.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading laid over another holds only the entry files a change touches.",
+      statement: "A reading laid over another reading holds only the entry files a change touches.",
     },
     {
       invariantKind: "departure",
@@ -36,11 +36,12 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement: "A directory left with nothing standing under it does not list.",
+      statement: "A directory left with nothing standing under that directory does not list.",
     },
     {
       invariantKind: "departure",
-      statement: "An index emptied of every entry stands where the reading beneath it stands.",
+      statement:
+        "An index emptied of every entry stands where the reading beneath that index stands.",
     },
     {
       invariantKind: "departure",

@@ -21,7 +21,7 @@ export const listingHref = {
     },
     {
       invariantKind: "departure",
-      statement: "The slash parts it from the page of the same name.",
+      statement: "The slash parts the listing from the page of the same name.",
     },
   ],
 } as const satisfies NamePlace

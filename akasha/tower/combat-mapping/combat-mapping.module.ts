@@ -17,7 +17,7 @@ export const combatMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A skill missing one of its two names borrows the other.",
+      statement: "A skill missing one name of its two names borrows the other name.",
     },
     {
       invariantKind: "absence",

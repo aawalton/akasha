@@ -32,15 +32,15 @@ export const tabooTerm = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A taboo term is keyed by the word it bars.",
+      statement: "A taboo term is keyed by the word the taboo term bars.",
     },
     {
       invariantKind: "departure",
-      statement: "The word stands wherever it carries a sense the term does not bar.",
+      statement: "The word stands wherever the word carries a sense the term does not bar.",
     },
     {
       invariantKind: "departure",
-      statement: "A term names the senses it keeps as well as the senses it bars.",
+      statement: "A term names the senses the term keeps as well as the senses the term bars.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const tabooTerm = {
     },
     {
       invariantKind: "departure",
-      statement: "A sense a term bars was written here before it was barred.",
+      statement: "A sense a term bars was written here before the sense was barred.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const tabooTerm = {
     },
     {
       invariantKind: "absence",
-      statement: "A taboo term states no warrant for what it bars.",
+      statement: "A taboo term states no warrant for what the taboo term bars.",
     },
     {
       invariantKind: "departure",
