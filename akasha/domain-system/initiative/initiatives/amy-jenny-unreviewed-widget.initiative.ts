@@ -27,7 +27,11 @@ export const amyJennyUnreviewedWidget = {
         "Three landed under akasha/design: badges, forms and layout. design-tokens went into shared/ instead. Three are held rather than merely hard: primitives, patterns and system each carry `.ts` beside `.tsx`, and `manifest-names-what-is-reached` reads `.ts` but not `.tsx`, so a mixed package must name exactly what its `.ts` files reach and leave out what only its `.tsx` reach. design-layout had to omit four real dependencies. That knot and the two copies of @types/react want Alan.",
     },
     { statement: "`pages-ui` stands in akasha." },
-    { statement: "The source of Alan's site stands in akasha." },
+    {
+      statement: "A package for Alan's site stands in akasha.",
+      workingMemory:
+        "Split from one intent on a survey: 286 files and some 270 pages, twice what pages-core costs. This part is the package plus `chess` and `action-verbs`, some 10 to 15 pages, and it is all the four folders below wait on. The `web-app` page type and `alanwalton-web.web-app.ts` already stand. `@akasha` is a directory of one symlink per package rather than one symlink to a folder, so a package there resolves only where bun install ran against the tracked tree.",
+    },
     {
       statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
