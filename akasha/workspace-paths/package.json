@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/workspace-paths",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./workspace-dirs": "./workspace-dirs/workspace-dirs.module.code.ts",
+    "./workspace-bins": "./workspace-bins/workspace-bins.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}

@@ -35,6 +35,7 @@ export const alanHarness = {
     "workspace-package/browser-launch-env",
     "workspace-package/web-static-assets",
     "workspace-package/web-security-headers",
+    "workspace-package/workspace-paths",
   ],
   invariants: [
     {
