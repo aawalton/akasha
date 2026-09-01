@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@akasha/health-samples-access": "workspace:*",
-    "@shared/pages-query": "workspace:*",
-    "@shared/recurrence": "workspace:*"
+    "@shared/day": "workspace:*",
+    "@shared/pages-query": "workspace:*"
   }
 }
