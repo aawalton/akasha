@@ -10,6 +10,7 @@ export const pageQueryService = {
   ],
   enabled: true,
   port: 8787,
+  binds: ["127.0.0.1", "workstation.alanwalton.ts.net"],
   systemd: {
     restartDelaySeconds: 1,
   },

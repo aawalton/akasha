@@ -1,5 +1,6 @@
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { Service } from "../service/service.page-type.ts"
+import type { Binds } from "./properties/binds.text-property.ts"
 import type { Enabled } from "./properties/enabled.boolean-property.ts"
 import type { NeedsSecrets } from "./properties/needs-secrets.boolean-property.ts"
 import type { Port } from "./properties/port.number-property.ts"
@@ -12,6 +13,7 @@ export type WorkstationService = Service & {
   systemd?: Systemd
   needsSecrets?: NeedsSecrets
   port?: Port
+  binds?: readonly Binds[]
 }
 
 export const workstationService = {
@@ -30,6 +32,7 @@ export const workstationService = {
     "number-property/restart-delay-seconds",
     "number-property/start-timeout-seconds",
     "record-property/systemd",
+    "text-property/binds",
     "text-property/restart",
     "text-property/runs",
     "text-property/schedule",
@@ -40,6 +43,7 @@ export const workstationService = {
     { pagePropertySlug: "systemd", required: false, many: false },
     { pagePropertySlug: "needs-secrets", required: false, many: false },
     { pagePropertySlug: "port", required: false, many: false },
+    { pagePropertySlug: "binds", required: false, many: true, max: null },
   ],
   invariants: [
     {
