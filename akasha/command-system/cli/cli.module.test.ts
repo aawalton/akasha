@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { spawnSync } from "node:child_process"
 import { appendFileSync, cpSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { idCopied, identitiesCopied, idFiled, listedFiled } from "@akasha/indexes/testing"
 import { gitIn as git } from "@akasha/testing-system/gitting"
 import { minting, REFUSES_CODE } from "@akasha/testing-system/minting"
+import { ran as running } from "@akasha/utils-run/running"
 import { AUTHOR } from "../committing/committing.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
@@ -58,12 +58,11 @@ function ran(
   root: string,
   argv: readonly string[]
 ): { readonly said: string; readonly code: number } {
-  const held = spawnSync(process.execPath, [join(root, DISPATCHER), ...argv], {
-    encoding: "utf8",
+  const held = running([process.execPath, join(root, DISPATCHER), ...argv], {
     cwd: root,
     env: { ...process.env, AKASHA_ROOT: root },
   })
-  return { said: `${held.stdout}${held.stderr}`, code: held.status ?? UNCLASSIFIED }
+  return { said: `${held.out}${held.err}`, code: held.code }
 }
 
 test("the glass carries a change past checks that cannot be loaded at all", () => {
