@@ -49,9 +49,19 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     )
   }
 
-  const deviceSecret = await mintDeviceSecret({
+  const minted = await mintDeviceSecret({
     userId: ctx.userId,
     deviceId: parsed.data.deviceId,
   })
-  return Response.json({ ok: true, deviceSecret }, { headers: withCors(ctx.headers, cors) })
+  if (!minted.ok) {
+    process.stderr.write(`[device-secret] mint refused: ${minted.why}\n`)
+    return Response.json(
+      { ok: false, error: "Device secret not minted." },
+      { status: 500, headers: withCors(ctx.headers, cors) }
+    )
+  }
+  return Response.json(
+    { ok: true, deviceSecret: minted.deviceSecret },
+    { headers: withCors(ctx.headers, cors) }
+  )
 }

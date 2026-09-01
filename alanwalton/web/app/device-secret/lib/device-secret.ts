@@ -1,29 +1,22 @@
+import {
+  DEVICE_SECRET_HEADER,
+  DEVICE_SECRET_PREFIX,
+  DEVICE_SECRET_RANDOM_BYTES,
+  hasDeviceSecretShape,
+  type Presented as PresentedDeviceSecret,
+  readPresentedDeviceSecret,
+} from "@akasha/person-system/device-secret-standing"
 import { z } from "zod"
 
-export const DEVICE_SECRET_HEADER = "X-Device-Secret"
-
-export const DEVICE_SECRET_PREFIX = "dvs_v1_"
-
-export const DEVICE_SECRET_RANDOM_BYTES = 32
-const DEVICE_SECRET_BODY_LENGTH = 43
-
-const DEVICE_SECRET_RE = new RegExp(
-  `^${DEVICE_SECRET_PREFIX}[A-Za-z0-9_-]{${DEVICE_SECRET_BODY_LENGTH}}$`
-)
-
-export function hasDeviceSecretShape(value: string): boolean {
-  return DEVICE_SECRET_RE.test(value)
+export {
+  DEVICE_SECRET_HEADER,
+  DEVICE_SECRET_PREFIX,
+  DEVICE_SECRET_RANDOM_BYTES,
+  hasDeviceSecretShape,
+  readPresentedDeviceSecret,
 }
 
-export type PresentedDeviceSecret =
-  | { readonly ok: true; readonly secret: string }
-  | { readonly ok: false; readonly reason: "absent" | "malformed" }
-
-export function readPresentedDeviceSecret(headerValue: string | null): PresentedDeviceSecret {
-  if (headerValue === null || headerValue === "") return { ok: false, reason: "absent" }
-  if (!hasDeviceSecretShape(headerValue)) return { ok: false, reason: "malformed" }
-  return { ok: true, secret: headerValue }
-}
+export type { PresentedDeviceSecret }
 
 export const MintDeviceSecretSchema = z.object({ deviceId: z.string().min(1) }).strict()
 
