@@ -26,6 +26,20 @@ import {
   TWO_CHECKS,
 } from "./checking.module.test-fixtures.ts"
 
+const ONE_TS = "akasha/one.ts"
+
+const TWO_TS = "akasha/two.ts"
+
+const ONE_MD = "akasha/one.md"
+
+const GONE_TS = "akasha/gone.ts"
+
+const STAYS_TS = "akasha/stays.ts"
+
+const OUTSIDE_AT = "tools/agent-decide.ts"
+
+const SHAPED = "folder-matches-a-shape"
+
 afterAll(scratch.sweep)
 
 test("a check is found through the index rather than by walking the tree", () => {
@@ -48,25 +62,25 @@ test("a check is found by the id its page type carries, whatever slug that page 
 
 test("a check is run once over the whole change, and never over the rest of the tree", () => {
   const root = rootWith([{ slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL }])
-  writeFileSync(join(root, "one.ts"), "one")
-  writeFileSync(join(root, "two.ts"), "two")
+  writeFileSync(join(root, ONE_TS), "one")
+  writeFileSync(join(root, TWO_TS), "two")
   const held = onDisk(root)
   const said = judgingBy(checksIn(root)).over({
     root,
-    changed: ["one.ts"],
+    changed: [ONE_TS],
     after: held,
     before: held,
   })
-  expect(said.map((one) => one.path)).toEqual(["one.ts"])
+  expect(said.map((one) => one.path)).toEqual([ONE_TS])
 })
 
 test("a check that threw refuses the change it could not judge, and the refusal names its page", () => {
   const root = rootWith([{ slug: "throws", runsOn: ["patch"], body: THROWS }])
-  writeFileSync(join(root, "one.ts"), "one")
+  writeFileSync(join(root, ONE_TS), "one")
   const held = onDisk(root)
   const said = judgingBy(checksIn(root)).over({
     root,
-    changed: ["one.ts"],
+    changed: [ONE_TS],
     after: held,
     before: held,
   })
@@ -77,15 +91,15 @@ test("a check that threw refuses the change it could not judge, and the refusal 
 
 test("a path the change takes away is handed to every check, and can be refused", () => {
   const root = rootWith([{ slug: "refuses-taking", runsOn: ["patch"], body: REFUSES_TAKING }])
-  writeFileSync(join(root, "stays.ts"), "stays")
+  writeFileSync(join(root, STAYS_TS), "stays")
   const held = onDisk(root)
   const said = judgingBy(checksIn(root)).over({
     root,
-    changed: ["gone.ts", "stays.ts"],
+    changed: [GONE_TS, STAYS_TS],
     after: held,
     before: held,
   })
-  expect(said.map((one) => one.path)).toEqual(["gone.ts"])
+  expect(said.map((one) => one.path)).toEqual([GONE_TS])
   expect(said[0]?.reason).toContain("may not be taken away")
 })
 
@@ -157,11 +171,11 @@ test("checks standing but none at a phase leaves that phase empty rather than re
 
 test("one shadow is cast over the change and handed to every check that runs", () => {
   const root = rootWith([{ slug: "names-shadow", runsOn: ["patch"], body: NAMES_SHADOW }])
-  writeFileSync(join(root, "one.ts"), "one")
+  writeFileSync(join(root, ONE_TS), "one")
   const held = onDisk(root)
   const said = judgingBy(checksIn(root)).over({
     root,
-    changed: ["one.ts"],
+    changed: [ONE_TS],
     after: held,
     before: held,
   })
@@ -170,11 +184,11 @@ test("one shadow is cast over the change and handed to every check that runs", (
 
 test("a check no changed path is input to does not run", () => {
   const root = rootWith(TWO_CHECKS)
-  writeFileSync(join(root, "one.md"), "one")
+  writeFileSync(join(root, ONE_MD), "one")
   const held = onDisk(root)
   const said = judgingBy(checksIn(root)).over({
     root,
-    changed: ["one.md"],
+    changed: [ONE_MD],
     after: held,
     before: held,
   })
@@ -184,26 +198,26 @@ test("a check no changed path is input to does not run", () => {
 
 test("a check stating no input runs over a change its neighbour sleeps through", () => {
   const root = rootWith(TWO_CHECKS)
-  writeFileSync(join(root, "one.md"), "one")
+  writeFileSync(join(root, ONE_MD), "one")
   const every = checksIn(root)
   expect(every.map((one) => `${one.slug} ${one.isInput === null}`)).toEqual([
     "input-ts false",
     "refuses-all true",
   ])
   const held = onDisk(root)
-  const change = { root, changed: ["one.md"], after: held, before: held }
+  const change = { root, changed: [ONE_MD], after: held, before: held }
   const taken = checksFor(every, change, shadowAsked(change))
   expect(taken.map((one) => one.slug)).toEqual(["refuses-all"])
 })
 
 test("a check whose input could not be answered runs, its neighbour taken as it would have been", () => {
   const root = rootWith(INPUT_THROWS_CHECKS)
-  writeFileSync(join(root, "one.md"), "one")
-  writeFileSync(join(root, "two.ts"), "two")
+  writeFileSync(join(root, ONE_MD), "one")
+  writeFileSync(join(root, TWO_TS), "two")
   const every = checksIn(root)
   const held = onDisk(root)
-  const overMd = { root, changed: ["one.md"], after: held, before: held }
-  const overTs = { root, changed: ["two.ts"], after: held, before: held }
+  const overMd = { root, changed: [ONE_MD], after: held, before: held }
+  const overTs = { root, changed: [TWO_TS], after: held, before: held }
   expect(checksFor(every, overMd, shadowAsked(overMd)).map((one) => one.slug)).toEqual([
     "input-throws",
   ])
@@ -220,11 +234,11 @@ test("a check whose input could not be answered runs, its neighbour taken as it 
 
 test("a check a changed path is input to runs, and judges every path in the change", () => {
   const root = rootWith(TWO_CHECKS)
-  writeFileSync(join(root, "two.ts"), "two")
+  writeFileSync(join(root, TWO_TS), "two")
   const held = onDisk(root)
   const said = judgingBy(checksIn(root)).over({
     root,
-    changed: ["two.ts"],
+    changed: [TWO_TS],
     after: held,
     before: held,
   })
@@ -258,16 +272,29 @@ test("a page is input to a check bounded to the pages, its input having asked th
 
 test("`checksFor` names the checks that ran and `named` names every check the gate holds", () => {
   const root = rootWith(TWO_CHECKS)
-  writeFileSync(join(root, "one.md"), "one")
-  writeFileSync(join(root, "two.ts"), "two")
+  writeFileSync(join(root, ONE_MD), "one")
+  writeFileSync(join(root, TWO_TS), "two")
   const held = onDisk(root)
   const gate = judgingBy(checksIn(root))
-  const overMd = { root, changed: ["one.md"], after: held, before: held }
-  const overBoth = { root, changed: ["one.md", "two.ts"], after: held, before: held }
+  const overMd = { root, changed: [ONE_MD], after: held, before: held }
+  const overBoth = { root, changed: [ONE_MD, TWO_TS], after: held, before: held }
   expect(gate.named).toEqual(["input-ts", "refuses-all"])
   expect(gate.checksFor(overMd)).toEqual(["refuses-all"])
   expect(gate.checksFor(overBoth)).toEqual(["input-ts", "refuses-all"])
   expect(gate.over(overMd).map((one) => one.reason)).toEqual(["refused"])
+})
+
+test("a path outside the akasha folder is passed over rather than refused", () => {
+  const root = rootWith([{ slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL }])
+  writeFileSync(join(root, ONE_TS), "one")
+  const held = onDisk(root)
+  const said = judgingBy(checksIn(root)).over({
+    root,
+    changed: [ONE_TS, OUTSIDE_AT],
+    after: held,
+    before: held,
+  })
+  expect(said.map((one) => one.path)).toEqual([ONE_TS])
 })
 
 function over(changed: readonly string[]): Change {
@@ -288,4 +315,12 @@ test("a check refuses nothing in a change its own input turns away whole", () =>
     expect([one.slug, one.run(change, shadowAsked(change))]).toEqual([one.slug, []])
   }
   expect(taken.length).toBeGreaterThan(0)
+})
+
+test("a check carrying no guard of its own takes no path outside the akasha folder", () => {
+  const gate = judgingBy(checksIn(ROOT).filter((one) => one.slug === SHAPED))
+  expect(gate.named).toEqual([SHAPED])
+  expect(gate.checksFor(over([OUTSIDE_AT]))).toEqual([])
+  expect(gate.over(over([OUTSIDE_AT]))).toEqual([])
+  expect(gate.checksFor(over(SAMPLED))).toEqual([SHAPED])
 })
