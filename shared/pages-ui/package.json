@@ -59,7 +59,7 @@
     "@akasha/errors-client": "workspace:*",
     "@shared/object-store": "workspace:*",
     "@akasha/recurrence": "workspace:*",
-    "@shared/supabase-rr": "workspace:*",
+    "@akasha/supabase-rr": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@tanstack/react-virtual": "*",
     "sonner": "^2.0.7",

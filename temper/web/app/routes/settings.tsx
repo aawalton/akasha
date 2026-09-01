@@ -1,6 +1,6 @@
 import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
-import { getUser } from "@shared/supabase-rr/auth/server"
+import { getUser } from "@akasha/supabase-rr/auth-server"
 import { Suspense } from "react"
 import { data, redirect, useSearchParams } from "react-router"
 import { SettingsPageContent } from "@/components/settings/settings-page-content"

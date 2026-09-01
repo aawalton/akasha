@@ -1,4 +1,5 @@
-import { getUser, type SupabaseUser } from "@shared/supabase-rr/auth/server"
+import { type SupabaseUser } from "@akasha/supabase-auth/supabase-user"
+import { getUser } from "@akasha/supabase-rr/auth-server"
 import { redirect } from "react-router"
 
 export const SIGN_IN_PATH = "/sign-in"

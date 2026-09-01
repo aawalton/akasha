@@ -7,7 +7,7 @@ import { SupabasePageResolverProvider } from "@shared/pages-ui/supabase/page-res
 import { reportPagesStoreStall } from "@akasha/pages-ui-store/report-stall"
 import { configurePagesStoreAuth, getPagesStore } from "@akasha/pages-ui-store/singleton"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { useSupabase } from "@shared/supabase-rr/provider"
+import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { type ReactNode, useEffect, useRef, useState } from "react"
 import { z } from "zod"
 import { useTemperPagesResolver } from "@/hooks/hooks-pages-resolver"

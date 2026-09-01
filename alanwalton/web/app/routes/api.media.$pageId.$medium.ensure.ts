@@ -1,5 +1,5 @@
 import { getPage } from "@akasha/pages-access/get"
-import { resolveRequestUser } from "@shared/supabase-rr/auth/server"
+import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { ensureReadAloudRendition, resolveChapterKokoroSegments } from "~/lib/kokoro-render"
 import type { Route } from "./+types/api.media.$pageId.$medium.ensure"
 

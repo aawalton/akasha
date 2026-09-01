@@ -3,7 +3,7 @@
 import { type AuthMode, type AuthSubmitPayload, AuthPageContent as DSAuthPageContent } from "@akasha/design-patterns/auth-page-content"
 import { usePagesUIRouter } from "@shared/pages-ui/router-context"
 import { safeInternalPath } from "@akasha/pages-url/safe-target"
-import { signInWithPassword, signUpWithPassword } from "@shared/supabase-rr/auth/client"
+import { signInWithPassword, signUpWithPassword } from "@akasha/supabase-rr/auth-client"
 import type { ReactNode } from "react"
 import { useState } from "react"
 import { clearLastPath, getLastPath } from "@/components/utils/path-tracker"

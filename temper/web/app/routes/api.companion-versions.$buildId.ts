@@ -1,6 +1,6 @@
 import { getPages } from "@akasha/pages-access/get"
-import { getUser } from "@shared/supabase-rr/auth/server"
-import { createServerClient } from "@shared/supabase-rr/server"
+import { getUser } from "@akasha/supabase-rr/auth-server"
+import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { BuildId } from "@temper/shared-formula-framework/branded"
 import type { Route } from "./+types/api.companion-versions.$buildId"
 

@@ -1,4 +1,4 @@
-import { resolveRequestUser } from "@shared/supabase-rr/auth/server"
+import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
 import { loadGame } from "../awen/lib/game.server"
 import { deliverPlayerAction } from "../awen/lib/submit-action.server"

@@ -1,4 +1,4 @@
-import { refreshSession } from "@shared/supabase-rr/proxy"
+import { refreshSession } from "@akasha/supabase-rr/session-refresh"
 import { redirect } from "react-router"
 import type { Route } from "./+types/sign-out"
 

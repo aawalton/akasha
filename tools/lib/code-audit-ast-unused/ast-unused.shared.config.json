@@ -103,14 +103,6 @@
         "**/*.ts"
       ]
     },
-    "shared/supabase-rr": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "shared/utils-narrow": {
       "entry": [
         "**/*.test.{ts,tsx}"

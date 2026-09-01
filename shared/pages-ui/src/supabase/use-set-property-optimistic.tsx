@@ -1,7 +1,7 @@
 "use client"
 
 import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
-import { useSupabase } from "@shared/supabase-rr/provider"
+import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { isJson } from "@shared/utils-narrow/is-json"
 import { useCallback, useMemo } from "react"
 import type { InteractionToken } from "../perf/page-card-perf"

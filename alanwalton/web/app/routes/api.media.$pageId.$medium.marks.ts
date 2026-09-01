@@ -1,6 +1,6 @@
 import { seaweedFSObjectStoreFromEnv } from "@shared/object-store"
 import { getPage } from "@akasha/pages-access/get"
-import { resolveRequestUser } from "@shared/supabase-rr/auth/server"
+import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { resolveFromNSentenceMarks } from "~/lib/read-aloud-marks"
 import type { Route } from "./+types/api.media.$pageId.$medium.marks"
 

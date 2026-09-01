@@ -1,4 +1,4 @@
-import { getUser } from "@shared/supabase-rr/auth/server"
+import { getUser } from "@akasha/supabase-rr/auth-server"
 import { z } from "zod"
 import { searchPlaces } from "~/lib/geoapify.server"
 import type { Route } from "./+types/api.places.search"

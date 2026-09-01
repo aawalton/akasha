@@ -1,8 +1,8 @@
 import { createPage } from "@akasha/pages-access/create"
 import { buildPageHref, slugStem } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { getUser } from "@shared/supabase-rr/auth/server"
-import { createServerClient } from "@shared/supabase-rr/server"
+import { getUser } from "@akasha/supabase-rr/auth-server"
+import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { placeCandidateSchema } from "~/lib/place-candidate"
 import type { Route } from "./+types/api.places.add"
 

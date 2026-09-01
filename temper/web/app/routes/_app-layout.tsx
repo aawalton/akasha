@@ -1,5 +1,5 @@
 import { getPages } from "@akasha/pages-access/get"
-import { getUser } from "@shared/supabase-rr/auth/server"
+import { getUser } from "@akasha/supabase-rr/auth-server"
 import { Suspense } from "react"
 import { data, Outlet } from "react-router"
 import { AuthProviderWrapper } from "@/components/providers/auth-provider-wrapper"

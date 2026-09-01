@@ -1,6 +1,6 @@
 import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
-import { getUser } from "@shared/supabase-rr/auth/server"
+import { getUser } from "@akasha/supabase-rr/auth-server"
 import { ShoppingPageContent } from "@temper/player-economics-ui/shopping-page-content"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"

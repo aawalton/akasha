@@ -2,7 +2,7 @@ import { DEFAULT_VOICE_INFER_URL } from "@akasha/voice-core/voice/infer-endpoint
 import { buildKokoroSpeechSegments } from "@akasha/voice-core/voice/speech"
 import { getPage } from "@akasha/pages-access/get"
 import { getMediaConfig } from "@akasha/pages-access/page-type-config"
-import { resolveRequestUser } from "@shared/supabase-rr/auth/server"
+import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { ensureReadAloudRendition } from "~/lib/kokoro-render"
 import type { Route } from "./+types/api.media.$pageId.$medium.stream"
 

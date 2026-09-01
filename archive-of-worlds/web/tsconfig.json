@@ -39,9 +39,6 @@
     },
     {
       "path": "../../shared/pages-ui"
-    },
-    {
-      "path": "../../shared/supabase-rr"
     }
   ],
   "include": [

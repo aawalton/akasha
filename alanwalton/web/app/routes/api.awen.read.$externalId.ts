@@ -1,4 +1,4 @@
-import { resolveRequestUser } from "@shared/supabase-rr/auth/server"
+import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
 import { markTurnRead } from "../awen/lib/mark-turn-read.server"
 import { ReadMarkInputSchema } from "../awen/lib/submit-read-mark"

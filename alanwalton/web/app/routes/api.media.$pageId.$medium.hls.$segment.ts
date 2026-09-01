@@ -2,7 +2,7 @@ import { type ObjectStreamResult, seaweedFSObjectStoreFromEnv } from "@shared/ob
 import { hlsSegmentObjectKey } from "@shared/object-store/keys"
 import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
 import { MEDIA_UUID_PATTERN, MEDIA_VARIANT_PATTERN, mediaPageStands } from "@shared/pages-ui/media/serve-media"
-import { resolveRequestUser } from "@shared/supabase-rr/auth/server"
+import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
 import type { Route } from "./+types/api.media.$pageId.$medium.hls.$segment"
 

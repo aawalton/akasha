@@ -15,8 +15,8 @@ import {
   PagesUIRouterProvider,
 } from "@shared/pages-ui/router-context"
 import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
-import { SupabaseProvider } from "@shared/supabase-rr/provider"
-import { type AuthRouteConfig, authGuard } from "@shared/supabase-rr/auth/proxy"
+import { SupabaseProvider } from "@akasha/supabase-rr/supabase-provider"
+import { type AuthRouteConfig, authGuard } from "@akasha/supabase-rr/auth-guard"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect, useMemo } from "react"
 import {

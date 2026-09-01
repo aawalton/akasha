@@ -12,8 +12,8 @@ import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-rep
 import type { ViteSupabaseRrDefineViolation } from "./check-vite-supabase-rr-define-json-contract.ts"
 
 const PREFIX = "[vite-supabase-rr-define]"
-const SUPABASE_RR_PKG = "@shared/supabase-rr"
-const HELPER_SPECIFIER = "@shared/supabase-rr/vite"
+const SUPABASE_RR_PKG = "@akasha/supabase-rr"
+const HELPER_SPECIFIER = "@akasha/supabase-rr/client-env-define"
 const HELPER_NAME = "supabaseClientEnvDefine"
 const VITE_CONFIG_BASENAME = "vite.config.ts"
 const DEFINE_PROPERTY = "define"

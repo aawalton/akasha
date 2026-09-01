@@ -1,6 +1,6 @@
 import type { Database } from "@akasha/supabase-database"
-import { getUser, getUserFromBearerToken, parseBearerToken } from "@shared/supabase-rr/auth/server"
-import { createBearerScopedClient, createServerClient } from "@shared/supabase-rr/server"
+import { getUser, getUserFromBearerToken, parseBearerToken } from "@akasha/supabase-rr/auth-server"
+import { createBearerScopedClient, createServerClient } from "@akasha/supabase-rr/server-client"
 import type { SupabaseClient } from "@supabase/supabase-js"
 
 export type LocationIngestSupabase = SupabaseClient<Database>

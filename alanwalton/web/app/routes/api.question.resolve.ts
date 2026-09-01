@@ -1,4 +1,4 @@
-import { resolveRequestUser } from "@shared/supabase-rr/auth/server"
+import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { z } from "zod"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
 import { resolveQuestion } from "~/questions/lib/resolve-question.server"

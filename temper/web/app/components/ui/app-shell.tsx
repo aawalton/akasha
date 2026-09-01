@@ -6,7 +6,7 @@ import { type AppNavConfig } from "@akasha/design-layout/nav-types"
 import { SortableNavs } from "@shared/pages-ui/components/sortable-navs"
 import { useAppNavItems } from "@shared/pages-ui/components/use-app-nav-items"
 import { useAppVersionCheck } from "@akasha/pages-ui/app-version/use-app-version-check"
-import { signOut } from "@shared/supabase-rr/auth/client"
+import { signOut } from "@akasha/supabase-rr/auth-client"
 import { LogOut } from "lucide-react"
 import { useMemo } from "react"
 import {

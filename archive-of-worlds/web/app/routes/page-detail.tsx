@@ -4,7 +4,7 @@ import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
-import { createServerClient } from "@shared/supabase-rr/server"
+import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { data } from "react-router"
 import type { Route } from "./+types/page-detail"
 

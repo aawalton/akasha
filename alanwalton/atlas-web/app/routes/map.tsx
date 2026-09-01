@@ -1,6 +1,6 @@
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { collectPages } from "@akasha/pages-access/iterate"
-import { createServerClient } from "@shared/supabase-rr/server"
+import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { data } from "react-router"
 import { z } from "zod"
 import { LocationMap } from "~/components/location-map"

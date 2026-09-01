@@ -1,4 +1,4 @@
-import { getBrowserClient } from "@shared/supabase-rr/browser"
+import { getBrowserClient } from "@akasha/supabase-rr/browser-client"
 import { isNativeShell } from "~/lib/capacitor-bridge"
 import { API_ORIGIN } from "./api-origin"
 

@@ -1,7 +1,7 @@
 import { getPageTypeByPluralSlug } from "@akasha/pages-access/page-type"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PagesFilteredContent } from "@shared/pages-ui/components/pages-by-relation-content"
-import { createServerClient } from "@shared/supabase-rr/server"
+import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { Suspense } from "react"
 import { data } from "react-router"
 import type { Route } from "./+types/page-listing"

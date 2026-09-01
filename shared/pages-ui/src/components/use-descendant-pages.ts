@@ -9,7 +9,7 @@ import { type ListingConfig, listingIncludesDescendants } from "@akasha/pages-co
 import { resolveDescendantPageTypeIds } from "@akasha/pages-core/schema/page-type-inheritance"
 import { type ViewSort } from "@akasha/pages-core/schema/view-data"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { useSupabase } from "@shared/supabase-rr/provider"
+import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect, useMemo, useRef, useState } from "react"
 import { type PageWithProperties, toPageWithProperties } from "../supabase/types"
 

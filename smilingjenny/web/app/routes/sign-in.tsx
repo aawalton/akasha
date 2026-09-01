@@ -1,5 +1,5 @@
 import { AuthPageContent } from "@akasha/design-patterns/auth-page-content"
-import { signInWithPassword } from "@shared/supabase-rr/auth/client"
+import { signInWithPassword } from "@akasha/supabase-rr/auth-client"
 
 export default function SignIn() {
   return (

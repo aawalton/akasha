@@ -1,6 +1,6 @@
 import { getPageByIdSuffix } from "@akasha/pages-access/get"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { createServerClient } from "@shared/supabase-rr/server"
+import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { buildNavIconSvg } from "~/lib/nav-icon-svg"
 import type { Route } from "./+types/api.nav-icon.$idSuffix"
 

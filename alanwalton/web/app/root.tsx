@@ -6,7 +6,7 @@ import { ErrorCaptureInstaller } from "@akasha/errors-client/error-capture-insta
 import { reportError } from "@akasha/errors-client/error-reporting"
 import { useReportRenderError } from "@akasha/errors-client/use-report-render-error"
 import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
-import { type AuthRouteConfig, authGuard } from "@shared/supabase-rr/auth/proxy"
+import { type AuthRouteConfig, authGuard } from "@akasha/supabase-rr/auth-guard"
 import type React from "react"
 import { useEffect } from "react"
 import {

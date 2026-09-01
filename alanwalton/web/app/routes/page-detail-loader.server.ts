@@ -8,7 +8,7 @@ import type { ReaderNeighborLink } from "@shared/pages-ui/components/reader-chro
 import type { MediaVariant } from "@shared/pages-ui/media/page-media-player"
 import { buildPageHref, parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { getRequestServerClient, resolveRequestSession } from "@shared/supabase-rr/request-session-cache"
+import { getRequestServerClient, resolveRequestSession } from "@akasha/supabase-rr/request-session-cache"
 import { isRecord } from "../../../../shared/utils-narrow/src/is-record"
 import { data } from "react-router"
 import { z } from "zod"

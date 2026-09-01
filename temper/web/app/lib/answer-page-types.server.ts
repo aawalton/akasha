@@ -1,5 +1,5 @@
 import { answerPageTypes as answerFrom, pageTypesDeps } from "@akasha/pages-access/answer"
-import { getUser } from "@shared/supabase-rr/auth/server"
+import { getUser } from "@akasha/supabase-rr/auth-server"
 
 const DEPS = pageTypesDeps(getUser)
 

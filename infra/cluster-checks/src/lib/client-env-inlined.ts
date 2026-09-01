@@ -113,7 +113,7 @@ export function scanClientEnvRefs(args: {
       node,
       key,
       "direct",
-      `\`process.env.${key}\` is referenced in client-bundled code but not handled by any vite define (would inline to undefined) — add it to REQUIRED_KEYS/OPTIONAL_KEYS in @shared/supabase-rr/src/vite.ts, or stop referencing it.`
+      `\`process.env.${key}\` is referenced in client-bundled code but not handled by any vite define (would inline to undefined) — add it to REQUIRED_KEYS/OPTIONAL_KEYS in @akasha/supabase-rr/client-env-define, or stop referencing it.`
     )
   }
 

@@ -18,7 +18,7 @@ import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-rep
 const PREFIX = "[client-env-inlined]"
 
 const DEFINE_SOURCES = [
-  "shared/supabase-rr/src/vite.ts",
+  "akasha/supabase-rr/client-env-define/client-env-define.module.code.ts",
   "shared/pages-ui/src/vite.ts",
 ] as const
 

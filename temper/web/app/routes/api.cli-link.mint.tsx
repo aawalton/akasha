@@ -1,4 +1,4 @@
-import { getUser } from "@shared/supabase-rr/auth/server"
+import { getUser } from "@akasha/supabase-rr/auth-server"
 import { getSupabaseServiceClient } from "@/lib/supabase-server"
 import type { Route } from "./+types/api.cli-link.mint"
 
