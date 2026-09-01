@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/pages-formula",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./formula-language/formula-language.module.code.ts",
+    "./held": "./formula-held/formula-held.module.code.ts"
+  },
+  "dependencies": {
+    "@shared/utils-narrow": "workspace:*"
+  }
+}
