@@ -1,0 +1,16 @@
+{
+  "name": "@akasha/errors-client",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./error-reporting": "./error-reporting/error-reporting.module.code.ts",
+    "./global-error-capture": "./global-error-capture/global-error-capture.module.code.ts",
+    "./use-report-render-error": "./use-report-render-error/use-report-render-error.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
+  }
+}
