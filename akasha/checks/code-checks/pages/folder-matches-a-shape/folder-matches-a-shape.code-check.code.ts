@@ -1,7 +1,6 @@
 import { createRequire } from "node:module"
 import { basename, join } from "node:path"
 import { NAMING_NONE, type Naming } from "@akasha/code-system/code-specifier"
-import { importersOf } from "@akasha/indexes"
 import type { Answering } from "@akasha/indexes/answering"
 import { edgesIn } from "@akasha/indexes/import"
 import { reachingIn } from "@akasha/indexes/package-reaching"
@@ -139,18 +138,9 @@ export function foldersTouchedBy(
   return found
 }
 
-function enteringOf(change: Change, naming: Naming): (folder: string, path: string) => boolean {
-  const now = new Map<string, ReadonlySet<string>>()
-  for (const one of change.changed) {
-    now.set(one, edgesOf(change.root, one, change.after(one), naming))
-  }
+function enteringOf(shadow: Shadow): (folder: string, path: string) => boolean {
   return (folder, path) => {
-    const from = new Set<string>(importersOf(change.root, path))
-    for (const [one, edges] of now) {
-      if (edges.has(path)) from.add(one)
-      else from.delete(one)
-    }
-    for (const one of from) {
+    for (const one of shadow.index.importersOf(path)) {
       if (!one.startsWith(`${folder}/`)) return true
     }
     return false
@@ -207,7 +197,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     return held.has(pageTypeSlug)
   }
   const files = listedFiles(shadow.index, change)
-  const entering = enteringOf(change, naming)
+  const entering = enteringOf(shadow)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
     const here = files.filter((one) => folderOf(one) === folder)

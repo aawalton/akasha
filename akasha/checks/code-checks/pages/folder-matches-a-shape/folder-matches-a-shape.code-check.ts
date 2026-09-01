@@ -68,6 +68,10 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "Which files import a path is read from the index as the change leaves the index.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A shape's code is loaded from wherever on disk its body stands rather than from where the change leaves it.",
     },
