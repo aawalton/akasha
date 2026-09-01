@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code-system/module"
 
-export const readoutCategorization = {
+export const readoutServing = {
   id: "01a05bc9-a678-768f-ba6e-f91fdcf9ec6d",
   pageTypeSlug: "module",
-  slug: "readout-categorization",
+  slug: "readout-serving",
   definition: "what a route answers when a caller asks for one readout's reading",
   code: "ts",
   test: "ts",

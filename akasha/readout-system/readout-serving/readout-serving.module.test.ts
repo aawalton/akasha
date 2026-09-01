@@ -5,7 +5,7 @@ import {
   answerReadout,
   answerReadoutAdmittedBy,
   relayedFresh,
-} from "./readout-categorization.module.code.ts"
+} from "./readout-serving.module.code.ts"
 
 const CREDENTIAL = "a-ring-credential-named-only-in-this-test"
 
