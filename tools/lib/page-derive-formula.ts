@@ -5,8 +5,8 @@ import {
   type DeclaredType,
   type Shape,
   type Value as Worked,
-} from "@shared/pages-system/formula"
-import { heldBy, valuedAs } from "@shared/pages-system/read/held"
+} from "@akasha/pages-formula"
+import { heldBy, valuedAs } from "@akasha/pages-formula/held"
 import type { Property } from "../../page/property/property.ts"
 import { EXPRESSION } from "./page-declared.ts"
 import type { Held } from "./page-file-values.ts"
