@@ -156,7 +156,7 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement:
-        "A name already carried in the file refuses a rename only where either scope encloses the other scope.",
+        "A name already carried in the file refuses a rename only where either scope encloses the other.",
     },
     {
       invariantKind: "departure",
