@@ -1,11 +1,14 @@
-import { patchPage, readFiles, writeFiles, type Written } from "@shared/pages-query"
+import { readFiles, writeFiles, type Written } from "@shared/pages-query"
 
 /**
  * A persona stands as a TypeScript file under `akasha/`, and the page store writes a path and a
  * whole body rather than the keys a page carries. So a persona's total is landed by carrying her
  * whole body back with one line changed, through the same gate the `akasha` command line lands on.
- * Every other page type this engine writes still stands as a file the store composes, and those
- * keep going through `patchPage`.
+ *
+ * That is now the only road in. A keyed write refuses: nothing in akasha renders a page's body out
+ * of the keys it carries, so `patchPage` and its kin cannot become a file. Any page type whose
+ * total is not landed this way is refused here rather than sent down a road that answers a refusal
+ * the caller would read as a total already standing.
  */
 export const PERSONA_PAGE_TYPE_SLUG = "persona"
 
@@ -96,13 +99,20 @@ async function landedOnPersona(slug: string, totalPoints: number): Promise<Writt
 
 /**
  * Lands a total on the page that holds it, by whichever route that page type is written through.
+ * A persona is written as a whole body. Nothing else has a route, so nothing else is attempted.
  */
 export async function landTotalPoints(
   pageTypeSlug: string,
   slug: string,
   totalPoints: number,
-  writer: string
+  _writer: string
 ): Promise<Written> {
   if (pageTypeSlug === PERSONA_PAGE_TYPE_SLUG) return landedOnPersona(slug, totalPoints)
-  return patchPage(pageTypeSlug, slug, { "total-points": totalPoints }, writer)
+  return {
+    ok: false,
+    why:
+      `a total of ${totalPoints} for \`${pageTypeSlug}/${slug}\` went unwritten: a total is landed ` +
+      `by carrying a page's whole body back, and only \`${PERSONA_PAGE_TYPE_SLUG}\` has a body this ` +
+      "knows how to set a total in",
+  }
 }

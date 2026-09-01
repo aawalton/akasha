@@ -7,7 +7,11 @@ export { GREEN_DAY_POINTS_FIELD } from "@akasha/personas-core/green-day-fraction
 export { PERSONA_POINTS_SOURCE_COHERENCE_RULES } from "@akasha/personas-core/points-source-coherence"
 export { decideTotalPointsWrite } from "@akasha/personas-core/totals"
 export { evaluateCoherenceRules } from "@akasha/pages-core/schema/coherence-rules"
-export { askNamed, patchPage } from "@shared/pages-query"
+// `askNamed` and `patchPage` were re-exported here, and six files in this tier took them from
+// this module rather than from the package. Both refuse permanently — a saved query is answered by
+// a page engine that was removed, and a keyed write cannot become a file — and the re-export is
+// why that went unseen: no search for `@shared/pages-query` named any of the six. Whoever needs
+// the store now names the package at the call site, so the next such refusal is findable.
 export { askComposed } from "@shared/pages-query/ask"
 import { getEsoDayStrOffset as esoDayStrOffset } from "@akasha/day/eso-day"
 

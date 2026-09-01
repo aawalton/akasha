@@ -1,48 +1,75 @@
+import type { Asked, Query, Row } from "@akasha/pages-system-service/asking"
+import { askingFor } from "@akasha/pages-system-service/calling"
 import { slugNamed } from "../../../page/page-address.ts"
-import { askNamed, numberOf, textOf } from "./tracking-modules.ts"
-import type { Asked, QueryRow } from "./tracking-types.ts"
+import { numberOf, textOf } from "./tracking-modules.ts"
 
-const PERSONA_QUERY = "persona-all"
-const POINTS_SOURCE_QUERY = "persona-points-source-all"
+const PERSONA_PAGE_TYPE_SLUG = "persona"
+const POINTS_SOURCE_PAGE_TYPE_SLUG = "persona-points-source"
 
+/**
+ * The keys the persona recipe is built from. `seq` and `title` stood in the saved query this
+ * replaces and are left out: no persona declares either, and asking for one is refused outright
+ * rather than answered absent. A persona's title was already falling back to her slug, so nothing
+ * that reads a recipe row loses a value it was being given.
+ */
+const PERSONA_KEYS = [
+  "id",
+  "slug",
+  "cover",
+  "valueSlug",
+  "greenDayPoints",
+  "totalPoints",
+] as const
+
+/**
+ * What a points source page carries, under the name a recipe row reads it by. The service answers
+ * a page's keys in the spelling a page type exports, so a multi-word key is camel here rather than
+ * kebab as the saved query spelled it.
+ */
 const SOURCE_KEYS = {
   kind: "pointsSourceKind",
   marker: "pointsSource",
   aggregate: "pointsSourceAggregate",
-  "path-prefix": "pointsPathPrefix",
-  "point-field": "pointsSourcePointField",
-  "weight-field": "pointsSourceWeightField",
+  pathPrefix: "pointsPathPrefix",
+  pointField: "pointsSourcePointField",
+  weightField: "pointsSourceWeightField",
 } as const
 
-function everyRowIn(named: string, asked: Asked): readonly QueryRow[] {
-  if (!asked.ok) throw new Error(`\`${named}\` went unread: ${asked.why}`)
-  const { n, rows } = asked.answer
-  if (rows.length !== n) {
-    throw new Error(
-      `\`${named}\` answered with ${rows.length} of ${n} page(s), so nothing it fails to ` +
-        `name can be told from what it never showed`
-    )
-  }
-  return rows
+export const PERSONA_ASKING: Query = {
+  pageTypeSlug: PERSONA_PAGE_TYPE_SLUG,
+  keys: [...PERSONA_KEYS],
+  sortBy: "slug",
+}
+
+export const POINTS_SOURCE_ASKING: Query = { pageTypeSlug: POINTS_SOURCE_PAGE_TYPE_SLUG }
+
+/**
+ * The rows a question answered with, or the refusal it answered with instead. A recipe built from
+ * half an answer would describe personas earning nothing, so a refusal is carried up rather than
+ * read as an empty set.
+ */
+function everyRowIn(what: string, asked: Asked): readonly Row[] {
+  if ("refused" in asked) throw new Error(`${what} went unread: ${asked.refused}`)
+  return asked.rows
 }
 
 export async function personaRecipeRows(): Promise<
   readonly Readonly<Record<string, unknown>>[]
 > {
   const [personas, sources] = await Promise.all([
-    askNamed(PERSONA_QUERY),
-    askNamed(POINTS_SOURCE_QUERY),
+    askingFor(PERSONA_ASKING),
+    askingFor(POINTS_SOURCE_ASKING),
   ])
-  const personaRows = everyRowIn(PERSONA_QUERY, personas)
-  const sourceRows = everyRowIn(POINTS_SOURCE_QUERY, sources)
+  const personaRows = everyRowIn(`the \`${PERSONA_PAGE_TYPE_SLUG}\` pages`, personas)
+  const sourceRows = everyRowIn(`the \`${POINTS_SOURCE_PAGE_TYPE_SLUG}\` pages`, sources)
 
   const sourceByPersona = new Map<string, Record<string, unknown>>()
   for (const row of sourceRows) {
-    const persona = slugNamed(textOf(row.values["domain-parent-slug"]) ?? null)
+    const persona = slugNamed(textOf(row.domainParentSlug) ?? null)
     if (persona === null) continue
     const held: Record<string, unknown> = {}
-    for (const [fileKey, rowKey] of Object.entries(SOURCE_KEYS)) {
-      const value = textOf(row.values[fileKey])
+    for (const [pageKey, rowKey] of Object.entries(SOURCE_KEYS)) {
+      const value = textOf(row[pageKey])
       if (value !== undefined) held[rowKey] = value
     }
     sourceByPersona.set(persona, held)
@@ -50,16 +77,16 @@ export async function personaRecipeRows(): Promise<
 
   const out: Record<string, unknown>[] = []
   for (const row of personaRows) {
-    const id = textOf(row.values.id)
-    const slug = textOf(row.values.slug)
+    const id = textOf(row.id)
+    const slug = textOf(row.slug)
     if (id === undefined || slug === undefined) continue
-    const greenDayPoints = numberOf(row.values["green-day-points"])
-    const totalPoints = numberOf(row.values["total-points"])
-    const valueSlug = textOf(row.values["value-slug"])
+    const greenDayPoints = numberOf(row.greenDayPoints)
+    const totalPoints = numberOf(row.totalPoints)
+    const valueSlug = textOf(row.valueSlug)
     out.push({
       id,
       slug,
-      title: textOf(row.values.title) ?? slug,
+      title: slug,
       ...(valueSlug === undefined ? {} : { valueSlug }),
       ...(greenDayPoints === undefined ? {} : { greenDayPoints }),
       ...(totalPoints === undefined ? {} : { totalPoints }),
