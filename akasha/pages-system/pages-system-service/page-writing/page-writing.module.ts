@@ -18,7 +18,7 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "What a write puts and what it takes away are stated apart.",
+      statement: "What a write puts and what the write takes away are stated apart.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "The commit a write states is taken by any name git resolves to one.",
+      statement: "The commit a write states is taken by any name git resolves to a commit.",
     },
     {
       invariantKind: "departure",
@@ -51,11 +51,11 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A write stating one lands in a batch of its own.",
+      statement: "A write stating a commit lands in a batch of its own.",
     },
     {
       invariantKind: "absence",
-      statement: "A write stating none is taken as read against what stands.",
+      statement: "A write stating no commit is taken as read against what stands.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +63,7 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is formatted before it lands.",
+      statement: "A body is formatted before the body lands.",
     },
     {
       invariantKind: "departure",

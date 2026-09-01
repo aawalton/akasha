@@ -13,7 +13,8 @@ export const markdownPageAt = {
     },
     {
       invariantKind: "departure",
-      statement: "A set of roots may name a repository it stands under as its target.",
+      statement:
+        "A set of roots may name a repository the set of roots stands under as its target.",
     },
   ],
 } as const satisfies Module

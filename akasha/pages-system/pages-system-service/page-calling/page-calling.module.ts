@@ -10,7 +10,8 @@ export const pageCalling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A caller reaches the pages through this rather than through a store of its own.",
+      statement:
+        "A caller reaches the pages through this module rather than through a store of its own.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +51,7 @@ export const pageCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A reason names how many attempts were spent and where they went.",
+      statement: "A reason names how many attempts were spent and where those attempts went.",
     },
     {
       invariantKind: "departure",

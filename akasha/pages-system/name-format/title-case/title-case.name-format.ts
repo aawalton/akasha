@@ -23,7 +23,7 @@ export const titleCase = {
     },
     {
       invariantKind: "constraint",
-      statement: "A name padded or doubly spaced is not written in it.",
+      statement: "A name padded or doubly spaced is not written in title case.",
     },
   ],
 } as const satisfies NameFormat

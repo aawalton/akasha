@@ -9,7 +9,7 @@ export const pointsSourceCoherence = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A windowed source must name how it aggregates.",
+      statement: "A windowed source must name how the source aggregates.",
     },
     {
       invariantKind: "departure",

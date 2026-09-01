@@ -21,7 +21,7 @@ export const personAccessServes = {
     },
     {
       invariantKind: "gap",
-      statement: "This is a relation to a page type.",
+      statement: "This property is a relation to a page type.",
     },
   ],
 } as const satisfies TextProperty
