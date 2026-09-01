@@ -24,7 +24,7 @@ const FIX_DEPLOYED = "fix-deployed"
 
 type Standing = Readonly<Record<string, unknown>> | null
 
-async function standingPage(fingerprint: string): Promise<Standing> {
+async function valuesFor(fingerprint: string): Promise<Standing> {
   const asked = await askPage(ERROR_PAGE_TYPE, fingerprint)
   if (asked.outcome === "found") return asked.page.values
   if (asked.outcome === "absent") return null
@@ -59,7 +59,7 @@ export async function captureError(
     throw new Error("captureError: a capture states a non-empty fingerprint, and this one does not")
   }
 
-  const standing = await standingPage(fingerprint)
+  const standing = await valuesFor(fingerprint)
   const seenAt = new Date().toISOString()
   const id = idFor(standing)
 
