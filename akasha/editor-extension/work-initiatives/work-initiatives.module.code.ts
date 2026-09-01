@@ -34,13 +34,13 @@ function personaAt(root: string, path: string): string | null {
 
 export function initiativesDrawn(root: string): readonly InitiativeRow[] {
   const typeSlug = typeSlugOf(root, INITIATIVE_TYPE)
-  const standing = everyOfType(root, typeSlug)
+  const pages = everyOfType(root, typeSlug)
   const slugById = new Map<string, string>()
-  for (const one of standing) {
+  for (const one of pages) {
     const slug = slugIn(one.path, typeSlug)
     if (slug !== null) slugById.set(one.id, slug)
   }
-  const edges = [...standing].flatMap((one) => {
+  const edges = [...pages].flatMap((one) => {
     const parent = slugById.get(one.id)
     if (parent === undefined) return []
     return [...idsNaming(root, one.id, PARENT)].flatMap((naming) => {
@@ -50,7 +50,7 @@ export function initiativesDrawn(root: string): readonly InitiativeRow[] {
   })
   const parentsOf = Map.groupBy(edges, (one) => one.child)
   const drawn: InitiativeRow[] = []
-  for (const one of standing) {
+  for (const one of pages) {
     const slug = slugById.get(one.id)
     if (slug === undefined) continue
     const named = parentsOf.get(slug) ?? []
