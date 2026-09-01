@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { bodiesAt } from "../../../testing-system/bodying/bodying.module.code.ts"
+import { bodiesAt } from "@akasha/testing-system/bodying"
 import { reasonsIn, splitAt, statementsIn } from "./statement-states-one-thing.code-check.code.ts"
 
 const ROOT = "/repo"

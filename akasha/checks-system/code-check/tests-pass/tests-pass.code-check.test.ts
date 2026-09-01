@@ -1,14 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Ran } from "../../../code-system/code-tests/code-tests.module.code.ts"
-import { RUNNING } from "../../../code-system/code-tests/code-tests.module.code.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import {
-  noPathsFiled,
-  pathFiled,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Ran } from "@akasha/code-system/code-tests"
+import { RUNNING } from "@akasha/code-system/code-tests"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { noPathsFiled, pathFiled } from "@akasha/indexes/testing"
+import { shadowAt } from "@akasha/pages-system/shadow"
 import { change, gone, proposing } from "../../check-scratch/check-scratch.module.code.ts"
 import { namedIn, reasonOf, tailOf, testsPass } from "./tests-pass.code-check.code.ts"
 

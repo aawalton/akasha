@@ -1,14 +1,14 @@
-import type { Ran } from "../../../code-system/code-tests/code-tests.module.code.ts"
+import type { Ran } from "@akasha/code-system/code-tests"
 import {
   alreadyRunning,
   plain,
   ranOver,
   testsBesideOf,
   worldOf,
-} from "../../../code-system/code-tests/code-tests.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { listedByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+} from "@akasha/code-system/code-tests"
+import { listedByPath } from "@akasha/indexes"
+import type { Change } from "@akasha/pages-system/change"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import {
   everyFileIn,
   input,
