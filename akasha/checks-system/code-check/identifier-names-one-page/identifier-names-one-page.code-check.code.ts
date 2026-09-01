@@ -57,10 +57,10 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   for (const held of statedByKey(statedBy(carried, identifying)).values()) {
     const one = held[0]
     if (one === undefined) continue
-    const standing = listedNamed(shadow.reading, one.scope, one.propertySlug, one.said)
-    if (standing.length < 2) continue
+    const listed = listedNamed(shadow.reading, one.scope, one.propertySlug, one.said)
+    if (listed.length < 2) continue
     const carrying = new Set(held.map((each) => each.path))
-    const elsewhere = standing.find((found) => !carrying.has(found.path))
+    const elsewhere = listed.find((found) => !carrying.has(found.path))
     if (elsewhere === undefined) {
       for (const later of held.slice(1)) {
         said.push({ path: later.path, reason: reasonFor(later, one.path, CARRIES) })
