@@ -68,7 +68,8 @@ export function reachesIn(
     if (landed === null) continue
     const now = arrivalOf(landed, moved)
     if (now === null) continue
-    found.push({ at: one.index, was: said, now: saidFrom(from, now) })
+    const tail = said.endsWith(UNDER) ? UNDER : ""
+    found.push({ at: one.index, was: said, now: `${saidFrom(from, now)}${tail}` })
   }
   return found
 }
@@ -117,7 +118,7 @@ export function outsideSaid(
   ]
   if (reaching.length > 0) {
     said.push(
-      `${counted(reaching.length, "file")} of them ${dry ? "reaches" : "reached"} in by a ` +
+      `${counted(reaching.length, "file")} of them ${dry ? "would reach" : "reached"} in by a ` +
         `relative path rather than by the path itself — ${reaching.join(", ")}`
     )
   }

@@ -41,6 +41,11 @@ test("a relative reach is resolved against the folder of the file carrying that 
   expect(said).toBe('"../akasha/far/one/held.module.ts"')
 })
 
+test("a relative reach closing with a slash keeps that slash and what follows the slash", () => {
+  const said = repointedText(AT, '@source "../../akasha/one/**/*.ts"', MOVED)
+  expect(said).toBe('@source "../../akasha/far/one/**/*.ts"')
+})
+
 test("a relative reach resolving to no path that moved is left alone", () => {
   const text = '"../../akasha/one-other/held.module.ts" "./one/held.module.ts"'
   expect(repointedText(AT, text, MOVED)).toBe(text)

@@ -48,6 +48,10 @@ export const moveOutside = {
         "What is written back is a relative path from the folder of the file carrying that path.",
     },
     {
+      invariantKind: "departure",
+      statement: "A relative path closing with a slash keeps that slash and whatever follows.",
+    },
+    {
       invariantKind: "absence",
       statement: "A relative path resolving to no path that moved is left alone.",
     },
