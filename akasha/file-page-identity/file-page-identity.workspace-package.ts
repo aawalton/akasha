@@ -6,5 +6,5 @@ export const filePageIdentity = {
   slug: "file-page-identity",
   definition: "what a page kept in a file is known by",
   manifest: "json",
-  partSlugs: ["module/file-page"],
+  partSlugs: ["module/file-page", "module/sha1-digest"],
 } as const satisfies WorkspacePackage

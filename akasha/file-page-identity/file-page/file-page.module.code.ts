@@ -1,10 +1,16 @@
-import { createHash } from "node:crypto"
+import { bytesOfHex, hexOf, sha1Bytes } from "../sha1-digest/sha1-digest.module.code.ts"
 
 const AT_NAMESPACE = "6ba7b812-9dad-11d1-80b4-00c04fd430c8"
 
 const MARKDOWN = ".md"
 
 const DOT = "."
+
+const UUID_BYTES = 16
+
+const NAMESPACE = bytesOfHex(AT_NAMESPACE.replaceAll("-", ""))
+
+const ENCODER = new TextEncoder()
 
 export function fileStemOf(key: string): string {
   const base = key.slice(key.lastIndexOf("/") + 1)
@@ -13,12 +19,14 @@ export function fileStemOf(key: string): string {
 }
 
 export function idDerivedFrom(at: string): string {
-  const namespace = Buffer.from(AT_NAMESPACE.replaceAll("-", ""), "hex")
-  const digest = createHash("sha1").update(namespace).update(at, "utf8").digest()
-  const bytes = Uint8Array.from(digest.subarray(0, 16))
+  const said = ENCODER.encode(at)
+  const over = new Uint8Array(NAMESPACE.length + said.length)
+  over.set(NAMESPACE)
+  over.set(said, NAMESPACE.length)
+  const bytes = sha1Bytes(over).subarray(0, UUID_BYTES)
   bytes[6] = ((bytes[6] ?? 0) & 0x0f) | 0x50
   bytes[8] = ((bytes[8] ?? 0) & 0x3f) | 0x80
-  const hex = Buffer.from(bytes).toString("hex")
+  const hex = hexOf(bytes)
   return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20, 32)}`
 }
 
