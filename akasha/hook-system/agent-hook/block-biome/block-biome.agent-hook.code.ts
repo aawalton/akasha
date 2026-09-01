@@ -1,6 +1,10 @@
-import { resolve, sep } from "node:path"
 import { refusalOver } from "../../chain-refusal/chain-refusal.module.code.ts"
-import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
+import {
+  guarding,
+  ranAsHook,
+  SCOPE_FLAG,
+  toldOf,
+} from "../../hook-answer/hook-answer.module.code.ts"
 import {
   basenameOf,
   calledWords,
@@ -91,8 +95,7 @@ export function biomeIn(segment: string): boolean {
 }
 
 export function refusalIn(command: string, from: string, root: string): string | null {
-  const at = from.trim() === "" ? root : resolve(from)
-  if (at !== root && !at.startsWith(`${root}${sep}`)) return null
+  if (!guarding(from, root)) return null
   return refusalOver(segmentsOf(command), (segment) => (biomeIn(segment) ? REFUSAL : null))
 }
 
