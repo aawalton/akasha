@@ -1,7 +1,7 @@
 import type { Seat } from "../seat.page-type.ts"
 
 export const akasha = {
-  id: "01a05844-6e60-7000-b54c-4b14559df70b",
+  id: "01a05d08-3e56-7000-8a7c-bb004b91b880",
   pageTypeSlug: "seat",
   slug: "akasha",
   personaSlug: "akasha",
@@ -9,7 +9,6 @@ export const akasha = {
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
-  onCall: true,
+  onCall: false,
   registrationAccount: "aawalton",
-  claudeCodeSessionUuid: "1d9ac9e0-f1d5-4b9b-aad5-0541ec22ed78",
 } as const satisfies Seat
