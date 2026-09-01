@@ -36,9 +36,9 @@ to a worker genuinely parked on a ruling, and kept finished seats resident
 for days.
 
 WITH NO RECIPIENT NAMED, this goes to your PRINCIPAL — the seat recorded
-as your `parent`, which `ops seat whoami` prints as `parentAgentId`. That
-is the hand-back your task asks for, so the ordinary case needs no address
-at all. Reaching anyone else takes `--to`. A seat carrying no parent (Alan's
+as your `parent`, which the seat page you stand on states as its
+`principal-seat-name`. That is the hand-back your task asks for, so the
+ordinary case needs no address at all. Reaching anyone else takes `--to`. A seat carrying no parent (Alan's
 own, and anything he started by hand) is refused rather than defaulted to
 nobody, and told to name one.
 

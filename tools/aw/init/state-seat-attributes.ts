@@ -4,6 +4,12 @@ import { SEAT_COMMAND_REL } from "./state-seat.ts"
 
 const STATED_ATTRIBUTES = ["persona", "domain", "role"] as const
 
+// The payload key `tools/seat-call.ts` answers a read under rather than stating anything. It is
+// spelled here and there and nowhere else — this generator states the path to that file as a
+// string too (`SEAT_COMMAND_REL`) rather than importing it, because importing the seat call from
+// the shell generator would pull the whole writer in to reach one constant.
+const WHOAMI = "whoami"
+
 export const INTERACTIVE_PRINCIPAL = "alan"
 
 function stateAttributeLines(varPrefix: string): readonly string[] {
@@ -50,9 +56,12 @@ function stateAttributeLines(varPrefix: string): readonly string[] {
 export function stateSeatFromRowLines(varPrefix: string): readonly string[] {
   const attributes = STATED_ATTRIBUTES.map((attribute) => `_${varPrefix}_${attribute}=""`).join(" ")
   return [
-    `  local _${varPrefix}_stated="" ${attributes}`,
-    '  if [ -n "$full_aid" ]; then',
-    `    _${varPrefix}_stated=$(ops seat whoami --agent-id "$full_aid" 2>/dev/null)`,
+    `  local _${varPrefix}_stated="" _${varPrefix}_json="" ${attributes}`,
+    `  if [ -n "$full_aid" ] && [ -f "$_root/${SEAT_COMMAND_REL}" ]; then`,
+    `    _${varPrefix}_json_escape "$full_aid"`,
+    `    _${varPrefix}_stated=$(printf '%s' ` +
+      `"{\\"agent\\":\\"$_${varPrefix}_json\\",\\"${WHOAMI}\\":true}" | ` +
+      `bun "$_root/${SEAT_COMMAND_REL}" 2>/dev/null)`,
     ...STATED_ATTRIBUTES.map(
       (attribute) =>
         `    _${varPrefix}_${attribute}=$(printf '%s\\n' "$_${varPrefix}_stated" | ` +
