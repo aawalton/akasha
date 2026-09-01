@@ -12,5 +12,9 @@ export const changeMechanical = {
       invariantKind: "departure",
       statement: "A fault a mechanical change lands is a fault in the program that composed it.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A fault a mechanical change lands is found by the audit.",
+    },
   ],
 } as const satisfies ChangeKind
