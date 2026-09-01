@@ -39,8 +39,15 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A check is run once over the whole change it was given rather than over the pages.",
+      statement: "A check is run once over the change it was given rather than over the pages.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The change a check is run over is narrowed to the akasha folder here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path outside the akasha folder is input to no check and is judged by none.",
     },
     {
       invariantKind: "departure",

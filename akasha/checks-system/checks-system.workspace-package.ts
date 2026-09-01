@@ -27,6 +27,10 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
+      statement: "Every check is handed the change narrowed to the akasha folder before it runs.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change is judged before it reaches disk.",
     },
     {

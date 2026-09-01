@@ -11,6 +11,8 @@ import {
   everythingIn,
   FILES,
   input,
+  insideAkasha,
+  insideOf,
   judgingEach,
   judgingEachFile,
   onDisk,
@@ -44,6 +46,16 @@ const MODULE = "module"
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
+
+test("a path lies inside the akasha folder or outside it, and a change narrows to what is inside", () => {
+  const nowhere = (): null => null
+  const inside: Change = { root: "/nowhere", changed: [PAGE_AT], after: nowhere, before: nowhere }
+  const mixed: Change = { ...inside, changed: [PAGE_AT, OUTSIDE_AT] }
+  expect(insideAkasha(PAGE_AT)).toBe(true)
+  expect(insideAkasha(OUTSIDE_AT)).toBe(false)
+  expect(insideOf(mixed).changed).toEqual([PAGE_AT])
+  expect(insideOf(inside)).toBe(inside)
+})
 
 function worldOf(paths: readonly string[]): string {
   const root = scratch.rootFor("akasha-change-walking-")
