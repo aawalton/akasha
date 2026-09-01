@@ -47,6 +47,7 @@ export const refactor = {
     "a name is named by the file exporting it, since one name is carried by many files.",
     "a name is renamed where the checker resolves to it rather than where a body spells it.",
     "--line picks one where the file declares that name in more than one place.",
+    "a key and a name one shorthand welds together are renamed as one and need no line.",
     "a refusal for a name declared more than once names each line --line would take.",
     "--in-strings respells the name inside strings as well as where the checker resolves it.",
     "a distinctive name is safe to respell in a string, and a plain word standing in prose is not.",
