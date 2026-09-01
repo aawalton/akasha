@@ -1,13 +1,13 @@
 import {
+  buildReadoutRefusal,
   presentsSecret,
   RELAY_SECRET_HEADER,
-} from "../../../../../akasha/readout-system/readout-credential/readout-credential.module.code.ts"
+} from "@akasha/readout-system/readout-credential"
 import {
   type DeviceSecretContext,
   resolveDeviceSecretContext,
 } from "~/device-secret/lib/device-secrets.server"
 import { holdsRouteAccess, ROUTE_TARGETS } from "~/person-access/lib/route-access.server"
-import { buildReadoutRefusal } from "../../../../../akasha/readout-system/readout-credential/readout-credential.module.code.ts"
 
 export type DeviceSecretResolver = (request: Request) => Promise<DeviceSecretContext>
 

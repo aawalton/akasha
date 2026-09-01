@@ -1,6 +1,6 @@
 import { getEsoDayStr } from "@shared/day"
 import { getSurplusStoplightTiers } from "@shared/status-bar-access/stoplights"
-import { READOUT_CACHE_CONTROL } from "../../../../akasha/readout-system/readout-credential/readout-credential.module.code.ts"
+import { READOUT_CACHE_CONTROL } from "@akasha/readout-system/readout-credential"
 import { guardReadout } from "~/readout-credential/lib/readout-credential.server"
 import type { Route } from "./+types/api.surplus"
 
