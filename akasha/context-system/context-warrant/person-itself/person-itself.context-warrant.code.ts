@@ -1,4 +1,4 @@
-import { listedAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { listedAt } from "@akasha/indexes"
 import { slugStated } from "../../agent-stated/agent-stated.module.code.ts"
 import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
