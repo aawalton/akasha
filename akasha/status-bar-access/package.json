@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/status-bar-access",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./stoplight-reading": "./stoplight-reading/stoplight-reading.module.code.ts",
+    "./session-reading": "./session-reading/session-reading.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/health-samples-access": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "readouts": "workspace:*"
+  }
+}
