@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/web-build-sha",
+  "name": "@akasha/web-build-version",
   "private": true,
   "type": "module",
   "exports": {
