@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
 
-export const chessCore = {
+export const chess = {
   id: "01a05be1-cb07-74d3-b8ca-8a6e71097f9b",
   pageTypeSlug: "workspace-package",
-  slug: "chess-core",
+  slug: "chess",
   definition: "a chess engine spoken to as a program, and a game played out through it",
   manifest: "json",
   partSlugs: [
