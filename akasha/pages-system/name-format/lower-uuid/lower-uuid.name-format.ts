@@ -18,7 +18,7 @@ export const lowerUuid = {
     },
     {
       invariantKind: "absence",
-      statement: "`id-is-a-uuid-version-7` judges that.",
+      statement: "`id-is-a-uuid-version-7` judges which version or variant a uuid carries.",
     },
   ],
 } as const satisfies NameFormat

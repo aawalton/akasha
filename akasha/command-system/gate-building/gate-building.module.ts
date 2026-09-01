@@ -31,7 +31,7 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "It says only why the gate is missing.",
+      statement: "What is handed back says only why the gate is missing.",
     },
     {
       invariantKind: "departure",

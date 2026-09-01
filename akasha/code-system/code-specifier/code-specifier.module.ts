@@ -11,11 +11,11 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement:
-        "TypeScript names a module by an import or an export naming where it comes from or a dynamic import or a require call or an import assignment or a module named inside a type.",
+        "TypeScript names a module by an import or an export naming where the export comes from or a dynamic import or a require call or an import assignment or a module named inside a type.",
     },
     {
       invariantKind: "departure",
-      statement: "Every way TypeScript names a module is read as one.",
+      statement: "Every way TypeScript names a module is read as one specifier.",
     },
     {
       invariantKind: "departure",
@@ -27,16 +27,16 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
-      statement: "It is read by the same walk and answered the same way.",
+      statement: "What names a module is read by the same walk and answered the same way.",
     },
     {
       invariantKind: "departure",
-      statement: "A specifier is answered with where it stands.",
+      statement: "A specifier is answered with where the specifier stands.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Specifiers are answered in the order they are written however deep in the body they sit.",
+        "Specifiers are answered in the order the specifiers are written however deep in the body the specifiers sit.",
     },
     {
       invariantKind: "absence",
@@ -53,11 +53,12 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement:
-        "Where a relative specifier lands is answered as the path it names and nothing more.",
+        "Where a relative specifier lands is answered as the path the specifier names and nothing more.",
     },
     {
       invariantKind: "departure",
-      statement: "A specifier naming a package lands where the naming handed in says it lands.",
+      statement:
+        "A specifier naming a package lands where the naming handed in says the specifier lands.",
     },
     {
       invariantKind: "departure",

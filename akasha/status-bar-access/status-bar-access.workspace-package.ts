@@ -15,7 +15,7 @@ export const statusBarAccess = {
     {
       invariantKind: "departure",
       statement:
-        "Every export here binds a port the engine asks through and forwards what it answers.",
+        "Every export here binds a port the engine asks through and forwards what the engine answers.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const statusBarAccess = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides what a reading means or what color it draws.",
+      statement: "Nothing here decides what a reading means or what color the reading draws.",
     },
     {
       invariantKind: "absence",

@@ -12,7 +12,7 @@ export const port = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A service listening states this.",
+      statement: "A service listening states its port.",
     },
     {
       invariantKind: "departure",

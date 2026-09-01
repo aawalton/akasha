@@ -37,7 +37,7 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a page names it is one directory listed on the index as the change leaves it.",
+        "Whether a page names the page judged is one directory listed on the index as the change leaves the index.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "absence",
       statement:
-        "A page stating no `id` and a body that will not load are refused in words beside this in every phase.",
+        "A page stating no `id` and a body that will not load are refused in words beside this check in every phase.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "departure",
-      statement: "A parent the change takes away leaves the parts it named judged.",
+      statement: "A parent the change takes away leaves the parts the parent named judged.",
     },
     {
       invariantKind: "departure",
@@ -81,7 +81,7 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "upkeep",
-      statement: "A page arriving under no parent is refused before it lands.",
+      statement: "A page arriving under no parent is refused before the page lands.",
     },
   ],
 } as const satisfies CodeCheck

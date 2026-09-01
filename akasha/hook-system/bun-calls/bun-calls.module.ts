@@ -14,7 +14,7 @@ export const bunCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag that takes a value takes the word after it.",
+      statement: "A flag that takes a value takes the word after the flag.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +26,11 @@ export const bunCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "The script a `run` names is read past the flags before it.",
+      statement: "The script a `run` names is read past the flags before the script.",
     },
     {
       invariantKind: "departure",
-      statement: "A `run` naming no script past its flags names none.",
+      statement: "A `run` naming no script past its flags names no script.",
     },
     {
       invariantKind: "departure",

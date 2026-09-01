@@ -10,7 +10,8 @@ export const readoutReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading is kept in the file standing beside the readout it was taken for.",
+      statement:
+        "A reading is kept in the file standing beside the readout the reading was taken for.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +19,7 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The file a reading is kept in never leaves the machine that took it.",
+      statement: "The file a reading is kept in never leaves the machine that took the reading.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +40,7 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading carrying one of its halves alone is refused rather than read as none.",
+      statement: "A reading carrying one half alone is refused rather than read as no reading.",
     },
     {
       invariantKind: "absence",
@@ -47,7 +48,7 @@ export const readoutReading = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides when one is due.",
+      statement: "Nothing here decides when a reading is due.",
     },
   ],
 } as const satisfies Module

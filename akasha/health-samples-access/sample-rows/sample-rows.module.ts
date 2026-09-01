@@ -17,7 +17,7 @@ export const sampleRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A value stored as text is read as the number it spells.",
+      statement: "A value stored as text is read as the number the value spells.",
     },
     {
       invariantKind: "departure",

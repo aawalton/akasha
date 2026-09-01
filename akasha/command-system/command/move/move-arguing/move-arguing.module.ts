@@ -11,7 +11,7 @@ export const moveArguing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A pair is a `--from` answered by the `--to` following it.",
+      statement: "A pair is a `--from` answered by the `--to` following that `--from`.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const moveArguing = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag this does not take is refused rather than passed along.",
+      statement: "A flag a move does not take is refused rather than passed along.",
     },
     {
       invariantKind: "departure",

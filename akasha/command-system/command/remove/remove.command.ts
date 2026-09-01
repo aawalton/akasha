@@ -42,7 +42,7 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "Neither is reported as the other.",
+      statement: "Neither kind of path is reported as the other.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A directory opens onto every tracked file under it.",
+      statement: "A directory opens onto every tracked file under the directory.",
     },
     {
       invariantKind: "departure",
@@ -58,11 +58,11 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's sidecars go with it without being named.",
+      statement: "A page's sidecars go with the page without being named.",
     },
     {
       invariantKind: "departure",
-      statement: "A directory the removal leaves empty goes with it.",
+      statement: "A directory the removal leaves empty goes with the removal.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +82,7 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A path standing on its own is refused rather than read as one.",
+      statement: "A path standing on its own is refused rather than read as a named path.",
     },
     {
       invariantKind: "gap",

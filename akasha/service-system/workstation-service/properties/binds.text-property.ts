@@ -13,11 +13,11 @@ export const binds = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A service listening states every host name it answers on.",
+      statement: "A service listening states every host name the service answers on.",
     },
     {
       invariantKind: "departure",
-      statement: "A service stating none is reached at the loopback address alone.",
+      statement: "A service stating no host name is reached at the loopback address alone.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const binds = {
     {
       invariantKind: "departure",
       statement:
-        "An address handed out by something that may hand out another is written here as its name.",
+        "An address handed out by something that may hand out another address is written here as its name.",
     },
   ],
 } as const satisfies TextProperty

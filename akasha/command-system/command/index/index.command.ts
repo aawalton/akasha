@@ -20,7 +20,7 @@ export const index = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "`index` is found by its path rather than through the index it repairs.",
+      statement: "`index` is found by its path rather than through the index the command repairs.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is built over `akasha/` as it stands.",
+      statement: "The index is built over `akasha/` as the akasha folder stands.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +73,7 @@ export const index = {
     },
     {
       invariantKind: "gap",
-      statement: "A body a hand is still writing is taken as it stands.",
+      statement: "A body a hand is still writing is taken as the body stands.",
     },
   ],
 } as const satisfies Command

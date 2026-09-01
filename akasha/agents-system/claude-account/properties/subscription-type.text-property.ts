@@ -13,7 +13,7 @@ export const subscriptionType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is answered by the upstream probe rather than chosen here.",
+      statement: "The subscription type is answered by the upstream probe rather than chosen here.",
     },
   ],
 } as const satisfies TextProperty

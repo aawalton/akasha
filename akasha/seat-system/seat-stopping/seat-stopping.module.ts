@@ -42,7 +42,7 @@ export const seatStopping = {
     {
       invariantKind: "departure",
       statement:
-        "A seat with subagents working is refused unless the caller says to end them with it.",
+        "A seat with subagents working is refused unless the caller says to end the subagents with the seat.",
     },
     {
       invariantKind: "departure",

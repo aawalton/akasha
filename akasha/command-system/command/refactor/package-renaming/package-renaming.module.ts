@@ -10,7 +10,7 @@ export const packageRenaming = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A package is found by the manifest calling it that name.",
+      statement: "A package is found by the manifest calling the package that name.",
     },
     {
       invariantKind: "departure",
@@ -22,11 +22,11 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A spelling names the package where it is the whole name.",
+      statement: "A spelling names the package where the spelling is the whole name.",
     },
     {
       invariantKind: "departure",
-      statement: "A spelling names it where the name is followed by a slash.",
+      statement: "A spelling names the package where the name is followed by a slash.",
     },
     {
       invariantKind: "absence",
@@ -34,7 +34,7 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A way in past the name keeps the tail it already carries.",
+      statement: "A way in past the name keeps the tail that way in already carries.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +82,7 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The workspace reaches a package by the name it was installed under.",
+      statement: "The workspace reaches a package by the name the package was installed under.",
     },
     {
       invariantKind: "departure",
@@ -102,7 +102,7 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A dry run takes back the link it made.",
+      statement: "A dry run takes back the link the dry run made.",
     },
     {
       invariantKind: "departure",

@@ -10,7 +10,7 @@ export const imageName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A level is spelled with at least two digits.",
+      statement: "A level is spelled with at least 2 digits.",
     },
     {
       invariantKind: "departure",

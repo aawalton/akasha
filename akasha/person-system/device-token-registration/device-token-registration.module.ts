@@ -13,7 +13,7 @@ export const deviceTokenRegistration = {
     },
     {
       invariantKind: "departure",
-      statement: "Registering a token again replaces what stood under it.",
+      statement: "Registering a token again replaces what stood under the token.",
     },
     {
       invariantKind: "departure",

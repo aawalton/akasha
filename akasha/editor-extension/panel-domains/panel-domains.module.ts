@@ -40,7 +40,7 @@ export const panelDomains = {
     },
     {
       invariantKind: "departure",
-      statement: "The index files an edge without the place it was stated in.",
+      statement: "The index files an edge without the place the edge was stated in.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const panelDomains = {
     },
     {
       invariantKind: "absence",
-      statement: "Every page answered is one the index named first.",
+      statement: "Every page answered is a page the index named first.",
     },
   ],
 } as const satisfies Module

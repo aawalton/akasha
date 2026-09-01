@@ -46,7 +46,7 @@ export const manifestLandsOnAFile = {
     },
     {
       invariantKind: "absence",
-      statement: "A key that is neither a lone dot nor opens with one names no way in.",
+      statement: "A key that is not a lone dot and does not open with a dot names no way in.",
     },
     {
       invariantKind: "absence",

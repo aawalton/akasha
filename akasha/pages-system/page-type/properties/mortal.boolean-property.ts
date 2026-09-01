@@ -11,7 +11,7 @@ export const mortal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type is mortal only if it says so.",
+      statement: "A page type is mortal only if the page type says so.",
     },
     {
       invariantKind: "departure",

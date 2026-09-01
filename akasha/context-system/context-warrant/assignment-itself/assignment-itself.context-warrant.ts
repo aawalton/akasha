@@ -13,11 +13,11 @@ export const assignmentItself = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat warrants the assignment it states.",
+      statement: "A seat warrants the assignment the seat states.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat stating no assignment warrants none.",
+      statement: "A seat stating no assignment warrants no assignment.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const assignmentItself = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a seat warrants an assignment of what it states.",
+      statement: "Only a seat warrants an assignment of what the seat states.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const assignmentItself = {
     },
     {
       invariantKind: "departure",
-      statement: "An assignment is looked up under the page type it is stated under.",
+      statement: "An assignment is looked up under the page type the assignment is stated under.",
     },
   ],
 } as const satisfies ContextWarrant

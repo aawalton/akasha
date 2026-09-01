@@ -13,7 +13,7 @@ export const shapeProgress = {
     },
     {
       invariantKind: "gap",
-      statement: "A shape answers what its own page says it has got to.",
+      statement: "A shape answers what its own page says the shape has got to.",
     },
   ],
 } as const satisfies Module

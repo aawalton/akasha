@@ -11,7 +11,7 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
-        "A file stands beside a page when it carries the page's whole name and one part more.",
+        "A file stands beside a page when the file carries the page's whole name and one part more.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +24,7 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
-        "A folder that is not there holds no file which is an answer rather than a failure to read one.",
+        "A folder that is not there holds no file which is an answer rather than a failure to read the folder.",
     },
     {
       invariantKind: "departure",

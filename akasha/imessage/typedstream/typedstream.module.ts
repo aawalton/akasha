@@ -19,7 +19,7 @@ export const typedstream = {
     },
     {
       invariantKind: "departure",
-      statement: "A body states its length in one of three forms.",
+      statement: "A body states its length in one form of three forms.",
     },
     {
       invariantKind: "absence",

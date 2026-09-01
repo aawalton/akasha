@@ -19,7 +19,7 @@ export const seatNaming = {
     {
       invariantKind: "departure",
       statement:
-        "A persona names a seat outright only where it is not the persona a seat begins with.",
+        "A persona names a seat outright only where that persona is not the persona a seat begins with.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const seatNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat's flex is carried in its name rather than beside it.",
+      statement: "A seat's flex is carried in its name rather than beside the seat.",
     },
     {
       invariantKind: "absence",

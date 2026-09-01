@@ -14,7 +14,8 @@ export const invariantGroup = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A group is read off the kinds that name it rather than stored as a list of them.",
+      statement:
+        "A group is read off the kinds that name the group rather than stored as a list of the kinds.",
     },
   ],
 } as const satisfies PageType
