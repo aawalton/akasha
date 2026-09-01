@@ -18,9 +18,6 @@
       "path": "../../shared/supabase-auth"
     },
     {
-      "path": "../../shared/utils-fs"
-    },
-    {
       "path": "../../shared/utils-narrow"
     },
     {

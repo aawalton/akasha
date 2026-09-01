@@ -477,8 +477,8 @@
     "akasha/ssh-access": {
       "name": "@akasha/ssh-access",
       "dependencies": {
+        "@akasha/utils-fs": "workspace:*",
         "@shared/errors-core": "workspace:*",
-        "@shared/utils-fs": "workspace:*",
       },
     },
     "akasha/testing-system": {
@@ -1780,12 +1780,6 @@
         "@shared/triggers-proc": "workspace:*",
         "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
-      },
-    },
-    "shared/utils-fs": {
-      "name": "@shared/utils-fs",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
       },
     },
     "shared/utils-narrow": {
@@ -4692,8 +4686,6 @@
     "@shared/triggers-proc": ["@shared/triggers-proc@workspace:shared/triggers-proc"],
 
     "@shared/triggers-proc-compiler": ["@shared/triggers-proc-compiler@workspace:shared/triggers-proc-compiler"],
-
-    "@shared/utils-fs": ["@shared/utils-fs@workspace:shared/utils-fs"],
 
     "@shared/utils-narrow": ["@shared/utils-narrow@workspace:shared/utils-narrow"],
 

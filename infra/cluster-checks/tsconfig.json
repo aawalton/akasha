@@ -27,9 +27,6 @@
       "path": "../../shared/graph/producers"
     },
     {
-      "path": "../../shared/utils-fs"
-    },
-    {
       "path": "../../shared/utils-narrow"
     },
     {

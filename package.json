@@ -131,7 +131,6 @@
     "shared/triggers-proc",
     "shared/triggers-proc-compiler",
     "akasha/utils-fs",
-    "shared/utils-fs",
     "shared/utils-narrow",
     "shared/utils-process",
     "shared/utils-sync",
