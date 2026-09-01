@@ -15,6 +15,10 @@ export const mechanical = {
     },
     {
       invariantKind: "departure",
+      statement: "A mechanical command takes no body an agent composed.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "No agent is held to reading again what a mechanical command changed until that agent comes to write over that file itself.",
     },

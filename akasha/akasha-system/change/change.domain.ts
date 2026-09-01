@@ -15,5 +15,9 @@ export const change = {
       invariantKind: "departure",
       statement: "What a change is judged by follows from its kind.",
     },
+    {
+      invariantKind: "departure",
+      statement: "No service lands a body an agent composed.",
+    },
   ],
 } as const satisfies Domain
