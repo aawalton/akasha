@@ -30,9 +30,9 @@ export type Reading = {
   readonly root: string
 }
 
-export type Standing = { readonly path: string }
+export type Found = { readonly path: string }
 
-export type Placing = (root: string, pageTypeSlug: string, slug: string) => readonly Standing[]
+export type Placing = (root: string, pageTypeSlug: string, slug: string) => readonly Found[]
 
 const UNDER = "akasha/"
 
