@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
-import { askComposed } from "@akasha/pages-query/answer-schema"
 import type { Fetcher } from "@akasha/pages-query/fetcher"
-import { ACCOUNT_KEY } from "../person-enrolment/person-enrolment.module.code.ts"
+import {
+  accountStatedBy,
+  overTheLiveStore,
+  recordingFetcher,
+} from "../person-enrolment/person-enrolment.module.test-fixtures.ts"
 import {
   grantsRoute,
   ROUTE_TARGETS,
@@ -9,8 +12,6 @@ import {
   routeAccessForPerson,
   routeTargetsFor,
 } from "./route-access.module.code.ts"
-
-const LIVE_ORIGIN = "http://127.0.0.1:8787"
 
 const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
 
@@ -24,31 +25,6 @@ function answeringByType(byType: Record<string, readonly Record<string, unknown>
       headers: { "content-type": "application/json" },
     })
   }
-}
-
-async function overTheLiveStore<T>(taking: () => Promise<T>): Promise<T> {
-  const held = process.env.PAGE_STORE_ORIGIN
-  process.env.PAGE_STORE_ORIGIN = LIVE_ORIGIN
-  try {
-    return await taking()
-  } finally {
-    if (held === undefined) delete process.env.PAGE_STORE_ORIGIN
-    else process.env.PAGE_STORE_ORIGIN = held
-  }
-}
-
-async function accountStatedBy(personSlug: string): Promise<string> {
-  const asked = await askComposed({
-    "page-type": "person",
-    where: { slug: { is: personSlug } },
-    keys: [ACCOUNT_KEY],
-  })
-  if (!asked.ok) throw new Error(asked.why)
-  const stated = asked.answer.rows[0]?.values[ACCOUNT_KEY]
-  if (typeof stated !== "string" || stated === "") {
-    throw new Error(`\`${personSlug}\` states no account, so nothing here can be read back`)
-  }
-  return stated
 }
 
 test("the account Alan states reaches the readout feed", async () => {
@@ -98,16 +74,13 @@ test("an access naming one route names no other", () => {
 })
 
 test("only an access of the route kind is asked for", async () => {
-  let sent: Record<string, unknown> = {}
-  const fetcher: Fetcher = async (_url, init) => {
-    sent = JSON.parse(String(init.body))
-    return new Response(JSON.stringify({ rows: [] }), {
-      headers: { "content-type": "application/json" },
-    })
-  }
-  await routeTargetsFor("alan", fetcher, noNap)
-  expect(sent.pageTypeSlug).toBe("person-access")
-  expect(sent.where).toEqual({ personSlug: { is: "alan" }, accessKind: { is: "route" } })
+  const recording = recordingFetcher()
+  await routeTargetsFor("alan", recording.fetcher, noNap)
+  expect(recording.sent().pageTypeSlug).toBe("person-access")
+  expect(recording.sent().where).toEqual({
+    personSlug: { is: "alan" },
+    accessKind: { is: "route" },
+  })
 })
 
 test("an account read to a person takes that person's grants", async () => {

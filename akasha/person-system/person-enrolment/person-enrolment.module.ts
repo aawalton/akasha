@@ -7,6 +7,7 @@ export const personEnrolment = {
   definition: "the person an account signing in stands for",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

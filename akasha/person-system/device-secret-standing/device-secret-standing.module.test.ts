@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "@akasha/pages-query/fetcher"
 import {
+  overTheLiveStore,
+  recordingFetcher,
+} from "../person-enrolment/person-enrolment.module.test-fixtures.ts"
+import {
   DEVICE_SECRET_PAGE_TYPE,
   DEVICE_SECRET_PREFIX,
   deviceSecretBody,
@@ -16,8 +20,6 @@ import {
   readPresentedDeviceSecret,
   uuidVersion7,
 } from "./device-secret-standing.module.code.ts"
-
-const LIVE_ORIGIN = "http://127.0.0.1:8787"
 
 const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
@@ -56,17 +58,6 @@ function pageFor(secret: string, over: Partial<Record<string, string>> = {}) {
     deviceId: A_DEVICE,
     secretHash: hashDeviceSecret(secret),
     ...over,
-  }
-}
-
-async function overTheLiveStore<T>(taking: () => Promise<T>): Promise<T> {
-  const held = process.env.PAGE_STORE_ORIGIN
-  process.env.PAGE_STORE_ORIGIN = LIVE_ORIGIN
-  try {
-    return await taking()
-  } finally {
-    if (held === undefined) delete process.env.PAGE_STORE_ORIGIN
-    else process.env.PAGE_STORE_ORIGIN = held
   }
 }
 
@@ -200,16 +191,10 @@ test("a caller presenting a secret a page stands for is read to that account", a
 
 test("the page is asked for under the key the page carries", async () => {
   const secret = generateDeviceSecret()
-  let sent: Record<string, unknown> = {}
-  const fetcher: Fetcher = async (_url, init) => {
-    sent = JSON.parse(String(init.body))
-    return new Response(JSON.stringify({ rows: [] }), {
-      headers: { "content-type": "application/json" },
-    })
-  }
-  await deviceSecretPresented(secret, fetcher, noNap)
-  expect(sent.pageTypeSlug).toBe(DEVICE_SECRET_PAGE_TYPE)
-  expect(sent.where).toEqual({ secretHash: { is: hashDeviceSecret(secret) } })
+  const recording = recordingFetcher()
+  await deviceSecretPresented(secret, recording.fetcher, noNap)
+  expect(recording.sent().pageTypeSlug).toBe(DEVICE_SECRET_PAGE_TYPE)
+  expect(recording.sent().where).toEqual({ secretHash: { is: hashDeviceSecret(secret) } })
 })
 
 test("a caller presenting a revoked secret is refused", async () => {
