@@ -1,6 +1,5 @@
 import { join } from "node:path"
 import { randomId } from "@akasha/id-minting"
-import { holdDerivers } from "@shared/pages-query/hold"
 import { type AppCspConfig, buildSecurityHeaders } from "@akasha/web-security-headers/security-headers"
 import { htmlCacheControl, serveClientStatic } from "@akasha/web-static-assets/serve-static"
 import type { ServerBuild } from "react-router"
@@ -12,8 +11,6 @@ declare module "react-router" {
     nonce?: string
   }
 }
-
-const DERIVER_HOLD_MS = 5000
 
 const ROOT = import.meta.dir
 const BUILD_DIR = join(ROOT, "build")
@@ -32,16 +29,15 @@ const CSP_CONFIG: AppCspConfig = {
   mediaSrc: ["blob:"],
 }
 
-// Every page query asks whether its page type is answered from the checkout, and that
-// question rebuilds a derivation keyed on a fresh FileTree each time. The key alone costs
-// about 250ms of synchronous `git ls-tree` and `git diff-index`, so asking it once per
-// page type ran to 57.6s of work no `await` can yield out of — long enough for six
-// consecutive liveness probes to time out and for kubelet to kill the container mid
-// request. Held for a bounded window, the same sweep costs about 130ms.
+// A hold over the checkout derivations sat here. Every page query used to ask whether its page
+// type was answered from this pod's own checkout, and that question rebuilt a derivation keyed on
+// a fresh FileTree, costing about 250ms of synchronous `git ls-tree` and `git diff-index` each
+// time. Asked once per page type it ran to 57.6s of work no `await` could yield out of, which is
+// long enough for six consecutive liveness probes to time out and for kubelet to kill the
+// container mid request. The hold bounded that sweep rather than removing it.
 //
-// The window is what a page written by this pod may take to be seen by it. A deploy
-// replaces the process, so nothing here outlives a release.
-holdDerivers(DERIVER_HOLD_MS)
+// The branch it was bounding is gone: `@shared/pages-query` no longer reads the checkout on any
+// path, so there is no derivation to hold and nothing synchronous left to yield out of.
 
 const PORT_SCHEMA = z.coerce.number().int().positive().max(65535).default(3000)
 const HOST_SCHEMA = z.string().min(1).default("0.0.0.0")

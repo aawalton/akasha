@@ -6,9 +6,8 @@
   "private": true,
   "exports": {
     ".": "./src/writing.ts",
-    "./ask": "./src/asking.ts",
+    "./ask": "./src/asking-remote.ts",
     "./ask-remote": "./src/asking-remote.ts",
-    "./hold": "./src/holding.ts",
     "./answer-schema": "./src/answer-schema.ts"
   },
   "dependencies": {
