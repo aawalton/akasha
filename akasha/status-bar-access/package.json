@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./stoplight-reading": "./stoplight-reading/stoplight-reading.module.code.ts",
     "./session-reading": "./session-reading/session-reading.module.code.ts"
   },
   "dependencies": {
