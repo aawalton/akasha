@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const anInstallInOneLaneFailsATestFileInAnother = {
+  id: "01a05ba7-1c40-7000-b2e8-5d1f3a90c7be",
+  pageTypeSlug: "finding",
+  slug: "an-install-in-one-lane-fails-a-test-file-in-another",
+  domainSlug: "workspace-package/command-system",
+  claim:
+    "A red suite naming nothing broken, with a victim that moves between runs and passes alone, is two lanes sharing one `node_modules` rather than state leaking between test files. A package being relinked is unreachable while it is gone, so every test file whose imports reach it fails to load, and which file that is depends only on what is being stood up.",
+  evidence:
+    "Nine full runs between 00:20 and 00:28 on 1 Sep. Runs 1 to 6 each read 3278 pass, 2 fail, 3280 tests over 235 files, both failures `Cannot find module '@akasha/pages-core/view/page-query-times'` reached from `tools/lib/page-query-compare.ts`. Runs 7, 8 and 9 read 3304, 3310 and 3310 pass, 0 fail, over the same 235 files. The two victims, `readout-scale-reading` and `readout-none-left`, import `@shared/pages-query`, which reaches `tools/lib/page-query.ts` and then `page-query-compare.ts`; run alone they read 15 pass, 0 fail throughout. While runs 3 to 6 failed, `node_modules/@akasha/pages-core` was absent for the whole minute 00:22:44 to 00:23:39 with `@akasha` holding 27 entries, and was back and holding 28 by 00:26, which is when the runs went green. `0f5380990b` had just stood `pages-core` up. The install was not caught in the act; what was watched was the link going and coming back. The test count rising from 3280 to 3304 to 3310 over an unchanged 235 files is the same tree moving under the runner. Two lanes and the coordinator read this as state leaking between test files inside one run. The line that made it look like one, `fatal: Unable to create '/var/tmp/akasha-committing-XXXXXX/.git/index.lock'`, is a fixture put there on purpose: `committing.module.test.ts` plants that lock in its own scratch repository to prove a path that cannot be staged refuses the change, and that file alone prints it exactly twice and passes 4 of 4. `ranOver` spawns `bun test` with its working directory at the repository root rather than in a world, though `worldOf` stands beside it and already builds one. Forcing it was refused: unlinking a package to prove it would fail every other lane at that moment. The call taken in Alan's absence was to record the mechanism and change nothing, since no test here is wrong.",
+} as const satisfies Finding
