@@ -27,7 +27,7 @@ export const emailAddressIsWellFormed = {
     },
     {
       invariantKind: "departure",
-      statement: "The `@` divides the mailbox from the domain it stands at.",
+      statement: "The `@` divides the mailbox from the domain the address stands at.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const emailAddressIsWellFormed = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is judged where the change carries it.",
+      statement: "A page is judged where the change carries that page.",
     },
     {
       invariantKind: "departure",

@@ -14,7 +14,7 @@ export const imageLocator = {
     },
     {
       invariantKind: "departure",
-      statement: "A tag naming none of the roots falls back to the first root given.",
+      statement: "A tag naming no root falls back to the first root given.",
     },
   ],
 } as const satisfies Module

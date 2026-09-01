@@ -11,7 +11,8 @@ export const needsSecrets = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A service stating true is handed every secret the file holds rather than some.",
+      statement:
+        "A service stating true is handed every secret the file holds rather than some secrets.",
     },
     {
       invariantKind: "departure",

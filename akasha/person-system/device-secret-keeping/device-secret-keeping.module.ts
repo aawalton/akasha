@@ -14,7 +14,7 @@ export const deviceSecretKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is asked for under the key it carries rather than under its slug.",
+      statement: "A page is asked for under the key the page carries rather than under its slug.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +26,12 @@ export const deviceSecretKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A hash standing on two pages is read to neither.",
+      statement: "A hash standing on two pages is read to neither page.",
     },
     {
       invariantKind: "departure",
-      statement: "Two hashes are compared in time that does not vary with how they differ.",
+      statement:
+        "Two hashes are compared in time that does not vary with how the two hashes differ.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +39,7 @@ export const deviceSecretKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A device minting again keeps the page it already stands on.",
+      statement: "A device minting again keeps the page the device already stands on.",
     },
     {
       invariantKind: "departure",

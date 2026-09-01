@@ -22,7 +22,7 @@ export const serviceReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A page missing what a service needs refuses rather than reading as one.",
+      statement: "A page missing what a service needs refuses rather than reading as a service.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const serviceReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A value stated as the wrong sort is read as though it were not stated.",
+      statement: "A value stated as the wrong sort is read as though the value were not stated.",
     },
     {
       invariantKind: "departure",

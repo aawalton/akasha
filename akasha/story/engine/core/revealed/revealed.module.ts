@@ -14,7 +14,8 @@ export const revealed = {
     },
     {
       invariantKind: "departure",
-      statement: "Narrowing a sheet is checked against the schema again before it is handed back.",
+      statement:
+        "Narrowing a sheet is checked against the schema again before the narrowing is handed back.",
     },
   ],
 } as const satisfies Module

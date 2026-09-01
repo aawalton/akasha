@@ -18,7 +18,7 @@ export const moveRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A file standing beside a renamed page is renamed with it.",
+      statement: "A file standing beside a renamed page is renamed with that page.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +26,13 @@ export const moveRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A runner taking the export a page's slug names finds it under the new name.",
+      statement:
+        "A runner taking the export a page's slug names finds that export under the new name.",
     },
     {
       invariantKind: "departure",
-      statement: "A name a body spells as text rather than as an identifier is left as it stands.",
+      statement:
+        "A name a body spells as text rather than as an identifier is left as that name stands.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +44,8 @@ export const moveRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The pages addressing a rename are read from the index as it stands before it.",
+      statement:
+        "The pages addressing a rename are read from the index as the index stands before the rename.",
     },
     {
       invariantKind: "departure",
@@ -50,11 +53,11 @@ export const moveRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "An address is rewritten in the form it was written in.",
+      statement: "An address is rewritten in the form the address was written in.",
     },
     {
       invariantKind: "absence",
-      statement: "An address spelled as an id is left as it stands.",
+      statement: "An address spelled as an id is left as that address stands.",
     },
     {
       invariantKind: "absence",

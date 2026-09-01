@@ -15,7 +15,7 @@ export const reading = {
     {
       invariantKind: "departure",
       statement:
-        "A line carries the path read and the object id of what was read and when it was read and the object id a mechanical change left.",
+        "A line carries the path read and the object id of what was read and when the path was read and the object id a mechanical change left.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const reading = {
     {
       invariantKind: "departure",
       statement:
-        "A body answers a reading where it is the body read or the body a mechanical change left.",
+        "A body answers a reading where the body is the body read or the body a mechanical change left.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +66,7 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "The record's owner is the seat or the subagent acting under it.",
+      statement: "The record's owner is the seat or the subagent acting under that seat.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +74,7 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent begins holding none of its seat's readings.",
+      statement: "A subagent begins holding no reading its seat holds.",
     },
     {
       invariantKind: "departure",

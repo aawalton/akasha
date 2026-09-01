@@ -59,7 +59,8 @@ export const edit = {
     },
     {
       invariantKind: "departure",
-      statement: "A passage is the bytes of the file naming it with its trailing newline included.",
+      statement:
+        "A passage is the bytes of the file naming that passage with its trailing newline included.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +70,7 @@ export const edit = {
     {
       invariantKind: "departure",
       statement:
-        "A file this call would change is warranted exactly as `write` warrants one on the same record and the same glass.",
+        "A file this call would change is warranted exactly as `write` warrants a file on the same record and the same glass.",
     },
     {
       invariantKind: "departure",

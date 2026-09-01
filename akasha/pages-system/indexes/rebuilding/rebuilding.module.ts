@@ -10,7 +10,7 @@ export const rebuilding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index is built into a scratch directory standing beside it.",
+      statement: "The index is built into a scratch directory standing beside the index.",
     },
     {
       invariantKind: "departure",

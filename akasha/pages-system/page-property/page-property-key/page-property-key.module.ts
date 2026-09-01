@@ -14,7 +14,7 @@ export const pagePropertyKey = {
     },
     {
       invariantKind: "departure",
-      statement: "This is the way back from `page-export-name`.",
+      statement: "This module is the way back from `page-export-name`.",
     },
     {
       invariantKind: "absence",

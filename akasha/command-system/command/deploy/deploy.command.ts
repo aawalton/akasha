@@ -41,7 +41,7 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement: "A web app is built from its source before it is put up.",
+      statement: "A web app is built from its source before that web app is put up.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,8 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement: "A commit origin does not carry is pushed onto main before the pod builds it.",
+      statement:
+        "A commit origin does not carry is pushed onto main before the pod builds that commit.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +79,8 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement: "A value the build needs is reported by its name rather than by what it holds.",
+      statement:
+        "A value the build needs is reported by its name rather than by what the value holds.",
     },
     {
       invariantKind: "departure",

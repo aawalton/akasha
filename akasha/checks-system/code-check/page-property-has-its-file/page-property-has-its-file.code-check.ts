@@ -31,7 +31,7 @@ export const pagePropertyHasItsFile = {
     },
     {
       invariantKind: "departure",
-      statement: "It is absent when the change answers with nothing.",
+      statement: "A file is absent when the change answers with nothing.",
     },
     {
       invariantKind: "constraint",
@@ -53,7 +53,7 @@ export const pagePropertyHasItsFile = {
     {
       invariantKind: "departure",
       statement:
-        "Which pages the index says carry a changed path is read from the index as it stands.",
+        "Which pages the index says carry a changed path is read from the index as the index stands.",
     },
     {
       invariantKind: "departure",

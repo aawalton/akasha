@@ -16,11 +16,11 @@ export const restoreAkashaWhenDirty = {
     },
     {
       invariantKind: "departure",
-      statement: "A call leaving it changed is told so.",
+      statement: "A call leaving the akasha folder changed is told so.",
     },
     {
       invariantKind: "departure",
-      statement: "A call leaving it changed is told which paths went back.",
+      statement: "A call leaving the akasha folder changed is told which paths went back.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const restoreAkashaWhenDirty = {
     },
     {
       invariantKind: "constraint",
-      statement: "This answers after the write.",
+      statement: "This hook answers after the write.",
     },
     {
       invariantKind: "constraint",

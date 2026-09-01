@@ -39,7 +39,7 @@ export const faultSaying = {
     },
     {
       invariantKind: "absence",
-      statement: "A caller catching one says what it means.",
+      statement: "A caller catching a fault says what that fault means.",
     },
     {
       invariantKind: "absence",

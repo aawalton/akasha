@@ -9,7 +9,8 @@ export const sampleIdentity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What names a reading is its metric with its source and the span it covers.",
+      statement:
+        "What names a reading is its metric with its source and the span the reading covers.",
     },
     {
       invariantKind: "departure",

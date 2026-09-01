@@ -14,15 +14,16 @@ export const moveSpreading = {
     },
     {
       invariantKind: "departure",
-      statement: "A pair naming a folder becomes one pair for every file git holds under it.",
+      statement:
+        "A pair naming a folder becomes one pair for every file git holds under that folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A file keeps the place it had beneath the folder it moved with.",
+      statement: "A file keeps the place the file had beneath the folder the file moved with.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder arrives at the path it names rather than inside it.",
+      statement: "A folder arrives at the path the folder names rather than inside that path.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +40,7 @@ export const moveSpreading = {
     {
       invariantKind: "departure",
       statement:
-        "A folder holding a file git does not track is refused rather than moved without it.",
+        "A folder holding a file git does not track is refused rather than moved without that file.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +48,7 @@ export const moveSpreading = {
     },
     {
       invariantKind: "departure",
-      statement: "One refusal stops the whole call rather than the pair that drew it.",
+      statement: "One refusal stops the whole call rather than the pair that drew that refusal.",
     },
     {
       invariantKind: "absence",

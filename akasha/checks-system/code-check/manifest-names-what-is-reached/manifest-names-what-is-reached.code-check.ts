@@ -27,7 +27,8 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "departure",
-      statement: "A dependency is a name the manifest states under any of its dependency fields.",
+      statement:
+        "A dependency is a name the manifest states under any dependency field of its own.",
     },
     {
       invariantKind: "departure",
@@ -88,7 +89,7 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "departure",
-      statement: "A file is judged against the innermost package whose folder holds it.",
+      statement: "A file is judged against the innermost package whose folder holds that file.",
     },
     {
       invariantKind: "absence",
@@ -97,7 +98,7 @@ export const manifestNamesWhatIsReached = {
     {
       invariantKind: "departure",
       statement:
-        "The files a package holds are the ones the index names as the change leaves them.",
+        "The files a package holds are the files the index names as the change leaves those files.",
     },
     {
       invariantKind: "departure",
@@ -111,12 +112,12 @@ export const manifestNamesWhatIsReached = {
     {
       invariantKind: "departure",
       statement:
-        "A dependency a package states as a peer of its own is reached by whoever installs it.",
+        "A dependency a package states as a peer of its own is reached by whoever installs that package.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A dependency another package beside it states as a peer is reached by that package.",
+        "A dependency another package beside that dependency states as a peer is reached by that other package.",
     },
     {
       invariantKind: "departure",
@@ -136,7 +137,7 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "departure",
-      statement: "An `@types` package is reached by the package it stands for.",
+      statement: "An `@types` package is reached by the package the `@types` package stands for.",
     },
     {
       invariantKind: "departure",
@@ -161,7 +162,7 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "absence",
-      statement: "An index naming no `capacitor-config` credits nothing by one.",
+      statement: "An index naming no `capacitor-config` credits nothing by a `capacitor-config`.",
     },
     {
       invariantKind: "departure",

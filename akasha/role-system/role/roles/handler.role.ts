@@ -9,7 +9,7 @@ export const handler = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A handler's seat states the person it serves as its domain.",
+      statement: "A handler's seat states the person the handler serves as its domain.",
     },
     {
       invariantKind: "departure",

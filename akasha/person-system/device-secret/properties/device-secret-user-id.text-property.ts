@@ -13,7 +13,7 @@ export const deviceSecretUserId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is the account a person states rather than that person's slug.",
+      statement: "This user id is the account a person states rather than that person's slug.",
     },
   ],
 } as const satisfies TextProperty

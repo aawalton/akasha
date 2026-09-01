@@ -18,7 +18,7 @@ export const seatReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat is found by the session it answers in where no seat carries the id.",
+      statement: "A seat is found by the session the seat answers in where no seat carries the id.",
     },
     {
       invariantKind: "departure",
@@ -47,11 +47,11 @@ export const seatReading = {
     {
       invariantKind: "departure",
       statement:
-        "The mark a supervisor is read from is parted from the moment it started by its last `-` rather than its first.",
+        "The mark a supervisor is read from is parted from the moment the supervisor started by its last `-` rather than its first.",
     },
     {
       invariantKind: "departure",
-      statement: "A mark naming no moment it started is no supervisor that can be read.",
+      statement: "A mark naming no moment a supervisor started is no supervisor that can be read.",
     },
     {
       invariantKind: "absence",

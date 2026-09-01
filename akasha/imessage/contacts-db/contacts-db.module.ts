@@ -21,7 +21,7 @@ export const contactsDb = {
     },
     {
       invariantKind: "departure",
-      statement: "A record carrying no name at all is passed over.",
+      statement: "A record carrying no name is passed over.",
     },
   ],
 } as const satisfies Module

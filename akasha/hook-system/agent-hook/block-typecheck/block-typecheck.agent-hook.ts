@@ -16,7 +16,7 @@ export const blockTypecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A `bun typecheck` and a `bun run typecheck` are refused with it.",
+      statement: "A `bun typecheck` and a `bun run typecheck` are refused with `tsc`.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,8 @@ export const blockTypecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "What this does not reach is printed by the hook and asked for with `--scope`.",
+      statement:
+        "What this hook does not reach is printed by the hook and asked for with `--scope`.",
     },
     {
       invariantKind: "departure",
