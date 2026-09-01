@@ -9,6 +9,16 @@ export const amyJennyUnreviewedWidget = {
   parentSlug: "akasha-migration",
   intents: [
     {
+      statement: "Jenny's unreviewed transaction iOS widget works.",
+      workingMemory:
+        "Her Swift compiles: `akasha ios-app build smilingjenny` exits 0 with BUILD_SIM_OK, 12 files into SmilingJennyWidgetExtension, `ring` and `categorize-ring` among them, so the one ring both tiles name is proven. This box has no swiftc; the command hands it to `macbook`. Both routes are 7 lines over `module/readout-categorization` now, Alan's copy gone at `0011a6c725` onto `answerCategorizationAdmittedBy`, which takes his guard: he admits on a device secret and a grant, she on a shared secret.",
+    },
+    {
+      statement: "Jenny's site deploys from akasha.",
+      workingMemory:
+        "Deployed and proved live. READING_RELAY_SECRET stands in her sops at the workstation's value, moved by `sops edit`, digest-checked, never printed. Pod b4289a8e7a: her relay 401s bare and 400s with the secret on a body that is no reading; her tile route answers 503 No reading on the ring credential. A relay secret 401s at her tile route as at Alan's, a category error and not a stale build, filed at alans-tile-route-refuses-jennys-credential-by-design-rather-than-by-age. He now runs 0c6fb83a1f.",
+    },
+    {
       statement: "The packages reading and writing pages stand in akasha.",
       workingMemory:
         "`shared/pages-query` is 8 files but no small move: its sources close over 168 under `tools/`, `page/`, `repo/`, `readouts/`, and `imports-inside` refuses every relative escape from `akasha/`. It waits on the root page engine beneath it, filed at `the-root-page-engine-lands-as-five-packages-in-this-order` as five increments. `shared/` is down to 5 folders and only this and `pages-ui` still move; `auth`, `design-patterns` and `utils-test` are settled. Inbound: 120 statements in 86 files.",
@@ -44,19 +54,8 @@ export const amyJennyUnreviewedWidget = {
       workingMemory:
         "Last of the three, because `app/routes` is the only part of this move with modelling nobody has done. Nothing waits on it: the site is a leaf with no inbound importers. The shape is settled: a lane built the site through a symlinked package root and got exit 0 with asset hashes identical to the control, tailwind emitting 114,234 bytes. Its 62 files carry 307 imports: 47 stay inside, 164 name packages, 20 npm, 76 escape to app siblings — 66 by `~/` and 10 by `../`, all into `awen`.",
     },
-    {
-      statement: "Jenny's site deploys from akasha.",
-      workingMemory:
-        "Deployed and proved live. READING_RELAY_SECRET stands in her sops at the workstation's value, moved by `sops edit`, digest-checked, never printed. Pod b4289a8e7a: her relay 401s bare and 400s with the secret on a body that is no reading; her tile route answers 503 No reading on the ring credential. A relay secret 401s at her tile route as at Alan's, a category error and not a stale build, filed at alans-tile-route-refuses-jennys-credential-by-design-rather-than-by-age. He now runs 0c6fb83a1f.",
-    },
-    {
-      statement: "Jenny's unreviewed transaction iOS widget works.",
-      workingMemory:
-        "Her Swift compiles: `akasha ios-app build smilingjenny` exits 0 with BUILD_SIM_OK, 12 files into SmilingJennyWidgetExtension, `ring` and `categorize-ring` among them, so the one ring both tiles name is proven. This box has no swiftc; the command hands it to `macbook`. Both routes are 7 lines over `module/readout-categorization` now, Alan's copy gone at `0011a6c725` onto `answerCategorizationAdmittedBy`, which takes his guard: he admits on a device secret and a grant, she on a shared secret.",
-    },
   ],
   constraints: [
-    "Every intent on Alan's side comes before Jenny's even though the end of the work is hers.",
     "The ring is drawn by one file both tiles share, so it moves once and serves both.",
     "The reading is taken on a workstation because a reading is never committed, and the store writes only what it commits.",
     "A package under akasha may depend on one standing outside it, and several already do, so an outside dependency is no reason to hold a move back.",
