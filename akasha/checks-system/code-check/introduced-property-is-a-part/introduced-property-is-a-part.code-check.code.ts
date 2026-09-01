@@ -25,7 +25,7 @@ const ABOVE = "extendsSlug"
 
 const SLUG = "slug"
 
-export type Standing = {
+export type PageType = {
   readonly slug: string
   readonly path: string
   readonly value: Value | null
@@ -54,7 +54,7 @@ export function addressedIn(said: string): string {
   return slugIn(said) ?? said
 }
 
-export function introducedIn(one: Standing, shadow: Shadow): readonly string[] {
+export function introducedIn(one: PageType, shadow: Shadow): readonly string[] {
   const value = one.value
   if (value === null) return []
   const said = textAt(value, ABOVE)
@@ -79,8 +79,8 @@ export function partedIn(value: Value | null): ReadonlySet<string> {
   return found
 }
 
-export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly Standing[] {
-  const found: Standing[] = []
+export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly PageType[] {
+  const found: PageType[] = []
   const held = new Set<string>()
   for (const one of carried) {
     const slug = typeNamedIn(one.path)
@@ -99,7 +99,7 @@ export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly
 }
 
 export function introducersIn(
-  standing: readonly Standing[],
+  standing: readonly PageType[],
   shadow: Shadow
 ): ReadonlyMap<string, readonly string[]> {
   const pairs = standing.flatMap((one) =>
