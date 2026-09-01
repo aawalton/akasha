@@ -17,7 +17,7 @@ export type Answer = {
 
 export type Read = { readonly command: string } | { readonly answer: Answer }
 
-export const STANDING_ASIDE: Answer = { out: "", err: "", code: ASIDE }
+export const LET_THROUGH: Answer = { out: "", err: "", code: ASIDE }
 
 function unreadable(hook: string, why: string): Answer {
   return {
@@ -127,5 +127,5 @@ export async function ranAsHook(
   const read = commandIn(raw, key, hook)
   if ("answer" in read) return said(read.answer)
   const reason = judging(read.command, fromIn(raw), rootOf(at))
-  return said(reason === null ? STANDING_ASIDE : refusing(reason))
+  return said(reason === null ? LET_THROUGH : refusing(reason))
 }

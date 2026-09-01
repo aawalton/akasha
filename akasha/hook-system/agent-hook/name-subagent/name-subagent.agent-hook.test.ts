@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { join } from "node:path"
 import { ACTING_NAMED, SEAT_NAMED, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { ran } from "@akasha/utils-run/running"
-import { ASIDE, STANDING_ASIDE } from "../../hook-answer/hook-answer.module.code.ts"
+import { ASIDE, LET_THROUGH } from "../../hook-answer/hook-answer.module.code.ts"
 import {
   actingIn,
   answerFor,
@@ -142,12 +142,12 @@ test("a call a subagent makes is answered with the input it is to run with", () 
 })
 
 test("a payload naming no subagent is stood aside from", () => {
-  expect(answerFor(SEATED, JSON.stringify(payloadOf({})))).toEqual(STANDING_ASIDE)
+  expect(answerFor(SEATED, JSON.stringify(payloadOf({})))).toEqual(LET_THROUGH)
 })
 
 test("a payload that will not read is stood aside from", () => {
   for (const one of ["", "{ not json", "[]", "null", '"one"', "3"]) {
-    expect(answerFor(SEATED, one)).toEqual(STANDING_ASIDE)
+    expect(answerFor(SEATED, one)).toEqual(LET_THROUGH)
   }
 })
 

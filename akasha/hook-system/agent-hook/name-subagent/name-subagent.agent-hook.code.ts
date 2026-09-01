@@ -3,10 +3,10 @@ import type { Answer } from "../../hook-answer/hook-answer.module.code.ts"
 import {
   ASIDE,
   inputIn,
+  LET_THROUGH,
   payloadIn,
   rewriting,
   SCOPE_FLAG,
-  STANDING_ASIDE,
   said,
 } from "../../hook-answer/hook-answer.module.code.ts"
 
@@ -93,9 +93,9 @@ export function calledWith(
 
 export function answerFor(env: Readonly<Record<string, string | undefined>>, raw: string): Answer {
   const payload = payloadIn(raw)
-  if (payload === null) return STANDING_ASIDE
+  if (payload === null) return LET_THROUGH
   const call = calledWith(env, payload)
-  return call === null ? STANDING_ASIDE : rewriting(AT, call)
+  return call === null ? LET_THROUGH : rewriting(AT, call)
 }
 
 export async function ranAsNaming(

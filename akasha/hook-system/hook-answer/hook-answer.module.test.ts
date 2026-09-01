@@ -3,11 +3,11 @@ import {
   ASIDE,
   commandIn,
   inputIn,
+  LET_THROUGH,
   payloadIn,
   REFUSED,
   refusing,
   rewriting,
-  STANDING_ASIDE,
   toolInputIn,
   UNREADABLE,
 } from "./hook-answer.module.code.ts"
@@ -82,7 +82,7 @@ test("a refusal carries its reason to standard error as well", () => {
 })
 
 test("standing aside says nothing and its code is 0", () => {
-  expect(STANDING_ASIDE).toEqual({ out: "", err: "", code: ASIDE })
+  expect(LET_THROUGH).toEqual({ out: "", err: "", code: ASIDE })
 })
 
 test("a reason carrying newlines and quotes survives being made JSON", () => {
