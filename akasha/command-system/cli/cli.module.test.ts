@@ -23,7 +23,7 @@ const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
 
 const DISPATCHER = "akasha/command-system/cli/cli.module.code.ts"
 
-const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
+const CHECKING_AT = "akasha/checks/checking/checking.module.code.ts"
 
 const COMMAND = "command"
 
