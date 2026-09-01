@@ -10,6 +10,7 @@ import type { LastMessagedAt } from "./properties/last-messaged-at.text-property
 import type { Origin } from "./properties/origin.relation-property.ts"
 import type { Portrait } from "./properties/portrait.file-property.ts"
 import type { Purpose } from "./properties/purpose.text-property.ts"
+import type { TotalPoints } from "./properties/total-points.number-property.ts"
 import type { ValueSlug } from "./properties/value-slug.text-property.ts"
 import type { VoiceInstruction } from "./properties/voice-instruction.text-property.ts"
 import type { VoiceReferenceSha256 } from "./properties/voice-reference-sha256.text-property.ts"
@@ -24,6 +25,7 @@ export type Persona = Domain & {
   phone?: Phone
   championedDomainSlug?: ChampionedDomainSlug
   greenDayPoints?: GreenDayPoints
+  totalPoints?: TotalPoints
   history?: History
   lastMessagedAt?: LastMessagedAt
   voiceInstruction?: VoiceInstruction
@@ -41,6 +43,7 @@ export const persona = {
     "email-address-property/email-address",
     "file-property/portrait",
     "number-property/green-day-points",
+    "number-property/total-points",
     "persona/abby",
     "persona/aelwyn",
     "persona/aine",
@@ -105,6 +108,7 @@ export const persona = {
     { pagePropertySlug: "voice-instruction", required: false, many: false },
     { pagePropertySlug: "voice-reference-sha256", required: false, many: false },
     { pagePropertySlug: "green-day-points", required: false, many: false },
+    { pagePropertySlug: "total-points", required: false, many: false },
     { pagePropertySlug: "history", required: false, many: false },
     { pagePropertySlug: "last-messaged-at", required: false, many: false, uncommitted: true },
   ],
