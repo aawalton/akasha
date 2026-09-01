@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const anUnjudgedMoveShippedABrokenWayIn = {
+  id: "01a05ebc-f948-745e-b7d8-8978374ed107",
+  pageTypeSlug: "finding",
+  slug: "an-unjudged-move-shipped-a-broken-way-in",
+  domainSlug: "domain/change",
+  claim:
+    "`akasha move` lands without running any check, the same gap `akasha remove` has, and this time it shipped a real defect. Renaming `module/readout-categorization` to `readout-serving` carried the three files and repointed the path its manifest way in lands on, but left the key spelled `./readout-categorization`. The package offered one name while all eleven callers asked for another. The invariant `a way in naming a module's code is spelled as that module's slug` is the check that never ran.",
+  evidence:
+    'On 2026-09-01, `akasha move --from akasha/readout-system/readout-categorization/readout-categorization.module.ts --to .../readout-serving/readout-serving.module.ts` answered that it moved the page, carried the two files beside it, repointed `akasha/readout-system/package.json` and `readout-system.workspace-package.ts`, and then `no check ran: this landing was made by a program rather than by an agent`. It committed as f4f8caca37.\n\nWhat it left in the manifest was `"./readout-categorization": "./readout-serving/readout-serving.module.code.ts"` — the value repointed, the key not. `akasha/code-system/workspace-package/workspace-package.page-type.ts:37` states `A way in naming a module\'s code is spelled as that module\'s slug`, so the tree it committed broke its own package type. Nothing said so. The follow-up edit fixing the key ran 38 checks and none refused, which is the same file judged by the same rules a minute later.\n\nThe move also answers plainly that it repoints nothing outside the folder: the index carries `akasha/` alone, so a file outside it that imports what moved is left unrepointed and is never looked for. That part is honest and I acted on it, repointing eleven files by hand at 659eee665d. The manifest key is different, because the move took that file as its own and repointed only half of it.\n\nHow it was caught: by reading the manifest after the move, not by any check. Had I trusted the command, both sites would have failed their next build, since every caller asked for a way in the package no longer offered. Both deployed clean at 0ce4248bc1 after the fix.\n\nThe call taken: fixed the key, kept the rename, and filed this rather than working around the command.',
+} as const satisfies Finding
