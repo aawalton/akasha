@@ -32,9 +32,6 @@
   },
   "references": [
     {
-      "path": "../location-traces-access"
-    },
-    {
       "path": "../../infra/k8s-types"
     },
     {
