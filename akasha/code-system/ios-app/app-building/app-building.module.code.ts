@@ -15,10 +15,16 @@ const COMPONENT = "ios-component/"
 
 const SUFFIX = ".ios-component.swift.swift"
 
+export type Staging = {
+  readonly scriptPath: string
+  readonly sourcePath: string
+}
+
 export type Plan = {
   readonly appSlug: string
   readonly shellPath: string
   readonly buildScriptPath: string
+  readonly staging: Staging | null
   readonly deliverPaths: readonly string[]
   readonly exports: readonly string[]
 }
@@ -100,6 +106,34 @@ function programsOf(root: string, app: Value, appSlug: string): Programs {
   return { shipped: first, hosting }
 }
 
+type Found = { readonly at: string } | { readonly why: string }
+
+function shellOf(root: string, named: string, appSlug: string, kind: string): Found {
+  const page = pathOf(root, "shell-script", slugOf(named))
+  if (page === null) {
+    return { why: `${appSlug} names the ${kind} ${named}, and no such page stands` }
+  }
+  const at = besideAt(page, "shell", "sh")
+  return at === null ? { why: `no shell file can stand beside ${page}` } : { at }
+}
+
+type Staged = { readonly staging: Staging | null } | { readonly why: string }
+
+function stagingOf(root: string, app: Value, appSlug: string): Staged {
+  const named = textAt(app, "stageScript")
+  const source = textAt(app, "spaSourcePath")
+  if (named === null && source === null) return { staging: null }
+  if (named === null) {
+    return { why: `${appSlug} says where its site is built from and names no \`stage-script\`` }
+  }
+  if (source === null) {
+    return { why: `${appSlug} names a \`stage-script\` and no \`spa-source-path\` to build from` }
+  }
+  const found = shellOf(root, named, appSlug, "stage script")
+  if ("why" in found) return found
+  return { staging: { scriptPath: found.at, sourcePath: source } }
+}
+
 export function planFor(root: string, appSlug: string): Planned {
   const appPath = pathOf(root, "ios-app", appSlug)
   if (appPath === null) return { refused: [`no ios-app page in akasha is slugged ${appSlug}`] }
@@ -111,14 +145,10 @@ export function planFor(root: string, appSlug: string): Planned {
       refused: [`${appSlug} states no \`build-script\`, so its page names nothing that builds it`],
     }
   }
-  const scriptPage = pathOf(root, "shell-script", slugOf(named))
-  if (scriptPage === null) {
-    return { refused: [`${appSlug} names the build script ${named}, and no such page stands`] }
-  }
-  const buildScriptPath = besideAt(scriptPage, "shell", "sh")
-  if (buildScriptPath === null) {
-    return { refused: [`no shell file can stand beside ${scriptPage}`] }
-  }
+  const staged = stagingOf(root, app, appSlug)
+  if ("why" in staged) return { refused: [staged.why] }
+  const built = shellOf(root, named, appSlug, "build script")
+  if ("why" in built) return { refused: [built.why] }
   const programs = programsOf(root, app, appSlug)
   if ("why" in programs) return { refused: [programs.why] }
   const shellPath = dirname(appPath)
@@ -128,7 +158,8 @@ export function planFor(root: string, appSlug: string): Planned {
   return {
     appSlug,
     shellPath,
-    buildScriptPath,
+    buildScriptPath: built.at,
+    staging: staged.staging,
     deliverPaths: deliver,
     exports: exportsOf(app, programs.shipped, programs.hosting),
   }

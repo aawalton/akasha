@@ -14,6 +14,8 @@ export const alanwalton = {
   gitIgnore: "gitignore",
   iconDrawing: "svg",
   iconPath: "native-shell/alanwalton/ios-icon/AppIcon-1024.png",
+  spaSourcePath: "alanwalton/web",
+  stageScript: "shell-script/alanwalton-stage-app",
   partSlugs: [
     "ios-program/alanwalton-app",
     "ios-program/alanwalton-decode-harness",

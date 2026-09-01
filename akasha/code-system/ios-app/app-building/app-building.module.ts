@@ -26,6 +26,10 @@ export const appBuilding = {
       statement: "An app naming no build script is refused rather than walked to.",
     },
     {
+      invariantKind: "departure",
+      statement: "An app naming one half of its staging and not the other is refused.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches a machine.",
     },

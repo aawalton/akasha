@@ -19,6 +19,8 @@ const SCRATCH_AT = "/var/tmp"
 
 const WWW_AT = "www-staged"
 
+const SPA_SOURCE = "NATIVE_SHELL_SPA_SOURCE_DIR"
+
 const EXCLUDES = ["node_modules", "ios", "build", ".DS_Store"]
 
 const MAC_PATH = 'export PATH="/opt/homebrew/opt/node@22/bin:/opt/homebrew/bin:$PATH"'
@@ -70,8 +72,12 @@ function said(chunk: Uint8Array | null): string {
 
 type Ran = { readonly out: string; readonly code: number }
 
-function ran(command: readonly string[]): Ran {
-  const done = Bun.spawnSync([...command], { stdout: "pipe", stderr: "pipe" })
+function ran(command: readonly string[], named: Record<string, string> = {}): Ran {
+  const done = Bun.spawnSync([...command], {
+    stdout: "pipe",
+    stderr: "pipe",
+    env: { ...process.env, ...named },
+  })
   return { out: `${said(done.stdout)}${said(done.stderr)}`, code: done.exitCode }
 }
 
@@ -146,6 +152,19 @@ export function iosApp(argv: readonly string[], given: Given): Answer {
   const report = [
     `building ${plan.appSlug} on ${host} from ${plan.deliverPaths.length} directories`,
   ]
+  if (read.www === null && plan.staging !== null) {
+    const from = join(given.root, plan.staging.sourcePath)
+    const made = ran(["bash", join(given.root, plan.staging.scriptPath)], { [SPA_SOURCE]: from })
+    report.push(made.out.trimEnd())
+    if (made.code !== 0) {
+      return {
+        report,
+        refusals: [`the site ${plan.appSlug} serves was not staged from ${from}`],
+        code: 3,
+      }
+    }
+    report.push(`staged the site ${plan.appSlug} serves from ${from}`)
+  }
   const short = delivered(given.root, plan, host)
   if (short.length > 0) return { report, refusals: short, code: 3 }
   if (read.www !== null) {

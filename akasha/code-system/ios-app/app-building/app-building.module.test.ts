@@ -15,6 +15,15 @@ const QUIET_BODY =
   `export const quiet = { id: "${QUIET_ID}", pageTypeSlug: "ios-app", slug: "quiet",` +
   ` definition: "an app naming no build script", bundleId: "me.quiet.app" }\n`
 
+const HALF_ID = "01a05fd3-71b8-7c04-8a6e-3f19d4470b56"
+
+const HALF_AT = "akasha/half.ios-app.ts"
+
+const HALF_BODY =
+  `export const half = { id: "${HALF_ID}", pageTypeSlug: "ios-app", slug: "half",` +
+  ` definition: "an app saying where its site comes from and not what stages it",` +
+  ` buildScript: "shell-script/build-sim", spaSourcePath: "alanwalton/web" }\n`
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -32,6 +41,13 @@ function namingNoBuildScript(): string {
   return at
 }
 
+function namingHalfIsStaging(): string {
+  const at = scratch.rootFor("akasha-app-building-half-")
+  put(at, HALF_AT, HALF_BODY)
+  listedFiled(at, "ios-app", "half", [{ path: HALF_AT, id: HALF_ID }])
+  return at
+}
+
 test("an app no page is slugged for is refused by that name", () => {
   const held = planFor(root, "nosuchapp")
   expect("refused" in held).toBe(true)
@@ -42,6 +58,12 @@ test("an app naming no build script is refused rather than walked to", () => {
   const held = planFor(namingNoBuildScript(), "quiet")
   expect("refused" in held).toBe(true)
   expect("refused" in held ? held.refused.join(" ") : "").toContain("build-script")
+})
+
+test("an app naming one half of its staging and not the other is refused", () => {
+  const held = planFor(namingHalfIsStaging(), "half")
+  expect("refused" in held).toBe(true)
+  expect("refused" in held ? held.refused.join(" ") : "").toContain("stage-script")
 })
 
 test("both apps are built by the one script standing above them", () => {
@@ -92,4 +114,16 @@ test("every component the shipped program names is handed to the seam", () => {
   const said = planned("alanwalton").exports.join("\n")
   expect(said).toContain("ring/ring.ios-component.swift.swift")
   expect(said).toContain("tier/tier.ios-component.swift.swift")
+})
+
+test("what stages an app's site and where that site is built from are read off its page", () => {
+  const held = planned("alanwalton").staging
+  expect(held?.sourcePath).toBe("alanwalton/web")
+  expect(held?.scriptPath).toEndWith(
+    "alanwalton-stage-app/alanwalton-stage-app.shell-script.shell.sh"
+  )
+})
+
+test("an app whose site is a page of its own stages nothing", () => {
+  expect(planned("smilingjenny").staging).toBe(null)
 })

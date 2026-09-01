@@ -18,7 +18,8 @@ export const iosApp = {
     "what an app is built from is read from its page rather than said here.",
     "a build needs Xcode, so a workstation that is not a mac hands it to one that is.",
     "nothing is said until the build has finished, because a command prints nothing itself.",
-    "a build naming no site installs whatever the delivered package already carried.",
+    "an app whose page names what stages its site has that site built here first.",
+    "a build naming a site skips that staging and installs the site it was named.",
   ],
   invariants: [
     {
@@ -51,7 +52,11 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "The site an app carries is handed in rather than read from its page.",
+      statement: "An app's site is staged here before the tree reaches the mac.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A site handed in stands instead of the one the app's page would stage.",
     },
   ],
 } as const satisfies Command

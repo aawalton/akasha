@@ -8,6 +8,8 @@ import type { DisplayName } from "./properties/display-name.text-property.ts"
 import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
 import type { IconDrawing } from "./properties/icon-drawing.file-property.ts"
 import type { IconPath } from "./properties/icon-path.text-property.ts"
+import type { SpaSourcePath } from "./properties/spa-source-path.text-property.ts"
+import type { StageScript } from "./properties/stage-script.relation-property.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
 
 export type IosApp = WorkspacePackage & {
@@ -19,6 +21,8 @@ export type IosApp = WorkspacePackage & {
   gitIgnore: GitIgnore
   iconDrawing?: IconDrawing
   iconPath?: IconPath
+  spaSourcePath?: SpaSourcePath
+  stageScript?: StageScript
   webEntry?: WebEntry
 }
 
@@ -37,6 +41,7 @@ export const iosApp = {
     "module/app-building",
     "named-file-property/git-ignore",
     "relation-property/build-script",
+    "relation-property/stage-script",
     "shell-script/build-sim",
     "shell-script/build-stamp",
     "shell-script/monarch-url",
@@ -47,6 +52,7 @@ export const iosApp = {
     "text-property/development-team",
     "text-property/display-name",
     "text-property/icon-path",
+    "text-property/spa-source-path",
   ],
   extendsSlug: "page-type/workspace-package",
   properties: [
@@ -58,6 +64,8 @@ export const iosApp = {
     { pagePropertySlug: "git-ignore", required: true, many: false },
     { pagePropertySlug: "icon-drawing", required: false, many: false },
     { pagePropertySlug: "icon-path", required: false, many: false },
+    { pagePropertySlug: "spa-source-path", required: false, many: false },
+    { pagePropertySlug: "stage-script", required: false, many: false },
     { pagePropertySlug: "web-entry", required: false, many: false },
   ],
   invariants: [
