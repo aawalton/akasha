@@ -12,7 +12,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "A file writing a page through the page store lands the write rather than refusing.",
       workingMemory:
-        "The compare works: /write takes the commit read at, and a moved path is refused, proved over raw HTTP. But no renderer moves this. Of the 50 page types the callers write, 49 are markdown pages under pages/, and the store answers for akasha alone, on read and on write alike. The true blocker is that the store does not serve the markdown pages its callers write. Port 8787 needs no restoring: nothing outside akasha calls /q and it was taken on purpose in c04a9f7f3b.",
+        "49 of the 50 page types the callers write are markdown under pages/, and the store answers for akasha alone, so no renderer moves this. But tools/lib/page-query-client.ts still works: askComposed answered 132 daily-tracking pages just now. 0e6b6d059d repointed 89 files off it onto akasha stubs, so writePage, patchPage and askNamed refuse and the stoplights throw. The call: an adapter puts the markdown callers back on the working client, each moving to akasha as its page type lands.",
     },
     {
       statement:
