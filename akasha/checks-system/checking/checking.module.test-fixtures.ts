@@ -35,12 +35,12 @@ export const SAMPLED: readonly string[] = [
 
 export const scratch = scratchWorld()
 
-type Stands = {
+type PageType = {
   readonly slug: string
   readonly at: string
 }
 
-const STANDS: Stands = {
+const STANDS: PageType = {
   slug: CHECK,
   at: "akasha/checks-system/code-check/code-check.page-type.ts",
 }
@@ -52,7 +52,7 @@ export function rootWith(
     readonly raw?: string
     readonly body: string
   }[],
-  stands: Stands = STANDS
+  stands: PageType = STANDS
 ): string {
   const root = scratch.rootFor("akasha-checking-")
   noneOfTypeFiled(root, stands.slug)
