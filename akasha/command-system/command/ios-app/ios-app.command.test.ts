@@ -1,14 +1,36 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
+import { listedFiled } from "@akasha/indexes/testing"
+import { put } from "@akasha/testing-system/putting"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { DATA, INPUT } from "../../cli/cli.module.code.ts"
+import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { iosApp, readIn } from "./ios-app.command.code.ts"
 import { iosApp as page } from "./ios-app.command.ts"
 
 const root = join(import.meta.dir, "..", "..", "..", "..")
 
+const QUIET_ID = "01a05fd2-4c1e-7a3e-9b70-2c6a5d81f4e2"
+
+const QUIET_AT = "akasha/quiet.ios-app.ts"
+
+const QUIET_BODY =
+  `export const quiet = { id: "${QUIET_ID}", pageTypeSlug: "ios-app", slug: "quiet",` +
+  ` definition: "an app naming no build script", bundleId: "me.quiet.app" }\n`
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
 function given(at: string): Given {
   return { root: at, calledAs: "akasha ios-app", from: at, writer: null, agentId: null }
+}
+
+function namingNoBuildScript(): string {
+  const at = scratch.rootFor("akasha-ios-app-")
+  put(at, QUIET_AT, QUIET_BODY)
+  listedFiled(at, "ios-app", "quiet", [{ path: QUIET_AT, id: QUIET_ID }])
+  return at
 }
 
 test("an act nobody named is refused with the acts there are", () => {
@@ -60,9 +82,10 @@ test("an app no page is slugged for refuses at the data rather than the caller",
 })
 
 test("an app naming no build script refuses before reaching a machine", () => {
-  const answer = iosApp(["build", "smilingjenny"], given(root))
+  const answer = iosApp(["build", "quiet"], given(namingNoBuildScript()))
   expect(answer.code).toBe(DATA)
   expect(answer.refusals.join(" ")).toContain("build-script")
+  expect(answer.report).toEqual([])
 })
 
 test("a caller saying nothing is refused as the caller's fault", () => {
