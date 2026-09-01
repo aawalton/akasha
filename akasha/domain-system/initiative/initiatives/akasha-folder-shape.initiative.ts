@@ -9,8 +9,8 @@ export const akashaFolderShape = {
   parentSlug: "akasha-migration",
   intents: [
     { statement: "No non-auth code for supabase remains." },
-    { statement: "Moving a folder is a single safe akasha move." },
     { statement: "The akasha subfolder has a clean folder shape." },
     { statement: "The folder-matches-a-shape check judges a folder holding no file of its own." },
+    { statement: "Renaming a workspace package is a single safe akasha move." },
   ],
 } as const satisfies Initiative
