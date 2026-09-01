@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const mobileCliIsInAkashaAndTheOldFolderWaitsOnNineRepoints = {
+  id: "01a05d24-7c1e-7a40-9f83-6b21d4e0a7c5",
+  pageTypeSlug: "finding",
+  slug: "mobile-cli-is-in-akasha-and-the-old-folder-waits-on-nine-repoints",
+  domainSlug: "domain/alan-harness",
+  claim:
+    "mobile-cli is in akasha as 28 modules at 3e93955508 and answers identically, but the old folder cannot be emptied until seven files outside akasha and three akasha shell scripts name the new package. Four `no-rule-in-two-files` refusals arrived with it: `sleep` twice inside mobile-cli, and `shellSingleQuote` against `quoted` in ios-app's app-building. The move also took two scratch paths off `/tmp`, which `no-tmp` refuses absolutely.",
+  evidence:
+    "The six escapes the working memory named were cleared at `48d3f04f49` by giving `tools/lib` and `repo/roots` manifests and naming them rather than reaching by relative path. `alanwalton/mobile-cli`'s own typecheck went from 53 TS6307 to 0 — every one the `tools/` (29), `page/` (21) and `repo/` (3) closure the relative paths dragged in, and not one a type error. The roots half was superseded 25 minutes later when the root-page-engine lane moved `roots.ts` in as `@akasha/pages-system/checkout-roots`; `@tools/lib` carries the other four reaches.\n\nWhat is left, in this order so HEAD never goes red. Three akasha shell scripts, two under `ios-app/ios-apps/*/shell-scripts/*-decode-harness-run` and one under `ios-harness/shell-scripts/render-harness-run`, spell `./alanwalton/mobile-cli/src/lib/ios-components.ts` as a runtime string. Then seven files take `@akasha/mobile-cli/<slug>`: `tools/lib/mobile-code.ts` with 15 reaches, `mobile-sim-code.ts` with 3, `sim-driving.ts` with 4, `mobile-vocabulary.ts` with 1, `mobile-testflight-cut.ts` with 2, and `tools/commands/mobile/cut-status.ts` and `deploy-device.ts` with 1 each. Then the root manifest drops `alanwalton/mobile-cli` and the folder goes. 23 of the 28 modules are exported for exactly these reaches.\n\n`no-tmp` refuses `/tmp` absolutely and its variable escape is a declared gap, so `remoteScriptPath` and the local `mkdtempSync` moved to `/var/tmp`, akasha's own `SCRATCH_AT`. That is a behaviour change on the macbook this box cannot verify.\n\nProved unchanged: `componentSwiftForProgram` answers 21, 11, 20 and 10 components for the four ios-programs as the old copy does, and `resolveApp` answers the same bundle id and `alanwalton/web`.",
+} as const satisfies Finding
