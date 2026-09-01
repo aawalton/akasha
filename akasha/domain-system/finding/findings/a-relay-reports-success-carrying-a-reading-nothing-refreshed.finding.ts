@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aRelayReportsSuccessCarryingAReadingNothingRefreshed = {
+  id: "01a05e50-ef81-7702-a7a1-1eb6d61f4033",
+  pageTypeSlug: "finding",
+  slug: "a-relay-reports-success-carrying-a-reading-nothing-refreshed",
+  domainSlug: "workspace-package/readout-system",
+  claim:
+    "`monarch-relay-service` exits 0 and logs a reading carried to both sites whether or not anything took a fresh one. For eighty minutes it carried the same frozen reading every five minutes and reported success each time, while the service that takes the reading failed every run. The half that was working reported loudly and the half that was broken reported into a unit nobody watches.",
+  evidence:
+    'Measured on the workstation at 2026-09-01T18:45Z. The relay logged `9 taken 2026-09-01T17:30:26.542Z carried to https://alanwalton.com` and the same to `https://smilingjenny.me`, exiting 0, every five minutes. The timestamp inside those lines never moved: the reading was taken at 17:30:26.542Z and it was 18:45Z. `monarch-reading-service` had failed on every run across that whole window. `akasha/readout-system/readout-categorization/readout-categorization.module.code.ts` refuses a reading older than `STALE_AFTER_MS`, which is forty-five minutes, so from about 18:15Z the route answered 503 `{ok:false,error:"No reading."}` while the relay went on reporting success. The relay does read the timestamp — it prints it — so the staleness was in its own log line, unjudged. What makes this worth writing down apart from the rename that caused it: the relay is the component with the visible output, and its output is a function of what it reads rather than of whether that reading is live, so a reader watching the relay sees health throughout an outage. A carrier that prints an age it never compares against anything is not a liveness check, and the tile going blank was the first signal available to anyone. After `akasha service install monarch-reading-service`, a fresh reading was taken at 18:50:37.103Z and the relay carried that timestamp to both sites. The call taken: filed rather than fixed, because whether the relay should refuse a stale reading or carry it and let the route judge is a design question — carrying it keeps one judge instead of two, and the fix may belong in what watches the reading service rather than in the relay at all.',
+} as const satisfies Finding

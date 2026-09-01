@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aRenamedModuleLeavesItsInstalledUnitOnTheOldPath = {
+  id: "01a05e50-ef80-7355-a5e8-5c4165e3cc3e",
+  pageTypeSlug: "finding",
+  slug: "a-renamed-module-leaves-its-installed-unit-on-the-old-path",
+  domainSlug: "page-type/workstation-service",
+  claim:
+    "`akasha service install` writes a systemd unit out of a service page once, and nothing rewrites it when the page changes. A lane renamed `akasha/alan-harness/` to `akasha/alan/harness/` and corrected the page; the unit already installed kept the old path and failed every run for eighty minutes. The pages were right the whole time and the machine was wrong, so nothing that reads the tree could see it.",
+  evidence:
+    'Measured on the workstation at 2026-09-01T18:49Z. `systemctl --user status monarch-reading-service.service` reported `Active: failed (Result: exit-code)` with `error: Module not found "akasha/alan-harness/monarch-reading/monarch-reading.module.code.ts"`, and its `Docs:` line named `akasha/alan-harness/workstation-services/monarch-reading-service.workstation-service.ts` — a path with no file behind it. The page itself was already correct: `akasha/alan/harness/workstation-services/monarch-reading-service.workstation-service.ts:8` reads `runs: ["bun akasha/alan/harness/monarch-reading/monarch-reading.module.code.ts"]`. The installed unit at `~/.local/state/workstation-services/monarch-reading-service.service` was dated Aug 31 22:38, before the rename. `akasha service install monarch-reading-service` rewrote it and the next run exited 0 with `9 unreviewed, kept beside ...monarch-unreviewed-transactions.readout.ts`. Reach: I checked every other installed unit for an ExecStart naming a file that no longer exists and found none, so this was the only one the rename orphaned. The reason it was this one and not the relay beside it is that the relay\'s ExecStart names `akasha/readout-system/readout-relay/...`, which the rename never touched. The general shape: an installed unit is a generated copy of a page, and the only thing that refreshes it is someone naming that service again. A rename is exactly the change that makes the copy wrong and gives nobody a reason to re-run the install. The call taken: installed the one service and filed the class rather than installing everything, since `--all` is dangerous and naming one slug is the rule.',
+} as const satisfies Finding
