@@ -1,10 +1,5 @@
-import { pageTypesIn } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages-system/change"
-import {
-  type Carried as Declared,
-  declarationsOf,
-  identityOf,
-} from "@akasha/pages-system/page-type-properties"
+import { type Carried as Declared, identityOf } from "@akasha/pages-system/page-type-properties"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -37,7 +32,7 @@ function narrowingNothing(nearer: Declared, further: Declared): string {
 
 export function restatingIn(one: Held, shadow: Shadow): readonly Judged[] {
   const said: Judged[] = []
-  const declared = declarationsOf(one.slug, shadow.reading, shadow.pageOf)
+  const declared = shadow.index.declarationsOf(one.slug, shadow.pageOf)
   for (const held of Map.groupBy(declared, identityOf).values()) {
     for (const [at, nearer] of held.entries()) {
       const further = held[at + 1]
@@ -50,7 +45,7 @@ export function restatingIn(one: Held, shadow: Shadow): readonly Judged[] {
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const carried = carriedBy(change, pageTypesIn(shadow.reading))
+  const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (carried.length === 0) return []
   const said: Judged[] = []
   for (const one of judgedIn(carried, change.root, shadow)) {
