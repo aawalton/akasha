@@ -6,15 +6,15 @@ export const smsAccess = {
   slug: "sms-access",
   definition: "what an inbound SMS reads and writes in the page store",
   manifest: "json",
-  partSlugs: ["module/client", "module/sms-allowlist", "module/sms-discard"],
+  partSlugs: ["module/sms-allowlist", "module/sms-discard"],
   invariants: [
     {
       invariantKind: "absence",
       statement: "Nothing here reaches the SMS carrier.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The Supabase client handed in is read by nothing.",
+      invariantKind: "absence",
+      statement: "Nothing here reaches Supabase.",
     },
   ],
 } as const satisfies WorkspacePackage

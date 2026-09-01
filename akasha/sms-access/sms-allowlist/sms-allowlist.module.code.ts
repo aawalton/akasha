@@ -6,11 +6,8 @@ import {
   type SmsExternalIdentity,
 } from "@akasha/sms-core/sms-identity"
 import { asBoolean } from "@akasha/utils-narrow/as-boolean"
-import type { SmsAllowlistClient } from "../client/client.module.code.ts"
 
-export async function loadSmsExternalIdentities(
-  _sb: SmsAllowlistClient
-): Promise<readonly SmsExternalIdentity[]> {
+export async function loadSmsExternalIdentities(): Promise<readonly SmsExternalIdentity[]> {
   const asked = await askComposed({
     "page-type": "relationship",
     keys: ["phone", "account-user-id", "sms-allowed", "sms-handler-target"],
