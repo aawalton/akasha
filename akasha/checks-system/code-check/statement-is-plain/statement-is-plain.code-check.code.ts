@@ -1,5 +1,7 @@
 import { lineOf, parsedAs } from "@akasha/code-system/code-source"
+import { type Grammars, grammarsIn, plainlyBy } from "@akasha/plain-language"
 import ts from "typescript"
+import type { Body } from "../../change-walking/change-walking.module.code.ts"
 import {
   judgingEach,
   overEachText,
@@ -110,7 +112,7 @@ function sayingOf(split: Split): string {
     return (
       `line ${split.line} states why at \`${split.mark}\` — an invariant states what is true and never why\n` +
       `  ${split.second}\n` +
-      "  cut what only explains. Split out a fact standing in there and keep it."
+      "  cut what only explains. Split out a fact held in there and keep it."
     )
   }
   const head =
@@ -124,15 +126,43 @@ function sayingOf(split: Split): string {
   )
 }
 
-function found(path: string, text: string): readonly string[] {
+export function refusalOf(one: Stated, grammars: Grammars): string | null {
+  const said = plainlyBy(grammars, one.text)
+  if (said.plain) return null
+  if (said.shape !== null) {
+    return (
+      `line ${one.line} is written in \`${said.shape}\`, a shape akasha refuses\n` +
+      `  ${said.reason ?? ""}\n` +
+      "  say the same fact in the plainest words that keep it."
+    )
+  }
+  return (
+    `line ${one.line} is not plain language, and the grammar stopped at \`${said.stoppedOn}\`\n` +
+    `  ${one.text}\n` +
+    "  say it more simply, or hand it back as one the grammar lacks a shape for."
+  )
+}
+
+function found(path: string, text: string, grammars: Grammars | null): readonly string[] {
   const said: string[] = []
   for (const one of statementsIn(path, text)) {
     const split = splitAt(one)
-    if (split !== null) said.push(sayingOf(split))
+    if (split !== null) {
+      said.push(sayingOf(split))
+      continue
+    }
+    const refused = grammars === null ? null : refusalOf(one, grammars)
+    if (refused !== null) said.push(refused)
   }
   return said
 }
 
-export const reasonsIn = overEachText(found)
+export const reasonsIn = overEachText((path, text) => found(path, text, null))
 
-export const statementStatesOneThing = judgingEach(TEXTS, (given) => found(given.path, given.text))
+export function reasonsWith(grammars: Grammars): (given: Body) => readonly string[] {
+  return overEachText((path, text) => found(path, text, grammars))
+}
+
+export const statementIsPlain = judgingEach(TEXTS, (given) =>
+  found(given.path, given.text, grammarsIn(given.root))
+)

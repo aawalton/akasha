@@ -1,8 +1,15 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { rootOf } from "@akasha/command-system/rooting"
+import { grammarsIn } from "@akasha/plain-language"
 import { bodiesAt } from "@akasha/testing-system/bodying"
-import { reasonsIn, splitAt, statementsIn } from "./statement-states-one-thing.code-check.code.ts"
+import {
+  reasonsIn,
+  reasonsWith,
+  splitAt,
+  statementsIn,
+} from "./statement-is-plain.code-check.code.ts"
 
 const ROOT = "/repo"
 
@@ -11,9 +18,13 @@ const AT = "akasha/held.check.ts"
 const HERE = dirname(import.meta.path)
 
 const OWN: readonly string[] = [
-  "statement-states-one-thing.code-check.code.ts",
-  "statement-states-one-thing.code-check.test.ts",
+  "statement-is-plain.code-check.code.ts",
+  "statement-is-plain.code-check.test.ts",
 ]
+
+const REPO_AT = rootOf(import.meta.dir)
+
+const judged = reasonsWith(grammarsIn(REPO_AT))
 
 const given = bodiesAt(ROOT, AT)
 
@@ -31,7 +42,7 @@ test("one sentence carrying no mark of its own is let through", () => {
   expect(reasonsIn(given(body))).toEqual([])
 })
 
-test("a statement giving its reason is refused and the clause it turns on is named", () => {
+test("a statement giving its reason is refused and the clause saying why is named", () => {
   const said = reasonsIn(
     given(
       paged(
@@ -64,7 +75,7 @@ test("a comma joins a second fact and is refused", () => {
 
 test("a semicolon joins a second fact as a comma does", () => {
   const body = paged(
-    JSON.stringify("The indexes answer what stands; the graph answers what follows.")
+    JSON.stringify("The indexes answer what is there; the graph answers what follows.")
   )
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
@@ -89,12 +100,12 @@ test("a dash joins a second fact as a comma does", () => {
 
 test("two sentences in one statement are refused and the second is the one shown", () => {
   const body = paged(
-    JSON.stringify("The place is said here alone. What stands under it is named away.")
+    JSON.stringify("The place is said here alone. What sits under it is named away.")
   )
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("holds two sentences")
-  expect(said[0]).toContain("What stands under it is named away.")
+  expect(said[0]).toContain("What sits under it is named away.")
 })
 
 test("a full stop closing the statement is no second sentence", () => {
@@ -112,7 +123,7 @@ test("a mark inside a spelt name is no mark of the statement's own", () => {
   expect(reasonsIn(given(body))).toEqual([])
 })
 
-test("a mark outside a spelt name is found where a spelt name stands beside it", () => {
+test("a mark outside a spelt name is found where a spelt name is beside it", () => {
   const body = paged(
     JSON.stringify("A method declaring `this: void` is refused, and nothing else is.")
   )
@@ -182,7 +193,7 @@ test("an entry stating a kind and no statement is passed over", () => {
   expect(reasonsIn(given('const held = { invariantKind: "gap" }\n'))).toEqual([])
 })
 
-test("a statement standing beside no kind is not an invariant", () => {
+test("a statement beside no kind is not an invariant", () => {
   const body = 'const held = { statement: "A page is named because the slug says so." }\n'
   expect(reasonsIn(given(body))).toEqual([])
 })
@@ -223,4 +234,49 @@ test("the check refuses neither of its own code files though each spells the wor
     expect(body).toMatch(/because/)
     expect(reasonsIn(given(body))).toEqual([])
   }
+})
+
+test("a statement the grammar reads is let through", () => {
+  const body = paged(JSON.stringify("A page is one TypeScript file."))
+  expect(judged(given(body))).toEqual([])
+})
+
+test("a statement written in a refused shape names that shape", () => {
+  const body = paged(JSON.stringify("It is read from the index."))
+  const said = judged(given(body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 3")
+  expect(said[0]).toContain("`lone-pronoun`")
+  expect(said[0]).toContain("say the same fact in the plainest words")
+})
+
+test("a statement no shape reads says the word the parse stopped at", () => {
+  const body = paged(JSON.stringify("A page is one TypeScript file whenever whenever."))
+  const said = judged(given(body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("not plain language")
+  expect(said[0]).toContain("stopped at")
+})
+
+test("a statement refused for a mark is not judged against the grammar too", () => {
+  const body = paged(JSON.stringify("It is read, so the index answers."))
+  const said = judged(given(body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("joins a second fact")
+})
+
+test("a directive is passed over where an invariant is judged", () => {
+  const body = [
+    "export const held = {",
+    "  directives: [",
+    "    {",
+    '      directiveKind: "rule",',
+    '      act: "It is read from the index.",',
+    '      statement: "It is read from the index.",',
+    "    },",
+    "  ],",
+    "}",
+    "",
+  ].join("\n")
+  expect(judged(given(body))).toEqual([])
 })

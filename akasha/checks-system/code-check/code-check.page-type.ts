@@ -63,7 +63,7 @@ export const codeCheck = {
     "code-check/require-import-extension",
     "code-check/restatement-narrows-something",
     "code-check/shell-clean",
-    "code-check/statement-states-one-thing",
+    "code-check/statement-is-plain",
     "code-check/tests-pass",
     "code-check/typecheck",
   ],
