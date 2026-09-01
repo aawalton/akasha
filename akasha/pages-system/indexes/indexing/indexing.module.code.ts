@@ -304,8 +304,8 @@ export function settlingOver(
     now: readInto(one.after, one.path),
   }))
 
-  const standing = held.flatMap((one) => (one.now === null ? [] : [one.now]))
-  const fileProperties = new Map<string, string | null>([...filed, ...filePropertiesIn(standing)])
+  const surviving = held.flatMap((one) => (one.now === null ? [] : [one.now]))
+  const fileProperties = new Map<string, string | null>([...filed, ...filePropertiesIn(surviving)])
   const naming = reachingSettled(reading, held, moving, repo, fileProperties)
 
   const imported = filingOf(
@@ -334,7 +334,7 @@ export function settlingOver(
   }
   const before = held.flatMap((one) => (one.was === null ? [] : [one.was]))
   const wasIdentifying = identifyingFrom(sourceAmong(before, sourceIn(reading, wasPageOf)))
-  const nowIdentifying = identifyingFrom(sourceAmong(standing, sourceIn(overSchema, pageOf)))
+  const nowIdentifying = identifyingFrom(sourceAmong(surviving, sourceIn(overSchema, pageOf)))
   const elsewhere =
     turned.size === 0 ? [] : standingBeside(reading, new Set(carried.keys()), pageOf)
   const identity = filingOf(
