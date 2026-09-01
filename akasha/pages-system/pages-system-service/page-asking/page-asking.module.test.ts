@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { type Asked, asking } from "./page-asking.module.code.ts"
+import { type Asked, asking, meets, type Query } from "./page-asking.module.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..", "..")
 
@@ -85,4 +85,89 @@ test("a limit below nothing is refused rather than taken as none", () => {
 test("an offset that is not whole is refused", () => {
   const asked = asking(root, { pageTypeSlug: "invariant-kind", offset: 1.5 })
   expect("refused" in asked && asked.refused).toContain("offset")
+})
+
+function slugsOf(asked: Asked): readonly unknown[] {
+  return rowsOf(asked).map((one) => one.slug)
+}
+
+function over(where: unknown): Asked {
+  return asking(root, {
+    pageTypeSlug: "invariant-kind",
+    where: where as Query["where"],
+    keys: ["slug"],
+  })
+}
+
+test("a test this does not run is refused rather than dropped", () => {
+  const asked = over({ slug: { startsWith: "dep" } })
+  expect("refused" in asked && asked.refused).toContain("where.slug.startsWith")
+})
+
+test("a refusal names the tests this does run", () => {
+  const asked = over({ slug: { gt: "dep" } })
+  expect("refused" in asked && asked.refused).toContain("at-or-after")
+})
+
+test("a test standing beside one this does not run is refused too", () => {
+  const asked = over({ slug: { is: "gap", nearly: "gap" } })
+  expect("refused" in asked && asked.refused).toContain("where.slug.nearly")
+})
+
+test("a where holding only the tests already taken answers as it did", () => {
+  expect(slugsOf(over({ slug: { is: "gap" } }))).toEqual(["gap"])
+  expect(slugsOf(over({ slug: { in: ["gap", "absence"] } }))).toEqual(["absence", "gap"])
+  expect(slugsOf(over({ slug: { empty: true } }))).toEqual([])
+  expect(slugsOf(over({ invariants: { has: "nothing at all" } }))).toEqual([])
+})
+
+test("starts-with keeps the slugs beginning with what is stated", () => {
+  expect(slugsOf(over({ slug: { "starts-with": "de" } }))).toEqual(["departure"])
+})
+
+test("ends-with keeps the slugs ending with what is stated", () => {
+  expect(slugsOf(over({ slug: { "ends-with": "gap" } }))).toEqual(["gap", "stopgap"])
+})
+
+test("contains keeps the slugs holding what is stated", () => {
+  expect(slugsOf(over({ slug: { contains: "part" } }))).toEqual(["departure"])
+})
+
+test("not-in leaves out what is named", () => {
+  const left = slugsOf(over({ slug: { "not-in": ["gap", "stopgap"] } }))
+  expect(left).not.toContain("gap")
+  expect(left).toContain("departure")
+})
+
+test("before keeps what orders earlier than what is stated", () => {
+  expect(slugsOf(over({ slug: { before: "c" } }))).toEqual(["absence"])
+})
+
+test("at-or-after keeps what is stated and what orders later", () => {
+  const left = slugsOf(over({ slug: { "at-or-after": "gap" } }))
+  expect(left).toEqual(["gap", "stopgap", "upkeep"])
+})
+
+test("after leaves out what is stated", () => {
+  expect(slugsOf(over({ slug: { after: "gap" } }))).toEqual(["stopgap", "upkeep"])
+})
+
+test("at-or-before keeps what is stated and what orders earlier", () => {
+  expect(slugsOf(over({ slug: { "at-or-before": "absence" } }))).toEqual(["absence"])
+})
+
+test("an ordering test reads two instants as instants", () => {
+  const held = { at: "2026-08-30T12:00:00Z" }
+  expect(meets(held, "at", { "at-or-after": "2026-08-30" })).toBe(true)
+  expect(meets(held, "at", { before: "2026-08-01" })).toBe(false)
+  expect(meets(held, "at", { before: "2026-09-01" })).toBe(true)
+})
+
+test("an ordering test reads two numbers as numbers", () => {
+  expect(meets({ n: 9 }, "n", { before: 10 })).toBe(true)
+  expect(meets({ n: 9 }, "n", { before: 5 })).toBe(false)
+})
+
+test("an ordering test over nothing held keeps nothing", () => {
+  expect(meets({}, "at", { before: "2026-09-01" })).toBe(false)
 })

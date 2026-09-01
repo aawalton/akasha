@@ -168,3 +168,57 @@ test("an answer to a write names the commit it landed as", async () => {
   const held = await bodyOf(answered)
   expect("commit" in held).toBe(true)
 })
+
+test("a test the pages do not run is refused by the name it was given", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking({ pageTypeSlug: "invariant-kind", where: { slug: { startsWith: "de" } } })
+  )
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("where.slug.startsWith")
+})
+
+test("a refusal over a test names what the pages do run", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking({ pageTypeSlug: "invariant-kind", where: { slug: { gt: "de" } } })
+  )
+  expect(String((await bodyOf(answered)).refused)).toContain("ends-with")
+})
+
+test("a test given what it cannot take is refused by name", () => {
+  const read = queryIn({ pageTypeSlug: "invariant-kind", where: { slug: { in: "gap" } } })
+  expect("refused" in read && read.refused).toContain("where.slug.in")
+})
+
+test("an ordering test given a list is refused by name", () => {
+  const read = queryIn({ pageTypeSlug: "invariant-kind", where: { at: { before: ["x"] } } })
+  expect("refused" in read && read.refused).toContain("where.at.before")
+})
+
+test("a test the pages run is read off the body", () => {
+  const read = queryIn({
+    pageTypeSlug: "invariant-kind",
+    where: { slug: { "starts-with": "de" }, at: { "at-or-after": 7 } },
+  })
+  expect("query" in read && read.query.where?.slug?.["starts-with"]).toBe("de")
+  expect("query" in read && read.query.where?.at?.["at-or-after"]).toBe(7)
+})
+
+test("a where holding only the tests already taken answers as it did", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking({ pageTypeSlug: "invariant-kind", where: { slug: { is: "gap" } }, keys: ["slug"] })
+  )
+  expect(answered.status).toBe(200)
+  expect((await bodyOf(answered)).rows).toEqual([{ slug: "gap" }])
+})
+
+test("a test named nowhere is refused rather than narrowing nothing", async () => {
+  const answered = await answering(
+    GIVEN,
+    asking({ pageTypeSlug: "invariant-kind", where: { slug: { bogusop: "de" } }, keys: ["slug"] })
+  )
+  expect(answered.status).toBe(400)
+  expect(String((await bodyOf(answered)).refused)).toContain("bogusop")
+})

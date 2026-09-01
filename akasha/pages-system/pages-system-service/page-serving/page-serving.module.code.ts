@@ -1,9 +1,11 @@
-import { asking, type Query, type Test } from "../page-asking/page-asking.module.code.ts"
+import { asking, type Query, TESTS_RUN, type Test } from "../page-asking/page-asking.module.code.ts"
 import type { Asked, Put, Writer } from "../page-writing/page-writing.module.code.ts"
 
 export const ASK_AT = "/ask"
 
 export const WRITE_AT = "/write"
+
+const ORDERING_TESTS = ["at-or-after", "after", "before", "at-or-before"]
 
 export type Serving = {
   readonly root: string
@@ -27,28 +29,40 @@ function stringsIn(given: unknown): readonly string[] | null {
   return given.every((one) => typeof one === "string") ? (given as readonly string[]) : null
 }
 
-function testIn(given: unknown): Test | null {
+function boundRefused(at: string, name: string, bound: unknown): string | null {
+  if (name === "empty") {
+    return typeof bound === "boolean" ? null : `${at} takes true or false`
+  }
+  if (name === "in" || name === "not-in") {
+    return stringsIn(bound) === null ? `${at} takes a list of strings` : null
+  }
+  if (name === "contains") {
+    if (typeof bound === "string" || stringsIn(bound) !== null) return null
+    return `${at} takes a string or a list of strings`
+  }
+  if (ORDERING_TESTS.includes(name)) {
+    if (typeof bound === "string" || typeof bound === "number") return null
+    return `${at} takes a string or a number`
+  }
+  return typeof bound === "string" ? null : `${at} takes a string`
+}
+
+export type Took = { readonly test: Test } | { readonly refused: string }
+
+export function testIn(key: string, given: unknown): Took {
   const held = objectIn(given)
-  if (held === null) return null
-  const test: { is?: string; in?: readonly string[]; has?: string; empty?: boolean } = {}
-  if (held.is !== undefined) {
-    if (typeof held.is !== "string") return null
-    test.is = held.is
+  if (held === null) return { refused: `\`where.${key}\` is no test this takes` }
+  const test: Record<string, unknown> = {}
+  for (const [name, bound] of Object.entries(held)) {
+    const at = `\`where.${key}.${name}\``
+    if (!TESTS_RUN.includes(name)) {
+      return { refused: `${at} is no test this runs. the tests are ${TESTS_RUN.join(", ")}` }
+    }
+    const refused = boundRefused(at, name, bound)
+    if (refused !== null) return { refused }
+    test[name] = bound
   }
-  if (held.in !== undefined) {
-    const some = stringsIn(held.in)
-    if (some === null) return null
-    test.in = some
-  }
-  if (held.has !== undefined) {
-    if (typeof held.has !== "string") return null
-    test.has = held.has
-  }
-  if (held.empty !== undefined) {
-    if (typeof held.empty !== "boolean") return null
-    test.empty = held.empty
-  }
-  return test
+  return { test: test as Test }
 }
 
 export type Read = { readonly query: Query } | { readonly refused: string }
@@ -74,9 +88,9 @@ export function queryIn(given: unknown): Read {
     if (where === null) return { refused: "`where` is a JSON object" }
     const every: Record<string, Test> = {}
     for (const [key, one] of Object.entries(where)) {
-      const test = testIn(one)
-      if (test === null) return { refused: `\`where.${key}\` is no test this takes` }
-      every[key] = test
+      const took = testIn(key, one)
+      if ("refused" in took) return { refused: took.refused }
+      every[key] = took.test
     }
     query.where = every
   }
