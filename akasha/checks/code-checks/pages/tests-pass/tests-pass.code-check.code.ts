@@ -6,11 +6,10 @@ import {
   testsBesideOf,
   worldOf,
 } from "@akasha/code-system/code-tests"
-import { listedByPath } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
-  everyFileIn,
+  everyFileOf,
   input,
   type Selector,
   TEXTS,
@@ -23,7 +22,7 @@ const KEPT = 40
 function testedBeside(path: string, shadow: Shadow): boolean {
   for (const beside of testsBesideOf(path)) {
     if (beside === path) return true
-    if (listedByPath(shadow.reading, beside).length > 0) return true
+    if (shadow.index.listedByPath(beside).length > 0) return true
   }
   return false
 }
@@ -80,7 +79,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const named = namedIn(change)
   const first = named[0]
   if (first === undefined) return []
-  const over = [...new Set([...everyFileIn(change.root, shadow.reading), ...change.changed])]
+  const over = [...new Set([...everyFileOf(shadow.index), ...change.changed])]
   const world = worldOf(change.root, over, change.after)
   try {
     const ran = ranOver(world.root, named, named.length)
