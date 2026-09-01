@@ -5,10 +5,19 @@ import { builtFrom, indexReaches, loadPages } from "../store/store.ts"
 
 const SUFFIXED = /\*\.[a-z0-9-]+\.md$/
 
+// An index that was never built is not a source. It cannot answer, and it cannot disagree with the
+// disk either, so neither the reading below nor the refusal beside it has anything to act on. This
+// is asked of every repository before it is treated as one, so a root the index would reach but was
+// never written over falls through to the disk rather than refusing what only one source answers.
+function indexBuiltOver(repo: string): boolean {
+  const marks = builtFrom()
+  return marks !== null && marks[repo] !== undefined
+}
+
 export function indexWouldAnswer(root: string, patterns: readonly string[]): string | null {
   if (patterns.length === 0) return null
   if (!patterns.every((one) => SUFFIXED.test(one))) return null
-  return REPOS.find((one) => indexReaches(one, root)) ?? null
+  return REPOS.find((one) => indexReaches(one, root) && indexBuiltOver(one)) ?? null
 }
 
 export function scannedFromIndex(
@@ -19,6 +28,7 @@ export function scannedFromIndex(
   if (repo === null || patterns.length === 0) return null
   if (!patterns.every((one) => SUFFIXED.test(one))) return null
   if (!indexReaches(repo, root)) return null
+  if (!indexBuiltOver(repo)) return null
   return onceInCall(`scan:${repo}:${root}:${[...patterns].sort().join(" ")}`, () => {
     const marks = builtFrom()
     if (marks === null || marks[repo] === undefined) {
