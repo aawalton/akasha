@@ -37,7 +37,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
       workingMemory:
-        "Two of the four are gone: `chess` and `action-verbs` landed into `@akasha/alanwalton-web` at 6edf596cb8. `hooks` and `questions` are what is left, and they never waited on that package: every file of theirs still in place reaches `~/lib/*` or `~/components/*`, which nothing inside akasha resolves. Four of their nine files are `~/`-free and could stand alone; the other five rest on an 11-file closure under `app/lib` that the next intent owns and that already names both folders.",
+        "Two of the four are gone: `chess` and `action-verbs` landed into `@akasha/alanwalton-web` at `6edf596cb8`, 16 files in 7 modules, reached by name at 3 call sites. `hooks` (2 files) and `questions` (7) are left, and they never waited on that package. 5 of the 9 are `~/`-free and could stand alone; the other 4 rest on 8 files under `app/lib` — api-fetch, api-origin, auth-error, capacitor-bridge, offline-text, open-questions-resync, read-completion, sender-surface — which the interior intent owns.",
     },
     {
       statement: "The routes of Alan's site stand in akasha.",
