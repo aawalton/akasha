@@ -1,4 +1,4 @@
-import type { EmailAddressProperty } from "../../../pages-system/email-address-property/email-address-property.page-type.ts"
+import type { EmailAddressProperty } from "@akasha/pages-system/email-address-property"
 
 export type EmailAddress = string
 
