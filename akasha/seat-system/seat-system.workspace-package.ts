@@ -9,6 +9,7 @@ export const seatSystem = {
   partSlugs: [
     "page-type/seat",
     "page-type/subagent",
+    "page-type/supervisor-action",
     "module/seat-launching",
     "module/seat-name-claim",
     "module/seat-naming",
