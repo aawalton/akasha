@@ -234,9 +234,9 @@ test("the session begins at every source, and the hook says nothing", () => {
 })
 
 test("the hook run as the harness runs it clears the record under the root it stands in", () => {
-  const standing = planted(ONE)
+  const one = planted(ONE)
   expect(ranWith("startup", ONE).code).toBe(0)
-  expect(existsSync(standing)).toBe(false)
+  expect(existsSync(one)).toBe(false)
   expect(existsSync(recordAt(HERE, ONE))).toBe(false)
 })
 
