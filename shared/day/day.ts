@@ -90,6 +90,10 @@ export function getEsoDayStr(now: Date): string {
   return dayStrOf(shifted)
 }
 
+export function getEsoDayStrAt(at: string): string {
+  return getEsoDayStr(new Date(at))
+}
+
 export function getEsoDayAnchor(now: Date): Date {
   const base = getEsoDayStr(now)
   const [y, m, d] = base.split("-").map(Number)
