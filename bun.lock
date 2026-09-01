@@ -748,6 +748,9 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/utils-run": {
+      "name": "@akasha/utils-run",
+    },
     "akasha/utils-sync": {
       "name": "@akasha/utils-sync",
       "dependencies": {
@@ -3844,6 +3847,8 @@
     "@akasha/utils-narrow": ["@akasha/utils-narrow@workspace:akasha/utils-narrow"],
 
     "@akasha/utils-process": ["@akasha/utils-process@workspace:akasha/utils-process"],
+
+    "@akasha/utils-run": ["@akasha/utils-run@workspace:akasha/utils-run"],
 
     "@akasha/utils-sync": ["@akasha/utils-sync@workspace:akasha/utils-sync"],
 

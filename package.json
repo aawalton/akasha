@@ -133,6 +133,7 @@
     "akasha/utils-fs",
     "akasha/utils-narrow",
     "akasha/utils-process",
+    "akasha/utils-run",
     "akasha/utils-sync",
     "akasha/utils-system",
     "akasha/verdict",
