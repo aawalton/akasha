@@ -59,6 +59,10 @@ export const modelCheck = {
       statement: "Which pages a test judges is stated in its code rather than in its prompt.",
     },
     {
+      invariantKind: "departure",
+      statement: "A check refuses only where a model answered it.",
+    },
+    {
       invariantKind: "absence",
       statement: "A model check states no phase.",
     },

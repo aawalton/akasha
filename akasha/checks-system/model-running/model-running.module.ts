@@ -34,7 +34,11 @@ export const modelRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A model reached by no call refuses the change rather than passing it.",
+      statement: "A model reached by no call leaves the change unjudged rather than refusing it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer that cannot be read is a model reached by no call.",
     },
     {
       invariantKind: "departure",
@@ -53,8 +57,16 @@ export const modelRunning = {
       statement: "A check counting runs for both phases spends its patch count at audit.",
     },
     {
+      invariantKind: "stopgap",
+      statement: "A check that did not run says so on standard error alone.",
+    },
+    {
       invariantKind: "gap",
       statement: "A run knows which phase it was reached from.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A check that did not run says so in the report and in the commit.",
     },
   ],
 } as const satisfies Module

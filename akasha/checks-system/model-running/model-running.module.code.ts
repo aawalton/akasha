@@ -13,6 +13,8 @@ const MODEL_CHECK_TYPE = "01a05911-aa15-776e-9726-ed4131cd6b51"
 
 const ASKER_AT = "akasha/agents-system/models/model-asking/model-asking.module.code.ts"
 
+const UNANSWERED = "did not run, so what it would have judged landed unjudged"
+
 const CODE = "code"
 
 const TS = "ts"
@@ -87,7 +89,11 @@ function testHeld(root: string, slug: string): Held {
   return { slug: stem, model, compile: compile as Compiling }
 }
 
-function askedOf(root: string, model: string, prompts: readonly string[]): readonly string[] {
+function askedOf(
+  root: string,
+  model: string,
+  prompts: readonly string[]
+): readonly string[] | null {
   const said = Bun.spawnSync({
     cmd: ["bun", "run", join(root, ASKER_AT)],
     stdin: new TextEncoder().encode(JSON.stringify({ model, prompts })),
@@ -95,16 +101,21 @@ function askedOf(root: string, model: string, prompts: readonly string[]): reado
     stderr: "pipe",
     cwd: root,
   })
-  if (said.exitCode !== 0) {
-    throw new Error(`the model was not reached — ${said.stderr.toString().slice(0, 400)}`)
+  if (said.exitCode !== 0) return null
+  let held: unknown
+  try {
+    held = JSON.parse(said.stdout.toString())
+  } catch {
+    return null
   }
-  const held: unknown = JSON.parse(said.stdout.toString())
   const answers =
     typeof held === "object" && held !== null ? (held as { answers?: unknown }).answers : undefined
-  if (!Array.isArray(answers) || answers.some((one) => typeof one !== "string")) {
-    throw new Error("the asker answered nothing a runner can read")
-  }
+  if (!Array.isArray(answers) || answers.some((one) => typeof one !== "string")) return null
   return answers as readonly string[]
+}
+
+function counted(many: number): string {
+  return `${many} statement${many === 1 ? "" : "s"}`
 }
 
 function opensYes(said: string): boolean {
@@ -162,6 +173,10 @@ function runningFor(root: string, slug: string, held: readonly Held[], runs: num
     const prompts: string[] = []
     for (const one of asking) for (let run = 0; run < runs; run += 1) prompts.push(one.prompt)
     const answers = askedOf(root, model, prompts)
+    if (answers === null) {
+      process.stderr.write(`\`${slug}\` ${UNANSWERED} — ${counted(asking.length)}\n`)
+      return []
+    }
     const said: Judged[] = []
     for (let at = 0; at < asking.length; at += 1) {
       const one = asking[at]

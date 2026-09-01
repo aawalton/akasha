@@ -1,8 +1,15 @@
 const VERSION = "2023-06-01"
 const BETA = "oauth-2025-04-20"
 const SYSTEM = "You are Claude Code, Anthropic's official CLI for Claude."
-const TRIES = 6
+const TRIES = 4
 const ABREAST = 4
+const UNREACHED = 3
+const WAITING = 2000
+const LONGEST = 8000
+
+const AGAIN: ReadonlySet<number> = new Set([408, 409, 429, 500, 502, 503, 504, 529])
+
+const UNREACHED_SAID = "the model could not be reached"
 
 export type Asking = {
   readonly model: string
@@ -50,40 +57,57 @@ async function waiting(ms: number): Promise<undefined> {
   return undefined
 }
 
-async function once(at: string, token: string, model: string, prompt: string): Promise<string> {
-  const answered = await fetch(at, {
-    method: "POST",
-    headers: {
-      "anthropic-version": VERSION,
-      "anthropic-beta": BETA,
-      authorization: `Bearer ${token}`,
-      "content-type": "application/json",
-    },
-    body: JSON.stringify({
-      model,
-      max_tokens: 10,
-      system: [{ type: "text", text: SYSTEM }],
-      messages: [{ role: "user", content: prompt }],
-    }),
-    signal: AbortSignal.timeout(120000),
-  })
-  if (!answered.ok) throw new Error(`the model answered ${answered.status}`)
-  return textIn(await answered.json())
+type Waited = { readonly text: string } | { readonly again: number | null }
+
+function adviceIn(said: string | null): number | null {
+  if (said === null) return null
+  const held = Number(said)
+  return Number.isFinite(held) && held > 0 ? Math.round(held * 1000) : null
+}
+
+async function once(at: string, token: string, model: string, prompt: string): Promise<Waited> {
+  let answered: Response
+  try {
+    answered = await fetch(at, {
+      method: "POST",
+      headers: {
+        "anthropic-version": VERSION,
+        "anthropic-beta": BETA,
+        authorization: `Bearer ${token}`,
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({
+        model,
+        max_tokens: 10,
+        system: [{ type: "text", text: SYSTEM }],
+        messages: [{ role: "user", content: prompt }],
+      }),
+      signal: AbortSignal.timeout(120000),
+    })
+  } catch {
+    return { again: null }
+  }
+  if (answered.ok) return { text: textIn(await answered.json()) }
+  if (!AGAIN.has(answered.status)) {
+    throw new Error(`${UNREACHED_SAID} — the model answered ${answered.status}`)
+  }
+  return { again: adviceIn(answered.headers.get("retry-after")) }
 }
 
 async function answerTo(at: string, token: string, model: string, prompt: string): Promise<string> {
-  let held: unknown = null
-  let wait = 2000
+  let wait = WAITING
   for (let tried = 0; tried < TRIES; tried += 1) {
+    let held: Waited
     try {
-      return await once(at, token, model, prompt)
+      held = await once(at, token, model, prompt)
     } catch (thrown) {
-      held = thrown
-      await waiting(wait)
-      wait = Math.min(wait * 2, 60000)
+      throw new Error(`${UNREACHED_SAID} — ${String(thrown)}`)
     }
+    if ("text" in held) return held.text
+    await waiting(Math.min(held.again ?? wait, LONGEST))
+    wait = Math.min(wait * 2, LONGEST)
   }
-  throw new Error(`no answer after ${TRIES} tries: ${String(held)}`)
+  throw new Error(`${UNREACHED_SAID} after ${TRIES} tries`)
 }
 
 export async function modelAsking(asking: Asking): Promise<readonly string[]> {
@@ -121,7 +145,14 @@ function askingIn(held: unknown): Asking {
 
 async function answering(): Promise<undefined> {
   const said = await Bun.stdin.text()
-  const answers = await modelAsking(askingIn(JSON.parse(said)))
+  let answers: readonly string[]
+  try {
+    answers = await modelAsking(askingIn(JSON.parse(said)))
+  } catch (thrown) {
+    const why = String(thrown)
+    process.stderr.write(why)
+    process.exit(UNREACHED)
+  }
   process.stdout.write(JSON.stringify({ answers }))
   return undefined
 }

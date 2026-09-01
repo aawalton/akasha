@@ -36,6 +36,22 @@ export const modelAsking = {
       statement: "A call that could not be made throws rather than answering emptily.",
     },
     {
+      invariantKind: "departure",
+      statement: "A job that could not be answered exits three.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every way of failing leaves the same exit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wait the gateway asks for is the wait taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A status that will not come good is tried no further.",
+    },
+    {
       invariantKind: "constraint",
       statement: "The gateway named by the environment is what stands between this and Anthropic.",
     },
