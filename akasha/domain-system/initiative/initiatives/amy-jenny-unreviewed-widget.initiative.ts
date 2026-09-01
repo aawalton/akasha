@@ -12,7 +12,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "A file writing a page through the page store lands the write rather than refusing.",
       workingMemory:
-        "The store serves POST /read: whole bodies, a page placed by page type and slug, and the commit read at. POST /write takes that commit as `read` and landing refuses a path that moved, so a lost update is loud. patchFiles and removePage land; writePage, patchPage, patchState and the four row names still refuse, for want of anything rendering a page body from keys. See nothing-in-akasha-renders-a-page-body-from-its-keys.",
+        "The compare works: /write takes the commit read at, and a moved path is refused, proved over raw HTTP. But no renderer moves this. Of the 50 page types the callers write, 49 are markdown pages under pages/, and the store answers for akasha alone, on read and on write alike. The true blocker is that the store does not serve the markdown pages its callers write. The akasha service also took port 8787 from the one that did serve them, so /q now 404s; restoring that is in flight.",
     },
     {
       statement:
