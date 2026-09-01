@@ -17,7 +17,7 @@ import {
 } from "../mobile-app/mobile-app.module.code.ts"
 import { SPA_SOURCE_VAR } from "../sim-www-stage/sim-www-stage.module.code.ts"
 
-function worktreeStands(dir: string, repoRoot: string): boolean {
+function worktreeOfRepo(dir: string, repoRoot: string): boolean {
   if (!existsSync(join(dir, ".git"))) return false
   try {
     const common = said([
@@ -58,7 +58,7 @@ export async function buildWwwFromMainTip(opts: {
 
   const buildDir = opts?.buildWorktreeDir ?? join(homedir(), ".mobile-cut-build")
 
-  if (!worktreeStands(buildDir, repoRoot)) {
+  if (!worktreeOfRepo(buildDir, repoRoot)) {
     rmSync(buildDir, { recursive: true, force: true })
     shown(["git", "-C", repoRoot, "worktree", "prune"])
     shown(["git", "-C", repoRoot, "worktree", "add", "--detach", buildDir, mainSha])
