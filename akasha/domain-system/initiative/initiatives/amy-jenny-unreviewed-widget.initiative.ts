@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Both sites run a3741f07d0. Stoplight endpoints refuse 503 rather than answer an empty list, which the Swift decodes as corrupt. Widget payload checked by hand against the Swift and it lines up; relay carries 9. The liveness kills look over: 43 min, 0 restarts, past the old 22-34 min interval. The reading already sits in its designed home, lastValue beside the page and gitignored, so the relay carries it because uncommitted files never travel. Deleting readoutCatalog waits on a model mismatch.",
+        "Both sites run 0ce4248bc1 and both built, which proves the routes. module/readout-categorization is module/readout-serving now, the last place the package named one group; 11 files outside akasha were repointed by hand, since akasha move repoints only what the index carries. Stoplight endpoints refuse 503. Widget payload checked by hand and lines up. Kills looked over at 43 min clean, past the old 22-34 min gap, before this deploy reset the window. The reading sits beside its page, gitignored.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
