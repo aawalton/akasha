@@ -1,5 +1,5 @@
+import { DataError } from "@akasha/errors-core/exit-code"
 import { runSshCapture } from "@akasha/ssh-access/ssh-reach"
-import { DataError } from "@shared/errors-core/exit"
 import {
   buildChatDbScript,
   buildCountUnreadSql,

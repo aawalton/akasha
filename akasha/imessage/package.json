@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@akasha/ssh-access": "workspace:*",
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "zod": "^4.3.6"
   }
 }
