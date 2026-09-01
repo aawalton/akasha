@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const indexShape = {
   id: "01a05867-bb6d-7a3e-875e-b5a55432fb00",

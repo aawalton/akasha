@@ -8,7 +8,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { everyFileUnder } from "../../../testing-system/walking/walking.module.code.ts"
+import { everyFileUnder } from "@akasha/testing-system/walking"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
 import { indexPath } from "../index/index-path/index-path.index.ts"

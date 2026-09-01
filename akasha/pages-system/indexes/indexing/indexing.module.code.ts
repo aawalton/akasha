@@ -9,14 +9,14 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
-import { namedIn, pageNamed } from "../../page/page-file-name/page-file-name.module.code.ts"
-import { loadedFrom, type Value, valueAt } from "../../page/page-value/page-value.module.code.ts"
+import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
 import {
   identifyingFrom,
   sourceAmong,
   sourceIn,
   sourceOver,
-} from "../../page-type/page-type-properties/page-type-properties.module.code.ts"
+} from "@akasha/pages-system/page-type-properties"
+import { loadedFrom, type Value, valueAt } from "@akasha/pages-system/page-value"
 import { identityIn } from "../index/index-identity/index-identity.index.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { importIn } from "../index/index-import/index-import.index.code.ts"

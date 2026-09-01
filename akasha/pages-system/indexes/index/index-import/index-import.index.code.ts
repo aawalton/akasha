@@ -4,7 +4,7 @@ import {
   NAMING_NONE,
   type Naming,
   specifiersIn,
-} from "../../../../code-system/code-specifier/code-specifier.module.code.ts"
+} from "@akasha/code-system/code-specifier"
 import { type Entry, under } from "../../index-entries/index-entries.module.code.ts"
 import { indexImport } from "./index-import.index.ts"
 

@@ -1,9 +1,9 @@
 import { mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { id as idPage } from "../../page/properties/id.text-property.ts"
-import { slug as slugPage } from "../../page/properties/slug.text-property.ts"
+import { rootOf } from "@akasha/command-system/rooting"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { id as idPage } from "@akasha/pages-system/page/id"
+import { slug as slugPage } from "@akasha/pages-system/page/slug"
 import { indexingAt } from "./indexing.module.code.ts"
 
 export type Held = Record<string, unknown>

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const formatReaching = {
   id: "01a04ff9-7758-71a6-bf33-91862c9be16d",

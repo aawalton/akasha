@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { slugAt, textAt, type Value } from "../../../page/page-value/page-value.module.code.ts"
+import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
 import type { Entry, Schema } from "../../index-entries/index-entries.module.code.ts"
 import { indexSchema } from "./index-schema.index.ts"
 

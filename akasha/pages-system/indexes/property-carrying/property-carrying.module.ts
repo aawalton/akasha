@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const propertyCarrying = {
   id: "01a058d4-6546-7f65-8b92-9271477f905f",

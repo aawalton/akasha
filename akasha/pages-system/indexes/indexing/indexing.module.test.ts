@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { cpSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import { everyFileUnder } from "../../../testing-system/walking/walking.module.code.ts"
+import { everyFileUnder } from "@akasha/testing-system/walking"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 import {
   A,

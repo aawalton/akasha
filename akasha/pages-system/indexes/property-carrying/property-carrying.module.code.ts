@@ -1,4 +1,4 @@
-import { namedIn } from "../../page/page-file-name/page-file-name.module.code.ts"
+import { namedIn } from "@akasha/pages-system/page-file-name"
 import {
   everyOfType,
   idsNaming,

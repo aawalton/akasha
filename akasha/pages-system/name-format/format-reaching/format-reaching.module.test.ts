@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
+import { rootOf } from "@akasha/command-system/rooting"
 import { matchingIn } from "./format-reaching.module.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)

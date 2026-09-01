@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { declaringUnder } from "../../../testing-system/declaring/declaring.module.code.ts"
-import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { declaringUnder } from "@akasha/testing-system/declaring"
+import { gitIn } from "@akasha/testing-system/gitting"
 import { indexingAt, rebuiltFrom } from "../indexing/indexing.module.code.ts"
 import {
   headOf,
