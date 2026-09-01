@@ -200,9 +200,7 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
 
   setTurnState(agentId, "idle")
 
-  if (!parsed.boolean("--no-launch")) {
-    await launchSeatUnderTmux({ name, agentId, account, prompt: "", mode: startMode })
-  }
+  await launchSeatUnderTmux({ name, agentId, account, prompt: "", mode: startMode })
 
   if (json) {
     process.stdout.write(`${JSON.stringify({ agent_id: agentId, name, start_mode: startMode })}\n`)

@@ -41,8 +41,8 @@ export function seatLiveFnLines(): readonly string[] {
 export function tmuxLaunchFnLines(): readonly string[] {
   return [
     `${TMUX_LAUNCH_FN}() {`,
-    '  local _use_tmux="$1" _seat="$2"',
-    "  shift 2",
+    '  local _seat="$1"',
+    "  shift 1",
     `  ${ROOT_LOCAL}`,
     `  if [ ! -d "${SEAT_START_DIR}" ]; then`,
     `    echo "${SEAT_START_DIR} is not there, so this seat has nowhere to start." >&2`,
@@ -50,12 +50,8 @@ export function tmuxLaunchFnLines(): readonly string[] {
     "  fi",
     `  local _cmd=(${supervisorEntryShell(PROXY, SUPERVISOR)}${INTERACTIVE_MODE_FLAGS})`,
     '  _cmd+=("$@")',
-    '  if [ "$_use_tmux" != 1 ]; then',
-    `    ( cd "${SEAT_START_DIR}" && "\${_cmd[@]}" )`,
-    "    return $?",
-    "  fi",
     '  if ! command -v tmux >/dev/null 2>&1; then',
-    '    echo "tmux is not installed, so this seat cannot be started under one. Re-run with --no-tmux to start it in this terminal." >&2',
+    '    echo "tmux is not installed, and a seat is a tmux session, so this one has nowhere to start." >&2',
     "    return 1",
     "  fi",
     `  if tmux has-session -t "=$_seat" 2>/dev/null && ! ${SEAT_LIVE_FN} "$_seat"; then`,
@@ -85,12 +81,10 @@ export function tmuxLaunchFnLines(): readonly string[] {
 
 function flagLines(name: string, withForce = false): readonly string[] {
   return [
-    `  local _${name}_tmux=1`,
     ...(withForce ? [`  local _${name}_force=0`] : []),
     `  local _${name}_argv=() _${name}_flag`,
     `  for _${name}_flag in "$@"; do`,
     `    case "$_${name}_flag" in`,
-    `      --no-tmux) _${name}_tmux=0 ;;`,
     ...(withForce ? [`      --force) _${name}_force=1 ;;`] : []),
     `      *) _${name}_argv+=("$_${name}_flag") ;;`,
     "    esac",
@@ -127,7 +121,7 @@ export function seatNewFn(name: string): string {
     ...flagLines(name, true),
     '  local name="$1"',
     '  if [ -z "$name" ]; then',
-    `    echo "Usage: ${name} <persona> [<role>] [<domain>] [--no-tmux] [--force], or ${name} <seat-name> [--no-tmux] [--force]"`,
+    `    echo "Usage: ${name} <persona> [<role>] [<domain>] [--force], or ${name} <seat-name> [--force]"`,
     "    return 1",
     "  fi",
     `  ${ROOT_LOCAL}`,
@@ -167,8 +161,7 @@ export function seatNewFn(name: string): string {
     `    return "$_${name}_stop_rc"`,
     "  fi",
     `  rm -f "$_${name}_stop_err"`,
-    `  if [ "$_${name}_stop_rc" = 2 ] && [ "$_${name}_tmux" = 1 ] && ` +
-      `command -v tmux >/dev/null 2>&1 && ` +
+    `  if [ "$_${name}_stop_rc" = 2 ] && command -v tmux >/dev/null 2>&1 && ` +
       `tmux has-session -t "=$_${name}_seat" 2>/dev/null; then`,
     `    echo "${name}: '$_${name}_seat' holds a tmux session with no seat page; stopping ` +
       `it, then starting a new seat under that name." >&2`,
@@ -184,7 +177,6 @@ export function seatNewFn(name: string): string {
     `  [ -n "$_${name}_typed_role" ] && _${name}_stated+=(--role "$_${name}_typed_role")`,
     `  [ -n "$_${name}_typed_domain" ] && ` +
       `_${name}_stated+=(--domain "$_${name}_typed_domain")`,
-    `  [ "$_${name}_tmux" = 1 ] || _${name}_stated+=(--no-launch)`,
     `  full_aid=$(ops seat start "\${_${name}_stated[@]}") || {`,
     `    echo "${name}: '$_${name}_seat' was not bound, so nothing was launched." >&2`,
     "    return 1",
@@ -196,7 +188,7 @@ export function seatNewFn(name: string): string {
     "  fi",
     '  agent_flag=(--agent-id "$full_aid")',
     ...stateSeatFromRowLines(name),
-    `  ${TMUX_LAUNCH_FN} "$_${name}_tmux" "$_${name}_seat" ` +
+    `  ${TMUX_LAUNCH_FN} "$_${name}_seat" ` +
       `-a ${DEFAULT_ACCOUNT} "\${agent_flag[@]}"`,
     "  local _rc=$?",
     "  return $_rc",
@@ -210,12 +202,11 @@ export function seatResumeFn(name: string): string {
     ...flagLines(name),
     '  local name="$1"',
     '  if [ -z "$name" ]; then',
-    `    echo "Usage: ${name} <seat-name> [--no-tmux]"`,
+    `    echo "Usage: ${name} <seat-name>"`,
     "    return 1",
     "  fi",
     `  ${ROOT_LOCAL}`,
-    `  if [ "$_${name}_tmux" = 1 ] && command -v tmux >/dev/null 2>&1 && ` +
-      `${SEAT_LIVE_FN} "$name"; then`,
+    `  if command -v tmux >/dev/null 2>&1 && ${SEAT_LIVE_FN} "$name"; then`,
     `    tmux attach-session -t "=$name"`,
     "    return $?",
     "  fi",
@@ -228,7 +219,7 @@ export function seatResumeFn(name: string): string {
     "    return 1",
     "  fi",
     ...stateSeatFromRowLines(name),
-    `  ${TMUX_LAUNCH_FN} "$_${name}_tmux" "$name" -a ${DEFAULT_ACCOUNT} -r ` +
+    `  ${TMUX_LAUNCH_FN} "$name" -a ${DEFAULT_ACCOUNT} -r ` +
       `--agent-id "$full_aid" --session-id "$full_sid"`,
     "  local _rc=$?",
     "  return $_rc",

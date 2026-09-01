@@ -86,11 +86,6 @@ export const help: CommandHelp = {
       valueShape: "token",
       description: "Auth token override for the launched seat.",
     },
-    {
-      name: "--no-launch",
-      description:
-        "Create the seat and state it, and start no process. For a caller running the supervisor itself, as `sn --no-tmux` does.",
-    },
     { name: "--json", description: "Emit a JSON record instead of the default line" },
   ],
   exits: [
