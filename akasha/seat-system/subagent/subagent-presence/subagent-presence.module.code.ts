@@ -1,7 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
-import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
-import type { Given } from "@akasha/command-system/calling"
+import { landedProgrammatically } from "@akasha/command-system/asking"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { dropReadings } from "@akasha/command-system/reading"
 import { listedAt, listedById } from "@akasha/indexes"
@@ -70,28 +69,8 @@ export function seatNamedIn(root: string, seatId: string): string | null {
   return named === null || named.tail !== SEAT ? null : named.stem
 }
 
-function programmatically(root: string): Given {
-  return {
-    root,
-    calledAs: CALLED_AS,
-    from: root,
-    writer: null,
-    agentId: null,
-    programmatic: true,
-  }
-}
-
 function handed(root: string, changes: readonly FileEdit[], message: string): boolean {
-  return (
-    landingAsked(programmatically(root), {
-      changes,
-      message,
-      dryRun: false,
-      glass: null,
-      unmoved: [],
-      saying: wroteAndTook,
-    }).code === 0
-  )
+  return landedProgrammatically(root, CALLED_AS, changes, message).code === 0
 }
 
 export function wrote(root: string, seatName: string, own: string, dispatchedAs: string): boolean {
