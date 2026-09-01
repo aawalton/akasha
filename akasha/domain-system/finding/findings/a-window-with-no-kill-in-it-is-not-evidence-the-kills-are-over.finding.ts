@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aWindowWithNoKillInItIsNotEvidenceTheKillsAreOver = {
+  id: "01a05edb-b36b-79ae-95e8-44610e8fa384",
+  pageTypeSlug: "finding",
+  slug: "a-window-with-no-kill-in-it-is-not-evidence-the-kills-are-over",
+  domainSlug: "cluster-service/alanwalton-web",
+  claim:
+    "The liveness kills did not stop. A finding filed earlier today said they had, on a window that was true when it was read and false three minutes later: web-868f5f9c55-kv58b failed its liveness probe six times between 20:33:44Z and 20:34:34Z and was killed. Taking readoutCatalog off the request path did not fix them and the cause is still unknown. A stretch with no kill in it is not evidence the kills are over, because that is what every gap between them looks like.",
+  evidence:
+    "The events, read at 21:21Z: `Liveness probe failed ... /api/health: context deadline exceeded` first 20:33:44Z, last 20:34:34Z, count 6; then `Container web failed liveness probe, will be restarted` at 20:34:34Z; then `Created container: web` count 2, last 20:34:39Z. Six failures at `failureThreshold: 6` and `periodSeconds: 10` is the same signature as the six kills measured between 15:54Z and 19:17Z.\n\nHow the wrong finding was reached: I read `2/2 Running 0` twice, saw 43 minutes of age, checked for `failed liveness` and found none, and wrote that the kills looked over. Every one of those readings was true at 20:31Z. The kill came at 20:34:34Z. I then deployed at 20:47Z, which replaced the pod and took the restart count with it, so nothing I looked at afterwards carried the evidence. The error was not the measurement but the generalisation: one quiet window is what the inside of every gap looks like, and the old gaps ran 22 to 34 minutes, so 43 minutes of quiet was weak evidence rather than strong.\n\nA second thing that proves nothing here: neither web pod logs requests. Alan's logged 0 lines over 30 minutes while his widget was working. So an absence of request lines in a pod log is not an absence of requests, and no reasoning about who reached what should rest on it.\n\nWhat is still true from the earlier work: the per-request frontmatter scan over 71k files is gone from the serving path, which is worth doing on its own. What is not established is that it caused the kills. Memory was 141Mi against 512Mi, throttling 0.2%, and an OOM records 137 rather than 139, so those remain ruled out. The cause is open.",
+} as const satisfies Finding
