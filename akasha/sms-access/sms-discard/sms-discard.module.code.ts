@@ -1,6 +1,6 @@
 import { writePage } from "@akasha/pages-query"
-import type { RecordResult } from "@alanwalton/sms-core/handle-inbound"
-import type { DiscardedInbound } from "@alanwalton/sms-core/normalize"
+import type { RecordResult } from "@akasha/sms-core/handle-inbound"
+import type { DiscardedInbound } from "@akasha/sms-core/normalize"
 
 export const SMS_DISCARD_PAGE_TYPE_SLUG = "sms-discard"
 export const WRITER = "sms-webhook"

@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@akasha/pages-query": "workspace:*",
-    "@alanwalton/sms-core": "workspace:*",
+    "@akasha/sms-core": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@supabase/supabase-js": "^2.104.0"
   }

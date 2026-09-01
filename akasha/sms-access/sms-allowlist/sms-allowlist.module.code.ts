@@ -4,7 +4,7 @@ import {
   type RelationshipSmsRow,
   relationshipSmsRowSchema,
   type SmsExternalIdentity,
-} from "@alanwalton/sms-core/sms-identity"
+} from "@akasha/sms-core/sms-identity"
 import type { SmsAllowlistClient } from "../client/client.module.code.ts"
 
 function asBoolean(value: unknown): boolean | undefined {
