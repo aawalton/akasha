@@ -1,6 +1,6 @@
 import { appendFileSync, readFileSync, statSync } from "node:fs"
 import { rowsPartOf, rowsPartsOf, PART_CEILING_BYTES, partNumberOf } from "../../page/rows-file.ts"
-import { isMissing } from "../../missing/missing.ts"
+import { isMissing } from "@akasha/utils-fs/missing"
 import { writeWhole } from "../../write-whole/write-whole.ts"
 
 export const NAMING: readonly string[] = ["slug", "id"]

@@ -3,7 +3,7 @@ import { dirname } from "node:path"
 import { parse, stringify } from "yaml"
 import { holdInCall, onceInCall } from "../../during-call/during-call.ts"
 import { exclusively } from "../../exclusive/exclusive.ts"
-import { isMissing } from "../../missing/missing.ts"
+import { isMissing } from "@akasha/utils-fs/missing"
 
 const PAGE_SUFFIX = ".md"
 

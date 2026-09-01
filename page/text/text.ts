@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { isMissing } from "../../missing/missing.ts"
+import { isMissing } from "@akasha/utils-fs/missing"
 import { type Frontmatter, parseFrontmatter } from "../frontmatter.ts"
 
 export const NONE = "none"

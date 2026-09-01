@@ -1,6 +1,6 @@
 import { readdirSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import { isMissing } from "../missing/missing.ts"
+import { isMissing } from "@akasha/utils-fs/missing"
 
 export const PART_CEILING_BYTES = 8 * 1024 * 1024
 
