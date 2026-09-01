@@ -21,15 +21,10 @@ export const amyJennyUnreviewedWidget = {
     },
     { statement: "`pages-ui` stands in akasha." },
     {
-      statement: "A package for Alan's site stands in akasha.",
-      workingMemory:
-        "Split from one intent on a survey: 286 files and some 270 pages, twice what pages-core costs. This part is the package plus `chess` and `action-verbs`, some 10 to 15 pages, and it is all the four folders below wait on. The `web-app` page type and `alanwalton-web.web-app.ts` already stand. `@akasha` is a directory of one symlink per package rather than one symlink to a folder, so a package there resolves only where bun install ran against the tracked tree.",
-    },
-    {
       statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
       workingMemory:
-        "Eight of twelve folders are done: sms, readout-scale and tracking are gone, while device-secret, push and readout-credential keep only an adapter, and readout and person-access were already done. Typecheck errors under alanwalton/web fell from 151 to 115. The four left want a package no intent had stood up, so this now stands after the one that stands it up. Counts here must include the `~/*` alias: app/lib has 88 inbound that way rather than 0.",
+        "Eight of twelve folders are done: sms, readout-scale and tracking are gone, while device-secret, push and readout-credential keep only an adapter, and readout and person-access were already done. The package the four left were waiting on now stands as `@akasha/alanwalton-web`, holding chess and the declared-effects verb. Counts here must include the `~/*` alias: app/lib has 88 inbound that way rather than 0.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
