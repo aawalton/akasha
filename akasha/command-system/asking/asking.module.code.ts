@@ -19,6 +19,8 @@ export const BREAK_GLASS = "--break-the-glass"
 
 const NOTHING = "nothing was judged and nothing was written"
 
+const PROGRAMMATIC = "no check ran: this landing was made by a program rather than by an agent"
+
 const ABSENT: ReadonlySet<string> = new Set(["ENOENT", "ENOTDIR"])
 
 export type Held = {
@@ -167,9 +169,23 @@ function gateFor(asked: Asked, held: Judging): Judging {
   return asked.unmoved.length === 0 ? held : alsoUnmoved(held, asked.unmoved)
 }
 
-function messageWith(asked: Asked, broken: string | null): string {
-  if (asked.glass === null) return asked.message
-  const held = `${asked.message}\n\nChecks-bypassed: ${asked.glass}`
+type Bypass = {
+  readonly reason: string
+  readonly said: string
+}
+
+function bypassIn(given: Given, asked: Asked): Bypass | null {
+  if (asked.glass !== null) {
+    const said = `no check ran — the glass was broken for: ${asked.glass}`
+    return { reason: asked.glass, said }
+  }
+  if (given.programmatic !== true) return null
+  return { reason: PROGRAMMATIC, said: PROGRAMMATIC }
+}
+
+function messageWith(asked: Asked, bypass: Bypass | null, broken: string | null): string {
+  if (bypass === null) return asked.message
+  const held = `${asked.message}\n\nChecks-bypassed: ${bypass.reason}`
   return broken === null ? held : `${held}\nChecks-unloadable: ${broken}`
 }
 
@@ -204,16 +220,17 @@ export function committedLine(said: Landed): string {
 function reportOf(
   said: Landed,
   asked: Asked,
+  bypass: Bypass | null,
   broken: string | null,
   checks: number,
   aside: readonly string[]
 ): readonly string[] {
   const found = [...asked.saying(said)]
   found.push(...aside)
-  if (asked.glass === null) {
+  if (bypass === null) {
     found.push(judgedBy(checks, asked.changes.length))
   } else {
-    found.push(`no check ran — the glass was broken for: ${asked.glass}`)
+    found.push(bypass.said)
     if (broken !== null) {
       found.push(
         `the checks could not be loaded from ${CHECKING_AT} either, so none could have run — ${broken}`
@@ -228,12 +245,13 @@ function reportOf(
 function reported(
   said: Landed,
   asked: Asked,
+  bypass: Bypass | null,
   broken: string | null,
   checks: number,
   aside: readonly string[]
 ): readonly string[] {
   try {
-    return reportOf(said, asked, broken, checks, aside)
+    return reportOf(said, asked, bypass, broken, checks, aside)
   } catch (thrown) {
     return [
       ...wroteAndTook(said),
@@ -304,17 +322,18 @@ export function landingAsked(given: Given, asked: Asked): Answer {
   const formatting = formattingIn(given.root, minted.changes)
   const aside = [...filledSaid(minted.filled), ...formattedSaid(formatting.formatted)]
   const held: Asked = { ...asked, changes: formatting.changes }
+  const bypass = bypassIn(given, held)
   const built = gateBuilt(given.root)
-  if ("broken" in built && held.glass === null) return unloadable(built.broken)
+  if ("broken" in built && bypass === null) return unloadable(built.broken)
   const broken = "broken" in built ? built.broken : null
-  const gate = gateFor(held, held.glass === null && "gate" in built ? built.gate : NO_GATE)
+  const gate = gateFor(held, bypass === null && "gate" in built ? built.gate : NO_GATE)
   if (held.dryRun) return reporting(given.root, held, gate)
   let said: Landed | Refused
   try {
     said = landing(
       given.root,
       held.changes,
-      messageWith(held, broken),
+      messageWith(held, bypass, broken),
       gate,
       given.writer,
       held.read ?? null,
@@ -331,7 +350,7 @@ export function landingAsked(given: Given, asked: Asked): Answer {
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   recordLanded(given, held.changes)
   return {
-    report: reported(said, held, broken, gate.named.length, aside),
+    report: reported(said, held, bypass, broken, gate.named.length, aside),
     refusals: [],
     code: 0,
   }

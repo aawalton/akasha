@@ -20,6 +20,7 @@ export type Outside = {
   readonly from: string
   readonly writer: string | null
   readonly agentId: string | null
+  readonly programmatic?: boolean
 }
 
 export type Answer = {

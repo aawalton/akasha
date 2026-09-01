@@ -222,6 +222,34 @@ test("breaking the glass runs no check and says so in the commit", () => {
   )
 })
 
+test("a landing made by a program runs no check and says so in the commit", () => {
+  const root = repoWith()
+  checking(root, "refuses", REFUSES_CODE)
+  const from = bodyIn(root)
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
+    { ...givenIn(root), programmatic: true }
+  )
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
+  expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
+    "Checks-bypassed: no check ran: this landing was made by a program rather than by an agent"
+  )
+})
+
+test("a landing made by a program is told apart from a glass that was broken", () => {
+  const root = repoWith()
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root), "--message", "held"],
+    { ...givenIn(root), programmatic: true }
+  )
+  expect(said.code).toBe(0)
+  expect(said.report).toContain(
+    "no check ran: this landing was made by a program rather than by an agent"
+  )
+  expect(said.report.join("\n")).not.toContain("the glass was broken")
+})
+
 test("a dry run that breaks the glass is refused, having nothing to report", () => {
   const root = repoWith()
   const from = bodyIn(root)

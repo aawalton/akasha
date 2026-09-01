@@ -33,6 +33,10 @@ export const akashaRequiredReading = {
         "What a seat must read is worked out from what its page states rather than listed.",
     },
     {
+      invariantKind: "departure",
+      statement: "A write no agent ran owes no reading.",
+    },
+    {
       invariantKind: "gap",
       statement: "No reading an agent needs falls outside the warrants.",
     },

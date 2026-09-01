@@ -111,6 +111,30 @@ test("a write charged to no agent is refused whole", () => {
   expect(existsSync(join(root, "akasha/new.ts"))).toBe(false)
 })
 
+test("a programmatic write over a body the record does not show read owes no reading", () => {
+  const root = repoWith()
+  put(root, "akasha/loose.ts", "loose\n")
+  const said = write(["--file-path", "akasha/loose.ts", "--content-file", bodyIn(root)], {
+    ...givenIn(root),
+    programmatic: true,
+  })
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("proposed\n")
+})
+
+test("a programmatic write charged to no agent lands, owing no reading of its own", () => {
+  const root = repoWith()
+  const said = write(["--file-path", "akasha/new.ts", "--content-file", bodyIn(root)], {
+    ...givenIn(root),
+    agentId: null,
+    programmatic: true,
+  })
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/new.ts"), "utf8")).toBe("proposed\n")
+})
+
 test("a change that passes is written and committed", () => {
   const root = repoWith()
   const from = bodyIn(root)

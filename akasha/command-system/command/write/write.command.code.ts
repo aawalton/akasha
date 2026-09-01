@@ -42,6 +42,7 @@ export function unwarrantedIn(
   glass: string | null,
   changes: readonly FileEdit[]
 ): readonly string[] {
+  if (given.programmatic === true) return []
   if (glass !== null) return []
   return [
     ...unheldIn(given.root, given.agentId),
