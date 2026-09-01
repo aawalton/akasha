@@ -52,6 +52,17 @@ function staged(root: string, paths: readonly string[]): undefined {
   }
 }
 
+const NAMED = /^\s*(.*?)\s*<([^>]*)>\s*$/
+
+function identifying(writer: string): readonly string[] {
+  const found = NAMED.exec(writer)
+  if (found === null) return []
+  const name = found[1]
+  const email = found[2]
+  if (name === undefined || name === "" || email === undefined || email === "") return []
+  return ["-c", `user.name=${name}`, "-c", `user.email=${email}`]
+}
+
 export function committed(
   root: string,
   wrote: readonly string[],
@@ -66,9 +77,10 @@ export function committed(
     gitIn(root, ["diff", "--quiet", "HEAD", "--", ...paths])
     return null
   } catch {}
-  const named = [`--author=${writer ?? AUTHOR}`]
+  const writing = writer ?? AUTHOR
+  const named = [`--author=${writing}`]
   try {
-    gitIn(root, ["commit", ...named, "-m", message, "--", ...paths])
+    gitIn(root, [...identifying(writing), "commit", ...named, "-m", message, "--", ...paths])
   } catch (thrown) {
     const now = nameOf(root)
     if (now === base || now === UNNAMED) throw thrown

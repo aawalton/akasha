@@ -39,6 +39,14 @@ export const committing = {
     },
     {
       invariantKind: "departure",
+      statement: "A commit names its writer as committer as well as author.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A checkout configured with no git user commits as any other does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What git says on the error stream is caught rather than shown.",
     },
     {
