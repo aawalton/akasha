@@ -15,10 +15,6 @@ export const amyJennyUnreviewedWidget = {
         "49 of the 50 page types the callers write are markdown under pages/, and the store answers for akasha alone, so no renderer moves this. But tools/lib/page-query-client.ts still works: askComposed answered 132 daily-tracking pages just now. 0e6b6d059d repointed 89 files off it onto akasha stubs, so writePage, patchPage and askNamed refuse and the stoplights throw. The call: an adapter puts the markdown callers back on the working client, each moving to akasha as its page type lands.",
     },
     {
-      statement:
-        "The packages under Alan's site that name no package of their own stand in akasha.",
-    },
-    {
       statement: "`pages-core` stands in akasha.",
       workingMemory:
         "Surveyed, not moved. Inbound was scored 0 from relative edges alone; the true figure is 239 files reaching `@shared/pages-core` by name, over 16 manifests and 61 subpaths, all rewritten in one landing because the name cannot survive the move. Cost ~530 files: 138 module pages, 138 code files, 448 internal specifiers of which 380 are extensionless, 239 external files. No barrels; 2 of 106 sources hold a comment. Three findings filed. No safe partial: a module page needs its code beside it.",
