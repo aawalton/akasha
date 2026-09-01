@@ -1,7 +1,7 @@
 import {
   idsNaming,
   listedById,
-  standingByPath,
+  listedByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
@@ -11,7 +11,7 @@ export const WHOLE =
 const PARTS = "part-slugs"
 
 export function fileDomain(root: string, path: string): readonly Warrant[] {
-  const held = standingByPath(root, path)[0]
+  const held = listedByPath(root, path)[0]
   if (held === undefined) return []
   const found: Warrant[] = []
   for (const id of idsNaming(root, held.id, PARTS)) {

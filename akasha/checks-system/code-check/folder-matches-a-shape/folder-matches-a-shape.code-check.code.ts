@@ -10,7 +10,7 @@ import {
   everyOfType,
   everyPath,
   importersOf,
-  standingByPath,
+  listedByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { type Known, knownIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
@@ -177,7 +177,7 @@ export function claimedIn(
   if (held.kind !== "stray") return held
   const propertySlug = filing.get(basename(held.path))
   if (propertySlug === undefined) return held
-  const claiming = standingByPath(given, held.path)[0]
+  const claiming = listedByPath(given, held.path)[0]
   if (claiming === undefined) return held
   return {
     path: held.path,

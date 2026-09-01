@@ -10,9 +10,9 @@ import {
   importersOf,
   listedAddressed,
   listedById,
+  listedByPath,
   readingIn,
   schemaOf,
-  standingByPath,
 } from "./index-reading.module.code.ts"
 import {
   idFiled,
@@ -86,7 +86,7 @@ test("a path the index carries is answered with the page carrying it", () => {
   const root = rootAt()
   pathFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/a.module.ts", id: A }])
 
-  expect(standingByPath(root, "akasha/a.module.code.ts")).toEqual([
+  expect(listedByPath(root, "akasha/a.module.code.ts")).toEqual([
     { path: "akasha/a.module.ts", id: A },
   ])
 })
@@ -95,16 +95,14 @@ test("a page's own path is answered with itself", () => {
   const root = rootAt()
   pathFiled(root, "akasha/a.module.ts", [{ path: "akasha/a.module.ts", id: A }])
 
-  expect(standingByPath(root, "akasha/a.module.ts")).toEqual([
-    { path: "akasha/a.module.ts", id: A },
-  ])
+  expect(listedByPath(root, "akasha/a.module.ts")).toEqual([{ path: "akasha/a.module.ts", id: A }])
 })
 
 test("a path no page carries is answered with nothing rather than by throwing", () => {
   const root = rootAt()
   noPathsFiled(root)
 
-  expect(standingByPath(root, "akasha/nowhere.module.ts")).toEqual([])
+  expect(listedByPath(root, "akasha/nowhere.module.ts")).toEqual([])
 })
 
 test("a path two pages fall on is answered with both of them", () => {
@@ -114,7 +112,7 @@ test("a path two pages fall on is answered with both of them", () => {
     { path: "x.module.ts", id: A },
   ])
 
-  expect(standingByPath(root, "x.module.code.ts").map((one) => one.id)).toEqual([B, A])
+  expect(listedByPath(root, "x.module.code.ts").map((one) => one.id)).toEqual([B, A])
 })
 
 test("every path the index files is answered, however deep the folders it files them under", () => {
@@ -158,7 +156,7 @@ test("every reader is refused where the index stands nowhere, whatever it was as
   expect(() => listedById(root, A)).toThrow(/\.git\/data\/index/)
   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
   expect(() => everyPath(root)).toThrow(/is not an index naming none/)
-  expect(() => standingByPath(root, "akasha/a.module.ts")).toThrow(/is not an index naming none/)
+  expect(() => listedByPath(root, "akasha/a.module.ts")).toThrow(/is not an index naming none/)
   expect(() => schemaOf(root, "nowhere")).toThrow(/is not an index naming none/)
 })
 
@@ -320,7 +318,7 @@ test("a reader answers alike whether it is given the root or a reading of the in
   const root = rootAt()
   pathFiled(root, "akasha/a.module.ts", [{ path: "akasha/a.module.ts", id: A }])
 
-  expect(standingByPath(readingIn(root), "akasha/a.module.ts")).toEqual(
-    standingByPath(root, "akasha/a.module.ts")
+  expect(listedByPath(readingIn(root), "akasha/a.module.ts")).toEqual(
+    listedByPath(root, "akasha/a.module.ts")
   )
 })

@@ -149,7 +149,7 @@ export function listedAddressed(
   return listedAt(given, under, address.slug)[0] ?? null
 }
 
-export function standingByPath(given: string | Reading, path: string): readonly Listed[] {
+export function listedByPath(given: string | Reading, path: string): readonly Listed[] {
   return answered(given, ROOT, `what names \`${path}\``, (reading) =>
     standingIn(reading, join(PATH, `${path}${ENDING}`))
   )

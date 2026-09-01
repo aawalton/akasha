@@ -5,7 +5,7 @@ import {
   pageTypesIn,
   pathsOf,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { standingByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { listedByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { valueIn } from "../../../pages-system/page/page-value/page-value.module.code.ts"
@@ -26,7 +26,7 @@ export function pagesTouchedBy(
   for (const path of change.changed) {
     if (!path.startsWith(INSIDE)) continue
     if (pageNamed(path, pageTypes)) found.add(path)
-    for (const one of standingByPath(given, path)) {
+    for (const one of listedByPath(given, path)) {
       if (one.path.startsWith(INSIDE)) found.add(one.path)
     }
   }

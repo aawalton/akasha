@@ -4,7 +4,7 @@ import type { Listed } from "../../../pages-system/indexes/index-reading/index-r
 import {
   everyPath,
   importersOf,
-  standingByPath,
+  listedByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
 import { uncommittedNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
@@ -117,7 +117,7 @@ export type Naming = { readonly held: Listed | null } | { readonly unread: strin
 export function namingOf(root: string, path: string): Naming {
   let standing: readonly Listed[]
   try {
-    standing = standingByPath(root, path)
+    standing = listedByPath(root, path)
   } catch (cause) {
     return { unread: cause instanceof Error ? cause.message : String(cause) }
   }

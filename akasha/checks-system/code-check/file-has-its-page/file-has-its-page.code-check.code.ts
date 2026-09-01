@@ -1,5 +1,5 @@
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { standingByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { listedByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { FILES, judgingEach } from "../../change-walking/change-walking.module.code.ts"
 
@@ -10,7 +10,7 @@ export const UNCLAIMED =
 
 function unclaimedAt(path: string, shadow: Shadow): readonly string[] {
   if (!path.startsWith(INSIDE)) return []
-  if (standingByPath(shadow.reading, path).length > 0) return []
+  if (listedByPath(shadow.reading, path).length > 0) return []
   return [UNCLAIMED]
 }
 

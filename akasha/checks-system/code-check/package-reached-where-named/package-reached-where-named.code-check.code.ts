@@ -7,7 +7,7 @@ import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   everyOfType,
-  standingByPath,
+  listedByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { matchingIn } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import { lowerKebabCase } from "../../../pages-system/name-format/lower-kebab-case/lower-kebab-case.name-format.ts"
@@ -160,7 +160,7 @@ function within(folder: string, path: string): boolean {
 }
 
 export function pageIn(shadow: Shadow): (at: string) => boolean {
-  return (at) => standingByPath(shadow.reading, at).some((one) => one.path === at)
+  return (at) => listedByPath(shadow.reading, at).some((one) => one.path === at)
 }
 
 export function reasonsIn(

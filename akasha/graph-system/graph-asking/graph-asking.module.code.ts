@@ -3,10 +3,10 @@ import {
   importersOf,
   type Listed,
   listedAt,
+  listedByPath,
   type Named,
   namersOf,
   readingIn,
-  standingByPath,
   typeSlugById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
@@ -138,7 +138,7 @@ function loadedFrom(
   asking: Asking,
   attribute: string
 ): readonly Edge[] {
-  const type = standingByPath(reading, named.path)[0]
+  const type = listedByPath(reading, named.path)[0]
   if (type === undefined) return []
   const filed = typeSlugById(reading, type.id)
   if (filed === null) return []
@@ -158,7 +158,7 @@ function relationsInto(
 ): readonly Edge[] {
   const attribute = attributeFor(asking, asked)
   const found: Edge[] = []
-  for (const one of standingByPath(reading, path)) {
+  for (const one of listedByPath(reading, path)) {
     for (const named of namersOf(reading, one.id, asking.indexName)) {
       found.push({
         kind: asking.kind,
