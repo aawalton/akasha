@@ -10,6 +10,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { join } from "node:path"
+import { ran } from "@akasha/utils-run/running"
 import {
   installedUnitName,
   type Standing,
@@ -112,9 +113,8 @@ export function planFor(standing: readonly Standing[], owned: readonly string[])
 }
 
 export function systemctl(args: readonly string[]): Ran {
-  const held = Bun.spawnSync(["systemctl", "--user", ...args], { stdout: "pipe", stderr: "pipe" })
-  const out = `${held.stdout.toString()}${held.stderr.toString()}`
-  return { code: held.exitCode, out: out.trim() }
+  const held = ran(["systemctl", "--user", ...args])
+  return { code: held.code, out: `${held.out}${held.err}`.trim() }
 }
 
 export function writeUnit(home: string, name: string, text: string): undefined {
@@ -144,9 +144,9 @@ export function unlinkUnit(home: string, name: string): undefined {
 export function installing(home: string, plan: Plan): Done {
   const did: string[] = []
   const refused: string[] = []
-  const took = (what: string, ran: Ran): undefined => {
-    if (ran.code === 0) did.push(what)
-    else refused.push(`${what}: ${ran.out.slice(0, 200)}`)
+  const took = (what: string, done: Ran): undefined => {
+    if (done.code === 0) did.push(what)
+    else refused.push(`${what}: ${done.out.slice(0, 200)}`)
   }
 
   for (const [name, text] of plan.write) {
