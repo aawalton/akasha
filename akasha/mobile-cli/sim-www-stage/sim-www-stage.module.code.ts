@@ -1,8 +1,7 @@
-import { execFileSync } from "node:child_process"
 import { copyFileSync, type Dirent, existsSync, readdirSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
-import { said } from "@akasha/utils-run/running"
+import { said, shown } from "@akasha/utils-run/running"
 import {
   type MobileApp,
   shellRepoPath,
@@ -157,10 +156,9 @@ export function ensureWebEnvLocal(app: MobileApp, repoRoot: string): undefined {
 export function stageWwwFromWorkingTree(app: MobileApp, spaRoot: string): undefined {
   const paths = stagePaths(app, spaRoot)
   ensureWebEnvLocal(app, spaRoot)
-  execFileSync("bash", [paths.stageScript], {
+  shown(["bash", paths.stageScript], {
     cwd: paths.packageDir,
     env: { ...process.env, [SPA_SOURCE_VAR]: paths.sourceRoot },
-    stdio: "inherit",
   })
   const wwwIndex = join(paths.wwwDir, "index.html")
   if (!existsSync(wwwIndex)) {
