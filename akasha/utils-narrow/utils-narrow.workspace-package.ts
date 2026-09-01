@@ -21,6 +21,7 @@ export const utilsNarrow = {
     "module/join-path",
     "module/json-equal",
     "module/json-schema",
+    "module/json-value",
     "module/narrow-error",
     "module/no-op",
     "module/require-at",

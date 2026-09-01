@@ -17,6 +17,7 @@
     "./join-path": "./join-path/join-path.module.code.ts",
     "./json-equal": "./json-equal/json-equal.module.code.ts",
     "./json-schema": "./json-schema/json-schema.module.code.ts",
+    "./json-value": "./json-value/json-value.module.code.ts",
     "./no-op": "./no-op/no-op.module.code.ts",
     "./require-at": "./require-at/require-at.module.code.ts",
     "./require-env": "./require-env/require-env.module.code.ts",
