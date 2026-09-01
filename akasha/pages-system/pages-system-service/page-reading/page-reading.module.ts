@@ -30,6 +30,26 @@ export const pageReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A path holding a page's secret values is refused before anything is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path holding a page's uncommitted values is refused before anything is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path a page is placed at is withheld by the same rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One withheld path refuses the whole read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A withheld path is refused rather than answered as nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page is named by its page type and its slug.",
     },
     {
