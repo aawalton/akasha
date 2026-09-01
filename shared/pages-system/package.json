@@ -1,0 +1,26 @@
+{
+  "name": "@shared/pages-system",
+  "functionalType": "pure",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./formula": "./formula/formula.ts",
+    "./page-type": "./page-type/page-type.ts",
+    "./query": "./query/query.ts",
+    "./read/held": "./read/held.ts",
+    "./write/landing": "./write/landing.ts"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  },
+  "dependencies": {
+    "yaml": "^2.8.1"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}
