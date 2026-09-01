@@ -40,9 +40,9 @@ export function fileImport(root: string, path: string): readonly Warrant[] {
     const page = pageOf(root, one)
     if (page === null || held.has(page)) continue
     held.add(page)
-    const standing = blobAt(root, page)
-    if (standing === null) continue
-    found.push({ path: page, oid: standing, owed: IMPORTED })
+    const oid = blobAt(root, page)
+    if (oid === null) continue
+    found.push({ path: page, oid: oid, owed: IMPORTED })
   }
   return found
 }
