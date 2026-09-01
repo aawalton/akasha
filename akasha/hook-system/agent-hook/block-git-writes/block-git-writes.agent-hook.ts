@@ -35,11 +35,6 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What this hook does not reach is printed by the hook and asked for with `--scope`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A prefix that only runs the call behind it does not hide a git write from this.",
     },
     {

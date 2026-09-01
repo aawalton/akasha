@@ -29,11 +29,6 @@ export const blockDestructiveGit = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What this hook does not reach is printed by the hook and asked for with `--scope`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A prefix that only runs the call behind it does not hide a git act from this.",
     },
     {

@@ -31,11 +31,6 @@ export const blockAkashaReads = {
       statement: "A call running outside the repository this hook stands in is let through.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "What this hook does not reach is printed by the hook and asked for with `--scope`.",
-    },
-    {
       invariantKind: "absence",
       statement: "The index is no page.",
     },
