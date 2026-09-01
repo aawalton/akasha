@@ -11,6 +11,7 @@ export const alanHarness = {
     "workspace-package/voice-core",
     "workspace-package/idle-system",
     "workspace-package/sms-access",
+    "workspace-package/sms-core",
   ],
   invariants: [
     {

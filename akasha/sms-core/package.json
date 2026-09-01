@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/sms-core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./acting-account": "./acting-account/acting-account.module.code.ts",
+    "./handle-inbound": "./handle-inbound/handle-inbound.module.code.ts",
+    "./jenny-handler-routing": "./jenny-handler-routing/jenny-handler-routing.module.code.ts",
+    "./ki-handler-routing": "./ki-handler-routing/ki-handler-routing.module.code.ts",
+    "./normalize": "./normalize/normalize.module.code.ts",
+    "./sms-identity": "./sms-identity/sms-identity.module.code.ts",
+    "./telnyx-inbound": "./telnyx-inbound/telnyx-inbound.module.code.ts",
+    "./telnyx-send": "./telnyx-send/telnyx-send.module.code.ts",
+    "./verify-signature": "./verify-signature/verify-signature.module.code.ts"
+  },
+  "dependencies": {
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
