@@ -166,7 +166,17 @@ public class DeviceSecretPlugin: CAPPlugin, CAPBridgedPlugin {
         CAPPluginMethod(name: "peek", returnType: CAPPluginReturnPromise),
         CAPPluginMethod(name: "store", returnType: CAPPluginReturnPromise),
         CAPPluginMethod(name: "clear", returnType: CAPPluginReturnPromise),
+        CAPPluginMethod(name: "present", returnType: CAPPluginReturnPromise),
     ]
+
+    // The route the credential is presented to when the web view asks whether the server
+    // still takes it. Pinned HERE rather than taken from the call: a method that attaches
+    // this credential to a caller-chosen URL would be an exfiltration seam, and nothing
+    // needs one. That route carries no reading and judges the credential alone, so its 401
+    // means "this secret is wrong" and never "the page store did not answer" — a 503 is
+    // what says that, and the caller decides nothing on it.
+    private static let admissionEndpoint = URL(
+        string: "https://alanwalton.com/api/device-secret/admission")!
 
     // identifierForVendor — stable per vendor and RESET ON UNINSTALL, which is exactly
     // the revoke-on-uninstall behaviour the server side wants.
@@ -213,6 +223,35 @@ public class DeviceSecretPlugin: CAPPlugin, CAPBridgedPlugin {
 
     @objc func clear(_ call: CAPPluginCall) {
         call.resolve(["cleared": DeviceSecretKeychain.clear()])
+    }
+
+    // Presents what this device holds and answers with the STATUS ALONE. This is not a
+    // read-back and must never become one: the value is read, put in a header, and dropped.
+    // The web view learns whether the server still takes this device and nothing else,
+    // which is the whole of what it needs to decide between keeping and re-minting.
+    //
+    // `held: false` says the keychain answered with nothing — either empty or the two-item
+    // broken invariant readSecret() refuses to choose between. Both are read by the caller
+    // as a refusal, because nothing is what a route refuses. `status: 0` says the route was
+    // never reached, and that decides nothing.
+    @objc func present(_ call: CAPPluginCall) {
+        guard let secret = DeviceSecretKeychain.readSecret() else {
+            call.resolve(["held": false, "status": 0])
+            return
+        }
+        Task {
+            var request = URLRequest(url: DeviceSecretPlugin.admissionEndpoint)
+            request.cachePolicy = .reloadIgnoringLocalCacheData
+            request.timeoutInterval = 15
+            request.setValue(secret, forHTTPHeaderField: "X-Device-Secret")
+            guard let (_, response) = try? await URLSession.shared.data(for: request),
+                  let http = response as? HTTPURLResponse
+            else {
+                call.resolve(["held": true, "status": 0])
+                return
+            }
+            call.resolve(["held": true, "status": http.statusCode])
+        }
     }
 }
 SWIFT_DEVICE_SECRET
