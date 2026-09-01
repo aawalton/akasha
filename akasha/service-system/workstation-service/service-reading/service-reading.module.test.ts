@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import {
   everyStanding,
+  readFor,
   runsIn,
   serviceIn,
-  standingFor,
   systemdIn,
 } from "./service-reading.module.code.ts"
 
@@ -80,12 +80,12 @@ test("a page stating no systemd carries none", () => {
 })
 
 test("a slug no service is filed under is refused by name", () => {
-  const read = standingFor(ROOT, "no-such-service-stands-here")
+  const read = readFor(ROOT, "no-such-service-stands-here")
   expect("refused" in read).toBe(true)
 })
 
 test("the service standing today is read from its page", () => {
-  const read = standingFor(ROOT, "page-query-service")
+  const read = readFor(ROOT, "page-query-service")
   expect("standing" in read).toBe(true)
   if (!("standing" in read)) return
   expect(read.standing.length).toBe(1)

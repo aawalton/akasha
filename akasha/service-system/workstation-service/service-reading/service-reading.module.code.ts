@@ -67,7 +67,7 @@ function serviceAt(root: string, path: string): Service | string {
   return { service, pagePath: path }
 }
 
-export function standingFor(root: string, slug: string): Read {
+export function readFor(root: string, slug: string): Read {
   const found = listedAt(root, SERVICE_PAGE_TYPE, slug)
   const one = found[0]
   if (one === undefined) return { refused: `no ${SERVICE_PAGE_TYPE} is slugged \`${slug}\`` }
