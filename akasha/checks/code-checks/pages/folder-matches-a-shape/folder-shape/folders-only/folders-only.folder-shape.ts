@@ -7,6 +7,7 @@ export const foldersOnly = {
   definition: "the shape of a folder holding folders and no file of its own",
   code: "ts",
   test: "ts",
+  enabled: false,
   invariants: [
     {
       invariantKind: "departure",

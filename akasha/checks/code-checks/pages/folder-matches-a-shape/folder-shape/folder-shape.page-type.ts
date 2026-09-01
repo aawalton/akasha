@@ -2,9 +2,11 @@ import type { Module } from "@akasha/code-system/module"
 import type { Test } from "@akasha/code-system/module/test"
 import type { Held } from "@akasha/pages-system/page-file-name"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { FolderShapeEnabled } from "./properties/folder-shape-enabled.boolean-property.ts"
 
 export type FolderShape = Module & {
   test: Test
+  enabled: FolderShapeEnabled
 }
 
 export type Standing = {
@@ -27,6 +29,7 @@ export const folderShape = {
   definition: "a shape a folder is allowed to have",
   pluralSlug: "folder-shapes",
   partSlugs: [
+    "boolean-property/folder-shape-enabled",
     "folder-shape/folders-only",
     "folder-shape/one-page-with-its-properties",
     "folder-shape/pages-of-one-type",
@@ -34,7 +37,10 @@ export const folderShape = {
   ],
   extendsSlug: "page-type/module",
   loadedBySlug: "code-check/folder-matches-a-shape",
-  properties: [{ pagePropertySlug: "test", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "test", required: true, many: false },
+    { pagePropertySlug: "folder-shape-enabled", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -65,8 +71,12 @@ export const folderShape = {
       statement: "A shape states its test.",
     },
     {
-      invariantKind: "absence",
-      statement: "A shape carries no status.",
+      invariantKind: "departure",
+      statement: "A shape states whether the shape judges folders.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape judging no folder keeps its page.",
     },
   ],
 } as const satisfies PageType

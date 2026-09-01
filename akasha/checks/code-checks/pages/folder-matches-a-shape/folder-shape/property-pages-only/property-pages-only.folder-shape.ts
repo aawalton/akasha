@@ -7,6 +7,7 @@ export const propertyPagesOnly = {
   definition: "the shape of a folder holding property pages and nothing else",
   code: "ts",
   test: "ts",
+  enabled: true,
   invariants: [
     {
       invariantKind: "departure",
