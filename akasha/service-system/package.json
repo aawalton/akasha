@@ -10,5 +10,8 @@
     "./web-app-reading/testing": "./cluster-service/web-app-reading/web-app-reading.module.test-fixtures.ts",
     "./workload-deploying": "./cluster-service/workload-deploying/workload-deploying.module.code.ts",
     "./web-app-building": "./cluster-service/web-app-building/web-app-building.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*"
   }
 }

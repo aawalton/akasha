@@ -1,5 +1,6 @@
 import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import {
   carries,
   type Plan,
@@ -222,19 +223,15 @@ export type BuildEnvEntry =
 
 export type BuildEnv = readonly { readonly name: string; readonly value: string }[]
 
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null
-}
-
 function isEntry(value: unknown): value is BuildEnvEntry {
-  if (!isRecord(value) || typeof value.name !== "string") return false
+  if (!isObjectRecord(value) || typeof value.name !== "string") return false
   if (typeof value.value === "string") return true
   const from = value.fromSecret
-  return isRecord(from) && typeof from.name === "string" && typeof from.key === "string"
+  return isObjectRecord(from) && typeof from.name === "string" && typeof from.key === "string"
 }
 
 export function entriesIn(loaded: unknown): readonly BuildEnvEntry[] {
-  const found = isRecord(loaded) ? loaded[BUILD_ENV_EXPORT] : undefined
+  const found = isObjectRecord(loaded) ? loaded[BUILD_ENV_EXPORT] : undefined
   return Array.isArray(found) ? found.filter(isEntry) : []
 }
 

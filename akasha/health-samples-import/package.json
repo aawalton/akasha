@@ -14,6 +14,7 @@
   "dependencies": {
     "@akasha/health-samples-access": "workspace:*",
     "@akasha/ssh-access": "workspace:*",
+    "@akasha/verdict": "workspace:*",
     "zod": "^4.3.6"
   }
 }
