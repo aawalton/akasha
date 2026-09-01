@@ -26,6 +26,7 @@ async function resolveChapterBody(pageId: string, pageTypeSlug: string): Promise
   const sourcePropertyId = mediaConfig?.audio?.sourcePropertyId
   if (sourcePropertyId == null) return ""
   const row = await getPage({
+    pageTypeSlug,
     where: [{ key: "id", eq: pageId }],
     select: ["id", sourcePropertyId],
   })

@@ -38,6 +38,7 @@ export async function resolveChapterKokoroSegments(
   const sourcePropertyId = mediaConfig?.audio?.sourcePropertyId
   if (sourcePropertyId == null) return null
   const textRow = await getPage({
+    pageTypeSlug,
     where: [{ key: "id", eq: pageId }],
     select: ["id", sourcePropertyId],
   })

@@ -78,6 +78,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   if (sourcePropertyId == null) return respond("Not Found", 404)
 
   const textRow = await getPage({
+    pageTypeSlug,
     where: [{ key: "id", eq: pageId }],
     select: ["id", sourcePropertyId],
   })
