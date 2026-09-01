@@ -16,6 +16,7 @@ export const alanHarness = {
     "workspace-package/email-inbound",
     "workspace-package/awen-core",
     "workspace-package/alanwalton-web",
+    "workspace-package/health-samples-access",
   ],
   invariants: [
     {
