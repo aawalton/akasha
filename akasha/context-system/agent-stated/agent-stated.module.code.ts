@@ -1,8 +1,8 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { addressIn } from "../../pages-system/page/page-address/page-address.module.code.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { namedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { addressIn } from "@akasha/pages-system/page-address"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { namedIn } from "@akasha/pages-system/page-file-name"
 
 const AGENT: ReadonlySet<string> = new Set(["seat", "subagent"])
 

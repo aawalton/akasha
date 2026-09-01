@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const agentStated = {
   id: "01a0582a-d9ef-72d5-a4df-56bca58d3005",

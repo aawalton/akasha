@@ -1,17 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
+import type { Judging } from "@akasha/checks-system/judging"
+import { rebuiltFrom } from "@akasha/indexes/indexing"
+import { butTheStamp } from "@akasha/indexes/indexing/testing"
 import {
   everythingFiled,
   fileWhereTheIndexIs,
   identitiesListedIn,
   idFiledIn,
   listedFiledIn,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { rebuiltFrom } from "../../pages-system/indexes/indexing/indexing.module.code.ts"
-import { butTheStamp } from "../../pages-system/indexes/indexing/indexing.module.test-fixtures.ts"
-import { everyFileUnder } from "../../testing-system/walking/walking.module.code.ts"
+} from "@akasha/indexes/testing"
+import { everyFileUnder } from "@akasha/testing-system/walking"
 import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf, landing } from "./landing.module.code.ts"

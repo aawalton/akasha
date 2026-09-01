@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { changedSince } from "../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
+import { changedSince } from "@akasha/indexes/stamp"
 import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code.ts"
 
 export const INSIDE = "akasha"

@@ -1,5 +1,5 @@
-import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
+import { everyOfType } from "@akasha/indexes"
+import { valueAt } from "@akasha/pages-system/page-value"
 import {
   blobAt,
   type Changing,

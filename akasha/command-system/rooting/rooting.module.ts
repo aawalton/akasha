@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const rooting = {
   id: "01a04f5a-6229-7bed-be21-ddab3550449e",

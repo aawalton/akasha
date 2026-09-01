@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const standing = {
   id: "01a04faa-e70a-757d-a665-8e7b7bcfd14d",

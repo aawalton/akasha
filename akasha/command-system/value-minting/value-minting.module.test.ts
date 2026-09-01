@@ -1,12 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  listedFiled,
-  schemaFiled,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
-import { put } from "../../testing-system/putting/putting.module.code.ts"
+import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
+import { gitIn } from "@akasha/testing-system/gitting"
+import { put } from "@akasha/testing-system/putting"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
