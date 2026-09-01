@@ -11,6 +11,7 @@ import { answering } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
 import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
+import { linkingsIn, reachedOver } from "../../package-linking/package-linking.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import { pruneEmptied, wouldEmpty } from "../remove/remove.command.code.ts"
@@ -374,7 +375,15 @@ export function move(argv: readonly string[], given: Given): Answer {
     carries: uncommitted,
     saying: () => carrying(sided.sides, reached, false, spread, pruneEmptied(root, gone)),
   }
-  const landed = landingAsked({ ...given, root }, asked)
+  const relink = reachedOver(root, linkingsIn(moved, bodyText))
+  let landed: Answer
+  try {
+    landed = landingAsked({ ...given, root }, asked)
+  } catch (thrown) {
+    relink()
+    throw thrown
+  }
+  if (read.dryRun || landed.code !== 0) relink()
   if (landed.code === 0 && !read.dryRun) carryReadings(root, carries)
   if (landed.code !== 0 || !read.dryRun) return landed
   const would = carrying(sided.sides, reached, true, spread, wouldEmpty(root, gone))
