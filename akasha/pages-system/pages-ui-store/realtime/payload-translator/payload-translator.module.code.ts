@@ -1,4 +1,4 @@
-import type { RawPageRow } from "@shared/pages-access/page-row"
+import type { RawPageRow } from "@akasha/pages-access/page-row"
 import { z } from "zod"
 
 const isoTimestamp = z.union([z.string(), z.date()]).transform((v, ctx) => {

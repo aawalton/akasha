@@ -1,4 +1,4 @@
-import { isPromotedKey, PROMOTED_COLUMN } from "@shared/pages-access/routing-core"
+import { isPromotedKey, PROMOTED_COLUMN } from "@akasha/pages-access/routing-core"
 import type { Json } from "@shared/supabase-database/generated/database"
 import {
   eq,

@@ -1,4 +1,4 @@
-import type { RawPageRow } from "@shared/pages-access/page-row"
+import type { RawPageRow } from "@akasha/pages-access/page-row"
 
 export type PageRow = RawPageRow
 

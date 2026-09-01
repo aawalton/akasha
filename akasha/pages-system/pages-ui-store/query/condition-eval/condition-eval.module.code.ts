@@ -1,5 +1,5 @@
+import { isPromotedKey, PROMOTED_COLUMN } from "@akasha/pages-access/routing-core"
 import { pageHasNonEmptyContentKey } from "@akasha/pages-core/schema/content-tier"
-import { isPromotedKey, PROMOTED_COLUMN } from "@shared/pages-access/routing-core"
 import type { Json } from "@shared/supabase-database/generated/database"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import {

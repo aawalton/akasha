@@ -1,4 +1,4 @@
-import { RosterUnreachable } from "@shared/pages-access/file-read"
+import { RosterUnreachable } from "@akasha/pages-access/file-read"
 import type { Collection } from "@tanstack/db"
 import { emitStoreDiagnostic } from "../../diagnostics/diagnostics.module.code.ts"
 import {

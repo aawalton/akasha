@@ -1,3 +1,4 @@
+import { isPromotedKey, PROMOTED_COLUMN } from "@akasha/pages-access/routing-core"
 import {
   type AggregateConfig,
   type AggregateFunction,
@@ -10,7 +11,6 @@ import {
 } from "@akasha/pages-core/property-types/rollup"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
 import { lowerUuid } from "@akasha/pages-system/name-format/lower-uuid"
-import { isPromotedKey, PROMOTED_COLUMN } from "@shared/pages-access/routing-core"
 import {
   asPageRecord,
   attributesOf,

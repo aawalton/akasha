@@ -17,7 +17,7 @@ export class DefinitionTierWriteError extends Error {
     const replacement =
       slug === "page-type" ? "createPageType or patchPageTypeById" : "patchPropertyDefinitionById"
     super(
-      `${op}: slug "${slug}" is definition-tier; use ${replacement} from "@shared/pages-access"`
+      `${op}: slug "${slug}" is definition-tier; use ${replacement} from "@akasha/pages-access"`
     )
     this.name = "DefinitionTierWriteError"
     this.slug = slug
