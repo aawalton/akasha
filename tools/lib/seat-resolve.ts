@@ -4,8 +4,8 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { type Frontmatter, parseFrontmatter } from "../../page/frontmatter.ts"
 import { fileStemOf } from "../../page/name/name.ts"
 import { placeDirOf, placesIn, reposOf, scanIn } from "../../page/page-types.ts"
-import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
+import { seat as seatPageType } from "../../akasha/seat-system/seat/seat.page-type.ts"
 import { isDirty, resolveRoots } from "../../repo/roots/roots.ts"
 import { domainsStanding } from "./akasha-domains.ts"
 import { personaAt, personasStanding } from "./akasha-personas.ts"
@@ -99,22 +99,32 @@ export function documentFor(
   return at.length === 1 ? (at[0] as string) : null
 }
 
-const SLUG_SUFFIX = "-slug"
-
-const SEAT_TYPE = "seat"
+// WHAT A SEAT STARTS AS IS READ FROM ITS PAGE TYPE IN AKASHA. It used to be read from
+// `pages/page-property-definition/seat-*-slug.md`, which stated a default per page type because
+// the old system gave every page type properties of its own. Akasha shares a property across page
+// types instead — `role-slug` is carried by a seat and by a persona, `persona-slug` by a seat and
+// by an initiative — so the default stands on the declaration rather than on the property, and it
+// is read from the declaration here.
+//
+// The slot names are this file's, not akasha's: akasha calls a seat's assignment what it is, and
+// the three slots here are the words the seat commands have always taken. The mapping is one of
+// the last places the old key namespace survives, and it goes when those commands are renamed.
+const SLOT_OF: Readonly<Record<string, AttributeKey>> = {
+  "persona-slug": "persona",
+  "assignment-slug": "domain",
+  "role-slug": "role",
+}
 
 const defaults = new Map<string, ReadonlyMap<string, string>>()
 
 function statedDefaults(root: string): ReadonlyMap<string, string> {
   const held = defaults.get(root)
   if (held !== undefined) return held
-  const tree = diskFileTree({ ...resolveRoots(), akasha: root })
-  const seat = registryOf(tree).find((one) => one.slug === SEAT_TYPE)
   const made = new Map<string, string>()
-  for (const one of seat === undefined ? [] : (compiledPageTypeFor(seat, tree).properties ?? [])) {
-    const value = one.default
-    if (typeof value === "string" && one.name.endsWith(SLUG_SUFFIX))
-      made.set(one.name.slice(0, -SLUG_SUFFIX.length), value)
+  for (const one of seatPageType.properties) {
+    const slot = SLOT_OF[one.pagePropertySlug]
+    const value = "default" in one ? one.default : undefined
+    if (slot !== undefined && typeof value === "string") made.set(slot, value)
   }
   defaults.set(root, made)
   return made
