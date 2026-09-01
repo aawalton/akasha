@@ -1,7 +1,7 @@
 {
   "name": "@temper/player-completion-addon",
   "dependencies": {
-    "@shared/design-tokens": "workspace:*",
+    "@akasha/design-tokens": "workspace:*",
     "@temper/game-characters-capture-addon": "workspace:*",
     "@temper/game-characters-skills-morphs-addon": "workspace:*",
     "@temper/game-companions-core": "workspace:*",

@@ -1,5 +1,5 @@
-import { GREEN } from "@shared/design-tokens/semantic"
-import { TEXT_PRIMARY, TEXT_TERTIARY } from "@shared/design-tokens/text"
+import { GREEN } from "@akasha/design-tokens/semantic-color"
+import { TEXT_PRIMARY, TEXT_TERTIARY } from "@akasha/design-tokens/text-color"
 import { requireAt } from "@temper/shared-narrow"
 import { applyBuild, equipUpgrades } from "../apply-build"
 import {

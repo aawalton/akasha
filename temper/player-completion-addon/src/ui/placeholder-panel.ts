@@ -1,4 +1,4 @@
-import { TEXT_PRIMARY } from "@shared/design-tokens/text"
+import { TEXT_PRIMARY } from "@akasha/design-tokens/text-color"
 
 export function CreatePlaceholderPanel(parentWindow: Control): Control {
   const panel = WINDOW_MANAGER.CreateControl(undefined, parentWindow, CT_CONTROL)

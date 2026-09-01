@@ -1,5 +1,5 @@
-import { BLUE, GREEN, ORANGE, PURPLE, RED, YELLOW } from '@shared/design-tokens/semantic';
-import type { Rgb } from '@shared/design-tokens/surface';
+import { BLUE, GREEN, ORANGE, PURPLE, RED, YELLOW } from '@akasha/design-tokens/semantic-color';
+import type { Rgb } from '@akasha/design-tokens/surface-color';
 
 const PALETTE: Readonly<Record<string, Rgb>> = {
 	blue: BLUE,

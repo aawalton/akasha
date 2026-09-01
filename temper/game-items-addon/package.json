@@ -1,7 +1,7 @@
 {
   "name": "@temper/game-items-addon",
   "dependencies": {
-    "@shared/design-tokens": "workspace:*",
+    "@akasha/design-tokens": "workspace:*",
     "@temper/game-characters-capture-addon": "workspace:*",
     "@temper/game-characters-skill-lines": "workspace:*",
     "@temper/game-characters-skills-morphs-core": "workspace:*",
@@ -16,8 +16,8 @@
     "@temper/shared-narrow": "workspace:*"
   },
   "devDependencies": {
+    "@akasha/utils-narrow": "workspace:*",
     "typescript": "^5.8.3",
-    "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   },
   "functionalType": "addon",

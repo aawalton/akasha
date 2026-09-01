@@ -1,4 +1,4 @@
-import { GREEN, RED } from "@shared/design-tokens/semantic"
+import { GREEN, RED } from "@akasha/design-tokens/semantic-color"
 import { recordNetWorthWalkMs } from "./bank-trace"
 import { getInventoryConfig } from "./inventory-config"
 import { computeLiveNetWorth } from "./net-worth"

@@ -1,4 +1,4 @@
-import { TEXT_SECONDARY } from "@shared/design-tokens/text"
+import { TEXT_SECONDARY } from "@akasha/design-tokens/text-color"
 import { createFieldRegistry } from "./field-registry"
 import type { HudField } from "./types"
 

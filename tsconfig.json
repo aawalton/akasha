@@ -7,16 +7,10 @@
       "path": "./shared/notifications"
     },
     {
-      "path": "./shared/supabase-rr"
-    },
-    {
       "path": "./shared/design-patterns"
     },
     {
       "path": "./shared/design-system"
-    },
-    {
-      "path": "./shared/design-tokens"
     },
     {
       "path": "./temper/shared-formula-framework"

@@ -1,4 +1,4 @@
-import { TEXT_SECONDARY, TEXT_TERTIARY } from "@shared/design-tokens/text"
+import { TEXT_SECONDARY, TEXT_TERTIARY } from "@akasha/design-tokens/text-color"
 import { requireAt } from "@temper/shared-narrow"
 import {
   ARMOR_SLOTS,

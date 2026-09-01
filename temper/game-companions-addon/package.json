@@ -1,7 +1,7 @@
 {
   "name": "@temper/game-companions-addon",
   "dependencies": {
-    "@shared/design-tokens": "workspace:*",
+    "@akasha/design-tokens": "workspace:*",
     "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
     "@temper/shared-capture-perf": "workspace:*",
     "@temper/shared-foundation-misc-codec": "workspace:*",

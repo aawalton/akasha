@@ -1,4 +1,4 @@
-import { TEXT_PRIMARY, TEXT_SECONDARY } from "@shared/design-tokens/text"
+import { TEXT_PRIMARY, TEXT_SECONDARY } from "@akasha/design-tokens/text-color"
 import { requireFirst } from "@temper/shared-narrow"
 import { getSavedVariables } from "../saved-variables"
 import { CreatePlaceholderPanel } from "./placeholder-panel"

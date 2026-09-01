@@ -1,4 +1,4 @@
-import { TEXT_TERTIARY } from "@shared/design-tokens/text"
+import { TEXT_TERTIARY } from "@akasha/design-tokens/text-color"
 import {
   getRelevantSkillLineIds,
   getSkillMorphEnrichment,

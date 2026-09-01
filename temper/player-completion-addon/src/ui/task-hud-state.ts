@@ -1,5 +1,5 @@
-import { BLUE, GREEN, PURPLE, RED, YELLOW } from "@shared/design-tokens/semantic"
-import { TEXT_SECONDARY } from "@shared/design-tokens/text"
+import { BLUE, GREEN, PURPLE, RED, YELLOW } from "@akasha/design-tokens/semantic-color"
+import { TEXT_SECONDARY } from "@akasha/design-tokens/text-color"
 
 export const HUD_NAME = "TemperTaskHUD"
 export const MIN_HUD_WIDTH = 120

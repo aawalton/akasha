@@ -1,4 +1,4 @@
-import { TEXT_SECONDARY } from "@shared/design-tokens/text"
+import { TEXT_SECONDARY } from "@akasha/design-tokens/text-color"
 import type { TaskData } from "../saved-variables"
 import { getSavedVariables } from "../saved-variables"
 import type { ActiveQuest } from "../tracking/active-quests"

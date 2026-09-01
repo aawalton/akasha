@@ -91,7 +91,7 @@ export function judgeColorToken(
     const { tokenName, sourceRel } = token.exported
     return [
       {
-        message: `${tokenName} is exported by @shared/design-tokens (${sourceRel}) and no CSS custom property is mapped to it, so nothing compares it against tokens.css; map it in check-design-tokens.ts`,
+        message: `${tokenName} is exported by @akasha/design-tokens (${sourceRel}) and no CSS custom property is mapped to it, so nothing compares it against tokens.css; map it in check-design-tokens.ts`,
         cssVar: null,
         tokenName,
         reason: "unmapped-export",
@@ -102,7 +102,7 @@ export function judgeColorToken(
   if (token.kind === "unmirrored-var") {
     return [
       {
-        message: `--${token.cssVar} is declared in tokens.css and no @shared/design-tokens export mirrors it, so the ESO addons have no value for it; add the sRGB tuple to the tokens package and map it in check-design-tokens.ts`,
+        message: `--${token.cssVar} is declared in tokens.css and no @akasha/design-tokens export mirrors it, so the ESO addons have no value for it; add the sRGB tuple to the tokens package and map it in check-design-tokens.ts`,
         cssVar: token.cssVar,
         tokenName: null,
         reason: "unmirrored-var",
@@ -129,7 +129,7 @@ export function judgeColorToken(
   if (within) return []
   return [
     {
-      message: `${spec.tokenName} = rgb(${actual.join(", ")}) drifted from --${spec.cssVar} oklch(${oklch.l} ${oklch.c} ${oklch.h}) → rgb(${expected.join(", ")}); update the tuple in @shared/design-tokens to match`,
+      message: `${spec.tokenName} = rgb(${actual.join(", ")}) drifted from --${spec.cssVar} oklch(${oklch.l} ${oklch.c} ${oklch.h}) → rgb(${expected.join(", ")}); update the tuple in @akasha/design-tokens to match`,
       cssVar: spec.cssVar,
       tokenName: spec.tokenName,
       reason: "mismatch",
