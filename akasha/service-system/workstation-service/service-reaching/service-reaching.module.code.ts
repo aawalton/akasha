@@ -31,7 +31,7 @@ export function realPathOf(at: string): string {
   return existsSync(at) ? realpathSync(at) : resolve(at)
 }
 
-export function standsIn(root: string, at: string): boolean {
+export function insideRepo(root: string, at: string): boolean {
   if (!at.startsWith(`${root}/`)) return false
   return !at
     .slice(root.length + 1)
@@ -65,7 +65,7 @@ export function importsIn(file: string, root: string): Reached | null {
     }
     if (!at.startsWith("/")) continue
     const real = realPathOf(at)
-    if (standsIn(root, real)) files.push(real)
+    if (insideRepo(root, real)) files.push(real)
   }
   return { files, unresolved }
 }

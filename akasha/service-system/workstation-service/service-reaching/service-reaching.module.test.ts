@@ -3,9 +3,9 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   importsIn,
+  insideRepo,
   localClosure,
   realPathOf,
-  standsIn,
   withoutShebang,
 } from "./service-reaching.module.code.ts"
 
@@ -21,14 +21,14 @@ function fileAt(rel: string, text: string): string {
 }
 
 test("a file standing under the root is reached and one standing outside it is not", () => {
-  expect(standsIn("/a/b", "/a/b/c.ts")).toBe(true)
-  expect(standsIn("/a/b", "/a/c.ts")).toBe(false)
-  expect(standsIn("/a/b", "/a/bc/d.ts")).toBe(false)
+  expect(insideRepo("/a/b", "/a/b/c.ts")).toBe(true)
+  expect(insideRepo("/a/b", "/a/c.ts")).toBe(false)
+  expect(insideRepo("/a/b", "/a/bc/d.ts")).toBe(false)
 })
 
 test("a file standing in a vendor folder is reached by nothing", () => {
-  expect(standsIn("/a/b", "/a/b/node_modules/x/i.ts")).toBe(false)
-  expect(standsIn("/a/b", "/a/b/src/node_modules_of_ours/i.ts")).toBe(true)
+  expect(insideRepo("/a/b", "/a/b/node_modules/x/i.ts")).toBe(false)
+  expect(insideRepo("/a/b", "/a/b/src/node_modules_of_ours/i.ts")).toBe(true)
 })
 
 test("a shebang is taken off before the body is scanned", () => {
