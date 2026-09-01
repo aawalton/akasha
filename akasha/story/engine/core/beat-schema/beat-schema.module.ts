@@ -11,7 +11,7 @@ export const beatSchema = {
     {
       invariantKind: "departure",
       statement:
-        "A system beat carries exactly one of mechanics or spoken lines or a typed window.",
+        "A system beat carries mechanics alone or spoken lines alone or a typed window alone.",
     },
     {
       invariantKind: "departure",
@@ -19,7 +19,7 @@ export const beatSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A beat written to the log carries the turn it belongs to.",
+      statement: "A beat written to the log carries the turn the beat belongs to.",
     },
   ],
 } as const satisfies Module

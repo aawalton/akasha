@@ -13,7 +13,8 @@ export const sampleShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A stored reading carries the instant it arrived on top of what was read.",
+      statement:
+        "A stored reading carries the instant the reading arrived on top of what was read.",
     },
     {
       invariantKind: "absence",

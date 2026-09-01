@@ -10,7 +10,8 @@ export const seatLaunching = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The command line that starts a seat is composed apart from the spawning of it.",
+      statement:
+        "The command line that starts a seat is composed apart from the spawning of the command line.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +41,7 @@ export const seatLaunching = {
     },
     {
       invariantKind: "departure",
-      statement: "A pane outlives the process that exited in it.",
+      statement: "A pane outlives the process that exited in the pane.",
     },
     {
       invariantKind: "departure",
@@ -60,11 +61,11 @@ export const seatLaunching = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat whose session is gone once it has had a moment to boot is refused.",
+      statement: "A seat whose session is gone once the seat has had a moment to boot is refused.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here stops a seat or takes the page it holds.",
+      statement: "Nothing here stops a seat or takes the page the seat holds.",
     },
     {
       invariantKind: "gap",

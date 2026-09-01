@@ -33,7 +33,7 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "Those manifests are read as the change leaves them.",
+      statement: "Those manifests are read as the change leaves those manifests.",
     },
     {
       invariantKind: "departure",
@@ -41,16 +41,16 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape reads what stands under a folder as well as what sits in it.",
+      statement: "A shape reads what stands under a folder as well as what sits in the folder.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An import the change adds or takes away is judged at the folder holding what it reaches up to the folder holding the importer too.",
+        "An import the change adds or takes away is judged at the folder holding what the import reaches up to the folder holding the importer too.",
     },
     {
       invariantKind: "departure",
-      statement: "An import inside a folder is no entrance to it.",
+      statement: "An import inside a folder is no entrance to the folder.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "What is a page type and what names a file are read as the change leaves them.",
+      statement: "What is a page type and what names a file are read from what the change leaves.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +74,7 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement:
-        "A change writing a shape's code anew is refused rather than judged by the body standing before it.",
+        "A change writing a shape's code anew is refused rather than judged by the body standing before the change.",
     },
     {
       invariantKind: "absence",

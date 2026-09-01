@@ -21,8 +21,7 @@ export const assignmentSlug = {
     },
     {
       invariantKind: "stopgap",
-      statement:
-        "Three of the domains the seats standing today name have not moved into the new system.",
+      statement: "Three domains the seats standing today name have not moved into the new system.",
     },
   ],
 } as const satisfies TextProperty

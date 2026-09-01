@@ -29,7 +29,8 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
-      statement: "The pages the index says name it are judged though the change never names them.",
+      statement:
+        "The pages the index says name a page being taken away are judged though the change never names those pages.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +63,8 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
-      statement: "Which pages named a page being taken away is read from the index as it stands.",
+      statement:
+        "Which pages named a page being taken away is read from the index as the index stands.",
     },
   ],
 } as const satisfies CodeCheck

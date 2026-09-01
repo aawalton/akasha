@@ -48,7 +48,7 @@ export const workstationService = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A workstation service runs the code as it stands in the repository.",
+      statement: "A workstation service runs the code as the code stands in the repository.",
     },
     {
       invariantKind: "departure",
@@ -56,11 +56,11 @@ export const workstationService = {
     },
     {
       invariantKind: "departure",
-      statement: "The wrapper starts it again when a file it reaches changes.",
+      statement: "The wrapper starts the service again when a file the service reaches changes.",
     },
     {
       invariantKind: "departure",
-      statement: "A service's own imports settle which files start it again.",
+      statement: "A service's own imports settle which files start the service again.",
     },
     {
       invariantKind: "departure",

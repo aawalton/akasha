@@ -15,7 +15,7 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "An index filing no initiative draws none.",
+      statement: "An index filing no initiative draws no initiative.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,7 @@ export const workInitiatives = {
     },
     {
       invariantKind: "absence",
-      statement: "Every initiative answered is one the index named first.",
+      statement: "Every initiative answered is an initiative the index named first.",
     },
   ],
 } as const satisfies Module

@@ -17,7 +17,7 @@ export const pluralSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding many pages of one type is named for this.",
+      statement: "A folder holding many pages of one type is named for the plural slug.",
     },
   ],
 } as const satisfies TextProperty

@@ -33,11 +33,11 @@ export const runsAt = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook is registered at the events it states here.",
+      statement: "A hook is registered at the events the hook states here.",
     },
     {
       invariantKind: "departure",
-      statement: "A harness event is written as the harness writes it.",
+      statement: "A harness event is written as the harness writes the harness event.",
     },
   ],
 } as const satisfies TextProperty

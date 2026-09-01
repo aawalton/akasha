@@ -9,7 +9,7 @@ export const stopgap = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A stopgap is paired with a gap to make it always true.",
+      statement: "A stopgap is paired with a gap to make the stopgap always true.",
     },
   ],
 } as const satisfies InvariantKind

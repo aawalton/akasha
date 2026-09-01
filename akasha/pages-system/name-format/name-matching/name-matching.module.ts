@@ -18,7 +18,7 @@ export const nameMatching = {
     },
     {
       invariantKind: "departure",
-      statement: "No format is a second spelling of another.",
+      statement: "No format is a second spelling of another format.",
     },
     {
       invariantKind: "constraint",

@@ -47,11 +47,11 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
-      statement: "Text a change leaves standing is not text it adds.",
+      statement: "Text a change leaves standing is not text the change adds.",
     },
     {
       invariantKind: "departure",
-      statement: "A term warrants nothing of the page stating it.",
+      statement: "A term warrants nothing of the page stating the term.",
     },
     {
       invariantKind: "departure",
@@ -64,11 +64,12 @@ export const changeTabooTerms = {
     {
       invariantKind: "departure",
       statement:
-        "What is owed says of each list whether it is what the term keeps or what it bars.",
+        "What is owed says of each list whether the list is what the term keeps or what the term bars.",
     },
     {
       invariantKind: "departure",
-      statement: "What is owed for a term naming no kept sense names only the senses it bars.",
+      statement:
+        "What is owed for a term naming no kept sense names only the senses the term bars.",
     },
     {
       invariantKind: "departure",

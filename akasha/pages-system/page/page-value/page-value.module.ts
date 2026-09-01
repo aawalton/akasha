@@ -10,11 +10,11 @@ export const pageValue = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page's body can be loaded after the file it came from is gone.",
+      statement: "A page's body can be loaded after the file the body came from is gone.",
     },
     {
       invariantKind: "departure",
-      statement: "The value a body declares is the first object it exports.",
+      statement: "The value a body declares is the first object the body exports.",
     },
     {
       invariantKind: "departure",

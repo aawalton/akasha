@@ -14,7 +14,7 @@ export const shellClean = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The shell scripts a change is judged by are the ones it carries.",
+      statement: "The shell scripts a change is judged by are the ones the change carries.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const shellClean = {
     {
       invariantKind: "departure",
       statement:
-        "A script standing outside the world is one the linter cannot follow a source into.",
+        "A script standing outside the world is a script the linter cannot follow a source into.",
     },
     {
       invariantKind: "departure",
@@ -45,11 +45,11 @@ export const shellClean = {
     },
     {
       invariantKind: "departure",
-      statement: "Every finding is answered against the file it stands in.",
+      statement: "Every finding is answered against the file the finding stands in.",
     },
     {
       invariantKind: "departure",
-      statement: "The findings are answered in the order they stand in the files.",
+      statement: "The findings are answered in the order the findings stand in the files.",
     },
     {
       invariantKind: "constraint",
@@ -62,7 +62,7 @@ export const shellClean = {
     },
     {
       invariantKind: "departure",
-      statement: "A finding is said as the `SC` code the linter gave it.",
+      statement: "A finding is said as the `SC` code the linter gave the finding.",
     },
     {
       invariantKind: "absence",

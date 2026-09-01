@@ -38,7 +38,7 @@ export const agentStated = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug stated under no page type names none.",
+      statement: "A slug stated under no page type names no page type.",
     },
     {
       invariantKind: "absence",

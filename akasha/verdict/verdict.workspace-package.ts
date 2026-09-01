@@ -19,7 +19,7 @@ export const verdict = {
     },
     {
       invariantKind: "departure",
-      statement: "A judgement states the moment it was observed.",
+      statement: "A judgement states the moment the judgement was observed.",
     },
     {
       invariantKind: "absence",

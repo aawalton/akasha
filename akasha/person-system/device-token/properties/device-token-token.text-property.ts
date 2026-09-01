@@ -13,7 +13,7 @@ export const deviceTokenToken = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Apple writes a token in upper hexadecimal and it is kept as given.",
+      statement: "Apple writes a token in upper hexadecimal and the token is kept as given.",
     },
   ],
 } as const satisfies TextProperty

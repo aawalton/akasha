@@ -35,7 +35,7 @@ export const shellScript = {
     },
     {
       invariantKind: "departure",
-      statement: "A sourced script reads names set by the script that sourced it.",
+      statement: "A sourced script reads names set by the script that sourced the sourced script.",
     },
     {
       invariantKind: "departure",

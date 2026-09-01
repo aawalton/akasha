@@ -14,7 +14,7 @@ export const lastMessaged = {
     },
     {
       invariantKind: "departure",
-      statement: "Both sides are lowercased and spaced with dashes before they are compared.",
+      statement: "Both sides are lowercased and spaced with dashes before both sides are compared.",
     },
   ],
 } as const satisfies Module

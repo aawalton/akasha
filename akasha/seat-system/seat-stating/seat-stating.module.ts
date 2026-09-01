@@ -15,7 +15,7 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat whose principal is no person names the seat above it.",
+      statement: "A seat whose principal is no person names the seat above itself.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
-      statement: "A body matching the file it would land in is not landed again.",
+      statement: "A body matching the file the body would land in is not landed again.",
     },
     {
       invariantKind: "absence",

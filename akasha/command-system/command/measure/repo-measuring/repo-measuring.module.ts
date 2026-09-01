@@ -10,15 +10,15 @@ export const repoMeasuring = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "`node_modules` is skipped wherever it stands.",
+      statement: "`node_modules` is skipped wherever `node_modules` stands.",
     },
     {
       invariantKind: "departure",
-      statement: "`.git` is skipped wherever it stands.",
+      statement: "`.git` is skipped wherever `.git` stands.",
     },
     {
       invariantKind: "departure",
-      statement: "`dist` is skipped wherever it stands.",
+      statement: "`dist` is skipped wherever `dist` stands.",
     },
     {
       invariantKind: "departure",

@@ -18,7 +18,7 @@ export const chainRefusal = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carrying no call at all is refused for nothing.",
+      statement: "A line carrying no call of any kind is refused for nothing.",
     },
     {
       invariantKind: "departure",
@@ -27,11 +27,11 @@ export const chainRefusal = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here knows what a call is or why one would be refused.",
+      statement: "Nothing here knows what a call is or why a call would be refused.",
     },
     {
       invariantKind: "absence",
-      statement: "A hook hands in the calls it cut and the judgement it makes.",
+      statement: "A hook hands in the calls the hook cut and the judgement the hook makes.",
     },
     {
       invariantKind: "absence",

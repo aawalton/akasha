@@ -32,7 +32,7 @@ export const nameFormatJudgesByOneShape = {
     {
       invariantKind: "departure",
       statement:
-        "A change writing a format's code anew is refused rather than judged by the body standing before it.",
+        "A change writing a format's code anew is refused rather than judged by the body standing before the change.",
     },
     {
       invariantKind: "departure",

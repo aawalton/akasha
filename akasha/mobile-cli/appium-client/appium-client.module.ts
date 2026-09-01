@@ -17,7 +17,7 @@ export const appiumClient = {
     },
     {
       invariantKind: "departure",
-      statement: "dismissAlert swallows every error it meets.",
+      statement: "dismissAlert swallows every error dismissAlert meets.",
     },
     {
       invariantKind: "departure",

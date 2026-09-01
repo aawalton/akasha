@@ -13,7 +13,7 @@ export const schedule = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A service stating this is started by a timer rather than kept running.",
+      statement: "A service stating a schedule is started by a timer rather than kept running.",
     },
   ],
 } as const satisfies TextProperty

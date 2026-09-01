@@ -18,7 +18,7 @@ export const moveManifesting = {
     },
     {
       invariantKind: "departure",
-      statement: "A file under nested packages is answered for by every manifest above it.",
+      statement: "A file under nested packages is answered for by every manifest above the file.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,8 @@ export const moveManifesting = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest moving with everything it names keeps the paths it already states.",
+      statement:
+        "A manifest moving with everything the manifest names keeps the paths the manifest already states.",
     },
     {
       invariantKind: "departure",

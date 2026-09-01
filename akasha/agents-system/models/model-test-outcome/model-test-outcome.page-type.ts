@@ -24,7 +24,7 @@ export const modelTestOutcome = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a case that is not bad at all makes a positive false.",
+      statement: "Only a case that is not bad in any way makes a positive false.",
     },
     {
       invariantKind: "departure",

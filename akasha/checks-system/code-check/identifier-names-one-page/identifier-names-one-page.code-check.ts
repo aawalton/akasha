@@ -35,7 +35,7 @@ export const identifierNamesOnePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is read as this change leaves it.",
+      statement: "The index is read as this change leaves the index.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const identifierNamesOnePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The schema is read as the change leaves it.",
+      statement: "The schema is read as the change leaves the schema.",
     },
     {
       invariantKind: "departure",

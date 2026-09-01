@@ -27,11 +27,11 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "What a property's file holds is read as it is written.",
+      statement: "What a property's file holds is read as written.",
     },
     {
       invariantKind: "departure",
-      statement: "A page and a file standing beside it answer the same page.",
+      statement: "A page and a file standing beside the page answer the same page.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement:
-        "A file carrying the tail `uncommitted` holds the uncommitted values of the page it stands beside.",
+        "A file carrying the tail `uncommitted` holds the uncommitted values of the page the file stands beside.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,7 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement:
-        "A file carrying the tail `sops` holds the secret values of the page it stands beside.",
+        "A file carrying the tail `sops` holds the secret values of the page the file stands beside.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +77,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's sops file is what it already stands under.",
+      statement: "A page's sops file is what the sops file already stands under.",
     },
     {
       invariantKind: "absence",

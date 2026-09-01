@@ -11,7 +11,7 @@ export const turnSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A turn counts as unpublished only while it is a draft.",
+      statement: "A turn counts as unpublished only while the turn is a draft.",
     },
   ],
 } as const satisfies Module
