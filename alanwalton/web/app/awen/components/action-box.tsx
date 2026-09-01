@@ -1,6 +1,6 @@
 "use client"
 
-import { type ActionBarMessageKind, classifyActionBarMessage } from "@akasha/awen-core/action-bar-message"
+import { type ActionBarMessageKind, classifyActionBarMessage } from "@akasha/story-engine-core/action-bar-message"
 import { Button } from "@akasha/design-primitives/button"
 import { Input } from "@akasha/design-primitives/input"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"

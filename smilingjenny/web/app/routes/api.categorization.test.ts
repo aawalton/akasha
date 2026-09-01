@@ -17,10 +17,30 @@ const UNREVIEWED = "monarch-unreviewed-transactions"
 process.env.SMILINGJENNY_RING_CREDENTIAL = RING_CREDENTIAL
 process.env.READING_RELAY_SECRET = RELAY_SECRET
 
+const READOUT_ROW = {
+  slug: UNREVIEWED,
+  wireKey: "unreviewed",
+  scaleSlug: "backlog-count",
+  noneLeftWords: "All reviewed!",
+  noneLeftEmoji: "\u{1F389}",
+}
+
+const SCALE_ROW = { slug: "backlog-count", yellowAt: 1, orangeAt: 11, redAt: 21, blackAt: 31 }
+
+let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let origin: string
 
 beforeAll(() => {
+  store = Bun.serve({
+    port: 0,
+    fetch: async (request) => {
+      const asked = (await request.json()) as { pageTypeSlug: string }
+      if (asked.pageTypeSlug === "readout") return Response.json({ rows: [READOUT_ROW] })
+      return Response.json({ rows: [SCALE_ROW] })
+    },
+  })
+  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
   server = Bun.serve({
     port: 0,
     fetch(request) {
@@ -33,7 +53,10 @@ beforeAll(() => {
   origin = `http://localhost:${server.port}`
 })
 
-afterAll(() => server.stop())
+afterAll(() => {
+  server.stop()
+  store.stop()
+})
 
 const ring = (credential?: string) =>
   fetch(`${origin}/api/categorization`, {

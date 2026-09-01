@@ -1,7 +1,7 @@
 "use client"
 
-import { formatPlayerChoiceAction } from "@akasha/awen-core/choice-action"
-import { type SystemChoice } from "@akasha/awen-core/system-window-schema"
+import { formatPlayerChoiceAction } from "@akasha/story-engine-core/choice-action"
+import { type SystemChoice } from "@akasha/story-engine-core/system-window-schema"
 import { Button } from "@akasha/design-primitives/button"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"

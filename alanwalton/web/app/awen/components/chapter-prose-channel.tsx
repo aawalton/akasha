@@ -1,4 +1,4 @@
-import type { ChapterProsePastTurns, ChapterProseTitles } from "@akasha/awen-core/game-schema"
+import type { ChapterProsePastTurns, ChapterProseTitles } from "@akasha/story-engine-core/game-schema"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { useReadEndObserver } from "@akasha/pages-ui/components/use-read-end-observer"
 import { Fragment, type RefObject, useCallback, useEffect, useRef } from "react"

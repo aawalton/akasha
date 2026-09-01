@@ -1,4 +1,4 @@
-import { SystemWindowSchema } from "@akasha/awen-core/system-window-schema"
+import { SystemWindowSchema } from "@akasha/story-engine-core/system-window-schema"
 import { z } from "zod"
 
 export const ClientStoryChapterSchema = z.object({

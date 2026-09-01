@@ -1,4 +1,4 @@
-import { selectGameRenderMode } from "@akasha/awen-core/game-engine"
+import { selectGameRenderMode } from "@akasha/story-engine-core/game-engine"
 
 export type PageDisplayKind =
   | "idle"

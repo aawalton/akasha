@@ -1,4 +1,4 @@
-import type { ChapterProsePastTurns, ChapterProseTitles } from "@akasha/awen-core/game-schema"
+import type { ChapterProsePastTurns, ChapterProseTitles } from "@akasha/story-engine-core/game-schema"
 import type { ClientStoryTurn } from "./client-story-session"
 
 export interface ProseRow {

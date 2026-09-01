@@ -1,6 +1,6 @@
 "use client"
 
-import { resolveAlertPrefs } from "@akasha/awen-core/game-schema"
+import { resolveAlertPrefs } from "@akasha/story-engine-core/game-schema"
 import { useCallback, useEffect, useRef, useState } from "react"
 import type { AwenGame } from "../components/awen-display"
 import {

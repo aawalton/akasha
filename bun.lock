@@ -81,7 +81,7 @@
     "akasha/agents-system": {
       "name": "@akasha/agents-system",
     },
-    "akasha/alanwalton-web": {
+    "akasha/alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
@@ -95,18 +95,10 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/awen-core": {
-      "name": "@akasha/awen-core",
-      "dependencies": {
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "akasha/browser-launch-env": {
+    "akasha/browser/launch-env": {
       "name": "@akasha/browser-launch-env",
     },
-    "akasha/browser-test-harness": {
+    "akasha/browser/test-harness": {
       "name": "@akasha/browser-test-harness",
       "dependencies": {
         "@akasha/browser-launch-env": "workspace:*",
@@ -125,13 +117,6 @@
         "@akasha/google-oauth": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
-        "zod": "^4.3.6",
-      },
-    },
-    "akasha/calendar-sync": {
-      "name": "@akasha/calendar-sync",
-      "dependencies": {
-        "@shared/pages-query": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -362,7 +347,6 @@
         "@akasha/google-oauth": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@googleapis/gmail": "^17.0.0",
-        "@shared/pages-query": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -454,13 +438,6 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/location-traces-access": {
-      "name": "@akasha/location-traces-access",
-      "dependencies": {
-        "@akasha/day": "workspace:*",
-        "@shared/pages-query": "workspace:*",
-      },
-    },
     "akasha/mobile-cli": {
       "name": "@akasha/mobile-cli",
       "dependencies": {
@@ -471,7 +448,6 @@
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@tools/lib": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -611,7 +587,7 @@
     "akasha/readout-system": {
       "name": "@akasha/readout-system",
       "dependencies": {
-        "@shared/pages-query": "workspace:*",
+        "@akasha/pages-system-service": "workspace:*",
         "zod": "^4.3.6",
       },
       "peerDependencies": {
@@ -666,6 +642,14 @@
         "@akasha/health-samples-access": "workspace:*",
         "@shared/pages-query": "workspace:*",
         "readouts": "workspace:*",
+      },
+    },
+    "akasha/story/engine/core": {
+      "name": "@akasha/story-engine-core",
+      "dependencies": {
+        "@akasha/pages-core": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "akasha/supabase-auth": {
@@ -793,7 +777,6 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/geo-io": "workspace:*",
         "@akasha/id-minting": "workspace:*",
-        "@akasha/location-traces-access": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -805,6 +788,7 @@
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
+        "@alanwalton/location-traces-access": "workspace:*",
         "@capacitor/core": "^8.4.1",
         "@capacitor/preferences": "^8.0.1",
         "@capgo/background-geolocation": "^8.3.1",
@@ -833,6 +817,31 @@
         "vite": "^8.0.3",
       },
     },
+    "alanwalton/calendar-sync": {
+      "name": "@alanwalton/calendar-sync",
+      "dependencies": {
+        "@akasha/code-system": "workspace:*",
+        "@infra/k8s-types": "workspace:*",
+        "@shared/pages-query": "workspace:*",
+        "zod": "^4.3.6",
+      },
+      "devDependencies": {
+        "@types/bun": "^1.3.9",
+        "typescript": "^5.8.3",
+      },
+    },
+    "alanwalton/location-traces-access": {
+      "name": "@alanwalton/location-traces-access",
+      "dependencies": {
+        "@akasha/code-system": "workspace:*",
+        "@akasha/day": "workspace:*",
+        "@shared/pages-query": "workspace:*",
+      },
+      "devDependencies": {
+        "@types/bun": "^1.3.9",
+        "typescript": "^5.8.3",
+      },
+    },
     "alanwalton/mobile-cli": {
       "name": "@alanwalton/mobile-cli",
       "version": "0.1.0",
@@ -857,7 +866,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/alanwalton-web": "workspace:*",
-        "@akasha/awen-core": "workspace:*",
         "@akasha/chess-core": "workspace:*",
         "@akasha/day": "workspace:*",
         "@akasha/design-forms": "workspace:*",
@@ -880,6 +888,7 @@
         "@akasha/sms-access": "workspace:*",
         "@akasha/sms-core": "workspace:*",
         "@akasha/status-bar-access": "workspace:*",
+        "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
@@ -3678,17 +3687,13 @@
 
     "@akasha/agents-system": ["@akasha/agents-system@workspace:akasha/agents-system"],
 
-    "@akasha/alanwalton-web": ["@akasha/alanwalton-web@workspace:akasha/alanwalton-web"],
+    "@akasha/alanwalton-web": ["@akasha/alanwalton-web@workspace:akasha/alan/web"],
 
-    "@akasha/awen-core": ["@akasha/awen-core@workspace:akasha/awen-core"],
+    "@akasha/browser-launch-env": ["@akasha/browser-launch-env@workspace:akasha/browser/launch-env"],
 
-    "@akasha/browser-launch-env": ["@akasha/browser-launch-env@workspace:akasha/browser-launch-env"],
-
-    "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:akasha/browser-test-harness"],
+    "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:akasha/browser/test-harness"],
 
     "@akasha/calendar-google": ["@akasha/calendar-google@workspace:akasha/calendar-google"],
-
-    "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:akasha/calendar-sync"],
 
     "@akasha/checkout-provenance": ["@akasha/checkout-provenance@workspace:akasha/checkout-provenance"],
 
@@ -3760,8 +3765,6 @@
 
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
 
-    "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
-
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:akasha/mobile-cli"],
 
     "@akasha/named-for": ["@akasha/named-for@workspace:akasha/named-for"],
@@ -3814,6 +3817,8 @@
 
     "@akasha/status-bar-access": ["@akasha/status-bar-access@workspace:akasha/status-bar-access"],
 
+    "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:akasha/story/engine/core"],
+
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:akasha/supabase-auth"],
 
     "@akasha/supabase-client": ["@akasha/supabase-client@workspace:akasha/supabase-client"],
@@ -3857,6 +3862,10 @@
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:native-shell/atlas"],
 
     "@alanwalton/atlas-web": ["@alanwalton/atlas-web@workspace:alanwalton/atlas-web"],
+
+    "@alanwalton/calendar-sync": ["@alanwalton/calendar-sync@workspace:alanwalton/calendar-sync"],
+
+    "@alanwalton/location-traces-access": ["@alanwalton/location-traces-access@workspace:alanwalton/location-traces-access"],
 
     "@alanwalton/mobile-cli": ["@alanwalton/mobile-cli@workspace:alanwalton/mobile-cli"],
 

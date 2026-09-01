@@ -1,5 +1,5 @@
-import { type GameDisplayModules } from "@akasha/awen-core/game-schema"
-import { GameStateSchema } from "@akasha/awen-core/state-schema"
+import { type GameDisplayModules } from "@akasha/story-engine-core/game-schema"
+import { GameStateSchema } from "@akasha/story-engine-core/state-schema"
 import type { StoryLedger } from "./session-envelope"
 
 export const STORY_MODULES: GameDisplayModules = {

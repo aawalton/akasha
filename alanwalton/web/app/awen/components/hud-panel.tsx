@@ -1,4 +1,4 @@
-import type { PoolBarColor, PoolPresentation } from "@akasha/awen-core/game-schema"
+import type { PoolBarColor, PoolPresentation } from "@akasha/story-engine-core/game-schema"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { ClientHud } from "../lib/client-session"
