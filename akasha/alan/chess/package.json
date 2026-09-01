@@ -9,11 +9,18 @@
     "./chess-maia": "./core/chess-maia/chess-maia.module.code.ts",
     "./chess-game": "./core/chess-game/chess-game.module.code.ts",
     "./chess-game-loop": "./core/chess-game-loop/chess-game-loop.module.code.ts",
-    "./chess-game-record": "./core/chess-game-record/chess-game-record.module.code.ts"
+    "./chess-game-record": "./core/chess-game-record/chess-game-record.module.code.ts",
+    "./chess-board": "./board/chess-board.module.code.tsx"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
+    "@akasha/pages-ui": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
+    "chess.js": "^1.4.0",
+    "chessground": "^9.2.1",
     "zod": "^4.3.6"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
   }
 }

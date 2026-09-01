@@ -1,6 +1,6 @@
 "use client"
 import { useEffect, useRef } from "react"
-import type { ChessMoveListEntry } from "../chess-state/chess-state.module.code.ts"
+import type { ChessMoveListEntry } from "../state/chess-state.module.code.ts"
 
 export interface ChessMoveListProps {
   readonly moves: readonly ChessMoveListEntry[]

@@ -14,5 +14,11 @@ export const chess = {
     "module/chess-game",
     "module/chess-game-loop",
     "module/chess-game-record",
+    "module/chess-board",
+    "module/chess-eval",
+    "module/chess-eval-bar",
+    "module/chess-move-list",
+    "module/chess-state",
+    "stylesheet/chess-board-look",
   ],
 } as const satisfies WorkspacePackage
