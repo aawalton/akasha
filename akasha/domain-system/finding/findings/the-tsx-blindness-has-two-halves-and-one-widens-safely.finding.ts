@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theTsxBlindnessHasTwoHalvesAndOneWidensSafely = {
+  id: "01a05c2e-d607-74aa-97e1-6235948c8226",
+  pageTypeSlug: "finding",
+  slug: "the-tsx-blindness-has-two-halves-and-one-widens-safely",
+  domainSlug: "domain/akasha-check",
+  claim:
+    "manifest-names-what-is-reached passes over .tsx at two separate places, and they are not one change. Widening only the place feeding the named-but-unreached half is monotonically relaxing: it refuses strictly less, and it cannot refuse readout-system, because the reached-but-unnamed half is guarded by the other place and gains nothing from it. So the 16 dependencies three landed design packages leave unnamed could all be named without any package being refused anything new.",
+  evidence:
+    "holdingBy skips any path not ending in .ts, and refusalsIn's overEachFile skips the same way; those are the only two readings of TS_ENDING. unnamedIn is reached only inside the branch the second guards, so widening the first leaves it untouched and no reached-but-unnamed refusal can appear. unreachedIn refuses a dependency creditedIn does not credit, and creditedIn credits on reach.packages.has(dep) where reach is wholeOf; widening holdingBy makes wholeOf answer a superset, which can only credit more, so unreachedIn answers a subset. Nothing in the check's own invariants states the .ts-only reading: the departure at manifest-names-what-is-reached.code-check.ts:79 says the files a package holds are the ones the index names as the change leaves them, naming no extension, and the only absence passing a file over is one standing under no package. Meanwhile code.file-property.ts declares Code as 'ts' or 'tsx' and states that code drawing something for a browser is written in TSX, so the filter is undocumented implementation rather than a stated rule. What it costs today: design-badges names no dependency while reaching class-variance-authority, lucide-react, @radix-ui/react-slot, react and zod; design-forms omits seven; design-layout omits react-dom, @radix-ui/react-collapsible, @tanstack/react-virtual and class-variance-authority. Widening holdingBy alone lets all 16 be named, while the other half stays shut, so readout-system, whose readout-ring.module.code.tsx reaches react while its manifest names only zod, is still not refused. Alan Approves Checks reserves what a check refuses, and refusing less is still a change to it, so this is filed rather than made.",
+} as const satisfies Finding
