@@ -1,9 +1,8 @@
-import { readFileSync } from "node:fs"
-import { join } from "node:path"
+import { relative } from "node:path"
 import { NAMESPACE_NAMES } from "@infra/k8s/app-namespaces/synth"
-import { DISCOVERY_GLOBS } from "@infra/k8s-synth/manifests"
+import { discoverSynthFiles, loadSynthOutputs } from "@infra/k8s-synth/manifests"
+import { parseAllDocuments } from "yaml"
 import { akashaRoot } from "../../../repo/roots/roots.ts"
-import { extractSynthManifests } from "../graph/producers/k8s/synth-extract.ts"
 import { AUDITED_KINDS, type LiveResource, listLive } from "./cluster.ts"
 
 export const MANAGED_BY_A_DEPLOY: ReadonlySet<string> = new Set(["deploy-script", "bootstrap"])
@@ -16,19 +15,45 @@ export function resourceKey(kind: string, namespace: string, name: string): stri
   return `${kind}/${namespace}/${name}`
 }
 
-export function sourceKeys(root: string, globs: readonly string[]): ReadonlySet<string> {
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === "object" && value !== null
+}
+
+export function keyOfManifest(body: unknown): string | null {
+  if (!isRecord(body)) return null
+  const kind = body.kind
+  if (typeof kind !== "string") return null
+  if (!AUDITED_KIND_NAMES.has(kind)) return null
+  const metadata = isRecord(body.metadata) ? body.metadata : null
+  if (metadata === null) return null
+  const name = metadata.name
+  const namespace = metadata.namespace
+  if (typeof name !== "string" || typeof namespace !== "string") return null
+  return resourceKey(kind, namespace, name)
+}
+
+export async function sourceKeys(root: string): Promise<ReadonlySet<string>> {
+  const synthPaths = discoverSynthFiles(root)
+  if (synthPaths.length === 0) {
+    throw new Error(
+      `no synth source stands under ${root}, so every live resource would read as an orphan`
+    )
+  }
   const keys = new Set<string>()
-  const read = new Set<string>()
-  for (const glob of globs) {
-    for (const relPath of new Bun.Glob(glob).scanSync({ cwd: root, onlyFiles: true })) {
-      if (relPath.split("/").includes("src")) continue
-      if (read.has(relPath)) continue
-      read.add(relPath)
-      const text = readFileSync(join(root, relPath), "utf8")
-      for (const manifest of extractSynthManifests(relPath, text)) {
-        if (!AUDITED_KIND_NAMES.has(manifest.kind)) continue
-        if (manifest.namespace === null) continue
-        keys.add(resourceKey(manifest.kind, manifest.namespace, manifest.name))
+  for (const synthPath of synthPaths) {
+    let entries: readonly { readonly name: string; readonly yaml: string }[]
+    try {
+      entries = await loadSynthOutputs(synthPath)
+    } catch (err) {
+      throw new Error(
+        `${relative(root, synthPath)} would not synthesise, so what it deploys cannot be told ` +
+          `apart from an orphan: ${err instanceof Error ? err.message : String(err)}`
+      )
+    }
+    for (const entry of entries) {
+      for (const document of parseAllDocuments(entry.yaml)) {
+        const key = keyOfManifest(document.toJS())
+        if (key !== null) keys.add(key)
       }
     }
   }
@@ -55,7 +80,7 @@ export interface Sweep {
 }
 
 export async function sweepOrphanedResources(deadlineMs: number): Promise<Sweep> {
-  const keys = sourceKeys(akashaRoot(), DISCOVERY_GLOBS)
+  const keys = await sourceKeys(akashaRoot())
   const namespaces: readonly string[] = NAMESPACE_NAMES
   const live: LiveResource[] = []
   for (const namespace of namespaces) {
