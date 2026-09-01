@@ -9,11 +9,6 @@ export const amyJennyUnreviewedWidget = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "The page store refuses a reading test it cannot run rather than ignoring it.",
-      workingMemory:
-        "Proved live: where slug is finding answers one row; where slug startsWith fin answers all 66, silently. The store runs is, in, has and empty and drops every other key without a word, so a reading asking for today's rows answers with every row ever filed and reads as success. Nine tests became four; callers spell at-or-after, before, contains, ends-with and not-in. The client refuses what it cannot name, so the hole is the store's. See a-where-test-the-page-store-does-not-know-is-ignored.",
-    },
-    {
       statement:
         "A file writing a page through the page store lands the write rather than refusing.",
       workingMemory:
