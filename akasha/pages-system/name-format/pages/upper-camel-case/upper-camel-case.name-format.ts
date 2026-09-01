@@ -1,4 +1,4 @@
-import type { NameFormat } from "../name-format.page-type.ts"
+import type { NameFormat } from "../../name-format.page-type.ts"
 
 export const upperCamelCase = {
   id: "01a04eba-7459-7eca-8601-1a20dbb5a53c",

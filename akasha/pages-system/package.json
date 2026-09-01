@@ -20,7 +20,7 @@
     "./name-format/lower-kebab-case": "./name-format/pages/lower-kebab-case/lower-kebab-case.name-format.ts",
     "./name-format/lower-uuid": "./name-format/pages/lower-uuid/lower-uuid.name-format.code.ts",
     "./name-format/name-matching": "./name-format/modules/name-matching/name-matching.module.code.ts",
-    "./name-format/upper-camel-case": "./name-format/upper-camel-case/upper-camel-case.name-format.code.ts",
+    "./name-format/upper-camel-case": "./name-format/pages/upper-camel-case/upper-camel-case.name-format.code.ts",
     "./name-format/upper-snake-case": "./name-format/upper-snake-case/upper-snake-case.name-format.code.ts",
     "./name-format/upper-uuid": "./name-format/upper-uuid/upper-uuid.name-format.code.ts",
     "./name-place/component-identifier": "./name-places/pages/component-identifier.name-place.ts",
