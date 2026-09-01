@@ -26,7 +26,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "`pages-ui` stands in akasha.",
       workingMemory:
-        "`@akasha/pages-ui` stands with four modules and the old folder is down from 296 files to 291. It is one package rather than several: components and supabase are mutually dependent, and the 58 subpaths consumers reach cut across one core. The cost is not the module pages but what a file is rewritten to satisfy: 116 of 286 carry a `void` return, 360 in all, and every `.tsx` rendering a component by name meets the lower-camel rule. 98 files import nothing else inside it and go first.",
+        "`@akasha/pages-ui` stands at `akasha/pages-system/pages-ui`: 108 files in 13 module folders, reached by 132. `shared/pages-ui` is down to 237 (115 `.ts`, 117 `.tsx`), 95 files outside reaching it over 37 specifiers; `app/routes` names both. One package: components and supabase are mutually dependent. The void wall is down, 0 `: void` returns left and the 345 `=> void` callback props in 110 files admitted since `52ff117235`. 81 of the 232 `src` files import nothing else inside.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
