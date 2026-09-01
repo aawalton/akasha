@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Both sites run 03a3026ade. The eight stoplight endpoints answer an empty list, so no HTTP path reaches readoutCatalog, which parsed frontmatter across 71k files once per request; all ten routes answer 401 rather than faulting. module/stoplight-reading is gone with its part and its export. What still calls the catalog is off the request path: two workstation timers, the widget Swift emitter, the editor bar. Deleting it outright would take Alan points ledger down, so that waits on him.",
+        "Both sites run a3741f07d0. The eight stoplight endpoints refuse 503 No reading rather than answering an empty list, which the Swift decodes as corrupt; no HTTP path reaches readoutCatalog now and module/stoplight-reading is gone. Widget payload checked by hand against the Swift: unreviewed, scale yellowAt/orangeAt/redAt/blackAt, noneLeft words and emoji all line up, and the relay carries 9. Deleting readoutCatalog is blocked on a model mismatch, filed as a finding.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
