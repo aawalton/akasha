@@ -182,6 +182,9 @@
     "akasha/domain-system": {
       "name": "@akasha/domain-system",
     },
+    "akasha/email-inbound": {
+      "name": "@akasha/email-inbound",
+    },
     "akasha/file-system": {
       "name": "@akasha/file-system",
     },
@@ -3991,6 +3994,8 @@
     "@akasha/design-layout": ["@akasha/design-layout@workspace:akasha/design/design-layout"],
 
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
+
+    "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
 
     "@akasha/file-system": ["@akasha/file-system@workspace:akasha/file-system"],
 
