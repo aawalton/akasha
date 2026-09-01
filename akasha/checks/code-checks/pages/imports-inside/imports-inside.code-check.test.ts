@@ -1,7 +1,12 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import type { Naming } from "@akasha/code-system/code-specifier"
-import { bodiesIn } from "@akasha/testing-system/bodying"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { noPathsFiled } from "@akasha/indexes/testing"
+import { shadowFor } from "@akasha/pages-system/shadow"
+import { bodiesIn, bytesOf } from "@akasha/testing-system/bodying"
+import { declaring, landing } from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import {
+  importsInside,
   reachedBy,
   reasonsIn,
   reasonsWith,
@@ -183,4 +188,64 @@ test("a root manifest naming no workspaces, or none at all, names nothing", () =
   expect(workspacesIn('{"name":"held"}')).toEqual([])
   expect(workspacesIn("not json at all")).toEqual([])
   expect(workspacesIn(null)).toEqual([])
+})
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const PAGE = "akasha/held/held.workspace-package.ts"
+
+const AT = "akasha/held/package.json"
+
+const USER = "akasha/held/use.ts"
+
+const STATED = [
+  "export const held = {",
+  '  id: "01a04b5e-39e5-7fa4-be61-f3fa8d7d1703",',
+  '  pageTypeSlug: "workspace-package",',
+  '  slug: "held",',
+  '  manifest: "json",',
+  "}",
+  "",
+].join("\n")
+
+function manifested(): string {
+  const root = scratch.rootFor("akasha-imports-inside-")
+  noPathsFiled(root)
+  declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
+  declaring(root, "slug", { pageTypeSlug: "text-property", unique: "page-type" })
+  declaring(root, "manifest", {
+    pageTypeSlug: "named-file-property",
+    unique: null,
+    fileName: "package.json",
+  })
+  return root
+}
+
+test("a manifest the change carries names where a package lands, though the tree has none", () => {
+  const root = manifested()
+  const over = landing(root, {
+    [PAGE]: bytesOf(STATED),
+    [AT]: bytesOf('{"name":"@akasha/held","exports":{".":"../../shared/outside.ts"}}\n'),
+    [USER]: bytesOf('import { one } from "@akasha/held"\n'),
+  })
+  const cast = shadowFor(over)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const said = importsInside(over, cast.shadow)
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(USER)
+  expect(said[0]?.reason).toContain("`shared/outside.ts`")
+})
+
+test("a manifest the change leaves naming nothing outside lets its importer through", () => {
+  const root = manifested()
+  const over = landing(root, {
+    [PAGE]: bytesOf(STATED),
+    [AT]: bytesOf('{"name":"@akasha/held","exports":{".":"./held.module.code.ts"}}\n'),
+    [USER]: bytesOf('import { one } from "@akasha/held"\n'),
+  })
+  const cast = shadowFor(over)
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(importsInside(over, cast.shadow)).toEqual([])
 })

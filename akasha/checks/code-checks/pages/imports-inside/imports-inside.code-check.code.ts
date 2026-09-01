@@ -4,13 +4,16 @@ import {
   type Naming,
   specifiersIn,
 } from "@akasha/code-system/code-specifier"
-import { bodiesAt, reachingIn } from "@akasha/indexes/package-reaching"
+import { reachingIn } from "@akasha/indexes/package-reaching"
+import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
   type Body,
-  judgingEach,
+  input,
+  overEachFile,
   overEachText,
   TEXTS,
+  textIn,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 const AKASHA = "akasha"
@@ -71,10 +74,10 @@ export function workspacesIn(text: string | null): readonly string[] {
   return found
 }
 
-export function namingFor(root: string, shadow: Shadow): Naming {
+export function namingFor(change: Change, shadow: Shadow): Naming {
   const found = HELD.get(shadow)
   if (found !== undefined) return found
-  const bodyAt = bodiesAt(root)
+  const bodyAt = (path: string): string | null => textIn(change, path)
   const named = [...shadow.index.everyPath(), ...workspacesIn(bodyAt(MANIFEST))]
   const made = reachingIn(named, shadow.index.filePropertiesAt(), bodyAt)
   HELD.set(shadow, made)
@@ -87,6 +90,6 @@ export function reasonsWith(naming: Naming): (given: Body) => readonly string[] 
 
 export const reasonsIn = reasonsWith(NAMING_NONE)
 
-export const importsInside = judgingEach(TEXTS, (given, shadow) =>
-  foundIn(given.path, given.text, namingFor(given.root, shadow))
+export const importsInside = input(TEXTS, (change, shadow) =>
+  overEachFile(change, reasonsWith(namingFor(change, shadow)))
 )
