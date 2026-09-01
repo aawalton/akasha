@@ -126,9 +126,9 @@
                 "paths": {
                   "react": "react is not allowed in @shared/pages-core",
                   "react-dom": "react-dom is not allowed in @shared/pages-core",
-                  "@shared/design-layout": "@shared/design-layout is not allowed in @shared/pages-core",
+                  "@akasha/design-layout": "@akasha/design-layout is not allowed in @shared/pages-core",
                   "@shared/design-primitives": "@shared/design-primitives is not allowed in @shared/pages-core",
-                  "@shared/design-forms": "@shared/design-forms is not allowed in @shared/pages-core",
+                  "@akasha/design-forms": "@akasha/design-forms is not allowed in @shared/pages-core",
                   "@shared/pages-ui": "@shared/pages-ui is not allowed in @shared/pages-core"
                 }
               }

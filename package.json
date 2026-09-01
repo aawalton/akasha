@@ -47,7 +47,7 @@
     "alanwalton/health-samples-access",
     "alanwalton/location-traces-access",
     "alanwalton/personas-core",
-    "alanwalton/sms-access",
+    "akasha/sms-access",
     "alanwalton/sms-core",
     "alanwalton/web",
     "archive-of-worlds/web",

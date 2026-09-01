@@ -14,14 +14,6 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "shared/design-forms": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
     "shared/design-layout": {
       "entry": [
         "**/*.test.{ts,tsx}"
