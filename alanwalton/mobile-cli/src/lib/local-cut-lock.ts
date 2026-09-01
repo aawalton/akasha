@@ -1,6 +1,6 @@
 import { closeSync, openSync, readFileSync, unlinkSync, writeSync } from "node:fs"
 import { OperationalError } from "@shared/errors-core/exit"
-import { expandTilde } from "@shared/utils-fs/expand-tilde"
+import { expandTilde } from "@akasha/utils-fs/expand-tilde"
 import { pidAliveOrAssumeDead } from "@shared/utils-process/pid-signal"
 import { z } from "zod"
 

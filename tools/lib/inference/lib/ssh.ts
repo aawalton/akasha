@@ -1,6 +1,6 @@
 import { spawn } from "node:child_process"
 import { OperationalError } from "@shared/errors-core/exit"
-import { expandTilde } from "@shared/utils-fs/expand-tilde"
+import { expandTilde } from "@akasha/utils-fs/expand-tilde"
 
 export interface SshTarget {
   readonly user: string

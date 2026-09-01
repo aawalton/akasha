@@ -3,7 +3,7 @@ import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { OperationalError } from "@shared/errors-core/exit"
-import { expandTilde } from "@shared/utils-fs/expand-tilde"
+import { expandTilde } from "@akasha/utils-fs/expand-tilde"
 import {
   remoteRunScriptCommand,
   remoteScriptPath,

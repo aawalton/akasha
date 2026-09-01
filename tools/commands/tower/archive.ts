@@ -6,7 +6,7 @@ import { parseTowerState, parseTrimDoc, type TrimDoc } from "@akasha/tower-core/
 import { planArchive } from "@akasha/tower/plan-archive"
 import { renderChapter } from "@akasha/tower/render-chapter"
 import { loadIllustrations, resolveHeroSrc } from "@akasha/tower/resolve-hero"
-import { writeFileAtomic } from "@shared/utils-fs/atomic-write"
+import { writeFileAtomic } from "@akasha/utils-fs/atomic-write"
 import { z } from "zod"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, operationalError } from "../../lib/exit.ts"

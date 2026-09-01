@@ -1,6 +1,6 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { writeFileAtomicSync } from "@shared/utils-fs/atomic-write"
+import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 import type { WorkflowSurface } from "./surface"
 
 export const DEFAULT_CACHE_DIR = "/ci-storage/workflow-surface"

@@ -8,6 +8,7 @@
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/imessage": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/utils-fs": "workspace:*",
         "@alanwalton/mobile-cli": "workspace:*",
         "@collections/exercises": "workspace:*",
         "@collections/music": "workspace:*",
@@ -44,7 +45,6 @@
         "@shared/supabase-server": "workspace:*",
         "@shared/triggers-proc": "workspace:*",
         "@shared/triggers-proc-compiler": "workspace:*",
-        "@shared/utils-fs": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@shared/utils-process": "workspace:*",
         "@shared/utils-sync": "workspace:*",
@@ -503,6 +503,9 @@
     "akasha/tower-engine": {
       "name": "@akasha/tower-engine",
     },
+    "akasha/utils-fs": {
+      "name": "@akasha/utils-fs",
+    },
     "akasha/voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
@@ -567,9 +570,9 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/code-system": "workspace:*",
+        "@akasha/utils-fs": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
-        "@shared/utils-fs": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@shared/utils-process": "workspace:*",
         "zod": "^4.3.6",
@@ -3227,12 +3230,12 @@
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "@akasha/utils-fs": "workspace:*",
         "@shared/day": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/supabase-client": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@shared/supabase-server": "workspace:*",
-        "@shared/utils-fs": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@temper/catalog-core": "workspace:*",
         "@temper/game-characters-champion-points": "workspace:*",
@@ -4079,6 +4082,8 @@
     "@akasha/tower-core": ["@akasha/tower-core@workspace:akasha/tower-core"],
 
     "@akasha/tower-engine": ["@akasha/tower-engine@workspace:akasha/tower-engine"],
+
+    "@akasha/utils-fs": ["@akasha/utils-fs@workspace:akasha/utils-fs"],
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
 
