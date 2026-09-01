@@ -73,6 +73,10 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "Where a declaration's name starts is answered as a line counted from one.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name shadowing an imported one inside a scope is left as it stands.",
     },
     {

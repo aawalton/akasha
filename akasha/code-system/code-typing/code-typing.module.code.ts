@@ -180,6 +180,20 @@ export function declaredNamed(typing: Typing, path: string, name: string): reado
   return found
 }
 
+function declaredAs(node: ts.Node): ts.Node | null {
+  if (ts.isFunctionDeclaration(node)) return node.name ?? null
+  if (ts.isTypeAliasDeclaration(node) || ts.isInterfaceDeclaration(node)) return node.name
+  if (ts.isVariableDeclaration(node) || ts.isPropertySignature(node)) return node.name
+  return null
+}
+
+export function declaredOn(typing: Typing, path: string, node: ts.Node): number | null {
+  const source = typing.sourceAt(path)
+  if (source === null) return null
+  const named = declaredAs(node) ?? node
+  return source.getLineAndCharacterOfPosition(named.getStart(source)).line + 1
+}
+
 export function namingOf(
   typing: Typing,
   root: string,
