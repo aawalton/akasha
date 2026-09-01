@@ -65,7 +65,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "`Promise<void>` stands above all other cases.",
+      statement: "`Promise<void>` is the case that stands most often.",
     },
     {
       invariantKind: "departure",
