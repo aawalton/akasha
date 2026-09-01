@@ -1,4 +1,4 @@
-import { InputError } from "@shared/errors-core/exit"
+import { InputError } from "@akasha/errors-core/exit-code"
 import { runEngine } from "../chess-engine/chess-engine.module.code.ts"
 import {
   fenSideToMove,

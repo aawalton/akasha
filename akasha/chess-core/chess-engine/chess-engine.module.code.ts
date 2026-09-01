@@ -1,4 +1,4 @@
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import { z } from "zod"
 
 const BIN_SCHEMA = z.string().min(1).optional()

@@ -12,7 +12,7 @@
     "./chess-game-record": "./chess-game-record/chess-game-record.module.code.ts"
   },
   "dependencies": {
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
