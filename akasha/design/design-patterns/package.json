@@ -3,24 +3,47 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./add-filter-button": "./add-filter-button/add-filter-button.module.code.tsx",
+    "./add-sort-button": "./add-sort-button/add-sort-button.module.code.tsx",
+    "./auth-page-content": "./auth-page-content/auth-page-content.module.code.tsx",
     "./back-button": "./back-button/back-button.module.code.tsx",
     "./build-values-from-fields": "./build-values-from-fields/build-values-from-fields.module.code.ts",
     "./button-group": "./button-group/button-group.module.code.tsx",
+    "./card-actions-menu": "./card-actions-menu/card-actions-menu.module.code.tsx",
     "./chip": "./chip/chip.module.code.tsx",
     "./chip-list": "./chip-list/chip-list.module.code.tsx",
+    "./collapsible-group-section": "./collapsible-group-section/collapsible-group-section.module.code.tsx",
     "./empty": "./empty/empty.module.code.tsx",
+    "./filter-button": "./filter-button/filter-button.module.code.tsx",
+    "./filter-group": "./filter-group/filter-group.module.code.tsx",
+    "./group-button": "./group-button/group-button.module.code.tsx",
     "./group-utils": "./group-utils/group-utils.module.code.ts",
+    "./icon-picker": "./icon-picker/icon-picker.module.code.tsx",
     "./input-panel-card": "./input-panel-card/input-panel-card.module.code.tsx",
     "./item": "./item/item.module.code.tsx",
+    "./item-card": "./item-card/item-card.module.code.tsx",
+    "./item-row": "./item-row/item-row.module.code.tsx",
     "./kbd": "./kbd/kbd.module.code.tsx",
     "./log-viewer": "./log-viewer/log-viewer.module.code.tsx",
     "./lucide-icon": "./lucide-icon/lucide-icon.module.code.tsx",
     "./path": "./path/path.module.code.ts",
+    "./responsive-overlay": "./responsive-overlay/responsive-overlay.module.code.tsx",
+    "./search-button": "./search-button/search-button.module.code.tsx",
+    "./search-sort-filter-row": "./search-sort-filter-row/search-sort-filter-row.module.code.tsx",
+    "./sort-button": "./sort-button/sort-button.module.code.tsx",
+    "./sort-group": "./sort-group/sort-group.module.code.tsx",
     "./sort-group-helpers": "./sort-group-helpers/sort-group-helpers.module.code.ts",
     "./sort-types": "./sort-types/sort-types.module.code.ts",
-    "./use-scroll-restoration": "./use-scroll-restoration/use-scroll-restoration.module.code.ts"
+    "./stat-row": "./stat-row/stat-row.module.code.tsx",
+    "./tabs": "./tabs/tabs.module.code.tsx",
+    "./use-collapsed-groups": "./use-collapsed-groups/use-collapsed-groups.module.code.ts",
+    "./use-filter-persistence": "./use-filter-persistence/use-filter-persistence.module.code.ts",
+    "./use-scroll-restoration": "./use-scroll-restoration/use-scroll-restoration.module.code.ts",
+    "./use-set-toggle": "./use-set-toggle/use-set-toggle.module.code.ts"
   },
   "dependencies": {
+    "@akasha/design-badges": "workspace:*",
+    "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/pages-core": "workspace:*",
@@ -30,7 +53,11 @@
     "zod": "^4.3.6"
   },
   "peerDependencies": {
-    "react": "^18 || ^19",
-    "@radix-ui/react-slot": "*"
+    "@dnd-kit/core": ">=6",
+    "@dnd-kit/modifiers": ">=7",
+    "@dnd-kit/sortable": ">=8",
+    "@radix-ui/react-slot": "*",
+    "@radix-ui/react-tabs": "*",
+    "react": "^18 || ^19"
   }
 }
