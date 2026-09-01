@@ -37,11 +37,11 @@ export function declaringOf(given: string | Reading, id: string): readonly Decla
   const reading = readingIn(given)
   const found: Declaring[] = []
   for (const said of idsNaming(reading, id, DECLARES)) {
-    const standing = listedById(reading, said)
-    if (standing === null) continue
-    const named = namedIn(standing.path)
+    const listed = listedById(reading, said)
+    if (listed === null) continue
+    const named = namedIn(listed.path)
     if (named === null) continue
-    found.push({ slug: named.stem, kind: named.tail, id: said, path: standing.path })
+    found.push({ slug: named.stem, kind: named.tail, id: said, path: listed.path })
   }
   return found
 }
