@@ -287,8 +287,8 @@ export function subagentPathOf(root: string, agentId: string): string | null {
   if (seat === null) return null
   const said = namedIn(seat)
   if (said === null) return null
-  const standing = listedAt(root, SUBAGENT, slugOf(said.stem, own))[0]
-  return standing === undefined ? null : standing.path
+  const listed = listedAt(root, SUBAGENT, slugOf(said.stem, own))[0]
+  return listed === undefined ? null : listed.path
 }
 
 export function agentPathOf(root: string, agentId: string): string | null {
