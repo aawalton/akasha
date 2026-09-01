@@ -1,7 +1,7 @@
 import { dirname } from "node:path"
 import {
   indexStanding,
-  standingAt,
+  listedAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { besideAt } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import {
@@ -44,7 +44,7 @@ function listAt(value: Value, key: string): readonly string[] {
 
 function pathOf(root: string, typeSlug: string, slug: string): string | null {
   if (!indexStanding(root)) return null
-  const standing = standingAt(root, typeSlug, slug)
+  const standing = listedAt(root, typeSlug, slug)
   return standing.length === 1 ? (standing[0]?.path ?? null) : null
 }
 

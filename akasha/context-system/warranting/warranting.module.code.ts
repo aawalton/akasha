@@ -9,8 +9,8 @@ import {
 } from "../../command-system/reading/reading.module.code.ts"
 import {
   everyOfType,
+  listedAt,
   slugsOfType,
-  standingAt,
   standingById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -300,7 +300,7 @@ export function subagentPathOf(root: string, agentId: string): string | null {
   if (seat === null) return null
   const said = namedIn(seat)
   if (said === null) return null
-  const standing = standingAt(root, SUBAGENT, slugOf(said.stem, own))[0]
+  const standing = listedAt(root, SUBAGENT, slugOf(said.stem, own))[0]
   return standing === undefined ? null : standing.path
 }
 

@@ -11,8 +11,8 @@ import {
 import { pageTypesIn } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   everyPath,
+  listedAt,
   schemaOf,
-  standingAt,
 } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import {
@@ -59,7 +59,7 @@ export function keyingFor(given: string | Reading, from: string, to: string): As
       refused: `\`${from}\` already carries the key \`${to}\`, so there is nothing to rename`,
     }
   }
-  const standing = standingAt(given, pageTypeSlug, slug)[0]
+  const standing = listedAt(given, pageTypeSlug, slug)[0]
   if (standing === undefined) {
     return { refused: `no page property stands at \`${pageTypeSlug}/${slug}\`` }
   }

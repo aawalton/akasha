@@ -1,8 +1,8 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import {
+  listedAt,
   schemaOf,
-  standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
@@ -33,7 +33,7 @@ export function fileProperty(root: string, path: string, knowing: Knowing): read
   for (const slug of statedIn(root, path, said.stem)) {
     const filed = schemaOf(root, slug)
     if ("refused" in filed) continue
-    const standing = standingAt(root, filed.schema.pageTypeSlug, slug)[0]
+    const standing = listedAt(root, filed.schema.pageTypeSlug, slug)[0]
     if (standing === undefined || standing.path === path) continue
     const oid = blobAt(root, standing.path)
     if (oid === null) continue

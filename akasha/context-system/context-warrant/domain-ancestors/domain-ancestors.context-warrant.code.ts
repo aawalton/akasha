@@ -1,8 +1,8 @@
 import {
   idsNaming,
   type Listed,
+  listedAt,
   standingAddressed,
-  standingAt,
   standingById,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
@@ -33,8 +33,8 @@ function answeredFor(root: string, path: string): Listed | undefined {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return undefined
   const stated = typeStated(root, path, KEY) ?? DOMAIN_TYPE
-  if (stated !== INITIATIVE_TYPE) return standingAt(root, stated, slug)[0]
-  const held = standingAt(root, INITIATIVE_TYPE, slug)[0]
+  if (stated !== INITIATIVE_TYPE) return listedAt(root, stated, slug)[0]
+  const held = listedAt(root, INITIATIVE_TYPE, slug)[0]
   return held === undefined ? undefined : domainOf(root, held.path)
 }
 

@@ -2,9 +2,9 @@ import { namedIn } from "../../page/page-file-name/page-file-name.module.code.ts
 import {
   everyOfType,
   idsNaming,
+  listedAt,
   readingIn,
   schemaOf,
-  standingAt,
   standingById,
 } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
@@ -81,7 +81,7 @@ export function carryingOf(given: string | Reading, named: string): Carried {
   if ("refused" in filed) return { refused: filed.refused }
   const slug = filed.schema.slug
   if (slug === null) return { refused: carriesNo(named) }
-  const standing = standingAt(reading, filed.schema.pageTypeSlug, slug)[0]
+  const standing = listedAt(reading, filed.schema.pageTypeSlug, slug)[0]
   if (standing === undefined) return { refused: carriesNo(named) }
 
   const found: Carrying[] = []

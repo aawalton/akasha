@@ -3,7 +3,7 @@ import { literalOf, parsedAs } from "../../../../code-system/code-source/code-so
 import {
   everyOfType,
   everyPath,
-  standingAt,
+  listedAt,
 } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
@@ -37,7 +37,7 @@ export function kebabOff(said: string, named: string): string | null {
 }
 
 export function renamingFor(
-  given: Parameters<typeof standingAt>[0],
+  given: Parameters<typeof listedAt>[0],
   from: string,
   to: string,
   plural: string,
@@ -61,7 +61,7 @@ export function renamingFor(
   if (from === to) {
     return { refused: `\`${from}\` is already what it would become, so there is nothing to rename` }
   }
-  const standing = standingAt(given, PAGE_TYPE, from)
+  const standing = listedAt(given, PAGE_TYPE, from)
   const one = standing[0]
   if (one === undefined) return { refused: `no page type carries the slug \`${from}\`` }
   if (standing.length > 1) {
@@ -69,7 +69,7 @@ export function renamingFor(
       refused: `\`${from}\` is carried by ${standing.length} page types, so this names more than one`,
     }
   }
-  if (standingAt(given, PAGE_TYPE, to).length > 0) {
+  if (listedAt(given, PAGE_TYPE, to).length > 0) {
     return { refused: `a page type already carries the slug \`${to}\`` }
   }
   const text = textOf(one.path)

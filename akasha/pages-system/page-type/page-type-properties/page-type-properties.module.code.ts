@@ -1,8 +1,8 @@
 import type { Identifier } from "../../indexes/index-entries/index-entries.module.code.ts"
 import {
+  listedAt,
   type Schema,
   schemaOf,
-  standingAt,
 } from "../../indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../indexes/index-shape/index-shape.module.code.ts"
 import { addressIn, slugIn } from "../../page/page-address/page-address.module.code.ts"
@@ -54,7 +54,7 @@ export function pageAt(
   slug: string,
   pageOf: (path: string) => Value | null
 ): Value | null {
-  const standing = standingAt(given, pageTypeSlug, slug)
+  const standing = listedAt(given, pageTypeSlug, slug)
   const one = standing.length === 1 ? standing[0] : undefined
   return one === undefined ? null : pageOf(one.path)
 }

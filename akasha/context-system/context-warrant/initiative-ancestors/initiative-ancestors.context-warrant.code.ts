@@ -1,7 +1,7 @@
 import {
   type Listed,
+  listedAt,
   standingAddressed,
-  standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { slugStated, typeStated } from "../../agent-stated/agent-stated.module.code.ts"
@@ -26,7 +26,7 @@ function aboveOf(root: string, standing: Listed): Listed | undefined {
 export function initiativeAncestors(root: string, path: string): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null || typeStated(root, path, KEY) !== INITIATIVE_TYPE) return []
-  const standing = standingAt(root, INITIATIVE_TYPE, slug)[0]
+  const standing = listedAt(root, INITIATIVE_TYPE, slug)[0]
   if (standing === undefined) return []
   const found: Warrant[] = []
   const walked = new Set<string>([standing.id])

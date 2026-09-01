@@ -121,7 +121,7 @@ export function listedNamed(
   )
 }
 
-export function standingAt(
+export function listedAt(
   given: string | Reading,
   pageTypeSlug: string,
   slug: string
@@ -146,7 +146,7 @@ export function standingAddressed(
   const address = addressIn(named)
   if (address.kind === "id") return standingById(given, address.id)
   const under = address.kind === "qualified" ? address.pageTypeSlug : unqualified
-  return standingAt(given, under, address.slug)[0] ?? null
+  return listedAt(given, under, address.slug)[0] ?? null
 }
 
 export function standingByPath(given: string | Reading, path: string): readonly Listed[] {

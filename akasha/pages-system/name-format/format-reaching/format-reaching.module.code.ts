@@ -1,6 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { standingAt } from "../../indexes/index-reading/index-reading.module.code.ts"
+import { listedAt } from "../../indexes/index-reading/index-reading.module.code.ts"
 import { slugIn } from "../../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../page/page-file-name/page-file-name.module.code.ts"
@@ -30,7 +30,7 @@ export function matchingIn(
         `\`${nameFormatSlug}\` names a name format by id, and a format is reached here by slug`
       )
     }
-    const one = standingAt(root, NAME_FORMAT, slug)[0]
+    const one = listedAt(root, NAME_FORMAT, slug)[0]
     if (one === undefined) {
       throw new Error(
         `no name format carries the slug \`${slug}\`, so nothing can judge a value said to be written in it`

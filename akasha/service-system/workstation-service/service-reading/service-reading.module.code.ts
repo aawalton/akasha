@@ -1,6 +1,6 @@
 import {
   everyOfType,
-  standingAt,
+  listedAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   textAt,
@@ -75,7 +75,7 @@ function standingOf(root: string, path: string): Standing | string {
 }
 
 export function standingFor(root: string, slug: string): Read {
-  const found = standingAt(root, SERVICE_PAGE_TYPE, slug)
+  const found = listedAt(root, SERVICE_PAGE_TYPE, slug)
   const one = found[0]
   if (one === undefined) return { refused: `no ${SERVICE_PAGE_TYPE} is slugged \`${slug}\`` }
   const read = standingOf(root, one.path)

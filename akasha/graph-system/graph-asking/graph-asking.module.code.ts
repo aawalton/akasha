@@ -2,10 +2,10 @@ import {
   everyOfType,
   importersOf,
   type Listed,
+  listedAt,
   type Named,
   namersOf,
   readingIn,
-  standingAt,
   standingByPath,
   typeSlugById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -71,7 +71,7 @@ function textFor(held: Value, key: string, path: string, asked: string): string 
 }
 
 function standingFor(reading: Reading, pageTypeSlug: string, slug: string, asked: string): Listed {
-  const found = standingAt(reading, pageTypeSlug, slug)[0]
+  const found = listedAt(reading, pageTypeSlug, slug)[0]
   if (found === undefined) {
     throw new Error(
       `no \`${pageTypeSlug}\` page is slugged \`${slug}\`, so ${asked} could not be answered`

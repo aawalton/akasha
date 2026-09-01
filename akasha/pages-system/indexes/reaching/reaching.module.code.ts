@@ -11,7 +11,7 @@ import { schemaAt } from "../index-entries/index-entries.module.code.ts"
 import {
   everyOfType,
   type Listed,
-  standingAt,
+  listedAt,
   standingById,
 } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
@@ -121,7 +121,7 @@ export function knownIn(
   return {
     targetOf,
     admitting,
-    at: (pageTypeSlug, slug) => standingAt(reading, pageTypeSlug, slug),
+    at: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
     byId: (id) => standingById(reading, id),
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
     slugOfKeyIn: (value, key) => {

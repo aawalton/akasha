@@ -4,8 +4,8 @@ import { join, resolve } from "node:path"
 import {
   indexNamed,
   indexStanding,
+  listedAt,
   slugsOfType,
-  standingAt,
   typeSlugById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -105,7 +105,7 @@ function widest(said: readonly string[]): number {
 
 function pageAt(root: string, slug: string): string | null {
   const said = commandSlugIn(root)
-  const standing = said === null ? [] : standingAt(root, said, slug)
+  const standing = said === null ? [] : listedAt(root, said, slug)
   if (standing.length === 1) return standing[0]?.path ?? null
   return slug === ROOTED && existsSync(join(root, ROOTED_AT)) ? ROOTED_AT : null
 }
@@ -267,7 +267,7 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
     return carried(`${outside.calledAs} takes a command, and none was named.`)
   }
   const type = commandSlugIn(root)
-  const standing = type === null ? [] : standingAt(root, type, named)
+  const standing = type === null ? [] : listedAt(root, type, named)
   const first = standing[0]
   if (first === undefined) {
     return carried(

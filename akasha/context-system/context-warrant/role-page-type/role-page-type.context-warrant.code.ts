@@ -1,4 +1,4 @@
-import { standingAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { listedAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { slugStated } from "../../agent-stated/agent-stated.module.code.ts"
 import type { Knowing, Warrant } from "../../warranting/warranting.module.code.ts"
 import { filePageType } from "../file-page-type/file-page-type.context-warrant.code.ts"
@@ -13,7 +13,7 @@ const KEY = "roleSlug"
 export function rolePageType(root: string, path: string, knowing: Knowing): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return []
-  const standing = standingAt(root, ROLE, slug)[0]
+  const standing = listedAt(root, ROLE, slug)[0]
   if (standing === undefined) return []
   return filePageType(root, standing.path, knowing).map((one) => ({ ...one, owed: ROLE_TYPE }))
 }

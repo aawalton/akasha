@@ -5,7 +5,7 @@ import {
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   idsNaming,
-  standingAt,
+  listedAt,
   standingById,
   standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -95,7 +95,7 @@ export function mortalityIn(shadow: Shadow, known: Known): Mortality {
   const stated = (pageTypeSlug: string): boolean => {
     const held = byType.get(pageTypeSlug)
     if (held !== undefined) return held
-    const one = standingAt(shadow.reading, PAGE_TYPE, pageTypeSlug)[0]
+    const one = listedAt(shadow.reading, PAGE_TYPE, pageTypeSlug)[0]
     const value = one === undefined ? null : shadow.pageOf(one.path)
     const said = value !== null && value["mortal"] === true
     byType.set(pageTypeSlug, said)

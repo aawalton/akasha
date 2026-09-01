@@ -1,7 +1,7 @@
 import { dirname, join } from "node:path"
 import {
+  listedAt,
   schemaOf,
-  standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   besideAt,
@@ -27,7 +27,7 @@ function pageBeside(path: string, said: Named): string | null {
 function propertyOf(root: string, propertySlug: string): Warrant | null {
   const said = schemaOf(root, propertySlug)
   if ("refused" in said) return null
-  const standing = standingAt(root, said.schema.pageTypeSlug, propertySlug)[0]
+  const standing = listedAt(root, said.schema.pageTypeSlug, propertySlug)[0]
   if (standing === undefined) return null
   const oid = blobAt(root, standing.path)
   return oid === null ? null : { path: standing.path, oid, owed: PROPERTY }

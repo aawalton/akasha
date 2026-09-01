@@ -1,4 +1,4 @@
-import { standingAt } from "../../indexes/index-reading/index-reading.module.code.ts"
+import { listedAt } from "../../indexes/index-reading/index-reading.module.code.ts"
 import { numberAt, valueAt } from "../../page/page-value/page-value.module.code.ts"
 import { answering } from "../page-serving/page-serving.module.code.ts"
 
@@ -11,7 +11,7 @@ export type Listening = {
 }
 
 export function portFor(root: string): number | null {
-  const standing = standingAt(root, SERVICE_PAGE_TYPE, SERVICE_SLUG)
+  const standing = listedAt(root, SERVICE_PAGE_TYPE, SERVICE_SLUG)
   const one = standing[0]
   if (one === undefined) return null
   const value = valueAt(one.path, root)

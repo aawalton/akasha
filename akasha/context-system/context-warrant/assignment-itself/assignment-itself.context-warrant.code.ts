@@ -1,6 +1,6 @@
 import {
+  listedAt,
   standingAddressed,
-  standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { slugStated, typeStated } from "../../agent-stated/agent-stated.module.code.ts"
@@ -38,7 +38,7 @@ function domainOf(root: string, path: string): readonly Warrant[] {
 }
 
 function initiativeOf(root: string, slug: string): readonly Warrant[] {
-  const standing = standingAt(root, INITIATIVE_TYPE, slug)[0]
+  const standing = listedAt(root, INITIATIVE_TYPE, slug)[0]
   if (standing === undefined) return []
   return [...warrantAt(root, standing.path, ASSIGNMENT), ...domainOf(root, standing.path)]
 }
@@ -48,6 +48,6 @@ export function assignmentItself(root: string, path: string): readonly Warrant[]
   if (slug === null) return []
   const stated = typeStated(root, path, KEY) ?? DOMAIN_TYPE
   if (stated === INITIATIVE_TYPE) return initiativeOf(root, slug)
-  const standing = standingAt(root, stated, slug)[0]
+  const standing = listedAt(root, stated, slug)[0]
   return standing === undefined ? [] : warrantAt(root, standing.path, ASSIGNMENT)
 }

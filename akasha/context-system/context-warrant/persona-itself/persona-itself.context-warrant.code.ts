@@ -1,4 +1,4 @@
-import { standingAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { listedAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { slugStated } from "../../agent-stated/agent-stated.module.code.ts"
 import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
@@ -12,7 +12,7 @@ const KEY = "personaSlug"
 export function personaItself(root: string, path: string): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return []
-  const standing = standingAt(root, PERSONA_TYPE, slug)[0]
+  const standing = listedAt(root, PERSONA_TYPE, slug)[0]
   if (standing === undefined) return []
   const oid = blobAt(root, standing.path)
   return oid === null ? [] : [{ path: standing.path, oid, owed: PERSONA }]

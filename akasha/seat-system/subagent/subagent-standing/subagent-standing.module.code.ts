@@ -1,7 +1,7 @@
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  standingAt,
+  listedAt,
   standingById,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -63,7 +63,7 @@ export function bodyOf(
 }
 
 export function assignedTo(root: string, seatName: string): string | null {
-  const standing = standingAt(root, SEAT, seatName)[0]
+  const standing = listedAt(root, SEAT, seatName)[0]
   if (standing === undefined) return null
   const value = valueAt(standing.path, root)
   const stated = value === null ? null : textAt(value, ASSIGNMENT)

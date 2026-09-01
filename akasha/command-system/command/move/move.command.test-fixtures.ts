@@ -2,8 +2,8 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { warrantsStanding } from "../../../context-system/warranting/warranting.module.test-fixtures.ts"
 import {
+  listedAt,
   namersOf,
-  standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   importFiled,
@@ -302,7 +302,7 @@ export function judging(root: string, slug: string): undefined {
 export const NAMERS: readonly string[] = [ALPHA, BETA]
 
 export function slugStanding(root: string, slug: string): readonly string[] {
-  return standingAt(root, "thing", slug).map((one) => one.path)
+  return listedAt(root, "thing", slug).map((one) => one.path)
 }
 
 export function namersIn(root: string, id: string): readonly string[] {
