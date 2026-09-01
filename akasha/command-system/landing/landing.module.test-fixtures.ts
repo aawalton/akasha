@@ -1,4 +1,3 @@
-import { execFileSync } from "node:child_process"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "@akasha/checks-system/judging"
@@ -9,6 +8,7 @@ import type { Value } from "@akasha/pages-system/page-value"
 import { textProperty } from "@akasha/pages-system/text-property"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { gitIn } from "@akasha/testing-system/gitting"
+import { said as saying } from "@akasha/utils-run/running"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { FileEdit } from "./landing.module.code.ts"
 
@@ -44,7 +44,7 @@ export const REFUSES: Judging = {
 export const bytes = bytesOf
 
 export function gitOver(root: string): readonly string[] {
-  const said = execFileSync("ps", ["-eo", "args="], { encoding: "utf8" })
+  const said = saying(["ps", "-eo", "args="])
   return said.split("\n").filter((one) => one.includes("cat-file") && one.includes(root))
 }
 
