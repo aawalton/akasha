@@ -47,18 +47,18 @@ slug before it stops the seat it is replacing, and has to know what a seat will 
 before it has a row to record anything on. Neither reaches the store on any path.
 
 Usage:
-  ops seat set --persona <slug> --domain <slug> --role <slug>
-  ops seat set --from-seat
-  ops seat set --from-history
-  ops seat set --mode headless
-  ops seat set --initiative <slug>
-  ops seat set --agent <uuid> --flex flex-2
-  ops seat set --principal alan
-  ops seat set --on-call
-  ops seat set --show
-  ops seat set --name --persona <slug> --role <slug>
-  ops seat set --resolve --token <slug> --token <slug>
-  ops seat set --resolve --persona <slug> --domain <slug>
+  bun tools/seat.ts --persona <slug> --domain <slug> --role <slug>
+  bun tools/seat.ts --from-seat
+  bun tools/seat.ts --from-history
+  bun tools/seat.ts --mode headless
+  bun tools/seat.ts --initiative <slug>
+  bun tools/seat.ts --agent <uuid> --flex flex-2
+  bun tools/seat.ts --principal alan
+  bun tools/seat.ts --on-call
+  bun tools/seat.ts --show
+  bun tools/seat.ts --name --persona <slug> --role <slug>
+  bun tools/seat.ts --resolve --token <slug> --token <slug>
+  bun tools/seat.ts --resolve --persona <slug> --domain <slug>
 
 Flags:
   --persona <slug>  Who is speaking. Matched against the file name under personas/.

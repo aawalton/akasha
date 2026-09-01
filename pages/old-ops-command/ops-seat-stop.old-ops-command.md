@@ -20,9 +20,9 @@ Stop a running agent addressed by any identifier shape, taking its seat
 page. Idempotent.
 
 The <agent-id> positional accepts a full UUID, any 8+ character prefix of
-the agent's `pages.id` (UUIDv7), or the agent's kebab-case `name` (set via
-`ops seat set`) — the same grammar every seat command
-takes. The input is resolved to the canonical agent id first,
+the agent's `pages.id` (UUIDv7), or the agent's kebab-case `name` (which
+follows from what the seat states, via `bun tools/seat.ts`) — the same
+grammar every seat command takes. The input is resolved to the canonical agent id first,
 then the seat page standing for that id is read for the supervisor it
 names, so an agent whose name was never set or later changed is still
 stoppable.
