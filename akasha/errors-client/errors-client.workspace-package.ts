@@ -9,6 +9,7 @@ export const errorsClient = {
   partSlugs: [
     "module/error-reporting",
     "module/global-error-capture",
+    "module/error-capture-installer",
     "module/use-report-render-error",
   ],
   invariants: [
