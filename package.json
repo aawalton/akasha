@@ -80,7 +80,6 @@
     "shared/pages-access",
     "shared/pages-core",
     "shared/pages-query",
-    "shared/pages-ui-store",
     "shared/pages-ui",
     "shared/pages-url",
     "shared/person-document",
