@@ -8,17 +8,12 @@ export const amyJennyUnreviewedWidget = {
   personaSlug: "amy",
   parentSlug: "akasha-migration",
   intents: [
-    {
-      statement: "A pod reaches the page store.",
-      workingMemory:
-        "A subagent is on this now. The workstation answers at 100.64.0.4:8787 on the headscale tailnet, and pods cannot route 100.64.0.0/10 under flannel. What already works is the `tailnet-egress` deployment in its own namespace, which reaches the workstation. The shape asked for is that one cloned into an egress pod for the page store behind a ClusterIP, so a pod asks http://<slug>.<namespace>.svc.cluster.local:<port>/ask. Proof is a throwaway pod holding rows.",
-    },
     { statement: "A running site states the commit it was built from." },
     { statement: "No file imports `@shared/pages-query`." },
     {
       statement: "Every folder a package reaches is a package.",
       workingMemory:
-        "1301 imports in akasha cross a package edge, and 640 of them land in a folder that is no package at all. Those land in five domains: pages-system by far the most, then testing-system, service-system, file-system and write-system. Each wants a manifest, a page type of workspace-package rather than domain, an entry in the root workspaces list, and exports naming every module reached from outside. Do file-system first, it is the smallest, and the rest follow the recipe.",
+        "1301 imports in akasha cross a package edge and 640 land in a folder that is no package. file-system, service-system and testing-system now state manifests naming the ways into them, and akasha-system names all three as workspace packages. What is left is pages-system, much the largest: 152 reaches into page alone, then text-property, page-type, change, shadow and the property types. write-system never existed. The root workspaces list belongs to the next intent.",
     },
     {
       statement:
