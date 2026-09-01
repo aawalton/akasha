@@ -81,8 +81,8 @@ export function carryingOf(given: string | Reading, named: string): Carried {
   if ("refused" in filed) return { refused: filed.refused }
   const slug = filed.schema.slug
   if (slug === null) return { refused: carriesNo(named) }
-  const standing = listedAt(reading, filed.schema.pageTypeSlug, slug)[0]
-  if (standing === undefined) return { refused: carriesNo(named) }
+  const listed = listedAt(reading, filed.schema.pageTypeSlug, slug)[0]
+  if (listed === undefined) return { refused: carriesNo(named) }
 
   const found: Carrying[] = []
   const already = new Set<string>()
@@ -103,6 +103,6 @@ export function carryingOf(given: string | Reading, named: string): Carried {
       }
     }
   }
-  take(standing.id, null)
+  take(listed.id, null)
   return { carrying: ordered(found) }
 }
