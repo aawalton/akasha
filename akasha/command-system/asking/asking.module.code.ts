@@ -352,3 +352,15 @@ export function landingAsked(given: Given, asked: Asked): Answer {
     code: 0,
   }
 }
+
+export function landedProgrammatically(
+  root: string,
+  calledAs: string,
+  changes: readonly FileEdit[],
+  message: string
+): Answer {
+  return landingAsked(
+    { root, calledAs, from: root, writer: null, agentId: null, programmatic: true },
+    { changes, message, dryRun: false, glass: null, unmoved: [], saying: wroteAndTook }
+  )
+}
