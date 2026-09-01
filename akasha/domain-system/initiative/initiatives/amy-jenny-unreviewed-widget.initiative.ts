@@ -21,7 +21,11 @@ export const amyJennyUnreviewedWidget = {
     },
     { statement: "The packages reading and writing pages stand in akasha." },
     { statement: "The packages Alan's own work rests on stand in akasha." },
-    { statement: "The design packages stand in akasha." },
+    {
+      statement: "The design packages stand in akasha.",
+      workingMemory:
+        "Three landed under akasha/design: badges, forms and layout. design-tokens went into shared/ instead. Three are held rather than merely hard: primitives, patterns and system each carry `.ts` beside `.tsx`, and `manifest-names-what-is-reached` reads `.ts` but not `.tsx`, so a mixed package must name exactly what its `.ts` files reach and leave out what only its `.tsx` reach. design-layout had to omit four real dependencies. That knot and the two copies of @types/react want Alan.",
+    },
     { statement: "`pages-ui` stands in akasha." },
     { statement: "The source of Alan's site stands in akasha." },
     {
