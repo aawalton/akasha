@@ -1,12 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import {
-  blobIdOf,
-  recordRead,
-  SUBAGENT_MARK,
-} from "../../command-system/reading/reading.module.code.ts"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { blobIdOf, recordRead, SUBAGENT_MARK } from "@akasha/command-system/reading"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { standing } from "@akasha/command-system/scratching/testing"
 import {
   agentPathOf,
   gatheredIn,

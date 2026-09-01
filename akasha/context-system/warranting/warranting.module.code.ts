@@ -1,25 +1,12 @@
 import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import {
-  blobIdOf,
-  readingIn,
-  SUBAGENT_MARK,
-  sameBody,
-} from "../../command-system/reading/reading.module.code.ts"
-import {
-  everyOfType,
-  listedAt,
-  listedById,
-  slugsOfType,
-} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import {
-  besideAt,
-  namedIn,
-} from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { listedAbove } from "../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
-import { slugOf } from "../../seat-system/subagent/subagent-standing/subagent-standing.module.code.ts"
+import { blobIdOf, readingIn, SUBAGENT_MARK, sameBody } from "@akasha/command-system/reading"
+import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
+import { listedAbove } from "@akasha/pages-system/page-type-descent"
+import { slugOf } from "@akasha/seat-system/subagent-standing"
 
 const READ_CALL = "akasha read --file-path"
 

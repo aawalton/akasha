@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const warrantScratch = {
   id: "01a05003-1c21-749b-ad55-103dc92a9390",

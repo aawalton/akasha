@@ -1,4 +1,4 @@
-import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { PageType } from "@akasha/pages-system/page-type"
 import type { Domain } from "../domain/domain.page-type.ts"
 
 export type DirectiveKind = Domain

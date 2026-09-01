@@ -1,12 +1,7 @@
-import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
-import {
-  idFiled,
-  listedFiled,
-  pathFiled,
-  relationFiled,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
+import { standing } from "@akasha/command-system/scratching/testing"
+import { idFiled, listedFiled, pathFiled, relationFiled } from "@akasha/indexes/testing"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { mintedId } from "@akasha/testing-system/minting"
 import type { Warrant } from "../warranting/warranting.module.code.ts"
 
 export type Listed = {

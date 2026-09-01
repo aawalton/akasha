@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
-import { recordRead } from "../../../command-system/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { recordRead } from "@akasha/command-system/reading"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { standing } from "@akasha/command-system/scratching/testing"
 import {
   pageTypeListed,
   pathsOf,

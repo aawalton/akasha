@@ -1,5 +1,5 @@
-import type { List } from "../../../pages-system/page-property/page-property.page-type.ts"
-import type { TextProperty } from "../../../pages-system/text-property/text-property.page-type.ts"
+import type { List } from "@akasha/pages-system/page-property"
+import type { TextProperty } from "@akasha/pages-system/text-property"
 
 export type Aid = string
 export type Aids = List<Aid>

@@ -1,5 +1,5 @@
-import type { Page } from "../../pages-system/page/page.page-type.ts"
-import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { Page } from "@akasha/pages-system/page"
+import type { PageType } from "@akasha/pages-system/page-type"
 import type { Definition } from "./properties/definition.text-property.ts"
 import type { Directives } from "./properties/directives.record-property.ts"
 import type { Invariants } from "./properties/invariants.record-property.ts"

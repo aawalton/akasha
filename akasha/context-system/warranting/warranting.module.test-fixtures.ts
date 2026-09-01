@@ -1,14 +1,11 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
-import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { dataAt } from "../../file-system/data-place/data-place.module.code.ts"
-import {
-  idFiled,
-  listedFiled,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
+import { rootOf } from "@akasha/command-system/rooting"
+import { standing } from "@akasha/command-system/scratching/testing"
+import { dataAt } from "@akasha/file-system/data-place"
+import { idFiled, listedFiled } from "@akasha/indexes/testing"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { mintedId } from "@akasha/testing-system/minting"
 
 const HERE = rootOf(import.meta.path)
 
