@@ -34,14 +34,14 @@ const SIGNAL = "SIGTERM"
 
 const ID = "id"
 
-export type Standing = {
+export type Seat = {
   readonly page: string
   readonly name: string
   readonly holder: Holder | null
 }
 
-function seatsIn(root: string): readonly Standing[] {
-  const found: Standing[] = []
+function seatsIn(root: string): readonly Seat[] {
+  const found: Seat[] = []
   for (const one of everyOfType(root, typeSlugOf(root, SEAT_TYPE))) {
     if (!one.path.startsWith(SEAT_DIR)) continue
     const beside = uncommittedIn(root, one.path)
@@ -51,7 +51,7 @@ function seatsIn(root: string): readonly Standing[] {
   return [...found].sort((one, other) => (one.name < other.name ? -1 : 1))
 }
 
-function restarted(root: string, standing: Standing): string {
+function restarted(root: string, standing: Seat): string {
   const holder = standing.holder
   if (holder === null) {
     return `${standing.name} states no supervisor that can be read, so nothing was asked of it`
