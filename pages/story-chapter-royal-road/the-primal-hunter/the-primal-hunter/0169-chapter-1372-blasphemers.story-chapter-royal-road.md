@@ -1,0 +1,139 @@
+---
+id: 3029fec6-c41e-5ff6-9a7a-9f0073baf187
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1372 - Blasphemers!"
+slug: 0169-chapter-1372-blasphemers
+partOf: the-primal-hunter
+position: 169
+ownLength: 2766
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3896136/chapter-1372-blasphemers"
+royalRoadId: "3896136"
+---
+
+“That seems counterintuitive,” Maius muttered as he finally solved another step of the puzzle in front of him. His three comrades stood at his sides, being mostly useless, as he was given this task just because he had the highest mental stats among them.
+
+“Hey, progress is progress,” his sister joked around before leaning flirtatiously on the dragonkin. “Besides, wouldn’t we all just get in your way if we tried to help? Isn’t that what you said before?”
+
+“Advice is welcome, acting unilaterally and trying to push a solution only to trigger a false gate in the formation isn’t very helpful,” Maius sighed, shaking his head as he looked to find the next solution. Based on the last puzzle he’d solved, these tended to have five stages, and he had already done three of them.
+
+“I still think we should try just breaking through one using my Soulflame at some point,” the dragonkin shrugged.
+
+“And risk triggering something even worse than-“
+
+“We have incoming,” their leader said, making them all turn their heads towards where he was looking. He proceeded to also shift into his true form as a large snake appeared, and with his improved senses after shapeshifting, he also recognized who, or perhaps more accurately what, was coming for them.
+
+“Vampire hunters!”
+
+Maius’ eyes opened wide upon hearing this, as he cursed internally and mobilized his blood energy to empower himself. A deep red formation appeared beneath his feet in preparation for their arrival, humming with power while remaining partly hidden.
+
+“How many?” his sister asked, equally concerned based on the sound of her voice.
+
+“Five,” the snake leader said, already realizing the gravity of the situation.
+
+“Shit,” the dragonkin cursed as he also prepared himself as best he could. Just in time, too, as the vampire hunters were soon upon them, their stealth skills not to be underestimated. In fact, it was fortunate they had the snake leader on their side, as if only he and his sister had been around, there was no way they would have detected the hunters in time.
+
+From between the stalks of the massive flowers, the five hunters appeared, all wearing clothes belonging to the Holy Church, and now that Maius saw them, he instinctively felt a sense of fear. As if he were standing in front of his natural predator. Probably because he was.
+
+“I knew I smelled something,” the leader of the hunters said as he flashed a big grin. “We even caught two at once. Too bad this is only a simulation.”
+
+“Seeing as it is only a simulation, why even bother?” the snake asked, taking a defensive stance. “You’ll gain very little out of this and only risk yourselves.”
+
+“I would ask you the same. Are you willing to risk yourself to protect these two blasphemous creatures? We have no quarrel with you and the dragonkin, but should you choose to stand at their side, we can only view you as blasphemers too,” the leader of the hunters said.
+
+Maius was nervous for a moment before concluding that giving him and his sister up would be the wisest move, and while a part of him was a bit disappointed and saddened upon seeing the snake clearly consider this option, he wasn’t truly offended at someone making the smart choice.
+
+--
+
+Things were really starting to heat up, and Jake was more than happy that he could even hear what they were saying, as none of those present could pierce his Unseen Hunter. Especially not now that they were distracted by each other.
+
+Jake had never come across vampire hunters before, but he had heard a bit about them, primarily from a conversation between the Sword Saint and Miranda, where she warned him about their existence.
+
+Vampire hunters were, as their names implied, individuals with Paths revolving around hunting vampires. But wait, weren’t vampires kind of rare in the multiverse? They sure were, which was why Jake found it a profoundly stupid Path as it wasn’t odd to see vampire hunters go entire grades while only killing a couple of low-level vampires here and there.
+
+Did vampires exist throughout the universe in limited numbers? Again, sure, but there really weren’t that many of them. The existence of vampire hunters did limit their numbers, sure, but even without them, vampires would be few and far between, especially since most small vampire clans preferred to keep to themselves and try to fly under the radar.
+
+That’s why it made no sense to Jake to have people whose Paths revolved entirely around hunting creatures that weren’t even plentiful or true threats. Still, they existed, and while Jake found them stupid, one did have to recognize that they were good at what they did.
+
+Unsurprisingly, they had skills specifically designed to target vampires and their unique blood energy, making them far more powerful than they normally were when facing vampires. Even without these special talents, all vampire hunters were pretty strong in their own right, especially those that reached B-grade.
+
+Seeing as vampires were rare, vampire hunters had to mostly fight other kinds of foes, limiting them from showing their true power. Yet they still had to gain the Records to keep evolving and leveling, forcing them to continually improve and get powerful against anything, lest they fall too far behind and fail to evolve.
+
+This also meant that when they did meet a vampire and could show their true power, they tended to be incredibly powerful for their level. Given this being the case, Jake also couldn’t really say it would be unwise for snake and dragonkin if they chose to flee, knowing full well that they left their two comrades to die.
+
+It would disappoint Jake a lot, though, and he looked on skeptically as the snake spoke. “If you can guarantee you will leave us alone, sure, you can have them.”
+
+Jake saw the hurt on the male vampire’s face momentarily, but he quickly hid it away and seemed resigned to what was about to happen. Based on the magic circle beneath his feet, he didn’t look like he planned to go out without a fight, though, and the female vampire had also summoned two knives, also intent on not going down easy.
+
+“I’m glad you made a wise choice,” the leader of the vampire hunters nodded. “You may go, and you have my word.”
+
+The snake nodded and motioned to the dragonkin, who momentarily seemed reluctant to leave, but after what appeared to be a telepathic message, he finally followed along, giving an apologetic look to the female vampire as he left.
+
+To say Jake was disappointed would be an understatement, and he was fully prepared to educate his fellow Order associates on what he considered proper conduct. While he usually didn’t want to butt into situations like this, he didn’t like how things had gone. The vampire hunters were clearly a lot stronger, yet they had gone out of their way to hunt down someone far weaker. Was it their Path? Yes, but Jake didn’t approve of their Path in the first place, so who cares?
+
+Plus, Jake was the Chosen of the Malefic Viper. Wasn’t it only to be expected for a Chosen to help his Patron’s faction at least a little here and there?
+
+With a smile, the leader of the vampire hunters watched the dragonkin and snake fly off, and once they were about a kilometer away, he turned his attention back to his prey as his smile turned into a grin.
+
+“I’m going to enjoy this,” he said as energy exploded out from his body. The four others at his sides also moved as all five charged at once, radiating quite the killing intent.
+
+The vampires both defended themselves immediately, the magic circle beneath the male one erupting with power and summoning dozens of large blood tendrils that sought to stop the charging foes, while the female vampire teleported, seemingly trying to take one of the hunters by surprise with a pre-emptive counterattack.
+
+Alas, they were too heavily outmatched, and both of them were immediately on the back foot. The woman took several nasty wounds as the hunters quickly reacted, while the blood tendrils were torn through in less than a second.
+
+Jake was ready to step in, but hadn’t, as he’d seen something that made his lips curl upwards. What happened next really made him feel all warm and fuzzy inside.
+
+A beam of intense energy suddenly shot out from behind a set of massive leaves, striking one of the vampire hunters completely by surprise. It nearly scorched one of his arms off as it started rotting, and before he could do anything, a snake struck him from behind, its large fangs piercing straight through his chest and face.
+
+The snake was immediately attacked, but the damage was done: the ambushed hunter was spat out, his body rotting quickly as he fell to the ground. Unfortunately, he wasn’t entirely dead and was struggling to take out a healing potion. Fortunately, he didn’t get to drink it as a second beam shot out from behind the large leaves, shearing the rest of his head off and finishing him off for good.
+
+A third beam came out a second later, but a hunter moved to block it before charging toward where the ambusher was hiding. Two other hunters kept fighting the vampires, who looked happy yet conflicted after seeing that help had arrived.
+
+Should have expected a snake to be sneaky, Jake thought, pleased with what had happened. Rather than retreat, the snake and dragonkin had merely acted as if they were abandoning their allies, instead just disengaging to activate their stealth skill and strike the vampire hunters from behind.
+
+It was well-executed, and seeing them do it made Jake feel proud of his fellow Order of the Malefic Viper members. The only sad part was that, despite finishing off one hunter, they were still absolutely fucked. They had killed the weakest guy, and truthfully, the leader of these vampire hunters was probably strong enough to take all four of them on by himself.
+
+“A very bad choice,” the aforementioned leader of the vampire hunters said as he effortlessly deflected an attempt by the snake to attack. His weapon was a rather untraditional meteor hammer that he used very skillfully to blast the snake in the side, sending the leader of the small group from the Order crashing through an oversized flower before striking the ground.
+
+“I gave you the opportunity to live. It saddens me you chose death just because of two creatures that should never have existed in the first place,” the leader of the vampire hunters said, his words making it seem as if he regretted that they’d returned, but his tone made it clear he very much enjoyed what was happening.
+
+“Fuck you!” the dragonkin yelled as he clashed with one of the hunters, his scales already showing significant signs of damage as he was getting pummeled. The vampires were even worse off, fighting as best they could, but against people specifically designed to fight them, they really couldn’t do much.
+
+The leader of the vampire hunters just smiled as he ignored the dragonkin and continued looking down at the snake. “You know, I’ve never been a fan of snakes. Maybe it’s the fangs coming a bit too close to-“
+
+“Now that was blasphemous,” the vampire hunter was interrupted by a voice directly behind him as Jake found what he believed to be the perfect time to step in. With Unseen Hunter and One Step, he’d appeared in the middle of them without a single soul even noticing his presence before he decided to reveal himself.
+
+The vampire hunter reacted instantly by spinning around, his meteor hammer aimed straight for the side of Jake’s head. While it was true that the leader of the vampire hunters was far stronger than the four members from the Order, so was there a massive divide between him and the Chosen of the Malefic Viper.
+
+Jake casually lifted his arm and caught the meteor hammer, staring at the vampire hunter who only now realized what and who he was looking at as his eyes opened wide.
+
+“And that was also a very bad choice,” Jake said, holding onto the man’s weapon. Around him, all fighting had stopped as Jake had also unleashed his aura and activated Pride for good measure, allowing his presence to bear down on everyone present.
+
+“Chosen...” the leader of the vampire hunters stated as he stared. It felt more as if he was confirming reality to himself than actually asking anything. He took a moment before he focused and outright let go of his weapon as he used the hand he’d been holding it with to salute Jake by placing his hand on his chest.
+
+“I greet the Chosen of the Malefic One!” he said in an overly respectful tone, his words also finally waking everyone else up from their stupor, as a rather funny scene of enemies and allies alike greeting Jake in unison from all around.
+
+“Please forgive my indiscretions. I acted on instinct, unaware it was His Excellency,” the leader said, stating the obvious. “We did not know that these individuals were under your protection and can ask that you forgive-“
+
+“No,” Jake cut him off, shaking his head. “First of all, why would you not assume they were under my protection? They are part of my Order, wouldn’t one expect me to defend them as the default? Then again, the Holy Church is fond of sacrificing others, so perhaps not. Second of all... I have nothing against vampires. I even find them kind of neat. Doesn’t that make me a blasphemer?”
+
+The moment Jake stepped in, he’d already decided that none of these vampire hunters were leaving alive. It wasn’t even a question of him necessarily protecting the vampires anymore, but just that he really didn’t like these people and their entire Paths, which pretty much revolved around genociding an entire race. The Holy Church’s reason for wanting to get rid of all vampires also struck him as horrible, as the only reason they didn’t like vampires was due to their inability to receive Baptisms and enter the Holyland after death. It was purely selfish, and it wasn’t as if the Holy Church didn’t have enough innocent souls to indoctrinate into its fold.
+
+“Lord Chosen, the opinions and thoughts of one at your standing are naturally not mine to dictate or even dare scrutinize, so I would never even consider such a notion in the first place,” the leader of the vampire hunters said, still intent on defusing the situation somehow. A bit funny considering how happy he’d been just moments before to also get the chance to kill the snake and dragonkin.
+
+Jake didn’t see much sense in continuing to address the guy, as he instead turned his gaze to the two vampires who had subtly moved closer to one another after his appearance. Both of them looked a lot worse for wear, and upon seeing Jake look their way, their expressions were an odd mix of reverence and a little scared.
+
+“How do you two think this situation should be resolved?” he asked in a calm voice.
+
+The male vampire hesitated while the female one didn’t even take a moment to think.
+
+“Kill them all!” she said before promptly shutting herself up as the male vampire gave her a frightened look, making her continue. “I mean... I wouldn’t dare suggest what the Chosen should do...”
+
+“A bit late for that,” Jake chuckled, turning his gaze back to the leader of the vampires. “But I do like the suggestion.”
+
+“Scatter!” the leader of the vampire hunters yelled, at least prompt with his decision-making as he threw away all signs of disrespect by pulling out two daggers and lunging straight for Jake as he pushed his boosting skill beyond its limits without any hesitation.
+
+At the same time, his three allies shot off in different directions, the members from the Order barely too slow to stop any of them. Jake smiled as he casually stepped to the side and dodged the slash coming at him, wondering whether this wasn’t the most blasphemous thing someone had done all day.
+
+To attack the Chosen of a Primordial! How dare he? Oh well, Jake would reluctantly take on the responsibility of teaching these vampire hunters proper conduct in place of the Holy Church. Someone had to make up for their lack of education, after all.
