@@ -72,7 +72,7 @@ export function componentSwiftFor(appSlug: string): readonly string[] {
  */
 export function targetNameForProgram(programSlug: string): string {
   const page = programPage(programSlug)
-  const named = "targetName" in page ? page.targetName : undefined
+  const named: string | undefined = "targetName" in page ? page.targetName : undefined
   if (typeof named !== "string" || named === "") {
     throw new InputError(
       `the akasha ios-program page ${page.slug} states no \`target-name\`, and the seam building ` +
