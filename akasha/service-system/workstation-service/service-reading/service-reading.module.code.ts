@@ -75,7 +75,7 @@ export function readFor(root: string, slug: string): Read {
   return typeof read === "string" ? { refused: read } : { standing: [read] }
 }
 
-export function everyStanding(root: string): Read {
+export function everyService(root: string): Read {
   const found = [...everyOfType(root, SERVICE_PAGE_TYPE)].sort((a, b) =>
     a.path < b.path ? -1 : a.path > b.path ? 1 : 0
   )

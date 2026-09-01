@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import {
-  everyStanding,
+  everyService,
   readFor,
   runsIn,
   serviceIn,
@@ -95,7 +95,7 @@ test("the service standing today is read from its page", () => {
 })
 
 test("every service standing is read, and the one standing today is among them", () => {
-  const read = everyStanding(ROOT)
+  const read = everyService(ROOT)
   expect("standing" in read).toBe(true)
   if (!("standing" in read)) return
   expect(read.standing.map((one) => one.service.slug)).toContain("page-query-service")

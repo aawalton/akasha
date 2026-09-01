@@ -5,7 +5,7 @@ import {
   ownedByService,
   planFor,
 } from "@akasha/service-system/service-installing"
-import { everyStanding, readFor } from "@akasha/service-system/service-reading"
+import { everyService, readFor } from "@akasha/service-system/service-reading"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
 
@@ -49,7 +49,7 @@ export function service(argv: readonly string[], given: Given): Answer {
     return refused("this installs one service at a time, or every one with `--all`", INPUT)
   }
 
-  const read = slug === undefined ? everyStanding(given.root) : readFor(given.root, slug)
+  const read = slug === undefined ? everyService(given.root) : readFor(given.root, slug)
   if ("refused" in read) return refused(read.refused, DATA)
 
   const home = homeAt()
