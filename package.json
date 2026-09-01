@@ -116,7 +116,6 @@
     "shared/errors-core",
     "shared/file-page-identity",
     "akasha/named-for",
-    "shared/named-for",
     "shared/notifications",
     "shared/object-store",
     "shared/open-questions",

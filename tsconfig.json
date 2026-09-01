@@ -4,9 +4,6 @@
       "path": "./shared/day"
     },
     {
-      "path": "./shared/named-for"
-    },
-    {
       "path": "./shared/file-page-identity"
     },
     {
