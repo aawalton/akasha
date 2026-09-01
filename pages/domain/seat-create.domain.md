@@ -3,7 +3,7 @@ id: b4835cd6-a219-52cd-a6a5-b73c6ebcc6eb
 page-type-slug: domain
 title: "Seat create"
 slug: seat-create
-domain-parent-slug: page-type/seat
+domain-parent-slug: domain/agent-definitions
 ---
 
 # Definition

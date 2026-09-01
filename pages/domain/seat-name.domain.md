@@ -3,7 +3,7 @@ id: f3f4ff51-76c8-5f20-ab1d-0fceedf3400b
 page-type-slug: domain
 title: "Seat name"
 slug: seat-name
-domain-parent-slug: page-type/seat
+domain-parent-slug: domain/agent-definitions
 ---
 
 # Definition

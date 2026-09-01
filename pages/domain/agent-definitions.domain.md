@@ -6,7 +6,6 @@ slug: agent-definitions
 domain-parent-slug: domain/agent-harness
 sequence-slugs:
   - page-type/agent
-  - page-type/seat
   - page-type/message
 settled: true
 ---

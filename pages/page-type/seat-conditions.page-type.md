@@ -6,7 +6,7 @@ extends-slug: page
 files: akasha:**/*.seat-conditions.md
 body-shape-slug: empty
 slug: seat-conditions
-domain-parent-slug: page-type/seat
+domain-parent-slug: domain/agent-definitions
 ---
 
 # Definition

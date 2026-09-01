@@ -3,7 +3,7 @@ id: 6f425623-85d5-532a-90fa-c6779feafbc8
 page-type-slug: domain
 title: "Seat declaration"
 slug: seat-declaration
-domain-parent-slug: page-type/seat
+domain-parent-slug: domain/agent-definitions
 sequence-slugs:
   - domain/seat-attribute
   - domain/seat-assignment

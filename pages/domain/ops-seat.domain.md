@@ -6,7 +6,6 @@ slug: ops-seat
 domain-parent-slug: domain/ops-cli
 required-reading-slugs:
   - domain/ops-namespace
-  - page-type/seat
 ---
 
 # Definition

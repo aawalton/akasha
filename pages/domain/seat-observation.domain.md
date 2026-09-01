@@ -3,7 +3,7 @@ id: d5763e5b-6458-582f-9356-a252c464490e
 page-type-slug: domain
 title: "Seat observation"
 slug: seat-observation
-domain-parent-slug: page-type/seat
+domain-parent-slug: domain/agent-definitions
 sequence-slugs:
   - page-property-definition/seat-presence
   - domain/seat-turn

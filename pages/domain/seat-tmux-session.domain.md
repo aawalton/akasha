@@ -3,7 +3,7 @@ id: e704027f-419f-5db7-9f2a-f4401d9b67b8
 page-type-slug: domain
 title: "Seat tmux session"
 slug: seat-tmux-session
-domain-parent-slug: page-type/seat
+domain-parent-slug: domain/agent-definitions
 ---
 
 # Definition
