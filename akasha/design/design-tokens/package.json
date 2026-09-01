@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/design-tokens",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./surface-color": "./surface-color/surface-color.module.code.ts",
+    "./semantic-color": "./semantic-color/semantic-color.module.code.ts",
+    "./text-color": "./text-color/text-color.module.code.ts"
+  }
+}
