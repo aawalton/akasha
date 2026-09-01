@@ -9,13 +9,8 @@ const WINDOW_DAYS = 30
 
 const DEFAULT_HORIZON_DAYS = 120
 
-function pad2(n: number): string {
-  return n < 10 ? `0${n}` : String(n)
-}
-
 function toDateStr(ms: number): string {
-  const d = new Date(ms)
-  return `${d.getUTCFullYear()}-${pad2(d.getUTCMonth() + 1)}-${pad2(d.getUTCDate())}`
+  return new Date(ms).toISOString().slice(0, 10)
 }
 
 function buildCaldataUrl(baseUrl: string, date: string, days: number): string {
