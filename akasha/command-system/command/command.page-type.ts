@@ -29,6 +29,7 @@ export const command = {
     "command/refactor",
     "command/remove",
     "command/seat",
+    "command/service",
     "command/test",
     "command/write",
     "record-property/taking",
