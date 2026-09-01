@@ -42,7 +42,7 @@ const DEFAULT_VERIFY_GRACE_MS = 30_000
 
 const LAUNCH_ONLY = ["--prompt", "--prompt-file", "--boot-prompt", "--boot-prompt-file", "--verify", "--grace"] as const
 
-const SELF_ACTION = "restart_preserve_on_idle" as const
+const SELF_ACTION = "restart" as const
 const SELF_STATUS = "queued-on-idle" as const
 
 async function readPromptFile(path: string): Promise<string> {
@@ -138,16 +138,26 @@ async function relaunch(input: RelaunchInput): Promise<void> {
   emitLaunched(handle, json)
 }
 
-async function cycleInPlace(agentId: string, json: boolean, relaunchInput: RelaunchInput): Promise<void> {
-  await setRequestedAction(agentId, { action: "restart_preserve" })
+async function cycleInPlace(
+  agentId: string,
+  json: boolean,
+  now: boolean,
+  relaunchInput: RelaunchInput
+): Promise<void> {
+  await setRequestedAction(agentId, { action: now ? "restart-now" : "restart" })
   const outcome = await waitForActionCleared(agentId)
   if (outcome.ok) {
-    await sweepSupersededAgentTrees(agentId, seatRecord(agentId)?.supervisorPid ?? undefined)
+    // A gated restart clears the moment it is ARMED, not when it has fired, so there is no new
+    // supervisor to sweep behind yet and nothing that can honestly be called restarted.
+    const status = now ? "restarted" : SELF_STATUS
+    if (now) {
+      await sweepSupersededAgentTrees(agentId, seatRecord(agentId)?.supervisorPid ?? undefined)
+    }
     const name = seatRecord(agentId)?.name ?? agentId
     if (json) {
-      process.stdout.write(`${JSON.stringify({ agent_id: agentId, name, status: "restarted" })}\n`)
+      process.stdout.write(`${JSON.stringify({ agent_id: agentId, name, status })}\n`)
     } else {
-      process.stdout.write(`${agentId}\t${name}\trestarted\n`)
+      process.stdout.write(`${agentId}\t${name}\t${status}\n`)
     }
     return
   }
@@ -277,7 +287,7 @@ export default async function seatResume(args: readonly string[]): Promise<void>
       )
     }
     refuseWhereSubagentsWork(agentId, force)
-    await cycleInPlace(agentId, json, relaunchInput)
+    await cycleInPlace(agentId, json, parsed.boolean("--now"), relaunchInput)
     return
   }
 

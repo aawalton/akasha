@@ -50,7 +50,7 @@ interface Reach {
 async function swapOneSeat(agentId: string, reach: Reach): Promise<SwapOutcome> {
   const state = reach.proxyState.readProxyState(agentId)
   if (state == null || !reach.proxyState.pidAlive(state.pid)) return "no-live-proxy"
-  await setRequestedAction(agentId, { action: "proxy_swap" })
+  await setRequestedAction(agentId, { action: "swap-proxy" })
   const outcome = await waitForActionCleared(agentId)
   return outcome.ok ? "swapped" : "timeout"
 }
@@ -102,10 +102,10 @@ export default async function modelGatewaySwap(args: readonly string[]): Promise
   const status = await swapOneSeat(agentId, reach)
   if (status === "timeout") {
     throw operationalError(
-      describeAckTimeout("proxy-swap", {
+      describeAckTimeout("swap-proxy", {
         agentId,
         timeoutMs: ACK_TIMEOUT_MS,
-        lastRequestedAction: "proxy_swap",
+        lastRequestedAction: "swap-proxy",
       })
     )
   }

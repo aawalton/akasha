@@ -77,6 +77,14 @@ export const help: CommandHelp = {
         "Restart the seat even where subagents are working, ending them with it",
     },
     {
+      name: "--now",
+      description:
+        "Cycle a live seat WITHOUT waiting for its turn to end. The default arms the restart and " +
+        "the supervisor fires it at the next turn boundary, reporting `queued-on-idle`; this " +
+        "interrupts the turn the agent is in and reports `restarted`. No effect on a stopped " +
+        "seat, which relaunches at once either way.",
+    },
+    {
       name: "--boot-prompt-file",
       argLabel: "<path|->",
       valueShape: "token",

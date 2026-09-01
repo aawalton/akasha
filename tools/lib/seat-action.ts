@@ -4,10 +4,12 @@ const DEFAULT_TIMEOUT_MS = 30_000
 
 const DEFAULT_POLL_MS = 500
 
+// The spellings akasha's supervisor-action pages carry. `restart` waits for the end of the
+// agent's turn; `restart-now` interrupts it.
 export type AgentActionRequest =
-  | { action: "restart_preserve"; interruptMessage?: string }
-  | { action: "restart_preserve_on_idle"; interruptMessage?: string }
-  | { action: "proxy_swap"; interruptMessage?: never }
+  | { action: "restart-now"; interruptMessage?: string }
+  | { action: "restart"; interruptMessage?: string }
+  | { action: "swap-proxy"; interruptMessage?: never }
 
 export type ActionAckOutcome =
   | { readonly ok: true }
@@ -20,7 +22,7 @@ export type ActionAckOutcome =
       }
     }
 
-export type AckVerb = "restart" | "proxy-swap"
+export type AckVerb = "restart" | "swap-proxy"
 
 type AckTimeoutReason = Extract<ActionAckOutcome, { ok: false }>["reason"]
 
@@ -40,7 +42,7 @@ export function buildRequestedActionSet(
     requestedAction: request.action,
   }
   if (request.interruptMessage != null) set.interruptMessage = request.interruptMessage
-  if (request.action === "restart_preserve_on_idle" && armedAtMs != null) {
+  if (request.action === "restart" && armedAtMs != null) {
     set.restartArmedAt = armedAtMs
   }
   return set
@@ -54,7 +56,7 @@ export async function setRequestedAction(
     agentId,
     buildRequestedActionSet(
       request,
-      request.action === "restart_preserve_on_idle" ? Date.now() : undefined
+      request.action === "restart" ? Date.now() : undefined
     )
   )
 }
