@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/id-minting",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./random-id/random-id.module.code.ts"
+  }
+}

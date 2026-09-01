@@ -35,6 +35,7 @@ export const akashaSystem = {
     "workspace-package/service-system",
     "domain/alan-harness",
     "domain/design",
+    "workspace-package/id-minting",
   ],
   invariants: [
     {
