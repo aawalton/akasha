@@ -2,14 +2,11 @@
 
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
-import { isRecord } from "@akasha/utils-narrow/is-record"
 import { assembleInventory } from "@temper/game-items-core/assemble-inventory"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
 import type { PricingData } from "@temper/game-trading-pricing/pricing-types"
-import { useEffect, useMemo, useState } from "react"
+import { useMemo } from "react"
 import { chunksStillLoading } from "./chunks-loading"
-import { toGuildBankBasisChange, toNetWorthHistory } from "./net-worth-history"
-import { NET_WORTH_MAX_PERIOD_DAYS } from "./net-worth-periods"
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
 const INVENTORY_CHUNK_PAGE_TYPE_SLUG = "temper-inventory-chunk"
@@ -82,54 +79,6 @@ export function useInventory(userId: string | null) {
     error: snapshotRead.error,
     retry: undefined,
   }
-}
-
-const MS_PER_DAY = 86_400_000
-
-const NET_WORTH_WINDOW_DAYS = NET_WORTH_MAX_PERIOD_DAYS
-
-const NO_ROWS: readonly Record<string, unknown>[] = []
-
-function readRows(body: unknown): readonly Record<string, unknown>[] {
-  if (!isRecord(body)) return NO_ROWS
-  const held: unknown = body.rows
-  if (!Array.isArray(held)) return NO_ROWS
-  const rows: unknown[] = held
-  return rows.every(isRecord) ? rows : NO_ROWS
-}
-
-export function useNetWorthHistory(userId: string | null) {
-  const [since] = useState(() => Date.now() - NET_WORTH_WINDOW_DAYS * MS_PER_DAY)
-  const [state, setState] = useState<{
-    rows: readonly Record<string, unknown>[]
-    isLoading: boolean
-  }>({ rows: NO_ROWS, isLoading: userId != null })
-
-  useEffect(() => {
-    if (userId == null) {
-      setState({ rows: NO_ROWS, isLoading: false })
-      return
-    }
-    let cancelled = false
-    setState((prev) => ({ ...prev, isLoading: true }))
-    fetch(`/api/net-worth?since=${since}`, { headers: { accept: "application/json" } })
-      .then(async (response) => (response.ok ? await response.json() : { rows: NO_ROWS }))
-      .then((body: unknown) => {
-        if (cancelled) return
-        setState({ rows: readRows(body), isLoading: false })
-      })
-      .catch(() => {
-        if (!cancelled) setState({ rows: NO_ROWS, isLoading: false })
-      })
-    return () => {
-      cancelled = true
-    }
-  }, [userId, since])
-
-  const history = useMemo(() => toNetWorthHistory(state.rows), [state.rows])
-  const guildBankBasisChange = useMemo(() => toGuildBankBasisChange(state.rows), [state.rows])
-
-  return { history, guildBankBasisChange, isLoading: state.isLoading }
 }
 
 export function usePriceExtract(

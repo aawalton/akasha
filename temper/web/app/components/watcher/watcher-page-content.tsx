@@ -78,7 +78,7 @@ export function WatcherPageContent({
                   add-on whose terms do not allow anyone else to redistribute it, so you install it
                   yourself. It is where Temper gets guild-store prices. Without it Temper still sees
                   every item you own, but it can only value them at what a vendor would pay, which
-                  is a small fraction of what they are actually worth. Your net worth, trends, and
+                  is a small fraction of what they are actually worth. Your item values and
                   affordability all inherit that. Temper tells you on the inventory pages when a
                   sync arrived without it.
                 </li>

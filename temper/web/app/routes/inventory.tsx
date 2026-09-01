@@ -19,7 +19,7 @@ export default function InventoryPage() {
           config={tabbedPageSkeleton({
             initialTab: tab,
             defaultTab: "rules",
-            tabs: ["rules", "type", "location", "trends"],
+            tabs: ["rules", "type", "location"],
             titleWidth: 144,
           })}
         />

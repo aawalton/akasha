@@ -33,7 +33,6 @@ const apiRoutes: RouteConfig = [
   route("api/live-version", "routes/api.live-version.tsx"),
   route("api/items", "routes/api.items.tsx"),
   route("api/items/search", "routes/api.items.search.tsx"),
-  route("api/net-worth", "routes/api.net-worth.tsx"),
   route("api/shopping/optimize", "routes/api.shopping.optimize.tsx"),
   route("api/cli-link/mint", "routes/api.cli-link.mint.tsx"),
   route("api/nav-icon/:idSuffix", "routes/api.nav-icon.$idSuffix.tsx"),

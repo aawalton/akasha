@@ -17,11 +17,11 @@ const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 // `patchPage`, and the day's reading with `patchPage` plus `patchRow` — four keyed writes, all
 // refused. The first threw, so no chunk and no net worth was ever reached.
 //
-// The reading side of that history is still live and still answers: `temper/web/app/routes/
-// api.net-worth.tsx` serves `/api/net-worth` to the chart on the home page and the trends tab.
-// So the chart draws, and what it draws stops dead at the last day filed before the writes died.
-// A flat line to today is not the shape of Alan's holdings; it is the shape of a store that
-// stopped listening, and the chart has no way to tell the two apart.
+// The reading side of that history is gone too. `/api/net-worth`, the net worth card on the home
+// page, and the inventory Trends tab were all removed, because a chart that stops dead at the last
+// day filed before the writes died draws the shape of a store that stopped listening, not the
+// shape of Alan's holdings, and it had no way to tell the two apart. The readings themselves are
+// still filed; nothing serves them.
 //
 // Everything above the landing still works — the scan parses, the value and net worth compute,
 // the shards are cut — so this does all of it and then says exactly which numbers it could not
@@ -125,7 +125,7 @@ export async function runImportInventory(
       `\`${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/${snapshotName}\` and its ${chunkCount} chunk(s) ` +
       `did not land, and neither did \`${NET_WORTH_DAY_PAGE_TYPE_SLUG}/${snapshotDate}\` carrying ` +
       `a net worth of ${Math.round(netWorthResult.netWorth).toLocaleString()} gold. ` +
-      `\`/api/net-worth\` still answers, so the chart will keep drawing a history that ends before ` +
-      `${snapshotDate} without saying that it does`
+      `Nothing in the app reads that history any more, so the number above is the only place ` +
+      `this scan's net worth is said at all`
   )
 }

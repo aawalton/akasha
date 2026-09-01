@@ -7,7 +7,7 @@ import { QueryErrorBoundary } from "@shared/design-patterns/components/query-err
 import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@akasha/design-patterns/tabs"
 import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
 import { type SortDirection } from "@akasha/design-patterns/sort-types"
-import { LayoutList, MapPin, Scale, TrendingUp } from "lucide-react"
+import { LayoutList, MapPin, Scale } from "lucide-react"
 import { Suspense } from "react"
 import {
   type ActiveStatusFilter,
@@ -31,13 +31,12 @@ import {
 } from "./inventory-filter-types"
 import { InventoryLocationDataContent } from "./inventory-location-data-content"
 import { InventoryRulesTab } from "./inventory-rules-tab"
-import { InventoryTrendsTab } from "./inventory-trends-tab"
 import { InventoryTypeDataContent } from "./inventory-type-data-content"
 
-type TabValue = "type" | "location" | "trends" | "rules"
+type TabValue = "type" | "location" | "rules"
 
 function isValidTab(raw: unknown): TabValue | undefined {
-  if (raw === "type" || raw === "location" || raw === "trends" || raw === "rules") return raw
+  if (raw === "type" || raw === "location" || raw === "rules") return raw
   if (raw === "category") return "type"
   return undefined
 }
@@ -247,7 +246,7 @@ export function InventoryPageContent({
         titleWidth: 144,
         initialTab,
         defaultTab: "rules",
-        tabs: ["rules", "type", "location", "trends"],
+        tabs: ["rules", "type", "location"],
       })}
     >
       <PageLayout.Header>
@@ -256,11 +255,10 @@ export function InventoryPageContent({
 
       <Tabs value={values.tab} onValueChange={(v) => update({ tab: isValidTab(v) ?? "rules" })}>
         <PageLayout.Tabs>
-          <TabsList className="@[1016px]:grid grid h-18 w-full @[1016px]:grid-cols-4 grid-cols-4 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
+          <TabsList className="@[1016px]:grid grid h-18 w-full @[1016px]:grid-cols-3 grid-cols-3 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
             <PageTabsTrigger value="rules" icon={<Scale />} label="Rules" />
             <PageTabsTrigger value="type" icon={<LayoutList />} label="By Type" />
             <PageTabsTrigger value="location" icon={<MapPin />} label="By Location" />
-            <PageTabsTrigger value="trends" icon={<TrendingUp />} label="Trends" />
           </TabsList>
         </PageLayout.Tabs>
         <PageLayout.Content>
@@ -339,13 +337,6 @@ export function InventoryPageContent({
                   onClearFilters={handleClearFilters}
                   deferred={deferred}
                 />
-              </Suspense>
-            </QueryErrorBoundary>
-          </TabsContent>
-          <TabsContent value="trends">
-            <QueryErrorBoundary>
-              <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
-                <InventoryTrendsTab />
               </Suspense>
             </QueryErrorBoundary>
           </TabsContent>

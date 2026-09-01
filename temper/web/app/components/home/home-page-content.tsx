@@ -1,7 +1,6 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { formatGold } from "@akasha/design-primitives/format-gold"
 import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { PanelCard } from "@akasha/design-layout/panel-card"
@@ -10,7 +9,6 @@ import { Button } from "@akasha/design-primitives/button"
 import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
 import { QueryErrorBoundary } from "@shared/design-patterns/components/query-error-boundary"
-import { StatRow } from "@akasha/design-patterns/stat-row"
 import { PagesUILink as Link, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import {
   applyCharacterMetadata,
@@ -23,18 +21,13 @@ import { useCompanionList } from "@temper/game-companions-ui/use-companions"
 import { groupInventoryByType } from "@temper/game-items-core/inventory-grouping"
 import { partitionUnmanagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-filter"
 import { useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
-import { useInventory, useNetWorthHistory } from "@temper/player-inventory-management-ui/hooks-inventory"
+import { useInventory } from "@temper/player-inventory-management-ui/hooks-inventory"
 import { useManagedGuildBanks } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { InventoryScopeNote } from "@temper/player-inventory-management-ui/inventory-scope-note"
 import { InventoryTypeSummaryPanelCard } from "@temper/player-inventory-management-ui/inventory-summary-panel-card"
-import { NetWorthBasisNote } from "@temper/player-inventory-management-ui/net-worth-basis-note"
-import { formatPeriodAmount, formatPeriodComparedAt, formatPeriodPercent, NET_WORTH_PERIOD_UNMEASURED_TEXT, type NetWorthPeriodReading, readNetWorthPeriods } from "@temper/player-inventory-management-ui/net-worth-periods"
-import { NetWorthPricingNote } from "@temper/player-inventory-management-ui/net-worth-pricing-note"
-import { resolvePricingSourceNote } from "@temper/player-inventory-management-ui/pricing-source"
-import { PricingSourceNote } from "@temper/player-inventory-management-ui/pricing-source-note"
 import { BuildHash } from "@temper/shared-formula-framework/branded"
 import { Gamepad2 } from "lucide-react"
-import { type ReactNode, Suspense, useMemo } from "react"
+import { Suspense, useMemo } from "react"
 import { OverallSummaryPanelCard } from "@/components/completion/overall-summary-panel-card"
 import { useCompletionProgress } from "@/components/completion/use-completion-progress"
 import { RecentCharactersCard } from "@/components/home/recent-characters-card"
@@ -91,85 +84,6 @@ function HomeInventoryCard() {
       scopeNote={<InventoryScopeNote excluded={excluded} includesCurrencies={false} />}
       subdued
     />
-  )
-}
-
-function netWorthToneClass(diff: number): string {
-  if (diff > 0) return "text-jade"
-  if (diff < 0) return "text-orange"
-  return "text-secondary"
-}
-
-function periodLabel(reading: NetWorthPeriodReading): ReactNode {
-  if (reading.state === "unmeasured") return reading.label
-  const percent = formatPeriodPercent(reading.percent)
-  return (
-    <span>
-      {reading.label}
-      {percent !== null && (
-        <span className={`font-mono ${netWorthToneClass(reading.diff)}`}> {percent}</span>
-      )}
-      {!reading.onHorizon && (
-        <span className="text-tertiary"> {formatPeriodComparedAt(reading.comparedAt)}</span>
-      )}
-    </span>
-  )
-}
-
-function periodValue(reading: NetWorthPeriodReading): ReactNode {
-  if (reading.state === "unmeasured") {
-    return <span className="text-tertiary">{NET_WORTH_PERIOD_UNMEASURED_TEXT}</span>
-  }
-  return <span className={netWorthToneClass(reading.diff)}>{formatPeriodAmount(reading.diff)}</span>
-}
-
-function HomeNetWorthCard() {
-  const { userId } = useAuth()
-  const { history, guildBankBasisChange, isLoading } = useNetWorthHistory(userId)
-  const { inventory, isLoading: inventoryLoading } = useInventory(userId)
-  const router = usePagesUIRouter()
-
-  const periods = useMemo(() => readNetWorthPeriods(history), [history])
-  const latest = history.at(-1)
-
-  if (isLoading) return <ListContentSkeleton showTabTitle={false} />
-  if (!latest) return null
-
-  return (
-    <PanelCard
-      id="home-net-worth"
-      collapsible
-      title={
-        <Link href="/inventory?tab=trends" className="hover:text-accent">
-          Net Worth
-        </Link>
-      }
-    >
-      <div className="flex flex-col gap-1.5">
-        <StatRow
-          label="Net Worth"
-          value={formatGold(latest.netWorth)}
-          useAccentColor
-          onClick={() => router.push("/inventory?tab=trends")}
-        />
-        {periods.map((reading) => (
-          <StatRow
-            key={reading.label}
-            label={periodLabel(reading)}
-            value={periodValue(reading)}
-            onClick={() => router.push("/inventory?tab=trends")}
-          />
-        ))}
-        {guildBankBasisChange && <NetWorthBasisNote change={guildBankBasisChange} />}
-        <NetWorthPricingNote />
-        <PricingSourceNote
-          kind={resolvePricingSourceNote({
-            inventory: inventory ?? null,
-            isSettled: !inventoryLoading,
-          })}
-        />
-      </div>
-    </PanelCard>
   )
 }
 
@@ -263,9 +177,6 @@ function HomeDataContent() {
       </Suspense>
       <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
         <HomeInventoryCard />
-      </Suspense>
-      <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
-        <HomeNetWorthCard />
       </Suspense>
     </ResponsiveColumns>
   )
