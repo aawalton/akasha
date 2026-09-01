@@ -33,7 +33,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The widget is whole, not a stub: `ios-program/alanwalton-widget` names 21 components and builds ValuesWidgetExtension. It GETs /api/categorization with X-Device-Secret, and that route reads what the relay holds and refuses a reading past 45 minutes. The server half is proved locally, 30 checks. Two things block it, neither the credential: no reading exists at all, since the cookie 401s and the relay says `stands beside no reading`; and the pod runs 1124e0a, 177 behind, with no relay route.",
+        "The pod now runs 283599af2e and the relay route 401s for want of `READING_RELAY_SECRET` rather than 405, so the one thing left is the reading: `MONARCH_COOKIE` is dead, Monarch 401s, and only Alan at a browser can mint another. The tile is whole and both its defects are fixed: a cached reading carries the moment it was written and is let go at 45 minutes, and the yellow rung moved off zero so a cleared backlog draws grey rather than caution. No Swift was compiled: no toolchain stands here.",
     },
     {
       statement: "The relay that carries Alan's reading to Jenny's site is in akasha.",
