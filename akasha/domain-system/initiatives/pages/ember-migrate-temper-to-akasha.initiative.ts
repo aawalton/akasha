@@ -11,7 +11,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "The index says what the pages say.",
       workingMemory:
-        "Reproduced 2026-09-01: `index refresh --dry-run` says 0 added, 1 changed, 1 taken away, over 2184 pages and 22804 entries. Earlier it said 4 taken away, so the leak follows landings rather than sitting still. The incremental update inside the landing lock leaks an entry; nothing was interleaved, so this is no ordering fault. A full rebuild of the 66MB index costs 2.86s. First because the migration lands thousands of pages through a swarm, and a per-landing leak compounds past trusting any of it.",
+        "Root cause found 2026-09-01. Every drifted file sat under `import/path/`, and no other index drifted. A move rewrites a package manifest's exports, re-resolving that alias for every importer repo-wide, but `settlingOver` files only the paths in the landing, so importers outside it keep the old resolved path and get none at the new one. The moved page itself is fine. `index refresh` heals it. The fix widens the filing when exports change, or keys imports by alias.",
     },
     {
       statement: "A reminder is an akasha page, and the service sending it reads it there.",
