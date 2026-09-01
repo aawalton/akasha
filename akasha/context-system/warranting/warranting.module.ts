@@ -88,6 +88,29 @@ export const warranting = {
       statement: "An agent standing at no page owes nothing of one.",
     },
     {
+      invariantKind: "departure",
+      statement: "A warrant owed of a taboo term is said before every warrant that is not.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A warrant owed of a taboo term is told from the rest by the page type its path names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What is said of a taboo term names a decision about the change rather than a reading to clear.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Warrants owed of no taboo term keep the order they were worked out in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a change owes and what the seat writing it owes are ordered as one answer rather than one list after another.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing is changed that its writer has not read.",
     },

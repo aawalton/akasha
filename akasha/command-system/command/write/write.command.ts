@@ -50,6 +50,11 @@ export const write = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "What the seat owes and what the paths owe are ordered together rather than said one list after another.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An agent that has not read what it is changes nothing.",
     },
     {

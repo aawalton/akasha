@@ -1,5 +1,5 @@
 import { isAbsolute, relative, resolve } from "node:path"
-import { changingOf, unheldIn, unreadIn } from "@akasha/context-system/warranting"
+import { changingOf, owedIn } from "@akasha/context-system/warranting"
 import { besideAll } from "@akasha/pages-system/page-beside"
 import {
   BREAK_GLASS,
@@ -40,15 +40,12 @@ export function unwarrantedIn(
 ): readonly string[] {
   if (given.programmatic === true) return []
   if (glass !== null) return []
-  return [
-    ...unheldIn(given.root, given.agentId),
-    ...unreadIn(
-      given.root,
-      given.agentId,
-      changes.map((one) => one.path),
-      changingOf(given.root, changes)
-    ),
-  ]
+  return owedIn(
+    given.root,
+    given.agentId,
+    changes.map((one) => one.path),
+    changingOf(given.root, changes)
+  )
 }
 
 export function pathInside(root: string, said: string): string | null {
