@@ -57,7 +57,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Jenny's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Her Swift compiles: `akasha ios-app build smilingjenny` exits 0 with BUILD_SIM_OK — BUILD SUCCEEDED, no errors, no warnings, 12 files into SmilingJennyWidgetExtension, installed to a simulator. `ring` and `categorize-ring` are among them, so the one ring both tiles name is proven. This box has no swiftc but the command hands the build to `macbook`. Nothing but the reading is left. Her route is 7 lines over `module/readout-categorization` and Alan's is still a 44-line copy, filed.",
+        "Her Swift compiles: `akasha ios-app build smilingjenny` exits 0 with BUILD_SIM_OK, 12 files into SmilingJennyWidgetExtension, `ring` and `categorize-ring` among them, so the one ring both tiles name is proven. This box has no swiftc; the command hands it to `macbook`. Both routes are 7 lines over `module/readout-categorization` now, Alan's copy gone at `0011a6c725` onto `answerCategorizationAdmittedBy`, which takes his guard: he admits on a device secret and a grant, she on a shared secret.",
     },
   ],
   constraints: [
