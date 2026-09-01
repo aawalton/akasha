@@ -6,9 +6,7 @@ export const QUANT = listed(
   "every each all any no some both one two three four five many few none neither either another"
 )
 
-export const PRON = listed(
-  "it they them he she him we us you i me itself themselves anything nothing"
-)
+export const PRON = listed("it they them he she him we us you i me")
 
 export const PREP = listed(
   "of in on at to for with by from into onto over under above below through across against " +
@@ -31,6 +29,10 @@ export const ADV = listed(
     "even just yet so too very more most less least alone apart back away together"
 )
 
+export const SELF = listed("itself themselves")
+
+export const INDEF = listed("anything nothing")
+
 export const CONJ = listed("and or but")
 
 export const SUBORD = listed("if unless while whether because although though whenever wherever")
@@ -39,6 +41,8 @@ export type WordClass =
   | "DET"
   | "QUANT"
   | "PRON"
+  | "SELF"
+  | "INDEF"
   | "PREP"
   | "REL"
   | "BE"
@@ -58,6 +62,8 @@ const CLOSED: readonly (readonly [ReadonlySet<string>, WordClass])[] = [
   [DET, "DET"],
   [QUANT, "QUANT"],
   [PRON, "PRON"],
+  [SELF, "SELF"],
+  [INDEF, "INDEF"],
   [PREP, "PREP"],
   [REL, "REL"],
   [BE, "BE"],

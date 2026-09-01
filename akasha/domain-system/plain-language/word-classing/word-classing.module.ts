@@ -21,6 +21,11 @@ export const wordClassing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A pronoun naming something outside its sentence is classed apart from one naming something inside it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A word opening with a backtick is a noun.",
     },
     {

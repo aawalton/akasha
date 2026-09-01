@@ -7,7 +7,7 @@ export const START = "S"
 export const PLAIN: readonly string[] = [
   "S -> NP VP",
 
-  "NP -> NOM | DET NOM | QUANT NOM",
+  "NP -> NOM | DET NOM | QUANT NOM | SELF | INDEF",
   "NP -> NP PP",
   "NOM -> N | ADJ NOM | N NOM | VING NOM | VEN NOM",
 
