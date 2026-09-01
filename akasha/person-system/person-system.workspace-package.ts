@@ -10,6 +10,7 @@ export const personSystem = {
     "page-type/access-kind",
     "page-type/authority-kind",
     "page-type/device-secret",
+    "page-type/device-token",
     "page-type/person",
     "page-type/person-access",
     "page-type/person-authority",
