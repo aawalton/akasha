@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The reading self-refreshes every 5 minutes: `monarch-reading-service` exits 0 on a fresh `MONARCH_COOKIE` and the relay carries 9 to both sites. Routes 401 bare by their guards; Alan holds `alan-route-readout-feed`. TestFlight 197 is live and installable, app and `ValuesWidgetExtension.appex` both at `18c549a94c`, with `DeviceSecretKeychain` now in `AppDelegate.swift`. Left is Alan installing 197. `akasha ios-app` does only `build`; a lane adds `ship` over `deploy-testflight.ts`.",
+        "Build 197 carries the refactor onto his phone and the app hangs on the loading skeleton, so he cannot sign in. Pod `web-56d55fb66-99rmn` logs one thing only: `the page index was not built over akasha`, 31 times in six minutes. The dead `page/index` is what blocks the widget. Alan called for deleting `.git/pages` and the old index code so the breaks show as TS errors; `.git/pages`, 110M over 11081 files, is moved aside. Ten files import the old index, three of them `page/required-reading`.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
