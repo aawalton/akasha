@@ -1,11 +1,7 @@
 import { rmSync } from "node:fs"
 import { join } from "node:path"
-import {
-  agentIdsIn,
-  READS_AT,
-  SUBAGENT_MARK,
-} from "../../../command-system/reading/reading.module.code.ts"
-import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
+import { agentIdsIn, READS_AT, SUBAGENT_MARK } from "@akasha/command-system/reading"
+import { rootOf } from "@akasha/command-system/rooting"
 import { ASIDE, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "clear-reads-on-context-replaced"

@@ -1,8 +1,4 @@
-import {
-  ACTING_NAMED,
-  SUBAGENT_MARK,
-  seatIn,
-} from "../../../command-system/reading/reading.module.code.ts"
+import { ACTING_NAMED, SUBAGENT_MARK, seatIn } from "@akasha/command-system/reading"
 import type { Answer } from "../../hook-answer/hook-answer.module.code.ts"
 import {
   ASIDE,

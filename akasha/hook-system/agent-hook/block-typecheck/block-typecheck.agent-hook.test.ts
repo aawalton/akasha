@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
+import { rootOf } from "@akasha/command-system/rooting"
 import { judging } from "../../hook-judging/hook-judging.module.code.ts"
 import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
 import { refusalIn, SCOPE, tscIn } from "./block-typecheck.agent-hook.code.ts"

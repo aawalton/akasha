@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { READS_AT, SUBAGENT_MARK } from "../../../command-system/reading/reading.module.code.ts"
-import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { READS_AT, SUBAGENT_MARK } from "@akasha/command-system/reading"
+import { rootOf } from "@akasha/command-system/rooting"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   agentIn,
   cleared,
