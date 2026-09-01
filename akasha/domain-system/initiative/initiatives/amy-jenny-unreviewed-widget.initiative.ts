@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages reading and writing pages stand in akasha.",
       workingMemory:
-        "Unblocked, not moved. `pages-access` reached `naming.ts` by path for `idOfFilePage` and `slugOfFilePage`. Packaging `page/` was never needed: those want `fileStemOf`, one of five exports of `page/name/name.ts`, and only 16 of that file's 44 reaches want it. All four moved whole into `@shared/file-page-identity`, 24 reaches repointed, so nothing under `shared/pages-access` escapes it now. The move itself costs 253 reaches over 163 files, 22 manifests, 24 subpaths.",
+        "Unblocked and being landed. `pages-access` reached `naming.ts` by path for `idOfFilePage` and `slugOfFilePage`; packaging `page/` was never needed, since those four moved whole into `@shared/file-page-identity` and 24 reaches were repointed, so nothing under `shared/pages-access` escapes it now. What it sits on also stands: `@akasha/pages-core` landed with 128 module pages. The move costs 253 reaches over 163 files, 22 manifests, 24 subpaths.",
     },
     { statement: "The packages Alan's own work rests on stand in akasha." },
     {
