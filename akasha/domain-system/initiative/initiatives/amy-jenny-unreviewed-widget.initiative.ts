@@ -26,7 +26,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "`pages-ui` stands in akasha.",
       workingMemory:
-        "97 modules stand; `shared/pages-ui` is 197 files, down from 242 in three waves, each akasha side then shared: `e6bc83de08`/`3d7dbbb9a4`, `5e6066a97e`/`4ec864267d`, `8c976b924d`/`e6fb3628c6`. Land akasha first so HEAD never goes red. Slugs renamed here: `types`->`page-with-properties`, `page-row`->`view-row`, `views`->`view-callbacks`; two pass-throughs died rather than moved. 51 leaves left. Arriving private casts took `no-rule-in-two-files` 4 to 7, filed. 10 tsconfigs name the old path.",
+        "94 modules stand; `shared/pages-ui` is 197 files, down from 242 in three waves, each akasha side then shared: `e6bc83de08`/`3d7dbbb9a4`, `5e6066a97e`/`4ec864267d`, `8c976b924d`/`e6fb3628c6`. Land akasha first so HEAD never goes red. Slugs renamed here: `types`->`page-with-properties`, `page-row`->`view-row`, `views`->`view-callbacks`; two pass-throughs died rather than moved. 51 leaves left. Arriving private casts took `no-rule-in-two-files` 4 to 7, filed. 10 tsconfigs name the old path.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
