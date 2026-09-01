@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const alanwaltonPlistKeys = {
   id: "01a0595b-ef5e-7355-9321-5105aa180e67",

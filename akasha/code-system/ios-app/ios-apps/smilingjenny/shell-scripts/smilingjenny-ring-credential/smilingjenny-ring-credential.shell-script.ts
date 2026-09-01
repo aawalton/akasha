@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const smilingjennyRingCredential = {
   id: "01a05938-8ab1-7069-9179-2d9d65e72a6e",

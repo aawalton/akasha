@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const alanwaltonMonarchTap = {
   id: "01a0595b-ef5d-7f82-8506-cc8c27fe8505",

@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const alanwaltonKeyboardAccessorySuppressor = {
   id: "01a0595b-ef5b-70f5-b811-48e089de6c8d",

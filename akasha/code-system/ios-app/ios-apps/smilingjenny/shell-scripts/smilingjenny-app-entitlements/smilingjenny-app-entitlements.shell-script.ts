@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const smilingjennyAppEntitlements = {
   id: "01a05938-8ab1-756b-b708-17d28e727a7d",

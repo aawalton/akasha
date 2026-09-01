@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const alanwaltonSeamReset = {
   id: "01a0595b-ef5e-7572-976f-20f08e5bc2b5",

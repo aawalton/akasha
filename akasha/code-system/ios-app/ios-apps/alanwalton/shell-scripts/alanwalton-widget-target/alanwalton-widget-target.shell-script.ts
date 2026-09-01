@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const alanwaltonWidgetTarget = {
   id: "01a0595b-ef5f-7e82-b63c-b8b58f0aa533",

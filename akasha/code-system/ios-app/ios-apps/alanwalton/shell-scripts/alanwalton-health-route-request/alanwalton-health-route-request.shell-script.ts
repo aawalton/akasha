@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const alanwaltonHealthRouteRequest = {
   id: "01a0595b-ef5a-7421-8855-05d0d25560ac",

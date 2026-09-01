@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "@akasha/code-system/shell-script"
 
 export const alanwaltonPluginRegistrations = {
   id: "01a0595b-ef5e-7c57-ad95-a96813fb72a8",
