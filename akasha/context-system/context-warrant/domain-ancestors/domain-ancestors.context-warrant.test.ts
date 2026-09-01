@@ -6,7 +6,7 @@ import { scratchWorld } from "../../../command-system/scratching/scratching.modu
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import {
   domainListed,
-  initiativeStanding,
+  initiativeListed,
   namesPart,
   pathsOf,
   seatStanding,
@@ -99,7 +99,7 @@ test("a seat stating an initiative walks from the domain that initiative names",
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
-  initiativeStanding(root, "one-work", `domainSlug: "domain/domain-system"`)
+  initiativeListed(root, "one-work", `domainSlug: "domain/domain-system"`)
   const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
 })
@@ -109,7 +109,7 @@ test("an initiative naming its domain under another page type walks from that pa
   const top = domainListed(root, "akasha-system")
   const mid = typedListed(root, "workspace-package", "domain-system")
   namesPart(root, top, mid)
-  initiativeStanding(root, "one-work", `domainSlug: "workspace-package/domain-system"`)
+  initiativeListed(root, "one-work", `domainSlug: "workspace-package/domain-system"`)
   const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
 })
@@ -119,7 +119,7 @@ test("the domain an initiative names is no ancestor of itself", () => {
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
-  initiativeStanding(root, "one-work", `domainSlug: "domain/domain-system"`)
+  initiativeListed(root, "one-work", `domainSlug: "domain/domain-system"`)
   const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
   expect(pathsOf(domainAncestors(root, at))).not.toContain(mid.path)
 })
@@ -129,7 +129,7 @@ test("an initiative naming no domain warrants none", () => {
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "domain-system")
   namesPart(root, top, mid)
-  initiativeStanding(root, "one-work")
+  initiativeListed(root, "one-work")
   const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })

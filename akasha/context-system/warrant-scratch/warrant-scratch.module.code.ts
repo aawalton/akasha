@@ -51,7 +51,7 @@ export function domainListed(root: string, slug: string): Listed {
   return typedListed(root, "domain", slug)
 }
 
-export function initiativeStanding(root: string, slug: string, stated = ""): Listed {
+export function initiativeListed(root: string, slug: string, stated = ""): Listed {
   return pageStanding(
     root,
     `akasha/domain-system/initiative/initiatives/${slug}.initiative.ts`,
