@@ -1,11 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import { verifyTelnyxSignature } from "./verify-signature.module.code.ts"
-
-function bytesToBase64(bytes: Uint8Array): string {
-  let binary = ""
-  for (const b of bytes) binary += String.fromCharCode(b)
-  return btoa(binary)
-}
+import { bytesToBase64 } from "./verify-signature.module.test-fixtures.ts"
 
 async function keypair(): Promise<{ privateKey: CryptoKey; publicKeyBase64: string }> {
   const generated = await crypto.subtle.generateKey({ name: "Ed25519" }, true, ["sign", "verify"])

@@ -1,15 +1,10 @@
 import type { DiscardedInbound } from "../normalize/normalize.module.code.ts"
+import { bytesToBase64 } from "../verify-signature/verify-signature.module.test-fixtures.ts"
 import type {
   DeliverEffect,
   DeliveryKind,
   RecordDiscardEffect,
 } from "./handle-inbound.module.code.ts"
-
-function bytesToBase64(bytes: Uint8Array): string {
-  let binary = ""
-  for (const b of bytes) binary += String.fromCharCode(b)
-  return btoa(binary)
-}
 
 function toKeyPair(key: CryptoKey | CryptoKeyPair): CryptoKeyPair {
   if ("privateKey" in key) return key
