@@ -21,7 +21,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The design packages stand in akasha.",
       workingMemory:
-        "The third half is closed at `96b233f937`: the check reads a `.css` now, the stylesheet scanned beside the code parsed, refusal set 11 before and 11 after. design-system still cannot land, 13 typecheck errors in 4 of its 36 `.tsx` waiting on the no-void-return narrowing. Its weight and its risk lie apart: 7 products reach only its 5 `.css` and one route reaches the 36-file gallery, so the stylesheets go first. design-patterns' barrel and the 36 `@shared/design-primitives` reaches stand.",
+        "design-system stands at `644bb74cec` and `583bc845f5`: 5 stylesheets, 36 gallery modules, `shared/design-system` gone. The blocker was already gone: its 13 TS2322 errors typecheck clean and no `void` was rewritten. Inbound resolved to 8 edges, 7 products reaching the `.css` and one route the gallery; 10 tsconfigs dropped a reference rather than repoint. Every globals.css scanned only `shared/design-patterns`, so its 37 moved modules went unscanned by Tailwind; each names both now.",
     },
     {
       statement: "`pages-ui` stands in akasha.",
