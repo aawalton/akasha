@@ -297,7 +297,7 @@ function renamable(symbol: ts.Symbol | undefined): boolean {
   return true
 }
 
-function standingIn(typing: Typing, node: ts.Identifier): ts.Symbol | undefined {
+function symbolOf(typing: Typing, node: ts.Identifier): ts.Symbol | undefined {
   const up = node.parent
   if (up !== undefined && ts.isShorthandPropertyAssignment(up) && up.name === node) {
     return typing.checker.getShorthandAssignmentValueSymbol(up)
@@ -321,7 +321,7 @@ export function referencesOf(
     if (path === null) continue
     const walk = (node: ts.Node): undefined => {
       if (ts.isIdentifier(node)) {
-        const own = standingIn(typing, node)
+        const own = symbolOf(typing, node)
         const reached = own === undefined ? undefined : aliasedIn(typing, own)
         const named = declaring(own, declared) || declaring(reached, declared)
         if (named && renamable(own)) {
