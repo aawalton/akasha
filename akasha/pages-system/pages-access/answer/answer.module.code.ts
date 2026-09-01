@@ -1,5 +1,6 @@
-import type { Asked } from "@shared/pages-query"
-import { askComposed, askPageTypes } from "@shared/pages-query/ask"
+import type { Asked } from "@akasha/pages-system-service/asking"
+import { askingFor } from "@akasha/pages-system-service/calling"
+import { valuedRows } from "../file-read/file-read.module.code.ts"
 import { buildRawPageRows } from "../file-rows/file-rows.module.code.ts"
 import { getPageTypeBySlug } from "../page-type/page-type.module.code.ts"
 import {
@@ -9,11 +10,11 @@ import {
 
 export const LISTING_CEILING = 5_000
 
-const UNREAD_ROSTER =
-  "the page query service did not answer, so this route holds no roster to report; an empty roster would read as a store with nothing in files"
+const NO_ROSTER =
+  "the roster this route answered with named, for each page type, the repository its pages were kept in and the glob those files were filed under. `@akasha/pages-system-service` answers for every page akasha holds and draws no such line, so there is no roster to report, and an empty one would read as a tree holding no page type at all."
 
 const UNREAD_PAGES =
-  "the page query service did not answer, so this route holds no pages to report; an empty list would read as a page type with nothing in it"
+  "the pages did not answer, so this route holds no pages to report; an empty list would read as a page type with nothing in it"
 
 const SIGNED_IN_ONLY = "this route answers a signed-in reader only"
 
@@ -23,11 +24,10 @@ export type ReadUser = (
 
 export type PageTypesDeps = {
   readonly readUser: ReadUser
-  readonly askRoster: typeof askPageTypes
 }
 
 export function pageTypesDeps(readUser: ReadUser): PageTypesDeps {
-  return { readUser, askRoster: askPageTypes }
+  return { readUser }
 }
 
 export async function answerPageTypes(request: Request, deps: PageTypesDeps): Promise<Response> {
@@ -35,11 +35,7 @@ export async function answerPageTypes(request: Request, deps: PageTypesDeps): Pr
   if (user === null) {
     return Response.json({ error: SIGNED_IN_ONLY }, { status: 401, headers })
   }
-  const asked = await deps.askRoster()
-  if (!asked.ok) {
-    return Response.json({ error: UNREAD_ROSTER, unread: [asked.why] }, { status: 503, headers })
-  }
-  return Response.json({ types: asked.types }, { headers })
+  return Response.json({ error: NO_ROSTER }, { status: 501, headers })
 }
 
 export type PageTypeReading = {
@@ -56,7 +52,7 @@ export type PagesDeps = {
 export function pagesDeps(readUser: ReadUser): PagesDeps {
   return {
     readUser,
-    ask: (pageTypeSlug) => askComposed({ "page-type": pageTypeSlug, limit: LISTING_CEILING }),
+    ask: (pageTypeSlug) => askingFor({ pageTypeSlug }),
     readPageType: async (pageTypeSlug) => {
       const pageType = await getPageTypeBySlug(pageTypeSlug)
       if (pageType === null) return null
@@ -79,16 +75,8 @@ export async function answerPages(
   }
 
   const asked = await deps.ask(pageTypeSlug)
-  if (!asked.ok) {
-    if (asked.status === 404) {
-      return Response.json(
-        {
-          error: `\`${pageTypeSlug}\` names no page type whose pages are files, so it is not listable`,
-        },
-        { status: 404, headers }
-      )
-    }
-    return Response.json({ error: UNREAD_PAGES, unread: [asked.why] }, { status: 503, headers })
+  if ("refused" in asked) {
+    return Response.json({ error: UNREAD_PAGES, unread: [asked.refused] }, { status: 503, headers })
   }
 
   const reading = await deps.readPageType(pageTypeSlug)
@@ -99,16 +87,16 @@ export async function answerPages(
     )
   }
 
+  const held = asked.rows.length
   const rows = buildRawPageRows({
-    rows: asked.answer.rows,
+    rows: valuedRows(asked.rows.slice(0, LISTING_CEILING)),
     definitions: reading.definitions,
     pageTypeId: reading.pageTypeId,
     pageTypeSlug,
   })
-  const held = asked.answer.n
   if (held > rows.length) {
     console.warn(
-      `answerPages(${pageTypeSlug}): ${held} pages stand and this answer carries ${rows.length}; the listing is cut at ${LISTING_CEILING}`
+      `answerPages(${pageTypeSlug}): ${held} pages are filed and this answer carries ${rows.length}; the listing stops at ${LISTING_CEILING}`
     )
   }
   return Response.json({ rows, held, cut: held > rows.length }, { headers })

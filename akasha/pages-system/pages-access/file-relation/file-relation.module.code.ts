@@ -1,25 +1,10 @@
 import type { Page } from "@akasha/pages-core/page-types"
-import {
-  askComposed,
-  askNaming,
-  askPage,
-  type NamingAsk,
-  type NamingAsked,
-} from "@shared/pages-query/ask"
+import { askingFor } from "@akasha/pages-system-service/calling"
 import { z } from "zod"
 import { fileRelationDeclarations } from "../file-property-defs/file-property-defs.module.code.ts"
-import {
-  type FileReadDeps,
-  fileBackedPageTypes,
-  isFileBacked,
-  pageOf,
-} from "../file-read/file-read.module.code.ts"
-import { buildRawPageRows, kebabizeKey } from "../file-rows/file-rows.module.code.ts"
-import { fileShapeOf } from "../file-shape/file-shape.module.code.ts"
-import { applySelect } from "../routing-core/routing-core.module.code.ts"
+import { type FileReadDeps, fileBackedPageTypes } from "../file-read/file-read.module.code.ts"
+import { kebabizeKey } from "../file-rows/file-rows.module.code.ts"
 import type { PageSelect } from "../types/types.module.code.ts"
-
-const RPC_DEFAULT_LIMIT = 20_000
 
 const ADDRESS = /^([a-z0-9-]+)\/([a-z0-9-]+)$/
 
@@ -27,16 +12,17 @@ const POINTS = /\brelation(-(?:slug|seq|id|name))?\b/
 
 const SETTLED_BY_THE_ROW = "none"
 
-export type FileRelationDeps = FileReadDeps & {
-  readonly naming?: (ask: NamingAsk) => Promise<NamingAsked>
-}
+const NO_NAMING =
+  "reaching every page that names one page went through an index of what names what, built by asking each page type in turn. `@akasha/pages-system-service` answers one page type at a time and holds no such index, so which pages name a given page is not a question that can be put to it here."
+
+export type FileRelationDeps = FileReadDeps
 
 const LIVE: FileRelationDeps = {
-  ask: (query) => askComposed(query),
+  ask: (query) => askingFor(query),
   roster: fileBackedPageTypes,
 }
 
-export function slugNamed(text: string): string {
+function slugNamed(text: string): string {
   const found = ADDRESS.exec(text)
   return found === null ? text : (found[2] as string)
 }
@@ -99,21 +85,14 @@ export async function pageUnder(
   deps: FileRelationDeps = LIVE
 ): Promise<Presence> {
   const named = slugNamed(name)
-  const page = await askPage(targetSlug, named)
-  if (page.outcome === "found") return { outcome: "stands" }
   const asked = await deps.ask({
-    "page-type": targetSlug,
+    pageTypeSlug: targetSlug,
     keys: ["slug"],
     where: { slug: { is: named } },
     limit: 1,
   })
-  if (!asked.ok) {
-    const first = page.outcome === "unasked" ? `${page.why}; and ` : ""
-    return { outcome: "unasked", why: `${first}${asked.why}` }
-  }
-  if (asked.answer.rows.length > 0) return { outcome: "stands" }
-  if (page.outcome === "unasked") return { outcome: "unasked", why: page.why }
-  return { outcome: "absent" }
+  if ("refused" in asked) return { outcome: "unasked", why: asked.refused }
+  return asked.rows.length > 0 ? { outcome: "stands" } : { outcome: "absent" }
 }
 
 export type GetFilePagesByRelationArgs = {
@@ -126,35 +105,9 @@ export type GetFilePagesByRelationArgs = {
 
 export async function getFilePagesByRelation(
   args: GetFilePagesByRelationArgs,
-  deps: FileRelationDeps = LIVE
+  _deps: FileRelationDeps = LIVE
 ): Promise<readonly Page[]> {
-  const want = args.limit ?? RPC_DEFAULT_LIMIT
-  if (want <= 0) return []
-  const asked = await (deps.naming ?? askNaming)({
-    key: args.relationKey,
-    name: args.relationValue,
-    ...(args.pageTypeSlugs === undefined ? {} : { pageTypes: args.pageTypeSlugs }),
-    limit: want,
-  })
-  if (!asked.ok) {
-    throw new Error(`getFilePagesByRelation(${args.relationKey}): ${asked.why}`)
-  }
-  const found: Page[] = []
-  for (const naming of asked.naming) {
-    if (found.length >= want) break
-    if (!(await isFileBacked(naming.pageType))) continue
-    const shape = await fileShapeOf(naming.pageType)
-    if (shape === null) continue
-    const rows = buildRawPageRows({
-      rows: naming.rows,
-      definitions: shape.definitions,
-      pageTypeId: shape.pageTypeId,
-      pageTypeSlug: naming.pageType,
-    })
-    for (const row of rows) {
-      if (found.length >= want) break
-      found.push(pageOf({ ...row }))
-    }
-  }
-  return found.map((page) => applySelect(page, args.select))
+  throw new Error(
+    `getFilePagesByRelation(${args.relationKey}): ${NO_NAMING} Name the page types to look under and ask each one for \`${args.relationKey}\` through \`@akasha/pages-system-service\`, or read what names a page from the index by \`@akasha/indexes\`.`
+  )
 }

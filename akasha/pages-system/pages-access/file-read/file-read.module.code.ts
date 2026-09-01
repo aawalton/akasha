@@ -1,8 +1,8 @@
 import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
+import type { Asked, Query } from "@akasha/pages-system-service/asking"
+import { askingFor } from "@akasha/pages-system-service/calling"
 import { isJson } from "@akasha/utils-narrow/is-json"
 import type { Json } from "@akasha/utils-narrow/json-value"
-import type { Asked } from "@shared/pages-query"
-import { askComposed, askPageTypes, type ComposedQuery } from "@shared/pages-query/ask"
 import { type CursorPayload, decodeCursor, encodeCursor } from "../cursor/cursor.module.code.ts"
 import {
   askableNarrows,
@@ -24,7 +24,7 @@ export type FileReadShape = {
 }
 
 export type FileReadDeps = {
-  readonly ask: (query: ComposedQuery) => Promise<Asked>
+  readonly ask: (query: Query) => Promise<Asked>
   readonly roster: () => Promise<ReadonlySet<string>>
 }
 
@@ -42,6 +42,9 @@ const ALSO_READ: Readonly<Record<string, string>> = {
   lastViewedAt: "last_viewed_at",
 }
 
+const NO_ROSTER =
+  "`@akasha/pages-system-service` answers for every page akasha holds and draws no line between a page type whose pages are files and one whose pages are rows somewhere else. There is no roster of file-backed page types left to read, and an empty one would read as a tree where no page is a file."
+
 export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
   const page = flattenRow({ ...raw })
   const alsoRead: Record<string, Json> = {}
@@ -51,28 +54,6 @@ export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
     if (isJson(value)) alsoRead[key] = value
   }
   return Object.keys(alsoRead).length === 0 ? page : asPage({ ...page, ...alsoRead })
-}
-
-let known: ReadonlySet<string> | null = null
-let asking: Promise<ReadonlySet<string>> | null = null
-let unread: string | null = null
-
-export function setFileBackedPageTypes(slugs: Iterable<string>): undefined {
-  known = new Set(slugs)
-  asking = null
-  unread = null
-}
-
-export function setFileBackedRosterUnread(why: string): undefined {
-  unread = why
-  known = null
-  asking = null
-}
-
-export function forgetFileBackedPageTypes(): undefined {
-  known = null
-  asking = null
-  unread = null
 }
 
 export class RosterUnreachable extends Error {
@@ -87,22 +68,14 @@ export class RosterUnreachable extends Error {
 }
 
 export async function fileBackedPageTypes(): Promise<ReadonlySet<string>> {
-  if (unread !== null) throw new RosterUnreachable(unread)
-  if (known !== null) return known
-  asking ??= askPageTypes().then((asked) => {
-    asking = null
-    if (!asked.ok) throw new RosterUnreachable(asked.why)
-    known = new Set(asked.types.map((one) => one.slug))
-    return known
-  })
-  return asking
+  throw new RosterUnreachable(NO_ROSTER)
 }
 
 export async function isFileBacked(pageTypeSlug: string): Promise<boolean> {
   return (await fileBackedPageTypes()).has(pageTypeSlug)
 }
 
-const LIVE: FileReadDeps = { ask: (query) => askComposed(query), roster: fileBackedPageTypes }
+const LIVE: FileReadDeps = { ask: (query) => askingFor(query), roster: fileBackedPageTypes }
 
 function comparing(order: PageOrder): (left: Page, right: Page) => number {
   const steps: PageOrder = [...order, { by: "id", dir: "asc" }]
@@ -157,11 +130,6 @@ type HeldPages = { readonly over: string; readonly rows: readonly Page[]; touche
 
 const held = new Map<string, HeldPages>()
 let MINTED = 0
-
-export function forgetFilePageRuns(): undefined {
-  held.clear()
-  MINTED = 0
-}
 
 function heldRows(): number {
   let rows = 0
@@ -272,27 +240,10 @@ function selectedFrom(page: Page, selection: Selection | null): Page {
   return asPage(out)
 }
 
-const warned = new Set<string>()
-
-function warnOmitted(pageTypeSlug: string, omitted: readonly string[]): undefined {
-  if (omitted.length === 0 || warned.has(pageTypeSlug)) return
-  warned.add(pageTypeSlug)
-  console.warn(
-    `pages-access: getFilePages(${pageTypeSlug}) named no select, so it carries none of the ` +
-      `attachment properties ${omitted.map((one) => `\`${one}\``).join(", ")}. An attachment ` +
-      "property is loaded only where it is asked for by name; name it in `select` to read " +
-      "its value."
-  )
-}
-
-export function forgetOmittedWarnings(): undefined {
-  warned.clear()
-}
-
-function omittedIn(answer: unknown): readonly string[] {
-  if (typeof answer !== "object" || answer === null || !("omitted" in answer)) return []
-  const held = answer.omitted
-  return Array.isArray(held) ? held.filter((one): one is string => typeof one === "string") : []
+export function valuedRows(
+  rows: readonly Readonly<Record<string, unknown>>[]
+): readonly { readonly values: Record<string, unknown> }[] {
+  return rows.map((one) => ({ values: { ...one } }))
 }
 
 async function wholePopulation(
@@ -302,18 +253,17 @@ async function wholePopulation(
 ): Promise<readonly Page[]> {
   const tests = narrowing(args.where, args.shape.definitions)
   const keys = keysWanted(args, order)
-  const query: ComposedQuery = {
-    "page-type": args.pageTypeSlug,
+  const query: Query = {
+    pageTypeSlug: args.pageTypeSlug,
     ...(keys === null ? {} : { keys }),
     ...(tests === null ? {} : { where: tests }),
   }
   const asked = await deps.ask(query)
-  if (!asked.ok) {
-    throw new Error(`getFilePages(${args.pageTypeSlug}): ${asked.why}`)
+  if ("refused" in asked) {
+    throw new Error(`getFilePages(${args.pageTypeSlug}): ${asked.refused}`)
   }
-  if (keys === null) warnOmitted(args.pageTypeSlug, omittedIn(asked.answer))
   const raw = buildRawPageRows({
-    rows: asked.answer.rows,
+    rows: valuedRows(asked.rows),
     definitions: args.shape.definitions,
     pageTypeId: args.shape.pageTypeId,
     pageTypeSlug: args.pageTypeSlug,
@@ -376,15 +326,14 @@ export async function getFilePagesByIdSuffix(
   deps: FileReadDeps = LIVE
 ): Promise<readonly Page[]> {
   const asked = await deps.ask({
-    "page-type": args.pageTypeSlug,
+    pageTypeSlug: args.pageTypeSlug,
     where: { id: { "ends-with": args.idSuffix } },
   })
-  if (!asked.ok) {
-    throw new Error(`getFilePagesByIdSuffix(${args.pageTypeSlug}): ${asked.why}`)
+  if ("refused" in asked) {
+    throw new Error(`getFilePagesByIdSuffix(${args.pageTypeSlug}): ${asked.refused}`)
   }
-  warnOmitted(args.pageTypeSlug, omittedIn(asked.answer))
   const raw = buildRawPageRows({
-    rows: asked.answer.rows,
+    rows: valuedRows(asked.rows),
     definitions: args.shape.definitions,
     pageTypeId: args.shape.pageTypeId,
     pageTypeSlug: args.pageTypeSlug,

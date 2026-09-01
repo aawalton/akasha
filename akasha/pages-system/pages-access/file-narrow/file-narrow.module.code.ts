@@ -1,4 +1,5 @@
 import type { Page, PageCondition, PageWhere } from "@akasha/pages-core/page-types"
+import type { Test } from "@akasha/pages-system-service/asking"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { camelizeKey, kebabizeKey } from "../file-rows/file-rows.module.code.ts"
 import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
@@ -122,9 +123,9 @@ export function askableNarrows(
 export function narrowing(
   where: PageWhere | undefined,
   definitions: readonly PropertyDefinition[] = []
-): Readonly<Record<string, unknown>> | null {
+): Readonly<Record<string, Test>> | null {
   if (where === undefined || where.length === 0) return null
-  const tests: Record<string, unknown> = {}
+  const tests: Record<string, Test> = {}
   for (const condition of where) {
     if ("or" in condition) continue
     const key = declaredAs(condition.key, definitions)

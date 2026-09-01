@@ -1,22 +1,21 @@
 import { type MediaConfig, parseMediaConfig } from "@akasha/pages-core/schema/media-config"
 import { parseSequenceConfig, type SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
-import type { Asked } from "@shared/pages-query"
-import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
+import type { Asked, Query } from "@akasha/pages-system-service/asking"
+import { askingFor } from "@akasha/pages-system-service/calling"
 import { z } from "zod"
-import { isFileBacked } from "../file-read/file-read.module.code.ts"
 
 const PAGE_TYPE_SLUG = "page-type"
-const EXTENDS_SLUG = "extends-slug"
+const EXTENDS_SLUG = "extendsSlug"
 const EXTENDS_CEILING = 20
 
 export const SEQUENCE_CONFIG_KEY = "sequence"
-export const MEDIA_CONFIG_KEY = "media-config"
+export const MEDIA_CONFIG_KEY = "mediaConfig"
 
 export type FilePageTypeConfigDeps = {
-  readonly ask: (query: ComposedQuery) => Promise<Asked>
+  readonly ask: (query: Query) => Promise<Asked>
 }
 
-export const LIVE_PAGE_TYPE_CONFIG: FilePageTypeConfigDeps = { ask: (query) => askComposed(query) }
+export const LIVE_PAGE_TYPE_CONFIG: FilePageTypeConfigDeps = { ask: (query) => askingFor(query) }
 
 export type StatedConfig =
   | {
@@ -43,19 +42,19 @@ export async function statedConfigValue(
   deps: FilePageTypeConfigDeps = LIVE_PAGE_TYPE_CONFIG
 ): Promise<StatedConfig> {
   const asked = await deps.ask({
-    "page-type": PAGE_TYPE_SLUG,
+    pageTypeSlug: PAGE_TYPE_SLUG,
     where: { slug: { is: pageTypeSlug } },
     keys: ["slug", EXTENDS_SLUG, key],
     limit: 1,
   })
-  if (!asked.ok) return { asked: false, why: asked.why }
-  const row = asked.answer.rows[0]
+  if ("refused" in asked) return { asked: false, why: asked.refused }
+  const row = asked.rows[0]
   if (row === undefined) return { asked: true, stands: false, value: null, extendsSlug: null }
-  const extendsSlug = row.values[EXTENDS_SLUG]
+  const extendsSlug = row[EXTENDS_SLUG]
   return {
     asked: true,
     stands: true,
-    value: opened(row.values[key]),
+    value: opened(row[key]),
     extendsSlug: typeof extendsSlug === "string" && extendsSlug !== "" ? extendsSlug : null,
   }
 }
@@ -82,7 +81,7 @@ export async function nearestConfigValue(
 function reached(stated: StatedConfig, what: string): unknown {
   if (stated.asked) return stated.value
   throw new Error(
-    `${what}: the page query service did not answer, so this reader holds no page-type config to report; a null would read as a page type that declares none (${stated.why})`
+    `${what}: the pages did not answer, so this reader holds no page-type config to report; a null would read as a page type that declares none (${stated.why})`
   )
 }
 
@@ -102,12 +101,6 @@ export async function fileMediaConfig(
   return parseMediaConfig(reached(stated, `fileMediaConfig(${pageTypeSlug})`))
 }
 
-let mediaKin: ReadonlySet<string> | null = null
-
-export function forgetMediaPageTypes(): undefined {
-  mediaKin = null
-}
-
 function inheritsFrom(
   slug: string,
   declares: ReadonlySet<string>,
@@ -124,31 +117,28 @@ function inheritsFrom(
 export async function fileMediaPageTypeSlugs(
   deps: FilePageTypeConfigDeps = LIVE_PAGE_TYPE_CONFIG
 ): Promise<ReadonlySet<string>> {
-  if (mediaKin !== null) return mediaKin
   const asked = await deps.ask({
-    "page-type": PAGE_TYPE_SLUG,
+    pageTypeSlug: PAGE_TYPE_SLUG,
     keys: ["slug", EXTENDS_SLUG, MEDIA_CONFIG_KEY],
   })
-  if (!asked.ok) {
+  if ("refused" in asked) {
     throw new Error(
-      `fileMediaPageTypeSlugs: the page query service did not answer, so no page type can be said to render media; an empty set would read as a tree where nothing does (${asked.why})`
+      `fileMediaPageTypeSlugs: the pages did not answer, so no page type can be said to render media; an empty set would read as a tree where nothing does (${asked.refused})`
     )
   }
   const extendsOf = new Map<string, string | null>()
   const declares = new Set<string>()
-  for (const row of asked.answer.rows) {
-    const slug = row.values.slug
+  for (const row of asked.rows) {
+    const slug = row.slug
     if (typeof slug !== "string" || slug === "") continue
-    const above = row.values[EXTENDS_SLUG]
+    const above = row[EXTENDS_SLUG]
     extendsOf.set(slug, typeof above === "string" && above !== "" ? above : null)
-    if (opened(row.values[MEDIA_CONFIG_KEY]) !== null) declares.add(slug)
+    if (opened(row[MEDIA_CONFIG_KEY]) !== null) declares.add(slug)
   }
   const kin = new Set<string>()
   for (const slug of extendsOf.keys()) {
     if (!inheritsFrom(slug, declares, extendsOf)) continue
-    if (!(await isFileBacked(slug))) continue
     kin.add(slug)
   }
-  mediaKin = kin
-  return mediaKin
+  return kin
 }

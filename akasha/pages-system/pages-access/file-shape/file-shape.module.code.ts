@@ -1,9 +1,8 @@
+import type { Asked, Query } from "@akasha/pages-system-service/asking"
+import { askingFor } from "@akasha/pages-system-service/calling"
 import { textAt } from "@akasha/utils-narrow/text-at"
-import type { Asked } from "@shared/pages-query"
-import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
 import {
   filePropertyDefinitions,
-  forgetAskedShapes,
   PAGE_TYPE,
   shapeAsked,
 } from "../file-property-defs/file-property-defs.module.code.ts"
@@ -12,12 +11,6 @@ import type { FileReadShape } from "../file-read/file-read.module.code.ts"
 const held = new Map<string, Promise<FileReadShape | null>>()
 
 const slugOfId = new Map<string, Promise<string | null>>()
-
-export function forgetFileShapes(): undefined {
-  held.clear()
-  slugOfId.clear()
-  forgetAskedShapes()
-}
 
 async function readShape(pageTypeSlug: string): Promise<FileReadShape | null> {
   const shape = await shapeAsked(pageTypeSlug)
@@ -41,7 +34,7 @@ export async function fileShapeOf(pageTypeSlug: string): Promise<FileReadShape |
 }
 
 export type PageTypeSlugDeps = {
-  readonly ask: (query: ComposedQuery) => Promise<Asked>
+  readonly ask: (query: Query) => Promise<Asked>
 }
 
 type SlugRead = {
@@ -53,18 +46,16 @@ async function readSlugOfId(
   pageTypeId: string,
   deps: PageTypeSlugDeps | undefined
 ): Promise<SlugRead> {
-  const query: ComposedQuery = {
-    "page-type": PAGE_TYPE,
+  const query: Query = {
+    pageTypeSlug: PAGE_TYPE,
     keys: ["slug", "id"],
     where: { id: { is: pageTypeId } },
     limit: 1,
   }
-  const asked = deps === undefined ? await askComposed(query) : await deps.ask(query)
-  if (asked.ok) {
-    const filed = textAt(asked.answer.rows[0]?.values ?? {}, "slug")
-    if (filed !== null) return { slug: filed, unread: false }
-  }
-  return { slug: null, unread: !asked.ok }
+  const asked = deps === undefined ? await askingFor(query) : await deps.ask(query)
+  if ("refused" in asked) return { slug: null, unread: true }
+  const filed = textAt(asked.rows[0] ?? {}, "slug")
+  return { slug: filed, unread: false }
 }
 
 export async function pageTypeSlugById(
