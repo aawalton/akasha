@@ -1,6 +1,7 @@
 import { listedAt } from "../../indexes/index-reading/index-reading.module.code.ts"
 import { numberAt, valueAt } from "../../page/page-value/page-value.module.code.ts"
 import { answering } from "../page-serving/page-serving.module.code.ts"
+import { writerFor } from "../page-writing/page-writing.module.code.ts"
 
 export const SERVICE_SLUG = "page-query-service"
 export const SERVICE_PAGE_TYPE = "workstation-service"
@@ -19,9 +20,10 @@ export function portFor(root: string): number | null {
 }
 
 export function serverFor(given: Listening) {
+  const writer = writerFor({ root: given.root })
   return Bun.serve({
     port: given.port,
-    fetch: (request) => answering({ root: given.root }, request),
+    fetch: (request) => answering({ root: given.root, writer }, request),
   })
 }
 

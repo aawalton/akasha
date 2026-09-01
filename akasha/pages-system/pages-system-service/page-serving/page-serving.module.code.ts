@@ -1,9 +1,13 @@
 import { asking, type Query, type Test } from "../page-asking/page-asking.module.code.ts"
+import type { Asked, Put, Writer } from "../page-writing/page-writing.module.code.ts"
 
 export const ASK_AT = "/ask"
 
+export const WRITE_AT = "/write"
+
 export type Serving = {
   readonly root: string
+  readonly writer: Writer
 }
 
 function said(body: unknown, status: number): Response {
@@ -100,17 +104,65 @@ export function queryIn(given: unknown): Read {
   return { query }
 }
 
+export type Written = { readonly asked: Asked } | { readonly refused: string }
+
+export function writeIn(given: unknown): Written {
+  const held = objectIn(given)
+  if (held === null) return { refused: "a write is a JSON object" }
+  const writer = held.writer
+  if (typeof writer !== "string") return { refused: "a write names its writer as `writer`" }
+  const message = held.message
+  if (typeof message !== "string") return { refused: "a write says what it is for as `message`" }
+  const asked: {
+    writer: string
+    message: string
+    puts?: readonly Put[]
+    removes?: readonly string[]
+  } = { writer, message }
+  if (held.puts !== undefined) {
+    if (!Array.isArray(held.puts)) return { refused: "`puts` is a list" }
+    const puts: Put[] = []
+    for (const one of held.puts) {
+      const put = objectIn(one)
+      if (put === null) return { refused: "`puts` holds JSON objects" }
+      if (typeof put.path !== "string") return { refused: "a put states its `path` as a string" }
+      if (typeof put.content !== "string") {
+        return { refused: "a put states its `content` as a string" }
+      }
+      puts.push({ path: put.path, content: put.content })
+    }
+    asked.puts = puts
+  }
+  if (held.removes !== undefined) {
+    const removes = stringsIn(held.removes)
+    if (removes === null) return { refused: "`removes` is a list of strings" }
+    asked.removes = removes
+  }
+  return { asked }
+}
+
+async function bodyIn(request: Request): Promise<unknown> {
+  try {
+    return await request.json()
+  } catch {
+    return undefined
+  }
+}
+
 export async function answering(given: Serving, request: Request): Promise<Response> {
   const at = new URL(request.url).pathname
-  if (at !== ASK_AT) return said({ refused: `nothing is asked at ${at}` }, 404)
+  if (at !== ASK_AT && at !== WRITE_AT) return said({ refused: `nothing is asked at ${at}` }, 404)
   if (request.method !== "POST") {
     return said({ refused: `a question arrives by POST rather than by ${request.method}` }, 405)
   }
-  let body: unknown
-  try {
-    body = await request.json()
-  } catch {
-    return said({ refused: "the body did not parse as JSON" }, 400)
+  const body = await bodyIn(request)
+  if (body === undefined) return said({ refused: "the body did not parse as JSON" }, 400)
+  if (at === WRITE_AT) {
+    const read = writeIn(body)
+    if ("refused" in read) return said({ refused: read.refused }, 400)
+    const wrote = await given.writer.writing(read.asked)
+    if ("refused" in wrote) return said({ refused: wrote.refused }, 400)
+    return said(wrote, 200)
   }
   const read = queryIn(body)
   if ("refused" in read) return said({ refused: read.refused }, 400)

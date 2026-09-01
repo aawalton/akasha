@@ -4,7 +4,7 @@ export const pageServing = {
   id: "01a05a0c-e821-77b9-8798-ffe359e087ba",
   pageTypeSlug: "module",
   slug: "page-serving",
-  definition: "a question arriving over HTTP, and the answer sent back",
+  definition: "a question or a write arriving over HTTP, and the answer sent back",
   code: "ts",
   test: "ts",
   invariants: [
@@ -39,6 +39,22 @@ export const pageServing = {
     {
       invariantKind: "departure",
       statement: "A refusal says what was wrong with the question.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write is handed in at a path of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write stating no writer is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write stating no message is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer to a write names the commit it landed as.",
     },
     {
       invariantKind: "absence",

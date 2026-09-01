@@ -4,7 +4,7 @@ export const pageQueryService = {
   id: "01a05a43-5afa-7d0d-8d60-dbd3c3498f99",
   pageTypeSlug: "workstation-service",
   slug: "page-query-service",
-  definition: "the service answering page queries",
+  definition: "the service answering page queries and landing page writes",
   runs: [
     "bun akasha/pages-system/pages-system-service/page-listening/page-listening.module.code.ts",
   ],
