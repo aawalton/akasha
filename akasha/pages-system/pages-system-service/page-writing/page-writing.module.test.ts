@@ -1,14 +1,20 @@
 import { expect, test } from "bun:test"
+import { existsSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
+import { join } from "node:path"
 import {
   type Asked,
   batchIn,
   editsIn,
+  keptIn,
+  landedIn,
   latestIn,
   messageIn,
   pathsIn,
   refusalIn,
   writerFor,
 } from "./page-writing.module.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
 
 const WRITER = "Amy <amy@alanwalton.com>"
 
@@ -133,4 +139,66 @@ test("a write stating what it read does not join the batch before it", () => {
 test("nothing waiting is no batch", () => {
   const taken = batchIn([])
   expect(taken.batch.length).toBe(0)
+})
+
+test("a page a value is kept for is a path of the write", () => {
+  const held = asking({ kept: [{ path: "akasha/a.thing.ts", values: { lastSeenAt: "now" } }] })
+  expect(pathsIn(held)).toEqual(["akasha/a.thing.ts"])
+})
+
+test("a page kept for outside akasha is refused", () => {
+  const held = asking({ kept: [{ path: "pages/a.thing.ts", values: { one: 1 } }] })
+  expect(refusalIn(held)).toContain("outside")
+})
+
+test("a write carrying only a kept value is taken", () => {
+  const held = asking({ kept: [{ path: "akasha/a.thing.ts", values: { one: 1 } }] })
+  expect(refusalIn(held)).toBe(null)
+})
+
+test("two writes in one batch keeping one page merge onto one another in order", () => {
+  const kept = keptIn([
+    asking({ kept: [{ path: "akasha/a.thing.ts", values: { one: 1, two: 2 } }] }),
+    asking({ kept: [{ path: "akasha/a.thing.ts", values: { two: 22 } }] }),
+  ])
+  expect(kept.length).toBe(1)
+  expect(kept[0]?.values).toEqual({ one: 1, two: 22 })
+})
+
+test("a value kept for two pages is kept for each", () => {
+  const kept = keptIn([
+    asking({
+      kept: [
+        { path: "akasha/a.thing.ts", values: { one: 1 } },
+        { path: "akasha/b.thing.ts", values: { two: 2 } },
+      ],
+    }),
+  ])
+  expect(kept.map((one) => one.path)).toEqual(["akasha/a.thing.ts", "akasha/b.thing.ts"])
+})
+
+test("a write carrying only kept values lands no commit and writes beside the page", () => {
+  const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
+  const said = landedIn(root, [
+    asking({
+      kept: [{ path: "akasha/a.thing.ts", values: { lastSeenAt: "2026-09-01T00:00:00.000Z" } }],
+    }),
+  ])
+  expect("refused" in said).toBe(false)
+  expect("commit" in said && said.commit).toBe(null)
+  const beside = join(root, "akasha/a.thing.uncommitted.ts")
+  expect(existsSync(beside)).toBe(true)
+  expect(readFileSync(beside, "utf8")).toContain("2026-09-01T00:00:00.000Z")
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a value kept again merges onto what the page already keeps", () => {
+  const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
+  const at = "akasha/a.thing.ts"
+  landedIn(root, [asking({ kept: [{ path: at, values: { one: 1, two: 2 } }] })])
+  landedIn(root, [asking({ kept: [{ path: at, values: { two: 22 } }] })])
+  const held = readFileSync(join(root, "akasha/a.thing.uncommitted.ts"), "utf8")
+  expect(held).toContain('"one": 1')
+  expect(held).toContain('"two": 22')
+  rmSync(root, { recursive: true, force: true })
 })
