@@ -78,9 +78,9 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     for (const shown of declaredWere(change, path)) {
       const reached = reaches(shown, PAGE_PROPERTY, known)
       if (!("id" in reached)) continue
-      const standing = known.byId(reached.id)
-      if (standing === null) continue
-      judge(standing.path, reached.id, shown)
+      const listed = known.byId(reached.id)
+      if (listed === null) continue
+      judge(listed.path, reached.id, shown)
     }
     if (change.after(path) === null) continue
     const held = propertyNamedIn(change.root, path, under)
