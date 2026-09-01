@@ -5,4 +5,5 @@ export const naming = {
   pageTypeSlug: "domain",
   slug: "naming",
   definition: "how one idea's name is chosen",
+  partSlugs: ["workspace-package/named-for"],
 } as const satisfies Domain

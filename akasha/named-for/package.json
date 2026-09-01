@@ -1,0 +1,9 @@
+{
+  "name": "@akasha/named-for",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./page-stem": "./page-stem/page-stem.module.code.ts",
+    "./name-rule": "./name-rule/name-rule.module.code.ts"
+  }
+}
