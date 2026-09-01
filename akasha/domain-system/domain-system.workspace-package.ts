@@ -14,6 +14,7 @@ export const domainSystem = {
     "page-type/invariant-kind",
     "page-type/directive-kind",
     "page-type/taboo-term",
+    "workspace-package/plain-language",
   ],
   invariants: [
     {

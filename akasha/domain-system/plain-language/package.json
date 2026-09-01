@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/plain-language",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./plain-grammar/plain-grammar.module.code.ts",
+    "./parsing": "./phrase-parsing/phrase-parsing.module.code.ts",
+    "./words": "./word-classing/word-classing.module.code.ts"
+  }
+}
