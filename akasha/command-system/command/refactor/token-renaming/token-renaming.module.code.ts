@@ -162,7 +162,7 @@ function bothOf(
   return "refused" in at ? at : { nodes: every, key: false }
 }
 
-function standingFor(typing: Typing, one: Tokening): Picked {
+function targetFor(typing: Typing, one: Tokening): Picked {
   const named = namedIn(typing, one.path, one.was)
   const keyed = new Set<ts.Node>(declarationsNamed(typing, one.path, one.was))
   if (named.size > 0 && keyed.size > 0) return bothOf(typing, one, named, keyed)
@@ -239,7 +239,7 @@ export function bindingFor(
   textOf: (path: string) => string | null
 ): Made {
   const typing = typingOver(root, over.typed, readingOf(root, textOf))
-  const target = standingFor(typing, one)
+  const target = targetFor(typing, one)
   if ("refused" in target) return { refused: target.refused }
   if (carriedAround(typing, one, target)) {
     return { refused: `${one.path} already carries \`${one.now}\`` }
