@@ -7,6 +7,7 @@ import {
 } from "@akasha/service-system/service-installing"
 import { everyStanding, standingFor } from "@akasha/service-system/service-reading"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { refused } from "../../calling/calling.module.code.ts"
 
 const INPUT = 1
 const DATA = 2
@@ -14,10 +15,6 @@ const OPERATIONAL = 3
 const INSTALL = "install"
 const ALL = "--all"
 const DRY_RUN = "--dry-run"
-
-function refused(said: string, code: number): Answer {
-  return { report: [], refusals: [said], code }
-}
 
 export function service(argv: readonly string[], given: Given): Answer {
   const act = argv[0]

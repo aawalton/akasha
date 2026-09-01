@@ -24,16 +24,13 @@ import {
   writeManifests,
 } from "@akasha/service-system/workload-deploying"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { refused } from "../../calling/calling.module.code.ts"
 
 const INPUT = 1
 const DATA = 2
 const OPERATIONAL = 3
 const DRY_RUN = "--dry-run"
 const SAID = 4
-
-function refused(said: string, code: number): Answer {
-  return { report: [], refusals: [said], code }
-}
 
 export async function deploy(argv: readonly string[], given: Given): Promise<Answer> {
   const strange = argv.find((one) => one.startsWith("-") && one !== DRY_RUN)

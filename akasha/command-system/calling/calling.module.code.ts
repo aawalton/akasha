@@ -62,6 +62,10 @@ export function answering(
   return { report, refusals, code }
 }
 
+export function refused(said: string, code: number): Answer {
+  return { report: [], refusals: [said], code }
+}
+
 export function commandSlugIn(root: string): string | null {
   return indexStanding(root) ? typeSlugById(root, COMMAND_TYPE) : null
 }

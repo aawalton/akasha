@@ -2,6 +2,7 @@ import { alive, type Holder } from "@akasha/file-system/lock-holder"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import { mergeUncommitted, uncommittedIn } from "@akasha/pages-system/page-uncommitted"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { refused } from "../../calling/calling.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 
@@ -29,10 +30,6 @@ export type Standing = {
   readonly page: string
   readonly name: string
   readonly holder: Holder | null
-}
-
-function refused(said: string, code: number): Answer {
-  return { report: [], refusals: [said], code }
 }
 
 export function nameOf(page: string): string {
