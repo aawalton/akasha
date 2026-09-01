@@ -1,4 +1,4 @@
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 
 export type JsonObjectInput<T> = {
   [K in keyof T]: T[K] extends Json | undefined

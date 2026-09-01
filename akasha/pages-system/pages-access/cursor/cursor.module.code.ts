@@ -1,4 +1,4 @@
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import { z } from "zod"
 import type { PageCursor } from "../types/types.module.code.ts"
 

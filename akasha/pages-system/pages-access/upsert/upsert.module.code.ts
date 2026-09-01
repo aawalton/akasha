@@ -1,7 +1,7 @@
 import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
-import type { Json } from "@akasha/supabase-database/json"
 import { isJson } from "@akasha/utils-narrow/is-json"
 import { isRecord } from "@akasha/utils-narrow/is-record"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import { upsertFilePage } from "../file-write/file-write.module.code.ts"
 import {
   enforcePipelineScope,

@@ -34,7 +34,6 @@
     "@akasha/pages-url": "workspace:*",
     "@akasha/file-page-identity": "workspace:*",
     "@shared/pages-query": "workspace:*",
-    "@akasha/supabase-database": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }

@@ -2,7 +2,7 @@ import type { MediaConfig } from "@akasha/pages-core/schema/media-config"
 import { PropertyDefinitionSchema } from "@akasha/pages-core/schema/pages"
 import type { SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
 import type { StorageTier } from "@akasha/pages-core/types"
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import {
   fileMediaConfig,
   fileMediaPageTypeSlugs,

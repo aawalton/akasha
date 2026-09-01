@@ -1,5 +1,5 @@
 import type { Page, PageCondition, PageWhere } from "@akasha/pages-core/page-types"
-import type { Json } from "@akasha/supabase-database/json"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import { camelizeKey, kebabizeKey } from "../file-rows/file-rows.module.code.ts"
 import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
 
