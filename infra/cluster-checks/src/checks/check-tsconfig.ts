@@ -2,10 +2,8 @@
 
 import { resolve } from "node:path"
 import ts from "typescript"
-import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
-import { workspaceDirsAt } from "../../../../tools/lib/graph/producers/lib/workspace-dirs.ts"
-import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
-import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
+import { type TreeReading, treeReadingAt } from "../lib/tree-reading.ts"
+import { workspaceDirsIn } from "../lib/workspace-packages.ts"
 import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import {
   ALLOWED_ALLOW_IMPORTING_TS_EXTENSIONS,
@@ -36,8 +34,6 @@ import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workf
 
 const PREFIX = "[tsconfig]"
 
-const CODE_REPO = "code"
-
 const TSCONFIG_NAME = "tsconfig.json"
 
 const MANIFEST_NAME = "package.json"
@@ -66,8 +62,8 @@ function asRecord(x: unknown): Record<string, unknown> {
   return isRecord(x) ? x : {}
 }
 
-function readTsconfig(ctx: BuildContext, path: string): Record<string, unknown> {
-  const body = readRepoFile(ctx, CODE_REPO, path)
+function readTsconfig(reading: TreeReading, path: string): Record<string, unknown> {
+  const body = reading.read(path)
   if (body === null) throw new Error(`${path} stood in the tree and then read back as nothing`)
   const parsed = ts.parseConfigFileTextToJson(path, body)
   if (parsed.error) {
@@ -79,8 +75,8 @@ function readTsconfig(ctx: BuildContext, path: string): Record<string, unknown> 
   return parsed.config
 }
 
-function functionalTypeOf(ctx: BuildContext, workspace: string): FunctionalType | null {
-  const body = readRepoFile(ctx, CODE_REPO, `${workspace}/${MANIFEST_NAME}`)
+function functionalTypeOf(reading: TreeReading, workspace: string): FunctionalType | null {
+  const body = reading.read(`${workspace}/${MANIFEST_NAME}`)
   if (body === null) return null
   const declared = asRecord(JSON.parse(body)).functionalType
   const read = FunctionalTypeSchema.safeParse(declared)
@@ -152,42 +148,39 @@ interface Member {
   readonly path: string
 }
 
-function workspaceTsconfigs(ctx: BuildContext): readonly Member[] {
-  const standing = new Set(ctx.repoFiles.get(CODE_REPO) ?? [])
+function workspaceTsconfigs(reading: TreeReading): readonly Member[] {
   const members: Member[] = []
-  for (const workspace of workspaceDirsAt(ctx, CODE_REPO)) {
+  for (const workspace of workspaceDirsIn(reading)) {
     const path = `${workspace}/${TSCONFIG_NAME}`
-    if (standing.has(path)) members.push({ workspace, path })
+    if (reading.hasFile(path)) members.push({ workspace, path })
   }
   return members
 }
 
 const MEMBERSHIP_FROM =
-  "the workspace list at the tree sha this run was given — the root " +
+  "the workspace list the tracked tree states — the root " +
   "`package.json` `workspaces` field expanded against the tracked tree, kept to the " +
   "workspaces that carry a `tsconfig.json`. At 1075b25bba470c34e695e8aa1660b7268f7bc7e6 " +
-  "that stood at 228 of 231 workspaces. `workspaceDirsAt` hands back an empty list rather " +
+  "that stood at 228 of 231 workspaces. `workspaceDirsIn` hands back an empty list rather " +
   "than raising when the root manifest is unreadable, so a run arriving under this least " +
   "count read a smaller tree than the repo holds; lower it only alongside deliberately " +
   "retiring that many workspaces"
 
-async function main(): Promise<never> {
+function main(): never {
   const parsed = parseArgs(process.argv.slice(2), FLAG_SPEC, { passthrough: true })
 
-  let ctx: BuildContext
-  let graph: Graph
+  const root = codeRoot()
+
+  let reading: TreeReading
+  let graphs: ImportGraphs
   try {
-    ctx = readAt(parsed.flags.treeSha).ctx
-    graph = await buildFrom(ctx)
+    reading = treeReadingAt(root, parsed.flags.treeSha)
+    graphs = rollUpPackageImportGraphs(reading)
   } catch (err) {
-    return toolExit(
-      `failed to read the tree at ${parsed.flags.treeSha}: ${errorMessage(err)}`
-    )
+    return toolExit(`failed to read the tree at ${parsed.flags.treeSha}: ${errorMessage(err)}`)
   }
 
-  const root = codeRoot()
-  const members = workspaceTsconfigs(ctx)
-  const graphs = rollUpPackageImportGraphs(graph)
+  const members = workspaceTsconfigs(reading)
   const cycles = findCycles(graphs.included)
 
   const nested = new Map<string, Violation[]>()
@@ -198,8 +191,8 @@ async function main(): Promise<never> {
   }
 
   const examine = (member: Member): readonly Violation[] => {
-    const tsconfig = readTsconfig(ctx, member.path)
-    const functionalType = functionalTypeOf(ctx, member.workspace)
+    const tsconfig = readTsconfig(reading, member.path)
+    const functionalType = functionalTypeOf(reading, member.workspace)
     const conventions =
       functionalType === null
         ? []
@@ -251,6 +244,8 @@ async function main(): Promise<never> {
   })
 }
 
-main().catch((err: unknown) => {
+try {
+  main()
+} catch (err: unknown) {
   exitOnToolError({ error: err, prefix: PREFIX })
-})
+}

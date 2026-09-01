@@ -13,7 +13,7 @@ import {
   type TailwindApp,
   type TailwindSourceViolation,
 } from "../lib/tailwind-sources-violations.ts"
-import { type TreeReading, worktreeReading } from "../lib/tree-reading.ts"
+import { type TreeReading, treeReadingAt } from "../lib/tree-reading.ts"
 import {
   readWorkspacePackages,
   type WorkspacePackage,
@@ -121,14 +121,14 @@ function main(): never {
   let uiPackageNames: ReadonlySet<string>
   let entryCssPaths: ReadonlySet<string>
   try {
-    reading = worktreeReading(repoRoot)
+    reading = treeReadingAt(repoRoot, args.treeSha)
     packages = readWorkspacePackages(reading)
     cssFiles = readCssFiles(reading, (relPath) => workspaceOwnerOf(relPath, packages))
     packageSourceRootByName = computePackageSourceRootByName(packages)
     uiPackageNames = computeUiPackageNames(reading)
     entryCssPaths = computeEntryCssPaths(reading, cssFiles)
   } catch (err) {
-    return toolExit(`failed to read the tree at ${repoRoot}: ${errorMessage(err)}`)
+    return toolExit(`failed to read the tree at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
   const input = {
@@ -147,12 +147,13 @@ function main(): never {
     membership: {
       kind: "enumerated",
       because:
-        "`enumerateTailwindApps` is a straight read of every `.css` file the tracked tree " +
-        "holds, narrowed by a per-file read that raises rather than answering `not an entry`, " +
-        "and both halves arrive whole or not at all: the file list comes from one " +
-        "`git ls-files` that raises rather than handing back a short list, and a stylesheet " +
-        "whose body will not read raises here rather than reading as a stylesheet that is not " +
-        "an entry",
+        "`enumerateTailwindApps` is a straight read of every `.css` file the tree at the sha " +
+        "this run was given holds, narrowed by a per-file read that raises rather than " +
+        "answering `not an entry`, and both halves arrive whole or not at all: the file list " +
+        "comes from one `git ls-tree` over that sha which raises rather than handing back a " +
+        "short list, and the bodies come from one `git cat-file --batch` over that same tree " +
+        "which raises unless it accounts for every byte, with a body it has no entry for " +
+        "raising here rather than reading as a stylesheet that is not an entry",
     },
     labelOf: (app) => app.cssPath,
     siteOf: (app) => resolve(repoRoot, app.cssPath),
