@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import { fileItself, ITSELF } from "./file-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -13,7 +13,7 @@ const PATH = "akasha/thing/thing.module.ts"
 
 test("a file warrants itself, by the body standing at it", () => {
   const root = scratch.rootFor("akasha-file-itself-")
-  const oid = standing(root, PATH, "one\n")
+  const oid = writing(root, PATH, "one\n")
   expect(fileItself(root, PATH)).toEqual([{ path: PATH, oid, owed: ITSELF }])
 })
 
@@ -30,13 +30,13 @@ test("a directory standing at the path warrants nothing of itself", () => {
 
 test("the body warranted is the body standing on disk, not the one read before", () => {
   const root = scratch.rootFor("akasha-file-itself-")
-  standing(root, PATH, "one\n")
-  const oid = standing(root, PATH, "two\n")
+  writing(root, PATH, "one\n")
+  const oid = writing(root, PATH, "two\n")
   expect(fileItself(root, PATH)[0]?.oid).toBe(oid)
 })
 
 test("a warrant carries why the reading is owed", () => {
   const root = scratch.rootFor("akasha-file-itself-")
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   expect(fileItself(root, PATH)[0]?.owed).toBe(ITSELF)
 })

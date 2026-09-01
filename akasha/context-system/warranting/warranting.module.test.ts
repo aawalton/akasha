@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
 import { blobIdOf, recordRead, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import { pageFiled } from "@akasha/indexes/testing"
 import {
   agentPathOf,
@@ -46,7 +46,7 @@ function rootWith(every: readonly Said[] = [{ slug: "says-so" }]): string {
 
 test("a path is asked what it warrants, and the warrants gathered say it", () => {
   const root = rootWith()
-  const oid = standing(root, PATH, "one\n")
+  const oid = writing(root, PATH, "one\n")
   expect(warrantsIn(root, PATH, "write")).toEqual([{ path: PATH, oid, owed: OWED }])
 })
 
@@ -66,7 +66,7 @@ test("a warrant gathered says its slug, its page and the flags it stated", () =>
 
 test("a warrant that does not run on write is not run by a write", () => {
   const root = rootWith([{ slug: "says-so", runsOnWrite: false }])
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   expect(warrantsIn(root, PATH, "write")).toEqual([])
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
   expect(warrantsIn(root, PATH, "read").length).toBe(1)
@@ -94,7 +94,7 @@ test("a path warranting nothing is asked and passes", () => {
 
 test("a path the record holds no reading of is refused", () => {
   const root = rootWith()
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(1)
   expect(said[0]).toContain("the record does not show you read this")
@@ -102,7 +102,7 @@ test("a path the record holds no reading of is refused", () => {
 
 test("a reading of the body standing now answers for it", () => {
   const root = rootWith()
-  const oid = standing(root, PATH, "one\n")
+  const oid = writing(root, PATH, "one\n")
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
 })
@@ -110,7 +110,7 @@ test("a reading of the body standing now answers for it", () => {
 test("a reading of another body is refused, and both ids are said", () => {
   const root = rootWith()
   const was = blobIdOf(new TextEncoder().encode("one\n"))
-  const oid = standing(root, PATH, "two\n")
+  const oid = writing(root, PATH, "two\n")
   recordRead(root, AGENT, { path: PATH, oid: was, seenAt: 1, mechanicalOid: null })
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(1)
@@ -122,61 +122,61 @@ test("a reading of another body is refused, and both ids are said", () => {
 test("a reading whose mechanical id is the body standing now answers for it", () => {
   const root = rootWith()
   const was = blobIdOf(new TextEncoder().encode("one\n"))
-  const oid = standing(root, PATH, "two\n")
+  const oid = writing(root, PATH, "two\n")
   recordRead(root, AGENT, { path: PATH, oid: was, seenAt: 1, mechanicalOid: oid })
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
 })
 
 test("when the body was read is not asked, only which body", () => {
   const root = rootWith()
-  const oid = standing(root, PATH, "one\n")
+  const oid = writing(root, PATH, "one\n")
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 0, mechanicalOid: null })
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
 })
 
 test("one agent's reading answers for no other agent's write", () => {
   const root = rootWith()
-  const oid = standing(root, PATH, "one\n")
+  const oid = writing(root, PATH, "one\n")
   recordRead(root, OTHER, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
   expect(unreadIn(root, AGENT, [PATH]).length).toBe(1)
 })
 
 test("a refusal says what the reading is owed for", () => {
   const root = rootWith()
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   expect(unreadIn(root, AGENT, [PATH])[0]).toContain(OWED)
 })
 
 test("a refusal names the read that would answer the warrant", () => {
   const root = rootWith()
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   expect(unreadIn(root, AGENT, [PATH])[0]).toContain(`akasha read --file-path ${PATH}`)
 })
 
 test("every path is answered for, not only the first", () => {
   const root = rootWith()
   const other = "akasha/thing/other.module.ts"
-  standing(root, PATH, "one\n")
-  standing(root, other, "two\n")
+  writing(root, PATH, "one\n")
+  writing(root, other, "two\n")
   expect(unreadIn(root, AGENT, [PATH, other]).length).toBe(2)
 })
 
 test("a path named twice is refused once", () => {
   const root = rootWith()
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   expect(unreadIn(root, AGENT, [PATH, PATH]).length).toBe(1)
 })
 
 test("a path warranted by two warrants is judged once", () => {
   const root = rootWith([{ slug: "says-so" }, { slug: "says-so-again" }])
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   expect(warrantsIn(root, PATH, "write").length).toBe(2)
   expect(unreadIn(root, AGENT, [PATH]).length).toBe(1)
 })
 
 test("a subagent's reading does not answer for its seat", () => {
   const root = rootWith()
-  const oid = standing(root, PATH, "one\n")
+  const oid = writing(root, PATH, "one\n")
   recordRead(root, UNDER, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
   expect(unreadIn(root, UNDER, [PATH])).toEqual([])
   const said = unreadIn(root, AGENT, [PATH])
@@ -186,7 +186,7 @@ test("a subagent's reading does not answer for its seat", () => {
 
 test("a seat's reading does not answer for a subagent acting under it", () => {
   const root = rootWith()
-  const oid = standing(root, PATH, "one\n")
+  const oid = writing(root, PATH, "one\n")
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
   const said = unreadIn(root, UNDER, [PATH])
@@ -196,7 +196,7 @@ test("a seat's reading does not answer for a subagent acting under it", () => {
 
 test("one subagent's reading does not answer for another under the same seat", () => {
   const root = rootWith()
-  const oid = standing(root, PATH, "one\n")
+  const oid = writing(root, PATH, "one\n")
   recordRead(root, UNDER, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
   const other = `${AGENT}${SUBAGENT_MARK}subb`
   expect(unreadIn(root, other, [PATH]).length).toBe(1)
@@ -204,7 +204,7 @@ test("one subagent's reading does not answer for another under the same seat", (
 
 test("a call charged to no agent is refused whole", () => {
   const root = rootWith()
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   expect(unreadIn(root, null, [PATH])).toEqual([NO_AGENT])
 })
 
@@ -357,7 +357,7 @@ test("a seat owes what its page names", () => {
 
 test("a seat owes what its page names rather than the page itself", () => {
   const root = rootWith()
-  standing(root, SEAT_AT, "one\n")
+  writing(root, SEAT_AT, "one\n")
   pageFiled(root, AGENT, SEAT_AT)
   expect(warrantsIn(root, SEAT_AT, "write").length).toBe(1)
   expect(unheldIn(root, AGENT)).toEqual([])

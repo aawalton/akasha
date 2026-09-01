@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import { idFiled, listedFiled, pathFiled } from "@akasha/indexes/testing"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import { change } from "../../check-scratch/check-scratch.module.code.ts"
@@ -92,14 +92,14 @@ test("a format answering to a name its slug does not make is refused", () => {
 function rooted(body: string): string {
   const root = scratch.rootFor("akasha-name-format-shape-")
   const page = "akasha/f/lower-kebab-case.name-format.ts"
-  standing(root, "akasha/name-matching/name-matching.module.code.ts", MATCHING_CODE)
-  standing(
+  writing(root, "akasha/name-matching/name-matching.module.code.ts", MATCHING_CODE)
+  writing(
     root,
     page,
     `export const lowerKebabCase = { id: "${ID}", slug: "lower-kebab-case",` +
       ' pageTypeSlug: "name-format", code: "ts" }\n'
   )
-  standing(root, AT, body)
+  writing(root, AT, body)
   const held = [{ path: page, id: ID }]
   idFiled(root, ID, held)
   listedFiled(root, "name-format", "lower-kebab-case", held)

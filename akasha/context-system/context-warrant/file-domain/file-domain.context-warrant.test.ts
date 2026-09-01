@@ -3,7 +3,7 @@ import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import { idTakenFrom, pathFiled } from "@akasha/indexes/testing"
 import {
   domainListed,
@@ -23,7 +23,7 @@ const AGENT = "01a04f58-a7ee-7000-94ad-769aa16fc838"
 
 function beside(root: string, one: Listed, ending: string): string {
   const at = `${one.path.slice(0, -".ts".length)}.${ending}.ts`
-  standing(root, at, "body\n")
+  writing(root, at, "body\n")
   pathFiled(root, at, [one])
   return at
 }
@@ -88,7 +88,7 @@ test("a page named among the parts of several pages warrants every one of them, 
 test("a cold index refuses rather than warranting nothing", () => {
   const root = scratch.rootFor("akasha-file-domain-")
   const path = "akasha/part/part.domain.ts"
-  standing(root, path, "body\n")
+  writing(root, path, "body\n")
   expect(() => fileDomain(root, path)).toThrow("is not there")
 })
 
@@ -98,7 +98,7 @@ test("a path standing at no page warrants nothing", () => {
   const part = domainListed(root, "part")
   namesPart(root, whole, part)
   const loose = "akasha/part/loose.ts"
-  standing(root, loose, "body\n")
+  writing(root, loose, "body\n")
   expect(pathsOf(fileDomain(root, loose))).toEqual([])
 })
 
@@ -133,7 +133,7 @@ test("a naming page not read is refused, and the refusal says why it is owed", (
   const whole = domainListed(root, "whole")
   const part = domainListed(root, "part")
   namesPart(root, whole, part)
-  const oid = standing(root, part.path, "one\n")
+  const oid = writing(root, part.path, "one\n")
   recordRead(root, AGENT, { path: part.path, oid, seenAt: 1, mechanicalOid: null })
   const said = unreadIn(root, AGENT, [part.path])
   expect(said.length).toBe(1)

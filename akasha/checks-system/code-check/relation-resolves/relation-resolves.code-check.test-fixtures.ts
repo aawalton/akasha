@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing as wrote } from "@akasha/command-system/scratching/testing"
+import { writing as wrote } from "@akasha/command-system/scratching/testing"
 import {
   idFiled,
   listedAlsoFiled,

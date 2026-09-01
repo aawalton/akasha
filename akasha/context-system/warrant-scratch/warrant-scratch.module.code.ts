@@ -1,4 +1,4 @@
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import { idFiled, listedFiled, pathFiled, relationFiled } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { mintedId } from "@akasha/testing-system/minting"
@@ -29,7 +29,7 @@ function pageListed(
   const id = mintedId(slug)
   const held = { path, id }
   const said = stated === "" ? "" : `, ${stated}`
-  standing(
+  writing(
     root,
     path,
     `export const ${exportedAs(slug)} = { id: "${id}", slug: "${slug}"${said} }\n`
@@ -77,7 +77,7 @@ export function pageTypeListed(root: string, slug: string, above: string | null)
   const id = mintedId(`type-${slug}`)
   const path = `akasha/${slug}/${slug}.page-type.ts`
   const said = above === null ? "" : `, extendsSlug: "page-type/${above}"`
-  standing(
+  writing(
     root,
     path,
     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}"${said} }\n`
@@ -88,7 +88,7 @@ export function pageTypeListed(root: string, slug: string, above: string | null)
 
 export function seatListed(root: string, slug: string, stated: string): string {
   const path = `akasha/seat-system/seat/seats/${slug}.seat.ts`
-  standing(root, path, `export const ${exportedAs(slug)} = { ${stated} }\n`)
+  writing(root, path, `export const ${exportedAs(slug)} = { ${stated} }\n`)
   return path
 }
 

@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing as wrote } from "@akasha/command-system/scratching/testing"
+import { writing as wrote } from "@akasha/command-system/scratching/testing"
 import { pathFiled, schemaFiled } from "../index-reading/index-reading.module.test-fixtures.ts"
 import {
   bodiesAt,

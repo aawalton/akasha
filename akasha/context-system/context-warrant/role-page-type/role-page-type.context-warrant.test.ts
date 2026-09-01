@@ -3,7 +3,7 @@ import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import {
   pageTypeListed,
   pathsOf,
@@ -84,7 +84,7 @@ test("a type not read is refused, and the refusal says the seat owes it", () => 
   const chain = typeWorld(root)
   roleListed(root, "definer")
   const at = seatListed(root, "one", `roleSlug: "definer"`)
-  const oid = standing(root, at, `export const one = { roleSlug: "definer" }\n`)
+  const oid = writing(root, at, `export const one = { roleSlug: "definer" }\n`)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
   const said = unreadIn(root, AGENT, [at])
   expect(said.length).toBe(chain.length)

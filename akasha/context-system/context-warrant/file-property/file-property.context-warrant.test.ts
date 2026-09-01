@@ -3,7 +3,7 @@ import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { mintedId } from "@akasha/testing-system/minting"
 import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
@@ -22,7 +22,7 @@ const PATH = "akasha/thing/thing.module.ts"
 function pageType(root: string, slug: string): undefined {
   const id = mintedId(slug)
   const path = `akasha/${slug}/${slug}.page-type.ts`
-  standing(
+  writing(
     root,
     path,
     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}" }\n`
@@ -33,7 +33,7 @@ function pageType(root: string, slug: string): undefined {
 function propertyPage(root: string, slug: string, pageTypeSlug: string): string {
   const id = mintedId(slug)
   const path = `akasha/thing/properties/${slug}.${pageTypeSlug}.ts`
-  standing(
+  writing(
     root,
     path,
     `export const held = { id: "${id}", pageTypeSlug: "${pageTypeSlug}", slug: "${slug}" }\n`
@@ -54,7 +54,7 @@ function statingWorld(root: string): readonly string[] {
 
 function stating(root: string, path: string, keys: readonly string[]): string {
   const said = keys.map((one) => `  ${one}: "one",`).join("\n")
-  return standing(root, path, `export const thing = {\n${said}\n}\n`)
+  return writing(root, path, `export const thing = {\n${said}\n}\n`)
 }
 
 function warrantsAt(root: string, path: string): readonly Warrant[] {
@@ -82,7 +82,7 @@ test("a property warrants the body standing at the page defining it", () => {
 test("a page stating no property warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
-  standing(root, PATH, "export const thing = {}\n")
+  writing(root, PATH, "export const thing = {}\n")
   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
@@ -91,7 +91,7 @@ test("a property the type allows and the page does not state warrants nothing", 
   pageType(root, "module")
   const definition = propertyPage(root, "definition", "text-property")
   const code = propertyPage(root, "code", "file-property")
-  standing(
+  writing(
     root,
     "akasha/module/module.page-type.ts",
     [
@@ -140,7 +140,7 @@ test("a file standing beside a page is no page, and warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
   const beside = "akasha/thing/thing.module.code.ts"
-  standing(root, beside, `export const thing = { id: "one", definition: "two" }\n`)
+  writing(root, beside, `export const thing = { id: "one", definition: "two" }\n`)
   expect(pathsOf(warrantsAt(root, beside))).toEqual([])
 })
 
@@ -148,7 +148,7 @@ test("a file naming no page type in its name warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
   const notes = "akasha/thing/thing.notes.ts"
-  standing(root, notes, `export const thing = { id: "one", definition: "two" }\n`)
+  writing(root, notes, `export const thing = { id: "one", definition: "two" }\n`)
   expect(pathsOf(warrantsAt(root, notes))).toEqual([])
 })
 
@@ -156,28 +156,28 @@ test("a file whose name says no stem and no tail warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
   const loose = "akasha/thing/loose.ts"
-  standing(root, loose, `export const loose = { id: "one", definition: "two" }\n`)
+  writing(root, loose, `export const loose = { id: "one", definition: "two" }\n`)
   expect(pathsOf(warrantsAt(root, loose))).toEqual([])
 })
 
 test("a page whose export is no value it can read warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
-  standing(root, PATH, "export const thing = null\n")
+  writing(root, PATH, "export const thing = null\n")
   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
 test("a page answering to no export named for its slug warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
-  standing(root, PATH, `export const other = { id: "one", definition: "two" }\n`)
+  writing(root, PATH, `export const other = { id: "one", definition: "two" }\n`)
   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
 test("a page that will not load warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
-  standing(root, PATH, "export const thing = {\n")
+  writing(root, PATH, "export const thing = {\n")
   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
@@ -186,7 +186,7 @@ test("a page defining a property does not warrant itself for it", () => {
   pageType(root, "text-property")
   const path = "akasha/thing/properties/slug.text-property.ts"
   const id = mintedId("slug")
-  standing(root, path, `export const slug = { id: "${id}", slug: "slug" }\n`)
+  writing(root, path, `export const slug = { id: "${id}", slug: "slug" }\n`)
   listedFiled(root, "text-property", "slug", [{ path, id }])
   schemaFiled(root, "text-property", "slug", [
     { pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "slug" },

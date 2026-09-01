@@ -3,7 +3,7 @@ import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import {
   domainListed,
   initiativeListed,
@@ -126,7 +126,7 @@ test("an initiative above not read is refused, and the refusal says why it is ow
   const top = initiativeListed(root, "one-work")
   initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
-  const oid = standing(root, at, `export const one = { assignmentSlug: "initiative/one-step" }\n`)
+  const oid = writing(root, at, `export const one = { assignmentSlug: "initiative/one-step" }\n`)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
   const said = unreadIn(root, AGENT, [at])
   expect(said.length).toBe(1)

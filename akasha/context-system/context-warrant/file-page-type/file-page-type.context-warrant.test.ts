@@ -3,7 +3,7 @@ import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import { schemaFiled } from "@akasha/indexes/testing"
 import { pageTypeListed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
@@ -32,14 +32,14 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
 test("a page warrants its type, and every type that one extends", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   const chain = typeWorld(root)
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   expect(pathsOf(warrantsAt(root, PATH))).toEqual(chain)
 })
 
 test("a type warrants the body standing at the type's page", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   typeWorld(root)
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   const held = warrantsAt(root, PATH)[0]
   expect(held?.oid).toBe(
     blobIdOf(new TextEncoder().encode(readFileSync(join(root, held?.path ?? ""), "utf8")))
@@ -54,7 +54,7 @@ test("a file standing beside a page warrants no type of its own", () => {
     { pageTypeSlug: "file-property", targetPageTypeSlug: null, slug: "code" },
   ])
   const beside = "akasha/thing/thing.module.code.ts"
-  standing(root, beside, "body\n")
+  writing(root, beside, "body\n")
   expect(pathsOf(warrantsAt(root, beside))).toEqual([])
 })
 
@@ -62,7 +62,7 @@ test("a file named for no page type warrants no type", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   typeWorld(root)
   const beside = "akasha/thing/thing.module.notes.ts"
-  standing(root, beside, "body\n")
+  writing(root, beside, "body\n")
   expect(pathsOf(warrantsAt(root, beside))).toEqual([])
 })
 
@@ -70,7 +70,7 @@ test("a file naming no page type in its name answers to no type", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   typeWorld(root)
   const loose = "akasha/thing/loose.ts"
-  standing(root, loose, "body\n")
+  writing(root, loose, "body\n")
   expect(pathsOf(warrantsAt(root, loose))).toEqual([])
 })
 
@@ -79,14 +79,14 @@ test("a chain that turns back on itself is walked once", () => {
   const one = pageTypeListed(root, "one", "two")
   const two = pageTypeListed(root, "two", "one")
   const at = "akasha/thing/thing.one.ts"
-  standing(root, at, "body\n")
+  writing(root, at, "body\n")
   expect(pathsOf(warrantsAt(root, at))).toEqual([one, two])
 })
 
 test("a type whose page is not there warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   const chain = typeWorld(root)
-  standing(root, PATH, "one\n")
+  writing(root, PATH, "one\n")
   rmSync(join(root, chain[0] ?? ""))
   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
@@ -95,7 +95,7 @@ test("a type not read is refused, and the refusal says the type is owed", () => 
   const root = scratch.rootFor("akasha-file-page-type-")
   warrantsStanding(root)
   typeWorld(root)
-  const oid = standing(root, PATH, "one\n")
+  const oid = writing(root, PATH, "one\n")
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(3)
@@ -110,7 +110,7 @@ test("one reading of a type answers for every path of that type", () => {
   for (const at of [PATH, other]) {
     recordRead(root, AGENT, {
       path: at,
-      oid: standing(root, at, "one\n"),
+      oid: writing(root, at, "one\n"),
       seenAt: 1,
       mechanicalOid: null,
     })

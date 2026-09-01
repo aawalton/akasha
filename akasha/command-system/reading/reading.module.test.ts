@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { standing } from "../scratching/scratching.module.test-fixtures.ts"
+import { writing } from "../scratching/scratching.module.test-fixtures.ts"
 import type { Opening } from "./reading.module.code.ts"
 import {
   ACTING_NAMED,
@@ -148,8 +148,8 @@ test("a carry chains off the mechanical id, and the body read stays pinned", () 
 
 test("a carried reading stands at the new path and the old file is gone", () => {
   const root = scratch.rootFor("akasha-reading-")
-  const was = standing(root, A, "one\n")
-  const now = standing(root, B, "two\n")
+  const was = writing(root, A, "one\n")
+  const now = writing(root, B, "two\n")
   recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, mechanicalOid: null })
   carryReadings(root, [{ was: A, now: B, from: was }])
   expect(readingIn(root, AGENT, B)).toEqual({
@@ -165,7 +165,7 @@ test("a carried reading stands at the new path and the old file is gone", () => 
 test("a body rewritten where it stands keeps its path and gains the mechanical id", () => {
   const root = scratch.rootFor("akasha-reading-")
   const was = blobIdOf(new TextEncoder().encode("one\n"))
-  const now = standing(root, A, "two\n")
+  const now = writing(root, A, "two\n")
   recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, mechanicalOid: null })
   carryReadings(root, [{ was: A, now: A, from: was }])
   expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: was, seenAt: 1, mechanicalOid: now })
@@ -174,8 +174,8 @@ test("a body rewritten where it stands keeps its path and gains the mechanical i
 
 test("every agent holding the body is carried, not the first one found", () => {
   const root = scratch.rootFor("akasha-reading-")
-  const was = standing(root, A, "one\n")
-  const now = standing(root, B, "two\n")
+  const was = writing(root, A, "one\n")
+  const now = writing(root, B, "two\n")
   for (const one of [AGENT, OTHER]) {
     recordRead(root, one, { path: A, oid: was, seenAt: 1, mechanicalOid: null })
   }

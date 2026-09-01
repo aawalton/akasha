@@ -3,7 +3,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, readingIn, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, pageFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
@@ -38,8 +38,8 @@ function seated(root: string): string {
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@nowhere"])
   gitIn(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(declaringUnder(TREE))) standing(root, path, body)
-  standing(root, SEAT_AT, SEAT_BODY)
+  for (const [path, body] of Object.entries(declaringUnder(TREE))) writing(root, path, body)
+  writing(root, SEAT_AT, SEAT_BODY)
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])
   rebuiltIn(root, TREE)
@@ -81,7 +81,7 @@ test("a page takes the assignment from the page its seat stands at", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("subagent-standing-")
-    standing(root, SEAT_AT, SEAT_BODY)
+    writing(root, SEAT_AT, SEAT_BODY)
     listedFiled(root, "seat", "akasha", [{ path: SEAT_AT, id: SEAT_ID }])
     expect(assignedTo(root, "akasha")).toBe("domain/akasha-system")
   } finally {

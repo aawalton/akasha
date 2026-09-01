@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { standing } from "@akasha/command-system/scratching/testing"
+import { writing } from "@akasha/command-system/scratching/testing"
 import { idFiled, listedFiled, pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { shadowFor } from "@akasha/pages-system/shadow"
@@ -117,7 +117,7 @@ function filed(
   slug: string,
   body: string
 ): undefined {
-  standing(root, path, body)
+  writing(root, path, body)
   const held = [{ path, id }]
   idFiled(root, id, held)
   listedFiled(root, kind, slug, held)
@@ -143,7 +143,7 @@ function rooted(): string {
     "no-strays",
     `export const noStrays = { id: "${idFor(1)}", slug: "no-strays", pageTypeSlug: "folder-shape", code: "ts" }\n`
   )
-  standing(root, "akasha/s/no-strays.folder-shape.code.ts", SHAPE_CODE)
+  writing(root, "akasha/s/no-strays.folder-shape.code.ts", SHAPE_CODE)
   pathFiled(root, "akasha/s/no-strays.folder-shape.code.ts", [{ path: shape, id: idFor(1) }])
   const declares =
     '[{ pagePropertySlug: "id", required: true, many: false },' +
