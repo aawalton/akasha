@@ -7,7 +7,7 @@ import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
-import type { Json } from "../../../shared/supabase-database/src/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import type { ProfileMetadata } from "@temper/game-characters/build-metadata"
 import { useCallback, useMemo } from "react"
 

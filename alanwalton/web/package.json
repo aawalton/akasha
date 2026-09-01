@@ -48,7 +48,7 @@
     "@shared/recurrence": "workspace:*",
     "@shared/status-bar-access": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
-    "@shared/supabase-database": "workspace:*",
+    "@akasha/supabase-database": "workspace:*",
     "@shared/supabase-rr": "workspace:*",
     "@shared/supabase-server": "workspace:*",
     "@shared/utils-narrow": "workspace:*",

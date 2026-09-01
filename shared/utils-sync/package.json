@@ -15,7 +15,7 @@
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
-    "@shared/supabase-database": "workspace:*",
+    "@akasha/supabase-database": "workspace:*",
     "@shared/supabase-server": "workspace:*"
   },
   "devDependencies": {

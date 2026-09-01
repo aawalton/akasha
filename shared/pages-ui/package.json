@@ -58,7 +58,7 @@
     "@shared/errors-client": "workspace:*",
     "@shared/object-store": "workspace:*",
     "@shared/recurrence": "workspace:*",
-    "@shared/supabase-database": "workspace:*",
+    "@akasha/supabase-database": "workspace:*",
     "@shared/supabase-rr": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@akasha/web-build-sha": "workspace:*",

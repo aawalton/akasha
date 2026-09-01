@@ -1,6 +1,6 @@
 import type { PageWhere } from "@akasha/pages-core/page-types"
 import { askComposed } from "@shared/pages-query/ask"
-import type { Database } from "../../supabase-database/src/generated/database"
+import type { Database } from "@akasha/supabase-database"
 import type { SupabaseClient } from "@supabase/supabase-js"
 
 export const QUESTION_PAGE_TYPE_SLUG = "question"

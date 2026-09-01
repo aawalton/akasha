@@ -1,4 +1,4 @@
-import { type Json } from "../../../supabase-database/src/generated/database"
+import { type Json } from "@akasha/supabase-database/json"
 import { createPage } from "@akasha/pages-access/create"
 import { softDeletePage } from "@akasha/pages-access/delete"
 import { patchPropertyDefinitionById } from "@akasha/pages-access/property-definition"

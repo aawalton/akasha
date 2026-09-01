@@ -1,4 +1,4 @@
-import type { Database } from "../../../../../shared/supabase-database/src/generated/database"
+import type { Database } from "@akasha/supabase-database"
 import { getUser, getUserFromBearerToken, parseBearerToken } from "@shared/supabase-rr/auth/server"
 import { createBearerScopedClient, createServerClient } from "@shared/supabase-rr/server"
 import { createClient, type SupabaseClient } from "@supabase/supabase-js"

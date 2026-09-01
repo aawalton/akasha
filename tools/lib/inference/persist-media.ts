@@ -1,4 +1,4 @@
-import type { Json } from "@shared/supabase-database/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 
 export interface MediaPersistDeps {
   readonly createPage: (properties: Record<string, Json>) => Promise<string>

@@ -1,5 +1,5 @@
 import type { PagesStore } from "@akasha/pages-ui-store/collection/store"
-import type { Json } from "../../../../supabase-database/src/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import { isRecord } from "../../../../utils-narrow/src/is-record"
 
 type PagesCollection = PagesStore["collection"]

@@ -9,7 +9,7 @@ import { useOptimisticCreatePage } from "@shared/pages-ui/supabase/mutations/use
 import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useOptimisticSoftDeletePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-soft-delete-page"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
-import type { Json } from "../../../shared/supabase-database/src/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import type { CompanionBuildMetadata } from "@temper/game-characters/build-metadata"
 import { type CompanionRoleId } from "@temper/game-companions-core/companion-roles"
 import { companionRoles } from "@temper/game-companions-core/generated/temper-companion-role.generated"

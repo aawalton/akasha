@@ -5,7 +5,7 @@ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
-import type { Json } from "../../../../../shared/supabase-database/src/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import { asRecord } from "../../../../../shared/utils-narrow/src/as-record"
 import type {
   AccountCompletion,

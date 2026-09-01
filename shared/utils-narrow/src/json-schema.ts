@@ -1,4 +1,4 @@
-import type { Json } from "../../supabase-database/src/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import { z } from "zod"
 
 export const JsonSchema: z.ZodType<Json> = z.lazy(() =>

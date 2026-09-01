@@ -1,4 +1,4 @@
-import type { Database } from "../../supabase-database/src/generated/database"
+import type { Database } from "@akasha/supabase-database"
 import {
   createClient as createSupabaseClient,
   type SupabaseClient,

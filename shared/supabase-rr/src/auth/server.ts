@@ -1,6 +1,6 @@
 import { getUserFromToken as baseGetUserFromToken } from "../../../supabase-auth/src/auth"
 import { type SupabaseUser } from "../../../supabase-auth/src/types"
-import type { Database } from "../../../supabase-database/src/generated/database"
+import type { Database } from "@akasha/supabase-database"
 import { createClient } from "@supabase/supabase-js"
 import { z } from "zod"
 import { resolveRequestSession } from "../request-session-cache"

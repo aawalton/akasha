@@ -25,7 +25,6 @@
     "@shared/errors-client": "workspace:*",
     "@shared/errors-core": "workspace:*",
     "@akasha/pages-access": "workspace:*",
-    "@shared/supabase-database": "workspace:*",
     "@shared/supabase-server": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",

@@ -1,6 +1,6 @@
 import { buildBrowserLaunchEnv } from "@akasha/browser-launch-env"
 import { signInWithPassword } from "@shared/supabase-auth/auth"
-import type { Database } from "@shared/supabase-database/generated/database"
+import type { Database } from "@akasha/supabase-database"
 import { createClient } from "@supabase/supabase-js"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 import { type ConsoleCapture, createConsoleCapture } from "./console-capture"

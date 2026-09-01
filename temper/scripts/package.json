@@ -6,7 +6,6 @@
     "@akasha/pages-core": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/supabase-client": "workspace:*",
-    "@shared/supabase-database": "workspace:*",
     "@shared/supabase-server": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@shared/utils-narrow": "workspace:*",

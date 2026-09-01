@@ -1,4 +1,4 @@
-import type { Json } from "../../supabase-database/src/generated/database"
+import type { Json } from "@akasha/supabase-database/json"
 import { JsonSchema } from "./json-schema"
 
 export function isJson(value: unknown): value is Json {

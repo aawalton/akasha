@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@akasha/pages-core": "workspace:*",
-    "@shared/supabase-database": "workspace:*",
+    "@akasha/supabase-database": "workspace:*",
     "@supabase/supabase-js": "^2.104.0"
   },
   "devDependencies": {

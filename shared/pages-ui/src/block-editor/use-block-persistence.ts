@@ -8,7 +8,7 @@ import {
   normalizeRichDocument,
 } from "@akasha/pages-core/property-types/rich-document-ops"
 import { type ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
-import type { Json } from "../../../supabase-database/src/generated/database.ts"
+import type { Json } from "@akasha/supabase-database/json"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { isJson } from "../../../utils-narrow/src/is-json.ts"
 import { useCallback, useRef } from "react"

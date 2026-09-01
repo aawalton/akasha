@@ -9,6 +9,7 @@
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/imessage": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@alanwalton/mobile-cli": "workspace:*",
@@ -42,7 +43,6 @@
         "@shared/proc-template": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/triggers-proc": "workspace:*",
         "@shared/triggers-proc-compiler": "workspace:*",
@@ -503,6 +503,9 @@
         "@shared/errors-core": "workspace:*",
       },
     },
+    "akasha/supabase-database": {
+      "name": "@akasha/supabase-database",
+    },
     "akasha/testing-system": {
       "name": "@akasha/testing-system",
     },
@@ -568,6 +571,7 @@
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
@@ -582,7 +586,6 @@
         "@shared/object-store": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -644,6 +647,7 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/sms-access": "workspace:*",
         "@akasha/sms-core": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
@@ -663,7 +667,6 @@
         "@shared/recurrence": "workspace:*",
         "@shared/status-bar-access": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -771,7 +774,6 @@
         "@shared/design-system": "workspace:*",
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
@@ -1080,7 +1082,6 @@
         "@infra/k8s": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/supabase-client": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@shared/verdict": "workspace:*",
@@ -1272,8 +1273,8 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/browser-launch-env": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
       },
@@ -1469,7 +1470,6 @@
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-server": "workspace:*",
       },
       "devDependencies": {
@@ -1493,7 +1493,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
       },
       "devDependencies": {
@@ -1535,6 +1535,7 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@shared/day": "workspace:*",
@@ -1542,7 +1543,6 @@
         "@shared/errors-client": "workspace:*",
         "@shared/object-store": "workspace:*",
         "@shared/recurrence": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@tanstack/react-virtual": "*",
@@ -1646,7 +1646,7 @@
       "name": "@shared/supabase-auth",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/supabase-database": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
       },
@@ -1659,7 +1659,7 @@
       "name": "@shared/supabase-client",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/supabase-database": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
       },
       "devDependencies": {
@@ -1680,8 +1680,8 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@supabase/ssr": "^0.10.2",
         "@supabase/supabase-js": "^2.104.0",
         "cookie": "^1.0.2",
@@ -1703,7 +1703,7 @@
       "name": "@shared/supabase-server",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/supabase-database": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
       },
@@ -1742,7 +1742,7 @@
     "shared/utils-narrow": {
       "name": "@shared/utils-narrow",
       "dependencies": {
-        "@shared/supabase-database": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -1754,8 +1754,8 @@
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-server": "workspace:*",
       },
       "devDependencies": {
@@ -2002,9 +2002,9 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@temper/game-characters": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
@@ -2408,9 +2408,9 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@temper/game-characters": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
@@ -2863,7 +2863,6 @@
       "name": "@temper/game-trading-pricing-client",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@temper/game-trading-pricing": "workspace:*",
       },
@@ -3049,10 +3048,10 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/design-system": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@temper/game-characters-character-ui": "workspace:*",
@@ -3093,9 +3092,9 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@temper/game-characters": "workspace:*",
       },
@@ -3144,7 +3143,6 @@
         "@shared/day": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/supabase-client": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@temper/catalog-core": "workspace:*",
@@ -3808,6 +3806,7 @@
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
@@ -3817,7 +3816,6 @@
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@shared/supabase-database": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -3991,6 +3989,8 @@
     "@akasha/sms-core": ["@akasha/sms-core@workspace:akasha/sms-core"],
 
     "@akasha/ssh-access": ["@akasha/ssh-access@workspace:akasha/ssh-access"],
+
+    "@akasha/supabase-database": ["@akasha/supabase-database@workspace:akasha/supabase-database"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
 
