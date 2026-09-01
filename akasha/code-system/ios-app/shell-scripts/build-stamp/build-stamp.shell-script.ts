@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "../../../shell-scripts/shell-script.page-type.ts"
 
 export const buildStamp = {
   id: "01a05934-fe0c-75ac-a104-88e6686eb2af",

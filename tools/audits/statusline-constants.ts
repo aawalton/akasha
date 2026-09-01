@@ -5,7 +5,7 @@ import type { Check, RepoView } from "../lib/check.ts"
 
 const NAME = "statusline-constants"
 
-const SCRIPT = "akasha/code-system/shell-script/pages/statusline.shell-script.shell.sh"
+const SCRIPT = "akasha/code-system/shell-scripts/pages/statusline.shell-script.shell.sh"
 
 const READER = "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 

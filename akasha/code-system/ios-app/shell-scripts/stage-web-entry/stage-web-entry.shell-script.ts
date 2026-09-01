@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "../../../shell-scripts/shell-script.page-type.ts"
 
 export const stageWebEntry = {
   id: "01a05934-fe0d-7f00-9227-54350a6d6c49",

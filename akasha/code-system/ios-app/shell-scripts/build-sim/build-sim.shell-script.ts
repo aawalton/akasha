@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "../../../shell-scripts/shell-script.page-type.ts"
 
 export const buildSim = {
   id: "01a059c3-3841-7618-b81d-ab1c53725140",

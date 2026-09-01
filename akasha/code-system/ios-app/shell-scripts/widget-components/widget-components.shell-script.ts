@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../shell-script/shell-script.page-type.ts"
+import type { ShellScript } from "../../../shell-scripts/shell-script.page-type.ts"
 
 export const widgetComponents = {
   id: "01a05934-fe0e-773d-9076-713c6104df15",
