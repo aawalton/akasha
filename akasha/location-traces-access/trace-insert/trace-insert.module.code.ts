@@ -12,7 +12,7 @@ import type { LocationTraceInsert } from "../trace-shape/trace-shape.module.code
 
 const WRITER = "location-traces"
 
-async function standingOn(day: string): Promise<ReadonlySet<string>> {
+async function keysOn(day: string): Promise<ReadonlySet<string>> {
   const asked = await askComposed({
     "page-type": ROW_PAGE_TYPE,
     where: { [`${ANCHOR_PAGE_TYPE}-slug`]: { is: day } },
@@ -66,7 +66,7 @@ export async function insertLocationTraces(
 
   for (const day of [...byDay.keys()].sort()) {
     const held = byDay.get(day) ?? []
-    const standing = await standingOn(day)
+    const standing = await keysOn(day)
     const rows = held
       .filter(([identity]) => !standing.has(identity))
       .map(([, record]) => rowValuesOf(record, Bun.randomUUIDv7()))
