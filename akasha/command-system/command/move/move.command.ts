@@ -109,8 +109,8 @@ export const move = {
       statement: "A link a move made is taken back where the move does not land.",
     },
     {
-      invariantKind: "departure",
-      statement: "A dry run takes back the link the dry run made.",
+      invariantKind: "absence",
+      statement: "A dry run makes no link.",
     },
     {
       invariantKind: "departure",
