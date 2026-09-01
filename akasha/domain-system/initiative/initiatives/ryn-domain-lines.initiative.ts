@@ -15,7 +15,7 @@ export const rynDomainLines = {
     {
       statement: "Every sentence shape the grammar parses carries a decision.",
       workingMemory:
-        "Four shapes refused, none allowed, 53 undecided. Alan approves only allowing, and holds that no simpler rewrite is necessary but not sufficient, so approvals wait on criteria he has not named yet. Mine for clearly wrong shapes instead. Every defect so far was a rule too loose, firing on a wrong analysis and hiding a missing rule. One parse tree settles nothing, because the grammar may hold the right analysis as well; what settles it is that no tag assignment at all is the right one.",
+        "Four shapes refused, none allowed, 48 undecided. Alan approves only allowing, and holds that no simpler rewrite is necessary but not sufficient, so approvals wait on criteria he has not named yet. Mine for clearly wrong shapes instead. Every defect so far was a rule too loose, firing on a wrong analysis and hiding a missing rule. One parse tree settles nothing, because the grammar may hold the right analysis as well; what settles it is that no tag assignment at all is the right one.",
     },
     { statement: "A sentence the grammar refuses names a shape it is refused for." },
     { statement: "A change writing a sentence the grammar refuses does not land." },
