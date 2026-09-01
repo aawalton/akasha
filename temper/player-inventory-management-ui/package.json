@@ -5,7 +5,6 @@
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/pages-access": "workspace:*",
-    "@akasha/supabase-database": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@shared/auth": "workspace:*",
     "@akasha/design-system": "workspace:*",

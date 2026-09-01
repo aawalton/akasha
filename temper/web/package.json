@@ -12,7 +12,6 @@
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages-url": "workspace:*",
-    "@akasha/supabase-database": "workspace:*",
     "@akasha/supabase-server": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/web-build-sha": "workspace:*",

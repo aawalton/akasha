@@ -26,7 +26,6 @@
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages-url": "workspace:*",
-    "@akasha/supabase-database": "workspace:*",
     "@akasha/web-build-sha": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",

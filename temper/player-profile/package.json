@@ -16,7 +16,6 @@
     "@shared/auth": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@shared/pages-ui": "workspace:*",
-    "@akasha/supabase-database": "workspace:*",
     "@temper/game-characters": "workspace:*"
   },
   "peerDependencies": {

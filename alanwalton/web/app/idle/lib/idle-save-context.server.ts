@@ -1,4 +1,3 @@
-import type { Database } from "@akasha/supabase-database"
 import { getUser, getUserFromBearerToken, parseBearerToken } from "@akasha/supabase-rr/auth-server"
 import { createBearerScopedClient, createServerClient } from "@akasha/supabase-rr/server-client"
 import { createClient, type SupabaseClient } from "@supabase/supabase-js"
@@ -10,7 +9,7 @@ function readEnv(name: string): string | undefined {
   return optionalEnv.parse(process.env[name])
 }
 
-export type IdleSupabase = SupabaseClient<Database>
+export type IdleSupabase = SupabaseClient
 
 export type IdleSaveContext =
   | {
@@ -48,7 +47,7 @@ async function getDevTestUserContext(creds: {
   email: string
   password: string
 }): Promise<{ supabase: IdleSupabase; userId: string }> {
-  const supabase = createClient<Database>(devSupabaseUrl(), devSupabaseAnonKey(), {
+  const supabase = createClient(devSupabaseUrl(), devSupabaseAnonKey(), {
     auth: { persistSession: false, autoRefreshToken: true },
   })
   const { data, error } = await supabase.auth.signInWithPassword(creds)

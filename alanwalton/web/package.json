@@ -31,7 +31,6 @@
     "@akasha/pages-url": "workspace:*",
     "@akasha/sms-access": "workspace:*",
     "@akasha/sms-core": "workspace:*",
-    "@akasha/supabase-database": "workspace:*",
     "@akasha/utils-sync": "workspace:*",
     "@akasha/voice-core": "workspace:*",
     "@akasha/web-build-sha": "workspace:*",

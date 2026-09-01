@@ -51,7 +51,6 @@
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages-url": "workspace:*",
-    "@akasha/supabase-database": "workspace:*",
     "@akasha/voice-core": "workspace:*",
     "@akasha/web-build-sha": "workspace:*",
     "@akasha/day": "workspace:*",
