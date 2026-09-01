@@ -1,7 +1,7 @@
 import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { fileURLToPath } from "node:url"
-import { said } from "@akasha/utils-run/running"
+import { told } from "@akasha/git/git-running"
 import { PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@infra/git-porcelain/parse-status"
 import { z } from "zod"
 
@@ -58,7 +58,7 @@ function resolveCheckoutAt(anchorDir: string): RunningCheckout {
     }
   }
 
-  const revParse = git(checkout, ["rev-parse", "--show-toplevel", "HEAD", "--abbrev-ref", "HEAD"])
+  const revParse = told(checkout, ["rev-parse", "--show-toplevel", "HEAD", "--abbrev-ref", "HEAD"])
   if (revParse === null) {
     return { kind: "unattributable", checkout, reason: "not a git checkout" }
   }
@@ -82,11 +82,11 @@ export function readCheckoutProvenanceAt(anchorDir: string): CheckoutProvenance 
   if (running.kind === "unattributable") return running
   const { checkout, commit, branch } = running
 
-  const committedAt = git(checkout, ["log", "-1", "--format=%cI", "HEAD"])
+  const committedAt = told(checkout, ["log", "-1", "--format=%cI", "HEAD"])
   if (committedAt === null) {
     return { kind: "unattributable", checkout, reason: "git has no commit at HEAD" }
   }
-  const status = git(checkout, [...PORCELAIN_STATUS_ARGS])
+  const status = told(checkout, [...PORCELAIN_STATUS_ARGS])
   if (status === null) {
     return {
       kind: "unattributable",
@@ -131,13 +131,5 @@ function declaresWorkspaces(manifestPath: string): boolean {
     return manifestSchema.parse(JSON.parse(readFileSync(manifestPath, "utf8"))).workspaces != null
   } catch {
     return false
-  }
-}
-
-function git(cwd: string, args: readonly string[]): string | null {
-  try {
-    return said(["git", ...args], { cwd })
-  } catch {
-    return null
   }
 }
