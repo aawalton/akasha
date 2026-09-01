@@ -13,7 +13,7 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@shared/day": "workspace:*",
+    "@akasha/day": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/utils-narrow": "workspace:*"
   },

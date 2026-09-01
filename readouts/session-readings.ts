@@ -1,4 +1,5 @@
-import { dayAfter, nyWallToInstant } from "@shared/day"
+import { dayAfter } from "@akasha/day/day-string"
+import { nyWallToInstant } from "@akasha/day/new-york-wall"
 import { type Ask, askOr } from "./readout-resolver.ts"
 
 export const SESSIONS_QUERY = "session-tracking-all"

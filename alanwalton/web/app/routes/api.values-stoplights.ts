@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "@shared/day"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { getDailyStoplightFaces } from "@shared/status-bar-access/stoplights"
 import { READOUT_CACHE_CONTROL } from "@akasha/readout-system/readout-credential"
 import { guardReadout } from "~/readout-credential/lib/readout-credential.server"

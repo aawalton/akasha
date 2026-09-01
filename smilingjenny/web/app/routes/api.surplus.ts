@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "@shared/day"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import { getSurplusStoplightTiers } from "@shared/status-bar-access/stoplights"
 import { refuseUncredentialedRingCaller } from "~/lib/ring-credential.server"
 import type { Route } from "./+types/api.surplus"
