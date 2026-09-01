@@ -11,8 +11,8 @@ type PagesCollection = PagesStore["collection"]
 
 export interface LivePipeline<R> {
   readonly read: () => R
-  readonly subscribe: (cb: () => void) => () => void
-  readonly dispose: () => void
+  readonly subscribe: (cb: () => undefined) => () => undefined
+  readonly dispose: () => undefined
 }
 
 export interface AcquireResult {
@@ -263,7 +263,7 @@ export function usePipelineLive<R>(
     }
     let cancelled = false
     let pipeline: LivePipeline<R> | null = null
-    let unsubscribe: (() => void) | null = null
+    let unsubscribe: (() => undefined) | null = null
     void (async () => {
       let degradeTimer: ReturnType<typeof setTimeout> | null = null
       const bootTimeout = new Promise<PagesStore>((resolve) => {
@@ -292,10 +292,11 @@ export function usePipelineLive<R>(
       const built = makeRef.current(store.collection)
       pipeline = built
       readInto(built)
-      unsubscribe = built.subscribe(() => {
-        if (cancelled) return
+      unsubscribe = built.subscribe((): undefined => {
+        if (cancelled) return undefined
         readInto(built)
         notify()
+        return undefined
       })
       notify()
     })()
