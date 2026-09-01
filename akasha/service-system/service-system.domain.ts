@@ -13,6 +13,7 @@ export const serviceSystem = {
     "module/service-reaching",
     "module/file-following",
     "module/service-wrapping",
+    "module/service-reading",
     "module/service-installing",
   ],
 } as const satisfies Domain
