@@ -10,9 +10,9 @@ import {
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import {
   domainStanding,
+  type Listed,
   namesPart,
   pathsOf,
-  type Standing,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
@@ -24,7 +24,7 @@ afterAll(scratch.sweep)
 
 const AGENT = "01a04f58-a7ee-7000-94ad-769aa16fc838"
 
-function beside(root: string, one: Standing, ending: string): string {
+function beside(root: string, one: Listed, ending: string): string {
   const at = `${one.path.slice(0, -".ts".length)}.${ending}.ts`
   standing(root, at, "body\n")
   pathFiled(root, at, [one])

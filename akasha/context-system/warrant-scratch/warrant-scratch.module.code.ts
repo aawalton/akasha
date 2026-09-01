@@ -9,7 +9,7 @@ import { exportedAs } from "../../pages-system/page/page-export-name/page-export
 import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
 import type { Warrant } from "../warranting/warranting.module.code.ts"
 
-export type Standing = {
+export type Listed = {
   readonly path: string
   readonly id: string
 }
@@ -18,7 +18,7 @@ export function pathsOf(found: readonly Warrant[]): readonly string[] {
   return found.map((one) => one.path)
 }
 
-function filed(root: string, held: Standing, typeSlug: string, slug: string): undefined {
+function filed(root: string, held: Listed, typeSlug: string, slug: string): undefined {
   pathFiled(root, held.path, [held])
   idFiled(root, held.id, [held])
   standingFiled(root, typeSlug, slug, [held])
@@ -30,7 +30,7 @@ function pageStanding(
   typeSlug: string,
   slug: string,
   stated = ""
-): Standing {
+): Listed {
   const id = mintedId(slug)
   const held = { path, id }
   const said = stated === "" ? "" : `, ${stated}`
@@ -43,15 +43,15 @@ function pageStanding(
   return held
 }
 
-export function typedStanding(root: string, typeSlug: string, slug: string, stated = ""): Standing {
+export function typedStanding(root: string, typeSlug: string, slug: string, stated = ""): Listed {
   return pageStanding(root, `akasha/${slug}/${slug}.${typeSlug}.ts`, typeSlug, slug, stated)
 }
 
-export function domainStanding(root: string, slug: string): Standing {
+export function domainStanding(root: string, slug: string): Listed {
   return typedStanding(root, "domain", slug)
 }
 
-export function initiativeStanding(root: string, slug: string, stated = ""): Standing {
+export function initiativeStanding(root: string, slug: string, stated = ""): Listed {
   return pageStanding(
     root,
     `akasha/domain-system/initiative/initiatives/${slug}.initiative.ts`,
@@ -61,11 +61,11 @@ export function initiativeStanding(root: string, slug: string, stated = ""): Sta
   )
 }
 
-export function personStanding(root: string, slug: string): Standing {
+export function personStanding(root: string, slug: string): Listed {
   return pageStanding(root, `akasha/person-system/person/people/${slug}.person.ts`, "person", slug)
 }
 
-export function personaStanding(root: string, slug: string): Standing {
+export function personaStanding(root: string, slug: string): Listed {
   return pageStanding(
     root,
     `akasha/persona-system/persona/${slug}/${slug}.persona.ts`,
@@ -74,7 +74,7 @@ export function personaStanding(root: string, slug: string): Standing {
   )
 }
 
-export function roleStanding(root: string, slug: string): Standing {
+export function roleStanding(root: string, slug: string): Listed {
   return pageStanding(root, `akasha/role-system/role/roles/${slug}.role.ts`, "role", slug)
 }
 
@@ -97,6 +97,6 @@ export function seatStanding(root: string, slug: string, stated: string): string
   return path
 }
 
-export function namesPart(root: string, whole: Standing, part: Standing): undefined {
+export function namesPart(root: string, whole: Listed, part: Listed): undefined {
   relationFiled(root, part.id, "part-slugs", whole.id, [{ path: whole.path }])
 }
