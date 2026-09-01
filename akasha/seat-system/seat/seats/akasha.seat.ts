@@ -5,7 +5,7 @@ export const akasha = {
   pageTypeSlug: "seat",
   slug: "akasha",
   personaSlug: "akasha",
-  assignmentSlug: "initiative/akasha-seats",
+  assignmentSlug: "domain/akasha-system",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
