@@ -126,7 +126,7 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
 
   const thinned = new Set([...emptied].flatMap(markedUp))
 
-  const stands = (at: string): boolean => {
+  const holds = (at: string): boolean => {
     if (filled.has(at)) return true
     if (emptied.has(at)) return false
     if ((added.get(at)?.size ?? 0) > 0) return true
@@ -135,7 +135,7 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
   }
 
   return {
-    holds: stands,
+    holds: holds,
     lines: (at) => held.get(at) ?? under.lines(at),
     listing: (at) => {
       const found = new Map<string, boolean>()
@@ -143,7 +143,7 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
       for (const [name, directory] of added.get(at) ?? []) found.set(name, directory)
       const said: Child[] = []
       for (const [name, directory] of found) {
-        if (thinned.has(at) && !stands(beneath(at, name))) continue
+        if (thinned.has(at) && !holds(beneath(at, name))) continue
         said.push({ name, directory })
       }
       return said
