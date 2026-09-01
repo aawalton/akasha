@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./asking": "./page-asking/page-asking.module.code.ts",
+    "./composing": "./page-composing/page-composing.module.code.ts",
     "./listening": "./page-listening/page-listening.module.code.ts",
     "./serving": "./page-serving/page-serving.module.code.ts",
     "./writing": "./page-writing/page-writing.module.code.ts"

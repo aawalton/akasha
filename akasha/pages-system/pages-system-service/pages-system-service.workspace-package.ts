@@ -8,6 +8,7 @@ export const pagesSystemService = {
   manifest: "json",
   partSlugs: [
     "module/page-asking",
+    "module/page-composing",
     "module/page-listening",
     "module/page-reading",
     "module/page-serving",
