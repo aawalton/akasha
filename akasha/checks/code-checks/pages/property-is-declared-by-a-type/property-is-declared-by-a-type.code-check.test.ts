@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
-import { shadowFor } from "@akasha/pages-system/shadow"
+import { shadowAt, shadowFor } from "@akasha/pages-system/shadow"
 import {
   claiming,
   declaring,
@@ -69,6 +69,10 @@ function rooted(): string {
     body("record-property", "properties", RECORD, ["page-property-slug"])
   )
   return root
+}
+
+function kindsIn(root: string): ReadonlySet<string> {
+  return shadowAt(root).index.kindsUnder("page-property")
 }
 
 function judged(change: Change): readonly Judged[] {
@@ -268,11 +272,11 @@ test("two properties carrying one slug are each judged, not skipped", () => {
 })
 
 test("the slug is the file's stem and the page type its suffix", () => {
-  const root = rooted()
-  expect(propertyNamedIn(root, "akasha/a/b/name-format-slug.relation-property.ts")).toEqual({
+  const kinds = kindsIn(rooted())
+  expect(propertyNamedIn("akasha/a/b/name-format-slug.relation-property.ts", kinds)).toEqual({
     pageTypeSlug: "relation-property",
     slug: "name-format-slug",
   })
-  expect(propertyNamedIn(root, "akasha/held.module.code.ts")).toBeNull()
-  expect(propertyNamedIn(root, "held.relation-property.ts")).toBeNull()
+  expect(propertyNamedIn("akasha/held.module.code.ts", kinds)).toBeNull()
+  expect(propertyNamedIn("held.relation-property.ts", kinds)).toBeNull()
 })

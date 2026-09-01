@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
-import { shadowFor } from "@akasha/pages-system/shadow"
+import { shadowAt, shadowFor } from "@akasha/pages-system/shadow"
 import {
   claiming,
   declaring,
@@ -53,6 +53,10 @@ function body(kind: string, slug: string, id: string, parts?: readonly string[])
     `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(kind)}, ` +
       `slug: ${JSON.stringify(slug)}${said} }\n`
   )
+}
+
+function kindsIn(root: string): ReadonlySet<string> {
+  return shadowAt(root).index.kindsUnder("domain")
 }
 
 function judged(change: Change): readonly Judged[] {
@@ -258,15 +262,15 @@ test("two pages carrying one slug are each judged, not skipped", () => {
 })
 
 test("the slug is the file's stem and the page type its suffix", () => {
-  const root = rooted()
-  expect(domainNamedIn(root, "akasha/a/b/index-relation.domain.ts")).toEqual({
+  const kinds = kindsIn(rooted())
+  expect(domainNamedIn("akasha/a/b/index-relation.domain.ts", kinds)).toEqual({
     pageTypeSlug: "domain",
     slug: "index-relation",
   })
-  expect(domainNamedIn(root, "akasha/held.module.code.ts")).toBeNull()
-  expect(domainNamedIn(root, "held.domain.ts")).toBeNull()
+  expect(domainNamedIn("akasha/held.module.code.ts", kinds)).toBeNull()
+  expect(domainNamedIn("held.domain.ts", kinds)).toBeNull()
 })
 
 test("a stem carrying a dot is bound whole to the slug", () => {
-  expect(domainNamedIn(rooted(), "akasha/a.b.domain.ts")?.slug).toBe("a.b")
+  expect(domainNamedIn("akasha/a.b.domain.ts", kindsIn(rooted()))?.slug).toBe("a.b")
 })
