@@ -18,7 +18,7 @@
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/id-minting": "workspace:*",
-    "@akasha/web-build-sha": "workspace:*",
+    "@akasha/web-build-version": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",
     "@infra/k8s-types": "workspace:*",

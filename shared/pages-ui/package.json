@@ -52,7 +52,7 @@
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/voice-core": "workspace:*",
-    "@akasha/web-build-sha": "workspace:*",
+    "@akasha/web-build-version": "workspace:*",
     "@akasha/day": "workspace:*",
     "@akasha/errors-client": "workspace:*",
     "@akasha/object-store": "workspace:*",

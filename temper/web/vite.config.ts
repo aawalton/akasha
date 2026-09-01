@@ -1,6 +1,6 @@
 import { fileURLToPath } from "node:url"
 import { reactRouter } from "@react-router/dev/vite"
-import { buildShaDefine } from "@akasha/web-build-sha/build-sha-define"
+import { buildShaDefine } from "@akasha/web-build-version/build-sha-define"
 import { supabaseClientEnvDefine } from "@akasha/supabase-rr/client-env-define"
 import tailwindcss from "@tailwindcss/vite"
 import { defineConfig } from "vite"

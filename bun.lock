@@ -525,7 +525,7 @@
         "@akasha/recurrence": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/voice-core": "workspace:*",
-        "@akasha/web-build-sha": "workspace:*",
+        "@akasha/web-build-version": "workspace:*",
         "sonner": "^2.0.7",
         "zod": "^4.3.6",
       },
@@ -745,14 +745,14 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/version/web-build": {
+      "name": "@akasha/web-build-version",
+    },
     "akasha/voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
         "zod": "^4.3.6",
       },
-    },
-    "akasha/web-build-sha": {
-      "name": "@akasha/web-build-sha",
     },
     "akasha/web-security-headers": {
       "name": "@akasha/web-security-headers",
@@ -786,7 +786,7 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@akasha/web-build-sha": "workspace:*",
+        "@akasha/web-build-version": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@alanwalton/location-traces-access": "workspace:*",
@@ -896,7 +896,7 @@
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
         "@akasha/voice-core": "workspace:*",
-        "@akasha/web-build-sha": "workspace:*",
+        "@akasha/web-build-version": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@collections/litrpg": "workspace:*",
@@ -967,7 +967,7 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/web-build-sha": "workspace:*",
+        "@akasha/web-build-version": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
@@ -1554,7 +1554,7 @@
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/voice-core": "workspace:*",
-        "@akasha/web-build-sha": "workspace:*",
+        "@akasha/web-build-version": "workspace:*",
         "@tanstack/react-virtual": "*",
         "sonner": "^2.0.7",
         "zod": "^4.3.6",
@@ -1620,7 +1620,7 @@
         "@akasha/status-bar-access": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/web-build-sha": "workspace:*",
+        "@akasha/web-build-version": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
@@ -3607,7 +3607,7 @@
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@akasha/web-build-sha": "workspace:*",
+        "@akasha/web-build-version": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@infra/k8s-types": "workspace:*",
@@ -3852,7 +3852,7 @@
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
 
-    "@akasha/web-build-sha": ["@akasha/web-build-sha@workspace:akasha/web-build-sha"],
+    "@akasha/web-build-version": ["@akasha/web-build-version@workspace:akasha/version/web-build"],
 
     "@akasha/web-security-headers": ["@akasha/web-security-headers@workspace:akasha/web-security-headers"],
 

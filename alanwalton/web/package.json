@@ -33,7 +33,7 @@
     "@akasha/sms-core": "workspace:*",
     "@akasha/utils-sync": "workspace:*",
     "@akasha/voice-core": "workspace:*",
-    "@akasha/web-build-sha": "workspace:*",
+    "@akasha/web-build-version": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",
     "@collections/litrpg": "workspace:*",
