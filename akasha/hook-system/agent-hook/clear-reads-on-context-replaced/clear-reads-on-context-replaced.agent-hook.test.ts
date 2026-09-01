@@ -193,11 +193,11 @@ test("a record that is not there is no error, and nothing is put in its place", 
 
 test("a record that cannot be reached is left as it stands", () => {
   const root = bare()
-  const standing = join(root, READS_AT, "agent", "id")
-  mkdirSync(join(standing, ".."), { recursive: true })
-  writeFileSync(standing, "not a folder\n")
+  const at = join(root, READS_AT, "agent", "id")
+  mkdirSync(join(at, ".."), { recursive: true })
+  writeFileSync(at, "not a folder\n")
   expect(cleared(root, ONE, "startup")).toBe(false)
-  expect(readFileSync(standing, "utf8")).toBe("not a folder\n")
+  expect(readFileSync(at, "utf8")).toBe("not a folder\n")
 })
 
 test("the agent is the one AGENT_ID names, and an empty name names none", () => {
