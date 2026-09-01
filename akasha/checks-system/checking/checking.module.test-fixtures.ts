@@ -1,13 +1,8 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import {
-  idFiled,
-  listedFiled,
-  noneOfTypeFiled,
-  pathFiled,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { idFiled, listedFiled, noneOfTypeFiled, pathFiled } from "@akasha/indexes/testing"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
 
 export const CHECK = "code-check"
 

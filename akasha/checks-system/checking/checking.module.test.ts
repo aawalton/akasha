@@ -1,14 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Change } from "../../pages-system/change/change.module.code.ts"
-import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  identitiesTakenFrom,
-  idTakenFrom,
-  indexTakenFrom,
-} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
+import { indexNamed } from "@akasha/indexes"
+import { identitiesTakenFrom, idTakenFrom, indexTakenFrom } from "@akasha/indexes/testing"
+import type { Change } from "@akasha/pages-system/change"
+import { shadowAsked } from "@akasha/pages-system/shadow"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 import { checkPagesIn, checksAt, checksFor, checksIn, judgingBy } from "./checking.module.code.ts"
 import {

@@ -1,4 +1,4 @@
-import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { namedIn } from "@akasha/pages-system/page-file-name"
 import type { Body } from "../../change-walking/change-walking.module.code.ts"
 import { FILES, judgingEach } from "../../change-walking/change-walking.module.code.ts"
 

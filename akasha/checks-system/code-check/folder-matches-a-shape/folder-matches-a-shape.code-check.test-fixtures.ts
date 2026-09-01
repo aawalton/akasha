@@ -1,4 +1,4 @@
-import { heldIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { heldIn } from "@akasha/pages-system/page-file-name"
 import type { Standing } from "./folder-shape/folder-shape.page-type.ts"
 
 const FILE_PROPERTIES = new Set<string>(["code", "test"])

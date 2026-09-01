@@ -1,32 +1,16 @@
 import { createRequire } from "node:module"
 import { basename, join } from "node:path"
-import {
-  NAMING_NONE,
-  type Naming,
-} from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { edgesIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
-import {
-  filePropertiesAt,
-  pageTypesIn,
-} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  everyOfType,
-  everyPath,
-  importersOf,
-  listedByPath,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
-import { reachingIn } from "../../../pages-system/indexes/package-reaching/package-reaching.module.code.ts"
-import { type Known, knownIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import {
-  besideAt,
-  type Held,
-  heldIn,
-  namedIn,
-} from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { NAMING_NONE, type Naming } from "@akasha/code-system/code-specifier"
+import { everyOfType, everyPath, importersOf, listedByPath } from "@akasha/indexes"
+import { filePropertiesAt, pageTypesIn } from "@akasha/indexes/entries"
+import { edgesIn } from "@akasha/indexes/import"
+import { reachingIn } from "@akasha/indexes/package-reaching"
+import { type Known, knownIn } from "@akasha/indexes/reaching"
+import type { Reading } from "@akasha/indexes/shape"
+import type { Change } from "@akasha/pages-system/change"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { besideAt, type Held, heldIn, namedIn } from "@akasha/pages-system/page-file-name"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, FILES, input, textIn } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
