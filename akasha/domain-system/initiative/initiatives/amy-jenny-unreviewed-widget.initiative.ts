@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "No file imports `@shared/pages-query`.",
       workingMemory:
-        "Deleted in 094d71b8a1; its source reads at that commit's parent. The footprint is 89 files and 114 specifiers rather than 111 files: the /ask entry 59, the root 50, answer-schema 3, fetcher 2. Nothing in akasha truly imports it, the six matches there being fixtures and prose. askComposed is 49 of the reads and maps onto POST /ask; askNamed 13, askPage 6, askTaking 4, askPageTypes 3, askShape 2, askNaming 1. Only tools/lib wants count-by or sum. Mapped dry run: /var/tmp/pq-rewrite.ts.",
+        "The rewrite is landed as 0e6b6d059d: all 114 specifiers over 89 files now name @akasha/pages-query, which stands at akasha/pages-system/pages-query. What is left is inside that package. Its manifest states four exports and three resolve: the root carries the whole write API, answer-schema and fetcher stand, and ./ask names a store-page-asking folder that has never existed while askComposed sits in store-questioning. 59 of the 114 spell /ask, so that gap is the rest of this intent.",
     },
     {
       statement:
