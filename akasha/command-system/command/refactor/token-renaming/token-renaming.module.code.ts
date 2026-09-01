@@ -58,7 +58,7 @@ export type Over = {
 
 type Target = { readonly nodes: ReadonlySet<ts.Node>; readonly key: boolean }
 
-type Standing = Target | { readonly refused: string }
+type Picked = Target | { readonly refused: string }
 
 export function tokeningFor(path: string, from: string, to: string, line?: string): Asked {
   if (!path.endsWith(TS)) return { refused: `\`${path}\` names no TypeScript body` }
@@ -93,12 +93,7 @@ function pickingIn(typing: Typing, one: Tokening, found: ReadonlySet<ts.Node>): 
   return `say ${LINE} with ${said}`
 }
 
-function onLine(
-  typing: Typing,
-  one: Tokening,
-  found: ReadonlySet<ts.Node>,
-  key: boolean
-): Standing {
+function onLine(typing: Typing, one: Tokening, found: ReadonlySet<ts.Node>, key: boolean): Picked {
   const at = new Set<ts.Node>()
   for (const node of found) {
     if (declaredOn(typing, one.path, node) === one.line) at.add(node)
@@ -111,7 +106,7 @@ function onLine(
   }
 }
 
-function oneOf(typing: Typing, one: Tokening, found: ReadonlySet<ts.Node>, key: boolean): Standing {
+function oneOf(typing: Typing, one: Tokening, found: ReadonlySet<ts.Node>, key: boolean): Picked {
   if (one.line !== undefined) return onLine(typing, one, found, key)
   if (key || found.size < 2) return { nodes: found, key }
   return {
@@ -121,7 +116,7 @@ function oneOf(typing: Typing, one: Tokening, found: ReadonlySet<ts.Node>, key: 
   }
 }
 
-function standingFor(typing: Typing, one: Tokening): Standing {
+function standingFor(typing: Typing, one: Tokening): Picked {
   const named = namedIn(typing, one.path, one.was)
   const keyed = new Set<ts.Node>(declarationsNamed(typing, one.path, one.was))
   if (named.size > 0 && keyed.size > 0) {
