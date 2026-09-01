@@ -1,0 +1,109 @@
+import { expect, test } from "bun:test"
+import { askComposed } from "../../pages-system/pages-query/store-questioning/store-questioning.module.code.ts"
+import type { Fetcher } from "../../pages-system/pages-query/store-reaching/store-reaching.module.code.ts"
+import { ACCOUNT_KEY, personSlugForAccount } from "./person-enrolment.module.code.ts"
+
+const LIVE_ORIGIN = "http://127.0.0.1:8787"
+
+const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
+
+const noNap = async () => undefined
+
+function answering(rows: readonly Record<string, unknown>[]): Fetcher {
+  return async () =>
+    new Response(JSON.stringify({ rows }), { headers: { "content-type": "application/json" } })
+}
+
+function refusing(status: number): Fetcher {
+  return async () =>
+    new Response(JSON.stringify({ refused: "no" }), {
+      status,
+      headers: { "content-type": "application/json" },
+    })
+}
+
+async function overTheLiveStore<T>(taking: () => Promise<T>): Promise<T> {
+  const held = process.env.PAGE_STORE_ORIGIN
+  process.env.PAGE_STORE_ORIGIN = LIVE_ORIGIN
+  try {
+    return await taking()
+  } finally {
+    if (held === undefined) delete process.env.PAGE_STORE_ORIGIN
+    else process.env.PAGE_STORE_ORIGIN = held
+  }
+}
+
+async function accountStatedBy(personSlug: string): Promise<string> {
+  const asked = await askComposed({
+    "page-type": "person",
+    where: { slug: { is: personSlug } },
+    keys: [ACCOUNT_KEY],
+  })
+  if (!asked.ok) throw new Error(asked.why)
+  const stated = asked.answer.rows[0]?.values[ACCOUNT_KEY]
+  if (typeof stated !== "string" || stated === "") {
+    throw new Error(`\`${personSlug}\` states no account, so nothing here can be read back`)
+  }
+  return stated
+}
+
+test("the account a person states is read back to that person", async () => {
+  const read = await overTheLiveStore(async () =>
+    personSlugForAccount(await accountStatedBy("alan"))
+  )
+  expect(read).toEqual({ ok: true, personSlug: "alan" })
+})
+
+test("an account no person states is nobody", async () => {
+  const read = await overTheLiveStore(async () => personSlugForAccount(ACCOUNT_NOBODY_STATES))
+  expect(read.ok).toBe(false)
+  if (read.ok) return
+  expect(read.unread).toBe(false)
+  expect(read.why).toContain("no person states the account")
+})
+
+test("the account is asked for under the key a person carries it by", async () => {
+  let sent: Record<string, unknown> = {}
+  const fetcher: Fetcher = async (_url, init) => {
+    sent = JSON.parse(String(init.body))
+    return new Response(JSON.stringify({ rows: [] }), {
+      headers: { "content-type": "application/json" },
+    })
+  }
+  await personSlugForAccount("9ba554f7", fetcher, noNap)
+  expect(sent.pageTypeSlug).toBe("person")
+  expect(sent.where).toEqual({ supabaseAuthUserId: { is: "9ba554f7" } })
+})
+
+test("an account stating nothing is nobody and costs no question", async () => {
+  let asked = false
+  const fetcher: Fetcher = async () => {
+    asked = true
+    return new Response("{}", { headers: { "content-type": "application/json" } })
+  }
+  const read = await personSlugForAccount("   ", fetcher, noNap)
+  expect(asked).toBe(false)
+  expect(read.ok).toBe(false)
+  if (read.ok) return
+  expect(read.unread).toBe(false)
+})
+
+test("an account two people state is read to neither", async () => {
+  const read = await personSlugForAccount(
+    "one-account",
+    answering([{ slug: "alan" }, { slug: "jenny" }]),
+    noNap
+  )
+  expect(read.ok).toBe(false)
+  if (read.ok) return
+  expect(read.unread).toBe(true)
+  expect(read.why).toContain("alan and jenny")
+})
+
+test("pages that went unread are told apart from pages naming nobody", async () => {
+  const read = await personSlugForAccount("one-account", refusing(500), noNap)
+  expect(read.ok).toBe(false)
+  if (read.ok) return
+  expect(read.unread).toBe(true)
+  expect(read.why).toContain("went unread")
+})
