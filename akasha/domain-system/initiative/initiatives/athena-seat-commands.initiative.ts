@@ -8,11 +8,12 @@ export const athenaSeatCommands = {
   personaSlug: "athena",
   parentSlug: "akasha-migration",
   intents: [
-    { statement: "A command answers with work that takes time." },
+    { statement: "A seat says what another seat is through akasha." },
     { statement: "A seat is stopped through akasha." },
     { statement: "A seat is started through akasha." },
+    { statement: "A seat is emptied and refilled through akasha." },
     { statement: "A seat is brought back on the session it is bound to through akasha." },
-    { statement: "Every seat behind the settings standing now is cycled through akasha." },
+    { statement: "Every client behind the settings standing now is restarted through akasha." },
     { statement: "The settings every live seat watches are rewritten through akasha." },
   ],
   constraints: [
