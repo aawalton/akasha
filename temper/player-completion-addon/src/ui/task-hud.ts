@@ -1,4 +1,4 @@
-import { TEXT_TERTIARY } from "../../../../design-tokens/design-tokens"
+import { TEXT_TERTIARY } from "@shared/design-tokens/text"
 import {
   getRelevantSkillLineIds,
   getSkillMorphEnrichment,

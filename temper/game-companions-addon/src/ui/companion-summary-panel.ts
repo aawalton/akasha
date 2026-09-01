@@ -1,5 +1,5 @@
-import { GREEN } from "../../../../design-tokens/design-tokens"
-import { TEXT_PRIMARY, TEXT_TERTIARY } from "../../../../design-tokens/design-tokens"
+import { GREEN } from "@shared/design-tokens/semantic"
+import { TEXT_PRIMARY, TEXT_TERTIARY } from "@shared/design-tokens/text"
 import { requireAt } from "@temper/shared-narrow"
 import { applyBuild, equipUpgrades } from "../apply-build"
 import {

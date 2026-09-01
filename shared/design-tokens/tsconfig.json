@@ -8,12 +8,11 @@
     "types": [
       "@types/bun"
     ],
-    "rootDir": "../..",
+    "rootDir": "src",
     "allowImportingTsExtensions": true
   },
   "include": [
-    "src/**/*.ts",
-    "../../design-tokens/design-tokens.ts"
+    "src/**/*.ts"
   ],
   "exclude": [
     "node_modules",

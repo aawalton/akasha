@@ -1,4 +1,4 @@
-import { TEXT_PRIMARY } from "../../../design-tokens/design-tokens"
+import { TEXT_PRIMARY } from "@shared/design-tokens/text"
 import { createMovableWindow } from "@temper/shared-interface-hud-window/movable-window"
 import { quantityInView } from "./browser-locations"
 import type { BrowserRow, LocationViewOption } from "./browser-types"

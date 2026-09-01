@@ -1,4 +1,4 @@
-import { TEXT_SECONDARY, TEXT_TERTIARY } from "../../../../design-tokens/design-tokens"
+import { TEXT_SECONDARY, TEXT_TERTIARY } from "@shared/design-tokens/text"
 import { requireAt } from "@temper/shared-narrow"
 import {
   ARMOR_SLOTS,

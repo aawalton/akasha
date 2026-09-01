@@ -1,4 +1,5 @@
-import { BLUE, GREEN, ORANGE, PURPLE, RED, YELLOW, type Rgb } from '../../design-tokens/design-tokens.ts';
+import { BLUE, GREEN, ORANGE, PURPLE, RED, YELLOW } from '@shared/design-tokens/semantic';
+import type { Rgb } from '@shared/design-tokens/surface';
 
 const PALETTE: Readonly<Record<string, Rgb>> = {
 	blue: BLUE,

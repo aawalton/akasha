@@ -1,4 +1,4 @@
-import { TEXT_PRIMARY } from "../../../../design-tokens/design-tokens"
+import { TEXT_PRIMARY } from "@shared/design-tokens/text"
 
 export function CreatePlaceholderPanel(parentWindow: Control): Control {
   const panel = WINDOW_MANAGER.CreateControl(undefined, parentWindow, CT_CONTROL)

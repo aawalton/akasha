@@ -1,4 +1,4 @@
-import { TEXT_PRIMARY, TEXT_SECONDARY } from "../../../../design-tokens/design-tokens"
+import { TEXT_PRIMARY, TEXT_SECONDARY } from "@shared/design-tokens/text"
 import { requireFirst } from "@temper/shared-narrow"
 import { getSavedVariables } from "../saved-variables"
 import { CreatePlaceholderPanel } from "./placeholder-panel"

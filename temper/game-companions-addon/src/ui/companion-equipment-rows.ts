@@ -1,5 +1,5 @@
-import { GREEN } from "../../../../design-tokens/design-tokens"
-import { TEXT_PRIMARY, TEXT_SECONDARY } from "../../../../design-tokens/design-tokens"
+import { GREEN } from "@shared/design-tokens/semantic"
+import { TEXT_PRIMARY, TEXT_SECONDARY } from "@shared/design-tokens/text"
 
 export const TWO_HANDED_TYPES: Record<number, boolean> = {
   [WEAPONTYPE_TWO_HANDED_SWORD]: true,

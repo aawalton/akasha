@@ -4,6 +4,9 @@
   "version": "0.1.0",
   "type": "module",
   "private": true,
+  "dependencies": {
+    "@shared/design-tokens": "workspace:*"
+  },
   "scripts": {
     "test": "bun test",
     "typecheck": "bunx @typescript/native-preview -b",

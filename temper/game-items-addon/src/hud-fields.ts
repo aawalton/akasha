@@ -1,4 +1,4 @@
-import { GREEN, RED } from "../../../design-tokens/design-tokens"
+import { GREEN, RED } from "@shared/design-tokens/semantic"
 import { recordNetWorthWalkMs } from "./bank-trace"
 import { getInventoryConfig } from "./inventory-config"
 import { computeLiveNetWorth } from "./net-worth"

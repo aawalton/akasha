@@ -1,4 +1,4 @@
-import { TEXT_PRIMARY, TEXT_SECONDARY } from "../../../design-tokens/design-tokens"
+import { TEXT_PRIMARY, TEXT_SECONDARY } from "@shared/design-tokens/text"
 import { createMovableWindow, type MovableWindowHandle } from "@temper/shared-interface-hud-window/movable-window"
 import { getInventoryActionSummary } from "./plan"
 import { getSavedVariables } from "./saved-variables"

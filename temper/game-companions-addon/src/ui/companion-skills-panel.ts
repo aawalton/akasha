@@ -1,4 +1,4 @@
-import { TEXT_PRIMARY, TEXT_SECONDARY, TEXT_TERTIARY } from "../../../../design-tokens/design-tokens"
+import { TEXT_PRIMARY, TEXT_SECONDARY, TEXT_TERTIARY } from "@shared/design-tokens/text"
 import { requireAt } from "@temper/shared-narrow"
 import { type CompanionBuildData, SKILL_SLOT_INDICES } from "../codec/companion-codec"
 import { decodeCompanionBuild } from "../codec/companion-decoder"
