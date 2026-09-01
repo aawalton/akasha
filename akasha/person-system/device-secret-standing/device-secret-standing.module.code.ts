@@ -243,12 +243,12 @@ export async function mintDeviceSecret(
   }
   const enrolled = await personSlugForAccount(userId, fetcher, naps)
   if (!enrolled.ok) return { ok: false, why: enrolled.why }
-  const standing = await deviceSecretFor(userId, deviceId, fetcher, naps)
-  if (standing.outcome === "unread") return { ok: false, why: standing.why }
+  const found = await deviceSecretFor(userId, deviceId, fetcher, naps)
+  if (found.outcome === "unread") return { ok: false, why: found.why }
   const slug = deviceSecretSlug(enrolled.personSlug, deviceId)
   const secret = generateDeviceSecret()
   const page: DeviceSecretPage = {
-    id: standing.outcome === "found" ? standing.page.id : uuidVersion7(),
+    id: found.outcome === "found" ? found.page.id : uuidVersion7(),
     slug,
     userId,
     deviceId,
@@ -258,7 +258,7 @@ export async function mintDeviceSecret(
   const put = { path: deviceSecretPath(slug), content: deviceSecretBody(page) }
   const message = `a device secret is minted for ${enrolled.personSlug}`
   const landed =
-    standing.outcome === "found"
+    found.outcome === "found"
       ? await patchFiles([put.path], () => [put], DEVICE_SECRET_WRITER, message, fetcher, naps)
       : await writeFiles([put], DEVICE_SECRET_WRITER, message, fetcher, naps)
   if (!landed.ok) return { ok: false, why: landed.why }
