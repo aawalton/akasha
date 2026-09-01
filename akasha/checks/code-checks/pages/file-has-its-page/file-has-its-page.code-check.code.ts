@@ -1,4 +1,3 @@
-import { listedByPath } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { FILES, judgingEach } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -10,7 +9,7 @@ export const UNCLAIMED =
 
 function unclaimedAt(path: string, shadow: Shadow): readonly string[] {
   if (!path.startsWith(INSIDE)) return []
-  if (listedByPath(shadow.reading, path).length > 0) return []
+  if (shadow.index.listedByPath(path).length > 0) return []
   return [UNCLAIMED]
 }
 
