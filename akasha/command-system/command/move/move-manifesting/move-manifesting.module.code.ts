@@ -10,40 +10,83 @@ const INSIDE = `${AKASHA}/`
 
 const OPENING = "./"
 
+export type Manifesting = {
+  readonly at: string
+  readonly folder: string
+  readonly arriving: string
+}
+
+export type Restating = {
+  readonly at: string
+  readonly to: string
+  readonly text: string
+}
+
 export function manifestsOver(
   moved: ReadonlyMap<string, string>,
   there: (path: string) => boolean
-): readonly string[] {
-  const found = new Set<string>()
+): readonly Manifesting[] {
+  const found = new Map<string, Manifesting>()
   for (const path of moved.keys()) {
     let dir = dirname(path)
     while (dir === AKASHA || dir.startsWith(INSIDE)) {
       const at = join(dir, MANIFEST)
-      if (!moved.has(at) && there(at)) found.add(at)
+      if (!found.has(at) && there(at)) {
+        found.set(at, { at, folder: dir, arriving: dirname(moved.get(at) ?? at) })
+      }
       dir = dirname(dir)
     }
   }
-  return [...found].sort()
+  return [...found.values()].sort((one, two) => (one.at < two.at ? -1 : 1))
 }
 
-function landingFor(
-  folder: string,
-  value: string,
-  moved: ReadonlyMap<string, string>
-): string | null {
-  const arrived = moved.get(join(folder, value))
-  if (arrived === undefined) return null
-  const under = `${folder}/`
-  if (!arrived.startsWith(under)) return null
-  return `${OPENING}${arrived.slice(under.length)}`
+type Landing = { readonly said: string } | { readonly gone: true }
+
+function landingFor(held: Manifesting, value: string, moved: ReadonlyMap<string, string>): Landing {
+  const was = join(held.folder, value)
+  const arrived = moved.get(was) ?? was
+  const under = `${held.arriving}/`
+  if (!arrived.startsWith(under)) return { gone: true }
+  return { said: `${OPENING}${arrived.slice(under.length)}` }
 }
 
 function stated(value: Record<string, unknown>): string {
   return `${JSON.stringify(value, null, 2)}\n`
 }
 
+function without(value: Record<string, unknown>, key: string): Record<string, unknown> {
+  const found: Record<string, unknown> = {}
+  for (const [one, held] of Object.entries(value)) {
+    if (one !== key) found[one] = held
+  }
+  return found
+}
+
+function saidOver(
+  held: Manifesting,
+  said: Record<string, unknown>,
+  moved: ReadonlyMap<string, string>
+): Record<string, unknown> | null {
+  const found: Record<string, unknown> = {}
+  let changed = false
+  for (const [key, one] of Object.entries(said)) {
+    if (typeof one !== "string") {
+      found[key] = one
+      continue
+    }
+    const landing = landingFor(held, one, moved)
+    if ("gone" in landing) {
+      changed = true
+      continue
+    }
+    found[key] = landing.said
+    if (landing.said !== one) changed = true
+  }
+  return changed ? found : null
+}
+
 export function repointedIn(
-  folder: string,
+  held: Manifesting,
   text: string,
   moved: ReadonlyMap<string, string>
 ): string | null {
@@ -54,37 +97,29 @@ export function repointedIn(
     return null
   }
   if (read === null || typeof read !== "object") return null
-  const held = read as Record<string, unknown>
-  const said = held[EXPORTS]
+  const value = read as Record<string, unknown>
+  const said = value[EXPORTS]
   if (typeof said === "string") {
-    const next = landingFor(folder, said, moved)
-    return next === null ? null : stated({ ...held, [EXPORTS]: next })
+    const landing = landingFor(held, said, moved)
+    if ("gone" in landing) return stated(without(value, EXPORTS))
+    return landing.said === said ? null : stated({ ...value, [EXPORTS]: landing.said })
   }
   if (said === null || typeof said !== "object") return null
-  const found: Record<string, unknown> = {}
-  let changed = false
-  for (const [key, one] of Object.entries(said as Record<string, unknown>)) {
-    const next = typeof one === "string" ? landingFor(folder, one, moved) : null
-    if (next === null) {
-      found[key] = one
-      continue
-    }
-    found[key] = next
-    changed = true
-  }
-  return changed ? stated({ ...held, [EXPORTS]: found }) : null
+  const found = saidOver(held, said as Record<string, unknown>, moved)
+  return found === null ? null : stated({ ...value, [EXPORTS]: found })
 }
 
 export function manifestingOver(
   moved: ReadonlyMap<string, string>,
   bodyText: (path: string) => string | null
-): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
-  for (const at of manifestsOver(moved, (path) => bodyText(path) !== null)) {
-    const text = bodyText(at)
+): readonly Restating[] {
+  const found: Restating[] = []
+  for (const held of manifestsOver(moved, (path) => bodyText(path) !== null)) {
+    const text = bodyText(held.at)
     if (text === null) continue
-    const next = repointedIn(dirname(at), text, moved)
-    if (next !== null && next !== text) found.set(at, next)
+    const next = repointedIn(held, text, moved)
+    if (next === null || next === text) continue
+    found.push({ at: held.at, to: moved.get(held.at) ?? held.at, text: next })
   }
   return found
 }

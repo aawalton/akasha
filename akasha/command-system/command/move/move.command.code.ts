@@ -271,6 +271,8 @@ export function move(argv: readonly string[], given: Given): Answer {
     one.renaming === null || !one.named ? [] : [one.renaming]
   )
   const addressing = addressingOver(root, renamings, bodyText)
+  const manifesting = manifestingOver(moved, bodyText)
+  const restating = new Map(manifesting.map((one) => [one.to, one.text]))
   const changes: FileEdit[] = []
   const carries: Carry[] = []
   const uncommitted: FileCarry[] = []
@@ -288,6 +290,12 @@ export function move(argv: readonly string[], given: Given): Answer {
       )
     }
     carries.push({ was: one.from, now: one.to, from: blobIdOf(bytes) })
+    const manifested = restating.get(one.to)
+    if (manifested !== undefined) {
+      changes.push({ path: one.to, body: new TextEncoder().encode(manifested), carried: true })
+      changes.push({ path: one.from, body: null })
+      continue
+    }
     if (!one.from.endsWith(TS)) {
       changes.push({ path: one.to, body: bytes, carried: true })
       changes.push({ path: one.from, body: null })
@@ -330,12 +338,13 @@ export function move(argv: readonly string[], given: Given): Answer {
     for (const path of spellingOf(root, base, moved, naming)) naming.add(path)
   }
   const repointing: string[] = []
-  for (const [path, text] of manifestingOver(moved, bodyText)) {
-    const held = bodyAt(root, base, path)
+  for (const one of manifesting) {
+    if (moved.has(one.at)) continue
+    const held = bodyAt(root, base, one.at)
     if (held === null) continue
-    repointing.push(path)
-    carries.push({ was: path, now: path, from: blobIdOf(held) })
-    changes.push({ path, body: new TextEncoder().encode(text), carried: true })
+    repointing.push(one.at)
+    carries.push({ was: one.at, now: one.at, from: blobIdOf(held) })
+    changes.push({ path: one.at, body: new TextEncoder().encode(one.text), carried: true })
   }
   for (const path of [...naming].sort()) {
     if (!path.endsWith(TS) || moved.has(path)) continue

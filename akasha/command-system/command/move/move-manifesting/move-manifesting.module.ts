@@ -22,21 +22,32 @@ export const moveManifesting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A way in is repointed only where the file it lands on arrives inside the package.",
+      statement: "A manifest that moves is looked at as every other manifest is.",
     },
     {
       invariantKind: "departure",
-      statement: "A file arriving outside the package is left for the checks to refuse.",
+      statement: "A way in is read from the folder the manifest was in.",
     },
     {
-      invariantKind: "absence",
-      statement: "A manifest that moves is not rewritten.",
+      invariantKind: "departure",
+      statement: "A way in is written from the folder the manifest arrives in.",
     },
     {
       invariantKind: "departure",
       statement:
         "A manifest moving with everything the manifest names keeps the paths the manifest already states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way in whose file lands outside the package is taken out of the manifest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest whose one string for its exports lands outside states no exports.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rewritten manifest is answered with the path the manifest arrives at.",
     },
     {
       invariantKind: "departure",

@@ -33,6 +33,8 @@ export const move = {
     "a folder you name carries every file git holds under it, each keeping its place beneath it.",
     "the files naming what moves are repointed in the same commit.",
     "a package manifest naming a file that moves is repointed with it.",
+    "a manifest that moves states its ways in from the folder it arrives in.",
+    "a way in whose file leaves the package is taken out of that manifest.",
     "a package folder that moves is reached again where it arrives, before anything is judged.",
     "a value beside a renamed page named for its old slug is renamed with it.",
     "a path is read against the repository root, wherever the call was made.",
@@ -100,11 +102,20 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "A way into a package is repointed only where the file that way names arrives inside that package.",
+        "A way into a package is repointed where the file that way names arrives inside that package.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way into a package whose file leaves that package is taken out.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A manifest that moves states its ways in from the folder that manifest arrives in.",
     },
     {
       invariantKind: "absence",
-      statement: "A manifest that moves is not rewritten.",
+      statement: "What a package names under its dependencies is not moved with a file.",
     },
     {
       invariantKind: "departure",
