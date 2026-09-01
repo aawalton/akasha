@@ -5,7 +5,11 @@ export const alanSafety = {
   pageTypeSlug: "domain",
   slug: "alan-safety",
   definition: "the safety level Alan logs against the block Alan is in",
-  partSlugs: ["readout/upkeep-safety"],
+  partSlugs: [
+    "readout/upkeep-safety",
+    "workstation-service/safety-reading-service",
+    "workstation-service/safety-relay-service",
+  ],
   invariants: [
     {
       invariantKind: "departure",
