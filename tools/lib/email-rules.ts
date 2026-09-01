@@ -1,7 +1,7 @@
 
 import { readFileSync, readdirSync } from "node:fs"
 import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { fileStemOf } from "../../page/name/name"
+import { fileStemOf } from "@shared/file-page-identity"
 import { parseMatch, ruleFolderIn, ruleKinds } from "./email-rule.ts"
 import type { Condition } from "./email-rule.ts"
 import { emailRuleSet } from "./email-rule-set.ts"

@@ -1,6 +1,6 @@
 import type { QueryRow } from "@shared/pages-query/answer-schema"
 import { z } from "zod"
-import { idOfFilePage, slugOfFilePage } from "../../../page/name/naming/naming.ts"
+import { idOfFilePage, slugOfFilePage } from "@shared/file-page-identity"
 import type { RawPageRow } from "./page-row"
 import type { PropertyDefinition } from "./page-type-config"
 import { parsePageSeq } from "./parse-page-seq"

@@ -1,5 +1,5 @@
 import { proseOnly } from "../page/markdown/markdown.ts"
-import { fileStemOf } from "../page/name/name.ts"
+import { fileStemOf } from "@shared/file-page-identity"
 import { dirOf, relativeBetween, resolves } from "./between.ts"
 import type { Patch } from "./mention.ts"
 

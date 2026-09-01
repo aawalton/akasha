@@ -1,6 +1,6 @@
 
 import { readFile, readdir } from "node:fs/promises"
-import { fileStemOf } from "../page/name/name"
+import { fileStemOf } from "@shared/file-page-identity"
 import { join } from "node:path"
 import { parse } from "../page/document/parse.ts"
 import type { Document } from "../page/document/types.ts"

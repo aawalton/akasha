@@ -5,6 +5,7 @@
   "workspaces": [
     "shared/day",
     "shared/named-for",
+    "shared/file-page-identity",
     "shared/pages-system",
     "editor-extension",
     "akasha/agents-system",
@@ -328,6 +329,7 @@
     "@shared/browser-test-harness": "workspace:*",
     "@shared/cli": "workspace:*",
     "@shared/errors-core": "workspace:*",
+    "@shared/file-page-identity": "workspace:*",
     "@shared/pages-url": "workspace:*",
     "@shared/proc-compiler": "workspace:*",
     "@shared/proc-template": "workspace:*",

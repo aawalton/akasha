@@ -23,7 +23,8 @@
     "@shared/pages-url": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
-    "zod": "^4.3.6"
+    "zod": "^4.3.6",
+    "@shared/file-page-identity": "workspace:*"
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview -b",

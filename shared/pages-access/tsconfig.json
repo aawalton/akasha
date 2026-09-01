@@ -112,6 +112,9 @@
     },
     {
       "path": "../utils-narrow"
+    },
+    {
+      "path": "../file-page-identity"
     }
   ]
 }

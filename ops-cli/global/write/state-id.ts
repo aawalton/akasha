@@ -4,7 +4,7 @@ import { parseFrontmatter } from "../../../page/frontmatter.ts"
 import { claimant, type PageType, placeDirOf } from "../../../page/page-types.ts"
 import { registryOf } from "../../../page/property/registry.ts"
 import { rootsHere } from "../../../repo/roots/roots.ts"
-import { idOfFilePage } from "../../../page/name/naming/naming.ts"
+import { idOfFilePage } from "@shared/file-page-identity"
 
 const ID_KEY = "id"
 

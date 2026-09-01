@@ -23,12 +23,3 @@ export function pageStemOf(key: string): string {
   return named.stem
 }
 
-export function fileStemOf(key: string): string {
-  const base = key.slice(key.lastIndexOf("/") + 1)
-  const dot = base.indexOf(DOT)
-  return dot <= 0 ? base : base.slice(0, dot)
-}
-
-export function stemOf(key: string): string {
-  return fileStemOf(key)
-}

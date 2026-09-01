@@ -1,7 +1,7 @@
 import { type Backed, type Row } from "./page-derive-shape.ts"
 import { type Held, type Values } from "./page-file-values.ts"
 import { deriverFor } from "./deriver-hold.ts"
-import { idOfFilePage as pageId, slugOfFilePage as pageSlug } from "../../page/name/naming/naming.ts"
+import { idOfFilePage as pageId, slugOfFilePage as pageSlug } from "@shared/file-page-identity"
 import { bind, type Given, isRefused, QUERY_PAGE_TYPE, type Refused } from "./page-query-bind.ts"
 import { comparing, stated } from "./page-query-compare.ts"
 import { queryOf } from "./page-query-fields.ts"

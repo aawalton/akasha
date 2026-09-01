@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { isGeneratedFile } from "../generated-file/generated-file.ts"
 import { judge, type Outcome, over, skip } from "../outcome/outcome.ts"
-import { fileStemOf } from "../page/name/name.ts"
+import { fileStemOf } from "@shared/file-page-identity"
 import type { Roots } from "../page/page.ts"
 import { trackedIn } from "../page/tracked/tracked.ts"
 import { canonicalize, normalizeAbsolute } from "../repo/path/path.ts"

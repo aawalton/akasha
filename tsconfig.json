@@ -7,6 +7,9 @@
       "path": "./shared/named-for"
     },
     {
+      "path": "./shared/file-page-identity"
+    },
+    {
       "path": "./shared/supabase-database"
     },
     {

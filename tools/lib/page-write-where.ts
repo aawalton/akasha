@@ -13,7 +13,7 @@ import {
   soleRepoOf,
   typeSuffixOf,
 } from "../../page/page-types.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { fileStemOf as slugOf } from "@shared/file-page-identity"
 import { type Roots } from "../../page/page.ts"
 import { textAt } from "../../page/text/text.ts"
 import { isAddressable } from "../../repo/roots/roots.ts"

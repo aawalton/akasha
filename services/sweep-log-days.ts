@@ -5,7 +5,7 @@ export const tool = {
 
 import { mkdtempSync, readdirSync, readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
-import { fileStemOf } from "../page/name/name"
+import { fileStemOf } from "@shared/file-page-identity"
 import { sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
