@@ -115,7 +115,7 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-export function standingFiles(given: string | Reading, change: Change): readonly string[] {
+export function listedFiles(given: string | Reading, change: Change): readonly string[] {
   const found = new Set<string>(everyPath(given))
   for (const one of change.changed) {
     if (change.after(one) === null) found.delete(one)
@@ -206,7 +206,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     }
     return held.has(pageTypeSlug)
   }
-  const files = standingFiles(shadow.reading, change)
+  const files = listedFiles(shadow.reading, change)
   const entering = enteringOf(change)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change)].sort()) {
