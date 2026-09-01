@@ -41,6 +41,7 @@ export const alanHarness = {
     "workspace-package/supabase-database",
     "workspace-package/recurrence",
     "workspace-package/supabase-auth",
+    "workspace-package/errors-core",
   ],
   invariants: [
     {
