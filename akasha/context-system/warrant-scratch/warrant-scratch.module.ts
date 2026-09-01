@@ -25,7 +25,11 @@ export const warrantScratch = {
     },
     {
       invariantKind: "absence",
-      statement: "No root is made or swept here and no body is put anywhere but the index.",
+      statement: "No root is made or swept here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No body is put anywhere but the index.",
     },
     {
       invariantKind: "absence",

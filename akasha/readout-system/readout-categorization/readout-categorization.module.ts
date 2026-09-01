@@ -71,7 +71,15 @@ export const readoutCategorization = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here names a readout or a scale or a group.",
+      statement: "Nothing here names a readout.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here names a scale.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here names a group.",
     },
     {
       invariantKind: "absence",

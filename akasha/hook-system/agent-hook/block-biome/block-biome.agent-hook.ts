@@ -20,7 +20,11 @@ export const blockBiome = {
     },
     {
       invariantKind: "departure",
-      statement: "Biome reached by a path or through a runner is the same call and is refused.",
+      statement: "Biome reached by a path is the same call and is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Biome reached through a runner is the same call and is refused.",
     },
     {
       invariantKind: "departure",

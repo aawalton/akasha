@@ -82,7 +82,19 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page a write carries is a page type and a slug and values.",
+      statement: "A page a write carries names its page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a write carries names its slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a write carries states its values.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a write carries states nothing more.",
     },
     {
       invariantKind: "departure",

@@ -14,8 +14,19 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A line carries the path read and the object id of what was read and when the path was read and the object id a mechanical change left.",
+      statement: "A line carries the path read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line carries the object id of what was read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line carries when the path was read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line carries the object id a mechanical change left.",
     },
     {
       invariantKind: "departure",

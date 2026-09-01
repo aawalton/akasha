@@ -11,8 +11,23 @@ export const codeTests = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A run is answered as what the run exited and what the run printed and the summary read out of what the run printed and the verdict that follows.",
+      statement: "A run's answer carries what the run exited.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run's answer carries what the run printed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run's answer carries the summary read out of what the run printed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run's answer carries the verdict that follows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run's answer carries nothing more.",
     },
     {
       invariantKind: "departure",

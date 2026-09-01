@@ -46,8 +46,15 @@ export const dataPlace = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "The index and the read record and a test's seeded warrants each name their own place.",
+      statement: "The index names its own place.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The read record names its own place.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A test's seeded warrants name their own place.",
     },
     {
       invariantKind: "absence",

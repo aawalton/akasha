@@ -20,8 +20,15 @@ export const noSwallowedRead = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body is read by `readFileSync` and its kin or by `Bun.file` or by a binding taken from `createRequire`.",
+      statement: "A body is read by `readFileSync` and its kin.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is read by `Bun.file`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is read by a binding taken from `createRequire`.",
     },
     {
       invariantKind: "departure",

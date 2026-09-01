@@ -9,8 +9,11 @@ export const serviceRole = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The URL and the key are read from the environment when the caller names no URL and no key.",
+      statement: "The URL is read from the environment when the caller names no URL.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key is read from the environment when the caller names no key.",
     },
     {
       invariantKind: "departure",

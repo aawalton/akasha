@@ -22,8 +22,11 @@ export const shellClean = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The same reading covers one change and the whole tree and neither phase is named here.",
+      statement: "The same reading covers one change and the whole tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Neither phase is named here.",
     },
     {
       invariantKind: "departure",

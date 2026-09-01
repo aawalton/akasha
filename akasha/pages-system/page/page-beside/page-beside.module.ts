@@ -36,8 +36,15 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What stands beside several paths is answered once and sorted and holding none of the paths themselves.",
+      statement: "What is beside several paths is answered once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is beside several paths is sorted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is beside several paths holds no path handed in.",
     },
     {
       invariantKind: "departure",

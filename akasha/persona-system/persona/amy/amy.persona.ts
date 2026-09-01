@@ -23,7 +23,15 @@ export const amy = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "The children of alan-harness-agents are named and defined and ordered.",
+      statement: "The children of alan-harness-agents are named.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The children of alan-harness-agents are defined.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The children of alan-harness-agents are ordered.",
     },
     {
       invariantKind: "gap",

@@ -47,8 +47,15 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page is filed here only when the page carries an id and a slug and a page type.",
+      statement: "A page is filed here only when the page carries an id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is filed here only when the page carries a slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is filed here only when the page carries a page type.",
     },
     {
       invariantKind: "departure",

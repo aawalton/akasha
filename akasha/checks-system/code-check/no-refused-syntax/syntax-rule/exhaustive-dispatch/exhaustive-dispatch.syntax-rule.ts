@@ -10,7 +10,15 @@ export const exhaustiveDispatch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A default is right where the default throws or returns or calls `assertNever`.",
+      statement: "A default is right where the default throws.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A default is right where the default returns.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A default is right where the default calls `assertNever`.",
     },
     {
       invariantKind: "departure",

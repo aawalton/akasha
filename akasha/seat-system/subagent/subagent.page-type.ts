@@ -56,7 +56,15 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent states no persona and no role and no person.",
+      statement: "A subagent states no persona.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent states no role.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent states no person.",
     },
     {
       invariantKind: "departure",

@@ -61,7 +61,11 @@ export const initiative = {
     {
       invariantKind: "departure",
       statement:
-        "An intent an initiative meets returns to the domain the intent came from as a design or condition invariant or is deleted.",
+        "An intent an initiative meets returns to the domain the intent came from or is deleted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent returning to its domain is a design or condition invariant.",
     },
     {
       invariantKind: "departure",

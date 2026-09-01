@@ -39,8 +39,19 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A function type and a method signature and a call signature and a constructor type describe a function written elsewhere.",
+      statement: "A function type describes a function written elsewhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A method signature describes a function written elsewhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call signature describes a function written elsewhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A constructor type describes a function written elsewhere.",
     },
     {
       invariantKind: "departure",

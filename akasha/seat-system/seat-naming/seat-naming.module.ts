@@ -10,7 +10,7 @@ export const seatNaming = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat's name is the domain and the role and the flex joined in that order.",
+      statement: "A seat's name is the domain followed by the role followed by the flex.",
     },
     {
       invariantKind: "departure",

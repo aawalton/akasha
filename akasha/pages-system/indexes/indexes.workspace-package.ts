@@ -114,8 +114,15 @@ export const indexes = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "What crosses this boundary is a question or its answer or the index as a change leaves the index.",
+      statement: "A question and its answer cross this boundary.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The index crosses this boundary as a change leaves the index.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing more crosses this boundary.",
     },
   ],
 } as const satisfies WorkspacePackage

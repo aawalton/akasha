@@ -44,7 +44,15 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "absence",
-      statement: "`rm` and `checkout` and `restore` are not named here.",
+      statement: "`rm` is not named here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "`checkout` is not named here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "`restore` is not named here.",
     },
     {
       invariantKind: "absence",

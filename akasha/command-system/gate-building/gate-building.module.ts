@@ -51,7 +51,19 @@ export const gateBuilding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges or writes or indexes or commits.",
+      statement: "Nothing here judges.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here indexes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here commits.",
     },
     {
       invariantKind: "absence",
