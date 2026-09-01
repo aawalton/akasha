@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/alanwalton-web",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./chess-board": "./chess-board/chess-board.module.code.tsx",
+    "./declared-effects": "./declared-effects/declared-effects.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-core": "workspace:*",
+    "@shared/pages-ui": "workspace:*",
+    "chess.js": "^1.4.0"
+  }
+}

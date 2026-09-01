@@ -14,6 +14,7 @@ export const alanHarness = {
     "workspace-package/sms-core",
     "workspace-package/personas-core",
     "workspace-package/awen-core",
+    "workspace-package/alanwalton-web",
   ],
   invariants: [
     {
