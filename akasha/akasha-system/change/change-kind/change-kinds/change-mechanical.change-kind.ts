@@ -13,5 +13,13 @@ export const changeMechanical = {
       statement:
         "A fault a mechanical change lands is a fault in the program that composed the change.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fault the audit finds is repaired rather than undone.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A fault a mechanical change lands is found by the audit.",
+    },
   ],
 } as const satisfies ChangeKind
