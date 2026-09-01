@@ -1,19 +1,7 @@
-import {
-  CSS_FILE_NODE_TYPE,
-  CssFileAttrsSchema,
-  cssFileNodeId,
-} from "../../../../tools/lib/graph/producers/file/css-file/types.ts"
-import {
-  PACKAGE_NODE_TYPE,
-  PackageAttrsSchema,
-  packageNodeId,
-  PKG_DEPENDS_EDGE_TYPE,
-} from "../../../../tools/lib/graph/producers/package/types.ts"
-import { transitiveClosure } from "../../../../tools/lib/graph/queries/transitive.ts"
-import type { Graph } from "../../../../tools/lib/graph/types.ts"
 import type { Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
-
-const CODE_REPO = "code"
+import type { CssFile } from "./css-source-directives.ts"
+import { globBase } from "./css-source-directives.ts"
+import { transitiveWorkspaceDeps, type WorkspacePackage } from "./workspace-packages.ts"
 
 export type TailwindViolationKind = "invalid-path" | "missing-source"
 
@@ -25,7 +13,8 @@ export interface TailwindSourceViolation extends Violation {
 }
 
 export type FindTailwindSourcesViolationsInput = {
-  readonly graph: Graph
+  readonly packages: readonly WorkspacePackage[]
+  readonly cssByPath: ReadonlyMap<string, CssFile>
   readonly repoRoot: string
   readonly packageSourceRootByName: ReadonlyMap<string, string>
   readonly uiPackageNames: ReadonlySet<string>
@@ -42,71 +31,53 @@ export interface TailwindApp {
   readonly wsName: string | null
 }
 
-export const enumerateTailwindCandidates = (graph: Graph): readonly TailwindCandidate[] => {
-  const candidates: TailwindCandidate[] = []
-  for (const node of graph.nodes(PACKAGE_NODE_TYPE)) {
-    if (node.repo !== CODE_REPO) continue
-    const attrs = PackageAttrsSchema.parse(node.attrs)
-    candidates.push({ wsPath: attrs.path, wsName: attrs.name })
-  }
+export const enumerateTailwindCandidates = (
+  packages: readonly WorkspacePackage[]
+): readonly TailwindCandidate[] => {
+  const candidates: TailwindCandidate[] = packages.map((one) => ({
+    wsPath: one.path,
+    wsName: one.name,
+  }))
   candidates.sort((a, b) => (a.wsPath < b.wsPath ? -1 : a.wsPath > b.wsPath ? 1 : 0))
   return candidates
 }
 
 export const enumerateTailwindApps = (
-  graph: Graph,
+  cssFiles: readonly CssFile[],
   entryCssPaths: ReadonlySet<string>
 ): readonly TailwindApp[] => {
   const apps: TailwindApp[] = []
-  for (const node of graph.nodes(CSS_FILE_NODE_TYPE)) {
-    if (node.repo !== CODE_REPO) continue
-    const attrs = CssFileAttrsSchema.parse(node.attrs)
-    if (!entryCssPaths.has(attrs.path)) continue
-    apps.push({ cssPath: attrs.path, wsName: attrs.package })
+  for (const one of cssFiles) {
+    if (!entryCssPaths.has(one.path)) continue
+    apps.push({ cssPath: one.path, wsName: one.package })
   }
   apps.sort((a, b) => (a.cssPath < b.cssPath ? -1 : a.cssPath > b.cssPath ? 1 : 0))
   return apps
-}
-
-const workspaceDepNames = (graph: Graph, wsName: string): readonly string[] => {
-  const seed = packageNodeId(wsName)
-  if (graph.node(seed) === undefined) return []
-  const reached = transitiveClosure(graph, seed, { edgeTypes: [PKG_DEPENDS_EDGE_TYPE] })
-  const names: string[] = []
-  for (const id of reached) {
-    const node = graph.node(id)
-    if (node === undefined) continue
-    if (node.repo !== CODE_REPO) continue
-    names.push(PackageAttrsSchema.parse(node.attrs).name)
-  }
-  names.sort()
-  return names
 }
 
 export const examineTailwindApp = (
   app: TailwindApp,
   input: FindTailwindSourcesViolationsInput
 ): readonly TailwindSourceViolation[] => {
-  const { graph, repoRoot, packageSourceRootByName, uiPackageNames } = input
+  const { packages, cssByPath, repoRoot, packageSourceRootByName, uiPackageNames } = input
   const { wsName } = app
   if (wsName === null) {
     throw new Error(
       `${app.cssPath} is a Tailwind entry stylesheet owned by no workspace package, so it has no dependency closure to examine`
     )
   }
-  const cssNode = graph.node(cssFileNodeId(app.cssPath))
-  if (cssNode === undefined) {
-    throw new Error(`${app.cssPath} has no css-file node in the graph`)
+  const cssFile = cssByPath.get(app.cssPath)
+  if (cssFile === undefined) {
+    throw new Error(`${app.cssPath} stands as no stylesheet this run read`)
   }
-  const cssAttrs = CssFileAttrsSchema.parse(cssNode.attrs)
   const cssDirRel = parentDir(app.cssPath)
   const cssDirAbs = `${repoRoot}/${cssDirRel}`
 
   const out: TailwindSourceViolation[] = []
   const coverageBases: string[] = []
-  for (const d of cssAttrs.directives) {
+  for (const d of cssFile.directives) {
     if (d.resolvedBase === null) {
-      const base = globBaseLocal(d.pattern)
+      const base = globBase(d.pattern)
       const abs = posixResolve(cssDirAbs, base)
       out.push({
         app: wsName,
@@ -120,7 +91,7 @@ export const examineTailwindApp = (
     coverageBases.push(d.resolvedBase)
   }
 
-  for (const depName of workspaceDepNames(graph, wsName)) {
+  for (const depName of transitiveWorkspaceDeps(packages, wsName)) {
     if (depName === wsName) continue
     if (!uiPackageNames.has(depName)) continue
     const depSrc = packageSourceRootByName.get(depName)
@@ -186,14 +157,4 @@ const posixRelative = (from: string, to: string): string => {
   for (let i = 0; i < up; i++) parts.push("..")
   for (const seg of down) parts.push(seg)
   return parts.length === 0 ? "." : parts.join("/")
-}
-
-const globBaseLocal = (pattern: string): string => {
-  const parts = pattern.split("/")
-  const baseParts: string[] = []
-  for (const p of parts) {
-    if (p.includes("*") || p.includes("{") || p.includes("?")) break
-    baseParts.push(p)
-  }
-  return baseParts.join("/")
 }

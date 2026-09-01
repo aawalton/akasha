@@ -1,83 +1,36 @@
-import { createGraph } from "../../../../tools/lib/graph/graph.ts"
-import {
-  type CssDirective,
-  type CssFileAttrs,
-  cssFileNodeId,
-} from "../../../../tools/lib/graph/producers/file/css-file/types.ts"
-import {
-  type PackageAttrs,
-  PKG_DEPENDS_EDGE_TYPE,
-  type PkgDependsAttrs,
-  type PkgDependsKind,
-  packageNodeId,
-} from "../../../../tools/lib/graph/producers/package/types.ts"
-import type { Edge, Node } from "../../../../tools/lib/graph/types.ts"
+import type { CssDirective, CssFile } from "./css-source-directives.ts"
 import {
   enumerateTailwindApps,
   examineTailwindApp,
   type FindTailwindSourcesViolationsInput,
   type TailwindSourceViolation,
 } from "./tailwind-sources-violations.ts"
+import type { PkgDependsKind, WorkspacePackage } from "./workspace-packages.ts"
 
 export const REPO_ROOT = "/repo"
 
-const CODE_REPO = "code"
-
-export const PACKAGE_NODE_TYPE = "package"
-export const CSS_FILE_NODE_TYPE = "css-file"
-
-export function packageNode(name: string, path: string): Node {
-  const attrs: PackageAttrs = {
-    name,
-    path,
-    exports: null,
-    hasTsconfig: true,
-    binCommands: [],
-    commandUsages: [],
-    nonTsSpecifiers: [],
-    configFileProtocols: [],
-    configFileNames: [],
-    sourceRoot: path,
-    dependencies: {},
-    externalDependencies: {},
-    tsconfigRefPaths: [],
-    tstl: null,
-  }
-  return {
-    id: packageNodeId(name),
-    type: PACKAGE_NODE_TYPE,
-    repo: CODE_REPO,
-    key: name,
-    attrs,
-    derived: {},
-  }
+export function workspacePackage(
+  name: string,
+  path: string,
+  dependencies: ReadonlyMap<string, PkgDependsKind> = new Map()
+): WorkspacePackage {
+  return { name, path, sourceRoot: path, hasTsconfig: true, dependencies }
 }
 
-export function cssFileNode(
+export function dependsOn(
+  ...names: readonly string[]
+): ReadonlyMap<string, PkgDependsKind> {
+  const out = new Map<string, PkgDependsKind>()
+  for (const name of names) out.set(name, "dependencies")
+  return out
+}
+
+export function cssFile(
   relPath: string,
   directives: readonly CssDirective[],
   owner: string | null
-): Node {
-  const attrs: CssFileAttrs = { path: relPath, directives, package: owner, packageRefs: [] }
-  return {
-    id: cssFileNodeId(relPath),
-    type: CSS_FILE_NODE_TYPE,
-    repo: CODE_REPO,
-    key: relPath,
-    attrs,
-    derived: {},
-  }
-}
-
-export function pkgDependsEdge(from: string, to: string, kind: PkgDependsKind): Edge {
-  const attrs: PkgDependsAttrs = { kind }
-  return {
-    type: PKG_DEPENDS_EDGE_TYPE,
-    from: packageNodeId(from),
-    to: packageNodeId(to),
-    attrs,
-    derived: {},
-  }
+): CssFile {
+  return { path: relPath, package: owner, directives }
 }
 
 export function directive(opts: {
@@ -96,14 +49,16 @@ export function directive(opts: {
 }
 
 export function makeInput(opts: {
-  nodes: readonly Node[]
-  edges?: readonly Edge[]
+  packages: readonly WorkspacePackage[]
+  cssFiles: readonly CssFile[]
   packageSourceRootByName: ReadonlyMap<string, string>
   uiPackageNames: ReadonlySet<string>
   entryCssPaths: ReadonlySet<string>
-}): FindTailwindSourcesViolationsInput {
+}): FindTailwindSourcesViolationsInput & { readonly cssFiles: readonly CssFile[] } {
   return {
-    graph: createGraph(opts.nodes, opts.edges ?? []),
+    packages: opts.packages,
+    cssFiles: opts.cssFiles,
+    cssByPath: new Map(opts.cssFiles.map((one) => [one.path, one])),
     repoRoot: REPO_ROOT,
     packageSourceRootByName: opts.packageSourceRootByName,
     uiPackageNames: opts.uiPackageNames,
@@ -112,10 +67,10 @@ export function makeInput(opts: {
 }
 
 export function examineAll(
-  input: FindTailwindSourcesViolationsInput
+  input: FindTailwindSourcesViolationsInput & { readonly cssFiles: readonly CssFile[] }
 ): readonly TailwindSourceViolation[] {
   const out: TailwindSourceViolation[] = []
-  for (const app of enumerateTailwindApps(input.graph, input.entryCssPaths)) {
+  for (const app of enumerateTailwindApps(input.cssFiles, input.entryCssPaths)) {
     out.push(...examineTailwindApp(app, input))
   }
   return out
