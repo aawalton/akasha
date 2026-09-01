@@ -1,29 +1,17 @@
-import { buildPageHref } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { askComposed } from "@shared/pages-query/ask"
-import { redirect } from "react-router"
+import { unheld } from "~/lib/pages-unheld"
 import type { Route } from "./+types/idle"
 
 const IDLE_GAME_SLUG = toPageTypeSlug("idle-game")
 
+// THIS REDIRECT CANNOT BE BUILT, AND A 404 WOULD SAY THE WRONG THING. `/idle` is a permanent
+// redirect onto whichever `idle-game` page carries the idle engine, so it has to read that page's
+// id and slug to know where it is sending anyone. `idle-game` is no page type the pages system
+// service holds, so there is nothing to read.
+//
+// The 404 this threw wherever the query matched nothing is not reused. A 301 route answering 404
+// tells a browser — and a search engine, and `idle.alanwalton.com`, which `server.ts` redirects
+// here — that the idle game is gone for good. 503 says what is true: it is unreachable from here.
 export async function loader({ request: _request }: Route.LoaderArgs): Promise<Response> {
-  const asked = await askComposed({
-    "page-type": IDLE_GAME_SLUG,
-    where: { "game-engine": { is: "idle" } },
-    keys: ["id", "slug", "title"],
-    limit: 1,
-  })
-  const game = asked.ok ? asked.answer.rows[0]?.values : undefined
-  if (game === undefined || typeof game.id !== "string") {
-    throw new Response("Not Found", { status: 404 })
-  }
-  return redirect(
-    buildPageHref({
-      pageTypeSlug: IDLE_GAME_SLUG,
-      slug: typeof game.slug === "string" ? game.slug : null,
-      fallbackSlugSource: typeof game.title === "string" ? game.title : null,
-      id: game.id,
-    }),
-    301
-  )
+  return new Response(unheld(IDLE_GAME_SLUG, "the game this redirect points at"), { status: 503 })
 }
