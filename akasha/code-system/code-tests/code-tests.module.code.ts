@@ -4,12 +4,13 @@ import {
   mkdirSync,
   mkdtempSync,
   readdirSync,
+  realpathSync,
   rmSync,
   statSync,
   symlinkSync,
   writeFileSync,
 } from "node:fs"
-import { dirname, join } from "node:path"
+import { dirname, join, relative, sep } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { ran } from "@akasha/utils-run/running"
@@ -42,13 +43,17 @@ const INDEX = indexNamed()
 
 const MODULES = "node_modules"
 
+const SCOPE = "@"
+
+const MANIFEST = "package.json"
+
 export const RUNNING = "AKASHA_TESTS_RUNNING"
 
 export const CARRIED: readonly string[] = [
   ".gitignore",
   ".sops.yaml",
   "biome.json",
-  "package.json",
+  MANIFEST,
   "tsconfig.json",
   "tsconfig.base.json",
 ]
@@ -135,18 +140,77 @@ export function verdictOf(code: number, output: string, expected: number): Verdi
   return said.failed === 0 ? "pass" : "fail"
 }
 
+function topOf(path: string): string | null {
+  const first = path.split(sep)[0]
+  if (first === undefined || first === "" || first === path) return null
+  return first
+}
+
+function copyIn(
+  from: string,
+  root: string,
+  standing: ReadonlySet<string>,
+  at: string
+): string | null {
+  if (!existsSync(at)) return null
+  const inside = relative(from, realpathSync(at))
+  const top = topOf(inside)
+  if (top === null || !standing.has(top)) return null
+  const found = join(root, inside)
+  return existsSync(join(found, MANIFEST)) ? found : null
+}
+
+function packagesIn(
+  from: string,
+  root: string,
+  standing: ReadonlySet<string>
+): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  const live = join(from, MODULES)
+  const real = realpathSync(from)
+  for (const one of readdirSync(live)) {
+    const named = join(live, one)
+    if (!one.startsWith(SCOPE)) {
+      const to = copyIn(real, root, standing, named)
+      if (to !== null) found.set(one, to)
+      continue
+    }
+    if (!existsSync(named)) continue
+    for (const member of readdirSync(named)) {
+      const to = copyIn(real, root, standing, join(named, member))
+      if (to !== null) found.set(`${one}${sep}${member}`, to)
+    }
+  }
+  return found
+}
+
+function modulesInto(from: string, root: string, standing: ReadonlySet<string>): undefined {
+  if (!existsSync(join(from, MODULES))) return
+  symlinkSync(join(from, MODULES), join(root, MODULES))
+  for (const [named, to] of packagesIn(from, root, standing)) {
+    for (const one of standing) {
+      const at = join(root, one, MODULES, named)
+      mkdirSync(dirname(at), { recursive: true })
+      symlinkSync(to, at)
+    }
+  }
+}
+
 export function worldOf(
   from: string,
   paths: readonly string[],
   at: (path: string) => Uint8Array | null
 ): World {
   const root = mkdtempSync(join(HOLD, PREFIX))
+  const standing = new Set<string>()
   for (const one of paths) {
     const bytes = at(one)
     if (bytes === null) continue
     const to = join(root, one)
     mkdirSync(dirname(to), { recursive: true })
     writeFileSync(to, bytes)
+    const top = topOf(one)
+    if (top !== null) standing.add(top)
   }
   if (existsSync(join(from, INDEX))) {
     mkdirSync(dirname(join(root, INDEX)), { recursive: true })
@@ -155,7 +219,7 @@ export function worldOf(
   for (const one of CARRIED) {
     if (existsSync(join(from, one))) cpSync(join(from, one), join(root, one))
   }
-  if (existsSync(join(from, MODULES))) symlinkSync(join(from, MODULES), join(root, MODULES))
+  modulesInto(from, root, standing)
   return {
     root,
     sweep: (): undefined => {

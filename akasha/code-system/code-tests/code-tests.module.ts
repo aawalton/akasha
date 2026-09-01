@@ -73,6 +73,29 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A package a specifier names is answered from the world where the world holds it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The world holds a package where it holds that package's manifest.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A package the world does not hold is answered from the tree the world was made from.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file reached through a package specifier and reached by a relative path is one file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The packages a world answers sit under each directory the world was written into.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A world stands at no commit.",
     },
     {
@@ -127,6 +150,10 @@ export const codeTests = {
     {
       invariantKind: "absence",
       statement: "A world is only what is made of them.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here installs a package.",
     },
   ],
 } as const satisfies Module
