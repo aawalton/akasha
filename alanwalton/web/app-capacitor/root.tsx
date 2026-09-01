@@ -9,8 +9,8 @@ import { useReportRenderError } from "@shared/errors-client/use-report-render-er
 import { PagesUICapabilityHosts } from "@shared/pages-ui/capabilities/capability-hosts"
 import { configureLocalPositionReader } from "@shared/pages-ui/components/local-position-port"
 import { parseBuildSha } from "@shared/pages-ui/app-version/app-version-check.pure"
-import { setStoreDiagnosticsSink } from "@shared/pages-ui-store/diagnostics"
-import { configureContentPersistence, configurePagesPersistence, configurePagesStoreFetch } from "@shared/pages-ui-store/singleton"
+import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
+import { configureContentPersistence, configurePagesPersistence, configurePagesStoreFetch } from "@akasha/pages-ui-store/singleton"
 import { type ReactNode, useEffect } from "react"
 import {
   isRouteErrorResponse,

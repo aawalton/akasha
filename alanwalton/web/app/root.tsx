@@ -5,7 +5,7 @@ import { ShortcutSheet } from "@shared/design-primitives/components/shortcut-she
 import { ErrorCaptureInstaller } from "@shared/errors-client/error-capture-installer"
 import { reportError } from "@shared/errors-client/report-error"
 import { useReportRenderError } from "@shared/errors-client/use-report-render-error"
-import { setStoreDiagnosticsSink } from "@shared/pages-ui-store/diagnostics"
+import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
 import { type AuthRouteConfig, authGuard } from "@shared/supabase-rr/auth/proxy"
 import type React from "react"
 import { useEffect } from "react"

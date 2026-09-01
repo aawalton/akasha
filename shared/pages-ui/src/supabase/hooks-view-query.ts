@@ -6,7 +6,7 @@ import { type PageTypePropertiesMap } from "@shared/pages-core/property-types/ro
 import { getCrossTypePredicate } from "@shared/pages-core/schema/cross-type-predicates"
 import { type ViewDataJSON } from "@shared/pages-core/schema/view-data"
 import { type PropertyDefinition } from "@shared/pages-core/types"
-import type { ShapeDescriptor } from "@shared/pages-ui-store/collection/shape-descriptor"
+import type { ShapeDescriptor } from "@akasha/pages-ui-store/collection/shape-descriptor"
 import { useMemo } from "react"
 import { adjustTotalForClientFilters, applyClientViewFilters } from "./apply-client-view-filters"
 import { type PageWithProperties, toPageWithProperties } from "./types"

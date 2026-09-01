@@ -1,6 +1,6 @@
-import { runPagesOptimisticMutation } from "@shared/pages-ui-store/optimistic/optimistic-mutation"
-import { type PagesMutationPlan } from "@shared/pages-ui-store/optimistic/plan"
-import { getPagesStore } from "@shared/pages-ui-store/singleton"
+import { runPagesOptimisticMutation } from "@akasha/pages-ui-store/optimistic/optimistic-mutation"
+import { type PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
+import { getPagesStore } from "@akasha/pages-ui-store/singleton"
 import {
   type InteractionToken,
   recordPglitePersisted,

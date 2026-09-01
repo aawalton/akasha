@@ -1,4 +1,4 @@
-import type { PagesPersistencePort, PersistedPagesSnapshot } from "@shared/pages-ui-store/collection/persistence"
+import type { PagesPersistencePort, PersistedPagesSnapshot } from "@akasha/pages-ui-store/collection/persistence"
 import { z } from "zod"
 import { getFilesystem } from "./capacitor-bridge"
 import { deleteDocumentsFile, listDocumentsFiles } from "./offline-cache-fs"

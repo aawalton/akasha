@@ -2,9 +2,9 @@
 
 import { UserIdContext } from "@shared/pages-ui/use-user-id"
 import { useAppVersionCheck } from "@shared/pages-ui/app-version/use-app-version-check"
-import { emitStoreDiagnostic } from "@shared/pages-ui-store/diagnostics"
-import { reportPagesStoreStall } from "@shared/pages-ui-store/report-stall"
-import { configurePagesStoreAuth, getPagesStore } from "@shared/pages-ui-store/singleton"
+import { emitStoreDiagnostic } from "@akasha/pages-ui-store/diagnostics"
+import { reportPagesStoreStall } from "@akasha/pages-ui-store/report-stall"
+import { configurePagesStoreAuth, getPagesStore } from "@akasha/pages-ui-store/singleton"
 import { PageTypeSlug } from "@shared/pages-url"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { useEffect, useRef, useState } from "react"

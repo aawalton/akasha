@@ -1,7 +1,7 @@
 "use client"
 
-import { emitStoreDiagnostic } from "@shared/pages-ui-store/diagnostics"
-import { awaitPagesStoreReady, getPagesStore } from "@shared/pages-ui-store/singleton"
+import { emitStoreDiagnostic } from "@akasha/pages-ui-store/diagnostics"
+import { awaitPagesStoreReady, getPagesStore } from "@akasha/pages-ui-store/singleton"
 import { useEffect, useRef, useState } from "react"
 import { BOOT_GATE_TIMEOUT_MS } from "./boot-gate"
 

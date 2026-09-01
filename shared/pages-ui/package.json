@@ -56,7 +56,7 @@
     "@shared/object-store": "workspace:*",
     "@shared/pages-access": "workspace:*",
     "@shared/pages-core": "workspace:*",
-    "@shared/pages-ui-store": "workspace:*",
+    "@akasha/pages-ui-store": "workspace:*",
     "@shared/pages-url": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/supabase-database": "workspace:*",

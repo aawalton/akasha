@@ -3,7 +3,7 @@
 import type { GetPagesForViewArgs, GetPagesForViewResult } from "@shared/pages-access/get-for-view"
 import type { PageTypePropertiesMap } from "@shared/pages-core/property-types/rollup"
 import type { PropertyDefinition } from "@shared/pages-core/types"
-import type { ShapeDescriptor } from "@shared/pages-ui-store/collection/shape-descriptor"
+import type { ShapeDescriptor } from "@akasha/pages-ui-store/collection/shape-descriptor"
 import { useViewQuery } from "../cache/use-view-query"
 
 export type UseViewPagesSupabaseOptions = Omit<GetPagesForViewArgs, "cursor"> & {

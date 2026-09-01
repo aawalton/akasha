@@ -1,5 +1,5 @@
 export const summary =
-  "Verify every deployable app depending on @shared/pages-ui-store declares a code-sync sidecar memory limit"
+  "Verify every deployable app depending on @akasha/pages-ui-store declares a code-sync sidecar memory limit"
 
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
@@ -24,7 +24,7 @@ import type { CommandHelp } from "../ops/surface.ts"
 
 const PREFIX = "[pages-ui-store-sidecar-memory]"
 
-const PAGES_UI_STORE_PACKAGE = "@shared/pages-ui-store"
+const PAGES_UI_STORE_PACKAGE = "@akasha/pages-ui-store"
 
 const WORKSPACE_TS_GLOB = "/**/*.{ts,tsx}"
 

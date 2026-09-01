@@ -1,4 +1,4 @@
-import type { PagesStore } from "@shared/pages-ui-store/collection/store"
+import type { PagesStore } from "@akasha/pages-ui-store/collection/store"
 import type { Json } from "../../../../supabase-database/src/generated/database"
 import { isRecord } from "../../../../utils-narrow/src/is-record"
 

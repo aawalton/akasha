@@ -6,7 +6,7 @@ import { resolveDefinitionOptions } from "@shared/pages-core/schema/resolve-sele
 import { type ViewDataJSON } from "@shared/pages-core/schema/view-data"
 import { type LockedFacet, mergeLockedFacets } from "@shared/pages-core/schema/view-data-locked"
 import { type PropertyDefinition } from "@shared/pages-core/types"
-import { deriveViewTargetSlugs } from "@shared/pages-ui-store/query/view-target-slugs"
+import { deriveViewTargetSlugs } from "@akasha/pages-ui-store/query/view-target-slugs"
 import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { useCallback, useMemo } from "react"
 import { useGroupByPaginatedQuery } from "../supabase/group-by-hooks.ts"

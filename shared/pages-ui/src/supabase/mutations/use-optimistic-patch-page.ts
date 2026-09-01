@@ -1,6 +1,6 @@
 import type { PatchPageArgs } from "@shared/pages-access/patch"
 import type { Page } from "@shared/pages-core/page-types"
-import type { PagesMutationPlan } from "@shared/pages-ui-store/optimistic/plan"
+import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
 import type { InteractionToken } from "../../perf/page-card-perf.ts"
 import { runOptimisticMutation } from "./apply-prediction.ts"
 import { buildOverlay, buildPatchPlan } from "./build-patch-plan.ts"

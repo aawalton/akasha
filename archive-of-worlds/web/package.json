@@ -24,7 +24,7 @@
     "@shared/pages-access": "workspace:*",
     "@shared/pages-core": "workspace:*",
     "@shared/pages-ui": "workspace:*",
-    "@shared/pages-ui-store": "workspace:*",
+    "@akasha/pages-ui-store": "workspace:*",
     "@shared/pages-url": "workspace:*",
     "@shared/supabase-rr": "workspace:*",
     "@shared/supabase-server": "workspace:*",

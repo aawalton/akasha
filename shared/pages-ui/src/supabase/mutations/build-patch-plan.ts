@@ -1,6 +1,6 @@
 import { PROMOTED_COLUMN_KEYS } from "@shared/pages-access/routing-core"
 import { type JsonPatch } from "@shared/pages-access/types"
-import type { RowOverlay } from "@shared/pages-ui-store/optimistic/plan"
+import type { RowOverlay } from "@akasha/pages-ui-store/optimistic/plan"
 import type { Json } from "../../../../supabase-database/src/generated/database"
 import { z } from "zod"
 

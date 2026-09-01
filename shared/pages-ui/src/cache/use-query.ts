@@ -2,8 +2,8 @@
 
 import { flattenRow } from "@shared/pages-access/routing-core"
 import { type Page } from "@shared/pages-core/page-types"
-import { createRegularPipeline, type RegularResult } from "@shared/pages-ui-store/query/regular-pipeline"
-import { type UsePagesOptions } from "@shared/pages-ui-store/sql/options"
+import { createRegularPipeline, type RegularResult } from "@akasha/pages-ui-store/query/regular-pipeline"
+import { type UsePagesOptions } from "@akasha/pages-ui-store/sql/options"
 import { useMemo } from "react"
 import { useAcquireSlug, usePipelineLive } from "./tanstack-live"
 
