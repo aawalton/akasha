@@ -10,7 +10,8 @@ export const wallpaperInstall = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An older wallpaper goes only where it names the same persona at the same level.",
+      statement:
+        "An older wallpaper goes only where the older wallpaper names the same persona at the same level.",
     },
     {
       invariantKind: "departure",

@@ -21,7 +21,7 @@ export const fileName = {
     },
     {
       invariantKind: "departure",
-      statement: "The part after it is the slug of that page's page type.",
+      statement: "The part after the first part is the slug of that page's page type.",
     },
     {
       invariantKind: "departure",

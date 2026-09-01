@@ -9,15 +9,15 @@ export const minting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A check a test mints states each phase it runs on.",
+      statement: "A check a test mints states each phase the check runs on.",
     },
     {
       invariantKind: "departure",
-      statement: "One place mints them.",
+      statement: "One place mints the checks.",
     },
     {
       invariantKind: "departure",
-      statement: "A minted id is worked out from the slug it is minted for.",
+      statement: "A minted id is worked out from the slug the id is minted for.",
     },
     {
       invariantKind: "departure",

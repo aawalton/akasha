@@ -14,7 +14,7 @@ export const fileImport = {
     {
       invariantKind: "departure",
       statement:
-        "A code file warrants the page of every file it imports rather than one imported in turn.",
+        "A code file warrants the page of every file the code file imports rather than one imported in turn.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,8 @@ export const fileImport = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier naming a package is read as the file the manifests land it on.",
+      statement:
+        "A specifier naming a package is read as the file the manifests land the specifier on.",
     },
     {
       invariantKind: "departure",

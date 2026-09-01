@@ -13,11 +13,11 @@ export const personItself = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat warrants the person it states.",
+      statement: "A seat warrants the person the seat states.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat stating no person warrants none.",
+      statement: "A seat stating no person warrants no person.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,8 @@ export const personItself = {
     },
     {
       invariantKind: "departure",
-      statement: "A person is named by its slug wherever the seat states it under a page type.",
+      statement:
+        "A person is named by its slug wherever the seat states the person under a page type.",
     },
   ],
 } as const satisfies ContextWarrant

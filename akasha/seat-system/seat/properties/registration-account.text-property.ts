@@ -17,7 +17,7 @@ export const registrationAccount = {
     },
     {
       invariantKind: "gap",
-      statement: "This is a relation to an account.",
+      statement: "This property is a relation to an account.",
     },
   ],
 } as const satisfies TextProperty

@@ -19,7 +19,7 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A key one property carries reaches it.",
+      statement: "A key one property carries reaches that property.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A field reaches only a property the record it stands in declares.",
+      statement: "A field reaches only a property the record the field stands in declares.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +57,7 @@ export const reaching = {
     {
       invariantKind: "departure",
       statement:
-        "A name nested in a record is filed from the page carrying it rather than from the record.",
+        "A name nested in a record is filed from the page carrying the name rather than from the record.",
     },
     {
       invariantKind: "departure",
@@ -65,11 +65,11 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement: "Which property each of a page's keys carries is read here.",
+      statement: "Which property each key of a page carries is read here.",
     },
     {
       invariantKind: "departure",
-      statement: "What stands under that key is answered with it.",
+      statement: "What stands under that key is answered with that property.",
     },
     {
       invariantKind: "departure",

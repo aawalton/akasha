@@ -37,12 +37,12 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A question is refused only where the index it reads is not there.",
+      statement: "A question is refused only where the index the question reads is not there.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A tree missing beneath an index that stands is an answer of none rather than a refusal.",
+        "A tree missing beneath an index that stands is an empty answer rather than a refusal.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement:
-        "Every path the index files is answered by walking the one tree those paths are filed in.",
+        "Every path the index files is answered by walking the one tree that those paths are filed in.",
     },
     {
       invariantKind: "departure",

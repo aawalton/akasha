@@ -10,11 +10,12 @@ export const buildSim = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The tree it builds is the one rsynced to the machine it runs on.",
+      statement:
+        "The tree this script builds is the one rsynced to the machine this script runs on.",
     },
     {
       invariantKind: "departure",
-      statement: "Which app it is building is read from what it was handed.",
+      statement: "Which app this script is building is read from what this script was handed.",
     },
     {
       invariantKind: "departure",

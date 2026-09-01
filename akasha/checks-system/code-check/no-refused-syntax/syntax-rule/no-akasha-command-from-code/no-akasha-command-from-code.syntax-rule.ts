@@ -15,7 +15,7 @@ export const noAkashaCommandFromCode = {
     {
       invariantKind: "departure",
       statement:
-        "The dispatcher's path is refused wherever it stands among a launching call's arguments.",
+        "The dispatcher's path is refused wherever the dispatcher's path stands among a launching call's arguments.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const noAkashaCommandFromCode = {
     },
     {
       invariantKind: "departure",
-      statement: "A path built by joining is read through to the literals it joins.",
+      statement: "A path built by joining is read through to the literals the path joins.",
     },
     {
       invariantKind: "departure",

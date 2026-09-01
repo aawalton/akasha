@@ -25,7 +25,8 @@ export const measure = {
     },
     {
       invariantKind: "departure",
-      statement: "A subject this does not measure is refused rather than measured as nothing.",
+      statement:
+        "A subject this command does not measure is refused rather than measured as nothing.",
     },
     {
       invariantKind: "departure",

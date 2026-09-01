@@ -9,7 +9,7 @@ export const simMacbook = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Appium is started detached and outlives the ssh connection that started it.",
+      statement: "Appium is started detached and outlives the ssh connection that started Appium.",
     },
     {
       invariantKind: "departure",

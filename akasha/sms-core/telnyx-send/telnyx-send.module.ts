@@ -10,7 +10,7 @@ export const telnyxSend = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here sends the request it builds.",
+      statement: "Nothing here sends the request this module builds.",
     },
     {
       invariantKind: "departure",

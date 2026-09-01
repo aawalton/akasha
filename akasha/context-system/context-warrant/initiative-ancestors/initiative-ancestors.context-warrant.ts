@@ -29,7 +29,7 @@ export const initiativeAncestors = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat stating no initiative warrants none.",
+      statement: "A seat stating no initiative warrants no initiative.",
     },
   ],
 } as const satisfies ContextWarrant

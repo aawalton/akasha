@@ -9,7 +9,7 @@ export const retrofitSystemCards = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A soul appraisal card is left exactly as it was written.",
+      statement: "A soul appraisal card is left exactly as the card was written.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,8 @@ export const retrofitSystemCards = {
     },
     {
       invariantKind: "departure",
-      statement: "A card that stands is headed as the tower rather than by what it said before.",
+      statement:
+        "A card that stands is headed as the tower rather than by what the card said before.",
     },
   ],
 } as const satisfies Module

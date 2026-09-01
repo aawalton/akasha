@@ -60,11 +60,12 @@ export const clusterService = {
     },
     {
       invariantKind: "departure",
-      statement: "A cluster service runs one copy unless it is spread across nodes on purpose.",
+      statement:
+        "A cluster service runs one copy unless the cluster service is spread across nodes on purpose.",
     },
     {
       invariantKind: "departure",
-      statement: "A cluster service stands under the domain it serves.",
+      statement: "A cluster service stands under the domain the cluster service serves.",
     },
     {
       invariantKind: "departure",

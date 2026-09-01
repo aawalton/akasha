@@ -11,7 +11,7 @@ export const asking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every command asks for its change through this.",
+      statement: "Every command asks for its change through this module.",
     },
     {
       invariantKind: "departure",
@@ -32,11 +32,11 @@ export const asking = {
     {
       invariantKind: "departure",
       statement:
-        "A dry run judges what is there as it runs rather than what a later landing will judge.",
+        "A dry run judges what is there as the dry run runs rather than what a later landing will judge.",
     },
     {
       invariantKind: "departure",
-      statement: "Every body is formatted before the gate sees it.",
+      statement: "Every body is formatted before the gate sees the body.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that lands is recorded as read by whoever landed it.",
+      statement: "A body that lands is recorded as read by whoever landed the body.",
     },
     {
       invariantKind: "departure",

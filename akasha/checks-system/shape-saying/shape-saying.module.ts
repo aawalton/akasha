@@ -9,7 +9,7 @@ export const shapeSaying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Files are said in the order the shape found them.",
+      statement: "Files are said in the order the shape found the files.",
     },
     {
       invariantKind: "departure",

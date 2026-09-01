@@ -13,7 +13,7 @@ export const healthSnapshot = {
     },
     {
       invariantKind: "departure",
-      statement: "A metric counted over a day is totalled by day before it is summarised.",
+      statement: "A metric counted over a day is totalled by day before the metric is summarised.",
     },
     {
       invariantKind: "absence",

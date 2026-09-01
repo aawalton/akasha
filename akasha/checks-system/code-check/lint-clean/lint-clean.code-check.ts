@@ -14,7 +14,7 @@ export const lintClean = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The files a change is judged by are the ones it carries.",
+      statement: "The files a change is judged by are the ones the change carries.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
-      statement: "The linter reads each file on its own and follows no import out of it.",
+      statement: "The linter reads each file on its own and follows no import out of that file.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
-      statement: "Every finding is answered against the file it stands in.",
+      statement: "Every finding is answered against the file the finding stands in.",
     },
     {
       invariantKind: "departure",

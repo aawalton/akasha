@@ -15,11 +15,11 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "The program reads every body through one reader handed to it.",
+      statement: "The program reads every body through one reader handed to the program.",
     },
     {
       invariantKind: "departure",
-      statement: "A file outside the akasha folder is read as it stands.",
+      statement: "A file outside the akasha folder is read as the file stands.",
     },
     {
       invariantKind: "departure",
@@ -31,11 +31,12 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A spelling is matched by the declaration the checker resolves it to.",
+      statement: "A spelling is matched by the declaration the checker resolves the spelling to.",
     },
     {
       invariantKind: "departure",
-      statement: "Two properties carrying one key are told apart by where each is declared.",
+      statement:
+        "Two properties carrying one key are told apart by where each property is declared.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +45,8 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A key taken apart in a binding is resolved through the type it is taken from.",
+      statement:
+        "A key taken apart in a binding is resolved through the type the key is taken from.",
     },
     {
       invariantKind: "departure",
@@ -65,12 +67,12 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A file is read for every place it spells one key.",
+      statement: "A file is read for every place the file spells one key.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What a shorthand names is answered as the declarations the checker resolves it to.",
+        "What a shorthand names is answered as the declarations the checker resolves the shorthand to.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +85,7 @@ export const codeTyping = {
     {
       invariantKind: "departure",
       statement:
-        "A name is found where its own file exports it rather than where a body spells it.",
+        "A name is found where its own file exports the name rather than where a body spells the name.",
     },
     {
       invariantKind: "departure",
@@ -96,7 +98,8 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a declaration's name starts is answered as a line counted from one.",
+      statement:
+        "Where a declaration's name starts is answered as a line counted from the first line.",
     },
     {
       invariantKind: "departure",
@@ -130,7 +133,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what it finds.",
+      statement: "Nothing here judges what this module finds.",
     },
     {
       invariantKind: "absence",

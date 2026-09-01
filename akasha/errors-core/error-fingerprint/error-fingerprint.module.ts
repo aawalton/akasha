@@ -9,7 +9,7 @@ export const errorFingerprint = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Two faults differing only in line numbers or asset hashes fingerprint alike.",
+      statement: "Two faults differing in line numbers or asset hashes alone fingerprint alike.",
     },
   ],
 } as const satisfies Module

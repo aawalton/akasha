@@ -10,11 +10,12 @@ export const checkScratch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Where an index stands is reached through the composer that says it.",
+      statement:
+        "Where an index stands is reached through the composer that says where the index is.",
     },
     {
       invariantKind: "departure",
-      statement: "An entry is one line of JSON in a file named for what it answers to.",
+      statement: "An entry is one line of JSON in a file named for what the entry answers to.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +35,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
-      statement: "A change is read as the bodies it proposes.",
+      statement: "A change is read as the bodies the change proposes.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +47,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "absence",
-      statement: "A test says where its scratch stands and how long it lives.",
+      statement: "A test says where its scratch stands and how long the scratch lives.",
     },
     {
       invariantKind: "absence",
@@ -58,7 +59,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "absence",
-      statement: "What stands here is stood up by the check tests that reach for it.",
+      statement: "What stands here is stood up by the check tests that reach for what is here.",
     },
   ],
 } as const satisfies Module

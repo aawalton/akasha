@@ -22,7 +22,7 @@ export const macBuildSerialization = {
     },
     {
       invariantKind: "constraint",
-      statement: "The archive compiles the build number into the binary it produces.",
+      statement: "The archive compiles the build number into the binary the archive produces.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,8 @@ export const macBuildSerialization = {
     },
     {
       invariantKind: "departure",
-      statement: "A run dying between choosing and uploading leaves the counter where it found it.",
+      statement:
+        "A run dying between choosing and uploading leaves the counter where the run found the counter.",
     },
     {
       invariantKind: "departure",

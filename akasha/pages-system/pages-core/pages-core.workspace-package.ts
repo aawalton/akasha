@@ -145,7 +145,8 @@ export const pagesCore = {
     },
     {
       invariantKind: "departure",
-      statement: "A view is worked out from the rows handed to it rather than asked of a server.",
+      statement:
+        "A view is worked out from the rows handed to the view rather than asked of a server.",
     },
     {
       invariantKind: "absence",

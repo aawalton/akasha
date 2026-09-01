@@ -21,7 +21,7 @@ export const supabaseAuthUserId = {
     },
     {
       invariantKind: "departure",
-      statement: "Most people carry none.",
+      statement: "Most people carry no account.",
     },
   ],
 } as const satisfies TextProperty

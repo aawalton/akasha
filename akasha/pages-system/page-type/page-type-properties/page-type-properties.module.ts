@@ -24,12 +24,12 @@ export const pageTypeProperties = {
     {
       invariantKind: "departure",
       statement:
-        "A property is keyed by what its own page states rather than by the slug the declaration reaches it with.",
+        "A property is keyed by what its own page states rather than by the slug the declaration reaches the property with.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A declaration reaching no page property is left out rather than keyed by the name it states.",
+        "A declaration reaching no page property is left out rather than keyed by the name the declaration states.",
     },
     {
       invariantKind: "departure",
@@ -37,11 +37,11 @@ export const pageTypeProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "A field is declared by the record property carrying it.",
+      statement: "A field is declared by the record property carrying the field.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what it gathers.",
+      statement: "Nothing here judges what this module gathers.",
     },
     {
       invariantKind: "absence",
