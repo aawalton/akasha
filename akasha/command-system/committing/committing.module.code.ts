@@ -1,16 +1,13 @@
-import { execFileSync } from "node:child_process"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { said } from "@akasha/utils-run/running"
 
 export const AUTHOR = "Akasha <akasha@alanwalton.com>"
 
 export const UNNAMED = "unnamed"
 
 export function gitIn(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], {
-    encoding: "utf8",
-    maxBuffer: 64 * 1024 * 1024,
-  })
+  return said(["git", "-C", root, ...argv])
 }
 
 function nameOf(root: string): string {

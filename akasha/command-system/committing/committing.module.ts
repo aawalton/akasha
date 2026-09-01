@@ -38,6 +38,10 @@ export const committing = {
       statement: "A commit no writer is named for is authored by akasha.",
     },
     {
+      invariantKind: "departure",
+      statement: "What git says on the error stream is caught rather than shown.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges or writes or indexes.",
     },
