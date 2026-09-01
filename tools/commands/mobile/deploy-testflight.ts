@@ -24,7 +24,7 @@ export const help: CommandHelp = {
       argLabel: "<n>",
       valueShape: "token",
       description:
-        "Override the auto-increment: pin CFBundleVersion via CURRENT_PROJECT_VERSION and advance the durable mac counter to at least n. Omit to auto-claim the next number under the build mutex (max(durable counter, App Store Connect floor) + 1). TestFlight requires a unique build number per upload.",
+        "Override the auto-increment: pin CFBundleVersion via CURRENT_PROJECT_VERSION, and advance the durable mac counter to at least n ONCE THE UPLOAD SUCCEEDS. Omit to take the next number under the build mutex (max(durable counter, App Store Connect floor) + 1). The number is CHOSEN before the archive, which compiles it in, and RESERVED only after the upload that spends it — so a run that fails before uploading leaves the counter alone and the next run takes the same number rather than skipping it. A --no-upload dry run spends no number at all. TestFlight requires a unique build number per upload.",
     },
     {
       name: "--ref",
