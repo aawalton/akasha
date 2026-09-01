@@ -41,15 +41,15 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
-      statement: "Alan decides whether akasha writes in a shape.",
+      statement: "Alan approves every shape akasha writes in.",
     },
     {
       invariantKind: "departure",
-      statement: "A shape Alan has not decided states no `allowed`.",
+      statement: "A shape refused or not yet weighed needs no approval.",
     },
     {
       invariantKind: "departure",
-      statement: "A shape Alan has not decided is admitted until he decides it.",
+      statement: "A shape stating no `allowed` is admitted until it is decided.",
     },
     {
       invariantKind: "departure",
@@ -60,6 +60,10 @@ export const sentenceShape = {
       statement: "A shape is weighed by the load it costs a reader rather than by how it reads.",
     },
     {
+      invariantKind: "departure",
+      statement: "A refused shape is reached again through the shapes that rebuild its rules.",
+    },
+    {
       invariantKind: "absence",
       statement: "A shape says nothing about what a sentence means.",
     },
@@ -68,14 +72,14 @@ export const sentenceShape = {
     {
       directiveKind: "rule",
       name: "Alan Approves Sentence Shapes",
-      act: "State `allowed` on a sentence shape only where Alan has decided that shape.",
+      act: "Set `allowed` true on a sentence shape only where Alan has approved that shape.",
       warrant:
         "An approved shape enters the grammar, and every sentence written after it is judged by it.",
       aids: [
-        "Refusing a shape is deciding it.",
-        "A shape inferred from a past answer is not decided.",
+        "A shape refused or undecided lands without approval.",
+        "A shape inferred from a past answer is not approved.",
+        "A yes to a plan holding an approval is not that approval.",
         "Approving one shape is not approving another.",
-        "Leaving `allowed` out is the honest state.",
       ],
     },
   ],
