@@ -31,6 +31,7 @@ export const alanHarness = {
     "workspace-package/health-samples-import",
     "workspace-package/location-traces-access",
     "workspace-package/chess-core",
+    "workspace-package/utils-sync",
     "workspace-package/geo-io",
     "workspace-package/browser-launch-env",
     "workspace-package/web-static-assets",

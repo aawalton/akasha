@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/utils-sync",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./page-type-props": "./page-type-props/page-type-props.module.code.ts",
+    "./today": "./today/today.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-core": "workspace:*",
+    "@akasha/supabase-database": "workspace:*"
+  }
+}
