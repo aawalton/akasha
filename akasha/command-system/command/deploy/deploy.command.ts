@@ -16,7 +16,9 @@ export const deploy = {
     "what the deploy is made of is not on the call: the page names a cluster service, that page names a workload, and the code beside it emits the manifests.",
     "the namespace stands first, then what is placed in it, then the workload that reads it.",
     "a manifest the cluster already stands as is applied again by nothing, so a second call does nothing.",
-    "the build a pod serves is not made here, so a web app is put up at the build its pod already holds.",
+    "the build a pod serves is made here, inside that pod, from the commit HEAD stands at.",
+    "a pod takes its source from origin, so a commit origin does not carry is pushed onto main first.",
+    "a build already made from that commit is made again by nothing.",
   ],
   invariants: [
     {
@@ -37,6 +39,26 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
+      statement: "A web app is built from its source before it is put up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The source built is the commit the workstation's HEAD stands at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit origin does not carry is pushed onto main before the pod builds it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A push origin refuses makes the call refuse before anything is built.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A build already made from that commit is made again by nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A dry run reports the same plan the run would carry out.",
     },
     {
@@ -48,8 +70,12 @@ export const deploy = {
       statement: "Nothing here puts up a service the cluster does not run as a workload.",
     },
     {
+      invariantKind: "departure",
+      statement: "A change standing only in the worktree is not built.",
+    },
+    {
       invariantKind: "gap",
-      statement: "A web app is built from its source before it is put up.",
+      statement: "The commit pushed carries only the web app being put up.",
     },
   ],
 } as const satisfies Command
