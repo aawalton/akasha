@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/awen-core",
+  "name": "@akasha/story-engine-core",
   "private": true,
   "type": "module",
   "exports": {
