@@ -105,6 +105,8 @@ const IRREGULAR = listed(
     "meant felt slept swept crept dealt drawn grown thrown blown flown seen been done gone come run"
 )
 
+export const NOT_ADVERB = listed("reply apply supply imply comply family assembly anomaly multiply")
+
 export function classesOf(word: string): readonly WordClass[] {
   const said = word.toLowerCase()
   const found: WordClass[] = []
@@ -114,7 +116,7 @@ export function classesOf(word: string): readonly WordClass[] {
   if (found.length > 0) return found
   if (word.startsWith("`")) return ["N"]
   if (/^[0-9]/.test(said)) return ["ADJ", "N"]
-  if (said.endsWith("ly")) return ["ADV", "ADJ"]
+  if (said.endsWith("ly") && !NOT_ADVERB.has(said)) return ["ADV", "ADJ"]
   if (said.endsWith("ing")) return ["VING", "N", "ADJ"]
   if (said.endsWith("ed") || IRREGULAR.has(said)) return ["VEN", "V", "ADJ", "N"]
   if (said.endsWith("s")) return ["N", "V"]
