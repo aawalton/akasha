@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Build 198 boots and Alan signed in. The pod was 500ing on a missing `.git/pages`; deploying `a5d11cc542` made `/api/categorization` a clean 401 in 0.17s with zero index errors. What is left is the credential. The mint route has never once succeeded: no commit carries `a device secret is minted` nor the author `web@alanwalton.com`. `decideMintAction` is presence-only, so a stale keychain item blocks re-minting, and Sign Out, the one path that clears it, is broken.",
+        "Build 198 boots, Alan signed in, the widget is still empty. The pod runs `b40354edc4`: the missing page index is gone and `/api/categorization` answers a clean 401 in 0.17s. The store write path is proven healthy from inside the pod, so the mint fails before it, at a 401 that answered alike for two causes and logged nothing. That route now says which refusal it made. Next is reading the pod for one `[device-secret] mint` line when Alan reopens the app.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
