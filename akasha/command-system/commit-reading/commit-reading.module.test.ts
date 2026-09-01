@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
-import { spawn, spawnSync } from "node:child_process"
+import { spawn } from "node:child_process"
 import { until } from "@akasha/testing-system/waiting"
+import { ran } from "@akasha/utils-run/running"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { git, gitOver, repoWith } from "../landing/landing.module.test-fixtures.ts"
 import { bodyAt, readingEnded } from "./commit-reading.module.code.ts"
@@ -64,21 +65,18 @@ test("a body that would not read ends the reader rather than leaving it half rea
 
 test("reading a body the commit does not carry says nothing on stderr", () => {
   const root = repoWith({ "one.txt": "committed" })
-  const said = spawnSync(
+  const said = ran([
     "bun",
-    [
-      "-e",
-      `import { bodyAt, readingEnded } from ${JSON.stringify(MODULE_AT)}
+    "-e",
+    `import { bodyAt, readingEnded } from ${JSON.stringify(MODULE_AT)}
 import { baseOf } from ${JSON.stringify(LANDING_AT)}
 const root = ${JSON.stringify(root)}
 const base = baseOf(root)
 for (const one of ["a.txt", "b.txt", "c.txt"]) bodyAt(root, base, one)
 readingEnded()`,
-    ],
-    { encoding: "utf8" }
-  )
-  expect(said.stderr).toBe("")
-  expect(said.status).toBe(0)
+  ])
+  expect(said.err).toBe("")
+  expect(said.code).toBe(0)
 })
 
 test("a parent killed outright leaves no git behind it", async () => {
