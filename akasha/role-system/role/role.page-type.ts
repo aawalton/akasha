@@ -144,5 +144,17 @@ export const role = {
         "You know none of them, and a meter you can see covers part of the spend and reads like the whole.",
       aids: ["Quick, small and a lot are all estimates.", "A duration already elapsed is a fact."],
     },
+    {
+      directiveKind: "rule",
+      name: "One Read A Call",
+      act: "Run one `akasha read` per shell call rather than chaining several into one.",
+      warrant:
+        "Output past what one shell result holds is truncated, and the record still says it reached you.",
+      aids: [
+        "One call naming many files is safe; it caps itself.",
+        "The cap is per call, so chaining defeats it.",
+        "Nothing marks what was lost.",
+      ],
+    },
   ],
 } as const satisfies PageType
