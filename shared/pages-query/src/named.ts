@@ -10,12 +10,17 @@ export type Standing =
   | { readonly where: "there"; readonly query: ComposedQuery }
   | { readonly where: "refused"; readonly why: string }
 
+function kebabed(name: string): string {
+  return name.replace(/[A-Z]/g, (one) => `-${one.toLowerCase()}`)
+}
+
 function testsBy(where: readonly Test[]): Readonly<Record<string, unknown>> {
-  const held: Record<string, unknown> = {}
+  const held: Record<string, Record<string, unknown>> = {}
   for (const one of where) {
     const { key, ...rest } = one
-    const already = held[key]
-    held[key] = typeof already === "object" && already !== null ? { ...already, ...rest } : rest
+    const named: Record<string, unknown> = {}
+    for (const [test, bound] of Object.entries(rest)) named[kebabed(test)] = bound
+    held[key] = { ...(held[key] ?? {}), ...named }
   }
   return held
 }
