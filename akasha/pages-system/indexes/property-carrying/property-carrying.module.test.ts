@@ -30,7 +30,7 @@ function pageAt(slug: string, kind: string): string {
   return `akasha/${slug}.${kind}.ts`
 }
 
-function stands(root: string, slug: string, kind: string, id: string): undefined {
+function filed(root: string, slug: string, kind: string, id: string): undefined {
   const path = pageAt(slug, kind)
   listedFiled(root, kind, slug, [{ path, id }])
   idFiled(root, id, [{ path, id }])
@@ -47,7 +47,7 @@ function property(root: string, slug: string, shape: string, id: string): undefi
       fileName: null,
     },
   ])
-  stands(root, slug, shape, id)
+  filed(root, slug, shape, id)
 }
 
 function declares(root: string, property: string, by: string, at: string): undefined {
@@ -61,7 +61,7 @@ function extending(root: string, above: string, below: string, at: string): unde
 function rooted(): string {
   const root = scratch.rootFor("akasha-carrying-")
   property(root, "held", "text-property", HELD)
-  stands(root, "thing", "page-type", THING)
+  filed(root, "thing", "page-type", THING)
   listedFiled(root, "thing", "one", [{ path: "akasha/one.thing.ts", id: ONE }])
   return root
 }
@@ -82,7 +82,7 @@ test("a page type declaring nothing of it carries none of its pages", () => {
 test("a property is carried by the pages of every type beneath the one declaring it", () => {
   const root = rooted()
   declares(root, HELD, THING, pageAt("thing", "page-type"))
-  stands(root, "deeper", "page-type", DEEPER)
+  filed(root, "deeper", "page-type", DEEPER)
   extending(root, THING, DEEPER, pageAt("deeper", "page-type"))
   listedFiled(root, "deeper", "two", [{ path: "akasha/two.deeper.ts", id: TWO }])
   const said = carryingOf(root, "held")
@@ -94,7 +94,7 @@ test("a property is carried by the pages of every type beneath the one declaring
 
 test("a property a record declares is carried by the pages carrying that record", () => {
   const root = rooted()
-  stands(root, "records", "record-property", RECORDS)
+  filed(root, "records", "record-property", RECORDS)
   declares(root, HELD, RECORDS, pageAt("records", "record-property"))
   declares(root, RECORDS, THING, pageAt("thing", "page-type"))
   expect(carryingOf(root, "held")).toEqual({
@@ -104,8 +104,8 @@ test("a property a record declares is carried by the pages carrying that record"
 
 test("a property nested deeper than one record is not reached", () => {
   const root = rooted()
-  stands(root, "records", "record-property", RECORDS)
-  stands(root, "deeper", "record-property", DEEPER)
+  filed(root, "records", "record-property", RECORDS)
+  filed(root, "deeper", "record-property", DEEPER)
   declares(root, HELD, RECORDS, pageAt("records", "record-property"))
   declares(root, RECORDS, DEEPER, pageAt("deeper", "record-property"))
   declares(root, DEEPER, THING, pageAt("thing", "page-type"))
