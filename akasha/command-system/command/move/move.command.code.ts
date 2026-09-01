@@ -315,12 +315,12 @@ export function move(argv: readonly string[], given: Given): Answer {
   const said = messageIn(argv, VALUED)
   if ("refusals" in said) return answering([], said.refusals, 1)
   const root = resolve(given.root)
-  const stood = baseOf(root)
+  const base = baseOf(root)
   const sided = sidedIn(root, read.pairs)
   if ("refusals" in sided) return answering([], sided.refusals, 1)
   const moved = new Map<string, string>(sided.sides.map((one) => [one.from, one.to]))
   const bodyText = (path: string): string | null => {
-    const bytes = bodyAt(root, stood, path)
+    const bytes = bodyAt(root, base, path)
     return bytes === null ? null : textOf(bytes)
   }
   const renamings = sided.sides.flatMap((one) =>
@@ -335,11 +335,11 @@ export function move(argv: readonly string[], given: Given): Answer {
       uncommitted.push({ from: one.from, to: one.to })
       continue
     }
-    const bytes = bodyAt(root, stood, one.from)
+    const bytes = bodyAt(root, base, one.from)
     if (bytes === null) {
       return answering(
         [],
-        [`${one.from} stands in no commit at \`${stood}\`, so what it holds cannot be moved`],
+        [`${one.from} stands in no commit at \`${base}\`, so what it holds cannot be moved`],
         2
       )
     }
@@ -383,12 +383,12 @@ export function move(argv: readonly string[], given: Given): Answer {
   const naming = new Set<string>("importers" in reading ? reading.importers : [])
   for (const path of addressing.keys()) naming.add(path)
   if ("importers" in reading) {
-    for (const path of spellingOf(root, stood, moved, naming)) naming.add(path)
+    for (const path of spellingOf(root, base, moved, naming)) naming.add(path)
   }
   const repointing: string[] = []
   for (const path of [...naming].sort()) {
     if (!path.endsWith(TS) || moved.has(path)) continue
-    const held = bodyAt(root, stood, path)
+    const held = bodyAt(root, base, path)
     if (held === null) continue
     const text = textOf(held)
     if (text === null) {
@@ -420,7 +420,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     dryRun: read.dryRun,
     glass: glass.glass,
     unmoved: [],
-    read: stood,
+    read: base,
     carries: uncommitted,
     saying: () => carrying(sided.sides, reached, false),
   }
