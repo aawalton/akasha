@@ -1,7 +1,6 @@
-import type { Fetcher } from "@akasha/pages-query/fetcher"
-import { askNamed } from "@shared/pages-query"
+import { askingFor, type Fetcher } from "@akasha/pages-system-service/calling"
 
-const READOUTS_ALL = "readouts-all"
+const READOUT = "readout"
 
 export type NoneLeft = {
   readonly words?: string
@@ -15,8 +14,8 @@ export function stated(value: unknown): string | undefined {
 }
 
 export function noneLeftIn(values: Readonly<Record<string, unknown>>): NoneLeft {
-  const words = stated(values["none-left-words"])
-  const emoji = stated(values["none-left-emoji"])
+  const words = stated(values.noneLeftWords)
+  const emoji = stated(values.noneLeftEmoji)
   return {
     ...(words === undefined ? {} : { words }),
     ...(emoji === undefined ? {} : { emoji }),
@@ -24,10 +23,13 @@ export function noneLeftIn(values: Readonly<Record<string, unknown>>): NoneLeft 
 }
 
 export async function readNoneLeft(readoutSlug: string, fetcher?: Fetcher): Promise<NoneLeft> {
-  const asked = await askNamed(READOUTS_ALL, fetcher)
-  if (!asked.ok) return {}
+  const asked = await askingFor(
+    { pageTypeSlug: READOUT, where: { slug: { is: readoutSlug } } },
+    fetcher
+  )
+  if ("refused" in asked) return {}
 
-  const row = asked.answer.rows.find((r) => r.values.slug === readoutSlug)
+  const [row] = asked.rows
   if (row === undefined) return {}
-  return noneLeftIn(row.values)
+  return noneLeftIn(row)
 }

@@ -1,6 +1,8 @@
 import { expect, test } from "bun:test"
 import { noneLeftIn, readNoneLeft, stated } from "./readout-none-left.module.code.ts"
 
+const answering = (said: unknown) => async (): Promise<Response> => Response.json(said)
+
 test("a value that is not text says nothing", () => {
   expect(stated(11)).toBe(undefined)
   expect(stated(null)).toBe(undefined)
@@ -21,23 +23,29 @@ test("a page stating neither half carries neither", () => {
 })
 
 test("a page stating one half carries that half alone", () => {
-  expect(noneLeftIn({ "none-left-words": "All reviewed!" })).toEqual({ words: "All reviewed!" })
-  expect(noneLeftIn({ "none-left-emoji": "🎉" })).toEqual({ emoji: "🎉" })
+  expect(noneLeftIn({ noneLeftWords: "All reviewed!" })).toEqual({ words: "All reviewed!" })
+  expect(noneLeftIn({ noneLeftEmoji: "🎉" })).toEqual({ emoji: "🎉" })
 })
 
 test("a page stating both halves carries both", () => {
-  expect(noneLeftIn({ "none-left-words": "All reviewed!", "none-left-emoji": "🎉" })).toEqual({
+  expect(noneLeftIn({ noneLeftWords: "All reviewed!", noneLeftEmoji: "🎉" })).toEqual({
     words: "All reviewed!",
     emoji: "🎉",
   })
 })
 
-test("a readout no page names carries nothing", async () => {
-  expect(await readNoneLeft("no-readout-is-named-this")).toEqual({})
+test("the halves a readout page states are read off its row", async () => {
+  const rows = [{ slug: "a-readout", noneLeftWords: "All reviewed!", noneLeftEmoji: "🎉" }]
+  expect(await readNoneLeft("a-readout", answering({ rows }))).toEqual({
+    words: "All reviewed!",
+    emoji: "🎉",
+  })
 })
 
-test("the words and emoji the unreviewed readout states are read from the store", async () => {
-  const noneLeft = await readNoneLeft("monarch-unreviewed-transactions")
-  expect(noneLeft.words).toBeDefined()
-  expect(noneLeft.emoji).toBeDefined()
+test("a readout no page names carries neither half", async () => {
+  expect(await readNoneLeft("no-readout-is-named-this", answering({ rows: [] }))).toEqual({})
+})
+
+test("a store that answers nothing carries neither half", async () => {
+  expect(await readNoneLeft("a-readout", answering({ refused: "no" }))).toEqual({})
 })

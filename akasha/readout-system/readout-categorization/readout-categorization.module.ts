@@ -4,7 +4,7 @@ export const readoutCategorization = {
   id: "01a05bc9-a678-768f-ba6e-f91fdcf9ec6d",
   pageTypeSlug: "module",
   slug: "readout-categorization",
-  definition: "what a ring is answered when it asks how many transactions are unreviewed",
+  definition: "what a route answers when a caller asks for one readout's reading",
   code: "ts",
   test: "ts",
   invariants: [
@@ -38,7 +38,24 @@ export const readoutCategorization = {
     },
     {
       invariantKind: "departure",
-      statement: "The rungs and the words for an empty backlog are read from the store.",
+      statement: "The readout answered for is handed in rather than named here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key a reading is answered under is read off the readout's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scale read is the one the readout's page names rather than one named here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A readout whose page cannot be read is answered as none rather than under a guessed key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rungs and the words for an empty reading are read from the store.",
     },
     {
       invariantKind: "departure",
@@ -51,6 +68,10 @@ export const readoutCategorization = {
     {
       invariantKind: "absence",
       statement: "Nothing here names the site the answer is served from.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here names a readout or a scale or a group.",
     },
     {
       invariantKind: "absence",

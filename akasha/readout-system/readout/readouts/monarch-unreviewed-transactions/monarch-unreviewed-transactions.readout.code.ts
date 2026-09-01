@@ -1,18 +1,5 @@
 import { z } from "zod"
-
-export type RingScale = {
-  readonly yellowAt?: number
-  readonly orangeAt: number
-  readonly redAt: number
-  readonly blackAt: number
-}
-
-export type RingCounts = {
-  readonly unreviewed: number
-  readonly scale?: RingScale
-  readonly noneLeftWords?: string
-  readonly noneLeftEmoji?: string
-}
+import type { RingCounts } from "../../../readout-body/readout-body.module.code.ts"
 
 const API_URL = "https://api.monarch.com/graphql"
 const ORIGIN = "https://app.monarch.com"

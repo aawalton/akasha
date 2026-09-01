@@ -1,10 +1,7 @@
-import { type Fetcher, pagesFetcher } from "@akasha/pages-query/fetcher"
-import { askNamed } from "@shared/pages-query"
-import type { RingScale } from "../readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
+import { askingFor, type Fetcher } from "@akasha/pages-system-service/calling"
+import type { RingScale } from "../readout-body/readout-body.module.code.ts"
 
-const READOUT_SCALES_ALL = "readout-scales-all"
-
-const BACKLOG_COUNT_SLUG = "backlog-count"
+const READOUT_SCALE = "readout-scale"
 
 export function declaredThreshold(value: unknown): number | null {
   if (typeof value === "number") return Number.isFinite(value) ? value : null
@@ -16,22 +13,26 @@ export function declaredThreshold(value: unknown): number | null {
 }
 
 export function scaleIn(values: Readonly<Record<string, unknown>>): RingScale | undefined {
-  const orangeAt = declaredThreshold(values["orange-at"])
-  const redAt = declaredThreshold(values["red-at"])
-  const blackAt = declaredThreshold(values["black-at"])
+  const orangeAt = declaredThreshold(values.orangeAt)
+  const redAt = declaredThreshold(values.redAt)
+  const blackAt = declaredThreshold(values.blackAt)
   if (orangeAt === null || redAt === null || blackAt === null) return undefined
 
-  const yellowAt = declaredThreshold(values["yellow-at"])
+  const yellowAt = declaredThreshold(values.yellowAt)
   return { orangeAt, redAt, blackAt, ...(yellowAt === null ? {} : { yellowAt }) }
 }
 
-export async function readBacklogCountScale(
-  fetcher: Fetcher = pagesFetcher()
+export async function readScale(
+  scaleSlug: string,
+  fetcher?: Fetcher
 ): Promise<RingScale | undefined> {
-  const asked = await askNamed(READOUT_SCALES_ALL, fetcher)
-  if (!asked.ok) return undefined
+  const asked = await askingFor(
+    { pageTypeSlug: READOUT_SCALE, where: { slug: { is: scaleSlug } } },
+    fetcher
+  )
+  if ("refused" in asked) return undefined
 
-  const row = asked.answer.rows.find((r) => r.values.slug === BACKLOG_COUNT_SLUG)
+  const [row] = asked.rows
   if (row === undefined) return undefined
-  return scaleIn(row.values)
+  return scaleIn(row)
 }

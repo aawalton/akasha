@@ -11,6 +11,7 @@ export const readoutSystem = {
     "page-type/readout-group",
     "page-type/readout-scale",
     "page-type/readout-widget",
+    "module/readout-body",
     "module/readout-categorization",
     "module/readout-credential",
     "module/readout-none-left",
