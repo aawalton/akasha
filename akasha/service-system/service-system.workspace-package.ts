@@ -16,5 +16,7 @@ export const serviceSystem = {
     "module/service-wrapping",
     "module/service-reading",
     "module/service-installing",
+    "module/web-app-reading",
+    "module/workload-deploying",
   ],
 } as const satisfies WorkspacePackage

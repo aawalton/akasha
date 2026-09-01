@@ -19,6 +19,7 @@ export const command = {
   partSlugs: [
     "boolean-property/mechanical",
     "command/audit",
+    "command/deploy",
     "command/edit",
     "command/index",
     "command/ios-app",
