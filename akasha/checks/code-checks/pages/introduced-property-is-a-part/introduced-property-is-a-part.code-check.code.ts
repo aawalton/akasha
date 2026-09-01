@@ -1,10 +1,8 @@
-import { everyOfType } from "@akasha/indexes"
-import { pageTypesIn } from "@akasha/indexes/entries"
 import { namesIn } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { slugIn } from "@akasha/pages-system/page-address"
 import { namedIn } from "@akasha/pages-system/page-file-name"
-import { declarationsOf, identityOf, propertiesOf } from "@akasha/pages-system/page-type-properties"
+import { identityOf } from "@akasha/pages-system/page-type-properties"
 import { textAt, type Value } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { input, pagesTailed } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -60,11 +58,11 @@ export function introducedIn(one: PageType, shadow: Shadow): readonly string[] {
   const said = textAt(value, ABOVE)
   const over = said === null ? null : slugIn(said)
   const inherited = new Set(
-    over === null ? [] : propertiesOf(over, shadow.reading, shadow.pageOf).map(identityOf)
+    over === null ? [] : shadow.index.propertiesOf(over, shadow.pageOf).map(identityOf)
   )
-  const own = declarationsOf(one.slug, shadow.reading, shadow.pageOf).filter(
-    (each) => each.declaredBy === one.slug
-  )
+  const own = shadow.index
+    .declarationsOf(one.slug, shadow.pageOf)
+    .filter((each) => each.declaredBy === one.slug)
   const introduced = new Set(
     own.filter((each) => !inherited.has(identityOf(each))).map((each) => each.pagePropertySlug)
   )
@@ -88,7 +86,7 @@ export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly
     held.add(slug)
     found.push({ slug, path: one.path, value: one.value })
   }
-  for (const at of everyOfType(shadow.reading, PAGE_TYPE)) {
+  for (const at of shadow.index.everyOfType(PAGE_TYPE)) {
     const value = shadow.pageOf(at.path)
     const slug = value === null ? null : textAt(value, SLUG)
     if (slug === null || held.has(slug)) continue
@@ -123,7 +121,7 @@ function reasonFor(propertySlug: string, typeSlug: string): string {
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   if (!change.changed.some((path) => typeNamedIn(path) !== null)) return []
-  const carried = carriedBy(change, pageTypesIn(shadow.reading))
+  const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (!carried.some((one) => typeNamedIn(one.path) !== null)) return []
   const types = everyType(shadow, carried)
   const introducers = introducersIn(types, shadow)
