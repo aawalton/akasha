@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../../pages-system/text-property/text-property.page-type.ts"
+import type { TextProperty } from "@akasha/pages-system/text-property"
 
 export type Opens = string
 

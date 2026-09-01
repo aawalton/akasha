@@ -1,5 +1,5 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
-import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
+import type { PageType } from "@akasha/pages-system/page-type"
 import type { GroupSlugs } from "./properties/group-slugs.relation-property.ts"
 import type { Label } from "./properties/label.text-property.ts"
 import type { LastValue } from "./properties/last-value.number-property.ts"
