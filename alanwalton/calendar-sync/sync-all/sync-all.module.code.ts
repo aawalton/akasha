@@ -1,8 +1,6 @@
-import { askNamed, patchPage } from "@shared/pages-query"
 import type { QueryRow } from "@shared/pages-query/answer-schema"
-import { combineResults, type SyncResult } from "../sync-result/sync-result.module.code.ts"
-import { type CalendarSource, syncSource, WRITER } from "../sync-source/sync-source.module.code.ts"
-import { trackSyncRun } from "../track-sync-run/track-sync-run.module.code.ts"
+import type { SyncResult } from "../sync-result/sync-result.module.code.ts"
+import type { CalendarSource } from "../sync-source/sync-source.module.code.ts"
 
 export const SOURCE_SLUG = "calendar-event-source"
 export const SOURCES_QUERY = "calendar-event-sources-all"
@@ -41,58 +39,25 @@ export function targetsIn(
   return wanted
 }
 
-async function markSource(
-  name: string,
-  values: Readonly<Record<string, string>>
-): Promise<undefined> {
-  const landed = await patchPage(SOURCE_SLUG, name, values, WRITER)
-  if (!landed.ok) console.error(`${name}: its sync state did not land: ${landed.why}`)
-}
+// THIS CRON HAS STOPPED AT ITS FIRST STATEMENT EVERY DAY SINCE 4c1f05a264. `syncAll` asked the
+// saved query `calendar-event-sources-all` for the calendars to sync, and a saved query was a file
+// in the checkout that commit severed, so `askNamed` refuses every slug. The job runs at 08:40,
+// threw on the refusal, and never reached a calendar. It says so itself now.
+//
+// Nothing downstream of it worked either, so restoring the read alone would not restore the sync:
+// `syncSource` landed each event with `patchRow` and `trackSyncRun` opened and settled its run
+// with `writeRow` and `patchPage`, and the store refuses all three. Marking a source's sync state
+// afterwards went through `patchPage` as well. The whole chain wrote nothing.
+//
+// What the query asked for is plain, and the narrowing above already runs over rows, so the
+// service can answer it directly — `{ pageTypeSlug: "calendar-event-source", keys: ["external-id",
+// "base-url", "provider-client", "timezone", "sync-status"] }` — with `targetsIn` taking the rows
+// as it does today. The writes are the harder half and want a body, not keys.
+const NO_SAVED_QUERY =
+  "a saved query is answered by the page engine that has been removed. ask `@akasha/pages-system-service/calling` for every `calendar-event-source` page and hand its rows to `targetsIn`"
 
-export async function syncAll(options: SyncAllOptions = {}): Promise<SyncResult> {
-  const asked = await askNamed(SOURCES_QUERY)
-  if (!asked.ok) throw new Error(`calendar sync could not read its sources: ${asked.why}`)
-
-  const targets = targetsIn(asked.answer.rows, options.sourceSlug)
-  if (options.sourceSlug != null && targets.length === 0) {
-    throw new Error(`no calendar-event-source with externalId "${options.sourceSlug}"`)
-  }
-
-  const results: SyncResult[] = []
-  const failures: string[] = []
-
-  for (const source of targets) {
-    console.log(`\n--- Syncing ${source.name} ---`)
-    try {
-      const runOnce = () => syncSource(source, { nowMs: Date.now(), dryRun: options.dryRun })
-      const result = options.dryRun ? await runOnce() : await trackSyncRun(source.name, runOnce)
-      results.push(result)
-      console.log(`${source.name}: written=${result.written} failed=${result.failed}`)
-      if (!options.dryRun) {
-        await markSource(source.name, {
-          "sync-status": result.failed > 0 ? "error" : "active",
-          "last-synced-at": new Date().toISOString(),
-          "sync-error": "",
-        })
-      }
-    } catch (err) {
-      failures.push(source.name)
-      console.error(`${source.name} sync failed:`, err)
-      if (!options.dryRun) {
-        await markSource(source.name, {
-          "sync-status": "error",
-          "sync-error": String(err).slice(0, 2000),
-        })
-      }
-    }
-  }
-
-  const total = combineResults(results)
-  console.log(
-    `\n--- Done --- sources=${targets.length} written=${total.written} failed=${total.failed}`
+export async function syncAll(_options: SyncAllOptions = {}): Promise<SyncResult> {
+  throw new Error(
+    `calendar sync could not read its sources: \`${SOURCES_QUERY}\` went unasked — ${NO_SAVED_QUERY}`
   )
-  if (failures.length > 0) {
-    throw new Error(`calendar sync: ${failures.length} source(s) failed: ${failures.join(", ")}`)
-  }
-  return total
 }
