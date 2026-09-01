@@ -469,18 +469,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "alanwalton/health-samples-access": {
-      "name": "@alanwalton/health-samples-access",
-      "version": "0.1.0",
-      "dependencies": {
-        "@shared/day": "workspace:*",
-        "@shared/recurrence": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "alanwalton/health-samples-day": {
       "name": "@alanwalton/health-samples-day",
       "version": "0.1.0",
@@ -4083,8 +4071,6 @@
     "@alanwalton/elaine-cli": ["@alanwalton/elaine-cli@workspace:alanwalton/elaine-cli"],
 
     "@alanwalton/email-google": ["@alanwalton/email-google@workspace:alanwalton/email-google"],
-
-    "@alanwalton/health-samples-access": ["@alanwalton/health-samples-access@workspace:alanwalton/health-samples-access"],
 
     "@alanwalton/health-samples-day": ["@alanwalton/health-samples-day@workspace:alanwalton/health-samples-day"],
 
