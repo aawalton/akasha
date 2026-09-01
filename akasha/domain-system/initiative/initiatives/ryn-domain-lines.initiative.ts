@@ -10,12 +10,12 @@ export const rynDomainLines = {
     {
       statement: "Every construction akasha writes is parsed by the grammar.",
       workingMemory:
-        "Fifteen shapes over four tiers took plain from 655 of 3551 to 2043, and refusals the grammar cannot read from 2815 to 541. What is left is a long tail rather than a few big constructions. To find the next one, count the refusals by the word the parse stopped at; a construction the grammar lacks shows up as a cluster.",
+        "Nine more shapes took plain from 2043 of 3551 to 2074, and refusals the grammar cannot read from 541 to 499. Counting refusals by the word a parse stopped at finds what the grammar lacks. Sharper: over the sentences the grammar already admits, list every tag assignment allowing a parse, drop any sentence hitting the cap, and rank the words forced into a verb slot. A cluster there is a rule the grammar lacks and is faking.",
     },
     {
       statement: "Every sentence shape the grammar parses carries a decision.",
       workingMemory:
-        "Four shapes refused, none allowed, 39 undecided. Alan approves only allowing, and holds that no simpler rewrite is necessary but not sufficient, so approvals wait on criteria he has not named yet. Mine for clearly wrong shapes instead. Every defect so far was a rule too loose, firing on a wrong analysis and hiding a missing rule: read a shape's dependents and check the construction is really in them.",
+        "Four shapes refused, none allowed, 53 undecided. Alan approves only allowing, and holds that no simpler rewrite is necessary but not sufficient, so approvals wait on criteria he has not named yet. Mine for clearly wrong shapes instead. Every defect so far was a rule too loose, firing on a wrong analysis and hiding a missing rule. One parse tree settles nothing, because the grammar may hold the right analysis as well; what settles it is that no tag assignment at all is the right one.",
     },
     { statement: "A sentence the grammar refuses names a shape it is refused for." },
     { statement: "A change writing a sentence the grammar refuses does not land." },
