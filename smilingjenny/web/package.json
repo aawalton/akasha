@@ -20,7 +20,6 @@
     "@shared/design-primitives": "workspace:*",
     "@shared/design-system": "workspace:*",
     "@shared/errors-client": "workspace:*",
-    "@shared/monarch-categorization-access": "workspace:*",
     "@shared/notifications": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/status-bar-access": "workspace:*",

@@ -73,7 +73,6 @@
     "shared/errors-client",
     "shared/errors-core",
     "shared/geo-io",
-    "shared/monarch-categorization-access",
     "shared/notifications",
     "shared/object-store",
     "shared/open-questions",

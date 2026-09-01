@@ -38,14 +38,6 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "shared/monarch-categorization-access": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "shared/object-store": {
       "entry": [
         "**/*.test.{ts,tsx}"

@@ -32,7 +32,6 @@
     "@shared/design-system": "workspace:*",
     "@shared/errors-client": "workspace:*",
     "@shared/errors-core": "workspace:*",
-    "@shared/monarch-categorization-access": "workspace:*",
     "@shared/notifications": "workspace:*",
     "@shared/object-store": "workspace:*",
     "@shared/open-questions": "workspace:*",
