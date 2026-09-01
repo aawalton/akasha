@@ -1,4 +1,4 @@
-import { seaweedFSObjectStoreFromEnv } from "@shared/object-store"
+import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { askNamed } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import { resolveServableImage, serveResolvedImage } from "~/lib/serve-image-object.server"

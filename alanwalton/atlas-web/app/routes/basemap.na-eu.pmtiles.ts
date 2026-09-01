@@ -1,4 +1,4 @@
-import { seaweedFSObjectStoreFromEnv } from "@shared/object-store"
+import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { checkBasemapRange, MAX_RANGE_BYTES } from "~/lib/basemap-range"
 import type { Route } from "./+types/basemap.na-eu.pmtiles"
 

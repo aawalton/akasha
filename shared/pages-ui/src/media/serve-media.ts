@@ -1,5 +1,5 @@
-import { type ObjectStreamResult, seaweedFSObjectStoreFromEnv } from "@shared/object-store"
-import { mediaRenderObjectKey } from "@shared/object-store/keys"
+import { type ObjectStreamResult, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
+import { mediaRenderObjectKey } from "@akasha/object-store/object-store-key"
 import { type GetPageArgs, getPage } from "@akasha/pages-access/get"
 import { type Page } from "@akasha/pages-core/page-types"
 import { isMedium, MEDIA_FORMATS, type Medium } from "@akasha/pages-core/media-formats"

@@ -1,4 +1,4 @@
-import { seaweedFSObjectStoreFromEnv } from "@shared/object-store"
+import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { resolveServableImage, serveResolvedImage } from "~/lib/serve-image-object.server"
 import type { Route } from "./+types/api.image.$imageId"

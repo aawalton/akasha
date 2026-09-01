@@ -1,5 +1,5 @@
-import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@shared/object-store"
-import { hlsPlaylistObjectKey } from "@shared/object-store/keys"
+import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
+import { hlsPlaylistObjectKey } from "@akasha/object-store/object-store-key"
 import { getPage } from "@akasha/pages-access/get"
 import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
 import { MEDIA_UUID_PATTERN, MEDIA_VARIANT_PATTERN, mediaPageStands } from "@shared/pages-ui/media/serve-media"

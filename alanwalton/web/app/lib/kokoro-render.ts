@@ -1,6 +1,6 @@
 import { DEFAULT_VOICE_INFER_URL } from "@akasha/voice-core/voice/infer-endpoint"
 import { buildKokoroSpeechSegments } from "@akasha/voice-core/voice/speech"
-import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@shared/object-store"
+import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { getPage } from "@akasha/pages-access/get"
 import { getMediaConfig } from "@akasha/pages-access/page-type-config"
 import { readAloudKey, storedReadAloudExists } from "~/lib/read-aloud-persist"

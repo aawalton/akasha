@@ -57,7 +57,7 @@
     "@akasha/web-build-sha": "workspace:*",
     "@akasha/day": "workspace:*",
     "@akasha/errors-client": "workspace:*",
-    "@shared/object-store": "workspace:*",
+    "@akasha/object-store": "workspace:*",
     "@akasha/recurrence": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",

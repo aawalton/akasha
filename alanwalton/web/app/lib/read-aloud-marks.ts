@@ -3,8 +3,8 @@ import {
   estimateChapterSentenceMarksFromN,
 } from "@akasha/voice-core/voice/estimate-marks"
 import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
-import { type ObjectStore } from "@shared/object-store"
-import { hlsPlaylistObjectKey } from "@shared/object-store/keys"
+import { type ObjectStore } from "@akasha/object-store/seaweedfs-store"
+import { hlsPlaylistObjectKey } from "@akasha/object-store/object-store-key"
 import { getPage } from "@akasha/pages-access/get"
 import { getMediaConfig } from "@akasha/pages-access/page-type-config"
 import { parseHlsExtinf } from "./hls-extinf"

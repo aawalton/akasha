@@ -1,5 +1,5 @@
-import { type ObjectStreamResult, seaweedFSObjectStoreFromEnv } from "@shared/object-store"
-import { hlsSegmentObjectKey } from "@shared/object-store/keys"
+import { type ObjectStreamResult, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
+import { hlsSegmentObjectKey } from "@akasha/object-store/object-store-key"
 import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
 import { MEDIA_UUID_PATTERN, MEDIA_VARIANT_PATTERN, mediaPageStands } from "@shared/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"

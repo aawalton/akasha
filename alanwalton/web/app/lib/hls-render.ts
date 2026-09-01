@@ -1,6 +1,6 @@
 import { DEFAULT_VOICE_INFER_URL } from "@akasha/voice-core/voice/infer-endpoint"
-import { type ObjectStore } from "@shared/object-store"
-import { type HlsKeyOpts, hlsPlaylistObjectKey, hlsSegmentPrefix } from "@shared/object-store/keys"
+import { type ObjectStore } from "@akasha/object-store/seaweedfs-store"
+import { type HlsKeyOpts, hlsPlaylistObjectKey, hlsSegmentPrefix } from "@akasha/object-store/object-store-key"
 import { z } from "zod"
 import { readAloudKey } from "~/lib/read-aloud-persist"
 

@@ -1,5 +1,5 @@
-import { type ObjectStore } from "@shared/object-store"
-import { imageObjectReadKeys } from "@shared/object-store/keys"
+import { type ObjectStore } from "@akasha/object-store/seaweedfs-store"
+import { imageObjectReadKeys } from "@akasha/object-store/object-store-key"
 
 export interface ResolvedImage {
   readonly key: string

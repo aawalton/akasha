@@ -1,5 +1,5 @@
-import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@shared/object-store"
-import { mediaRenderObjectKey } from "@shared/object-store/keys"
+import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
+import { mediaRenderObjectKey } from "@akasha/object-store/object-store-key"
 import { MEDIA_FORMATS } from "@akasha/pages-core/media-formats"
 import { STORED_READ_ALOUD_VARIANT } from "@akasha/pages-ui/media/media-src"
 

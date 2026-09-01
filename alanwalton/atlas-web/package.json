@@ -38,7 +38,7 @@
     "@akasha/design-system": "workspace:*",
     "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@shared/object-store": "workspace:*",
+    "@akasha/object-store": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
