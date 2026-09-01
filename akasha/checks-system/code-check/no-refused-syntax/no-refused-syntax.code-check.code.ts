@@ -80,9 +80,9 @@ export function rulesIn(
         `${one.path} is a syntax rule, and no code file can stand beside a name like it`
       )
     }
-    const standing = shadow.codeAt(beside)
+    const codePath = shadow.codeAt(beside)
     let mod: Record<string, unknown>
-    if (standing === null) {
+    if (codePath === null) {
       const carried = introducedIn(change, beside)
       if (carried === null) {
         throw new Error(
@@ -98,10 +98,10 @@ export function rulesIn(
       }
     } else {
       try {
-        mod = loadFrom(join(root, standing)) as Record<string, unknown>
+        mod = loadFrom(join(root, codePath)) as Record<string, unknown>
       } catch (thrown) {
         throw new Error(
-          `${one.path} is a syntax rule, and ${standing} could not be loaded — ${saidBy(thrown)}`
+          `${one.path} is a syntax rule, and ${codePath} could not be loaded — ${saidBy(thrown)}`
         )
       }
     }
