@@ -7,6 +7,12 @@ import { keepReading } from "../../readout-system/readout-reading/readout-readin
 export const READOUT_PAGE =
   "akasha/readout-system/readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
 
+export const COOKIE_NAME = "MONARCH_COOKIE"
+
+export const COOKIE_ABSENT =
+  `${COOKIE_NAME} is not set, so there is no reading to take. It is the whole Cookie header ` +
+  "from a signed-in session at app.monarch.com, and only Alan at a browser can produce one."
+
 export type CountsTaken = (cookie: string, now: Date) => Promise<RingCounts>
 
 export async function takeReading(
@@ -18,4 +24,29 @@ export async function takeReading(
   const counts = await take(cookie, now)
   keepReading(root, READOUT_PAGE, counts.unreviewed, now)
   return counts.unreviewed
+}
+
+export function cookieIn(held: Record<string, string | undefined>): string | null {
+  const cookie = held[COOKIE_NAME]?.trim()
+  return cookie === undefined || cookie === "" ? null : cookie
+}
+
+export function saidOf(thrown: unknown): string {
+  return thrown instanceof Error ? thrown.message : String(thrown)
+}
+
+if (import.meta.main) {
+  const cookie = cookieIn(process.env)
+  if (cookie === null) {
+    process.stderr.write(`${COOKIE_ABSENT}\n`)
+    process.exit(2)
+  }
+  const root = process.env.AKASHA_ROOT ?? process.cwd()
+  try {
+    const unreviewed = await takeReading(root, cookie)
+    process.stdout.write(`${unreviewed} unreviewed, kept beside ${READOUT_PAGE}\n`)
+  } catch (thrown) {
+    process.stderr.write(`${saidOf(thrown)}\n`)
+    process.exit(1)
+  }
 }
