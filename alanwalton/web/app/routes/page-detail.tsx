@@ -12,7 +12,7 @@ import type { Route } from "./+types/page-detail"
 
 const IdleGame = lazy(() => import("~/idle/idle-game"))
 
-const ChessBoard = lazy(() => import("@akasha/alanwalton-web/chess-board"))
+const ChessBoard = lazy(() => import("@akasha/chess-core/chess-board"))
 
 const QuestionDetail = lazy(() => import("../questions/question-detail"))
 

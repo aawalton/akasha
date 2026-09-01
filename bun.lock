@@ -81,12 +81,18 @@
     "akasha/agents-system": {
       "name": "@akasha/agents-system",
     },
-    "akasha/alan/chess/core": {
+    "akasha/alan/chess": {
       "name": "@akasha/chess-core",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
+        "chess.js": "^1.4.0",
+        "chessground": "^9.2.1",
         "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
       },
     },
     "akasha/alan/web": {
@@ -95,9 +101,6 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "chess.js": "^1.4.0",
-        "chessground": "^9.2.1",
-        "zod": "^4.3.6",
       },
       "peerDependencies": {
         "react": "^18 || ^19",
@@ -3700,7 +3703,7 @@
 
     "@akasha/checks-system": ["@akasha/checks-system@workspace:akasha/checks-system"],
 
-    "@akasha/chess-core": ["@akasha/chess-core@workspace:akasha/alan/chess/core"],
+    "@akasha/chess-core": ["@akasha/chess-core@workspace:akasha/alan/chess"],
 
     "@akasha/code-system": ["@akasha/code-system@workspace:akasha/code-system"],
 
