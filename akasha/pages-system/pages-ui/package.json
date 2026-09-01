@@ -31,6 +31,7 @@
     "./components/reader-prose": "./components/reader-prose/reader-prose.module.code.ts",
     "./components/reader-typography": "./components/reader-typography/reader-typography.module.code.ts",
     "./components/resolve-listing-config": "./components/resolve-listing-config/resolve-listing-config.module.code.ts",
+    "./frame/viewport-thresholds": "./frame/viewport-thresholds/viewport-thresholds.module.code.ts",
     "./media/is-webkit": "./media/is-webkit/is-webkit.module.code.ts",
     "./media/media-renditions": "./media/media-renditions/media-renditions.module.code.ts",
     "./media/media-src": "./media/media-src/media-src.module.code.ts",

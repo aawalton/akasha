@@ -41,5 +41,6 @@ export const pagesUi = {
     "module/use-app-version-check",
     "module/use-inline-completion",
     "module/use-shell-media-src",
+    "module/viewport-thresholds",
   ],
 } as const satisfies WorkspacePackage
