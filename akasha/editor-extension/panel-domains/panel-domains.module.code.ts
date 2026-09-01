@@ -37,16 +37,16 @@ export function kindsUnderDomain(root: string): ReadonlySet<string> {
 }
 
 export function domainsDrawn(root: string): readonly DomainRow[] {
-  const standing: Listed[] = []
+  const listed: Listed[] = []
   for (const kind of [...kindsUnderDomain(root)].sort()) {
-    standing.push(...everyOfType(root, kind))
+    listed.push(...everyOfType(root, kind))
   }
   const addressById = new Map<string, string>()
-  for (const one of standing) {
+  for (const one of listed) {
     const address = addressOf(one.path)
     if (address !== null) addressById.set(one.id, address)
   }
-  const edges = standing.flatMap((one) => {
+  const edges = listed.flatMap((one) => {
     const child = addressById.get(one.id)
     if (child === undefined) return []
     return [...idsNaming(root, one.id, PARTS)].flatMap((above) => {
@@ -57,13 +57,13 @@ export function domainsDrawn(root: string): readonly DomainRow[] {
   const parentsOf = Map.groupBy(edges, (one) => one.child)
   const naming = new Set(edges.map((one) => one.parent))
   const sequenceOf = new Map<string, readonly string[]>()
-  for (const one of standing) {
+  for (const one of listed) {
     const address = addressById.get(one.id)
     if (address === undefined || !naming.has(address)) continue
     sequenceOf.set(address, partsIn(valueAt(one.path, root)))
   }
   const drawn: DomainRow[] = []
-  for (const one of standing) {
+  for (const one of listed) {
     const address = addressById.get(one.id)
     if (address === undefined) continue
     const above = parentsOf.get(address) ?? []
