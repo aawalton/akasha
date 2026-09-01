@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
+import { ran } from "@akasha/utils-run/running"
 import { guarding } from "../../hook-answer/hook-answer.module.code.ts"
 import { judging } from "../../hook-judging/hook-judging.module.code.ts"
 import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
@@ -116,29 +117,27 @@ test("the scope names the class it cannot close and the gap it carries", () => {
 })
 
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("bun test", ROOT)) })
-  expect(ran.exitCode).toBe(2)
-  const said: unknown = JSON.parse(ran.stdout.toString())
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("bun test", ROOT)) })
+  expect(done.code).toBe(2)
+  const said: unknown = JSON.parse(done.out)
   expect(said).toMatchObject({ decision: "block" })
   expect((said as { reason: string }).reason).toContain("akasha test")
 })
 
 test("the hook stands aside on stdin for a run outside the akasha folder", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT], {
-    stdin: Buffer.from(payloadOf("bun test shared/one", ROOT)),
-  })
-  expect(ran.exitCode).toBe(0)
-  expect(ran.stdout.toString()).toBe("")
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("bun test shared/one", ROOT)) })
+  expect(done.code).toBe(0)
+  expect(done.out).toBe("")
 })
 
 test("a payload that will not parse lets the call through rather than refusing it", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from("{") })
-  expect(ran.exitCode).toBe(5)
-  expect(ran.stderr.toString()).toContain("the call was not refused")
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from("{") })
+  expect(done.code).toBe(5)
+  expect(done.err).toContain("the call was not refused")
 })
 
 test("the hook prints its scope when it is asked", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
-  expect(ran.exitCode).toBe(0)
-  expect(ran.stdout.toString()).toContain("NOT REACHED")
+  const done = ran(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
+  expect(done.code).toBe(0)
+  expect(done.out).toContain("NOT REACHED")
 })
