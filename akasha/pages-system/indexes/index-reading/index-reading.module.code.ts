@@ -129,7 +129,7 @@ export function listedAt(
   return listedNamed(given, pageTypeSlug, SLUG, slug)
 }
 
-export function standingById(given: string | Reading, id: string): Listed | null {
+export function listedById(given: string | Reading, id: string): Listed | null {
   return answered(
     given,
     ROOT,
@@ -144,7 +144,7 @@ export function standingAddressed(
   unqualified: string
 ): Listed | null {
   const address = addressIn(named)
-  if (address.kind === "id") return standingById(given, address.id)
+  if (address.kind === "id") return listedById(given, address.id)
   const under = address.kind === "qualified" ? address.pageTypeSlug : unqualified
   return listedAt(given, under, address.slug)[0] ?? null
 }
@@ -302,7 +302,7 @@ function slugOf(standing: Listed | null, id: string): string | null {
 }
 
 export function typeSlugById(given: string | Reading, id: string): string | null {
-  return slugOf(standingById(given, id), id)
+  return slugOf(listedById(given, id), id)
 }
 
 export function typeSlugOf(given: string | Reading, id: string): string {

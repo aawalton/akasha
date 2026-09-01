@@ -8,10 +8,10 @@ import { indexAt, indexIn } from "../index-surface/index-surface.module.code.ts"
 import {
   everyPath,
   importersOf,
+  listedById,
   readingIn,
   schemaOf,
   standingAddressed,
-  standingById,
   standingByPath,
 } from "./index-reading.module.code.ts"
 import {
@@ -141,22 +141,22 @@ test("an id the index carries is answered with the page carrying it", () => {
   const root = rootAt()
   idFiled(root, A, [{ path: "akasha/a.module.ts", id: A }])
 
-  expect(standingById(root, A)).toEqual({ path: "akasha/a.module.ts", id: A })
-  expect(standingById(root, B)).toBe(null)
+  expect(listedById(root, A)).toEqual({ path: "akasha/a.module.ts", id: A })
+  expect(listedById(root, B)).toBe(null)
 })
 
 test("an id directory standing nowhere under a standing index is nothing rather than a refusal", () => {
   const root = rootAt()
   nothingFiled(root)
 
-  expect(standingById(root, A)).toBe(null)
+  expect(listedById(root, A)).toBe(null)
 })
 
 test("every reader is refused where the index stands nowhere, whatever it was asked", () => {
   const root = rootAt()
 
-  expect(() => standingById(root, A)).toThrow(/\.git\/data\/index/)
-  expect(() => standingById(root, A)).toThrow(/is not an index naming none/)
+  expect(() => listedById(root, A)).toThrow(/\.git\/data\/index/)
+  expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
   expect(() => everyPath(root)).toThrow(/is not an index naming none/)
   expect(() => standingByPath(root, "akasha/a.module.ts")).toThrow(/is not an index naming none/)
   expect(() => schemaOf(root, "nowhere")).toThrow(/is not an index naming none/)

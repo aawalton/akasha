@@ -2,8 +2,8 @@ import {
   idsNaming,
   type Listed,
   listedAt,
+  listedById,
   standingAddressed,
-  standingById,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { slugStated, typeStated } from "../../agent-stated/agent-stated.module.code.ts"
@@ -51,7 +51,7 @@ export function domainAncestors(root: string, path: string): readonly Warrant[] 
         if (walked.has(above)) continue
         walked.add(above)
         next.push(above)
-        const said = standingById(root, above)
+        const said = listedById(root, above)
         if (said === null) continue
         const oid = blobAt(root, said.path)
         if (oid === null) continue

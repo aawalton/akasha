@@ -12,7 +12,7 @@ import {
   everyOfType,
   type Listed,
   listedAt,
-  standingById,
+  listedById,
 } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import { readingOf } from "../index-surface/index-surface.module.code.ts"
@@ -122,7 +122,7 @@ export function knownIn(
     targetOf,
     admitting,
     at: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
-    byId: (id) => standingById(reading, id),
+    byId: (id) => listedById(reading, id),
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
     slugOfKeyIn: (value, key) => {
       const held = keyed.get(key) ?? []

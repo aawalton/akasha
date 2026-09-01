@@ -2,7 +2,7 @@ import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "no
 import { join } from "node:path"
 import {
   listedAt,
-  standingById,
+  listedById,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
@@ -71,7 +71,7 @@ export function assignedTo(root: string, seatName: string): string | null {
 }
 
 export function seatNamedIn(root: string, seatId: string): string | null {
-  const standing = standingById(root, seatId)
+  const standing = listedById(root, seatId)
   if (standing === null) return null
   const named = namedIn(standing.path)
   return named === null || named.tail !== SEAT ? null : named.stem

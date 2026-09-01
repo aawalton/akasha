@@ -10,8 +10,8 @@ import {
 import {
   everyOfType,
   listedAt,
+  listedById,
   slugsOfType,
-  standingById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -285,7 +285,7 @@ export function unreadIn(
 }
 
 export function seatPathOf(root: string, agentId: string): string | null {
-  const standing = standingById(root, agentId)
+  const standing = listedById(root, agentId)
   if (standing === null) return null
   const said = namedIn(standing.path)
   return said !== null && said.tail === SEAT ? standing.path : null

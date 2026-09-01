@@ -3,9 +3,9 @@ import {
   everyOfType,
   idsNaming,
   listedAt,
+  listedById,
   readingIn,
   schemaOf,
-  standingById,
 } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 
@@ -37,7 +37,7 @@ export function declaringOf(given: string | Reading, id: string): readonly Decla
   const reading = readingIn(given)
   const found: Declaring[] = []
   for (const said of idsNaming(reading, id, DECLARES)) {
-    const standing = standingById(reading, said)
+    const standing = listedById(reading, said)
     if (standing === null) continue
     const named = namedIn(standing.path)
     if (named === null) continue
@@ -53,7 +53,7 @@ function underneath(reading: Reading, id: string): readonly string[] {
   for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
     if (walked.has(one)) continue
     walked.add(one)
-    const standing = standingById(reading, one)
+    const standing = listedById(reading, one)
     if (standing === null) continue
     const named = namedIn(standing.path)
     if (named === null || named.tail !== PAGE_TYPE) continue
