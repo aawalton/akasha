@@ -150,7 +150,7 @@ export const codeTests = {
     },
     {
       invariantKind: "absence",
-      statement: "A world is only what is made of them.",
+      statement: "A world is only what is made of the paths and the bodies.",
     },
     {
       invariantKind: "absence",
