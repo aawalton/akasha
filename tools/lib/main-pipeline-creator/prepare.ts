@@ -87,7 +87,7 @@ export async function prepareMainPipeline(
 
   const treeHash = await readTreeHash(code, gitDir, commit)
 
-  const undeleted = await git([
+  const notDeleted = await git([
     "diff",
     "--name-only",
     "--diff-filter=d",
@@ -113,8 +113,8 @@ export async function prepareMainPipeline(
     )
   }
 
-  if (undeleted.ok) {
-    const missing = code.changedFilesMissingGraphNodes(graph, lines(undeleted.stdout))
+  if (notDeleted.ok) {
+    const missing = code.changedFilesMissingGraphNodes(graph, lines(notDeleted.stdout))
     if (missing.length > 0) {
       const overflow = missing.length > NAMED_CAP ? ` (+${missing.length - NAMED_CAP} more)` : ""
       throw new Error(

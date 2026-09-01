@@ -12,7 +12,6 @@ export type Page = {
   pageTypeSlug: string
   createdAt: string
   updatedAt: string
-  deletedAt: string | null
   uniqueKey: string | null
   parentKey: string | null
   [key: string]: Json

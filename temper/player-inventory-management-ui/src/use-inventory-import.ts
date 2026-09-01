@@ -162,7 +162,7 @@ export function useInventoryImport(userId: string | null) {
           }
           snapshotId = snapshot.id
         }
-        for (const extraId of snapshotPlan.snapshotsToSoftDelete) {
+        for (const extraId of snapshotPlan.snapshotsToDelete) {
           await runDeleteRef.current({
             pageTypeSlug: INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
             where: [{ key: "id", eq: extraId }],
@@ -174,7 +174,7 @@ export function useInventoryImport(userId: string | null) {
           snapshotId,
           payloads
         )
-        for (const chunkId of chunkPlan.chunksToSoftDelete) {
+        for (const chunkId of chunkPlan.chunksToDelete) {
           await runDeleteRef.current({
             pageTypeSlug: INVENTORY_CHUNK_PAGE_TYPE_SLUG,
             where: [{ key: "id", eq: chunkId }],

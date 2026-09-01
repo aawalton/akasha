@@ -50,7 +50,6 @@ export function cumulativeRow(
     rruleRule: "FREQ=DAILY",
     completionCardId: "skill-lines",
     progress,
-    deletedAt: null,
     ...overrides,
   }
 }

@@ -5,7 +5,7 @@ export interface ExistingSnapshotRow {
 
 export interface SnapshotImportPlan {
   targetSnapshotId: string | null
-  snapshotsToSoftDelete: readonly string[]
+  snapshotsToDelete: readonly string[]
 }
 
 function compareSnapshotsNewestFirst(a: ExistingSnapshotRow, b: ExistingSnapshotRow): number {
@@ -21,11 +21,11 @@ export function planSnapshotImport(existing: readonly ExistingSnapshotRow[]): Sn
   const sorted = [...existing].sort(compareSnapshotsNewestFirst)
   const target = sorted[0]
   if (target === undefined) {
-    return { targetSnapshotId: null, snapshotsToSoftDelete: [] }
+    return { targetSnapshotId: null, snapshotsToDelete: [] }
   }
   return {
     targetSnapshotId: target.id,
-    snapshotsToSoftDelete: sorted.slice(1).map((r) => r.id),
+    snapshotsToDelete: sorted.slice(1).map((r) => r.id),
   }
 }
 
@@ -41,7 +41,7 @@ export interface PlannedChunkUpsert {
 }
 
 export interface ChunkImportPlan {
-  chunksToSoftDelete: readonly string[]
+  chunksToDelete: readonly string[]
   chunksToUpsert: readonly PlannedChunkUpsert[]
 }
 
@@ -57,21 +57,21 @@ export function planChunkImport(
   payloads: readonly string[]
 ): ChunkImportPlan {
   const chunkCount = payloads.length
-  const chunksToSoftDelete: string[] = []
+  const chunksToDelete: string[] = []
 
   const underTarget: ExistingChunkRow[] = []
   for (const row of existing) {
     if (row.inventory === targetSnapshotId) {
       underTarget.push(row)
     } else {
-      chunksToSoftDelete.push(row.id)
+      chunksToDelete.push(row.id)
     }
   }
 
   const byIndex = new Map<number, ExistingChunkRow[]>()
   for (const row of underTarget) {
     if (row.chunkIndex === null) {
-      chunksToSoftDelete.push(row.id)
+      chunksToDelete.push(row.id)
       continue
     }
     const group = byIndex.get(row.chunkIndex)
@@ -82,12 +82,12 @@ export function planChunkImport(
   for (const [index, rows] of byIndex) {
     const sorted = [...rows].sort(compareById)
     if (index >= chunkCount) {
-      for (const r of sorted) chunksToSoftDelete.push(r.id)
+      for (const r of sorted) chunksToDelete.push(r.id)
     } else {
-      for (const r of sorted.slice(1)) chunksToSoftDelete.push(r.id)
+      for (const r of sorted.slice(1)) chunksToDelete.push(r.id)
     }
   }
 
   const chunksToUpsert: PlannedChunkUpsert[] = payloads.map((data, index) => ({ index, data }))
-  return { chunksToSoftDelete, chunksToUpsert }
+  return { chunksToDelete, chunksToUpsert }
 }

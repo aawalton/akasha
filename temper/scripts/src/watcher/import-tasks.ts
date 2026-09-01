@@ -356,7 +356,6 @@ export async function runImportTasks(
 
   let sweptForever = 0
   for (const task of tasks) {
-    if (task.deletedAt != null) continue
     if (deletedThisRun.has(task.id)) continue
     if (!isCompleteForever(task)) continue
     await deletePageById({ pageTypeSlug: "temper-task", id: task.id })

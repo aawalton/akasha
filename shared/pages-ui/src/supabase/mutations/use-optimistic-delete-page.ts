@@ -9,7 +9,7 @@ export function useOptimisticDeletePage(mutate: (args: DeletePageArgs) => Promis
     const ids = extractTargetIds(args.where)
     if (!ids) return mutate(args)
     const plans: PagesMutationPlan[] = ids.map((id) => ({
-      kind: "hard-delete",
+      kind: "delete",
       rowId: id,
     }))
     return runOptimisticMutation({ plans, mutate: () => mutate(args) })
