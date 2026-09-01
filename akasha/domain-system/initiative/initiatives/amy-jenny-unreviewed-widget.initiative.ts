@@ -12,7 +12,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "A file writing a page through the page store lands the write rather than refusing.",
       workingMemory:
-        "49 of the 50 page types the callers write are markdown under pages/, and the store answers for akasha alone, so no renderer moves this. But tools/lib/page-query-client.ts still works: askComposed answered 132 daily-tracking pages just now. 0e6b6d059d repointed 89 files off it onto akasha stubs, so writePage, patchPage and askNamed refuse and the stoplights throw. The call: an adapter puts the markdown callers back on the working client, each moving to akasha as its page type lands.",
+        "Two timed services name the fault and fail every tick: daily-tracking-points cannot find `tools/lib/page-query-in-process.ts`, deleted, and great-courses-sync cannot find `@shared/pages-query/fetcher`. Both stand failed with live timers. `tools/lib/page-query-client.ts` still answers, returning 132 daily-tracking rows. 49 of the 50 page types the callers write are markdown under pages/. The call stands: an adapter puts those callers back on the working client as each page type lands.",
     },
     {
       statement: "`pages-core` stands in akasha.",
