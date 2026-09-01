@@ -4,8 +4,6 @@ import {
   type Naming,
   specifiersIn,
 } from "@akasha/code-system/code-specifier"
-import { everyPath } from "@akasha/indexes"
-import { filePropertiesAt } from "@akasha/indexes/entries"
 import { bodiesAt, reachingIn } from "@akasha/indexes/package-reaching"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
@@ -77,8 +75,8 @@ export function namingFor(root: string, shadow: Shadow): Naming {
   const found = HELD.get(shadow)
   if (found !== undefined) return found
   const bodyAt = bodiesAt(root)
-  const named = [...everyPath(shadow.reading), ...workspacesIn(bodyAt(MANIFEST))]
-  const made = reachingIn(named, filePropertiesAt(shadow.reading), bodyAt)
+  const named = [...shadow.index.everyPath(), ...workspacesIn(bodyAt(MANIFEST))]
+  const made = reachingIn(named, shadow.index.filePropertiesAt(), bodyAt)
   HELD.set(shadow, made)
   return made
 }
