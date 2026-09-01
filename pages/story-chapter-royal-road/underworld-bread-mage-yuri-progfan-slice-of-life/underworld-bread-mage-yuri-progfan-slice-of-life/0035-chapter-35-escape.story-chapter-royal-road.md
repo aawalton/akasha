@@ -1,0 +1,107 @@
+---
+id: f32560e3-c466-5bab-bdd9-f676268fe708
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: Escape"
+slug: 0035-chapter-35-escape
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 35
+ownLength: 1411
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3895413/chapter-35-escape"
+royalRoadId: "3895413"
+---
+
+Juggling the club in her hand, Marina sat in silence. Despite the storm of footsteps below her, the ants seemed to have no care for what was atop the building’s roof. Soldiers entered and left with supplies as she awaited Hecate’s supposed distraction. The weapon of pure blunt trauma weighed about ten pounds, heavy enough to knock out a small foe, but light enough for Marina to give her best swing. It almost reminded her of the baseball field she used to play on, though she never hit many home runs.
+
+But this time, she’d have to hit one for the team.
+
+Looking down, the armory stood about twenty feet above the ground, and Hecate did not have the courtesy of bringing Marina down with her. She took a small step onto a small ledge amongst the cavern walls, taking deep breaths as she held the club tightly in her arms behind the cloak.
+
+It’s okay, I can do this! She thought to herself as she hopped onto the next ledge.
+
+The wall is curved to Marina’s favor, with the steepness lessening after dropping only a few feet. After landing on solid ground, she quickly ducked away from the populated entrance. Other than the one guard with the keys around its abdomen, there were also two other guards standing across. Knocking out all three within a short interval will be impossible; she is not Hecate after all. It would be an impressive stunt for her to even knock out that one guard.
+
+Hope everything goes well on her side. Marina sat down next to a stone pillar, examining the ant army’s routine. These guys do have some incredible teamwork skills. She watched the fluidity of the supply lines and training exercises.
+
+Suddenly, like the jamming of a gear piece, an ant dropped the crate from its hand, then another stopped the swing of a spear in midair. One by one, they all dropped their in-hand task. And one by one, their antennae perched upwards.
+
+That is quite fast. Marina stood up with extra care, especially now that the entire field of soldiers was in alert mode.
+
+With no verbal instructions at all, the hundreds of ants organized themselves into brigades before swarming their way through one of the tunnels, like moths to an open flame.
+
+Rushing to the tunnel leading to the dungeon entrance, Marina saw an opening. The two other guards seemed to have left with the rest of the army, leaving the one with the keys behind. If the ants operated as a hivemind, then whoever issued the command must have purposely left one to protect what was inside. And whatever it was, it had to be important.
+
+To take extra precautions before making her move, Marina scouted the nearby area, making sure it was all clear. Out of curiosity, she wandered into the armory, which was once heavily guarded but is now left empty. And from the corner of her eye, an item sitting atop a pile of mostly rusted junk drew her attention.
+
+It was a slingshot.
+
+Extending her hand out of the cloak, she pulled it in for a closer look. The rubber’s elasticity persisted through the weathering that was carved into the wooden body. It looked ordinary, but usable, and struck an idea into Marina’s mind. She dashed back to the dungeon, now with two weapons at her disposal.
+
+Let’s see just how tough these guys are. Setting her club to the side, Marina loaded a small pebble onto the slingshot before aiming.
+
+The pebble launched through the air with more force than expected, hitting the guard straight on the head.
+
+“Gawr!” The guard yelped in pain as it rubbed its smooth head, checking both tunnel openings with a lowered spear.
+
+Just need them to come a little bit closer. Marina aimed again, this time with a rock half the size of her palm.
+
+The second shot landed like the first, though; instead of the head, it struck the ant’s body, sending it stumbling forward.
+
+“Gawr!” The guard turned around ferociously, storming its way toward Marina.
+
+Perfect. She dashed around a corner, now with her club in hand.
+
+The sound of her heartbeat drowned out the white noise in her ear. Closing her eyes, she counted each of the guard’s footsteps, which grew louder as the numbers grew bigger. After ten strides worth of counting, Marina opened her eyes to find the ant’s rear completely exposed.
+
+It was now or never.
+
+Taking two flurries of steps forward, the distance between them closed in the blink of an eye. Marina raised the wooden club like a blade meant for dragons, her cloak flung behind her to unveil her glorious presence as the slayer of dragons.
+
+The ant jerked its head back, but it was too late. The wooden surface caved in its exoskeleton straight in, breaking one of its mandibles in the process, sending it tumbling into the ground, unconscious.
+
+“Yes!” Marina cheered as she raised her fist into the air. “That was easy work. I am useful after all–oh, right, the keys.” She snatched the key chain from the ant’s waist before dragging the poor critter into a corner. “These symbols are probably what they use to identify which door it opens. But I don’t have a translator, so just need to try every single one now.”
+
+Making her way to the metal door, Marina began to insert the various-shaped keys into the keyhole, hoping one would match soon. And after going through a dozen of them, the door finally clicked open. Peeking her head inside, she scanned around the area in case there were more guards, only to find what they came here for.
+
+Behind the two large metal-barbed cells sat around a dozen Bee-ple. They seemed to still be in their usual clothes, consisting of brown shirts and flappy trousers, but covered by a thick layer of dust.
+
+Taking a deep breath, Marina lowered her hood as she walked in. “Are you guys alright?”
+
+“Who are you?” One of the older gentlemen spoke.
+
+“Oh, my name is Marina, and I was asked to find some missing Bee-ple with my partner…” Marina pointed outside. “Who is currently being chased by the entire ant colony, and we should hurry out of here.”
+
+“You got the keys. Unlock these cells first. It should be the one with a symbol shaped like a chair.” The old gentleman said.
+
+“Thanks, that is very good to know.” Marina juggled through the batch of keys before finding the one that resembled the description. “Here we go.” She unlocked the first cell. “What about the other one?”
+
+“It’s the key with a symbol that is shaped like the letter ‘H’ from Universal.” A younger gentleman from the other cell said.
+
+“Found it.” Marina inserted the key before unlocking with a click. “Before we get out, does anyone know if anybody with the Alpis name is here?”
+
+“That would be my son and me.” The same younger gentleman said. “Are you from the village?”
+
+“Sort of… but your wife, Melissa, sent us to find you, she is incredibly worried,” Marina replied.
+
+The boy next to him cried. “Sorry, Dad, it was all my fault…”
+
+“Hey, don’t say that. We’re getting out of here, okay?” The young man looked back at Marina. “My name is Melvin, and this is my son, Miles.”
+
+“Sorry for the lack of a formal greeting, but we really need to hurry now.” Marina gave a quick bow.
+
+The older gentleman hollered. “Alright, lads, grab your stuff quickly!”
+
+“Make sure to stay close, and don’t get lost. The caves are dark.” Marina stepped out of the jail with two dozen Bee-ple trailing her.
+
+They made their way through the training grounds without trouble and were soon at the tunnel from which Marina had come. Suddenly, just as she took her first step outside, the walls to her left blasted open as if being struck by a missile. A white figure was sent flying straight out of the impact, into the ground before her.
+
+“Hecate!” Marina rushed over. “Are you alright?”
+
+“Oh, my dear, there has been a slight miscalculation…” Hecate picked herself up.
+
+“Which is…?”
+
+“I was able to take out their queen, but it looks like that angered the colony more than it disabled them.” Hecate gestured to the other side of the gaping hole. “So now we have two thousand angry and murderous ants after us.”
+
+“...”

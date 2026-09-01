@@ -1,0 +1,169 @@
+---
+id: 45bf399e-cdfc-584e-81f3-f2f049b95a1e
+page-type-slug: story-chapter-royal-road
+title: "180 — Book 4, Chapter 24 — The Black Vault, Pt 1"
+slug: 0185-180-book-4-chapter-24-the-black-vault-pt-1
+partOf: just-add-mana
+position: 185
+ownLength: 3728
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3895768/180-book-4-chapter-24-the-black-vault-pt-1"
+royalRoadId: "3895768"
+---
+
+The Black Vault was not technically a part of Brightscale Academy.
+
+It was not, in fact, technically a part of the realm, though the specifics of that technicality was under much debate by many of Utelia’s top scholars. The stories and legends surrounding it suggested that long ago, a team of adventurers had unearthed it from some ancient dungeon. At the time, it resembled an egg, only it seemed made of solid mythril.
+
+Unable to determine what it was and assuming it was some simple mundane trinket, they gifted it to the king of a now-dead kingdom in the hopes of earning his favor. Mythril, after all, was a much sought-after metal. It could not be reforged, and to have a chunk of it on display could only be an expression of utmost wealth. Not only that, but the surface of this particular trinket was delicately engraved with gold and embedded with all manner of precious jewels. It was perhaps the single most valuable item that had ever been recovered from that dungeon.
+
+Yet the king, on receiving his gift, had flown into a rage. He was a famously practical man, much to the misfortune of the adventurers that hoped to win him over. The sight of such flagrant waste—the thought that these adventurers believed that he might want such a thing, as if he had any use for mere displays of wealth—sent him into a fit of such fury that he threw it onto the ground.
+
+And though the egg was made of unbreakable mythril, it cracked, an ethereal mist erupting from it and gushing forth. That mist took the shape of a cube and quickly solidified into an unidentifiable, black substance with an iridescent sheen. Despite being mist only moments ago, that substance was nonetheless harder than mythril and seemed immune to magic. Any spell cast against it would dissipate, and any attempt to acquire a sample would rust and rot whatever tool was used against it.
+
+The cube had a door, though, and the space within was far larger than should have been possible. It appeared to be an infinite, endless expanse of nothingness. Those who entered reported a feeling of inexplicable wrongness, a sudden emptiness and weight to their existence. They would claim it felt as though their very lives were being sapped away from them. And that was not the only thing that was wrong with the cube: anything brought into it would rot or break more quickly; any food that was warm would quickly turn cold; a fire lit within it would seem to emit almost no heat at all, though it would burn happily at its fuel.
+
+The king was pleased by this, however, for it meant the egg had a use after all. He named it the Black Vault and gave the adventurers that brought it to him all they asked for and more, then set his scholars to work studying it.
+
+When they brought him no results that satisfied him, he began sending prisoners and enemies of his kingdom into it, demanding that they record each of their days within the Vault. It was said that in that time, many of his prisoners simply disappeared without explanation—consumed by the Vault, the superstitious said, though the king dismissed their claims.
+
+This was where many believed his obsession with the Black Vault began. He came to be known as the Lost King, for he saw nothing before him except the secrets he believed the Black Vault held. He was convinced that far within its depths there lay answers to mysteries both arcane and otherwise. The secret to eternal life, a means to run a kingdom that would never falter, an end to poverty and famine and hunger...
+
+The Lost King’s intent was surely noble, and his people knew that he searched only for a means to help their ailing kingdom. But they saw also what he could not. They saw that he was falling into obsession. When prisoners failed to bring him the answers he wanted, he sent in soldiers; when soldiers failed, he sent in scholars and mages of high regard; when even those failed, he began spending time within the Black Vault himself, despite the pleas of his wife and children. First an hour a day, then two, then four.
+
+It wasn’t long then before he stopped emerging from the Vault at all, ordering food to be brought to him and left at the entrance. One week after that, the guards noticed that the food was no longer being consumed and called the queen, who had long since grieved the loss of her husband. She ordered a final search, but she knew already what the soldiers would find: that the rope her husband used to navigate the void was now dark and rotten, with nothing remaining of the king.
+
+And so she took over the kingdom and sealed away the Black Vault. It would not be unearthed again for centuries, long after the kingdom had prospered under her rule and fallen to ruin in the generations that came after. The records of the Black Vault were found along with the artifact, and this time, advances in magical theory allowed scholars to understand that the Vault created a divine void—a place exempt from the touch of the gods.
+
+Records of its journey from there were spotty, but it was clear that many mages had worked on it or trained in it. A small region just around the entrance to the Black Vault had been stabilized by a variety of complicated magical anchors. Over time, different mages had added to and expanded those enchantments until that small island of stability grew into something respectably large and safe.
+
+Just like that, it became invaluable for all forms of magical research that had to be done without the confounding variable that was divine intent. It was passed around between arcane research institutions and academies and royal scholars until it had ended up in the possession of the Brightscales. Kazix Brightscale, specifically.
+
+Being a dragon, Kazix had immediately declared that it was his but that he would allow scholars to visit and use it, provided they sent him forms detailing the experiment they intended to perform and he found it sufficiently interesting. There was a lot of protest at first, but it quickly became apparent that this was, in fact, significantly more efficient than the constant stealing, bidding wars, and assassinations that went into moving the Black Vault back and forth, and it had remained in the possession of the Brightscale Academy ever since.
+
+Cale, personally, found it incredibly amusing that despite its rather disturbing background, the Black Vault was kept inside a practice room in the Brightscale Library marked with a crudely carved “no gods allowed” sign.
+
+“Apparently, it was carved by a student and then never removed,” Leo said, noticing Cale staring at it. “Uh, because this part of the library isn’t in much use anymore. I guess.”
+
+“You said the library rearranged itself to hide it, didn’t you?” Cale hummed thoughtfully. “We’re going to have to make sure people can find us if we plan on holding open training sessions here. How do you guys feel about making a few more signs?”
+
+“Do we have to?” Flia asked, then sighed when Cale beamed at her. “Yeah, alright. I don’t know why I asked.”
+
+Cale and his apprentices had technically visited the Black Vault to train before. They’d done it a few days after returning from the Bitter Path, determined to empower their magic so they wouldn’t be caught off-guard again.
+
+Unfortunately, the process of getting used to a divine void was difficult, even with the specialized barriers they could make to protect themselves against it. Being able to make palewater-level mana helped, but their reserves were still low from everything they had been through, and the vast majority of their cores were still at plainroot.
+
+Partially as a result of this, they had lasted only a few minutes before being forced to rush back out of it.
+
+Cale had high hopes for his apprentices this time, though! He could feel that each of them had refined the intent they were building their palewater with one way or another, though Damien and Leo were a little behind Syphus and Flia. The difficulty of existing within a divine void came from a lot more than the state of a mage’s core, of course, but it would at least help.
+
+What would help most of all, though, was the fact that his apprentices were all determined to see this through. He could see it in their eyes. They were tired of seeing things happen that they couldn’t help with. They knew the dark lord was rising, that he was almost certainly getting ready for some kind of attack against them.
+
+And they knew that defeating the dark lord would only buy the realm time. It would solve nothing of the problem at the root of all this. They each had more reason they wanted this than just that, of course. Flia in particular had grown very determined when he explained to her what he and Akkau suspected of Orstrahl’s Grand Magus and the Red Hunters.
+
+“You made sure they’d be coming, right?” she had demanded, and when Cale nodded, she smiled what was frankly a terrifying smile. “Good. We’re going to get our training done, then. I want to make sure we’re ready for them.”
+
+After that, she’d practically dragged him to find the others and get them into the Black Vault. The others hadn’t taken much convincing either, really. Cale admired his apprentices for it. He was proud of them. They had seen only small examples of the problems faced by the Great Realms, and in every instance it had been enough for them to declare they would not stand for it.
+
+Then again, it wasn’t the first time he had met mages like them, and all the others had...
+
+Cale blinked and forced the memories away. The divine void affected him too—it was too easy to lose himself in thoughts of the past when surrounded by the gloom of the Black Vault. He’d have to guard against that.
+
+“How’s everyone feeling?” he asked instead.
+
+“I hate this place,” Leo grumbled.
+
+“Fair,” Cale said. “But it’s the best way to train for what we need right now. A divine void like this strips away all illusions, including the ones you have of yourself. If there’s any misalignment between your soul and your intent, or your intent and your magic, the void will reveal it.”
+
+“You sound like a hack salesmage,” Damien said, though he looked immediately contrite afterward. “...Sorry.”
+
+Cale laughed. “You could stand to be a little more aggressive,” he said, giving the dreadshade a friendly nudge. “Don’t worry about it. This place could make Professor Tarbloom grumpy.”
+
+“It makes me want to bite people,” Syphus said, and they all turned to look at it. Everyone else was seated on the ground meditatively, but since Syphus had no legs to speak of, it just towered menacingly over the rest of them, its eye flickering with ominous flame.
+
+“You don’t... have any teeth,” Flia pointed out after a second.
+
+“Correct,” Syphus said, and somehow made a gnashing sound with its nonexistent teeth. “And yet.”
+
+All four of them edged away from the construct, eyeing one another, and there was another brief period of silence before Damien let out a snort that was very nearly a giggle. That caused them all to crack, just a bit—Cale smirked, Leo huffed air through his nose, and Flia bubbled suspiciously.
+
+Syphus narrowed its eye at them, then seemed to grin as well. Then it did something that startled all of them: it reached for its own torso, the little pedestal that held its crown of infernal etherite, and lifted it off the boulder that supported it. It placed its own “head” gently down next to them, then mimicked an innocent blink at their startled, horrified expressions.
+
+“What?” it asked. “I could always do this.”
+
+“Good to know,” Damien said faintly. Cale glanced at him just to make sure the dreadshade wasn’t actually going to faint, but thankfully he was taking deep, steadying breaths, and a moment later they all broke into genuine laughter.
+
+That brief moment of levity helped. It lifted some of the gloom that had settled around them just enough that they could now focus on cycling their mana through their cores. Cale had already told them what they needed to do: while cycling their mana, they would find places where their intent seemed misaligned, like impurities within the palewater.
+
+Once they could feel them, they could work to remove those impurities. The Black Vault accelerated that process by several orders of magnitude by stripping away everything the divines normally did to help support the soul.
+
+It was deeply uncomfortable, though. Cale took a deep breath, glancing past his meditating apprentices to the depths of the Black Vault. The place was dark, damp, and cold. Even with layers of enchantments installed by multiple generations of the realm’s best mages, it was fundamentally unpleasant to be in.
+
+Divine voids were all like this. The Corrupted Lands far up in the north would be very much the same way. It would seem cold no matter how much sunlight there was or how many fires they lit. Their best attempts at magic would help a little, but it wouldn’t change that fundamental fact.
+
+He couldn’t blame them for wanting a better life for themselves. He couldn’t blame the dark lord for wanting a better life for them. Conquering the realm and eliminating the divine would do exactly that, except it came at the cost of everyone else.
+
+Not for the first time, his thoughts cycled back to the memories he’d sealed away. He knew for a fact that he was the one that had sealed them—the locked memories had the mark he always left himself when he used one of those memory-sealing artifacts.
+
+Cale also knew himself well enough to know that he would not have sealed those memories away simply because they were unpleasant and he didn’t want to know what aberrations experienced. He’d left many of those memories intact, anyway.
+
+No, if he’d sealed his memories away, it had to have been in service of a solution. To prevent another from finding it, perhaps, or to ensure that he could act without tripping over one of the many fate-aligned magics that might try to stop him. That the memories were returning to him now suggested that the plan was finally coming into fruition.
+
+He just needed to figure out what he’d had planned, so very long ago.
+
+Here in the Black Vault, he could chip away at the seals. It wouldn’t be nearly as efficient as having something a direct reminder smash it open, but he couldn’t expect everything to come to him.
+
+Especially since he suspected that in this specific regard, the Thread of Fate might work against him.
+
+Over the next few days, as soon as their classes were over, Cale and his apprentices would gather in the Black Vault to train. Well, his apprentices did, anyway; Cale was taking a break from his classes, so he just spent his time in the Black Vault.
+
+In that time, his apprentices focused on finding those impurities within their mana, addressing them where they could, and they made great progress. Already, their palewater shone brighter than it did before. Brighter than mages that had crossed the palewater stage and into darkwood, in fact. There was a benefit to this sort of training: it ensured this stage of their mana cores would be fully developed before they hit darkwood. Conventional palewater training did not. It focused instead on forcing the mana core to adapt as quickly as possible, often sacrificing some of its potential in the process.
+
+Cale's apprentices mattered too much to him for him to let them squander their potential. Besides, they were adapting well to the training! On the second day alone they lasted in the divine void for an astonishing three hours before Cale made them leave, because he was starting to get worried about them. He'd never had to worry about his apprentices having too much determination before, but apparently that was going to be a thing, now.
+
+Still, he knew it was only a matter of time before they ran into roadblocks. Not all impurities could be addressed with something as simple as a bit of meditation: pure intent was formed from a clear mind, and his apprentices all had real problems that needed to be addressed before they made any progress on those. Cale suspected he knew what they were, but he planned to wait until they told him themselves. It would be far too easy to accidentally set them back by making them focus on a problem they weren't yet ready to solve.
+
+Especially if he turned out to be wrong. He didn't think he was, but it was still possible! It was important to remind himself of that sometimes.
+
+In the meantime, Akkau made sure that the academy knew this training was happening, and other students and professors began to join them.
+
+Thorn, Kryva, Featherstrike, and the other wyldfire mages of Brightscale Academy were the first. It became quickly apparent that they hadn't even known that the Black Vault existed; now that it had been brought to their attention, they were all eager to use it to train. They knew the value of it well, especially since they would likely be called to battle against the dark lord and his armies.
+
+The experience was, of course, equally unpleasant for them.
+
+"Difficult to cast within the Vault," Thorn grunted with annoyance. Before him was a field of [Thorn Lance]s, each one half-buried in the nothingness that served as the floor of the Black Vault. "Feels like the spell does not want to form. Cale?"
+
+"That's pretty much what it is," Cale said, glancing up at him. "It's not affecting your casting speed that much. Other mages would still kill to have that kind of speed."
+
+"Does not matter. The difference could get someone killed." Thorn was clearly frustrated.
+
+Cale sighed. He wasn't wrong. He pushed himself to his feet and walked over to Thorn, focusing carefully on his mana sense. "Cast again," he said, and though Thorn bristled for a moment, he obeyed. Verdant energy snapped to life in front of him and took the shape of a lance, then shot forward, embedding itself into the ground.
+
+The few darkwood students that had gathered to watch whispered among one another, impressed. It made sense—none of them had even managed to cast a spell in the Vault yet, though they were trying. Thorn, on the other hand, had cast hundreds and showed no signs of stopping.
+
+Cale considered what he'd sensed for a moment. "You're putting too much force into your spells," he said. "Trying to shape it when it doesn't want to be shaped. Magic is a little more unpredictable in a divine void, but it's still your magic. Trust it to—"
+
+Before he'd even finished his explanation, Thorn glowered, then raised a hand and cast the same spell again. This time, his magic blazed out of him like lightning and shot off into the void with absurd speed. When the glow faded, there was a thorn embedded three-quarters of the way into the ground.
+
+"Hm. Better. Thanks," Thorn said, sounding begrudgingly grateful. Cale just snorted. Trust a wyldfire mage to pick up on that more or less immediately...
+
+Although now that he was paying attention, he probably needed to help some of those darkwood students. They seemed appropriately awed by Thorn's display of magic and the efficacy of Cale's advice, but, well.
+
+"Void Sage," one of the darkwood students called. Cale looked around him, hoping against hope that the student was talking to anyone else, then grimaced when he realized he'd acquired yet another title. "Please, could you come and—"
+
+Mid-sentence, he doubled over and vomited. The divine void clearly didn't agree with him. Cale sighed.
+
+Their visitors tended to be split into two camps. It was indisputable now that Cale had a great deal of power at his fingertips, and there were some that almost worshipped him because of it. Others were less certain that he had earned that power, and were skeptical that he could teach them anything relevant to their magic. All things considered, he preferred the latter group; this one, though, was clearly the former.
+
+"All of you, work on being able to exist in here without falling sick first," Cale said. "Shore up your souls! Did none of you read the brief? I'm not giving you any tips until you stop vomiting all over yourselves. Especially you, Henry."
+
+Henry—who was a gelatinous mass of a slime wearing the Brightscale Academy robes—wobbled guiltily. Cale supposed that as a slime he had no compunctions with reabsorbing any of the liquid he was involuntarily projecting across the Vault, but still. The darkwoods were trying to do too much. "There's a reason my apprentices are just meditating, and it's not because they're palewater," he added sternly. "You all need to take things one step at a time. Ganymede, stop trying to cross the stable boundary! The Black Vault will try to eat you!"
+
+Ganymede fluttered back, also looking guilty, and Cale sighed again. Managing some of these mages was far too much like babysitting. They were all experienced enough to know better, but they just couldn't help themselves.
+
+He supposed he could understand. It was the excitement of having a new way to train along with the fact that there were still unsolved mysteries when it came to the Black Vault. No one knew what happened to the Lost King, after all. There were rumors that he was still alive, wandering somewhere within these depths.
+
+Cale was curious too, admittedly, but for now he had far too much on his hands. He brightened when a familiar face showed up at the door.
+
+"Threek!" he greeted happily. That was the kobold—or kobolds, he supposed; there were still three of them in that trenchcoat—that had helped them out with the Abyssal in the Inverted Spires. "What brings you here?"
