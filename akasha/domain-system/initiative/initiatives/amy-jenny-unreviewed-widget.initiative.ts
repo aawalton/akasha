@@ -16,10 +16,14 @@ export const amyJennyUnreviewedWidget = {
     { statement: "A running site states the commit it was built from." },
     { statement: "No file imports `@shared/pages-query`." },
     {
+      statement: "Every folder a package reaches is a package.",
+      workingMemory:
+        "1301 imports in akasha cross a package edge, and 640 of them land in a folder that is no package at all. Those land in five domains: pages-system by far the most, then testing-system, service-system, file-system and write-system. Each wants a manifest, a page type of workspace-package rather than domain, an entry in the root workspaces list, and exports naming every module reached from outside. Do file-system first, it is the smallest, and the rest follow the recipe.",
+    },
+    {
       statement:
         "A package reaches another package by the name its manifest states rather than by a path.",
     },
-    { statement: "Every folder a package reaches is a package." },
     { statement: "No file Alan's site is built from is too long for akasha to hold." },
     {
       statement:
