@@ -174,6 +174,10 @@ export const move = {
     },
     {
       invariantKind: "gap",
+      statement: "A manifest naming a file that moves is repointed with it.",
+    },
+    {
+      invariantKind: "gap",
       statement: "A file arrives at its new path reaching everything it reached before.",
     },
     {

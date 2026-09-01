@@ -21,5 +21,13 @@ export const moveRepointing = {
       invariantKind: "departure",
       statement: "A name reaching nothing that moved is left as it stands.",
     },
+    {
+      invariantKind: "departure",
+      statement: "What a package's name reaches moves without that name changing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No naming is handed in here.",
+    },
   ],
 } as const satisfies Module
