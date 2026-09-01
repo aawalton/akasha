@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { blobIdOf, readingIn, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { standing } from "@akasha/command-system/scratching/testing"
-import { idFiled, listedFiled, rebuiltIn } from "@akasha/indexes/testing"
+import { listedFiled, pageFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { gitIn } from "@akasha/testing-system/gitting"
 import {
@@ -33,10 +33,6 @@ const TREE = "akasha"
 
 const PROGRAMMATIC =
   "Checks-bypassed: no check ran: this landing was made by a program rather than by an agent"
-
-function filed(root: string, id: string, path: string): undefined {
-  idFiled(root, id, [{ path, id }])
-}
 
 function seated(root: string): string {
   gitIn(root, ["init", "--quiet"])
@@ -97,7 +93,7 @@ test("a seat the index carries no page for is assigned nothing", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("subagent-standing-")
-    filed(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
+    pageFiled(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
     expect(assignedTo(root, "akasha")).toBe(null)
   } finally {
     world.sweep()
@@ -108,7 +104,7 @@ test("a seat is named by the page the index carries for its id", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("subagent-standing-")
-    filed(root, SEAT_ID, "akasha/seat-system/seat/seats/akasha.seat.ts")
+    pageFiled(root, SEAT_ID, "akasha/seat-system/seat/seats/akasha.seat.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe("akasha")
   } finally {
     world.sweep()
@@ -119,7 +115,7 @@ test("a seat the index carries no page for is named by nothing", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("subagent-standing-")
-    filed(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
+    pageFiled(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe(null)
   } finally {
     world.sweep()
@@ -130,7 +126,7 @@ test("a page that is no seat names no seat", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("subagent-standing-")
-    filed(root, SEAT_ID, "akasha/persona-system/persona/akasha/akasha.persona.ts")
+    pageFiled(root, SEAT_ID, "akasha/persona-system/persona/akasha/akasha.persona.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe(null)
   } finally {
     world.sweep()

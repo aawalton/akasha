@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { SEAT_NAMED } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { idFiled } from "@akasha/indexes/testing"
+import { pageFiled } from "@akasha/indexes/testing"
 import { actIn, askedOf, SCOPE } from "./state-subagent.agent-hook.code.ts"
 
 const SEAT = "01a05844-6e60-7000-b54c-4b14559df70b"
@@ -16,14 +16,10 @@ function payloadOf(said: Record<string, unknown>): string {
   return JSON.stringify(said)
 }
 
-function filed(root: string, id: string, path: string): undefined {
-  idFiled(root, id, [{ path, id }])
-}
-
 function worldNaming(rootFor: (prefix: string) => string, path: string | null): string {
   const root = rootFor("state-subagent-")
-  if (path === null) filed(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
-  else filed(root, SEAT, path)
+  if (path === null) pageFiled(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
+  else pageFiled(root, SEAT, path)
   return root
 }
 
