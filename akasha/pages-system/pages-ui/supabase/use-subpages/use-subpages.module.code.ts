@@ -7,7 +7,6 @@ import {
   type PageWithProperties,
   toPageWithProperties,
 } from "@akasha/pages-ui/supabase/page-with-properties"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 export interface Subpage {
@@ -60,8 +59,6 @@ export function useSubpages({
   pageTypePropertiesMap: PageTypePropertiesMap
   pageTypeSlugById: ReadonlyMap<string, string>
 }): readonly Subpage[] {
-  const client = useSupabase()
-
   const specs = useMemo<readonly SubpageSpec[]>(
     () => computeSubpageSpecs({ pageTypePropertiesMap, pageTypeSlugById }),
     [pageTypePropertiesMap, pageTypeSlugById]
@@ -101,7 +98,7 @@ export function useSubpages({
       }
       setRows(collected)
     })()
-  }, [client, pageId, specs])
+  }, [pageId, specs])
 
   return rows
 }

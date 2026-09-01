@@ -137,7 +137,6 @@
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/recurrence": "workspace:*",
-    "@akasha/supabase-rr": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/voice-core": "workspace:*",
     "@akasha/web-build-sha": "workspace:*",

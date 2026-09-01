@@ -19,7 +19,6 @@ import {
   toPageWithProperties,
 } from "@akasha/pages-ui/supabase/page-with-properties"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 interface DescendantPagesResult {
@@ -41,7 +40,6 @@ function useDescendantPages(
   slugs: readonly PageTypeSlug[],
   options: UseDescendantPagesOptions = {}
 ): DescendantPagesResult {
-  const client = useSupabase()
   const [rows, setRows] = useState<readonly Page[]>([])
   const [isLoading, setIsLoading] = useState(true)
 
@@ -117,7 +115,7 @@ function useDescendantPages(
     return () => {
       cancelled = true
     }
-  }, [client, enabled, slugsKey, selectKey, orderKey, whereKey])
+  }, [enabled, slugsKey, selectKey, orderKey, whereKey])
 
   return { rows, isLoading }
 }

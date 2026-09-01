@@ -7,7 +7,6 @@ import {
   type PageWithProperties,
   toPageWithProperties,
 } from "@akasha/pages-ui/supabase/page-with-properties"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { useEffect, useMemo, useRef, useState } from "react"
 
@@ -78,8 +77,6 @@ export function useReferrers({
   pageTypePropertiesMap: PageTypePropertiesMap
   pageTypeSlugById: ReadonlyMap<string, string>
 }): readonly Referrer[] {
-  const client = useSupabase()
-
   const specs = useMemo<readonly InboundSpec[]>(
     () => computeInboundSpecs({ pageTypeId, pageTypePropertiesMap, pageTypeSlugById }),
     [pageTypeId, pageTypePropertiesMap, pageTypeSlugById]
@@ -124,7 +121,7 @@ export function useReferrers({
       }
       setRows(collected)
     })()
-  }, [client, pageId, specs])
+  }, [pageId, specs])
 
   return rows
 }

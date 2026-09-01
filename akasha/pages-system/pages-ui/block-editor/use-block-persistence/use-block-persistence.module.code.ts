@@ -9,7 +9,6 @@ import {
 } from "@akasha/pages-core/property-types/rich-document-ops"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import { createSaveQueue, type SaveQueue } from "@akasha/pages-ui/block-editor/save-queue"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { isJson } from "@akasha/utils-narrow/is-json"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { useCallback, useRef } from "react"
@@ -49,7 +48,6 @@ export function useBlockPersistence({
   propertyId,
   currentDocRef,
 }: UseBlockPersistenceArgs): (prevDoc: RichDocument, op: EditorOp) => Promise<void> {
-  const client = useSupabase()
   const queueRef = useRef<SaveQueue | null>(null)
   if (queueRef.current === null) queueRef.current = createSaveQueue(announceSaveFailure)
   const queue = queueRef.current
@@ -60,7 +58,7 @@ export function useBlockPersistence({
       where: [{ key: "id", eq: id }],
       set: { [propertyId]: toJson(currentDocRef.current) },
     })
-  }, [client, pageTypeSlug, id, propertyId, currentDocRef])
+  }, [pageTypeSlug, id, propertyId, currentDocRef])
 
   const runOne = useCallback(
     async (prevDoc: RichDocument, op: EditorOp) => {
@@ -75,7 +73,7 @@ export function useBlockPersistence({
         await resync()
       }
     },
-    [client, pageTypeSlug, id, propertyId, resync]
+    [pageTypeSlug, id, propertyId, resync]
   )
 
   return useCallback(
