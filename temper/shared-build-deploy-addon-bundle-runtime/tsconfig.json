@@ -17,7 +17,7 @@
   },
   "include": [
     "src/**/*.ts",
-    "../shared-build-deploy-addons/types/eso/**/*.d.ts"
+    "../addons/types/eso/**/*.d.ts"
   ],
   "exclude": [
     "src/**/*.test.ts"
