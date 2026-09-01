@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const anEmptyBodyWitnessesNoRule = {
+  id: "01a05c05-b328-7f82-8d06-b6a3feb31c51",
+  pageTypeSlug: "finding",
+  slug: "an-empty-body-witnesses-no-rule",
+  domainSlug: "domain/akasha-check",
+  claim:
+    "no-rule-in-two-files reads a rule as a function's token string with the names it binds numbered. A body that binds nothing and names nothing outside itself refers to nothing, so sameness of token string is not evidence of sameness of rule. It refuses ten files that way: a settle latch, a no-sleep test stub in seven files, and two pipeline placeholders. No import serves both. The call taken while Alan slept: these were left standing and every other family was cleared.",
+  evidence:
+    "code-rule.module.code.ts:27-45 builds a rule as the parameter tokens, `=>`, then the body tokens, with each bound name replaced by `$0`,`$1` in the order they are bound, at line 39. For an empty body that string is `=> undefined` or `=> { }` entire: it names no callee, no property and no constant, so it cannot witness a shared decision. What the check pairs on it: `markSettled` at pages-ui-store/optimistic/optimistic-mutation/optimistic-mutation.module.code.ts:132, a closure that resolves a settle promise, is said to say what `noNap` says in four pages-query test files (store-page-asking, store-writing, store-questioning, store-reaching) and three person-system test files (device-secret-standing, route-access, person-enrolment), where it is a Sleeper stub. `noop` at pages-ui-store/query/view-pipeline:31 and query/regular-pipeline:17 fill `loadMore` and `ensureHydratedUpTo` on ViewResult and RegularResult, two interfaces declared apart; neither could ever be edited in a way the other should follow. A second-order fact found while clearing the rest: the token string carries parameter TYPE annotations, so `isJsonObject(value: Json)` at pages-core/json-patch/apply/apply.module.code.ts:166 and `isRecord(value: unknown)` at idle-system/idle-accrual/idle-accrual.module.code.ts:195 have identical bodies and do not refuse each other. Widening the parameter type is an open escape from this check. Neither was changed: Alan Approves Checks reserves what a check refuses to Alan, and the same audit run proved the check right about every other family, so the count it reports is real debt apart from this class.",
+} as const satisfies Finding
