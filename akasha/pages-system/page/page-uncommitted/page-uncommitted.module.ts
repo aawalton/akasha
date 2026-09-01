@@ -35,12 +35,12 @@ export const pageUncommitted = {
     {
       invariantKind: "departure",
       statement:
-        "A page with no file beside it carries no uncommitted values which is an answer rather than a failure to read one.",
+        "A page no file sits beside carries no uncommitted values rather than failing to read the values.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file that stands but will not load or loads declaring nothing is refused rather than read as empty.",
+        "A file that will not load or loads declaring nothing is refused rather than read as empty.",
     },
     {
       invariantKind: "departure",

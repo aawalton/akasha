@@ -22,7 +22,7 @@ export const wwwBuild = {
     {
       invariantKind: "departure",
       statement:
-        "The workstation's web env file is copied into the build worktree where the workstation's web env file exists.",
+        "The workstation's web env file is copied into the build worktree where that file exists.",
     },
     {
       invariantKind: "departure",
