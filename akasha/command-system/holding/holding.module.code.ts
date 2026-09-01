@@ -6,7 +6,7 @@ export const LOCK_AT = ".git/akasha-landing.lock"
 
 const WAITED_AT_MOST = 120000
 
-const WAITED = 50
+const WAITED = 5
 
 const AGED_AFTER = 10000
 
