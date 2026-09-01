@@ -12,7 +12,7 @@ export const amyJennyUnreviewedWidget = {
       statement:
         "A file writing a page through the page store lands the write rather than refusing.",
       workingMemory:
-        "The compare works: /write takes the commit read at, and a moved path is refused, proved over raw HTTP. But no renderer moves this. Of the 50 page types the callers write, 49 are markdown pages under pages/, and the store answers for akasha alone, on read and on write alike. The true blocker is that the store does not serve the markdown pages its callers write. The akasha service also took port 8787 from the one that did serve them, so /q now 404s; restoring that is in flight.",
+        "The compare works: /write takes the commit read at, and a moved path is refused, proved over raw HTTP. But no renderer moves this. Of the 50 page types the callers write, 49 are markdown pages under pages/, and the store answers for akasha alone, on read and on write alike. The true blocker is that the store does not serve the markdown pages its callers write. Port 8787 needs no restoring: nothing outside akasha calls /q and it was taken on purpose in c04a9f7f3b.",
     },
     {
       statement:
