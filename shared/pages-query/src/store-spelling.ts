@@ -1,5 +1,19 @@
 import type { Asked, ComposedQuery, QueryRow } from "@akasha/pages-query/ask"
-import { camelizeKey, kebabizeKey } from "../../../tools/lib/tracking/keys.ts"
+
+// These two were reached from `tools/lib/tracking/keys.ts`, in the body of the page engine this
+// package no longer asks anything of. Eleven lines of string work is not worth a road out of here,
+// so they are written where they are used.
+function camelizeKey(key: string): string {
+  const segments = key.split(/[^A-Za-z0-9]+/).filter((one) => one.length > 0)
+  const [first, ...rest] = segments
+  if (first === undefined) return ""
+  const head = first.charAt(0).toLowerCase() + first.slice(1)
+  return head + rest.map((one) => one.charAt(0).toUpperCase() + one.slice(1)).join("")
+}
+
+function kebabizeKey(key: string): string {
+  return key.replace(/([a-z0-9])([A-Z])/g, "$1-$2").toLowerCase()
+}
 
 // A page moving into the store has its keys camelized on the way in, so the store answers
 // `valueSlug` where the page type declares `value-slug`. Everything asking it still spells the
