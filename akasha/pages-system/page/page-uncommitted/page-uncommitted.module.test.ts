@@ -11,6 +11,7 @@ import {
   nameFor,
   removeUncommitted,
   uncommittedIn,
+  wholeValue,
 } from "./page-uncommitted.module.code.ts"
 
 const PAGE = "akasha/one/amy.seat.ts"
@@ -246,4 +247,45 @@ test("a reader reading through a write never sees a partial body", async () => {
   expect(await kid.exited).toBe(0)
   expect(read).toBeGreaterThan(9)
   expect(uncommittedIn(root, PAGE)).not.toBeNull()
+})
+
+test("a page with nothing beside it answers the value it was handed", () => {
+  const root = rooted()
+  const value = { slug: "amy", onCall: true }
+  expect(wholeValue(root, PAGE, value)).toBe(value)
+})
+
+test("what sits beside a page is written over what the commit holds", () => {
+  const root = rooted()
+  keepUncommitted(root, PAGE, { beats: 3, model: "opus" })
+  expect(wholeValue(root, PAGE, { slug: "amy", beats: 0 })).toEqual({
+    slug: "amy",
+    beats: 3,
+    model: "opus",
+  })
+})
+
+test("a value beside a page is read again once that file has changed", () => {
+  const root = rooted()
+  keepUncommitted(root, PAGE, { beats: 1 })
+  expect(wholeValue(root, PAGE, {})).toEqual({ beats: 1 })
+  keepUncommitted(root, PAGE, { beats: 2, gateway: "up" })
+  expect(wholeValue(root, PAGE, {})).toEqual({ beats: 2, gateway: "up" })
+})
+
+test("a value beside a page is read again when what replaced it is the same size", () => {
+  const root = rooted()
+  keepUncommitted(root, PAGE, { beats: 1 })
+  expect(wholeValue(root, PAGE, {})).toEqual({ beats: 1 })
+  keepUncommitted(root, PAGE, { beats: 2 })
+  expect(wholeValue(root, PAGE, {})).toEqual({ beats: 2 })
+})
+
+test("a file taken away is answered as carrying nothing again", () => {
+  const root = rooted()
+  keepUncommitted(root, PAGE, { beats: 1 })
+  expect(wholeValue(root, PAGE, {})).toEqual({ beats: 1 })
+  removeUncommitted(root, PAGE)
+  const value = { slug: "amy" }
+  expect(wholeValue(root, PAGE, value)).toBe(value)
 })
