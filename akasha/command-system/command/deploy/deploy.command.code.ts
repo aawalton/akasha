@@ -1,12 +1,16 @@
+import { join } from "node:path"
 import {
   alreadyBuilt,
   buildInPod,
   buildTargetOf,
   carriedByOrigin,
+  declaredBuildEnv,
   headOf,
   inPod,
   livePod,
   pushToOrigin,
+  type Resolved,
+  resolveBuildEnv,
   saidBy,
 } from "@akasha/service-system/web-app-building"
 import { deployableNamed } from "@akasha/service-system/web-app-reading"
@@ -102,6 +106,22 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
     report.push(`build\t${target.packagePath}\tfrom ${from}`)
   }
 
+  let resolved: Resolved = { env: [], hidden: [], missing: [] }
+  if (target !== null && !isBuilt) {
+    const declared = await declaredBuildEnv(join(given.root, standing.synthPath))
+    resolved = resolveBuildEnv(target.namespace, declared, sha)
+    report.push(`build-env\t${resolved.env.map((one) => one.name).join(" ")}`)
+    if (resolved.missing.length > 0) {
+      return {
+        report,
+        refusals: resolved.missing.map(
+          (one) => `${one}, so the build would inline nothing where a value belongs`
+        ),
+        code: DATA,
+      }
+    }
+  }
+
   let differs = false
   for (const manifest of plan.manifests) {
     const stands = standingOf(manifest)
@@ -151,7 +171,7 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   }
 
   if (target !== null && !isBuilt) {
-    const built = buildInPod(target, sha)
+    const built = buildInPod(target, sha, resolved)
     for (const one of built.ran) {
       report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
     }

@@ -19,6 +19,7 @@ export const deploy = {
     "the build a pod serves is made here, inside that pod, from the commit HEAD stands at.",
     "a pod takes its source from origin, so a commit origin does not carry is pushed onto main first.",
     "a build already made from that commit is made again by nothing.",
+    "what a build needs set is exported beside the manifest code, and a value it names that nothing holds refuses the call.",
   ],
   invariants: [
     {
@@ -56,6 +57,14 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "A build already made from that commit is made again by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value the build needs that nothing holds is refused before anything is pushed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value the build needs is reported by its name rather than by what it holds.",
     },
     {
       invariantKind: "departure",
