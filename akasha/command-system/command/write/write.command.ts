@@ -7,6 +7,7 @@ export const write = {
   definition: "whole file bodies carried in, gated together and landed or refused as one",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   mechanical: false,
   taking: [
     { said: "--file-path <path>", takes: "a path under `akasha/` to write" },
@@ -19,7 +20,9 @@ export const write = {
   ],
   helpNotes: [
     "--file-path and --content-file repeat in pairs, so several files land in one commit.",
-    "a body is a file, never text said on the command line.",
+    "a body is a file or standard input, never text said on the command line.",
+    "a --file-path naming no --content-file reads that body from standard input.",
+    "pipe the body in with a quoted heredoc: --message <text> <<'EOF', the body, then EOF.",
     "the files standing beside a path given to --remove go with it.",
     "a folder left holding nothing by what --remove takes is cleared off the disk.",
   ],
@@ -27,7 +30,7 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "A body reaches this command as a file named at `--content-file` rather than on the command line.",
+        "A body reaches this command at `--content-file` or on standard input rather than the command line.",
     },
     {
       invariantKind: "departure",

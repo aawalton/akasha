@@ -8,6 +8,7 @@ export const edit = {
     "stated substitutions and removals worked into one change, landed or refused together",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   mechanical: false,
   taking: [
     { said: "--file-path <path>", takes: "the file under `akasha/` to change" },
@@ -22,7 +23,10 @@ export const edit = {
   helpNotes: [
     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
     "a passage stated must stand exactly once in the file, or the call is refused.",
-    "the passage and what it becomes are files, never text said on the command line.",
+    "the passage and what it becomes are files or standard input, never text said on the command line.",
+    "a --file-path stating no --old-file reads its passages from standard input.",
+    "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
+    "the marker blocks repeat, and each is worked in the order stated.",
     "the files standing beside a path given to --remove go with it.",
   ],
   invariants: [
@@ -63,7 +67,12 @@ export const edit = {
     {
       invariantKind: "departure",
       statement:
-        "A passage is the bytes of the file naming that passage with its trailing newline included.",
+        "A passage reaches this command at `--old-file` or standard input rather than the command line.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A passage is the bytes of the file or block naming that passage with its trailing newline included.",
     },
     {
       invariantKind: "departure",
