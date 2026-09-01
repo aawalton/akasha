@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const twoDeadPersonPackagesComeDownAndSharedAuthStandsWhereItIs = {
+  id: "01a05cb2-b593-7743-bf94-0dd0ebda076d",
+  pageTypeSlug: "finding",
+  slug: "two-dead-person-packages-come-down-and-shared-auth-stands-where-it-is",
+  domainSlug: "domain/akasha-migration",
+  claim:
+    "`shared/person-document` and `shared/person-target` are deleted rather than surveyed again, and `shared/auth` stays where it is. The two person packages are reached by 0 files and `akasha/person-system` already holds both ideas. `auth` is reached by 26 files and every one is under `temper/`, a thing akasha holds no domain for, so it is alive with nowhere in akasha to stand. These were the last three undecided folders in `shared/`.",
+  evidence:
+    "Settles the earlier person-package finding by acting rather than restating it.\n\nMethod: every import, require, dynamic import and CSS `@import` in 11,045 tracked code files was resolved to an absolute path and bucketed by owning package, over 34,872 edges. Only tracked files were read, so gitignored `dist/` cannot count, and a resolved path catches a sibling `../../person-target/src/x` that a name grep misses. person-document 0 inbound, person-target 0 inbound, auth 26 inbound and all 26 under `temper/`.\n\nWhy the two come down. No reach, no destination, no runner. person-target's manifest names `main` and `types` at `./src/index.ts`, which does not exist, so only its `exports` map resolves. Its `test` script names `src/*.unit.test.ts` and no test file stands. person-document is a 6-line interface with no behavior, and akasha's `person` page type carries all four of its fields. person-target's `*`-suffix grammar is barred by `person-access-target`, where `all` is the only pattern, and `grantsRoute` takes `all` or an exact match.\n\nWhy auth stays. Its only outbound specifier is `react`, and temper's own `auth-provider-wrapper.tsx` provides the context it declares. Nothing in akasha or `alanwalton/` names `useAuth`, and akasha's `supabase-auth` is a server-side seam rather than this React context. Filing it under `alan-harness` would say something false about whose code it is.\n\nThe sweep. Both left root `workspaces`, `bun.lock` as two blocks and two resolution lines, and the ast-unused config. Neither stood in root `dependencies`, unlike the proc cluster. No tsconfig named either: 206 tsconfigs carry 351 references and 0 dangle after. The folders came down at b0b1cab290.",
+} as const satisfies Finding
