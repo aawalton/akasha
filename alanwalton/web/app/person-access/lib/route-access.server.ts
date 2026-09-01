@@ -1,16 +1,11 @@
-// The two routes this stub gates. These stood in `@shared/person-access`, which was dropped
-// with the old person-access pages; they are named here until route access is rebuilt on the
-// `person-access` page type in `akasha/person-system`.
-export const ROUTE_TARGETS = {
-  DEVICE_SECRET_MINT: "device-secret-mint",
-  READOUT_FEED: "readout-feed",
-} as const
+import { routeAccessForAccount } from "@akasha/person-system/route-access"
 
-const REBUILDING =
-  "person enrolment was taken away with the old person pages and has yet to be rebuilt on " +
-  "`supabase-auth-user-id`, so no account can be read to a person and no route opens"
+export { ROUTE_TARGETS } from "@akasha/person-system/route-access"
 
-export async function holdsRouteAccess(_accountUserId: string, _target: string): Promise<boolean> {
-  process.stderr.write(`[route-access] refusing: ${REBUILDING}\n`)
-  return false
+export async function holdsRouteAccess(accountUserId: string, target: string): Promise<boolean> {
+  const decision = await routeAccessForAccount(accountUserId, target)
+  if (!decision.permitted) {
+    process.stderr.write(`[route-access] refusing: ${decision.why}\n`)
+  }
+  return decision.permitted
 }
