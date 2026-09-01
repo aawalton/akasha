@@ -24,14 +24,15 @@ const BASE = `http://127.0.0.1:${PORT}`
 const HOME = process.env.ZIMAGE_HOME ?? join(homedir(), ".local", "share", "zimage")
 const IDLE_POLL_MS = 2000
 
-const [modelRaw, widthRaw, heightRaw, outDir] = process.argv.slice(2)
+const [modelRaw, widthRaw, heightRaw, outDirRaw] = process.argv.slice(2)
 
 const modelId = toModelId(modelRaw ?? "")
 if (modelId === undefined) throw new Error(`unregistered model '${modelRaw}'`)
 const spec = MODELS[modelId]
 const width = Number(widthRaw)
 const height = Number(heightRaw)
-if (outDir === undefined) throw new Error("missing out-dir")
+if (outDirRaw === undefined) throw new Error("missing out-dir")
+const outDir: string = outDirRaw
 
 const queueDir = join(outDir, ".queue")
 const archiveDir = join(outDir, ".prompts")

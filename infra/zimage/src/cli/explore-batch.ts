@@ -14,14 +14,15 @@ const PORT = process.env.ZIMAGE_PORT ?? "8678"
 const BASE = `http://127.0.0.1:${PORT}`
 const HOME = process.env.ZIMAGE_HOME ?? join(homedir(), ".local", "share", "zimage")
 
-const [modelRaw, widthRaw, heightRaw, outDir, ...promptFiles] = process.argv.slice(2)
+const [modelRaw, widthRaw, heightRaw, outDirRaw, ...promptFiles] = process.argv.slice(2)
 
 const modelId = toModelId(modelRaw ?? "")
 if (modelId === undefined) throw new Error(`unregistered model '${modelRaw}'`)
 const spec = MODELS[modelId]
 const width = Number(widthRaw)
 const height = Number(heightRaw)
-if (outDir === undefined) throw new Error("missing out-dir")
+if (outDirRaw === undefined) throw new Error("missing out-dir")
+const outDir: string = outDirRaw
 
 await mkdir(outDir, { recursive: true })
 
