@@ -43,11 +43,11 @@ export const agentHook = {
     {
       invariantKind: "departure",
       statement:
-        "A hook at a tool call answers whether that call may run or hands back the input it is to run with.",
+        "A hook at a tool call answers whether that call may run or hands back the input that call is to run with.",
     },
     {
       invariantKind: "departure",
-      statement: "A hook names the tools it judges.",
+      statement: "A hook names the tools the hook judges.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const agentHook = {
     },
     {
       invariantKind: "absence",
-      statement: "A call a hook let through is not a call it allowed.",
+      statement: "A call a hook let through is not a call the hook allowed.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const agentHook = {
     },
     {
       invariantKind: "departure",
-      statement: "No file names one by hand.",
+      statement: "No file names a hook by hand.",
     },
     {
       invariantKind: "departure",

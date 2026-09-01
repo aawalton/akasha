@@ -21,7 +21,7 @@ export const hookSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A hook stands in the akasha folder and is registered outside it.",
+      statement: "A hook stands in the akasha folder and is registered outside the akasha folder.",
     },
     {
       invariantKind: "departure",
@@ -33,12 +33,12 @@ export const hookSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook says what it does not catch when it is asked.",
+      statement: "A hook says what the hook does not catch when the hook is asked.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "A hook over the ways a shell writes a file samples an open world that is too many to name.",
+        "A hook over the ways a shell writes a file samples an open world that is too many ways to name.",
     },
   ],
 } as const satisfies WorkspacePackage

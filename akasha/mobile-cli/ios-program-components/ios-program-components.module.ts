@@ -21,7 +21,8 @@ export const iosProgramComponents = {
     },
     {
       invariantKind: "departure",
-      statement: "A component list belongs to a program rather than to the app that builds it.",
+      statement:
+        "A component list belongs to a program rather than to the app that builds the program.",
     },
     {
       invariantKind: "departure",
