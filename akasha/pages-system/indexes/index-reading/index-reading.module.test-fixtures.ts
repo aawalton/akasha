@@ -281,7 +281,7 @@ export function importsListed(root: string): boolean {
   return existsSync(under(root, indexImport.name))
 }
 
-export function identitiesStandingIn(root: string, pageTypeSlug: string): boolean {
+export function identitiesListedIn(root: string, pageTypeSlug: string): boolean {
   return existsSync(under(root, join(indexIdentity.name, pageTypeSlug)))
 }
 
