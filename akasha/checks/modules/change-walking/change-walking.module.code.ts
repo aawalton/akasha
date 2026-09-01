@@ -2,7 +2,6 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { everyPath } from "@akasha/indexes"
 import type { Answering } from "@akasha/indexes/answering"
-import { pageTypesIn } from "@akasha/indexes/entries"
 import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "@akasha/pages-system/change"
 import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
@@ -71,7 +70,7 @@ function bodiesIn(change: Change): readonly Body[] {
 function pageTypesFor(shadow: Shadow): ReadonlySet<string> {
   const found = PAGE_TYPES.get(shadow)
   if (found !== undefined) return found
-  const made = pageTypesIn(shadow.reading)
+  const made = shadow.index.pageTypesIn()
   PAGE_TYPES.set(shadow, made)
   return made
 }
