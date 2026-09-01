@@ -1,16 +1,5 @@
-import { buildPageHref } from "@akasha/pages-url/page-href"
-import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { QuestionLink } from "@akasha/open-questions/question-link"
-// The remote path, not the local-first facade. `QuestionAnswerArm` calls this from a client
-// effect in the capacitor SPA, and a phone has no checkout, so `@shared/pages-query/ask` could
-// only ever delegate to the store anyway — while dragging `here.ts` -> `checkout-roots` and its
-// node builtins into the phone bundle. `/ask-remote` is that same delegation with the checkout
-// half severed; it is not `@akasha/pages-query/ask`, which would also drop the key-spelling
-// adapter and leave multi-word keys silently unmatched.
-import { askComposed } from "@shared/pages-query/ask-remote"
-import { z } from "zod"
-
-const PERSONA_SLUG = "persona"
+import { unheld } from "~/lib/pages-unheld"
 
 export type QuestionDetail = {
   question: {
@@ -31,79 +20,23 @@ export type QuestionDetail = {
   } | null
 }
 
-const questionRowSchema = z.object({
-  title: z.string().catch(""),
-  context: z.string().nullable().catch(null),
-  options: z.array(z.string()).catch([]),
-  links: z
-    .array(z.object({ label: z.string(), url: z.string(), platform: z.enum(["web", "native"]) }))
-    .catch([]),
-  status: z.string().catch(""),
-  "asked-by": z.string().nullable().catch(null),
-  "created-at": z.string().nullable().catch(null),
-})
-
-const personaRowSchema = z.object({
-  title: z.string().catch(""),
-  slug: z.string().nullable().catch(null),
-  cover: z.string().nullable().catch(null),
-})
-
-function isoToMs(iso: string | null): number {
-  if (iso === null || iso === "") return 0
-  const ms = Date.parse(iso)
-  return Number.isNaN(ms) ? 0 : ms
-}
-
-async function resolveAskingPersona(askedBy: string | null): Promise<QuestionDetail["persona"]> {
-  if (askedBy === null) return null
-  const asked = await askComposed({
-    "page-type": PERSONA_SLUG,
-    where: { id: { is: askedBy } },
-    keys: ["title", "slug", "cover"],
-    limit: 1,
-  })
-  if (!asked.ok) {
-    throw new Error(`persona \`${askedBy}\` went unread: ${asked.why}`)
-  }
-  const personaRow = asked.answer.rows[0]
-  if (personaRow === undefined) return null
-  const persona = personaRowSchema.parse(personaRow.values)
-  const chatHref = buildPageHref({
-    pageTypeSlug: toPageTypeSlug(PERSONA_SLUG),
-    slug: persona.slug,
-    fallbackSlugSource: persona.title,
-    id: askedBy,
-  })
-  return { id: askedBy, handle: null, name: persona.title, avatarUrl: persona.cover, chatHref }
-}
-
+// A QUESTION THAT WENT UNREAD IS NOT A BLANK QUESTION. This read the question's title, context,
+// options, links and status, then the persona who asked it, through `@shared/pages-query` — over
+// its remote half, since `QuestionAnswerArm` calls this from a client effect in the capacitor
+// SPA and a phone has no checkout. Both halves are gone, and `question` is no page type the pages
+// system service holds.
+//
+// The zod schemas this parsed rows through caught every missing field into an empty string, an
+// empty list or a zero, so a question that came back unread already parsed cleanly into a
+// question with no title, no options and an asked-at of the epoch. Drawing that on the phone
+// would put an empty card in front of Alan with two buttons under it, and answering it would
+// resolve a question whose text he never saw. So this refuses before any of that is built.
+//
+// The persona lookup went with it. `persona` is a page type the pages system service does hold,
+// but which persona asked is read off the question, and there is no question to read it from.
 export async function resolveQuestionDetail(args: {
   id: string
   pageTypeSlug: string
 }): Promise<QuestionDetail> {
-  const asked = await askComposed({
-    "page-type": args.pageTypeSlug,
-    where: { id: { is: args.id } },
-    keys: ["title", "context", "options", "links", "status", "asked-by", "created-at"],
-    limit: 1,
-  })
-  if (!asked.ok) {
-    throw new Error(`\`${args.pageTypeSlug}\` \`${args.id}\` went unread: ${asked.why}`)
-  }
-  const row = asked.answer.rows[0]
-  const parsed = questionRowSchema.parse(row?.values ?? {})
-  const persona = await resolveAskingPersona(parsed["asked-by"])
-  return {
-    question: {
-      id: args.id,
-      title: parsed.title,
-      context: parsed.context,
-      options: parsed.options,
-      links: parsed.links,
-      status: parsed.status,
-      askedAtMs: isoToMs(parsed["created-at"]),
-    },
-    persona,
-  }
+  throw new Error(unheld(args.pageTypeSlug, `the question \`${args.id}\``))
 }

@@ -9,10 +9,10 @@ import {
 import { getPage, getPages } from "@akasha/pages-access/get"
 import { patchPage } from "@akasha/pages-access/patch"
 import { type PageWhere } from "@akasha/pages-core/page-types"
-import { writePage } from "@shared/pages-query"
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { z } from "zod"
+import { unwritten } from "~/lib/pages-unheld"
 import { type InboundSender, withSenderFooter } from "~/lib/sender-surface"
 import { HOURLY_CONFIRM_ANSWER_SEAT, TRACKING_HOURLY_CONFIRM_SOURCE } from "./hourly-confirm-source"
 
@@ -74,7 +74,6 @@ function automationSeat(sourceContext: string | null): string | null {
 type ResolvedAsker = { handle: string }
 
 export interface ResolveQuestionDeps {
-  readonly writePage: typeof writePage
   readonly listPersonaTargets: () => Promise<readonly { id: string; slug: string }[]>
   readonly getPage: typeof getPage
   readonly getPages: typeof getPages
@@ -82,7 +81,6 @@ export interface ResolveQuestionDeps {
 }
 
 export const defaultResolveQuestionDeps: ResolveQuestionDeps = {
-  writePage,
   listPersonaTargets,
   getPage,
   getPages,
@@ -109,6 +107,15 @@ async function resolveAsker(
   return { handle }
 }
 
+// AN ANSWER HAS NOWHERE TO GO. This wrote a `message` page to the asker's seat through
+// `@shared/pages-query`, into this pod's own checkout. That reach is severed, and `message` is no
+// page type the pages system service holds, so there is no seat to write to.
+//
+// Throwing is what this already did for a message that did not land, and both callers already
+// carry it: an answer refuses the whole resolution and leaves the question open, and a dismissal
+// warns and marks the question dismissed anyway. Which is right — the answer is worth nothing to
+// Alan if it never reaches the persona who asked, and a dismissal is a thing he did rather than a
+// thing he said. The footer is still built, so what went undelivered is what would have been sent.
 async function deliver(
   asker: ResolvedAsker,
   content: string,
@@ -116,20 +123,11 @@ async function deliver(
   deps: ResolveQuestionDeps,
   sender: InboundSender
 ): Promise<void> {
-  const written = await deps.writePage(
-    "message",
-    `${asker.handle}/${crypto.randomUUID()}`,
-    {
-      to: asker.handle,
-      from: source,
-      warrant: "announce",
-      body: withSenderFooter(content, sender, QUESTION_CHANNEL),
-    },
-    source
+  const body = withSenderFooter(content, sender, QUESTION_CHANNEL)
+  throw new Error(
+    `message for '${asker.handle}' did not land: ` +
+      `${unwritten("message", `${body.length} characters from \`${source}\``)}`
   )
-  if (!written.ok) {
-    throw new Error(`message for '${asker.handle}' did not land: ${written.why}`)
-  }
 }
 
 async function nextOpenQuestionHref(

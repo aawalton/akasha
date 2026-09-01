@@ -1,55 +1,24 @@
-import { loadSmsExternalIdentities } from "@akasha/sms-access/sms-allowlist"
-import { recordSmsDiscard } from "@akasha/sms-access/sms-discard"
-import { handleInboundSms } from "@akasha/sms-core/handle-inbound"
-import { writePage } from "@shared/pages-query"
-import { z } from "zod"
+import { unwritten } from "~/lib/pages-unheld"
 import type { Route } from "./+types/api.sms.webhook"
 
+const MESSAGE_PAGE_TYPE_SLUG = "message"
+
+// AN INBOUND SMS HAS NOWHERE TO LAND. Everything this route did — verify Telnyx's signature, read
+// the allowlist, record a discard — was in service of one act at the end: writing a `message`
+// page to the seat the text was for. That write went through `@shared/pages-query`, which wrote
+// into this pod's own checkout. The reach is severed, and `message` is no page type the pages
+// system service holds, so there is no seat to deliver to.
+//
+// 503 RATHER THAN 200. Verifying the signature and then dropping the text would hand Telnyx a
+// delivered receipt for a message nobody will ever read; the sender would be told it arrived. A
+// 503 is a message this app declines to take, which Telnyx retries and then reports as
+// undelivered — the true state, said to the one person it matters to.
 export async function action({ request }: Route.ActionArgs): Promise<Response> {
   if (request.method !== "POST") {
     return Response.json({ error: "method-not-allowed" }, { status: 405 })
   }
-
-  const publicKey = z.string().min(1).safeParse(process.env.TELNYX_PUBLIC_KEY)
-  if (!publicKey.success) {
-    return Response.json({ error: "sms-webhook-not-configured" }, { status: 503 })
-  }
-
-  const rawBody = await request.text()
-  const signatureBase64 = request.headers.get("telnyx-signature-ed25519")
-  const timestamp = request.headers.get("telnyx-timestamp")
-
-  const outcome = await handleInboundSms(
-    {
-      rawBody,
-      signatureBase64,
-      timestamp,
-      publicKeyBase64: publicKey.data,
-      loadIdentities: () => loadSmsExternalIdentities(),
-      nowMs: Date.now(),
-    },
-    async (target, content, kind) => {
-      const source =
-        kind === "refusal-notice" || target === "amy" ? "alanwalton-web" : `sms:${target}`
-      const written = await writePage(
-        "message",
-        `${target}/${crypto.randomUUID()}`,
-        { to: target, from: source, warrant: "announce", body: content },
-        source
-      )
-      if (!written.ok) {
-        return {
-          kind: "no-such-seat",
-          reason: `message for '${target}' did not land: ${written.why}`,
-        }
-      }
-      return { kind: "landed" }
-    },
-    (discard) => recordSmsDiscard(discard)
+  return Response.json(
+    { error: unwritten(MESSAGE_PAGE_TYPE_SLUG, "an inbound text") },
+    { status: 503 }
   )
-
-  if (outcome.kind === "rejected") {
-    return Response.json({ error: outcome.reason }, { status: outcome.status })
-  }
-  return Response.json({ status: outcome.kind }, { status: 200 })
 }

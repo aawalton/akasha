@@ -1,13 +1,11 @@
-import { writePage } from "@shared/pages-query"
-import { CONSENT_TEXT_VERSION } from "@akasha/person-system/sms-consent"
 import { z } from "zod"
 import { capacitorCorsHeaders } from "~/lib/capacitor-cors"
+import { unwritten } from "~/lib/pages-unheld"
 import type { Route } from "./+types/api.sms.opt-in"
 
 const CORS_METHODS = "POST, OPTIONS"
 
 const CONSENT_PAGE_TYPE_SLUG = "sms-consent"
-const WRITER = "sms-opt-in"
 
 export function consentNamed(e164: string, submittedAt: string): string {
   return `${e164.replace(/\D/g, "")}-${submittedAt.slice(0, 10)}`
@@ -59,7 +57,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
       { status: 400, headers: cors }
     )
   }
-  const { name, phone, website } = parsed.data
+  const { phone, website } = parsed.data
 
   if (website != null && website.length > 0) {
     return Response.json({ ok: true }, { headers: cors })
@@ -73,34 +71,18 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     )
   }
 
-  const submittedAt = new Date().toISOString()
-  const ipAddress =
-    request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ??
-    request.headers.get("x-real-ip") ??
-    null
-  const userAgent = request.headers.get("user-agent") ?? null
-
-  const landed = await writePage(
-    CONSENT_PAGE_TYPE_SLUG,
-    consentNamed(e164, submittedAt),
-    {
-      title: `SMS consent — ${name} — ${submittedAt.slice(0, 10)}`,
-      name,
-      phone: e164,
-      consent: true,
-      "consent-text-version": CONSENT_TEXT_VERSION,
-      "submitted-at": submittedAt,
-      ...(ipAddress === null ? {} : { "ip-address": ipAddress }),
-      ...(userAgent === null ? {} : { "user-agent": userAgent }),
-    },
-    WRITER
+  // A CONSENT THAT WENT UNRECORDED IS NEVER ANSWERED `{ok: true}`. This wrote an `sms-consent`
+  // page — the name, the number, the text version agreed to, the moment, the address and the
+  // agent it came from — through `@shared/pages-query`, into this pod's own checkout. That reach
+  // is severed, and `sms-consent` is no page type the pages system service holds.
+  //
+  // The consent page is the record that this person said yes, and it is the record the carrier
+  // asks for. Answering `{ok: true}` would tell the visitor they are signed up and leave nothing
+  // behind saying they ever agreed, which is the one failure here that reaches past this app.
+  const named = consentNamed(e164, new Date().toISOString())
+  const why = unwritten(CONSENT_PAGE_TYPE_SLUG, `the consent named \`${named}\``)
+  return Response.json(
+    { error: `Could not record your consent: ${why}` },
+    { status: 503, headers: cors }
   )
-  if (!landed.ok) {
-    return Response.json(
-      { error: `Could not record your consent: ${landed.why}` },
-      { status: 500, headers: cors }
-    )
-  }
-
-  return Response.json({ ok: true }, { headers: cors })
 }

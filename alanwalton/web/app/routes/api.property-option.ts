@@ -1,8 +1,6 @@
-import { MAX_OPTION_LABEL_LENGTH, resolveSelectOptionCreate } from "@akasha/pages-core/schema/select-option-create"
-import { multiSelectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
-import { askComposed } from "@shared/pages-query/ask"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { z } from "zod"
+import { unheld } from "~/lib/pages-unheld"
 
 const PROPERTY_DEFINITION_PAGE_TYPE = "page-property-definition"
 
@@ -13,10 +11,16 @@ const BodySchema = z
   })
   .strict()
 
-function isPlainObject(value: unknown): value is Record<string, unknown> {
-  return value != null && typeof value === "object" && !Array.isArray(value)
-}
-
+// THIS ROUTE ALREADY REFUSED EVERY OPTION IT WAS ASKED TO ADD; NOW IT REFUSES THE READ AS WELL.
+// A property definition is a file in the akasha repository and its option set is that file's
+// `values:` key, so there was never a row to write — the route answered 501 and said so. The one
+// thing it could still do was read the definition to tell a caller their label was already an
+// option there. That read went to `@shared/pages-query`, and
+// `page-property-definition` is no page type the pages system service holds, so it cannot be
+// made either.
+//
+// The 404 the unread definition used to fall through to is not reused: it would tell a caller
+// their property does not exist when what happened is that no property was read.
 export async function action({ request }: { request: Request }): Promise<Response> {
   const { user, headers } = await getUser(request)
   if (!user) {
@@ -33,46 +37,14 @@ export async function action({ request }: { request: Request }): Promise<Respons
   if (!parsed.success) {
     return Response.json({ ok: false, error: "Invalid request body." }, { status: 400, headers })
   }
-  const { definitionId, label } = parsed.data
-
-  const asked = await askComposed({
-    "page-type": PROPERTY_DEFINITION_PAGE_TYPE,
-    where: { id: { is: definitionId } },
-    limit: 1,
-  })
-  if (!asked.ok) {
-    return Response.json({ ok: false, error: "Property not found." }, { status: 404, headers })
-  }
-  const def = asked.answer.rows[0]?.values
-  if (def === undefined || def["page-type-slug"] !== PROPERTY_DEFINITION_PAGE_TYPE) {
-    return Response.json({ ok: false, error: "Property not found." }, { status: 404, headers })
-  }
-  if (def.type !== "multi-select") {
-    return Response.json(
-      { ok: false, error: "Options can only be added to multi-select properties." },
-      { status: 400, headers }
-    )
-  }
-  const rawConfig: Record<string, unknown> = isPlainObject(def.config) ? def.config : {}
-  const { options } = multiSelectConfigSchema.parse(rawConfig)
-  const decision = resolveSelectOptionCreate({
-    label,
-    existingOptions: options,
-    maxLabelLength: MAX_OPTION_LABEL_LENGTH,
-  })
-  if (decision.kind === "invalid") {
-    return Response.json({ ok: false, error: decision.reason }, { status: 400, headers })
-  }
-  if (decision.kind === "existing") {
-    return Response.json({ ok: true, option: decision.option, created: false }, { headers })
-  }
+  const { definitionId } = parsed.data
 
   return Response.json(
     {
       ok: false,
       error:
-        "Adding a select option is not available. A property definition is a file in the akasha repository, and its option set is that file's `values:` key — there is no row to write and no `config.options` to write to. Declare the option in the definition file through akasha's gated write path.",
-      option: decision.option,
+        "Adding a select option is not available. A property definition is a file in the akasha repository, and its option set is that file's `values:` key — there is no row to write and no `config.options` to write to. Declare the option in the definition file through akasha's gated write path. " +
+        unheld(PROPERTY_DEFINITION_PAGE_TYPE, `the definition \`${definitionId}\``),
       created: false,
     },
     { status: 501, headers }
