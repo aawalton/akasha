@@ -7,6 +7,8 @@ import {
   boundAs,
   compiled,
   declarationsNamed,
+  declaredNamed,
+  declaredOn,
   exportsNamed,
   insideOf,
   namingOf,
@@ -235,4 +237,33 @@ test("a binding a shorthand stood for is stated rather than the key being rename
 
   expect(boundAs(plain, "was", "now")).toBe("now")
   expect(boundAs({ ...plain, shorthand: true }, "was", "now")).toBe("was: now")
+})
+
+test("where a declaration's name starts is answered as a line counted from one", () => {
+  const at = "akasha/twice.module.code.ts"
+  const { typing } = typed({
+    [at]:
+      "export function held(): string {\n" +
+      '  const held = "one"\n' +
+      "  return held\n" +
+      "}\n" +
+      "\n" +
+      "export function second(): string {\n" +
+      '  const held = "two"\n' +
+      "  return held\n" +
+      "}\n",
+  })
+  const found = declaredNamed(typing, at, "held")
+
+  expect(found.map((one) => declaredOn(typing, at, one))).toEqual([1, 2, 7])
+})
+
+test("a line asked of a path the program never took in is answered as nothing", () => {
+  const at = "akasha/one.module.code.ts"
+  const { typing } = typed({ [at]: "export const one = 1\n" })
+  const found = declaredNamed(typing, at, "one")
+  const node = found[0]
+
+  expect(found).toHaveLength(1)
+  expect(node === undefined ? "unfound" : declaredOn(typing, "akasha/nowhere.ts", node)).toBe(null)
 })
