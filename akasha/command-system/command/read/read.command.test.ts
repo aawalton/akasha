@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { said as saying } from "@akasha/utils-run/running"
 import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"
 import { ANSWER_CEILING, costOf, NO_AGENT, readWith } from "./read.command.code.ts"
 import {
@@ -300,7 +300,7 @@ test("a committed body is found again, so a moved body is what changed", () => {
     ["add", "--", HELD],
     ["-c", "user.email=h@a", "-c", "user.name=h", "commit", "--quiet", "-m", HELD, "--", HELD],
   ]) {
-    execFileSync("git", ["-C", root, ...one], { stdio: "ignore" })
+    saying(["git", "-C", root, ...one])
   }
   read(["--file-path", HELD], givenFor(root))
   const now = lettered(80).replace("line 40 ", "line forty ")
