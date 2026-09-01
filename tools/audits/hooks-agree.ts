@@ -1,6 +1,7 @@
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { readFileSync } from "node:fs"
 import type { Check } from "../lib/check.ts"
+import { hooksFrom, hooksMerged } from "../lib/akasha-hooks.ts"
 import { agreement, refusalFor } from "../lib/hook-merge.ts"
 import { judge, over, skip } from "@akasha/verdict/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
@@ -74,7 +75,26 @@ export const hooksAgree: Check = (repo) => {
       )
     )
 
-  const { divergences, shared, unshared } = agreement(ours.document, theirs.document)
+  // A hook this repository registers is a page as often as it is a line in
+  // `settings/agents.json`, so read both. Reading the stated key alone left the
+  // registrations derived from `agent-hook` pages out of the comparison, and a
+  // copy of one of them in the user's file counted as benign rather than as a
+  // hook firing twice. This is the construction `hooks-delivered` already uses.
+  let mine: unknown
+  try {
+    const stated = ours.document as Record<string, unknown>
+    mine = { ...stated, hooks: hooksMerged(stated.hooks, hooksFrom(root)) }
+  } catch (cause) {
+    return {
+      ...skip(
+        NAME,
+        "the hooks akasha states could not be read, so which hooks it registers cannot " +
+          `be known: ${cause instanceof Error ? cause.message : String(cause)}`
+      ),
+      population: over(0, "registered hook(s)"),
+    }
+  }
+  const { divergences, shared, unshared } = agreement(mine, theirs.document)
   return {
     ...judge(
       NAME,
