@@ -7,7 +7,11 @@ export const dallaDraftIntoAPatch = {
   domainSlug: "domain/change",
   personaSlug: "dalla",
   intents: [
-    { statement: "A body reaches write and edit on the command line rather than in a file." },
+    {
+      statement: "A body reaches write and edit on the command line rather than in a file.",
+      workingMemory:
+        "Standard input carries the body. Write takes one body; edit takes old and new between conflict markers, line-oriented, the trailing newline included. The file flags and the repeating pairs stay until patches land, since a new page and its parent's part-slugs must still land in one call. The invariant naming --content-file is restated to name standard input rather than deleted, because keeping bodies out of argv is the point.",
+    },
     { statement: "A seat and a subagent each carry the patch they are drafting." },
     { statement: "A drafted change is worked into the agent's patch and rebased onto main." },
     {
