@@ -125,10 +125,10 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   if (!change.changed.some((path) => typeNamedIn(path) !== null)) return []
   const carried = carriedBy(change, pageTypesIn(shadow.reading))
   if (!carried.some((one) => typeNamedIn(one.path) !== null)) return []
-  const standing = everyType(shadow, carried)
-  const introducers = introducersIn(standing, shadow)
+  const types = everyType(shadow, carried)
+  const introducers = introducersIn(types, shadow)
   const said: Judged[] = []
-  for (const one of standing) {
+  for (const one of types) {
     const parts = partedIn(one.value)
     for (const propertySlug of introducedIn(one, shadow)) {
       const addressed = addressedIn(propertySlug)
