@@ -17,6 +17,7 @@ export const alanHarness = {
     "workspace-package/google-oauth",
     "workspace-package/awen-core",
     "workspace-package/alanwalton-web",
+    "workspace-package/imessage",
     "workspace-package/tower-core",
     "workspace-package/health-samples-access",
   ],

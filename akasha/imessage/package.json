@@ -1,0 +1,18 @@
+{
+  "name": "@akasha/imessage",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./chat-db": "./chat-db/chat-db.module.code.ts",
+    "./contacts-db": "./contacts-db/contacts-db.module.code.ts",
+    "./host": "./imessage-host/imessage-host.module.code.ts",
+    "./remote": "./imessage-remote/imessage-remote.module.code.ts",
+    "./send": "./imessage-send/imessage-send.module.code.ts",
+    "./ssh": "./imessage-ssh/imessage-ssh.module.code.ts"
+  },
+  "dependencies": {
+    "@shared/errors-core": "workspace:*",
+    "@shared/utils-fs": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
