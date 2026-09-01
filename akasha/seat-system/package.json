@@ -8,6 +8,6 @@
     "./seat-page-type": "./seat/seat.page-type.ts",
     "./seat-reading": "./seat-reading/seat-reading.module.code.ts",
     "./seat-stopping": "./seat-stopping/seat-stopping.module.code.ts",
-    "./subagent-standing": "./subagent/subagent-standing/subagent-standing.module.code.ts"
+    "./subagent-standing": "./subagent/subagent-presence/subagent-presence.module.code.ts"
   }
 }

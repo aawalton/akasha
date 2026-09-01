@@ -15,7 +15,7 @@ import {
   slugOf,
   took,
   wrote,
-} from "./subagent-standing.module.code.ts"
+} from "./subagent-presence.module.code.ts"
 
 const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
