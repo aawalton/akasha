@@ -13,6 +13,13 @@ const TEXT = new TextDecoder()
 
 const JUDGE = "Read what it bars, then judge for yourself whether you meant a sense it bars."
 
+const WEIGH =
+  "Match what you meant against the senses it keeps first, then judge for yourself whether you meant a sense it bars."
+
+const BARS = "It bars these senses:"
+
+const KEEPS = "It is written in these senses, and asks nothing of you where you meant one:"
+
 const INSIDE = [
   "The term is inside a camelCase name your change writes rather than a word of its own.",
   "Read the humps of the names you wrote as spaces to find it, then rename the one that means a sense below.",
@@ -31,17 +38,16 @@ export type Term = {
   readonly path: string
   readonly pattern: string
   readonly senses: readonly Sense[]
+  readonly kept: readonly string[]
 }
 
 export type Reach = "written" | "seam"
 
-export function owedOf(senses: readonly Sense[], reach: Reach): string {
-  return [
-    "Your change writes a taboo term.",
-    ...(reach === "seam" ? [INSIDE] : []),
-    ...senses.map((one) => `  ${one.sense} — write ${one.instead} instead`),
-    JUDGE,
-  ].join("\n")
+export function owedOf(senses: readonly Sense[], kept: readonly string[], reach: Reach): string {
+  const barred = senses.map((one) => `  ${one.sense} — write ${one.instead} instead`)
+  const opening = ["Your change writes a taboo term.", ...(reach === "seam" ? [INSIDE] : [])]
+  if (kept.length === 0) return [...opening, ...barred, JUDGE].join("\n")
+  return [...opening, KEEPS, ...kept.map((one) => `  ${one}`), BARS, ...barred, WEIGH].join("\n")
 }
 
 export function addedIn(before: string, after: string): string {
@@ -86,6 +92,11 @@ function sensesOf(said: unknown): readonly Sense[] {
   })
 }
 
+function keptOf(said: unknown): readonly string[] {
+  if (!Array.isArray(said)) return []
+  return said.filter((one): one is string => typeof one === "string")
+}
+
 export function termsIn(root: string): readonly Term[] {
   const found: Term[] = []
   for (const standing of everyOfType(root, TERM)) {
@@ -95,7 +106,7 @@ export function termsIn(root: string): readonly Term[] {
     if (typeof pattern !== "string") continue
     const senses = sensesOf(value["tabooSenses"])
     if (senses.length === 0) continue
-    found.push({ path: standing.path, pattern, senses })
+    found.push({ path: standing.path, pattern, senses, kept: keptOf(value["keptSenses"]) })
   }
   return found
 }
@@ -120,7 +131,7 @@ export function changeTabooTerms(
     if (reach === null) continue
     const oid = blobAt(root, term.path)
     if (oid === null) continue
-    found.push({ path: term.path, oid, owed: owedOf(term.senses, reach) })
+    found.push({ path: term.path, oid, owed: owedOf(term.senses, term.kept, reach) })
   }
   return found
 }

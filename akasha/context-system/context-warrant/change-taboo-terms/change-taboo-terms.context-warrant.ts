@@ -59,6 +59,19 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
+      statement: "What is owed names every sense the term keeps as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What is owed says of each list whether it is what the term keeps or what it bars.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is owed for a term naming no kept sense names only the senses it bars.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A pattern that does not compile finds nothing rather than refusing the change.",
     },
     {

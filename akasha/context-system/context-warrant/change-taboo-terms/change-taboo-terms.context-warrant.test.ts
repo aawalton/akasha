@@ -117,6 +117,7 @@ test("what is owed names every sense and what stands instead", () => {
       { sense: "a gated command", instead: "command" },
       { sense: "anything that refuses", instead: "written plainly" },
     ],
+    [],
     "written"
   )
   expect(said).toContain("a gated command — write command instead")
@@ -125,7 +126,36 @@ test("what is owed names every sense and what stands instead", () => {
 
 test("what is owed for a seam says the term is inside a camelCase name", () => {
   const senses = [{ sense: "a gated command", instead: "command" }]
-  expect(owedOf(senses, "seam")).toContain("inside a camelCase name")
-  expect(owedOf(senses, "seam")).toContain("a gated command — write command instead")
-  expect(owedOf(senses, "written")).not.toContain("camelCase")
+  expect(owedOf(senses, [], "seam")).toContain("inside a camelCase name")
+  expect(owedOf(senses, [], "seam")).toContain("a gated command — write command instead")
+  expect(owedOf(senses, [], "written")).not.toContain("camelCase")
+})
+
+test("what is owed for a term naming no kept sense names only the senses it bars", () => {
+  const said = owedOf([{ sense: "a gated command", instead: "command" }], [], "written")
+  expect(said).toBe(
+    [
+      "Your change writes a taboo term.",
+      "  a gated command — write command instead",
+      "Read what it bars, then judge for yourself whether you meant a sense it bars.",
+    ].join("\n")
+  )
+})
+
+test("what is owed names the senses a term keeps apart from the senses it bars", () => {
+  const said = owedOf(
+    [{ sense: "a gated command", instead: "command" }],
+    ["the shape a zod validator names a value must have", "a rite of passage"],
+    "seam"
+  )
+  expect(said).toContain("It is written in these senses")
+  expect(said).toContain("  the shape a zod validator names a value must have")
+  expect(said).toContain("  a rite of passage")
+  expect(said).toContain("It bars these senses:")
+  expect(said).toContain("  a gated command — write command instead")
+  expect(said).toContain("inside a camelCase name")
+  expect(said.indexOf("It is written in these senses")).toBeLessThan(
+    said.indexOf("It bars these senses:")
+  )
+  expect(said).toContain("Match what you meant against the senses it keeps first")
 })
