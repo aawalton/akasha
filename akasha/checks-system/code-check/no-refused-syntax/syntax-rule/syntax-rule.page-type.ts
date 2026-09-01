@@ -34,6 +34,7 @@ export const syntaxRule = {
     "syntax-rule/no-libc-by-name",
     "syntax-rule/no-local-midnight-parse",
     "syntax-rule/no-non-null-assertion",
+    "syntax-rule/no-run-outside-the-runner",
     "syntax-rule/no-sops-on-dev-stdin",
     "syntax-rule/no-swallowed-read",
     "syntax-rule/no-void-return",
