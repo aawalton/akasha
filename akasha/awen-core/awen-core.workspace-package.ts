@@ -36,6 +36,7 @@ export const awenCore = {
     "module/rollback",
     "module/rollback-checks",
     "module/rulebook-schema",
+    "module/schema-violation",
     "module/sheet-template",
     "module/state-schema",
     "module/system-window-schema",
