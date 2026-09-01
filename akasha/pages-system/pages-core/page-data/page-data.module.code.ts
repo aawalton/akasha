@@ -53,6 +53,10 @@ export type PropertyDefinition = {
 
 export type PageDataJSON = Readonly<Record<string, ReadonlyJSONValue | undefined>>
 
+export function asPageDataJSON(value: Record<string, unknown>): PageDataJSON {
+  return value as PageDataJSON
+}
+
 export function readString(config: PropertyDefinition["config"], key: string): string | null {
   if (!config) return null
   const value = config[key]

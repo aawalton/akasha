@@ -9,7 +9,11 @@ import {
   type PageTypePropertiesMap,
   parseRollupConfig,
 } from "@akasha/pages-core/property-types/rollup"
-import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
+import {
+  asPageDataJSON,
+  type PageDataJSON,
+  type PropertyDefinition,
+} from "@akasha/pages-core/types"
 import { lowerUuid } from "@akasha/pages-system/name-format/lower-uuid"
 import {
   asPageRecord,
@@ -43,9 +47,6 @@ function asSortValue(value: unknown): SortValue {
 }
 function asAggregateFunction(fn: string): AggregateFunction {
   return fn as AggregateFunction
-}
-function asPageDataJSON(data: Record<string, unknown>): PageDataJSON {
-  return data as PageDataJSON
 }
 
 export interface KeyInfo {
