@@ -55,7 +55,6 @@ export const amyJennyUnreviewedWidget = {
   ],
   constraints: [
     "Every intent on Alan's side comes before Jenny's even though the end of the work is hers.",
-    "Route access refuses every caller until person enrolment is rebuilt on `supabase-auth-user-id`.",
     "The ring is drawn by one file both tiles share, so it moves once and serves both.",
     "The reading is taken on a workstation because a pod cannot write the page store.",
     "The route cannot move before the credential and the readers it uses and the reading itself.",
