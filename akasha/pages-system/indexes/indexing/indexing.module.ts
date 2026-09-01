@@ -23,6 +23,15 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An edge for a specifier naming a package is filed from the manifests the pages state.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every tree read here is read by one rule.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body a file property holds is never loaded.",
     },
     {

@@ -41,6 +41,18 @@ export const packageReaching = {
       statement: "A caller holding only a root is answered once and held.",
     },
     {
+      invariantKind: "departure",
+      statement: "A rebuild is answered from the files its pages state.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A settle is answered from the paths the index names and the paths it carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest the change carries is read as the change leaves it.",
+    },
+    {
       invariantKind: "absence",
       statement: "No specifier is resolved through `node_modules`.",
     },

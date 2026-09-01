@@ -19,7 +19,16 @@ export const indexImport = {
     },
     {
       invariantKind: "departure",
-      statement: "A relative specifier makes an edge and a package specifier makes none.",
+      statement: "A relative specifier makes an edge.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A specifier naming a package makes an edge at the file the naming handed in resolves it to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier the naming handed in does not resolve makes none.",
     },
     {
       invariantKind: "departure",

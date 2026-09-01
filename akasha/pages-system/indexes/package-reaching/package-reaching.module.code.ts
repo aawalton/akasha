@@ -2,7 +2,8 @@ import { existsSync, readFileSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
 import type { Naming } from "@akasha/code-system/code-specifier"
 import { reachesIn, reachingOver } from "@akasha/code-system/package-manifest"
-import { filePropertiesAt } from "../index-entries/index-entries.module.code.ts"
+import type { Value } from "../../page/page-value/page-value.module.code.ts"
+import { filePropertiesAt, pathsOf, under } from "../index-entries/index-entries.module.code.ts"
 import { everyPath } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 
@@ -55,4 +56,51 @@ export function reachingFor(root: string): Naming {
   const said = reachingAt(root, bodiesAt(root))
   HELD.set(root, said)
   return said
+}
+
+export type Standing = {
+  readonly path: string
+  readonly value: Value
+}
+
+export type Leaving = {
+  readonly path: string
+  readonly now: Value | null
+}
+
+export type Carried = {
+  readonly path: string
+  readonly after: string | null
+}
+
+export function bodiesOver(repo: string, carried: ReadonlyMap<string, string | null>): Body {
+  const onDisk = bodiesAt(repo)
+  return (path) => (carried.has(path) ? (carried.get(path) ?? null) : onDisk(path))
+}
+
+export function reachingBuilt(
+  held: readonly Standing[],
+  repo: string,
+  fileProperties: ReadonlyMap<string, string | null>
+): Naming {
+  const claimed = held.flatMap((one) => pathsOf(one.value, one.path, repo, fileProperties))
+  return reachingIn(claimed, fileProperties, bodiesAt(repo))
+}
+
+export function reachingSettled(
+  given: string | Reading,
+  held: readonly Leaving[],
+  carried: readonly Carried[],
+  repo: string,
+  fileProperties: ReadonlyMap<string, string | null>
+): Naming {
+  const bodies = new Map(carried.map((one) => [under(repo, one.path), one.after]))
+  const claimed = held.flatMap((one) =>
+    one.now === null ? [under(repo, one.path)] : pathsOf(one.now, one.path, repo, fileProperties)
+  )
+  return reachingIn(
+    [...everyPath(given), ...bodies.keys(), ...claimed],
+    fileProperties,
+    bodiesOver(repo, bodies)
+  )
 }

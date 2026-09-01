@@ -49,6 +49,7 @@ import {
   readingNone,
   readingOf,
 } from "../index-surface/index-surface.module.code.ts"
+import { reachingBuilt, reachingSettled } from "../package-reaching/package-reaching.module.code.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
 
 const IDENTITY = indexIdentity.name
@@ -125,16 +126,21 @@ function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | n
   return said !== null && !fileProperties.has(said.tail)
 }
 
-function pagesUnder(tree: string): readonly string[] {
+function walkedUnder(at: string, taking: (name: string) => boolean): readonly string[] {
   const found: string[] = []
-  const walk = (at: string): undefined => {
-    for (const one of readdirSync(at, { withFileTypes: true })) {
-      const here = join(at, one.name)
-      if (one.isDirectory()) walk(here)
-      else if (namedIn(one.name) !== null) found.push(here)
+  const walk = (here: string): undefined => {
+    for (const one of readdirSync(here, { withFileTypes: true })) {
+      const next = join(here, one.name)
+      if (one.isDirectory()) walk(next)
+      else if (taking(one.name)) found.push(next)
     }
   }
-  walk(tree)
+  walk(at)
+  return found
+}
+
+function pagesUnder(tree: string): readonly string[] {
+  const found = walkedUnder(tree, (name) => namedIn(name) !== null)
   const pageTypes = new Set<string>([PAGE_TYPE])
   for (const one of found) {
     const said = namedIn(one)
@@ -149,30 +155,11 @@ function pagesUnder(tree: string): readonly string[] {
 const TS = ".ts"
 
 function bodiesUnder(tree: string): readonly string[] {
-  const found: string[] = []
-  const walk = (at: string): undefined => {
-    for (const one of readdirSync(at, { withFileTypes: true })) {
-      const here = join(at, one.name)
-      if (one.isDirectory()) walk(here)
-      else if (one.name.endsWith(TS)) found.push(here)
-    }
-  }
-  walk(tree)
-  return found
+  return walkedUnder(tree, (name) => name.endsWith(TS))
 }
 
 function filesUnder(at: string): readonly string[] {
-  if (!existsSync(at)) return []
-  const found: string[] = []
-  const walk = (here: string): undefined => {
-    for (const one of readdirSync(here, { withFileTypes: true })) {
-      const next = join(here, one.name)
-      if (one.isDirectory()) walk(next)
-      else found.push(next)
-    }
-  }
-  walk(at)
-  return found
+  return existsSync(at) ? walkedUnder(at, () => true) : []
 }
 
 function reconcile(under: string, entries: readonly Entry[], root: string): undefined {
@@ -225,8 +212,9 @@ export function rebuiltFrom(
   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
   const relation = filed.flatMap((one) => one.entries)
   reconcile(join(root, RELATION), relation, root)
+  const naming = reachingBuilt(held, repo, fileProperties)
   const imported = bodiesUnder(tree).flatMap((path) =>
-    importIn(readFileSync(path, "utf8"), path, repo)
+    importIn(readFileSync(path, "utf8"), path, repo, naming)
   )
   reconcile(join(root, IMPORT), imported, root)
   const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
@@ -316,14 +304,18 @@ export function settlingOver(
     now: readInto(one.after, one.path),
   }))
 
-  const imported = filingOf(
-    reading,
-    held.flatMap((one) => (one.before === null ? [] : importIn(one.before, one.path, repo))),
-    held.flatMap((one) => (one.after === null ? [] : importIn(one.after, one.path, repo)))
-  )
-
   const standing = held.flatMap((one) => (one.now === null ? [] : [one.now]))
   const fileProperties = new Map<string, string | null>([...filed, ...filePropertiesIn(standing)])
+  const naming = reachingSettled(reading, held, moving, repo, fileProperties)
+
+  const imported = filingOf(
+    reading,
+    held.flatMap((one) =>
+      one.before === null ? [] : importIn(one.before, one.path, repo, naming)
+    ),
+    held.flatMap((one) => (one.after === null ? [] : importIn(one.after, one.path, repo, naming)))
+  )
+
   const nowSchema = held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now)))
   const schema = filingOf(
     reading,
