@@ -175,8 +175,8 @@ test("a path the index files that stands nowhere on disk is not carried", () => 
   pathFiled(root, "akasha/seat-system/seat/seats/one.seat.sops.yaml", [
     { path: "akasha/seat-system/seat/seats/one.seat.sops.yaml", id: "01a0587b-0000-7000-8000-c" },
   ])
-  const stands = new Set([SEAT_AT, "akasha/seat-system/seat/seats/one.seat.ts"])
-  const carries = carriesFor(root, RENAMING, (path) => stands.has(path))
+  const onDisk = new Set([SEAT_AT, "akasha/seat-system/seat/seats/one.seat.ts"])
+  const carries = carriesFor(root, RENAMING, (path) => onDisk.has(path))
   expect(carries.map((one) => one.to)).toEqual([
     "akasha/seat-system/chair/chair.page-type.ts",
     "akasha/seat-system/chair/chairs/one.chair.ts",
