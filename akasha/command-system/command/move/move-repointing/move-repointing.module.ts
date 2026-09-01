@@ -11,7 +11,7 @@ export const moveRepointing = {
     {
       invariantKind: "departure",
       statement:
-        "A body is rewritten in one pass with each name replaced where that name stands rather than searched for again.",
+        "A body is rewritten in one run with each name replaced where the name sits rather than found again.",
     },
     {
       invariantKind: "departure",

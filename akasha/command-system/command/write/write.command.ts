@@ -27,7 +27,7 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "A body reaches this command only as a file named at `--content-file` rather than on the command line.",
+        "A body reaches this command as a file named at `--content-file` rather than on the command line.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "What the seat owes and what the paths owe are ordered together rather than said as one list after another list.",
+        "What the seat owes and what the paths owe are ordered together rather than said as two lists.",
     },
     {
       invariantKind: "departure",
