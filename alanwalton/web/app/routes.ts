@@ -18,7 +18,7 @@ export default [
   route("sign-in", "routes/sign-in.tsx"),
   route("sign-up", "routes/sign-up.tsx"),
   route("sign-out", "routes/sign-out.ts"),
-  route("idle", "routes/idle.tsx"),
+  route("idle", "routes/idle.ts"),
   route("api/health", "routes/api.health.ts"),
   route("api/live-version", "routes/api.live-version.ts"),
   route("api/errors", "routes/api.errors.ts"),

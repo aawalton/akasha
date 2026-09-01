@@ -6,7 +6,7 @@ import type { Route } from "./+types/idle"
 
 const IDLE_GAME_SLUG = toPageTypeSlug("idle-game")
 
-export async function loader({ request: _request }: Route.LoaderArgs) {
+export async function loader({ request: _request }: Route.LoaderArgs): Promise<Response> {
   const asked = await askComposed({
     "page-type": IDLE_GAME_SLUG,
     where: { "game-engine": { is: "idle" } },
