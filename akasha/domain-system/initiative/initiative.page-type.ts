@@ -1,5 +1,5 @@
-import type { Page } from "../../pages-system/page/page.page-type.ts"
-import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { Page } from "@akasha/pages-system/page"
+import type { PageType } from "@akasha/pages-system/page-type"
 import type { DomainSlug } from "../domain/properties/domain-slug.relation-property.ts"
 import type { Constraints } from "./properties/constraints.text-property.ts"
 import type { Intents } from "./properties/intents.record-property.ts"
