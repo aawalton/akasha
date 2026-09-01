@@ -21,6 +21,7 @@ export const alanHarness = {
     "workspace-package/imessage",
     "workspace-package/tower-core",
     "workspace-package/tower-engine",
+    "workspace-package/tower",
     "workspace-package/health-samples-access",
     "workspace-package/health-samples-day",
     "workspace-package/chess-core",

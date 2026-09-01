@@ -1,0 +1,21 @@
+{
+  "name": "@akasha/tower",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./combat-mapping": "./combat-mapping/combat-mapping.module.code.ts",
+    "./plan-archive": "./plan-archive/plan-archive.module.code.ts",
+    "./render-chapter": "./render-chapter/render-chapter.module.code.ts",
+    "./resolve-hero": "./resolve-hero/resolve-hero.module.code.ts",
+    "./retrofit-system-cards": "./retrofit-system-cards/retrofit-system-cards.module.code.ts",
+    "./roll-payload": "./roll-payload/roll-payload.module.code.ts",
+    "./tower-page-slugs": "./tower-page-slugs/tower-page-slugs.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/tower-core": "workspace:*",
+    "@akasha/tower-engine": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "@stories/text": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
