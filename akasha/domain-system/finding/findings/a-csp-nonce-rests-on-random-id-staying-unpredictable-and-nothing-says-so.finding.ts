@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aCspNonceRestsOnRandomIdStayingUnpredictableAndNothingSaysSo = {
+  id: "01a05c77-45e6-711b-ac95-370cb69c228f",
+  pageTypeSlug: "finding",
+  slug: "a-csp-nonce-rests-on-random-id-staying-unpredictable-and-nothing-says-so",
+  domainSlug: "workspace-package/id-minting",
+  claim:
+    "Six sites mint their CSP nonce from `randomId`, whose value must be unpredictable per response, and nothing in `id-minting` says so. Its page says only that it makes a fresh identifier. Most of the tree mints identifiers with `Bun.randomUUIDv7()`, which is time-ordered by design and carries 74 random bits rather than 122. Unifying `randomId` onto v7 would look like tidying, would pass every check and test here, and would silently weaken six live nonces.",
+  evidence:
+    "`randomId` is `return crypto.randomUUID()` at akasha/id-minting/random-id/random-id.module.code.ts:2. Before 436291e423 that body stood three times under three names: `randomId`, `newBlockId` among the pages-core rich-document edits, and `generateNonce` in web-security-headers. With the bound name normalised to binding order all three hash to 9d461ff945a3af927bcc8473e7dfba88f194d2a2b9b3264ea9615446e68f3beb, so the extraction changed no behaviour and is not what this doubts.\n\nWhat it did was give one body two obligations. A block id need only differ from its siblings. A nonce must be unguessable before the response is read, or injected markup names the nonce and the policy admits the script.\n\nSix servers call randomId() once per request and hand the value to buildSecurityHeaders: alanwalton/web/server.ts:65, alanwalton/atlas-web/server.ts:91, smilingjenny/web/server.ts:50, audhdalan/web/server.ts:50, archive-of-worlds/web/server.ts:50, temper/web/server.ts:51.\n\nToday this is sound: crypto.randomUUID() draws from the platform CSPRNG and a v4 UUID carries 122 random bits. The pull toward v7 is already dominant elsewhere. Bun.randomUUIDv7() stands at akasha/calendar-sync/track-sync-run/track-sync-run.module.code.ts:14, akasha/health-samples-access/sample-upsert/sample-upsert.module.code.ts:96 and throughout tools/. A v7 UUID carries a millisecond timestamp in its high bits by design, and 74 random bits.\n\nNothing would catch the swap. id-minting states no invariant about unpredictability, web-security-headers no longer holds a nonce module of its own, and no test asserts anything of the nonce's shape.",
+} as const satisfies Finding
