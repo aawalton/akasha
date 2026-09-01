@@ -33,3 +33,25 @@ test("the port is read from the page rather than written here", () => {
   const held = portFor(ROOT)
   expect(held === null || typeof held === "number").toBe(true)
 })
+
+test("a question is answered while another is still being answered", async () => {
+  const server = serverFor({ root: ROOT, port: 0 })
+  try {
+    const order: string[] = []
+    const ask = (body: unknown, name: string) =>
+      fetch(`${server.url}ask`, { method: "POST", body: JSON.stringify(body) })
+        .then((one) => one.json())
+        .then(() => {
+          order.push(name)
+        })
+    const wide = Array.from({ length: 20 }, (_, one) =>
+      ask({ pageTypeSlug: "module" }, `wide${one}`)
+    )
+    const narrow = ask({ pageTypeSlug: "invariant-kind", keys: ["slug"] }, "narrow")
+    await Promise.all([...wide, narrow])
+    expect(order.length).toBe(21)
+    expect(order.indexOf("narrow")).toBeLessThan(10)
+  } finally {
+    server.stop(true)
+  }
+})
