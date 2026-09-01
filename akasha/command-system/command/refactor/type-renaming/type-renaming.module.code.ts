@@ -1,11 +1,7 @@
+import { literalOf, parsedAs } from "@akasha/code-system/code-source"
+import { everyOfType, everyPath, listedAt } from "@akasha/indexes"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
 import ts from "typescript"
-import { literalOf, parsedAs } from "../../../../code-system/code-source/code-source.module.code.ts"
-import {
-  everyOfType,
-  everyPath,
-  listedAt,
-} from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { exportedAs } from "../../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const refactorLanding = {
   id: "01a0598f-bfa7-7000-b416-cf0c3639e042",

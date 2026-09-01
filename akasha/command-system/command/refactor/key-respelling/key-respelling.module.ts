@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const keyRespelling = {
   id: "01a058ec-4a71-7001-b7d2-3f9a1c6e80b4",

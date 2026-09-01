@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { readingIn } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { readingIn } from "@akasha/indexes"
 import {
   idFiled,
   listedFiled,
   pathFiled,
   relationFiled,
   schemaFiled,
-} from "../../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+} from "@akasha/indexes/testing"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
 import { keyingFor, respellingFor } from "./key-respelling.module.code.ts"
 

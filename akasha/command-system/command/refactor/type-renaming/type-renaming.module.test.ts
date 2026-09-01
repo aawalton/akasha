@@ -1,8 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import {
-  listedFiled,
-  pathFiled,
-} from "../../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { listedFiled, pathFiled } from "@akasha/indexes/testing"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
 import {
   carriesFor,

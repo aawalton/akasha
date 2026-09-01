@@ -1,4 +1,3 @@
-import type ts from "typescript"
 import {
   boundAs,
   declarationsNamed,
@@ -10,7 +9,8 @@ import {
   spelledAs,
   type Typing,
   typingOver,
-} from "../../../../code-system/code-typing/code-typing.module.code.ts"
+} from "@akasha/code-system/code-typing"
+import type ts from "typescript"
 import { counted } from "../../../asking/asking.module.code.ts"
 import { were } from "../refactor-landing/refactor-landing.module.code.ts"
 import type { Spot } from "../type-renaming/type-renaming.module.code.ts"

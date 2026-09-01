@@ -1,5 +1,4 @@
-import type ts from "typescript"
-import type { Naming, Typing } from "../../../../code-system/code-typing/code-typing.module.code.ts"
+import type { Naming, Typing } from "@akasha/code-system/code-typing"
 import {
   compiled,
   declarationsNamed,
@@ -7,20 +6,14 @@ import {
   readingOf,
   spelledAs,
   typingOver,
-} from "../../../../code-system/code-typing/code-typing.module.code.ts"
-import { pageTypesIn } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  everyPath,
-  listedAt,
-  schemaOf,
-} from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
-import {
-  carryingOf,
-  declaringOf,
-} from "../../../../pages-system/indexes/property-carrying/property-carrying.module.code.ts"
-import { exportedAs } from "../../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { pageNamed } from "../../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+} from "@akasha/code-system/code-typing"
+import { everyPath, listedAt, schemaOf } from "@akasha/indexes"
+import { pageTypesIn } from "@akasha/indexes/entries"
+import { carryingOf, declaringOf } from "@akasha/indexes/property-carrying"
+import type { Reading } from "@akasha/indexes/shape"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { pageNamed } from "@akasha/pages-system/page-file-name"
+import type ts from "typescript"
 import { kebabOff, restated, splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 
 const KEY = "propertySlug"

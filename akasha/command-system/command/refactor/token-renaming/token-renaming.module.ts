@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const tokenRenaming = {
   id: "01a0598c-9096-7000-8946-4e4927fad360",

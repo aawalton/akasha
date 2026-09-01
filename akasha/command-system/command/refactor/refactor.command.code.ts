@@ -1,17 +1,10 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import {
-  compiled,
-  readingOf,
-  typingOver,
-} from "../../../code-system/code-typing/code-typing.module.code.ts"
-import { reachingInto } from "../../../graph-system/graph-asking/graph-asking.module.code.ts"
-import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
-import {
-  everyPath,
-  readingIn,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { uncommittedNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { compiled, readingOf, typingOver } from "@akasha/code-system/code-typing"
+import { reachingInto } from "@akasha/graph-system/graph-asking"
+import { importEdge } from "@akasha/graph-system/import-edge"
+import { everyPath, readingIn } from "@akasha/indexes"
+import { uncommittedNamed } from "@akasha/pages-system/page-file-name"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import {
   BREAK_GLASS,
