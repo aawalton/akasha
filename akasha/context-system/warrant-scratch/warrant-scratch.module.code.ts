@@ -24,7 +24,7 @@ function filed(root: string, held: Listed, typeSlug: string, slug: string): unde
   standingFiled(root, typeSlug, slug, [held])
 }
 
-function pageStanding(
+function pageListed(
   root: string,
   path: string,
   typeSlug: string,
@@ -44,7 +44,7 @@ function pageStanding(
 }
 
 export function typedListed(root: string, typeSlug: string, slug: string, stated = ""): Listed {
-  return pageStanding(root, `akasha/${slug}/${slug}.${typeSlug}.ts`, typeSlug, slug, stated)
+  return pageListed(root, `akasha/${slug}/${slug}.${typeSlug}.ts`, typeSlug, slug, stated)
 }
 
 export function domainListed(root: string, slug: string): Listed {
@@ -52,7 +52,7 @@ export function domainListed(root: string, slug: string): Listed {
 }
 
 export function initiativeListed(root: string, slug: string, stated = ""): Listed {
-  return pageStanding(
+  return pageListed(
     root,
     `akasha/domain-system/initiative/initiatives/${slug}.initiative.ts`,
     "initiative",
@@ -62,11 +62,11 @@ export function initiativeListed(root: string, slug: string, stated = ""): Liste
 }
 
 export function personListed(root: string, slug: string): Listed {
-  return pageStanding(root, `akasha/person-system/person/people/${slug}.person.ts`, "person", slug)
+  return pageListed(root, `akasha/person-system/person/people/${slug}.person.ts`, "person", slug)
 }
 
 export function personaListed(root: string, slug: string): Listed {
-  return pageStanding(
+  return pageListed(
     root,
     `akasha/persona-system/persona/${slug}/${slug}.persona.ts`,
     "persona",
@@ -75,7 +75,7 @@ export function personaListed(root: string, slug: string): Listed {
 }
 
 export function roleListed(root: string, slug: string): Listed {
-  return pageStanding(root, `akasha/role-system/role/roles/${slug}.role.ts`, "role", slug)
+  return pageListed(root, `akasha/role-system/role/roles/${slug}.role.ts`, "role", slug)
 }
 
 export function pageTypeListed(root: string, slug: string, above: string | null): string {
