@@ -1,26 +1,19 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { warrantsStanding } from "../../../context-system/warranting/warranting.module.test-fixtures.ts"
-import {
-  listedAt,
-  namersOf,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { warrantsStanding } from "@akasha/context-system/warranting/testing"
+import { listedAt, namersOf } from "@akasha/indexes"
 import {
   importFiled,
   indexTakenFrom,
   pathFiled,
   rebuiltIn,
   stampedIn,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { declaringUnder } from "../../../testing-system/declaring/declaring.module.code.ts"
-import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
-import {
-  admitting,
-  mintedId,
-  minting,
-} from "../../../testing-system/minting/minting.module.code.ts"
-import { put } from "../../../testing-system/putting/putting.module.code.ts"
+} from "@akasha/indexes/testing"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { declaringUnder } from "@akasha/testing-system/declaring"
+import { gitIn } from "@akasha/testing-system/gitting"
+import { admitting, mintedId, minting } from "@akasha/testing-system/minting"
+import { put } from "@akasha/testing-system/putting"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"

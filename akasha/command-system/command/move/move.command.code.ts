@@ -1,13 +1,9 @@
 import { existsSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
-import type { Listed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  everyPath,
-  importersOf,
-  listedByPath,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { besideOf } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
-import { uncommittedNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import type { Listed } from "@akasha/indexes"
+import { everyPath, importersOf, listedByPath } from "@akasha/indexes"
+import { besideOf } from "@akasha/pages-system/page-beside"
+import { uncommittedNamed } from "@akasha/pages-system/page-file-name"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import {
   BREAK_GLASS,

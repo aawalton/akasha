@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { unreadIn } from "../../../context-system/warranting/warranting.module.code.ts"
-import { refusing } from "../../../testing-system/minting/minting.module.code.ts"
-import { stands } from "../../../testing-system/putting/putting.module.code.ts"
+import { unreadIn } from "@akasha/context-system/warranting"
+import { refusing } from "@akasha/testing-system/minting"
+import { stands } from "@akasha/testing-system/putting"
 import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"
 import { move, pairsIn } from "./move.command.code.ts"
 import {
