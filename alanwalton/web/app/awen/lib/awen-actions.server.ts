@@ -1,12 +1,8 @@
-import { pendingActions } from "@akasha/story-engine-core/action-box"
-import { askComposed } from "@shared/pages-query/ask"
+import { unheld } from "~/lib/pages-unheld"
 import type { PendingActionInput } from "./client-envelope"
 import type { AwenGameConfig } from "./game.server"
-import { latestFrontierMs } from "./revealed-frontier"
-import { PUBLISHED_TURN_STATUSES } from "./story-session-compose"
 
 const AWEN_TURN_SLUG = "game-turn"
-const AWEN_STATE_SLUG = "game-state"
 
 export interface ActionInputs {
   readonly actions: readonly PendingActionInput[]
@@ -14,42 +10,11 @@ export interface ActionInputs {
   readonly latestStateAt: number | null
 }
 
-async function loadLatestTurnAt(game: AwenGameConfig): Promise<number | null> {
-  if (game.turnIds.length === 0) return null
-  const asked = await askComposed({
-    "page-type": AWEN_TURN_SLUG,
-    where: {
-      id: { in: game.turnIds },
-      status: { in: [...PUBLISHED_TURN_STATUSES] },
-    },
-    keys: ["published-at"],
-  })
-  if (!asked.ok) throw new Error(`loadLatestTurnAt: ${asked.why}`)
-  const rows = asked.answer.rows.map((r) => ({ publishedAt: r.values["published-at"] }))
-  return latestFrontierMs(rows, "publishedAt", "createdAt")
-}
-
-async function loadLatestStateAt(game: AwenGameConfig): Promise<number | null> {
-  if (game.stateIds.length === 0) return null
-  const asked = await askComposed({
-    "page-type": AWEN_STATE_SLUG,
-    where: { id: { in: game.stateIds } },
-    keys: ["revealed-at"],
-  })
-  if (!asked.ok) throw new Error(`loadLatestStateAt: ${asked.why}`)
-  const rows = asked.answer.rows.map((r) => ({ revealedAt: r.values["revealed-at"] }))
-  return latestFrontierMs(rows, "revealedAt", "createdAt")
-}
-
+// The pending actions come out of the action box and are readable still, but the two frontiers
+// beside them — the latest published turn and the latest revealed state — are read off
+// `game-turn` and `game-state`, and the pages system service holds neither page type. `null` is
+// what this answers for a game with no turns at all, so answering `null` here would tell the
+// reader nothing had ever happened in their game rather than that the frontier went unread.
 export async function loadActionInputs(game: AwenGameConfig): Promise<ActionInputs> {
-  const [actions, latestTurnAt, latestStateAt] = await Promise.all([
-    loadActionMessages(),
-    loadLatestTurnAt(game),
-    loadLatestStateAt(game),
-  ])
-  return { actions, latestTurnAt, latestStateAt }
-}
-
-function loadActionMessages(): readonly PendingActionInput[] {
-  return pendingActions()
+  throw new Error(unheld(AWEN_TURN_SLUG, `the frontier of \`${game.externalId}\``))
 }

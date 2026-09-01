@@ -1,30 +1,13 @@
 import type { GameState } from "@akasha/story-engine-core/state-schema"
-import { askComposed } from "@shared/pages-query/ask"
-import { parseAwenStatePage } from "./awen-state-parse"
+import { unheld } from "~/lib/pages-unheld"
 import type { AwenGameConfig } from "./game.server"
 
 const AWEN_STATE_SLUG = "game-state"
 
+// `game-state` is no page type the pages system service holds, so the latest state of a game
+// cannot be read. Nothing reaches here in practice — `loadGame` refuses before a caller has an
+// `AwenGameConfig` to hand over — but a `null` returned from here would say the game had never
+// been played rather than that its states went unread, so this refuses in its own right.
 export async function loadLatestState(game: AwenGameConfig): Promise<GameState | null> {
-  if (game.stateIds.length === 0) return null
-  const asked = await askComposed({
-    "page-type": AWEN_STATE_SLUG,
-    where: { id: { in: game.stateIds } },
-    keys: ["turn", "hud", "revealed", "build", "log", "chapters", "quests"],
-    "sort-by": "turn",
-    descending: true,
-    limit: 1,
-  })
-  if (!asked.ok) throw new Error(`loadLatestState: ${asked.why}`)
-  const latest = asked.answer.rows[0]
-  if (latest === undefined) return null
-  return parseAwenStatePage({
-    turn: latest.values.turn,
-    hud: latest.values.hud,
-    revealed: latest.values.revealed,
-    build: latest.values.build,
-    log: latest.values.log,
-    chapters: latest.values.chapters,
-    quests: latest.values.quests,
-  })
+  throw new Error(unheld(AWEN_STATE_SLUG, `the latest state of \`${game.externalId}\``))
 }
