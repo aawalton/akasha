@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 
 export type JennyIntent = "manage-content" | "feature-request" | "no-match"
 

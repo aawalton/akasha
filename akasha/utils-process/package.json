@@ -6,6 +6,6 @@
     "./pid-signal": "./pid-signal/pid-signal.module.code.ts"
   },
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*"
+    "@akasha/utils-narrow": "workspace:*"
   }
 }

@@ -8,7 +8,7 @@
     "./worktree-paths": "./worktree-paths/worktree-paths.module.code.ts"
   },
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
 }

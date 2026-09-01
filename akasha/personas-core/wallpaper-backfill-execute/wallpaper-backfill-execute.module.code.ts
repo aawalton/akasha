@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 
 export function isPerLevelBackfillTarget(level: number | null | undefined): level is number {
   return typeof level === "number" && Number.isInteger(level) && level >= 0

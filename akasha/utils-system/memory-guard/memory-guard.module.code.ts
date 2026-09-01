@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 import { enforceInodeAdmission } from "../inode-guard/inode-guard.module.code.ts"
 

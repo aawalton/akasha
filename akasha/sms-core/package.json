@@ -14,7 +14,7 @@
     "./verify-signature": "./verify-signature/verify-signature.module.code.ts"
   },
   "dependencies": {
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
 }

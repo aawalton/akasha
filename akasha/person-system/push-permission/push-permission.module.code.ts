@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 
 export type PushReceiveStanding = "prompt" | "prompt-with-rationale" | "granted" | "denied"
 

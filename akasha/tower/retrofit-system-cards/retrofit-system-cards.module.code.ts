@@ -1,5 +1,5 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 import { countWords } from "../render-chapter/render-chapter.module.code.ts"
 

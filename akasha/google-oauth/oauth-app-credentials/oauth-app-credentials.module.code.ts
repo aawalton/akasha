@@ -1,4 +1,4 @@
-import { requireEnv } from "@shared/utils-narrow/require-env"
+import { requireEnv } from "@akasha/utils-narrow/require-env"
 
 export interface GoogleOauthAppCredentials {
   readonly clientId: string

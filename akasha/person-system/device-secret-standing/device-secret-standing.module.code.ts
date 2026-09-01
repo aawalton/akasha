@@ -3,7 +3,7 @@ import { patchFiles, writeFiles } from "@akasha/pages-query"
 import { askComposed } from "@akasha/pages-query/ask"
 import type { Fetcher, Sleeper } from "@akasha/pages-query/fetcher"
 import { upperUuid } from "@akasha/pages-system/name-format/upper-uuid"
-import { textAt } from "@shared/utils-narrow/text-at"
+import { textAt } from "@akasha/utils-narrow/text-at"
 import { personSlugForAccount } from "../person-enrolment/person-enrolment.module.code.ts"
 
 export const DEVICE_SECRET_PAGE_TYPE = "device-secret"

@@ -23,7 +23,7 @@
     "@googleapis/gmail": "^17.0.0",
     "@akasha/errors-core": "workspace:*",
     "@shared/pages-query": "workspace:*",
-    "@shared/utils-narrow": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
 }
