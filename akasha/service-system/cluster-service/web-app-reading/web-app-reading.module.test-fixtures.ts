@@ -1,7 +1,7 @@
-import { execFileSync } from "node:child_process"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { said } from "@akasha/utils-run/running"
 
 const HOLD = "/var/tmp"
 const PREFIX = "akasha-web-app-"
@@ -106,8 +106,8 @@ export function standingWorld(): Standing {
     clusterService("bare", 2, "bare", "one/bare/bare.cluster-service.code.attachment.ts")
   )
   stand(SYNTH_AT, SYNTH)
-  execFileSync("git", ["-C", root, "init", "-q"])
-  execFileSync("git", ["-C", root, "add", "-A"])
+  said(["git", "-C", root, "init", "-q"])
+  said(["git", "-C", root, "add", "-A"])
   return {
     root,
     sweep: (): undefined => {
