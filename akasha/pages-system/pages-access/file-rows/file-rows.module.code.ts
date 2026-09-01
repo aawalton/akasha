@@ -1,5 +1,6 @@
 import { idOfFilePage, slugOfFilePage } from "@shared/file-page-identity"
 import type { QueryRow } from "@shared/pages-query/answer-schema"
+import { isRecord } from "@shared/utils-narrow/is-record"
 import { z } from "zod"
 import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
 import { parsePageSeq } from "../parse-page-seq/parse-page-seq.module.code.ts"
@@ -67,10 +68,6 @@ const SELECT_OF = new RegExp(String.raw`^select\(\s*(${INNER})\s*\)$`)
 
 const INNER_TYPE = z.tuple([z.string(), z.string()])
 
-function isMapping(value: unknown): value is Readonly<Record<string, unknown>> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-}
-
 function isList(value: unknown): value is readonly unknown[] {
   return Array.isArray(value)
 }
@@ -86,7 +83,7 @@ export function coerceByType(value: unknown, type: string): unknown {
   const mapped = INNER_TYPE.safeParse(MAP_OF.exec(stated))
   if (mapped.success) {
     const held = parseJsonText(value)
-    if (!isMapping(held)) return held
+    if (!isRecord(held)) return held
     return Object.fromEntries(
       Object.entries(held).map(([key, one]) => [key, coerceByType(one, mapped.data[1])])
     )

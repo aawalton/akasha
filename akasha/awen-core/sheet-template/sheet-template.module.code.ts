@@ -1,3 +1,4 @@
+import { isRecord } from "@shared/utils-narrow/is-record"
 import { z } from "zod"
 
 export const SheetEntryStandardSchema = z
@@ -29,10 +30,6 @@ export interface SheetEntryViolation {
   readonly entry: string
   readonly rule: "length" | "required"
   readonly message: string
-}
-
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
 }
 
 function resolveContainer(

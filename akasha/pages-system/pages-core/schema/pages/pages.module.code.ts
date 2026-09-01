@@ -1,3 +1,4 @@
+import { isRecord } from "@shared/utils-narrow/is-record"
 import * as z from "zod"
 import { type PropertyDefinition, STORAGE_TIERS } from "../../page-data/page-data.module.code.ts"
 import { actionButtonConfigSchema } from "../action-button-config/action-button-config.module.code.ts"
@@ -151,10 +152,6 @@ export const PropertyDefinitionSchema = z.discriminatedUnion("type", [
     })
     .passthrough(),
 ])
-
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-}
 
 function humanizeIdentifier(id: string): string {
   const spaced = id

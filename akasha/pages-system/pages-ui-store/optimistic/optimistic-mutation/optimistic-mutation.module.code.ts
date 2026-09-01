@@ -1,6 +1,7 @@
 import { applyJsonPatch } from "@akasha/pages-core/json-patch/apply"
 import type { Json } from "@shared/supabase-database/generated/database"
 import { assertNever } from "@shared/utils-narrow/assert-never"
+import { isRecord } from "@shared/utils-narrow/is-record"
 import { type Collection, createOptimisticAction, type WritableDeep } from "@tanstack/db"
 import type { PageRow } from "../../collection/page-row/page-row.module.code.ts"
 import { emitStoreDiagnostic } from "../../diagnostics/diagnostics.module.code.ts"
@@ -41,7 +42,7 @@ function planHold(plan: PagesMutationPlan): PlanHold | undefined {
 }
 
 function isJsonRecord(value: unknown): value is Record<string, Json> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
+  return isRecord(value)
 }
 
 function applyOverlay(draft: WritableDeep<PageRow>, overlay: RowOverlay): undefined {

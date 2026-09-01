@@ -1,6 +1,7 @@
 import type { PageWhere } from "@akasha/pages-core/page-types"
 import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
+import { isRecord } from "@shared/utils-narrow/is-record"
 import { type Collection, createLiveQueryCollection } from "@tanstack/db"
 import {
   asPageRecord,
@@ -55,10 +56,6 @@ export interface ViewPipeline {
   readonly read: () => ViewResult
   readonly subscribe: (cb: () => undefined) => () => undefined
   readonly dispose: () => undefined
-}
-
-function isRecord(v: unknown): v is Readonly<Record<string, unknown>> {
-  return v !== null && typeof v === "object" && !Array.isArray(v)
 }
 
 function readDefs(row: PageRow): readonly PropertyDefinition[] {

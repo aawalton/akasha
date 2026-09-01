@@ -1,3 +1,4 @@
+import { isRecord } from "@shared/utils-narrow/is-record"
 import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
 import type { ReadonlyJSONValue } from "../../schema/pages/pages.module.code.ts"
 import type {
@@ -11,12 +12,8 @@ function isFiniteNonNegativeNumber(value: unknown): value is number {
   return typeof value === "number" && Number.isFinite(value) && value >= 0
 }
 
-function isPlainObject(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-}
-
 function validateEntryShape(entry: unknown): string | null {
-  if (!isPlainObject(entry)) return "entry must be an object"
+  if (!isRecord(entry)) return "entry must be an object"
   if (!isFiniteNonNegativeNumber(entry.current))
     return "entry.current must be a finite non-negative number"
   if (!isFiniteNonNegativeNumber(entry.total))
@@ -36,7 +33,7 @@ function validateEntryShape(entry: unknown): string | null {
 
 export function validateProgressValue(value: ReadonlyJSONValue | undefined): string | null {
   if (value === null || value === undefined || value === "") return null
-  if (!isPlainObject(value)) return "Progress value must be an object"
+  if (!isRecord(value)) return "Progress value must be an object"
   if (!isFiniteNonNegativeNumber(value.current)) {
     return "Progress current must be a finite non-negative number"
   }
@@ -54,7 +51,7 @@ export function validateProgressValue(value: ReadonlyJSONValue | undefined): str
     return null
   }
 
-  if (!isPlainObject(entries)) return "Progress entries must be an object"
+  if (!isRecord(entries)) return "Progress entries must be an object"
 
   for (const [key, entry] of Object.entries(entries)) {
     const err = validateEntryShape(entry)
@@ -67,13 +64,13 @@ export function validateProgressValue(value: ReadonlyJSONValue | undefined): str
     if (active === undefined) {
       return `activeEntryKey "${activeEntryKey}" does not reference an existing entry`
     }
-    if (!isPlainObject(active)) return `entry "${activeEntryKey}" is not an object`
+    if (!isRecord(active)) return `entry "${activeEntryKey}" is not an object`
     if (active.current !== topCurrent || active.total !== topTotal) {
       return "Active entry must mirror top-level current/total"
     }
   } else {
     for (const [key, entry] of Object.entries(entries)) {
-      if (!isPlainObject(entry)) return `entry "${key}" is not an object`
+      if (!isRecord(entry)) return `entry "${key}" is not an object`
       if (entry.current !== entry.total) {
         return `Without activeEntryKey, every entry must be complete (entry "${key}" is not)`
       }
@@ -84,7 +81,7 @@ export function validateProgressValue(value: ReadonlyJSONValue | undefined): str
 }
 
 function asProgressScalar(value: PropertyValue): { current: number; total: number } | null {
-  if (!isPlainObject(value)) return null
+  if (!isRecord(value)) return null
   const { current, total } = value
   if (typeof current !== "number" || typeof total !== "number") return null
   return { current, total }

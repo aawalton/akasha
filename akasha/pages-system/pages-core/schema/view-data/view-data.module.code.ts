@@ -173,12 +173,8 @@ export type ViewDataParseError = {
   raw: string
 }
 
-function isRecordLike(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null
-}
-
 export function migrateViewData(raw: unknown): unknown {
-  if (!isRecordLike(raw)) return raw
+  if (!isRecord(raw)) return raw
 
   const obj: Record<string, unknown> = { ...raw }
 
