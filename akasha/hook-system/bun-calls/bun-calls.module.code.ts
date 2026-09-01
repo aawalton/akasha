@@ -1,10 +1,8 @@
-import { basenameOf, segmentsOf, wordsOf } from "../shell-calls/shell-calls.module.code.ts"
+import { basenameOf, calledWords, segmentsOf } from "../shell-calls/shell-calls.module.code.ts"
 
 const BUN = "bun"
 
-const ASSIGNMENT = /^[A-Za-z_][A-Za-z0-9_]*=/
-
-const SETTING_UP: readonly string[] = ["sudo", "env"]
+const RUN = "run"
 
 const TAKES_A_VALUE: readonly string[] = [
   "-c",
@@ -25,14 +23,10 @@ export type BunCall = {
   readonly rest: readonly string[]
 }
 
-export function bunCallIn(segment: string): BunCall | null {
-  const words = wordsOf(segment).filter((one) => !ASSIGNMENT.test(one) && !SETTING_UP.includes(one))
-  const head = words[0]
-  if (head === undefined || basenameOf(head) !== BUN) return null
-  const after = words.slice(1)
+function pastFlags(words: readonly string[]): readonly string[] {
   let at = 0
-  while (at < after.length) {
-    const one = after[at] ?? ""
+  while (at < words.length) {
+    const one = words[at] ?? ""
     if (TAKES_A_VALUE.includes(one)) {
       at += 2
       continue
@@ -40,8 +34,21 @@ export function bunCallIn(segment: string): BunCall | null {
     if (!one.startsWith("-")) break
     at += 1
   }
-  const act = after[at]
-  return act === undefined ? null : { act, rest: after.slice(at + 1) }
+  return words.slice(at)
+}
+
+export function bunCallIn(segment: string): BunCall | null {
+  const words = calledWords(segment)
+  const head = words[0]
+  if (head === undefined || basenameOf(head) !== BUN) return null
+  const after = pastFlags(words.slice(1))
+  const act = after[0]
+  return act === undefined ? null : { act, rest: after.slice(1) }
+}
+
+export function scriptOf(call: BunCall): string | null {
+  if (call.act !== RUN) return null
+  return pastFlags(call.rest)[0] ?? null
 }
 
 export function bunCallsIn(command: string): readonly BunCall[] {

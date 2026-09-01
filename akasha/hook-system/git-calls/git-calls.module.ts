@@ -10,14 +10,6 @@ export const gitCalls = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A prefix that sets a call up is stepped over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The call behind it is read.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A global flag that takes a value takes the word after it.",
     },
     {
@@ -39,6 +31,10 @@ export const gitCalls = {
     {
       invariantKind: "absence",
       statement: "The cutting is `shell-calls`.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The stepping over of a prefix is `shell-calls` too.",
     },
     {
       invariantKind: "absence",

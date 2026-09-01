@@ -10,11 +10,7 @@ export const bunCalls = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A prefix that sets a call up is stepped over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The call behind it is read.",
+      statement: "A flag before the act is stepped over.",
     },
     {
       invariantKind: "departure",
@@ -30,6 +26,18 @@ export const bunCalls = {
     },
     {
       invariantKind: "departure",
+      statement: "The script a `run` names is read past the flags before it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `run` naming no script past its flags names none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No act but `run` names a script.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A command carrying no act is no call here.",
     },
     {
@@ -39,6 +47,10 @@ export const bunCalls = {
     {
       invariantKind: "absence",
       statement: "The cutting is `shell-calls`.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The stepping over of a prefix is `shell-calls` too.",
     },
     {
       invariantKind: "absence",

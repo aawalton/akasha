@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bunCallIn, bunCallsIn } from "./bun-calls.module.code.ts"
+import { bunCallIn, bunCallsIn, scriptOf } from "./bun-calls.module.code.ts"
 
 test("a bun call is read as its act and what follows it", () => {
   expect(bunCallIn("bun test akasha/")).toEqual({ act: "test", rest: ["akasha/"] })
@@ -28,6 +28,16 @@ test("a prefix that sets the call up is stepped over", () => {
   expect(bunCallIn("AKASHA_ROOT=/one bun test")?.act).toBe("test")
 })
 
+test("a prefix that only runs the call is stepped over with its flags and numbers", () => {
+  expect(bunCallIn("timeout 900 bun test")?.act).toBe("test")
+  expect(bunCallIn("timeout -k 5 900 bun test")?.act).toBe("test")
+  expect(bunCallIn("nice -n 10 bun test")?.act).toBe("test")
+  expect(bunCallIn("nohup bun test")?.act).toBe("test")
+  expect(bunCallIn("stdbuf -oL bun test")?.act).toBe("test")
+  expect(bunCallIn("time bun test")?.act).toBe("test")
+  expect(bunCallIn("command bun test")?.act).toBe("test")
+})
+
 test("a flag before the act is stepped over, and one taking a value takes the word after it", () => {
   expect(bunCallIn("bun --silent test akasha/")).toEqual({ act: "test", rest: ["akasha/"] })
   expect(bunCallIn("bun --cwd /elsewhere test")).toEqual({ act: "test", rest: [] })
@@ -40,6 +50,18 @@ test("what follows the act is returned unread", () => {
     "5000",
     "akasha/",
   ])
+})
+
+test("the script a run names is read past the flags before it", () => {
+  expect(scriptOf({ act: "run", rest: ["typecheck"] })).toBe("typecheck")
+  expect(scriptOf({ act: "run", rest: ["--silent", "typecheck"] })).toBe("typecheck")
+  expect(scriptOf({ act: "run", rest: ["--cwd", "/elsewhere", "typecheck"] })).toBe("typecheck")
+})
+
+test("a run naming no script has none, and no other act names one", () => {
+  expect(scriptOf({ act: "run", rest: [] })).toBeNull()
+  expect(scriptOf({ act: "run", rest: ["--silent"] })).toBeNull()
+  expect(scriptOf({ act: "test", rest: ["typecheck"] })).toBeNull()
 })
 
 test("every call on one line is found", () => {

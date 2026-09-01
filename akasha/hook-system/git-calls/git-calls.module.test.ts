@@ -9,6 +9,17 @@ test("sudo in front is stepped over, and the call behind it is read", () => {
   expect(gitCallIn("sudo git reset --hard")).toEqual({ act: "reset", rest: ["--hard"] })
 })
 
+test("a prefix that only runs the call is stepped over, with its own flags and numbers", () => {
+  expect(gitCallIn("timeout 900 git reset --hard")).toEqual({ act: "reset", rest: ["--hard"] })
+  expect(gitCallIn("timeout -k 5 900 git reset --hard")?.act).toBe("reset")
+  expect(gitCallIn("nice -n 10 git commit -m x")?.act).toBe("commit")
+  expect(gitCallIn("nohup git stash")?.act).toBe("stash")
+  expect(gitCallIn("stdbuf -oL git stash")?.act).toBe("stash")
+  expect(gitCallIn("time git stash")?.act).toBe("stash")
+  expect(gitCallIn("command git stash")?.act).toBe("stash")
+  expect(gitCallIn("timeout 900 sudo git stash")?.act).toBe("stash")
+})
+
 test("an assignment in front is stepped over", () => {
   expect(gitCallIn("FOO=1 git clean -fd")).toEqual({ act: "clean", rest: ["-fd"] })
 })

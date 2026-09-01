@@ -1,10 +1,6 @@
-import { basenameOf, segmentsOf, wordsOf } from "../shell-calls/shell-calls.module.code.ts"
-
-const ASSIGNMENT = /^[A-Za-z_][A-Za-z0-9_]*=/
+import { basenameOf, calledWords, segmentsOf } from "../shell-calls/shell-calls.module.code.ts"
 
 const GIT = "git"
-
-const SETTING_UP: readonly string[] = ["sudo", "env"]
 
 const TAKES_A_VALUE: readonly string[] = [
   "-c",
@@ -24,38 +20,31 @@ export type GitCall = {
 }
 
 export function gitCallIn(segment: string): GitCall | null {
-  let head = ""
-  let act = ""
-  const rest: string[] = []
-  let reading = "head"
-  let skipNext = false
-  for (const word of wordsOf(segment)) {
-    if (reading === "head") {
-      if (ASSIGNMENT.test(word)) continue
-      if (SETTING_UP.includes(word)) continue
-      head = word
-      reading = "flags"
-      continue
-    }
-    if (reading === "flags") {
-      if (skipNext) {
-        skipNext = false
-        continue
-      }
-      if (TAKES_A_VALUE.includes(word)) {
-        skipNext = true
-        continue
-      }
-      if (word.startsWith("-")) continue
-      act = word
-      reading = "rest"
-      continue
-    }
-    rest.push(word)
-  }
+  const words = calledWords(segment)
+  const head = words[0]
+  if (head === undefined) return null
   const base = basenameOf(head)
   if (NOT_GIT.includes(base)) return null
   if (base !== GIT) return null
+  let act = ""
+  const rest: string[] = []
+  let skipNext = false
+  for (const word of words.slice(1)) {
+    if (act !== "") {
+      rest.push(word)
+      continue
+    }
+    if (skipNext) {
+      skipNext = false
+      continue
+    }
+    if (TAKES_A_VALUE.includes(word)) {
+      skipNext = true
+      continue
+    }
+    if (word.startsWith("-")) continue
+    act = word
+  }
   if (act === "") return null
   return { act, rest }
 }
