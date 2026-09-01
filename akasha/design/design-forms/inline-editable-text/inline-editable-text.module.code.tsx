@@ -7,7 +7,7 @@ import { useEffect, useRef, useState } from "react"
 
 interface InlineEditableTextProps {
   value: string
-  onChange: (value: string) => undefined
+  onChange: (value: string) => void
   placeholder?: string
   className?: string
   inputClassName?: string
