@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./readout-categorization": "./readout-categorization/readout-categorization.module.code.ts",
     "./readout-credential": "./readout-credential/readout-credential.module.code.ts",
     "./readout-none-left": "./readout-none-left/readout-none-left.module.code.ts",
     "./readout-reading": "./readout-reading/readout-reading.module.code.ts",
