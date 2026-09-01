@@ -19,6 +19,7 @@ export const pagesCore = {
     "module/apply-search",
     "module/apply-sorts",
     "module/apply-view",
+    "module/as-json",
     "module/badge-display",
     "module/block-markers",
     "module/block-selection",
