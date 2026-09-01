@@ -18,6 +18,7 @@ import {
   codeWorld,
   DEEP,
   DEEPER,
+  filedAt,
   git,
   givenIn,
   HELD,
@@ -48,7 +49,6 @@ import {
   SPELLS,
   scratch,
   sidecarWorld,
-  slugStanding,
   TARGET,
   THING,
   THING_AT,
@@ -165,8 +165,8 @@ test("a rename carries the page, restates its slug, and repoints what names it",
   expect(now).toContain("export const renamed =")
   expect(now).toContain('"thing/renamed"')
   expect(now).toContain('names: ["renamed"]')
-  expect(slugStanding(root, "held")).toEqual([])
-  expect(slugStanding(root, "renamed")).toEqual([THING_AT])
+  expect(filedAt(root, "held")).toEqual([])
+  expect(filedAt(root, "renamed")).toEqual([THING_AT])
   expect(namersIn(root, AAAA)).toEqual(NAMERS)
   expect(told(said)).toContain("renamed from the slug `held` to `renamed`")
   expect(THING_BESIDE.map((one) => stands(root, one))).toEqual([false, true])

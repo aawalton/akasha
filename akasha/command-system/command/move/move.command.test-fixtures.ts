@@ -318,7 +318,7 @@ export function judging(root: string, slug: string): undefined {
 
 export const NAMERS: readonly string[] = [ALPHA, BETA]
 
-export function slugStanding(root: string, slug: string): readonly string[] {
+export function filedAt(root: string, slug: string): readonly string[] {
   return listedAt(root, "thing", slug).map((one) => one.path)
 }
 
