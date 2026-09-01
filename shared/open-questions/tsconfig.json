@@ -17,9 +17,5 @@
     "dist",
     "./**/*.test.ts"
   ],
-  "references": [
-    {
-      "path": "../supabase-database"
-    }
-  ]
+  "references": []
 }

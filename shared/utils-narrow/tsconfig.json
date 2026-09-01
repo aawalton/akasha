@@ -19,9 +19,5 @@
     "node_modules",
     "dist"
   ],
-  "references": [
-    {
-      "path": "../supabase-database"
-    }
-  ]
+  "references": []
 }

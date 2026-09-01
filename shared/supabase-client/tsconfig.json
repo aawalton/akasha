@@ -12,11 +12,7 @@
       "@types/bun"
     ]
   },
-  "references": [
-    {
-      "path": "../supabase-database"
-    }
-  ],
+  "references": [],
   "include": [
     "src/**/*.ts"
   ],

@@ -39,9 +39,6 @@
       "path": "../recurrence"
     },
     {
-      "path": "../supabase-database"
-    },
-    {
       "path": "../supabase-rr"
     },
     {
