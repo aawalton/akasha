@@ -12,6 +12,7 @@
       "**/*.tsx",
       "**/*.js",
       "**/*.jsx",
+      "akasha/**/*.css",
       "!**/node_modules",
       "!**/.next",
       "!**/out",
