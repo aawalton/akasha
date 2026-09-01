@@ -1,4 +1,4 @@
-import { reportError } from "@shared/errors-client/report-error"
+import { reportError } from "@akasha/errors-client/error-reporting"
 
 export type ReadCompletionDiagReason =
   | "enqueued"

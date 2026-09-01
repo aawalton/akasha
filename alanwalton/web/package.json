@@ -42,7 +42,7 @@
     "@infra/k8s-types": "workspace:*",
     "@akasha/day": "workspace:*",
     "@shared/design-system": "workspace:*",
-    "@shared/errors-client": "workspace:*",
+    "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@shared/notifications": "workspace:*",
     "@shared/object-store": "workspace:*",

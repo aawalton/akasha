@@ -15,7 +15,7 @@
     "@infra/k8s-types": "workspace:*",
     "@shared/auth": "workspace:*",
     "@shared/design-system": "workspace:*",
-    "@shared/errors-client": "workspace:*",
+    "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@akasha/supabase-database": "workspace:*",

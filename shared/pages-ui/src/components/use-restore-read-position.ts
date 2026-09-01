@@ -1,6 +1,6 @@
 "use client"
 
-import { reportError } from "@shared/errors-client/report-error"
+import { reportError } from "@akasha/errors-client/error-reporting"
 import { type RefObject, useEffect, useRef, useState } from "react"
 import { decideReadRestore, fractionToScrollTop } from "@akasha/pages-ui/components/position-fraction"
 

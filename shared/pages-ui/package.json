@@ -56,7 +56,7 @@
     "@akasha/voice-core": "workspace:*",
     "@akasha/web-build-sha": "workspace:*",
     "@akasha/day": "workspace:*",
-    "@shared/errors-client": "workspace:*",
+    "@akasha/errors-client": "workspace:*",
     "@shared/object-store": "workspace:*",
     "@akasha/recurrence": "workspace:*",
     "@shared/supabase-rr": "workspace:*",

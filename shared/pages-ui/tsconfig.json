@@ -27,9 +27,6 @@
   ],
   "references": [
     {
-      "path": "../errors-client"
-    },
-    {
       "path": "../design-patterns"
     },
     {

@@ -33,9 +33,6 @@
   "references": [
     {
       "path": "../../infra/k8s-types"
-    },
-    {
-      "path": "../../shared/errors-client"
     }
   ],
   "include": [

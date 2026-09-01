@@ -38,14 +38,11 @@
       "path": "../../shared/design-system"
     },
     {
-      "path": "../../shared/errors-client"
-    },
-    {
       "path": "../../shared/pages-ui"
     },
     {
       "path": "../../shared/supabase-rr"
-    },
+    }
   ],
   "include": [
     "app/**/*.ts",

@@ -24,7 +24,7 @@
     "@infra/k8s-types": "workspace:*",
     "@akasha/day": "workspace:*",
     "@shared/design-system": "workspace:*",
-    "@shared/errors-client": "workspace:*",
+    "@akasha/errors-client": "workspace:*",
     "@shared/notifications": "workspace:*",
     "@shared/status-bar-access": "workspace:*",
     "@shared/supabase-rr": "workspace:*",

@@ -36,7 +36,7 @@
     "@infra/k8s-types": "workspace:*",
     "@protomaps/basemaps": "^5.7.2",
     "@shared/design-system": "workspace:*",
-    "@shared/errors-client": "workspace:*",
+    "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@shared/object-store": "workspace:*",
     "@shared/pages-ui": "workspace:*",

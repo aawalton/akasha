@@ -6,9 +6,9 @@ import { CommandPalette } from "@akasha/design-primitives/command-palette"
 import { ShortcutSheet } from "@akasha/design-primitives/shortcut-sheet"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
-import { ErrorCaptureInstaller } from "@shared/errors-client/error-capture-installer"
-import { reportError } from "@shared/errors-client/report-error"
-import { useReportRenderError } from "@shared/errors-client/use-report-render-error"
+import { ErrorCaptureInstaller } from "@akasha/errors-client/error-capture-installer"
+import { reportError } from "@akasha/errors-client/error-reporting"
+import { useReportRenderError } from "@akasha/errors-client/use-report-render-error"
 import {
   type PagesUILinkProps,
   PagesUILinkProvider,
