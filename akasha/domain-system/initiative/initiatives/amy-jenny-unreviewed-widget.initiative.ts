@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages reading and writing pages stand in akasha.",
       workingMemory:
-        "`@akasha/pages-access`, `pages-core`, `pages-url`, `pages-ui-store`, `pages-formula` and the store half of `pages-query` all stand, and `shared/pages-system` is empty at `baf8c4a714`. One remains. Its last importer was dead code rather than the CLI's landing path: `akasha write` and `edit` reach `repo/land/land.ts` direct. `shared/pages-query`'s router is unblocked since `099d098c77`: `repo/roots` finds the checkout by its marker rather than counting depth. `pages-ui` is its own intent.",
+        "`shared/pages-query` is the router and no small move. Its sources close over 214 files under `tools/`, `page/`, `repo/` and `readouts/`, and `imports-inside` refuses every relative escape from `akasha/`, so it waits on that engine landing rather than on `roots.ts`, whose depth arithmetic went at `099d098c77`. Inbound is 120 statements in 86 files and 102 name the router. Its tsconfig hand-lists 216 paths rather than 88, filed. The dead `./fetcher` went at `dcabb59029`.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",

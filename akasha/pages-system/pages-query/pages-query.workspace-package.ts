@@ -16,7 +16,7 @@ export const pagesQuery = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "It stands in for the deleted `@shared/pages-query`.",
+      statement: "It holds the store half of `@shared/pages-query` rather than the router.",
     },
     {
       invariantKind: "departure",
