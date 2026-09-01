@@ -316,6 +316,27 @@ test("a removal is carried through the formatter untouched, and nothing is said 
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
 })
 
+test("a folder left holding nothing by a removal is cleared off the disk", () => {
+  const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/deep/two.ts": "committed\n" })
+  const said = write(["--remove", "akasha/deep/two.ts", "--message", "held"], givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(existsSync(join(root, "akasha/deep/two.ts"))).toBe(false)
+  expect(existsSync(join(root, "akasha/deep"))).toBe(false)
+  expect(existsSync(join(root, "akasha"))).toBe(true)
+})
+
+test("a folder still holding a file git does not track is kept by a removal", () => {
+  const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/deep/two.ts": "committed\n" })
+  put(root, "akasha/deep/unsaid.txt", "work in progress\n")
+  const said = write(["--remove", "akasha/deep/two.ts", "--message", "held"], givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(existsSync(join(root, "akasha/deep/two.ts"))).toBe(false)
+  expect(existsSync(join(root, "akasha/deep/unsaid.txt"))).toBe(true)
+  expect(existsSync(join(root, "akasha/deep"))).toBe(true)
+})
+
 test("a dry run gates the formatted body, so what a check judged is what would land", () => {
   const root = repoWithTheFormatter()
   checking(root, "refuses-loose", REFUSES_LOOSE)
