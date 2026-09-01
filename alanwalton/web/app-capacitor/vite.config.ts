@@ -88,34 +88,20 @@ const noNodeInClient: Plugin = {
   },
 }
 
-/**
- * See the same alias in `../vite.config.ts` for why. In short: `@shared/pages-query` is a
- * local-first facade whose local half reads the checkout through `checkout-roots` and the
- * `tools/lib` query engine. The phone has no checkout, so that half is dead code here, but
- * importing it drags node builtins into the SPA and the guard above rightly refuses the build.
- * `/ask-remote` is the facade's own remote branch, keeping the key-spelling adapter that
- * `@akasha/pages-query/ask` lacks, so this severs the reach without changing what a query means.
- */
-const pagesQueryRemoteInClient: Plugin = {
-  name: "pages-query-remote-in-client",
-  // Must beat vite's own resolver, and must leave the server build's local reads alone.
-  enforce: "pre",
-  applyToEnvironment: (environment) => environment.name === "client",
-  resolveId(source, importer, options) {
-    if (source === "@shared/pages-query/ask") {
-      return this.resolve("@shared/pages-query/ask-remote", importer, options)
-    }
-    if (source === "@shared/pages-query") {
-      return this.resolve("@akasha/pages-query", importer, options)
-    }
-    return null
-  },
-}
+// A `pages-query-remote-in-client` plugin sat here and in `../vite.config.ts`, aliasing
+// `@shared/pages-query` and its `/ask` onto their remote halves so the phone bundle would not
+// drag `checkout-roots` and the `tools/lib` query engine — and the node builtins under them —
+// into the SPA, which is exactly what the guard above refuses a build for.
+//
+// The local half is gone: `@shared/pages-query` asks and writes over HTTP on every path, and
+// `./ask` and `./ask-remote` name one file, so both rules resolved a module onto itself. The
+// guard above is what says this is still true, and it says it about every module in the bundle
+// rather than about the two specifiers this named.
 
 export default defineConfig({
   base: "/",
   envDir: "..",
-  plugins: [pagesQueryRemoteInClient, tailwindcss(), reactRouter(), noNodeInClient],
+  plugins: [tailwindcss(), reactRouter(), noNodeInClient],
   resolve: {
     tsconfigPaths: true,
   },
