@@ -30,8 +30,8 @@ const STOOD_TOO_LONG = 10000
 function abandoned(lock: string, mark: string): boolean {
   const held = holderOf(markIn(mark))
   if (held !== null) return !alive(held)
-  const stood = statSync(lock, { throwIfNoEntry: false })
-  return stood !== undefined && Date.now() - stood.mtimeMs >= STOOD_TOO_LONG
+  const lockAt = statSync(lock, { throwIfNoEntry: false })
+  return lockAt !== undefined && Date.now() - lockAt.mtimeMs >= STOOD_TOO_LONG
 }
 
 function taken(lock: string, mine: string): boolean {
