@@ -53,9 +53,6 @@
       "path": "../../infra/k8s-types"
     },
     {
-      "path": "../../shared/design-layout"
-    },
-    {
       "path": "../../shared/design-patterns"
     },
     {
