@@ -1,4 +1,7 @@
-import type { BrowserTestEnv, RealUserOptInEnv } from "@shared/browser-test-harness/env"
+import type {
+  BrowserTestEnv,
+  RealUserOptInEnv,
+} from "@akasha/browser-test-harness/browser-test-env"
 import { dataError } from "./exit.ts"
 import { emitVerdict } from "./verdict-channel.ts"
 import type { VerifyRenderSessionPlan } from "./verify-render-plan.ts"
@@ -140,7 +143,23 @@ interface Harness {
 }
 
 export async function harnessModule(): Promise<Harness> {
-  return await import("@shared/browser-test-harness")
+  const [renderCheck, session, env] = await Promise.all([
+    import("@akasha/browser-test-harness/deployed-render-check"),
+    import("@akasha/browser-test-harness/read-only-harness"),
+    import("@akasha/browser-test-harness/browser-test-env"),
+  ])
+  return {
+    classifyExpectedAttr: renderCheck.classifyExpectedAttr,
+    classifyExpectedCount: renderCheck.classifyExpectedCount,
+    classifyExpectedTitleDom: renderCheck.classifyExpectedTitleDom,
+    classifyExpectedTitleInitialHtml: renderCheck.classifyExpectedTitleInitialHtml,
+    decideDeployedRenderVerdict: renderCheck.decideDeployedRenderVerdict,
+    createReadOnlyAnonSession: session.createReadOnlyAnonSession,
+    createReadOnlyRealUserHarness: session.createReadOnlyRealUserHarness,
+    createReadOnlyThrowawayHarness: session.createReadOnlyThrowawayHarness,
+    readBrowserTestEnv: env.readBrowserTestEnv,
+    readRealUserOptInEnv: env.readRealUserOptInEnv,
+  }
 }
 
 export async function openVerifyRenderSession(options: {

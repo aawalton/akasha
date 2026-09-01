@@ -87,7 +87,7 @@ const RULES: readonly DetectionRule[] = [
       'from "playwright-core"',
       "chromium.launch",
       "BROWSER_TEST_URL",
-      "@shared/browser-test-harness",
+      "@akasha/browser-test-harness",
     ],
   },
   {
