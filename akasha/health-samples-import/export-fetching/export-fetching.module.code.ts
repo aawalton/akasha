@@ -1,3 +1,4 @@
+import { runSshCapture } from "@akasha/ssh-access/ssh-reach"
 import {
   buildFetchScript,
   type HealthExport,
@@ -5,7 +6,6 @@ import {
   parseHealthExport,
 } from "../health-export/health-export.module.code.ts"
 import { MACBOOK } from "../laptop-host/laptop-host.module.code.ts"
-import { runSshCapture } from "../ssh-streaming/ssh-streaming.module.code.ts"
 
 export interface FetchOptions {
   readonly path: string | undefined

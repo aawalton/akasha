@@ -7,7 +7,6 @@ export const imessage = {
   definition: "how Alan's iMessage history is read and how a message is handed to Messages",
   manifest: "json",
   partSlugs: [
-    "module/imessage-ssh",
     "module/imessage-host",
     "module/typedstream",
     "module/contacts-db",

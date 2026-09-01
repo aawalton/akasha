@@ -1,3 +1,4 @@
+import { runSshCapture } from "@akasha/ssh-access/ssh-reach"
 import { DataError } from "@shared/errors-core/exit"
 import {
   buildChatDbScript,
@@ -20,7 +21,6 @@ import {
   searchContacts,
 } from "../contacts-db/contacts-db.module.code.ts"
 import { MACBOOK } from "../imessage-host/imessage-host.module.code.ts"
-import { runSshCapture } from "../imessage-ssh/imessage-ssh.module.code.ts"
 
 export async function fetchMessages(sql: string): Promise<readonly ImessageMessage[]> {
   return parseMessageRows(await runSshCapture(MACBOOK, buildChatDbScript(sql)))

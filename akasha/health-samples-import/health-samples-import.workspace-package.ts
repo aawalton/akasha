@@ -9,7 +9,6 @@ export const healthSamplesImport = {
   partSlugs: [
     "module/verdict-reading",
     "module/health-export",
-    "module/ssh-streaming",
     "module/laptop-host",
     "module/export-fetching",
     "module/health-snapshot",

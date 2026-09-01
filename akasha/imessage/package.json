@@ -7,12 +7,11 @@
     "./contacts-db": "./contacts-db/contacts-db.module.code.ts",
     "./host": "./imessage-host/imessage-host.module.code.ts",
     "./remote": "./imessage-remote/imessage-remote.module.code.ts",
-    "./send": "./imessage-send/imessage-send.module.code.ts",
-    "./ssh": "./imessage-ssh/imessage-ssh.module.code.ts"
+    "./send": "./imessage-send/imessage-send.module.code.ts"
   },
   "dependencies": {
+    "@akasha/ssh-access": "workspace:*",
     "@shared/errors-core": "workspace:*",
-    "@shared/utils-fs": "workspace:*",
     "zod": "^4.3.6"
   }
 }

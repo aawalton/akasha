@@ -1,4 +1,4 @@
-import type { SshTarget } from "../imessage-ssh/imessage-ssh.module.code.ts"
+import type { SshTarget } from "@akasha/ssh-access/ssh-target"
 
 export const MACBOOK: SshTarget = {
   user: "walton",
