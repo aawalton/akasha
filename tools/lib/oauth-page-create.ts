@@ -1,11 +1,16 @@
+import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { landInAkasha } from "./akasha-landing.ts"
 import { akashaAccountPath, akashaRoot } from "./claude-account-akasha.ts"
+import type { Outcome } from "./gated-write.ts"
 import { ACCOUNT_SHAPE } from "./oauth-page-push.ts"
 
 export const PAGE_TYPE_SLUG = "claude-account"
 
 const WRITER = "claude-account-page-writer"
+
+const SCRATCH = "/var/tmp"
 
 const EMAIL_SHAPE = /^\S+@\S+$/
 
@@ -93,16 +98,35 @@ export function createAccountPage(args: AccountPageCreate): PageCreate {
     const id = args.id ?? Bun.randomUUIDv7()
     const text = accountPageText({ account, email: args.email, aliasIndex: args.aliasIndex, id })
 
-    const landed = landInAkasha(akashaRoot(), WRITER, `akasha: add ${relPath}`, [
-      { relPath, body: text },
-    ])
-    if (!landed.ok) return { kind: "refused", account, why: landed.why }
+    const root = akashaRoot()
+    const dir = mkdtempSync(join(SCRATCH, "claude-account-create-"))
+    let landed: Outcome
+    try {
+      const bodyPath = join(dir, "body.ts")
+      writeFileSync(bodyPath, text, "utf8")
+      landed = landInAkasha(WRITER, root, [
+        "write",
+        "--file-path",
+        join(root, relPath),
+        "--content-file",
+        bodyPath,
+        "--message",
+        `akasha: add ${relPath}`,
+      ])
+    } finally {
+      rmSync(dir, { recursive: true, force: true })
+    }
+    if (landed.kind !== "written" && landed.kind !== "unchanged") {
+      const why = landed.kind === "refused" ? landed.detail : `the landing said \`${landed.kind}\``
+      return { kind: "refused", account, why }
+    }
     return {
       kind: "created",
       account,
       relPath,
       id,
-      sha: landed.sha,
+      // The landing commits for itself and no longer says which commit carried it.
+      sha: null,
       unpushed: null,
     }
   } catch (thrown) {

@@ -1,9 +1,10 @@
 import { createHash } from "node:crypto"
-import { chmodSync } from "node:fs"
+import { chmodSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 
 import { uncommittedAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { landInAkasha } from "./akasha-landing.ts"
+import type { Outcome } from "./gated-write.ts"
 import {
   akashaAccountBeside,
   akashaAccountPath,
@@ -15,6 +16,8 @@ import {
 } from "./claude-account-akasha.ts"
 
 const WRITER = "claude-account-credential-writer"
+
+const SCRATCH = "/var/tmp"
 
 export const ACCESS_KEY = "access-token"
 
@@ -112,6 +115,28 @@ function dropHeld(account: string): void {
   holdBesideAccount(account, { [RESCUED_KEY]: null })
 }
 
+// The landing takes the command it is to run rather than a body, so the composed sidecar is put
+// where `akasha write` reads it from and taken away again. What is written here is the sops
+// ciphertext, never a plaintext secret, and the file is narrowed and removed either way.
+function landBody(root: string, absolute: string, body: string, message: string): Outcome {
+  const dir = mkdtempSync(join(SCRATCH, "claude-account-push-"))
+  try {
+    const bodyPath = join(dir, "body.txt")
+    writeFileSync(bodyPath, body, { encoding: "utf8", mode: 0o600 })
+    return landInAkasha(WRITER, root, [
+      "write",
+      "--file-path",
+      absolute,
+      "--content-file",
+      bodyPath,
+      "--message",
+      message,
+    ])
+  } finally {
+    rmSync(dir, { recursive: true, force: true })
+  }
+}
+
 function unfit(key: string, value: string): string | null {
   if (value === "") return `\`${key}\` arrived empty, and an empty secret would replace a usable one`
   if (value.includes("\n")) return `\`${key}\` holds a newline, and a secret's value is one line`
@@ -164,14 +189,19 @@ export function pushCredentialToPage(args: CredentialPagePush): PagePush {
     const composed = akashaSecretCipher(account, next)
     if (composed.text === null) return { kind: "refused", account, why: composed.why }
 
-    const landed = landInAkasha(akashaRoot(), WRITER, `akasha: page-push ${sidecar}`, [
-      { relPath: sidecar, body: composed.text },
-    ])
-    if (!landed.ok) {
+    const root = akashaRoot()
+    const landed = landBody(
+      root,
+      join(root, sidecar),
+      composed.text,
+      `akasha: page-push ${sidecar}`
+    )
+    if (landed.kind !== "written" && landed.kind !== "unchanged") {
+      const why = landed.kind === "refused" ? landed.detail : `the landing said \`${landed.kind}\``
       return {
         kind: "refused",
         account,
-        why: `${landed.why} — ${heldBeside(account, next, args.expiresAt)}`,
+        why: `${why} — ${heldBeside(account, next, args.expiresAt)}`,
       }
     }
 
@@ -202,7 +232,8 @@ export function pushCredentialToPage(args: CredentialPagePush): PagePush {
       account,
       sidecar,
       digests: PUSHED_KEYS.map((key) => `${key} ${digestOf(next.get(key) ?? "")}`),
-      sha: landed.sha,
+      // The landing commits for itself and no longer says which commit carried it.
+      sha: null,
       unpushed: null,
     }
   } catch (thrown) {
