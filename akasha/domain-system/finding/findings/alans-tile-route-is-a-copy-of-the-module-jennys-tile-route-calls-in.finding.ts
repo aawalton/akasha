@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const alansTileRouteIsACopyOfTheModuleJennysTileRouteCallsIn = {
+  id: "01a05c9a-4d11-7000-9e21-3f7c5a2e08b4",
+  pageTypeSlug: "finding",
+  slug: "alans-tile-route-is-a-copy-of-the-module-jennys-tile-route-calls-in",
+  domainSlug: "workspace-package/readout-system",
+  claim:
+    "Jenny's categorization route is 7 lines handing a credential to `answerCategorization`. Alan's is 44 lines holding the same answering inline and never imports that module. So a change to the module reaches her tile and silently misses his — the shape the ageless cache had. Left standing rather than moved: the module admits a static credential and his guard is a device secret, so the move rewrites what Jenny's live pod runs, and is worth nothing until his site deploys.",
+  evidence:
+    "`smilingjenny/web/app/routes/api.categorization.ts` is 7 lines: it imports `answerCategorization` from `@akasha/readout-system/readout-categorization` and calls it with `ringCredential()`.\n\n`alanwalton/web/app/routes/api.categorization.ts` is 44 lines and imports no such module. It redeclares `UNREVIEWED_READOUT` and `UNREVIEWED_READOUT_SLUG` at :9-11, its own `unreviewedRelayed` at :13-17, and its own 503 arm at :24-29 — the same four things `readout-categorization.module.code.ts` declares at :11-13, :24-28 and :38-43. Both reach the same `STALE_AFTER_MS`, so the numbers agree today by coincidence rather than by one declaration.\n\nThe two relay routes are the same class: `alanwalton/web/app/routes/api.readout-relay.ts` and `smilingjenny/web/app/routes/api.readout-relay.ts` differ only in how one import wraps across lines.\n\nWhy the move was not made here. `answerCategorization(request, credential)` admits on `refuseUncredentialedRingCaller`, comparing a static header against a string. Alan's route calls `guardReadout(request)`, which resolves a device-secret context and checks `ROUTE_TARGETS.READOUT_FEED`, and is async. Taking his route through the module means the module accepting a guard rather than a credential, which rewrites the function Jenny's live pod serves from now, on a night when deploys are held. His route also changes nothing a reader sees until his site deploys.\n\nJenny's side is tested and his is not: `smilingjenny/web/app/routes/api.categorization.test.ts` runs 9 tests relay-to-tile over a real server, including a 46-minute reading giving 503. `ls alanwalton/web/app/routes | grep test` is empty.",
+} as const satisfies Finding
