@@ -10,7 +10,7 @@ export const pageUncommitted = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page's uncommitted values stand in one file beside it.",
+      statement: "One file beside a page holds that page's uncommitted values.",
     },
     {
       invariantKind: "departure",
