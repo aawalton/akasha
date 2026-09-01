@@ -1,10 +1,6 @@
-import { askTaking, type Fetcher } from "@akasha/pages-query"
+import { askHere } from "../../../readouts/ask-here.ts"
 import type { Ask } from "../../../readouts/readout-resolver.ts"
 
-export function askVia(fetcher?: Fetcher): Ask {
-  return async (querySlug, given) => {
-    const asked = await askTaking(querySlug, given, fetcher)
-    if (!asked.ok) throw new Error(asked.why)
-    return asked.answer
-  }
+export function askVia(): Ask {
+  return askHere()
 }

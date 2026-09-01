@@ -1,4 +1,3 @@
-import type { Fetcher } from "@akasha/pages-query"
 import {
   type DailyValues,
   getDailyPerfectDay as dailyPerfectDay,
@@ -32,11 +31,10 @@ import { askVia } from "./ask-through"
 
 export interface DayArgs {
   readonly day: string
-  readonly fetcher?: Fetcher
 }
 
 function asked(args: DayArgs): { readonly day: string; readonly ask: Ask } {
-  return { day: args.day, ask: askVia(args.fetcher) }
+  return { day: args.day, ask: askVia() }
 }
 
 export async function getUpkeepStoplightTiers(args: DayArgs): Promise<readonly UpkeepStoplight[]> {

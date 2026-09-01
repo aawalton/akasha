@@ -1,6 +1,5 @@
 import { selectHealthSamples } from "../../../alanwalton/health-samples-access/src/select"
 import { type HealthMetric } from "../../../alanwalton/health-samples-access/src/types"
-import type { Fetcher } from "@akasha/pages-query"
 import {
   cardioReading as akashaCardioReading,
   type DayMeasures,
@@ -26,15 +25,12 @@ async function readSamples(given: {
   })
 }
 
-export async function readSessionPages(fetcher?: Fetcher): Promise<readonly SessionPage[]> {
-  return akashaReadSessionPages(askVia(fetcher))
+export async function readSessionPages(): Promise<readonly SessionPage[]> {
+  return akashaReadSessionPages(askVia())
 }
 
-export async function readDayMeasures(
-  day: string,
-  fetcher?: Fetcher
-): Promise<DayMeasures | null> {
-  return akashaReadDayMeasures(day, askVia(fetcher))
+export async function readDayMeasures(day: string): Promise<DayMeasures | null> {
+  return akashaReadDayMeasures(day, askVia())
 }
 
 export async function cardioReading(day: string, span: WakeWindow): Promise<number | null> {
