@@ -52,7 +52,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Jenny's site deploys from akasha.",
       workingMemory:
-        "Deployed and proved live. READING_RELAY_SECRET stands in her sops at the workstation's value, moved by `sops edit` and checked by digest, never printed. Her pod runs b4289a8e7a: the relay route 401s without the secret and 400s with it on a body that is no reading, and her tile route answers 503 No reading in 0.23s, its build naming neither alanwalton.com nor SMILINGJENNY_RELAY_SECRET. The bypass arm is gone and Alan runs f25c8ffc, where that secret answers 401 rather than 503.",
+        "Deployed and proved live. READING_RELAY_SECRET stands in her sops at the workstation's value, moved by `sops edit`, digest-checked, never printed. Pod b4289a8e7a: her relay 401s bare and 400s with the secret on a body that is no reading; her tile route answers 503 No reading on the ring credential. A relay secret 401s at her tile route as at Alan's, a category error and not a stale build, filed at alans-tile-route-refuses-jennys-credential-by-design-rather-than-by-age. He now runs 0c6fb83a1f.",
     },
     {
       statement: "Jenny's unreviewed transaction iOS widget works.",
