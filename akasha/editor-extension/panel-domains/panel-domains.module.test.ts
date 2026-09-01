@@ -28,7 +28,7 @@ function pageAt(root: string, path: string, body: string): undefined {
   writeFileSync(at, body)
 }
 
-function standing(root: string, kind: string, slug: string, id: string, body?: string): undefined {
+function filing(root: string, kind: string, slug: string, id: string, body?: string): undefined {
   const path = `akasha/held/${slug}.${kind}.ts`
   listedFiled(root, kind, slug, [{ path, id }])
   if (body !== undefined) pageAt(root, path, body)
@@ -46,7 +46,7 @@ function parts(slug: string, held: readonly string[]): string {
 
 test("a page type standing under domain is a kind that is drawn", () => {
   const root = scratch.rootFor("akasha-domains-")
-  standing(
+  filing(
     root,
     "page-type",
     "module",
@@ -60,14 +60,14 @@ test("a page type standing under domain is a kind that is drawn", () => {
 
 test("a page type standing under one that stands under domain is drawn too", () => {
   const root = scratch.rootFor("akasha-domains-")
-  standing(
+  filing(
     root,
     "page-type",
     "module",
     KIND,
     'export const held = { slug: "module", extendsSlug: "page-type/domain" }\n'
   )
-  standing(
+  filing(
     root,
     "page-type",
     "check",
@@ -79,7 +79,7 @@ test("a page type standing under one that stands under domain is drawn too", () 
 
 test("a page type standing outside domain is no kind of this panel", () => {
   const root = scratch.rootFor("akasha-domains-")
-  standing(
+  filing(
     root,
     "page-type",
     "finding",
@@ -91,14 +91,14 @@ test("a page type standing outside domain is no kind of this panel", () => {
 
 test("a page is answered under its address", () => {
   const root = scratch.rootFor("akasha-domains-")
-  standing(root, "domain", "one", ONE)
+  filing(root, "domain", "one", ONE)
   expect(domainsDrawn(root).map((held) => held.slug)).toEqual(["domain/one"])
 })
 
 test("the part edge is filed under the part, so the part is the one standing under", () => {
   const root = scratch.rootFor("akasha-domains-")
-  standing(root, "domain", "over", ONE, parts("over", ["domain/under"]))
-  standing(root, "domain", "under", TWO)
+  filing(root, "domain", "over", ONE, parts("over", ["domain/under"]))
+  filing(root, "domain", "under", TWO)
   under(root, TWO, ONE)
   const drawn = domainsDrawn(root)
   expect(drawn.find((held) => held.slug === "domain/under")?.parent).toBe("domain/over")
@@ -107,9 +107,9 @@ test("the part edge is filed under the part, so the part is the one standing und
 
 test("an order is read off the page holding the parts", () => {
   const root = scratch.rootFor("akasha-domains-")
-  standing(root, "domain", "over", ONE, parts("over", ["domain/second", "domain/first"]))
-  standing(root, "domain", "first", TWO)
-  standing(root, "domain", "second", THREE)
+  filing(root, "domain", "over", ONE, parts("over", ["domain/second", "domain/first"]))
+  filing(root, "domain", "first", TWO)
+  filing(root, "domain", "second", THREE)
   under(root, TWO, ONE)
   under(root, THREE, ONE)
   const over = domainsDrawn(root).find((held) => held.slug === "domain/over")
@@ -118,15 +118,15 @@ test("an order is read off the page holding the parts", () => {
 
 test("a page the index says holds no part is answered with no order", () => {
   const root = scratch.rootFor("akasha-domains-")
-  standing(root, "domain", "one", ONE, parts("one", ["domain/absent"]))
+  filing(root, "domain", "one", ONE, parts("one", ["domain/absent"]))
   expect(domainsDrawn(root)[0]?.sequence).toEqual([])
 })
 
 test("a page standing under two parents stands under none", () => {
   const root = scratch.rootFor("akasha-domains-")
-  standing(root, "domain", "over", ONE, parts("over", ["domain/under"]))
-  standing(root, "domain", "also", TWO, parts("also", ["domain/under"]))
-  standing(root, "domain", "under", THREE)
+  filing(root, "domain", "over", ONE, parts("over", ["domain/under"]))
+  filing(root, "domain", "also", TWO, parts("also", ["domain/under"]))
+  filing(root, "domain", "under", THREE)
   under(root, THREE, ONE)
   under(root, THREE, TWO)
   expect(domainsDrawn(root).find((held) => held.slug === "domain/under")?.parent).toBe(null)
