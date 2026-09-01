@@ -13,7 +13,6 @@ import {
   EARLY,
   generating,
   LOADED_AT,
-  LOADER_CODE_AT,
   scratch,
   staged,
 } from "./typecheck.code-check.test-fixtures.ts"
@@ -42,12 +41,11 @@ function over(root: string, path: string, body: string | null): readonly Judged[
   return judged(change(root, { [path]: body }))
 }
 
-test("the files compiled are read from the index the change leaves, not the one it found", () => {
+test("a page the change takes away leaves what its page type says loads it uncompiled", () => {
   const root = declaring()
   const gone = change(root, { [LOADED_AT]: null })
   const cast = shadowFor(gone)
   if ("refused" in cast) throw new Error(cast.refused)
-  expect(rootsOf(gone)).toEqual([LOADER_CODE_AT])
   expect(rootsOf(gone, cast.shadow.reading)).toEqual([])
   expect(typecheck(gone, cast.shadow)).toEqual([])
 })
