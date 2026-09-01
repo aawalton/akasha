@@ -1,9 +1,18 @@
-import { resolve, sep } from "node:path"
 import type { BunCall } from "../../bun-calls/bun-calls.module.code.ts"
 import { bunCallsIn } from "../../bun-calls/bun-calls.module.code.ts"
 import { refusalOver } from "../../chain-refusal/chain-refusal.module.code.ts"
-import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
-import { basenameOf, segmentsOf, wordsOf } from "../../shell-calls/shell-calls.module.code.ts"
+import {
+  guarding,
+  ranAsHook,
+  SCOPE_FLAG,
+  toldOf,
+} from "../../hook-answer/hook-answer.module.code.ts"
+import {
+  basenameOf,
+  ranBy,
+  segmentsOf,
+  wordsOf,
+} from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-typecheck"
 
@@ -93,14 +102,6 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
-function ranBy(words: readonly string[]): string | null {
-  for (const one of words) {
-    if (one.startsWith("-")) continue
-    return basenameOf(one)
-  }
-  return null
-}
-
 export function tscIn(segment: string): boolean {
   const words = wordsOf(segment).filter((one) => !ASSIGNMENT.test(one) && !SETTING_UP.includes(one))
   const head = words[0]
@@ -114,12 +115,6 @@ export function refusalFor(call: BunCall): string | null {
   if (call.act === RUNS) return BUN_REFUSAL
   if (call.act !== RUN) return null
   return call.rest[0] === RUNS ? BUN_REFUSAL : null
-}
-
-export function guarding(from: string, root: string): boolean {
-  if (from.trim() === "") return true
-  const at = resolve(from)
-  return at === root || at.startsWith(`${root}${sep}`)
 }
 
 export function refusalIn(command: string, from: string, root: string): string | null {

@@ -1,3 +1,4 @@
+import { resolve, sep } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 
 export const SCOPE_FLAG = "--scope"
@@ -103,6 +104,12 @@ export function fromIn(raw: string): string {
   } catch {
     return ""
   }
+}
+
+export function guarding(from: string, root: string): boolean {
+  if (from.trim() === "") return true
+  const at = resolve(from)
+  return at === root || at.startsWith(`${root}${sep}`)
 }
 
 export async function ranAsHook(

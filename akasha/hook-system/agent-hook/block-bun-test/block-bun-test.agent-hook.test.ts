@@ -1,15 +1,10 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
+import { guarding } from "../../hook-answer/hook-answer.module.code.ts"
 import { judging } from "../../hook-judging/hook-judging.module.code.ts"
 import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
-import {
-  filtersOf,
-  guarding,
-  reachesAkasha,
-  refusalIn,
-  SCOPE,
-} from "./block-bun-test.agent-hook.code.ts"
+import { filtersOf, reachesAkasha, refusalIn, SCOPE } from "./block-bun-test.agent-hook.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-bun-test.agent-hook.code.ts")
 

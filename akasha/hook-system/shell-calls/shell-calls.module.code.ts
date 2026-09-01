@@ -39,3 +39,11 @@ export function wordsOf(segment: string): readonly string[] {
 export function basenameOf(word: string): string {
   return word.slice(word.lastIndexOf("/") + 1)
 }
+
+export function ranBy(words: readonly string[]): string | null {
+  for (const one of words) {
+    if (one.startsWith("-")) continue
+    return basenameOf(one)
+  }
+  return null
+}

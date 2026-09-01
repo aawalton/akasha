@@ -1,7 +1,12 @@
 import { resolve, sep } from "node:path"
 import { refusalOver } from "../../chain-refusal/chain-refusal.module.code.ts"
 import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
-import { basenameOf, segmentsOf, wordsOf } from "../../shell-calls/shell-calls.module.code.ts"
+import {
+  basenameOf,
+  ranBy,
+  segmentsOf,
+  wordsOf,
+} from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-biome"
 
@@ -70,14 +75,6 @@ export const SCOPE: readonly string[] = [
   `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
-
-function ranBy(words: readonly string[]): string | null {
-  for (const one of words) {
-    if (one.startsWith("-")) continue
-    return basenameOf(one)
-  }
-  return null
-}
 
 export function biomeIn(segment: string): boolean {
   const words = wordsOf(segment).filter((one) => !ASSIGNMENT.test(one) && !SETTING_UP.includes(one))
