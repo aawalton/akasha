@@ -30,6 +30,31 @@ export async function revokeDeviceSecret(args: {
   if (!revoked.ok) throw new Error(`device-secrets revoke failed: ${revoked.why}`)
 }
 
+/**
+ * Whether the store admits the credential this request presents — and nothing else.
+ *
+ * `resolveDeviceSecretContext` below collapses "the secret is wrong" and "the store did not
+ * answer" into a throw and a `false`, which is right for a route that has data to guard and
+ * wrong for the one caller that wants to know WHICH refusal it met. A phone re-minting on the
+ * first is healing; a phone re-minting on the second rotates its credential every time the
+ * workstation blinks. So the three outcomes are carried out whole and the route answers each
+ * with its own status.
+ */
+export type DeviceSecretAdmission = "admitted" | "refused" | "unread"
+
+export async function readDeviceSecretAdmission(request: Request): Promise<DeviceSecretAdmission> {
+  const read = await deviceSecretPresented(request.headers.get(DEVICE_SECRET_HEADER))
+  if (read.outcome === "unread") {
+    process.stderr.write(`[device-secret] admission unread: ${read.why}\n`)
+    return "unread"
+  }
+  if (read.outcome === "refused") {
+    process.stderr.write(`[device-secret] admission refused: ${read.why}\n`)
+    return "refused"
+  }
+  return "admitted"
+}
+
 export async function resolveDeviceSecretContext(request: Request): Promise<DeviceSecretContext> {
   const read = await deviceSecretPresented(request.headers.get(DEVICE_SECRET_HEADER))
   if (read.outcome === "unread") throw new Error(`device-secrets lookup failed: ${read.why}`)

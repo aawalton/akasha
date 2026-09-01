@@ -67,6 +67,17 @@ export interface DeviceSecretPlugin {
   }) => Promise<{ present: boolean; fingerprint: string | null; domain: string }>
   store: (options: { secret: string; userId: string }) => Promise<{ domain: string }>
   clear: () => Promise<{ cleared: boolean }>
+  /**
+   * Presents the held secret to the pinned admission route and answers with the status alone.
+   *
+   * This is NOT a read-back and must never become one. The plaintext's single appearance in JS
+   * is still the mint response; here the native layer reads the keychain, makes the request and
+   * hands back a number. `held: false` means the keychain answered with nothing.
+   *
+   * Optional because every build shipped so far lacks it — a shell without it simply never
+   * decides that what it holds is bad, which is exactly the behaviour before this existed.
+   */
+  present?: () => Promise<{ held: boolean; status: number }>
 }
 
 export interface AppState {
