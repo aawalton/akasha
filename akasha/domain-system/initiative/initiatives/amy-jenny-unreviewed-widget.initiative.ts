@@ -13,7 +13,6 @@ export const amyJennyUnreviewedWidget = {
       workingMemory:
         "A subagent is on this now. The workstation answers at 100.64.0.4:8787 on the headscale tailnet, and pods cannot route 100.64.0.0/10 under flannel. What already works is the `tailnet-egress` deployment in its own namespace, which reaches the workstation. The shape asked for is that one cloned into an egress pod for the page store behind a ClusterIP, so a pod asks http://<slug>.<namespace>.svc.cluster.local:<port>/ask. Proof is a throwaway pod holding rows.",
     },
-    { statement: "A page is written over HTTP from a workstation." },
     { statement: "A running site states the commit it was built from." },
     { statement: "No file imports `@shared/pages-query`." },
     {
