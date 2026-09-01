@@ -45,6 +45,6 @@ export function assignmentItself(root: string, path: string): readonly Warrant[]
   if (slug === null) return []
   const stated = typeStated(root, path, KEY) ?? DOMAIN_TYPE
   if (stated === INITIATIVE_TYPE) return initiativeOf(root, slug)
-  const standing = listedAt(root, stated, slug)[0]
-  return standing === undefined ? [] : warrantAt(root, standing.path, ASSIGNMENT)
+  const listed = listedAt(root, stated, slug)[0]
+  return listed === undefined ? [] : warrantAt(root, listed.path, ASSIGNMENT)
 }
