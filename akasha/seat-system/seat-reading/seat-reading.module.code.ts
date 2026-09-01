@@ -1,12 +1,20 @@
 import { rootOf } from "@akasha/command-system/rooting"
+import { alive, type Holder } from "@akasha/file-system/lock-holder"
 import { everyOfType, listedById, typeSlugOf } from "@akasha/indexes"
+import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
 import { type Value, valueAt } from "@akasha/pages-system/page-value"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 
 const SEAT_DIR = "akasha/seat-system/seat/seats/"
 
+const SEAT_TAIL = ".seat.ts"
+
 const SESSION = "claudeCodeSessionUuid"
+
+const HELD = "supervisorProcess"
+
+const UNKNOWN = "-"
 
 const STATED: Readonly<Record<string, string>> = {
   id: "id",
@@ -24,6 +32,36 @@ const STATED: Readonly<Record<string, string>> = {
 
 export function seatRoot(): string {
   return rootOf(import.meta.dir)
+}
+
+export function nameOf(page: string): string {
+  const bare = page.startsWith(SEAT_DIR) ? page.slice(SEAT_DIR.length) : page
+  return bare.endsWith(SEAT_TAIL) ? bare.slice(0, -SEAT_TAIL.length) : bare
+}
+
+export function seatPathForName(name: string): string {
+  return `${SEAT_DIR}${name}${SEAT_TAIL}`
+}
+
+export function holderIn(said: unknown): Holder | null {
+  if (typeof said !== "string" || said === "") return null
+  const at = said.lastIndexOf("-")
+  if (at < 1) return null
+  const pid = Number.parseInt(said.slice(0, at), 10)
+  const started = said.slice(at + 1)
+  if (Number.isNaN(pid) || pid < 1) return null
+  if (started === "" || started === UNKNOWN) return null
+  return { pid, started }
+}
+
+export function supervisorOf(root: string, page: string): Holder | null {
+  const beside = uncommittedIn(root, page)
+  return beside === null ? null : holderIn((beside as Record<string, unknown>)[HELD])
+}
+
+export function supervisorAlive(root: string, page: string): boolean {
+  const held = supervisorOf(root, page)
+  return held !== null && alive(held)
 }
 
 export function seatPathForAgent(agentId: string, root: string = seatRoot()): string | null {

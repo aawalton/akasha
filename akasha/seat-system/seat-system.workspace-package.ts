@@ -10,6 +10,7 @@ export const seatSystem = {
     "page-type/seat",
     "page-type/subagent",
     "module/seat-reading",
+    "module/seat-stopping",
     "module/subagent-standing",
   ],
   invariants: [

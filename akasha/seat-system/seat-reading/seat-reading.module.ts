@@ -41,6 +41,19 @@ export const seatReading = {
       statement: "This prints one line for each key it was asked for.",
     },
     {
+      invariantKind: "departure",
+      statement: "A name reaches a seat's page without the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The mark a supervisor is read from is parted from the moment it started by its last `-` rather than its first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mark naming no moment it started is no supervisor that can be read.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the seat pages of the old system.",
     },
