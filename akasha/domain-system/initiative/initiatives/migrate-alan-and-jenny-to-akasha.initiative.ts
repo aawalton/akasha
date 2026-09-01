@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Jenny's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Her Swift compiles: `akasha ios-app build smilingjenny` exits 0 with BUILD_SIM_OK, 12 files into SmilingJennyWidgetExtension, `ring` and `categorize-ring` among them, so the one ring both tiles name is proven. This box has no swiftc; the command hands it to `macbook`. Both routes are 7 lines over `module/readout-categorization` now, Alan's copy gone at `0011a6c725` onto `answerCategorizationAdmittedBy`, which takes his guard: he admits on a device secret and a grant, she on a shared secret.",
+        "Server side is proven: her routes answer, the relay carries 9 to smilingjenny.me, and her Swift rebuilt clean after the readout-serving rename with BUILD SUCCEEDED and BUILD_SIM_OK on me.smilingjenny.app, carrying smilingjenny-categorize-widget and the shared categorize-ring. What is unknown is her phone: TestFlight holds build 20 VALID and ready to install, but no mobile-cut page records what it was built from, so whether it carries the widget is not written down anywhere.",
     },
     {
       statement: "Jenny's site deploys from akasha.",
