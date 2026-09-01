@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/pages-ui",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./app-version/app-version-check": "./app-version/app-version-check/app-version-check.module.code.ts",
+    "./app-version/use-app-version-check": "./app-version/use-app-version-check/use-app-version-check.module.code.ts"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
+  },
+  "dependencies": {
+    "@akasha/design-primitives": "workspace:*",
+    "@shared/web-build-sha": "workspace:*",
+    "sonner": "^2.0.7"
+  }
+}
