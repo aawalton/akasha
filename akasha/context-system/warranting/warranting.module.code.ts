@@ -272,10 +272,10 @@ export function unreadIn(
 }
 
 export function seatPathOf(root: string, agentId: string): string | null {
-  const standing = listedById(root, agentId)
-  if (standing === null) return null
-  const said = namedIn(standing.path)
-  return said !== null && said.tail === SEAT ? standing.path : null
+  const listed = listedById(root, agentId)
+  if (listed === null) return null
+  const said = namedIn(listed.path)
+  return said !== null && said.tail === SEAT ? listed.path : null
 }
 
 export function subagentPathOf(root: string, agentId: string): string | null {
