@@ -1,12 +1,9 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import {
-  listedAt,
-  schemaOf,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
+import { listedAt, schemaOf } from "@akasha/indexes"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { namedIn } from "@akasha/pages-system/page-file-name"
+import { slugFor } from "@akasha/pages-system/page-property-key"
 import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const PROPERTY =

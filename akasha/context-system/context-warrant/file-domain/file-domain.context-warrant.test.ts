@@ -1,13 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import {
-  idTakenFrom,
-  pathFiled,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { blobIdOf, recordRead } from "@akasha/command-system/reading"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { standing } from "@akasha/command-system/scratching/testing"
+import { idTakenFrom, pathFiled } from "@akasha/indexes/testing"
 import {
   domainListed,
   type Listed,

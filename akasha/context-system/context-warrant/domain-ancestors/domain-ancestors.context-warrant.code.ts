@@ -1,11 +1,5 @@
-import {
-  idsNaming,
-  type Listed,
-  listedAddressed,
-  listedAt,
-  listedById,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
+import { idsNaming, type Listed, listedAddressed, listedAt, listedById } from "@akasha/indexes"
+import { textAt, valueAt } from "@akasha/pages-system/page-value"
 import { slugStated, typeStated } from "../../agent-stated/agent-stated.module.code.ts"
 import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 

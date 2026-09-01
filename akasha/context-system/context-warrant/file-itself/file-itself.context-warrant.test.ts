@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { standing } from "@akasha/command-system/scratching/testing"
 import { fileItself, ITSELF } from "./file-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()

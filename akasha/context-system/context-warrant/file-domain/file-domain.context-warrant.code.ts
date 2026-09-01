@@ -1,8 +1,4 @@
-import {
-  idsNaming,
-  listedById,
-  listedByPath,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { idsNaming, listedById, listedByPath } from "@akasha/indexes"
 import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const WHOLE =

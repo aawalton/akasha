@@ -1,5 +1,5 @@
-import { listedAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { listedAt } from "@akasha/indexes"
+import { namedIn } from "@akasha/pages-system/page-file-name"
 import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const TYPE = "A page answers to its type, and to every type that one extends."

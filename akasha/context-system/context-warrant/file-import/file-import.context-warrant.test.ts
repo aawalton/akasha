@@ -1,17 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { standing as wrote } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { importIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
-import {
-  entriesFiled,
-  importsTakenFrom,
-  pathFiled,
-  schemaFiled,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
+import { blobIdOf, recordRead } from "@akasha/command-system/reading"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { standing as wrote } from "@akasha/command-system/scratching/testing"
+import { importIn } from "@akasha/indexes/import"
+import { entriesFiled, importsTakenFrom, pathFiled, schemaFiled } from "@akasha/indexes/testing"
+import { mintedId } from "@akasha/testing-system/minting"
 import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"

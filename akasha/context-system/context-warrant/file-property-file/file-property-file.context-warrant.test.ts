@@ -1,14 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf } from "../../../command-system/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import {
-  listedFiled,
-  schemaFiled,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
+import { blobIdOf } from "@akasha/command-system/reading"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { standing } from "@akasha/command-system/scratching/testing"
+import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
+import { mintedId } from "@akasha/testing-system/minting"
 import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { blobAt, knowingIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { filePropertyFile, PAGE, PROPERTY } from "./file-property-file.context-warrant.code.ts"

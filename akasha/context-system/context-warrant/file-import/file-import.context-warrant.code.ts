@@ -3,12 +3,9 @@ import {
   NAMING_NONE,
   type Naming,
   specifiersIn,
-} from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import { listedByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  bodiesAt,
-  reachingFor,
-} from "../../../pages-system/indexes/package-reaching/package-reaching.module.code.ts"
+} from "@akasha/code-system/code-specifier"
+import { listedByPath } from "@akasha/indexes"
+import { bodiesAt, reachingFor } from "@akasha/indexes/package-reaching"
 import { blobAt, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const IMPORTED =
