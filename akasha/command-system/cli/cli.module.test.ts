@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { appendFileSync, cpSync, symlinkSync, writeFileSync } from "node:fs"
+import { appendFileSync, cpSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
 import { indexNamed } from "@akasha/indexes"
@@ -11,6 +11,7 @@ import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   answering,
+  DATA,
   INPUT,
   OK,
   OPERATIONAL,
@@ -32,6 +33,10 @@ const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 const CARRIED = ["package.json", "tsconfig.json", "tsconfig.base.json"]
 
 const ID = "01a04bf0-0000-7000-8000-00000000bbbb"
+
+const EDITED_AT = "akasha/edited.ts"
+
+const EDITED = "export const edited = 1;\n\nexport const beside = 1;\n"
 
 const scratch = scratchWorld()
 
@@ -63,6 +68,21 @@ function ran(
     env: { ...process.env, AKASHA_ROOT: root },
   })
   return { said: `${held.out}${held.err}`, code: held.code }
+}
+
+function bodyIn(root: string): string {
+  writeFileSync(join(root, EDITED_AT), EDITED)
+  git(root, ["add", "--", EDITED_AT])
+  git(root, ["commit", "--quiet", "-m", "a body to edit", "--", EDITED_AT])
+  return root
+}
+
+function stated(root: string, name: string, was: string, now: string): readonly string[] {
+  const old = join(root, `${name}.old`)
+  const put = join(root, `${name}.new`)
+  writeFileSync(old, was)
+  writeFileSync(put, now)
+  return ["--old-file", old, "--new-file", put]
 }
 
 test("the glass carries a change past checks that cannot be loaded at all", () => {
@@ -97,6 +117,65 @@ test("the glass carries a change past checks that cannot be loaded at all", () =
   const body = git(root, ["log", "-1", "--pretty=%B"])
   expect(body).toContain("Checks-bypassed: mid-refactor")
   expect(body).toContain("Checks-unloadable: BuildMessage:")
+}, 60000)
+
+test("a substitution stated to the cli lands and says the path it edited", () => {
+  const root = bodyIn(checkoutOf())
+
+  const said = ran(root, [
+    "edit",
+    "--file-path",
+    EDITED_AT,
+    ...stated(root, "a", "export const edited = 1;", "export const edited = 2;"),
+    "--message",
+    "edited arrives",
+    "--break-the-glass",
+    "the check minted for this checkout refuses everything",
+  ])
+  expect(said.code).toBe(OK)
+  expect(said.said).toContain(`edited ${EDITED_AT}`)
+  expect(readFileSync(join(root, EDITED_AT), "utf8")).toBe(
+    "export const edited = 2;\n\nexport const beside = 1;\n"
+  )
+  expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe("edited arrives")
+}, 60000)
+
+test("an edit is refused whole where the checks cannot be loaded at all", () => {
+  const root = bodyIn(checkoutOf())
+  appendFileSync(join(root, CHECKING_AT), "export function judgedOver( {\n")
+  git(root, ["commit", "--quiet", "-m", "the checks stop parsing", "--", CHECKING_AT])
+
+  const gated = ran(root, [
+    "edit",
+    "--file-path",
+    EDITED_AT,
+    ...stated(root, "a", "export const edited = 1;", "export const edited = 2;"),
+    "--message",
+    "edited arrives",
+  ])
+  expect(gated.code).toBe(OPERATIONAL)
+  expect(gated.said).toContain(`the checks could not be loaded from ${CHECKING_AT}`)
+  expect(gated.said).toContain("nothing was judged and nothing was written")
+  expect(readFileSync(join(root, EDITED_AT), "utf8")).toBe(EDITED)
+}, 60000)
+
+test("a substitution naming no passage or more than one is refused by the cli", () => {
+  const root = bodyIn(checkoutOf())
+
+  const none = ran(root, [
+    "edit",
+    "--file-path",
+    EDITED_AT,
+    ...stated(root, "a", "export const nowhere = 1;", "export const nowhere = 2;"),
+  ])
+  expect(none.code).toBe(DATA)
+  expect(none.said).toContain(`${EDITED_AT} — substitution 1 matches no passage`)
+
+  const many = ran(root, ["edit", "--file-path", EDITED_AT, ...stated(root, "b", " = 1;", " = 2;")])
+  expect(many.code).toBe(DATA)
+  expect(many.said).toContain(`${EDITED_AT} — substitution 1 matches 2 passages`)
+
+  expect(readFileSync(join(root, EDITED_AT), "utf8")).toBe(EDITED)
 }, 60000)
 
 test("a stated root wins over where the dispatcher stands", () => {
