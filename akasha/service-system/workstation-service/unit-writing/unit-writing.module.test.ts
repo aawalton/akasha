@@ -50,9 +50,9 @@ test("the description opens in upper case", () => {
 })
 
 test("a command naming a TypeScript file runs under the wrapper and forces a restart on its exit", () => {
-  const standing = standingOf({})
-  expect(isWrapped(standing)).toBe(true)
-  const text = serviceUnitText(standing)
+  const service = standingOf({})
+  expect(isWrapped(service)).toBe(true)
+  const text = serviceUnitText(service)
   expect(text).toContain("service-wrapping.module.code.ts -- bun")
   expect(text).toContain(`RestartForceExitStatus=${RESTART_EXIT}`)
 })
