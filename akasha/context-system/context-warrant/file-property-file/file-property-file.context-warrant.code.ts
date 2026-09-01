@@ -19,10 +19,10 @@ function pageBeside(path: string, said: Named): string | null {
 function propertyOf(root: string, propertySlug: string): Warrant | null {
   const said = schemaOf(root, propertySlug)
   if ("refused" in said) return null
-  const standing = listedAt(root, said.schema.pageTypeSlug, propertySlug)[0]
-  if (standing === undefined) return null
-  const oid = blobAt(root, standing.path)
-  return oid === null ? null : { path: standing.path, oid, owed: PROPERTY }
+  const listed = listedAt(root, said.schema.pageTypeSlug, propertySlug)[0]
+  if (listed === undefined) return null
+  const oid = blobAt(root, listed.path)
+  return oid === null ? null : { path: listed.path, oid, owed: PROPERTY }
 }
 
 export function filePropertyFile(root: string, path: string, knowing: Knowing): readonly Warrant[] {
