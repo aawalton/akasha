@@ -7,6 +7,7 @@ export const seat = {
   definition: "the command acting on the seats akasha carries and what runs them",
   code: "ts",
   test: "ts",
+  mechanical: true,
   taking: [
     { said: "supervisor", takes: "what to act on, which is the process running a seat" },
     {
