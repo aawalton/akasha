@@ -88,7 +88,6 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@shared/pages-ui": "workspace:*",
         "chess.js": "^1.4.0",
         "chessground": "^9.2.1",
         "zod": "^4.3.6",
@@ -461,6 +460,13 @@
     "akasha/named-for": {
       "name": "@akasha/named-for",
     },
+    "akasha/object-store": {
+      "name": "@akasha/object-store",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/open-questions": {
       "name": "@akasha/open-questions",
       "dependencies": {
@@ -516,9 +522,20 @@
     "akasha/pages-system/pages-ui": {
       "name": "@akasha/pages-ui",
       "dependencies": {
+        "@akasha/day": "workspace:*",
+        "@akasha/design-badges": "workspace:*",
+        "@akasha/design-forms": "workspace:*",
+        "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/recurrence": "workspace:*",
+        "@akasha/supabase-database": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@shared/object-store": "workspace:*",
@@ -526,6 +543,7 @@
         "zod": "^4.3.6",
       },
       "peerDependencies": {
+        "@dnd-kit/core": ">=6",
         "react": "^18 || ^19",
       },
     },
@@ -3742,6 +3760,8 @@
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
 
     "@akasha/named-for": ["@akasha/named-for@workspace:akasha/named-for"],
+
+    "@akasha/object-store": ["@akasha/object-store@workspace:akasha/object-store"],
 
     "@akasha/open-questions": ["@akasha/open-questions@workspace:akasha/open-questions"],
 

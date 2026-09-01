@@ -122,6 +122,7 @@
     "akasha/errors-client",
     "akasha/file-page-identity",
     "akasha/named-for",
+    "akasha/object-store",
     "shared/object-store",
     "akasha/open-questions",
     "shared/pages-query",
