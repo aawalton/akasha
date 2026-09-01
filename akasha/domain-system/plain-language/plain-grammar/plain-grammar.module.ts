@@ -28,10 +28,6 @@ export const plainGrammar = {
       statement: "One sentence carries one clause.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "`rather than` parses as an adverb before a preposition.",
-    },
-    {
       invariantKind: "gap",
       statement: "Every construction the grammar admits was put to Alan first.",
     },
