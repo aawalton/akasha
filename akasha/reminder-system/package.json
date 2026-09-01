@@ -3,6 +3,13 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./reminder": "./reminders/reminder.page-type.ts"
+    "./reminder": "./reminders/reminder.page-type.ts",
+    "./reminder-sending": "./reminders/modules/reminder-sending/reminder-sending.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/command-system": "workspace:*",
+    "@akasha/indexes": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@akasha/utils-run": "workspace:*"
   }
 }
