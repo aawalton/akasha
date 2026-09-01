@@ -1,3 +1,4 @@
+import { randomId } from "@akasha/id-minting"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import {
   healBlockMarker,
@@ -38,7 +39,7 @@ export type V1BlockType = (typeof V1_BLOCK_TYPES)[number]
 export type HeadingLevel = 1 | 2 | 3
 
 export function newBlockId(): string {
-  return crypto.randomUUID()
+  return randomId()
 }
 
 export function createBlock(
