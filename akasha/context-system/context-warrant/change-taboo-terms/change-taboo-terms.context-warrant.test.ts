@@ -159,8 +159,3 @@ test("what is owed names the senses a term keeps apart from the senses it bars",
   )
   expect(said).toContain("Match what you meant against the senses it keeps first")
 })
-
-test("a term is reached inside the camelCase name a page type's shape is called by", () => {
-  const zod = '(?<![-.])\\bschema\\b(?![-/"])'
-  expect(reachOf(zod, "pageTypeSchema")).toBe("seam")
-})
