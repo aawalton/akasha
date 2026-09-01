@@ -61,8 +61,16 @@ export const packageRenaming = {
       statement: "A file that is neither code nor a manifest is left as it is.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here reads the disk or the index.",
+      invariantKind: "departure",
+      statement: "The manifests read are the ones the index names under the akasha folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer says how many manifests and how many bodies were respelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer says a file outside the akasha folder was not looked for.",
     },
     {
       invariantKind: "absence",

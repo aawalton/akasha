@@ -1,4 +1,14 @@
 import { spelledIn } from "@akasha/code-system/code-specifier"
+import { everyPath } from "@akasha/indexes"
+import { counted } from "../../../asking/asking.module.code.ts"
+import type { Answer, Given } from "../../../calling/calling.module.code.ts"
+import { answering } from "../../../calling/calling.module.code.ts"
+import { baseOf } from "../../../landing/landing.module.code.ts"
+import {
+  bodyTextOf,
+  respelledLanded,
+  were,
+} from "../refactor-landing/refactor-landing.module.code.ts"
 import type { Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 
@@ -9,6 +19,10 @@ const MANIFEST = "package.json"
 const CODE = [".ts", ".tsx"]
 
 const QUOTED = /"([^"\\]*)"/g
+
+const OUTSIDE =
+  "the index carries `akasha/` alone, so a file outside it naming this package is left " +
+  "unrespelled and was not looked for"
 
 export type Packaging = {
   readonly was: string
@@ -95,4 +109,54 @@ export function renamingOver(
     if (next !== null && next !== text) found.set(path, next)
   }
   return found
+}
+
+export function packageSaying(
+  one: Packaging,
+  said: ReadonlyMap<string, string>,
+  dry: boolean
+): readonly string[] {
+  const paths = [...said.keys()].sort()
+  const manifests = paths.filter((path) => path.endsWith(MANIFEST))
+  const bodies = paths.length - manifests.length
+  return [
+    `\`${one.was}\` ${dry ? "would be renamed" : "was renamed"} to \`${one.now}\``,
+    `${one.at} calls the package, and ${one.folder} stays where it is`,
+    `${counted(manifests.length, "manifest")} and ${counted(bodies, "body")} ` +
+      `${were(paths.length, dry)} respelled`,
+    ...(dry ? paths.map((path) => `  ${path}`) : []),
+    OUTSIDE,
+  ]
+}
+
+export function packageLanded(
+  given: Given,
+  root: string,
+  from: string,
+  to: string,
+  dryRun: boolean,
+  argv: readonly string[],
+  flags: readonly string[]
+): Answer {
+  const bodyText = bodyTextOf(root, baseOf(root))
+  const paths = everyPath(root)
+  const manifests = new Map<string, string>()
+  for (const path of paths) {
+    if (!path.endsWith(MANIFEST)) continue
+    const text = bodyText(path)
+    if (text !== null) manifests.set(path, text)
+  }
+  const asked = packagingFor(manifests, from, to)
+  if ("refused" in asked) return answering([], [asked.refused], 1)
+  const said = renamingOver(asked.packaging, paths, bodyText)
+  return respelledLanded(
+    given,
+    root,
+    said,
+    `rename the package \`${from}\` to \`${to}\``,
+    (dry) => packageSaying(asked.packaging, said, dry),
+    dryRun,
+    argv,
+    flags
+  )
 }

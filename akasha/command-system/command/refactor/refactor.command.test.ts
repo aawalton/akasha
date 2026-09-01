@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { flagsIn, refactor } from "./refactor.command.code.ts"
+import { refactor } from "./refactor.command.code.ts"
 
 const GIVEN = {
   root: "/nowhere-at-all",
@@ -111,31 +111,4 @@ test("a rename takes the slug, what it becomes, and the plural it becomes", () =
   const said = refactor(["rename", "page-type", "--from", "seat", "--to", "chair"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--plural")
-})
-
-test("a flag this does not take is refused rather than passed over", () => {
-  const said = flagsIn(["--nowhere", "one"])
-  expect("refused" in said && said.refused).toContain("is not a flag this takes")
-})
-
-test("a flag said twice is refused rather than the last winning", () => {
-  const said = flagsIn(["--from", "one", "--from", "two"])
-  expect("refused" in said && said.refused).toContain("said more than once")
-})
-
-test("a flag whose value the line never gives is refused", () => {
-  const said = flagsIn(["--from"])
-  expect("refused" in said && said.refused).toContain("needs a value")
-})
-
-test("the flags are read whatever order they stand in", () => {
-  const said = flagsIn(["--dry-run", "--plural", "chairs", "--from", "seat", "--to", "chair"])
-  expect("said" in said && said.dryRun).toBe(true)
-  expect("said" in said && said.said.get("--from")).toBe("seat")
-  expect("said" in said && said.said.get("--plural")).toBe("chairs")
-})
-
-test("the line a name is declared on is read off the flags", () => {
-  const said = flagsIn(["--at", "akasha/one.module.code.ts", "--line", "288"])
-  expect("said" in said && said.said.get("--line")).toBe("288")
 })

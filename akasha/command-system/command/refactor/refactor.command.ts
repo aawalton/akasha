@@ -11,20 +11,22 @@ export const refactor = {
   partSlugs: [
     "module/key-respelling",
     "module/package-renaming",
+    "module/refactor-arguing",
     "module/refactor-landing",
     "module/token-renaming",
     "module/type-renaming",
     "module/type-respelling",
   ],
   taking: [
+    { said: "rename package", takes: "the act, and the namespace it is worked over" },
     { said: "rename page-type", takes: "the act, and the namespace it is worked over" },
     { said: "rename property-slug", takes: "the act, and the namespace it is worked over" },
     { said: "rename token", takes: "the act, and the namespace it is worked over" },
     {
       said: "--from <name>",
-      takes: "the page type's slug, the address a property stands at, or the name a body carries",
+      takes: "a page type's slug, a property's address, a package's name, or a name a body carries",
     },
-    { said: "--to <slug>", takes: "the slug it becomes, or the key the property is read by" },
+    { said: "--to <slug>", takes: "the slug or name it becomes, or the key a property is read by" },
     { said: "--plural <slug>", takes: "the plural it becomes, on a page type rename alone" },
     { said: "--at <path>", takes: "the file exporting the name, on a name rename alone" },
     {
@@ -40,6 +42,9 @@ export const refactor = {
   helpNotes: [
     "the act and the namespace stand before the flags, so more of each can be taken later.",
     "a plural is stated rather than worked out, so it is asked for rather than guessed.",
+    "a package rename takes the name it carries now and the name it becomes.",
+    "a package rename moves no folder and changes no page's slug.",
+    "a file outside the akasha folder naming a renamed package is named rather than changed.",
     "`page-type` itself is refused, being the tail every page type's own file carries.",
     "--dry-run names every file it would carry; a landing says how many.",
     "a spelling it cannot judge to be a path is named in the answer rather than changed.",
@@ -171,6 +176,31 @@ export const refactor = {
     {
       invariantKind: "absence",
       statement: "A module named for a renamed page type is not renamed with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package is renamed where its manifest calls it that name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every manifest and every body under the akasha folder spelling it is respelled.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The index carries the `akasha/` folder alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file outside that folder naming a renamed package is named rather than changed.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A package rename moves no folder.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A package rename changes no page's slug.",
     },
   ],
 } as const satisfies Command

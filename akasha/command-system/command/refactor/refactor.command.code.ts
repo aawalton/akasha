@@ -6,13 +6,7 @@ import { importEdge } from "@akasha/graph-system/import-edge"
 import { everyPath, readingIn } from "@akasha/indexes"
 import { uncommittedNamed } from "@akasha/pages-system/page-file-name"
 import type { Asked } from "../../asking/asking.module.code.ts"
-import {
-  BREAK_GLASS,
-  counted,
-  DRY_RUN,
-  landingAsked,
-  textOf,
-} from "../../asking/asking.module.code.ts"
+import { counted, landingAsked, textOf } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
@@ -22,9 +16,19 @@ import type { Carry as Reading } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import { importingOf, spellingOf } from "../move/move.command.code.ts"
 import { repointed } from "../move/move-repointing/move-repointing.module.code.ts"
-import { glassIn, MESSAGE, MESSAGE_FILE, messageIn } from "../write/write.command.code.ts"
+import { glassIn, messageIn } from "../write/write.command.code.ts"
 import type { Keying, Respelling } from "./key-respelling/key-respelling.module.code.ts"
 import { keyingFor, respellingFor } from "./key-respelling/key-respelling.module.code.ts"
+import { packageLanded } from "./package-renaming/package-renaming.module.code.ts"
+import {
+  AT,
+  FROM,
+  flagsIn,
+  IN_STRINGS,
+  PLURAL,
+  TO,
+  VALUED,
+} from "./refactor-arguing/refactor-arguing.module.code.ts"
 import {
   bodyTextOf,
   respelledLanded,
@@ -64,57 +68,13 @@ const TOKEN = "token"
 
 const TS = ".ts"
 
-const FROM = "--from"
-
-const TO = "--to"
-
-const PLURAL = "--plural"
-
-const AT = "--at"
-
-const IN_STRINGS = "--in-strings"
-
-const VALUED = [FROM, TO, PLURAL, AT, LINE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
-
-const NAMED = [FROM, TO, PLURAL, AT, LINE]
+const PACKAGE = "package"
 
 const BYTES = new TextEncoder()
 
 const LEFT = 12
 
 const IMPORT = importEdge.slug
-
-export type Read =
-  | {
-      readonly said: ReadonlyMap<string, string>
-      readonly dryRun: boolean
-      readonly inStrings: boolean
-    }
-  | { readonly refused: string }
-
-export function flagsIn(argv: readonly string[]): Read {
-  const said = new Map<string, string>()
-  const bare = new Set<string>()
-  let at = 0
-  while (at < argv.length) {
-    const token = argv[at]
-    if (token === undefined) break
-    if (token === DRY_RUN || token === IN_STRINGS) {
-      bare.add(token)
-      at = at + 1
-      continue
-    }
-    if (!VALUED.includes(token)) {
-      return { refused: `\`${token}\` is not a flag this takes — it takes ${NAMED.join(", ")}` }
-    }
-    const value = argv[at + 1]
-    if (value === undefined) return { refused: `${token} needs a value, and the line ends` }
-    if (said.has(token)) return { refused: `${token} is said more than once` }
-    said.set(token, value)
-    at = at + 2
-  }
-  return { said, dryRun: bare.has(DRY_RUN), inStrings: bare.has(IN_STRINGS) }
-}
 
 type Rewriting = {
   readonly one: Renaming
@@ -354,13 +314,18 @@ export function refactor(argv: readonly string[], given: Given): Answer {
   if (act !== RENAME) {
     return answering([], [`\`${act}\` is no act this carries — it carries \`${RENAME}\``], 1)
   }
-  if (namespace !== PAGE_TYPE && namespace !== PROPERTY_SLUG && namespace !== TOKEN) {
+  if (
+    namespace !== PAGE_TYPE &&
+    namespace !== PROPERTY_SLUG &&
+    namespace !== TOKEN &&
+    namespace !== PACKAGE
+  ) {
     const said = namespace === undefined ? "none was named" : `\`${namespace}\` is not one of them`
     return answering(
       [],
       [
         `${RENAME} names the namespace it is worked over, and ${said} — ` +
-          `it carries \`${PAGE_TYPE}\`, \`${PROPERTY_SLUG}\` and \`${TOKEN}\``,
+          `it carries \`${PAGE_TYPE}\`, \`${PROPERTY_SLUG}\`, \`${TOKEN}\` and \`${PACKAGE}\``,
       ],
       1
     )
@@ -383,6 +348,16 @@ export function refactor(argv: readonly string[], given: Given): Answer {
     const asked = tokeningFor(at, from, to, read.said.get(LINE))
     if ("refused" in asked) return answering([], [asked.refused], 1)
     return tokenLanded(given, root, asked.tokening, read.dryRun, argv, read.inStrings)
+  }
+  if (namespace === PACKAGE) {
+    if (from === undefined || to === undefined) {
+      const said = `a package rename takes ${FROM} and ${TO}, and one of them was not said`
+      return answering([], [said], 1)
+    }
+    if (read.said.has(PLURAL)) {
+      return answering([], [`${PLURAL} names a page type's plural, and a package carries none`], 1)
+    }
+    return packageLanded(given, root, from, to, read.dryRun, argv, VALUED)
   }
   if (namespace === PROPERTY_SLUG) {
     if (from === undefined || to === undefined) {
