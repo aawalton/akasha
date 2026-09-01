@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/calendar-google",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./env": "./calendar-credentials/calendar-credentials.module.code.ts",
+    "./auth": "./calendar-auth/calendar-auth.module.code.ts",
+    "./client": "./calendar-client/calendar-client.module.code.ts",
+    "./types": "./calendar-event-shapes/calendar-event-shapes.module.code.ts",
+    "./schema": "./calendar-event-schema/calendar-event-schema.module.code.ts",
+    "./events": "./calendar-events/calendar-events.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/google-oauth": "workspace:*",
+    "@googleapis/calendar": "^15.0.0",
+    "@shared/errors-core": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
