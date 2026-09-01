@@ -1,5 +1,5 @@
 import { keepBeside } from "./seat-beside.ts"
-import { resolveRoots } from "../../repo/roots/roots.ts"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { BeatReport } from "../seat-page-beat.ts"
 import type { Outcome } from "./gated-write.ts"
 import { nameFromHistory } from "./seat-page-history.ts"

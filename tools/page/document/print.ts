@@ -1,5 +1,5 @@
 
-import type { Block, Document, FrontmatterValue, Inline, ListItem, Row, Scalar, Section } from "../../../page/document/types.ts"
+import type { Block, Document, FrontmatterValue, Inline, ListItem, Row, Scalar, Section } from "@akasha/pages-system/markdown-document"
 
 const NEEDS_QUOTE = /^$|^[-?:,[\]{}#&*!|>'"%@`]|:\s|\s$|^\s|:$|[\u0000-\u001f]/
 

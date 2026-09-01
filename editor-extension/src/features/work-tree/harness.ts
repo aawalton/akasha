@@ -3,7 +3,7 @@ import { duringOneCall } from '@akasha/command-system/during-call';
 import { type Initiatives, type Node, workTree } from '../../../../tools/lib/work-tree.ts';
 import { initiativesDrawn } from '../../../../akasha/editor-extension/work-initiatives/work-initiatives.module.code.ts';
 import { drawnNow } from '../../../../tools/lib/work-tree-drawn.ts';
-import { AKASHA, resolveRoots, rootFor } from '../../../../repo/roots/roots.ts';
+import { AKASHA, resolveRoots, rootFor } from '@akasha/pages-system/checkout-roots';
 import { rollUp } from './colours.ts';
 
 export interface WorkNode {

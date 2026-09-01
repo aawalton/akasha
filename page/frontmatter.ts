@@ -1,7 +1,7 @@
 
 import { frontmatter as readBlock } from "./document/frontmatter.ts"
 import { Source } from "./document/position.ts"
-import type { FrontmatterValue } from "./document/types.ts"
+import type { FrontmatterValue } from "@akasha/pages-system/markdown-document"
 
 export interface Frontmatter {
   readonly present: boolean

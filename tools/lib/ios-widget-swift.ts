@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { readoutCatalog } from "../../readouts/readout-catalog.ts"
-import { akashaRoot } from "../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const WIDGET_PAGE_TYPE = "readout-widget"
 

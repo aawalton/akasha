@@ -2,8 +2,8 @@
 import { addressParts } from "../../page/page-address.ts"
 import { filedIn, pageRelIn, pageTypePathIn, repoPlacings } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
-import { type Roots } from "../../page/page"
-import { AKASHA, REPOS, rootFor } from "../../repo/roots/roots"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { AKASHA, REPOS, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const placings = new Map<string, ReadonlyMap<string, string>>()
 

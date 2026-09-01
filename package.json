@@ -290,7 +290,6 @@
     "temper/shared-narrow",
     "temper/shared-saved-variables",
     "temper/web",
-    "repo/roots",
     "tools/lib"
   ],
   "dependencies": {

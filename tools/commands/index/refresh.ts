@@ -4,7 +4,7 @@ export const summary = "Refresh the page index, writing it again from every page
 import { buildOver } from "../../../page/index/build.ts"
 import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { REPOS, resolveRoots } from "../../../repo/roots/roots"
+import { REPOS, resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {

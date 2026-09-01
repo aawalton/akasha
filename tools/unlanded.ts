@@ -11,7 +11,7 @@ import {
   rootStands,
   writerAlive,
 } from "./lib/page-landing-journal.ts"
-import { isAddressable, resolveRoots } from "../repo/roots/roots"
+import { isAddressable, resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const HELP = `bun tools/unlanded.ts — every page written to disk whose commit has not landed
 

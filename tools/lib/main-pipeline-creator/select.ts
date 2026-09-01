@@ -1,4 +1,4 @@
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { overtakenByNewerOnBranch } from "../sweep-pipeline-pages/statuses.ts"
 import type {
   CreatorCode,

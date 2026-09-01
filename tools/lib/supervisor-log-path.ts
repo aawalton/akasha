@@ -1,6 +1,6 @@
 
 import { join } from "node:path"
-import { akashaRoot } from "../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 export function supervisorsRootDir(): string {
   return join(akashaRoot(), ".supervisors")

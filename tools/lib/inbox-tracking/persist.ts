@@ -1,5 +1,5 @@
 import { askComposed, pageLanding } from "../page-query-client.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { resolveOrCreateDaily } from "../tracking/resolve.ts"
 import { wakeDayOf } from "../wake-day.ts"
 import { CLEARED_ATTR, COUNT_ATTR, INBOX_KEYS, type InboxKey } from "./keys.ts"

@@ -13,8 +13,8 @@ import {
   suffixedPath,
 } from "../../lib/page-suffix.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { type Roots } from "../../../page/page.ts"
-import { AKASHA, resolveRoots, rootFor, targetRoot } from "../../../repo/roots/roots.ts"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { AKASHA, resolveRoots, rootFor, targetRoot } from "@akasha/pages-system/checkout-roots"
 import { diskFileTree } from "../../../page/file-tree.ts"
 import { landMoves } from "../../../move/move.ts"
 import { registryOf } from "../../../page/property/registry.ts"

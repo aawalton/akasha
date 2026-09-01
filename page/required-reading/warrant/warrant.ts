@@ -1,7 +1,7 @@
-import { rootsHere } from "../../../repo/roots/roots.ts"
+import { rootsHere } from "@akasha/pages-system/checkout-roots"
 import { BY_FILE } from "../../index/identity/identity.ts"
 import { loadRelations } from "../../index/store/store.ts"
-import type { PageAt } from "../../page.ts"
+import type { PageAt } from "@akasha/pages-system/markdown-page-at"
 import { textAt } from "../../text/text.ts"
 import { type AddressIndex, addressIndexIn } from "../address-index/address-index.ts"
 

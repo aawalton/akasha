@@ -1,6 +1,6 @@
 import { patchPage, patchState } from "../page-write.ts"
 import { type Value } from "../page-write-values.ts"
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Ceiling } from "./ceiling.ts"
 import { decideBranchResolution, type PassedWorkflowWitness } from "./decide-branch-resolution.ts"
 import { LOG } from "./log.ts"

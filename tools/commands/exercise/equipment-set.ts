@@ -6,7 +6,7 @@ import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { patchPage, writePage } from "../../lib/page-write.ts"
 import { whereFor } from "../../lib/page-write-where.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { pageStem } from "../../lib/exercise-page-stem.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import {

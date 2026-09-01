@@ -13,7 +13,7 @@ import {
   undeclaredRefusal,
 } from "../../lib/finding.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { AKASHA, resolveRoots, rootFor, targetRoot } from "../../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor, targetRoot } from "@akasha/pages-system/checkout-roots"
 import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import { notUtf8 } from "../../lib/utf8-body.ts"
 import type { CommandHelp } from "../../ops/surface.ts"

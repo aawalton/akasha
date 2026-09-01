@@ -1,4 +1,4 @@
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export class ImessageImportError extends Error {}
 

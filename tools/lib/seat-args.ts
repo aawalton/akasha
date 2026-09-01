@@ -1,7 +1,7 @@
 
 import { ASSIGNMENTS, ATTRIBUTES, DECLARATIONS, type Declaration, MODES, type Mode } from "./attributes.ts"
 import { type Principal, principals } from "./compose-seat-name.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { fail } from "./command.ts"
 
 export interface Args {

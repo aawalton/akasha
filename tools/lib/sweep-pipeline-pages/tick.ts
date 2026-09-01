@@ -1,4 +1,4 @@
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { CeilingExceeded, describeErr, withCeiling } from "./ceiling.ts"
 import { type ContainerReading, readCiContainers } from "./cluster.ts"
 import { decidePipeline } from "./decide-pipeline.ts"

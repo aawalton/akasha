@@ -1,4 +1,4 @@
-import type { HeadingLevel, Mark, Repo } from "./types.ts"
+import type { HeadingLevel, Mark, Repo } from "@akasha/pages-system/markdown-document"
 
 export type Cardinality = { least: number; max: number }
 

@@ -1,4 +1,4 @@
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { randomUUID } from "node:crypto"
 import { appendFileSync, existsSync, mkdirSync } from "node:fs"
 import { dirname, join } from "node:path"
@@ -32,7 +32,7 @@ import type { Property } from "../../page/property/property.ts"
 import { declaredFor } from "../page/page-rows-home.ts"
 import { RowsHomeUnresolved, rowsHomeFor } from "./page-rows-resolve.ts"
 import type { RowsHome } from "../page/page-rows-home.ts"
-import type { Roots } from "../../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 
 interface ResolvedHome {

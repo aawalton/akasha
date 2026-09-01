@@ -1,6 +1,6 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { resolveRoots, rootEnvName, rootFor } from "../../repo/roots/roots.ts"
+import { resolveRoots, rootEnvName, rootFor } from "@akasha/pages-system/checkout-roots"
 import { toolArgv } from "./tool-argv.ts"
 
 const SCRATCH_ROOT = "/var/tmp"

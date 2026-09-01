@@ -1,7 +1,7 @@
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { DECLARATIONS, type Declaration } from "./attributes.ts"
 import { FLEET } from "./compose-seat-name.ts"
-import type { Roots } from "../../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { initiativeStemOf } from "./seat-initiative.ts"
 import { akashaSeatInHistory, akashaSeatNamedInHistory } from "./seat-akasha-history.ts"
 

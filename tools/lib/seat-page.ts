@@ -1,4 +1,4 @@
-import { resolveRoots } from "../../repo/roots/roots.ts"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { akashaSeatSlugOf } from "./seat-akasha-beside.ts"
 import { removeAkashaSeatPage, writeAkashaSeatPage } from "./seat-page-akasha.ts"
 import type { Stated } from "./seat-stated.ts"

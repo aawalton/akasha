@@ -35,8 +35,8 @@ import {
 } from "./lib/rename-property.ts"
 import { RENAME_PROPERTY_HELP } from "./lib/rename-property-help.ts"
 import { surveyRename } from "../repoint/repoint"
-import { type Roots } from "../page/page"
-import { isDirty, resolveRoots, targetRepo, targetRoot } from "../repo/roots/roots"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { isDirty, resolveRoots, targetRepo, targetRoot } from "@akasha/pages-system/checkout-roots"
 import { fail, land } from "./lib/command.ts"
 
 const TAKES_VALUE = [

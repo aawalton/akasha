@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { REPOS } from "../../../../repo/roots/roots"
+import { REPOS } from "@akasha/pages-system/checkout-roots"
 
 const AttrsSchema = z.record(z.string(), z.unknown())
 

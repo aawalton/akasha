@@ -1,6 +1,6 @@
 import { onceInCall } from "@akasha/command-system/during-call"
 import { matchesGlob } from "../../glob/glob.ts"
-import { REPOS } from "../../../repo/roots/roots.ts"
+import { REPOS } from "@akasha/pages-system/checkout-roots"
 import { builtFrom, indexReaches, loadPages } from "../store/store.ts"
 
 const SUFFIXED = /\*\.[a-z0-9-]+\.md$/

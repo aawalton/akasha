@@ -1,5 +1,5 @@
 import { applyEffect, type Held, transition } from "../sweep-pipeline-pages/effects.ts"
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import {
   FAILED,
   PENDING,

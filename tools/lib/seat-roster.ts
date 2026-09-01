@@ -1,5 +1,5 @@
 import { slugNamed } from "../../page/page-address.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { akashaSeatsInHistory } from "./seat-akasha-history.ts"
 import { akashaSeatsStated } from "./seat-akasha-read.ts"
 import { agentPresence } from "./seat-presence-read.ts"

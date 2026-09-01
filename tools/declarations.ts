@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { DeadRead, isSubject, readCorpora, type Subject, SUBJECTS } from "./lib/subjects.ts"
-import { resolveRoots, targetRoot } from "../repo/roots/roots"
+import { resolveRoots, targetRoot } from "@akasha/pages-system/checkout-roots"
 
 function fail(message: string): never {
   process.stderr.write(`error: ${message}\n`)

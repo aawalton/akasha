@@ -1,6 +1,6 @@
 
 import { type Dirent, existsSync, readdirSync, readFileSync } from "node:fs"
-import { REPOS as ADDRESSABLE, akashaRoot } from "../../repo/roots/roots.ts"
+import { REPOS as ADDRESSABLE, akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { declarationIn, type ToolDeclaration } from "../lib/tool-declaration.ts"
 import type { Command, CommandModule } from "./surface.ts"
 import type { ForwardRepo } from "./tool-forward.ts"

@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { attachmentFileOf } from "../../page/attachment-file.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { filesUnder, summaryIn } from "./declared.ts"
 import type { Command, CommandModule } from "./surface.ts"
 

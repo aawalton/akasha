@@ -1,5 +1,5 @@
 import { ASSIGNMENTS, ATTRIBUTES } from "./attributes.ts"
-import { akashaRoot } from "../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const SEAT_CALL_CEILING_MS = 20_000
 

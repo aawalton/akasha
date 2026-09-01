@@ -1,4 +1,4 @@
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { readCapacityFailClosed } from "./capacity.ts"
 import { enrich, scanDispatchingSteps } from "./candidates.ts"
 import type { Cluster } from "./cluster.ts"

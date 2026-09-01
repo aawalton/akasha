@@ -3,7 +3,7 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { SEAT_COMMAND_REL } from "../aw/init/state-seat.ts"
 import { attributesOf, recordedModeOf } from "./attributes.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { onCallOf } from "./seat-on-call.ts"
 import { defaultSlots } from "./seat-resolve.ts"
 

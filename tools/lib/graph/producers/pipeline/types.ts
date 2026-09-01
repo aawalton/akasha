@@ -1,5 +1,5 @@
 import { z } from "zod"
-import type { Repo } from "../../../../../page/document/types.ts"
+import type { Repo } from "@akasha/pages-system/markdown-document"
 
 export const PIPELINE_REPO: Repo = "instructions"
 

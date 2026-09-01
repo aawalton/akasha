@@ -1,4 +1,4 @@
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { dropDerivers } from "./deriver-hold.ts"
 import { refuseALiveTestWriteIn } from "./live-store-write-guard.ts"
 import { dropAnswers } from "./page-query-hold.ts"
@@ -9,7 +9,7 @@ import { asRecord, isValue, namedSafely, type Said, said } from "./page-query-re
 import { patchRows, removeRow, writeRows } from "./page-rows-write.ts"
 import { patchPage, patchState, removePage, writePage, type Written } from "./page-write.ts"
 import { type Value } from "./page-write-values.ts"
-import type { Roots } from "../../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export const WRITE_ROUTE =
   /^\/(write-row|patch-row|remove-row|write|patch-if|patch-state|patch|remove)\/([a-z0-9-]+)\/(.+)$/

@@ -1,4 +1,4 @@
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { RepoView } from "./check.ts"
 import { emailRuleSet } from "./email-rule-set.ts"
 import { parseMatch, ruleFolderOf, ruleLocation } from "./email-rule.ts"

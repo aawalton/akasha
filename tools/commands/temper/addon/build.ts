@@ -9,7 +9,7 @@ import {
 } from "@temper/shared-build-deploy-addons-resolve/sibling-addons"
 import { codeRoot } from "../../../lib/code-root.ts"
 import { dataError, inputError, operationalError } from "../../../lib/exit.ts"
-import { ownRepoRoot } from "../../../../repo/roots/roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { tstlCommand, tstlRoot } from "../../../lib/temper-addon-build.ts"
 import { addonsResolve } from "../../../lib/temper-addon-code.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"

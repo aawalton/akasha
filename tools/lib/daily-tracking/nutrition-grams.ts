@@ -1,4 +1,4 @@
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { wakeDayWindow } from "../wake-day.ts"
 import { askComposed, numberOf } from "./tracking-modules.ts"
 import type { QueryRow } from "./tracking-types.ts"

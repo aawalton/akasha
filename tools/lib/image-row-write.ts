@@ -1,5 +1,5 @@
 import { coverUrl } from "@akasha/pages-url/cover-url"
-import { resolveRoots } from "../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { operationalError } from "./exit.ts"
 import { seaweedFSObjectStoreFromEnv } from "./object-store.ts"
 import { imageObjectKey } from "./object-store-keys"

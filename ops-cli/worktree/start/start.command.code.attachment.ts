@@ -7,7 +7,7 @@ import { seatId } from "../../../agent/writer.ts"
 import { pageTypePathIn, placeDirOf } from "../../../page/page-types.ts"
 import { landFiles } from "../../../repo/land/land.ts"
 import { handOffPush } from "../../../repo/push/push.ts"
-import { AKASHA, akashaRoot, ownRepoRoot, VENDOR_ROOT } from "../../../repo/roots/roots.ts"
+import { AKASHA, akashaRoot, ownRepoRoot, VENDOR_ROOT } from "@akasha/pages-system/checkout-roots"
 import { takeSeqOf } from "../../../tools/lib/page-seq.ts"
 
 const FROM = "--from"

@@ -10,7 +10,7 @@ import {
   summarizeRuns,
   toSeconds,
 } from "../../lib/pipeline-report/step-cost-format.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const MAX_LIMIT = 200
 

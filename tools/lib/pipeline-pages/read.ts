@@ -1,6 +1,6 @@
 import { dataError, operationalError } from "../exit.ts"
 import { answer, type PageQuery, UNREACHED } from "../page-query.ts"
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { PIPELINE, STEP, WORKFLOW } from "../sweep-pipeline-pages/statuses.ts"
 import { pipelineNotFoundMessage, type Row, pipelineSubject } from "./subject.ts"
 

@@ -1,5 +1,5 @@
 
-import type { Inline } from "./types.ts"
+import type { Inline } from "@akasha/pages-system/markdown-document"
 import { reach, type Located } from "./position.ts"
 
 type Mark = Inline["marks"][number]

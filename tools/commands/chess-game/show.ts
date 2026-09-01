@@ -6,7 +6,7 @@ import { parseArgs } from "../../lib/parse-args.ts"
 import { answer } from "../../lib/page-query.ts"
 import { type Row } from "../../lib/page-derive-shape.ts"
 import { textOf } from "../../lib/page-query-values.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 export const help: CommandHelp = {
   flags: [

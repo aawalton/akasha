@@ -7,9 +7,9 @@ import { readFileSync } from "node:fs"
 import { git } from "../repo/git/git.ts"
 import { fileStemOf } from "@akasha/file-page-identity"
 import { extractLinks } from "./lib/links.ts"
-import { type Roots } from "../page/page.ts"
-import { normalizeAbsolute } from "../repo/path/path.ts"
-import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots.ts"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const HELP = `bun tools/unreached.ts — the quarantined documents nothing cites, one path per line
 

@@ -1,5 +1,5 @@
 
-import type { FrontmatterKey, FrontmatterValue, MapEntry, Scalar, Span } from "./types.ts"
+import type { FrontmatterKey, FrontmatterValue, MapEntry, Scalar, Span } from "@akasha/pages-system/markdown-document"
 import { indentOf, type Source } from "./position.ts"
 
 const KEYED = /^([A-Za-z0-9_][A-Za-z0-9_.-]*):(?:[ \t]+(.*))?$/

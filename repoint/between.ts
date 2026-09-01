@@ -1,5 +1,5 @@
 import { pathOf } from "../page/index/link/link.ts"
-import { normalizeAbsolute } from "../repo/path/path.ts"
+import { normalizeAbsolute } from "@akasha/pages-system/repo-path"
 
 export function dirOf(absolute: string): string {
   return absolute.slice(0, absolute.lastIndexOf("/"))

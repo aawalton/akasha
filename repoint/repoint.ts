@@ -2,9 +2,9 @@ import { existsSync, readFileSync } from "node:fs"
 import { isGeneratedFile } from "../generated-file/generated-file.ts"
 import { judge, type Outcome, over, skip } from "@akasha/verdict/outcome"
 import { fileStemOf } from "@akasha/file-page-identity"
-import type { Roots } from "../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { trackedIn } from "../page/tracked/tracked.ts"
-import { canonicalize, normalizeAbsolute } from "../repo/path/path.ts"
+import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import {
   isAddressable,
   isDirty,
@@ -12,7 +12,7 @@ import {
   REPOS,
   targetRepo,
   targetRoot,
-} from "../repo/roots/roots.ts"
+} from "@akasha/pages-system/checkout-roots"
 import { decodeUtf8 } from "../utf8-body/utf8-body.ts"
 import { dirOf, relativeBetween, resolves } from "./between.ts"
 import { type Held, heldIn, namesMoved } from "./held.ts"

@@ -6,7 +6,7 @@ import { registryOf } from "../../page/property/registry.ts"
 import { fileTreeOf } from "../page/page-file-tree.ts"
 import { claimant, pagesOf, reposOf, type PageType } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
-import { pageStemOf } from "../../page/name/name"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import {
   bearersFor,
   relationsOn,
@@ -16,7 +16,7 @@ import {
   type Reading,
   type Want,
 } from "../../page/relation/relation.ts"
-import { isAddressable, isDirty, targetRepo, targetRoot } from "../../repo/roots/roots"
+import { isAddressable, isDirty, targetRepo, targetRoot } from "@akasha/pages-system/checkout-roots"
 
 const NAME = "relations-resolve"
 

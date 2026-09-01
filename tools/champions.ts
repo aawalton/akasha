@@ -6,8 +6,8 @@ export const tool = {
 import { answersForPath, pathRecord } from "./lib/champions-path.ts"
 import { type Filed, type Held, readRoster, type Roster } from "./lib/champions-roster.ts"
 import { type DomainRow, championTree, treeLines, treeRecord } from "./lib/champions-tree.ts"
-import { outOfBounds } from "../repo/path/path.ts"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots.ts"
+import { outOfBounds } from "@akasha/pages-system/repo-path"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const SUBJECT_KEY = "slug"
 

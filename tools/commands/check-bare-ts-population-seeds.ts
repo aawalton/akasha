@@ -19,8 +19,8 @@ import { exitOnResult, exitOnToolError } from "../lib/check-workflow/violation-r
 import { codeRoot } from "../lib/code-root.ts"
 import { parseArgs } from "../lib/parse-args.ts"
 import { repoFilesAt } from "../lib/repo-files-at.ts"
-import { canonicalize, normalizeAbsolute } from "../../repo/path/path"
-import { ownRepoRoot } from "../../repo/roots/roots"
+import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 
 const CODE_ROOT_FLAG: HelpFlag = {
   name: "--code-root",

@@ -2,7 +2,7 @@ import { type Deriver, type Relation } from "./page-derive-shape.ts"
 import { type Values } from "./page-file-values.ts"
 import { deriverFor } from "./deriver-hold.ts"
 import { listOf, textOf } from "./page-query-values.ts"
-import { type Roots } from "../../page/page.ts"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
 
 export interface Named {
   readonly pageType: string

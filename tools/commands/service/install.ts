@@ -5,7 +5,7 @@ export const summary =
 import { lstatSync, readdirSync, realpathSync } from "node:fs"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { AKASHA, akashaRoot, resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import {
   applyToCluster,
   planClusterReach,

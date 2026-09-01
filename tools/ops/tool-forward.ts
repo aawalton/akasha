@@ -2,8 +2,8 @@
 import { spawn } from "node:child_process"
 import { existsSync } from "node:fs"
 import { operationalError } from "../lib/exit.ts"
-import { type Repo as Addressable } from "../../page/document/types"
-import { akashaRoot } from "../../repo/roots/roots.ts"
+import { type Repo as Addressable } from "@akasha/pages-system/markdown-document"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import type { CommandHelp } from "./surface.ts"
 
 const HELP_TIMEOUT_MS = 10_000

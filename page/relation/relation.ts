@@ -4,7 +4,7 @@ import { compiledPageTypeFor } from "../property/frontmatter.ts"
 import type { Property } from "../property/property.ts"
 import { type PageType } from "../page-types.ts"
 import { NONE, blockOf, stringAt } from "../text/text.ts"
-import { pageStemOf } from "../name/name.ts"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import { addressOf } from "../page-address.ts"
 
 const POINTS = /\brelation(-(?:slug|seq|id|name|address))?\b/

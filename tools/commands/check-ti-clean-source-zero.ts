@@ -18,7 +18,7 @@ import {
 import { exitOnResult, exitOnToolError } from "../lib/check-workflow/violation-reporter.ts"
 import { codeRoot } from "../lib/code-root.ts"
 import { parseArgs } from "../lib/parse-args.ts"
-import { canonicalize, normalizeAbsolute } from "../../repo/path/path"
+import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import type { CommandHelp, HelpFlag } from "../ops/surface.ts"
 
 const PREFIX = "[ti-clean-source-zero]"

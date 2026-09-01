@@ -1,4 +1,4 @@
-import type { Block, Document, Inline, ListItem, Refusal, Section, Span, Verdict } from "./types.ts"
+import type { Block, Document, Inline, ListItem, Refusal, Section, Span, Verdict } from "@akasha/pages-system/markdown-document"
 import type {
   BlockPart, Cardinality, Choice, CompiledShape, ContentRule, KeyPart, ListPart, PartDef,
   ProsePart, SectionPart,

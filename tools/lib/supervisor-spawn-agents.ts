@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { akashaRoot } from "../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { shape } from "./shape.ts"
 
 const LOG = "[spawn-agents]"

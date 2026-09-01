@@ -4,7 +4,7 @@ import { inputError } from "../../lib/exit.ts"
 import { answerNamed, namedQuery, queryNames } from "../../lib/page-query.ts"
 import { absentSays, type Given, isRefused } from "../../lib/page-query-bind"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {

@@ -1,6 +1,6 @@
 import { readdirSync } from "node:fs"
-import type { Roots } from "../../page/page.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { landInAkasha } from "./akasha-landing.ts"
 import { type Outcome } from "./gated-write.ts"
 

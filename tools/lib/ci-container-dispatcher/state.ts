@@ -1,5 +1,5 @@
 import { patchPage, patchState } from "../page-write.ts"
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { takeStepIfStatus } from "../take-step-status.ts"
 import { DISPATCHING } from "./candidates.ts"
 

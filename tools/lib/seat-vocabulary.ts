@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { personasStanding } from "./akasha-personas.ts"
 import { DOMAIN_SLUG_KEY } from "./domain.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { isDirty } from "../../repo/roots/roots.ts"
+import { isDirty } from "@akasha/pages-system/checkout-roots"
 
 const SLOTS = ["persona", "domain"] as const
 

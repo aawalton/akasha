@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
-import { outOfBounds } from "../../repo/path/path.ts"
-import { locate, rootsHere } from "../../repo/roots/roots.ts"
+import { outOfBounds } from "@akasha/pages-system/repo-path"
+import { locate, rootsHere } from "@akasha/pages-system/checkout-roots"
 import { fail, valueOf } from "../../patches/patch.ts"
 
 const REPO = "--repo"

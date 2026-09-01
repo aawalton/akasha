@@ -1,7 +1,7 @@
 import type { HelpFlag } from "../../ops/surface.ts"
 import { codeRoot } from "../code-root.ts"
-import { canonicalize, normalizeAbsolute } from "../../../repo/path/path"
-import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export interface SurfaceRoots {
   readonly akashaRoot: string

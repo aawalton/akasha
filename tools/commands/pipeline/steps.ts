@@ -9,7 +9,7 @@ import {
   optionalString,
 } from "../../lib/pipeline-pages/read.ts"
 import { computeDurationMs, formatStepRow } from "../../lib/pipeline-report/steps-format.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 export const help: CommandHelp = {
   flags: [

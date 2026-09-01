@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { existsSync, readdirSync, rmdirSync, rmSync, statSync } from "node:fs"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const HELP = `bun services/sweep-page-answers.ts — delete every kept page answer older than a day
 

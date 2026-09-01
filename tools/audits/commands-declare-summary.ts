@@ -1,4 +1,4 @@
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Check } from "../lib/check.ts"
 import { judge, over } from "@akasha/verdict/outcome"
 import { refusalText } from "../../refusal/refusal.ts"

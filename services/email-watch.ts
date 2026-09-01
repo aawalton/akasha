@@ -3,7 +3,7 @@
 import { mailbox } from "../tools/lib/gmail.ts"
 import { recordToAgent } from "../tools/lib/agent-record.ts"
 import { markTold, onePass, untoldClaims } from "../tools/lib/email-worker.ts"
-import { akashaRoot } from "../repo/roots/roots"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const PERSON = process.env.EMAIL_WORKER_PERSON ?? "alan"
 const HANDLER = process.env.EMAIL_WORKER_HANDLER ?? PERSON

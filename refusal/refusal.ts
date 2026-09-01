@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { HOLE } from "../page/document/holes.ts"
 import { pageRelIn, placeDirOf } from "../page/page-types.ts"
-import { AKASHA, rootFor, rootsHere } from "../repo/roots/roots.ts"
+import { AKASHA, rootFor, rootsHere } from "@akasha/pages-system/checkout-roots"
 
 const REFUSAL_TYPE = "refusal"
 

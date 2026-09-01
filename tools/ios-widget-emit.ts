@@ -12,7 +12,7 @@ import {
   ringWidgetSwift,
   type ResolvedWidget,
 } from "./lib/ios-widget-swift.ts"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 function fail(message: string): never {
   process.stderr.write(`error: ${message}\n`)

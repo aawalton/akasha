@@ -1,4 +1,4 @@
-import { normalizeAbsolute } from "../repo/path/path.ts"
+import { normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import { dirOf, relativeBetween } from "./between.ts"
 import type { Held } from "./held.ts"
 import type { Patch } from "./mention.ts"

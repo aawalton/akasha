@@ -35,7 +35,7 @@ import {
 import type { ClusterService } from "../../../deploy-system/service/service.ts"
 import { everyService, serviceNamed } from "../../../deploy-system/service/service.ts"
 import { fail } from "../../../patches/patch.ts"
-import { akashaRoot } from "../../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { rejectUnknownFlags } from "../address.ts"
 
 const LIST = "--list"

@@ -1,4 +1,4 @@
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import type { Check } from "../lib/check.ts"
 import { hooksFrom, hooksMerged } from "../lib/akasha-hooks.ts"

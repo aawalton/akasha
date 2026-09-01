@@ -9,7 +9,7 @@ import { handlerDerives, personaIsHers, refuseAnswering } from "./lib/seat-answe
 import { defaultFor, defaultSlots, type Found, resolveAttributes, scan } from "./lib/seat-resolve.ts"
 import { defaultLines } from "./lib/seat-defaults.ts"
 import { seatId } from "./lib/read-record.ts"
-import { AKASHA, akashaRoot, resolveRoots, rootFor } from "../repo/roots/roots.ts"
+import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { composeSeatName, personPrincipals } from "./lib/compose-seat-name.ts"
 import { composedNameOf, followName } from "./lib/seat-rename.ts"
 import { nameStanding } from "./lib/seat-name-stands.ts"

@@ -1,5 +1,5 @@
 import { readdirSync } from "node:fs"
-import { PAGE_EXTENSION, pageNameOf } from "./name/name.ts"
+import { PAGE_EXTENSION, pageNameOf } from "@akasha/pages-system/markdown-page-name"
 
 export const MARKDOWN = `.${PAGE_EXTENSION}`
 

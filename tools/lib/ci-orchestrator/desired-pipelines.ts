@@ -1,4 +1,4 @@
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { rowsOf, seqIn, textIn } from "./pages.ts"
 import {
   NON_TERMINAL_PIPELINE_STATUSES,

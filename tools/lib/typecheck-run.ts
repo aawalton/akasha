@@ -1,7 +1,7 @@
 import { existsSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { refusalText } from "../../refusal/refusal.ts"
-import { AKASHA, resolveRoots, rootFor, VENDOR_ROOT } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor, VENDOR_ROOT } from "@akasha/pages-system/checkout-roots"
 import { link } from "./sibling-link.ts"
 
 const TSCONFIG = "tsconfig.json"

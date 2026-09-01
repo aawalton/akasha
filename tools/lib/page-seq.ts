@@ -3,7 +3,7 @@ import { accessSync, constants, existsSync, mkdtempSync, readFileSync, rmSync, w
 import { join } from "node:path"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { toolArgv } from "./tool-argv.ts"
 
 const OUTPUT_CEILING = 64 * 1024 * 1024

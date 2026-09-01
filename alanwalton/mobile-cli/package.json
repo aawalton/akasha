@@ -4,11 +4,11 @@
   "dependencies": {
     "@akasha/code-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
-    "@repo/roots": "workspace:*",
     "@tools/lib": "workspace:*",
     "zod": "^4.3.6"
   },

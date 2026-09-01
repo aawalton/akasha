@@ -1,5 +1,5 @@
 
-import type { Block, Document, HeadingLevel, Inline, ListItem, Position, Row, Section, Span } from "./types.ts"
+import type { Block, Document, HeadingLevel, Inline, ListItem, Position, Row, Section, Span } from "@akasha/pages-system/markdown-document"
 import { frontmatter } from "./frontmatter.ts"
 import { inlines } from "./inline.ts"
 import { indentOf, locate, reach, Source, type Segment } from "./position.ts"

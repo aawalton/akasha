@@ -1,7 +1,7 @@
 
 import { SEAT_COMMAND_REL } from "../aw/init/state-seat.ts"
 import { ASSIGNMENTS, ATTRIBUTES } from "./attributes.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { type SeatCall, callSeatAt, seatCallIn } from "./supervisor-seat-defaults.ts"
 
 export interface StatedIdentity {

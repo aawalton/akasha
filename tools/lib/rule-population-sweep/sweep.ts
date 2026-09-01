@@ -5,7 +5,7 @@ import {
   BLIND_SPOTS,
   gatherRulePopulations,
 } from "../../../infra/cluster-checks/src/audits/rule-population.ts"
-import { akashaRoot } from "../../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 export const LOG = "[rule-population-sweep]"
 

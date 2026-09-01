@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { realpathSync } from "node:fs"
-import { AKASHA, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
 import { examineFilePopulation, examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"

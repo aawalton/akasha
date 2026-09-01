@@ -2,7 +2,7 @@ export const summary = "Rewrite the System cards on archived Tower chapter pages
 
 import { readFile } from "node:fs/promises"
 import { parseTowerState } from "@akasha/tower-core/tower-state"
-import { pageStemOf } from "../../../page/name/name"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import {
   createProgressionState,
   extractSystemCards,
@@ -15,7 +15,7 @@ import { parseArgs } from "../../lib/parse-args.ts"
 import { answer } from "../../lib/page-query.ts"
 import { textOf } from "../../lib/page-query-values.ts"
 import { patchPage } from "../../lib/page-write.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const CHAPTER_PAGE_TYPE = "story-chapter-played"
 const BY = "tower-retrofit-system-cards"

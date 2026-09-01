@@ -1,4 +1,4 @@
-import type { Repo } from "../../../page/document/types.ts"
+import type { Repo } from "@akasha/pages-system/markdown-document"
 
 export type NodeId = string
 

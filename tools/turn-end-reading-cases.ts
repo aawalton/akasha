@@ -7,7 +7,7 @@ import { readFileSync, readdirSync } from "node:fs"
 import { fileStemOf } from "@akasha/file-page-identity"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { LOGICAL_MODELS, type LogicalModel } from "./lib/model-vocab.ts"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { conductIn } from "./lib/turn-end-reading-conduct.ts"
 import { DEFAULT_READING_MODEL, labelSettled, readingOn } from "./lib/turn-end-reading.ts"
 

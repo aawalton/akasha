@@ -3,7 +3,7 @@ import { buildContainerPayload } from "./container-manifest.ts"
 import { STEP_LABEL_KEY } from "./container-name.ts"
 import { type Admitted, recordAdmissions } from "./reservations.ts"
 import { takeToLaunching } from "./state.ts"
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { type Admission, type ContainerPayload, isRecord, type Ledger } from "./types.ts"
 
 const TERMINAL_PHASES: ReadonlySet<string> = new Set(["Succeeded", "Failed"])

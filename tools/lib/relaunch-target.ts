@@ -1,4 +1,4 @@
-import { resolveRoots } from "../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { frontmatterFromHistory, nameFromHistory } from "./seat-page-history.ts"
 import { pageValuesOf } from "./seat-page-values.ts"
 import { agentPresence } from "./seat-presence-read.ts"

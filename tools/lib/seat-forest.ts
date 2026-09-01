@@ -1,4 +1,4 @@
-import { resolveRoots } from "../../repo/roots/roots.ts"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { akashaHolderProcessOf, akashaSeatIdForName } from "./seat-akasha-beside.ts"
 import { akashaSeatsStated, akashaSeatValuesOf } from "./seat-akasha-read.ts"
 import { pageFromHistory } from "./seat-page-history.ts"

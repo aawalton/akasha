@@ -1,8 +1,8 @@
 import { onceInCall } from "@akasha/command-system/during-call"
 import { repoPlacings, scanSpanning } from "./page-types.ts"
 import { textAt } from "./text/text.ts"
-import { AKASHA, REPOS, rootFor } from "../repo/roots/roots.ts"
-import type { Roots } from "./page.ts"
+import { AKASHA, REPOS, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export type Open = (relPath: string) => string | null
 

@@ -1,5 +1,5 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
-import { canonicalize } from "../../repo/path/path"
+import { canonicalize } from "@akasha/pages-system/repo-path"
 
 const GITDIR_PREFIX = "gitdir:"
 

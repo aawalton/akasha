@@ -1,6 +1,6 @@
 
-import { type Repo as Addressable } from "../../page/document/types"
-import { isAddressable } from "../../repo/roots/roots"
+import { type Repo as Addressable } from "@akasha/pages-system/markdown-document"
+import { isAddressable } from "@akasha/pages-system/checkout-roots"
 
 const DECLARED =
   /^export const tool = \{\n  summary: (".*"),\n  repos: (\[.*\]),\n(  collapsed: true,\n)?\} as const$/m

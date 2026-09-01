@@ -2,7 +2,7 @@
 export const summary = "Start one workstation service by the name its document carries"
 
 import { parseArgs } from "../../lib/parse-args.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { systemctlIn } from "../../lib/service-install.ts"
 import { serviceNamed } from "../../lib/service-project.ts"
 import { installedUnitName, isScheduled } from "../../lib/service-unit.ts"

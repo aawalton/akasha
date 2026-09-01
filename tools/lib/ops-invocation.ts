@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { akashaPathFor } from "../ops/akasha.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const COMMAND_DIR = "/tools/commands/"
 

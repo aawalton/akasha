@@ -3,7 +3,7 @@ import { diskFileTree, type FileTree } from "../../../page/file-tree.ts"
 import { parseFrontmatter } from "../../../page/frontmatter.ts"
 import { claimant, type PageType, placeDirOf } from "../../../page/page-types.ts"
 import { registryOf } from "../../../page/property/registry.ts"
-import { rootsHere } from "../../../repo/roots/roots.ts"
+import { rootsHere } from "@akasha/pages-system/checkout-roots"
 import { idOfFilePage } from "@akasha/file-page-identity"
 
 const ID_KEY = "id"

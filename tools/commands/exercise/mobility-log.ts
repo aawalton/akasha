@@ -7,7 +7,7 @@ import { z } from "zod"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { getEsoDayStr } from "../../lib/eso-day.ts"
 import { writePage } from "../../lib/page-write.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { parseArgs } from "../../lib/parse-args.ts"
 import {
   MOBILITY_CONTEXT_OPTIONS,

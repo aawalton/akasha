@@ -2,7 +2,7 @@ import { answer } from "./page-query.ts"
 import { type Row } from "./page-derive-shape.ts"
 import { textOf } from "./page-query-values.ts"
 import { patchPage } from "./page-write.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const POLICY = "selection-policy"
 

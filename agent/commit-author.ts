@@ -1,7 +1,7 @@
 import { diskFileTree } from "../page/file-tree.ts"
 import { compiledPageTypeFor } from "../page/property/frontmatter.ts"
 import { registryOf } from "../page/property/registry.ts"
-import { ownRepoRoot, rootsHere } from "../repo/roots/roots.ts"
+import { ownRepoRoot, rootsHere } from "@akasha/pages-system/checkout-roots"
 import { displayNameOf, personaAt } from "../tools/lib/akasha-personas.ts"
 import { pageTextOf } from "../tools/lib/seat-page-values.ts"
 import { writerId } from "./writer.ts"

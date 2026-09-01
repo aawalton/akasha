@@ -12,7 +12,7 @@ import {
   TICK_MS,
 } from "../tools/lib/ci-container-reaper/tick.ts"
 import { WEDGE_EXIT_CODE } from "../tools/lib/ci-container-reaper/wedge.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const HELP = `bun services/ci-container-reaper.ts — clear finished step containers off the cluster
 

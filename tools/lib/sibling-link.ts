@@ -1,5 +1,5 @@
 import { existsSync, lstatSync, realpathSync, rmSync, symlinkSync } from "node:fs"
-import { resolveRoots, AKASHA as SIBLING } from "../../repo/roots/roots"
+import { resolveRoots, AKASHA as SIBLING } from "@akasha/pages-system/checkout-roots"
 
 function standsAt(at: string): boolean {
   try {

@@ -6,7 +6,7 @@ import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { ownTypeScript } from "../lib/own-typescript.ts"
 import { REFUSAL_DIR, refusalText } from "../../refusal/refusal.ts"
 import { judge, over } from "@akasha/verdict/outcome"
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { fileStemOf } from "@akasha/file-page-identity"
 
 const NAME = "refusals-bound"

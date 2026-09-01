@@ -1,4 +1,4 @@
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { readFileSync, existsSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import type { AsyncCheck } from "../lib/check.ts"

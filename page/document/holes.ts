@@ -1,5 +1,5 @@
 
-import type { Document, FrontmatterValue, Inline, ListItem, Section, Span } from "./types.ts"
+import type { Document, FrontmatterValue, Inline, ListItem, Section, Span } from "@akasha/pages-system/markdown-document"
 
 export const HOLES_KEY = "holes"
 

@@ -1,4 +1,4 @@
-import type { Inline, Mark } from "./types.ts"
+import type { Inline, Mark } from "@akasha/pages-system/markdown-document"
 import type { ContentRule, TemplateSlot } from "./shape-types.ts"
 import { checkScalar, describe, type Fault } from "./value.ts"
 

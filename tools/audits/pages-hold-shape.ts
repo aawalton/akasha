@@ -6,7 +6,7 @@ import { hold, type Shape } from "../../page/shape/shape.ts"
 import { partOutsideShape } from "../../page/shape/words.ts"
 import { aboveOf, shapeFor } from "../../page/shape/chain.ts"
 import { claimant, PAGE_TYPE_GLOBS, placesIn, reposOf, scanIn, type PageType } from "../../page/page-types.ts"
-import { isDirty, rootFor } from "../../repo/roots/roots.ts"
+import { isDirty, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const NAME = "pages-hold-shape"
 const UNIT = "claimed page(s)"

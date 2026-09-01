@@ -1,5 +1,5 @@
 import { refusalText } from "../../refusal/refusal.ts"
-import { canonicalize } from "../../repo/path/path"
+import { canonicalize } from "@akasha/pages-system/repo-path"
 
 export const KEY_FIELDS = ["shell", "command", "args", "if"] as const
 

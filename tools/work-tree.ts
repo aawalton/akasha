@@ -6,7 +6,7 @@ export const tool = {
 import { type Drawn, type Initiatives, type Node, workTree, render, walk } from "./lib/work-tree.ts"
 import { initiativesDrawn } from "../akasha/editor-extension/work-initiatives/work-initiatives.module.code.ts"
 import { drawnNow } from "./lib/work-tree-drawn.ts"
-import { akashaRoot } from "../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 function initiativesIn(repo: string): Initiatives {
   return {

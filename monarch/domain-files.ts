@@ -2,7 +2,7 @@ import { readFile } from "node:fs/promises"
 import { newPageNameFor } from "../page/page-types.ts"
 import { registryOf } from "../page/property/registry.ts"
 import { diskFileTree } from "../page/file-tree.ts"
-import { resolveRoots } from "../repo/roots/roots.ts"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { join } from "node:path"
 import type { MonarchAccount, MonarchCategory, MonarchHolding, MonarchTag } from "./client.ts"
 import {

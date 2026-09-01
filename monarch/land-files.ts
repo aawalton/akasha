@@ -8,7 +8,7 @@ import type { MonarchTransaction } from "./client.ts"
 import { accountPages, categoryPages, keyOf, monthOf, monthSlugs, sidecarOf, tagPages } from "./files.ts"
 import type { TransactionLine } from "./files.ts"
 import { AKASHA, monthPagePath } from "./files.ts"
-import { AKASHA as AKASHA_REPO } from "../repo/roots/roots"
+import { AKASHA as AKASHA_REPO } from "@akasha/pages-system/checkout-roots"
 
 const MONTH_NAMES = [
   "January", "February", "March", "April", "May", "June",

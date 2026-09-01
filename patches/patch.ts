@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { akashaRoot } from "../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 export const HERE = realpathSync(akashaRoot())
 

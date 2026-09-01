@@ -1,9 +1,9 @@
 
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { ATTRIBUTES, type Attributes, type Claimant, type Mode } from "./attributes.ts"
 import { FLEET } from "./compose-seat-name.ts"
 import { type Documents, declaredPathReading, requiredReadingClosure } from "./domain.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { SeatDocument } from "./seat-attribute.ts"
 import { personaAt } from "./akasha-personas.ts"
 import { initiativePlaceOf } from "./seat-initiative.ts"

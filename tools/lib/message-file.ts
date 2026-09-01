@@ -10,7 +10,7 @@ import {
 import { dirname, join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { MARKDOWN } from "../../page/page-file.ts"
-import { AKASHA, akashaRoot } from "../../repo/roots/roots.ts"
+import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { toolArgv } from "./tool-argv.ts"
 import { patchUncommitted, readUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { placeDirOf } from "../../page/page-types.ts"

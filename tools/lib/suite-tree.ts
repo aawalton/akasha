@@ -2,7 +2,7 @@ import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readdirSync, rmSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { linkModulesInto, workspacesDeclaredIn } from "./main-pipeline-creator/sha-pinned-tree.ts"
-import { REPOS, resolveRoots, rootEnvName, AKASHA as SIBLING } from "../../repo/roots/roots"
+import { REPOS, resolveRoots, rootEnvName, AKASHA as SIBLING } from "@akasha/pages-system/checkout-roots"
 import { linkSibling } from "./sibling-link.ts"
 
 export const SUITE_TREES_ROOT = "/var/tmp/suite-trees"

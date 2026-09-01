@@ -1,4 +1,4 @@
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { onceInCall } from "@akasha/command-system/during-call"
 import { rootsKey } from "../../page/file-tree.ts"
 import type { Held } from "./page-file-values.ts"
@@ -14,8 +14,8 @@ import {
 } from "../../page/page-types.ts"
 import { indexReaches, loadPages } from "../../page/index/store/store.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
-import { pageStemOf } from "../../page/name/name.ts"
-import type { Roots } from "../../page/page.ts"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export const FROM = "from"
 

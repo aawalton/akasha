@@ -4,8 +4,8 @@ import {
   mergeUncommitted,
   removeUncommitted as removeAkasha,
 } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
-import { PAGE_EXTENSION, pageStemOf } from "../../page/name/name.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { PAGE_EXTENSION, pageStemOf } from "@akasha/pages-system/markdown-page-name"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { type Beside, CARRIED, type Kind, RECORDS } from "./seat-akasha-beside.ts"
 import { akashaSeatRelPath } from "./seat-page-akasha.ts"
 

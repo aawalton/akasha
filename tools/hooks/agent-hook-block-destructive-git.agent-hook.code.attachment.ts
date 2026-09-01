@@ -1,8 +1,8 @@
 import { segmentsOf, wordsOf } from "../lib/command-segments.ts"
 import { toolInputText } from "../lib/hook-command.ts"
 import { refusalText } from "../../refusal/refusal.ts"
-import { canonicalize } from "../../repo/path/path"
-import { ownRepoRoot } from "../../repo/roots/roots"
+import { canonicalize } from "@akasha/pages-system/repo-path"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 
 const HOOK_NAME = "block-destructive-git"
 

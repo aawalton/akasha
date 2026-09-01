@@ -4,7 +4,7 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
-import { resolveRoots } from "../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import {
   LOG,
   runBoundedMainPipelineCreatorTick,

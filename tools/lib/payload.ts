@@ -1,15 +1,15 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import type { Repo } from "../../page/document/types.ts"
-import { type Repo as Addressable } from "../../page/document/types"
-import { type Roots } from "../../page/page"
+import type { Repo } from "@akasha/pages-system/markdown-document"
+import { type Repo as Addressable } from "@akasha/pages-system/markdown-document"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
 import {
   AKASHA,
   ADDRESSABLE_NAMED,
   isAddressable,
   locate,
   resolveRoots,
-} from "../../repo/roots/roots"
+} from "@akasha/pages-system/checkout-roots"
 import { fail } from "./command.ts"
 import { decodeUtf8 } from "../../utf8-body/utf8-body.ts"
 import { notUtf8 } from "./utf8-body.ts"

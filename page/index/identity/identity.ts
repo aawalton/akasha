@@ -1,6 +1,6 @@
 import { linkTargetsFrom } from "../link/link.ts"
 import type { Frontmatter } from "../../frontmatter.ts"
-import type { PageAt, Roots } from "../../page.ts"
+import type { PageAt, Roots } from "@akasha/pages-system/markdown-page-at"
 import { pagesIn } from "../../tracked/tracked.ts"
 import { blockOf, NONE, stringAt, textAt } from "../../text/text.ts"
 

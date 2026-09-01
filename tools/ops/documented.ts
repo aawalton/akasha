@@ -1,7 +1,7 @@
 
 import { readdirSync, readFileSync } from "node:fs"
 import { placeDirOf } from "../../page/page-types.ts"
-import { akashaRoot } from "../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import type { CommandDocument } from "./surface.ts"
 import { sectionNamed, trimEdges } from "../lib/section.ts"
 

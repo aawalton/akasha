@@ -1,7 +1,7 @@
 export const summary = "Ripgrep over one repository or all of them"
 
 import { spawn } from "node:child_process"
-import { resolveRoots } from "../../../repo/roots/roots.ts"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { SEARCH_HELP } from "../../../agent/search-help.ts"
 import {
   admits,

@@ -2,7 +2,7 @@ import { relative } from "node:path"
 import { NAMESPACE_NAMES } from "@infra/k8s/app-namespaces/synth"
 import { discoverSynthFiles, loadSynthOutputs } from "@infra/k8s-synth/manifests"
 import { parseAllDocuments } from "yaml"
-import { akashaRoot } from "../../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { AUDITED_KINDS, type LiveResource, listLive } from "./cluster.ts"
 
 export const MANAGED_BY_A_DEPLOY: ReadonlySet<string> = new Set(["deploy-script", "bootstrap"])

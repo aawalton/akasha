@@ -13,7 +13,7 @@ import {
   PROPERTIES_FILE_WRONG_KEY,
   scanPropertiesFileKeySpace,
 } from "../lib/properties-file-key-space.ts"
-import { ownRepoRoot } from "../../../../repo/roots/roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 

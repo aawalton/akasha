@@ -5,9 +5,9 @@ import { chainOf } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { pagesOf, reposOf, type PageType } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
-import { pageStemOf } from "../../page/name/name.ts"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import { bearersFor, relationsOn, unread, unresolvable, wantsOf, type Reading } from "../../page/relation/relation.ts"
-import { isAddressable, isDirty } from "../../repo/roots/roots.ts"
+import { isAddressable, isDirty } from "@akasha/pages-system/checkout-roots"
 
 const NAME = "relations-resolve"
 

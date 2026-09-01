@@ -10,7 +10,7 @@ import {
   TICK_CEILING_MS,
   TICK_MS,
 } from "../tools/lib/ci-orchestrator/tick.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const HELP = `bun services/ci-orchestrator.ts — the standing driver over every live pipeline
 

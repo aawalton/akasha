@@ -1,4 +1,4 @@
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { seatNameForAgent } from "./seat-presence-read.ts"
 import {
   akashaSubagentPathsOf,

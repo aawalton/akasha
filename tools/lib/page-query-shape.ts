@@ -6,7 +6,7 @@ import type { Values } from "./page-file-values.ts"
 import { camelizeKey } from "../page/page-naming.ts"
 import { idOfFilePage } from "@akasha/file-page-identity"
 import { slugNamed } from "../../page/page-address.ts"
-import type { Roots } from "../../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 const PAGE_TYPE = "page-type"
 

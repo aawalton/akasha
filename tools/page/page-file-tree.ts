@@ -2,7 +2,7 @@ import { onceInCall } from "@akasha/command-system/during-call"
 import { type Subject, textOf } from "../lib/gate.ts"
 import type { FileTree } from "../../page/file-tree.ts"
 import { placeDirOf, repoPlacings, scanIn } from "../../page/page-types.ts"
-import { AKASHA, rootFor, targetRepo } from "../../repo/roots/roots"
+import { AKASHA, rootFor, targetRepo } from "@akasha/pages-system/checkout-roots"
 
 export function fileTreeOf(subject: Subject): FileTree {
   const pending = [...subject.pending].sort().join("\n")

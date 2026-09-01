@@ -1,8 +1,8 @@
 
 import { requiredReadingWhole } from "../required-reading.ts"
 import type { Champion } from "./domain.ts"
-import { type Roots } from "../../page/page"
-import { AKASHA, isDirty, rootFor } from "../../repo/roots/roots"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { AKASHA, isDirty, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export interface Descent {
   readonly slugAt: ReadonlyMap<string, string>

@@ -7,7 +7,7 @@ import { parseArgs } from "../../lib/parse-args.ts"
 import { deriver } from "../../lib/page-derive.ts"
 import { patchPage } from "../../lib/page-write.ts"
 import { type Value } from "../../lib/page-write-values.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const ARTIST = "artist"
 

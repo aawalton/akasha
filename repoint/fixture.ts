@@ -1,7 +1,7 @@
 import { cpSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
-import type { Roots } from "../page/page.ts"
-import { AKASHA, ownRepoRoot, REPOS } from "../repo/roots/roots.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { AKASHA, ownRepoRoot, REPOS } from "@akasha/pages-system/checkout-roots"
 import { type Moves, surveyRename } from "./repoint.ts"
 
 const SCRATCH = "/var/tmp"

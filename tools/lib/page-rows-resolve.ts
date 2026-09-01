@@ -3,7 +3,7 @@ import { type FileTree, diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { type RowsHome, rowsHomesFor } from "../page/page-rows-home.ts"
 import { whereFor } from "./page-write-where.ts"
-import type { Roots } from "../../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 const NONE = "none"
 

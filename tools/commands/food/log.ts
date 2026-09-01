@@ -9,7 +9,7 @@ import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "../../lib/object-
 import { imageObjectKey } from "../../lib/object-store-keys"
 import { askComposed, pageLanding, patchPage } from "../../lib/page-query-client.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { wakeDayOf } from "../../lib/wake-day.ts"
 
 export const help: CommandHelp = {

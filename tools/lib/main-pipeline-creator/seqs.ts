@@ -1,6 +1,6 @@
 import { pageTypePathIn } from "../../../page/page-types.ts"
 import { type SeqSource } from "../page-seq.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const pageTypeAt = (slug: string): string => pageTypePathIn(rootFor(resolveRoots(), AKASHA), slug)
 

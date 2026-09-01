@@ -1,5 +1,5 @@
-import type { Roots } from "../../../page/page.ts"
-import { AKASHA, rootFor } from "../../../repo/roots/roots.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import { servedTip, TRANSPORT } from "../served-tip.ts"
 import { reachCreatorCode } from "./code.ts"
 import { createPipelineTree } from "./create.ts"

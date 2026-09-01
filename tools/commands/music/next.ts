@@ -7,7 +7,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { answerNamed } from "../../lib/page-query.ts"
 import { type Row } from "../../lib/page-derive-shape.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const ARTISTS = "artists-all"
 

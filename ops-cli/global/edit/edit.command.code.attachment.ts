@@ -7,7 +7,7 @@ import { land, LandingRefused, type Landing } from "../../../repo/land/land.ts"
 import { landOutside, type Loose } from "../../../repo/land/outside.ts"
 import { applyPairs, parsePairs } from "../../../patches/edit-pairs.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
-import { AKASHA } from "../../../repo/roots/roots.ts"
+import { AKASHA } from "@akasha/pages-system/checkout-roots"
 import { fail, payloadText, valueOf } from "../../../patches/patch.ts"
 
 const INPUT_FILE = "--input-file"

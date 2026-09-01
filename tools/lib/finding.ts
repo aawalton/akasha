@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import type { Repo } from "../../page/document/types.ts"
+import type { Repo } from "@akasha/pages-system/markdown-document"
 import { dataError } from "./exit.ts"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { MARKDOWN, pageFileIn } from "../../page/page-file.ts"

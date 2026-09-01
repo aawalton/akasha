@@ -13,7 +13,7 @@ import { absentSays, bind, composedFrom, isRefused } from "./page-query-bind.ts"
 import { pagesNaming } from "./page-query-naming.ts"
 import { shapeOf } from "./page-query-shape.ts"
 import { asRecord, givenIn, namedSafely, type Said, said } from "./page-query-request.ts"
-import type { Roots } from "../../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export const READ_ROUTE = /^\/page\/([a-z0-9-]+)\/(.+)$/
 

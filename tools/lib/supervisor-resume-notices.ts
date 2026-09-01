@@ -1,6 +1,6 @@
 
 import { existsSync } from "node:fs"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { shape } from "./shape.ts"
 import { type Infer } from "./shape-core"
 

@@ -4,7 +4,7 @@ import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { type FileTree } from "../../../page/file-tree.ts"
 import { diskFileTree } from "../../../page/file-tree.ts"
 import { asDeclared, typesFor } from "../page-property-types.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { camelizeKey, kebabizeKey } from "../tracking/keys.ts"
 import { type Json, Page } from "./page.ts"
 

@@ -21,8 +21,8 @@ import {
 } from "./lib/page-tree.ts"
 import { diskFileTree } from "../page/file-tree.ts"
 import { registryOf } from "../page/property/registry.ts"
-import { type Roots } from "../page/page.ts"
-import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots.ts"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const HELP = `bun tools/pages.ts — print the page type tree and the property type vocabulary
 

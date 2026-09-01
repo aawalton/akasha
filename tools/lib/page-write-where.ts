@@ -14,9 +14,9 @@ import {
   typeSuffixOf,
 } from "../../page/page-types.ts"
 import { fileStemOf as slugOf } from "@akasha/file-page-identity"
-import { type Roots } from "../../page/page.ts"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
 import { textAt } from "../../page/text/text.ts"
-import { isAddressable } from "../../repo/roots/roots.ts"
+import { isAddressable } from "@akasha/pages-system/checkout-roots"
 
 export interface Where {
   readonly root: string

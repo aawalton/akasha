@@ -13,9 +13,9 @@ import {
   type SizeChange,
   sizeLines,
 } from "../../repo/land/land.ts"
-import { type Roots } from "../../page/page"
-import { canonicalize, normalizeAbsolute, outOfBounds } from "../../repo/path/path"
-import { targetRoot, targetRepo } from "../../repo/roots/roots"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { canonicalize, normalizeAbsolute, outOfBounds } from "@akasha/pages-system/repo-path"
+import { targetRoot, targetRepo } from "@akasha/pages-system/checkout-roots"
 
 
 export function fail(message: string): never {

@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { LOGICAL_MODELS, type LogicalModel } from "./lib/model-vocab.ts"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { CONDUCT_RELATIVE_PATH } from "./lib/turn-end-reading-conduct.ts"
 import {
   DEFAULT_READING_MODEL,

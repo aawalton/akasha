@@ -1,6 +1,6 @@
 import { getEsoDayStr, getEsoDayWindow } from "./eso-day.ts"
 import { deriverFor } from "./deriver-hold.ts"
-import type { Roots } from "../../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export const WAKE_DAY = "wake-day"
 

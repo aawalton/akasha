@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 
-import { ownRepoRoot } from "../../repo/roots/roots.ts"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { shape } from "./shape.ts"
 
 const DECLARED = "settings/tool-access.json"

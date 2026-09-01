@@ -4,8 +4,8 @@ import { carried } from "./page-carry.ts"
 import type { Held, Values } from "./page-file-values.ts"
 import { textAt } from "../../page/text/text.ts"
 import { isMissing } from "@akasha/utils-fs/missing"
-import { type Roots } from "../../page/page.ts"
-import { isAddressable, rootFor } from "../../repo/roots/roots.ts"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { isAddressable, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const NAMING: readonly string[] = ["slug", "id"]
 

@@ -1,4 +1,4 @@
-import { resolveRoots } from "../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { ruleSetOf, globFor, globsOf } from "./rules-engine-rule-set.ts"
 import type { RuleSet } from "./rules-engine.ts"
 

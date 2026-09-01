@@ -15,7 +15,7 @@ import {
 import { exitOnResult, exitOnToolError } from "../lib/check-workflow/violation-reporter.ts"
 import { codeRoot } from "../lib/code-root.ts"
 import { parseArgs } from "../lib/parse-args.ts"
-import { canonicalize, normalizeAbsolute } from "../../repo/path/path"
+import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
 import { addonsResolve } from "../lib/temper-addon-code.ts"
 import type { CommandHelp, HelpFlag } from "../ops/surface.ts"
 

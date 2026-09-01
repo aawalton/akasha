@@ -1,4 +1,4 @@
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { resolveBranchFailures } from "./branch-resolution.ts"
 import { ceilingIn } from "./ceiling.ts"
 import { loadDesiredPipelines } from "./desired-pipelines.ts"

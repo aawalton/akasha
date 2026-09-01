@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { type Landing, landHere } from "../../page/index/build.ts"
-import { pageNameOf } from "../../page/name/name.ts"
+import { pageNameOf } from "@akasha/pages-system/markdown-page-name"
 import type { Holds } from "../../page/index/relation/relation.ts"
 import {
   builtFrom,

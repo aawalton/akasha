@@ -3,7 +3,7 @@ import { keepLastMessagedAt, personaAt } from "./akasha-personas.ts"
 import { matchPersonaForAgent } from "./persona-match.ts"
 import { listPersonaTargets } from "./persona-wake-slugs.ts"
 import { isAlanAuthoredPrompt } from "./prompt-shape.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { seatRecord } from "./seat-facts.ts"
 import { shape } from "./shape.ts"
 

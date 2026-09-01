@@ -11,11 +11,11 @@ import {
 import { dirname, join } from "node:path"
 import { markOf } from "@akasha/file-system/answer-mark"
 import { exclusively } from "@akasha/file-system/exclusive"
-import { canonicalize } from "../../../repo/path/path.ts"
-import { rootBeside } from "../../../repo/roots/roots.ts"
+import { canonicalize } from "@akasha/pages-system/repo-path"
+import { rootBeside } from "@akasha/pages-system/checkout-roots"
 import { oidsUnder } from "../../../repo/oid/oid.ts"
 import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
-import { pageNameOf } from "../../name/name.ts"
+import { pageNameOf } from "@akasha/pages-system/markdown-page-name"
 import {
   type Named,
   type Source,

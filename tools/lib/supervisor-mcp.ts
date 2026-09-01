@@ -8,7 +8,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { computeMcpConfigContent } from "./claude-launch-args.ts"
-import { ownRepoRoot } from "../../repo/roots/roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { planDisableReconcile } from "./mcp-disable-reconcile.ts"
 import {
   getMcpServerRegistry,

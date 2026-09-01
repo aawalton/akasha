@@ -2,8 +2,8 @@ import { existsSync } from "node:fs"
 import { rowAppender, type RowAppender } from "./page-rows-write.ts"
 import { writePage } from "./page-write.ts"
 import { whereFor } from "./page-write-where.ts"
-import { type Roots } from "../../page/page.ts"
-import { resolveRoots } from "../../repo/roots/roots.ts"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const SOURCE_TYPE = "log-source"
 

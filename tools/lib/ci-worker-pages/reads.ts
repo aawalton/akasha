@@ -1,7 +1,7 @@
 import { answer, type Test, UNREACHED } from "../page-query.ts"
 import { type Row } from "../page-derive-shape.ts"
 import { listOf as listIn, textOf as textIn } from "../page-query-values.ts"
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { PIPELINE, STEP } from "../sweep-pipeline-pages/statuses.ts"
 import {
   BRANCH_KEY,

@@ -1,8 +1,8 @@
 import type { Frontmatter } from "../../frontmatter.ts"
 import { NAME_WORD, SLUG_WORD, addressIn } from "../../index/identity/identity.ts"
 import { pagesNamed, sourcesAt } from "../../index/store/store.ts"
-import { pageNameOf } from "../../name/name.ts"
-import type { PageAt } from "../../page.ts"
+import { pageNameOf } from "@akasha/pages-system/markdown-page-name"
+import type { PageAt } from "@akasha/pages-system/markdown-page-at"
 import { blockOf } from "../../text/text.ts"
 
 const PAGE_TYPE = "page-type"

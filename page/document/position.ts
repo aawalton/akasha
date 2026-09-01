@@ -1,5 +1,5 @@
 
-import type { Position, Span } from "./types.ts"
+import type { Position, Span } from "@akasha/pages-system/markdown-document"
 
 export type Source = {
   readonly text: string

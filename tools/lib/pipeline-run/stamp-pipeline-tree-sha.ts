@@ -1,5 +1,5 @@
 import { patchPage } from "../page-write.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { getCommitTreeSha } from "./tree-sha.ts"
 
 const PIPELINE = "pipeline"

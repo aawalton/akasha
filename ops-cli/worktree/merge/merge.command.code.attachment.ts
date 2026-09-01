@@ -5,7 +5,7 @@ import { join } from "node:path"
 import { parseFrontmatter, textField } from "../../../page/frontmatter.ts"
 import { landFiles } from "../../../repo/land/land.ts"
 import { handOffPush } from "../../../repo/push/push.ts"
-import { AKASHA, akashaRoot } from "../../../repo/roots/roots.ts"
+import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
 import {
   fail,
   onOrigin,

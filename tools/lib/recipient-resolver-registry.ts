@@ -1,7 +1,7 @@
 
 import { type CommsRule, type OnDemandAgentSpec } from "./decide-wake-match.ts"
 import { handlerSeatName, identityHeardFrom } from "./compose-seat-name.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import {
   type PersonHandlerIdentity,
   personHandlerSpec,

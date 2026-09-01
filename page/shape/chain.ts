@@ -3,7 +3,7 @@ import { chainOf } from "../property/frontmatter.ts"
 import { shapeOf, type Forebear, type Shape } from "./shape.ts"
 import { globsIn, matchesAny, PAGE_BODY_SHAPE_GLOBS, PAGE_TYPE_GLOBS, pageTypeAt, type PageType } from "../page-types.ts"
 import { NONE, blockOf, stringAt } from "../text/text.ts"
-import { pageStemOf } from "../name/name.ts"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 
 export const BODY_SHAPE_KEY = "body-shape-slug"
 

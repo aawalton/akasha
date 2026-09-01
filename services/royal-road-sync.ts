@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { parseFrontmatter, listField, textField } from "../page/frontmatter.ts"
-import { akashaRoot } from "../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { type GatedAct, type GatedBody, landBodies } from "../tools/lib/gated-landing.ts"
 import { fetchHtml, parseChapterProse, parseFictionPage, royalRoadUrl } from "../tools/lib/royal-road.ts"
 import type { RawChapter } from "../tools/lib/royal-road.ts"

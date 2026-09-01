@@ -1,6 +1,6 @@
 import { spawnSync } from "node:child_process"
 import { relative, resolve } from "node:path"
-import { ownRepoRoot } from "../../../../repo/roots/roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { z } from "zod"
 import { discoverSgconfigs, readAstGrepRules } from "../../../../tools/lib/check-workflow/check-configs-ast-grep"
 import { type AstGrepFinding, type AstGrepViolation, decideRuleOutcome, deriveRulePopulations, duplicateRuleIds, parseWalkedEntities, reconcilePopulations, stripInspectTrace } from "../../../../tools/lib/check-workflow/ast-grep-rules"

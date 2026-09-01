@@ -1,5 +1,5 @@
 import { akashaTreePath, checkoutPath } from "../ci-container-dispatcher/container-name.ts"
-import { rootEnvName } from "../../../repo/roots/roots"
+import { rootEnvName } from "@akasha/pages-system/checkout-roots"
 import { CI_SECRET_NAME, toolchainEnv } from "./pod-spec-helpers.ts"
 import type { RunToCompletionContext, StepConfig } from "./pod-spec-step-config.ts"
 import { type K8sEnvVar, resolveStepEnv, supabaseSecretEnv } from "./secrets.ts"

@@ -8,7 +8,7 @@ import {
 import { SEAT_MODE_HEADLESS } from "./seat-modes.ts"
 import { removeSubagentPagesOf } from "./subagent-page.ts"
 import { resolve } from "node:path"
-import { akashaRoot } from "../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const TMUX_CALL_CEILING_MS = 10_000
 

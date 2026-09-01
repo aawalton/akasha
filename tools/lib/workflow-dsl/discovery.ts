@@ -1,8 +1,8 @@
 import { attachmentPathFor } from "../../../page/attachment-file.ts"
 import { answer } from "../page-query.ts"
-import { type Roots } from "../../../page/page"
-import { canonicalize } from "../../../repo/path/path"
-import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { canonicalize } from "@akasha/pages-system/repo-path"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { DiscoveredWorkflow, Workflow, WorkflowKind } from "./types.ts"
 
 export const WORKFLOW_TEMPLATE_PAGE_TYPE = "workflow-template"

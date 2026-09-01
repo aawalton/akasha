@@ -1,6 +1,6 @@
 
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
-import type { Roots } from "../../page/page"
+import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { initiativeFinishedIn } from "./seat-sweep.ts"
 import { statedOf } from "./seat-stated.ts"
 

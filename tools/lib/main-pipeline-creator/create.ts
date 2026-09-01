@@ -2,7 +2,7 @@ import { takeSeqsOf } from "../page-seq.ts"
 import { patchPage, patchState, writePage } from "../page-write.ts"
 import { type Value } from "../page-write-values.ts"
 import { type Where } from "../page-write-where.ts"
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { PIPELINE } from "./pages.ts"
 import { PIPELINE_SEQS, STEP_SEQS, WORKFLOW_SEQS } from "./seqs.ts"
 

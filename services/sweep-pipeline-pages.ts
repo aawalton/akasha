@@ -11,7 +11,7 @@ import {
   TICK_CEILING_MS,
   TICK_MS,
 } from "../tools/lib/sweep-pipeline-pages/tick.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const HELP = `bun services/sweep-pipeline-pages.ts — the state machine over every live pipeline page
 

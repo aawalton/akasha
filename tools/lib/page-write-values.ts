@@ -1,6 +1,6 @@
 import { type FileTree } from "../../page/file-tree.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
-import { type Roots } from "../../page/page.ts"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
 import { uncommittedKeysFor } from "./page-uncommitted-keys.ts"
 import { attachmentKeysFor } from "./page-attachment-keys.ts"
 import {

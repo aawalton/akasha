@@ -1,7 +1,7 @@
 
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { sections } from "./lib/markdown.ts"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { fail } from "./lib/command.ts"
 
 const DOCUMENT = "pages/notice/resume.notice.md"

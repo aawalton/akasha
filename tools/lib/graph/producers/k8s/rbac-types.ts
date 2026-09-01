@@ -1,5 +1,5 @@
 import { z } from "zod"
-import type { Repo } from "../../../../../page/document/types.ts"
+import type { Repo } from "@akasha/pages-system/markdown-document"
 
 export type NamespaceRoleNodeType = "namespace-role"
 export type RbacDeclaresEdgeType = "rbac-declares"

@@ -1,4 +1,4 @@
-import { rootFor } from "../../repo/roots/roots.ts"
+import { rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Check } from "../lib/check.ts"
 import { advise, over, skip } from "@akasha/verdict/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"

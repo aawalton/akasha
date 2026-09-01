@@ -13,8 +13,8 @@ import {
   type StatedPageType,
 } from "../page-types.ts"
 import { loadPages, rowsStamp } from "../index/store/store.ts"
-import { akashaRoot } from "../../repo/roots/roots.ts"
-import { canonicalize } from "../../repo/path/path.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { canonicalize } from "@akasha/pages-system/repo-path"
 
 const registries = new WeakMap<FileTree, readonly PageType[]>()
 

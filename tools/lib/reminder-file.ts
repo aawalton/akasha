@@ -2,9 +2,9 @@ import { existsSync, mkdtempSync, readFileSync, readdirSync, rmSync, statSync, w
 import { join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { type Warrant, recipientRefused, runWriteTool, whyRefused } from "./message-file.ts"
-import { AKASHA, akashaRoot } from "../../repo/roots/roots.ts"
+import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
-import { pageStemOf } from "../../page/name/name.ts"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import { placeDirOf } from "../../page/page-types.ts"
 
 const PAGE_TYPE = "reminder"

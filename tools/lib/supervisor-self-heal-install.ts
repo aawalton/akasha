@@ -1,5 +1,5 @@
 
-import { ownRepoRoot } from "../../repo/roots/roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { REPO_ROOT } from "./supervisor-config.ts"
 
 export type SelfHealInstallResult = { ok: true } | { ok: false; stderr: string }

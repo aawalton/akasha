@@ -1,4 +1,4 @@
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { describeErr } from "./ceiling.ts"
 import { readStepLogTail } from "./cluster.ts"
 import { takeStepIfStatus } from "../take-step-status.ts"

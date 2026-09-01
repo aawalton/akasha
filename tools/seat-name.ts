@@ -8,7 +8,7 @@ import { DeadRead } from "./lib/subjects.ts"
 import type { Reading, Vocabularies } from "./lib/read-seat-name.ts"
 import { JOINER } from "./lib/compose-seat-name.ts"
 import { readSeatName, unplaceableSegments } from "./lib/read-seat-name.ts"
-import { resolveRoots, targetRoot } from "../repo/roots/roots"
+import { resolveRoots, targetRoot } from "@akasha/pages-system/checkout-roots"
 import { seatNameShapes } from "./lib/seat-name-families.ts"
 import { nameVocabularyOf } from "./lib/seat-name-vocabulary.ts"
 

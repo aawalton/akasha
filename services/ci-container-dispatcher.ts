@@ -14,7 +14,7 @@ import {
   TICK_CEILING_MS,
   TICK_MS,
 } from "../tools/lib/ci-container-dispatcher/tick.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const HELP = `bun services/ci-container-dispatcher.ts — place dispatching steps into containers on the cluster
 

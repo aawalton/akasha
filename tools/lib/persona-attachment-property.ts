@@ -1,5 +1,5 @@
 import { personaAt } from "./akasha-personas.ts"
-import { ownRepoRoot } from "../../repo/roots/roots.ts"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 
 const VOICE_REFERENCE_SHA256_KEY = "voice-reference-sha256"
 

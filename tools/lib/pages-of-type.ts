@@ -1,7 +1,7 @@
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { placesIn } from "../../page/page-types.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export function placesFor(roots: Roots, repo: string, slug: string): readonly string[] {
   const type = registryOf(diskFileTree(roots)).find((one) => one.slug === slug)

@@ -16,7 +16,7 @@ import { patchAside } from "./body-aside.ts"
 import { GATED } from "../../patches/patch.ts"
 import { commitPaths, gitAskingPaths, gitIgnoring, heldByRepo, whileHoldingLanding } from "../git/git.ts"
 import { handOffPush, pushStandingLines } from "../push/push.ts"
-import { AKASHA } from "../roots/roots.ts"
+import { AKASHA } from "@akasha/pages-system/checkout-roots"
 
 const SHEBANG = "#!"
 

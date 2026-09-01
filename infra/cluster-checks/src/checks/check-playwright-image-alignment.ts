@@ -14,7 +14,7 @@ import {
 } from "../lib/playwright-image-alignment.ts"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { ownRepoRoot } from "../../../../repo/roots/roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PACKAGE_JSON_SCHEMA = z.record(z.string(), z.unknown())

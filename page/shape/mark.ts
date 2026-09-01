@@ -1,9 +1,9 @@
 import { createHash } from "node:crypto"
 import { existsSync } from "node:fs"
 import { gitCapped } from "../../repo/git/git.ts"
-import { AKASHA, akashaRoot, REPOS } from "../../repo/roots/roots.ts"
+import { AKASHA, akashaRoot, REPOS } from "@akasha/pages-system/checkout-roots"
 import type { FileTree } from "../file-tree.ts"
-import type { Roots } from "../page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { RUNTIME_MARK } from "../runtime/runtime.ts"
 import { folderIn, PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
 
@@ -13,7 +13,12 @@ export const CODE_DIRS: readonly string[] = [
   "akasha/file-system/answer-keeping",
   "akasha/file-system/answer-mark",
   "akasha/file-system/exclusive",
+  "akasha/pages-system/checkout-roots",
+  "akasha/pages-system/page/markdown-document",
+  "akasha/pages-system/page/markdown-page-at",
+  "akasha/pages-system/page/markdown-page-name",
   "akasha/pages-system/page/markdown-page-type",
+  "akasha/pages-system/repo-path",
   "akasha/utils-fs/atomic-write",
   "akasha/utils-fs/missing",
   "page",

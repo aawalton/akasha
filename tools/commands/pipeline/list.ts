@@ -5,7 +5,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { listPipelines, optionalNumber, optionalString } from "../../lib/pipeline-pages/read.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { commitSha40, toShortSha7 } from "../../lib/workflow-dsl/ci-identifiers.ts"
 
 export const help: CommandHelp = {

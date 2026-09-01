@@ -1,5 +1,5 @@
 import { personAt } from "./akasha-people.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export type Addressed =
   | { readonly kind: "inbox"; readonly slug: string }

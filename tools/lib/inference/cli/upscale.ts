@@ -1,7 +1,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join } from "node:path"
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { akashaRoot } from "../../../../repo/roots/roots"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 function upscaleBinPath(scriptName: string): string {
   return join(akashaRoot(), "infra", "upscale", "bin", scriptName)

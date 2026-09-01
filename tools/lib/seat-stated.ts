@@ -1,7 +1,7 @@
 
 import * as declarations from "./attributes.ts"
 import type { Principal } from "./compose-seat-name.ts"
-import type { Roots } from "../../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { type StatedFromHistory, statedFromHistory } from "./seat-page-history.ts"
 import { onCallOf } from "./seat-on-call.ts"
 import { type FlexRecord, flexOf } from "./seat-flex.ts"

@@ -1,7 +1,7 @@
 import type { Asked } from "@akasha/pages-query"
 import { answerIn } from "../../../readouts/ask-answer.ts"
-import type { Roots } from "../../../page/page.ts"
-import { rootsHere } from "../../../repo/roots/roots.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { rootsHere } from "@akasha/pages-system/checkout-roots"
 import type { Said } from "../../../tools/lib/page-query-request.ts"
 import { reaches } from "../../../tools/lib/page-query.ts"
 

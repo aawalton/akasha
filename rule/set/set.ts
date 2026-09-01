@@ -3,7 +3,7 @@ import { listField, type Frontmatter } from "../../page/frontmatter.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { placeDirOf, PROPERTY_GLOBS, scanIn } from "../../page/page-types.ts"
 import { blockOf, stringAt } from "../../page/text/text.ts"
-import { rootsHere } from "../../repo/roots/roots.ts"
+import { rootsHere } from "@akasha/pages-system/checkout-roots"
 
 export type FieldType = "text" | "number" | "date" | "enum" | "list"
 

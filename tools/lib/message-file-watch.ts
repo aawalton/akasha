@@ -1,7 +1,7 @@
 
 import { mkdirSync, watch } from "node:fs"
 import { type Message, messageDirRelPath, recipientRefused, unclaimedTo } from "./message-file.ts"
-import { akashaRoot } from "../../repo/roots/roots"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const BACKSTOP_MS = 5_000
 

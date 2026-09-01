@@ -1,5 +1,5 @@
 import { readSeatName, SLOTS, type Vocabularies } from "./read-seat-name.ts"
-import { resolveRoots, targetRoot } from "../../repo/roots/roots"
+import { resolveRoots, targetRoot } from "@akasha/pages-system/checkout-roots"
 import { nameVocabularyOf } from "./seat-name-vocabulary.ts"
 
 const ROUTE = "State what this seat is with --persona, --domain, --role and --flex."

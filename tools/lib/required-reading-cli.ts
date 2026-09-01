@@ -1,9 +1,9 @@
 
 import { existsSync } from "node:fs"
 import type { RequiredReading } from "../required-reading.ts"
-import type { Repo } from "../../page/document/types.ts"
-import { type Roots } from "../../page/page"
-import { locate, REPOS } from "../../repo/roots/roots"
+import type { Repo } from "@akasha/pages-system/markdown-document"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { locate, REPOS } from "@akasha/pages-system/checkout-roots"
 
 export function locatePath(argv: readonly string[], roots: Roots): { relPath: string; repo: Repo } {
   const at = argv.findIndex((a) => a === "--file-path" || a === "--path")

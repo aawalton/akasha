@@ -1,7 +1,7 @@
 
 import { type Outcome, skip } from "@akasha/verdict/outcome"
-import { type Roots } from "../../page/page"
-import { targetRoot } from "../../repo/roots/roots"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { targetRoot } from "@akasha/pages-system/checkout-roots"
 
 export interface Subject {
   readonly relPath: string

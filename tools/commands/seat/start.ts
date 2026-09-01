@@ -22,7 +22,7 @@ import { seatByName } from "../../lib/seat-by-name.ts"
 import { mintNamedAgent } from "../../lib/seat-name-bind.ts"
 import { resolveStatedIdentity } from "../../lib/resolve-stated-identity.ts"
 import { refuseHeldName } from "../../lib/seat-name-claim.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { defaultFor } from "../../lib/seat-resolve.ts"
 import { handlerDerives, principalIsPerson, refuseAnswering } from "../../lib/seat-answering.ts"
 import {

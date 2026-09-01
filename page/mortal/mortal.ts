@@ -2,7 +2,7 @@ import { diskFileTree, type FileTree } from "../file-tree.ts"
 import { parseFrontmatter, textField } from "../frontmatter.ts"
 import { claimant, type PageType } from "../page-types.ts"
 import { registryOf } from "../property/registry.ts"
-import { rootsHere } from "../../repo/roots/roots.ts"
+import { rootsHere } from "@akasha/pages-system/checkout-roots"
 
 export const MORTAL_KEY = "mortal"
 

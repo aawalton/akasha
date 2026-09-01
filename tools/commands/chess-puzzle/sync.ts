@@ -15,7 +15,7 @@ import {
 import { patchRows } from "../../lib/page-rows-write.ts"
 import { load } from "../../lib/page-query.ts"
 import { textOf } from "../../lib/page-query-values.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const CHESS_PUZZLE = "chess-puzzle"
 

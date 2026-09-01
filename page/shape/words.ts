@@ -1,4 +1,4 @@
-import type { Refusal } from "../document/types.ts"
+import type { Refusal } from "@akasha/pages-system/markdown-document"
 import { refusalText } from "../../refusal/refusal.ts"
 
 export function partOutsideShape(refusal: Refusal, where: string): string {

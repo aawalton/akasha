@@ -1,6 +1,6 @@
 
 import { existsSync, renameSync } from "node:fs"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const LOG = "[boot-prompt]"
 const COMPOSE_RELPATH = "tools/compose-boot.ts"

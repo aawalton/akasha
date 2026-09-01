@@ -1,6 +1,6 @@
 import { exclusively } from "@akasha/file-system/exclusive"
 import { whereFor } from "./page-write-where.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { readUncommitted, uncommittedPathFor, writeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 
 const STEP = "step"

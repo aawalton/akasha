@@ -1,4 +1,4 @@
-import { resolveRoots } from "../repo/roots/roots.ts"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { fail } from "./lib/command.ts"
 import { type Outcome } from "./lib/gated-write.ts"
 import { nameFromHistory, parentFromHistory } from "./lib/seat-page-history.ts"

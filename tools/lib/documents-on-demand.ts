@@ -7,7 +7,7 @@ import { type Frontmatter, parseFrontmatter, textField } from "../../page/frontm
 import { diskFileTree } from "../../page/file-tree.ts"
 import { domainKinds, domainKindTest } from "../../page/page-types.ts"
 import { registryOf } from "../../page/property/registry.ts"
-import { AKASHA, isDirty } from "../../repo/roots/roots.ts"
+import { AKASHA, isDirty } from "@akasha/pages-system/checkout-roots"
 
 export function documentsOnDemand(root: string): Documents {
   const parsed = new Map<string, Frontmatter | null>()

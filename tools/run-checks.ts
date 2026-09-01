@@ -30,13 +30,13 @@ import { testsBounded } from "./audits/tests-bounded.ts"
 import { typecheckRepo } from "./audits/typecheck-repo.ts"
 import { commandsDeclareHelp } from "./audits/commands-declare-help.ts"
 import { commandsDeclareSummary } from "./audits/commands-declare-summary.ts"
-import type { Repo } from "../page/document/types.ts"
+import type { Repo } from "@akasha/pages-system/markdown-document"
 import { CHECKS_CEILING_MS, CHECK_BAND, type RepoView, type Levy, listDocuments } from "./lib/check.ts"
 import { refusalText } from "../refusal/refusal.ts"
 import { anyRefused, over, type Outcome, render, skip } from "@akasha/verdict/outcome"
 import { CEILING_MS, type Band, seconds, cpuMs } from "./lib/run-cost.ts"
 import { headSha, writeGreen } from "./lib/test-selection.ts"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export const CHECKS: Readonly<Record<string, Levy>> = {
   "bash-env-inside": { repos: ["akasha"], run: bashEnvInside },

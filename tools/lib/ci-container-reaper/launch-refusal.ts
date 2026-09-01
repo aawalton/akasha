@@ -1,4 +1,4 @@
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { describeErr } from "./ceiling.ts"
 import { type CiContainer, deleteCiContainer } from "./cluster.ts"
 import { decideLaunchRefusal } from "./decide.ts"

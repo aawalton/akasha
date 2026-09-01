@@ -6,7 +6,7 @@ import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs"
 import { render } from "./compose-notices.ts"
 import { bullets, sections } from "./lib/markdown.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { fail } from "./lib/command.ts"
 
 const FOLDER = "pages/subagent-kind"

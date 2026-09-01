@@ -14,7 +14,7 @@ import {
 import { refuseParentless } from "./refuse-parentless.ts"
 import { refuseHeldName } from "./seat-name-claim.ts"
 import { composedNameOf } from "./seat-rename.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { principalIsPerson, refuseAnswering } from "./seat-answering.ts"
 import { SEAT_MODE_HEADLESS } from "./seat-modes.ts"
 import { ruleText } from "./instructions-rule.ts"

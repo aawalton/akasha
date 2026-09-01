@@ -4,7 +4,7 @@ export const summary =
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { seatsPresent } from "../../../lib/seat-roster.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"
 

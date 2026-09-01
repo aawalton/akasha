@@ -1,9 +1,9 @@
 import { readFileSync } from "node:fs"
 import { judge, type Outcome } from "@akasha/verdict/outcome"
-import type { Roots } from "../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { trackedIn } from "../page/tracked/tracked.ts"
-import { canonicalize, normalizeAbsolute } from "../repo/path/path.ts"
-import { targetRoot } from "../repo/roots/roots.ts"
+import { canonicalize, normalizeAbsolute } from "@akasha/pages-system/repo-path"
+import { targetRoot } from "@akasha/pages-system/checkout-roots"
 import { decodeUtf8 } from "../utf8-body/utf8-body.ts"
 
 export const PATH_CHAR = /[A-Za-z0-9_./~$-]/

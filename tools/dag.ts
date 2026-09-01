@@ -6,7 +6,7 @@ import { readFileSync } from "node:fs"
 import { listDocuments } from "./lib/check.ts"
 import { DOMAIN_PARENTS_KEY, DOMAIN_SLUG_KEY } from "./lib/domain.ts"
 import { listField, parseFrontmatter, textField } from "../page/frontmatter.ts"
-import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 const HELP = `bun tools/dag.ts — print the domain DAG, composed from the pages now
 

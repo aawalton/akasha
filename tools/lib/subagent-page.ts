@@ -1,6 +1,6 @@
 import { namedIn } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { textAt, valueAt } from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { Outcome } from "./gated-write.ts"
 import { seatNameForAgent } from "./seat-presence-read.ts"
 import type { StandingSubagent } from "./subagent-guard.ts"

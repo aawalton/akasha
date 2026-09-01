@@ -2,7 +2,7 @@ import { type Kind } from "./page-declared.ts"
 import type { Property } from "../../page/property/property.ts"
 import { type Backed, type Relation } from "./page-derive-shape.ts"
 import { placeOf } from "../../page/page-types.ts"
-import { isAddressable } from "../../repo/roots/roots.ts"
+import { isAddressable } from "@akasha/pages-system/checkout-roots"
 
 
 export interface Backing {

@@ -1,5 +1,5 @@
 import type { Row } from "../page-derive-shape.ts"
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { NON_TERMINAL_PIPELINE_STATUSES } from "../ci-orchestrator/statuses.ts"
 import { MAIN_BRANCH, PIPELINE, PIPELINE_TERMINAL } from "../sweep-pipeline-pages/statuses.ts"
 import { readPageBySeq, readPages, requireSeq, seqIn, textOf } from "./reads.ts"

@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { join } from "node:path"
-import { HERE } from "../../../repo/roots/roots.ts"
+import { HERE } from "@akasha/pages-system/checkout-roots"
 
 function akashaStands(): string {
   return HERE

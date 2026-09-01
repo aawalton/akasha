@@ -2,9 +2,9 @@
 import { readFile, readdir } from "node:fs/promises"
 import { join } from "node:path"
 import { parse } from "../page/document/parse.ts"
-import type { Document } from "../page/document/types.ts"
-import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "../repo/roots/roots"
-import { pageStemOf } from "../page/name/name"
+import type { Document } from "@akasha/pages-system/markdown-document"
+import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import { placeDirOf } from "../page/page-types.ts"
 
 const roots = resolveRoots()

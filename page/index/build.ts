@@ -1,5 +1,5 @@
-import type { Roots } from "../page.ts"
-import { pageNameOf } from "../name/name.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { pageNameOf } from "@akasha/pages-system/markdown-page-name"
 import { blockOf } from "../text/text.ts"
 import { type Named, type Source, saidNamed, saidSource } from "./entry/entry.ts"
 import {
@@ -16,7 +16,7 @@ import { linkTargetsFrom } from "./link/link.ts"
 import { identityFile, relationFileFor } from "./place/place.ts"
 import { type Holds, type Relation, reachedFrom, relationsOver } from "./relation/relation.ts"
 import { trackedIn } from "../tracked/tracked.ts"
-import { REPOS } from "../../repo/roots/roots.ts"
+import { REPOS } from "@akasha/pages-system/checkout-roots"
 import {
   identityBodies,
   keepBuiltFrom,

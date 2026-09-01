@@ -1,6 +1,6 @@
 
 import { personasStanding } from "../../lib/akasha-personas.ts"
-import { ownRepoRoot } from "../../../repo/roots/roots.ts"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 
 const PERSONA_HOME = "akasha/persona-system/persona"
 

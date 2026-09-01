@@ -10,8 +10,8 @@ import { chainOf, compiledPageTypeFor } from "../../page/property/frontmatter.ts
 import { mentionPatches } from "../../repoint/mention.ts"
 import { claimant, newPageNameFor, type PageType, pagesOf, reposOf } from "../../page/page-types.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
-import { pageNameOf, pageStemOf } from "../../page/name/name.ts"
-import type { Roots } from "../../page/page.ts"
+import { pageNameOf, pageStemOf } from "@akasha/pages-system/markdown-page-name"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import type { Landing } from "../../repo/land/land.ts"
 
 export const DEFINING_REPO = "akasha"

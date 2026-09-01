@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { existsSync, readFileSync } from "node:fs"
-import type { Repo } from "../page/document/types.ts"
+import type { Repo } from "@akasha/pages-system/markdown-document"
 import { listDocuments } from "./lib/check.ts"
 import { closure } from "./lib/closure.ts"
 import { onceInCall } from "@akasha/command-system/during-call"
@@ -25,8 +25,8 @@ import { placedElsewhere } from "./lib/page-type-repo.ts"
 import { locatePath, printed } from "./lib/required-reading-cli.ts"
 import { diskFileTree } from "../page/file-tree.ts"
 import { pageTypeChain } from "../page/property/frontmatter.ts"
-import { outOfBounds } from "../repo/path/path.ts"
-import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots.ts"
+import { outOfBounds } from "@akasha/pages-system/repo-path"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export interface Pending {
   readonly paths: ReadonlySet<string>

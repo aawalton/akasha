@@ -12,7 +12,7 @@ import {
 import { dirname, join } from "node:path"
 import { git, remoteOf } from "../git/git.ts"
 import { holderProcessRuns } from "../holder/holder.ts"
-import { akashaRoot } from "../roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const STATE_DIR = "harness-push"
 

@@ -1,5 +1,5 @@
 import { basename, resolve } from "node:path"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { alsoIn, commandIn, entryIn, namedIn, RESTART_EXIT } from "./lib/service-wrapper/command.ts"
 import { digestOf, followFiles } from "./lib/service-wrapper/following.ts"
 import { localClosure, REACHED_CEILING } from "./lib/service-wrapper/local-closure.ts"

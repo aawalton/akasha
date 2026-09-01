@@ -6,7 +6,7 @@ import { type Row } from "./page-derive-shape.ts"
 import { textOf } from "./page-query-values.ts"
 import { landingTextFor } from "./page-write-compose.ts"
 import { splitValues, type Value } from "./page-write-values.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { shape } from "./shape.ts"
 
 export const QUESTION_PAGE_TYPE_SLUG = "question"

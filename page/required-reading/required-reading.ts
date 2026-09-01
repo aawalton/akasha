@@ -4,7 +4,7 @@ import type { AddressIndex } from "./address-index/address-index.ts"
 import { ENDING_WORD, EXTENSION_WORD, HEADING_WORD } from "../index/identity/identity.ts"
 import { fileTargetOf } from "../index/relation/relation.ts"
 import { listField } from "../frontmatter.ts"
-import type { PageAt } from "../page.ts"
+import type { PageAt } from "@akasha/pages-system/markdown-page-at"
 import { NONE, stringAt } from "../text/text.ts"
 
 const REQUIRED_KEY = "required-reading-slugs"

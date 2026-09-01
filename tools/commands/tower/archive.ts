@@ -12,7 +12,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, operationalError } from "../../lib/exit.ts"
 import { composeChapterPage, composeStoryPage, statedIdIn } from "../../lib/story-publish.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { akashaRoot } from "../../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import {
   playedStoryRelDir,
   storyFileStands,

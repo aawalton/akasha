@@ -1,6 +1,6 @@
 import { answer, type PageQuery, UNREACHED } from "../page-query.ts"
 import { type Row } from "../page-derive-shape.ts"
-import type { Roots } from "../../../page/page"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 import { LOG } from "./log.ts"
 
 export function rowsOf(roots: Roots, query: PageQuery): readonly Row[] {

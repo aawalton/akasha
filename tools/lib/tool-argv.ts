@@ -1,5 +1,5 @@
-import { akashaRoot } from "../../repo/roots/roots.ts"
-import { resolveRoots } from "../../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const CLI = "tools/ops/cli.ts"
 

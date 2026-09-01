@@ -1,10 +1,10 @@
 import { check } from "../document/check.ts"
 import { holeFaults } from "../document/holes.ts"
 import { parse } from "../document/parse.ts"
-import type { Document, Refusal, Verdict } from "../document/types.ts"
+import type { Document, Refusal, Verdict } from "@akasha/pages-system/markdown-document"
 import type { Choice, PartDef, CompiledShape } from "../document/shape-types.ts"
 import { levelOf, type Level } from "./level.ts"
-import { pageStemOf } from "../name/name.ts"
+import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import { refusalText } from "../../refusal/refusal.ts"
 
 export interface Shape {

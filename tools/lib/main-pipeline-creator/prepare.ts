@@ -1,7 +1,7 @@
 import { codeRoot } from "../code-root.ts"
 import { askingAt, graphOrigin } from "../graph/origin.ts"
 import { loadAllWorkflowConfigsAtShaInProcess } from "../pipeline-run/pipeline-configs-sha-pinned.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { commitSha40 } from "../workflow-dsl/ci-identifiers.ts"
 import type { CreatorCode, Graph, GitResult, WorkflowConfigJson } from "./code.ts"
 import { CREATOR_SCRATCH_ROOT } from "./sha-pinned-tree.ts"

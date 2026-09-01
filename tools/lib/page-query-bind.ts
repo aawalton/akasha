@@ -2,7 +2,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { declaredFor } from "../page/page-rows-home.ts"
 import { kebabized } from "../../page/property/key-spelling.ts"
 import type { PageQuery, Test } from "./page-query.ts"
-import type { Roots } from "../../page/page.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
 
 export type Given = Readonly<Record<string, string | readonly string[]>>
 

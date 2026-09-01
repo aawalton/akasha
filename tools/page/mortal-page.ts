@@ -1,6 +1,6 @@
 
-import { type Roots } from "../../page/page"
-import { locate, REPOS } from "../../repo/roots/roots"
+import { type Roots } from "@akasha/pages-system/markdown-page-at"
+import { locate, REPOS } from "@akasha/pages-system/checkout-roots"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { diskFileTree, type FileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"

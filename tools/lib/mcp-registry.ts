@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 
 import type { McpServerConfig } from "./claude-launch-args.ts"
-import { ownRepoRoot } from "../../repo/roots/roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { shape } from "./shape.ts"
 import { expandHome } from "./supervisor-claude-config.ts"
 import { HOME_DIR } from "./supervisor-config.ts"

@@ -16,7 +16,7 @@ import {
 } from "../../../../tools/lib/check-workflow/addons-resolve.ts"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { ownRepoRoot } from "../../../../repo/roots/roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { computeInputsHashAcrossRepos } from "../../../../tools/lib/workflow-dsl/inputs-hash.ts"
 import {

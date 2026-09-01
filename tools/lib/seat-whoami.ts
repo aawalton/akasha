@@ -1,7 +1,7 @@
 import { basename } from "node:path"
 import { slugNamed } from "../../page/page-address.ts"
 import { attributesOf, recordedModeOf } from "./attributes.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { frontmatterFromHistory, nameFromHistory } from "./seat-page-history.ts"
 import { principalOf, principalSeatIdOf } from "./seat-principal.ts"
 import { pageTextOf } from "./seat-page-values.ts"

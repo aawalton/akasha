@@ -1,6 +1,6 @@
 import { personasStanding } from "./akasha-personas.ts"
 import type { CommsRule } from "./decide-wake-match.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export interface PersonaTarget {
   readonly id: string

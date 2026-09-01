@@ -5,7 +5,7 @@ import { dataError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { answer, type Test } from "../../lib/page-query.ts"
 import { listOf, textOf } from "../../lib/page-query-values.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 
 const CHESS_PUZZLE = "chess-puzzle"
 

@@ -3,7 +3,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { textField } from "../../page/frontmatter.ts"
 import { domainKindTest } from "../../page/page-types.ts"
 import { registryOf } from "../../page/property/registry.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { championsStanding } from "./akasha-personas.ts"
 import {
   type AlertRecipient,

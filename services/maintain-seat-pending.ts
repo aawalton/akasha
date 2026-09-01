@@ -6,7 +6,7 @@ export const tool = {
 import { watch } from "node:fs"
 import { join } from "node:path"
 import { messagesDirRelPath } from "../tools/lib/message-file.ts"
-import { akashaRoot } from "../repo/roots/roots"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 import { akashaSeatsDirIn } from "../tools/lib/seat-page-akasha.ts"
 import { type SeatPending, pendingFromFiles, pendingFromQuestions } from "../tools/lib/seat-pending-batch.ts"
 import { setPending } from "../tools/lib/seat-turn-pending.ts"

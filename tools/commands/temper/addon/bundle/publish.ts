@@ -7,7 +7,7 @@ import { join } from "node:path"
 import { codeRoot } from "../../../../lib/code-root.ts"
 import { dataError, operationalError } from "../../../../lib/exit.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"
-import { ownRepoRoot } from "../../../../../repo/roots/roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import type { CommandHelp } from "../../../../ops/surface.ts"
 
 const BUILD_CEILING_MS = 30 * 60 * 1000

@@ -7,7 +7,7 @@ import {
 import { uncommittedAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 import { onceInCall } from "@akasha/command-system/during-call"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 // WHERE A SEAT STANDS IN AKASHA, AND WHERE EACH OF ITS VALUES STANDS ON IT. This holds nothing but
 // that, and imports nothing of the seat libraries, because the two ends of the migration both need

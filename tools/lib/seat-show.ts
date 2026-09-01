@@ -1,7 +1,7 @@
 
 import { ATTRIBUTES, type Attributes, type Declaration, type Mode, type ModeRecord, ownAttributesOf } from "./attributes.ts"
 import { documentsOnDemand } from "./documents-on-demand.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { declaredSeatReading } from "./declared-seat-reading.ts"
 import { documentNamed } from "./seat-attribute.ts"
 import type { Args } from "./seat-args.ts"

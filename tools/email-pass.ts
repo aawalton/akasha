@@ -2,7 +2,7 @@
 
 import { mailbox } from "./lib/gmail.ts"
 import { onePass } from "./lib/email-worker.ts"
-import { akashaRoot } from "../repo/roots/roots.ts"
+import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const args = process.argv.slice(2)
 const dryRun = args.includes("--dry-run")

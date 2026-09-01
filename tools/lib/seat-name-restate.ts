@@ -1,5 +1,5 @@
 import { admitSeatName } from "./admit-seat-name.ts"
-import { resolveRoots, targetRoot } from "../../repo/roots/roots"
+import { resolveRoots, targetRoot } from "@akasha/pages-system/checkout-roots"
 import { seatByName } from "./seat-by-name.ts"
 import { isValidSeatName } from "./seat-handle.ts"
 import { seatNameAdmission } from "./seat-name-admission.ts"

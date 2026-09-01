@@ -2,7 +2,7 @@
 
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
-import { ownRepoRoot } from "../../../../repo/roots/roots"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
 import { z } from "zod"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"

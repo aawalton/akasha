@@ -5,7 +5,7 @@ import { type Frontmatter, listField, parseFrontmatter, textField } from "../../
 import { domainKindTest } from "../../page/page-types.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { refusalText } from "../../refusal/refusal.ts"
-import { AKASHA, isDirty, rootFor } from "../../repo/roots/roots"
+import { AKASHA, isDirty, rootFor } from "@akasha/pages-system/checkout-roots"
 import { personasStanding } from "../lib/akasha-personas.ts"
 import type { Check } from "../lib/check.ts"
 import {

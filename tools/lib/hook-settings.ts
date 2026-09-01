@@ -1,6 +1,6 @@
-import type { Roots } from "../../page/page.ts"
-import { canonicalize, isInside } from "../../repo/path/path.ts"
-import { AKASHA, isAddressable, rootFor } from "../../repo/roots/roots.ts"
+import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { canonicalize, isInside } from "@akasha/pages-system/repo-path"
+import { AKASHA, isAddressable, rootFor } from "@akasha/pages-system/checkout-roots"
 
 export const SETTINGS_PATH = "settings/agents.json"
 

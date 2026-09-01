@@ -7,7 +7,7 @@ import { mkdtempSync, readdirSync, readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { fileStemOf } from "@akasha/file-page-identity"
 import { sidecarsOf } from "../page/sidecar/sidecar.ts"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { toolArgv } from "../tools/lib/tool-argv.ts"
 

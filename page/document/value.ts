@@ -1,4 +1,4 @@
-import type { FrontmatterValue } from "./types.ts"
+import type { FrontmatterValue } from "@akasha/pages-system/markdown-document"
 import type { ValueType } from "./shape-types.ts"
 
 export type Fault = { expected: string; measured: string }
