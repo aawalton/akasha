@@ -2,7 +2,7 @@ import { statSync } from "node:fs"
 import { join } from "node:path"
 import {
   everyOfType,
-  standingById,
+  listedById,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { uncommittedAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
@@ -96,7 +96,7 @@ export function akashaSeatPathForAgent(agentId: string): string | null {
   if (held !== undefined) return held
   // The index answers by id across every page type, so a hit is checked to be a seat rather than
   // trusted for its id alone.
-  const one = standingById(akashaRoot(), agentId)
+  const one = listedById(akashaRoot(), agentId)
   return one !== null && one.path.startsWith(SEAT_DIR) ? one.path : null
 }
 

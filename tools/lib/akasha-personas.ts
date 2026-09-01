@@ -6,8 +6,8 @@ import {
 } from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
 import {
   everyOfType,
-  type Standing,
-  standingAt,
+  type Listed,
+  listedAt,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { besideAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import {
@@ -66,7 +66,7 @@ function portraitIn(path: string, value: Value): string | null {
   return beside
 }
 
-function personaFrom(root: string, standing: Standing): Persona {
+function personaFrom(root: string, standing: Listed): Persona {
   const value = valueOf(root, standing.path)
   const slug = textAt(value, "slug")
   if (slug === null) {
@@ -115,7 +115,7 @@ export function personasStanding(root: string): readonly Persona[] {
 }
 
 export function personaAt(root: string, slug: string): Persona | null {
-  const standing = standingAt(root, PAGE_TYPE, slug)[0]
+  const standing = listedAt(root, PAGE_TYPE, slug)[0]
   return standing === undefined ? null : personaFrom(root, standing)
 }
 

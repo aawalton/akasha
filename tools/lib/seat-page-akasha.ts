@@ -1,6 +1,6 @@
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { standingAt } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { listedAt } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { kindsUnder } from "../../akasha/pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import type { Roots } from "../../page/page.ts"
@@ -56,7 +56,7 @@ export function akashaSeatsDirIn(root: string): string {
 // their address is still only knowable there.
 function assignmentAddressOf(named: string, root: string): string {
   for (const pageType of assignedKinds(root)) {
-    if (standingAt(root, pageType, named).length > 0) return `${pageType}/${named}`
+    if (listedAt(root, pageType, named).length > 0) return `${pageType}/${named}`
   }
   return domainAddressOf(named, root)
 }

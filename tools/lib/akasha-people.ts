@@ -5,8 +5,8 @@ import {
 } from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
 import {
   everyOfType,
-  type Standing,
-  standingAt,
+  type Listed,
+  listedAt,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 
 const PAGE_TYPE = "person"
@@ -38,7 +38,7 @@ function valueOf(root: string, path: string): Value {
   return held
 }
 
-function personFrom(root: string, standing: Standing): Person {
+function personFrom(root: string, standing: Listed): Person {
   const value = valueOf(root, standing.path)
   const slug = textAt(value, "slug")
   if (slug === null) {
@@ -68,7 +68,7 @@ export function peopleStanding(root: string): readonly Person[] {
 }
 
 export function personAt(root: string, slug: string): Person | null {
-  const standing = standingAt(root, PAGE_TYPE, slug)[0]
+  const standing = listedAt(root, PAGE_TYPE, slug)[0]
   return standing === undefined ? null : personFrom(root, standing)
 }
 
