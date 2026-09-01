@@ -4,7 +4,7 @@ import { rename, rm, writeFile } from "node:fs/promises"
 export interface AtomicWriteOptions {
   readonly mode?: number
   readonly retryOnBusy?: boolean
-  readonly onRetry?: (message: string) => undefined
+  readonly onRetry?: (message: string) => void
 }
 
 const MAX_ATTEMPTS = 5
@@ -20,7 +20,7 @@ function tempPathFor(path: string): string {
   return `${path}.tmp-${process.pid}-${Math.random().toString(36).slice(2, 10)}`
 }
 
-function retrySync<T>(fn: () => T, label: string, onRetry?: (message: string) => undefined): T {
+function retrySync<T>(fn: () => T, label: string, onRetry?: (message: string) => void): T {
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
       return fn()
@@ -36,7 +36,7 @@ function retrySync<T>(fn: () => T, label: string, onRetry?: (message: string) =>
 async function retryAsync<T>(
   fn: () => Promise<T>,
   label: string,
-  onRetry?: (message: string) => undefined
+  onRetry?: (message: string) => void
 ): Promise<T> {
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
