@@ -12,6 +12,9 @@ export const checksSystem = {
     "module/judging",
     "module/model-running",
     "module/check-scratch",
+    "module/check-tree",
+    "module/check-perturbing",
+    "module/check-differing",
     "module/checking",
     "module/change-walking",
     "module/shape-saying",
@@ -86,6 +89,15 @@ export const checksSystem = {
       statement: "A check reads the index together with the change rather than the index alone.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Whether a check reads the tree is answered by running it twice rather than by reading it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check no change woke is unmeasured rather than sound.",
+    },
+    {
       invariantKind: "absence",
       statement: "No check judges what a repository outside akasha imports from inside it.",
     },
@@ -100,6 +112,10 @@ export const checksSystem = {
     {
       invariantKind: "gap",
       statement: "Every phase a check states is reached by a caller that runs it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every check holds its verdict where the tree contradicts the change it judges.",
     },
   ],
 } as const satisfies WorkspacePackage
