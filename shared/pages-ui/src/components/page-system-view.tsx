@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"
+import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { useCollapsedGroups } from "@shared/design-patterns/hooks/use-collapsed-groups"
 import { applySearch } from "@shared/pages-core/view/apply-search"
 import { useCallback, useEffect, useMemo, useState } from "react"

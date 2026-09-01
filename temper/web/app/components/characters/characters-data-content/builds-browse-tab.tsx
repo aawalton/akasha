@@ -1,6 +1,6 @@
 "use client"
 
-import { PaginatedCardGrid } from "@shared/design-layout/components/paginated-card-grid"
+import { PaginatedCardGrid } from "@akasha/design-layout/paginated-card-grid"
 import { Button } from "@shared/design-primitives/components/button"
 import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"

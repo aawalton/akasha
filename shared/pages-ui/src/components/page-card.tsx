@@ -1,6 +1,6 @@
 "use client"
 
-import { PANEL_CARD_WIDTH_CLASSES } from "@shared/design-layout/components/panel-card-data"
+import { PANEL_CARD_WIDTH_CLASSES } from "@akasha/design-layout/panel-card-data"
 import { Icon } from "@shared/design-patterns/components/icon"
 import { IconPicker } from "@shared/design-patterns/components/icon-picker"
 import { Card, CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"

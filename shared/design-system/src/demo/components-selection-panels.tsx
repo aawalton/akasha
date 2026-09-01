@@ -4,7 +4,7 @@ import { useState } from "react"
 import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { MultiSelect, type MultiSelectItem } from "@akasha/design-forms/multi-select"
 import { SearchMultiSelect, type SearchMultiSelectItem } from "@akasha/design-forms/search-multi-select"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Heading } from "@shared/design-primitives/components/heading"
 import { SearchButton } from "@shared/design-patterns/components/search-button"
 

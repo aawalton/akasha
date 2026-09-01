@@ -1,6 +1,6 @@
 "use client"
 
-import { LayoutLink } from "@shared/design-layout/router-context"
+import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { NumberBadge } from "@akasha/design-badges/number-badge"

@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
 import { Heading } from "@shared/design-primitives/components/heading"

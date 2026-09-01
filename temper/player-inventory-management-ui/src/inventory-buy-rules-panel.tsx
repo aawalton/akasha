@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import type { MinedItemSearchResult } from "@temper/game-items-core/item-tooltip-types"

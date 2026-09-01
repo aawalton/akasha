@@ -1,5 +1,5 @@
 import "./idle.css"
-import { PageLayout } from "@shared/design-layout/components/page-layout"
+import { PageLayout } from "@akasha/design-layout/page-layout"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
 import { DisplayFrame } from "@shared/pages-ui/frame/display-frame"
 import { FrameViewPropertiesMenu } from "@shared/pages-ui/frame/frame-view-properties-menu"

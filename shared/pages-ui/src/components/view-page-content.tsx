@@ -1,7 +1,7 @@
 "use client"
 
-import { PageTitleBadges } from "@shared/design-layout/components/page-layout"
-import { useLayoutSearchParams } from "@shared/design-layout/router-context"
+import { PageTitleBadges } from "@akasha/design-layout/page-layout"
+import { useLayoutSearchParams } from "@akasha/design-layout/router-context"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
 import { parseNavConfig } from "@shared/pages-core/schema/nav-config"
 import { parsePageTypeData } from "@shared/pages-core/schema/pages"

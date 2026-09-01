@@ -1,9 +1,9 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { LayoutLink } from "@shared/design-layout/router-context"
-import { ListContentSkeleton } from "@shared/design-layout/components/list-content-skeleton"
-import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { LayoutLink } from "@akasha/design-layout/router-context"
+import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
+import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { Button } from "@shared/design-primitives/components/button"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { type SortDirection } from "@shared/design-patterns/utils/sort-types"

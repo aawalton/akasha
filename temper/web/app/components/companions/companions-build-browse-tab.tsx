@@ -1,9 +1,9 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { PageTabHeader, PageTabTitleBadges } from "@shared/design-layout/components/page-tab-header"
-import { PaginatedCardGrid } from "@shared/design-layout/components/paginated-card-grid"
-import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"
+import { PageTabHeader, PageTabTitleBadges } from "@akasha/design-layout/page-tab-header"
+import { PaginatedCardGrid } from "@akasha/design-layout/paginated-card-grid"
+import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { Button } from "@shared/design-primitives/components/button"
 import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"

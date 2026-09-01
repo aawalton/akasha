@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Skeleton } from "@shared/design-primitives/components/skeleton"
 import { Text } from "@shared/design-primitives/components/text"
 import { assertNever } from "@shared/utils-narrow/assert-never"

@@ -1,5 +1,5 @@
 import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput } from "@akasha/design-forms/input-group"
-import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
+import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { Button } from "@shared/design-primitives/components/button"
 import { Card } from "@shared/design-primitives/components/card"
 import { Search } from "lucide-react"

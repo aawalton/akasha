@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import { Dialog, DialogBody, DialogClose, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle, DialogTrigger } from "@shared/design-primitives/components/dialog"
 import { Heading } from "@shared/design-primitives/components/heading"

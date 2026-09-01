@@ -1,8 +1,8 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { ListContentSkeleton } from "@shared/design-layout/components/list-content-skeleton"
-import { PageTabHeader, PageTabTitleBadges } from "@shared/design-layout/components/page-tab-header"
+import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
+import { PageTabHeader, PageTabTitleBadges } from "@akasha/design-layout/page-tab-header"
 import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { useScrollRestoration } from "@shared/design-patterns/hooks/use-scroll-restoration"

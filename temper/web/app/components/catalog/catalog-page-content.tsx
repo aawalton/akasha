@@ -1,8 +1,8 @@
 "use client"
 
-import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
+import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { Button } from "@shared/design-primitives/components/button"
-import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
+import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"
 import { useFilterPersistence } from "@shared/design-patterns/hooks/use-filter-persistence"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"

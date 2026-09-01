@@ -2,7 +2,7 @@
   "name": "@temper/player-inventory-management-ui",
   "dependencies": {
     "@shared/auth": "workspace:*",
-    "@shared/design-layout": "workspace:*",
+    "@akasha/design-layout": "workspace:*",
     "@shared/design-primitives": "workspace:*",
     "@shared/design-system": "workspace:*",
     "@shared/pages-access": "workspace:*",

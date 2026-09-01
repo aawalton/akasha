@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardDescription } from "@shared/design-primitives/components/card"
 import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { Text } from "@shared/design-primitives/components/text"

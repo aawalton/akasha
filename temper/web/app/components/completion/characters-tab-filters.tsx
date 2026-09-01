@@ -1,7 +1,7 @@
 "use client"
 
 import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { AddFilterButton } from "@shared/design-patterns/components/add-filter-button"
 import { FilterButton } from "@shared/design-patterns/components/filter-button"
 import { FilterGroup } from "@shared/design-patterns/components/filter-group"

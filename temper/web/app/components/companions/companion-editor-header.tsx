@@ -1,10 +1,10 @@
 "use client"
 
-import { LayoutLink as Link } from "@shared/design-layout/router-context"
+import { LayoutLink as Link } from "@akasha/design-layout/router-context"
 import { Badge } from "@akasha/design-badges/badge"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
 import { Button } from "@shared/design-primitives/components/button"
-import { PAGE_TITLE_CLASSES } from "@shared/design-layout/components/page-layout-data"
+import { PAGE_TITLE_CLASSES } from "@akasha/design-layout/page-layout-data"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
 import type { CompanionVisibility } from "@temper/game-companions-core/companion-types"

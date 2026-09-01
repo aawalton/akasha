@@ -6,7 +6,7 @@ import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
 import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput, InputGroupText, InputGroupTextarea } from "@akasha/design-forms/input-group"
 import { InputOTP, InputOTPGroup, InputOTPSeparator, InputOTPSlot } from "@akasha/design-forms/input-otp"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Heading } from "@shared/design-primitives/components/heading"
 
 export function ComponentsInputCompositePanels() {

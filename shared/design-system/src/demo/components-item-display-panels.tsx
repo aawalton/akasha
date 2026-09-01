@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { Badge } from "@akasha/design-badges/badge"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import { HorizontalScrollFade } from "@shared/design-primitives/components/horizontal-scroll-fade"
 import { ScrollArea, ScrollBar } from "@shared/design-primitives/components/scroll-area"

@@ -1,8 +1,8 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
-import { LayoutLink } from "@shared/design-layout/router-context"
+import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
+import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Skeleton } from "@shared/design-primitives/components/skeleton"
 import { Switch } from "@shared/design-primitives/components/switch"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"

@@ -1,4 +1,4 @@
-import { PageTitle } from "@shared/design-layout/components/page-layout"
+import { PageTitle } from "@akasha/design-layout/page-layout"
 import { Button } from "@shared/design-primitives/components/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
 import { Heading } from "@shared/design-primitives/components/heading"

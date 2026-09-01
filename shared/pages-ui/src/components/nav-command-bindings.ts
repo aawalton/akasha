@@ -1,4 +1,4 @@
-import type { AppNavItem } from "@shared/design-layout/types/nav-types"
+import type { AppNavItem } from "@akasha/design-layout/nav-types"
 import type { KeyBinding, KeyLayer } from "@shared/design-primitives/utils/keyboard-registry"
 import { PALETTE_ONLY } from "@shared/design-primitives/utils/keyboard-registry"
 

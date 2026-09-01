@@ -52,7 +52,7 @@
     "@fontsource-variable/geist-mono": "5.2.8",
     "@akasha/design-badges": "workspace:*",
     "@akasha/design-forms": "workspace:*",
-    "@shared/design-layout": "workspace:*",
+    "@akasha/design-layout": "workspace:*",
     "@shared/design-patterns": "workspace:*",
     "@shared/design-primitives": "workspace:*",
     "lucide-react": "^0.576.0",

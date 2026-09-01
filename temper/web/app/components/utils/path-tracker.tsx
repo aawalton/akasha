@@ -1,6 +1,6 @@
 "use client"
 
-import { useLayoutRouter } from "@shared/design-layout/router-context"
+import { useLayoutRouter } from "@akasha/design-layout/router-context"
 import { useEffect } from "react"
 
 const LAST_PATH_KEY = "eso-build-editor-last-path"

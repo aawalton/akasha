@@ -1,4 +1,4 @@
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { type ClassId, classes } from "@temper/game-characters-classes/classes-data"
 import { type SkillLineId, skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"

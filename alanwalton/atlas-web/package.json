@@ -21,7 +21,7 @@
     "@capgo/background-geolocation": "^8.3.1",
     "@infra/k8s-types": "workspace:*",
     "@protomaps/basemaps": "^5.7.2",
-    "@shared/design-layout": "workspace:*",
+    "@akasha/design-layout": "workspace:*",
     "@shared/design-primitives": "workspace:*",
     "@shared/design-system": "workspace:*",
     "@shared/errors-client": "workspace:*",

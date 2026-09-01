@@ -1,6 +1,6 @@
 "use client"
 
-import type { AppNavItem } from "@shared/design-layout/types/nav-types"
+import type { AppNavItem } from "@akasha/design-layout/nav-types"
 import { Icon } from "@shared/design-patterns/components/icon"
 import { IconPicker } from "@shared/design-patterns/components/icon-picker"
 import { TriggerSafeNode } from "@shared/design-primitives/types/trigger-safe-node"

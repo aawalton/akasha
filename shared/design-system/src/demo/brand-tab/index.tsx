@@ -1,7 +1,7 @@
 "use client"
 
-import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
-import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
+import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
 import { BrandHeartPanel } from "./brand-heart"
 import { PersonalityTonePanel } from "./personality-tone"

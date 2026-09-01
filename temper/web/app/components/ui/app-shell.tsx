@@ -1,8 +1,8 @@
 "use client"
 
-import { AppShell as SharedAppShell } from "@shared/design-layout/components/app-shell"
-import { useSidebarState } from "@shared/design-layout/hooks/use-sidebar-state"
-import { type AppNavConfig } from "@shared/design-layout/types/nav-types"
+import { AppShell as SharedAppShell } from "@akasha/design-layout/app-shell"
+import { useSidebarState } from "@akasha/design-layout/use-sidebar-state"
+import { type AppNavConfig } from "@akasha/design-layout/nav-types"
 import { SortableNavs } from "@shared/pages-ui/components/sortable-navs"
 import { useAppNavItems } from "@shared/pages-ui/components/use-app-nav-items"
 import { useAppVersionCheck } from "@shared/pages-ui/app-version/use-app-version-check"

@@ -1,7 +1,7 @@
 "use client"
 
 import * as TabsPrimitive from "@radix-ui/react-tabs"
-import { useLayoutRouter } from "@shared/design-layout/router-context"
+import { useLayoutRouter } from "@akasha/design-layout/router-context"
 import { DropdownMenu, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
 import { clampSurfaceLevel, surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { SurfaceProvider, useSurface } from "@shared/design-primitives/components/surface-provider"

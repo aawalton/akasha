@@ -1,6 +1,6 @@
 "use client"
 
-import { PAGE_TITLE_CLASSES } from "@shared/design-layout/components/page-layout-data"
+import { PAGE_TITLE_CLASSES } from "@akasha/design-layout/page-layout-data"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { useCallback, useEffect, useRef, useState } from "react"
 

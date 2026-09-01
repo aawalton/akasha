@@ -1,4 +1,4 @@
-import { PageLayout } from "@shared/design-layout/components/page-layout"
+import { PageLayout } from "@akasha/design-layout/page-layout"
 import { Heading } from "@shared/design-primitives/components/heading"
 import { Separator } from "@shared/design-primitives/components/separator"
 import { Text } from "@shared/design-primitives/components/text"

@@ -1,4 +1,4 @@
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Kbd, KbdGroup } from "@shared/design-patterns/components/kbd"
 import type { shortcutGroups } from "./keyboard-shortcuts-data"
 

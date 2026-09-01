@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { getEquippedMythicSetId } from "@temper/game-characters-equipment/loadout/mythic-set-rules"
 import { useMemo } from "react"
 import { ArmorPanelCard } from "@/components/equipment/armor-panel-card"

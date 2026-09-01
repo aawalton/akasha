@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Input } from "@shared/design-primitives/components/input"
 import { Label } from "@shared/design-primitives/components/label"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"

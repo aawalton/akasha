@@ -1,8 +1,8 @@
 "use client"
 
 import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
-import { PageLayout } from "@shared/design-layout/components/page-layout"
-import { simplePageSkeleton } from "@shared/design-layout/components/skeleton-presets"
+import { PageLayout } from "@akasha/design-layout/page-layout"
+import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { bodyPropertyIsContentTier } from "@shared/pages-core/schema/content-tier"

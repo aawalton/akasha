@@ -1,7 +1,7 @@
 "use client"
 
 import { AlertCircle, FolderOpen, Search } from "lucide-react"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import { Heading } from "@shared/design-primitives/components/heading"
 import { Spinner } from "@shared/design-primitives/components/spinner"

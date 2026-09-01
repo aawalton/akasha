@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard, type PanelCardProps } from "@shared/design-layout/components/panel-card"
+import { PanelCard, type PanelCardProps } from "@akasha/design-layout/panel-card"
 import { Textarea } from "@shared/design-primitives/components/textarea"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { type ChangeEvent, useEffect, useState } from "react"

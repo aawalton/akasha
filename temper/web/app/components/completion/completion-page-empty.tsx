@@ -1,4 +1,4 @@
-import { PageLayout, PageTitle, PageTitleBadges } from "@shared/design-layout/components/page-layout"
+import { PageLayout, PageTitle, PageTitleBadges } from "@akasha/design-layout/page-layout"
 import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { Globe } from "lucide-react"

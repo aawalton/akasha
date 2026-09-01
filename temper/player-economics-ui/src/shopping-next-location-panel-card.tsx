@@ -1,8 +1,8 @@
 "use client"
 
-import { scrollToCard } from "@shared/design-layout/utils/scroll-to-card"
+import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import { CardTitleBadges } from "@shared/design-primitives/components/card"
 import { ItemRow } from "@shared/design-patterns/components/item-row"

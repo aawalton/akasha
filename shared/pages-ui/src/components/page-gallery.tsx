@@ -1,8 +1,8 @@
 "use client"
 
-import { LoadMoreButton } from "@shared/design-layout/components/load-more-button"
-import { PanelDefaultOpenProvider } from "@shared/design-layout/components/panel-default-open-context"
-import { useLoadMore } from "@shared/design-layout/hooks/use-load-more"
+import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
+import { PanelDefaultOpenProvider } from "@akasha/design-layout/panel-default-open-context"
+import { useLoadMore } from "@akasha/design-layout/use-load-more"
 import { type GalleryCardSize, galleryCardMinWidth } from "@shared/pages-core/view/gallery"
 import type { ReactNode } from "react"
 

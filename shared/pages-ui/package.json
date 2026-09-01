@@ -49,7 +49,7 @@
     "@shared/day": "workspace:*",
     "@akasha/voice-core": "workspace:*",
     "@akasha/design-forms": "workspace:*",
-    "@shared/design-layout": "workspace:*",
+    "@akasha/design-layout": "workspace:*",
     "@shared/design-patterns": "workspace:*",
     "@shared/design-primitives": "workspace:*",
     "@shared/errors-client": "workspace:*",

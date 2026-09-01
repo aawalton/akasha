@@ -1,8 +1,8 @@
 "use client"
 
 import { useState } from "react"
-import { LoadMoreButton } from "@shared/design-layout/components/load-more-button"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Heading } from "@shared/design-primitives/components/heading"
 

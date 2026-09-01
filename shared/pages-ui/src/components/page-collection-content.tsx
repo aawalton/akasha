@@ -1,6 +1,6 @@
 "use client"
 
-import { PageLayout } from "@shared/design-layout/components/page-layout"
+import { PageLayout } from "@akasha/design-layout/page-layout"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { Icon } from "@shared/design-patterns/components/icon"
 import { buttonVariants } from "@shared/design-primitives/components/button"

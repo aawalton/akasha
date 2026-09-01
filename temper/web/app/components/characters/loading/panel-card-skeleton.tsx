@@ -2,7 +2,7 @@
 
 import { Card, CardAction, CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
 import { Skeleton } from "@shared/design-primitives/components/skeleton"
-import { PANEL_CARD_WIDTH_CLASSES } from "@shared/design-layout/components/panel-card-data"
+import { PANEL_CARD_WIDTH_CLASSES } from "@akasha/design-layout/panel-card-data"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { ChevronDown } from "lucide-react"
 

@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Alert, AlertDescription, AlertTitle } from "@shared/design-primitives/components/alert"
 import { Avatar, AvatarFallback, AvatarImage } from "@shared/design-primitives/components/avatar"
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from "@shared/design-primitives/components/breadcrumb"

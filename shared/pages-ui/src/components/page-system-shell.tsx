@@ -1,7 +1,7 @@
 "use client"
 
-import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
-import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
+import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
+import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"
 import type { ReactNode } from "react"

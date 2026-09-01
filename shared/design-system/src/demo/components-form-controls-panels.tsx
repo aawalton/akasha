@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Checkbox } from "@shared/design-primitives/components/checkbox"
 import { Label } from "@shared/design-primitives/components/label"
 import { Progress } from "@shared/design-primitives/components/progress"

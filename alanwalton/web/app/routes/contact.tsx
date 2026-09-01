@@ -1,5 +1,5 @@
-import { PageTitle } from "@shared/design-layout/components/page-layout"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PageTitle } from "@akasha/design-layout/page-layout"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 
 export function meta() {
   return [

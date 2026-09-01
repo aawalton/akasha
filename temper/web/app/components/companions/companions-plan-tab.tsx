@@ -1,9 +1,9 @@
 "use client"
 
-import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
-import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"
-import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
-import { LayoutLink } from "@shared/design-layout/router-context"
+import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
+import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
+import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
+import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Button } from "@shared/design-primitives/components/button"
 import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"

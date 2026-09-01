@@ -2,7 +2,7 @@
 
 import { BadgeRow } from "@akasha/design-badges/badge"
 import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { COLUMN_WIDTH } from "@shared/design-layout/components/layout-data"
+import { COLUMN_WIDTH } from "@akasha/design-layout/layout-data"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { capitalize } from "@shared/utils-narrow/capitalize"
 import { sortEffectsByCategory } from "@temper/game-companions-core/effect-display/effect-category"

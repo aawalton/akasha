@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@infra/k8s-types": "workspace:*",
-    "@shared/design-layout": "workspace:*",
+    "@akasha/design-layout": "workspace:*",
     "@shared/design-primitives": "workspace:*",
     "@shared/design-system": "workspace:*",
     "@shared/errors-client": "workspace:*",

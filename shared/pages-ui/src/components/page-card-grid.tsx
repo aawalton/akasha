@@ -1,10 +1,10 @@
 "use client"
 
-import { LoadMoreButton } from "@shared/design-layout/components/load-more-button"
-import { PanelDefaultOpenProvider } from "@shared/design-layout/components/panel-default-open-context"
-import { useColumnCount } from "@shared/design-layout/components/use-column-count"
-import { VirtualCardGrid } from "@shared/design-layout/components/virtual-card-grid"
-import { useLoadMore } from "@shared/design-layout/hooks/use-load-more"
+import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
+import { PanelDefaultOpenProvider } from "@akasha/design-layout/panel-default-open-context"
+import { useColumnCount } from "@akasha/design-layout/use-column-count"
+import { VirtualCardGrid } from "@akasha/design-layout/virtual-card-grid"
+import { useLoadMore } from "@akasha/design-layout/use-load-more"
 import type { ReactNode } from "react"
 
 const VIRTUALIZATION_THRESHOLD = 50

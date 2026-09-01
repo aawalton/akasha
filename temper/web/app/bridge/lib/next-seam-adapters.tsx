@@ -1,4 +1,4 @@
-import { type LayoutLinkProps, LayoutLinkProvider, type LayoutRouter, LayoutRouterProvider } from "@shared/design-layout/router-context"
+import { type LayoutLinkProps, LayoutLinkProvider, type LayoutRouter, LayoutRouterProvider } from "@akasha/design-layout/router-context"
 import { PagesUILinkProvider, PagesUIRouterProvider } from "@shared/pages-ui/router-context"
 import type { PagesUILinkProps } from "@shared/pages-ui/router-context"
 import { type ReactNode, useMemo } from "react"

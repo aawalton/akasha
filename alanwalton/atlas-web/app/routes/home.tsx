@@ -1,4 +1,4 @@
-import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
+import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 
 export function meta() {
   return [{ title: "Atlas" }]

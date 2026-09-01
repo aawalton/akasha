@@ -1,6 +1,6 @@
 import literataLatinWoff2 from "@fontsource-variable/literata/files/literata-latin-wght-normal.woff2?url"
-import { PageLayoutSkeleton } from "@shared/design-layout/components/page-layout"
-import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
+import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
+import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
 import { ErrorCaptureInstaller } from "@shared/errors-client/error-capture-installer"

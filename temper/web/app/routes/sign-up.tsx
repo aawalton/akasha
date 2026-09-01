@@ -1,4 +1,4 @@
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardHeader } from "@shared/design-primitives/components/card"
 import { Skeleton } from "@shared/design-primitives/components/skeleton"
 import { Suspense } from "react"

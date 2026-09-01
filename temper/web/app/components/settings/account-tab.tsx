@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Input } from "@shared/design-primitives/components/input"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { useSurface } from "@shared/design-primitives/components/surface-provider"

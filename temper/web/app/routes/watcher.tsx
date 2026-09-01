@@ -1,5 +1,5 @@
-import { PageLayoutSkeleton } from "@shared/design-layout/components/page-layout"
-import { simplePageSkeleton } from "@shared/design-layout/components/skeleton-presets"
+import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
+import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { getPage, getPages } from "@shared/pages-access/get"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { createServerClient } from "@shared/supabase-rr/server"

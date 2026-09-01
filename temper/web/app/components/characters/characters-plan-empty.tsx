@@ -1,6 +1,6 @@
 "use client"
 
-import { LayoutLink } from "@shared/design-layout/router-context"
+import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Button } from "@shared/design-primitives/components/button"
 import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"

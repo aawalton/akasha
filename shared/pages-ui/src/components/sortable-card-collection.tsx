@@ -18,9 +18,9 @@ import {
   useSortable,
 } from "@dnd-kit/sortable"
 import { CSS } from "@dnd-kit/utilities"
-import { LoadMoreButton } from "@shared/design-layout/components/load-more-button"
-import { PanelDefaultOpenProvider } from "@shared/design-layout/components/panel-default-open-context"
-import { useLoadMore } from "@shared/design-layout/hooks/use-load-more"
+import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
+import { PanelDefaultOpenProvider } from "@akasha/design-layout/panel-default-open-context"
+import { useLoadMore } from "@akasha/design-layout/use-load-more"
 import { type GalleryCardSize, galleryCardMinWidth } from "@shared/pages-core/view/gallery"
 import { type ReactNode, useEffect, useMemo, useRef, useState } from "react"
 import type { ReorderCardsHandler } from "./use-reorder-view-wiring"

@@ -12,7 +12,7 @@ import {
 } from "@dnd-kit/core"
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
 import { Badge } from "@akasha/design-badges/badge"
-import { LoadMoreButton } from "@shared/design-layout/components/load-more-button"
+import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
 import { Heading } from "@shared/design-primitives/components/heading"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"

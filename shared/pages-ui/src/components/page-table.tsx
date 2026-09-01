@@ -1,7 +1,7 @@
 "use client"
 
-import { LoadMoreButton } from "@shared/design-layout/components/load-more-button"
-import { useLoadMore } from "@shared/design-layout/hooks/use-load-more"
+import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
+import { useLoadMore } from "@akasha/design-layout/use-load-more"
 import { Icon } from "@shared/design-patterns/components/icon"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
 import { cn } from "@shared/design-primitives/utils/cn"

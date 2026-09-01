@@ -1,9 +1,9 @@
 "use client"
 
 import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
-import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"
-import { LayoutLink } from "@shared/design-layout/router-context"
+import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
+import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
+import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Button } from "@shared/design-primitives/components/button"
 import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { AddFilterButton } from "@shared/design-patterns/components/add-filter-button"

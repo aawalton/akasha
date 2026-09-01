@@ -2,9 +2,9 @@
 
 import { BadgeLayoutProvider } from "@akasha/design-badges/badge-layout-context"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
-import { PageLayout } from "@shared/design-layout/components/page-layout"
-import { PAGE_TITLE_CLASSES } from "@shared/design-layout/components/page-layout-data"
-import { simplePageSkeleton } from "@shared/design-layout/components/skeleton-presets"
+import { PageLayout } from "@akasha/design-layout/page-layout"
+import { PAGE_TITLE_CLASSES } from "@akasha/design-layout/page-layout-data"
+import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { IconPicker } from "@shared/design-patterns/components/icon-picker"
 import { expandDateMentions } from "@shared/pages-core/view/expand-date-mentions"

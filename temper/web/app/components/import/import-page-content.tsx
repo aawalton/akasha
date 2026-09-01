@@ -1,8 +1,8 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
-import { LayoutLink } from "@shared/design-layout/router-context"
+import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
+import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Alert, AlertDescription, AlertTitle } from "@shared/design-primitives/components/alert"
 import { Button } from "@shared/design-primitives/components/button"
 import { Card, CardContent } from "@shared/design-primitives/components/card"

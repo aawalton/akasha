@@ -1,8 +1,8 @@
 "use client"
 
-import { createGenericLayout } from "@shared/design-layout/components/column-layout"
-import { LoadMoreButton } from "@shared/design-layout/components/load-more-button"
-import { ResponsiveColumnsSkeleton } from "@shared/design-layout/components/responsive-columns-skeleton"
+import { createGenericLayout } from "@akasha/design-layout/column-layout"
+import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
+import { ResponsiveColumnsSkeleton } from "@akasha/design-layout/responsive-columns-skeleton"
 import { CollapsibleGroupSection } from "@shared/design-patterns/components/collapsible-group-section"
 import { type useCollapsedGroups } from "@shared/design-patterns/hooks/use-collapsed-groups"
 import type { Dispatch, SetStateAction } from "react"

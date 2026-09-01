@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableTotalCell } from "@shared/design-primitives/components/table"
 import { cn } from "@shared/design-primitives/utils/cn"
 import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"

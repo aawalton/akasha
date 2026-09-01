@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard, type PanelCardProps } from "@shared/design-layout/components/panel-card"
+import { PanelCard, type PanelCardProps } from "@akasha/design-layout/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import { Label } from "@shared/design-primitives/components/label"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"

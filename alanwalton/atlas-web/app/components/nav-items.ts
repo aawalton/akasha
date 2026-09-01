@@ -1,4 +1,4 @@
-import type { AppNavItem } from "@shared/design-layout/types/nav-types"
+import type { AppNavItem } from "@akasha/design-layout/nav-types"
 import { Home, Map as MapIcon, Search } from "lucide-react"
 
 export const primaryNavItems: AppNavItem[] = [

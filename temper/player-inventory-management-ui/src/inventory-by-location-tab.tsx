@@ -1,7 +1,7 @@
 "use client"
 
-import { scrollToCard } from "@shared/design-layout/utils/scroll-to-card"
-import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
+import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Button } from "@shared/design-primitives/components/button"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { type SortDirection } from "@shared/design-patterns/utils/sort-types"

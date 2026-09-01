@@ -1,9 +1,9 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { LayoutLink } from "@shared/design-layout/router-context"
+import { LayoutLink } from "@akasha/design-layout/router-context"
 import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
-import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Alert, AlertDescription, AlertTitle } from "@shared/design-primitives/components/alert"
 import { partitionUnmanagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-filter"
 import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"

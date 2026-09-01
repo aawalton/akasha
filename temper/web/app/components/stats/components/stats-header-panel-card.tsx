@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
 import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { Tabs, TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"

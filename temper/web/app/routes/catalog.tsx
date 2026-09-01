@@ -1,5 +1,5 @@
-import { PageLayoutSkeleton } from "@shared/design-layout/components/page-layout"
-import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
+import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
+import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 import { CatalogPageContent } from "@/components/catalog/catalog-page-content"

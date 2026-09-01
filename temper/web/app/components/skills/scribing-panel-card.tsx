@@ -1,4 +1,4 @@
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"

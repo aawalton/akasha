@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { Badge } from "@akasha/design-badges/badge"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Heading } from "@shared/design-primitives/components/heading"
 import { AddFilterButton } from "@shared/design-patterns/components/add-filter-button"
 import { AddSortButton } from "@shared/design-patterns/components/add-sort-button"

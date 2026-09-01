@@ -1,7 +1,7 @@
 "use client"
 
-import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
-import { LayoutLink } from "@shared/design-layout/router-context"
+import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
+import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Button } from "@shared/design-primitives/components/button"
 import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"

@@ -1,5 +1,5 @@
 import { Badge } from "@akasha/design-badges/badge"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardContent, CardDescription, CardHeader, CardTitle, CardTitleBadges } from "@shared/design-primitives/components/card"
 import { Text } from "@shared/design-primitives/components/text"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"

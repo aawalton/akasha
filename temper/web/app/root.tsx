@@ -1,5 +1,5 @@
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
-import { type LayoutLinkProps, LayoutLinkProvider, type LayoutRouter, LayoutRouterProvider } from "@shared/design-layout/router-context"
+import { type LayoutLinkProps, LayoutLinkProvider, type LayoutRouter, LayoutRouterProvider } from "@akasha/design-layout/router-context"
 import { Toaster } from "@shared/design-primitives/components/sonner"
 import { Button } from "@shared/design-primitives/components/button"
 import { CommandPalette } from "@shared/design-primitives/components/command-palette"

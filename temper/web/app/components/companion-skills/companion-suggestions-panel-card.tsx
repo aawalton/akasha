@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@shared/design-primitives/components/button"
 import type { CompanionSuggestion } from "@temper/game-companions-core/optimizer/companion-suggestion-generator"
 import { useCompanionSuggestions } from "@/components/companion-skills/hooks/use-companion-suggestions"

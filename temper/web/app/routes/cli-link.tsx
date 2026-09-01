@@ -1,4 +1,4 @@
-import { LayoutLink } from "@shared/design-layout/router-context"
+import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Button } from "@shared/design-primitives/components/button"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
