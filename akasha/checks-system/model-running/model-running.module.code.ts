@@ -6,6 +6,7 @@ import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
+import { ran } from "@akasha/utils-run/running"
 import { PAGES } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
 
@@ -94,17 +95,14 @@ function askedOf(
   model: string,
   prompts: readonly string[]
 ): readonly string[] | null {
-  const said = Bun.spawnSync({
-    cmd: ["bun", "run", join(root, ASKER_AT)],
+  const said = ran(["bun", "run", join(root, ASKER_AT)], {
     stdin: new TextEncoder().encode(JSON.stringify({ model, prompts })),
-    stdout: "pipe",
-    stderr: "pipe",
     cwd: root,
   })
-  if (said.exitCode !== 0) return null
+  if (said.code !== 0) return null
   let held: unknown
   try {
-    held = JSON.parse(said.stdout.toString())
+    held = JSON.parse(said.out)
   } catch {
     return null
   }
