@@ -58,9 +58,9 @@ test("a command naming a TypeScript file runs under the wrapper and forces a res
 })
 
 test("a command naming no TypeScript file runs under no wrapper", () => {
-  const standing = standingOf({ runs: ["/usr/bin/node-exporter"] })
-  expect(isWrapped(standing)).toBe(false)
-  const text = serviceUnitText(standing)
+  const service = standingOf({ runs: ["/usr/bin/node-exporter"] })
+  expect(isWrapped(service)).toBe(false)
+  const text = serviceUnitText(service)
   expect(text).not.toContain("service-wrapping")
   expect(text).not.toContain("RestartForceExitStatus")
 })
