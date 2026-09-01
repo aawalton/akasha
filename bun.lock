@@ -457,6 +457,21 @@
         "@shared/pages-query": "workspace:*",
       },
     },
+    "akasha/mobile-cli": {
+      "name": "@akasha/mobile-cli",
+      "dependencies": {
+        "@akasha/code-system": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@akasha/supabase-auth": "workspace:*",
+        "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "@akasha/utils-process": "workspace:*",
+        "@shared/pages-query": "workspace:*",
+        "@tools/lib": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/named-for": {
       "name": "@akasha/named-for",
     },
@@ -515,6 +530,9 @@
     },
     "akasha/pages-system/pages-query": {
       "name": "@akasha/pages-query",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+      },
     },
     "akasha/pages-system/pages-system-service": {
       "name": "@akasha/pages-system-service",
@@ -624,6 +642,7 @@
         "@akasha/pages-query": "workspace:*",
         "@akasha/sms-core": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
       },
     },
@@ -3753,6 +3772,8 @@
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
+
+    "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:akasha/mobile-cli"],
 
     "@akasha/named-for": ["@akasha/named-for@workspace:akasha/named-for"],
 
