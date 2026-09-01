@@ -3,7 +3,7 @@ export const summary = "Evaluate a FEN position: score, best move, and principal
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseFen } from "../../lib/chess-fen.ts"
 import { inputError } from "../../lib/exit.ts"
-import { evaluate, type EvaluateResult } from "../../../alanwalton/chess/src/lib/position.ts"
+import { evaluate, type EvaluateResult } from "@akasha/chess-core/chess-position"
 import { parseArgs } from "../../lib/parse-args.ts"
 
 export const help: CommandHelp = {

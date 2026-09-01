@@ -18,7 +18,7 @@
     "@shared/day": "workspace:*",
     "@akasha/alanwalton-web": "workspace:*",
     "@akasha/awen-core": "workspace:*",
-    "@alanwalton/chess": "workspace:*",
+    "@akasha/chess-core": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",
     "@akasha/sms-access": "workspace:*",
     "@akasha/sms-core": "workspace:*",

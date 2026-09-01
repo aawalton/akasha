@@ -612,6 +612,7 @@
       "dependencies": {
         "@akasha/alanwalton-web": "workspace:*",
         "@akasha/awen-core": "workspace:*",
+        "@akasha/chess-core": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
@@ -622,7 +623,6 @@
         "@akasha/sms-access": "workspace:*",
         "@akasha/sms-core": "workspace:*",
         "@akasha/voice-core": "workspace:*",
-        "@alanwalton/chess": "workspace:*",
         "@collections/litrpg": "workspace:*",
         "@fontsource-variable/literata": "^5.2.5",
         "@infra/k8s-types": "workspace:*",

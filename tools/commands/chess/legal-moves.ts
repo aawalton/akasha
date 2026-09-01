@@ -4,7 +4,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { fenSideToMove, parseFen } from "../../lib/chess-fen.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { legalMoves } from "../../../alanwalton/chess/src/lib/position.ts"
+import { legalMoves } from "@akasha/chess-core/chess-position"
 
 export const help: CommandHelp = {
   positionals: [

@@ -7,15 +7,15 @@ import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { writePage } from "../../lib/page-write.ts"
 import { resolveRoots } from "../../../repo/roots/roots"
-import { STANDARD_START_FEN, type PlayerColor } from "../../../alanwalton/chess/src/lib/game.ts"
-import { type AppliedMove, runGame } from "../../../alanwalton/chess/src/lib/loop.ts"
-import { clampMaiaBand, playMaiaMove } from "../../../alanwalton/chess/src/lib/maia.ts"
+import { STANDARD_START_FEN, type PlayerColor } from "@akasha/chess-core/chess-game"
+import { type AppliedMove, runGame } from "@akasha/chess-core/chess-game-loop"
+import { clampMaiaBand, playMaiaMove } from "@akasha/chess-core/chess-maia"
 import {
   CHESS_GAME_SLUG,
   chessGamePageName,
   chessGameValues,
-} from "../../../alanwalton/chess/src/lib/persist-game.ts"
-import { applyMove, legalMoves } from "../../../alanwalton/chess/src/lib/position.ts"
+} from "@akasha/chess-core/chess-game-record"
+import { applyMove, legalMoves } from "@akasha/chess-core/chess-position"
 
 export const help: CommandHelp = {
   positionals: [
