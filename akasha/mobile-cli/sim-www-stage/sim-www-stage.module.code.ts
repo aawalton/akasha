@@ -2,6 +2,7 @@ import { execFileSync } from "node:child_process"
 import { copyFileSync, type Dirent, existsSync, readdirSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
+import { said } from "@akasha/utils-run/running"
 import {
   type MobileApp,
   shellRepoPath,
@@ -137,11 +138,14 @@ export function ensureWebEnvLocal(app: MobileApp, repoRoot: string): undefined {
   if (segments === null) return undefined
   const target = join(repoRoot, ...segments)
   if (existsSync(target)) return undefined
-  const commonGitDir = execFileSync(
+  const commonGitDir = said([
     "git",
-    ["-C", repoRoot, "rev-parse", "--path-format=absolute", "--git-common-dir"],
-    { encoding: "utf8" }
-  ).trim()
+    "-C",
+    repoRoot,
+    "rev-parse",
+    "--path-format=absolute",
+    "--git-common-dir",
+  ]).trim()
   const mainRoot = dirname(commonGitDir)
   const source = join(mainRoot, ...segments)
   if (mainRoot !== repoRoot && existsSync(source)) {
