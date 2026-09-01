@@ -51,17 +51,17 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
   const slug = named[0] as string
   const read = deployableNamed(given.root, slug)
   if ("refused" in read) return refused(read.refused, DATA)
-  const standing = read.deployable
-  const workload = standing.workload
+  const deployable = read.deployable
+  const workload = deployable.workload
 
   const report: string[] = [
-    `web-app\t${standing.slug}\t${standing.pagePath}`,
-    `cluster-service\t${standing.clusterServiceSlug}\t${standing.servicePath}`,
+    `web-app\t${deployable.slug}\t${deployable.pagePath}`,
+    `cluster-service\t${deployable.clusterServiceSlug}\t${deployable.servicePath}`,
     `workload\t${workload.kind} ${workload.namespace}/${workload.name}`,
-    `code\t${standing.synthPath}`,
+    `code\t${deployable.synthPath}`,
   ]
 
-  const plan = await planFor(given.root, workload, standing.synthPath)
+  const plan = await planFor(given.root, workload, deployable.synthPath)
   if (typeof plan === "string") return { report, refusals: [plan], code: DATA }
 
   const left = standInsOf(plan)
@@ -109,7 +109,7 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
     const installs = installableAt(given.root, sha)
     if ("why" in installs) return { report, refusals: [installs.why], code: DATA }
     report.push(`installs\t${sha}\tthe manifests it tracks`)
-    const declared = await declaredBuildEnv(join(given.root, standing.synthPath))
+    const declared = await declaredBuildEnv(join(given.root, deployable.synthPath))
     resolved = resolveBuildEnv(target.namespace, declared, sha)
     report.push(`build-env\t${resolved.env.map((one) => one.name).join(" ")}`)
     if (resolved.missing.length > 0) {
@@ -135,7 +135,7 @@ export async function deploy(argv: readonly string[], given: Given): Promise<Ans
 
   if (!differs && up && isBuilt) {
     report.push(
-      `nothing\tthe cluster already stands as ${standing.slug}'s page describes, at ${sha}`
+      `nothing\tthe cluster already stands as ${deployable.slug}'s page describes, at ${sha}`
     )
     return { report, refusals: [], code: 0 }
   }
