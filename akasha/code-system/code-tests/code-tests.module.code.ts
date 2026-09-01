@@ -202,7 +202,7 @@ export function worldOf(
   at: (path: string) => Uint8Array | null
 ): World {
   const root = mkdtempSync(join(HOLD, PREFIX))
-  const standing = new Set<string>()
+  const tops = new Set<string>()
   for (const one of paths) {
     const bytes = at(one)
     if (bytes === null) continue
@@ -210,7 +210,7 @@ export function worldOf(
     mkdirSync(dirname(to), { recursive: true })
     writeFileSync(to, bytes)
     const top = topOf(one)
-    if (top !== null) standing.add(top)
+    if (top !== null) tops.add(top)
   }
   if (existsSync(join(from, INDEX))) {
     mkdirSync(dirname(join(root, INDEX)), { recursive: true })
@@ -219,7 +219,7 @@ export function worldOf(
   for (const one of CARRIED) {
     if (existsSync(join(from, one))) cpSync(join(from, one), join(root, one))
   }
-  modulesInto(from, root, standing)
+  modulesInto(from, root, tops)
   return {
     root,
     sweep: (): undefined => {
