@@ -41,7 +41,7 @@ function given(root: string): Given {
   return { root, calledAs: "akasha lint", from: root, writer: null, agentId: null }
 }
 
-function standing(path: string, line: number): Found {
+function finding(path: string, line: number): Found {
   return { path, line, column: 1, rule: RULE, said: "This variable is unused." }
 }
 
@@ -112,9 +112,9 @@ check("a run that could not be made answers 3 and says the tree was not judged",
 
 check("findings are grouped by the file they stand in", () => {
   const said = reportOf([
-    standing("akasha/one.ts", 1),
-    standing("akasha/one.ts", 12),
-    standing("akasha/two.ts", 3),
+    finding("akasha/one.ts", 1),
+    finding("akasha/one.ts", 12),
+    finding("akasha/two.ts", 3),
   ])
   expect(said[0]).toBe(`akasha/one.ts:1:1   ${RULE}  This variable is unused.`)
   expect(said[1]).toBe(`akasha/one.ts:12:1  ${RULE}  This variable is unused.`)
@@ -125,12 +125,12 @@ check("findings are grouped by the file they stand in", () => {
 check("what is counted is the findings and the files they stand in", () => {
   expect(many(1, "finding")).toBe("1 finding")
   expect(many(0, "file")).toBe("0 files")
-  const said = sayingOf([standing("akasha/one.ts", 1), standing("akasha/two.ts", 3)])
+  const said = sayingOf([finding("akasha/one.ts", 1), finding("akasha/two.ts", 3)])
   expect(said[said.length - 1]).toBe("2 findings in 2 files.")
 })
 
 check("a report past what one answer holds keeps its end, where the count stands", () => {
-  const found = Array.from({ length: 4000 }, (_, at) => standing(`akasha/held-${at}.ts`, at))
+  const found = Array.from({ length: 4000 }, (_, at) => finding(`akasha/held-${at}.ts`, at))
   const said = sayingOf(found).join("\n")
   expect(said).toContain("4000 findings in 4000 files.")
   expect(said).toContain("bytes of this run are not here")
