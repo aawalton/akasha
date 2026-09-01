@@ -52,6 +52,7 @@ export type Took = { readonly test: Test } | { readonly refused: string }
 export function testIn(key: string, given: unknown): Took {
   const held = objectIn(given)
   if (held === null) return { refused: `\`where.${key}\` is no test this takes` }
+  if (Object.keys(held).length === 0) return { refused: `\`where.${key}\` states no test` }
   const test: Record<string, unknown> = {}
   for (const [name, bound] of Object.entries(held)) {
     const at = `\`where.${key}.${name}\``

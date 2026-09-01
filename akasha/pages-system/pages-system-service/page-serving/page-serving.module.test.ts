@@ -222,3 +222,8 @@ test("a test named nowhere is refused rather than narrowing nothing", async () =
   expect(answered.status).toBe(400)
   expect(String((await bodyOf(answered)).refused)).toContain("bogusop")
 })
+
+test("a test stating nothing is refused by the key it stands on", () => {
+  const read = queryIn({ pageTypeSlug: "invariant-kind", where: { slug: {} } })
+  expect("refused" in read && read.refused).toContain("where.slug")
+})

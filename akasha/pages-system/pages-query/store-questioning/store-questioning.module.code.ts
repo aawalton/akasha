@@ -113,6 +113,7 @@ export function testsUnknownIn(where: Flat): readonly string[] {
       found.push(`\`${key}\` is given ${JSON.stringify(test)}, which names no test`)
       continue
     }
+    if (Object.keys(test).length === 0) found.push(`\`${key}\` is given a test stating nothing`)
     for (const name of Object.keys(test)) {
       if (!KNOWN_TESTS.includes(name)) found.push(`\`${name}\` on \`${key}\` is no test`)
     }

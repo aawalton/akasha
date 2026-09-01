@@ -98,6 +98,7 @@ function unrun(where: Readonly<Record<string, Test>> | undefined): string | null
     if (test === null || typeof test !== "object" || Array.isArray(test)) {
       return `\`where.${key}\` is no test this takes`
     }
+    if (Object.keys(test).length === 0) return `\`where.${key}\` states no test`
     for (const name of Object.keys(test)) {
       if (TESTS_RUN.includes(name)) continue
       return `\`where.${key}.${name}\` is no test this runs. the tests are ${TESTS_RUN.join(", ")}`

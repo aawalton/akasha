@@ -171,3 +171,8 @@ test("an ordering test reads two numbers as numbers", () => {
 test("an ordering test over nothing held keeps nothing", () => {
   expect(meets({}, "at", { before: "2026-09-01" })).toBe(false)
 })
+
+test("a test stating nothing is refused rather than narrowing nothing", () => {
+  const asked = over({ slug: {} })
+  expect("refused" in asked && asked.refused).toContain("where.slug")
+})

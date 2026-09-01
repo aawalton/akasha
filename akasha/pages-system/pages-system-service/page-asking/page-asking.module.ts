@@ -26,6 +26,10 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "A test stating nothing is refused rather than narrowing nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The tests this runs are the ones `@akasha/pages-query` names.",
     },
     {

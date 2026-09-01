@@ -84,6 +84,14 @@ test("a test named in no vocabulary is refused rather than dropped", async () =>
   expect(asked.why).toContain("`bogus` on `slug` is no test")
 })
 
+test("a test stating nothing is refused rather than dropped", async () => {
+  const { fetcher } = recording([{ slug: "one" }, { slug: "two" }])
+  const asked = await askComposed({ "page-type": "finding", where: { slug: {} } }, fetcher, noNap)
+  expect(asked.ok).toBe(false)
+  if (asked.ok) return
+  expect(asked.why).toContain("`slug`")
+})
+
 test("a bare value where a test belongs is refused", async () => {
   const { fetcher } = recording([])
   const asked = await askComposed(
