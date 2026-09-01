@@ -1,9 +1,9 @@
 import type { Initiative } from "../initiative.page-type.ts"
 
-export const amyJennyUnreviewedWidget = {
+export const migrateAlanAndJennyToAkasha = {
   id: "01a05431-37d9-7a21-ad2f-423df6ef1ac1",
   pageTypeSlug: "initiative",
-  slug: "amy-jenny-unreviewed-widget",
+  slug: "migrate-alan-and-jenny-to-akasha",
   domainSlug: "domain/alan-harness",
   personaSlug: "amy",
   parentSlug: "akasha-migration",
