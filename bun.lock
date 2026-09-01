@@ -90,6 +90,21 @@
         "typescript": "5.9.3",
       },
     },
+    "akasha/agents-system": {
+      "name": "@akasha/agents-system",
+    },
+    "akasha/checks-system": {
+      "name": "@akasha/checks-system",
+      "dependencies": {
+        "typescript": "5.9.3",
+      },
+    },
+    "akasha/code-system": {
+      "name": "@akasha/code-system",
+      "dependencies": {
+        "typescript": "5.9.3",
+      },
+    },
     "akasha/code-system/ios-app/ios-apps/alanwalton": {
       "name": "@alanwalton/native-shell",
       "version": "0.0.1",
@@ -116,6 +131,57 @@
       "devDependencies": {
         "@capacitor/cli": "^8.4.1",
       },
+    },
+    "akasha/command-system": {
+      "name": "@akasha/command-system",
+      "dependencies": {
+        "typescript": "5.9.3",
+      },
+    },
+    "akasha/context-system": {
+      "name": "@akasha/context-system",
+    },
+    "akasha/domain-system": {
+      "name": "@akasha/domain-system",
+    },
+    "akasha/file-system": {
+      "name": "@akasha/file-system",
+    },
+    "akasha/graph-system": {
+      "name": "@akasha/graph-system",
+    },
+    "akasha/hook-system": {
+      "name": "@akasha/hook-system",
+    },
+    "akasha/pages-system": {
+      "name": "@akasha/pages-system",
+    },
+    "akasha/pages-system/indexes": {
+      "name": "@akasha/indexes",
+    },
+    "akasha/pages-system/pages-system-service": {
+      "name": "@akasha/pages-system-service",
+    },
+    "akasha/person-system": {
+      "name": "@akasha/person-system",
+    },
+    "akasha/persona-system": {
+      "name": "@akasha/persona-system",
+    },
+    "akasha/readout-system": {
+      "name": "@akasha/readout-system",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/seat-system": {
+      "name": "@akasha/seat-system",
+    },
+    "akasha/service-system": {
+      "name": "@akasha/service-system",
+    },
+    "akasha/testing-system": {
+      "name": "@akasha/testing-system",
     },
     "alanwalton/atlas-web": {
       "name": "@alanwalton/atlas-web",
@@ -3936,6 +4002,42 @@
   },
   "packages": {
     "@acemir/cssom": ["@acemir/cssom@0.9.31", "", {}, "sha512-ZnR3GSaH+/vJ0YlHau21FjfLYjMpYVIzTD8M8vIEQvIGxeOXyXdzCI140rrCY862p/C/BbzWsjc1dgnM9mkoTA=="],
+
+    "@akasha/agents-system": ["@akasha/agents-system@workspace:akasha/agents-system"],
+
+    "@akasha/checks-system": ["@akasha/checks-system@workspace:akasha/checks-system"],
+
+    "@akasha/code-system": ["@akasha/code-system@workspace:akasha/code-system"],
+
+    "@akasha/command-system": ["@akasha/command-system@workspace:akasha/command-system"],
+
+    "@akasha/context-system": ["@akasha/context-system@workspace:akasha/context-system"],
+
+    "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
+
+    "@akasha/file-system": ["@akasha/file-system@workspace:akasha/file-system"],
+
+    "@akasha/graph-system": ["@akasha/graph-system@workspace:akasha/graph-system"],
+
+    "@akasha/hook-system": ["@akasha/hook-system@workspace:akasha/hook-system"],
+
+    "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
+
+    "@akasha/pages-system": ["@akasha/pages-system@workspace:akasha/pages-system"],
+
+    "@akasha/pages-system-service": ["@akasha/pages-system-service@workspace:akasha/pages-system/pages-system-service"],
+
+    "@akasha/person-system": ["@akasha/person-system@workspace:akasha/person-system"],
+
+    "@akasha/persona-system": ["@akasha/persona-system@workspace:akasha/persona-system"],
+
+    "@akasha/readout-system": ["@akasha/readout-system@workspace:akasha/readout-system"],
+
+    "@akasha/seat-system": ["@akasha/seat-system@workspace:akasha/seat-system"],
+
+    "@akasha/service-system": ["@akasha/service-system@workspace:akasha/service-system"],
+
+    "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
 
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:native-shell/atlas"],
 
