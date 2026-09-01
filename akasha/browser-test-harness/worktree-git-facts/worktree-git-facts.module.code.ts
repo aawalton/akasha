@@ -1,15 +1,10 @@
-import { execFileSync } from "node:child_process"
+import { said } from "@akasha/utils-run/running"
 import type { WorktreeGitFacts } from "../target-guard/target-guard.module.code.ts"
 
 export function readWorktreeGitFacts(cwd: string = process.cwd()): WorktreeGitFacts {
   const run = (args: readonly string[]): string | null => {
     try {
-      return execFileSync("git", args, {
-        cwd,
-        encoding: "utf8",
-        stdio: ["ignore", "pipe", "ignore"],
-        timeout: 5_000,
-      }).trim()
+      return said(["git", ...args], { cwd, timeout: 5_000 }).trim()
     } catch {
       return null
     }
