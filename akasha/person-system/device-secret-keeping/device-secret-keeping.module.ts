@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code-system/module"
 
-export const deviceSecretStanding = {
+export const deviceSecretKeeping = {
   id: "01a05b39-f50c-7ad6-a7d4-29b6957fb929",
   pageTypeSlug: "module",
-  slug: "device-secret-standing",
+  slug: "device-secret-keeping",
   definition: "the account a device presenting a secret stands for, and how that secret is kept",
   code: "ts",
   test: "ts",

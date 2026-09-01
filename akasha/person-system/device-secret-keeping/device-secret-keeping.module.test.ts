@@ -22,7 +22,7 @@ import {
   pageIn,
   readPresentedDeviceSecret,
   uuidVersion7,
-} from "./device-secret-standing.module.code.ts"
+} from "./device-secret-keeping.module.code.ts"
 
 const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
