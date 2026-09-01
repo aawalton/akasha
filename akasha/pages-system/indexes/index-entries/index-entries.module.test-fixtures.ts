@@ -93,7 +93,7 @@ const KEYED: Readonly<Record<string, string>> = {
   inner: "inner",
 }
 
-export function standing(pages: Readonly<Record<string, string>>): Shaped {
+export function shaped(pages: Readonly<Record<string, string>>): Shaped {
   return {
     targetOf: (propertySlug) => TARGETS[propertySlug] ?? null,
     admitting: (target) => (target === "domain" ? ["domain", "module"] : []),
