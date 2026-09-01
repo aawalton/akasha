@@ -29,17 +29,6 @@ export const amyJennyUnreviewedWidget = {
     { statement: "`pages-ui` stands in akasha." },
     { statement: "The source of Alan's site stands in akasha." },
     {
-      statement: "The reading is taken by a process running on a workstation rather than by a pod.",
-      workingMemory:
-        "The workstation half is done: `monarch-reading-service` stands under alan-harness, installed and enabled, a oneshot on `*:0/5` sourcing the secrets file and running the reading module's own `import.meta.main`. Two halves remain, both filed. The pod still takes its own reading at `api.categorization.ts:21-24`, which is the next intent. And no reading reaches a pod, because the store reads out of the commit and a reading is never committed. The cookie 401s, so nothing live is proved.",
-    },
-    {
-      statement:
-        "Alan's categorization route in akasha answers from the readout rather than from Monarch.",
-      workingMemory:
-        "Met in the tree, proved locally, unproven live. The route reads what `module/readout-relay` holds, refuses a reading past 45 minutes, and reached no url while serving 200 to a real relay. `monarch-relay-service` on `*:2/5` POSTs the sidecar to `/api/readout-relay`. Pull was refused: it would make the workstation a server to the cluster. MONARCH_COOKIE is out of the live Secret. No Monarch number ever flowed, and no deploy carries this: see a-frozen-lockfile-stops-every-web-pod-from-starting.",
-    },
-    {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
         "The credential side is done and its intent gone: both of Alan's unrevoked device secrets stand as pages (0e557db688, b3d44bf124), deviceSecretCarryingHash answers `found` with revokedAt null for each, and guardReadout returns open. The live web pod 401s for nothing, for malformed and for an unowned secret. What is left is unknowable here: the plaintext lives only on the phone, and if the app was reinstalled a fresh mint is needed, which takes Alan's session.",
