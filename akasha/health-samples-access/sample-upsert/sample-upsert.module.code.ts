@@ -53,7 +53,7 @@ async function pagesOn(day: string): Promise<ReadonlyMap<string, Filed>> {
   return held
 }
 
-async function dayStands(day: string): Promise<boolean> {
+async function dayPaged(day: string): Promise<boolean> {
   const asked = await askComposed({
     "page-type": ANCHOR_PAGE_TYPE,
     where: { "eso-day": { is: day } },
@@ -103,7 +103,7 @@ export async function upsertHealthSamples(args: {
         "arrived-at": prior === undefined || prior.arrivedAt === "" ? now : prior.arrivedAt,
       }
     })
-    if (!(await dayStands(day))) {
+    if (!(await dayPaged(day))) {
       const page = await writePage(ANCHOR_PAGE_TYPE, day, { "eso-day": day }, WRITER)
       if (!page.ok) throw new Error(`upsertHealthSamples: the day ${day}: ${page.why}`)
     }
