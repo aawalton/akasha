@@ -51,6 +51,6 @@ export const amyJennyUnreviewedWidget = {
     "Nothing waits on Alan: a question for him becomes a finding with the call taken in his absence, and the work carries on.",
     "No act on this initiative is out of reach, deploys to the cluster included; only permanently deleting the repository is refused.",
     "Work runs in parallel through subagents wherever it can, twenty at once at the most.",
-    "A package moving into akasha is written in afresh and renamed, since no command carries a file in and its old name stops resolving.",
+    "A package moving into akasha is written in afresh, since no command carries a file in. It is renamed to empty the old folder rather than because its old name would stop resolving.",
   ],
 } as const satisfies Initiative
