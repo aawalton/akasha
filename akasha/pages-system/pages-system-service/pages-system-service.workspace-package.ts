@@ -9,6 +9,7 @@ export const pagesSystemService = {
   partSlugs: [
     "module/page-asking",
     "module/page-listening",
+    "module/page-reading",
     "module/page-serving",
     "module/page-writing",
     "workstation-service/page-query-service",

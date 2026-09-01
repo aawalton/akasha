@@ -1,0 +1,100 @@
+import { textOf } from "@akasha/code-system/body-text"
+import { baseOf, changeOf } from "@akasha/command-system/landing"
+import { listedAt } from "@akasha/indexes"
+
+export type Named = {
+  readonly pageTypeSlug: string
+  readonly slug: string
+}
+
+export type Asked = {
+  readonly paths?: readonly string[]
+  readonly pages?: readonly Named[]
+}
+
+export type Body = {
+  readonly path: string
+  readonly content: string | null
+}
+
+export type Read =
+  | {
+      readonly at: string
+      readonly bodies: readonly Body[]
+      readonly unplaced: readonly string[]
+    }
+  | { readonly refused: string }
+
+export type Reading = {
+  readonly root: string
+}
+
+export type Standing = { readonly path: string }
+
+export type Placing = (root: string, pageTypeSlug: string, slug: string) => readonly Standing[]
+
+const UNDER = "akasha/"
+
+const ABOVE = ".."
+
+export const placing: Placing = listedAt
+
+export function namedIn(one: Named): string {
+  return `${one.pageTypeSlug}/${one.slug}`
+}
+
+export function refusalIn(asked: Asked): string | null {
+  const paths = asked.paths ?? []
+  const pages = asked.pages ?? []
+  if (paths.length === 0 && pages.length === 0) {
+    return "a read carries at least one path or one page"
+  }
+  for (const one of paths) {
+    if (!one.startsWith(UNDER)) {
+      return `\`${one}\` stands outside \`${UNDER}\`, and this answers for akasha alone`
+    }
+    if (one.split("/").includes(ABOVE)) return `\`${one}\` reaches above the root`
+  }
+  for (const one of pages) {
+    if (one.pageTypeSlug === "" || one.slug === "") {
+      return "a page names a page type and a slug, and neither is empty"
+    }
+  }
+  return null
+}
+
+export type Placed =
+  | { readonly paths: readonly string[]; readonly unplaced: readonly string[] }
+  | { readonly refused: string }
+
+export function placedIn(root: string, asked: Asked, places: Placing = placing): Placed {
+  const paths: string[] = [...(asked.paths ?? [])]
+  const unplaced: string[] = []
+  for (const one of asked.pages ?? []) {
+    const standing = places(root, one.pageTypeSlug, one.slug)
+    if (standing.length > 1) {
+      return {
+        refused: `\`${namedIn(one)}\` stands at ${standing.length} paths, so no one body is the page's`,
+      }
+    }
+    const first = standing[0]
+    if (first === undefined) unplaced.push(namedIn(one))
+    else paths.push(first.path)
+  }
+  return { paths, unplaced }
+}
+
+export function reading(given: Reading, asked: Asked, places: Placing = placing): Read {
+  const refused = refusalIn(asked)
+  if (refused !== null) return { refused }
+  try {
+    const placed = placedIn(given.root, asked, places)
+    if ("refused" in placed) return placed
+    const at = baseOf(given.root)
+    const change = changeOf(given.root, { base: at, edits: [] })
+    const bodies = placed.paths.map((one) => ({ path: one, content: textOf(change.before(one)) }))
+    return { at, bodies, unplaced: placed.unplaced }
+  } catch (thrown) {
+    return { refused: String(thrown) }
+  }
+}
