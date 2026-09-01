@@ -4,7 +4,7 @@ import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { NumberBadge } from "@akasha/design-badges/number-badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
 import {
   goalIdToValue,

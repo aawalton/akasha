@@ -1,6 +1,6 @@
 "use client"
 
-import { Text } from "@shared/design-primitives/components/text"
+import { Text } from "@akasha/design-primitives/text-body"
 import type { ReactNode } from "react"
 import { DEFAULT_PRICING_PLATFORM, DEFAULT_PRICING_SERVER } from "./pricing-region"
 

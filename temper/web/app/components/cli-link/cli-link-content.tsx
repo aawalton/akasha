@@ -1,9 +1,9 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { SurfaceProvider, useSurface } from "@shared/design-primitives/components/surface-provider"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Button } from "@akasha/design-primitives/button"
+import { SurfaceProvider, useSurface } from "@akasha/design-primitives/surface-provider"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 import { isRecord } from "@shared/utils-narrow/is-record"
 import { useCallback, useState } from "react"
 import { type CliLinkFailure, describeCliLinkFailure } from "./cli-link-failure"

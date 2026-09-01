@@ -1,8 +1,8 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { formatRelativeTime } from "@shared/design-primitives/utils/format-relative-time"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { formatRelativeTime } from "@akasha/design-primitives/format-relative-time"
 import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import { formatAbsoluteInstant } from "@akasha/pages-core/property-types/instant"
 import { type InstantConfig, type InstantFormat } from "@akasha/pages-core/schema/property-config-schemas"

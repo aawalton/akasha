@@ -2,7 +2,7 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { Textarea } from "@shared/design-primitives/components/textarea"
+import { Textarea } from "@akasha/design-primitives/textarea"
 import { useState } from "react"
 import { z } from "zod"
 

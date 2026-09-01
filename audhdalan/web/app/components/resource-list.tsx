@@ -1,5 +1,5 @@
-import { Heading } from "@shared/design-primitives/components/heading"
-import { Text } from "@shared/design-primitives/components/text"
+import { Heading } from "@akasha/design-primitives/heading"
+import { Text } from "@akasha/design-primitives/text-body"
 import { ExternalLink, FileSpreadsheet, Gauge, NotebookPen, Presentation } from "lucide-react"
 import { Link } from "react-router"
 

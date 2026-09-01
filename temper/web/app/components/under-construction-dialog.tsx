@@ -1,7 +1,7 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
+import { Button } from "@akasha/design-primitives/button"
+import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
 import { Construction } from "lucide-react"
 
 interface UnderConstructionDialogProps {

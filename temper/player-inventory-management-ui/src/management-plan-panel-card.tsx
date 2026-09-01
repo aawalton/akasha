@@ -1,10 +1,10 @@
 "use client"
 
-import { formatGold } from "@shared/design-primitives/utils/format-gold"
+import { formatGold } from "@akasha/design-primitives/format-gold"
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { CardTitleBadges } from "@shared/design-primitives/components/card"
-import { Text } from "@shared/design-primitives/components/text"
+import { CardTitleBadges } from "@akasha/design-primitives/card"
+import { Text } from "@akasha/design-primitives/text-body"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { useSetToggle } from "@shared/design-patterns/hooks/use-set-toggle"
 import { buildNodePath } from "@shared/design-patterns/utils/path"

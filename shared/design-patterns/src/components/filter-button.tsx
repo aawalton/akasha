@@ -1,10 +1,10 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Button } from "@akasha/design-primitives/button"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Filter } from "lucide-react"
 import { useState } from "react"
 

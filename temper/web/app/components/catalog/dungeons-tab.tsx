@@ -3,7 +3,7 @@
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Text } from "@shared/design-primitives/components/text"
+import { Text } from "@akasha/design-primitives/text-body"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
 import { TEMPER_DUNGEONS, TEMPER_QUEST_GIVERS } from "@temper/shared-foundation-misc-dungeons/generated/temper-dungeons.generated"
 import { getSoloDifficulty } from "@temper/shared-foundation-misc-dungeons/solo-difficulty"

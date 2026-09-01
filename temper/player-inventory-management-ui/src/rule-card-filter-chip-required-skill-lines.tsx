@@ -2,9 +2,9 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
-import { Text } from "@shared/design-primitives/components/text"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import { Text } from "@akasha/design-primitives/text-body"
 import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { RequiredSkillLinesCondition } from "@temper/game-items-rules-core/filters/required-skill-lines-filter-types"
 import type { ReactNode } from "react"

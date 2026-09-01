@@ -1,6 +1,6 @@
 "use client"
 
-import { useSingleFlight } from "@shared/design-primitives/hooks/use-single-flight"
+import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
 import type { PurchaseRecommendation, ShoppingItem } from "@temper/player-economics-core/ttc-shopping-types"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { pinLocationIndex, recomputeLocations } from "./shopping-optimizer-helpers"

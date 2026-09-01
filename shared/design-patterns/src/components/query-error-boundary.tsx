@@ -1,7 +1,7 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { Card, CardContent } from "@shared/design-primitives/components/card"
+import { Button } from "@akasha/design-primitives/button"
+import { Card, CardContent } from "@akasha/design-primitives/card"
 import { FolderOpen } from "lucide-react"
 import * as React from "react"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "./empty"

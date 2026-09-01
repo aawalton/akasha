@@ -2,7 +2,7 @@
 
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Button } from "@shared/design-primitives/components/button"
+import { Button } from "@akasha/design-primitives/button"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import { ChevronLeft } from "lucide-react"
 import { useEffect, useState } from "react"

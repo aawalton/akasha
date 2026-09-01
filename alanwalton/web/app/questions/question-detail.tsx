@@ -1,10 +1,10 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Button } from "@shared/design-primitives/components/button"
-import { Textarea } from "@shared/design-primitives/components/textarea"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { formatRelativeTime } from "@shared/design-primitives/utils/format-relative-time"
+import { Button } from "@akasha/design-primitives/button"
+import { Textarea } from "@akasha/design-primitives/textarea"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { formatRelativeTime } from "@akasha/design-primitives/format-relative-time"
 import {
   OPEN_QUESTION_STATUS,
   QUESTION_PAGE_TYPE_SLUG,

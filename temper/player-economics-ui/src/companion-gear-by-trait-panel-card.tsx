@@ -3,7 +3,7 @@
 import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { CardTitleBadges } from "@shared/design-primitives/components/card"
+import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { companionEquipmentQualities } from "@temper/game-companions-core/generated/temper-companion-equipment-quality.generated"
 import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"

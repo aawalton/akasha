@@ -1,4 +1,4 @@
-import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
+import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 
 export function SystemCard({
   title,

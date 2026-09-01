@@ -1,6 +1,6 @@
 "use client"
 
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
 import {
   type ComparisonOpId,
   comparisonOps,

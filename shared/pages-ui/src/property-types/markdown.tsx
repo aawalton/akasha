@@ -2,8 +2,8 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { Textarea } from "@shared/design-primitives/components/textarea"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Textarea } from "@akasha/design-primitives/textarea"
+import { cn } from "@akasha/design-primitives/cn"
 import { useEffect, useRef, useState } from "react"
 
 import { MarkdownRenderer } from "../markdown/markdown-renderer"

@@ -2,7 +2,7 @@ import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Heading } from "@shared/design-primitives/components/heading"
+import { Heading } from "@akasha/design-primitives/heading"
 import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@shared/design-patterns/components/tabs"
 import { List } from "lucide-react"
 

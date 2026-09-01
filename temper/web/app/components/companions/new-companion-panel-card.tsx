@@ -2,9 +2,9 @@
 
 import { useAuth } from "@shared/auth/use-auth"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Spinner } from "@shared/design-primitives/components/spinner"
-import { Text } from "@shared/design-primitives/components/text"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Spinner } from "@akasha/design-primitives/spinner"
+import { Text } from "@akasha/design-primitives/text-body"
+import { cn } from "@akasha/design-primitives/cn"
 import { usePagesUIRouter } from "@shared/pages-ui/router-context"
 import { extractCompanionMetadata } from "@temper/game-characters/build-metadata"
 import { encodeCompanion } from "@temper/game-codec/companions/companion-codec"

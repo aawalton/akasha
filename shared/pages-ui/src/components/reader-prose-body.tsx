@@ -1,6 +1,6 @@
 "use client"
 
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
 import { useWindowVirtualizer } from "@tanstack/react-virtual"
 import { memo, type RefObject, useImperativeHandle, useMemo, useRef } from "react"
 import { clampFraction, fractionToScrollTop } from "./position-fraction"

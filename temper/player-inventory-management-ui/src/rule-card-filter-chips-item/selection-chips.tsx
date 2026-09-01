@@ -2,8 +2,8 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { BadgeToggleGroup } from "@akasha/design-badges/badge-toggle-group"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { Text } from "@shared/design-primitives/components/text"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { Text } from "@akasha/design-primitives/text-body"
 import { LOCATION_OPTIONS } from "@temper/game-items-rules-core/filters/location-filter"
 import { SET_SOURCE_TYPE_OPTIONS } from "@temper/game-items-rules-core/filters/set-sources-filter"
 import type { ReactNode } from "react"

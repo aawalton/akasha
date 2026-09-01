@@ -2,7 +2,7 @@
 
 import { InputBadge } from "@akasha/design-badges/input-badge"
 import { SearchMultiSelect, type SearchMultiSelectItem } from "@akasha/design-forms/search-multi-select"
-import { useDebouncedValue } from "@shared/design-primitives/hooks/use-debounced-value"
+import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import { useMemo, useState } from "react"
 import { usePageResolverOptional } from "../contexts/page-resolver"
 import { useRelationPicker } from "../contexts/relation-picker"

@@ -1,9 +1,9 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { Input } from "@shared/design-primitives/components/input"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { Button } from "@akasha/design-primitives/button"
+import { Input } from "@akasha/design-primitives/input"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { capitalize } from "@shared/utils-narrow/capitalize"
 import { Maximize2 } from "lucide-react"
 import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"

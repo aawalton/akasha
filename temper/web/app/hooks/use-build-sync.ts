@@ -1,6 +1,6 @@
 "use client"
 
-import { useSingleFlight } from "@shared/design-primitives/hooks/use-single-flight"
+import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
 import { useEffect, useRef } from "react"
 
 interface UseBuildSyncOptions<TBuild, TAction, TMeta> {

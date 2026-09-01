@@ -1,6 +1,6 @@
 "use client"
 
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
 import {

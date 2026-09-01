@@ -5,11 +5,11 @@ import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton
 import { LoadingContainer } from "@akasha/design-layout/loading-container"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { SkeletonText } from "@akasha/design-layout/skeleton-text"
-import { Button } from "@shared/design-primitives/components/button"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { Skeleton } from "@shared/design-primitives/components/skeleton"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Button } from "@akasha/design-primitives/button"
+import { Heading } from "@akasha/design-primitives/heading"
+import { Skeleton } from "@akasha/design-primitives/skeleton"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 
 const RADIUS_VARIANTS = ["sm", "md", "lg", "full"] as const
 

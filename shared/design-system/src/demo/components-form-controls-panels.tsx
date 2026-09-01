@@ -2,14 +2,14 @@
 
 import { useState } from "react"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Checkbox } from "@shared/design-primitives/components/checkbox"
-import { Label } from "@shared/design-primitives/components/label"
-import { Progress } from "@shared/design-primitives/components/progress"
-import { RadioGroup, RadioGroupItem } from "@shared/design-primitives/components/radio-group"
-import { Slider } from "@shared/design-primitives/components/slider"
-import { Switch } from "@shared/design-primitives/components/switch"
-import { Toggle } from "@shared/design-primitives/components/toggle"
-import { ToggleGroup, ToggleGroupItem } from "@shared/design-primitives/components/toggle-group"
+import { Checkbox } from "@akasha/design-primitives/checkbox"
+import { Label } from "@akasha/design-primitives/label"
+import { Progress } from "@akasha/design-primitives/progress-bar"
+import { RadioGroup, RadioGroupItem } from "@akasha/design-primitives/radio-group"
+import { Slider } from "@akasha/design-primitives/slider"
+import { Switch } from "@akasha/design-primitives/switch-control"
+import { Toggle } from "@akasha/design-primitives/toggle"
+import { ToggleGroup, ToggleGroupItem } from "@akasha/design-primitives/toggle-group"
 
 export function ComponentsFormControlsPanels() {
   const [radioValue, setRadioValue] = useState("option-1")

@@ -1,5 +1,5 @@
 import { PageLayout, PageTitle, PageTitleBadges } from "@akasha/design-layout/page-layout"
-import { Card, CardContent } from "@shared/design-primitives/components/card"
+import { Card, CardContent } from "@akasha/design-primitives/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { Globe } from "lucide-react"
 

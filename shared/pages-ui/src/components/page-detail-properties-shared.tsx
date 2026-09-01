@@ -2,7 +2,7 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { Calendar } from "@akasha/design-forms/calendar"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { useState } from "react"
 import { formatSmartDate } from "@akasha/pages-core/view/format-smart-date"
 import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule"

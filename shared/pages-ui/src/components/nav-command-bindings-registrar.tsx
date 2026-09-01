@@ -1,8 +1,8 @@
 "use client"
 
 import type { AppNavItem } from "@akasha/design-layout/nav-types"
-import type { KeyBinding, KeyLayer } from "@shared/design-primitives/utils/keyboard-registry"
-import { useKeyboardBinding } from "@shared/design-primitives/hooks/use-keyboard-registry"
+import type { KeyBinding, KeyLayer } from "@akasha/design-primitives/keyboard-registry"
+import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import type { ReactNode } from "react"
 import { navItemsToCommandBindings } from "./nav-command-bindings"
 

@@ -1,7 +1,7 @@
 "use client"
 
-import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
-import { Text } from "@shared/design-primitives/components/text"
+import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
+import { Text } from "@akasha/design-primitives/text-body"
 import { Lock } from "lucide-react"
 import { useState } from "react"
 

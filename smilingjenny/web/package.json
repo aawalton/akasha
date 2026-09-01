@@ -17,7 +17,7 @@
   "dependencies": {
     "@shared/day": "workspace:*",
     "@infra/k8s-types": "workspace:*",
-    "@shared/design-primitives": "workspace:*",
+    "@akasha/design-primitives": "workspace:*",
     "@shared/design-system": "workspace:*",
     "@shared/errors-client": "workspace:*",
     "@shared/notifications": "workspace:*",

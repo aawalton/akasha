@@ -1,4 +1,4 @@
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type React from "react"
 import { data } from "react-router"
 import { Empty, money, readableDate, Shell } from "~/components/shell"

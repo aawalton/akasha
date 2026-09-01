@@ -1,6 +1,6 @@
 "use client"
 
-import { Dialog, DialogBody, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
+import { Dialog, DialogBody, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
 import { AlertTriangle } from "lucide-react"
 
 export interface SetTargetEntity {

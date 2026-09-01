@@ -1,9 +1,9 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Button } from "@akasha/design-primitives/button"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { cn } from "@akasha/design-primitives/cn"
 import { Info, Plus, X } from "lucide-react"
 import type { ReactNode } from "react"
 

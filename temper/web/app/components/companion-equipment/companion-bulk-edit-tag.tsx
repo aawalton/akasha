@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 
 interface BulkEditTagOption<T extends string> {
   id: T

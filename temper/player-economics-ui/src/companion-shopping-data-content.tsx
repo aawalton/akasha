@@ -4,7 +4,7 @@ import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badg
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Card, CardContent } from "@shared/design-primitives/components/card"
+import { Card, CardContent } from "@akasha/design-primitives/card"
 import { AddFilterButton } from "@shared/design-patterns/components/add-filter-button"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { FilterButton } from "@shared/design-patterns/components/filter-button"

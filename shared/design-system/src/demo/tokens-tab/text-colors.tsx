@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Heading } from "@shared/design-primitives/components/heading"
+import { Heading } from "@akasha/design-primitives/heading"
 import { TokenSwatch } from "../token-swatch"
 
 export function TextColorsPanel() {

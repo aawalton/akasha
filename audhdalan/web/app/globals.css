@@ -6,4 +6,4 @@
 @source "../../../akasha/design/design-forms/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-layout/**/*.{ts,tsx}";
 @source "../../../shared/design-patterns/src/**/*.{ts,tsx}";
-@source "../../../shared/design-primitives/src/**/*.{ts,tsx}";
+@source "../../../akasha/design/design-primitives/**/*.{ts,tsx}";

@@ -5,7 +5,7 @@ import ts from "typescript"
 import { z } from "zod"
 
 const PRIMITIVES_PACKAGE_DIR = "shared/design-primitives"
-const PRIMITIVES_PACKAGE_NAME = "@shared/design-primitives"
+const PRIMITIVES_PACKAGE_NAME = "@akasha/design-primitives"
 const COMPONENTS_SUBDIR = "src/components"
 
 const CAPPED_BY_AVAILABLE_WIDTH =

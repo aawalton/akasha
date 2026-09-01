@@ -7,7 +7,7 @@ import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
 import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput, InputGroupText, InputGroupTextarea } from "@akasha/design-forms/input-group"
 import { InputOTP, InputOTPGroup, InputOTPSeparator, InputOTPSlot } from "@akasha/design-forms/input-otp"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Heading } from "@shared/design-primitives/components/heading"
+import { Heading } from "@akasha/design-primitives/heading"
 
 export function ComponentsInputCompositePanels() {
   const [otpValue, setOtpValue] = useState("")

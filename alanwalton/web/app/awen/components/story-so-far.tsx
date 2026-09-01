@@ -1,4 +1,4 @@
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useState } from "react"
 import type { ClientStoryChapter } from "../lib/client-story-session"
 

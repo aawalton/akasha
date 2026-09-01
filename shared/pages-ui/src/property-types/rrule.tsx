@@ -2,9 +2,9 @@
 
 import { getEsoDayStr } from "@shared/day"
 import { Badge } from "@akasha/design-badges/badge"
-import { Button } from "@shared/design-primitives/components/button"
-import { Input } from "@shared/design-primitives/components/input"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { Button } from "@akasha/design-primitives/button"
+import { Input } from "@akasha/design-primitives/input"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { labelRrule } from "@shared/recurrence/labeling"
 import { parseRecurringText } from "@shared/recurrence/parsing"

@@ -1,6 +1,6 @@
 "use client"
 
-import { formatCompact, formatFull, formatPercent, formatPercentFull, Table, TableBody, TableCell, TableHead, TableHeader, TableRow, TableRowLabel, TableTotalCell, TableValue } from "@shared/design-primitives/components/table"
+import { formatCompact, formatFull, formatPercent, formatPercentFull, Table, TableBody, TableCell, TableHead, TableHeader, TableRow, TableRowLabel, TableTotalCell, TableValue } from "@akasha/design-primitives/table"
 import {
   type RotationBreakdownRowId,
   rotationBreakdownRows,

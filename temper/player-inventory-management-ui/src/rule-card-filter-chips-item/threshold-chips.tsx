@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { LEVEL_OPTIONS } from "@temper/game-items-rules-core/filters/level-filter"
 import { QUALITY_OPTIONS } from "@temper/game-items-rules-core/filters/quality-filter"
 import type { ReactNode } from "react"

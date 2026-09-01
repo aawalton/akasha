@@ -1,8 +1,8 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableTotalCell } from "@shared/design-primitives/components/table"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableTotalCell } from "@akasha/design-primitives/table"
+import { cn } from "@akasha/design-primitives/cn"
 import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"
 import { getBaseRoleName } from "@temper/game-companions-core/companion-base-roles-data"
 import { type Build, getBuildScore } from "@temper/game-companions-core/companion-leaderboard"

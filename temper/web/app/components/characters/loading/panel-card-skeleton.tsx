@@ -1,9 +1,9 @@
 "use client"
 
-import { Card, CardAction, CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
-import { Skeleton } from "@shared/design-primitives/components/skeleton"
+import { Card, CardAction, CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
+import { Skeleton } from "@akasha/design-primitives/skeleton"
 import { PANEL_CARD_WIDTH_CLASSES } from "@akasha/design-layout/panel-card-data"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
 import { ChevronDown } from "lucide-react"
 
 interface PanelCardSkeletonProps {

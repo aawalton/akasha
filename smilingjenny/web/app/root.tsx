@@ -1,4 +1,4 @@
-import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
+import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { ErrorCaptureInstaller } from "@shared/errors-client/error-capture-installer"
 import { useReportRenderError } from "@shared/errors-client/use-report-render-error"
 import type React from "react"

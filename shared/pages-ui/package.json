@@ -51,7 +51,7 @@
     "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@shared/design-patterns": "workspace:*",
-    "@shared/design-primitives": "workspace:*",
+    "@akasha/design-primitives": "workspace:*",
     "@shared/errors-client": "workspace:*",
     "@shared/object-store": "workspace:*",
     "@akasha/pages-access": "workspace:*",

@@ -2,11 +2,11 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Button } from "@shared/design-primitives/components/button"
-import { Dialog, DialogBody, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger } from "@shared/design-primitives/components/dialog"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { Button } from "@akasha/design-primitives/button"
+import { Dialog, DialogBody, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger } from "@akasha/design-primitives/dialog"
+import { Heading } from "@akasha/design-primitives/heading"
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@akasha/design-primitives/table"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 
 const PRINCIPLES = [
   {

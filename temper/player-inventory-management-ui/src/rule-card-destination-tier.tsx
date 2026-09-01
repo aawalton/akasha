@@ -3,7 +3,7 @@
 import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { EditableNumber } from "@akasha/design-forms/editable-number"
-import { Button } from "@shared/design-primitives/components/button"
+import { Button } from "@akasha/design-primitives/button"
 import type {
   CharEligibility,
   MoveToDestination,

@@ -1,8 +1,8 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Skeleton } from "@shared/design-primitives/components/skeleton"
-import { Text } from "@shared/design-primitives/components/text"
+import { Skeleton } from "@akasha/design-primitives/skeleton"
+import { Text } from "@akasha/design-primitives/text-body"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"

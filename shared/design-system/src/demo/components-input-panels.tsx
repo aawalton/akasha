@@ -2,13 +2,13 @@
 
 import { useState } from "react"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Input } from "@shared/design-primitives/components/input"
-import { Label } from "@shared/design-primitives/components/label"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
-import { Textarea } from "@shared/design-primitives/components/textarea"
+import { Input } from "@akasha/design-primitives/input"
+import { Label } from "@akasha/design-primitives/label"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import { Textarea } from "@akasha/design-primitives/textarea"
 import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 
 export function ComponentsInputPanels() {
   const [selectValue, setSelectValue] = useState<string>()

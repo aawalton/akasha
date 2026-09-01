@@ -1,6 +1,6 @@
 "use client"
 
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
 import { EllipsisVertical } from "lucide-react"
 
 interface PageActionsMenuProps {

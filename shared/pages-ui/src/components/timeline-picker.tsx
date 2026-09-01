@@ -1,8 +1,8 @@
 "use client"
 
-import { FilterableList, FilterableListItem } from "@shared/design-primitives/components/filterable-list"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { SubView } from "@shared/design-primitives/components/sub-view"
+import { FilterableList, FilterableListItem } from "@akasha/design-primitives/filterable-list"
+import { Heading } from "@akasha/design-primitives/heading"
+import { SubView } from "@akasha/design-primitives/sub-view"
 
 interface TimelinePickerProps {
   propertyOptions: readonly { id: string; label: string }[]

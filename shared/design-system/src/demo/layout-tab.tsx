@@ -4,13 +4,13 @@ import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { useColumnCount } from "@akasha/design-layout/use-column-count"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
+import { Heading } from "@akasha/design-primitives/heading"
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@akasha/design-primitives/table"
 import { COLUMN_WIDTH } from "@akasha/design-layout/layout-data"
 import { getPageWidth } from "@akasha/design-layout/page-layout-data"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 
 export function LayoutTabContent() {
   const columnCount = useColumnCount()

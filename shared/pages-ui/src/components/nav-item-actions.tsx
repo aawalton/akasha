@@ -1,6 +1,6 @@
 "use client"
 
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
 import { softDeletePage } from "@akasha/pages-access/delete"
 import { MoreHorizontal, Trash2 } from "lucide-react"
 import { usePagesUIRouter } from "../router-context"

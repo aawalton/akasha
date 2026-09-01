@@ -1,7 +1,7 @@
-import { Button } from "@shared/design-primitives/components/button"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Button } from "@akasha/design-primitives/button"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import { Copy, Menu, Search, Target } from "lucide-react"
 

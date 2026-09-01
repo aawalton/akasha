@@ -2,7 +2,7 @@
 
 import { useAuth } from "@shared/auth/use-auth"
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { classifyLocation } from "@temper/game-items-core/inventory-grouping"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"

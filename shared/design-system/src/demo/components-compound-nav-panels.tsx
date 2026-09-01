@@ -6,12 +6,12 @@ import { toast } from "sonner"
 import { Form, FormControl, FormDescription, FormField, FormItem, FormLabel, FormMessage } from "@akasha/design-forms/form"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { SidebarNavGroup } from "@akasha/design-layout/sidebar-nav-group"
-import { Button } from "@shared/design-primitives/components/button"
-import { Input } from "@shared/design-primitives/components/input"
-import { Menubar, MenubarCheckboxItem, MenubarContent, MenubarItem, MenubarMenu, MenubarRadioGroup, MenubarRadioItem, MenubarSeparator, MenubarShortcut, MenubarSub, MenubarSubContent, MenubarSubTrigger, MenubarTrigger } from "@shared/design-primitives/components/menubar"
-import { Toaster } from "@shared/design-primitives/components/sonner"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Button } from "@akasha/design-primitives/button"
+import { Input } from "@akasha/design-primitives/input"
+import { Menubar, MenubarCheckboxItem, MenubarContent, MenubarItem, MenubarMenu, MenubarRadioGroup, MenubarRadioItem, MenubarSeparator, MenubarShortcut, MenubarSub, MenubarSubContent, MenubarSubTrigger, MenubarTrigger } from "@akasha/design-primitives/menubar"
+import { Toaster } from "@akasha/design-primitives/sonner"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 
 export function ComponentsCompoundNavPanels() {
   return (

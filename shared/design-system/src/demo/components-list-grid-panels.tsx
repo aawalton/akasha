@@ -3,8 +3,8 @@
 import { useState } from "react"
 import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Card, CardContent } from "@shared/design-primitives/components/card"
-import { Heading } from "@shared/design-primitives/components/heading"
+import { Card, CardContent } from "@akasha/design-primitives/card"
+import { Heading } from "@akasha/design-primitives/heading"
 
 export function ComponentsListGridPanels() {
   const [visibleCount, setVisibleCount] = useState(5)

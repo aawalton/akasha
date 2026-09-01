@@ -1,9 +1,9 @@
 "use client"
 
 import { Icon } from "@shared/design-patterns/components/icon"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { cn } from "@akasha/design-primitives/cn"
 import { DegradingImage } from "@shared/pages-ui/components/degrading-image"
 import { useSyncExternalStore } from "react"
 import { StarRow } from "~/idle/components/star-row"

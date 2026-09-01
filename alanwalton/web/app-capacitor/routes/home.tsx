@@ -2,7 +2,7 @@
 
 import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { reportError } from "@shared/errors-client/report-error"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"

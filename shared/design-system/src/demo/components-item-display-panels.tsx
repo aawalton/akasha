@@ -3,15 +3,15 @@
 import { useState } from "react"
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Button } from "@shared/design-primitives/components/button"
-import { HorizontalScrollFade } from "@shared/design-primitives/components/horizontal-scroll-fade"
-import { ScrollArea, ScrollBar } from "@shared/design-primitives/components/scroll-area"
+import { Button } from "@akasha/design-primitives/button"
+import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
+import { ScrollArea, ScrollBar } from "@akasha/design-primitives/scroll-area"
 import { Chip } from "@shared/design-patterns/components/chip"
 import { ChipList } from "@shared/design-patterns/components/chip-list"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 
 export function ComponentsItemDisplayPanels() {
   const [expandedRows, setExpandedRows] = useState<Record<string, boolean>>({

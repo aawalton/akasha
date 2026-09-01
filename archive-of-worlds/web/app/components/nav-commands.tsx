@@ -1,7 +1,7 @@
 "use client"
 
 import type { AppNavItem } from "@akasha/design-layout/nav-types"
-import { useKeyboardBinding } from "@shared/design-primitives/hooks/use-keyboard-registry"
+import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import { useNavigate } from "react-router"
 import { primaryNavItems } from "./nav-items"
 

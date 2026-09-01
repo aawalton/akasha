@@ -1,9 +1,9 @@
 "use client"
 
-import { ContextMenu, ContextMenuContent, ContextMenuItem, ContextMenuTrigger } from "@shared/design-primitives/components/context-menu"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { ContextMenu, ContextMenuContent, ContextMenuItem, ContextMenuTrigger } from "@akasha/design-primitives/context-menu"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { cn } from "@akasha/design-primitives/cn"
 import { Fragment } from "react"
 import { useSentenceNarration } from "../media/sentence-narration-context"
 import { type ProseBlock, splitInlineEmphasis } from "./reader-prose"

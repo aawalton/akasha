@@ -1,10 +1,10 @@
 "use client"
 
 import { Slot } from "@radix-ui/react-slot"
-import { Separator } from "@shared/design-primitives/components/separator"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Separator } from "@akasha/design-primitives/separator"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { cn } from "@akasha/design-primitives/cn"
 import { cva, type VariantProps } from "class-variance-authority"
 
 const buttonGroupVariants = cva(

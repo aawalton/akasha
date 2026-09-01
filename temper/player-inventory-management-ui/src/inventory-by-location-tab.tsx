@@ -2,7 +2,7 @@
 
 import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Button } from "@shared/design-primitives/components/button"
+import { Button } from "@akasha/design-primitives/button"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { type SortDirection } from "@shared/design-patterns/utils/sort-types"
 import { computeCurrencyGoldTotal } from "@temper/game-items-core/inventory-currencies"

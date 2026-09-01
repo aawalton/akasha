@@ -1,8 +1,8 @@
 "use client"
 
 import { PaginatedCardGrid } from "@akasha/design-layout/paginated-card-grid"
-import { Button } from "@shared/design-primitives/components/button"
-import { Card, CardContent } from "@shared/design-primitives/components/card"
+import { Button } from "@akasha/design-primitives/button"
+import { Card, CardContent } from "@akasha/design-primitives/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { getRoleName } from "@temper/game-characters-character/roles"
 import type { CharacterState } from "@temper/game-characters-character/build-types"

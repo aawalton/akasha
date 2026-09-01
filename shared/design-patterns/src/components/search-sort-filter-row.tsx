@@ -1,7 +1,7 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Button } from "@akasha/design-primitives/button"
+import { cn } from "@akasha/design-primitives/cn"
 import { X } from "lucide-react"
 
 interface SearchSortFilterRowProps {

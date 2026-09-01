@@ -3,7 +3,7 @@
 import { Badge } from "@akasha/design-badges/badge"
 import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
 import { PageTabHeader, PageTabTitleBadges } from "@akasha/design-layout/page-tab-header"
-import { Card, CardContent } from "@shared/design-primitives/components/card"
+import { Card, CardContent } from "@akasha/design-primitives/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { useScrollRestoration } from "@shared/design-patterns/hooks/use-scroll-restoration"
 import { type SortDirection } from "@shared/design-patterns/utils/sort-types"

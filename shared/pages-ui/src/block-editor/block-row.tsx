@@ -1,7 +1,7 @@
 "use client"
 
-import { Textarea } from "@shared/design-primitives/components/textarea"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Textarea } from "@akasha/design-primitives/textarea"
+import { cn } from "@akasha/design-primitives/cn"
 import { isTodoChecked } from "@akasha/pages-core/property-types/block-markers"
 import { type ShorthandTransform } from "@akasha/pages-core/property-types/markdown-shorthand"
 import { type Block } from "@akasha/pages-core/property-types/rich-document"

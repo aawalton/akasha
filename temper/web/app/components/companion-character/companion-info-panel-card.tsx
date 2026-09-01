@@ -1,9 +1,9 @@
 "use client"
 
-import { Input } from "@shared/design-primitives/components/input"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { Input } from "@akasha/design-primitives/input"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { toVisibility } from "@temper/game-companions-core/companion-types"
 import { useEffect, useState } from "react"
 import { useCompanionMetadata } from "@/components/companions/context/use-companion"

@@ -3,7 +3,7 @@
 import { useState } from "react"
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Heading } from "@shared/design-primitives/components/heading"
+import { Heading } from "@akasha/design-primitives/heading"
 import { AddFilterButton } from "@shared/design-patterns/components/add-filter-button"
 import { AddSortButton } from "@shared/design-patterns/components/add-sort-button"
 import { FilterButton } from "@shared/design-patterns/components/filter-button"
@@ -12,8 +12,8 @@ import { SearchSortFilterRow } from "@shared/design-patterns/components/search-s
 import { SortButton } from "@shared/design-patterns/components/sort-button"
 import { SortGroup } from "@shared/design-patterns/components/sort-group"
 import { type SortDirection, type SortEntry, type SortOption } from "@shared/design-patterns/utils/sort-types"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 
 const SORT_OPTIONS: SortOption[] = [
   { value: "name", label: "Name", defaultDirection: "asc" },

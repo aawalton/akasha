@@ -2,8 +2,8 @@ import { Badge, IconBadge } from "@akasha/design-badges/badge"
 import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import {
   type CompanionBaseRoleId,

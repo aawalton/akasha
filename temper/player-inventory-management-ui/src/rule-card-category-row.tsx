@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { ITEM_CATEGORY_TREE } from "@temper/game-items-core/generated/item-category-tree.generated"
 import {
   ALL_CATEGORIES_ID,

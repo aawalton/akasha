@@ -1,8 +1,8 @@
 "use client"
 
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { cn } from "@akasha/design-primitives/cn"
 
 function Kbd({ className, ...props }: React.ComponentProps<"kbd">) {
   const surface = useSurface()

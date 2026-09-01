@@ -1,9 +1,9 @@
 "use client"
 
-import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { Textarea } from "@shared/design-primitives/components/textarea"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { Textarea } from "@akasha/design-primitives/textarea"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { type ChangeEvent, useEffect, useState } from "react"
 
 interface RuleNotesDialogProps {

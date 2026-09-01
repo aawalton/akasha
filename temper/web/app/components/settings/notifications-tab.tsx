@@ -2,11 +2,11 @@
 
 import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Input } from "@shared/design-primitives/components/input"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { Switch } from "@shared/design-primitives/components/switch"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { Input } from "@akasha/design-primitives/input"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { Switch } from "@akasha/design-primitives/switch-control"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type {
   InventoryLoggingLevel,
   InventoryPerfTracingLevel,

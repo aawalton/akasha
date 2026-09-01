@@ -2,11 +2,11 @@
 
 import { Icon } from "@shared/design-patterns/components/icon"
 import { MenuTabsTrigger } from "@shared/design-patterns/components/tabs"
-import { Button } from "@shared/design-primitives/components/button"
-import { Dialog, DialogBody, DialogContent, DialogFooter, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
-import { DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator } from "@shared/design-primitives/components/dropdown-menu"
-import { Input } from "@shared/design-primitives/components/input"
-import { Label } from "@shared/design-primitives/components/label"
+import { Button } from "@akasha/design-primitives/button"
+import { Dialog, DialogBody, DialogContent, DialogFooter, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
+import { DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator } from "@akasha/design-primitives/dropdown-menu"
+import { Input } from "@akasha/design-primitives/input"
+import { Label } from "@akasha/design-primitives/label"
 import { useEffect, useRef, useState } from "react"
 import type { ViewCallbacks } from "../mutators/views"
 

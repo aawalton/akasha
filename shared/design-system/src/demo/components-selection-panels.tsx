@@ -5,7 +5,7 @@ import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badg
 import { MultiSelect, type MultiSelectItem } from "@akasha/design-forms/multi-select"
 import { SearchMultiSelect, type SearchMultiSelectItem } from "@akasha/design-forms/search-multi-select"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Heading } from "@shared/design-primitives/components/heading"
+import { Heading } from "@akasha/design-primitives/heading"
 import { SearchButton } from "@shared/design-patterns/components/search-button"
 
 const FIRST_MULTI_SELECT_ITEM: MultiSelectItem = { value: "warrior", label: "Warrior" }

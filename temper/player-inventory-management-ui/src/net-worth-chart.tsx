@@ -1,8 +1,8 @@
 "use client"
 
-import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { formatGold } from "@akasha/design-primitives/format-gold"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import {
   Area,
   AreaChart,

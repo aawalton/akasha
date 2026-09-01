@@ -1,9 +1,9 @@
 "use client"
 
 import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput } from "@akasha/design-forms/input-group"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { cn } from "@akasha/design-primitives/cn"
 import { Search, X } from "lucide-react"
 import { useEffect, useRef, useState } from "react"
 

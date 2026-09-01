@@ -1,6 +1,6 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { CardHeader } from "@shared/design-primitives/components/card"
-import { Skeleton } from "@shared/design-primitives/components/skeleton"
+import { CardHeader } from "@akasha/design-primitives/card"
+import { Skeleton } from "@akasha/design-primitives/skeleton"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 import { AuthPageContent } from "@/components/auth/auth-page-content"

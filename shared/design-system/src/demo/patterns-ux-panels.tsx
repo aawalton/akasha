@@ -2,13 +2,13 @@
 
 import { AlertCircle, FolderOpen, Search } from "lucide-react"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Button } from "@shared/design-primitives/components/button"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { Spinner } from "@shared/design-primitives/components/spinner"
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
+import { Button } from "@akasha/design-primitives/button"
+import { Heading } from "@akasha/design-primitives/heading"
+import { Spinner } from "@akasha/design-primitives/spinner"
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@akasha/design-primitives/table"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 import { PatternsUxLayoutPanels } from "./patterns-ux-layout-panels"
 
 export function PatternsUxPanels() {

@@ -1,4 +1,4 @@
-import { Toaster } from "@shared/design-primitives/components/sonner"
+import { Toaster } from "@akasha/design-primitives/sonner"
 import { getPages } from "@akasha/pages-access/get"
 import { SupabaseProvider } from "@shared/supabase-rr/provider"
 import { getUser } from "@shared/supabase-rr/auth/server"

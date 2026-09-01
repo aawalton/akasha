@@ -1,7 +1,7 @@
 "use client"
 
-import { Command, CommandEmpty, CommandInput, CommandItem, CommandList } from "@shared/design-primitives/components/command"
-import { Popover, PopoverAnchor, PopoverContent } from "@shared/design-primitives/components/popover"
+import { Command, CommandEmpty, CommandInput, CommandItem, CommandList } from "@akasha/design-primitives/command"
+import { Popover, PopoverAnchor, PopoverContent } from "@akasha/design-primitives/popover"
 import type { HeadingLevel, V1BlockType } from "@akasha/pages-core/property-types/rich-document-ops"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import {

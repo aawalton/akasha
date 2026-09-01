@@ -2,7 +2,7 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Button } from "@shared/design-primitives/components/button"
+import { Button } from "@akasha/design-primitives/button"
 import type { CompanionSuggestion } from "@temper/game-companions-core/optimizer/companion-suggestion-generator"
 import { useCompanionSuggestions } from "@/components/companion-skills/hooks/use-companion-suggestions"
 import {

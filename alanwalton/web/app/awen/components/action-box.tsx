@@ -1,9 +1,9 @@
 "use client"
 
 import { type ActionBarMessageKind, classifyActionBarMessage } from "@akasha/awen-core/action-bar-message"
-import { Button } from "@shared/design-primitives/components/button"
-import { Input } from "@shared/design-primitives/components/input"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { Button } from "@akasha/design-primitives/button"
+import { Input } from "@akasha/design-primitives/input"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { type FormEvent, useEffect, useState } from "react"
 import { SignedOutNotice } from "~/components/signed-out-notice"
 import { useKeyboardInset } from "../hooks/use-keyboard-inset"

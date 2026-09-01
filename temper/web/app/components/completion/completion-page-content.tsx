@@ -3,11 +3,11 @@
 import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import { type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { PageLayout, PageLayoutSkeleton, PageTitle, PageTitleBadges } from "@akasha/design-layout/page-layout"
-import { Button } from "@shared/design-primitives/components/button"
+import { Button } from "@akasha/design-primitives/button"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"
-import { useDebouncedValue } from "@shared/design-primitives/hooks/use-debounced-value"
-import { useKeyboardBinding } from "@shared/design-primitives/hooks/use-keyboard-registry"
+import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
+import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import {
   type ActivityCategoryId,

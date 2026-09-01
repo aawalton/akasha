@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@akasha/design-primitives/table"
 
 export function StrategicPrismPanel() {
   return (

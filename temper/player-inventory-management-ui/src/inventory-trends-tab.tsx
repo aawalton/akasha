@@ -1,7 +1,7 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { formatGold } from "@shared/design-primitives/utils/format-gold"
+import { formatGold } from "@akasha/design-primitives/format-gold"
 import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelCard } from "@akasha/design-layout/panel-card"

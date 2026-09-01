@@ -1,5 +1,5 @@
 import { Slot } from "@radix-ui/react-slot"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
 import { Check, ChevronDown, X } from "lucide-react"
 import { Children, cloneElement, isValidElement, type ReactNode } from "react"
 

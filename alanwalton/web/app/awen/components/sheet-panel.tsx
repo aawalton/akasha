@@ -1,7 +1,7 @@
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { ClientSheet } from "../lib/client-session"
 
 function Section({ title, children }: { title: string; children: React.ReactNode }) {

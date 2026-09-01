@@ -127,7 +127,7 @@
                   "react": "react is not allowed in @akasha/pages-core",
                   "react-dom": "react-dom is not allowed in @akasha/pages-core",
                   "@akasha/design-layout": "@akasha/design-layout is not allowed in @akasha/pages-core",
-                  "@shared/design-primitives": "@shared/design-primitives is not allowed in @akasha/pages-core",
+                  "@akasha/design-primitives": "@akasha/design-primitives is not allowed in @akasha/pages-core",
                   "@akasha/design-forms": "@akasha/design-forms is not allowed in @akasha/pages-core",
                   "@shared/pages-ui": "@shared/pages-ui is not allowed in @akasha/pages-core"
                 }

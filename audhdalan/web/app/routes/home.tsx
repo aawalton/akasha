@@ -1,7 +1,7 @@
 import { PageLayout } from "@akasha/design-layout/page-layout"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { Separator } from "@shared/design-primitives/components/separator"
-import { Text } from "@shared/design-primitives/components/text"
+import { Heading } from "@akasha/design-primitives/heading"
+import { Separator } from "@akasha/design-primitives/separator"
+import { Text } from "@akasha/design-primitives/text-body"
 import { ResourceList } from "~/components/resource-list"
 import { SubscribeForm } from "~/components/subscribe-form"
 

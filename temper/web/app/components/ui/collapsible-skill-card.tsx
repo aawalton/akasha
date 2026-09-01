@@ -1,11 +1,11 @@
 "use client"
 
-import { clampSurfaceLevel } from "@shared/design-primitives/components/surface-class"
-import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@shared/design-primitives/components/collapsible"
-import { HorizontalScrollFade } from "@shared/design-primitives/components/horizontal-scroll-fade"
-import { SurfaceProvider, useSurface } from "@shared/design-primitives/components/surface-provider"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { clampSurfaceLevel } from "@akasha/design-primitives/surface-class"
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@akasha/design-primitives/collapsible"
+import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
+import { SurfaceProvider, useSurface } from "@akasha/design-primitives/surface-provider"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 import { ChevronDown } from "lucide-react"
 import { type ReactNode, useState } from "react"
 

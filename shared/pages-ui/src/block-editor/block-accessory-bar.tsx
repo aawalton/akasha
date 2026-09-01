@@ -1,8 +1,8 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Button } from "@akasha/design-primitives/button"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 import {
   ArrowDown,
   ArrowUp,

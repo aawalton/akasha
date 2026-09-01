@@ -1,8 +1,8 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Button } from "@shared/design-primitives/components/button"
-import { CardTitleBadges } from "@shared/design-primitives/components/card"
+import { Button } from "@akasha/design-primitives/button"
+import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import type { MinedItemSearchResult } from "@temper/game-items-core/item-tooltip-types"
 import type { ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"

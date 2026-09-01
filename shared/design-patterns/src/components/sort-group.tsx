@@ -12,7 +12,7 @@ import {
 import type { SyntheticListenerMap } from "@dnd-kit/core/dist/hooks/utilities"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
 import { ArrowDown, ArrowUp, GripVertical, X } from "lucide-react"
 import type { CSSProperties, HTMLAttributes } from "react"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"

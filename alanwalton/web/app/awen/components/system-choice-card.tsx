@@ -2,9 +2,9 @@
 
 import { formatPlayerChoiceAction } from "@akasha/awen-core/choice-action"
 import { type SystemChoice } from "@akasha/awen-core/system-window-schema"
-import { Button } from "@shared/design-primitives/components/button"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
+import { Button } from "@akasha/design-primitives/button"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { useUserId } from "@shared/pages-ui/use-user-id"
 import { useState } from "react"
 import { SignedOutNotice } from "~/components/signed-out-notice"

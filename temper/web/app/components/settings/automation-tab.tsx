@@ -3,9 +3,9 @@
 import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { Switch } from "@shared/design-primitives/components/switch"
+import { Heading } from "@akasha/design-primitives/heading"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { Switch } from "@akasha/design-primitives/switch-control"
 import { useAutomationSettings } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import type {
   CharacterAutomationToggles,

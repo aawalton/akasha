@@ -1,8 +1,8 @@
 "use client"
 
 import { LayoutLink } from "@akasha/design-layout/router-context"
-import { Button } from "@shared/design-primitives/components/button"
-import { Card, CardContent } from "@shared/design-primitives/components/card"
+import { Button } from "@akasha/design-primitives/button"
+import { Card, CardContent } from "@akasha/design-primitives/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { Gamepad2, Loader2 } from "lucide-react"

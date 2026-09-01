@@ -1,7 +1,7 @@
 "use client"
 
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
 import { Plus } from "lucide-react"
 import { useMemo } from "react"
 

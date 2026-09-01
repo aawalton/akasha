@@ -1,9 +1,9 @@
 "use client"
 
-import { Dialog, DialogBody, DialogContent, DialogTitle, DialogTrigger } from "@shared/design-primitives/components/dialog"
-import { TableHead } from "@shared/design-primitives/components/table"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Dialog, DialogBody, DialogContent, DialogTitle, DialogTrigger } from "@akasha/design-primitives/dialog"
+import { TableHead } from "@akasha/design-primitives/table"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
 import type { SkillSlotData } from "@temper/game-companions-core/stats/companion-rotation-slot-data"
 import { getEsoIconUrl } from "@temper/shared-formula-framework/icon-utils"

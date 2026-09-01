@@ -1,8 +1,8 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Button } from "@shared/design-primitives/components/button"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { Button } from "@akasha/design-primitives/button"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import type { FoodOrDrinkId } from "@temper/game-characters-character/food-and-drink/food-or-drink-source"
 import type { MundusId } from "@temper/game-characters-character/mundus-source"
 import { type PotionId, potions } from "@temper/game-items-alchemy/potions-source"

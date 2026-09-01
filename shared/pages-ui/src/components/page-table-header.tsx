@@ -11,8 +11,8 @@ import {
 } from "@dnd-kit/core"
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
 import { horizontalListSortingStrategy, SortableContext, useSortable } from "@dnd-kit/sortable"
-import { Table, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Table, TableHead, TableHeader, TableRow } from "@akasha/design-primitives/table"
+import { cn } from "@akasha/design-primitives/cn"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 import { PageTableColGroup } from "./page-table-colgroup"
 import {

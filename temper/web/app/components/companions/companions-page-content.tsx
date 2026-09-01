@@ -2,7 +2,7 @@
 
 import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { Button } from "@shared/design-primitives/components/button"
+import { Button } from "@akasha/design-primitives/button"
 import { listPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { QueryErrorBoundary } from "@shared/design-patterns/components/query-error-boundary"
 import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"

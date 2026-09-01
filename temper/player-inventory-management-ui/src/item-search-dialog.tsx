@@ -1,8 +1,8 @@
 "use client"
 
-import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@shared/design-primitives/components/command"
-import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
-import { useDebouncedValue } from "@shared/design-primitives/hooks/use-debounced-value"
+import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@akasha/design-primitives/command"
+import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
+import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import type { MinedItemSearchResult } from "@temper/game-items-core/item-tooltip-types"
 import { useEffect, useState } from "react"
 

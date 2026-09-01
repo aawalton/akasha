@@ -1,6 +1,6 @@
 "use client"
 
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { ReactNode } from "react"
 import type { PageRow } from "../view-engine/page-row"
 import { buildTimelineLayout, rowsToTimelineInputs } from "./page-timeline-helpers"

@@ -1,6 +1,6 @@
 "use client"
 
-import { Toaster } from "@shared/design-primitives/components/sonner"
+import { Toaster } from "@akasha/design-primitives/sonner"
 import { PlayingSessionProvider } from "@shared/pages-ui/media/playing-session-context"
 import { useUserId } from "@shared/pages-ui/use-user-id"
 import { SupabaseProvider } from "@shared/supabase-rr/provider"

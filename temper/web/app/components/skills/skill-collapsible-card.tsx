@@ -1,7 +1,7 @@
 "use client"
 
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { Skill } from "@temper/game-characters-skills/skills-data"
 import { getEsoIconUrl } from "@temper/shared-formula-framework/icon-utils"

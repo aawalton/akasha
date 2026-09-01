@@ -2,7 +2,7 @@
 
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { CardTitleBadges } from "@shared/design-primitives/components/card"
+import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
 import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"

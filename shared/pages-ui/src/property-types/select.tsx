@@ -2,8 +2,8 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { useBadgeLayoutContext } from "@akasha/design-badges/badge-layout-context"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import { type PageDataJSON } from "@akasha/pages-core/types"
 

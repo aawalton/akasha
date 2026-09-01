@@ -1,9 +1,9 @@
 "use client"
 
-import { Input } from "@shared/design-primitives/components/input"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Input } from "@akasha/design-primitives/input"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 import { resolveIconName, searchIcons } from "@akasha/pages-core/icon"
 import { type IconName } from "@akasha/pages-core/generated/icon-search-index"
 import { ChevronLeft, ChevronRight, Search } from "lucide-react"

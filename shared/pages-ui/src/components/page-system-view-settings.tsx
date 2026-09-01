@@ -1,11 +1,11 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { FilterableList, FilterableListItem } from "@shared/design-primitives/components/filterable-list"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { SubView } from "@shared/design-primitives/components/sub-view"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Button } from "@akasha/design-primitives/button"
+import { FilterableList, FilterableListItem } from "@akasha/design-primitives/filterable-list"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { SubView } from "@akasha/design-primitives/sub-view"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import {
   ChevronRight,
   Eye,

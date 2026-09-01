@@ -1,8 +1,8 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { Text } from "@shared/design-primitives/components/text"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { Text } from "@akasha/design-primitives/text-body"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "./use-rule-card"
 

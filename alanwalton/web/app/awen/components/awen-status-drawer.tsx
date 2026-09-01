@@ -1,7 +1,7 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { Sheet, SheetContent, SheetDescription, SheetTitle } from "@shared/design-primitives/components/sheet"
+import { Button } from "@akasha/design-primitives/button"
+import { Sheet, SheetContent, SheetDescription, SheetTitle } from "@akasha/design-primitives/sheet"
 import { Menu } from "lucide-react"
 import { type ReactNode, useState } from "react"
 

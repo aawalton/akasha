@@ -1,7 +1,7 @@
 "use client"
 
-import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { Text } from "@shared/design-primitives/components/text"
+import { formatGold } from "@akasha/design-primitives/format-gold"
+import { Text } from "@akasha/design-primitives/text-body"
 import type { ReactNode } from "react"
 import { formatDayLabel, type GuildBankBasisChange, toDayString } from "./net-worth-history"
 

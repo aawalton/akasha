@@ -1,4 +1,4 @@
-import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
+import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { ViewPageFrame } from "@shared/pages-ui/components/view-page-frame"

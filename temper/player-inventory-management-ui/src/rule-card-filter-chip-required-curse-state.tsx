@@ -1,9 +1,9 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
-import { Text } from "@shared/design-primitives/components/text"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import { Text } from "@akasha/design-primitives/text-body"
 import type { RequiredCurseStateCondition } from "@temper/game-items-rules-core/filters/required-curse-state-filter-types"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "./use-rule-card"

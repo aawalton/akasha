@@ -1,7 +1,7 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { useSingleFlight } from "@shared/design-primitives/hooks/use-single-flight"
+import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"

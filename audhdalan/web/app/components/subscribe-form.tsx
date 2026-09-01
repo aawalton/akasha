@@ -1,8 +1,8 @@
-import { Button } from "@shared/design-primitives/components/button"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { Input } from "@shared/design-primitives/components/input"
-import { Separator } from "@shared/design-primitives/components/separator"
-import { Text } from "@shared/design-primitives/components/text"
+import { Button } from "@akasha/design-primitives/button"
+import { Heading } from "@akasha/design-primitives/heading"
+import { Input } from "@akasha/design-primitives/input"
+import { Separator } from "@akasha/design-primitives/separator"
+import { Text } from "@akasha/design-primitives/text-body"
 import { useId, useState } from "react"
 import { z } from "zod"
 

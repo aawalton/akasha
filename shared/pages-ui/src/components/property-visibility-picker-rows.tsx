@@ -2,7 +2,7 @@
 
 import type { SyntheticListenerMap } from "@dnd-kit/core/dist/hooks/utilities"
 import { useSortable } from "@dnd-kit/sortable"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
 import { GripVertical } from "lucide-react"
 import type { CSSProperties, HTMLAttributes } from "react"
 import type { PropertyVisibilityOption } from "./property-visibility-picker-helpers"

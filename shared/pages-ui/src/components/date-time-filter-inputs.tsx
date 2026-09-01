@@ -1,9 +1,9 @@
 "use client"
 
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { DATE_SENTINEL_OPTIONS, RELATIVE_DIRECTION_OPTIONS, RELATIVE_UNIT_OPTIONS } from "@akasha/pages-core/property-types/date-sentinels"
 import { Check, ChevronDown } from "lucide-react"
 import { useEffect, useState } from "react"

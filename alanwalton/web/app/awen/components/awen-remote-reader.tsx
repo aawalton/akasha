@@ -1,6 +1,6 @@
 "use client"
 
-import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
+import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { type ReactNode, useEffect, useState } from "react"
 import { API_ORIGIN } from "~/lib/api-origin"
 import { AwenGameReader } from "../game-reader"

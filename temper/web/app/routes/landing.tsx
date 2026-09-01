@@ -1,7 +1,7 @@
 import { PageTitle } from "@akasha/design-layout/page-layout"
-import { Button } from "@shared/design-primitives/components/button"
-import { Card, CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
-import { Heading } from "@shared/design-primitives/components/heading"
+import { Button } from "@akasha/design-primitives/button"
+import { Card, CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
+import { Heading } from "@akasha/design-primitives/heading"
 import { Link } from "react-router"
 
 export default function LandingRoute() {

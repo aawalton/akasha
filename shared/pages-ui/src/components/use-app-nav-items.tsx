@@ -3,7 +3,7 @@
 import type { AppNavItem } from "@akasha/design-layout/nav-types"
 import { Icon } from "@shared/design-patterns/components/icon"
 import { IconPicker } from "@shared/design-patterns/components/icon-picker"
-import { TriggerSafeNode } from "@shared/design-primitives/types/trigger-safe-node"
+import { triggerSafeNode } from "@akasha/design-primitives/trigger-safe-node"
 import type { PageCondition, PageWhere } from "@akasha/pages-core/page-types"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
@@ -213,7 +213,7 @@ export function useAppNavItems({
         iconSlot: (
           <IconPicker value={rawIcon} onChange={(name) => handleIconChange(page.id, name)} />
         ),
-        iconStatic: TriggerSafeNode(<Icon name={rawIcon} className="h-5 w-5 shrink-0" />),
+        iconStatic: triggerSafeNode(<Icon name={rawIcon} className="h-5 w-5 shrink-0" />),
         trailing: (
           <>
             {showCountBadge && (

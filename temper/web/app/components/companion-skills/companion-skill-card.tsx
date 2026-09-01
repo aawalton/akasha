@@ -1,9 +1,9 @@
 "use client"
 
 import { BadgeRow } from "@akasha/design-badges/badge"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Heading } from "@akasha/design-primitives/heading"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 import { capitalize } from "@shared/utils-narrow/capitalize"
 import { sortEffectsByCategory } from "@temper/game-companions-core/effect-display/effect-category"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"

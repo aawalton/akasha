@@ -1,9 +1,9 @@
 "use client"
 
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
-import { Button } from "@shared/design-primitives/components/button"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Button } from "@akasha/design-primitives/button"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { type PageResolver } from "@akasha/pages-core/view/apply-grouping-shared"
 import { getDefaultGroupSorts, sortGroupedResults } from "@akasha/pages-core/view/apply-grouping-sort"
 import { Plus } from "lucide-react"

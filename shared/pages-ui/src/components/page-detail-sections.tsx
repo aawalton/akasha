@@ -1,6 +1,6 @@
 "use client"
 
-import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@shared/design-primitives/components/collapsible"
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@akasha/design-primitives/collapsible"
 import type { ReactNode } from "react"
 import { MarkdownRenderer } from "../markdown/markdown-renderer"
 

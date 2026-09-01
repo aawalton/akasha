@@ -54,7 +54,7 @@
     "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@shared/design-patterns": "workspace:*",
-    "@shared/design-primitives": "workspace:*",
+    "@akasha/design-primitives": "workspace:*",
     "lucide-react": "^0.576.0",
     "react-day-picker": "^9.13.0",
     "react-hook-form": "^7.71.0",

@@ -1,7 +1,7 @@
 "use client"
 
 import { MultiSelect, type MultiSelectItem } from "@akasha/design-forms/multi-select"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,

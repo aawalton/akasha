@@ -1,8 +1,8 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { Dialog, DialogBody, DialogContent, DialogFooter, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
-import { Spinner } from "@shared/design-primitives/components/spinner"
+import { Button } from "@akasha/design-primitives/button"
+import { Dialog, DialogBody, DialogContent, DialogFooter, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
+import { Spinner } from "@akasha/design-primitives/spinner"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { QuickAddConfig } from "@akasha/pages-core/schema/quick-add"
 import type { PropertyDefinition } from "@akasha/pages-core/types"

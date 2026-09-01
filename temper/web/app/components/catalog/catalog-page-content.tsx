@@ -1,7 +1,7 @@
 "use client"
 
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { Button } from "@shared/design-primitives/components/button"
+import { Button } from "@akasha/design-primitives/button"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"
 import { useFilterPersistence } from "@shared/design-patterns/hooks/use-filter-persistence"

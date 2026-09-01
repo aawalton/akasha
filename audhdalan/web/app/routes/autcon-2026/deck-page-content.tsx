@@ -1,7 +1,7 @@
 import { PageLayout } from "@akasha/design-layout/page-layout"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { Separator } from "@shared/design-primitives/components/separator"
-import { Text } from "@shared/design-primitives/components/text"
+import { Heading } from "@akasha/design-primitives/heading"
+import { Separator } from "@akasha/design-primitives/separator"
+import { Text } from "@akasha/design-primitives/text-body"
 import { Brain, Code, Gauge, HeartPulse } from "lucide-react"
 import { useCallback, useEffect, useState } from "react"
 import {

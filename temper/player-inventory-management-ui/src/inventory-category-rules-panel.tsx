@@ -2,8 +2,8 @@
 
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Button } from "@shared/design-primitives/components/button"
-import { CardTitleBadges } from "@shared/design-primitives/components/card"
+import { Button } from "@akasha/design-primitives/button"
+import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
 import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"

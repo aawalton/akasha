@@ -2,9 +2,9 @@
 
 import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useDebouncedCallback } from "@shared/design-primitives/hooks/use-debounced-callback"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useDebouncedCallback } from "@akasha/design-primitives/use-debounced-callback"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { requireFirst } from "@shared/utils-narrow/require-first"
 import { Check, ChevronDown } from "lucide-react"

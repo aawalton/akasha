@@ -1,6 +1,6 @@
 import { PageTitle } from "@akasha/design-layout/page-layout"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Heading } from "@shared/design-primitives/components/heading"
+import { Heading } from "@akasha/design-primitives/heading"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { Link, redirect } from "react-router"
 import type { Route } from "./+types/landing"

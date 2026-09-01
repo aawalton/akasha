@@ -4,9 +4,9 @@ import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
-import { Text } from "@shared/design-primitives/components/text"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import { Text } from "@akasha/design-primitives/text-body"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import {
   goalIdToValue,

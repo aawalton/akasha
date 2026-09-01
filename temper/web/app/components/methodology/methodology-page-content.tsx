@@ -3,7 +3,7 @@
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Button } from "@shared/design-primitives/components/button"
+import { Button } from "@akasha/design-primitives/button"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@shared/design-patterns/components/tabs"

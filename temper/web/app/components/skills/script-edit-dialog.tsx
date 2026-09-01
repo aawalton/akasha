@@ -1,9 +1,9 @@
-import { Button } from "@shared/design-primitives/components/button"
-import { Dialog, DialogBody, DialogContent, DialogFooter, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { Text } from "@shared/design-primitives/components/text"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { Button } from "@akasha/design-primitives/button"
+import { Dialog, DialogBody, DialogContent, DialogFooter, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { Text } from "@akasha/design-primitives/text-body"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
 import {
   type AffixScriptId,

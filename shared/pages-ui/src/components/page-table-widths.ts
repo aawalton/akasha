@@ -1,5 +1,5 @@
 import { formatTime12h } from "@akasha/design-forms/format-time"
-import { formatRelativeTime } from "@shared/design-primitives/utils/format-relative-time"
+import { formatRelativeTime } from "@akasha/design-primitives/format-relative-time"
 import { formatAbsoluteInstant, instantToMillis } from "@akasha/pages-core/property-types/instant"
 import { formatPropertyNumber, toNumber } from "@akasha/pages-core/property-types/number"
 import { type InstantConfig } from "@akasha/pages-core/schema/property-config-schemas"

@@ -2,7 +2,7 @@
   "name": "@temper/player-economics-ui",
   "dependencies": {
     "@akasha/design-layout": "workspace:*",
-    "@shared/design-primitives": "workspace:*",
+    "@akasha/design-primitives": "workspace:*",
     "@shared/design-system": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@temper/game-codec": "workspace:*",

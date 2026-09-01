@@ -1,8 +1,8 @@
 "use client"
 
-import { ScrollArea } from "@shared/design-primitives/components/scroll-area"
-import { Spinner } from "@shared/design-primitives/components/spinner"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { ScrollArea } from "@akasha/design-primitives/scroll-area"
+import { Spinner } from "@akasha/design-primitives/spinner"
+import { cn } from "@akasha/design-primitives/cn"
 import Convert from "ansi-to-html"
 import { useEffect, useMemo, useRef, useState } from "react"
 

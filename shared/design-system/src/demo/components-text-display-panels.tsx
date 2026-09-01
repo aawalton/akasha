@@ -1,12 +1,12 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Alert, AlertDescription, AlertTitle } from "@shared/design-primitives/components/alert"
-import { Avatar, AvatarFallback, AvatarImage } from "@shared/design-primitives/components/avatar"
-import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from "@shared/design-primitives/components/breadcrumb"
-import { Heading } from "@shared/design-primitives/components/heading"
-import { Separator } from "@shared/design-primitives/components/separator"
-import { Text } from "@shared/design-primitives/components/text"
+import { Alert, AlertDescription, AlertTitle } from "@akasha/design-primitives/alert"
+import { Avatar, AvatarFallback, AvatarImage } from "@akasha/design-primitives/avatar"
+import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from "@akasha/design-primitives/breadcrumb"
+import { Heading } from "@akasha/design-primitives/heading"
+import { Separator } from "@akasha/design-primitives/separator"
+import { Text } from "@akasha/design-primitives/text-body"
 import { Kbd, KbdGroup } from "@shared/design-patterns/components/kbd"
 
 const TEXT_VARIANTS = ["description", "hint", "caption", "prose"] as const

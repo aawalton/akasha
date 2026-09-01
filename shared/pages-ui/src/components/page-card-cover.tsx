@@ -1,7 +1,7 @@
 "use client"
 
 import { Icon } from "@shared/design-patterns/components/icon"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
 
 interface PageCardCoverProps {
   coverUrl?: string | null

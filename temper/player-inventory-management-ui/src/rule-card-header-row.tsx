@@ -1,8 +1,8 @@
 "use client"
 
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
+import { cn } from "@akasha/design-primitives/cn"
 import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
 import { ChevronDown, EllipsisVertical, Info } from "lucide-react"
 

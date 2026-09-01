@@ -1,8 +1,8 @@
 "use client"
 
-import { Input } from "@shared/design-primitives/components/input"
-import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
-import { useDebouncedValue } from "@shared/design-primitives/hooks/use-debounced-value"
+import { Input } from "@akasha/design-primitives/input"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import { Plus, X } from "lucide-react"
 import { useMemo, useState } from "react"
 import type { PageResolverValue } from "../contexts/page-resolver"

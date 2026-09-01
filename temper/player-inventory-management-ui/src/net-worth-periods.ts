@@ -1,4 +1,4 @@
-import { formatGold } from "@shared/design-primitives/utils/format-gold"
+import { formatGold } from "@akasha/design-primitives/format-gold"
 import { formatDayLabel, type NetWorthHistoryRow, toDayString } from "./net-worth-history"
 
 const MS_PER_DAY = 86_400_000

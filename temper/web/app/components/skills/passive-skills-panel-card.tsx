@@ -1,8 +1,8 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@shared/design-primitives/components/collapsible"
-import { Heading } from "@shared/design-primitives/components/heading"
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@akasha/design-primitives/collapsible"
+import { Heading } from "@akasha/design-primitives/heading"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { SkillLineCategoryId } from "@temper/game-characters-skill-lines/skill-line-categories"
 import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"

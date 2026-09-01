@@ -1,7 +1,7 @@
 "use client"
 
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { cn } from "@akasha/design-primitives/cn"
 import { toLatex } from "@temper/shared-formula-framework/display-formula-latex"
 import type { DisplayFormulaNode } from "@temper/shared-formula-framework/display-formula-types"
 import katex from "katex"

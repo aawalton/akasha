@@ -14,7 +14,7 @@ import { horizontalListSortingStrategy, SortableContext, useSortable } from "@dn
 import { CSS } from "@dnd-kit/utilities"
 import { Icon } from "@shared/design-patterns/components/icon"
 import { TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
 import { Ellipsis } from "lucide-react"
 import { type CSSProperties, useCallback, useEffect, useRef, useState } from "react"
 import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"

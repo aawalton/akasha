@@ -1,6 +1,6 @@
 "use client"
 
-import { useDebouncedCallback } from "@shared/design-primitives/hooks/use-debounced-callback"
+import { useDebouncedCallback } from "@akasha/design-primitives/use-debounced-callback"
 import { type Block, type RichDocument } from "@akasha/pages-core/property-types/rich-document"
 import { applyEditorOp, type EditorOp, normalizeRichDocument } from "@akasha/pages-core/property-types/rich-document-ops"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"

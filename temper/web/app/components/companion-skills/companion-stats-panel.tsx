@@ -2,7 +2,7 @@
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Text } from "@shared/design-primitives/components/text"
+import { Text } from "@akasha/design-primitives/text-body"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import {
   type CompanionMetricGroup,
