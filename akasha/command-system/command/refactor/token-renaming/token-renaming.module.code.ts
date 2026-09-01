@@ -56,9 +56,9 @@ export type Over = {
   readonly inStrings?: boolean
 }
 
-type Stood = { readonly nodes: ReadonlySet<ts.Node>; readonly key: boolean }
+type Target = { readonly nodes: ReadonlySet<ts.Node>; readonly key: boolean }
 
-type Standing = Stood | { readonly refused: string }
+type Standing = Target | { readonly refused: string }
 
 export function tokeningFor(path: string, from: string, to: string, line?: string): Asked {
   if (!path.endsWith(TS)) return { refused: `\`${path}\` names no TypeScript body` }
@@ -160,7 +160,7 @@ function ownReaching(typing: Typing, path: string, at: ts.Node, name: string): b
   return false
 }
 
-function carriedAround(typing: Typing, one: Tokening, target: Stood): boolean {
+function carriedAround(typing: Typing, one: Tokening, target: Target): boolean {
   if (declarationsNamed(typing, one.path, one.now).length > 0) return true
   if (target.key) return namedIn(typing, one.path, one.now).size > 0
   for (const at of target.nodes) {
