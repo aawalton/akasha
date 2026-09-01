@@ -13,7 +13,8 @@
     "./reading": "./reading/reading.module.code.ts",
     "./rooting": "./rooting/rooting.module.code.ts",
     "./scratching": "./scratching/scratching.module.code.ts",
-    "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts"
+    "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts",
+    "./value-minting": "./value-minting/value-minting.module.code.ts"
   },
   "dependencies": {
     "typescript": "5.9.3"

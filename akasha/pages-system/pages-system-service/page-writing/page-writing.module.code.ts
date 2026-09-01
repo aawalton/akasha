@@ -1,5 +1,7 @@
 import type { Judging } from "@akasha/checks-system/judging"
+import { formattedBody } from "@akasha/code-system/code-format"
 import { type FileEdit, landing } from "@akasha/command-system/landing"
+import { mintingOnto } from "@akasha/command-system/value-minting"
 import { mergeUncommitted } from "@akasha/pages-system/page-uncommitted"
 import type { Value } from "@akasha/pages-system/page-value"
 
@@ -116,6 +118,14 @@ function beside(root: string, kept: readonly Kept[]): readonly string[] {
   return kept.map((one) => one.path)
 }
 
+export function tidiedIn(root: string, changes: readonly FileEdit[]): readonly FileEdit[] {
+  return mintingOnto(root, changes).changes.map((one) => {
+    if (one.body === null) return one
+    const said = formattedBody(root, one.path, one.body)
+    return said.changed ? { path: one.path, body: said.body } : one
+  })
+}
+
 export function landedIn(root: string, batch: readonly Asked[]): Wrote {
   const first = batch[0]
   if (first === undefined) return { refused: "a batch carries at least one write" }
@@ -125,7 +135,7 @@ export function landedIn(root: string, batch: readonly Asked[]): Wrote {
     if (changes.length === 0) return { commit: null, wrote: beside(root, kept), took: [] }
     const said = landing(
       root,
-      changes,
+      tidiedIn(root, changes),
       messageIn(batch),
       NOTHING_JUDGES,
       first.writer,

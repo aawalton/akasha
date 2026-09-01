@@ -59,6 +59,14 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
+      statement: "A page a write creates carries the values its page type generates.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is formatted before it lands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value a page keeps outside the commit is written beside the page.",
     },
     {

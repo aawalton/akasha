@@ -7,6 +7,8 @@ const PAGE_TYPE = "page-type"
 
 const PLURAL = "pluralSlug"
 
+const ID = "id"
+
 export type Naming = {
   readonly pageTypeSlug: string
   readonly slug: string
@@ -90,6 +92,10 @@ export function composedFor(root: string, named: Naming): Composed {
     if (!(one.key in named.values)) continue
     if (one.uncommitted) outside[one.key] = named.values[one.key]
     else inside[one.key] = named.values[one.key]
+  }
+  if (held !== undefined && inside[ID] === undefined) {
+    const was = valueAt(held, root)?.[ID]
+    if (was !== undefined) inside[ID] = was
   }
   const content = bodyOf({
     pageTypeSlug: named.pageTypeSlug,

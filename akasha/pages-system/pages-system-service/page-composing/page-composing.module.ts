@@ -55,6 +55,14 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement: "A page the index already holds keeps the identity it has.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A caller states no identity for a page being created.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Several pages compose into what one write puts and what it keeps.",
     },
     {

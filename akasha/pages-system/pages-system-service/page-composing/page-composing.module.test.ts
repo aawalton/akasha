@@ -89,3 +89,27 @@ test("a list of no page composes into nothing put and nothing kept", () => {
   expect("puts" in said && said.puts.length).toBe(0)
   expect("kept" in said && said.kept.length).toBe(0)
 })
+
+const DEFINER = {
+  pageTypeSlug: "role",
+  slug: "definer",
+  values: {
+    pageTypeSlug: "role",
+    slug: "definer",
+    definition: "an agent settling with Alan what a domain is and becomes",
+    onCall: false,
+  },
+}
+
+test("a page the index already holds keeps the identity it has", () => {
+  const said = foldedFor(ROOT, [DEFINER])
+  expect("puts" in said && said.puts[0]?.content).toContain("01a053c5-8d29-7025-8439-5c119ee2f12d")
+})
+
+test("a page the index does not hold is composed carrying no identity", () => {
+  const said = foldedFor(ROOT, [{ ...DEFINER, slug: "held-one" }])
+  expect("puts" in said && said.puts[0]?.path).toBe(
+    "akasha/role-system/role/roles/held-one.role.ts"
+  )
+  expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
+})
