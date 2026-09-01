@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../../pages-system/record-property/record-property.page-type.ts"
+import type { RecordProperty } from "@akasha/pages-system/record-property"
 import type { LiveChild } from "./live-child.boolean-property.ts"
 import type { OpenQuestion } from "./open-question.boolean-property.ts"
 import type { Owed } from "./owed.boolean-property.ts"

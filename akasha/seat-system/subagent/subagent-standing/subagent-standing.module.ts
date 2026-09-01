@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const subagentStanding = {
   id: "01a0598f-18dd-77f7-94be-779f0df14af9",

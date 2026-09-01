@@ -1,4 +1,4 @@
-import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { PageType } from "@akasha/pages-system/page-type"
 import type { Service } from "../service/service.page-type.ts"
 import type { Namespace } from "./properties/namespace.text-property.ts"
 import type { ResourceKind } from "./properties/resource-kind.text-property.ts"

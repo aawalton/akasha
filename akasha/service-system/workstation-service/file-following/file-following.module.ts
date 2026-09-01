@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "@akasha/code-system/module"
 
 export const fileFollowing = {
   id: "01a05a5e-4f46-76e6-8f54-5318900f7d74",

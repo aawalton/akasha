@@ -1,16 +1,13 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { landingAsked, wroteAndTook } from "../../../command-system/asking/asking.module.code.ts"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
-import { dropReadings } from "../../../command-system/reading/reading.module.code.ts"
-import {
-  listedAt,
-  listedById,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
+import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
+import type { Given } from "@akasha/command-system/calling"
+import type { FileEdit } from "@akasha/command-system/landing"
+import { dropReadings } from "@akasha/command-system/reading"
+import { listedAt, listedById } from "@akasha/indexes"
+import { exportedAs } from "@akasha/pages-system/page-export-name"
+import { namedIn } from "@akasha/pages-system/page-file-name"
+import { textAt, valueAt } from "@akasha/pages-system/page-value"
 
 export const SUBAGENTS_AT = "akasha/seat-system/subagent/subagents"
 
