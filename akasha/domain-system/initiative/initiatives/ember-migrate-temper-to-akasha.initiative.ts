@@ -4,7 +4,7 @@ export const emberMigrateTemperToAkasha = {
   id: "01a05d98-bb3e-723e-bb49-4b57786306a0",
   pageTypeSlug: "initiative",
   slug: "ember-migrate-temper-to-akasha",
-  domainSlug: "domain/akasha-migration",
+  domainSlug: "domain/temper",
   personaSlug: "ember",
   parentSlug: "akasha-migration",
   intents: [
