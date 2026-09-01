@@ -57,6 +57,14 @@ export const checkDiffering = {
     },
     {
       invariantKind: "departure",
+      statement: "A check that refused nothing in either reading is said to have refused nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A verdict that held is no proof that the check judging it does any work.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check no scenario reached is given a scenario carrying what its input takes.",
     },
     {
