@@ -26,7 +26,12 @@ export const clusterService = {
   pluralSlug: "cluster-services",
   extendsSlug: "page-type/service",
   partSlugs: [
+    "cluster-service/alanwalton-atlas",
+    "cluster-service/alanwalton-web",
+    "cluster-service/archive-of-worlds-web",
     "cluster-service/audhdalan-web",
+    "cluster-service/smilingjenny-web",
+    "cluster-service/temper-web",
     "number-property/container-port",
     "number-property/replicas",
     "text-property/image",

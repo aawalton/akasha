@@ -24,7 +24,12 @@ export const webApp = {
     "text-property/build-command",
     "text-property/hostnames",
     "text-property/source-directory",
+    "web-app/alanwalton-atlas-web",
+    "web-app/alanwalton-web",
+    "web-app/archive-of-worlds-web",
     "web-app/audhdalan-web",
+    "web-app/smilingjenny-web",
+    "web-app/temper-web",
   ],
   properties: [
     { pagePropertySlug: "source-directory", required: true, many: false },
