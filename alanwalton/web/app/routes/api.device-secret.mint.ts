@@ -19,6 +19,10 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   const ctx = await resolveDeviceTokenContext(request)
   if (!ctx.authenticated) {
+    // Both refusals below answer the same 401 and the same body, so a phone cannot tell
+    // them apart and neither left any trace at any layer. Whether the mint was ever even
+    // reached was unmeasurable until these lines existed.
+    process.stderr.write("[device-secret] mint refused: the request carries no session\n")
     return Response.json(
       { ok: false, error: "Not authenticated." },
       { status: 401, headers: withCors(ctx.headers, cors) }
@@ -26,6 +30,9 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
   }
 
   if (!(await holdsRouteAccess(ctx.userId, ROUTE_TARGETS.DEVICE_SECRET_MINT))) {
+    process.stderr.write(
+      "[device-secret] mint refused: the session holds no device-secret-mint access, or the store did not answer\n"
+    )
     return Response.json(
       { ok: false, error: "Not authenticated." },
       { status: 401, headers: withCors(ctx.headers, cors) }
@@ -36,6 +43,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
   try {
     body = await request.json()
   } catch {
+    process.stderr.write("[device-secret] mint refused: the body did not parse as JSON\n")
     return Response.json(
       { ok: false, error: "Invalid request body." },
       { status: 400, headers: withCors(ctx.headers, cors) }
@@ -43,11 +51,13 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
   }
   const parsed = mintDeviceSecretSchema.safeParse(body)
   if (!parsed.success) {
+    process.stderr.write("[device-secret] mint refused: the body names no device id\n")
     return Response.json(
       { ok: false, error: "Invalid device secret mint." },
       { status: 400, headers: withCors(ctx.headers, cors) }
     )
   }
+  process.stderr.write("[device-secret] mint reached the store\n")
 
   const minted = await mintDeviceSecret({
     userId: ctx.userId,
