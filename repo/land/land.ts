@@ -11,7 +11,7 @@ import {
 import { dirname } from "node:path"
 import { commitAuthor } from "../../agent/commit-author.ts"
 import { exclusively } from "@akasha/file-system/exclusive"
-import { indexAfterLanding, bodiesBefore } from "./landing.ts"
+import { bodiesBefore } from "./landing.ts"
 import { patchAside } from "./body-aside.ts"
 import { GATED } from "../../patches/patch.ts"
 import { commitPaths, gitAskingPaths, gitIgnoring, heldByRepo, whileHoldingLanding } from "../git/git.ts"
@@ -241,16 +241,6 @@ export function landFiles(one: Landings): Landed {
     )
   }
 
-  try {
-    indexAfterLanding(one.repo, root, wasBefore, wrote, gone)
-  } catch (err) {
-    const said = err instanceof Error ? err.message : String(err)
-    throw new LandingRefused(
-      `${said}. ${sha === null ? "The write" : `Commit ${sha}`} stands in git while the index ` +
-        "no longer describes it, so a scan of these pages answers from rows that have gone " +
-        "stale. Write the index again with `ops index refresh`."
-    )
-  }
   return { sha, unheld, wrote, gone }
 }
 
