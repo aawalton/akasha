@@ -18,8 +18,7 @@ export const propertyPagesOnly = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property page's page type says what kind of value that property page carries rather than which page owns that property page.",
+      statement: "A property page's page type says what kind of value that property page carries.",
     },
     {
       invariantKind: "departure",

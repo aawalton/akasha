@@ -47,7 +47,7 @@ export const restatementNarrowsSomething = {
     {
       invariantKind: "departure",
       statement:
-        "A page type is judged when the change carries that page type and when the change carries a property that page type declares.",
+        "A page type is judged when the change carries that page type or a property that type declares.",
     },
     {
       invariantKind: "absence",

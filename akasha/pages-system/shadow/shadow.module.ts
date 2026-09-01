@@ -41,8 +41,7 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body that must be loaded is reached at the path on disk holding the body rather than the path the change leaves the body at.",
+      statement: "A body that must be loaded is reached at the path on disk holding the body.",
     },
     {
       invariantKind: "departure",

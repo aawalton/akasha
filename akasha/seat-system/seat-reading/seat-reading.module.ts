@@ -47,7 +47,7 @@ export const seatReading = {
     {
       invariantKind: "departure",
       statement:
-        "The mark a supervisor is read from is parted from the moment the supervisor started by its last `-` rather than its first.",
+        "The mark a supervisor is read from is parted from its start moment by its last `-`.",
     },
     {
       invariantKind: "departure",

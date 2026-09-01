@@ -16,7 +16,7 @@ export const pageMatchesItsType = {
     {
       invariantKind: "departure",
       statement:
-        "What a page must carry is read from the page's page type and the types above that page type rather than from a list written here.",
+        "What a page must carry is read from its page type and the types above that page type.",
     },
     {
       invariantKind: "departure",

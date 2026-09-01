@@ -13,7 +13,7 @@ export const scratching = {
     {
       invariantKind: "departure",
       statement:
-        "A body a test stands in its scratch root is put there through one spelling that gives back the id git would know the body by.",
+        "A body put in a test's scratch root goes through one spelling giving back git's own id.",
     },
     {
       invariantKind: "departure",

@@ -20,8 +20,7 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule already standing has its code loaded from wherever on disk its body stands rather than from where the change leaves it.",
+      statement: "A rule that already landed has its code loaded from where its body sits on disk.",
     },
     {
       invariantKind: "departure",

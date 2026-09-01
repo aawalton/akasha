@@ -14,8 +14,7 @@ export const pagesOfOneType = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A folder is judged by the page types of the pages sitting in that folder rather than by what any page type says of itself.",
+      statement: "A folder is judged by the page types of the pages sitting in that folder.",
     },
     {
       invariantKind: "departure",

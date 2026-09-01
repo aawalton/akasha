@@ -69,7 +69,7 @@ export const keyNamesOneProperty = {
     {
       invariantKind: "departure",
       statement:
-        "A page type is judged when the change carries the page type and when the change carries a property the page type declares.",
+        "A page type is judged when the change carries that page type or a property that type declares.",
     },
     {
       invariantKind: "departure",

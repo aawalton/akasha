@@ -11,7 +11,7 @@ export const iosSigning = {
     {
       invariantKind: "departure",
       statement:
-        "the provisioning profile is ensured by ruby embedded as a heredoc in the generated shell script rather than by a TypeScript client",
+        "The provisioning profile is ensured by ruby embedded in the generated shell script.",
     },
     {
       invariantKind: "constraint",

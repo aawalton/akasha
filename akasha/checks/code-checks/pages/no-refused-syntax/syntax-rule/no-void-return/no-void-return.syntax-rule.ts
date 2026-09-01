@@ -78,8 +78,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A function answering `undefined` fits a slot spelled `void` and a function answering `void` fits no slot spelled `undefined`.",
+      statement: "A function answering `void` fits no slot spelled `undefined`.",
     },
     {
       invariantKind: "departure",

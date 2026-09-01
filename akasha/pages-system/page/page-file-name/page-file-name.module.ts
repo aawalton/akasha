@@ -19,7 +19,7 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a tail names a page type or a file property is answered against the sets handed in rather than from the name alone.",
+        "Whether a tail names a page type or a file property is answered against the sets handed in.",
     },
     {
       invariantKind: "departure",

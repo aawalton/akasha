@@ -43,8 +43,7 @@ export const importsInside = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Where a relative specifier lands is decided by the file holding the specifier rather than by where the check was run from.",
+      statement: "Where a relative specifier lands is decided by the file holding the specifier.",
     },
     {
       invariantKind: "departure",

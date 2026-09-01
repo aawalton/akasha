@@ -22,8 +22,7 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every page whose page type stands under `page-property` is judged rather than only one whose own page type is `page-property`.",
+      statement: "Every page whose page type sits under `page-property` is judged.",
     },
     {
       invariantKind: "departure",

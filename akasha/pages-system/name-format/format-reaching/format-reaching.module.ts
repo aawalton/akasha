@@ -10,8 +10,7 @@ export const formatReaching = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A format's judgement is loaded from the code file standing beside the format's own page rather than from a shape written here.",
+      statement: "A format's judgement is loaded from the code file beside the format's own page.",
     },
     {
       invariantKind: "departure",

@@ -129,7 +129,7 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "A read the warrants cannot be worked out for returns the files the read was named rather than refusing what the read can answer.",
+        "A read the warrants cannot be worked out for returns the files the read was named.",
     },
   ],
 } as const satisfies Command
