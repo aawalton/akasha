@@ -11,16 +11,16 @@ import {
 } from "./unit-writing.module.code.ts"
 
 const PAGE_PATH =
-  "akasha/pages-system/pages-system-service/page-query-service.workstation-service.ts"
+  "akasha/service-system/workstation-service/workstation-services/held-service.workstation-service.ts"
 
 const RUNS_TYPESCRIPT =
-  "bun akasha/pages-system/pages-system-service/page-listening/page-listening.module.code.ts"
+  "bun akasha/service-system/workstation-service/held-listening/held-listening.module.code.ts"
 
 const BASE = {
   id: "01a05a51-0000-7000-8000-00000000000a",
   pageTypeSlug: "workstation-service",
-  slug: "page-query-service",
-  definition: "the service answering page queries",
+  slug: "held-service",
+  definition: "the service a test writes a unit for",
   runs: [RUNS_TYPESCRIPT],
   enabled: true,
 } as const satisfies WorkstationService
@@ -44,7 +44,7 @@ test("the unit names the page it was written from", () => {
 })
 
 test("the description opens in upper case", () => {
-  expect(serviceUnitText(pageOf({}))).toContain("Description=The service answering page queries")
+  expect(serviceUnitText(pageOf({}))).toContain("Description=The service a test writes a unit for")
 })
 
 test("a command naming a TypeScript file runs under the wrapper and forces a restart on its exit", () => {
@@ -122,12 +122,9 @@ test("what the page states about timing is written where systemd reads it", () =
 })
 
 test("the files a service is installed as follow its schedule", () => {
-  expect(unitFileNames(pageOf({}))).toEqual(["page-query-service.service"])
-  expect(installedUnitName(pageOf({}))).toBe("page-query-service.service")
+  expect(unitFileNames(pageOf({}))).toEqual(["held-service.service"])
+  expect(installedUnitName(pageOf({}))).toBe("held-service.service")
   const scheduled = pageOf({ systemd: { schedule: "daily" } })
-  expect(unitFileNames(scheduled)).toEqual([
-    "page-query-service.service",
-    "page-query-service.timer",
-  ])
-  expect(installedUnitName(scheduled)).toBe("page-query-service.timer")
+  expect(unitFileNames(scheduled)).toEqual(["held-service.service", "held-service.timer"])
+  expect(installedUnitName(scheduled)).toBe("held-service.timer")
 })
