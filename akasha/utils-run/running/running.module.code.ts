@@ -8,7 +8,7 @@ export type Said = {
 
 export type Asked = {
   readonly cwd?: string
-  readonly env?: Record<string, string>
+  readonly env?: Record<string, string | undefined>
   readonly stdin?: Uint8Array
   readonly timeout?: number
 }

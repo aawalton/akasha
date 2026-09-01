@@ -38,3 +38,11 @@ test("a process is given the environment the caller states", () => {
 test("what a caller hands in reaches the process", () => {
   expect(ran(["cat"], { stdin: new TextEncoder().encode("handed in") }).out).toBe("handed in")
 })
+
+test("an environment a caller widens carries what it was widened from", () => {
+  expect(
+    ran(["printenv", "AKASHA_RUNNING_PROBE"], {
+      env: { ...process.env, AKASHA_RUNNING_PROBE: "here" },
+    }).out
+  ).toBe("here\n")
+})
