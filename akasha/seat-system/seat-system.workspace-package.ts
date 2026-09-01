@@ -106,6 +106,10 @@ export const seatSystem = {
       statement: "A seat is stopped by ending its processes.",
     },
     {
+      invariantKind: "absence",
+      statement: "No command sends a message from one seat to another.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing outside akasha says what a seat is.",
     },
