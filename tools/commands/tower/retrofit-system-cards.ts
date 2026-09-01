@@ -1,13 +1,13 @@
 export const summary = "Rewrite the System cards on archived Tower chapter pages to the five-ding progression vocabulary"
 
 import { readFile } from "node:fs/promises"
-import { parseTowerState } from "@alanwalton/tower-core/state-schema"
+import { parseTowerState } from "@akasha/tower-core/tower-state"
 import { pageStemOf } from "../../../page/name/name"
 import {
   createProgressionState,
   extractSystemCards,
   retrofitChapterText,
-} from "@alanwalton/tower/tower/retrofit-system-cards"
+} from "@akasha/tower/retrofit-system-cards"
 import { z } from "zod"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, operationalError } from "../../lib/exit.ts"

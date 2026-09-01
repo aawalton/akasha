@@ -1,5 +1,5 @@
-import { type TowerState, TowerStateSchema } from "@alanwalton/tower-core/state-schema"
-import { TOWER_SESSION_SLUG } from "@alanwalton/tower/tower/page-types"
+import { type TowerState, TowerStateSchema } from "@akasha/tower-core/tower-state"
+import { TOWER_SESSION_SLUG } from "@akasha/tower/tower-page-slugs"
 import { patchRow, writeRow } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 

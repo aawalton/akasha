@@ -1,7 +1,7 @@
 export const summary = "Persist a TowerState JSON as the live tower-session — the write half of a turn"
 
 import { readFile } from "node:fs/promises"
-import { parseTowerState, type TowerState } from "@alanwalton/tower-core/state-schema"
+import { parseTowerState, type TowerState } from "@akasha/tower-core/tower-state"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
