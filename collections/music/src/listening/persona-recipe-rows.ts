@@ -57,7 +57,7 @@ export async function personaRecipeRows(): Promise<
 
   const sourceByPersona = new Map<string, Record<string, unknown>>()
   for (const row of sourceRows) {
-    const persona = text(row.values, "domain-parents-slugs")
+    const persona = text(row.values, "domain-parent-slug")
     if (persona === undefined) continue
     const held: Record<string, unknown> = {}
     for (const [fileKey, rowKey] of Object.entries(SOURCE_KEYS)) {

@@ -204,7 +204,7 @@ function buildValueRowsBySlug(rows: readonly QueryRow[]): ReadonlyMap<string, Va
     const title = textIn(row.values, "title")
     const slug = (textIn(row.values, "slug") ?? title ?? "").toLowerCase()
     if (slug === "") continue
-    const parent = textIn(row.values, "domain-parents-slugs")
+    const parent = textIn(row.values, "domain-parent-slug")
     map.set(slug, { id, title, parentSlug: parent === "value" ? null : parent })
   }
   return map
