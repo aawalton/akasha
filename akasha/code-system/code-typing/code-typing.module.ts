@@ -51,6 +51,15 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "A file is read for every place it spells one key.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a shorthand names is answered as the declarations the checker resolves it to.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Respelling a shorthand states the value it stood for.",
     },
     {

@@ -163,6 +163,32 @@ export function declarationsNamed(typing: Typing, path: string, key: string): re
   return found
 }
 
+export type Keying = {
+  readonly node: ts.Node
+  readonly declares: boolean
+  readonly names: readonly ts.Node[]
+}
+
+function namesOf(typing: Typing, node: ts.Node): readonly ts.Node[] {
+  if (!ts.isShorthandPropertyAssignment(node)) return []
+  return typing.checker.getShorthandAssignmentValueSymbol(node)?.declarations ?? []
+}
+
+export function keyingsIn(typing: Typing, path: string, key: string): readonly Keying[] {
+  const source = typing.sourceAt(path)
+  if (source === null) return []
+  const found: Keying[] = []
+  const walk = (node: ts.Node): undefined => {
+    const name = namedIn(node)
+    if (name !== null && keyOf(name) === key) {
+      found.push({ node, declares: ts.isPropertySignature(node), names: namesOf(typing, node) })
+    }
+    ts.forEachChild(node, walk)
+  }
+  ts.forEachChild(source, walk)
+  return found
+}
+
 export function declaredNamed(typing: Typing, path: string, name: string): readonly ts.Node[] {
   const source = typing.sourceAt(path)
   if (source === null) return []

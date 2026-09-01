@@ -11,6 +11,7 @@ import {
   declaredOn,
   exportsNamed,
   insideOf,
+  keyingsIn,
   namingOf,
   referencesOf,
   spelledAs,
@@ -50,6 +51,40 @@ function typed(said: Readonly<Record<string, string>>): {
   })
   return { root, typing }
 }
+
+test("every place one file spells a key is answered with what a shorthand there names", () => {
+  const at = "akasha/welded.module.code.ts"
+  const { typing } = typed({
+    [at]:
+      "export type Held = { readonly keyed: readonly string[] }\n" +
+      "export function heldOf(said: readonly string[]): Held {\n" +
+      "  const keyed = [...said]\n" +
+      "  return { keyed }\n" +
+      "}\n",
+  })
+  const found = keyingsIn(typing, at, "keyed")
+  const declared = declaredNamed(typing, at, "keyed")
+
+  expect(found.map((one) => one.declares)).toEqual([true, false])
+  expect(found[1]?.names.length).toBe(1)
+  expect(found[1]?.names[0] === declared[0]).toBe(true)
+})
+
+test("a key written out names nothing the checker could weld a name to", () => {
+  const at = "akasha/apart.module.code.ts"
+  const { typing } = typed({
+    [at]:
+      "export type Held = { readonly keyed: readonly string[] }\n" +
+      "export function heldOf(said: readonly string[]): Held {\n" +
+      "  return { keyed: said }\n" +
+      "}\n",
+  })
+  const found = keyingsIn(typing, at, "keyed")
+
+  expect(found).toHaveLength(2)
+  expect(found[1]?.declares).toBe(false)
+  expect(found[1]?.names).toEqual([])
+})
 
 test("a path inside the akasha folder compiles and one outside it does not", () => {
   expect(compiled("akasha/one/one.module.code.ts")).toBe(true)
