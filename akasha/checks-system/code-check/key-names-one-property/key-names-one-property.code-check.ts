@@ -16,7 +16,7 @@ export const keyNamesOneProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The properties judged are those a page type carries after shadowing.",
+      statement: "The properties judged are the properties a page type carries after shadowing.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A record property's fields are held to one key each like a page type's.",
+      statement: "A record property's fields are each held to one key like a page type's.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +69,7 @@ export const keyNamesOneProperty = {
     {
       invariantKind: "departure",
       statement:
-        "A page type is judged when the change carries it and when the change carries a property it declares.",
+        "A page type is judged when the change carries the page type and when the change carries a property the page type declares.",
     },
     {
       invariantKind: "departure",

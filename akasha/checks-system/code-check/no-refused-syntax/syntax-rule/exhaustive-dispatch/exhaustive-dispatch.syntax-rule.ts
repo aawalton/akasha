@@ -10,7 +10,7 @@ export const exhaustiveDispatch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A default is right where it throws or returns or calls `assertNever`.",
+      statement: "A default is right where the default throws or returns or calls `assertNever`.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,8 @@ export const exhaustiveDispatch = {
     },
     {
       invariantKind: "departure",
-      statement: "A default is read for what its statements do and never for what it says.",
+      statement:
+        "A default is read for what its statements do and never for what the default says.",
     },
     {
       invariantKind: "departure",

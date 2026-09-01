@@ -39,15 +39,16 @@ export const modelCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A count of none is a check that stands and does not run.",
+      statement: "A count of no runs is a check that stands and does not run.",
     },
     {
       invariantKind: "departure",
-      statement: "An audit is asked for a count rather than given one.",
+      statement: "An audit is asked for a count rather than given a count.",
     },
     {
       invariantKind: "departure",
-      statement: "A model check spends a call for each run over each thing still answering no.",
+      statement:
+        "A model check spends a call for each run over each thing whose answer is still `no`.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +61,7 @@ export const modelCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A check refuses only where a model answered it.",
+      statement: "A check refuses only where a model answered the check.",
     },
     {
       invariantKind: "absence",

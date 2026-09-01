@@ -30,7 +30,7 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A selector takes as input every path it hands over.",
+      statement: "A selector takes as input every path the selector hands over.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that stands and will not open refuses the check reading it.",
+      statement: "A body that stands and will not open refuses the check reading that body.",
     },
     {
       invariantKind: "departure",
@@ -54,15 +54,15 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that is not text refuses the check reading it.",
+      statement: "A body that is not text refuses the check reading that body.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal for a body that is not text names the path it stands at.",
+      statement: "A refusal for a body that is not text names the path that body stands at.",
     },
     {
       invariantKind: "gap",
-      statement: "Every check walks a change through this.",
+      statement: "Every check walks a change through this module.",
     },
   ],
 } as const satisfies Module

@@ -30,11 +30,12 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "Every check is handed the change narrowed to the akasha folder before it runs.",
+      statement:
+        "Every check is handed the change narrowed to the akasha folder before the check runs.",
     },
     {
       invariantKind: "departure",
-      statement: "A change is judged before it reaches disk.",
+      statement: "A change is judged before the change reaches disk.",
     },
     {
       invariantKind: "departure",
@@ -58,15 +59,15 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A check's answer is undone by a change to what it runs on.",
+      statement: "A check's answer is undone by a change to what the check runs on.",
     },
     {
       invariantKind: "departure",
-      statement: "A check's answer is undone by a change to what it runs with.",
+      statement: "A check's answer is undone by a change to what the check runs with.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch runs a check for a change to what it runs on.",
+      statement: "A patch runs a check for a change to what the check runs on.",
     },
     {
       invariantKind: "departure",
@@ -99,23 +100,24 @@ export const checksSystem = {
     },
     {
       invariantKind: "absence",
-      statement: "No check judges what a repository outside akasha imports from inside it.",
+      statement: "No check judges what a repository outside akasha imports from inside akasha.",
     },
     {
       invariantKind: "gap",
-      statement: "A check runs over the changes it was given rather than over the pages.",
+      statement: "A check runs over the changes the check was given rather than over the pages.",
     },
     {
       invariantKind: "gap",
-      statement: "A check asks the index for anything beyond the change it was handed.",
+      statement: "A check asks the index for anything beyond the change the check was handed.",
     },
     {
       invariantKind: "gap",
-      statement: "Every phase a check states is reached by a caller that runs it.",
+      statement: "Every phase a check states is reached by a caller that runs the check.",
     },
     {
       invariantKind: "gap",
-      statement: "Every check holds its verdict where the tree contradicts the change it judges.",
+      statement:
+        "Every check holds its verdict where the tree contradicts the change the check judges.",
     },
   ],
 } as const satisfies WorkspacePackage

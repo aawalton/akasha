@@ -31,7 +31,7 @@ export const requireImportExtension = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier is judged where it is written.",
+      statement: "A specifier is judged where the specifier is written.",
     },
     {
       invariantKind: "departure",
