@@ -36,6 +36,8 @@ export const amyJennyUnreviewedWidget = {
     {
       statement:
         "Alan's categorization route in akasha answers from the readout rather than from Monarch.",
+      workingMemory:
+        "Met in the tree, proved locally, unproven live. The route reads what `module/readout-relay` holds, refuses a reading past 45 minutes, and reached no url while serving 200 to a real relay. `monarch-relay-service` on `*:2/5` POSTs the sidecar to `/api/readout-relay`. Pull was refused: it would make the workstation a server to the cluster. MONARCH_COOKIE is out of the live Secret. No Monarch number ever flowed, and no deploy carries this: see a-frozen-lockfile-stops-every-web-pod-from-starting.",
     },
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
