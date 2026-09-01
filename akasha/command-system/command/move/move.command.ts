@@ -47,19 +47,20 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's sidecars go with it without being named.",
+      statement: "A page's sidecars go with that page without being named.",
     },
     {
       invariantKind: "departure",
-      statement: "A path naming a folder carries every file git holds under it.",
+      statement: "A path naming a folder carries every file git holds under that folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A file under a folder that moves keeps the place it had beneath it.",
+      statement:
+        "A file under a folder that moves keeps the place the file had beneath that folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder arrives at the path it names rather than inside it.",
+      statement: "A folder arrives at the path a call names rather than inside that path.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +69,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "A folder holding a file git does not track is refused rather than moved without it.",
+        "A folder holding a file git does not track is refused rather than moved without that file.",
     },
     {
       invariantKind: "departure",
@@ -76,12 +77,12 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A package manifest naming a file that moves is repointed with it.",
+      statement: "A package manifest naming a file that moves is repointed with that file.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A way into a package is repointed only where the file it names arrives inside that package.",
+        "A way into a package is repointed only where the file that way names arrives inside that package.",
     },
     {
       invariantKind: "absence",
@@ -89,7 +90,7 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A file holding uncommitted values goes with the page it stands beside.",
+      statement: "A file holding uncommitted values goes with the page that file sits beside.",
     },
     {
       invariantKind: "departure",
@@ -102,11 +103,11 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "The bodies a move carries and repoints are read from the commit it stood on rather than from the working tree.",
+        "The bodies a move carries and repoints are read from the commit the move sits on rather than from the working tree.",
     },
     {
       invariantKind: "departure",
-      statement: "A file that is no page's own arrives under the name it already has.",
+      statement: "A file that is no page's own arrives under the name that file already has.",
     },
     {
       invariantKind: "departure",
@@ -138,7 +139,8 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "Which pages address it is read from the index as it stands before the change.",
+      statement:
+        "Which pages address a renamed page is read from the index as the index is before the change.",
     },
     {
       invariantKind: "departure",
@@ -147,7 +149,7 @@ export const move = {
     },
     {
       invariantKind: "absence",
-      statement: "A name a page imports a renamed page's value by is left as it stands.",
+      statement: "A name a page imports a renamed page's value by is left unchanged.",
     },
     {
       invariantKind: "departure",
@@ -161,11 +163,11 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A path spelled as plain text is repointed as readily as one naming a module.",
+      statement: "A path spelled as plain text is repointed as readily as a path naming a module.",
     },
     {
       invariantKind: "departure",
-      statement: "A body reaches by both.",
+      statement: "A body reaches by both spellings.",
     },
     {
       invariantKind: "absence",
@@ -180,7 +182,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "An index that cannot answer what imports a path leaves those files as they stand and says so.",
+        "An index that cannot answer what imports a path leaves those files unchanged and says so.",
     },
     {
       invariantKind: "constraint",
@@ -200,11 +202,11 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "`--dry-run` names every pair it would carry.",
+      statement: "`--dry-run` names every pair the move would carry.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading of what a move carries is carried with it.",
+      statement: "A reading of a file a move carries is carried with that file.",
     },
     {
       invariantKind: "departure",
@@ -220,11 +222,11 @@ export const move = {
     },
     {
       invariantKind: "gap",
-      statement: "A file arrives at its new path reaching everything it reached before.",
+      statement: "A file arrives at its new path reaching everything the file reached before.",
     },
     {
       invariantKind: "gap",
-      statement: "Everything that reached a file before the move reaches it after.",
+      statement: "Everything that reached a file before the move reaches that file after.",
     },
   ],
 } as const satisfies Command
