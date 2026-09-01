@@ -91,8 +91,17 @@ export const pageAsking = {
       statement: "What is skipped is skipped before what is taken is taken.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The values a page keeps outside the commit are read from the file beside that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The uncommitted values are written over the values the index carries.",
+    },
+    {
       invariantKind: "absence",
-      statement: "No page's file is opened.",
+      statement: "No page's own file is opened.",
     },
     {
       invariantKind: "absence",

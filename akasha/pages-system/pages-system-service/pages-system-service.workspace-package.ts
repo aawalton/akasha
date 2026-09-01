@@ -27,7 +27,8 @@ export const pagesSystemService = {
     },
     {
       invariantKind: "departure",
-      statement: "A query is answered from the index alone.",
+      statement:
+        "A query is answered from the index and from the values beside the pages it names.",
     },
     {
       invariantKind: "absence",

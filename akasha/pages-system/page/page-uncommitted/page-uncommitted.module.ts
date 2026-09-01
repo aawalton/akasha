@@ -93,6 +93,19 @@ export const pageUncommitted = {
       statement: "Taking the whole file away is its own act under its own name.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A page's whole value merges the uncommitted values into the values the commit holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key held both ways is answered as the uncommitted value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file already read is read again once its moment or its size has changed.",
+    },
+    {
       invariantKind: "absence",
       statement: "A reader takes no lock.",
     },
