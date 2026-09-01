@@ -124,6 +124,25 @@ test("a command that is not git carrying a named act stands aside", () => {
   expect(refusalIn("echo reset")).toBeNull()
 })
 
+test("a prefix that only runs the call does not hide it", () => {
+  for (const one of [
+    "timeout 900 git reset --hard",
+    "timeout -k 5 900 git stash",
+    "nice -n 10 git clean -fd",
+    "nohup git rebase main",
+    "stdbuf -oL git checkout main",
+    "time git restore .",
+    "command git rm one.ts",
+  ]) {
+    expect(refusalIn(one)).not.toBeNull()
+  }
+})
+
+test("a prefix around a call this does not name is stood aside from", () => {
+  expect(refusalIn("timeout 900 git status")).toBeNull()
+  expect(refusalIn("timeout 900 echo git reset --hard")).toBeNull()
+})
+
 test("sudo in front does not hide the call", () => {
   expect(refusalIn("sudo git reset --hard")).not.toBeNull()
 })
@@ -185,6 +204,13 @@ test("the scope names the overlap with the other hook rather than hiding it", ()
 test("the scope names every act the hook refuses", () => {
   const said = SCOPE.join("\n")
   for (const act of ACTS) expect(said).toContain(act)
+})
+
+test("the scope names the prefixes it steps over and says that list samples a class too", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER")
+  expect(said).toContain("timeout")
+  expect(said).toContain("That list samples an open class too.")
 })
 
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {

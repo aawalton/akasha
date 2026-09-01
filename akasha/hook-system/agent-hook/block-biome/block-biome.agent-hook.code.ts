@@ -3,18 +3,15 @@ import { refusalOver } from "../../chain-refusal/chain-refusal.module.code.ts"
 import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
 import {
   basenameOf,
+  calledWords,
+  RUNS_ANOTHER,
   ranBy,
   segmentsOf,
-  wordsOf,
 } from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-biome"
 
 const BIOME = "biome"
-
-const ASSIGNMENT = /^[A-Za-z_][A-Za-z0-9_]*=/
-
-const SETTING_UP: readonly string[] = ["sudo", "env"]
 
 const THROUGH: readonly string[] = ["npx", "bunx", "pnpx", "dlx"]
 
@@ -47,6 +44,13 @@ export const SCOPE: readonly string[] = [
   "    checked as usual. A second worktree of this repository is not guarded from here either.",
   "  A call stating no working directory is judged as though it ran here.",
   "",
+  "A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER, with its own flags, the value a",
+  "flag of its own takes, and the number it takes of its own:",
+  `  ${RUNS_ANOTHER.join(" ")}`,
+  "so `timeout 900 <call>` is the call, and is refused wherever the call is. A prefix flag that",
+  "asks rather than runs — `command -v`, `sudo -l` — leaves no call and is let through.",
+  "That list samples an open class too. A prefix it does not name hides the call behind it.",
+  "",
   "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
@@ -58,6 +62,7 @@ export const SCOPE: readonly string[] = [
   "  `prettier`, which stands in node_modules and writes the same files under a different name",
   "  every other writer of a tracked file — `sed -i`, `cp`, a redirect, an editor, a script",
   "  a call another program builds — `sh -c`, `xargs`, `make`, a script file",
+  "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
   "  a call inside a quoted run, which the dequoting step takes out before the cut",
   "  a call in a heredoc body, which that step does not take out, so data naming biome is",
   "    refused as though it were a command",
@@ -77,7 +82,7 @@ export const SCOPE: readonly string[] = [
 ]
 
 export function biomeIn(segment: string): boolean {
-  const words = wordsOf(segment).filter((one) => !ASSIGNMENT.test(one) && !SETTING_UP.includes(one))
+  const words = calledWords(segment)
   const head = words[0]
   if (head === undefined) return false
   const named = basenameOf(head)

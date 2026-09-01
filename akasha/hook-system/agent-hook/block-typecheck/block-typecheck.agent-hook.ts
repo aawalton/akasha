@@ -35,6 +35,14 @@ export const blockTypecheck = {
       statement: "What this does not reach is printed by the hook and asked for with `--scope`.",
     },
     {
+      invariantKind: "departure",
+      statement: "A prefix that only runs the call behind it does not hide a `tsc` from this.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A flag before the script name does not hide a `bun run typecheck`.",
+    },
+    {
       invariantKind: "constraint",
       statement: "The repository's own `tsconfig.json` names no file.",
     },

@@ -82,6 +82,26 @@ test("a flag's value is never read as a path", () => {
   expect(filtersOf(["--coverage", "shared/one"])).toEqual(["shared/one"])
 })
 
+test("a prefix that only runs the call does not hide it", () => {
+  for (const one of [
+    "timeout 900 bun test",
+    "timeout -k 5 900 bun test",
+    "nice -n 10 bun test",
+    "nohup bun test",
+    "stdbuf -oL bun test",
+    "time bun test",
+    "command bun test",
+    "timeout 900 bun test akasha/",
+  ]) {
+    expect(judged(one)).not.toBeNull()
+  }
+})
+
+test("a prefix around a run bounded outside the akasha folder is let through", () => {
+  expect(judged("timeout 900 bun test shared/one")).toBeNull()
+  expect(judged("timeout 900 echo bun test")).toBeNull()
+})
+
 test("a bun act this hook does not name is stood aside", () => {
   for (const one of ["bun install", "bun run build", "bun x tsc", "bun one.ts"]) {
     expect(judged(one)).toBeNull()
@@ -114,6 +134,13 @@ test("the scope names the class it cannot close and the gap it carries", () => {
   expect(said).toContain("`bun run test`")
   expect(said).toContain("a gap, not a rule")
   expect(said).toContain("WHERE THE CALL RUNS")
+})
+
+test("the scope names the prefixes it steps over and says that list samples a class too", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER")
+  expect(said).toContain("timeout")
+  expect(said).toContain("That list samples an open class too.")
 })
 
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {

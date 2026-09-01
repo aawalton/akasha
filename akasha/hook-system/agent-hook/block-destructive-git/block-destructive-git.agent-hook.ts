@@ -31,6 +31,10 @@ export const blockDestructiveGit = {
       statement: "What this does not reach is printed by the hook and asked for with `--scope`.",
     },
     {
+      invariantKind: "departure",
+      statement: "A prefix that only runs the call behind it does not hide a git act from this.",
+    },
+    {
       invariantKind: "absence",
       statement: "An act this does not name is unexamined rather than safe.",
     },

@@ -2,6 +2,7 @@ import { judgingCalls } from "../../chain-refusal/chain-refusal.module.code.ts"
 import type { GitCall } from "../../git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "../../git-calls/git-calls.module.code.ts"
 import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { RUNS_ANOTHER } from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-destructive-git"
 
@@ -124,6 +125,13 @@ export const SCOPE: readonly string[] = [
   "worktree, so it holds no opinion to derive this list from.",
   "This list samples an open world. It does not define one.",
   "",
+  "A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER, with its own flags, the value a",
+  "flag of its own takes, and the number it takes of its own:",
+  `  ${RUNS_ANOTHER.join(" ")}`,
+  "so `timeout 900 <call>` is the call, and is refused wherever the call is. A prefix flag that",
+  "asks rather than runs — `command -v`, `sudo -l` — leaves no call and is let through.",
+  "That list samples an open class too. A prefix it does not name hides the call behind it.",
+  "",
   "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
@@ -137,6 +145,7 @@ export const SCOPE: readonly string[] = [
   "  an act in a heredoc body, which that step does not take out, so data naming an act is",
   "    refused as though it were a command",
   "  a git call another program builds — `sh -c`, `xargs git`, `make`, a script file",
+  "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
   "  every way to destroy shared work that is not a git call at all",
   "",
   "ALSO REFUSED ELSEWHERE:",

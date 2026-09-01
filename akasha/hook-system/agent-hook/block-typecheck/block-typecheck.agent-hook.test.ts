@@ -47,6 +47,38 @@ test("a prefix that sets the call up is stepped over", () => {
   expect(judged("TS_NODE=one tsc --noEmit")).not.toBeNull()
 })
 
+test("a prefix that only runs the call does not hide it", () => {
+  for (const one of [
+    "timeout 900 tsc --noEmit",
+    "timeout -k 5 900 tsc",
+    "nice tsc",
+    "nice -n 10 tsc",
+    "nohup tsc",
+    "stdbuf -oL tsc",
+    "time tsc",
+    "command tsc",
+    "/usr/bin/timeout 900 tsc",
+    "timeout 900 bunx tsc",
+    "timeout 900 bun run typecheck",
+    "nice -n 10 bun typecheck",
+  ]) {
+    expect(judged(one)).not.toBeNull()
+  }
+})
+
+test("a prefix around a call this does not name is let through", () => {
+  for (const one of ["timeout 900 echo tsc", "nice -n 10 cat tsc.log", "command -v tsc"]) {
+    expect(judged(one)).toBeNull()
+  }
+})
+
+test("a flag before the script name does not hide the typecheck script", () => {
+  expect(judged("bun run --silent typecheck")).not.toBeNull()
+  expect(judged("bun --silent run --silent typecheck")).not.toBeNull()
+  expect(judged("bun run --cwd /elsewhere typecheck")).not.toBeNull()
+  expect(judged("timeout 900 bun run --silent typecheck")).not.toBeNull()
+})
+
 test("bun typecheck and bun run typecheck are both refused", () => {
   expect(judged("bun typecheck")).not.toBeNull()
   expect(judged("bun run typecheck")).not.toBeNull()
@@ -97,6 +129,13 @@ test("the scope names the hole in this rule rather than hiding it", () => {
   expect(said).toContain("vue-tsc")
   expect(said).toContain("is NOT a finding that it is safe")
   expect(said).toContain("WHERE THE CALL RUNS")
+})
+
+test("the scope names the prefixes it steps over and says that list samples a class too", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER")
+  expect(said).toContain("timeout")
+  expect(said).toContain("That list samples an open class too.")
 })
 
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {

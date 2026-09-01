@@ -7,6 +7,7 @@ import {
   SCOPE_FLAG,
   toldOf,
 } from "../../hook-answer/hook-answer.module.code.ts"
+import { RUNS_ANOTHER } from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-bun-test"
 
@@ -74,6 +75,13 @@ export const SCOPE: readonly string[] = [
   "    from here either, which is the same bound `block-akasha-edits` carries.",
   "  A call stating no working directory is judged as though it ran here.",
   "",
+  "A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER, with its own flags, the value a",
+  "flag of its own takes, and the number it takes of its own:",
+  `  ${RUNS_ANOTHER.join(" ")}`,
+  "so `timeout 900 <call>` is the call, and is refused wherever the call is. A prefix flag that",
+  "asks rather than runs — `command -v`, `sudo -l` — leaves no call and is let through.",
+  "That list samples an open class too. A prefix it does not name hides the call behind it.",
+  "",
   "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
@@ -83,6 +91,7 @@ export const SCOPE: readonly string[] = [
   "    anywhere in a path: `bun test command-system` reaches akasha and is let through. That is",
   "    a gap, not a rule, and it is why this guard cannot close its class.",
   "  a call another program builds — `sh -c`, `xargs bun`, `make`, a script file",
+  "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
   "  an act inside a quoted run, which the dequoting step takes out before the cut",
   "  an act in a heredoc body, which that step does not take out, so data naming an act is",
   "    refused as though it were a command",

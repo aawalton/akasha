@@ -42,6 +42,26 @@ test("a prefix that sets the call up is stepped over", () => {
   expect(judged("BIOME_LOG=one biome check .")).not.toBeNull()
 })
 
+test("a prefix that only runs the call does not hide it", () => {
+  for (const one of [
+    "timeout 900 biome check .",
+    "timeout -k 5 900 biome check .",
+    "nice -n 10 biome check .",
+    "nohup biome check .",
+    "stdbuf -oL biome check .",
+    "time biome check .",
+    "command biome check .",
+    "timeout 900 bunx biome check .",
+  ]) {
+    expect(judged(one)).not.toBeNull()
+  }
+})
+
+test("a prefix around a call this does not name is let through", () => {
+  expect(judged("timeout 900 echo biome")).toBeNull()
+  expect(judged("command -v biome")).toBeNull()
+})
+
 test("a runner running something that is not biome is let through", () => {
   expect(judged("npx tsc --noEmit")).toBeNull()
   expect(judged("bunx prettier --check one.ts")).toBeNull()
@@ -87,6 +107,13 @@ test("the scope names the hole in this rule rather than hiding it", () => {
   expect(said).toContain("prettier")
   expect(said).toContain("is NOT a finding that it is safe")
   expect(said).toContain("WHERE THE CALL RUNS")
+})
+
+test("the scope names the prefixes it steps over and says that list samples a class too", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER")
+  expect(said).toContain("timeout")
+  expect(said).toContain("That list samples an open class too.")
 })
 
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {

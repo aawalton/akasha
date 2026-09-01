@@ -158,6 +158,25 @@ test("a read is stood aside from", () => {
   }
 })
 
+test("a prefix that only runs the call does not hide it", () => {
+  for (const one of [
+    "timeout 900 git commit -m one",
+    "timeout -k 5 900 git commit",
+    "nice -n 10 git add .",
+    "nohup git mv one two",
+    "stdbuf -oL git apply one.patch",
+    "time git am one.patch",
+    "command git commit",
+  ]) {
+    expect(refusalIn(one)).not.toBeNull()
+  }
+})
+
+test("a prefix around a bounded call is let through", () => {
+  expect(refusalIn('timeout 900 git commit -m "one" -- tools/one.ts')).toBeNull()
+  expect(refusalIn("timeout 900 git status")).toBeNull()
+})
+
 test("sudo, an assignment and a path to git do not hide the call", () => {
   expect(refusalIn("sudo git commit -m one")).not.toBeNull()
   expect(refusalIn("FOO=1 git -C /elsewhere add .")).not.toBeNull()
@@ -206,6 +225,13 @@ test("the scope says which acts it leaves to the other hook, and why", () => {
 
 test("the scope names the over-refusal an absolute path into this repository causes", () => {
   expect(SCOPE.join("\n")).toContain("That is over-refusal, not a gap.")
+})
+
+test("the scope names the prefixes it steps over and says that list samples a class too", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER")
+  expect(said).toContain("timeout")
+  expect(said).toContain("That list samples an open class too.")
 })
 
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {

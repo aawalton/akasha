@@ -2,6 +2,7 @@ import { judgingCalls } from "../../chain-refusal/chain-refusal.module.code.ts"
 import type { GitCall } from "../../git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "../../git-calls/git-calls.module.code.ts"
 import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { RUNS_ANOTHER } from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-git-writes"
 
@@ -117,6 +118,7 @@ export const SCOPE: readonly string[] = [
   "  an act in a heredoc body, which that step does not take out, so data naming an act is",
   "    refused as though it were a command",
   "  a git call another program builds — `sh -c`, `xargs git commit`, `make`, a script file",
+  "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
   "  every writer that is not git — `cp`, `mv`, a redirect, `sed -i`, an editor, a test",
   "",
   "WHAT `--` DOES AND DOES NOT PROVE:",
@@ -128,6 +130,13 @@ export const SCOPE: readonly string[] = [
   "  `../akasha/one.ts` and `.` and `*` and a pathspec magic word are read as unbounded.",
   "  An absolute path into this repository carries an `akasha` segment for the repository's",
   "    own directory, so it reads as inside and is refused. That is over-refusal, not a gap.",
+  "",
+  "A PREFIX THAT ONLY RUNS THE CALL BEHIND IT IS STEPPED OVER, with its own flags, the value a",
+  "flag of its own takes, and the number it takes of its own:",
+  `  ${RUNS_ANOTHER.join(" ")}`,
+  "so `timeout 900 <call>` is the call, and is refused wherever the call is. A prefix flag that",
+  "asks rather than runs — `command -v`, `sudo -l` — leaves no call and is let through.",
+  "That list samples an open class too. A prefix it does not name hides the call behind it.",
   "",
   "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",

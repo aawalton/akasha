@@ -31,6 +31,10 @@ export const blockBiome = {
       statement: "What this does not reach is printed by the hook and asked for with `--scope`.",
     },
     {
+      invariantKind: "departure",
+      statement: "A prefix that only runs the call behind it does not hide a biome call from this.",
+    },
+    {
       invariantKind: "absence",
       statement: "A package script reaching biome is not read here.",
     },
