@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./phone": "./person/properties/phone.phone-number-property.ts"
+    "./phone": "./person/properties/phone.phone-number-property.ts",
+    "./route-access": "./route-access/route-access.module.code.ts"
   }
 }
