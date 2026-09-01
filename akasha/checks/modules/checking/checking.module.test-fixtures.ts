@@ -42,7 +42,7 @@ type PageType = {
 
 const CHECK_PAGE_TYPE: PageType = {
   slug: CHECK,
-  at: "akasha/checks/code-check/code-check.page-type.ts",
+  at: "akasha/checks/code-checks/code-check.page-type.ts",
 }
 
 export function rootWith(

@@ -1,0 +1,49 @@
+import type { CodeCheck } from "../../code-check.page-type.ts"
+
+export const noIndexPathSpelled = {
+  id: "01a05350-50b5-76df-9760-b09c77c2ee7c",
+  pageTypeSlug: "code-check",
+  slug: "no-index-path-spelled",
+  definition:
+    "the check refusing a file outside the indexes folder that spells a path into the index",
+  code: "ts",
+  test: "ts",
+  runsOnPatch: true,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Where the index stands is asked of `index-reading` rather than spelt here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under the indexes folder is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file is judged from its own body alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every phase judges alike.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every string a body holds is read rather than the specifiers alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Strings standing next to each other are read joined by a separator.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A path built from anything but plain strings is not seen.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What a caller does with a path the caller was given is not judged.",
+    },
+  ],
+} as const satisfies CodeCheck
