@@ -1,20 +1,10 @@
 import { execFileSync } from "node:child_process"
 import { createHash } from "node:crypto"
-import { dirname, join, resolve } from "node:path"
-import { fileURLToPath } from "node:url"
+import { join } from "node:path"
+import { HERE } from "../../../repo/roots/roots.ts"
 
 function akashaStands(): string {
-  const stated = process.env.AKASHA_ROOT
-  if (stated !== undefined && stated !== "") return stated
-  const meta: { readonly dir?: string; readonly dirname?: string; readonly url?: string } = import.meta
-  const named = meta.dir ?? meta.dirname
-  const dir = named ?? (meta.url === undefined ? undefined : dirname(fileURLToPath(meta.url)))
-  if (dir === undefined || dir === "") {
-    throw new Error(
-      "place: nothing here says where this file is, so nothing says where akasha stands — name the akasha root in `AKASHA_ROOT`"
-    )
-  }
-  return resolve(dir, "..", "..", "..")
+  return HERE
 }
 
 const UNDER = "pages"
