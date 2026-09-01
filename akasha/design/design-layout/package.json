@@ -44,9 +44,13 @@
   },
   "dependencies": {
     "@shared/design-primitives": "workspace:*",
+    "@tanstack/react-virtual": "^3.14.10",
+    "class-variance-authority": "^0.7.1",
     "lucide-react": "^0.576.0"
   },
   "peerDependencies": {
-    "react": "^18 || ^19"
+    "react": "^18 || ^19",
+    "react-dom": "^18 || ^19",
+    "@radix-ui/react-collapsible": "*"
   }
 }

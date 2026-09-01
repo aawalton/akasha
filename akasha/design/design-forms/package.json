@@ -19,7 +19,17 @@
   },
   "dependencies": {
     "@shared/day": "workspace:*",
+    "@shared/design-primitives": "workspace:*",
     "chrono-node": "^2.9.0",
+    "class-variance-authority": "^0.7.1",
+    "input-otp": "^1.5.0",
+    "lucide-react": "^0.576.0",
+    "react-day-picker": "^9.13.0",
+    "react-hook-form": "^7.71.0",
     "zod": "^4.3.6"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19",
+    "@radix-ui/react-slot": "*"
   }
 }

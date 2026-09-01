@@ -17,5 +17,15 @@
     "./number-badge": "./number-badge/number-badge.module.code.tsx",
     "./time-badge": "./time-badge/time-badge.module.code.tsx",
     "./url-badge": "./url-badge/url-badge.module.code.tsx"
+  },
+  "dependencies": {
+    "@shared/design-primitives": "workspace:*",
+    "class-variance-authority": "^0.7.1",
+    "lucide-react": "^0.576.0",
+    "zod": "^4.3.6"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19",
+    "@radix-ui/react-slot": "*"
   }
 }
