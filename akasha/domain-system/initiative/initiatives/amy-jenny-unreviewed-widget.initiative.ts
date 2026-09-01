@@ -11,7 +11,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "Build 198 boots, Alan signed in, the widget is still empty. The pod runs `b40354edc4`: the missing page index is gone and `/api/categorization` answers a clean 401 in 0.17s. The store write path is proven healthy from inside the pod, so the mint fails before it, at a 401 that answered alike for two causes and logged nothing. That route now says which refusal it made. Next is reading the pod for one `[device-secret] mint` line when Alan reopens the app.",
+        "Alan is on 198 and signed in; the widget is empty because the pod crash-loops. It answers page queries from its own checkout, so the roster became a synchronous scan when the index went; `/api/health` misses six probes and kubelet kills it, and his app reports `nav` readiness over 4000ms and degrades, so no mint ever runs. Alan's direction is that the pod reads and writes no page from a checkout copy and everything goes through pages-system-service. The here-or-there switch is `here.ts:15`.",
     },
     {
       statement: "The packages reading and writing pages stand in akasha.",
