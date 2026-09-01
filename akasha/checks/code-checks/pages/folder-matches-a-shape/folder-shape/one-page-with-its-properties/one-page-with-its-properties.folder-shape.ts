@@ -17,9 +17,5 @@ export const onePageWithItsProperties = {
       invariantKind: "departure",
       statement: "A subfolder is a folder of its own.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A folder holding no file at all takes this shape rather than failing it.",
-    },
   ],
 } as const satisfies FolderShape

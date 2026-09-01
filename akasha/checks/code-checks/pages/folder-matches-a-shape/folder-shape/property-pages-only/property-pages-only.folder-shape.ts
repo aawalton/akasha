@@ -34,9 +34,5 @@ export const propertyPagesOnly = {
       invariantKind: "absence",
       statement: "The folder above says which page these are properties of.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A folder holding no file at all takes this shape rather than failing it.",
-    },
   ],
 } as const satisfies FolderShape

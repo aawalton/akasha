@@ -17,9 +17,5 @@ export const pagesOfOneType = {
       invariantKind: "departure",
       statement: "A folder is judged by the page types of the pages sitting in that folder.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A folder holding no file at all takes this shape rather than failing it.",
-    },
   ],
 } as const satisfies FolderShape
