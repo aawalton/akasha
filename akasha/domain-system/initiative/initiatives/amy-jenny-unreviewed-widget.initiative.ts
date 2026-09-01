@@ -38,11 +38,10 @@ export const amyJennyUnreviewedWidget = {
         "Alan's categorization route in akasha answers from the readout rather than from Monarch.",
     },
     {
-      statement: "A readout route opens for the device secret Alan's phone presents.",
+      statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "This side stands. `device-secret` is a page type in person-system, and `module/device-secret-standing` reads a presented secret to the account that minted it under `secretHash`; the kebab key answered zero rows and refused every caller before route access. Proved end to end over a fixture since taken away: nothing, a wrong secret and a malformed one each 401, a valid one opens. The `last-used-at` patch is gone. Only a session mints the first secret, so the rest is Alan's.",
+        "The credential side is done and its intent gone: both of Alan's unrevoked device secrets stand as pages (0e557db688, b3d44bf124), deviceSecretCarryingHash answers `found` with revokedAt null for each, and guardReadout returns open. The live web pod 401s for nothing, for malformed and for an unowned secret. What is left is unknowable here: the plaintext lives only on the phone, and if the app was reinstalled a fresh mint is needed, which takes Alan's session.",
     },
-    { statement: "Alan's unreviewed transaction iOS widget works." },
     { statement: "The relay that carries Alan's reading to Jenny's site is in akasha." },
     { statement: "Jenny's categorization route is in akasha." },
     { statement: "The page describing Jenny's tile is in akasha." },
