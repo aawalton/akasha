@@ -1,0 +1,25 @@
+{
+  "name": "@akasha/browser-test-harness",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./browser-test-env": "./browser-test-env/browser-test-env.module.code.ts",
+    "./console-capture": "./console-capture/console-capture.module.code.ts",
+    "./deployed-render-check": "./deployed-render-check/deployed-render-check.module.code.ts",
+    "./harness-launch": "./harness-launch/harness-launch.module.code.ts",
+    "./prewarm": "./prewarm/prewarm.module.code.ts",
+    "./read-only-harness": "./read-only-harness/read-only-harness.module.code.ts",
+    "./target-guard": "./target-guard/target-guard.module.code.ts",
+    "./worktree-git-facts": "./worktree-git-facts/worktree-git-facts.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/browser-launch-env": "workspace:*",
+    "@akasha/supabase-auth": "workspace:*",
+    "@akasha/supabase-database": "workspace:*",
+    "@supabase/supabase-js": "^2.104.0",
+    "zod": "^4.3.6"
+  },
+  "optionalDependencies": {
+    "playwright-core": "1.61.1"
+  }
+}

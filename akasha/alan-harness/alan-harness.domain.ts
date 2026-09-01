@@ -49,6 +49,7 @@ export const alanHarness = {
     "workspace-package/supabase-rr",
     "workspace-package/open-questions",
     "workspace-package/status-bar-access",
+    "workspace-package/browser-test-harness",
   ],
   invariants: [
     {
