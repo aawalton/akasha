@@ -12,6 +12,7 @@ export const seatSystem = {
     "module/seat-launching",
     "module/seat-naming",
     "module/seat-reading",
+    "module/seat-stating",
     "module/seat-stopping",
     "module/subagent-standing",
   ],
