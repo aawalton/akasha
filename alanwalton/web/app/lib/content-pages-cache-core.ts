@@ -1,4 +1,4 @@
-import { asPage } from "@akasha/pages-core/page-types"
+import { asPage, type Page } from "@akasha/pages-core/page-types"
 import { z } from "zod"
 
 export const ContentPageIndexSchema = z

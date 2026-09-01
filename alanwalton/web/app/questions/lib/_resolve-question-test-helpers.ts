@@ -1,5 +1,5 @@
 import { mock } from "bun:test"
-import { type Page, Page as PageBrand, type PageWhere } from "@akasha/pages-core/page-types"
+import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
 import type { ResolveQuestionArgs, ResolveQuestionDeps } from "./resolve-question.server"
 
 export const ASKED_BY = "asker-page-uuid"
@@ -8,7 +8,7 @@ export const OWNER_ID = "owner-user-1"
 export const FOREIGN_ID = "intruder-user-2"
 export const ACTIONS: ResolveQuestionArgs["action"][] = ["answer", "dismiss"]
 
-export const realPage = PageBrand
+export const realPage = asPage
 
 export type State = {
   calls: readonly string[]

@@ -1,4 +1,4 @@
-import { asPage } from "@akasha/pages-core/page-types"
+import { asPage, type Page } from "@akasha/pages-core/page-types"
 import { patchPage } from "@shared/pages-query"
 import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
 import { z } from "zod"
