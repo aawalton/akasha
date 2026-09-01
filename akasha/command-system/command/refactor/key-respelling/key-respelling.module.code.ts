@@ -52,14 +52,14 @@ export function keyingFor(given: string | Reading, from: string, to: string): As
       refused: `\`${from}\` already carries the key \`${to}\`, so there is nothing to rename`,
     }
   }
-  const standing = listedAt(given, pageTypeSlug, slug)[0]
-  if (standing === undefined) {
+  const listed = listedAt(given, pageTypeSlug, slug)[0]
+  if (listed === undefined) {
     return { refused: `no page property stands at \`${pageTypeSlug}/${slug}\`` }
   }
   return {
     keying: {
-      id: standing.id,
-      path: standing.path,
+      id: listed.id,
+      path: listed.path,
       named: `${pageTypeSlug}/${slug}`,
       was: propertySlug,
       now: to,
