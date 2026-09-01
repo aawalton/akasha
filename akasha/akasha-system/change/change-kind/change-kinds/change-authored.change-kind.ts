@@ -7,4 +7,10 @@ export const changeAuthored = {
   definition: "a change composed by an agent",
   runsChecks: true,
   runsWarrants: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An authored change is refused until its required reading is read.",
+    },
+  ],
 } as const satisfies ChangeKind
