@@ -1,6 +1,4 @@
 import { getPages } from "@akasha/pages-access/get"
-import { patchPage, patchRow } from "@shared/pages-query"
-import { askPage, type PageAsked } from "@shared/pages-query/ask"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { partitionUnmanagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-filter"
 import { readManagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-types"
@@ -8,35 +6,27 @@ import { computeNetWorth } from "@temper/game-items-core/inventory-net-worth"
 import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
 import { computeInventoryTotalValue } from "@temper/game-items-core/inventory-value"
 import { shardInventoryJson } from "@temper/game-items-core/shard-inventory"
-import { inventoryChunkName, inventorySnapshotName } from "./inventory-snapshot-name.ts"
+import { inventorySnapshotName } from "./inventory-snapshot-name.ts"
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
-const INVENTORY_CHUNK_PAGE_TYPE_SLUG = "temper-inventory-chunk"
-const NET_WORTH_SNAPSHOT_PAGE_TYPE_SLUG = "temper-net-worth-snapshot"
 const NET_WORTH_DAY_PAGE_TYPE_SLUG = "temper-net-worth-day"
-const WRITER = "temper-import-inventory"
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
-function mintedIfAbsent(asked: PageAsked, what: string): Readonly<Record<string, string>> {
-  if (asked.outcome === "found") return {}
-  if (asked.outcome === "absent") return { id: Bun.randomUUIDv7() }
-  throw new Error(
-    `${what} went unread, so nothing here says whether it already stands and a fresh id would give it a second identity: ${asked.why}`
-  )
-}
-
-async function landNetWorth(day: string, values: Readonly<Record<string, unknown>>): Promise<void> {
-  const standing = await askPage(NET_WORTH_DAY_PAGE_TYPE_SLUG, day)
-  const written = await patchPage(
-    NET_WORTH_DAY_PAGE_TYPE_SLUG,
-    day,
-    { ...mintedIfAbsent(standing, `the day ${day}`), title: day, slug: day, date: day },
-    WRITER
-  )
-  if (!written.ok) throw new Error(`the day ${day} could not be written: ${written.why}`)
-  const landed = await patchRow(NET_WORTH_SNAPSHOT_PAGE_TYPE_SLUG, day, values, WRITER)
-  if (!landed.ok) throw new Error(`the reading for ${day} could not be written: ${landed.why}`)
-}
+// THIS IS THE ONLY THING THAT EVER WROTE A NET WORTH DOWN, AND IT HAS NOT WRITTEN ONE SINCE THE
+// STORE STOPPED TAKING KEYED WRITES. The snapshot went in with `patchPage`, its chunks with
+// `patchPage`, and the day's reading with `patchPage` plus `patchRow` — four keyed writes, all
+// refused. The first threw, so no chunk and no net worth was ever reached.
+//
+// The reading side of that history is still live and still answers: `temper/web/app/routes/
+// api.net-worth.tsx` serves `/api/net-worth` to the chart on the home page and the trends tab.
+// So the chart draws, and what it draws stops dead at the last day filed before the writes died.
+// A flat line to today is not the shape of Alan's holdings; it is the shape of a store that
+// stopped listening, and the chart has no way to tell the two apart.
+//
+// Everything above the landing still works — the scan parses, the value and net worth compute,
+// the shards are cut — so this does all of it and then says exactly which numbers it could not
+// keep. Nothing is invented and nothing is rounded to zero.
+const NO_KEYED_WRITE = "the page store refuses every keyed write"
 
 export async function runImportInventory(
   content: string,
@@ -90,47 +80,6 @@ export async function runImportInventory(
   console.log(`Sharded inventory into ${chunkCount} chunk(s).`)
 
   const snapshotName = inventorySnapshotName(dataTimestamp)
-  const standingSnapshot = await askPage(INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG, snapshotName)
-  const snapshotWritten = await patchPage(
-    INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
-    snapshotName,
-    {
-      ...mintedIfAbsent(standingSnapshot, `the inventory snapshot ${snapshotName}`),
-      "account-page": userId,
-      "data-timestamp": dataTimestamp,
-      "total-value": totalValue,
-      "chunk-count": chunkCount,
-      version: "v1",
-    },
-    WRITER
-  )
-  if (!snapshotWritten.ok) {
-    throw new Error(
-      `the inventory snapshot ${snapshotName} could not be written: ${snapshotWritten.why}`
-    )
-  }
-
-  for (let i = 0; i < chunkCount; i++) {
-    const chunkName = inventoryChunkName(snapshotName, i)
-    const standingChunk = await askPage(INVENTORY_CHUNK_PAGE_TYPE_SLUG, chunkName)
-    const chunkWritten = await patchPage(
-      INVENTORY_CHUNK_PAGE_TYPE_SLUG,
-      chunkName,
-      {
-        ...mintedIfAbsent(standingChunk, `the inventory chunk ${chunkName}`),
-        "account-page": userId,
-        "chunk-index": i,
-        inventory: snapshotName,
-        data: chunkPayloads[i] ?? "",
-      },
-      WRITER
-    )
-    if (!chunkWritten.ok) {
-      throw new Error(`the inventory chunk ${chunkName} could not be written: ${chunkWritten.why}`)
-    }
-  }
-
-  console.log(`Wrote inventory snapshot ${snapshotName} and ${chunkCount} chunk(s).`)
 
   const conversionRates: Record<string, number> = { gold: 1 }
   console.log(`\nNo currency pricing available — net worth will exclude currency gold values.`)
@@ -151,19 +100,6 @@ export async function runImportInventory(
   const netWorthResult = computeNetWorth(ownedInventory, conversionRates)
   const snapshotDate = new Date(dataTimestamp).toISOString().slice(0, 10)
 
-  await landNetWorth(snapshotDate, {
-    slug: `${userId}-${dataTimestamp}`,
-    userId,
-    dataTimestamp,
-    totalValue: netWorthResult.netWorth,
-    itemValue: netWorthResult.itemValue,
-    goldAmount: netWorthResult.goldAmount,
-    currencyGoldValue: netWorthResult.currencyGoldValue,
-    excludedGuildBankValue,
-  })
-
-  console.log(`Upserted net worth for ${snapshotDate}.`)
-
   console.log(`\n=== Summary ===`)
   console.log(`  Locations:      ${locationCount}`)
   console.log(`  Items:          ${itemCount}`)
@@ -183,4 +119,13 @@ export async function runImportInventory(
       )
     }
   }
+
+  throw new Error(
+    `this scan was read and then dropped — ${NO_KEYED_WRITE}. ` +
+      `\`${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/${snapshotName}\` and its ${chunkCount} chunk(s) ` +
+      `did not land, and neither did \`${NET_WORTH_DAY_PAGE_TYPE_SLUG}/${snapshotDate}\` carrying ` +
+      `a net worth of ${Math.round(netWorthResult.netWorth).toLocaleString()} gold. ` +
+      `\`/api/net-worth\` still answers, so the chart will keep drawing a history that ends before ` +
+      `${snapshotDate} without saying that it does`
+  )
 }

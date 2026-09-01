@@ -4,7 +4,6 @@ import { collectPages } from "@akasha/pages-access/iterate"
 import { patchPageById } from "@akasha/pages-access/patch"
 import { type Page } from "@akasha/pages-core/page-types"
 import { instantToMillis } from "@akasha/pages-core/property-types/instant"
-import { patchPage as patchFilePage, writeRow } from "@shared/pages-query"
 import { getEsoDayStr, getEsoResetTime } from "@akasha/day/eso-day"
 import { advanceRecurrenceDueDate } from "@akasha/recurrence/scheduling"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
@@ -16,8 +15,6 @@ import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-p
 const COMPLETED_TASK_PAGE_TYPE_SLUG = "temper-completed-task"
 
 const COMPLETED_MONTH_PAGE_TYPE_SLUG = "temper-completed-month"
-
-const COMPLETION_WRITER = "temper-watcher"
 
 const MONTH_LENGTH = 7
 
@@ -46,23 +43,21 @@ function withoutEmpty(
   return out
 }
 
-async function standingMonth(month: string): Promise<undefined> {
-  const { rows } = await getPages({
-    pageTypeSlug: COMPLETED_MONTH_PAGE_TYPE_SLUG,
-    where: [{ key: "month", eq: month }],
-    limit: 1,
-  })
-  if (rows.length > 0) return
-  const written = await patchFilePage(
-    COMPLETED_MONTH_PAGE_TYPE_SLUG,
-    month,
-    { title: month, month },
-    COMPLETION_WRITER
-  )
-  if (!written.ok) {
-    throw new Error(`standingMonth(${month}): the month page did not land — ${written.why}`)
-  }
-}
+// NO COMPLETED TASK HAS BEEN FILED SINCE THE STORE STOPPED TAKING KEYED WRITES. The completion
+// row went in with `writeRow` and the month page that holds it with `patchPage`, both refused
+// unconditionally, so the first completed task in any scan threw. The month guard that stood above
+// the write went with it: reading whether a month page already stands is only worth asking if the
+// answer decides a write.
+//
+// This throw is not contained to completions. `recordCompletedTask` is reached from
+// `applyCompletion`, which runs inside link three of the `observeChain` in
+// `../watcher-exe/dispatch.ts`, so it also fails the `allSynced` gate at `dispatch.ts:239` and
+// stops `exportCharacters` behind it. The clear-completion and complete-forever paths below use
+// `@akasha/pages-access`, which still works — but nothing reaches them past this.
+//
+// The validation above the landing is kept because it is worth keeping: it refuses to file a
+// completion that names nothing, and that judgement should survive whatever writes these rows next.
+const NO_KEYED_WRITE = "the page store refuses every keyed write"
 
 async function recordCompletedTask(
   task: TaskPage,
@@ -87,7 +82,6 @@ async function recordCompletedTask(
     )
   }
   const month = getEsoDayStr(new Date(completedAtMs)).slice(0, MONTH_LENGTH)
-  await standingMonth(month)
   const values = withoutEmpty({
     id: Bun.randomUUIDv7(),
     title,
@@ -106,12 +100,13 @@ async function recordCompletedTask(
     task: slug,
     "completed-at": completedAt,
   })
-  const written = await writeRow(COMPLETED_TASK_PAGE_TYPE_SLUG, month, values, COMPLETION_WRITER)
-  if (!written.ok) {
-    throw new Error(
-      `recordCompletedTask(${slug}): the completed task did not land — ${written.why}`
-    )
-  }
+  throw new Error(
+    `recordCompletedTask(${slug}): "${title}" completed at ${completedAt} was not filed — ` +
+      `${NO_KEYED_WRITE}, so neither the row on ` +
+      `\`${COMPLETED_TASK_PAGE_TYPE_SLUG}/${month}\` nor the ` +
+      `\`${COMPLETED_MONTH_PAGE_TYPE_SLUG}\` page that would hold it stands. ` +
+      `${Object.keys(values).length} value(s) were narrowed and dropped`
+  )
 }
 
 function rolledDueDate(task: TaskPage, completedAtMs: number): string | undefined {
