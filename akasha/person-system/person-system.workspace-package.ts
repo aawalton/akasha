@@ -9,6 +9,7 @@ export const personSystem = {
   partSlugs: [
     "page-type/access-kind",
     "page-type/authority-kind",
+    "page-type/device-secret",
     "page-type/person",
     "page-type/person-access",
     "page-type/person-authority",
