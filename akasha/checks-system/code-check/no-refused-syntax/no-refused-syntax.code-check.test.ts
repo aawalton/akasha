@@ -28,7 +28,7 @@ const PROBE_CODE_AT = "akasha/one/probe/probe.syntax-rule.code.ts"
 const CARRIED =
   'export function probe() {\n  return [{ line: 1, reason: "the body the change carries" }]\n}\n'
 
-const STOOD =
+const BEFORE =
   'export function probe() {\n  return [{ line: 9, reason: "the body that stood" }]\n}\n'
 
 function bytesOf(text: string | null): Uint8Array | null {
@@ -130,7 +130,7 @@ test("a rule this change introduces is judged by the body the change carries", (
 test("a change rewriting a rule's code is refused rather than judged by the body before it", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
   ruleFiled(root)
-  expect(() => rulesIn(root, nowhereOnDisk(root), changing(root, STOOD, CARRIED))).toThrow(
+  expect(() => rulesIn(root, nowhereOnDisk(root), changing(root, BEFORE, CARRIED))).toThrow(
     /body no path on disk holds/
   )
 })
