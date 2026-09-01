@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   aheadOf,
   clockOf,

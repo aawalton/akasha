@@ -1,5 +1,5 @@
-import type { Page } from "../../pages-system/page/page.page-type.ts"
-import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { Page } from "@akasha/pages-system/page"
+import type { PageType } from "@akasha/pages-system/page-type"
 import type { AccountUuid } from "./properties/account-uuid.text-property.ts"
 import type { AliasIndex } from "./properties/alias-index.number-property.ts"
 import type { Email } from "./properties/email.email-address-property.ts"
