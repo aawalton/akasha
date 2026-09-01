@@ -98,6 +98,10 @@ export const seatSystem = {
       statement: "A seat outlives the editor showing it and the agent sitting in it.",
     },
     {
+      invariantKind: "departure",
+      statement: "A seat is stopped by ending its processes.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing outside akasha says what a seat is.",
     },
