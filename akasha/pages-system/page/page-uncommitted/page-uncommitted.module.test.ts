@@ -35,7 +35,7 @@ function rooted(): string {
   return root
 }
 
-function standing(root: string, body: string): undefined {
+function writtenBeside(root: string, body: string): undefined {
   writeFileSync(join(root, BESIDE), body, "utf8")
 }
 
@@ -100,13 +100,13 @@ test("keeping again replaces what stood there", () => {
 
 test("a file that stands but will not load is refused rather than read as empty", () => {
   const root = rooted()
-  standing(root, "export const amySeatUncommitted = (\n")
+  writtenBeside(root, "export const amySeatUncommitted = (\n")
   expect(() => uncommittedIn(root, PAGE)).toThrow(/could not be loaded/)
 })
 
 test("a file that loads declaring nothing is refused rather than read as empty", () => {
   const root = rooted()
-  standing(root, "export const amySeatUncommitted = 7\n")
+  writtenBeside(root, "export const amySeatUncommitted = 7\n")
   expect(() => uncommittedIn(root, PAGE)).toThrow(/declares no values/)
 })
 
@@ -178,7 +178,7 @@ test("a write takes the lock and leaves none standing after it", () => {
 
 test("the lock is released however the act inside it ends", () => {
   const root = rooted()
-  standing(root, "export const amySeatUncommitted = (\n")
+  writtenBeside(root, "export const amySeatUncommitted = (\n")
   expect(() => mergeUncommitted(root, PAGE, { beats: 1 })).toThrow(/could not be loaded/)
   expect(existsSync(join(root, LOCK))).toBe(false)
   keepUncommitted(root, PAGE, { beats: 1 })
