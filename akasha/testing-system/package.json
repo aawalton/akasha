@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/testing-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./bodying": "./bodying/bodying.module.code.ts",
+    "./declaring": "./declaring/declaring.module.code.ts",
+    "./gitting": "./gitting/gitting.module.code.ts",
+    "./minting": "./minting/minting.module.code.ts",
+    "./putting": "./putting/putting.module.code.ts",
+    "./waiting": "./waiting/waiting.module.code.ts",
+    "./walking": "./walking/walking.module.code.ts"
+  }
+}

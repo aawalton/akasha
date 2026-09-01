@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const testingSystem = {
   id: "01a04ee7-be05-75c4-ba3c-3fd73f943961",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "testing-system",
   definition: "what a test stands up to try something, and what it takes away after",
+  manifest: "json",
   partSlugs: [
     "domain/test",
     "domain/test-fixture",
@@ -56,4 +57,4 @@ export const testingSystem = {
       statement: "A fixture proving itself proves nothing about the system.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage
