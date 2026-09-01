@@ -148,12 +148,12 @@ async function refuseUnresolvedRelations(
     for (const one of Array.isArray(held) ? held : [held]) {
       if (typeof one !== "string" || namesNothing(one)) continue
       const named = one.trim()
-      const standing = await pageUnder(relation.targetSlug, named)
-      if (standing.outcome === "stands") continue
-      if (standing.outcome === "unasked") {
+      const page = await pageUnder(relation.targetSlug, named)
+      if (page.outcome === "stands") continue
+      if (page.outcome === "unasked") {
         throw new FileWriteError(
           pageTypeSlug,
-          unreadTarget(op, pageTypeSlug, key, relation, named, standing.why)
+          unreadTarget(op, pageTypeSlug, key, relation, named, page.why)
         )
       }
       throw new FileWriteError(
