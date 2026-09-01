@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
 import { parseConfig } from "../../schema/pages/pages.module.code.ts"
 import {

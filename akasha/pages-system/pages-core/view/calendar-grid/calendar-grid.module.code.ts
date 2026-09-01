@@ -1,5 +1,5 @@
 import { padTwo } from "@akasha/digit-padding"
-import { requireMatchPositional } from "@shared/utils-narrow/require-match-positional"
+import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
 
 const DAY_RE = /^(\d{4})-(\d{2})-(\d{2})$/

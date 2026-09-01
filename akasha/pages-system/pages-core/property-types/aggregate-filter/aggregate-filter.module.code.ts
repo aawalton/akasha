@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { PageDataJSON } from "../../page-data/page-data.module.code.ts"
 import type { ReadonlyJSONValue } from "../../schema/pages/pages.module.code.ts"
 import type { AggregateFilter } from "../../schema/property-config-schemas/property-config-schemas.module.code.ts"

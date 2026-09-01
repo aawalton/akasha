@@ -1,4 +1,4 @@
-import { isRecord } from "@shared/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
 import type { ReadonlyJSONValue } from "../../schema/pages/pages.module.code.ts"
 import type {

@@ -1,4 +1,4 @@
-import { isRecord } from "@shared/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import * as z from "zod"
 import type { GalleryCardSize } from "../../view/gallery/gallery.module.code.ts"
 import type { ReadonlyJSONValue } from "../pages/pages.module.code.ts"

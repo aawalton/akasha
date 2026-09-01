@@ -1,5 +1,5 @@
-import { isJson } from "@shared/utils-narrow/is-json"
-import { isRecord } from "@shared/utils-narrow/is-record"
+import { isJson } from "@akasha/utils-narrow/is-json"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import { defaultViewData, type ViewDataJSON } from "../../schema/view-data/view-data.module.code.ts"
 import type {
   CreateViewArgs,

@@ -1,5 +1,5 @@
 import { getEsoDayStr, getEsoDayStrOffset } from "@akasha/day/eso-day"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { PageWhere } from "../page-types/page-types.module.code.ts"
 
 export const SNAPSHOT_SLUG_BY_TASK_SLUG: Readonly<Record<string, string>> = {

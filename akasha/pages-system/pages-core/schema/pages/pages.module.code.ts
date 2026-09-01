@@ -1,4 +1,4 @@
-import { isRecord } from "@shared/utils-narrow/is-record"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import * as z from "zod"
 import { type PropertyDefinition, STORAGE_TIERS } from "../../page-data/page-data.module.code.ts"
 import { actionButtonConfigSchema } from "../action-button-config/action-button-config.module.code.ts"

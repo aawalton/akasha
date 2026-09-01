@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
 import { formulaConfigSchema } from "../../schema/property-config-schemas/property-config-schemas.module.code.ts"
 import { BOOLEAN_OPS } from "../boolean/boolean.module.code.ts"

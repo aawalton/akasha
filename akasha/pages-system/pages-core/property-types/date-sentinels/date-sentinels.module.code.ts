@@ -4,7 +4,7 @@ import {
   getEsoDayStrOffset,
   getEsoResetTime,
 } from "@akasha/day/eso-day"
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 
 type DateSentinel =
   | "today"

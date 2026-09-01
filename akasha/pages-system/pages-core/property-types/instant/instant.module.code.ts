@@ -1,4 +1,4 @@
-import { assertNever } from "@shared/utils-narrow/assert-never"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { InstantFormat } from "../../schema/property-config-schemas/property-config-schemas.module.code.ts"
 import type {
   BetweenInstantValue,
