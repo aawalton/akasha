@@ -16,12 +16,6 @@ export const amyJennyUnreviewedWidget = {
     },
     {
       statement:
-        "A package reaches another package by the name its manifest states rather than by a path.",
-      workingMemory:
-        "The index blocker is cleared. landingOf takes a naming built from the manifests a change carries rather than through node_modules, so a copied test world stays hermetic, and the import index, the required-reading gate and folder-matches-a-shape all see a named reach. Proved by a write refused until the named import's page was read. The rewrite lands in batches through akasha write. Two holes filed: no-import-cycle is blind through a package edge, and akasha move does not repoint a manifest.",
-    },
-    {
-      statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
     },
     { statement: "`pages-core` stands in akasha." },
