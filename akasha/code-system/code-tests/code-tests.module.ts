@@ -47,6 +47,18 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A test is written in `.ts` or in `.tsx`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file is answered with every test that could stand beside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which one does stand is settled by whoever asked.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A world is written out of bodies handed in rather than read off the working tree.",
     },

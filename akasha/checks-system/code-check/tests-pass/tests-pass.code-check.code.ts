@@ -3,7 +3,7 @@ import {
   alreadyRunning,
   plain,
   ranOver,
-  testBesideOf,
+  testsBesideOf,
   worldOf,
 } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
@@ -21,10 +21,11 @@ import type { Judged } from "../../judging/judging.module.code.ts"
 const KEPT = 40
 
 function testStandsBeside(path: string, shadow: Shadow): boolean {
-  const beside = testBesideOf(path)
-  if (beside === null) return false
-  if (beside === path) return true
-  return listedByPath(shadow.reading, beside).length > 0
+  for (const beside of testsBesideOf(path)) {
+    if (beside === path) return true
+    if (listedByPath(shadow.reading, beside).length > 0) return true
+  }
+  return false
 }
 
 const TESTED: Selector<Text> = {
@@ -37,10 +38,10 @@ const TESTED: Selector<Text> = {
 export function namedIn(change: Change): readonly string[] {
   const held = new Set<string>()
   for (const one of change.changed) {
-    const beside = testBesideOf(one)
-    if (beside === null) continue
-    if (change.after(beside) === null) continue
-    held.add(beside)
+    for (const beside of testsBesideOf(one)) {
+      if (change.after(beside) === null) continue
+      held.add(beside)
+    }
   }
   return [...held].sort()
 }

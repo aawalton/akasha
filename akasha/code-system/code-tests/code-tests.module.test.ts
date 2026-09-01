@@ -18,7 +18,7 @@ import {
   RUNNING,
   ranOver,
   summaryIn,
-  testBesideOf,
+  testsBesideOf,
   testsUnder,
   verdictOf,
   worldOf,
@@ -68,15 +68,34 @@ check("the test files under a path are counted, and other files are not", () => 
   expect(testsUnder(join(root, "akasha/nowhere"))).toBe(0)
 })
 
-check("a code file, its page and its test all answer the one test beside them", () => {
-  expect(testBesideOf("akasha/one/held.module.code.ts")).toBe("akasha/one/held.module.test.ts")
-  expect(testBesideOf("akasha/one/held.module.ts")).toBe("akasha/one/held.module.test.ts")
-  expect(testBesideOf("akasha/one/held.module.test.ts")).toBe("akasha/one/held.module.test.ts")
+check("a test written with JSX is counted as readily as one written without", () => {
+  const root = repo({ "one.test.tsx": PASSES, "deep/two.test.ts": PASSES })
+  expect(testsUnder(join(root, "akasha"))).toBe(2)
+  expect(testsUnder(join(root, "akasha/one.test.tsx"))).toBe(1)
+})
+
+check(
+  "a code file, its page and its test all answer the tests that could stand beside them",
+  () => {
+    const both = ["akasha/one/held.module.test.ts", "akasha/one/held.module.test.tsx"]
+    expect(testsBesideOf("akasha/one/held.module.code.ts")).toEqual(both)
+    expect(testsBesideOf("akasha/one/held.module.ts")).toEqual(both)
+    expect(testsBesideOf("akasha/one/held.module.code.tsx")).toEqual(both)
+  }
+)
+
+check("a test answers itself alone, whichever of the two it is written in", () => {
+  expect(testsBesideOf("akasha/one/held.module.test.ts")).toEqual([
+    "akasha/one/held.module.test.ts",
+  ])
+  expect(testsBesideOf("akasha/one/held.module.test.tsx")).toEqual([
+    "akasha/one/held.module.test.tsx",
+  ])
 })
 
 check("a file that is no TypeScript file stands beside no test", () => {
-  expect(testBesideOf("akasha/one/notes.md")).toBeNull()
-  expect(testBesideOf("akasha/one/held")).toBeNull()
+  expect(testsBesideOf("akasha/one/notes.md")).toEqual([])
+  expect(testsBesideOf("akasha/one/held")).toEqual([])
 })
 
 check("color is taken out before the summary is read", () => {

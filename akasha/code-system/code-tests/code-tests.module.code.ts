@@ -13,15 +13,17 @@ import { dirname, join } from "node:path"
 import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 
-const SUFFIX = ".test.ts"
-
-const CODE = ".code.ts"
-
 const TS = ".ts"
 
 const TEST = "test"
 
-const HELD = "ts"
+const CODE = "code"
+
+const HELD: readonly string[] = ["ts", "tsx"]
+
+const SUFFIXES: readonly string[] = HELD.map((one) => `.${TEST}.${one}`)
+
+const CODINGS: readonly string[] = HELD.map((one) => `.${CODE}.${one}`)
 
 const RUNNER = "bun"
 
@@ -74,21 +76,31 @@ export function alreadyRunning(): boolean {
   return process.env[RUNNING] === MARK
 }
 
+export function testNamed(path: string): boolean {
+  return SUFFIXES.some((one) => path.endsWith(one))
+}
+
 export function testsUnder(absolute: string): number {
   if (!existsSync(absolute)) return 0
-  if (statSync(absolute).isFile()) return absolute.endsWith(SUFFIX) ? 1 : 0
+  if (statSync(absolute).isFile()) return testNamed(absolute) ? 1 : 0
   let held = 0
   for (const one of readdirSync(absolute, { withFileTypes: true })) {
     if (one.isDirectory()) held += testsUnder(join(absolute, one.name))
-    else if (one.isFile() && one.name.endsWith(SUFFIX)) held += 1
+    else if (one.isFile() && testNamed(one.name)) held += 1
   }
   return held
 }
 
-export function testBesideOf(path: string): string | null {
-  if (path.endsWith(SUFFIX)) return path
-  const page = path.endsWith(CODE) ? `${path.slice(0, -CODE.length)}${TS}` : path
-  return besideAt(page, TEST, HELD)
+export function testsBesideOf(path: string): readonly string[] {
+  if (testNamed(path)) return [path]
+  const coding = CODINGS.find((one) => path.endsWith(one))
+  const page = coding === undefined ? path : `${path.slice(0, -coding.length)}${TS}`
+  const found: string[] = []
+  for (const one of HELD) {
+    const beside = besideAt(page, TEST, one)
+    if (beside !== null) found.push(beside)
+  }
+  return found
 }
 
 export function plain(output: string): string {
