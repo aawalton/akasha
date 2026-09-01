@@ -11,7 +11,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "The index says what the pages say.",
       workingMemory:
-        "Root cause found 2026-09-01. Every drifted file sat under `import/path/`, and no other index drifted. A move rewrites a package manifest's exports, re-resolving that alias for every importer repo-wide, but `settlingOver` files only the paths in the landing, so importers outside it keep the old resolved path and get none at the new one. The moved page itself is fine. `index refresh` heals it. The fix widens the filing when exports change, or keys imports by alias.",
+        "Fixed 2026-09-01 in 6baad44f. The import index keys an edge by the path a specifier resolves to, so a manifest moving that landing stranded every importer outside the change. `rereadOver` in `package-reaching` reads the naming as it was, finds the specifiers that moved, and reads their importers off the index for `settlingOver` to file. A withdrawal is read against the naming as it was rather than the one the change leaves. No index test fails and drift is zero, but no move has run since.",
     },
     {
       statement: "A reminder is an akasha page, and the service sending it reads it there.",
