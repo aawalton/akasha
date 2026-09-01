@@ -3,13 +3,13 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./chess-engine": "./chess-engine/chess-engine.module.code.ts",
-    "./chess-uci": "./chess-uci/chess-uci.module.code.ts",
-    "./chess-position": "./chess-position/chess-position.module.code.ts",
-    "./chess-maia": "./chess-maia/chess-maia.module.code.ts",
-    "./chess-game": "./chess-game/chess-game.module.code.ts",
-    "./chess-game-loop": "./chess-game-loop/chess-game-loop.module.code.ts",
-    "./chess-game-record": "./chess-game-record/chess-game-record.module.code.ts"
+    "./chess-engine": "./core/chess-engine/chess-engine.module.code.ts",
+    "./chess-uci": "./core/chess-uci/chess-uci.module.code.ts",
+    "./chess-position": "./core/chess-position/chess-position.module.code.ts",
+    "./chess-maia": "./core/chess-maia/chess-maia.module.code.ts",
+    "./chess-game": "./core/chess-game/chess-game.module.code.ts",
+    "./chess-game-loop": "./core/chess-game-loop/chess-game-loop.module.code.ts",
+    "./chess-game-record": "./core/chess-game-record/chess-game-record.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
