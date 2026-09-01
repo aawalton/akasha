@@ -19,7 +19,7 @@ export const alanHarness = {
     "workspace-package/drive-google",
     "workspace-package/calendar-google",
     "workspace-package/email-google",
-    "workspace-package/awen-core",
+    "workspace-package/story-engine-core",
     "workspace-package/imessage",
     "workspace-package/tower-core",
     "workspace-package/tower-engine",

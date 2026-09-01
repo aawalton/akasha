@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "../../../code-system/workspace-package/workspace-package.page-type.ts"
 
-export const awenCore = {
+export const storyEngineCore = {
   id: "01a05b71-e544-7ab9-87b3-b98dbd2ed891",
   pageTypeSlug: "workspace-package",
-  slug: "awen-core",
+  slug: "story-engine-core",
   definition: "the shapes and the rules of an Awen game, shared by everything that runs one",
   manifest: "json",
   partSlugs: [
