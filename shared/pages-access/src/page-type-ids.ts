@@ -1,5 +1,5 @@
 import { askComposed, type ComposedQuery } from "@akasha/pages-query/ask"
-import { type Asked } from "../../pages-query/src/index"
+import { type Asked } from "@akasha/pages-query"
 
 export type GetPageTypeIdsBySlugsArgs = { readonly slugs: ReadonlyArray<string> }
 

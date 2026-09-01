@@ -1,5 +1,5 @@
 import { askComposed } from "@akasha/pages-query/ask"
-import { type QueryRow } from "../../../../../shared/pages-query/src/answer-schema"
+import { type QueryRow } from "@akasha/pages-query/answer-schema"
 import type { DerivedMechanics, PersonaIdentity } from "./core/derive"
 import type { DrawContext, DrawGirl } from "./core/gacha/draw"
 import { deriveMechanics } from "./core/derive"

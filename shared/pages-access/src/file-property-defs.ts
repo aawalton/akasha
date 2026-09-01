@@ -1,5 +1,5 @@
 import { askComposed, askShape, type ComposedQuery, type Declaration, type PageTypeShape } from "@akasha/pages-query/ask"
-import { type Asked } from "../../pages-query/src/index"
+import { type Asked } from "@akasha/pages-query"
 import type { Json } from "../../supabase-database/src/generated/database"
 import { isRecord } from "../../utils-narrow/src/is-record"
 import { z } from "zod"

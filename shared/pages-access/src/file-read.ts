@@ -1,5 +1,5 @@
 import { askComposed, askPageTypes, type ComposedQuery } from "@akasha/pages-query/ask"
-import { type Asked } from "../../pages-query/src/index.ts"
+import { type Asked } from "@akasha/pages-query"
 import type { Json } from "../../supabase-database/src/generated/database.ts"
 import { isJson } from "../../utils-narrow/src/is-json.ts"
 import { type CursorPayload, decodeCursor, encodeCursor } from "./cursor.ts"

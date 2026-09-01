@@ -1,5 +1,5 @@
 import { askComposed, type ComposedQuery } from "@akasha/pages-query/ask"
-import { type QueryRow } from "../../../../shared/pages-query/src/answer-schema"
+import { type QueryRow } from "@akasha/pages-query/answer-schema"
 import { parseRuleMatch, type RuleCondition } from "./wording"
 
 const CATEGORY = "monarch-category"

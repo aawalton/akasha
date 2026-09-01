@@ -1,4 +1,4 @@
-import type { QueryRow } from "../../pages-query/src/answer-schema"
+import type { QueryRow } from "@akasha/pages-query/answer-schema"
 import { z } from "zod"
 import { idOfFilePage, slugOfFilePage } from "../../../page/name/naming/naming.ts"
 import type { RawPageRow } from "./page-row"
