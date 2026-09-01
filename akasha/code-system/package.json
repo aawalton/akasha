@@ -17,6 +17,7 @@
     "./module/test": "./module/properties/test.file-property.ts",
     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
     "./shell-script": "./shell-script/shell-script.page-type.ts",
+    "./stylesheet": "./stylesheet/stylesheet.page-type.ts",
     "./workspace-package": "./workspace-package/workspace-package.page-type.ts"
   },
   "dependencies": {
