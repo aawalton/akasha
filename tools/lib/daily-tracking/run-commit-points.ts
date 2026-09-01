@@ -2,7 +2,11 @@ import { z } from "zod"
 import { codeRoot } from "../code-root.ts"
 import { rollupActiveCaloriesForDay } from "./active-calories.ts"
 import { rollupBreathingForDay } from "./breathing-points.ts"
-import { getEsoDayStrOffset, readSessionPages } from "./tracking-modules.ts"
+import {
+  getEsoDayStrOffset,
+  readSessionPages,
+  TRACKING_SCAN_DAY_OFFSETS,
+} from "./tracking-modules.ts"
 import { writeEngineTotalPoints } from "./engine-total-points.ts"
 import { writeHealthTotalPoints } from "./health-total-points.ts"
 import { rollupNutritionForDay } from "./nutrition-points.ts"
@@ -25,11 +29,11 @@ const EnvSchema = z.object({
   REPO_ROOT: z.string().min(1).optional(),
 })
 
-const READING_SCAN_DAYS = 14
-const READING_SCAN_DAY_OFFSETS: readonly number[] = Array.from(
-  { length: READING_SCAN_DAYS },
-  (_, index) => index - (READING_SCAN_DAYS - 1)
-)
+/**
+ * The reading scan and the rescore floor are the same window, held in one place: a rescore
+ * may restate a day only where the scan would recompute it anyway.
+ */
+const READING_SCAN_DAY_OFFSETS = TRACKING_SCAN_DAY_OFFSETS
 
 const POINTS_SOURCE_DAY_OFFSETS = [-1, 0] as const
 
@@ -82,10 +86,16 @@ export async function runCommitPoints(): Promise<void> {
     )
   }
 
-  const rescored = await rescoreDriftedPersonas()
+  const rescored = await rescoreDriftedPersonas(now)
   for (const r of rescored) {
+    const touched =
+      r.drifted.length === 0
+        ? "none"
+        : `${r.drifted[0]?.dayStr}..${r.drifted[r.drifted.length - 1]?.dayStr}`
     console.log(
-      `commit-points rescore: ${r.slug} bar=${r.currentBar} rewrote ${r.written} of ${r.examined} stored day(s)`
+      `commit-points rescore: ${r.slug} bar=${r.currentBar} rewrote ${r.written} of ${r.examined} ` +
+        `stored day(s) on or after ${r.floorDayStr} (${touched}); ` +
+        `${r.settled} older day(s) differ and stand`
     )
   }
 
