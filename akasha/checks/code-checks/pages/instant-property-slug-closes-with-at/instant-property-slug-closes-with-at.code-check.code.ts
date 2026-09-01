@@ -1,5 +1,4 @@
 import type { Change } from "@akasha/pages-system/change"
-import { kindsUnder } from "@akasha/pages-system/page-type-descent"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
@@ -38,7 +37,7 @@ export function reasonsIn(under: ReadonlySet<string>): (given: Body) => readonly
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const under = kindsUnder(change.root, INSTANT_PROPERTY, shadow.reading, shadow.pageOf)
+  const under = shadow.index.kindsUnder(change.root, INSTANT_PROPERTY, shadow.pageOf)
   return overEachFile(change, reasonsIn(under))
 }
 
