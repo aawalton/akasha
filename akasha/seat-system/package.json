@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./seat-page-type": "./seat/seat.page-type.ts",
     "./subagent-standing": "./subagent/subagent-standing/subagent-standing.module.code.ts"
   }
 }
