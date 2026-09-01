@@ -12,6 +12,7 @@ import {
 import { dirname, join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages-system/page-file-name"
+import { ran } from "@akasha/utils-run/running"
 
 const TS = ".ts"
 
@@ -164,17 +165,15 @@ export function worldOf(
 }
 
 export function ranOver(root: string, named: readonly string[], expected: number): Ran {
-  const done = Bun.spawnSync([RUNNER, RUNS, ...named], {
+  const done = ran([RUNNER, RUNS, ...named], {
     cwd: root,
-    stdout: "pipe",
-    stderr: "pipe",
     env: { ...process.env, [RUNNING]: MARK },
   })
-  const output = `${done.stdout.toString()}${done.stderr.toString()}`
+  const output = `${done.out}${done.err}`
   return {
-    code: done.exitCode,
+    code: done.code,
     output,
     summary: summaryIn(output),
-    verdict: verdictOf(done.exitCode, output, expected),
+    verdict: verdictOf(done.code, output, expected),
   }
 }
