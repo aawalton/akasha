@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import type { Workload } from "../web-app-reading/web-app-reading.module.code.ts"
-import { SYNTH_AT, standingWorld } from "../web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { SYNTH_AT, seededWorld } from "../web-app-reading/web-app-reading.module.test-fixtures.ts"
 import {
   applyOf,
   carries,
@@ -14,7 +14,7 @@ import {
   standInsIn,
 } from "./workload-deploying.module.code.ts"
 
-const WORLD = standingWorld()
+const WORLD = seededWorld()
 
 afterAll(() => {
   WORLD.sweep()

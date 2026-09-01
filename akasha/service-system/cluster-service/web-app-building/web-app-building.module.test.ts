@@ -3,7 +3,7 @@ import { mkdirSync, mkdtempSync, readdirSync, rmSync, writeFileSync } from "node
 import { join } from "node:path"
 import { said as saying } from "@akasha/utils-run/running"
 import type { Workload } from "../web-app-reading/web-app-reading.module.code.ts"
-import { SYNTH_AT, standingWorld } from "../web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { SYNTH_AT, seededWorld } from "../web-app-reading/web-app-reading.module.test-fixtures.ts"
 import type { Manifest, Plan } from "../workload-deploying/workload-deploying.module.code.ts"
 import {
   alreadyBuilt,
@@ -22,7 +22,7 @@ import {
   whyUninstallable,
 } from "./web-app-building.module.code.ts"
 
-const WORLD = standingWorld()
+const WORLD = seededWorld()
 
 const HOLD = "/var/tmp"
 

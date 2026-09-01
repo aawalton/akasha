@@ -6,9 +6,9 @@ import {
   wantingIn,
   workloadIn,
 } from "./web-app-reading.module.code.ts"
-import { SYNTH_AT, standingWorld } from "./web-app-reading.module.test-fixtures.ts"
+import { SYNTH_AT, seededWorld } from "./web-app-reading.module.test-fixtures.ts"
 
-const WORLD = standingWorld()
+const WORLD = seededWorld()
 
 afterAll(() => {
   WORLD.sweep()

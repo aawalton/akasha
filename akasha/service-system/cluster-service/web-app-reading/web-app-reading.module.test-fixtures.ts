@@ -84,7 +84,7 @@ function clusterService(slug: string, at: number, name: string, code: string): s
   })
 }
 
-export function standingWorld(): World {
+export function seededWorld(): World {
   const root = mkdtempSync(join(HOLD, PREFIX))
   const stand = (path: string, body: string): undefined => {
     const at = join(root, path)

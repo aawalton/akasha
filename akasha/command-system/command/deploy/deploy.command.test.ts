@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { standingWorld } from "@akasha/service-system/web-app-reading/testing"
+import { seededWorld } from "@akasha/service-system/web-app-reading/testing"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { deploy } from "./deploy.command.code.ts"
 
-const WORLD = standingWorld()
+const WORLD = seededWorld()
 
 afterAll(() => {
   WORLD.sweep()
