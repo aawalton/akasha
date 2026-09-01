@@ -28,6 +28,10 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A shape judging no folder is never loaded.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A reach written as the name a manifest states counts as one into the folder it lands in.",
     },

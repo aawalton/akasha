@@ -20,6 +20,8 @@ import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts
 
 const SHAPE = "folder-shape"
 
+const ENABLED = "enabled"
+
 const CODE = "code"
 
 const TS = "ts"
@@ -71,6 +73,17 @@ export function edgesOf(
 export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
   const found: Shape[] = []
   for (const one of shadow.index.everyOfType(SHAPE)) {
+    const value = shadow.pageOf(one.path)
+    if (value === null) {
+      throw new Error(
+        `${one.path} is a folder shape, and its page reads as nothing, so whether it judges folders cannot be read`
+      )
+    }
+    const enabled = value[ENABLED]
+    if (typeof enabled !== "boolean") {
+      throw new Error(`${one.path} is a folder shape, and its page says no \`${ENABLED}\``)
+    }
+    if (!enabled) continue
     const said = namedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a folder shape, and its name says no slug`)
@@ -106,7 +119,7 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
   }
   if (found.length === 0) {
     throw new Error(
-      "no folder shape stands, so every folder would match nothing and a clean answer would mean nothing"
+      "no folder shape judges folders, so every folder would match nothing and a clean answer would mean nothing"
     )
   }
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
