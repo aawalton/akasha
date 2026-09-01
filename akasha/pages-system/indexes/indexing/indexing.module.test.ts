@@ -34,10 +34,10 @@ import {
   scratch,
   settled,
   slugFile,
-  stood,
   thePage,
   tookAway,
   VOCABULARY,
+  wrotePages,
   wroteText,
 } from "./indexing.module.test-fixtures.ts"
 
@@ -198,7 +198,7 @@ const aSource = (slug: string, names: string): Named =>
 
 test("renaming a page and the page naming it by slug leaves no line for where it was", () => {
   const { tree, root } = grounded()
-  expect(stood(root, tree, [aTarget("was"), aSource("from", "was")])).toEqual([])
+  expect(wrotePages(root, tree, [aTarget("was"), aSource("from", "was")])).toEqual([])
   const edge = edgeFile(root, D, "part-slugs", A)
   expect(linesIn(edge)).toEqual(['{"path":"from.domain.ts"}'])
 
@@ -212,7 +212,7 @@ test("renaming a page and the page naming it by slug leaves no line for where it
 
 test("a page moved on its own keeps one edge naming where it moved to", () => {
   const { tree, root } = grounded()
-  expect(stood(root, tree, [aSource("from", "b")])).toEqual([])
+  expect(wrotePages(root, tree, [aSource("from", "b")])).toEqual([])
   const edge = edgeFile(root, B, "part-slugs", A)
   expect(linesIn(edge)).toEqual(['{"path":"from.domain.ts"}'])
 
@@ -223,7 +223,7 @@ test("a page moved on its own keeps one edge naming where it moved to", () => {
 
 test("a value the change withdraws that would not resolve before it is reported", () => {
   const { tree, root } = grounded()
-  expect(stood(root, tree, [aSource("from", "ghost")]).join(" ")).toMatch(/slug `ghost`/)
+  expect(wrotePages(root, tree, [aSource("from", "ghost")]).join(" ")).toMatch(/slug `ghost`/)
 
   expect(renamed(root, tree, [["from.domain.ts", aSource("to", "b")]]).join(" ")).toMatch(
     /slug `ghost`/
@@ -233,7 +233,7 @@ test("a value the change withdraws that would not resolve before it is reported"
 test("a page type renamed in the same change withdraws the edge a bare value left", () => {
   const { tree, root } = grounded()
   const d = thePage({ id: D, pageTypeSlug: "domain", slug: "d", domainSlug: "c" })
-  expect(stood(root, tree, [d])).toEqual([])
+  expect(wrotePages(root, tree, [d])).toEqual([])
   const edge = edgeFile(root, C, "domain-slug", D)
   expect(linesIn(edge)).toEqual(['{"path":"d.domain.ts"}'])
 

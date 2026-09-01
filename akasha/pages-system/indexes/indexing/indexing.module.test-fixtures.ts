@@ -64,7 +64,7 @@ export function tookAway(root: string, tree: string, at: string, body: string): 
   indexing.settle()
 }
 
-export function stood(root: string, tree: string, named: readonly Named[]): readonly string[] {
+export function wrotePages(root: string, tree: string, named: readonly Named[]): readonly string[] {
   const indexing = indexingAt(root, tree)
   for (const [at, value] of named) {
     const body = bodyOf(value)
