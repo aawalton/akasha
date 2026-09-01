@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/file-page-identity",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./file-page/file-page.module.code.ts"
+  }
+}
