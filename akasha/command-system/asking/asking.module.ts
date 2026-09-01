@@ -27,7 +27,12 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A dry run gates under the hold and writes nothing.",
+      statement: "A dry run gates without the hold and writes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A dry run judges what is there as it runs rather than what a later landing will judge.",
     },
     {
       invariantKind: "departure",

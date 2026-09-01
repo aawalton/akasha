@@ -6,7 +6,6 @@ import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import { holding } from "../holding/holding.module.code.ts"
 import type { FileCarry, FileEdit, Landed, Refused } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
@@ -263,10 +262,8 @@ function reported(
 }
 
 function reporting(root: string, asked: Asked, gate: Judging): Answer {
-  const held = holding(root, () => {
-    const change = changeOf(root, { base: baseOf(root), edits: asked.changes })
-    return { said: gate.over(change), woke: gate.checksFor(change).length }
-  })
+  const change = changeOf(root, { base: baseOf(root), edits: asked.changes })
+  const held = { said: gate.over(change), woke: gate.checksFor(change).length }
   if (held.said.length > 0) {
     return {
       report: [],
