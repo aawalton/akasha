@@ -9,7 +9,7 @@ export const SNAPSHOT_SLUG_BY_TASK_SLUG: Readonly<Record<string, string>> = {
 
 export interface CompletionDecision {
   readonly completedAt: number
-  readonly softDeleteSource: boolean
+  readonly deleteSource: boolean
 }
 
 function hasRecurrence(rrule: unknown): boolean {
@@ -27,7 +27,7 @@ export function decideCompletion(args: {
 }): CompletionDecision {
   return {
     completedAt: args.completedAtMs,
-    softDeleteSource: !hasRecurrence(args.rrule),
+    deleteSource: !hasRecurrence(args.rrule),
   }
 }
 

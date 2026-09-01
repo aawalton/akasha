@@ -23,4 +23,4 @@ export type PagesMutationPlan =
       readonly overlay: RowOverlay
       readonly predictedSet?: Readonly<Record<string, Json>>
     }
-  | { readonly kind: "hard-delete"; readonly rowId: string }
+  | { readonly kind: "delete"; readonly rowId: string }

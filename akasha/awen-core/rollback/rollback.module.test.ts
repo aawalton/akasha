@@ -43,10 +43,10 @@ describe("decideRollback", () => {
     expect(decision.plan.restores[0]?.keys).toEqual(ROLLBACK_STATE_KEYS)
   })
 
-  test("turns past the target are soft-deleted", () => {
+  test("turns past the target are deleted", () => {
     const decision = decideRollback(facts())
     if (decision.kind !== "plan") throw new Error("expected a plan")
-    expect(decision.plan.turnSoftDeletes.map((t) => t.turnNumber)).toEqual([4, 5])
+    expect(decision.plan.turnDeletes.map((t) => t.turnNumber)).toEqual([4, 5])
   })
 
   test("an unsound request is refused before anything else is weighed", () => {
@@ -66,7 +66,7 @@ describe("decideRollback", () => {
     expect(decision.earliestRollbackableTurn).toBe(1)
   })
 
-  test("an entity made after the anchor is soft-deleted rather than restored", () => {
+  test("an entity made after the anchor is deleted rather than restored", () => {
     const decision = decideRollback(
       facts({
         entities: [
@@ -81,7 +81,7 @@ describe("decideRollback", () => {
       })
     )
     if (decision.kind !== "plan") throw new Error("expected a plan")
-    expect(decision.plan.entitySoftDeletes).toEqual([{ pageId: "e1", externalId: "goblin" }])
+    expect(decision.plan.entityDeletes).toEqual([{ pageId: "e1", externalId: "goblin" }])
   })
 
   test("an entity older than the anchor with no version refuses the whole rollback", () => {

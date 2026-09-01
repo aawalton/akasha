@@ -32,12 +32,12 @@ export interface RollbackRestore {
   readonly branch?: ContinuityBranch
 }
 
-export interface RollbackSoftDeleteEntity {
+export interface RollbackDeleteEntity {
   readonly pageId: string
   readonly externalId: string
 }
 
-export interface RollbackSoftDeleteTurn {
+export interface RollbackDeleteTurn {
   readonly pageId: string
   readonly turnNumber: number
 }
@@ -46,8 +46,8 @@ export interface RollbackPlan {
   readonly gameId: string
   readonly toTurn: number
   readonly restores: readonly RollbackRestore[]
-  readonly entitySoftDeletes: readonly RollbackSoftDeleteEntity[]
-  readonly turnSoftDeletes: readonly RollbackSoftDeleteTurn[]
+  readonly entityDeletes: readonly RollbackDeleteEntity[]
+  readonly turnDeletes: readonly RollbackDeleteTurn[]
 }
 
 export type RollbackDecision =
@@ -115,7 +115,7 @@ export function decideRollback(facts: RollbackFacts): RollbackDecision {
 
   const gaps: GameConfigViolation[] = []
   const restores: RollbackRestore[] = []
-  const entitySoftDeletes: RollbackSoftDeleteEntity[] = []
+  const entityDeletes: RollbackDeleteEntity[] = []
 
   if (facts.state !== null) {
     if (facts.state.versionId === null) {
@@ -188,8 +188,8 @@ export function decideRollback(facts: RollbackFacts): RollbackDecision {
         versionId: entity.versionId,
         keys: ROLLBACK_ENTITY_KEYS,
       })
-    } else if (disposition === "soft-delete") {
-      entitySoftDeletes.push({ pageId: entity.pageId, externalId: entity.externalId })
+    } else if (disposition === "delete") {
+      entityDeletes.push({ pageId: entity.pageId, externalId: entity.externalId })
     } else {
       gaps.push({
         field: `game-entity "${entity.externalId}"`,
@@ -211,7 +211,7 @@ export function decideRollback(facts: RollbackFacts): RollbackDecision {
     }
   }
 
-  const turnSoftDeletes: RollbackSoftDeleteTurn[] = facts.turns
+  const turnDeletes: RollbackDeleteTurn[] = facts.turns
     .filter((turn) => turn.turnNumber > facts.toTurn)
     .map((turn) => ({ pageId: turn.pageId, turnNumber: turn.turnNumber }))
 
@@ -221,8 +221,8 @@ export function decideRollback(facts: RollbackFacts): RollbackDecision {
       gameId: facts.gameId,
       toTurn: facts.toTurn,
       restores,
-      entitySoftDeletes,
-      turnSoftDeletes,
+      entityDeletes,
+      turnDeletes,
     },
   }
 }

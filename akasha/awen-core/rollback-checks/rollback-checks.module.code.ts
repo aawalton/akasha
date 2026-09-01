@@ -1,6 +1,6 @@
 import type { GameConfigViolation } from "../game-config-schema/game-config-schema.module.code.ts"
 
-export type EntityDisposition = "restore" | "soft-delete" | "refuse"
+export type EntityDisposition = "restore" | "delete" | "refuse"
 
 export function classifyEntity(input: {
   readonly createdAtMs: number
@@ -8,7 +8,7 @@ export function classifyEntity(input: {
   readonly hasAtOrBeforeVersion: boolean
 }): EntityDisposition {
   if (input.hasAtOrBeforeVersion) return "restore"
-  if (input.createdAtMs > input.publishedAtNMs) return "soft-delete"
+  if (input.createdAtMs > input.publishedAtNMs) return "delete"
   return "refuse"
 }
 

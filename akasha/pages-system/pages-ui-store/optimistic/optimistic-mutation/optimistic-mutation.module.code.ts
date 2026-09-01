@@ -73,7 +73,7 @@ function applyPlan(collection: Collection<PageRow, string>, plan: PagesMutationP
         collection.insert(plan.row)
       }
       return
-    case "hard-delete":
+    case "delete":
       if (collection.has(plan.rowId)) collection.delete(plan.rowId)
       return
     default:

@@ -12,10 +12,10 @@ describe("classifyEntity", () => {
     ).toBe("restore")
   })
 
-  test("an entity made after the anchor with no such version is soft-deleted", () => {
+  test("an entity made after the anchor with no such version is deleted", () => {
     expect(
       classifyEntity({ createdAtMs: 90, publishedAtNMs: 50, hasAtOrBeforeVersion: false })
-    ).toBe("soft-delete")
+    ).toBe("delete")
   })
 
   test("an entity older than the anchor with no such version is refused", () => {

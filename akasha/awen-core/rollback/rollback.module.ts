@@ -14,7 +14,7 @@ export const rollback = {
     },
     {
       invariantKind: "departure",
-      statement: "An entity made after the target turn is soft-deleted rather than restored.",
+      statement: "An entity made after the target turn is deleted rather than restored.",
     },
     {
       invariantKind: "departure",
