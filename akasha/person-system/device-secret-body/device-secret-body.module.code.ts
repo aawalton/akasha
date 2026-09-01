@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { hasDeviceSecretShape } from "../device-secret-standing/device-secret-standing.module.code.ts"
+import { hasDeviceSecretShape } from "../device-secret-shape/device-secret-shape.module.code.ts"
 
 export const mintDeviceSecretSchema = z.object({ deviceId: z.string().min(1) }).strict()
 

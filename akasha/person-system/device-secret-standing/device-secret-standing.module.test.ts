@@ -2,12 +2,15 @@ import { expect, test } from "bun:test"
 import type { Fetcher } from "@akasha/pages-query/fetcher"
 import { noNap } from "@akasha/pages-query/fetcher/testing"
 import {
+  DEVICE_SECRET_PREFIX,
+  hasDeviceSecretShape,
+} from "../device-secret-shape/device-secret-shape.module.code.ts"
+import {
   overTheLiveStore,
   recordingFetcher,
 } from "../person-enrolment/person-enrolment.module.test-fixtures.ts"
 import {
   DEVICE_SECRET_PAGE_TYPE,
-  DEVICE_SECRET_PREFIX,
   deviceSecretBody,
   deviceSecretHashesEqual,
   deviceSecretPath,
@@ -15,7 +18,6 @@ import {
   deviceSecretSlug,
   exportNameFor,
   generateDeviceSecret,
-  hasDeviceSecretShape,
   hashDeviceSecret,
   pageIn,
   readPresentedDeviceSecret,
@@ -64,11 +66,6 @@ test("a minted secret carries the prefix and the shape", () => {
   const secret = generateDeviceSecret()
   expect(secret.startsWith(DEVICE_SECRET_PREFIX)).toBe(true)
   expect(hasDeviceSecretShape(secret)).toBe(true)
-})
-
-test("something shaped otherwise is no device secret", () => {
-  expect(hasDeviceSecretShape("dvs_v1_short")).toBe(false)
-  expect(hasDeviceSecretShape("")).toBe(false)
 })
 
 test("a header carrying nothing is read as absent", () => {

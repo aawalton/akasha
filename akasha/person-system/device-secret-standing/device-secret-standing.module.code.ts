@@ -4,17 +4,17 @@ import { askComposed } from "@akasha/pages-query/ask"
 import type { Fetcher, Sleeper } from "@akasha/pages-query/fetcher"
 import { upperUuid } from "@akasha/pages-system/name-format/upper-uuid"
 import { textAt } from "@akasha/utils-narrow/text-at"
+import {
+  DEVICE_SECRET_PREFIX,
+  hasDeviceSecretShape,
+} from "../device-secret-shape/device-secret-shape.module.code.ts"
 import { personSlugForAccount } from "../person-enrolment/person-enrolment.module.code.ts"
 
 export const DEVICE_SECRET_PAGE_TYPE = "device-secret"
 
 export const DEVICE_SECRET_HEADER = "X-Device-Secret"
 
-export const DEVICE_SECRET_PREFIX = "dvs_v1_"
-
 export const DEVICE_SECRET_RANDOM_BYTES = 32
-
-export const DEVICE_SECRET_BODY_LENGTH = 43
 
 export const DEVICE_SECRETS_FOLDER = "akasha/person-system/device-secret/device-secrets"
 
@@ -27,8 +27,6 @@ export const USER_ID_KEY = "userId"
 export const DEVICE_ID_KEY = "deviceId"
 
 export const REVOKED_AT_KEY = "revokedAt"
-
-const SHAPE = new RegExp(`^${DEVICE_SECRET_PREFIX}[A-Za-z0-9_-]{${DEVICE_SECRET_BODY_LENGTH}}$`)
 
 const HASH_SHAPE = /^[0-9a-f]{64}$/
 
@@ -68,10 +66,6 @@ export type Minted =
 export type Revoked =
   | { readonly ok: true; readonly slug: string | null; readonly at: string | null }
   | { readonly ok: false; readonly why: string }
-
-export function hasDeviceSecretShape(value: string): boolean {
-  return SHAPE.test(value)
-}
 
 export function readPresentedDeviceSecret(headerValue: string | null): Presented {
   if (headerValue === null || headerValue === "") return { ok: false, reason: "absent" }
@@ -249,12 +243,12 @@ export async function mintDeviceSecret(
   }
   const enrolled = await personSlugForAccount(userId, fetcher, naps)
   if (!enrolled.ok) return { ok: false, why: enrolled.why }
-  const found = await deviceSecretFor(userId, deviceId, fetcher, naps)
-  if (found.outcome === "unread") return { ok: false, why: found.why }
+  const standing = await deviceSecretFor(userId, deviceId, fetcher, naps)
+  if (standing.outcome === "unread") return { ok: false, why: standing.why }
   const slug = deviceSecretSlug(enrolled.personSlug, deviceId)
   const secret = generateDeviceSecret()
   const page: DeviceSecretPage = {
-    id: found.outcome === "found" ? found.page.id : uuidVersion7(),
+    id: standing.outcome === "found" ? standing.page.id : uuidVersion7(),
     slug,
     userId,
     deviceId,
@@ -264,7 +258,7 @@ export async function mintDeviceSecret(
   const put = { path: deviceSecretPath(slug), content: deviceSecretBody(page) }
   const message = `a device secret is minted for ${enrolled.personSlug}`
   const landed =
-    found.outcome === "found"
+    standing.outcome === "found"
       ? await patchFiles([put.path], () => [put], DEVICE_SECRET_WRITER, message, fetcher, naps)
       : await writeFiles([put], DEVICE_SECRET_WRITER, message, fetcher, naps)
   if (!landed.ok) return { ok: false, why: landed.why }
@@ -278,10 +272,10 @@ export async function revokeDeviceSecret(
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<Revoked> {
-  const found = await deviceSecretFor(userId, deviceId, fetcher, naps)
-  if (found.outcome === "unread") return { ok: false, why: found.why }
-  if (found.outcome === "none") return { ok: true, slug: null, at: null }
-  const page = found.page
+  const standing = await deviceSecretFor(userId, deviceId, fetcher, naps)
+  if (standing.outcome === "unread") return { ok: false, why: standing.why }
+  if (standing.outcome === "none") return { ok: true, slug: null, at: null }
+  const page = standing.page
   if (page.revokedAt !== null) return { ok: true, slug: page.slug, at: null }
   const put = {
     path: deviceSecretPath(page.slug),
