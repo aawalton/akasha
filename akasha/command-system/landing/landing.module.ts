@@ -12,7 +12,7 @@ export const landing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change is a base commit and the bodies it would leave.",
+      statement: "A change is a base commit and the bodies the change would leave.",
     },
     {
       invariantKind: "departure",
@@ -22,16 +22,16 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "The bodies the change does not touch are read through one git process for the whole judging rather than one for each.",
+        "The bodies the change does not touch are read through one git process for the whole judging rather than through one git process for each body.",
     },
     {
       invariantKind: "departure",
-      statement: "That git process is ended when the judging ends however it ends.",
+      statement: "That git process is ended when the judging ends however the judging ends.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The commit the change was judged against is the commit it lands on or it is refused.",
+        "The commit the change was judged against is the commit the change lands on or the change is refused.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "The commit a change states is taken by any name git resolves to one.",
+      statement: "The commit a change states is taken by any name git resolves to one commit.",
     },
     {
       invariantKind: "departure",
@@ -57,7 +57,7 @@ export const landing = {
     {
       invariantKind: "absence",
       statement:
-        "A change stating no commit it was read against is taken as read against what stands.",
+        "A change stating no commit the change was read against is taken as read against what is checked out.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +71,7 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "A change commits only where no commit reaching `akasha/` landed between the base it read and the writing.",
+        "A change commits only where no commit reaching `akasha/` landed between the base the change read and the writing.",
     },
     {
       invariantKind: "departure",
@@ -91,11 +91,11 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "What was staged for a commit that threw is unstaged with them.",
+      statement: "What was staged for a commit that threw is unstaged with the bodies.",
     },
     {
       invariantKind: "departure",
-      statement: "A repair that fails leaves the fault that caused it to be thrown.",
+      statement: "A repair that fails leaves the fault that caused the repair to be thrown.",
     },
     {
       invariantKind: "departure",
@@ -107,16 +107,16 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A carry that throws puts back the carries made before it in reverse.",
+      statement: "A carry that throws puts back the carries made before that carry in reverse.",
     },
     {
       invariantKind: "departure",
-      statement: "A commit that throws puts back every carry made for it.",
+      statement: "A commit that throws puts back every carry made for that commit.",
     },
     {
       invariantKind: "departure",
       statement:
-        "One hold spans reading the base and judging and writing and indexing and carrying and committing.",
+        "A single hold spans reading the base and judging and writing and indexing and carrying and committing.",
     },
     {
       invariantKind: "departure",
@@ -160,7 +160,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "Only writing without gating carries past them.",
+      statement: "Only writing without gating carries past the checks that will not load.",
     },
     {
       invariantKind: "departure",
@@ -168,7 +168,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A change says whether the body it carries came from another path.",
+      statement: "A change says whether the body the change carries came from another path.",
     },
     {
       invariantKind: "gap",
