@@ -4,13 +4,16 @@
   "type": "module",
   "exports": {
     "./monarch-unreviewed-transactions": "./readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts",
+    "./upkeep-safety": "./readout/readouts/upkeep-safety/upkeep-safety.readout.code.ts",
     "./readout-body": "./readout-body/readout-body.module.code.ts",
+    "./readout-group-serving": "./readout-group-serving/readout-group-serving.module.code.ts",
     "./readout-serving": "./readout-serving/readout-serving.module.code.ts",
     "./readout-credential": "./readout-credential/readout-credential.module.code.ts",
     "./readout-none-left": "./readout-none-left/readout-none-left.module.code.ts",
     "./readout-reading": "./readout-reading/readout-reading.module.code.ts",
     "./readout-relay": "./readout-relay/readout-relay.module.code.ts",
-    "./readout-scale-reading": "./readout-scale-reading/readout-scale-reading.module.code.ts"
+    "./readout-scale-reading": "./readout-scale-reading/readout-scale-reading.module.code.ts",
+    "./readout-tier": "./readout-tier/readout-tier.module.code.ts"
   },
   "dependencies": {
     "@akasha/pages-system-service": "workspace:*",
