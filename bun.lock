@@ -6,8 +6,8 @@
       "name": "akasha",
       "dependencies": {
         "@akasha/health-samples-import": "workspace:*",
+        "@akasha/imessage": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@alanwalton/elaine-cli": "workspace:*",
         "@alanwalton/imessage": "workspace:*",
         "@alanwalton/mobile-cli": "workspace:*",
         "@collections/exercises": "workspace:*",
@@ -297,6 +297,14 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/imessage": {
+      "name": "@akasha/imessage",
+      "dependencies": {
+        "@shared/errors-core": "workspace:*",
+        "@shared/utils-fs": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/location-traces-access": {
       "name": "@akasha/location-traces-access",
       "dependencies": {
@@ -513,22 +521,6 @@
         "@infra/k8s-types": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/supabase-server": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "alanwalton/elaine-cli": {
-      "name": "@alanwalton/elaine-cli",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/health-samples-access": "workspace:*",
-        "@shared/errors-core": "workspace:*",
-        "@shared/supabase-auth": "workspace:*",
-        "@shared/supabase-server": "workspace:*",
-        "@shared/utils-fs": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -4021,6 +4013,8 @@
 
     "@akasha/idle-system": ["@akasha/idle-system@workspace:akasha/idle-system"],
 
+    "@akasha/imessage": ["@akasha/imessage@workspace:akasha/imessage"],
+
     "@akasha/indexes": ["@akasha/indexes@workspace:akasha/pages-system/indexes"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:akasha/location-traces-access"],
@@ -4074,8 +4068,6 @@
     "@alanwalton/atlas-web": ["@alanwalton/atlas-web@workspace:alanwalton/atlas-web"],
 
     "@alanwalton/calendar-sync": ["@alanwalton/calendar-sync@workspace:alanwalton/calendar-sync"],
-
-    "@alanwalton/elaine-cli": ["@alanwalton/elaine-cli@workspace:alanwalton/elaine-cli"],
 
     "@alanwalton/imessage": ["@alanwalton/imessage@workspace:alanwalton/imessage"],
 
