@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The web pods are never killed for failing to answer.",
       workingMemory:
-        "Open, cause unknown. web-868f5f9c55-kv58b failed its liveness probe six times between 20:33:44Z and 20:34:34Z and was killed, minutes after I wrongly filed that the kills had stopped. Ruled out by measurement: memory at 141Mi of 512Mi where an OOM records 137 rather than 139; throttling at 1 period of 497; tree size at 71,445 files in 93ms. Taking readoutCatalog off the request path did not fix it. Unmeasured: what the container does through the minute it stops answering.",
+        "Mechanism found, residual cause open. The query path runs spawnSync git per FileTree rebuild, once per page type; alanwalton/web/server.ts:35 measures that at 57.6s no await yields out of. holdDerivers(5000) collapses it, Alan's pod carries it, and that pod was still killed at 20:34:34Z. Measured in-pod: those git calls cost 300ms, not 40s. Ruled out: a dirty worktree, the carries key, and /api/health itself. Jenny's server had no hold at all; added and deployed at ffb4f10762.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
