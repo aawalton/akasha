@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The web pods are never killed for failing to answer.",
       workingMemory:
-        "The cause is the old engine. `@shared/pages-query` answers from the pod's own checkout with spawnSync git, once per page type, which no await yields out of. Alan's call is to delete that engine rather than mitigate it. Jenny's site is already free of it and deployed. What is unproven is Alan's pod, which still carries every call site. Ruled out by measurement: memory, throttling, a dirty worktree, the carries key, and /api/health itself.",
+        "The local branch is gone at `4c1f05a264`. `@shared/pages-query` reached the pod's own checkout with spawnSync git once per page type, 57.6s of work no await yields out of. `./ask` now resolves to `asking-remote.ts`, the same facade with the local test fixed at false; `writing.ts` sends every act to the store; `here.ts`, `named.ts`, `asking.ts` and `holding.ts` are deleted, and with them the reach into `tools/lib` and `readouts/`. Alan's pod has yet to run that build.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
