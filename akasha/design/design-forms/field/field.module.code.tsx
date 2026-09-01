@@ -1,9 +1,9 @@
 "use client"
 
-import { Label } from "@shared/design-primitives/components/label"
-import { Separator } from "@shared/design-primitives/components/separator"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
+import { Label } from "@akasha/design-primitives/label"
+import { Separator } from "@akasha/design-primitives/separator"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cva, type VariantProps } from "class-variance-authority"
 
 function FieldSet({ className, ...props }: React.ComponentProps<"fieldset">) {

@@ -1,13 +1,9 @@
 "use client"
 
-import {
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-} from "@shared/design-primitives/components/popover"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
+import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { CheckIcon, ChevronDownIcon, SearchIcon, XIcon } from "lucide-react"
 import type * as React from "react"
 import { useEffect, useRef, useState } from "react"

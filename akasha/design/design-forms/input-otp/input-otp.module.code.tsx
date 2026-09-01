@@ -1,8 +1,8 @@
 "use client"
 
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { cn } from "@akasha/design-primitives/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { OTPInput, OTPInputContext } from "input-otp"
 import { MinusIcon } from "lucide-react"
 import * as React from "react"

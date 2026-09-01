@@ -19,7 +19,7 @@
     "./url-badge": "./url-badge/url-badge.module.code.tsx"
   },
   "dependencies": {
-    "@shared/design-primitives": "workspace:*",
+    "@akasha/design-primitives": "workspace:*",
     "class-variance-authority": "^0.7.1",
     "lucide-react": "^0.576.0",
     "zod": "^4.3.6"

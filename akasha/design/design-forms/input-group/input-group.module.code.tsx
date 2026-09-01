@@ -1,11 +1,11 @@
 "use client"
 
-import { Button } from "@shared/design-primitives/components/button"
-import { Input } from "@shared/design-primitives/components/input"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { Textarea } from "@shared/design-primitives/components/textarea"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Button } from "@akasha/design-primitives/button"
+import { cn } from "@akasha/design-primitives/cn"
+import { Input } from "@akasha/design-primitives/input"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { Textarea } from "@akasha/design-primitives/textarea"
 import { cva, type VariantProps } from "class-variance-authority"
 
 function InputGroup({ className, ...props }: React.ComponentProps<"div">) {

@@ -1,9 +1,9 @@
 "use client"
 
-import { Button, buttonVariants } from "@shared/design-primitives/components/button"
-import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { useSurface } from "@shared/design-primitives/components/surface-provider"
-import { cn } from "@shared/design-primitives/utils/cn"
+import { Button, buttonVariants } from "@akasha/design-primitives/button"
+import { cn } from "@akasha/design-primitives/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { ChevronDownIcon, ChevronLeftIcon, ChevronRightIcon } from "lucide-react"
 import * as React from "react"
 import { type DayButton, DayPicker, getDefaultClassNames } from "react-day-picker"
