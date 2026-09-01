@@ -4,7 +4,7 @@ export const aComponentThatDrawsNothingCannotBeWritten = {
   id: "01a05c94-17cd-7636-be8b-f445b9f354e8",
   pageTypeSlug: "finding",
   slug: "a-component-that-draws-nothing-cannot-be-written",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "A React component that installs an effect and draws nothing cannot land. `identifier-matches-its-place` reads a function as a component only where its body holds JSX, so one returning `null` is held to a lower-camel name, and JSX reads a lower-camel name as a DOM tag rather than a component. Biome's `noUselessFragments` then refuses `return <></>`, the only JSX such a component can hold. Each gate is right alone, and between them the component cannot be written.",
   evidence:

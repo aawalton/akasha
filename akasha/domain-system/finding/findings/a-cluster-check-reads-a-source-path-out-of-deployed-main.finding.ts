@@ -4,7 +4,7 @@ export const aClusterCheckReadsASourcePathOutOfDeployedMain = {
   id: "01a05c94-17cd-7054-b1e9-95e02950110e",
   pageTypeSlug: "finding",
   slug: "a-cluster-check-reads-a-source-path-out-of-deployed-main",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "`check-workspaces-mainseam` reads a source path out of deployed `main` with `git show FETCH_HEAD:$SEAM_PATH`, so moving the file that path names breaks the check from the moment the move lands until the branch reaches `main`. Nothing in the repository says that a red result there can mean the branch is simply ahead, and every akasha move touching a path this check names has the same shape.",
   evidence:

@@ -4,7 +4,7 @@ export const theProcCompilerClusterIsDeletedBecauseNothingReachedIt = {
   id: "01a05c99-009a-75dc-bac1-a56632d9cba5",
   pageTypeSlug: "finding",
   slug: "the-proc-compiler-cluster-is-deleted-because-nothing-reached-it",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "All four packages of the proc compiler cluster are deleted at ca8ed512c3 rather than repaired and carried into akasha. Nothing outside the four reached any of them, the one entry point could not run, and the plpgsql it compiles has no destination: this repo holds no SQL file, no migration directory and no mention of set_updated_at outside the cluster. The compiler does work when pointed at the right source, so what was dropped functioned. It was simply wanted by nothing.",
   evidence:

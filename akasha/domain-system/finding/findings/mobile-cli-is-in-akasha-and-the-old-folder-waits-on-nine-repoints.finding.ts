@@ -4,7 +4,7 @@ export const mobileCliIsInAkashaAndTheOldFolderWaitsOnNineRepoints = {
   id: "01a05d24-7c1e-7a40-9f83-6b21d4e0a7c5",
   pageTypeSlug: "finding",
   slug: "mobile-cli-is-in-akasha-and-the-old-folder-waits-on-nine-repoints",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "mobile-cli is in akasha as 28 modules at 3e93955508 and answers identically, but the old folder cannot be emptied until seven files outside akasha and three akasha shell scripts name the new package. Four `no-rule-in-two-files` refusals arrived with it: `sleep` twice inside mobile-cli, and `shellSingleQuote` against `quoted` in ios-app's app-building. The move also took two scratch paths off `/tmp`, which `no-tmp` refuses absolutely.",
   evidence:

@@ -4,7 +4,7 @@ export const theHealthArrivalLookupWasDroppedRatherThanKeptForAlan = {
   id: "01a05e1d-7b83-70d4-ab56-29fb7dd1c21d",
   pageTypeSlug: "finding",
   slug: "the-health-arrival-lookup-was-dropped-rather-than-kept-for-alan",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "A lane held `latest-arrival` in akasha because only Alan knew whether he still wanted it; under his direction to cut the page query dependency it was dropped instead, and git holds it if he wants it back.",
   evidence:

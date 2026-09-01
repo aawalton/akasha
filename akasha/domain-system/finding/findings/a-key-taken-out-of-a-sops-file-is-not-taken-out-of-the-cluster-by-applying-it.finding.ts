@@ -4,7 +4,7 @@ export const aKeyTakenOutOfASopsFileIsNotTakenOutOfTheClusterByApplyingIt = {
   id: "01a05bae-093f-7f51-9a6a-bbe4536158ec",
   pageTypeSlug: "finding",
   slug: "a-key-taken-out-of-a-sops-file-is-not-taken-out-of-the-cluster-by-applying-it",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "Applying a sops file to the cluster adds and changes keys but never takes one away. The last-applied configuration names `stringData` while the live Secret holds `data`, so the three-way merge finds nothing under `data` to delete and the dropped key stands on. A key removed from a sops file is removed from the cluster only by patching it out by name.",
   evidence:

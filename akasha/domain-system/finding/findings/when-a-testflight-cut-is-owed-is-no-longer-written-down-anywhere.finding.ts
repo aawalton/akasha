@@ -4,7 +4,7 @@ export const whenATestflightCutIsOwedIsNoLongerWrittenDownAnywhere = {
   id: "01a05e1e-a6c5-716f-8f26-a6c75bb43081",
   pageTypeSlug: "finding",
   slug: "when-a-testflight-cut-is-owed-is-no-longer-written-down-anywhere",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "The rules deciding when a TestFlight cut is owed left the tree with the akasha cut-fingerprint module, because they were written only on that module's page and the copy the cut path actually runs carries none of them.",
   evidence:

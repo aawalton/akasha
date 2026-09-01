@@ -4,7 +4,7 @@ export const theCalendarSyncCronjobNamesAPathThatMoved = {
   id: "01a05c3b-6f06-7000-ad9a-02c6ffb7fa50",
   pageTypeSlug: "finding",
   slug: "the-calendar-sync-cronjob-names-a-path-that-moved",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "The calendar sync CronJob running in the cluster now names a path that no longer stands. I moved its code to `akasha/calendar-sync` and repointed the two run paths, but the standing ruling tonight is not to deploy, so the built image and the applied CronJob still name `alanwalton/calendar-sync/src/run-sync.ts`. The next run of the deployed job fails until someone rebuilds and applies. The call I took: land the move and leave the deploy for whoever lifts the ruling.",
   evidence:

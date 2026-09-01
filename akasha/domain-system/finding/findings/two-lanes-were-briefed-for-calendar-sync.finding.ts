@@ -4,7 +4,7 @@ export const twoLanesWereBriefedForCalendarSync = {
   id: "01a05c18-585b-7b58-b483-1d51f18d8e4b",
   pageTypeSlug: "finding",
   slug: "two-lanes-were-briefed-for-calendar-sync",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "Two lanes were briefed to move `alanwalton/calendar-sync` on the same night. I surveyed it, found nothing blocking, and handed it whole to the lane whose brief named only it and `elaine-cli`, rather than land it and collide. The call I took: the lane with the narrower brief keeps the folder, and my lane reports the survey without writing a file. `alan-harness` says to hand work on rather than halve it.",
   evidence:

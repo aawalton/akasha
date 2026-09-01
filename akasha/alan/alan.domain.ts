@@ -5,5 +5,5 @@ export const alan = {
   pageTypeSlug: "domain",
   slug: "alan",
   definition: "what belongs to Alan himself",
-  partSlugs: ["domain/harness", "workspace-package/alan-web"],
+  partSlugs: ["domain/alan-harness", "workspace-package/alan-web"],
 } as const satisfies Domain

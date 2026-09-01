@@ -4,7 +4,7 @@ export const mobileCliEscapesItsOwnSrcTenTimes = {
   id: "01a05c25-1719-7c28-81d9-25bf8b479ba0",
   pageTypeSlug: "finding",
   slug: "mobile-cli-escapes-its-own-src-ten-times",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "The initiative's memory says none of the nine folders left under alanwalton has a relative escape, so nothing is blocked. mobile-cli has ten, reaching four files in tools and four pages under code-system, and one of them closes a cycle: tools/lib/mobile-code.ts imports src/lib/apps.ts, which imports back into tools/lib. It is the one folder left that a move does not carry as it stands.",
   evidence:

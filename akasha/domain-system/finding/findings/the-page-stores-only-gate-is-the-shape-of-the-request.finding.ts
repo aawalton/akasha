@@ -4,7 +4,7 @@ export const thePageStoresOnlyGateIsTheShapeOfTheRequest = {
   id: "01a05d8e-2297-75fd-90bd-8ef1de59020e",
   pageTypeSlug: "finding",
   slug: "the-page-stores-only-gate-is-the-shape-of-the-request",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "The page store asks a caller for nothing at all. Neither the read nor the write reads a header, so any pod in any namespace and anything on the tailnet reads the credentials the tree holds — a device secret is a plain file no rule withholds — and lands a commit of arbitrary content under `akasha/` under whatever author it names. The only gate is the shape of the request, and a well-formed body is the whole of it.",
   evidence:

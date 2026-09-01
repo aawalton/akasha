@@ -4,7 +4,7 @@ export const amyJennyUnreviewedWidget = {
   id: "01a05431-37d9-7a21-ad2f-423df6ef1ac1",
   pageTypeSlug: "initiative",
   slug: "amy-jenny-unreviewed-widget",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   personaSlug: "amy",
   parentSlug: "akasha-migration",
   intents: [

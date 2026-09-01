@@ -4,7 +4,7 @@ export const theTrackedDaysWereRewrittenWithABarNoPersonaHas = {
   id: "01a05c03-5749-7731-92a0-a2e36dfd0efe",
   pageTypeSlug: "finding",
   slug: "the-tracked-days-were-rewritten-with-a-bar-no-persona-has",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "The points engine read no bar for any persona, fell back to a default of ten thousand that no persona carries, and wrote it onto fifty tracked days. Each one collapses to the lowest rung. I stopped the timer that was minutes from writing more.",
   evidence:

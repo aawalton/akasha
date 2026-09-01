@@ -4,7 +4,7 @@ export const twoOfAlansFourAppFoldersLandedAndTwoWaitOnAppLib = {
   id: "01a05be0-f5ba-7c68-b2f0-5dde9cd7d838",
   pageTypeSlug: "finding",
   slug: "two-of-alans-four-app-folders-landed-and-two-wait-on-app-lib",
-  domainSlug: "domain/harness",
+  domainSlug: "domain/alan-harness",
   claim:
     "Two of the four folders left under `alanwalton/web/app` are already gone: `chess` and `action-verbs` landed into `@akasha/alanwalton-web` at 6edf596cb8. The two left, `hooks` and `questions`, never waited on that package. Every file of theirs still in place reaches `~/lib/*` or `~/components/*`, and nothing inside akasha resolves `~/`, so neither folder empties before `app/lib` moves. That move is the next intent's own landing, and it already names both folders as part of itself.",
   evidence:
