@@ -30,7 +30,6 @@
     "./text-at": "./text-at/text-at.module.code.ts"
   },
   "dependencies": {
-    "@akasha/supabase-database": "workspace:*",
     "zod": "^4.3.6"
   }
 }

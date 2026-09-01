@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "@akasha/pages-core": "workspace:*",
-    "@akasha/supabase-database": "workspace:*"
+    "@akasha/utils-narrow": "workspace:*"
   }
 }

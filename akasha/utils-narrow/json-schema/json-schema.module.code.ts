@@ -1,5 +1,5 @@
-import type { Json } from "@akasha/supabase-database/json"
 import { z } from "zod"
+import type { Json } from "../json-value/json-value.module.code.ts"
 
 export const JsonSchema: z.ZodType<Json> = z.lazy(() =>
   z.union([
