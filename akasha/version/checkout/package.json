@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/checkout-provenance",
+  "name": "@akasha/checkout-version",
   "private": true,
   "type": "module",
   "exports": {
