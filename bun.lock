@@ -331,6 +331,17 @@
     "akasha/pages-system/pages-system-service": {
       "name": "@akasha/pages-system-service",
     },
+    "akasha/pages-system/pages-ui": {
+      "name": "@akasha/pages-ui",
+      "dependencies": {
+        "@akasha/design-primitives": "workspace:*",
+        "@shared/web-build-sha": "workspace:*",
+        "sonner": "^2.0.7",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+      },
+    },
     "akasha/pages-system/pages-ui-store": {
       "name": "@akasha/pages-ui-store",
       "dependencies": {
@@ -4006,6 +4017,8 @@
     "@akasha/pages-system": ["@akasha/pages-system@workspace:akasha/pages-system"],
 
     "@akasha/pages-system-service": ["@akasha/pages-system-service@workspace:akasha/pages-system/pages-system-service"],
+
+    "@akasha/pages-ui": ["@akasha/pages-ui@workspace:akasha/pages-system/pages-ui"],
 
     "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:akasha/pages-system/pages-ui-store"],
 
