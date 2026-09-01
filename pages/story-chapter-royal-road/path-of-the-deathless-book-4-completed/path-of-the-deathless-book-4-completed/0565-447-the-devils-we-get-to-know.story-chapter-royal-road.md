@@ -1,0 +1,229 @@
+---
+id: 49f5ac53-97a7-5327-b5ac-f69cf464627f
+page-type-slug: story-chapter-royal-road
+title: "447 The Devils We Get To Know"
+slug: 0565-447-the-devils-we-get-to-know
+partOf: path-of-the-deathless-book-4-completed
+position: 565
+ownLength: 6407
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3896803/447-the-devils-we-get-to-know"
+royalRoadId: "3896803"
+---
+
+Self-disgust is an inevitable consequence when it comes to holding a political station, as you betray your values and make decisions that drive you further from your desired utopia, shaking hands with people you despise to get closer to what you want. In the process, what you want will slip further from you because you yourself will have changed.
+
+When taking a political office, you go from being one animal to another kind entirely. The sky changes. The sky is not blue anymore. The sky is whatever lie you decide to paint over it. You sacrifice the sky, the truth, ideation, everything, just to make sure your people’s project endures. What is the project, you might ask? The project of nation building. The project of empire. The project of cultural architecture.
+
+All this maintained by you—damned to compromise.
+
+In these moments, you can feel the entropy. You change. You let cynicism win. You deform from who you were. You paint blackness over the light that you dreamed of, and at some point, you are not who you were before. This is your fate. This is the fate of your rivals. This is the fate of those beneath you, above you, behind you, ahead of you. This is what it means to hold office. You are damned. You will decay. And in the end, so will your nation.
+
+But faded entropy does not mean faded death. You can decay. You can be spent. Everyone can be spent, and then someone new, someone pure, can enter the equation and rejuvenate the system if they are only allowed to, if they only have the ability. And if they can only get past you—don't forget you are entropy by this point, and they are purity, dynamism. A dialectic will take place: the stagnant rigidity of the project you built against the shape of their desired tomorrow, and you will clash. Even if you win, you will suffer more entropy, and even if they win, they will take on the fate you have assumed.
+
+In the end, everyone becomes another’s shadow—a lesser iteration of what came before.
+
+—The Decay of Nations, by Master-Statistician Jessie Montez
+
+VIII-7
+
+The Devils We Get To Know
+
+Legend-Assassin Maria Corcusa's life was spared by centimeters and seconds. Valor had slipped into her personal quarters—well-warded, protected, impenetrable in all terms. There were a series of oscillating spells that projected waves of gravitational sensors through the room, small particulates that clung and pressed upon everything within the chamber. If there was anything out of place, if any object or hidden entity impacted those invisible motes of tactile gravity, they would be pinned down, and the rest of the room's defenses would activate.
+
+From there, an emergency response team would be summoned. A Chronomantic lock would manifest via gravity motes to trap the intruder in a cage of time, and Maria herself would be teleported away, spirited off to an unknown location.
+
+Her safety seemed all but certain on paper. In practicality, someone still had to cast these spells, and the mages tasked with preparing the room were far more vulnerable. This made infiltrating her quarters a thing of ease rather than a great struggle. In the end, Valor didn't lean on his Legendary Skill at all. Instead, he used the spells meant to keep him out to his advantage. He altered their patterns and shapings as the mages laid them in place and included a few extra effects that went unnoticed by their casters.
+
+The first effect was audio-sensory masking: the magic in the room shrouded Valor in a dynamic micro-dimension that left him all but invisible. More than that, he would only manifest when he willed it, crossing between the boundaries of near-dimensions to strike and never be struck back upon. Additionally, he was regarded as a constant in the room, so he could walk brazenly in the open and not affect any of the motes either. Finally, the gravity motes themselves had been compromised: they were his to wield now, and he was an instant away from using them upon Maria.
+
+It would have been a most artistic assassination, with remarkable staging as well: Lord Scorn unable to protect the Field Marshal of the invading alliance in his own home, and the First Blood offended, outraged, and now openly feuding with both Compact and the Vultegs as Maria’s death was either a deliberate assassination or a result of gross incompetence.
+
+And the thing about authoritarian empires was that they were built upon foundations of performed strength.
+
+Perceived weakness became weakness manifest, and that often led to fatal consequences.
+
+As Corcusa's defenses were theoretically perfect, so was Valor's impending assassination. But much like she was compromised along asymmetric lines, so too was Valor's impending kill, as a strand of dreaming lightning flared in the Undying's mind, delivering a series of most unwelcome revelations.
+
+A Cuckoo? Her? Valor scoffed silently. Corcusa was still unaware of his presence. She sat at the mahogany table within the room, writing away on her Sync-Letter, doubtlessly exchanging correspondence with her one true superior—the Progenitor of the Ophereus line, a kindred so old that everyone just called her Grandmother. “Are you positive?”
+
+“Yeah. Sorry. I know it’s kind of horseshit, but I’m pretty sure the Queen isn’t lying.” Shiv sounded as Valor felt. Staying one’s hand from a fatal blow was a miserably unsatisfying thing to suffer, and the threat Corcusa posed was grave.
+
+“There would be consequences that come with leaving a competent enemy alive,” Valor replied. His gaze never left her person, his dagger drawn should the motes fail to finish the job.
+
+“I know, just like there are going to be consequences for pissing off the Faceless Queen,” Shiv rebuffed. “But it's up to you, Valor. If you think she's that dangerous, then put her down, and we'll deal with those consequences. But I want you to know that if you do that, I see the Queen working against us, specifically to harm us in some way. I can see her selling information to our enemies so that we suffer a blow. Probably not a fatal blow, but one that hurts bad enough. A mass casualty event. We're still on her board. If we cross her, she's going to really start moving other people against us. And though admitting it makes me want to puke, I don't like our odds against New Albion in these shadow games.”
+
+Valor shared in Shiv's disgust and logic. Corcusa was dangerous; that was beyond doubt, and if the Challenger truly marked her as a new Vaketh-Insul, then the threat she posed would be magnified substantially. However, there was no world where Corcusa's threat was overshadowed by the looming horror that was New Albion and the Queen at its helm.
+
+He'd thought he'd killed her more times than he could remember, driving blade after blade into one of her many doppelgangers. He felt them bleed out and die. He heard them shriek and scream, beg to be spared. He slit their throats, severed their heads, burned them, obliterated them from the soul to the flesh. He delivered death upon the Faceless Queen over and over across centuries, across so many bodies.
+
+And every single time was for naught.
+
+The Faceless Queen returned each time unscarred, unmarred by trauma, unburdened by the possibility of another death. And every time he went to slay her, she would greet him with the same turn of phrase: “I fear those daggers of yours don't cut deep enough to matter, my dear Valor.”
+
+And every time in the aftermath, she would take someone from him as well: someone he'd grown attached to, someone he regarded with fondness. Or even love. Such was the game being played by the true monsters of Integrated Earth. Warfare between true Legends was a thing measured by epochs and genocides rather than minutes and wounds.
+
+“She also said something about knowing where your legs are. Might be able to get that last piece of you back.” Shiv's persuasion was hesitant. He felt Valor's mood and knew the worth of slaying Corcusa. Yet for Gate Piety’s greater benefit, and to avoid triggering hostilities with the Faceless Queen, the Legend-Assassin had to be spared.
+
+The seconds dragged on, and a full minute passed. Valor worked his mind, trying to uncover a non-violent solution for her existence. Not everyone needed to be slain. Some people could be resolved in other ways through bribery or simply pacification. Enemies could be turned into allies with the proper mix of pressure and persuasion. But he could think of no easy way to bestow such a fate on Corcusa. He knew little of her aside from the competence she demonstrated, and even if they sought to compromise her by calling upon Adam's Immolating Omniscience within this narrow chamber, that would ruin her use as a Bakal as well. The Challenger might still be interested in her as a Pathbearer, but her strategic worth would be actively detrimental rather than merely worthless.
+
+I see the Queen desires to be reacquainted with another death at my hand. The sourness of the thought didn't escape Valor; he felt childish. But this was more than petulance. His lifespan and experiences were measured by epochs. He had seen many things, survived many calamities, and faced true monsters. And in the slight form of this Umbral-turned-Kindred, he sensed a seed. A seed that had not yet blossomed, even though she was a Legend herself. She was capable of far more, and the weight of her shadow was palpable.
+
+But he could sever it.
+
+He could slay that coming dread before it ever arrived.
+
+If it did, others would pay with their lives. Competent enemies were not to be left alive. Because it wasn't just a thing about threat; it was the certain losses they would inflict. A good enemy commander meant hundreds, thousands, millions more would die on the battlefield. And a wise Strategist or Shadow would go on killing for years in the dark.
+
+Valor knew because he'd once felt the very same seed inside of a little girl named Alice, inside of New Albion in its entirety. What didn't feel like very long ago, the nobles that had ruled it had been decadent, foolish, and cruel, but that wasn't special. That was the fate of every overbloated empire.
+
+The rise of the Faceless Queen and Aviary changed that equation. New Albion went from a small island nation beset and endangered to a hidden empire with tendrils spreading across dimensions.
+
+Valor had seen chances to reshape the future then, to alter the path of Aviary's ascent and break New Albion's resurrection before it proved manifest. He didn't take them. And now one seed had bloomed and was growing into another. Nothing existed in a vacuum. Nothing was spared. Always one seed to another.
+
+And something told Valor that he might just live long enough to see another seed spring forth from Corcusa herself.
+
+But what choice was there? What decision was there to make?
+
+He retreated from the room before he ever came to a true decision. He could always turn around, come back, finish her off. He measured his retreat in steps, descending the ever-winding staircases of the Ruin-Forged Tower unnoticed as he battled his own mind, working on potential futures, fearing what might be, what could be, what would inevitably be.
+
+In the end, Valor lost. He lost and he won. For there was always a trade to be made. Better the devil that you get to know than the devil you cannot control. He could cut her down. He could sever her no matter what. Corcusa was far less a danger than New Albion and the Faceless sovereign that had stolen its throne. Furthermore, the Faceless Queen was going to be arriving in person soon, or as close to being in person as was possible for her. He would confront her then. He would force from her more than a few meager concessions, even if she couldn't offer him that “final” piece of himself, that fragment which would restore his power to wholeness. At least as close to perfect wholeness as the reassembly would allow.
+
+He needed more than that. He needed a way in, insight into what she intended to use this girl for. Listening in on the Challenger had its benefits, but it wasn't hard to predict the God of Strife. He had one desire and one goal. Though the ways he could reach it were near infinite, there was always a level of predictability. He reveled in dominance, he reveled in cruelty, he reveled in asserting his influence over those he was interested in.
+
+“I stayed my hand,” Valor declared as he stepped right between two Vulteg Legends, all bitterness and regret draining out of his voice. There was no point in lingering on it now. The worth of this coerced mercy would be revealed in time, but for now, rationality reigned. Besides, he looked forward to facing down one of his few surviving foes and learning her new game firsthand. “My business in Scorn's realm is coming to a close. Shiv, be ready for an extraction. We do this quickly, in an instant. Scorn and Belalu will not notice us so long as we time our skills to be in sync.”
+
+“At your call, Master,” Shiv answered. “Just say the word, and I'll jump right over.”
+
+“Soon, very soon, stay alert. But before I leave, I have a few other loose ends to resolve. The Faceless Queen can have her cuckoo. Compact and the Vultegs, however, still have much blood to offer. I think I'm going to kill as many of their Legends as I possibly can before the situation grows untenable.”
+
+His student’s mind thrummed with excitement. He yearned to be by Valor's side. The old lich sighed. The darkness was their point of kinship, and it was in the shadows that their tutelage brought them closer. Shiv stood as the coming dread, what you could not see, could not hear, but knew. Valor was unseen, unheard, unknown. Together, they were a calamity in motion—with the Deathless playing the roaring flame while Valor became the fatal smoke.
+
+“Want me to come over and join in on the fun? Bump this slaughter up to a proper massacre?” Shiv’s voice was teasing, but he used that to mask a genuine request.
+
+“Not this time, Shiv,” Valor said soothingly. “My intentions are surgical and silent rather than bombastic and brutal. I would invite you if time and opportunity were on our side. There's much you could learn about infiltrating and sabotaging a closed-off enemy dimension from within, but I will instruct you on that at a later date. After all, Vulketh isn't going anywhere, and there is little the sovereign of this place can do to stop our intrusion.”
+
+A growl of a chuckle escaped Shiv. “Sure, sure. I know the actual truth, though, Valor. You're just afraid I'll knock off more people than you in your advanced age.”
+
+“Oh. Is that what your Harbinger is whispering?”
+
+A telepathic wince came from Adam, who'd been silently listening thus far. “You're an absolute glutton for punishment, aren't you? He's going to make you pay for that, Shiv.”
+
+“He’s gonna try,” Shiv said haughtily. “But I have some new tricks to show off.”
+
+“I look forward to being disappointed when I return.” Valor kept his tone light, but there was a measure of truth to his words. Everything Shiv did, everything he thought of, how he operated, was spawned from Valor and his own creativity. But that was the thing about creativity: strange minds still followed patterns, and the Deathless was utterly predictable to a true master. “You have four hours to prepare. If you do surprise me after all, I will spare you another trip into the Cube of Existentiality.”
+
+“Oh shit,” Shiv hissed. “I need to go figure something out—Adam!”
+
+Adam snorted. “Don't expect me to work a spell on your behalf. You incurred our usually magnanimous teacher’s wrath through your boastful words, and now you will choke on them as you stew in the cube.”
+
+“I mean, I might get the better of him this time. I might. It's possible. Why doesn't anyone have any faith in me?”
+
+Uva hummed softly. “My dear, sweet brute, if we were talking about anyone else but He Who Stills Eternity, I would have nothing but confidence in you. Right now, I feel only pity. And a bit of amusement. Fail gloriously.”
+
+Then Shiv started grumbling about how he would show them all—that he had a plan this time, which no one would see coming. A plan so cunning that one could stick a pair of glasses on it, and it would be able to teach a course on how to be the cunningest man in a cunningness competition.
+
+A balm of warmth spread through Valor, like sunrise piercing between parting clouds of dour gray. There would be consequences to sparing Corcusa, but life was about more than consequences. There were other seeds too: seeds of potential, seeds of hope. In Gate Piety, there were already three such seeds mid-bloom, each of them fusing with one another, their eventual paths fully uncertain. But, at least for now, they were going to grow, and Valor would make sure of it—mainly through pest removal, to ensure the children got all the nutrition they needed.
+
+You have your life now, Legend-Assassin, but let us see how many other Legendary Shadows, Assassins, and Thieves are in Scorn's employ. If I kill all who walk in his darkness, who will guide him? Who will guard him when night falls? Of this, I wonder. I wonder indeed…
+
+***
+
+There were few things in life Shiv hated more than Veronica's laughter. She wasn't the laughing kind of woman. She only expressed mirth to mock, to prod, or to hint at something. There was an edge to her joy, for she found it in the failure and weakness of her enemies. And though she wielded, trained, and shaped Shiv in certain ways, they were still cold adversaries waiting to thaw once more.
+
+“You are not a fool, boy. Rather a buffoon of the finest sort. These schemes you hatch, these ideas you have, do you think that no one else possesses them? That no one else has gone down this road before?” The Councilwoman leaned back in her chair, and a quiet aria mocked Shiv. A tune sung by the Songbringer to add salt to his humiliation. A humiliation that wasn't fully there. He had breached the confines of her personal sanctuary for one reason: he wanted to find a potential solution for the Faceless Queen problem.
+
+The ruler of New Albion was a rival to Veronica in the sense that she knew things no one else did and could affect and infiltrate places that might prove tricky even for Valor. Veronica was clearly a formidable threat to New Albion in its entirety as well. Such was why the Faceless Queen brought up her messages: there was the faintest glimmer of fear there, a passing puff of darkness that was the closest thing the Faceless Queen ever expressed to dread.
+
+Now he stood before the Councilwoman, seeking to manipulate her in whatever way he could. If the Queen could be used against her, then she could be used against the Queen. That was the entire point of why he'd struck this bargain with her to begin with—using her as a deterrent against Udraal, and vice versa. Perhaps she could assume the same role against the Faceless Queen if she overstepped.
+
+But with the way she shook her head, with the vicious whipping strokes she inflicted upon her page as her quill flowed, Shiv found himself filled not with humiliation or pain but disappointment. He shouldn't have come here. If she was just going to mock him, then what purpose was there in seeking her aid?
+
+Shiv folded his arms and stared her down. “Come on, you can't fault me for trying. You would have done the same thing in my position, or are you telling me that you’d just be a little obedient—”
+
+“Oh no. You misunderstand your sin, which is another terrible mistake to make. I am not ashamed of you because you have plans and machinations. That's natural. That's normal. Your attempt to solve me as if I were a problem you were capable of solving is perhaps even commendable in certain ways. Audacious, yes, but you are too young, too naive, too unrefined to ever come close to approaching this problem to begin with. No, your sin is a lack of creativity. You are a banal boy. You are simple-minded. You did not think this through.”
+
+She almost drove the sharp end of her quill through the page and scarred the stone runes lining the surface of her table. She lifted her dark eyes and met him, and for a moment, it felt like they were clashing against each other, sabers ringing off one another and coming in for another slash, both seeking to score blood.
+
+“Now, let me explain a few things to you. First, trying to learn from a master, a powerful master at that, is useful. However, you need to have something they want. You need to have a measure of control. You do not have any measure of control over the Faceless Queen. I do not have any measure of control over the Faceless Queen, but I do have a means of deterring her. I can threaten her, not with resolving the enigma of her continued existence, as that has deigned to ignore my best attempts to kill her, but with great inconvenience to her on a geopolitical scale.”
+
+“So what?” Shiv asked. “You want me to like… threaten to bomb New Albion? Tell her to piss off or play ball? If she doesn't comply, I'll just fly over the ocean and detonate my bodies with Necromancy in her capital, like that?”
+
+Veronica sighed, but he caught sight of something in her eyes: a glimmer of dark pleasure. She liked part of the idea, crude though it was. New Albion was a pest to her, a pest she couldn't control, a pest that lined her walls, that infested her Republic. Him acting as a wrecking ball might just spice things up a little, but ultimately it was still overshadowed by the most dominant emotion she felt toward him: continued disappointment.
+
+“Do you know why she gave you those details about the Salamander? Why she allowed you to confirm his identity as a rogue agent? How the actual man lay dead where she claimed?” Veronica stopped speaking, as she wanted Shiv to offer an answer. When he did, she would cut him down some more. She would rebuff and belittle him if he was too foolish in his explanation.
+
+Her little power play brought a sneer to his face. He could see someone with lesser presence and charisma being ground down by her. Her criticism was quite literally cutting, and Shiv bled from a few places, as some of her points scored deep wounds in his physically indestructible body, but he let the blood flow. He remained unashamed of himself, for the burden of misery was cast upon the Councilwoman. He would be on his own side. He was a pillar. She could mar him, but she couldn't break him, and so the impasse between them played on. Even if she was his social superior, that didn't mean he had to treat himself as an inferior.
+
+A bear might be able to kill a badger, but that didn’t mean the badger would ever choose to stop thrashing until it was dead.
+
+“She's trying to buy favors from me, trying to ingratiate herself. Get me reliant on her information and network till I'm eating out of her palm and playing to her tune. Like you.”
+
+Veronica’s eyes narrowed ever so slightly. He'd annoyed her. A small victory if he ever knew of one. “Not like me. Not like me at all. Whatever I have done to you, whatever you think this relationship is, we are open. Things are clear, subtextually and on the surface. I will take. I will bludgeon. I will brutalize you how I see fit. I will not, however, play games with you where I move you from one square to another, where I make unreasonable demands that you spare one of your hated enemies, that you stay your hand in exchange for useful information that you operate to my tempo on my request toward the benefit of my nation, so that yours might be further enriched and preserved. This is what we call becoming a vassal state. Is that your intention, to make Gate Piety a vassal state of two separate empires? To pit us against each other?”
+
+“The thought crossed me,” Shiv grunted. “But honestly? I’m just trying to—”
+
+“Maximize your own self-interest. Yes, I understand.” And suddenly, her demeanor shifted. She went from being excruciating and severe to educational and informative. “The reason why she provided you that information is the same reason why you're telling me right now. She is reveling in her power over you, but furthermore using that power to signal to me how much she knows and I don't. She is using you to try and rattle me. You are more than a jab. You are a man unwittingly turned asset by the queen of spies, who has enslaved so many without ever snapping a collar around their neck, without ever so much as a formal agreement or even an ounce of blackmail.”
+
+Shiv considered her words in silence. "So you're saying this isn't about me at all? You're saying that she's just using me to get at you and the Republic?”
+
+“I'm saying you are likely aware of this on some subconscious level, which is why you placed this out in the open with me. You're afraid that she now holds too much monopoly over your fate, and so you seek to reveal some of your cards to the devil that you know, hoping to counter the other devil that you're slowly getting to know and are uncertain about.”
+
+The song playing in the backdrop began to rise, but Veronica directed a vicious glare upwards. "Not now, Grandmother. I need to help this boy see before he drives me toward the embrace of a sweet and tempting aneurysm."
+
+The pitched aria plunged to a low, depressed note as the Songbringer turned a mocking tune to a drone of displeasure. Veronica ignored her, showing the same reverence toward her as Shiv did toward her. “It's quite simple. The power the Faceless Queen holds is in information. It's in controlling what you want and what you need, or what you think you need. And if nothing else, New Albion has a lot of very exclusive, very valuable information. The type I would sack entire empires to seize. Yet I've never bargained with the Faceless Queen. Why?”
+
+“Because you can't control her.”
+
+“Because I cannot even reason with her,” Veronica corrected. “I cannot reason with her because I genuinely do not have the slightest idea what she wants. I have barely a guess as to what motivates and drives her. I do not know what makes her smile, what makes her frown, what makes her furious. I do not understand her place in her country's mythology. There was always a tradition of spycraft in Albion; that much is nothing noteworthy. But a nation’s spies butchering all of their nobility, taking over the entire governmental body and creating a new infrastructure where all the elites are cast from the mold of spies—unthinkable, unheard of, but somehow made functional by the Faceless Queen despite it all. How did she come to be? Who was she? Where did she come from?” She held an open hand toward Shiv, palm raised upward. “Can you answer any one of these questions?”
+
+Shiv shook his head. His action was mockingly mirrored by Veronica herself. “Exactly what I expected, and to my own shame and humiliation, I have to concur. I don't know anything about her. Now, as to my point with all of this, center yourself. Find yourself in this room. Focus on me. You can come over and strike me. You can try to slay me. I can try to slay you. However, if we are to engage in renewed hostilities, if I am to destroy you and you come back and you make another attempt on my life, and we do this over and over again, there is a straight vector. You have a concept or potential idea on how to remove me and what that might do to the Republic, how that might affect the structure of my nation. I think the same when it comes to you and the benefits you provide my Yellowstone and your Gate Piety. We are part of a grand system, both with and without the capital S, and the effects of our actions ripple across it in myriad ways we can anticipate and project for.”
+
+“But it's not the same with the Faceless Queen,” Shiv concluded, his mind turning. The subject of the discussion was absent in presence, though part of him suspected she was always there. He kept his Garden at a distance now. He'd studied it in the Backstage together with Adam's sister, trying to see if any part of it was different or obviously compromised. They found no clue. And that just made the Faceless Queen ever more threatening. “She has no story, no narrative thread. You don't know how she connects to her own empire, or how to anticipate her. No influence over her at all, outside of threats to her nation as a whole.”
+
+Veronica hummed with an approximation of approval. “Regarding both of us, she has an absolute advantage in understanding. We cannot help but be ignorant when it comes to her. Meanwhile, she understands you clearly and vividly. She's drawn to you because you're interesting. However, even if you are interesting, you are ultimately a pawn while she is the one seated at the table. You cannot move her in any way because you don't know what vectors or pressures to exert, except for on New Albion, which is something very literal you and I can strike at. However, if we try that, a series of harmful cascades might follow. Deaths might occur mysteriously. People will fall out of windows. People will be poisoned. People will commit suicide randomly, spontaneously, in mass eruptions that seem like a spreading mania of self-removal.”
+
+Veronica's eyes glowed with the color of rusted silver. She examined Shiv. She was taking his measure at present. No longer was she trying to wear him down through criticism. This was a full lesson now, a lesson that she was more than enthusiastic about teaching.
+
+“I don't fault you for wishing to counter me in some way, to circumvent my influence over you. That's just politics—being a Pathbearer, really. Life in and of itself. It would be unnatural if you were so accepting. I am offended, however, that you've decided to embroil yourself with someone far more dangerous, alien, and indifferent to your fate than I as a potential means of rebuffing me.”
+
+“It's because you didn't notice her and because she knows so much that I thought I could get some use out of her.” Shiv paused. “Also, because I can't read her. I can read you a little bit. I can't get a good grasp of her. I see your empathetic core. I can feel your emotions sometimes. I can crack you a little bit. Her? Nothing at all.”
+
+“And it's alluring, isn't it? Enticing to face someone so far beyond your greatest power that you're not quite sure what to do, and you find yourself slightly obsessed. You want to solve her. She almost pulled the same trick on me when I was a Hero.” Veronica rolled her eyes. “But part of the fault is mine. I should have anticipated this of her. I should have suspected she might go for you. The only surprise in the grand scheme is that she hasn't gone for you sooner. Maybe she was waiting for you to show yourself as something capable of higher thought instead of just a reckless, mindless brute, no different from a Tarrasque.”
+
+“That's the sweetest thing you've ever said to me, Grandma,” Shiv drawled, sniffling.
+
+“Truth is not flattery. However, the truth is that while you might be a budding power, you remain an ignoramus when it comes to influence and power brokering. She offers you bargains, valuable nuggets of information. She declares herself arriving in person, and with that she doubtlessly lures Valor back because he believes he must face her, and that provokes an appearance on my part as well. Me, Valor, and a group of other incredibly influential, incredibly important individuals must make an appearance, for the Faceless Queen is declaring to make herself known. A rare occasion, so rare they can be counted on a single hand since New Albion received its name. Do you see how she's using you to create cascades?”
+
+“Yeah,” Shiv admitted. “I’m her lever.”
+
+“Yes. And now you have done the wise thing in seeking to use me as yours.” And for the first time, she laughed—and Shiv didn't hate the sound. It was a laugh of self-flattery, self-pride, but also the faintest bit of affection for him. For he actually came to her. He swallowed his pride, he took his wounds, he bled in front of her, and he made the bargain against the Queen. One social expert against another. “Look at me. Look at me and listen. This is why this arrangement between us works. We understand one another—so we can bargain. We see a worth in each other and know our place in the civilization canon. Weight. Place. Purpose. She will never be the same. Even in a situation where you manage to get a promise on her part to stand against me, to help you strike me down, I suspect she will betray you at the last moment because it is more useful for her to avoid losses facing the Yellowstone Republic than it is for her to cast all her lot in with your Gate.”
+
+“But you said you don’t know her,” Shiv said. “How are you sure she’ll do that?”
+
+“Because of the shape of my threat versus the shape of yours. The words I’ve been writing are bombs, boy. I will send this to one of her embassies. Everything and everyone in the building will die when my displeasure is read. Only that building. Only when it is read. You can throw yourself at New Albion, but you are still a question of force arithmetic. I am not so simple.” With that, she folded the letter and offered it to Shiv. “This is for the Queen. You will give it to her. Tell her I will not succumb to these games, and will be absent from the Gate so long as she is there.”
+
+The rebellious part of Shiv wanted to rip the letter in half out of spite, but the growing bits of him that learned, that wanted to understand, that paid the price of pride to grow in actual power and political acumen glistened and heated. And so he took it; he held it gingerly, as he might a Necromantic spell threatening to breach his resistance.
+
+“You will also carry my thanks for revealing the Salamander's true identity and the fact that the Southern Gods might be in league with the Challenger. Stress that this is my personal thanks and nothing more, and that I do not consider it a favor of any kind.”
+
+“Okay. And?”
+
+“And then you watch, and you wait. If I were you, I would place more guards on Roland while he is still within his Delve, and perhaps even assign Valor to watch over him. The Faceless Queen seems the type to sell information regarding the Dread Horizon's vulnerability—another thing you should consider.”
+
+Veronica's suggestion was packed with so much information that Shiv almost missed the worst part of all. “Wait, how did you know he was Delving?”
+
+“Because I'm not an idiot, boy—of course he’s Delving. Roland was not reported to be injured or troubled, and with your Gate under threat, what is the most likely answer?” Veronica shook her head. “I've been too lax and distracted from you. This is to change. Two things right now: in regard to the Gate, I want you to take the Queen into your confidence as much as you can. Let her use you. Get closer to her. Let her assume that you are still playing to her tune. In return, I need a service from you: service and practice. You are already proving yourself adept at cleaning the detritus from my Republic. You are to help House Stormhalt with an internal matter—but you are not permitted to harm any of its members in any fashion. I will not brook dissent on this; offend this decree and face true penalty. Understood?”
+
+“What’s the internal matter?” Shiv asked, unsure if he wanted to accept.
+
+“A dispute over inheritance and property exacerbated by ill emotions between the family’s most esteemed scions. What else?” Veronica sounded sick of things from describing the issue alone. “Without intervention, I suspect that the House itself will come asunder, especially without the presence of Havel and the Endbreaker looming over them. You are to make sure this doesn't happen. You are to understand the worth of power and influence. You will be their Faceless Queen to some extent. No violence. Just influence. Learn, and promise me no bloodshed. Promise. And I will strive to devise a countermeasure against the Queen herself.”
+
+The word felt disgusting, but Shiv managed it. “Promise.”
+
+“Good. Now, take the letter back to the Gate, and—actually, something before that. You are to attend the theater with me as a start to your new training.”
+
+“Theater?” Shiv said, confused. “Why?”
+
+“Because Deathless, before I can instruct you on how to play the great game against the Queen of Spies, you must know how to break an actor.”

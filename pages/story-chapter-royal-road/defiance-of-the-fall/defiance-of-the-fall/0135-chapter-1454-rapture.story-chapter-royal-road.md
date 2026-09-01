@@ -1,0 +1,131 @@
+---
+id: d621d8da-bb77-5744-80ca-7af78b1a1629
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,454 - Rapture"
+slug: 0135-chapter-1454-rapture
+partOf: defiance-of-the-fall
+position: 135
+ownLength: 2905
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3896812/chapter-1454-rapture"
+royalRoadId: "3896812"
+---
+
+Shock and horror woke Zac up from his rage-addled state, and he desperately tore off the vines wound around his torso. The muffled sizzle grew louder as he brought out the cocooned treasure. The whole feather crackled from an invisible flame, and a few of the barbs were about to burn through.
+
+Zac's mind briefly shut down as he processed the implication of what was about to happen. A maniacal laughter brought him back as the Izh'Rak Reaver promptly exploded from a self-detonation. His cultivation and lifeforce poured into the bone that made up his spine, causing a powerful shockwave that passed through Zac before he could react.
+
+With everything else going on, Zac's body suddenly refused to respond, as if his joints had filled with rust. The reaver's final strike imposed a powerful seal on both energy and his physical body. Zac suspected it would have affected his soul too if not for its unusual location. Even so, he felt like a puppet with its strings cut, slowing down his response to the unraveling eye.
+
+Only the Void directly responded to his call, but shielding the Primo's eye with [Void Zone] didn't help. Neither did unleashing [Arcadia's Judgment] on the candle. Zac's ultimate skill passed right through it, as if the candle existed in another plane. By then, it was too late to try anything else. With a crackle, a section of the eye peeked through the scorched feather.
+
+Zac's heart dropped, his mind screamed to run, yet there was no time. All he could do was force his unresponsive hands to point the gap away from himself and Tavza before pulling them back.Then, Armageddon arrived.
+
+Space collapsed, and time withered away as a curtain of darkness rolled out with impossible speed. In the blink of an eye, it had covered half the Rapture Observatory, and it kept expanding. Different from [Second Singularity], the energy outburst wasn't focused like a laser beam. While most of the leakage rushed forward, some of it pulled in the opposite direction.
+
+Zac felt his vision close in and his body wither away as he expired in every sense of the word. As for the enemies directly caught within the storm, there could only be one outcome: irreversible death. The Void was nothing before this absolute extinction that consumed everything it touched.
+
+Just when Zac was about to give up and flee through a vortex, abandoning both the Hollow Court and the mission, he felt a hand on his shoulder. The sound of running water helped Zac's fading consciousness regain clarity, and he realized he'd been surrounded by a different type of darkness. He could sense the familiar presence of Aewo An'Azol, and he knew he was safe—at least for the moment.
+
+Tavza, his savior, was by his side, her eyes closed in concentration. She was doing everything in her power to maintain a small pocket of abyssal water. Placed in the leaking eye's blind spot, it barely managed to shield them from the apocalyptic storm outside. Zac felt like he'd been submerged in a vat of ice, which was far preferable to the alternative.
+
+They weren't out of the woods just yet. Tavza's actions bought them some time, but Zac doubted her protective mark could shield them for much longer. Meanwhile, the Primo's feather was still burning just outside the sphere of Abyssal water. Zac's mind moved a mile a minute as he looked around, only finding an expanse of Apocalyptic Death.
+
+There was no telling how far the deathly domain had spread. Flying through it was out of the question. Tavza's blockade worked now, but it would falter the second they left the blind spot. The interference also prevented Zac from locking onto a safe coordinate with [Earthly Dome]. Zac swallowed, knowing there was only one solution left. It was a gamble that, even if it succeeded, would come at a cost. Zac wryly smiled, guessing he should be happy he was back on familiar territory.
+
+A Void Vortex silently opened right before him. The Abyssal waters caused it to groan until Tavza made a change to the barrier. Next, Zac took out a second feather, which also showed signs of damage. Tavza had been provided with a feather of her own before the mission started. She'd handed it over before they began the mission in case one feather wasn't enough to seal the Primo's eye. Now, it was their only hope.
+
+Zac took a steadying breath as he shook his hands, dispersing the lingering stiffness from the Izh'Rak Reaver's suicide attack. Then, he wrapped the feather around his left hand and swiftly reached out to grab the leaking eye. Zac groaned with agony as death surged up his arm, and he saw it wither into a twisted stick in the blink of an eye. It was only through [Void Heart] drawing deep, furious gulps that the rest of his body was spared the same fate.
+
+Bony fingers enclosed the eye through sheer willpower, palm directly covering the leak. The feather moved on its own from there, specifically targeting the most damaged sections as it wrapped itself around the eye. The instant Zac sensed the leak was plugged, he grabbed the treasure and pushed it through the Void Vortex. The moment it was through, he closed the gate.
+
+The effect on the outside was immediate and near-identical to when the Rapture Curtain activated. The enormous haze of Apocalyptic Death had become rootless, losing most of its strength. Zac still wouldn't survive if he stepped outside, but the pressure on Tavza had drastically decreased. They'd be fine so long as they lasted long enough for the dust to settle.
+
+On the other side of the Left Imperial Expanse, the deadly payload flew out from another vortex, accompanied by a gust of Apocalyptic Death. Zac could only gawk in shock as the fell wind killed a dozen timelines in the blink of an eye. The eye's specific Dao was apparently exceedingly effective at killing false timelines. Thank God he'd opened the Void Vortex far from "his own" timeline.
+
+The situation with the realmgates was the least of Zac's worries. His focus was on the wrapped-up ball floating a few dozen meters away. The hidden flames quickly ran out of steam after the eye entered his personal Void, but a hairline gap had been exposed during transit. While only a fraction of the earlier outburst was released, it all was deposited inside his personal Void.
+
+Zac could already feel a terrifying pressure building up within, beyond what his hidden realm could bear. Vast amounts of Apocalyptic Death began seeping from the depths of his cells into both his bodies. Zac groaned in agony as the pressure kept mounting, and he waved his hand. Five vortices appeared in different spots around [Second Singularity].
+
+Ordering raw energies to enter or leave his personal Void was outside Zac's realm of control. This time, he didn't have to do anything. Another batch of Apocalyptic Death appeared in the Mercurial Court as vast amounts of energy were squeezed out of the overstuffed Void. The pressure on Zac's bodies relented, yet it remained beyond what he could bear. More and more energy began leaking through his cells, to the point they began showing signs of destabilizing.
+
+Back in the Rapture Observatory, Tavza turned to him with a tense expression. "Where is it?"
+
+"It's safe and stabilized," Zac croaked.
+
+Tavza frowned upon seeing Zac's worsening expression. "What's wrong?"
+
+"Too much death."
+
+"Let me help," Tavza said without hesitation.
+
+Zac directly agreed and opened another Void Vortex within the Abyssal pool. Tavza took half a step into the void, keeping her right hand outside to maintain the protective bubble. Zac couldn't see what she was doing on the other side, but he could feel it. Within one minute, Zac had gone from a pressure cooker about to blow to "only" feeling dangerously overstuffed. It was uncomfortable but not deadly.
+
+Tavza sported a Draugr flush when she emerged, and she even stumbled a bit as she sat down. Rather than suffering from a similar condition as he, Tavza almost seemed drunk. Going by how much better Zac felt, Tavza must have greatly benefited from the feast of Apocalyptic Death. It was no wonder, seeing as it came straight from the source, making it much purer than the treasures they'd collected over the past week.
+
+Zac was no different. Now that the situation had somewhat stabilized, Zac shifted from survival to empowerment. His Late Shallows Bloodline, which had just stabilized, was advancing at an almost unreal pace as his Draugr body consumed Abyssal Death at a record pace. Neither he nor Tavza moved an inch for the next few minutes. They stayed inside the protective bubble, digesting the energy while waiting for the storm outside to settle.
+
+Things were not quite as calm on the other side.
+
+"What in the Nine Hells did you bring this time?" Esmeralda hollered with a mix of fear and intrigue, seemingly caught between the impulse to steal and the instinct to flee.
+
+"The Primo's right eye," Zac said as he observed the treasure from a distance.
+
+There were no signs of damage on the feathers spreading. On the contrary, it looked like the feathers were solidifying into a waxy substance, preventing them from being removed. It was as if the candle's green flame had helped temper the protective shell. Or perhaps the feathers were always meant to transform like this after the eye had settled.
+
+Self-assured it wouldn't suddenly burst another leak, Zac eventually stowed the ball in a bag. It wasn't blind confidence, either. Far in the distance, two new Halos had appeared around the Hollow Court's pillar. The trial itself had confirmed that the thread of fate had concluded. Interestingly, only half of its aura belonged to the Primo's Apocalyptic Dao or Ninth Hell's artificial death.
+
+The rest closely matched the mixed Life and Death of the court's two gates. Zac had seen how the Ninth Hell leaking into the memory domains was causing all kinds of trouble in a paradoxical case of the future affecting the past. With the source gone, Ninth Hell would weaken, and the memories would be able to operate without disturbance.
+
+A prickling sensation made Zac turn back, and he found Esmeralda's eyes glued to his bag.
+
+"Planning on rejoining the undead ranks? I can let you have a taste if you want," Zac teased.
+
+"Ah, forget it. That old troublemaker is a bit scary," Esmeralda muttered before quickly correcting herself. "Ahem—I mean it's no fun if I stole Galgallim's eye now. No challenge, you know? I might nab it after both me and that old bird have recovered."
+
+"You're too kind," Zac laughed before curiously asking, "The Primo's a bird?"
+
+"He has feathers, doesn't he? That makes him a bird," Esmeralda shrugged.
+
+"That's..." Zac's words trailed off. Her statement didn't seem right, but he didn't know enough about the Primo to prove her wrong. As such, he dropped the subject. "I absorbed a bit of the Primo's Death. Will it be okay if I don't close any timelines for a day or two?"
+
+"It's fine. If anything, you're ahead of schedule thanks to that earlier bust. You can finish up when you feel better," Esmeralda waved her hand. "But please don't give me any more surprises like this. I'm not sure my little heart can take it. Or if the Mercurial Court can survive the excitement, for that matter."
+
+The sudden appearance of another A-grade treasure had unsurprisingly caused a stir in [Second Singularity]. Zac knew he was troubling Esmeralda by bringing over the treasure, but he simply didn't have another option at the time. He needed to get the eye away from the mysterious candle, and he absolutely couldn't leave the treasure inside his personal Void.
+
+Luckily, his rage-addled state had shown him the solution. In his desire to tear apart the attackers, he'd pursued them by opening a Void Vortex. He'd completely forgotten he had the Primo's treasure in his back pocket at the moment. The foolhardy maneuver could easily have made his Void Realm collapse directly, but it proved to be safe.
+
+"I promise to do my best," Zac coughed and received a scathing look before Esmeralda focused on stabilizing the realm.
+
+With things somewhat settled, Zac couldn't help but shudder at how close to disaster they'd come. If not for advancing his bloodline and gaining [Earthly Dome], Zac's only hope for survival would've been sending his human body to the Mercurial Court through [Fuxi Mountain Gate]. And Zac was still not sure if that maneuver was even possible. He'd have to put himself inside the gate while simultaneously putting the gate inside [Purity of the Void].
+
+It was both frightening and infuriating to almost be done in by such an obvious scheme. It wasn't hard to figure out what the White Sky Phalanx's plan was. The rebels didn't actually need the Primo's treasure for their goals to be met. While seizing the valuable A-grade treasure for themselves was preferable, the important thing was that it didn't fall into the Primo's hands. As far as they were concerned, the eye was better off left in this sealed realm until the end of days. Sacrificing a few deathsworn Hegemons to make that happen was a bargain.
+
+Zac hadn't forgotten that basic premise, but the idea that the motley group of attackers was powerful enough to cause any damage hadn't crossed his mind. Zac had stress-tested the feather after learning it would be the item keeping the Primo's eye in check, and it seemed as indestructible as [Fuxi Mountain Gate].
+
+The plan was frightfully effective in its simplicity. The mysterious candle couldn't be destroyed, and they had no way to hide the Primo's eye inside a Spatial Tool. If not for his unexpected ability to open void vortices and send the item to the other side of the continent, they would have been forced to helplessly watch as the Primo's eye was unsealed piece by piece.
+
+The extra preparation had salvaged the mission and possibly saved their lives. Not only that, they ended up benefiting in the end. His human body losing an arm was a bit troublesome, but it would regrow soon enough. Still, the positive outcome couldn't disperse the gloom in Zac's heart. No matter what, Verun was still wounded.
+
+Zac's heart clenched as he watched his old companion inside [Purity of the Void]. The purification domain had already expelled the hostile Dao lodged in his companion, but the deep crack remained. While it wasn't irredeemable, it would take [Verun's Bite] years to recover on its own. Even then, it might retain some hidden weakness.
+
+It was his fault.
+
+He'd known for a while now that his progress was outpacing his Spirit Tool, yet he'd never done anything about it. Verun had followed him into battle after battle, never complaining despite its opponents growing further and further out of reach. The Peak D-grade sword wasn't the reason she was wounded; it was simply the drop that made the cup overflow.
+
+Verun had already been exhausted after they killed the C-grade Rapture Beast, yet Zac didn't stop there. His poor axe had to keep fighting in the depths of the Rapture Observatory, suffering the ambient death and pollution of Rapture Beasts. It was a miracle she'd endured this long.
+
+'I should have found a temporary substitute long ago,' Zac thought with reproach.
+
+Finding opportunities to accelerate the growth of [Verun's Bite] wasn't easy with Zac's pressed schedule as he'd rushed to complete his missions, but that was never the only option. Finding a Life-Conflict Axe that perfectly suited his path would be difficult, but getting any decent-enough Peak D-grade Axe to use in the interim was by no means impossible.
+
+There were plenty of weapons available for exchange in the Outer Courts, and he could have bought something in Transformation Docks or the many other cities they'd passed. He'd held back because of a mental hang-up. He'd been afraid that he'd betray his own convictions, discarding Verun for an easier upgrade path. And look where that led him.
+
+As the minutes passed, the self-reproach slowly transformed into a burning flame of purpose. He'd fix her, no matter what. Zac had been hesitant about returning to Hollow Court after killing Emir, but now he saw no choice. There was a decent chance some court elder could help repair [Verun's Bite], or perhaps there was some treasure that could achieve it. He had plenty of Longanimity to spare after igniting two more halos, and most of his enemies were already dead.
+
+If that failed, he'd immediately head on to the Left Imperial Palace. Zac refused to believe that the Theomore Dynasty didn't retain some top-tier blacksmiths. He was even willing to spend the sole Limitless Merit he inherited from Kristvan Theomore on giving Verun a chance at revival, even if it meant delaying his attempt at Monarchy.
+
+Only moments after Zac settled on his next goal, there was a shift in the Rapture Observatory. A powerful wind had begun dragging the vast amounts of Apocalyptic Death toward the observatory's center. Moments later, even Zac could feel a powerful pull on him through Tavza's protective domain. Something big was brewing in the observatory's center.
+
+Going by their luck thus far, Zac couldn't imagine it was anything good.
