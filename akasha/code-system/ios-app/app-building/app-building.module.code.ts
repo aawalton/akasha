@@ -42,8 +42,8 @@ function listAt(value: Value, key: string): readonly string[] {
 
 function pathOf(root: string, typeSlug: string, slug: string): string | null {
   if (!indexStanding(root)) return null
-  const standing = listedAt(root, typeSlug, slug)
-  return standing.length === 1 ? (standing[0]?.path ?? null) : null
+  const listed = listedAt(root, typeSlug, slug)
+  return listed.length === 1 ? (listed[0]?.path ?? null) : null
 }
 
 function pageOf(root: string, typeSlug: string, slug: string): Value | null {
