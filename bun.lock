@@ -79,7 +79,7 @@
       },
     },
     "akasha/agents-system": {
-      "name": "@akasha/agents-system",
+      "name": "@akasha/agents",
     },
     "akasha/alan/chess": {
       "name": "@akasha/chess-core",
@@ -121,7 +121,7 @@
         "playwright-core": "1.61.1",
       },
     },
-    "akasha/checks-system": {
+    "akasha/checks": {
       "name": "@akasha/checks",
       "dependencies": {
         "typescript": "5.9.3",
@@ -3689,7 +3689,7 @@
   "packages": {
     "@acemir/cssom": ["@acemir/cssom@0.9.31", "", {}, "sha512-ZnR3GSaH+/vJ0YlHau21FjfLYjMpYVIzTD8M8vIEQvIGxeOXyXdzCI140rrCY862p/C/BbzWsjc1dgnM9mkoTA=="],
 
-    "@akasha/agents-system": ["@akasha/agents-system@workspace:akasha/agents-system"],
+    "@akasha/agents": ["@akasha/agents@workspace:akasha/agents-system"],
 
     "@akasha/alanwalton-web": ["@akasha/alanwalton-web@workspace:akasha/alan/web"],
 
@@ -3701,7 +3701,7 @@
 
     "@akasha/checkout-version": ["@akasha/checkout-version@workspace:akasha/version/checkout"],
 
-    "@akasha/checks": ["@akasha/checks@workspace:akasha/checks-system"],
+    "@akasha/checks": ["@akasha/checks@workspace:akasha/checks"],
 
     "@akasha/chess-core": ["@akasha/chess-core@workspace:akasha/alan/chess"],
 

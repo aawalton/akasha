@@ -3,7 +3,7 @@ import {
   readingsIn,
   type Reading,
   sevenDaySpent,
-} from "@akasha/agents-system/claude-account-measuring"
+} from "@akasha/agents/claude-account-measuring"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 
 // THE FLEET'S SPEND IS READ FROM AKASHA RATHER THAN REDUCED OUT OF A SAVED PAGE QUERY. The
