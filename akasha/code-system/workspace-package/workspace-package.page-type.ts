@@ -34,6 +34,10 @@ export const workspacePackage = {
     },
     {
       invariantKind: "departure",
+      statement: "A way in naming a module's code is spelled as that module's slug.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file inside the package reaches its siblings directly.",
     },
     {
