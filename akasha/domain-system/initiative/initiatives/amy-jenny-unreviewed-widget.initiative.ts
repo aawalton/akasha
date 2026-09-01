@@ -47,7 +47,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
       workingMemory:
-        "The pipe is whole: `READING_RELAY_SECRET` stands in both sops and both relay routes 401 an unauthenticated POST. What is left is the reading: `MONARCH_COOKIE` is dead and only Alan can mint another. `ios-app build alanwalton` exits 3 with no BUILD_SIM_OK, dying in ios-add on a missing `www/index.html` before xcodebuild ever runs. His widget did compile on the Mac Aug 31 15:42: 20 of 21 components are byte-identical to that appex, and only `alanwalton-widget-feed` has changed since.",
+        "His widget compiles. With `www` staged, `ios-app build alanwalton --www <dir>` exits 0 with BUILD_SIM_OK: BUILD SUCCEEDED, no error, 15 components into ValuesWidgetExtension, `alanwalton-widget-feed` among them, so its `HELD_FOR` and `takenAt` are proven; the two warnings are old AppDelegate captures. Staging is still by hand and that is filed. Nothing but the reading is left: `MONARCH_COOKIE` is dead and only Alan can mint another.",
     },
     {
       statement: "Jenny's site deploys from akasha.",
