@@ -211,7 +211,6 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
     const here = files.filter((one) => folderOf(one) === folder)
-    if (here.length === 0) continue
     const deep = files.filter((one) => one.startsWith(`${folder}/`) && folderOf(one) !== folder)
     const held = here.map((one) =>
       claimedIn(heldIn(one, pageTypes, fileProperties), shadow.reading, filing)
