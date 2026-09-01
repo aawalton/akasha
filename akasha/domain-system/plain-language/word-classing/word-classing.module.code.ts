@@ -14,7 +14,9 @@ export const PREP = listed(
     "off out per via upon among around behind beneath toward towards until since than as like"
 )
 
-export const REL = listed("that which who whom whose where when")
+export const REL = listed("that which who whom whose where when what")
+
+export const REL_NOUN = listed("what")
 
 export const BE = listed("is are was were be been being")
 
@@ -86,6 +88,7 @@ export function classesOf(word: string): readonly WordClass[] {
   const found: WordClass[] = []
   for (const [held, named] of CLOSED) if (held.has(said)) found.push(named)
   if (found.includes("AUX")) found.push("V")
+  if (REL_NOUN.has(said)) found.push("N", "V", "ADJ")
   if (found.length > 0) return found
   if (word.startsWith("`")) return ["N"]
   if (/^[0-9]/.test(said)) return ["ADJ", "N"]

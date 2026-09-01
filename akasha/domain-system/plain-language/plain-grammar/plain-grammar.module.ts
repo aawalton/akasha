@@ -28,14 +28,6 @@ export const plainGrammar = {
       statement: "One sentence carries one clause.",
     },
     {
-      invariantKind: "departure",
-      statement: "A clause joined to another by `and` is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A relative clause is refused until Alan calls one plain.",
-    },
-    {
       invariantKind: "stopgap",
       statement: "`rather than` parses as an adverb before a preposition.",
     },

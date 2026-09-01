@@ -26,6 +26,10 @@ export const wordClassing = {
     },
     {
       invariantKind: "departure",
+      statement: "A relativizer naming what it refers to is a noun as well.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A word opening with a backtick is a noun.",
     },
     {
