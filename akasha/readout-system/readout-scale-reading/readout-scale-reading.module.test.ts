@@ -1,13 +1,9 @@
 import { expect, test } from "bun:test"
-import type { Fetcher } from "@akasha/pages-query/fetcher"
 import {
   declaredThreshold,
   readBacklogCountScale,
   scaleIn,
 } from "./readout-scale-reading.module.code.ts"
-
-const refusing: Fetcher = async () =>
-  new Response(JSON.stringify({ refused: "no" }), { status: 500 })
 
 test("a rung stated as a number is that number", () => {
   expect(declaredThreshold(11)).toBe(11)
@@ -52,6 +48,10 @@ test("a page missing a rung the ring needs is no scale", () => {
   expect(scaleIn({})).toBe(undefined)
 })
 
-test("a store that answers nothing gives no scale", async () => {
-  expect(await readBacklogCountScale(refusing)).toBe(undefined)
+test("the rungs the backlog-count page states are read from the store", async () => {
+  const scale = await readBacklogCountScale()
+  expect(scale).not.toBe(undefined)
+  const rungs = scale as NonNullable<typeof scale>
+  expect(rungs.orangeAt).toBeLessThan(rungs.redAt)
+  expect(rungs.redAt).toBeLessThan(rungs.blackAt)
 })

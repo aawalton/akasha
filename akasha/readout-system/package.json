@@ -10,6 +10,7 @@
     "./monarch-unreviewed-transactions": "./readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
   },
   "dependencies": {
+    "@shared/pages-query": "workspace:*",
     "zod": "^4.3.6"
   }
 }

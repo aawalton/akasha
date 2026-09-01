@@ -1,5 +1,5 @@
-import { askNamed } from "@akasha/pages-query"
 import { type Fetcher, pagesFetcher } from "@akasha/pages-query/fetcher"
+import { askNamed } from "@shared/pages-query"
 import type { RingScale } from "../readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
 
 const READOUT_SCALES_ALL = "readout-scales-all"
