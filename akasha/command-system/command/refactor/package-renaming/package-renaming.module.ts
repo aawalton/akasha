@@ -80,5 +80,18 @@ export const packageRenaming = {
       invariantKind: "gap",
       statement: "A name spelled inside a template is respelled as one written whole is.",
     },
+    {
+      invariantKind: "stopgap",
+      statement: "The workspace reaches a package by the name it was installed under.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "A rename therefore lands only where the new name was installed before the checks ran.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A renamed package is reachable by its new name without another command.",
+    },
   ],
 } as const satisfies Module

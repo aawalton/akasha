@@ -122,7 +122,7 @@ export function packageSaying(
   return [
     `\`${one.was}\` ${dry ? "would be renamed" : "was renamed"} to \`${one.now}\``,
     `${one.at} calls the package, and ${one.folder} stays where it is`,
-    `${counted(manifests.length, "manifest")} and ${counted(bodies, "body")} ` +
+    `${counted(manifests.length, "manifest")} and ${counted(bodies, "other file")} ` +
       `${were(paths.length, dry)} respelled`,
     ...(dry ? paths.map((path) => `  ${path}`) : []),
     OUTSIDE,
