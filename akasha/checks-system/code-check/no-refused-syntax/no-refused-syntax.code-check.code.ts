@@ -2,6 +2,7 @@ import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
 import { textOf } from "@akasha/code-system/body-text"
 import { parsedAs } from "@akasha/code-system/code-source"
+import { saidBy } from "@akasha/command-system/fault-saying"
 import { everyOfType } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
@@ -31,10 +32,6 @@ export type Rule = {
 }
 
 type Running = (...given: readonly unknown[]) => undefined
-
-function saidBy(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
 
 export function introducedIn(change: Change | null, path: string): string | null {
   if (change === null) return null

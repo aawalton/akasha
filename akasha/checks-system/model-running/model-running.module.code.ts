@@ -1,5 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { saidBy } from "@akasha/command-system/fault-saying"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
@@ -37,10 +38,6 @@ export type Judgement = {
   readonly onPatch: number
   readonly onAudit: number
   readonly run: Running
-}
-
-function saidBy(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function valueAt(at: string, slug: string): Record<string, unknown> | null {

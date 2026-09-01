@@ -1,3 +1,4 @@
+import { saidBy } from "@akasha/command-system/fault-saying"
 import {
   fetchRingCountsFromMonarch,
   type RingCounts,
@@ -31,10 +32,6 @@ export function cookieIn(held: Record<string, string | undefined>): string | nul
   return cookie === undefined || cookie === "" ? null : cookie
 }
 
-export function saidOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
-
 if (import.meta.main) {
   const cookie = cookieIn(process.env)
   if (cookie === null) {
@@ -46,7 +43,7 @@ if (import.meta.main) {
     const unreviewed = await takeReading(root, cookie)
     process.stdout.write(`${unreviewed} unreviewed, kept beside ${READOUT_PAGE}\n`)
   } catch (thrown) {
-    process.stderr.write(`${saidOf(thrown)}\n`)
+    process.stderr.write(`${saidBy(thrown)}\n`)
     process.exit(1)
   }
 }

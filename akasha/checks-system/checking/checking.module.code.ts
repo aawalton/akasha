@@ -1,5 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { saidBy } from "@akasha/command-system/fault-saying"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
@@ -55,10 +56,6 @@ function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
 function inputIn(run: Running): Input | null {
   const said = (run as { readonly isInput?: unknown }).isInput
   return typeof said === "function" ? (said as Input) : null
-}
-
-function saidBy(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function statedIn(at: string, slug: string, page: string): Record<string, unknown> | null {

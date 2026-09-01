@@ -1,3 +1,4 @@
+import { saidBy } from "@akasha/command-system/fault-saying"
 import { z } from "zod"
 import { RELAY_SECRET_HEADER } from "../readout-credential/readout-credential.module.code.ts"
 import { type Reading, readingKept } from "../readout-reading/readout-reading.module.code.ts"
@@ -83,10 +84,6 @@ export function statedIn(open: Record<string, string | undefined>, name: string)
   return stated === undefined || stated === "" ? null : stated
 }
 
-export function saidOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
-
 if (import.meta.main) {
   const page = (process.argv[2] ?? "").trim()
   const to = (process.argv[3] ?? "").trim()
@@ -113,7 +110,7 @@ if (import.meta.main) {
     await relayReading(to, secret, { ...kept, readout: readoutNamedBy(page) })
     process.stdout.write(`${kept.value} taken ${kept.at} carried to ${to}\n`)
   } catch (thrown) {
-    process.stderr.write(`${saidOf(thrown)}\n`)
+    process.stderr.write(`${saidBy(thrown)}\n`)
     process.exit(1)
   }
 }

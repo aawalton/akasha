@@ -30,6 +30,10 @@ export const faultSaying = {
       statement: "A reason worked out rather than thrown is carried by the same rule.",
     },
     {
+      invariantKind: "departure",
+      statement: "A reader outside command-system reaches this by the name the manifest gives it.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here decides that a fault refuses anything or with what code.",
     },
@@ -40,18 +44,6 @@ export const faultSaying = {
     {
       invariantKind: "absence",
       statement: "This only says what it said.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Nine places outside command-system read a thrown thing for its message by hand.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "They cannot reach this.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The rule is said here and spelled there.",
     },
   ],
 } as const satisfies Module
