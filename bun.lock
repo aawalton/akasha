@@ -9,7 +9,6 @@
         "@alanwalton/drive-google": "workspace:*",
         "@alanwalton/elaine-cli": "workspace:*",
         "@alanwalton/email-google": "workspace:*",
-        "@alanwalton/health-samples-access": "workspace:*",
         "@alanwalton/health-samples-day": "workspace:*",
         "@alanwalton/imessage": "workspace:*",
         "@alanwalton/mobile-cli": "workspace:*",
@@ -186,6 +185,13 @@
     },
     "akasha/file-system": {
       "name": "@akasha/file-system",
+    },
+    "akasha/google-oauth": {
+      "name": "@akasha/google-oauth",
+      "dependencies": {
+        "@shared/errors-core": "workspace:*",
+        "@shared/utils-narrow": "workspace:*",
+      },
     },
     "akasha/graph-system": {
       "name": "@akasha/graph-system",
@@ -436,7 +442,7 @@
       "name": "@alanwalton/elaine-cli",
       "version": "0.1.0",
       "dependencies": {
-        "@alanwalton/health-samples-access": "workspace:*",
+        "@akasha/health-samples-access": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/supabase-server": "workspace:*",
@@ -479,7 +485,7 @@
       "name": "@alanwalton/health-samples-day",
       "version": "0.1.0",
       "dependencies": {
-        "@alanwalton/health-samples-access": "workspace:*",
+        "@akasha/health-samples-access": "workspace:*",
         "@shared/recurrence": "workspace:*",
       },
       "devDependencies": {
@@ -570,13 +576,13 @@
         "@akasha/awen-core": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
+        "@akasha/health-samples-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/sms-access": "workspace:*",
         "@akasha/sms-core": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@alanwalton/chess": "workspace:*",
-        "@alanwalton/health-samples-access": "workspace:*",
         "@collections/litrpg": "workspace:*",
         "@fontsource-variable/literata": "^5.2.5",
         "@infra/k8s-types": "workspace:*",
@@ -1684,9 +1690,9 @@
       "name": "@shared/status-bar-access",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/health-samples-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/personas-core": "workspace:*",
-        "@alanwalton/health-samples-access": "workspace:*",
         "@shared/pages-access": "workspace:*",
         "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
@@ -4015,6 +4021,8 @@
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
 
     "@akasha/file-system": ["@akasha/file-system@workspace:akasha/file-system"],
+
+    "@akasha/google-oauth": ["@akasha/google-oauth@workspace:akasha/google-oauth"],
 
     "@akasha/graph-system": ["@akasha/graph-system@workspace:akasha/graph-system"],
 
