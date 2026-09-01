@@ -1,6 +1,6 @@
+import { textAt } from "@akasha/utils-narrow/text-at"
 import type { Asked } from "@shared/pages-query"
 import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
-import { textAt } from "@shared/utils-narrow/text-at"
 import {
   filePropertyDefinitions,
   forgetAskedShapes,

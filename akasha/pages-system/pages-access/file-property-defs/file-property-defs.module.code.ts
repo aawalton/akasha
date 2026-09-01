@@ -1,4 +1,5 @@
 import type { Json } from "@akasha/supabase-database/json"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { Asked } from "@shared/pages-query"
 import {
   askComposed,
@@ -7,7 +8,6 @@ import {
   type Declaration,
   type PageTypeShape,
 } from "@shared/pages-query/ask"
-import { isRecord } from "@shared/utils-narrow/is-record"
 import { z } from "zod"
 import { camelizeKey } from "../file-rows/file-rows.module.code.ts"
 import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
