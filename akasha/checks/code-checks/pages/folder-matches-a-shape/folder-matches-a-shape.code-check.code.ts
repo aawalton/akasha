@@ -1,12 +1,11 @@
 import { createRequire } from "node:module"
 import { basename, join } from "node:path"
 import { NAMING_NONE, type Naming } from "@akasha/code-system/code-specifier"
-import { everyOfType, everyPath, importersOf, listedByPath } from "@akasha/indexes"
-import { filePropertiesAt, pageTypesIn } from "@akasha/indexes/entries"
+import { importersOf } from "@akasha/indexes"
+import type { Answering } from "@akasha/indexes/answering"
 import { edgesIn } from "@akasha/indexes/import"
 import { reachingIn } from "@akasha/indexes/package-reaching"
-import { type Known, knownIn } from "@akasha/indexes/reaching"
-import type { Reading } from "@akasha/indexes/shape"
+import type { Known } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, type Held, heldIn, namedIn } from "@akasha/pages-system/page-file-name"
@@ -72,7 +71,7 @@ export function edgesOf(
 
 export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
   const found: Shape[] = []
-  for (const one of everyOfType(shadow.reading, SHAPE)) {
+  for (const one of shadow.index.everyOfType(SHAPE)) {
     const said = namedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a folder shape, and its name says no slug`)
@@ -114,8 +113,8 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-export function listedFiles(given: string | Reading, change: Change): readonly string[] {
-  const found = new Set<string>(everyPath(given))
+export function listedFiles(index: Answering, change: Change): readonly string[] {
+  const found = new Set<string>(index.everyPath())
   for (const one of change.changed) {
     if (change.after(one) === null) found.delete(one)
     else found.add(one)
@@ -173,15 +172,11 @@ export function pageNameOf(path: string): string {
   return name.endsWith(TS_ENDING) ? name.slice(0, -TS_ENDING.length) : name
 }
 
-export function claimedIn(
-  held: Held,
-  given: string | Reading,
-  filing: ReadonlyMap<string, string>
-): Held {
+export function claimedIn(held: Held, index: Answering, filing: ReadonlyMap<string, string>): Held {
   if (held.kind !== "stray") return held
   const propertySlug = filing.get(basename(held.path))
   if (propertySlug === undefined) return held
-  const claiming = listedByPath(given, held.path)[0]
+  const claiming = index.listedByPath(held.path)[0]
   if (claiming === undefined) return held
   return {
     path: held.path,
@@ -195,30 +190,30 @@ export function claimedIn(
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const shapes = shapesIn(change.root, shadow)
-  const pageTypes = pageTypesIn(shadow.reading)
-  const stated = filePropertiesAt(shadow.reading)
+  const pageTypes = shadow.index.pageTypesIn()
+  const stated = shadow.index.filePropertiesAt()
   const fileProperties = new Set<string>(stated.keys())
   const filing = namesFiling(stated)
-  const naming = reachingIn(everyPath(shadow.reading), stated, (path) => textIn(change, path))
+  const naming = reachingIn(shadow.index.everyPath(), stated, (path) => textIn(change, path))
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
     let held = admits.get(wanted)
     if (held === undefined) {
-      if (known === null) known = knownIn(shadow.reading, change.root, shadow.pageOf)
+      if (known === null) known = shadow.index.knownIn(change.root, shadow.pageOf)
       held = new Set<string>(known.admitting(wanted))
       admits.set(wanted, held)
     }
     return held.has(pageTypeSlug)
   }
-  const files = listedFiles(shadow.reading, change)
+  const files = listedFiles(shadow.index, change)
   const entering = enteringOf(change, naming)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
     const here = files.filter((one) => folderOf(one) === folder)
     const deep = files.filter((one) => one.startsWith(`${folder}/`) && folderOf(one) !== folder)
     const held = here.map((one) =>
-      claimedIn(heldIn(one, pageTypes, fileProperties), shadow.reading, filing)
+      claimedIn(heldIn(one, pageTypes, fileProperties), shadow.index, filing)
     )
     const described: Standing = {
       folder,
