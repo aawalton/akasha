@@ -1,5 +1,4 @@
-import { askComposed } from "@akasha/pages-query/answer-schema"
-import type { Fetcher, Sleeper } from "@akasha/pages-query/fetcher"
+import { askingFor, type Fetcher, type Sleeper } from "@akasha/pages-system-service/calling"
 
 export const PERSON_PAGE_TYPE = "person"
 
@@ -12,10 +11,10 @@ export type Enrolment =
 const NAMING_NOBODY =
   "an account naming nothing is nobody, and a person stating no account is not that nobody"
 
-function slugsIn(rows: readonly { readonly values: Record<string, unknown> }[]): readonly string[] {
+function slugsIn(rows: readonly Readonly<Record<string, unknown>>[]): readonly string[] {
   const held: string[] = []
   for (const row of rows) {
-    const slug = row.values.slug
+    const slug = row["slug"]
     if (typeof slug === "string" && slug !== "") held.push(slug)
   }
   return held
@@ -28,23 +27,23 @@ export async function personSlugForAccount(
 ): Promise<Enrolment> {
   const account = accountUserId.trim()
   if (account === "") return { ok: false, unread: false, why: NAMING_NOBODY }
-  const asked = await askComposed(
+  const asked = await askingFor(
     {
-      "page-type": PERSON_PAGE_TYPE,
+      pageTypeSlug: PERSON_PAGE_TYPE,
       where: { [ACCOUNT_KEY]: { is: account } },
       keys: ["slug"],
     },
     fetcher,
     naps
   )
-  if (!asked.ok) {
+  if ("refused" in asked) {
     return {
       ok: false,
       unread: true,
-      why: `the person pages went unread, so the account ${account} could be read to nobody: ${asked.why}`,
+      why: `the person pages went unread, so the account ${account} could be read to nobody: ${asked.refused}`,
     }
   }
-  const held = slugsIn(asked.answer.rows)
+  const held = slugsIn(asked.rows)
   const only = held[0]
   if (only === undefined) {
     return { ok: false, unread: false, why: `no person states the account ${account}` }

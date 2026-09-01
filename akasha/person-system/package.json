@@ -19,9 +19,9 @@
   },
   "dependencies": {
     "@akasha/health-samples-access": "workspace:*",
+    "@akasha/pages-system-service": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   },

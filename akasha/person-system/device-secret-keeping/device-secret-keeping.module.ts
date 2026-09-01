@@ -18,7 +18,11 @@ export const deviceSecretKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows the store answers with are narrowed again here.",
+      statement: "The pages are asked of the pages system service rather than opened.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rows the service answers with are narrowed again here.",
     },
     {
       invariantKind: "departure",
@@ -40,6 +44,18 @@ export const deviceSecretKeeping = {
     {
       invariantKind: "departure",
       statement: "A device minting again keeps the page the device already stands on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is written as a whole body carried to the pages system service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page written over names the commit its body was read at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A minting that does not land answers why rather than a secret.",
     },
     {
       invariantKind: "departure",

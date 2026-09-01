@@ -1,5 +1,4 @@
-import { askComposed } from "@akasha/pages-query/answer-schema"
-import type { Fetcher, Sleeper } from "@akasha/pages-query/fetcher"
+import { askingFor, type Fetcher, type Sleeper } from "@akasha/pages-system-service/calling"
 import { personSlugForAccount } from "../person-enrolment/person-enrolment.module.code.ts"
 
 export const PERSON_ACCESS_PAGE_TYPE = "person-access"
@@ -26,24 +25,24 @@ export async function routeTargetsFor(
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<Granted> {
-  const asked = await askComposed(
+  const asked = await askingFor(
     {
-      "page-type": PERSON_ACCESS_PAGE_TYPE,
+      pageTypeSlug: PERSON_ACCESS_PAGE_TYPE,
       where: { personSlug: { is: personSlug }, accessKind: { is: ROUTE_ACCESS_KIND } },
       keys: ["target"],
     },
     fetcher,
     naps
   )
-  if (!asked.ok) {
+  if ("refused" in asked) {
     return {
       ok: false,
-      why: `the access pages went unread, so nothing \`${personSlug}\` holds could be read: ${asked.why}`,
+      why: `the access pages went unread, so nothing \`${personSlug}\` holds could be read: ${asked.refused}`,
     }
   }
   const targets: string[] = []
-  for (const row of asked.answer.rows) {
-    const target = row.values.target
+  for (const row of asked.rows) {
+    const target = row["target"]
     if (typeof target === "string" && target !== "") targets.push(target)
   }
   return { ok: true, targets }

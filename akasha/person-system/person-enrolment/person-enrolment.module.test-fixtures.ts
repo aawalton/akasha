@@ -1,5 +1,4 @@
-import { askComposed } from "@akasha/pages-query/answer-schema"
-import type { Fetcher } from "@akasha/pages-query/fetcher"
+import { askingFor, type Fetcher, type Sleeper } from "@akasha/pages-system-service/calling"
 import { ACCOUNT_KEY } from "./person-enrolment.module.code.ts"
 
 const LIVE_ORIGIN = "http://127.0.0.1:8787"
@@ -8,6 +7,8 @@ export interface Recording {
   readonly fetcher: Fetcher
   readonly sent: () => Record<string, unknown>
 }
+
+export const noNap: Sleeper = async () => undefined
 
 export async function overTheLiveStore<T>(taking: () => Promise<T>): Promise<T> {
   const held = process.env.PAGE_STORE_ORIGIN
@@ -21,13 +22,13 @@ export async function overTheLiveStore<T>(taking: () => Promise<T>): Promise<T> 
 }
 
 export async function accountStatedBy(personSlug: string): Promise<string> {
-  const asked = await askComposed({
-    "page-type": "person",
+  const asked = await askingFor({
+    pageTypeSlug: "person",
     where: { slug: { is: personSlug } },
     keys: [ACCOUNT_KEY],
   })
-  if (!asked.ok) throw new Error(asked.why)
-  const stated = asked.answer.rows[0]?.values[ACCOUNT_KEY]
+  if ("refused" in asked) throw new Error(asked.refused)
+  const stated = asked.rows[0]?.[ACCOUNT_KEY]
   if (typeof stated !== "string" || stated === "") {
     throw new Error(`\`${personSlug}\` states no account, so nothing here can be read back`)
   }

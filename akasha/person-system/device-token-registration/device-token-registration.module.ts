@@ -9,19 +9,23 @@ export const deviceTokenRegistration = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A token is kept under itself.",
+      statement: "A registration raises rather than being written down.",
     },
     {
       invariantKind: "departure",
-      statement: "Registering a token again replaces what stood under the token.",
+      statement: "A refusal names the keys the `device-token` page type asks for.",
     },
     {
-      invariantKind: "departure",
-      statement: "The moment a token was last seen is written on every registration.",
+      invariantKind: "absence",
+      statement: "No refusal carries the token a device presented.",
     },
     {
-      invariantKind: "departure",
-      statement: "A registration that does not land raises rather than passing.",
+      invariantKind: "gap",
+      statement: "Nothing here reads an account to a person.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing here reads a bundle to an iOS app.",
     },
   ],
 } as const satisfies Module

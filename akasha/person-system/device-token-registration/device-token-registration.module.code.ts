@@ -1,8 +1,4 @@
-import { writePage } from "@shared/pages-query"
-
 export const DEVICE_TOKEN_PAGE_TYPE_SLUG = "device-token"
-
-const WRITER = "device-tokens"
 
 export interface DeviceTokenRegistration {
   readonly userId: string
@@ -11,18 +7,14 @@ export interface DeviceTokenRegistration {
   readonly bundleId: string
 }
 
+const NOTHING_LANDS = [
+  "a device token is written nowhere.",
+  "the page engine that took `user-id`, `platform` and `bundle-id` is gone, and the",
+  "`device-token` page type akasha carries asks for `personSlug`, `iosAppSlug` and `token`.",
+  "nothing here reads an account to a person or a bundle to an iOS app,",
+  "so no page can be composed from what a caller hands over.",
+].join(" ")
+
 export async function registerDeviceToken(args: DeviceTokenRegistration): Promise<void> {
-  const landed = await writePage(
-    DEVICE_TOKEN_PAGE_TYPE_SLUG,
-    args.deviceTokenRegistration,
-    {
-      token: args.deviceTokenRegistration,
-      "user-id": args.userId,
-      platform: args.platform,
-      "bundle-id": args.bundleId,
-      "last-seen-at": new Date().toISOString(),
-    },
-    WRITER
-  )
-  if (!landed.ok) throw new Error(`device-tokens registration failed: ${landed.why}`)
+  throw new Error(`${NOTHING_LANDS} the bundle asked for was \`${args.bundleId}\``)
 }

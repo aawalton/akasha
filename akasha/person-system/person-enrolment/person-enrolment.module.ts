@@ -15,7 +15,7 @@ export const personEnrolment = {
     },
     {
       invariantKind: "departure",
-      statement: "The person pages are asked over HTTP rather than opened.",
+      statement: "The person pages are asked of the pages system service rather than opened.",
     },
     {
       invariantKind: "departure",

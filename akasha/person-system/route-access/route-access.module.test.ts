@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
-import type { Fetcher } from "@akasha/pages-query/fetcher"
-import { noNap } from "@akasha/pages-query/fetcher/testing"
+import type { Fetcher } from "@akasha/pages-system-service/calling"
 import {
   accountStatedBy,
+  noNap,
   overTheLiveStore,
   recordingFetcher,
 } from "../person-enrolment/person-enrolment.module.test-fixtures.ts"

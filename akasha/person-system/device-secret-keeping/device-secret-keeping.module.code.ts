@@ -1,8 +1,13 @@
 import { createHash, randomBytes, timingSafeEqual } from "node:crypto"
-import { patchFiles, writeFiles } from "@akasha/pages-query"
-import { askComposed } from "@akasha/pages-query/ask"
-import type { Fetcher, Sleeper } from "@akasha/pages-query/fetcher"
 import { upperUuid } from "@akasha/pages-system/name-format/upper-uuid"
+import type { Test } from "@akasha/pages-system-service/asking"
+import {
+  askingFor,
+  type Fetcher,
+  readingFor,
+  type Sleeper,
+  writingFor,
+} from "@akasha/pages-system-service/calling"
 import { textAt } from "@akasha/utils-narrow/text-at"
 import {
   DEVICE_SECRET_PREFIX,
@@ -60,12 +65,19 @@ export type Admitted =
   | { readonly outcome: "unread"; readonly why: string }
 
 export type Minted =
-  | { readonly ok: true; readonly secret: string; readonly slug: string; readonly at: string }
+  | {
+      readonly ok: true
+      readonly secret: string
+      readonly slug: string
+      readonly at: string | null
+    }
   | { readonly ok: false; readonly why: string }
 
 export type Revoked =
   | { readonly ok: true; readonly slug: string | null; readonly at: string | null }
   | { readonly ok: false; readonly why: string }
+
+type Landed = { readonly ok: true; readonly at: string | null } | Extract<Minted, { ok: false }>
 
 export function readPresentedDeviceSecret(headerValue: string | null): Presented {
   if (headerValue === null || headerValue === "") return { ok: false, reason: "absent" }
@@ -151,22 +163,22 @@ export function pageIn(values: Readonly<Record<string, unknown>>): DeviceSecretP
 }
 
 async function onlyOne(
-  where: Readonly<Record<string, unknown>>,
+  where: Readonly<Record<string, Test>>,
   narrows: (page: DeviceSecretPage) => boolean,
   two: string,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<Found> {
-  const asked = await askComposed({ "page-type": DEVICE_SECRET_PAGE_TYPE, where }, fetcher, naps)
-  if (!asked.ok) {
+  const asked = await askingFor({ pageTypeSlug: DEVICE_SECRET_PAGE_TYPE, where }, fetcher, naps)
+  if ("refused" in asked) {
     return {
       outcome: "unread",
-      why: `the device secret pages went unread, so nothing was matched: ${asked.why}`,
+      why: `the device secret pages went unread, so nothing was matched: ${asked.refused}`,
     }
   }
   const held: DeviceSecretPage[] = []
-  for (const row of asked.answer.rows) {
-    const page = pageIn(row.values)
+  for (const row of asked.rows) {
+    const page = pageIn(row)
     if (page === null) {
       return {
         outcome: "unread",
@@ -232,6 +244,34 @@ export async function deviceSecretPresented(
   return { outcome: "stands", userId: page.userId, slug: page.slug }
 }
 
+async function landing(
+  page: DeviceSecretPage,
+  over: boolean,
+  message: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<Landed> {
+  const put = { path: deviceSecretPath(page.slug), content: deviceSecretBody(page) }
+  let read: string | undefined
+  if (over) {
+    const held = await readingFor({ paths: [put.path] }, fetcher, naps)
+    if ("refused" in held) return { ok: false, why: held.refused }
+    read = held.at
+  }
+  const wrote = await writingFor(
+    {
+      writer: DEVICE_SECRET_WRITER,
+      message,
+      puts: [put],
+      ...(read === undefined ? {} : { read }),
+    },
+    fetcher,
+    naps
+  )
+  if ("refused" in wrote) return { ok: false, why: wrote.refused }
+  return { ok: true, at: wrote.commit }
+}
+
 export async function mintDeviceSecret(
   userId: string,
   deviceId: string,
@@ -255,13 +295,14 @@ export async function mintDeviceSecret(
     secretHash: hashDeviceSecret(secret),
     revokedAt: null,
   }
-  const put = { path: deviceSecretPath(slug), content: deviceSecretBody(page) }
-  const message = `a device secret is minted for ${enrolled.personSlug}`
-  const landed =
-    found.outcome === "found"
-      ? await patchFiles([put.path], () => [put], DEVICE_SECRET_WRITER, message, fetcher, naps)
-      : await writeFiles([put], DEVICE_SECRET_WRITER, message, fetcher, naps)
-  if (!landed.ok) return { ok: false, why: landed.why }
+  const landed = await landing(
+    page,
+    found.outcome === "found",
+    `a device secret is minted for ${enrolled.personSlug}`,
+    fetcher,
+    naps
+  )
+  if (!landed.ok) return landed
   return { ok: true, secret, slug, at: landed.at }
 }
 
@@ -277,18 +318,13 @@ export async function revokeDeviceSecret(
   if (found.outcome === "none") return { ok: true, slug: null, at: null }
   const page = found.page
   if (page.revokedAt !== null) return { ok: true, slug: page.slug, at: null }
-  const put = {
-    path: deviceSecretPath(page.slug),
-    content: deviceSecretBody({ ...page, revokedAt: at }),
-  }
-  const landed = await patchFiles(
-    [put.path],
-    () => [put],
-    DEVICE_SECRET_WRITER,
+  const landed = await landing(
+    { ...page, revokedAt: at },
+    true,
     `the device secret ${page.slug} is revoked`,
     fetcher,
     naps
   )
-  if (!landed.ok) return { ok: false, why: landed.why }
+  if (!landed.ok) return landed
   return { ok: true, slug: page.slug, at: landed.at }
 }
