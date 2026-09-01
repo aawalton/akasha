@@ -1,11 +1,13 @@
 import { join } from "node:path"
 import { addressIn } from "../../page/page-address/page-address.module.code.ts"
 import { namedIn } from "../../page/page-file-name/page-file-name.module.code.ts"
+import type { Value } from "../../page/page-value/page-value.module.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
 import { indexPath } from "../index/index-path/index-path.index.ts"
 import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
+import { indexValue } from "../index/index-value/index-value.index.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import { staleFor } from "../index-stamp/index-stamp.module.code.ts"
 import {
@@ -40,6 +42,8 @@ const PATH = indexPath.name
 const RELATION = indexRelation.name
 
 const SCHEMA = indexSchema.name
+
+const VALUE = indexValue.name
 
 const PROPERTY = "page-property"
 
@@ -254,6 +258,39 @@ function gatheredIn(reading: Reading, dir: string): readonly Listed[] {
 export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Listed[] {
   return answered(given, ROOT, `which \`${pageTypeSlug}\` pages stand`, (reading) =>
     gatheredIn(reading, join(IDENTITY, pageTypeSlug, SLUG))
+  )
+}
+
+export type Valued = {
+  readonly path: string
+  readonly value: Value
+}
+
+function valuesIn(reading: Reading, at: string): readonly Valued[] {
+  const found: Valued[] = []
+  for (const line of reading.lines(at)) {
+    let said: unknown
+    try {
+      said = JSON.parse(line)
+    } catch {
+      continue
+    }
+    if (said === null || typeof said !== "object" || Array.isArray(said)) continue
+    const held = said as Record<string, unknown>
+    const path = held.path
+    const value = held.value
+    if (typeof path !== "string") continue
+    if (value === null || typeof value !== "object" || Array.isArray(value)) continue
+    found.push({ path, value: value as Value })
+  }
+  return found
+}
+
+export function valuesOfType(given: string | Reading, pageTypeSlug: string): readonly Valued[] {
+  return answered(given, ROOT, `what the \`${pageTypeSlug}\` pages carry`, (reading) =>
+    [...valuesIn(reading, join(VALUE, `${pageTypeSlug}${ENDING}`))].sort((one, two) =>
+      one.path < two.path ? -1 : one.path > two.path ? 1 : 0
+    )
   )
 }
 

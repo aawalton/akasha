@@ -97,6 +97,14 @@ export const indexReading = {
       statement: "That slug is read off the name of the file carrying the id.",
     },
     {
+      invariantKind: "departure",
+      statement: "What every page of one page type carries is one file read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line that will not read is left out rather than refusing the rest.",
+    },
+    {
       invariantKind: "absence",
       statement: "An answer about one page reads no stamp.",
     },
