@@ -8,7 +8,11 @@
     "./gacha-state": "./idle-gacha-state/idle-gacha-state.module.code.ts",
     "./dormancy": "./idle-dormancy/idle-dormancy.module.code.ts",
     "./deriving": "./idle-deriving/idle-deriving.module.code.ts",
-    "./save": "./idle-save/idle-save.module.code.ts"
+    "./save": "./idle-save/idle-save.module.code.ts",
+    "./gacha-heat": "./idle-gacha-heat/idle-gacha-heat.module.code.ts",
+    "./rate": "./idle-rate/idle-rate.module.code.ts",
+    "./accrual": "./idle-accrual/idle-accrual.module.code.ts",
+    "./draw": "./idle-draw/idle-draw.module.code.ts"
   },
   "dependencies": {
     "zod": "^4.3.6"

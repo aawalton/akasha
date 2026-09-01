@@ -13,5 +13,9 @@ export const idleSystem = {
     "module/idle-dormancy",
     "module/idle-deriving",
     "module/idle-save",
+    "module/idle-gacha-heat",
+    "module/idle-rate",
+    "module/idle-accrual",
+    "module/idle-draw",
   ],
 } as const satisfies WorkspacePackage
