@@ -37,6 +37,7 @@ export const akashaSystem = {
     "workspace-package/service-system",
     "domain/alan-harness",
     "domain/design",
+    "workspace-package/digit-padding",
     "workspace-package/id-minting",
     "workspace-package/file-page-identity",
   ],
