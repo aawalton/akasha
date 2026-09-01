@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/email-inbound",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./inbound-message": "./inbound-message/inbound-message.module.code.ts",
+    "./sender": "./sender/sender.module.code.ts",
+    "./agent-channel": "./agent-channel/agent-channel.module.code.ts",
+    "./inbound-decision": "./inbound-decision/inbound-decision.module.code.ts"
+  }
+}

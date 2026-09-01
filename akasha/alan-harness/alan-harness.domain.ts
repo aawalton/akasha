@@ -13,6 +13,7 @@ export const alanHarness = {
     "workspace-package/sms-access",
     "workspace-package/sms-core",
     "workspace-package/personas-core",
+    "workspace-package/email-inbound",
     "workspace-package/awen-core",
     "workspace-package/alanwalton-web",
   ],
