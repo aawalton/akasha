@@ -108,15 +108,15 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
   const held = new Map<string, readonly string[]>()
   for (const one of filings) held.set(one.at, one.lines)
 
-  const standing = new Set<string>()
+  const filled = new Set<string>()
   const emptied = new Set<string>()
   for (const [at, lines] of held) {
     if (lines.length === 0) emptied.add(at)
-    else standing.add(at)
+    else filled.add(at)
   }
 
   const added = new Map(
-    [...Map.groupBy([...standing].flatMap(notedUp), (one) => one.dir)].map(
+    [...Map.groupBy([...filled].flatMap(notedUp), (one) => one.dir)].map(
       ([dir, noted]): readonly [string, ReadonlyMap<string, boolean>] => [
         dir,
         new Map(noted.map((one): readonly [string, boolean] => [one.name, one.directory])),
@@ -127,7 +127,7 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
   const thinned = new Set([...emptied].flatMap(markedUp))
 
   const stands = (at: string): boolean => {
-    if (standing.has(at)) return true
+    if (filled.has(at)) return true
     if (emptied.has(at)) return false
     if ((added.get(at)?.size ?? 0) > 0) return true
     if (at === ROOT || !thinned.has(at)) return under.holds(at)
