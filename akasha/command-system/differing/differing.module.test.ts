@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
 import { readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf as bodyOf } from "@akasha/testing-system/bodying"
+import { said as saying } from "@akasha/utils-run/running"
 import { blobIdOf } from "../reading/reading.module.code.ts"
 import { SCRATCH_AT, scratchWorld } from "../scratching/scratching.module.code.ts"
 import { bodyRead, differenceOf } from "./differing.module.code.ts"
@@ -14,10 +14,7 @@ afterAll(scratch.sweep)
 const AT = "held.ts"
 
 function inGit(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], {
-    encoding: "utf8",
-    stdio: ["ignore", "pipe", "ignore"],
-  })
+  return saying(["git", "-C", root, ...argv])
 }
 
 function repoWith(body: string): string {
