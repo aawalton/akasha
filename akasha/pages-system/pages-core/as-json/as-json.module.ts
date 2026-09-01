@@ -9,7 +9,7 @@ export const asJson = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Nothing here reads the value it renames.",
+      statement: "Nothing here reads the value this module renames.",
     },
     {
       invariantKind: "departure",

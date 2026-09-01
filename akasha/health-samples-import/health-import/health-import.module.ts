@@ -18,7 +18,8 @@ export const healthImport = {
     },
     {
       invariantKind: "departure",
-      statement: "Every record is either converted or counted under the reason it was refused.",
+      statement:
+        "Every record is either converted or counted under the reason the record was refused.",
     },
   ],
 } as const satisfies Module

@@ -40,11 +40,12 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebuild stands the index it writes before it reads it.",
+      statement:
+        "A rebuild stands the index the rebuild writes before the rebuild reads the index.",
     },
     {
       invariantKind: "departure",
-      statement: "A settle reads an index that stands nowhere yet as one filing nothing.",
+      statement: "A settle reads an index that stands nowhere yet as an index filing nothing.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +71,7 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement:
-        "Which properties carry a `unique` is read from the schema as the change leaves it.",
+        "Which properties carry a `unique` is read from the schema as the change leaves the schema.",
     },
     {
       invariantKind: "departure",
@@ -79,11 +80,11 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "What a change withdraws is read against the world standing before it.",
+      statement: "What a change withdraws is read against the world standing before the change.",
     },
     {
       invariantKind: "departure",
-      statement: "What a change files is read against the world it leaves.",
+      statement: "What a change files is read against the world the change leaves.",
     },
     {
       invariantKind: "departure",

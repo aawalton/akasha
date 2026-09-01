@@ -14,11 +14,12 @@ export const installSimShell = {
     },
     {
       invariantKind: "departure",
-      statement: "The build itself runs on the MacBook and only sources are sent to it.",
+      statement: "The build itself runs on the MacBook and only sources are sent to the MacBook.",
     },
     {
       invariantKind: "departure",
-      statement: "Skipping the stage reuses the staged `www/` only where it is certified fresh.",
+      statement:
+        "Skipping the stage reuses the staged `www/` only where the staged `www/` is certified fresh.",
     },
     {
       invariantKind: "departure",

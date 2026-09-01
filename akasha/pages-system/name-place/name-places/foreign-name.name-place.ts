@@ -10,12 +10,12 @@ export const foreignName = {
     {
       invariantKind: "departure",
       statement:
-        "A name is its owner's where renaming it would break what reads it outside akasha.",
+        "A name is its owner's where renaming the name would break what reads the name outside akasha.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An owner is a tool looking for the name or a language spelling it or an engine loading it or a generator writing it.",
+        "An owner is a tool looking for the name or a language spelling the name or an engine loading the name or a generator writing the name.",
     },
     {
       invariantKind: "departure",
@@ -31,11 +31,11 @@ export const foreignName = {
     },
     {
       invariantKind: "departure",
-      statement: "This licenses a name rather than a folder.",
+      statement: "This name place licenses a name rather than a folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A name standing beside one its owner spells still answers the test alone.",
+      statement: "A name standing beside a name its owner spells still answers the test alone.",
     },
   ],
 } as const satisfies NamePlace

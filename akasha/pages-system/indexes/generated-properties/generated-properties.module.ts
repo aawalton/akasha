@@ -23,7 +23,8 @@ export const generatedProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "A property taking a generator and the first page leaning on it land together.",
+      statement:
+        "A property taking a generator and the first page leaning on that property land together.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +49,8 @@ export const generatedProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "The two kinds are told apart by what they say rather than by their names.",
+      statement:
+        "The two kinds are told apart by what the two kinds say rather than by their names.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +62,7 @@ export const generatedProperties = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here works a value out or fills one in.",
+      statement: "Nothing here works a value out or fills a value in.",
     },
   ],
 } as const satisfies Module
