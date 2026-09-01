@@ -9,11 +9,10 @@ export const amyJennyUnreviewedWidget = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "A page query is answered while another is still being answered.",
+      statement: "A pod reaches the page store.",
       workingMemory:
-        "Bun.serve hands each request its own promise already, so what is unproven is that a long answer does not hold a short one up. `asking` runs straight through what one file holds, holding the loop for as long as it runs. Measure first: ask for every page of the largest page type and, while that is in flight, ask a small one. If the small one waits, hand the reading off rather than reach for a lock.",
+        "A subagent is on this now. The workstation answers at 100.64.0.4:8787 on the headscale tailnet, and pods cannot route 100.64.0.0/10 under flannel. What already works is the `tailnet-egress` deployment in its own namespace, which reaches the workstation. The shape asked for is that one cloned into an egress pod for the page store behind a ClusterIP, so a pod asks http://<slug>.<namespace>.svc.cluster.local:<port>/ask. Proof is a throwaway pod holding rows.",
     },
-    { statement: "A pod reaches the page store." },
     { statement: "A page is written over HTTP from a workstation." },
     { statement: "A running site states the commit it was built from." },
     { statement: "No file imports `@shared/pages-query`." },
