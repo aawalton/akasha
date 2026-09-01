@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/health-samples-day",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./active-calories": "./active-calories/active-calories.module.code.ts",
+    "./wake-day-window": "./wake-day-window/wake-day-window.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/health-samples-access": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "@shared/recurrence": "workspace:*"
+  }
+}
