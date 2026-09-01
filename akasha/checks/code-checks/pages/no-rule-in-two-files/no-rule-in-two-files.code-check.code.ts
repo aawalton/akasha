@@ -3,7 +3,7 @@ import type { Change } from "@akasha/pages-system/change"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
   bodyOf,
-  everyFileIn,
+  everyFileOf,
   input,
   overEachFile,
   TEXTS,
@@ -19,7 +19,7 @@ export type Said = {
 }
 
 export function everySpeltIn(change: Change, shadow: Shadow): ReadonlyMap<string, readonly Said[]> {
-  const spelt = [...everyFileIn(change.root, shadow.reading)].flatMap((path) => {
+  const spelt = [...everyFileOf(shadow.index)].flatMap((path) => {
     if (!path.endsWith(TS)) return []
     const text = textIn(change, path)
     if (text === null) return []
