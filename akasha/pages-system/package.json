@@ -21,7 +21,7 @@
     "./name-format/lower-uuid": "./name-format/pages/lower-uuid/lower-uuid.name-format.code.ts",
     "./name-format/name-matching": "./name-format/modules/name-matching/name-matching.module.code.ts",
     "./name-format/upper-camel-case": "./name-format/pages/upper-camel-case/upper-camel-case.name-format.code.ts",
-    "./name-format/upper-snake-case": "./name-format/upper-snake-case/upper-snake-case.name-format.code.ts",
+    "./name-format/upper-snake-case": "./name-format/pages/upper-snake-case/upper-snake-case.name-format.code.ts",
     "./name-format/upper-uuid": "./name-format/upper-uuid/upper-uuid.name-format.code.ts",
     "./name-place/component-identifier": "./name-places/pages/component-identifier.name-place.ts",
     "./name-place/constant-identifier": "./name-places/pages/constant-identifier.name-place.ts",
