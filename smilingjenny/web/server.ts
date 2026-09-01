@@ -1,5 +1,6 @@
 import { join } from "node:path"
 import { randomId } from "@akasha/id-minting"
+import { holdDerivers } from "@shared/pages-query/hold"
 import { type AppCspConfig, buildSecurityHeaders } from "@akasha/web-security-headers/security-headers"
 import { htmlCacheControl, serveClientStatic } from "@akasha/web-static-assets/serve-static"
 import type { ServerBuild } from "react-router"
@@ -11,6 +12,8 @@ declare module "react-router" {
     nonce?: string
   }
 }
+
+const DERIVER_HOLD_MS = 5000
 
 const ROOT = import.meta.dir
 const BUILD_DIR = join(ROOT, "build")
@@ -27,6 +30,13 @@ const handler = createRequestHandler(serverBuild, "production")
 const CSP_CONFIG: AppCspConfig = {
   connectSrc: ["https://supabase.alanwalton.com"],
 }
+
+// This site queries pages the same way Alan's does, so it pays the same cost: each page
+// type asks whether it is answered from the checkout, and that question rebuilds a key
+// costing about 250ms of synchronous git no `await` can yield out of. Alan's server holds
+// the derivation for a bounded window for this reason; this one did not, and was spared
+// only by having less traffic. The window is what a page written here may take to be seen.
+holdDerivers(DERIVER_HOLD_MS)
 
 const PORT_SCHEMA = z.coerce.number().int().positive().max(65535).default(3000)
 const HOST_SCHEMA = z.string().min(1).default("0.0.0.0")
