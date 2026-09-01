@@ -56,8 +56,20 @@ export const codeSpecifier = {
         "Where a relative specifier lands is answered as the path it names and nothing more.",
     },
     {
+      invariantKind: "departure",
+      statement: "A specifier naming a package lands where the naming handed in says it lands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller handing in no naming is answered as naming no package.",
+    },
+    {
       invariantKind: "absence",
       statement: "Whether a landing may be reached is not judged here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No manifest is read here.",
     },
     {
       invariantKind: "absence",

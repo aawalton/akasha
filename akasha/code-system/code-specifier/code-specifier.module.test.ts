@@ -86,6 +86,22 @@ test("a specifier naming no path relative to the file lands nowhere", () => {
   expect(landingOf(AT, "/etc/passwd")).toBeNull()
 })
 
+test("a specifier naming a package lands where the naming handed in says", () => {
+  const naming = new Map([["@akasha/indexes", "akasha/pages-system/indexes/one.ts"]])
+  expect(landingOf(AT, "@akasha/indexes", naming)).toBe("akasha/pages-system/indexes/one.ts")
+})
+
+test("a specifier the naming does not name lands nowhere", () => {
+  const naming = new Map([["@akasha/indexes", "akasha/pages-system/indexes/one.ts"]])
+  expect(landingOf(AT, "@akasha/pages-system", naming)).toBeNull()
+  expect(landingOf(AT, "node:path", naming)).toBeNull()
+})
+
+test("a relative specifier lands under the file holding it whatever the naming says", () => {
+  const naming = new Map([["./two.ts", "akasha/elsewhere.ts"]])
+  expect(landingOf("akasha/a/b/one.ts", "./two.ts", naming)).toBe("akasha/a/b/two.ts")
+})
+
 test("a landing climbing out of the folder is answered as it falls, and not judged here", () => {
   expect(landingOf("akasha/b.ts", "../../outside.ts")).toBe("../outside.ts")
 })

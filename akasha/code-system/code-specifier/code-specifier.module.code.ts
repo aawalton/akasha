@@ -4,6 +4,10 @@ import { skimmedAs } from "../code-source/code-source.module.code.ts"
 
 const RELATIVE = /^\.\.?\//
 
+export type Naming = ReadonlyMap<string, string>
+
+export const NAMING_NONE: Naming = new Map()
+
 export type Placed = {
   readonly start: number
   readonly end: number
@@ -51,7 +55,11 @@ export function specifiersIn(path: string, text: string): readonly string[] {
   return placedIn(path, text).map((one) => one.text)
 }
 
-export function landingOf(path: string, specifier: string): string | null {
-  if (!RELATIVE.test(specifier)) return null
-  return join(dirname(path), specifier)
+export function landingOf(
+  path: string,
+  specifier: string,
+  naming: Naming = NAMING_NONE
+): string | null {
+  if (RELATIVE.test(specifier)) return join(dirname(path), specifier)
+  return naming.get(specifier) ?? null
 }
