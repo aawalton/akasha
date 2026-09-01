@@ -16,7 +16,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
       workingMemory:
-        "Seven folders left under `alanwalton/`. The Google five landed, and a sixth with them: three held one byte-identical parser, so `@akasha/google-oauth` holds it once. `imessage` is done, its carry proven by 273 comparisons with no difference. `mobile-cli` corrects an earlier note here saying nothing was blocked: it escapes its own src ten times into `tools/lib` and `repo/`, neither of which is a package, so it waits on those.",
+        "Six folders left under `alanwalton/`, and `calendar-sync` is deploy machinery only now rather than a package. `@akasha/calendar-sync`, `@akasha/health-samples-import` (was `elaine-cli`, which states no `bin`) and `@akasha/ssh-access` landed; the last cleared the four `no-rule-in-two-files` refusals, so the audit stands at 11, all Capacitor. `mobile-cli` waits on the root page engine rather than on four files: `roots.ts` alone has 297 inbound.",
     },
     {
       statement: "The design packages stand in akasha.",
