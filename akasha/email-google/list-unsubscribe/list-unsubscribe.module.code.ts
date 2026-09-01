@@ -1,4 +1,4 @@
-import { OperationalError } from "@shared/errors-core/exit"
+import { OperationalError } from "@akasha/errors-core/exit-code"
 import type { GmailClient } from "../gmail-client/gmail-client.module.code.ts"
 import { sendMessage } from "../gmail-messages/gmail-messages.module.code.ts"
 

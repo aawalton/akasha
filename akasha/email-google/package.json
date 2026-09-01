@@ -21,7 +21,7 @@
     "@akasha/email-inbound": "workspace:*",
     "@akasha/google-oauth": "workspace:*",
     "@googleapis/gmail": "^17.0.0",
-    "@shared/errors-core": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@shared/pages-query": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
