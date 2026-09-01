@@ -47,7 +47,7 @@ export const amyJennyUnreviewedWidget = {
     "The reading is taken on a workstation because a reading is never committed, and the store writes only what it commits.",
     "A package under akasha may depend on one standing outside it, and several already do, so an outside dependency is no reason to hold a move back.",
     "An akasha deploy names one thing, reads what it is made of from its page, refuses what is ambiguous, and does nothing already done.",
-    "Deploys are broken today, so an intent naming a site or an app being put up is about that rather than about anything being written.",
+    "A deploy is gated on the tracked tree installing rather than the worktree, since a manifest stands on disk and not in git and passes every check run here.",
     "Nothing waits on Alan: a question for him becomes a finding with the call taken in his absence, and the work carries on.",
     "No act on this initiative is out of reach, deploys to the cluster included; only permanently deleting the repository is refused.",
     "Work runs in parallel through subagents wherever it can, twenty at once at the most.",
