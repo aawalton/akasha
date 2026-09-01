@@ -1,6 +1,7 @@
 "use client"
 
 import { DndContext, DragOverlay, useDraggable } from "@dnd-kit/core"
+import { getEsoDayStr } from "@shared/day"
 import { Badge } from "@shared/design-badges/components/badge"
 import { Button } from "@shared/design-primitives/components/button"
 import { FilterableList, FilterableListItem } from "@shared/design-primitives/components/filterable-list"
@@ -8,7 +9,6 @@ import { Heading } from "@shared/design-primitives/components/heading"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { buildMonthGrid, CALENDAR_WEEKDAY_LABELS, monthKeyOf, shiftMonth } from "@shared/pages-core/view/calendar-grid"
-import { getEsoDayStr } from "../../../../day/day.ts"
 import { Calendar as CalendarIcon, ChevronLeft, ChevronRight } from "lucide-react"
 import {
   type KeyboardEvent as ReactKeyboardEvent,

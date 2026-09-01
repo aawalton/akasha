@@ -1,5 +1,6 @@
 "use client"
 
+import { getEsoDayStr } from "@shared/day"
 import { Badge } from "@shared/design-badges/components/badge"
 import { Button } from "@shared/design-primitives/components/button"
 import { Input } from "@shared/design-primitives/components/input"
@@ -7,7 +8,6 @@ import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitiv
 import type { PropertyDefinition } from "@shared/pages-core/types"
 import { labelRrule } from "@shared/recurrence/labeling"
 import { parseRecurringText } from "@shared/recurrence/parsing"
-import { getEsoDayStr } from "../../../../day/day.ts"
 import { getOccurrenceAtOrAfter } from "@shared/recurrence/scheduling"
 import { useId, useState } from "react"
 
