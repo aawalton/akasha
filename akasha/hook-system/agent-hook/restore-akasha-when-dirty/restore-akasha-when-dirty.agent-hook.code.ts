@@ -20,7 +20,7 @@ const MOVED = " -> "
 
 const WAITED = 5000
 
-export type Standing = {
+export type Dirty = {
   readonly code: string
   readonly path: string
 }
@@ -29,8 +29,8 @@ function unquoted(said: string): string {
   return said.startsWith('"') && said.endsWith('"') ? said.slice(1, -1) : said
 }
 
-export function standingIn(said: string): readonly Standing[] {
-  const found: Standing[] = []
+export function standingIn(said: string): readonly Dirty[] {
+  const found: Dirty[] = []
   for (const line of said.split("\n")) {
     if (line.length < 4) continue
     const code = line.slice(0, 2).trim()
@@ -42,7 +42,7 @@ export function standingIn(said: string): readonly Standing[] {
   return found
 }
 
-export function dirtyIn(root: string): readonly Standing[] {
+export function dirtyIn(root: string): readonly Dirty[] {
   return standingIn(gitIn(root, ["status", "--porcelain", "--", GUARDED]))
 }
 
