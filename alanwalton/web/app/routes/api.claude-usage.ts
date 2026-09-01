@@ -34,10 +34,26 @@ type Reading<T> =
   | { readonly ok: true; readonly value: T }
   | { readonly ok: false; readonly why: string }
 
+// A MEAN OVER NO PAGE IS NO PERCENTAGE RATHER THAN ZERO. `claude-accounts-mean-weekly-used`
+// reduces over `effective-seven-day-percent-used`, a derived property deleted with the
+// claude-account page type at `54ee772b64`. It still matches every account the store holds and
+// still answers `over: 0`, because what it reduces over is declared `uncommitted` and stands in
+// the file beside each account's page rather than in the commit the store is written from. Reading
+// that `0` as `avgUsedPct: 0` drew Alan a fleet that had spent nothing, which is a claim about his
+// capacity rather than the absence it is. Refusing is what puts the true state on the tile: the
+// widget reads anything but 200 as unreachable, falls back to its last known reading, and draws
+// `—` where it holds none.
 function meanUsedPct(asked: Asked): Reading<number> {
   if (!asked.ok) return { ok: false, why: asked.why }
-  const { value, over } = asked.answer
-  if (over === null || over === 0) return { ok: true, value: 0 }
+  const { n, value, over } = asked.answer
+  if (over === null || over === 0) {
+    return {
+      ok: false,
+      why:
+        `\`${MEAN_WEEKLY_USED}\` matched ${n} page(s) and took its mean over ${over ?? "no"} ` +
+        "of them, so what the fleet has spent is unread rather than nothing",
+    }
+  }
   if (value === null) {
     return {
       ok: false,
@@ -76,7 +92,7 @@ function tierFor(sevenDayEndsAt: number | null, nowMs: number): UsageTier {
 }
 
 const UNANSWERED =
-  "the page query service did not answer, so this route holds no usage to report; a payload of nulls and zeroes would read to the widget as accounts with nothing pending"
+  "the usage this route reports went unread, so there is none to report; a payload of nulls and zeroes would read to the widget as a fleet that has spent nothing with nothing pending"
 
 export function buildClaudeUsageResponse(answers: ClaudeUsageAnswers, nowMs: number): Response {
   const avgUsedPct = meanUsedPct(answers.meanWeeklyUsed)
