@@ -3,8 +3,15 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./action-verbs/action-verb-registry": "./action-verbs/action-verb-registry/action-verb-registry.module.code.ts",
     "./app-version/app-version-check": "./app-version/app-version-check/app-version-check.module.code.ts",
     "./app-version/use-app-version-check": "./app-version/use-app-version-check/use-app-version-check.module.code.ts",
+    "./block-editor/block-type-helpers": "./block-editor/block-type-helpers/block-type-helpers.module.code.ts",
+    "./block-editor/save-queue": "./block-editor/save-queue/save-queue.module.code.ts",
+    "./block-editor/use-block-collapse": "./block-editor/use-block-collapse/use-block-collapse.module.code.ts",
+    "./block-editor/use-coarse-pointer": "./block-editor/use-coarse-pointer/use-coarse-pointer.module.code.ts",
+    "./block-editor/use-keyboard-inset": "./block-editor/use-keyboard-inset/use-keyboard-inset.module.code.ts",
+    "./cache/boot-gate": "./cache/boot-gate/boot-gate.module.code.ts",
     "./capabilities/capability-hosts": "./capabilities/capability-hosts/capability-hosts.module.code.tsx",
     "./capabilities/page-display-registry": "./capabilities/page-display-registry/page-display-registry.module.code.ts",
     "./components/chrome-toggle-decider": "./components/chrome-toggle-decider/chrome-toggle-decider.module.code.ts",
@@ -31,13 +38,20 @@
     "./components/reader-prose": "./components/reader-prose/reader-prose.module.code.ts",
     "./components/reader-typography": "./components/reader-typography/reader-typography.module.code.ts",
     "./components/resolve-listing-config": "./components/resolve-listing-config/resolve-listing-config.module.code.ts",
+    "./components/use-overflow-fade": "./components/use-overflow-fade/use-overflow-fade.module.code.ts",
+    "./cover-click/cover-click-registry": "./cover-click/cover-click-registry/cover-click-registry.module.code.ts",
+    "./frame/frame-config": "./frame/frame-config/frame-config.module.code.ts",
     "./frame/viewport-thresholds": "./frame/viewport-thresholds/viewport-thresholds.module.code.ts",
     "./media/is-webkit": "./media/is-webkit/is-webkit.module.code.ts",
     "./media/media-renditions": "./media/media-renditions/media-renditions.module.code.ts",
     "./media/media-src": "./media/media-src/media-src.module.code.ts",
     "./media/media-token": "./media/media-token/media-token.module.code.ts",
+    "./media/native-tts-adapter": "./media/native-tts-adapter/native-tts-adapter.module.code.ts",
     "./media/resolve-active-sentence": "./media/resolve-active-sentence/resolve-active-sentence.module.code.ts",
-    "./media/use-shell-media-src": "./media/use-shell-media-src/use-shell-media-src.module.code.ts"
+    "./media/use-shell-media-src": "./media/use-shell-media-src/use-shell-media-src.module.code.ts",
+    "./reorder-verbs/reorder-verb-registry": "./reorder-verbs/reorder-verb-registry/reorder-verb-registry.module.code.ts",
+    "./supabase/collect-related-ids": "./supabase/collect-related-ids/collect-related-ids.module.code.ts",
+    "./supabase/record-view-staleness": "./supabase/record-view-staleness/record-view-staleness.module.code.ts"
   },
   "peerDependencies": {
     "react": "^18 || ^19"
