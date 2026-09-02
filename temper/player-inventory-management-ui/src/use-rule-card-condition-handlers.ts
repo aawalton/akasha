@@ -2,14 +2,14 @@
 
 import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import type { InventoryLocationConditionId } from "@akasha/temper-items-core/location-condition"
-import type { ComparisonOpId } from "@temper/game-items-rules-core/filters/comparison-op-data"
-import { LOCATION_OPTIONS } from "@temper/game-items-rules-core/filters/location-filter"
-import type { RequiredCurseStateCondition } from "@temper/game-items-rules-core/filters/required-curse-state-filter-types"
+import type { ComparisonOpId } from "@akasha/temper-items-rules-core/comparison-op-data"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { LOCATION_OPTIONS } from "@akasha/temper-items-rules-core/location-filter"
+import type { RequiredCurseStateCondition } from "@akasha/temper-items-rules-core/required-curse-state-filter-types"
 import type {
   RequiredSkillLinesCondition,
   RequiredSkillLinesMode,
-} from "@temper/game-items-rules-core/filters/required-skill-lines-filter-types"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/required-skill-lines-filter-types"
 import { patchConditions } from "./rule-card-conditions/patch"
 
 export function useConditionHandlers(
