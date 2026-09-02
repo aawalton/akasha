@@ -1,11 +1,11 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { BOOK_ID } from "@temper/shared-addon-libraries-lib-treasure/src/data/book-id-data.ts"
-import { ALL_DATA } from "@temper/shared-addon-libraries-lib-treasure/src/generated/treasure-pins-data.generated.ts"
-import { icons } from "@temper/shared-addon-libraries-lib-treasure/src/icons.ts"
-import type { AllData } from "@temper/shared-addon-libraries-lib-treasure/src/types.ts"
-import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { BOOK_ID } from "@akasha/temper-lib-treasure/treasure-book-ids"
+import { ICONS } from "@akasha/temper-lib-treasure/treasure-icons"
+import { ALL_DATA } from "@akasha/temper-lib-treasure/treasure-pins-data"
+import type { AllData } from "@akasha/temper-lib-treasure/treasure-types"
+import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { PortMismatch } from "../libraries.ts"
 
 const SOURCE_DIR = join(addonsDir(), "LibTreasure")
@@ -87,7 +87,7 @@ export async function verify(): Promise<void> {
 
     assertEqual("ALL_DATA", ALL_DATA, raw.allData)
     assertEqual("BOOK_ID", BOOK_ID, raw.bookId)
-    assertEqual("icons", icons, raw.icons)
+    assertEqual("icons", ICONS, raw.icons)
 
     const tsCounts = derivedCounts(ALL_DATA)
     const upItemIds = Object.keys(upItemsData).length

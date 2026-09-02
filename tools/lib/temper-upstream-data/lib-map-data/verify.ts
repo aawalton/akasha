@@ -1,10 +1,8 @@
 import { join } from "node:path"
-import {
-  MAP_DATA,
-  PSEUDO_MAP_INDICES,
-} from "@temper/shared-addon-libraries-lib-map-data/src/generated/map-data.generated.ts"
-import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { PSEUDO_MAP_INDICES } from "@akasha/temper-lib-map-data/map-data-pseudo-indices"
+import { MAP_DATA } from "@akasha/temper-lib-map-data/map-data-table"
+import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { diff, dumpJsWalk, LUA_DUMP } from "../leaf-dump.ts"
 import { PortMismatch } from "../libraries.ts"
 

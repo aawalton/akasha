@@ -1,16 +1,12 @@
 import { join } from "node:path"
-import { naLibraryData } from "@temper/game-housing-addon/src/ptf/data/generated/library-data-na.generated.ts"
-import { euLibraryData } from "@temper/game-housing-addon/src/ptf/data/generated/library-data.generated.ts"
-import type { LibraryEntry } from "@temper/game-housing-addon/src/ptf/types.ts"
-import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { EU_LIBRARY_DATA } from "@akasha/temper-housing-addon/housing-library-data-eu"
+import { NA_LIBRARY_DATA } from "@akasha/temper-housing-addon/housing-library-data-na"
+import type { LibraryEntry } from "@akasha/temper-housing-addon/housing-types"
+import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { PortMismatch } from "../libraries.ts"
 
-const UPSTREAM_PATH = join(
-  addonsDir(),
-  "PortToFriendsHouse",
-  "PortToFriendsHouseLibraryData.lua"
-)
+const UPSTREAM_PATH = join(addonsDir(), "PortToFriendsHouse", "PortToFriendsHouseLibraryData.lua")
 
 const FILTER_IDS: Record<string, number> = {
   FILTER_ID_NONE: 1,
@@ -119,8 +115,8 @@ export async function verify(): Promise<void> {
     const euUpstream = parseEntries(await vm.run("return PortToFriend.libData.euData"), "euData")
     const naUpstream = parseEntries(await vm.run("return PortToFriend.libData.naData"), "naData")
 
-    failures += compare("euData", euUpstream, euLibraryData)
-    failures += compare("naData", naUpstream, naLibraryData)
+    failures += compare("euData", euUpstream, EU_LIBRARY_DATA)
+    failures += compare("naData", naUpstream, NA_LIBRARY_DATA)
   } finally {
     await vm.close()
   }

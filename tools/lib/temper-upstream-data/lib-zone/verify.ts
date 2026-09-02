@@ -1,11 +1,9 @@
 import { join } from "node:path"
-import { GEO_DATA_REFERENCE_TABLE } from "@temper/shared-addon-libraries-lib-zone/src/generated/geo-data.generated.ts"
-import {
-  PRELOADED_ZONE_NAMES,
-  PUBLIC_DUNGEON_MAP_IDS,
-} from "@temper/shared-addon-libraries-lib-zone/src/generated/zone-data.generated.ts"
-import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { GEO_DATA_REFERENCE_TABLE } from "@akasha/temper-lib-zone/zone-geo-data"
+import { PRELOADED_ZONE_NAMES } from "@akasha/temper-lib-zone/zone-names-data"
+import { PUBLIC_DUNGEON_MAP_IDS } from "@akasha/temper-lib-zone/zone-public-dungeon-map-ids"
+import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { diff, dumpJsWalk, LUA_DUMP } from "../leaf-dump.ts"
 import { PortMismatch } from "../libraries.ts"
 import { ESO_STUBS } from "./eso-stubs.ts"
