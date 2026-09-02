@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "The last web edges cleared at `e603fbf255`: `@temper/player-completion` has no importer outside its own 23 files, web typechecks 0 errors, and its denominator dropped 8. `ALL_OUTPUT_DIRS` is empty and the completion writes are deleted, proved by a recording writer. The 13 renderers and 9 tiers are gone; the catalog pages stay and the store answers them. Ablation waits only on the 37 recovered tests. `bun.lock` still lists the package.",
+        "Player-completion must NOT be ablated: 12 modules are live in the legacy with no akasha twin and no importer, so an importer-based readiness check finds the island closed and licenses removal. 26 of 37 deleted tests are recreated, 365 pass, 0 fail; the other 11 prove modules that have not crossed. Web edges cleared at `e603fbf255`. Lore-library now counts 6,590 books where the legacy counted 211 collections, a product change nothing recorded.",
     },
     {
       statement: "No part of temper is outside akasha.",
