@@ -789,6 +789,15 @@
         "@akasha/temper-formula-framework": "workspace:*",
       },
     },
+    "akasha/temper/temper-antiquities-addon": {
+      "name": "@akasha/temper-antiquities-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-bit-codec": {
       "name": "@akasha/temper-bit-codec",
       "dependencies": {
@@ -1286,8 +1295,11 @@
       "name": "@akasha/temper-items-rules-core",
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-character-build": "workspace:*",
+        "@akasha/temper-characters-equipment": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
+        "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
@@ -1449,12 +1461,16 @@
     "akasha/temper/temper-player-completion": {
       "name": "@akasha/temper-player-completion",
       "dependencies": {
+        "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-skill-morphs": "workspace:*",
+        "@akasha/temper-skill-morphs-access": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
@@ -2757,17 +2773,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-collections-antiquities-addon": {
-      "name": "@temper/game-collections-antiquities-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-narrow": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-combat-addon": {
       "name": "@temper/game-combat-addon",
       "version": "0.1.0",
@@ -3707,6 +3712,8 @@
 
     "@akasha/temper-alchemy": ["@akasha/temper-alchemy@workspace:akasha/temper/temper-alchemy"],
 
+    "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:akasha/temper/temper-antiquities-addon"],
+
     "@akasha/temper-bit-codec": ["@akasha/temper-bit-codec@workspace:akasha/temper/temper-bit-codec"],
 
     "@akasha/temper-build-metadata": ["@akasha/temper-build-metadata@workspace:akasha/temper/temper-build-metadata"],
@@ -4612,8 +4619,6 @@
     "@temper/game-codec": ["@temper/game-codec@workspace:temper/game-codec"],
 
     "@temper/game-collections-addon": ["@temper/game-collections-addon@workspace:temper/game-collections-addon"],
-
-    "@temper/game-collections-antiquities-addon": ["@temper/game-collections-antiquities-addon@workspace:temper/game-collections-antiquities-addon"],
 
     "@temper/game-combat-addon": ["@temper/game-combat-addon@workspace:temper/game-combat-addon"],
 

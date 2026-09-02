@@ -62,7 +62,6 @@
     "temper/game-characters-stats",
     "temper/game-codec",
     "temper/game-collections-addon",
-    "temper/game-collections-antiquities-addon",
     "temper/game-combat-addon",
     "temper/game-companions-core",
     "temper/game-companions-ui",
