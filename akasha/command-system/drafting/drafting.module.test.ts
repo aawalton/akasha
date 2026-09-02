@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
+import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
 import { blobsIn, bodyOf } from "../patching/patching.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { writing } from "../scratching/scratching.module.test-fixtures.ts"
@@ -81,12 +82,35 @@ test("a patch is rebased onto a commit that moved under the draft", () => {
   expect(blobsIn(patchIn(root, PAGE) ?? "").get(ONE)?.base).toBe(head)
 })
 
-test("a conflict refuses the draft and leaves the patch alone", () => {
+test("a line conflict is drafted into the patch as the body git marked", () => {
   const root = repoAt()
   drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
-  const was = patchIn(root, PAGE)
   landed(root, { [ONE]: swapped(TEN, "b", "X") })
   const said = drafted(root, PAGE, [{ path: TWO, was: null, body: "fresh\n" }])
+  if ("why" in said) throw new Error(said.why)
+  expect(said.clashed).toEqual([ONE])
+  expect(draftedBody(root, ONE)).toContain(CLASH_MARK)
+  expect(draftedBody(root, ONE)).toContain("B\n")
+  expect(draftedBody(root, ONE)).toContain("X\n")
+  expect(draftedBody(root, TWO)).toBe("fresh\n")
+})
+
+test("a conflict carried into the patch is named by every later draft", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
+  landed(root, { [ONE]: swapped(TEN, "b", "X") })
+  drafted(root, PAGE, [{ path: TWO, was: null, body: "fresh\n" }])
+  const said = drafted(root, PAGE, [{ path: TWO, was: "fresh\n", body: "fresher\n" }])
+  if ("why" in said) throw new Error(said.why)
+  expect(said.clashed).toEqual([ONE])
+})
+
+test("a conflict that is no line conflict refuses the draft", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [{ path: TWO, was: null, body: "mine\n" }])
+  const was = patchIn(root, PAGE)
+  landed(root, { [TWO]: "theirs\n" })
+  const said = drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
   expect("why" in said).toBe(true)
   expect(patchIn(root, PAGE)).toBe(was)
 })
@@ -97,7 +121,7 @@ test("a change reaching HEAD by another route leaves the patch", () => {
   drafted(root, PAGE, [{ path: ONE, was: TEN, body }])
   landed(root, { [ONE]: body })
   const said = drafted(root, PAGE, [])
-  expect(said).toEqual({ patch: null })
+  expect(said).toEqual({ patch: null, clashed: [] })
   expect(patchIn(root, PAGE)).toBeNull()
   expect(refs(root)).toBe("")
 })

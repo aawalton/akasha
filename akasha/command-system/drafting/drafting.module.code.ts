@@ -1,6 +1,6 @@
 import { keptPatch, patchAt } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
-import { mergedOnto } from "../body-merging/body-merging.module.code.ts"
+import { clashing, mergedOnto } from "../body-merging/body-merging.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import {
   blobsIn,
@@ -23,14 +23,20 @@ export type Draft = {
   readonly body: string | null
 }
 
-export type Drafted = { readonly patch: string | null } | { readonly why: string }
+export type Drafted =
+  | { readonly patch: string | null; readonly clashed: readonly string[] }
+  | { readonly why: string }
 
 export type Bodies = ReadonlyMap<
   string,
   { readonly was: string | null; readonly body: string | null }
 >
 
-export type Rebased = { readonly held: Bodies; readonly moved: readonly string[] }
+export type Rebased = {
+  readonly held: Bodies
+  readonly moved: readonly string[]
+  readonly clashed: readonly string[]
+}
 
 type Held = Map<string, { readonly was: string | null; readonly body: string | null }>
 
@@ -54,7 +60,16 @@ function merged(
   theirs: string | null
 ): { readonly body: string | null } | { readonly why: string } {
   const said = mergedOnto(bytesOf(base), bytesOf(mine), bytesOf(theirs))
-  return "why" in said ? said : { body: textOf(said.body) }
+  if (!("why" in said)) return { body: textOf(said.body) }
+  const marked = textOf(said.marked ?? null)
+  return marked === null ? { why: said.why } : { body: marked }
+}
+
+function clashedIn(held: Bodies): readonly string[] {
+  return [...held]
+    .filter(([, one]) => clashing(one.body))
+    .map(([path]) => path)
+    .sort()
 }
 
 function heldIn(root: string, patch: string | null): Held {
@@ -80,7 +95,7 @@ export function rebasedOnto(
     if ("why" in said) return { why: `${path} — ${said.why}` }
     next.set(path, { was: now, body: said.body })
   }
-  return { held: next, moved: moved.sort() }
+  return { held: next, moved: moved.sort(), clashed: clashedIn(next) }
 }
 
 function folded(held: Bodies, drafts: readonly Draft[]): Worked {
@@ -119,13 +134,14 @@ export function drafted(root: string, page: string, drafts: readonly Draft[]): D
       return patch
     }
     const next = patchOf(root, head, changesOf(then.held))
+    const clashed = clashedIn(then.held)
     if (next === "") {
       dropBlobs(root, at)
-      answer = { patch: null }
+      answer = { patch: null, clashed }
       return null
     }
     keepBlobs(root, at, next)
-    answer = { patch: next }
+    answer = { patch: next, clashed }
     return next
   })
   return took ? answer : { why: NO_PAGE }

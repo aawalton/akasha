@@ -47,11 +47,23 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A conflict refuses the draft.",
+      statement: "A line conflict is drafted into the patch as the body git marked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A conflict that is no line conflict refuses the draft.",
     },
     {
       invariantKind: "departure",
       statement: "A draft refused leaves the patch unchanged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft says which paths the patch carries a conflict at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path carrying a conflict from an earlier draft is named again.",
     },
     {
       invariantKind: "departure",
@@ -84,10 +96,6 @@ export const drafting = {
     {
       invariantKind: "absence",
       statement: "Nothing here commits.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A conflict is carried into the patch where the agent resolves the conflict.",
     },
   ],
 } as const satisfies Module
