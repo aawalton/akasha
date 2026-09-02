@@ -11,12 +11,12 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "133 pages and 778 session rows, every one already in a sidecar. Blocked on the entries read path, which does not exist and is being built. Alan decided: re-mint the 30 uuid version 5 page ids, and prefix the date slugs as `day-2026-03-05`, since `20260305` is no TypeScript identifier at all. `tracking edit` and `delete` go blind to a migrated day and would keep writing new days to the old place, so they are rewritten in the same landing. Fidelity is value-for-value, not bytes.",
+        "133 day pages and 778 session rows, each already in a sidecar. The entries read path does not exist yet and is being built; the migration is prepared beside it and lands after, so no row is ever write-only. Decided: re-mint the 30 uuid version 5 ids, and prefix date slugs as `day-2026-03-05`, since `20260305` is no identifier. `tracking edit` and `delete` go blind to a migrated day and would keep writing to the old place, so they are rewritten in the same landing.",
     },
     {
       statement: "Alan's and Jenny's iOS apps ship to TestFlight from an akasha command.",
       workingMemory:
-        "`akasha deploy {slug}` dispatches on kind at `0f87959daf`: a web slug plans, an ios slug refuses by name, 762 tests pass, and the web body was proved extracted verbatim by diff. Parity of the akasha mobile-cli was measured rather than asserted at `cc9e269838` and `d25ce2c766`: 27 modules, 223 tests, two regressions found and fixed. Lanes: the repoint proved by a --no-upload validate, deploy refusing what origin lacks, daily-tracking entries, marketing version.",
+        "`akasha deploy {slug}` dispatches on kind at `0f87959daf`, and at `9b20ee92e9` refuses a commit `origin/main` does not carry rather than pushing it, naming the push that would land it. The repoint onto `@akasha/mobile-cli` is proved by Apple itself: a validate carrying no upload returned VERIFY SUCCEEDED at exit 0, 199 chosen and thrown away, the counter still 198. Parity was measured at `cc9e269838` and `d25ce2c766`: 27 modules, 223 tests, two regressions found and fixed.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
