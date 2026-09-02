@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "The entries read path landed at `2a426e510e` and `ce165a80d2`, so a migrated row is readable, and `entries: true` died in favour of the property's own page type at `391e75bc4b`. 133 day pages and 778 session rows, each already in a sidecar. Three lanes run: the write verbs funnelled through one place, a checker proving every value round-trips, and the converter. Decided: re-mint the 30 uuid version 5 ids, and prefix date slugs as `day-2026-03-05`.",
+        "133 day pages and 778 session rows, but only 64 sidecars: 69 days carry no sessions file. The entries read path landed at `2a426e510e`; the write funnel at `2f5978b54d`, so every day write asks one module where a day lives. Correction: `edit` and `delete` would have thrown rather than gone blind; the silent half was `resolveOrCreateDaily` minting a duplicate markdown day. Decided: re-mint the 30 uuid version 5 ids, and prefix slugs `day-2026-03-05`.",
     },
     {
       statement: "Alan's and Jenny's iOS apps ship to TestFlight from an akasha command.",
