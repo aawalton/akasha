@@ -4,7 +4,7 @@ export const watcherAuth = {
   id: "01a063c7-b010-7ea2-b91f-d479e832a8a3",
   pageTypeSlug: "module",
   slug: "watcher-auth",
-  definition: "the link between the watcher on this workstation and Alan's temper account",
+  definition: "how Alan signs the watcher in through a browser",
   code: "ts",
   test: "ts",
   invariants: [
@@ -43,6 +43,14 @@ export const watcherAuth = {
     },
     {
       invariantKind: "departure",
+      statement: "The local server answers the callback path alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The local server listens on the loopback address rather than on every address.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A sign-in state is sixteen random bytes written as hex.",
     },
     {
@@ -68,41 +76,12 @@ export const watcherAuth = {
     },
     {
       invariantKind: "departure",
-      statement: "Reading and writing the config file goes through a store the caller may hand in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The directory the config file sits in comes from the watcher paths module.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The directory the config file sits in is named rather than read off the file path.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The config file is readable by its owner alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The config file lands whole or not at all.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A config file that will not parse reads as no config.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A key of the config file the watcher does not know is kept on a write.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A key of the config file the watcher does not know is left out of a read.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The timeout message counts its minutes off the timeout rather than naming a fixed number.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The timeout is dropped once a sign-in is accepted.",
     },
     {
       invariantKind: "absence",
@@ -110,7 +89,7 @@ export const watcherAuth = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here decides which directory the watcher keeps its files in.",
+      statement: "Nothing here writes the session that comes back to a file.",
     },
   ],
 } as const satisfies Module

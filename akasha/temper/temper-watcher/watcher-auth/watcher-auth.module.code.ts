@@ -1,20 +1,11 @@
 import { randomBytes } from "node:crypto"
-import { existsSync, mkdirSync, readFileSync } from "node:fs"
 import { createServer, type Server } from "node:http"
-import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
 import { z } from "zod"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"
-import { type PathOpts, watcherConfigDir } from "../watcher-paths/watcher-paths.module.code.ts"
 
 type Env = Readonly<Record<string, string | undefined>>
 
-export const SESSION_STORAGE_KEY = "temper-watcher-session"
-
 export const DEFAULT_SERVER_URL = "https://tempereso.com"
-
-export const CONFIG_FILE_NAME = "config.json"
-
-export const CONFIG_FILE_MODE = 0o600
 
 export const STATE_BYTES = 16
 
@@ -44,89 +35,13 @@ export const WAITING_MESSAGE = "Waiting for authorization..."
 
 export const NO_LOCAL_SERVER = "Failed to start local auth server"
 
-const CONFIG_SHAPE = z
-  .object({
-    [SESSION_STORAGE_KEY]: z.string().optional(),
-    serverUrl: z.string().optional(),
-  })
-  .passthrough()
-
 export interface PersistedSession {
   access_token: string
   refresh_token: string
 }
 
-export interface SessionConfig {
-  "temper-watcher-session"?: string
-  serverUrl: string
-}
-
-export interface ConfigStore {
-  readonly dir: () => string
-  readonly exists: (path: string) => boolean
-  readonly readText: (path: string) => string
-  readonly makeDir: (path: string) => undefined
-  readonly writeText: (path: string, body: string) => undefined
-}
-
 export function serverUrlFromEnv(env: Env = process.env): string {
   return z.string().default(DEFAULT_SERVER_URL).parse(env.TEMPER_SERVER_URL)
-}
-
-export function configPathIn(dir: string): string {
-  return `${dir}/${CONFIG_FILE_NAME}`
-}
-
-export function diskConfigStore(opts?: PathOpts): ConfigStore {
-  return {
-    dir: () => watcherConfigDir(opts),
-    exists: (path) => existsSync(path),
-    readText: (path) => readFileSync(path, "utf-8"),
-    makeDir: (path) => {
-      mkdirSync(path, { recursive: true })
-      return
-    },
-    writeText: (path, body) => writeFileAtomicSync(path, body, { mode: CONFIG_FILE_MODE }),
-  }
-}
-
-export function getConfigPath(store: ConfigStore = diskConfigStore()): string {
-  return configPathIn(store.dir())
-}
-
-function heldAt(store: ConfigStore, path: string): Record<string, unknown> | null {
-  if (!store.exists(path)) return null
-  try {
-    return CONFIG_SHAPE.parse(JSON.parse(store.readText(path)))
-  } catch {
-    return null
-  }
-}
-
-export function loadConfig(
-  store: ConfigStore = diskConfigStore(),
-  fallbackServerUrl: string = serverUrlFromEnv()
-): SessionConfig | null {
-  const held = heldAt(store, configPathIn(store.dir()))
-  if (held === null) return null
-  const session = held[SESSION_STORAGE_KEY]
-  const serverUrl = held.serverUrl
-  return {
-    [SESSION_STORAGE_KEY]: typeof session === "string" ? session : undefined,
-    serverUrl: typeof serverUrl === "string" ? serverUrl : fallbackServerUrl,
-  }
-}
-
-export function saveConfig(
-  updates: Partial<SessionConfig>,
-  store: ConfigStore = diskConfigStore()
-): undefined {
-  const dir = store.dir()
-  const path = configPathIn(dir)
-  if (!store.exists(dir)) store.makeDir(dir)
-  const merged = { ...(heldAt(store, path) ?? {}), ...updates }
-  store.writeText(path, JSON.stringify(merged, null, 2))
-  return
 }
 
 export type CallbackDecision =

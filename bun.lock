@@ -2981,7 +2981,6 @@
         "@akasha/web-static-assets": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "@infra/k8s-types": "workspace:*",
-        "@temper/player-completion": "workspace:*",
         "class-variance-authority": "^0.7.1",
         "isbot": "^5.1.36",
         "katex": "^0.16.28",

@@ -1,31 +1,21 @@
 import { describe, expect, test } from "bun:test"
-import { existsSync, mkdtempSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 import {
   AUTH_TIMEOUT_MS,
-  CONFIG_FILE_MODE,
-  type ConfigStore,
-  configPathIn,
   DEFAULT_SERVER_URL,
   decideCallbackResponse,
-  diskConfigStore,
-  getConfigPath,
   isCallbackPath,
-  loadConfig,
   looksLikeSignInState,
   MISSING_TOKENS_BODY,
   openLinkMessage,
   openNothing,
   randomSignInState,
-  SESSION_STORAGE_KEY,
   STATE_MISMATCH_BODY,
-  saveConfig,
   serverUrlFromEnv,
   signInLinkUrl,
   timedOutMessage,
   WAITING_MESSAGE,
 } from "./watcher-auth.module.code.ts"
 
-const SCRATCH_AT = "/var/tmp"
 const STATE = "0123456789abcdef"
 const SERVER = "https://tempereso.com"
 
@@ -47,30 +37,6 @@ function decide(over: Record<string, string | null> = {}) {
     expectedState: STATE,
     serverUrl: SERVER,
   })
-}
-
-function fakeStore(seed?: string) {
-  const dir = `${SCRATCH_AT}/watcher-auth-nowhere`
-  const files = new Map<string, string>()
-  const made: string[] = []
-  if (seed !== undefined) {
-    files.set(configPathIn(dir), seed)
-    made.push(dir)
-  }
-  const store: ConfigStore = {
-    dir: () => dir,
-    exists: (path) => files.has(path) || made.includes(path),
-    readText: (path) => files.get(path) ?? "",
-    makeDir: (path) => {
-      made.push(path)
-      return
-    },
-    writeText: (path, body) => {
-      files.set(path, body)
-      return
-    },
-  }
-  return { dir, store, files, made, bytes: () => files.get(configPathIn(dir)) }
 }
 
 describe("a successful callback returns the user to Temper", () => {
@@ -150,10 +116,6 @@ describe("a callback that cannot be trusted is refused, and says why", () => {
 })
 
 describe("what the legacy module was observed to produce", () => {
-  test("the session key is the one already written into config files", () => {
-    expect(SESSION_STORAGE_KEY).toBe("temper-watcher-session")
-  })
-
   test("both refusal pages are byte for byte what the legacy module sent", () => {
     expect(STATE_MISMATCH_BODY).toBe(
       "<html><body><h2>State mismatch. Please try again.</h2></body></html>"
@@ -178,76 +140,6 @@ describe("what the legacy module was observed to produce", () => {
 
   test("a server address set to an empty string is taken as that empty address", () => {
     expect(serverUrlFromEnv({ TEMPER_SERVER_URL: "" })).toBe("")
-  })
-
-  test("the config file sits directly under the config directory", () => {
-    const { store, dir } = fakeStore()
-    expect(getConfigPath(store)).toBe(`${dir}/config.json`)
-  })
-
-  test("a config file that is not there reads as no config", () => {
-    expect(loadConfig(fakeStore().store, SERVER)).toBeNull()
-  })
-
-  test("a first save writes two spaces of indent and no trailing newline", () => {
-    const f = fakeStore()
-    saveConfig({ [SESSION_STORAGE_KEY]: "sess-1" }, f.store)
-    expect(f.bytes()).toBe('{\n  "temper-watcher-session": "sess-1"\n}')
-  })
-
-  test("a later save merges into what the file already held", () => {
-    const f = fakeStore('{\n  "temper-watcher-session": "sess-1"\n}')
-    saveConfig({ serverUrl: "https://other.test" }, f.store)
-    expect(f.bytes()).toBe(
-      '{\n  "temper-watcher-session": "sess-1",\n  "serverUrl": "https://other.test"\n}'
-    )
-  })
-
-  test("a read fills in the server address the file left out", () => {
-    const f = fakeStore('{"temper-watcher-session":"sess-1"}')
-    expect(loadConfig(f.store, SERVER)).toEqual({
-      "temper-watcher-session": "sess-1",
-      serverUrl: SERVER,
-    })
-  })
-
-  test("a read always carries the session key even where the file holds none", () => {
-    const f = fakeStore('{"extra":1}')
-    expect(Object.keys(loadConfig(f.store, SERVER) ?? {})).toEqual([
-      "temper-watcher-session",
-      "serverUrl",
-    ])
-  })
-
-  test("a key the watcher does not know is left out of a read", () => {
-    const f = fakeStore('{"extra":1,"nested":{"a":2}}')
-    expect(loadConfig(f.store, SERVER)).toEqual({
-      "temper-watcher-session": undefined,
-      serverUrl: SERVER,
-    })
-  })
-
-  test("a key the watcher does not know is kept on a write", () => {
-    const f = fakeStore('{"extra":1,"nested":{"a":2}}')
-    saveConfig({ serverUrl: "https://z.test" }, f.store)
-    expect(f.bytes()).toBe(
-      '{\n  "extra": 1,\n  "nested": {\n    "a": 2\n  },\n  "serverUrl": "https://z.test"\n}'
-    )
-  })
-
-  test.each([
-    ["text that is no json", "not json at all"],
-    ["an empty file", ""],
-    ["a json array", "[]"],
-    ["a server address that is no string", '{"serverUrl":5}'],
-  ])("%s reads as no config", (_name, body) => {
-    expect(loadConfig(fakeStore(body).store, SERVER)).toBeNull()
-  })
-
-  test("a save over a file that will not parse drops what would not parse", () => {
-    const f = fakeStore("not json at all")
-    saveConfig({ [SESSION_STORAGE_KEY]: "sess-2" }, f.store)
-    expect(f.bytes()).toBe('{\n  "temper-watcher-session": "sess-2"\n}')
   })
 
   test("the sign-in link is byte for byte what the legacy module opened", () => {
@@ -298,69 +190,5 @@ describe("what this recreation was written to mean", () => {
 
   test("a caller handing in no way to open a link opens nothing", () => {
     expect(openNothing()).toBeUndefined()
-  })
-
-  test("the directory is made only where the directory is not there", () => {
-    const bare = fakeStore()
-    saveConfig({ serverUrl: SERVER }, bare.store)
-    expect(bare.made).toEqual([bare.dir])
-
-    const seeded = fakeStore("{}")
-    saveConfig({ serverUrl: SERVER }, seeded.store)
-    expect(seeded.made).toEqual([seeded.dir])
-  })
-
-  test("no read or write here reaches a path the caller did not name", () => {
-    const f = fakeStore()
-    saveConfig({ [SESSION_STORAGE_KEY]: "s" }, f.store)
-    expect([...f.files.keys()]).toEqual([configPathIn(f.dir)])
-  })
-})
-
-describe("the store the watcher uses when the caller hands in none", () => {
-  test("a config file lands readable by its owner alone", () => {
-    const dir = mkdtempSync(`${SCRATCH_AT}/watcher-auth-`)
-    try {
-      const store = diskConfigStore({ platform: "linux", env: { WATCHER_CONFIG_DIR: dir } })
-      expect(getConfigPath(store)).toBe(`${dir}/config.json`)
-      expect(loadConfig(store, SERVER)).toBeNull()
-
-      saveConfig({ [SESSION_STORAGE_KEY]: "sess-1" }, store)
-      const path = getConfigPath(store)
-      expect(readFileSync(path, "utf-8")).toBe('{\n  "temper-watcher-session": "sess-1"\n}')
-      expect(statSync(path).mode & 0o777).toBe(CONFIG_FILE_MODE)
-      expect(loadConfig(store, SERVER)).toEqual({
-        "temper-watcher-session": "sess-1",
-        serverUrl: SERVER,
-      })
-    } finally {
-      rmSync(dir, { recursive: true, force: true })
-    }
-  })
-
-  test("a config directory that is not there yet is made on the first save", () => {
-    const parent = mkdtempSync(`${SCRATCH_AT}/watcher-auth-`)
-    const dir = `${parent}/deeper/still`
-    try {
-      const store = diskConfigStore({ platform: "linux", env: { WATCHER_CONFIG_DIR: dir } })
-      expect(existsSync(dir)).toBe(false)
-      saveConfig({ serverUrl: SERVER }, store)
-      expect(readFileSync(getConfigPath(store), "utf-8")).toBe(
-        '{\n  "serverUrl": "https://tempereso.com"\n}'
-      )
-    } finally {
-      rmSync(parent, { recursive: true, force: true })
-    }
-  })
-
-  test("a config file left half written by hand reads as no config", () => {
-    const dir = mkdtempSync(`${SCRATCH_AT}/watcher-auth-`)
-    try {
-      const store = diskConfigStore({ platform: "linux", env: { WATCHER_CONFIG_DIR: dir } })
-      writeFileSync(configPathIn(dir), '{"temper-watcher-session":')
-      expect(loadConfig(store, SERVER)).toBeNull()
-    } finally {
-      rmSync(dir, { recursive: true, force: true })
-    }
   })
 })

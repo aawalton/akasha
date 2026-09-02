@@ -63,6 +63,7 @@ export const temperWatcher = {
     "module/watcher-dispatch-handling",
     "module/watcher-dispatch",
     "module/watcher-supabase-session",
+    "module/watcher-session-file",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],
