@@ -1,0 +1,18 @@
+{
+  "name": "@akasha/temper-lib-data-encode",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./data-encode-surface": "./data-encode-surface/data-encode-surface.module.code.ts",
+    "./data-encode-encoder": "./data-encode-encoder/data-encode-encoder.module.code.ts",
+    "./data-encode-decoder": "./data-encode-decoder/data-encode-decoder.module.code.ts",
+    "./data-encode-dictionary": "./data-encode-dictionary/data-encode-dictionary.module.code.ts",
+    "./data-encode-charset": "./data-encode-charset/data-encode-charset.module.code.ts",
+    "./data-encode-casts": "./data-encode-casts/data-encode-casts.module.code.ts",
+    "./data-encode-runtime": "./data-encode-runtime/data-encode-runtime.module.code.ts",
+    "./data-encode-self-test": "./data-encode-self-test/data-encode-self-test.module.code.ts",
+    "./data-encode-types": "./data-encode-types/data-encode-types.module.code.ts",
+    "./data-encode-declarations": "./data-encode-declarations/data-encode-declarations.module.code.ts",
+    "./data-encode-entry": "./data-encode-entry/data-encode-entry.module.code.ts"
+  }
+}
