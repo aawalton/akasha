@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "The bar exists and already carries all four: session and weekly usage, then upkeep and inbox glyphs, in `editor-extension/src/features/status-bar/slots.ts`. `fiveHourSpent` answers the ceiling where the seven-day figure is at it, so Alan's effective rule is already the code at `claude-account-measuring.module.code.ts:79-84`. His editor began 08-27 17:03, the bar went on three hours later at `40e40007eb`, and the numbers were mended 09-01 at `d4cea37e32`, so what he owes is a reload.",
+        "The bar already carries all four and `fiveHourSpent` already answers the effective rule Alan named, so what was owed was a reload — and a reload met `Bun is not defined`, from a transpiler built at import in `page-value`. Made lazy at `75cfe9da86`, and the same node import now answers OK. Alan has since ruled the markdown readout and widget pages ablated, migrating first anything the new system reads. Three lanes hold that, the bar's move, and whether the host can be bun.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
