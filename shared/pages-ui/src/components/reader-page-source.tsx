@@ -63,7 +63,7 @@ export interface ReaderPageSource {
   readonly ReaderHeaderMenu: (props: ReaderHeaderMenuProps) => ReactNode
 }
 
-export const onlineReaderPageSource: ReaderPageSource = {
+export const ONLINE_READER_PAGE_SOURCE: ReaderPageSource = {
   useReaderPageType: (targetSlug) => {
     const { pages } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
     const pageType = pages.find((pt) => pt.properties?.slug === targetSlug)
@@ -76,7 +76,7 @@ export const onlineReaderPageSource: ReaderPageSource = {
   ReaderHeaderMenu: PageDetailHeaderMenu,
 }
 
-const ReaderPageSourceContext = createContext<ReaderPageSource>(onlineReaderPageSource)
+const ReaderPageSourceContext = createContext<ReaderPageSource>(ONLINE_READER_PAGE_SOURCE)
 
 export function useReaderPageSource(): ReaderPageSource {
   return useContext(ReaderPageSourceContext)

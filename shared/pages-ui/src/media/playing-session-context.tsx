@@ -50,8 +50,6 @@ type PlayingSessionContextValue = {
   readonly subscribeTime: (listener: (currentTime: number) => void) => () => void
 }
 
-export type { MediaSrcResolver }
-
 const PlayingSessionContext = createContext<PlayingSessionContextValue | null>(null)
 
 export function usePlayingSession(): PlayingSessionContextValue {

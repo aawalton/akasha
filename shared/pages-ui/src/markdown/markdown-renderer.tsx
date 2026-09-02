@@ -3,6 +3,7 @@
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { cn } from "@akasha/design-primitives/cn"
+import type { ReactNode } from "react"
 import { useMemo } from "react"
 import type { Components } from "react-markdown"
 import ReactMarkdown from "react-markdown"
@@ -34,76 +35,79 @@ function spaceYForDepth(depthAttr: string | undefined): string {
   }
 }
 
-function makeDefaultComponents(surface: number): Components {
-  return {
-    section: ({ children, className, ...rest }) => {
-      const restRecord: Readonly<Record<string, unknown>> = rest
-      const depthAttr = asOptionalString(restRecord["data-depth"])
-      return (
-        <section className={cn(spaceYForDepth(depthAttr), className)} {...rest}>
-          {children}
-        </section>
-      )
-    },
-    h1: ({ children }) => <h1 className="font-bold text-lg text-primary">{children}</h1>,
-    h2: ({ children }) => <h2 className="font-bold text-base text-primary">{children}</h2>,
-    h3: ({ children }) => <h3 className="font-semibold text-primary text-sm">{children}</h3>,
-    p: ({ children }) => <p className="text-primary text-sm">{children}</p>,
-    ul: ({ children }) => <ul className="list-disc space-y-1 pl-4 text-sm">{children}</ul>,
-    ol: ({ children }) => <ol className="list-decimal space-y-1 pl-4 text-sm">{children}</ol>,
-    li: ({ children }) => <li className="text-primary">{children}</li>,
-    code: ({ className, children }) => {
-      const isBlock = className?.includes("language-")
-      if (isBlock) {
-        return <code className={className}>{children}</code>
-      }
-      return (
-        <code
-          className={cn(
-            "rounded px-1 py-0.5 font-mono text-primary text-xs",
-            surfaceClass(surface + 1)
-          )}
-        >
-          {children}
-        </code>
-      )
-    },
-    pre: ({ children }) => (
-      <pre
-        className={cn(
-          "whitespace-pre-wrap break-words rounded-md p-3 text-xs",
-          surfaceClass(surface + 1)
-        )}
-      >
-        {children}
-      </pre>
-    ),
-    blockquote: ({ children }) => (
-      <blockquote className="border-surface-3 border-l-2 pl-3 text-secondary italic">
-        {children}
-      </blockquote>
-    ),
-    a: ({ children, href }) => (
-      <a href={href} className="text-accent underline" target="_blank" rel="noopener noreferrer">
-        {children}
-      </a>
-    ),
-    table: ({ children }) => (
-      <div className="overflow-x-auto">
-        <table className="w-full text-sm">{children}</table>
-      </div>
-    ),
-    th: ({ children }) => (
-      <th className="border-surface-2 border-b px-2 py-1 text-left font-semibold text-primary">
-        {children}
-      </th>
-    ),
-    td: ({ children }) => (
-      <td className="border-surface-2 border-b px-2 py-1 text-primary">{children}</td>
-    ),
-    strong: ({ children }) => <strong className="font-semibold">{children}</strong>,
-    em: ({ children }) => <em className="italic">{children}</em>,
+function CodeSpan({ className, children }: { className?: string; children?: ReactNode }) {
+  const surface = useSurface()
+  const isBlock = className?.includes("language-")
+  if (isBlock) {
+    return <code className={className}>{children}</code>
   }
+  return (
+    <code
+      className={cn("rounded px-1 py-0.5 font-mono text-primary text-xs", surfaceClass(surface + 1))}
+    >
+      {children}
+    </code>
+  )
+}
+
+function PreBlock({ children }: { children?: ReactNode }) {
+  const surface = useSurface()
+  return (
+    <pre
+      className={cn(
+        "whitespace-pre-wrap break-words rounded-md p-3 text-xs",
+        surfaceClass(surface + 1)
+      )}
+    >
+      {children}
+    </pre>
+  )
+}
+
+const DEFAULT_COMPONENTS: Components = {
+  section: ({ children, className, ...rest }) => {
+    const restRecord: Readonly<Record<string, unknown>> = rest
+    const depthAttr = asOptionalString(restRecord["data-depth"])
+    return (
+      <section className={cn(spaceYForDepth(depthAttr), className)} {...rest}>
+        {children}
+      </section>
+    )
+  },
+  h1: ({ children }) => <h1 className="font-bold text-lg text-primary">{children}</h1>,
+  h2: ({ children }) => <h2 className="font-bold text-base text-primary">{children}</h2>,
+  h3: ({ children }) => <h3 className="font-semibold text-primary text-sm">{children}</h3>,
+  p: ({ children }) => <p className="text-primary text-sm">{children}</p>,
+  ul: ({ children }) => <ul className="list-disc space-y-1 pl-4 text-sm">{children}</ul>,
+  ol: ({ children }) => <ol className="list-decimal space-y-1 pl-4 text-sm">{children}</ol>,
+  li: ({ children }) => <li className="text-primary">{children}</li>,
+  code: CodeSpan,
+  pre: PreBlock,
+  blockquote: ({ children }) => (
+    <blockquote className="border-surface-3 border-l-2 pl-3 text-secondary italic">
+      {children}
+    </blockquote>
+  ),
+  a: ({ children, href }) => (
+    <a href={href} className="text-accent underline" target="_blank" rel="noopener noreferrer">
+      {children}
+    </a>
+  ),
+  table: ({ children }) => (
+    <div className="overflow-x-auto">
+      <table className="w-full text-sm">{children}</table>
+    </div>
+  ),
+  th: ({ children }) => (
+    <th className="border-surface-2 border-b px-2 py-1 text-left font-semibold text-primary">
+      {children}
+    </th>
+  ),
+  td: ({ children }) => (
+    <td className="border-surface-2 border-b px-2 py-1 text-primary">{children}</td>
+  ),
+  strong: ({ children }) => <strong className="font-semibold">{children}</strong>,
+  em: ({ children }) => <em className="italic">{children}</em>,
 }
 
 export function MarkdownRenderer({
@@ -117,8 +121,6 @@ export function MarkdownRenderer({
   components?: Components
   className?: string
 }) {
-  const surface = useSurface()
-
   const merged = useMemo<Components>(() => {
     const mentionComponent = {
       mention: (props: Record<string, unknown>) => (
@@ -130,8 +132,8 @@ export function MarkdownRenderer({
         />
       ),
     }
-    return { ...makeDefaultComponents(surface), ...mentionComponent, ...components }
-  }, [surface, resolver, components])
+    return { ...DEFAULT_COMPONENTS, ...mentionComponent, ...components }
+  }, [resolver, components])
 
   const rendered = useMemo(
     () => (

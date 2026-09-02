@@ -11,7 +11,7 @@ import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { PageCard } from "./page-card.tsx"
 import { PageCardNotes } from "./page-card-notes.tsx"
 import { pageRowToPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
-import { readRelationConfig } from "./page-system-view-helpers.tsx"
+import { readRelationConfig } from "@akasha/pages-ui-components/view-tab-content-href"
 import { buildRelationBackLinkHref, buildRowHref } from "@akasha/pages-ui-components/view-tab-content-href"
 
 interface PageCardRendererProps {

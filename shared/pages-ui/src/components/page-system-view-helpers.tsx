@@ -26,18 +26,6 @@ export function sortServerGrouped(
   return sortGroupedResults(serverGrouped, sorts, groupBy, properties, resolver)
 }
 
-export function readRelationConfig(
-  config: PropertyDefinition["config"]
-): { targetPageTypeId: string; backRelationPropertyId: string } | undefined {
-  if (!config || typeof config !== "object" || Array.isArray(config)) return undefined
-  const { targetPageTypeId, backRelationPropertyId } = config
-  if (typeof targetPageTypeId !== "string" || targetPageTypeId.length === 0) return undefined
-  if (typeof backRelationPropertyId !== "string" || backRelationPropertyId.length === 0) {
-    return undefined
-  }
-  return { targetPageTypeId, backRelationPropertyId }
-}
-
 export function PageViewEmpty({ title, description }: { title: string; description: string }) {
   return (
     <Empty>
