@@ -1,4 +1,4 @@
-export type AddonDataTarget = {
+export type AddonDataModuleTarget = {
   readonly rendered: string
   readonly workspacePackage: string
   readonly moduleSlug: string
@@ -6,13 +6,31 @@ export type AddonDataTarget = {
   readonly parts: number
 }
 
+export type AddonDataEntriesTarget = {
+  readonly rendered: string
+  readonly pageTypeSlug: string
+  readonly propertySlug: string
+}
+
+export type AddonDataTarget = AddonDataModuleTarget | AddonDataEntriesTarget
+
 export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
+  {
+    rendered: "achievement-data.generated.ts",
+    pageTypeSlug: "temper-achievement-category",
+    propertySlug: "achievements",
+  },
   {
     rendered: "alliance-mappings.generated.ts",
     workspacePackage: "temper-characters-capture-addon",
     moduleSlug: "character-capture-alliance-map",
     partPrefix: "character-capture-alliance-map",
     parts: 1,
+  },
+  {
+    rendered: "antiquity-data.generated.ts",
+    pageTypeSlug: "temper-antiquity-category",
+    propertySlug: "antiquities",
   },
   {
     rendered: "cadwell-data.generated.ts",
@@ -48,6 +66,11 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     moduleSlug: "character-capture-codec-constants",
     partPrefix: "character-capture-codec-constants",
     parts: 1,
+  },
+  {
+    rendered: "collectibles-data.generated.ts",
+    pageTypeSlug: "temper-collectible-category",
+    propertySlug: "collectibles",
   },
   {
     rendered: "companion-mappings.generated.ts",
@@ -127,6 +150,11 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     parts: 1,
   },
   {
+    rendered: "poi-data.generated.ts",
+    pageTypeSlug: "temper-world-zone",
+    propertySlug: "pois",
+  },
+  {
     rendered: "potion-mappings.generated.ts",
     workspacePackage: "temper-characters-capture-addon",
     moduleSlug: "character-capture-potion-map",
@@ -139,6 +167,11 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     moduleSlug: "potion-restore-resolve",
     partPrefix: "potion-restore-resolve",
     parts: 1,
+  },
+  {
+    rendered: "quest-data.generated.ts",
+    pageTypeSlug: "temper-world-zone",
+    propertySlug: "zone-quests",
   },
   {
     rendered: "scribing-mappings.generated.ts",
@@ -351,11 +384,21 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     parts: 1,
   },
   {
+    rendered: "trait-research-data.generated.ts",
+    pageTypeSlug: "temper-research-line",
+    propertySlug: "traits",
+  },
+  {
     rendered: "tribute-data.generated.ts",
     workspacePackage: "temper-player-completion",
     moduleSlug: "completion-tribute-data",
     partPrefix: "completion-tribute-data",
     parts: 1,
+  },
+  {
+    rendered: "zone-completion-data.generated.ts",
+    pageTypeSlug: "temper-world-zone",
+    propertySlug: "zone-completion-activities",
   },
 ]
 
@@ -367,7 +410,11 @@ export function partDigitsOf(parts: number): number {
   return Math.max(2, String(parts - 1).length)
 }
 
-export function partSlugsOf(target: AddonDataTarget): readonly string[] {
+export function landsAsEntries(target: AddonDataTarget): target is AddonDataEntriesTarget {
+  return "pageTypeSlug" in target
+}
+
+export function partSlugsOf(target: AddonDataModuleTarget): readonly string[] {
   if (target.parts === 1) return [target.moduleSlug]
   const width = partDigitsOf(target.parts)
   const held: string[] = []

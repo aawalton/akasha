@@ -1,13 +1,15 @@
 import { expect, test } from "bun:test"
 import {
   ADDON_DATA_TARGETS,
-  type AddonDataTarget,
+  type AddonDataEntriesTarget,
+  type AddonDataModuleTarget,
+  landsAsEntries,
   partDigitsOf,
   partSlugsOf,
   targetOf,
 } from "./addon-data-target.module.code.ts"
 
-const ONE: AddonDataTarget = {
+const ONE: AddonDataModuleTarget = {
   rendered: "a-table.generated.ts",
   workspacePackage: "a-package",
   moduleSlug: "a-module",
@@ -15,13 +17,21 @@ const ONE: AddonDataTarget = {
   parts: 1,
 }
 
-function withParts(parts: number): AddonDataTarget {
+function withParts(parts: number): AddonDataModuleTarget {
   return { ...ONE, parts }
 }
 
-function found(rendered: string): AddonDataTarget {
+function moduleRow(rendered: string): AddonDataModuleTarget {
   const one = targetOf(rendered)
   if (one === undefined) throw new Error(`no row names ${rendered}`)
+  if (landsAsEntries(one)) throw new Error(`${rendered} lands as entries`)
+  return one
+}
+
+function entriesRow(rendered: string): AddonDataEntriesTarget {
+  const one = targetOf(rendered)
+  if (one === undefined) throw new Error(`no row names ${rendered}`)
+  if (!landsAsEntries(one)) throw new Error(`${rendered} lands as a module`)
   return one
 }
 
@@ -54,7 +64,7 @@ test("every part of a series is named once", () => {
 })
 
 test("the gear set table is named as it is landed", () => {
-  const one = found("temper-set.generated.ts")
+  const one = moduleRow("temper-set.generated.ts")
   expect(one.moduleSlug).toBe("sets-all")
   expect(one.partPrefix).toBe("sets-data")
   expect(one.parts).toBe(124)
@@ -64,7 +74,7 @@ test("the gear set table is named as it is landed", () => {
 })
 
 test("the character skill table keeps two digits at eighty-five parts", () => {
-  const one = found("temper-skill.generated.ts")
+  const one = moduleRow("temper-skill.generated.ts")
   expect(one.parts).toBe(85)
   const held = partSlugsOf(one)
   expect(held[0]).toBe("character-skills-00")
@@ -78,4 +88,40 @@ test("no two rows name the same rendered table", () => {
 
 test("a rendered table no row names is not found", () => {
   expect(targetOf("no-such-table.generated.ts")).toBeUndefined()
+})
+
+test("a table landing as entries is told apart from one landing as a module", () => {
+  expect(landsAsEntries(entriesRow("collectibles-data.generated.ts"))).toBe(true)
+  expect(landsAsEntries(moduleRow("temper-set.generated.ts"))).toBe(false)
+  expect(landsAsEntries(ONE)).toBe(false)
+})
+
+test("a table landing as entries names the page type and the property carrying the entries", () => {
+  const one = entriesRow("collectibles-data.generated.ts")
+  expect(one.pageTypeSlug).toBe("temper-collectible-category")
+  expect(one.propertySlug).toBe("collectibles")
+})
+
+test("three tables land as entries on the world zone", () => {
+  const onZone = ADDON_DATA_TARGETS.filter(landsAsEntries).filter(
+    (one) => one.pageTypeSlug === "temper-world-zone"
+  )
+  expect(onZone.map((one) => one.propertySlug).sort()).toEqual([
+    "pois",
+    "zone-completion-activities",
+    "zone-quests",
+  ])
+})
+
+test("every row names a destination of one kind or the other", () => {
+  for (const one of ADDON_DATA_TARGETS) {
+    if (landsAsEntries(one)) {
+      expect(one.pageTypeSlug.length).toBeGreaterThan(0)
+      expect(one.propertySlug.length).toBeGreaterThan(0)
+    } else {
+      expect(one.moduleSlug.length).toBeGreaterThan(0)
+      expect(one.parts).toBeGreaterThan(0)
+    }
+  }
+  expect(ADDON_DATA_TARGETS.filter(landsAsEntries)).toHaveLength(7)
 })

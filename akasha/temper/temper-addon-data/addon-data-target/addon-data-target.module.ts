@@ -4,10 +4,23 @@ export const addonDataTarget = {
   id: "01a062a9-3f10-7de2-9a05-71c8bb3e4f27",
   pageTypeSlug: "module",
   slug: "addon-data-target",
-  definition: "the module a rendered table lands as, and how many parts it lands as",
+  definition: "where a rendered table lands, as a module's parts or as a page's entries",
   code: "ts",
   test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A rendered table lands as a module's parts or as a page's entries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A table landing as entries names the page type and the property carrying the entries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A table landing as entries names no module and no count of parts.",
+    },
     {
       invariantKind: "departure",
       statement: "A part slug is written with no fewer than two digits.",
