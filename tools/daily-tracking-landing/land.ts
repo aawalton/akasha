@@ -27,10 +27,10 @@ import { compareCorpora } from "../daily-tracking-fidelity/compare.ts"
 import { readAkashaPageCorpus, readMarkdownCorpus } from "../daily-tracking-fidelity/read-corpus.ts"
 import { type Converted, convertDay, refused } from "../daily-tracking-migration/convert.ts"
 import { readDays } from "../daily-tracking-migration/read-days.ts"
+import { importFor, type Placing, placingFor } from "../daily-tracking-migration/placing.ts"
 import {
   COMPLETED_TASKS_SLUG,
   DAY_PAGE_TYPE,
-  DECLARING_IMPORT,
   ENTRY_EXTENSION,
   PROPERTY_PAGES_NEEDED,
   SESSIONS_SLUG,
@@ -194,12 +194,14 @@ function told(): Told {
 async function preconditions(at: Told): Promise<{
   readonly said: readonly string[]
   readonly declared: Declared | null
+  readonly placing: Placing | null
 }> {
   const said: string[] = []
   let declared: Declared | null = null
+  let placing: Placing | null = null
 
   if (!existsSync(at.from) || !statSync(at.from).isDirectory()) {
-    return { said: [`--from '${at.from}' is no directory`], declared: null }
+    return { said: [`--from '${at.from}' is no directory`], declared: null, placing: null }
   }
 
   const stray = readdirSync(at.from).filter(
@@ -269,18 +271,47 @@ async function preconditions(at: Told): Promise<{
             `${String(PROPERTY_PAGES_NEEDED.length)} keys a day carries: ${absent.join(", ")}`
         )
       }
+      if (read.plural === null) {
+        owed.push(
+          `\`${DAY_PAGE_TYPE}\` states no pluralSlug, so akasha names no folder for a day page and ` +
+            "this landing has nowhere to put one"
+        )
+      } else {
+        placing = placingFor(`akasha/${types[0] as string}`, read.plural)
+      }
     }
   }
 
-  try {
-    Bun.resolveSync(DECLARING_IMPORT, at.into)
-  } catch {
-    owed.push(
-      `every page this lands states \`import type { ... } from "${DECLARING_IMPORT}"\`, and that ` +
-        `names nothing reachable from ${at.into}. A type-only import is stripped before it runs, ` +
-        "so the pages would load and the typecheck would not; repoint `DECLARING_IMPORT` in " +
-        "tools/daily-tracking-migration/shape.ts at where the type actually stands."
-    )
+  /**
+   * Where the days belong, and what the file each one is says it imports.
+   *
+   * Both are akasha's own answers: `pathFor` places a page of a type and `importedFrom` says what
+   * reaches the type from that place, which is what `composedFor` does for every page the pages
+   * system service writes. So there is nothing here to keep in agreement with anything, and the two
+   * checks below are about the folder being real and `--into` being that folder — never about a
+   * specifier being the right one.
+   */
+  if (placing !== null) {
+    const folder = join(HERE, placing.folder)
+    const specifier = importFor(placing, `x.${DAY_PAGE_TYPE}.ts`)
+    try {
+      Bun.resolveSync(specifier, folder)
+    } catch {
+      owed.push(
+        `every page this lands would state \`import type { ... } from "${specifier}"\`, which is ` +
+          `what akasha's own \`importedFrom\` answers for a page in ${placing.folder} reaching ` +
+          `${placing.typeAt}, and nothing there resolves. A type-only import is erased before the ` +
+          "file runs, so the pages would load and the typecheck would not."
+      )
+    }
+    if (at.forReal && resolve(at.into) !== folder) {
+      owed.push(
+        `--into '${at.into}' is not where akasha puts a \`${DAY_PAGE_TYPE}\` page. The page type ` +
+          `states its pages are filed under '${placing.folder}', which is where the pages system ` +
+          "service would write the next day Alan tracks, and a day landed anywhere else would " +
+          "declare a different import from the one written beside it later."
+      )
+    }
   }
 
   if (!funnelWritesToAkasha()) {
@@ -297,9 +328,9 @@ async function preconditions(at: Told): Promise<{
     )
   }
 
-  if (at.forReal) return { said: [...said, ...owed], declared }
+  if (at.forReal) return { said: [...said, ...owed], declared, placing }
   for (const one of owed) say(`  OWED  ${one}`)
-  return { said, declared }
+  return { said, declared, placing }
 }
 
 type Staged = {
@@ -308,7 +339,7 @@ type Staged = {
   readonly names: readonly string[]
 }
 
-function convertAll(snapshot: string): Staged {
+function convertAll(snapshot: string, placing: Placing): Staged {
   const read = readDays(snapshot)
   if (read.faults.length > 0) {
     refuse("convert", [
@@ -320,7 +351,7 @@ function convertAll(snapshot: string): Staged {
   const stuck: string[] = []
   const idMap: Record<string, string> = {}
   for (const source of read.days) {
-    const outcome = convertDay(source, () => uuidVersion7())
+    const outcome = convertDay(source, () => uuidVersion7(), placing)
     if (refused(outcome)) {
       for (const why of outcome.refused) stuck.push(`  ${outcome.day} :: ${why}`)
       continue
@@ -403,7 +434,14 @@ async function main(): Promise<never> {
   say("\nstep 1  preconditions")
   const stood = await preconditions(at)
   if (stood.said.length > 0) refuse("preconditions", stood.said)
+  if (stood.placing === null) {
+    refuse("preconditions", [
+      "akasha names no folder for a day page, so where each page belongs and what it imports are " +
+        "both unknown, and nothing here will guess at either",
+    ])
+  }
   say("  every precondition holds")
+  say(`  day pages go   ${stood.placing.folder}/`)
 
   say("\nstep 2  snapshot")
   const before = fingerprintOf(at.from)
@@ -428,7 +466,7 @@ async function main(): Promise<never> {
   say(`  fingerprint    ${before.digest}`)
 
   say("\nstep 3  convert")
-  const made = convertAll(snapshot)
+  const made = convertAll(snapshot, stood.placing)
   const minted = Object.keys(made.idMap).length
   say(`  days           ${String(made.done.length)}`)
   say(`  identities new ${String(minted)}`)

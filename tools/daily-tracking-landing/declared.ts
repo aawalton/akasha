@@ -19,11 +19,20 @@ export const OF_EVERY_PAGE: readonly string[] = ["id", "page-type-slug", "slug",
 export type Declared = {
   readonly at: string
   readonly slugs: ReadonlySet<string>
+  /**
+   * What the type says its pages are filed under, which is where a new day page goes.
+   *
+   * `pathFor` in the pages system service reads this off the page type to place a page it is
+   * composing, so a landing that wants to put its days where the service would put them has to read
+   * the same value off the same page rather than name a folder of its own.
+   */
+  readonly plural: string | null
 }
 
 type PageTypeShape = {
   readonly pageTypeSlug?: unknown
   readonly slug?: unknown
+  readonly pluralSlug?: unknown
   readonly properties?: readonly { readonly pagePropertySlug?: unknown }[]
 }
 
@@ -48,7 +57,11 @@ export async function declaredIn(path: string): Promise<Declared | { readonly re
     for (const one of shape.properties ?? []) {
       if (typeof one.pagePropertySlug === "string") slugs.add(one.pagePropertySlug)
     }
-    return { at: path, slugs }
+    return {
+      at: path,
+      slugs,
+      plural: typeof shape.pluralSlug === "string" ? shape.pluralSlug : null,
+    }
   }
   return {
     refused: `'${path}' exports no page type slugged '${DAY_PAGE_TYPE}', so what a day may carry is unstated`,
