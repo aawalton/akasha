@@ -2,7 +2,6 @@ import type { GlobalTable } from "../async-casts/async-casts.module.code.ts"
 
 import { ASYNC_DEFAULT_STALL_THRESHOLD } from "../async-constants/async-constants.module.code.ts"
 import { S } from "../async-state/async-state.module.code.ts"
-import type { AsyncSavedVarsTable } from "../async-types/async-types.module.code.ts"
 
 export function initSavedVar(this: void): undefined {
   const glob = globalThis as GlobalTable
@@ -17,8 +16,3 @@ export function initSavedVar(this: void): undefined {
 }
 
 globalThis.InitSavedVar = initSavedVar
-
-declare global {
-  var AsyncSavedVars: AsyncSavedVarsTable | undefined
-  var InitSavedVar: (this: void) => void
-}
