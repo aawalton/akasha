@@ -2133,7 +2133,6 @@
         "@akasha/sms-core": "workspace:*",
         "@akasha/status-bar-access": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
-        "@akasha/story-ui": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
