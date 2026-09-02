@@ -1,4 +1,4 @@
-import { countChapterWords } from "@stories/text"
+import { chapterWords as countChapterWords } from "@akasha/story-engine-core/chapter-words"
 
 export const ROYAL_ROAD_ORIGIN = "https://www.royalroad.com"
 
@@ -45,7 +45,9 @@ const ENTITIES: Record<string, string> = {
 export function decodeEntities(text: string): string {
   return text
     .replace(/&#(\d+);/g, (_, code: string) => String.fromCodePoint(Number(code)))
-    .replace(/&#[xX]([0-9a-fA-F]+);/g, (_, code: string) => String.fromCodePoint(parseInt(code, 16)))
+    .replace(/&#[xX]([0-9a-fA-F]+);/g, (_, code: string) =>
+      String.fromCodePoint(parseInt(code, 16))
+    )
     .replace(/&nbsp;|&amp;|&lt;|&gt;|&#39;|&apos;|&quot;/g, (m) => ENTITIES[m] ?? m)
 }
 
@@ -214,10 +216,7 @@ const NO_TEXT =
 // from here. It is the fallback now, taken only where no `<p>` yielded text, so every chapter that
 // parsed before parses the same way byte for byte and only these gain a reading.
 export function parseChapterProse(html: string): ProseRead {
-  const container = innerHtmlOfDiv(
-    html,
-    /<div[^>]*class="[^"]*\bchapter-content\b[^"]*"[^>]*>/i
-  )
+  const container = innerHtmlOfDiv(html, /<div[^>]*class="[^"]*\bchapter-content\b[^"]*"[^>]*>/i)
   if (container === null) return { ok: false, why: NO_CONTAINER }
   const paragraphs: string[] = []
   for (const m of container.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)) {

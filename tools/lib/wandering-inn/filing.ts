@@ -1,4 +1,4 @@
-import { countChapterWords } from "@stories/text"
+import { chapterWords as countChapterWords } from "@akasha/story-engine-core/chapter-words"
 import { askComposed, pageLanding } from "../page-query-client.ts"
 import {
   CHAPTER_PAGE_TYPE,
