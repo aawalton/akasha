@@ -154,15 +154,18 @@ export function patchPage(
 
 // The state a page carries but does not commit, landed beside it.
 //
-// ONE WALK OF THE CORPUS, NOT FOUR. `whereFor` asks the registry where the type is filed and then
-// scans for the type's own files, and a type filed `**/*.<slug>.md` names no folder, so both
-// questions are answered by walking every markdown file in the repo — 56,507 of them here.
-// Outside a call scope `scanGlob` memoizes nothing, so the registry's walk of each root and
-// `whereFor`'s walk of the page's root were four separate walks of the same trees, once per write.
-// The editor's observation store writes here on a 250ms settle from inside the extension host,
-// where each walk is a synchronous stall of the node event loop: 922ms of scanning per write
-// measured with the shape mark unavailable, which is how a shared worktree stands whenever `page/`
-// is dirty. Held for one call the four walks are one, and the same scanning measures 205ms.
+// ONE WALK OF THE AKASHA ROOT, NOT TWO. `whereFor` asks the registry where the type is filed and
+// then scans for the type's own files, and a type filed `**/*.<slug>.md` names no folder — 293 of
+// the 364 page types are — so both questions are answered by walking every markdown file in the
+// repo, 56,507 of them here. Outside a call scope `scanGlob` memoizes nothing, so the registry's
+// walk of each root and `whereFor`'s walk of the page's own root were three walks of two trees,
+// once per write, the akasha root twice over. The editor's observation store writes here on a
+// 250ms settle from inside the extension host, where every walk is a synchronous stall of the node
+// event loop. Counted by a line printed from `scannedGlob`, one write was 3 walks and 1990ms and
+// is now 2 walks and 897ms; the scanning alone, timed apart from the write, was 922ms and is
+// 205ms. Both were measured with the shape mark unavailable, which is how this worktree stands
+// whenever `page/` is dirty — with the mark in hand the registry answers from its own file, does
+// not scan, and the one walk left is `whereFor`'s, which this does not remove.
 //
 // WHY THIS SCOPE CANNOT READ PAST ITS OWN WRITE. A memo held across a write is safe only where the
 // write cannot change what was memoized. What this lands is `<page>.uncommitted.yaml` and, if it
