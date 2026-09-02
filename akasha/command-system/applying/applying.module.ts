@@ -22,6 +22,18 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "A patch carrying a conflict does not apply.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body carrying the marks a merge left is a body carrying a conflict.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every path the patch carries a conflict at is named in the refusal.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An apply is judged by the gate as any other landing is judged.",
     },
     {
