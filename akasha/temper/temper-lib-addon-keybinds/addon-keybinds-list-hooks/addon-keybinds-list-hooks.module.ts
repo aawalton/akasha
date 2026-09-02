@@ -23,5 +23,9 @@ export const addonKeybindsListHooks = {
       invariantKind: "departure",
       statement: "A header is held back until a row beneath that header is shown.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A value read as a number is asked its Lua type first.",
+    },
   ],
 } as const satisfies Module

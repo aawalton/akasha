@@ -1,4 +1,4 @@
-import { asFuncOfTask, asString, asTaskInstance } from "../async-casts/async-casts.module.code.ts"
+import { asFuncOfTask, asTaskInstance } from "../async-casts/async-casts.module.code.ts"
 import {
   DEBUG_FREEZE_THRESHOLD_MS,
   DEBUG_TIME_MULTIPLIER,
@@ -31,7 +31,7 @@ function doCallback(job: TaskInstance, callstackIndex: number): undefined {
     if (S.call !== undefined) {
       const [errSuccess, msg] = pcall(safeCall)
       if (!errSuccess) {
-        Warn(asString(msg))
+        Warn(msg as string)
       }
       ZO_ClearNumericallyIndexedTable(job.callstack)
       job.lastCallIndex = 0

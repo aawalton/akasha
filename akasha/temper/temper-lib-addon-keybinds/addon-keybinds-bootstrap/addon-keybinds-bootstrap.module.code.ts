@@ -1,14 +1,12 @@
+import type { GlobalTable } from "../addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
 import "../addon-keybinds-declarations/addon-keybinds-declarations.module.code.ts"
-import {
-  asGlobalTable,
-  asLakTable,
-} from "../addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
+import { asLakTable } from "../addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
 import { onLoad } from "../addon-keybinds-load/addon-keybinds-load.module.code.ts"
 import { LAK_NAME, LAK_VERSION } from "../addon-keybinds-names/addon-keybinds-names.module.code.ts"
 import type { LakTable } from "../addon-keybinds-types/addon-keybinds-types.module.code.ts"
 
 export function installLibAddonKeybinds(this: void): undefined {
-  const glob = asGlobalTable(globalThis)
+  const glob = globalThis as GlobalTable
   if (glob[LAK_NAME] !== undefined) {
     return undefined
   }

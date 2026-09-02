@@ -1,10 +1,6 @@
+import type { GlobalTable } from "../addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
 import "../addon-keybinds-declarations/addon-keybinds-declarations.module.code.ts"
-import {
-  asControl,
-  asGlobalTable,
-  asKeybindScrollData,
-  asNumber,
-} from "../addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
+import { asKeybindScrollData } from "../addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
 import {
   CATEGORY_DATA_TYPE,
   LAYER_DATA_TYPE,
@@ -56,11 +52,11 @@ export function hookKeybindingListFilter(
   keybindingManager: KeybindingManager
 ): undefined {
   keybindingManager.list.FilterScrollList = function (this: KeybindingsSortFilterList): undefined {
-    const scrollData = asKeybindScrollData(ZO_ScrollList_GetDataList(asControl(this.list)))
+    const scrollData = asKeybindScrollData(ZO_ScrollList_GetDataList(this.list as Control))
     let layerHeader: KeybindScrollEntry | undefined
     let categoryHeader: KeybindScrollEntry | undefined
     const lastSI = SI_NONSTR_INGAMESHAREDSTRINGS_LAST_ENTRY
-    const glob = asGlobalTable(globalThis)
+    const glob = globalThis as GlobalTable
 
     ZO_ScrollList_Clear(this.list)
 
@@ -74,7 +70,7 @@ export function hookKeybindingListFilter(
         let insertEntry = lak.showAddonKeybinds
         const data = dataEntry.data
         const actionSI = data === undefined ? undefined : glob[`SI_BINDING_NAME_${data.actionName}`]
-        if (type(actionSI) === "number" && asNumber(actionSI) < lastSI) {
+        if (type(actionSI) === "number" && (actionSI as number) < lastSI) {
           insertEntry = !insertEntry
         }
         if (insertEntry) {

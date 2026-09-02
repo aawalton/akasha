@@ -10,7 +10,7 @@ declare global {
     Stop: () => undefined
   }
 
-  interface KeybindScrollListControl {
+  interface KeybindScrollListControl extends Control {
     scrollbar: KeybindScrollbar
     timeline: KeybindTimeline
   }

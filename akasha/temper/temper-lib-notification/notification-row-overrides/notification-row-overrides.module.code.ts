@@ -1,10 +1,6 @@
+import type { TextureFn } from "../notification-types/notification-types.module.code.ts"
 import "../notification-declarations/notification-declarations.module.code.ts"
-import {
-  asLabelControl,
-  asString,
-  asTextureControl,
-  asTextureFn,
-} from "../notification-casts/notification-casts.module.code.ts"
+import { asTextureControl } from "../notification-casts/notification-casts.module.code.ts"
 import type {
   NotificationData,
   NotificationRowControl,
@@ -40,10 +36,11 @@ function setupBaseRow(
   control.data = data
 
   if (type(texture) === "function") {
-    texture = asTextureFn(texture)(data)
+    texture = (texture as TextureFn)(data)
   }
-  asTextureControl(GetControl(control, "Icon")).SetTexture(asString(texture))
-  asLabelControl(GetControl(control, "Type")).SetText(headingText)
+  asTextureControl(GetControl(control, "Icon")).SetTexture(texture as string)
+  const typeLabel = GetControl(control, "Type") as LabelControl
+  typeLabel.SetText(headingText)
 }
 
 function addDataEntry(
@@ -61,9 +58,9 @@ function addDataEntry(
     )
 
   if (type(texture) === "function") {
-    texture = asTextureFn(texture)(data)
+    texture = (texture as TextureFn)(data)
   }
-  const entryData = ZO_GamepadEntryData.New(data.shortDisplayText, asString(texture))
+  const entryData = ZO_GamepadEntryData.New(data.shortDisplayText, texture as string)
   entryData.data = data
   entryData.SetIconTintOnSelection(true)
   entryData.SetIconDisabledTintOnSelection(true)

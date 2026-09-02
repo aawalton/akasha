@@ -1,10 +1,9 @@
-import { asNumber } from "../async-casts/async-casts.module.code.ts"
 import { luaTruthy } from "../async-lua-truthy/async-lua-truthy.module.code.ts"
 import { taskProto } from "../async-task-class/async-task-class.module.code.ts"
 import type { CompareFunc, TaskInstance } from "../async-types/async-types.module.code.ts"
 
 function simpleCompare(this: void, a: unknown, b: unknown): boolean {
-  return asNumber(a) < asNumber(b)
+  return (a as number) < (b as number)
 }
 
 function get(array: unknown[], index: number): unknown {

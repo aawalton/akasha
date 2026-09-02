@@ -8,10 +8,6 @@ export const notificationCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "A cast to a texture is made only after asking the value's Lua type.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here checks a value at run time.",
     },

@@ -1,4 +1,5 @@
-import { asGlobalTable, asNumber, asString } from "../async-casts/async-casts.module.code.ts"
+import type { GlobalTable } from "../async-casts/async-casts.module.code.ts"
+
 import {
   ASYNC_DEFAULT_STALL_THRESHOLD,
   ASYNC_MIN_STALL_THRESHOLD,
@@ -72,7 +73,7 @@ lib.Slash = function (this: void, ...args: unknown[]): undefined {
   if (args.length > 0) {
     for (const value of args) {
       if (type(value) === "string") {
-        allArgs = `${allArgs} ${asString(value)}`
+        allArgs = `${allArgs} ${value as string}`
       } else if (type(value) === "number") {
         allArgs = `${allArgs} ${tostring(value)}`
       }
@@ -91,7 +92,7 @@ lib.Slash = function (this: void, ...args: unknown[]): undefined {
   }
   command = zo_strlower(command)
 
-  const sv = asGlobalTable(globalThis).AsyncSavedVars
+  const sv = (globalThis as GlobalTable).AsyncSavedVars
 
   function d(this: void, text: string): undefined {
     CHAT_ROUTER.AddSystemMessage(text)
@@ -103,7 +104,7 @@ lib.Slash = function (this: void, ...args: unknown[]): undefined {
   }
 
   if (type(argValue) === "number") {
-    const fps = asNumber(argValue)
+    const fps = argValue as number
     if (fps < ASYNC_MIN_STALL_THRESHOLD) {
       d(
         string.format(
@@ -128,7 +129,7 @@ lib.Slash = function (this: void, ...args: unknown[]): undefined {
     }
     S.asyncStallThreshold = adjustedFps
     d(string.format("[LibAsync] Stall threshold set to %d FPS.", adjustedFps))
-  } else if (type(argValue) === "string" && asString(argValue) === "default") {
+  } else if (type(argValue) === "string" && (argValue as string) === "default") {
     if (sv !== undefined) {
       sv.ASYNC_STALL_THRESHOLD = ASYNC_DEFAULT_STALL_THRESHOLD
     }

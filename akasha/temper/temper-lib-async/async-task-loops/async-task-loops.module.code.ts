@@ -2,7 +2,6 @@ import {
   asConditionFunc,
   asForMarkerFunc,
   asFuncOfTask,
-  asNumber,
   asPairsIter,
 } from "../async-casts/async-casts.module.code.ts"
 import { luaTruthy } from "../async-lua-truthy/async-lua-truthy.module.code.ts"
@@ -120,9 +119,9 @@ taskProto.Do = function (this: TaskInstance, func: LoopBodyFunc): TaskInstance {
   } else if (type(p1) === "number") {
     doLoop = asyncForWithStep(
       func,
-      asNumber(p1),
-      asNumber(p2),
-      p3 === undefined ? undefined : asNumber(p3)
+      p1 as number,
+      p2 as number,
+      p3 === undefined ? undefined : (p3 as number)
     )
   } else {
     doLoop = asyncForPairs(func, asPairsIter(p1), p2, p3)

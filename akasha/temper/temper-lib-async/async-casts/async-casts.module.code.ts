@@ -21,10 +21,6 @@ export interface GlobalTable {
   [key: string]: unknown
 }
 
-export function asGlobalTable(value: unknown): GlobalTable {
-  return value as GlobalTable
-}
-
 export type ForMarkerFunc = (this: void) => LuaMultiReturn<[boolean, unknown, unknown, unknown]>
 
 export function asForMarkerFunc(value: unknown): ForMarkerFunc {
@@ -33,14 +29,6 @@ export function asForMarkerFunc(value: unknown): ForMarkerFunc {
 
 export function asFuncOfTask(value: unknown): FuncOfTask {
   return value as FuncOfTask
-}
-
-export function asNumber(value: unknown): number {
-  return value as number
-}
-
-export function asString(value: unknown): string {
-  return value as string
 }
 
 export function asConditionFunc(value: unknown): ConditionFunc {
