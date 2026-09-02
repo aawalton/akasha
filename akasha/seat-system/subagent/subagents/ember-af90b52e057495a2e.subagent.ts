@@ -7,4 +7,5 @@ export const emberAf90b52e057495a2e = {
   principalSeatName: "ember",
   assignmentSlug: "initiative/ember-migrate-temper-to-akasha",
   dispatchedAs: "general-purpose",
+  agentId: "01a05d8a-1c75-7000-9939-9bad7b3cca39--af90b52e057495a2e",
 } as const satisfies Subagent
