@@ -15,12 +15,12 @@ import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import { extractCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { characterUrl } from "@akasha/temper-build-support/build-url"
-import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
-import { useCompletionCharacters } from "@akasha/temper-player-completion-ui/use-completion"
 import {
   useCharacterLifecycle,
   useCharacterList,
-} from "@temper/game-characters-character-ui/use-characters"
+} from "@akasha/temper-characters-character-ui/use-characters"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
+import { useCompletionCharacters } from "@akasha/temper-player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"

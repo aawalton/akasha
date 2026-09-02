@@ -22,6 +22,7 @@ import {
   applyCharacterMetadata,
   applyCompanionMetadata,
 } from "@akasha/temper-build-metadata/build-metadata"
+import { useCharacterList } from "@akasha/temper-characters-character-ui/use-characters"
 import { decodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import { useCompanionList } from "@akasha/temper-companions-ui/use-companions"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
@@ -32,7 +33,6 @@ import { useInventory } from "@akasha/temper-player-inventory-management-ui/hook
 import { useManagedGuildBanks } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
 import { InventoryScopeNote } from "@akasha/temper-player-inventory-management-ui/inventory-scope-note"
 import { InventoryTypeSummaryPanelCard } from "@akasha/temper-player-inventory-management-ui/inventory-summary-panel-card"
-import { useCharacterList } from "@temper/game-characters-character-ui/use-characters"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"
 import { OverallSummaryPanelCard } from "@/components/completion/overall-summary-panel-card"
