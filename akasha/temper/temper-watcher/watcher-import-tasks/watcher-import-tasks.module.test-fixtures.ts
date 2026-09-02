@@ -1,5 +1,12 @@
 import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import type { ImportTasksOptions, TaskPage } from "./watcher-import-tasks.module.code.ts"
+import {
+  applyCompletion,
+  type CompletionOutcome,
+  type ImportTasksOptions,
+  type ReadySeams,
+  seamsReady,
+  type TaskPage,
+} from "./watcher-import-tasks.module.code.ts"
 
 export const NO_CLIENT: SignedInReader = {
   auth: {
@@ -50,6 +57,55 @@ ${inner}
 
 export function taskOf(values: Record<string, unknown>): TaskPage {
   return { id: ONE_OFF_ID, slug: "one-off-task", title: "One Off Task", ...values } as TaskPage
+}
+
+export const SAME_DAY_MS = Date.UTC(2023, 10, 14, 18, 0, 0)
+
+export const OTHER_DAY_MS = Date.UTC(2023, 10, 12, 18, 0, 0)
+
+export interface Tally {
+  readonly filed: unknown[]
+  readonly rolled: unknown[]
+  readonly taken: unknown[]
+  readonly seams: ReadySeams
+  outcome?: CompletionOutcome
+}
+
+export function tallying(over: ImportTasksOptions = {}): Tally {
+  const filed: unknown[] = []
+  const rolled: unknown[] = []
+  const taken: unknown[] = []
+  return {
+    filed,
+    rolled,
+    taken,
+    seams: seamsReady(
+      landing({
+        fileCompletion: async (values) => {
+          filed.push(values)
+          return LANDED
+        },
+        rollTask: async (slug, values) => {
+          rolled.push({ slug, values })
+          return LANDED
+        },
+        removeTask: async (slug, beside) => {
+          taken.push({ slug, beside })
+          return LANDED
+        },
+        ...over,
+      })
+    ),
+  }
+}
+
+export async function applied(
+  values: Record<string, unknown>,
+  over: ImportTasksOptions = {}
+): Promise<Tally> {
+  const it = tallying(over)
+  it.outcome = await applyCompletion(taskOf(values), COMPLETED_AT_MS, it.seams)
+  return it
 }
 
 export function landing(seams: ImportTasksOptions = {}): ImportTasksOptions {

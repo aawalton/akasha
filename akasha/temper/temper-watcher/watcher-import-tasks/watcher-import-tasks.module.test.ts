@@ -14,6 +14,7 @@ import {
   tasksByName,
 } from "./watcher-import-tasks.module.code.ts"
 import {
+  applied,
   buildLua,
   COMPLETED_AT_ISO,
   COMPLETED_AT_MS,
@@ -23,7 +24,9 @@ import {
   NO_CLIENT,
   NOW,
   ONE_OFF_ID,
+  OTHER_DAY_MS,
   RECURRING_ID,
+  SAME_DAY_MS,
   taskOf,
   UNKNOWN_ID,
 } from "./watcher-import-tasks.module.test-fixtures.ts"
@@ -388,6 +391,36 @@ test("a task at its cumulative cap that no completion named is swept away", asyn
   )
   expect(taken).toEqual(["cumulative-task"])
   expect(said[said.length - 1]).toBe("Task import: 0 completed, 0 cleared, 1 swept, 0 skipped.")
+})
+
+test("a recurring task completed earlier in this same day is skipped", async () => {
+  const it = await applied({ rruleRule: "FREQ=DAILY", lastCompletedAt: SAME_DAY_MS })
+  expect(it.outcome).toEqual({ action: "skip", reason: "already completed this logical day" })
+  expect(it.filed).toEqual([])
+})
+
+test("a recurring task completed on an earlier day rolls on and stays", async () => {
+  const it = await applied({ slug: "r", rruleRule: "FREQ=DAILY", lastCompletedAt: OTHER_DAY_MS })
+  expect(it.rolled).toEqual([
+    { slug: "r", values: { lastCompletedAt: COMPLETED_AT_ISO, dueDate: "2024-03-16" } },
+  ])
+  expect(it.filed).toHaveLength(1)
+  expect(it.taken).toEqual([])
+})
+
+test("a one-off task rolls nothing at all and goes with its progress file", async () => {
+  const it = await applied({})
+  expect(it.rolled).toEqual([])
+  expect(it.taken).toHaveLength(1)
+})
+
+test("a completion the day already holds neither rolls nor takes the task", async () => {
+  const it = await applied(
+    { rruleRule: "FREQ=DAILY" },
+    { fileCompletion: async () => ({ outcome: "already", at: "c0" }) }
+  )
+  expect(it.rolled).toEqual([])
+  expect(it.taken).toEqual([])
 })
 
 test("seams the caller leaves out fall back to the real ones", () => {
