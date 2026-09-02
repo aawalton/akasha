@@ -14,6 +14,7 @@ export const temperWorld = {
     "page-type/temper-quest-giver",
     "page-type/temper-race",
     "page-type/temper-source-category",
+    "page-type/temper-world-zone",
     "page-type/temper-zone",
   ],
 } as const satisfies Domain
