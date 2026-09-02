@@ -73,10 +73,10 @@ test("the name reaches through a workspace package export, which is escape one",
       },
       {
         "@akasha/readout-system/upkeep-surplus":
-          "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts",
+          "akasha/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts",
       },
       {
-        "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts":
+        "akasha/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts":
           UPKEEP_SURPLUS,
       }
     )
@@ -86,7 +86,7 @@ test("the name reaches through a workspace package export, which is escape one",
   expect(found[0]?.kind).toBe("read")
   expect(found[0]?.named.how).toBe("delegate")
   expect(found[0]?.named.from).toBe(
-    "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
+    "akasha/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
   )
 })
 
@@ -101,7 +101,7 @@ test("without the export map the package is opaque and escape one goes through",
       },
       {},
       {
-        "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts":
+        "akasha/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts":
           UPKEEP_SURPLUS,
       }
     )
@@ -126,10 +126,10 @@ test("the repaired shape, asking the funnel for its day, is not a finding", () =
       },
       {
         "@akasha/readout-system/upkeep-surplus":
-          "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts",
+          "akasha/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts",
       },
       {
-        "akasha/readout-system/readout/pages/upkeep-surplus/upkeep-surplus.readout.code.ts":
+        "akasha/readout-system/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts":
           UPKEEP_SURPLUS,
       }
     )

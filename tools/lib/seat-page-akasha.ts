@@ -12,7 +12,7 @@ import type { Outcome } from "./gated-write.ts"
 import { principalSeatNameOf } from "./seat-principal.ts"
 import type { Stated } from "./seat-stated.ts"
 
-const DIR = "akasha/seat-system/seat/pages"
+const DIR = "akasha/seat-system/seats/pages"
 
 const SUFFIX = ".seat.ts"
 

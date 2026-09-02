@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Service } from "../service/service.page-type.ts"
+import type { Service } from "../services/service.page-type.ts"
 import type { ContainerPort } from "./properties/container-port.number-property.ts"
 import type { Image } from "./properties/image.text-property.ts"
 import type { ManifestCode } from "./properties/manifest-code.text-property.ts"

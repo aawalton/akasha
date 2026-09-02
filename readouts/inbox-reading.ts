@@ -35,7 +35,7 @@ import { askComposed } from "../tools/lib/page-query-client.ts"
 import { askDayByDate } from "../tools/lib/tracking/day-place.ts"
 import { wakeDayOf } from "../tools/lib/wake-day.ts"
 
-const READOUTS = "akasha/readout-system/readout/pages"
+const READOUTS = "akasha/readout-system/readouts/pages"
 
 export const EMAIL_PAGE = `${READOUTS}/inboxes-email/inboxes-email.readout.ts`
 

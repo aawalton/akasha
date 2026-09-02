@@ -16,7 +16,7 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-const SEAT_AT = "akasha/seat-system/seat/seat.page-type.ts"
+const SEAT_AT = "akasha/seat-system/seats/seat.page-type.ts"
 
 const SEAT_ID = "01a0587b-0000-7000-8000-00000000000a"
 

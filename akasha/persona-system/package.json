@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./email-address": "./persona/properties/email-address.email-address-property.ts"
+    "./email-address": "./personas/properties/email-address.email-address-property.ts"
   }
 }

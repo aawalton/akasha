@@ -60,7 +60,7 @@ test("a key stated empty answers nothing", () => {
 
 test("a path that is no agent's page states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  const path = "akasha/persona-system/persona/akasha/akasha.persona.ts"
+  const path = "akasha/persona-system/personas/akasha/akasha.persona.ts"
   writing(root, path, `export const akasha = { personaSlug: "akasha" }\n`)
   expect(slugStated(root, path, "personaSlug")).toBe(null)
   expect(typeStated(root, path, "personaSlug")).toBe(null)

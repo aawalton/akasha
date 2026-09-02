@@ -3,13 +3,13 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./workstation-service": "./workstation-service/workstation-service.page-type.ts",
-    "./service-installing": "./workstation-service/service-installing/service-installing.module.code.ts",
-    "./service-reading": "./workstation-service/service-reading/service-reading.module.code.ts",
-    "./web-app-reading": "./cluster-service/web-app-reading/web-app-reading.module.code.ts",
-    "./web-app-reading/testing": "./cluster-service/web-app-reading/web-app-reading.module.test-fixtures.ts",
-    "./workload-deploying": "./cluster-service/workload-deploying/workload-deploying.module.code.ts",
-    "./web-app-building": "./cluster-service/web-app-building/web-app-building.module.code.ts"
+    "./workstation-service": "./workstation-services/workstation-service.page-type.ts",
+    "./service-installing": "./workstation-services/service-installing/service-installing.module.code.ts",
+    "./service-reading": "./workstation-services/service-reading/service-reading.module.code.ts",
+    "./web-app-reading": "./cluster-services/web-app-reading/web-app-reading.module.code.ts",
+    "./web-app-reading/testing": "./cluster-services/web-app-reading/web-app-reading.module.test-fixtures.ts",
+    "./workload-deploying": "./cluster-services/workload-deploying/workload-deploying.module.code.ts",
+    "./web-app-building": "./cluster-services/web-app-building/web-app-building.module.code.ts"
   },
   "dependencies": {
     "@akasha/utils-narrow": "workspace:*"

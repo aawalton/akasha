@@ -10,7 +10,7 @@ const MARKDOWN_DAY = "pages/daily-tracking/2026-03-05.daily-tracking.md"
 const AKASHA_DAY =
   "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.ts"
 
-const AKASHA_SEAT = "akasha/seat-system/seat/pages/alan.seat.ts"
+const AKASHA_SEAT = "akasha/seat-system/seats/pages/alan.seat.ts"
 
 const root = mkdtempSync(join(tmpdir(), "sidecar-"))
 
@@ -33,9 +33,9 @@ standing([
   "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06/day-2026-03-06.daily-tracking.ts",
   "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06/day-2026-03-06.daily-tracking.sessions.jsonl",
   AKASHA_SEAT,
-  "akasha/seat-system/seat/pages/alan.seat.uncommitted.ts",
-  "akasha/seat-system/seat/pages/alan.seat.sops.yaml",
-  "akasha/seat-system/seat/pages/seat.page-type.ts",
+  "akasha/seat-system/seats/pages/alan.seat.uncommitted.ts",
+  "akasha/seat-system/seats/pages/alan.seat.sops.yaml",
+  "akasha/seat-system/seats/pages/seat.page-type.ts",
 ])
 
 afterAll(() => {
@@ -64,8 +64,8 @@ describe("the files standing beside a page", () => {
 
   test("the uncommitted file and the sops file of an akasha page go with it", () => {
     expect(sidecarsOf(root, AKASHA_SEAT)).toEqual([
-      "akasha/seat-system/seat/pages/alan.seat.sops.yaml",
-      "akasha/seat-system/seat/pages/alan.seat.uncommitted.ts",
+      "akasha/seat-system/seats/pages/alan.seat.sops.yaml",
+      "akasha/seat-system/seats/pages/alan.seat.uncommitted.ts",
     ])
   })
 
@@ -85,7 +85,7 @@ describe("the files standing beside a page", () => {
   })
 
   test("a plain module beside a page is no file of it", () => {
-    expect(sidecarsOf(root, "akasha/seat-system/seat/pages/seat.page-type.ts")).toEqual([])
+    expect(sidecarsOf(root, "akasha/seat-system/seats/pages/seat.page-type.ts")).toEqual([])
   })
 
   test("a path naming no page of either kind holds nothing beside it", () => {
@@ -100,8 +100,8 @@ describe("the files standing beside a page", () => {
   })
 
   test("a sops file names a page of either kind, both naming it the same way", () => {
-    expect(pagesOfSidecar("akasha/seat-system/seat/pages/alan.seat.sops.yaml")).toEqual([
-      "akasha/seat-system/seat/pages/alan.seat.md",
+    expect(pagesOfSidecar("akasha/seat-system/seats/pages/alan.seat.sops.yaml")).toEqual([
+      "akasha/seat-system/seats/pages/alan.seat.md",
       AKASHA_SEAT,
     ])
   })

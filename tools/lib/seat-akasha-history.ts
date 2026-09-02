@@ -19,7 +19,7 @@ import { underOldKeys } from "./seat-akasha-read.ts"
 // The values come back under the old page's key names, because every reader of this history asks
 // by those and a seat recovered from either side must read alike.
 
-const SEATS = "akasha/seat-system/seat/pages"
+const SEATS = "akasha/seat-system/seats/pages"
 
 const SUFFIX = ".seat.ts"
 

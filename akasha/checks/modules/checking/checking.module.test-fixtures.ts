@@ -31,7 +31,7 @@ const HELD = "akasha/checks-system/checking/checking.module"
 export const SAMPLED: readonly string[] = [
   `${HELD}.code.ts`,
   `${HELD}.ts`,
-  "akasha/persona-system/persona/ali/ali.persona.portrait.md",
+  "akasha/persona-system/personas/ali/ali.persona.portrait.md",
 ]
 
 export const scratch = scratchWorld()

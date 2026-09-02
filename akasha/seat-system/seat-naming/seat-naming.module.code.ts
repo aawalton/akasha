@@ -1,4 +1,4 @@
-import { seat } from "../seat/seat.page-type.ts"
+import { seat } from "../seats/seat.page-type.ts"
 
 export const JOINER = "-"
 

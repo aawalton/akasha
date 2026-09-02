@@ -24,7 +24,7 @@ const ANOTHER = "01a05844-6e60-7000-b54c-4b14559df70c"
 
 const OWN = "a38f63805f9b94edf"
 
-const SEAT_AT = "akasha/seat-system/seat/pages/akasha.seat.ts"
+const SEAT_AT = "akasha/seat-system/seats/pages/akasha.seat.ts"
 
 const SEAT_BODY = `export const akasha = { assignmentSlug: "domain/akasha-system" }\n`
 
@@ -105,7 +105,7 @@ test("a seat the index carries no page for is assigned nothing", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("subagent-presence-")
-    pageFiled(root, ANOTHER, "akasha/seat-system/seat/pages/thea.seat.ts")
+    pageFiled(root, ANOTHER, "akasha/seat-system/seats/pages/thea.seat.ts")
     expect(assignedTo(root, "akasha")).toBe(null)
   } finally {
     world.sweep()
@@ -116,7 +116,7 @@ test("a seat is named by the page the index carries for its id", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("subagent-presence-")
-    pageFiled(root, SEAT_ID, "akasha/seat-system/seat/pages/akasha.seat.ts")
+    pageFiled(root, SEAT_ID, "akasha/seat-system/seats/pages/akasha.seat.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe("akasha")
   } finally {
     world.sweep()
@@ -127,7 +127,7 @@ test("a seat the index carries no page for is named by nothing", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("subagent-presence-")
-    pageFiled(root, ANOTHER, "akasha/seat-system/seat/pages/thea.seat.ts")
+    pageFiled(root, ANOTHER, "akasha/seat-system/seats/pages/thea.seat.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe(null)
   } finally {
     world.sweep()
@@ -138,7 +138,7 @@ test("a page that is no seat names no seat", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("subagent-presence-")
-    pageFiled(root, SEAT_ID, "akasha/persona-system/persona/akasha/akasha.persona.ts")
+    pageFiled(root, SEAT_ID, "akasha/persona-system/personas/akasha/akasha.persona.ts")
     expect(seatNamedIn(root, SEAT_ID)).toBe(null)
   } finally {
     world.sweep()

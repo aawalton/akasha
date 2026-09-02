@@ -1,4 +1,4 @@
-import { readFiles, writeFiles, type Written } from "@shared/pages-query"
+import { readFiles, type Written, writeFiles } from "@shared/pages-query"
 
 /**
  * A persona stands as a TypeScript file under `akasha/`, and the page store writes a path and a
@@ -20,7 +20,7 @@ const CLOSING = "} as const satisfies Persona"
 const TOTAL_LINE = /^ {2}totalPoints: -?\d+(?:\.\d+)?,$/m
 
 export function personaPagePath(slug: string): string {
-  return `akasha/persona-system/persona/${slug}/${slug}.persona.ts`
+  return `akasha/persona-system/personas/${slug}/${slug}.persona.ts`
 }
 
 /**

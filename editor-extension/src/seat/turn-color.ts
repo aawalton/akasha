@@ -11,7 +11,7 @@ const VERB = "agent-turn-colors"
 // WHERE A SEAT STANDS, WHICH IS AKASHA AND NOWHERE ELSE. The watchers every feature registers are
 // built from these two, so pointing them here is what moves the agent tree, the terminal names and
 // the work tree onto the store the fleet actually writes.
-const AKASHA_SEAT_DIR = "akasha/seat-system/seat/pages"
+const AKASHA_SEAT_DIR = "akasha/seat-system/seats/pages"
 
 export const SEAT_SIDECAR_GLOB = "*.uncommitted.ts"
 

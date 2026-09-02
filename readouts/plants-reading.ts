@@ -30,7 +30,7 @@ import { askComposed } from "../tools/lib/page-query-client.ts"
 import { wakeDayOf, wakeDayWindow } from "../tools/lib/wake-day.ts"
 
 export const READOUT_PAGE =
-  "akasha/readout-system/readout/pages/upkeep-plants/upkeep-plants.readout.ts"
+  "akasha/readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
 
 export async function takeReading(root: string, now: Date = new Date()): Promise<number> {
   const here = resolveRoots()

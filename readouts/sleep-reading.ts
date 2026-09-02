@@ -24,7 +24,7 @@ import { sleepIn } from "@akasha/readout-system/upkeep-sleep"
 import { askDayByDate } from "../tools/lib/tracking/day-place.ts"
 
 export const READOUT_PAGE =
-  "akasha/readout-system/readout/pages/upkeep-sleep/upkeep-sleep.readout.ts"
+  "akasha/readout-system/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts"
 
 export const NOTHING_TO_TAKE =
   "no tracking day carries a sleep, so there is no reading to take. A tile showing no signal is " +

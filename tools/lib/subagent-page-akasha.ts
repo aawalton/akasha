@@ -6,7 +6,7 @@ import {
   SUBAGENTS_AT,
   slugOf,
   tookUnder,
-} from "../../akasha/seat-system/subagent/presence/subagent-presence.module.code.ts"
+} from "../../akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import type { Outcome } from "./gated-write.ts"
 
 export function akashaSubagentSlug(seatName: string, own: string): string {

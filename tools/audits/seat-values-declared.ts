@@ -1,5 +1,5 @@
-import type { Check } from "../lib/check.ts"
 import { judge, over } from "@akasha/verdict/outcome"
+import type { Check } from "../lib/check.ts"
 
 const NAME = "seat-values-declared"
 
@@ -9,7 +9,7 @@ const TABLES = "tools/lib/seat-akasha-beside.ts"
 // rather than copied. It is named in the writer, so the writer is read for it.
 const WRITER = "tools/lib/seat-beside.ts"
 
-const PAGE_TYPE = "akasha/seat-system/seat/seat.page-type.ts"
+const PAGE_TYPE = "akasha/seat-system/seats/seat.page-type.ts"
 
 const CARRIED_BLOCK = /export const CARRIED[^=]*=\s*\{([\s\S]*?)\n\}/
 const RECORDS_BLOCK = /export const RECORDS[^=]*=\s*\{([\s\S]*?)\n\}/
@@ -65,7 +65,10 @@ function carriedNames(body: string, writer: string): ReadonlyMap<string, string>
 // it does not, and the properties page states what the silence means: a value stands in the commit
 // unless the declaration carrying it says it does not. So the absence of the flag is read as the
 // committed answer rather than as an unknown one.
-function declaredNames(body: string): { beside: ReadonlySet<string>; committed: ReadonlySet<string> } {
+function declaredNames(body: string): {
+  beside: ReadonlySet<string>
+  committed: ReadonlySet<string>
+} {
   const beside = new Set<string>()
   const committed = new Set<string>()
   const block = PROPERTIES_BLOCK.exec(body)?.[1]

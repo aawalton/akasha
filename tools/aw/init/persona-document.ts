@@ -1,8 +1,8 @@
-import { personasStanding } from "../../lib/akasha-personas.ts"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { personasStanding } from "../../lib/akasha-personas.ts"
 import { pathsFor, SLUG_MARK, shapesStanding, standsShell } from "./document-shape.ts"
 
-const PERSONA_FALLBACK = `akasha/persona-system/persona/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
+const PERSONA_FALLBACK = `akasha/persona-system/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
 
 function personaPaths(slugVar: string): readonly string[] {
   return pathsFor(

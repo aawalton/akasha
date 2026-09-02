@@ -1,6 +1,6 @@
 import type { Domain } from "../../domain-system/domains/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { OnCall } from "../../seat-system/seat/properties/on-call.boolean-property.ts"
+import type { OnCall } from "../../seat-system/seats/properties/on-call.boolean-property.ts"
 
 export type Role = Domain & {
   onCall: OnCall
