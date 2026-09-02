@@ -124,6 +124,7 @@ export const temper = {
     "workspace-package/temper-build-metadata",
     "workspace-package/temper-skill-morphs",
     "eso-addon/temper-hud-addon",
+    "eso-addon/temper-lib-treasure",
   ],
   invariants: [
     {

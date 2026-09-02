@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/temper-lib-treasure",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./treasure-constants": "./treasure-constants/treasure-constants.module.code.ts",
+    "./treasure-types": "./treasure-types/treasure-types.module.code.ts",
+    "./treasure-casts": "./treasure-casts/treasure-casts.module.code.ts",
+    "./treasure-icons": "./treasure-icons/treasure-icons.module.code.ts",
+    "./treasure-book-ids": "./treasure-book-ids/treasure-book-ids.module.code.ts"
+  }
+}
