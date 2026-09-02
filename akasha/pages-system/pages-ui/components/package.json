@@ -136,7 +136,6 @@
     "./use-view-tab-content-data": "./use-view-tab-content-data/use-view-tab-content-data.module.code.ts",
     "./value-filter-inputs": "./value-filter-inputs/value-filter-inputs.module.code.tsx",
     "./view-engine/build-page-resolver": "./view-engine/build-page-resolver/build-page-resolver.module.code.ts",
-    "./view-engine/generate-group-definitions": "./view-engine/generate-group-definitions/generate-group-definitions.module.code.ts",
     "./view-engine/use-page-view": "./view-engine/use-page-view/use-page-view.module.code.ts",
     "./view-engine/use-view-row-aggregates": "./view-engine/use-view-row-aggregates/use-view-row-aggregates.module.code.ts",
     "./view-engine/use-view-row-rollups": "./view-engine/use-view-row-rollups/use-view-row-rollups.module.code.ts",

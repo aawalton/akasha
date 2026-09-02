@@ -6,7 +6,7 @@ import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-pro
 import { toPageDataRecord } from "@akasha/pages-ui-components/page-data-json"
 import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
 import { buildPageResolver } from "@akasha/pages-ui-components/view-engine/build-page-resolver"
-import { getPageGroupDefinition } from "@akasha/pages-ui-components/view-engine/generate-group-definitions"
+import { getPageGroupDefinition } from "../view-engine/generate-group-definitions/generate-group-definitions.module.code.ts"
 
 interface GroupedSource {
   pages: readonly PageWithProperties[]
