@@ -7,18 +7,9 @@ export const temperCatalogGenerators = {
   definition: "the source text of every data file temper renders from a game capture",
   manifest: "json",
   partSlugs: [
-    "module/achievement-catalog-tier",
-    "module/antiquity-catalog-tier",
-    "module/cadwell-catalog-tier",
     "module/catalog-tier",
-    "module/collectibles-catalog-tier",
     "module/lore-library-catalog-tier",
-    "module/poi-catalog-tier",
-    "module/quest-catalog-tier",
     "module/recipe-catalog-tier",
-    "module/trait-research-catalog-tier",
-    "module/tribute-catalog-tier",
-    "module/zone-completion-catalog-tier",
   ],
   invariants: [
     {
