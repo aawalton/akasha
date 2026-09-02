@@ -29,6 +29,7 @@ export const temperPlayerCompletion = {
     "module/completion-mount-training-completeness",
     "module/completion-override-row",
     "module/completion-percent",
+    "module/completion-scope-rollup",
     "module/cyrodiil-wayshrine",
     "module/skill-point-general-sources",
     "module/skill-point-group-dungeons",

@@ -36,6 +36,7 @@
     "./completion-override-row": "./completion-override-row/completion-override-row.module.code.ts",
     "./completion-percent": "./completion-percent/completion-percent.module.code.ts",
     "./completion-recipe-progress": "./completion-recipe-progress/completion-recipe-progress.module.code.ts",
+    "./completion-scope-rollup": "./completion-scope-rollup/completion-scope-rollup.module.code.ts",
     "./completion-scribing-progress": "./completion-scribing-progress/completion-scribing-progress.module.code.ts",
     "./completion-skill-line-progress": "./completion-skill-line-progress/completion-skill-line-progress.module.code.ts",
     "./completion-skill-points-progress": "./completion-skill-points-progress/completion-skill-points-progress.module.code.ts",
