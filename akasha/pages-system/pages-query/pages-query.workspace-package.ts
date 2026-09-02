@@ -10,6 +10,7 @@ export const pagesQuery = {
     "module/store-page-asking",
     "module/store-questioning",
     "module/store-reaching",
+    "module/store-spelled-asking",
     "module/store-spelling",
     "module/store-writing",
   ],

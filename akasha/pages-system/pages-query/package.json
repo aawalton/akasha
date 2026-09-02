@@ -8,6 +8,7 @@
     "./answer-schema": "./store-questioning/store-questioning.module.code.ts",
     "./fetcher": "./store-reaching/store-reaching.module.code.ts",
     "./fetcher/testing": "./store-reaching/store-reaching.module.test-fixtures.ts",
+    "./store-spelled-asking": "./store-spelled-asking/store-spelled-asking.module.code.ts",
     "./store-spelling": "./store-spelling/store-spelling.module.code.ts"
   },
   "dependencies": {
