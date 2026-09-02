@@ -1,17 +1,19 @@
 import {
   ALL_CLASS_ESO_SKILL_LINE_IDS,
   CLASS_ESO_SKILL_LINE_IDS,
-  MORPHABLE_SKILLS_DETAIL_PER_LINE,
+} from "@akasha/temper-characters-capture-addon/character-capture-skill-line-groups"
+import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "@akasha/temper-characters-capture-addon/character-capture-skill-line-map"
+import {
   MORPHABLE_SKILLS_PER_LINE,
   SKILL_LINE_DISPLAY_ORDER,
-} from "@temper/game-characters-capture-addon/skill-line-mappings"
+} from "@akasha/temper-characters-capture-addon/character-capture-skill-line-ranks"
+import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 import type { ExpectedMorphableSkill } from "@akasha/temper-skill-morphs/character-morph-progress-eso"
 import {
   type MorphSuggestionEntry,
   pickRelevantSkillLineIds,
   selectMorphSuggestions,
 } from "@akasha/temper-skill-morphs/select-morph-suggestions"
-import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 import {
   getSavedVariables,
   type TaskData,

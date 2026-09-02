@@ -1,9 +1,9 @@
 import {
   BASE_APPLICABLE_ESO_LINE_IDS,
   CLASS_ESO_SKILL_LINE_IDS,
-  MORPHABLE_SKILLS_DETAIL_PER_LINE,
   RACIAL_ESO_LINE_ID_PER_ESO_RACE,
-} from "@temper/game-characters-capture-addon/skill-line-mappings"
+} from "@akasha/temper-characters-capture-addon/character-capture-skill-line-groups"
+import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "@akasha/temper-characters-capture-addon/character-capture-skill-line-map"
 import { computeApplicableEsoSkillLineIds } from "@akasha/temper-skill-morphs/applicable-eso-skill-lines"
 import {
   computeCharacterMorphProgressByEsoId,
