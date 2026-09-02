@@ -46,19 +46,3 @@ export function rootsKey(roots: Roots): string {
 export function diskFileTree(roots: Roots): FileTree {
   return onceInCall(`disk:${rootsKey(roots)}`, () => builtDiskTree(roots))
 }
-
-function builtSpanningTree(roots: Roots): FileTree {
-  const placed = repoPlacings(roots)
-  return {
-    root: rootFor(roots, AKASHA),
-    roots,
-    pending: new Set<string>(),
-    paths: (glob) => scanSpanning(roots, typeof glob === "string" ? [glob] : glob),
-    open: openAcross(roots),
-    repoOf: (slug) => placed.get(slug) ?? null,
-  }
-}
-
-export function spanningFileTree(roots: Roots): FileTree {
-  return onceInCall(`spanning:${rootsKey(roots)}`, () => builtSpanningTree(roots))
-}
