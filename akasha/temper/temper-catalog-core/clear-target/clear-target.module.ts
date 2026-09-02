@@ -7,6 +7,7 @@ export const clearTarget = {
   definition:
     "reading what was asked to be cleared into all, one domain, an unknown name, or nothing",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

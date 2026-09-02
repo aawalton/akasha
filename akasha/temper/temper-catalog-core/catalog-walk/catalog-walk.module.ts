@@ -7,6 +7,7 @@ export const catalogWalk = {
   definition:
     "collecting each catalog domain in turn, giving up on one that hangs, and saying what was missed",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

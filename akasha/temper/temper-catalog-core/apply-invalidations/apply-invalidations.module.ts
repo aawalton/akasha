@@ -7,6 +7,7 @@ export const applyInvalidations = {
   definition:
     "what a request to collect named catalog domains again takes out of the saved payload",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
