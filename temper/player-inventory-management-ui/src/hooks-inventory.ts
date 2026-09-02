@@ -2,8 +2,8 @@
 
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
-import { assembleInventory } from "@temper/game-items-core/assemble-inventory"
-import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
+import { assembleInventory } from "@akasha/temper-items-core/assemble-inventory"
+import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { useMemo } from "react"
 import { chunksStillLoading } from "./chunks-loading"
