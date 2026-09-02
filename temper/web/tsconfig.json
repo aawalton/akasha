@@ -63,9 +63,6 @@
     },
     {
       "path": "../player-completion"
-    },
-    {
-      "path": "../player-economics-ui"
     }
   ],
   "include": [
