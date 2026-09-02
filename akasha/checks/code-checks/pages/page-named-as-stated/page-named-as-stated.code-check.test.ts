@@ -243,12 +243,24 @@ test("a page bound to some other name is refused, and the reason says both names
   expect(said[0]).toContain("named `partSlugs`")
 })
 
-test("a slug whose export name is a reserved word is refused whatever the page is bound to", () => {
+test("a slug whose export name is a reserved word is refused where nothing exports it so", () => {
   const body = page("import", "page-type", "importEdge")
   const said = reasons("akasha/import.page-type.ts", body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("bound as `importEdge`")
   expect(said[0]).toContain("named `import`")
+})
+
+test("a value bound to one name and exported under the name its slug makes is let through", () => {
+  const body = `${page("import", "command", "theImport")}export { theImport as import }\n`
+  expect(reasons("akasha/import.command.ts", body)).toEqual([])
+})
+
+test("a value exported under some other name is refused by the name it is bound as", () => {
+  const body = `${page("import", "command", "theImport")}export { theImport as held }\n`
+  const said = reasons("akasha/import.command.ts", body)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("bound as `theImport`")
 })
 
 test("a page bound by a pattern rather than a name is refused", () => {
