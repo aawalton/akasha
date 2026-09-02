@@ -7,6 +7,7 @@ export const pageFileName = {
   definition: "what a file's name says about the page it holds or stands beside",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -108,6 +109,26 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement: "A file property slug is never a reserved section.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property's files are numbered from the first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part section is the word `part` and a number of two or more.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part section follows the property slug and precedes `uncommitted`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first of a property's files carries no part section.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reserved section carries no part.",
     },
     {
       invariantKind: "absence",

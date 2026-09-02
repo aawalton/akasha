@@ -16,6 +16,10 @@ const SOPS = "sops"
 
 const HELD_YAML = "yaml"
 
+const PART = /^part([2-9]|[1-9][0-9]+)$/
+
+export const FIRST_PART = 1
+
 export type Parted = {
   readonly slug: string
   readonly pageType: string
@@ -38,6 +42,13 @@ export type Held = {
   readonly pageTypeSlug: string | null
   readonly page: string | null
   readonly propertySlug: string | null
+  readonly part: number
+  readonly uncommitted: boolean
+}
+
+export type Sectioned = {
+  readonly propertySlug: string
+  readonly part: number
   readonly uncommitted: boolean
 }
 
@@ -63,13 +74,37 @@ export function namedIn(path: string): Named | null {
   return { stem, tail: last, held: said.held }
 }
 
-function onlyIn(said: Parted): string | undefined {
-  return said.sections.length === 1 ? said.sections[0] : undefined
+export function partIn(section: string | undefined): number | null {
+  if (section === undefined) return null
+  const found = PART.exec(section)
+  return found === null ? null : Number(found[1])
 }
 
-function uncommittedPropertyIn(said: Parted): string | undefined {
-  if (said.sections.length !== 2 || said.sections[1] !== UNCOMMITTED) return undefined
-  return said.sections[0]
+export function sectionedIn(said: Parted): Sectioned | null {
+  let held = said.sections
+  const uncommitted = held.length > 1 && held[held.length - 1] === UNCOMMITTED
+  if (uncommitted) held = held.slice(0, -1)
+  let part = FIRST_PART
+  if (held.length > 1) {
+    const numbered = partIn(held[held.length - 1])
+    if (numbered !== null) {
+      part = numbered
+      held = held.slice(0, -1)
+    }
+  }
+  const only = held.length === 1 ? held[0] : undefined
+  if (only === undefined) return null
+  return { propertySlug: only, part, uncommitted }
+}
+
+function onlyIn(said: Parted): string | undefined {
+  const held = sectionedIn(said)
+  if (held === null || held.part !== FIRST_PART || held.uncommitted) return undefined
+  return held.propertySlug
+}
+
+function reserved(propertySlug: string): boolean {
+  return propertySlug === UNCOMMITTED || propertySlug === SOPS
 }
 
 function pageIn(said: Parted, pageTypes: ReadonlySet<string>): boolean {
@@ -120,6 +155,7 @@ function strayAt(path: string): Held {
     pageTypeSlug: null,
     page: null,
     propertySlug: null,
+    part: FIRST_PART,
     uncommitted: false,
   }
 }
@@ -141,6 +177,7 @@ export function heldIn(
       pageTypeSlug: null,
       page,
       propertySlug: null,
+      part: FIRST_PART,
       uncommitted: true,
     }
   }
@@ -152,6 +189,7 @@ export function heldIn(
       pageTypeSlug: null,
       page,
       propertySlug: null,
+      part: FIRST_PART,
       uncommitted: false,
     }
   }
@@ -163,31 +201,21 @@ export function heldIn(
       pageTypeSlug: said.pageType,
       page,
       propertySlug: null,
+      part: FIRST_PART,
       uncommitted: false,
     }
   }
-  if (only !== undefined && fileProperties.has(only)) {
-    return {
-      path,
-      kind: "property",
-      slug: null,
-      pageTypeSlug: null,
-      page,
-      propertySlug: only,
-      uncommitted: false,
-    }
+  const held = sectionedIn(said)
+  if (held === null || reserved(held.propertySlug)) return strayAt(path)
+  if (!fileProperties.has(held.propertySlug)) return strayAt(path)
+  return {
+    path,
+    kind: "property",
+    slug: null,
+    pageTypeSlug: null,
+    page,
+    propertySlug: held.propertySlug,
+    part: held.part,
+    uncommitted: held.uncommitted,
   }
-  const apart = uncommittedPropertyIn(said)
-  if (apart !== undefined && fileProperties.has(apart)) {
-    return {
-      path,
-      kind: "property",
-      slug: null,
-      pageTypeSlug: null,
-      page,
-      propertySlug: apart,
-      uncommitted: true,
-    }
-  }
-  return strayAt(path)
 }

@@ -45,6 +45,7 @@ export const pagesSystem = {
     "module/page-address",
     "module/markdown-page-type",
     "module/page-file-name",
+    "module/page-file-parts",
     "module/page-export-name",
     "module/page-beside",
     "module/page-body",

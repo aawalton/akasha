@@ -5,20 +5,22 @@ import {
   namedIn,
   pageNamed,
   partedIn,
+  partIn,
   secretAt,
   secretNamed,
   uncommittedAt,
   uncommittedBesideAt,
   uncommittedNamed,
 } from "./page-file-name.module.code.ts"
-
-const PAGE_TYPES = new Set<string>(["page-type", "module", "check", "domain"])
-
-const FILE_PROPERTIES = new Set<string>(["code", "test"])
-
-const PORTRAIT = new Set<string>(["portrait"])
-
-const PATCH = new Set<string>(["code", "test", "patch"])
+import {
+  FILE_PROPERTIES,
+  itemsAt,
+  kindOf,
+  MINE,
+  PAGE_TYPES,
+  PATCH,
+  PORTRAIT,
+} from "./page-file-name.module.test-fixtures.ts"
 
 test("a name is read as a stem, the tail after it, and what the file holds", () => {
   expect(namedIn("akasha/one/file-length.check.ts")).toEqual({
@@ -66,6 +68,7 @@ test("a page file is held as a page, carrying its slug and its page type", () =>
     pageTypeSlug: "check",
     page: "file-length.check",
     propertySlug: null,
+    part: 1,
     uncommitted: false,
   })
 })
@@ -78,6 +81,7 @@ test("a property file is held as a property, carrying the page it stands beside"
     pageTypeSlug: null,
     page: "file-length.check",
     propertySlug: "code",
+    part: 1,
     uncommitted: false,
   })
 })
@@ -106,6 +110,7 @@ test("a property file that is not TypeScript is held as a property of its page",
     pageTypeSlug: null,
     page: "sophia.persona",
     propertySlug: "portrait",
+    part: 1,
     uncommitted: false,
   })
 })
@@ -162,6 +167,7 @@ test("a file tailed `uncommitted` is held as its page's uncommitted values, not 
     pageTypeSlug: null,
     page: "file-length.check",
     propertySlug: null,
+    part: 1,
     uncommitted: true,
   })
 })
@@ -205,6 +211,7 @@ test("a file tailed `sops` is held as its page's secret values, not as a propert
     pageTypeSlug: null,
     page: "aine.claude-account",
     propertySlug: null,
+    part: 1,
     uncommitted: false,
   })
 })
@@ -238,10 +245,6 @@ test("a name tailed `sops` is answered as one, and a page or property or uncommi
   expect(secretNamed("akasha/one/file-length.check.code.ts")).toBe(false)
   expect(secretNamed("akasha/one/file-length.check.uncommitted.ts")).toBe(false)
 })
-
-function kindOf(path: string): string {
-  return heldIn(path, PAGE_TYPES, FILE_PROPERTIES).kind
-}
 
 test("a name is read from its slug, and what follows the page type is a list of sections", () => {
   expect(partedIn("akasha/one/file-length.check.ts")).toEqual({
@@ -355,6 +358,7 @@ test("a file property is held uncommitted under its own slug and then `uncommitt
     pageTypeSlug: null,
     page: "dalla.seat",
     propertySlug: "patch",
+    part: 1,
     uncommitted: true,
   })
   expect(kindOf(path)).toBe("stray")
@@ -373,4 +377,20 @@ test("a property held uncommitted is no values sidecar, however the sets read it
   const path = "akasha/one/dalla.seat.patch.uncommitted.patch"
   expect(heldIn(path, PAGE_TYPES, PATCH).kind).toBe("property")
   expect(uncommittedNamed(path)).toBe(false)
+})
+
+test("a property's file past the first carries a part, and heldIn reads it back", () => {
+  const held = itemsAt(`${MINE}.items.part2.jsonl`)
+  expect(held.kind).toBe("property")
+  expect(held.propertySlug).toBe("items")
+  expect(held.part).toBe(2)
+  expect(itemsAt(`${MINE}.items.jsonl`).part).toBe(1)
+})
+
+test("a part number below two is never written, and a part needs a property before it", () => {
+  expect(partIn("part2")).toBe(2)
+  expect(partIn("part1")).toBeNull()
+  expect(partIn("part02")).toBeNull()
+  expect(itemsAt(`${MINE}.items.part1.jsonl`).kind).toBe("stray")
+  expect(itemsAt(`${MINE}.part2.jsonl`).propertySlug).toBe("part2")
 })

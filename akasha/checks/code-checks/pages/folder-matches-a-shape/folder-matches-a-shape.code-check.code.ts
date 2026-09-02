@@ -204,6 +204,7 @@ export function claimedIn(held: Held, index: Answering, filing: ReadonlyMap<stri
     pageTypeSlug: null,
     page: pageNameOf(claiming.path),
     propertySlug,
+    part: held.part,
     uncommitted: false,
   }
 }
