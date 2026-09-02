@@ -51,7 +51,9 @@
     "./watcher-signed-in-user": "./watcher-signed-in-user/watcher-signed-in-user.module.code.ts",
     "./watcher-import-inventory": "./watcher-import-inventory/watcher-import-inventory.module.code.ts",
     "./watcher-import-tasks": "./watcher-import-tasks/watcher-import-tasks.module.code.ts",
-    "./watcher-export-companion-builds": "./watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
+    "./watcher-export-companion-builds": "./watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts",
+    "./watcher-export-settings": "./watcher-export-settings/watcher-export-settings.module.code.ts",
+    "./watcher-export-tasks": "./watcher-export-tasks/watcher-export-tasks.module.code.ts"
   },
   "dependencies": {
     "@akasha/day": "workspace:*",
