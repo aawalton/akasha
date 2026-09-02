@@ -11,7 +11,12 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "Alan has ruled the markdown readout and widget pages ablated, migrating first what the new system reads — and the widgets half reads them by a declared invariant, so migrating is the live branch rather than the exception. He has also approved bun children for the four in-process reaches the editor makes. The transpiler made lazy at `75cfe9da86` was a half-mend: `Bun.` still reaches node there and in `atomic-write`, so one crash at startup became two intermittent ones.",
+        "The bar now reads through the widgets' system: upkeep 6, inboxes 3, keys and order byte-identical to the routes, 19.0s down to 34ms, and it answers under node with no Bun global. Nobody has seen it render in a live host, so what is owed is Alan reloading his window. The four in-process reaches he approved moving to bun children are a lane's, and `atomic-write` carries a `Bun.sleepSync` the same half-mend left reachable.",
+    },
+    {
+      statement: "Nothing reads a readout through the markdown engine.",
+      workingMemory:
+        "Alan ruled it ablated, migrating first what the new system reads. Blocked twice, both measured. `values` has no page in akasha at all, so the group the bar calls `daily` has nowhere to land. And the three groups are the denominator of Alan's daily points, where a member going missing resolves to zero with nothing thrown, so his points would quietly get larger. Lanes hold the values migration and the points engine; the markdown itself is untouched.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
