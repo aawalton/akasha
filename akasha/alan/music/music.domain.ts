@@ -25,6 +25,14 @@ export const music = {
     },
     {
       invariantKind: "departure",
+      statement: "Everything music keeps is a page in akasha.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No music is kept in markdown.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every kind of thing music keeps has a page type of its own.",
     },
     {

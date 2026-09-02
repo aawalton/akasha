@@ -9,12 +9,6 @@ export const eppieMigrateMusicToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement:
-        "Every song, artist and listen the music keeps is a page in akasha rather than in `pages/`.",
-      workingMemory:
-        "1,656 songs, 14 artists and 649 heard tracks are pages under `akasha/alan/music`, and 698 listens are rows on the twelve ESO days they were played in. 23,184 field comparisons and 4,863,694 attachment bytes match the source, checked again after the commands landed. Only `tools/commands/music/` and `collections/music/` read the old copies. Deleting them is what is left, and `akasha remove` is the wall: see the finding `removing-a-page-the-new-one-is-named-after-is-refused`.",
-    },
-    {
       statement: "Alan's listening is captured again, onto the pages the new system keeps.",
       workingMemory:
         "The capture was not given up on: an agent overreached and deleted it in `2669aed6` on 1 September. Its five files and 475 lines come back out of `2669aed6^:collections/music/src/listening/` rather than being written again. `capture.ts` holds the drain from `getRecentlyPlayed`, and `play-row.ts` the arithmetic, including the rule that a priming run scores no first listen.",
