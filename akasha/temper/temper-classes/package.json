@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/temper-classes",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./character-class": "./character-class/character-class.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

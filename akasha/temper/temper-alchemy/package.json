@@ -1,0 +1,22 @@
+{
+  "name": "@akasha/temper-alchemy",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./poison-effect": "./poison-effect/poison-effect.module.code.ts",
+    "./poison-source": "./poison-source/poison-source.module.code.ts",
+    "./potion-source": "./potion-source/potion-source.module.code.ts",
+    "./potion-traits": "./potion-traits/potion-traits.module.code.ts",
+    "./potions-crafted": "./potions-crafted/potions-crafted.module.code.ts",
+    "./potions-crafted-health": "./potions-crafted-health/potions-crafted-health.module.code.ts",
+    "./potions-crafted-magicka": "./potions-crafted-magicka/potions-crafted-magicka.module.code.ts",
+    "./potions-crafted-other": "./potions-crafted-other/potions-crafted-other.module.code.ts",
+    "./potions-crafted-stamina": "./potions-crafted-stamina/potions-crafted-stamina.module.code.ts",
+    "./potions-crown": "./potions-crown/potions-crown.module.code.ts",
+    "./potions-dropped": "./potions-dropped/potions-dropped.module.code.ts",
+    "./reagent": "./reagent/reagent.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-formula-framework": "workspace:*"
+  }
+}

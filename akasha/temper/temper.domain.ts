@@ -47,6 +47,9 @@ export const temper = {
     "workspace-package/temper-saved-vars-migration",
     "workspace-package/temper-addon-generators",
     "workspace-package/temper-capture-host",
+    "workspace-package/temper-champion-points",
+    "workspace-package/temper-classes",
+    "workspace-package/temper-alchemy",
   ],
   invariants: [
     {

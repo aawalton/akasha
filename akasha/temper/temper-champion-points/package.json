@@ -1,0 +1,18 @@
+{
+  "name": "@akasha/temper-champion-points",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./champion-point-source": "./champion-point-source/champion-point-source.module.code.ts",
+    "./craft-passives": "./craft-passives/craft-passives.module.code.ts",
+    "./craft-slottables": "./craft-slottables/craft-slottables.module.code.ts",
+    "./fitness-passives": "./fitness-passives/fitness-passives.module.code.ts",
+    "./fitness-slottables": "./fitness-slottables/fitness-slottables.module.code.ts",
+    "./warfare-passives": "./warfare-passives/warfare-passives.module.code.ts",
+    "./warfare-slottables": "./warfare-slottables/warfare-slottables.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
