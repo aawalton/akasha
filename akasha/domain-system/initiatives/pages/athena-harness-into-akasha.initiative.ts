@@ -12,7 +12,7 @@ export const athenaHarnessIntoAkasha = {
       statement:
         "The model gateway is a domain in akasha, and every module it runs from is a page there.",
       workingMemory:
-        "33 gateway modules, 572 tests. gateway.ts became in-flight and proxy-serving; main.ts became proxy-process. Not met: 12 files under tools/lib/model-gateway/ have no module, 36.6 KB. pick-pipeline is the hub and imports seven of them; also left are committed-keepalive, forced-tool-choice, rate-limit-response and proxy-seats. proxy-process hands getLogDir, which nothing landed reads, and hands no logAt, so a booted gateway writes no transport row.",
+        "42 gateway modules, 737 tests. The twelve leftover files landed as nine modules and three folds; pick-pipeline became account-walk, and read-error-type-safely turned out to be peek-response already. Left to wire proxy-serving to account-walk: a fresh-credential module from gateway.ts:82-98, and now/slept/said added to ServingParts. Still unported: seat-roster, seat-proxy-state, model-vocab. proxy-process hands no logAt, so a booted gateway writes no transport row.",
     },
     {
       statement: "No part of the model gateway is outside akasha.",
