@@ -6,6 +6,7 @@ export const completionMountTrainingCompleteness = {
   slug: "completion-mount-training-completeness",
   definition: "whether a character has trained a mount to its limit",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
