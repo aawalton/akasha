@@ -2042,6 +2042,7 @@
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
+        "@akasha/supabase-server": "workspace:*",
         "isbot": "^5.1.36",
         "katex": "^0.16.28",
         "lucide-react": "^0.576.0",
@@ -2049,6 +2050,7 @@
         "react-dom": "19.2.0",
         "react-router": "7.15.1",
         "tw-animate-css": "1.3.3",
+        "zod": "^4.3.6",
       },
       "devDependencies": {
         "@react-router/dev": "7.15.1",

@@ -10,5 +10,13 @@ export const temperWeb = {
   routeTable: "ts",
   serverEntry: "tsx",
   routerConfig: "ts",
-  partSlugs: ["stylesheet/temper-web-look"],
+  partSlugs: [
+    "stylesheet/temper-web-look",
+    "module/addons-bundle-dir",
+    "module/served-watcher-version",
+    "module/supabase-service-client",
+    "module/tab-defaults",
+    "module/temper-app-id",
+    "module/watcher-dir",
+  ],
 } as const satisfies RouterApp
