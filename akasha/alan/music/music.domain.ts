@@ -7,4 +7,14 @@ export const music = {
   definition: "music heard and what is kept of it",
   pluralSlug: "music",
   partSlugs: ["domain/music-catalog", "domain/music-listening"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Every kind of thing music keeps has a page type of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Music keeps what was made apart from what was heard.",
+    },
+  ],
 } as const satisfies Domain
