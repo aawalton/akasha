@@ -9,11 +9,14 @@ export const temperProgress = {
   partSlugs: [
     "page-type/temper-activity-category",
     "page-type/temper-comparison-op",
+    "page-type/temper-completed-month",
     "page-type/temper-completion-category",
     "page-type/temper-completion-override",
     "page-type/temper-metric-tree",
     "page-type/temper-progress-thing",
     "page-type/temper-rotation-breakdown-row",
     "page-type/temper-rule-template",
+    "page-type/temper-task",
+    "page-type/temper-watcher-enrolment",
   ],
 } as const satisfies Domain
