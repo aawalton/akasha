@@ -82,3 +82,21 @@ test("what went back is named to the agent", () => {
   expect(saying(["akasha/one.ts", "akasha/two.ts"])).toContain("2 paths")
   expect(saying(["akasha/one.ts"])).toContain("akasha/one.ts")
 })
+
+test("an entry for a path in neither the commit nor the folder is taken out of the index", () => {
+  const root = seeded()
+  put(root, "akasha/gone.domain.ts", "gone\n")
+  gitIn(root, ["add", "--all"])
+  rmSync(join(root, "akasha/gone.domain.ts"))
+  expect(dirtyIn(root).map((one) => one.path)).toEqual(["akasha/gone.domain.ts"])
+  expect(restoreIn(root)).toEqual(["akasha/gone.domain.ts"])
+  expect(dirtyIn(root)).toEqual([])
+})
+
+test("a path that could not go back is no path that went back", () => {
+  const root = seeded()
+  put(root, "akasha/added.domain.ts", "added\n")
+  gitIn(root, ["add", "--all"])
+  expect(restoreIn(root)).toEqual([])
+  expect(dirtyIn(root).map((one) => one.path)).toEqual(["akasha/added.domain.ts"])
+})

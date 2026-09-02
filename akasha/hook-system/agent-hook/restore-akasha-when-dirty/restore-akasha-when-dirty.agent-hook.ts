@@ -24,7 +24,25 @@ export const restoreAkashaWhenDirty = {
     },
     {
       invariantKind: "departure",
-      statement: "What went back is judged by what stands rather than by what the call said.",
+      statement:
+        "What went back is judged by what the folder holds rather than by what the call said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder is read again once it has been put back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path still changed once the folder is read again did not go back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call that put nothing back is told nothing and goes through.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An entry for a path in neither the commit nor the folder is taken out of the index.",
     },
     {
       invariantKind: "departure",

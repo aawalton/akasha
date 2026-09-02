@@ -1,4 +1,4 @@
-import { rmSync } from "node:fs"
+import { existsSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { holding } from "@akasha/command-system/holding"
 import { rootOf } from "@akasha/command-system/rooting"
@@ -46,6 +46,10 @@ export function dirtyIn(root: string): readonly Dirty[] {
   return dirtyOf(gitIn(root, ["status", "--porcelain", "--", GUARDED]))
 }
 
+function committed(root: string, path: string): boolean {
+  return gitIn(root, ["ls-tree", "HEAD", "--", path]).trim() !== ""
+}
+
 export function restoreIn(root: string): readonly string[] {
   const dirty = dirtyIn(root)
   if (dirty.length === 0) return []
@@ -57,7 +61,16 @@ export function restoreIn(root: string): readonly string[] {
   if (dirty.some((one) => one.code !== UNTRACKED)) {
     gitIn(root, ["checkout", "HEAD", "--", GUARDED])
   }
-  return dirty.map((one) => one.path).sort()
+  for (const one of dirtyIn(root)) {
+    if (committed(root, one.path)) continue
+    if (existsSync(join(root, one.path))) continue
+    gitIn(root, ["update-index", "--force-remove", "--", one.path])
+  }
+  const left = new Set<string>(dirtyIn(root).map((one) => one.path))
+  return dirty
+    .map((one) => one.path)
+    .filter((one) => !left.has(one))
+    .sort()
 }
 
 export function saying(put: readonly string[]): string {
