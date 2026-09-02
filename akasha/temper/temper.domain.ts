@@ -76,6 +76,7 @@ export const temper = {
     "workspace-package/temper-narrow",
     "workspace-package/temper-items-core",
     "workspace-package/temper-equipment-kinds",
+    "workspace-package/temper-equipment",
     "workspace-package/temper-hud-window",
     "workspace-package/temper-errors-triage",
     "workspace-package/temper-catalog-side-file",
