@@ -6,6 +6,7 @@ export const completionCumulativeCards = {
   slug: "completion-cumulative-cards",
   definition: "the account and character cards that count for all time",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "absence",
