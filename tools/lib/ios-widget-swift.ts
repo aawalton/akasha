@@ -1,12 +1,14 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { readoutCatalog } from "../../readouts/readout-catalog.ts"
+import { valuesOfType } from "@akasha/indexes"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const WIDGET_PAGE_TYPE = "readout-widget"
 
 const WIDGET_DIR = "readouts/widget"
+
+const READOUT_PAGE_TYPE = "readout"
 
 export interface WidgetDoc {
   readonly slug: string
@@ -87,18 +89,47 @@ function extensionDir(root: string, appSlug: string): string {
   return `${shell}/ios-widget`
 }
 
+function textIn(held: unknown): string | null {
+  return typeof held === "string" && held !== "" ? held : null
+}
+
+function numberIn(held: unknown): number | null {
+  return typeof held === "number" && Number.isFinite(held) ? held : null
+}
+
+function namesIn(held: unknown): readonly string[] {
+  if (!Array.isArray(held)) return []
+  return held.filter((one): one is string => typeof one === "string")
+}
+
+/**
+ * The readouts every named group holds, read from the akasha index.
+ *
+ * The markdown catalog answered this until now. It read `*.readout.md` alone and could not see a
+ * `*.readout.ts` page at all, so the tile and the wire route were reading two different trees —
+ * the failure recorded in `a-readout-ablated-in-typescript-is-still-answered-from-its-markdown-twin`.
+ *
+ * What a tile finds its circle under is the wire key, never the slug: the key is what `habit`
+ * carries on the wire and what names the ring type. So the one reading the two engines spell
+ * differently — `unreviewed` in markdown, `monarch-unreviewed-transactions` in akasha, both
+ * carrying `unreviewed` as their wire key — draws the same Swift under either engine, and the slug
+ * survives here only as the tie-break of a sort no one-ring widget reaches.
+ */
 function readingsOfGroups(groups: readonly string[]): readonly ReadingDoc[] {
   const wanted = new Set(groups)
   const found: ReadingDoc[] = []
-  for (const [slug, row] of readoutCatalog().readouts) {
-    if (!row.groupSlugs.some((group) => wanted.has(group))) continue
-    if (row.wireKey === null) {
+  for (const { value } of valuesOfType(akashaRoot(), READOUT_PAGE_TYPE)) {
+    const slug = textIn(value.slug)
+    if (slug === null) continue
+    if (!namesIn(value.groupSlugs).some((group) => wanted.has(group))) continue
+    const wireKey = textIn(value.wireKey)
+    if (wireKey === null) {
       throw new Error(
         `readout \`${slug}\` states no \`wire-key\`, so nothing says which key the widget ` +
           "already shipped finds its circle under"
       )
     }
-    found.push({ slug, label: row.label, place: row.place ?? 0, wireKey: row.wireKey })
+    found.push({ slug, label: textIn(value.label), place: numberIn(value.place) ?? 0, wireKey })
   }
   return [...found].sort((a, b) => a.place - b.place || a.slug.localeCompare(b.slug))
 }
