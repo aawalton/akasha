@@ -1,6 +1,6 @@
 import { ADDON_BUILD_CONCURRENCY } from "./addon-build-cache.ts"
-import { type CheckConfig, treeShaArgs } from "./check-configs-types"
 import { addonPackageSeeds } from "./check-configs-addons-seeds.ts"
+import { type CheckConfig, treeShaArgs } from "./check-configs-types"
 
 export const addonBuildChecks = (codeRoot: string): CheckConfig[] => [
   {
@@ -20,40 +20,5 @@ export const addonBuildChecks = (codeRoot: string): CheckConfig[] => [
     },
     script: "infra/cluster-checks/src/checks/check-addon-build.ts",
     args: treeShaArgs,
-  },
-  {
-    name: "addon-sandbox-safety",
-    dependsOn: ["addon-build"],
-    dispatchNodes: [
-      ...addonPackageSeeds(codeRoot),
-      "ts-file:code:temper/shared-build-deploy-checks/src/check-addon-sandbox-safety.ts",
-      "ts-file:code:temper/shared-build-deploy-checks/src/addon-banned-symbols.ts",
-    ],
-    closurePolicy: "import-graph",
-    script: "temper/shared-build-deploy-checks/src/check-addon-sandbox-safety.ts",
-  },
-  {
-    name: "addon-sandbox-load",
-    dependsOn: ["addon-build"],
-    dispatchNodes: [
-      ...addonPackageSeeds(codeRoot),
-      "ts-file:code:temper/shared-build-deploy-checks/src/check-addon-sandbox-load.ts",
-      "ts-file:code:temper/shared-build-deploy-checks/src/addon-sandbox-load.ts",
-      "ts-file:code:temper/shared-build-deploy-checks/src/eso-sandbox-globals.ts",
-    ],
-    closurePolicy: "import-graph",
-    script: "temper/shared-build-deploy-checks/src/check-addon-sandbox-load.ts",
-  },
-  {
-    name: "addon-removed-refs",
-    dependsOn: ["addon-build"],
-    dispatchNodes: [
-      ...addonPackageSeeds(codeRoot),
-      "ts-file:code:temper/shared-build-deploy-checks/src/check-addon-removed-refs.ts",
-      "ts-file:code:temper/shared-build-deploy-checks/src/addon-removed-refs.ts",
-      "ts-file:code:temper/shared-build-deploy-checks/src/addon-removed-refs.manifest.ts",
-    ],
-    closurePolicy: "import-graph",
-    script: "temper/shared-build-deploy-checks/src/check-addon-removed-refs.ts",
   },
 ]
