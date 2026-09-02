@@ -21,6 +21,9 @@
     "./journal-tooltips": "./journal-tooltips/journal-tooltips.module.code.ts",
     "./journal-tooltip-colors": "./journal-tooltip-colors/journal-tooltip-colors.module.code.ts",
     "./journal-public-api": "./journal-public-api/journal-public-api.module.code.ts",
-    "./journal-main": "./journal-main/journal-main.module.code.ts"
+    "./journal-main": "./journal-main/journal-main.module.code.ts",
+    "./journal-control-names": "./journal-control-names/journal-control-names.type-declaration.d.ts",
+    "./journal-string-ids": "./journal-string-ids/journal-string-ids.type-declaration.d.ts",
+    "./journal-saved-variables": "./journal-saved-variables/journal-saved-variables.type-declaration.d.ts"
   }
 }
