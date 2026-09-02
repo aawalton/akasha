@@ -1,18 +1,27 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
 import { Switch } from "@akasha/design-primitives/switch-control"
 import { Text } from "@akasha/design-primitives/text-body"
-import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import type { CanLevelMorphsCondition } from "@temper/game-items-rules-core/filters/can-level-morphs-filter-types"
+import type { CanLevelMorphsCondition } from "@akasha/temper-items-rules-core/can-level-morphs-filter-types"
+import type { CharEligibility } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type {
   RequiredSkillLinesCondition,
   RequiredSkillLinesMode,
-} from "@temper/game-items-rules-core/filters/required-skill-lines-filter-types"
-import type { CharEligibility } from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/required-skill-lines-filter-types"
+import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import type { ReactNode } from "react"
 
 const SKILL_LINE_OPTIONS: readonly BadgeToggleGroupItem[] = skillLines.list
