@@ -2,7 +2,7 @@
   "name": "@temper/game-navigation-addon",
   "dependencies": {
     "@akasha/temper-settings-panel": "workspace:*",
-    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*"
+    "@akasha/temper-addon-init": "workspace:*"
   },
   "devDependencies": {
     "@akasha/temper-eso-paths": "workspace:*",

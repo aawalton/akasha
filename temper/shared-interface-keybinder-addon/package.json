@@ -7,7 +7,7 @@
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
   },
   "dependencies": {
-    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*"
+    "@akasha/temper-addon-init": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"

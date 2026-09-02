@@ -1,5 +1,5 @@
-import { base64urlToBytes } from "@temper/shared-foundation-misc-codec/base64url"
-import { makeBitReader, readBits } from "@temper/shared-foundation-misc-codec/bit-reader"
+import { base64urlToBytes } from "@akasha/temper-bit-codec/base64url"
+import { makeBitReader, readBits } from "@akasha/temper-bit-codec/bit-reader"
 import {
   ARMOR_WEIGHT_BITS,
   COMPANION_BITS,

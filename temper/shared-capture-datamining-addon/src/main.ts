@@ -1,6 +1,6 @@
 import "./public-api"
 
-import { defineCaptureWriter } from "@temper/shared-capture-core/define-capture-writer"
+import { defineCaptureWriter } from "@akasha/temper-capture-writer/capture-writer"
 import { DATAMINING_CAPTURE_DESCRIPTOR } from "@akasha/temper-capture-datamining/datamining-descriptor"
 import { ADDON_NAME, AUTO_START_DELAY } from "./constants"
 import { printStatus, resetMining, startMining, stopMining, testItemLinkRanges } from "./miner"

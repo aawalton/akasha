@@ -9,7 +9,7 @@ import {
 } from "../generated/player-equipment-mappings.generated"
 import { getSetIndex } from "../generated/set-mappings.generated"
 import { getEnchantQualityIndex } from "./equipment-mappings"
-import { getArmorWeightIndex, getQualityIndex } from "@temper/shared-foundation-misc-codec/equipment-mappings"
+import { getArmorWeightIndex, getQualityIndex } from "@akasha/temper-bit-codec/equipment-mappings"
 import type {
   CharacterArmorSlotData,
   CharacterJewelrySlotData,

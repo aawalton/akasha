@@ -5,7 +5,7 @@ import "./mappins/init"
 import "./destinations/init"
 import "./votans-minimap/init"
 
-import { registerAddonInit } from "@temper/shared-build-deploy-addon-bundle-runtime/bundle-runtime"
+import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
 import { ADDON_NAME } from "./constants"
 import { OnAddOnLoaded } from "./events"
 

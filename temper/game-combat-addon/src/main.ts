@@ -3,7 +3,7 @@ import "./ui/context-menus"
 import "./ui/selection-ui"
 import "./ui/tooltips"
 
-import { registerAddonInit } from "@temper/shared-build-deploy-addon-bundle-runtime/bundle-runtime"
+import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
 import { ADDON_NAME } from "./constants"
 import { setCombatLogStringFormatter } from "./core/events"
 import { initializeCore } from "./core/initialize"

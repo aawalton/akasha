@@ -5,7 +5,7 @@ import type {
   SkillCatalogLine,
   SkillCatalogMorph,
 } from "@akasha/temper-capture-shapes/skill-catalog"
-import { runBatched } from "@temper/shared-capture-core/run-batched"
+import { runBatched } from "@akasha/temper-capture-writer/run-batched"
 
 const BATCH_SIZE = 100
 const BATCH_DELAY = 100

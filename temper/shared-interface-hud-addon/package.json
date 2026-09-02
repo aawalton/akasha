@@ -4,7 +4,7 @@
     "@akasha/design-tokens": "workspace:*",
     "@akasha/temper-hud-components": "workspace:*",
     "@akasha/temper-settings-panel": "workspace:*",
-    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
+    "@akasha/temper-addon-init": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },
   "devDependencies": {

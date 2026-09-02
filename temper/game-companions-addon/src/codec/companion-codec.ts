@@ -1,9 +1,9 @@
-import { bytesToBase64url } from "@temper/shared-foundation-misc-codec/base64url"
+import { bytesToBase64url } from "@akasha/temper-bit-codec/base64url"
 import {
   bitWriterToBytes,
   makeBitWriter,
   writeBits,
-} from "@temper/shared-foundation-misc-codec/bit-writer"
+} from "@akasha/temper-bit-codec/bit-writer"
 import {
   getArmorTraitIndex,
   getArmorWeightIndex,
@@ -11,7 +11,7 @@ import {
   getQualityIndex,
   getWeaponTraitIndex,
   getWeaponTypeIndex,
-} from "@temper/shared-foundation-misc-codec/equipment-mappings"
+} from "@akasha/temper-bit-codec/equipment-mappings"
 import {
   ARMOR_WEIGHT_BITS,
   CODEC_MINOR_VERSION,

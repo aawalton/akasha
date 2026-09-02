@@ -1,7 +1,7 @@
 import "./public-api"
 
-import { registerAddonInit } from "@temper/shared-build-deploy-addon-bundle-runtime/bundle-runtime"
-import { finishPerfTrace, startPerfTrace } from "@temper/shared-capture-perf/perf"
+import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
+import { finishPerfTrace, startPerfTrace } from "@akasha/temper-capture-perf/perf-trace"
 import { createBrowseEngine } from "./browse-engine"
 import { createBrowseWindow } from "./browse-window"
 import { ADDON_NAME } from "./constants"

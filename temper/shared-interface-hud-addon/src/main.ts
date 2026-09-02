@@ -1,6 +1,6 @@
 import "./public-api"
 
-import { registerAddonInit } from "@temper/shared-build-deploy-addon-bundle-runtime/bundle-runtime"
+import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
 import { installBuiltinFields, resetSession } from "./builtins"
 import { initializeTemperCommands } from "./commands"
 import { initializeComponentHiding } from "./hide-init"

@@ -6,7 +6,7 @@ import "./losttreasure/init"
 import "./dungeon-champions/init"
 import "./item-browser/init"
 
-import { registerAddonInit } from "@temper/shared-build-deploy-addon-bundle-runtime/bundle-runtime"
+import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
 import { ADDON_NAME } from "./constants"
 import { OnAddOnLoaded } from "./events"
 

@@ -1,5 +1,5 @@
 import "./public-api"
-import { defineCaptureWriter } from "@temper/shared-capture-core/define-capture-writer"
+import { defineCaptureWriter } from "@akasha/temper-capture-writer/capture-writer"
 import { SALES_CAPTURE_DESCRIPTOR } from "@akasha/temper-capture-sales/sales-descriptor"
 import { setSalesAccessor, startSalesCapture } from "./capture"
 import { ADDON_NAME } from "./constants"

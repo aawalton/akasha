@@ -1,1 +1,1 @@
-export { runBatched } from "@temper/shared-capture-core/run-batched"
+export { runBatched } from "@akasha/temper-capture-writer/run-batched"

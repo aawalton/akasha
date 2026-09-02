@@ -5,7 +5,7 @@ import {
   QUALITY_TO_INDEX,
   WEAPON_TRAIT_TO_INDEX,
   WEAPON_TYPE_TO_INDEX,
-} from "@temper/shared-foundation-misc-codec/equipment-mappings"
+} from "@akasha/temper-bit-codec/equipment-mappings"
 import { SKILL_ABILITY_ID_TO_INDEX } from "../generated/skill-mappings.generated"
 
 export const INDEX_TO_ARMOR_WEIGHT: string[] = ["", "Light", "Medium", "Heavy"]

@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "@akasha/temper-capture-datamining": "workspace:*",
-    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
-    "@temper/shared-capture-core": "workspace:*"
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-capture-writer": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"

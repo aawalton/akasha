@@ -9,7 +9,7 @@ import { type CatalogWalkVerdict, runCatalogWalk } from "@akasha/temper-catalog-
 import {
   type CaptureWriter,
   defineCaptureWriter,
-} from "@temper/shared-capture-core/define-capture-writer"
+} from "@akasha/temper-capture-writer/capture-writer"
 import { registerApiTestCommand } from "./api-test"
 import "@temper/game-completion-capture-addon/achievements"
 import "@temper/game-crafting-capture-addon/recipes"

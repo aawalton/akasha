@@ -1,4 +1,4 @@
-import { defineCaptureWriter } from "@temper/shared-capture-core/define-capture-writer"
+import { defineCaptureWriter } from "@akasha/temper-capture-writer/capture-writer"
 import { ERRORS_CAPTURE_DESCRIPTOR } from "@akasha/temper-capture-errors/errors-descriptor"
 import {
   flushTempDb,

@@ -1,6 +1,6 @@
 import "./public-api"
 
-import { registerAddonInit } from "@temper/shared-build-deploy-addon-bundle-runtime/bundle-runtime"
+import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
 import { ADDON_NAME } from "./constants"
 import { registerEvents } from "./events"
 import { initializeSavedVariables } from "./saved-variables"

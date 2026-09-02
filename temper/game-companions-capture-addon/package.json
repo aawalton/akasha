@@ -15,7 +15,7 @@
   "dependencies": {
     "@akasha/temper-capture-shapes": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
-    "@temper/shared-capture-core": "workspace:*"
+    "@akasha/temper-capture-writer": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"

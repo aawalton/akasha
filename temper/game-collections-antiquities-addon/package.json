@@ -1,7 +1,7 @@
 {
   "name": "@temper/game-collections-antiquities-addon",
   "dependencies": {
-    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
+    "@akasha/temper-addon-init": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },
   "devDependencies": {

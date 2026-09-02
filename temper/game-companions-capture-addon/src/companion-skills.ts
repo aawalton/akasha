@@ -4,7 +4,7 @@ import type {
   CompanionSkillCatalogAbility,
   CompanionSkillCatalogLine,
 } from "@akasha/temper-capture-shapes/companion-skill-catalog"
-import { runBatched } from "@temper/shared-capture-core/run-batched"
+import { runBatched } from "@akasha/temper-capture-writer/run-batched"
 
 const BATCH_SIZE = 100
 const BATCH_DELAY = 100

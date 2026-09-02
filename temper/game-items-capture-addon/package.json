@@ -10,7 +10,7 @@
   "dependencies": {
     "@akasha/temper-capture-shapes": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
-    "@temper/shared-capture-core": "workspace:*"
+    "@akasha/temper-capture-writer": "workspace:*"
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"

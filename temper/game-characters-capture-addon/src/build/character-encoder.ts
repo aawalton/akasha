@@ -1,10 +1,10 @@
-import { bytesToBase64url } from "@temper/shared-foundation-misc-codec/base64url"
+import { bytesToBase64url } from "@akasha/temper-bit-codec/base64url"
 import {
   type BitWriterState,
   bitWriterToBytes,
   makeBitWriter,
   writeBits,
-} from "@temper/shared-foundation-misc-codec/bit-writer"
+} from "@akasha/temper-bit-codec/bit-writer"
 import {
   CHARACTER_AFFIX_SCRIPT_BITS,
   CHARACTER_ALLIANCE_BITS,

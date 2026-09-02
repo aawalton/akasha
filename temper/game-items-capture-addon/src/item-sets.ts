@@ -5,7 +5,7 @@ import type {
   ItemSetCatalogEntry,
   ItemSetCatalogPiece,
 } from "@akasha/temper-capture-shapes/item-set-catalog"
-import { runBatched } from "@temper/shared-capture-core/run-batched"
+import { runBatched } from "@akasha/temper-capture-writer/run-batched"
 export function resolveCategoryNames(itemSetId: number): {
   categoryName?: string
   subcategoryName?: string

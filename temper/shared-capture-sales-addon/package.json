@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "@akasha/temper-capture-sales": "workspace:*",
-    "@temper/shared-capture-core": "workspace:*"
+    "@akasha/temper-capture-writer": "workspace:*"
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"

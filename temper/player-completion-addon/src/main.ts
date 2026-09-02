@@ -4,8 +4,8 @@ import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
 } from "@temper/game-characters-skills-morphs-addon/tracking/skill-morphs"
-import { registerAddonInit } from "@temper/shared-build-deploy-addon-bundle-runtime/bundle-runtime"
-import { finishPerfTrace, startPerfTrace } from "@temper/shared-capture-perf/perf"
+import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
+import { finishPerfTrace, startPerfTrace } from "@akasha/temper-capture-perf/perf-trace"
 import { registerCommands } from "./commands"
 import { ADDON_NAME } from "./constants"
 import { registerBuildEvents } from "./events-build"

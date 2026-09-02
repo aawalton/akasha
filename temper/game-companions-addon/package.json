@@ -3,9 +3,9 @@
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
     "@akasha/temper-settings-panel": "workspace:*",
-    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
-    "@temper/shared-capture-perf": "workspace:*",
-    "@temper/shared-foundation-misc-codec": "workspace:*",
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-capture-perf": "workspace:*",
+    "@akasha/temper-bit-codec": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },
   "devDependencies": {

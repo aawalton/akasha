@@ -17,7 +17,7 @@
     "@temper/game-items-capture-addon": "workspace:*",
     "@temper/game-items-currency-capture-addon": "workspace:*",
     "@temper/game-navigation-capture-addon": "workspace:*",
-    "@temper/shared-capture-core": "workspace:*"
+    "@akasha/temper-capture-writer": "workspace:*"
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"

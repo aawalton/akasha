@@ -2,7 +2,7 @@ import { BATCH_DELAY, BATCH_SIZE } from "@akasha/temper-catalog-core/batch-confi
 import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
 import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type { AchievementCatalogData } from "@akasha/temper-capture-shapes/achievement-catalog"
-import { runBatched } from "@temper/shared-capture-core/run-batched"
+import { runBatched } from "@akasha/temper-capture-writer/run-batched"
 import { requireDefined, requireNumericKey } from "@temper/shared-narrow"
 export interface AchievementWorkItem {
   categoryIndex: number
