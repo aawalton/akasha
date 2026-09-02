@@ -8,6 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import {
   type ArmorEnchantId,
   armorEnchants,
@@ -28,7 +29,6 @@ import {
 import { type ArmorSlotId, armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
 import {
   type StandardArmorWeightId,
   standardArmorWeights,
