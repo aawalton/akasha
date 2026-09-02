@@ -5,6 +5,7 @@ import {
   ACHIEVEMENT_SUBCATEGORY_ACTIVITY,
   achievementNameToActivity,
 } from "@akasha/temper-player-completion/activity-category-mapping"
+import type { AccountAchievementOverallProgress } from "@akasha/temper-player-completion/completion-achievement-progress"
 import type { AccountCardId } from "@akasha/temper-player-completion/completion-card-registry"
 import {
   type CompletionFilter,
@@ -13,7 +14,6 @@ import {
   type CompletionSortMode,
   createNodeFilter,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import type { AccountAchievementOverallProgress } from "@temper/player-completion/completion-achievement-progress"
 
 interface AccountAchievementsPanelCardProps {
   id?: AccountCardId

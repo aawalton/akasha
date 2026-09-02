@@ -5,6 +5,7 @@ import {
   transformCharacterCompanionRapport,
   transformCompanionProgress,
 } from "@akasha/temper-player-completion/completion-companion-progress"
+import { transformCompanionQuestProgress } from "@akasha/temper-player-completion/completion-quest-progress"
 import { buildCompanionSummary } from "@akasha/temper-player-completion/completion-summary-companion"
 import type {
   CharacterCompanionRapportProgress,
@@ -12,7 +13,6 @@ import type {
   CompanionProgressEntry,
   CompanionSkillLineProgress,
 } from "@akasha/temper-player-completion/completion-ui-types"
-import { transformCompanionQuestProgress } from "@temper/player-completion/completion-quest-progress"
 import type {
   useCompletionCharacters,
   useCompletionCompanions,
