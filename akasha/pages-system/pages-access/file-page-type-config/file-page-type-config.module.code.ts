@@ -1,5 +1,6 @@
 import { type MediaConfig, parseMediaConfig } from "@akasha/pages-core/schema/media-config"
 import { parseSequenceConfig, type SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
+import { slugOf } from "@akasha/pages-system/page-value"
 import type { Asked, Query } from "@akasha/pages-system-service/asking"
 import { askingFor } from "@akasha/pages-system-service/calling"
 import { z } from "zod"
@@ -55,7 +56,7 @@ export async function statedConfigValue(
     asked: true,
     stands: true,
     value: opened(row[key]),
-    extendsSlug: typeof extendsSlug === "string" && extendsSlug !== "" ? extendsSlug : null,
+    extendsSlug: typeof extendsSlug === "string" && extendsSlug !== "" ? slugOf(extendsSlug) : null,
   }
 }
 
@@ -132,7 +133,7 @@ export async function fileMediaPageTypeSlugs(
     const slug = row.slug
     if (typeof slug !== "string" || slug === "") continue
     const above = row[EXTENDS_SLUG]
-    extendsOf.set(slug, typeof above === "string" && above !== "" ? above : null)
+    extendsOf.set(slug, typeof above === "string" && above !== "" ? slugOf(above) : null)
     if (opened(row[MEDIA_CONFIG_KEY]) !== null) declares.add(slug)
   }
   const kin = new Set<string>()

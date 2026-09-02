@@ -30,6 +30,10 @@ export const filePageTypeConfig = {
     },
     {
       invariantKind: "departure",
+      statement: "The page type above is reached by the slug ending the address naming it.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A question the pages refuse is raised rather than read as a page type stating no value.",
     },
