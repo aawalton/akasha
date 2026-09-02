@@ -1,31 +1,39 @@
 "use client"
 
+import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  PageLayout,
+  PageLayoutSkeleton,
+  PageTitle,
+  PageTitleBadges,
+} from "@akasha/design-layout/page-layout"
 import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
-import { type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import { PageLayout, PageLayoutSkeleton, PageTitle, PageTitleBadges } from "@akasha/design-layout/page-layout"
-import { Button } from "@akasha/design-primitives/button"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
+import { Button } from "@akasha/design-primitives/button"
 import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
+import { CompletionActivityModeContext } from "@akasha/temper-player-completion-ui/completion-activity-mode-context"
+import type {
+  CompletionFilter,
+  CompletionSortMode,
+} from "@akasha/temper-player-completion-ui/completion-panel-card"
+import { CompletionSearchContext } from "@akasha/temper-player-completion-ui/completion-search-context"
 import {
   type ActivityCategoryId,
   activityCategories,
 } from "@temper/player-completion/activity-category-data"
+import { getTabForCard } from "@temper/player-completion/completion-card-registry"
 import {
   isAccountMeasured,
   isCharacterMeasured,
   isCompanionMeasured,
 } from "@temper/player-completion/completion-measured"
-import { CompletionActivityModeContext } from "@temper/player-completion-ui/completion-activity-mode-context"
-import { type CompletionFilter, type CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"
-import { CompletionSearchContext } from "@temper/player-completion-ui/completion-search-context"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { CompletionAccountTab } from "@/components/completion/completion-account-tab"
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { getTabForCard } from "@temper/player-completion/completion-card-registry"
 import { CompletionCharactersTab } from "@/components/completion/completion-characters-tab"
 import { CompletionCompanionsTab } from "@/components/completion/completion-companions-tab"
 import { CompletionPageEmpty } from "@/components/completion/completion-page-empty"
