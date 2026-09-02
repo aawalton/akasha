@@ -10,11 +10,20 @@ export const shadow = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A page the change carries is read from the body the change carries.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page the change does not carry is read from the value index.",
     },
     {
       invariantKind: "departure",
       statement: "A page the value index does not name is read from its own body.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The value index is read at the shadow's first ask rather than when the change was taken.",
     },
     {
       invariantKind: "departure",
@@ -61,11 +70,6 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body the change carries is read from the change and every other body is read from the tree.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body that must be loaded is reached at the path on disk holding the body.",
     },
     {
@@ -79,10 +83,6 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement: "A path the change does not carry holds its own body.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "The disk answers the base commit for as long as the checks are running.",
     },
     {
       invariantKind: "departure",
@@ -122,6 +122,19 @@ export const shadow = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes to the index.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "The value index a shadow answers from describes the commit the change is judged against.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A page the shadow reads off disk is the page the change's base commit holds.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A page the shadow's index names is a page the change answers a body for.",
     },
   ],
 } as const satisfies Module
