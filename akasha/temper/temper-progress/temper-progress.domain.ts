@@ -6,5 +6,10 @@ export const temperProgress = {
   slug: "temper-progress",
   definition: "what has been done in the game and what is left",
   pluralSlug: "temper-progressions",
-  partSlugs: ["page-type/temper-progress-thing"],
+  partSlugs: [
+    "page-type/temper-activity-category",
+    "page-type/temper-comparison-op",
+    "page-type/temper-progress-thing",
+    "page-type/temper-rotation-breakdown-row",
+  ],
 } as const satisfies Domain
