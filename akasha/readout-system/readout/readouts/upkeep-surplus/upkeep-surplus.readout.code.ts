@@ -1,3 +1,6 @@
+import { type Asking, rowFor } from "../../../readout-asking/readout-asking.module.code.ts"
+import { statedAt } from "../../../readout-tier/readout-tier.module.code.ts"
+
 const DAY = "daily-tracking"
 
 const SURPLUS_HOURS = "surplus-hours"
@@ -8,13 +11,8 @@ const SPEND_HOURS = "spend-hours"
 
 const DATE = "date"
 
-export type Row = { readonly values: Readonly<Record<string, unknown>> }
-
-export type Answered =
-  | { readonly ok: true; readonly rows: readonly Row[] }
-  | { readonly ok: false; readonly why: string }
-
-export type Asking = (query: Readonly<Record<string, unknown>>) => Promise<Answered>
+const SURPLUS_UNKNOWN =
+  "the tracking day could not be read, so the surplus is unknown rather than nothing"
 
 export function trackingOn(day: string): Readonly<Record<string, unknown>> {
   return {
@@ -25,31 +23,16 @@ export function trackingOn(day: string): Readonly<Record<string, unknown>> {
   }
 }
 
-export function hoursIn(held: unknown): number | null {
-  if (typeof held !== "number" && typeof held !== "string") return null
-  const trimmed = typeof held === "string" ? held.trim() : held
-  if (trimmed === "") return null
-  const hours = Number(trimmed)
-  return Number.isFinite(hours) ? hours : null
-}
-
 export function heldNothing(values: Readonly<Record<string, unknown>>): boolean {
-  return hoursIn(values[SLEEP_HOURS]) === null && hoursIn(values[SPEND_HOURS]) === null
+  return statedAt(values[SLEEP_HOURS]) === null && statedAt(values[SPEND_HOURS]) === null
 }
 
 export function surplusIn(values: Readonly<Record<string, unknown>>): number | null {
   if (heldNothing(values)) return null
-  return hoursIn(values[SURPLUS_HOURS])
+  return statedAt(values[SURPLUS_HOURS])
 }
 
 export async function fetchSurplusHours(ask: Asking, day: string): Promise<number | null> {
-  const asked = await ask(trackingOn(day))
-  if (!asked.ok) {
-    throw new Error(
-      `the tracking day could not be read, so the surplus is unknown rather than nothing: ${asked.why}`
-    )
-  }
-  const [row] = asked.rows
-  if (row === undefined) return null
-  return surplusIn(row.values)
+  const row = await rowFor(ask, trackingOn(day), SURPLUS_UNKNOWN)
+  return row === null ? null : surplusIn(row.values)
 }

@@ -12,6 +12,7 @@ export const readoutSystem = {
     "page-type/readout-scale",
     "page-type/readout-widget",
     "module/readout-answering",
+    "module/readout-asking",
     "module/readout-body",
     "module/readout-group-serving",
     "module/readout-serving",

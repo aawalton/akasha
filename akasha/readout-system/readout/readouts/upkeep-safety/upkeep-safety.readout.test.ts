@@ -1,18 +1,6 @@
 import { expect, test } from "bun:test"
-import {
-  type Asking,
-  fetchSafetyLevel,
-  levelIn,
-  OPEN_SESSION,
-} from "./upkeep-safety.readout.code.ts"
-
-const answering =
-  (rows: readonly { values: Record<string, unknown> }[]): Asking =>
-  async () => ({ ok: true, rows })
-
-const refusing =
-  (why: string): Asking =>
-  async () => ({ ok: false, why })
+import { answering, refusing } from "../../../readout-asking/readout-asking.module.test-fixtures.ts"
+import { fetchSafetyLevel, levelIn, OPEN_SESSION } from "./upkeep-safety.readout.code.ts"
 
 test("the session asked for is the one that has not ended, latest first", () => {
   expect(OPEN_SESSION["page-type"]).toBe("session-tracking")

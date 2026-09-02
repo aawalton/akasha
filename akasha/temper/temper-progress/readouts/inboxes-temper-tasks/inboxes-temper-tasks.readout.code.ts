@@ -1,16 +1,14 @@
+import { type Asking, rowFor } from "@akasha/readout-system/readout-asking"
+import { statedAt } from "@akasha/readout-system/readout-tier"
+
 const DAY = "daily-tracking"
 
 const TEMPER_TASKS = "inbox-temper-tasks"
 
 const DATE = "date"
 
-export type Row = { readonly values: Readonly<Record<string, unknown>> }
-
-export type Answered =
-  | { readonly ok: true; readonly rows: readonly Row[] }
-  | { readonly ok: false; readonly why: string }
-
-export type Asking = (query: Readonly<Record<string, unknown>>) => Promise<Answered>
+const TASKS_UNKNOWN =
+  "the tracking day could not be read, so the game tasks waiting are unknown rather than none"
 
 export function trackingOn(day: string): Readonly<Record<string, unknown>> {
   return {
@@ -22,22 +20,10 @@ export function trackingOn(day: string): Readonly<Record<string, unknown>> {
 }
 
 export function tasksIn(values: Readonly<Record<string, unknown>>): number | null {
-  const held = values[TEMPER_TASKS]
-  if (typeof held !== "number" && typeof held !== "string") return null
-  const trimmed = typeof held === "string" ? held.trim() : held
-  if (trimmed === "") return null
-  const waiting = Number(trimmed)
-  return Number.isFinite(waiting) ? waiting : null
+  return statedAt(values[TEMPER_TASKS])
 }
 
 export async function fetchTemperTasks(ask: Asking, day: string): Promise<number | null> {
-  const asked = await ask(trackingOn(day))
-  if (!asked.ok) {
-    throw new Error(
-      `the tracking day could not be read, so the game tasks waiting are unknown rather than none: ${asked.why}`
-    )
-  }
-  const [row] = asked.rows
-  if (row === undefined) return null
-  return tasksIn(row.values)
+  const row = await rowFor(ask, trackingOn(day), TASKS_UNKNOWN)
+  return row === null ? null : tasksIn(row.values)
 }

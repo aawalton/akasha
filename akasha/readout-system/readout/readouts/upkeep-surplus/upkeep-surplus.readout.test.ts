@@ -1,9 +1,8 @@
 import { expect, test } from "bun:test"
+import { answering, refusing } from "../../../readout-asking/readout-asking.module.test-fixtures.ts"
 import {
-  type Asking,
   fetchSurplusHours,
   heldNothing,
-  hoursIn,
   surplusIn,
   trackingOn,
 } from "./upkeep-surplus.readout.code.ts"
@@ -15,14 +14,6 @@ const held = (surplus: unknown, sleep: unknown = "8", spend: unknown = "8") => (
   "sleep-hours": sleep,
   "spend-hours": spend,
 })
-
-const answering =
-  (rows: readonly { values: Record<string, unknown> }[]): Asking =>
-  async () => ({ ok: true, rows })
-
-const refusing =
-  (why: string): Asking =>
-  async () => ({ ok: false, why })
 
 test("the day asked for is the tracking day the caller named", () => {
   const query = trackingOn(DAY) as Record<string, unknown>
@@ -85,13 +76,6 @@ test("the surplus of the day asked for is the reading", async () => {
 test("a tracking day holding no stretch is no reading over the whole reach", async () => {
   const sessionless = [{ values: { "surplus-hours": "0", "sleep-hours": null } }]
   expect(await fetchSurplusHours(answering(sessionless), DAY)).toBeNull()
-})
-
-test("hours given as text or as a number read alike, and anything else is nothing", () => {
-  expect(hoursIn("-0.5")).toBe(-0.5)
-  expect(hoursIn(-0.5)).toBe(-0.5)
-  expect(hoursIn(null)).toBeNull()
-  expect(hoursIn(undefined)).toBeNull()
 })
 
 test("a store that refuses is a fault rather than a reading of nothing", async () => {

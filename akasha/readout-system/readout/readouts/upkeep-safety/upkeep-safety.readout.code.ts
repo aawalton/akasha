@@ -1,3 +1,6 @@
+import { type Asking, rowFor } from "../../../readout-asking/readout-asking.module.code.ts"
+import { statedAt } from "../../../readout-tier/readout-tier.module.code.ts"
+
 const SESSION = "session-tracking"
 
 const SAFETY_LEVEL = "safety-level"
@@ -5,6 +8,9 @@ const SAFETY_LEVEL = "safety-level"
 const END_TIME = "end-time"
 
 const START_TIME = "start-time"
+
+const LEVEL_UNKNOWN =
+  "the open session could not be read, so the safety level is unknown rather than nothing"
 
 export const OPEN_SESSION = {
   "page-type": SESSION,
@@ -14,31 +20,11 @@ export const OPEN_SESSION = {
   limit: 1,
 } as const
 
-export type Row = { readonly values: Readonly<Record<string, unknown>> }
-
-export type Answered =
-  | { readonly ok: true; readonly rows: readonly Row[] }
-  | { readonly ok: false; readonly why: string }
-
-export type Asking = (query: Readonly<Record<string, unknown>>) => Promise<Answered>
-
 export function levelIn(values: Readonly<Record<string, unknown>>): number | null {
-  const held = values[SAFETY_LEVEL]
-  if (typeof held !== "number" && typeof held !== "string") return null
-  const trimmed = typeof held === "string" ? held.trim() : held
-  if (trimmed === "") return null
-  const level = Number(trimmed)
-  return Number.isFinite(level) ? level : null
+  return statedAt(values[SAFETY_LEVEL])
 }
 
 export async function fetchSafetyLevel(ask: Asking): Promise<number | null> {
-  const asked = await ask(OPEN_SESSION)
-  if (!asked.ok) {
-    throw new Error(
-      `the open session could not be read, so the safety level is unknown rather than nothing: ${asked.why}`
-    )
-  }
-  const [row] = asked.rows
-  if (row === undefined) return null
-  return levelIn(row.values)
+  const row = await rowFor(ask, OPEN_SESSION, LEVEL_UNKNOWN)
+  return row === null ? null : levelIn(row.values)
 }

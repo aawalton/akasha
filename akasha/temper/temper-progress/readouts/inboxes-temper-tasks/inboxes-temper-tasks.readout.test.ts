@@ -1,18 +1,6 @@
 import { expect, test } from "bun:test"
-import {
-  type Asking,
-  fetchTemperTasks,
-  tasksIn,
-  trackingOn,
-} from "./inboxes-temper-tasks.readout.code.ts"
-
-const answering =
-  (rows: readonly { values: Record<string, unknown> }[]): Asking =>
-  async () => ({ ok: true, rows })
-
-const refusing =
-  (why: string): Asking =>
-  async () => ({ ok: false, why })
+import { answering, refusing } from "@akasha/readout-system/readout-asking/testing"
+import { fetchTemperTasks, tasksIn, trackingOn } from "./inboxes-temper-tasks.readout.code.ts"
 
 test("the day asked for is the tracking day named", () => {
   const asked = trackingOn("2026-08-30")
