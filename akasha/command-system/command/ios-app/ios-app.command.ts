@@ -36,7 +36,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "An app named more than once is refused rather than taken once.",
+      statement: "An app named more than once is refused.",
     },
     {
       invariantKind: "departure",

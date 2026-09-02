@@ -26,7 +26,7 @@ export const commitReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A base is asked after once.",
+      statement: "A base the reader already asked after is not asked again.",
     },
     {
       invariantKind: "departure",

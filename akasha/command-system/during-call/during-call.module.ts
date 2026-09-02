@@ -13,7 +13,7 @@ export const duringCall = {
     },
     {
       invariantKind: "departure",
-      statement: "A value asked for outside every run is made afresh each time.",
+      statement: "A value asked for outside every run is made afresh.",
     },
     {
       invariantKind: "absence",
