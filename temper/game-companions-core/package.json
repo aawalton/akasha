@@ -6,7 +6,6 @@
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
     "zod": "^4.3.6"
   },
