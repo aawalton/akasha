@@ -15,4 +15,5 @@ export const allSharedArcaneNova = {
   skillType: "active",
   validRoles: ["dps"],
   tags: ["elemental-variant"],
+  skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

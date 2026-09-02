@@ -1,0 +1,5 @@
+{"id":"01a0619d-6f1f-70eb-853f-5d6ffe599081","type":"damage","target":{"type":"enemy","scope":"area","radius":6},"formula":{"type":"metric-scaling","metricId":"companion-weapon-damage","coefficient":3},"damageType":"magic"}
+{"id":"01a0619d-6f1f-7a5f-9076-521dcf8ba91f","type":"apply-status","status":{"status":"burning","duration":4},"target":{"type":"enemy","scope":"area","radius":6},"conditions":[{"type":"weapon-type","weaponType":"flame"}]}
+{"id":"01a0619d-6f1f-7858-9fc1-d99018d3bda5","type":"apply-status","status":{"status":"chilled","duration":4},"target":{"type":"enemy","scope":"area","radius":6},"conditions":[{"type":"weapon-type","weaponType":"frost"}]}
+{"id":"01a0619d-6f1f-7391-8e8e-e45de703a273","type":"apply-status","status":{"status":"concussed","duration":4},"target":{"type":"enemy","scope":"area","radius":6},"conditions":[{"type":"weapon-type","weaponType":"shock"}]}
+{"id":"01a0619d-6f1f-7b09-9feb-cb7ea6605947","type":"cooldown","duration":12}
