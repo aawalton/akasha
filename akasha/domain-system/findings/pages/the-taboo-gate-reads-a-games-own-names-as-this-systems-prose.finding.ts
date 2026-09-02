@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theTabooGateReadsAGamesOwnNamesAsThisSystemsProse = {
+  id: "01a06271-8a44-7002-a1f6-83d9e0b4c527",
+  pageTypeSlug: "finding",
+  slug: "the-taboo-gate-reads-a-games-own-names-as-this-systems-prose",
+  domainSlug: "workspace-package/domain-system",
+  claim:
+    "A taboo term reaches into an entry row's data, where a word is another system's name rather than this system's prose. Landing 4,027 recipe names tripped five terms — door, dormant, floor, slice and stand — on furnishing names such as `Apocrypha Door, Stone`. No such name can be reworded, because the game chose the name. Clearing the gate means reading five pages and judging each sense, which costs the same whether a change adds one row or a hundred thousand.",
+  evidence:
+    "Measured 2026-09-02 landing `akasha/temper/temper-catalog/temper-pursuits/recipe-lists`. `akasha write --dry-run` over 64 paths answered NAMING DECISION for `door`, `dormant`, `floor`, `slice` and `stand`, each naming the taboo term page to read. Every hit is inside a `recipeName` value in a `.jsonl` row: `Apocrypha Door, Stone`, `Crystaljack Cocoon, Dormant`, `Alinor Floor, Ballroom Timeworn`, `Lemon Slice, Display`, `Alinor Display Stand, Marble`. Each is an ESO furnishing the game names, and `title` on `temper-thing` already carries the departure `A title is written as the game writes the name rather than as a slug is written`.\n\nThe barred senses are all about this system: `door` bars a gated command, `floor` bars an attribute's default, `slice` bars the unit a run judges, `dormant` bars a seat with no process, `stand` bars being in a place. No furnishing name carries any of those senses, so all five were cleared by reading rather than by rewording.\n\nThe cost is bounded but real. The gate is one-shot per term per record, so a change adding a hundred thousand rows pays the same five reads as a change adding one. What the gate cannot obtain is a rewording, because nothing may reword a name the game owns. 725,477 temper entry rows have landed already and 4,189 entry files are under `akasha/`, so this is met on every catalog landing rather than once.\n\nA writer checking prose against the 41 patterns before a write will read a hit as a defect in what that writer wrote. Here the hit was in the data, and the reader of the refusal has to open the rows to tell the two apart.",
+} as const satisfies Finding
