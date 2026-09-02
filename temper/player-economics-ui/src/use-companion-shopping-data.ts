@@ -5,11 +5,13 @@ import { decodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { companions, getCompanionName } from "@akasha/temper-companions-core/companions"
+import { useAllCompanionList } from "@akasha/temper-companions-ui/use-companions"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import {
   type CompanionGearNeed,
   computeAllGearNeeds,
 } from "@akasha/temper-items-core/companion-gear-diff"
+import { useCompletionCompanions } from "@akasha/temper-player-completion-ui/use-completion"
 import {
   useInventory,
   usePriceExtract,
@@ -20,11 +22,9 @@ import {
   resolvePricingRegion,
   resolvePricingRegionNote,
 } from "@akasha/temper-player-inventory-management-ui/pricing-region"
+import { usePlayer } from "@akasha/temper-player-profile/use-player"
 import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
-import { useAllCompanionList } from "@temper/game-companions-ui/use-companions"
-import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
-import { usePlayer } from "@temper/player-profile/use-player"
 import { useMemo } from "react"
 import {
   type BlendedPriceKey,
