@@ -20,19 +20,13 @@ start-timeout-seconds: 300
 
 # Design
 
-Whether the stream is still posting is read from when a reading last arrived, never from which days carry data, because a day holding no reading and a day Alan did not move read alike.
+Arrival is read from when a reading last came, never from which days carry data: a day holding no reading and a day Alan did not move read alike.
 
-The bound is seventy-two hours, measured off the arrival record rather than chosen: the longest gap between arrivals while the stream was healthy was forty-two hours, and forty-eight would have fired on gaps that may have been a quiet weekend.
+The bound is seventy-two hours, measured rather than chosen — the longest healthy gap was forty-two.
 
-What this writes with `--notify` is a notification, and reaching a device is the push notifier's. The flag is off, because Alan asked that nothing be pushed to his phone, so the unit going red is the whole signal until he adds it back.
+`--notify` is off, since Alan asked that nothing reach his phone, so the unit going red is the whole signal.
 
-The newest arrival already said is latched under `/var/tmp`, so one silence is stated once rather than every hour, and a reboot costs one repeat.
-
-It reads the day files of one checkout, and that checkout is the only place these rows exist: the pod's is reset onto origin/main at every start and nothing there commits, so no reading accumulates in it. Silence here is therefore real silence rather than a partition.
-
-What it cannot say is which of the phone, the POST and the writer stopped, since all three read alike from the rows, and the check writes that reach into its own answer rather than leaving the next reader to find it.
-
-A silent stream exits nonzero, so the unit goes red as well as saying so.
+It cannot say which of the phone, the POST and the writer stopped; all three read alike from the rows.
 
 # Intent
 
