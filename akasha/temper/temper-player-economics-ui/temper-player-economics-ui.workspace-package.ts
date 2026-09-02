@@ -1,0 +1,30 @@
+import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+
+export const temperPlayerEconomicsUi = {
+  id: "01a063a1-8cc1-7014-9eb7-d9274fe293e2",
+  pageTypeSlug: "workspace-package",
+  slug: "temper-player-economics-ui",
+  definition: "the shopping a player does to close the gear their companions still want",
+  manifest: "json",
+  partSlugs: [
+    "module/companion-gear-by-companion-panel-card",
+    "module/companion-gear-by-price-panel-card",
+    "module/companion-gear-by-trait-panel-card",
+    "module/companion-gear-pricing-rules",
+    "module/companion-shopping-data-content",
+    "module/shopping-list-grouping",
+    "module/shopping-list-tab-content",
+    "module/shopping-next-location-panel-card",
+    "module/shopping-optimizer-rules",
+    "module/shopping-optimizer-types",
+    "module/shopping-page-content",
+    "module/shopping-plan-schema",
+    "module/shopping-route-cache",
+    "module/shopping-route-overview-panel-card",
+    "module/shopping-sse-reader",
+    "module/shopping-trip-complete-panel-card",
+    "module/use-companion-shopping-data",
+    "module/use-shopping-list",
+    "module/use-shopping-optimizer",
+  ],
+} as const satisfies WorkspacePackage

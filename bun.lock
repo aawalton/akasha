@@ -1751,6 +1751,33 @@
         "react": "^18 || ^19",
       },
     },
+    "akasha/temper/temper-player-economics-ui": {
+      "name": "@akasha/temper-player-economics-ui",
+      "dependencies": {
+        "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
+        "@akasha/design-system": "workspace:*",
+        "@akasha/temper-build-metadata": "workspace:*",
+        "@akasha/temper-companion-codec": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-companions-ui": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-player-completion-ui": "workspace:*",
+        "@akasha/temper-player-inventory-management-ui": "workspace:*",
+        "@akasha/temper-player-profile": "workspace:*",
+        "@akasha/temper-shopping": "workspace:*",
+        "@akasha/temper-trading-pricing": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "lucide-react": "^0.576.0",
+        "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+        "react-dom": "^18 || ^19",
+      },
+    },
     "akasha/temper/temper-player-inventory-management-ui": {
       "name": "@akasha/temper-player-inventory-management-ui",
       "dependencies": {
@@ -3491,6 +3518,8 @@
     "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:akasha/temper/temper-player-completion-state"],
 
     "@akasha/temper-player-completion-ui": ["@akasha/temper-player-completion-ui@workspace:akasha/temper/temper-player-completion-ui"],
+
+    "@akasha/temper-player-economics-ui": ["@akasha/temper-player-economics-ui@workspace:akasha/temper/temper-player-economics-ui"],
 
     "@akasha/temper-player-inventory-management-ui": ["@akasha/temper-player-inventory-management-ui@workspace:akasha/temper/temper-player-inventory-management-ui"],
 

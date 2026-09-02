@@ -1,0 +1,50 @@
+{
+  "name": "@akasha/temper-player-economics-ui",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./companion-gear-by-companion-panel-card": "./companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx",
+    "./companion-gear-by-price-panel-card": "./companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx",
+    "./companion-gear-by-trait-panel-card": "./companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx",
+    "./companion-gear-pricing-rules": "./companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts",
+    "./companion-shopping-data-content": "./companion-shopping-data-content/companion-shopping-data-content.module.code.tsx",
+    "./shopping-list-grouping": "./shopping-list-grouping/shopping-list-grouping.module.code.ts",
+    "./shopping-list-tab-content": "./shopping-list-tab-content/shopping-list-tab-content.module.code.tsx",
+    "./shopping-next-location-panel-card": "./shopping-next-location-panel-card/shopping-next-location-panel-card.module.code.tsx",
+    "./shopping-optimizer-rules": "./shopping-optimizer-rules/shopping-optimizer-rules.module.code.ts",
+    "./shopping-optimizer-types": "./shopping-optimizer-types/shopping-optimizer-types.module.code.ts",
+    "./shopping-page-content": "./shopping-page-content/shopping-page-content.module.code.tsx",
+    "./shopping-plan-schema": "./shopping-plan-schema/shopping-plan-schema.module.code.ts",
+    "./shopping-route-cache": "./shopping-route-cache/shopping-route-cache.module.code.ts",
+    "./shopping-route-overview-panel-card": "./shopping-route-overview-panel-card/shopping-route-overview-panel-card.module.code.tsx",
+    "./shopping-sse-reader": "./shopping-sse-reader/shopping-sse-reader.module.code.ts",
+    "./shopping-trip-complete-panel-card": "./shopping-trip-complete-panel-card/shopping-trip-complete-panel-card.module.code.tsx",
+    "./use-companion-shopping-data": "./use-companion-shopping-data/use-companion-shopping-data.module.code.ts",
+    "./use-shopping-list": "./use-shopping-list/use-shopping-list.module.code.ts",
+    "./use-shopping-optimizer": "./use-shopping-optimizer/use-shopping-optimizer.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/design-layout": "workspace:*",
+    "@akasha/design-patterns": "workspace:*",
+    "@akasha/design-primitives": "workspace:*",
+    "@akasha/design-system": "workspace:*",
+    "@akasha/temper-build-metadata": "workspace:*",
+    "@akasha/temper-companion-codec": "workspace:*",
+    "@akasha/temper-companions-core": "workspace:*",
+    "@akasha/temper-companions-ui": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-items-core": "workspace:*",
+    "@akasha/temper-player-completion-ui": "workspace:*",
+    "@akasha/temper-player-inventory-management-ui": "workspace:*",
+    "@akasha/temper-player-profile": "workspace:*",
+    "@akasha/temper-shopping": "workspace:*",
+    "@akasha/temper-trading-pricing": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "lucide-react": "^0.576.0",
+    "zod": "^4.3.6"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19",
+    "react-dom": "^18 || ^19"
+  }
+}
