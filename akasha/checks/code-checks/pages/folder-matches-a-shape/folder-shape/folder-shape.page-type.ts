@@ -27,6 +27,8 @@ export type Standing = {
   readonly subfolders: readonly string[]
   readonly under: (folder: string) => readonly string[]
   readonly declaring: (folder: string) => Declaring | null
+  readonly naming: (folder: string) => string | null
+  readonly parts: (page: Held) => readonly string[]
 }
 
 export type Judging = (standing: Standing) => readonly string[]
@@ -115,6 +117,34 @@ export const folderShape = {
       invariantKind: "departure",
       statement:
         "A page type declares the fields of every record property in that page type's `properties` folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding one page answers with the name that page gives its folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page gives its folder the plural slug that page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating no plural slug gives its folder its slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding no page answers with nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding more than one page answers with nothing too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page answers with the files that page's own file properties land on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which files those are is read off the page rather than worked out from its name.",
     },
     {
       invariantKind: "departure",

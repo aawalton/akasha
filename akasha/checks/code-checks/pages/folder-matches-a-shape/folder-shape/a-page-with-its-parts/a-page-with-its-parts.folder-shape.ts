@@ -4,48 +4,46 @@ export const aPageWithItsParts = {
   id: "01a05f26-edf0-768f-823e-e5442db4f971",
   pageTypeSlug: "folder-shape",
   slug: "a-page-with-its-parts",
-  definition:
-    "the shape of a folder named for a page type's plural slug and holding that page type",
+  definition: "the shape of a folder named for the one page it holds, beside that page's parts",
   code: "ts",
   test: "ts",
   enabled: true,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folder holds one page and that page is a page type.",
+      statement: "The folder holds one page.",
     },
     {
       invariantKind: "departure",
-      statement: "The folder is named that page type's plural slug.",
+      statement: "The folder is named what that page calls its folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder named `modules` is a part of that page type.",
+      statement: "Every other file in the folder is a part the page states.",
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder named `pages` is a part of that page type.",
+      statement: "Which files are parts is read off the file properties the page states.",
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder named `properties` is a part of that page type.",
+      statement: "A part whose name the property page states is a part under that name.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A subfolder named for the plural slug of the page type inside that subfolder is a part too.",
+      statement: "A subfolder named `modules` is a part of that page.",
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder holding a domain page is a part too.",
+      statement: "A subfolder named `pages` is a part of that page.",
     },
     {
-      invariantKind: "absence",
-      statement: "A domain states no plural slug.",
+      invariantKind: "departure",
+      statement: "A subfolder named `properties` is a part of that page.",
     },
     {
-      invariantKind: "absence",
-      statement: "A domain's folder is judged by no plural slug.",
+      invariantKind: "departure",
+      statement: "A subfolder named for the one page that subfolder holds is a part too.",
     },
     {
       invariantKind: "absence",
@@ -53,7 +51,11 @@ export const aPageWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding no page type is refused.",
+      statement: "A folder holding no page is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding more than one page is refused.",
     },
   ],
 } as const satisfies FolderShape

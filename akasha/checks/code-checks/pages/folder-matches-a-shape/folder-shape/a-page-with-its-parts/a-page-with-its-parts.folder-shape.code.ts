@@ -1,57 +1,42 @@
 import { basename } from "node:path"
-import { namedIn } from "@akasha/pages-system/page-file-name"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
-
-const PAGE_TYPE = "page-type"
-
-const DOMAIN = "domain"
 
 const PARTS = new Set<string>(["modules", "pages", "properties"])
 
 function partOf(standing: Standing, at: string): boolean {
   const named = basename(at)
   if (PARTS.has(named)) return true
-  if (standing.declaring(at)?.pluralSlug === named) return true
-  return standing.under(at).some((one) => namedIn(one)?.tail === DOMAIN)
+  return standing.naming(at) === named
 }
 
 export function aPageWithItsParts(standing: Standing): readonly string[] {
-  const said: string[] = []
-  if (standing.strays.length > 0) {
-    said.push(
-      `${standing.strays.length} files are neither a page nor a file beside one: ${saidInside(standing.folder, standing.strays)}`
-    )
-  }
-  if (standing.properties.length > 0) {
-    said.push(
-      `${standing.properties.length} files sit beside a page, and a page type carries no file of its own: ${saidInside(standing.folder, standing.properties)}`
-    )
-  }
-  const other = standing.pages.filter((one) => one.pageTypeSlug !== PAGE_TYPE)
-  if (other.length > 0) {
-    said.push(`${other.length} pages here are no page type: ${saidInside(standing.folder, other)}`)
-  }
+  const page = standing.pages[0]
+  if (page === undefined) return ["it holds no page of its own"]
   if (standing.pages.length > 1) {
-    said.push(
-      `it holds ${standing.pages.length} pages rather than one page type: ${saidInside(standing.folder, standing.pages)}`
-    )
+    return [
+      `it holds ${standing.pages.length} pages rather than one: ${saidInside(standing.folder, standing.pages)}`,
+    ]
   }
-  const own = standing.declaring(standing.folder)
-  if (own === null) {
-    if (said.length === 0) said.push("it holds no page type of its own")
-    return said
-  }
-  const named = basename(standing.folder)
-  if (own.pluralSlug !== named) {
-    said.push(
-      `it is named \`${named}\` rather than \`${own.pluralSlug}\`, the plural slug of \`${own.slug}\``
-    )
-  }
-  const loose = standing.subfolders.filter((at) => !partOf(standing, at))
+  const said: string[] = []
+  const parts = new Set<string>(standing.parts(page))
+  const loose = standing.files.filter((one) => !parts.has(one))
   if (loose.length > 0) {
     said.push(
-      `${loose.length} subfolders are no part of \`${own.slug}\`: ${saidInside(standing.folder, loose)}`
+      `${loose.length} files are no part of \`${page.slug}\`: ${saidInside(standing.folder, loose)}`
+    )
+  }
+  const named = basename(standing.folder)
+  const wants = standing.naming(standing.folder)
+  if (wants !== null && wants !== named) {
+    said.push(
+      `it is named \`${named}\` rather than \`${wants}\`, what \`${page.slug}\` calls its folder`
+    )
+  }
+  const stray = standing.subfolders.filter((at) => !partOf(standing, at))
+  if (stray.length > 0) {
+    said.push(
+      `${stray.length} subfolders are no part of \`${page.slug}\`: ${saidInside(standing.folder, stray)}`
     )
   }
   return said

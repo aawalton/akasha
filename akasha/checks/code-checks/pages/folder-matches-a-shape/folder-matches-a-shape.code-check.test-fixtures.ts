@@ -9,6 +9,8 @@ export type Shaping = {
   readonly pageTypes: ReadonlySet<string>
   readonly extending?: Standing["extending"]
   readonly declaring?: Standing["declaring"]
+  readonly naming?: Standing["naming"]
+  readonly parts?: Standing["parts"]
   readonly deep?: readonly string[]
 }
 
@@ -33,6 +35,8 @@ export function folderFrom(shaping: Shaping): (names: readonly string[]) => Stan
       subfolders: subfoldersOf(shaping.folder, deep),
       under: (at) => filesUnder([...files, ...deep], at),
       declaring,
+      naming: shaping.naming ?? ((): null => null),
+      parts: shaping.parts ?? ((page) => [page.path]),
     }
   }
 }

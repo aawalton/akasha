@@ -2,6 +2,7 @@ import { createRequire } from "node:module"
 import { basename, join } from "node:path"
 import { NAMING_NONE, type Naming } from "@akasha/code-system/code-specifier"
 import type { Answering } from "@akasha/indexes/answering"
+import { pathsOf } from "@akasha/indexes/entries"
 import { edgesIn } from "@akasha/indexes/import"
 import { reachingIn } from "@akasha/indexes/package-reaching"
 import type { Known } from "@akasha/indexes/reaching"
@@ -264,6 +265,43 @@ export function declaringOver(
   }
 }
 
+export function namingOver(
+  index: Answering,
+  files: readonly string[],
+  pageTypes: ReadonlySet<string>,
+  fileProperties: ReadonlySet<string>
+): (folder: string) => string | null {
+  const held = new Map<string, string | null>()
+  return (folder) => {
+    const found = held.get(folder)
+    if (found !== undefined) return found
+    const pages = filesUnder(files, folder)
+      .map((one) => heldIn(one, pageTypes, fileProperties))
+      .filter((one) => one.kind === "page")
+    const page = pages.length === 1 ? pages[0] : undefined
+    let made: string | null = null
+    if (page !== undefined && page.slug !== null && page.pageTypeSlug !== null) {
+      const value = index.pageAt(page.pageTypeSlug, page.slug)
+      made = value === null ? page.slug : (textAt(value, PLURAL_SLUG) ?? page.slug)
+    }
+    held.set(folder, made)
+    return made
+  }
+}
+
+export function partsOver(
+  index: Answering,
+  root: string,
+  stated: ReadonlyMap<string, string | null>
+): (page: Held) => readonly string[] {
+  return (page) => {
+    if (page.slug === null || page.pageTypeSlug === null) return [page.path]
+    const value = index.pageAt(page.pageTypeSlug, page.slug)
+    if (value === null) return [page.path]
+    return pathsOf(value, page.path, root, stated)
+  }
+}
+
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const shapes = shapesIn(change.root, shadow)
   const pageTypes = shadow.index.pageTypesIn()
@@ -284,6 +322,8 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   }
   const files = listedFiles(shadow.index, change)
   const declaring = declaringOver(shadow.index, files)
+  const namedFor = namingOver(shadow.index, files, pageTypes, fileProperties)
+  const parts = partsOver(shadow.index, change.root, stated)
   const entering = enteringOf(shadow)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
@@ -304,6 +344,8 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       entered: (path) => entering(folder, path),
       extending,
       declaring,
+      naming: namedFor,
+      parts,
     }
     const said = shapes.map((one) => ({ slug: one.slug, reasons: one.judge(described) }))
     if (said.some((one) => one.reasons.length === 0)) continue
