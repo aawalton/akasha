@@ -1,7 +1,7 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { basename, join } from "node:path"
 import { optionalEnv } from "@akasha/utils-narrow/require-env"
-import { listAllAddons } from "@temper/shared-build-deploy-addons-resolve"
+import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { z } from "zod"
 
 export const BUILD_ID_FILE = "build-id.lua"

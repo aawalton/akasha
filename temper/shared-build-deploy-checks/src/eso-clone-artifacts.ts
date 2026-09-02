@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
-import { parseEsoCloneProvenance, parseStampedApiVersion } from "../../shared-foundation-misc-eso-paths/src/eso-clone-stamp"
+import { parseEsoCloneProvenance, parseStampedApiVersion } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import type { StampedArtifact } from "./eso-doc-api-version"
 
 export const WALK_ROOT = "temper"

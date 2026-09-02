@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { type LuaVm, withLuaVm } from "@temper/shared-build-deploy-lua-runner"
+import { type LuaVm, withLuaVm } from "@akasha/temper-lua-runner/lua-vm"
 import { codeRoot } from "./code-root.ts"
 import { tstlRoot } from "./temper-addon-build.ts"
 

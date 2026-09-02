@@ -1,6 +1,6 @@
 import { appendFileSync, existsSync, mkdirSync, renameSync, statSync, unlinkSync } from "node:fs"
 import { join } from "node:path"
-import { watcherLogDir } from "../../../shared-foundation-misc-eso-paths/src/eso-paths"
+import { watcherLogDir } from "@akasha/temper-watcher/watcher-paths"
 
 const MAX_LOG_BYTES = 1_000_000
 const MAX_LOG_FILES = 3

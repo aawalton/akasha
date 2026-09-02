@@ -5,7 +5,7 @@ export const tool = {
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { watcherLogDir } from "@temper/shared-foundation-misc-eso-paths"
+import { watcherLogDir } from "@akasha/temper-watcher/watcher-paths"
 import { z } from "zod"
 import {
   decideCrashAlert,

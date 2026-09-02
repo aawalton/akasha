@@ -6,7 +6,7 @@ import { join } from "node:path"
 import {
   readSiblingAddonNames,
   siblingDistDir,
-} from "@temper/shared-build-deploy-addons-resolve/sibling-addons"
+} from "@akasha/temper-addons-resolve/sibling-addons"
 import { codeRoot } from "../../../lib/code-root.ts"
 import { dataError, inputError, operationalError } from "../../../lib/exit.ts"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"

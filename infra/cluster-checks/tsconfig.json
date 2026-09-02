@@ -12,12 +12,6 @@
   },
   "references": [
     {
-      "path": "../../temper/shared-build-deploy-addons-resolve"
-    },
-    {
-      "path": "../../temper/shared-foundation-misc-eso-paths"
-    },
-    {
       "path": "../k8s"
     },
     {

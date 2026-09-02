@@ -5,10 +5,10 @@ import type { CommandHelp } from "../../../ops/surface.ts"
 import { inputError, operationalError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { deployables, esoPaths } from "../../../lib/temper-community-addon-code.ts"
-import { fetchCatalog, fetchFileDetails } from "@temper/shared-build-deploy-community-addons/catalog"
-import { downloadAndInstall } from "@temper/shared-build-deploy-community-addons/install"
-import { readInstalledAddons } from "@temper/shared-build-deploy-community-addons/installed"
-import { distinctUids, planUpdates, type PlannedAddon, selectTargets, unknownOnlyDirs } from "@temper/shared-build-deploy-community-addons/plan"
+import { fetchCatalog, fetchFileDetails } from "@akasha/temper-community-addons/esoui-catalog"
+import { downloadAndInstall } from "@akasha/temper-community-addons/addon-download"
+import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
+import { distinctUids, planUpdates, type PlannedAddon, selectTargets, unknownOnlyDirs } from "@akasha/temper-community-addons/addon-update-plan"
 
 export const help: CommandHelp = {
   flags: [

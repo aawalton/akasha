@@ -1,5 +1,5 @@
 import * as luaParserModule from "@akasha/temper-saved-variables/lua-parser"
-import * as addonsResolveModule from "@temper/shared-build-deploy-addons-resolve"
+import * as addonsResolveModule from "@akasha/temper-addons-resolve/addon-roster"
 import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
 import * as collectModule from "@temper/shared-capture-errors-decision-core/collect"
 import * as livenessModule from "@temper/shared-capture-errors-decision-core/liveness"

@@ -3,8 +3,8 @@ import {
   MAP_DATA,
   PSEUDO_MAP_INDICES,
 } from "@temper/shared-addon-libraries-lib-map-data/src/generated/map-data.generated.ts"
-import { makeLuaVm } from "@temper/shared-build-deploy-lua-runner/lua-vm"
-import { addonsDir } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
+import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
+import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { diff, dumpJsWalk, LUA_DUMP } from "../leaf-dump.ts"
 import { PortMismatch } from "../libraries.ts"
 

@@ -5,13 +5,13 @@ export const summary =
 import { existsSync } from "node:fs"
 import { copyFile, cp, mkdir, readdir, readFile, writeFile } from "node:fs/promises"
 import { dirname, join, resolve } from "node:path"
-import { addonManifestSchema } from "@temper/shared-build-deploy-addons-resolve/manifest"
-import { OWNERSHIP_MARKER_FILE } from "@temper/shared-build-deploy-addons-resolve/folder-ownership"
+import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
+import { OWNERSHIP_MARKER_FILE } from "@akasha/temper-addons-resolve/folder-ownership"
 import {
   readSiblingAddonNames,
   siblingDistDir,
   siblingSourceDir,
-} from "@temper/shared-build-deploy-addons-resolve/sibling-addons"
+} from "@akasha/temper-addons-resolve/sibling-addons"
 import { codeRoot } from "../../../lib/code-root.ts"
 import { dataError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"

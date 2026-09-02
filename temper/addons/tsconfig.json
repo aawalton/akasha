@@ -30,9 +30,6 @@
     },
     {
       "path": "../shared-addon-libraries-lib-treasure"
-    },
-    {
-      "path": "../shared-foundation-misc-eso-paths-resolve"
     }
   ],
   "files": []

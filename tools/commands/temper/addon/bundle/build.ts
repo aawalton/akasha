@@ -7,12 +7,12 @@ import { join, relative, resolve, sep } from "node:path"
 import {
   type AddonDependencies,
   resolveDistributableSet,
-} from "@temper/shared-build-deploy-addons-resolve/distributable"
-import { addonManifestSchema } from "@temper/shared-build-deploy-addons-resolve/manifest"
+} from "@akasha/temper-addons-resolve/distributable-set"
+import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import {
   readSiblingAddonNames,
   siblingDistDir,
-} from "@temper/shared-build-deploy-addons-resolve/sibling-addons"
+} from "@akasha/temper-addons-resolve/sibling-addons"
 import { type Zippable, zipSync } from "fflate"
 import { codeRoot } from "../../../../lib/code-root.ts"
 import { dataError, inputError } from "../../../../lib/exit.ts"

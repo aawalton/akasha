@@ -11,8 +11,8 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
+    "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
-    "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
     "zod": "^4.3.6"
   },
   "scripts": {

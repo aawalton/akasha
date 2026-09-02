@@ -2,7 +2,7 @@
 
 import { readFileSync } from "node:fs"
 import { relative, resolve } from "node:path"
-import { listAllAddons } from "@temper/shared-build-deploy-addons-resolve"
+import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import ts from "typescript"
 import { collectDeclSources } from "./check-tstl-colon-dot-self-shift"
 import { ESO_BASE_GAME_GLOBALS } from "./eso-base-game-globals.generated"

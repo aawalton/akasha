@@ -3,11 +3,9 @@ import { join } from "node:path"
 import { esoDocPathForLuaRoot } from "@temper/shared-build-deploy-checks/eso-doc-api-version"
 import {
   esoCloneHeaderLines,
-  esouiDir,
-  esouiDocPath,
-  esouiSourceDir,
   parseEsoDocApiVersion,
-} from "@temper/shared-foundation-misc-eso-paths"
+} from "@akasha/temper-eso-paths/eso-clone-stamp"
+import { esouiDir, esouiDocPath, esouiSourceDir } from "@akasha/temper-eso-paths/eso-paths"
 
 interface EsoPaths {
   readonly esoCloneHeaderLines: typeof esoCloneHeaderLines

@@ -4,7 +4,7 @@ import { askComposed } from "@shared/pages-query/ask"
 import {
   type AddonManifest,
   addonManifestSchema,
-} from "@temper/shared-build-deploy-addons-resolve/manifest"
+} from "@akasha/temper-addons-resolve/addon-json"
 
 const CATALOG_DOMAIN_PAGE_TYPE_SLUG = "temper-catalog-domain"
 const CATALOG_PROP_GEN_RAN_FOR_MANIFEST_API_VERSION = "generator-ran-for-manifest-api-version"

@@ -3,7 +3,7 @@ import {
   listAllAddons,
   type ResolveOpts,
   resolveAddon,
-} from "@temper/shared-build-deploy-addons-resolve"
+} from "@akasha/temper-addons-resolve/addon-roster"
 
 export type { AddonInfo }
 

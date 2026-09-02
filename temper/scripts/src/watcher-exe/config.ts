@@ -1,6 +1,6 @@
 import { join } from "node:path"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { addonsDir as resolveAddonsDir, savedVarsDir as resolveSavedVarsDir } from "../../../shared-foundation-misc-eso-paths-resolve/src/eso-paths-resolve"
+import { addonsDir as resolveAddonsDir, savedVarsDir as resolveSavedVarsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import type { FileType } from "./dispatch"
 
 export interface WatcherConfig {

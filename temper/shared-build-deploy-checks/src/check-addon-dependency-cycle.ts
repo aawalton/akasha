@@ -2,7 +2,7 @@
 
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { type AddonInfo, listAllAddons } from "@temper/shared-build-deploy-addons-resolve"
+import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { z } from "zod"
 import {
   type AddonDepInput,

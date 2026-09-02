@@ -4,8 +4,8 @@ import { BOOK_ID } from "@temper/shared-addon-libraries-lib-treasure/src/data/bo
 import { ALL_DATA } from "@temper/shared-addon-libraries-lib-treasure/src/generated/treasure-pins-data.generated.ts"
 import { icons } from "@temper/shared-addon-libraries-lib-treasure/src/icons.ts"
 import type { AllData } from "@temper/shared-addon-libraries-lib-treasure/src/types.ts"
-import { makeLuaVm } from "@temper/shared-build-deploy-lua-runner/lua-vm"
-import { addonsDir } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
+import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
+import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { PortMismatch } from "../libraries.ts"
 
 const SOURCE_DIR = join(addonsDir(), "LibTreasure")

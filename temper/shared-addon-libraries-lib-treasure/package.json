@@ -7,8 +7,8 @@
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
   },
   "devDependencies": {
-    "@temper/shared-build-deploy-lua-runner": "workspace:*",
-    "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
+    "@akasha/temper-eso-paths": "workspace:*",
+    "@akasha/temper-lua-runner": "workspace:*",
     "typescript": "^5.8.3"
   }
 }

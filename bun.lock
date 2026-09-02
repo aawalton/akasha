@@ -17,9 +17,17 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
+        "@akasha/temper-addons-resolve": "workspace:*",
+        "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-catalog-host": "workspace:*",
+        "@akasha/temper-community-addons": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-game-navigation-capture-host": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
+        "@akasha/temper-quests-trace": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
+        "@akasha/temper-saved-vars-migration": "workspace:*",
+        "@akasha/temper-watcher": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
@@ -50,13 +58,6 @@
         "@stories/text": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "@temper/catalog-cli": "workspace:*",
-        "@temper/player-quests-addon-cli": "workspace:*",
-        "@temper/shared-build-deploy-addons-resolve": "workspace:*",
-        "@temper/shared-build-deploy-community-addons": "workspace:*",
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
-        "@temper/shared-build-deploy-saved-vars-migration": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
         "@vscode/ripgrep": "^1.18.0",
         "cdk8s": "^2.70.60",
         "extract-zip": "^2.0.1",
@@ -928,6 +929,13 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-quests-trace": {
+      "name": "@akasha/temper-quests-trace",
+      "dependencies": {
+        "@akasha/temper-saved-variables": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/temper/temper-races": {
       "name": "@akasha/temper-races",
       "dependencies": {
@@ -1713,9 +1721,9 @@
         "zod": "^4.3.6",
       },
       "devDependencies": {
+        "@akasha/temper-lua-runner": "workspace:*",
         "@biomejs/biome": "2.4.7",
         "@temper/shared-build-deploy-checks": "workspace:*",
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
         "@types/bun": "^1.3.9",
         "@types/node": "25.9.5",
         "@types/picomatch": "^2.3.3",
@@ -1927,11 +1935,10 @@
       "name": "@temper/addons",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-addons-resolve": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
         "@temper/player-completion": "workspace:*",
-        "@temper/shared-build-deploy-addons-resolve": "workspace:*",
         "@temper/shared-foundation-misc-dungeons": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
       },
       "devDependencies": {
         "typescript": "^5.8.3",
@@ -1964,8 +1971,8 @@
       "name": "@temper/catalog-cli",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -2178,7 +2185,7 @@
         "@temper/shared-narrow": "workspace:*",
       },
       "devDependencies": {
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
         "typescript": "^5.8.3",
       },
     },
@@ -2320,10 +2327,6 @@
     "temper/game-completion": {
       "name": "@temper/game-completion",
       "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "zod": "^4.3.6",
-      },
       "devDependencies": {
         "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
@@ -2384,7 +2387,7 @@
         "@temper/shared-narrow": "workspace:*",
       },
       "devDependencies": {
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
         "typescript": "^5.8.3",
       },
     },
@@ -2583,8 +2586,8 @@
         "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
       },
       "devDependencies": {
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
         "typescript": "^5.8.3",
       },
     },
@@ -2907,18 +2910,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/player-quests-addon-cli": {
-      "name": "@temper/player-quests-addon-cli",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-saved-variables": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/scripts": {
       "name": "@temper/scripts",
       "version": "0.1.0",
@@ -2938,6 +2929,7 @@
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-game-collections-antiquities-capture-host": "workspace:*",
         "@akasha/temper-game-collections-capture-host": "workspace:*",
@@ -2949,6 +2941,7 @@
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-watcher": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
@@ -2973,8 +2966,6 @@
         "@temper/shared-capture-errors-decision-core": "workspace:*",
         "@temper/shared-engine": "workspace:*",
         "@temper/shared-foundation-misc-dungeons": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -3090,8 +3081,8 @@
       "name": "@temper/shared-addon-libraries-lib-map-data",
       "version": "0.1.0",
       "devDependencies": {
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
         "typescript": "^5.8.3",
       },
     },
@@ -3148,8 +3139,8 @@
       "name": "@temper/shared-addon-libraries-lib-sets",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths": "workspace:*",
       },
       "devDependencies": {
         "typescript": "^5.8.3",
@@ -3159,9 +3150,9 @@
       "name": "@temper/shared-addon-libraries-lib-sets-scripts",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-eso-paths": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
         "@infra/git-porcelain": "workspace:*",
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -3193,8 +3184,8 @@
       "name": "@temper/shared-addon-libraries-lib-treasure",
       "version": "0.1.0",
       "devDependencies": {
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
         "typescript": "^5.8.3",
       },
     },
@@ -3202,8 +3193,8 @@
       "name": "@temper/shared-addon-libraries-lib-zone",
       "version": "0.1.0",
       "devDependencies": {
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
         "typescript": "^5.8.3",
       },
     },
@@ -3214,67 +3205,14 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/shared-build-deploy-addons-resolve": {
-      "name": "@temper/shared-build-deploy-addons-resolve",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/utils-narrow": "workspace:*",
-        "@akasha/workspace-paths": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/shared-build-deploy-checks": {
       "name": "@temper/shared-build-deploy-checks",
       "version": "0.1.0",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@temper/shared-build-deploy-addons-resolve": "workspace:*",
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-build-deploy-community-addons": {
-      "name": "@temper/shared-build-deploy-community-addons",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "extract-zip": "^2.0.1",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-build-deploy-lua-runner": {
-      "name": "@temper/shared-build-deploy-lua-runner",
-      "version": "0.1.0",
-      "bin": {
-        "lua-runner": "./src/cli.ts",
-      },
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-build-deploy-saved-vars-migration": {
-      "name": "@temper/shared-build-deploy-saved-vars-migration",
-      "version": "0.1.0",
-      "dependencies": {
+        "@akasha/temper-addons-resolve": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -3339,8 +3277,8 @@
       "dependencies": {
         "@akasha/temper-capture-errors": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
-        "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -3366,7 +3304,7 @@
         "@temper/shared-capture-core": "workspace:*",
       },
       "devDependencies": {
-        "@temper/shared-build-deploy-lua-runner": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
         "typescript": "^5.8.3",
       },
     },
@@ -3401,28 +3339,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/shared-foundation-misc-eso-paths": {
-      "name": "@temper/shared-foundation-misc-eso-paths",
-      "version": "0.1.0",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-foundation-misc-eso-paths-resolve": {
-      "name": "@temper/shared-foundation-misc-eso-paths-resolve",
-      "version": "0.1.0",
-      "dependencies": {
-        "@temper/shared-foundation-misc-eso-paths": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/shared-interface-hud-addon": {
       "name": "@temper/shared-interface-hud-addon",
       "version": "0.1.0",
@@ -3441,7 +3357,7 @@
       "name": "@temper/shared-interface-hud-scene-catalog",
       "version": "0.1.0",
       "dependencies": {
-        "@temper/shared-foundation-misc-eso-paths": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -3830,6 +3746,8 @@
     "@akasha/temper-lib-table-functions": ["@akasha/temper-lib-table-functions@workspace:akasha/temper/temper-lib-table-functions"],
 
     "@akasha/temper-lua-runner": ["@akasha/temper-lua-runner@workspace:akasha/temper/temper-lua-runner"],
+
+    "@akasha/temper-quests-trace": ["@akasha/temper-quests-trace@workspace:akasha/temper/temper-quests-trace"],
 
     "@akasha/temper-races": ["@akasha/temper-races@workspace:akasha/temper/temper-races"],
 
@@ -4619,8 +4537,6 @@
 
     "@temper/player-quests-addon": ["@temper/player-quests-addon@workspace:temper/player-quests-addon"],
 
-    "@temper/player-quests-addon-cli": ["@temper/player-quests-addon-cli@workspace:temper/player-quests-addon-cli"],
-
     "@temper/scripts": ["@temper/scripts@workspace:temper/scripts"],
 
     "@temper/shared-addon-libraries-lib-addon-keybinds": ["@temper/shared-addon-libraries-lib-addon-keybinds@workspace:temper/shared-addon-libraries-lib-addon-keybinds"],
@@ -4683,15 +4599,7 @@
 
     "@temper/shared-build-deploy-addon-bundle-runtime": ["@temper/shared-build-deploy-addon-bundle-runtime@workspace:temper/shared-build-deploy-addon-bundle-runtime"],
 
-    "@temper/shared-build-deploy-addons-resolve": ["@temper/shared-build-deploy-addons-resolve@workspace:temper/shared-build-deploy-addons-resolve"],
-
     "@temper/shared-build-deploy-checks": ["@temper/shared-build-deploy-checks@workspace:temper/shared-build-deploy-checks"],
-
-    "@temper/shared-build-deploy-community-addons": ["@temper/shared-build-deploy-community-addons@workspace:temper/shared-build-deploy-community-addons"],
-
-    "@temper/shared-build-deploy-lua-runner": ["@temper/shared-build-deploy-lua-runner@workspace:temper/shared-build-deploy-lua-runner"],
-
-    "@temper/shared-build-deploy-saved-vars-migration": ["@temper/shared-build-deploy-saved-vars-migration@workspace:temper/shared-build-deploy-saved-vars-migration"],
 
     "@temper/shared-build-deploy-tstl": ["@temper/shared-build-deploy-tstl@workspace:lua-compiler"],
 
@@ -4714,10 +4622,6 @@
     "@temper/shared-foundation-misc-codec": ["@temper/shared-foundation-misc-codec@workspace:temper/shared-foundation-misc-codec"],
 
     "@temper/shared-foundation-misc-dungeons": ["@temper/shared-foundation-misc-dungeons@workspace:temper/shared-foundation-misc-dungeons"],
-
-    "@temper/shared-foundation-misc-eso-paths": ["@temper/shared-foundation-misc-eso-paths@workspace:temper/shared-foundation-misc-eso-paths"],
-
-    "@temper/shared-foundation-misc-eso-paths-resolve": ["@temper/shared-foundation-misc-eso-paths-resolve@workspace:temper/shared-foundation-misc-eso-paths-resolve"],
 
     "@temper/shared-interface-hud-addon": ["@temper/shared-interface-hud-addon@workspace:temper/shared-interface-hud-addon"],
 

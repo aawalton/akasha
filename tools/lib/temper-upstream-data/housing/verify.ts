@@ -2,8 +2,8 @@ import { join } from "node:path"
 import { naLibraryData } from "@temper/game-housing-addon/src/ptf/data/generated/library-data-na.generated.ts"
 import { euLibraryData } from "@temper/game-housing-addon/src/ptf/data/generated/library-data.generated.ts"
 import type { LibraryEntry } from "@temper/game-housing-addon/src/ptf/types.ts"
-import { makeLuaVm } from "@temper/shared-build-deploy-lua-runner/lua-vm"
-import { addonsDir } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
+import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
+import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { PortMismatch } from "../libraries.ts"
 
 const UPSTREAM_PATH = join(

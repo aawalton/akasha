@@ -27,9 +27,5 @@
     "src/**/*.test.ts",
     "scripts/**/*.ts"
   ],
-  "references": [
-    {
-      "path": "../shared-foundation-misc-eso-paths-resolve"
-    }
-  ]
+  "references": []
 }

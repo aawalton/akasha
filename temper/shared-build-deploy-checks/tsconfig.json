@@ -9,11 +9,7 @@
       "@types/bun"
     ]
   },
-  "references": [
-    { "path": "../shared-build-deploy-addons-resolve" },
-    { "path": "../shared-build-deploy-lua-runner" },
-    { "path": "../shared-foundation-misc-eso-paths" }
-  ],
+  "references": [],
   "include": [
     "src/**/*.ts"
   ],

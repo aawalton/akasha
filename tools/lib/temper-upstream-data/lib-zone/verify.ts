@@ -4,8 +4,8 @@ import {
   PRELOADED_ZONE_NAMES,
   PUBLIC_DUNGEON_MAP_IDS,
 } from "@temper/shared-addon-libraries-lib-zone/src/generated/zone-data.generated.ts"
-import { makeLuaVm } from "@temper/shared-build-deploy-lua-runner/lua-vm"
-import { addonsDir } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
+import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
+import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { diff, dumpJsWalk, LUA_DUMP } from "../leaf-dump.ts"
 import { PortMismatch } from "../libraries.ts"
 import { ESO_STUBS } from "./eso-stubs.ts"

@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "typescript": "^5.8.3",
-    "@temper/shared-build-deploy-lua-runner": "workspace:*"
+    "@akasha/temper-lua-runner": "workspace:*"
   },
   "functionalType": "addon",
   "version": "0.1.0",

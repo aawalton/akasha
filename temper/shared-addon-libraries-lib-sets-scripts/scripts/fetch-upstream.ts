@@ -1,7 +1,7 @@
 import { mkdir } from "node:fs/promises"
 import { join } from "node:path"
 import { PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@infra/git-porcelain/parse-status"
-import { addonUpstreamDir } from "@temper/shared-foundation-misc-eso-paths/eso-paths"
+import { addonUpstreamDir } from "@akasha/temper-eso-paths/eso-paths"
 import { $ } from "bun"
 import { LIBSETS_UPSTREAM, type UpstreamPin } from "./upstream-pin"
 import { countBundleMarkers, type UpstreamProbe, verifyUpstream } from "./verify-upstream"

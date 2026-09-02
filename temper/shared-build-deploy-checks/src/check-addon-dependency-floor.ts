@@ -2,8 +2,8 @@
 
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { type AddonInfo, listAllAddons } from "@temper/shared-build-deploy-addons-resolve"
-import { addonManifestSchema } from "@temper/shared-build-deploy-addons-resolve/manifest"
+import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import {
   type AddonFloorInput,
   auditDependencyFloors,

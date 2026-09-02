@@ -1,7 +1,7 @@
 import { realpathSync } from "node:fs"
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
-import { makeSandboxedLuaVm } from "@temper/shared-build-deploy-lua-runner/sandboxed-lua-vm"
+import { makeSandboxedLuaVm } from "@akasha/temper-lua-runner/sandboxed-lua-vm"
 import { resolveVerifiedUpstream } from "./fetch-upstream"
 import { LIBSETS_UPSTREAM } from "./upstream-pin"
 

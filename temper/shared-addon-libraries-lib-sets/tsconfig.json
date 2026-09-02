@@ -24,9 +24,5 @@
   "exclude": [
     "src/**/*.test.ts"
   ],
-  "references": [
-    {
-      "path": "../shared-foundation-misc-eso-paths"
-    }
-  ]
+  "references": []
 }

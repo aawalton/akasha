@@ -1,5 +1,5 @@
 import { readFile } from "node:fs/promises"
-import { addonsFile } from "../../shared-foundation-misc-eso-paths-resolve/src/eso-paths-resolve"
+import { addonsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { z } from "zod"
 import { inferCulpritAddon } from "./crash-signatures"
 import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"

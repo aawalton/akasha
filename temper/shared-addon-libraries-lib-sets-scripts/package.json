@@ -5,9 +5,9 @@
   "type": "module",
   "private": true,
   "dependencies": {
-    "@infra/git-porcelain": "workspace:*",
-    "@temper/shared-build-deploy-lua-runner": "workspace:*",
-    "@temper/shared-foundation-misc-eso-paths": "workspace:*"
+    "@akasha/temper-eso-paths": "workspace:*",
+    "@akasha/temper-lua-runner": "workspace:*",
+    "@infra/git-porcelain": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

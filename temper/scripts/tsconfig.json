@@ -45,7 +45,8 @@
     },
     {
       "path": "../shared-capture-datamining-reader"
-    }],
+    }
+  ],
   "include": [
     "src/**/*.ts"
   ],

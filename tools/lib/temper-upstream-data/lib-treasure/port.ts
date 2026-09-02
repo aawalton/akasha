@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises"
 import { join } from "node:path"
-import { makeLuaVm } from "@temper/shared-build-deploy-lua-runner/lua-vm"
-import { addonsDir } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
+import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
+import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { PACKAGE_OF } from "../libraries.ts"
 
 const SOURCE_PATH = join(addonsDir(), "LibTreasure", "data.lua")

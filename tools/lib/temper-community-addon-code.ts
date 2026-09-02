@@ -1,5 +1,5 @@
-import { listDeployables } from "@temper/shared-build-deploy-addons-resolve/deployables"
-import { addonsDir } from "@temper/shared-foundation-misc-eso-paths-resolve"
+import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
+import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 
 interface Deployables {
   readonly listDeployables: typeof listDeployables

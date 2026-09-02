@@ -13,19 +13,19 @@ import {
   decideInstallAction,
   foreignCopySatisfies,
   OWNERSHIP_MARKER_FILE,
-} from "@temper/shared-build-deploy-addons-resolve/folder-ownership"
-import { addonManifestSchema } from "@temper/shared-build-deploy-addons-resolve/manifest"
+} from "@akasha/temper-addons-resolve/folder-ownership"
+import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import {
   readSiblingAddonNames,
   siblingDistDir,
-} from "@temper/shared-build-deploy-addons-resolve/sibling-addons"
+} from "@akasha/temper-addons-resolve/sibling-addons"
 import {
   logBundleMemberMigration,
   migrateBundleMemberSavedVars,
   readDeclaredSavedVars,
-} from "@temper/shared-build-deploy-saved-vars-migration/extract-bundle-member-saved-vars"
-import { applyConsolidationMigrations } from "@temper/shared-build-deploy-saved-vars-migration/migrate-saved-vars"
-import { addonsDir, savedVarsDir as esoSavedVarsDir } from "@temper/shared-foundation-misc-eso-paths-resolve/eso-paths-resolve"
+} from "@akasha/temper-saved-vars-migration/bundle-member-saved-vars"
+import { applyConsolidationMigrations } from "@akasha/temper-saved-vars-migration/saved-vars-migration"
+import { addonsDir, savedVarsDir as esoSavedVarsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { z } from "zod"
 import { codeRoot } from "../../../lib/code-root.ts"
 import { dataError, inputError, operationalError } from "../../../lib/exit.ts"

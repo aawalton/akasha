@@ -7,7 +7,7 @@ import { dataError, inputError } from "../../../lib/exit.ts"
 import { parseLokiDuration } from "../../../lib/loki-fetch.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { mergeNewestFirst } from "../../../lib/temper-watcher-merge-newest-first.ts"
-import { watcherLogDir } from "@temper/shared-foundation-misc-eso-paths"
+import { watcherLogDir } from "@akasha/temper-watcher/watcher-paths"
 import {
   type LogSource,
   type ParsedLogLine,

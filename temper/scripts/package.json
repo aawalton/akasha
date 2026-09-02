@@ -16,6 +16,7 @@
     "@akasha/temper-catalog-core": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
+    "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-game-collections-antiquities-capture-host": "workspace:*",
     "@akasha/temper-game-collections-capture-host": "workspace:*",
@@ -27,6 +28,7 @@
     "@akasha/temper-races": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/temper-watcher": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
@@ -51,8 +53,6 @@
     "@temper/shared-capture-errors-decision-core": "workspace:*",
     "@temper/shared-engine": "workspace:*",
     "@temper/shared-foundation-misc-dungeons": "workspace:*",
-    "@temper/shared-foundation-misc-eso-paths": "workspace:*",
-    "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

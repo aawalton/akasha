@@ -2,10 +2,10 @@
   "name": "@temper/shared-build-deploy-checks",
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
+    "@akasha/temper-addons-resolve": "workspace:*",
+    "@akasha/temper-eso-paths": "workspace:*",
+    "@akasha/temper-lua-runner": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/shared-build-deploy-addons-resolve": "workspace:*",
-    "@temper/shared-build-deploy-lua-runner": "workspace:*",
-    "@temper/shared-foundation-misc-eso-paths": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

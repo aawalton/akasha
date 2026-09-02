@@ -20,12 +20,6 @@
         "**/*.ts"
       ]
     },
-    "temper/game-characters-champion-points": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/game-characters-character": {
       "entry": [],
       "project": [
@@ -36,12 +30,6 @@
       "entry": [],
       "project": [
         "**/*.{ts,tsx}"
-      ]
-    },
-    "temper/game-characters-classes": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
       ]
     },
     "temper/game-characters-equipment": {
@@ -128,12 +116,6 @@
       ],
       "project": [
         "**/*.ts!"
-      ]
-    },
-    "temper/game-items-alchemy": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
       ]
     },
     "temper/game-items-core": {
@@ -289,14 +271,6 @@
         "src/**/*.ts"
       ]
     },
-    "temper/shared-build-deploy-addons-resolve": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/shared-build-deploy-checks": {
       "entry": [
         "src/check-*.ts",
@@ -306,24 +280,7 @@
         "src/**/*.ts"
       ]
     },
-    "temper/shared-build-deploy-lua-runner": {
-      "entry": [
-        "**/*.test.{ts,tsx}",
-        "tests/**/*.ts"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/shared-engine": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "temper/shared-formula-framework": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

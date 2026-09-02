@@ -2,7 +2,7 @@
 
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
-import { listAllAddons } from "@temper/shared-build-deploy-addons-resolve"
+import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { type DispatchFinding, detectNonDispatchHandlers } from "./addon-inline-handler-dispatch"
 import { addonRosterIsEmpty, EMPTY_ADDON_ROSTER_HINT } from "./addon-roster-guard"
 import { parseArgs as parseCliArgs, REPO_ROOT_FLAG } from "./lib/cli-args"

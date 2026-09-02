@@ -13,7 +13,7 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@temper/shared-foundation-misc-eso-paths": "workspace:*",
+    "@akasha/temper-eso-paths": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

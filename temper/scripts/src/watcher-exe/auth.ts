@@ -3,7 +3,7 @@ import { existsSync, mkdirSync, readFileSync } from "node:fs"
 import { createServer, type Server } from "node:http"
 import { join } from "node:path"
 import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
-import { watcherConfigDir } from "../../../shared-foundation-misc-eso-paths/src/eso-paths"
+import { watcherConfigDir } from "@akasha/temper-watcher/watcher-paths"
 import { z } from "zod"
 import { log } from "./logger"
 

@@ -1,4 +1,4 @@
-import type { ConsolidationMigration } from "@temper/shared-build-deploy-saved-vars-migration/migrate-saved-vars"
+import type { ConsolidationMigration } from "@akasha/temper-saved-vars-migration/saved-vars-migration"
 
 export const CONSOLIDATION_MIGRATIONS: readonly ConsolidationMigration[] = [
 	{

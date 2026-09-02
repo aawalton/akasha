@@ -1,4 +1,4 @@
-import { luaNumberString } from "@temper/shared-build-deploy-lua-runner/lua-number-string"
+import { luaNumberString } from "@akasha/temper-lua-runner/lua-number-string"
 
 export function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null

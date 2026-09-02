@@ -1,11 +1,10 @@
 {
   "name": "@temper/addons",
   "dependencies": {
+    "@akasha/temper-addons-resolve": "workspace:*",
+    "@akasha/temper-eso-paths": "workspace:*",
     "@temper/player-completion": "workspace:*",
-    "@temper/shared-build-deploy-addons-resolve": "workspace:*",
-    "@temper/shared-foundation-misc-dungeons": "workspace:*",
-    "@temper/shared-foundation-misc-eso-paths": "workspace:*",
-    "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*"
+    "@temper/shared-foundation-misc-dungeons": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"
