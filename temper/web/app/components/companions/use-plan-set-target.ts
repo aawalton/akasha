@@ -5,9 +5,9 @@ import {
   type CompanionBuildMetadata,
   extractCompanionMetadata,
 } from "@akasha/temper-build-metadata/build-metadata"
+import { decodeCompanion, encodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
-import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import {
   type useAllCompanionList,
   useCompanionLifecycle,
