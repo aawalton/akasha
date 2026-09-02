@@ -59,7 +59,7 @@ export async function readAgentForest(subagents: SubagentReader): Promise<AgentF
       } catch {}
     })
   )
-  subagents.dropUntouched()
+  await subagents.dropUntouched()
 
   let alanPrincipalCount = 0
   for (const row of rows) {
