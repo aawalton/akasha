@@ -6,5 +6,5 @@ export const temperGear = {
   slug: "temper-gear",
   definition: "what a character wears, wields and makes",
   pluralSlug: "temper-gears",
-  partSlugs: ["page-type/temper-armor-trait"],
+  partSlugs: ["page-type/temper-armor-trait", "page-type/temper-gear-thing"],
 } as const satisfies Domain
