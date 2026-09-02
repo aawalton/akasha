@@ -87,6 +87,10 @@ export const alanHarness = {
       invariantKind: "gap",
       statement: "A deploy to Alan's harness does nothing else.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every package Alan's harness is made of is in akasha.",
+    },
   ],
   directives: [
     {
