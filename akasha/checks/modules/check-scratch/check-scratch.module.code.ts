@@ -106,11 +106,12 @@ export function landing(
   files: Readonly<Record<string, Uint8Array | null>>,
   before: Readonly<Record<string, Uint8Array>> = {}
 ): Change {
+  const disk = onDisk(root)
   return {
     root,
     changed: Object.keys(files),
-    after: (path) => files[path] ?? null,
-    before: (path) => before[path] ?? NO_BYTES,
+    after: (path) => (path in files ? (files[path] ?? null) : disk(path)),
+    before: (path) => before[path] ?? (path in files ? NO_BYTES : disk(path)),
   }
 }
 

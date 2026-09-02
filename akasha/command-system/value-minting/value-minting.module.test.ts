@@ -95,8 +95,8 @@ function rooted(generator: string | null): string {
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@akasha"])
   gitIn(root, ["config", "user.name", "held"])
-  gitIn(root, ["add", "--", "seed"])
-  gitIn(root, ["commit", "--quiet", "-m", "held", "--", "seed"])
+  gitIn(root, ["add", "--", "seed", "akasha"])
+  gitIn(root, ["commit", "--quiet", "-m", "held", "--", "seed", "akasha"])
   return root
 }
 
