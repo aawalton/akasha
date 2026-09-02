@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "3 packages, 502 files: web 360, player-completion 85, scripts 57. `player-completion` is NOT ready to ablate: `09f964f5c5` deleted 37 test files and 4,576 lines from it, and the twin holds 0 tests across 134 files, so a parity check compares two zeros. Recovery is in flight. Web`s last 18 edges are mechanical now that `/api/ask` and a catalogs hook are landed. The watcher is 6 files from whole.",
+        "`09f964f5c5` is a pure deletion of 2,271 test files and 279,625 lines repo-wide: the tree went from 2,533 tests to 262 and holds 578 now. Its message describes ablating task pages and the diff holds none of that. It hit all 3 remaining packages — player-completion 37, scripts 27, web 13. No ablation may rest on twin-against-legacy parity until those are recovered. Player-completion recovery is in flight.",
     },
   ],
   constraints: [
