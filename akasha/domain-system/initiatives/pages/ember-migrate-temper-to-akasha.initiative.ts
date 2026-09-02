@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "The sidecar path is live, not dead: I reported it threw, and that nearly cost a deletion. Addon-data has no proven invocation at all. The command refuses as one of 65 stubs, `bun` on the generator writes zero files and exits 0, and the third route is off, so nothing measured through it means anything yet. `temper-companion-skill` is the page-type gap: its pages hold 0 of 122 effects and cast conditions, and the loosening that stops the throw drops 39.7 percent while reporting success.",
+        "Alan's page-type gap is closed: `temper-companion-skill` gained 53 property pages and two entry shapes, and its 122 pages hold all 436 effects and 27 cast conditions, regenerating to 119,803 bytes against 119,824 on disk. Addon-data's invocation is settled — its entry is called, never loaded — and 11 of its 12 sections emit byte-identical; only skills throws, on grimoire order. Alan took the companion sections out of that pipeline. A bridge decoding no json drifted 1,636 rows.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "Past parity: 95 packages in `akasha/temper`, 93 left in `temper/`. Addons build and ship from akasha, so teardowns are open: trading is torn down, companions is next. The gate was never the route, it was three pages naming no bundle entry. Typecheck broke from zero to 44 and is under repair, all of it one shape, a name declared in the shared set while a library keeps its private copy. The audit holds at 70 to 73 refusals over 29,400 files.",
+        "110 packages in `akasha/temper`, 93 in `temper/`, but no name rule tells a duplicate from a gap — `game-characters-skills` landed as `temper-character-skills` — so a content census is running. Every teardown is unsafe: copy-metadata swaps 3,137 bytes of keybinds for 22 when the file is not where akasha holds it, exposing six addons. Typecheck went 45 to 1, all one defect: a library's private copy of a game global against a narrower shared one.",
     },
   ],
   constraints: [
