@@ -1,0 +1,58 @@
+import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
+
+export const temperCharactersEquipment = {
+  id: "01a0616f-8e1c-76b3-861c-26bdb8cfc586",
+  pageTypeSlug: "workspace-package",
+  slug: "temper-characters-equipment",
+  definition: "every piece of gear a character wears, with the effects each piece carries",
+  manifest: "json",
+  partSlugs: [
+    "module/item-composites",
+    "module/level-scaling",
+    "module/loadout-types",
+    "module/set-select-types",
+    "module/merge-item-data",
+    "module/set-equipment-types",
+    "module/jewelry-enchants-data",
+    "module/weapon-types-data",
+    "module/set-categories",
+    "module/armor-trait-effects",
+    "module/jewelry-trait-effects",
+    "module/weapon-trait-effects",
+    "module/armor-weights",
+    "module/armor-enchants",
+    "module/jewelry-enchants",
+    "module/weapon-enchants",
+    "module/set-pattern-matcher",
+    "module/get-equipment-icon",
+    "module/weapon-slot-access",
+    "module/mythic-set-rules",
+    "module/clear-incompatible-sets",
+    "module/weapon-slot-mutations",
+    "module/armor-source",
+    "module/jewelry-source",
+    "module/weapon-source",
+    "module/bulk-update-armor",
+    "module/bulk-update-jewelry",
+    "module/bulk-update-weapons",
+    "module/bulk-update-functions",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The generated table of gear sets is outside akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The modules reading that table are outside akasha.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "A generator for these tables writes outside akasha.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "Both copies of a generated table move together.",
+    },
+  ],
+} as const satisfies WorkspacePackage

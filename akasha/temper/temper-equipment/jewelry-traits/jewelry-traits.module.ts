@@ -19,9 +19,5 @@ export const jewelryTraits = {
       invariantKind: "gap",
       statement: "A trait moved to another place breaks every build hash saved.",
     },
-    {
-      invariantKind: "gap",
-      statement: "The effects a worn piece gets from its trait are worked out outside akasha.",
-    },
   ],
 } as const satisfies Module

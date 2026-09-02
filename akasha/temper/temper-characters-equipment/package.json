@@ -1,0 +1,42 @@
+{
+  "name": "@akasha/temper-characters-equipment",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./armor-enchants": "./armor-enchants/armor-enchants.module.code.ts",
+    "./armor-source": "./armor-source/armor-source.module.code.ts",
+    "./armor-trait-effects": "./armor-trait-effects/armor-trait-effects.module.code.ts",
+    "./armor-weights": "./armor-weights/armor-weights.module.code.ts",
+    "./bulk-update-armor": "./bulk-update-armor/bulk-update-armor.module.code.ts",
+    "./bulk-update-functions": "./bulk-update-functions/bulk-update-functions.module.code.ts",
+    "./bulk-update-jewelry": "./bulk-update-jewelry/bulk-update-jewelry.module.code.ts",
+    "./bulk-update-weapons": "./bulk-update-weapons/bulk-update-weapons.module.code.ts",
+    "./clear-incompatible-sets": "./clear-incompatible-sets/clear-incompatible-sets.module.code.ts",
+    "./get-equipment-icon": "./get-equipment-icon/get-equipment-icon.module.code.ts",
+    "./item-composites": "./item-composites/item-composites.module.code.ts",
+    "./jewelry-enchants": "./jewelry-enchants/jewelry-enchants.module.code.ts",
+    "./jewelry-enchants-data": "./jewelry-enchants-data/jewelry-enchants-data.module.code.ts",
+    "./jewelry-source": "./jewelry-source/jewelry-source.module.code.ts",
+    "./jewelry-trait-effects": "./jewelry-trait-effects/jewelry-trait-effects.module.code.ts",
+    "./level-scaling": "./level-scaling/level-scaling.module.code.ts",
+    "./loadout-types": "./loadout-types/loadout-types.module.code.ts",
+    "./merge-item-data": "./merge-item-data/merge-item-data.module.code.ts",
+    "./mythic-set-rules": "./mythic-set-rules/mythic-set-rules.module.code.ts",
+    "./set-categories": "./set-categories/set-categories.module.code.ts",
+    "./set-equipment-types": "./set-equipment-types/set-equipment-types.module.code.ts",
+    "./set-pattern-matcher": "./set-pattern-matcher/set-pattern-matcher.module.code.ts",
+    "./set-select-types": "./set-select-types/set-select-types.module.code.ts",
+    "./weapon-enchants": "./weapon-enchants/weapon-enchants.module.code.ts",
+    "./weapon-slot-access": "./weapon-slot-access/weapon-slot-access.module.code.ts",
+    "./weapon-slot-mutations": "./weapon-slot-mutations/weapon-slot-mutations.module.code.ts",
+    "./weapon-source": "./weapon-source/weapon-source.module.code.ts",
+    "./weapon-trait-effects": "./weapon-trait-effects/weapon-trait-effects.module.code.ts",
+    "./weapon-types-data": "./weapon-types-data/weapon-types-data.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-equipment": "workspace:*",
+    "@akasha/temper-equipment-kinds": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
