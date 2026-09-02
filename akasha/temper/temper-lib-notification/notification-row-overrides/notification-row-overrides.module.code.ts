@@ -1,9 +1,8 @@
-import type { TextureFn } from "../notification-types/notification-types.module.code.ts"
-import "../notification-declarations/notification-declarations.module.code.ts"
 import { asTextureControl } from "../notification-casts/notification-casts.module.code.ts"
 import type {
   NotificationData,
   NotificationRowControl,
+  TextureFn,
 } from "../notification-types/notification-types.module.code.ts"
 
 function setupBaseRow(

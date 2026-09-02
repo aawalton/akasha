@@ -1,4 +1,3 @@
-import "../notification-declarations/notification-declarations.module.code.ts"
 import type {
   LibNotificationProviderClass,
   LibNotificationProviderInstance,

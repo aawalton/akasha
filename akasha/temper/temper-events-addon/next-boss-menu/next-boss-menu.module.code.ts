@@ -1,7 +1,6 @@
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-addon-library-types/lib-addon-menu"
-import "../next-boss-declarations/next-boss-declarations.module.code.ts"
 
 import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { initializeSavedVariables } from "../next-boss-saved-variables/next-boss-saved-variables.module.code.ts"

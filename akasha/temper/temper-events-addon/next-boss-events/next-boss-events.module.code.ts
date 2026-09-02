@@ -8,7 +8,6 @@ import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-3"
 import "@akasha/temper-eso-types/tstl-eso-sandbox"
 import "@akasha/temper-addon-library-types/lib-group-broadcast"
-import "../next-boss-declarations/next-boss-declarations.module.code.ts"
 
 import {
   BROADCAST_HANDLER_NAME,

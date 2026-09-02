@@ -1,5 +1,4 @@
 import type { GlobalTable } from "../notification-casts/notification-casts.module.code.ts"
-import "../notification-declarations/notification-declarations.module.code.ts"
 
 import { LIB_ALIAS, LIB_NAME } from "../notification-names/notification-names.module.code.ts"
 import { NOTIFICATION_LIB } from "../notification-provider-link/notification-provider-link.module.code.ts"

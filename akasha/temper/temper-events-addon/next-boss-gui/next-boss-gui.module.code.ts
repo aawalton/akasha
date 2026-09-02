@@ -4,7 +4,6 @@ import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-world-map-pins"
 import "@akasha/temper-eso-types/eso-world-map-zoom"
-import "../next-boss-declarations/next-boss-declarations.module.code.ts"
 
 import { MAP_ID_IMPERIAL_CITY } from "../next-boss-constants/next-boss-constants.module.code.ts"
 import { ICT } from "../next-boss-state/next-boss-state.module.code.ts"

@@ -1,4 +1,3 @@
-import "../media-declarations/media-declarations.module.code.ts"
 import type { MediaTypeMap, ProviderState } from "../media-types/media-types.module.code.ts"
 
 function addSound(

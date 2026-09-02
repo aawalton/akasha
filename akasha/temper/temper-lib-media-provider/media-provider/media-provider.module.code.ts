@@ -1,4 +1,3 @@
-import "../media-declarations/media-declarations.module.code.ts"
 import { buildInitialState } from "../media-data/media-data.module.code.ts"
 import type { LibMediaProviderApi, ProviderState } from "../media-types/media-types.module.code.ts"
 

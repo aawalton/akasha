@@ -1,5 +1,4 @@
 import type { GlobalTable } from "../media-casts/media-casts.module.code.ts"
-import "../media-declarations/media-declarations.module.code.ts"
 
 import { createProvider } from "../media-provider/media-provider.module.code.ts"
 

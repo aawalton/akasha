@@ -2,7 +2,6 @@ import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-functions-04"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/tstl-eso-sandbox"
-import "../next-boss-declarations/next-boss-declarations.module.code.ts"
 
 import { GREEN, RED, RESET } from "../next-boss-colors/next-boss-colors.module.code.ts"
 import {
