@@ -1,6 +1,6 @@
-import { BATCH_DELAY, BATCH_SIZE } from "@temper/catalog-core/batch-config"
-import { registerCatalogDomain } from "@temper/catalog-core/registry"
-import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor"
+import { BATCH_DELAY, BATCH_SIZE } from "@akasha/temper-catalog-core/batch-config"
+import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
+import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   ItemSetCatalogEntry,
   ItemSetCatalogPiece,

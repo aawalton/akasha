@@ -65,9 +65,6 @@
       "path": "../shared-capture-sales-core"
     },
     {
-      "path": "../catalog-core"
-    },
-    {
       "path": "../shared-capture-errors-decision-core"
     },
     {
@@ -78,9 +75,6 @@
     },
     {
       "path": "../shared-foundation-misc-eso-paths-resolve"
-    },
-    {
-      "path": "../shared-saved-variables"
     }
   ],
   "include": [

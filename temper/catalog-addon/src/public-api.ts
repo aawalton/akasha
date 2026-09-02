@@ -1,4 +1,4 @@
-import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor"
+import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 
 declare global {
   var TemperCatalog: {

@@ -1,5 +1,5 @@
-import { registerCatalogDomain } from "@temper/catalog-core/registry"
-import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor"
+import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
+import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type { ClassCatalogEntry } from "@akasha/temper-capture-shapes/class-catalog"
 
 export function collectClassCatalog(this: void, onComplete: (this: void) => void): undefined {

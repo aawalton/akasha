@@ -1,8 +1,8 @@
 import { collectPages } from "@akasha/pages-access/iterate"
 import { patchPageById } from "@akasha/pages-access/patch"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { asRecord } from "@akasha/utils-narrow/as-record"
-import type { DomainKey } from "@temper/catalog-core/domain-keys"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
+import type { DomainKey } from "@akasha/temper-catalog-core/domain-keys"
 
 const CATALOG_DOMAINS: ReadonlyArray<{ savedVarKey: DomainKey; pageTitle: string }> = [
   { savedVarKey: "achievementCatalog", pageTitle: "Achievement" },

@@ -8,9 +8,10 @@
     "@akasha/supabase-client": "workspace:*",
     "@akasha/supabase-server": "workspace:*",
     "@akasha/temper-capture-shapes": "workspace:*",
+    "@akasha/temper-catalog-core": "workspace:*",
+    "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/catalog-core": "workspace:*",
     "@temper/game-characters-champion-points": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-classes": "workspace:*",
@@ -52,7 +53,6 @@
     "@temper/shared-foundation-misc-dungeons": "workspace:*",
     "@temper/shared-foundation-misc-eso-paths": "workspace:*",
     "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*",
-    "@temper/shared-saved-variables": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

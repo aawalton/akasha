@@ -1,11 +1,11 @@
 import "./public-api"
 
-import { applyPendingInvalidations } from "@temper/catalog-core/apply-invalidations"
-import { decideClearTarget } from "@temper/catalog-core/clear-target"
-import { catalogCaptureDescriptor } from "@temper/catalog-core/descriptor"
-import { type CatalogDomainEntry, getCatalogDomains } from "@temper/catalog-core/registry"
-import type { CatalogPayload } from "@temper/catalog-core/types"
-import { type CatalogWalkVerdict, runCatalogWalk } from "@temper/catalog-core/walk"
+import { applyPendingInvalidations } from "@akasha/temper-catalog-core/apply-invalidations"
+import { decideClearTarget } from "@akasha/temper-catalog-core/clear-target"
+import { CATALOG_CAPTURE_DESCRIPTOR } from "@akasha/temper-catalog-core/catalog-descriptor"
+import { type CatalogDomainEntry, getCatalogDomains } from "@akasha/temper-catalog-core/domain-registry"
+import type { CatalogPayload } from "@akasha/temper-catalog-core/catalog-payload"
+import { type CatalogWalkVerdict, runCatalogWalk } from "@akasha/temper-catalog-core/catalog-walk"
 import {
   type CaptureWriter,
   defineCaptureWriter,
@@ -31,7 +31,7 @@ import "@temper/game-characters-capture-addon/classes"
 import "@temper/game-companions-capture-addon/companion-skills"
 import "@temper/game-characters-capture-addon/skills"
 import { ADDON_NAME, AUTO_START_DELAY, DOMAIN_DELAY, DOMAIN_TIMEOUT } from "./constants"
-import { getSavedVariables, setCatalogSavedVariablesAccessor } from "@temper/catalog-core/saved-variables-accessor"
+import { getSavedVariables, setCatalogSavedVariablesAccessor } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import { getPendingInvalidation } from "./side-file-config"
 
 declare global {
@@ -246,7 +246,7 @@ function applyHostInvalidations(): undefined {
 }
 
 defineCaptureWriter(
-  catalogCaptureDescriptor,
+  CATALOG_CAPTURE_DESCRIPTOR,
   function (this: void, writer: CaptureWriter<CatalogPayload>): undefined {
     setCatalogSavedVariablesAccessor(writer.getSavedVariables)
     applyHostInvalidations()

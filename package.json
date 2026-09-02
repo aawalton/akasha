@@ -56,7 +56,6 @@
     "temper/addons",
     "temper/catalog-addon",
     "temper/catalog-cli",
-    "temper/catalog-core",
     "temper/catalog-host",
     "temper/game-characters",
     "temper/game-characters-capture-addon",

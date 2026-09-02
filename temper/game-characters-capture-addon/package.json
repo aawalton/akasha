@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@akasha/temper-capture-shapes": "workspace:*",
-    "@temper/catalog-core": "workspace:*",
+    "@akasha/temper-catalog-core": "workspace:*",
     "@temper/shared-capture-core": "workspace:*",
     "@temper/shared-foundation-misc-codec": "workspace:*",
     "@temper/shared-narrow": "workspace:*"

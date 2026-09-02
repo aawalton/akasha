@@ -9,7 +9,7 @@ import {
   type SideFile,
   serializeSideFile,
 } from "@temper/catalog-cli/temper/catalog/side-file"
-import { CATALOG_DOMAIN_KEYS } from "@temper/catalog-core/domain-keys"
+import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
 import {
   type AccountSummary,
   readAccountSummaries,

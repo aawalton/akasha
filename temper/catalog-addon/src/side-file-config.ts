@@ -1,4 +1,4 @@
-import type { PendingInvalidation } from "@temper/catalog-core/apply-invalidations"
+import type { PendingInvalidation } from "@akasha/temper-catalog-core/apply-invalidations"
 
 interface CatalogConfigGlobal {
   readonly version: number
