@@ -3,6 +3,7 @@ import { GREEN_DAY_UNITS_LADDER } from "./ring/ladder/ladder.ts"
 import { evalDailyTier, type DailyTierColor, type DailyTierLadder } from "./ring/tier/tier.ts"
 import { aggregateValueUnits, readPersonaDaily } from "./daily-stoplights.ts"
 import { getInboxStoplightTiers } from "./inbox-stoplights.ts"
+import { groupsAsNamed } from "./group-shortfall.ts"
 import { resolveReadoutGroup, type Ask } from "./readout-resolver.ts"
 import { getUpkeepStoplightTiers } from "./upkeep-stoplights.ts"
 
@@ -11,6 +12,20 @@ const UPKEEP_GROUP_SLUG = "upkeep"
 const INBOX_GROUP_SLUG = "inboxes"
 
 const VALUES_GROUP_SLUG = "values"
+
+/**
+ * The groups the day's mean is taken over, which is also the set the denominator counts.
+ *
+ * `scoredLightCount` refuses a group that resolved short of what the catalog holds. It cannot see a
+ * member that left the catalog altogether, because a readout page removed from under a group takes
+ * its own row with it and the group then resolves fully out of what is left. `groupsAsNamed` reads
+ * the other side, where each group page names the members it expects.
+ */
+const SCORED_GROUP_SLUGS: readonly string[] = [
+  UPKEEP_GROUP_SLUG,
+  INBOX_GROUP_SLUG,
+  VALUES_GROUP_SLUG,
+]
 
 export interface ScoredGroup {
   readonly slug: string
@@ -123,6 +138,7 @@ export async function readStoplightMeanForDay(
     getUpkeepStoplightTiers(forDay),
   ])
 
+  groupsAsNamed(SCORED_GROUP_SLUGS)
   const denominator = scoredLightCount([upkeepGroup, inboxGroup, valuesGroup])
   drawnAsResolved(inboxGroup, inbox.length)
   drawnAsResolved(upkeepGroup, upkeep.length)
