@@ -135,6 +135,7 @@ export const temper = {
     "workspace-package/temper-player-completion-state",
     "workspace-package/temper-player-completion-ui",
     "workspace-package/temper-player-completion-skills-morphs-ui",
+    "eso-addon/temper-lib-scrollable-menu",
   ],
   invariants: [
     {

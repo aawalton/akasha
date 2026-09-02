@@ -1,0 +1,15 @@
+{
+  "name": "LibScrollableMenu",
+  "title": "LibScrollableMenu",
+  "description": "Adds scrollable menu&nested submenus functionality to combobox. Originally developed by Kyoma's Titlizer",
+  "author": "AlanGaming",
+  "version": "2.44",
+  "addonVersion": 20404,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": ["LibScrollableMenu_SavedVars"],
+  "dependsOn": [],
+  "optionalDependsOn": ["LibCustomMenu", "LibDebugLogger"],
+  "xmlFiles": {
+    "beforeBundle": ["XML/LibScrollableMenu.xml"]
+  }
+}

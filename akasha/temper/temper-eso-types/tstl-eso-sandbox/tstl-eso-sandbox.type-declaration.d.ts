@@ -49,7 +49,7 @@ interface EsoLuaDateInfoResult {
   wday: number
 }
 
-declare const _G: typeof globalThis
+declare const _G: typeof globalThis & Record<string, unknown>
 
 declare const _VERSION: "Lua 5.1"
 
@@ -136,8 +136,12 @@ declare function rawset<T extends object, K extends keyof T>(
 declare function select<T>(this: void, index: number, ...args: T[]): LuaMultiReturn<T[]>
 declare function select<T>(this: void, index: "#", ...args: T[]): number
 
-declare const setfenv: (<T extends (this: void, ...args: unknown[]) => unknown>( this: void, f: T, table: object ) => T) &
-  (( this: void, f: 0, table: object ) => (this: void, ...args: unknown[]) => unknown) &
+declare const setfenv: (<T extends (this: void, ...args: unknown[]) => unknown>(
+  this: void,
+  f: T,
+  table: object
+) => T) &
+  ((this: void, f: 0, table: object) => (this: void, ...args: unknown[]) => unknown) &
   ((this: void, f: number, table: object) => void)
 
 declare function setmetatable<
@@ -188,12 +192,10 @@ declare const coroutine: {
 }
 
 declare const debug: {
-  traceback: ((this: void, message?: string | null, level?: number | null) => string) & ((
-    this: void,
-    thread?: LuaThread,
-    message?: string | null,
-    level?: number | null
-  ) => string) & (<T>(this: void, message: T) => T) & (<T>(this: void, thread: LuaThread, message: T) => T)
+  traceback: ((this: void, message?: string | null, level?: number | null) => string) &
+    ((this: void, thread?: LuaThread, message?: string | null, level?: number | null) => string) &
+    (<T>(this: void, message: T) => T) &
+    (<T>(this: void, thread: LuaThread, message: T) => T)
 }
 
 declare const math: {
@@ -220,7 +222,9 @@ declare const math: {
   pi: number
   pow: (this: void, x: number, y: number) => number
   rad: (this: void, x: number) => number
-  random: ((this: void) => number) & ((this: void, m: number) => number) & ((this: void, m: number, n: number) => number)
+  random: ((this: void) => number) &
+    ((this: void, m: number) => number) &
+    ((this: void, m: number, n: number) => number)
   randomseed: (this: void, x: number) => void
   sin: (this: void, x: number) => number
   sinh: (this: void, x: number) => number
@@ -232,14 +236,16 @@ declare const math: {
 declare const os: {
   clock: (this: void) => number
   clockpersecond: (this: void) => number
-  date: ((this: void, format?: string, time?: number) => string) & ((this: void, format: "*t", time?: number) => EsoLuaDateInfoResult)
+  date: ((this: void, format?: string, time?: number) => string) &
+    ((this: void, format: "*t", time?: number) => EsoLuaDateInfoResult)
   difftime: (this: void, t2: number, t1: number) => number
   rawclock: (this: void) => number
   time: ((this: void) => number) & ((this: void, table: EsoLuaDateInfo) => number)
 }
 
 declare const string: {
-  byte: ((this: void, s: string, i?: number) => number) & ((this: void, s: string, i?: number, j?: number) => LuaMultiReturn<number[]>)
+  byte: ((this: void, s: string, i?: number) => number) &
+    ((this: void, s: string, i?: number, j?: number) => LuaMultiReturn<number[]>)
   char: (this: void, ...args: number[]) => string
   find: (
     this: void,
@@ -267,18 +273,14 @@ declare const string: {
 }
 
 declare const table: {
-  concat: (
-    this: void,
-    list: (string | number)[],
-    sep?: string,
-    i?: number,
-    j?: number
-  ) => string
-  insert: (<T>(this: void, list: T[], value: T) => void) & (<T>(this: void, list: T[], pos: number, value: T) => void)
+  concat: (this: void, list: (string | number)[], sep?: string, i?: number, j?: number) => string
+  insert: (<T>(this: void, list: T[], value: T) => void) &
+    (<T>(this: void, list: T[], pos: number, value: T) => void)
   maxn: (this: void, table: object) => number
   remove: <T>(this: void, list: T[], pos?: number) => T | undefined
   sort: <T>(this: void, list: T[], comp?: (a: T, b: T) => boolean) => void
-  unpack: (<T extends unknown[]>(this: void, list: T) => LuaMultiReturn<T>) & (<T>(this: void, list: T[], i: number, j?: number) => LuaMultiReturn<T[]>)
+  unpack: (<T extends unknown[]>(this: void, list: T) => LuaMultiReturn<T>) &
+    (<T>(this: void, list: T[], i: number, j?: number) => LuaMultiReturn<T[]>)
 }
 
 declare const utf8: {
