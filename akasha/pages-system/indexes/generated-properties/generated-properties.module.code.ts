@@ -1,8 +1,6 @@
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { slugOf, textAt } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
-import { schemaAt } from "../index-entries/index-entries.module.code.ts"
-import { listedAt } from "../index-reading/index-reading.module.code.ts"
 
 const GENERATOR = "generator"
 
@@ -17,7 +15,7 @@ export type Generated = {
 }
 
 function waitsFor(shadow: Shadow, kind: string): boolean {
-  for (const one of listedAt(shadow.reading, GENERATOR_KIND, kind)) {
+  for (const one of shadow.index.listedAt(GENERATOR_KIND, kind)) {
     const value = shadow.pageOf(one.path)
     if (value !== null) return value[AFTER_CHECKS] === true
   }
@@ -28,8 +26,8 @@ function waitsFor(shadow: Shadow, kind: string): boolean {
 
 export function generatedProperties(shadow: Shadow): ReadonlyMap<string, Generated> {
   const found = new Map<string, Generated>()
-  for (const held of schemaAt(shadow.reading).values()) {
-    for (const one of listedAt(shadow.reading, held.pageTypeSlug, held.slug)) {
+  for (const held of shadow.index.schemaAt().values()) {
+    for (const one of shadow.index.listedAt(held.pageTypeSlug, held.slug)) {
       const value = shadow.pageOf(one.path)
       if (value === null) continue
       const said = textAt(value, GENERATOR)
