@@ -1,6 +1,4 @@
 declare global {
-  const zo_clamp: (this: void, value: number, min: number, max: number) => number
-
   interface ZoCallbackObject {
     RegisterCallback: (
       this: ZoCallbackObject,
