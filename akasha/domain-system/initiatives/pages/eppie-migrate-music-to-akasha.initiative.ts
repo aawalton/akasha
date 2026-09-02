@@ -10,12 +10,6 @@ export const eppieMigrateMusicToAkasha = {
   intents: [
     {
       statement:
-        "Music in akasha has the sub-domains and page types its songs, artists and listens need.",
-      workingMemory:
-        "`akasha/alan/music/music.domain.ts` is open, carrying a definition and no parts yet, and Alan's domain names it. `akasha/temper` is the shape to copy, nesting sub-domains beside their own page types. In the old tree the four page types music-song, music-day, song-listen and heard-music parent to a `domain/music` that hangs off `domain/alan-harness-tracking-source` rather than off Alan. Performance arts is markdown only, and music is what this seat champions until that changes.",
-    },
-    {
-      statement:
         "The Spotify client and the music collection are code in akasha rather than in `collections/`.",
       workingMemory:
         "Four of the client's fifteen endpoint families are imported anywhere: player, search, tracks, personalization. Its `src/` carries no test, though `dist/` holds 18 stale test declarations. The write side is dead: `landSong` and `landArtist` throw on a decommissioned keyed write, and `2669aed6` deleted the listening capture on 1 September because every road out was refused. Listens stop at 21 August. `patchPage` in `tools/lib/page-write.ts` still writes, and `ops music rate` uses it.",
