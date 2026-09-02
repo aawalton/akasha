@@ -10,7 +10,8 @@ import {
   VerbServerClient,
   VerbServerRefusal,
 } from "../editor-extension/src/verb-server-client.ts"
-import { LEASE_ENV } from "./lib/verb-served.ts"
+import { LEASE_ENV, VERBS_SERVED } from "./lib/verb-served.ts"
+import { VERBS_LOADABLE, verbsAdrift } from "./verb-server.ts"
 
 // WHAT KEEPS THE HELD-OPEN SERVER FROM ANSWERING SOMETHING THAT IS NO LONGER TRUE.
 //
@@ -85,6 +86,30 @@ afterEach(() => {
   // NOTHING IS LEFT RUNNING. Every client started by a test is disposed here whether it passed or
   // threw, so a failing test leaves no bun process behind on the workstation.
   while (started.length > 0) started.pop()?.dispose()
+})
+
+// THE TWO LISTS THAT MUST AGREE, CHECKED WITHOUT STARTING ANYTHING. A server that finds them apart
+// refuses to start, so every test below would already fail on a drift — but each would fail as a
+// server that would not say hello, which is the shape of half a dozen other faults. These name it,
+// and the two seeded ones are here because a check that cannot fail reports success for free.
+describe("what the server can load against what the caller is told it answers", () => {
+  test("the two lists agree", () => {
+    expect(verbsAdrift(VERBS_LOADABLE, VERBS_SERVED)).toEqual([])
+  })
+
+  test("a verb named in VERBS_SERVED that this server cannot load is reported", () => {
+    const said = verbsAdrift(["work-tree"], ["work-tree", "domain-tree"])
+    expect(said).toHaveLength(1)
+    expect(said[0]).toContain("domain-tree")
+    expect(said[0]).toContain("refused as unserved")
+  })
+
+  test("a verb this server can load that VERBS_SERVED does not name is reported", () => {
+    const said = verbsAdrift(["work-tree", "domain-tree"], ["work-tree"])
+    expect(said).toHaveLength(1)
+    expect(said[0]).toContain("domain-tree")
+    expect(said[0]).toContain("spawn a child for it and never ask")
+  })
 })
 
 describe("the verb server against a change made under it", () => {

@@ -31,6 +31,7 @@ export function leaseAsked(stated: string | undefined = process.env[LEASE_ENV]):
 export const VERBS_SERVED: readonly string[] = [
   "agent-forest",
   "agent-turn-colors",
+  "claude-usage",
   "seat-transcripts",
   "work-tree",
 ]

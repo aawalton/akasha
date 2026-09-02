@@ -57,15 +57,44 @@ type Verb = (argv: readonly string[]) => number | Promise<number>
 // read broken JSON.
 //
 // EACH IS LOADED WHEN IT IS FIRST ASKED FOR, NOT AT STARTUP. A verb whose imports throw then
-// refuses its own asks and leaves the other three answering, where loading all four up front would
-// have one broken verb take every panel dark at once. It also means hello goes out at once, so a
-// caller waiting to be told the server is up waits on nothing but the runtime.
+// refuses its own asks and leaves the others answering, where loading them all up front would have
+// one broken verb take every panel dark at once. It also means hello goes out at once, so a caller
+// waiting to be told the server is up waits on nothing but the runtime.
+//
+// WHAT IS NOT HERE AND WHY. Every verb runs one at a time, so a slow verb on this table makes every
+// panel wait behind it: a read that takes 12ms alone was measured at 2402ms when asked behind the
+// two expensive trees. `domain-tree` and `page-tree` stay off it for that reason — they are worth
+// the startup of a child of their own, because paying it is what keeps them out of everyone's way.
 const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Verb }>>> = {
   "agent-forest": () => import("./agent-forest.ts"),
   "agent-turn-colors": () => import("./agent-turn-colors.ts"),
+  "claude-usage": () => import("./claude-usage.ts"),
   "seat-transcripts": () => import("./seat-transcripts.ts"),
   "work-tree": () => import("./work-tree.ts"),
 }
+
+// WHAT KEEPS THE TWO LISTS FROM DRIFTING APART. What this server can load and what the caller
+// believes it answers are named in two files, because `VERBS_SERVED` is imported by the editor's
+// node host and so may reach no `Bun` global, which a table of dynamic imports cannot promise. Kept
+// by hand and unchecked, the pair fails silently in both directions: a name served and not loadable
+// is refused as `unserved` and the panel behind it goes dark, and a name loadable and not served is
+// spawned as a fresh child by every poll, which is the fifth of a core this server exists to stop
+// paying, quietly back with nothing reporting it. So they are compared, and a server that finds
+// them apart refuses to be a server.
+export function verbsAdrift(loadable: readonly string[], served: readonly string[]): readonly string[] {
+  const canLoad = new Set(loadable)
+  const isNamed = new Set(served)
+  return [
+    ...served
+      .filter((verb) => !canLoad.has(verb))
+      .map((verb) => `${verb} is named in VERBS_SERVED and is not in this server's LOAD table, so every ask for it would be refused as unserved`),
+    ...loadable
+      .filter((verb) => !isNamed.has(verb))
+      .map((verb) => `${verb} is in this server's LOAD table and is not named in VERBS_SERVED, so the caller would spawn a child for it and never ask`),
+  ]
+}
+
+export const VERBS_LOADABLE: readonly string[] = Object.keys(LOAD)
 
 const loaded = new Map<string, Verb>()
 
@@ -304,6 +333,19 @@ function listen(): undefined {
 }
 
 export function main(argv: readonly string[]): number {
+  // CHECKED BEFORE ANYTHING ELSE, INCLUDING `--help`. A server whose two lists disagree is
+  // misreporting what it answers, so the one command a lane would run to ask it says so too. It
+  // dies here rather than at the first ask: this is before hello, which the caller reads as a
+  // server that would not start and logs with the complaint below, and not as one verb missing.
+  const adrift = verbsAdrift(VERBS_LOADABLE, VERBS_SERVED)
+  if (adrift.length > 0) {
+    process.stderr.write(
+      `error: what this server can load and what VERBS_SERVED names have drifted apart, so it answers nothing:\n${adrift
+        .map((one) => `  ${one}\n`)
+        .join("")}`
+    )
+    return 1
+  }
   if (argv.includes("--help") || argv.includes("-h")) {
     process.stdout.write(HELP)
     return 0
