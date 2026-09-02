@@ -24,10 +24,6 @@ declare const ZO_CheckButton_OnClicked: (this: void, checkButton: Control, butto
 
 declare const ZO_CheckButton_SetUnchecked: (this: void, checkButton: Control) => void
 
-declare const ZO_WHITE: ZoColorDef
-
-declare const ZO_DEFAULT_DISABLED_COLOR: ZoColorDef
-
 interface ZoInventorySlotActions {
   m_contextMenuMode?: boolean
   Show: (this: ZoInventorySlotActions) => void

@@ -1,7 +1,5 @@
 declare const ELLIPSIS: number
 
-declare const ZO_COMBOBOX_SUPRESS_UPDATE: boolean
-
 declare const ZO_Menu_GetNumMenuItems: (this: void) => number
 
 interface CollectibleDataObject {

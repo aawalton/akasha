@@ -69,3 +69,9 @@ interface ButtonControl {
   SetPressedOffset: (x: number, y: number) => void
   SetTextureCoords: (left: number, right: number, top: number, bottom: number) => void
 }
+
+declare const ZO_WHITE: ZoColorDef
+
+declare const ZO_DEFAULT_DISABLED_COLOR: ZoColorDef
+
+declare const ZO_COMBOBOX_SUPRESS_UPDATE: boolean
