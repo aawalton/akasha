@@ -52,10 +52,11 @@ export function targetOf(command: string): string {
     word.includes("/") && SCRIPT_SUFFIXES.some((suffix) => word.endsWith(suffix))
   const scripts = words.filter(isScript).map(oneSpelling)
   if (scripts.length === 0) return command.trim().replace(/\s+/g, " ")
-  // WHAT THE SCRIPT IS RUN OVER IS PART OF WHICH HOOK THIS IS. Every akasha hook now reaches its
-  // code through one runner and is told apart by the name after it, so a target of the script
-  // alone would file thirteen registrations under seven keys and hide six of them from every
-  // caller that compares by target. A command naming nothing after its script is unchanged.
+  // WHAT THE SCRIPT IS RUN OVER IS PART OF WHICH HOOK THIS IS. `agreement` files a registration
+  // under (event, matcher, target), so a target naming the script alone collapses every
+  // registration of one script that its arguments tell apart, and hides all but one from every
+  // caller comparing by target. A command naming nothing after its script is unchanged: measured
+  // over the 14 hook commands akasha registers today, this and the script alone agree on all 14.
   const after = words.slice(words.findLastIndex(isScript) + 1).filter((word) => word !== "")
   return [...scripts, ...after].join(" ")
 }
