@@ -22,7 +22,11 @@
     "./watcher-stable-read": "./watcher-stable-read/watcher-stable-read.module.code.ts",
     "./watcher-error-emissions": "./watcher-error-emissions/watcher-error-emissions.module.code.ts",
     "./watcher-settings-lua-block": "./watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts",
-    "./watcher-settings-normalize": "./watcher-settings-normalize/watcher-settings-normalize.module.code.ts"
+    "./watcher-settings-normalize": "./watcher-settings-normalize/watcher-settings-normalize.module.code.ts",
+    "./watcher-version": "./watcher-version/watcher-version.module.code.ts",
+    "./watcher-supabase-url": "./watcher-supabase-url/watcher-supabase-url.module.code.ts",
+    "./watcher-error-cursor": "./watcher-error-cursor/watcher-error-cursor.module.code.ts",
+    "./watcher-run-observing": "./watcher-run-observing/watcher-run-observing.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
