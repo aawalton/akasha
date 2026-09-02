@@ -1,4 +1,8 @@
-import "../table-function-declarations/table-function-declarations.module.code.ts"
+export type GlobalTable = Record<string, unknown>
+
+export function asGlobalTable(value: unknown): GlobalTable {
+  return value as GlobalTable
+}
 
 export function asLuaTable(value: unknown): LuaTable {
   return value as LuaTable

@@ -11,7 +11,6 @@ export const temperLibTableFunctions = {
     "module/table-functions",
     "module/table-function-casts",
     "module/table-function-types",
-    "module/table-function-declarations",
     "module/table-functions-entry",
   ],
   invariants: [

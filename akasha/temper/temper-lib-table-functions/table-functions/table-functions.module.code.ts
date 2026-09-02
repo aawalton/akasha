@@ -1,4 +1,3 @@
-import "../table-function-declarations/table-function-declarations.module.code.ts"
 import {
   asLuaTable,
   asMetatable,
