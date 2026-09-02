@@ -46,7 +46,11 @@ export const pageValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A runtime holding no transpiler is a body that will not load.",
+      statement: "A runtime holding no transpiler refuses rather than answering nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that will not load is told apart from a runtime that cannot load.",
     },
   ],
 } as const satisfies Module

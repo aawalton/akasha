@@ -6,9 +6,14 @@ function newTranspiler() {
   return new Bun.Transpiler({ loader: "ts" })
 }
 
+const NO_TRANSPILER =
+  "a page body is loaded with `Bun.Transpiler`, which only bun carries, and this runtime holds no " +
+  "`Bun` global, so what every body here holds is unknown rather than nothing"
+
 let transpilerHeld: ReturnType<typeof newTranspiler> | null = null
 
 function transpiler(): ReturnType<typeof newTranspiler> {
+  if (typeof Bun === "undefined") throw new Error(NO_TRANSPILER)
   transpilerHeld ??= newTranspiler()
   return transpilerHeld
 }
@@ -34,8 +39,8 @@ export type Loaded = {
 }
 
 export function loadedFrom(body: string): Loaded {
+  const on = transpiler()
   try {
-    const on = transpiler()
     const named = on.scan(body).exports.filter((one) => one !== DEFAULT && NAMED.test(one))
     const js = on.transformSync(body).replace(EXPORTED, "")
     const declared = new Function(`${js}\nreturn {${named.join(",")}}`)() as Record<string, unknown>
