@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-lorebooks",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./types": "./lorebooks-types/lorebooks-types.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*"
+  }
+}
