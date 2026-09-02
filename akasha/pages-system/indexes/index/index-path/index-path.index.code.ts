@@ -1,6 +1,11 @@
 import { join } from "node:path"
 import { textAt, type Value } from "@akasha/pages-system/page-value"
-import { claimsOf, type Entry, under } from "../../index-entries/index-entries.module.code.ts"
+import {
+  claimsOf,
+  type Entry,
+  type SidecarsBy,
+  under,
+} from "../../index-entries/index-entries.module.code.ts"
 import { indexPath } from "./index-path.index.ts"
 
 const PATH = indexPath.name
@@ -11,14 +16,15 @@ export function pathIn(
   value: Value,
   path: string,
   repo: string,
-  fileProperties: ReadonlyMap<string, string | null>
+  fileProperties: ReadonlyMap<string, string | null>,
+  sidecars: SidecarsBy
 ): readonly Entry[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const pageTypeSlug = textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
   const line = JSON.stringify({ path: under(repo, path), id })
-  return claimsOf(value, path, repo, fileProperties).map((one) => ({
+  return claimsOf(value, path, repo, fileProperties, sidecars).map((one) => ({
     at: join(PATH, `${one}${ENDING}`),
     line,
   }))

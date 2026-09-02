@@ -13,7 +13,9 @@ import {
   type Schema as Filed,
   filePropertiesAt,
   pageTypesIn,
+  type SidecarsBy,
   schemaAt,
+  sidecarsOver,
 } from "../index-entries/index-entries.module.code.ts"
 import {
   everyOfType,
@@ -58,6 +60,7 @@ export type Answering = {
   readonly pageTypesIn: () => ReadonlySet<string>
   readonly propertiesOf: (pageTypeSlug: string) => readonly Carried[]
   readonly schemaAt: () => ReadonlyMap<string, Filed>
+  readonly sidecarsAt: () => SidecarsBy
   readonly schemaOf: (named: string) => Schemad
   readonly sourceIn: () => Source
   readonly typeSlugById: (id: string) => string | null
@@ -85,6 +88,7 @@ export function answeringOver(reading: Reading, root: string, pageOf: PageOf): A
     pageTypesIn: () => pageTypesIn(reading),
     propertiesOf: (pageTypeSlug) => propertiesOf(pageTypeSlug, reading, pageOf),
     schemaAt: () => schemaAt(reading),
+    sidecarsAt: () => sidecarsOver(reading, []),
     schemaOf: (named) => schemaOf(reading, named),
     sourceIn: () => sourceIn(reading, pageOf),
     typeSlugById: (id) => typeSlugById(reading, id),

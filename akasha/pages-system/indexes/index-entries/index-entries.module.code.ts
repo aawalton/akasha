@@ -1,11 +1,11 @@
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { besideAt, secretAt } from "@akasha/pages-system/page-file-name"
+import { besideAt, secretAt, uncommittedAt } from "@akasha/pages-system/page-file-name"
 import { slugFor } from "@akasha/pages-system/page-property-key"
 import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
-import { answered, readingIn } from "../index-reading/index-reading.module.code.ts"
+import { answered, readingIn, valuesOfType } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 
 const ENDING = ".jsonl"
@@ -88,15 +88,84 @@ export function pathsOf(
   return found
 }
 
+export type Sidecars = {
+  readonly secret: boolean
+  readonly uncommitted: boolean
+}
+
+export type SidecarsBy = ReadonlyMap<string, Sidecars>
+
+const PAGE_TYPE = "page-type"
+
+const DECLARED = "properties"
+
+function declaredIn(value: Value): Sidecars {
+  let secret = false
+  let uncommitted = false
+  const declared = value[DECLARED]
+  if (!Array.isArray(declared)) return { secret, uncommitted }
+  for (const one of declared) {
+    if (one === null || typeof one !== "object" || Array.isArray(one)) continue
+    const held = one as Record<string, unknown>
+    if (held["secret"] === true) secret = true
+    if (held["uncommitted"] === true) uncommitted = true
+  }
+  return { secret, uncommitted }
+}
+
+export function sidecarsIn(values: Iterable<Value>): SidecarsBy {
+  const own = new Map<string, Sidecars>()
+  const above = new Map<string, string>()
+  for (const value of values) {
+    if (textAt(value, "pageTypeSlug") !== PAGE_TYPE) continue
+    const slug = textAt(value, "slug")
+    if (slug === null) continue
+    own.set(slug, declaredIn(value))
+    const extended = slugAt(value, "extendsSlug")
+    if (extended !== null) above.set(slug, extended)
+  }
+  const found = new Map<string, Sidecars>()
+  for (const slug of own.keys()) {
+    let secret = false
+    let uncommitted = false
+    const walked = new Set<string>()
+    let here: string | undefined = slug
+    while (here !== undefined && !walked.has(here)) {
+      walked.add(here)
+      const held = own.get(here)
+      if (held?.secret === true) secret = true
+      if (held?.uncommitted === true) uncommitted = true
+      here = above.get(here)
+    }
+    found.set(slug, { secret, uncommitted })
+  }
+  return found
+}
+
+export function sidecarsOver(given: string | Reading, left: Iterable<Value>): SidecarsBy {
+  const filed = valuesOfType(given, PAGE_TYPE).map((one) => one.value)
+  return sidecarsIn([...filed, ...left])
+}
+
 export function claimsOf(
   value: Value,
   path: string,
   repo: string,
-  fileProperties: ReadonlyMap<string, string | null>
+  fileProperties: ReadonlyMap<string, string | null>,
+  sidecars: SidecarsBy
 ): readonly string[] {
   const found = [...pathsOf(value, path, repo, fileProperties)]
-  const secret = secretAt(under(repo, path))
-  if (secret !== null) found.push(secret)
+  const own = under(repo, path)
+  const held = sidecars.get(textAt(value, "pageTypeSlug") ?? "")
+  if (held === undefined) return found
+  if (held.secret) {
+    const secret = secretAt(own)
+    if (secret !== null) found.push(secret)
+  }
+  if (held.uncommitted) {
+    const beside = uncommittedAt(own)
+    if (beside !== null) found.push(beside)
+  }
   return found
 }
 

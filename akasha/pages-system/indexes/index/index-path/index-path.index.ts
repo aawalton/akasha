@@ -63,7 +63,16 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's sops file is filed here whether or not it stands.",
+      statement: "A page's sops file is filed here whether or not that file is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's sops file is filed here only where the page's type declares a secret.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page's uncommitted file is filed here only where the page's type declares an uncommitted value.",
     },
     {
       invariantKind: "departure",

@@ -2,19 +2,13 @@ import { createRequire } from "node:module"
 import { basename, join } from "node:path"
 import { NAMING_NONE, type Naming } from "@akasha/code-system/code-specifier"
 import type { Answering } from "@akasha/indexes/answering"
-import { claimsOf } from "@akasha/indexes/entries"
+import { claimsOf, type SidecarsBy } from "@akasha/indexes/entries"
 import { edgesIn } from "@akasha/indexes/import"
 import { reachingIn } from "@akasha/indexes/package-reaching"
 import type { Known } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import {
-  besideAt,
-  type Held,
-  heldIn,
-  partedIn,
-  uncommittedAt,
-} from "@akasha/pages-system/page-file-name"
+import { besideAt, type Held, heldIn, partedIn } from "@akasha/pages-system/page-file-name"
 import { textAt } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
@@ -321,15 +315,14 @@ export function namingOver(
 export function partsOver(
   index: Answering,
   root: string,
-  stated: ReadonlyMap<string, string | null>
+  stated: ReadonlyMap<string, string | null>,
+  sidecars: SidecarsBy
 ): (page: Held) => readonly string[] {
   return (page) => {
     if (page.slug === null || page.pageTypeSlug === null) return [page.path]
     const value = index.pageAt(page.pageTypeSlug, page.slug)
     if (value === null) return [page.path]
-    const held = uncommittedAt(page.path)
-    const claimed = claimsOf(value, page.path, root, stated)
-    return held === null ? claimed : [...claimed, held]
+    return claimsOf(value, page.path, root, stated, sidecars)
   }
 }
 
@@ -354,7 +347,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const grouped = groupedBy(listedFiles(shadow.index, change))
   const declaring = declaringOver(shadow.index, grouped)
   const namedFor = namingOver(shadow.index, grouped, pageTypes, fileProperties)
-  const parts = partsOver(shadow.index, change.root, stated)
+  const parts = partsOver(shadow.index, change.root, stated, shadow.index.sidecarsAt())
   const entering = enteringOf(shadow)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {

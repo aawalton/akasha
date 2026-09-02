@@ -35,6 +35,8 @@ import {
   filePropertiesIn,
   type Identifier,
   pageTypesIn,
+  sidecarsIn,
+  sidecarsOver,
   under,
   uniquePropertiesAt,
   uniquePropertiesIn,
@@ -156,17 +158,9 @@ function pagesUnder(tree: string): readonly string[] {
 
 const TS = ".ts"
 
-function bodiesUnder(tree: string): readonly string[] {
-  return walkedUnder(tree, (name) => name.endsWith(TS))
-}
-
-function filesUnder(at: string): readonly string[] {
-  return existsSync(at) ? walkedUnder(at, () => true) : []
-}
-
 function reconcile(under: string, entries: readonly Entry[], root: string): undefined {
   const wanted = Map.groupBy(entries, (one) => one.at)
-  for (const one of filesUnder(under)) {
+  for (const one of existsSync(under) ? walkedUnder(under, () => true) : []) {
     if (!wanted.has(one.slice(root.length + 1))) keepWhole(one, [], root)
   }
   for (const [at, held] of wanted) {
@@ -207,7 +201,8 @@ export function rebuiltFrom(
   const identifying = identifyingFrom(sourceOver(values))
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
   reconcile(join(root, IDENTITY), identity, root)
-  const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties))
+  const sidecars = sidecarsIn(values)
+  const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties, sidecars))
   reconcile(join(root, PATH), paths, root)
   reconcile(join(root, SCHEMA), schema, root)
   const known = knownIn(root, repo)
@@ -215,7 +210,7 @@ export function rebuiltFrom(
   const relation = filed.flatMap((one) => one.entries)
   reconcile(join(root, RELATION), relation, root)
   const naming = reachingBuilt(held, repo, fileProperties)
-  const imported = bodiesUnder(tree).flatMap((path) =>
+  const imported = walkedUnder(tree, (name) => name.endsWith(TS)).flatMap((path) =>
     importIn(readFileSync(path, "utf8"), path, repo, naming)
   )
   reconcile(join(root, IMPORT), imported, root)
@@ -308,6 +303,7 @@ export function settlingOver(
 
   const left = held.flatMap((one) => (one.now === null ? [] : [one.now]))
   const fileProperties = new Map<string, string | null>([...filed, ...filePropertiesIn(left)])
+  const sidecars = sidecarsOver(reading, left)
   const naming = reachingSettled(reading, held, moving, repo, fileProperties)
   const { was: wasNaming, reread } = rereadOver(reading, held, repo, fileProperties, naming)
   const importing = [...held, ...reread]
@@ -360,9 +356,11 @@ export function settlingOver(
   const paths = filingOf(
     reading,
     held.flatMap((one) =>
-      one.was === null ? [] : pathIn(one.was, one.path, repo, fileProperties)
+      one.was === null ? [] : pathIn(one.was, one.path, repo, fileProperties, sidecars)
     ),
-    held.flatMap((one) => (one.now === null ? [] : pathIn(one.now, one.path, repo, fileProperties)))
+    held.flatMap((one) =>
+      one.now === null ? [] : pathIn(one.now, one.path, repo, fileProperties, sidecars)
+    )
   )
 
   const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...schema])

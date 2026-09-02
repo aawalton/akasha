@@ -25,11 +25,24 @@ export const indexEntries = {
     {
       invariantKind: "departure",
       statement:
-        "A page claims the sops file standing beside the page whatever the sops file carries.",
+        "A page claims the sops file beside the page only where the page's type declares a secret.",
     },
     {
       invariantKind: "departure",
-      statement: "The naming grammar lets no other page claim that file.",
+      statement:
+        "A page whose type declares an uncommitted value claims the uncommitted file beside the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The naming grammar lets no other page claim either file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type declares what every type above that type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which types declare a secret is answered here rather than by the caller.",
     },
     {
       invariantKind: "departure",
