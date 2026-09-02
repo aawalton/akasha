@@ -1,14 +1,12 @@
 import { USER_ID } from "@akasha/supabase-auth/user-id"
 import type { ApnsPayload, ApnsSender } from "./apns.ts"
-import { countOpenQuestions, type Notification, newestNotificationAt, readNotificationsAfter } from "./feed.ts"
+import { type Notification, newestNotificationAt, readNotificationsAfter } from "./feed.ts"
 import {
   buildApnsPayload,
-  buildBadgeRefreshPayload,
   buildSharedApnsPayload,
   notificationRoute,
   type Recipient,
   recipientsFor,
-  resolvePushRoute,
 } from "./payload.ts"
 import { listDeviceTokens, pruneDeviceToken } from "./store.ts"
 
@@ -22,7 +20,6 @@ export const TICK_CEILING_MS = 120_000
 
 export interface NotifierState {
   sentThrough: string
-  badge: number | null
 }
 
 export function say(line: string): undefined {
@@ -37,7 +34,7 @@ function complain(line: string, err: unknown): undefined {
 
 export async function openState(): Promise<NotifierState> {
   const newest = await newestNotificationAt()
-  return { sentThrough: newest ?? new Date().toISOString(), badge: null }
+  return { sentThrough: newest ?? new Date().toISOString() }
 }
 
 async function fanOut(args: {
@@ -74,15 +71,10 @@ async function fanOut(args: {
   }
 }
 
-async function badgeOrNull(what: string): Promise<number | null> {
-  try {
-    return await countOpenQuestions()
-  } catch (err) {
-    complain(`${what}: the open-question count went unread, so the push carries no badge:`, err)
-    return null
-  }
-}
-
+// NO PUSH CARRIES A BADGE, AND NONE REFRESHES ONE. The app-icon badge counted open questions and
+// counted nothing else, so with the questions system gone the only number it could carry is zero.
+// A counter that can answer nothing but zero is worse than no counter: it reads as a live fact.
+// The badge-refresh leg that ran at the end of every tick went with it.
 export async function pushNotification(args: {
   readonly notification: Notification
   readonly sender: ApnsSender
@@ -91,41 +83,15 @@ export async function pushNotification(args: {
 }): Promise<void> {
   const one = args.notification
   const what = `notification ${one.id}`
-  const badge = await badgeOrNull(what)
-  const route = resolvePushRoute({
-    kind: one.kind,
-    link: one.link,
-    ownRoute: notificationRoute({ slug: null, title: one.title, id: one.id }),
-  })
+  const route = notificationRoute({ slug: null, title: one.title, id: one.id })
   await fanOut({
     sender: args.sender,
     recipients: recipientsFor({ ownerUserId: args.alanUserId, kind: one.kind }),
     payloadFor: (recipient) =>
       recipient.ownsNotification
-        ? buildApnsPayload({ title: one.title, body: one.body, route, badge })
+        ? buildApnsPayload({ title: one.title, body: one.body, route })
         : buildSharedApnsPayload({ title: one.title, body: one.body }),
     what,
-    signal: args.signal,
-  })
-}
-
-export async function refreshBadge(args: {
-  readonly state: NotifierState
-  readonly sender: ApnsSender
-  readonly alanUserId: string
-  readonly signal: AbortSignal
-}): Promise<void> {
-  const count = await badgeOrNull("badge")
-  if (count === null) return
-  const held = args.state.badge
-  args.state.badge = count
-  if (held === null || count >= held) return
-  say(`badge: open questions fell from ${held} to ${count}; refreshing the badge`)
-  await fanOut({
-    sender: args.sender,
-    recipients: [{ userId: args.alanUserId, ownsNotification: true }],
-    payloadFor: () => buildBadgeRefreshPayload(count),
-    what: "badge",
     signal: args.signal,
   })
 }
@@ -162,8 +128,6 @@ export async function runPushNotifierTick(
     }
     state.sentThrough = one.sentAt
   }
-
-  await refreshBadge({ state, sender, alanUserId, signal })
 }
 
 export async function runBoundedPushNotifierTick(

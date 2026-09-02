@@ -4,8 +4,6 @@ import type { ApnsPayload } from "./apns.ts"
 
 export const NOTIFICATION_PAGE_TYPE_SLUG = "notification"
 
-export const ASK_ALAN_KIND = "ask-alan"
-
 export const SURPLUS_FALL_KIND = "surplus-fall"
 
 export const DEEP_LINK_PATH_KEY = "path"
@@ -23,27 +21,19 @@ export function notificationRoute(args: {
   })
 }
 
-export function resolvePushRoute(args: {
-  readonly kind: string | null
-  readonly link: string | null
-  readonly ownRoute: string
-}): string {
-  if (args.kind === ASK_ALAN_KIND && args.link !== null && args.link !== "") return args.link
-  return args.ownRoute
-}
-
+// EVERY PUSH DEEP-LINKS TO ITS OWN NOTIFICATION. One kind used to route somewhere else: an
+// `ask-alan` push carried the question page's answering surface as its link, and this chose that
+// link over the notification. The questions system is gone, so the choice is gone with it and
+// `notificationRoute` is the whole answer. A notification's `link` reaches no reader here now.
 export function buildApnsPayload(content: {
   readonly title: string
   readonly body: string
   readonly route: string
-  readonly badge: number | null
 }): ApnsPayload {
-  const aps: Record<string, unknown> = {
-    alert: { title: content.title, body: content.body },
-    sound: "default",
+  return {
+    aps: { alert: { title: content.title, body: content.body }, sound: "default" },
+    [DEEP_LINK_PATH_KEY]: content.route,
   }
-  if (content.badge !== null) aps.badge = content.badge
-  return { aps, [DEEP_LINK_PATH_KEY]: content.route }
 }
 
 export function buildSharedApnsPayload(content: {
@@ -51,10 +41,6 @@ export function buildSharedApnsPayload(content: {
   readonly body: string
 }): ApnsPayload {
   return { aps: { alert: { title: content.title, body: content.body }, sound: "default" } }
-}
-
-export function buildBadgeRefreshPayload(badge: number): ApnsPayload {
-  return { aps: { badge } }
 }
 
 export interface PushApp {

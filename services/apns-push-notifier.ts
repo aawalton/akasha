@@ -16,7 +16,7 @@ import {
 
 const HELP = `bun services/apns-push-notifier.ts — Alan's notifications reach his phone
 
-One workstation process. Every ${TICK_MS / 1000} seconds it does two things.
+One workstation process. Every ${TICK_MS / 1000} seconds it does one thing.
 
 It pushes every notification written since the one it last saw. A notification stands as a row
 in the feed of the person it was pushed at, so the feed is what this watches; the first tick
@@ -24,8 +24,9 @@ after a start begins at the newest row already standing, which is why a start is
 The cursor moves past each notification as it goes and only ever moves forward, so nothing it
 has passed is offered a second time.
 
-It refreshes the badge when the open-question count FELL, which is a question answered or
-dismissed somewhere else. A count that rose came with a notification carrying the badge on it.
+NO PUSH CARRIES AN APP-ICON BADGE. It used to carry the open-question count, and a second leg
+refreshed the badge on its own when that count fell. The questions system is gone and nothing
+else was ever counted, so both went with it rather than leaving a number stuck at zero.
 
 WITHOUT ${APNS_AUTH_KEY_ENV} NOTHING IS SENT. The provider token is signed from that PEM, and
 with it unset every push is a logged no-op and the feed is still followed, so nothing is
@@ -43,8 +44,8 @@ Usage:
 
 Environment:
   ${APNS_AUTH_KEY_ENV}  The APNs .p8 signing key, as PEM. Unset, nothing is sent.
-  PAGE_QUERY_ORIGIN  The page query service the notifications and questions are read
-                     through, and the feed is written through.
+  PAGE_QUERY_ORIGIN  The page query service the notifications are read through, and the
+                     feed is written through.
 `
 
 function sleepAbortable(ms: number, signal: AbortSignal): Promise<boolean> {

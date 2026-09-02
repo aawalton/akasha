@@ -3,10 +3,6 @@ import { NOTIFICATION_PAGE_TYPE_SLUG } from "./payload.ts"
 
 export const NOTIFICATION_FEED_PAGE_TYPE_SLUG = "notification-feed"
 
-export const QUESTION_PAGE_TYPE_SLUG = "question"
-
-export const OPEN_QUESTION_STATUS = "open"
-
 const NOTIFICATIONS_AT_ONCE = 50
 
 export interface NotifyInput {
@@ -109,15 +105,4 @@ export async function newestNotificationAt(): Promise<string | null> {
   })
   if (!asked.ok) throw new Error(`newestNotificationAt: ${asked.why}`)
   return textIn(asked.rows[0]?.values ?? {}, "sent-at")
-}
-
-export async function countOpenQuestions(): Promise<number> {
-  const asked = await askComposed({
-    "page-type": QUESTION_PAGE_TYPE_SLUG,
-    where: { status: { is: OPEN_QUESTION_STATUS } },
-    keys: ["id"],
-    limit: 1,
-  })
-  if (!asked.ok) throw new Error(`countOpenQuestions: ${asked.why}`)
-  return asked.n
 }

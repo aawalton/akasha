@@ -115,7 +115,6 @@ export const AGENT_RULE_DECISIONS: Readonly<
         return decidePending({
           selfStopped: bool(o.selfStopped, `${p}.selfStopped`),
           liveChildren: num(o.liveChildren, `${p}.liveChildren`),
-          openQuestions: num(o.openQuestions, `${p}.openQuestions`),
           outbound: outboundRecency(o.outbound, `${p}.outbound`),
         })
       },

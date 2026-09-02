@@ -1,8 +1,5 @@
-import { matchPersonaForAgent } from "@akasha/personas-core/last-messaged"
-import { getOpenQuestions, selectQuestionsAskedBy } from "./attention-question.ts"
 import { readAgentMessageRecency } from "./message-recency.ts"
 import type { OutboundRecency } from "./pending-decide.ts"
-import { listPersonaTargets } from "./persona-wake-slugs.ts"
 import { seatChildrenOf } from "./seat-children.ts"
 import { seatRecord } from "./seat-facts.ts"
 import { resolveSeatTarget } from "./seat-handle.ts"
@@ -11,19 +8,7 @@ import { seatTurnStateOf, turnStillToCome } from "./seat-turn-state.ts"
 export interface PendingSignals {
   readonly selfStopped: boolean
   readonly liveChildren: number
-  readonly openQuestions: number
   readonly outbound: OutboundRecency
-}
-
-export async function countOpenQuestions(
-  agentId: string,
-  agentName: string | null,
-  persona: string | null
-): Promise<number> {
-  const targets = await listPersonaTargets()
-  const personaId = matchPersonaForAgent(agentName, persona, targets)
-  if (personaId === null) return 0
-  return selectQuestionsAskedBy(await getOpenQuestions(personaId), agentId).length
 }
 
 function countChildrenHandingBack(agentId: string): number {
@@ -41,6 +26,5 @@ export async function readPending(handle: string): Promise<PendingSignals> {
   ])
   const seat = seatRecord(agentId)
   const selfStopped = seat === null || seat.presence === "absent"
-  const openQuestions = await countOpenQuestions(agentId, seat?.name ?? null, seat?.persona ?? null)
-  return { selfStopped, liveChildren, openQuestions, outbound }
+  return { selfStopped, liveChildren, outbound }
 }

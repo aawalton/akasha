@@ -12,7 +12,6 @@ export const PENDING_KEY = "turn-pending"
 export const TURN_PENDING_COMPONENTS = [
   "running-task",
   "live-child",
-  "open-question",
   "send-in-flight",
   "owed",
 ] as const

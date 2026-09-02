@@ -1,9 +1,7 @@
 
 import { everyRecipient, messagesTo } from "./message-file.ts"
 import { readOwed } from "./owed-read.ts"
-import { countOpenQuestions } from "./pending-read.ts"
 import { principalSeatIdOf } from "./seat-principal.ts"
-import { seatRecord } from "./seat-facts.ts"
 import { seatsPresent } from "./seat-roster.ts"
 import type { TurnPendingComponent } from "./seat-turn-pending.ts"
 import { seatTurnStateOf, turnStillToCome } from "./seat-turn-state.ts"
@@ -51,19 +49,4 @@ export function pendingFromFiles(): readonly SeatPending[] {
       owed: standsOwed(),
     },
   }))
-}
-
-export async function pendingFromQuestions(): Promise<readonly SeatPending[]> {
-  const found: SeatPending[] = []
-  for (const one of seatsPresent()) {
-    const seat = seatRecord(one.id)
-    let open = 0
-    try {
-      open = await countOpenQuestions(one.id, seat?.name ?? null, seat?.persona ?? null)
-    } catch {
-      continue
-    }
-    found.push({ seat: one.id, values: { "open-question": open > 0 } })
-  }
-  return found
 }
