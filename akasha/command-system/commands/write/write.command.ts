@@ -10,7 +10,7 @@ export const write = {
   testFixtures: "ts",
   changeKindSlug: "change-authored",
   taking: [
-    { said: "--file-path <path>", takes: "a path under `akasha/` to write" },
+    { said: "--file-path <path>", takes: "a path anywhere in the repository to write" },
     { said: "--content-file <file>", takes: "the body that lands at the --file-path before it" },
     { said: "--remove <path>", takes: "a path under `akasha/` to take away" },
     { said: "--message <text>", takes: "what the commit is for" },
@@ -24,6 +24,10 @@ export const write = {
     "a body is a file or standard input, never text said on the command line.",
     "a --file-path naming no --content-file reads that body from standard input.",
     "pipe the body in with a quoted heredoc: --message <text> <<'EOF', the body, then EOF.",
+    "a path outside `akasha/` is written too, and no check judges one, which the answer says.",
+    "a path outside `akasha/` is warranted by nothing, so a body there is written over unread.",
+    "a folder at the top of the repository is refused — name what is inside it.",
+    "--remove takes a path under `akasha/` alone — say `akasha remove` for one outside it.",
     "the files standing beside a path given to --remove go with it.",
     "a folder left holding nothing by what --remove takes is cleared off the disk.",
     "--draft gates the change as a landing does, then keeps it in the patch beside this agent's page.",
@@ -37,7 +41,31 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "A path outside the akasha folder is refused.",
+      statement: "A path anywhere in the repository is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path inside `.git` is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder at the top of the repository is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No check judges a path outside the `akasha` folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path no check judged is named in the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path outside the `akasha` folder is warranted by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path named at `--remove` is under the `akasha` folder.",
     },
     {
       invariantKind: "departure",
