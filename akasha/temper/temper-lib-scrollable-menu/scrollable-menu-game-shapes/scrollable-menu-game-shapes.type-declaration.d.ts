@@ -1,23 +1,15 @@
-declare const ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT: number
 declare const ZO_COMBO_BOX_ENTRY_TEMPLATE_LABEL_PADDING: number
-declare const ZO_SCROLLABLE_COMBO_BOX_LIST_PADDING_Y: number
 declare const MAX_TEXT_CHAT_INPUT_CHARACTERS: number
 declare const DONT_ANIMATE_INSTANTLY: number
 declare const MENU_TYPE_DEFAULT: number
 declare const ZO_REMOTE_SCENE_CHANGE_ORIGIN: number
 declare const ZO_GAMEPAD_UNSELECTED_COLOR: ZoColorDef
-declare const ZO_SORT_BY_NAME: Record<string, unknown>
 declare const GetAnimationManager: (this: void) => Record<string, unknown>
 declare const GetEventManager: (this: void) => Record<string, unknown>
 declare const MouseIsOver: (this: void, control: Control) => boolean
 declare const RequestAlert: (this: void, category: number, soundId: string, text: string) => void
 declare const ZO_ComboBox_HideDropdown: (this: void, control: Control) => void
 declare const ZO_ScrollList_SetHeight: (this: void, scrollControl: Control, height: number) => void
-declare const ZO_Scroll_SetUseFadeGradient: (
-  this: void,
-  scrollControl: Control,
-  use: boolean
-) => void
 
 interface ZoComboBoxInstance {
   GetSpacing: (this: ZoComboBoxInstance) => number
@@ -40,30 +32,6 @@ interface ZoComboBoxInstance {
 interface ZoComboBoxClass {
   Subclass: (this: ZoComboBoxClass) => ZoComboBoxClass
 }
-
-interface ZoComboBoxDropdownKeyboardInstance {
-  IsOwnedByComboBox: (this: ZoComboBoxDropdownKeyboardInstance, comboBox: unknown) => boolean
-  GetHighlightFromPool: (this: ZoComboBoxDropdownKeyboardInstance) => Control
-  SetupEntry: (this: ZoComboBoxDropdownKeyboardInstance, ...args: unknown[]) => void
-  SetupEntryBase: (
-    this: ZoComboBoxDropdownKeyboardInstance,
-    control: Control,
-    data: unknown,
-    list: unknown
-  ) => void
-  IsHidden: (this: ZoComboBoxDropdownKeyboardInstance) => boolean
-  [key: string]: unknown
-}
-interface ZoComboBoxDropdownKeyboardClass {
-  Subclass: (this: ZoComboBoxDropdownKeyboardClass) => ZoComboBoxDropdownKeyboardClass
-  New: (
-    this: ZoComboBoxDropdownKeyboardClass,
-    ...args: unknown[]
-  ) => ZoComboBoxDropdownKeyboardInstance
-  OnEntryMouseUp: (control: Control, button: number, upInside: boolean) => void
-  [key: string]: unknown
-}
-declare const ZO_ComboBoxDropdown_Keyboard: ZoComboBoxDropdownKeyboardClass
 
 interface ZoRadioButtonGroupInstance {
   m_buttons: Record<string, unknown>

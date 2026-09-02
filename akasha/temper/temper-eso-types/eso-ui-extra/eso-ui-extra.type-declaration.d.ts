@@ -91,3 +91,41 @@ declare const ZO_WHITE: ZoColorDef
 declare const ZO_DEFAULT_DISABLED_COLOR: ZoColorDef
 
 declare const ZO_COMBOBOX_SUPRESS_UPDATE: boolean
+
+interface ZoComboBoxDropdownKeyboardClass {
+  Subclass: (this: ZoComboBoxDropdownKeyboardClass) => ZoComboBoxDropdownKeyboardClass
+  New: (
+    this: ZoComboBoxDropdownKeyboardClass,
+    ...args: unknown[]
+  ) => ZoComboBoxDropdownKeyboardInstance
+  OnEntryMouseUp: (control: Control, button: number, upInside: boolean) => void
+  [key: string]: unknown
+}
+
+interface ZoComboBoxDropdownKeyboardInstance {
+  IsOwnedByComboBox: (this: ZoComboBoxDropdownKeyboardInstance, comboBox: unknown) => boolean
+  GetHighlightFromPool: (this: ZoComboBoxDropdownKeyboardInstance) => Control
+  SetupEntry: (this: ZoComboBoxDropdownKeyboardInstance, ...args: unknown[]) => void
+  SetupEntryBase: (
+    this: ZoComboBoxDropdownKeyboardInstance,
+    control: Control,
+    data: unknown,
+    list: unknown
+  ) => void
+  IsHidden: (this: ZoComboBoxDropdownKeyboardInstance) => boolean
+  [key: string]: unknown
+}
+
+declare const ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT: number
+
+declare const ZO_SCROLLABLE_COMBO_BOX_LIST_PADDING_Y: number
+
+declare const ZO_SORT_BY_NAME: Record<string, unknown>
+
+declare const ZO_Scroll_SetUseFadeGradient: (
+  this: void,
+  scrollControl: Control,
+  use: boolean
+) => void
+
+declare const ZO_ComboBoxDropdown_Keyboard: ZoComboBoxDropdownKeyboardClass
