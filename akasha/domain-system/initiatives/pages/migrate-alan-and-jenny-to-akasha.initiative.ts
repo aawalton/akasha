@@ -36,7 +36,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "Two reach sets were conflated. `@shared/pages-query`, the HTTP client, is heavily stubbed and refuses loudly. `tools/lib/page-query*.ts`, the local engine, is not gutted: 50 files reach it, 0 stubs, and ten unattended daemons sit on them. Seven more match only pure helpers touching no page, which inflates every count. The stoplights cannot come off markdown until the `value` and `persona-day` page types move; the live store refuses both by name.",
+        "Two reach sets were conflated. `@shared/pages-query`, the HTTP client, is heavily stubbed and refuses loudly. `tools/lib/page-query*.ts`, the local engine, is not gutted: 41 files reach it, 0 stubs, and ten unattended daemons sit on them. Of 57 name-matches, 16 are decoys: pure helpers touching no page, a view-namer, and a `great-courses` module already on the new store. Stoplights cannot leave markdown until `value` and `persona-day` move; the store refuses both by name.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
