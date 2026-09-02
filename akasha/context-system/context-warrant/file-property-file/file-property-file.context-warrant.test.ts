@@ -191,6 +191,15 @@ test("a file standing beside a property's file stands beside no page", () => {
   expect(pathsOf(warrantsAt(root, under))).toEqual([])
 })
 
+test("a property's file holding no TypeScript warrants its page and its property", () => {
+  const root = scratch.rootFor("akasha-file-property-file-")
+  propertyWorld(root)
+  const held = property(root, "cases", "file-property")
+  const rows = "akasha/thing/thing.module.cases.jsonl"
+  writing(root, rows, '{"id":"one"}\n')
+  expect(pathsOf(warrantsAt(root, rows))).toEqual([PAGE_AT, held])
+})
+
 test("a path not written as it stands under the root warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-file-")
   propertyWorld(root)

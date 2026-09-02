@@ -13,7 +13,7 @@ const TS = "ts"
 
 function pageBeside(path: string, said: Named): string | null {
   const held = join(dirname(path), `${said.stem}.${TS}`)
-  return besideAt(held, said.tail, TS) === path ? held : null
+  return besideAt(held, said.tail, said.held) === path ? held : null
 }
 
 function propertyOf(root: string, propertySlug: string): Warrant | null {
