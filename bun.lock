@@ -116,6 +116,13 @@
     },
     "akasha/alan/music/commands": {
       "name": "@akasha/music-commands",
+      "dependencies": {
+        "@akasha/command-system": "workspace:*",
+        "@akasha/indexes": "workspace:*",
+        "@akasha/music-choosing": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@akasha/spotify": "workspace:*",
+      },
     },
     "akasha/alan/music/spotify": {
       "name": "@akasha/spotify",
