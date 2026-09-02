@@ -1,12 +1,12 @@
 import { existsSync, readFileSync } from "node:fs"
-import { akashaTemperFile } from "./code-tree.ts"
 import { equipmentQualities } from "@akasha/temper-equipment-kinds/equipment-qualities"
+import { z } from "zod"
 import {
-  companionArmorWeightIds,
+  COMPANION_ARMOR_WEIGHT_IDS,
   companionTraitIds,
   companionWeaponTypeIds,
 } from "./code/companion-codec-indices.ts"
-import { z } from "zod"
+import { akashaTemperFile } from "./code-tree.ts"
 
 const EQUIPMENT_MAPPINGS = "temper-bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
 
@@ -22,7 +22,7 @@ interface Table {
 const TABLES: readonly Table[] = [
   { label: "ARMOR_TRAIT_TO_INDEX", held: companionTraitIds, what: "traits" },
   { label: "QUALITY_TO_INDEX", held: equipmentQualities.ids, what: "qualities" },
-  { label: "ARMOR_TYPE_TO_INDEX", held: companionArmorWeightIds, what: "weights" },
+  { label: "ARMOR_TYPE_TO_INDEX", held: COMPANION_ARMOR_WEIGHT_IDS, what: "weights" },
   { label: "WEAPON_TYPE_TO_INDEX", held: companionWeaponTypeIds, what: "weapon types" },
 ]
 
