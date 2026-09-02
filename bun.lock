@@ -124,6 +124,7 @@
         "@akasha/pages-system": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "@akasha/spotify": "workspace:*",
+        "@akasha/utils-sync": "workspace:*",
       },
     },
     "akasha/alan/music/spotify": {
@@ -3149,6 +3150,20 @@
         "typescript": "^5.8.3",
       },
     },
+    "temper/shared-addon-libraries-lib-addon-menu-order-list-box": {
+      "name": "@temper/shared-addon-libraries-lib-addon-menu-order-list-box",
+      "version": "0.1.0",
+      "devDependencies": {
+        "typescript": "^5.8.3",
+      },
+    },
+    "temper/shared-addon-libraries-lib-scrollable-menu": {
+      "name": "@temper/shared-addon-libraries-lib-scrollable-menu",
+      "version": "0.1.0",
+      "devDependencies": {
+        "typescript": "^5.8.3",
+      },
+    },
     "temper/shared-addon-libraries-lib-sets": {
       "name": "@temper/shared-addon-libraries-lib-sets",
       "version": "0.1.0",
@@ -4459,6 +4474,10 @@
     "@temper/scripts": ["@temper/scripts@workspace:temper/scripts"],
 
     "@temper/shared-addon-libraries-lib-addon-menu": ["@temper/shared-addon-libraries-lib-addon-menu@workspace:temper/shared-addon-libraries-lib-addon-menu"],
+
+    "@temper/shared-addon-libraries-lib-addon-menu-order-list-box": ["@temper/shared-addon-libraries-lib-addon-menu-order-list-box@workspace:temper/shared-addon-libraries-lib-addon-menu-order-list-box"],
+
+    "@temper/shared-addon-libraries-lib-scrollable-menu": ["@temper/shared-addon-libraries-lib-scrollable-menu@workspace:temper/shared-addon-libraries-lib-scrollable-menu"],
 
     "@temper/shared-addon-libraries-lib-sets": ["@temper/shared-addon-libraries-lib-sets@workspace:temper/shared-addon-libraries-lib-sets"],
 

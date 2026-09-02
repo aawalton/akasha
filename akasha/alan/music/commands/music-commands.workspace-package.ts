@@ -7,6 +7,7 @@ export const musicCommands = {
   definition: "what an agent runs by name over Alan's music",
   manifest: "json",
   partSlugs: [
+    "command/music-import-artist",
     "command/music-listening",
     "command/music-next",
     "command/music-now-playing",

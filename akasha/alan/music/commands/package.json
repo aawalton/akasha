@@ -10,6 +10,7 @@
     "@akasha/music-choosing": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@akasha/pages-system-service": "workspace:*",
-    "@akasha/spotify": "workspace:*"
+    "@akasha/spotify": "workspace:*",
+    "@akasha/utils-sync": "workspace:*"
   }
 }
