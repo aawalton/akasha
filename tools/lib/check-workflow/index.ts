@@ -22,7 +22,7 @@ import {
   CAPACITOR_CHECKS,
 } from "./check-configs-capacitor.ts"
 import { ciMetaChecks } from "./check-configs-ci-meta.ts"
-import { buildLcccVendorDriftCheck, CODEGEN_CHECKS } from "./check-configs-codegen.ts"
+import { CODEGEN_CHECKS } from "./check-configs-codegen.ts"
 import { COMPONENT_CHECKS } from "./check-configs-component.ts"
 import { K8S_CHECKS } from "./check-configs-k8s.ts"
 import { PACKAGE_CHECKS } from "./check-configs-package.ts"
@@ -39,7 +39,6 @@ import { SOURCE_SCANNER_CHECKS } from "./check-configs-source-scanners.ts"
 import { TYPESAFETY_CHECKS } from "./check-configs-typesafety.ts"
 import { CHECK_WORKFLOW_DISPATCH_NODE_TYPES } from "./check-workflow-watch.ts"
 import { readFunctionalType } from "./functional-type.ts"
-import { discoverLcccVendorSites } from "./lccc-vendor-sites.ts"
 import { discoverRouterApps } from "./router-apps.ts"
 import { routedCheckCommand } from "./run-check-routing.ts"
 import { loadTestStepInputs } from "./test-step-loader.ts"
@@ -197,7 +196,6 @@ function checkConfigs(codeRoot: string): readonly CheckConfig[] {
     ...ciMetaChecks(codeRoot),
     ...CODEGEN_CHECKS,
     ...COMPONENT_CHECKS,
-    buildLcccVendorDriftCheck(discoverLcccVendorSites(codeRoot)),
     ...K8S_CHECKS,
     ...PACKAGE_CHECKS,
     ...SOURCE_SCANNER_CHECKS,

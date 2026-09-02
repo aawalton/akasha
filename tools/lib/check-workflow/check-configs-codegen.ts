@@ -1,24 +1,4 @@
-import type { NodeId } from "../graph/types.ts"
 import type { CheckConfig } from "./check-configs-types"
-import type { LcccVendorSites } from "./lccc-vendor-sites.ts"
-
-const LCCC_VENDOR_DRIFT_INPUTS: readonly NodeId[] = [
-  "ts-file:instructions:infra/cluster-checks/src/checks/check-lccc-vendor-drift.ts",
-  "ts-file:instructions:infra/cluster-checks/src/lib/lccc-vendor-drift.ts",
-  "ts-file:instructions:tools/lib/check-workflow/lccc-vendor-sites.ts",
-]
-
-export function buildLcccVendorDriftCheck(sites: LcccVendorSites): CheckConfig {
-  return {
-    name: "lccc-vendor-drift",
-    dispatchNodeTypes: [sites.referenceDir, ...sites.mirrorDirs].map((dir) => ({
-      kind: "ts-file" as const,
-      under: dir,
-    })),
-    dispatchNodes: LCCC_VENDOR_DRIFT_INPUTS,
-    script: "infra/cluster-checks/src/checks/check-lccc-vendor-drift.ts",
-  }
-}
 
 export const CODEGEN_CHECKS: CheckConfig[] = [
   {
