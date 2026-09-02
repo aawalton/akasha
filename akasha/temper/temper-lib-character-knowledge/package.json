@@ -30,6 +30,12 @@
     "./knowledge-scan": "./knowledge-scan/knowledge-scan.module.code.ts",
     "./knowledge-scribing": "./knowledge-scribing/knowledge-scribing.module.code.ts",
     "./knowledge-research": "./knowledge-research/knowledge-research.module.code.ts",
-    "./knowledge-research-get": "./knowledge-research-get/knowledge-research-get.module.code.ts"
+    "./knowledge-research-get": "./knowledge-research-get/knowledge-research-get.module.code.ts",
+    "./knowledge-public-callbacks": "./knowledge-public-callbacks/knowledge-public-callbacks.module.code.ts",
+    "./knowledge-public-core": "./knowledge-public-core/knowledge-public-core.module.code.ts",
+    "./knowledge-public-scribing": "./knowledge-public-scribing/knowledge-public-scribing.module.code.ts",
+    "./knowledge-public-research": "./knowledge-public-research/knowledge-public-research.module.code.ts",
+    "./knowledge-init": "./knowledge-init/knowledge-init.module.code.ts",
+    "./knowledge-init-chardata": "./knowledge-init-chardata/knowledge-init-chardata.module.code.ts"
   }
 }

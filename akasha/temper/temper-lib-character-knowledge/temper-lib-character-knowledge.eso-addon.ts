@@ -33,6 +33,12 @@ export const temperLibCharacterKnowledge = {
     "module/knowledge-scribing",
     "module/knowledge-research",
     "module/knowledge-research-get",
+    "module/knowledge-public-callbacks",
+    "module/knowledge-public-core",
+    "module/knowledge-public-scribing",
+    "module/knowledge-public-research",
+    "module/knowledge-init",
+    "module/knowledge-init-chardata",
   ],
   invariants: [
     {
