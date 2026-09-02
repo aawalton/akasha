@@ -114,6 +114,7 @@ export const temperWeb = {
     "module/companion-stat-group-panel-card",
     "module/companion-stat-value",
     "module/companion-stats-context",
+    "module/companion-stats-panel",
     "module/companion-stats-panel-state",
     "module/companion-suggestions-panel-card",
     "module/companion-surplus-panel-card",
