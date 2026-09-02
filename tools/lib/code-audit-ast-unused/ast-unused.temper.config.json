@@ -2,12 +2,7 @@
   "workspaces": {
 
 
-    "temper/game-companions-ui": {
-      "entry": [],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
+
     "temper/player-completion": {
       "entry": [
         "**/*.test.{ts,tsx}"
@@ -16,12 +11,7 @@
         "**/*.ts"
       ]
     },
-    "temper/player-completion-ui": {
-      "entry": [],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
+
     "temper/player-economics-ui": {
       "entry": [
         "**/*.test.{ts,tsx}"
@@ -30,12 +20,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "temper/player-profile": {
-      "entry": [],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
+
     "temper/scripts": {
       "entry": [
         "src/**/*.script.ts",
