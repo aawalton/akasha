@@ -29,10 +29,19 @@ export type Ran = { readonly ok: true } | { readonly ok: false; readonly why: st
 /**
  * What a commit attempt did, which is not answered by its exit code alone.
  *
- * VERIFIED: `git commit` with a pathspec naming paths HEAD does not hold refuses those paths by name,
- * exits non-zero, AND COMMITS THE REST. Reading a non-zero exit as "nothing landed" is how a landing
- * restores the files it deleted while the commit that deleted them still stands — the disk and HEAD
- * then disagree, and nothing says so. So whether HEAD moved is measured rather than inferred.
+ * This comment used to say a pathspec commit naming paths HEAD does not hold refuses those by name,
+ * exits non-zero AND COMMITS THE REST. Measured against git 2.55, it does not, and the difference
+ * decides where the fault is:
+ *
+ *   VERIFIED  a pathspec git cannot match at all refuses the WHOLE commit — every named path is
+ *             reported, the exit is non-zero and HEAD does not move. Nothing partial happens.
+ *   VERIFIED  a pathspec git CAN match but HEAD does not hold — a path another lane staged and never
+ *             committed — is dropped silently, at exit 0, with the rest committed. That is the quiet
+ *             half, and it is why `untrackedAmong` asks HEAD rather than the index.
+ *
+ * So the loud case needs the paths made matchable and the quiet case needs them refused, which is
+ * what `committed` now does. Whether HEAD moved is still measured rather than inferred, because a
+ * caller that must know its commit landed cannot learn it from an exit code either way.
  */
 export type Landed = Ran & { readonly moved: boolean }
 
@@ -138,25 +147,66 @@ export function putBack(from: string, snapshot: string, names: readonly string[]
   return { ok: true }
 }
 
+/** What `git status --porcelain` answers for a path git has never been told about. */
+const UNTRACKED = "??"
+
 /**
- * Which of the named paths git sees a change at, asked of git rather than assumed.
+ * Staged as an addition and then taken off the disk, which is a path no pathspec commit can record.
  *
- * `git commit` with a pathspec refuses a path it cannot match and commits the rest, so a pathspec
- * list is only safe if every entry matches. Rather than reason about when one does, the list handed
- * to the commit is the list git itself reports as changed. A path expected and not reported is a
- * deletion that did not register, which is worth refusing over rather than committing around.
+ * A commit built against HEAD can record a deletion only of something HEAD holds. This code means
+ * another lane staged the file and never committed it, so HEAD does not hold it — and this act has
+ * since deleted it. VERIFIED that `git commit --only` naming such a path exits 0 and quietly leaves
+ * it out, which is the take-away's own way of making the landing's claim false without saying so.
  */
-function changedAmong(repoRoot: string, named: readonly string[]): ReadonlySet<string> {
+const ADDED_THEN_GONE = "AD"
+
+/**
+ * What git sees at each of the named paths, as its two-letter porcelain code.
+ *
+ * `git commit` with a pathspec is all or nothing: one entry it cannot match and the whole commit
+ * refuses, HEAD unmoved. VERIFIED against git 2.55 rather than assumed, because the comment above
+ * `Landed` once said such a commit lands the rest, and it does not.
+ *
+ * So the codes are read rather than only the names. Two callers need them for opposite reasons: a
+ * take-away names paths it has just deleted and every one must be a path git already holds, while a
+ * restore names paths it has just written back and those are untracked until git is told about them.
+ */
+function statusAmong(repoRoot: string, named: readonly string[]): ReadonlyMap<string, string> {
   const ran = Bun.spawnSync(["git", "status", "--porcelain", "-z", "--", ...named], {
     cwd: repoRoot,
   })
-  if (ran.exitCode !== 0) return new Set()
-  const seen = new Set<string>()
+  if (ran.exitCode !== 0) return new Map()
+  const seen = new Map<string, string>()
   for (const one of new TextDecoder().decode(ran.stdout).split("\0")) {
     if (one.length < 4) continue
-    seen.add(one.slice(3))
+    seen.set(one.slice(3), one.slice(0, 2))
   }
   return seen
+}
+
+/**
+ * The untracked among the named paths told to git, so a pathspec commit can match them.
+ *
+ * This is what the undo was missing. Once the take-away commit has landed, HEAD no longer holds the
+ * markdown corpus, so every file the restore puts back is untracked — and `git commit --only` refuses
+ * a path git does not know, by name, and commits nothing. The restore then had the files on the disk
+ * and no way to say so.
+ *
+ * `--intent-to-add` rather than a plain `git add`, and the difference is the shared worktree. A plain
+ * `git add` stages the content, so in the instant between staging and committing another lane's bare
+ * `git commit` carries these files into ITS commit — the sweep CLAUDE.md warns about. An
+ * intent-to-add entry holds no content: VERIFIED that `git diff --cached` lists a plainly added file
+ * and does not list an intent-to-add one, so a bare commit cannot sweep it. It records only that the
+ * path exists, which is all a pathspec needs to match, and the commit below then takes the bytes off
+ * the working tree.
+ */
+function madeKnown(repoRoot: string, paths: readonly string[]): string | null {
+  if (paths.length === 0) return null
+  const ran = Bun.spawnSync(["git", "add", "--intent-to-add", "--", ...paths], { cwd: repoRoot })
+  if (ran.exitCode === 0) return null
+  return (
+    new TextDecoder().decode(ran.stderr) + new TextDecoder().decode(ran.stdout)
+  ).trim()
 }
 
 /**
@@ -171,15 +221,63 @@ function changedAmong(repoRoot: string, named: readonly string[]): ReadonlySet<s
  */
 export function committed(repoRoot: string, paths: readonly string[], message: string): Landed {
   const asked = paths.map((one) => relative(repoRoot, one))
-  const changed = changedAmong(repoRoot, asked)
-  const named = asked.filter((one) => changed.has(one))
-  if (named.length === 0) {
-    return { ok: false, why: "git sees no change at any of the named paths", moved: false }
+  const stands = statusAmong(repoRoot, asked)
+
+  /**
+   * Nothing to record is done rather than stuck, which is the undo's other way of jamming.
+   *
+   * The restore calls this whenever HEAD has moved since the act began — and HEAD moves because
+   * ANY of fourteen lanes committed, not only because this one did. So when the take-away commit
+   * itself failed and a neighbour's commit moved HEAD anyway, the restore puts back files that
+   * were never removed from HEAD and asks git to record a difference that is not there. That is
+   * the world already being as it should be. Reporting it as a failure is how an undo prints
+   * `STUCK` over a tree it has correctly left alone.
+   *
+   * `moved: false` is the whole answer: no commit was made, and none was owed. A caller that
+   * needed one says so by weighing `moved`, which the take-away does.
+   */
+  if (stands.size === 0) return { ok: true, moved: false }
+
+  /**
+   * A path this act changed that git does not report is refused rather than committed around.
+   *
+   * The comment above said this and the code did not do it — it filtered the unreported paths out
+   * and committed the rest. VERIFIED that the quiet case is real: a path another lane had staged
+   * but never committed, deleted by a take-away, is reported by nothing, and the commit then lands
+   * at exit 0 having silently kept it. That is the landing's claim — the corpus stands in the
+   * commit before this one — coming out false for the one file it is false about.
+   */
+  const unsaid = asked.filter((one) => {
+    const code = stands.get(one)
+    return code === undefined || code === ADDED_THEN_GONE
+  })
+  if (unsaid.length > 0) {
+    return {
+      ok: false,
+      why:
+        `git would record nothing for ${String(unsaid.length)} of ${String(asked.length)} named ` +
+        `path(s), so what this act did to them would go unsaid: ${unsaid.slice(0, 8).join(", ")}`,
+      moved: false,
+    }
   }
+
+  const unknown = asked.filter((one) => stands.get(one) === UNTRACKED)
   const was = headHere(repoRoot)
   let last = ""
   for (let go = 0; go < LOCK_TRIES; go += 1) {
-    const ran = Bun.spawnSync(["git", "commit", "--only", "-m", message, "--", ...named], {
+    /**
+     * Told to git inside the retry, because `git add` takes the same index lock the commit does.
+     * A restore that gave up because a neighbour held the index for a moment would be the same
+     * `STUCK` by another road. Telling git twice about a path costs nothing.
+     */
+    const knew = madeKnown(repoRoot, unknown)
+    if (knew !== null) {
+      last = knew
+      if (!knew.includes("index.lock")) return { ok: false, why: knew, moved: false }
+      Bun.sleepSync(LOCK_WAIT_MS)
+      continue
+    }
+    const ran = Bun.spawnSync(["git", "commit", "--only", "-m", message, "--", ...asked], {
       cwd: repoRoot,
     })
     const moved = headHere(repoRoot) !== was

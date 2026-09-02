@@ -756,12 +756,21 @@ async function main(): Promise<never> {
     }
     landFile(at.funnel, turned.text)
 
+    /**
+     * The commit is required to have MOVED HEAD, not merely to have returned.
+     *
+     * `committed` answers `ok` with `moved: false` where git saw nothing to record, which for a
+     * restore is the world already being right. For a take-away it is the opposite: 294 files were
+     * just deleted, so git seeing nothing to record means the removal went unrecorded, and carrying
+     * on would land the day pages on top of a markdown corpus that still stands in HEAD. That is
+     * the doubled corpus this whole ordering exists to prevent, so it is refused here.
+     */
     const said = committed(HERE, paths, TAKE_AWAY_MESSAGE)
-    if (!said.ok) {
+    if (!said.ok || !said.moved) {
       refuse("take-away", [
         "the commit taking the old corpus away did not land whole, and nothing under `akasha/` has",
         "been written, so the corpus goes back and so does anything this commit did land",
-        `  ${said.why}`,
+        `  ${said.ok ? "git recorded nothing, so HEAD still holds the corpus this act removed" : said.why}`,
       ])
     }
     say(`  taken away     ${String(before.files.size)} file(s) from ${at.from}`)
