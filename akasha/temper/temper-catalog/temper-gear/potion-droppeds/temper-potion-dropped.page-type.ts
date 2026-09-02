@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperGearThing } from "../temper-gear-thing.page-type.ts"
+import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
 
 export type TemperPotionDropped = TemperGearThing
 

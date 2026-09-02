@@ -3,7 +3,7 @@ import type { Cooldown } from "../properties/cooldown.number-property.ts"
 import type { Debuffs } from "../properties/debuffs.page-property-entry.ts"
 import type { IsPositive } from "../properties/is-positive.boolean-property.ts"
 import type { OppositeId } from "../properties/opposite-id.text-property.ts"
-import type { TemperGearThing } from "../temper-gear-thing.page-type.ts"
+import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
 
 export type TemperPoisonEffect = TemperGearThing & {
   oppositeId: OppositeId

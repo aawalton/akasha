@@ -1,12 +1,12 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCatalogThing } from "../temper-catalog-thing.page-type.ts"
-import type { Buffs } from "./properties/buffs.page-property-entry.ts"
-import type { EsoEnchantConstantName } from "./properties/eso-enchant-constant-name.text-property.ts"
-import type { EssenceRune } from "./properties/essence-rune.text-property.ts"
-import type { GlyphName } from "./properties/glyph-name.text-property.ts"
-import type { ItemLevel } from "./properties/item-level.text-property.ts"
-import type { PotionSeconds } from "./properties/potion-seconds.number-property.ts"
-import type { ValidSlots } from "./properties/valid-slots.text-property.ts"
+import type { TemperCatalogThing } from "../../temper-catalog-thing.page-type.ts"
+import type { Buffs } from "../properties/buffs.page-property-entry.ts"
+import type { EsoEnchantConstantName } from "../properties/eso-enchant-constant-name.text-property.ts"
+import type { EssenceRune } from "../properties/essence-rune.text-property.ts"
+import type { GlyphName } from "../properties/glyph-name.text-property.ts"
+import type { ItemLevel } from "../properties/item-level.text-property.ts"
+import type { PotionSeconds } from "../properties/potion-seconds.number-property.ts"
+import type { ValidSlots } from "../properties/valid-slots.text-property.ts"
 
 export type TemperGearThing = TemperCatalogThing & {
   glyphName?: GlyphName

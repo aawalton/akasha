@@ -2,7 +2,7 @@ import type { PageType } from "@akasha/pages-system/page-type"
 import type { EnchantmentMultiplier } from "../properties/enchantment-multiplier.number-property.ts"
 import type { EsoWeaponType } from "../properties/eso-weapon-type.text-property.ts"
 import type { WeaponTypePower } from "../properties/weapon-type-power.number-property.ts"
-import type { TemperGearThing } from "../temper-gear-thing.page-type.ts"
+import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
 
 export type TemperWeaponType = TemperGearThing & {
   enchantmentMultiplier: EnchantmentMultiplier
