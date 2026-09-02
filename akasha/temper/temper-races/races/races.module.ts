@@ -11,5 +11,13 @@ export const races = {
       invariantKind: "departure",
       statement: "This code is written out from the race pages rather than by hand.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "A race's place in this table is the index a build hash carries.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A race moved to another place breaks every build hash saved.",
+    },
   ],
 } as const satisfies Module
