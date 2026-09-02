@@ -1,5 +1,5 @@
-import { diffEsoDays, getEsoDayStr } from "@akasha/day/eso-day"
 import type { Dungeon } from "../dungeon-registry/dungeon-registry.module.code.ts"
+import { getEsoResetTimestampSec } from "../eso-reset/eso-reset.module.code.ts"
 
 export interface QuestGiver {
   id: string
@@ -14,15 +14,39 @@ export interface TodaysPledge {
   dungeonLabel: string
 }
 
+const SECONDS_PER_DAY = 86_400
+
+function esoDayNumber(nowSec: number): number {
+  return Math.floor(getEsoResetTimestampSec(nowSec) / SECONDS_PER_DAY)
+}
+
+function epochDayNumber(epochDate: string): number {
+  const parts = epochDate.split("-")
+  const [yearStr, monthStr, dayStr] = parts
+  if (yearStr === undefined || monthStr === undefined || dayStr === undefined) {
+    throw new Error(`epochDayNumber: expected YYYY-MM-DD, got ${epochDate}`)
+  }
+  const year = Number(yearStr)
+  const month = Number(monthStr)
+  const day = Number(dayStr)
+  const yAdj = month <= 2 ? year - 1 : year
+  const era = Math.floor(yAdj / 400)
+  const yoe = yAdj - era * 400
+  const monthIndex = month > 2 ? month - 3 : month + 9
+  const doy = Math.floor((153 * monthIndex + 2) / 5) + day - 1
+  const doe = yoe * 365 + Math.floor(yoe / 4) - Math.floor(yoe / 100) + doy
+  return era * 146097 + doe - 719468
+}
+
 export function getTodaysPledges(
   dungeons: readonly Dungeon[],
   givers: readonly QuestGiver[],
   nowSec: number
 ): readonly TodaysPledge[] {
-  const today = getEsoDayStr(new Date(nowSec * 1000))
+  const currentDay = esoDayNumber(nowSec)
 
   return givers.map((giver) => {
-    const daysSinceEpoch = diffEsoDays(today, giver.epoch)
+    const daysSinceEpoch = currentDay - epochDayNumber(giver.epoch)
     const cycleLength = giver.cycleLength
     const index = ((daysSinceEpoch % cycleLength) + cycleLength) % cycleLength
     const slot = dungeons.find((d) => d.questGiverId === giver.id && d.rotationPosition === index)

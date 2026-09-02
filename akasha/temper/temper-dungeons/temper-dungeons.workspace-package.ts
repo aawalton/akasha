@@ -11,11 +11,16 @@ export const temperDungeons = {
     "module/solo-difficulty",
     "module/pledge-rotation",
     "module/dungeon-data",
+    "module/eso-reset",
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A dungeon is reached by its short key rather than by its name.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Nothing here reaches a Date.",
     },
     {
       invariantKind: "departure",
