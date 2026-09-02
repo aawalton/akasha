@@ -47,12 +47,17 @@ function oneSpelling(token: string): string {
 }
 
 export function targetOf(command: string): string {
-  const scripts = command
-    .split(/\s+/)
-    .map((word) => word.replace(/^['"]+|['"]+$/g, ""))
-    .filter((word) => word.includes("/") && SCRIPT_SUFFIXES.some((suffix) => word.endsWith(suffix)))
-    .map(oneSpelling)
-  return scripts.length === 0 ? command.trim().replace(/\s+/g, " ") : scripts.join(" ")
+  const words = command.split(/\s+/).map((word) => word.replace(/^['"]+|['"]+$/g, ""))
+  const isScript = (word: string): boolean =>
+    word.includes("/") && SCRIPT_SUFFIXES.some((suffix) => word.endsWith(suffix))
+  const scripts = words.filter(isScript).map(oneSpelling)
+  if (scripts.length === 0) return command.trim().replace(/\s+/g, " ")
+  // WHAT THE SCRIPT IS RUN OVER IS PART OF WHICH HOOK THIS IS. Every akasha hook now reaches its
+  // code through one runner and is told apart by the name after it, so a target of the script
+  // alone would file thirteen registrations under seven keys and hide six of them from every
+  // caller that compares by target. A command naming nothing after its script is unchanged.
+  const after = words.slice(words.findLastIndex(isScript) + 1).filter((word) => word !== "")
+  return [...scripts, ...after].join(" ")
 }
 
 export function entriesOf(document: unknown): readonly HookEntry[] {
