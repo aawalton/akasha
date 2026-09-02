@@ -13,6 +13,6 @@ export const temperHoldings = {
     "page-type/temper-inventory-currency",
     "page-type/temper-inventory-snapshot",
     "page-type/temper-item-category-tree",
-    "page-type/temper-net-worth-day",
+    "page-type/temper-net-worth-hour",
   ],
 } as const satisfies Domain
