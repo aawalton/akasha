@@ -186,7 +186,7 @@ export const dailyTracking = {
     },
     {
       invariantKind: "gap",
-      statement: "The days Alan tracked before this page type are kept in markdown.",
+      statement: "The days Alan tracked before this page type have yet to move in.",
     },
   ],
 } as const satisfies PageType

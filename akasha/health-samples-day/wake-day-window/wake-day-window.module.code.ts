@@ -12,9 +12,9 @@ export interface SleepBlockInput {
 export const SLEEP_PAGE_TYPES = ["daily-tracking", "session-tracking"] as const
 
 const NOTHING_ANSWERS = [
-  `\`${SLEEP_PAGE_TYPES.join("` and `")}\` sit in the old page store rather than in akasha,`,
-  "and the pages system service answers for akasha alone.",
-  "when Alan woke is read nowhere.",
+  `nothing here reads a \`${SLEEP_PAGE_TYPES.join("` or `")}\` page,`,
+  "and no caller hands in the blocks a day held,",
+  "so when Alan woke is read nowhere.",
 ].join(" ")
 
 function isSleepTitle(title: unknown): boolean {
