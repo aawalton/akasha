@@ -16,7 +16,19 @@ export const upkeepSafety = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The level is the one the open tracking session carries.",
+      statement: "The level now is the one the open tracking session carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The level a day carries is the last level that day's sessions carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A session carrying no level is passed over rather than read as the day's level.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day no session carries a level on is no reading rather than a level of zero.",
     },
     {
       invariantKind: "departure",
