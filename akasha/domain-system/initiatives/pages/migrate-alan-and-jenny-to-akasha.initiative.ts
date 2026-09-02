@@ -41,7 +41,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
       workingMemory:
-        "Six folders under `alanwalton/`, two build scratch; `calendar-sync` there is 3 files of deploy machinery over `@akasha/calendar-sync`; that, `@akasha/health-samples-import` and `@akasha/ssh-access` landed. Audit: 40 checks, 5497 files, 16 refusals — 11 `manifest-names-what-is-reached`, all `@capacitor` and not moving; 4 `no-rule-in-two-files`, down from 15 in an hour; 1 lower-camel. mobile-cli's 4 `ios-program` reaches resolve; 6 escapes in 3 files onto `tools/lib`/`repo/roots` block it.",
+        "Six folders under `alanwalton/`; `calendar-sync`, `health-samples-import` and `ssh-access` landed. `runTestflightCut` is mobile-cli's `testflight-cut` now, so command-system names `@tools/lib` nowhere and `package-reached-where-named` refuses nothing. The 6-in-3 escape count was stale: 15 imports in 6 files, before and after. What is left is the page engine — `file-pages`, `page-derive-shape`, `page-query-values`, `page-write` — and `code-root`, which 53 files outside akasha reach.",
     },
     {
       statement: "The design packages stand in akasha.",
