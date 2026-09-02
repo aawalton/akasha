@@ -1,0 +1,30 @@
+{
+  "name": "@akasha/temper-lib-saved-vars",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./saved-vars-types": "./saved-vars-types/saved-vars-types.module.code.ts",
+    "./saved-vars-casts": "./saved-vars-casts/saved-vars-casts.module.code.ts",
+    "./saved-vars-constants": "./saved-vars-constants/saved-vars-constants.module.code.ts",
+    "./saved-vars-registry": "./saved-vars-registry/saved-vars-registry.module.code.ts",
+    "./saved-vars-lib-state": "./saved-vars-lib-state/saved-vars-lib-state.module.code.ts",
+    "./saved-vars-ui-strings": "./saved-vars-ui-strings/saved-vars-ui-strings.module.code.ts",
+    "./saved-vars-protected-migrate": "./saved-vars-protected-migrate/saved-vars-protected-migrate.module.code.ts",
+    "./saved-vars-protected": "./saved-vars-protected/saved-vars-protected.module.code.ts",
+    "./saved-vars-lib-core": "./saved-vars-lib-core/saved-vars-lib-core.module.code.ts",
+    "./saved-vars-manager-state": "./saved-vars-manager-state/saved-vars-manager-state.module.code.ts",
+    "./saved-vars-manager-core": "./saved-vars-manager-core/saved-vars-manager-core.module.code.ts",
+    "./saved-vars-manager": "./saved-vars-manager/saved-vars-manager.module.code.ts",
+    "./saved-vars-data-state": "./saved-vars-data-state/saved-vars-data-state.module.code.ts",
+    "./saved-vars-data-helpers": "./saved-vars-data-helpers/saved-vars-data-helpers.module.code.ts",
+    "./saved-vars-data-active": "./saved-vars-data-active/saved-vars-data-active.module.code.ts",
+    "./saved-vars-data-constructors": "./saved-vars-data-constructors/saved-vars-data-constructors.module.code.ts",
+    "./saved-vars-data-iterator": "./saved-vars-data-iterator/saved-vars-data-iterator.module.code.ts",
+    "./saved-vars-data-migrate": "./saved-vars-data-migrate/saved-vars-data-migrate.module.code.ts",
+    "./saved-vars-data-settings": "./saved-vars-data-settings/saved-vars-data-settings.module.code.ts",
+    "./saved-vars-data": "./saved-vars-data/saved-vars-data.module.code.ts",
+    "./saved-vars-lib-overrides": "./saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts",
+    "./saved-vars-public-api": "./saved-vars-public-api/saved-vars-public-api.module.code.ts",
+    "./saved-vars-main": "./saved-vars-main/saved-vars-main.module.code.ts"
+  }
+}
