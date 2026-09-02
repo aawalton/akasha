@@ -46,7 +46,6 @@
     "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
-    "@akasha/open-questions": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@akasha/person-system": "workspace:*",
     "@akasha/status-bar-access": "workspace:*",

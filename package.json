@@ -105,7 +105,6 @@
     "@akasha/health-samples-import": "workspace:*",
     "@akasha/imessage": "workspace:*",
     "@akasha/music-choosing": "workspace:*",
-    "@akasha/open-questions": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/spotify": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
