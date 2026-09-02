@@ -4,7 +4,9 @@
   "type": "module",
   "exports": {
     "./character-skill-activation-types": "./character-skill-activation-types/character-skill-activation-types.module.code.ts",
+    "./character-skill-activations": "./character-skill-activations/character-skill-activations.module.code.ts",
     "./character-skill-template": "./character-skill-template/character-skill-template.module.code.ts",
+    "./character-skills": "./character-skills/character-skills.module.code.ts",
     "./character-skills-00": "./character-skills-00/character-skills-00.module.code.ts",
     "./character-skills-01": "./character-skills-01/character-skills-01.module.code.ts",
     "./character-skills-02": "./character-skills-02/character-skills-02.module.code.ts",
@@ -90,8 +92,14 @@
     "./character-skills-82": "./character-skills-82/character-skills-82.module.code.ts",
     "./character-skills-83": "./character-skills-83/character-skills-83.module.code.ts",
     "./character-skills-84": "./character-skills-84/character-skills-84.module.code.ts",
+    "./character-skills-from-pages": "./character-skills-from-pages/character-skills-from-pages.module.code.ts",
+    "./find-skill-by-id": "./find-skill-by-id/find-skill-by-id.module.code.ts",
     "./grimoire-template": "./grimoire-template/grimoire-template.module.code.ts",
+    "./passive-queries": "./passive-queries/passive-queries.module.code.ts",
+    "./query-shapes": "./query-shapes/query-shapes.module.code.ts",
+    "./scribed-skill-source": "./scribed-skill-source/scribed-skill-source.module.code.ts",
     "./scribed-skill-template": "./scribed-skill-template/scribed-skill-template.module.code.ts",
+    "./scribed-skill-types": "./scribed-skill-types/scribed-skill-types.module.code.ts",
     "./scribed-skills": "./scribed-skills/scribed-skills.module.code.ts",
     "./scribed-skills-00": "./scribed-skills-00/scribed-skills-00.module.code.ts",
     "./scribed-skills-01": "./scribed-skills-01/scribed-skills-01.module.code.ts",
@@ -102,7 +110,10 @@
     "./scribing-grimoires-00": "./scribing-grimoires-00/scribing-grimoires-00.module.code.ts",
     "./scribing-grimoires-01": "./scribing-grimoires-01/scribing-grimoires-01.module.code.ts",
     "./scribing-grimoires-02": "./scribing-grimoires-02/scribing-grimoires-02.module.code.ts",
-    "./scribing-grimoires-03": "./scribing-grimoires-03/scribing-grimoires-03.module.code.ts"
+    "./scribing-grimoires-03": "./scribing-grimoires-03/scribing-grimoires-03.module.code.ts",
+    "./scribing-script-description": "./scribing-script-description/scribing-script-description.module.code.ts",
+    "./skill-bar-filtering": "./skill-bar-filtering/skill-bar-filtering.module.code.ts",
+    "./skill-line-queries": "./skill-line-queries/skill-line-queries.module.code.ts"
   },
   "dependencies": {
     "@akasha/temper-characters-equipment": "workspace:*",
