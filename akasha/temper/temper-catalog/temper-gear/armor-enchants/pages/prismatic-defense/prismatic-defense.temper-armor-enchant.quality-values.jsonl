@@ -1,0 +1,10 @@
+{"id":"01a05fd4-d925-7d15-b3e5-4b7757f63e85","metricId":"prismatic-health","quality":"epic","value":453}
+{"id":"01a05fd4-d925-767b-ae88-5c93ea6a826a","metricId":"prismatic-health","quality":"fine","value":405}
+{"id":"01a05fd4-d925-7371-9d78-d909d21847f9","metricId":"prismatic-health","quality":"normal","value":381}
+{"id":"01a05fd4-d925-7690-9d40-0c87623a462b","metricId":"prismatic-health","quality":"superior","value":429}
+{"id":"01a05fd4-d925-7ffa-a0ac-460de39abcea","metricId":"prismatic-health","quality":"legendary","value":477}
+{"id":"01a05fd4-d925-7cd4-adda-ece968a4bed9","metricId":"prismatic-resource","quality":"epic","value":412}
+{"id":"01a05fd4-d925-7975-8a34-3fadac91fc68","metricId":"prismatic-resource","quality":"fine","value":368}
+{"id":"01a05fd4-d925-74d3-9ff1-c6df6017cc76","metricId":"prismatic-resource","quality":"normal","value":347}
+{"id":"01a05fd4-d925-7591-bd3e-96025f186a1d","metricId":"prismatic-resource","quality":"superior","value":390}
+{"id":"01a05fd4-d925-7625-9282-690da9a83b55","metricId":"prismatic-resource","quality":"legendary","value":434}
