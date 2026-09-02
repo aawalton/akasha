@@ -1,0 +1,16 @@
+{
+  "name": "@akasha/temper-characters-equipment-ui",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./equipment-icon": "./equipment-icon/equipment-icon.module.code.tsx",
+    "./equipment-quality-rules": "./equipment-quality-rules/equipment-quality-rules.module.code.ts",
+    "./eso-quality-text-classes": "./eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-equipment-kinds": "workspace:*"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
+  }
+}
