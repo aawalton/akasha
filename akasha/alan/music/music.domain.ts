@@ -32,6 +32,10 @@ export const music = {
       statement: "No music is kept in markdown.",
     },
     {
+      invariantKind: "gap",
+      statement: "Every play Alan finishes is filed onto the day of that play.",
+    },
+    {
       invariantKind: "departure",
       statement: "Every kind of thing music keeps has a page type of its own.",
     },
