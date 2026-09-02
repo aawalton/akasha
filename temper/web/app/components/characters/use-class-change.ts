@@ -1,10 +1,10 @@
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { clearIncompatibleSets } from "@temper/game-characters-equipment/loadout/clear-incompatible-sets"
-import { getSetIdsClassCannotEquip } from "@temper/game-characters-equipment/sets/class-restrictions"
 import {
   getSkillsToRemoveOnClassChange,
   validateSkillLinesForClass,
 } from "@akasha/temper-character-skills/skill-line-queries"
+import { clearIncompatibleSets } from "@akasha/temper-characters-equipment/clear-incompatible-sets"
+import { getSetIdsClassCannotEquip } from "@akasha/temper-characters-equipment/set-class-restrictions"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { useState } from "react"
 import { useCharacter, useCharacterActions, useCharacterMetadata } from "./context/use-character"
 
