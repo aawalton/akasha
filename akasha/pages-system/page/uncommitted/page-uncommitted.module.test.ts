@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, utimesSync, writeFileSync } from "node:fs"
+import { chmodSync, existsSync, mkdirSync, statSync, utimesSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { until } from "@akasha/testing-system/waiting"
@@ -26,6 +26,8 @@ const OWNERS = ["beats", "gateway", "usage"]
 
 const ROUNDS = 6
 
+const MODE_BITS = 0o7777
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -38,6 +40,16 @@ function rooted(): string {
 
 function writtenBeside(root: string, body: string): undefined {
   writeFileSync(join(root, BESIDE), body, "utf8")
+}
+
+function modeOf(at: string): number {
+  return statSync(at).mode & MODE_BITS
+}
+
+function umaskGives(root: string): number {
+  const probe = join(root, "probe")
+  writeFileSync(probe, "probe", "utf8")
+  return modeOf(probe)
 }
 
 function bunning(said: string): Bun.Subprocess {
@@ -288,4 +300,44 @@ test("a file taken away is answered as carrying nothing again", () => {
   removeUncommitted(root, PAGE)
   const value = { slug: "amy" }
   expect(wholeValue(root, PAGE, value)).toBe(value)
+})
+
+test("a mode narrowed on the file beside a page outlives the next merge", () => {
+  const root = rooted()
+  keepUncommitted(root, PAGE, { beats: 1 })
+  chmodSync(join(root, BESIDE), 0o600)
+  mergeUncommitted(root, PAGE, { beats: 2, gateway: "up" })
+  expect(modeOf(join(root, BESIDE))).toBe(0o600)
+  expect(uncommittedIn(root, PAGE)).toEqual({ beats: 2, gateway: "up" })
+})
+
+test("a mode widened on the file beside a page outlives the next merge", () => {
+  const root = rooted()
+  keepUncommitted(root, PAGE, { beats: 1 })
+  chmodSync(join(root, BESIDE), 0o666)
+  mergeUncommitted(root, PAGE, { beats: 2 })
+  expect(modeOf(join(root, BESIDE))).toBe(0o666)
+})
+
+test("a file written where no file was there takes the mode the umask gives", () => {
+  const root = rooted()
+  mergeUncommitted(root, PAGE, { beats: 1 })
+  expect(modeOf(join(root, BESIDE))).toBe(umaskGives(root))
+})
+
+test("keeping again keeps the mode the file already had", () => {
+  const root = rooted()
+  keepUncommitted(root, PAGE, { beats: 1 })
+  chmodSync(join(root, BESIDE), 0o640)
+  keepUncommitted(root, PAGE, { beats: 2 })
+  expect(modeOf(join(root, BESIDE))).toBe(0o640)
+})
+
+test("dropping a key keeps the mode the file already had", () => {
+  const root = rooted()
+  keepUncommitted(root, PAGE, { beats: 1, gateway: "up" })
+  chmodSync(join(root, BESIDE), 0o604)
+  dropUncommitted(root, PAGE, ["beats"])
+  expect(modeOf(join(root, BESIDE))).toBe(0o604)
+  expect(uncommittedIn(root, PAGE)).toEqual({ gateway: "up" })
 })
