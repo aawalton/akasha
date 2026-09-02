@@ -1,5 +1,5 @@
+import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import type { MinedItemData } from "@akasha/temper-items-core/item-tooltip-types"
-import { askComposed } from "@shared/pages-query/ask"
 import { MINED_ITEM_PAGE_TYPE, rowToMinedItemData } from "@/lib/mined-item-rows"
 import type { Route } from "./+types/api.items"
 
