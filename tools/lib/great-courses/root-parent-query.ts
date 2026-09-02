@@ -48,18 +48,32 @@ export async function shouldRunGreatCoursesSync(): Promise<boolean> {
 // so `lastSyncedAt` has not moved since. That leaves the read above answering an ever-staler date,
 // which is why the sync judges itself due on every run: the thirty-day gate can never close while
 // nothing can write the date it gates on.
+//
+// What that costs, measured 2026-09-02: the page holds `lastSyncedAt: 2026-08-24`, and the gate
+// opens once today less thirty days passes that date. Computed rather than reckoned by eye, the
+// cutoff first passes it on 2026-09-24. So the gate is shut today, and from that morning the timer
+// at 07:35 runs a whole sync every day rather than monthly, for good.
+//
+// This cannot be repaired here. `great-courses-collection` names no page type the store's index
+// holds — its three pages are markdown under `pages/` — and nothing in the repository renders a
+// page body out of its keys, which is what setting one key would need. Writing the frontmatter by
+// hand from here would mean settling key order and quoting in a sync client, which belongs with
+// the checks rather than here. So this reports that it could not record the date, and the caller
+// counts that as a failure rather than printing a summary that reads as though it had.
 const NO_RENDER =
   "the store writes a path and a whole body, and nothing renders a `great-courses-collection` page's body out of its keys, so `lastSyncedAt` cannot be set here. land the page's whole body with `patchFiles`, or set it through the akasha command line"
 
-export async function updateRootParentLastSyncedAt(): Promise<void> {
+/** Whether the date was recorded. False every time today, for the reason above. */
+export async function updateRootParentLastSyncedAt(): Promise<boolean> {
   const root = await pageTitled(GREAT_COURSES_COLLECTION_SLUG, ROOT_TIMER_TITLE, [])
   const slug = root === null ? null : textAt(root, "slug")
   if (slug == null) {
     console.warn(`${ROOT_TIMER_TITLE} root not found, so nothing recorded when it last synced`)
-    return
+    return false
   }
   const err = toError(
     new Error(`\`${GREAT_COURSES_COLLECTION_SLUG}/${slug}\` kept ${todayYYYYMMDD()}: ${NO_RENDER}`)
   )
   logError("Root parent update", "updateRootParentLastSyncedAt", err, classifyError(err))
+  return false
 }

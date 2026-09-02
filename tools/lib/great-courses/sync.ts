@@ -91,13 +91,22 @@ export async function syncGreatCourses(): Promise<SyncResult> {
       failed = totalResult.failed
     }
 
+    // The date is recorded before the summary is drawn, so that failing to record it is counted
+    // in the figure the summary prints rather than logged after it and left out. This is the gate
+    // the next run reads: a run that syncs everything and then cannot say it did is not a run that
+    // worked, and it may not report itself as one.
+    const dateRecorded = await updateRootParentLastSyncedAt()
+    if (!dateRecorded) failed += 1
+
     console.log(
       `Summary: created=${created} updated=0 skipped=${skipped} failed=${failed} total=${created + skipped + failed}`
     )
 
-    await updateRootParentLastSyncedAt()
-
-    console.log("Great Courses sync completed!")
+    console.log(
+      dateRecorded
+        ? "Great Courses sync completed!"
+        : "Great Courses sync ran, but did not record when it last synced, so the next run reads a stale date"
+    )
     return { created, updated: 0, skipped, failed }
   } catch (thrown) {
     const err = toError(thrown)
