@@ -1,7 +1,12 @@
-import { existsSync, statSync } from "node:fs"
+import { existsSync, readFileSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { parsedAs } from "@akasha/code-system/code-source"
+import { namersOf, readingIn } from "@akasha/indexes"
+import { knownIn, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import { besideAll } from "@akasha/pages-system/page-beside"
+import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 import { said as saying } from "@akasha/utils-run/running"
+import ts from "typescript"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import { BREAK_GLASS, DRY_RUN, landingAsked } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
@@ -27,6 +32,8 @@ const GIT_DIR = ".git"
 const PARTED_BY = "/"
 
 const VALUED = [FILE_PATH, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+
+const ID = "id"
 
 export type Read =
   | { readonly named: readonly string[]; readonly dryRun: boolean }
@@ -185,6 +192,146 @@ function judgedByNothing(outside: readonly string[], dry: boolean): readonly str
   ]
 }
 
+export type Naming = {
+  readonly propertySlug: string
+  readonly address: string
+  readonly listed: boolean
+}
+
+export function namingFor(value: Value, known: Shaped, id: string): readonly Naming[] {
+  const found: Naming[] = []
+  for (const one of namingsIn(value, known)) {
+    if (one.own) continue
+    const wanted = known.targetOf(one.propertySlug)
+    if (wanted === null) continue
+    const listed = Array.isArray(one.held)
+    for (const named of namesIn(one.held)) {
+      const reached = reaches(named, wanted, known)
+      if ("refused" in reached || reached.id !== id) continue
+      found.push({ propertySlug: one.propertySlug, address: named, listed })
+    }
+  }
+  return found
+}
+
+type Span = { readonly start: number; readonly end: number }
+
+function elementSpan(text: string, node: ts.Node): Span {
+  const start = node.getFullStart()
+  let end = node.getEnd()
+  let at = end
+  while (at < text.length) {
+    const here = text[at]
+    if (here === ",") {
+      end = at + 1
+      break
+    }
+    if (here !== " " && here !== "\t" && here !== "\r" && here !== "\n") break
+    at = at + 1
+  }
+  return { start, end }
+}
+
+export type Unnamed = { readonly body: string; readonly left: readonly string[] }
+
+export function unnamed(path: string, text: string, dropping: ReadonlySet<string>): Unnamed {
+  const source = parsedAs(path, text)
+  const spans: Span[] = []
+  const left: string[] = []
+  const walk = (node: ts.Node): undefined => {
+    if (ts.isStringLiteral(node) && dropping.has(node.text)) {
+      const held: ts.Node | undefined = node.parent
+      if (held !== undefined && ts.isArrayLiteralExpression(held)) {
+        spans.push(elementSpan(text, node))
+      } else {
+        left.push(node.text)
+      }
+    }
+    ts.forEachChild(node, walk)
+  }
+  ts.forEachChild(source, walk)
+  let body = text
+  for (const one of [...spans].sort((first, next) => next.start - first.start)) {
+    body = `${body.slice(0, one.start)}${body.slice(one.end)}`
+  }
+  return { body, left }
+}
+
+export type Unnaming = {
+  readonly edits: readonly FileEdit[]
+  readonly closed: readonly string[]
+  readonly left: readonly string[]
+}
+
+export const NOTHING_UNNAMED: Unnaming = { edits: [], closed: [], left: [] }
+
+export function unnamingOver(root: string, going: readonly string[]): Unnaming {
+  const leaving = new Set(going)
+  const ids = new Map<string, string>()
+  for (const one of going) {
+    const value = valueAt(one, root)
+    const id = value === null ? null : textAt(value, ID)
+    if (id !== null) ids.set(id, one)
+  }
+  if (ids.size === 0) return NOTHING_UNNAMED
+  const known = knownIn(readingIn(root), root)
+  const dropping = new Map<string, Set<string>>()
+  const closed: string[] = []
+  const left: string[] = []
+  for (const [id, from] of ids) {
+    for (const path of new Set(namersOf(root, id).map((one) => one.path))) {
+      if (leaving.has(path)) continue
+      const value = valueAt(path, root)
+      if (value === null) continue
+      for (const one of namingFor(value, known, id)) {
+        if (!one.listed) {
+          left.push(
+            `${path} names ${from} at \`${one.propertySlug}\`, which holds one name rather than ` +
+              "a list, so this removal left that name where it was"
+          )
+          continue
+        }
+        dropping.set(path, (dropping.get(path) ?? new Set<string>()).add(one.address))
+      }
+    }
+  }
+  const edits: FileEdit[] = []
+  for (const [path, addresses] of dropping) {
+    const text = readFileSync(join(root, path), "utf8")
+    const said = unnamed(path, text, addresses)
+    for (const one of said.left) {
+      left.push(
+        `${path} names \`${one}\` somewhere other than a list, so this removal left that name ` +
+          "where it was"
+      )
+    }
+    if (said.body === text) continue
+    edits.push({ path, body: new TextEncoder().encode(said.body) })
+    closed.push(
+      `${path} no longer names ${[...addresses]
+        .sort()
+        .map((one) => `\`${one}\``)
+        .join(", ")}`
+    )
+  }
+  return { edits, closed, left }
+}
+
+export function unnamingFor(root: string, going: readonly string[]): Unnaming {
+  try {
+    return unnamingOver(root, going)
+  } catch (why) {
+    return {
+      edits: [],
+      closed: [],
+      left: [
+        "what named these could not be read from the index, so nothing was unnamed and the " +
+          `removal went ahead alone — ${why instanceof Error ? why.message : String(why)}`,
+      ],
+    }
+  }
+}
+
 function alreadyGone(gone: readonly string[], dry: boolean): readonly string[] {
   return gone.map((one) =>
     dry
@@ -267,7 +414,11 @@ export function remove(argv: readonly string[], given: Given): Answer {
       0
     )
   }
-  const changes: readonly FileEdit[] = paths.map((path) => ({ path, body: null }))
+  const mend = unnamingFor(root, paths)
+  const changes: readonly FileEdit[] = [
+    ...paths.map((path) => ({ path, body: null })),
+    ...mend.edits,
+  ]
   const asked: Asked = {
     changes,
     message: stated.message ?? `remove ${paths.join(", ")}`,
@@ -279,6 +430,8 @@ export function remove(argv: readonly string[], given: Given): Answer {
       ...already,
       ...wentWith(held.under, beside, landed.cleared),
       ...judgedByNothing(held.outside, false),
+      ...mend.closed,
+      ...mend.left,
     ],
   }
   const said = landingAsked({ ...given, root }, asked)
@@ -288,6 +441,8 @@ export function remove(argv: readonly string[], given: Given): Answer {
     [
       ...wouldGo(root, paths, held.under, beside),
       ...already,
+      ...mend.closed.map((one) => `${one} — and would land in the same commit`),
+      ...mend.left,
       ...judgedByNothing(held.outside, true),
       ...said.report,
     ],

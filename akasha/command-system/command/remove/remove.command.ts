@@ -22,6 +22,9 @@ export const remove = {
     "the files beside what you name under `akasha/` go with it.",
     "a path outside `akasha/` goes too, and no check judges one, which the answer says.",
     "a folder at the top of the repository is refused — name what is inside it.",
+    "a page going is taken out of every list that named it, in the same commit.",
+    "a name held on its own rather than as a list entry is reported and left alone.",
+    "a name in code rather than in a page property is neither found nor reported.",
   ],
   invariants: [
     {
@@ -114,8 +117,45 @@ export const remove = {
       statement: "A path standing on its own is refused rather than read as a named path.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page going is taken out of every list naming that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every list mended lands in the commit the removal makes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which pages named a page going is read from the index before that page goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is dropped only where the name is an entry in a list.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A single name naming a page going is left unchanged and reported.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file the same call takes away is never mended for another file that call takes away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that cannot say what named a page lets the removal go on and says so.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A removal finding no list to mend writes exactly what a removal wrote before.",
+    },
+    {
       invariantKind: "gap",
       statement: "What a removal leaves behind still stands up on its own.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A name a page had in code rather than in a page property goes with that page.",
     },
   ],
 } as const satisfies Command
