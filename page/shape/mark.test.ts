@@ -2,7 +2,7 @@ import { execFileSync } from "node:child_process"
 import { chmodSync, mkdtempSync, mkdirSync, rmSync, unlinkSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { expect, test } from "bun:test"
-import { namedAtCommit, stagedAwayFromCommit } from "./mark.ts"
+import { diskAtCommit, namedAtCommit } from "./mark.ts"
 
 // Every case here is a checkout this one test makes, commits into and then throws away, so nothing
 // it does is ever asked of the checkout the tests run in. That matters more than usual for this
@@ -35,7 +35,7 @@ function stagedThen(root: string, at: string, held: string, then: string): void 
 }
 
 function askedOf(root: string): ReadonlyMap<string, string> | null {
-  return stagedAwayFromCommit(root, ["page"])
+  return diskAtCommit(root, ["page"])
 }
 
 // What `shapeMarkOf` reads, and the whole of what it read before: 1 is every no it could tell.
@@ -192,6 +192,21 @@ test("skew standing beside a changed file is not skew", () => {
     stagedThen(root, "page/a.ts", "STAGED\n", "one\n")
     writeFileSync(`${root}/page/b.ts`, "changed\n")
     expect(askedOf(root)).toBeNull()
+  } finally {
+    droppedAfter(root)
+  }
+})
+
+// NOT REPORTED, and the mark stands. A file rewritten with its own content is a difference to
+// `diff-index --quiet` and to nothing else: no blob anywhere disagrees, so there is no path here
+// for an agent to act on and none is named. This is the other silent null the mark used to take.
+test("a stale stat is no paths at all, not skew", () => {
+  const root = madeCheckout()
+  try {
+    writeFileSync(`${root}/page/a.ts`, "one\n")
+    execFileSync("touch", ["-d", "2030-01-01", `${root}/page/a.ts`])
+    expect(commitDiffCode(root)).toBe(1)
+    expect([...(askedOf(root) as ReadonlyMap<string, string>).keys()]).toEqual([])
   } finally {
     droppedAfter(root)
   }

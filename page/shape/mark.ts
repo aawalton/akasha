@@ -112,7 +112,14 @@ function amongNamed(at: string): boolean {
 // already contending for that lock. Measured in a seeded checkout: 0 for this state under either
 // setting of that config and with the lock held by somebody else, and 1 for a changed file, a
 // deleted file, a mode change, and a file staged that the commit has never held.
-export function stagedAwayFromCommit(
+//
+// The paths are then listed `--cached`, which asks the index against the commit and nothing about
+// the disk. That is the question both callers have: it is the index the mark's named blobs are
+// read out of, and it is the index a reader is being told to look at. The listing without it also
+// carries the stale stat — a file rewritten with its own content, which `diff-index --quiet` calls
+// a difference and no content ever backed — and that state is nobody's to act on, so it comes back
+// here as no paths at all: the mark stands and nothing is said.
+export function diskAtCommit(
   root: string,
   specs: readonly string[]
 ): ReadonlyMap<string, string> | null {
@@ -126,7 +133,7 @@ export function stagedAwayFromCommit(
     ...specs,
   ])
   if (onDisk.code !== 0) return null
-  const listed = gitCapped(root, ["diff-index", "--raw", "-z", "HEAD", "--", ...specs])
+  const listed = gitCapped(root, ["diff-index", "--cached", "--raw", "-z", "HEAD", "--", ...specs])
   if (listed.code !== 0) return null
   const fields = listed.stdout.split("\0").filter((one) => one !== "")
   if (fields.length % 2 !== 0) return null
@@ -136,9 +143,10 @@ export function stagedAwayFromCommit(
     const path = fields[at + 1] as string
     if (!meta.startsWith(":")) return null
     const oid = meta.slice(1).split(" ")[2]
-    // The commit's side of the entry. Nothing reaches here without one — a path staged as deleted
-    // is a difference `git diff` reports too, and so was refused above — and a path the commit
-    // does not hold is refused rather than written into the mark as a blob nothing stands on.
+    // The commit's side of the entry. A path staged as deleted, or staged that the commit has
+    // never held, is refused rather than written into the mark as a blob nothing here stands on:
+    // both are differences `git diff` reports too, so both were already refused above, and this
+    // holds if git ever answers otherwise.
     if (oid === undefined || oid === NOT_IN_COMMIT || !OBJECT_ID.test(oid)) return null
     staged.set(path, oid)
   }
@@ -222,17 +230,18 @@ function askFor(asks: Map<string, Ask>, root: string): Ask {
 // any of this uncommitted has no mark, and finding that out costs one call rather than the two
 // or three it took to reach the same no before.
 //
-// A no is then asked once more, and only then, because `diff-index` says no to two states and only
-// one of them is a changed tree. `stagedAwayFromCommit` is what separates them; it costs a second
-// call on a path that was already going to work every answer out afresh, and it answers null for
-// the changed tree, which is the no this had all along.
+// A no is then asked once more, and only then, because `diff-index` says no to three states and
+// only one of them is a changed tree: the others are a path staged away from the commit and a
+// stale stat, and under both of those every file read here is the commit's. `diskAtCommit` is what
+// separates them. It costs a second call on a path that was otherwise about to work every answer
+// out afresh, and it answers null for the changed tree, which is the no this had all along.
 function readAt(ask: Ask): Answered | null {
   let staged: ReadonlyMap<string, string> | null = null
   if (ask.cleanSpecs.length > 0) {
     const specs = [...new Set(ask.cleanSpecs)]
     if (!matchesCommit(ask.root, specs)) {
       if (ask.named && NAMED_TAILS === null) return null
-      staged = stagedAwayFromCommit(ask.root, specs)
+      staged = diskAtCommit(ask.root, specs)
       if (staged === null) return null
       tellOfSkew(ask.root, staged)
     }
