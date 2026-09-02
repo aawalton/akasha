@@ -34,6 +34,14 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
+      statement: "A replacement keeps the mode the replaced file already had.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file written where no file was there takes the mode the umask gives.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page no file sits beside carries no uncommitted values rather than failing to read the values.",
     },
