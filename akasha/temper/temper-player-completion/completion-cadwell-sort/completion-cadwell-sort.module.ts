@@ -6,6 +6,7 @@ export const completionCadwellSort = {
   slug: "completion-cadwell-sort",
   definition: "Cadwell's Almanac sorted into the order the game shows it in",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
