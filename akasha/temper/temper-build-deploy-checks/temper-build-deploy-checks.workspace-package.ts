@@ -34,6 +34,10 @@ export const temperBuildDeployChecks = {
     "module/addon-banned-symbols",
     "module/addon-removed-refs-manifest",
     "module/addon-removed-refs",
+    "module/eso-sandbox-globals",
+    "module/addon-sandbox-load",
+    "module/check-addon-sandbox-safety",
+    "module/check-addon-removed-refs",
   ],
   invariants: [
     {
