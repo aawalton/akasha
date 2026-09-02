@@ -26,7 +26,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "Seven files are in already: the domain page, `panel-domains` and `work-initiatives`. Seventy-two more sit under `editor-extension/src`, 56 of them features and 12 seat, beside a manifest, a tsconfig and a generated folder. What escapes the package is 10 relative reaches into `tools/lib`, 3 into `readouts` and 6 `@akasha` statements; `vscode` and `zod` are npm and no bar. The 3 into `readouts` tie this to the markdown ablation, which goes first.",
+        "The escapes were counted as import statements and that undercounted them. Measured transitively at `cec44ee09a`, the extension program holds 197 files outside its folder: tools/ 116, akasha/ 35, page/ 35, repo/ 7, agent/ 2. Six relative reaches became `@tools/lib` names, which changed the spelling and not the program, since the wildcard resolves to raw `.ts`. The readouts reaches went with the values slot. Composite refuses on 60 of these.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
