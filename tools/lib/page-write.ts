@@ -7,7 +7,7 @@ import { attachmentKeysFor } from "./page-attachment-keys.ts"
 import { type FileTree } from "../../page/file-tree.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { rowsHoldingsFor } from "./page-property-types.ts"
-import { rowsFileOf } from "../../page/rows-file.ts"
+import { partNumberOf, rowsFileOf, rowsPartOf, rowsPartsOf } from "../../page/rows-file.ts"
 import { type Roots } from "@akasha/pages-system/markdown-page-at"
 import { landOne } from "./page-write-commit.ts"
 import { patchedText, withId, withSeq } from "./page-write-compose.ts"
@@ -46,21 +46,39 @@ function rowsIn(path: string): number | null {
     .filter((one) => one.trim() !== "").length
 }
 
+export interface RowsPart {
+  readonly path: string
+  readonly at: string
+}
+
+/**
+ * Every file one property's rows are in, on disk and as the commit names it.
+ *
+ * A property whose rows outgrow the part ceiling is divided across `<key>.jsonl` and
+ * `<key>.partN.jsonl` beside the page, and `rowsPartsOf` is the one rule that says which files
+ * those are — the same rule the read path finds them by. Asking `rowsFileOf` alone named the
+ * first file only, so a removal left every part behind: the rows became unreachable and
+ * undeleted at once, while `rm` and `mv` both said a page's files had gone with it.
+ */
+export function rowsPartsFor(path: string, relPath: string): readonly RowsPart[] {
+  return rowsPartsOf(path).map((part) => ({
+    path: part,
+    at: rowsPartOf(relPath, partNumberOf(part)),
+  }))
+}
+
 function clearRows(tree: FileTree, pageType: string, at: Where): readonly Taken[] {
   const took: Taken[] = []
   for (const holding of rowsHoldingsFor(tree, pageType)) {
     const path = rowsFileOf(at.path, holding.key, holding.uncommitted)
-    const pages = exclusively(path, () => {
-      const stood = rowsIn(path)
-      rmSync(path, { force: true })
-      return stood
-    })
-    if (pages !== null) {
-      took.push({
-        at: rowsFileOf(at.relPath, holding.key, holding.uncommitted),
-        pageType: holding.target,
-        pages,
+    const relPath = rowsFileOf(at.relPath, holding.key, holding.uncommitted)
+    for (const part of rowsPartsFor(path, relPath)) {
+      const pages = exclusively(part.path, () => {
+        const stood = rowsIn(part.path)
+        rmSync(part.path, { force: true })
+        return stood
       })
+      if (pages !== null) took.push({ at: part.at, pageType: holding.target, pages })
     }
   }
   return took

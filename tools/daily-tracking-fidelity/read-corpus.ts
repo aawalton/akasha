@@ -3,6 +3,7 @@ import { join } from "node:path"
 import { parse as parseYaml } from "yaml"
 import { entriesIn } from "../../akasha/pages-system/page/page-entries/page-entries.module.code.ts"
 import { besideAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { rowsPartsOf } from "../../page/rows-file.ts"
 import { kebabizeKey } from "../lib/tracking/keys.ts"
 import type { Kind } from "./ledger.ts"
 
@@ -212,45 +213,68 @@ export async function readAkashaPageCorpus(root: string): Promise<Corpus> {
           continue
         }
         spokenFor.add(beside)
-        let text: string
-        try {
-          text = readFileSync(beside, "utf8")
-        } catch {
+        /**
+         * Every file the property's rows are in, the divided ones included.
+         *
+         * Rows past the part ceiling are written to `<key>.partN.jsonl` beside `<key>.jsonl`, and
+         * `rowsPartsOf` is the one rule that says which files those are — the same rule the query
+         * engine finds them by. Asking `besideAt` alone named the first file only, so every part
+         * went unread AND was then reported below as rows no page states, which refuses the whole
+         * landing over a file the page does state.
+         */
+        const parts = rowsPartsOf(beside)
+        if (parts.length === 0) {
           corpus.faults.push({
             locator: beside,
             reason: `named by the page beside it and no file is there, so what it carries is unknown rather than nothing`,
           })
           continue
         }
-        const read = entriesIn(beside, text)
-        if ("refused" in read) {
-          corpus.faults.push({ locator: beside, reason: read.refused })
-          continue
-        }
         const sink = kind === "session" ? corpus.sessions : corpus.tasks
-        read.entries.forEach((row, index) => {
-          sink.push({
-            kind,
-            day,
-            ordinal: index,
-            locator: `${beside}#${index + 1}`,
-            /**
-             * A row beside an akasha page is camel-keyed, so it is turned kebab here.
-             *
-             * `akasha write` judges each row against the fields its entry property declares and
-             * reads a field by its slug written in camel, so `start-time` in the markdown sidecar
-             * is `startTime` here. The ledgers name every key kebab, which is the one spelling the
-             * two halves can be judged in, and it is the spelling `kebabisedRow` in
-             * tools/lib/akasha-page-values.ts gives the query engine for the same reason.
-             */
-            fields: new Map(
-              Object.entries(row as Record<string, unknown>).map(([key, held]) => [
-                kebabizeKey(key),
-                held,
-              ])
-            ),
+        let ordinal = 0
+        for (const part of parts) {
+          spokenFor.add(part)
+          let text: string
+          try {
+            text = readFileSync(part, "utf8")
+          } catch {
+            corpus.faults.push({
+              locator: part,
+              reason: `named by the page beside it and no file is there, so what it carries is unknown rather than nothing`,
+            })
+            continue
+          }
+          const read = entriesIn(part, text)
+          if ("refused" in read) {
+            corpus.faults.push({ locator: part, reason: read.refused })
+            continue
+          }
+          read.entries.forEach((row, index) => {
+            const at = ordinal
+            ordinal += 1
+            sink.push({
+              kind,
+              day,
+              ordinal: at,
+              locator: `${part}#${index + 1}`,
+              /**
+               * A row beside an akasha page is camel-keyed, so it is turned kebab here.
+               *
+               * `akasha write` judges each row against the fields its entry property declares and
+               * reads a field by its slug written in camel, so `start-time` in the markdown
+               * sidecar is `startTime` here. The ledgers name every key kebab, which is the one
+               * spelling the two halves can be judged in, and it is the spelling `kebabisedRow`
+               * in tools/lib/akasha-page-values.ts gives the query engine for the same reason.
+               */
+              fields: new Map(
+                Object.entries(row as Record<string, unknown>).map(([key, held]) => [
+                  kebabizeKey(key),
+                  held,
+                ])
+              ),
+            })
           })
-        })
+        }
       }
     }
   }

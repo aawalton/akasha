@@ -1,25 +1,35 @@
 import { asPage, type Page } from "@akasha/temper-addon-generators/addon-data-page"
 import { askComposed } from "./pages-bridge.ts"
-import { z } from "zod"
+import { rowsNamingOf } from "../../../page/rows-file.ts"
 
 type Values = Readonly<Record<string, unknown>>
 
 const SLUG_SUFFIX = "-slug"
 
-const SIDECAR = /\/([^/]+)\.([a-z-]+)\.jsonl#(\d+)$/
-
-const SIDECAR_CAPTURE = z.tuple([z.string(), z.string(), z.string(), z.string().regex(/^\d+$/)])
+// A row's locator is the rows file it sits in and its line, as `<repo>:<path>#<index>`.
+const LOCATOR = /^(.+)#(\d+)$/
 
 interface SidecarAt {
-  readonly named: string
   readonly key: string
+  readonly part: number
   readonly at: number
 }
 
+/**
+ * Which property a row belongs to, and where in that property it sits.
+ *
+ * The rows of one property may be divided across `<page>.<key>.jsonl` and `<key>.partN.jsonl`
+ * beside it, so the property a row belongs to is read by `rowsNamingOf`, which is the same rule
+ * `rowsPartsOf` finds the files by. Spelling the name here instead is how a part came to be
+ * skipped: a hand-written `[a-z-]+` cannot match `part10`, so every row past the first file was
+ * answered `null` and dropped without a word.
+ */
 function parseSidecarAt(at: string): SidecarAt | null {
-  const captured = SIDECAR_CAPTURE.safeParse(SIDECAR.exec(at))
-  if (!captured.success) return null
-  return { named: captured.data[1], key: captured.data[2], at: Number(captured.data[3]) }
+  const split = LOCATOR.exec(at)
+  if (split === null) return null
+  const naming = rowsNamingOf(split[1] as string)
+  if (naming === null) return null
+  return { key: naming.key, part: naming.part, at: Number(split[2]) }
 }
 
 function numberOf(value: unknown): number | null {
@@ -33,16 +43,52 @@ function textOf(value: unknown): string | null {
   return typeof value === "string" && value !== "" ? value : null
 }
 
-function ownerOf(values: Values): string | null {
+/**
+ * A field read under either spelling the two halves of the corpus give it.
+ *
+ * A markdown row states `effect-type` and `effect-value`; the same row recreated beside an akasha
+ * page states `type` and `value`, which the reader kebabs to the same pair of words. Both are
+ * asked for so neither half comes back null, and `tools/addon-data-proof.ts` names the same
+ * translation for the same reason.
+ */
+function eitherOf(values: Values, keys: readonly string[]): unknown {
+  for (const key of keys) {
+    const held = values[key]
+    if (held !== undefined && held !== null) return held
+  }
+  return null
+}
+
+const EFFECT_TYPE: readonly string[] = ["effect-type", "type"]
+
+const EFFECT_VALUE: readonly string[] = ["effect-value", "value"]
+
+const EFFECT_SECONDS: readonly string[] = ["effect-seconds", "seconds"]
+
+interface Owner {
+  readonly pageType: string
+  readonly named: string
+}
+
+/**
+ * The page a row was read from beside, taken from the slug the reader writes into every row.
+ *
+ * `rowsPagesIn` puts `<page-type>-slug: <page name>` on each row, so both halves of the mark are
+ * there to be read. Taking the name off the file instead answered `sturdy.temper-armor-trait`
+ * where the catalog looks up `sturdy`, so no mark ever matched and every carried table came back
+ * empty.
+ */
+function ownerOf(values: Values): Owner | null {
   for (const [key, value] of Object.entries(values)) {
     if (key.endsWith(SLUG_SUFFIX) && typeof value === "string" && value !== "") {
-      return key.slice(0, -SLUG_SUFFIX.length)
+      return { pageType: key.slice(0, -SLUG_SUFFIX.length), named: value }
     }
   }
   return null
 }
 
-interface Held {
+export interface Held {
+  readonly part: number
   readonly at: number
   readonly values: Values
 }
@@ -53,20 +99,44 @@ function markOf(pageType: string, named: string, key: string): string {
   return `${pageType} ${named} ${key}`
 }
 
-async function readOne(pageType: string, into: Map<string, Held[]>): Promise<void> {
-  const asked = await askComposed({ "page-type": pageType })
-  if (!asked.ok) throw new Error(`catalog sidecars: ${pageType} went unread — ${asked.why}`)
-  for (const row of asked.answer.rows) {
+export interface SidecarRow {
+  readonly at?: string | null
+  readonly values: Values
+}
+
+/** Each row filed under the page and property it belongs to, whichever part it was read from. */
+export function gatherSidecars(rows: Iterable<SidecarRow>, into: Map<string, Held[]>): void {
+  for (const row of rows) {
     const owner = ownerOf(row.values)
     const found = parseSidecarAt(row.at ?? "")
     if (owner === null || found === null) continue
-    const mark = markOf(owner, found.named, found.key)
+    const mark = markOf(owner.pageType, owner.named, found.key)
     const held = into.get(mark) ?? []
-    held.push({ at: found.at, values: row.values })
+    held.push({ part: found.part, at: found.at, values: row.values })
     into.set(mark, held)
   }
 }
 
+/** Every row of one page type put in order under the page that carries it. */
+export function orderSidecars(held: Map<string, Held[]>): Sidecars {
+  for (const one of held.values()) one.sort((a, b) => a.part - b.part || a.at - b.at)
+  return held
+}
+
+async function readOne(pageType: string, into: Map<string, Held[]>): Promise<void> {
+  const asked = await askComposed({ "page-type": pageType })
+  if (!asked.ok) throw new Error(`catalog sidecars: ${pageType} went unread — ${asked.why}`)
+  gatherSidecars(asked.answer.rows, into)
+}
+
+/**
+ * Every row a page carries, in the order the page carries it.
+ *
+ * A divided property numbers its lines from zero again in each part, so the line alone is no
+ * order — part 2 line 0 follows part 1's last line and does not precede it. The part leads the
+ * comparison for that reason, and an undivided property is part 1 throughout, so nothing changes
+ * for one.
+ */
 export async function readCatalogSidecars(): Promise<Sidecars> {
   const held = new Map<string, Held[]>()
   await Promise.all(
@@ -74,8 +144,7 @@ export async function readCatalogSidecars(): Promise<Sidecars> {
       readOne(one, held)
     )
   )
-  for (const one of held.values()) one.sort((a, b) => a.at - b.at)
-  return held
+  return orderSidecars(held)
 }
 
 type Shape =
@@ -87,9 +156,9 @@ type Shape =
   | "scripts"
 
 function effectOf(values: Values): unknown {
-  const seconds = numberOf(values["effect-seconds"])
-  const value = numberOf(values["effect-value"])
-  const effectType = textOf(values["effect-type"])
+  const seconds = numberOf(eitherOf(values, EFFECT_SECONDS))
+  const value = numberOf(eitherOf(values, EFFECT_VALUE))
+  const effectType = textOf(eitherOf(values, EFFECT_TYPE))
   return {
     metricId: textOf(values["metric-id"]),
     ...(effectType === null ? {} : { effectType }),
@@ -142,7 +211,7 @@ function scriptsOf(held: readonly Held[]): Record<string, unknown> {
 }
 
 function passiveOf(values: Values): unknown {
-  return { metricId: textOf(values["metric-id"]), value: numberOf(values["effect-value"]) }
+  return { metricId: textOf(values["metric-id"]), value: numberOf(eitherOf(values, EFFECT_VALUE)) }
 }
 
 function shaped(shape: Shape, held: readonly Held[]): unknown {
@@ -205,14 +274,15 @@ const CARRIED: Readonly<Record<string, readonly Carry[]>> = {
   ],
 }
 
-const NAMED_BY: Readonly<Record<string, string>> = {
-  "temper-buff-major": "buffId",
-  "temper-buff-minor": "buffId",
-  "temper-buff-other": "buffId",
-  "temper-debuff-major": "debuffId",
-  "temper-debuff-minor": "debuffId",
-  "temper-debuff-other": "buffId",
-}
+/**
+ * The property a catalog page is named by, for the mark its rows were filed under.
+ *
+ * Every page of every carried type states `key`, and the rows beside it are filed under that same
+ * name, so one property answers for all of them. Six buff and debuff types were held to `buffId`
+ * and `debuffId` instead; no page of those 77 carries either, so the name read back `null` and
+ * their effects were dropped before any mark was looked up.
+ */
+const NAMED_BY = "key"
 
 const EMPTY: Readonly<Record<Shape, unknown>> = {
   effects: [],
@@ -230,9 +300,8 @@ export function withSidecars(
 ): readonly Page[] {
   const carries = CARRIED[pageTypeSlug]
   if (carries === undefined) return rows
-  const namedBy = NAMED_BY[pageTypeSlug] ?? "key"
   return rows.map((row) => {
-    const named = textOf(row[namedBy])
+    const named = textOf(row[NAMED_BY])
     if (named === null) return row
     const out: Record<string, unknown> = { ...row }
     for (const carry of carries) {
