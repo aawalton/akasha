@@ -1,9 +1,9 @@
 import type { Finding } from "../finding.page-type.ts"
 
-export const gettingADebugLoggerIsWrittenFourWaysInAkasha = {
+export const elevenSitesReachADebugLoggerAndTwoManifestKindsExplainThem = {
   id: "01a06160-cddc-7437-a457-6451d9700cd8",
   pageTypeSlug: "finding",
-  slug: "getting-a-debug-logger-is-written-four-ways-in-akasha",
+  slug: "eleven-sites-reach-a-debug-logger-and-two-manifest-kinds-explain-them",
   domainSlug: "domain/temper",
   claim:
     "Four akasha packages each spell out their own way to reach a `DebugLogger` or fail. `temper-lib-map-ping/map-ping-lib` and `temper-lib-gps/gps-lib-state` hold `createLogger` bodies that match byte for byte. `temper-lost-treasure/lost-treasure-logger` names the same rule `requireLibDebugLogger`. `temper-lib-async/async-state` writes it inline and yields undefined rather than failing. `no-rule-in-two-files` refuses the matching pair and misses the other two.",
