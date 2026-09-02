@@ -11,10 +11,10 @@ import {
   toCharacterVisibility,
 } from "@akasha/temper-character-build/build-types"
 import type { Skill } from "@akasha/temper-character-skills/character-skills"
+import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useCharacter as useCharacterZero } from "@temper/game-characters-character-ui/use-characters"
-import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
 import { createContext, type ReactNode, useCallback, useReducer } from "react"
 import { useBuildSync } from "@/hooks/use-build-sync"
 import type { CharacterAction } from "./character-actions"
