@@ -16,8 +16,8 @@ import {
   testflightPoll,
   wwwBuild,
 } from "./mobile-code.ts"
+import type { CutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
 import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
-import type { CutFingerprint } from "@alanwalton/mobile-cli/lib/cut-fingerprint"
 
 function elapsedSince(from: number): string {
   const seconds = Math.round((Date.now() - from) / 1000)

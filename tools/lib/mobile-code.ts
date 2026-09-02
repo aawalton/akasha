@@ -2,6 +2,7 @@ import * as altoolModule from "@akasha/mobile-cli/altool"
 import * as ascClientModule from "@akasha/mobile-cli/asc-client"
 import * as buildInputsModule from "@akasha/mobile-cli/build-input-sources"
 import * as buildStampModule from "@akasha/mobile-cli/build-stamp-gate"
+import * as cutFingerprintModule from "@akasha/mobile-cli/cut-fingerprint"
 import * as foundationModule from "@akasha/mobile-cli/foundation"
 import * as gitTreeHashModule from "@akasha/mobile-cli/git-tree-hash"
 import * as localCutLockModule from "@akasha/mobile-cli/local-cut-lock"
@@ -12,8 +13,6 @@ import * as sshModule from "@akasha/mobile-cli/mobile-ssh"
 import * as deployScriptModule from "@akasha/mobile-cli/testflight-deploy-script"
 import * as testflightPollModule from "@akasha/mobile-cli/testflight-poll"
 import * as wwwBuildModule from "@akasha/mobile-cli/www-build"
-import * as cutFingerprintModule from "../../alanwalton/mobile-cli/src/lib/cut-fingerprint.ts"
-
 
 export type Altool = typeof altoolModule
 export type Apps = typeof appsModule

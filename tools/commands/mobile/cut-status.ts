@@ -6,7 +6,7 @@ import { codeRoot } from "../../lib/code-root.ts"
 import { APP_FLAG } from "../../lib/mobile-vocabulary.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { apps, buildInputs, cutFingerprints, gitTreeHash } from "../../lib/mobile-code.ts"
-import type { CurrentTreeState } from "@alanwalton/mobile-cli/lib/cut-fingerprint"
+import type { CurrentTreeState } from "@akasha/mobile-cli/cut-fingerprint"
 
 export const help: CommandHelp = {
   flags: [
