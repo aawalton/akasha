@@ -1,10 +1,15 @@
 import { expect, test } from "bun:test"
+import { mkdtempSync, rmSync, statSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import {
   isStableRun,
   looksStructurallyComplete,
+  matchesSnapshot,
   readFileWhenStable,
   type StatSnapshot,
 } from "./watcher-stable-read.module.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
 
 const SETTLED: StatSnapshot = { size: 10, mtimeMs: 100 }
 
@@ -73,6 +78,25 @@ test("a settled file is read and answered with its snapshot", async () => {
   const read = await readFileWhenStable("/game/x.lua", { stablePolls: 3 }, f.deps)
   expect(read?.content).toBe("{ ok = true }")
   expect(read?.snapshot).toEqual(SETTLED)
+})
+
+test("a file unchanged since it was looked at matches the look", () => {
+  const dir = mkdtempSync(join(SCRATCH_AT, "akasha-watcher-stable-read-"))
+  try {
+    const path = join(dir, "TemperSales.lua")
+    writeFileSync(path, "TemperSales = { }")
+    const stat = statSync(path)
+    const snapshot: StatSnapshot = { size: stat.size, mtimeMs: stat.mtimeMs }
+    expect(matchesSnapshot(path, snapshot)).toBe(true)
+    writeFileSync(path, "TemperSales = { [1] = 1 }")
+    expect(matchesSnapshot(path, snapshot)).toBe(false)
+  } finally {
+    rmSync(dir, { recursive: true, force: true })
+  }
+})
+
+test("a file that is not there matches no look", () => {
+  expect(matchesSnapshot("/nowhere/at/all/TemperSales.lua", { size: 1, mtimeMs: 1 })).toBe(false)
 })
 
 test("a file that changed between the settled look and the read is looked at afresh", async () => {
