@@ -125,6 +125,18 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A readout whose page stills the readout is left out rather than answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout whose page states nothing about being stilled is answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a readout is stilled is read off the row rather than asked of the store.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A scale the store withholds leaves its readout out rather than colored.",
     },
     {

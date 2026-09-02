@@ -327,3 +327,54 @@ test("nothing between here and the tile is allowed to keep an answer", async () 
   dropRelayed()
   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
 })
+
+const OTHER = "another-readout-named-only-in-this-test"
+
+const OTHER_ROW = {
+  slug: OTHER,
+  label: "Surplus",
+  place: 2,
+  scaleSlug: SCALE,
+  wireKey: "surplus",
+  groupSlugs: [GROUP],
+}
+
+async function keysDrawn(): Promise<readonly (string | undefined)[]> {
+  return (await stoplights()).map((one) => one.habit)
+}
+
+test("a readout whose page stills the readout is left out rather than answered", async () => {
+  relayedFor(READOUT, 3)
+  relayedFor(OTHER, 3)
+  ANSWERED.readouts = [READOUT_ROW, { ...OTHER_ROW, enabled: false }]
+  expect(await keysDrawn()).toEqual(["safety"])
+})
+
+test("a readout whose page states nothing about being stilled is answered", async () => {
+  relayedFor(READOUT, 3)
+  relayedFor(OTHER, 3)
+  ANSWERED.readouts = [READOUT_ROW, OTHER_ROW]
+  expect(await keysDrawn()).toEqual(["safety", "surplus"])
+})
+
+test("a readout stilled and then stilled no longer is answered again", async () => {
+  relayedFor(READOUT, 3)
+  relayedFor(OTHER, 3)
+  ANSWERED.readouts = [READOUT_ROW, { ...OTHER_ROW, enabled: false }]
+  expect(await keysDrawn()).toEqual(["safety"])
+  ANSWERED.readouts = [READOUT_ROW, { ...OTHER_ROW, enabled: true }]
+  expect(await keysDrawn()).toEqual(["safety", "surplus"])
+})
+
+test("a stilled readout keeps its place for the readouts left beside it", async () => {
+  relayedFor(READOUT, 3)
+  relayedFor(OTHER, 3)
+  ANSWERED.readouts = [{ ...READOUT_ROW, enabled: false }, OTHER_ROW]
+  expect(await keysDrawn()).toEqual(["surplus"])
+})
+
+test("a group every readout of which is stilled is answered as no reading", async () => {
+  relayedFor(READOUT, 3)
+  ANSWERED.readouts = [{ ...READOUT_ROW, enabled: false }]
+  expect((await drawn()).status).toBe(503)
+})

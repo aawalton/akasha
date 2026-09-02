@@ -100,6 +100,10 @@ export async function stoplightOf(
   }
 }
 
+export function stilled(row: Values): boolean {
+  return row.enabled === false
+}
+
 export async function stoplightsInGroup(
   groupSlug: string,
   wireKeyName: string = HABIT,
@@ -113,6 +117,7 @@ export async function stoplightsInGroup(
 
   const stoplights: Stoplight[] = []
   for (const row of inPlaceOrder(asked.rows)) {
+    if (stilled(row)) continue
     const one = await stoplightOf(row, wireKeyName, readingHeld)
     if (one !== null) stoplights.push(one)
   }
