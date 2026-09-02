@@ -2,11 +2,20 @@ import { basename, resolve } from "node:path"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { alsoIn, commandIn, entryIn, namedIn, RESTART_EXIT } from "./lib/service-wrapper/command.ts"
 import { digestOf, followFiles } from "./lib/service-wrapper/following.ts"
-import { localClosure, REACHED_CEILING } from "./lib/service-wrapper/local-closure.ts"
+import { type Closure, localClosure, REACHED_CEILING } from "./lib/service-wrapper/local-closure.ts"
 
 const KILL_CEILING_MS = 10_000
 
 const REFUSED_EXIT = 2
+
+const CODE_FILE = /\.(ts|tsx|mts|cts)$/
+
+// A code file saved half-written does not parse, so what it imports cannot be followed and the
+// child dies at module load rather than on anything it read. That death is not the service giving
+// up, so a code file that does not parse is waited on. What still does not parse past the ceiling
+// is run on exactly as it stands, so giving up goes on saying what it says.
+const PARSE_CEILING_MS = 60_000
+const PARSE_POLL_MS = 1_000
 
 function matching(at: string, globs: readonly string[]): ReadonlySet<string> {
   const found = new Set<string>()
@@ -38,7 +47,30 @@ const says = `[wrapper ${basename(entryRel, ".ts")}]`
 const under = (at: string): string => at.replace(`${root}/`, "")
 
 const own = localClosure(resolve(root, "tools/service-wrapper.ts"), root)
-const service = localClosure(resolve(root, entryRel), root)
+const entry = resolve(root, entryRel)
+
+const unparsedIn = (closure: Closure): readonly string[] =>
+  closure.unscanned.filter((at) => CODE_FILE.test(at))
+
+let service = localClosure(entry, root)
+let unparsed = unparsedIn(service)
+
+if (unparsed.length > 0) {
+  const waitedOn = namedIn(unparsed, root)
+  const seconds = PARSE_CEILING_MS / 1_000
+  console.error(`${says} ${waitedOn} does not parse, so it is waited on for up to ${seconds}s`)
+  const until = Date.now() + PARSE_CEILING_MS
+  while (unparsed.length > 0 && Date.now() < until) {
+    await Bun.sleep(PARSE_POLL_MS)
+    service = localClosure(entry, root)
+    unparsed = unparsedIn(service)
+  }
+  console.error(
+    unparsed.length === 0
+      ? `${says} ${waitedOn} parses now, so what it imports is followed`
+      : `${says} ${waitedOn} still does not parse, so it is run on as it stands`
+  )
+}
 
 for (const at of service.unscanned) {
   console.error(`${says} ${under(at)} could not be scanned, so what it imports is not followed`)
