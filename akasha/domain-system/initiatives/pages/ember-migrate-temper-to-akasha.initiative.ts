@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "A content census inverted my name census: of 19 modules 11 crossed — renamed, inlined, moved package, or turned into a pages-system property type — 4 partly, 3 absent, fixtures dead. Three seats work the absent bucket: category tree, summary orchestrator, picker spine. Ruling: progress totals come from the static picker catalog at any depth, not from the saved-data record. The 13 generated files are residue, with no writer and no outside importer.",
+        "The absent bucket is closed: category tree, summary orchestrator and picker spine landed as completion-category-tree, completion-summary and completion-item-picker, each a page beside its code, and temper-player-completion holds 77 modules with no empty folder among them. Progress totals come from the static picker catalog at any depth rather than the saved-data record. The 13 generated files are residue, with no writer and no outside importer.",
     },
     {
       statement: "No part of temper is outside akasha.",
