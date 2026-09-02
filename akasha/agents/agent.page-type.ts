@@ -58,9 +58,5 @@ export const agent = {
       invariantKind: "departure",
       statement: "An agent drafts into one patch rather than into a patch for each change.",
     },
-    {
-      invariantKind: "gap",
-      statement: "An agent states the agent id the agent acts under.",
-    },
   ],
 } as const satisfies PageType

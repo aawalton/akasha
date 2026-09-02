@@ -7,7 +7,6 @@ export const dallaDraftIntoAPatch = {
   domainSlug: "domain/change",
   personaSlug: "dalla",
   intents: [
-    { statement: "A subagent states the agent id it runs under." },
     {
       statement: "A drafted change is worked into the agent's patch and rebased onto main.",
       workingMemory:
