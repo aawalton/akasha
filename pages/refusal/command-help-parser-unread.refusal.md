@@ -1,5 +1,5 @@
 ---
-id: 01a06122-d3ef-7edd-bdf2-e77b4c41e92b
+id: c290df61-98e5-5a8c-ba58-31a09479c521
 slug: command-help-parser-unread
 page-type-slug: refusal
 title: "Command help parser unread"
