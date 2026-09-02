@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@akasha/temper-character-sources": "workspace:*",
+    "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*"
   }
 }
