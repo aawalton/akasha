@@ -62,23 +62,27 @@ export function namedIn(path: string): Named | null {
   return { stem, tail: last, held: said.held }
 }
 
+function onlyIn(said: Parted): string | undefined {
+  return said.sections.length === 1 ? said.sections[0] : undefined
+}
+
+function pageIn(said: Parted, pageTypes: ReadonlySet<string>): boolean {
+  return said.sections.length === 0 && said.held === HELD_TS && pageTypes.has(said.pageType)
+}
+
 export function pageNamed(path: string, pageTypes: ReadonlySet<string>): boolean {
-  const said = namedIn(path)
-  return (
-    said !== null &&
-    said.held === HELD_TS &&
-    said.tail !== UNCOMMITTED &&
-    said.tail !== SOPS &&
-    pageTypes.has(said.tail)
-  )
+  const said = partedIn(path)
+  return said !== null && pageIn(said, pageTypes)
 }
 
 export function uncommittedNamed(path: string): boolean {
-  return namedIn(path)?.tail === UNCOMMITTED
+  const said = partedIn(path)
+  return said !== null && onlyIn(said) === UNCOMMITTED
 }
 
 export function secretNamed(path: string): boolean {
-  return namedIn(path)?.tail === SOPS
+  const said = partedIn(path)
+  return said !== null && onlyIn(said) === SOPS
 }
 
 export function besideAt(path: string, propertySlug: string, held: string): string | null {
@@ -106,14 +110,14 @@ export function heldIn(
   const said = partedIn(path)
   if (said === null) return strayAt(path)
   const page = `${said.slug}.${said.pageType}`
-  const only = said.sections.length === 1 ? said.sections[0] : undefined
+  const only = onlyIn(said)
   if (only === UNCOMMITTED) {
     return { path, kind: "uncommitted", slug: null, pageTypeSlug: null, page, propertySlug: null }
   }
   if (only === SOPS) {
     return { path, kind: "secret", slug: null, pageTypeSlug: null, page, propertySlug: null }
   }
-  if (said.sections.length === 0 && said.held === HELD_TS && pageTypes.has(said.pageType)) {
+  if (pageIn(said, pageTypes)) {
     return {
       path,
       kind: "page",

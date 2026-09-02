@@ -167,7 +167,9 @@ test("the tail `uncommitted` is reserved, so the sets handed in cannot make it a
   )
   expect(held.kind).toBe("uncommitted")
   expect(held.propertySlug).toBeNull()
-  expect(pageNamed("akasha/one/held.uncommitted.ts", new Set(["uncommitted"]))).toBe(false)
+  expect(pageNamed("akasha/one/file-length.check.uncommitted.ts", new Set(["uncommitted"]))).toBe(
+    false
+  )
 })
 
 test("an uncommitted file stands beside its page, and heldIn takes that name apart again", () => {
@@ -207,7 +209,7 @@ test("the tail `sops` is reserved, so the sets handed in cannot make it a proper
   )
   expect(held.kind).toBe("secret")
   expect(held.propertySlug).toBeNull()
-  expect(pageNamed("akasha/one/held.sops.ts", new Set(["sops"]))).toBe(false)
+  expect(pageNamed("akasha/one/aine.claude-account.sops.ts", new Set(["sops"]))).toBe(false)
 })
 
 test("a sops file stands beside its page, and heldIn takes that name apart again", () => {
@@ -305,4 +307,35 @@ test("a page type nothing knows still holds a property, an uncommitted file and 
   expect(kindOf("akasha/one/dalla.seat.uncommitted.ts")).toBe("uncommitted")
   expect(kindOf("akasha/one/dalla.seat.sops.yaml")).toBe("secret")
   expect(kindOf("akasha/one/dalla.seat.ts")).toBe("stray")
+})
+
+function agreeing(path: string, pageTypes: ReadonlySet<string> = PAGE_TYPES): undefined {
+  const kind = heldIn(path, pageTypes, FILE_PROPERTIES).kind
+  expect(pageNamed(path, pageTypes)).toBe(kind === "page")
+  expect(uncommittedNamed(path)).toBe(kind === "uncommitted")
+  expect(secretNamed(path)).toBe(kind === "secret")
+}
+
+test("what heldIn answers of a name is what each predicate answers of that name", () => {
+  agreeing("akasha/one/file-length.check.ts")
+  agreeing("akasha/one/file-length.check.uncommitted.ts")
+  agreeing("akasha/one/aine.claude-account.sops.yaml")
+  agreeing("akasha/one/file-length.check.code.ts")
+  agreeing("akasha/one/dalla.seat.patch.uncommitted.patch")
+  agreeing("akasha/one/held.uncommitted.ts")
+  agreeing("akasha/one/held.uncommitted.ts", new Set(["uncommitted"]))
+  agreeing("akasha/one/held.sops.yaml")
+  agreeing("akasha/one/notes.txt")
+})
+
+test("a reserved word in the page type slot names a page type rather than a file beside a page", () => {
+  expect(uncommittedNamed("akasha/one/held.uncommitted.ts")).toBe(false)
+  expect(secretNamed("akasha/one/held.sops.yaml")).toBe(false)
+})
+
+test("a values sidecar carries the one section, so a second section is no values sidecar", () => {
+  expect(uncommittedNamed("akasha/one/dalla.seat.uncommitted.ts")).toBe(true)
+  expect(secretNamed("akasha/one/dalla.seat.sops.yaml")).toBe(true)
+  expect(uncommittedNamed("akasha/one/dalla.seat.patch.uncommitted.patch")).toBe(false)
+  expect(secretNamed("akasha/one/dalla.seat.patch.sops.yaml")).toBe(false)
 })
