@@ -36,7 +36,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "The stoplights answer: 41 personas, 6 values, in declared order. What blocked them was `readouts/ask-here.ts` throwing for every slug — severed with the HTTP client, it took the checkout engine down with it. It routes now, asking the checkout first and carrying only a 503 UNREACHED on to the service. That is a bridge, not the destination: it adds a reach. Alan's keep arm forbids moving `value` and `persona-day`, so closing this needs the service to serve markdown-backed types.",
+        "The stoplights answer: 41 personas, 6 values, in declared order. What blocked them was `readouts/ask-here.ts` throwing for every slug — severed with the HTTP client, it took the checkout engine down too. It routes now: checkout first, only a 503 UNREACHED carried to the service. That is a bridge, adding a reach. No record names `value` or `persona-day`; the arm is cut the dependency, migrate no page types, remove no old pages. Closing this needs the service to serve markdown-backed types.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
