@@ -92,6 +92,15 @@ export function refusalFor(relPath: string): string {
  * it says then is that the deleted module is still there. That is why this is
  * quiet against a whole tree of mirrors and loud against the few that outlived
  * what they mirrored.
+ *
+ * The population counts what was walked rather than what was found. Counting
+ * the gitignored ones read naturally and was wrong: this audit's subject is the
+ * hazard itself, so an empty subject is the safest tree there is, and
+ * `certified` turns a pass over nothing into a refusal. That made the audit
+ * refuse a tree with no emitted declarations at all and go quiet again the
+ * moment somebody emitted one, which rewards the thing it exists to catch. What
+ * `certified` asks is whether a verdict came out of a walk, and the walk is over
+ * every declaration outside `dist/`, emitted or hand-written.
  */
 export const declarationsOrphaned: Check = (repo) => {
   const root = rootFor(repo.roots, AKASHA)
@@ -112,6 +121,6 @@ export const declarationsOrphaned: Check = (repo) => {
         `there, ${orphaned.length} of them outliving the source they were emitted from`,
       orphaned.map((relPath) => refusalFor(relPath))
     ),
-    population: over(judged.length, "gitignored declaration(s) outside dist/"),
+    population: over(standing.length, "declaration(s) walked outside dist/"),
   }
 }
