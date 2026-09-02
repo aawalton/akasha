@@ -1,0 +1,35 @@
+{
+  "name": "@akasha/temper-housing-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./housing-addon-names": "./housing-addon-names/housing-addon-names.module.code.ts",
+    "./housing-build-casts": "./housing-build-casts/housing-build-casts.module.code.ts",
+    "./housing-constants": "./housing-constants/housing-constants.module.code.ts",
+    "./housing-declarations": "./housing-declarations/housing-declarations.module.code.ts",
+    "./housing-holder-types": "./housing-holder-types/housing-holder-types.module.code.ts",
+    "./housing-house-names": "./housing-house-names/housing-house-names.module.code.ts",
+    "./housing-library-data-eu": "./housing-library-data-eu/housing-library-data-eu.module.code.ts",
+    "./housing-library-data-eu-1": "./housing-library-data-eu-1/housing-library-data-eu-1.module.code.ts",
+    "./housing-library-data-eu-2": "./housing-library-data-eu-2/housing-library-data-eu-2.module.code.ts",
+    "./housing-library-data-eu-3": "./housing-library-data-eu-3/housing-library-data-eu-3.module.code.ts",
+    "./housing-library-data-eu-4": "./housing-library-data-eu-4/housing-library-data-eu-4.module.code.ts",
+    "./housing-library-data-eu-5": "./housing-library-data-eu-5/housing-library-data-eu-5.module.code.ts",
+    "./housing-library-data-eu-6": "./housing-library-data-eu-6/housing-library-data-eu-6.module.code.ts",
+    "./housing-library-data-na": "./housing-library-data-na/housing-library-data-na.module.code.ts",
+    "./housing-menu-state": "./housing-menu-state/housing-menu-state.module.code.ts",
+    "./housing-publish": "./housing-publish/housing-publish.module.code.ts",
+    "./housing-state": "./housing-state/housing-state.module.code.ts",
+    "./housing-state-types": "./housing-state-types/housing-state-types.module.code.ts",
+    "./housing-types": "./housing-types/housing-types.module.code.ts",
+    "./housing-visit-cards-view": "./housing-visit-cards-view/housing-visit-cards-view.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-lib-custom-menu": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
