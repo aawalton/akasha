@@ -1,11 +1,17 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import { KNOWN_OPTIONS } from "@akasha/temper-items-rules-core/known-filter"
+import { RECONSTRUCTED_OPTIONS } from "@akasha/temper-items-rules-core/reconstructed-filter"
+import { TRANSMUTED_OPTIONS } from "@akasha/temper-items-rules-core/transmuted-filter"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { KNOWN_OPTIONS } from "@temper/game-items-rules-core/filters/known-filter"
-import { RECONSTRUCTED_OPTIONS } from "@temper/game-items-rules-core/filters/reconstructed-filter"
-import { TRANSMUTED_OPTIONS } from "@temper/game-items-rules-core/filters/transmuted-filter"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "./use-rule-card"
 
