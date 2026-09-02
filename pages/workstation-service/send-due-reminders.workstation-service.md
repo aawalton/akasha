@@ -3,7 +3,7 @@ id: 48b5c0c9-5bd5-5513-8bff-690d8b44cea6
 page-type-slug: workstation-service
 title: "Send due reminders"
 slug: send-due-reminders
-domain-parent-slug: page-type/reminder
+domain-parent-slug: page-type/workstation-service
 required-reading-slugs:
   - page-type/workstation-service
 runs:

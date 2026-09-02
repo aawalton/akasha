@@ -24,7 +24,6 @@ required-reading-slugs:
   - domain/file-structure
   - command/read
   - command/search
-  - old-ops-command/ops-reminder-set
 ---
 
 # Definition
