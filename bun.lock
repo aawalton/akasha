@@ -1314,11 +1314,18 @@
     "akasha/temper/temper-items-rules-matcher": {
       "name": "@akasha/temper-items-rules-matcher",
       "dependencies": {
+        "@akasha/temper-alchemy": "workspace:*",
+        "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-skill-morphs-access": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
+        "@temper/game-codec": "workspace:*",
+        "fast-check": "^4.5.3",
       },
     },
     "akasha/temper/temper-items-rules-routing": {
@@ -3305,23 +3312,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/shared-addon-libraries-lib-character-knowledge": {
-      "name": "@temper/shared-addon-libraries-lib-character-knowledge",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-addon-libraries-lib-extended-journal": {
-      "name": "@temper/shared-addon-libraries-lib-extended-journal",
-      "version": "0.1.0",
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/shared-addon-libraries-lib-scrollable-menu": {
       "name": "@temper/shared-addon-libraries-lib-scrollable-menu",
       "version": "0.1.0",
@@ -4671,10 +4661,6 @@
     "@temper/shared-addon-libraries-lib-addon-menu": ["@temper/shared-addon-libraries-lib-addon-menu@workspace:temper/shared-addon-libraries-lib-addon-menu"],
 
     "@temper/shared-addon-libraries-lib-addon-menu-order-list-box": ["@temper/shared-addon-libraries-lib-addon-menu-order-list-box@workspace:temper/shared-addon-libraries-lib-addon-menu-order-list-box"],
-
-    "@temper/shared-addon-libraries-lib-character-knowledge": ["@temper/shared-addon-libraries-lib-character-knowledge@workspace:temper/shared-addon-libraries-lib-character-knowledge"],
-
-    "@temper/shared-addon-libraries-lib-extended-journal": ["@temper/shared-addon-libraries-lib-extended-journal@workspace:temper/shared-addon-libraries-lib-extended-journal"],
 
     "@temper/shared-addon-libraries-lib-scrollable-menu": ["@temper/shared-addon-libraries-lib-scrollable-menu@workspace:temper/shared-addon-libraries-lib-scrollable-menu"],
 

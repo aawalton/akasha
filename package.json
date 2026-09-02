@@ -88,8 +88,6 @@
     "temper/scripts",
     "temper/shared-addon-libraries-lib-addon-menu",
     "temper/shared-addon-libraries-lib-addon-menu-order-list-box",
-    "temper/shared-addon-libraries-lib-character-knowledge",
-    "temper/shared-addon-libraries-lib-extended-journal",
     "temper/shared-addon-libraries-lib-scrollable-menu",
     "temper/shared-addon-libraries-lib-sets",
     "temper/shared-addon-libraries-lib-sets-scripts",
