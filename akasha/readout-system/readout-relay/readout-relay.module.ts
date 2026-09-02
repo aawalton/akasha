@@ -87,6 +87,19 @@ export const readoutRelay = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A path naming no readout page is refused apart from a readout that has taken no reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path naming no readout page is said at the level a journal keeps for an error.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout that has taken no reading is said at no level of its own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading held is dropped only to prove that no reading is held.",
     },
     {
