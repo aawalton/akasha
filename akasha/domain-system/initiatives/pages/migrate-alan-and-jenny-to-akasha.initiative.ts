@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
       workingMemory:
-        "`akasha deploy <slug>` reaches all three, proven four times with `--no-upload`: builds 2, 22 and 200 stamped `b0587b0306`, 0 uploads. `0d75e4d030` gives it `--ref`, default HEAD. Before, `origin/main` was hardwired and the checkout unread; HEAD here runs 22 commits ahead, so those four exited 0 having built a tree nobody named. A changed worktree now refuses a call naming no commit. The upload reaches a phone and waits on Alan; the call not to move Apple's switches is at `797a2ef58f`.",
+        "`akasha deploy <slug>` reaches all three, proven four times with `--no-upload`: builds 2, 22 and 200 stamped `b0587b0306`, 0 uploads. `0d75e4d030` gives it `--ref`, default HEAD. Before, `origin/main` was hardwired and the checkout unread; HEAD here runs 22 commits ahead, so those four exited 0 having built a tree nobody named. A changed worktree now refuses a call naming no commit. Uploads are owed whenever an app or widget changes; Apple's own switches stay put, at `797a2ef58f`.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
