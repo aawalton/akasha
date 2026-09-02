@@ -1,5 +1,5 @@
 import { companions } from "@akasha/temper-companions-core/companions"
-import { loreLibraryData } from "@temper/game-completion/generated/lore-library-data.generated"
+import { LORE_LIBRARY_DATA as loreLibraryData } from "@akasha/temper-completion/lore-library-data"
 import { companionQuestData } from "./companion-quest-data"
 import {
   CADWELL_TOTAL_COUNT,

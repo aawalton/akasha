@@ -1,1 +1,1 @@
-export { loreLibraryData } from "@temper/game-completion/generated/lore-library-data.generated"
+export { LORE_LIBRARY_DATA as loreLibraryData } from "@akasha/temper-completion/lore-library-data"

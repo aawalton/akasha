@@ -1,5 +1,5 @@
 import type { AccountCompletion } from "@akasha/temper-completion/completion-record"
-import { loreLibraryData } from "@temper/game-completion/generated/lore-library-data.generated"
+import { LORE_LIBRARY_DATA as loreLibraryData } from "@akasha/temper-completion/lore-library-data"
 import { COMPANION_QUEST_DATA } from "@akasha/temper-player-completion/companion-quest-data"
 import {
   clampRapportProgress,

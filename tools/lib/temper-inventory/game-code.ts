@@ -1,3 +1,4 @@
+import { LORE_LIBRARY_DATA as loreLibraryDataSource } from "@akasha/temper-completion/lore-library-data"
 import { STYLE_TO_CHAPTERS } from "@akasha/temper-items-core/motif-chapter-set"
 import {
   ITEM_ACTION_VALUES,
@@ -7,7 +8,6 @@ import {
   RULE_CONSTANT_KEYS,
   type RuleConstantKey,
 } from "@akasha/temper-items-rules-core/rule-constants"
-import { loreLibraryData as loreLibraryDataSource } from "@temper/game-completion/generated/lore-library-data.generated"
 
 export { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
 export { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"

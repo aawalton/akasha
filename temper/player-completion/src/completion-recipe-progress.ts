@@ -1,5 +1,5 @@
 import type { RecipeList } from "@akasha/temper-completion/completion-progress"
-import { recipeData } from "@temper/game-completion/generated/recipe-data.generated"
+import { RECIPE_DATA as recipeData } from "@akasha/temper-completion/recipe-data"
 import type { CompletionCharacterRow } from "./completion-character-row-type"
 import { isCharacterMeasured } from "./completion-measured"
 import type { CharacterRecipeProgress, RecipeListProgressEntry } from "./completion-ui-types"
