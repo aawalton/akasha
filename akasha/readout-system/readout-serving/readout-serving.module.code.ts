@@ -5,7 +5,12 @@ import {
   refuseWithoutSecret,
 } from "../readout-credential/readout-credential.module.code.ts"
 import { noneLeftIn, stated } from "../readout-none-left/readout-none-left.module.code.ts"
-import { readingAged, STALE_AFTER_MS } from "../readout-reading/readout-reading.module.code.ts"
+import {
+  type Reading,
+  readingAged,
+  readingOn,
+  STALE_AFTER_MS,
+} from "../readout-reading/readout-reading.module.code.ts"
 import { relayedHeld } from "../readout-relay/readout-relay.module.code.ts"
 import { readScale } from "../readout-scale-reading/readout-scale-reading.module.code.ts"
 
@@ -27,11 +32,21 @@ export function refuseUncredentialedRingCaller(
   return refuseWithoutSecret(request, RING_CREDENTIAL_HEADER, credential)
 }
 
+function heldWithin(kept: Reading | null, now: Date): HeldReading {
+  if (kept === null) return { held: "none" }
+  if (readingAged(kept, now) >= STALE_AFTER_MS) return { held: "stale" }
+  return { held: "fresh", value: kept.value }
+}
+
 export function readingHeldFor(readoutSlug: string, now: Date = new Date()): HeldReading {
-  const held = relayedHeld(readoutSlug)
-  if (held === null) return { held: "none" }
-  if (readingAged(held, now) >= STALE_AFTER_MS) return { held: "stale" }
-  return { held: "fresh", value: held.value }
+  return heldWithin(relayedHeld(readoutSlug), now)
+}
+
+export function readingHeldOn(
+  values: Readonly<Record<string, unknown>>,
+  now: Date = new Date()
+): HeldReading {
+  return heldWithin(readingOn(values), now)
 }
 
 export function relayedFresh(readoutSlug: string, now: Date = new Date()): number | null {
