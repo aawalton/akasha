@@ -18,7 +18,11 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A patch that cannot rebase carries its conflicts where the agent resolves them.",
     },
-    { statement: "A principal takes in the patch of a subagent that stops." },
+    {
+      statement: "A principal takes in the patch of a subagent that stops.",
+      workingMemory:
+        "Taking one in is the same three-way merge a draft is: HEAD is the base, the principal's patch is ours, the subagent's is theirs, and what conflicts lands in the principal's conflicts. The patch also keeps the agent ids it has taken in, cleared when it applies or is dropped, so the warrant refusing the next draft can say why reads are owed on files the principal never touched.",
+    },
     { statement: "A draft says what the checks would refuse and refuses nothing." },
     { statement: "An applied patch lands through the gate as one commit." },
     { statement: "A drafting command takes no dry run flag." },
@@ -38,6 +42,7 @@ export const dallaDraftIntoAPatch = {
     "An agent id carries at most one patch.",
     "A patch is uncommitted state on the seat and the subagent rather than a page.",
     "A patch and its conflicts are stored in the formats git already reads.",
+    "A subagent drafts by default rather than applying.",
     "Alan settles each block's shape before it lands.",
     "The worktree waits until drafting works without it.",
   ],
