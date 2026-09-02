@@ -59,6 +59,31 @@ export const preForwardQueue = {
     },
     {
       invariantKind: "departure",
+      statement: "The turn ceiling here is 32 turns.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A queued request takes at most the turns the turn ceiling names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A request reaching the turn ceiling throws rather than answering with a response.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A request reaching the turn ceiling is written about before the throw.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The turn ceiling sits above the turns the silent budget can produce.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A turn-ceiling line names the turns the ceiling allowed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The client stream flag is read off the body bytes before the first attempt.",
     },
     {
@@ -114,6 +139,10 @@ export const preForwardQueue = {
       statement: "A caller hands in the response an exhausted pool is refused with.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A caller may name a turn ceiling tighter than the ceiling named here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a page.",
     },
@@ -130,12 +159,13 @@ export const preForwardQueue = {
       statement: "Nothing here holds a clock the caller cannot replace.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here bounds how many turns one request takes.",
+      invariantKind: "gap",
+      statement: "The pacing of every account is read again on every turn.",
     },
     {
       invariantKind: "gap",
-      statement: "The pacing of every account is read again on every turn.",
+      statement:
+        "A turn ceiling reached is answered 502 by the handler rather than named to the client.",
     },
     {
       invariantKind: "gap",
