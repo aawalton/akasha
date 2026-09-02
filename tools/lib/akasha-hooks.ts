@@ -19,6 +19,10 @@ const HOME_ROOT = "$HOME/repos/akasha"
 
 const BUN = "$HOME/.bun/bin/bun"
 
+const RUNNER = "tools/agent-hook.ts"
+
+const SPELLABLE = /^[a-z0-9]+(-[a-z0-9]+)*$/
+
 
 export interface HookCommand {
   readonly type: "command"
@@ -58,8 +62,14 @@ function namesIn(said: unknown): readonly string[] | null {
     : null
 }
 
-export function commandFor(codePath: string): string {
-  return `${BUN} ${HOME_ROOT}/${codePath}`
+// A REGISTRATION NAMES A HOOK RATHER THAN A FILE. A client reads this document once, at spawn, and
+// holds whatever it says for its whole life. A path written here is therefore frozen against a
+// tree that keeps moving: renaming the folder under `akasha/` that holds the hooks left every
+// running agent registering commands at paths nothing was at, and the harness said so in a
+// non-blocking error while the guards were down. The runner sits outside `akasha/`, where a move
+// carries nothing, and works the name out against the checkout at each call.
+export function commandFor(name: string): string {
+  return `${BUN} ${HOME_ROOT}/${RUNNER} ${name}`
 }
 
 export function hooksFrom(root: string): Record<string, HookRegistration[]> {
@@ -82,7 +92,14 @@ export function hooksFrom(root: string): Record<string, HookRegistration[]> {
     if (!existsSync(join(root, codePath))) {
       throw new Error(`\`${String(slug)}\` is an agent hook and ${codePath} is not there to run`)
     }
-    const command: HookCommand = { type: "command", command: commandFor(codePath), timeout: TIMEOUT }
+    // The slug becomes a word in a shell command, so it is held to what a slug is allowed to be
+    // rather than trusted for having come off a page.
+    if (typeof slug !== "string" || !SPELLABLE.test(slug)) {
+      throw new Error(
+        `\`${String(slug)}\` is an agent hook and its slug is not a name a registration can carry`
+      )
+    }
+    const command: HookCommand = { type: "command", command: commandFor(slug), timeout: TIMEOUT }
     for (const event of runsAt) {
       const into = found[event] ?? []
       into.push({ matcher: overTools === null ? "" : overTools.join("|"), hooks: [command] })
