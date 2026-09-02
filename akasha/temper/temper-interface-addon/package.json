@@ -5,9 +5,39 @@
   "exports": {
     "./assistant-collectibles": "./assistant-collectibles/assistant-collectibles.module.code.ts",
     "./assistant-bindings": "./assistant-bindings/assistant-bindings.module.code.ts",
-    "./assistant-entry": "./assistant-entry/assistant-entry.module.code.ts"
+    "./assistant-entry": "./assistant-entry/assistant-entry.module.code.ts",
+    "./quiet-alerts": "./quiet-alerts/quiet-alerts.module.code.ts",
+    "./quiet-announcements": "./quiet-announcements/quiet-announcements.module.code.ts",
+    "./quiet-camera-keybind": "./quiet-camera-keybind/quiet-camera-keybind.module.code.ts",
+    "./quiet-camera": "./quiet-camera/quiet-camera.module.code.ts",
+    "./quiet-craft-bag": "./quiet-craft-bag/quiet-craft-bag.module.code.ts",
+    "./quiet-defaults": "./quiet-defaults/quiet-defaults.module.code.ts",
+    "./quiet-dialogs": "./quiet-dialogs/quiet-dialogs.module.code.ts",
+    "./quiet-entry": "./quiet-entry/quiet-entry.module.code.ts",
+    "./quiet-guild-applications": "./quiet-guild-applications/quiet-guild-applications.module.code.ts",
+    "./quiet-guild-invites": "./quiet-guild-invites/quiet-guild-invites.module.code.ts",
+    "./quiet-guild-motd": "./quiet-guild-motd/quiet-guild-motd.module.code.ts",
+    "./quiet-guild-roster": "./quiet-guild-roster/quiet-guild-roster.module.code.ts",
+    "./quiet-identity": "./quiet-identity/quiet-identity.module.code.ts",
+    "./quiet-list-provider": "./quiet-list-provider/quiet-list-provider.module.code.ts",
+    "./quiet-lua-errors": "./quiet-lua-errors/quiet-lua-errors.module.code.ts",
+    "./quiet-map-pins": "./quiet-map-pins/quiet-map-pins.module.code.ts",
+    "./quiet-narrow": "./quiet-narrow/quiet-narrow.module.code.ts",
+    "./quiet-print": "./quiet-print/quiet-print.module.code.ts",
+    "./quiet-raid-leaderboard": "./quiet-raid-leaderboard/quiet-raid-leaderboard.module.code.ts",
+    "./quiet-saved-variables": "./quiet-saved-variables/quiet-saved-variables.module.code.ts",
+    "./quiet-settings-dialogs": "./quiet-settings-dialogs/quiet-settings-dialogs.module.code.ts",
+    "./quiet-settings-guilds": "./quiet-settings-guilds/quiet-settings-guilds.module.code.ts",
+    "./quiet-settings-header": "./quiet-settings-header/quiet-settings-header.module.code.ts",
+    "./quiet-settings-menu": "./quiet-settings-menu/quiet-settings-menu.module.code.ts",
+    "./quiet-settings-messages": "./quiet-settings-messages/quiet-settings-messages.module.code.ts",
+    "./quiet-settings-world": "./quiet-settings-world/quiet-settings-world.module.code.ts",
+    "./quiet-strings": "./quiet-strings/quiet-strings.module.code.ts",
+    "./quiet-world": "./quiet-world/quiet-world.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*"
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
   }
 }

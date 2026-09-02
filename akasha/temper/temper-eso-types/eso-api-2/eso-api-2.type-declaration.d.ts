@@ -40,12 +40,12 @@ declare const ITEM_SET_COLLECTIONS_DATA_MANAGER: ItemSetCollectionsDataManager
 
 declare function ZO_PreHook(
   existingFunctionName: string,
-  hookFunction: (...args: unknown[]) => unknown
+  hookFunction: (...args: never[]) => unknown
 ): ((...args: unknown[]) => unknown) | undefined
 declare function ZO_PreHook(
   objectTable: object,
-  existingFunctionName: string,
-  hookFunction: (...args: unknown[]) => unknown
+  existingFunctionNameOrEventId: string | number,
+  hookFunction: (...args: never[]) => unknown
 ): ((...args: unknown[]) => unknown) | undefined
 declare const ZO_PostHookHandler: (
   control: Control,

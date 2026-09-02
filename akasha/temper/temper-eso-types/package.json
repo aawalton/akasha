@@ -45,6 +45,7 @@
     "./eso-functions-09": "./eso-functions-09/eso-functions-09.type-declaration.d.ts",
     "./eso-functions-10": "./eso-functions-10/eso-functions-10.type-declaration.d.ts",
     "./eso-globals": "./eso-globals/eso-globals.type-declaration.d.ts",
+    "./eso-interface-extra": "./eso-interface-extra/eso-interface-extra.type-declaration.d.ts",
     "./eso-inventory": "./eso-inventory/eso-inventory.type-declaration.d.ts",
     "./eso-inventory-containers": "./eso-inventory-containers/eso-inventory-containers.type-declaration.d.ts",
     "./eso-item-browser-port": "./eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts",

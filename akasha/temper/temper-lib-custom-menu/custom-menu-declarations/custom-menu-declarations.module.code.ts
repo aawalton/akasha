@@ -23,8 +23,6 @@ declare global {
 
   const ZO_Menu_ClickItem: (this: void, control: Control, button: number) => void
 
-  const ZO_Menu_SetLastCommandWasFromMenu: (this: void, fromMenu: boolean) => void
-
   const ZO_CheckButton_OnClicked: (this: void, checkButton: Control, button: number) => void
 
   const ZO_CheckButton_SetUnchecked: (this: void, checkButton: Control) => void

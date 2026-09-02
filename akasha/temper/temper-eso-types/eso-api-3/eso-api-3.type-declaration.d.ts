@@ -48,14 +48,16 @@ interface LoreReader {
     title: string,
     body: string,
     medium: number,
-    showImmediately?: boolean
+    showImmediately?: boolean,
+    overrideImage?: unknown,
+    overrideImageTitlePosition?: unknown
   ) => void
   [key: string]: unknown
 }
 declare const LORE_READER: LoreReader
 
 interface PlayerToPlayer {
-  RemoveFromIncomingQueue: (this: PlayerToPlayer, interactionType: number) => void
+  RemoveFromIncomingQueue: (this: PlayerToPlayer, interactionType: number, name?: string) => void
   [key: string]: unknown
 }
 declare const PLAYER_TO_PLAYER: PlayerToPlayer

@@ -11,12 +11,6 @@ declare global {
 
   const ZO_NotificationProvider: ZoNotificationProviderClass
 
-  interface ZoKeyboardNotificationManager {
-    sortFilterList: object
-    providers: object[]
-    [key: string]: unknown
-  }
-
   interface ZoGamepadNotificationList {
     AddEntry: (template: string | number | undefined, entryData: object) => undefined
     AddEntryWithHeader: (template: string | number | undefined, entryData: object) => undefined
@@ -27,8 +21,6 @@ declare global {
     providers: object[]
     [key: string]: unknown
   }
-
-  const NOTIFICATIONS: ZoKeyboardNotificationManager | undefined
 
   const GAMEPAD_NOTIFICATIONS: ZoGamepadNotificationManager
 
