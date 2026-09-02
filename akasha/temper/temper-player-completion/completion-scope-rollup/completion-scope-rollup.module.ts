@@ -6,6 +6,7 @@ export const completionScopeRollup = {
   slug: "completion-scope-rollup",
   definition: "what one scope of completion cards counts, and the three scopes added together",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
