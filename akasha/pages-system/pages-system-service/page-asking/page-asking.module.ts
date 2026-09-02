@@ -100,6 +100,18 @@ export const pageAsking = {
       statement: "The uncommitted values are written over the values the index carries.",
     },
     {
+      invariantKind: "departure",
+      statement: "The values a page keeps beside the page are read from the file the page names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The values read beside the page are answered in place of the extension stated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file beside a page that will not read refuses the question.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page's own file is opened.",
     },

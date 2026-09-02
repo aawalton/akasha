@@ -41,6 +41,20 @@ test("where narrows to what matches", () => {
   expect(rows).toEqual([{ slug: "gap" }])
 })
 
+test("the values a page keeps beside it are answered in place of the extension", () => {
+  const rows = rowsOf(
+    asking(root, {
+      pageTypeSlug: "model-test",
+      where: { slug: { is: "restatement" } },
+      keys: ["cases"],
+    })
+  )
+  const cases = rows[0]?.cases
+
+  expect(Array.isArray(cases) && cases.length).toBe(14)
+  expect(Array.isArray(cases) && cases[0]?.page).toBe("code-lint")
+})
+
 test("a page type no page is filed under is answered empty", () => {
   expect(rowsOf(asking(root, { pageTypeSlug: "service" }))).toEqual([])
 })
