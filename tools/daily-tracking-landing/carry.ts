@@ -9,6 +9,12 @@
  *
  * The argv is built here, apart from anything that runs it, so what would be run can be read and
  * dry-run without a landing happening.
+ *
+ * There is no call here that takes the pages back. `akasha write --remove` is the same gated verb as
+ * `akasha write`, so an undo built on it can be refused for a reading the caller owes — which is what
+ * happened, mid-undo, leaving the day pages standing and the landing printing `STUCK`. The landing
+ * now does the ungated half first and this gated half last, and its undo restores plain files rather
+ * than asking this verb for anything.
  */
 
 import { join, relative, resolve } from "node:path"
@@ -41,19 +47,6 @@ export function carryIn(
     args.push("--file-path", relative(repoRoot, join(into, name)))
     args.push("--content-file", join(staged, name))
   }
-  args.push("--message", message)
-  return { command: "akasha", args }
-}
-
-/** The same files taken away again, which is how a landing into akasha is undone. */
-export function carryOut(
-  repoRoot: string,
-  into: string,
-  names: readonly string[],
-  message: string
-): Carry {
-  const args: string[] = []
-  for (const name of names) args.push("--remove", relative(repoRoot, join(into, name)))
   args.push("--message", message)
   return { command: "akasha", args }
 }
