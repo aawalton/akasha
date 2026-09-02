@@ -24,7 +24,7 @@ export const eppieMigrateMusicToAkasha = {
       statement:
         "Every song, artist and listen the music keeps is a page in akasha rather than in `pages/`.",
       workingMemory:
-        "1,656 song pages sit in `pages/music-song` beside their lyrics and synced-lyrics attachments, 30 of them carrying a rating; 20 artists; 12 day pages holding 698 listen rows between their `listens.jsonl` sidecars, each row naming a Spotify track id and a persona; 2 heard-music pages. `song-listen` keeps no file of its own and is only those rows.",
+        "1,656 song pages sit in `pages/music-song`, 30 rated, beside 1,372 lyrics and 1,340 synced-lyrics attachments; 14 artists; 12 day pages holding 698 listen rows; one heard-music page holding 678 heard-track rows, 29 of which name no Spotify track id though the property is required. The queries turn on five keys: `play-key`, `spotify-track-id`, `title-key`, `played-at`, and `new-music-minutes` summed by persona and date.",
     },
   ],
   constraints: [
