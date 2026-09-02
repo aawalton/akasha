@@ -1,0 +1,326 @@
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
+
+export const SETS_DATA_069: readonly SetTemplate[] = [
+  {
+    id: "perfected-crushing-wall",
+    name: "Perfected Crushing Wall",
+    esoSetId: 526,
+    subcategoryId: "arena",
+    valid: ["inferno-staff", "ice-staff", "lightning-staff"],
+    bonuses: [
+      {
+        count: 2,
+        status: "unsupported",
+        effects: [],
+        description: "Increases the damage Wall of Elements deals by 1250.",
+      },
+    ],
+    icons: {
+      "ice-staff": "/esoui/art/icons/gear_dwarvenscavenged_staff_a.dds",
+      "inferno-staff": "/esoui/art/icons/gear_dwarvenscavenged_staff_a.dds",
+      "lightning-staff": "/esoui/art/icons/gear_dwarvenscavenged_staff_a.dds",
+    },
+  },
+  {
+    id: "perfected-defensive-position",
+    name: "Perfected Defensive Position",
+    esoSetId: 358,
+    subcategoryId: "trial",
+    valid: ["sword", "axe", "mace", "dagger", "shield"],
+    bonuses: [
+      {
+        count: 2,
+        status: "unsupported",
+        effects: [],
+        description:
+          "When you reflect or absorb a spell projectile with Defensive Posture, you restore 2200 Magicka. If Defensive Posture expires without reflecting or absorbing a spell projectile, you restore 6600 Magicka instead.",
+      },
+    ],
+    icons: {
+      axe: "/esoui/art/icons/gear_factotum_gear_factotum_1haxe_a.dds",
+      dagger: "/esoui/art/icons/gear_factotum_gear_factotum_dagger_a.dds",
+      mace: "/esoui/art/icons/gear_factotum_gear_factotum_1hhammer_a.dds",
+      shield: "/esoui/art/icons/gear_factotum_gear_factotum_shield_a.dds",
+      sword: "/esoui/art/icons/gear_factotum_gear_factotum_1hsword_a.dds",
+    },
+  },
+  {
+    id: "perfected-destructive-impact",
+    name: "Perfected Destructive Impact",
+    esoSetId: 532,
+    subcategoryId: "arena",
+    valid: ["inferno-staff", "ice-staff", "lightning-staff"],
+    bonuses: [
+      {
+        count: 2,
+        status: "unsupported",
+        effects: [],
+        description:
+          "Reduces the cost of Destructive Touch by 10% and increases your Weapon and Spell Damage by 600 for 4 seconds after activating it.",
+      },
+    ],
+    icons: {
+      "ice-staff": "/esoui/art/icons/gear_nord_staff_e.dds",
+      "inferno-staff": "/esoui/art/icons/gear_dunmer_staff_e.dds",
+      "lightning-staff": "/esoui/art/icons/gear_altmer_staff_e.dds",
+    },
+  },
+  {
+    id: "perfected-disciplined-slash",
+    name: "Perfected Disciplined Slash",
+    esoSetId: 357,
+    subcategoryId: "trial",
+    valid: ["greatsword", "battleaxe", "maul"],
+    bonuses: [
+      {
+        count: 2,
+        status: "unsupported",
+        effects: [],
+        description:
+          "When you deal damage with Reverse Slash, you generate up to 12 Ultimate based on how much execute bonus damage it dealt.",
+      },
+    ],
+    icons: {
+      battleaxe: "/esoui/art/icons/gear_factotum_gear_factotum_2haxe_a.dds",
+      greatsword: "/esoui/art/icons/gear_factotum_gear_factotum_2hsword_a.dds",
+      maul: "/esoui/art/icons/gear_factotum_gear_factotum_2hhammer_a.dds",
+    },
+  },
+  {
+    id: "perfected-dolorous-arena",
+    name: "Perfected Dolorous Arena",
+    esoSetId: 819,
+    subcategoryId: "no-type",
+    valid: ["*:heavy"],
+    bonuses: [
+      {
+        count: 2,
+        status: "supported",
+        effects: [{ metricId: "health-maximum", effectType: "integer", effectValue: 1206 }],
+        description: "Adds 1206 Maximum Health",
+      },
+      {
+        count: 3,
+        status: "unsupported",
+        effects: [],
+        description:
+          "Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%.",
+      },
+      {
+        count: 4,
+        status: "supported",
+        effects: [{ metricId: "resistance", effectType: "integer", effectValue: 743 }],
+        description: "Adds 1487 Armor",
+      },
+      {
+        count: 5,
+        status: "unsupported",
+        effects: [],
+        description:
+          "While bracing you create a distortion barrier around yourself after 2 seconds. After the delay, every 2 seconds you gain 614 Armor and enemies within the distortion barrier have their Armor reduced by 1843 for 5 seconds. These effects stack up to 3 times.",
+      },
+    ],
+    icons: {
+      "axe": "/esoui/art/icons/gear_coldharbourdominator_1haxe_a.dds",
+      "battleaxe": "/esoui/art/icons/gear_coldharbourdominator_2haxe_a.dds",
+      "bow": "/esoui/art/icons/gear_coldharbourdominator_bow_a.dds",
+      "chest:*": "/esoui/art/icons/gear_coldharbordominator_heavy_chest_a.dds",
+      "dagger": "/esoui/art/icons/gear_coldharbourdominator_dagger_a.dds",
+      "feet:*": "/esoui/art/icons/gear_coldharbordominator_heavy_feet_a.dds",
+      "greatsword": "/esoui/art/icons/gear_coldharbourdominator_2hsword_a.dds",
+      "hands:*": "/esoui/art/icons/gear_coldharbordominator_heavy_hands_a.dds",
+      "head:*": "/esoui/art/icons/gear_coldharbordominator_heavy_head_a.dds",
+      "ice-staff": "/esoui/art/icons/gear_coldharbourdominator_staff_a.dds",
+      "inferno-staff": "/esoui/art/icons/gear_coldharbourdominator_staff_a.dds",
+      "legs:*": "/esoui/art/icons/gear_coldharbordominator_heavy_legs_a.dds",
+      "lightning-staff": "/esoui/art/icons/gear_coldharbourdominator_staff_a.dds",
+      "mace": "/esoui/art/icons/gear_coldharbourdominator_1hhammer_a.dds",
+      "maul": "/esoui/art/icons/gear_coldharbourdominator_2hhammer_a.dds",
+      "necklace": "/esoui/art/icons/gear_breton_neck_a.dds",
+      "restoration-staff": "/esoui/art/icons/gear_coldharbourdominator_staff_a.dds",
+      "ring": "/esoui/art/icons/gear_breton_ring_a.dds",
+      "shield": "/esoui/art/icons/gear_coldharbourdominator_shield_a.dds",
+      "shoulders:*": "/esoui/art/icons/gear_coldharbordominator_heavy_shoulders_a.dds",
+      "sword": "/esoui/art/icons/gear_coldharbourdominator_1hsword_a.dds",
+      "waist:*": "/esoui/art/icons/gear_coldharbordominator_heavy_waist_a.dds",
+    },
+  },
+  {
+    id: "perfected-executioners-blade",
+    name: "Perfected Executioner's Blade",
+    esoSetId: 563,
+    subcategoryId: "arena",
+    valid: ["sword", "axe", "mace", "dagger"],
+    bonuses: [
+      {
+        count: 2,
+        status: "unsupported",
+        effects: [],
+        description:
+          "Hidden Blade deals up to 250% more damage to targets under 100% Health when you are standing behind them.\n\nRestores 1890 Stamina if the target was below 50% Health.",
+      },
+    ],
+    icons: {
+      axe: "/esoui/art/icons/gear_reachv2_1haxe_a.dds",
+      dagger: "/esoui/art/icons/gear_reachv2_dagger_a.dds",
+      mace: "/esoui/art/icons/gear_reachv2_1hhammer_a.dds",
+      sword: "/esoui/art/icons/gear_reachv2_1hsword_a.dds",
+    },
+  },
+  {
+    id: "perfected-eye-of-nahviintaas",
+    name: "Perfected Eye of Nahviintaas",
+    esoSetId: 448,
+    subcategoryId: "trial",
+    valid: ["*:light"],
+    bonuses: [
+      {
+        count: 2,
+        status: "supported",
+        effects: [{ metricId: "magicka-recovery", effectType: "integer", effectValue: 129 }],
+        description: "Adds 129 Magicka Recovery",
+      },
+      {
+        count: 3,
+        status: "unsupported",
+        effects: [],
+        description:
+          "Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%.",
+      },
+      {
+        count: 4,
+        status: "supported",
+        effects: [{ metricId: "magicka-maximum", effectType: "integer", effectValue: 1096 }],
+        description: "Adds 1096 Maximum Magicka",
+      },
+      {
+        count: 5,
+        status: "unsupported",
+        effects: [],
+        description:
+          "When an ally activates a synergy you have created within 10 seconds, you and the ally who activated the synergy get 12% cost reduction for non-Ultimate abilities for 3 seconds. This effect can occur every 6 seconds per target.",
+      },
+    ],
+    icons: {
+      "axe": "/esoui/art/icons/gear_sunspire_axe_a.dds",
+      "battleaxe": "/esoui/art/icons/gear_sunspire_2haxe_a.dds",
+      "bow": "/esoui/art/icons/gear_sunspire_bow_a.dds",
+      "chest:*": "/esoui/art/icons/gear_sunspire_light_robe_a.dds",
+      "dagger": "/esoui/art/icons/gear_sunspire_dagger_a.dds",
+      "feet:*": "/esoui/art/icons/gear_sunspire_light_feet_a.dds",
+      "greatsword": "/esoui/art/icons/gear_sunspire_2hsword_a.dds",
+      "hands:*": "/esoui/art/icons/gear_sunspire_light_hands_a.dds",
+      "head:*": "/esoui/art/icons/gear_sunspire_light_helmet_a.dds",
+      "ice-staff": "/esoui/art/icons/gear_sunspire_staff_a.dds",
+      "inferno-staff": "/esoui/art/icons/gear_sunspire_staff_a.dds",
+      "legs:*": "/esoui/art/icons/gear_sunspire_light_legs_a.dds",
+      "lightning-staff": "/esoui/art/icons/gear_sunspire_staff_a.dds",
+      "mace": "/esoui/art/icons/gear_sunspire_hammer_a.dds",
+      "maul": "/esoui/art/icons/gear_sunspire_2hhammer_a.dds",
+      "necklace": "/esoui/art/icons/gear_breton_neck_a.dds",
+      "restoration-staff": "/esoui/art/icons/gear_sunspire_staff_a.dds",
+      "ring": "/esoui/art/icons/gear_breton_ring_a.dds",
+      "shield": "/esoui/art/icons/gear_sunspire_shield_a.dds",
+      "shoulders:*": "/esoui/art/icons/gear_sunspire_light_shoulder_a.dds",
+      "sword": "/esoui/art/icons/gear_sunspire_sword_a.dds",
+      "waist:*": "/esoui/art/icons/gear_sunspire_light_waist_a.dds",
+    },
+  },
+  {
+    id: "perfected-false-gods-devotion",
+    name: "Perfected False God's Devotion",
+    esoSetId: 449,
+    subcategoryId: "trial",
+    valid: ["*:light"],
+    bonuses: [
+      {
+        count: 2,
+        status: "supported",
+        effects: [{ metricId: "critical-rating", effectType: "integer", effectValue: 657 }],
+        description: "Adds 657 Critical Chance",
+      },
+      {
+        count: 3,
+        status: "unsupported",
+        effects: [],
+        description:
+          "Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%.",
+      },
+      {
+        count: 4,
+        status: "supported",
+        effects: [{ metricId: "critical-rating", effectType: "integer", effectValue: 657 }],
+        description: "Adds 657 Critical Chance",
+      },
+      {
+        count: 5,
+        status: "unsupported",
+        effects: [],
+        description:
+          "Reduces the cost of your Magicka abilities by 8%. When an enemy you recently damaged dies, you restore 2454 Magicka and gain Major Expedition for 8 seconds, increasing your Movement Speed by 30%. These effects can occur once every second.",
+      },
+    ],
+    icons: {
+      "axe": "/esoui/art/icons/gear_sunspire_axe_a.dds",
+      "battleaxe": "/esoui/art/icons/gear_sunspire_2haxe_a.dds",
+      "bow": "/esoui/art/icons/gear_sunspire_bow_a.dds",
+      "chest:*": "/esoui/art/icons/gear_sunspire_light_robe_a.dds",
+      "dagger": "/esoui/art/icons/gear_sunspire_dagger_a.dds",
+      "feet:*": "/esoui/art/icons/gear_sunspire_light_feet_a.dds",
+      "greatsword": "/esoui/art/icons/gear_sunspire_2hsword_a.dds",
+      "hands:*": "/esoui/art/icons/gear_sunspire_light_hands_a.dds",
+      "head:*": "/esoui/art/icons/gear_sunspire_light_helmet_a.dds",
+      "ice-staff": "/esoui/art/icons/gear_sunspire_staff_a.dds",
+      "inferno-staff": "/esoui/art/icons/gear_sunspire_staff_a.dds",
+      "legs:*": "/esoui/art/icons/gear_sunspire_light_legs_a.dds",
+      "lightning-staff": "/esoui/art/icons/gear_sunspire_staff_a.dds",
+      "mace": "/esoui/art/icons/gear_sunspire_hammer_a.dds",
+      "maul": "/esoui/art/icons/gear_sunspire_2hhammer_a.dds",
+      "necklace": "/esoui/art/icons/gear_breton_neck_a.dds",
+      "restoration-staff": "/esoui/art/icons/gear_sunspire_staff_a.dds",
+      "ring": "/esoui/art/icons/gear_breton_ring_a.dds",
+      "shield": "/esoui/art/icons/gear_sunspire_shield_a.dds",
+      "shoulders:*": "/esoui/art/icons/gear_sunspire_light_shoulder_a.dds",
+      "sword": "/esoui/art/icons/gear_sunspire_sword_a.dds",
+      "waist:*": "/esoui/art/icons/gear_sunspire_light_waist_a.dds",
+    },
+  },
+  {
+    id: "perfected-force-overflow",
+    name: "Perfected Force Overflow",
+    esoSetId: 568,
+    subcategoryId: "arena",
+    valid: ["restoration-staff"],
+    bonuses: [
+      {
+        count: 2,
+        status: "unsupported",
+        effects: [],
+        description:
+          "Casting Force Siphon on a target within 15 meters of you causes a surge of magical energy to tether between you for 10 seconds. While the tether persists and you remain in range, you and allies in the tether restore 175 Magicka and Stamina every 1 second. This effect can occur once every 10 seconds.",
+      },
+    ],
+    icons: { "restoration-staff": "/esoui/art/icons/gear_reachv2_staff_a.dds" },
+  },
+  {
+    id: "perfected-frenzied-momentum",
+    name: "Perfected Frenzied Momentum",
+    esoSetId: 565,
+    subcategoryId: "arena",
+    valid: ["greatsword", "battleaxe", "maul"],
+    bonuses: [
+      {
+        count: 2,
+        status: "unsupported",
+        effects: [],
+        description:
+          "While Momentum is active, casting Stamina abilities while in combat generates a stack of Frenzied Momentum for 20 seconds, increasing your Weapon and Spell Damage by 30 up to 10 times.  After 5 or more stacks, your next Heavy Attack consumes all stacks and releases a violent explosion of energy around you, dealing 1084 Physical Damage to all enemies within 8 meters, scaling off the higher of your Weapon or Spell Damage.",
+      },
+    ],
+    icons: {
+      battleaxe: "/esoui/art/icons/gear_reachv2_2haxe_a.dds",
+      greatsword: "/esoui/art/icons/gear_reachv2_2hsword_a.dds",
+      maul: "/esoui/art/icons/gear_reachv2_2hhammer_a.dds",
+    },
+  },
+]
