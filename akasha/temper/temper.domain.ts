@@ -137,6 +137,7 @@ export const temper = {
     "workspace-package/temper-player-completion-skills-morphs-ui",
     "eso-addon/temper-lib-scrollable-menu",
     "eso-addon/temper-items-addon",
+    "eso-addon/temper-antiquities-addon",
   ],
   invariants: [
     {
