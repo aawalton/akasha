@@ -20,8 +20,4 @@ declare global {
   interface CollectibleDataManager {
     GetAllCollectibleDataObjects: (this: CollectibleDataManager) => CollectibleDataObject[]
   }
-
-  interface LibAddonMenu2 {
-    OpenToPanel: (this: LibAddonMenu2, panel: unknown) => void
-  }
 }

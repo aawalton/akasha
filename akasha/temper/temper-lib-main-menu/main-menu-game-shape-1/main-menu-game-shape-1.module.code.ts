@@ -49,10 +49,8 @@ declare global {
     RefreshCategoryIndicators: (this: unknown) => undefined
     IsShowing: (this: unknown) => boolean
     SetLastSceneName: (this: unknown, categoryInfo: LmmCategoryInfo, sceneName: string) => undefined
-    lastCategory: number
     ignoreCallbacks: boolean
     control: Control
-    categoryBar: Control
     categoryInfo: Record<Descriptor, LmmCategoryInfo>
     sceneInfo: Record<string, LmmSceneInfo>
     sceneGroupInfo: Record<string, LmmSceneGroupInfo>
@@ -80,9 +78,5 @@ declare global {
 
   interface SceneManager {
     GetSceneGroup: (this: unknown, sceneGroupName: string) => SceneGroup
-  }
-
-  interface WindowManager {
-    IsSecureRenderModeEnabled: (this: unknown) => boolean
   }
 }
