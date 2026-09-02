@@ -1,5 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
+import { typed } from "@akasha/code-system/code-typing"
 import type { Listed } from "@akasha/indexes"
 import { everyPath, importersOf, listedByPath } from "@akasha/indexes"
 import { besideOf } from "@akasha/pages-system/page-beside"
@@ -37,8 +38,6 @@ import { expandedIn, spreadSaid } from "./move-spreading/move-spreading.module.c
 const AKASHA = "akasha"
 
 const INSIDE = `${AKASHA}/`
-
-const TS = ".ts"
 
 export type Naming = { readonly held: Listed | null } | { readonly unread: string }
 
@@ -90,7 +89,7 @@ export function spellingOf(
   const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
   const found: string[] = []
   for (const path of everyPath(root)) {
-    if (!path.endsWith(TS) || moved.has(path) || known.has(path)) continue
+    if (!typed(path) || moved.has(path) || known.has(path)) continue
     const held = bodyAt(root, stood, path)
     if (held === null) continue
     const text = textOf(held)
@@ -298,7 +297,7 @@ export function move(argv: readonly string[], given: Given): Answer {
       changes.push({ path: one.from, body: null })
       continue
     }
-    if (!one.from.endsWith(TS)) {
+    if (!typed(one.from)) {
       changes.push({ path: one.to, body: bytes, carried: true })
       changes.push({ path: one.from, body: null })
       continue
@@ -307,9 +306,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     if (text === null) {
       return answering(
         [],
-        [
-          `${one.from} is named \`${TS}\` and its bytes are not utf-8, so its specifiers cannot be read`,
-        ],
+        [`${one.from} is TypeScript and its bytes are not utf-8, so its specifiers cannot be read`],
         2
       )
     }
@@ -349,7 +346,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     changes.push({ path: one.at, body: new TextEncoder().encode(one.text), carried: true })
   }
   for (const path of [...naming].sort()) {
-    if (!path.endsWith(TS) || moved.has(path)) continue
+    if (!typed(path) || moved.has(path)) continue
     const held = bodyAt(root, base, path)
     if (held === null) continue
     const text = textOf(held)
