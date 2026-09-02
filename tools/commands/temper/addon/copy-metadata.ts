@@ -17,6 +17,7 @@ import { OWNERSHIP_MARKER_FILE } from "@akasha/temper-addons-resolve/folder-owne
 import {
   readSiblingAddonNames,
   siblingDistDir,
+  siblingManifestsIn,
   siblingSourceDir,
 } from "@akasha/temper-addons-resolve/sibling-addons"
 import { codeRoot } from "../../../lib/code-root.ts"
@@ -117,15 +118,21 @@ export default async function temperAddonCopyMetadata(args: readonly string[]): 
   }
 
   const siblingNames = readSiblingAddonNames(addonDir)
+  const siblingManifests = siblingManifestsIn(addonDir)
   for (const siblingName of siblingNames) {
     const sourceDir = siblingSourceDir(addonDir, siblingName)
-    if (!existsSync(sourceDir)) {
+    const carried = siblingManifests.get(siblingName)
+    const siblingDist = siblingDistDir(addonsRoot, siblingName)
+    if (existsSync(sourceDir)) {
+      await cp(sourceDir, siblingDist, { recursive: true })
+    } else if (carried !== undefined) {
+      await mkdir(siblingDist, { recursive: true })
+      await writeFile(join(siblingDist, `${siblingName}.txt`), carried)
+    } else {
       throw dataError(
-        `${canonicalName}/addon.json declares sibling addon '${siblingName}' but ${sourceDir} does not exist`
+        `${canonicalName}/addon.json declares sibling addon '${siblingName}' but no page beside it carries that manifest and ${sourceDir} does not exist`
       )
     }
-    const siblingDist = siblingDistDir(addonsRoot, siblingName)
-    await cp(sourceDir, siblingDist, { recursive: true })
     await copyFile(join(distDir, OWNERSHIP_MARKER_FILE), join(siblingDist, OWNERSHIP_MARKER_FILE))
   }
 
