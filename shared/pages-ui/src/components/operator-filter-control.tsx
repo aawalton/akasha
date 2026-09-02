@@ -19,7 +19,7 @@ import {
   DateSentinelInput,
   InstantSentinelInput,
   RelativeToTodayInput,
-} from "./date-time-filter-inputs"
+} from "@akasha/pages-ui-components/date-time-filter-inputs"
 import { MultiRelationValueInput, RelationValueInput } from "./relation-filter-inputs"
 import {
   CalendarTimeValueInput,
@@ -28,7 +28,7 @@ import {
   NumberValueInput,
   SelectBadgePicker,
   TextValueInput,
-} from "./value-filter-inputs"
+} from "@akasha/pages-ui-components/value-filter-inputs"
 
 interface OperatorFilterControlProps {
   dimension: PageFilterDimension

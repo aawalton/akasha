@@ -20,9 +20,9 @@ import {
   Settings2,
 } from "lucide-react"
 import { useState } from "react"
-import { GalleryOptionsPicker } from "./gallery-options-picker"
-import { GroupByPicker } from "./group-by-picker"
-import { NotesOptionsPicker } from "./notes-options-picker"
+import { GalleryOptionsPicker } from "@akasha/pages-ui-components/gallery-options-picker"
+import { GroupByPicker } from "@akasha/pages-ui-components/group-by-picker"
+import { NotesOptionsPicker } from "@akasha/pages-ui-components/notes-options-picker"
 import { PageSizePicker } from "./page-size-picker"
 import {
   DEFAULT_LAYOUT,
@@ -31,7 +31,7 @@ import {
   type ViewSettingsView,
 } from "@akasha/pages-ui-components/view-settings-options"
 import { PropertyVisibilityPicker } from "./property-visibility-picker"
-import { TimelinePicker } from "./timeline-picker"
+import { TimelinePicker } from "@akasha/pages-ui-components/timeline-picker"
 
 
 function SettingsMenuButton({

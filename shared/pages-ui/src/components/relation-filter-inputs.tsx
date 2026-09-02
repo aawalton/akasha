@@ -9,7 +9,7 @@ import { useRelationPicker } from "@akasha/pages-ui/contexts/relation-picker-con
 import type { FilterOperator } from "@akasha/pages-core/property-types/types"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
 import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
-import { toStringArray } from "./value-filter-inputs"
+import { toStringArray } from "@akasha/pages-ui-components/value-filter-inputs"
 
 const RELATION_SEARCH_DEBOUNCE_MS = 200
 

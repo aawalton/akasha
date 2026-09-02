@@ -21,13 +21,13 @@ import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimisti
 import { useSupabaseViewCallbacks } from "../supabase/use-view-callbacks.ts"
 import { viewDataOfPage } from "@akasha/pages-ui/supabase/view-data-of-page"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { EditableTitle } from "./editable-title.tsx"
+import { EditableTitle } from "@akasha/pages-ui-components/editable-title"
 import { toPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
 import { PageSystemShell } from "./page-system-shell.tsx"
 import { type PageTypeOption } from "@akasha/pages-ui-components/view-settings-options"
 import { PageTitleProperties } from "./page-title-properties.tsx"
 import { ViewTabContent } from "./view-tab-content.tsx"
-import type { ViewTabItem } from "./view-tab-context-menu.tsx"
+import type { ViewTabItem } from "@akasha/pages-ui-components/view-tab-context-menu"
 
 const SYSTEM_PAGE_TYPE_NAMES = new Set(["View", "Page Type", "Nav"])
 

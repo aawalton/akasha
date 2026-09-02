@@ -6,7 +6,7 @@ import type { PageDataJSON } from "@akasha/pages-core/types"
 import { resolveBadgeVariant } from "@akasha/pages-core/color-rules"
 import { requireGet } from "@akasha/utils-narrow/require-get"
 
-import { MultiSelectPopover } from "../components/multi-select-popover"
+import { MultiSelectPopover } from "@akasha/pages-ui-components/multi-select-popover"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { multiSelectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"

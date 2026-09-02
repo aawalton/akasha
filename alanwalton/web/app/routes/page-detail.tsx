@@ -3,7 +3,7 @@ import { DISPLAY_PARAM, parseDisplayMode } from "@akasha/pages-url/page-display-
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
-import { ViewPageFrame } from "@shared/pages-ui/components/view-page-frame"
+import { ViewPageFrame } from "@akasha/pages-ui-components/view-page-frame"
 import { lazy, Suspense } from "react"
 import { type ShouldRevalidateFunctionArgs, useSearchParams } from "react-router"
 import { AwenGameReader } from "~/awen/game-reader"

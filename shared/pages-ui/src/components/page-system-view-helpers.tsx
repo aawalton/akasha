@@ -12,7 +12,7 @@ import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { ViewSort } from "@akasha/pages-core/schema/view-data"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
-import { PageTimeline } from "./page-timeline"
+import { PageTimeline } from "@akasha/pages-ui-components/page-timeline"
 
 export function sortServerGrouped(
   serverGrouped: readonly ServerGroupedSection[] | undefined,

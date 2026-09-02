@@ -15,7 +15,7 @@ import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { PageActionsMenu } from "@akasha/pages-ui-components/page-actions-menu"
 import { orderTableColumns } from "@akasha/pages-ui-components/card-property-columns"
 import { PageTableColGroup } from "@akasha/pages-ui-components/page-table-colgroup"
-import { ReorderableColumnTable } from "./page-table-header.tsx"
+import { ReorderableColumnTable } from "@akasha/pages-ui-components/page-table-header"
 import { ACTIONS_COLUMN_PX, type PageTableColumn } from "@akasha/pages-ui-components/page-table-shared"
 import { tableMinWidthPx } from "@akasha/pages-ui-components/page-table-widths"
 

@@ -30,7 +30,7 @@ import { layoutSentenceSpans } from "@akasha/pages-ui-components/reader-sentence
 import { READER_PROSE_TYPOGRAPHY } from "@akasha/pages-ui-components/reader-typography"
 import { useReadEndOnScroll } from "./use-read-end-on-scroll"
 import { useReaderProgressWriter } from "./use-reader-progress-writer"
-import { useRestoreReadPosition } from "./use-restore-read-position"
+import { useRestoreReadPosition } from "@akasha/pages-ui-components/use-restore-read-position"
 import { useSentenceHighlight } from "./use-sentence-highlight"
 
 
