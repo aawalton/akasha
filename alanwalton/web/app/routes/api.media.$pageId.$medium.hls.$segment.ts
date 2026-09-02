@@ -1,9 +1,10 @@
 import { type ObjectStreamResult, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { hlsSegmentObjectKey } from "@akasha/object-store/object-store-key"
 import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
-import { MEDIA_UUID_PATTERN, MEDIA_VARIANT_PATTERN, mediaPageStands } from "@shared/pages-ui/media/serve-media"
+import { MEDIA_VARIANT_PATTERN, mediaPageExists } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { MEDIA_UUID_PATTERN } from "~/lib/media-page"
 import type { Route } from "./+types/api.media.$pageId.$medium.hls.$segment"
 
 const SEGMENT_PATTERN = /^seg[0-9]{5}\.mp3$/
@@ -47,7 +48,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
     const { user, headers: authHeaders } = await resolveRequestUser(request)
     headers = authHeaders
     if (!user) return respond("Unauthorized", 401)
-    if (!(await mediaPageStands(pageId, medium))) return respond("Not Found", 404)
+    if (!(await mediaPageExists(pageId))) return respond("Not Found", 404)
   }
 
   const store = seaweedFSObjectStoreFromEnv()

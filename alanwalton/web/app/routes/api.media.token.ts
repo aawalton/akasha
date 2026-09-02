@@ -1,8 +1,9 @@
 import { isMedium } from "@akasha/pages-core/media-formats"
 import { mediaTokenSecret, mintMediaToken } from "@akasha/pages-ui/media/media-token"
-import { MEDIA_UUID_PATTERN, MEDIA_VARIANT_PATTERN, mediaPageStands } from "@shared/pages-ui/media/serve-media"
+import { MEDIA_VARIANT_PATTERN, mediaPageExists } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { MEDIA_UUID_PATTERN } from "~/lib/media-page"
 import type { Route } from "./+types/api.media.token"
 
 const TOKEN_TTL_MS = 60 * 60 * 1000
@@ -51,7 +52,7 @@ export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
 
   let pageAccessible = false
   if (user && pageId !== "" && isMedium(medium)) {
-    pageAccessible = await mediaPageStands(pageId, medium)
+    pageAccessible = await mediaPageExists(pageId)
   }
 
   return buildMediaTokenResponse({

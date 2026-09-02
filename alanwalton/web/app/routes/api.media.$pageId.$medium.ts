@@ -1,5 +1,7 @@
-import { serveMedia } from "@shared/pages-ui/media/serve-media"
+import { serveMedia } from "@akasha/pages-ui/media/serve-media"
+import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
+import { MEDIA_UUID_PATTERN } from "~/lib/media-page"
 import type { Route } from "./+types/api.media.$pageId.$medium"
 
 const DOWNLOAD_CORS = {
@@ -15,11 +17,17 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   }
 
   const url = new URL(request.url)
-  const response = await serveMedia(request, {
-    pageId: params.pageId,
-    medium: params.medium,
-    variant: url.searchParams.get("variant"),
-  })
+  const response = MEDIA_UUID_PATTERN.test(params.pageId)
+    ? await serveMedia(
+        request,
+        {
+          pageId: params.pageId,
+          medium: params.medium,
+          variant: url.searchParams.get("variant"),
+        },
+        resolveRequestUser
+      )
+    : new Response("Not Found", { status: 404 })
 
   if (Object.keys(cors).length === 0) return response
   const headers = withCors(new Headers(response.headers), cors)
