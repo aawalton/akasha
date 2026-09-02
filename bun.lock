@@ -168,7 +168,6 @@
     "akasha/command-system": {
       "name": "@akasha/command-system",
       "dependencies": {
-        "@tools/lib": "workspace:*",
         "typescript": "5.9.3",
       },
     },
@@ -406,7 +405,10 @@
     "akasha/health-samples-day": {
       "name": "@akasha/health-samples-day",
       "dependencies": {
+        "@akasha/day": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
+        "@akasha/indexes": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
       },
     },
     "akasha/health-samples-import": {
@@ -818,6 +820,8 @@
     "akasha/temper/temper-catalog-generators": {
       "name": "@akasha/temper-catalog-generators",
       "dependencies": {
+        "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-capture-datamining-reader": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-game-catalog-capture-host": "workspace:*",
       },
@@ -860,6 +864,14 @@
         "@akasha/temper-capture-writer": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-characters-stats": {
+      "name": "@akasha/temper-characters-stats",
+      "dependencies": {
+        "@akasha/temper-alchemy": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
@@ -1048,7 +1060,9 @@
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -1121,8 +1135,12 @@
     "akasha/temper/temper-player-completion": {
       "name": "@akasha/temper-player-completion",
       "dependencies": {
+        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-races": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
@@ -2196,18 +2214,7 @@
       "dependencies": {
         "@akasha/temper-capture-writer": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
-        "@temper/game-characters-capture-addon": "workspace:*",
-        "@temper/game-collections-antiquities-capture-addon": "workspace:*",
-        "@temper/game-collections-capture-addon": "workspace:*",
-        "@temper/game-collections-lore-capture-addon": "workspace:*",
-        "@temper/game-collections-tribute-capture-addon": "workspace:*",
-        "@temper/game-companions-capture-addon": "workspace:*",
-        "@temper/game-completion-capture-addon": "workspace:*",
-        "@temper/game-crafting-capture-addon": "workspace:*",
-        "@temper/game-housing-capture-addon": "workspace:*",
-        "@temper/game-items-capture-addon": "workspace:*",
-        "@temper/game-items-currency-capture-addon": "workspace:*",
-        "@temper/game-navigation-capture-addon": "workspace:*",
+        "@akasha/temper-game-catalog-capture-addon": "workspace:*",
       },
       "devDependencies": {
         "typescript": "^5.8.3",
@@ -3821,6 +3828,8 @@
     "@akasha/temper-character-sources": ["@akasha/temper-character-sources@workspace:akasha/temper/temper-character-sources"],
 
     "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:akasha/temper/temper-characters-capture-addon"],
+
+    "@akasha/temper-characters-stats": ["@akasha/temper-characters-stats@workspace:akasha/temper/temper-characters-stats"],
 
     "@akasha/temper-classes": ["@akasha/temper-classes@workspace:akasha/temper/temper-classes"],
 
