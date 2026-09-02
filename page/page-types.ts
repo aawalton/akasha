@@ -284,8 +284,16 @@ export function filedIntoAny(one: PageType, named: readonly string[]): boolean {
   return reposOf(one).some((each) => named.includes(each))
 }
 
+/**
+ * The one repository a page type's pages stand in, or nothing where they stand in several.
+ *
+ * A type states one `files:` entry for each place its pages stand, and a type part way through a
+ * migration states two in the same repository — the markdown half and the akasha half. That is one
+ * repository named twice, not two repositories, and a writer that counted the entries rather than
+ * the repositories would refuse to write a page it can plainly place.
+ */
 export function soleRepoOf(one: PageType): string | null {
-  const named = reposOf(one)
+  const named = [...new Set(reposOf(one))]
   return named.length === 1 ? (named[0] ?? null) : null
 }
 

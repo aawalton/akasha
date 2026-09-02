@@ -1,5 +1,6 @@
 import { readdirSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
+import { besideAt } from "@akasha/pages-system/page-file-name"
 import { isMissing } from "@akasha/utils-fs/missing"
 
 export const PART_CEILING_BYTES = 8 * 1024 * 1024
@@ -29,9 +30,20 @@ export function isRowsFile(relPath: string): boolean {
   return ROWS.test(relPath)
 }
 
+/**
+ * The file the rows of one property stand in, beside the page that names them.
+ *
+ * A markdown page drops `.md` and takes the key and the suffix. An akasha page is a `.ts` file and
+ * drops `.ts` the same way — but that rule is akasha's own and is stated once, in `besideAt`, which
+ * the day pages, the fidelity checker and the landing all already read their sidecar names from.
+ * Restating it here is how the two halves of one corpus come to disagree about where a row is, so
+ * this asks `besideAt` and falls back to the markdown rule only where `besideAt` will not answer.
+ */
 export function rowsFileOf(relPath: string, key: string, uncommitted = false): string {
-  const stem = relPath.replace(/\.md$/, "")
-  return `${stem}.${key}${uncommitted ? UNCOMMITTED_SUFFIX : SUFFIX}`
+  const suffix = uncommitted ? UNCOMMITTED_SUFFIX : SUFFIX
+  const beside = besideAt(relPath, key, suffix.slice(1))
+  if (beside !== null) return beside
+  return `${relPath.replace(/\.md$/, "")}.${key}${suffix}`
 }
 
 export function rowsPartOf(rowsPath: string, part: number): string {

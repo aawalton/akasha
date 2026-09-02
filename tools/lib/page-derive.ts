@@ -22,7 +22,8 @@ import {
   underivable,
 } from "./page-reach.ts"
 import { noteUnreadable } from "./page-fault.ts"
-import { BODY, type Held, valuesIn, withUncommitted, withLarge } from "./page-file-values.ts"
+import { akashaValuesAt, isAkashaPage } from "./akasha-page-values.ts"
+import { BODY, type Held, type Read, valuesIn, withUncommitted, withLarge } from "./page-file-values.ts"
 import { placeOf } from "../../page/page-types.ts"
 import { NONE, textAt } from "../../page/text/text.ts"
 import { fileStemOf } from "@akasha/file-page-identity"
@@ -153,6 +154,23 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     ).map((one) => ({ ...one, kind: target }))
   }
 
+  /**
+   * One page file read, whichever of the two kinds of page file it is.
+   *
+   * Nothing else in this deriver asks what a page file is made of. A markdown page is frontmatter and
+   * an akasha page is a declared object, and both answer with the same kebab-keyed `Values`, so every
+   * reach past this line — the tests, the derived properties, the rows beside a page — is written
+   * once and reads both halves.
+   */
+  const readValuesAt = (root: string, relPath: string): Read | null => {
+    if (isAkashaPage(relPath)) {
+      const values = akashaValuesAt(root, relPath)
+      return values === null ? null : { values }
+    }
+    const text = textAt(root, relPath)
+    return text === null ? null : valuesIn(text, carryBody)
+  }
+
   const filedPagesOf = (kind: string): readonly Page[] => {
     const held = loaded.get(kind)
     if (held !== undefined) return held
@@ -164,14 +182,16 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       const root = roots[repo]
       if (root === undefined) continue
       for (const relPath of scanIn(root, [each.place ?? placeOf(kind)], repo)) {
-        const text = textAt(root, relPath)
-        const read = text === null ? null : valuesIn(text, carryBody)
+        const read = readValuesAt(root, relPath)
         if (read === null) {
           noteUnreadable(faults, repo, relPath, kind)
           continue
         }
+        // An akasha page keeps its uncommitted values in a `.uncommitted.ts` beside it and
+        // `akashaValuesAt` has already put them back through akasha's own reader. The yaml sidecar
+        // `withUncommitted` reads is the markdown half's, and it refuses a path that is not `.md`.
         const held = withLarge(
-          withUncommitted(`${root}/${relPath}`, read),
+          isAkashaPage(relPath) ? read : withUncommitted(`${root}/${relPath}`, read),
           carryAttachments,
           root,
           relPath,

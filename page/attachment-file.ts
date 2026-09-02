@@ -1,5 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
+import { besideAt } from "@akasha/pages-system/page-file-name"
 
 const PAGE_SUFFIX = ".md"
 
@@ -17,14 +18,23 @@ export function isAttachmentExtension(one: string): boolean {
   return /^[a-z0-9]+$/.test(one)
 }
 
+/**
+ * The file an attachment stands in, beside the page that names it.
+ *
+ * A page is a markdown file under `pages/` or a TypeScript file under `akasha/`, and what stands
+ * beside either one is named by dropping the page's own extension. `besideAt` is where akasha states
+ * that rule, so a `.ts` page is asked of it rather than answered by a second copy of the rule here.
+ */
 export function attachmentFileOf(
   relPath: string,
   key: string,
   extension: string,
   uncommitted = false
 ): string {
-  const stem = relPath.replace(/\.md$/, "")
-  return `${stem}.${key}.${uncommitted ? UNCOMMITTED_INFIX : ""}attachment.${extension}`
+  const tail = `${uncommitted ? UNCOMMITTED_INFIX : ""}attachment.${extension}`
+  const beside = besideAt(relPath, key, tail)
+  if (beside !== null) return beside
+  return `${relPath.replace(/\.md$/, "")}.${key}.${tail}`
 }
 
 export function attachmentPathFor(

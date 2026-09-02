@@ -3,7 +3,9 @@ page-type-slug: page-type
 title: "Daily tracking"
 id: 019e82ee-239a-70ea-8e6d-8b7bbfc3ee3e
 extends-slug: page
-files: akasha:**/*.daily-tracking.md
+files:
+  - akasha:**/*.daily-tracking.md
+  - akasha:akasha/alan/daily-tracking/**/*.daily-tracking.ts
 body-shape-slug: empty
 slug: daily-tracking
 domain-parent-slug: domain/alan-harness-tracking-store-page
