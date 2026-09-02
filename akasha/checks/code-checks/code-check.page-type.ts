@@ -31,6 +31,7 @@ export const codeCheck = {
     "code-check/file-has-its-page",
     "code-check/file-length",
     "code-check/folder-matches-a-shape",
+    "code-check/global-declared-once",
     "code-check/id-is-a-uuid-version-7",
     "code-check/identifier-matches-its-place",
     "code-check/identifier-names-one-page",
