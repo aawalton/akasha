@@ -6,9 +6,9 @@ import { existsSync } from "node:fs"
 import { copyFile, cp, mkdir, readdir, readFile, writeFile } from "node:fs/promises"
 import { dirname, join, resolve } from "node:path"
 import {
-  additionalLuaPathsIn,
   addonBindingsPathIn,
   BINDINGS_FILE_NAME,
+  namedFilePathsIn,
 } from "@akasha/temper-addon-build/addon-metadata-files"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
@@ -35,7 +35,7 @@ export const help: CommandHelp = {
     "\n" +
     "Everything written is build output, untracked, and this is the rule it is made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.\n" +
     "\n" +
-    "An addon whose `<name>.xml` is absent gets an empty one written, because ESO reads a named file rather than an optional one. `Bindings.xml` is found where the addon's own shape holds it — beside an akasha addon's page, under a game addon's `metadata/` — and an addon page claiming keybinds with no such file refuses the call rather than writing an empty document over them. A declared sibling folder that is not there is refused rather than skipped.",
+    "An addon whose `<name>.xml` is absent gets an empty one written, because ESO reads a named file rather than an optional one. `Bindings.xml` is found where the addon's own shape holds it — beside an akasha addon's page, under a game addon's `metadata/` — and an addon page claiming keybinds with no such file refuses the call rather than writing an empty document over them. Every other name the manifest ships is looked for beside the page, then under `metadata/`, and last among the pages beside it, each of which states the name its manifest loads it by; one name meets one document or the call is refused. A declared sibling folder that is not there is refused rather than skipped.",
   flags: [
     {
       name: "--addon",
@@ -90,7 +90,7 @@ export default async function temperAddonCopyMetadata(args: readonly string[]): 
   }
   const config = copyMetadataConfigSchema.parse(JSON.parse(await readFile(manifestPath, "utf-8")))
 
-  const luaPaths = await additionalLuaPathsIn(addonDir, config.additionalLuaFiles ?? [])
+  const luaPaths = await namedFilePathsIn(addonDir, config.additionalLuaFiles ?? [])
   for (const [filename, sourcePath] of luaPaths) {
     await writeFile(join(distDir, filename), await readFile(sourcePath, "utf-8"))
   }
@@ -104,21 +104,16 @@ export default async function temperAddonCopyMetadata(args: readonly string[]): 
     }
   }
 
-  for (const assetPath of config.assets ?? []) {
-    const destPath = join(distDir, assetPath)
-    await mkdir(dirname(destPath), { recursive: true })
-    await copyFile(join(metadataDir, assetPath), destPath)
-  }
-
-  const bundleXml = [
+  const shipped = [
+    ...(config.assets ?? []),
     ...(config.xmlFiles?.beforeBundle ?? []),
     ...(config.xmlFiles?.afterBundle ?? []),
-  ]
-  for (const xmlPath of bundleXml) {
-    if (ESO_RUNTIME_TOKEN.test(xmlPath)) continue
-    const destPath = join(distDir, xmlPath)
+  ].filter((one) => !ESO_RUNTIME_TOKEN.test(one))
+  const shippedPaths = await namedFilePathsIn(addonDir, shipped)
+  for (const [filename, sourcePath] of shippedPaths) {
+    const destPath = join(distDir, filename)
     await mkdir(dirname(destPath), { recursive: true })
-    await copyFile(join(metadataDir, xmlPath), destPath)
+    await copyFile(sourcePath, destPath)
   }
 
   const siblingNames = readSiblingAddonNames(addonDir)
