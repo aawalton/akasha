@@ -63,6 +63,10 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement: "A path the patch carries a conflict at is named in the report as well.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A dry run judges what is there as the dry run runs rather than what a later landing will judge.",
     },

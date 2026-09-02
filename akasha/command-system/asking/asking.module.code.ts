@@ -340,6 +340,9 @@ function draftedSaid(
     ...aside,
     ...said.drafted.map((one) => `drafted ${one}`),
     judgedBy(checks, said.drafted.length),
+    ...said.clashed.map(
+      (one) => `${one} carries a conflict — resolve it in the patch before the patch applies`
+    ),
     said.patch === null
       ? "the patch was worked out to nothing and taken away"
       : `the patch is kept at ${at ?? "the page of the agent that asked"} against ${said.base}`,
