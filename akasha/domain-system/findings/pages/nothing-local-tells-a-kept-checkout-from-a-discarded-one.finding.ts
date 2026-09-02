@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const nothingLocalTellsAKeptCheckoutFromADiscardedOne = {
+  id: "01a060ab-6301-77b6-a498-77c9fc58a04b",
+  pageTypeSlug: "finding",
+  slug: "nothing-local-tells-a-kept-checkout-from-a-discarded-one",
+  domainSlug: "workspace-package/health-samples-access",
+  claim:
+    "No local fact separates the checkout that keeps a write from the one that throws it away. The workstation and the web pod name the same `origin`, so no remote test, environment test or commit test tells them apart, and both a commit and a push from the pod would answer success and still be lost. A writer that needs to know therefore has to be told, and the health writer now refuses unless something names the very checkout it is about to write into.",
+  evidence:
+    "`git remote -v` in the workstation checkout gives `http://git-transport.git.svc.cluster.local:3000/alan/akasha.git` for both fetch and push, and `branch.main.remote` is `origin`. That is the same URL `init-code` sets on `/app/repo`, so the remote separates nothing. `AKASHA_ROOT` is set in both, `/app/repo` in the pod, so it separates nothing either.\n\n`init-code` in `alanwalton/web/generated/web-deployment.generated.yaml` runs `git fetch origin --prune` then `git reset --hard origin/main` at every pod start, and the rows files are tracked.\n\nTwo tests that look like proof are not. A `git commit` in `/app/repo` succeeds and dies at the next reset, so committing under-refuses. A push would succeed too: the `web` container takes `envFrom: secretRef: alanwalton-secrets`, which carries `GIT_ACCESS_TOKEN`; it would fail only for being 498 commits behind, and an accident is no design.\n\nSo the guard landed at `1a1a6f32b3` asks to be told. `refusalWhereNothingKeeps` weighs `canonicalize(resolve(HEALTH_SAMPLE_ROWS_KEPT_IN))` against the root about to be written, before any file is touched, and throws. It takes a path rather than true or false, so the same value copied to another deployment authorizes nothing there.\n\nProven on a fixture checkout: nothing said, refused, no file made; another checkout named, refused, no file made; that checkout named, one row written. Four tests, none failing.\n\nThe refusal is what keeps the readings. `alanwalton-health-route-request` guards `http.statusCode == 200` and answers `.failure` otherwise, and the drain's failure arm leaves the anchor where it is by design.",
+} as const satisfies Finding
