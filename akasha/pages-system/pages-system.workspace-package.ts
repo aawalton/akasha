@@ -31,6 +31,7 @@ export const pagesSystem = {
     "page-type/name-place",
     "page-type/generator-kind",
     "page-type/unique-kind",
+    "page-type/page-query",
     "workspace-package/indexes",
     "workspace-package/pages-query",
     "workspace-package/pages-system-service",
