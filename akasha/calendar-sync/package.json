@@ -1,0 +1,9 @@
+{
+  "name": "@akasha/calendar-sync",
+  "private": true,
+  "type": "module",
+  "exports": {},
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}
