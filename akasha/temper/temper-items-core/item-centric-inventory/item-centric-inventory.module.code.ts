@@ -33,7 +33,7 @@ export interface ItemCentricEntry {
 
 const LOCATION_TYPE_ORDER: readonly LocationTypeId[] = locationTypes.ids
 
-function compareStrings(a: string, b: string): number {
+export function compareStrings(a: string, b: string): number {
   if (a < b) return -1
   if (a > b) return 1
   return 0

@@ -19,7 +19,7 @@ interface SmithingRefinementPanel {
 
 interface SmithingStation {
   mode: number
-  modeBar: object
+  modeBar: Control
   deconstructionPanel: SmithingDeconstructionPanel
   refinementPanel: SmithingRefinementPanel
   AddItemToCraft: (this: SmithingStation, bagId: number, slotIndex: number) => void
