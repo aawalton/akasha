@@ -1,8 +1,10 @@
+import { decodeBuild } from "@akasha/temper-build-codec/build-codec"
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import {
   resolveCharacterToggles,
   resolveCompanionToggles,
 } from "@akasha/temper-build-support/automation-settings"
+import { decodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import {
   compileWantedCompanionEquipmentForBuild,
@@ -18,8 +20,6 @@ import type {
   CompletionCharacterInput,
   CompletionCompanionInput,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
-import { decodeBuild } from "@temper/game-codec/character/build-codec"
-import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
 
 export function compileWantedEquipment(
   characters: readonly CompletionCharacterInput[],
