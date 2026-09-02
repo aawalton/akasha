@@ -43,6 +43,18 @@
     "./zone-names-zh-01": "./zone-names-zh-01/zone-names-zh-01.module.code.ts",
     "./zone-names-zh-02": "./zone-names-zh-02/zone-names-zh-02.module.code.ts",
     "./zone-names-data": "./zone-names-data/zone-names-data.module.code.ts",
-    "./zone-public-dungeon-map-ids": "./zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
+    "./zone-public-dungeon-map-ids": "./zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts",
+    "./zone-lib-state": "./zone-lib-state/zone-lib-state.module.code.ts",
+    "./zone-internal-helpers": "./zone-internal-helpers/zone-internal-helpers.module.code.ts",
+    "./zone-data-init": "./zone-data-init/zone-data-init.module.code.ts",
+    "./zone-queries": "./zone-queries/zone-queries.module.code.ts",
+    "./zone-scan": "./zone-scan/zone-scan.module.code.ts",
+    "./zone-dungeon-status": "./zone-dungeon-status/zone-dungeon-status.module.code.ts",
+    "./zone-geo-parent": "./zone-geo-parent/zone-geo-parent.module.code.ts",
+    "./zone-geo-debug": "./zone-geo-debug/zone-geo-debug.module.code.ts",
+    "./zone-autocompletion": "./zone-autocompletion/zone-autocompletion.module.code.ts",
+    "./zone-events": "./zone-events/zone-events.module.code.ts",
+    "./zone-public-api": "./zone-public-api/zone-public-api.module.code.ts",
+    "./zone-main": "./zone-main/zone-main.module.code.ts"
   }
 }

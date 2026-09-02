@@ -7,6 +7,7 @@ export const temperLibZone = {
   definition: "every zone and subzone the game holds, named in each language",
   manifest: "json",
   addonManifest: "json",
+  bundleEntrySlug: "zone-main",
   partSlugs: [
     "module/zone-constants",
     "module/zone-types",
@@ -49,6 +50,18 @@ export const temperLibZone = {
     "module/zone-names-zh-02",
     "module/zone-names-data",
     "module/zone-public-dungeon-map-ids",
+    "module/zone-lib-state",
+    "module/zone-internal-helpers",
+    "module/zone-data-init",
+    "module/zone-queries",
+    "module/zone-scan",
+    "module/zone-dungeon-status",
+    "module/zone-geo-parent",
+    "module/zone-geo-debug",
+    "module/zone-autocompletion",
+    "module/zone-events",
+    "module/zone-public-api",
+    "module/zone-main",
   ],
   invariants: [
     {
