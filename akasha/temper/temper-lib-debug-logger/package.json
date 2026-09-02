@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/temper-lib-debug-logger",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./main": "./debug-logger-main/debug-logger-main.module.code.ts"
+  }
+}
