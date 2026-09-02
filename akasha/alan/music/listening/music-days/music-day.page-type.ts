@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Listens } from "../listens/listens.page-property-entry.ts"
+import type { Listens } from "../../../eso-daily-tracking/properties/listens.page-property-entry.ts"
 
 export type MusicDay = Page & {
   listens: Listens
