@@ -250,10 +250,10 @@ function getCurrentBossHP(): number {
 
 function isOngoingBossfight(): boolean {
   if (IS_IN_PORTAL_WORLD) {
-    log("other", LOG_LEVEL_DEBUG, "Prevented combat RESET because player is in Portal!")
+    log("other", LOG_LEVEL_DEBUG, "Prevented combat reset because player is in Portal!")
     return true
   } else if (getCurrentBossHP() > 0 && getCurrentBossHP() < 1) {
-    log("other", LOG_LEVEL_INFO, "Prevented combat RESET because boss is still in fight!")
+    log("other", LOG_LEVEL_INFO, "Prevented combat reset because boss is still in fight!")
     return true
   } else {
     return false

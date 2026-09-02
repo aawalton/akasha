@@ -169,7 +169,7 @@ export function updateSkillEvents(group: EventGroup): undefined {
 
     if (REGISTERED_SKILLS[id] !== true) {
       log(
-        "EVENTS",
+        "events",
         LOG_LEVEL_VERBOSE,
         "Skill registered: %d: %s (%s), End:  %d: %s (%s))",
         id,

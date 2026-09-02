@@ -9,7 +9,7 @@ import {
 import { toggleReport } from "@akasha/temper-combat-addon/combat-ui-window"
 
 function slashCommandFunction(this: void, extra: string): undefined {
-  if (extra === "RESET") {
+  if (extra === "reset") {
     resetFight()
   } else if (extra === "dps") {
     postToChat(POSTTOCHAT_MODE_SMART)

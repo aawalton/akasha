@@ -316,7 +316,7 @@ function onFrameUpdate(this: void): undefined {
     for (let k = 1; k <= FRAME_INDEX; k++) {
       const v = FRAME_DATA[k]
       if (v === undefined) {
-        error("lib-combat: frame DATA missing")
+        error("lib-combat: frame data missing")
       }
       sum = sum + v
       min = math.min(v, min)

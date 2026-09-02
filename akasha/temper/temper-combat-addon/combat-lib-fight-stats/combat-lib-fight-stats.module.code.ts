@@ -27,7 +27,7 @@ import { processDeathRecaps } from "@akasha/temper-combat-addon/combat-lib-unit-
 export function getCritBonusFromCP(cpData: CPData): number {
   const greenDiscipline = cpData[1]
   if (greenDiscipline === undefined) {
-    error("lib-combat: cp DATA is missing discipline 1")
+    error("lib-combat: CP data is missing discipline 1")
   }
   const slots = greenDiscipline.slotted
   const points = greenDiscipline.stars
