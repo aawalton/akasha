@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "26 packages and 1,107 files remain under `temper/`, from 38 and 2,291. `web` at 358 is a third of what is left and now has a seat. Absence is no longer the blind spot; a path named only as a string is. Three porters write into folders that are gone, and one package showed 4 of its 42 references to an import census. `imports-inside` is blind to a specifier a manifest names only by a wildcard export, so a green check proves nothing.",
+        "20 packages and 987 files remain under `temper/`, from 38 and 2,291. `web` at 358 is a third of it and has a seat. Nine ablation reference sites now, the ninth being a path composed from a fragment, which `akasha remove` cannot see and no search for the package finds. A surgical one-row workspaces edit was overwritten eight seconds later by a sibling rewriting the whole list, with no git conflict, so re-read a shared list at the end rather than trusting the edit.",
     },
   ],
   constraints: [
