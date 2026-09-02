@@ -58,6 +58,10 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "Only a TypeScript file is read for the imports that file carries.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An import the change takes away is read from the body the change found rather than from the index.",
     },

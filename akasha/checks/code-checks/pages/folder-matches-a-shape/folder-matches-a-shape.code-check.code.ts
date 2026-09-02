@@ -22,6 +22,7 @@ import {
   FILES,
   input,
   textIn,
+  textNamed,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import type { Declaring, Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
@@ -82,7 +83,7 @@ export function edgesOf(
   bytes: Uint8Array | null,
   naming: Naming = NAMING_NONE
 ): ReadonlySet<string> {
-  if (bytes === null) return new Set<string>()
+  if (bytes === null || !textNamed(path)) return new Set<string>()
   return new Set<string>(edgesIn(bodyOf({ root, path, bytes }), path, naming))
 }
 
