@@ -22,15 +22,6 @@ const COMPANION_SKILL_SELECT = [
 ]
 
 export type AddonDataPages = {
-  activityCategoryPages: PageResult
-  catalogDomainPages: PageResult
-  tributePatronPages: PageResult
-  antiquityCategoryPages: PageResult
-  worldZonePages: PageResult
-  cadwellLevelPages: PageResult
-  craftTypePages: PageResult
-  researchLinePages: PageResult
-  collectibleCategoryPages: PageResult
   affixScriptPages: PageResult
   alliancePages: PageResult
   armorEnchantPages: PageResult
@@ -60,7 +51,6 @@ export type AddonDataPages = {
   companionWeaponSlotPages: PageResult
   companionWeaponTypePages: PageResult
   comparisonOpPages: PageResult
-  completionCategoryPages: PageResult
   cursePages: PageResult
   debuffMajorPages: PageResult
   debuffMinorPages: PageResult
@@ -99,7 +89,6 @@ export type AddonDataPages = {
   skillPages: PageResult
   skillLinePages: PageResult
   skillLineCategoryPages: PageResult
-  skillPointPages: PageResult
   skillSlotPages: PageResult
   skillTypePages: PageResult
   sourceCategoryPages: PageResult
@@ -116,7 +105,6 @@ export type AddonDataPages = {
   weaponTraitPages: PageResult
   weaponTypePages: PageResult
   zonePages: PageResult
-  achievementCategoryPages: PageResult
   minedRestorePotions: readonly MinedRestorePotion[]
 }
 
@@ -129,7 +117,6 @@ type Asked = {
 }
 
 const ASKED: readonly Asked[] = [
-  { accessor: "activityCategoryPages", pageTypeSlug: "temper-activity-category" },
   { accessor: "affixScriptPages", pageTypeSlug: "temper-affix-script" },
   { accessor: "alliancePages", pageTypeSlug: "temper-alliance" },
   { accessor: "armorEnchantPages", pageTypeSlug: "temper-armor-enchant", sidecars: true },
@@ -170,7 +157,6 @@ const ASKED: readonly Asked[] = [
   { accessor: "companionWeaponSlotPages", pageTypeSlug: "temper-companion-weapon-slot" },
   { accessor: "companionWeaponTypePages", pageTypeSlug: "temper-companion-weapon-type" },
   { accessor: "comparisonOpPages", pageTypeSlug: "temper-comparison-op" },
-  { accessor: "completionCategoryPages", pageTypeSlug: "temper-completion-category" },
   { accessor: "cursePages", pageTypeSlug: "temper-curse" },
   { accessor: "debuffMajorPages", pageTypeSlug: "temper-debuff-major", sidecars: true },
   { accessor: "debuffMinorPages", pageTypeSlug: "temper-debuff-minor", sidecars: true },
@@ -214,7 +200,6 @@ const ASKED: readonly Asked[] = [
   { accessor: "skillPages", pageTypeSlug: "temper-skill", limit: 5000, sidecars: true },
   { accessor: "skillLinePages", pageTypeSlug: "temper-skill-line" },
   { accessor: "skillLineCategoryPages", pageTypeSlug: "temper-skill-line-category" },
-  { accessor: "skillPointPages", pageTypeSlug: "temper-skill-point" },
   { accessor: "skillSlotPages", pageTypeSlug: "temper-skill-slot" },
   { accessor: "skillTypePages", pageTypeSlug: "temper-skill-type" },
   { accessor: "sourceCategoryPages", pageTypeSlug: "temper-source-category" },
@@ -232,15 +217,6 @@ const ASKED: readonly Asked[] = [
   { accessor: "weaponTypePages", pageTypeSlug: "temper-weapon-type" },
   { accessor: "zonePages", pageTypeSlug: "temper-zone" },
   { accessor: "potionCrownPages", pageTypeSlug: "temper-potion-crown" },
-  { accessor: "catalogDomainPages", pageTypeSlug: "temper-catalog-domain" },
-  { accessor: "tributePatronPages", pageTypeSlug: "temper-tribute-patron" },
-  { accessor: "antiquityCategoryPages", pageTypeSlug: "temper-antiquity-category" },
-  { accessor: "worldZonePages", pageTypeSlug: "temper-world-zone" },
-  { accessor: "cadwellLevelPages", pageTypeSlug: "temper-cadwell-level" },
-  { accessor: "craftTypePages", pageTypeSlug: "temper-craft-type" },
-  { accessor: "researchLinePages", pageTypeSlug: "temper-research-line" },
-  { accessor: "collectibleCategoryPages", pageTypeSlug: "temper-collectible-category" },
-  { accessor: "achievementCategoryPages", pageTypeSlug: "temper-achievement-category" },
 ]
 
 async function answered(one: Asked): Promise<readonly [string, PageResult]> {
