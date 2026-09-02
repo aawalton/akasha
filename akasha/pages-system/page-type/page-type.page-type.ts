@@ -5,6 +5,7 @@ import type { LoadedBySlug } from "./properties/loaded-by-slug.relation-property
 import type { MediaConfig } from "./properties/media-config.record-property.ts"
 import type { Mortal } from "./properties/mortal.boolean-property.ts"
 import type { Properties } from "./properties/properties.record-property.ts"
+import type { Sequence } from "./properties/sequence.record-property.ts"
 
 export type PageType = Domain & {
   extendsSlug: ExtendsSlug | null
@@ -13,6 +14,7 @@ export type PageType = Domain & {
   pluralSlug: PluralSlug
   loadedBySlug?: LoadedBySlug
   mediaConfig?: MediaConfig
+  sequence?: Sequence
 }
 
 export const pageType = {
@@ -33,6 +35,7 @@ export const pageType = {
     "record-property/image-media",
     "record-property/media-config",
     "record-property/properties",
+    "record-property/sequence",
     "relation-property/extends-slug",
     "relation-property/loaded-by-slug",
     "relation-property/page-property-slug",
@@ -40,6 +43,9 @@ export const pageType = {
     "text-property/media-renderer",
     "text-property/media-source-property-id",
     "text-property/media-variant-axis",
+    "text-property/sequence-direction",
+    "text-property/sequence-group-by",
+    "text-property/sequence-order-by",
   ],
   extendsSlug: "page-type/domain",
   properties: [
@@ -49,6 +55,7 @@ export const pageType = {
     { pagePropertySlug: "plural-slug", required: true, many: false },
     { pagePropertySlug: "loaded-by-slug", required: false, many: false },
     { pagePropertySlug: "media-config", required: false, many: false },
+    { pagePropertySlug: "sequence", required: false, many: false },
   ],
   invariants: [
     {
@@ -58,6 +65,10 @@ export const pageType = {
     {
       invariantKind: "departure",
       statement: "A page type says here whether its pages are rendered as audio or as an image.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type says here how its pages are grouped and ordered into a run.",
     },
   ],
 } as const satisfies PageType
