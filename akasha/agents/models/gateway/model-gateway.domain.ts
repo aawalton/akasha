@@ -27,6 +27,7 @@ export const modelGateway = {
     "module/parse-error-type",
     "module/peek-response",
     "module/permission-denied",
+    "module/pre-forward-queue",
     "module/proxy-headers",
     "module/proxy-start",
     "module/queue-step",
