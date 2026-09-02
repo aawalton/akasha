@@ -77,24 +77,27 @@ function counts(roots: readonly Node[]): readonly string[] {
   return [`initiatives:  ${walk(roots).length}`]
 }
 
-function main(): void {
-  const argv = process.argv.slice(2)
+// Takes what it was asked rather than reading `process.argv`, and is exported, so the verb server
+// can call it in a runtime that is already open. Every other verb the server answers was already
+// shaped this way; this one was the odd one out.
+export function main(argv: readonly string[]): number {
   if (argv.includes("--help") || argv.includes("-h")) {
     process.stdout.write(HELP)
-    return
+    return 0
   }
   const repo = akashaRoot()
   if (argv.includes("--colors") || argv.includes("--colours")) {
     process.stdout.write(`${JSON.stringify(colorsAnswer(repo, drawnNow()))}\n`)
-    return
+    return 0
   }
   const tree = workTree(initiativesIn(repo), drawnNow())
   if (argv.includes("--json")) {
     process.stdout.write(`${JSON.stringify({ repo, roots: tree })}\n`)
-    return
+    return 0
   }
   const lines = argv.includes("--counts") ? counts(tree) : render(tree)
   process.stdout.write(`${lines.join("\n")}\n`)
+  return 0
 }
 
-if (import.meta.main) main()
+if (import.meta.main) process.exitCode = main(process.argv.slice(2))

@@ -8,6 +8,7 @@ import * as statusBar from './features/status-bar/activate.ts';
 import * as workTree from './features/work-tree/activate.ts';
 import * as terminalRename from './features/terminal-rename/activate.ts';
 import * as transcript from './features/transcript/activate.ts';
+import { disposeVerbServer, verbServerHeard } from './harness-call.ts';
 import {
 	createObservationStore,
 	recordObservation,
@@ -31,6 +32,16 @@ const features = (context: vscode.ExtensionContext): readonly Startable[] => [
 export async function activate(context: vscode.ExtensionContext): Promise<void> {
 	const output = vscode.window.createOutputChannel('Ops: Activation');
 	context.subscriptions.push(output);
+
+	// THE ONE BUN PROCESS THIS WINDOW ASKS THROUGH IS THIS WINDOW'S. Two windows hold one each
+	// rather than sharing: a shared one would need an owner to reap it, a socket that outlives a
+	// crash, and an answer from whichever window's checkout started it first. A second bun
+	// process costs a bun startup per lease and nothing else.
+	//
+	// Registered before any feature starts, so a window closing during activation still takes the
+	// server with it. Its own stdin closing is the other reaper, and covers this host being killed.
+	verbServerHeard((text) => output.appendLine(`[verb-server] ${text.trimEnd()}`));
+	context.subscriptions.push({ dispose: () => disposeVerbServer() });
 
 	const windowName = await readProcess(process.pid);
 	const observations = createObservationStore({
