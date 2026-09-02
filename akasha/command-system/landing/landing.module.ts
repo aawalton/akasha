@@ -133,6 +133,10 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A hold is kept while a repair waits on the git index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change is judged before the hold is taken.",
     },
     {
