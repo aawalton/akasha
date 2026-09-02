@@ -772,7 +772,11 @@
       "dependencies": {
         "@akasha/code-system": "workspace:*",
         "@akasha/command-system": "workspace:*",
+        "@akasha/indexes": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-saved-vars-migration": "workspace:*",
+        "@akasha/utils-run": "workspace:*",
         "typescript": "5.9.3",
       },
     },

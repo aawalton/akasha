@@ -3,6 +3,8 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./addon-load-order": "./addon-load-order/addon-load-order.module.code.ts",
+    "./addon-metadata-copy": "./addon-metadata-copy/addon-metadata-copy.module.code.ts",
     "./addon-metadata-files": "./addon-metadata-files/addon-metadata-files.module.code.ts",
     "./addon-tstl-config": "./addon-tstl-config/addon-tstl-config.module.code.ts",
     "./consolidation-migrations": "./consolidation-migrations/consolidation-migrations.module.code.ts",
@@ -12,7 +14,11 @@
   "dependencies": {
     "@akasha/code-system": "workspace:*",
     "@akasha/command-system": "workspace:*",
+    "@akasha/indexes": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-saved-vars-migration": "workspace:*",
+    "@akasha/utils-run": "workspace:*",
     "typescript": "5.9.3"
   }
 }

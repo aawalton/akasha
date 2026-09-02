@@ -8,6 +8,8 @@ export const temperAddonBuild = {
   manifest: "json",
   partSlugs: [
     "module/lua-build-command",
+    "module/addon-load-order",
+    "module/addon-metadata-copy",
     "module/addon-tstl-config",
     "module/addon-metadata-files",
     "module/global-name-dependents",
