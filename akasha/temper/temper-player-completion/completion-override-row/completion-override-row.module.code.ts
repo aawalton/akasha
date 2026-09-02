@@ -6,15 +6,11 @@ export interface ParsedCompletionOverrideRow {
   readonly override: CompletionOverride
 }
 
-function isPathSegment(value: unknown): value is string | number {
-  return typeof value === "string" || typeof value === "number"
-}
-
 function parseItemPath(value: unknown): readonly (string | number)[] | null {
   if (!Array.isArray(value)) return null
   const out: (string | number)[] = []
   for (const segment of value) {
-    if (!isPathSegment(segment)) return null
+    if (typeof segment !== "string" && typeof segment !== "number") return null
     out.push(segment)
   }
   return out

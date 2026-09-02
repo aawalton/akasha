@@ -3,12 +3,9 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "@akasha/temper-completion/completion-progress"
+import { isRecord } from "@akasha/utils-narrow/is-record"
 
 const NESTED_LWW_KEYS: ReadonlySet<string> = new Set(["currentMorph", "unassigned"])
-
-function isPlainObject(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-}
 
 function isNumberArray(value: readonly unknown[]): value is readonly number[] {
   return value.every((entry) => typeof entry === "number")
@@ -51,7 +48,7 @@ export function deepForward(existing: unknown, incoming: unknown): unknown {
     }
     return indexMergeArrays(existing, incoming)
   }
-  if (isPlainObject(existing) && isPlainObject(incoming)) {
+  if (isRecord(existing) && isRecord(incoming)) {
     return mergeRecordForward(existing, incoming)
   }
   return incoming
@@ -84,7 +81,7 @@ function mergeTypedCompletion<T>(
 ): T | undefined {
   if (existing === undefined) return incoming
   if (incoming === undefined) return existing
-  if (!isPlainObject(existing) || !isPlainObject(incoming)) return incoming
+  if (!isRecord(existing) || !isRecord(incoming)) return incoming
 
   const merged: Record<string, unknown> = {}
   const keys = new Set<string>([...Object.keys(existing), ...Object.keys(incoming)])
