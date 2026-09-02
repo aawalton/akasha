@@ -1,0 +1,38 @@
+import type { EsoAddon } from "../../code-system/eso-addon/eso-addon.page-type.ts"
+
+export const temperLibCharacterKnowledge = {
+  id: "01a061fa-8034-72e8-8175-6440e4c91a6d",
+  pageTypeSlug: "eso-addon",
+  slug: "temper-lib-character-knowledge",
+  definition: "what every character on every account knows how to make",
+  manifest: "json",
+  addonManifest: "json",
+  partSlugs: [
+    "type-declaration/knowledge-string-ids",
+    "module/knowledge-types",
+    "module/knowledge-shape",
+    "module/knowledge-casts",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "What one character knows is kept as a bitfield over the whole item table.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The item table is scanned once per game update rather than once per session.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A character on another account is read from the shared saved record alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A character's knowledge travels between accounts as one line of text.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A console client cannot scan the item table and reads the shipped list.",
+    },
+  ],
+} as const satisfies EsoAddon

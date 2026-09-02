@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/temper-lib-character-knowledge",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@akasha/temper-settings-panel": "workspace:*"
+  },
+  "exports": {
+    "./knowledge-string-ids": "./knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts",
+    "./knowledge-types": "./knowledge-types/knowledge-types.module.code.ts",
+    "./knowledge-shape": "./knowledge-shape/knowledge-shape.module.code.ts",
+    "./knowledge-casts": "./knowledge-casts/knowledge-casts.module.code.ts"
+  }
+}

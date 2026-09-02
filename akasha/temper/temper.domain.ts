@@ -129,6 +129,7 @@ export const temper = {
     "workspace-package/temper-skill-morphs-access",
     "eso-addon/temper-lib-zone",
     "eso-addon/temper-selector-addon",
+    "eso-addon/temper-lib-character-knowledge",
   ],
   invariants: [
     {
