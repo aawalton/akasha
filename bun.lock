@@ -2702,23 +2702,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-companions-addon": {
-      "name": "@temper/game-companions-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/design-tokens": "workspace:*",
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-bit-codec": "workspace:*",
-        "@akasha/temper-capture-perf": "workspace:*",
-        "@akasha/temper-narrow": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-      },
-      "devDependencies": {
-        "@temper/game-codec": "workspace:*",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-companions-core": {
       "name": "@temper/game-companions-core",
       "version": "0.1.0",
@@ -2769,17 +2752,6 @@
     },
     "temper/game-crafting-addon": {
       "name": "@temper/game-crafting-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-events-addon": {
-      "name": "@temper/game-events-addon",
       "version": "0.1.0",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
@@ -3263,26 +3235,12 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/shared-addon-libraries-lib-async": {
-      "name": "@temper/shared-addon-libraries-lib-async",
-      "version": "0.1.0",
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/shared-addon-libraries-lib-character-knowledge": {
       "name": "@temper/shared-addon-libraries-lib-character-knowledge",
       "version": "0.1.0",
       "dependencies": {
         "@akasha/temper-settings-panel": "workspace:*",
       },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-addon-libraries-lib-debug-logger": {
-      "name": "@temper/shared-addon-libraries-lib-debug-logger",
-      "version": "0.1.0",
       "devDependencies": {
         "typescript": "^5.8.3",
       },
@@ -4611,8 +4569,6 @@
 
     "@temper/game-combat-addon": ["@temper/game-combat-addon@workspace:temper/game-combat-addon"],
 
-    "@temper/game-companions-addon": ["@temper/game-companions-addon@workspace:temper/game-companions-addon"],
-
     "@temper/game-companions-core": ["@temper/game-companions-core@workspace:temper/game-companions-core"],
 
     "@temper/game-companions-ui": ["@temper/game-companions-ui@workspace:temper/game-companions-ui"],
@@ -4620,8 +4576,6 @@
     "@temper/game-completion": ["@temper/game-completion@workspace:temper/game-completion"],
 
     "@temper/game-crafting-addon": ["@temper/game-crafting-addon@workspace:temper/game-crafting-addon"],
-
-    "@temper/game-events-addon": ["@temper/game-events-addon@workspace:temper/game-events-addon"],
 
     "@temper/game-housing-addon": ["@temper/game-housing-addon@workspace:temper/game-housing-addon"],
 
@@ -4667,11 +4621,7 @@
 
     "@temper/shared-addon-libraries-lib-addon-menu-order-list-box": ["@temper/shared-addon-libraries-lib-addon-menu-order-list-box@workspace:temper/shared-addon-libraries-lib-addon-menu-order-list-box"],
 
-    "@temper/shared-addon-libraries-lib-async": ["@temper/shared-addon-libraries-lib-async@workspace:temper/shared-addon-libraries-lib-async"],
-
     "@temper/shared-addon-libraries-lib-character-knowledge": ["@temper/shared-addon-libraries-lib-character-knowledge@workspace:temper/shared-addon-libraries-lib-character-knowledge"],
-
-    "@temper/shared-addon-libraries-lib-debug-logger": ["@temper/shared-addon-libraries-lib-debug-logger@workspace:temper/shared-addon-libraries-lib-debug-logger"],
 
     "@temper/shared-addon-libraries-lib-extended-journal": ["@temper/shared-addon-libraries-lib-extended-journal@workspace:temper/shared-addon-libraries-lib-extended-journal"],
 
