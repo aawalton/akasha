@@ -15,11 +15,6 @@
       "@types/bun"
     ]
   },
-  "references": [
-    {
-      "path": "../game-characters-equipment"
-    }
-  ],
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx"
