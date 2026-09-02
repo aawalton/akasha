@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "Ablation is the bottleneck, not recreation. `akasha edit` reaches any repository path since `01d263ef66`, and only `akasha write` still refuses outside `akasha/` — where no check judges anything, so a seat's own proof is the whole safety net. `akasha edit` holds a per-agent record of each outside file it wrote and refuses once a sibling touches it, with nothing able to refresh it; hand the call to a fresh agent. Landed akasha code imports `@temper/` three times in two files, all `game-codec`.",
+        "Six items packages ablated, confirmed gone at five sites each. 38 packages and 2,291 files remain under `temper/` against 19,421 in akasha, at `75d3c0191e`. `akasha edit` reaches any path; only `akasha write` refuses outside `akasha/`, where no check judges, so a seat's own proof is the whole net. Its record of an outside file is per agent and unrefreshable: hand the call to a fresh agent. The git index emptied for a minute today, so print the denominator — a zero off nothing reads clean.",
     },
   ],
   constraints: [
