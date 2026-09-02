@@ -48,7 +48,6 @@ export const temperAddonLibraryTypes = {
     "type-declaration/lib-alchemy-station",
     "type-declaration/lib-async",
     "type-declaration/lib-main-menu-shape",
-    "type-declaration/lam-option-controls",
     "type-declaration/crafting-addon-neighbours",
     "type-declaration/temper-addons-global",
     "type-declaration/temper-inventory-global",
