@@ -1,11 +1,18 @@
 "use client"
 
 import { PaginatedCardGrid } from "@akasha/design-layout/paginated-card-grid"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "@akasha/design-patterns/empty"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
-import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import { getRoleName } from "@akasha/temper-character-sources/character-roles"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { FolderOpen, Search } from "lucide-react"
 import { useCallback, useMemo } from "react"
 import { CharacterListCardWithHandle } from "@/components/characters/character-list-card-with-handle"
