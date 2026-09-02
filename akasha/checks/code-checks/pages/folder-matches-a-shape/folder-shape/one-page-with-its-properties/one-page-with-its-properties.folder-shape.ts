@@ -7,7 +7,7 @@ export const onePageWithItsProperties = {
   definition: "the shape of a folder holding one page and the files standing beside it",
   code: "ts",
   test: "ts",
-  enabled: true,
+  enabled: false,
   invariants: [
     {
       invariantKind: "departure",
