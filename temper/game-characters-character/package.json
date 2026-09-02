@@ -5,6 +5,7 @@
     "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
+    "@akasha/temper-characters-equipment": "workspace:*",
     "@akasha/temper-classes": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
@@ -13,7 +14,6 @@
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/game-characters-equipment": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {
