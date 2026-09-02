@@ -1,4 +1,6 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { CompanionCardId } from "@akasha/temper-player-completion/completion-card-registry"
+import type { CompanionSkillLineProgress } from "@akasha/temper-player-completion/completion-ui-types"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -9,8 +11,6 @@ import {
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { requireGet } from "@akasha/utils-narrow/require-get"
-import type { CompanionCardId } from "@temper/player-completion/completion-card-registry"
-import type { CompanionSkillLineProgress } from "@temper/player-completion/completion-ui-types"
 
 interface CompanionSkillLinesProgressPanelCardProps {
   id?: CompanionCardId
