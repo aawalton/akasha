@@ -1,18 +1,25 @@
-import { type SentenceMark, sentenceMarkSchema } from "@akasha/voice-core/voice/mark-schema"
 import { detailConfigFor } from "@akasha/pages-access/file-detail-config"
-import { getPage, getPageByIdSuffix, getPageByIdSuffixAcrossTypes, getPages } from "@akasha/pages-access/get"
+import {
+  getPage,
+  getPageByIdSuffix,
+  getPageByIdSuffixAcrossTypes,
+  getPages,
+} from "@akasha/pages-access/get"
 import { getDescendantPageTypeSlugs } from "@akasha/pages-access/page-type"
 import { getMediaConfig, getSequenceConfig } from "@akasha/pages-access/page-type-config"
 import { resolveDisplayKind } from "@akasha/pages-core/schema/detail-config"
-import type { ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chrome"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
+import type { ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chrome"
 import { buildPageHref, parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { getRequestServerClient, resolveRequestSession } from "@akasha/supabase-rr/request-session-cache"
+import {
+  getRequestServerClient,
+  resolveRequestSession,
+} from "@akasha/supabase-rr/request-session-cache"
 import { isRecord } from "@akasha/utils-narrow/is-record"
+import { type SentenceMark, sentenceMarkSchema } from "@akasha/voice-core/voice/mark-schema"
 import { data } from "react-router"
 import { z } from "zod"
-import { loadAwenGame } from "~/awen/game-reader.server"
 import { resolveMediaVariants } from "~/lib/media-variants"
 import { resolveNextUnreadHref } from "~/lib/next-unread"
 import { selectPageDisplayKind } from "~/lib/page-display-kind"
@@ -107,20 +114,6 @@ export async function loader({ params, request }: Route.LoaderArgs) {
         faviconIdSuffix: null,
         title,
         frame: detailConfig?.frame ?? null,
-      },
-      { headers }
-    )
-  }
-  if (displayKind === "awen" && externalId != null) {
-    const awen = await loadAwenGame(externalId)
-    return data(
-      {
-        kind: "awen-game" as const,
-        pageTypeSlug: resolvedSlug,
-        id,
-        awen,
-        faviconIdSuffix: null,
-        title,
       },
       { headers }
     )

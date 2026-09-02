@@ -2,16 +2,15 @@
 
 import { resolveDisplayKind } from "@akasha/pages-core/schema/detail-config"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
-import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { getPageDisplay } from "@akasha/pages-ui/capabilities/page-display-registry"
 import { useAllPages, usePageByIdSuffix } from "@akasha/pages-ui/supabase/hooks"
 import { useReaderNeighbors } from "@akasha/pages-ui/supabase/use-reader-neighbors"
+import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { lazy, Suspense } from "react"
 import { useParams } from "react-router"
-import { AwenRemoteReader } from "~/awen/components/awen-remote-reader"
 import { OfflineDownloadButton } from "~/components/offline-download-button"
 import { ReaderNarrationDetail } from "~/components/reader-narration-detail"
 import { type PageDisplayKind, selectPageDisplayKind } from "~/lib/page-display-kind"
@@ -144,12 +143,6 @@ function PageDetailDispatch({
             frameConfig={pageTypeDetailConfig?.frame ?? null}
           />
         </Suspense>
-      )
-    case "awen":
-      return externalId !== null ? (
-        <AwenRemoteReader externalId={externalId} fallback={genericBody} />
-      ) : (
-        genericBody
       )
     case "persona":
     case "generic":

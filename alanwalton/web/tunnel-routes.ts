@@ -25,19 +25,4 @@ export const routes: TunnelRoute[] = [
     hostname: "idle.alanwalton.com",
     service: "http://web.alanwalton.svc.cluster.local:3000",
   },
-  {
-    name: "alanwalton-awen-legacy",
-    hostname: "awen.alanwalton.com",
-    service: "http://web.alanwalton.svc.cluster.local:3000",
-  },
-  {
-    name: "tower",
-    hostname: "tower.alanwalton.com",
-    service: "http://web.alanwalton.svc.cluster.local:3000",
-  },
-  {
-    name: "dragons",
-    hostname: "dragons.alanwalton.com",
-    service: "http://web.alanwalton.svc.cluster.local:3000",
-  },
 ]

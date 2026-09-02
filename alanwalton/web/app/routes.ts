@@ -54,10 +54,6 @@ export default [
   route("api/load", "routes/api.load.ts"),
   route("api/save", "routes/api.save.ts"),
   route("api/catalog", "routes/api.catalog.ts"),
-  route("api/session/:externalId", "routes/api.session.$externalId.ts"),
-  route("api/awen-game/:externalId", "routes/api.awen-game.$externalId.ts"),
-  route("api/action", "routes/api.action.ts"),
-  route("api/awen/read/:externalId", "routes/api.awen.read.$externalId.ts"),
   route("api/chess/analyze", "routes/api.chess.analyze.ts"),
 
   route("api/push/register", "routes/api.push.register.ts"),

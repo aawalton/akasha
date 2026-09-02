@@ -1,12 +1,10 @@
-import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
-import { DISPLAY_PARAM, parseDisplayMode } from "@akasha/pages-url/page-display-mode"
-import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PageDetailContent } from "@akasha/pages-ui-components/page-detail-content"
 import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { ViewPageFrame } from "@akasha/pages-ui-components/view-page-frame"
+import { DISPLAY_PARAM, parseDisplayMode } from "@akasha/pages-url/page-display-mode"
+import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { lazy, Suspense } from "react"
 import { type ShouldRevalidateFunctionArgs, useSearchParams } from "react-router"
-import { AwenGameReader } from "~/awen/game-reader"
 import { ReaderNarrationDetail } from "~/components/reader-narration-detail"
 import type { Route } from "./+types/page-detail"
 
@@ -66,8 +64,8 @@ export function shouldRevalidate(args: ShouldRevalidateFunctionArgs): boolean {
   return shouldRevalidatePageDetail(args)
 }
 
-export { loader } from "./page-detail-loader.server"
 export { PageDetailErrorBoundary as ErrorBoundary } from "./page-detail-error-boundary"
+export { loader } from "./page-detail-loader.server"
 
 export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
   const [searchParams] = useSearchParams()
@@ -80,12 +78,14 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
   if (
     displayMode === "properties" &&
     (loaderData.kind === "idle" ||
-      loaderData.kind === "awen-game" ||
       loaderData.kind === "chess-game" ||
       loaderData.kind === "chess-review")
   ) {
     return (
-      <PageDetailContent pageTypeSlug={toPageTypeSlug(loaderData.pageTypeSlug)} id={loaderData.id} />
+      <PageDetailContent
+        pageTypeSlug={toPageTypeSlug(loaderData.pageTypeSlug)}
+        id={loaderData.id}
+      />
     )
   }
   if (loaderData.kind === "idle") {
@@ -93,13 +93,6 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
       <Suspense fallback={null}>
         <IdleGame title={loaderData.title} frameConfig={loaderData.frame} />
       </Suspense>
-    )
-  }
-  if (loaderData.kind === "awen-game") {
-    return (
-      <SurfaceProvider level={0} className="min-h-screen">
-        <AwenGameReader {...loaderData.awen} />
-      </SurfaceProvider>
     )
   }
   if (loaderData.kind === "chess-game") {

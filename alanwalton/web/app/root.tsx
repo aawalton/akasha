@@ -1,12 +1,12 @@
-import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
-import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { CommandPalette } from "@akasha/design-primitives/command-palette"
 import { ShortcutSheet } from "@akasha/design-primitives/shortcut-sheet"
+import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { ErrorCaptureInstaller } from "@akasha/errors-client/error-capture-installer"
 import { reportError } from "@akasha/errors-client/error-reporting"
 import { useReportRenderError } from "@akasha/errors-client/use-report-render-error"
 import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
 import { type AuthRouteConfig, authGuard } from "@akasha/supabase-rr/auth-guard"
+import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
 import type React from "react"
 import { useEffect } from "react"
 import {
@@ -48,8 +48,6 @@ const AUTH_CONFIG: AuthRouteConfig = {
     /^\/api\/load$/,
     /^\/api\/save$/,
     /^\/api\/persona\/message$/,
-    /^\/api\/action$/,
-    /^\/api\/awen\/read\//,
     /^\/api\/push\/register$/,
     /^\/api\/track\//,
     /^\/api\/device-secret\/mint$/,

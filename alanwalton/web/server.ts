@@ -1,6 +1,9 @@
 import { join } from "node:path"
 import { randomId } from "@akasha/id-minting"
-import { type AppCspConfig, buildSecurityHeaders } from "@akasha/web-security-headers/security-headers"
+import {
+  type AppCspConfig,
+  buildSecurityHeaders,
+} from "@akasha/web-security-headers/security-headers"
 import { htmlCacheControl, serveClientStatic } from "@akasha/web-static-assets/serve-static"
 import type { ServerBuild } from "react-router"
 import { createRequestHandler } from "react-router"
@@ -58,15 +61,6 @@ Bun.serve({
     const host = url.hostname
     if (host === "idle.alanwalton.com") {
       return Response.redirect("https://alanwalton.com/idle", 301)
-    }
-    if (host === "awen.alanwalton.com") {
-      return Response.redirect("https://alanwalton.com/games", 301)
-    }
-    if (host === "tower.alanwalton.com") {
-      return Response.redirect("https://alanwalton.com/game/the-tower-29644e7b", 302)
-    }
-    if (host === "dragons.alanwalton.com") {
-      return Response.redirect("https://alanwalton.com/game/dragons-dungeons-92c712df", 302)
     }
 
     const staticRes = await serveClientStatic(pathname, CLIENT_DIR)
