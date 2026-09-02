@@ -7,11 +7,6 @@ export const dallaDraftIntoAPatch = {
   domainSlug: "domain/change",
   personaSlug: "dalla",
   intents: [
-    {
-      statement: "A seat and a subagent each carry the patch they are drafting.",
-      workingMemory:
-        "A patch is uncommitted state on a page every agent reads at startup, so a patch file that cannot be read leaves the seat readable rather than taking the seat down.",
-    },
     { statement: "A subagent states the agent id it runs under." },
     {
       statement: "A drafted change is worked into the agent's patch and rebased onto main.",
