@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./claude-account-measuring": "./claude-account/claude-account-measuring/claude-account-measuring.module.code.ts"
+    "./claude-account-measuring": "./claude-accounts/claude-account-measuring/claude-account-measuring.module.code.ts"
   }
 }

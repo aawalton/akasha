@@ -33,7 +33,7 @@ const PAGE_TYPE = "claude-account"
 // answer that went stale: a folder move repoints no string in this repository, so the prefix would
 // have matched nothing and every reader below would have seen a fleet of none. This constant is
 // reached only for a root the index names no account in, where there is no page to read it off.
-const ACCOUNT_DIR = "akasha/agents-system/claude-account/pages"
+const ACCOUNT_DIR = "akasha/agents-system/claude-accounts/pages"
 
 export function akashaRoot(): string {
   return rootFor(resolveRoots(), AKASHA)
