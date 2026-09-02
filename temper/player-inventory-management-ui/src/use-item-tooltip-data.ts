@@ -3,8 +3,8 @@ import type {
   ItemTooltipData,
   ItemTooltipInstance,
   MinedItemData,
-} from "@temper/game-items-core/item-tooltip-types"
-import { resolveItemTooltipData } from "@temper/game-items-core/item-tooltip-types"
+} from "@akasha/temper-items-core/item-tooltip-types"
+import { resolveItemTooltipData } from "@akasha/temper-items-core/item-tooltip-types"
 import { useCallback, useEffect, useRef, useState } from "react"
 
 const minedItemCache = new Map<number, MinedItemData>()
