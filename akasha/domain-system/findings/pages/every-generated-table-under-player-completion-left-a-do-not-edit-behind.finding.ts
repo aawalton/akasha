@@ -1,9 +1,9 @@
 import type { Finding } from "../finding.page-type.ts"
 
-export const sixTablesTemperRendersFromItsOwnPagesLeftADoNotEditBehind = {
+export const everyGeneratedTableUnderPlayerCompletionLeftADoNotEditBehind = {
   id: "01a063b8-5dac-7bec-814f-c9cc8f53c117",
   pageTypeSlug: "finding",
-  slug: "six-tables-temper-renders-from-its-own-pages-left-a-do-not-edit-behind",
+  slug: "every-generated-table-under-player-completion-left-a-do-not-edit-behind",
   domainSlug: "domain/temper",
   claim:
     "Six generated tables temper renders from its own pages each carry a `DO NOT EDIT` directive that akasha does not. Four name `ops temper catalog generate <table>`, a per-table spelling nothing has recorded before; two name `ops temper addon-data generate` and are readable only from git, their files having gone with their packages.",
