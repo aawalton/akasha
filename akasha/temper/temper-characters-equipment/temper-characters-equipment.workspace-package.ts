@@ -36,16 +36,10 @@ export const temperCharactersEquipment = {
     "module/bulk-update-jewelry",
     "module/bulk-update-weapons",
     "module/bulk-update-functions",
+    "module/sets-data-000",
+    "module/sets-data-001",
   ],
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "The generated table of gear sets is outside akasha.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The modules reading that table are outside akasha.",
-    },
     {
       invariantKind: "upkeep",
       statement: "A generator for these tables writes outside akasha.",

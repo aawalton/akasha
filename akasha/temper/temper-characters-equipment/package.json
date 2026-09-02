@@ -26,6 +26,8 @@
     "./set-equipment-types": "./set-equipment-types/set-equipment-types.module.code.ts",
     "./set-pattern-matcher": "./set-pattern-matcher/set-pattern-matcher.module.code.ts",
     "./set-select-types": "./set-select-types/set-select-types.module.code.ts",
+    "./sets-data-000": "./sets-data-000/sets-data-000.module.code.ts",
+    "./sets-data-001": "./sets-data-001/sets-data-001.module.code.ts",
     "./weapon-enchants": "./weapon-enchants/weapon-enchants.module.code.ts",
     "./weapon-slot-access": "./weapon-slot-access/weapon-slot-access.module.code.ts",
     "./weapon-slot-mutations": "./weapon-slot-mutations/weapon-slot-mutations.module.code.ts",
