@@ -1,5 +1,5 @@
 import "../chat-message-declarations/chat-message-declarations.module.code.ts"
-import { asString, asZoColorDef } from "../chat-message-casts/chat-message-casts.module.code.ts"
+import { asZoColorDef } from "../chat-message-casts/chat-message-casts.module.code.ts"
 import {
   COLOR_FORMAT,
   LIB_IDENTIFIER,
@@ -20,7 +20,7 @@ export function createChatProxy(this: void, longTag: string, shortTag: string): 
         if (type(color) === "table") {
           this.tagColor = asZoColorDef(color).ToHex()
         } else {
-          this.tagColor = asString(color)
+          this.tagColor = color as string
         }
       }
       return this
@@ -64,7 +64,7 @@ export function installChatProxy(this: void): undefined {
   setmetatable(LIB, {
     __call(this: Lib, ...args: unknown[]): ChatProxy {
       const create = LIB.Create ?? createChatProxy
-      return create(asString(args[0]), asString(args[1]))
+      return create(args[0] as string, args[1] as string)
     },
   })
 }

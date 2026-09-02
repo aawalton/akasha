@@ -1,7 +1,6 @@
+import type { GlobalFnTable } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
 import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
 import {
-  asControl,
-  asGlobalFnTable,
   asLcmControlBase,
   asSlotActionsTable,
   asZoInventorySlotActions,
@@ -11,7 +10,8 @@ import { menu } from "../eso-menu/eso-menu.module.code.ts"
 import { cleanupEntryHeights, runTooltip } from "../menu-row-setup/menu-row-setup.module.code.ts"
 import { clearTimeout } from "../submenu-timeout/submenu-timeout.module.code.ts"
 
-const glob = asGlobalFnTable(globalThis)
+const everyGlobal: unknown = globalThis
+const glob = everyGlobal as GlobalFnTable
 
 export function hookClearMenu(this: void): undefined {
   const orgClearMenu = ClearMenu
@@ -242,7 +242,7 @@ export function hookSocialListContextMenu(
     rowData = undefined
     showing = false
     if (button === MOUSE_BUTTON_INDEX_RIGHT && upInside === true) {
-      const data = ZO_ScrollList_GetData(asControl(control))
+      const data = ZO_ScrollList_GetData(control as Control)
       showing = data !== undefined
       if (data !== undefined) {
         if (menu.items.length > 0) {

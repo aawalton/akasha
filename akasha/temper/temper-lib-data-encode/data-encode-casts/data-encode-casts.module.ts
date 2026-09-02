@@ -8,10 +8,6 @@ export const dataEncodeCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "A cast is made only after asking the value's Lua type.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here checks a value at run time.",
     },

@@ -1,10 +1,4 @@
-import {
-  asLdeValue,
-  asLuaArray,
-  asLuaTable,
-  asNumber,
-  asString,
-} from "../data-encode-casts/data-encode-casts.module.code.ts"
+import { asLdeValue, asLuaArray } from "../data-encode-casts/data-encode-casts.module.code.ts"
 import {
   CHARSET_LENGTH,
   CONTROL_CHARS,
@@ -93,10 +87,10 @@ ENCODE_DATA_HANDLER.AddInteger = function (this: EncodeInstance, integer: number
   let str = ""
   let value = integer
   if (value === 0) {
-    str = asString(VALUE_TO_CHAR[0])
+    str = VALUE_TO_CHAR[0] as string
   }
   while (value > 0) {
-    const res = asString(VALUE_TO_CHAR[value % CHARSET_LENGTH])
+    const res = VALUE_TO_CHAR[value % CHARSET_LENGTH] as string
     str = res + str
     value = math.floor(value / CHARSET_LENGTH)
   }
@@ -132,7 +126,7 @@ ENCODE_DATA_HANDLER.CheckForStringId = function (
   ) {
     const id = this.reverseDictionary[asLdeValue(value)]
     if (id !== undefined) {
-      return asNumber(id)
+      return id as number
     }
   }
   return undefined
@@ -152,7 +146,7 @@ ENCODE_DATA_HANDLER.EncodeItem = function (this: EncodeInstance, value: unknown)
     }
     this.AddInteger(stringId)
   } else if (valueType === "table") {
-    const numEntries = NonContiguousCount(asLuaTable(value))
+    const numEntries = NonContiguousCount(value as LuaTable)
     if (asLuaArray(value).length === numEntries) {
       this.AddString(CONTROL_CHARS.ARRAY)
       this.EncodeArray(value)
@@ -163,7 +157,7 @@ ENCODE_DATA_HANDLER.EncodeItem = function (this: EncodeInstance, value: unknown)
       this.AddString(CONTROL_CHARS.END)
     }
   } else if (valueType === "string") {
-    const str = asString(value)
+    const str = value as string
     const stringLength = string.len(str)
     if (stringLength < CHARSET_LENGTH) {
       this.AddString(CONTROL_CHARS.STRING)
@@ -181,7 +175,7 @@ ENCODE_DATA_HANDLER.EncodeItem = function (this: EncodeInstance, value: unknown)
       this.AddString(string.sub(str, 1, 996))
     }
   } else if (valueType === "number") {
-    const num = asNumber(value)
+    const num = value as number
     if (math.floor(num) === num && num >= 0 && num < 68719476736) {
       this.AddString(CONTROL_CHARS.UINT)
       this.AddInteger(num)
@@ -209,7 +203,7 @@ ENCODE_DATA_HANDLER.EncodeArray = function (this: EncodeInstance, array: unknown
 }
 
 ENCODE_DATA_HANDLER.EncodeTable = function (this: EncodeInstance, tableValue: unknown): undefined {
-  for (const [key, value] of pairs(asLuaTable(tableValue))) {
+  for (const [key, value] of pairs(tableValue as LuaTable)) {
     if (type(key) === "function" || type(value) === "function") {
       printLog(LOG_LEVELS.debug, "Encoding of functions is not supported.")
     } else {

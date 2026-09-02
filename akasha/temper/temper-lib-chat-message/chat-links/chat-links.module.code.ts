@@ -1,5 +1,5 @@
 import "../chat-message-declarations/chat-message-declarations.module.code.ts"
-import { asString } from "../chat-message-casts/chat-message-casts.module.code.ts"
+
 import {
   LINK_GMATCH_PATTERN,
   UNKNOWN_LINK_TYPE,
@@ -32,7 +32,7 @@ function decodeCustomLinks(this: void, ...captures: string[]): string {
 }
 
 export function customLinkFormatter(this: void, ...args: unknown[]): unknown[] {
-  const text = asString(args[2])
+  const text = args[2] as string
   const [newText] = string.gsub(text, LINK_GMATCH_PATTERN, decodeCustomLinks)
   args[2] = newText
   return args

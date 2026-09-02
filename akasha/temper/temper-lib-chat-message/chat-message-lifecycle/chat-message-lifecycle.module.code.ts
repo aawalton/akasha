@@ -1,11 +1,9 @@
+import type { StringRecord } from "../chat-message-casts/chat-message-casts.module.code.ts"
 import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 import {
   asChatEventKey,
   asHistoryArray,
-  asNumber,
   asSettings,
-  asString,
-  asStringRecord,
 } from "../chat-message-casts/chat-message-casts.module.code.ts"
 import {
   LIB_IDENTIFIER,
@@ -32,9 +30,9 @@ export function registerLifecycle(this: void): undefined {
       const chat = createChatProxy("LibChatMessage", "LCM")
       registerSlashCommand(chat)
 
-      const settingsStore = asStringRecord(LibChatMessageSettings ?? {})
+      const settingsStore = LibChatMessageSettings ?? ({} as StringRecord)
       LibChatMessageSettings = settingsStore
-      const historyStore = asStringRecord(LibChatMessageHistory ?? {})
+      const historyStore = LibChatMessageHistory ?? ({} as StringRecord)
       LibChatMessageHistory = historyStore
 
       const settings = asSettings(
@@ -43,8 +41,10 @@ export function registerLifecycle(this: void): undefined {
       settingsStore[saveDataKey] = settings
       LIB.settings = settings
 
-      const settingsRecord = asStringRecord(settings)
-      const defaultsRecord = asStringRecord(LIB.defaultSettings)
+      const held: unknown = settings
+      const settingsRecord = held as StringRecord
+      const defaults: unknown = LIB.defaultSettings
+      const defaultsRecord = defaults as StringRecord
       for (const [key, value] of pairs(defaultsRecord)) {
         if (settingsRecord[key] === undefined) {
           settingsRecord[key] = value
@@ -59,7 +59,7 @@ export function registerLifecycle(this: void): undefined {
       LIB.chatHistoryActive = settings.historyEnabled
 
       function restoreChatHistoryEntry(this: void, entry: HistoryEntry): undefined {
-        LIB.nextEventTimeStamp = asNumber(entry[0])
+        LIB.nextEventTimeStamp = entry[0] as number
         const eventKey = asChatEventKey(readFromSavedVariable(entry[1]))
         const args: unknown[] = []
         for (let i = 2; i < entry.length; i += 1) {
@@ -85,7 +85,7 @@ export function registerLifecycle(this: void): undefined {
           const ageThreshold = GetTimeStamp() - settings.historyMaxAge
           for (let i = 0; i < oldHistory.length; i += 1) {
             const item = oldHistory[i]
-            if (item !== undefined && asNumber(item[0]) > ageThreshold) {
+            if (item !== undefined && (item[0] as number) > ageThreshold) {
               restoreChatHistoryEntry(item)
             }
           }
@@ -137,7 +137,7 @@ export function registerLifecycle(this: void): undefined {
           const unknownType = rest[0]
           ZO_Alert(
             EVENT_UI_ERROR,
-            asString(SOUNDS.NEGATIVE_CLICK),
+            SOUNDS.NEGATIVE_CLICK as string,
             zo_strformat(LIB_CHATMESSAGE_UNKNOWN_DESCRIPTION, unknownType)
           )
           return true

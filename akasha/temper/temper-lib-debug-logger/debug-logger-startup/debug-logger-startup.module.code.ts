@@ -1,9 +1,6 @@
 import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
 
-import {
-  asPreHookFn,
-  asStringRecord,
-} from "../debug-logger-casts/debug-logger-casts.module.code.ts"
+import { asPreHookFn } from "../debug-logger-casts/debug-logger-casts.module.code.ts"
 import { INTERNAL, lib } from "../debug-logger-state/debug-logger-state.module.code.ts"
 
 declare const debug: { traceback: (this: void, message?: string, level?: number) => string }
@@ -305,7 +302,7 @@ export function initStartup(): undefined {
     }
   )
 
-  ZO_PreHook(asStringRecord(CHAT_ROUTER), "AddDebugMessage", asPreHookFn(logChatMessage))
+  ZO_PreHook(CHAT_ROUTER, "AddDebugMessage", asPreHookFn(logChatMessage))
 
   ZO_PreHook("ZO_Alert", asPreHookFn(logAlertMessage))
   ZO_PreHook("ZO_AlertNoSuppression", asPreHookFn(logAlertMessage))

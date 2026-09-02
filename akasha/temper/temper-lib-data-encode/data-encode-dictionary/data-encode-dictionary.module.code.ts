@@ -1,13 +1,9 @@
-import {
-  asLdeValue,
-  asLuaArray,
-  asLuaTable,
-  asNumber,
-} from "../data-encode-casts/data-encode-casts.module.code.ts"
+import { asLdeValue, asLuaArray } from "../data-encode-casts/data-encode-casts.module.code.ts"
 import type {
   DictionaryClass,
   DictionaryInstance,
   LdeValue,
+  LuaTable,
 } from "../data-encode-types/data-encode-types.module.code.ts"
 
 const DICTIONARY_OBJECT = ZO_InitializingObject.Subclass<DictionaryClass>()
@@ -32,14 +28,14 @@ DICTIONARY_OBJECT.Initialize = function (
   for (const key in counts3) {
     keys.push(asLdeValue(key))
   }
-  keys.sort((a, b) => asNumber(counts3[b]) - asNumber(counts3[a]))
+  keys.sort((a, b) => (counts3[b] as number) - (counts3[a] as number))
   for (const key of keys) {
     this.dictionary.push(key)
   }
 }
 
 DICTIONARY_OBJECT.ScanTable = function (this: DictionaryInstance, data: unknown): undefined {
-  const table = asLuaTable(data)
+  const table = data as LuaTable
   const isArray = type(data) === "table" && asLuaArray(data).length === NonContiguousCount(table)
   for (const k in table) {
     const v = table[k]
@@ -57,7 +53,7 @@ DICTIONARY_OBJECT.ValidateValue = function (this: DictionaryInstance, value: unk
     return false
   }
   if (type(value) === "number") {
-    const num = asNumber(value)
+    const num = value as number
     if (math.floor(num) === num) {
       return num > 100 || num < 0
     }
@@ -81,7 +77,7 @@ DICTIONARY_OBJECT.IncreaseCount = function (this: DictionaryInstance, value: Lde
   } else if (counts[2][value] === undefined) {
     counts[2][value] = 3
   } else {
-    counts[2][value] = asNumber(counts[2][value]) + 1
+    counts[2][value] = (counts[2][value] as number) + 1
   }
 }
 

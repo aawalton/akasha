@@ -1,14 +1,10 @@
 import type { Lib } from "../debug-logger-types/debug-logger-types.module.code.ts"
 
-export type GlobalTable = Record<string, unknown>
-
-export function asGlobalTable(value: unknown): GlobalTable {
-  return value as GlobalTable
-}
-
 export function asLib(value: unknown): Lib {
   return value as Lib
 }
+
+export type GlobalTable = Record<string, unknown>
 
 export type LoggerTag = string
 
@@ -30,14 +26,6 @@ export function asFormatArgs(value: readonly unknown[]): FormatArgs {
 
 export function asConcatList(value: unknown): ConcatList {
   return value as ConcatList
-}
-
-export function asString(value: unknown): string {
-  return value as string
-}
-
-export function asStringRecord(value: unknown): StringRecord {
-  return value as StringRecord
 }
 
 export function asPreHookFn(value: unknown): PreHookFn {

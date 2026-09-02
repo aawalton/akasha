@@ -1,5 +1,5 @@
 import "../chat-message-declarations/chat-message-declarations.module.code.ts"
-import { asString } from "../chat-message-casts/chat-message-casts.module.code.ts"
+
 import {
   MAX_HISTORY_LENGTH,
   TRIMMED_HISTORY_LENGTH,
@@ -10,7 +10,7 @@ import { writeToSavedVariable } from "../chat-saved-data/chat-saved-data.module.
 
 export function getFormattedTime(this: void, timeStamp: number): string {
   const settings = LIB.settings ?? LIB.defaultSettings
-  return asString(os.date(settings.timePrefixFormat, timeStamp))
+  return os.date(settings.timePrefixFormat, timeStamp) as string
 }
 
 export function getTimeStampForEvent(this: void): LuaMultiReturn<[number, boolean]> {

@@ -1,4 +1,3 @@
-import { asLuaTable } from "../data-encode-casts/data-encode-casts.module.code.ts"
 import { CHARSET, CHARSET_LENGTH } from "../data-encode-charset/data-encode-charset.module.code.ts"
 import { decode } from "../data-encode-decoder/data-encode-decoder.module.code.ts"
 import { encode } from "../data-encode-encoder/data-encode-encoder.module.code.ts"
@@ -20,8 +19,8 @@ function compareTables(this: void, t1: unknown, t2: unknown): boolean {
   if (type(t1) !== "table") {
     return t1 === t2
   }
-  const tbl1 = asLuaTable(t1)
-  const tbl2 = asLuaTable(t2)
+  const tbl1 = t1 as LuaTable
+  const tbl2 = t2 as LuaTable
   for (const [k, v] of pairs(tbl1)) {
     if (type(v) === "table" && type(tbl2[k]) === "table") {
       compareTables(v, tbl2[k])

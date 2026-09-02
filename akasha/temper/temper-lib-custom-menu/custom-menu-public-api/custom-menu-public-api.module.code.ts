@@ -1,9 +1,6 @@
+import type { GlobalTable } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
 import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
-import {
-  asGlobalTable,
-  asVoidSelfFn,
-  asZoColorDef,
-} from "../custom-menu-casts/custom-menu-casts.module.code.ts"
+import { asVoidSelfFn, asZoColorDef } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   MENU_ADD_OPTION_HEADER,
   SUBMENU_ITEM_MOUSE_CLICKED,
@@ -140,7 +137,7 @@ function addCustomSubMenuItem(
   return index
 }
 
-const published = asGlobalTable(globalThis)
+const published = globalThis as GlobalTable
 published["AddCustomMenuItem"] = addCustomMenuItem
 published["AddCustomMenuTooltip"] = addCustomMenuTooltip
 published["AddCustomSubMenuItem"] = addCustomSubMenuItem

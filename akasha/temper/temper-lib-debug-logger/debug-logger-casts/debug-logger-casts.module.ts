@@ -11,9 +11,5 @@ export const debugLoggerCasts = {
       invariantKind: "departure",
       statement: "A cast here changes no value.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A shape the game hands back untyped is named here rather than at each call.",
-    },
   ],
 } as const satisfies Module

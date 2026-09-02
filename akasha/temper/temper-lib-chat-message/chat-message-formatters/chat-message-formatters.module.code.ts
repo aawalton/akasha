@@ -1,3 +1,4 @@
+import type { GlobalTable } from "../chat-message-casts/chat-message-casts.module.code.ts"
 import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 import {
   getFormattedTime,
@@ -5,7 +6,7 @@ import {
   storeChatEvent,
 } from "../chat-history/chat-history.module.code.ts"
 import { customLinkFormatter } from "../chat-links/chat-links.module.code.ts"
-import { asGlobalTable, asString } from "../chat-message-casts/chat-message-casts.module.code.ts"
+
 import {
   LIB_IDENTIFIER,
   MESSAGE_TEMPLATE,
@@ -41,10 +42,10 @@ function applyTimeAndTagPrefix(
   if (text !== undefined) {
     const tagMode = LIB.settings?.tagPrefixMode
     if (tagMode !== undefined && tagMode !== TAG_PREFIX_OFF) {
-      text = string.format(MESSAGE_TEMPLATE, SYSTEM_TAG, asString(text))
+      text = string.format(MESSAGE_TEMPLATE, SYSTEM_TAG, text as string)
     }
     if (LIB.settings?.timePrefixEnabled === true) {
-      text = string.format(MESSAGE_TEMPLATE, getFormattedTime(timeStamp), asString(text))
+      text = string.format(MESSAGE_TEMPLATE, getFormattedTime(timeStamp), text as string)
     }
   }
   return $multi(text, targetChannel, fromDisplayName, rawMessageText)
@@ -84,11 +85,11 @@ export function installFormatters(this: void): undefined {
   })
 
   ZO_PreHook(
-    asGlobalTable(CHAT_ROUTER),
+    CHAT_ROUTER,
     "FormatAndAddChatMessage",
     function (this: void, self: unknown): undefined {
       if (IsChatSystemAvailableForCurrentPlatform()) {
-        asGlobalTable(self).registeredMessageFormatters = NEW_FORMATTER
+        ;(self as GlobalTable).registeredMessageFormatters = NEW_FORMATTER
       }
       return undefined
     }
@@ -118,7 +119,7 @@ export function installFormatters(this: void): undefined {
         settings?.timePrefixEnabled === true &&
         settings.timePrefixOnRegularChat
       ) {
-        text = string.format(MESSAGE_TEMPLATE, getFormattedTime(timeStamp), asString(text))
+        text = string.format(MESSAGE_TEMPLATE, getFormattedTime(timeStamp), text as string)
       }
       return $multi(text, targetChannel, fromDisplayName, rawMessageText)
     },
@@ -139,10 +140,10 @@ export function installFormatters(this: void): undefined {
       const settings = LIB.settings
       if (text !== undefined && settings?.timePrefixEnabled === true) {
         if (settings.tagPrefixMode === TAG_PREFIX_OFF) {
-          const [stripped] = string.gsub(asString(text), "%[.-%] ", "")
+          const [stripped] = string.gsub(text as string, "%[.-%] ", "")
           text = stripped
         }
-        text = string.format(MESSAGE_TEMPLATE, getFormattedTime(timeStamp), asString(text))
+        text = string.format(MESSAGE_TEMPLATE, getFormattedTime(timeStamp), text as string)
       }
       return $multi(text, targetChannel, fromDisplayName, rawMessageText)
     }
@@ -175,15 +176,15 @@ export function installFormatters(this: void): undefined {
       if (tagMode !== undefined && tagMode !== TAG_PREFIX_OFF) {
         formattedEventText = string.format(
           MESSAGE_TEMPLATE,
-          asString(tag),
-          asString(formattedEventText)
+          tag as string,
+          formattedEventText as string
         )
       }
       if (LIB.settings?.timePrefixEnabled === true) {
         formattedEventText = string.format(
           MESSAGE_TEMPLATE,
           getFormattedTime(timeStamp),
-          asString(formattedEventText)
+          formattedEventText as string
         )
       }
       return $multi(formattedEventText, undefined, tag, rawMessageText)

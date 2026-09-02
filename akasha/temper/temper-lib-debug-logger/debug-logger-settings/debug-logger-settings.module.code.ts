@@ -1,6 +1,6 @@
 import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
+import "../debug-logger-saved-variables/debug-logger-saved-variables.module.code.ts"
 
-import { asString } from "../debug-logger-casts/debug-logger-casts.module.code.ts"
 import { INTERNAL, lib } from "../debug-logger-state/debug-logger-state.module.code.ts"
 import type { Settings } from "../debug-logger-types/debug-logger-types.module.code.ts"
 
@@ -30,8 +30,8 @@ function handleSlashCommand(this: void, params: string): undefined {
   const proxy = getChatProxy()
   let handled = false
   let [command, arg] = zo_strsplit(" ", params)
-  command = string.lower(asString(command))
-  arg = string.lower(asString(arg))
+  command = string.lower(command as string)
+  arg = string.lower(arg as string)
 
   if (command === "stack") {
     if (arg === "on") {

@@ -1,10 +1,7 @@
 import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
+import "../debug-logger-saved-variables/debug-logger-saved-variables.module.code.ts"
 
-import {
-  asConcatList,
-  asLoggerTag,
-  asString,
-} from "../debug-logger-casts/debug-logger-casts.module.code.ts"
+import { asConcatList, asLoggerTag } from "../debug-logger-casts/debug-logger-casts.module.code.ts"
 import { CALLBACK_LOG_CLEARED } from "../debug-logger-constants/debug-logger-constants.module.code.ts"
 import { INTERNAL, lib } from "../debug-logger-state/debug-logger-state.module.code.ts"
 import type { Lib, LoggerInstance } from "../debug-logger-types/debug-logger-types.module.code.ts"
@@ -99,7 +96,7 @@ export function initApi(): undefined {
     if (type(input) === "table") {
       return table.concat(asConcatList(input), "")
     }
-    return asString(input)
+    return input as string
   }
 
   lib.RegisterCallback = function (
