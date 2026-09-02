@@ -1,0 +1,30 @@
+[package]
+name = "temper-watcher-tray"
+version = "0.1.0"
+edition = "2021"
+publish = false
+description = "Windows GUI tray launcher that supervises temper-watcher-worker.exe."
+
+[[bin]]
+name = "temper-watcher"
+path = "src/main.rs"
+
+[dependencies]
+tray-icon = "0.22"
+
+winit = "0.30"
+
+directories = "5.0"
+
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "rustls-tls", "json"] }
+
+serde = { version = "1", features = ["derive"] }
+
+image = { version = "0.25", default-features = false, features = ["ico", "png"] }
+
+[profile.release]
+lto = "thin"
+codegen-units = 1
+strip = "symbols"
+panic = "abort"
+opt-level = "z"
