@@ -28,6 +28,8 @@ export const eppieMigrateMusicToAkasha = {
     },
     {
       statement: "Alan's listening is captured again, onto the pages the new system keeps.",
+      workingMemory:
+        "The capture was not given up on: an agent overreached and deleted it in `2669aed6` on 1 September. Its five files and 475 lines come back out of `2669aed6^:collections/music/src/listening/` rather than being written again. `capture.ts` holds the drain from `getRecentlyPlayed`, and `play-row.ts` the arithmetic, including the rule that a priming run scores no first listen.",
     },
     {
       statement: "Every heard track names the Spotify track id its type requires.",
