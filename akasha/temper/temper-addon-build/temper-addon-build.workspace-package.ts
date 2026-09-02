@@ -9,6 +9,7 @@ export const temperAddonBuild = {
   partSlugs: [
     "module/lua-build-command",
     "module/addon-tstl-config",
+    "module/addon-metadata-files",
     "module/global-name-dependents",
     "module/consolidation-migrations",
   ],

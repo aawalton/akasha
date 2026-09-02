@@ -21,6 +21,8 @@ const DECLARATIONS_UNDER = [
 export type EsoAddonPage = {
   readonly slug: string
   readonly bundleEntrySlug: string | null
+  readonly bindings: string | null
+  readonly luaModuleSlugs: readonly string[]
 }
 
 export function esoAddonPagePathIn(dir: string): string | null {
@@ -41,10 +43,25 @@ export async function readEsoAddonPage(dir: string): Promise<EsoAddonPage | null
   const loaded = (await import(path)) as Record<string, unknown>
   for (const value of Object.values(loaded)) {
     if (typeof value !== "object" || value === null) continue
-    const said = value as { slug?: unknown; pageTypeSlug?: unknown; bundleEntrySlug?: unknown }
+    const said = value as {
+      slug?: unknown
+      pageTypeSlug?: unknown
+      bundleEntrySlug?: unknown
+      bindings?: unknown
+      luaModuleSlugs?: unknown
+    }
     if (said.pageTypeSlug !== "eso-addon" || typeof said.slug !== "string") continue
     const entry = said.bundleEntrySlug
-    return { slug: said.slug, bundleEntrySlug: typeof entry === "string" ? entry : null }
+    const bound = said.bindings
+    const luaSaid: readonly unknown[] = Array.isArray(said.luaModuleSlugs)
+      ? said.luaModuleSlugs
+      : []
+    return {
+      slug: said.slug,
+      bundleEntrySlug: typeof entry === "string" ? entry : null,
+      bindings: typeof bound === "string" ? bound : null,
+      luaModuleSlugs: luaSaid.filter((one) => typeof one === "string"),
+    }
   }
   return null
 }

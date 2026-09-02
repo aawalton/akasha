@@ -3,12 +3,14 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./addon-metadata-files": "./addon-metadata-files/addon-metadata-files.module.code.ts",
     "./addon-tstl-config": "./addon-tstl-config/addon-tstl-config.module.code.ts",
     "./consolidation-migrations": "./consolidation-migrations/consolidation-migrations.module.code.ts",
     "./global-name-dependents": "./global-name-dependents/global-name-dependents.module.code.ts",
     "./lua-build-command": "./lua-build-command/lua-build-command.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code-system": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/temper-saved-vars-migration": "workspace:*",
     "typescript": "5.9.3"

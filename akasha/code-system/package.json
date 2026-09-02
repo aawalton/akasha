@@ -13,6 +13,7 @@
     "./code-tests": "./code-tests/code-tests.module.code.ts",
     "./code-typing": "./code-typing/code-typing.module.code.ts",
     "./eso-addon": "./eso-addon/eso-addon.page-type.ts",
+    "./eso-addon/bindings": "./eso-addon/properties/bindings.named-file-property.ts",
     "./eso-interface": "./eso-interface/eso-interface.page-type.ts",
     "./ios-app": "./ios-app/ios-app.page-type.ts",
     "./ios-program/alanwalton-decode-harness": "./ios-program/ios-programs/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts",
