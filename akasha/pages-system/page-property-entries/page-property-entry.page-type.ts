@@ -41,8 +41,16 @@ export const pagePropertyEntry = {
       statement: "Every entry is judged against the fields its shape declares.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "Every entry carries an id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry arriving without an id is given an id as the entry lands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry's id is a uuid version 7 as a page's id is.",
     },
   ],
 } as const satisfies PageType

@@ -10,12 +10,6 @@ export const emberMigrateTemperToAkasha = {
   intents: [
     {
       statement:
-        "Every entry carries an id, and a write works one out for each entry whose body arrives without it.",
-      workingMemory:
-        "The paradigm landed 2026-09-01: `page-property-entry` in 182eb8d2e7, the `entries` declaration in 0646bef0b2, the plumbing in 06a46505bd and `cases` on `model-test` converted in 98e525d85a. That jsonl holds 14 rows over page, definition, statement and answer, none with an id. A write never reads the rows, so nothing works an id out and nothing judges a row against the fields `cases` declares. Both are gaps on `page-property-entry`.",
-    },
-    {
-      statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
         "`akasha/temper` holds one file, the domain page. Outside it: the `temper/` workspace of 151 packages over 10,545 files, 99 page types under `pages/temper-*` over 6,464 files, of which 5,557 are pages and 252 are JSONL holding 164,071 entries, plus `tools/lib/temper-addon-data` and two watcher services. 12,252 files name temper repo-wide. No page type of the 99 is defined anywhere; its shape lives in md frontmatter and in whatever reads it, so each is worked out rather than carried across.",
