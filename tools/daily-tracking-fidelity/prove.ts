@@ -1,4 +1,4 @@
-import { cpSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { parse as parseYaml } from "yaml"
 import { uuidVersion7 } from "../../akasha/command-system/value-minting/value-minting.module.code.ts"
@@ -63,42 +63,27 @@ for (const name of readdirSync(BASE)) {
   writeFileSync(join(GOOD, name), out.join("\n"))
 }
 
-for (const folder of ["days", "sessions", "tasks"]) {
-  mkdirSync(join(PAGES, folder), { recursive: true })
-}
-const emit = (folder: string, file: string, name: string, fields: Record<string, unknown>): void => {
-  const body = Object.entries(fields)
-    .map(([key, value]) => `  ${camelizeKey(key)}: ${JSON.stringify(value)},`)
-    .join("\n")
-  writeFileSync(join(PAGES, folder, `${file}.ts`), `export const ${name} = {\n${body}\n} as const\n`)
-}
-const idByDate = new Map<string, string>()
+mkdirSync(PAGES, { recursive: true })
+const pageStem = (day: string): string => `day-${day}.daily-tracking`
 for (const name of readdirSync(GOOD).filter((f) => f.endsWith(MD))) {
   const day = name.slice(0, -MD.length)
   const fence = /^---\n([\s\S]*?)\n---/.exec(readFileSync(join(GOOD, name), "utf8"))
   const doc = parseYaml((fence as RegExpExecArray)[1] as string) as Record<string, unknown>
-  idByDate.set(day, doc["id"] as string)
-  emit("days", `day-${day}`, camelizeKey(`day-${day}`), { ...doc, "page-type-slug": "daily-tracking" })
-}
-for (const name of readdirSync(GOOD).filter((f) => f.endsWith(SESSIONS))) {
-  for (const line of readFileSync(join(GOOD, name), "utf8").split("\n").filter((l) => l.trim())) {
-    const row = JSON.parse(line) as Record<string, unknown>
-    emit("sessions", row["id"] as string, `s${(row["id"] as string).replace(/-/g, "")}`, {
-      ...row,
-      "page-type-slug": "tracking-session",
-    })
+  const value: Record<string, unknown> = {}
+  for (const [key, held] of Object.entries(doc)) value[camelizeKey(key)] = held
+  for (const [suffix, propertySlug] of [[SESSIONS, "sessions"], [TASKS, "completed-tasks"]] as const) {
+    const beside = join(GOOD, `${day}${suffix}`)
+    if (!existsSync(beside)) continue
+    value[camelizeKey(propertySlug)] = "jsonl"
+    writeFileSync(join(PAGES, `${pageStem(day)}.${propertySlug}.jsonl`), readFileSync(beside, "utf8"))
   }
-}
-for (const name of readdirSync(GOOD).filter((f) => f.endsWith(TASKS))) {
-  const day = name.slice(0, -TASKS.length)
-  for (const line of readFileSync(join(GOOD, name), "utf8").split("\n").filter((l) => l.trim())) {
-    const row = JSON.parse(line) as Record<string, unknown>
-    emit("tasks", row["id"] as string, `t${(row["id"] as string).replace(/-/g, "")}`, {
-      ...row,
-      "daily-tracking": idByDate.get(day),
-      "page-type-slug": "completed-task",
-    })
-  }
+  const body = Object.entries(value)
+    .map(([key, held]) => `  ${key}: ${JSON.stringify(held)},`)
+    .join("\n")
+  writeFileSync(
+    join(PAGES, `${pageStem(day)}.ts`),
+    `export const ${camelizeKey(`day-${day}`)} = {\n${body}\n} as const\n`,
+  )
 }
 
 type Row = Record<string, unknown>
@@ -364,17 +349,70 @@ for (const one of CASES) {
   one.apply(dir)
 }
 
-const pagesCase = join(YARD, "cases-pages", "21-page-lost-its-day-reference")
-rmSync(pagesCase, { recursive: true, force: true })
-cpSync(PAGES, pagesCase, { recursive: true })
-const victim = join(pagesCase, "tasks", readdirSync(join(pagesCase, "tasks")).sort()[0] as string)
-writeFileSync(
-  victim,
-  readFileSync(victim, "utf8")
-    .split("\n")
-    .filter((l) => !l.includes("dailyTracking"))
-    .join("\n"),
-)
+type PageCase = { name: string; damage: string; expect: string; apply: (dir: string) => void }
+
+const PAGE_CASES: PageCase[] = [
+  {
+    name: "21-stated-entry-file-gone",
+    damage: "a page states sessions: jsonl and the file beside it is deleted",
+    expect: "read-fault",
+    apply: (dir) => {
+      const gone = readdirSync(dir).filter((f) => f.endsWith(".sessions.jsonl")).sort()[0] as string
+      rmSync(join(dir, gone))
+    },
+  },
+  {
+    name: "22-entry-file-nothing-states",
+    damage: "rows sit beside a page that never names them, so nothing would read them",
+    expect: "read-fault",
+    apply: (dir) => {
+      for (const page of readdirSync(dir).filter((f) => f.endsWith(".daily-tracking.ts")).sort()) {
+        if (readFileSync(join(dir, page), "utf8").includes("completedTasks:")) continue
+        const stem = page.slice(0, -".ts".length)
+        writeFileSync(join(dir, `${stem}.completed-tasks.jsonl`), '{"id":"x","seq":1}\n')
+        return
+      }
+      throw new Error("every page states completed-tasks")
+    },
+  },
+  {
+    name: "23-entry-row-key-dropped",
+    damage: "a row inside an entry file loses a key it carried",
+    expect: "key-vanished",
+    apply: (dir) => {
+      for (const name of readdirSync(dir).filter((f) => f.endsWith(".completed-tasks.jsonl")).sort()) {
+        const rows = rowsOf(join(dir, name))
+        const target = rows.find((r) => r["category"] !== undefined)
+        if (target === undefined) continue
+        delete target["category"]
+        writeFileSync(join(dir, name), `${rows.map((r) => JSON.stringify(r)).join("\n")}\n`)
+        return
+      }
+      throw new Error("no task row carries a category")
+    },
+  },
+  {
+    name: "24-entry-rows-reordered",
+    damage: "two lines of an entry file swap, which under this shape is the only way order is lost",
+    expect: "row-order-changed",
+    apply: (dir) => {
+      for (const name of readdirSync(dir).filter((f) => f.endsWith(".sessions.jsonl")).sort()) {
+        const lines = readFileSync(join(dir, name), "utf8").split("\n").filter((l) => l.trim())
+        if (lines.length < 2) continue
+        writeFileSync(join(dir, name), `${[lines[1], lines[0], ...lines.slice(2)].join("\n")}\n`)
+        return
+      }
+      throw new Error("no entry file with two rows")
+    },
+  },
+]
+
+for (const one of PAGE_CASES) {
+  const dir = join(YARD, "cases-pages", one.name)
+  rmSync(dir, { recursive: true, force: true })
+  cpSync(PAGES, dir, { recursive: true })
+  one.apply(dir)
+}
 
 const before = await readCorpus(BASE)
 let failures = 0
@@ -396,9 +434,9 @@ process.stdout.write(
 process.stdout.write(`re-minted   ${Object.keys(idMap).length} uuid version 5 identities\n\n`)
 process.stdout.write("control\n")
 await judge("faithful migration, markdown", GOOD, "lossless")
-await judge("faithful migration, akasha pages", PAGES, "row-order-changed")
+await judge("faithful migration, entries shape", PAGES, "lossless")
 process.stdout.write("\ncorruption cases\n")
 for (const one of CASES) await judge(one.name, join(YARD, "cases", one.name), one.expect)
-await judge("21-page-lost-its-day-reference", pagesCase, "read-fault")
+for (const one of PAGE_CASES) await judge(one.name, join(YARD, "cases-pages", one.name), one.expect)
 process.stdout.write(`\n${failures === 0 ? "every case landed as declared" : `${failures} case(s) did not`}\n`)
 process.exit(failures === 0 ? 0 : 1)

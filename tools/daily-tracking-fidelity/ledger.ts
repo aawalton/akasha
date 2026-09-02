@@ -1,3 +1,29 @@
+/**
+ * What each key of a tracked day is allowed to become, so a migration is judged rather than trusted.
+ *
+ * A key absent from these tables is reported as `key-unledgered` rather than compared some default
+ * way, which is the only reason a key nobody thought about cannot slip through.
+ *
+ * Counts here were measured over `pages/daily-tracking/` on 2026-09-01: 133 days, 780 session rows
+ * across 64 files, 1028 task rows across 97 files. Count session rows per file, never by catting
+ * them together — `2026-08-29` and `2026-08-30` end without a newline, so `cat` welds each one's
+ * last row onto the next file's first and answers 778. That undercount is the exact shape of defect
+ * this checker exists to catch, and it is where the figure 778 in the original brief came from.
+ *
+ * ON ROW ORDER, WHICH NEEDS NO ORDINAL.
+ *
+ * Row order is real and no field in a row rebuilds it. Sessions carry no ordering key at all, and
+ * ordering them by `start-time` moves 12 rows across 2026-06-19, 08-21, 08-25 and 08-27, two of
+ * which share a `start-time` exactly and so cannot be ordered by it even in principle. Tasks carry
+ * `seq`, but on 2026-07-17 file order and `seq` order genuinely disagree — file order is 4,3,5,2,1
+ * by seq rank — which moves 5 more. Those 17 are what a shape that turns each row into its own page
+ * cannot avoid, and an ordinal key does not rescue it: adding one raises 780 `key-unledgered` faults
+ * because no session ledger declares such a key, so page-per-row cannot reach zero here.
+ *
+ * Under the landed entries shape the question does not arise. The sidecars are renamed rather than
+ * rewritten, so line order simply is the order and nothing needs to state it. Do not go looking for
+ * an ordinal to add.
+ */
 export type Policy =
   | "exact"
   | "reminted-id"
@@ -65,21 +91,26 @@ export const DAY_LEDGER: Ledger = {
   "inbox-texts-cleared-today": exact("boolean"),
   "inbox-calendar": exact("integer"),
   "inbox-calendar-cleared-today": exact("boolean"),
+  sessions: {
+    policy: "exact",
+    optional: true,
+    mintedConstant: "jsonl",
+    note: "the page naming the file its session rows sit in; the markdown day named it by filename",
+  },
+  "completed-tasks": {
+    policy: "exact",
+    optional: true,
+    mintedConstant: "jsonl",
+    note: "the page naming the file its task rows sit in; the markdown day named it by filename",
+  },
 }
 
 export const SESSION_LEDGER: Ledger = {
   id: exact("row identity, uuid v7 already", false),
-  "page-type-slug": {
-    policy: "exact",
-    optional: true,
-    mintedConstant: "tracking-session",
-    note: "a jsonl row names no page type; a page must",
-  },
-  slug: { policy: "exact", optional: true, mintedConstant: "", note: "a migrated row needs a slug akasha can export" },
   "daily-tracking": {
     policy: "reminted-reference",
     optional: false,
-    note: "points at the day page whose id may be re-minted",
+    note: "every one of the 780 rows names its own day, so a re-mint re-points them",
   },
   title: exact("session title", false),
   "start-time": { policy: "instant", optional: false, note: "utc with 3-digit fraction" },
@@ -104,20 +135,13 @@ export const SESSION_LEDGER: Ledger = {
 
 export const TASK_LEDGER: Ledger = {
   id: exact("row identity, uuid v7 already", false),
-  "page-type-slug": {
-    policy: "exact",
-    optional: true,
-    mintedConstant: "completed-task",
-    note: "a jsonl row names no page type; a page must",
-  },
-  slug: { policy: "exact", optional: true, mintedConstant: "", note: "a migrated row needs a slug akasha can export" },
   "daily-tracking": {
     policy: "reminted-reference",
     optional: true,
     mintedWhenAbsent: "day-reference",
-    note: "no task row carries a day reference; the day lives only in the sidecar's filename",
+    note: "no task row carries one; under the entries shape its day is the file it sits in",
   },
-  seq: exact("integer ordering key that does not begin at 1 on 96 of 97 files", false),
+  seq: exact("integer, begins at 1 on 1 of 97 files, and disagrees with file order on 2026-07-17", false),
   title: exact("task title", false),
   "completed-at": { policy: "instant", optional: false, note: "utc with 3-digit fraction" },
   "due-date": { policy: "calendar-date", optional: true, note: "absent on 6 rows" },

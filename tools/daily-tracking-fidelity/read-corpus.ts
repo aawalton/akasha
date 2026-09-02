@@ -1,6 +1,8 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { parse as parseYaml } from "yaml"
+import { entriesIn } from "../../akasha/pages-system/page/page-entries/page-entries.module.code.ts"
+import { besideAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { kebabizeKey } from "../lib/tracking/keys.ts"
 import type { Kind } from "./ledger.ts"
 
@@ -152,11 +154,12 @@ export function readMarkdownCorpus(root: string): Corpus {
   return corpus
 }
 
-const PAGE_TYPE_KINDS: Record<string, Kind> = {
-  "daily-tracking": "day",
-  "tracking-session": "session",
-  "completed-task": "task",
-}
+const DAY_PAGE_TYPE = "daily-tracking"
+
+const ENTRY_PROPERTIES: [string, Kind][] = [
+  ["sessions", "session"],
+  ["completed-tasks", "task"],
+]
 
 export async function readAkashaPageCorpus(root: string): Promise<Corpus> {
   const corpus: Corpus = {
@@ -167,9 +170,10 @@ export async function readAkashaPageCorpus(root: string): Promise<Corpus> {
     tasks: [],
     faults: [],
   }
-  const seen: { record: Record_; rank: number; sortKey: string }[] = []
-  const paths = walkFiles(root).filter((p) => p.endsWith(".ts"))
-  for (const path of paths) {
+  const here = walkFiles(root)
+  const spokenFor = new Set<string>()
+
+  for (const path of here.filter((p) => p.endsWith(".ts"))) {
     let module_: Record<string, unknown>
     try {
       module_ = (await import(path)) as Record<string, unknown>
@@ -180,65 +184,71 @@ export async function readAkashaPageCorpus(root: string): Promise<Corpus> {
     for (const exported of Object.values(module_)) {
       if (exported === null || typeof exported !== "object" || Array.isArray(exported)) continue
       const shape = exported as Record<string, unknown>
-      const pageTypeSlug = shape["pageTypeSlug"]
-      if (typeof pageTypeSlug !== "string") continue
-      const kind = PAGE_TYPE_KINDS[pageTypeSlug]
-      if (kind === undefined) continue
+      if (shape["pageTypeSlug"] !== DAY_PAGE_TYPE) continue
+
       const fields = new Map<string, unknown>()
       for (const [key, value] of Object.entries(shape)) fields.set(kebabizeKey(key), value)
-      const seq = fields.get("seq")
-      const rank = typeof seq === "number" ? seq : Number.POSITIVE_INFINITY
-      const sortKey = String(fields.get("start-time") ?? fields.get("completed-at") ?? path)
-      seen.push({ record: { kind, day: "", ordinal: -1, locator: path, fields }, rank, sortKey })
+      const date = fields.get("date")
+      const day = date instanceof Date ? date.toISOString().slice(0, 10) : String(date ?? "")
+      if (day === "") {
+        corpus.faults.push({ locator: path, reason: "the page states no date, so its day is unknowable" })
+        continue
+      }
+      corpus.days.set(day, { kind: "day", day, ordinal: 0, locator: path, fields })
+
+      for (const [propertySlug, kind] of ENTRY_PROPERTIES) {
+        const held = fields.get(propertySlug)
+        if (held === undefined) continue
+        if (typeof held !== "string") {
+          corpus.faults.push({
+            locator: path,
+            reason: `'${propertySlug}' names no extension, so where the rows are is unknowable`,
+          })
+          continue
+        }
+        const beside = besideAt(path, propertySlug, held)
+        if (beside === null) {
+          corpus.faults.push({ locator: path, reason: "the page path is no page file name" })
+          continue
+        }
+        spokenFor.add(beside)
+        let text: string
+        try {
+          text = readFileSync(beside, "utf8")
+        } catch {
+          corpus.faults.push({
+            locator: beside,
+            reason: `named by the page beside it and no file is there, so what it carries is unknown rather than nothing`,
+          })
+          continue
+        }
+        const read = entriesIn(beside, text)
+        if ("refused" in read) {
+          corpus.faults.push({ locator: beside, reason: read.refused })
+          continue
+        }
+        const sink = kind === "session" ? corpus.sessions : corpus.tasks
+        read.entries.forEach((row, index) => {
+          sink.push({
+            kind,
+            day,
+            ordinal: index,
+            locator: `${beside}#${index + 1}`,
+            fields: new Map(Object.entries(row as Record<string, unknown>)),
+          })
+        })
+      }
     }
   }
-  const dateByPageId = new Map<string, string>()
-  for (const item of seen.filter((s) => s.record.kind === "day")) {
-    const id = item.record.fields.get("id")
-    const date = item.record.fields.get("date")
-    item.record.day = date instanceof Date ? date.toISOString().slice(0, 10) : String(date ?? "")
-    if (typeof id === "string") dateByPageId.set(id, item.record.day)
+
+  for (const path of here.filter((p) => p.endsWith(".jsonl"))) {
+    if (spokenFor.has(path)) continue
+    corpus.faults.push({
+      locator: path,
+      reason: "rows sit here that no page states, so nothing would ever read them",
+    })
   }
-  for (const item of seen.filter((s) => s.record.kind !== "day")) {
-    const reference = item.record.fields.get("daily-tracking")
-    if (typeof reference !== "string") {
-      corpus.faults.push({
-        locator: item.record.locator,
-        reason: `${item.record.kind} row carries no daily-tracking reference, so its day is unknowable`,
-      })
-      continue
-    }
-    const date = dateByPageId.get(reference)
-    if (date === undefined) {
-      corpus.faults.push({
-        locator: item.record.locator,
-        reason: `${item.record.kind} row references a day page that is not in this corpus`,
-      })
-      continue
-    }
-    item.record.day = date
-  }
-  for (const kind of ["session", "task"] as const) {
-    const byDay = new Map<string, { record: Record_; rank: number; sortKey: string }[]>()
-    for (const item of seen.filter((s) => s.record.kind === kind && s.record.day !== "")) {
-      const bucket = byDay.get(item.record.day) ?? []
-      bucket.push(item)
-      byDay.set(item.record.day, bucket)
-    }
-    for (const bucket of byDay.values()) {
-      bucket.sort((a, b) =>
-        a.rank !== b.rank ? a.rank - b.rank : a.sortKey < b.sortKey ? -1 : a.sortKey > b.sortKey ? 1 : 0,
-      )
-      bucket.forEach((item, index) => {
-        item.record.ordinal = index
-        ;(kind === "session" ? corpus.sessions : corpus.tasks).push(item.record)
-      })
-    }
-  }
-  for (const item of seen.filter((s) => s.record.kind === "day")) {
-    item.record.ordinal = 0
-    corpus.days.set(item.record.day, item.record)
-  }
+
   return corpus
 }
 
