@@ -23,5 +23,9 @@ export const editorExtension = {
       invariantKind: "departure",
       statement: "A page the index named is opened for a value the index does not file.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A panel row that represents a page names that page.",
+    },
   ],
 } as const satisfies Domain

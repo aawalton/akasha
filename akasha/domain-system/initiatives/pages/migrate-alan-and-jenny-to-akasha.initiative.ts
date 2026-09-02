@@ -9,11 +9,6 @@ export const migrateAlanAndJennyToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "The code editor's four panels each show what akasha holds.",
-      workingMemory:
-        "All four panels and the bar draw, measured at `11fb9511f4`: activation 270ms against the 4506ms recorded here, page-tree 64ms against 4357ms. Pages draws 2376 rows over 997 akasha files and none from anywhere else, where it drew 3180 from `pages/` before; 2132 open a document and the 244 that do not are group headers no page describes. Domains 7321 of 7321, Work 13, Agents 102. One gap left: no Agents row carries a document at all, though each of its 13 seats has a page.",
-    },
-    {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
         "The bar is already off markdown: `group-stoplights.ts` reaches `stoplightsInGroup`, which asks the pages service and gets akasha's own 16 readouts, one a slug markdown never held. `readoutCatalog()` still opens 15 `*.readout.md`, feeding the iOS widgets and surplus-fall. What blocks the rest is modelling, not wiring: akasha holds no `claude-usage` group nor its 4 readouts, no query properties against markdown's 104, and no `sequence-slugs`. `9687ce6f2e` refuses where the two engines differ.",
