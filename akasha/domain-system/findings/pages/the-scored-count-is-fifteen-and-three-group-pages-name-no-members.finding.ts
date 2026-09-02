@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theScoredCountIsFifteenAndThreeGroupPagesNameNoMembers = {
+  id: "01a062a3-6919-7012-aed9-e99aee492672",
+  pageTypeSlug: "finding",
+  slug: "the-scored-count-is-fifteen-and-three-group-pages-name-no-members",
+  domainSlug: "workspace-package/readout-system",
+  claim:
+    "The count a persona's day is scored out of is 15 today rather than the 17 recorded earlier: the inboxes ablation took that group from five members to three and moved both engines together. Beside it, three readout group pages — safety, surplus and categorization — name no members at all, so for those three only the readout-to-group direction exists and a shortfall check has nothing to compare against.",
+  evidence:
+    "Measured 2026-09-02 by running both engines rather than reading either.\n\n`readoutCatalog()` holds upkeep 6, inboxes 3, values 6, so `scoredLightCount` answers 15. `the-values-readout-group-is-a-denominator-rather-than-a-display` recorded 6+5+6=17, which was right when it was written. `readouts/group/inboxes.readout-group.md` still names five under `sequence-slugs`, and `inboxes-texts` and `inboxes-questions` carry `enabled: false` from e5b3f47a24, so `readout-catalog.ts:175` keeps them out of the row set. The store answers the same three, and `alan-harness.domain.ts` says Alan's inboxes widget shows all three, so three is meant.\n\nThat is why a shortfall check cannot simply compare what a group page names against what it holds. A member marked `enabled: false` is the shape a finished ablation leaves, since Alan ruled the page remains and is marked rather than deleted. `readouts/group-shortfall.ts` therefore refuses only where a named member has no readout page behind it, and where a group holds no member at all.\n\nThe three groups it cannot check: `readouts/group/safety.readout-group.md`, `surplus.readout-group.md` and `categorization.readout-group.md` carry no `sequence-slugs` key. `readouts/readout/upkeep-safety.readout.md:13-15` names both `upkeep` and `safety` under `group-slugs`, and the store answers `upkeep-safety` for the safety group, while the safety group page names nothing. Those three are reached by `resolveOneReadout` rather than by the denominator, so no day is scored out of them and the gap is not yet arithmetic. Giving each a `sequence-slugs` key would bring them under the same check.",
+} as const satisfies Finding
