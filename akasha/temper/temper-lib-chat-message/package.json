@@ -1,0 +1,22 @@
+{
+  "name": "@akasha/temper-lib-chat-message",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./chat-message-declarations": "./chat-message-declarations/chat-message-declarations.module.code.ts",
+    "./chat-message-types": "./chat-message-types/chat-message-types.module.code.ts",
+    "./chat-message-casts": "./chat-message-casts/chat-message-casts.module.code.ts",
+    "./chat-message-constants": "./chat-message-constants/chat-message-constants.module.code.ts",
+    "./chat-message-lib": "./chat-message-lib/chat-message-lib.module.code.ts",
+    "./chat-saved-data": "./chat-saved-data/chat-saved-data.module.code.ts",
+    "./chat-history": "./chat-history/chat-history.module.code.ts",
+    "./chat-links": "./chat-links/chat-links.module.code.ts",
+    "./chat-proxy": "./chat-proxy/chat-proxy.module.code.ts",
+    "./chat-message-formatters": "./chat-message-formatters/chat-message-formatters.module.code.ts",
+    "./chat-message-slash-command": "./chat-message-slash-command/chat-message-slash-command.module.code.ts",
+    "./chat-message-lifecycle": "./chat-message-lifecycle/chat-message-lifecycle.module.code.ts",
+    "./chat-message-strings": "./chat-message-strings/chat-message-strings.module.code.ts",
+    "./chat-message-public-api": "./chat-message-public-api/chat-message-public-api.module.code.ts",
+    "./chat-message-main": "./chat-message-main/chat-message-main.module.code.ts"
+  }
+}
