@@ -14,11 +14,6 @@ export const emberMigrateTemperToAkasha = {
         "Fixed 2026-09-01 in 6baad44f. The import index keys an edge by the path a specifier resolves to, so a manifest moving that landing stranded every importer outside the change. `rereadOver` in `package-reaching` reads the naming as it was, finds the specifiers that moved, and reads their importers off the index for `settlingOver` to file. A withdrawal is read against the naming as it was rather than the one the change leaves. No index test fails and drift is zero, but no move has run since.",
     },
     {
-      statement: "A reminder is an akasha page, and the service sending it reads it there.",
-      workingMemory:
-        "The old `reminder` extends `message`, adds `schedule` written as systemd states a calendar, and holds its text in a body slot. One reminder exists, amy's, at `*:0/15`, with `next-at` uncommitted beside it. An akasha page has no body, so the text becomes a property. `message` is not in akasha and carrying it across is the whole messaging system, so reminder extends `page` and a finding records what that leaves. 450 lines follow: `send-due-reminders`, `reminder-file`, `reminder set|list|drop`.",
-    },
-    {
       statement:
         "An entry is a page property shape extending `page-property-entry` rather than a page.",
       workingMemory:

@@ -13,8 +13,16 @@ export const reminderSystem = {
       statement: "A reminder is sent by a clock rather than by whoever wrote the reminder.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "What a reminder is sent as is a page in akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The service sending a reminder reads that reminder off the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "When a reminder is next sent is kept beside its page rather than in the commit.",
     },
   ],
 } as const satisfies WorkspacePackage
