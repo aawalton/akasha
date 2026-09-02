@@ -6,4 +6,5 @@ export const libSetsSearchUiKeyboardXml = {
   slug: "lib-sets-search-ui-keyboard-xml",
   definition: "the keyboard set search window and its result list",
   markup: "xml",
+  loadedAs: "SearchUI/Keyboard/LibSets_SearchUI_Keyboard.xml",
 } as const satisfies EsoInterface

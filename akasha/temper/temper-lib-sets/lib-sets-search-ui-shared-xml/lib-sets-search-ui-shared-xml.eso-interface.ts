@@ -6,4 +6,5 @@ export const libSetsSearchUiSharedXml = {
   slug: "lib-sets-search-ui-shared-xml",
   definition: "the controls the set search window shares between keyboard and gamepad",
   markup: "xml",
+  loadedAs: "SearchUI/LibSets_SearchUI_Shared.xml",
 } as const satisfies EsoInterface

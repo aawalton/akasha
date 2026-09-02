@@ -6,4 +6,5 @@ export const libSetsCopyTextDialog = {
   slug: "lib-sets-copy-text-dialog",
   definition: "the dialog a player copies set text out of",
   markup: "xml",
+  loadedAs: "PC/CopyText/LibSets_CopyTextDialog.xml",
 } as const satisfies EsoInterface
