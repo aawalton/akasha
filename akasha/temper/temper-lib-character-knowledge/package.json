@@ -14,6 +14,13 @@
     "./knowledge-lccc-color": "./knowledge-lccc-color/knowledge-lccc-color.module.code.ts",
     "./knowledge-lccc-util-tables": "./knowledge-lccc-util-tables/knowledge-lccc-util-tables.module.code.ts",
     "./knowledge-lccc-util": "./knowledge-lccc-util/knowledge-lccc-util.module.code.ts",
-    "./knowledge-lccc": "./knowledge-lccc/knowledge-lccc.module.code.ts"
+    "./knowledge-lccc": "./knowledge-lccc/knowledge-lccc.module.code.ts",
+    "./knowledge-ldei": "./knowledge-ldei/knowledge-ldei.module.code.ts",
+    "./knowledge-strings-default": "./knowledge-strings-default/knowledge-strings-default.module.code.ts",
+    "./knowledge-strings-es": "./knowledge-strings-es/knowledge-strings-es.module.code.ts",
+    "./knowledge-strings-fr": "./knowledge-strings-fr/knowledge-strings-fr.module.code.ts",
+    "./knowledge-strings-ru": "./knowledge-strings-ru/knowledge-strings-ru.module.code.ts",
+    "./knowledge-strings-zh": "./knowledge-strings-zh/knowledge-strings-zh.module.code.ts",
+    "./knowledge-register-strings": "./knowledge-register-strings/knowledge-register-strings.module.code.ts"
   }
 }

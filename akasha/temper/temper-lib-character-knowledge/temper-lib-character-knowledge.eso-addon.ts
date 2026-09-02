@@ -17,6 +17,13 @@ export const temperLibCharacterKnowledge = {
     "module/knowledge-lccc-util-tables",
     "module/knowledge-lccc-util",
     "module/knowledge-lccc",
+    "module/knowledge-ldei",
+    "module/knowledge-strings-default",
+    "module/knowledge-strings-es",
+    "module/knowledge-strings-fr",
+    "module/knowledge-strings-ru",
+    "module/knowledge-strings-zh",
+    "module/knowledge-register-strings",
   ],
   invariants: [
     {
