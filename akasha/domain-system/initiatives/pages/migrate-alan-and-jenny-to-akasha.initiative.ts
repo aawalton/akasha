@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "Alan settled the two numbers: average effective 5-hour and average 7-day usage. Effective means a 7-day figure at 100% counts that account's 5-hour at 100% too, so the reading is likely `max(5h, 7d)` per account, averaged over the registration accounts the seats name. Where they can be read is the open question; the seat page type declares a proxy port, process, version and record, so a local proxy seeing rate-limit headers is the first candidate. An explorer is on it.",
+        "The bar exists and already carries all four: session and weekly usage, then upkeep and inbox glyphs, in `editor-extension/src/features/status-bar/slots.ts`. `fiveHourSpent` answers the ceiling where the seven-day figure is at it, so Alan's effective rule is already the code at `claude-account-measuring.module.code.ts:79-84`. His editor began 08-27 17:03, the bar went on three hours later at `40e40007eb`, and the numbers were mended 09-01 at `d4cea37e32`, so what he owes is a reload.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
