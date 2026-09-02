@@ -25,6 +25,8 @@ export const migrateAlanAndJennyToAkasha = {
     },
     {
       statement: "Alan's and Jenny's surplus iOS widgets work.",
+      workingMemory:
+        "His half is proved as far as the pod; his phone is unseen. Nothing surplus was in the index — no readout, no scale, no group — and the route answered 503 from `11af5db6b1`, which took it off the markdown engine, while safety alone was rebuilt at `d0f4d24621`. Pages at `a62ee247c2`, reading and route at `9d5e909c77`, deployed `3bba06c8ec`. Timers fire every five minutes. Real store, real reading: 200 with habit, label, tier, reading, nextTier, progress; 18 tests. Jenny's route is stubbed.",
     },
     {
       statement: "Jenny's site deploys from akasha.",
