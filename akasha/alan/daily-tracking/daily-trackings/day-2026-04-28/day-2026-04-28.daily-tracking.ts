@@ -7,5 +7,6 @@ export const day20260428 = {
   title: "@date:2026-04-28",
   date: "2026-04-28",
   version: "3.0",
+  spannedFromDayBoundary: true,
   completedTasks: "jsonl",
 } as const satisfies DailyTracking

@@ -32,6 +32,7 @@ export const day20260622 = {
   nutritionPoints: 465,
   breathingPoints: 0,
   activeCalories: 70,
+  spannedFromDayBoundary: true,
   completionSnapshot: 429813,
   inboxTasks: 0,
   inboxTasksClearedToday: true,

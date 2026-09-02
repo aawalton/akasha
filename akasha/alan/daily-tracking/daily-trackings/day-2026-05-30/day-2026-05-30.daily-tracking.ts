@@ -9,5 +9,6 @@ export const day20260530 = {
   version: "3.0",
   personaDays: ["019f1a1e-d199-78de-90e7-e19828acf547"],
   wealthPoints: 3.375,
+  spannedFromDayBoundary: true,
   completedTasks: "jsonl",
 } as const satisfies DailyTracking

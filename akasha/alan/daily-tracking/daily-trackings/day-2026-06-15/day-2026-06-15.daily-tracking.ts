@@ -20,5 +20,6 @@ export const day20260615 = {
   wealthPoints: 5.125,
   faithPoints: 535.5602,
   lovePoints: 1.0556,
+  spannedFromDayBoundary: true,
   completedTasks: "jsonl",
 } as const satisfies DailyTracking

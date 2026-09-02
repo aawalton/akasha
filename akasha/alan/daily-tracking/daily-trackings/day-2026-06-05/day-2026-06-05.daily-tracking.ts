@@ -10,5 +10,6 @@ export const day20260605 = {
   safetyLevel: "2",
   personaDays: ["019f1a1f-509a-7e9b-bfb9-12e95ad84b2f"],
   wealthPoints: 5.25,
+  spannedFromDayBoundary: true,
   completedTasks: "jsonl",
 } as const satisfies DailyTracking

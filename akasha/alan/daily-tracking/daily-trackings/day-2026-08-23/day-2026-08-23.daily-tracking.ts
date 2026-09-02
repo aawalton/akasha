@@ -13,6 +13,7 @@ export const day20260823 = {
   strengthVolume: 0,
   nutritionPoints: 0,
   breathingPoints: 0,
+  spannedFromDayBoundary: false,
   inboxTasks: 9,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 14,

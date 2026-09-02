@@ -46,6 +46,7 @@ export const day20260629 = {
   nutritionPoints: 0,
   breathingPoints: 0,
   activeCalories: 735,
+  spannedFromDayBoundary: false,
   completionSnapshot: 432439,
   wordsReadPoints: 0,
   wordsReadSnapshot: 20316673,

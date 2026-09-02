@@ -16,4 +16,5 @@ export const day20260608 = {
   healthPoints: 0,
   taskPoints: 0,
   wealthPoints: 4.625,
+  spannedFromDayBoundary: true,
 } as const satisfies DailyTracking

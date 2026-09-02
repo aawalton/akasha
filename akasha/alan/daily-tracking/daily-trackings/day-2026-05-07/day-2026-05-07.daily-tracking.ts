@@ -6,5 +6,6 @@ export const day20260507 = {
   slug: "day-2026-05-07",
   title: "@date:2026-05-07",
   date: "2026-05-07",
+  spannedFromDayBoundary: true,
   completedTasks: "jsonl",
 } as const satisfies DailyTracking

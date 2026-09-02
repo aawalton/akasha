@@ -25,5 +25,6 @@ export const day20260618 = {
   strengthPoints: 0,
   strengthVolume: 0,
   nutritionPoints: 0,
+  spannedFromDayBoundary: true,
   completedTasks: "jsonl",
 } as const satisfies DailyTracking

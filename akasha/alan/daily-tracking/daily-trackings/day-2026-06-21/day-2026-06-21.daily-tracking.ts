@@ -29,6 +29,7 @@ export const day20260621 = {
   strengthVolume: 0,
   nutritionPoints: 523,
   breathingPoints: 0,
+  spannedFromDayBoundary: true,
   completionSnapshot: 428472,
   inboxTasks: 0,
   inboxTasksClearedToday: true,

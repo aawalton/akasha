@@ -20,4 +20,5 @@ export const day20260614 = {
   wealthPoints: 3.375,
   faithPoints: 0,
   lovePoints: 0.9167,
+  spannedFromDayBoundary: true,
 } as const satisfies DailyTracking

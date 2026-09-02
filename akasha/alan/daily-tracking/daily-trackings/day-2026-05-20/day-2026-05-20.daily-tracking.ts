@@ -7,4 +7,5 @@ export const day20260520 = {
   title: "@date:2026-05-20",
   date: "2026-05-20",
   version: "3.0",
+  spannedFromDayBoundary: true,
 } as const satisfies DailyTracking

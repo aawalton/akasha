@@ -10,4 +10,5 @@ export const day20260603 = {
   safetyLevel: "2",
   personaDays: ["019f1a1f-2b10-74ba-9952-3f59960c1668"],
   wealthPoints: 3.625,
+  spannedFromDayBoundary: true,
 } as const satisfies DailyTracking
