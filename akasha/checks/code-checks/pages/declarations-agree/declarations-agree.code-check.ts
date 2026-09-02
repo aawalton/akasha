@@ -45,6 +45,19 @@ export const declarationsAgree = {
       statement: "A diagnostic naming no other declaration is refused.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The files compiled are the ones the index names rather than the ones a walk finds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration file the change adds is compiled before the index names that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index naming none while the change carries one is thrown rather than passed.",
+    },
+    {
       invariantKind: "absence",
       statement: "No name is kept as permitted.",
     },

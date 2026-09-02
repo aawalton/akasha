@@ -17,6 +17,9 @@ const DECLARED = ".d.ts"
 
 const ELSEWHERE = "the declaration set does not agree as this change leaves it"
 
+const BLIND =
+  "this change carries a declaration file and the index names none, so the set would be judged empty"
+
 const LOOKING: ts.CompilerOptions = { ...SETTINGS, skipLibCheck: false }
 
 export function declaresIn(path: string): boolean {
@@ -41,6 +44,14 @@ export function apartFrom(root: string, said: ts.Diagnostic): boolean {
   return !held.some((one) => ownedIn(root, one))
 }
 
+export function rootedIn(change: Change, known: readonly string[]): readonly string[] {
+  const held = new Set(known)
+  for (const one of change.changed) {
+    if (declaresIn(one) && change.after(one) !== null) held.add(one)
+  }
+  return [...held].sort()
+}
+
 export function programFor(change: Change, named: readonly string[]): ts.Program {
   const root = resolve(change.root)
   return ts.createProgram({
@@ -55,8 +66,10 @@ export function programFor(change: Change, named: readonly string[]): ts.Program
 }
 
 export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
-  const named = declaringIn(change, shadow.index)
+  const known = declaringIn(change, shadow.index)
+  const named = rootedIn(change, known)
   if (named.length === 0) return []
+  if (known.length === 0) throw new Error(BLIND)
   const root = resolve(change.root)
   const program = programFor(change, named)
   const found: Found[] = []

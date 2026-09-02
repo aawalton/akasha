@@ -11,6 +11,7 @@ import {
   declaresIn,
   foundIn,
   ownedIn,
+  rootedIn,
 } from "./declarations-agree.code-check.code.ts"
 
 afterAll(scratch.sweep)
@@ -34,6 +35,12 @@ const MISSING = "declare const HELD_THREE: NothingDeclaresThis\n"
 const NULLABLE = "interface Held {\n  one?: ?(a: string) => void\n}\n"
 
 const SAYS_STRING = "interface Held {\n  one: (a: string) => void\n}\n"
+
+const HOLDS_ONE = "declare const HELD_FOUR: (this: void, a: string) => void\n"
+
+const HOLDS_TWO = "declare const HELD_FOUR: (this: void, a: number) => void\n"
+
+const SHADOWS_AND_HOLDS = `${SHADOWS}${HOLDS_ONE}`
 
 const SAYS_NUMBER = "interface Held {\n  one: (a: number) => void\n}\n"
 
@@ -106,12 +113,34 @@ test("a body is read from the change rather than from the disk", () => {
   expect(judged(change(root, { [ONE_AT]: PLAIN }))).toEqual([])
 })
 
-test("an index naming no declaration file leaves the compiler nothing to build", () => {
+test("an index naming no declaration file for a change carrying one is thrown rather than passed", () => {
   const root = staged({ [ONE_AT]: SAYS_STRING, [TWO_AT]: SAYS_NUMBER })
   const given = change(root, { [ONE_AT]: SAYS_STRING })
   const cast = shadowFor(given)
   if ("refused" in cast) throw new Error(cast.refused)
-  expect(foundIn(given, cast.shadow)).toEqual([])
+  expect(() => foundIn(given, cast.shadow)).toThrow("the index names none")
+})
+
+test("a declaration file the change adds is compiled before the index names it", () => {
+  const root = declaring(SAYS_STRING, APART)
+  const added = "akasha/three.type-declaration.d.ts"
+  const said = judged(change(root, { [added]: SAYS_NUMBER }))
+  expect(reasoned(said)).toContain("TS2717")
+})
+
+test("a declaration file the change adds is rooted beside the ones the index names", () => {
+  const root = declaring(PLAIN, APART)
+  const added = "akasha/three.type-declaration.d.ts"
+  expect(rootedIn(change(root, { [added]: PLAIN }), [ONE_AT, TWO_AT])).toEqual([
+    ONE_AT,
+    added,
+    TWO_AT,
+  ])
+})
+
+test("a declaration file the change takes away is rooted no more", () => {
+  const root = declaring(PLAIN, APART)
+  expect(rootedIn(change(root, { [ONE_AT]: null }), [TWO_AT])).toEqual([TWO_AT])
 })
 
 test("a declaration file is input to this check", () => {
@@ -132,4 +161,22 @@ test("a diagnostic naming no other declaration is refused", () => {
 
 test("a related declaration carrying no file is owned by nobody", () => {
   expect(ownedIn("/root", { code: 6203 } as ts.DiagnosticRelatedInformation)).toBe(false)
+})
+
+test("one name declared twice by two files is refused against each file declaring it", () => {
+  const said = over(HOLDS_ONE, HOLDS_TWO)
+  expect(said.map((each) => each.path).sort()).toEqual([ONE_AT, TWO_AT])
+  expect(reasoned(said)).toContain("TS2451")
+})
+
+test("a standard library shadow beside a real disagreement hides neither the one nor the other", () => {
+  const said = over(SHADOWS_AND_HOLDS, HOLDS_TWO)
+  expect(reasoned(said)).toContain("HELD_FOUR")
+  expect(reasoned(said)).not.toContain("alert")
+})
+
+test("a file the change adds is judged against the files the change leaves alone", () => {
+  const root = declaring(HOLDS_ONE, APART)
+  const said = judged(change(root, { [TWO_AT]: HOLDS_TWO }))
+  expect(said.map((each) => each.path).sort()).toEqual([ONE_AT, TWO_AT])
 })
