@@ -24,12 +24,6 @@ function lettered(many: number): string {
   return `${said.join("\n")}\n`
 }
 
-function costOf(lines: readonly string[]): number {
-  let total = 0
-  for (const line of lines) total += widthOf(line)
-  return total
-}
-
 test("a body with a closing newline holds no line after it", () => {
   expect(linesOf("one\ntwo\n")).toEqual(["one", "two"])
   expect(countLines("one\ntwo\n")).toBe(2)
@@ -54,7 +48,7 @@ test("a run holds every further line the answer has room left for", () => {
   const one = widthOf(`     1\t${lines[0] ?? ""}`)
   const run = runFrom(lines, 0, one * 10)
   expect(run?.through).toBe(10)
-  expect(costOf([run?.numbered ?? ""])).toBeLessThanOrEqual(one * 10)
+  expect(widthOf(run?.numbered ?? "")).toBeLessThanOrEqual(one * 10)
 })
 
 test("a run takes no line it has no room for", () => {
@@ -125,7 +119,7 @@ test("what an answer spends beside a run is priced for the widest run the body c
   ]) {
     const run = { from: from ?? 1, through: through ?? 1, of, numbered: "" }
     const said = [...runLines(HELD, run), ...moreCall(CALLED_AS, HELD, run)]
-    expect(costOf(said) - 1).toBeLessThanOrEqual(priced)
+    expect(widthOf(said.join("\n")) - 1).toBeLessThanOrEqual(priced)
   }
 })
 
