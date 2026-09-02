@@ -3,6 +3,7 @@ import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
 import type { EsoDay } from "./properties/eso-day.text-property.ts"
 import type { HealthSamples } from "./properties/health-samples.page-property-entry.ts"
+import type { Listens } from "./properties/listens.page-property-entry.ts"
 import type { SurplusTierSaid } from "./properties/surplus-tier-said.text-property.ts"
 
 export type EsoDailyTracking = Page & {
@@ -10,6 +11,7 @@ export type EsoDailyTracking = Page & {
   esoDay: EsoDay
   surplusTierSaid?: SurplusTierSaid
   healthSamples?: HealthSamples
+  listens?: Listens
 }
 
 export const esoDailyTracking = {
@@ -25,6 +27,7 @@ export const esoDailyTracking = {
     "instant-property/started-at",
     "number-property/value",
     "page-property-entry/health-samples",
+    "page-property-entry/listens",
     "text-property/eso-day",
     "text-property/metric",
     "text-property/source-name",
@@ -35,6 +38,7 @@ export const esoDailyTracking = {
     { pagePropertySlug: "eso-day", required: true, many: false },
     { pagePropertySlug: "surplus-tier-said", required: false, many: false },
     { pagePropertySlug: "health-samples", required: false, many: false },
+    { pagePropertySlug: "listens", required: false, many: false },
   ],
   invariants: [
     {
