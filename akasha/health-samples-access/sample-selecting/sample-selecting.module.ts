@@ -23,7 +23,7 @@ export const sampleSelecting = {
     },
     {
       invariantKind: "departure",
-      statement: "A day's page sits alone in a folder named for that day's slug.",
+      statement: "A day's page sits alone in a folder named for that day's date.",
     },
     {
       invariantKind: "departure",

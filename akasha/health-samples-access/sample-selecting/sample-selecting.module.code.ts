@@ -28,7 +28,7 @@ export function checkoutRoot(): string {
 }
 
 export function dayFolderAt(day: string): string {
-  return `${DAYS_KEPT_IN}/${DAY_SLUG_PREFIX}${day}`
+  return `${DAYS_KEPT_IN}/${day}`
 }
 
 export function dayPageAt(day: string): string {
