@@ -1,5 +1,3 @@
-import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
-
 export type LogEntry = [
   number,
   string,

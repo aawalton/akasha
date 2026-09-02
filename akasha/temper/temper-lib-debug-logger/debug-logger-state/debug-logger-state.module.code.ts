@@ -1,5 +1,3 @@
-import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
-
 import {
   ENTRY_ERROR_CODE_INDEX,
   ENTRY_FORMATTED_TIME_INDEX,

@@ -1,5 +1,4 @@
 import type { GlobalTable } from "../debug-logger-casts/debug-logger-casts.module.code.ts"
-import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
 
 import { LIB_IDENTIFIER } from "../debug-logger-constants/debug-logger-constants.module.code.ts"
 import { LIB } from "../debug-logger-state/debug-logger-state.module.code.ts"

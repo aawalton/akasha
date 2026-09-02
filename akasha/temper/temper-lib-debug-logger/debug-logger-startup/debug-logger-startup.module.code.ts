@@ -1,5 +1,3 @@
-import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
-
 import { asPreHookFn } from "../debug-logger-casts/debug-logger-casts.module.code.ts"
 import { INTERNAL, LIB } from "../debug-logger-state/debug-logger-state.module.code.ts"
 

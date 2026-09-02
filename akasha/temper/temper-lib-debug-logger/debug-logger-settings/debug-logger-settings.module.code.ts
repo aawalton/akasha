@@ -1,4 +1,3 @@
-import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
 import "../debug-logger-saved-variables/debug-logger-saved-variables.module.code.ts"
 
 import { INTERNAL, LIB } from "../debug-logger-state/debug-logger-state.module.code.ts"
