@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "`page-query` landed at `9fe4ee0941` — 16 property pages, 11 properties — proven over the longest query at 17 keys, a sum with a target key, and a `contains` list whose load-bearing trailing space survives. `enabled` honoured at `e833a3dfa8`. Dark inbox lights fixed. Nothing blocks the queries now: 104 markdown queries wait to be written in, and the readout reader still goes through the markdown engine. `narrow-values` carries `empty: false` as text, a named stopgap.",
+        "All 104 queries are pages now — `5d16cfb5cd`, `e8fdc9dd4f`, `fe70c6bcdc`, `589d2dd5e7` — round-tripped field by field against the markdown, 104 of 104, with three faults seeded into the verifier to prove that zero true rather than blind. `page-query` landed at `9fe4ee0941`; `enabled` honoured at `e833a3dfa8`. Ids are fresh v7 keeping the old v5 tail. Nothing reads the akasha copies yet and the markdown originals are untouched, so the reader switchover is the whole of what is left.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
