@@ -1,9 +1,9 @@
 import { filterAndOrganizeSets } from "./set-categories-data"
 import type { FilterableSelectDialogConfig } from "./set-select-types"
 import { createSetSource, type SetSource } from "./set-source"
-import type { SetsAll } from "./sets-all-data"
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
 
-export function getMaxBonusPieceCount(set: SetsAll): number {
+export function getMaxBonusPieceCount(set: SetTemplate): number {
   if (set.bonuses.length === 0) {
     return 1
   }
@@ -45,7 +45,7 @@ function sortEffects(effects: readonly string[]): readonly string[] {
   })
 }
 
-function toSetSource(set: SetsAll): SetSource | null {
+function toSetSource(set: SetTemplate): SetSource | null {
   return createSetSource(set.id, getMaxBonusPieceCount(set))
 }
 
@@ -60,7 +60,7 @@ function buildNoSetSource(): SetSource {
 export const NO_SET_SOURCE: SetSource = buildNoSetSource()
 
 export function createSetSelectConfig(
-  sets: readonly SetsAll[]
+  sets: readonly SetTemplate[]
 ): FilterableSelectDialogConfig<SetSource> {
   const setSources: SetSource[] = sets
     .map(toSetSource)

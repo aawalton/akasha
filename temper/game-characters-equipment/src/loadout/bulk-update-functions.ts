@@ -1,5 +1,6 @@
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import type { SetsAll, SetsAllId } from "../sets/sets-all-data"
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
+import type { SetId } from "@akasha/temper-equipment/set-ids"
 import { bulkUpdateArmorQuality, bulkUpdateArmorSet } from "./bulk-update-armor"
 import { bulkUpdateJewelryQuality, bulkUpdateJewelrySet } from "./bulk-update-jewelry"
 import { bulkUpdateWeaponQuality, bulkUpdateWeaponSet } from "./bulk-update-weapons"
@@ -7,9 +8,9 @@ import type { Loadout } from "./loadout-types"
 
 export function bulkUpdateAllSets(
   equipment: Loadout,
-  oldValue: SetsAllId,
-  newValue: SetsAllId,
-  availableSets: readonly SetsAll[]
+  oldValue: SetId,
+  newValue: SetId,
+  availableSets: readonly SetTemplate[]
 ): Partial<Loadout> {
   return {
     ...bulkUpdateArmorSet(equipment, oldValue, newValue, availableSets),

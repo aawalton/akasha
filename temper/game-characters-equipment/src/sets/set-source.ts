@@ -3,7 +3,8 @@ import type { EffectSourceInterface } from "@akasha/temper-formula-framework/eff
 import type { Effect } from "@akasha/temper-formula-framework/effect"
 import { isMetricEffect } from "@akasha/temper-formula-framework/effect"
 import type { EquipmentQualityId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import { type SetsAllId, setsAll } from "./sets-all-data"
+import type { SetId } from "@akasha/temper-equipment/set-ids"
+import { setsAll } from "./sets-all-data"
 
 interface SetSourceTemplate extends EffectSourceInterface<"sets", Effect> {
   categoryId: "sets"
@@ -89,7 +90,7 @@ function scaleSetBonusEffect(effect: Effect, multiplier: number): Effect {
 }
 
 export function createSetSource(
-  setId: SetsAllId,
+  setId: SetId,
   pieceCount: number,
   pieceQualities?: readonly EquipmentQualityId[]
 ): SetSource | null {

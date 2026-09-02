@@ -1,5 +1,6 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { createDataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
+import type { ArmorWeightId, StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import type { ArmorItem, ItemLevel } from "../item-composites"
 import { getArmorBaseValueForLevel } from "../level-scaling"
@@ -11,8 +12,10 @@ import {
   TEMPER_ARMOR_WEIGHTS_BY_ID,
 } from "./generated/temper-armor-weight.generated"
 
+export type { ArmorWeightId, StandardArmorWeightId }
+
 export interface ArmorWeightTemplate {
-  id: string
+  id: ArmorWeightId
   name: string
   baseValue: number
   skillLineId:
@@ -24,15 +27,13 @@ export interface ArmorWeightTemplate {
   isStandard: boolean
 }
 
-export const armorWeights = createDataFile<ArmorWeightTemplate>()(TEMPER_ARMOR_WEIGHTS_BY_ID)
+export const armorWeights: DataFile<ArmorWeightId, ArmorWeightTemplate> =
+  createDataFile<ArmorWeightTemplate>()(TEMPER_ARMOR_WEIGHTS_BY_ID)
 
-export const standardArmorWeights = createDataFile<ArmorWeightTemplate>()(
-  STANDARD_TEMPER_ARMOR_WEIGHTS_BY_ID
-)
-
-export type ArmorWeightId = (typeof armorWeights.ids)[number]
-
-export type StandardArmorWeightId = (typeof standardArmorWeights.ids)[number]
+export const standardArmorWeights: DataFile<
+  StandardArmorWeightId,
+  ArmorWeightTemplate & { id: StandardArmorWeightId }
+> = createDataFile<ArmorWeightTemplate>()(STANDARD_TEMPER_ARMOR_WEIGHTS_BY_ID)
 
 const BASE_ARMOR_QUALITY_VALUES: Record<ArmorWeightId, Record<EquipmentQualityId, number>> = {
   "no-weight": { normal: 0, fine: 0, superior: 0, epic: 0, legendary: 0 },

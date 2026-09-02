@@ -13,9 +13,10 @@
 import type { WeaponTypeTemplate } from "../weapon-types-data"
 
 /**
- * Keyed record. The literal-id keys flow into `createDataFile`'s
- * `weaponTypes.ids` so `(typeof weaponTypes.ids)[number]` stays a
- * literal-union typed for callers.
+ * Keyed record. `WeaponTypeId` is declared in
+ * `@akasha/temper-equipment/weapon-type-ids`, and `weaponTypes` is
+ * annotated against that union, so a key here the union does not name
+ * is a type error rather than a silent widening.
  */
 export const TEMPER_WEAPON_TYPES_BY_ID = {
   "axe": { id: "axe" as const, name: "Axe", esoWeaponType: "WEAPONTYPE_AXE", validSlots: ["main-hand"] as const, weaponPower: 1335, isTwoHanded: false, enchantmentMultiplier: 0.5, skillLineId: "weapon-one-hand" },

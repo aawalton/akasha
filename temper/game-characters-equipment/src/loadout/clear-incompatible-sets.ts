@@ -1,10 +1,10 @@
 import { keysOf } from "@akasha/temper-formula-framework/record-parts"
-import type { SetsAllId } from "../sets/sets-all-data"
+import type { SetId } from "@akasha/temper-equipment/set-ids"
 import type { Loadout, WeaponSlot, WeaponSlotItem } from "./loadout-types"
 
 export function clearIncompatibleSets(
   loadout: Loadout,
-  incompatibleSetIds: readonly SetsAllId[]
+  incompatibleSetIds: readonly SetId[]
 ): Loadout {
   const incompatibleIds = new Set(incompatibleSetIds)
 

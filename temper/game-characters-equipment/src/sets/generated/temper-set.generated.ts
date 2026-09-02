@@ -16,8 +16,9 @@
  */
 
 import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
-import type { SetsAllId, SetsAllTemplate } from "../sets-all-data"
-import type { SetCategoryId } from "../set-categories-data"
+import type { SetCategoryId } from "@akasha/temper-equipment/set-category-ids"
+import type { SetId } from "@akasha/temper-equipment/set-ids"
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
 
 const SETS_DATA = {
   "no-set": {
@@ -6397,13 +6398,13 @@ const SETS_DATA = {
     bonuses: [{"count":1,"status":"supported","effects":[{"metricId":"stamina-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Stamina"},{"count":2,"status":"unsupported","effects":[],"description":"When you Break Free, you release a wave of Watcher energy, causing enemies within 8 meters of you to become Feared for 3 seconds. You also gain 34 Weapon and Spell Damage for each enemy hit, up to 6 enemies, for 7 seconds."}] as const,
     icons: {"head:heavy":"/esoui/art/icons/gear_undwatcher_head_a.dds","head:light":"/esoui/art/icons/gear_undwatcher_head_a.dds","head:medium":"/esoui/art/icons/gear_undwatcher_head_a.dds","shoulders:heavy":"/esoui/art/icons/gear_undwatcher_shoulders_a.dds","shoulders:light":"/esoui/art/icons/gear_undwatcher_shoulders_a.dds","shoulders:medium":"/esoui/art/icons/gear_undwatcher_shoulders_a.dds"} as const,
   },
-} satisfies Record<string, SetsAllTemplate>
+} satisfies Record<string, SetTemplate>
 
-// The named `SetsAllId` union keeps the TS native compiler from
+// The named `SetId` union keeps the TS native compiler from
 // serializing the full inferred per-key union once the snapshot grows
 // past ~255 rows (TS7056: "inferred type ... exceeds the maximum length
 // the compiler will serialize"). An explicit annotation is what TS7056
 // asks for, so widening this key back to `string` is not the repair;
 // widening it is what typed every set id as a bare string.
-export const setsFromPages: DataFile<SetsAllId, SetsAllTemplate, SetCategoryId> =
-  createDataFile<SetsAllTemplate>()(SETS_DATA)
+export const setsFromPages: DataFile<SetId, SetTemplate, SetCategoryId> =
+  createDataFile<SetTemplate>()(SETS_DATA)

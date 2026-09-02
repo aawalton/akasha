@@ -1,15 +1,16 @@
 import type { ArmorSlotId } from "@akasha/temper-equipment-kinds/armor-slots"
-import type { StandardArmorWeightId } from "../armor/armor-weights-data"
+import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
 import type { JewelrySlotId } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import type { WeaponSlot } from "@akasha/temper-equipment-kinds/weapon-slots"
-import type { WeaponTypeId } from "../weapons/weapon-types-data"
+import type { WeaponTypeId } from "@akasha/temper-equipment/weapon-type-ids"
 import {
   type EquipmentType,
   isJewelryType,
   isStandardArmorType,
   isWeaponType,
 } from "./set-equipment-types"
-import type { EquipmentPattern, SetsAll } from "./sets-all-data"
+import type { EquipmentPattern } from "@akasha/temper-equipment/set-patterns"
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
 
 function matchesEquipmentPattern(
   pattern: EquipmentPattern,
@@ -73,7 +74,7 @@ function matchesEquipmentPattern(
 }
 
 export function isSetValidForSlot(
-  set: SetsAll,
+  set: SetTemplate,
   slot: ArmorSlotId | JewelrySlotId | WeaponSlot,
   type: EquipmentType | null,
   weight?: StandardArmorWeightId | null
@@ -82,15 +83,15 @@ export function isSetValidForSlot(
 }
 
 export function getValidSetsForSlot(
-  sets: readonly SetsAll[],
+  sets: readonly SetTemplate[],
   slot: ArmorSlotId | JewelrySlotId | WeaponSlot,
   type: EquipmentType | null,
   weight?: StandardArmorWeightId | null
-): readonly SetsAll[] {
+): readonly SetTemplate[] {
   return sets.filter((set) => isSetValidForSlot(set, slot, type, weight))
 }
 
-export function isSetValidForArmorSlot(set: SetsAll, slot: ArmorSlotId): boolean {
+export function isSetValidForArmorSlot(set: SetTemplate, slot: ArmorSlotId): boolean {
   return (
     isSetValidForSlot(set, slot, slot, null) ||
     isSetValidForSlot(set, slot, slot, "light") ||
@@ -100,14 +101,14 @@ export function isSetValidForArmorSlot(set: SetsAll, slot: ArmorSlotId): boolean
 }
 
 export function getValidSetsForArmorSlot(
-  sets: readonly SetsAll[],
+  sets: readonly SetTemplate[],
   slot: ArmorSlotId
-): readonly SetsAll[] {
+): readonly SetTemplate[] {
   return sets.filter((set) => isSetValidForArmorSlot(set, slot))
 }
 
 export function getValidWeightsForSet(
-  set: SetsAll,
+  set: SetTemplate,
   slot: ArmorSlotId
 ): readonly StandardArmorWeightId[] {
   const allWeights: StandardArmorWeightId[] = ["light", "medium", "heavy"]
@@ -122,7 +123,7 @@ export function getValidWeightsForSet(
   return validWeights
 }
 
-export function getValidTypesForSet(set: SetsAll, slot: WeaponSlot): readonly WeaponTypeId[] {
+export function getValidTypesForSet(set: SetTemplate, slot: WeaponSlot): readonly WeaponTypeId[] {
   const allWeaponTypes: WeaponTypeId[] = [
     "sword",
     "axe",
@@ -149,6 +150,6 @@ export function getValidTypesForSet(set: SetsAll, slot: WeaponSlot): readonly We
   return validTypes
 }
 
-export function isShieldValidForSet(set: SetsAll): boolean {
+export function isShieldValidForSet(set: SetTemplate): boolean {
   return isSetValidForSlot(set, "off-hand", "shield", null)
 }

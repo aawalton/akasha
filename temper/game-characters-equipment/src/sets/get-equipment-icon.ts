@@ -1,14 +1,15 @@
-import type { StandardArmorWeightId } from "../armor/armor-weights-data"
+import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
 import {
   type EquipmentType,
   isJewelryType,
   isStandardArmorType,
   isWeaponType,
 } from "./set-equipment-types"
-import type { EquipmentPattern, SetsAll } from "./sets-all-data"
+import type { EquipmentPattern } from "@akasha/temper-equipment/set-patterns"
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
 
 export function getEquipmentIcon(
-  set: SetsAll | null,
+  set: SetTemplate | null,
   equipmentType: EquipmentType,
   armorWeight?: StandardArmorWeightId | null
 ): string | null {

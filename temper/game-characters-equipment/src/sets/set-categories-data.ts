@@ -1,22 +1,24 @@
 import { requireGet } from "@akasha/utils-narrow/require-get"
-import { createDataFile } from "@akasha/utils-narrow/create-data-file"
+import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
+import type { SetCategoryId } from "@akasha/temper-equipment/set-category-ids"
 import { TEMPER_SET_CATEGORIES_BY_ID } from "./generated/temper-set-category.generated"
-import type { SetsAll } from "./sets-all-data"
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
+
+export type { SetCategoryId }
 
 export interface SetCategoryTemplate {
-  id: string
+  id: SetCategoryId
   name: string
   displayOrder: number
 }
 
-export const setCategories = createDataFile<SetCategoryTemplate>()(TEMPER_SET_CATEGORIES_BY_ID)
-
-export type SetCategoryId = (typeof setCategories.ids)[number]
+export const setCategories: DataFile<SetCategoryId, SetCategoryTemplate> =
+  createDataFile<SetCategoryTemplate>()(TEMPER_SET_CATEGORIES_BY_ID)
 
 export function filterAndOrganizeSets(
-  sets: readonly SetsAll[]
-): readonly { type: string; sets: readonly SetsAll[] }[] {
-  const grouped = new Map<string, SetsAll[]>()
+  sets: readonly SetTemplate[]
+): readonly { type: string; sets: readonly SetTemplate[] }[] {
+  const grouped = new Map<string, SetTemplate[]>()
 
   for (const set of sets) {
     const category = set.subcategoryId
@@ -34,7 +36,7 @@ export function filterAndOrganizeSets(
     (a, b) => setCategories.data[a].displayOrder - setCategories.data[b].displayOrder
   )
 
-  const result: { type: string; sets: SetsAll[] }[] = []
+  const result: { type: string; sets: SetTemplate[] }[] = []
 
   for (const category of sortedCategories) {
     if (grouped.has(category)) {

@@ -2,7 +2,8 @@ import type { JewelryEnchantId } from "../enchants/jewelry-enchants-data"
 import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { isSetValidForSlot } from "../sets/pattern-matcher"
-import type { SetsAll, SetsAllId } from "../sets/sets-all-data"
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
+import type { SetId } from "@akasha/temper-equipment/set-ids"
 import type { JewelryTraitId } from "../traits/jewelry-traits-data"
 import type { Loadout } from "./loadout-types"
 
@@ -50,9 +51,9 @@ export function bulkUpdateJewelryEnchant(
 
 export function bulkUpdateJewelrySet(
   equipment: Loadout,
-  oldValue: SetsAllId,
-  newValue: SetsAllId,
-  availableSets: readonly SetsAll[]
+  oldValue: SetId,
+  newValue: SetId,
+  availableSets: readonly SetTemplate[]
 ): Partial<Loadout> {
   const newJewelry = { ...equipment.jewelry }
   const newSet = newValue !== "no-set" ? availableSets.find((s) => s.id === newValue) : null

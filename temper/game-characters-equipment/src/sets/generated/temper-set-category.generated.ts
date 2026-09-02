@@ -10,10 +10,10 @@
 import type { SetCategoryTemplate } from "../set-categories-data"
 
 /**
- * Keyed record. The literal-id keys flow into `createDataFile`'s
- * `setCategories.ids` so `(typeof setCategories.ids)[number]` stays a
- * literal-union typed for callers (`SetCategoryId` is the consumer-facing
- * alias).
+ * Keyed record. `SetCategoryId` is declared in
+ * `@akasha/temper-equipment/set-category-ids`, and `setCategories` is
+ * annotated against that union, so a key here the union does not name
+ * is a type error rather than a silent widening.
  */
 export const TEMPER_SET_CATEGORIES_BY_ID = {
   "none": { id: "none" as const, name: "No Set Category", displayOrder: 0 },

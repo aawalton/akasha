@@ -1,5 +1,6 @@
 import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
-import type { SetsAll, SetsAllId } from "../sets/sets-all-data"
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
+import type { SetId } from "@akasha/temper-equipment/set-ids"
 import { weaponBars } from "@akasha/temper-equipment-kinds/weapon-bars"
 import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import type { Loadout, WeaponSlot } from "./loadout-types"
@@ -7,7 +8,7 @@ import { getWeaponItem, isShieldSlot, isWeaponSlot } from "./weapon-slot-access"
 
 export function getEquippedMythicSetId(
   loadout: Loadout,
-  availableSets: readonly SetsAll[]
+  availableSets: readonly SetTemplate[]
 ): string | null {
   const allSetIds: string[] = []
 
@@ -44,8 +45,8 @@ export function getEquippedMythicSetId(
 }
 
 export function getMythicSlots<T extends { id: string }>(
-  items: Record<string, { itemType?: string; data?: { set?: SetsAllId } | null; set?: SetsAllId }>,
-  availableSets: readonly SetsAll[],
+  items: Record<string, { itemType?: string; data?: { set?: SetId } | null; set?: SetId }>,
+  availableSets: readonly SetTemplate[],
   slots: readonly T[]
 ): Record<string, string> {
   const mythicSlots: Record<string, string> = {}
@@ -66,7 +67,7 @@ export function getMythicSlots<T extends { id: string }>(
 export function getWeaponMythicSlots(
   primaryBar: WeaponSlot,
   backupBar: WeaponSlot,
-  availableSets: readonly SetsAll[]
+  availableSets: readonly SetTemplate[]
 ): Record<string, string> {
   const slots: Record<string, string> = {}
   const bars = {

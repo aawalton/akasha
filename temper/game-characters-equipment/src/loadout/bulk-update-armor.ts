@@ -1,9 +1,10 @@
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
-import type { StandardArmorWeightId } from "../armor/armor-weights-data"
+import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
 import type { ArmorEnchantId } from "../enchants/armor-enchants-data"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { isSetValidForArmorSlot } from "../sets/pattern-matcher"
-import type { SetsAll, SetsAllId } from "../sets/sets-all-data"
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
+import type { SetId } from "@akasha/temper-equipment/set-ids"
 import type { ArmorTraitId } from "../traits/armor-traits-data"
 import type { Loadout } from "./loadout-types"
 
@@ -125,9 +126,9 @@ export function bulkUpdateArmorEnchant(
 
 export function bulkUpdateArmorSet(
   equipment: Loadout,
-  oldValue: SetsAllId,
-  newValue: SetsAllId,
-  availableSets: readonly SetsAll[]
+  oldValue: SetId,
+  newValue: SetId,
+  availableSets: readonly SetTemplate[]
 ): Partial<Loadout> {
   const newArmor = { ...equipment.armor }
   const newSet = newValue !== "no-set" ? availableSets.find((s) => s.id === newValue) : null
