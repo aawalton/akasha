@@ -99,8 +99,6 @@
     "temper/game-navigation-addon",
     "temper/game-navigation-capture-addon",
     "temper/game-trading-addon",
-    "temper/game-trading-post-addon",
-    "temper/game-trading-pricing-client",
     "temper/player-completion",
     "temper/player-completion-addon",
     "temper/player-completion-skills-morphs-ui",

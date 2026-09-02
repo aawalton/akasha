@@ -49,7 +49,7 @@
     "@temper/game-items-rules-matcher": "workspace:*",
     "@temper/game-items-rules-routing": "workspace:*",
     "@temper/game-items-rules-routing-core": "workspace:*",
-    "@temper/game-trading-pricing-client": "workspace:*",
+    "@akasha/temper-trading-pricing-client": "workspace:*",
     "@temper/player-completion": "workspace:*",
     "zod": "^4.3.6"
   },

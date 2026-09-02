@@ -1,4 +1,4 @@
-import { postGuildStoreItem } from "@temper/game-trading-post-addon/guild-store-poster"
+import { postGuildStoreItem } from "@akasha/temper-trading-post/guild-store-poster"
 import { requireAt } from "@akasha/utils-narrow/require-at"
 import { ADDON_NAME } from "./constants"
 import { clearPendingAction, forEachPendingAction } from "./rules-core"

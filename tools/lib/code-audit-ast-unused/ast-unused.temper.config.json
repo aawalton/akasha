@@ -174,14 +174,6 @@
         "**/*.ts!"
       ]
     },
-    "temper/game-trading-pricing-client": {
-      "entry": [
-        "src/index.ts"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/player-completion": {
       "entry": [
         "**/*.test.{ts,tsx}"
