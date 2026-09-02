@@ -1,0 +1,4 @@
+{"id":"01a05fd1-7bff-7513-9aa8-4be3acbbd586","metricId":"health-ability-cost","type":"fractional-change","value":-0.05}
+{"id":"01a05fd1-7bff-76c2-8b92-89e210a2abb9","metricId":"magicka-ability-cost","type":"fractional-change","value":-0.05}
+{"id":"01a05fd1-7bff-76cc-9c89-fe109953be30","metricId":"stamina-non-core-ability-cost","type":"fractional-change","value":-0.05}
+{"id":"01a05fd1-7bff-7c19-aa28-b1d5673c9de0","metricId":"ultimate-ability-cost","type":"fractional-change","value":-0.05}

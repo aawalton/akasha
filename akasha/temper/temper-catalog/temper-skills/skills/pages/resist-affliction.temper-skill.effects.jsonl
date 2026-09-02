@@ -1,0 +1,3 @@
+{"id":"01a05fd1-7bff-7702-b2ce-c57293a851e1","metricId":"stamina-maximum","type":"integer","value":2000}
+{"id":"01a05fd1-7bff-761c-aa4d-dc49884f1f5a","metricId":"resistance-disease","type":"integer","value":2310}
+{"id":"01a05fd1-7bff-7068-b0f4-bd5a8bdc9630","metricId":"resistance-poison","type":"integer","value":2310}
