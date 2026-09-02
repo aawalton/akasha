@@ -29,6 +29,8 @@ export const temperBuildDeployChecks = {
     "module/check-addon-inline-handler-dispatch",
     "module/addon-hook-eager-capture",
     "module/check-addon-hook-eager-capture",
+    "module/eso-sandbox-manifest",
+    "module/addon-dist-bundles",
   ],
   invariants: [
     {

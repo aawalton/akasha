@@ -5,6 +5,7 @@
   "exports": {
     "./addon-dependency-cycle": "./addon-dependency-cycle/addon-dependency-cycle.module.code.ts",
     "./addon-dependency-floor": "./addon-dependency-floor/addon-dependency-floor.module.code.ts",
+    "./addon-dist-bundles": "./addon-dist-bundles/addon-dist-bundles.module.code.ts",
     "./addon-global-ownership": "./addon-global-ownership/addon-global-ownership.module.code.ts",
     "./addon-hook-eager-capture": "./addon-hook-eager-capture/addon-hook-eager-capture.module.code.ts",
     "./addon-inline-handler-dispatch": "./addon-inline-handler-dispatch/addon-inline-handler-dispatch.module.code.ts",
@@ -21,6 +22,7 @@
     "./error-message": "./error-message/error-message.module.code.ts",
     "./eso-clone-artifacts": "./eso-clone-artifacts/eso-clone-artifacts.module.code.ts",
     "./eso-doc-api-version": "./eso-doc-api-version/eso-doc-api-version.module.code.ts",
+    "./eso-sandbox-manifest": "./eso-sandbox-manifest/eso-sandbox-manifest.module.code.ts",
     "./population-bound": "./population-bound/population-bound.module.code.ts",
     "./repo-root": "./repo-root/repo-root.module.code.ts",
     "./suggest-closest": "./suggest-closest/suggest-closest.module.code.ts",
