@@ -31,6 +31,7 @@ function builtDiskTree(roots: Roots): FileTree {
   const placed = repoPlacings(roots)
   return {
     root: rootFor(roots, AKASHA),
+    roots,
     pending: new Set<string>(),
     paths: (glob) => scanSpanning(roots, typeof glob === "string" ? [glob] : glob),
     open: openAcross(roots),
