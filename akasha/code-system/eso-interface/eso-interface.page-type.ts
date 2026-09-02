@@ -5,7 +5,7 @@ import type { Markup } from "./properties/markup.file-property.ts"
 
 export type EsoInterface = Domain & {
   markup: Markup
-  loadedAs?: LoadedAs
+  loadedAs: LoadedAs
 }
 
 export const esoInterface = {
@@ -18,7 +18,7 @@ export const esoInterface = {
   extendsSlug: "page-type/domain",
   properties: [
     { pagePropertySlug: "markup", required: true, many: false },
-    { pagePropertySlug: "loaded-as", required: false, many: false },
+    { pagePropertySlug: "loaded-as", required: true, many: false },
   ],
   invariants: [
     {
