@@ -5,6 +5,7 @@ export const alanwaltonCategorize = {
   pageTypeSlug: "readout-widget",
   slug: "alanwalton-categorize",
   definition: "the tile on Alan's phone showing how many transactions are unreviewed",
+  appSlug: "alanwalton",
   componentSlug: "categorize-ring",
   kind: "CategorizeWidget",
   families: ["small"],

@@ -5,6 +5,7 @@ export const smilingjennyCategorize = {
   pageTypeSlug: "readout-widget",
   slug: "smilingjenny-categorize",
   definition: "the tile on Jenny's phone showing how many transactions are unreviewed",
+  appSlug: "smilingjenny",
   componentSlug: "categorize-ring",
   kind: "CategorizeWidget",
   families: ["small"],
