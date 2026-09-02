@@ -75,6 +75,7 @@ export const temper = {
     "workspace-package/temper-narrow",
     "workspace-package/temper-items-core",
     "workspace-package/temper-equipment-kinds",
+    "workspace-package/temper-hud-window",
   ],
   invariants: [
     {

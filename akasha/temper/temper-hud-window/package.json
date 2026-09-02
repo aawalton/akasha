@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/temper-hud-window",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./movable-window": "./movable-window/movable-window.module.code.ts"
+  }
+}
