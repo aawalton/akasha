@@ -19,10 +19,10 @@ import {
   type ManagedGuildBankSettings,
   readManagedGuildBanks,
 } from "@akasha/temper-items-core/inventory-guild-bank-types"
+import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { useAuth } from "@shared/auth/use-auth"
-import type { InventoryRuleSettings } from "@temper/game-items-rules-core/inventory-rule-types"
 import { useCallback, useMemo } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
