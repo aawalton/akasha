@@ -1,0 +1,47 @@
+{
+  "name": "@akasha/temper-player-inventory-management-ui",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./hooks-inventory": "./hooks-inventory/hooks-inventory.module.code.ts",
+    "./hooks-inventory-settings": "./hooks-inventory-settings/hooks-inventory-settings.module.code.ts",
+    "./inventory-import-types": "./inventory-import-types/inventory-import-types.module.code.ts",
+    "./inventory-page-content": "./inventory-page-content/inventory-page-content.module.code.tsx",
+    "./inventory-scope-note": "./inventory-scope-note/inventory-scope-note.module.code.tsx",
+    "./inventory-summary-panel-card": "./inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx",
+    "./pricing-region": "./pricing-region/pricing-region.module.code.ts",
+    "./pricing-region-note": "./pricing-region-note/pricing-region-note.module.code.tsx",
+    "./use-inventory-import": "./use-inventory-import/use-inventory-import.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/design-badges": "workspace:*",
+    "@akasha/design-forms": "workspace:*",
+    "@akasha/design-layout": "workspace:*",
+    "@akasha/design-patterns": "workspace:*",
+    "@akasha/design-primitives": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-ui": "workspace:*",
+    "@akasha/temper-build-support": "workspace:*",
+    "@akasha/temper-characters-character-ui": "workspace:*",
+    "@akasha/temper-characters-equipment": "workspace:*",
+    "@akasha/temper-characters-equipment-ui": "workspace:*",
+    "@akasha/temper-companions-ui": "workspace:*",
+    "@akasha/temper-items-core": "workspace:*",
+    "@akasha/temper-items-rules-core": "workspace:*",
+    "@akasha/temper-items-rules-matcher": "workspace:*",
+    "@akasha/temper-items-rules-routing": "workspace:*",
+    "@akasha/temper-items-rules-routing-core": "workspace:*",
+    "@akasha/temper-player-completion-ui": "workspace:*",
+    "@akasha/temper-player-profile": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/temper-trading-pricing": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "class-variance-authority": "^0.7.1",
+    "lucide-react": "^0.576.0",
+    "sonner": "^2.0.7"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19",
+    "react-dom": "^18 || ^19"
+  }
+}
