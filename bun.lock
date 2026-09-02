@@ -2714,6 +2714,18 @@
         "@types/bun": "^1.3.9",
       },
     },
+    "temper/addons": {
+      "name": "@temper/addons",
+      "version": "0.1.0",
+      "dependencies": {
+        "@akasha/temper-addons-resolve": "workspace:*",
+        "@akasha/temper-dungeons": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
+      },
+      "devDependencies": {
+        "typescript": "^5.8.3",
+      },
+    },
     "temper/catalog-addon": {
       "name": "@temper/catalog-addon",
       "version": "0.1.0",
@@ -3179,17 +3191,6 @@
         "@akasha/temper-addon-init": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-interface-selector-addon": {
-      "name": "@temper/shared-interface-selector-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.6",
         "typescript": "^5.8.3",
       },
     },
@@ -4376,6 +4377,8 @@
 
     "@tanstack/virtual-core": ["@tanstack/virtual-core@3.17.8", "", {}, "sha512-BfEvehNpOT75r5Ksc5xW6NZuXujTfb7nlSEyVu4XHG3gdxNg1KqXruWbDewXOUaUYIo4oRbSfkjIajz4MAT8tA=="],
 
+    "@temper/addons": ["@temper/addons@workspace:temper/addons"],
+
     "@temper/catalog-addon": ["@temper/catalog-addon@workspace:temper/catalog-addon"],
 
     "@temper/game-characters": ["@temper/game-characters@workspace:temper/game-characters"],
@@ -4423,8 +4426,6 @@
     "@temper/shared-capture-datamining-addon": ["@temper/shared-capture-datamining-addon@workspace:temper/shared-capture-datamining-addon"],
 
     "@temper/shared-interface-keybinder-addon": ["@temper/shared-interface-keybinder-addon@workspace:temper/shared-interface-keybinder-addon"],
-
-    "@temper/shared-interface-selector-addon": ["@temper/shared-interface-selector-addon@workspace:temper/shared-interface-selector-addon"],
 
     "@temper/web": ["@temper/web@workspace:temper/web"],
 

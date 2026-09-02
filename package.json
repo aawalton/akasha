@@ -48,6 +48,7 @@
     "shared/utils-test",
     "smilingjenny/web",
     "stories/text",
+    "temper/addons",
     "temper/catalog-addon",
     "temper/game-characters",
     "temper/game-characters-capture-addon",
@@ -71,7 +72,6 @@
     "temper/shared-build-deploy-checks",
     "temper/shared-capture-datamining-addon",
     "temper/shared-interface-keybinder-addon",
-    "temper/shared-interface-selector-addon",
     "temper/web",
     "tools/lib"
   ],
