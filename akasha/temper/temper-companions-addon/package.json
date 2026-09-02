@@ -6,7 +6,7 @@
     "./companion-qol-types": "./companion-qol-types/companion-qol-types.module.code.ts",
     "./companion-qol-casts": "./companion-qol-casts/companion-qol-casts.module.code.ts",
     "./companion-qol-state": "./companion-qol-state/companion-qol-state.module.code.ts",
-    "./companions-declarations": "./companions-declarations/companions-declarations.module.code.ts",
+    "./companions-declarations": "./companions-declarations/companions-declarations.type-declaration.d.ts",
     "./companion-qol-bindings": "./companion-qol-bindings/companion-qol-bindings.module.code.ts",
     "./companion-qol-compass": "./companion-qol-compass/companion-qol-compass.module.code.ts",
     "./companion-qol-constants": "./companion-qol-constants/companion-qol-constants.module.code.ts",
@@ -46,7 +46,9 @@
     "./companions-skills-panel": "./companions-skills-panel/companions-skills-panel.module.code.ts",
     "./companions-equipment-match": "./companions-equipment-match/companions-equipment-match.module.code.ts",
     "./companions-summary-panel": "./companions-summary-panel/companions-summary-panel.module.code.ts",
-    "./companions-entry": "./companions-entry/companions-entry.module.code.ts"
+    "./companions-entry": "./companions-entry/companions-entry.module.code.ts",
+    "./companions-saved-variables-declarations": "./companions-saved-variables-declarations/companions-saved-variables-declarations.type-declaration.d.ts",
+    "./companions-globals-declarations": "./companions-globals-declarations/companions-globals-declarations.type-declaration.d.ts"
   },
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",

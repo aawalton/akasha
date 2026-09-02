@@ -45,16 +45,6 @@ export interface SavedVariablesData {
   perf?: { loadTimeMs: number }
 }
 
-export interface CompanionsConfigGlobal {
-  readonly version: number
-  readonly companionTargetBuilds?: Record<number, string>
-  readonly companionTargetTimestamps?: Record<number, number>
-}
-
-declare global {
-  var TemperCompanionsConfig: CompanionsConfigGlobal | undefined
-}
-
 export let savedVarsInstance: SavedVariablesData | undefined
 
 export function initializeSavedVariables(): SavedVariablesData {
@@ -87,10 +77,6 @@ function isSavedCompanionEntry(x: unknown): x is SavedCompanionEntry {
   const skillLineProgress = x["skillLineProgress"]
   if (skillLineProgress !== undefined && !isObjectRecord(skillLineProgress)) return false
   return true
-}
-
-declare global {
-  var Temper_SavedVariables: unknown
 }
 
 export function migrateFromTemperSavedVars(): undefined {

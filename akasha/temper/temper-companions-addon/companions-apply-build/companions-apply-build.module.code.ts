@@ -1,4 +1,3 @@
-import "../companions-declarations/companions-declarations.module.code.ts"
 import "@akasha/temper-eso-types/eso-enums-01"
 import "@akasha/temper-eso-types/eso-enums-12"
 import "@akasha/temper-eso-types/eso-enums-13"

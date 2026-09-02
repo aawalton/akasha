@@ -1,4 +1,3 @@
-import "../companions-declarations/companions-declarations.module.code.ts"
 import "@akasha/temper-eso-types/eso-api-2"
 import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-globals"

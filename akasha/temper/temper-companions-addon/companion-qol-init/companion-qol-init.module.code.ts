@@ -1,4 +1,3 @@
-import "../companions-declarations/companions-declarations.module.code.ts"
 import "@akasha/temper-addon-library-types/lib-addon-menu"
 import "@akasha/temper-eso-types/eso-api"
 import "@akasha/temper-eso-types/eso-api-2"

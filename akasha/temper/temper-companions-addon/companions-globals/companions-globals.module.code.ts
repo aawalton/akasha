@@ -1,4 +1,3 @@
-import "../companions-declarations/companions-declarations.module.code.ts"
 import "@akasha/temper-eso-types/eso-api"
 import "@akasha/temper-eso-types/eso-enums-01"
 import "@akasha/temper-eso-types/eso-enums-12"
@@ -16,11 +15,6 @@ import {
   refreshAllCompanionData,
   resetAllCompanionData,
 } from "../companions-commands/companions-commands.module.code.ts"
-
-declare global {
-  var TemperCompanions_RefreshAllData: typeof refreshAllCompanionData
-  var TemperCompanions_ResetAllData: typeof resetAllCompanionData
-}
 
 globalThis.TemperCompanions_RefreshAllData = refreshAllCompanionData
 globalThis.TemperCompanions_ResetAllData = resetAllCompanionData

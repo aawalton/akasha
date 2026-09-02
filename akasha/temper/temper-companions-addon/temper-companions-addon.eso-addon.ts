@@ -15,7 +15,6 @@ export const temperCompanionsAddon = {
     "module/companion-qol-types",
     "module/companion-qol-casts",
     "module/companion-qol-state",
-    "module/companions-declarations",
     "module/companion-qol-bindings",
     "module/companion-qol-compass",
     "module/companion-qol-constants",
@@ -56,6 +55,9 @@ export const temperCompanionsAddon = {
     "module/companions-equipment-match",
     "module/companions-summary-panel",
     "module/companions-entry",
+    "type-declaration/companions-declarations",
+    "type-declaration/companions-saved-variables-declarations",
+    "type-declaration/companions-globals-declarations",
     "lua-module/companions-config",
   ],
   invariants: [
