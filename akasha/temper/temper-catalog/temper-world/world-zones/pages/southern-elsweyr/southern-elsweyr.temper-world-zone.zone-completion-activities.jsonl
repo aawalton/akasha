@@ -1,0 +1,48 @@
+{"id":"01a0616a-006b-78a7-9f35-5f15dbccd225","completionType":1,"completionTypeLabel":"Priority Quests","activityIndex":1,"esoActivityId":6401,"activityName":"The Dragon's Lair"}
+{"id":"01a0616a-006b-7a35-aab4-71b381774729","completionType":1,"completionTypeLabel":"Priority Quests","activityIndex":2,"esoActivityId":6409,"activityName":"Reformation"}
+{"id":"01a0616a-006b-7a83-a089-208a50c604c9","completionType":1,"completionTypeLabel":"Priority Quests","activityIndex":3,"esoActivityId":6394,"activityName":"Uneasy Alliances"}
+{"id":"01a0616a-006b-78dc-8cfa-a64f4671de9f","completionType":1,"completionTypeLabel":"Priority Quests","activityIndex":4,"esoActivityId":6399,"activityName":"Order of the New Moon"}
+{"id":"01a0616a-006b-7214-a776-45d5125b7dc8","completionType":1,"completionTypeLabel":"Priority Quests","activityIndex":5,"esoActivityId":6403,"activityName":"The Pride of Alkosh"}
+{"id":"01a0616a-006b-7fa6-a3f2-551e79017b35","completionType":1,"completionTypeLabel":"Priority Quests","activityIndex":6,"esoActivityId":6404,"activityName":"The Dragonguard"}
+{"id":"01a0616a-006b-7ad7-868c-6f2570fdcbce","completionType":2,"completionTypeLabel":"Points of Interest","activityIndex":1,"esoActivityId":2186,"activityName":"Senchal"}
+{"id":"01a0616a-006b-74a5-b10d-acb861f382a8","completionType":2,"completionTypeLabel":"Points of Interest","activityIndex":2,"esoActivityId":2187,"activityName":"South Guard Ruins"}
+{"id":"01a0616a-006b-782a-af1c-4a96733b828f","completionType":2,"completionTypeLabel":"Points of Interest","activityIndex":3,"esoActivityId":2188,"activityName":"Black Heights"}
+{"id":"01a0616a-006b-70c3-a416-0fa4b832f1d5","completionType":3,"completionTypeLabel":"Featured Achievements","activityIndex":1,"esoActivityId":2626,"activityName":"Welcome to Pellitine"}
+{"id":"01a0616a-006b-70af-8f77-026f799ba6c1","completionType":3,"completionTypeLabel":"Featured Achievements","activityIndex":2,"esoActivityId":2559,"activityName":"Southern Elsweyr Master Explorer"}
+{"id":"01a0616a-006b-7304-90d9-f6e088e1a2aa","completionType":3,"completionTypeLabel":"Featured Achievements","activityIndex":3,"esoActivityId":2617,"activityName":"Pellitine's Pride and Joy"}
+{"id":"01a0616a-006b-7e33-8355-6491e2c50374","completionType":3,"completionTypeLabel":"Featured Achievements","activityIndex":4,"esoActivityId":2566,"activityName":"Pellitine Master Angler"}
+{"id":"01a0616a-006b-7057-b816-26ba1df051c8","completionType":4,"completionTypeLabel":"Wayshrines","activityIndex":1,"esoActivityId":2178,"activityName":"Senchal Wayshrine"}
+{"id":"01a0616a-006b-7abe-90c9-b1312aed148b","completionType":4,"completionTypeLabel":"Wayshrines","activityIndex":2,"esoActivityId":2179,"activityName":"South Guard Ruins Wayshrine"}
+{"id":"01a0616a-006b-7847-ba9b-53c915157b9a","completionType":4,"completionTypeLabel":"Wayshrines","activityIndex":3,"esoActivityId":2182,"activityName":"Western Plains Wayshrine"}
+{"id":"01a0616a-006b-76b5-aa38-e7c4f3ed5578","completionType":4,"completionTypeLabel":"Wayshrines","activityIndex":4,"esoActivityId":2183,"activityName":"Black Heights Wayshrine"}
+{"id":"01a0616a-006b-7ba2-a4f1-d96025f10833","completionType":4,"completionTypeLabel":"Wayshrines","activityIndex":5,"esoActivityId":2184,"activityName":"Pridehome Wayshrine"}
+{"id":"01a0616a-006b-71c9-bf1c-94d76f8a81e9","completionType":4,"completionTypeLabel":"Wayshrines","activityIndex":6,"esoActivityId":2185,"activityName":"Dragonguard Sanctum Wayshrine"}
+{"id":"01a0616a-006b-7ced-bb7e-aface7385236","completionType":5,"completionTypeLabel":"Delves","activityIndex":1,"esoActivityId":2189,"activityName":"Moonlit Cove"}
+{"id":"01a0616a-006b-7e11-aadd-9243b46350ea","completionType":5,"completionTypeLabel":"Delves","activityIndex":2,"esoActivityId":2190,"activityName":"Forsaken Citadel"}
+{"id":"01a0616a-006b-7250-a6a4-c7369be3e383","completionType":7,"completionTypeLabel":"Skyshards","activityIndex":1,"esoActivityId":448,"activityName":"Overlooking the coast, southeast of Doomstone Keep"}
+{"id":"01a0616a-006b-7526-ab07-0276563a01cd","completionType":7,"completionTypeLabel":"Skyshards","activityIndex":2,"esoActivityId":449,"activityName":"Lurking inside a burned ruin in west Senchal"}
+{"id":"01a0616a-006b-76d4-a4a6-ae5650cce212","completionType":7,"completionTypeLabel":"Skyshards","activityIndex":3,"esoActivityId":450,"activityName":"Where water falls in the Western Plains"}
+{"id":"01a0616a-006b-7aa3-b81c-1bdaa326c876","completionType":7,"completionTypeLabel":"Skyshards","activityIndex":4,"esoActivityId":451,"activityName":"Where falling water meets the natural arch east of Black Heights"}
+{"id":"01a0616a-006b-7083-947d-ed02494d44aa","completionType":7,"completionTypeLabel":"Skyshards","activityIndex":5,"esoActivityId":452,"activityName":"Across a rope bridge in Moonlit Cove"}
+{"id":"01a0616a-006b-7d91-b0a7-43342c501b99","completionType":7,"completionTypeLabel":"Skyshards","activityIndex":6,"esoActivityId":453,"activityName":"Within the lower tunnels of the Forsaken Citadel"}
+{"id":"01a0616a-006b-720e-82e2-ee45e073c39a","completionType":9,"completionTypeLabel":"Striking Locales","activityIndex":1,"esoActivityId":2194,"activityName":"Shrine of the Reforged"}
+{"id":"01a0616a-006b-717f-9dd5-ff6862e65c85","completionType":9,"completionTypeLabel":"Striking Locales","activityIndex":2,"esoActivityId":2195,"activityName":"Ri'Atahrashi's Training Ground"}
+{"id":"01a0616a-006b-78e5-b453-7b6de30765a2","completionType":10,"completionTypeLabel":"Group Bosses","activityIndex":1,"esoActivityId":2197,"activityName":"Zazaradi's Quarry and Mine"}
+{"id":"01a0616a-006b-7476-afe9-28efdeeeeacc","completionType":10,"completionTypeLabel":"Group Bosses","activityIndex":2,"esoActivityId":2198,"activityName":"Pridehome"}
+{"id":"01a0616a-006b-7858-9861-a0efc96819d6","completionType":10,"completionTypeLabel":"Group Bosses","activityIndex":3,"esoActivityId":2199,"activityName":"Doomstone Keep"}
+{"id":"01a0616a-006b-72e5-9e20-f0eddaf29b88","completionType":10,"completionTypeLabel":"Group Bosses","activityIndex":4,"esoActivityId":2200,"activityName":"The Forgotten Mane"}
+{"id":"01a0616a-006b-7376-a1ad-8f40135801ed","completionType":10,"completionTypeLabel":"Group Bosses","activityIndex":5,"esoActivityId":2202,"activityName":"Purring Rock"}
+{"id":"01a0616a-006b-7088-8231-b679830d17c2","completionType":10,"completionTypeLabel":"Group Bosses","activityIndex":6,"esoActivityId":2216,"activityName":"Khenarthi's Arch"}
+{"id":"01a0616a-006b-7bb7-b25c-66d919851aaa","completionType":11,"completionTypeLabel":"Mages Guild Books","activityIndex":1,"esoActivityId":296,"activityName":"A Mother's Nursery Rhyme"}
+{"id":"01a0616a-006b-79ad-9764-2dc828ca5f75","completionType":11,"completionTypeLabel":"Mages Guild Books","activityIndex":2,"esoActivityId":298,"activityName":"On the Knahaten Flu"}
+{"id":"01a0616a-006b-70b7-9106-031eb98e7191","completionType":11,"completionTypeLabel":"Mages Guild Books","activityIndex":3,"esoActivityId":359,"activityName":"Pirates of the Abecean"}
+{"id":"01a0616a-006b-760d-a3dd-15689490fa30","completionType":11,"completionTypeLabel":"Mages Guild Books","activityIndex":4,"esoActivityId":361,"activityName":"A Nereid Stole My Husband"}
+{"id":"01a0616a-006b-78f0-b7f6-6fe189a70a2d","completionType":11,"completionTypeLabel":"Mages Guild Books","activityIndex":5,"esoActivityId":1414,"activityName":"Varieties of Faith: The Khajiit"}
+{"id":"01a0616a-006b-7577-8111-3815b2a033e7","completionType":11,"completionTypeLabel":"Mages Guild Books","activityIndex":6,"esoActivityId":1434,"activityName":"The Moon Cats and their Dance"}
+{"id":"01a0616a-006b-71e7-81ba-f915541e4ad3","completionType":11,"completionTypeLabel":"Mages Guild Books","activityIndex":7,"esoActivityId":1438,"activityName":"The Eagle and the Cat"}
+{"id":"01a0616a-006b-72a1-8896-a7864b1638dc","completionType":11,"completionTypeLabel":"Mages Guild Books","activityIndex":8,"esoActivityId":1439,"activityName":"Elven Eyes, Elven Spies"}
+{"id":"01a0616a-006b-73ca-8bde-cba6c7216d65","completionType":11,"completionTypeLabel":"Mages Guild Books","activityIndex":9,"esoActivityId":1441,"activityName":"Master Zoaraym's Tale, Part 1"}
+{"id":"01a0616a-006b-7e7d-b63f-a092cadf27c3","completionType":11,"completionTypeLabel":"Mages Guild Books","activityIndex":10,"esoActivityId":1442,"activityName":"Master Zoaraym's Tale, Part 2"}
+{"id":"01a0616a-006b-7ba8-b05d-4beeb86878d3","completionType":14,"completionTypeLabel":"Group Delves","activityIndex":1,"esoActivityId":2191,"activityName":"Fur-Forge Cove"}
+{"id":"01a0616a-006b-7dfc-bc08-00f8a57b42a0","completionType":14,"completionTypeLabel":"Group Delves","activityIndex":2,"esoActivityId":2192,"activityName":"Cat's-Claw Station"}
+{"id":"01a0616a-006b-77bf-ab26-0d42603a4a19","completionType":14,"completionTypeLabel":"Group Delves","activityIndex":3,"esoActivityId":2243,"activityName":"Dragonguard Armory"}

@@ -1,0 +1,62 @@
+{"id":"01a0616a-006a-7924-a42c-fe88da8af7f0","poiType":0,"poiTypeLabel":"Standard","poiIndex":1,"poiName":"Alten Corimont"}
+{"id":"01a0616a-006a-7d76-8c69-d4d73058c431","poiType":0,"poiTypeLabel":"Standard","poiIndex":2,"poiName":"Stormhold"}
+{"id":"01a0616a-006a-7ac8-a95d-6cc6da21b8f3","poiType":0,"poiTypeLabel":"Standard","poiIndex":3,"poiName":"Stillrise Village"}
+{"id":"01a0616a-006a-7d3c-9494-d4786606c527","poiType":0,"poiTypeLabel":"Standard","poiIndex":4,"poiName":"Zuuk"}
+{"id":"01a0616a-006a-7cba-8b11-c2b41af8d9aa","poiType":0,"poiTypeLabel":"Standard","poiIndex":5,"poiName":"Hissmir"}
+{"id":"01a0616a-006a-7ac3-803c-60c02da0438b","poiType":0,"poiTypeLabel":"Standard","poiIndex":6,"poiName":"Xal Ithix"}
+{"id":"01a0616a-006a-73dc-83eb-63cd028c9bca","poiType":0,"poiTypeLabel":"Standard","poiIndex":7,"poiName":"Deep Graves"}
+{"id":"01a0616a-006a-78c7-98b1-51590421cac0","poiType":0,"poiTypeLabel":"Standard","poiIndex":8,"poiName":"Ten-Maur-Wolk"}
+{"id":"01a0616a-006a-767f-b254-8d11cffe1cb6","poiType":0,"poiTypeLabel":"Standard","poiIndex":9,"poiName":"Murkwater"}
+{"id":"01a0616a-006a-7b2c-9af4-e69dc2762b28","poiType":0,"poiTypeLabel":"Standard","poiIndex":11,"poiName":"Bogmother"}
+{"id":"01a0616a-006a-76a2-a021-a2ee3df7f406","poiType":0,"poiTypeLabel":"Standard","poiIndex":12,"poiName":"Forsaken Hamlet"}
+{"id":"01a0616a-006a-7db5-8a04-6bd11b076db7","poiType":0,"poiTypeLabel":"Standard","poiIndex":13,"poiName":"Hatching Pools"}
+{"id":"01a0616a-006a-7e6d-b2ed-c344e86577bd","poiType":0,"poiTypeLabel":"Standard","poiIndex":14,"poiName":"Sunscale Strand"}
+{"id":"01a0616a-006a-78e0-af0b-b9773a5f4624","poiType":0,"poiTypeLabel":"Standard","poiIndex":15,"poiName":"Mud Tree Village"}
+{"id":"01a0616a-006a-7a9e-be07-3233859afd67","poiType":0,"poiTypeLabel":"Standard","poiIndex":16,"poiName":"Percolating Mire"}
+{"id":"01a0616a-006a-7beb-b4d3-2e0d1c8c347d","poiType":0,"poiTypeLabel":"Standard","poiIndex":25,"poiName":"White Rose Prison"}
+{"id":"01a0616a-006a-71fe-a08e-6e8015c0f775","poiType":0,"poiTypeLabel":"Standard","poiIndex":32,"poiName":"Loriasel"}
+{"id":"01a0616a-006a-7812-aa44-42e5f010e1cb","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":20,"poiName":"Stillrise Wayshrine"}
+{"id":"01a0616a-006a-7285-aa7a-f96bb6543a36","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":21,"poiName":"Stormhold Wayshrine"}
+{"id":"01a0616a-006a-733c-9eff-f363defe5dba","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":22,"poiName":"Hatching Pools Wayshrine"}
+{"id":"01a0616a-006a-73cd-a7a9-be137f3c2d26","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":23,"poiName":"Bogmother Wayshrine"}
+{"id":"01a0616a-006a-7650-aa3f-b4cbbfea3e1c","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":24,"poiName":"Alten Corimont Wayshrine"}
+{"id":"01a0616a-006a-71bb-a7e6-86317841fd53","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":26,"poiName":"Percolating Mire Wayshrine"}
+{"id":"01a0616a-006a-7e3b-bd3f-541502bc85f6","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":27,"poiName":"Hissmir Wayshrine"}
+{"id":"01a0616a-006a-7a57-aedc-a3919c98e442","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":28,"poiName":"Loriasel Wayshrine"}
+{"id":"01a0616a-006a-7a99-892c-551be4cd866e","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":30,"poiName":"Venomous Fens Wayshrine"}
+{"id":"01a0616a-006a-7e38-ae25-1de4c47644ba","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":31,"poiName":"Forsaken Hamlet Wayshrine"}
+{"id":"01a0616a-006a-7e0f-9412-336200e5f6bb","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":17,"poiName":"The Atronach"}
+{"id":"01a0616a-006a-7591-8cd2-c24bebc40c6c","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":18,"poiName":"The Shadow"}
+{"id":"01a0616a-006a-72e3-af8f-86812d45b8bf","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":19,"poiName":"The Serpent"}
+{"id":"01a0616a-006a-7fa8-8d43-871e52831f77","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":50,"poiName":"Xal Haj-Ei Shrine"}
+{"id":"01a0616a-006a-76d4-b676-1873f675cdfb","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":51,"poiName":"Camp Silken Snare"}
+{"id":"01a0616a-006a-78f6-a0e8-551a50de0f1e","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":52,"poiName":"The Vile Pavilion"}
+{"id":"01a0616a-006a-7478-8f41-21d9f18fbf2c","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":53,"poiName":"Camp Merciful Reduction"}
+{"id":"01a0616a-006a-79d4-97d8-fa02d778cc70","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":54,"poiName":"Tsonashap Mine"}
+{"id":"01a0616a-006a-73ff-870f-835a71727546","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":55,"poiName":"The Graceful Dominator"}
+{"id":"01a0616a-006a-7e33-ad47-8c441bf90752","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":56,"poiName":"Camp Crystal Abattoir"}
+{"id":"01a0616a-006a-7ade-b250-751278950147","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":57,"poiName":"Hatchling's Crown"}
+{"id":"01a0616a-006a-798b-91c5-232d56aafaf1","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":58,"poiName":"Telvanni Acquisition Camp"}
+{"id":"01a0616a-006a-73cc-a5f0-19fa27a61526","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":59,"poiName":"Weeping Wamasu Falls"}
+{"id":"01a0616a-006a-729e-9692-43e09c619dfe","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":60,"poiName":"Hei-Halai"}
+{"id":"01a0616a-006a-7d92-862a-ff2f0936fcc2","poiType":3,"poiTypeLabel":"Achievements","poiIndex":33,"poiName":"Shrine of the Black Maw"}
+{"id":"01a0616a-006a-7479-ac3f-c47021c186ed","poiType":3,"poiTypeLabel":"Achievements","poiIndex":34,"poiName":"Broken Tusk"}
+{"id":"01a0616a-006a-776c-97ae-b032fcbfed98","poiType":3,"poiTypeLabel":"Achievements","poiIndex":35,"poiName":"Atanaz Ruins"}
+{"id":"01a0616a-006a-7fe0-8c6d-e208b9bf54cf","poiType":3,"poiTypeLabel":"Achievements","poiIndex":36,"poiName":"Onkobra Kwama Mine"}
+{"id":"01a0616a-006a-788a-bdfb-770c3f6145f1","poiType":3,"poiTypeLabel":"Achievements","poiIndex":37,"poiName":"Chid-Moska Ruins"}
+{"id":"01a0616a-006a-7c91-96a8-c5f4d625052c","poiType":3,"poiTypeLabel":"Achievements","poiIndex":38,"poiName":"Gandranen Ruins"}
+{"id":"01a0616a-006a-71f7-a375-ce6f3bd46c5a","poiType":3,"poiTypeLabel":"Achievements","poiIndex":44,"poiName":"Haynekhtnamet's Lair"}
+{"id":"01a0616a-006a-7277-b4eb-5cceca38dbef","poiType":3,"poiTypeLabel":"Achievements","poiIndex":45,"poiName":"Captain Bones' Ship"}
+{"id":"01a0616a-006a-7d23-b08c-0a1d66e7f858","poiType":3,"poiTypeLabel":"Achievements","poiIndex":46,"poiName":"Bitterroot Cave"}
+{"id":"01a0616a-006a-7181-b56e-28ce90c0c839","poiType":3,"poiTypeLabel":"Achievements","poiIndex":47,"poiName":"Nen Ria"}
+{"id":"01a0616a-006a-7120-8f65-52e01af1c54a","poiType":3,"poiTypeLabel":"Achievements","poiIndex":48,"poiName":"Xal Thak"}
+{"id":"01a0616a-006a-7ea2-9389-41206b442466","poiType":3,"poiTypeLabel":"Achievements","poiIndex":49,"poiName":"Slaver Camp"}
+{"id":"01a0616a-006a-7041-a860-b9fe3dd0da18","poiType":4,"poiTypeLabel":"Objectives","poiIndex":41,"poiName":"Reticulated Spine Dolmen"}
+{"id":"01a0616a-006a-75f2-89a6-7c63c42af049","poiType":4,"poiTypeLabel":"Objectives","poiIndex":42,"poiName":"Leafwater Dolmen"}
+{"id":"01a0616a-006a-7def-9b29-fcd623c08ee9","poiType":4,"poiTypeLabel":"Objectives","poiIndex":43,"poiName":"Venomous Fens Dolmen"}
+{"id":"01a0616a-006a-7d63-90f0-2112259a26a9","poiType":5,"poiTypeLabel":"Public Dungeons","poiIndex":40,"poiName":"Sanguine's Demesne"}
+{"id":"01a0616a-006a-7c21-9974-932794670e1f","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":39,"poiName":"Dungeon: Arx Corinium"}
+{"id":"01a0616a-006a-7914-9d26-04441f817ee9","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":61,"poiName":"Dungeon: Cradle of Shadows"}
+{"id":"01a0616a-006a-794b-b545-1f015a4ffaad","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":62,"poiName":"Dungeon: Ruins of Mazzatun"}
+{"id":"01a0616a-006a-7dbb-a964-659136faad80","poiType":7,"poiTypeLabel":"Houses","poiIndex":63,"poiName":"Stay-Moist Mansion"}
+{"id":"01a0616a-006a-7a29-b185-187df6b0052a","poiType":7,"poiTypeLabel":"Houses","poiIndex":64,"poiName":"The Ample Domicile"}

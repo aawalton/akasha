@@ -1,0 +1,55 @@
+{"id":"01a0616a-0072-7239-96ca-732b3ae3089f","poiType":0,"poiTypeLabel":"Standard","poiIndex":2,"poiName":"Morthal"}
+{"id":"01a0616a-0072-7ec3-a2f7-57ca265e4eb0","poiType":0,"poiTypeLabel":"Standard","poiIndex":3,"poiName":"Karthwatch"}
+{"id":"01a0616a-0072-710e-9d4d-ceed1a524330","poiType":0,"poiTypeLabel":"Standard","poiIndex":4,"poiName":"Dragon Bridge"}
+{"id":"01a0616a-0072-760f-b40c-4d66bb647180","poiType":0,"poiTypeLabel":"Standard","poiIndex":5,"poiName":"Kilkreath Temple"}
+{"id":"01a0616a-0072-7e61-b8c6-f23942a9d259","poiType":0,"poiTypeLabel":"Standard","poiIndex":6,"poiName":"Mor Khazgur"}
+{"id":"01a0616a-0072-72dd-9fe2-c514ed532f4b","poiType":0,"poiTypeLabel":"Standard","poiIndex":7,"poiName":"The Silver Cormorant"}
+{"id":"01a0616a-0072-735d-a098-dba9bae66b95","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":17,"poiName":"Kilkreath Temple Wayshrine"}
+{"id":"01a0616a-0072-70ec-b799-4a623b393997","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":18,"poiName":"Morthal Wayshrine"}
+{"id":"01a0616a-0072-7b8b-ae7e-381d1369e315","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":19,"poiName":"Mor Khazgur Wayshrine"}
+{"id":"01a0616a-0072-7f0b-93d3-9d1e88915aaf","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":20,"poiName":"Dragon Bridge Wayshrine"}
+{"id":"01a0616a-0072-775a-90e4-17d1ba208e99","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":21,"poiName":"Southern Watch Wayshrine"}
+{"id":"01a0616a-0072-7d6e-a3eb-3488d11742b2","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":22,"poiName":"Frozen Coast Wayshrine"}
+{"id":"01a0616a-0072-7561-b246-bcfc929e330e","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":23,"poiName":"Solitude Wayshrine"}
+{"id":"01a0616a-0072-74eb-b283-dee55a6b40ba","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":40,"poiName":"Solitude Docks Wayshrine"}
+{"id":"01a0616a-0072-79f8-a1b4-3edbdfc153e6","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":42,"poiName":"Deepwood Vale Wayshrine"}
+{"id":"01a0616a-0072-7ed3-9804-a2f480ef0912","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":58,"poiName":"Giant's Coast Wayshrine"}
+{"id":"01a0616a-0072-7b5f-87d4-fdfd62119980","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":59,"poiName":"Northern Watch Wayshrine"}
+{"id":"01a0616a-0072-7f84-a001-7865d3d98a48","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":1,"poiName":"Solitude"}
+{"id":"01a0616a-0072-73b1-8b13-d929067267a4","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":13,"poiName":"Karthald Great Lift"}
+{"id":"01a0616a-0072-77bc-9aea-30ffc060d8b3","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":15,"poiName":"Hjaalmarch Great Lift"}
+{"id":"01a0616a-0072-7d2c-8499-8e10b551fedb","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":16,"poiName":"Eastern Great Lift"}
+{"id":"01a0616a-0072-72bc-9618-6969fa5c93c2","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":48,"poiName":"Hunter's House"}
+{"id":"01a0616a-0072-7116-a075-8ce44b23b008","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":49,"poiName":"Dragon's Belly"}
+{"id":"01a0616a-0072-7fd8-8a3d-77f9d6d4ee67","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":50,"poiName":"Lendoran Ruin"}
+{"id":"01a0616a-0072-7f86-a0b1-7fcbfd85720f","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":51,"poiName":"Storm-Hawk's Altar"}
+{"id":"01a0616a-0072-71f4-af1d-45a24099eb2e","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":52,"poiName":"Sword's Point Watchtower"}
+{"id":"01a0616a-0072-7e41-9d56-30da29e7f34b","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":53,"poiName":"Wolf's Eye Lighthouse"}
+{"id":"01a0616a-0072-70fc-b464-7b3dff5c6386","poiType":3,"poiTypeLabel":"Achievements","poiIndex":8,"poiName":"Frozen Coast"}
+{"id":"01a0616a-0072-7156-ac8c-efea71e871b8","poiType":3,"poiTypeLabel":"Achievements","poiIndex":9,"poiName":"Shadowgreen"}
+{"id":"01a0616a-0072-7e69-b487-6f9d2dcf11c1","poiType":3,"poiTypeLabel":"Achievements","poiIndex":10,"poiName":"Chillwind Depths"}
+{"id":"01a0616a-0072-7581-a6f5-258ffd848759","poiType":3,"poiTypeLabel":"Achievements","poiIndex":11,"poiName":"Dragonhome"}
+{"id":"01a0616a-0072-7f34-835d-c8062cca6c0c","poiType":3,"poiTypeLabel":"Achievements","poiIndex":24,"poiName":"Hordrek's Hunting Grounds"}
+{"id":"01a0616a-0072-7227-8eae-5a687edfb512","poiType":3,"poiTypeLabel":"Achievements","poiIndex":26,"poiName":"Circle of Champions"}
+{"id":"01a0616a-0072-7b66-a508-1b44728470c9","poiType":3,"poiTypeLabel":"Achievements","poiIndex":27,"poiName":"Ysmgar's Beach"}
+{"id":"01a0616a-0072-7e63-96c8-c8b622928903","poiType":3,"poiTypeLabel":"Achievements","poiIndex":28,"poiName":"Shademother's Haven"}
+{"id":"01a0616a-0072-7da3-9737-32cd503144e6","poiType":3,"poiTypeLabel":"Achievements","poiIndex":39,"poiName":"Trial: Kyne's Aegis"}
+{"id":"01a0616a-0072-780f-8aad-68731493ae25","poiType":4,"poiTypeLabel":"Objectives","poiIndex":29,"poiName":"Old Karth Ritual Site"}
+{"id":"01a0616a-0072-7c6d-a957-c18c90d7236a","poiType":4,"poiTypeLabel":"Objectives","poiIndex":30,"poiName":"Black Morass Ritual Site"}
+{"id":"01a0616a-0072-7c87-8caf-f9c992b75f01","poiType":4,"poiTypeLabel":"Objectives","poiIndex":31,"poiName":"Giant's Coast Ritual Site"}
+{"id":"01a0616a-0072-7a85-b6b4-0fa776c5534f","poiType":4,"poiTypeLabel":"Objectives","poiIndex":32,"poiName":"Chilblain Peak Ritual Site"}
+{"id":"01a0616a-0072-7656-8bb9-1693d809d35b","poiType":4,"poiTypeLabel":"Objectives","poiIndex":33,"poiName":"Hailstone Valley Ritual Site"}
+{"id":"01a0616a-0072-7791-af7e-e4ec8fdca81f","poiType":4,"poiTypeLabel":"Objectives","poiIndex":34,"poiName":"Northern Watch Ritual Site"}
+{"id":"01a0616a-0072-712b-bd98-a9287fab5be1","poiType":4,"poiTypeLabel":"Objectives","poiIndex":35,"poiName":"Coastal Giant Camp"}
+{"id":"01a0616a-0072-77ad-a185-79145fe30578","poiType":4,"poiTypeLabel":"Objectives","poiIndex":36,"poiName":"Karthald Giant Camp"}
+{"id":"01a0616a-0072-77b2-99e5-e7490a6af0ef","poiType":4,"poiTypeLabel":"Objectives","poiIndex":37,"poiName":"Kilkreath Giant Camp"}
+{"id":"01a0616a-0072-7b0d-8646-2f1131ee809f","poiType":4,"poiTypeLabel":"Objectives","poiIndex":38,"poiName":"Highland Giant Camp"}
+{"id":"01a0616a-0072-71f3-a3c1-257055010690","poiType":4,"poiTypeLabel":"Objectives","poiIndex":43,"poiName":"Deepwood Giant Camp"}
+{"id":"01a0616a-0072-794d-a4e7-c7902906250f","poiType":4,"poiTypeLabel":"Objectives","poiIndex":54,"poiName":"Mor Khazgur Giant Camp"}
+{"id":"01a0616a-0072-7d5a-b021-d4db1635d019","poiType":5,"poiTypeLabel":"Public Dungeons","poiIndex":12,"poiName":"Labyrinthian"}
+{"id":"01a0616a-0072-7ad6-b991-6367a2200531","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":57,"poiName":"Dungeon: Castle Thorn"}
+{"id":"01a0616a-0072-7da9-b7ca-736048a2e74c","poiType":7,"poiTypeLabel":"Houses","poiIndex":55,"poiName":"Proudspire Manor"}
+{"id":"01a0616a-0072-7e81-af64-20ac42836262","poiType":7,"poiTypeLabel":"Houses","poiIndex":56,"poiName":"Snowmelt Suite"}
+{"id":"01a0616a-0072-780b-899a-8a32c61bd764","poiType":7,"poiTypeLabel":"Houses","poiIndex":60,"poiName":"Antiquarian's Alpine Gallery"}
+{"id":"01a0616a-0072-7a38-96c1-565743b9abf5","poiType":7,"poiTypeLabel":"Houses","poiIndex":61,"poiName":"Stillwaters Retreat"}
+{"id":"01a0616a-0072-79cf-b830-7973d8a6feb6","poiType":7,"poiTypeLabel":"Houses","poiIndex":62,"poiName":"Shalidor's Shrouded Realm"}

@@ -1,0 +1,66 @@
+{"id":"01a0616a-005e-7a84-a54b-79fa37b38d95","poiType":0,"poiTypeLabel":"Standard","poiIndex":1,"poiName":"Jackdaw Cove"}
+{"id":"01a0616a-005e-780c-b4b7-133a9f2cf5f4","poiType":0,"poiTypeLabel":"Standard","poiIndex":2,"poiName":"Northglen"}
+{"id":"01a0616a-005e-7240-bfd4-c251bc96ace8","poiType":0,"poiTypeLabel":"Standard","poiIndex":3,"poiName":"Halcyon Lake"}
+{"id":"01a0616a-005e-782f-aeb5-0bea8c34f980","poiType":0,"poiTypeLabel":"Standard","poiIndex":4,"poiName":"Pelin Graveyard"}
+{"id":"01a0616a-005e-7174-bafa-be79a04ffe0d","poiType":0,"poiTypeLabel":"Standard","poiIndex":5,"poiName":"Fallen Grotto"}
+{"id":"01a0616a-005e-7278-a4a0-e5b585d88c31","poiType":0,"poiTypeLabel":"Standard","poiIndex":6,"poiName":"Nilata Ruins"}
+{"id":"01a0616a-005e-7944-8e94-95d87a628b59","poiType":0,"poiTypeLabel":"Standard","poiIndex":7,"poiName":"Hall of Heroes"}
+{"id":"01a0616a-005e-70b2-abef-2a91de9831fe","poiType":0,"poiTypeLabel":"Standard","poiIndex":8,"poiName":"Kerbol's Hollow"}
+{"id":"01a0616a-005e-7699-b5b1-1e306ea2756d","poiType":0,"poiTypeLabel":"Standard","poiIndex":9,"poiName":"Hallin's Stand"}
+{"id":"01a0616a-005e-78d0-94ff-f938ebc449ff","poiType":0,"poiTypeLabel":"Standard","poiIndex":10,"poiName":"Onsi's Breath"}
+{"id":"01a0616a-005e-74df-9d3f-8d5fd8af82a3","poiType":0,"poiTypeLabel":"Standard","poiIndex":11,"poiName":"Qharroa Ruins"}
+{"id":"01a0616a-005e-71dc-a280-3f09ab571cbb","poiType":0,"poiTypeLabel":"Standard","poiIndex":12,"poiName":"Bangkorai Garrison"}
+{"id":"01a0616a-005e-7d87-8393-b1be68d6a5f3","poiType":0,"poiTypeLabel":"Standard","poiIndex":13,"poiName":"Martyr's Crossing"}
+{"id":"01a0616a-005e-7f27-a42d-5246a3c1291a","poiType":0,"poiTypeLabel":"Standard","poiIndex":14,"poiName":"Evermore"}
+{"id":"01a0616a-005e-7737-b6fb-9287ff832d04","poiType":0,"poiTypeLabel":"Standard","poiIndex":15,"poiName":"Viridian Woods"}
+{"id":"01a0616a-005e-7d91-9c5d-4e2b6e6f60d7","poiType":0,"poiTypeLabel":"Standard","poiIndex":28,"poiName":"Old Tower"}
+{"id":"01a0616a-005e-7b8f-a389-b7fb3eb271af","poiType":0,"poiTypeLabel":"Standard","poiIndex":29,"poiName":"Murcien's Hamlet"}
+{"id":"01a0616a-005e-7629-9bda-89f91f1004ce","poiType":0,"poiTypeLabel":"Standard","poiIndex":48,"poiName":"Damar Farmstead"}
+{"id":"01a0616a-005e-74b8-a0a7-628192ee9aeb","poiType":0,"poiTypeLabel":"Standard","poiIndex":50,"poiName":"Sunken Road"}
+{"id":"01a0616a-005e-758a-841c-9d1ba97a848a","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":19,"poiName":"Evermore Wayshrine"}
+{"id":"01a0616a-005e-7848-88f8-8804ff368c80","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":20,"poiName":"Troll's Toothpick Wayshrine"}
+{"id":"01a0616a-005e-7f14-b686-41cfba04adb3","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":21,"poiName":"Viridian Woods Wayshrine"}
+{"id":"01a0616a-005e-7e30-85d3-0e0fb6507cc0","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":22,"poiName":"Bangkorai Pass Wayshrine"}
+{"id":"01a0616a-005e-716e-88df-050640231d79","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":23,"poiName":"Nilata Ruins Wayshrine"}
+{"id":"01a0616a-005e-7672-add1-453865cc0e11","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":24,"poiName":"Hallin's Stand Wayshrine"}
+{"id":"01a0616a-005e-7420-b966-81aeccf6335d","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":25,"poiName":"Old Tower Wayshrine"}
+{"id":"01a0616a-005e-7dd6-857d-58dc7eb5dd39","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":26,"poiName":"Onsi's Breath Wayshrine"}
+{"id":"01a0616a-005e-787b-b6fe-d05003d1848a","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":27,"poiName":"Sunken Road Wayshrine"}
+{"id":"01a0616a-005e-79ef-9e6e-32a4cf7f6b95","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":40,"poiName":"Eastern Evermore Wayshrine"}
+{"id":"01a0616a-005e-7a78-8634-e2f977768dcb","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":41,"poiName":"Halcyon Lake Wayshrine"}
+{"id":"01a0616a-005e-783c-be5a-9b6d43f1486a","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":17,"poiName":"The Steed"}
+{"id":"01a0616a-005e-717d-accf-0cf9e5964380","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":18,"poiName":"The Apprentice"}
+{"id":"01a0616a-005e-73f9-9171-188bd63e6959","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":49,"poiName":"Silaseli Ruins"}
+{"id":"01a0616a-005e-7c8f-9e64-5b771c8bafaf","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":51,"poiName":"Yanurah's Respite"}
+{"id":"01a0616a-005e-7e2c-9b98-baa6837e9a21","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":52,"poiName":"Ash'abahs' Oasis"}
+{"id":"01a0616a-005e-717e-b36a-6fc072385d76","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":53,"poiName":"Gjarma's Rock"}
+{"id":"01a0616a-005e-7720-82c8-0ecfbbd334ec","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":54,"poiName":"Strastnoc's Landing"}
+{"id":"01a0616a-005e-78b1-b182-2f4a7accc3cb","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":55,"poiName":"Viridian Hideaway"}
+{"id":"01a0616a-005e-73cd-93ac-1ec0e3dc51f7","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":56,"poiName":"Basking Grounds"}
+{"id":"01a0616a-005e-7789-b834-4f452a1a8b4a","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":57,"poiName":"Wethers' Cleft"}
+{"id":"01a0616a-005e-717e-9c9d-0a9aa32f45f1","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":58,"poiName":"Sacred Springs"}
+{"id":"01a0616a-005e-7ceb-8641-3fcbf42eb667","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":59,"poiName":"Howlers' Nook"}
+{"id":"01a0616a-005e-773f-b954-e649f291944a","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":60,"poiName":"Merchant's Gate"}
+{"id":"01a0616a-005e-7c2c-8f65-4baf3b26d41d","poiType":3,"poiTypeLabel":"Achievements","poiIndex":30,"poiName":"Torog's Spite"}
+{"id":"01a0616a-005e-739a-870d-139452d8afe3","poiType":3,"poiTypeLabel":"Achievements","poiIndex":31,"poiName":"Troll's Toothpick"}
+{"id":"01a0616a-005e-7434-8a9d-e1530373d1e4","poiType":3,"poiTypeLabel":"Achievements","poiIndex":32,"poiName":"Viridian Watch"}
+{"id":"01a0616a-005e-7598-b606-6099949a74a8","poiType":3,"poiTypeLabel":"Achievements","poiIndex":33,"poiName":"Crypt of the Exiles"}
+{"id":"01a0616a-005e-78b2-b7ef-9ebb1274558c","poiType":3,"poiTypeLabel":"Achievements","poiIndex":34,"poiName":"Klathzgar"}
+{"id":"01a0616a-005e-7db4-881a-b900ca7f802f","poiType":3,"poiTypeLabel":"Achievements","poiIndex":35,"poiName":"Rubble Butte"}
+{"id":"01a0616a-005e-7e06-8cb0-1eacd7304bf4","poiType":3,"poiTypeLabel":"Achievements","poiIndex":42,"poiName":"Blighted Isle"}
+{"id":"01a0616a-005e-7bd1-8c57-c3118beace51","poiType":3,"poiTypeLabel":"Achievements","poiIndex":43,"poiName":"Lakewatch Tower"}
+{"id":"01a0616a-005e-7fbf-b93f-c2448516bbd3","poiType":3,"poiTypeLabel":"Achievements","poiIndex":44,"poiName":"Arlimahera's Sanctum"}
+{"id":"01a0616a-005e-7519-8651-c3b77f2849e3","poiType":3,"poiTypeLabel":"Achievements","poiIndex":45,"poiName":"Summoner's Camp"}
+{"id":"01a0616a-005e-73a9-b28c-91a52ca28f7f","poiType":3,"poiTypeLabel":"Achievements","poiIndex":46,"poiName":"Nilata Falls"}
+{"id":"01a0616a-005e-7522-80ac-764fbf0cb871","poiType":3,"poiTypeLabel":"Achievements","poiIndex":47,"poiName":"Telesubi Ruins"}
+{"id":"01a0616a-005e-72a5-9f9f-0678308333a4","poiType":4,"poiTypeLabel":"Objectives","poiIndex":37,"poiName":"Mournoth Dolmen"}
+{"id":"01a0616a-005e-7173-9d1e-4b7bb28fc6cb","poiType":4,"poiTypeLabel":"Objectives","poiIndex":38,"poiName":"Ephesus Dolmen"}
+{"id":"01a0616a-005e-705e-a2fe-7fd9d5ef8217","poiType":4,"poiTypeLabel":"Objectives","poiIndex":39,"poiName":"Fallen Wastes Dolmen"}
+{"id":"01a0616a-005e-7fef-9b4b-5946629b8d8a","poiType":5,"poiTypeLabel":"Public Dungeons","poiIndex":16,"poiName":"Razak's Wheel"}
+{"id":"01a0616a-005e-7699-800a-a80025232099","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":36,"poiName":"Dungeon: Blackheart Haven"}
+{"id":"01a0616a-005e-7d3c-8626-939f8982c305","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":64,"poiName":"Dungeon: Fang Lair"}
+{"id":"01a0616a-005e-78c6-89df-1e9e30927a45","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":65,"poiName":"Dungeon: Unhallowed Grave"}
+{"id":"01a0616a-005e-7163-92ad-2d5cd16bb3b8","poiType":7,"poiTypeLabel":"Houses","poiIndex":61,"poiName":"Forsaken Stronghold"}
+{"id":"01a0616a-005e-7862-971a-bf7d831f2aa8","poiType":7,"poiTypeLabel":"Houses","poiIndex":62,"poiName":"Mournoth Keep"}
+{"id":"01a0616a-005e-7602-9258-94dc07a5d58f","poiType":7,"poiTypeLabel":"Houses","poiIndex":63,"poiName":"Twin Arches"}
+{"id":"01a0616a-005e-7a13-8c72-67742fc069e4","poiType":7,"poiTypeLabel":"Houses","poiIndex":66,"poiName":"Thieves' Oasis"}

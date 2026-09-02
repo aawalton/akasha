@@ -1,0 +1,61 @@
+{"id":"01a0616a-0063-74ed-a485-f0d51079d741","poiType":0,"poiTypeLabel":"Standard","poiIndex":1,"poiName":"Thulvald's Logging Camp"}
+{"id":"01a0616a-0063-739c-ad55-5840adddc8c8","poiType":0,"poiTypeLabel":"Standard","poiIndex":5,"poiName":"Lower Yorgrim"}
+{"id":"01a0616a-0063-79f0-9153-7f3cf4b0dbec","poiType":0,"poiTypeLabel":"Standard","poiIndex":6,"poiName":"Kynesgrove"}
+{"id":"01a0616a-0063-722d-ad37-e306b72612a0","poiType":0,"poiTypeLabel":"Standard","poiIndex":7,"poiName":"Windhelm"}
+{"id":"01a0616a-0063-758b-8b6f-b4910bac23e8","poiType":0,"poiTypeLabel":"Standard","poiIndex":8,"poiName":"Fort Morvunskar"}
+{"id":"01a0616a-0063-79b1-8abe-67e62661220b","poiType":0,"poiTypeLabel":"Standard","poiIndex":9,"poiName":"Cradlecrush"}
+{"id":"01a0616a-0063-7e95-86d3-fbbe9c50118e","poiType":0,"poiTypeLabel":"Standard","poiIndex":10,"poiName":"Mzulft"}
+{"id":"01a0616a-0063-707c-bb48-a5ccebe91fdc","poiType":0,"poiTypeLabel":"Standard","poiIndex":11,"poiName":"Wittestadr"}
+{"id":"01a0616a-0063-710e-a7ea-ceba1aee1960","poiType":0,"poiTypeLabel":"Standard","poiIndex":12,"poiName":"Bonestrewn Crest"}
+{"id":"01a0616a-0063-768a-8630-84e192f32307","poiType":0,"poiTypeLabel":"Standard","poiIndex":13,"poiName":"Fort Amol"}
+{"id":"01a0616a-0063-70a4-a05b-4346a96ed0a0","poiType":0,"poiTypeLabel":"Standard","poiIndex":25,"poiName":"Mistwatch"}
+{"id":"01a0616a-0063-7bab-9297-d121091866eb","poiType":0,"poiTypeLabel":"Standard","poiIndex":32,"poiName":"Voljar's Meadery"}
+{"id":"01a0616a-0063-7e17-8d69-ed6fe6fed429","poiType":0,"poiTypeLabel":"Standard","poiIndex":33,"poiName":"Lost Knife Cave"}
+{"id":"01a0616a-0063-7172-8b05-bb7a6f1d4faa","poiType":0,"poiTypeLabel":"Standard","poiIndex":34,"poiName":"Cragwallow"}
+{"id":"01a0616a-0063-7739-bc9f-8a3debb983c1","poiType":0,"poiTypeLabel":"Standard","poiIndex":35,"poiName":"Jorunn's Stand"}
+{"id":"01a0616a-0063-79a4-8d4b-d3fc6848c191","poiType":0,"poiTypeLabel":"Standard","poiIndex":36,"poiName":"Skuldafn"}
+{"id":"01a0616a-0063-7a01-a486-afe4cd3ee8da","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":14,"poiName":"Windhelm Wayshrine"}
+{"id":"01a0616a-0063-74a7-9675-c94f0ed4363d","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":15,"poiName":"Fort Morvunskar Wayshrine"}
+{"id":"01a0616a-0063-73b6-aee5-a394ab882fb4","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":16,"poiName":"Kynesgrove Wayshrine"}
+{"id":"01a0616a-0063-7531-807c-51283e500c82","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":17,"poiName":"Voljar Meadery Wayshrine"}
+{"id":"01a0616a-0063-712f-8c4a-59b1bd63e36d","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":18,"poiName":"Cradlecrush Wayshrine"}
+{"id":"01a0616a-0063-76d1-b047-8c0db7c74c17","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":19,"poiName":"Fort Amol Wayshrine"}
+{"id":"01a0616a-0063-7010-8663-9b7160c35011","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":20,"poiName":"Wittestadr Wayshrine"}
+{"id":"01a0616a-0063-7746-807c-531e9d6304b8","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":21,"poiName":"Mistwatch Wayshrine"}
+{"id":"01a0616a-0063-7273-a45a-962a100705fd","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":22,"poiName":"Jorunn's Stand Wayshrine"}
+{"id":"01a0616a-0063-759c-82c2-abf68d650421","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":23,"poiName":"Logging Camp Wayshrine"}
+{"id":"01a0616a-0063-70ce-84ae-bf7826d89360","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":24,"poiName":"Skuldafn Wayshrine"}
+{"id":"01a0616a-0063-769f-b4cd-d31adbcd205c","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":2,"poiName":"The Thief"}
+{"id":"01a0616a-0063-734e-bb39-08e4e6833f07","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":3,"poiName":"The Warrior"}
+{"id":"01a0616a-0063-78da-83ef-78f31fb85805","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":4,"poiName":"The Ritual"}
+{"id":"01a0616a-0063-7dbc-aa4d-108f4b6ada3d","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":48,"poiName":"Darkwater Crossing"}
+{"id":"01a0616a-0063-74af-b888-cea4ec0c7f88","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":49,"poiName":"Giant's Heart"}
+{"id":"01a0616a-0063-7535-8a09-71bf430258c7","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":50,"poiName":"Ragnthar"}
+{"id":"01a0616a-0063-727f-b5a7-597c2baa0387","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":51,"poiName":"Cragwallow Cave"}
+{"id":"01a0616a-0063-7dd9-9d6b-07216c3933e5","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":52,"poiName":"Hammerhome"}
+{"id":"01a0616a-0063-7161-8ce7-45f22b18e1b1","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":53,"poiName":"Bitterblade's Camp"}
+{"id":"01a0616a-0063-7122-9495-8c3121f2d2bd","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":54,"poiName":"Tinkerer Tobin's Workshop"}
+{"id":"01a0616a-0063-7153-bd05-89f7bee7cdf8","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":55,"poiName":"Crimson Kada's Crafting Cavern"}
+{"id":"01a0616a-0063-7d23-a183-1b07e79508a2","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":56,"poiName":"Hermit's Hideout"}
+{"id":"01a0616a-0063-7464-9855-180fb9e68ef9","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":57,"poiName":"Thane Jeggi's Drinking Hole"}
+{"id":"01a0616a-0063-7876-8864-b24a5dca1912","poiType":3,"poiTypeLabel":"Achievements","poiIndex":26,"poiName":"The Chill Hollow"}
+{"id":"01a0616a-0063-7616-8785-b347fb5830b1","poiType":3,"poiTypeLabel":"Achievements","poiIndex":27,"poiName":"Icehammer's Vault"}
+{"id":"01a0616a-0063-7208-8c8e-7498767de5a7","poiType":3,"poiTypeLabel":"Achievements","poiIndex":28,"poiName":"Old Sord's Cave"}
+{"id":"01a0616a-0063-792c-b845-9c643d90c86e","poiType":3,"poiTypeLabel":"Achievements","poiIndex":29,"poiName":"The Frigid Grotto"}
+{"id":"01a0616a-0063-74f2-ab91-1f940c17069c","poiType":3,"poiTypeLabel":"Achievements","poiIndex":30,"poiName":"Stormcrag Crypt"}
+{"id":"01a0616a-0063-7927-8975-0597a59ad6a7","poiType":3,"poiTypeLabel":"Achievements","poiIndex":31,"poiName":"The Bastard's Tomb"}
+{"id":"01a0616a-0063-7437-9856-2d1f1df7cf4a","poiType":3,"poiTypeLabel":"Achievements","poiIndex":42,"poiName":"Rageclaw's Den"}
+{"id":"01a0616a-0063-7195-9639-28cd79d8f68f","poiType":3,"poiTypeLabel":"Achievements","poiIndex":43,"poiName":"Dragon Mound"}
+{"id":"01a0616a-0063-7da3-99fb-6dcc4b0ac9cd","poiType":3,"poiTypeLabel":"Achievements","poiIndex":44,"poiName":"Ratmaster's Prowl"}
+{"id":"01a0616a-0063-70d3-8fa3-1912b58d3fb4","poiType":3,"poiTypeLabel":"Achievements","poiIndex":45,"poiName":"Dragon's Hallow"}
+{"id":"01a0616a-0063-765b-a18a-081f170cd892","poiType":3,"poiTypeLabel":"Achievements","poiIndex":46,"poiName":"Ammabani's Pride"}
+{"id":"01a0616a-0063-745b-9e92-a5e56984a7ae","poiType":3,"poiTypeLabel":"Achievements","poiIndex":47,"poiName":"Swiftblade's Camp"}
+{"id":"01a0616a-0063-7bfd-98b4-7b6fa603ec77","poiType":4,"poiTypeLabel":"Objectives","poiIndex":38,"poiName":"Giant's Run Dolmen"}
+{"id":"01a0616a-0063-7a88-8b9a-1f9b4055038c","poiType":4,"poiTypeLabel":"Objectives","poiIndex":39,"poiName":"Frostwater Tundra Dolmen"}
+{"id":"01a0616a-0063-7dce-a5d1-c396be0c8fff","poiType":4,"poiTypeLabel":"Objectives","poiIndex":40,"poiName":"Icewind Peaks Dolmen"}
+{"id":"01a0616a-0063-779c-9241-dfd04417832c","poiType":5,"poiTypeLabel":"Public Dungeons","poiIndex":37,"poiName":"Hall of the Dead"}
+{"id":"01a0616a-0063-7bcd-832a-e586e3eaf65e","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":41,"poiName":"Dungeon: Direfrost Keep"}
+{"id":"01a0616a-0063-7554-9010-66e5069c0eb7","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":60,"poiName":"Dungeon: Frostvault"}
+{"id":"01a0616a-0063-7d2e-943a-28607b985e69","poiType":7,"poiTypeLabel":"Houses","poiIndex":58,"poiName":"Grymharth's Woe"}
+{"id":"01a0616a-0063-7b44-8996-7ef4ea62768c","poiType":7,"poiTypeLabel":"Houses","poiIndex":59,"poiName":"Enchanted Snow Globe Home"}
+{"id":"01a0616a-0063-7294-b645-49bef17acb32","poiType":7,"poiTypeLabel":"Houses","poiIndex":61,"poiName":"Frostvault Chasm"}

@@ -1,0 +1,62 @@
+{"id":"01a0616a-0065-70d6-a15c-e35c0b4d4f01","poiType":0,"poiTypeLabel":"Standard","poiIndex":1,"poiName":"Reliquary of Stars"}
+{"id":"01a0616a-0065-7127-b51e-68373a10610f","poiType":0,"poiTypeLabel":"Standard","poiIndex":3,"poiName":"Haven"}
+{"id":"01a0616a-0065-7de6-aaae-e6ca29141343","poiType":0,"poiTypeLabel":"Standard","poiIndex":4,"poiName":"Reman's Bluff"}
+{"id":"01a0616a-0065-7011-b8bb-70a4677b9c23","poiType":0,"poiTypeLabel":"Standard","poiIndex":5,"poiName":"Bone Orchard"}
+{"id":"01a0616a-0065-7d87-ac96-2e6c49856523","poiType":0,"poiTypeLabel":"Standard","poiIndex":6,"poiName":"Gil-Var-Delle"}
+{"id":"01a0616a-0065-73b2-aff2-27f74037d77e","poiType":0,"poiTypeLabel":"Standard","poiIndex":7,"poiName":"Cave of Broken Sails"}
+{"id":"01a0616a-0065-7411-959a-158d98f8fdbc","poiType":0,"poiTypeLabel":"Standard","poiIndex":9,"poiName":"The Gray Mire"}
+{"id":"01a0616a-0065-737a-8959-0e4b03d92656","poiType":0,"poiTypeLabel":"Standard","poiIndex":10,"poiName":"Brackenleaf"}
+{"id":"01a0616a-0065-7f4c-8ed8-f7f9385a6e3d","poiType":0,"poiTypeLabel":"Standard","poiIndex":11,"poiName":"Ossuary of Telacar"}
+{"id":"01a0616a-0065-778b-b3e2-3fb25172fa4d","poiType":0,"poiTypeLabel":"Standard","poiIndex":23,"poiName":"Laeloria"}
+{"id":"01a0616a-0065-78f9-a3be-8dfb7a40fe4b","poiType":0,"poiTypeLabel":"Standard","poiIndex":24,"poiName":"Elden Root"}
+{"id":"01a0616a-0065-7216-b12a-5c23617f2b78","poiType":0,"poiTypeLabel":"Standard","poiIndex":25,"poiName":"Southpoint"}
+{"id":"01a0616a-0065-7834-aed5-5936fbdc2ff2","poiType":0,"poiTypeLabel":"Standard","poiIndex":29,"poiName":"Falinesti Winter Site"}
+{"id":"01a0616a-0065-711f-8188-d18318185674","poiType":0,"poiTypeLabel":"Standard","poiIndex":30,"poiName":"Karthdar"}
+{"id":"01a0616a-0065-773b-b1d3-a42013caee19","poiType":0,"poiTypeLabel":"Standard","poiIndex":31,"poiName":"Cormount"}
+{"id":"01a0616a-0065-7d9b-aa84-da179243f7c2","poiType":0,"poiTypeLabel":"Standard","poiIndex":32,"poiName":"Redfur Trading Post"}
+{"id":"01a0616a-0065-7f51-b2b8-d941b80380f6","poiType":0,"poiTypeLabel":"Standard","poiIndex":33,"poiName":"Goldfolly"}
+{"id":"01a0616a-0065-7f5e-b5c5-f99a2494638e","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":15,"poiName":"Elden Root Wayshrine"}
+{"id":"01a0616a-0065-75eb-8cdf-7e56de5d77e6","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":16,"poiName":"Gil-Var-Delle Wayshrine"}
+{"id":"01a0616a-0065-7b53-b44a-6138726efc7a","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":17,"poiName":"Elden Root Temple Wayshrine"}
+{"id":"01a0616a-0065-7213-80eb-ecad84d7352b","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":18,"poiName":"Haven Wayshrine"}
+{"id":"01a0616a-0065-73d9-b7f5-6f495e022dc9","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":19,"poiName":"Redfur Trading Post Wayshrine"}
+{"id":"01a0616a-0065-7535-ab23-6dc4c3968232","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":20,"poiName":"Southpoint Wayshrine"}
+{"id":"01a0616a-0065-7feb-82d1-fdb5b7c48494","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":21,"poiName":"Cormount Wayshrine"}
+{"id":"01a0616a-0065-7342-87d8-5dab0e24c47b","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":22,"poiName":"Ossuary Wayshrine"}
+{"id":"01a0616a-0065-7c06-9758-47b3e49205c6","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":40,"poiName":"Gray Mire Wayshrine"}
+{"id":"01a0616a-0065-709c-954c-d7f9b0906119","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":41,"poiName":"Falinesti Winter Wayshrine"}
+{"id":"01a0616a-0065-7a16-99c5-a11faa5ea356","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":12,"poiName":"The Tower"}
+{"id":"01a0616a-0065-7bae-9681-cd9afed9ca9b","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":13,"poiName":"The Mage"}
+{"id":"01a0616a-0065-766e-a646-355082ba1608","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":14,"poiName":"The Lord"}
+{"id":"01a0616a-0065-7d1a-b173-c3690ec080a1","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":48,"poiName":"Tarlain Bandit Camp"}
+{"id":"01a0616a-0065-7199-8335-0d0a6dcda762","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":49,"poiName":"Vineshade Lodge"}
+{"id":"01a0616a-0065-7b95-8814-a715c4dde376","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":50,"poiName":"Boar's Run Overlook"}
+{"id":"01a0616a-0065-79a0-a0db-d5337560c15e","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":51,"poiName":"Battle of Cormount Memorial"}
+{"id":"01a0616a-0065-75fc-a4ed-fec17c5285e7","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":52,"poiName":"Temple of the Eight"}
+{"id":"01a0616a-0065-7f65-a92e-d1d92ec46fee","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":53,"poiName":"Sweetbreeze Cottage"}
+{"id":"01a0616a-0065-7f88-bc54-e4a23cd2820e","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":54,"poiName":"Sacred Leap Grotto"}
+{"id":"01a0616a-0065-7c53-b050-f9472ab315d5","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":55,"poiName":"Fisherman's Isle"}
+{"id":"01a0616a-0065-7814-809c-dd87abbd51fa","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":56,"poiName":"Forked Root Camp"}
+{"id":"01a0616a-0065-7126-b185-6fc6188d0d15","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":57,"poiName":"Faltonia's Mine"}
+{"id":"01a0616a-0065-745a-8384-3208cf6ef4ba","poiType":3,"poiTypeLabel":"Achievements","poiIndex":34,"poiName":"Ne Salas"}
+{"id":"01a0616a-0065-7cd8-bd13-d405d7e8cef9","poiType":3,"poiTypeLabel":"Achievements","poiIndex":35,"poiName":"The Scuttle Pit"}
+{"id":"01a0616a-0065-7e9a-b05e-0a87cb548447","poiType":3,"poiTypeLabel":"Achievements","poiIndex":36,"poiName":"Vinedeath Cave"}
+{"id":"01a0616a-0065-7957-be50-d7a51fd0495b","poiType":3,"poiTypeLabel":"Achievements","poiIndex":37,"poiName":"Burroot Kwama Mine"}
+{"id":"01a0616a-0065-7460-bc79-4138a756327d","poiType":3,"poiTypeLabel":"Achievements","poiIndex":38,"poiName":"Wormroot Depths"}
+{"id":"01a0616a-0065-7c66-80a2-16e1b0f751a6","poiType":3,"poiTypeLabel":"Achievements","poiIndex":39,"poiName":"Mobar Mine"}
+{"id":"01a0616a-0065-76e6-94b7-08a5926b2bcf","poiType":3,"poiTypeLabel":"Achievements","poiIndex":42,"poiName":"Hircine's Henge"}
+{"id":"01a0616a-0065-7724-89cf-4426c86ebf08","poiType":3,"poiTypeLabel":"Achievements","poiIndex":43,"poiName":"Nindaeril's Perch"}
+{"id":"01a0616a-0065-77a1-a15c-6f0b181ee836","poiType":3,"poiTypeLabel":"Achievements","poiIndex":44,"poiName":"Lady Solace's Fen"}
+{"id":"01a0616a-0065-707e-86ee-9e23d14aa6c1","poiType":3,"poiTypeLabel":"Achievements","poiIndex":45,"poiName":"Poacher Camp"}
+{"id":"01a0616a-0065-7b35-85b4-54c5f4cbac7c","poiType":3,"poiTypeLabel":"Achievements","poiIndex":46,"poiName":"Thugrub's Cave"}
+{"id":"01a0616a-0065-7248-a938-40440a2ac606","poiType":3,"poiTypeLabel":"Achievements","poiIndex":47,"poiName":"Valanir's Rest"}
+{"id":"01a0616a-0065-7755-9c12-d1c8c6785344","poiType":4,"poiTypeLabel":"Objectives","poiIndex":26,"poiName":"Long Coast Dolmen"}
+{"id":"01a0616a-0065-70f2-94a2-171983bbc97e","poiType":4,"poiTypeLabel":"Objectives","poiIndex":27,"poiName":"Green Hall Dolmen"}
+{"id":"01a0616a-0065-7475-a481-566e43deab35","poiType":4,"poiTypeLabel":"Objectives","poiIndex":28,"poiName":"Tarlain Heights Dolmen"}
+{"id":"01a0616a-0065-7ddc-89e8-1616392910e5","poiType":5,"poiTypeLabel":"Public Dungeons","poiIndex":2,"poiName":"Root Sunder Ruins"}
+{"id":"01a0616a-0065-7308-8cb6-80359b45d14f","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":8,"poiName":"Dungeon: Elden Hollow I"}
+{"id":"01a0616a-0065-7eda-b190-45e887a638f7","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":58,"poiName":"Dungeon: Elden Hollow II"}
+{"id":"01a0616a-0065-7a4c-a36e-30c15c4bd2a1","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":62,"poiName":"Dungeon: Lair of Maarselok"}
+{"id":"01a0616a-0065-76ac-8839-96995eca5db8","poiType":7,"poiTypeLabel":"Houses","poiIndex":59,"poiName":"The Gorinir Estate"}
+{"id":"01a0616a-0065-7895-b788-a90edc0a5e1e","poiType":7,"poiTypeLabel":"Houses","poiIndex":60,"poiName":"Snugpod"}
+{"id":"01a0616a-0065-78a0-a8cd-89d16315cbb4","poiType":7,"poiTypeLabel":"Houses","poiIndex":61,"poiName":"Grand Topal Hideaway"}

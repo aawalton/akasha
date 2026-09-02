@@ -1,0 +1,61 @@
+{"id":"01a0616a-0069-7197-a3e9-f6f0222e6cc7","poiType":0,"poiTypeLabel":"Standard","poiIndex":1,"poiName":"Hinault Farm"}
+{"id":"01a0616a-0069-769b-b244-542b728f8be0","poiType":0,"poiTypeLabel":"Standard","poiIndex":2,"poiName":"Moira's Hope"}
+{"id":"01a0616a-0069-718b-9547-2b8f99cda2a8","poiType":0,"poiTypeLabel":"Standard","poiIndex":3,"poiName":"Silverhoof Vale"}
+{"id":"01a0616a-0069-73d1-a0aa-d12d97465717","poiType":0,"poiTypeLabel":"Standard","poiIndex":4,"poiName":"Northpoint"}
+{"id":"01a0616a-0069-7fbc-8d52-b98c7005565d","poiType":0,"poiTypeLabel":"Standard","poiIndex":5,"poiName":"Crestshade"}
+{"id":"01a0616a-0069-74b2-a4ce-76034f55f883","poiType":0,"poiTypeLabel":"Standard","poiIndex":6,"poiName":"Camp Tamrith"}
+{"id":"01a0616a-0069-7484-878c-cf9b94514088","poiType":0,"poiTypeLabel":"Standard","poiIndex":7,"poiName":"Fell's Run"}
+{"id":"01a0616a-0069-761e-bd8c-866100cc0882","poiType":0,"poiTypeLabel":"Standard","poiIndex":8,"poiName":"Traitor's Tor"}
+{"id":"01a0616a-0069-7775-8425-325fd8041efc","poiType":0,"poiTypeLabel":"Standard","poiIndex":9,"poiName":"Sanguine Barrows"}
+{"id":"01a0616a-0069-7bfc-84e3-8c74d02d0a73","poiType":0,"poiTypeLabel":"Standard","poiIndex":10,"poiName":"Shornhelm"}
+{"id":"01a0616a-0069-7299-95ff-8019df5a2a70","poiType":0,"poiTypeLabel":"Standard","poiIndex":11,"poiName":"Edrald Estate"}
+{"id":"01a0616a-0069-741f-9488-fa337c4d591c","poiType":0,"poiTypeLabel":"Standard","poiIndex":12,"poiName":"Breagha-Fin"}
+{"id":"01a0616a-0069-7f13-ad33-cf6d08586c0d","poiType":0,"poiTypeLabel":"Standard","poiIndex":13,"poiName":"Ravenwatch Castle"}
+{"id":"01a0616a-0069-764b-ad6e-90eff7f9d0a4","poiType":0,"poiTypeLabel":"Standard","poiIndex":14,"poiName":"The Doomcrag"}
+{"id":"01a0616a-0069-7a4d-ab95-fc181dcfbed7","poiType":0,"poiTypeLabel":"Standard","poiIndex":15,"poiName":"Lorkrata Hills"}
+{"id":"01a0616a-0069-7145-85bf-b5f4c884671a","poiType":0,"poiTypeLabel":"Standard","poiIndex":21,"poiName":"Hoarfrost Downs"}
+{"id":"01a0616a-0069-7083-ade4-93892530fece","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":18,"poiName":"Oldgate Wayshrine"}
+{"id":"01a0616a-0069-753c-93a8-3cd83e8b0dbc","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":19,"poiName":"Crestshade Wayshrine"}
+{"id":"01a0616a-0069-77a3-9e1f-815cbd7e1715","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":20,"poiName":"Camp Tamrith Wayshrine"}
+{"id":"01a0616a-0069-7fc6-9077-75e239bfc291","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":22,"poiName":"Boralis Wayshrine"}
+{"id":"01a0616a-0069-7a6d-9638-e50a24048e6e","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":23,"poiName":"Staging Grounds Wayshrine"}
+{"id":"01a0616a-0069-7e56-aaa7-61e36203ac22","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":24,"poiName":"Northpoint Wayshrine"}
+{"id":"01a0616a-0069-78e5-b241-de0ea53943b0","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":25,"poiName":"Fell's Run Wayshrine"}
+{"id":"01a0616a-0069-7c1b-87b0-8e45d06a8cda","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":26,"poiName":"Hoarfrost Downs Wayshrine"}
+{"id":"01a0616a-0069-78b3-a0e2-625689a5561e","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":27,"poiName":"Shornhelm Wayshrine"}
+{"id":"01a0616a-0069-733f-b6a5-943614e93d9c","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":37,"poiName":"Sanguine Barrows Wayshrine"}
+{"id":"01a0616a-0069-7d91-bb57-d97ad13a7d74","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":41,"poiName":"Shrouded Pass Wayshrine"}
+{"id":"01a0616a-0069-7d0c-b0dc-bc2d07f8ec19","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":28,"poiName":"The Atronach"}
+{"id":"01a0616a-0069-7856-a175-b1258fbe8e04","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":29,"poiName":"The Shadow"}
+{"id":"01a0616a-0069-7d64-8a45-745f7e138cb5","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":30,"poiName":"The Serpent"}
+{"id":"01a0616a-0069-7e34-831d-5b8eabb09528","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":48,"poiName":"Shadowfate Cavern"}
+{"id":"01a0616a-0069-7e10-9d23-945e3c083db3","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":49,"poiName":"Old Fell's Fort"}
+{"id":"01a0616a-0069-7d43-9553-eafeb05b7e9b","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":50,"poiName":"Lagra's Pearl"}
+{"id":"01a0616a-0069-7b3c-bcc5-7a0d0aa6560c","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":51,"poiName":"Northsalt Village"}
+{"id":"01a0616a-0069-789c-9df2-71223c7e8d42","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":52,"poiName":"Veawend Ede"}
+{"id":"01a0616a-0069-742c-a68a-065a6cadddec","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":53,"poiName":"Westwind Lighthouse"}
+{"id":"01a0616a-0069-729a-91b9-11da5c20c6b3","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":54,"poiName":"Dorell Farmhouse"}
+{"id":"01a0616a-0069-7312-ba31-01c5068af0f2","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":55,"poiName":"Southgard Tower"}
+{"id":"01a0616a-0069-765f-97fa-9de70df3aa99","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":56,"poiName":"Old Shornhelm Ruins"}
+{"id":"01a0616a-0069-765d-907b-a4178dc834a1","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":57,"poiName":"Trader's Rest"}
+{"id":"01a0616a-0069-7deb-b45f-fbf1124d87ae","poiType":3,"poiTypeLabel":"Achievements","poiIndex":31,"poiName":"Crestshade Mine"}
+{"id":"01a0616a-0069-7aac-9863-725aed0929de","poiType":3,"poiTypeLabel":"Achievements","poiIndex":32,"poiName":"Flyleaf Catacombs"}
+{"id":"01a0616a-0069-7bd0-96d8-03a7ee6fba7c","poiType":3,"poiTypeLabel":"Achievements","poiIndex":33,"poiName":"Tribulation Crypt"}
+{"id":"01a0616a-0069-78a1-b572-3a0eca00f326","poiType":3,"poiTypeLabel":"Achievements","poiIndex":34,"poiName":"Orc's Finger Ruins"}
+{"id":"01a0616a-0069-7281-8672-5e26cf21cca6","poiType":3,"poiTypeLabel":"Achievements","poiIndex":35,"poiName":"Erokii Ruins"}
+{"id":"01a0616a-0069-7d76-9a3c-5a5dbccfb33e","poiType":3,"poiTypeLabel":"Achievements","poiIndex":36,"poiName":"Hildune's Secret Refuge"}
+{"id":"01a0616a-0069-7669-8fb1-bffbc245c95e","poiType":3,"poiTypeLabel":"Achievements","poiIndex":42,"poiName":"Aesar's Web"}
+{"id":"01a0616a-0069-7f68-a6ce-2a7d7cc2e229","poiType":3,"poiTypeLabel":"Achievements","poiIndex":43,"poiName":"Valeguard Tower"}
+{"id":"01a0616a-0069-7bd9-afda-6d34ca95d954","poiType":3,"poiTypeLabel":"Achievements","poiIndex":44,"poiName":"Old Kalgon's Keep"}
+{"id":"01a0616a-0069-729e-b636-d434accb9fca","poiType":3,"poiTypeLabel":"Achievements","poiIndex":45,"poiName":"Magdelena's Haunt"}
+{"id":"01a0616a-0069-7262-8b95-636bb8117e2d","poiType":3,"poiTypeLabel":"Achievements","poiIndex":46,"poiName":"East-Rock Landing"}
+{"id":"01a0616a-0069-785e-b0a6-fde568747e97","poiType":3,"poiTypeLabel":"Achievements","poiIndex":47,"poiName":"Siren's Cove"}
+{"id":"01a0616a-0069-764e-be03-1b638ea9e99b","poiType":4,"poiTypeLabel":"Objectives","poiIndex":38,"poiName":"Eyebright Feld Dolmen"}
+{"id":"01a0616a-0069-703b-b2d1-71c4f15df654","poiType":4,"poiTypeLabel":"Objectives","poiIndex":39,"poiName":"Westmark Moor Dolmen"}
+{"id":"01a0616a-0069-718c-ae46-4c60a9f48530","poiType":4,"poiTypeLabel":"Objectives","poiIndex":40,"poiName":"Boralis Dolmen"}
+{"id":"01a0616a-0069-7140-a15c-5a73abc41b15","poiType":5,"poiTypeLabel":"Public Dungeons","poiIndex":16,"poiName":"Obsidian Scar"}
+{"id":"01a0616a-0069-7a7c-abe6-71b534edce51","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":17,"poiName":"Dungeon: Crypt of Hearts I"}
+{"id":"01a0616a-0069-7ed2-bd7e-acfe6e316336","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":58,"poiName":"Dungeon: Crypt of Hearts II"}
+{"id":"01a0616a-0069-761a-9e79-18319840e44d","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":61,"poiName":"Dungeon: Shipwright's Regret"}
+{"id":"01a0616a-0069-7860-8f09-89b7f37e41e9","poiType":7,"poiTypeLabel":"Houses","poiIndex":59,"poiName":"Ravenhurst"}
+{"id":"01a0616a-0069-7fe3-b142-d0e24bf0229c","poiType":7,"poiTypeLabel":"Houses","poiIndex":60,"poiName":"Wraithhome"}

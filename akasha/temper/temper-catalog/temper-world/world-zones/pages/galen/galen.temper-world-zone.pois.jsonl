@@ -1,0 +1,33 @@
+{"id":"01a0616a-0063-76bd-a1fa-8516eae6b3fd","poiType":0,"poiTypeLabel":"Standard","poiIndex":1,"poiName":"Vastyr"}
+{"id":"01a0616a-0063-7e43-b640-ad7b3c3f8c0e","poiType":0,"poiTypeLabel":"Standard","poiIndex":2,"poiName":"Y'ffre's Path"}
+{"id":"01a0616a-0063-79d1-953d-a586078e9f6a","poiType":0,"poiTypeLabel":"Standard","poiIndex":3,"poiName":"Llanshara"}
+{"id":"01a0616a-0063-7f36-8b6a-1309a292960b","poiType":0,"poiTypeLabel":"Standard","poiIndex":17,"poiName":"Tuinh"}
+{"id":"01a0616a-0063-7421-a9f3-34416b02aaf8","poiType":0,"poiTypeLabel":"Standard","poiIndex":18,"poiName":"Suncleft Grotto"}
+{"id":"01a0616a-0063-74f4-b6ca-29266c2a159c","poiType":0,"poiTypeLabel":"Standard","poiIndex":22,"poiName":"Westport"}
+{"id":"01a0616a-0063-730e-862b-3315659c8b5f","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":26,"poiName":"Vastyr Outskirts Wayshrine"}
+{"id":"01a0616a-0063-749f-abf9-ba0745afe016","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":27,"poiName":"Glimmertarn Wayshrine"}
+{"id":"01a0616a-0063-7c1e-b921-cc43242f2cff","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":28,"poiName":"Embervine Wayshrine"}
+{"id":"01a0616a-0063-70e7-b365-c6ce883e7b93","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":29,"poiName":"Llanshara Wayshrine"}
+{"id":"01a0616a-0063-79d1-aa57-47ebca977ee9","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":30,"poiName":"Y'ffre's Path Wayshrine"}
+{"id":"01a0616a-0063-74a7-8009-588383c58486","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":31,"poiName":"Vastyr Wayshrine"}
+{"id":"01a0616a-0063-7c82-835c-48d5af5c2ef9","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":32,"poiName":"Eastern Shores Wayshrine"}
+{"id":"01a0616a-0063-7f95-aada-6e91d4ee83bd","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":8,"poiName":"Old Port Mornard"}
+{"id":"01a0616a-0063-75b7-b123-e8bb3f837ce5","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":9,"poiName":"Fort Avrippe"}
+{"id":"01a0616a-0063-7f0e-a4fe-e68a5f52be8d","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":10,"poiName":"Oaken Forge"}
+{"id":"01a0616a-0063-7bcb-83f8-e251340b2ee2","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":16,"poiName":"Windwrack Fort"}
+{"id":"01a0616a-0063-73b6-8a05-063c7de61174","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":19,"poiName":"Castle Tonnere"}
+{"id":"01a0616a-0063-7cf5-a62c-23a9debe8c64","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":20,"poiName":"Glimmertarn"}
+{"id":"01a0616a-0063-7fff-96bf-777290166f89","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":21,"poiName":"Clohaigh"}
+{"id":"01a0616a-0063-7521-b49d-9110fa2205b3","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":23,"poiName":"Ivyhame"}
+{"id":"01a0616a-0063-7b63-a2ba-fb9a656dfe67","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":25,"poiName":"The Telling Stone"}
+{"id":"01a0616a-0063-770d-96fc-170108f35dd3","poiType":3,"poiTypeLabel":"Achievements","poiIndex":4,"poiName":"Embervine"}
+{"id":"01a0616a-0063-7571-826b-d37f09163f67","poiType":3,"poiTypeLabel":"Achievements","poiIndex":5,"poiName":"Fauns' Thicket"}
+{"id":"01a0616a-0063-718c-8ac4-e52c5707fce6","poiType":3,"poiTypeLabel":"Achievements","poiIndex":6,"poiName":"Valley of the Watcher"}
+{"id":"01a0616a-0063-78af-8fd6-bb0ed4a0236c","poiType":3,"poiTypeLabel":"Achievements","poiIndex":7,"poiName":"Grove of the Chimera"}
+{"id":"01a0616a-0063-709d-b776-a83ca98197b2","poiType":4,"poiTypeLabel":"Objectives","poiIndex":11,"poiName":"Vastyr Outskirts Volcanic Vent"}
+{"id":"01a0616a-0063-7ae1-b5d9-7709f1fce0dd","poiType":4,"poiTypeLabel":"Objectives","poiIndex":12,"poiName":"Farpoint Volcanic Vent"}
+{"id":"01a0616a-0063-70ee-94ae-48fcc33080b9","poiType":4,"poiTypeLabel":"Objectives","poiIndex":13,"poiName":"Llanshara Volcanic Vent"}
+{"id":"01a0616a-0063-7bc2-85c3-07a7a4999d2c","poiType":4,"poiTypeLabel":"Objectives","poiIndex":14,"poiName":"Telling Stone Volcanic Vent"}
+{"id":"01a0616a-0063-7e92-9d11-0f4279af473a","poiType":4,"poiTypeLabel":"Objectives","poiIndex":15,"poiName":"Eastern Shores Volcanic Vent"}
+{"id":"01a0616a-0063-704a-ae66-5939255f9484","poiType":7,"poiTypeLabel":"Houses","poiIndex":33,"poiName":"The Fair Winds"}
+{"id":"01a0616a-0063-754e-8782-a1e985c52d5b","poiType":7,"poiTypeLabel":"Houses","poiIndex":34,"poiName":"Gladesong Arboretum"}

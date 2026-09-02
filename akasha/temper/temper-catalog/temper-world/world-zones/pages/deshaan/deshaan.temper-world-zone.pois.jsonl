@@ -1,0 +1,64 @@
+{"id":"01a0616a-0062-75fb-b80a-8bed6908e449","poiType":0,"poiTypeLabel":"Standard","poiIndex":1,"poiName":"Malak's Maw"}
+{"id":"01a0616a-0062-7c2a-8e02-b18bab879b80","poiType":0,"poiTypeLabel":"Standard","poiIndex":2,"poiName":"Silent Mire"}
+{"id":"01a0616a-0062-7df2-9682-69c0b0ef3bcc","poiType":0,"poiTypeLabel":"Standard","poiIndex":3,"poiName":"Muth Gnaar"}
+{"id":"01a0616a-0062-778b-ad2e-910e26f94c93","poiType":0,"poiTypeLabel":"Standard","poiIndex":4,"poiName":"Deepcrag Den"}
+{"id":"01a0616a-0062-71aa-b11f-b000564531d1","poiType":0,"poiTypeLabel":"Standard","poiIndex":5,"poiName":"Quarantine Serk"}
+{"id":"01a0616a-0062-70f5-8a43-338b78c45301","poiType":0,"poiTypeLabel":"Standard","poiIndex":6,"poiName":"Narsis"}
+{"id":"01a0616a-0062-7d20-b3cc-3d35d96e14fa","poiType":0,"poiTypeLabel":"Standard","poiIndex":7,"poiName":"Tal'Deic Fortress"}
+{"id":"01a0616a-0062-7e34-9557-225504ff859a","poiType":0,"poiTypeLabel":"Standard","poiIndex":8,"poiName":"Mzithumz"}
+{"id":"01a0616a-0062-785c-810e-ef64307f54cf","poiType":0,"poiTypeLabel":"Standard","poiIndex":9,"poiName":"Vale of the Ghost Snake"}
+{"id":"01a0616a-0062-729c-8a4e-4c7e5ff0b159","poiType":0,"poiTypeLabel":"Standard","poiIndex":10,"poiName":"Obsidian Gorge"}
+{"id":"01a0616a-0062-747b-9f79-026b9c36f66c","poiType":0,"poiTypeLabel":"Standard","poiIndex":11,"poiName":"Eidolon's Hollow"}
+{"id":"01a0616a-0062-7346-bb3e-d9763358f061","poiType":0,"poiTypeLabel":"Standard","poiIndex":12,"poiName":"Mournhold"}
+{"id":"01a0616a-0062-7e19-9fa8-1bfa7640dd40","poiType":0,"poiTypeLabel":"Standard","poiIndex":13,"poiName":"Tribunal Temple"}
+{"id":"01a0616a-0062-7741-80f3-0bfc5e6dfb2c","poiType":0,"poiTypeLabel":"Standard","poiIndex":17,"poiName":"Shrine of Saint Veloth"}
+{"id":"01a0616a-0062-731c-b40f-956e07330d73","poiType":0,"poiTypeLabel":"Standard","poiIndex":18,"poiName":"Shad Astula"}
+{"id":"01a0616a-0062-74b0-8807-c08a856912c1","poiType":0,"poiTypeLabel":"Standard","poiIndex":19,"poiName":"Selfora"}
+{"id":"01a0616a-0062-7959-9a77-04aa395d6d52","poiType":0,"poiTypeLabel":"Standard","poiIndex":39,"poiName":"Bthanual"}
+{"id":"01a0616a-0062-719d-a4da-18ca76e04a82","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":22,"poiName":"West Narsis Wayshrine"}
+{"id":"01a0616a-0062-784c-a34d-17280c0fb82c","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":23,"poiName":"Muth Gnaar Hills Wayshrine"}
+{"id":"01a0616a-0062-76bd-8529-0e773518fd2e","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":24,"poiName":"Quarantine Serk Wayshrine"}
+{"id":"01a0616a-0062-77d3-87b6-bb92134d5c8d","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":25,"poiName":"Ghost Snake Vale Wayshrine"}
+{"id":"01a0616a-0062-7a59-9761-a12fa3247cfc","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":26,"poiName":"Mournhold Wayshrine"}
+{"id":"01a0616a-0062-72b3-b077-09ce91c0315c","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":27,"poiName":"Tal'Deic Grounds Wayshrine"}
+{"id":"01a0616a-0062-7969-b311-7e2c67721ed4","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":28,"poiName":"Obsidian Gorge Wayshrine"}
+{"id":"01a0616a-0062-719a-8222-fa7200677aa3","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":29,"poiName":"Mzithumz Wayshrine"}
+{"id":"01a0616a-0062-7c55-85b4-bceec9d137f5","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":30,"poiName":"Selfora Wayshrine"}
+{"id":"01a0616a-0062-7ac7-99f7-4486c7a8cbda","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":31,"poiName":"Silent Mire Wayshrine"}
+{"id":"01a0616a-0062-7c97-a61e-c59513adb92a","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":32,"poiName":"Eidolon's Hollow Wayshrine"}
+{"id":"01a0616a-0062-7628-b36e-94460a7a7a2f","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":43,"poiName":"Shad Astula Wayshrine"}
+{"id":"01a0616a-0062-752f-9e81-bd9aa79c8b46","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":14,"poiName":"The Tower"}
+{"id":"01a0616a-0062-7e16-abac-1185fd7f388b","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":15,"poiName":"The Mage"}
+{"id":"01a0616a-0062-76a6-b455-0b3be07c381a","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":16,"poiName":"The Lord"}
+{"id":"01a0616a-0062-795b-9184-eeb74320014d","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":50,"poiName":"House Dres Farmstead"}
+{"id":"01a0616a-0062-72ca-87ad-4f4645cf9d20","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":51,"poiName":"Avayan's Farm"}
+{"id":"01a0616a-0062-796e-bb5f-8ea1006bb905","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":52,"poiName":"Lake Hlaalu Retreat"}
+{"id":"01a0616a-0062-7e2e-b552-d044241976ed","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":53,"poiName":"Berezan's Mine"}
+{"id":"01a0616a-0062-75d6-a0ee-ae11734efdcf","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":54,"poiName":"Old Ida's Cottage"}
+{"id":"01a0616a-0062-7df9-909c-d9748d6db64d","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":55,"poiName":"Shrine to Saint Rilms"}
+{"id":"01a0616a-0062-797d-ae20-8ab082a6d005","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":56,"poiName":"Coiled Path Landing"}
+{"id":"01a0616a-0062-7afa-a36f-21e4e42e74f7","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":57,"poiName":"Smuggler's Slip"}
+{"id":"01a0616a-0062-7660-866a-2fc353c8a858","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":58,"poiName":"Redoran Pier"}
+{"id":"01a0616a-0062-78fe-863c-b725eb25be41","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":59,"poiName":"Hlanii's Hovel"}
+{"id":"01a0616a-0062-7ca8-86d0-75e029d086ea","poiType":3,"poiTypeLabel":"Achievements","poiIndex":33,"poiName":"Lady Llarel's Shelter"}
+{"id":"01a0616a-0062-7b40-9f4d-2771af2451d1","poiType":3,"poiTypeLabel":"Achievements","poiIndex":34,"poiName":"Lower Bthanual"}
+{"id":"01a0616a-0062-7e7f-a624-cfbadf6ddc94","poiType":3,"poiTypeLabel":"Achievements","poiIndex":35,"poiName":"Triple Circle Mine"}
+{"id":"01a0616a-0062-7263-9389-1c26ba465843","poiType":3,"poiTypeLabel":"Achievements","poiIndex":36,"poiName":"Taleon's Crag"}
+{"id":"01a0616a-0062-74f9-8c45-c8e5ee57294c","poiType":3,"poiTypeLabel":"Achievements","poiIndex":37,"poiName":"Knife Ear Grotto"}
+{"id":"01a0616a-0062-720d-b8f0-74606d33afe0","poiType":3,"poiTypeLabel":"Achievements","poiIndex":38,"poiName":"The Corpse Garden"}
+{"id":"01a0616a-0062-7ed0-8744-5590184ba2b6","poiType":3,"poiTypeLabel":"Achievements","poiIndex":44,"poiName":"Short-Tusk's Hillock"}
+{"id":"01a0616a-0062-759f-8826-8658de23681b","poiType":3,"poiTypeLabel":"Achievements","poiIndex":45,"poiName":"Grove of the Abomination"}
+{"id":"01a0616a-0062-7e73-b34a-cf1937d822b3","poiType":3,"poiTypeLabel":"Achievements","poiIndex":46,"poiName":"Dire Bramblepatch"}
+{"id":"01a0616a-0062-79b3-b470-c39003216ae7","poiType":3,"poiTypeLabel":"Achievements","poiIndex":47,"poiName":"Mabrigash Burial Circle"}
+{"id":"01a0616a-0062-767c-89eb-3fe3ccd86ac0","poiType":3,"poiTypeLabel":"Achievements","poiIndex":48,"poiName":"Druitularg's Ritual Altar"}
+{"id":"01a0616a-0062-769b-a9e6-eb0cbd375156","poiType":3,"poiTypeLabel":"Achievements","poiIndex":49,"poiName":"Caravan Crest"}
+{"id":"01a0616a-0062-7127-8922-64708bf4ea2e","poiType":4,"poiTypeLabel":"Objectives","poiIndex":40,"poiName":"Redolent Loam Dolmen"}
+{"id":"01a0616a-0062-7327-b707-a475e2a6435d","poiType":4,"poiTypeLabel":"Objectives","poiIndex":41,"poiName":"Lagomere Dolmen"}
+{"id":"01a0616a-0062-7501-9c74-63e1b49d7737","poiType":4,"poiTypeLabel":"Objectives","poiIndex":42,"poiName":"Siltreen Dolmen"}
+{"id":"01a0616a-0062-7940-8d2c-42ce36bd3561","poiType":5,"poiTypeLabel":"Public Dungeons","poiIndex":20,"poiName":"Forgotten Crypts"}
+{"id":"01a0616a-0062-7779-a104-00e0f2b2889e","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":21,"poiName":"Dungeon: Darkshade Caverns I"}
+{"id":"01a0616a-0062-7aed-9c10-fcef9e31713f","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":60,"poiName":"Dungeon: Darkshade Caverns I"}
+{"id":"01a0616a-0062-754d-8785-3b68e0594c37","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":64,"poiName":"Dungeon: The Cauldron"}
+{"id":"01a0616a-0062-7f2d-9ef4-bb9cdba30f92","poiType":7,"poiTypeLabel":"Houses","poiIndex":61,"poiName":"Quondam Indorilia"}
+{"id":"01a0616a-0062-78ee-b706-378e43c744e7","poiType":7,"poiTypeLabel":"Houses","poiIndex":62,"poiName":"Velothi Reverie"}
+{"id":"01a0616a-0062-71dc-ac18-7975a7e828a0","poiType":7,"poiTypeLabel":"Houses","poiIndex":63,"poiName":"Flaming Nix Deluxe Garret"}

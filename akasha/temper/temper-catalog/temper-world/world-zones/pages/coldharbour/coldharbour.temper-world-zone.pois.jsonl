@@ -1,0 +1,56 @@
+{"id":"01a0616a-0060-70a9-9144-6b93318084f8","poiType":0,"poiTypeLabel":"Standard","poiIndex":1,"poiName":"The Everfull Flagon"}
+{"id":"01a0616a-0060-7935-9053-efdf51ee0cd1","poiType":0,"poiTypeLabel":"Standard","poiIndex":2,"poiName":"The Lost Fleet"}
+{"id":"01a0616a-0060-705d-997f-6b6a8b2fb130","poiType":0,"poiTypeLabel":"Standard","poiIndex":3,"poiName":"Cliffs of Failure"}
+{"id":"01a0616a-0060-74fe-88f3-fc122827cd68","poiType":0,"poiTypeLabel":"Standard","poiIndex":4,"poiName":"The Moonless Walk"}
+{"id":"01a0616a-0060-705b-b2c6-c42378c9e79d","poiType":0,"poiTypeLabel":"Standard","poiIndex":22,"poiName":"Tower of Lies"}
+{"id":"01a0616a-0060-729d-aa3b-dd1f8784c239","poiType":0,"poiTypeLabel":"Standard","poiIndex":23,"poiName":"Haj Uxith"}
+{"id":"01a0616a-0060-701a-af95-293c3bca67a8","poiType":0,"poiTypeLabel":"Standard","poiIndex":24,"poiName":"Court of Contempt"}
+{"id":"01a0616a-0060-73d4-bd1a-c47fc872fbae","poiType":0,"poiTypeLabel":"Standard","poiIndex":25,"poiName":"The Chasm"}
+{"id":"01a0616a-0060-7bcb-9ff2-4d25914bc17b","poiType":0,"poiTypeLabel":"Standard","poiIndex":26,"poiName":"The Orchard"}
+{"id":"01a0616a-0060-7e37-962a-aaf2b88b11cd","poiType":0,"poiTypeLabel":"Standard","poiIndex":28,"poiName":"The Black Forge"}
+{"id":"01a0616a-0060-79ed-b840-5590d456a6f9","poiType":0,"poiTypeLabel":"Standard","poiIndex":30,"poiName":"The Vile Laboratory"}
+{"id":"01a0616a-0060-7f8f-aa2a-8ff14c4e6ccc","poiType":0,"poiTypeLabel":"Standard","poiIndex":31,"poiName":"Library of Dusk"}
+{"id":"01a0616a-0060-760b-893b-b3b73fbcccb8","poiType":0,"poiTypeLabel":"Standard","poiIndex":32,"poiName":"Spurned Peak"}
+{"id":"01a0616a-0060-7e2f-a808-ed33ed7c39db","poiType":0,"poiTypeLabel":"Standard","poiIndex":33,"poiName":"The Lightless Oubliette"}
+{"id":"01a0616a-0060-7b19-beb5-5bb047f2a613","poiType":0,"poiTypeLabel":"Standard","poiIndex":34,"poiName":"The Manor of Revelry"}
+{"id":"01a0616a-0060-7ee2-bec2-6e59d7623946","poiType":0,"poiTypeLabel":"Standard","poiIndex":35,"poiName":"The Reaver Citadel"}
+{"id":"01a0616a-0060-7236-9723-430e0a91a726","poiType":0,"poiTypeLabel":"Standard","poiIndex":36,"poiName":"The Hollow City"}
+{"id":"01a0616a-0060-78ba-a0c6-196e30fef591","poiType":0,"poiTypeLabel":"Standard","poiIndex":37,"poiName":"The Great Shackle"}
+{"id":"01a0616a-0060-7879-b1f0-811e9609db58","poiType":0,"poiTypeLabel":"Standard","poiIndex":38,"poiName":"The Endless Stair"}
+{"id":"01a0616a-0060-7f41-b081-95454abcbb53","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":5,"poiName":"Library of Dusk Wayshrine"}
+{"id":"01a0616a-0060-76d7-8884-da4b60308e30","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":6,"poiName":"Great Shackle Wayshrine"}
+{"id":"01a0616a-0060-7011-aa63-713f74078926","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":7,"poiName":"The Chasm Wayshrine"}
+{"id":"01a0616a-0060-719d-8064-c246c50a432c","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":8,"poiName":"Hollow City Wayshrine"}
+{"id":"01a0616a-0060-7a99-9520-8ea09ae93f64","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":9,"poiName":"Endless Stair Wayshrine"}
+{"id":"01a0616a-0060-78cb-9d17-de4884d1446f","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":10,"poiName":"Everfull Flagon Wayshrine"}
+{"id":"01a0616a-0060-7032-9169-75a78460e73e","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":11,"poiName":"Moonless Walk Wayshrine"}
+{"id":"01a0616a-0060-7eae-91ec-522f8fcd0f27","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":12,"poiName":"Haj Uxith Wayshrine"}
+{"id":"01a0616a-0060-7151-a61e-08c407b30785","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":13,"poiName":"Manor of Revelry Wayshrine"}
+{"id":"01a0616a-0060-73c6-97f1-ac3e6c7f8d61","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":14,"poiName":"Reaver Citadel Wayshrine"}
+{"id":"01a0616a-0060-7ec8-926a-078e0ab1468c","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":15,"poiName":"The Orchard Wayshrine"}
+{"id":"01a0616a-0060-77c6-a027-0aafacf8d16b","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":27,"poiName":"Shrouded Plains Wayshrine"}
+{"id":"01a0616a-0060-7662-9ec6-09d9487a8468","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":29,"poiName":"Court of Contempt Wayshrine"}
+{"id":"01a0616a-0060-788a-95b2-8ed120653700","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":47,"poiName":"Deathspinner's Lair"}
+{"id":"01a0616a-0060-7b50-bf1b-3b77c8f2891a","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":48,"poiName":"Cadwell's Hovel"}
+{"id":"01a0616a-0060-7b3e-984b-b41ce67639ba","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":49,"poiName":"Shrine of Kyne"}
+{"id":"01a0616a-0060-7025-b36d-ade11d17c795","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":50,"poiName":"Endless Overlook"}
+{"id":"01a0616a-0060-7669-96f3-69c307245f23","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":51,"poiName":"Forsaken Village"}
+{"id":"01a0616a-0060-7183-8f8c-37220f205976","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":52,"poiName":"Survivor's Camp"}
+{"id":"01a0616a-0060-7b6c-8165-cfd8ec9546dd","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":54,"poiName":"Mages Guildhall"}
+{"id":"01a0616a-0060-7daf-9792-1593f0bb8788","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":55,"poiName":"Fighters Guildhall"}
+{"id":"01a0616a-0060-716f-a18e-63c9a97bdcbb","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":56,"poiName":"Font of Schemes"}
+{"id":"01a0616a-0060-784d-bc53-12965a5213ed","poiType":3,"poiTypeLabel":"Achievements","poiIndex":16,"poiName":"Aba-Loria"}
+{"id":"01a0616a-0060-7acb-8799-e05f05717260","poiType":3,"poiTypeLabel":"Achievements","poiIndex":17,"poiName":"The Grotto of Depravity"}
+{"id":"01a0616a-0060-71ed-8e60-bd558db12c39","poiType":3,"poiTypeLabel":"Achievements","poiIndex":18,"poiName":"The Cave of Trophies"}
+{"id":"01a0616a-0060-79d4-95ed-f4aa9451a216","poiType":3,"poiTypeLabel":"Achievements","poiIndex":19,"poiName":"Vault of Haman Forgefire"}
+{"id":"01a0616a-0060-79db-97ca-770eb0159796","poiType":3,"poiTypeLabel":"Achievements","poiIndex":20,"poiName":"Mal Sorra's Tomb"}
+{"id":"01a0616a-0060-70fd-b29a-f54fb49a2ea7","poiType":3,"poiTypeLabel":"Achievements","poiIndex":21,"poiName":"The Wailing Maw"}
+{"id":"01a0616a-0060-783d-9d2e-baffbd59fcf5","poiType":3,"poiTypeLabel":"Achievements","poiIndex":41,"poiName":"Aba-Darre"}
+{"id":"01a0616a-0060-756a-9f27-fbff983a348b","poiType":3,"poiTypeLabel":"Achievements","poiIndex":42,"poiName":"Duriatundur's Killing Field"}
+{"id":"01a0616a-0060-7d2c-90d6-05f1886753d9","poiType":3,"poiTypeLabel":"Achievements","poiIndex":43,"poiName":"Zemarek's Hollow"}
+{"id":"01a0616a-0060-7cd5-a777-4178072e2485","poiType":3,"poiTypeLabel":"Achievements","poiIndex":44,"poiName":"Daedroth Larder"}
+{"id":"01a0616a-0060-7ecb-a71a-a154670b405d","poiType":3,"poiTypeLabel":"Achievements","poiIndex":45,"poiName":"Risen Court"}
+{"id":"01a0616a-0060-70b1-adf5-4d1cabe28d58","poiType":3,"poiTypeLabel":"Achievements","poiIndex":46,"poiName":"Cynhamoth's Grove"}
+{"id":"01a0616a-0060-72f3-b214-474d633a4a18","poiType":5,"poiTypeLabel":"Public Dungeons","poiIndex":40,"poiName":"Village of the Lost"}
+{"id":"01a0616a-0060-7435-a512-7c9fe712f15c","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":39,"poiName":"Dungeon: Vaults of Madness"}
+{"id":"01a0616a-0060-7dfd-8e2f-bcba46909d0e","poiType":7,"poiTypeLabel":"Houses","poiIndex":57,"poiName":"Coldharbour Surreal Estate"}

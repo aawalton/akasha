@@ -1,0 +1,66 @@
+{"id":"01a0616a-006c-72d8-b520-4b3bc17919d5","poiType":0,"poiTypeLabel":"Standard","poiIndex":1,"poiName":"Aphren's Hold"}
+{"id":"01a0616a-006c-769c-a05e-263b2c1cb528","poiType":0,"poiTypeLabel":"Standard","poiIndex":2,"poiName":"Shinji's Scarp"}
+{"id":"01a0616a-006c-71ec-968e-ba28574d5b18","poiType":0,"poiTypeLabel":"Standard","poiIndex":3,"poiName":"Dro-Dara Plantation"}
+{"id":"01a0616a-006c-7302-a0b0-e8b84e1a31d8","poiType":0,"poiTypeLabel":"Standard","poiIndex":4,"poiName":"Soulshriven Tower"}
+{"id":"01a0616a-006c-7b33-942e-c3e6525f2533","poiType":0,"poiTypeLabel":"Standard","poiIndex":5,"poiName":"Farangel's Landing"}
+{"id":"01a0616a-006c-7852-9cb7-cf4740fb5664","poiType":0,"poiTypeLabel":"Standard","poiIndex":6,"poiName":"Pariah Abbey"}
+{"id":"01a0616a-006c-7dd2-8b73-30baafc5dcb1","poiType":0,"poiTypeLabel":"Standard","poiIndex":7,"poiName":"Wind Keep"}
+{"id":"01a0616a-006c-7ea0-9f01-87721ea93b4d","poiType":0,"poiTypeLabel":"Standard","poiIndex":8,"poiName":"Dreughside"}
+{"id":"01a0616a-006c-77ac-8bfa-26f2e7bc4cef","poiType":0,"poiTypeLabel":"Standard","poiIndex":9,"poiName":"Cumberland's Watch"}
+{"id":"01a0616a-006c-787b-b3c6-a284b7a562fb","poiType":0,"poiTypeLabel":"Standard","poiIndex":10,"poiName":"at-Tura Estate"}
+{"id":"01a0616a-006c-7eac-816f-8bef727d5ad0","poiType":0,"poiTypeLabel":"Standard","poiIndex":11,"poiName":"Koeglin Lighthouse"}
+{"id":"01a0616a-006c-75a6-b4b0-a80711efd5b0","poiType":0,"poiTypeLabel":"Standard","poiIndex":12,"poiName":"Steelheart Moorings"}
+{"id":"01a0616a-006c-7eb3-9ab8-e5367d8b88a7","poiType":0,"poiTypeLabel":"Standard","poiIndex":13,"poiName":"Firebrand Keep"}
+{"id":"01a0616a-006c-7f28-912e-40c642595499","poiType":0,"poiTypeLabel":"Standard","poiIndex":14,"poiName":"Moonlit Maw"}
+{"id":"01a0616a-006c-73d5-a103-4cb60fc7cf1f","poiType":0,"poiTypeLabel":"Standard","poiIndex":15,"poiName":"Nurin Farm"}
+{"id":"01a0616a-006c-793c-912e-b3521ac36cfd","poiType":0,"poiTypeLabel":"Standard","poiIndex":16,"poiName":"Vanne Farm"}
+{"id":"01a0616a-006c-7fc7-80e5-0bd4ad7e3490","poiType":0,"poiTypeLabel":"Standard","poiIndex":17,"poiName":"Alcaire Keep"}
+{"id":"01a0616a-006c-7426-94b6-1d36e8c197e8","poiType":0,"poiTypeLabel":"Standard","poiIndex":18,"poiName":"Koeglin Village"}
+{"id":"01a0616a-006c-7cb6-9323-d5555ad05ab8","poiType":0,"poiTypeLabel":"Standard","poiIndex":19,"poiName":"Windridge Cave"}
+{"id":"01a0616a-006c-73f5-ad34-931a359f4259","poiType":0,"poiTypeLabel":"Standard","poiIndex":60,"poiName":"Weeping Giant"}
+{"id":"01a0616a-006c-71e2-b60a-35d99f1cc023","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":22,"poiName":"Koeglin Village Wayshrine"}
+{"id":"01a0616a-006c-7df1-b6b1-42af81c0332a","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":23,"poiName":"Alcaire Castle Wayshrine"}
+{"id":"01a0616a-006c-78cd-a95e-2dd0f12bc664","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":24,"poiName":"Firebrand Keep Wayshrine"}
+{"id":"01a0616a-006c-76d7-9c3e-a624217d3be5","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":25,"poiName":"Wind Keep Wayshrine"}
+{"id":"01a0616a-006c-776b-aabf-a6bc0f767dbe","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":26,"poiName":"Dro-Dara Plantation Wayshrine"}
+{"id":"01a0616a-006c-7a36-8c16-6b7594be79cb","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":27,"poiName":"Soulshriven Wayshrine"}
+{"id":"01a0616a-006c-7256-84a0-528ce7bc2fb2","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":28,"poiName":"Pariah Abbey Wayshrine"}
+{"id":"01a0616a-006c-7e54-9020-49e2f5c19c6e","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":35,"poiName":"Weeping Giant Wayshrine"}
+{"id":"01a0616a-006c-70d5-b964-d620066604a3","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":42,"poiName":"Wayrest Wayshrine"}
+{"id":"01a0616a-006c-78f8-afac-69ad4bcbabb7","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":43,"poiName":"Bonesnap Ruins Wayshrine"}
+{"id":"01a0616a-006c-7775-b4b4-882030ebfd73","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":36,"poiName":"The Tower"}
+{"id":"01a0616a-006c-7e6d-bd03-33ced34ad08b","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":37,"poiName":"The Mage"}
+{"id":"01a0616a-006c-7f6b-9b90-88a3adc9254e","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":38,"poiName":"The Lord"}
+{"id":"01a0616a-006c-7cd5-99e7-c18e0809889f","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":50,"poiName":"Supernal Dreamers Camp"}
+{"id":"01a0616a-006c-7b3b-82e8-04b502ce4ed6","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":51,"poiName":"Nightmare Crag"}
+{"id":"01a0616a-006c-7e70-ae17-60c352bdd1ed","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":52,"poiName":"Cave of Dreams"}
+{"id":"01a0616a-006c-7b3e-afa2-400f0430f184","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":53,"poiName":"Shrine to Azura"}
+{"id":"01a0616a-006c-79f3-8d57-36be4042e92a","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":54,"poiName":"Cumberland Falls"}
+{"id":"01a0616a-006c-7a55-a835-ad2bc1b02660","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":55,"poiName":"Stonechewer Goblin Camp"}
+{"id":"01a0616a-006c-7336-9f67-9f06ae921cbb","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":56,"poiName":"Hammerdeath Workshop"}
+{"id":"01a0616a-006c-7721-bd0b-324e11ccef31","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":57,"poiName":"Fisherman's Island"}
+{"id":"01a0616a-006c-713d-9a3d-866c8ecee1a2","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":58,"poiName":"Travelers' Rest"}
+{"id":"01a0616a-006c-7d56-9ea7-d6ae1003885b","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":59,"poiName":"Windridge Warehouse"}
+{"id":"01a0616a-006c-71d6-be26-7350c1cf0f9b","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":61,"poiName":"Friendship Gate"}
+{"id":"01a0616a-006c-795f-ae62-a588682256a1","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":63,"poiName":"Hammerdeath Arena"}
+{"id":"01a0616a-006c-7911-989a-6208df136ecc","poiType":3,"poiTypeLabel":"Achievements","poiIndex":29,"poiName":"Portdun Watch"}
+{"id":"01a0616a-006c-7196-977b-4cb3b75d649f","poiType":3,"poiTypeLabel":"Achievements","poiIndex":30,"poiName":"Koeglin Mine"}
+{"id":"01a0616a-006c-78b3-94a7-8282098bc0bf","poiType":3,"poiTypeLabel":"Achievements","poiIndex":31,"poiName":"Pariah Catacombs"}
+{"id":"01a0616a-006c-7564-b9e2-d6b73e52e50e","poiType":3,"poiTypeLabel":"Achievements","poiIndex":32,"poiName":"Farangel's Delve"}
+{"id":"01a0616a-006c-73d8-b22c-0df0e32034fa","poiType":3,"poiTypeLabel":"Achievements","poiIndex":33,"poiName":"Bearclaw Mine"}
+{"id":"01a0616a-006c-7170-984c-700a6f97a1d6","poiType":3,"poiTypeLabel":"Achievements","poiIndex":34,"poiName":"Norvulk Ruins"}
+{"id":"01a0616a-006c-7e87-afe3-f8b14d09a406","poiType":3,"poiTypeLabel":"Achievements","poiIndex":44,"poiName":"Spider Nest"}
+{"id":"01a0616a-006c-7a95-965c-67ba4d8e9c47","poiType":3,"poiTypeLabel":"Achievements","poiIndex":45,"poiName":"Mudcrab Beach"}
+{"id":"01a0616a-006c-740a-a12e-ef773732c041","poiType":3,"poiTypeLabel":"Achievements","poiIndex":46,"poiName":"Dreugh Waters"}
+{"id":"01a0616a-006c-7f59-9063-979c73e48053","poiType":3,"poiTypeLabel":"Achievements","poiIndex":47,"poiName":"Abandoned Farm"}
+{"id":"01a0616a-006c-7fe2-acdb-9d212e1ba715","poiType":3,"poiTypeLabel":"Achievements","poiIndex":48,"poiName":"Scrag's Larder"}
+{"id":"01a0616a-006c-7e23-b89c-eaed40e2ce4a","poiType":3,"poiTypeLabel":"Achievements","poiIndex":49,"poiName":"Ancient Altar"}
+{"id":"01a0616a-006c-73ac-879b-08ba20ceee91","poiType":4,"poiTypeLabel":"Objectives","poiIndex":39,"poiName":"Gavaudon Dolmen"}
+{"id":"01a0616a-006c-7020-9805-042861916f62","poiType":4,"poiTypeLabel":"Objectives","poiIndex":40,"poiName":"Alcaire Dolmen"}
+{"id":"01a0616a-006c-797c-abe9-34d594efbfa0","poiType":4,"poiTypeLabel":"Objectives","poiIndex":41,"poiName":"Menevia Dolmen"}
+{"id":"01a0616a-006c-7398-b097-2c143f034493","poiType":5,"poiTypeLabel":"Public Dungeons","poiIndex":21,"poiName":"Bonesnap Ruins"}
+{"id":"01a0616a-006c-7611-b31e-3cf127233914","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":20,"poiName":"Dungeon: Wayrest Sewers I"}
+{"id":"01a0616a-006c-7207-a47a-4c0a3354e763","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":62,"poiName":"Dungeon: Wayrest Sewers II"}
+{"id":"01a0616a-006c-7fff-82fe-7db9616a9cbc","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":66,"poiName":"Dungeon: Scalecaller Peak"}
+{"id":"01a0616a-006c-79f8-8694-2b9e8f2a199b","poiType":7,"poiTypeLabel":"Houses","poiIndex":64,"poiName":"Gardner House"}
+{"id":"01a0616a-006c-78af-9c6b-5bad6a9f3834","poiType":7,"poiTypeLabel":"Houses","poiIndex":65,"poiName":"Hammerdeath Bungalow"}

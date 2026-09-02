@@ -1,0 +1,65 @@
+{"id":"01a0616a-006d-7d4f-b21a-ff19327e2bdb","poiType":0,"poiTypeLabel":"Standard","poiIndex":1,"poiName":"Shor's Stone"}
+{"id":"01a0616a-006d-770b-a050-a9772c44a316","poiType":0,"poiTypeLabel":"Standard","poiIndex":2,"poiName":"Vernim Woods"}
+{"id":"01a0616a-006d-73a7-b0a7-51a6e4da2e30","poiType":0,"poiTypeLabel":"Standard","poiIndex":3,"poiName":"Boulderfall Pass"}
+{"id":"01a0616a-006d-738f-aa21-1f1a81e3b3f8","poiType":0,"poiTypeLabel":"Standard","poiIndex":4,"poiName":"Pinepeak Cavern"}
+{"id":"01a0616a-006d-7a94-bee8-072ac5d46766","poiType":0,"poiTypeLabel":"Standard","poiIndex":5,"poiName":"Nimalten"}
+{"id":"01a0616a-006d-74d9-8044-b287bd22f897","poiType":0,"poiTypeLabel":"Standard","poiIndex":6,"poiName":"Fallowstone Hall"}
+{"id":"01a0616a-006d-7f9a-8748-9ea0a116ab3e","poiType":0,"poiTypeLabel":"Standard","poiIndex":7,"poiName":"Northwind Mine"}
+{"id":"01a0616a-006d-79e6-8388-2b3c92bf64a0","poiType":0,"poiTypeLabel":"Standard","poiIndex":8,"poiName":"Honrich Tower"}
+{"id":"01a0616a-006d-79ba-93cc-ac57a959effa","poiType":0,"poiTypeLabel":"Standard","poiIndex":9,"poiName":"Taarengrav"}
+{"id":"01a0616a-006d-77b2-8f54-d6fc4605ac65","poiType":0,"poiTypeLabel":"Standard","poiIndex":10,"poiName":"Skald's Retreat"}
+{"id":"01a0616a-006d-712a-95cd-dce8d34776ea","poiType":0,"poiTypeLabel":"Standard","poiIndex":11,"poiName":"Treva's Farm"}
+{"id":"01a0616a-006d-7fe0-8e93-230171aede15","poiType":0,"poiTypeLabel":"Standard","poiIndex":12,"poiName":"Trolhetta"}
+{"id":"01a0616a-006d-79f7-a775-a258de6f3014","poiType":0,"poiTypeLabel":"Standard","poiIndex":13,"poiName":"Forelhost"}
+{"id":"01a0616a-006d-7029-8a21-9bc96d37b671","poiType":0,"poiTypeLabel":"Standard","poiIndex":18,"poiName":"Lost Prospect"}
+{"id":"01a0616a-006d-7e92-8f48-8df8272e44e5","poiType":0,"poiTypeLabel":"Standard","poiIndex":19,"poiName":"Geirmund's Hall"}
+{"id":"01a0616a-006d-7f92-85da-b9db7d612c5a","poiType":0,"poiTypeLabel":"Standard","poiIndex":21,"poiName":"Riften"}
+{"id":"01a0616a-006d-7b21-ac05-45da432fbe3d","poiType":0,"poiTypeLabel":"Standard","poiIndex":22,"poiName":"Fullhelm Fort"}
+{"id":"01a0616a-006d-773d-9887-0b2c1feddca6","poiType":0,"poiTypeLabel":"Standard","poiIndex":60,"poiName":"Frostmoon Farmstead"}
+{"id":"01a0616a-006d-7ff5-93eb-f2b86b0625f0","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":14,"poiName":"Riften Wayshrine"}
+{"id":"01a0616a-006d-7fdb-8525-2e89fc04079b","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":15,"poiName":"Skald's Retreat Wayshrine"}
+{"id":"01a0616a-006d-7fed-a1d4-f7c7854e5984","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":16,"poiName":"Trolhetta Wayshrine"}
+{"id":"01a0616a-006d-70cc-a8d1-f0409ec80764","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":17,"poiName":"Trolhetta Summit Wayshrine"}
+{"id":"01a0616a-006d-7bdd-b4dd-e0543630f625","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":23,"poiName":"Honrich Tower Wayshrine"}
+{"id":"01a0616a-006d-7972-bb03-155de0884230","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":24,"poiName":"Fallowstone Hall Wayshrine"}
+{"id":"01a0616a-006d-7b35-8c77-fc177e055cc8","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":25,"poiName":"Northwind Mine Wayshrine"}
+{"id":"01a0616a-006d-74c6-87fe-5afdadd0f03b","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":26,"poiName":"Geirmund's Hall Wayshrine"}
+{"id":"01a0616a-006d-73b8-adf4-3b4e0d5c9575","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":27,"poiName":"Taarengrav Wayshrine"}
+{"id":"01a0616a-006d-7194-8cf1-88bde86da679","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":28,"poiName":"Nimalten Wayshrine"}
+{"id":"01a0616a-006d-7202-951c-dc3334e396f3","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":29,"poiName":"Ragged Hills Wayshrine"}
+{"id":"01a0616a-006d-7ac1-81f8-e986db9e04cf","poiType":1,"poiTypeLabel":"Wayshrines","poiIndex":30,"poiName":"Fullhelm Fort Wayshrine"}
+{"id":"01a0616a-006d-785d-af0e-d67c971db292","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":20,"poiName":"The Steed"}
+{"id":"01a0616a-006d-7d75-8e21-fa26e4758feb","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":38,"poiName":"Ivarstead"}
+{"id":"01a0616a-006d-74a6-8649-c52bb8b29285","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":43,"poiName":"The Apprentice"}
+{"id":"01a0616a-006d-7c92-bcbe-81579f262a39","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":50,"poiName":"Linele Skullcarver's Camp"}
+{"id":"01a0616a-006e-7632-97c0-67b7a37c14e5","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":51,"poiName":"Three Tribes Camp"}
+{"id":"01a0616a-006e-7b7d-8479-000a4c1c5f22","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":52,"poiName":"Autumnshade Clearing"}
+{"id":"01a0616a-006e-7a77-8299-27fbadb8a0e4","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":53,"poiName":"Smokefrost Vigil"}
+{"id":"01a0616a-006e-77f8-adfa-55cd6a21cc57","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":54,"poiName":"Mammoth Ridge"}
+{"id":"01a0616a-006e-7021-bf55-a08da81fc5f7","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":55,"poiName":"Honeystrand Hill"}
+{"id":"01a0616a-006e-79bb-ab03-e2f8811c302c","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":56,"poiName":"Grethel's Vigil"}
+{"id":"01a0616a-006e-7cbb-87be-38d02d50d864","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":57,"poiName":"Eldbjorg's Hideaway"}
+{"id":"01a0616a-006e-7cc9-8dc6-f210ef3c8c8d","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":58,"poiName":"Jenedusil's Claw"}
+{"id":"01a0616a-006e-74ee-8366-c44c27eaed0e","poiType":2,"poiTypeLabel":"Achievement Components","poiIndex":59,"poiName":"Trollslayer's Gully"}
+{"id":"01a0616a-006e-7065-b22b-9f721ba2c09c","poiType":3,"poiTypeLabel":"Achievements","poiIndex":32,"poiName":"Broken Helm Hollow"}
+{"id":"01a0616a-006e-7e40-ad29-f50bdaccc657","poiType":3,"poiTypeLabel":"Achievements","poiIndex":33,"poiName":"Fort Greenwall"}
+{"id":"01a0616a-006e-7a83-a0a6-eae4d123e659","poiType":3,"poiTypeLabel":"Achievements","poiIndex":34,"poiName":"Faldar's Tooth"}
+{"id":"01a0616a-006e-754f-977f-fc8ff0a764b0","poiType":3,"poiTypeLabel":"Achievements","poiIndex":35,"poiName":"Avanchnzel"}
+{"id":"01a0616a-006e-7e49-b725-939092c53630","poiType":3,"poiTypeLabel":"Achievements","poiIndex":36,"poiName":"Snapleg Cave"}
+{"id":"01a0616a-006e-7621-a9db-b869f4cd29d9","poiType":3,"poiTypeLabel":"Achievements","poiIndex":37,"poiName":"Shroud Hearth Barrow"}
+{"id":"01a0616a-006e-7cda-9c85-e8963ea82f53","poiType":3,"poiTypeLabel":"Achievements","poiIndex":44,"poiName":"Hunter Camp"}
+{"id":"01a0616a-006e-79b5-8e57-ca4a0c08534e","poiType":3,"poiTypeLabel":"Achievements","poiIndex":45,"poiName":"Troll Cave"}
+{"id":"01a0616a-006e-77d2-9773-c40e5f698b38","poiType":3,"poiTypeLabel":"Achievements","poiIndex":46,"poiName":"Frozen Ruins"}
+{"id":"01a0616a-006e-705a-a3df-1a3ea424a343","poiType":3,"poiTypeLabel":"Achievements","poiIndex":47,"poiName":"Angarvunde Mound"}
+{"id":"01a0616a-006e-7ff5-bedc-85449bf88d99","poiType":3,"poiTypeLabel":"Achievements","poiIndex":48,"poiName":"Giant Camp"}
+{"id":"01a0616a-006e-7f5f-8679-03b00903a545","poiType":3,"poiTypeLabel":"Achievements","poiIndex":49,"poiName":"Wisplight Glen"}
+{"id":"01a0616a-006e-74a4-9240-ba9ad4d5a924","poiType":4,"poiTypeLabel":"Objectives","poiIndex":39,"poiName":"Ragged Hills Dolmen"}
+{"id":"01a0616a-006e-775c-9058-8cd8297ee85b","poiType":4,"poiTypeLabel":"Objectives","poiIndex":40,"poiName":"Stony Basin Dolmen"}
+{"id":"01a0616a-006e-72a3-93c8-64ff05498c95","poiType":4,"poiTypeLabel":"Objectives","poiIndex":41,"poiName":"Smokefrost Peaks Dolmen"}
+{"id":"01a0616a-006e-7060-9b2a-83eec844913b","poiType":5,"poiTypeLabel":"Public Dungeons","poiIndex":31,"poiName":"Lion's Den"}
+{"id":"01a0616a-006e-7698-8a87-333e043c31f9","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":42,"poiName":"Dungeon: Blessed Crucible"}
+{"id":"01a0616a-006e-7635-b9f4-3fb467294ca4","poiType":6,"poiTypeLabel":"Group Dungeons","poiIndex":64,"poiName":"Dungeon: Scrivener's Hall"}
+{"id":"01a0616a-006e-7809-828a-1985a7961367","poiType":7,"poiTypeLabel":"Houses","poiIndex":61,"poiName":"Old Mistveil Manor"}
+{"id":"01a0616a-006e-766f-b259-2b278b0925d8","poiType":7,"poiTypeLabel":"Houses","poiIndex":62,"poiName":"Autumn's-Gate"}
+{"id":"01a0616a-006e-7b95-babc-e5c8ff0526f8","poiType":7,"poiTypeLabel":"Houses","poiIndex":63,"poiName":"Hunter's Glade"}
+{"id":"01a0616a-006e-79fd-9c1c-da5876978087","poiType":7,"poiTypeLabel":"Houses","poiIndex":65,"poiName":"Grand Gallery of Tamriel"}
