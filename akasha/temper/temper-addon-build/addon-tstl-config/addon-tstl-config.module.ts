@@ -31,6 +31,24 @@ export const addonTstlConfig = {
     },
     {
       invariantKind: "departure",
+      statement: "The written settings reach every declaration a package the addon reaches holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A package the addon reaches is found through the link the workspace install left.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The packages an addon reaches are walked through to the end rather than one deep.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A dependency the workspace install left no link for refuses the call.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The game's own names are described by the akasha packages of declarations.",
     },
     {

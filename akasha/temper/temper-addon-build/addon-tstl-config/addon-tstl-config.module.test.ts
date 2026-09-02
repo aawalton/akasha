@@ -1,10 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   bundleEntryPathIn,
   esoAddonPagePathIn,
+  reachedPackageDirs,
   tstlConfigBody,
   tstlConfigPathFor,
 } from "./addon-tstl-config.module.code.ts"
@@ -48,6 +49,7 @@ test("the written settings name the entry, the bundle and the repository root", 
       addonDir: "/repo/akasha/temper/temper-lib-table-functions",
       canonicalName: "TemperTableFunctions",
       entryPath: "/repo/akasha/temper/temper-lib-table-functions/e/e.module.code.ts",
+      reachedDirs: [],
     })
   )
   expect(body).toMatchObject({
@@ -98,4 +100,51 @@ test("a slug naming a page drops the page type spelled ahead of the slug", () =>
 test("an addon page naming a bundle entry the folder does not hold refuses the call", async () => {
   const { root, dir } = addonFolderNaming("gone-entry")
   await expect(tstlConfigPathFor(root, dir, "TemperTableFunctions")).rejects.toThrow("gone-entry")
+})
+
+function addonReaching(dependencyName: string): { root: string; dir: string; held: string } {
+  const root = SCRATCH.rootFor("temper-addon-reach-")
+  const dir = join(root, "akasha/temper/temper-collections-addon")
+  const held = join(root, "akasha/temper/temper-lorebooks")
+  mkdirSync(dir, { recursive: true })
+  mkdirSync(held, { recursive: true })
+  mkdirSync(join(root, "node_modules/@akasha"), { recursive: true })
+  writeFileSync(
+    join(dir, "package.json"),
+    JSON.stringify({ dependencies: { [dependencyName]: "workspace:*", typescript: "^5.8.3" } })
+  )
+  writeFileSync(join(held, "package.json"), JSON.stringify({ name: dependencyName }))
+  return { root, dir, held }
+}
+
+test("the packages an addon reaches are found through the links the workspace install left", () => {
+  const { root, dir, held } = addonReaching("@akasha/temper-lorebooks")
+  symlinkSync(held, join(root, "node_modules/@akasha/temper-lorebooks"))
+  expect(reachedPackageDirs(root, dir)).toEqual([held])
+})
+
+test("a package the addon reaches that the install left no link for refuses the call", () => {
+  const { root, dir } = addonReaching("@akasha/temper-lorebooks")
+  expect(() => reachedPackageDirs(root, dir)).toThrow("@akasha/temper-lorebooks")
+})
+
+test("the written settings reach every declaration a package the addon reaches holds", () => {
+  const body: unknown = JSON.parse(
+    tstlConfigBody({
+      repoRoot: "/repo",
+      addonDir: "/repo/akasha/temper/temper-collections-addon",
+      canonicalName: "TemperCollections",
+      entryPath: "/repo/akasha/temper/temper-collections-addon/e/e.module.code.ts",
+      reachedDirs: ["/repo/akasha/temper/temper-lorebooks"],
+    })
+  )
+  expect(body).toMatchObject({
+    include: [
+      "/repo/akasha/temper/temper-collections-addon/**/*.module.code.ts",
+      "/repo/akasha/temper/temper-collections-addon/**/*.d.ts",
+      "/repo/akasha/temper/temper-lorebooks/**/*.d.ts",
+      "/repo/akasha/temper/temper-eso-types/**/*.d.ts",
+      "/repo/akasha/temper/temper-addon-library-types/**/*.d.ts",
+    ],
+  })
 })

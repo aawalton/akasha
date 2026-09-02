@@ -1,4 +1,11 @@
-import { existsSync, mkdirSync, readdirSync, writeFileSync } from "node:fs"
+import {
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  realpathSync,
+  writeFileSync,
+} from "node:fs"
 import { join } from "node:path"
 
 export const TSCONFIG_NAME = "tsconfig.json"
@@ -19,6 +26,47 @@ const DECLARATIONS_UNDER = [
   "akasha/temper/temper-eso-types/**/*.d.ts",
   "akasha/temper/temper-addon-library-types/**/*.d.ts",
 ] as const
+
+const WORKSPACE_MARK = "workspace:"
+
+const AKASHA_SCOPE = "@akasha/"
+
+const LINKED_UNDER = "node_modules"
+
+const MANIFEST_NAME = "package.json"
+
+function workspaceDependenciesIn(manifestPath: string): readonly string[] {
+  if (!existsSync(manifestPath)) return []
+  const said = JSON.parse(readFileSync(manifestPath, "utf-8")) as {
+    dependencies?: Record<string, string>
+  }
+  const held = said.dependencies ?? {}
+  return Object.keys(held).filter(
+    (name) => name.startsWith(AKASHA_SCOPE) && held[name]?.startsWith(WORKSPACE_MARK) === true
+  )
+}
+
+export function reachedPackageDirs(repoRoot: string, addonDir: string): readonly string[] {
+  const found = new Set<string>()
+  const asked = new Set<string>()
+  const owed = [...workspaceDependenciesIn(join(addonDir, MANIFEST_NAME))]
+  for (;;) {
+    const name = owed.pop()
+    if (name === undefined) break
+    if (asked.has(name)) continue
+    asked.add(name)
+    const linked = join(repoRoot, LINKED_UNDER, name)
+    if (!existsSync(linked)) {
+      throw new Error(
+        `reachedPackageDirs: ${addonDir} reaches "${name}", and ${linked} is not there, so every declaration that package holds would be left out of the compile`
+      )
+    }
+    const dir = realpathSync(linked)
+    found.add(dir)
+    owed.push(...workspaceDependenciesIn(join(dir, MANIFEST_NAME)))
+  }
+  return [...found].sort()
+}
 
 export type EsoAddonPage = {
   readonly slug: string
@@ -83,6 +131,7 @@ export type TstlConfigAsked = {
   readonly addonDir: string
   readonly canonicalName: string
   readonly entryPath: string
+  readonly reachedDirs: readonly string[]
 }
 
 export function tstlConfigBody(asked: TstlConfigAsked): string {
@@ -110,6 +159,7 @@ export function tstlConfigBody(asked: TstlConfigAsked): string {
     include: [
       join(asked.addonDir, CODE_UNDER),
       join(asked.addonDir, OWN_DECLARATIONS_UNDER),
+      ...asked.reachedDirs.map((one) => join(one, OWN_DECLARATIONS_UNDER)),
       ...DECLARATIONS_UNDER.map((one) => join(asked.repoRoot, one)),
     ],
   }
@@ -134,6 +184,7 @@ export async function tstlConfigPathFor(
   const heldAt = join(repoRoot, ADDONS_REL_ROOT, HELD_AT)
   mkdirSync(heldAt, { recursive: true })
   const path = join(heldAt, `${canonicalName}.${TSCONFIG_NAME}`)
-  writeFileSync(path, tstlConfigBody({ repoRoot, addonDir, canonicalName, entryPath }))
+  const reachedDirs = reachedPackageDirs(repoRoot, addonDir)
+  writeFileSync(path, tstlConfigBody({ repoRoot, addonDir, canonicalName, entryPath, reachedDirs }))
   return path
 }
