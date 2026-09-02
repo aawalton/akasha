@@ -67,6 +67,10 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
+      statement: "A page claims a numbered file of a property only where that file is there.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which properties are entry shapes is answered here rather than by the caller.",
     },
     {

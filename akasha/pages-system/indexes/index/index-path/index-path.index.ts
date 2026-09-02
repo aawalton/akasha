@@ -76,6 +76,10 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a numbered file is there is read from the change laid over the disk.",
+    },
+    {
+      invariantKind: "departure",
       statement: "This tree is every page there is.",
     },
   ],

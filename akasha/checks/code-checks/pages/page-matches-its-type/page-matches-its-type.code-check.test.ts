@@ -30,6 +30,7 @@ import {
   NOW_BETA,
   ONE_HELD,
   ONE_HELD_AT,
+  partsJudged,
   seeded,
   shapingFor,
   THING_AT,
@@ -403,4 +404,5 @@ test("the cases beside the restatement test are read and judged", () => {
   expect(entriesJudged(formatting, null)).toEqual([])
   expect(entriesJudged(formatting, "no json here\n")[0]).toContain("unknown rather than nothing")
   expect(entriesJudged(formatting, ID_LESS)).toEqual([NO_ID])
+  expect(partsJudged(formatting, "", ID_LESS)).toEqual([NO_ID])
 })

@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { listedFiled, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
 import type { Formatting } from "@akasha/pages-system/name-format/format-reaching"
@@ -353,7 +353,7 @@ export function generating(root: string, generator: string): string {
 
 export const ALPHA_AT = "akasha/alpha.page-type.ts"
 
-export const BOTH = '{ pagePropertySlug: "page-type-slug" }'
+const BOTH = '{ pagePropertySlug: "page-type-slug" }'
 
 export const WAS_ALPHA = typing(THING_ID, "alpha", "null", BOTH)
 
@@ -411,9 +411,9 @@ const DEMANDS =
 
 export const NARROWED = `${DEMANDS}, { pagePropertySlug: "name", required: true, many: false }`
 
-export const REPO = join(import.meta.dir, "..", "..", "..", "..", "..")
+const REPO = join(import.meta.dir, "..", "..", "..", "..", "..")
 
-export const RESTATEMENT = "akasha/agents/models/tests/pages/restatement/restatement.model-test.ts"
+const RESTATEMENT = "akasha/agents/models/tests/pages/restatement/restatement.model-test.ts"
 
 export const NO_ID = "keeps an entry of `cases` carrying no id, and every entry carries an id"
 
@@ -438,10 +438,10 @@ export function shapingFor(formatting: Formatting): Shaping {
   return { fields: new Map([["answer", ANSWER]]), slug: "cases", pageFor: () => null, formatting }
 }
 
-export function entriesJudged(formatting: Formatting, text: string | null): readonly string[] {
+const CASES = `${RESTATEMENT.slice(0, -3)}.cases`
+
+function judged(formatting: Formatting, beside: (at: string) => string | null): readonly string[] {
   const shadow = shadowAt(REPO)
-  const beside = (at: string): string | null =>
-    text === null ? readFileSync(join(REPO, at), "utf8") : text
   return entryReasonsIn(
     valueAt(RESTATEMENT, REPO) ?? {},
     propertiesOf("model-test", shadow.reading, shadow.pageOf),
@@ -450,6 +450,21 @@ export function entriesJudged(formatting: Formatting, text: string | null): read
     beside,
     formatting
   )
+}
+
+export function entriesJudged(formatting: Formatting, text: string | null): readonly string[] {
+  return judged(formatting, (at) => {
+    if (text !== null) return at === `${CASES}.jsonl` ? text : null
+    return existsSync(join(REPO, at)) ? readFileSync(join(REPO, at), "utf8") : null
+  })
+}
+
+export function partsJudged(formatting: Formatting, one: string, two: string): readonly string[] {
+  const held = new Map([
+    [`${CASES}.jsonl`, one],
+    [`${CASES}.part2.jsonl`, two],
+  ])
+  return judged(formatting, (at) => held.get(at) ?? null)
 }
 
 export function besideCarried(uncommitted: boolean, secret = false): readonly Carried[] {

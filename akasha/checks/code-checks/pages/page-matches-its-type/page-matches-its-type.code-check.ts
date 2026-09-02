@@ -66,6 +66,10 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
+      statement: "A numbered entry file beside the page is judged as the first file is judged.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An entry's own id is not judged as a field of the shape declaring the entry.",
     },
     {

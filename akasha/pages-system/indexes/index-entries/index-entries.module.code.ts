@@ -1,11 +1,7 @@
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import {
-  besideAt,
-  secretAt,
-  uncommittedAt,
-  uncommittedBesideAt,
-} from "@akasha/pages-system/page-file-name"
+import { secretAt, uncommittedAt, uncommittedBesideAt } from "@akasha/pages-system/page-file-name"
+import { partsOf } from "@akasha/pages-system/page-file-parts"
 import { slugFor } from "@akasha/pages-system/page-property-key"
 import { slugAt, textAt, type Value } from "@akasha/pages-system/page-value"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
@@ -70,11 +66,14 @@ export function filePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, s
   return found
 }
 
+export type IsThere = (at: string) => boolean
+
 export function pathsOf(
   value: Value,
   path: string,
   repo: string,
-  fileProperties: ReadonlyMap<string, string | null>
+  fileProperties: ReadonlyMap<string, string | null>,
+  there: IsThere = () => false
 ): readonly string[] {
   const own = under(repo, path)
   const found = [own]
@@ -87,8 +86,7 @@ export function pathsOf(
       found.push(join(dirname(own), fileName))
       continue
     }
-    const beside = besideAt(own, propertySlug, held)
-    if (beside !== null) found.push(beside)
+    found.push(...partsOf(own, propertySlug, held, there))
   }
   return found
 }
@@ -171,9 +169,10 @@ export function claimsOf(
   path: string,
   repo: string,
   fileProperties: ReadonlyMap<string, string | null>,
-  sidecars: SidecarsBy
+  sidecars: SidecarsBy,
+  there: IsThere = () => false
 ): readonly string[] {
-  const found = [...pathsOf(value, path, repo, fileProperties)]
+  const found = [...pathsOf(value, path, repo, fileProperties, there)]
   const own = under(repo, path)
   const held = sidecars.get(textAt(value, "pageTypeSlug") ?? "")
   if (held === undefined) return found

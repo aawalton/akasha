@@ -82,6 +82,31 @@ test("a property stating no name is still claimed under the name the grammar bui
   ])
 })
 
+test("the numbered files of a property are claimed alongside the first while they are there", () => {
+  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts" }
+  const held = new Set(["deep/a.module.code.part2.ts", "deep/a.module.code.part3.ts"])
+  const there = (at: string): boolean => held.has(at)
+
+  expect(pathsOf(value, "/repo/deep/a.module.ts", "/repo", filedAs({ code: null }), there)).toEqual(
+    [
+      "deep/a.module.ts",
+      "deep/a.module.code.ts",
+      "deep/a.module.code.part2.ts",
+      "deep/a.module.code.part3.ts",
+    ]
+  )
+})
+
+test("a numbered file past a gap in the numbering is claimed by no page", () => {
+  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts" }
+  const held = new Set(["deep/a.module.code.part3.ts"])
+  const there = (at: string): boolean => held.has(at)
+
+  expect(pathsOf(value, "/repo/deep/a.module.ts", "/repo", filedAs({ code: null }), there)).toEqual(
+    ["deep/a.module.ts", "deep/a.module.code.ts"]
+  )
+})
+
 test("a page carrying both is claimed under the built name and under the stated one", () => {
   const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", manifest: "json" }
   const filed = filedAs({ code: null, manifest: "package.json" })

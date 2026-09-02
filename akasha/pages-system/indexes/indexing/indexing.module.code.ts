@@ -21,7 +21,7 @@ import { identityIn } from "../index/index-identity/index-identity.index.code.ts
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { importIn } from "../index/index-import/index-import.index.code.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
-import { pathIn } from "../index/index-path/index-path.index.code.ts"
+import { claimingIn } from "../index/index-path/index-path.index.code.ts"
 import { indexPath } from "../index/index-path/index-path.index.ts"
 import { NOTHING_FILED, relationIn } from "../index/index-relation/index-relation.index.code.ts"
 import { indexRelation } from "../index/index-relation/index-relation.index.ts"
@@ -202,7 +202,8 @@ export function rebuiltFrom(
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
   reconcile(join(root, IDENTITY), identity, root)
   const sidecars = sidecarsIn(values)
-  const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties, sidecars))
+  const claim = claimingIn(repo, fileProperties, sidecars)
+  const paths = held.flatMap((one) => claim(one.value, one.path, false))
   reconcile(join(root, PATH), paths, root)
   reconcile(join(root, SCHEMA), schema, root)
   const known = knownIn(root, repo)
@@ -353,14 +354,11 @@ export function settlingOver(
       ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, nowIdentifying, turned)),
     ]
   )
+  const claim = claimingIn(repo, fileProperties, sidecars, carried)
   const paths = filingOf(
     reading,
-    held.flatMap((one) =>
-      one.was === null ? [] : pathIn(one.was, one.path, repo, fileProperties, sidecars)
-    ),
-    held.flatMap((one) =>
-      one.now === null ? [] : pathIn(one.now, one.path, repo, fileProperties, sidecars)
-    )
+    held.flatMap((one) => (one.was === null ? [] : claim(one.was, one.path, true))),
+    held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false)))
   )
 
   const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...schema])

@@ -2,8 +2,9 @@ import { pageTypesIn } from "@akasha/indexes/entries"
 import { waitingProperties } from "@akasha/indexes/generated-properties"
 import type { Change } from "@akasha/pages-system/change"
 import { type Formatting, matchingIn } from "@akasha/pages-system/name-format/format-reaching"
-import { entriedAmong, entriesIn } from "@akasha/pages-system/page-entries"
-import { besideAt, pageNamed } from "@akasha/pages-system/page-file-name"
+import { entriedAmong, entriesIn, type Rows } from "@akasha/pages-system/page-entries"
+import { pageNamed } from "@akasha/pages-system/page-file-name"
+import { partsOf } from "@akasha/pages-system/page-file-parts"
 import {
   type Carried,
   carriedIn,
@@ -135,6 +136,23 @@ export function fieldsOf(
   return said
 }
 
+export function entriesOver(
+  path: string,
+  propertySlug: string,
+  held: string,
+  beside: (at: string) => string | null
+): Rows {
+  const found: Value[] = []
+  for (const at of partsOf(path, propertySlug, held, (one) => beside(one) !== null)) {
+    const text = beside(at)
+    if (text === null) continue
+    const read = entriesIn(at, text)
+    if ("refused" in read) return read
+    found.push(...read.entries)
+  }
+  return { entries: found }
+}
+
 export function entryReasonsIn(
   value: Value,
   declared: readonly Carried[],
@@ -149,11 +167,7 @@ export function entryReasonsIn(
   for (const one of entriedAmong(declared)) {
     const held = value[one.key]
     if (typeof held !== "string") continue
-    const at = besideAt(path, one.propertySlug, held)
-    if (at === null) continue
-    const text = beside(at)
-    if (text === null) continue
-    const read = entriesIn(at, text)
+    const read = entriesOver(path, one.propertySlug, held, beside)
     if ("refused" in read) {
       said.push(read.refused)
       continue
