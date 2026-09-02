@@ -6,6 +6,7 @@ export const storyEngine = {
   slug: "story-engine",
   definition: "worlds and their stories, kept true to each other",
   partSlugs: [
+    "page-type/story-played",
     "page-type/world",
     "workspace-package/story-engine-core",
     "workspace-package/story-ui",
