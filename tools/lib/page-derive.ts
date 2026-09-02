@@ -346,10 +346,24 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     return answer
   }
 
+  /**
+   * The keys a page states that name a file of rows rather than hold a value.
+   *
+   * Reading the rows is asked for — `carryRows` names them, or `carryPages` asks for all of them —
+   * because it opens a file for every page. Where they are not asked for, a page that states one
+   * answers nothing, the same as a page with no rows beside it: `sessions: "jsonl"` is the name of
+   * the file the sessions are in, and handing that out as the sessions gives every reader the string
+   * `jsonl` where a list of pages belongs. Nothing is the honest answer to a question not asked.
+   */
+  const namesRowsFile = (page: Page, key: string): boolean =>
+    rowsNamed.has(key) && declarationFor(page.kind, key)?.rows !== null
+
   const rowOf = (page: Page, derived: ReadonlyMap<string, Property>): Row => {
-    if (derived.size === 0) return { at: page.at, values: page.values }
     const values: Record<string, Held> = { ...page.values }
     for (const key of derived.keys()) values[key] = valueOf(page, key, 0)
+    for (const key of Object.keys(page.values)) {
+      if (!derived.has(key) && namesRowsFile(page, key)) delete values[key]
+    }
     return { at: page.at, values }
   }
 
