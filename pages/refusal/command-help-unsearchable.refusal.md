@@ -9,6 +9,6 @@ holes:
 
 # Refusal
 
-`{root}` could not be searched for a file declaring a `CommandHelp` object, so this reading examined nothing and certifies nothing.
+`{root}` holds no command file this could read, so this reading examined nothing and certifies nothing.
 
-A command whose flags are spelled in both repositories has two authorities over what it accepts, and the code-repository one is what parses the call. They agree until one is edited, and nothing but this reading compares them.
+Every command is read from the files under `tools/commands`. An empty answer there and a repository where every command's help agrees with its parser look alike from here, and only one of them is worth reporting as clean.

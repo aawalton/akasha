@@ -11,6 +11,6 @@ holes:
 
 # Refusal
 
-`{path}` spells `ops {command}` differently from this repository: {difference}.
+`{path}` documents `{command}` one way and parses it another: {difference}.
 
-A command whose flags are spelled in both repositories has two authorities over what it accepts, and the code-repository one is what parses the call. They agree until one is edited, and nothing but this reading compares them.
+The help object here is not what its parser is handed, so the flags are declared twice and either declaration can be edited without the other. What the parser holds is what a call meets; what the help holds is what a reader is told. A flag documented and not accepted refuses whoever follows the help, and a flag accepted and not documented is reachable only by someone who read the source. Hand the help object straight to `parseArgs` and neither can happen.
