@@ -18,7 +18,6 @@
     "./value-minting": "./value-minting/value-minting.module.code.ts"
   },
   "dependencies": {
-    "@tools/lib": "workspace:*",
     "typescript": "5.9.3"
   }
 }

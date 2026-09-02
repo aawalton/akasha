@@ -28,6 +28,7 @@
     "./sim-session": "./sim-session/sim-session.module.code.ts",
     "./sim-www-stage": "./sim-www-stage/sim-www-stage.module.code.ts",
     "./ssh-delivery": "./ssh-delivery/ssh-delivery.module.code.ts",
+    "./testflight-cut": "./testflight-cut/testflight-cut.module.code.ts",
     "./testflight-deploy-script": "./testflight-deploy-script/testflight-deploy-script.module.code.ts",
     "./testflight-poll": "./testflight-poll/testflight-poll.module.code.ts",
     "./www-build": "./www-build/www-build.module.code.ts"

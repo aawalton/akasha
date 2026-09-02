@@ -35,6 +35,7 @@ export const mobileCli = {
     "module/install-sim-shell",
     "module/push-tap-script",
     "module/www-build",
+    "module/testflight-cut",
   ],
   invariants: [
     {

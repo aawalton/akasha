@@ -1,7 +1,7 @@
 import { readKeychainPassword } from "@akasha/mobile-cli/foundation"
 import { acquireLocalCutLock, releaseLocalCutLock } from "@akasha/mobile-cli/local-cut-lock"
 import { type MobileApp, resolveApp } from "@akasha/mobile-cli/mobile-app"
-import { runTestflightCut } from "@tools/lib/mobile-testflight-cut"
+import { runTestflightCut } from "@akasha/mobile-cli/testflight-cut"
 import type { Answer } from "../../../calling/calling.module.code.ts"
 import { saidBy } from "../../../fault-saying/fault-saying.module.code.ts"
 
