@@ -3,8 +3,8 @@ import { join } from "node:path"
 import { PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@infra/git-porcelain/parse-status"
 import { addonUpstreamDir } from "@akasha/temper-eso-paths/eso-paths"
 import { $ } from "bun"
-import { LIBSETS_UPSTREAM, type UpstreamPin } from "./upstream-pin"
-import { countBundleMarkers, type UpstreamProbe, verifyUpstream } from "./verify-upstream"
+import { LIBSETS_UPSTREAM, type UpstreamPin } from "@akasha/temper-upstream-data/libsets-upstream-pin"
+import { countBundleMarkers, type UpstreamProbe, verifyUpstream } from "@akasha/temper-upstream-data/libsets-upstream-verify"
 
 export interface UpstreamPaths {
   readonly checkoutRoot: string

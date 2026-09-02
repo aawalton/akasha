@@ -854,6 +854,15 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-completion-import": {
+      "name": "@akasha/temper-completion-import",
+      "dependencies": {
+        "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-saved-variables": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/temper/temper-dungeons": {
       "name": "@akasha/temper-dungeons",
     },
@@ -3198,6 +3207,7 @@
       "dependencies": {
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-lua-runner": "workspace:*",
+        "@akasha/temper-upstream-data": "workspace:*",
         "@infra/git-porcelain": "workspace:*",
       },
       "devDependencies": {
@@ -3642,6 +3652,8 @@
     "@akasha/temper-community-addons": ["@akasha/temper-community-addons@workspace:akasha/temper/temper-community-addons"],
 
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:akasha/temper/temper-completion"],
+
+    "@akasha/temper-completion-import": ["@akasha/temper-completion-import@workspace:akasha/temper/temper-completion-import"],
 
     "@akasha/temper-dungeons": ["@akasha/temper-dungeons@workspace:akasha/temper/temper-dungeons"],
 

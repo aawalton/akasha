@@ -7,6 +7,7 @@
   "dependencies": {
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-lua-runner": "workspace:*",
+    "@akasha/temper-upstream-data": "workspace:*",
     "@infra/git-porcelain": "workspace:*"
   },
   "devDependencies": {

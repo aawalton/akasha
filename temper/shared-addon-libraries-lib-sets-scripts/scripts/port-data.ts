@@ -3,7 +3,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
 import { makeSandboxedLuaVm } from "@akasha/temper-lua-runner/sandboxed-lua-vm"
 import { resolveVerifiedUpstream } from "./fetch-upstream"
-import { LIBSETS_UPSTREAM } from "./upstream-pin"
+import { LIBSETS_UPSTREAM } from "@akasha/temper-upstream-data/libsets-upstream-pin"
 
 const CODE_ROOT_FLAG = "--code-root"
 
