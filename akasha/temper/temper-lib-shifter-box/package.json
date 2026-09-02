@@ -1,0 +1,26 @@
+{
+  "name": "@akasha/temper-lib-shifter-box",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./shifter-types": "./shifter-types/shifter-types.module.code.ts",
+    "./shifter-casts": "./shifter-casts/shifter-casts.module.code.ts",
+    "./shifter-constants": "./shifter-constants/shifter-constants.module.code.ts",
+    "./shifter-strings": "./shifter-strings/shifter-strings.module.code.ts",
+    "./shifter-state": "./shifter-state/shifter-state.module.code.ts",
+    "./shifter-validation": "./shifter-validation/shifter-validation.module.code.ts",
+    "./shifter-helpers": "./shifter-helpers/shifter-helpers.module.code.ts",
+    "./shifter-drag-helpers": "./shifter-drag-helpers/shifter-drag-helpers.module.code.ts",
+    "./shifter-search-header": "./shifter-search-header/shifter-search-header.module.code.ts",
+    "./shifter-list-class": "./shifter-list-class/shifter-list-class.module.code.ts",
+    "./shifter-list-methods-entries": "./shifter-list-methods-entries/shifter-list-methods-entries.module.code.ts",
+    "./shifter-list-methods-rows": "./shifter-list-methods-rows/shifter-list-methods-rows.module.code.ts",
+    "./shifter-list-methods-drag": "./shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts",
+    "./shifter-list-ops": "./shifter-list-ops/shifter-list-ops.module.code.ts",
+    "./shifter-box-create": "./shifter-box-create/shifter-box-create.module.code.ts",
+    "./shifter-box-class": "./shifter-box-class/shifter-box-class.module.code.ts",
+    "./shifter-lib-api": "./shifter-lib-api/shifter-lib-api.module.code.ts",
+    "./shifter-public-api": "./shifter-public-api/shifter-public-api.module.code.ts",
+    "./shifter-main": "./shifter-main/shifter-main.module.code.ts"
+  }
+}
