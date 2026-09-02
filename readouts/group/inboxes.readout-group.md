@@ -9,7 +9,6 @@ sequence-slugs:
   - readout/inboxes-tasks
   - readout/inboxes-temper-tasks
   - readout/inboxes-texts
-  - readout/inboxes-questions
 sort-order: place
 settled: true
 ---
