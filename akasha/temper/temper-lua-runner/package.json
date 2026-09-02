@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-lua-runner",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./lua-vm": "./lua-vm/lua-vm.module.code.ts",
+    "./sandboxed-lua-vm": "./sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts",
+    "./lua-number-string": "./lua-number-string/lua-number-string.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}

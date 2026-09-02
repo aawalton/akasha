@@ -27,6 +27,7 @@ export const temper = {
     "workspace-package/temper-settings-panel",
     "workspace-package/temper-capture-descriptor",
     "eso-addon/temper-lib-alchemy-station",
+    "workspace-package/temper-lua-runner",
   ],
   invariants: [
     {

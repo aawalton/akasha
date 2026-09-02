@@ -17,6 +17,7 @@
     "./ios-program/alanwalton-widget": "./ios-program/ios-programs/alanwalton-widget/alanwalton-widget.ios-program.ts",
     "./ios-program/smilingjenny-decode-harness": "./ios-program/ios-programs/smilingjenny-decode-harness/smilingjenny-decode-harness.ios-program.ts",
     "./ios-program/smilingjenny-widget": "./ios-program/ios-programs/smilingjenny-widget/smilingjenny-widget.ios-program.ts",
+    "./lua-module": "./lua-module/lua-module.page-type.ts",
     "./module": "./module/module.page-type.ts",
     "./module/test": "./module/properties/test.file-property.ts",
     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
