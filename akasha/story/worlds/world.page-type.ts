@@ -19,6 +19,7 @@ export const world = {
   definition: "a made-up somewhere",
   pluralSlug: "worlds",
   extendsSlug: "page-type/page",
+  runsTabooCheck: false,
   partSlugs: [
     "page-property-entry/character-readings",
     "page-property-entry/mechanic-readings",
@@ -43,6 +44,10 @@ export const world = {
     {
       invariantKind: "departure",
       statement: "A reading says what one name in the text reaches rather than what that thing is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The words a world carries are the story's rather than akasha's own.",
     },
     {
       invariantKind: "gap",
