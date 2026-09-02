@@ -2913,29 +2913,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-items-rules-matcher": {
-      "name": "@temper/game-items-rules-matcher",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-alchemy": "workspace:*",
-        "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/temper-skill-morphs-access": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-codec": "workspace:*",
-        "@temper/game-items-core": "workspace:*",
-        "@temper/game-items-rules-core": "workspace:*",
-        "@temper/game-items-rules-eval": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "fast-check": "^4.5.3",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-items-rules-routing": {
       "name": "@temper/game-items-rules-routing",
       "version": "0.1.0",
@@ -4575,8 +4552,6 @@
     "@temper/game-items-rules-core": ["@temper/game-items-rules-core@workspace:temper/game-items-rules-core"],
 
     "@temper/game-items-rules-eval": ["@temper/game-items-rules-eval@workspace:temper/game-items-rules-eval"],
-
-    "@temper/game-items-rules-matcher": ["@temper/game-items-rules-matcher@workspace:temper/game-items-rules-matcher"],
 
     "@temper/game-items-rules-routing": ["@temper/game-items-rules-routing@workspace:temper/game-items-rules-routing"],
 
