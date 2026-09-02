@@ -1,0 +1,38 @@
+{
+  "name": "@akasha/temper-trading-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./trading-listing-facts": "./trading-listing-facts/trading-listing-facts.module.code.ts",
+    "./trading-search-request-native": "./trading-search-request-native/trading-search-request-native.module.code.ts",
+    "./trading-browse-engine": "./trading-browse-engine/trading-browse-engine.module.code.ts",
+    "./trading-browse-window-rows": "./trading-browse-window-rows/trading-browse-window-rows.module.code.ts",
+    "./trading-constants": "./trading-constants/trading-constants.module.code.ts",
+    "./trading-types": "./trading-types/trading-types.module.code.ts",
+    "./trading-saved-variables": "./trading-saved-variables/trading-saved-variables.module.code.ts",
+    "./trading-saved-search-store": "./trading-saved-search-store/trading-saved-search-store.module.code.ts",
+    "./trading-saved-search-bar": "./trading-saved-search-bar/trading-saved-search-bar.module.code.ts",
+    "./trading-browse-window": "./trading-browse-window/trading-browse-window.module.code.ts",
+    "./trading-capture": "./trading-capture/trading-capture.module.code.ts",
+    "./trading-events": "./trading-events/trading-events.module.code.ts",
+    "./trading-globals": "./trading-globals/trading-globals.module.code.ts",
+    "./trading-prune": "./trading-prune/trading-prune.module.code.ts",
+    "./trading-sell-price-store": "./trading-sell-price-store/trading-sell-price-store.module.code.ts",
+    "./trading-sell-helper": "./trading-sell-helper/trading-sell-helper.module.code.ts",
+    "./trading-skip-kiosk-dialog": "./trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.code.ts",
+    "./trading-trader-kiosk-info": "./trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts",
+    "./trading-entry": "./trading-entry/trading-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-capture-perf": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-items-core": "workspace:*",
+    "@akasha/temper-items-filters-addon": "workspace:*",
+    "@akasha/temper-items-filters-core": "workspace:*",
+    "@akasha/temper-items-rules-eval": "workspace:*",
+    "@akasha/temper-trading-listings": "workspace:*",
+    "@akasha/temper-trading-post": "workspace:*"
+  }
+}

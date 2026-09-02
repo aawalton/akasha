@@ -107,6 +107,7 @@ export const temper = {
     "workspace-package/temper-items-rules-matcher",
     "eso-addon/temper-events-addon",
     "workspace-package/temper-items-rules-routing",
+    "eso-addon/temper-trading-addon",
   ],
   invariants: [
     {
