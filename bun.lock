@@ -2834,10 +2834,10 @@
       "name": "@temper/game-characters-skills-morphs-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-characters-capture-addon": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-capture-addon": "workspace:*",
       },
       "devDependencies": {
         "typescript": "^5.8.3",
