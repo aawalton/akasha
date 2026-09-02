@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "The addon-data pipeline is whole at last: twelve sections, 48 files, 47 byte-identical, and the 48th differs by one banner line because the generator moved and the pipeline had never run. The eager array that hid three generators behind one throw is fixed, so a throw names one file rather than stopping four. Alan's page-type gap stays closed: 122 companion-skill pages regenerate 119,803 bytes against 119,824.",
+        "The addon-data pipeline is whole: twelve sections, 62 of 62 files identical, none absent and none thrown. A throw seeded into the second section used to leave one section reaching the writer and no mapping generator built at all; each generator now fails alone and names itself. Alan's page-type gap stays closed, with 122 companion-skill pages regenerating 119,803 bytes against 119,824.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "Typecheck broke from zero to 53 over nine packages: `craft-decl-controls` gives the merged `Control` its own data type, so every neighbour's control subtype is refused. Taking it out gives 84, all inside crafting, and that is the repair. The Lua wall is down: 13 of 16 landed addons build a bundle, three fail on TS90002 of their own, one stops at the XML copy. Alan approved both checks and ruled no ESO library vendored, so all of them migrate.",
+        "121 packages against 64 folders in `temper/`; typecheck is 4, all in crafting's own utilities, and every route to zero is gated behind lifting `craft-decl-controls`'s `declare global` across some 39 paths. The read record has no expiry: a sibling subagent's startup deletes it for every seat at once, so fanning out is what breaks the write gate. Six dist gates take their denominator from what a build managed to write, so a build that stops early reads green.",
     },
   ],
   constraints: [
