@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "Live markdown reaches are down to three files: the widget half of `ios-widget-swift.ts`, `status-bar-access/session-reading`, and a ladder constant in `tracking-modules.ts`. Notifier moved `a0ab5c760f`, widget readings `2c990e95ad`, both proven by parity runs. STILL NOT DELETABLE: six findings at `65ad02a9dc` name the losses — no `querySlug` on any upkeep readout, no `readLiveFrom` property, seven widgets and the ring ladder markdown-only, and the engines contradict on value flooring.",
+        "The widget generator is clear (`564914f1d8`, `1d7a664717`) and `cardioReading` moved (`93581893f0`). `ask-through` is dead code awaiting one judged removal. THE LAST REACH CANNOT MOVE: `tracking-modules.ts` needs `DEFAULT_GREEN_DAY_POINTS`, and two findings record that same 10000 bar corrupting fifty persona-days, so akasha must not carry it; akasha also has no reader over every session page. Use `akasha edit --remove`, never bare `akasha remove` — that lands unjudged.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
