@@ -11,11 +11,7 @@ export const temper = {
     "domain/temper-character",
     "domain/temper-holdings",
     "domain/temper-progress",
-    "number-property/display-order",
-    "text-property/description",
-    "text-property/icon",
-    "text-property/key",
-    "text-property/title",
+    "page-type/temper-thing",
   ],
   invariants: [
     {
@@ -26,6 +22,11 @@ export const temper = {
     {
       invariantKind: "departure",
       statement: "A page type temper carries is worked out from what its pages state.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A property more than one page type carries is declared by a page type above them.",
     },
   ],
 } as const satisfies Domain
