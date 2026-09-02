@@ -114,7 +114,7 @@ function run(rig: Rig, body: ArrayBuffer | null = null): Promise<Response> {
   })
 }
 
-const SERVED: QueueOutcome = { kind: "served", response: new Response("ok", { status: 200 }) }
+const SERVED: QueueOutcome = { kind: "served", response: new Response(null, { status: 204 }) }
 
 const MAXED = stateOf("aine", 100, new Date(NOW + 30_000).toISOString())
 
@@ -122,11 +122,13 @@ const FAR = stateOf("ctw", 100, new Date(NOW + 600_000).toISOString())
 
 const UNKNOWN_RESET = stateOf("zed", 100, null)
 
-test("an attempt that served a response answers with that response", async () => {
-  const rig = rigged([SERVED], [])
+test("an attempt that served a response answers with that very response", async () => {
+  const answer = new Response("served-by-the-pipeline", { status: 201 })
+  const rig = rigged([{ kind: "served", response: answer }], [])
   const res = await run(rig)
-  expect(res.status).toBe(200)
-  expect(await res.text()).toBe("ok")
+  expect(res).toBe(answer)
+  expect(res.status).toBe(201)
+  expect(await res.text()).toBe("served-by-the-pipeline")
   expect(rig.turns()).toBe(1)
   expect(rig.reads()).toBe(0)
   expect(rig.lines).toEqual([])
@@ -140,9 +142,10 @@ test("an attempt that found no account reads the pacing of every account", async
 })
 
 test("a wait step sleeps the span that step names and tries again", async () => {
-  const rig = rigged([EMPTY, SERVED], [MAXED])
+  const answer = new Response("served-after-a-wait", { status: 201 })
+  const rig = rigged([EMPTY, { kind: "served", response: answer }], [MAXED])
   const res = await run(rig)
-  expect(res.status).toBe(200)
+  expect(res).toBe(answer)
   expect(rig.slept).toEqual([6_000])
   expect(rig.lines.length).toBe(1)
   expect(rig.lines[0]).toContain("phase=silent-reprobe")
