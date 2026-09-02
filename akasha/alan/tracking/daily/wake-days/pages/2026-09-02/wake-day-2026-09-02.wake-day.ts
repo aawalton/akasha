@@ -19,4 +19,5 @@ export const wakeDay20260902 = {
   inboxTemperTasksClearedToday: false,
   inboxTexts: 2,
   inboxTextsClearedToday: false,
+  sessions: "jsonl",
 } as const satisfies WakeDay
