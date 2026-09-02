@@ -21,7 +21,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
       workingMemory:
-        "Alan's half is live and proven as far as the pod, deployed at `d0f4d24621`: the reading is taken on the workstation every 5m, relayed and accepted, and the pod's own serving path answers 200 carrying one of the six tiers the shipped Swift decodes. The phone itself is unseen, no device credential being held here. The tier is resolved server-side, the call Alan took. Jenny's half is one `runs` line and her own route away and was not attempted.",
+        "Both halves are proven as far as the pod; the phones are unseen. Alan's deployed at `d0f4d24621`. Jenny's landed at `aceffc1382`, a second `runs` line on his relay, and `172cd167b9`, her route on the same `safety` group; her unit is installed. Proven against the real page store and the real held reading: 401 bare, 503 with nothing carried in, 200 and a whole stoplight otherwise, plus 16 tests. Her tile shows Alan's level, as her widget says itself; she logs none. Her site waits on a deploy.",
     },
     {
       statement: "Alan's and Jenny's surplus iOS widgets work.",
