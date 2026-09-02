@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-build-metadata",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./build-metadata": "./build-metadata/build-metadata.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-character-build": "workspace:*",
+    "@akasha/temper-character-sources": "workspace:*",
+    "@akasha/temper-companions-core": "workspace:*"
+  }
+}
