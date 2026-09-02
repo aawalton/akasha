@@ -111,10 +111,15 @@ export function judgedOver(judging: Judging, change: Change, leftOut: number): A
     return { report: [`${over}, and none refused`, ...also], refusals: [], code: 0 }
   }
   const lines = said.map((one) => `${one.path} — ${oneLine(one.reason)}`)
+  const unrun = said.filter((one) => one.threw === true).length
+  const could =
+    unrun > 0
+      ? [`${counted(unrun, "check")} could not run and judged nothing, so this answer is short`]
+      : []
   return {
-    report: [`${over}, and ${counted(said.length, "refusal")} stands`, ...also],
+    report: [`${over}, and ${counted(said.length, "refusal")} in all`, ...could, ...also],
     refusals: heldTo(lines, ANSWER_CEILING),
-    code: 2,
+    code: unrun > 0 ? 3 : 2,
   }
 }
 

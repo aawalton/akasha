@@ -80,6 +80,10 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal is marked as a check that could not run.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The refusal names the check's own page.",
     },
     {

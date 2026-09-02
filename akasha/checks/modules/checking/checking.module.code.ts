@@ -152,6 +152,7 @@ function threw(one: Gathered, thrown: unknown): Judged {
   return {
     path: one.page,
     reason: `the check \`${one.slug}\` threw, so it judged nothing — ${saidBy(thrown)}`,
+    threw: true,
   }
 }
 

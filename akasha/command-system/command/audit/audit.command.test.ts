@@ -60,8 +60,26 @@ test("what an audit finds is the data's fault, and stands as a refusal per path"
   ]
   const said = judgedOver(saying(["one"], found), over(["akasha/one.ts", "akasha/two.ts"]), 0)
   expect(said.code).toBe(2)
-  expect(said.report[0]).toContain("2 refusals stand")
+  expect(said.report[0]).toContain("2 refusals in all")
   expect(said.refusals).toEqual(["akasha/one.ts — one thing", "akasha/two.ts — another"])
+})
+
+test("a check that could not run is answered as operational rather than as the data's fault", () => {
+  const found = [{ path: "one.code-check.ts", reason: "the check `one` threw", threw: true }]
+  const said = judgedOver(saying(["one"], found), over(["akasha/one.ts"]), 0)
+  expect(said.code).toBe(3)
+  expect(said.report[1]).toContain("1 check could not run")
+})
+
+test("a check that could not run is told apart from a check that refused", () => {
+  const found = [
+    { path: "akasha/one.ts", reason: "one thing" },
+    { path: "two.code-check.ts", reason: "the check `two` threw", threw: true },
+  ]
+  const said = judgedOver(saying(["one", "two"], found), over(["akasha/one.ts"]), 0)
+  expect(said.code).toBe(3)
+  expect(said.report[0]).toContain("2 refusals in all")
+  expect(said.report[1]).toContain("1 check could not run")
 })
 
 test("a run narrowed to some of the checks says it is not an audit", () => {

@@ -56,6 +56,15 @@ export const audit = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An audit a check could not run in is answered as operational rather than as the data's fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit says how many checks could not run.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What an audit finds is answered as the data's fault.",
     },
     {
