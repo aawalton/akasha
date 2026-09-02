@@ -14,8 +14,8 @@ export function listAddons(): AddonEntry[] {
   const count = mgr.GetNumAddOns()
   const out: AddonEntry[] = []
   for (let i = 1; i <= count; i++) {
-    const info = mgr.GetAddOnInfo(i)
-    out.push({ index: i, name: info[0], title: info[1], enabled: info[4], isLibrary: info[7] })
+    const [name, title, , , enabled, , , isLibrary] = mgr.GetAddOnInfo(i)
+    out.push({ index: i, name, title, enabled, isLibrary })
   }
   return out
 }
