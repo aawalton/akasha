@@ -100,6 +100,6 @@ test("what was found and what was looked for are both said, and finding nothing 
   const some = leftNamingSaid(["temper/one-held"], { namers: [NAMER], recorded: [RECORD] }, false)
   expect(some[0]).toContain("what went is still named by 1 tracked file left behind")
   expect(some[0]).toContain(NAMER)
-  expect(some[1]).toContain("1 finding names what went as a record")
+  expect(some[1]).toContain("what went is named as a record of what was so by 1 finding")
   expect(some[1]).toContain(RECORD)
 })

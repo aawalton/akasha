@@ -60,8 +60,9 @@ export function leftNamingSaid(
   ]
   if (found.recorded.length > 0) {
     said.push(
-      `${counted(found.recorded.length, "finding")} names what ${goes} as a record of what was ` +
-        `so, and a record is never repointed — ${found.recorded.join(", ")}`
+      `what ${goes} is named as a record of what was so by ` +
+        `${counted(found.recorded.length, "finding")}, and a record is never repointed — ` +
+        found.recorded.join(", ")
     )
   }
   said.push(NAMING_SPELLING)
