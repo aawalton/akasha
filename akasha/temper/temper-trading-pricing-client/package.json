@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/temper-trading-pricing-client",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./ttc-listing-client": "./ttc-listing-client/ttc-listing-client.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-trading-pricing": "workspace:*"
+  }
+}
