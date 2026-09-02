@@ -1,9 +1,9 @@
 import type { Finding } from "../finding.page-type.ts"
 
-export const aWrongPathFromThePhoneAnswers500RatherThan404 = {
+export const theTwoWrongPathPostsWereThisSeatsOwnProbes = {
   id: "01a06220-eb53-7000-8f8a-64435db74be5",
   pageTypeSlug: "finding",
-  slug: "a-wrong-path-from-the-phone-answers-500-rather-than-404",
+  slug: "the-two-wrong-path-posts-were-this-seats-own-probes",
   domainSlug: "domain/alan-harness",
   claim:
     "Two POSTs, to `/api/health-samples` and `/api/health`, answered 500 rather than 404, and neither came from Alan's app: build 200 forms one health URL and it is neither of them. The site's catch-all page route matches `api` as a page type and the rest as a page, so an unrouted path reads as a fault in the site rather than as a wrong address. Both instruments watching the health road read the resulting silence as an outage of an ingest route that had in fact never been reached.",
