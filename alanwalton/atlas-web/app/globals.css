@@ -7,5 +7,4 @@
 @source "../../../akasha/design/forms/**/*.{ts,tsx}";
 @source "../../../akasha/design/patterns/**/*.{ts,tsx}";
 @source "../../../akasha/design/primitives/**/*.{ts,tsx}";
-@source "../../../shared/pages-ui/src/**/*.{ts,tsx}";
 @source "../../../akasha/pages-system/pages-ui/**/*.{ts,tsx}";

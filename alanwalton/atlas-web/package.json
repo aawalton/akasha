@@ -39,7 +39,6 @@
     "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
-    "@shared/pages-ui": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",

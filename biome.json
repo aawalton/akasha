@@ -127,7 +127,9 @@
                   "@akasha/design-layout": "@akasha/design-layout is not allowed in @akasha/pages-core",
                   "@akasha/design-primitives": "@akasha/design-primitives is not allowed in @akasha/pages-core",
                   "@akasha/design-forms": "@akasha/design-forms is not allowed in @akasha/pages-core",
-                  "@shared/pages-ui": "@shared/pages-ui is not allowed in @akasha/pages-core"
+                  "@akasha/pages-ui": "@akasha/pages-ui is not allowed in @akasha/pages-core",
+                  "@akasha/pages-ui-components": "@akasha/pages-ui-components is not allowed in @akasha/pages-core",
+                  "@akasha/pages-ui-store": "@akasha/pages-ui-store is not allowed in @akasha/pages-core"
                 }
               }
             }

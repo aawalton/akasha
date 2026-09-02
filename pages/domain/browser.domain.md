@@ -21,7 +21,7 @@ A page's file is reached from a server, never from a browser.
 
 ## Directive Is Not The Boundary
 
-**Reach pages from browser code through `@shared/pages-ui`, with or without a `"use client"` line.**
+**Reach pages from browser code through `@akasha/pages-ui`, with or without a `"use client"` line.**
 
 That line is the gate's whole test, so a module without it reaches pages from the browser unchecked.
 

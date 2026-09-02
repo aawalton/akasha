@@ -28,9 +28,6 @@
       "path": "./infra/auth-proxy"
     },
     {
-      "path": "./shared/pages-ui/tsconfig.test.json"
-    },
-    {
       "path": "./alanwalton/web"
     },
     {

@@ -38,9 +38,6 @@
       "path": "../../infra/k8s-types"
     },
     {
-      "path": "../../shared/pages-ui"
-    },
-    {
       "path": "../../shared/utils-test"
     }
   ],
