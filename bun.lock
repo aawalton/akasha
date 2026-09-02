@@ -1898,6 +1898,8 @@
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages-system": "workspace:*",
+        "@akasha/temper-capture-errors": "workspace:*",
+        "@akasha/temper-errors-triage": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-process": "workspace:*",
         "@akasha/utils-run": "workspace:*",

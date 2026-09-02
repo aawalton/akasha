@@ -19,11 +19,14 @@
     "./watcher-runtime": "./watcher-runtime/watcher-runtime.module.code.ts",
     "./watcher-logging": "./watcher-logging/watcher-logging.module.code.ts",
     "./watcher-retry": "./watcher-retry/watcher-retry.module.code.ts",
-    "./watcher-stable-read": "./watcher-stable-read/watcher-stable-read.module.code.ts"
+    "./watcher-stable-read": "./watcher-stable-read/watcher-stable-read.module.code.ts",
+    "./watcher-error-emissions": "./watcher-error-emissions/watcher-error-emissions.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages-system": "workspace:*",
+    "@akasha/temper-capture-errors": "workspace:*",
+    "@akasha/temper-errors-triage": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-process": "workspace:*",
     "@akasha/utils-run": "workspace:*",
