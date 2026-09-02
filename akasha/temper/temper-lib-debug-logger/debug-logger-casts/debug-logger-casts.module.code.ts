@@ -1,9 +1,3 @@
-import type { Lib } from "../debug-logger-types/debug-logger-types.module.code.ts"
-
-export function asLib(value: unknown): Lib {
-  return value as Lib
-}
-
 export type GlobalTable = Record<string, unknown>
 
 export type LoggerTag = string

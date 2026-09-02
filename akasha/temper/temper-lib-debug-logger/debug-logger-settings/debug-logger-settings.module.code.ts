@@ -1,7 +1,7 @@
 import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
 import "../debug-logger-saved-variables/debug-logger-saved-variables.module.code.ts"
 
-import { INTERNAL, lib } from "../debug-logger-state/debug-logger-state.module.code.ts"
+import { INTERNAL, LIB } from "../debug-logger-state/debug-logger-state.module.code.ts"
 import type { Settings } from "../debug-logger-types/debug-logger-types.module.code.ts"
 
 const TAG_TEMPLATE = "[%s] %s"
@@ -12,13 +12,13 @@ function getChatProxy(): LibChatMessageInstance {
   if (held !== undefined) return held
   const made: LibChatMessageInstance =
     LibChatMessage !== undefined
-      ? LibChatMessage(lib.id, "LDL")
+      ? LibChatMessage(LIB.id, "LDL")
       : {
           Print(message: string): undefined {
-            CHAT_ROUTER.AddSystemMessage(string.format(TAG_TEMPLATE, lib.id, message))
+            CHAT_ROUTER.AddSystemMessage(string.format(TAG_TEMPLATE, LIB.id, message))
           },
           Printf(formatter: string, ...args: unknown[]): undefined {
-            const taggedFormatter = string.format(TAG_TEMPLATE, lib.id, formatter)
+            const taggedFormatter = string.format(TAG_TEMPLATE, LIB.id, formatter)
             CHAT_ROUTER.AddSystemMessage(string.format(taggedFormatter, ...args))
           },
         }
@@ -35,28 +35,28 @@ function handleSlashCommand(this: void, params: string): undefined {
 
   if (command === "stack") {
     if (arg === "on") {
-      lib.SetTraceLoggingEnabled(true)
+      LIB.SetTraceLoggingEnabled(true)
       proxy.Print("Enabled stack trace logging")
     } else if (arg === "off") {
-      lib.SetTraceLoggingEnabled(false)
+      LIB.SetTraceLoggingEnabled(false)
       proxy.Print("Disabled stack trace logging")
     } else {
-      const enabled = lib.IsTraceLoggingEnabled()
+      const enabled = LIB.IsTraceLoggingEnabled()
       proxy.Printf("Stack trace logging is currently %s", enabled ? "enabled" : "disabled")
     }
     handled = true
   } else if (command === "level") {
     const level = INTERNAL.STR_TO_LOG_LEVEL[arg]
     if (level !== undefined) {
-      lib.SetMinLogLevel(level)
+      LIB.SetMinLogLevel(level)
       proxy.Printf("Set log level to %s", INTERNAL.LOG_LEVEL_TO_STRING[level])
     } else {
-      const currentLevel = lib.GetMinLogLevel()
+      const currentLevel = LIB.GetMinLogLevel()
       proxy.Printf("Log level is currently set to %s", INTERNAL.LOG_LEVEL_TO_STRING[currentLevel])
     }
     handled = true
   } else if (command === "clear") {
-    lib.ClearLog()
+    LIB.ClearLog()
     proxy.Print("log was emptied")
     handled = true
   }

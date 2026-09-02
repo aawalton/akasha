@@ -6,7 +6,7 @@ import {
   CALLBACK_LOG_ADDED,
   CALLBACK_LOG_PRUNED,
 } from "../debug-logger-constants/debug-logger-constants.module.code.ts"
-import { INTERNAL, lib } from "../debug-logger-state/debug-logger-state.module.code.ts"
+import { INTERNAL, LIB } from "../debug-logger-state/debug-logger-state.module.code.ts"
 import type {
   LogEntry,
   LoggerConfig,
@@ -177,7 +177,7 @@ function logFallbackMessage(message: unknown): undefined {
     "-",
     1,
     INTERNAL.LOG_LEVEL_ERROR,
-    lib.id,
+    LIB.id,
     text,
   ]
   log[log.length] = entry

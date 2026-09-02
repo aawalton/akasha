@@ -1,7 +1,7 @@
 import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
 
 import { asPreHookFn } from "../debug-logger-casts/debug-logger-casts.module.code.ts"
-import { INTERNAL, lib } from "../debug-logger-state/debug-logger-state.module.code.ts"
+import { INTERNAL, LIB } from "../debug-logger-state/debug-logger-state.module.code.ts"
 
 declare const debug: { traceback: (this: void, message?: string, level?: number) => string }
 
@@ -9,8 +9,8 @@ function parseLuaCapture(captured: string | undefined): string | undefined {
   return captured
 }
 
-const LDL_LOGGER_CONFIG = { tag: lib.id }
-const LDL_LOGGER_PERF_CONFIG = { tag: `${lib.id}/PerformanceStats` }
+const LDL_LOGGER_CONFIG = { tag: LIB.id }
+const LDL_LOGGER_PERF_CONFIG = { tag: `${LIB.id}/PerformanceStats` }
 
 const UNKNOWN_STATE_STRING = "unknown state (%d)"
 const STATE_STRING: Record<number, string> = {
@@ -275,7 +275,7 @@ export function initStartup(): undefined {
   pcall(runStartupLogging)
 
   EVENT_MANAGER.RegisterForEvent(
-    lib.id,
+    LIB.id,
     EVENT_LUA_ERROR,
     function (this: void, _eventCode: number, errorString: string, errorCode: number): undefined {
       const timeSyncCodes = INTERNAL.TIME_SYNC_ERROR_CODE
@@ -309,7 +309,7 @@ export function initStartup(): undefined {
 
   let regularLoadingScreen = false
   EVENT_MANAGER.RegisterForEvent(
-    lib.id,
+    LIB.id,
     EVENT_PLAYER_ACTIVATED,
     function (this: void, _event: number, initial: boolean): undefined {
       let isInitial = initial
@@ -352,7 +352,7 @@ export function initStartup(): undefined {
   )
 
   EVENT_MANAGER.RegisterForEvent(
-    lib.id,
+    LIB.id,
     EVENT_PLAYER_DEACTIVATED,
     function (this: void): undefined {
       INTERNAL.settings.loadScreenStartTime =
@@ -364,7 +364,7 @@ export function initStartup(): undefined {
   )
 
   EVENT_MANAGER.RegisterForEvent(
-    lib.id,
+    LIB.id,
     EVENT_ADD_ON_LOADED,
     function (this: void, _event: number, name: string): undefined {
       INTERNAL.Log(
@@ -374,7 +374,7 @@ export function initStartup(): undefined {
       )
       ADD_ON_INFO[name] = undefined
 
-      if (name === lib.id) {
+      if (name === LIB.id) {
         INTERNAL.InitializeSettings()
         INTERNAL.InitializeLog()
 

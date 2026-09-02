@@ -1,7 +1,5 @@
 import "../debug-logger-declarations/debug-logger-declarations.module.code.ts"
 
-import { asLib } from "../debug-logger-casts/debug-logger-casts.module.code.ts"
-
 import {
   ENTRY_ERROR_CODE_INDEX,
   ENTRY_FORMATTED_TIME_INDEX,
@@ -97,8 +95,8 @@ export const INTERNAL: InternalState = {
   InitializeLog: noop,
 }
 
-export const lib: Lib = asLib({
+export const LIB: Lib = {
   id: LIB_IDENTIFIER,
   internal: INTERNAL,
   callback: {},
-})
+} as Lib
