@@ -1,13 +1,17 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { classes } from "@akasha/temper-classes/character-class"
 import {
-  getSkillLineIdsForClass,
-  skillLines,
-} from "@akasha/temper-skill-lines/skill-lines"
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+  withActivityCategories,
+} from "@akasha/temper-player-completion-ui/completion-panel-card"
+import { getSkillLineIdsForClass, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
-import type { SubclassingSkillLineProgressResult } from "@temper/player-completion/completion-subclassing-progress"
-import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"
 import type { AccountCardId } from "@temper/player-completion/completion-card-registry"
+import type { SubclassingSkillLineProgressResult } from "@temper/player-completion/completion-subclassing-progress"
 
 interface SubclassingSkillLinesPanelCardProps {
   id?: AccountCardId
