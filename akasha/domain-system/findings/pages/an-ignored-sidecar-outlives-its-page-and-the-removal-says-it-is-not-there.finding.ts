@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const anIgnoredSidecarOutlivesItsPageAndTheRemovalSaysItIsNotThere = {
+  id: "01a0644a-d9a5-7000-a30b-957ee209db95",
+  pageTypeSlug: "finding",
+  slug: "an-ignored-sidecar-outlives-its-page-and-the-removal-says-it-is-not-there",
+  domainSlug: "workspace-package/command-system",
+  claim:
+    "`akasha edit --remove` and `akasha write --remove` ask whether a path is there by the body the commit holds at it. A git-ignored sidecar is in no commit, so it always answers as not there: it is dropped when its page goes, and naming it directly is refused. The page goes and the sidecar keeps a page's uncommitted values under no page. `akasha remove` asks the disk instead and takes the same file.",
+  evidence:
+    "`removingIn` at akasha/command-system/commands/write/write.command.code.ts:211-241 tests a named path by `bodyAt(given.root, base, path) === null` at line 233 and refuses at 234. `bodyAt` answers the body a commit holds; a path the commit does not carry answers as nothing. `besideTaken` at 243-257 does find the sidecar — `besideAll` reads the folder and matches `<stem>.uncommitted.ts` (page-beside.module.code.ts:8-21) — then drops it at 252 by that same test. So the help's promise that the files beside a `--remove` path go with it holds only for files the commit carries.\n\nMeasured. With `akasha/seat-system/seats/pages/ember.seat.uncommitted.ts` on disk, `akasha edit --remove` of that path answered `--remove ... is not there, so the removal would take nothing away`. `akasha remove --file-path` of the same path answered `would be taken away`, since `openedIn` asks the disk at remove.command.code.ts:134 and landing.module.code.ts:126-127 unlinks with `rmSync`.\n\nScale. 82 `*.uncommitted.*` files sit under `akasha/`, and five sit beside no page: `ember.seat`, `eppie.seat`, and the patch sidecars of subagents `amy-a64d5bd7abca98e78`, `amy-af64e91c0e3740232` and `athena-a699e86303fe358f6`. A seeded orphan and a seeded pair each sorted right, so the five is no blind count.\n\nCost. `uncommittedIn` at page-uncommitted.module.code.ts:115-129 stats the sidecar alone and answers null where it is absent, never asking whether the page is there, so a sidecar under no page is input it cannot report. `next-at` is uncommitted at reminder.page-type.ts:37, so a page written again under a freed slug reads as armed already.\n\nNothing tells anyone an ignored sidecar outlived its page.",
+} as const satisfies Finding
