@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import type { Carried } from "@akasha/pages-system/page-type-properties"
-import { besideItsPage, foldedFor, orderedIn, pathFor } from "./page-composing.module.code.ts"
+import {
+  besideItsPage,
+  foldedFor,
+  folderFor,
+  orderedIn,
+  pathFor,
+} from "./page-composing.module.code.ts"
 
 const ROOT = join(import.meta.dir, "..", "..", "..", "..")
 
@@ -21,12 +27,12 @@ const A_DEVICE_TOKEN = {
 }
 
 const A_DAY = {
-  pageTypeSlug: "daily-tracking",
-  slug: "day-1970-01-01",
+  pageTypeSlug: "wake-day",
+  slug: "wake-day-1970-01-01",
   values: {
     id: "01a06100-0000-7000-8000-000000000001",
-    pageTypeSlug: "daily-tracking",
-    slug: "day-1970-01-01",
+    pageTypeSlug: "wake-day",
+    slug: "wake-day-1970-01-01",
     title: "1970-01-01",
     date: "1970-01-01",
   },
@@ -85,19 +91,19 @@ test("a page carrying files beside it takes a folder of its own under the plural
 })
 
 test("a type declaring a property held in a file carries files beside its page", () => {
-  const carried = [carrying("slug", "page"), carrying("sessions", "daily-tracking")]
+  const carried = [carrying("slug", "page"), carrying("sessions", "wake-day")]
   expect(besideItsPage(ROOT, carried)).toBe(true)
 })
 
 test("a type declaring no property held in a file carries none", () => {
-  const carried = [carrying("slug", "page"), carrying("date", "daily-tracking")]
+  const carried = [carrying("slug", "page"), carrying("date", "wake-day")]
   expect(besideItsPage(ROOT, carried)).toBe(false)
 })
 
 test("a new day is placed in a folder of its own under the plural", () => {
   const said = foldedFor(ROOT, [A_DAY])
   expect("puts" in said && said.puts[0]?.path).toBe(
-    "akasha/alan/wake-day/daily-trackings/day-1970-01-01/day-1970-01-01.wake-day.ts"
+    "akasha/alan/tracking/daily/wake-days/pages/1970-01-01/wake-day-1970-01-01.wake-day.ts"
   )
 })
 
@@ -152,4 +158,14 @@ test("a page the index does not hold is composed carrying no identity", () => {
     "akasha/role-system/roles/pages/held-one.role.ts"
   )
   expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
+})
+
+test("a folder of a page's own drops the name above it from the front of the slug", () => {
+  expect(folderFor("wake-days", "wake-day", "wake-day-1970-01-01")).toBe("1970-01-01")
+  expect(folderFor("eso-days", "eso-day", "eso-day-1970-01-01")).toBe("1970-01-01")
+})
+
+test("a slug the name above it does not open is the folder whole", () => {
+  expect(folderFor("seats", "seat", "one")).toBe("one")
+  expect(folderFor("seats", "seat", "seat-")).toBe("seat-")
 })

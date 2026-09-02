@@ -47,6 +47,17 @@ export function besideItsPage(root: string, carried: readonly Carried[]): boolea
   return carried.some((one) => filed.has(one.propertySlug))
 }
 
+export function folderFor(plural: string, pageTypeSlug: string, slug: string): string {
+  for (const above of [plural, pageTypeSlug]) {
+    if (above === "") continue
+    const opening = `${above}-`
+    if (slug.startsWith(opening) && slug.length > opening.length) {
+      return slug.slice(opening.length)
+    }
+  }
+  return slug
+}
+
 export function pathFor(
   typeAt: string,
   plural: string,
@@ -57,7 +68,7 @@ export function pathFor(
   const above = typeAt.split("/").slice(0, -1)
   const folder = above.join("/")
   const under = above.at(-1) === plural ? PAGES : plural
-  const own = besideIt ? `/${slug}` : ""
+  const own = besideIt ? `/${folderFor(plural, pageTypeSlug, slug)}` : ""
   return `${folder}/${under}${own}/${slug}.${pageTypeSlug}.ts`
 }
 

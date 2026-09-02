@@ -73,6 +73,11 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "That folder is the page's slug with the name above the folder taken off the front.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which properties are held in a file is read from the index.",
     },
     {
