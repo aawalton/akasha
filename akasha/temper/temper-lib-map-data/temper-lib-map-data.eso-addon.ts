@@ -7,7 +7,21 @@ export const temperLibMapData = {
   definition: "which map, zone and floor the player is on, and where that falls on Tamriel",
   manifest: "json",
   addonManifest: "json",
-  partSlugs: ["module/map-data-constants", "module/map-data-types", "module/map-data-casts"],
+  partSlugs: [
+    "module/map-data-constants",
+    "module/map-data-types",
+    "module/map-data-casts",
+    "module/map-data-zones-00",
+    "module/map-data-zones-01",
+    "module/map-data-zones-02",
+    "module/map-data-index-00",
+    "module/map-data-index-01",
+    "module/map-data-index-02",
+    "module/map-data-index-03",
+    "module/map-data-index",
+    "module/map-data-table",
+    "module/map-data-pseudo-indices",
+  ],
   invariants: [
     {
       invariantKind: "departure",
