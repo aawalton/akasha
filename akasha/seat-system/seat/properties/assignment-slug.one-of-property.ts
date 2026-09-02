@@ -28,5 +28,9 @@ export const assignmentSlug = {
       invariantKind: "departure",
       statement: "A misspelled assignment is refused rather than kept as text.",
     },
+    {
+      invariantKind: "stopgap",
+      statement: "A subagent may name an assignment that is no page.",
+    },
   ],
 } as const satisfies OneOfProperty
