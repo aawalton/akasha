@@ -1,6 +1,6 @@
 "use client"
 
-import type { CategoryRule, ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import type { CategoryRule, ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { useMemo } from "react"
 import {
   getCategoryRuleDescriptions,
