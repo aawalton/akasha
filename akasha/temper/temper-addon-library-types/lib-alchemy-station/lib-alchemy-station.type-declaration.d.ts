@@ -14,5 +14,3 @@ interface LibAlchemyStationLib {
   GetSelectedTab: () => string
   SelectTab: (descriptor: string) => undefined
 }
-
-declare const LibAlchemyStation: LibAlchemyStationLib

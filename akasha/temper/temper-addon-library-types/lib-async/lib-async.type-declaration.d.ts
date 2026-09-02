@@ -12,5 +12,3 @@ interface LibAsyncLib {
   Create: (name: string) => AsyncTask
   For: (startIndex: number, endIndex: number) => AsyncTask
 }
-
-declare const LibAsync: LibAsyncLib

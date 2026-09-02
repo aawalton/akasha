@@ -30,7 +30,7 @@ const DICT_CHAR_ERROR = "Invalid char encountered. Expected array control char: 
 
 DECODE_DATA_HANDLER.Initialize = function (
   this: DecodeInstance,
-  encodedData: string[],
+  encodedData: readonly string[],
   globalDict?: LdeValue[]
 ): undefined {
   if (RUNTIME.debug && RUNTIME.testresult !== undefined) {
@@ -226,11 +226,11 @@ DECODE_DATA_HANDLER.DecodeNumeric = function (this: DecodeInstance): number | un
   return tonumber(this.GetEncodedItem())
 }
 
-export function decode(
+export function decode<T = unknown>(
   this: void,
-  encodedData: string[],
+  encodedData: readonly string[],
   globalDict?: LdeValue[]
-): LuaMultiReturn<[unknown, LdeValue[]]> {
+): LuaMultiReturn<[T, LdeValue[]]> {
   const decoded = DECODE_DATA_HANDLER.New(encodedData, globalDict)
-  return $multi(decoded.data, decoded.dictionary)
+  return $multi(decoded.data as T, decoded.dictionary)
 }

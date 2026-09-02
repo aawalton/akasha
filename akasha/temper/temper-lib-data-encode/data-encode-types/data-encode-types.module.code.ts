@@ -102,14 +102,18 @@ export interface EncodeClass {
 }
 
 export interface DecodeInstance {
-  encodedStrings: string[]
+  encodedStrings: readonly string[]
   currentStringIndex: number
   currentStringPos: number
   currentString: string | undefined
   currentStringLength: number | undefined
   dictionary: LdeValue[]
   data: unknown
-  Initialize: (this: DecodeInstance, encodedData: string[], globalDict?: LdeValue[]) => void
+  Initialize: (
+    this: DecodeInstance,
+    encodedData: readonly string[],
+    globalDict?: LdeValue[]
+  ) => void
   InitDictionary: (this: DecodeInstance, globalDict?: LdeValue[]) => void
   GetCurrentString: (this: DecodeInstance) => string | undefined
   GetNextChar: (this: DecodeInstance, noPosIncrement?: boolean) => string
@@ -129,8 +133,16 @@ export interface DecodeInstance {
 
 export interface DecodeClass {
   Subclass: (this: DecodeClass) => DecodeClass
-  New: (this: DecodeClass, encodedData: string[], globalDict?: LdeValue[]) => DecodeInstance
-  Initialize: (this: DecodeInstance, encodedData: string[], globalDict?: LdeValue[]) => void
+  New: (
+    this: DecodeClass,
+    encodedData: readonly string[],
+    globalDict?: LdeValue[]
+  ) => DecodeInstance
+  Initialize: (
+    this: DecodeInstance,
+    encodedData: readonly string[],
+    globalDict?: LdeValue[]
+  ) => void
   InitDictionary: (this: DecodeInstance, globalDict?: LdeValue[]) => void
   GetCurrentString: (this: DecodeInstance) => string | undefined
   GetNextChar: (this: DecodeInstance, noPosIncrement?: boolean) => string
@@ -165,11 +177,11 @@ export interface LibSurface {
     localDict?: LdeValue[] | true,
     globalDict?: LdeValue[]
   ) => string[]
-  Decode: (
+  Decode: <T = unknown>(
     this: void,
-    encodedData: string[],
+    encodedData: readonly string[],
     globalDict?: LdeValue[]
-  ) => LuaMultiReturn<[unknown, LdeValue[]]>
+  ) => LuaMultiReturn<[T, LdeValue[]]>
   MakeDictionary: (this: void, data: unknown, globalDictionary?: LdeValue[]) => LdeValue[]
   PerformTest: (
     this: void,
