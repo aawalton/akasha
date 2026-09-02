@@ -1,6 +1,6 @@
 import { requireMatchPositional } from "@akasha/utils-narrow/require-match-positional"
 import { z } from "zod"
-import { encodeObjectStoreKey } from "../object-store-key/object-store-key.module.code.ts"
+import { encodeObjectStoreKey } from "../key/object-store-key.module.code.ts"
 import { signS3Request } from "../s3-signing/s3-signing.module.code.ts"
 import type { SeaweedFSConfig } from "../seaweedfs-config/seaweedfs-config.module.code.ts"
 

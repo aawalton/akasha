@@ -210,7 +210,7 @@
         "@akasha/digit-padding": "workspace:*",
       },
     },
-    "akasha/design/design-badges": {
+    "akasha/design/badges": {
       "name": "@akasha/design-badges",
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
@@ -223,7 +223,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/design/design-forms": {
+    "akasha/design/forms": {
       "name": "@akasha/design-forms",
       "dependencies": {
         "@akasha/day": "workspace:*",
@@ -241,7 +241,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/design/design-layout": {
+    "akasha/design/layout": {
       "name": "@akasha/design-layout",
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
@@ -255,7 +255,7 @@
         "react-dom": "^18 || ^19",
       },
     },
-    "akasha/design/design-patterns": {
+    "akasha/design/patterns": {
       "name": "@akasha/design-patterns",
       "dependencies": {
         "@akasha/design-badges": "workspace:*",
@@ -277,7 +277,7 @@
         "react": "^18 || ^19",
       },
     },
-    "akasha/design/design-primitives": {
+    "akasha/design/primitives": {
       "name": "@akasha/design-primitives",
       "dependencies": {
         "class-variance-authority": "^0.7.1",
@@ -318,7 +318,7 @@
         "react-dom": "^18 || ^19",
       },
     },
-    "akasha/design/design-system": {
+    "akasha/design/system": {
       "name": "@akasha/design-system",
       "dependencies": {
         "@akasha/design-badges": "workspace:*",
@@ -338,7 +338,7 @@
         "tailwindcss": "^4.0",
       },
     },
-    "akasha/design/design-tokens": {
+    "akasha/design/tokens": {
       "name": "@akasha/design-tokens",
     },
     "akasha/digit-padding": {
@@ -3508,19 +3508,19 @@
 
     "@akasha/day": ["@akasha/day@workspace:akasha/day"],
 
-    "@akasha/design-badges": ["@akasha/design-badges@workspace:akasha/design/design-badges"],
+    "@akasha/design-badges": ["@akasha/design-badges@workspace:akasha/design/badges"],
 
-    "@akasha/design-forms": ["@akasha/design-forms@workspace:akasha/design/design-forms"],
+    "@akasha/design-forms": ["@akasha/design-forms@workspace:akasha/design/forms"],
 
-    "@akasha/design-layout": ["@akasha/design-layout@workspace:akasha/design/design-layout"],
+    "@akasha/design-layout": ["@akasha/design-layout@workspace:akasha/design/layout"],
 
-    "@akasha/design-patterns": ["@akasha/design-patterns@workspace:akasha/design/design-patterns"],
+    "@akasha/design-patterns": ["@akasha/design-patterns@workspace:akasha/design/patterns"],
 
-    "@akasha/design-primitives": ["@akasha/design-primitives@workspace:akasha/design/design-primitives"],
+    "@akasha/design-primitives": ["@akasha/design-primitives@workspace:akasha/design/primitives"],
 
-    "@akasha/design-system": ["@akasha/design-system@workspace:akasha/design/design-system"],
+    "@akasha/design-system": ["@akasha/design-system@workspace:akasha/design/system"],
 
-    "@akasha/design-tokens": ["@akasha/design-tokens@workspace:akasha/design/design-tokens"],
+    "@akasha/design-tokens": ["@akasha/design-tokens@workspace:akasha/design/tokens"],
 
     "@akasha/digit-padding": ["@akasha/digit-padding@workspace:akasha/digit-padding"],
 

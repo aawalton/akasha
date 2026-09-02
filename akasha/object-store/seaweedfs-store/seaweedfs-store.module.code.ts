@@ -1,4 +1,4 @@
-import { encodeObjectStoreKey } from "../object-store-key/object-store-key.module.code.ts"
+import { encodeObjectStoreKey } from "../key/object-store-key.module.code.ts"
 import {
   MULTIPART_THRESHOLD_BYTES,
   s3PutObjectMultipart,

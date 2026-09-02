@@ -1,11 +1,11 @@
 @import "tailwindcss";
 @import "@akasha/design-system/styles.css";
 
-@source "../../../akasha/design/design-system/**/*.{ts,tsx}";
-@source "../../../akasha/design/design-badges/**/*.{ts,tsx}";
-@source "../../../akasha/design/design-layout/**/*.{ts,tsx}";
-@source "../../../akasha/design/design-forms/**/*.{ts,tsx}";
-@source "../../../akasha/design/design-patterns/**/*.{ts,tsx}";
-@source "../../../akasha/design/design-primitives/**/*.{ts,tsx}";
+@source "../../../akasha/design/system/**/*.{ts,tsx}";
+@source "../../../akasha/design/badges/**/*.{ts,tsx}";
+@source "../../../akasha/design/layout/**/*.{ts,tsx}";
+@source "../../../akasha/design/forms/**/*.{ts,tsx}";
+@source "../../../akasha/design/patterns/**/*.{ts,tsx}";
+@source "../../../akasha/design/primitives/**/*.{ts,tsx}";
 @source "../../../shared/pages-ui/src/**/*.{ts,tsx}";
 @source "../../../akasha/pages-system/pages-ui/**/*.{ts,tsx}";

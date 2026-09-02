@@ -6,7 +6,7 @@
         "**/*.ts"
       ]
     },
-    "akasha/design/design-layout": {
+    "akasha/design/layout": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

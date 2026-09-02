@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./object-store-key": "./object-store-key/object-store-key.module.code.ts",
+    "./object-store-key": "./key/object-store-key.module.code.ts",
     "./seaweedfs-store": "./seaweedfs-store/seaweedfs-store.module.code.ts"
   },
   "dependencies": {

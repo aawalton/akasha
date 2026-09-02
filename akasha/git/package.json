@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./git-running": "./git-running/git-running.module.code.ts"
+    "./git-running": "./running/git-running.module.code.ts"
   }
 }

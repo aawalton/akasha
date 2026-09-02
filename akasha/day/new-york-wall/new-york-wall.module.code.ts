@@ -1,4 +1,4 @@
-import { pad2 } from "../day-string/day-string.module.code.ts"
+import { pad2 } from "../string/day-string.module.code.ts"
 import { nyOffsetMs } from "../us-zone-offset/us-zone-offset.module.code.ts"
 
 export function nyWallToInstant(dayStr: string, hh: number, mm: number): Date {

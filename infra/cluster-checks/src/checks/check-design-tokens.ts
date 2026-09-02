@@ -1,11 +1,14 @@
 #!/usr/bin/env bun
 
-import { refuseRetired } from "../lib/retired.ts"
-
 import { readdirSync, readFileSync } from "node:fs"
 import * as semanticTokens from "@akasha/design-tokens/semantic-color"
 import * as surfaceTokens from "@akasha/design-tokens/surface-color"
 import * as textTokens from "@akasha/design-tokens/text-color"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
+import {
+  exitOnResult,
+  exitOnToolError,
+} from "../../../../tools/lib/check-workflow/violation-reporter"
 import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"
 import {
   type ColorToken,
@@ -20,26 +23,22 @@ import {
   type Rgb,
   type TokenSpec,
 } from "../lib/design-token-parity.ts"
-import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+import { refuseRetired } from "../lib/retired.ts"
 
 if (import.meta.main) refuseRetired()
 
 const PREFIX = "[design-tokens]"
 
-const TOKENS_CSS_REL = "akasha/design/design-system/token-values/token-values.stylesheet.styles.css"
-const TOKENS_PKG_REL = "akasha/design/design-tokens"
+const TOKENS_CSS_REL = "akasha/design/system/token-values/token-values.stylesheet.styles.css"
+const TOKENS_PKG_REL = "akasha/design/tokens"
 
 const READ_MODULES: readonly string[] = ["surface-color", "semantic-color", "text-color"]
 
 // Under akasha's flat layout a module is a folder holding <slug>.module.ts beside
 // <slug>.module.code.ts, so the package root holds one folder per module plus its own
 // page and manifest. Anything else there is a colour this check does not compare.
-const PACKAGE_ROOT_FILES: readonly string[] = [
-  "package.json",
-  "design-tokens.workspace-package.ts",
-]
+const PACKAGE_ROOT_FILES: readonly string[] = ["package.json", "design-tokens.workspace-package.ts"]
 
 function moduleCodeRel(slug: string): string {
   return `${TOKENS_PKG_REL}/${slug}/${slug}.module.code.ts`
@@ -149,9 +148,7 @@ function main(): undefined {
   let exported: readonly ExportedColor[]
   let vars: ReadonlyMap<string, Oklch>
   try {
-    specs = MODULE_MAPS.flatMap((entry) =>
-      specsOf(entry.sourceRel, entry.cssVarOf, entry.module)
-    )
+    specs = MODULE_MAPS.flatMap((entry) => specsOf(entry.sourceRel, entry.cssVarOf, entry.module))
     exported = MODULE_MAPS.flatMap((entry) =>
       Object.entries(entry.module)
         .filter(([, value]) => isRgb(value))

@@ -5,9 +5,9 @@
   "exports": {
     "./chat-db": "./chat-db/chat-db.module.code.ts",
     "./contacts-db": "./contacts-db/contacts-db.module.code.ts",
-    "./host": "./imessage-host/imessage-host.module.code.ts",
-    "./remote": "./imessage-remote/imessage-remote.module.code.ts",
-    "./send": "./imessage-send/imessage-send.module.code.ts"
+    "./host": "./host/imessage-host.module.code.ts",
+    "./remote": "./remote/imessage-remote.module.code.ts",
+    "./send": "./send/imessage-send.module.code.ts"
   },
   "dependencies": {
     "@akasha/digit-padding": "workspace:*",

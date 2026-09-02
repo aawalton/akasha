@@ -1,4 +1,4 @@
-import { dayAfter, dayStrOf, MS_PER_DAY, NOON } from "../day-string/day-string.module.code.ts"
+import { dayAfter, dayStrOf, MS_PER_DAY, NOON } from "../string/day-string.module.code.ts"
 import { nyOffsetMs } from "../us-zone-offset/us-zone-offset.module.code.ts"
 
 export function getEsoResetTime(now: Date): Date {

@@ -1,4 +1,4 @@
-import { dayStrOf, MS_PER_DAY } from "../day-string/day-string.module.code.ts"
+import { dayStrOf, MS_PER_DAY } from "../string/day-string.module.code.ts"
 import { denverOffsetMs } from "../us-zone-offset/us-zone-offset.module.code.ts"
 
 export function getDenverDayEnd(now: Date): Date {
