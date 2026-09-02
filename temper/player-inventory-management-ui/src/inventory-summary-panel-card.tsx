@@ -1,7 +1,7 @@
 "use client"
 
-import type { InventoryTypeSummary } from "@temper/game-items-core/inventory-grouping-types"
-import type { InventoryNode } from "@temper/game-items-core/inventory-node-types"
+import type { InventoryTypeSummary } from "@akasha/temper-items-core/inventory-grouping-types"
+import type { InventoryNode } from "@akasha/temper-items-core/inventory-node-types"
 import { InventoryPanelCard } from "./inventory-panel-card"
 
 interface InventoryTypeSummaryPanelCardProps {
