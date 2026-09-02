@@ -1,5 +1,3 @@
-import "../async-declarations/async-declarations.module.code.ts"
-
 import { asTaskInstance } from "../async-casts/async-casts.module.code.ts"
 import { JOBS, lib, S } from "../async-state/async-state.module.code.ts"
 import type { FuncOfTask, TaskClass, TaskInstance } from "../async-types/async-types.module.code.ts"

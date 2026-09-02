@@ -1,5 +1,3 @@
-import "../async-declarations/async-declarations.module.code.ts"
-
 import type {
   AsyncLib,
   AsyncSavedVarsTable,

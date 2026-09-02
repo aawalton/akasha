@@ -1,5 +1,3 @@
-import "../async-declarations/async-declarations.module.code.ts"
-
 import { asNumber } from "../async-casts/async-casts.module.code.ts"
 import { luaTruthy } from "../async-lua-truthy/async-lua-truthy.module.code.ts"
 import { taskProto } from "../async-task-class/async-task-class.module.code.ts"

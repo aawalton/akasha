@@ -1,5 +1,3 @@
-import "../async-declarations/async-declarations.module.code.ts"
-
 import { INIT_DELAY_MS, MAJOR } from "../async-constants/async-constants.module.code.ts"
 import { initSavedVar } from "../async-saved-vars/async-saved-vars.module.code.ts"
 import { doMeasure } from "../async-scheduler/async-scheduler.module.code.ts"

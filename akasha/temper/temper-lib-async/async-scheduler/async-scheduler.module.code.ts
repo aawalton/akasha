@@ -1,5 +1,3 @@
-import "../async-declarations/async-declarations.module.code.ts"
-
 import { asFuncOfTask, asString, asTaskInstance } from "../async-casts/async-casts.module.code.ts"
 import {
   DEBUG_FREEZE_THRESHOLD_MS,

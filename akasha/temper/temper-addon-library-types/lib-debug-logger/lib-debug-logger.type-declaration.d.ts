@@ -7,6 +7,8 @@ interface DebugLogger {
 }
 
 interface LibDebugLogger {
+  (this: void, tag: string): DebugLogger
+
   Create: (tag: string) => DebugLogger
 }
 

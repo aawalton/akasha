@@ -1,5 +1,3 @@
-import "../async-declarations/async-declarations.module.code.ts"
-
 export type FuncOfTask = (this: void, task: TaskInstance) => unknown
 
 export type LoopBodyFunc = (this: void, ...args: unknown[]) => unknown

@@ -1,5 +1,3 @@
-import "../async-declarations/async-declarations.module.code.ts"
-
 import { asGlobalTable, asNumber, asString } from "../async-casts/async-casts.module.code.ts"
 import {
   ASYNC_DEFAULT_STALL_THRESHOLD,

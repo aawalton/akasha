@@ -1,5 +1,3 @@
-import "../async-declarations/async-declarations.module.code.ts"
-
 import { MIN_DELAY_FOR_ASYNC } from "../async-constants/async-constants.module.code.ts"
 import { luaTruthy } from "../async-lua-truthy/async-lua-truthy.module.code.ts"
 import { EM } from "../async-state/async-state.module.code.ts"

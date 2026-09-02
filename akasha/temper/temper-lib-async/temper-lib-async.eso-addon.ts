@@ -8,7 +8,6 @@ export const temperLibAsync = {
   manifest: "json",
   addonManifest: "json",
   partSlugs: [
-    "module/async-declarations",
     "module/async-constants",
     "module/async-types",
     "module/async-casts",
