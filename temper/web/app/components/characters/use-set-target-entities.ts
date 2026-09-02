@@ -1,5 +1,6 @@
 "use client"
 
+import { decodeBuild, encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import {
   applyCharacterMetadata,
   extractCharacterMetadata,
@@ -14,7 +15,6 @@ import {
   useCharacterLifecycle,
   useCharacterList,
 } from "@temper/game-characters-character-ui/use-characters"
-import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-codec"
 import { useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
 import { useMemo, useState, useTransition } from "react"
