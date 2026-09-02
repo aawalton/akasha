@@ -80,6 +80,14 @@ export async function loadedDocumentPathsIn(dir: string): Promise<ReadonlyMap<st
   return answer
 }
 
+export async function namedFilePathOrNull(dir: string, one: string): Promise<string | null> {
+  const beside = join(dir, one)
+  if (existsSync(beside)) return beside
+  const underGame = join(dir, GAME_METADATA_DIR, one)
+  if (existsSync(underGame)) return underGame
+  return (await loadedDocumentPathsIn(dir)).get(one) ?? null
+}
+
 export async function namedFilePathsIn(
   dir: string,
   named: readonly string[]
