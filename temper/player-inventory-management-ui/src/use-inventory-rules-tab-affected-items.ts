@@ -1,5 +1,6 @@
 "use client"
 
+import type { ManagementPlan } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
 import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
 import { compileCategoryRuleToOrdered } from "@temper/game-items-rules-core/inventory-rule-compiler"
@@ -14,10 +15,12 @@ import {
 } from "@temper/game-items-rules-core/inventory-rule-types"
 import type { RuleMatcherContext } from "@temper/game-items-rules-core/rule-matcher-context-types"
 import { computeAllRuleAffectedItems } from "@temper/game-items-rules-matcher/inventory-rule-matcher"
-import { type AllRuleAffectedItemsCache, createAllRuleAffectedItemsCache } from "@temper/game-items-rules-matcher/inventory-rule-matcher-cache"
+import {
+  type AllRuleAffectedItemsCache,
+  createAllRuleAffectedItemsCache,
+} from "@temper/game-items-rules-matcher/inventory-rule-matcher-cache"
 import { buildManagementPlan } from "@temper/game-items-rules-routing/inventory-management-plan"
 import { applyDestinationCapacityFilter } from "@temper/game-items-rules-routing/inventory-management-plan-capacity-filter"
-import type { ManagementPlan } from "@temper/game-items-rules-routing-core/inventory-management-plan-types"
 import { useMemo, useRef } from "react"
 
 export interface InventoryRulesTabAffectedItems {
