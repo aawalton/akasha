@@ -286,7 +286,7 @@ export function tokenLanded(
   inStrings: boolean
 ): Answer {
   const every = everyPath(root).filter(compiled)
-  const reached = reachingInto(root, [one.path], [IMPORT], shadowAt(root).index, compiled)
+  const reached = reachingInto([one.path], [IMPORT], shadowAt(root).index, compiled)
   const made = bindingFor(
     root,
     { typed: reached, every, inStrings },

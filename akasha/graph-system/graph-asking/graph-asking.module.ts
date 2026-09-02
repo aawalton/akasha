@@ -32,8 +32,17 @@ export const graphAsking = {
         "A module a page type names as its loader is reached from every page of that type.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A page body an answer rests on is read through the index handed in rather than off the working tree.",
+    },
+    {
       invariantKind: "absence",
       statement: "The folder an index stands in is spelled by the indexes rather than here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The repository holding the pages is never named here.",
     },
   ],
 } as const satisfies Module

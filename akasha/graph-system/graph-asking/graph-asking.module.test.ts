@@ -66,13 +66,13 @@ function indexOf(root: string): Answering {
 }
 
 test("an empty kind list answers nothing", () => {
-  expect(edgesInto(REPO_AT, NAMED, [], indexOf(REPO_AT))).toEqual([])
+  expect(edgesInto(NAMED, [], indexOf(REPO_AT))).toEqual([])
 })
 
 test("the folder a relation is read from is the one the edge kind's index page names", () => {
   const root = relationWorld(1)
 
-  expect(edgesInto(root, TARGET_AT, [RELATION], indexOf(root))).toEqual([
+  expect(edgesInto(TARGET_AT, [RELATION], indexOf(root))).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
 })
@@ -80,7 +80,7 @@ test("the folder a relation is read from is the one the edge kind's index page n
 test("a file is answered with every file importing it, and each says the index knew it", () => {
   const root = importWorld(IMPORT)
 
-  expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
+  expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
     { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: AT_INDEX } },
   ])
 })
@@ -88,7 +88,7 @@ test("a file is answered with every file importing it, and each says the index k
 test("a sidecar is answered with what names the page whose file it is, and names that page", () => {
   const root = relationWorld(1)
 
-  expect(edgesInto(root, SIDECAR_AT, [RELATION], indexOf(root))).toEqual([
+  expect(edgesInto(SIDECAR_AT, [RELATION], indexOf(root))).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
 })
@@ -96,7 +96,7 @@ test("a sidecar is answered with what names the page whose file it is, and names
 test("a leaf holding one path twice is answered with one edge rather than two", () => {
   const root = relationWorld(2)
 
-  expect(edgesInto(root, TARGET_AT, [RELATION], indexOf(root))).toEqual([
+  expect(edgesInto(TARGET_AT, [RELATION], indexOf(root))).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
 })
@@ -105,22 +105,20 @@ test("an index the answer needs, gone, is answered with nothing rather than refu
   const withEdge = relationWorld(1)
   const gone = relationWorld(0)
 
-  expect(edgesInto(withEdge, TARGET_AT, [RELATION], indexOf(withEdge))).toEqual([
+  expect(edgesInto(TARGET_AT, [RELATION], indexOf(withEdge))).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
-  expect(edgesInto(gone, TARGET_AT, [RELATION], indexOf(gone))).toEqual([])
+  expect(edgesInto(TARGET_AT, [RELATION], indexOf(gone))).toEqual([])
 })
 
 test("a kind no edge page carries is refused rather than answered with nothing", () => {
   const root = relationWorld(1)
 
-  expect(() => edgesInto(root, TARGET_AT, [HELD], indexOf(root))).toThrow(
-    /`held`.*could not be answered/
-  )
+  expect(() => edgesInto(TARGET_AT, [HELD], indexOf(root))).toThrow(/`held`.*could not be answered/)
 })
 
 test("a page the index names is answered with every page naming it, and through what", () => {
-  const found = edgesInto(REPO_AT, NAMED, [RELATION], indexOf(REPO_AT))
+  const found = edgesInto(NAMED, [RELATION], indexOf(REPO_AT))
 
   expect(found.length).toBeGreaterThan(0)
   expect(found.every((one) => one.kind === RELATION && one.to === NAMED)).toBe(true)
@@ -136,7 +134,7 @@ test("a page the index names is answered with every page naming it, and through 
 test("a page is answered with what imports it and never with the code that loads it", () => {
   const root = loadingWorld(`${MODULE}/${HELD_LOADER}`)
 
-  expect(edgesInto(root, LOADED_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
+  expect(edgesInto(LOADED_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
     { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: AT_INDEX } },
   ])
 })
@@ -144,15 +142,15 @@ test("a page is answered with what imports it and never with the code that loads
 test("a file beside a page is answered with nothing where nothing imports it", () => {
   const root = loadingWorld(`${MODULE}/${HELD_LOADER}`)
 
-  expect(edgesInto(root, LOADED_CODE_AT, [IMPORT_EDGE], indexOf(root))).toEqual([])
+  expect(edgesInto(LOADED_CODE_AT, [IMPORT_EDGE], indexOf(root))).toEqual([])
 })
 
 test("a page type stating a loader is answered no differently from one stating none", () => {
   const stated = loadingWorld(`${MODULE}/${HELD_LOADER}`)
   const none = loadingWorld(null)
 
-  expect(edgesInto(stated, LOADED_AT, [IMPORT_EDGE], indexOf(stated))).toEqual(
-    edgesInto(none, LOADED_AT, [IMPORT_EDGE], indexOf(none))
+  expect(edgesInto(LOADED_AT, [IMPORT_EDGE], indexOf(stated))).toEqual(
+    edgesInto(LOADED_AT, [IMPORT_EDGE], indexOf(none))
   )
 })
 
@@ -162,10 +160,10 @@ test("an import edge standing only in the index given is answered, and none with
     [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }],
   })
 
-  expect(edgesInto(root, FIRST_AT, [IMPORT_EDGE], indexOver(root, over))).toEqual([
+  expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(root, over))).toEqual([
     { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: AT_INDEX } },
   ])
-  expect(edgesInto(root, FIRST_AT, [IMPORT_EDGE], indexOf(root))).toEqual([])
+  expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOf(root))).toEqual([])
 })
 
 test("an import edge the index given empties is not answered, and stands without it", () => {
@@ -173,8 +171,8 @@ test("an import edge the index given empties is not answered, and stands without
   filed(root, `${IMPORT}/path/${FIRST_AT}.jsonl`, { path: THIRD_AT })
   const over = readingLaidOver(root, { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] })
 
-  expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE], indexOver(root, over))).toEqual([])
-  expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
+  expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOver(root, over))).toEqual([])
+  expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
     { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: AT_INDEX } },
   ])
 })
@@ -183,10 +181,10 @@ test("a relation edge standing only in the index given is answered, and none wit
   const root = relationWorld(0)
   const over = readingLaidOver(root, { [LEAF_AT]: [{ path: SOURCE_AT }] })
 
-  expect(edgesInto(root, TARGET_AT, [RELATION], indexOver(root, over))).toEqual([
+  expect(edgesInto(TARGET_AT, [RELATION], indexOver(root, over))).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
-  expect(edgesInto(root, TARGET_AT, [RELATION], indexOf(root))).toEqual([])
+  expect(edgesInto(TARGET_AT, [RELATION], indexOf(root))).toEqual([])
 })
 
 test("an edge kind's own pages, standing only in the index given, still answer it", () => {
@@ -196,10 +194,10 @@ test("an edge kind's own pages, standing only in the index given, still answer i
     [INDEX_FILED_AT]: [{ path: INDEX_AT, id: INDEX_ID }],
   })
 
-  expect(edgesInto(root, TARGET_AT, [RELATION], indexOver(root, over))).toEqual([
+  expect(edgesInto(TARGET_AT, [RELATION], indexOver(root, over))).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
-  expect(() => edgesInto(root, TARGET_AT, [RELATION], indexOf(root))).toThrow(
+  expect(() => edgesInto(TARGET_AT, [RELATION], indexOf(root))).toThrow(
     /`relation`.*could not be answered/
   )
 })
@@ -207,7 +205,7 @@ test("an edge kind's own pages, standing only in the index given, still answer i
 test("a file three deep in what imports it is reached, so the closure closes", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [THIRD_AT] })
 
-  expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([
+  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([
     FIRST_AT,
     SECOND_AT,
     THIRD_AT,
@@ -217,21 +215,16 @@ test("a file three deep in what imports it is reached, so the closure closes", (
 test("a cycle is walked once, so an answer comes back rather than a run that does not end", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [FIRST_AT] })
 
-  expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([
-    FIRST_AT,
-    SECOND_AT,
-  ])
+  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([FIRST_AT, SECOND_AT])
 })
 
 test("a node the predicate turns away is left out, and what stands behind it is not reached", () => {
   const root = reachingWorld({ [FIRST_AT]: [APART_AT], [APART_AT]: [THIRD_AT] })
 
-  const kept = reachingInto(root, [FIRST_AT], [IMPORT_EDGE], indexOf(root), (one) =>
-    one.endsWith(ENDING)
-  )
+  const kept = reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root), (one) => one.endsWith(ENDING))
 
   expect(kept).toEqual([FIRST_AT])
-  expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([
+  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([
     APART_AT,
     FIRST_AT,
     THIRD_AT,
@@ -241,11 +234,11 @@ test("a node the predicate turns away is left out, and what stands behind it is 
 test("a seed is part of the answer, and a seed the predicate turns away is none of it", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
 
-  const kept = reachingInto(root, [FIRST_AT, APART_AT], [IMPORT_EDGE], indexOf(root), (one) =>
+  const kept = reachingInto([FIRST_AT, APART_AT], [IMPORT_EDGE], indexOf(root), (one) =>
     one.endsWith(ENDING)
   )
 
-  expect(reachingInto(root, [SECOND_AT], [IMPORT_EDGE], indexOf(root))).toEqual([SECOND_AT])
+  expect(reachingInto([SECOND_AT], [IMPORT_EDGE], indexOf(root))).toEqual([SECOND_AT])
   expect(kept).toEqual([FIRST_AT, SECOND_AT])
 })
 
@@ -256,19 +249,14 @@ test("a closure walks the edges the index it was given answers, and none it does
   })
   const every = [FIRST_AT, SECOND_AT, THIRD_AT]
 
-  expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE], indexOver(root, over), () => true)).toEqual(
-    every
-  )
-  expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([
-    FIRST_AT,
-    SECOND_AT,
-  ])
+  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOver(root, over), () => true)).toEqual(every)
+  expect(reachingInto([FIRST_AT], [IMPORT_EDGE], indexOf(root))).toEqual([FIRST_AT, SECOND_AT])
 })
 
 test("a module a page type names as its loader is answered with the pages of that type", () => {
   const root = loaderWorld()
 
-  expect(edgesInto(root, LOADER_AT, [RELATION], indexOf(root))).toEqual([
+  expect(edgesInto(LOADER_AT, [RELATION], indexOf(root))).toEqual([
     { kind: RELATION, from: TYPE_AT, to: LOADER_AT, attrs: { [PROPERTY]: LOADED_BY } },
     { kind: RELATION, from: LOADED_AT, to: LOADER_AT, attrs: { [PROPERTY]: LOADED_BY } },
   ])
@@ -277,5 +265,5 @@ test("a module a page type names as its loader is answered with the pages of tha
 test("a module no page type names as its loader is answered with no page of any type", () => {
   const root = loaderWorld(false)
 
-  expect(edgesInto(root, LOADER_AT, [RELATION], indexOf(root))).toEqual([])
+  expect(edgesInto(LOADER_AT, [RELATION], indexOf(root))).toEqual([])
 })

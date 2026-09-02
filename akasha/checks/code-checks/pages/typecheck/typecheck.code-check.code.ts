@@ -65,7 +65,7 @@ export function landingsIn(change: Change): readonly string[] {
 
 export function reachedBy(change: Change, index: Answering): readonly string[] {
   const seeds = [...change.changed, ...landingsIn(change)]
-  return reachingInto(change.root, seeds, [IMPORT], index, compiled)
+  return reachingInto(seeds, [IMPORT], index, compiled)
 }
 
 export function rootsOf(change: Change, index: Answering): readonly string[] {

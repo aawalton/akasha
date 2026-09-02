@@ -20,7 +20,7 @@ export const aineChecksJudgeTheChange = {
     {
       statement: "A check cannot reach the index or the tree as they were before the change.",
       workingMemory:
-        "`edgesInto` in `graph-asking.module.code.ts` reads a graph-edge page's body with `valueAt(path, root)`. The disk answers the base commit while the checks run, so that body is the body before the change, while the index half of the same question is the shadow's. `Answering.pageAt` answers the same through the shadow's reader of bodies, and taking `pageAt` would let `edgesInto` drop its root. Read from the code rather than demonstrated.",
+        "Done: `edgesInto` and `reachingInto` drop their root and read a page body through `Answering.pageAt`, so both halves of a question are the change's. Shown over a world whose disk holds the base body while the reader of bodies answers the change: renaming the index a `relation` edge is read from answered one edge before and none after, and swapping that edge's attribute answered `property` before and `known` after. The old code answered off the disk in both.",
     },
   ],
   constraints: [
