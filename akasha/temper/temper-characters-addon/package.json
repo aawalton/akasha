@@ -3,6 +3,13 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@akasha/temper-player-completion-state": "workspace:*"
+    "@akasha/design-tokens": "workspace:*",
+    "@akasha/temper-characters-capture-addon": "workspace:*",
+    "@akasha/temper-completion": "workspace:*",
+    "@akasha/temper-dungeons": "workspace:*",
+    "@akasha/temper-player-completion": "workspace:*",
+    "@akasha/temper-player-completion-state": "workspace:*",
+    "@akasha/temper-skill-point-finder": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
   }
 }
