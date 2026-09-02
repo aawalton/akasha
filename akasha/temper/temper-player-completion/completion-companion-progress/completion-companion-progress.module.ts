@@ -6,6 +6,7 @@ export const completionCompanionProgress = {
   slug: "completion-companion-progress",
   definition: "each companion of a player counted for level, rapport, quests and skill lines",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
