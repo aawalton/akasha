@@ -1,6 +1,6 @@
 "use client"
 
-import type { FilterId } from "@temper/game-items-rules-core/filters/filter-types"
+import type { FilterId } from "@akasha/temper-items-rules-core/rule-filter-types"
 import type { ReactNode } from "react"
 import { RuleCardFilterChipCanLevelMorphs } from "./rule-card-filter-chip-can-level-morphs"
 import { RuleCardFilterChipPotionEffects } from "./rule-card-filter-chip-potion-effects"
