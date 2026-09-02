@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "All 104 queries are pages — `5d16cfb5cd`, `e8fdc9dd4f`, `fe70c6bcdc`, `589d2dd5e7` — round-tripped 104 of 104 with three seeded faults proving that zero true. `page-query` at `9fe4ee0941`, `enabled` honoured at `e833a3dfa8`. All 17 relays now name akasha readout pages: 16 named a dead `readout/readouts/` path, exited 2, and systemd read that as success. Fixed `5eefbbf0b8`, reinstalled by slug, all exit 0 — but exit 0 proves the run, not a landed reading. Reader switchover is what is left.",
+        "All 104 queries are pages; `page-query` at `9fe4ee0941`. Relays fixed at `5eefbbf0b8` and verified at the server: 17 of 17 carried, every readout fresh, since exit 0 implies a 2xx implies the hold ran. A dash `ExecStart` erases the failure record — finding `7260ca1905`, so run the command, never read systemd. Left before deletion: `categorization` is `unreviewed` in markdown and `monarch-unreviewed-transactions` in akasha; `group-divergence.ts` has no caller and goes with the markdown.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
