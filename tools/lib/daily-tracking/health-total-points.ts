@@ -94,6 +94,14 @@ export function withDerivedActiveCalories(
   })
 }
 
+/**
+ * The active calories derived for each day, and how many days went uncounted.
+ *
+ * `getWakeDayWindow` refuses for a day whose sleep was never recorded rather than reading that day
+ * as the ESO day, so a day can come back with no derived figure at all. That is carried here rather
+ * than thrown: a refused day keeps whatever `active-calories` its row already held, and a run that
+ * counted fewer days than it read says so instead of reporting a quieter total as a fuller one.
+ */
 async function loadDerivedActiveCalories(
   rows: readonly Readonly<Record<string, unknown>>[]
 ): Promise<ReadonlyMap<string, number | null>> {
@@ -101,7 +109,14 @@ async function loadDerivedActiveCalories(
     ...new Set(rows.map((row) => textOf(row[DATE_KEY])).filter((d): d is string => d !== undefined)),
   ]
   if (dayStrs.length === 0) return new Map()
-  return loadActiveCaloriesByDay({ dayStrs })
+  const read = await loadActiveCaloriesByDay({ dayStrs })
+  if (read.unread.length > 0) {
+    process.stderr.write(
+      `health totals: ${read.unread.length} of ${dayStrs.length} day(s) have no recorded wake, ` +
+        "so no active calories were derived for them and each keeps the reading already stored\n"
+    )
+  }
+  return read.byDay
 }
 
 function slugOf(p: z.infer<typeof PersonaRowSchema>): string {
