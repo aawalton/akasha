@@ -112,7 +112,7 @@ export function generateTemperCompanionTrait(rows: readonly Page[]): string {
  * DO NOT EDIT -- regenerate with: ops temper addon-data generate
  */
 
-import type { CompanionTraitTemplate } from "../equipment/companion-traits-data"
+import type { CompanionTraitTemplate } from "@akasha/temper-companions-core/companion-traits"
 
 export const TEMPER_COMPANION_TRAITS = {
 ${entries.join("\n")}

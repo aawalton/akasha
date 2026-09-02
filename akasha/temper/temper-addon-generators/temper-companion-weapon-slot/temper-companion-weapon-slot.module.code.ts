@@ -61,7 +61,7 @@ export function generateTemperCompanionWeaponSlot(rows: readonly Page[]): string
  * DO NOT EDIT -- regenerate with: ops temper addon-data generate
  */
 
-import type { CompanionWeaponSlotTemplate } from "../equipment/companion-weapon-slots-data"
+import type { CompanionWeaponSlotTemplate } from "@akasha/temper-companions-core/companion-weapon-slots"
 
 export const TEMPER_COMPANION_WEAPON_SLOTS = {
 ${entries.join("\n")}

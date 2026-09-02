@@ -65,7 +65,7 @@ export function generateTemperCompanionSkillSlot(rows: readonly Page[]): string 
  * DO NOT EDIT -- regenerate with: ops temper addon-data generate
  */
 
-import type { CompanionSkillSlotTemplate } from "../skills/companion-skill-slots-data"
+import type { CompanionSkillSlotTemplate } from "@akasha/temper-companions-core/companion-skill-slots"
 
 export const TEMPER_COMPANION_SKILL_SLOTS = {
 ${entries.join("\n")}

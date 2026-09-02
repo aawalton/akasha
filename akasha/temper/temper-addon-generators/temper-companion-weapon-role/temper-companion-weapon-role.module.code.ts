@@ -83,7 +83,7 @@ export function generateTemperCompanionWeaponRole(rows: readonly Page[]): string
  * DO NOT EDIT -- regenerate with: ops temper addon-data generate
  */
 
-import type { CompanionWeaponRoleTemplate } from "../equipment/companion-weapon-roles-data"
+import type { CompanionWeaponRoleTemplate } from "@akasha/temper-companions-core/companion-weapon-roles"
 
 export const TEMPER_COMPANION_WEAPON_ROLES = {
 ${entries.join("\n")}
