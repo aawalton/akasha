@@ -1,4 +1,4 @@
-import { captureCharacterBuildHash } from "@temper/game-characters-capture-addon/build"
+import { captureCharacterBuildHash } from "@akasha/temper-characters-capture-addon/character-capture-build"
 import { getSavedVariables } from "./saved-variables"
 export function captureAndSaveCharacterStats(): undefined {
   const { buildHash, curseState } = captureCharacterBuildHash()
