@@ -168,11 +168,12 @@ test("several checks are named in one call", () => {
   expect(meaning(["--check", "one", "--check", "two"]).only).toEqual(["one", "two"])
 })
 
-test("more refusals than one answer holds keep their start and say how many are missing", () => {
+test("more refusals than one answer holds keep their start and say how many there are", () => {
   const lines = Array.from({ length: 900 }, (_, at) => `akasha/${at}.ts — ${"held ".repeat(20)}`)
   const said = heldTo(lines, ANSWER_CEILING)
   expect(said.length).toBeLessThan(lines.length)
-  expect(said[said.length - 1]).toContain("more refusals is not here")
+  expect(said[said.length - 1]).toContain(`${lines.length} refusals in all`)
+  expect(said[said.length - 1]).toContain(`the ${said.length - 1} above`)
   expect(new TextEncoder().encode(said.join("\n")).length).toBeLessThan(ANSWER_CEILING + 200)
 })
 

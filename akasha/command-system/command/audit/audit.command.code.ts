@@ -83,8 +83,8 @@ export function heldTo(said: readonly string[], ceiling: number): readonly strin
     bytes += new TextEncoder().encode(one).length + 1
     if (bytes > ceiling) {
       held.push(
-        `${counted(said.length - held.length, "more refusal")} is not here — one answer holds ` +
-          `${ceiling} bytes, and what stands above is where to start`
+        `${counted(said.length, "refusal")} in all, and the ${held.length} above are what one ` +
+          `answer holds at ${ceiling} bytes — begin with those`
       )
       return held
     }
