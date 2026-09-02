@@ -38,6 +38,7 @@ export type Held = {
   readonly pageTypeSlug: string | null
   readonly page: string | null
   readonly propertySlug: string | null
+  readonly uncommitted: boolean
 }
 
 export function partedIn(path: string): Parted | null {
@@ -64,6 +65,11 @@ export function namedIn(path: string): Named | null {
 
 function onlyIn(said: Parted): string | undefined {
   return said.sections.length === 1 ? said.sections[0] : undefined
+}
+
+function uncommittedPropertyIn(said: Parted): string | undefined {
+  if (said.sections.length !== 2 || said.sections[1] !== UNCOMMITTED) return undefined
+  return said.sections[0]
 }
 
 function pageIn(said: Parted, pageTypes: ReadonlySet<string>): boolean {
@@ -98,8 +104,24 @@ export function secretAt(path: string): string | null {
   return besideAt(path, SOPS, HELD_YAML)
 }
 
+export function uncommittedBesideAt(
+  path: string,
+  propertySlug: string,
+  held: string
+): string | null {
+  return besideAt(path, `${propertySlug}.${UNCOMMITTED}`, held)
+}
+
 function strayAt(path: string): Held {
-  return { path, kind: "stray", slug: null, pageTypeSlug: null, page: null, propertySlug: null }
+  return {
+    path,
+    kind: "stray",
+    slug: null,
+    pageTypeSlug: null,
+    page: null,
+    propertySlug: null,
+    uncommitted: false,
+  }
 }
 
 export function heldIn(
@@ -112,10 +134,26 @@ export function heldIn(
   const page = `${said.slug}.${said.pageType}`
   const only = onlyIn(said)
   if (only === UNCOMMITTED) {
-    return { path, kind: "uncommitted", slug: null, pageTypeSlug: null, page, propertySlug: null }
+    return {
+      path,
+      kind: "uncommitted",
+      slug: null,
+      pageTypeSlug: null,
+      page,
+      propertySlug: null,
+      uncommitted: true,
+    }
   }
   if (only === SOPS) {
-    return { path, kind: "secret", slug: null, pageTypeSlug: null, page, propertySlug: null }
+    return {
+      path,
+      kind: "secret",
+      slug: null,
+      pageTypeSlug: null,
+      page,
+      propertySlug: null,
+      uncommitted: false,
+    }
   }
   if (pageIn(said, pageTypes)) {
     return {
@@ -125,10 +163,31 @@ export function heldIn(
       pageTypeSlug: said.pageType,
       page,
       propertySlug: null,
+      uncommitted: false,
     }
   }
   if (only !== undefined && fileProperties.has(only)) {
-    return { path, kind: "property", slug: null, pageTypeSlug: null, page, propertySlug: only }
+    return {
+      path,
+      kind: "property",
+      slug: null,
+      pageTypeSlug: null,
+      page,
+      propertySlug: only,
+      uncommitted: false,
+    }
+  }
+  const apart = uncommittedPropertyIn(said)
+  if (apart !== undefined && fileProperties.has(apart)) {
+    return {
+      path,
+      kind: "property",
+      slug: null,
+      pageTypeSlug: null,
+      page,
+      propertySlug: apart,
+      uncommitted: true,
+    }
   }
   return strayAt(path)
 }

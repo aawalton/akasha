@@ -30,16 +30,17 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "The tail and what the file holds follow the stem.",
+      statement:
+        "Whether the page type slot names a page type is answered against the set handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a section names a file property is answered against the set handed in.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Whether a tail names a page type or a file property is answered against the sets handed in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name tailed by a page type but not a TypeScript file is no page.",
+        "A name carrying a known page type but held as anything but TypeScript is no page.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +56,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "What `heldIn` takes apart and what `besideAt` puts together stay one rule.",
+      statement: "What `heldIn` takes apart and what the builders here put together stay one rule.",
     },
     {
       invariantKind: "departure",
@@ -63,29 +64,38 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "The tail `uncommitted` is reserved.",
+      statement: "The section `uncommitted` is reserved.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file carrying the tail `uncommitted` holds uncommitted values of the page the file sits beside.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file carrying the tail `uncommitted` is never a property's file nor a page.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The tail `sops` is reserved.",
+        "A file whose only section is `uncommitted` holds the uncommitted values of that file's page.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file carrying the tail `sops` holds the secret values of the page the file stands beside.",
+        "A file whose only section is `uncommitted` is never a property's file nor a page.",
     },
     {
       invariantKind: "departure",
-      statement: "A file carrying the tail `sops` is never a property's file nor a page.",
+      statement: "A section list may end in `uncommitted`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file whose section list ends in `uncommitted` holds a property that is not committed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The section `sops` is reserved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file whose only section is `sops` holds the secret values of that file's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file whose only section is `sops` is never a property's file nor a page.",
     },
     {
       invariantKind: "departure",
@@ -94,6 +104,10 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement: "A page's sops file is what the sops file already stands under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file property slug is never a reserved section.",
     },
     {
       invariantKind: "absence",

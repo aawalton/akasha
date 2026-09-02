@@ -8,6 +8,7 @@ import {
   secretAt,
   secretNamed,
   uncommittedAt,
+  uncommittedBesideAt,
   uncommittedNamed,
 } from "./page-file-name.module.code.ts"
 
@@ -16,6 +17,8 @@ const PAGE_TYPES = new Set<string>(["page-type", "module", "check", "domain"])
 const FILE_PROPERTIES = new Set<string>(["code", "test"])
 
 const PORTRAIT = new Set<string>(["portrait"])
+
+const PATCH = new Set<string>(["code", "test", "patch"])
 
 test("a name is read as a stem, the tail after it, and what the file holds", () => {
   expect(namedIn("akasha/one/file-length.check.ts")).toEqual({
@@ -63,6 +66,7 @@ test("a page file is held as a page, carrying its slug and its page type", () =>
     pageTypeSlug: "check",
     page: "file-length.check",
     propertySlug: null,
+    uncommitted: false,
   })
 })
 
@@ -74,6 +78,7 @@ test("a property file is held as a property, carrying the page it stands beside"
     pageTypeSlug: null,
     page: "file-length.check",
     propertySlug: "code",
+    uncommitted: false,
   })
 })
 
@@ -101,6 +106,7 @@ test("a property file that is not TypeScript is held as a property of its page",
     pageTypeSlug: null,
     page: "sophia.persona",
     propertySlug: "portrait",
+    uncommitted: false,
   })
 })
 
@@ -156,6 +162,7 @@ test("a file tailed `uncommitted` is held as its page's uncommitted values, not 
     pageTypeSlug: null,
     page: "file-length.check",
     propertySlug: null,
+    uncommitted: true,
   })
 })
 
@@ -198,6 +205,7 @@ test("a file tailed `sops` is held as its page's secret values, not as a propert
     pageTypeSlug: null,
     page: "aine.claude-account",
     propertySlug: null,
+    uncommitted: false,
   })
 })
 
@@ -229,14 +237,6 @@ test("a name tailed `sops` is answered as one, and a page or property or uncommi
   expect(secretNamed("akasha/one/aine.claude-account.ts")).toBe(false)
   expect(secretNamed("akasha/one/file-length.check.code.ts")).toBe(false)
   expect(secretNamed("akasha/one/file-length.check.uncommitted.ts")).toBe(false)
-})
-
-test("the uncommitted file and the sops file stand beside one page and are told apart", () => {
-  const page = "akasha/one/aine.claude-account.ts"
-  expect(uncommittedNamed(uncommittedAt(page) as string)).toBe(true)
-  expect(secretNamed(uncommittedAt(page) as string)).toBe(false)
-  expect(secretNamed(secretAt(page) as string)).toBe(true)
-  expect(uncommittedNamed(secretAt(page) as string)).toBe(false)
 })
 
 function kindOf(path: string): string {
@@ -297,7 +297,7 @@ test("a part written in anything but lower kebab case answers nothing", () => {
   expect(partedIn("akasha/one/file-length.check.CODE.ts")).toBeNull()
 })
 
-test("a name carrying more than one section is held as a stray for now", () => {
+test("a name carrying sections nothing here knows is held as a stray", () => {
   expect(kindOf("akasha/one/dalla.seat.uncommitted.ts.a1b2.part")).toBe("stray")
   expect(kindOf("akasha/one/file-length.check.lines.uncommitted.jsonl")).toBe("stray")
 })
@@ -309,8 +309,12 @@ test("a page type nothing knows still holds a property, an uncommitted file and 
   expect(kindOf("akasha/one/dalla.seat.ts")).toBe("stray")
 })
 
-function agreeing(path: string, pageTypes: ReadonlySet<string> = PAGE_TYPES): undefined {
-  const kind = heldIn(path, pageTypes, FILE_PROPERTIES).kind
+function agreeing(
+  path: string,
+  pageTypes: ReadonlySet<string> = PAGE_TYPES,
+  fileProperties: ReadonlySet<string> = FILE_PROPERTIES
+): undefined {
+  const kind = heldIn(path, pageTypes, fileProperties).kind
   expect(pageNamed(path, pageTypes)).toBe(kind === "page")
   expect(uncommittedNamed(path)).toBe(kind === "uncommitted")
   expect(secretNamed(path)).toBe(kind === "secret")
@@ -326,6 +330,8 @@ test("what heldIn answers of a name is what each predicate answers of that name"
   agreeing("akasha/one/held.uncommitted.ts", new Set(["uncommitted"]))
   agreeing("akasha/one/held.sops.yaml")
   agreeing("akasha/one/notes.txt")
+  agreeing("akasha/one/dalla.seat.patch.uncommitted.patch", PAGE_TYPES, PATCH)
+  agreeing("akasha/one/dalla.seat.patch.sops.yaml", PAGE_TYPES, PATCH)
 })
 
 test("a reserved word in the page type slot names a page type rather than a file beside a page", () => {
@@ -338,4 +344,33 @@ test("a values sidecar carries the one section, so a second section is no values
   expect(secretNamed("akasha/one/dalla.seat.sops.yaml")).toBe(true)
   expect(uncommittedNamed("akasha/one/dalla.seat.patch.uncommitted.patch")).toBe(false)
   expect(secretNamed("akasha/one/dalla.seat.patch.sops.yaml")).toBe(false)
+})
+
+test("a file property is held uncommitted under its own slug and then `uncommitted`", () => {
+  const path = "akasha/one/dalla.seat.patch.uncommitted.patch"
+  expect(heldIn(path, PAGE_TYPES, PATCH)).toEqual({
+    path,
+    kind: "property",
+    slug: null,
+    pageTypeSlug: null,
+    page: "dalla.seat",
+    propertySlug: "patch",
+    uncommitted: true,
+  })
+  expect(kindOf(path)).toBe("stray")
+  expect(heldIn("akasha/one/dalla.seat.notes.uncommitted.md", PAGE_TYPES, PATCH).kind).toBe("stray")
+})
+
+test("what uncommittedBesideAt puts together, heldIn takes apart again", () => {
+  const beside = uncommittedBesideAt("akasha/one/dalla.seat.ts", "patch", "patch")
+  expect(beside).toBe("akasha/one/dalla.seat.patch.uncommitted.patch")
+  if (beside === null) throw new Error("expected a name beside the page")
+  expect(heldIn(beside, PAGE_TYPES, PATCH).propertySlug).toBe("patch")
+  expect(uncommittedBesideAt("akasha/one/notes.txt", "patch", "patch")).toBeNull()
+})
+
+test("a property held uncommitted is no values sidecar, however the sets read its slug", () => {
+  const path = "akasha/one/dalla.seat.patch.uncommitted.patch"
+  expect(heldIn(path, PAGE_TYPES, PATCH).kind).toBe("property")
+  expect(uncommittedNamed(path)).toBe(false)
 })
