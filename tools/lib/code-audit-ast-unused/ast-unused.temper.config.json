@@ -52,14 +52,6 @@
         "**/*.ts!"
       ]
     },
-    "temper/game-companions-core": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/game-companions-ui": {
       "entry": [],
       "project": [
