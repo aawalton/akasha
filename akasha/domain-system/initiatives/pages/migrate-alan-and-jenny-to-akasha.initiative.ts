@@ -29,11 +29,6 @@ export const migrateAlanAndJennyToAkasha = {
         "The bridge in `readouts/ask-here.ts` holds, by decision. No type is refused by name: the index covers `akasha/` alone and its loader requires TypeScript, so a markdown body throws and the page is dropped unnoted. A probe served `value` from markdown in 131 lines, six rows checked on disk. It buys little: the stoplights ask by saved query, so closing this needs seven page types, a frontmatter parser akasha declares it has none of, caching, and a kebab-camel ruling with live callers each side.",
     },
     {
-      statement: "The packages Alan's own work rests on stand in akasha.",
-      workingMemory:
-        "Six folders under `alanwalton/`; `calendar-sync` landed at `2f6d78d532`, only what deploys it left behind. `location-traces-access` can follow: both were reversed out for `@shared/pages-query` imports that `18d85f92d3` then removed from both, filed at `a-reversal-outlived-the-reason-it-was-taken-for`. `code-root` landed, leaving a shim in `tools/lib/`. What is left is the page engine — `file-pages`, `page-derive-shape`, `page-query-values`, `page-write` — four plain files, not packages.",
-    },
-    {
       statement: "The design packages stand in akasha.",
       workingMemory:
         "Blocked on Alan. `shared/design-system` is gone, but `shared/design-patterns` must survive: its one module left, `src/components/query-error-boundary.tsx`, is a class extending `React.Component`, and `no-class` permits a class only where it extends `Error`. React 19 offers no function form and `getDerivedStateFromError` is class-only, at `3ecea90b8d`. Adding `react-error-boundary` or widening `no-class` needs his ruling. 5 importers, all in `temper/`. All 7 globals.css carry the outside glob.",
