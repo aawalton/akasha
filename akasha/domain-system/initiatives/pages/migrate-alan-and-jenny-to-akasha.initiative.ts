@@ -51,7 +51,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "`pages-ui` stands in akasha.",
       workingMemory:
-        "94 modules stand; `shared/pages-ui` is 197 files, down from 242 in three waves, each akasha side then shared: `e6bc83de08`/`3d7dbbb9a4`, `5e6066a97e`/`4ec864267d`, `8c976b924d`/`e6fb3628c6`. Land akasha first so HEAD never goes red. Slugs renamed here: `types`->`page-with-properties`, `page-row`->`view-row`, `views`->`view-callbacks`; two pass-throughs died rather than moved. 51 leaves left. Arriving private casts took `no-rule-in-two-files` 4 to 7, filed. 10 tsconfigs name the old path.",
+        "126 modules are in now; `shared/pages-ui` is 158 files, down from 242 over five waves, akasha side then shared. The fifth is `30e3c26a01`, its shared half swept into `8578005043`. Land akasha first so HEAD never goes red. The manifest blocks the rest, not the leaves: 14,662 bytes against a 15,000 ceiling, 108 a way in, room for three. Filed as `the-pages-ui-manifest-fills-before-the-package-does`; subpath patterns proven, array targets disproven. 56 leaves left, ten landing exposed ten.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
