@@ -14,7 +14,11 @@ export const temperCharactersAddon = {
     "eso-interface/skill-point-finder-layout",
     "lua-module/characters-config-global",
     "module/characters-alliance-rank",
+    "module/characters-bag-size",
+    "module/characters-collector-merge",
     "module/characters-current-entry",
+    "module/characters-list",
+    "module/characters-mount-training",
   ],
   interfaceSlugs: ["skill-point-finder-layout"],
   invariants: [
