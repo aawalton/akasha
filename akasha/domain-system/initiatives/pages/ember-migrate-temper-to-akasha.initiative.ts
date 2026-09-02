@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Addon-data generate exits 70 before any of its fourteen sections runs: it asks for three page types the index never held, because the recreation made them entry properties whose rows a composed query already answers inline. That whole path is dead code, being deleted. `temper-set` shows the other shape, pages that cannot express a buff their file carries, lost in the first migration, so `bonus-effects` gains a `buff-id`. The parts mend is real but it unblocks the mine reader rather than this.",
+        "Addon-data still exits 70 before any of its fourteen sections: `readCatalogSidecars` throws above its own parser, so that path is dead and being deleted. `temper-set` settled: the reader is order-independent, 537 rows reordered at 707 of 707 rendered identity, and `bonus-effects` gained the `buff-id` its pages lacked. The pattern is filed: a drifted generator fails loudly on a renamed field and silently on a moved one. Four instances, and five companion generators went stale under a repoint.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "90 packages are in `akasha/temper` and 97 remain in `temper/`. Housing landed whole, the twelve catalog generators with it, and player-completion's keystone is reachable. Companions-core and player-completion are each about half landed, and neither remainder is a wall: nothing left in either is over the byte ceiling. The markup ceiling discharged seven of eight oversized XML files, leaving only `TemperCombat.xml` at 164,528 bytes. The full audit is 72 refusals over 28,993 files.",
+        "Parity: 93 packages in `akasha/temper` and 93 left in `temper/`. `game-collections-addon` proved to be five clusters with no edges between them, so they land at once, two in and three in flight, `lorebooks` the long pole at 1.68 MB. Equipment measured 8 of its 39 modules already recreated in akasha, with six functions the recreation lost being restored. Only `TemperCombat.xml` is still over the markup ceiling at 164,528 bytes. The audit is 70 to 73 refusals over 29,400 files, typecheck zero.",
     },
   ],
   constraints: [
