@@ -20,7 +20,7 @@ const INSTALL_TIMEOUT_SECONDS = 600
 
 const COMMIT_MARKER = ".akasha-commit"
 
-export const COMPILER_PROBE = "lua-compiler/src/tstl.ts"
+export const COMPILER_PROBE = "lua-compiler/src/cli/tstl.ts"
 
 const BUN_CACHE = "/ci-storage/bun-cache"
 

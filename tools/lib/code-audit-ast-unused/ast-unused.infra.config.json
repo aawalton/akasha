@@ -92,7 +92,7 @@
     "infra/seaweedfs": {
       "entry": [
         "foundation.workflow.ts",
-        "tunnel-routes.ts"
+        "src/tunnel-routes.ts"
       ],
       "project": [
         "**/*.ts"

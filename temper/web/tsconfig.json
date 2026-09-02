@@ -132,7 +132,7 @@
     "foundation.workflow.ts",
     "apps.workflow.ts",
     "deploy/addon-bundle-image.ts",
-    "temper-web-deployment.cluster-service.code.attachment.ts"
+    "temper-web.cluster-service.code.attachment.ts"
   ],
   "exclude": [
     "node_modules",
