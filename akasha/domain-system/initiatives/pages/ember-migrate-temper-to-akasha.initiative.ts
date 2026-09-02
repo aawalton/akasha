@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "The addon-data generator aborts before it writes anything: `output-dirs.ts` holds 12 rows, 11 naming a package with no tracked files, and `assertOutputDirParentsExist` throws on the first of them, reached from `generate.ts:15`. Clearing that outranks finishing the read half, because every differential proof downstream needs the pipeline to run. The render half is landed and byte-identical. The registry is 39 rows and nothing reads it yet. `typesFor` does not cross.",
+        "`output-dirs.ts` no longer aborts the generator: 11 consts remain, but `ALL_OUTPUT_DIRS` holds one row, `player-completion`, so the pipeline runs again — and aborts again the moment that package ablates. The render half is landed and byte-identical. 19 rendered tables have no `ADDON_DATA_TARGETS` destination. The registry is 39 rows and nothing reads it yet. `typesFor` does not cross.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "17 packages and 899 files remain under `temper/`, from 38 and 2,291, and every one has a seat. `web` at 358 crosses last by ruling: 1,842 of its 2,718 edges already name `@akasha` and the rest wait on the interface packages. A dangling export row in one akasha manifest refuses every write in the repository rather than only its own package's, so retry rather than reach into another lane. A glob whose last match is ablated is orphaned and comes out with it.",
+        "13 packages and 693 files remain under `temper/`, from 38 and 2,291. `web` at 357 crosses last; `scripts` and `player-inventory-management-ui` are gone. Web's remaining completion edges are 21 across 4 files, held by 12 transforms that gained catalog parameters the akasha catalogs answer as pages rather than as tables. `player-completion-addon` at 102 has no twin at all and is seated.",
     },
   ],
   constraints: [
