@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/temper-game-crafting-capture-host",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./recipe-catalog-schema": "./recipe-catalog-schema/recipe-catalog-schema.module.code.ts",
+    "./trait-research-catalog-schema": "./trait-research-catalog-schema/trait-research-catalog-schema.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-capture-host": "workspace:*",
+    "@akasha/temper-capture-shapes": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@akasha/temper-game-completion-capture-host",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./achievement-catalog-schema": "./achievement-catalog-schema/achievement-catalog-schema.module.code.ts",
+    "./cadwell-catalog-schema": "./cadwell-catalog-schema/cadwell-catalog-schema.module.code.ts",
+    "./zone-completion-catalog-schema": "./zone-completion-catalog-schema/zone-completion-catalog-schema.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-capture-host": "workspace:*",
+    "@akasha/temper-capture-shapes": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-game-collections-lore-capture-host",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./lore-library-catalog-schema": "./lore-library-catalog-schema/lore-library-catalog-schema.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-capture-host": "workspace:*",
+    "@akasha/temper-capture-shapes": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
