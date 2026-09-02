@@ -19,4 +19,5 @@ export const flourish = {
   skillType: "passive",
   subcategoryId: "warden-animal-companions",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill
