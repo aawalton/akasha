@@ -1,12 +1,12 @@
 "use client"
 
-import { getSubcategory } from "@akasha/utils-narrow/get-subcategory"
 import {
   type FoodOrDrinkId,
   type FoodOrDrinkSource,
   foodOrDrink,
 } from "@akasha/temper-character-sources/food-or-drink-source"
-import { convertIconPathToUrl } from "@temper/game-characters-equipment/sets/get-equipment-icon"
+import { convertIconPathToUrl } from "@akasha/temper-characters-equipment/get-equipment-icon"
+import { getSubcategory } from "@akasha/utils-narrow/get-subcategory"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import { useMemo } from "react"
 import {
