@@ -185,8 +185,8 @@ export const dailyTracking = {
       statement: "A stretch of time and a finished to-do round are entries beside the day.",
     },
     {
-      invariantKind: "gap",
-      statement: "The days Alan tracked before this page type have yet to move in.",
+      invariantKind: "departure",
+      statement: "Every day Alan tracked is a page of this type.",
     },
   ],
 } as const satisfies PageType

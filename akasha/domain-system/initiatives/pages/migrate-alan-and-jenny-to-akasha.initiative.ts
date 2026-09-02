@@ -9,11 +9,6 @@ export const migrateAlanAndJennyToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
-      workingMemory:
-        "A landing ran whole in a copy at exit 0: 133 days, 0 faults, 0 differences over 4838 values, and every read on the road to both tiles answers the same before and after. Both tiles answer 200 with a reading, and 503 with nothing carried in. The surplus keys are worked out by `pages/page-property-definition/` files the act never removes, so the day type declaring none of them is right. What blocks the act in main is `day-place.test.ts`: six assertions turn at the flip and `land.ts` rewrites one.",
-    },
-    {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
       workingMemory:
         "Alan's call is met at `0d286cc9f0` and `2942fd7816`: `deploy-testflight` resolves `--ref` to one commit before anything is built and hands it to both the www worktree and the mac checkout, refusing only a ref naming no commit or one no origin ref reaches, since the mac builds by fetching origin. Build 199 is uploaded, stamped `160c4d98e3`, and its fingerprint is filed at `0aad52c0e7`. Jenny's app owes a build; that upload is held.",
