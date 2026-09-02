@@ -35,6 +35,7 @@
     "./completion-percent": "./completion-percent/completion-percent.module.code.ts",
     "./completion-recipe-progress": "./completion-recipe-progress/completion-recipe-progress.module.code.ts",
     "./completion-skill-points-progress": "./completion-skill-points-progress/completion-skill-points-progress.module.code.ts",
+    "./completion-summary-companion": "./completion-summary-companion/completion-summary-companion.module.code.ts",
     "./completion-ui-types": "./completion-ui-types/completion-ui-types.module.code.ts",
     "./cyrodiil-wayshrine": "./cyrodiil-wayshrine/cyrodiil-wayshrine.module.code.ts",
     "./skill-point-general-sources": "./skill-point-general-sources/skill-point-general-sources.module.code.ts",
