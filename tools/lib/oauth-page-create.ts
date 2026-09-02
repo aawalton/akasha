@@ -1,4 +1,4 @@
-import { exportedAs } from "../../akasha/pages-system/pages/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "../../akasha/pages-system/page/export-name/page-export-name.module.code.ts"
 import { landMechanically } from "./akasha-landing.ts"
 import { akashaAccountPath, akashaAccountsDir, akashaRoot } from "./claude-account-akasha.ts"
 import type { Outcome } from "./gated-write.ts"

@@ -26,8 +26,8 @@ test("an akasha page's name carries its page type", () => {
 })
 
 test("a file standing beside a page carries no page type", () => {
-  expect(typeSlotOf("akasha/pages-system/pages/beside/page-beside.module.code.ts")).toBeNull()
-  expect(typeSlotOf("akasha/pages-system/pages/beside/page-beside.module.test.ts")).toBeNull()
+  expect(typeSlotOf("akasha/pages-system/page/beside/page-beside.module.code.ts")).toBeNull()
+  expect(typeSlotOf("akasha/pages-system/page/beside/page-beside.module.test.ts")).toBeNull()
   expect(
     typeSlotOf(
       "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.sessions.jsonl"

@@ -52,7 +52,7 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { uuidVersion7 } from "../../akasha/command-system/value-minting/value-minting.module.code.ts"
-import { entriesAt } from "../../akasha/pages-system/pages/entries/page-entries.module.code.ts"
+import { entriesAt } from "../../akasha/pages-system/page/entries/page-entries.module.code.ts"
 import { compareCorpora } from "../daily-tracking-fidelity/compare.ts"
 import { derivedVerdict, verdictSaid } from "../daily-tracking-fidelity/derived.ts"
 import { readAkashaPageCorpus, readMarkdownCorpus } from "../daily-tracking-fidelity/read-corpus.ts"

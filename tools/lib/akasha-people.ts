@@ -7,7 +7,7 @@ import {
   textAt,
   type Value,
   valueAt,
-} from "../../akasha/pages-system/pages/value/page-value.module.code.ts"
+} from "../../akasha/pages-system/page/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "person"
 

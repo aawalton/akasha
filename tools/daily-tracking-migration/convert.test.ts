@@ -3,9 +3,9 @@ import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { uuidVersion7 } from "../../akasha/command-system/value-minting/value-minting.module.code.ts"
 import { slugOfFilePage } from "../../akasha/file-page-identity/file-page/file-page.module.code.ts"
-import { importedFrom } from "../../akasha/pages-system/pages/body/page-body.module.code.ts"
-import { exportedAs } from "../../akasha/pages-system/pages/export-name/page-export-name.module.code.ts"
-import { besideAt } from "../../akasha/pages-system/pages/file-name/page-file-name.module.code.ts"
+import { importedFrom } from "../../akasha/pages-system/page/body/page-body.module.code.ts"
+import { exportedAs } from "../../akasha/pages-system/page/export-name/page-export-name.module.code.ts"
+import { besideAt } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
 import {
   ID_SUFFIX_LENGTH as AKASHA_ID_SUFFIX_LENGTH,
   buildPageHrefParam,

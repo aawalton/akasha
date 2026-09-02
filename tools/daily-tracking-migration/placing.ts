@@ -15,7 +15,7 @@
  * Nothing here reads a file. `pathFor` and `importedFrom` are functions from text to text.
  */
 
-import { importedFrom } from "../../akasha/pages-system/pages/body/page-body.module.code.ts"
+import { importedFrom } from "../../akasha/pages-system/page/body/page-body.module.code.ts"
 import { pathFor } from "../../akasha/pages-system/service/page-composing/page-composing.module.code.ts"
 import { DAY_PAGE_TYPE } from "./shape.ts"
 

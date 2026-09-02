@@ -6,8 +6,8 @@ import {
   everyOfType,
   listedById,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { uncommittedAt } from "../../akasha/pages-system/pages/file-name/page-file-name.module.code.ts"
-import { uncommittedIn } from "../../akasha/pages-system/pages/uncommitted/page-uncommitted.module.code.ts"
+import { uncommittedAt } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
+import { uncommittedIn } from "../../akasha/pages-system/page/uncommitted/page-uncommitted.module.code.ts"
 
 // WHERE A SEAT STANDS IN AKASHA, AND WHERE EACH OF ITS VALUES STANDS ON IT. This holds nothing but
 // that, and imports nothing of the seat libraries, because the two ends of the migration both need

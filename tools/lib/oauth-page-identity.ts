@@ -1,4 +1,4 @@
-import { removeUncommitted } from "../../akasha/pages-system/pages/uncommitted/page-uncommitted.module.code.ts"
+import { removeUncommitted } from "../../akasha/pages-system/page/uncommitted/page-uncommitted.module.code.ts"
 import { akashaAccountPath, akashaAccountValues, akashaRoot } from "./claude-account-akasha.ts"
 import type { IdentityPinStage } from "./oauth-identity-core.ts"
 import { holdMarksOnPage, type Marks } from "./oauth-page-mark.ts"

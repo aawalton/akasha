@@ -5,7 +5,7 @@ import {
   dropUncommitted as dropAkasha,
   mergeUncommitted,
   removeUncommitted as removeAkasha,
-} from "../../akasha/pages-system/pages/uncommitted/page-uncommitted.module.code.ts"
+} from "../../akasha/pages-system/page/uncommitted/page-uncommitted.module.code.ts"
 import { type Beside, CARRIED, type Kind, RECORDS } from "./seat-akasha-beside.ts"
 import { akashaSeatRelPath } from "./seat-page-akasha.ts"
 

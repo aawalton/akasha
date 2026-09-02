@@ -1,9 +1,9 @@
 import { existsSync, readdirSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { fileURLToPath } from "node:url"
-import type { Repo } from "../pages/markdown-document/markdown-document.module.code.ts"
-import type { Roots } from "../pages/markdown-page-at/markdown-page-at.module.code.ts"
-import { pageNameOf } from "../pages/markdown-page-name/markdown-page-name.module.code.ts"
+import type { Repo } from "../page/markdown-document/markdown-document.module.code.ts"
+import type { Roots } from "../page/markdown-page-at/markdown-page-at.module.code.ts"
+import { pageNameOf } from "../page/markdown-page-name/markdown-page-name.module.code.ts"
 import { canonicalize } from "../repo-path/repo-path.module.code.ts"
 
 export const AKASHA = "akasha"
