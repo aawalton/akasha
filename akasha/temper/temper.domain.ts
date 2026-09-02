@@ -56,6 +56,7 @@ export const temper = {
     "workspace-package/temper-community-addons",
     "eso-addon/temper-lib-media-provider",
     "eso-addon/temper-lib-async",
+    "eso-addon/temper-lib-gps",
     "workspace-package/temper-formula-framework",
     "workspace-package/temper-saved-vars-migration",
     "workspace-package/temper-addon-generators",

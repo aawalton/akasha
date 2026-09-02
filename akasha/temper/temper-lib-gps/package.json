@@ -1,0 +1,21 @@
+{
+  "name": "@akasha/temper-lib-gps",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./gps-types": "./gps-types/gps-types.module.code.ts",
+    "./gps-constants": "./gps-constants/gps-constants.module.code.ts",
+    "./gps-casts": "./gps-casts/gps-casts.module.code.ts",
+    "./gps-lib-state": "./gps-lib-state/gps-lib-state.module.code.ts",
+    "./gps-world-size": "./gps-world-size/gps-world-size.module.code.ts",
+    "./gps-measurement": "./gps-measurement/gps-measurement.module.code.ts",
+    "./gps-map-stack": "./gps-map-stack/gps-map-stack.module.code.ts",
+    "./gps-map-adapter": "./gps-map-adapter/gps-map-adapter.module.code.ts",
+    "./gps-tamriel-o-meter": "./gps-tamriel-o-meter/gps-tamriel-o-meter.module.code.ts",
+    "./gps-api": "./gps-api/gps-api.module.code.ts",
+    "./gps-compatibility": "./gps-compatibility/gps-compatibility.module.code.ts",
+    "./gps-public-api": "./gps-public-api/gps-public-api.module.code.ts",
+    "./gps-initialization": "./gps-initialization/gps-initialization.module.code.ts",
+    "./gps-main": "./gps-main/gps-main.module.code.ts"
+  }
+}
