@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's four panels each show what akasha holds.",
       workingMemory:
-        "All four panels and the bar draw, measured at `7a6d788132`: activation 278ms against the 4506ms recorded here, page-tree 64ms against 4357ms. Pages draws 2376 rows over 997 akasha files and none from anywhere else, where before it drew 3180 from `pages/` and none from akasha. Domains 7313 rows on 16 roots, Work 13, Agents 93. Two gaps: 258 Pages rows open no document, since no domain page is named for a property kind, and Agents reads transcripts rather than pages.",
+        "All four panels and the bar draw, measured at `11fb9511f4`: activation 270ms against the 4506ms recorded here, page-tree 64ms against 4357ms. Pages draws 2376 rows over 997 akasha files and none from anywhere else, where it drew 3180 from `pages/` before; 2132 open a document and the 244 that do not are group headers no page describes. Domains 7321 of 7321, Work 13, Agents 102. One gap left: no Agents row carries a document at all, though each of its 13 seats has a page.",
     },
     {
       statement: "Nothing reads a readout through the markdown engine.",
