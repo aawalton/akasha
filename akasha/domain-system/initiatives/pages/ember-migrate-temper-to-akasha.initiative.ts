@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "3 packages, 501 files: web 359, player-completion 85, scripts 57. Catalog-addon is recreated and ablated, its 10 lost test cases recovered and proven live. Web`s shared edges are cleared; 18 legacy completion edges remain in 3 files, waiting on an `/api/ask` route that is a fourth member of a family web already serves three of. `player-completion` is ready to ablate once those clear. The watcher is 6 files from whole, at 532 tests.",
+        "3 packages, 502 files: web 360, player-completion 85, scripts 57 — catalog-addon recreated and ablated with its 10 lost tests recovered. `/api/ask` and a catalogs hook are landed and typecheck-clean, so the last 18 legacy completion edges across 3 files are now mechanical: 13 call sites to thread catalogs through. `player-completion` is ready to ablate the moment they clear; its write target is already gone. The watcher is 6 files from whole.",
     },
   ],
   constraints: [
