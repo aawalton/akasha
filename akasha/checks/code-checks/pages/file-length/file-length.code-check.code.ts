@@ -4,11 +4,13 @@ import { FILES, judgingEach } from "../../../modules/change-walking/change-walki
 
 export const CEILING = 15000
 
-const CEILING_SAID = CEILING.toLocaleString("en-US")
+export const ENTRY_CEILING = 8 * 1024 * 1024
 
 const TEST = "test"
 
 const TS = "ts"
+
+const ENTRIES = "jsonl"
 
 const RELIEF = "a module carries one test, and what sets it up stands beside it in `test-fixtures`"
 
@@ -17,10 +19,16 @@ function testNamed(path: string): boolean {
   return said !== null && said.tail === TEST && said.held === TS
 }
 
+function ceilingFor(path: string): number {
+  return namedIn(path)?.held === ENTRIES ? ENTRY_CEILING : CEILING
+}
+
 export function reasonsIn(given: Body): readonly string[] {
   const held = given.bytes.byteLength
-  if (held <= CEILING) return []
-  const said = `${held.toLocaleString("en-US")} bytes, over the ${CEILING_SAID} byte ceiling`
+  const ceiling = ceilingFor(given.path)
+  if (held <= ceiling) return []
+  const over = ceiling.toLocaleString("en-US")
+  const said = `${held.toLocaleString("en-US")} bytes, over the ${over} byte ceiling`
   if (!testNamed(given.path)) return [said]
   return [`${said} — ${RELIEF}`]
 }

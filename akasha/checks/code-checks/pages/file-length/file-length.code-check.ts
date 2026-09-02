@@ -4,7 +4,7 @@ export const fileLength = {
   id: "01a04bcb-c6e7-7e01-9b01-3cad38df56be",
   pageTypeSlug: "code-check",
   slug: "file-length",
-  definition: "the check refusing a file whose body is over the byte ceiling",
+  definition: "the check refusing a file whose body is over the byte ceiling its kind is held to",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -18,7 +18,11 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "No kind of file is exempt.",
+      statement: "An entry file is held to a wider byte ceiling than any other file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry file carries the `jsonl` extension.",
     },
     {
       invariantKind: "departure",

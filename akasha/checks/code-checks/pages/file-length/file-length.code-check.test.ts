@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
 import { bodiesIn } from "@akasha/testing-system/bodying"
-import { CEILING, reasonsIn } from "./file-length.code-check.code.ts"
+import { CEILING, ENTRY_CEILING, reasonsIn } from "./file-length.code-check.code.ts"
 
 const ROOT = "/repo"
+
+const ENTRY = "akasha/day.daily-tracking.completed-tasks.jsonl"
 
 const given = bodiesIn(ROOT)
 
@@ -42,11 +44,27 @@ test("a body that is not text is judged by its size the same as one that is", ()
   expect(reasonsIn(given("akasha/held.ts", held))).toHaveLength(1)
 })
 
-test("what the file is named changes nothing, because no kind of file is exempt", () => {
+test("what the file is named decides which ceiling that file is held to", () => {
   const held = sized(CEILING + 1)
-  for (const named of ["akasha/held.ts", "akasha/notes.txt", "akasha/data/held.jsonl"]) {
+  for (const named of ["akasha/held.ts", "akasha/notes.txt", "akasha/notes.md"]) {
     expect(reasonsIn(given(named, held))).toHaveLength(1)
   }
+  expect(reasonsIn(given(ENTRY, held))).toEqual([])
+})
+
+test("an entry file at its own ceiling is let through", () => {
+  expect(reasonsIn(given(ENTRY, sized(ENTRY_CEILING)))).toEqual([])
+})
+
+test("an entry file over its own ceiling is refused, and the reason names that ceiling", () => {
+  const said = reasonsIn(given(ENTRY, sized(ENTRY_CEILING + 1)))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("8,388,609 bytes")
+  expect(said[0]).toContain("8,388,608 byte ceiling")
+})
+
+test("a `jsonl` akasha cannot read a page name in is held to the narrow ceiling", () => {
+  expect(reasonsIn(given("akasha/held.jsonl", sized(CEILING + 1)))).toHaveLength(1)
 })
 
 test("a body far over the ceiling is refused once rather than once for each line", () => {
