@@ -399,9 +399,8 @@
       "name": "@akasha/health-samples-access",
       "dependencies": {
         "@akasha/day": "workspace:*",
-        "@akasha/file-system": "workspace:*",
         "@akasha/pages-system": "workspace:*",
-        "@akasha/utils-fs": "workspace:*",
+        "@akasha/pages-system-service": "workspace:*",
       },
     },
     "akasha/health-samples-day": {
@@ -815,6 +814,13 @@
     "akasha/temper/temper-catalog-core": {
       "name": "@akasha/temper-catalog-core",
     },
+    "akasha/temper/temper-catalog-generators": {
+      "name": "@akasha/temper-catalog-generators",
+      "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
+        "@akasha/temper-game-catalog-capture-host": "workspace:*",
+      },
+    },
     "akasha/temper/temper-catalog-host": {
       "name": "@akasha/temper-catalog-host",
       "dependencies": {
@@ -845,6 +851,17 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-characters-capture-addon": {
+      "name": "@akasha/temper-characters-capture-addon",
+      "dependencies": {
+        "@akasha/temper-bit-codec": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
+        "@akasha/temper-capture-writer": "workspace:*",
+        "@akasha/temper-catalog-core": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-classes": {
       "name": "@akasha/temper-classes",
       "dependencies": {
@@ -872,6 +889,7 @@
     "akasha/temper/temper-companions-core": {
       "name": "@akasha/temper-companions-core",
       "dependencies": {
+        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -974,6 +992,17 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-housing-addon": {
+      "name": "@akasha/temper-housing-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-lib-custom-menu": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-hud-components": {
       "name": "@akasha/temper-hud-components",
       "dependencies": {
@@ -986,6 +1015,7 @@
     "akasha/temper/temper-interface-addon": {
       "name": "@akasha/temper-interface-addon",
       "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -2223,6 +2253,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
@@ -2516,6 +2547,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@temper/game-characters": "workspace:*",
@@ -2933,9 +2965,9 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@shared/auth": "workspace:*",
-        "@shared/pages-ui": "workspace:*",
         "@temper/player-completion": "workspace:*",
         "lucide-react": "^0.576.0",
       },
@@ -2997,6 +3029,7 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
@@ -3039,6 +3072,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@temper/game-characters": "workspace:*",
@@ -3745,6 +3779,8 @@
 
     "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:akasha/temper/temper-catalog-core"],
 
+    "@akasha/temper-catalog-generators": ["@akasha/temper-catalog-generators@workspace:akasha/temper/temper-catalog-generators"],
+
     "@akasha/temper-catalog-host": ["@akasha/temper-catalog-host@workspace:akasha/temper/temper-catalog-host"],
 
     "@akasha/temper-catalog-side-file": ["@akasha/temper-catalog-side-file@workspace:akasha/temper/temper-catalog-side-file"],
@@ -3752,6 +3788,8 @@
     "@akasha/temper-champion-points": ["@akasha/temper-champion-points@workspace:akasha/temper/temper-champion-points"],
 
     "@akasha/temper-character-sources": ["@akasha/temper-character-sources@workspace:akasha/temper/temper-character-sources"],
+
+    "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:akasha/temper/temper-characters-capture-addon"],
 
     "@akasha/temper-classes": ["@akasha/temper-classes@workspace:akasha/temper/temper-classes"],
 
@@ -3788,6 +3826,8 @@
     "@akasha/temper-game-catalog-capture-addon": ["@akasha/temper-game-catalog-capture-addon@workspace:akasha/temper/temper-game-catalog-capture-addon"],
 
     "@akasha/temper-game-catalog-capture-host": ["@akasha/temper-game-catalog-capture-host@workspace:akasha/temper/temper-game-catalog-capture-host"],
+
+    "@akasha/temper-housing-addon": ["@akasha/temper-housing-addon@workspace:akasha/temper/temper-housing-addon"],
 
     "@akasha/temper-hud-components": ["@akasha/temper-hud-components@workspace:akasha/temper/temper-hud-components"],
 

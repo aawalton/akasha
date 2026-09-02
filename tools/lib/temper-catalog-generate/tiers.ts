@@ -1,29 +1,29 @@
 
-import type { Tier } from "./harness.ts"
-import { tier as achievement } from "./tiers/achievement.ts"
-import { tier as antiquity } from "./tiers/antiquity.ts"
-import { tier as cadwell } from "./tiers/cadwell.ts"
-import { tier as collectibles } from "./tiers/collectibles.ts"
-import { tier as loreLibrary } from "./tiers/lore-library.ts"
-import { tier as poi } from "./tiers/poi.ts"
+import { ACHIEVEMENT_TIER } from "@akasha/temper-catalog-generators/achievement-catalog-tier"
+import { ANTIQUITY_TIER } from "@akasha/temper-catalog-generators/antiquity-catalog-tier"
+import { CADWELL_TIER } from "@akasha/temper-catalog-generators/cadwell-catalog-tier"
+import type { Tier } from "@akasha/temper-catalog-generators/catalog-tier"
+import { COLLECTIBLES_TIER } from "@akasha/temper-catalog-generators/collectibles-catalog-tier"
+import { LORE_LIBRARY_TIER } from "@akasha/temper-catalog-generators/lore-library-catalog-tier"
+import { POI_TIER } from "@akasha/temper-catalog-generators/poi-catalog-tier"
+import { RECIPE_TIER } from "@akasha/temper-catalog-generators/recipe-catalog-tier"
+import { TRAIT_RESEARCH_TIER } from "@akasha/temper-catalog-generators/trait-research-catalog-tier"
+import { TRIBUTE_TIER } from "@akasha/temper-catalog-generators/tribute-catalog-tier"
+import { ZONE_COMPLETION_TIER } from "@akasha/temper-catalog-generators/zone-completion-catalog-tier"
 import { tier as quest } from "./tiers/quest.ts"
-import { tier as recipe } from "./tiers/recipe.ts"
-import { tier as traitResearch } from "./tiers/trait-research.ts"
-import { tier as tribute } from "./tiers/tribute.ts"
-import { tier as zoneCompletion } from "./tiers/zone-completion.ts"
 
 export const TIERS: readonly Tier[] = [
-  achievement,
-  antiquity,
-  cadwell,
-  collectibles,
-  loreLibrary,
-  poi,
+  ACHIEVEMENT_TIER,
+  ANTIQUITY_TIER,
+  CADWELL_TIER,
+  COLLECTIBLES_TIER,
+  LORE_LIBRARY_TIER,
+  POI_TIER,
   quest,
-  recipe,
-  traitResearch,
-  tribute,
-  zoneCompletion,
+  RECIPE_TIER,
+  TRAIT_RESEARCH_TIER,
+  TRIBUTE_TIER,
+  ZONE_COMPLETION_TIER,
 ]
 
 export const TIER_SLUGS: readonly string[] = TIERS.map((tier) => tier.slug)

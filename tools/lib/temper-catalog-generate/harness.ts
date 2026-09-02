@@ -6,28 +6,12 @@ import { asRecord } from "@akasha/utils-narrow/as-record"
 import { readMinedAccountWide } from "@temper/scripts/mined-data-parse"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+import {
+  CATALOG_SAVED_VARIABLES,
+  type Tier,
+} from "@akasha/temper-catalog-generators/catalog-tier"
 import { dataError } from "../exit.ts"
 
-export const CATALOG_SAVED_VARIABLES = "TemperCatalog.lua"
-export const MINED_SAVED_VARIABLES = "TemperDataMining.lua"
-
-export interface TierEmit {
-  readonly content: string
-  readonly report: readonly string[]
-  readonly warnings?: readonly string[]
-}
-
-export interface Tier {
-  readonly slug: string
-  readonly summary: string
-  readonly savedVariables: string
-  readonly outputPath: string
-  readonly format: boolean
-  readonly emit: (
-    accountWide: Record<string, unknown>,
-    apiVersion: string
-  ) => Promise<TierEmit> | TierEmit
-}
 
 function addonName(savedVariables: string): string {
   return savedVariables.replace(/\.lua$/, "")

@@ -4,7 +4,11 @@ import {
   isFullyRead,
   type MinedExtractDiagnostics,
 } from "@temper/scripts/mined-data-parse"
-import { MINED_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import {
+  MINED_SAVED_VARIABLES,
+  type Tier,
+  type TierEmit,
+} from "@akasha/temper-catalog-generators/catalog-tier"
 import { dataError } from "../../exit.ts"
 
 const QUEST_REPEAT_NOT_REPEATABLE = 0
