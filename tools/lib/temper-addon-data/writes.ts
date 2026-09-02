@@ -4,10 +4,8 @@ import type { AddonDataPages } from "./addon-data-pages.ts"
 import { buildAddonDataWritesAlchemy } from "./writes/alchemy.ts"
 import { buildAddonDataWritesCodec } from "./writes/codec.ts"
 import { buildAddonDataWritesCompanionMappings } from "./writes/companion-mappings.ts"
-import { buildAddonDataWritesCompletion } from "./writes/completion.ts"
 import { buildAddonDataWritesEquipment } from "./writes/equipment.ts"
 import { buildAddonDataWritesInventory } from "./writes/inventory.ts"
-import { buildAddonDataWritesLore } from "./writes/lore.ts"
 import { buildAddonDataWritesRules } from "./writes/rules.ts"
 import { buildAddonDataWritesScribing } from "./writes/scribing.ts"
 import { buildAddonDataWritesSets } from "./writes/sets.ts"
@@ -27,8 +25,6 @@ export const ADDON_DATA_SECTIONS: readonly AddonDataSection[] = [
   ["equipment", buildAddonDataWritesEquipment],
   ["sets", buildAddonDataWritesSets],
   ["alchemy", buildAddonDataWritesAlchemy],
-  ["completion", buildAddonDataWritesCompletion],
-  ["lore", buildAddonDataWritesLore],
   ["inventory", buildAddonDataWritesInventory],
   ["rules", buildAddonDataWritesRules],
   ["scribing", buildAddonDataWritesScribing],
