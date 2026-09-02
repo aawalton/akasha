@@ -4,6 +4,8 @@
   "type": "module",
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-capture-perf": "workspace:*",
     "@akasha/temper-characters-capture-addon": "workspace:*",
     "@akasha/temper-characters-skills-morphs-addon": "workspace:*",
     "@akasha/temper-companions-addon": "workspace:*",
