@@ -252,21 +252,6 @@ function buildSvDefaults(): TemperCombatSettings {
   }
 }
 
-declare global {
-  var TemperCombat_Save:
-    | {
-        Default?: Record<
-          string,
-          | Record<
-              string,
-              { version?: number; Settings?: Record<string, unknown> } & Record<string, unknown>
-            >
-          | undefined
-        >
-      }
-    | undefined
-}
-
 let svDefaults: TemperCombatSettings | undefined
 let db: TemperCombatSettings | undefined
 
