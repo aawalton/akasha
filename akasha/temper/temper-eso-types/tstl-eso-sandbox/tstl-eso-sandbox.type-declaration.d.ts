@@ -6,25 +6,25 @@ interface LuaMetatable<
     | ((this: T, key: unknown) => unknown)
     | undefined,
 > {
-  __add?: ?(this: T, operand: unknown) => unknown
-  __sub?: ?(this: T, operand: unknown) => unknown
-  __mul?: ?(this: T, operand: unknown) => unknown
-  __div?: ?(this: T, operand: unknown) => unknown
-  __mod?: ?(this: T, operand: unknown) => unknown
-  __pow?: ?(this: T, operand: unknown) => unknown
-  __unm?: ?(this: T, operand: unknown) => unknown
-  __concat?: ?(this: T, operand: unknown) => unknown
-  __len?: ?(this: T) => unknown
-  __eq?: ?(this: T, operand: unknown) => boolean
-  __lt?: ?(this: T, operand: unknown) => boolean
-  __le?: ?(this: T, operand: unknown) => boolean
+  __add?: (this: T, operand: unknown) => unknown
+  __sub?: (this: T, operand: unknown) => unknown
+  __mul?: (this: T, operand: unknown) => unknown
+  __div?: (this: T, operand: unknown) => unknown
+  __mod?: (this: T, operand: unknown) => unknown
+  __pow?: (this: T, operand: unknown) => unknown
+  __unm?: (this: T, operand: unknown) => unknown
+  __concat?: (this: T, operand: unknown) => unknown
+  __len?: (this: T) => unknown
+  __eq?: (this: T, operand: unknown) => boolean
+  __lt?: (this: T, operand: unknown) => boolean
+  __le?: (this: T, operand: unknown) => boolean
   __index?: TIndex
   __newindex?: object | ((this: T, key: unknown, value: unknown) => void)
-  __call?: ?(this: T, ...args: unknown[]) => unknown
-  __tostring?: ?(this: T) => string
+  __call?: (this: T, ...args: unknown[]) => unknown
+  __tostring?: (this: T) => string
   __mode?: "k" | "v" | "kv"
   __metatable?: unknown
-  __gc?: ?(this: T) => void
+  __gc?: (this: T) => void
 }
 
 interface EsoLuaDateInfo {
