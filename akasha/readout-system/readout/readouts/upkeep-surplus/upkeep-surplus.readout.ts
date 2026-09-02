@@ -12,7 +12,7 @@ export const upkeepSurplus = {
   place: 2,
   figureFormat: "decimal",
   scaleSlug: "surplus-hours",
-  groupSlugs: ["surplus"],
+  groupSlugs: ["upkeep", "surplus"],
   wireKey: "surplus",
   invariants: [
     {
