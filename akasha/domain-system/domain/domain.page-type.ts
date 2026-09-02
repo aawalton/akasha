@@ -4,9 +4,11 @@ import type { Definition } from "./properties/definition.text-property.ts"
 import type { Directives } from "./properties/directives.record-property.ts"
 import type { Invariants } from "./properties/invariants.record-property.ts"
 import type { PartSlugs } from "./properties/part-slugs.relation-property.ts"
+import type { PluralSlug } from "./properties/plural-slug.text-property.ts"
 
 export type Domain = Page & {
   definition: Definition
+  pluralSlug?: PluralSlug
   partSlugs?: PartSlugs
   invariants?: Invariants
   directives?: Directives
@@ -26,6 +28,7 @@ export const domain = {
     "text-property/definition",
     "text-property/name",
     "text-property/invariant-statement",
+    "text-property/plural-slug",
     "text-property/warrant",
   ],
   pageTypeSlug: "page-type",
@@ -35,6 +38,7 @@ export const domain = {
   extendsSlug: "page-type/page",
   properties: [
     { pagePropertySlug: "definition", required: true, many: false },
+    { pagePropertySlug: "plural-slug", required: false, many: false },
     { pagePropertySlug: "part-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "invariants", required: false, many: true, max: null },
     { pagePropertySlug: "directives", required: false, many: true, max: null },
