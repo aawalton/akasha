@@ -36,6 +36,8 @@ import {
   armorTraits,
   armorTraitsBuildList,
 } from "@akasha/temper-equipment/armor-traits"
+import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
+import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import {
   type WeaponTraitId,
   weaponTraits,
@@ -46,7 +48,6 @@ import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/eq
 import type { WeaponBar } from "@akasha/temper-equipment-kinds/weapon-bars"
 import { type WeaponSlot, weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import {
   AVAILABLE_QUALITY_OPTIONS,
