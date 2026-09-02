@@ -1,0 +1,277 @@
+---
+id: 9a26be6d-961a-53af-85fc-469cc4da7eda
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: Mana path"
+slug: 0048-chapter-47-mana-path
+partOf: 12-steps-to-transcendence-a-skill-grinding-litrpg
+position: 48
+ownLength: 1788
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3897685/chapter-47-mana-path"
+royalRoadId: "3897685"
+---
+
+Ethan's question was rather simple.
+
+Lying was just plain stupid right now. Ethan had probably watched him pull the bag out, and the guy had just spent who knows how long protecting him while he cycled.
+
+But Ben didn't know what would happen if he told the truth but then he looked at Ethan's calm eyes. He remembered the guy just casually chatting with him by the fire, offering to team up without a hint of arrogance.
+
+Deciding to take a gamble, Ben chose to trust him.
+
+"Yes."
+
+Hearing the blunt answer, Thomas vibrated with glee and threw his head back.
+
+"Ha! You hear that? He confesses!"
+
+Stepping closer, Thomas looked like he wanted to rip Ben's throat out with his bare teeth.
+
+"The bag and his hands aren't enough anymore. I want a formal duel, Ethan."
+
+Pointing his sword directly at Ben's chest, Thomas sneered.
+
+"I want a public marking on this peasant's flesh so everyone outside the rift knows exactly what happens when you cross my House."
+
+Ignoring the psychotic rant entirely, Ethan kept his eyes on Ben for a second longer. Turning his head slightly, Ethan finally addressed Thomas with a much smaller question.
+
+"And before that?"
+
+Ethan stared into the seething noble's eyes.
+
+"And did you try to kill him for it?"
+
+Watching from the sidelines, Ben wanted to grab a bucket of popcorn. The panic washing over Thomas's face was absolutely hilarious.
+
+He didn't have an answer.
+
+He definitely hadn't expected Ethan to actually care about the attempted murder.
+
+Sighing softly, Ethan shifted his gaze back to the crackling fire.
+
+"Rifts settle claims by contribution, don't they?"
+
+Turning his head, the older boy offered Ben a barely noticeable, hidden wink.
+
+"The bag stays with Ben for now."
+
+"But Ethan—!"
+
+"Whoever has more points when we reach the objective takes it."
+
+So he's turning it into a game.
+
+Ben had absolutely zero complaints about that.
+
+He was already getting away with highway robbery, so keeping the bag because of some bullshit reason Ethan came up with was a massive win.
+
+Plus, Thomas couldn't argue without looking like a whiny toddler in front of a noble. And Ben definitely wasn't going to refuse an arrangement that completely favored him.
+
+"He's a thief. It isn't fair to just let him hold onto House property."
+
+Tilting his head, Ethan gave the angry boy a dry look.
+
+"You're a group of four, and he's just one person. I think you can win a simple points competition, no?"
+
+Hearing that, Thomas paused and a confident grin slowly spread across his face.
+
+"You're absolutely right. Consider it done."
+
+Turning on his heel, Thomas motioned for the others to follow him back into the forest. Ben just stood there, completely unfazed by the petty threat.
+
+I am totally keeping this bag.
+
+But not everyone was eager to leave just yet.
+
+Lingering behind, Clarissa kept her feet firmly planted in the dirt and glared at Ben with a stink eye so intense it could probably melt steel.
+
+Her eyes hadn't left him for a single second since they arrived here.
+
+Noticing her absence, Thomas stopped and turned around.
+
+"Clarissa! We are leaving!"
+
+The blonde girl took a step closer to Ben, ignoring Thomas completely.
+
+"How did you do it?"
+
+"Do what?"
+
+"How did you use [Mana Beam] without a focus? A staff, a ring, a wand, anything! You didn't have anything!"
+
+"What?"
+
+He just blinked slowly and let the silence linger. He had no idea what she was talking about. Clarissa opened her mouth to yell at him.
+
+"Clarissa!" Thomas looked incredibly annoyed. "I said let's go!"
+
+Shooting him one last murderous glare, she turned around and marched into the woods.
+
+Watching the shadows swallow the noble kids, Ben let out a sigh. That went surprisingly well. He turned back to the campfire and looked at Ethan. The smile was no longer on his face as he met Ben's eyes.
+
+"I won't do that twice."
+
+"Thanks for that, but you really don't have to do it again."
+
+"So what do you think? Do you want to team up?"
+
+"Sure, I wouldn't mind."
+
+Ben kept his posture relaxed, but he made sure to set his boundaries immediately.
+
+"But I'm not going to stick with you if that's what you wanted. We could meet up later and then head to the objective together, but if you want to stick together that will be—"
+
+Laughing out loud, Ethan shook his head like Ben had just told a joke.
+
+"Oh, no, no, you misunderstand. That works for me."
+
+Ethan leaned forward a bit.
+
+"Do you not know how rifts are? I guess you don't."
+
+Gesturing vaguely around them, the older boy smiled.
+
+"Rifts are weird. You can spend months inside and barely a day might have passed outside. So we're going to be here for quite some time, haha."
+
+Ben stared.
+
+"What do you mean?"
+
+"Oh yeah, time is all weird inside rifts."
+
+Waving a hand dismissively, Ethan didn't seem to care that he was dropping a massive bombshell.
+
+"You don't age in them either. Well, unless it's one of the rifts that does age you up as well, haha."
+
+This guy laughs at the weirdest things.
+
+"Just hope there isn't an event forcing progression, though. Those kinds of rifts can be unpredictable."
+
+Processing the insane revelation about time dilation, Ben just filed it away for a later time.
+
+"I see."
+
+He needed to know the actual game plan here if they were stuck for months.
+
+"So what's even to do inside a rift?"
+
+"Well, what you've been doing."
+
+Ethan counted off on his fingers.
+
+"Explore, hunt, get essence, find loot and treasures, if you would, and then challenge the guardian."
+
+"What's the guardian like?"
+
+"Varies. It could be anything."
+
+Nodding slowly, Ben mentally checked off his to-do list for the foreseeable future.
+
+"I see. Well, thanks for looking out for me, Ethan. I appreciate it."
+
+"No worries. Happy to make new friends." He stretched a bit with a yawn. "Do work on your perception skill, though."
+
+Looking down at Ben, Ethan gave a helpful little nod.
+
+"I'd suggest forcibly exposing yourself to longer distances and also handling a wider range of frequencies than you think you can handle. You should probably just make a construct recognized by the system to help you with that."
+
+...Huh?
+
+"A system-recognized construct?"
+
+"Oh! You don't know."
+
+Humming thoughtfully, Ethan stepped a bit closer.
+
+"Hm... give me your hand."
+
+"What?"
+
+"Give me your hand. Let me show you something."
+
+Hesitating for a second, Ben eventually just held out his right hand. Ethan grabbed it firmly and immediately started manipulating mana. Ramping [Focus] fully up, Ben stared with intense concentration as Ethan did something incredibly complex with the mana.
+
+Ben stared intensely at their connected hands. He was honestly completely blown away as he watched Ethan weave the mana, folding the currents over themselves like some kind of origami.
+
+It wasn't brute force like Ben usually did.
+
+It was quite honestly beautiful.
+
+Watching the insanely smooth flow, Ben instantly realized exactly how he could do similar things. Absorbing every tiny shift in the mana, his brain went into overdrive piecing together a bunch of new ideas for his own skills.
+
+[Focus Lvl 16 > Lvl 17]
+
+[Mana Sonar Lvl 10 > Lvl 11]
+
+Seeing the notification pop up in his vision, Ben almost grinned.
+
+Since [Mana Sonar] had originally evolved straight from his old [Mana Sense] skill, it obviously kept all of its baseline sensory aspects. So yeah, just getting a front row seat to an actual masterclass in mana control was totally enough to push the skill over the edge.
+
+Releasing his grip, Ethan took a step back, looking at Ben.
+
+"Damn, you can be creepy with that stare." He shivered. "Don't dissect me or anything."
+
+"What?"
+
+"I joke, I joke."
+
+"I see. What did you do to my hand?"
+
+"I've made a temporary construct inside your hand that my teacher taught me when I was learning."
+
+Pointing at Ben's palm, Ethan smiled gently.
+
+"You should study it. It will be helpful."
+
+"I see."
+
+Staying completely silent, Ben just looked at his hand for a long moment, deep in thought. Then, he finally looked up.
+
+"Why do all this?"
+
+"Do what?"
+
+"Helping me."
+
+"I'm a very good judge of character, Benjamin. Consider this me opening a string of fate with you, if you will. Now I must go."
+
+And just like that, he was gone, walking away into the forest with a wave.
+
+Staring at the empty space where the older boy had just been standing, Ben just frowned.
+
+What is a string of fate?
+
+Ben really focused on the small patch of energy resting right in his palm. It was layered. A glowing blue three-dimensional runic structure that practically thrummed with a steady frequency of mana. And it looked incredibly familiar.
+
+Staring at the intersecting lines and sharp runes, his mind immediately flashed back to those weird, fleeting moments of clarity like when he learned a new skill, or that time he had completely checked out in the Trance.
+
+The system always flashed these exact kinds of inscriptions in his head. Frowning, Ben realized his own definition of a 'construct' was completely wrong.
+
+When he made a 'construct' for his skills, like the gun barrel for [Mana Cannon], he just molded a hollow container and shoved energy inside it. This, though, was an actual physical object, in a way, built from mana, holding its shape without any active effort from Ethan, as the boy had long left.
+
+Where Ben's constructs typically faded after use, only his container being a strong mental image, this was permanent.
+
+Intrigued, Ben gently pushed a tiny sliver of his own mana toward the glowing blue construct. Since it was technically resting right against his skin, [Mana Sonar] latched onto it effortlessly.
+
+Or more specifically, the [Mana Sense] aspect of the skill. The sensory feedback was instant and incredibly detailed. He could feel every single fold, every tiny loop, and everything else about the construct holding it together.
+
+It wasn't even fighting back.
+
+He was essentially just scanning a stationary object with the most precise microscope ever invented.
+
+Why…
+
+It only took him a few seconds to map out the entire structure in his head.
+
+Why is this… really simple?
+
+He blinked, pulling his mana back slightly.
+
+He could totally recreate this. Right now. He actually felt like he could build this exact thing right now if he tried. Ben was left entirely speechless.
+
+Is going all in on the mana path finally paying off?
+
+He slowly closed his hand.
+
+I guess it's time to find out. Let's make a system-recognized construct, whatever that is.

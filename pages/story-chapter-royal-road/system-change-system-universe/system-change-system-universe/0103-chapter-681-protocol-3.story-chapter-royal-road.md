@@ -1,0 +1,183 @@
+---
+id: 2efe9aaf-2e7b-577b-8de4-325f339e434c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 681: Protocol 3"
+slug: 0103-chapter-681-protocol-3
+partOf: system-change-system-universe
+position: 103
+ownLength: 2094
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3898000/chapter-681-protocol-3"
+royalRoadId: "3898000"
+---
+
+Chapter 681: Protocol 3
+
+"Protocol 3? What exactly does that mean for me?" Derek asked. With the way Alex was looking at him, he didn't think he'd like where this was going. "And why did your clan's security change overnight?"
+
+"Protocol 3 means that all teleporters are shut down until further notice, and anyone looking to enter the city has to be thoroughly vetted before being allowed entry," Alex explained.
+
+"Am I going to have to be thoroughly vetted?" Derek asked.
+
+"Fortunately, Hall Master Sheen has already made you a VIP guest and accepted responsibility for you, so you won't have to worry about anything like that."
+
+"He accepted responsibility for me?" Derek asked.
+
+"Well, yes," Alex replied with a nod. "Since he was the one who nominated and gave you the badge for your current status, it is his responsibility if you do something you shouldn't. And it being such a high-tier badge makes it even more so."
+
+"So, the only thing it's going to affect for the time being—at least for me—is how long it will take before Hall Master Sheen can set me up with the proper teleportation channels?" Derek asked. If that's all it was, he could handle an extra day or two. The clan was pleasant enough, and it was nice to have a safe place to relax for a while.
+
+"As far as I have been able to find out, yes, that is hopefully the only way you will be affected," Alex said. "But..."
+
+"But?" Derek narrowed his eyes and asked.
+
+"But I found the reason for the current lockdown," Alex answered.
+
+"And that reason is?"
+
+"Apparently, throughout the clans who send their heirs and other clan members to the desolate battlefield planet to train, they are reporting quite a few deaths. Some of the deaths are even from actual heirs of noble houses, and many heirs are still missing," Alex explained. "Even Yasmine from House Noctis has not returned."
+
+"Oh..." Derek said. "Did they say what is going on? Is she important?"
+
+"Well..." Alex kind of chuckled and sighed at the same time. "Because the World Boss was defeated so early on, along with a boss monster that planned to take its place in control after, every beast on the planet has become crazy—almost rabid. They are attacking on sight and not backing down until they die. All intelligence has left the remaining beasts, and all that is left is their instinct to kill. And yes, Yasmine is very important. She's the Noctis Clan's Main Branch Heir."
+
+"Sounds fun," Derek said. "I bet Jace is having a blast then. Sounds like he has an all-he-can-fight buffet on his hands. And If someone so important went there, I'm sure she has plenty of protection."
+
+"True... but fun?" Alex shook his head hard, then paused. "Well... maybe for that maniac with the Battlelust. Yes, it could be fun for him. But, as I said, many trainees and even their escorts have been lost or confirmed dead. Even Yasmine"
+
+"How did they confirm that they died?" Derek asked. "Didn't you say that there was no precise way to do that on that planet?"
+
+"Well, it's mostly been reports from escorts and trainees who escaped," Alex explained.
+
+"Because that is always so reliable," Derek said, deadpan. "I seem to recall an entire clan thinking that you were dead because of what an escort said."
+
+"This is different. These reports are coming from all over, and because of the increase in security, they are obviously being much more careful with the information that they are gathering," Alex said.
+
+"I guess," Derek replied. And technically, they had known that Alex's escort had lied and had punished him after the fact. "Were you the only trainee from your clan who went?" Derek asked.
+
+"Ah... no, I wasn't. Each clan usually sends multiple trainees. It's just that the planet is so large in comparison to the amount of clans that send trainees that you usually don't run into anyone unless you have a way to track them, or, if you do, it's almost certainly not going to be someone from the same house," Alex explained.
+
+"I see," Derek said. "That makes some sense. Are you the only one back from your clan? Or have others died or been trapped since the teleporters are now locked down?"
+
+"I'm not the only one," Alex said. "There was one other who chose to go on his own accord. Our lockdown is because he came back and he is angry and throwing a fit—cursing whoever it was who killed the World Boss so early."
+
+"Sounds like a... character," Derek said. "Does it really matter that much to him?"
+
+"He is the young lord of House Warp. House Warp is the branch of our clan that focuses on offense and attacking. They are ranked number two out of all the branches, second only to the main branch. Actually, Hall Master Sheen is technically a member of House Warp."
+
+"Oh, that's right," Derek replied. "Your father did say something about Old Man Sheen being from House Warp. So, it's a strong branch then?"
+
+"It is the strongest. Many members of House Warp eventually make their way into the main family by either marriage or valor. The main branch is just a combination of the best and their heir, after all," Alex explained.
+
+"Well... none of that has anything to do with me, really..." Derek said. "Who all knows that we killed the World Boss?"
+
+"Well... there is me, my sister, my father... and Hall Master Sheen also found out," Alex said.
+
+"That's all? Then we should be good, no?" Derek asked.
+
+"That depends on Hall Master Sheen," Alex replied.
+
+"What do you mean?" Derek asked.
+
+"Well, the easiest way to end the lockdown and go back to Protocol 2 would be for everyone to learn about what happened with the World Boss," Alex explained. "Overall, the clans won't mind that anyone defeated the Amber Tyrant early and caused chaos—yes, some of the families whose heirs died will be angry, but they won't be able to do anything. Besides, it's not like this is the first time it's happened. They just need to verify that it's not a scheme from House Grimshaw."
+
+"So, if the hall master goes forward with the information, the lockdown will end, and I will be able to continue on through the teleporters sooner?" Derek asked.
+
+"For the most part," Alex replied.
+
+"And the repercussions?" Derek asked.
+
+"The repercussions for you... likely... Garrett Loomis of House Warp," Alex replied.
+
+"That the trainee who came back bitching?" Derek asked.
+
+"Y-yes... he is the trainee that came back complaining," Alex replied. "When he finds out, he will certainly challenge you to a duel or something. And since you can't show your affinity..."
+
+"It won't be to the death, will it?" Derek asked.
+
+"Not unless you do something to besmirch his honor or request it yourself," Alex replied. "But if you lose, it will look bad for both you and Hall Master Sheen for sponsoring you."
+
+"What is the guy's level?" Derek asked.
+
+"He should be around level 250, just like most of the trainees who were on the planet," Alex answered.
+
+"And his class rarity?" Derek asked.
+
+"Mythical, for sure," Alex answered honestly.
+
+"So he's what? Your clan's best hope for their next Ascendant?" Derek asked.
+
+"Yes, he is," Alex replied. "He is exactly that. Garrett is a bit spoiled, but he also works hard for everything that he has obtained. He is not necessarily a man of great character, but neither is he one of bad character."
+
+"So... he's a bit like me?" Derek asked.
+
+"Eh..." Alex looked Derek up and down. "Yes, but completely different personalities. You seem to take everything as a joke and make sarcastic remarks often—yet somehow end up well-liked by those who like no one. Whereas he is snobbish but serious and shows utmost respect when needed."
+
+"So he's not a bad guy, just a brat?" Derek said. "Got it." After thinking for a moment, Derek asked, "What do you think my chances are if I avoid using anything to do with my affinity?"
+
+"Hmm..." Alex rubbed at his chin. "You are evolved? Yes?"
+
+"I am," Derek said.
+
+"I do not believe he is... yet. I am sure he will have an evolution before level 500, though," Alex explained. "So you should be able to at least put up a good fight. Honestly, if you play your cards right, it may come off as suspicious, but you should be able to win a duel against him."
+
+"Why suspicious?" Derek asked.
+
+"Because obviously, you will not be the one challenging him. He will have to challenge you," Alex answered.
+
+"Which means?"
+
+"Which means that it will be up to you to set the conditions," Alex explained.
+
+"And what kind of conditions can I choose from?" Derek asked, already seeing where the conversation was heading.
+
+"There are many, but for you, I would ban any non-general or physical skills," Alex explained.
+
+"And that means?"
+
+"That means that neither of you would be allowed to use your affinity in the fight. It would be a fight based on skill, stats, and recovery," Alex explained. "I believe you have him beat in stats and recovery."
+
+"You think his skill is better than mine?" Derek asked.
+
+"I'm sorry," Alex said. "But I saw some of your fighting."
+
+"And?"
+
+"And you are not a skilled fighter," Alex said with a shrug. "You are very skilled at being hit, but as for weapon masteries and the like, you seem pretty basic. You only really use your weapon to project your affinity."
+
+"You gleaned all that from the few times I joined the battles?" Derek asked. He wanted to argue with Alex, but the young man wasn't wrong. All Derek really did was punch, kick, slash, and get beaten up. But that's all he'd ever needed to do, too. "Will I be able to use my Greater Meditation, Multi-Strike, and Sweeping Slash?"
+
+"Those three skills?" Alex asked. "Well, yes. You're looking at a D-class attack skill, a D-class support skill, and a B-class general skill."
+
+"What about my armor?" Derek asked.
+
+"Up to you," Alex said. "But I would suggest not. Garrett will have armor of equal or higher rarity already."
+
+"And weapons?" Derek asked.
+
+"Also up to you," Alex said. "But again, I would suggest not. Garrett is a master with swords, and your glaive screams void. You have probably named it, too, and someone with a high enough examining skill could read the name. Does that have anything to do with the void?"
+
+"Uh... Void's Harbinger," Derek stated.
+
+"Yeah, don't use that," Alex said.
+
+"So what? You just want us to have a boxing or wrestling match or something?" Derek asked with a furrowed brow.
+
+"If you take credit for the tyrant kill, or if the hall master shares the information he knows," Alex said. "There is also the chance that Garrett won't challenge you, or that the hall master can get you teleported away before he is able to."
+
+"Can I not just decline the challenge?" Derek asked. "That seems to be the best choice. Just tell them that I'm still tired and resting and don't have time for dumb stuff like that."
+
+"That would look bad for both you and the hall master," Alex explained.
+
+Derek really didn't care about looking bad if he got to make it to Origin City sooner, but he liked the old man and didn't want him receiving any backlash for supporting him. "And if I fight and lose?"
+
+"If you fight and win, all will be good," Alex said. "If you lose but put up a good fight, then that is fine, just not great. As long as it's not totally one-sided, then you don't have to worry about losing too much face."
+
+"I guess a little hand-to-hand spar won't be so bad," Derek said with a sigh. "But how about we go out and see exactly what is going on first? Then we can drop by Hall Master Sheen's place and see what he thinks."
+
+"Are you planning on telling him about your affinity?" Alex asked with wide eyes.
+
+"Oh, no, not at all," Derek said. "I'll just say that all my skills are extremely lethal, and I would rather not accidentally kill a member of the clan that has treated me well since I arrived."
+
+"That may actually negate the suspicion I was thinking about," Alex said. "Okay, let's go."

@@ -1,0 +1,125 @@
+---
+id: 542eb6f8-c633-54b0-85f3-3c290e77f519
+page-type-slug: story-chapter-royal-road
+title: "Ch132 Illusory Soul Fox"
+slug: 0132-ch132-illusory-soul-fox
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 132
+ownLength: 1312
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3897864/ch132-illusory-soul-fox"
+royalRoadId: "3897864"
+---
+
+The top of the white egg cracks open, and a baby fox pops its head out.
+
+Its fur is pristine white just like the broken shell, but its eyes are shimmering silver like metal.
+
+A thin layer of vibrations surrounds it as it leans forward and rolls the half-broken shell on top of itself.
+
+High-pitched yips sound as it clumsily gets out from under the shell, and wobbles through the metal portion of the cultivation array.
+
+The tiny creature is half the size of my foot at most, and it falls over multiple times while learning to walk my way.
+
+Two round silver eyes stare up at me from the floor, and I feel our thin soul contract strengthen. System text appears in front of my eyes.
+
+[Automatic Inspect Function Activated…][Unnamed Illusory Soul Fox] [Age: 0][1st Level Qi Refiner][Mutated Metal Spiritual Root][4th Grade][No Acquired Physique][Innate Soul Nourishing Physique][Initial Stage - Mortal Grade][Holds a rare innate physique that grows stronger by resonating with damaged souls.]
+
+More excited yips come out as the tiny fox circles around my feet, then climbs up my leg, torso, and nuzzles its head against my cheek.
+
+I can feel very subtle wisps of its soul traveling through our bond, and my far more matured souls absorbing it with ease, and sending light wisps back. There are small amounts of qi and an underlying presence of my physique mixed in.
+
+Excited grunts and yips come back as it walks around on my shoulders, climbing on my head, and continuously cycling the small wisps of energy shared back and forth.
+
+I feel stimulated, and in a matter of minutes, the minor strain accumulated from working on cracking open rings all day is gone. Even the psychological stress of being in the presence of foundation establishment cultivators earlier feels like it’s been lifted completely.
+
+This spirit beast seems stronger and more energetic too. With a constant stream of raw qi, soul essence, and dao rhythm coming up from the array, we’ve both benefited from this exchange.
+
+The tiny fox crawls down the back of my robe, and walks over to Lan Xin next.
+
+Its strides are cheerful, and it doesn’t stumble at all on the way over.
+
+The tiny silver eyes turn back to look at me, like it’s asking for permission.
+
+“Go ahead,” I remark out loud, and give it a motion to do as it pleases.
+
+A smile grows on the fox’s face and it jumps up on the fiery woman’s unconscious body.
+
+The little spirit beast sits down on her chest, closes its eyes, and a small cloud of white mist seeps out.
+
+Lan Xin’s weak soul is pulled toward it like an anchor, and begins cycling the mist from the fox’s physique through her own soul.
+
+Chaotic yellow and orange waves of energy try to cycle through the fox, but they disappear once they touch its white fur. The white cloud of mist surrounding it just grows larger.
+
+I watch in awe for over an hour.
+
+Not only does Lan Xin’s soul grow more stable, but the spirit beast’s cultivation begins to rise.
+
+A pulse of pure qi and white soul essence comes out of the little creature as it breaks through into the 2nd level of qi refinement before my eyes.
+
+Its physique stays at the initial stage, but I can sense its vibrations growing stronger… The soul bond between us is stimulated, and in turn I feel the same sensation I did when it hatched. My spiritual senses slowly fill in with more depth without me having to do a thing.
+
+Lan Xin’s soul was on the verge of dissipating before, now it looks as strong as a mid-stage qi refiner, and it is still recovering at a rapid rate.
+
+She starts to twitch, and a few uncomfortable groans of pain follow, then she finally wakes up holding her head.
+
+The tiny fox tumbles off her to the ground while she puts on a new change of robes, but is still too dizzy to stand up.
+
+“W-Where are we? What happened? What is this place?” She yells out in pain, and the small fox runs back to me, hiding behind one of my feet.
+
+I shrug, “Maybe start with a thank you? The Jiang Patriarch was angrier at you than he was at the Mu and Wang Clans.”
+
+The high-grade long sword falls from my storage for a second before I pull it back. It’s extremely heavy and the pressure it gives off is not pleasant.
+
+“I took care of him and saved your life, again.”
+
+Lan Xin’s pupils shrink after seeing the sword, then her head turns in every direction, looking around at the array and golden mist.
+
+Her serpent’s eyes pop out of her skin next, but they look at me with far more thankfulness, as it knows more than the confused woman.
+
+“To answer your question, this is my hidden realm. An heirloom from my backing I’d like to keep secret at all costs. It is where I often cultivate alone, but in order to protect you from what I did to that old demon, bringing you here was my only option.”
+
+The small fox behind my foot peeks its head out again, and looks at Lan Xin with hungry eyes.
+
+I lean down and push it to walk forward with a single finger, “Continue, she won’t hurt you.”
+
+It wags its fluffy white tail like a dog and prances forward with confidence again, and sits in front of her to activate its physique.
+
+The fiery-eyed woman grits her teeth in pain as her soul is still extremely weak, and just sitting up is painful.
+
+Still, I ask curiously, “Try to leave this place… Just imagine you’re back in the outside world.”
+
+She looks at me in confusion, then tries, but nothing happens.
+
+I feel an extremely faint fluctuation in my mental link with the bronze door, but it is so weak it wouldn't even wake me from a nap.
+
+I turn to one of the floating islands and picture the jade staircase leading up to it, and it’s summoned into existence as it always is.
+
+As soon as I look away, the stairs fade, “Did you see that? Try it. Just mentally picture them appearing from the mist again.”
+
+Lan Xin looks around with even more bewilderment in her eyes, another tiny fluctuation in my mind forms, but no stairs appear.
+
+She falls back to the floor breathing heavily, and the white fox hops onto her chest again.
+
+I realize she has absolutely no power inside my hidden realm. She cannot walk to other islands, and she cannot leave on her own.
+
+“Just focus on recovering for now. We’ll talk about your debts later.”
+
+With a smirk, I suppress my physique down to its initial stage, conceal all of my qi cultivation, and disappear from sight. I slip out of my hidden realm back into the outside world.
+
+–
+
+The sun has gone down, and now there is only a tiny crescent moon lighting up the dark night.
+
+It’s been over ten hours since the incident, and I’m all alone in the forest below the Wang Family peak.
+
+My spiritual senses push outward over 55 meters now, and I sense nothing out of the ordinary.
+
+As stealthily as I can, I begin making my way further from the mountain, back toward Lingshi City.
+
+However, I only get about a kilometer closer to the city before a streak of green light illuminates my path.
+
+A mid-stage foundation establishment Elder appears before me with his hands clasped. He’s managed to sneak up on me without my instincts alerting me of any danger.
+
+Mu Shouxin bows his head, not letting out any ill-intent or harmful aura, “Please, Senior Li, return to the peak of the Wang Family’s estate so we can properly thank you.”

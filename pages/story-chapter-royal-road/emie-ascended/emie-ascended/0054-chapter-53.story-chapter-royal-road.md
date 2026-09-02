@@ -1,0 +1,169 @@
+---
+id: 82661def-edeb-53dc-8ea4-945075154729
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53"
+slug: 0054-chapter-53
+partOf: emie-ascended
+position: 54
+ownLength: 2477
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3897916/chapter-53"
+royalRoadId: "3897916"
+---
+
+Since I didn’t have time to discuss the potential addition to our household, I didn’t bring up Illia’s offer when I dropped Aerie off at the apartment.
+
+I could have just put her in the sanctuary instead, but I was trying to minimize how much time she spent in stasis, especially after Illia had noticed she was smaller than her sibling.
+
+Instead of teleporting to the local Delver Association and opening a portal from there, I teleported directly to Bloom, figuring it would be easier to start from there since most of the travelers would likely be going from Bloom to Sorenguard.
+
+“Oh! Are you the Porter handling the transfer today?” a woman wearing the emblem of the Delver Association asked as I stepped off the arrival platform.
+
+Congregating around the platform was a modest crowd. At least three of the gathered travelers were wearing the vestments of a healer, which I found interesting. Healer Seraphine had mentioned reinforcements coming soon, and I wondered if these were the healers she was talking about.
+
+“Yes,” I replied, equipping the circlet that identified me as a Porter directly from my storage. “I’m Emie. Are all the ticketed travelers present?”
+
+It had been a surprise to learn that most portal travel was not managed through the Portal Guild directly, but was handled by the Delver Association since that was where the portals transfers were normally performed.
+
+The Association dealt with selling passage once a transfer was scheduled, then settled accounts with the Porter Guild afterward, depending on how many people had used the service.
+
+I found it a bit nostalgic that they used actual paper tickets, just like we’d done on Earth back before magic had become a thing.
+
+“I believe so. If not, then that’s their bad luck,” the woman replied before raising her voice to direct the waiting travelers into lines.
+
+While she did that, I opened the portal to Sorenguard and had a similar conversation with the Association representative on the other side. This one was familiar to me, though I couldn’t recall the clerk’s name.
+
+I was shocked at how many people were waiting on the other side to travel to Bloom. Many of the faces were even passingly familiar. When my gaze lingered on the familiar ones, their basic identification appeared highlighted in green, meaning they were likely new bronze rankers like me.
+
+It was a bit surprising to see so many newly minted ‘adults’ leaving Sorenguard, especially considering the city had an Ascender Dungeon. However, I understood the urge to explore.
+
+Still, they likely had significant backing if they were using a portal to travel so soon after reaching their first evolution. Though the fees were based on one’s rank, they still weren’t cheap.
+
+I ducked back through the portal to manage the travelers going from Bloom to Sorenguard. Since I’d opened the portal from that side, they would be crossing first.
+
+Thirty minutes later, the crowds on both sides had cleared, and I had a stack of tickets to submit to the guild. Considering the time, I opted to go to the guildhall in Portal instead of the one in Sorenguard.
+
+That wasn’t the only reason I decided to go to the guild headquarters, though.
+
+“Ah, if it isn’t our newest Space Magi!” the Porter standing behind the counter exclaimed when I approached.
+
+I frowned since I didn’t particularly recognize the guild employee, but I quickly shifted my expression to a friendly smile.
+
+“Hello. I’m here to turn in the tickets for the transfer between Bloom and Sorenguard,” I said, handing her the stack. “I was also wondering if arrangements have been made for me to set a couple of new waypoints. I was asked to manage the portal between Goldwood and a city called Saint’s Hollow, but I don’t have waypoints in either location.”
+
+“Right,” the Porter said, nodding eagerly. “I heard about that, though I’m not involved with scheduling internal transfers. I’m sure Master Mathias will contact you when more information is available.”
+
+She quickly scanned through the tickets before checking something on a sleek, glass tablet that looked far more modern than I was used to seeing.
+
+“Everything looks good here,” she said, clearly in customer service mode. “Your compensation will be transferred within the next couple of days. Is there anything else that I can help you with?”
+
+I shook my head before pausing. “Actually, there is. As you mentioned, I’m a Space Magi. I was wondering if there was any guidance pertaining to incursion intervention?”
+
+“What do you mean by ‘intervention?’” the woman asked, tensing slightly.
+
+“Closing incursion breaches,” I clarified. “I know it’s not something recommended before silver rank, but I was hoping some information might be available on the topic so I can at least prepare myself for when the time comes.”
+
+I wasn’t set on becoming involved in such a thing, but I also couldn’t ignore the fact that I could make a huge impact on the safety of nearby cities if I learned how to close such breaches.
+
+They were probably a lot like portals or the rifts of my old realm, but I didn’t want to just assume that, if there was more information on the topic.
+
+The woman seemed to pale at my question. Her hands gripped the counter tight enough to make her knuckles whiten.
+
+“Please do not approach incursion breaches,” she pleaded. “Ascender or not, breaches are too dangerous. It’s better to just combat the forces that cross over instead of risking yourself trying to close one prematurely. If Daver…” The woman’s voice hitched, and she shivered. “Just, please don’t.”
+
+“I’m not planning on trying to close one any time soon,” I assured her. “I was just curious if there was information available on how it was done. I’m not in any hurry, though.”
+
+My words seemed to soothe her somewhat, and her white-knuckled grip on the counter loosened.
+
+“Good. I’m sorry about my reaction. But the loss of such a great figure is still pretty raw for those of us who knew him.”
+
+Not wanting to make matters worse, I apologized and left without pushing the topic. It was still quite early to concern myself with the mechanisms behind closing incursion breaches, after all.
+
+Maybe it would be better to wait until I was deep into steel rank to start asking such questions.
+
+“That took a little longer than I expected,” Stephen said lightly when I returned to our shared apartment.
+
+Aerie had made a nest of Stephen’s hair once again, and I couldn’t help but wonder if she would continue such shenanigans if her sister were around.
+
+Technically, there was enough room on his head to hold two small asolades, though I couldn’t imagine it was something that my shifter boyfriend would enjoy. Then again, I couldn’t see him enjoying having Aerie nested in his hair, yet he allowed it.
+
+“Yeah. I asked about incursion breaches when I stopped by headquarters to drop off the transfer tickets,” I replied.
+
+Stephen already knew that I had no plans of taking on such a dangerous task anytime soon, so he wasn’t as concerned about my query as the clerk had been. He understood it for what it was – a mix of professional curiosity and a potential challenge to someday overcome.
+
+“Hey, I wanted to talk to you about something,” I said, sitting next to him on the couch.
+
+“Let me guess,” Stephen interjected, rubbing the sleeping asolade on his head lightly. “You ran into Illia, and she still has a kit or two left.”
+
+Tilting my head, I asked, “How did you know?”
+
+Chuckling, Stephen replied, “Aerie was really excited when you dropped her off. She spent nearly ten minutes sending excited impressions about getting to play with littermates. It wasn’t hard to figure out.”
+
+I couldn’t help but feel a little jealous that my boyfriend was able to communicate with my bond better than I could, but I tried to suppress the emotion. His connection to beasts due to his previous affinity and his ability to shift into beasts was likely well beyond anything that I could ever hope to match through an artificial skill.
+
+That wasn’t to say Aerie would choose Stephen over me if forced to decide. Our bond was just different.
+
+“Well? What do you think?” I asked. “One of the kits was returned because the new owners didn’t understand what it meant to raise an asolade. Aerie really enjoyed playing earlier, and Illia mentioned that she’d be willing to sell us the kit for half price.”
+
+Stephen’s eyes narrowed slightly as he considered my question. I knew that he’d been leaning more toward acquiring a combat-oriented bond, but it was clear that he’d already developed a soft spot for asolades.
+
+“I’m not against it,” he said after a moment. “I think having one of her littermates around would make Aerie happy, and it’s not like getting another kit would stop me from getting a different bond in the future.”
+
+“Yeah?” I said brightly. “Are you sure?”
+
+Stephen gently lifted Aerie from the nest she’d made of his hair, pulling her to his chest. As he rubbed her head around her ears, the shifter’s lips pulled into a soft smile.
+
+“Yeah, I’m sure. I think it would be good for her. And this way, you’d be able to leave her in the sanctuary without needing to put her into stasis all the time.”
+
+“You aren’t worried that they might get into trouble?”
+
+“Not really. The sanctuary is pretty minimalistic when it comes to décor anyway. And if it does become a problem, I can always fix them up a little place of their own in the garden.”
+
+I smiled at the thought of Stephen building (or more accurately, having Mike build for him) some kind of asolade home next to the Golden Oak. It wasn’t necessarily a bad idea, even if they didn’t cause problems when left alone.
+
+With Stephen’s agreement, I reached out to Illia and let her know that we’d be interested in purchasing Aerie’s littermate. I wasn’t going to call her Princess because I had no intention of keeping that name once the kit joined our family.
+
+As far as what we’d end up naming her, I’d leave that to Stephen.
+
+“Who is this?” Cora gasped, seeing the second asolade peeking through the mess that was Stephen’s hair just a few days later, when we met for dinner at our place.
+
+Instead of making Aerie less likely to nest on top of his hair, having her sister join us only contributed to the issue. It was still cute, though, which was why Stephen didn’t do anything to really discourage the behavior.
+
+“This is Lana,” Stephen said, pulling both kits from atop his head. “She’s Aerie’s sister and the newest member of our household.”
+
+“She’s so cute!” Cora exclaimed, leaning closer. “She looks bigger than Aerie. And she’s got a lot more gray in her fur.”
+
+I explained the difference in size and its cause, making both of our fellow teammates nod in understanding. Lana and Aerie both ended up in Cora’s arms since the two kits had been inseparable ever since we brought Lana home.
+
+“They make me want to get one… or have a baby,” she added, sending a playful look toward Mike. I found it amusing that a couple who’d been together for so long could still act so much like newlyweds.
+
+“In due time, my love,” Mike replied with a soft look. “Let’s enjoy our time here for now. We can work on starting a family after we get settled in Goldwood.”
+
+I’d let the couple know about my agreement with the Porter Guild right away, so they knew I’d be acquiring a waypoint in the city within the month.
+
+“Or wherever we end up,” Cora added.
+
+I’d warned them about the clerk’s reaction when I’d mentioned visiting, so the couple was aware that there was something off about the city. They still wanted to visit, but there was a bit more restraint in that desire than there had been before.
+
+Mike also had a couple of projects he was in the middle of with the Builder Guild, so he wasn’t in any position to leave right away. Once the projects were completed, though, they’d likely want to relocate somewhere that felt more comfortable to the pair.
+
+It would be roughly four months before he was scheduled to finish both projects. That wasn’t a lot of time in the grand scheme of things.
+
+“We’re still going to visit after Emie gets her waypoint, right?” Cora asked before turning to me. “That is, if you don’t mind. I don’t want to take advantage of you or anything.”
+
+“It’s fine. I’m getting the waypoint there for you guys, after all,” I replied. “I was thinking it would be nice to spend some downtime just exploring different cities pretty soon. I get the feeling that my patient list is going to shrink very soon.”
+
+“Why do you say that? I thought you were one of the only two Healers able to regrow limbs,” Mike commented.
+
+“I recently transferred three Healers from Bloom. That’s the city specializing in nature and glass,” I explained. “I heard a few comments during my last shift about the new Healers and how they were also able to regrow limbs. I’m not sure if all three of them can, but at least two of them should be able to do what I do.
+
+“There were also comments about classes being scheduled to help push those with healing skills to use their skills better. Even if none of the Healers manage to push their skills in that direction, just having a couple of additional regenerative healers around will make a big difference in the backlog – especially if they dedicate a lot of their time to healing instead of delving.”
+
+Though each Healer appeared to have been accompanied by a full party, that did not mean they planned to dedicate all of their time toward progression. I wasn’t sure why so many had decided to move at the same time, but knowing I was no longer responsible for healing every amputee under the second evolution was a huge weight off my chest.
+
+I hadn’t gotten a chance to talk to Seraphine or Leslie about the new Healers yet, since I’d only worked one shift since they arrived, but I was hopeful that their arrival meant I would have more freedom to explore without needing to feel guilty about the patients left suffering.
+
+“That’s awesome! You definitely don’t get enough time off,” Cora said. “We should plan our first trip soon! Maybe after the next dungeon trip.”
+
+“Obviously, since we’re delving tomorrow,” I said sarcastically, though I couldn’t suppress my smile at the thought of exploring more of the world.
