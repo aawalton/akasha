@@ -54,7 +54,8 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
 
   try {
     await captureError(payload)
-  } catch {
+  } catch (thrown) {
+    console.error(`api/errors: ${thrown instanceof Error ? thrown.message : String(thrown)}`)
     return Response.json({ error: "capture-failed" }, { status: 500, headers: cors })
   }
 
