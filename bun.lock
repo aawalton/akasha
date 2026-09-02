@@ -1848,13 +1848,13 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/tower-core": {
+    "akasha/story/tower/core": {
       "name": "@akasha/tower-core",
       "dependencies": {
         "zod": "^4.3.6",
       },
     },
-    "akasha/tower-engine": {
+    "akasha/story/tower/engine": {
       "name": "@akasha/tower-engine",
     },
     "akasha/utils-fs": {
@@ -3739,9 +3739,9 @@
 
     "@akasha/tower": ["@akasha/tower@workspace:akasha/tower"],
 
-    "@akasha/tower-core": ["@akasha/tower-core@workspace:akasha/tower-core"],
+    "@akasha/tower-core": ["@akasha/tower-core@workspace:akasha/story/tower/core"],
 
-    "@akasha/tower-engine": ["@akasha/tower-engine@workspace:akasha/tower-engine"],
+    "@akasha/tower-engine": ["@akasha/tower-engine@workspace:akasha/story/tower/engine"],
 
     "@akasha/utils-fs": ["@akasha/utils-fs@workspace:akasha/utils-fs"],
 
