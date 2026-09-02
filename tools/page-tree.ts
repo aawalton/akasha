@@ -9,10 +9,9 @@ const HELP = `bun tools/page-tree.ts — the index answers a page tree is compos
 
 Prints one JSON object on stdout and nothing else:
 
-  { "types": [ row, … ], "properties": [ row, … ],
-    "propertyTypes": [ row, … ], "domains": [ row, … ] }
+  { "types": [ row, … ], "properties": [ row, … ], "propertyTypes": [ row, … ] }
 
-A row is \`{ "at", "values" }\`. Nothing here composes a tree: the four groups are handed
+A row is \`{ "at", "values" }\`. Nothing here composes a tree: the three groups are handed
 back and whoever asked assembles them, which keeps the assembling in one place rather
 than in two runtimes.
 
@@ -55,7 +54,6 @@ interface Answers {
   readonly types: readonly Row[]
   readonly properties: readonly Row[]
   readonly propertyTypes: readonly Row[]
-  readonly domains: readonly Row[]
 }
 
 interface Declaration {
@@ -227,12 +225,12 @@ export function answersFrom(
     )
   }
 
-  // NO DOMAIN ROWS, because the group has no counterpart here. In the markdown corpus a domain page
+  // NO DOMAIN ROWS, because the group had no counterpart here. In the markdown corpus a domain page
   // slugged `page-property-type-<kind>` said where a kind's node opens a document; in akasha a kind
-  // is a page type, drawn in the first tree with its own row, and no domain names it. So the kind
-  // nodes and the vocabulary root open nothing, and inventing a domain slug to make them open
-  // something would put a page slug in this answer that no page carries.
-  return { types, properties: drawn, propertyTypes, domains: [] }
+  // is a page type, so `types` already carries the path of the page defining it and the tree opens
+  // a kind node from there. The group was answered empty for as long as it stood, and inventing a
+  // domain slug to fill it would have put a page slug in this answer that no page carries.
+  return { types, properties: drawn, propertyTypes }
 }
 
 export function pageAnswers(root: string = rootFor(resolveRoots(), AKASHA)): Answers {

@@ -16,7 +16,6 @@ const ANSWERS_SCHEMA = z.object({
 	types: z.array(ROW_SCHEMA),
 	properties: z.array(ROW_SCHEMA),
 	propertyTypes: z.array(ROW_SCHEMA),
-	domains: z.array(ROW_SCHEMA),
 });
 
 export function countRows(nodes: readonly PageNode[]): number {
@@ -57,7 +56,6 @@ export function readPageAnswers(answered: unknown): PageAnswers {
 		types: held.types as readonly QueryRow[],
 		properties: held.properties as readonly QueryRow[],
 		propertyTypes: held.propertyTypes as readonly QueryRow[],
-		domains: held.domains as readonly QueryRow[],
 	};
 }
 

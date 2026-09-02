@@ -21,7 +21,6 @@ export interface PageAnswers {
 	readonly types: readonly QueryRow[];
 	readonly properties: readonly QueryRow[];
 	readonly propertyTypes: readonly QueryRow[];
-	readonly domains: readonly QueryRow[];
 }
 
 const NO_PARENT = 'none';
@@ -42,13 +41,26 @@ const ON_TYPE = 'page-type';
 
 const ON_PROPERTY_TYPE = 'page-property-type';
 
-const VOCABULARY_TYPE = 'page-property-type';
+// WHERE A KIND NODE AND THE VOCABULARY ROOT OPEN, AND WHY THAT COMES OUT OF THE `types` ANSWER.
+//
+// A kind is a page type — `text-property`, `record-property`, `named-file-property` — so the page
+// that defines a kind is already answered in `types`, with its path, and is already drawn in the
+// first tree under its own row. A kind node opens that page. The path is taken from the answer
+// rather than composed here, so nothing names a page the answer did not carry, and a kind the
+// `types` answer does not hold keeps its null and opens nothing.
+//
+// This used to read a fourth `domains` answer for a page slugged `page-property-type-<kind>`. The
+// markdown corpus carried one such domain page per kind; akasha carries none, so the group answered
+// empty and all thirteen kinds plus this root drew a row that opened nothing.
+//
+// The root is `page-property` and not `page-property-type`. `page-property` is the page type every
+// kind extends, and it is what `propertyKindsIn` walks up to when it decides which page types are
+// kinds. `page-property-type` is the qualifier a property definition names its owner by, above —
+// no page carries it as a slug. The two spellings are close enough that this root looked up the
+// qualifier, which went unnoticed while a miss and a hit both drew nothing.
+const VOCABULARY_ROOT_TYPE = 'page-property';
 const VOCABULARY_ID = 'vocabulary';
 const VOCABULARY_LABEL = 'page property types';
-
-const KIND_DOMAIN = 'page-property-type-';
-
-const KIND_ORDER: readonly string[] = ['primitive', 'composite', 'record', 'select', 'constant'];
 
 interface TypeRow {
 	readonly slug: string;
@@ -114,12 +126,15 @@ function detailOfType(row: PropertyTypeRow): string | null {
 	return row.of;
 }
 
+// THE KINDS STANDING IN THE ANSWER, IN ONE ORDER.
+//
+// A `KIND_ORDER` of `primitive`, `composite`, `record`, `select`, `constant` used to be drawn ahead
+// of the rest. Those are the markdown corpus's words for what a property is; a kind here is the
+// slug of the page type the property is, and the thirteen that stand are `text-property`,
+// `record-property`, `page-property-entry` and their like. Not one of the five matched, so every
+// kind fell through to this sort and the two arms were one arm.
 function kindsIn(rows: readonly PropertyTypeRow[]): readonly string[] {
-	const standing = [...new Set(rows.map((row) => row.kind))];
-	return [
-		...KIND_ORDER.filter((kind) => standing.includes(kind)),
-		...standing.filter((kind) => !KIND_ORDER.includes(kind)).sort(byText),
-	];
+	return [...new Set(rows.map((row) => row.kind))].sort(byText);
 }
 
 function allIds(nodes: readonly PageNode[]): readonly string[] {
@@ -185,13 +200,6 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 		});
 	}
 
-	const kindAt = new Map<string, string>();
-	for (const row of answers.domains) {
-		const slug = textOf(row, 'slug');
-		if (slug === null || !slug.startsWith(KIND_DOMAIN)) { continue; }
-		kindAt.set(slug.slice(KIND_DOMAIN.length), atOf(row));
-	}
-
 	const children = new Map<string, string[]>();
 	const rootSlugs: string[] = [];
 	for (const row of [...types.values()].sort((a, b) => byText(a.slug, b.slug))) {
@@ -223,12 +231,12 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
 	const vocabulary: PageNode = {
 		id: VOCABULARY_ID,
 		label: VOCABULARY_LABEL,
-		at: types.get(VOCABULARY_TYPE)?.at ?? null,
+		at: types.get(VOCABULARY_ROOT_TYPE)?.at ?? null,
 		detail: null,
 		children: kindsIn(propertyTypes).map((kind) => ({
 			id: `kind/${kind}`,
 			label: kind,
-			at: kindAt.get(kind) ?? null,
+			at: types.get(kind)?.at ?? null,
 			detail: null,
 			children: propertyTypes
 				.filter((row) => row.kind === kind)
