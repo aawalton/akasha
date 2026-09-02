@@ -1,14 +1,19 @@
 {
-  "extends": "../addons/tsconfig.base.json",
+  "extends": "../../tsconfig.base.json",
   "compilerOptions": {
     "module": "esnext",
     "moduleResolution": "bundler",
+    "lib": [
+      "ESNext"
+    ],
+    "types": [],
+    "jsx": "react",
+    "noEmit": true,
+    "rewriteRelativeImportExtensions": true,
     "isolatedModules": true,
     "rootDir": "../..",
-    "noEmit": true,
     "target": "ESNext",
-    "strict": true,
-    "types": []
+    "strict": true
   },
   "include": [
     "src/**/*.ts",
@@ -16,5 +21,11 @@
   ],
   "exclude": [
     "src/**/*.test.ts"
-  ]
+  ],
+  "tstl": {
+    "luaTarget": "5.1",
+    "luaLibImport": "require-minimal",
+    "noResolvePaths": [],
+    "noImplicitSelf": true
+  }
 }

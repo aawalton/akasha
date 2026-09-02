@@ -1,21 +1,28 @@
 {
-  "extends": "../addons/tsconfig.base.json",
+  "extends": "../../tsconfig.base.json",
   "compilerOptions": {
     "module": "esnext",
     "moduleResolution": "bundler",
+    "lib": [
+      "ESNext"
+    ],
+    "types": [],
+    "jsx": "react",
+    "noEmit": false,
+    "rewriteRelativeImportExtensions": true,
     "isolatedModules": true,
     "rootDir": "../..",
     "outDir": "../addons/dist/LibSets",
     "target": "ESNext",
-    "strict": true,
-    "types": []
+    "strict": true
   },
   "tstl": {
     "luaTarget": "5.1",
-    "luaBundle": "LibSets.lua",
-    "luaBundleEntry": "./src/main.ts",
     "luaLibImport": "require-minimal",
-    "noImplicitSelf": true
+    "noResolvePaths": [],
+    "noImplicitSelf": true,
+    "luaBundle": "LibSets.lua",
+    "luaBundleEntry": "./src/main.ts"
   },
   "include": [
     "src/**/*.ts",
