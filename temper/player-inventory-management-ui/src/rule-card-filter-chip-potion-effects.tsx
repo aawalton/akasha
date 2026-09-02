@@ -1,11 +1,20 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
 import { Text } from "@akasha/design-primitives/text-body"
-import { POTION_EFFECTS_OPTIONS } from "@temper/game-items-rules-core/filters/potion-effects-filter"
+import { POTION_EFFECTS_OPTIONS } from "@akasha/temper-items-rules-core/potion-effects-filter"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "./use-rule-card"
 
