@@ -14,7 +14,11 @@ export const siblingAddons = {
     },
     {
       invariantKind: "departure",
-      statement: "A sibling's source sits in a `siblings` folder inside the addon.",
+      statement: "A sibling's manifest is carried by the page of the addon that ships the sibling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sibling holds a manifest and nothing more.",
     },
     {
       invariantKind: "departure",

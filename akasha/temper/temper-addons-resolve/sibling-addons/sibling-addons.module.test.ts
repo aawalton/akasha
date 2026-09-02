@@ -6,6 +6,7 @@ import {
   assertSafeSiblingName,
   readSiblingAddonNames,
   siblingDistDir,
+  siblingManifestsIn,
   siblingSourceDir,
 } from "./sibling-addons.module.code.ts"
 
@@ -40,4 +41,18 @@ test("an addon with no readable addon.json ships no sibling", () => {
 test("a sibling's source sits in a siblings folder inside the addon", () => {
   expect(siblingSourceDir("/a", "LibZone")).toBe("/a/siblings/LibZone")
   expect(siblingDistDir("/root", "LibZone")).toBe("/root/dist/LibZone")
+})
+
+test("a sibling's manifest is carried by the page of the addon shipping it", () => {
+  const dir = scratch.rootFor("temper-sibling-")
+  writeFileSync(
+    join(dir, "temper-lib-zone.eso-addon.sibling-manifest.json"),
+    JSON.stringify({ "LibZone-1.0": "## Title: LibZone-1.0\r\n" })
+  )
+  expect([...siblingManifestsIn(dir)]).toEqual([["LibZone-1.0", "## Title: LibZone-1.0\r\n"]])
+})
+
+test("an addon carrying no sibling manifest ships no sibling", () => {
+  expect(siblingManifestsIn(scratch.rootFor("temper-sibling-")).size).toBe(0)
+  expect(siblingManifestsIn(join(scratch.rootFor("temper-sibling-"), "gone")).size).toBe(0)
 })
