@@ -94,6 +94,7 @@ export const temper = {
     "workspace-package/temper-character-sources",
     "workspace-package/temper-player-completion",
     "workspace-package/temper-companions-core",
+    "workspace-package/temper-catalog-generators",
   ],
   invariants: [
     {
