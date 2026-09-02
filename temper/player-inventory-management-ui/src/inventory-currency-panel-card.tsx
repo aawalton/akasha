@@ -1,8 +1,8 @@
 "use client"
 
-import { summarizeCurrencies } from "@temper/game-items-core/inventory-currencies"
-import type { InventoryNode } from "@temper/game-items-core/inventory-node-types"
-import type { InventoryCurrencies } from "@temper/game-items-core/inventory-types"
+import { summarizeCurrencies } from "@akasha/temper-items-core/inventory-currencies"
+import type { InventoryNode } from "@akasha/temper-items-core/inventory-node-types"
+import type { InventoryCurrencies } from "@akasha/temper-items-core/inventory-types"
 import { useMemo } from "react"
 import { InventoryPanelCard } from "./inventory-panel-card"
 
