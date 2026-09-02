@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
 
-export const calendarGoogle = {
+export const googleCalendar = {
   id: "01a05c02-c732-7b6e-b180-61f29e1b42e7",
   pageTypeSlug: "workspace-package",
-  slug: "calendar-google",
+  slug: "google-calendar",
   definition: "Alan's Google calendar events read, made, changed and answered",
   manifest: "json",
   partSlugs: [
