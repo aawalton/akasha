@@ -1,7 +1,8 @@
 import { SECRETS, secret } from "../workflow-dsl/secrets"
 import { BUNDLE_REUSE_DIST_ENV } from "./addons-resolve.ts"
-import { ADDON_BUILD_CHECK_NAME } from "./addon-build-co-dep.ts"
 import type { CheckConfig } from "./check-configs-types"
+
+const ADDON_BUILD_CHECK_NAME = "addon-build"
 
 export const ADDON_BUNDLE_BUILD_PACKAGES: ReadonlySet<string> = new Set(["@temper/web"])
 
