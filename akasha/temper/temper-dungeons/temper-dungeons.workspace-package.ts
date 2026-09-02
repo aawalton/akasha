@@ -6,7 +6,12 @@ export const temperDungeons = {
   slug: "temper-dungeons",
   definition: "the group dungeons of Tamriel and the pledges quest givers hand out each day",
   manifest: "json",
-  partSlugs: ["module/dungeon-registry", "module/solo-difficulty", "module/pledge-rotation"],
+  partSlugs: [
+    "module/dungeon-registry",
+    "module/solo-difficulty",
+    "module/pledge-rotation",
+    "module/dungeon-data",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -14,11 +19,11 @@ export const temperDungeons = {
     },
     {
       invariantKind: "departure",
-      statement: "Which dungeons and quest givers there are is handed in by the caller.",
+      statement: "Which dungeons and quest givers a reckoning covers is handed in by the caller.",
     },
     {
-      invariantKind: "absence",
-      statement: "No dungeon data is held here.",
+      invariantKind: "departure",
+      statement: "The dungeon data here is written out from the dungeon pages.",
     },
   ],
 } as const satisfies WorkspacePackage
