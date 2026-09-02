@@ -115,7 +115,11 @@ test("which properties name a file is read from the index, not from a list in th
 test("a file property the change itself introduces names its file", () => {
   const root = rooted(["code"])
   const bodies = {
-    "akasha/x/notes.file-property.ts": pageBody("notes", "", "file-property"),
+    "akasha/x/notes.file-property.ts": pageBody(
+      "notes",
+      ', propertySlug: "notes"',
+      "file-property"
+    ),
     "akasha/b/new.module.ts": pageBody("new", ', notes: "md"'),
   }
   expect(
