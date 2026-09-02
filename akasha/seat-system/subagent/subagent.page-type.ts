@@ -1,11 +1,13 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Agent } from "../../agents/agent.page-type.ts"
 import type { PrincipalSeatName } from "../seat/properties/principal-seat-name.relation-property.ts"
+import type { AgentId } from "./properties/agent-id.text-property.ts"
 import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"
 
 export type Subagent = Agent & {
   principalSeatName: PrincipalSeatName
   dispatchedAs: DispatchedAs
+  agentId?: AgentId
 }
 
 export const subagent = {
@@ -16,10 +18,11 @@ export const subagent = {
   pluralSlug: "subagents",
   extendsSlug: "page-type/agent",
   mortal: true,
-  partSlugs: ["text-property/dispatched-as"],
+  partSlugs: ["text-property/agent-id", "text-property/dispatched-as"],
   properties: [
     { pagePropertySlug: "principal-seat-name", required: true, many: false },
     { pagePropertySlug: "dispatched-as", required: true, many: false },
+    { pagePropertySlug: "agent-id", required: false, many: false },
   ],
   invariants: [
     {
@@ -28,7 +31,7 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's page stands while the subagent runs.",
+      statement: "A subagent's page is there while the subagent runs.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +39,7 @@ export const subagent = {
     },
     {
       invariantKind: "gap",
-      statement: "A page standing for a subagent that is no longer running goes.",
+      statement: "A page for a subagent that is no longer running goes.",
     },
     {
       invariantKind: "departure",

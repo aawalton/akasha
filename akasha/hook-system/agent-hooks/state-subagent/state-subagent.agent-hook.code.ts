@@ -23,9 +23,10 @@ export const SCOPE: readonly string[] = [
   `${HOOK} puts up a subagent's page while it works and takes it away when it stops.`,
   "  it runs at SubagentStart and SubagentStop, over no tool, and refuses nothing",
   "  the page states the seat that ran the subagent and the kind it was dispatched as",
+  "  the page states the agent id the subagent acts under, which is its seat's id and its own",
   "  the landing is asked for and left to finish, because a hook is given five seconds",
   "",
-  "WHERE THE RULE COMES FROM: what a seat's subagents are doing is read from what stands, and",
+  "WHERE THE RULE COMES FROM: what a seat's subagents are doing is read from what is there,",
   "a seat is stopped or restarted against that reading. Without a page put up and taken away,",
   "every reader of it sees a seat with no subagents however many are out.",
   "",
@@ -38,10 +39,10 @@ export const SCOPE: readonly string[] = [
   "  a payload naming no subagent, which is the seat's own event",
   "  a start naming no kind, which would compose a page short of what it must state",
   "  a seat the index carries no page for, which nothing can name",
-  "  a page already standing, and a page already gone",
+  "  a page already there, and a page already gone",
   "",
-  "This hook changes what stands rather than judging a call. Every path through it stands aside,",
-  "and the worst it does is leave what stands as it was.",
+  "This hook changes what is there rather than judging a call. Every path through it",
+  "stands aside, and the worst it does is leave what is there as it was.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  a subagent running when the page lands and gone before it does, whose page outlives it",
@@ -51,7 +52,7 @@ export const SCOPE: readonly string[] = [
   "",
   "The absence of a case from this list is NOT a finding that it is covered. It is unexamined.",
   "",
-  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this stands:`,
+  `Printed by \`${HOOK}.agent-hook.code.ts ${SCOPE_FLAG}\`, which is the one place this is said:`,
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
@@ -70,7 +71,11 @@ export function actIn(payload: Record<string, unknown>): Act | null {
   return dispatchedAs === null ? null : { act: "put", own, dispatchedAs }
 }
 
-export type Asked = { readonly seatName: string; readonly act: Act }
+export type Asked = {
+  readonly seatName: string
+  readonly seatId: string
+  readonly act: Act
+}
 
 export function askedOf(
   env: Readonly<Record<string, string | undefined>>,
@@ -84,7 +89,7 @@ export function askedOf(
   const seat = seatIn(env)
   if (seat === null) return null
   const seatName = seatNamedIn(root, seat)
-  return seatName === null ? null : { seatName, act }
+  return seatName === null ? null : { seatName, seatId: seat, act }
 }
 
 export function stated(
@@ -95,8 +100,9 @@ export function stated(
   const asked = askedOf(env, raw, root)
   if (asked === null) return null
   const act = asked.act
-  if (act.act === "put") puttingUp(root, asked.seatName, act.own, act.dispatchedAs)
-  else takingDown(root, asked.seatName, act.own)
+  if (act.act === "put") {
+    puttingUp(root, asked.seatName, asked.seatId, act.own, act.dispatchedAs)
+  } else takingDown(root, asked.seatName, act.own)
   return asked
 }
 

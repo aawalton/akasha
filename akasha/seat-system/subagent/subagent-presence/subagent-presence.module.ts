@@ -46,7 +46,19 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page already standing is left as it is.",
+      statement: "A page states the agent id the subagent acts under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat's id reaches here in the call rather than being read back from a name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call to write that carries no seat id writes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page already there is left as it is.",
     },
     {
       invariantKind: "departure",

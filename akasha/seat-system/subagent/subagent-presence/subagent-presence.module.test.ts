@@ -8,6 +8,7 @@ import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, pageFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import {
+  agentIdOf,
   assignedTo,
   bodyOf,
   pathOf,
@@ -58,25 +59,37 @@ test("the mark between a seat's id and a subagent's own comes out as one hyphen"
   expect(slugOf("akasha", `first--second`)).toBe("akasha-first-second")
 })
 
-test("a page stands under the subagents folder named for its slug", () => {
+test("an agent id joins the seat's id to the id the subagent runs under", () => {
+  expect(agentIdOf(SEAT_ID, OWN)).toBe(`${SEAT_ID}--${OWN}`)
+})
+
+test("an agent id keeps a mark a slug would collapse", () => {
+  expect(agentIdOf("akasha", `first--second`)).toBe("akasha--first--second")
+  expect(slugOf("akasha", `first--second`)).toBe("akasha-first-second")
+})
+
+test("a page sits under the subagents folder named for its slug", () => {
   expect(pathOf("akasha-abc")).toBe("akasha/seat-system/subagent/subagents/akasha-abc.subagent.ts")
 })
 
-test("a body states the type and slug and seat and assignment and kind", () => {
-  const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore")
+test("a body states the type and slug and seat and assignment and kind and agent id", () => {
+  const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
   expect(body).toContain("export const akashaAbc = {")
   expect(body).toContain('pageTypeSlug: "subagent"')
   expect(body).toContain('slug: "akasha-abc"')
   expect(body).toContain('principalSeatName: "akasha"')
   expect(body).toContain('assignmentSlug: "domain/akasha-system"')
   expect(body).toContain('dispatchedAs: "Explore"')
+  expect(body).toContain('agentId: "seat--own"')
 })
 
 test("a body states no id, leaving the command to mint one", () => {
-  expect(bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore")).not.toContain("id:")
+  expect(
+    bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
+  ).not.toContain("id:")
 })
 
-test("a page takes the assignment from the page its seat stands at", () => {
+test("a page takes the assignment from the page its seat is at", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("subagent-presence-")
@@ -136,7 +149,7 @@ test("a page is landed by a program, its commit saying no check ran", () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    expect(wrote(root, "akasha", OWN, "Explore")).toBe(true)
+    expect(wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
     const at = join(root, pathOf(slugOf("akasha", OWN)))
     expect(readFileSync(at, "utf8")).toContain('dispatchedAs: "Explore"')
     expect(messageIn(root)).toContain(MECHANICAL)
@@ -145,13 +158,25 @@ test("a page is landed by a program, its commit saying no check ran", () => {
   }
 })
 
-test("a page already standing is left as it is", () => {
+test("a page that landed states the agent id the subagent acts under", () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    expect(wrote(root, "akasha", OWN, "Explore")).toBe(true)
+    expect(wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
+    const at = join(root, pathOf(slugOf("akasha", OWN)))
+    expect(readFileSync(at, "utf8")).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
+  } finally {
+    world.sweep()
+  }
+})
+
+test("a page already there is left as it is", () => {
+  const world = scratchWorld()
+  try {
+    const root = seated(world.rootFor("subagent-presence-"))
+    expect(wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toBe(true)
     const held = gitIn(root, ["rev-parse", "HEAD"])
-    expect(wrote(root, "akasha", OWN, "Task")).toBe(true)
+    expect(wrote(root, "akasha", SEAT_ID, OWN, "Task")).toBe(true)
     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)
   } finally {
     world.sweep()
@@ -162,7 +187,7 @@ test("a seat stating no assignment writes nothing", () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    expect(wrote(root, "thea", OWN, "Explore")).toBe(false)
+    expect(wrote(root, "thea", SEAT_ID, OWN, "Explore")).toBe(false)
     expect(existsSync(join(root, pathOf(slugOf("thea", OWN))))).toBe(false)
   } finally {
     world.sweep()
@@ -173,7 +198,7 @@ test("a page taken away goes, and the commit says a program took it", () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    wrote(root, "akasha", OWN, "Explore")
+    wrote(root, "akasha", SEAT_ID, OWN, "Explore")
     expect(took(root, "akasha", OWN)).toBe(true)
     expect(existsSync(join(root, pathOf(slugOf("akasha", OWN))))).toBe(false)
     expect(messageIn(root)).toContain(MECHANICAL)
@@ -186,7 +211,7 @@ test("a page taken away is forgotten by whoever read it", () => {
   const world = scratchWorld()
   try {
     const root = seated(world.rootFor("subagent-presence-"))
-    wrote(root, "akasha", OWN, "Explore")
+    wrote(root, "akasha", SEAT_ID, OWN, "Explore")
     const at = pathOf(slugOf("akasha", OWN))
     const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
     recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })

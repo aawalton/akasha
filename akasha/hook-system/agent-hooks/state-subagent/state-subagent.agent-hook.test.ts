@@ -88,8 +88,24 @@ test("a stop under a named seat asks for the page to go", () => {
     const raw = payloadOf({ hook_event_name: "SubagentStop", agent_id: OWN })
     expect(askedOf(SEATED, raw, root)).toEqual({
       seatName: "akasha",
+      seatId: SEAT,
       act: { act: "take", own: OWN },
     })
+  } finally {
+    world.sweep()
+  }
+})
+
+test("a start under a named seat carries the seat's id rather than its name alone", () => {
+  const world = scratchWorld()
+  try {
+    const root = worldNaming(world.rootFor, "akasha/seat-system/seat/seats/akasha.seat.ts")
+    const raw = payloadOf({
+      hook_event_name: "SubagentStart",
+      agent_id: OWN,
+      agent_type: "Explore",
+    })
+    expect(askedOf(SEATED, raw, root)?.seatId).toBe(SEAT)
   } finally {
     world.sweep()
   }

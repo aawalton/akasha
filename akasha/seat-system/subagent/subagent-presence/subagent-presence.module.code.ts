@@ -2,7 +2,7 @@ import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
 import type { FileEdit } from "@akasha/command-system/landing"
-import { dropReadings } from "@akasha/command-system/reading"
+import { dropReadings, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { listedAt, listedById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { partedIn } from "@akasha/pages-system/page-file-name"
@@ -26,6 +26,10 @@ export function slugOf(seatName: string, own: string): string {
   return `${seatName}-${own}`.replace(/-{2,}/g, "-")
 }
 
+export function agentIdOf(seatId: string, own: string): string {
+  return `${seatId}${SUBAGENT_MARK}${own}`
+}
+
 export function pathOf(slug: string): string {
   return `${SUBAGENTS_AT}/${slug}${SUFFIX}`
 }
@@ -38,7 +42,8 @@ export function bodyOf(
   slug: string,
   seatName: string,
   assignmentSlug: string,
-  dispatchedAs: string
+  dispatchedAs: string,
+  agentId: string
 ): string {
   return [
     'import type { Subagent } from "../subagent.page-type.ts"',
@@ -49,6 +54,7 @@ export function bodyOf(
     `  principalSeatName: ${said(seatName)},`,
     `  assignmentSlug: ${said(assignmentSlug)},`,
     `  dispatchedAs: ${said(dispatchedAs)},`,
+    `  agentId: ${said(agentId)},`,
     "} as const satisfies Subagent",
     "",
   ].join("\n")
@@ -74,18 +80,22 @@ function handed(root: string, changes: readonly FileEdit[], message: string): bo
   return landedMechanically(root, CALLED_AS, changes, message).code === 0
 }
 
-export function wrote(root: string, seatName: string, own: string, dispatchedAs: string): boolean {
+export function wrote(
+  root: string,
+  seatName: string,
+  seatId: string,
+  own: string,
+  dispatchedAs: string
+): boolean {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   if (existsSync(join(root, at))) return true
   const assignmentSlug = assignedTo(root, seatName)
   if (assignmentSlug === null) return false
-  const body = new TextEncoder().encode(bodyOf(slug, seatName, assignmentSlug, dispatchedAs))
-  return handed(
-    root,
-    [{ path: at, body }],
-    `${slug}: a subagent states the kind it was dispatched as`
+  const body = new TextEncoder().encode(
+    bodyOf(slug, seatName, assignmentSlug, dispatchedAs, agentIdOf(seatId, own))
   )
+  return handed(root, [{ path: at, body }], `${slug}: a subagent states the agent id it acts under`)
 }
 
 export function took(root: string, seatName: string, own: string): boolean {
@@ -95,7 +105,7 @@ export function took(root: string, seatName: string, own: string): boolean {
   const gone = handed(
     root,
     [{ path: at, body: null }],
-    `${slug} is done, so its page goes; what it was stands in this repository's history`
+    `${slug} is done, so its page goes; what it was is in this repository's history`
   )
   if (gone) dropReadings(root, [at])
   return gone
@@ -139,10 +149,11 @@ export function asking(root: string, args: readonly string[]): undefined {
 export function puttingUp(
   root: string,
   seatName: string,
+  seatId: string,
   own: string,
   dispatchedAs: string
 ): undefined {
-  asking(root, [WRITING, seatName, own, dispatchedAs])
+  asking(root, [WRITING, seatName, own, dispatchedAs, seatId])
 }
 
 export function takingDown(root: string, seatName: string, own: string): undefined {
@@ -155,10 +166,13 @@ export function ran(argv: readonly string[]): number {
   const seatName = argv[4]
   const own = argv[5]
   const dispatchedAs = argv[6]
+  const seatId = argv[7]
   if (root === undefined || root === "") return 1
   if (seatName === undefined || seatName === "" || own === undefined || own === "") return 1
-  if (act === WRITING && dispatchedAs !== undefined && dispatchedAs !== "") {
-    return wrote(root, seatName, own, dispatchedAs) ? 0 : 1
+  if (act === WRITING) {
+    if (dispatchedAs === undefined || dispatchedAs === "") return 1
+    if (seatId === undefined || seatId === "") return 1
+    return wrote(root, seatName, seatId, own, dispatchedAs) ? 0 : 1
   }
   if (act === TAKING) return took(root, seatName, own) ? 0 : 1
   return 1
