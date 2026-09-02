@@ -18,6 +18,8 @@ declare const ZO_SORT_ORDER_DOWN: boolean
 
 interface ZoSortHeaderGroup {
   SelectHeaderByKey: (key: string) => void
+  SetEnabled: (enabled: boolean) => void
+  headerContainer: Control
   [key: string]: unknown
 }
 
@@ -65,15 +67,46 @@ declare const ZO_ScrollList_AddDataType: <T, C extends Control = Control>(
   typeId: number,
   templateName: string,
   height: number,
-  setupCallback: (this: void, rowControl: C, data: T) => void
+  setupCallback: (this: void, rowControl: C, data: T) => void,
+  hideCallback?: ((this: void, rowControl: C, data: T) => void) | undefined,
+  dataTypeSelectSound?: string | undefined,
+  resetControlCallback?: ((this: void, rowControl: C) => void) | undefined
 ) => void
 
 declare const ZO_ScrollList_EnableHighlight: (listControl: Control, templateName: string) => void
 
+declare const ZO_ScrollList_EnableSelection: (
+  listControl: Control,
+  highlightTemplate: string,
+  selectionCallback: (this: void, ...args: unknown[]) => void
+) => void
+
 declare function ZO_ScrollList_CreateDataEntry<T>(
   typeId: number,
   data: T,
-  categoryId?: number
+  categoryId?: unknown
 ): ZoScrollListDataEntry<T>
 
 declare const ZO_ClearNumericallyIndexedTable: (table: object) => void
+
+declare const ZO_ScrollList_AddCategory: (listControl: Control, categoryId: unknown) => void
+
+declare const ZO_ScrollList_ShowCategory: (listControl: Control, categoryId: unknown) => void
+
+declare const ZO_ScrollList_HideCategory: (listControl: Control, categoryId: unknown) => void
+
+declare const ZO_ScrollList_GetData: (rowControl: Control) => unknown
+
+declare const ZO_ScrollList_GetDataControl: <T extends Control = Control>(
+  listControl: Control,
+  data: unknown
+) => T | undefined
+
+declare const ZO_ScrollList_ScrollRelative: (
+  listControl: Control,
+  value: number,
+  onScrollCompleteCallback?: unknown,
+  instant?: boolean
+) => void
+
+declare const ZO_SortHeader_OnMouseExit: (headerControl: Control) => void

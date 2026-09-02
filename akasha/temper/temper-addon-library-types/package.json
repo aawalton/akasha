@@ -18,6 +18,7 @@
     "./lib-extended-journal": "./lib-extended-journal/lib-extended-journal.type-declaration.d.ts",
     "./lib-gps": "./lib-gps/lib-gps.type-declaration.d.ts",
     "./lib-histoire": "./lib-histoire/lib-histoire.type-declaration.d.ts",
+    "./lib-lua-52": "./lib-lua-52/lib-lua-52.type-declaration.d.ts",
     "./lib-main-menu": "./lib-main-menu/lib-main-menu.type-declaration.d.ts",
     "./lib-map-data": "./lib-map-data/lib-map-data.type-declaration.d.ts",
     "./lib-map-ping": "./lib-map-ping/lib-map-ping.type-declaration.d.ts",

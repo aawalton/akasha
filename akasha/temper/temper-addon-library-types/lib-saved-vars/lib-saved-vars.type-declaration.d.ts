@@ -54,3 +54,6 @@ interface LibSavedVars {
 }
 
 declare const LibSavedVars: LibSavedVars
+
+declare const SI_LSV_ACCOUNT_WIDE: number
+declare const SI_LSV_ACCOUNT_WIDE_TT: number

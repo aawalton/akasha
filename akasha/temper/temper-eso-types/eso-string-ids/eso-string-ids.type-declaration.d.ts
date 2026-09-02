@@ -158,3 +158,6 @@ declare const SI_MAPDISPLAYFILTER2: number
 declare const SI_GUILDACTIVITYATTRIBUTEVALUE9: number
 declare const SI_BINDING_NAME_SPECIAL_MOVE_CROUCH: number
 declare const SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES1304: number
+
+declare const SI_SEARCH_FILTER_BY: number
+declare const SI_COLOR_PICKER_CURRENT: number

@@ -21,6 +21,7 @@ export const temperAddonLibraryTypes = {
     "type-declaration/lib-extended-journal",
     "type-declaration/lib-gps",
     "type-declaration/lib-histoire",
+    "type-declaration/lib-lua-52",
     "type-declaration/lib-main-menu",
     "type-declaration/lib-map-data",
     "type-declaration/lib-map-ping",

@@ -49,3 +49,9 @@ interface LibShifterBoxStatic {
 }
 
 declare const LibShifterBox: LibShifterBoxStatic
+
+declare const LIBSHIFTERBOX_ALLREADY_LOADED: number
+declare const LIBSHIFTERBOX_EMPTY: number
+declare const LIBSHIFTERBOX_DRAG_MULTIPLE: number
+
+declare let LSB_Debug: LuaTable<AnyNotNil, Record<string, unknown>> | undefined

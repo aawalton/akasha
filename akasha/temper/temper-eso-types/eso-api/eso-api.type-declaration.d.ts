@@ -172,3 +172,12 @@ interface PromotionalEventManager {
   [key: string]: unknown
 }
 declare const PROMOTIONAL_EVENT_MANAGER: PromotionalEventManager
+
+declare const ZO_SAVED_VARS_CHARACTER_NAME_KEY: number
+
+declare const ZO_SAVED_VARS_CHARACTER_ID_KEY: number
+
+declare function ZO_IsElementInNumericallyIndexedTable(
+  array: readonly unknown[],
+  element: unknown
+): boolean

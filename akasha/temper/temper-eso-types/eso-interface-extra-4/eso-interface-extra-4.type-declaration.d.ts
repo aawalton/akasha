@@ -105,3 +105,21 @@ interface GamepadMapLocationTooltip {
     text: string
   ) => void
 }
+
+declare const GuiMouse: Control
+
+declare const ZO_SCROLL_BAR_WIDTH: number
+
+declare const ANIMATION_MANAGER: AnimationManager
+
+declare const GetStringWidthScaledPixels: (
+  this: void,
+  font: FontObject,
+  text: string,
+  fontScale: number
+) => number
+
+interface LabelControl {
+  GetDesiredWidth: () => number
+  WasTruncated: () => boolean
+}
