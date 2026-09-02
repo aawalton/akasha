@@ -1,9 +1,9 @@
 "use client"
 
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { GOAL_NONE_ID } from "@temper/game-items-rules-core/inventory-rule-goals"
-import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
-import type { CategoryRule, ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import { GOAL_NONE_ID } from "@akasha/temper-items-rules-core/inventory-rule-goals"
+import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import type { CategoryRule, ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { useCallback, useMemo, useRef } from "react"
 import { getActionLabel } from "./action-options"
 import type { ActiveStatusFilter, LockStatusFilter, RuleSortField } from "./inventory-filter-types"
