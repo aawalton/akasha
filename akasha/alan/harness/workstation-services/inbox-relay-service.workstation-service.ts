@@ -1,0 +1,23 @@
+import type { WorkstationService } from "@akasha/service-system/workstation-service"
+
+export const inboxRelayService = {
+  id: "01a06230-b156-7667-b81e-d7a74183ae8d",
+  pageTypeSlug: "workstation-service",
+  slug: "inbox-relay-service",
+  definition: "the service carrying the inbox counts to the site that shows them",
+  runs: [
+    "-bun akasha/readout-system/readout-relay/readout-relay.module.code.ts akasha/readout-system/readout/readouts/inboxes-email/inboxes-email.readout.ts https://alanwalton.com",
+    "-bun akasha/readout-system/readout-relay/readout-relay.module.code.ts akasha/readout-system/readout/readouts/inboxes-tasks/inboxes-tasks.readout.ts https://alanwalton.com",
+    "-bun akasha/readout-system/readout-relay/readout-relay.module.code.ts akasha/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts https://alanwalton.com",
+    "-bun akasha/readout-system/readout-relay/readout-relay.module.code.ts akasha/readout-system/readout/readouts/inboxes-texts/inboxes-texts.readout.ts https://alanwalton.com",
+    "-bun akasha/readout-system/readout-relay/readout-relay.module.code.ts akasha/readout-system/readout/readouts/inboxes-questions/inboxes-questions.readout.ts https://alanwalton.com",
+  ],
+  enabled: true,
+  needsSecrets: true,
+  systemd: {
+    schedule: "*:2/5",
+    jitterSeconds: 30,
+    startTimeoutSeconds: 60,
+    catchUp: false,
+  },
+} as const satisfies WorkstationService

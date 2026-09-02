@@ -10,6 +10,8 @@ export const alanInboxes = {
     "readout/inboxes-questions",
     "readout/inboxes-tasks",
     "readout/inboxes-texts",
+    "workstation-service/inbox-reading-service",
+    "workstation-service/inbox-relay-service",
   ],
   invariants: [
     {
