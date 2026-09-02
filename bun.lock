@@ -1952,6 +1952,7 @@
         "@akasha/temper-errors-triage": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",

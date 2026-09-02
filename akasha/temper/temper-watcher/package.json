@@ -28,7 +28,8 @@
     "./watcher-error-cursor": "./watcher-error-cursor/watcher-error-cursor.module.code.ts",
     "./watcher-run-observing": "./watcher-run-observing/watcher-run-observing.module.code.ts",
     "./watcher-token": "./watcher-token/watcher-token.module.code.ts",
-    "./watcher-config": "./watcher-config/watcher-config.module.code.ts"
+    "./watcher-config": "./watcher-config/watcher-config.module.code.ts",
+    "./watcher-config-file": "./watcher-config-file/watcher-config-file.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
@@ -37,6 +38,7 @@
     "@akasha/temper-errors-triage": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
+    "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",

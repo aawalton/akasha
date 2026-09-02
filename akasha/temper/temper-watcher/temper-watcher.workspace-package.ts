@@ -33,6 +33,7 @@ export const temperWatcher = {
     "module/watcher-run-observing",
     "module/watcher-token",
     "module/watcher-config",
+    "module/watcher-config-file",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],
