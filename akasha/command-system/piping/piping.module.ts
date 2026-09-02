@@ -21,8 +21,21 @@ export const piping = {
       statement: "An input holding no byte is nothing piped in.",
     },
     {
-      invariantKind: "constraint",
-      statement: "Reading an input that is open and holds nothing waits for that input to close.",
+      invariantKind: "departure",
+      statement: "A read of the input waits a stated while and never without end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The while begins again at every byte that arrives.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An input that carried nothing before the while ran out is nothing piped in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An input that went quiet part way through a body is refused rather than taken as that body.",
     },
     {
       invariantKind: "absence",
@@ -71,6 +84,11 @@ export const piping = {
     {
       invariantKind: "absence",
       statement: "What a caller is told to say instead is handed in by that caller.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "An input no second descriptor can be opened on is answered as one that would not open.",
     },
   ],
 } as const satisfies Module

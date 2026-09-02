@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { ran } from "@akasha/utils-run/running"
 import type { Piping } from "./piping.module.code.ts"
 import { markedLine, markingIn, passagesIn, pipedIn } from "./piping.module.code.ts"
 
@@ -7,6 +8,23 @@ const INSTEAD = "`--old-file` and `--new-file`"
 const SAYING = {
   bare: (path: string) => `nothing is piped in for ${path}`,
   opening: (path: string, why: string) => `${path} would not open — ${why}`,
+}
+
+const HELD_OPEN = 30
+
+const READS =
+  `import {inputIn} from ${JSON.stringify(new URL("./piping.module.code.ts", import.meta.url).pathname)};` +
+  "const held=inputIn();" +
+  'console.log("bytes" in held?`bytes ${held.bytes.byteLength}`' +
+  ':"tty" in held?"tty":`unreadable ${held.unreadable}`)'
+
+function heldOpen(carrying: string): { readonly said: string; readonly waited: number } {
+  const held = `exec 3< <(${carrying}; sleep ${String(HELD_OPEN)})`
+  const began = Date.now()
+  const done = ran(["bash", "-c", `${held}; exec ${process.execPath} -e '${READS}' <&3`], {
+    timeout: HELD_OPEN * 1000,
+  })
+  return { said: `${done.out}${done.err}`.trim(), waited: Date.now() - began }
 }
 
 const ONE = "<<<<<<< old\nalpha\n=======\ndelta\n>>>>>>> new\n"
@@ -66,6 +84,18 @@ test("an input no path wants is never reached", () => {
   }
   expect(pipedIn(never, null, SAYING)).toEqual({ none: true })
 })
+
+test("an input that never ends and carried nothing is nothing piped in", () => {
+  const held = heldOpen("true")
+  expect(held.said).toBe("bytes 0")
+  expect(held.waited).toBeLessThan(HELD_OPEN * 500)
+}, 60000)
+
+test("an input that went quiet part way through a body is refused rather than taken", () => {
+  const held = heldOpen("echo alpha")
+  expect(held.said).toContain("went quiet")
+  expect(held.waited).toBeLessThan(HELD_OPEN * 500)
+}, 60000)
 
 test("a passage is the lines between its markers, each with its own newline", () => {
   expect(passagesOf(ONE)).toEqual([["alpha\n", "delta\n"]])
