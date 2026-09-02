@@ -6,6 +6,7 @@ export const watcherTrayUpdater = {
   slug: "watcher-tray-updater",
   definition: "how the tray replaces its own executable from the server",
   rust: "rs",
+  moduleName: "updater",
   invariants: [
     {
       invariantKind: "departure",

@@ -6,6 +6,7 @@ export const watcherTrayTray = {
   slug: "watcher-tray-tray",
   definition: "the notification area icon and the menu behind it",
   rust: "rs",
+  moduleName: "tray",
   invariants: [
     {
       invariantKind: "departure",

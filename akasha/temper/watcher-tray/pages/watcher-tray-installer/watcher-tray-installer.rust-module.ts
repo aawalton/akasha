@@ -6,6 +6,7 @@ export const watcherTrayInstaller = {
   slug: "watcher-tray-installer",
   definition: "what the tray puts in place on a machine before it runs",
   rust: "rs",
+  moduleName: "installer",
   invariants: [
     {
       invariantKind: "departure",

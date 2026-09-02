@@ -6,6 +6,7 @@ export const watcherTrayMain = {
   slug: "watcher-tray-main",
   definition: "where the tray program's run begins",
   rust: "rs",
+  moduleName: "main",
   invariants: [
     {
       invariantKind: "departure",

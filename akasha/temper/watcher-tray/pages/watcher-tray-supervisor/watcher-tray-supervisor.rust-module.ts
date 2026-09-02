@@ -6,6 +6,7 @@ export const watcherTraySupervisor = {
   slug: "watcher-tray-supervisor",
   definition: "the worker process the tray spawns and spawns again",
   rust: "rs",
+  moduleName: "supervisor",
   invariants: [
     {
       invariantKind: "departure",

@@ -6,6 +6,7 @@ export const watcherTrayLogger = {
   slug: "watcher-tray-logger",
   definition: "the rotating log file the tray writes its lines to",
   rust: "rs",
+  moduleName: "logger",
   invariants: [
     {
       invariantKind: "departure",
