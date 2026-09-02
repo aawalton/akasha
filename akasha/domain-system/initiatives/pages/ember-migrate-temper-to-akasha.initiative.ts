@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "The level-0 wave is landing, and `akasha/temper` holds 20 parts now, all 66 commands and the Rust tray among them. The gate for some thirty addon packages was ESO's globals, which no akasha file could name. `page-type/type-declaration` carries `file-property/ambient-types` whose section is `d`, so a `.d.ts` keeps the name a compiler reads, and a seat is landing the 41 files. `eso-addon`, `eso-interface` and `lua-module` were made too. The order is forced: packages, then repoint, then teardown.",
+        "A package moves once its own dependencies are in akasha, whether or not the source is gone, so the level-1 wave is open. Three hubs gate most of the wave and a seat has each: `catalog-core` (7 dependents), `shared-capture-host` (6), `shared-formula-framework` (4). 25 `@akasha/temper-*` packages are linked. `page-type/type-declaration` lets a `.d.ts` keep the name a compiler reads, unblocking some thirty addon packages. Teardown is proven, and each seat greps for its own consumers.",
     },
   ],
   constraints: [
