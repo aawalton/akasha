@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aServerOnlyModuleLosesItsBoundaryWhenTheDotServerSuffixIsDropped = {
+  id: "01a0640f-8510-7017-8dbd-776f88adb0d2",
+  pageTypeSlug: "finding",
+  slug: "a-server-only-module-loses-its-boundary-when-the-dot-server-suffix-is-dropped",
+  domainSlug: "domain/temper",
+  claim:
+    "Five of temper's web modules were named `*.server.ts`, and React Router reads that suffix as a promise the bundler keeps: a module so named never reaches the browser bundle, and importing one from client code is a build error rather than a leak. Akasha's file-name grammar has one shape for a module's code, so the five crossed as plain `.module.code.ts` and the guarantee went with the suffix. Nothing refuses a browser component importing `supabase-service-client`, which holds a service key.",
+  evidence:
+    "Landed 2026-09-02 across `036386cc39` and `5c3f421209` as `answer-ask`, `answer-pages`, `answer-page-types`, `answer-page-write` and `supabase-service-client` under `akasha/temper/temper-web`.\n\nThe five legacy paths were `temper/web/app/lib/answer-ask.server.ts`, `answer-pages.server.ts`, `answer-page-types.server.ts`, `answer-page-write.server.ts` and `supabase-server.ts`. The first four each reach `@akasha/supabase-rr/auth-server`; the fifth builds a service-role client from `SUPABASE_INTERNAL_URL`. A service-role key in a browser bundle is the worst outcome the old suffix was there to prevent.\n\nI checked before dropping it: zero files under `akasha/` carry a `.server.` segment, so there is no precedent to follow and no grammar rule to reach for. I did not invent one, because a named-file property is the shape akasha uses for a name chosen outside it, and five modules is not the case that should settle a grammar.\n\nThree things that are not the answer, and why. The `sideEffects` key does not gate imports. A manifest export map would gate reach from outside the package but not from a route inside it, and routes are exactly the callers. Marking them `uncommitted` is about the commit, not the bundle.\n\nWhat would close it: a check refusing a `.tsx` under a router app that reaches a module whose page says its code runs on the server. That needs a property on the module page type saying so — `runs-on`, or an invariant kind — and Alan approves a check. I am filing rather than adding one.\n\nUntil then the boundary is upheld by nothing but which route imports what, and no run reports its breach.",
+} as const satisfies Finding
