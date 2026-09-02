@@ -9,6 +9,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
+import { typed } from "@akasha/code-system/code-typing"
 import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
 import {
   identifyingFrom,
@@ -156,8 +157,6 @@ function pagesUnder(tree: string): readonly string[] {
   return found.filter((one) => pageTypes.has(partedIn(one)?.pageType ?? ""))
 }
 
-const TS = ".ts"
-
 function reconcile(under: string, entries: readonly Entry[], root: string): undefined {
   const wanted = Map.groupBy(entries, (one) => one.at)
   for (const one of existsSync(under) ? walkedUnder(under, () => true) : []) {
@@ -211,7 +210,7 @@ export function rebuiltFrom(
   const relation = filed.flatMap((one) => one.entries)
   reconcile(join(root, RELATION), relation, root)
   const naming = reachingBuilt(held, repo, fileProperties)
-  const imported = walkedUnder(tree, (name) => name.endsWith(TS)).flatMap((path) =>
+  const imported = walkedUnder(tree, typed).flatMap((path) =>
     importIn(readFileSync(path, "utf8"), path, repo, naming)
   )
   reconcile(join(root, IMPORT), imported, root)

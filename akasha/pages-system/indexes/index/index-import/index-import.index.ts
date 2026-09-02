@@ -19,6 +19,10 @@ export const indexImport = {
     },
     {
       invariantKind: "departure",
+      statement: "Only a body named `.ts` or `.tsx` makes an edge.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A relative specifier makes an edge.",
     },
     {

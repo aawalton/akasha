@@ -5,14 +5,13 @@ import {
   type Naming,
   specifiersIn,
 } from "@akasha/code-system/code-specifier"
+import { typed } from "@akasha/code-system/code-typing"
 import { type Entry, under } from "../../index-entries/index-entries.module.code.ts"
 import { indexImport } from "./index-import.index.ts"
 
 const IMPORT = indexImport.name
 
 const ENDING = ".jsonl"
-
-const TS = ".ts"
 
 const OUTSIDE = ".."
 
@@ -37,7 +36,7 @@ export function importIn(
   naming: Naming = NAMING_NONE
 ): readonly Entry[] {
   const own = under(repo, path)
-  if (!own.endsWith(TS)) return []
+  if (!typed(own)) return []
   const line = JSON.stringify({ path: own })
   return edgesIn(body, own, naming).map((landed) => ({
     at: join(IMPORT, "path", `${landed}${ENDING}`),

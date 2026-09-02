@@ -66,6 +66,18 @@ test("a specifier reaching above the repository root files no edge", () => {
   ).toEqual([])
 })
 
+test("a body held as TSX files an edge as any TypeScript body does", () => {
+  const body =
+    'import { one } from "./one.module.code.ts"\n\nexport const Two = () => <p>{one}</p>\n'
+
+  expect(importIn(body, "akasha/a.module.code.tsx", "/repo")).toEqual([
+    {
+      at: "import/path/akasha/one.module.code.ts.jsonl",
+      line: '{"path":"akasha/a.module.code.tsx"}',
+    },
+  ])
+})
+
 test("a file that is not TypeScript files no edge whatever its body says", () => {
   expect(importIn('import { x } from "./one.ts"\n', "akasha/a.module.md", "/repo")).toEqual([])
 })
