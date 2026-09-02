@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-dungeons",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./dungeon-registry": "./dungeon-registry/dungeon-registry.module.code.ts",
+    "./pledge-rotation": "./pledge-rotation/pledge-rotation.module.code.ts",
+    "./solo-difficulty": "./solo-difficulty/solo-difficulty.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/day": "workspace:*"
+  }
+}
