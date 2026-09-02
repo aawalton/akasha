@@ -1,4 +1,4 @@
-import type { EffectCondition } from "@temper/game-characters-skills/skill-activation-effect-types"
+import type { EffectCondition } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
 import type { HealthSamples } from "./rotation-types"
 
 export function evaluateCondition(

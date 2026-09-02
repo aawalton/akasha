@@ -1,1 +1,1 @@
-export { curses } from "@temper/game-characters-character/curse-data"
+export { curses } from "@akasha/temper-character-sources/curses"

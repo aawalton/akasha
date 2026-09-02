@@ -1,4 +1,4 @@
-import { targetArmor } from "@temper/game-characters-character/target-armor-data"
+import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import type { CompanionState } from "../companion-types"
 import type { CompanionEffect } from "../skills/companion-skill-effect-components"
 import { companionSkills } from "../skills/companion-skills-data"

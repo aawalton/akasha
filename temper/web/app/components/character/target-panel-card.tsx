@@ -4,7 +4,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import {
   type TargetArmorId,
   targetArmor,
-} from "@temper/game-characters-character/target-armor-data"
+} from "@akasha/temper-character-sources/target-armors"
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 const TARGET_HEALTH_OPTIONS = [1, 0.75, 0.5, 0.25] as const

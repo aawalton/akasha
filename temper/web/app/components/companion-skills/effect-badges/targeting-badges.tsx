@@ -1,6 +1,6 @@
 import { Badge } from "@akasha/design-badges/badge"
-import { targetScopes } from "@temper/game-characters-skills/target-scope-data"
-import { targetTypes } from "@temper/game-characters-skills/target-type-data"
+import { targetScopes } from "@akasha/temper-skill-kinds/target-scopes"
+import { targetTypes } from "@akasha/temper-skill-kinds/target-types"
 import type { Targeting } from "@temper/game-companions-core/skills/companion-skill-effect-components"
 import type { BadgeVariant } from "@/components/companion-skills/effect-badges/types"
 

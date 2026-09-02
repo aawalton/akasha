@@ -1,1 +1,1 @@
-export { foodOrDrink } from "@temper/game-characters-character/food-and-drink/food-or-drink-source"
+export { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"

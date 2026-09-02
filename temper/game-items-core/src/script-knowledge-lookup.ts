@@ -1,6 +1,6 @@
-import { affixScripts } from "@temper/game-characters-skills/scribing/affix-scripts-data"
-import { focusScripts } from "@temper/game-characters-skills/scribing/focus-scripts-data"
-import { signatureScripts } from "@temper/game-characters-skills/scribing/signature-scripts-data"
+import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
+import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
+import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 
 let nameToItemId: Map<string, number> | undefined
 

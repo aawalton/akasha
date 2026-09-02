@@ -1,6 +1,6 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { CurseState } from "@temper/game-characters-character/curse-data"
+import type { CurseState } from "@akasha/temper-character-sources/curses"
 import type { StandardArmorWeightId } from "@temper/game-characters-equipment/armor/armor-weights-data"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { countArmorPiecesByWeight, countSlottedAbilitiesFromLine, getRacialSkillLineIdForRace, getSkillLineCategory, getSlottedSkillLineIds, getWeaponTypeIdsForBar } from "@temper/game-characters-skills/passive-queries"

@@ -1,1 +1,1 @@
-export { affixScripts } from "@temper/game-characters-skills/scribing/affix-scripts-data"
+export { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"

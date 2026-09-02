@@ -1,6 +1,7 @@
 {
   "name": "@temper/game-characters",
   "dependencies": {
+    "@akasha/temper-character-sources": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-companions-core": "workspace:*"
   },

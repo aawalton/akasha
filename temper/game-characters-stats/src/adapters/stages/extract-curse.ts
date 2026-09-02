@@ -1,4 +1,4 @@
-import { type CurseSource, getCurseSource } from "@temper/game-characters-character/curse-source"
+import { type CurseSource, getCurseSource } from "@akasha/temper-character-sources/curse-source"
 import type { PipelineStage } from "./types"
 
 export const extractCurse: PipelineStage = (build, _context) => {

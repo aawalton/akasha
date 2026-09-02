@@ -7,7 +7,7 @@ import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scrib
 import {
   type FocusScriptId,
   focusScripts,
-} from "@temper/game-characters-skills/scribing/focus-scripts-data"
+} from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import {
   type GrimoireId,
   getGrimoireCompatibleScripts,

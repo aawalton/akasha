@@ -19,6 +19,7 @@
     "@akasha/temper-capture-shapes": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
+    "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-completion-import": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",

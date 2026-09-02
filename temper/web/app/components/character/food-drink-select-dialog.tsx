@@ -5,7 +5,7 @@ import {
   type FoodOrDrinkId,
   type FoodOrDrinkSource,
   foodOrDrink,
-} from "@temper/game-characters-character/food-and-drink/food-or-drink-source"
+} from "@akasha/temper-character-sources/food-or-drink-source"
 import { convertIconPathToUrl } from "@temper/game-characters-equipment/sets/get-equipment-icon"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import { useMemo } from "react"

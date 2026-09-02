@@ -1,4 +1,4 @@
-import { targetArmor } from "@temper/game-characters-character/target-armor-data"
+import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import { calculateRatingSurplus } from "@akasha/temper-formula-framework/rating-chance"
 import { topologicalSort } from "@akasha/temper-formula-framework/topological-sort"
 import type { CompanionState } from "../companion-types"

@@ -1,4 +1,4 @@
-import type { TargetArmorId } from "@temper/game-characters-character/target-armor-data"
+import type { TargetArmorId } from "@akasha/temper-character-sources/target-armors"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { CompanionBaseRoleId } from "./companion-base-roles-data"
 import type { CompanionId } from "./companions-data"

@@ -3,10 +3,12 @@
   "dependencies": {
     "@akasha/temper-alchemy": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
+    "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-classes": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",

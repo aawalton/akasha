@@ -8,11 +8,11 @@ import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scrib
 import {
   type AffixScriptId,
   affixScripts,
-} from "@temper/game-characters-skills/scribing/affix-scripts-data"
+} from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import {
   type FocusScriptId,
   focusScripts,
-} from "@temper/game-characters-skills/scribing/focus-scripts-data"
+} from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import {
   getCombinedScriptDescription,
   getGrimoireCompatibleScripts,
@@ -21,7 +21,7 @@ import {
 import {
   type SignatureScriptId,
   signatureScripts,
-} from "@temper/game-characters-skills/scribing/signature-scripts-data"
+} from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 import { useMemo } from "react"
 import type { PendingScriptEdits } from "@/components/skills/skills-types"
 

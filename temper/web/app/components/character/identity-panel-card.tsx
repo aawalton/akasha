@@ -1,12 +1,12 @@
 "use client"
 
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { type CurseState, curses } from "@temper/game-characters-character/curse-data"
+import { type CurseState, curses } from "@akasha/temper-character-sources/curses"
 import { getRaceSourceById } from "@temper/game-characters-character/race-source"
 import {
   type VampireStageId,
   vampireStages,
-} from "@temper/game-characters-character/vampire-stages-data"
+} from "@akasha/temper-character-sources/vampire-stages"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { classes } from "@akasha/temper-classes/character-class"
 import type { RaceId } from "@akasha/temper-races/races"

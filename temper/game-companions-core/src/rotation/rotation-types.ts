@@ -1,8 +1,8 @@
-import { targetArmor as targetArmorData } from "@temper/game-characters-character/target-armor-data"
+import { targetArmor as targetArmorData } from "@akasha/temper-character-sources/target-armors"
 import type {
   DamageType,
   EffectCondition,
-} from "@temper/game-characters-skills/skill-activation-effect-types"
+} from "@akasha/temper-skill-kinds/skill-activation-effect-types"
 import type { CompanionSkillId } from "../skills/companion-skills-data"
 
 export interface HealthSamples {

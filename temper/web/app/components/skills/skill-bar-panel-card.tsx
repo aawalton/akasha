@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { activeSkillSlots, type SkillSlotId } from "@temper/game-characters-skills/skill-slots-data"
+import { activeSkillSlots, type SkillSlotId } from "@akasha/temper-skill-kinds/skill-slots"
 import type { Skill, SkillId } from "@temper/game-characters-skills/skills-data"
 import { SkillSlotCard } from "@/components/skills/skill-slot-card"
 import { UltimateSlotCard } from "@/components/skills/ultimate-slot-card"

@@ -9,8 +9,8 @@ import { getSkillLineIdsForClass, type SkillLineId, skillLines } from "@akasha/t
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
 import type { ArmorShape, SkillBarsState, WeaponBarShape } from "./query-shapes"
-import { type SkillBarId, skillBars } from "./skill-bars-data"
-import { type SkillSlotId, skillSlots } from "./skill-slots-data"
+import { type SkillBarId, skillBars } from "@akasha/temper-skill-kinds/skill-bars"
+import { type SkillSlotId, skillSlots } from "@akasha/temper-skill-kinds/skill-slots"
 import { findSkillById } from "./skill-utils"
 import type { Skill } from "./skills-data"
 

@@ -1,6 +1,6 @@
-import type { RoleId } from "@temper/game-characters-character/roles"
+import type { RoleId } from "@akasha/temper-character-sources/character-roles"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { TargetArmorId } from "@temper/game-characters-character/target-armor-data"
+import type { TargetArmorId } from "@akasha/temper-character-sources/target-armors"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"

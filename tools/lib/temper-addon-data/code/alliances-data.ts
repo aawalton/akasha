@@ -1,1 +1,1 @@
-export { alliances } from "@temper/game-characters-character/alliances-data"
+export { alliances } from "@akasha/temper-character-sources/alliances"

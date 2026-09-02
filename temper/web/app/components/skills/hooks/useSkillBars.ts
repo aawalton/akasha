@@ -2,7 +2,7 @@ import type { CharacterState } from "@temper/game-characters-character/build-typ
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { filterSkillsForBar } from "@temper/game-characters-skills/skill-bar-filtering"
 import { findSkillById } from "@temper/game-characters-skills/skill-utils"
-import type { SkillSlotId } from "@temper/game-characters-skills/skill-slots-data"
+import type { SkillSlotId } from "@akasha/temper-skill-kinds/skill-slots"
 import type { Skill, SkillId } from "@temper/game-characters-skills/skills-data"
 import { areConflictingMorphs } from "@temper/game-characters-skills-morphs-core/morph-conflict"
 import { type CategoryData, organizeSkills } from "@temper/game-characters-skills-morphs-core/skill-organization"

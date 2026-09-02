@@ -701,6 +701,7 @@
     "akasha/temper/temper-addon-build": {
       "name": "@akasha/temper-addon-build",
       "dependencies": {
+        "@akasha/command-system": "workspace:*",
         "@akasha/temper-saved-vars-migration": "workspace:*",
         "typescript": "5.9.3",
       },
@@ -886,6 +887,10 @@
     },
     "akasha/temper/temper-equipment": {
       "name": "@akasha/temper-equipment",
+      "dependencies": {
+        "@akasha/temper-equipment-kinds": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+      },
     },
     "akasha/temper/temper-equipment-kinds": {
       "name": "@akasha/temper-equipment-kinds",
@@ -962,6 +967,8 @@
       "name": "@akasha/temper-interface-addon",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "akasha/temper/temper-inventory-automation": {
@@ -2135,6 +2142,7 @@
       "name": "@temper/game-characters",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-character-sources": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-companions-core": "workspace:*",
       },
@@ -2163,10 +2171,12 @@
       "dependencies": {
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
@@ -2183,6 +2193,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@temper/game-characters": "workspace:*",
@@ -2239,6 +2250,7 @@
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
@@ -2297,8 +2309,10 @@
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
@@ -2316,10 +2330,12 @@
       "dependencies": {
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
@@ -2450,8 +2466,10 @@
       "name": "@temper/game-companions-core",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
@@ -2607,6 +2625,7 @@
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-characters-skills": "workspace:*",
@@ -2695,6 +2714,7 @@
       "dependencies": {
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -2809,6 +2829,7 @@
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
@@ -3037,6 +3058,7 @@
         "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-completion-import": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
@@ -3427,6 +3449,7 @@
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-completion-import": "workspace:*",
@@ -3435,6 +3458,7 @@
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-shopping": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -3491,6 +3515,10 @@
     "tools/lib": {
       "name": "@tools/lib",
       "version": "0.1.0",
+      "dependencies": {
+        "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
+      },
     },
   },
   "trustedDependencies": [

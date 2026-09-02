@@ -1,7 +1,7 @@
 import type { StandardArmorWeightId } from "@temper/game-characters-equipment/armor/armor-weights-data"
 import type { WeaponTypeId } from "@temper/game-characters-equipment/weapons/weapon-types-data"
-import type { SkillBarId } from "./skill-bars-data"
-import type { SkillSlotId } from "./skill-slots-data"
+import type { SkillBarId } from "@akasha/temper-skill-kinds/skill-bars"
+import type { SkillSlotId } from "@akasha/temper-skill-kinds/skill-slots"
 import type { SkillId } from "./skills-data"
 
 interface ArmorItemShape {

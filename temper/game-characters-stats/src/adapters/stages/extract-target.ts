@@ -1,5 +1,5 @@
-import { targetArmor } from "@temper/game-characters-character/target-armor-data"
-import { createTargetSource } from "@temper/game-characters-character/target-source"
+import { targetArmor } from "@akasha/temper-character-sources/target-armors"
+import { createTargetSource } from "@akasha/temper-character-sources/target-source"
 import type { PipelineStage } from "./types"
 
 export const extractTarget: PipelineStage = (build, _context) => {

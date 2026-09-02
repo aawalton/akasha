@@ -1,4 +1,4 @@
-import { esoPlus } from "@temper/game-characters-character/account/eso-plus-source"
+import { esoPlus } from "@akasha/temper-character-sources/eso-plus-source"
 import { lookupSourceUnlessSentinel } from "./source-lookup"
 import type { PipelineStage } from "./types"
 

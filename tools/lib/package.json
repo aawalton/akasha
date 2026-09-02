@@ -5,5 +5,9 @@
   "version": "0.1.0",
   "exports": {
     "./*": "./*.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-character-sources": "workspace:*",
+    "@akasha/temper-skill-kinds": "workspace:*"
   }
 }

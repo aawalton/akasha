@@ -2,6 +2,8 @@
   "name": "@temper/game-items-rules-matcher",
   "dependencies": {
     "@akasha/temper-alchemy": "workspace:*",
+    "@akasha/temper-build-support": "workspace:*",
+    "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
@@ -13,7 +15,6 @@
     "@temper/game-items-core": "workspace:*",
     "@temper/game-items-rules-core": "workspace:*",
     "@temper/game-items-rules-eval": "workspace:*",
-    "@akasha/temper-build-support": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

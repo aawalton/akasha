@@ -1,5 +1,5 @@
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
-import type { FocusScriptId } from "@temper/game-characters-skills/scribing/focus-scripts-data"
+import type { FocusScriptId } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { type GrimoireId, grimoires } from "@temper/game-characters-skills/scribing/grimoires-data"
 import { getScribedSkillId } from "@temper/game-characters-skills/scribing/scribed-skills-data"
 import type { Skill } from "@temper/game-characters-skills/skills-data"

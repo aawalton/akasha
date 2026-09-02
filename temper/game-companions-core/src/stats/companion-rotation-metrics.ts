@@ -1,5 +1,5 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { targetArmor } from "@temper/game-characters-character/target-armor-data"
+import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
 import type { CompanionState } from "../companion-types"
 import type { RotationResult } from "../rotation/rotation-types"

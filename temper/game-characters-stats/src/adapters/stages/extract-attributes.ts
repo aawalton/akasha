@@ -1,4 +1,4 @@
-import { createAttributeSource } from "@temper/game-characters-character/attributes-source"
+import { createAttributeSource } from "@akasha/temper-character-sources/attributes-source"
 import type { PipelineStage } from "./types"
 
 export const extractAttributes: PipelineStage = (build, _context) => {

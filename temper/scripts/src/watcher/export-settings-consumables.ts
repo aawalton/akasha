@@ -1,7 +1,7 @@
 import { getPages } from "@akasha/pages-access/get"
 import { collectPages } from "@akasha/pages-access/iterate"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { foodOrDrink } from "@temper/game-characters-character/food-and-drink/food-or-drink-source"
+import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
 import { decodeBuild } from "@temper/game-codec/character/build-codec"
 import { potions } from "@akasha/temper-alchemy/potion-source"
 import { computeItemStock } from "@temper/game-items-core/compute-item-stock"

@@ -5,6 +5,7 @@
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",

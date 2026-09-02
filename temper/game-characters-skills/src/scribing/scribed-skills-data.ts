@@ -2,7 +2,7 @@ import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { TEMPER_SCRIBED_SKILLS } from "../generated/temper-scribed-skill.generated"
 import type { SkillTemplate } from "../skills-data"
-import type { FocusScriptId } from "./focus-scripts-data"
+import type { FocusScriptId } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import type { GrimoireId } from "./grimoires-data"
 
 export interface ScribedSkillTemplate extends SkillTemplate {

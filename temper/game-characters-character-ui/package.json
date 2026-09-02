@@ -1,11 +1,12 @@
 {
   "name": "@temper/game-characters-character-ui",
   "dependencies": {
-    "@shared/auth": "workspace:*",
     "@akasha/pages-access": "workspace:*",
+    "@akasha/temper-character-sources": "workspace:*",
+    "@shared/auth": "workspace:*",
     "@shared/pages-ui": "workspace:*",
-    "@temper/game-characters-character": "workspace:*",
-    "@temper/game-characters": "workspace:*"
+    "@temper/game-characters": "workspace:*",
+    "@temper/game-characters-character": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

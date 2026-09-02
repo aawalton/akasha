@@ -1,5 +1,5 @@
 import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
-import { foodOrDrink } from "@temper/game-characters-character/food-and-drink/food-or-drink-source"
+import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
 import { decodeBuild } from "@temper/game-codec/character/build-codec"
 import { potions } from "@akasha/temper-alchemy/potion-source"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"

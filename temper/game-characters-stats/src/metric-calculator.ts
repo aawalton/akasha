@@ -1,4 +1,4 @@
-import { base } from "@temper/game-characters-character/base-source"
+import { base } from "@akasha/temper-character-sources/base-source"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { indexBy } from "@akasha/temper-build-support/row-grouping"
 import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"

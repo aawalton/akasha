@@ -4,7 +4,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import {
   type TargetArmorId,
   targetArmor,
-} from "@temper/game-characters-character/target-armor-data"
+} from "@akasha/temper-character-sources/target-armors"
 import type { CompanionTargetHealthId } from "@temper/game-companions-core/companion-types"
 import { useCompanionMetadata } from "@/components/companions/context/use-companion"
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"

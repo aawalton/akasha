@@ -1,4 +1,4 @@
-import type { DamageType } from "@temper/game-characters-skills/skill-activation-effect-types"
+import type { DamageType } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
 import { extractFormulaComponents } from "../formulas/companion-formula-extraction"
 import { companionSkills } from "../skills/companion-skills-data"
 import { calculateLightAttackDamage } from "./companion-light-attack"

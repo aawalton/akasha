@@ -5,6 +5,7 @@
     "@akasha/temper-capture-host": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
+    "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",

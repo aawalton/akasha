@@ -3,7 +3,7 @@ import type {
   DamageType,
   EffectCondition,
   TargetType,
-} from "@temper/game-characters-skills/skill-activation-effect-types"
+} from "@akasha/temper-skill-kinds/skill-activation-effect-types"
 import { companionBase } from "../companions-base-source"
 import type { CompanionSkillTemplate } from "../skills/companion-skill-activation-effect-types"
 import type {

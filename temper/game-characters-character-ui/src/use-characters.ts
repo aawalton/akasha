@@ -11,8 +11,8 @@ import { useOptimisticDeletePage } from "@shared/pages-ui/supabase/mutations/use
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import type { CharacterBuildMetadata } from "@temper/game-characters/build-metadata"
-import { roles } from "@temper/game-characters-character/generated/temper-character-role.generated"
-import { type RoleId } from "@temper/game-characters-character/roles"
+import { characterRoles as roles } from "@akasha/temper-character-sources/character-roles"
+import { type RoleId } from "@akasha/temper-character-sources/character-roles"
 import type { CharacterVisibility } from "@temper/game-characters-character/build-types"
 import { useMemo } from "react"
 

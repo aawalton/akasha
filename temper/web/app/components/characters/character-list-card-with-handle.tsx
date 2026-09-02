@@ -1,6 +1,6 @@
 "use client"
 
-import type { RoleId } from "@temper/game-characters-character/roles"
+import type { RoleId } from "@akasha/temper-character-sources/character-roles"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { RaceId } from "@akasha/temper-races/races"

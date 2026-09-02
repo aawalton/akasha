@@ -1,8 +1,10 @@
 {
   "name": "@temper/game-companions-core",
   "dependencies": {
+    "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",

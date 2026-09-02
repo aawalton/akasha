@@ -8,11 +8,11 @@ import type {
   SpecialEffectType,
   StatusEffect,
   Targeting,
-} from "@temper/game-characters-skills/skill-activation-effect-types"
+} from "@akasha/temper-skill-kinds/skill-activation-effect-types"
 import type {
   ActivationBuffEffect,
   ActivationDebuffEffect,
-} from "@temper/game-characters-skills/skill-buff-debuff-types"
+} from "@akasha/temper-skill-kinds/skill-buff-debuff-types"
 import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"
 import type { CompanionValueFormula } from "./companion-value-formula"
 
@@ -193,7 +193,7 @@ interface CompanionLightAttackHealComponent {
 export type {
   Targeting,
   TargetType,
-} from "@temper/game-characters-skills/skill-activation-effect-types"
+} from "@akasha/temper-skill-kinds/skill-activation-effect-types"
 
 interface CompanionPassiveStatEffect {
   type: "passive"

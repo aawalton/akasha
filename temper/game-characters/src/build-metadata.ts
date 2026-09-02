@@ -1,4 +1,4 @@
-import type { RoleId } from "@temper/game-characters-character/roles"
+import type { RoleId } from "@akasha/temper-character-sources/character-roles"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"
 import type { CompanionRoleId } from "@temper/game-companions-core/companion-roles"

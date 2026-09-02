@@ -1,13 +1,13 @@
 import type {
   SpecialEffectType,
   StatusEffectType,
-} from "@temper/game-characters-skills/skill-activation-effect-types"
+} from "@akasha/temper-skill-kinds/skill-activation-effect-types"
 import type {
   ActivationBuffType,
   ActivationDebuffType,
-} from "@temper/game-characters-skills/skill-buff-debuff-types"
-import { specialEffectTypes } from "@temper/game-characters-skills/special-effect-type-data"
-import { statusEffectTypes } from "@temper/game-characters-skills/status-effect-type-data"
+} from "@akasha/temper-skill-kinds/skill-buff-debuff-types"
+import { specialEffectTypes } from "@akasha/temper-skill-kinds/special-effect-types"
+import { statusEffectTypes } from "@akasha/temper-skill-kinds/status-effect-types"
 import { buffOrDebuff } from "@akasha/temper-formula-framework/buff-or-debuff-source"
 import { companionActivationBuffs } from "../generated/temper-companion-activation-buff.generated"
 import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"

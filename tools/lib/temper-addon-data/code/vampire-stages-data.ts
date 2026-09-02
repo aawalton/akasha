@@ -1,1 +1,1 @@
-export { vampireStages } from "@temper/game-characters-character/vampire-stages-data"
+export { vampireStages } from "@akasha/temper-character-sources/vampire-stages"

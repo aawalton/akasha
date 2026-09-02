@@ -1,4 +1,4 @@
-import { foodOrDrink } from "@temper/game-characters-character/food-and-drink/food-or-drink-source"
+import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
 import { potions } from "@akasha/temper-alchemy/potion-source"
 import { lookupSourceUnlessSentinel } from "./source-lookup"
 import type { PipelineStage } from "./types"

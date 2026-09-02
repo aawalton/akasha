@@ -3,10 +3,10 @@ import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { getFromPartialRecord } from "@akasha/temper-formula-framework/record-parts"
 import { TEMPER_GRIMOIRES } from "../generated/temper-grimoire.generated"
-import type { AffixScriptId } from "./affix-scripts-data"
-import type { FocusScriptId } from "./focus-scripts-data"
+import type { AffixScriptId } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
+import type { FocusScriptId } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { getScribedSkillByGrimoireAndFocus } from "./scribed-skills-data"
-import type { SignatureScriptId } from "./signature-scripts-data"
+import type { SignatureScriptId } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 
 export interface GrimoireTemplate {
   id: string

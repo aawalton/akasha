@@ -1,1 +1,1 @@
-export { signatureScripts } from "@temper/game-characters-skills/scribing/signature-scripts-data"
+export { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"

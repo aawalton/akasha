@@ -1,5 +1,5 @@
 import type { Effect } from "@akasha/temper-formula-framework/effect"
-import type { SkillSource } from "../skills-source"
+import type { SkillSource } from "@akasha/temper-skill-kinds/skills-source"
 import { grimoires } from "./grimoires-data"
 import type { ScribedSkill } from "./scribed-skill-types"
 import { getScribedSkillByGrimoireAndFocus } from "./scribed-skills-data"
