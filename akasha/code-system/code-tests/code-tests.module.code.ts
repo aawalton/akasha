@@ -49,6 +49,8 @@ const SCOPE = "@"
 
 const OUT = ".."
 
+const JUDGED = "akasha"
+
 const MANIFEST = "package.json"
 
 export const RUNNING = "AKASHA_TESTS_RUNNING"
@@ -146,8 +148,8 @@ export function verdictOf(code: number, output: string, expected: number): Verdi
 
 function withinOf(real: string, at: string): string | null {
   const inside = relative(real, realpathSync(at))
-  if (inside === "" || inside.startsWith(OUT) || isAbsolute(inside)) return null
-  return inside.split(sep)[0] === MODULES ? null : inside
+  if (inside.startsWith(OUT) || isAbsolute(inside)) return null
+  return inside === "" || inside.split(sep)[0] === JUDGED ? inside : null
 }
 
 function linkedInto(

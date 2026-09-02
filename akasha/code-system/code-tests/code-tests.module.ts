@@ -123,20 +123,25 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A package standing outside that tree is answered from that tree.",
+      statement: "A package standing outside the akasha folder is answered from that tree.",
     },
     {
       invariantKind: "departure",
-      statement: "A change to that tree cannot move a package standing outside that tree.",
+      statement: "No world is written over a path outside the akasha folder.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A package standing inside that tree the world does not hold is answered by nothing.",
+        "A package inside the akasha folder the world does not hold is answered by nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A package the folder of installed modules holds stands outside that tree.",
+      statement: "A package the folder of installed modules holds stands outside that folder.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A package outside the akasha folder is judged against the copy standing in the tree.",
     },
     {
       invariantKind: "departure",
