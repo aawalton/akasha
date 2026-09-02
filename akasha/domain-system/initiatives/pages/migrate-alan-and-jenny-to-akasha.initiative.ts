@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "The landing write clears 34 checks over all 294 paths, EXIT=0, after `2c31d47f4a` gave entry files their own ceiling and `b54bd0098c` kept the 30 urls by keeping the last eight hex. The funnel audit is at 0 by `1514a90042`, which found every one of the fifteen callers on the old barrel had been refusing on every run. Left before the turn: a query joining on `daily-tracking-slug`, and a rehearsal of the day after.",
+        "One blocker is left and it is the worst: a landed day rolls up nothing from the rows beside it, so all 133 read a surplus of exactly 0, which is the healthy rung, while the fidelity check judges 18884 values with no fault because a rollup is derived and it compares what is stored. Filed `4f13a6f37f`. Everything else is done: the write clears all 294 paths, the funnel audit is at 0, the ceiling is ruled on at `2c31d47f4a`, day queries bind through `dayNameOf` at `1f34b9b10a`.",
     },
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
