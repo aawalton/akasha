@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Addon-data still exits 70 before any of its fourteen sections: `readCatalogSidecars` throws above its own parser, so that path is dead and being deleted. `temper-set` settled: the reader is order-independent, 537 rows reordered at 707 of 707 rendered identity, and `bonus-effects` gained the `buff-id` its pages lacked. The pattern is filed: a drifted generator fails loudly on a renamed field and silently on a moved one. Four instances, and five companion generators went stale under a repoint.",
+        "The sidecar path is live, not dead: I reported it threw, and that nearly cost a deletion. Addon-data has no proven invocation at all. The command refuses as one of 65 stubs, `bun` on the generator writes zero files and exits 0, and the third route is off, so nothing measured through it means anything yet. `temper-companion-skill` is the page-type gap: its pages hold 0 of 122 effects and cast conditions, and the loosening that stops the throw drops 39.7 percent while reporting success.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "Parity: 93 packages in `akasha/temper` and 93 left in `temper/`. `game-collections-addon` proved to be five clusters with no edges between them, so they land at once, two in and three in flight, `lorebooks` the long pole at 1.68 MB. Equipment measured 8 of its 39 modules already recreated in akasha, with six functions the recreation lost being restored. Only `TemperCombat.xml` is still over the markup ceiling at 164,528 bytes. The audit is 70 to 73 refusals over 29,400 files, typecheck zero.",
+        "Past parity: 95 packages in `akasha/temper`, 93 left in `temper/`. Addons build and ship from akasha, so teardowns are open: trading is torn down, companions is next. The gate was never the route, it was three pages naming no bundle entry. Typecheck broke from zero to 44 and is under repair, all of it one shape, a name declared in the shared set while a library keeps its private copy. The audit holds at 70 to 73 refusals over 29,400 files.",
     },
   ],
   constraints: [
