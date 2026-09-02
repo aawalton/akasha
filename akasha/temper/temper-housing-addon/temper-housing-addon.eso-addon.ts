@@ -61,6 +61,8 @@ export const temperHousingAddon = {
     "module/housing-visit-cards-view",
     "module/housing-window-controls",
     "type-declaration/housing-declarations",
+    "type-declaration/housing-ptf-publish-declarations",
+    "type-declaration/housing-publish-declarations",
   ],
   invariants: [
     {

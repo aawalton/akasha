@@ -8,10 +8,6 @@ export interface TemperHousingApi {
   ADDON_VERSION: typeof ADDON_VERSION
 }
 
-declare global {
-  var TemperHousing: TemperHousingApi
-}
-
 globalThis.TemperHousing = {
   ADDON_NAME,
   ADDON_VERSION,
