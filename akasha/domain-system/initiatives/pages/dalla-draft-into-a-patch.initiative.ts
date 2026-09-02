@@ -8,11 +8,6 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "A page's file name is taken apart in one place.",
-      workingMemory:
-        "partedIn reads the name and namedIn is a derived view kept so that callers reading stem and tail did not have to change. Two readings of one rule is what let heldIn and the predicates disagree. Taking namedIn away reaches about fifty callers across pages-system, the index, the commit machinery and the checks, plus two outside akasha.",
-    },
-    {
       statement: "A seat and a subagent each carry the patch they are drafting.",
       workingMemory:
         "A patch is uncommitted state on a page every agent reads at startup, so a patch file that cannot be read leaves the seat readable rather than taking the seat down.",
