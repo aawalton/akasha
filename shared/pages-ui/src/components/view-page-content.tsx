@@ -25,7 +25,7 @@ import { EditableTitle } from "@akasha/pages-ui-components/editable-title"
 import { toPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
 import { PageSystemShell } from "@akasha/pages-ui-components/page-system-shell"
 import { type PageTypeOption } from "@akasha/pages-ui-components/view-settings-options"
-import { PageTitleProperties } from "./page-title-properties.tsx"
+import { PageTitleProperties } from "@akasha/pages-ui-components/page-title-properties"
 import { ViewTabContent } from "./view-tab-content.tsx"
 import type { ViewTabItem } from "@akasha/pages-ui-components/view-tab-context-menu"
 

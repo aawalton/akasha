@@ -16,10 +16,10 @@ import { MultiRelationPropertyBadge } from "@akasha/pages-ui-components/multi-re
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
 import { PageCover } from "@akasha/pages-ui-components/page-cover"
 import { PageDetailHeaderMenu } from "@akasha/pages-ui-components/page-detail-header-menu"
-import { PageDetailProperties } from "./page-detail-properties"
+import { PageDetailProperties } from "@akasha/pages-ui-components/page-detail-properties"
 import { PageDetailReferrers } from "@akasha/pages-ui-components/page-detail-referrers"
 import { hasValue, JsonSectionRenderer, ToggleSection } from "@akasha/pages-ui-components/page-detail-sections"
-import { PageDetailSubpages } from "./page-detail-subpages"
+import { PageDetailSubpages } from "@akasha/pages-ui-components/page-detail-subpages"
 import { usePageDefaultContent } from "@akasha/pages-ui-components/use-page-default-content"
 
 export function PageDefaultContent({

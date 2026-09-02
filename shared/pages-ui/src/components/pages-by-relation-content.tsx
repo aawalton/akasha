@@ -7,7 +7,7 @@ import { useCallback } from "react"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { renderBareListingCard } from "./bare-listing-card"
+import { RenderBareListingCard } from "@akasha/pages-ui-components/bare-listing-card"
 import { PageSystemTabContent } from "./page-system-view"
 import { PageSystemShell } from "@akasha/pages-ui-components/page-system-shell"
 import { viewConfigToListingParams } from "@akasha/pages-ui-components/synthetic-config"
@@ -151,7 +151,7 @@ export function PagesFilteredContent({
                 : undefined
             }
             renderItem={(page) =>
-              renderBareListingCard(page, {
+              RenderBareListingCard(page, {
                 properties,
                 pageTypeSlug,
                 visiblePropertyIds: effectiveConfig.visible_properties ?? [],

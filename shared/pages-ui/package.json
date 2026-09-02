@@ -7,11 +7,9 @@
   "exports": {
     "./media-server": "./src/media/media-server.ts",
     "./components/nav-command-bindings-registrar": "./src/components/nav-command-bindings-registrar.tsx",
-    "./components/page-card-renderer": "./src/components/page-card-renderer.tsx",
     "./components/page-detail-content": "./src/components/page-detail-content.tsx",
     "./components/page-system-view": "./src/components/page-system-view.tsx",
     "./components/pages-by-relation-content": "./src/components/pages-by-relation-content.tsx",
-    "./components/quick-add/create-page-dialog": "./src/components/quick-add/create-page-dialog.tsx",
     "./components/use-app-nav-items": "./src/components/use-app-nav-items.tsx",
     "./components/view-page-content": "./src/components/view-page-content.tsx",
     "./*": "./src/*.ts"

@@ -5,7 +5,7 @@ import { type AppNavConfig } from "@akasha/design-layout/nav-types"
 import { createPage } from "@akasha/pages-access/create"
 import { NEVER_MATCH_SLUG } from "@akasha/pages-access/sentinels"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
-import { CreatePageDialog } from "@shared/pages-ui/components/quick-add/create-page-dialog"
+import { CreatePageDialog } from "@akasha/pages-ui-components/create-page-dialog"
 import { SortableNavs } from "@akasha/pages-ui-components/sortable-navs"
 import { useAppNavItems } from "@shared/pages-ui/components/use-app-nav-items"
 import {
