@@ -19,6 +19,7 @@ export const edit = {
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
     { said: "--dry-run", takes: "say what would happen and write nothing" },
+    { said: "--draft", takes: "keep what would land in this agent's patch rather than landing it" },
   ],
   helpNotes: [
     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
@@ -32,6 +33,7 @@ export const edit = {
     "a path outside `akasha/` is warranted by nothing, so no reading of it is owed.",
     "a file has to be what this call read it as, wherever in the repository that file is.",
     "--remove takes a path under `akasha/` alone — say `akasha remove` for one outside it.",
+    "--draft gates the change as a landing does, then keeps it in the patch beside this agent's page.",
   ],
   invariants: [
     {
@@ -124,6 +126,14 @@ export const edit = {
       invariantKind: "departure",
       statement:
         "A path outside the `akasha` folder is overwritten only from the body the writer read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming `--draft` keeps a patch rather than writing a body onto the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A passage a draft works against is the body on disk rather than the patch.",
     },
     {
       invariantKind: "gap",

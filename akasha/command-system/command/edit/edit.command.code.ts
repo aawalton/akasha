@@ -3,6 +3,7 @@ import type { Asked, Held } from "../../asking/asking.module.code.ts"
 import {
   BREAK_GLASS,
   bytesAt,
+  DRAFT,
   DRY_RUN,
   landingAsked,
   mistaking,
@@ -48,7 +49,7 @@ const NEW_FILE = "--new-file"
 
 const VALUED = [FILE_PATH, OLD_FILE, NEW_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
-const BARE = [DRY_RUN]
+const BARE = [DRY_RUN, DRAFT]
 
 type Stated = {
   readonly old: string
@@ -299,6 +300,7 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
         changes.map((one) => one.path)
       ),
     dryRun: argv.includes(DRY_RUN),
+    draft: argv.includes(DRAFT),
     glass: glass.glass,
     unmoved,
     saying: (said) => [
@@ -318,7 +320,7 @@ export function editing(argv: readonly string[], given: Given, piping: Piping): 
   const asked = askedWith(argv, given, piping)
   if (!("changes" in asked)) return asked
   const answer = landingAsked(given, asked)
-  if (answer.code === 0 && !asked.dryRun) {
+  if (answer.code === 0 && !asked.dryRun && asked.draft !== true) {
     dropReadings(
       given.root,
       asked.changes.filter((one) => one.body === null).map((one) => one.path)
