@@ -13,7 +13,6 @@ export const temperWatcher = {
     "module/watcher-log-merging",
     "module/watcher-unit",
     "module/watcher-running",
-    "module/watcher-liveness",
     "module/watcher-run-outcome",
     "module/watcher-self-write-guard",
     "module/watcher-upload-retry",
@@ -66,7 +65,6 @@ export const temperWatcher = {
     "module/watcher-session-file",
     "module/watcher-main",
     "workstation-service/temper-watcher",
-    "workstation-service/temper-watcher-liveness",
   ],
   invariants: [
     {
