@@ -23,6 +23,7 @@ export const patch = {
     "an apply the checks refuse leaves the patch to be worked on further.",
     "a patch applied or dropped takes the ref keeping its blobs with it.",
     "a patch outlives a context replacement, which takes away every reading the agent held.",
+    "a conflict the rebase leaves is carried into the patch for the agent to resolve.",
   ],
   invariants: [
     {
@@ -68,6 +69,10 @@ export const patch = {
     {
       invariantKind: "departure",
       statement: "A path that moved under the patch is named as moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the patch carries a conflict at is named as carrying one.",
     },
   ],
 } as const satisfies Command

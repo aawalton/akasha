@@ -40,11 +40,16 @@ function markOf(one: Blobs): string {
   return "changed"
 }
 
+function clashSaid(path: string): string {
+  return `${path} carries a conflict — resolve it in the patch before the patch applies`
+}
+
 export function showing(root: string, page: string): Answer {
   const held = patchIn(root, page)
   if (held === null) return { report: [NONE], refusals: [], code: 0 }
   const said = rebasedOnto(root, headOf(root), held)
   const moved = "why" in said ? [] : said.moved
+  const clashed = "why" in said ? [] : said.clashed
   const lines = [...blobsIn(held)].map((one) => {
     const [path, blobs] = one
     const after = moved.includes(path) ? " — moved under the patch since it was drafted" : ""
@@ -53,7 +58,12 @@ export function showing(root: string, page: string): Answer {
   const tail =
     "why" in said ? [`the patch does not rebase onto the commit at HEAD — ${said.why}`] : []
   return {
-    report: [...[...lines].sort(), `the patch is kept at ${patchAt(page)}`, ...tail],
+    report: [
+      ...[...lines].sort(),
+      ...clashed.map(clashSaid),
+      `the patch is kept at ${patchAt(page)}`,
+      ...tail,
+    ],
     refusals: [],
     code: 0,
   }

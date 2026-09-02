@@ -32,6 +32,12 @@ function repo(): string {
   return root
 }
 
+function landing(root: string, body: string): undefined {
+  writing(root, ONE, body)
+  gitSaid(root, ["add", "--", ONE])
+  gitSaid(root, [...WHO, "commit", "-q", "-m", "landed", "--", ONE])
+}
+
 function drafting(root: string): undefined {
   expect("why" in drafted(root, PAGE, [{ path: ONE, was: WAS, body: NOW }])).toBe(false)
 }
@@ -74,10 +80,24 @@ test("a call naming no act names each path the patch carries", () => {
 test("a path that moved under the patch is named as moved", () => {
   const root = repo()
   drafting(root)
-  writing(root, ONE, WAS.replace("j\n", "J\n"))
-  gitSaid(root, ["add", "--", ONE])
-  gitSaid(root, [...WHO, "commit", "-q", "-m", "moved", "--", ONE])
+  landing(root, WAS.replace("j\n", "J\n"))
   expect(showing(root, PAGE).report.join("\n")).toContain("moved under the patch")
+})
+
+test("a path the patch carries a conflict at is named as carrying one", () => {
+  const root = repo()
+  drafting(root)
+  landing(root, WAS.replace("b\n", "X\n"))
+  const said = showing(root, PAGE)
+  expect(said.code).toBe(0)
+  expect(said.report.join("\n")).toContain(`${ONE} carries a conflict`)
+})
+
+test("a patch merging cleanly names no conflict", () => {
+  const root = repo()
+  drafting(root)
+  landing(root, WAS.replace("j\n", "J\n"))
+  expect(showing(root, PAGE).report.join("\n")).not.toContain("carries a conflict")
 })
 
 test("a drop takes the patch and the ref keeping its blobs away", () => {
