@@ -1,2 +1,0 @@
-[test]
-preload = ["@shared/utils-test/setup/happydom"]
