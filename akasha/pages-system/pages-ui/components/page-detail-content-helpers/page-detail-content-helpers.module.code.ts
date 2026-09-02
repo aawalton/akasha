@@ -1,4 +1,4 @@
-import { RESERVED_PROPERTY_IDS } from "@akasha/pages-ui/components/card-property-columns"
+import { RESERVED_PROPERTY_IDS } from "@akasha/pages-ui-components/card-property-columns"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 
 export const PAGE_TYPE_SLUG = "page-type"

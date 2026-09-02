@@ -6,7 +6,7 @@ import {
 } from "@akasha/pages-core/property-types/rollup"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { toAggregateInputs, toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
+import { toAggregateInputs, toPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
 import { useMemo } from "react"
 
 interface PageLike {

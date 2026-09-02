@@ -1,4 +1,4 @@
-import { parseProseBlocks, splitInlineEmphasis } from "@akasha/pages-ui/components/reader-prose"
+import { parseProseBlocks, splitInlineEmphasis } from "@akasha/pages-ui-components/reader-prose"
 import { buildKokoroSpeechInput, splitSentences } from "@akasha/voice-core/voice/speech"
 
 export interface SentenceRun {

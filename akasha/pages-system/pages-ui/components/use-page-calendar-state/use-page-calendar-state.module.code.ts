@@ -6,8 +6,8 @@ import { pageDayKey } from "@akasha/pages-core/view/calendar-date-to-value"
 import {
   type CalendarCellRect,
   computeCalendarDropDay,
-} from "@akasha/pages-ui/components/page-calendar-dnd-helpers"
-import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
+} from "@akasha/pages-ui-components/page-calendar-dnd-helpers"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import type { DragStartEvent } from "@dnd-kit/core"
 import { KeyboardSensor, PointerSensor, useSensor, useSensors } from "@dnd-kit/core"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"

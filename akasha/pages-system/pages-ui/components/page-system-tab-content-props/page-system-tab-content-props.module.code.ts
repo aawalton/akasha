@@ -7,9 +7,9 @@ import type {
 } from "@akasha/pages-core/schema/view-data"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
-import type { ReorderCardsHandler } from "@akasha/pages-ui/components/use-reorder-view-wiring"
-import type { PageTypeOption } from "@akasha/pages-ui/components/view-settings-options"
-import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
+import type { ReorderCardsHandler } from "@akasha/pages-ui-components/use-reorder-view-wiring"
+import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+import type { PageTypeOption } from "@akasha/pages-ui-components/view-settings-options"
 import type { ReactNode } from "react"
 
 export interface ServerGroupedSection {

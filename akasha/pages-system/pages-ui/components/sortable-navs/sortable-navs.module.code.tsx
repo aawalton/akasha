@@ -6,8 +6,8 @@ import { useSidebarState } from "@akasha/design-layout/use-sidebar-state"
 import { cn } from "@akasha/design-primitives/cn"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { type DropZoneInfo, findDropZone } from "@akasha/pages-ui/components/drop-zones"
 import { PagesUILink, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+import { type DropZoneInfo, findDropZone } from "@akasha/pages-ui-components/drop-zones"
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,

@@ -1,7 +1,7 @@
 import {
   ACTIONS_COLUMN_PX,
   type PageTableColumn,
-} from "@akasha/pages-ui/components/page-table-shared"
+} from "@akasha/pages-ui-components/page-table-shared"
 
 interface PageTableColGroupProps {
   columns: readonly PageTableColumn[]
