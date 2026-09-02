@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/temper-races",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./race-icon-url": "./race-icon-url/race-icon-url.module.code.ts",
+    "./races": "./races/races.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

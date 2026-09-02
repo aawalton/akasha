@@ -62,6 +62,8 @@ export const temper = {
     "workspace-package/temper-capture-datamining",
     "workspace-package/temper-capture-errors",
     "workspace-package/temper-capture-sales",
+    "workspace-package/temper-races",
+    "workspace-package/temper-skill-lines",
   ],
   invariants: [
     {

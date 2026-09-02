@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/temper-skill-lines",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./alliance-war-skill-lines": "./alliance-war-skill-lines/alliance-war-skill-lines.module.code.ts",
+    "./class-skill-lines": "./class-skill-lines/class-skill-lines.module.code.ts",
+    "./companion-skill-lines": "./companion-skill-lines/companion-skill-lines.module.code.ts",
+    "./racial-and-craft-skill-lines": "./racial-and-craft-skill-lines/racial-and-craft-skill-lines.module.code.ts",
+    "./skill-line-category-data": "./skill-line-category-data/skill-line-category-data.module.code.ts",
+    "./skill-line-template": "./skill-line-template/skill-line-template.module.code.ts",
+    "./skill-lines": "./skill-lines/skill-lines.module.code.ts",
+    "./vengeance-skill-lines": "./vengeance-skill-lines/vengeance-skill-lines.module.code.ts",
+    "./weapon-and-armor-skill-lines": "./weapon-and-armor-skill-lines/weapon-and-armor-skill-lines.module.code.ts",
+    "./world-and-guild-skill-lines": "./world-and-guild-skill-lines/world-and-guild-skill-lines.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
