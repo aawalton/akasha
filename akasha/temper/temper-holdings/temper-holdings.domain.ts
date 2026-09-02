@@ -6,4 +6,13 @@ export const temperHoldings = {
   slug: "temper-holdings",
   definition: "what an account holds and what the holdings are worth",
   pluralSlug: "temper-holdings-sets",
+  partSlugs: [
+    "page-type/temper-guild-trader",
+    "page-type/temper-holdings-thing",
+    "page-type/temper-inventory-chunk",
+    "page-type/temper-inventory-currency",
+    "page-type/temper-inventory-snapshot",
+    "page-type/temper-item-category-tree",
+    "page-type/temper-net-worth-day",
+  ],
 } as const satisfies Domain
