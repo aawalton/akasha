@@ -723,11 +723,35 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-lib-addon-keybinds": {
+      "name": "@akasha/temper-lib-addon-keybinds",
+    },
     "akasha/temper/temper-lib-alchemy-station": {
       "name": "@akasha/temper-lib-alchemy-station",
     },
+    "akasha/temper/temper-lib-chat-message": {
+      "name": "@akasha/temper-lib-chat-message",
+    },
+    "akasha/temper/temper-lib-custom-menu": {
+      "name": "@akasha/temper-lib-custom-menu",
+    },
+    "akasha/temper/temper-lib-main-menu": {
+      "name": "@akasha/temper-lib-main-menu",
+    },
+    "akasha/temper/temper-lib-map-ping": {
+      "name": "@akasha/temper-lib-map-ping",
+    },
+    "akasha/temper/temper-lib-notification": {
+      "name": "@akasha/temper-lib-notification",
+    },
     "akasha/temper/temper-lib-table-functions": {
       "name": "@akasha/temper-lib-table-functions",
+    },
+    "akasha/temper/temper-lua-runner": {
+      "name": "@akasha/temper-lua-runner",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
     },
     "akasha/temper/temper-saved-variables": {
       "name": "@akasha/temper-saved-variables",
@@ -3794,9 +3818,23 @@
 
     "@akasha/temper-inventory-automation": ["@akasha/temper-inventory-automation@workspace:akasha/temper/temper-inventory-automation"],
 
+    "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:akasha/temper/temper-lib-addon-keybinds"],
+
     "@akasha/temper-lib-alchemy-station": ["@akasha/temper-lib-alchemy-station@workspace:akasha/temper/temper-lib-alchemy-station"],
 
+    "@akasha/temper-lib-chat-message": ["@akasha/temper-lib-chat-message@workspace:akasha/temper/temper-lib-chat-message"],
+
+    "@akasha/temper-lib-custom-menu": ["@akasha/temper-lib-custom-menu@workspace:akasha/temper/temper-lib-custom-menu"],
+
+    "@akasha/temper-lib-main-menu": ["@akasha/temper-lib-main-menu@workspace:akasha/temper/temper-lib-main-menu"],
+
+    "@akasha/temper-lib-map-ping": ["@akasha/temper-lib-map-ping@workspace:akasha/temper/temper-lib-map-ping"],
+
+    "@akasha/temper-lib-notification": ["@akasha/temper-lib-notification@workspace:akasha/temper/temper-lib-notification"],
+
     "@akasha/temper-lib-table-functions": ["@akasha/temper-lib-table-functions@workspace:akasha/temper/temper-lib-table-functions"],
+
+    "@akasha/temper-lua-runner": ["@akasha/temper-lua-runner@workspace:akasha/temper/temper-lua-runner"],
 
     "@akasha/temper-saved-variables": ["@akasha/temper-saved-variables@workspace:akasha/temper/temper-saved-variables"],
 
