@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theEsoDeclarationFilesAloneCannotReplaceThePerAddonModules = {
+  id: "01a06077-7d8d-798a-8ab7-3f010dbf6f6c",
+  pageTypeSlug: "finding",
+  slug: "the-eso-declaration-files-alone-cannot-replace-the-per-addon-modules",
+  domainSlug: "domain/temper",
+  claim:
+    "The 41 files under `temper/addons/types/eso/` are not enough to delete the thirteen per-addon declarations modules. Nothing there declares the Lua 5.1 library or the transpiler's own names: `string`, `table`, `math`, `os`, `pcall` and `pairs` live in the tstl tree, and `$multi`, `LuaMultiReturn`, `LuaIterable`, `LuaTable` and `AnyNotNil` beside them. Ten further game globals live only in per-package `src/types/eso-ext.d.ts`.",
+  evidence:
+    "Three sources answer the names an addon reaches, and only the first is under types/eso. temper/addons/types/tstl/lualib/src/eso-sandbox.d.ts declares namespace coroutine at line 183, debug at 201, math at 213, os at 248, string at 259 and table at 288, and functions pairs at 108 and pcall at 117. temper/addons/types/tstl/language-extensions/index.d.ts declares AnyNotNil at line 2, `$multi` at 12, LuaMultiReturn at 15, LuaIterable at 38 and LuaPairsIterable at 42. temper/addons/types/eso/sandbox-lualib.d.ts reaches both by reference path, and eso/globals.d.ts reaches the language extensions the same way, so a mend that carries only the eso folder drops what those references point at. The npm package lua-types is not installed, so nothing else answers them. Third, the generated set is missing game globals that each addon patched locally: `git grep` across temper/*/src/types/eso-ext.d.ts finds ZO_Object, ZO_InitializingObject, ScriptBuildInfo, GetUICustomScale, GetUIGlobalScale, GAMEPAD_TYPE_PS4_NO_TOUCHPAD and GRAPHICS_SETTING_FULLSCREEN in lib-debug-logger, and zo_strgmatch, zo_strtrim and ZO_InitializingCallbackObject in lib-async, none of which are in eso/generated. ZO_Object alone is patched by lib-debug-logger, lib-extended-journal and lib-gps. Measured against the three declarations modules this seat is answerable for, 130 distinct names are declared and 32 are absent from types/eso; 16 of those are local helper interfaces that die with the modules, and 16 are real and named above. Deleting the thirteen modules without carrying the tstl tree and the per-package eso-ext files turns 245 duplicate-identifier refusals into a comparable number of missing-name refusals.",
+} as const satisfies Finding
