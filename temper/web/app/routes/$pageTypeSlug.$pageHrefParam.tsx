@@ -6,6 +6,14 @@ import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { decodeBuild, encodeBuild } from "@akasha/temper-build-codec/build-codec"
+import type {
+  CharacterBuildMetadata,
+  CompanionBuildMetadata,
+} from "@akasha/temper-build-metadata/build-metadata"
+import {
+  applyCharacterMetadata,
+  applyCompanionMetadata,
+} from "@akasha/temper-build-metadata/build-metadata"
 import { createEmptyCharacter } from "@akasha/temper-character-build/build-factory"
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import { toCharacterVisibility } from "@akasha/temper-character-build/build-types"
@@ -18,14 +26,6 @@ import {
   buildHash as toBuildHash,
   buildId as toBuildId,
 } from "@akasha/temper-formula-framework/branded-id"
-import type {
-  CharacterBuildMetadata,
-  CompanionBuildMetadata,
-} from "@temper/game-characters/build-metadata"
-import {
-  applyCharacterMetadata,
-  applyCompanionMetadata,
-} from "@temper/game-characters/build-metadata"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"
