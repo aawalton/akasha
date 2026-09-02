@@ -1,0 +1,24 @@
+{
+  "name": "@akasha/temper-character-sources",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./alliances": "./alliances/alliances.module.code.ts",
+    "./attributes-source": "./attributes-source/attributes-source.module.code.ts",
+    "./base-source": "./base-source/base-source.module.code.ts",
+    "./character-roles": "./character-roles/character-roles.module.code.ts",
+    "./curse-source": "./curse-source/curse-source.module.code.ts",
+    "./curses": "./curses/curses.module.code.ts",
+    "./drink-source": "./drink-source/drink-source.module.code.ts",
+    "./eso-plus-source": "./eso-plus-source/eso-plus-source.module.code.ts",
+    "./food-or-drink-source": "./food-or-drink-source/food-or-drink-source.module.code.ts",
+    "./food-source": "./food-source/food-source.module.code.ts",
+    "./target-armors": "./target-armors/target-armors.module.code.ts",
+    "./target-source": "./target-source/target-source.module.code.ts",
+    "./vampire-stages": "./vampire-stages/vampire-stages.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

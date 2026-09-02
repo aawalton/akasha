@@ -87,6 +87,7 @@ export const temper = {
     "workspace-package/temper-items-rules-core",
     "workspace-package/temper-skill-kinds",
     "eso-addon/temper-interface-addon",
+    "workspace-package/temper-character-sources",
   ],
   invariants: [
     {
