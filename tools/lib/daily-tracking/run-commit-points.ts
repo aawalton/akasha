@@ -2,6 +2,7 @@ import { z } from "zod"
 import { codeRoot } from "../code-root.ts"
 import { rollupActiveCaloriesForDay } from "./active-calories.ts"
 import { rollupBreathingForDay } from "./breathing-points.ts"
+import { markDaySpan } from "./day-span-mark.ts"
 import {
   getEsoDayStrOffset,
   readSessionPages,
@@ -22,6 +23,7 @@ import {
 import { rollupSleepForDay } from "./sleep-points.ts"
 import { rollupStrengthForDay } from "./strength-points.ts"
 import { rollupHealthTaskPointsForDay } from "./task-points.ts"
+import { POINTS_WRITER } from "./write-daily-points.ts"
 import { writeTotalPointsForPersonas } from "./totals.ts"
 import type { SessionPage } from "./tracking-types.ts"
 
@@ -70,6 +72,13 @@ export async function runCommitPoints(): Promise<void> {
     const breathing = await rollupBreathingForDay(dayStr)
     console.log(
       `commit-points ${dayStr}: breathingPoints=${breathing.breathingPoints} (${breathing.outcome})`
+    )
+    // How the day was spanned is settled once, here, rather than by each rollup above: the cardio
+    // and nutrition figures are counted over the same span, and two writers of one fact drift. It
+    // is written last so the page the rollups may have just created is there to carry it.
+    const span = await markDaySpan(dayStr, POINTS_WRITER)
+    console.log(
+      `commit-points ${dayStr}: spannedFromDayBoundary=${span.spanned} (${span.outcome})`
     )
   }
 
