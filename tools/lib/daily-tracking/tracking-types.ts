@@ -78,26 +78,6 @@ export interface PageEntitySurfaceConfig {
   readonly columns: readonly string[]
 }
 
-export interface SessionPage {
-  readonly day: string
-  readonly title: string | null
-  readonly startTime: string | null
-  readonly endTime: string | null
-  readonly safetyLevel: number | null
-  readonly difficultyLevel: number | null
-  readonly capacityRate: number | null
-}
-
-export interface WakeWindow {
-  readonly from: number
-  readonly to: number
-}
-
-export interface DayWindow {
-  readonly start: Date
-  readonly end: Date
-}
-
 export type DailyTierColor = string
 
 export type DailyTierLadder = readonly unknown[]

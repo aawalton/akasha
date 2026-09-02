@@ -24,16 +24,18 @@ export { decideTotalPointsWrite } from "@akasha/personas-core/totals"
 import { getEsoDayStrOffset as esoDayStrOffset } from "@akasha/day/eso-day"
 
 export { getEsoDayStr, getEsoDayStrOffset, getEsoDayWindow } from "@akasha/day/eso-day"
-// `readSessionPages` came from `@akasha/status-bar-access/session-reading` beside `cardioReading`.
-// That one binds the readout engine to a port that asks for a query by slug, and the engine which
-// read those query files is gone, so it raised on every call. It now comes from `./session-pages.ts`,
-// which states the query whole through the funnel. `cardioReading` reads health samples rather than
-// pages and is unaffected.
+// `readSessionPages` and `wakeWindow` were re-exported here so that `active-calories.ts` could read
+// every session row and fold one day's window out of them. Both reached `readouts/session-readings.ts`,
+// the last of this folder's reaches into the readout engine. That window is now taken from
+// `@akasha/health-samples-day/active-calories`, which reads the entries beside a day's own page, so
+// neither name has a caller and both are gone.
+//
+// `cardioReading` lost its only caller in the same change. It is left standing because deleting it
+// leaves `akasha/status-bar-access` with no consumer at all, which is a call about that package
+// rather than about this file.
 export { cardioReading } from "@akasha/status-bar-access/session-reading"
 export { assertNever } from "@akasha/utils-narrow/assert-never"
-export { readSessionPages } from "./session-pages.ts"
 export const SOURCE_POINTS_FIELD = "sourcePoints"
-export { wakeWindow } from "../../../readouts/session-readings.ts"
 
 export const WRITER = "daily-tracking"
 
