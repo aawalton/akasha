@@ -25,6 +25,8 @@ export const temperDungeonChampions = {
     "module/dungeon-champion-settings",
     "module/dungeon-champion-start",
     "module/dungeon-champion-global",
+    "type-declaration/dungeon-champion-global-declarations",
+    "type-declaration/dungeon-champion-saved-vars-declarations",
   ],
   invariants: [
     {

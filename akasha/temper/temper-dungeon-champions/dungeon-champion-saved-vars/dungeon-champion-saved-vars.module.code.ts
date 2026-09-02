@@ -8,12 +8,8 @@ export type DcsSavedVariables = DcsDefaults & { namesToIDSavedVars?: boolean }
 
 let svInstance: DcsSavedVariables | undefined
 
-interface SavedVariablesRoot {
+export interface SavedVariablesRoot {
   Default?: Record<string, Record<string, DcsSavedVariables | undefined> | undefined>
-}
-
-declare global {
-  var TemperDungeonChampions_SavedVariables: SavedVariablesRoot | undefined
 }
 
 function namesToIDSavedVars(): undefined {
