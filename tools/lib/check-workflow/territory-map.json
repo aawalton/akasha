@@ -20,7 +20,7 @@
     { "addon": "TemperAntiquities", "package": "akasha/temper/temper-antiquities-addon", "state": "held", "tiClean": true, "kind": "ported", "heldBy": 15145, "adjacent": [] },
     { "addon": "TemperNavigation", "package": "akasha/temper/temper-navigation-addon", "state": "held", "tiClean": true, "kind": "ported", "heldBy": 15147, "adjacent": ["TemperCollections", "TemperKeybinder", "LibMapPins-1.0", "LibAddonMenu-2.0", "LibGPS", "LibDebugLogger", "LibSavedVars", "LibNotification", "LibTreasure", "LibMapData", "LibAsync"] },
     { "addon": "TemperHousing", "package": "akasha/temper/temper-housing-addon", "state": "held", "tiClean": true, "kind": "ported", "heldBy": 15146, "adjacent": [] },
-    { "addon": "TemperKeybinder", "package": "temper/shared-interface-keybinder-addon", "state": "held", "tiClean": true, "kind": "ported", "heldBy": 13122, "adjacent": ["TemperCrafting", "TemperNavigation", "libAddonKeybinds"] },
+    { "addon": "TemperKeybinder", "package": "akasha/temper/temper-keybinder-addon", "state": "held", "tiClean": true, "kind": "ported", "heldBy": 13122, "adjacent": ["TemperCrafting", "TemperNavigation", "libAddonKeybinds"] },
     { "addon": "LibCustomMenu", "package": "akasha/temper/temper-lib-custom-menu", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13211, "adjacent": [] },
     { "addon": "libAddonKeybinds", "package": "akasha/temper/temper-lib-addon-keybinds", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13231, "adjacent": ["TemperKeybinder"] },
     { "addon": "LibAddonMenuOrderListBox", "package": "akasha/temper/temper-lib-addon-menu-order-list-box", "state": "held", "tiClean": true, "kind": "library", "heldBy": 14477, "adjacent": ["TemperInterface"] },
