@@ -168,13 +168,23 @@ export interface TreeExpectation {
   // of which opens anything or takes a colour has lost half of what the panel is for, and that
   // half fails silently, so one row carrying it is asked for.
   readonly carries: "a turn colour" | "a document to open"
+  // The fewest rows a corpus-backed tree may draw before the reading is disbelieved, or null where
+  // the tree is drawn from live state and a small answer is a true one.
+  //
+  // This is a floor and not the pinned count the note above refuses. A pinned count goes stale in
+  // an hour; a floor an order of magnitude under the truth goes stale never, and it is the only
+  // thing that catches the failure this harness was built after: the Pages tree drew 427 rows
+  // where it now draws 2885, because every property lookup missed on a bare slug, and every check
+  // here stayed green through it. Rows existed, carried labels, carried ids and opened documents.
+  // Only the count knew.
+  readonly atLeast: number | null
 }
 
 const TREES: readonly TreeExpectation[] = [
-  { viewId: "opsAgentTree", said: "Agents", carries: "a turn colour" },
-  { viewId: "opsDomainTree", said: "Domains", carries: "a document to open" },
-  { viewId: "opsWorkTree", said: "Work", carries: "a turn colour" },
-  { viewId: "opsPageTree", said: "Pages", carries: "a document to open" },
+  { viewId: "opsAgentTree", said: "Agents", carries: "a turn colour", atLeast: null },
+  { viewId: "opsDomainTree", said: "Domains", carries: "a document to open", atLeast: 500 },
+  { viewId: "opsWorkTree", said: "Work", carries: "a turn colour", atLeast: null },
+  { viewId: "opsPageTree", said: "Pages", carries: "a document to open", atLeast: 500 },
 ]
 
 function carried(rows: readonly DrawnRow[], carries: TreeExpectation["carries"]): number {
@@ -247,6 +257,17 @@ export function judgeTree(drawn: Drawn, want: TreeExpectation): Verdict {
       surface: want.viewId,
       green: false,
       said: `${want.said} drew ${String(all.length)} rows and not one carries ${want.carries}`,
+      notes,
+    }
+  }
+  if (want.atLeast !== null && all.length < want.atLeast) {
+    return {
+      surface: want.viewId,
+      green: false,
+      said:
+        `${want.said} drew ${String(all.length)} rows, under the ${String(want.atLeast)} a tree ` +
+        "read from the corpus draws — the rows it did draw are well formed, so what is lost here " +
+        "is lost quietly and only the count says so",
       notes,
     }
   }
