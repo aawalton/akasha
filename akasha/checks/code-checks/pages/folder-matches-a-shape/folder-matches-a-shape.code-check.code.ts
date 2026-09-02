@@ -300,6 +300,12 @@ export function strippedOf(named: string, above: readonly string[]): string {
   return named
 }
 
+export function namingFolderOf(folder: string): string {
+  let at = folderOf(folder)
+  while (at !== "" && HELD_FOLDERS.has(basename(at))) at = folderOf(at)
+  return at
+}
+
 export function openingWith(named: string, above: readonly string[]): string | null {
   for (const one of above) {
     if (named === one || named.startsWith(`${one}-`)) return one
@@ -344,7 +350,7 @@ export function namingOver(
     const held = names(folder)
     const wants = held[1] ?? held[0]
     if (wants === undefined) return null
-    return strippedOf(wants, names(folderOf(folder)))
+    return strippedOf(wants, names(namingFolderOf(folder)))
   }
 }
 
@@ -389,7 +395,9 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
     const named = basename(folder)
-    const opening = HELD_FOLDERS.has(named) ? null : openingWith(named, namesFor(folderOf(folder)))
+    const opening = HELD_FOLDERS.has(named)
+      ? null
+      : openingWith(named, namesFor(namingFolderOf(folder)))
     if (opening !== null) {
       found.push({
         path: folder,

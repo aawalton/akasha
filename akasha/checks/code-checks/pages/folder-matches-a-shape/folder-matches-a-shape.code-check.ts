@@ -45,6 +45,14 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder sitting under a part is named against the page above that part.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every part between the folder and that page is looked through.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The refusal carries what each shape said rather than ranking them.",
     },
     {
