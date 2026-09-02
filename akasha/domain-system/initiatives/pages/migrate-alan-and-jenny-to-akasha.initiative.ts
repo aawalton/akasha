@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "The bar reads through the widgets' system: upkeep 6, inboxes 3, keys and order byte-identical to the routes, 19.0s down to 34ms. What is owed is Alan reloading his window, since nobody has seen it render in a live host. The four reaches are bun children now and `atomic-write` is runtime-neutral. `page-value` refuses under a runtime holding no transpiler rather than reading every page as empty, and `import.meta.path` is a second bun-only global no `Bun.` search finds.",
+        "Alan reloaded, and activation threw `undefined stands under no akasha folder`: `gate-building` asks `rootOf(import.meta.path)` as it loads, and node answers undefined. It is reached by `work-tree/harness.ts` and `seat/turn-color.ts`, the two reaches not yet bun children, through `tools/lib` where no grep of the extension saw them. The instrument called 4 of 5 clean because it judged the files already mended rather than `extension.ts`, which is what activates.",
     },
     {
       statement: "Nothing reads a readout through the markdown engine.",
