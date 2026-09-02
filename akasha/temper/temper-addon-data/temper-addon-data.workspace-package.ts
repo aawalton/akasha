@@ -10,6 +10,7 @@ export const temperAddonData = {
     "module/addon-data-page-rows",
     "module/addon-data-target",
     "module/alliance-mappings",
+    "module/catalog-sidecars",
     "module/champion-point-mappings",
     "module/class-mappings",
     "module/codec-constants",
