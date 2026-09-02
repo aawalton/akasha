@@ -24,6 +24,11 @@ export interface AddonDataPages {
   catalogDomainPages: PageResult
   tributePatronPages: PageResult
   antiquityCategoryPages: PageResult
+  worldZonePages: PageResult
+  cadwellLevelPages: PageResult
+  craftTypePages: PageResult
+  researchLinePages: PageResult
+  collectibleCategoryPages: PageResult
   affixScriptPages: PageResult
   alliancePages: PageResult
   armorEnchantPages: PageResult
@@ -208,6 +213,11 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     catalogDomainPages,
     tributePatronPages,
     antiquityCategoryPages,
+    worldZonePages,
+    cadwellLevelPages,
+    craftTypePages,
+    researchLinePages,
+    collectibleCategoryPages,
   ] = await Promise.all([
     getPages({ pageTypeSlug: "temper-activity-category", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-affix-script", limit: 1000 }),
@@ -306,6 +316,11 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     getPages({ pageTypeSlug: "temper-catalog-domain", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-tribute-patron", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-antiquity-category", limit: 1000 }),
+    getPages({ pageTypeSlug: "temper-world-zone", limit: 1000 }),
+    getPages({ pageTypeSlug: "temper-cadwell-level", limit: 1000 }),
+    getPages({ pageTypeSlug: "temper-craft-type", limit: 1000 }),
+    getPages({ pageTypeSlug: "temper-research-line", limit: 1000 }),
+    getPages({ pageTypeSlug: "temper-collectible-category", limit: 1000 }),
   ])
   const minedRestorePotions = await fetchMinedRestorePotions()
 
@@ -314,6 +329,10 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     catalogDomainPages,
     tributePatronPages,
     antiquityCategoryPages,
+    worldZonePages,
+    cadwellLevelPages,
+    craftTypePages,
+    researchLinePages,
     affixScriptPages,
     alliancePages,
     armorEnchantPages,
