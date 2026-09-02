@@ -1,18 +1,28 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { classes } from "@akasha/temper-classes/character-class"
+import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import type { CharacterCardId } from "@akasha/temper-player-completion/completion-card-registry"
+import type { CompletionCharacter } from "@akasha/temper-player-completion/completion-ui-types"
 import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
 import {
-  type SkillLineId,
   getSkillLineIdsForClass,
+  type SkillLineId,
   skillLines,
 } from "@akasha/temper-skill-lines/skill-lines"
-import { type CharacterSkillMorphProgress, type MorphableSkillDetail } from "@akasha/temper-skill-morphs/morph-progress-types"
+import type {
+  CharacterSkillMorphProgress,
+  MorphableSkillDetail,
+} from "@akasha/temper-skill-morphs/morph-progress-types"
 import { morphableSkillLineIds } from "@akasha/temper-skill-morphs/morphable-skills"
-import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
-import type { CharacterCardId } from "@temper/player-completion/completion-card-registry"
-import type { CompletionCharacter } from "@temper/player-completion/completion-ui-types"
-import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
+import {
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+  withActivityCategories,
+} from "@temper/player-completion-ui/completion-panel-card"
 
 interface SkillMorphsProgressPanelCardProps {
   id?: CharacterCardId

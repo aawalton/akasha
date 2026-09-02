@@ -2,15 +2,15 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
+import { buildNodePath } from "@akasha/design-patterns/path"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { StatRow } from "@akasha/design-patterns/stat-row"
 import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
-import { buildNodePath } from "@akasha/design-patterns/path"
-import { type SortDirection } from "@akasha/design-patterns/sort-types"
 import {
+  ACTIVITY_CATEGORIES,
   type ActivityCategoryId,
-  activityCategories,
-} from "@temper/player-completion/activity-category-data"
-import { completionPercent } from "@temper/player-completion/completion-percent"
+} from "@akasha/temper-player-completion/activity-categories"
+import { completionPercent } from "@akasha/temper-player-completion/completion-percent"
 import { CheckIcon, MinusIcon } from "lucide-react"
 import type { ReactNode } from "react"
 import { useEffect, useRef, useState } from "react"

@@ -9,13 +9,13 @@ import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import type { CharacterBuildMetadata } from "@akasha/temper-build-metadata/build-metadata"
+import type { CharacterVisibility } from "@akasha/temper-character-build/build-types"
 import {
   type RoleId,
   characterRoles as roles,
 } from "@akasha/temper-character-sources/character-roles"
 import type { Json } from "@akasha/utils-narrow/json-value"
-import type { CharacterBuildMetadata } from "@temper/game-characters/build-metadata"
-import type { CharacterVisibility } from "@temper/game-characters-character/build-types"
 import { useMemo } from "react"
 
 const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"

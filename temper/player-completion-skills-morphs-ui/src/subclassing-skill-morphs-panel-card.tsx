@@ -1,13 +1,17 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { classes } from "@akasha/temper-classes/character-class"
-import {
-  getSkillLineIdsForClass,
-  skillLines,
-} from "@akasha/temper-skill-lines/skill-lines"
+import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import type { AccountCardId } from "@akasha/temper-player-completion/completion-card-registry"
+import { getSkillLineIdsForClass, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import type { SubclassingSkillMorphProgressResult } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
-import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
-import type { AccountCardId } from "@temper/player-completion/completion-card-registry"
-import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"
+import {
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+  withActivityCategories,
+} from "@temper/player-completion-ui/completion-panel-card"
 
 const MAX_VARIANT_RANK = 4
 

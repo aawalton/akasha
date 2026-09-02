@@ -9,6 +9,7 @@ import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import type { CompanionBuildMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
@@ -19,7 +20,6 @@ import {
 } from "@akasha/temper-companions-core/companion-roles"
 import type { CompanionVisibility } from "@akasha/temper-companions-core/companion-types"
 import type { Json } from "@akasha/utils-narrow/json-value"
-import type { CompanionBuildMetadata } from "@temper/game-characters/build-metadata"
 import { useMemo } from "react"
 
 const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"

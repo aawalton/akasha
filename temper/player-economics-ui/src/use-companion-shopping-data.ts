@@ -1,5 +1,6 @@
 "use client"
 
+import { applyCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { decodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
@@ -11,7 +12,6 @@ import {
 } from "@akasha/temper-items-core/companion-gear-diff"
 import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
-import { applyCompanionMetadata } from "@temper/game-characters/build-metadata"
 import { useAllCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import {
