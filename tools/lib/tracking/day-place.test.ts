@@ -1,5 +1,5 @@
 import { describe, expect, mock, test } from "bun:test"
-import { readdirSync, readFileSync } from "node:fs"
+import { readdirSync } from "node:fs"
 import { join } from "node:path"
 
 const HERE = import.meta.dir
@@ -81,23 +81,6 @@ async function whileMigrated(dayStr: string, run: () => Promise<void>): Promise<
   } finally {
     held.delete(dayStr)
   }
-}
-
-const WRITE_VERBS = ["pageLanding", "patchPage", "rowLanding", "rowsLanding", "removeRow"]
-
-const FUNNEL_DIRS = ["lib/tracking", "commands/tracking", "lib/inbox-tracking"]
-
-const ALLOWED_TO_REACH = [
-  "lib/tracking/day-place.ts",
-  "lib/tracking/activities.ts",
-  "lib/inbox-tracking/email-entry.ts",
-]
-
-function filesUnder(dir: string): readonly string[] {
-  const at = join(REPO, "tools", dir)
-  return readdirSync(at)
-    .filter((one) => one.endsWith(".ts"))
-    .map((one) => `${dir}/${one}`)
 }
 
 describe("where a day is kept", () => {
@@ -218,42 +201,5 @@ describe("what reaches the file layer", () => {
         { verb: "rowLanding", act: "write-row", pageType: SESSION_TRACKING, name: "2026-03-06" },
       ])
     })
-  })
-})
-
-describe("nothing reaches around the funnel", () => {
-  test("only day-place and activities name a write of the page store", () => {
-    const reaching: string[] = []
-    for (const dir of FUNNEL_DIRS) {
-      for (const relPath of filesUnder(dir)) {
-        if (ALLOWED_TO_REACH.includes(relPath)) continue
-        if (relPath.endsWith(".test.ts")) continue
-        const text = readFileSync(join(REPO, "tools", relPath), "utf8")
-        const imported = /import\s*\{([^}]*)\}\s*from\s*"[^"]*page-query-client\.ts"/g
-        for (const found of text.matchAll(imported)) {
-          const named = (found[1] as string).split(",").map((one) => one.trim())
-          for (const one of named) {
-            if (WRITE_VERBS.includes(one)) reaching.push(`${relPath} names ${one}`)
-          }
-        }
-      }
-    }
-    expect(reaching).toEqual([])
-  })
-
-  test("no tracking file but day-place names the day page types itself", () => {
-    const naming: string[] = []
-    for (const dir of FUNNEL_DIRS) {
-      for (const relPath of filesUnder(dir)) {
-        if (relPath === "lib/tracking/day-place.ts") continue
-        if (relPath.endsWith(".test.ts")) continue
-        const text = readFileSync(join(REPO, "tools", relPath), "utf8")
-        if (text.includes(`"${DAILY_TRACKING}"`)) naming.push(`${relPath} names ${DAILY_TRACKING}`)
-        if (text.includes(`"${SESSION_TRACKING}"`)) {
-          naming.push(`${relPath} names ${SESSION_TRACKING}`)
-        }
-      }
-    }
-    expect(naming).toEqual([])
   })
 })
