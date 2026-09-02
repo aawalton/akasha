@@ -1,10 +1,16 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { TemperThing } from "../temper-thing.page-type.ts"
+import type { Available } from "./properties/available.boolean-property.ts"
 import type { Effect } from "./properties/effect.text-property.ts"
 import type { Effects } from "./properties/effects.page-property-entry.ts"
 import type { EsoTraitConstantName } from "./properties/eso-trait-constant-name.text-property.ts"
+import type { IsTwoHanded } from "./properties/is-two-handed.boolean-property.ts"
+import type { ItemId } from "./properties/item-id.number-property.ts"
 import type { Material } from "./properties/material.text-property.ts"
 import type { QualityValues } from "./properties/quality-values.page-property-entry.ts"
+import type { SkillLineId } from "./properties/skill-line-id.text-property.ts"
+import type { SkillType } from "./properties/skill-type.text-property.ts"
+import type { SubcategoryId } from "./properties/subcategory-id.text-property.ts"
 
 export type TemperCatalogThing = TemperThing & {
   effect?: Effect
@@ -12,6 +18,12 @@ export type TemperCatalogThing = TemperThing & {
   esoTraitConstantName?: EsoTraitConstantName
   effects?: Effects
   qualityValues?: QualityValues
+  available?: Available
+  isTwoHanded?: IsTwoHanded
+  itemId?: ItemId
+  skillLineId?: SkillLineId
+  skillType?: SkillType
+  subcategoryId?: SubcategoryId
 }
 
 export const temperCatalogThing = {
@@ -22,8 +34,11 @@ export const temperCatalogThing = {
   pluralSlug: "temper-catalog-things",
   extendsSlug: "page-type/temper-thing",
   partSlugs: [
+    "boolean-property/available",
+    "boolean-property/is-two-handed",
     "number-property/effect-seconds",
     "number-property/effect-value",
+    "number-property/item-id",
     "number-property/quality-value",
     "page-property-entry/effects",
     "page-property-entry/quality-values",
@@ -33,6 +48,9 @@ export const temperCatalogThing = {
     "text-property/material",
     "text-property/metric-id",
     "text-property/quality",
+    "text-property/skill-line-id",
+    "text-property/skill-type",
+    "text-property/subcategory-id",
   ],
   properties: [
     { pagePropertySlug: "effect", required: false, many: false },
@@ -40,6 +58,12 @@ export const temperCatalogThing = {
     { pagePropertySlug: "eso-trait-constant-name", required: false, many: false },
     { pagePropertySlug: "effects", required: false, many: false },
     { pagePropertySlug: "quality-values", required: false, many: false },
+    { pagePropertySlug: "available", required: false, many: false },
+    { pagePropertySlug: "is-two-handed", required: false, many: false },
+    { pagePropertySlug: "item-id", required: false, many: false },
+    { pagePropertySlug: "skill-line-id", required: false, many: false },
+    { pagePropertySlug: "skill-type", required: false, many: false },
+    { pagePropertySlug: "subcategory-id", required: false, many: false },
   ],
   invariants: [
     {
