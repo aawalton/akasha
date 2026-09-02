@@ -3,8 +3,8 @@
 import {
   patchCraftBagDestination,
   patchFurnitureVaultDestination,
-} from "@temper/game-items-rules-core/inventory-rule-settings"
-import type { InventoryRuleSettings } from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-settings"
+import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { useCallback, useEffect, useRef, useState } from "react"
 import { toast } from "sonner"
 import { useCraftBagAccess } from "./hooks-inventory-settings"
