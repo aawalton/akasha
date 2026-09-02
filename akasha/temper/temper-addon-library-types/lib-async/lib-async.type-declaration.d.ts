@@ -11,4 +11,9 @@ interface AsyncTask {
 interface LibAsyncLib {
   Create: (name: string) => AsyncTask
   For: (startIndex: number, endIndex: number) => AsyncTask
+  Call: <A extends unknown[]>(fn: (this: void, ...args: A) => unknown) => AsyncTask
+  GetDebug: () => boolean
+  SetDebug: (enabled: boolean) => void
 }
+
+declare var LibAsync: LibAsyncLib
