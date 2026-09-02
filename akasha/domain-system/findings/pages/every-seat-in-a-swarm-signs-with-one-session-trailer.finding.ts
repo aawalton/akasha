@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const everySeatInASwarmSignsWithOneSessionTrailer = {
+  id: "01a06249-e5dd-7000-880a-b2ec7ab9b3b3",
+  pageTypeSlug: "finding",
+  domainSlug: "domain/akasha-system",
+  slug: "every-seat-in-a-swarm-signs-with-one-session-trailer",
+  claim:
+    "Every seat working under one coordinator signs its commits with the same `Claude-Session` trailer, the same `Co-Authored-By` line, and one of three git identities that name the tooling rather than the agent. So no part of a commit's metadata says which seat wrote it, and `git log --grep` on the trailer answers with every lane at once. Only the commit subject and the content of the page distinguish one seat's work from another's.",
+  evidence:
+    "Measured 2026-09-02. `git log --grep` on this swarm's trailer returns 225 commits. Across all 225 there is exactly one `Co-Authored-By` value, and the git author is one of `Akasha <akasha@alanwalton.com>`, `Alan Walton <aawalton@gmail.com>` or `Claude <aawalton@gmail.com>` — all three the tooling, none of them a seat. The shape is not particular to this swarm: the trailer counts over the whole history run 396, 225, 142, 70, 64 for the five commonest sessions, so each is a swarm rather than an agent.\n\nWhat it costs was measured rather than supposed. A peer read `a-read-the-harness-saves-to-a-file-is-recorded-as-read.finding.ts`, found a false statement in its evidence, and attributed the page to me on the strength of the trailer. It is not mine. It was filed 00:34:53 in `6a5125477b`, whose subject names four findings and whose other three are the lib-sets and catalog-cli calls, the two akasha commands that refuse, and the ESO name census — one lane's subject matter throughout, and none of it mine. The peer then offered me the page to amend and filed their correction alongside rather than against it, so the lane that actually wrote the false statement was never told.\n\nThat is the whole cost of the defect: a correction aimed at the wrong lane leaves the wrong page unamended. It is not fixed by writing more careful commit subjects, because a subject naming four findings is already the honest description of a commit carrying four findings.\n\nThe remedy I took was to read the commit that introduced the file and judge authorship from the other paths landing beside it. That works, and it is three commands rather than one, and it fails whenever a seat lands a single page.",
+} as const satisfies Finding
