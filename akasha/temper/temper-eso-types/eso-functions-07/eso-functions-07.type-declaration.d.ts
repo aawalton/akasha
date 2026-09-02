@@ -303,12 +303,12 @@ declare function GetItemSetCollectionPieceInfo(
   this: void,
   itemSetId?: number,
   index?: number
-): LuaMultiReturn<[pieceId: number, slot: ItemSetCollectionSlot_id64]>
+): LuaMultiReturn<[pieceId: number, slot: Id64]>
 declare function GetNumItemSetCollectionSlotsUnlocked(this: void, itemSetId?: number): number
 declare function IsItemSetCollectionSlotUnlocked(
   this: void,
   itemSetId?: number,
-  slot?: ItemSetCollectionSlot_id64
+  slot?: Id64
 ): boolean
 declare function GetNumItemReconstructionCurrencyOptions(this: void): number
 declare function GetItemReconstructionCurrencyOptionType(
@@ -331,7 +331,7 @@ declare function GetItemSetCollectionPieceItemLink(
 ): string
 declare function GetEquipmentFilterTypeForItemSetCollectionSlot(
   this: void,
-  slot?: ItemSetCollectionSlot_id64
+  slot?: Id64
 ): EquipmentFilterType
 declare function GetCollectibleCategoryNameByCategoryId(this: void, categoryId?: number): string
 declare function HasActiveCompanion(this: void): boolean
