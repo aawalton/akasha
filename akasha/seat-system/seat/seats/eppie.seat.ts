@@ -6,7 +6,7 @@ export const eppie = {
   slug: "eppie",
   personaSlug: "eppie",
   assignmentSlug: "domain/performance-arts",
-  roleSlug: "companion",
+  roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
   onCall: true,
