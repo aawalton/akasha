@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Intent 1 blocks the ablation, not the repoint. The catalogs are already akasha pages — 89 page types, some 4,300 pages — and `temper-cadwell-level` carries `title`, `displayOrder` and a jsonl `cadwellStops`, exactly the `CadwellLevelCatalogEntry` the twin transform asks for. Only ablating `temper/player-completion` waits, on `ALL_OUTPUT_DIRS`. Entries read through the path-shaped calls; the nine keyed writers, `writeRow` among them, all refuse.",
+        "The akasha `temper-addon-data-generate` refuses, saying its source pages are not in akasha yet — but 89 catalog page types and some 4,300 pages now are, so that premise looks overtaken and a seat is testing it per table. The live generator is the separate `tools/` one, whose sole `ALL_OUTPUT_DIRS` row writes `temper/player-completion/src/generated` and is the last hold on that package. Entries read through path-shaped calls; the nine keyed writers all refuse.",
     },
     {
       statement: "No part of temper is outside akasha.",
