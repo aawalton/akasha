@@ -5,7 +5,7 @@ import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider
 import { TabsContent } from "@akasha/design-patterns/tabs"
 import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
 import type { CharacterSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
-import { buildCharacterSummary } from "@temper/player-completion/completion-summary"
+import { buildCharacterSummary } from "@akasha/temper-player-completion/completion-summary"
 import { useMemo } from "react"
 import { CharactersTabFilters } from "@/components/completion/characters-tab-filters"
 import { CharactersTabPanels } from "@/components/completion/characters-tab-panels"

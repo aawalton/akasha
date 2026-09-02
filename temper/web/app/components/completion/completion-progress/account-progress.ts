@@ -14,6 +14,7 @@ import { transformItemSetProgress } from "@akasha/temper-player-completion/compl
 import { isAccountMeasured } from "@akasha/temper-player-completion/completion-measured"
 import type { SubclassingSkillLineProgressResult } from "@akasha/temper-player-completion/completion-subclassing-progress"
 import { transformSubclassingSkillLineProgress } from "@akasha/temper-player-completion/completion-subclassing-progress"
+import { buildAccountSummary } from "@akasha/temper-player-completion/completion-summary-account"
 import type {
   AccountAntiquityLoreProgress,
   AccountCollectiblesProgress,
@@ -40,7 +41,6 @@ import type { AccountAchievementOverallProgress } from "@temper/player-completio
 import { transformAccountAchievementProgress } from "@temper/player-completion/completion-achievement-progress"
 import { transformAntiquityLoreProgress } from "@temper/player-completion/completion-antiquity-lore-progress"
 import { transformCollectiblesProgress } from "@temper/player-completion/completion-collectibles-progress"
-import { buildAccountSummary } from "@temper/player-completion/completion-summary-account"
 import { transformTributeProgress } from "@temper/player-completion/completion-tribute-progress"
 import { useMemo } from "react"
 import type { CharacterProgressData } from "@/components/completion/completion-progress/character-progress"

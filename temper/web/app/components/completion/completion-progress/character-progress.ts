@@ -3,6 +3,7 @@ import type { CharacterSummaryData } from "@akasha/temper-player-completion/comp
 import { transformDailyWritsProgress } from "@akasha/temper-player-completion/completion-daily-writs-progress"
 import { transformLoreLibraryProgress } from "@akasha/temper-player-completion/completion-lore-library-progress"
 import { transformSkillPointsProgress } from "@akasha/temper-player-completion/completion-skill-points-progress"
+import { buildCharacterSummary } from "@akasha/temper-player-completion/completion-summary"
 import type {
   AccountLoreProgress,
   CharacterCadwellProgress,
@@ -31,7 +32,6 @@ import { transformCharacterAchievementProgress } from "@temper/player-completion
 import { transformCadwellProgress } from "@temper/player-completion/completion-cadwell-progress"
 import { transformPoiProgress } from "@temper/player-completion/completion-poi-progress"
 import { transformQuestProgress } from "@temper/player-completion/completion-quest-progress"
-import { buildCharacterSummary } from "@temper/player-completion/completion-summary"
 import { transformCompletionCharacters } from "@temper/player-completion/completion-transforms"
 import { transformZoneCompletionProgress } from "@temper/player-completion/completion-zone-progress"
 import { useMemo } from "react"
