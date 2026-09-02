@@ -6,7 +6,7 @@ export const ARCHITECTURE_CHECKS: CheckConfig[] = [
     dispatchNodeTypes: ["ts-file", "tsx-file", "package"],
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-functional-type.ts",
-      "ts-file:instructions:infra/cluster-checks/src/lib/functional-type.ts",
+      "ts-file:instructions:tools/lib/check-workflow/functional-type.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/functional-type-rules.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/functional-type-discriminators.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/functional-type-purity-scan.ts",

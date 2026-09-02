@@ -21,8 +21,8 @@ export const CAPACITOR_CHECKS: readonly CheckConfig[] = [
 const CLIENT_ENV_INLINED_INPUTS: readonly NodeId[] = [
   "ts-file:instructions:infra/cluster-checks/src/checks/check-client-env-inlined.ts",
   "ts-file:instructions:infra/cluster-checks/src/lib/client-env-inlined.ts",
-  "ts-file:instructions:infra/cluster-checks/src/lib/router-apps.ts",
-  "ts-file:instructions:infra/cluster-checks/src/lib/rr-server-module-imports.ts",
+  "ts-file:instructions:tools/lib/check-workflow/router-apps.ts",
+  "ts-file:instructions:tools/lib/check-workflow/rr-server-module-imports.ts",
   "ts-file:code:packages/shared/supabase/rr/src/vite.ts",
   "ts-file:code:packages/shared/pages/ui/src/vite.ts",
 ]
@@ -49,10 +49,10 @@ export function buildClientEnvInlinedCheck(apps: readonly RouterApp[]): CheckCon
 
 const RR_SERVER_MODULE_INPUTS: readonly NodeId[] = [
   "ts-file:instructions:infra/cluster-checks/src/checks/check-rr-server-module-in-client.ts",
-  "ts-file:instructions:infra/cluster-checks/src/lib/rr-server-module-imports.ts",
-  "ts-file:instructions:infra/cluster-checks/src/lib/router-apps.ts",
-  "ts-file:instructions:infra/cluster-checks/src/lib/unbuilt-router-apps.ts",
-  "ts-file:code:infra/cluster-checks/src/lib/check-configs-app-build.ts",
+  "ts-file:instructions:tools/lib/check-workflow/rr-server-module-imports.ts",
+  "ts-file:instructions:tools/lib/check-workflow/router-apps.ts",
+  "ts-file:instructions:tools/lib/check-workflow/unbuilt-router-apps.ts",
+  "ts-file:code:tools/lib/check-workflow/check-configs-app-build.ts",
   "json-file:code:package.json",
 ]
 

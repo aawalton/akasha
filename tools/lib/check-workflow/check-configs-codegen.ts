@@ -5,7 +5,7 @@ import type { LcccVendorSites } from "./lccc-vendor-sites.ts"
 const LCCC_VENDOR_DRIFT_INPUTS: readonly NodeId[] = [
   "ts-file:instructions:infra/cluster-checks/src/checks/check-lccc-vendor-drift.ts",
   "ts-file:instructions:infra/cluster-checks/src/lib/lccc-vendor-drift.ts",
-  "ts-file:instructions:infra/cluster-checks/src/lib/lccc-vendor-sites.ts",
+  "ts-file:instructions:tools/lib/check-workflow/lccc-vendor-sites.ts",
 ]
 
 export function buildLcccVendorDriftCheck(sites: LcccVendorSites): CheckConfig {
@@ -59,13 +59,13 @@ export const CODEGEN_CHECKS: CheckConfig[] = [
       "ts-file:code:packages/temper/game/characters/skills/src/generated/temper-status-effect-type.generated.ts",
       "ts-file:code:packages/temper/game/characters/skills/src/generated/temper-target-scope.generated.ts",
       "ts-file:code:packages/temper/game/characters/skills/src/generated/temper-target-type.generated.ts",
-      "ts-file:code:packages/temper/game/items/addon/src/generated/rule-types.generated.ts",
-      "ts-file:code:packages/temper/game/items/rules/core/src/buy-rule-types.ts",
-      "ts-file:code:packages/temper/game/items/rules/core/src/generated/temper-comparison-op.generated.ts",
-      "ts-file:code:packages/temper/game/items/rules/core/src/inventory-rule-compiler-types.ts",
-      "ts-file:code:packages/temper/game/items/rules/core/src/inventory-rule-types.ts",
-      "ts-file:code:packages/temper/player/completion/addon/src/skill-point-data.ts",
-      "ts-file:code:packages/temper/player/completion/src/generated/temper-skill-point.generated.ts",
+      "ts-file:code:temper/game-items-addon/src/generated/rule-types.generated.ts",
+      "ts-file:code:temper/game-items-rules-core/src/buy-rule-types.ts",
+      "ts-file:code:temper/game-items-rules-core/src/generated/temper-comparison-op.generated.ts",
+      "ts-file:code:temper/game-items-rules-core/src/inventory-rule-compiler-types.ts",
+      "ts-file:code:temper/game-items-rules-core/src/inventory-rule-types.ts",
+      "ts-file:code:temper/player-completion-addon/src/skill-point-data.ts",
+      "ts-file:code:temper/player-completion/src/generated/temper-skill-point.generated.ts",
     ],
     script: "infra/cluster-checks/src/checks/check-codegen-type-identity-drift.ts",
   },

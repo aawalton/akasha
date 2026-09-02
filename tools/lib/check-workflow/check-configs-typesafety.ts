@@ -26,7 +26,7 @@ export const TYPESAFETY_CHECKS: CheckConfig[] = [
       "ts-file:instructions:infra/cluster-checks/src/lib/ts-timezone-violations.ts",
       "ts-file:instructions:infra/cluster-checks/src/checks/check-population-read-swallow.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/ts-population-read-swallow.ts",
-      "ts-file:instructions:infra/cluster-checks/src/lib/population.ts",
+      "ts-file:instructions:tools/lib/check-workflow/population.ts",
     ],
     backendOptions: {
       kubernetes: {
@@ -42,7 +42,7 @@ export const TYPESAFETY_CHECKS: CheckConfig[] = [
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-mock-module-surface.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/runtime-export-surface.ts",
-      "ts-file:code:packages/shared/graph/producers/src/file/ts-file/parse-mock-module.ts",
+      "ts-file:code:tools/lib/graph/producers/file/ts-file/parse-mock-module.ts",
     ],
     script: "infra/cluster-checks/src/checks/check-mock-module-surface.ts",
     args: treeShaArgs,
@@ -56,7 +56,7 @@ export const TYPESAFETY_CHECKS: CheckConfig[] = [
       "ts-file:instructions:infra/cluster-checks/src/lib/runtime-export-surface.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/barrel-rebinding.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/fetch-seam-leak.ts",
-      "ts-file:code:packages/shared/graph/producers/src/file/ts-file/parse-mock-module.ts",
+      "ts-file:code:tools/lib/graph/producers/file/ts-file/parse-mock-module.ts",
     ],
     script: "infra/cluster-checks/src/checks/check-mock-module-leak.ts",
     args: treeShaArgs,

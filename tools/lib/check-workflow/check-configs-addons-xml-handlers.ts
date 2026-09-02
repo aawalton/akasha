@@ -5,8 +5,8 @@ export const ADDON_XML_HANDLER_CHECKS: CheckConfig[] = [
     name: "addon-orphan-xml-handler",
     dispatchNodeTypes: [{ kind: "ts-file", under: "temper" }],
     dispatchNodes: [
-      "ts-file:code:packages/temper/shared/build-deploy/checks/src/check-addon-orphan-xml-handler.ts",
-      "ts-file:code:packages/temper/shared/build-deploy/checks/src/addon-orphan-xml-handler.ts",
+      "ts-file:code:temper/shared-build-deploy-checks/src/check-addon-orphan-xml-handler.ts",
+      "ts-file:code:temper/shared-build-deploy-checks/src/addon-orphan-xml-handler.ts",
     ],
     script: "temper/shared-build-deploy-checks/src/check-addon-orphan-xml-handler.ts",
   },
@@ -14,8 +14,8 @@ export const ADDON_XML_HANDLER_CHECKS: CheckConfig[] = [
     name: "addon-inline-handler-dispatch",
     dispatchNodeTypes: [{ kind: "ts-file", under: "temper" }],
     dispatchNodes: [
-      "ts-file:code:packages/temper/shared/build-deploy/checks/src/check-addon-inline-handler-dispatch.ts",
-      "ts-file:code:packages/temper/shared/build-deploy/checks/src/addon-inline-handler-dispatch.ts",
+      "ts-file:code:temper/shared-build-deploy-checks/src/check-addon-inline-handler-dispatch.ts",
+      "ts-file:code:temper/shared-build-deploy-checks/src/addon-inline-handler-dispatch.ts",
     ],
     script: "temper/shared-build-deploy-checks/src/check-addon-inline-handler-dispatch.ts",
   },

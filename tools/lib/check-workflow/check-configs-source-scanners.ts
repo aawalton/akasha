@@ -13,7 +13,7 @@ export const SOURCE_SCANNER_CHECKS: CheckConfig[] = [
     dispatchNodeTypes: [...PROSE_CARRIER_NODE_TYPES],
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-prose-mechanism-restatement.ts",
-      "ts-file:instructions:infra/cluster-checks/src/lib/prose-mechanism-restatement.ts",
+      "ts-file:instructions:tools/lib/check-workflow/prose-mechanism-restatement.ts",
       "ts-file:instructions:tools/lib/check-workflow/blank-comments.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/suppression-subject.ts",
       "json-file:code:infra/cluster-checks/src/lib/prose-mechanism-restatement.ratchet.json",

@@ -6,7 +6,7 @@ export const acyclicityChecks = (): readonly CheckConfig[] => [
     dispatchNodeTypes: ["package"],
     dispatchNodes: [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-acyclic-packages.ts",
-      "ts-file:code:infra/cluster-checks/src/lib/workspace-deps.ts",
+      "ts-file:code:tools/lib/check-workflow/workspace-deps.ts",
       "ts-file:code:infra/cluster-checks/src/lib/graph-cycles.ts",
     ],
     script: "infra/cluster-checks/src/checks/check-acyclic-packages.ts",

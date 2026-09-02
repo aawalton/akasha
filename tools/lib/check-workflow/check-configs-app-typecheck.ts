@@ -20,7 +20,7 @@ export function buildAppTypecheckChecks(
       dependsOn: ["typecheck"],
       dispatchNodes: [
         ...sorted.map((a) => `package:code:${a.name}`),
-        "ts-file:code:infra/cluster-checks/src/lib/check-configs-app-typecheck.ts",
+        "ts-file:code:tools/lib/check-workflow/check-configs-app-typecheck.ts",
       ],
       environment: {
         NEXT_PUBLIC_SUPABASE_URL: "https://placeholder.invalid",

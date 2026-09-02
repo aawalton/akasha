@@ -44,7 +44,7 @@ export function buildAppBuildChecks(packages: readonly AppBuildTarget[]): readon
         name: `app-build-${appBuildSlug(p.dir)}`,
         dispatchNodes: [
           `package:code:${p.name}`,
-          "ts-file:code:infra/cluster-checks/src/lib/check-configs-app-build.ts",
+          "ts-file:code:tools/lib/check-workflow/check-configs-app-build.ts",
         ],
         ...(chainsAddonBundle ? { dependsOn: [ADDON_BUILD_CHECK_NAME] } : {}),
         environment: {
