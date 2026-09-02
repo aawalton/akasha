@@ -44,6 +44,7 @@ export const temper = {
     "eso-addon/temper-lib-media-provider",
     "eso-addon/temper-lib-async",
     "workspace-package/temper-formula-framework",
+    "workspace-package/temper-saved-vars-migration",
   ],
   invariants: [
     {
