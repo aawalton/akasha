@@ -62,6 +62,26 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
+      statement: "An entry beside the page is judged against the fields its property declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry's own id is not judged as a field of the shape declaring the entry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry carrying no id refuses the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry file that will not read refuses the page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A change carrying an entry file alone is an input to this check.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page whose page type declares nothing is passed over.",
     },
     {

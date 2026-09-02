@@ -1,9 +1,13 @@
+import { readFileSync } from "node:fs"
+import { join } from "node:path"
 import { listedFiled, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
+import type { Formatting } from "@akasha/pages-system/name-format/format-reaching"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import type { Carried } from "@akasha/pages-system/page-type-properties"
-import type { Value } from "@akasha/pages-system/page-value"
+import { type Carried, propertiesOf } from "@akasha/pages-system/page-type-properties"
+import { type Value, valueAt } from "@akasha/pages-system/page-value"
 import { type Shadow, shadowAt } from "@akasha/pages-system/shadow"
 import { put } from "@akasha/testing-system/putting"
+import { entryReasonsIn, type Shaping } from "./page-matches-its-type.code-check.code.ts"
 
 export const FORMAT = "all-lower"
 
@@ -393,6 +397,60 @@ export function extending(root: string): string {
   schemaFiledFor(root, "text-property", "note")
   listedFiled(root, "page-type", "alpha", [{ path: ALPHA_AT, id: THING_ID }])
   return root
+}
+
+export const ONE_HELD_AT = "akasha/one.held.ts"
+
+export const ONE_HELD =
+  'export const one = { id: "01a0540d-0000-7000-8000-0000000000ff",' +
+  ' pageTypeSlug: "held", slug: "one", test: "ts" }\n'
+
+const DEMANDS =
+  '{ pagePropertySlug: "page-type-slug", required: true, many: false }, ' +
+  '{ pagePropertySlug: "test", required: true, many: false }'
+
+export const NARROWED = `${DEMANDS}, { pagePropertySlug: "name", required: true, many: false }`
+
+export const REPO = join(import.meta.dir, "..", "..", "..", "..", "..")
+
+export const RESTATEMENT =
+  "akasha/agents-system/models/model-tests/pages/restatement/restatement.model-test.ts"
+
+export const NO_ID = "keeps an entry of `cases` carrying no id, and every entry carries an id"
+
+export const ID_LESS = '{"page":"a","definition":"b","statement":"c","answer":"YES"}\n'
+
+const ANSWER: Carried = {
+  pagePropertySlug: "case-answer",
+  pageTypeSlug: "text-property",
+  propertySlug: "answer",
+  key: "answer",
+  unique: null,
+  declaredBy: "cases",
+  required: true,
+  many: false,
+  max: null,
+  total: null,
+  uncommitted: false,
+  secret: false,
+}
+
+export function shapingFor(formatting: Formatting): Shaping {
+  return { fields: new Map([["answer", ANSWER]]), slug: "cases", pageFor: () => null, formatting }
+}
+
+export function entriesJudged(formatting: Formatting, text: string | null): readonly string[] {
+  const shadow = shadowAt(REPO)
+  const beside = (at: string): string | null =>
+    text === null ? readFileSync(join(REPO, at), "utf8") : text
+  return entryReasonsIn(
+    valueAt(RESTATEMENT, REPO) ?? {},
+    propertiesOf("model-test", shadow.reading, shadow.pageOf),
+    shadow,
+    RESTATEMENT,
+    beside,
+    formatting
+  )
 }
 
 export function besideCarried(uncommitted: boolean, secret = false): readonly Carried[] {

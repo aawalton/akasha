@@ -9,6 +9,7 @@ import { shadowFor } from "@akasha/pages-system/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
+  fieldsOf,
   pageMatchesItsType,
   reasonsIn,
   STATES_NO_PAGE_TYPE,
@@ -17,13 +18,20 @@ import {
   ALPHA_AT,
   BETA_AT,
   besideCarried,
+  entriesJudged,
   extending,
   FORMAT,
   generating,
   HELD_ID,
+  ID_LESS,
+  NARROWED,
+  NO_ID,
   NOW_ALPHA,
   NOW_BETA,
+  ONE_HELD,
+  ONE_HELD_AT,
   seeded,
+  shapingFor,
   THING_AT,
   THING_BODY,
   typing,
@@ -335,18 +343,6 @@ test("a page stating what a page type the change puts above its own declares is 
   expect(landing(root, now, { [ALPHA_AT]: WAS_ALPHA })).toEqual([])
 })
 
-const ONE_HELD_AT = "akasha/one.held.ts"
-
-const ONE_HELD =
-  'export const one = { id: "01a0540d-0000-7000-8000-0000000000ff",' +
-  ' pageTypeSlug: "held", slug: "one", test: "ts" }\n'
-
-const DEMANDS =
-  '{ pagePropertySlug: "page-type-slug", required: true, many: false }, ' +
-  '{ pagePropertySlug: "test", required: true, many: false }'
-
-const NARROWED = `${DEMANDS}, { pagePropertySlug: "name", required: true, many: false }`
-
 test("a page type the change carries is read as the change leaves it", () => {
   const root = scratch.rootFor("akasha-carried-")
   seeded(root)
@@ -392,4 +388,19 @@ test("a page stating a property its type declares secret is refused, and an open
     "states `test`, which `page-type/beside` declares secret, and such a value stands in the page's sops file rather than in it",
   ])
   expect(beside({ test: "ts" }, false, false)).toEqual([])
+})
+
+const OWN = new Set(["id"])
+
+test("an entry beside the page is judged against the fields its shape declares", () => {
+  expect(fieldsOf({ id: "one", answer: "YES" }, shapingFor(formatting), OWN)).toEqual([])
+  expect(fieldsOf({ id: "one", nope: 1 }, shapingFor(formatting), OWN)).toEqual([
+    "states `cases nope`, which `cases` does not declare",
+  ])
+})
+
+test("the cases beside the restatement test are read and judged", () => {
+  expect(entriesJudged(formatting, null)).toEqual([])
+  expect(entriesJudged(formatting, "no json here\n")[0]).toContain("unknown rather than nothing")
+  expect(entriesJudged(formatting, ID_LESS)).toEqual([NO_ID])
 })

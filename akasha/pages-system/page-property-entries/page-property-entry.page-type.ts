@@ -37,7 +37,7 @@ export const pagePropertyEntry = {
       statement: "A page states this property as the extension the file beside the page carries.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "Every entry is judged against the fields its shape declares.",
     },
     {

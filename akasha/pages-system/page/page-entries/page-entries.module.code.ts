@@ -14,8 +14,8 @@ export type Entried = {
 
 export type Rows = { readonly entries: readonly Value[] } | { readonly refused: string }
 
-export function entriedAmong(declared: Iterable<Entried>): readonly Entried[] {
-  const found: Entried[] = []
+export function entriedAmong<T extends Entried>(declared: Iterable<T>): readonly T[] {
+  const found: T[] = []
   for (const one of declared) {
     if (one.pageTypeSlug === ENTRY_PROPERTY) found.push(one)
   }
