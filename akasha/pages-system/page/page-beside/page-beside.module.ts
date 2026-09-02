@@ -36,7 +36,7 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "What is beside several paths is answered once.",
+      statement: "What is beside several paths holds no file twice.",
     },
     {
       invariantKind: "departure",

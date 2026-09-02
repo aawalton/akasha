@@ -9,7 +9,7 @@ export const stackNormalizing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A frame repeated directly after itself is kept once.",
+      statement: "A frame repeated directly after itself is dropped.",
     },
   ],
 } as const satisfies Module

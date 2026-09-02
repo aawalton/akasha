@@ -9,7 +9,7 @@ export const change = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change is shown twice over.",
+      statement: "A change is shown as the body before the change and the body after the change.",
     },
     {
       invariantKind: "departure",

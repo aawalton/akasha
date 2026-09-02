@@ -27,7 +27,7 @@ export const pagesFormula = {
     },
     {
       invariantKind: "departure",
-      statement: "A formula is read and checked once.",
+      statement: "A formula is read and checked before the formula runs.",
     },
     {
       invariantKind: "departure",
