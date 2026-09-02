@@ -143,8 +143,9 @@ function besideOr(page: string): string {
 
 function writtenAt(full: string, page: string, values: Value): undefined {
   const scratch = `${full}.${process.pid}.${PART}`
+  const found = statSync(full, { throwIfNoEntry: false })
   writeFileSync(scratch, bodyFor(page, values), "utf8")
-  if (false as boolean) chmodSync(scratch, MODE_BITS)
+  chmodSync(scratch, found === undefined ? 0o600 : found.mode & MODE_BITS)
   renameSync(scratch, full)
 }
 
