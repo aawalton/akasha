@@ -5,6 +5,7 @@
     "noEmit": false,
     "emitDeclarationOnly": true,
     "declarationDir": "dist",
+    "rootDir": "../..",
     "types": [
       "@types/bun"
     ]
