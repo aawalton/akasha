@@ -5,9 +5,13 @@
   "exports": {
     "./addon-dependency-cycle": "./addon-dependency-cycle/addon-dependency-cycle.module.code.ts",
     "./addon-dependency-floor": "./addon-dependency-floor/addon-dependency-floor.module.code.ts",
+    "./addon-inline-handler-dispatch": "./addon-inline-handler-dispatch/addon-inline-handler-dispatch.module.code.ts",
+    "./addon-orphan-xml-handler": "./addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts",
     "./addon-roster-guard": "./addon-roster-guard/addon-roster-guard.module.code.ts",
     "./check-addon-dependency-cycle": "./check-addon-dependency-cycle/check-addon-dependency-cycle.module.code.ts",
     "./check-addon-dependency-floor": "./check-addon-dependency-floor/check-addon-dependency-floor.module.code.ts",
+    "./check-addon-inline-handler-dispatch": "./check-addon-inline-handler-dispatch/check-addon-inline-handler-dispatch.module.code.ts",
+    "./check-addon-orphan-xml-handler": "./check-addon-orphan-xml-handler/check-addon-orphan-xml-handler.module.code.ts",
     "./check-eso-typings-fresh": "./check-eso-typings-fresh/check-eso-typings-fresh.module.code.ts",
     "./cli-args": "./cli-args/cli-args.module.code.ts",
     "./error-message": "./error-message/error-message.module.code.ts",

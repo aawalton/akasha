@@ -21,6 +21,10 @@ export const temperBuildDeployChecks = {
     "module/check-addon-dependency-cycle",
     "module/addon-dependency-floor",
     "module/check-addon-dependency-floor",
+    "module/addon-orphan-xml-handler",
+    "module/check-addon-orphan-xml-handler",
+    "module/addon-inline-handler-dispatch",
+    "module/check-addon-inline-handler-dispatch",
   ],
   invariants: [
     {
