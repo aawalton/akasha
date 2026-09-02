@@ -14,7 +14,7 @@ native-shell-repo-path: akasha:native-shell/atlas
 capacitor-config-repo-path: akasha:native-shell/atlas/capacitor.config.json
 seam-script: akasha:native-shell/atlas/scripts/apply-ios-seam.sh
 web-dir-repo-path: akasha:native-shell/atlas/www
-app-profile-name: atlas app App Store
+app-profile-name: Atlas App Store
 mac-build-lock-dir: $HOME/.appstoreconnect/deploy-testflight-atlas.lock
 mac-build-number-file: $HOME/.appstoreconnect/testflight-build-number-atlas
 ---
