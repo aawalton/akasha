@@ -17,6 +17,7 @@ import {
   readMarkdownCorpus,
   type Record_,
 } from "../daily-tracking-fidelity/read-corpus.ts"
+import { declaredIn, pageTypeFilesIn } from "../daily-tracking-landing/declared.ts"
 import { kebabizeKey } from "../lib/tracking/keys.ts"
 import { type Converted, convertDay, type Outcome, refused, renderPage } from "./convert.ts"
 import { readDays } from "./read-days.ts"
@@ -148,18 +149,43 @@ function landing(out: string, done: readonly Converted[]): void {
   }
 }
 
-function propertyGap(): { held: string[]; needed: string[] } {
+type Gap = {
+  /** Where the page type was read, relative to `akasha/`. */
+  readonly at: string
+  readonly held: readonly string[]
+  readonly needed: readonly string[]
+}
+
+/**
+ * Which of the keys a day carries the page type declares a property for.
+ *
+ * Asked of the page type rather than of the disk. A glob over `akasha/` answers neither question
+ * this census asks: `*-property.ts` never matches `sessions.page-property-entry.ts`, and a slug is
+ * a file name many page types spell alike, so `title` under `akasha/temper/` reads as this type's.
+ * `tools/daily-tracking-landing/declared.ts` already reads a page type's declarations for the
+ * landing, and this is the same question, so it is asked there rather than answered twice.
+ */
+async function propertyGap(): Promise<Gap | { readonly refused: string }> {
+  const [at, ...also] = pageTypeFilesIn(AKASHA)
+  if (at === undefined) {
+    return { refused: `akasha/ holds no ${DAY_PAGE_TYPE}.page-type.ts` }
+  }
+  if (also.length > 0) {
+    return {
+      refused: `${also.length + 1} files are slugged '${DAY_PAGE_TYPE}': ${[at, ...also].join(" ")}`,
+    }
+  }
+  const declared = await declaredIn(join(AKASHA, at))
+  if ("refused" in declared) return declared
   const held: string[] = []
   const needed: string[] = []
   for (const slug of PROPERTY_PAGES_NEEDED) {
-    const glob = new Bun.Glob(`**/${slug}.*-property.ts`)
-    const found = [...glob.scanSync({ cwd: AKASHA, onlyFiles: true })]
-    ;(found.length > 0 ? held : needed).push(slug)
+    ;(declared.slugs.has(slug) ? held : needed).push(slug)
   }
-  return { held, needed }
+  return { at, held, needed }
 }
 
-function main(): never {
+async function main(): Promise<never> {
   if (process.argv.includes("--help")) {
     process.stdout.write(HELP)
     process.exit(0)
@@ -233,17 +259,17 @@ function main(): never {
     process.stdout.write(`  ${key.padEnd(34)} on ${days.length} day(s): ${days.join(" ")}\n`)
   }
 
-  const gap = propertyGap()
-  process.stdout.write(
-    `\nproperty pages  ${gap.held.length} of ${PROPERTY_PAGES_NEEDED.length} stand under akasha/\n`
-  )
-  process.stdout.write(`  standing      ${gap.held.join(" ") || "-"}\n`)
-  process.stdout.write(`  absent (${gap.needed.length})\n`)
-  for (const slug of gap.needed) process.stdout.write(`    ${slug}\n`)
-  const typeFound = [...new Bun.Glob(`**/${DAY_PAGE_TYPE}.page-type.ts`).scanSync({ cwd: AKASHA })]
-  process.stdout.write(
-    `  page type     ${DAY_PAGE_TYPE}.page-type.ts ${typeFound.length > 0 ? "stands" : "is absent"}\n`
-  )
+  const gap = await propertyGap()
+  if ("refused" in gap) {
+    process.stdout.write(`\nproperty pages  unanswered: ${gap.refused}\n`)
+  } else {
+    process.stdout.write(
+      `\nproperty pages  ${gap.held.length} of ${PROPERTY_PAGES_NEEDED.length} are declared by akasha/${gap.at}\n`
+    )
+    process.stdout.write(`  declared      ${gap.held.join(" ") || "-"}\n`)
+    process.stdout.write(`  undeclared (${gap.needed.length})\n`)
+    for (const slug of gap.needed) process.stdout.write(`    ${slug}\n`)
+  }
 
   const verdict = compareCorpora(readMarkdownCorpus(from), migratedCorpus(from, done), idMap)
   process.stdout.write(
@@ -275,4 +301,4 @@ function main(): never {
   process.exit(clean ? 0 : 1)
 }
 
-main()
+await main()
