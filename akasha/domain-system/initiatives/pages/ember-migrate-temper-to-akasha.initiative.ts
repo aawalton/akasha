@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "4 packages, 512 files: web 357, player-completion 85, scripts 57, catalog-addon 13. Web is 20 edges from movable (18 legacy completion, 2 `@shared/pages-query`); its 270 components follow 385 landed tsx modules, so the open shape is 43 routes and the entry. The watcher is 6 files from whole — main, dispatch, dispatch-handler, supabase-client, auth, updater — at 532 tests. Ask git what tests `09f964f5c5` deleted before ablating anything.",
+        "4 packages, 512 files: web 357, player-completion 85, scripts 57, catalog-addon 13. Web`s shared edges are cleared; 18 legacy completion edges remain in 3 files and wait on an `/api/ask` route, a fourth member of a family web already serves three of. A fourth tie nobody counted: `@shared/utils-test` via a bunfig preload, a manifest row and a tsconfig reference. The watcher is 6 files from whole, at 532 tests.",
     },
   ],
   constraints: [
