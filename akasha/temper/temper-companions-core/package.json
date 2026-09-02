@@ -1,0 +1,26 @@
+{
+  "name": "@akasha/temper-companions-core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./companion-armor-slots": "./companion-armor-slots/companion-armor-slots.module.code.ts",
+    "./companion-armor-weights": "./companion-armor-weights/companion-armor-weights.module.code.ts",
+    "./companion-base-roles": "./companion-base-roles/companion-base-roles.module.code.ts",
+    "./companion-equipment-qualities": "./companion-equipment-qualities/companion-equipment-qualities.module.code.ts",
+    "./companion-eso-trait-map": "./companion-eso-trait-map/companion-eso-trait-map.module.code.ts",
+    "./companion-jewelry-slots": "./companion-jewelry-slots/companion-jewelry-slots.module.code.ts",
+    "./companion-metric-effect": "./companion-metric-effect/companion-metric-effect.module.code.ts",
+    "./companion-metric-ids": "./companion-metric-ids/companion-metric-ids.module.code.ts",
+    "./companion-metric-template": "./companion-metric-template/companion-metric-template.module.code.ts",
+    "./companion-roles": "./companion-roles/companion-roles.module.code.ts",
+    "./companion-traits": "./companion-traits/companion-traits.module.code.ts",
+    "./companion-weapon-roles": "./companion-weapon-roles/companion-weapon-roles.module.code.ts",
+    "./companion-weapon-slots": "./companion-weapon-slots/companion-weapon-slots.module.code.ts",
+    "./companion-weapon-types": "./companion-weapon-types/companion-weapon-types.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-equipment-kinds": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

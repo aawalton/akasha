@@ -91,6 +91,7 @@ export const temper = {
     "eso-addon/temper-interface-addon",
     "workspace-package/temper-character-sources",
     "workspace-package/temper-player-completion",
+    "workspace-package/temper-companions-core",
   ],
   invariants: [
     {
