@@ -34,6 +34,10 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
+      statement: "The parts one call asks after share a pattern rather than taking one each.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A whole name is looked for where the segment ending that name runs on no further.",
     },

@@ -19,6 +19,8 @@ const FOUND_NOTHING = 1
 
 const AT_MOST = 60000
 
+const REACHED_AT_MOST = 20000
+
 const AS_WRITTEN = "-F"
 
 const AS_PATTERN = "-E"
@@ -81,21 +83,24 @@ export function escapedFor(one: string): string {
   return one.replace(PATTERNED, (was) => `\\${was}`)
 }
 
-export function reachesFor(part: string): readonly string[] {
-  const held = escapedFor(part)
-  return [`${PARTED_BY}${held}($|${APART})`, `(^|${APART})${held}${PARTED_BY}`]
+export function reachesFor(parts: readonly string[]): readonly string[] {
+  const held = parts.map(escapedFor).join("|")
+  return [`${PARTED_BY}(${held})($|${APART})`, `(^|${APART})(${held})${PARTED_BY}`]
 }
 
 export function endedFor(name: string): string {
   return `${escapedFor(name)}($|${APART})`
 }
 
-export function batchedIn(said: readonly string[]): readonly (readonly string[])[] {
+export function batchedIn(
+  said: readonly string[],
+  atMost: number = AT_MOST
+): readonly (readonly string[])[] {
   const batches: string[][] = []
   let held: string[] = []
   let width = 0
   for (const one of said) {
-    if (held.length > 0 && width + one.length > AT_MOST) {
+    if (held.length > 0 && width + one.length > atMost) {
       batches.push(held)
       held = []
       width = 0
@@ -153,7 +158,13 @@ export function reachedTracked(
   limits: readonly string[]
 ): Found {
   if (parts.length === 0) return { paths: [] }
-  return foundBy(root, base, AS_PATTERN, parts.flatMap(reachesFor), limits)
+  const paths: string[] = []
+  for (const batch of batchedIn(parts, REACHED_AT_MOST)) {
+    const found = foundBy(root, base, AS_PATTERN, reachesFor(batch), limits)
+    if ("refusal" in found) return found
+    paths.push(...found.paths)
+  }
+  return { paths: [...new Set(paths)].sort() }
 }
 
 export function spelledTracked(
