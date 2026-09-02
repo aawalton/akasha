@@ -47,7 +47,8 @@
     "./watcher-completed-day-landing": "./watcher-completed-day-landing/watcher-completed-day-landing.module.code.ts",
     "./watcher-settings-consumables": "./watcher-settings-consumables/watcher-settings-consumables.module.code.ts",
     "./watcher-import-completion": "./watcher-import-completion/watcher-import-completion.module.code.ts",
-    "./watcher-import-item-rule-verdicts": "./watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"
+    "./watcher-import-item-rule-verdicts": "./watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts",
+    "./watcher-signed-in-user": "./watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",

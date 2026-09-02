@@ -6,8 +6,6 @@ export const CONFIG_FILE_VERSION = 1
 
 const BLOCK_INDENT = "    "
 
-const INNER_INDENT = `${BLOCK_INDENT}    `
-
 function configFile(topLevelName: string, blocks: readonly (readonly string[])[]): string {
   return [
     CONFIG_FILE_HEADER,
@@ -32,17 +30,19 @@ function luaValue(value: string | number): string {
   return typeof value === "string" ? `"${value}"` : String(value)
 }
 
-function numericKeyedBlock(
+export function numericKeyedBlock(
   key: string,
-  data: Readonly<Record<number, string | number>>
+  data: Readonly<Record<number, string | number>>,
+  indent: string = BLOCK_INDENT
 ): readonly string[] {
   const entries = Object.entries(data).sort(([a], [b]) => Number(a) - Number(b))
-  if (entries.length === 0) return [`${BLOCK_INDENT}["${key}"] = {},`]
+  if (entries.length === 0) return [`${indent}["${key}"] = {},`]
+  const innerIndent = `${indent}    `
   return [
-    `${BLOCK_INDENT}["${key}"] =`,
-    `${BLOCK_INDENT}{`,
-    ...entries.map(([numKey, value]) => `${INNER_INDENT}[${numKey}] = ${luaValue(value)},`),
-    `${BLOCK_INDENT}},`,
+    `${indent}["${key}"] =`,
+    `${indent}{`,
+    ...entries.map(([numKey, value]) => `${innerIndent}[${numKey}] = ${luaValue(value)},`),
+    `${indent}},`,
   ]
 }
 

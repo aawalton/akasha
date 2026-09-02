@@ -52,6 +52,7 @@ export const temperWatcher = {
     "module/watcher-settings-consumables",
     "module/watcher-import-completion",
     "module/watcher-import-item-rule-verdicts",
+    "module/watcher-signed-in-user",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],

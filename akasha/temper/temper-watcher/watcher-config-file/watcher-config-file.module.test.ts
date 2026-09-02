@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  numericKeyedBlock,
   serializeCharactersConfigFile,
   serializeCompanionsConfigFile,
   serializeInventoryConfigFile,
@@ -134,4 +135,32 @@ test("every config file opens with the same header and closes with a newline", (
     expect(text.endsWith("}\n")).toBe(true)
     expect(text).toContain('    ["version"] = 1,')
   }
+})
+
+test("a numeric-keyed block at the default indent is what the companions file already carries", () => {
+  const block = numericKeyedBlock("companionTargetBuilds", { "2": "def", "10": "abc" }).join("\n")
+  expect(block).toBe(
+    '    ["companionTargetBuilds"] =\n    {\n        [2] = "def",\n        [10] = "abc",\n    },'
+  )
+  expect(
+    serializeCompanionsConfigFile({
+      "companionTargetBuilds": { "2": "def", "10": "abc" },
+      "companionTargetTimestamps": {},
+    })
+  ).toContain(block)
+})
+
+test("a numeric-keyed block takes the indent the caller states", () => {
+  expect(numericKeyedBlock("companionTargetBuilds", { "1": "a" }, "            ")).toEqual([
+    '            ["companionTargetBuilds"] =',
+    "            {",
+    '                [1] = "a",',
+    "            },",
+  ])
+})
+
+test("a numeric-keyed block holding nothing takes the stated indent too", () => {
+  expect(numericKeyedBlock("companionTargetBuilds", {}, "  ")).toEqual([
+    '  ["companionTargetBuilds"] = {},',
+  ])
 })

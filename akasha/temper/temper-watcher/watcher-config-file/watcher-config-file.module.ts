@@ -42,6 +42,14 @@ export const watcherConfigFile = {
     },
     {
       invariantKind: "departure",
+      statement: "A block keyed by numbers takes whatever indent the caller states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller stating no indent gets four spaces.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A config file ends with a newline.",
     },
     {
