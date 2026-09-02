@@ -1,14 +1,12 @@
-import type { IpairsFn } from "../main-menu-casts/main-menu-casts.module.code.ts"
+import "../main-menu-game-shape-1/main-menu-game-shape-1.module.code.ts"
+import "../main-menu-game-shape-2/main-menu-game-shape-2.module.code.ts"
+import type { GlobalTable, IpairsFn } from "../main-menu-casts/main-menu-casts.module.code.ts"
 import {
   asCategoryLayoutArray,
-  asControl,
-  asGlobalTable,
   asIpairsFn,
-  asLabelControl,
   asLmmSceneGroupInfo,
   asMenuMetatable,
   asRefreshFn,
-  asString,
   asTabClickable,
 } from "../main-menu-casts/main-menu-casts.module.code.ts"
 import { getMainMenu } from "../main-menu-keyboard/main-menu-keyboard.module.code.ts"
@@ -19,7 +17,7 @@ export function initMenu(self: Lib): undefined {
   const menu = getMainMenu()
   const menuClass = asMenuMetatable(getmetatable(menu)).__index
   const orgRefreshCategoryIndicators = asRefreshFn(menuClass.RefreshCategoryIndicators)
-  const glob = asGlobalTable(globalThis)
+  const glob = globalThis as GlobalTable
 
   function getCategories(this: void, ...args: unknown[]): unknown {
     menuClass.RefreshCategoryIndicators = orgRefreshCategoryIndicators
@@ -67,22 +65,24 @@ export function initMenu(self: Lib): undefined {
   libMainMenuSubcategoryButton.SetColor(cr, cg, cb, ca)
   libMainMenuSubcategoryButton.SetFont("ZoFontHeader3")
   libMainMenuSubcategoryButton.SetHandler("OnMouseEnter", (ctrl: unknown) => {
+    const label = ctrl as LabelControl
     const [hr, hg, hb, ha] = ZO_HIGHLIGHT_TEXT.UnpackRGBA()
-    asLabelControl(ctrl).SetColor(hr, hg, hb, ha)
+    label.SetColor(hr, hg, hb, ha)
   })
   libMainMenuSubcategoryButton.SetHandler("OnMouseExit", (ctrl: unknown) => {
+    const label = ctrl as LabelControl
     const [xr, xg, xb, xa] = ZO_CONTRAST_TEXT.UnpackRGBA()
-    asLabelControl(ctrl).SetColor(xr, xg, xb, xa)
+    label.SetColor(xr, xg, xb, xa)
   })
   libMainMenuSubcategoryButton.SetMouseEnabled(true)
 
   self.control = lmmXml
 
-  self.categoryBar = asControl(GetControl(self.control, "CategoryBar"))
+  self.categoryBar = GetControl(self.control, "CategoryBar") as Control
   self.categoryBarFragment = ZO_SimpleSceneFragment.New(self.categoryBar)
 
-  self.sceneGroupBar = asControl(GetControl(self.control, "SceneGroupBar"))
-  self.sceneGroupBarLabel = asLabelControl(GetControl(self.control, "SceneGroupBarLabel"))
+  self.sceneGroupBar = GetControl(self.control, "SceneGroupBar") as Control
+  self.sceneGroupBarLabel = GetControl(self.control, "SceneGroupBarLabel") as LabelControl
 
   self.tabPressedCallback = (ctrl) => {
     if (ctrl.sceneGroupName !== undefined) {
@@ -93,9 +93,9 @@ export function initMenu(self: Lib): undefined {
   self.sceneShowCallback = (_oldState, newState) => {
     if (newState === SCENE_SHOWING) {
       const sceneGroupInfo = asLmmSceneGroupInfo(
-        self.sceneGroupInfo[asString(self.sceneShowGroupName)]
+        self.sceneGroupInfo[self.sceneShowGroupName as string]
       )
-      self.SetupSceneGroupBar(sceneGroupInfo.category, asString(self.sceneShowGroupName))
+      self.SetupSceneGroupBar(sceneGroupInfo.category, self.sceneShowGroupName as string)
       const scene = SCENE_MANAGER.GetCurrentScene()
       scene.UnregisterCallback("StateChange", self.sceneShowCallback)
     }

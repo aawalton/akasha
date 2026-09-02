@@ -1,5 +1,5 @@
 import "../map-pins-declarations/map-pins-declarations.module.code.ts"
-import { asControl, asNumber } from "../map-pins-casts/map-pins-casts.module.code.ts"
+
 import { LIBMAPPINS_GLOBAL_MAPGROUP } from "../map-pins-constants/map-pins-constants.module.code.ts"
 import {
   getCurrentGamepadMapFilterPanel,
@@ -30,7 +30,7 @@ export function setEnabled(lib: Lib, pinType: number | string, state: unknown): 
 
   let enabled: boolean
   if (type(state) === "number") {
-    enabled = asNumber(state) !== 0
+    enabled = (state as number) !== 0
   } else {
     enabled = state != null && state !== false
   }
@@ -39,7 +39,7 @@ export function setEnabled(lib: Lib, pinType: number | string, state: unknown): 
   if (filter) {
     const targetCheckbox = mapGroup !== undefined ? filter[mapGroup] : undefined
     if (targetCheckbox != null) {
-      ZO_CheckButton_SetCheckState(asControl(targetCheckbox), enabled)
+      ZO_CheckButton_SetCheckState(targetCheckbox as Control, enabled)
     }
 
     const currentPanel = getCurrentGamepadMapFilterPanel()

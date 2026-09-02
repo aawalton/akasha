@@ -1,21 +1,21 @@
+import "../main-menu-game-shape-1/main-menu-game-shape-1.module.code.ts"
+import "../main-menu-game-shape-2/main-menu-game-shape-2.module.code.ts"
+import type { TextureFn } from "../main-menu-casts/main-menu-casts.module.code.ts"
 import {
-  asLib,
   asLmmCategoryInfo,
   asLmmCategoryLayoutInfo,
   asLmmSceneGroupInfo,
   asLmmSceneInfo,
   asMenuBarHost,
   asMultiIcon,
-  asString,
   asTextureArray,
-  asTextureFn,
 } from "../main-menu-casts/main-menu-casts.module.code.ts"
 import { getMainMenu } from "../main-menu-keyboard/main-menu-keyboard.module.code.ts"
 import { initMenu } from "../main-menu-setup/main-menu-setup.module.code.ts"
 import type { Lib } from "../main-menu-shape/main-menu-shape.module.code.ts"
 import { MAJOR, MINOR } from "../main-menu-version/main-menu-version.module.code.ts"
 
-export const lib: Lib = asLib({ name: MAJOR, version: MINOR })
+export const LIB: Lib = { name: MAJOR, version: MINOR } as Lib
 
 function addButton(descriptor: Descriptor, categoryLayoutInfo: LmmCategoryLayoutInfo): undefined {
   categoryLayoutInfo.descriptor = descriptor
@@ -45,8 +45,8 @@ function addScene(
     sceneName: sceneName,
   }
 
-  lib.CATEGORY_LAYOUT_INFO.push(categoryLayoutInfo)
-  const category = lib.CATEGORY_LAYOUT_INFO.length
+  LIB.CATEGORY_LAYOUT_INFO.push(categoryLayoutInfo)
+  const category = LIB.CATEGORY_LAYOUT_INFO.length
   menu.categoryInfo[category] = categoryInfo
   menu.categoryInfo[descriptor] = categoryInfo
 
@@ -93,14 +93,14 @@ function addButtonWithScene(
   addScene(descriptor, sceneName, categoryLayoutInfo, sceneGroupName)
 }
 
-lib.Init = function (this: Lib): undefined {
+LIB.Init = function (this: Lib): undefined {
   if (this.initialized !== true) {
     this.initialized = true
     initMenu(this)
   }
 }
 
-lib.AddMenuItem = function (
+LIB.AddMenuItem = function (
   this: Lib,
   a: Descriptor,
   b: string | LmmCategoryLayoutInfo,
@@ -108,13 +108,13 @@ lib.AddMenuItem = function (
   d?: string
 ): undefined {
   if (c !== undefined) {
-    addButtonWithScene(a, asString(b), c, d)
+    addButtonWithScene(a, b as string, c, d)
   } else {
     addButton(a, asLmmCategoryLayoutInfo(b))
   }
 }
 
-lib.SelectMenuItem = function (this: Lib, descriptor: Descriptor): undefined {
+LIB.SelectMenuItem = function (this: Lib, descriptor: Descriptor): undefined {
   if (WINDOW_MANAGER.IsSecureRenderModeEnabled()) {
     return
   }
@@ -150,11 +150,11 @@ lib.SelectMenuItem = function (this: Lib, descriptor: Descriptor): undefined {
   }
 }
 
-lib.Refresh = function (this: Lib): undefined {
+LIB.Refresh = function (this: Lib): undefined {
   ZO_MenuBar_UpdateButtons(getMainMenu().categoryBar)
 }
 
-lib.SetupSceneGroupBar = function (this: Lib, category: number, sceneGroupName: string): undefined {
+LIB.SetupSceneGroupBar = function (this: Lib, category: number, sceneGroupName: string): undefined {
   if (WINDOW_MANAGER.IsSecureRenderModeEnabled()) {
     return
   }
@@ -205,11 +205,11 @@ lib.SetupSceneGroupBar = function (this: Lib, category: number, sceneGroupName: 
   }
 }
 
-lib.AddCategory = function (this: Lib, data: LmmCategoryLayoutInfo): number {
+LIB.AddCategory = function (this: Lib, data: LmmCategoryLayoutInfo): number {
   this.Init()
 
-  lib.CATEGORY_LAYOUT_INFO.push(data)
-  const n = lib.CATEGORY_LAYOUT_INFO.length
+  LIB.CATEGORY_LAYOUT_INFO.push(data)
+  const n = LIB.CATEGORY_LAYOUT_INFO.length
   data.descriptor = n
 
   const subcategoryBar = CreateControl(`libMainMenuSubcategoryBar${n}`, this.control, CT_CONTROL)
@@ -226,8 +226,8 @@ lib.AddCategory = function (this: Lib, data: LmmCategoryLayoutInfo): number {
   return n
 }
 
-lib.RefreshCategoryIndicators = function (this: Lib): undefined {
-  for (const categoryLayoutData of lib.CATEGORY_LAYOUT_INFO) {
+LIB.RefreshCategoryIndicators = function (this: Lib): undefined {
+  for (const categoryLayoutData of LIB.CATEGORY_LAYOUT_INFO) {
     const indicators = categoryLayoutData.indicators
     if (indicators !== undefined) {
       const buttonControl = ZO_MenuBar_GetButtonControl(
@@ -240,7 +240,7 @@ lib.RefreshCategoryIndicators = function (this: Lib): undefined {
         if (type(indicators) === "table") {
           textures = asTextureArray(indicators)
         } else if (type(indicators) === "function") {
-          textures = asTextureFn(indicators)()
+          textures = (indicators as TextureFn)()
         }
         if (textures !== undefined && textures.length > 0) {
           indicatorTexture.ClearIcons()
@@ -256,26 +256,26 @@ lib.RefreshCategoryIndicators = function (this: Lib): undefined {
   }
 }
 
-lib.AddCategoryAreaFragment = function (this: Lib, fragment: SceneFragment): undefined {
+LIB.AddCategoryAreaFragment = function (this: Lib, fragment: SceneFragment): undefined {
   this.categoryAreaFragments.push(fragment)
 }
 
-lib.OnCategoryClicked = function (this: Lib, category: number): undefined {
+LIB.OnCategoryClicked = function (this: Lib, category: number): undefined {
   if (this.ignoreCallbacks !== true) {
     this.ShowCategory(category)
   }
 }
 
-lib.ShowCategory = function (this: Lib, category: number): undefined {
+LIB.ShowCategory = function (this: Lib, category: number): undefined {
   const categoryInfo = asLmmCategoryInfo(this.categoryInfo[category])
   if (categoryInfo.lastSceneName !== undefined) {
     this.ShowScene(categoryInfo.lastSceneName)
   } else {
-    this.ShowSceneGroup(asString(categoryInfo.lastSceneGroupName))
+    this.ShowSceneGroup(categoryInfo.lastSceneGroupName as string)
   }
 }
 
-lib.Update = function (this: Lib, category: number, sceneName: string): undefined {
+LIB.Update = function (this: Lib, category: number, sceneName: string): undefined {
   this.ignoreCallbacks = true
 
   const categoryInfo = asLmmCategoryInfo(this.categoryInfo[category])
@@ -301,7 +301,7 @@ lib.Update = function (this: Lib, category: number, sceneName: string): undefine
   this.ignoreCallbacks = false
 }
 
-lib.SetLastSceneName = function (
+LIB.SetLastSceneName = function (
   this: Lib,
   categoryInfo: LmmCategoryInfo,
   sceneName: string
@@ -310,7 +310,7 @@ lib.SetLastSceneName = function (
   categoryInfo.lastSceneGroupName = undefined
 }
 
-lib.SetLastSceneGroupName = function (
+LIB.SetLastSceneGroupName = function (
   this: Lib,
   categoryInfo: LmmCategoryInfo,
   sceneGroupName: string
@@ -319,11 +319,11 @@ lib.SetLastSceneGroupName = function (
   categoryInfo.lastSceneName = undefined
 }
 
-lib.IsShowing = function (this: Lib): boolean {
+LIB.IsShowing = function (this: Lib): boolean {
   return this.categoryBarFragment.IsShowing()
 }
 
-lib.AddSceneGroup = function (
+LIB.AddSceneGroup = function (
   this: Lib,
   category: number,
   sceneGroupName: string,
@@ -334,7 +334,7 @@ lib.AddSceneGroup = function (
 
   for (let i = 1; i <= sceneGroup.GetNumScenes(); i++) {
     const sceneName = sceneGroup.GetSceneName(i)
-    lib.AddRawScene(sceneName, category, categoryInfo, sceneGroupName)
+    LIB.AddRawScene(sceneName, category, categoryInfo, sceneGroupName)
   }
 
   if (!this.HasLast(categoryInfo)) {
@@ -355,11 +355,11 @@ lib.AddSceneGroup = function (
   }
 }
 
-lib.HasLast = function (this: Lib, categoryInfo: LmmCategoryInfo): boolean {
+LIB.HasLast = function (this: Lib, categoryInfo: LmmCategoryInfo): boolean {
   return categoryInfo.lastSceneName !== undefined || categoryInfo.lastSceneGroupName !== undefined
 }
 
-lib.AddRawScene = function (
+LIB.AddRawScene = function (
   this: Lib,
   sceneName: string,
   category: number,
@@ -386,7 +386,7 @@ lib.AddRawScene = function (
   return scene
 }
 
-lib.ToggleCategory = function (this: Lib, category: number): undefined {
+LIB.ToggleCategory = function (this: Lib, category: number): undefined {
   if (WINDOW_MANAGER.IsSecureRenderModeEnabled()) {
     return
   }
@@ -394,11 +394,11 @@ lib.ToggleCategory = function (this: Lib, category: number): undefined {
   if (categoryInfo.lastSceneName !== undefined) {
     this.ToggleScene(categoryInfo.lastSceneName)
   } else {
-    this.ToggleSceneGroup(asString(categoryInfo.lastSceneGroupName))
+    this.ToggleSceneGroup(categoryInfo.lastSceneGroupName as string)
   }
 }
 
-lib.ToggleSceneGroup = function (
+LIB.ToggleSceneGroup = function (
   this: Lib,
   sceneGroupName: string,
   specificScene?: string
@@ -419,7 +419,7 @@ lib.ToggleSceneGroup = function (
   }
 }
 
-lib.ShowSceneGroup = function (
+LIB.ShowSceneGroup = function (
   this: Lib,
   sceneGroupName: string,
   specificScene?: string
@@ -436,7 +436,7 @@ lib.ShowSceneGroup = function (
   this.Update(sceneGroupInfo.category, specific)
 }
 
-lib.ShowScene = function (this: Lib, sceneName: string): undefined {
+LIB.ShowScene = function (this: Lib, sceneName: string): undefined {
   if (WINDOW_MANAGER.IsSecureRenderModeEnabled()) {
     return
   }
@@ -448,7 +448,7 @@ lib.ShowScene = function (this: Lib, sceneName: string): undefined {
   }
 }
 
-lib.ToggleScene = function (this: Lib, sceneName: string): undefined {
+LIB.ToggleScene = function (this: Lib, sceneName: string): undefined {
   if (WINDOW_MANAGER.IsSecureRenderModeEnabled()) {
     return
   }
@@ -459,6 +459,6 @@ lib.ToggleScene = function (this: Lib, sceneName: string): undefined {
   }
 }
 
-lib.GetControl = function (this: Lib): Control {
+LIB.GetControl = function (this: Lib): Control {
   return this.control
 }

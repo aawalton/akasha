@@ -1,13 +1,11 @@
+import type { GlobalTable } from "../map-pins-casts/map-pins-casts.module.code.ts"
 import "../map-pins-declarations/map-pins-declarations.module.code.ts"
 import {
   asColorTuple,
   asFilterTooltipFn,
-  asGlobalTable,
   asLmpMapPin,
   asOptionalObject,
   asPinTypeId,
-  asRecord,
-  asString,
 } from "../map-pins-casts/map-pins-casts.module.code.ts"
 import {
   DEFAULT_ADD_PIN_LEVEL,
@@ -38,7 +36,7 @@ export function addPinType(
   if (type(pinTypeString) !== "string") {
     error("Parameter pinTypeString is not a string.")
   }
-  if (asGlobalTable(globalThis)[pinTypeString] != null) {
+  if ((globalThis as GlobalTable)[pinTypeString] != null) {
     error(`Parameter pinTypeString: ${pinTypeString} already exists.`)
   }
   if (type(pinTypeAddCallback) !== "function") {
@@ -55,7 +53,7 @@ export function addPinType(
   let tooltipCreator: unknown = pinTooltipCreator
   const tooltipType = type(pinTooltipCreator)
   if (tooltipType === "string") {
-    const text = asString(pinTooltipCreator)
+    const text = pinTooltipCreator as string
     tooltipCreator = {
       creator: (_pin: unknown): undefined => {
         if (IsInGamepadPreferredMode()) {
@@ -74,7 +72,7 @@ export function addPinType(
       tooltip: ZO_MAP_TOOLTIP_MODE.INFORMATION,
     }
   } else if (tooltipType === "table") {
-    const tbl = asRecord(pinTooltipCreator)
+    const tbl = pinTooltipCreator as Record<string, unknown>
     if (type(tbl.tooltip) !== "number") {
       tbl.tooltip = ZO_MAP_TOOLTIP_MODE.INFORMATION
     }
@@ -84,7 +82,7 @@ export function addPinType(
 
   if (type(layout.color) === "table") {
     const tint = layout.tint
-    if (tint == null || asRecord(tint).UnpackRGBA == null) {
+    if (tint == null || (tint as Record<string, unknown>).UnpackRGBA == null) {
       layout.tint = ZO_ColorDef.New(...asColorTuple(layout.color))
     }
   }
@@ -96,7 +94,7 @@ export function addPinType(
     layout,
     asOptionalObject(tooltipCreator)
   )
-  const pinTypeId = asPinTypeId(asGlobalTable(globalThis)[pinTypeString])
+  const pinTypeId = asPinTypeId((globalThis as GlobalTable)[pinTypeString])
   if (pinTypeId === undefined) {
     return undefined
   }
@@ -109,7 +107,7 @@ export function addPinType(
       if (type(filterTooltipCreator) === "function") {
         pinData.filterTooltipCreator = asFilterTooltipFn(filterTooltipCreator)
       } else if (type(filterTooltipCreator) === "string") {
-        const text = asString(filterTooltipCreator)
+        const text = filterTooltipCreator as string
         pinData.filterTooltipCreator = (): string => text
       }
     }
@@ -182,9 +180,9 @@ export function setLayoutData(
 
     const pinData = asLmpMapPin(ZO_MapPin)
     pinData.PIN_DATA[pinTypeId] = {}
-    const target = asRecord(pinData.PIN_DATA[pinTypeId])
+    const target = pinData.PIN_DATA[pinTypeId] as Record<string, unknown>
     for (const [k, v] of pairs(pinLayoutData)) {
-      target[asString(k)] = v
+      target[k as string] = v
     }
   }
 }
@@ -196,7 +194,7 @@ export function setLayoutKey(pinType: number | string, key: string, data: unknow
 
   const pinTypeId = getPinTypeId(pinType)
   if (pinTypeId !== undefined) {
-    const entry = asRecord(asLmpMapPin(ZO_MapPin).PIN_DATA[pinTypeId])
+    const entry = asLmpMapPin(ZO_MapPin).PIN_DATA[pinTypeId] as Record<string, unknown>
     entry[key] = data
   }
 }
@@ -213,7 +211,7 @@ export function setFilterTooltipCreator(
   if (type(filterTooltipCreator) === "function") {
     filterFunction = asFilterTooltipFn(filterTooltipCreator)
   } else if (type(filterTooltipCreator) === "string") {
-    const text = asString(filterTooltipCreator)
+    const text = filterTooltipCreator as string
     filterFunction = (): string => text
   }
 

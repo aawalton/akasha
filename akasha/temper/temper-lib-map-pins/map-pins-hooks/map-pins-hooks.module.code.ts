@@ -4,8 +4,6 @@ import {
   asGrayscaleFn,
   asHookPin,
   asLmpMapPin,
-  asNumber,
-  asString,
 } from "../map-pins-casts/map-pins-casts.module.code.ts"
 import { initDebug } from "../map-pins-debug/map-pins-debug.module.code.ts"
 import { LIB } from "../map-pins-lib/map-pins-lib.module.code.ts"
@@ -240,9 +238,9 @@ function onPostHooksForWorldMapFilters(this: void): undefined {
             if (
               filter.vars !== undefined &&
               savedKey != null &&
-              filter.vars[asString(savedKey)] !== undefined
+              filter.vars[savedKey as string] !== undefined
             ) {
-              isChecked = filter.vars[asString(savedKey)]
+              isChecked = filter.vars[savedKey as string]
             } else {
               isChecked = isEnabled(LIB, pinTypeId)
             }
@@ -269,7 +267,7 @@ export function installHooks(): undefined {
   CALLBACK_MANAGER.RegisterCallback("OnWorldMapChanged", LIB.OnMapChanged)
 
   ZO_PostHook(ZO_MapPin, "SetData", (pin: unknown, pinType: unknown): undefined => {
-    const singlePinData = asLmpMapPin(ZO_MapPin).PIN_DATA[asNumber(pinType)]
+    const singlePinData = asLmpMapPin(ZO_MapPin).PIN_DATA[pinType as number]
     if (singlePinData) {
       const grayscale = singlePinData.grayscale
       if (grayscale != null) {

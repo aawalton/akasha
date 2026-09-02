@@ -1,13 +1,5 @@
-import type { Lib } from "../main-menu-shape/main-menu-shape.module.code.ts"
-
-export function asLib(value: unknown): Lib {
-  return value as Lib
-}
-
+import "../main-menu-game-shape-1/main-menu-game-shape-1.module.code.ts"
 export type GlobalTable = Record<string, unknown>
-export function asGlobalTable(value: unknown): GlobalTable {
-  return value as GlobalTable
-}
 
 export type IpairsFn = (
   this: void,
@@ -63,16 +55,6 @@ export function asTextureArray(value: unknown): TextureArray {
   return value as TextureArray
 }
 export type TextureFn = (this: void) => readonly string[]
-export function asTextureFn(value: unknown): TextureFn {
-  return value as TextureFn
-}
-
-export function asControl(value: unknown): Control {
-  return value as Control
-}
-export function asLabelControl(value: unknown): LabelControl {
-  return value as LabelControl
-}
 
 export type CategoryLayoutArray = LmmCategoryLayoutInfo[]
 export function asCategoryLayoutArray(value: unknown): CategoryLayoutArray {
@@ -91,10 +73,6 @@ export function asLmmSceneInfo(value: unknown): LmmSceneInfo {
 }
 export function asLmmSceneGroupInfo(value: unknown): LmmSceneGroupInfo {
   return value as LmmSceneGroupInfo
-}
-
-export function asString(value: unknown): string {
-  return value as string
 }
 
 export interface TabClickable {

@@ -1,10 +1,6 @@
+import type { GlobalTable } from "../map-pins-casts/map-pins-casts.module.code.ts"
 import "../map-pins-declarations/map-pins-declarations.module.code.ts"
-import {
-  asGlobalTable,
-  asNumber,
-  asPinTypeId,
-  asString,
-} from "../map-pins-casts/map-pins-casts.module.code.ts"
+import { asPinTypeId } from "../map-pins-casts/map-pins-casts.module.code.ts"
 import {
   LIBMAPPINS_AVA_IMPERIAL_MAPGROUP,
   LIBMAPPINS_AVA_MAPGROUP,
@@ -16,10 +12,10 @@ import type { Lib } from "../map-pins-types/map-pins-types.module.code.ts"
 
 export function getPinTypeId(pinType: number | string): number | undefined {
   if (type(pinType) === "string") {
-    return asPinTypeId(asGlobalTable(globalThis)[asString(pinType)])
+    return asPinTypeId((globalThis as GlobalTable)[pinType as string])
   }
   if (type(pinType) === "number") {
-    return asNumber(pinType)
+    return pinType as number
   }
   return undefined
 }
@@ -31,10 +27,10 @@ export function getPinTypeIdAndString(
   let pinTypeString: string | undefined
   let pinTypeId: number | undefined
   if (type(pinType) === "string") {
-    pinTypeString = asString(pinType)
-    pinTypeId = asPinTypeId(asGlobalTable(globalThis)[asString(pinType)])
+    pinTypeString = pinType as string
+    pinTypeId = asPinTypeId((globalThis as GlobalTable)[pinType as string])
   } else if (type(pinType) === "number") {
-    pinTypeId = asNumber(pinType)
+    pinTypeId = pinType as number
     const pinData = lib.pinManager.customPins[pinTypeId]
     pinTypeString = pinData?.pinTypeString
   }

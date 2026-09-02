@@ -2,9 +2,7 @@ import "../slash-commander-declarations/slash-commander-declarations.module.code
 import {
   asAnyRecord,
   asDescriptionThunk,
-  asLib,
   asOptionalString,
-  asString,
   asStringArray,
   asValidator,
   asVarargFn,
@@ -21,7 +19,7 @@ import {
 } from "../slash-commander-messages/slash-commander-messages.module.code.ts"
 import type { Command, Lib } from "../slash-commander-types/slash-commander-types.module.code.ts"
 
-export const SLASH_COMMANDER: Lib = asLib({
+export const SLASH_COMMANDER: Lib = {
   loadedFiles: {},
   ERROR_INVALID_TYPE,
   ERROR_HAS_NO_PARENT,
@@ -31,7 +29,7 @@ export const SLASH_COMMANDER: Lib = asLib({
   ERROR_AUTOCOMPLETE_RESULT_NOT_VALID,
   ERROR_CALLED_WITHOUT_CALLBACK,
   WARNING_ALREADY_HAS_ALIAS,
-})
+} as Lib
 
 SLASH_COMMANDER.Log = function (this: void, message: string, ...args: unknown[]): undefined {
   df("[LibSlashCommander] " + message, ...args)
@@ -92,7 +90,7 @@ SLASH_COMMANDER.WrapFunction = function (
     target = _G
   }
   const targetTable = asAnyRecord(target)
-  const key = asString(name)
+  const key = name as string
   const originalFunction = targetTable[key]
   const wrapFn = asVarargFn(wrap)
   targetTable[key] = function (this: void, ...args: unknown[]): unknown {
@@ -134,7 +132,7 @@ SLASH_COMMANDER.Register = function (
         command.AddAlias(alias)
       }
     } else {
-      command.AddAlias(asString(aliases))
+      command.AddAlias(aliases as string)
     }
   }
 

@@ -1,12 +1,7 @@
 import type {
   AutoCompleteProvider,
   Command,
-  Lib,
 } from "../slash-commander-types/slash-commander-types.module.code.ts"
-
-export function asLib(value: unknown): Lib {
-  return value as Lib
-}
 
 export function asCommand(value: unknown): Command {
   return value as Command
@@ -56,10 +51,6 @@ export type CommandAliasMap = Record<string, Command>
 
 export function asCommandAliasMap(value: unknown): CommandAliasMap {
   return value as CommandAliasMap
-}
-
-export function asString(value: unknown): string {
-  return value as string
 }
 
 export type OptionalString = string | undefined

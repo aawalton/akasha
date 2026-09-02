@@ -1,9 +1,8 @@
+import type { GlobalFnTable, LmpPinManager } from "../map-ping-types/map-ping-types.module.code.ts"
 import "../map-ping-declarations/map-ping-declarations.module.code.ts"
 import {
   asCoordFn,
   asEsoVoidFn,
-  asGlobalFnTable,
-  asLmpPinManager,
   asSuccessFn,
 } from "../map-ping-casts/map-ping-casts.module.code.ts"
 import {
@@ -13,7 +12,7 @@ import {
   PING_EVENT_TYPE_INDEX,
   PING_EVENT_WATCHDOG_TIME,
 } from "../map-ping-constants/map-ping-constants.module.code.ts"
-import { INTERNAL, lib } from "../map-ping-lib/map-ping-lib.module.code.ts"
+import { INTERNAL, LIB } from "../map-ping-lib/map-ping-lib.module.code.ts"
 import type {
   CoordFn,
   MapPingHandlerClass,
@@ -45,14 +44,16 @@ MapPingHandler.New = function (this: MapPingHandlerClass) {
 
 MapPingHandler.Initialize = function (this: MapPingHandlerInstance): undefined {
   const self = this
-  this.mapPinManager = asLmpPinManager(ZO_WorldMap_GetPinManager())
+  const pinManager: unknown = ZO_WorldMap_GetPinManager()
+  this.mapPinManager = pinManager as LmpPinManager
   this.bucket = LeakyBucket.New()
   this.mutePing = {}
   this.suppressPing = {}
   this.pingState = {}
   this.pendingPing = {}
 
-  const g = asGlobalFnTable(_G)
+  const everyGlobal: unknown = _G
+  const g = everyGlobal as GlobalFnTable
 
   this.original = {
     PingMap: asEsoVoidFn(g.PingMap),
@@ -334,7 +335,7 @@ MapPingHandler.GetMapPing = function (
 MapPingHandler.GetMapRallyPoint = function (
   this: MapPingHandlerInstance
 ): LuaMultiReturn<[number, number]> {
-  if (lib.IsPingSuppressed(MAP_PIN_TYPE_RALLY_POINT, MAP_PIN_TAG_RALLY_POINT)) {
+  if (LIB.IsPingSuppressed(MAP_PIN_TYPE_RALLY_POINT, MAP_PIN_TAG_RALLY_POINT)) {
     return $multi(0, 0)
   }
   return this.original.GetMapRallyPoint()

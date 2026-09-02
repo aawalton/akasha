@@ -12,10 +12,6 @@ export const tableFunctionCasts = {
       statement: "A helper takes an unknown so a caller in Lua may hand in anything.",
     },
     {
-      invariantKind: "departure",
-      statement: "A cast here is checked by the helper asking the value's Lua type first.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here checks a value at run time.",
     },

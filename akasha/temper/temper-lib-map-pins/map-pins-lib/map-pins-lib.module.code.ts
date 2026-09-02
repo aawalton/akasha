@@ -1,9 +1,6 @@
+import type { LmpPinManager } from "../map-pins-types/map-pins-types.module.code.ts"
 import "../map-pins-declarations/map-pins-declarations.module.code.ts"
-import {
-  asControl,
-  asLmpPinManager,
-  asString,
-} from "../map-pins-casts/map-pins-casts.module.code.ts"
+
 import {
   LIB_NAME,
   LIB_VERSION,
@@ -52,23 +49,25 @@ function onMapChanged(this: void): undefined {
     }
     if (filter.vars !== undefined) {
       const savedKey = filterKey !== undefined ? filter[filterKey] : undefined
-      const state = savedKey != null ? filter.vars[asString(savedKey)] : undefined
+      const state = savedKey != null ? filter.vars[savedKey as string] : undefined
       setEnabled(LIB, pinTypeId, state)
     } else {
       const checkbox = mapGroup !== undefined ? filter[mapGroup] : undefined
       if (checkbox != null) {
-        ZO_CheckButton_SetCheckState(asControl(checkbox), isEnabled(LIB, pinTypeId) === true)
+        ZO_CheckButton_SetCheckState(checkbox as Control, isEnabled(LIB, pinTypeId) === true)
       }
     }
   }
 }
+
+const pinManager: unknown = ZO_WorldMap_GetPinManager()
 
 export const LIB: Lib = {
   name: LIB_NAME,
   version: LIB_VERSION,
   filters: {},
   mapGroup: LIBMAPPINS_PVE_MAPGROUP,
-  pinManager: asLmpPinManager(ZO_WorldMap_GetPinManager()),
+  pinManager: pinManager as LmpPinManager,
   show_log: true,
   loggerName: "LibMapPins",
 

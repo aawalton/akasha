@@ -1,5 +1,6 @@
+import type { TableKey } from "../map-pins-casts/map-pins-casts.module.code.ts"
 import "../map-pins-declarations/map-pins-declarations.module.code.ts"
-import { asRecord, asString, asTableKey } from "../map-pins-casts/map-pins-casts.module.code.ts"
+
 import type { Lib } from "../map-pins-types/map-pins-types.module.code.ts"
 
 export function initDebug(lib: Lib): undefined {
@@ -56,7 +57,7 @@ function emitTable(
     return
   }
 
-  const record = asRecord(t)
+  const record = t as Record<string, unknown>
   const [firstKey] = next(record)
   if (firstKey === undefined) {
     emitMessage(lib, logType, `${ind}[Empty Table]`)
@@ -67,7 +68,7 @@ function emitTable(
     const vType = type(v)
     emitMessage(lib, logType, `${ind}(${vType}): ${tostring(k)} = ${tostring(v)}`)
     if (vType === "table") {
-      const key = asTableKey(v)
+      const key = v as TableKey
       if (history.has(key)) {
         emitMessage(lib, logType, `${ind}Avoiding cycle on table...`)
       } else {
@@ -88,7 +89,7 @@ function emitUserdata(lib: Lib, logType: string, udata: unknown): undefined {
 
   const meta = getmetatable(udata)
   if (meta && meta.__index != null) {
-    for (const [k, v] of pairs(asRecord(meta.__index))) {
+    for (const [k, v] of pairs(meta.__index as Record<string, unknown>)) {
       if (type(v) === "function") {
         if (functionCount < functionLimit) {
           emitMessage(lib, logType, `  Function: ${tostring(k)}`)
@@ -114,7 +115,7 @@ function containsPlaceholders(str: unknown): boolean {
   if (type(str) !== "string") {
     return false
   }
-  const [found] = string.find(asString(str), "<<%d+>>")
+  const [found] = string.find(str as string, "<<%d+>>")
   return found !== undefined
 }
 
@@ -131,7 +132,7 @@ export function dm(lib: Lib, logType: string, ...args: unknown[]): undefined {
     for (let i = 1; i < numArgs; i++) {
       remainingArgs.push(args[i])
     }
-    const formattedValue = ZO_CachedStrFormat(asString(firstArg), ...remainingArgs)
+    const formattedValue = ZO_CachedStrFormat(firstArg as string, ...remainingArgs)
     emitMessage(lib, logType, formattedValue)
   } else {
     for (let i = 0; i < numArgs; i++) {

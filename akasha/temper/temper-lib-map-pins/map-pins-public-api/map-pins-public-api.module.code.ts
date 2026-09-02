@@ -1,4 +1,5 @@
-import { asGlobalTable } from "../map-pins-casts/map-pins-casts.module.code.ts"
+import type { GlobalTable } from "../map-pins-casts/map-pins-casts.module.code.ts"
+
 import {
   LIBMAPPINS_AVA_IMPERIAL_MAPGROUP,
   LIBMAPPINS_AVA_MAPGROUP,
@@ -10,7 +11,7 @@ import {
 } from "../map-pins-constants/map-pins-constants.module.code.ts"
 import { LIB } from "../map-pins-lib/map-pins-lib.module.code.ts"
 
-const glob = asGlobalTable(globalThis)
+const glob = globalThis as GlobalTable
 
 glob.LIBMAPPINS_PVE_MAPGROUP = LIBMAPPINS_PVE_MAPGROUP
 glob.LIBMAPPINS_AVA_MAPGROUP = LIBMAPPINS_AVA_MAPGROUP

@@ -1,5 +1,5 @@
 import "../map-ping-declarations/map-ping-declarations.module.code.ts"
-import { asLib } from "../map-ping-casts/map-ping-casts.module.code.ts"
+
 import {
   CALLBACK,
   LIB_IDENTIFIER,
@@ -70,8 +70,8 @@ export const INTERNAL: InternalState = {
   },
 }
 
-export const lib: Lib = asLib({
+export const LIB: Lib = {
   internal: INTERNAL,
   MapPingState: MAP_PING_STATE,
   callback: CALLBACK,
-})
+} as Lib

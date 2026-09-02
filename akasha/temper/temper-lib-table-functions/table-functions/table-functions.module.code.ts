@@ -1,10 +1,5 @@
-import {
-  asLuaTable,
-  asMetatable,
-  asNumber,
-  asString,
-  asTableKey,
-} from "../table-function-casts/table-function-casts.module.code.ts"
+import type { TableKey } from "../table-function-casts/table-function-casts.module.code.ts"
+import { asMetatable } from "../table-function-casts/table-function-casts.module.code.ts"
 import type { Lib } from "../table-function-types/table-function-types.module.code.ts"
 
 const LIB_VERSION = 100
@@ -20,7 +15,7 @@ export const TABLE_FUNCTIONS: Lib = {
     if (type(origTable) !== "table") {
       return origTable === searchValue ? true : valueFound
     }
-    const tbl = asLuaTable(origTable)
+    const tbl = origTable as LuaTable
     if (keySearch === true) {
       for (const [k, v] of pairs(tbl)) {
         if (k === searchValue) {
@@ -52,11 +47,11 @@ export const TABLE_FUNCTIONS: Lib = {
       return {}
     }
     if (type(origTable) === "table") {
-      const orig = asLuaTable(origTable)
+      const orig = origTable as LuaTable
       const copy = new LuaTable()
       for (const [origKey, origValue] of pairs(orig)) {
         copy.set(
-          asTableKey(TABLE_FUNCTIONS.CopyTable(origKey)),
+          TABLE_FUNCTIONS.CopyTable(origKey) as TableKey,
           TABLE_FUNCTIONS.CopyTable(origValue)
         )
       }
@@ -72,7 +67,7 @@ export const TABLE_FUNCTIONS: Lib = {
     }
     if (type(origTable) === "table") {
       let s = "{"
-      for (const [k, v] of pairs(asLuaTable(origTable))) {
+      for (const [k, v] of pairs(origTable as LuaTable)) {
         const keyStr = type(k) !== "number" ? '"' + tostring(k) + '"' : tostring(k)
         s = s + "[" + keyStr + "] = " + TABLE_FUNCTIONS.PrintTable(v) + ","
       }
@@ -92,8 +87,8 @@ export const TABLE_FUNCTIONS: Lib = {
       return origTable
     }
     const sortCol = column == null || column < 1 ? 1 : column
-    let sortedTable = asLuaTable(TABLE_FUNCTIONS.CopyTable(origTable))
-    const orig = asLuaTable(origTable)
+    let sortedTable = TABLE_FUNCTIONS.CopyTable(origTable) as LuaTable
+    const orig = origTable as LuaTable
     let numRows = 0
     let numElements = 0
     let numElementsLast = -1
@@ -102,24 +97,24 @@ export const TABLE_FUNCTIONS: Lib = {
       numRows = numRows + 1
       numElementsLast = numElements > 0 ? numElements : numElementsLast
       numElements = 0
-      for (const [, v1] of pairs(asLuaTable(v))) {
+      for (const [, v1] of pairs(v as LuaTable)) {
         if (type(v1) === "table") {
-          sortedTable = asLuaTable(TABLE_FUNCTIONS.CopyTable(origTable))
+          sortedTable = TABLE_FUNCTIONS.CopyTable(origTable) as LuaTable
           return sortedTable
         }
         numElements = numElements + 1
       }
       if (numElements === 0 || (numElements !== numElementsLast && numElementsLast !== -1)) {
-        sortedTable = asLuaTable(TABLE_FUNCTIONS.CopyTable(origTable))
+        sortedTable = TABLE_FUNCTIONS.CopyTable(origTable) as LuaTable
         return sortedTable
       }
     }
 
     for (let sweep = 0; sweep < numRows; sweep = sweep + 1) {
       for (let i = 1; i <= numRows - 1; i = i + 1) {
-        const rowA = asLuaTable(sortedTable.get(i))
-        const rowB = asLuaTable(sortedTable.get(i + 1))
-        if (asNumber(rowA.get(sortCol)) > asNumber(rowB.get(sortCol))) {
+        const rowA = sortedTable.get(i) as LuaTable
+        const rowB = sortedTable.get(i + 1) as LuaTable
+        if ((rowA.get(sortCol) as number) > (rowB.get(sortCol) as number)) {
           const tempRow = sortedTable.get(i)
           sortedTable.set(i, sortedTable.get(i + 1))
           sortedTable.set(i + 1, tempRow)
@@ -131,7 +126,7 @@ export const TABLE_FUNCTIONS: Lib = {
 
   DeepPrint(this: Lib, origTable: unknown): undefined {
     if (type(origTable) === "table") {
-      for (const [k, v] of pairs(asLuaTable(origTable))) {
+      for (const [k, v] of pairs(origTable as LuaTable)) {
         d(k)
         TABLE_FUNCTIONS.DeepPrint(v)
       }
@@ -143,7 +138,7 @@ export const TABLE_FUNCTIONS: Lib = {
   SimpleResetTable(this: Lib, origTable: unknown, value: unknown): unknown {
     if (type(origTable) === "table") {
       const newTable = new LuaTable()
-      for (const [k, v] of pairs(asLuaTable(origTable))) {
+      for (const [k, v] of pairs(origTable as LuaTable)) {
         newTable.set(k, TABLE_FUNCTIONS.SimpleResetTable(v, value))
       }
       return newTable
@@ -161,7 +156,7 @@ export const TABLE_FUNCTIONS: Lib = {
   ): unknown {
     if (type(origTable) === "table") {
       const newTable = new LuaTable()
-      for (const [k, v] of pairs(asLuaTable(origTable))) {
+      for (const [k, v] of pairs(origTable as LuaTable)) {
         newTable.set(k, TABLE_FUNCTIONS.ResetTable(v, intVal, strVal, boolVal, otherVal))
       }
       return newTable
@@ -170,7 +165,7 @@ export const TABLE_FUNCTIONS: Lib = {
       return intVal
     }
     if (type(origTable) === "string") {
-      return '"' + asString(strVal) + '"'
+      return '"' + (strVal as string) + '"'
     }
     if (type(origTable) === "boolean") {
       return boolVal

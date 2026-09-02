@@ -3,7 +3,6 @@ import type {
   GamepadFilterInfo,
   LmpHookPin,
   LmpMapPinClass,
-  LmpPinManager,
 } from "../map-pins-types/map-pins-types.module.code.ts"
 
 export type GlobalTable = Record<string, unknown>
@@ -18,16 +17,8 @@ export type GrayscaleFn = (this: void, pin: unknown) => unknown
 export type FilterTooltipFn = (this: void) => string
 export type OptionalObject = object | undefined
 
-export function asGlobalTable(value: unknown): GlobalTable {
-  return value as GlobalTable
-}
-
 export function asPinTypeId(value: unknown): PinTypeId {
   return value as PinTypeId
-}
-
-export function asLmpPinManager(value: unknown): LmpPinManager {
-  return value as LmpPinManager
 }
 
 export function asLmpMapPin(value: unknown): LmpMapPin {
@@ -40,26 +31,6 @@ export function asHookPin(value: unknown): HookPin {
 
 export function asColorTuple(value: unknown): ColorTuple {
   return value as ColorTuple
-}
-
-export function asString(value: unknown): string {
-  return value as string
-}
-
-export function asNumber(value: unknown): number {
-  return value as number
-}
-
-export function asRecord(value: unknown): Record<string, unknown> {
-  return value as Record<string, unknown>
-}
-
-export function asTableKey(value: unknown): TableKey {
-  return value as TableKey
-}
-
-export function asControl(value: unknown): Control {
-  return value as Control
 }
 
 export function asFilterPanel(value: unknown): FilterPanel {

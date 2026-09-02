@@ -1,5 +1,5 @@
 import "../map-pins-declarations/map-pins-declarations.module.code.ts"
-import { asControl, asFilterPanel, asString } from "../map-pins-casts/map-pins-casts.module.code.ts"
+import { asFilterPanel } from "../map-pins-casts/map-pins-casts.module.code.ts"
 import { LIBMAPPINS_GLOBAL_MAPGROUP } from "../map-pins-constants/map-pins-constants.module.code.ts"
 import {
   getCurrentGamepadMapFilterPanel,
@@ -74,7 +74,7 @@ export function addPinFilter(
       checkbox.SetHandler("OnMouseEnter", (control: unknown): undefined => {
         const tooltipText = tooltipFunc()
         if (tooltipText !== "") {
-          ZO_Tooltips_ShowTextTooltip(asControl(control), LEFT, tooltipText)
+          ZO_Tooltips_ShowTextTooltip(control as Control, LEFT, tooltipText)
         }
       })
       checkbox.SetHandler("OnMouseExit", ZO_Tooltips_HideTextTooltip)
@@ -102,7 +102,7 @@ export function addPinFilter(
         filter.vars[key] = state
 
         if (pinData && type(pinData.compassPinTypeString) === "string") {
-          filter.vars[asString(pinData.compassPinTypeString)] = state
+          filter.vars[pinData.compassPinTypeString as string] = state
         }
       }
 
@@ -182,10 +182,10 @@ export function addPinFilter(
       const keyField = `${baseKey}Key`
       const toggleFilter = lib.filters[data.mapPinGroup]
       if (toggleFilter?.vars && toggleFilter[keyField] != null) {
-        toggleFilter.vars[asString(toggleFilter[keyField])] = data.currentValue
+        toggleFilter.vars[toggleFilter[keyField] as string] = data.currentValue
 
         if (pinData && type(pinData.compassPinTypeString) === "string") {
-          toggleFilter.vars[asString(pinData.compassPinTypeString)] = data.currentValue
+          toggleFilter.vars[pinData.compassPinTypeString as string] = data.currentValue
         }
       }
     }
@@ -237,7 +237,7 @@ export function setPinFilterHidden(
   if (filter) {
     const rawControl = filter[mapGroup]
     if (rawControl != null) {
-      const control = asControl(rawControl)
+      const control = rawControl as Control
       if (control.IsControlHidden() !== hidden) {
         control.SetHidden(hidden)
         const [, point, relativeTo, relativePoint, offsetX, anchorOffsetY, restrain] =

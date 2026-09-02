@@ -4,7 +4,6 @@ import {
   asCallableCommand,
   asCommandMeta,
   asOptionalString,
-  asString,
 } from "../slash-commander-casts/slash-commander-casts.module.code.ts"
 import { SLASH_COMMANDER } from "../slash-commander-surface/slash-commander-surface.module.code.ts"
 import type {
@@ -38,11 +37,11 @@ COMMAND_TABLE.Initialize = function (this: Command): undefined {
     if (type(input) === "string") {
       const [firstAlias] = next(self.subCommandAliases)
       if (firstAlias !== undefined) {
-        const [matchedAlias, newInput] = string.match(asString(input), "(.-)%s+(.-)$")
+        const [matchedAlias, newInput] = string.match(input as string, "(.-)%s+(.-)$")
         let alias = parseLuaCapture(matchedAlias)
         const remainder = parseLuaCapture(newInput)
         if (alias === undefined) {
-          alias = asString(input)
+          alias = input as string
         }
         const subCommand = self.subCommandAliases[alias]
         if (subCommand !== undefined) {
