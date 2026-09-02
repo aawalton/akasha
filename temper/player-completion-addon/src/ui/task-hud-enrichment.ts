@@ -3,7 +3,7 @@ import {
   sortCadwellPois,
 } from "@akasha/temper-player-completion/completion-cadwell-sort"
 import { findFirstIncompleteLoreCollection } from "@akasha/temper-player-completion/completion-lore-collection"
-import { shalidorLibraryCollections } from "@temper/player-completion/generated/lore-shalidor-data.generated"
+import { SHALIDOR_LIBRARY_COLLECTIONS } from "@akasha/temper-player-completion/shalidor-library-collections"
 import {
   type ActiveAntiquityLead,
   collectActiveAntiquityLeads,
@@ -32,7 +32,6 @@ import {
 } from "./task-hud-companion-rapport"
 import { UNDAUNTED_SKILL_LINE_ID } from "./task-hud-state"
 import type { TaskProgress } from "./task-progress-resolver-types"
-
 
 export function getCompanionRapportEnrichment(): CompanionRapportEnrichment | undefined {
   const sv = getSavedVariables()
@@ -135,7 +134,7 @@ export function getLoreLibraryEnrichment(): LoreLibraryEnrichment | undefined {
   }
 
   const result = findFirstIncompleteLoreCollection(
-    shalidorLibraryCollections,
+    SHALIDOR_LIBRARY_COLLECTIONS,
     knownSet,
     SHALIDORS_LIBRARY_CATEGORY
   )
