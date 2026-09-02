@@ -12,6 +12,7 @@ import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { Tabs } from "@akasha/design-patterns/tabs"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+import { encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import { extractCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
@@ -19,7 +20,6 @@ import {
   useCharacterLifecycle,
   useCharacterList,
 } from "@temper/game-characters-character-ui/use-characters"
-import { encodeBuild } from "@temper/game-codec/character/build-codec"
 import { useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
 import { useEffect, useState } from "react"
