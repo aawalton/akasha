@@ -1,29 +1,28 @@
-import { championPoints } from "./code/champion-points-source.ts"
-import { alliances } from "./code/alliances-data.ts"
-import { curses } from "./code/curse-data.ts"
-import { foodOrDrink } from "./code/food-or-drink-source.ts"
-import { mundus } from "./code/mundus-source.ts"
-import { vampireStages } from "./code/vampire-stages-data.ts"
-import { classes } from "./code/classes-data.ts"
-import { armorEnchants } from "./code/armor-enchants-data.ts"
-import { jewelryEnchants } from "./code/jewelry-enchants-data.ts"
-import { weaponEnchantments } from "./code/weapon-enchants-data.ts"
-import { setsAll } from "./code/sets-all-data.ts"
-import { armorTraits } from "./code/armor-traits-data.ts"
-import { jewelryTraits } from "./code/jewelry-traits-data.ts"
-import { weaponTraits } from "./code/weapon-traits-data.ts"
-import { weaponTypes } from "./code/weapon-types-data.ts"
-import { races } from "./code/game-characters-races.ts"
-import { skillLines } from "./code/skill-lines-data.ts"
 import { affixScripts } from "./code/affix-scripts-data.ts"
+import { alliances } from "./code/alliances-data.ts"
+import { armorEnchants } from "./code/armor-enchants-data.ts"
+import { armorTraits } from "./code/armor-traits-data.ts"
+import { passiveSkillIds } from "./code/build-codec-indices.ts"
+import { championPoints } from "./code/champion-points-source.ts"
+import { classes } from "./code/classes-data.ts"
+import { companionSkills } from "./code/companion-skills-data.ts"
+import { companions } from "./code/companions-data.ts"
+import { curses } from "./code/curse-data.ts"
 import { focusScripts } from "./code/focus-scripts-data.ts"
+import { foodOrDrink } from "./code/food-or-drink-source.ts"
+import { races } from "./code/game-characters-races.ts"
+import { potions } from "./code/game-items-alchemy.ts"
 import { grimoires } from "./code/grimoires-data.ts"
+import { jewelryEnchants } from "./code/jewelry-enchants-data.ts"
+import { jewelryTraits } from "./code/jewelry-traits-data.ts"
+import { mundus } from "./code/mundus-source.ts"
+import { setsAll } from "./code/sets-all-data.ts"
 import { signatureScripts } from "./code/signature-scripts-data.ts"
 import { skills } from "./code/skills-data.ts"
-import { passiveSkillIds } from "./code/build-codec-indices.ts"
-import { companions } from "./code/companions-data.ts"
-import { companionSkills } from "./code/companion-skills-data.ts"
-import { potions } from "./code/game-items-alchemy.ts"
+import { vampireStages } from "./code/vampire-stages-data.ts"
+import { weaponEnchantments } from "./code/weapon-enchants-data.ts"
+import { weaponTraits } from "./code/weapon-traits-data.ts"
+import { weaponTypes } from "./code/weapon-types-data.ts"
 
 export function buildMappingTotals(): Record<string, string> {
   return {
@@ -43,7 +42,6 @@ export function buildMappingTotals(): Record<string, string> {
     "player-equipment-mappings": `${armorTraits.ids.length} armor traits, ${weaponTraits.ids.length} weapon traits, ${jewelryTraits.ids.length} jewelry traits, ${armorEnchants.ids.length} armor enchants, ${weaponEnchantments.ids.length} weapon enchants, ${jewelryEnchants.ids.length} jewelry enchants, ${weaponTypes.ids.length} weapon types`,
     "set-mappings": `${setsAll.list.filter((s) => s.esoSetId !== 0).length} sets`,
     "scribing-mappings": `${grimoires.ids.length} grimoires, ${focusScripts.ids.length} focus, ${signatureScripts.ids.length} signature, ${affixScripts.ids.length} affix`,
-    "skill-line-mappings": `${skillLines.ids.filter((id) => skillLines.data[id].subcategoryId !== "companion" && skillLines.data[id].esoSkillLineId !== 0).length} skill lines`,
     "passive-skill-mappings": `${passiveSkillIds.length} passive skills`,
   }
 }
