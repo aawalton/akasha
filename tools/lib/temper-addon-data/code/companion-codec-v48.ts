@@ -1,1 +1,4 @@
-export { COMPANION_BUILD_TYPE, ESO_VERSION_48 } from "@temper/game-codec/companions/companion-codec-v48"
+export {
+  COMPANION_BUILD_TYPE,
+  ESO_VERSION_48,
+} from "@akasha/temper-companion-codec/companion-codec-v48"
