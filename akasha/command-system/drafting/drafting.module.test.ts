@@ -36,6 +36,10 @@ function swapped(was: string, from: string, to: string): string {
   return was.replace(`${from}\n`, `${to}\n`)
 }
 
+function refs(root: string): string {
+  return gitSaid(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/patch"])
+}
+
 function draftedBody(root: string, path: string): string | null {
   const patch = patchIn(root, PAGE)
   if (patch === null) return null
@@ -95,6 +99,7 @@ test("a change reaching HEAD by another route leaves the patch", () => {
   const said = drafted(root, PAGE, [])
   expect(said).toEqual({ patch: null })
   expect(patchIn(root, PAGE)).toBeNull()
+  expect(refs(root)).toBe("")
 })
 
 test("a draft stating no body is drafted as a deletion", () => {
@@ -102,6 +107,15 @@ test("a draft stating no body is drafted as a deletion", () => {
   drafted(root, PAGE, [{ path: ONE, was: TEN, body: null }])
   expect(draftedBody(root, ONE)).toBeNull()
   expect(patchIn(root, PAGE) ?? "").toContain("deleted file mode")
+})
+
+test("a blob the patch names outlives a pruning of unreachable objects", () => {
+  const root = repoAt()
+  const body = swapped(TEN, "b", "B")
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body }])
+  expect(refs(root)).not.toBe("")
+  gitSaid(root, ["gc", "--prune=now", "-q"])
+  expect(draftedBody(root, ONE)).toBe(body)
 })
 
 test("a path that is no page keeps no patch", () => {
