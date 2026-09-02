@@ -17,7 +17,6 @@ export const temperLibDataEncode = {
     "module/data-encode-self-test",
     "module/data-encode-casts",
     "module/data-encode-types",
-    "module/data-encode-declarations",
     "module/data-encode-entry",
   ],
   invariants: [

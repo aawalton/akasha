@@ -1,4 +1,3 @@
-import "../data-encode-declarations/data-encode-declarations.module.code.ts"
 import {
   asDecoderMethod,
   asLdeValue,

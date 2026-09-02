@@ -12,7 +12,6 @@
     "./data-encode-runtime": "./data-encode-runtime/data-encode-runtime.module.code.ts",
     "./data-encode-self-test": "./data-encode-self-test/data-encode-self-test.module.code.ts",
     "./data-encode-types": "./data-encode-types/data-encode-types.module.code.ts",
-    "./data-encode-declarations": "./data-encode-declarations/data-encode-declarations.module.code.ts",
     "./data-encode-entry": "./data-encode-entry/data-encode-entry.module.code.ts"
   }
 }

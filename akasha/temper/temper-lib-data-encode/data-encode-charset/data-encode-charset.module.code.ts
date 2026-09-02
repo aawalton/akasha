@@ -1,4 +1,3 @@
-import "../data-encode-declarations/data-encode-declarations.module.code.ts"
 import type { ControlCharSpec } from "../data-encode-types/data-encode-types.module.code.ts"
 
 export const LIB_NAME = "LibDataEncode"

@@ -1,4 +1,3 @@
-import "../data-encode-declarations/data-encode-declarations.module.code.ts"
 import {
   CHAR_TO_VALUE,
   CHARSET,

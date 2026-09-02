@@ -1,4 +1,3 @@
-import "../data-encode-declarations/data-encode-declarations.module.code.ts"
 import { asLuaTable } from "../data-encode-casts/data-encode-casts.module.code.ts"
 import { CHARSET, CHARSET_LENGTH } from "../data-encode-charset/data-encode-charset.module.code.ts"
 import { decode } from "../data-encode-decoder/data-encode-decoder.module.code.ts"

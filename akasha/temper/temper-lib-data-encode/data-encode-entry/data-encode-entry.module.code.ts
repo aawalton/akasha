@@ -1,4 +1,3 @@
-import "../data-encode-declarations/data-encode-declarations.module.code.ts"
 import { LIB_NAME } from "../data-encode-charset/data-encode-charset.module.code.ts"
 import { performSelfTest } from "../data-encode-self-test/data-encode-self-test.module.code.ts"
 import { DATA_ENCODE } from "../data-encode-surface/data-encode-surface.module.code.ts"

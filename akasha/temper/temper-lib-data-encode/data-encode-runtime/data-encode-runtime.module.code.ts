@@ -1,4 +1,3 @@
-import "../data-encode-declarations/data-encode-declarations.module.code.ts"
 import { SHORT_NAME } from "../data-encode-charset/data-encode-charset.module.code.ts"
 import type { TestResult } from "../data-encode-types/data-encode-types.module.code.ts"
 
