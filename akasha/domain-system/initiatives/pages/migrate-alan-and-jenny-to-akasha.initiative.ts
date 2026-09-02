@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "One blocker is left and it is the worst: a landed day rolls up nothing from the rows beside it, so all 133 read a surplus of exactly 0, which is the healthy rung, while the fidelity check judges 18884 values with no fault because a rollup is derived and it compares what is stored. Filed `4f13a6f37f`. Everything else is done: the write clears all 294 paths, the funnel audit is at 0, the ceiling is ruled on at `2c31d47f4a`, day queries bind through `dayNameOf` at `1f34b9b10a`.",
+        "A full rehearsal in an isolated copy says do not land: between the two acts every day is doubled at exit 0, a session open across the turn livelocks tracking with `close` reporting success and `start` refusing forever, and the read gate refuses every daemon write since the row file being written is itself an owed read. My three-act design is the cause of the first two. Also open: a landed day rolls up nothing from the rows beside it, so all 133 read a surplus of 0.",
     },
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
