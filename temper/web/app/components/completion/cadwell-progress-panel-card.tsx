@@ -1,4 +1,10 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import type { CharacterCardId } from "@akasha/temper-player-completion/completion-card-registry"
+import type {
+  CharacterCadwellProgress,
+  CompletionCharacter,
+} from "@akasha/temper-player-completion/completion-ui-types"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -8,12 +14,6 @@ import {
   withActivityCategories,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
-import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
-import type { CharacterCardId } from "@temper/player-completion/completion-card-registry"
-import type {
-  CharacterCadwellProgress,
-  CompletionCharacter,
-} from "@temper/player-completion/completion-ui-types"
 
 interface CadwellProgressPanelCardProps {
   id?: CharacterCardId
