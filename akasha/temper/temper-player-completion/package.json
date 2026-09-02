@@ -54,6 +54,7 @@
     "./completion-subclassing-progress": "./completion-subclassing-progress/completion-subclassing-progress.module.code.ts",
     "./completion-summary-companion": "./completion-summary-companion/completion-summary-companion.module.code.ts",
     "./completion-trait-research-progress": "./completion-trait-research-progress/completion-trait-research-progress.module.code.ts",
+    "./completion-transforms": "./completion-transforms/completion-transforms.module.code.ts",
     "./completion-tribute-progress": "./completion-tribute-progress/completion-tribute-progress.module.code.ts",
     "./completion-ui-types": "./completion-ui-types/completion-ui-types.module.code.ts",
     "./completion-zone-progress": "./completion-zone-progress/completion-zone-progress.module.code.ts",

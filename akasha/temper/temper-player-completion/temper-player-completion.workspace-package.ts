@@ -68,6 +68,7 @@ export const temperPlayerCompletion = {
     "module/completion-trait-research-progress",
     "module/completion-account-trait-union",
     "module/completion-achievement-progress",
+    "module/completion-transforms",
   ],
   invariants: [
     {
