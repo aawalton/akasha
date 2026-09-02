@@ -30,12 +30,3 @@ type LamOptionControl =
   | LamCheckboxControl
   | LamDropdownControl
   | LamEditboxControl
-
-interface LibAddonMenu2Api {
-  RegisterAddonPanel: (name: string, panelData: LamPanelData) => Control
-  RegisterOptionControls: (
-    name: string,
-    optionsTable: (LamOptionControl | LamControlData)[]
-  ) => undefined
-  OpenToPanel: (panel: Control | undefined) => undefined
-}
