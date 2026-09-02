@@ -1,17 +1,5 @@
 {
   "workspaces": {
-    "temper/addons": {
-      "entry": [
-        "*/src/**/*.ts!",
-        "scripts/**/*.ts!"
-      ],
-      "project": [
-        "**/*.ts!"
-      ],
-      "ignore": [
-        "plugins/**"
-      ]
-    },
     "temper/game-characters": {
       "entry": [
         "**/*.test.{ts,tsx}"

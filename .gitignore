@@ -29,10 +29,6 @@ dist/
 !temper/*-addon/**/*.d.ts
 !akasha/**/*.d.ts
 
-# JavaScript compiled in place beside the TypeScript it came from. Every other
-# package emits to dist/ instead.
-temper/addons/scripts/**/*.js
-
 # Kubernetes manifests synthesized from their TypeScript source.
 *.generated.yaml
 

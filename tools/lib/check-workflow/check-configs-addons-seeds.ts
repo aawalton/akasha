@@ -1,11 +1,11 @@
-import type { ScopedPopulation } from "../graph/queries/membership.ts"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { Glob } from "bun"
-import { listAllAddons } from "./addons-resolve.ts"
 import { z } from "zod"
+import type { ScopedPopulation } from "../graph/queries/membership.ts"
+import { listAllAddons } from "./addons-resolve.ts"
 
-export const BUILD_TOOLING_SEEDS: readonly string[] = ["package:code:@temper/addons"]
+export const BUILD_TOOLING_SEEDS: readonly string[] = []
 
 const packageNameSchema = z.object({ name: z.string() }).passthrough()
 
