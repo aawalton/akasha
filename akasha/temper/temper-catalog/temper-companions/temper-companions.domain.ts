@@ -6,4 +6,5 @@ export const temperCompanions = {
   slug: "temper-companions",
   definition: "the companions who travel with a character",
   pluralSlug: "temper-companionss",
+  partSlugs: ["page-type/temper-companion-thing"],
 } as const satisfies Domain
