@@ -1,0 +1,30 @@
+{
+  "name": "@akasha/temper-events-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./events-addon-names": "./events-addon-names/events-addon-names.module.code.ts",
+    "./events-addon-global": "./events-addon-global/events-addon-global.module.code.ts",
+    "./next-boss-declarations": "./next-boss-declarations/next-boss-declarations.module.code.ts",
+    "./next-boss-colors": "./next-boss-colors/next-boss-colors.module.code.ts",
+    "./next-boss-constants": "./next-boss-constants/next-boss-constants.module.code.ts",
+    "./next-boss-state": "./next-boss-state/next-boss-state.module.code.ts",
+    "./next-boss-global": "./next-boss-global/next-boss-global.module.code.ts",
+    "./next-boss-ui-strings": "./next-boss-ui-strings/next-boss-ui-strings.module.code.ts",
+    "./next-boss-saved-variables": "./next-boss-saved-variables/next-boss-saved-variables.module.code.ts",
+    "./next-boss-data": "./next-boss-data/next-boss-data.module.code.ts",
+    "./next-boss-timers": "./next-boss-timers/next-boss-timers.module.code.ts",
+    "./next-boss-events": "./next-boss-events/next-boss-events.module.code.ts",
+    "./next-boss-gui": "./next-boss-gui/next-boss-gui.module.code.ts",
+    "./next-boss-menu": "./next-boss-menu/next-boss-menu.module.code.ts",
+    "./next-boss-init": "./next-boss-init/next-boss-init.module.code.ts",
+    "./events-addon-loaded": "./events-addon-loaded/events-addon-loaded.module.code.ts",
+    "./events-addon-entry": "./events-addon-entry/events-addon-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*"
+  }
+}
