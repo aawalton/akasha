@@ -1,0 +1,19 @@
+{
+  "name": "@akasha/temper-items-rules-routing-core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./inventory-consolidate-dest": "./inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts",
+    "./inventory-management-plan-route": "./inventory-management-plan-route/inventory-management-plan-route.module.code.ts",
+    "./inventory-management-plan-route-actor": "./inventory-management-plan-route-actor/inventory-management-plan-route-actor.module.code.ts",
+    "./inventory-management-plan-route-helpers": "./inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts",
+    "./inventory-management-plan-route-steps": "./inventory-management-plan-route-steps/inventory-management-plan-route-steps.module.code.ts",
+    "./inventory-management-plan-route-venue": "./inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts",
+    "./inventory-management-plan-types": "./inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-items-core": "workspace:*",
+    "@akasha/temper-items-rules-core": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

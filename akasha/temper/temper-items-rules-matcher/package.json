@@ -1,0 +1,25 @@
+{
+  "name": "@akasha/temper-items-rules-matcher",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./compile-rules": "./compile-rules/compile-rules.module.code.ts",
+    "./inventory-item-classifier": "./inventory-item-classifier/inventory-item-classifier.module.code.ts",
+    "./inventory-rule-matcher": "./inventory-rule-matcher/inventory-rule-matcher.module.code.ts",
+    "./inventory-rule-matcher-allocators": "./inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts",
+    "./inventory-rule-matcher-cache": "./inventory-rule-matcher-cache/inventory-rule-matcher-cache.module.code.ts",
+    "./inventory-rule-matcher-exclude": "./inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts",
+    "./inventory-rule-matcher-fill-once": "./inventory-rule-matcher-fill-once/inventory-rule-matcher-fill-once.module.code.ts",
+    "./rule-matcher-context-curse-state": "./rule-matcher-context-curse-state/rule-matcher-context-curse-state.module.code.ts",
+    "./rule-matcher-context-skill-lines": "./rule-matcher-context-skill-lines/rule-matcher-context-skill-lines.module.code.ts",
+    "./web-eval-env": "./web-eval-env/web-eval-env.module.code.ts",
+    "./web-item-facts": "./web-item-facts/web-item-facts.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-items-core": "workspace:*",
+    "@akasha/temper-items-rules-core": "workspace:*",
+    "@akasha/temper-items-rules-eval": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

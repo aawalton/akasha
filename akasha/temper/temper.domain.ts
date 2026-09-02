@@ -102,6 +102,8 @@ export const temper = {
     "workspace-package/temper-items-filters-core",
     "workspace-package/temper-items-filters-addon",
     "workspace-package/temper-lost-treasure",
+    "workspace-package/temper-items-rules-routing-core",
+    "workspace-package/temper-items-rules-matcher",
   ],
   invariants: [
     {
