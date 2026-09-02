@@ -4,7 +4,6 @@ import {
   classifyOAuthError,
   DEFAULT_AT_LIMIT_BACKOFF_MS,
   decideUsageRepoll,
-  INITIAL_REPOLL_GATE_STATE,
   MAX_AT_LIMIT_BACKOFF_MS,
   OAUTH_CLIENT_ID,
   OAUTH_TOKEN_RESPONSE_SCHEMA,
@@ -14,27 +13,35 @@ import {
   REFRESH_BUFFER_MS,
   REPOLL_BREAKER_MS,
   REPOLL_MIN_INTERVAL_MS,
-  type RepollDecision,
+  type RefreshOutcome,
   type RepollGateState,
   recordRepollAttempt,
   recordUsageRateLimited,
+  UPKEEP_PERIOD_MS,
+  UPKEEP_RENEWAL_MARGIN_MS,
   USAGE_RESPONSE_SCHEMA,
   USAGE_URL,
 } from "./claude-account-oauth.module.code.ts"
-
-const FAKE_ACCESS_TOKEN = "FAKE-access-000000"
-
-const FAKE_REFRESH_TOKEN = "FAKE-refresh-00000"
-
-const FAKE_ACCOUNT_UUID = "11111111-2222-7333-8444-555555555555"
-
-const FAKE_ORG_UUID = "99999999-8888-7777-8666-555555555555"
-
-const NOW = 1_700_000_000_000
-
-const TOKEN_BODY = { access_token: FAKE_ACCESS_TOKEN, refresh_token: FAKE_REFRESH_TOKEN }
-
-const UNCLASSIFIED = { terminal: false, code: null, description: null }
+import {
+  ALLOW,
+  BARE,
+  backoffAt,
+  breakerSkip,
+  FAILED,
+  FAKE_ACCESS_TOKEN,
+  FAKE_ACCOUNT_UUID,
+  FAKE_ORG_UUID,
+  INITIAL,
+  intervalSkip,
+  NO_CREDENTIAL_ON_A_FAILING_OUTCOME,
+  NO_TERMINAL_ON_A_WORKING_OUTCOME,
+  NOW,
+  RETRYABLE,
+  STATUS_IS_OPTIONAL,
+  TOKEN_BODY,
+  UNCLASSIFIED,
+  WORKED,
+} from "./claude-account-oauth.module.test-fixtures.ts"
 
 test("the wire endpoints are the constants this module names", () => {
   expect(OAUTH_TOKEN_URL).toBe("https://platform.claude.com/v1/oauth/token")
@@ -241,22 +248,6 @@ test("a body carrying no OAuth error envelope is classified as not terminal", ()
   }
 })
 
-const ALLOW: RepollDecision = { kind: "allow" }
-
-const INITIAL = INITIAL_REPOLL_GATE_STATE
-
-function backoffAt(header: string | null, fallback = DEFAULT_AT_LIMIT_BACKOFF_MS): number {
-  return backoffExpiryMs({ now: NOW, retryAfterHeader: header }, fallback)
-}
-
-function breakerSkip(seconds: number): RepollDecision {
-  return { kind: "skip", reason: `usage-endpoint breaker open for another ${seconds}s` }
-}
-
-function intervalSkip(seconds: number): RepollDecision {
-  return { kind: "skip", reason: `re-polled ${seconds}s ago, inside the minimum interval` }
-}
-
 test("a `Retry-After` of whole seconds sets the backoff in milliseconds", () => {
   expect(backoffAt("30")).toBe(NOW + 30_000)
 })
@@ -356,4 +347,52 @@ test("nothing here reads a clock", () => {
   const state: RepollGateState = { lastAttemptMs: 0, breakerUntilMs: null }
   expect(decideUsageRepoll(state, 10_000)).toEqual(decideUsageRepoll(state, 10_000))
   expect(backoffExpiryMs({ now: 0, retryAfterHeader: null })).toBe(5_000)
+})
+
+test("the upkeep spans are the constants this module names", () => {
+  expect(UPKEEP_PERIOD_MS).toBe(3_600_000)
+  expect(UPKEEP_RENEWAL_MARGIN_MS).toBe(10_800_000)
+  expect(UPKEEP_RENEWAL_MARGIN_MS).toBe(3 * UPKEEP_PERIOD_MS)
+  expect(UPKEEP_RENEWAL_MARGIN_MS).toBeGreaterThan(REFRESH_BUFFER_MS)
+})
+
+test("a refresh outcome that worked carries the credential the refresh answered with", () => {
+  expect(WORKED.ok).toBe(true)
+  expect(WORKED.ok ? WORKED.credential.accessToken : null).toBe(FAKE_ACCESS_TOKEN)
+  expect(WORKED.ok ? WORKED.credential.expiresAt : null).toBe(NOW + 28_800_000)
+})
+
+test("a refresh outcome that failed says whether the failure is terminal", () => {
+  expect(FAILED.ok).toBe(false)
+  expect(FAILED.ok ? null : FAILED.terminal).toBe(true)
+  expect(RETRYABLE.ok ? null : RETRYABLE.terminal).toBe(false)
+})
+
+test("a refresh outcome that failed names the sort of failure", () => {
+  const reasons: string[] = []
+  for (const reason of ["no-credential", "http-error", "exception"] as const) {
+    const said: RefreshOutcome = { ok: false, terminal: false, reason }
+    reasons.push(said.ok ? "" : said.reason)
+  }
+  expect(reasons).toEqual(["no-credential", "http-error", "exception"])
+})
+
+test("a refresh outcome that failed may carry the status the refresh met", () => {
+  expect(FAILED.ok ? null : FAILED.status).toBe(400)
+  expect(FAILED.ok ? null : FAILED.code).toBe("invalid_grant")
+  expect(BARE.ok ? null : BARE.status).toBeUndefined()
+  expect(BARE.ok ? null : BARE.code).toBeUndefined()
+  expect(BARE.ok ? null : BARE.description).toBeUndefined()
+})
+
+test("a refresh outcome that failed may carry what was thrown", () => {
+  const thrown = new Error("socket closed")
+  const said: RefreshOutcome = { ok: false, terminal: false, reason: "exception", error: thrown }
+  expect(said.ok ? null : said.error).toBe(thrown)
+})
+
+test("an outcome that worked names no terminal flag and one that failed names no credential", () => {
+  expect(NO_TERMINAL_ON_A_WORKING_OUTCOME).toBe(true)
+  expect(NO_CREDENTIAL_ON_A_FAILING_OUTCOME).toBe(true)
+  expect(STATUS_IS_OPTIONAL).toBe(true)
 })

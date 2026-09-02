@@ -7,6 +7,7 @@ export const claudeAccountOauth = {
   definition: "the OAuth exchange an account's credentials and usage arrive over",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -27,6 +28,14 @@ export const claudeAccountOauth = {
     {
       invariantKind: "departure",
       statement: "The refresh buffer is five minutes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A token expiring inside three hours is renewed by the upkeep.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The upkeep runs once an hour.",
     },
     {
       invariantKind: "departure",
@@ -193,6 +202,22 @@ export const claudeAccountOauth = {
       statement: "A skip carries the whole seconds left rounded up.",
     },
     {
+      invariantKind: "departure",
+      statement: "A refresh outcome that worked carries the credential the refresh answered with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refresh outcome that failed says whether the failure is terminal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refresh outcome that failed names the sort of failure.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refresh outcome that failed may carry the status the refresh met.",
+    },
+    {
       invariantKind: "constraint",
       statement: "Every instant this module works from is handed in by the caller.",
     },
@@ -256,7 +281,7 @@ export const claudeAccountOauth = {
     {
       invariantKind: "gap",
       statement:
-        "The upkeep constants sit outside this module while the endpoints the upkeep polls sit inside.",
+        "A refresh outcome is declared here while the token refresh sits outside this module.",
     },
   ],
 } as const satisfies Module
