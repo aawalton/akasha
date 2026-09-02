@@ -17,6 +17,7 @@ export const write = {
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
     { said: "--dry-run", takes: "say what would happen and write nothing" },
+    { said: "--draft", takes: "keep what would land in this agent's patch rather than landing it" },
   ],
   helpNotes: [
     "--file-path and --content-file repeat in pairs, so several files land in one commit.",
@@ -25,6 +26,8 @@ export const write = {
     "pipe the body in with a quoted heredoc: --message <text> <<'EOF', the body, then EOF.",
     "the files standing beside a path given to --remove go with it.",
     "a folder left holding nothing by what --remove takes is cleared off the disk.",
+    "--draft gates the change as a landing does, then keeps it in the patch beside this agent's page.",
+    "a drafted change is rebased onto HEAD every time the patch is drafted into again.",
   ],
   invariants: [
     {
@@ -114,6 +117,18 @@ export const write = {
     {
       invariantKind: "absence",
       statement: "A path this call takes away is warranted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming `--draft` keeps a patch rather than writing a body onto the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path drafted is warranted as a path landed is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path drafted away is forgotten by the record for nobody.",
     },
     {
       invariantKind: "gap",

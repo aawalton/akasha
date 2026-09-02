@@ -5,6 +5,7 @@ import { besideAll } from "@akasha/pages-system/page-beside"
 import {
   BREAK_GLASS,
   bytesAt,
+  DRAFT,
   DRY_RUN,
   landingAsked,
   mistaking,
@@ -41,7 +42,7 @@ const PARTED_BY = "/"
 
 export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
-const BARE = [DRY_RUN]
+const BARE = [DRY_RUN, DRAFT]
 
 export function unwarrantedIn(
   given: Given,
@@ -417,6 +418,7 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
   if (troubled !== null) return troubled
 
   const dryRun = argv.includes(DRY_RUN)
+  const draft = argv.includes(DRAFT)
   const answer = landingAsked(given, {
     changes,
     message:
@@ -429,8 +431,9 @@ export function writing(argv: readonly string[], given: Given, piping: Piping): 
     glass: glass.glass,
     unmoved: [],
     saying: wroteAndTook,
+    draft,
   })
-  if (answer.code === 0 && !dryRun) {
+  if (answer.code === 0 && !dryRun && !draft) {
     dropReadings(
       given.root,
       changes.filter((one) => one.body === null).map((one) => one.path)
