@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCharacterThing } from "../temper-character-thing.page-type.ts"
+import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
 import type { ActivationEffects } from "./properties/activation-effects.page-property-entry.ts"
 import type { DescriptionTemplate } from "./properties/description-template.text-property.ts"
 

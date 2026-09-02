@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCharacterThing } from "../temper-character-thing.page-type.ts"
+import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
 import type { Items } from "./properties/items.page-property-entry.ts"
 import type { Quests } from "./properties/quests.page-property-entry.ts"
 

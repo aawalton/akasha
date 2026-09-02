@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCharacterThing } from "../temper-character-thing.page-type.ts"
+import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
 import type { MaxQuests } from "./properties/max-quests.number-property.ts"
 import type { MaxSkyshards } from "./properties/max-skyshards.number-property.ts"
 import type { MaxValue } from "./properties/max-value.number-property.ts"

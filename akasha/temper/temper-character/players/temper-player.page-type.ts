@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperCharacterThing } from "../temper-character-thing.page-type.ts"
+import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
 import type { CompletionVisibility } from "./properties/completion-visibility.text-property.ts"
 import type { Settings } from "./properties/settings.file-property.ts"
 
