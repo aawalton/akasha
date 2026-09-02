@@ -23,9 +23,6 @@
       "path": "../player-completion-ui"
     },
     {
-      "path": "../player-inventory-management-ui"
-    },
-    {
       "path": "../player-profile"
     }
   ],

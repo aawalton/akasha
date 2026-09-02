@@ -10,7 +10,7 @@ import { Spinner } from "@akasha/design-primitives/spinner"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { useInventoryImport } from "@temper/player-inventory-management-ui/use-inventory-import"
+import { useInventoryImport } from "@akasha/temper-player-inventory-management-ui/use-inventory-import"
 import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"
 import {
   ImportSummary,

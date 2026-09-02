@@ -5,15 +5,33 @@ import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@akasha/design-primitives/alert-dialog"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "@akasha/design-patterns/empty"
+import { ItemRow } from "@akasha/design-patterns/item-row"
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "@akasha/design-primitives/alert-dialog"
 import { Card, CardContent, CardTitleBadges } from "@akasha/design-primitives/card"
 import { Progress } from "@akasha/design-primitives/progress-bar"
 import { Text } from "@akasha/design-primitives/text-body"
-import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
-import { ItemRow } from "@akasha/design-patterns/item-row"
-import { needToShoppingItem, needToShoppingKey } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
+import { PricingRegionNote } from "@akasha/temper-player-inventory-management-ui/pricing-region-note"
+import {
+  needToShoppingItem,
+  needToShoppingKey,
+} from "@akasha/temper-shopping/companion-gear-shopping-bridge"
 import { isShoppingSettings } from "@akasha/temper-shopping/shopping-settings"
-import { PricingRegionNote } from "@temper/player-inventory-management-ui/pricing-region-note"
 import { ShoppingCart } from "lucide-react"
 import { Fragment, useCallback, useMemo, useState } from "react"
 import { formatGold } from "./companion-gear-pricing-helpers"

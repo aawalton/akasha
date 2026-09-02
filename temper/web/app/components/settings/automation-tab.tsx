@@ -1,16 +1,19 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Heading } from "@akasha/design-primitives/heading"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { Switch } from "@akasha/design-primitives/switch-control"
-import { useAutomationSettings } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,
 } from "@akasha/temper-build-support/automation-settings"
+import { useAutomationSettings } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
 import { Info } from "lucide-react"
 import { useMemo } from "react"
 

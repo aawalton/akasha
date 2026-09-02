@@ -1,18 +1,29 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Card, CardContent } from "@akasha/design-primitives/card"
 import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
-import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "@akasha/design-patterns/empty"
 import { FilterButton } from "@akasha/design-patterns/filter-button"
 import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
-import { type CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { PricingRegionNote } from "@temper/player-inventory-management-ui/pricing-region-note"
+import { Card, CardContent } from "@akasha/design-primitives/card"
+import {
+  type CompanionEquipmentQualityId,
+  companionEquipmentQualities,
+} from "@akasha/temper-companions-core/companion-equipment-qualities"
+import { PricingRegionNote } from "@akasha/temper-player-inventory-management-ui/pricing-region-note"
 import { Gamepad2, PackageCheck } from "lucide-react"
 import { type ReactNode, useMemo, useState } from "react"
 import { CompanionGearByCompanionPanelCard } from "./companion-gear-by-companion-panel-card"

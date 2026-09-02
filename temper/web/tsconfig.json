@@ -77,9 +77,6 @@
       "path": "../player-economics-ui"
     },
     {
-      "path": "../player-inventory-management-ui"
-    },
-    {
       "path": "../player-profile"
     }
   ],
