@@ -65,7 +65,6 @@
     "temper/game-companions-ui",
     "temper/game-completion",
     "temper/game-crafting-addon",
-    "temper/game-items-addon",
     "temper/game-items-core",
     "temper/game-items-rules-core",
     "temper/game-items-rules-eval",

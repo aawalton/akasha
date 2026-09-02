@@ -727,10 +727,17 @@
     "akasha/story/reader": {
       "name": "@akasha/story-reader",
       "dependencies": {
+        "@akasha/design-patterns": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "lucide-react": ">=0.400",
+        "react": "^18 || ^19",
       },
     },
     "akasha/supabase-auth": {
@@ -1389,6 +1396,9 @@
     },
     "akasha/temper/temper-lib-addon-keybinds": {
       "name": "@akasha/temper-lib-addon-keybinds",
+    },
+    "akasha/temper/temper-lib-addon-menu": {
+      "name": "@akasha/temper-lib-addon-menu",
     },
     "akasha/temper/temper-lib-addon-menu-order-list-box": {
       "name": "@akasha/temper-lib-addon-menu-order-list-box",
@@ -2614,7 +2624,6 @@
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
-        "@temper/player-completion": "workspace:*",
       },
       "devDependencies": {
         "typescript": "^5.8.3",
@@ -2726,7 +2735,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/temper-equipment-kinds": "workspace:*",
-        "@temper/game-characters-equipment": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -2749,28 +2757,6 @@
         "@temper/game-characters-capture-addon": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-characters-stats": {
-      "name": "@temper/game-characters-stats",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-alchemy": "workspace:*",
-        "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-champion-points": "workspace:*",
-        "@akasha/temper-character-skills": "workspace:*",
-        "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-character": "workspace:*",
-        "@temper/game-characters-equipment": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -2834,7 +2820,6 @@
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2905,35 +2890,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-items-filters-addon": {
-      "name": "@temper/game-items-filters-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-hud-window": "workspace:*",
-        "@akasha/temper-items-filters-core": "workspace:*",
-        "@akasha/temper-items-rules-eval": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/game-items-filters-core": {
-      "name": "@temper/game-items-filters-core",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-companions-core": "workspace:*",
-        "@akasha/temper-equipment": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-equipment": "workspace:*",
-        "@temper/game-items-core": "workspace:*",
-        "@temper/game-items-rules-core": "workspace:*",
-        "@temper/game-items-rules-eval": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-items-rules-core": {
       "name": "@temper/game-items-rules-core",
       "version": "0.1.0",
@@ -2977,8 +2933,6 @@
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-skill-morphs-access": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-character": "workspace:*",
-        "@temper/game-characters-equipment": "workspace:*",
         "@temper/game-codec": "workspace:*",
         "@temper/game-items-core": "workspace:*",
         "@temper/game-items-rules-core": "workspace:*",
@@ -3446,10 +3400,13 @@
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/temper-alchemy": "workspace:*",
+        "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-build": "workspace:*",
         "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-characters-equipment": "workspace:*",
         "@akasha/temper-characters-stats": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
@@ -3460,6 +3417,9 @@
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-player-completion": "workspace:*",
+        "@akasha/temper-player-completion-skills-morphs-ui": "workspace:*",
+        "@akasha/temper-player-completion-ui": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-shopping": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -3483,7 +3443,6 @@
         "@temper/game-codec": "workspace:*",
         "@temper/game-companions-ui": "workspace:*",
         "@temper/player-completion": "workspace:*",
-        "@temper/player-completion-skills-morphs-ui": "workspace:*",
         "@temper/player-completion-ui": "workspace:*",
         "@temper/player-economics-ui": "workspace:*",
         "@temper/player-inventory-management-ui": "workspace:*",
@@ -3834,6 +3793,8 @@
     "@akasha/temper-items-rules-routing-core": ["@akasha/temper-items-rules-routing-core@workspace:akasha/temper/temper-items-rules-routing-core"],
 
     "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:akasha/temper/temper-lib-addon-keybinds"],
+
+    "@akasha/temper-lib-addon-menu": ["@akasha/temper-lib-addon-menu@workspace:akasha/temper/temper-lib-addon-menu"],
 
     "@akasha/temper-lib-addon-menu-order-list-box": ["@akasha/temper-lib-addon-menu-order-list-box@workspace:akasha/temper/temper-lib-addon-menu-order-list-box"],
 
@@ -4607,8 +4568,6 @@
 
     "@temper/game-characters-skills-morphs-addon": ["@temper/game-characters-skills-morphs-addon@workspace:temper/game-characters-skills-morphs-addon"],
 
-    "@temper/game-characters-stats": ["@temper/game-characters-stats@workspace:temper/game-characters-stats"],
-
     "@temper/game-codec": ["@temper/game-codec@workspace:temper/game-codec"],
 
     "@temper/game-collections-addon": ["@temper/game-collections-addon@workspace:temper/game-collections-addon"],
@@ -4624,10 +4583,6 @@
     "@temper/game-crafting-addon": ["@temper/game-crafting-addon@workspace:temper/game-crafting-addon"],
 
     "@temper/game-items-core": ["@temper/game-items-core@workspace:temper/game-items-core"],
-
-    "@temper/game-items-filters-addon": ["@temper/game-items-filters-addon@workspace:temper/game-items-filters-addon"],
-
-    "@temper/game-items-filters-core": ["@temper/game-items-filters-core@workspace:temper/game-items-filters-core"],
 
     "@temper/game-items-rules-core": ["@temper/game-items-rules-core@workspace:temper/game-items-rules-core"],
 
