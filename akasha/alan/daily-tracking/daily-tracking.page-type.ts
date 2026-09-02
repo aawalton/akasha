@@ -27,6 +27,7 @@ import type { PersonaDays } from "./properties/persona-days.text-property.ts"
 import type { SafetyLevel } from "./properties/safety-level.text-property.ts"
 import type { Sessions } from "./properties/sessions.page-property-entry.ts"
 import type { SleepPoints } from "./properties/sleep-points.number-property.ts"
+import type { SpannedFromDayBoundary } from "./properties/spanned-from-day-boundary.boolean-property.ts"
 import type { StrengthPoints } from "./properties/strength-points.number-property.ts"
 import type { StrengthVolume } from "./properties/strength-volume.number-property.ts"
 import type { TaskPoints } from "./properties/task-points.number-property.ts"
@@ -57,6 +58,7 @@ export type DailyTracking = Page & {
   nutritionPoints?: NutritionPoints
   breathingPoints?: BreathingPoints
   activeCalories?: ActiveCalories
+  spannedFromDayBoundary?: SpannedFromDayBoundary
   completionSnapshot?: CompletionSnapshot
   wordsReadPoints?: WordsReadPoints
   wordsReadSnapshot?: WordsReadSnapshot
@@ -85,6 +87,7 @@ export const dailyTracking = {
     "boolean-property/inbox-tasks-cleared-today",
     "boolean-property/inbox-temper-tasks-cleared-today",
     "boolean-property/inbox-texts-cleared-today",
+    "boolean-property/spanned-from-day-boundary",
     "instant-property/asserted-at",
     "instant-property/last-viewed-at",
     "number-property/active-calories",
@@ -149,6 +152,7 @@ export const dailyTracking = {
     { pagePropertySlug: "nutrition-points", required: false, many: false },
     { pagePropertySlug: "breathing-points", required: false, many: false },
     { pagePropertySlug: "active-calories", required: false, many: false },
+    { pagePropertySlug: "spanned-from-day-boundary", required: false, many: false },
     { pagePropertySlug: "completion-snapshot", required: false, many: false },
     { pagePropertySlug: "words-read-points", required: false, many: false },
     { pagePropertySlug: "words-read-snapshot", required: false, many: false },

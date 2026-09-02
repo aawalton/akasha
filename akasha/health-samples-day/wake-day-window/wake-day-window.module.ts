@@ -45,6 +45,14 @@ export const wakeDayWindow = {
       statement: "Nothing here invents the moment Alan woke.",
     },
     {
+      invariantKind: "departure",
+      statement: "A day refusing a window is a day spanned from the day boundary instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which of the two a day was is answered here rather than by each figure's writer.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here asks for a page type but the day's own.",
     },

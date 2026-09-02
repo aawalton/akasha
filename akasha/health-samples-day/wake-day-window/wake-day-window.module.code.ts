@@ -125,3 +125,11 @@ export function wakeDayWindowIn(root: string, dayStr: string): DayWindow | Refus
 export function getWakeDayWindow(dayStr: string): DayWindow | Refused {
   return wakeDayWindowIn(akashaRoot(), dayStr)
 }
+
+export function spannedFromDayBoundaryIn(root: string, dayStr: string): boolean {
+  return "refused" in wakeDayWindowIn(root, dayStr)
+}
+
+export function spannedFromDayBoundary(dayStr: string): boolean {
+  return spannedFromDayBoundaryIn(akashaRoot(), dayStr)
+}
