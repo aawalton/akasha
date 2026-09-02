@@ -61,20 +61,6 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
     },
     unit: "key",
   },
-  {
-    struct: "PersonaStoplightsResponse",
-    canonical: bodyOf("api.persona-stoplights.ts"),
-    unit: "key",
-  },
-  {
-    struct: "PersonaStoplight",
-    canonical: {
-      file: `${READOUTS}/persona-stoplights.ts`,
-      anchor: "export interface PersonaStoplight extends StoplightRing {",
-      kind: "members",
-    },
-    unit: "key",
-  },
   { struct: "SafetyLevelResponse", canonical: bodyOf("api.safety-level.ts"), unit: "key" },
   {
     struct: "HabitStoplight",
@@ -92,20 +78,6 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
     canonical: {
       file: `${READOUTS}/upkeep-stoplights.ts`,
       anchor: "export interface UpkeepStoplight extends StoplightRing {",
-      kind: "members",
-    },
-    unit: "key",
-  },
-  {
-    struct: "ValuesStoplightsResponse",
-    canonical: bodyOf("api.values-stoplights.ts"),
-    unit: "key",
-  },
-  {
-    struct: "ValueStoplight",
-    canonical: {
-      file: `${READOUTS}/daily-stoplights.ts`,
-      anchor: "export interface ValueStoplightFace extends ValueStoplight {",
       kind: "members",
     },
     unit: "key",

@@ -8,7 +8,6 @@ sequence-slugs:
   - readout-group/upkeep
   - readout-group/inboxes
   - readout-group/values
-  - readout-group/personas
 settled: true
 ---
 

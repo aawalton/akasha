@@ -35,8 +35,6 @@ const AUTH_CONFIG: AuthRouteConfig = {
     "/api/zero/",
     "/api/cron/",
     "/api/mcp",
-    "/api/values-stoplights",
-    "/api/persona-stoplights",
     "/api/claude-usage",
     "/api/inbox-stoplights",
     "/api/habit-stoplights",

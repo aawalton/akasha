@@ -22,8 +22,6 @@ export default [
   route("api/health", "routes/api.health.ts"),
   route("api/live-version", "routes/api.live-version.ts"),
   route("api/errors", "routes/api.errors.ts"),
-  route("api/values-stoplights", "routes/api.values-stoplights.ts"),
-  route("api/persona-stoplights", "routes/api.persona-stoplights.ts"),
   route("api/claude-usage", "routes/api.claude-usage.ts"),
   route("api/inbox-stoplights", "routes/api.inbox-stoplights.ts"),
   route("api/habit-stoplights", "routes/api.habit-stoplights.ts"),
