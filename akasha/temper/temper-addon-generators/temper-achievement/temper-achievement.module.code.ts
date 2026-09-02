@@ -85,6 +85,13 @@ function renderCategory(one: Heading, subCategories: readonly Heading[]): string
 
 function renderTable(headings: readonly Heading[]): string {
   const roots = headings.filter((one) => one.parent === null).sort(byDisplayOrder)
+  const rooted = new Set<string>(roots.map((one) => one.slug))
+  for (const one of headings) {
+    if (one.parent === null || rooted.has(one.parent)) continue
+    throw new Error(
+      `temper-achievement-category ${one.slug} hangs beneath ${one.parent}, which is no category`
+    )
+  }
   const body = roots
     .map((root) =>
       renderCategory(root, headings.filter((one) => one.parent === root.slug).sort(byDisplayOrder))
