@@ -5,7 +5,11 @@
   "exports": {
     "./completion-progress": "./completion-progress/completion-progress.module.code.ts",
     "./completion-record": "./completion-record/completion-record.module.code.ts",
-    "./completion-writer-schema": "./completion-writer-schema/completion-writer-schema.module.code.ts"
+    "./completion-writer-schema": "./completion-writer-schema/completion-writer-schema.module.code.ts",
+    "./lore-library-data": "./lore-library-data/lore-library-data.module.code.ts",
+    "./lore-library-types": "./lore-library-types/lore-library-types.module.code.ts",
+    "./recipe-data": "./recipe-data/recipe-data.module.code.ts",
+    "./recipe-types": "./recipe-types/recipe-types.module.code.ts"
   },
   "dependencies": {
     "@akasha/temper-capture-host": "workspace:*",
