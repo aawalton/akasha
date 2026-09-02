@@ -45,8 +45,24 @@ export const faultSaying = {
       statement: "A caller catching a fault says what that fault means.",
     },
     {
+      invariantKind: "departure",
+      statement: "Where a fault was thrown is read from the stack the fault carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A frame is a file path carrying the line and column the fault passed through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A frame the runtime names no file for is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How many frames are worth carrying is the caller's to say.",
+    },
+    {
       invariantKind: "absence",
-      statement: "This only says what it said.",
+      statement: "What is said carries no frame.",
     },
   ],
 } as const satisfies Module
