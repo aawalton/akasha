@@ -6,6 +6,7 @@ export const completionCompanionRapportCompleteness = {
   slug: "completion-companion-rapport-completeness",
   definition: "whether a character has every companion at full rapport",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "absence",
