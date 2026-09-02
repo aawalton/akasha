@@ -1,4 +1,4 @@
-import { serializeLuaBlock } from "@temper/shared-saved-variables/lua-serializer"
+import { serializeLuaBlock } from "@akasha/temper-saved-variables/lua-serializer"
 
 const SIDE_FILE_VERSION = 1
 

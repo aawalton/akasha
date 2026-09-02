@@ -1,11 +1,11 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateTemperClass } from "../generators/classes.ts"
-import { generateTemperAlliance } from "../generators/temper-alliance.ts"
-import { generateTemperCharacterRole } from "../generators/temper-character-role.ts"
-import { generateTemperCurse } from "../generators/temper-curse.ts"
-import { generateTemperRace } from "../generators/temper-race.ts"
-import { generateTemperTargetArmor } from "../generators/temper-target-armor.ts"
-import { generateTemperVampireStage } from "../generators/temper-vampire-stage.ts"
+import { generateTemperClass } from "@akasha/temper-addon-generators/classes"
+import { generateTemperAlliance } from "@akasha/temper-addon-generators/temper-alliance"
+import { generateTemperCharacterRole } from "@akasha/temper-addon-generators/temper-character-role"
+import { generateTemperCurse } from "@akasha/temper-addon-generators/temper-curse"
+import { generateTemperRace } from "@akasha/temper-addon-generators/temper-race"
+import { generateTemperTargetArmor } from "@akasha/temper-addon-generators/temper-target-armor"
+import { generateTemperVampireStage } from "@akasha/temper-addon-generators/temper-vampire-stage"
 import {
   TEMPER_CHARACTER_OUTPUT_DIR,
   TEMPER_CLASSES_OUTPUT_DIR,

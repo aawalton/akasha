@@ -1,3 +1,4 @@
+import * as luaParserModule from "@akasha/temper-saved-variables/lua-parser"
 import * as addonsResolveModule from "@temper/shared-build-deploy-addons-resolve"
 import type { ErrorEntry } from "@temper/shared-capture-errors-core/types"
 import * as collectModule from "@temper/shared-capture-errors-decision-core/collect"
@@ -5,7 +6,6 @@ import * as livenessModule from "@temper/shared-capture-errors-decision-core/liv
 import * as savedVariablesSchemaModule from "@temper/shared-capture-errors-decision-core/saved-variables-schema"
 import type { InferredCulprit } from "@temper/shared-capture-errors-decision-core/triage"
 import * as triageGatherModule from "@temper/shared-capture-errors-decision-core/triage-gather"
-import * as luaParserModule from "@temper/shared-saved-variables/lua-parser"
 
 export type { Ownership } from "@temper/shared-capture-errors-decision-core/liveness"
 export type { ErrorEntry, InferredCulprit }

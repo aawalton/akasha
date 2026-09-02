@@ -1,6 +1,6 @@
 import { ALCHEMY_EFFECT_IDS, potions } from "../code/game-items-alchemy.ts"
 import { isMetricEffect } from "../code/effects-types.ts"
-import { parseRestoreMetricIdsFromAbilityText } from "./parse-restore-metrics-from-ability-text.ts"
+import { parseRestoreMetricIdsFromAbilityText } from "@akasha/temper-addon-generators/parse-restore-metrics-from-ability-text"
 
 export interface MinedRestorePotion {
   readonly itemId: number

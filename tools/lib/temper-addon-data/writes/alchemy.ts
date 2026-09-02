@@ -1,10 +1,10 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
 import { generatePotionRestoreMetrics } from "../generators/potion-restore-metrics.ts"
-import { generateTemperPoisonEffects } from "../generators/temper-poison-effects.ts"
-import { generateTemperPotionCrafted } from "../generators/temper-potion-crafted.ts"
-import { generateTemperPotionCrown } from "../generators/temper-potion-crown.ts"
-import { generateTemperPotionDropped } from "../generators/temper-potion-dropped.ts"
-import { generateTemperReagents } from "../generators/temper-reagents.ts"
+import { generateTemperPoisonEffects } from "@akasha/temper-addon-generators/temper-poison-effects"
+import { generateTemperPotionCrafted } from "@akasha/temper-addon-generators/temper-potion-crafted"
+import { generateTemperPotionCrown } from "@akasha/temper-addon-generators/temper-potion-crown"
+import { generateTemperPotionDropped } from "@akasha/temper-addon-generators/temper-potion-dropped"
+import { generateTemperReagents } from "@akasha/temper-addon-generators/temper-reagents"
 import { TEMPER_ALCHEMY_OUTPUT_DIR, WEB_ENGINE_INVENTORY_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesAlchemy(

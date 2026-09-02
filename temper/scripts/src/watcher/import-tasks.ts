@@ -10,7 +10,7 @@ import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-
 import { asRecord } from "@akasha/utils-narrow/as-record"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { isCumulativeCard } from "@temper/player-completion/completion-card-reset-behavior"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 
 const COMPLETED_TASK_PAGE_TYPE_SLUG = "temper-completed-task"
 

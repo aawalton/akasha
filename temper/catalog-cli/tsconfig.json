@@ -19,9 +19,6 @@
   "references": [
     {
       "path": "../shared-foundation-misc-eso-paths-resolve"
-    },
-    {
-      "path": "../shared-saved-variables"
     }
   ]
 }

@@ -1,5 +1,5 @@
-import { luaArrayOrEmpty } from "@temper/shared-saved-variables/lua-array"
-import { savedVariablesRootSchema } from "@temper/shared-saved-variables/saved-variables-account-wide"
+import { savedVariablesRootSchema } from "@akasha/temper-saved-variables/account-wide"
+import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
 import { z } from "zod"
 
 const traceOptionSchema = z

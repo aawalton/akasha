@@ -2,7 +2,7 @@ export const summary = "Read the auto-quest debug trace captured by TemperQuests
 
 import { readFile } from "node:fs/promises"
 import { rootSchema } from "@temper/player-quests-addon-cli/temper/auto-quest/saved-variables-schema"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import type { CommandHelp } from "../../../ops/surface.ts"
 import { dataError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"

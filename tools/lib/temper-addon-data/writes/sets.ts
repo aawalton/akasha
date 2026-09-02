@@ -1,8 +1,8 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
 import { generateSetCategoryMappings } from "../generators/set-category-mappings.ts"
-import { generateTemperSet } from "../generators/temper-set.ts"
-import { generateTemperSetCategory } from "../generators/temper-set-category.ts"
-import { generateTemperSourceCategory } from "../generators/temper-source-category.ts"
+import { generateTemperSet } from "@akasha/temper-addon-generators/temper-set"
+import { generateTemperSetCategory } from "@akasha/temper-addon-generators/temper-set-category"
+import { generateTemperSourceCategory } from "@akasha/temper-addon-generators/temper-source-category"
 import {
   TEMPER_EQUIPMENT_SETS_OUTPUT_DIR,
   TEMPER_INVENTORY_CORE_OUTPUT_DIR,

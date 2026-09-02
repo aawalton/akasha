@@ -4,8 +4,8 @@ import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-
 import { asRecord } from "@akasha/utils-narrow/as-record"
 import { isJson } from "@akasha/utils-narrow/is-json"
 import { upsertItemRuleByItemId } from "@temper/game-items-rules-core/inventory-rule-settings"
-import { luaArrayOrEmpty } from "@temper/shared-saved-variables/lua-array"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
+import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { z } from "zod"
 import { toRuleSettings } from "./export-settings-consumables"
 

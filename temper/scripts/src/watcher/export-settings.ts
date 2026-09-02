@@ -9,7 +9,7 @@ import { buildAllControlledRules } from "@temper/game-items-rules-core/inventory
 import { rulesToInventoryConfig } from "@temper/game-items-rules-core/inventory-rule-mapping"
 import type { InventoryTimestamps } from "@temper/game-items-rules-core/inventory-settings-types"
 import type { AutomationSettings } from "@temper/shared-engine/automation/automation-settings-types"
-import { serializeLuaBlock } from "@temper/shared-saved-variables/lua-serializer"
+import { serializeLuaBlock } from "@akasha/temper-saved-variables/lua-serializer"
 import {
   compileBuyStock,
   compileCharacterPriority,

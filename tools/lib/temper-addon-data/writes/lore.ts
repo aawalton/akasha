@@ -1,7 +1,7 @@
 import { loreLibraryData } from "../code/lore-library-data-generated.ts"
 import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateLoreShalidor } from "../generators/lore-shalidor.ts"
-import { generateTemperMotifStyle } from "../generators/temper-motif-style.ts"
+import { generateLoreShalidor } from "@akasha/temper-addon-generators/lore-shalidor"
+import { generateTemperMotifStyle } from "@akasha/temper-addon-generators/temper-motif-style"
 import {
   TEMPER_ADDONS_CHARACTERS_GENERATED_DIR,
   TEMPER_COMPLETION_OUTPUT_DIR,

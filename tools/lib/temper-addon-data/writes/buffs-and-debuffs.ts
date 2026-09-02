@@ -1,10 +1,10 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateTemperBuffMajor } from "../generators/temper-buff-major.ts"
-import { generateTemperBuffMinor } from "../generators/temper-buff-minor.ts"
-import { generateTemperBuffOther } from "../generators/temper-buff-other.ts"
-import { generateTemperDebuffMajor } from "../generators/temper-debuff-major.ts"
-import { generateTemperDebuffMinor } from "../generators/temper-debuff-minor.ts"
-import { generateTemperDebuffOther } from "../generators/temper-debuff-other.ts"
+import { generateTemperBuffMajor } from "@akasha/temper-addon-generators/temper-buff-major"
+import { generateTemperBuffMinor } from "@akasha/temper-addon-generators/temper-buff-minor"
+import { generateTemperBuffOther } from "@akasha/temper-addon-generators/temper-buff-other"
+import { generateTemperDebuffMajor } from "@akasha/temper-addon-generators/temper-debuff-major"
+import { generateTemperDebuffMinor } from "@akasha/temper-addon-generators/temper-debuff-minor"
+import { generateTemperDebuffOther } from "@akasha/temper-addon-generators/temper-debuff-other"
 import { TEMPER_SHARED_OUTPUT_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesBuffsAndDebuffs(

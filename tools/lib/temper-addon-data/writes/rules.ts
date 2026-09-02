@@ -1,9 +1,9 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateRuleClassify } from "../generators/rule-classify.ts"
-import { generateWebConditions } from "../generators/rule-conditions-web/index"
-import { generateRuleTypes } from "../generators/rule-types.ts"
-import { generateTemperComparisonOp } from "../generators/temper-comparison-op.ts"
-import { generateTemperRuleTemplate } from "../generators/temper-rule-template.ts"
+import { generateRuleClassify } from "@akasha/temper-addon-generators/rule-classify"
+import { generateWebConditions } from "@akasha/temper-addon-generators/web-rule-conditions"
+import { generateRuleTypes } from "@akasha/temper-addon-generators/rule-types"
+import { generateTemperComparisonOp } from "@akasha/temper-addon-generators/temper-comparison-op"
+import { generateTemperRuleTemplate } from "@akasha/temper-addon-generators/temper-rule-template"
 import { TEMPER_INVENTORY_OUTPUT_DIR, WEB_ENGINE_INVENTORY_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesRules(

@@ -1,8 +1,8 @@
 export const summary = "Print the addon's rolling ring of consumable master-writ traces (alchemy/enchanting/provisioning: resolve + execute decisions, school-specific facts, and the outcome/bail of each) from TemperInventory.lua diagnostics"
 
-import { luaArrayOrEmpty } from "@temper/shared-saved-variables/lua-array"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
-import { savedVariablesRootSchema } from "@temper/shared-saved-variables/saved-variables-account-wide"
+import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+import { savedVariablesRootSchema } from "@akasha/temper-saved-variables/account-wide"
 import { z } from "zod"
 import type { CommandHelp } from "../../../ops/surface.ts"
 import { dataError } from "../../../lib/exit.ts"

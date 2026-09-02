@@ -7,7 +7,7 @@ import type { CompanionState } from "@temper/game-companions-core/companion-type
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
 import { companions, getCompanionIdByDefId } from "@temper/game-companions-core/companions-data"
 import { BuildHash } from "@temper/shared-formula-framework/branded"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 
 function toLuaKeyedRecord(value: unknown): Record<string, unknown> {
   if (Array.isArray(value)) {

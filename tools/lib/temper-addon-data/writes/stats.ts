@@ -1,5 +1,5 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateTemperMetricTree } from "../generators/metric-tree.ts"
+import { generateTemperMetricTree } from "@akasha/temper-addon-generators/metric-tree"
 import { TEMPER_STATS_OUTPUT_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesStats(

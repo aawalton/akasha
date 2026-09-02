@@ -7,7 +7,7 @@ import { type Page } from "@akasha/pages-core/page-types"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { isAnyCompletionCardId } from "@temper/player-completion/completion-card-id"
 import type { CompletionOverride } from "@temper/player-completion/completion-overrides"
-import { serializeLuaBlock } from "@temper/shared-saved-variables/lua-serializer"
+import { serializeLuaBlock } from "@akasha/temper-saved-variables/lua-serializer"
 import { compileCharacterPriority } from "./export-settings-consumables"
 import { detectIndent, replaceOrInsertLuaBlock } from "./export-settings-lua"
 import {

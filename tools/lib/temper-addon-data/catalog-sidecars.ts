@@ -1,4 +1,4 @@
-import { Page } from "./page.ts"
+import { Page } from "@akasha/temper-addon-generators/addon-data-page"
 import { askComposed } from "./pages-bridge.ts"
 import { z } from "zod"
 

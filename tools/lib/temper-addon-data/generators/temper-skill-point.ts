@@ -1,4 +1,4 @@
-import type { Page } from "../page.ts"
+import type { Page } from "@akasha/temper-addon-generators/addon-data-page"
 import { TEMPER_DUNGEONS } from "../code/shared-foundation-misc-dungeons.ts"
 import { z } from "zod"
 

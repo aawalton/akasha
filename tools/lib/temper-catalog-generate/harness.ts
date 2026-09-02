@@ -5,7 +5,7 @@ import { resolve } from "node:path"
 import { asRecord } from "@akasha/utils-narrow/as-record"
 import { readMinedAccountWide } from "@temper/scripts/mined-data-parse"
 import { savedVarsFile } from "@temper/shared-foundation-misc-eso-paths-resolve"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { dataError } from "../exit.ts"
 
 export const CATALOG_SAVED_VARIABLES = "TemperCatalog.lua"

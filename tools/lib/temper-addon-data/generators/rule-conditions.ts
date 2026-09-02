@@ -1,1 +1,1 @@
-export { generateWebConditions } from "./rule-conditions-web/index.ts"
+export { generateWebConditions } from "@akasha/temper-addon-generators/web-rule-conditions"

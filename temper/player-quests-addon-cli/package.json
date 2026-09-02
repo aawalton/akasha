@@ -1,7 +1,7 @@
 {
   "name": "@temper/player-quests-addon-cli",
   "dependencies": {
-    "@temper/shared-saved-variables": "workspace:*",
+    "@akasha/temper-saved-variables": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

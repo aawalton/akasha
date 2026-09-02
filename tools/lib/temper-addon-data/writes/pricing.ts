@@ -1,5 +1,5 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateTemperTtcKioskLocation } from "../generators/ttc-kiosk-locations.ts"
+import { generateTemperTtcKioskLocation } from "@akasha/temper-addon-generators/ttc-kiosk-locations"
 import { TEMPER_PRICING_OUTPUT_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesPricing(

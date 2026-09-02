@@ -1,4 +1,4 @@
-import { luaArrayOrEmpty } from "@temper/shared-saved-variables/lua-array"
+import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
 import { z } from "zod"
 
 function tolerant<T extends z.ZodTypeAny>(schema: T) {

@@ -1,6 +1,6 @@
 import { DataError } from "@akasha/errors-core/exit-code"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
-import { savedVariablesRootSchema } from "@temper/shared-saved-variables/saved-variables-account-wide"
+import { savedVariablesRootSchema } from "@akasha/temper-saved-variables/account-wide"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { z } from "zod"
 
 const NET_WORTH_SCHEMA = z

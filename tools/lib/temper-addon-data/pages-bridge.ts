@@ -6,7 +6,7 @@ import { diskFileTree } from "../../../page/file-tree.ts"
 import { asDeclared, typesFor } from "../page-property-types.ts"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { camelizeKey, kebabizeKey } from "../tracking/keys.ts"
-import { type Json, Page } from "./page.ts"
+import { type Json, Page } from "@akasha/temper-addon-generators/addon-data-page"
 
 export { askComposed, requireFirst }
 

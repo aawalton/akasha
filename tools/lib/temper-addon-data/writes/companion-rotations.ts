@@ -1,5 +1,5 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateTemperRotationBreakdownRow } from "../generators/temper-rotation-breakdown-row.ts"
+import { generateTemperRotationBreakdownRow } from "@akasha/temper-addon-generators/temper-rotation-breakdown-row"
 import { TEMPER_COMPANIONS_OUTPUT_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesCompanionRotations(

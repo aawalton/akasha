@@ -1,5 +1,5 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateTemperDungeons } from "../generators/temper-dungeons.ts"
+import { generateTemperDungeons } from "@akasha/temper-addon-generators/temper-dungeons"
 import { TEMPER_DUNGEONS_OUTPUT_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesDungeons(

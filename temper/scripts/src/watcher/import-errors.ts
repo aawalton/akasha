@@ -12,7 +12,7 @@ import {
   gatherTriage,
   readDeployedBuildId,
 } from "@temper/shared-capture-errors-decision-core/triage-gather"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { loadErrorCursor, saveErrorCursor } from "./import-errors-cursor"
 import { decideErrorEmissions, type EntryVerdict, isStaleResidue } from "./import-errors-decide"
 

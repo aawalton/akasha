@@ -6,8 +6,8 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "@temper/game-completion/completion-types"
-import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
-import { readFirstAccountWide } from "@temper/shared-saved-variables/saved-variables-account-wide"
+import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
 import {
   cleanAccountCompletionInput,
   cleanCharacterCompletionInput,

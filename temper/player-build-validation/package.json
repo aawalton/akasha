@@ -1,6 +1,7 @@
 {
   "name": "@temper/player-build-validation",
   "dependencies": {
+    "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",
@@ -9,7 +10,6 @@
     "@temper/game-completion": "workspace:*",
     "@temper/shared-engine": "workspace:*",
     "@temper/shared-formula-framework": "workspace:*",
-    "@temper/shared-saved-variables": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

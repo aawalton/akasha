@@ -1,6 +1,6 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
 import { generateScribingTotalScriptCount } from "../generators/scribing-total-script-count.ts"
-import { generateTemperScribingSources } from "../generators/temper-scribing-sources.ts"
+import { generateTemperScribingSources } from "@akasha/temper-addon-generators/temper-scribing-sources"
 import { TEMPER_ADDONS_CHARACTERS_GENERATED_DIR, WEB_ENGINE_INVENTORY_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesScribing(
