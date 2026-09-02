@@ -40,6 +40,13 @@
     "./knowledge-settings-export-import": "./knowledge-settings-export-import/knowledge-settings-export-import.module.code.ts",
     "./knowledge-settings-panel": "./knowledge-settings-panel/knowledge-settings-panel.module.code.ts",
     "./knowledge-init": "./knowledge-init/knowledge-init.module.code.ts",
-    "./knowledge-init-chardata": "./knowledge-init-chardata/knowledge-init-chardata.module.code.ts"
+    "./knowledge-init-chardata": "./knowledge-init-chardata/knowledge-init-chardata.module.code.ts",
+    "./knowledge-base-data-recipes": "./knowledge-base-data-recipes/knowledge-base-data-recipes.module.code.ts",
+    "./knowledge-base-data-plans": "./knowledge-base-data-plans/knowledge-base-data-plans.module.code.ts",
+    "./knowledge-base-data-motifs": "./knowledge-base-data-motifs/knowledge-base-data-motifs.module.code.ts",
+    "./knowledge-base-data": "./knowledge-base-data/knowledge-base-data.module.code.ts",
+    "./knowledge-curated-motifs": "./knowledge-curated-motifs/knowledge-curated-motifs.module.code.ts",
+    "./knowledge-curated-invalid-ids": "./knowledge-curated-invalid-ids/knowledge-curated-invalid-ids.module.code.ts",
+    "./knowledge-curated-style-quality": "./knowledge-curated-style-quality/knowledge-curated-style-quality.module.code.ts"
   }
 }

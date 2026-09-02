@@ -43,6 +43,13 @@ export const temperLibCharacterKnowledge = {
     "module/knowledge-settings-panel",
     "module/knowledge-init",
     "module/knowledge-init-chardata",
+    "module/knowledge-base-data-recipes",
+    "module/knowledge-base-data-plans",
+    "module/knowledge-base-data-motifs",
+    "module/knowledge-base-data",
+    "module/knowledge-curated-motifs",
+    "module/knowledge-curated-invalid-ids",
+    "module/knowledge-curated-style-quality",
   ],
   invariants: [
     {
