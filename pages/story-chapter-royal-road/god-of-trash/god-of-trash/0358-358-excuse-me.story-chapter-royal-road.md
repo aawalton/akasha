@@ -1,0 +1,111 @@
+---
+id: 70b013c4-7cb5-5f93-8822-2bcda266d986
+page-type-slug: story-chapter-royal-road
+title: "358. Excuse Me"
+slug: 0358-358-excuse-me
+partOf: god-of-trash
+position: 358
+ownLength: 2045
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3901811/358-excuse-me"
+royalRoadId: "3901811"
+---
+
+Internally, Rhys sighed. No rest for the wicked. Trying not to let the exhaustion show on his face, he turned. “Yes?”
+
+A face he never wanted to see again gazed up at him, a big smile plastered across it. Ebi Sutaro stood there, hands clasped, all full of expectation and light.
+
+Wh-what? Don’t tell me. Did he see through me? He glanced at Leanne, but the giantess was unreadable, with a mild smile on her face and a detached gaze.
+
+“Sir, I wonder… would you be interested in a joint venture with myself? I could use a powerful backer for the new project I’m going to launch.”
+
+Oh. That’s not so bad. He’s just looking for a venture capitalist. Rhys shrugged. “Sorry, I’m busy. Maybe next time?”
+
+“Are you sure? You haven’t even heard the concept yet. You could be missing out on the opportunity of the century.”
+
+Ah… dammit. It’s this scam, isn’t it? Classic, honestly. “You could be missing out!” “Buy now!” “This stock could be worth a thousand AI Chip Stock!” If he’d seen it once, he’d seen it a thousand times.
+
+And yet, at the same time, he had lived long enough to see cryptocurrency hit 80k in value. He’d thought that was a scam and dismissed it like everyone else, and then regretted it when he could’ve bought in at $.001 and sold at $80,000. Sure, almost every other coin turned out to actually be a scam, and the rugpull memecoins and failed cryptos outnumbered the stars in the heavens, but what if he’d bought the right one? What if he’d been the one to back the winning horse?
+
+So, reluctantly, unwillingly… Rhys’s curiosity was piqued. Piqued, but not that piqued. He opened his mouth to reject it again.
+
+“What if we spoke over a meal? My treat, of course. There’s a restaurant nearby known for its high-quality duck. Of course, the Third Prince is welcome to join,” Ebi added, tossing a quick bow toward Ryota.
+
+Free food? Hold the phone. Sure, it was the trick that timeshares used to fool people into listening to a five hour lecture and try to force them into making the mistake of buying a timeshare, but, on the other hand, Ebi did think that Rhys was more powerful than him. If he got sick of listening to the guy’s lecture, he could just get up and leave. Worst case, they could blame it on Ryota’s royal duties, and what would he say then? No, you can’t go do your very important princely duties? Exactly.
+
+He had an offer of free food and an exit strategy. Fully equipped for battle, Rhys smiled and nodded. “I was just thinking I was feeling a mite peckish.”
+
+Ebi beamed. “Wonderful! Then, right this way?”
+
+Ebi waddled off. As he walked away, Ryota leaned in, extending a silence barrier around him as he did. “Are you insane? You aren’t actually Tier 8. What if he sees through your bluff?”
+
+“It’s worth it for free food.”
+
+Ryota hesitated. “I mean, the restaurant is expensive, but…”
+
+Rhys patted him on the shoulder. “Come on, where’s your sense of adventure? Let’s live a little. Who knows? We could end up backing the next NetFilms or something.”
+
+Sure, investing in crypto was a gambler’s bet, but if this guy actually had a legitimate business venture, then Rhys was in the seat of power as the venture capitalist. He could be the one to demand Ebi squeeze all the value out of his company and totally drain the worth of its brand and cheapen its wares to uselessness so Rhys could make another ten dollars! Anticapitalist, who? Not him! He loved money! Viva la capitalism!
+
+I think everyone would agree that venture capitalists are trash, right? And they trashify the world, too! They suck goodness out of everything they touch to make five more cents. They are the force behind the constant enshitification of my world. In fact, now that I’m thinking about it, the trashiest thing to be, the being that pushes the most garbage into the world while returning the least value… isn’t it the venture capitalist?
+
+Man, I was really out of my depths with that anticapitalism bullshit. Venture capitalism is definitely where trash like me belongs!
+
+“What’s Netfilms?” Ryota asked.
+
+“A big company. Makes lots of money. The point is, this could be a great investment. And if it isn’t, we got a free meal out of the deal. Isn’t that worth it?”
+
+Ryota sighed. “I could pay for us to eat there, you know.”
+
+“I mean, so could I, if your continent accepted gold, but that’s not the point. The point is not paying for a meal.”
+
+“Is that really that exciting?”
+
+Rhys frowned at him, then realized, slapping his fist into his palm. “You were never a broke college kid!”
+
+“A… what?”
+
+“Where I’m from, they send everyone to an adult teaching institution in their late teens-early twenties and give them no money. That way, even the upper middle class kids learn what it’s like to be broke! It’s a great social mixing block, and a real bonding experience for everyone to be poor for four years.” He paused. “Well, except the real hard workers who also had a job. And the brats who got allowances from their parents despite being basically adults. But for most of us, it’s a real shared cultural moment.”
+
+“And that relates to free meals… how?”
+
+“Well, you see, no one has money, and everyone’s young and still growing, right? So we’re all starving all the time, but we can’t buy any food. That means that whenever you get offered a free meal, you jump on it and inhale as much food as you can, because afterward you’ll be hungry again until the next free meal.” He thought for a second, then shrugged. “That’s a rough summary, anyways. We usually have access to a buffet style dining hall two to three times a day, so it’s not like it’s actual starvation. Everyone just gets sick of the dining hall and starts dreaming of anything else for dinner. Not me, though. I was a big fan of the slop.”
+
+“But you’re still obsessive over free meals, even so?”
+
+“Oh, sure. I mean, free meal’s a free meal, you know?” He loved the slop, but he also loved variety. A man could love two things at once and appreciate both of them equally at different points in time. Unless it’s women. Then that’s bigamy. Or cheating. Or NTR. I think? Well, only if one of the women has a boyfriend… maybe? I’d have to go research that to be sure. And unfortunately, I no longer have the ability to reach out and touch infinite… uh, intimate research sites with my fingertips.
+
+“I don’t know, actually. I was really hoping you’d explain. Also… if you were hungry and eating daily in your young adulthood, do you mean to tell me you weren’t a mage until adulthood? Shouldn’t that stunt your growth as a mage?”
+
+Rhys blinked. Huh. He’s right, I did mess up. I thought I could just talk about my past life under the guise of the other region, but no—my tongue definitely slipped there. “Eh… it’s complicated. Don’t worry about it.”
+
+“Every time I hear about it, I can’t help but think that your life sounds very complicated.”
+
+“You don’t know the half of it.”
+
+With one last hesitant look, Ryota dismissed the barrier of silence. Rhys stretched, then smiled and hurried to catch up with Ebi. Although this was a distraction, plain and clear, it was also an opening. A merchant had connections that he could only dream of. If the princes and the other higher-ranked members of this country were connected to the fierce mana plot, then they’d leave hints out. Things they didn’t think of, like purchasing certain supplies or renting certain halls. Rhys couldn’t discover things like that, but a merchant like Ebi could poke his nose in all those things without raising suspicion. So yes, it was a sidetrack; but it was a sidetrack that opened doors to his main objective.
+
+After all, he’d scanned a good portion of the city without sensing anything that lit up his alerts. Sure, it was a big city, and there was a lot of it, and he certainly did plan to walk the entire city and scan it thoroughly to be sure he hadn’t missed anything, but it wasn’t looking good for his standard search methods. Absent an obvious clue like that, he needed some method to obtain further access to areas he couldn’t otherwise get into.
+
+He had to admit, it did make sense that they wouldn’t just leave their fingerprints all over the capital. It wasn’t like the rural mortal-populated areas, where mages rarely went. This was a heavily mage-populated area, full of mages who loved sticking their noses into things they weren’t supposed to. It was true that most people wouldn’t consider the fierce mana as a thing to look into, but if this was the secret plot he thought it was (and it probably was), then they’d naturally cover their tracks in the place they were most likely to get caught. All they had to do right now was hide their… whatever in a warehouse outside the city, and he’d never find it.
+
+But with the excuse of helping Ebi on his side, he’d get invited to warehouses like that. And his enemy wouldn’t necessarily think to stop him, because his enemy, unlike Ebi, knew he wasn’t a Tier 8 expert. When Ebi spoke about him, the plotters wouldn’t think Ebi was speaking of him, so if Ebi was in contact with the plotters (or someone associated with the plotters, and so on and so forth), they wouldn’t alert to hear him speak of Rhys.
+
+Of course, he first had to find out what this opportunity was, and learn if it actually gave him the entry point he thought it did, so he followed Ebi into the restaurant, Ryota reluctantly at his heel.
+
+The restaurant was grand and gorgeous within, and the duck was just as delicious as promised. Leanne stood just behind Ebi the whole meal, a bit of a strange obstruction in the restaurant, but the servers flowed around her like water, clearly used to such behavior. There were only a few people in the restaurant at this hour, as it wasn’t around any mealtime. It shouldn’t have mattered to mages, who never needed to eat and therefore could decide they wanted to exercise their taste buds at any hour, but strangely enough, they still tended to dine, if they dined, on a two, if not three-meal schedule.
+
+A true businessman, Ebi let them get to desert before he finally sat up and set his silverware down. “I’m sure you’re curious what kind of proposition I have in mind.”
+
+“Quite,” Rhys replied, sitting up himself and trying to behave like a secret Tier 8 expert. He’d never met a Tier 8 person, let alone the kind of eccentric who’d hide themselves as Tier 5, but he did his best to exude the kind of dignity and as-if-I-care attitude they’d probably have.
+
+Wait. I might’ve met one. What Tier is Az? Last time I met him, I still couldn’t see through him. He considered acting like Az, but quickly dismissed the idea. Az was a cat, and he acted like one. If he started acting like that out of nowhere, Ebi would probably start thinking he was actually insane. Maybe even start doubting his Tier that he definitely didn’t have.
+
+Ebi leaned forward, extending his hand. A shimmering barrier appeared around them, surprisingly competently constructed, and for a second, Rhys wondered if this was Ebi’s specialty before he noticed the ring shining on the man’s finger. This wasn’t Ebi’s creation; it was a ring he was using.
+
+Wealth is its own form of power, Rhys reflected. In his world as much as this one, it seemed.
+
+The chubby man leaned in. “Listen closely, because I’ll only say this once. This is the opportunity of the century.”
+
+Let’s hear it. Cryptocoin? NFTs? AI graphics chips? Let me have it! Rhys leaned in, all but holding his breath.

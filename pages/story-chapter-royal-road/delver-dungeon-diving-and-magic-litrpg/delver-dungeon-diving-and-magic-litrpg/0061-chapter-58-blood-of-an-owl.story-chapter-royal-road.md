@@ -1,0 +1,225 @@
+---
+id: e9f7ec13-c84e-51b9-b259-e14b2d49c734
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58: Blood Of An Owl"
+slug: 0061-chapter-58-blood-of-an-owl
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 61
+ownLength: 2277
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3901721/chapter-58-blood-of-an-owl"
+royalRoadId: "3901721"
+---
+
+Rifts, the pathways through the spirit realm that lead directly to our realm. Cracks in our reality which anything may find its way through. Rifts are not always demonic in origin, of course, but there is an unfortunate truth; the demons have found their way here, and they won’t stop until they claim our home as their own. As such, they have created numerous rifts to our reality. Each rift is categorized by the power it will let through. At the lowest level, simple creatures, equivalent to Apprentice Mages can make their way through. At the highest level, a devil may traverse the spirit realms and into our home. Rifts of this magnitude are known as incursions, and each incursion must be met with an equal power, the descent of an Angel.
+
+The Infernal, by High Priest Storm, Chapter 2 Page 2
+
+I mark down the last of the items as their placed in packs, and take the three specialized daggers from Keve’s hands, slipping them into my backpack.
+
+“Alright,” I push the notebook into its slot in my pack, “Everyone grab a cloak and a dagger or sword. There are undead in the depths, and I’d rather be prepared.” I reach up to my neck, and the collar I’m wearing appears under my fingers, “I put one of these on as well, but I know how a collar looks. It’s designed to ‘prevent necromantic tampering and demonic corruption’. So if you’re comfortable with it and want to take one, let me know.” I let it go, and it disappears again.
+
+The mercenaries and Keve put them on without question. Tanya shoots me a glance, then puts one on in a swift movement, clicking it closed. Eyla does the same a moment later.
+
+I hold one out to Commander Vakar. He takes it, studying it for a long moment before glancing up at me. He holds my gaze for a long moment before putting it on.
+
+“Commander-“ One of the other Dralk start.
+
+“This is a … in trust, Alora.” Commander Vakar interrupts.
+
+“You don’t have to wear them.” I zip up my pack, “like I said, I know how it looks.”
+
+The female Dralk looks at me for a long moment, then grabs one of the collars and places it around her neck, the others do the same.
+
+Once everyone is equipped with the Owl cloaks and swords, I look over the group with a smile, “We’re about to go down into the most dangerous part of the delve. Don’t go anywhere without checking with me or Shar. Dangers are likely to include Undead and possessed mages from before the destabalization” I look over to Commander Vakar, “Your people need to prioritize disrupting any magic. Grildor, Libby, you know the drill. Eyla’s our heavy hitter. Keve, stay back for any surprises.”
+
+I receive a series of nods, and everyone grows serious. We do a quick check of weapons and armor, then I lead us over to the last door.
+
+Grildor and Commander Vakar take point as they push the heavy door open. Grildor hefts his shield, then starts down, the Commander behind him hold up the light I’d loaned him, illuminating the door at the end of the stairs.
+
+Once more, he sets himself against it and opens it to reveal the medical ward. Immediately, Shar swoops into the room, looking for dangers. She reappears a second later, saying it’s clear. The Dralk spread out into the room, one of them making their way to the door leading deeper, and standing guard against the darkness..
+
+The rest of the group walks into the room, and I organize people into gathering items. Medical implements and shackles from the beds. Tanya organizes the potions from the cabinets, little sounds of amazement escaping her as she grabs the items and brings them over for me to mark in my book.
+
+Pill Of Hidden Death
+
+This potions hides all signs of life, allowing one to blend in with the dead or undead.
+
+Medical Identification Lens
+
+This lens allows one to identify magical afflictions of the body, mind, and soul.
+
+Operative Pill
+
+Allows a skilled operative to subsume their identity beneath a mental illusion of a devout follower of the demonic or undead. All psychic or mental magic will only find the mental illusion.
+
+Scalpel
+
+Enchanted to stay sharp and clean, this scalpel can cut through tough materials with ease.
+
+Corruption Shackles
+
+These shackles restrain demonic and undead energies, while being enchanted to resist great force.
+
+Life Cleansing Pill
+
+Using Life aligned mana, this pill will cleanse an operative of foreign energies.
+
+Pill Of Reinvigoration
+
+This potion boosts the soul and body of a being, helping them resist various afflictions.
+
+I’m happy with the haul, as I continue to mark things down. Most of the various potions are no longer effective, having rotted with time. Thankfully, the pills seem to have stood the test of time. Tanya also finds several ingredients that she happily packs away. Packs fill up quickly from the items in the room, even with the extra bodies to carry things.
+
+The final thing I grab is several Demonic Pinning Bracelets from the desk next to the skeleton, then everyone gathers in front of the door leading further down.
+
+Shar walks into the darkness, then returns moments later, “The corpse is gone.”
+
+“Corpse?” I ask.
+
+“Of Zakar?”
+
+She nods.
+
+Hells, that’s not good. I look over the group. “Prepare for the worst.”
+
+I receive nods.
+
+Grildor once more leads the way down.
+
+I surreptitiously take my glove off and slip a ring onto my finger. I’d rather not show my magic in front of the Dralk, but there are dangerous things down here, and not preparing for them would be stupid.
+
+Ring Of Life
+
+Enchanted to resist the effects of time. Mana that travels through this ring will become Life aligned, and increase the effect of healing spells.
+
+The stairs lead down into the cavernous room. The rings of teleportation glow with mana, illuminating the space, and I have everyone dim their lights so that we can adjust to the dimmer lighting.
+
+The owl statue with its discarded wings looks down at us, the desecrated statue haunting in its beauty. We spread out as we leave the stairs, still keeping close formation.
+
+My gaze sweeps the room, then I pause.
+
+A gate in the back, it’s open. It was closed when I was last here.
+
+My danger sense goes off.
+
+“Incoming!” My voice echoes through the space as people draw their blades. I pull my light stone out, and make it go as bright as it can, illuminating the space.
+
+A shambling corpse raises its hand on the other end of the room. A second circle spell already formed around his hand.
+
+I hurry to read the twisted symbols.
+
+“Warlock!” Shar yells from above, then pauses, “Two more coming!”
+
+The Dralk around the room move as one, towards the undead mage. A roar echoes out from the open gate as another undead leaps out, meeting the Dralk warriors. This one is large, towering over everyone in the room.
+
+“General Class: Monstrous! There’s also a Stalker!” Shar calls out, “I’ve lost sight of it.”
+
+“Daron, find the Stalker!” I call out as frost spreads around us, covering the floor.
+
+The warlock’s spell finishes before I can counter it.
+
+Two spears form, then shoot forwards towards the middle of our group.
+
+Grildor steps forward, meeting the spears as his shield expands. He curses as he’s pushed back.
+
+The same two spell circles start to form, and I frown.
+
+Why cast the same low circle spell? Zakar had been capable of six circles, unless…
+
+I think Zakar had been possessed by a demon. What I saw Masia do was pull that demon from the body, leaving the husk behind. That means that this undead is newly formed. Low level. He probably only has the singular spell from his class. How is that possible? Necromancy shouldn’t work here. Whatever the case is, this undead isn’t the same terrifying creature Zakar was.
+
+“Focus on the other two!” I call out, “The Warlock is level one!”
+
+Eyla nods, three spell circles forming as her frost covers the room.
+
+I focus on the warlock, beginning my own cast as I pull my wand from my pocket. He’s using a death spell, which means I know how to counter it. Except, he’s using a novice spell.
+
+I haven’t managed one of those yet.
+
+There’s no time like the present, and I’ve already managed a dual cast. I can do this. He’s using an identity of death, with one desire being Spear. I don’t recognize the second desire. Still the same counterspell I’d used against the blood mage should work…
+
+Stillness, Life, Nothing
+
+One circle complete. I start the formation of the other around it, channeling my mana through my ring and the wand.
+
+Transformation, Life, Return
+
+Our spells finish simultaneously, and his spears of darkness form, only to be met by a wave of life. I expect them to cancel each other out, but instead, my spell blasts through his spears and hits him.
+
+The Undead screams as his flesh withers even further from the husk it was.
+
+I blink in surprise, then I’m yanked backwards by our medic, a scythe of blackness swiping through where my neck had been.
+
+Keve is there a second later, a trail of fire following him as his blades meet the stalker’s scythe.
+
+The stalker fades into black mist, and Keve chases it. I miss his strike, as Libby grabs me and pulls me back again. A blade of darkness flies through where I’d been, cutting the leather armor of my arm and nicking my skin.
+
+Immediately blackness spreads around the cut, and I fall to the floor.
+
+Libby’s hair covers my vision as she channels her skill into me. I take deep breaths as her skill pulses through me, pushing the darkness back.
+
+Above me, I feel as Eyla’s spell finishes and hundreds of blades of ice fly forward.
+
+A roar from the undead Monstrosity is cut off suddenly.
+
+“You’ll be okay, Leo. Just focus on me.” Libby’s voice is hard, her gaze focused as another skill moves through me.
+
+“Yes ma’am.” I smile slightly, then grimace from sudden pain.
+
+A command echoes across the room from Commander Vakar, but I’m having too much trouble focusing to translate the Dralk words.
+
+The rattling of a chain echoes through the room before we’re surrounded by silence once more.
+
+A few minutes pass as Libby continues to push her skills into me.
+
+“Is he alright?”
+
+I turn my head to see Commander Vakar standing there. He looks alright, although blood is trailing down his arm.
+
+Libby nods, then glances up. “I’ll heal you in a second. Is Keve injured?”
+
+“He got nicked, but he’s handling it better than our Delver. He can wait for you to finish.“ Commander Vakar turns his gaze to me. “We closed the gate. Nothing else has come through.”
+
+I nod my head, “Good. Did we lose anyone?”
+
+“No, me and you are the worst of it.”
+
+I let out a breath, “I’m glad to hear it.”
+
+Libby finishes up, then offers me a hand. I take it, and sit up slowly. A quick glance around the room shows the monstrosity punctured by hundreds of spears of ice, and the burned corpse of the stalker cut into two pieces.
+
+Libby hurries over to Keve, who is meditating nearby, the fire of his tattoos fighting the blackness of several cuts.
+
+I push myself off the ground slowly, and the Dralk Commander steps closer, helping me get my balance.
+
+“Thank you.”
+
+“Of course.”
+
+I look around the room, the delve party watching the room carefully. “Let’s take a break. I need to find the next room anyway.”
+
+The Commander nods, and the group gathers around the stairs leading upwards.
+
+I make my way around the room, studying the walls. The place is too filled with the mana of the teleportation circles for my mana-detector to do much, still good old fashioned observation shows just two gates leading onwards. Masia had pointed me behind the owl structure, but blowing blue dust doesn’t reveal any runes, and the wall looks spotless.
+
+I stare at the wall for a good minute, then glance towards where I know the party to be. The statue hides me from them fairly well.
+
+I’m not sure if the Dralk saw me casting magic or not, but I don’t have to many ways to find the hidden room that I haven’t tried.
+
+After a second’s hesitation, I cast See History Of Object on the owl.
+
+Time rewinds.
+
+The owl slowly returns to what it once was, the wings sliding into place until they cover the room with their protection. Once more, they stand still, until a drop of blood touches the statue. A familiar symbol of an eye forms on the owl’s back, twisting and turning and opening something.
+
+I cancel the spell, and the owl returns to as it was. No exclamations of surprise comes from the other side of the owl, confirming that I’m the only one who sees the effects of my spell.
+
+I step closer, tracing the stone with my fingers and finding the symbol etched there, nearly invisible to the eye.
+
+I need the blood of someone descended from the owls. Blood that Masia told me I didn’t have, but someone I travel with does possess.
+
+There’s one person who does occur to me. She got the map here from her grandfather after all.
+
+Eyla might be able to open the door.

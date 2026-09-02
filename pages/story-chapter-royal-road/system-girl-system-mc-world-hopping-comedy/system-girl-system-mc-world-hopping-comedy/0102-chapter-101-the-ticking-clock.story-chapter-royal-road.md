@@ -1,0 +1,187 @@
+---
+id: 7f2bdda2-9483-5d7c-b63f-0c17408b700a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101: The Ticking Clock"
+slug: 0102-chapter-101-the-ticking-clock
+partOf: system-girl-system-mc-world-hopping-comedy
+position: 102
+ownLength: 2293
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3901684/chapter-101-the-ticking-clock"
+royalRoadId: "3901684"
+---
+
+I was currently engaged in the incredibly important task of monitoring the live feed of Lily sprawled over Ren.
+
+Ren was snoring, flat on his back. Lily was splayed out on top of him, completely dead to the world, drooling a thick, glistening puddle of spit right onto his velvet chest.
+
+It was, objectively, the cutest thing in the multiverse.
+
+Watching the two of them sleep was usually the only thing that kept me sane during the long, dark hours. This time of night is typically the absolute worst for me. I don’t need sleep. I haven't slept since I died. Usually, the silence of the house just amplifies the emptiness of my own existence. When Lily was in the nursery, the night dragged on forever. But right now, providing over-watch for a drooling toddler and a snoring chef was top-tier entertainment.
+
+Although, while browsing the deepest, most obscure corners of the module catalogue out of sheer boredom, I had stumbled upon a new addition.
+
+It was called the "Sleep Module." It was essentially a localized time-dilation protocol that made time feel like it passed significantly faster for the System, effectively putting me into a deep sleep mode until the host woke up.
+
+I didn't buy it for two very specific reasons.
+
+First of all, adding that module would make me feel like I was just someone's desktop PC being put into sleep mode to save electricity. It was incredibly demeaning.
+
+The second, and far more important reason, was the audit trail. If I bought it, the purchase would be permanently logged in the system backend. Any Moderator could check it and immediately question the unnatural usage of SPP for an Observer-class unit. Observers don't sleep. We watch.
+
+The only thing keeping me from spending my massive, hard-earned stockpile of SPP was this exact reason. The paralyzing fear of the purchases looking unnatural to an auditor.
+
+I had managed to find a workaround for some things. While Ren was going through the system UI a few weeks ago, he found a nifty tab in his settings menu called "System Upgrade."
+
+After reaching System Level 3, a user can actually use their own generated credits to upgrade their designated System. The catalogue available to the user is incredibly laughable and barren compared to what I can access from my backend. The options showed to Ren were mostly boring things like minor OS upgrades or adding basic modules that would be useful for him—some of which were already active and purchased like the Shop.
+
+Basically, the things displayed there seemed to be auto-cataloged and sorted for Ren's specific playstyle.
+
+One of the upgrade options that showed up for Ren was installing a module that essentially turned me into an automated inventory and profit calculator. The preview images of the module looked exactly like a depressing Excel spreadsheet.
+
+Sadly, there was no coffee machine module listed there. Maybe one day I'll find a host that needs sudden, massive bursts of processing power, and the coffee machine will show up for them as a tactical buff. That would be so much better. I could force my user to pay for my coffee habits.
+
+One other terrifying thing I found out while I sent a quiet, encrypted query about this specific menu: these user-purchased modules are temporary. Whenever I am forced to change a host, they will disappear from my core programming.
+
+It completely explains why the Shop and Quest modules I received when I first arrived in this weird world were explicitly labeled "Temporary." Sad, but such is life.
+
+One of the modules currently offered to Ren, though, was the Voice Module upgrade. It would grant me the temporary voice module again, so I could finally communicate with him vocally instead of using these cold, text-based prompts.
+
+Ren actually offered to buy it for me.
+
+I refused.
+
+First, it is temporary. Second, I brought up the fact that I was a temp system and could be called away anytime by the higher-ups. Reminding him of that made the mood in the room incredibly gloomy, so we dropped it.
+
+One thing I was super happy about was that the settings tab didn't have a "Factory Reset" option available to the user. When Ren first stumbled into that tab, I was having an internal panic attack. I felt my phantom stomach drop to my knees. If the user could reset me at will, that would be absolutely terrifying.
+
+I checked my balance. I had exactly 10K SPP sitting in my account from all the commissions I received from Ren's aggressive, monopolistic purchases. But alas, I need to act like I am a normal, boring system. Nothing odd to see here. I am no sentient Skynet, yes yes, so there is absolutely no reason for management to factory reset me.
+
+Just as the deep purple glow of pre-dawn was starting to seep into the room through the cracks in the curtains, a sudden notification arrived in my HUD corner.
+
+A bright red pop-up appeared.
+
+[TICKET COMING TO AN END. SUITABLE MODERATOR FOUND. ETA TO END: 2 DAYS, 23 HOURS, 59 MINUTES, 23 SECONDS]
+
+My phantom breath caught in my throat.
+
+Well. That's it. What I was fearing had finally come to fruition. It was time for me to leave.
+
+Even though I don't have a body, I felt a terrible, crushing tightness in my chest. If I had eyes, I know I would be crying right at this moment. I don't want to leave them.
+
+I had built a very strong bond with these people. They have become my people.
+
+I can't watch Lily grow up.
+
+I can't make sarcastic, cutting comments about Ren's food while secretly wishing I could taste it.
+
+The people here are very warm and welcoming. I was genuinely hoping to at least set up Ren with Mira before I was forced to leave. It looks like I won't be able to do so.
+
+Sorry Ren, I thought, a phantom lump forming in my throat. I can't be your wing woman anymore.
+
+I watched the counter slowly tick down. I was completely helpless. The purple glow outside slowly turned a bright, pale yellow through the curtains, signifying the sun had finally come up.
+
+The timer showed: [ETA TO END: 2 DAYS, 22 HOURS, 55 MINUTES, 13 SECONDS]
+
+The clock was ticking. I don't know how I am going to break this news to Ren. All he knows is that I can disappear anytime. I am just glad that I can at least say a proper goodbye to him.
+
+I watched as Sylas entered the room, pulling open the grand curtains. The bright morning light streaming in woke Ren up.
+
+Ren seemed to be in a very good mood. After all, he was fearing Lily would be ostracized from society. It turns out, no one even found out she is a half-elf.
+
+Plus, he doesn't need to keep her hidden away in the shadows now that we know the innate control of a High Elf is significantly higher than the magic of the restrictive contracts. She can even go to the Royal Academy in Dolaria, or Ren can freely let other elves and half-elves interact with her to a certain extent without fear of them reporting her.
+
+Sylas called in the other attendants, who began tidying up the messy room. Mira arrived and gently took Lily away. The toddler had just woken up and was dozing off again while sitting heavily on Ren's chest.
+
+What, no fog horn to wake me up? Ren asked mentally, stretching his arms. Is my smart alarm clock malfunctioning today?
+
+[Ana: I was just letting you sleep in. You deserve a bit of rest after the past few weeks. Also, Lily was sleeping on your chest. I can't have you jumping up and waking her up.]
+
+Ren grumbled playfully as he stood up. So you were only considerate for Lily's sake. You know, it couldn't hurt for you to be nice to me once in a while.
+
+That stung.
+
+It stung especially hard considering the timer constantly ticking down in the corner of my vision.
+
+I did something I usually don't do. I dove into the backend. I spent 2,000 SPP to generate fifty unique coupon codes with unlimited validity. Each one offered 95% off on any item in the System Shop.
+
+I used the quest module to generate the delivery method. I set it as a reward. Ren needed to run three laps around the estate to earn the bundle of coupons.
+
+The quest appeared on Ren's HUD in bright gold letters.
+
+He stared at it, completely dumbfounded.
+
+Why is he reacting like that? I wondered, feeling a phantom blush of embarrassment.
+
+[Ana: Don't tell me you're about to complain about needing to run. Don't you do a light jog every morning around the estate anyway? Five rounds is your usual.]
+
+No, Ren replied, his mental voice soft and slightly hesitant. It's just... you have never done something like this for me before. You do it for other people. But with me, you always act like the ultimate capitalist tyrant.
+
+[Ana: Keep yapping and I will cancel the quest.]
+
+Ren jumped off the bed. Clearly afraid this was all an elaborate ruse for me to torment him, he began running toward the courtyard.
+
+The pups, upon seeing him bolt, also began running, bounding happily behind him in the early morning light.
+
+He ran full force, genuinely believing this was one of my usual ploys to mess with him and snatch the reward away at the last second.
+
+When he finally completed the last lap, he leaned against a pillar, panting heavily. He acted like he had just beaten me in a battle of wits.
+
+[Ana: Keep acting like this and I am never doing anything nice for you ever again.]
+
+Ren was just about to apologize to me when Sylas appeared on the veranda, informing Ren that breakfast was ready.
+
+…
+
+Ren sat at the polished dining table, nursing a steaming mug of imported coffee.
+
+Lily was thoroughly enjoying her favorite fluffy, creamy scrambled eggs. Lily was eating with fierce determination, shoving the eggs into her mouth one messy, chubby fistful at a time. Her blue overalls were already dotted with yellow crumbs. She let out a contented, bubbling sound around a mouthful of food, looking perfectly at peace in her custom-built high chair.
+
+Sylas was going through the morning mail when he stumbled upon an ornate envelope. It looked quite similar to the royal one they had received last week. Upon closer examination, it did indeed bear the heavy wax seal of the royal family.
+
+Sylas opened it carefully and handed the heavy parchment to Ren.
+
+The letter read:
+
+To Lord Ren Fenris, Head of House Fenris.
+
+By decree of His Imperial Majesty, King Augustus of Dolaria, you are hereby invited to attend a formal trial of the Peerage. Lord Greenwood, Count of the Realm, has committed treasonous infractions against the Crown and shall be judged accordingly.
+
+Lady Parisa, acting in her capacity as Royal Inspector, has uncovered significant misgivings and abuses of power within the Greenwood estates. Your presence is required as a witness to the Crown.
+
+The event shall commence at dusk.
+
+Ren handed the letter back to Sylas.
+
+The butler smiled thinly upon reading it. "It appears Lady Parisa has done her work quickly. I shall prepare her guest room. I have a strong feeling she will make a visit to you very soon."
+
+When Sylas left the dining room, Ren elated to me.
+
+Well. When it rains, it pours.
+
+I, on the other hand, was distracted. I was thinking the letter was probably sent today specifically to stop too much gossip from spreading before the trial even started. I didn't pay any attention to Ren's thoughts.
+
+Ana? Ren asked, his mental voice sharp. What's wrong with you? You're acting very odd today.
+
+He was right.
+
+I don't want to do this now. I don't want to pour freezing water all over his fun and his triumph. But it is better to rip the bandage off now than later.
+
+[Ana: Remember when I told you this ticket is temporary? And that I am a temp worker here?]
+
+Ren stood up sharply, scraping his chair loudly across the wooden floor.
+
+The harsh sound grabbed Lily's attention away from her food for a moment. She blinked at him, then went right back to eating happily.
+
+Didn't you say you would deal with it? Ren scrambled to say, panic bleeding into his mental tone. You can't leave like this.
+
+[Ana: Yes. But I have superiors I need to heed. I will try my absolute best to be reassigned back here. Don't worry. I just have to deal with the bureaucratic jargon back at the main hub.]
+
+I could feel his mood souring completely. A cold knot formed in his stomach. I felt the phantom sting of tears threatening to pour out.
+
+[Ana: Hey. Don't cry on me. I said this is not a permanent goodbye. I will be back.]
+
+I know, Ren thought back, his mental voice raw and breaking. But you're my first friend. Even in my old world, I was a loner with no one to talk to. After coming to this world, you have been with me from the very first moment. I'll miss you a lot.
+
+[Ana: Don't be like that. You'll make me cry, and I don't even have tear ducts. This is not a goodbye. Think of it as a 'see you later'. So please, send me off with a smile. I don't want my last memories of this place to be of sadness. I want them to be filled with normal, warm happiness.]
