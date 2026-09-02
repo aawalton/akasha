@@ -2,8 +2,13 @@ declare const ZO_ScrollList_Initialize: (this: void, listControl: Control) => vo
 
 declare const ZO_ScrollList_AddResizeOnScreenResize: (this: void, listControl: Control) => void
 
+interface ZoObjectPool<TObject = Control> {
+  m_Factory: (this: void, pool: ZoObjectPool<TObject>, objectKey?: unknown) => TObject
+}
+
 interface ZoScrollListDataType {
   hideCallback?: (this: void, rowControl: Control, slotData: InventoryRowSlotData) => void
+  pool: ZoObjectPool
 }
 
 declare const ZO_ObjectPool_DefaultResetControl: (this: void, control: Control) => void
