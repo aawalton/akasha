@@ -1,11 +1,5 @@
 {
   "workspaces": {
-    "shared/auth": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "akasha/design/layout": {
       "entry": [
         "**/*.test.{ts,tsx}"

@@ -43,7 +43,6 @@
     "media/cli",
     "native-shell/atlas",
     "readouts",
-    "shared/auth",
     "shared/pages-query",
     "shared/pages-ui",
     "shared/utils-test",

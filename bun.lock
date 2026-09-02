@@ -2548,19 +2548,6 @@
         "@types/bun": "^1.3.9",
       },
     },
-    "shared/auth": {
-      "name": "@shared/auth",
-      "version": "0.1.0",
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "@types/react": "^19",
-        "react": "^19.2.0",
-        "typescript": "^5.8.3",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-      },
-    },
     "shared/pages-query": {
       "name": "@shared/pages-query",
       "version": "0.1.0",
@@ -4324,8 +4311,6 @@
     "@rollup/rollup-win32-x64-gnu": ["@rollup/rollup-win32-x64-gnu@4.63.0", "", { "os": "win32", "cpu": "x64" }, "sha512-ujeqEY3B+zbGn3Z4Q03cUBG/LGWnBJncVT36WER31LcOsQk9+1dmINKKtvmmfChUvRbK1G0R8OhMWFgHgaZtAw=="],
 
     "@rollup/rollup-win32-x64-msvc": ["@rollup/rollup-win32-x64-msvc@4.63.0", "", { "os": "win32", "cpu": "x64" }, "sha512-hncn90N4sOky0L2LKE5oESKLbxCPeVo4eLA2LSMoDzM+879ml4WSr+Rr4DWknNIVVvS1Hirkc9hx02W6YxS8rQ=="],
-
-    "@shared/auth": ["@shared/auth@workspace:shared/auth"],
 
     "@shared/pages-query": ["@shared/pages-query@workspace:shared/pages-query"],
 
