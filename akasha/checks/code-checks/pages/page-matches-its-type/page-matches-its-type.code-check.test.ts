@@ -6,6 +6,7 @@ import { type Formatting, matchingIn } from "@akasha/pages-system/name-format/fo
 import type { Carried } from "@akasha/pages-system/page-type-properties"
 import type { Value } from "@akasha/pages-system/page-value"
 import { shadowFor } from "@akasha/pages-system/shadow"
+import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
@@ -59,16 +60,12 @@ function slugsIn(declared: readonly Carried[]): readonly string[] {
   return declared.map((one) => one.pagePropertySlug)
 }
 
-function bytesFor(bodies: Readonly<Record<string, string>>): (path: string) => Uint8Array | null {
-  return (path) => {
+function bytesFor(bodies: Readonly<Record<string, string>>, root?: string) {
+  const disk = root === undefined ? (): null => null : onDisk(root)
+  return (path: string): Uint8Array | null => {
     const said = bodies[path]
-    return said === undefined ? null : new TextEncoder().encode(said)
+    return said === undefined ? disk(path) : new TextEncoder().encode(said)
   }
-}
-
-function changing(root: string, bodies: Readonly<Record<string, string>>): Change {
-  const at = bytesFor(bodies)
-  return { root, changed: Object.keys(bodies).sort(), after: at, before: at }
 }
 
 function judged(change: Change): readonly Judged[] {
@@ -80,7 +77,8 @@ function judged(change: Change): readonly Judged[] {
 function judgedOver(bodies: Readonly<Record<string, string>>): readonly Judged[] {
   const root = scratch.rootFor("akasha-matches-")
   nothingFiled(root)
-  return judged(changing(root, bodies))
+  const at = bytesFor(bodies)
+  return judged({ root, changed: Object.keys(bodies).sort(), after: at, before: at })
 }
 
 function landing(
@@ -91,7 +89,7 @@ function landing(
   return judged({
     root,
     changed: Object.keys(now).sort(),
-    after: bytesFor(now),
+    after: bytesFor(now, root),
     before: bytesFor(was),
   })
 }
@@ -307,13 +305,14 @@ test("a required property named as excused is not asked for, and the rest of the
   expect(excusing("id")).toEqual(["does not state `test`, which `page-type/check` requires"])
 })
 
-function overThing(standing: boolean, generator = "waiting"): readonly Judged[] {
-  const bytes = new TextEncoder().encode(THING_BODY)
+function overThing(already: boolean, generator = "waiting"): readonly Judged[] {
+  const held = { [THING_AT]: THING_BODY }
+  const root = generating(scratch.rootFor("akasha-generating-"), generator)
   return judged({
-    root: generating(scratch.rootFor("akasha-generating-"), generator),
+    root,
     changed: [THING_AT],
-    after: (path) => (path === THING_AT ? bytes : null),
-    before: (path) => (standing && path === THING_AT ? bytes : null),
+    after: bytesFor(held, root),
+    before: bytesFor(already ? held : {}),
   })
 }
 
