@@ -28,6 +28,7 @@
     "./shell-script": "./shell-scripts/shell-script.page-type.ts",
     "./stylesheet": "./stylesheets/stylesheet.page-type.ts",
     "./type-declaration": "./type-declarations/type-declaration.page-type.ts",
+    "./typing-keeping": "./typing-keeping/typing-keeping.module.code.ts",
     "./workspace-package": "./workspace-packages/workspace-package.page-type.ts"
   },
   "dependencies": {

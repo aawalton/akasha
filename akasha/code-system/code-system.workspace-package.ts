@@ -26,6 +26,7 @@ export const codeSystem = {
     "module/code-rule",
     "module/code-source",
     "module/code-typing",
+    "module/typing-keeping",
     "module/code-tests",
     "module/code-format",
     "module/code-lint",
