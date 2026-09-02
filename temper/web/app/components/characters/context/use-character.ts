@@ -1,6 +1,6 @@
 "use client"
 
-import type { CharacterState } from "@temper/game-characters-character/build-types"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { useCallback, useContext } from "react"
