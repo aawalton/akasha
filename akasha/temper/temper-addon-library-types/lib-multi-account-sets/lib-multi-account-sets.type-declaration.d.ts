@@ -10,7 +10,7 @@ interface LibMultiAccountSetsApi {
 
   RegisterForCallback: (name: string, event: string, callback: (this: void) => void) => void
 
-  GetServerAndAccountList?: ?(includeCurrent: boolean) => LmasServerEntry[]
+  GetServerAndAccountList?: (includeCurrent: boolean) => LmasServerEntry[]
 
   GetNumItemSetCollectionSlotsUnlockedForAccountEx: (
     server: string | undefined,

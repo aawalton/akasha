@@ -46,7 +46,7 @@ interface LibCodesCommonCodeApi {
   GetServerName: (this: void) => string
   MonitorZoneChanges: (this: void, name: string, callback: (this: void) => void) => void
   GetZoneId: (this: void) => number
-  GetServerAndAccountList?: ?(this: void, includeCurrent: boolean) => unknown
+  GetServerAndAccountList?: (this: void, includeCurrent: boolean) => unknown
   Int32ToRGBA: (this: void, value: number) => LuaMultiReturn<[number, number, number, number]>
   HSLToRGB: (
     this: void,
