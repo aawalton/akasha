@@ -2031,6 +2031,29 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-web": {
+      "name": "@akasha/temper-web",
+      "dependencies": {
+        "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
+        "@akasha/design-system": "workspace:*",
+        "@akasha/errors-client": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-ui-store": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
+        "isbot": "^5.1.36",
+        "lucide-react": "^0.576.0",
+        "react": "19.2.0",
+        "react-dom": "19.2.0",
+        "react-router": "7.15.1",
+      },
+      "devDependencies": {
+        "@react-router/dev": "7.15.1",
+        "@types/react": "^19",
+        "@types/react-dom": "^19",
+      },
+    },
     "akasha/testing-system": {
       "name": "@akasha/testing-system",
     },
@@ -3472,6 +3495,8 @@
     "@akasha/temper-upstream-data": ["@akasha/temper-upstream-data@workspace:akasha/temper/temper-upstream-data"],
 
     "@akasha/temper-watcher": ["@akasha/temper-watcher@workspace:akasha/temper/temper-watcher"],
+
+    "@akasha/temper-web": ["@akasha/temper-web@workspace:akasha/temper/temper-web"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
 
