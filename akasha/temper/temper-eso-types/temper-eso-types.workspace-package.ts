@@ -103,5 +103,6 @@ export const temperEsoTypes = {
     "type-declaration/eso-lib-sets-strings-2",
     "type-declaration/eso-lib-sets-ui",
     "type-declaration/eso-reticle-interaction",
+    "type-declaration/eso-main-menu-bar",
   ],
 } as const satisfies WorkspacePackage

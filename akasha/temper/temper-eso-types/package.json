@@ -66,6 +66,7 @@
     "./eso-link-handler": "./eso-link-handler/eso-link-handler.type-declaration.d.ts",
     "./eso-lore-library": "./eso-lore-library/eso-lore-library.type-declaration.d.ts",
     "./eso-mail": "./eso-mail/eso-mail.type-declaration.d.ts",
+    "./eso-main-menu-bar": "./eso-main-menu-bar/eso-main-menu-bar.type-declaration.d.ts",
     "./eso-map-ui": "./eso-map-ui/eso-map-ui.type-declaration.d.ts",
     "./eso-objects-01": "./eso-objects-01/eso-objects-01.type-declaration.d.ts",
     "./eso-objects-02": "./eso-objects-02/eso-objects-02.type-declaration.d.ts",

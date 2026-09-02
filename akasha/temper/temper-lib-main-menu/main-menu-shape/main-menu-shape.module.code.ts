@@ -16,7 +16,7 @@ export interface Lib {
   tabPressedCallback: (this: void, ctrl: TabControl) => undefined
   sceneShowCallback: (this: void, oldState: number, newState: number) => undefined
   sceneShowGroupName?: string
-  categoryInfo: Record<Descriptor, LmmCategoryInfo>
+  categoryInfo: Record<number | string, LmmCategoryInfo>
   sceneInfo: Record<string, LmmSceneInfo>
   sceneGroupInfo: Record<string, LmmSceneGroupInfo>
   categoryAreaFragments: SceneFragment[]
@@ -25,12 +25,12 @@ export interface Lib {
   Init: (this: Lib) => undefined
   AddMenuItem: (
     this: Lib,
-    a: Descriptor,
+    a: number | string,
     b: string | LmmCategoryLayoutInfo,
     c?: LmmCategoryLayoutInfo,
     d?: string
   ) => undefined
-  SelectMenuItem: (this: Lib, descriptor: Descriptor) => undefined
+  SelectMenuItem: (this: Lib, descriptor: number | string) => undefined
   Refresh: (this: Lib) => undefined
   SetupSceneGroupBar: (this: Lib, category: number, sceneGroupName: string) => undefined
   AddCategory: (this: Lib, data: LmmCategoryLayoutInfo) => number

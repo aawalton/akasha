@@ -1,5 +1,3 @@
-import "../main-menu-game-shape-1/main-menu-game-shape-1.module.code.ts"
-import "../main-menu-game-shape-2/main-menu-game-shape-2.module.code.ts"
 import type { TextureFn } from "../main-menu-casts/main-menu-casts.module.code.ts"
 import {
   asLmmCategoryInfo,
@@ -17,13 +15,16 @@ import { MAJOR, MINOR } from "../main-menu-version/main-menu-version.module.code
 
 export const LIB: Lib = { name: MAJOR, version: MINOR } as Lib
 
-function addButton(descriptor: Descriptor, categoryLayoutInfo: LmmCategoryLayoutInfo): undefined {
+function addButton(
+  descriptor: number | string,
+  categoryLayoutInfo: LmmCategoryLayoutInfo
+): undefined {
   categoryLayoutInfo.descriptor = descriptor
   ZO_MenuBar_AddButton(getMainMenu().categoryBar, categoryLayoutInfo)
 }
 
 function addScene(
-  descriptor: Descriptor,
+  descriptor: number | string,
   sceneName: string,
   categoryLayoutInfo: LmmCategoryLayoutInfo,
   sceneGroupName?: string
@@ -84,7 +85,7 @@ function addScene(
 }
 
 function addButtonWithScene(
-  descriptor: Descriptor,
+  descriptor: number | string,
   sceneName: string,
   categoryLayoutInfo: LmmCategoryLayoutInfo,
   sceneGroupName?: string
@@ -102,7 +103,7 @@ LIB.Init = function (this: Lib): undefined {
 
 LIB.AddMenuItem = function (
   this: Lib,
-  a: Descriptor,
+  a: number | string,
   b: string | LmmCategoryLayoutInfo,
   c?: LmmCategoryLayoutInfo,
   d?: string
@@ -114,7 +115,7 @@ LIB.AddMenuItem = function (
   }
 }
 
-LIB.SelectMenuItem = function (this: Lib, descriptor: Descriptor): undefined {
+LIB.SelectMenuItem = function (this: Lib, descriptor: number | string): undefined {
   if (WINDOW_MANAGER.IsSecureRenderModeEnabled()) {
     return
   }

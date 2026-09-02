@@ -1,5 +1,3 @@
-import "../main-menu-game-shape-1/main-menu-game-shape-1.module.code.ts"
-import "../main-menu-game-shape-2/main-menu-game-shape-2.module.code.ts"
 import type { GlobalTable, IpairsFn } from "../main-menu-casts/main-menu-casts.module.code.ts"
 import {
   asCategoryLayoutArray,

@@ -1,4 +1,3 @@
-import "../main-menu-game-shape-1/main-menu-game-shape-1.module.code.ts"
 export type GlobalTable = Record<string, unknown>
 
 export type IpairsFn = (
@@ -31,7 +30,10 @@ export interface MenuButton {
   m_buttonData: LmmButtonData
 }
 export interface MenuBarObject {
-  ButtonObjectForDescriptor: (this: MenuBarObject, descriptor: Descriptor) => MenuButton | undefined
+  ButtonObjectForDescriptor: (
+    this: MenuBarObject,
+    descriptor: number | string
+  ) => MenuButton | undefined
 }
 export interface MenuBarHost {
   m_object: MenuBarObject

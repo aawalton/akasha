@@ -11,8 +11,6 @@ export const temperLibMainMenu = {
   partSlugs: [
     "module/main-menu-casts",
     "module/main-menu-entry",
-    "module/main-menu-game-shape-1",
-    "module/main-menu-game-shape-2",
     "module/main-menu-keyboard",
     "module/main-menu-library",
     "module/main-menu-publish",
