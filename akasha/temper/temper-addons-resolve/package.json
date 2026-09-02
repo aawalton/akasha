@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/temper-addons-resolve",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./addon-roster": "./addon-roster/addon-roster.module.code.ts",
+    "./addon-json": "./addon-json/addon-json.module.code.ts",
+    "./workspace-closure": "./workspace-closure/workspace-closure.module.code.ts",
+    "./deployable-addons": "./deployable-addons/deployable-addons.module.code.ts",
+    "./distributable-set": "./distributable-set/distributable-set.module.code.ts",
+    "./folder-ownership": "./folder-ownership/folder-ownership.module.code.ts",
+    "./sibling-addons": "./sibling-addons/sibling-addons.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/command-system": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "@akasha/workspace-paths": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

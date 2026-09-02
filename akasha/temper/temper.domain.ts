@@ -34,6 +34,7 @@ export const temper = {
     "eso-addon/temper-lib-main-menu",
     "eso-addon/temper-lib-map-ping",
     "eso-addon/temper-lib-chat-message",
+    "workspace-package/temper-addons-resolve",
   ],
   invariants: [
     {
