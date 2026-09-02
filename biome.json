@@ -24,8 +24,7 @@
       "!**/*.config.js",
       "!**/*.config.mjs",
       "!**/*.config.ts",
-      "!**/*.generated.ts",
-      "!infra/scripts/__fixtures__/ast-unused"
+      "!**/*.generated.ts"
     ]
   },
   "formatter": {
