@@ -62,25 +62,13 @@
       "path": "../../shared/utils-test"
     },
     {
-      "path": "../game-characters"
-    },
-    {
-      "path": "../game-characters-character"
-    },
-    {
       "path": "../game-characters-character-ui"
-    },
-    {
-      "path": "../game-characters-equipment-ui"
     },
     {
       "path": "../game-companions-ui"
     },
     {
       "path": "../player-completion"
-    },
-    {
-      "path": "../player-completion-skills-morphs-ui"
     },
     {
       "path": "../player-completion-ui"
