@@ -11,6 +11,10 @@ export const patch = {
   taking: [
     { said: "apply", takes: "the act, which is to land the patch through the gate as one commit" },
     { said: "drop", takes: "the act, which is to take the patch away without landing it" },
+    { said: "show", takes: "the act, which is to say the body the patch would leave at one path" },
+    { said: "resolve", takes: "the act, which is to replace the body the patch holds at one path" },
+    { said: "--file-path <path>", takes: "the path a show or a resolve acts on" },
+    { said: "--content-file <file>", takes: "a file the body for a resolve is read from" },
     { said: "--message <text>", takes: "what the commit an apply makes is for" },
     { said: "--message-file <file>", takes: "a file that message is read from" },
   ],
@@ -24,6 +28,10 @@ export const patch = {
     "a patch applied or dropped takes the ref keeping its blobs with it.",
     "a patch outlives a context replacement, which takes away every reading the agent held.",
     "a conflict the rebase leaves is carried into the patch for the agent to resolve.",
+    "a read says the body at HEAD, so a show is what says the body the patch would leave.",
+    "a resolve reads the body from standard input unless --content-file names a file.",
+    "a body handed to a resolve replaces what the patch held rather than merging onto that body.",
+    "a body still carrying conflict marks is refused, so no patch applies half resolved.",
   ],
   invariants: [
     {
@@ -73,6 +81,34 @@ export const patch = {
     {
       invariantKind: "departure",
       statement: "A path the patch carries a conflict at is named as carrying one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A show says the body the patch would leave rather than the body at HEAD.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A show rebases the patch onto the commit at HEAD before saying a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resolve replaces the body the patch holds at the path the resolve names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resolve is judged by the checks that judge any authored change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body resolved is formatted before the checks judge that body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body still carrying conflict marks is refused rather than resolved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A show or a resolve naming no path is refused.",
     },
   ],
 } as const satisfies Command
