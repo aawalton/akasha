@@ -41,7 +41,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
       workingMemory:
-        "Six folders under `alanwalton/`; `calendar-sync`, `health-samples-import` and `ssh-access` landed. `runTestflightCut` is mobile-cli's `testflight-cut` now, so command-system names `@tools/lib` nowhere and `package-reached-where-named` refuses nothing. The 6-in-3 escape count was stale: 15 imports in 6 files, before and after. What is left is the page engine — `file-pages`, `page-derive-shape`, `page-query-values`, `page-write` — and `code-root`, which 53 files outside akasha reach.",
+        "Six folders under `alanwalton/`; `calendar-sync` landed at `2f6d78d532`, only what deploys it left behind. `location-traces-access` can follow: both were reversed out for `@shared/pages-query` imports that `18d85f92d3` then removed from both, filed at `a-reversal-outlived-the-reason-it-was-taken-for`. `code-root` landed, leaving a shim in `tools/lib/`. What is left is the page engine — `file-pages`, `page-derive-shape`, `page-query-values`, `page-write` — four plain files, not packages.",
     },
     {
       statement: "The design packages stand in akasha.",
