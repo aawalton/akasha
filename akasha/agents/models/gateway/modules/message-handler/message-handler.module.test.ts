@@ -46,6 +46,10 @@ function served(): Promise<Response> {
   return Promise.resolve(new Response("served", { status: 200 }))
 }
 
+function answering(answer: Response): () => Promise<Response> {
+  return () => Promise.resolve(answer)
+}
+
 function slotMade(): ObserverSlot {
   return { current: null }
 }
@@ -55,12 +59,14 @@ function bodyText(turn: MessageTurn | undefined): string | null {
   return held === null || held === undefined ? null : new TextDecoder().decode(held)
 }
 
-test("the response the queue answered with is the response handed back", async () => {
-  const rig = rigged(served)
+test("the response the queue answered with is the very response handed back", async () => {
+  const answer = new Response("answered-by-the-queue", { status: 201 })
+  const rig = rigged(answering(answer))
   const handle = buildMessageHandler(PREFIX, rig.doors)
   const res = await handle(new Request(AT, { method: "POST", body: "{}" }), slotMade())
-  expect(res.status).toBe(200)
-  expect(await res.text()).toBe("served")
+  expect(res).toBe(answer)
+  expect(res.status).toBe(201)
+  expect(await res.text()).toBe("answered-by-the-queue")
   expect(rig.lines).toEqual([])
   expect(rig.thrown).toEqual([])
 })
