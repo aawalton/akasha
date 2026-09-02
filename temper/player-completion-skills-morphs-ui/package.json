@@ -4,10 +4,10 @@
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-system": "workspace:*",
     "@akasha/temper-classes": "workspace:*",
+    "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/player-completion": "workspace:*",
     "@temper/player-completion-ui": "workspace:*"
   },
   "devDependencies": {

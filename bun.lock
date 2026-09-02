@@ -2769,10 +2769,10 @@
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/temper-build-metadata": "workspace:*",
+        "@akasha/temper-character-build": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@temper/game-characters": "workspace:*",
-        "@temper/game-characters-character": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -2821,9 +2821,9 @@
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@temper/game-characters": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -2901,10 +2901,10 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
+        "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@temper/player-completion": "workspace:*",
         "@temper/player-completion-ui": "workspace:*",
       },
       "devDependencies": {
@@ -2929,7 +2929,7 @@
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
-        "@temper/player-completion": "workspace:*",
+        "@akasha/temper-player-completion": "workspace:*",
         "lucide-react": "^0.576.0",
       },
       "devDependencies": {
@@ -2953,6 +2953,7 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
+        "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-companion-codec": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
@@ -2960,7 +2961,6 @@
         "@akasha/temper-shopping": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters": "workspace:*",
         "@temper/game-companions-ui": "workspace:*",
         "@temper/player-completion-ui": "workspace:*",
         "@temper/player-inventory-management-ui": "workspace:*",
@@ -3032,8 +3032,8 @@
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/temper-build-metadata": "workspace:*",
         "@shared/pages-ui": "workspace:*",
-        "@temper/game-characters": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
