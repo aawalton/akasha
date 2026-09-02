@@ -6,6 +6,7 @@ export const completionTransforms = {
   slug: "completion-transforms",
   definition: "one reading of a character roster, gathering the per-character tallies beside it",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
