@@ -1,14 +1,14 @@
 "use client"
 
 import {
-  allRaceSources,
+  ALL_RACE_SOURCES,
   NO_RACE_SOURCE,
   type RaceSource,
   sortedRaces,
-} from "@temper/game-characters-character/race-source"
-import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
+} from "@akasha/temper-character-build/race-source"
 import { getRaceIconUrl } from "@akasha/temper-races/race-icon-url"
 import type { RaceId } from "@akasha/temper-races/races"
+import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import { useMemo } from "react"
 import {
   FilterableSelectDialog,
@@ -34,7 +34,7 @@ export function RaceSelectDialog({
       searchPlaceholder: "Search races...",
       emptyMessage: "No races found.",
       categories: [{ id: "all", label: "Races", items: sortedRaces }],
-      allItems: allRaceSources,
+      allItems: ALL_RACE_SOURCES,
       filterItem: (item, searchTerm) => {
         const lower = searchTerm.toLowerCase()
         return (
