@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { backlogCount } from "../readout-scale/readout-scales/backlog-count.readout-scale.ts"
+import { backlogCount } from "../readout-scales/pages/backlog-count.readout-scale.ts"
 import { ReadoutRing, rungOf, statedIn, sweptBy } from "./readout-ring.module.code.tsx"
 
 const ASCENDING = {
