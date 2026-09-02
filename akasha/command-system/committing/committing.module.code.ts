@@ -121,6 +121,36 @@ function modesIn(root: string, head: string, paths: readonly string[]): Map<stri
   return held
 }
 
+const INDEX_LOCK_CEILING_MS = 30_000
+
+const INDEX_LOCK_FIRST_WAIT_MS = 100
+
+const INDEX_LOCK_LONGEST_WAIT_MS = 2_000
+
+function sleepFor(ms: number): undefined {
+  Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
+}
+
+function heldIndex(thrown: unknown): boolean {
+  const said = thrown instanceof Error ? thrown.message : String(thrown)
+  return said.includes("index.lock") && said.includes("File exists")
+}
+
+export function whileIndexFrees<T>(run: () => T, ceilingMs = INDEX_LOCK_CEILING_MS): T {
+  const until = Date.now() + ceilingMs
+  let wait = INDEX_LOCK_FIRST_WAIT_MS
+  for (;;) {
+    try {
+      return run()
+    } catch (thrown) {
+      const left = until - Date.now()
+      if (!heldIndex(thrown) || left <= 0) throw thrown
+      sleepFor(Math.min(wait, left))
+      wait = Math.min(wait * 2, INDEX_LOCK_LONGEST_WAIT_MS)
+    }
+  }
+}
+
 function indexOnto(
   root: string,
   put: ReadonlyMap<string, string | null>,
@@ -131,7 +161,9 @@ function indexOnto(
     if (oid === null) lines.push(`0 ${GONE_OID}\t${path}`)
     else lines.push(`${modes.get(path) ?? FILE_MODE} ${oid}\t${path}`)
   }
-  gitIn(root, ["update-index", "--index-info"], { stdin: bytesOf(`${lines.join("\n")}\n`) })
+  whileIndexFrees(() =>
+    gitIn(root, ["update-index", "--index-info"], { stdin: bytesOf(`${lines.join("\n")}\n`) })
+  )
 }
 
 const NAMED = /^\s*(.*?)\s*<([^>]*)>\s*$/

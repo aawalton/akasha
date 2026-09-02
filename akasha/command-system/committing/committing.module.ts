@@ -30,6 +30,18 @@ export const committing = {
     },
     {
       invariantKind: "departure",
+      statement: "A git index another process holds is waited for rather than refusing the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Anything else git refuses is thrown on the first attempt rather than waited on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wait on the index gives up after thirty seconds and throws what git said.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Moving the branch is the one act that lands the commit.",
     },
     {
