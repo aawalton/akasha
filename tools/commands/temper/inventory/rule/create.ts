@@ -1,7 +1,7 @@
 export const summary = "Append a new category rule (addCategoryRule)"
 
-import { addCategoryRule } from "@temper/game-items-rules-core/inventory-rule-settings"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import { addCategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-settings"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"
 import {

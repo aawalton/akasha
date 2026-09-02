@@ -5,7 +5,7 @@ import type {
   ItemAction,
   MoveToDestination,
   StockScope,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { z } from "zod"
 import { itemActionValues, ruleConstantKeys } from "./game-code.ts"
 

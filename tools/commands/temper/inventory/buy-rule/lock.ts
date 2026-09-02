@@ -1,6 +1,6 @@
 export const summary = "Set `locked: true` on a buy rule by id (idempotent)"
 
-import { lockBuyRule } from "@temper/game-items-rules-core/buy-rule-settings"
+import { lockBuyRule } from "@akasha/temper-items-rules-core/buy-rule-settings"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

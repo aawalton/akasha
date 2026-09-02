@@ -1,26 +1,26 @@
-import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
-import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
-import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
-import type { ClassifiableItem } from "@temper/game-items-core/item-category-tree-types"
-import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventory-rule-compiler-types"
-import type { ClassifiedInventoryItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
-import type { RuleMatcherContext } from "@temper/game-items-rules-core/rule-matcher-context-types"
-import { computeAllRuleAffectedItems } from "@temper/game-items-rules-matcher/inventory-rule-matcher"
-import { buildManagementPlan } from "@temper/game-items-rules-routing/inventory-management-plan"
+import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
+import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
+import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
+import type { ClassifiableItem } from "@akasha/temper-items-core/item-category-tree-types"
+import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
+import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
+import { computeAllRuleAffectedItems } from "@akasha/temper-items-rules-matcher/inventory-rule-matcher"
+import { buildManagementPlan } from "@akasha/temper-items-rules-routing/inventory-management-plan"
 import {
   applyDestinationCapacityFilter,
   applyDestinationCapacityFilterWithAudit,
   type CapacityAudit,
   type CapacityAuditEntry,
-} from "@temper/game-items-rules-routing/inventory-management-plan-capacity-filter"
-import { formatPlanChecklist } from "@temper/game-items-rules-routing/inventory-plan-checklist"
+} from "@akasha/temper-items-rules-routing/inventory-management-plan-capacity-filter"
+import { formatPlanChecklist } from "@akasha/temper-items-rules-routing/inventory-plan-checklist"
 import type {
   CharacterSession,
   ManagementPlan,
   PlanItem,
   VenueStop,
-} from "@temper/game-items-rules-routing-core/inventory-management-plan-types"
+} from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import {
   buildMatcherContext,
   DEFAULT_CHARACTERS_PATH,

@@ -1,14 +1,14 @@
-import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
-import type {
-  CategoryRule,
-  InventoryRuleSettings,
-  ItemRule,
-} from "@temper/game-items-rules-core/inventory-rule-types"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,
   CompanionAutomationToggles,
 } from "@akasha/temper-inventory-automation/automation-toggles"
+import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
+import type {
+  CategoryRule,
+  InventoryRuleSettings,
+  ItemRule,
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import {
   readAutomationSettings,
   readInventoryRuleSettings,

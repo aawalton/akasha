@@ -1,8 +1,8 @@
 export const summary =
   "Patch fields on a category rule (bulkUpdateCategoryRules with --force for the locked guard)"
 
-import { bulkUpdateCategoryRules } from "@temper/game-items-rules-core/inventory-rule-settings"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import { bulkUpdateCategoryRules } from "@akasha/temper-items-rules-core/inventory-rule-settings"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

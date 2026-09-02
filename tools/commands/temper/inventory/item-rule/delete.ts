@@ -1,6 +1,9 @@
 export const summary = "Delete an item rule by id (--force to override the lock guard)"
 
-import { lockItemRule, removeItemRule } from "@temper/game-items-rules-core/inventory-rule-settings"
+import {
+  lockItemRule,
+  removeItemRule,
+} from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

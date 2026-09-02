@@ -1,17 +1,20 @@
 export const summary = "Resolve an itemId or link against TemperInventory.lua and classify it"
 
 import { readFile } from "node:fs/promises"
-import type { CommandHelp } from "../../../ops/surface.ts"
-import { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
-import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
-import type { InventoryDatabase, InventoryItemData } from "@temper/game-items-core/inventory-types"
+import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
+import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
+import type {
+  InventoryDatabase,
+  InventoryItemData,
+} from "@akasha/temper-items-core/inventory-types"
 import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
-import { parseMotifBookName } from "@temper/game-items-core/motif-name-parser"
-import { getRecipeResultId } from "@temper/game-items-core/recipe-result-id-lookup"
-import { getScriptItemIdByName } from "@temper/game-items-core/script-knowledge-lookup"
+import { parseMotifBookName } from "@akasha/temper-items-core/motif-name-parser"
+import { getRecipeResultId } from "@akasha/temper-items-core/recipe-result-id-lookup"
+import { getScriptItemIdByName } from "@akasha/temper-items-core/script-knowledge-lookup"
 import { dataError, inputError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { TEMPER_INVENTORY_LUA, savedVarsFile } from "../../../lib/temper-inventory-paths.ts"
+import { savedVarsFile, TEMPER_INVENTORY_LUA } from "../../../lib/temper-inventory-paths.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   positionals: [

@@ -1,8 +1,8 @@
 export const summary =
   "Create a new buy rule (--item-id, --item-name, --target required; optional --source / --title / --notes / --goal / --active). New rules default inactive."
 
-import { addBuyRule, bulkUpdateBuyRules } from "@temper/game-items-rules-core/buy-rule-settings"
-import type { BuyRule, BuySource } from "@temper/game-items-rules-core/buy-rule-types"
+import { addBuyRule, bulkUpdateBuyRules } from "@akasha/temper-items-rules-core/buy-rule-settings"
+import type { BuyRule, BuySource } from "@akasha/temper-items-rules-core/buy-rule-types"
 import { inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

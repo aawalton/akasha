@@ -1,12 +1,12 @@
 export const summary =
   "Update fields on an item rule by id (--action / --destination / --title / --notes / --goal / --active / --stock-quantity, --force to override the lock guard)"
 
-import { narrowDestination } from "@temper/game-items-rules-core/inventory-destination-parse"
-import { bulkUpdateItemRules } from "@temper/game-items-rules-core/inventory-rule-settings"
+import { narrowDestination } from "@akasha/temper-items-rules-core/inventory-destination-parse"
+import { bulkUpdateItemRules } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import type {
   ItemRule,
   MoveToDestination,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

@@ -1,8 +1,8 @@
 export const summary =
   "List category rules in priority order (controlled rules prepended, mirroring the addon's compiled view)"
 
-import { buildAllControlledRules } from "@temper/game-items-rules-core/inventory-rule-controlled"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import { buildAllControlledRules } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { emitJson, emitTsv } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"
 import { inventorySettings } from "../../../../lib/temper-inventory.ts"

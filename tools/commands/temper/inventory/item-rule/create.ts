@@ -1,15 +1,15 @@
 export const summary =
   "Create a new per-item rule (--item-id, --item-name required; optional --action / --destination / --title / --notes / --goal / --active / --stock-quantity)"
 
-import { narrowDestination } from "@temper/game-items-rules-core/inventory-destination-parse"
+import { narrowDestination } from "@akasha/temper-items-rules-core/inventory-destination-parse"
 import {
   addItemRule,
   bulkUpdateItemRules,
-} from "@temper/game-items-rules-core/inventory-rule-settings"
+} from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import type {
   ItemRule,
   MoveToDestination,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

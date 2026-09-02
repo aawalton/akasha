@@ -1,24 +1,27 @@
-import { loreLibraryData as loreLibraryDataSource } from "@temper/game-completion/generated/lore-library-data.generated"
-import { STYLE_TO_CHAPTERS } from "@temper/game-items-core/motif-chapter-set"
+import { STYLE_TO_CHAPTERS } from "@akasha/temper-items-core/motif-chapter-set"
 import {
   ITEM_ACTION_VALUES,
   type ItemAction,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import {
   RULE_CONSTANT_KEYS,
   type RuleConstantKey,
-} from "@temper/game-items-rules-core/rule-constants"
+} from "@akasha/temper-items-rules-core/rule-constants"
+import { loreLibraryData as loreLibraryDataSource } from "@temper/game-completion/generated/lore-library-data.generated"
 
-export { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
-export { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
-export { parseMotifBookName } from "@temper/game-items-core/motif-name-parser"
-export { narrowDestination, parseItemAction } from "@temper/game-items-rules-core/inventory-destination-parse"
-export { createDefaultRuleSettings } from "@temper/game-items-rules-core/inventory-rule-settings"
+export { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
+export { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
+export { parseMotifBookName } from "@akasha/temper-items-core/motif-name-parser"
+export {
+  narrowDestination,
+  parseItemAction,
+} from "@akasha/temper-items-rules-core/inventory-destination-parse"
+export { createDefaultRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 export {
   buildItemFactsFromInventoryItem,
   resolveStaticItemKey,
-} from "@temper/game-items-rules-eval/build-item-facts-from-inventory-item"
-export { resolveItemRoute } from "@temper/game-items-rules-routing-core/inventory-management-plan-route"
+} from "@akasha/temper-items-rules-eval/build-item-facts-from-inventory-item"
+export { resolveItemRoute } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-route"
 
 export function ruleConstantKeys(): readonly [RuleConstantKey, ...RuleConstantKey[]] {
   return RULE_CONSTANT_KEYS

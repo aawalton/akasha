@@ -1,8 +1,8 @@
 export const summary =
   "Update fields on a buy rule by id (--target / --source / --title / --notes / --goal / --active, --force to override the lock guard)"
 
-import { bulkUpdateBuyRules } from "@temper/game-items-rules-core/buy-rule-settings"
-import type { BuyRule, BuySource } from "@temper/game-items-rules-core/buy-rule-types"
+import { bulkUpdateBuyRules } from "@akasha/temper-items-rules-core/buy-rule-settings"
+import type { BuyRule, BuySource } from "@akasha/temper-items-rules-core/buy-rule-types"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

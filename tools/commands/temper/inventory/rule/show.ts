@@ -1,8 +1,8 @@
 export const summary =
   "Print one rule's full shape — looks up user rules first, then derived controlled rules"
 
-import { buildAllControlledRules } from "@temper/game-items-rules-core/inventory-rule-controlled"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import { buildAllControlledRules } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson, emitTsv } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

@@ -1,15 +1,15 @@
-import { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
-import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
+import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
+import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
 import type {
   InventoryDatabase,
   InventoryItemData,
   InventoryLocationData,
-} from "@temper/game-items-core/inventory-types"
+} from "@akasha/temper-items-core/inventory-types"
 import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
-import { locationConditionFromKeyAndBag } from "@temper/game-items-core/location-condition"
-import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventory-rule-compiler-types"
-import { computeStockGroups } from "@temper/game-items-rules-eval/compute-stock-groups"
-import type { EvalEnv } from "@temper/game-items-rules-eval/eval-env"
+import { locationConditionFromKeyAndBag } from "@akasha/temper-items-core/location-condition"
+import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
+import { computeStockGroups } from "@akasha/temper-items-rules-eval/compute-stock-groups"
+import type { EvalEnv } from "@akasha/temper-items-rules-eval/eval-env"
 import type {
   IndeterminateReason,
   RejectionReason,
@@ -17,9 +17,9 @@ import type {
   RuleVerdict,
   WalkOutcome,
   WalkTrace,
-} from "@temper/game-items-rules-eval/eval-result"
-import { walkRules } from "@temper/game-items-rules-eval/evaluator"
-import type { ItemFacts } from "@temper/game-items-rules-eval/item-facts"
+} from "@akasha/temper-items-rules-eval/eval-result"
+import { walkRules } from "@akasha/temper-items-rules-eval/evaluator"
+import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
 import { buildCliEvalEnv } from "./temper-inventory/cli-eval-env.ts"
 import { cliItemFactsFromInventoryItem } from "./temper-inventory/cli-item-facts.ts"
 import {
@@ -36,9 +36,9 @@ export type {
   CompiledInventoryConfig,
   CompiledOrderedRule,
   EvalEnv,
+  IndeterminateReason,
   InventoryDatabase,
   InventoryItemData,
-  IndeterminateReason,
   InventoryLocationData,
   ItemFacts,
   RejectionReason,

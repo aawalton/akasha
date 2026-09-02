@@ -1,6 +1,6 @@
 export const summary = "Set locked:true on a category rule"
 
-import { lockCategoryRule } from "@temper/game-items-rules-core/inventory-rule-settings"
+import { lockCategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

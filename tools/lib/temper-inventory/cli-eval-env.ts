@@ -1,7 +1,7 @@
+import type { ItemKey } from "@akasha/temper-items-rules-core/use-destination-types"
+import type { EvalEnv } from "@akasha/temper-items-rules-eval/eval-env"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { styleToChapters } from "./game-code.ts"
-import type { ItemKey } from "@temper/game-items-rules-core/use-destination-types"
-import type { EvalEnv } from "@temper/game-items-rules-eval/eval-env"
 import type { CharacterKnowledge } from "./parse-temper-characters.ts"
 
 export interface CliEvalEnvDeps {

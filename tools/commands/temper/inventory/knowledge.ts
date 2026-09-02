@@ -1,10 +1,11 @@
-export const summary = "Inspect per-character knowledge (recipes, motifs, scripts) from TemperCharacters.lua"
+export const summary =
+  "Inspect per-character knowledge (recipes, motifs, scripts) from TemperCharacters.lua"
 
-import type { CommandHelp } from "../../../ops/surface.ts"
 import { inputError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
-import { TEMPER_CHARACTERS_LUA, savedVarsFile } from "../../../lib/temper-inventory-paths.ts"
 import { loadTemperCharactersFromPath } from "../../../lib/temper-inventory/parse-temper-characters.ts"
+import { savedVarsFile, TEMPER_CHARACTERS_LUA } from "../../../lib/temper-inventory-paths.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -214,7 +215,7 @@ export default async function temperInventoryKnowledge(args: readonly string[]):
   const selected = await selectCharacters(characters, charId)
 
   if (itemKey !== null) {
-    const { STYLE_TO_CHAPTERS } = await import("@temper/game-items-core/motif-chapter-set")
+    const { STYLE_TO_CHAPTERS } = await import("@akasha/temper-items-core/motif-chapter-set")
     const rows = selected.map((c) => ({
       id: c.id,
       name: c.name,

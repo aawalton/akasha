@@ -1,6 +1,6 @@
 export const summary = "Duplicate an item rule by id (clone is unlocked + inactive)"
 
-import { duplicateItemRule } from "@temper/game-items-rules-core/inventory-rule-settings"
+import { duplicateItemRule } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

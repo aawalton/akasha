@@ -1,19 +1,18 @@
-
 export const summary = "List every buy rule on settings.inventory.buyRules (TSV / --json)"
 
-import type { CommandHelp } from "../../../../ops/surface.ts"
-import { computeItemStock } from "@temper/game-items-core/compute-item-stock"
-import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
-import { computeBuyShortfall } from "@temper/game-items-rules-core/buy-rule-eval"
-import { parseArgs } from "../../../../lib/parse-args.ts"
+import { computeItemStock } from "@akasha/temper-items-core/compute-item-stock"
+import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
+import { computeBuyShortfall } from "@akasha/temper-items-rules-core/buy-rule-eval"
 import { emitJson, emitTsv } from "../../../../lib/format-output.ts"
-import { inventorySettings } from "../../../../lib/temper-inventory.ts"
+import { parseArgs } from "../../../../lib/parse-args.ts"
 import {
   assembleSnapshot,
   latestSnapshot,
   snapshotChunks,
 } from "../../../../lib/temper-inventory/snapshot-read.ts"
+import { inventorySettings } from "../../../../lib/temper-inventory.ts"
 import { USER_ID } from "../../../../lib/user-id.ts"
+import type { CommandHelp } from "../../../../ops/surface.ts"
 
 const NO_SNAPSHOT = "no-snapshot"
 

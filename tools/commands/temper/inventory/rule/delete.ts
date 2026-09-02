@@ -3,7 +3,7 @@ export const summary = "Remove a category rule (--force unlocks-then-removes for
 import {
   lockCategoryRule,
   removeCategoryRule,
-} from "@temper/game-items-rules-core/inventory-rule-settings"
+} from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

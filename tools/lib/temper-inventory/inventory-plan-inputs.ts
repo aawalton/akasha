@@ -1,12 +1,12 @@
 import { readFile } from "node:fs/promises"
 import { DataError } from "@akasha/errors-core/exit-code"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
+import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
+import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { classifyItemToNodeIds, parseInventoryContent } from "./game-code.ts"
-import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
-import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventory-rule-compiler-types"
-import type { ClassifiedInventoryItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
-import type { ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"
-import type { RuleMatcherContext } from "@temper/game-items-rules-core/rule-matcher-context-types"
 import { type CharacterKnowledge, loadTemperCharactersFromPath } from "./parse-temper-characters.ts"
 import {
   type CompiledInventoryConfig,

@@ -1,6 +1,6 @@
 export const summary = "Set `locked: true` on an item rule by id (idempotent)"
 
-import { lockItemRule } from "@temper/game-items-rules-core/inventory-rule-settings"
+import { lockItemRule } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

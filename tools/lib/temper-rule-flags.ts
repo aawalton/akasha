@@ -1,4 +1,4 @@
-import type { BuySource } from "@temper/game-items-rules-core/buy-rule-types"
+import type { BuySource } from "@akasha/temper-items-rules-core/buy-rule-types"
 
 export const ITEM_ACTION_CHOICES = [
   "nothing",

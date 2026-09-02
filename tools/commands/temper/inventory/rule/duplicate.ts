@@ -1,6 +1,6 @@
 export const summary = "Clone a category rule at sourceIndex+1 (active:false, locked:false)"
 
-import { duplicateCategoryRule } from "@temper/game-items-rules-core/inventory-rule-settings"
+import { duplicateCategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"

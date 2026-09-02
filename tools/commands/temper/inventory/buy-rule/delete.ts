@@ -1,6 +1,6 @@
 export const summary = "Delete a buy rule by id (--force to override the lock guard)"
 
-import { lockBuyRule, removeBuyRule } from "@temper/game-items-rules-core/buy-rule-settings"
+import { lockBuyRule, removeBuyRule } from "@akasha/temper-items-rules-core/buy-rule-settings"
 import { dataError, inputError } from "../../../../lib/exit.ts"
 import { emitJson } from "../../../../lib/format-output.ts"
 import { parseArgs } from "../../../../lib/parse-args.ts"
