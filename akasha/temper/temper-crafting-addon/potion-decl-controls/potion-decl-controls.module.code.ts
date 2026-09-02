@@ -13,53 +13,53 @@ declare global {
 
   const TemperPotionsTooltip: TooltipControl
 
-  const TemperPotionsQuestWrits: Control
+  const TemperPotionsQuestWrits: TemperCraftingControl
 
-  const TemperPotionsAllMustCheckBox: Control
+  const TemperPotionsAllMustCheckBox: TemperCraftingControl
 
-  const TemperPotionsAllMustNotCheckBox: Control
+  const TemperPotionsAllMustNotCheckBox: TemperCraftingControl
 
   const TemperPotionsAllMustNotCheckBoxText: LabelControl
 
-  const TemperPotionsOnly2: Control
+  const TemperPotionsOnly2: TemperCraftingControl
 
   const TemperPotionsOnly2Text: LabelControl
 
-  const TemperPotionsOnlyReagent: Control
+  const TemperPotionsOnlyReagent: TemperCraftingControl
 
   const TemperPotionsOnlyReagentText: LabelControl
 
-  const TemperPotionsLoading: Control
+  const TemperPotionsLoading: TemperCraftingControl
 
-  const TemperPotionsClearFilter: Control
+  const TemperPotionsClearFilter: TemperCraftingControl
 
-  const TemperPotionsFavorites: Control
+  const TemperPotionsFavorites: TemperCraftingControl
 
   const TemperPotionsLabel: LabelControl
 
   const TemperPotionsOutputCombinationLabel: LabelControl
 
-  const TemperPotionsOutputFavorite: Control
+  const TemperPotionsOutputFavorite: TemperCraftingControl
 
-  const TemperPotionsOutputNextButton: ButtonControl
+  const TemperPotionsOutputNextButton: TemperCraftingButton
 
   const TemperPotionsOutputPageLabel: LabelControl
 
-  const TemperPotionsOutputPreviousButton: ButtonControl
+  const TemperPotionsOutputPreviousButton: TemperCraftingButton
 
-  const TemperPotionsOutputResultsBG: Control
+  const TemperPotionsOutputResultsBG: TemperCraftingControl
 
-  const TemperPotionsOutputSearchButton: ButtonControl
+  const TemperPotionsOutputSearchButton: TemperCraftingButton
 
   const TemperPotionsOutputTraitLabel: LabelControl
 
-  const TemperPotionsReagentBG: Control
+  const TemperPotionsReagentBG: TemperCraftingControl
 
   const TemperPotionsReagentLabel: LabelControl
 
-  const TemperPotionsSearchBG: Control
+  const TemperPotionsSearchBG: TemperCraftingControl
 
-  const TemperPotionsSearchButton: ButtonControl
+  const TemperPotionsSearchButton: TemperCraftingButton
 
   const TemperPotionsSolventLabel: LabelControl
 
@@ -74,8 +74,6 @@ declare global {
   interface Control {
     SetSimpleAnchorParent: (...args: unknown[]) => undefined
     EnableMouseButton: (button: number, enabled: boolean) => undefined
-    checkState?: number
-    tristate?: boolean
   }
 
   interface TooltipControl {

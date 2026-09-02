@@ -56,7 +56,11 @@ export function characterInitialize(): undefined {
     bg.SetEdgeColor(0.12, 0.12, 0.12, 1)
     bg.SetEdgeTexture("", 1, 1, 1)
 
-    let btn = WINDOW_MANAGER.CreateControl(`TemperCrafting_Character${x}Name`, frame, CT_BUTTON)
+    let btn: TemperCraftingButton = WINDOW_MANAGER.CreateControl(
+      `TemperCrafting_Character${x}Name`,
+      frame,
+      CT_BUTTON
+    )
     btn.SetAnchor(TOPLEFT, frame, TOPLEFT, 10, 1)
     btn.SetDimensions(450, 35)
     btn.SetHorizontalAlignment(0)
@@ -71,7 +75,7 @@ export function characterInitialize(): undefined {
       Tooltips.tooltip(self, true, false, self, "bl")
     )
     btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
-    btn.SetHandler("OnMouseDown", (self: ButtonControl, button: number) =>
+    btn.SetHandler("OnMouseDown", (self: TemperCraftingButton, button: number) =>
       CharacterPanel.loadCharacter(self, button)
     )
 
@@ -134,7 +138,7 @@ export function characterInitialize(): undefined {
       Tooltips.tooltip(self, true, false, self, "bc")
     )
     btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
-    btn.SetHandler("OnMouseDown", (self: ButtonControl) => {
+    btn.SetHandler("OnMouseDown", (self: TemperCraftingButton) => {
       account.trait.tracking[char] = Options.traitToggle(
         self,
         char,
@@ -158,7 +162,7 @@ export function characterInitialize(): undefined {
       Tooltips.tooltip(self, true, false, self, "bc")
     )
     btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
-    btn.SetHandler("OnClicked", (self: ButtonControl) => {
+    btn.SetHandler("OnClicked", (self: TemperCraftingButton) => {
       account.style.tracking[char] = Options.optionSelect(
         self,
         account.style.tracking[char],
@@ -182,7 +186,7 @@ export function characterInitialize(): undefined {
       Tooltips.tooltip(self, true, false, self, "bc")
     )
     btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
-    btn.SetHandler("OnClicked", (self: ButtonControl) => {
+    btn.SetHandler("OnClicked", (self: TemperCraftingButton) => {
       account.cook.tracking[char] = Options.optionSelect(
         self,
         account.cook.tracking[char],
@@ -206,7 +210,7 @@ export function characterInitialize(): undefined {
       Tooltips.tooltip(self, true, false, self, "bc")
     )
     btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
-    btn.SetHandler("OnClicked", (self: ButtonControl) => {
+    btn.SetHandler("OnClicked", (self: TemperCraftingButton) => {
       account.furnisher.tracking[char] = Options.optionSelect(
         self,
         account.furnisher.tracking[char],

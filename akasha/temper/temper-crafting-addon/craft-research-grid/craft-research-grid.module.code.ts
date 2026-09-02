@@ -20,7 +20,11 @@ export function drawTraitColumn(craft: number, line: number): undefined {
   const [craftSkillType, craftSkillLineIndex] = GetCraftingSkillLineIndices(craft)
   const [craftname] = GetSkillLineInfo(craftSkillType, craftSkillLineIndex)
   const p = WM.GetControlByName(`TemperCrafting_PanelCraft${craft}Line${line}`)
-  let c = WM.CreateControl(`TemperCrafting_PanelCraft${craft}Line${line}Header`, p, CT_BUTTON)
+  let c: TemperCraftingButton = WM.CreateControl(
+    `TemperCrafting_PanelCraft${craft}Line${line}Header`,
+    p,
+    CT_BUTTON
+  )
   c.SetAnchor(3, p, 3, -1, 0)
   c.SetDimensions(27, 27)
   c.SetClickSound("Click")
@@ -31,7 +35,7 @@ export function drawTraitColumn(craft: number, line: number): undefined {
   c.SetHandler("OnMouseExit", (self: CsTooltipOwner) => {
     Tooltips.tooltip(self, false, true)
   })
-  c.SetHandler("OnMouseDown", (_self: Control, button: number) => {
+  c.SetHandler("OnMouseDown", (_self: TemperCraftingControl, button: number) => {
     const studies = STATE.Account.crafting.studies[STATE.SelectedPlayer]
     if (studies === undefined) {
       return
@@ -53,7 +57,7 @@ export function drawTraitColumn(craft: number, line: number): undefined {
               colTable[trait] = value
             }
           }
-          updateStudyLine(panel.GetChild<Control>(col), value)
+          updateStudyLine(panel.GetChild<TemperCraftingControl>(col), value)
         }
       }
     } else {
@@ -103,7 +107,7 @@ export function drawTraitColumn(craft: number, line: number): undefined {
     c.SetHandler("OnMouseExit", (self: CsTooltipOwner) => {
       Tooltips.tooltip(self, false)
     })
-    c.SetHandler("OnMouseDown", (self: Control, button: number) => {
+    c.SetHandler("OnMouseDown", (self: TemperCraftingControl, button: number) => {
       const research = self.data?.research
       if (button === 3 && research !== undefined && STATE.SelectedPlayer === STATE.CurrentPlayer) {
         const account = STATE.Account
@@ -211,7 +215,7 @@ export function updatePanelIcon(
   if (control === undefined) {
     return
   }
-  const parent = control.GetParent()
+  const parent: TemperCraftingControl | undefined = control.GetParent()
   if (parent === undefined) {
     return
   }
@@ -339,7 +343,7 @@ export function updatePanelIcon(
 }
 
 export function updateStudyLine(
-  control: Control | undefined,
+  control: TemperCraftingControl | undefined,
   tracking: boolean | Record<number, boolean>,
   _craft?: number,
   _line?: number

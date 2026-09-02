@@ -76,7 +76,12 @@ function reagentTipExit(this: void, sender: Control): undefined {
   PotMaker.showReagentTip(sender, false)
 }
 
-function updateControl(this: void, trait: TraitData, posX: number, count: number): Control {
+function updateControl(
+  this: void,
+  trait: TraitData,
+  posX: number,
+  count: number
+): TemperCraftingControl {
   const traitName = trait.name
   const localized = PotMaker.language.traitNames[traitName]
   if (localized === undefined) {
@@ -84,7 +89,7 @@ function updateControl(this: void, trait: TraitData, posX: number, count: number
   }
   trait.name = localized
   const checkBoxName = "TemperPotionsCheckBox_" + tostring(posX) + "_" + tostring(count)
-  const control = CreateControlFromVirtual(
+  const control: TemperCraftingControl = CreateControlFromVirtual(
     checkBoxName,
     TemperPotionsSearchBG,
     "TemperPotionsTristateButton"
@@ -334,7 +339,7 @@ function updateControls(this: void): undefined {
   const saveSelection: Record<number, boolean> = {}
   const numChildren = TemperPotionsReagentBG.GetNumChildren()
   for (let i = 1; i <= numChildren; i++) {
-    const checkBox = TemperPotionsReagentBG.GetChild<Control>(i)
+    const checkBox = TemperPotionsReagentBG.GetChild<TemperCraftingControl>(i)
     if (checkBox !== undefined) {
       const reagent = asFields(checkBox).reagent
       if (

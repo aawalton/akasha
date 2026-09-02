@@ -13,7 +13,7 @@ function asWidth(this: void, value: unknown): number {
   return value as number
 }
 
-const mustControl = <T extends Control = Control>(name: string): T =>
+const mustControl = <T extends Control = TemperCraftingControl>(name: string): T =>
   WINDOW_MANAGER.GetControlByName<T>(name) ?? error(`TemperCrafting: missing control ${name}`)
 
 const defined = <T>(value: T | undefined): T =>
@@ -30,7 +30,7 @@ const allNamed = (
   return true
 }
 
-export function optionSetSelect(control: ButtonControl, button: number): undefined {
+export function optionSetSelect(control: TemperCraftingButton, button: number): undefined {
   const data = control.data
   if (data === undefined) {
     return
@@ -72,17 +72,17 @@ export function optionSetSelect(control: ButtonControl, button: number): undefin
 }
 
 export function optionSelect(
-  control: ButtonControl,
+  control: TemperCraftingButton,
   condition: boolean | undefined,
   text: string
 ): boolean
 export function optionSelect(
-  control: ButtonControl | undefined,
+  control: TemperCraftingButton | undefined,
   condition: boolean | undefined,
   text: string
 ): boolean | undefined
 export function optionSelect(
-  control: ButtonControl | undefined,
+  control: TemperCraftingButton | undefined,
   condition: boolean | undefined,
   text: string
 ): boolean | undefined {
@@ -98,7 +98,7 @@ export function optionSelect(
   return newCondition
 }
 
-export function traitToggle(control: ButtonControl, char: string, text: string): boolean {
+export function traitToggle(control: TemperCraftingButton, char: string, text: string): boolean {
   const crafts = [
     CRAFTING_TYPE_BLACKSMITHING,
     CRAFTING_TYPE_CLOTHIER,
@@ -115,7 +115,7 @@ export function traitToggle(control: ButtonControl, char: string, text: string):
       }
       if (STATE.SelectedPlayer === char) {
         ResearchGrid.updateStudyLine(
-          mustControl(`TemperCrafting_PanelCraft${craft}`).GetChild<Control>(line),
+          mustControl(`TemperCrafting_PanelCraft${craft}`).GetChild<TemperCraftingControl>(line),
           value
         )
       }
@@ -176,7 +176,7 @@ export function setsSet(): undefined {
     table.sort(SETS as never, PlayerState.traitsort)
   }
   for (const [x, set] of pairs(SETS)) {
-    let btn = WINDOW_MANAGER.GetControlByName<ButtonControl>(
+    let btn = WINDOW_MANAGER.GetControlByName<TemperCraftingButton>(
       `TemperCrafting_SetPanelScrollChildButton${x}`
     )
     if (btn === undefined) {
@@ -198,7 +198,7 @@ export function setsSet(): undefined {
         Tooltips.tooltip(self, true, false, TemperCrafting_SetPanel, "tl")
       )
       btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
-      btn.SetHandler("OnMouseDown", (self: ButtonControl, button: number) =>
+      btn.SetHandler("OnMouseDown", (self: TemperCraftingButton, button: number) =>
         optionSetSelect(self, button)
       )
     }
@@ -225,7 +225,7 @@ export function styleInitialize(): undefined {
   for (const [id, data] of ipairs(STATE.styleNames)) {
     const style = GetValidItemStyleId(data.id)
     const c = WINDOW_MANAGER.GetControlByName(`TemperCrafting_StyleRow${pre}`)
-    let p: Control
+    let p: TemperCraftingControl
     if (WINDOW_MANAGER.GetControlByName(`TemperCrafting_StyleRow${id}`) === undefined) {
       p = WINDOW_MANAGER.CreateControl(
         `TemperCrafting_StyleRow${id}`,
@@ -259,7 +259,7 @@ export function styleInitialize(): undefined {
       bg = mustControl<BackdropControl>(`TemperCrafting_StylePanelScrollChildBgLine${id}`)
     }
 
-    let btn: ButtonControl
+    let btn: TemperCraftingButton
     const [icon, link, name, aName, aLink, popup] = styleLib.getHeadline(style)
     if (
       WINDOW_MANAGER.GetControlByName(`TemperCrafting_StylePanelScrollChildMaterial${id}`) ===
@@ -273,7 +273,7 @@ export function styleInitialize(): undefined {
       btn.SetAnchor(2, bg, 2, 10, 0)
       btn.SetDimensions(30, 30)
     } else {
-      btn = mustControl<ButtonControl>(`TemperCrafting_StylePanelScrollChildMaterial${id}`)
+      btn = mustControl<TemperCraftingButton>(`TemperCrafting_StylePanelScrollChildMaterial${id}`)
     }
 
     btn.SetNormalTexture(icon)
@@ -282,7 +282,7 @@ export function styleInitialize(): undefined {
       Tooltips.tooltip(self, true, false, TemperCrafting_Style, "tl")
     )
     btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
-    btn.SetHandler("OnMouseDown", (self: ButtonControl, button: number) => {
+    btn.SetHandler("OnMouseDown", (self: TemperCraftingButton, button: number) => {
       if (button === 2) {
         toChat(defined(self.data?.link))
       }
@@ -309,7 +309,7 @@ export function styleInitialize(): undefined {
     }
     lbl.SetText(name)
 
-    let av: ButtonControl
+    let av: TemperCraftingButton
     if (
       WINDOW_MANAGER.GetControlByName(`TemperCrafting_StylePanelScrollChildAchievement${id}`) ===
       undefined
@@ -327,13 +327,13 @@ export function styleInitialize(): undefined {
       av.SetHorizontalAlignment(0)
       av.SetVerticalAlignment(1)
     } else {
-      av = mustControl<ButtonControl>(`TemperCrafting_StylePanelScrollChildAchievement${id}`)
+      av = mustControl<TemperCraftingButton>(`TemperCrafting_StylePanelScrollChildAchievement${id}`)
     }
 
     if (aName !== "crown") {
       av.EnableMouseButton(2, true)
       av.SetText(`[${aName}]`)
-      av.SetHandler("OnMouseDown", (_self: ButtonControl, button: number) => {
+      av.SetHandler("OnMouseDown", (_self: TemperCraftingButton, button: number) => {
         if (button === 2) {
           toChat(defined(aLink))
         } else {
@@ -347,7 +347,7 @@ export function styleInitialize(): undefined {
     }
     for (const [z, y] of ipairs(icons)) {
       const [slotIcon, slotLink] = styleLib.getIconAndLink(style, y)
-      let slotBtn: ButtonControl
+      let slotBtn: TemperCraftingButton
       const btnName = `TemperCrafting_StylePanelScrollChild${id}Button${y}`
       if (WINDOW_MANAGER.GetControlByName(btnName) === undefined) {
         slotBtn = WINDOW_MANAGER.CreateControl(btnName, p, CT_BUTTON)
@@ -361,13 +361,13 @@ export function styleInitialize(): undefined {
         slotBtn.SetHandler("OnMouseExit", (self: CsTooltipOwner) =>
           Tooltips.tooltip(self, false, true)
         )
-        slotBtn.SetHandler("OnMouseDown", (self: ButtonControl, button: number) => {
+        slotBtn.SetHandler("OnMouseDown", (self: TemperCraftingButton, button: number) => {
           if (button === 2) {
             toChat(defined(self.data?.link))
           }
         })
       } else {
-        slotBtn = mustControl<ButtonControl>(btnName)
+        slotBtn = mustControl<TemperCraftingButton>(btnName)
       }
       slotBtn.data = { link: slotLink, buttons: [STATE.Loc.TT[5]] }
       let texControl: TextureControl

@@ -74,7 +74,7 @@ export function panelInitialize(): undefined {
   }
   for (const [x, level] of pairs(STATE.Rune.level)) {
     const name = split(x)
-    const btn = WM.CreateControl(
+    const btn: TemperCraftingButton = WM.CreateControl(
       `TemperCrafting_RuneMenuButton${x}`,
       TemperCrafting_RuneMenu,
       CT_BUTTON
@@ -176,7 +176,7 @@ export function panelInitialize(): undefined {
     `${STATE.Loc.level}: ${STATE.Rune.level[STATE.Character.potency]}`
   )
   Options.optionSet()
-  let control: Control | undefined
+  let control: TemperCraftingControl | undefined
   for (let x = 1; x <= 16; x++) {
     const [listName] = GetRecipeListInfo(x)
     control = WM.GetControlByName(`TemperCrafting_CookCategoryButton${x}`)
@@ -256,7 +256,9 @@ export function panelInitialize(): undefined {
   TemperCrafting_BlueprintCategoryButton6.data = { info: GetString(SI_RECIPECRAFTINGSYSTEM6) }
   TemperCrafting_BlueprintCategoryButton7.data = { info: GetString(SI_RECIPECRAFTINGSYSTEM7) }
   for (let x = 1; x <= 5; x++) {
-    const aspectButton = WM.GetControlByName(`TemperCrafting_RuneAspect${x}Button`)
+    const aspectButton = WM.GetControlByName<TemperCraftingControl>(
+      `TemperCrafting_RuneAspect${x}Button`
+    )
     if (aspectButton !== undefined) {
       const aspectId = STATE.Rune.rune[ITEMTYPE_ENCHANTING_RUNE_ASPECT]?.[x]
       if (typeof aspectId !== "number") {
@@ -267,7 +269,7 @@ export function panelInitialize(): undefined {
   }
 }
 
-export function inventorySpace(control: Control): undefined {
+export function inventorySpace(control: TemperCraftingControl): undefined {
   ;(control as LabelControl).SetText(
     `${GetNumBagUsedSlots(BAG_BACKPACK)}/${GetBagSize(BAG_BACKPACK)}`
   )

@@ -42,7 +42,7 @@ export function updateResearchWindows(): undefined {
   let unknown = 0
   let row = 1
   const now = GetTimeStamp()
-  let control: Control | undefined
+  let control: TemperCraftingControl | undefined
   const pip = `|r|c808080  ${GetString(SI_BULLET)}|r  `
   const skill = asCraftSkillTable(STATE.Account.crafting.skill[STATE.SelectedPlayer])
   for (const [craft, craftData] of pairs(

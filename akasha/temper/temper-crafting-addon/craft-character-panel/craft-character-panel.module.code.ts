@@ -85,7 +85,7 @@ export function removeCharacter(char: string): undefined {
   }
 }
 
-export function loadCharacter(control: Control, button: number): undefined {
+export function loadCharacter(control: TemperCraftingControl, button: number): undefined {
   const char = control.data?.charactername
   if (char === undefined) {
     return
@@ -139,7 +139,7 @@ export function drawCharacters(): undefined {
                 const [tid] = GetSmithingResearchLineTraitInfo(craft, line, trait)
                 const [, , ticon] = GetSmithingTraitItemInfo(tid + 1)
                 if (account.options.overviewstyle === 1) {
-                  const control = mustControl<ButtonControl>(
+                  const control = mustControl<TemperCraftingButton>(
                     `TemperCrafting_Character${nr}Research${craft}Slot${row}`
                   )
                   control.SetText(`|t22:22:${icon}|t  |t22:22:${ticon}|t`)
@@ -179,7 +179,7 @@ export function drawCharacters(): undefined {
         } else {
           simcolor = "|cFF0000"
         }
-        mustControl<ButtonControl>(`TemperCrafting_Character${nr}Skill${craft}`).SetText(
+        mustControl<TemperCraftingButton>(`TemperCrafting_Character${nr}Skill${craft}`).SetText(
           `|t24:24:${CRAFT_ICON[craft]}|t  ${level} (${rank})|r    |c808080${GetString(SI_BULLET)}|r   ${simcolor}${current} / ${maxsim}|r`
         )
         row = 1
@@ -199,7 +199,7 @@ export function drawCharacters(): undefined {
     }
     const mainchar = account.mainchar === char
     mustControl(`TemperCrafting_CharacterFrame${nr}`).SetHidden(false)
-    let control = mustControl<ButtonControl>(`TemperCrafting_Character${nr}Name`)
+    let control = mustControl<TemperCraftingButton>(`TemperCrafting_Character${nr}Name`)
     if (RACES[player.race] === undefined) {
       player.race = 1
     }
@@ -213,7 +213,7 @@ export function drawCharacters(): undefined {
       `${tex(mainchar)}${char}${player.level !== 0 ? ` (${player.level}) ` : ""}|t25:25:${FLAGS[player.faction]}|t|t30:30:${CLASSES[player.class]}|t|t25:25:${RACES[player.race]}|t`
     )
     control.data = { charactername: char, info: STATE.Loc.TT[9] }
-    control = mustControl<ButtonControl>(`TemperCrafting_Character${nr}Info`)
+    control = mustControl<TemperCraftingButton>(`TemperCrafting_Character${nr}Info`)
     if (!player.mount.complete) {
       control.SetText(
         `${texture(defined(MOUNT.capacity), 20)} ${player.mount.space}  ${texture(defined(MOUNT.stamina), 20)} ${player.mount.stamina} ${texture(defined(MOUNT.speed), 20)} ${player.mount.speed}  |t22:22:esoui/art/miscellaneous/timer_32.dds|t ${Utilities.getTime(player.mount.time - GetTimeStamp())}`
@@ -222,13 +222,13 @@ export function drawCharacters(): undefined {
       control.SetText(`${texture(defined(MOUNT.skills), 24)} 180/180`)
     }
     control.data = { info: STATE.Loc.TT[19] }
-    control = mustControl<ButtonControl>(`TemperCrafting_Character${nr}InfoSkillPoints`)
+    control = mustControl<TemperCraftingButton>(`TemperCrafting_Character${nr}InfoSkillPoints`)
     if (player.skillPoints === undefined) {
       player.skillPoints = "?/?"
     }
     control.SetText(`${STATE.Loc.TT[29]}${player.skillPoints}`)
     control.data = { info: STATE.Loc.TT[28] }
-    control = mustControl<ButtonControl>(`TemperCrafting_Character${nr}InfoSkyShards`)
+    control = mustControl<TemperCraftingButton>(`TemperCrafting_Character${nr}InfoSkyShards`)
     if (player.skyShards === undefined) {
       player.skyShards = "?/?"
     }
@@ -248,7 +248,7 @@ export function drawCharacters(): undefined {
             : offlineRank !== undefined
               ? string.format("%02d", offlineRank)
               : "--"
-        control = mustControl<ButtonControl>(`TemperCrafting_Character${nr}Skill${x}`)
+        control = mustControl<TemperCraftingButton>(`TemperCrafting_Character${nr}Skill${x}`)
         control.SetText(`|t24:24:${icon}|t  ${level} (${rank})`)
         control.data = {
           info: `${zo_strformat("<<C:1>>", name)} - ${STATE.Loc.rank} (${STATE.Loc.level})`,
@@ -256,13 +256,13 @@ export function drawCharacters(): undefined {
       }
     }
     getResearch(char, nr)
-    mustControl<ButtonControl>(`TemperCrafting_Character${nr}Recipe`).SetText(
+    mustControl<TemperCraftingButton>(`TemperCrafting_Character${nr}Recipe`).SetText(
       `${swatch(account.cook.tracking[char])} |t22:22:esoui/art/icons/quest_scroll_001.dds|t`
     )
-    mustControl<ButtonControl>(`TemperCrafting_Character${nr}Style`).SetText(
+    mustControl<TemperCraftingButton>(`TemperCrafting_Character${nr}Style`).SetText(
       `${swatch(account.style.tracking[char])} |t22:22:esoui/art/icons/quest_book_001.dds|t`
     )
-    mustControl<ButtonControl>(`TemperCrafting_Character${nr}Trait`).SetText(
+    mustControl<TemperCraftingButton>(`TemperCrafting_Character${nr}Trait`).SetText(
       `${swatch(account.trait.tracking[char])} |t22:22:esoui/art/icons/crafting_potent_nirncrux_dust.dds|t`
     )
   }

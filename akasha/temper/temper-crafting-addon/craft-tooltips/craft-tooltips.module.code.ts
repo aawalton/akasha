@@ -6,7 +6,7 @@ import { stripLink } from "../crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "../crafting-state/crafting-state.module.code.ts"
 import "../craft-decl-controls/craft-decl-controls.module.code.ts"
 
-export function setTimer(control: ButtonControl, hour: number): undefined {
+export function setTimer(control: TemperCraftingButton, hour: number): undefined {
   const account = STATE.Account
   const seconds = hour * 3600
   if ((account.timer[hour] ?? 0) > 0) {
@@ -19,7 +19,7 @@ export function setTimer(control: ButtonControl, hour: number): undefined {
   Utilities.getTimer()
 }
 
-export interface CsTooltipOwner extends Control {
+export interface CsTooltipOwner extends TemperCraftingControl {
   text?: TooltipControl
 }
 
@@ -27,13 +27,13 @@ export function tooltip(
   c: CsTooltipOwner | undefined,
   visible: boolean,
   scale?: boolean,
-  parent?: Control,
+  parent?: TemperCraftingControl,
   pos?: string | number
 ): undefined {
   if (c === undefined) {
     return
   }
-  function iconScale(target: Control, from: number, to: number): undefined {
+  function iconScale(target: TemperCraftingControl, from: number, to: number): undefined {
     const [a, t] = CreateSimpleAnimation(ANIMATION_SCALE, target)
     a.SetDuration(150)
     const scale = a as ScaleAnimation

@@ -1,15 +1,15 @@
 export {}
 
 declare global {
-  const TemperCrafting_CharacterPanelBoxScrollChild: Control
+  const TemperCrafting_CharacterPanelBoxScrollChild: TemperCraftingControl
 
-  const TemperCrafting_CharacterPanel: Control
+  const TemperCrafting_CharacterPanel: TemperCraftingControl
 
-  const TemperCrafting_PanelButtonCharacters: ButtonControl
+  const TemperCrafting_PanelButtonCharacters: TemperCraftingButton
 
-  const TemperCrafting_CharacterFrame1: Control | undefined
+  const TemperCrafting_CharacterFrame1: TemperCraftingControl | undefined
 
-  const TemperCrafting_ButtonFrame: Control
+  const TemperCrafting_ButtonFrame: TemperCraftingControl
 
   const TemperCrafting_ButtonFrameButtonBG: TopLevelWindow
 
@@ -17,13 +17,13 @@ declare global {
 
   const TemperCrafting_Panel: TopLevelWindow
 
-  const TemperCrafting_PanelButtonCraftedSets: ButtonControl
+  const TemperCrafting_PanelButtonCraftedSets: TemperCraftingButton
 
-  const TemperCrafting_SetPanel: Control
+  const TemperCrafting_SetPanel: TemperCraftingControl
 
-  const TemperCrafting_SetPanelScrollChild: Control
+  const TemperCrafting_SetPanelScrollChild: TemperCraftingControl
 
-  const TemperCrafting_Style: Control
+  const TemperCrafting_Style: TemperCraftingControl
 
   type CsResearchRef = [number, number, number, unknown]
 
@@ -36,67 +36,67 @@ declare global {
 
   const TemperCrafting_Panel24Hours: LabelControl
 
-  const TemperCrafting_PanelFenceGoldText: LabelControl
+  const TemperCrafting_PanelFenceGoldText: TemperCraftingLabel
 
-  const TemperCrafting_PanelQuestButton: Control
+  const TemperCrafting_PanelQuestButton: TemperCraftingControl
 
-  const TemperCrafting_ButtonFrameButton: Control
+  const TemperCrafting_ButtonFrameButton: TemperCraftingControl
 
   const TemperCrafting_CharacterPanelHeader: LabelControl
 
   const TemperCrafting_StylePreviewType: CsComboBoxControl
 
-  const TemperCrafting_CookSpaceButton: Control
+  const TemperCrafting_CookSpaceButton: TemperCraftingControl
 
-  const TemperCrafting_CookCategoryButtonFavorites: Control
+  const TemperCrafting_CookCategoryButtonFavorites: TemperCraftingControl
 
-  const TemperCrafting_CookCategoryButtonWrit: Control
+  const TemperCrafting_CookCategoryButtonWrit: TemperCraftingControl
 
-  const TemperCrafting_CookCategoryButtonFurniture: Control
+  const TemperCrafting_CookCategoryButtonFurniture: TemperCraftingControl
 
-  const TemperCrafting_CookCategoryButtonFurnitureFavorites: Control
+  const TemperCrafting_CookCategoryButtonFurnitureFavorites: TemperCraftingControl
 
-  const TemperCrafting_CookCategoryButtonFillet: Control
+  const TemperCrafting_CookCategoryButtonFillet: TemperCraftingControl
 
-  const TemperCrafting_BlueprintCategoryButton1: Control
+  const TemperCrafting_BlueprintCategoryButton1: TemperCraftingControl
 
-  const TemperCrafting_BlueprintCategoryButton2: Control
+  const TemperCrafting_BlueprintCategoryButton2: TemperCraftingControl
 
-  const TemperCrafting_BlueprintCategoryButton3: Control
+  const TemperCrafting_BlueprintCategoryButton3: TemperCraftingControl
 
-  const TemperCrafting_BlueprintCategoryButton4: Control
+  const TemperCrafting_BlueprintCategoryButton4: TemperCraftingControl
 
-  const TemperCrafting_BlueprintCategoryButton5: Control
+  const TemperCrafting_BlueprintCategoryButton5: TemperCraftingControl
 
-  const TemperCrafting_BlueprintCategoryButton6: Control
+  const TemperCrafting_BlueprintCategoryButton6: TemperCraftingControl
 
-  const TemperCrafting_BlueprintCategoryButton7: Control
+  const TemperCrafting_BlueprintCategoryButton7: TemperCraftingControl
 
-  const TemperCrafting_RuneMenu: Control
+  const TemperCrafting_RuneMenu: TemperCraftingControl
 
-  const TemperCrafting_RuneArmorButton: Control
+  const TemperCrafting_RuneArmorButton: TemperCraftingControl
 
-  const TemperCrafting_RuneWeaponButton: Control
+  const TemperCrafting_RuneWeaponButton: TemperCraftingControl
 
-  const TemperCrafting_RuneJewelryButton: Control
+  const TemperCrafting_RuneJewelryButton: TemperCraftingControl
 
-  const TemperCrafting_RuneSpaceButton: Control
+  const TemperCrafting_RuneSpaceButton: TemperCraftingControl
 
-  const TemperCrafting_RuneCreateButton: Control
+  const TemperCrafting_RuneCreateButton: TemperCraftingControl
 
-  const TemperCrafting_RuneRefineButton: Control
+  const TemperCrafting_RuneRefineButton: TemperCraftingControl
 
-  const TemperCrafting_RuneFavoriteButton: Control
+  const TemperCrafting_RuneFavoriteButton: TemperCraftingControl
 
-  const TemperCrafting_RuneWritButton: Control
+  const TemperCrafting_RuneWritButton: TemperCraftingControl
 
-  const TemperCrafting_RuneFurnitureButton: Control
+  const TemperCrafting_RuneFurnitureButton: TemperCraftingControl
 
-  const TemperCrafting_RuneFavoriteFurnitureButton: Control
+  const TemperCrafting_RuneFavoriteFurnitureButton: TemperCraftingControl
 
-  const TemperCrafting_RuneRefineAllButton: Control
+  const TemperCrafting_RuneRefineAllButton: TemperCraftingControl
 
-  const TemperCrafting_RuneHandmadeButton: Control
+  const TemperCrafting_RuneHandmadeButton: TemperCraftingControl
 
   const TemperCrafting_QuestText: LabelControl
 
@@ -118,17 +118,17 @@ declare global {
 
   const TemperCrafting_RuneSearchBG: BackdropControl
 
-  const TemperCrafting_RuneLevelButton: ButtonControl
+  const TemperCrafting_RuneLevelButton: TemperCraftingButton
 
-  const TemperCrafting_RuneGlyphSectionScrollChild: Control
+  const TemperCrafting_RuneGlyphSectionScrollChild: TemperCraftingControl
 
-  const TemperCrafting_RuneGlyphSectionScrollChildRefine: Control
+  const TemperCrafting_RuneGlyphSectionScrollChildRefine: TemperCraftingControl
 
-  const TemperCrafting_RuneGlyphSectionScrollChildSelection: Control
+  const TemperCrafting_RuneGlyphSectionScrollChildSelection: TemperCraftingControl
 
   const TemperCrafting_RuneGlyphDivider: BackdropControl
 
-  const TemperCrafting_RuneCloseButton: ButtonControl
+  const TemperCrafting_RuneCloseButton: TemperCraftingButton
 
   const TemperCrafting_RuneSpaceButtonName: LabelControl
 
@@ -136,7 +136,7 @@ declare global {
 
   const TemperCrafting_RuneHighlight2: TextureControl
 
-  const TemperCrafting_QuestFrame: Control & {
+  const TemperCrafting_QuestFrame: TemperCraftingControl & {
     CreateControl: (name: string, controlType: CtControl) => InspirationContainer
   }
 
@@ -148,7 +148,7 @@ declare global {
 
   const TemperCrafting_Recipe: BackdropControl
 
-  const TemperCrafting_RecipePanelScrollChild: Control
+  const TemperCrafting_RecipePanelScrollChild: TemperCraftingControl
 
   const TemperCrafting_RecipeHeadline: LabelControl
 
@@ -156,13 +156,13 @@ declare global {
 
   const TemperCrafting_RecipeSearch: EditControl
 
-  const TemperCrafting_RecipeHideKnownButton: ButtonControl
+  const TemperCrafting_RecipeHideKnownButton: TemperCraftingButton
 
-  const TemperCrafting_RecipeHideUnknownButton: ButtonControl
+  const TemperCrafting_RecipeHideUnknownButton: TemperCraftingButton
 
   const TemperCrafting_Cook: TopLevelWindow
 
-  const TemperCrafting_CookFoodSectionScrollChild: Control
+  const TemperCrafting_CookFoodSectionScrollChild: TemperCraftingControl
 
   const TemperCrafting_CookHeadline: LabelControl
 
@@ -176,25 +176,25 @@ declare global {
 
   const TemperCrafting_Style_Window: TopLevelWindow
 
-  const TemperCrafting_StylePanelScrollChildStyles: Control
+  const TemperCrafting_StylePanelScrollChildStyles: TemperCraftingControl
 
-  const TemperCrafting_StylePanelScrollChildSets: Control
+  const TemperCrafting_StylePanelScrollChildSets: TemperCraftingControl
 
   const TemperCrafting_StyleHeader: LabelControl
 
-  const TemperCrafting_StyleHideButton: ButtonControl
+  const TemperCrafting_StyleHideButton: TemperCraftingButton
 
-  const TemperCrafting_StyleHideCrownButton: ButtonControl
+  const TemperCrafting_StyleHideCrownButton: TemperCraftingButton
 
-  const TemperCrafting_StyleHidePerfectedButton: ButtonControl
+  const TemperCrafting_StyleHidePerfectedButton: TemperCraftingButton
 
-  const TemperCrafting_StyleHideUnknownButton: ButtonControl
+  const TemperCrafting_StyleHideUnknownButton: TemperCraftingButton
 
   const TemperCrafting_Blueprint_Window: TopLevelWindow
 
   const TemperCrafting_Blueprint: BackdropControl
 
-  const TemperCrafting_BlueprintPanelScrollChild: Control
+  const TemperCrafting_BlueprintPanelScrollChild: TemperCraftingControl
 
   const TemperCrafting_BlueprintHeadline: LabelControl
 
@@ -202,9 +202,9 @@ declare global {
 
   const TemperCrafting_BlueprintSearch: EditControl
 
-  const TemperCrafting_BlueprintHideKnownButton: ButtonControl
+  const TemperCrafting_BlueprintHideKnownButton: TemperCraftingButton
 
-  const TemperCrafting_BlueprintHideUnknownButton: ButtonControl
+  const TemperCrafting_BlueprintHideUnknownButton: TemperCraftingButton
 
   interface ObjectPool<T> {
     ReleaseObject: (key: number) => undefined
@@ -214,8 +214,20 @@ declare global {
     HideTopLevel: (topLevelWindow: Control) => undefined
   }
 
-  interface Control {
+  interface TemperCraftingControl extends Control {
     data?: TemperCraftingControlData
+    checkState?: number
+    tristate?: boolean
+  }
+
+  interface TemperCraftingLabel extends LabelControl {
+    data?: TemperCraftingControlData
+  }
+
+  interface TemperCraftingButton extends ButtonControl {
+    data?: TemperCraftingControlData
+    checkState?: number
+    tristate?: boolean
   }
 
   interface ButtonControl {

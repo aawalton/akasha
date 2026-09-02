@@ -145,7 +145,7 @@ const INGREDIENT_FACTORY: IngredientFactory = {
 
 PotMaker.Ingredient = INGREDIENT_FACTORY
 
-function toggleButton(this: void, resultButton: Control, button: number): undefined {
+function toggleButton(this: void, resultButton: TemperCraftingControl, button: number): undefined {
   if (button !== MOUSE_BUTTON_INDEX_LEFT) {
     return
   }
@@ -170,7 +170,7 @@ function toggleButton(this: void, resultButton: Control, button: number): undefi
 
 function setToggleButton(
   this: void,
-  resultButton: Control,
+  resultButton: TemperCraftingControl,
   checkState: number | boolean
 ): undefined {
   const control = resultButton.GetNamedChild<TextureControl>("Outline")
@@ -205,11 +205,11 @@ function setToggleButton(
   }
 }
 
-function toggleButtonIsChecked(this: void, resultButton: Control): boolean {
+function toggleButtonIsChecked(this: void, resultButton: TemperCraftingControl): boolean {
   return resultButton.checkState === TRISTATE_CHECK_BUTTON_CHECKED
 }
 
-function getToggleButtonCheckState(this: void, resultButton: Control): number {
+function getToggleButtonCheckState(this: void, resultButton: TemperCraftingControl): number {
   return resultButton.checkState ?? TRISTATE_CHECK_BUTTON_INDETERMINATE
 }
 
