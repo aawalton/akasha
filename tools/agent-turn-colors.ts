@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
 
+import { sayAnswer } from "./lib/answer.ts"
 import { colorsOf } from "./lib/agent-turn-drawn.ts"
 import { colorOfState } from "./lib/seat-turn-color.ts"
 import { SEAT_TURN_STATES, type SeatTurnState } from "./lib/seat-turn-state.ts"
@@ -108,10 +109,10 @@ export function main(argv: readonly string[]): number {
       )
       return 1
     }
-    process.stdout.write(`${JSON.stringify({ colors: answer.colors })}\n`)
+    sayAnswer(`${JSON.stringify({ colors: answer.colors })}\n`)
     return 0
   }
-  process.stdout.write(`${JSON.stringify({ colors: colorsOf(agents) })}\n`)
+  sayAnswer(`${JSON.stringify({ colors: colorsOf(agents) })}\n`)
   return 0
 }
 

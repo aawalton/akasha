@@ -1,6 +1,7 @@
 #!/usr/bin/env bun
 
 import { duringOneCall } from "@akasha/command-system/during-call"
+import { sayAnswer } from "./lib/answer.ts"
 import { askHere } from "../readouts/ask-here.ts"
 import type { Ask } from "../readouts/readout-resolver.ts"
 
@@ -71,7 +72,7 @@ export async function main(argv: readonly string[]): Promise<number> {
     return 1
   }
   try {
-    process.stdout.write(`${JSON.stringify(await pageAnswers())}\n`)
+    sayAnswer(`${JSON.stringify(await pageAnswers())}\n`)
   } catch (err) {
     process.stderr.write(`error: ${err instanceof Error ? err.message : String(err)}\n`)
     return 3

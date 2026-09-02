@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
 
+import { sayAnswer } from "./lib/answer.ts"
 import { akashaSeatsStanding } from "./lib/seat-akasha-beside.ts"
 import { akashaSeatRecordOf } from "./lib/seat-akasha-read.ts"
 
@@ -49,7 +50,7 @@ export function main(argv: readonly string[]): number {
     return 1
   }
   try {
-    process.stdout.write(`${JSON.stringify({ seats: seatTranscripts() })}\n`)
+    sayAnswer(`${JSON.stringify({ seats: seatTranscripts() })}\n`)
   } catch (err) {
     process.stderr.write(`error: ${err instanceof Error ? err.message : String(err)}\n`)
     return 3

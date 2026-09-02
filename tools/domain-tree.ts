@@ -2,6 +2,7 @@
 
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { domainsDrawn } from "../akasha/editor-extension/panel-domains/panel-domains.module.code.ts"
+import { sayAnswer } from "./lib/answer.ts"
 import { type DomainRow, championTree } from "./lib/champions-tree.ts"
 
 const HELP = `bun tools/domain-tree.ts — the domain tree, composed from the files now
@@ -52,7 +53,7 @@ export function main(argv: readonly string[]): number {
     return 1
   }
   try {
-    process.stdout.write(`${JSON.stringify(domainTree())}\n`)
+    sayAnswer(`${JSON.stringify(domainTree())}\n`)
   } catch (err) {
     process.stderr.write(`error: ${err instanceof Error ? err.message : String(err)}\n`)
     return 3

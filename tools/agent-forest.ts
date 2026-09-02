@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
 
+import { sayAnswer } from "./lib/answer.ts"
 import { readSeatForest } from "./lib/seat-forest.ts"
 import { colorOfState } from "./lib/seat-turn-color.ts"
 import { seatTurnStateOf } from "./lib/seat-turn-state.ts"
@@ -59,7 +60,7 @@ export async function main(argv: readonly string[]): Promise<number> {
         color: colorOfState(reading.state),
       }
     })
-    process.stdout.write(`${JSON.stringify({ rows })}\n`)
+    sayAnswer(`${JSON.stringify({ rows })}\n`)
   } catch (err) {
     process.stderr.write(`error: ${err instanceof Error ? err.message : String(err)}\n`)
     return 3

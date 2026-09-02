@@ -5,6 +5,7 @@ export const tool = {
 
 import { type Drawn, type Initiatives, type Node, workTree, render, walk } from "./lib/work-tree.ts"
 import { initiativesDrawn } from "../akasha/editor-extension/work-initiatives/work-initiatives.module.code.ts"
+import { sayAnswer } from "./lib/answer.ts"
 import { drawnNow } from "./lib/work-tree-drawn.ts"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
@@ -87,12 +88,12 @@ export function main(argv: readonly string[]): number {
   }
   const repo = akashaRoot()
   if (argv.includes("--colors") || argv.includes("--colours")) {
-    process.stdout.write(`${JSON.stringify(colorsAnswer(repo, drawnNow()))}\n`)
+    sayAnswer(`${JSON.stringify(colorsAnswer(repo, drawnNow()))}\n`)
     return 0
   }
   const tree = workTree(initiativesIn(repo), drawnNow())
   if (argv.includes("--json")) {
-    process.stdout.write(`${JSON.stringify({ repo, roots: tree })}\n`)
+    sayAnswer(`${JSON.stringify({ repo, roots: tree })}\n`)
     return 0
   }
   const lines = argv.includes("--counts") ? counts(tree) : render(tree)

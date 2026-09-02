@@ -3,6 +3,7 @@ import * as fs from 'node:fs';
 import * as os from 'node:os';
 import * as path from 'node:path';
 import { promisify } from 'node:util';
+import { answerBytesSaid } from '@tools/lib/answer';
 import { isServed } from '@tools/lib/verb-served';
 import { askServed, VerbServerClient } from './verb-server-client.ts';
 
@@ -57,17 +58,48 @@ export interface HarnessCallOptions {
 	readonly maxBuffer: number;
 }
 
-async function run(file: string, args: readonly string[], options: HarnessCallOptions): Promise<string> {
-	const { stdout } = await execFileP(file, [...args], {
+export class HarnessShortAnswerError extends Error {
+	constructor(message: string) {
+		super(message);
+		this.name = 'HarnessShortAnswerError';
+	}
+}
+
+// WHAT THE CHILD SAID IT WOULD SEND, AGAINST WHAT ARRIVED. A read that ends early hands back a
+// prefix of the answer, and a prefix of JSON is a syntax error at a byte nobody chose: the caller
+// reads it as a verb that prints rubbish rather than as an answer that did not all arrive. A verb
+// that states its size — see `tools/lib/answer.ts` — is checked here, so a short answer refuses by
+// name and names both numbers. One that states none is passed through, as it always was.
+function whole(what: string, stdout: string, stderr: string): string {
+	const said = answerBytesSaid(stderr);
+	if (said === null) {
+		return stdout;
+	}
+	const arrived = Buffer.byteLength(stdout, 'utf8');
+	if (arrived !== said) {
+		throw new HarnessShortAnswerError(
+			`${what} said its answer is ${said} bytes and ${arrived} arrived, so this is not the whole answer`
+		);
+	}
+	return stdout;
+}
+
+async function run(
+	what: string,
+	file: string,
+	args: readonly string[],
+	options: HarnessCallOptions
+): Promise<string> {
+	const { stdout, stderr } = await execFileP(file, [...args], {
 		env: harnessEnvironment(),
 		timeout: options.timeout,
 		maxBuffer: options.maxBuffer,
 	});
-	return stdout;
+	return whole(what, stdout, stderr);
 }
 
 export async function runOps(args: readonly string[], options: HarnessCallOptions): Promise<string> {
-	return run(opsPath(), args, options);
+	return run('ops', opsPath(), args, options);
 }
 
 export function repositoryPath(repo: string): string {
@@ -133,9 +165,9 @@ export async function runVerb(
 		if (answer.code !== 0) {
 			throw new Error(`${verb} exited ${answer.code}: ${answer.stderr.trim()}`);
 		}
-		return answer.stdout;
+		return whole(verb, answer.stdout, answer.stderr);
 	}
-	return run(path.join(bunDirectory(), 'bun'), [verbFile, ...args], options);
+	return run(verb, path.join(bunDirectory(), 'bun'), [verbFile, ...args], options);
 }
 
 export function unreachableMessage(error: unknown): string {
