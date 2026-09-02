@@ -1,0 +1,26 @@
+{
+  "name": "@akasha/temper-items-rules-core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./buy-rule-eval": "./buy-rule-eval/buy-rule-eval.module.code.ts",
+    "./buy-rule-types": "./buy-rule-types/buy-rule-types.module.code.ts",
+    "./can-level-morphs-filter-types": "./can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts",
+    "./comparison-op": "./comparison-op/comparison-op.module.code.ts",
+    "./comparison-op-data": "./comparison-op-data/comparison-op-data.module.code.ts",
+    "./inventory-rule-goals": "./inventory-rule-goals/inventory-rule-goals.module.code.ts",
+    "./potion-restore-resolve": "./potion-restore-resolve/potion-restore-resolve.module.code.ts",
+    "./required-curse-state-filter-types": "./required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts",
+    "./required-skill-lines-filter-types": "./required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts",
+    "./rule-constants": "./rule-constants/rule-constants.module.code.ts",
+    "./scribing-total-script-count": "./scribing-total-script-count/scribing-total-script-count.module.code.ts",
+    "./stock-destination-types": "./stock-destination-types/stock-destination-types.module.code.ts",
+    "./stock-reconcile-plan": "./stock-reconcile-plan/stock-reconcile-plan.module.code.ts",
+    "./use-destination-planner": "./use-destination-planner/use-destination-planner.module.code.ts",
+    "./use-destination-resolver": "./use-destination-resolver/use-destination-resolver.module.code.ts",
+    "./use-destination-types": "./use-destination-types/use-destination-types.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
