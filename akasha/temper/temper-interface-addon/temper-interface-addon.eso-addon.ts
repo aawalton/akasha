@@ -104,7 +104,11 @@ export const temperInterfaceAddon = {
     "module/interface-global",
     "module/interface-identity",
     "module/interface-load",
+    "type-declaration/assistant-entry-declarations",
     "type-declaration/fco-controls",
+    "type-declaration/fco-global-declarations",
+    "type-declaration/interface-global-declarations",
+    "type-declaration/quiet-camera-keybind-declarations",
     "eso-interface/fcocs-virtuals",
   ],
   invariants: [

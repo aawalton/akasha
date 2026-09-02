@@ -3,10 +3,6 @@ import { ASSISTANT_COLLECTIBLES } from "../assistant-collectibles/assistant-coll
 
 const ADDON_NAME = "TemperPersonalAssistant"
 
-declare global {
-  var PERSONNAL_ASSISTANTS: typeof ASSISTANT_COLLECTIBLES
-}
-
 export function initPersonalAssistant(this: void): undefined {
   globalThis.PERSONNAL_ASSISTANTS = ASSISTANT_COLLECTIBLES
   createBindings()

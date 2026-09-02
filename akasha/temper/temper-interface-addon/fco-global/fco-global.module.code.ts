@@ -7,21 +7,6 @@ import { playerPinPingPong } from "../fco-map/fco-map.module.code.ts"
 import { muteSFXSound } from "../fco-sounds/fco-sounds.module.code.ts"
 import { togglePromotionalEventTrackerUi } from "../fco-ui/fco-ui.module.code.ts"
 
-export interface TemperFCOChangeStuffGlobal extends Record<string, unknown> {
-  openLAMAddonSettings: typeof openLAMAddonSettings
-  playerPinPingPong: typeof playerPinPingPong
-  keybinds: typeof keybinds
-  muteSFXSound: typeof muteSFXSound
-  toggleGroupElectionAutoDecline: typeof toggleGroupElectionAutoDecline
-  switchBankMenuBarDescriptor: typeof switchBankMenuBarDescriptor
-  TogglePromotionalEventTrackerUI: typeof togglePromotionalEventTrackerUi
-  ScrollScrollList: typeof scrollScrollList
-}
-
-declare global {
-  var TemperFCOChangeStuff: TemperFCOChangeStuffGlobal
-}
-
 globalThis.TemperFCOChangeStuff = {
   openLAMAddonSettings,
   playerPinPingPong,

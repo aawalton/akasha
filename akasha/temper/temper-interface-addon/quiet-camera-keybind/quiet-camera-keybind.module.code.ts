@@ -2,10 +2,6 @@ import { dontRotateGameCamera } from "../quiet-camera/quiet-camera.module.code.t
 import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
 import { BINDING_NAME_NOCAMROTATE_TOGGLE } from "../quiet-strings/quiet-strings.module.code.ts"
 
-declare global {
-  var NTY_ToggleRotateGameCamera: (this: void) => undefined
-}
-
 ZO_CreateStringId("SI_BINDING_NAME_NOCAMROTATE_TOGGLE", BINDING_NAME_NOCAMROTATE_TOGGLE)
 
 function toggleRotateGameCamera(this: void): undefined {
