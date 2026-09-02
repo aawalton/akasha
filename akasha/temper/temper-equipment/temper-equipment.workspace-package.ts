@@ -15,6 +15,10 @@ export const temperEquipment = {
     "module/set-patterns",
     "module/set-template",
     "module/weapon-type-ids",
+    "module/armor-traits",
+    "module/eso-trait-map",
+    "module/jewelry-traits",
+    "module/weapon-traits",
   ],
   invariants: [
     {

@@ -3,17 +3,22 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./armor-traits": "./armor-traits/armor-traits.module.code.ts",
     "./armor-weight-ids": "./armor-weight-ids/armor-weight-ids.module.code.ts",
+    "./eso-trait-map": "./eso-trait-map/eso-trait-map.module.code.ts",
+    "./jewelry-traits": "./jewelry-traits/jewelry-traits.module.code.ts",
     "./set-category-ids": "./set-category-ids/set-category-ids.module.code.ts",
     "./set-ids": "./set-ids/set-ids.module.code.ts",
     "./set-ids-a-to-o": "./set-ids-a-to-o/set-ids-a-to-o.module.code.ts",
     "./set-ids-p-to-z": "./set-ids-p-to-z/set-ids-p-to-z.module.code.ts",
     "./set-patterns": "./set-patterns/set-patterns.module.code.ts",
     "./set-template": "./set-template/set-template.module.code.ts",
+    "./weapon-traits": "./weapon-traits/weapon-traits.module.code.ts",
     "./weapon-type-ids": "./weapon-type-ids/weapon-type-ids.module.code.ts"
   },
   "dependencies": {
     "@akasha/temper-equipment-kinds": "workspace:*",
-    "@akasha/temper-formula-framework": "workspace:*"
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
   }
 }
