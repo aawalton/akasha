@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Entries dominate: 4,189 `.jsonl` files and 789,461 rows under akasha, and a writer for the numbered part files landed at `0d56d921e2`, proved at `f46fa0f0e5`. What that writer produces cannot land: `file-has-its-page` refuses a `.part2.jsonl` because no page claims it, and the row judge reads only the first. Alan approved both mends; a seat is landing them. The addon-data pipeline is dead: `ensureAllOutputDirs` walks 14 destinations and throws on the first of three orphans, at `ed11c507d9`.",
+        "The entries mends landed at `741975d358`: a page claims the numbered part files beside it, and the row judge reads past the first. Proven at the gate, faults seeded. Filed, not fixed: a part file beside a page the change does not carry is refused, so a writer carries the page with its parts. `indexing.module.code.ts` and two test files now sit within 30 bytes of the 15,000 ceiling. The addon-data pipeline is dead: `ensureAllOutputDirs` throws on the first of three orphans, at `ed11c507d9`.",
     },
     {
       statement: "No part of temper is outside akasha.",
