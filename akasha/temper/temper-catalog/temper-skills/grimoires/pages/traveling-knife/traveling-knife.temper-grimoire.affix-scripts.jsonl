@@ -1,10 +1,10 @@
-{"id":"01a05fce-28df-7804-863d-12db71c2fec2","scriptId":"maim","description":"Afflicts enemies with Minor Maim for 20 seconds, reducing damage done by 5%."}
-{"id":"01a05fce-28df-7acd-9767-3ed2d0827b4e","scriptId":"force","description":"Grants you Minor Force for 20 seconds, increasing Critical Damage by 10%."}
-{"id":"01a05fce-28df-7740-b813-0b6b00f98201","scriptId":"berserk","description":"Grants you Minor Berserk for 20 seconds, increasing damage done by 5%."}
-{"id":"01a05fce-28df-7ce8-86a2-efd29480897b","scriptId":"lifesteal","description":"Afflicts enemies with Minor Lifesteal for 20 seconds, healing attackers for 600 Health every 1 second."}
-{"id":"01a05fce-28df-7282-aeb0-0d0a8777e3f7","scriptId":"expedition","description":"Grants you Minor Expedition for 20 seconds, increasing Movement Speed by 15%."}
 {"id":"01a05fce-28df-790c-92bd-e56830fec831","scriptId":"off-balance","description":"Sets enemies Off Balance for 7 seconds."}
-{"id":"01a05fce-28df-736b-a064-c0e7b7c9759f","scriptId":"uncertainty","description":"Afflicts enemies with Minor Uncertainty for 20 seconds, reducing their Weapon and Spell Critical rating by 1314."}
-{"id":"01a05fce-28df-7e5c-9f51-7270092b0087","scriptId":"vulnerability","description":"Afflicts enemies with Minor Vulnerability for 20 seconds, increasing damage taken by 5%."}
-{"id":"01a05fce-28df-7e95-af6a-684f496e95a8","scriptId":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery for 10 seconds, increasing Weapon and Spell Damage by 20%."}
 {"id":"01a05fce-28df-7090-b425-45e76c471d51","scriptId":"savagery-and-prophecy","description":"Grants you Major Savagery and Major Prophecy for 10 seconds, increasing Weapon and Spell Critical rating by 2629."}
+{"id":"01a05fce-28df-7282-aeb0-0d0a8777e3f7","scriptId":"expedition","description":"Grants you Minor Expedition for 20 seconds, increasing Movement Speed by 15%."}
+{"id":"01a05fce-28df-7740-b813-0b6b00f98201","scriptId":"berserk","description":"Grants you Minor Berserk for 20 seconds, increasing damage done by 5%."}
+{"id":"01a05fce-28df-7e95-af6a-684f496e95a8","scriptId":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery for 10 seconds, increasing Weapon and Spell Damage by 20%."}
+{"id":"01a05fce-28df-7acd-9767-3ed2d0827b4e","scriptId":"force","description":"Grants you Minor Force for 20 seconds, increasing Critical Damage by 10%."}
+{"id":"01a05fce-28df-7e5c-9f51-7270092b0087","scriptId":"vulnerability","description":"Afflicts enemies with Minor Vulnerability for 20 seconds, increasing damage taken by 5%."}
+{"id":"01a05fce-28df-7804-863d-12db71c2fec2","scriptId":"maim","description":"Afflicts enemies with Minor Maim for 20 seconds, reducing damage done by 5%."}
+{"id":"01a05fce-28df-7ce8-86a2-efd29480897b","scriptId":"lifesteal","description":"Afflicts enemies with Minor Lifesteal for 20 seconds, healing attackers for 600 Health every 1 second."}
+{"id":"01a05fce-28df-736b-a064-c0e7b7c9759f","scriptId":"uncertainty","description":"Afflicts enemies with Minor Uncertainty for 20 seconds, reducing their Weapon and Spell Critical rating by 1314."}

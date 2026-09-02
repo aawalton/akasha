@@ -1,9 +1,9 @@
-{"id":"01a05fce-28df-7ea7-80d6-2c0f27ad65af","scriptId":"class-mastery","classId":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
-{"id":"01a05fce-28df-74bc-9925-65803837bd39","scriptId":"hunters-snare","description":"Leave behind a field of caltrops for 10 seconds, dealing 45 Physical Damage every second and reducing enemy Movement Speed by 50%."}
-{"id":"01a05fce-28df-7d7b-ad1a-676a09d1f259","scriptId":"assassins-misery","description":"Afflicts enemies with the Concussion, Sundered, and Hemorrhaging status effects."}
-{"id":"01a05fce-28df-7f96-9367-ffa138f77984","scriptId":"cavaliers-charge","description":"Increases the damage done by this ability as it travels outwards, increasing by 20% every 0.5 seconds."}
-{"id":"01a05fce-28df-71bf-9955-865dc799ea4d","scriptId":"thiefs-swiftness","description":"Leaves behind an area of speed for 10 seconds which increases the Movement Speed of you and your allies within by 15%."}
 {"id":"01a05fce-28df-7efd-8343-186aab69a6fd","scriptId":"lingering-torment","description":"Deals 2080 Physical Damage over 20 seconds to enemies."}
-{"id":"01a05fce-28df-7ec3-941d-265585ea8ba0","scriptId":"wayfarers-mastery","description":"Adds 30 seconds to the duration of your existing Continuous Attack passive ability effect. This effect can occur once every 1 minute."}
+{"id":"01a05fce-28df-74bc-9925-65803837bd39","scriptId":"hunters-snare","description":"Leave behind a field of caltrops for 10 seconds, dealing 45 Physical Damage every second and reducing enemy Movement Speed by 50%."}
 {"id":"01a05fce-28df-722b-a79e-84df7f601071","scriptId":"immobilizing-strike","description":"Immobilizes enemies for 3 seconds."}
+{"id":"01a05fce-28df-7d7b-ad1a-676a09d1f259","scriptId":"assassins-misery","description":"Afflicts enemies with the Concussion, Sundered, and Hemorrhaging status effects."}
+{"id":"01a05fce-28df-7ea7-80d6-2c0f27ad65af","scriptId":"class-mastery","classId":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
+{"id":"01a05fce-28df-71bf-9955-865dc799ea4d","scriptId":"thiefs-swiftness","description":"Leaves behind an area of speed for 10 seconds which increases the Movement Speed of you and your allies within by 15%."}
+{"id":"01a05fce-28df-7ec3-941d-265585ea8ba0","scriptId":"wayfarers-mastery","description":"Adds 30 seconds to the duration of your existing Continuous Attack passive ability effect. This effect can occur once every 1 minute."}
 {"id":"01a05fce-28df-74e6-a738-c216d9f32553","scriptId":"warriors-opportunity","description":"Each enemy hit increases the damage to other enemies by 5%, stacking up to 20 times."}
+{"id":"01a05fce-28df-7f96-9367-ffa138f77984","scriptId":"cavaliers-charge","description":"Increases the damage done by this ability as it travels outwards, increasing by 20% every 0.5 seconds."}

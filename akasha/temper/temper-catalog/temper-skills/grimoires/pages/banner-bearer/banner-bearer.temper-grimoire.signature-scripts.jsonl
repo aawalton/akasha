@@ -1,8 +1,8 @@
-{"id":"01a05fce-28de-7fd8-a7b3-8fc4f0b15fd6","scriptId":"sages-remedy","description":"Heals for 336 Health every 2 seconds."}
 {"id":"01a05fce-28de-7e94-9adc-fdcba0d17229","scriptId":"class-mastery","classId":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse. This effect reapplies itself every 5 seconds."}
-{"id":"01a05fce-28de-78f2-9914-246c089283a9","scriptId":"cavaliers-charge","description":"Increase your Weapon and Spell Damage by 6 for every 1% bonus Movement Speed, up to a max of 450."}
-{"id":"01a05fce-28de-7b64-aa28-db881010edc4","scriptId":"thiefs-swiftness","description":"Reduce the cost of Sprint by 22%."}
+{"id":"01a05fce-28de-7fd8-a7b3-8fc4f0b15fd6","scriptId":"sages-remedy","description":"Heals for 336 Health every 2 seconds."}
 {"id":"01a05fce-28de-7ee5-9602-203f58e4cb38","scriptId":"warmages-defense","description":"Grants a damage shield every 3 seconds for 3 seconds that absorbs up to 600 damage."}
 {"id":"01a05fce-28de-7da2-915a-3c14e8e378b3","scriptId":"druids-resurgence","description":"Increases Health, Magicka, and Stamina Recovery of other group members by 139."}
-{"id":"01a05fce-28de-7925-8729-1e32aa2e5191","scriptId":"wayfarers-mastery","description":"You count as being in a PvP area for Battle Resurrection, reducing the time it takes to resurrect another player."}
+{"id":"01a05fce-28de-7b64-aa28-db881010edc4","scriptId":"thiefs-swiftness","description":"Reduce the cost of Sprint by 22%."}
 {"id":"01a05fce-28de-71ae-afd8-93bdd6d69616","scriptId":"crusaders-defiance","description":"Reduce the effectiveness of negative snares by 30%."}
+{"id":"01a05fce-28de-7925-8729-1e32aa2e5191","scriptId":"wayfarers-mastery","description":"You count as being in a PvP area for Battle Resurrection, reducing the time it takes to resurrect another player."}
+{"id":"01a05fce-28de-78f2-9914-246c089283a9","scriptId":"cavaliers-charge","description":"Increase your Weapon and Spell Damage by 6 for every 1% bonus Movement Speed, up to a max of 450."}

@@ -1,8 +1,8 @@
-{"id":"01a05fce-28df-7676-837a-e36914919430","scriptId":"sages-remedy","description":"Heals for 1790 Health over 10 seconds."}
-{"id":"01a05fce-28df-749c-ab80-fb36dbb31ac6","scriptId":"class-mastery","classId":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
-{"id":"01a05fce-28df-7ff3-ad23-fe52d27945f0","scriptId":"hunters-snare","description":"Reduces the Movement Speed of enemies by 40% for 5 seconds."}
-{"id":"01a05fce-28df-79dd-93c7-93cccfd16fe5","scriptId":"thiefs-swiftness","description":"Removes a stack of the Roll Dodge cost penalty and reduces fall damage taken by 15% for 20 seconds."}
-{"id":"01a05fce-28df-703f-a9d9-77651aa1670c","scriptId":"druids-resurgence","description":"Restores 1200 Stamina over 10 seconds."}
 {"id":"01a05fce-28df-7cbb-88a8-2723db0ebb28","scriptId":"lingering-torment","description":"Deals 2980 Physical Damage over 20 seconds to enemies."}
-{"id":"01a05fce-28df-71ec-80c8-b9cdf8724954","scriptId":"wayfarers-mastery","description":"Grants the bonus of the Hawk Eye passive ability."}
+{"id":"01a05fce-28df-7ff3-ad23-fe52d27945f0","scriptId":"hunters-snare","description":"Reduces the Movement Speed of enemies by 40% for 5 seconds."}
+{"id":"01a05fce-28df-749c-ab80-fb36dbb31ac6","scriptId":"class-mastery","classId":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
+{"id":"01a05fce-28df-7676-837a-e36914919430","scriptId":"sages-remedy","description":"Heals for 1790 Health over 10 seconds."}
+{"id":"01a05fce-28df-703f-a9d9-77651aa1670c","scriptId":"druids-resurgence","description":"Restores 1200 Stamina over 10 seconds."}
+{"id":"01a05fce-28df-79dd-93c7-93cccfd16fe5","scriptId":"thiefs-swiftness","description":"Removes a stack of the Roll Dodge cost penalty and reduces fall damage taken by 15% for 20 seconds."}
 {"id":"01a05fce-28df-708c-b5dc-c583e6004cf8","scriptId":"crusaders-defiance","description":"Removes up to 3 snares or immobilization effects."}
+{"id":"01a05fce-28df-71ec-80c8-b9cdf8724954","scriptId":"wayfarers-mastery","description":"Grants the bonus of the Hawk Eye passive ability."}

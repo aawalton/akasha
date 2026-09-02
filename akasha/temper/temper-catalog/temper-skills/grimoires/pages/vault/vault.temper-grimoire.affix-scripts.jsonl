@@ -1,11 +1,11 @@
-{"id":"01a05fce-28df-7056-811b-5869d9597d82","scriptId":"maim","description":"Afflicts enemies with Minor Maim for 20 seconds, reducing damage done by 5%."}
-{"id":"01a05fce-28df-72bb-a94d-9f20b479406c","scriptId":"force","description":"Grants Minor Force for 20 seconds, increasing Critical Damage by 10%."}
-{"id":"01a05fce-28df-771e-9a52-600b84fa99c7","scriptId":"berserk","description":"Grants Minor Berserk for 20 seconds, increasing damage done by 5%."}
-{"id":"01a05fce-28df-72c8-a852-dc90d792d58f","scriptId":"evasion","description":"Grants you Major Evasion for 10 seconds, reducing damage from area attacks by 20%."}
-{"id":"01a05fce-28df-7c7d-b79f-4ded191ce373","scriptId":"lifesteal","description":"Afflicts enemies with Minor Lifesteal for 20 seconds, healing attackers for 600 Health every 1 second."}
-{"id":"01a05fce-28df-7f66-a2d5-50901311be79","scriptId":"expedition","description":"Grants Minor Expedition for 20 seconds, increasing Movement Speed by 15%."}
 {"id":"01a05fce-28df-7ada-9579-a2c72c5e5b84","scriptId":"off-balance","description":"Sets enemies Off Balance for 7 seconds."}
-{"id":"01a05fce-28df-75f7-8bbf-9a494ed59252","scriptId":"vulnerability","description":"Afflicts enemies with Minor Vulnerability for 20 seconds, increasing damage taken by 5%."}
-{"id":"01a05fce-28df-7943-86ac-68433404f3ed","scriptId":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery for 10 seconds, increasing Weapon and Spell Damage by 20%."}
 {"id":"01a05fce-28df-7174-b32b-98da58a15e57","scriptId":"savagery-and-prophecy","description":"Grants you Major Savagery and Major Prophecy for 10 seconds, increasing Weapon and Spell Critical rating by 2629."}
+{"id":"01a05fce-28df-7f66-a2d5-50901311be79","scriptId":"expedition","description":"Grants Minor Expedition for 20 seconds, increasing Movement Speed by 15%."}
+{"id":"01a05fce-28df-72c8-a852-dc90d792d58f","scriptId":"evasion","description":"Grants you Major Evasion for 10 seconds, reducing damage from area attacks by 20%."}
+{"id":"01a05fce-28df-771e-9a52-600b84fa99c7","scriptId":"berserk","description":"Grants Minor Berserk for 20 seconds, increasing damage done by 5%."}
+{"id":"01a05fce-28df-7943-86ac-68433404f3ed","scriptId":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery for 10 seconds, increasing Weapon and Spell Damage by 20%."}
 {"id":"01a05fce-28df-7f60-9c7e-30f00e407f71","scriptId":"intellect-and-endurance","description":"Grants Minor Intellect and Minor Endurance for 20 seconds, increasing Magicka and Stamina Recovery by 15%."}
+{"id":"01a05fce-28df-72bb-a94d-9f20b479406c","scriptId":"force","description":"Grants Minor Force for 20 seconds, increasing Critical Damage by 10%."}
+{"id":"01a05fce-28df-75f7-8bbf-9a494ed59252","scriptId":"vulnerability","description":"Afflicts enemies with Minor Vulnerability for 20 seconds, increasing damage taken by 5%."}
+{"id":"01a05fce-28df-7056-811b-5869d9597d82","scriptId":"maim","description":"Afflicts enemies with Minor Maim for 20 seconds, reducing damage done by 5%."}
+{"id":"01a05fce-28df-7c7d-b79f-4ded191ce373","scriptId":"lifesteal","description":"Afflicts enemies with Minor Lifesteal for 20 seconds, healing attackers for 600 Health every 1 second."}

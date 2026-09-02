@@ -1,9 +1,9 @@
-{"id":"01a05fce-28de-78d2-bba7-2d114f54866a","scriptId":"sages-remedy","description":"Heals for 1790 Health over 10 seconds."}
-{"id":"01a05fce-28de-7b21-b8e1-f457cac37b47","scriptId":"class-mastery","classId":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
-{"id":"01a05fce-28de-7d82-b729-31ddf4060f0b","scriptId":"fencers-parry","description":"Deflects the next direct damage attack made against you within 3 seconds. This can occur once every 3 seconds."}
-{"id":"01a05fce-28de-76c5-8274-0ded509e8c2a","scriptId":"leeching-thirst","description":"Heals you for 35% of the damage done."}
-{"id":"01a05fce-28de-776b-b1f2-6a4fb56ae170","scriptId":"druids-resurgence","description":"Restores 1200 Stamina over 10 seconds."}
 {"id":"01a05fce-28de-7180-afdc-2e050d872f8d","scriptId":"lingering-torment","description":"Deals 2980 Physical Damage over 20 seconds to enemies."}
-{"id":"01a05fce-28de-73f7-9500-db657466e75e","scriptId":"wayfarers-mastery","description":"Grants you the bonus of the Follow Up passive ability."}
-{"id":"01a05fce-28de-7939-a6f9-dc7b48a7c7cf","scriptId":"crusaders-defiance","description":"Removes and grants immunity to snares and immobilizations for 4 seconds."}
+{"id":"01a05fce-28de-76c5-8274-0ded509e8c2a","scriptId":"leeching-thirst","description":"Heals you for 35% of the damage done."}
 {"id":"01a05fce-28de-7cf9-980d-175ced2b6618","scriptId":"immobilizing-strike","description":"Immobilizes enemies for 3 seconds."}
+{"id":"01a05fce-28de-7b21-b8e1-f457cac37b47","scriptId":"class-mastery","classId":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
+{"id":"01a05fce-28de-78d2-bba7-2d114f54866a","scriptId":"sages-remedy","description":"Heals for 1790 Health over 10 seconds."}
+{"id":"01a05fce-28de-776b-b1f2-6a4fb56ae170","scriptId":"druids-resurgence","description":"Restores 1200 Stamina over 10 seconds."}
+{"id":"01a05fce-28de-7939-a6f9-dc7b48a7c7cf","scriptId":"crusaders-defiance","description":"Removes and grants immunity to snares and immobilizations for 4 seconds."}
+{"id":"01a05fce-28de-7d82-b729-31ddf4060f0b","scriptId":"fencers-parry","description":"Deflects the next direct damage attack made against you within 3 seconds. This can occur once every 3 seconds."}
+{"id":"01a05fce-28de-73f7-9500-db657466e75e","scriptId":"wayfarers-mastery","description":"Grants you the bonus of the Follow Up passive ability."}

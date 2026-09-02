@@ -1,8 +1,8 @@
+{"id":"01a05fce-28de-78f2-9536-1ed6992e96d7","scriptId":"savagery-and-prophecy","description":"Grants you Major Savagery and Major Prophecy, increasing Weapon and Spell Critical rating by 2629."}
+{"id":"01a05fce-28de-7bbb-92b9-02d317af57be","scriptId":"resolve","description":"Grants Minor Resolve, increasing Physical and Spell Resistance by 2974."}
 {"id":"01a05fce-28de-745e-8986-711684e7ec86","scriptId":"berserk","description":"Grants Minor Berserk, increasing damage done by 5%."}
+{"id":"01a05fce-28de-7dea-96fc-e8475c0744ec","scriptId":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery, increasing Weapon and Spell Damage by 20%."}
+{"id":"01a05fce-28de-71ce-a67d-2d569428f2ac","scriptId":"protection","description":"Grants Minor Protection, reducing damage taken by 5%."}
 {"id":"01a05fce-28de-701a-85c5-3407f79a2e26","scriptId":"courage","description":"Grants Minor Courage, increasing Weapon and Spell Damage by 215."}
 {"id":"01a05fce-28de-76b5-9b47-859fc93b1e1d","scriptId":"heroism","description":"Grants Minor Heroism, generating 1 Ultimate every 1.5 seconds."}
-{"id":"01a05fce-28de-7bbb-92b9-02d317af57be","scriptId":"resolve","description":"Grants Minor Resolve, increasing Physical and Spell Resistance by 2974."}
-{"id":"01a05fce-28de-71ce-a67d-2d569428f2ac","scriptId":"protection","description":"Grants Minor Protection, reducing damage taken by 5%."}
-{"id":"01a05fce-28de-7dea-96fc-e8475c0744ec","scriptId":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery, increasing Weapon and Spell Damage by 20%."}
-{"id":"01a05fce-28de-78f2-9536-1ed6992e96d7","scriptId":"savagery-and-prophecy","description":"Grants you Major Savagery and Major Prophecy, increasing Weapon and Spell Critical rating by 2629."}
 {"id":"01a05fce-28de-760b-8acb-a4c39ea02749","scriptId":"intellect-and-endurance","description":"Grants Minor Intellect and Minor Endurance, increasing Magicka and Stamina Recovery by 15%."}

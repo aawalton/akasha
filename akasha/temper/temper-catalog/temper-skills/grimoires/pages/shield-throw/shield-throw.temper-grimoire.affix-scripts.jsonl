@@ -1,10 +1,10 @@
-{"id":"01a05fce-28de-72a2-8f72-390167d1cdd7","scriptId":"maim","description":"Afflicts the enemy with Major Maim for 10 seconds, reducing damage done by 10%."}
-{"id":"01a05fce-28de-7602-a835-fcc2b0157af6","scriptId":"evasion","description":"Grants you Major Evasion for 10 seconds on return, reducing damage from area attacks by 20%."}
-{"id":"01a05fce-28de-72c9-918d-b59eabdb190c","scriptId":"resolve","description":"Grants you Major Resolve for 10 seconds on return, increasing Physical and Spell Resistance by 5948."}
-{"id":"01a05fce-28de-75c2-8b7a-dddeeabb97eb","scriptId":"vitality","description":"Grants you Major Vitality for 10 seconds on return, increasing healing received and damage shield strength by 12%."}
-{"id":"01a05fce-28de-783b-9b85-c8ee7ca86197","scriptId":"cowardice","description":"Afflicts the enemy with Major Cowardice for 10 seconds, reducing Weapon and Spell Damage by 430."}
-{"id":"01a05fce-28de-7c90-80a7-d6fcd3945657","scriptId":"interrupt","description":"Interrupts enemies that are casting."}
-{"id":"01a05fce-28de-7bdb-bf88-01fe8fff6779","scriptId":"enervation","description":"Afflicts the enemy with Minor Enervation for 20 seconds, reducing Critical Damage by 10%."}
 {"id":"01a05fce-28de-7666-b286-fef92d2f38df","scriptId":"off-balance","description":"Sets the enemy Off Balance for 7 seconds."}
-{"id":"01a05fce-28de-7d77-b9cd-8e190273f296","scriptId":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery for 10 seconds on return, increasing Weapon and Spell Damage by 20%."}
+{"id":"01a05fce-28de-7c90-80a7-d6fcd3945657","scriptId":"interrupt","description":"Interrupts enemies that are casting."}
 {"id":"01a05fce-28de-7e14-8796-2ed6b51d1f01","scriptId":"savagery-and-prophecy","description":"Grants you Major Savagery and Major Prophecy for 10 seconds on return, increasing Weapon and Spell Critical rating by 2629."}
+{"id":"01a05fce-28de-72c9-918d-b59eabdb190c","scriptId":"resolve","description":"Grants you Major Resolve for 10 seconds on return, increasing Physical and Spell Resistance by 5948."}
+{"id":"01a05fce-28de-7602-a835-fcc2b0157af6","scriptId":"evasion","description":"Grants you Major Evasion for 10 seconds on return, reducing damage from area attacks by 20%."}
+{"id":"01a05fce-28de-75c2-8b7a-dddeeabb97eb","scriptId":"vitality","description":"Grants you Major Vitality for 10 seconds on return, increasing healing received and damage shield strength by 12%."}
+{"id":"01a05fce-28de-7d77-b9cd-8e190273f296","scriptId":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery for 10 seconds on return, increasing Weapon and Spell Damage by 20%."}
+{"id":"01a05fce-28de-72a2-8f72-390167d1cdd7","scriptId":"maim","description":"Afflicts the enemy with Major Maim for 10 seconds, reducing damage done by 10%."}
+{"id":"01a05fce-28de-783b-9b85-c8ee7ca86197","scriptId":"cowardice","description":"Afflicts the enemy with Major Cowardice for 10 seconds, reducing Weapon and Spell Damage by 430."}
+{"id":"01a05fce-28de-7bdb-bf88-01fe8fff6779","scriptId":"enervation","description":"Afflicts the enemy with Minor Enervation for 20 seconds, reducing Critical Damage by 10%."}
