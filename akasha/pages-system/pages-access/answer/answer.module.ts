@@ -6,6 +6,7 @@ export const answer = {
   slug: "answer",
   definition: "what a page or page-type query is answered with",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -31,6 +32,14 @@ export const answer = {
     {
       invariantKind: "departure",
       statement: "A question the pages refuse is answered 503 carrying what the refusal said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A roster that will not read is answered 501 carrying what went unread.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A raise that is not the roster's is left to raise.",
     },
     {
       invariantKind: "absence",

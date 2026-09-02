@@ -1,6 +1,6 @@
 import type { Asked } from "@akasha/pages-system-service/asking"
 import { askingFor } from "@akasha/pages-system-service/calling"
-import { valuedRows } from "../file-read/file-read.module.code.ts"
+import { RosterUnreachable, valuedRows } from "../file-read/file-read.module.code.ts"
 import { buildRawPageRows } from "../file-rows/file-rows.module.code.ts"
 import { getPageTypeBySlug } from "../page-type/page-type.module.code.ts"
 import {
@@ -15,6 +15,9 @@ const NO_ROSTER =
 
 const UNREAD_PAGES =
   "the pages did not answer, so this route holds no pages to report; an empty list would read as a page type with nothing in it"
+
+const UNREAD_PAGE_TYPE =
+  "the page type behind this listing went unread, because what is file-backed went unread; this route refuses rather than raising a 500, which would say the site is broken where only one road is"
 
 const SIGNED_IN_ONLY = "this route answers a signed-in reader only"
 
@@ -79,7 +82,16 @@ export async function answerPages(
     return Response.json({ error: UNREAD_PAGES, unread: [asked.refused] }, { status: 503, headers })
   }
 
-  const reading = await deps.readPageType(pageTypeSlug)
+  let reading: PageTypeReading | null
+  try {
+    reading = await deps.readPageType(pageTypeSlug)
+  } catch (thrown) {
+    if (!(thrown instanceof RosterUnreachable)) throw thrown
+    return Response.json(
+      { error: UNREAD_PAGE_TYPE, unread: [thrown.why] },
+      { status: 501, headers }
+    )
+  }
   if (reading === null) {
     return Response.json(
       { error: `no page type is named \`${pageTypeSlug}\`` },
