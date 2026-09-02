@@ -67,6 +67,133 @@ function matchesCommit(root: string, specs: readonly string[]): boolean {
   return gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...specs]).code === 0
 }
 
+const NOT_IN_COMMIT = "0000000000000000000000000000000000000000"
+
+const OBJECT_ID = /^[0-9a-f]{40}$/
+
+// The named patterns are each a star and then a literal tail, `*.page-type.md` and its five
+// siblings. git matches a pathspec holding no slash against the whole path and without
+// FNM_PATHNAME, so one of those catches the name at any depth and the tail is the whole of what it
+// asks — which makes `endsWith` the same question git asked. A pattern of any other shape is not
+// guessed at: this answers null, and a checkout standing under staging skew is then refused a mark
+// exactly as it was before, rather than handed one built on a pattern read wrongly.
+function namedTails(): readonly string[] | null {
+  const tails: string[] = []
+  for (const one of PAGE_SHAPE_NAMED) {
+    if (!one.startsWith("*")) return null
+    const tail = one.slice(1)
+    if (tail === "" || /[*?[\]]/.test(tail)) return null
+    tails.push(tail)
+  }
+  return tails
+}
+
+const NAMED_TAILS = namedTails()
+
+function amongNamed(at: string): boolean {
+  return NAMED_TAILS !== null && NAMED_TAILS.some((tail) => at.endsWith(tail))
+}
+
+// STAGING SKEW IS NOT A DIRTY TREE. `diff-index` answers "does HEAD differ from the index or from
+// the worktree", and those are two questions. A path staged away from HEAD whose file on disk
+// holds HEAD's own content answers yes to the first and no to the second: every byte this tree is
+// read out of is the commit's, so the mark taken from that commit is exactly right for it. Before
+// this, such a path took the mark to null and the answer cache off for every agent in the
+// checkout, at 0.5-1.6s of rework per page read, until somebody happened to notice — `git status`
+// shows `MM` and `git diff HEAD` shows nothing at all, and neither says which of the two it is.
+//
+// The shape is easy to reach here rather than exotic. The commit rule names exact paths, so
+// anything staged beside such a commit is left staged; and a worktree put back to HEAD under a
+// staged blob lands in it directly.
+//
+// `git diff` is asked rather than `diff-index` because only it compares the file to the commit
+// instead of comparing the staged blob to the commit. `diff.autorefreshindex=false` keeps that a
+// read: the refresh it would otherwise do writes `.git/index`, and every agent in this checkout is
+// already contending for that lock. Measured in a seeded checkout: 0 for this state under either
+// setting of that config and with the lock held by somebody else, and 1 for a changed file, a
+// deleted file, a mode change, and a file staged that the commit has never held.
+export function stagedAwayFromCommit(
+  root: string,
+  specs: readonly string[]
+): ReadonlyMap<string, string> | null {
+  const onDisk = gitCapped(root, [
+    "-c",
+    "diff.autorefreshindex=false",
+    "diff",
+    "--quiet",
+    "HEAD",
+    "--",
+    ...specs,
+  ])
+  if (onDisk.code !== 0) return null
+  const listed = gitCapped(root, ["diff-index", "--raw", "-z", "HEAD", "--", ...specs])
+  if (listed.code !== 0) return null
+  const fields = listed.stdout.split("\0").filter((one) => one !== "")
+  if (fields.length % 2 !== 0) return null
+  const staged = new Map<string, string>()
+  for (let at = 0; at + 1 < fields.length; at += 2) {
+    const meta = fields[at] as string
+    const path = fields[at + 1] as string
+    if (!meta.startsWith(":")) return null
+    const oid = meta.slice(1).split(" ")[2]
+    // The commit's side of the entry. Nothing reaches here without one — a path staged as deleted
+    // is a difference `git diff` reports too, and so was refused above — and a path the commit
+    // does not hold is refused rather than written into the mark as a blob nothing stands on.
+    if (oid === undefined || oid === NOT_IN_COMMIT || !OBJECT_ID.test(oid)) return null
+    staged.set(path, oid)
+  }
+  return staged
+}
+
+// `blobsNamed` reads the index, which under staging skew is the one thing this checkout has wrong,
+// so the paths it has wrong are written back to what the commit holds. Left uncorrected the mark
+// would carry a blob that no file here holds, and a checkout that really did stand on that blob
+// would be handed these answers — availability bought at the price of a wrong answer, which is the
+// trade this must not make. Corrected, the mark is the one a clean checkout on this same commit
+// works out, so the answers already kept under it are the answers this read wants.
+//
+// A staged path outside the named patterns is passed over rather than added. Every spec asked
+// about is either a folder, whose ingredient is the commit's own tree oid and so already right, or
+// one of those patterns; there is no third kind of path here to be wrong about.
+export function namedAtCommit(
+  named: ReadonlyMap<string, string>,
+  staged: ReadonlyMap<string, string>
+): ReadonlyMap<string, string> {
+  const held = new Map(named)
+  for (const [at, oid] of staged) if (amongNamed(at)) held.set(at, oid)
+  return held
+}
+
+// GREP `SHAPE-MARK-INDEX-SKEW`. A dirty tree is the ordinary state of a working agent and says
+// nothing, so this fires on the one state that is not ordinary: the mark went on standing while
+// the index disagreed with the commit under it. It repeats at most once a minute per checkout and
+// path set, because the state persists across every read until somebody clears it and a line per
+// read would bury the first one.
+const SKEW_SIGNAL = "SHAPE-MARK-INDEX-SKEW"
+const SKEW_QUIET_MS = 60_000
+const SKEW_NAMED_CEILING = 8
+
+const toldOf = new Map<string, number>()
+
+function tellOfSkew(root: string, staged: ReadonlyMap<string, string>): void {
+  const paths = [...staged.keys()].sort()
+  if (paths.length === 0) return
+  const key = `${root}\n${paths.join("\n")}`
+  const now = Date.now()
+  const before = toldOf.get(key)
+  if (before !== undefined && now - before < SKEW_QUIET_MS) return
+  toldOf.set(key, now)
+  const left = paths.length - SKEW_NAMED_CEILING
+  const shown = paths.slice(0, SKEW_NAMED_CEILING).join(" ")
+  const more = left > 0 ? ` and ${left} more` : ""
+  process.stderr.write(
+    `${SKEW_SIGNAL} ${root}: ${paths.length} path(s) staged away from HEAD whose files on disk ` +
+      `hold HEAD's own content: ${shown}${more}. The shape mark is taken from HEAD, so page ` +
+      "answers stay cached. Read what is staged for those paths with `git diff --cached -- " +
+      "<path>` and clear it with `git add -- <path>`, which restages the file as it stands.\n"
+  )
+}
+
 function blobsNamed(root: string): ReadonlyMap<string, string> | null {
   const listed = gitCapped(root, ["ls-files", "-s", "--", ...PAGE_SHAPE_NAMED])
   if (listed.code !== 0) return null
@@ -94,9 +221,22 @@ function askFor(asks: Map<string, Ask>, root: string): Ask {
 // Cleanliness is asked first and alone, because it is the answer that says no. A checkout with
 // any of this uncommitted has no mark, and finding that out costs one call rather than the two
 // or three it took to reach the same no before.
+//
+// A no is then asked once more, and only then, because `diff-index` says no to two states and only
+// one of them is a changed tree. `stagedAwayFromCommit` is what separates them; it costs a second
+// call on a path that was already going to work every answer out afresh, and it answers null for
+// the changed tree, which is the no this had all along.
 function readAt(ask: Ask): Answered | null {
-  if (ask.cleanSpecs.length > 0 && !matchesCommit(ask.root, [...new Set(ask.cleanSpecs)]))
-    return null
+  let staged: ReadonlyMap<string, string> | null = null
+  if (ask.cleanSpecs.length > 0) {
+    const specs = [...new Set(ask.cleanSpecs)]
+    if (!matchesCommit(ask.root, specs)) {
+      if (ask.named && NAMED_TAILS === null) return null
+      staged = stagedAwayFromCommit(ask.root, specs)
+      if (staged === null) return null
+      tellOfSkew(ask.root, staged)
+    }
+  }
   const oids = new Map<string, string>()
   const dirs = [...new Set(ask.oidDirs)]
   if (dirs.length > 0) {
@@ -106,7 +246,8 @@ function readAt(ask: Ask): Answered | null {
   }
   if (!ask.named) return { oids, named: new Map() }
   const named = blobsNamed(ask.root)
-  return named === null ? null : { oids, named }
+  if (named === null) return null
+  return { oids, named: staged === null ? named : namedAtCommit(named, staged) }
 }
 
 function answeredFor(asks: ReadonlyMap<string, Ask>): ReadonlyMap<string, Answered> | null {
