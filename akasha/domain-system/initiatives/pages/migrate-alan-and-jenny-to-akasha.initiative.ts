@@ -9,11 +9,6 @@ export const migrateAlanAndJennyToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "Alan's upkeep widget shows all six stoplights.",
-      workingMemory:
-        "Six return from the group, measured twice by separate lanes through answerStoplightsAdmittedBy itself, the function the route calls: safety, surplus, capacity, plants, activity, sleep, in place order, against a baseline of 2. The reading and relay timers are installed and firing, and both pods took the relay post. The guard is the one link nobody measured, being a device secret bound to Alan that none may mint, so his eyes on the tile are what close this.",
-    },
-    {
       statement: "Alan's inboxes stoplights and widget work.",
       workingMemory:
         "Five return, measured through `answerStoplightsAdmittedBy` against the live store on 8787 with the five relayed readings, against a baseline of 0. A second blocker the earlier lane missed: every inbox scale falls and `tierAt` read only climbing ones, so all five colored to null; closed at `5134e66087`. Route and test at `7d550464f1`, mutant-proved on `Object.keys`. Both timers fire and five carries reached the pod at exit 0. What is owed is a deploy, which is Alan's.",

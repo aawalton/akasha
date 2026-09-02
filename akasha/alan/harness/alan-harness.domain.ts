@@ -96,6 +96,10 @@ export const alanHarness = {
       invariantKind: "departure",
       statement: "Every package Alan's harness is made of is in akasha.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Alan's upkeep widget shows all six stoplights.",
+    },
   ],
   directives: [
     {
