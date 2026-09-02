@@ -54,7 +54,6 @@
     "temper/game-companions-ui",
     "temper/player-completion",
     "temper/player-completion-addon",
-    "temper/player-completion-skills-morphs-ui",
     "temper/player-completion-ui",
     "temper/player-economics-ui",
     "temper/player-inventory-management-ui",
