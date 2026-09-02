@@ -1,10 +1,15 @@
 "use client"
 
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from "@akasha/design-primitives/dropdown-menu"
 import {
   type ComparisonOpId,
   comparisonOps,
-} from "@temper/game-items-rules-core/filters/comparison-op-data"
+} from "@akasha/temper-items-rules-core/comparison-op-data"
 
 interface ComparisonOpPickerProps {
   value: ComparisonOpId
