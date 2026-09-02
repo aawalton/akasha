@@ -10,12 +10,12 @@ export const SAMPLE_ROWS_KEY = "health-samples"
 
 const DAY_MS = 86400000
 
-function checkoutRoot(): string {
+export function checkoutRoot(): string {
   const roots = resolveRoots()
   const target = roots.target
   const at = target === undefined ? undefined : roots[target]
   if (at === undefined || at === "") {
-    throw new Error("selectHealthSamples: nothing says which checkout the readings are kept in")
+    throw new Error("health-samples: nothing says which checkout the readings are kept in")
   }
   return at
 }

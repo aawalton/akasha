@@ -6,5 +6,11 @@
     "./sample-shape": "./sample-shape/sample-shape.module.code.ts",
     "./sample-selecting": "./sample-selecting/sample-selecting.module.code.ts",
     "./sample-upsert": "./sample-upsert/sample-upsert.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/day": "workspace:*",
+    "@akasha/file-system": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
+    "@akasha/utils-fs": "workspace:*"
   }
 }

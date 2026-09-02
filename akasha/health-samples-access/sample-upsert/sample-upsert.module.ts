@@ -9,23 +9,44 @@ export const sampleUpsert = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This raises rather than reporting that nothing was written.",
+      statement: "A reading lands on the rows beside the ESO day its stretch began in.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the page type nothing lands under.",
+      statement: "Two readings naming the same span from the same source are one reading.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal says how many readings were lost.",
+      statement: "A reading already filed at that value is left untouched.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading whose value moved keeps the id and the seq that reading was filed under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading landed carries the instant that reading arrived.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rows file is read and written under one lock held across the whole act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A second rows part beside the first refuses rather than filing a reading twice.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches a page.",
+      statement: "Nothing here writes the ESO day page the rows sit beside.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here commits the rows written.",
     },
     {
       invariantKind: "gap",
-      statement: "A health reading is a page akasha carries.",
+      statement: "A reading nothing commits goes when the checkout holding that reading goes.",
     },
   ],
 } as const satisfies Module
