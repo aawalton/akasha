@@ -1,9 +1,10 @@
-export const summary = "Static post-emit scan of `temper/addons/dist/**/*.lua` for references to the removed external-addon globals listed in `addon-removed-refs.manifest.ts`"
+export const summary =
+  "Static post-emit scan of `temper/addons/dist/**/*.lua` for references to the removed external-addon globals listed in `addon-removed-refs.manifest.ts`"
 
-import type { CommandHelp } from "../ops/surface.ts"
 import { dataError, inputError } from "../lib/exit.ts"
+import type { CommandHelp } from "../ops/surface.ts"
 import "../lib/command-entry.ts"
-import { runAddonRemovedRefs } from "../../temper/shared-build-deploy-checks/src/check-addon-removed-refs.ts"
+import { runAddonRemovedRefs } from "@akasha/temper-build-deploy-checks/check-addon-removed-refs"
 import { parseArgs } from "../../infra/cluster-checks/src/lib/cli-args.ts"
 
 export const help: CommandHelp = {
@@ -36,12 +37,12 @@ export default async function checkAddonRemovedRefs(args: readonly string[]): Pr
   const exitCode = runAddonRemovedRefs({ singleFile })
   if (exitCode === 0) return
   if (exitCode === 1) {
-    throw inputError(
-      "addon-removed-refs: removed external-addon reference(s) found (see stderr)"
-    )
+    throw inputError("addon-removed-refs: removed external-addon reference(s) found (see stderr)")
   }
   if (exitCode === 2) {
-    throw dataError("addon-removed-refs: no verdict — nothing to examine, or the tool failed (see stderr)")
+    throw dataError(
+      "addon-removed-refs: no verdict — nothing to examine, or the tool failed (see stderr)"
+    )
   }
   throw dataError(`addon-removed-refs: unexpected exit code ${exitCode}`)
 }

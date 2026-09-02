@@ -1,9 +1,10 @@
-export const summary = "Static post-emit scan of `temper/addons/dist/**/*.lua` for Lua stdlib symbols ESO's sandbox strips"
+export const summary =
+  "Static post-emit scan of `temper/addons/dist/**/*.lua` for Lua stdlib symbols ESO's sandbox strips"
 
-import type { CommandHelp } from "../ops/surface.ts"
 import { dataError, inputError } from "../lib/exit.ts"
+import type { CommandHelp } from "../ops/surface.ts"
 import "../lib/command-entry.ts"
-import { runAddonSandboxSafety } from "../../temper/shared-build-deploy-checks/src/check-addon-sandbox-safety.ts"
+import { runAddonSandboxSafety } from "@akasha/temper-build-deploy-checks/check-addon-sandbox-safety"
 import { parseArgs } from "../../infra/cluster-checks/src/lib/cli-args.ts"
 
 export const help: CommandHelp = {
@@ -39,7 +40,9 @@ export default async function checkAddonSandboxSafety(args: readonly string[]): 
     throw inputError("addon-sandbox-safety: banned symbol(s) found (see stderr)")
   }
   if (exitCode === 2) {
-    throw dataError("addon-sandbox-safety: no verdict — nothing to examine, or the tool failed (see stderr)")
+    throw dataError(
+      "addon-sandbox-safety: no verdict — nothing to examine, or the tool failed (see stderr)"
+    )
   }
   throw dataError(`addon-sandbox-safety: unexpected exit code ${exitCode}`)
 }

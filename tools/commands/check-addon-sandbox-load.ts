@@ -1,9 +1,10 @@
-export const summary = "Runtime post-emit load of each emitted `.lua` bundle inside a sandboxed Lua 5.1 VM with ESO-shaped `_G`"
+export const summary =
+  "Runtime post-emit load of each emitted `.lua` bundle inside a sandboxed Lua 5.1 VM with ESO-shaped `_G`"
 
-import type { CommandHelp } from "../ops/surface.ts"
 import { dataError, inputError } from "../lib/exit.ts"
+import type { CommandHelp } from "../ops/surface.ts"
 import "../lib/command-entry.ts"
-import { runAddonSandboxLoad } from "../../temper/shared-build-deploy-checks/src/check-addon-sandbox-load.ts"
+import { runAddonSandboxLoad } from "@akasha/temper-build-deploy-checks/check-addon-sandbox-load"
 import { parseArgs } from "../../infra/cluster-checks/src/lib/cli-args.ts"
 
 export const help: CommandHelp = {
@@ -39,7 +40,9 @@ export default async function checkAddonSandboxLoad(args: readonly string[]): Pr
     throw inputError("addon-sandbox-load: bundle(s) failed runtime load (see stderr)")
   }
   if (exitCode === 2) {
-    throw dataError("addon-sandbox-load: no verdict — nothing to examine, or the tool failed (see stderr)")
+    throw dataError(
+      "addon-sandbox-load: no verdict — nothing to examine, or the tool failed (see stderr)"
+    )
   }
   throw dataError(`addon-sandbox-load: unexpected exit code ${exitCode}`)
 }
