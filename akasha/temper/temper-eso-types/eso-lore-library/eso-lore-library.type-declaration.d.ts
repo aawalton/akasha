@@ -172,3 +172,5 @@ interface SceneManager {
 interface MainMenuKeyboard {
   ShowCategory: (this: MainMenuKeyboard, categoryConst: number) => void
 }
+
+declare const ZO_LoreLibrary: Control
