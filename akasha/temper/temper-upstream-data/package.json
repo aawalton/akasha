@@ -3,6 +3,8 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./libsets-upstream-pin": "./libsets-upstream-pin/libsets-upstream-pin.module.code.ts",
+    "./libsets-upstream-verify": "./libsets-upstream-verify/libsets-upstream-verify.module.code.ts",
     "./ts-lua-serializer": "./ts-lua-serializer/ts-lua-serializer.module.code.ts",
     "./upstream-libraries": "./upstream-libraries/upstream-libraries.module.code.ts",
     "./zone-eso-stubs": "./zone-eso-stubs/zone-eso-stubs.module.code.ts"

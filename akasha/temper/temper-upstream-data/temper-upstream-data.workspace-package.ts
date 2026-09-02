@@ -6,7 +6,13 @@ export const temperUpstreamData = {
   slug: "temper-upstream-data",
   definition: "the data temper copies out of community ESO libraries and rules on afterwards",
   manifest: "json",
-  partSlugs: ["module/upstream-libraries", "module/ts-lua-serializer", "module/zone-eso-stubs"],
+  partSlugs: [
+    "module/upstream-libraries",
+    "module/ts-lua-serializer",
+    "module/zone-eso-stubs",
+    "module/libsets-upstream-pin",
+    "module/libsets-upstream-verify",
+  ],
   invariants: [
     {
       invariantKind: "departure",
