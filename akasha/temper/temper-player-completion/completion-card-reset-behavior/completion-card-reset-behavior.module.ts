@@ -6,6 +6,7 @@ export const completionCardResetBehavior = {
   slug: "completion-card-reset-behavior",
   definition: "whether a completion card counts for all time or starts over each day",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "upkeep",
