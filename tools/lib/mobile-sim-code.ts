@@ -1,8 +1,8 @@
+import * as installShellModule from "@akasha/mobile-cli/install-sim-shell"
+import * as pushTapScriptModule from "@akasha/mobile-cli/push-tap-script"
+import * as simWwwStageModule from "@akasha/mobile-cli/sim-www-stage"
 import { optionalEnv } from "@akasha/utils-narrow/require-env"
 import { z } from "zod"
-import * as simWwwStageModule from "../../alanwalton/mobile-cli/src/lib/sim-www-stage.ts"
-import * as installShellModule from "../../alanwalton/mobile-cli/src/mobile/sim/install-shell.ts"
-import * as pushTapScriptModule from "../../alanwalton/mobile-cli/src/mobile/sim/push-tap-script.ts"
 
 
 export type SimWwwStage = typeof simWwwStageModule

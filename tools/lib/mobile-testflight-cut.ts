@@ -16,7 +16,7 @@ import {
   testflightPoll,
   wwwBuild,
 } from "./mobile-code.ts"
-import type { MobileApp } from "@alanwalton/mobile-cli/lib/apps"
+import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
 import type { CutFingerprint } from "@alanwalton/mobile-cli/lib/cut-fingerprint"
 
 function elapsedSince(from: number): string {

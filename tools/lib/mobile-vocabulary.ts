@@ -1,7 +1,4 @@
-import {
-  DEFAULT_APP_SLUG,
-  knownAppSlugs,
-} from "../../alanwalton/mobile-cli/src/lib/apps.ts"
+import { DEFAULT_APP_SLUG, knownAppSlugs } from "@akasha/mobile-cli/mobile-app"
 import type { HelpFlag } from "../ops/surface.ts"
 
 export const KNOWN_APP_SLUGS: readonly string[] = knownAppSlugs()

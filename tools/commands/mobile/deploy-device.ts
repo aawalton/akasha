@@ -7,7 +7,7 @@ import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { apps, foundation, host, ssh } from "../../lib/mobile-code.ts"
 import type { Apps, Foundation } from "../../lib/mobile-code.ts"
-import type { MobileApp } from "@alanwalton/mobile-cli/lib/apps"
+import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
 
 export const help: CommandHelp = {
   flags: [

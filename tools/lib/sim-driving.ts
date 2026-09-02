@@ -1,7 +1,7 @@
-import * as appiumClientModule from "../../alanwalton/mobile-cli/src/lib/appium-client.ts"
-import * as simDriverModule from "../../alanwalton/mobile-cli/src/lib/sim-driver.ts"
-import * as simMacbookModule from "../../alanwalton/mobile-cli/src/lib/sim-macbook.ts"
-import * as simSessionModule from "../../alanwalton/mobile-cli/src/lib/sim-session.ts"
+import * as appiumClientModule from "@akasha/mobile-cli/appium-client"
+import * as simDriverModule from "@akasha/mobile-cli/sim-driver"
+import * as simMacbookModule from "@akasha/mobile-cli/sim-macbook"
+import * as simSessionModule from "@akasha/mobile-cli/sim-session"
 
 
 export type SimMacbook = typeof simMacbookModule
