@@ -3,6 +3,7 @@ import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
+import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
 import { drafted } from "../drafting/drafting.module.code.ts"
 import { landing } from "../landing/landing.module.code.ts"
 import {
@@ -74,6 +75,21 @@ test("a reading wiped away is recorded again for a path that did not move", () =
   expect(readingIn(root, AGENT, PAGE)?.oid).toBe(
     gitSaid(root, ["rev-parse", `HEAD:${PAGE}`]).trim()
   )
+})
+
+test("a patch carrying a conflict does not apply", () => {
+  const root = pagesRepo()
+  const marked = `${A}${CLASH_MARK}\nheld\n`
+  expect("why" in drafted(root, PAGE, [{ path: PAGE, was: A, body: marked }])).toBe(false)
+  const said = applied(root, PAGE, AGENT, "applied", ADMITS, null)
+  expect("refusals" in said).toBe(true)
+  expect(said).toEqual({
+    refusals: [
+      `${PAGE} — the patch carries a conflict here`,
+      "nothing was applied — a patch carrying a conflict does not apply",
+    ],
+  })
+  expect(patchIn(root, PAGE)).not.toBeNull()
 })
 
 test("a path the patch moved under has no reading recorded", () => {
