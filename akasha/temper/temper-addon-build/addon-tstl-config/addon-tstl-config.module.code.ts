@@ -16,6 +16,8 @@ const CODE_SUFFIX = ".module.code.ts"
 
 const ADDONS_REL_ROOT = "temper/addons"
 
+const ROOT_BASE_NAME = "tsconfig.base.json"
+
 const HELD_AT = "dist/.tstl"
 
 const CODE_UNDER = `**/*${CODE_SUFFIX}`
@@ -137,10 +139,13 @@ export type TstlConfigAsked = {
 export function tstlConfigBody(asked: TstlConfigAsked): string {
   const addonsRoot = join(asked.repoRoot, ADDONS_REL_ROOT)
   const body = {
-    extends: join(addonsRoot, "tsconfig.base.json"),
+    extends: join(asked.repoRoot, ROOT_BASE_NAME),
     compilerOptions: {
       module: "esnext",
       moduleResolution: "bundler",
+      lib: ["ESNext"],
+      jsx: "react",
+      noEmit: false,
       isolatedModules: true,
       rewriteRelativeImportExtensions: true,
       rootDir: asked.repoRoot,
@@ -154,6 +159,7 @@ export function tstlConfigBody(asked: TstlConfigAsked): string {
       luaBundle: `${asked.canonicalName}.lua`,
       luaBundleEntry: asked.entryPath,
       luaLibImport: "require-minimal",
+      noResolvePaths: [],
       noImplicitSelf: true,
     },
     include: [
