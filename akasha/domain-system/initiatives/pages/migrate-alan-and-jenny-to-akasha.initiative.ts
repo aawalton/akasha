@@ -36,18 +36,18 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The interior of Alan's site stands in akasha.",
       workingMemory:
-        "`@shared/pages-ui` is down to 15 statements in 13 files, and 7 of those are akasha prose. The code is 4 `app-shell.tsx` and 2 under `infra/cluster-checks`, every one reaching the single file left in `src`: `use-app-nav-items.tsx`. So one naming conflict gates this intent as well as pages-ui, where `identifier-matches-its-place` reads a component off JSX nested in a callback. The `awen` folder went at `e284363224`, so the 179-file census wants retaking before this lands.",
+        "The interior is everything under `app/` but `routes/` and `hooks/`: 128 files, every one outside akasha. `akasha/alan/web` holds 4, and taking the basename of each `app/` file and looking for it under akasha matches none. The old note conflated mentions with imports: `@shared/pages-ui` is 22 occurrences on 18 lines, but only 4 real import statements repo-wide and 1 in Alan's site, at `app/components/app-shell.tsx:10`. `@shared/utils-test` is a second outward reach, in two component tests.",
     },
     {
       statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
       workingMemory:
-        "`link-target` landed at `996a2d5362` and `a6c30a4eff`, so `questions` holds 4 files and `hooks` 2. The old census was stale: 7 files, not 9, and 1 was `~/`-free, not 5. `imports-inside` settles the rest — it ignores npm but refuses a workspace outside akasha — so 2 of the 6 wait on `@shared/pages-ui`, and the other 4 on 9 files under `app/lib` plus `components/signed-out-notice`. Every one of the 6 waits on the interior intent.",
+        "The stated blocker is gone and so is half the work: `app/questions` was deleted rather than migrated, at `4b763e9df4`. So this is 2 files, not 6, both in `app/hooks`, and neither reaches `@shared/pages-ui` at all. `use-mark-notification-read.ts` imports `@akasha/pages-ui` since `080d49481e` and escapes nowhere, so it could land today. `use-mark-read-on-end.ts` has 3 `~/lib/*` reaches into the interior. `alanwalton/web/dist/` is stale from 08-31 and re-derives the old counts.",
     },
     {
       statement: "The routes of Alan's site stand in akasha.",
       workingMemory:
-        "Last of the three, because `app/routes` is the only part of this move with modelling nobody has done. Nothing waits on it: the site is a leaf. The shape is settled: a lane built the site through a symlinked package root, exit 0, asset hashes identical to the control, tailwind emitting 114,234 bytes. Its 67 files carry 299 imports: 6 stay inside, 49 are `./+types/*` codegen resolving outward, 158 name packages, 86 escape — 76 by `~/` over nine directories and 10 by `../` into `awen`.",
+        'Last of the three, because `app/routes` is the only part of this move with modelling nobody has done. Nothing waits on it; it waits on the interior. Re-counted parsing import and export statements rather than every `from`, which over-counts on Supabase `.from("table")`: 65 files carry 277 specifiers, of which 7 stay inside, 42 are `./+types/*` codegen, 156 name packages, and 72 escape. 71 of those are `~/` over seven directories; none reach `awen`, which went at `e284363224`.',
     },
   ],
   constraints: [
