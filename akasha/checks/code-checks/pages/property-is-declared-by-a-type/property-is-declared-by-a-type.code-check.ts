@@ -35,6 +35,10 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "departure",
+      statement: "A one of declares its members the same way a page type declares its properties.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "What declares a page is one directory listed on the index as the change leaves the index.",
     },

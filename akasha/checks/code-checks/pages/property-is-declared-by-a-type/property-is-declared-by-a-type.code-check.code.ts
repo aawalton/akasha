@@ -1,7 +1,7 @@
 import { reaches, recordsIn } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { namedUnder, pageNamed } from "@akasha/pages-system/page-file-name"
-import { textAt, type Value, valueIn } from "@akasha/pages-system/page-value"
+import { textAt, textsAt, type Value, valueIn } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -10,20 +10,25 @@ const INSIDE = "akasha/"
 
 const PAGE_PROPERTY = "page-property"
 
-const DECLARES = "page-property-slug"
+const DECLARES = ["page-property-slug", "member-slugs"] as const
 
 const DECLARED = "properties"
+
+const MEMBERS = "memberSlugs"
 
 const SAID = "pagePropertySlug"
 
 export function declaredIn(value: Value | null): readonly string[] {
-  const held = value === null ? null : value[DECLARED]
-  if (held === null || held === undefined) return []
+  if (value === null) return []
   const found: string[] = []
-  for (const one of recordsIn(held)) {
-    const said = textAt(one, SAID)
-    if (said !== null) found.push(said)
+  const held = value[DECLARED]
+  if (held !== null && held !== undefined) {
+    for (const one of recordsIn(held)) {
+      const said = textAt(one, SAID)
+      if (said !== null) found.push(said)
+    }
   }
+  found.push(...(textsAt(value, MEMBERS) ?? []))
   return found
 }
 
@@ -50,7 +55,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const judge = (path: string, id: string, shown: string): undefined => {
     if (judged.has(path)) return
     judged.add(path)
-    if (shadow.index.idsNaming(id, DECLARES).length > 0) return
+    if (DECLARES.some((slug) => shadow.index.idsNaming(id, slug).length > 0)) return
     said.push({ path, reason: reasonFor(shown) })
   }
   for (const path of change.changed) {
