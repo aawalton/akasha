@@ -20,7 +20,7 @@ declare const ZO_Menu_ExitItem: (this: void, control: Control) => void
 
 declare const ZO_Menu_ClickItem: (this: void, control: Control, button: number) => void
 
-declare const ZO_CheckButton_OnClicked: (this: void, checkButton: Control, button: number) => void
+declare const ZO_CheckButton_OnClicked: (this: void, checkButton: Control, button?: number) => void
 
 declare const ZO_CheckButton_SetUnchecked: (this: void, checkButton: Control) => void
 
