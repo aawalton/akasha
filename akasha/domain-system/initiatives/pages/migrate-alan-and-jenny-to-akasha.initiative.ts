@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "Relays fixed `5eefbbf0b8`, verified at the server and holding on the timer, zero failures since 15:28. THE MARKDOWN CANNOT BE DELETED YET. A field-by-field diff found real losses: no akasha upkeep readout carries `querySlug`, `readLiveFrom` has no akasha property at all, 7 of 9 widget pages and the whole `readouts/ring/` ladder are markdown-only, and the two engines CONTRADICT on whether a value floors to a rung. `5ec8f14ad5` stilled `inboxes-texts`; `9bd7b18e49` the group orders.",
+        "Live markdown reaches are down to three files: the widget half of `ios-widget-swift.ts`, `status-bar-access/session-reading`, and a ladder constant in `tracking-modules.ts`. Notifier moved `a0ab5c760f`, widget readings `2c990e95ad`, both proven by parity runs. STILL NOT DELETABLE: six findings at `65ad02a9dc` name the losses — no `querySlug` on any upkeep readout, no `readLiveFrom` property, seven widgets and the ring ladder markdown-only, and the engines contradict on value flooring.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
