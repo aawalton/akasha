@@ -31,8 +31,13 @@ export const temperAddonBuild = {
       statement: "An addon folder carrying no tsconfig is built from settings a build writes.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "An addon whose source is in akasha is transpiled from where akasha holds the source.",
+    },
+    {
       invariantKind: "gap",
-      statement: "Running the transpiler waits on the Lua machine reaching akasha.",
+      statement: "The transpiler is a checkout beside akasha rather than a package inside akasha.",
     },
   ],
 } as const satisfies WorkspacePackage

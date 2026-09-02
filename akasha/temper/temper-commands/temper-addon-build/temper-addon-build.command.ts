@@ -24,6 +24,10 @@ export const temperAddonBuild = {
   helpNotes: [
     "one addon is named or `--all` is said, never both and never neither.",
     "`--watch` takes one addon, copies nothing and installs nothing, so `--all` and `--build-only` are refused beside it.",
+    "an addon folder holding no `tsconfig.json` has one written into `dist/.tstl/` from the bundle entry its page names.",
+    "the answer says how many bytes of Lua each addon left, because a compiler writing nothing and a compiler finding nothing wrong read alike.",
+    "installing waits on `temper-addon-generate-load-order`, `temper-addon-copy-metadata` and `temper-addon-install`, so `--build-only` is said or the call is refused before anything compiles.",
+    "nothing already in the build output is removed first, since what would write the metadata back is not here yet.",
     "the whole run is bounded at an hour, and a run reaching that bound refuses with what it was compiling.",
     "a checkout holding no compiler at the root named is refused before anything is compiled.",
   ],
@@ -42,7 +46,19 @@ export const temperAddonBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "An addon carrying no tsconfig refuses the call.",
+      statement: "An addon holding no tsconfig is compiled against settings written from its page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An addon whose page names no bundle entry refuses the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A compile leaving no bundle refuses rather than reporting a build.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first addon that does not compile ends the run.",
     },
     {
       invariantKind: "departure",
@@ -51,6 +67,14 @@ export const temperAddonBuild = {
     {
       invariantKind: "departure",
       statement: "A run reaching its bound refuses by naming the addon being compiled.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing already in the build output is taken away here.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Installing what was built waits on the commands copying metadata and installing.",
     },
   ],
 } as const satisfies Command
