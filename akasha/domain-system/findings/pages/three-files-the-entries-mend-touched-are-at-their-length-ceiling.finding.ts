@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const threeFilesTheEntriesMendTouchedAreAtTheirLengthCeiling = {
+  id: "01a062be-6566-7cb8-a47a-34f33e6b3519",
+  pageTypeSlug: "finding",
+  slug: "three-files-the-entries-mend-touched-are-at-their-length-ceiling",
+  domainSlug: "workspace-package/checks",
+  claim:
+    "Three files landed at `741975d358` are within twelve bytes of the 15,000-byte `file-length` ceiling: 14,989, 14,994 and 14,988. The next agent to add one line to any of them is refused by a check that names bytes and says nothing about why the file is that shape. The ceiling already bent that mend twice, and neither compromise is visible in the code it left behind. A correct mend could not be written plainly.",
+  evidence:
+    'Measured 2026-09-02 at `741975d358`, the commit widening what a page claims over the numbered files of a property.\n\n`akasha/pages-system/indexes/indexing/indexing.module.code.ts` went 14,939 to 14,989, leaving 11 bytes. `page-matches-its-type.code-check.test.ts` went 14,902 to 14,994, leaving 6. Its `test-fixtures.ts` went 14,506 to 14,988, leaving 12. `file-length` gives a TypeScript file 15,000 bytes, and `reliefFor` answers only where the one section is `test`, so a `test-fixtures` file gets none.\n\nThe first compromise. `settlingOver` needs the change laid over the disk to answer which numbered files are there. Written plainly that is two `new Map(moving.map(...))` lines and a predicate, about 172 bytes into a budget of 61. Instead `index-path` grew `claimingIn`, which takes the `carried` map `settlingOver` already builds and binds everything but the page, costing 39 bytes at the two call sites. It reads as an abstraction chosen for its own sake and will be re-litigated as one.\n\nThe second. The test asserting a row in a numbered file is judged had 6 bytes to work in. It makes one assertion, `partsJudged(formatting, "", ID_LESS)`. Three were wanted: a clean pair answering nothing, a bad row in the numbered file, and a body that is no JSON naming `cases.part2.jsonl`. To free room at all, the fixtures dropped `export` from `BOTH`, `REPO` and `RESTATEMENT`, and derive the cases path by slicing `RESTATEMENT` rather than writing it out.\n\nNothing in any of the three files says it is near its limit, and the refusal comes only once a change is handed in.',
+} as const satisfies Finding
