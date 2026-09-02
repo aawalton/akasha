@@ -50,6 +50,7 @@ export const temperPlayerCompletion = {
     "module/completion-named-shape",
     "module/completion-scribing-progress",
     "module/completion-skill-line-progress",
+    "module/completion-subclassing-progress",
   ],
   invariants: [
     {

@@ -38,6 +38,7 @@
     "./completion-scribing-progress": "./completion-scribing-progress/completion-scribing-progress.module.code.ts",
     "./completion-skill-line-progress": "./completion-skill-line-progress/completion-skill-line-progress.module.code.ts",
     "./completion-skill-points-progress": "./completion-skill-points-progress/completion-skill-points-progress.module.code.ts",
+    "./completion-subclassing-progress": "./completion-subclassing-progress/completion-subclassing-progress.module.code.ts",
     "./completion-summary-companion": "./completion-summary-companion/completion-summary-companion.module.code.ts",
     "./completion-ui-types": "./completion-ui-types/completion-ui-types.module.code.ts",
     "./cyrodiil-wayshrine": "./cyrodiil-wayshrine/cyrodiil-wayshrine.module.code.ts",
