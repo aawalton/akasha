@@ -19,4 +19,5 @@ export const battlefieldMobility = {
   skillType: "passive",
   subcategoryId: "weapon-one-hand-and-shield",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

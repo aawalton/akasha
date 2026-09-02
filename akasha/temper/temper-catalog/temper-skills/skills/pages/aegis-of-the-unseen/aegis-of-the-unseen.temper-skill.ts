@@ -20,4 +20,5 @@ export const aegisOfTheUnseen = {
   skillType: "passive",
   subcategoryId: "arcanist-soldier-of-apocrypha",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

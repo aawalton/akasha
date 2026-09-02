@@ -20,4 +20,5 @@ export const amphibian = {
   skillType: "passive",
   subcategoryId: "racial-argonian-skills",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill
