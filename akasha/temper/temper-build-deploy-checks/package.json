@@ -26,6 +26,7 @@
     "./check-eso-typings-fresh": "./check-eso-typings-fresh/check-eso-typings-fresh.module.code.ts",
     "./cli-args": "./cli-args/cli-args.module.code.ts",
     "./error-message": "./error-message/error-message.module.code.ts",
+    "./eso-base-game-string-ids": "./generated/eso-base-game-string-ids/eso-base-game-string-ids.module.code.ts",
     "./eso-clone-artifacts": "./eso-clone-artifacts/eso-clone-artifacts.module.code.ts",
     "./eso-doc-api-version": "./eso-doc-api-version/eso-doc-api-version.module.code.ts",
     "./eso-sandbox-globals": "./eso-sandbox-globals/eso-sandbox-globals.module.code.ts",
