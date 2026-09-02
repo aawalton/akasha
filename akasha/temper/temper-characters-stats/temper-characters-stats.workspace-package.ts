@@ -34,6 +34,14 @@ export const temperCharactersStats = {
     "module/metric-tree-data-02",
     "module/metric-tree-data",
     "module/metric-tree-queries",
+    "module/extractors",
+    "module/format-effects",
+    "module/metric-formulas",
+    "module/metric-display-formula",
+    "module/buff-or-debuff-calculator",
+    "module/buff-or-debuff-explainer",
+    "module/compare-stats",
+    "module/diff-effect-sources",
   ],
   invariants: [
     {
