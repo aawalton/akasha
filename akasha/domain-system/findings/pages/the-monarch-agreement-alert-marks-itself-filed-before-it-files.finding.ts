@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theMonarchAgreementAlertMarksItselfFiledBeforeItFiles = {
+  id: "01a061cc-ec2e-7000-ad8f-e19e141614fa",
+  pageTypeSlug: "finding",
+  slug: "the-monarch-agreement-alert-marks-itself-filed-before-it-files",
+  domainSlug: "domain/monarch",
+  claim:
+    '`monarch/agreement.ts` writes its de-duplication latch at line 121 and only then, at line 122, spawns `ops seat record` to file the alert — a command `ops` does not carry. The spawn\'s non-zero exit is written to `console.error` and nothing else. So the first attempt poisons the latch with a body that was never filed, and every later run with the same divergence answers "unchanged since the last record filed, so no second one" and returns quietly. One failure buys permanent silence.',
+  evidence:
+    'Measured 2026-09-02. `~/.cache/monarch-agreement.json` is 478 bytes dated 2026-08-13 22:43 and opens with "Our copy of Monarch has stopped agreeing with Monarch." — the alert body itself. Its figures are not repeated here. That is the latch, holding an alert nobody received, twenty days old.\n\nThe order in `report()` is: `if (await alreadyReported(body)) { ...return }` at 118, `await Bun.write(lastReported(), body)` at 121, `Bun.spawn(["ops", "seat", "record", recordTo, "--content-file", "-"])` at 122, and at 127 `if ((await child.exited) !== 0) console.error(...)`. Nothing unwinds the latch when the spawn fails and nothing throws.\n\n`ops seat record` does not exist. `bun tools/ops/cli.ts` enumerates 310 commands and the `seat` namespace holds `boot, fleet restart, inbox, refresh-settings, reset, resume, start, subagents, turn-end cases, turn-end read`. A sweep over the repository finds the same dead spelling at `services/temper-watcher-liveness.ts:177` and `:185` and at `akasha/temper/temper-watcher/watcher-liveness/watcher-liveness.module.code.ts:150` and `:157`, so every liveness page reaching for it is silent on the same terms.\n\nThe caller cannot see it either. `monarch/sync.ts:113` wraps `reportAgreement(RECORD_TO)` in a try/catch that logs "could not compare our copy against Monarch" and moves on, so the comparison never reaches the exit code. Between the poisoned latch and that catch there are two independent reasons a divergence between Alan\'s mirror and Monarch reaches no one.\n\nThe divergence this latch holds predates the poll outage that began 2026-08-26, so it is a second, older problem rather than a symptom of that one.',
+} as const satisfies Finding
