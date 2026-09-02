@@ -3,13 +3,19 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./api-fetch": "./api-fetch/api-fetch.module.code.ts",
+    "./api-origin": "./api-origin/api-origin.module.code.ts",
+    "./capacitor-bridge": "./capacitor-bridge/capacitor-bridge.module.code.ts",
+    "./capacitor-cors": "./capacitor-cors/capacitor-cors.module.code.ts",
     "./declared-effects": "./declared-effects/declared-effects.module.code.ts"
   },
   "dependencies": {
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-url": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*"
+    "@akasha/supabase-rr": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
   },
   "peerDependencies": {
     "react": "^18 || ^19"

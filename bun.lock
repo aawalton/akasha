@@ -146,7 +146,9 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
       },
       "peerDependencies": {
         "react": "^18 || ^19",
