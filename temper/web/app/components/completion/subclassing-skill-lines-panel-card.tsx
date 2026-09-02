@@ -1,5 +1,8 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { classes } from "@akasha/temper-classes/character-class"
+import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import type { AccountCardId } from "@akasha/temper-player-completion/completion-card-registry"
+import type { SubclassingSkillLineProgressResult } from "@akasha/temper-player-completion/completion-subclassing-progress"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -9,9 +12,6 @@ import {
   withActivityCategories,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { getSkillLineIdsForClass, skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
-import type { AccountCardId } from "@temper/player-completion/completion-card-registry"
-import type { SubclassingSkillLineProgressResult } from "@temper/player-completion/completion-subclassing-progress"
 
 interface SubclassingSkillLinesPanelCardProps {
   id?: AccountCardId
