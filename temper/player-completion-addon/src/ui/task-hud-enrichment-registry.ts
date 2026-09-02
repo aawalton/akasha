@@ -1,7 +1,7 @@
 import {
   getSkillMorphEnrichment,
   isSkillMorphTask,
-} from "@temper/game-characters-skills-morphs-addon/ui/task-hud-skill-morphs"
+} from "@akasha/temper-characters-skills-morphs-addon/skill-morph-task-hud"
 import type { TaskData } from "../saved-variables"
 import {
   getScribingGuildDailyFallback,
@@ -12,10 +12,26 @@ import {
 import type { DailyWritProfessionState } from "../tracking/daily-writs-state"
 import { formatProgressCount } from "../tracking/progress-format"
 import { filterPledgesForCharacter, getTodaysPledges } from "../undaunted-pledges"
-import { COMPANION_RAPPORT_POINTS_MAX } from "./task-hud-companion-rapport"
-import { type AntiquityLeadEnrichment, getAntiquityLeadEnrichment, getCadwellEnrichment, getCompanionQuestEnrichment, getCompanionRapportEnrichment, getDragonguardBadges, getLoreLibraryEnrichment, getMotifSourceEnrichment, isAntiquityLegendaryTask, isAntiquityLoreTask, isAntiquityMotifsTask, isCadwellTask, isDragonguardTask, isLoreLibraryTask, isMotifTask, isUndauntedTask } from "./task-hud-enrichment"
 import { isCompanionQuestTask } from "./task-hud-companion-quests"
-import { isCompanionRapportTask } from "./task-hud-companion-rapport"
+import { COMPANION_RAPPORT_POINTS_MAX, isCompanionRapportTask } from "./task-hud-companion-rapport"
+import {
+  type AntiquityLeadEnrichment,
+  getAntiquityLeadEnrichment,
+  getCadwellEnrichment,
+  getCompanionQuestEnrichment,
+  getCompanionRapportEnrichment,
+  getDragonguardBadges,
+  getLoreLibraryEnrichment,
+  getMotifSourceEnrichment,
+  isAntiquityLegendaryTask,
+  isAntiquityLoreTask,
+  isAntiquityMotifsTask,
+  isCadwellTask,
+  isDragonguardTask,
+  isLoreLibraryTask,
+  isMotifTask,
+  isUndauntedTask,
+} from "./task-hud-enrichment"
 import {
   type DailyWritRow,
   getDailyWritsEnrichmentRows,

@@ -2,7 +2,7 @@ import {
   saveSkillMorphProgress,
   updateAccountSkillMorphProgress,
   updateSkillMorphProgress,
-} from "@temper/game-characters-skills-morphs-addon/tracking/skill-morphs"
+} from "@akasha/temper-characters-skills-morphs-addon/skill-morph-tracking"
 import { ADDON_NAME } from "./constants"
 import { captureAndSaveCharacterStats } from "./player-stats"
 import { scheduleTaskAutoCompletionCheck } from "./task-auto-complete"

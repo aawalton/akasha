@@ -1,7 +1,7 @@
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
-} from "@temper/game-characters-skills-morphs-addon/tracking/skill-morphs"
+} from "@akasha/temper-characters-skills-morphs-addon/skill-morph-tracking"
 import { getCharactersConfig } from "./characters-config"
 import { captureAndSaveCharacterStats } from "./player-stats"
 import { getSavedVariables } from "./saved-variables"

@@ -1,4 +1,4 @@
-import { resolveSkillMorphs } from "@temper/game-characters-skills-morphs-addon/ui/task-progress-resolver-skill-morphs"
+import { resolveSkillMorphs } from "@akasha/temper-characters-skills-morphs-addon/skill-morph-task-progress"
 import type { AccountCompletion } from "@akasha/temper-completion/completion-record"
 import { applyCompletionOverrides } from "@akasha/temper-player-completion/apply-completion-overrides"
 import { getCompletionOverridesForCharacter } from "../characters-config"
@@ -30,7 +30,6 @@ import {
   resolveMountTraining,
   resolveTraitResearch,
 } from "./task-progress-resolver-world"
-
 
 export function resolveTaskProgressForCharacter(
   charData: SavedCharacterEntry | undefined,

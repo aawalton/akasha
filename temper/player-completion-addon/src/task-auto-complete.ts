@@ -1,4 +1,4 @@
-import { isSkillMorphTaskComplete } from "@temper/game-characters-skills-morphs-addon/ui/task-auto-complete-skill-morphs"
+import { isSkillMorphTaskComplete } from "@akasha/temper-characters-skills-morphs-addon/skill-morph-task-hud"
 import {
   hasNoActionableAntiquityLeads,
   hasNoLegendaryAntiquityLeads,
@@ -11,7 +11,7 @@ import { getSavedVariables, type SavedVariablesData, type TaskData } from "./sav
 import { getEsoDateString, getEsoResetTimestamp } from "./tracking/daily-writs"
 import { clearInitialCompletion, isCurrentCharacterNext, RefreshTaskHUD } from "./ui/task-hud"
 import { resolveTaskProgress } from "./ui/task-progress-resolver"
-import { type TaskProgress } from "./ui/task-progress-resolver-types"
+import type { TaskProgress } from "./ui/task-progress-resolver-types"
 export const AUTO_COMPLETE_UPDATE_NAME = ADDON_NAME + "_TaskAutoComplete"
 
 export function scheduleTaskAutoCompletionCheck(): undefined {

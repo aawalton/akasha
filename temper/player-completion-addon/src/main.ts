@@ -1,11 +1,11 @@
 import "./public-api"
 
+import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
+import { finishPerfTrace, startPerfTrace } from "@akasha/temper-capture-perf/perf-trace"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
-} from "@temper/game-characters-skills-morphs-addon/tracking/skill-morphs"
-import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
-import { finishPerfTrace, startPerfTrace } from "@akasha/temper-capture-perf/perf-trace"
+} from "@akasha/temper-characters-skills-morphs-addon/skill-morph-tracking"
 import { registerCommands } from "./commands"
 import { ADDON_NAME } from "./constants"
 import { registerBuildEvents } from "./events-build"

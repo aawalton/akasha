@@ -2,9 +2,9 @@ import { TEXT_TERTIARY } from "@akasha/design-tokens/text-color"
 import {
   getRelevantSkillLineIds,
   getSkillMorphEnrichment,
-} from "@temper/game-characters-skills-morphs-addon/ui/task-hud-skill-morphs"
-import { isResettingCard } from "@akasha/temper-player-completion/completion-card-reset-behavior"
+} from "@akasha/temper-characters-skills-morphs-addon/skill-morph-task-hud"
 import { createMovableWindow } from "@akasha/temper-hud-window/movable-window"
+import { isResettingCard } from "@akasha/temper-player-completion/completion-card-reset-behavior"
 import { getCharactersConfig } from "../characters-config"
 import { getSavedVariables, type TaskData } from "../saved-variables"
 import { getActiveQuests } from "../tracking/active-quests"
