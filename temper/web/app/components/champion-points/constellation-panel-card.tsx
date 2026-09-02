@@ -1,13 +1,13 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Button } from "@akasha/design-primitives/button"
 import { ItemCard } from "@akasha/design-patterns/item-card"
+import { Button } from "@akasha/design-primitives/button"
 import type { ChampionPointId } from "@akasha/temper-champion-points/champion-point-source"
 import {
   getCPSkillDescription,
   getCPSkillDisplayName,
-} from "@temper/game-characters-stats/adapters/stages/extract-champion-points"
+} from "@akasha/temper-characters-stats/extract-champion-points"
 import { Hammer, Plus, Shield, Swords } from "lucide-react"
 import { useState } from "react"
 import { StarSelectionDialog } from "@/components/champion-points/star-selection-dialog"
