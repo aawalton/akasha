@@ -73,7 +73,6 @@
     "temper/shared-addon-libraries-lib-sets-scripts",
     "temper/shared-build-deploy-checks",
     "temper/shared-capture-datamining-addon",
-    "temper/shared-interface-interface-addon",
     "temper/shared-interface-keybinder-addon",
     "temper/shared-interface-selector-addon",
     "temper/web",
