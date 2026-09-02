@@ -27,6 +27,7 @@ export const dallaDraftIntoAPatch = {
     { statement: "An applied patch lands through the gate as one commit." },
     { statement: "A drafting command takes no dry run flag." },
     { statement: "The glass is broken only where a patch applies." },
+    { statement: "Drafting is what write and edit do when nothing says otherwise." },
     {
       statement: "A body reaches write and edit on the command line rather than in a file.",
       workingMemory:
