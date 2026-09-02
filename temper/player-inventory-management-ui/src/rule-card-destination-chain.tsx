@@ -1,7 +1,7 @@
 "use client"
 
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import type { DestinationChain, Tier } from "@temper/game-items-rules-core/inventory-rule-types"
+import type { DestinationChain, Tier } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { Plus } from "lucide-react"
 import { RuleCardDestinationTier } from "./rule-card-destination-tier"
 import type { DestinationOptions } from "./use-destination-options"
