@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "28 packages and 1,392 files remain under `temper/`, from 38 and 2,291. Ablation is the bottleneck and most already name a twin in `partSlugs`, so the question is how complete it is. Census the real build inputs the synthesized `dist/.tstl/<Addon>.tsconfig.json` names, read inside `declare global` bodies, and drop page FILES rather than slug-named consts — three seats over-reported absence each way. Run two instruments: one had a dangling `else` and read 3,340 for 13,043.",
+        "26 packages and 1,107 files remain under `temper/`, from 38 and 2,291. `web` at 358 is a third of what is left and now has a seat. Absence is no longer the blind spot; a path named only as a string is. Three porters write into folders that are gone, and one package showed 4 of its 42 references to an import census. `imports-inside` is blind to a specifier a manifest names only by a wildcard export, so a green check proves nothing.",
     },
   ],
   constraints: [
