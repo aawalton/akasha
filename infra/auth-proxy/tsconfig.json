@@ -5,14 +5,18 @@
     "noEmit": false,
     "emitDeclarationOnly": true,
     "outDir": "dist",
-    "rootDir": "src",
+    "rootDir": ".",
     "types": [
       "node",
       "bun"
     ]
   },
   "include": [
-    "src"
+    "./**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
   ],
   "references": [
     {

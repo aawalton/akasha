@@ -13,7 +13,7 @@
     ]
   },
   "include": [
-    "k8s/**/*.ts"
+    "./**/*.ts"
   ],
   "exclude": [
     "node_modules",

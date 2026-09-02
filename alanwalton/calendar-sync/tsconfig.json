@@ -5,6 +5,9 @@
     "noEmit": false,
     "emitDeclarationOnly": true,
     "declarationDir": "dist",
+    "lib": [
+      "esnext"
+    ],
     "types": [
       "@types/bun"
     ]
@@ -14,11 +17,12 @@
   ],
   "exclude": [
     "node_modules",
-    "dist"
+    "dist",
+    "./**/*.test.ts"
   ],
   "references": [
     {
-      "path": "../k8s-types"
+      "path": "../../infra/k8s-types"
     }
   ]
 }
