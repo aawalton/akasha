@@ -1,0 +1,16 @@
+{
+  "name": "@akasha/temper-catalog-core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./apply-invalidations": "./apply-invalidations/apply-invalidations.module.code.ts",
+    "./batch-config": "./batch-config/batch-config.module.code.ts",
+    "./catalog-descriptor": "./catalog-descriptor/catalog-descriptor.module.code.ts",
+    "./catalog-payload": "./catalog-payload/catalog-payload.module.code.ts",
+    "./catalog-walk": "./catalog-walk/catalog-walk.module.code.ts",
+    "./clear-target": "./clear-target/clear-target.module.code.ts",
+    "./domain-keys": "./domain-keys/domain-keys.module.code.ts",
+    "./domain-registry": "./domain-registry/domain-registry.module.code.ts",
+    "./saved-variables-accessor": "./saved-variables-accessor/saved-variables-accessor.module.code.ts"
+  }
+}
