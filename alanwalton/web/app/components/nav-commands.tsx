@@ -3,7 +3,7 @@
 import type { AppNavItem } from "@akasha/design-layout/nav-types"
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import { PALETTE_ONLY } from "@akasha/design-primitives/keyboard-registry"
-import { NavCommandBindings } from "@shared/pages-ui/components/nav-command-bindings-registrar"
+import { useNavCommandBindings } from "@akasha/pages-ui-components/use-nav-command-bindings"
 import { useNavigate } from "react-router"
 import { getNavItemProducts, navItemContent, navItemTech } from "./nav-items"
 
@@ -54,13 +54,12 @@ export function NavCommands() {
 
 export function DynamicNavCommands({ entries }: { entries: readonly AppNavItem[] }) {
   const navigate = useNavigate()
-  return (
-    <NavCommandBindings
-      entries={entries}
-      navigate={(href) => navigate(href)}
-      group={NAV_GROUP}
-      layer="house"
-      idPrefix={DYNAMIC_ID_PREFIX}
-    />
-  )
+  useNavCommandBindings({
+    entries,
+    navigate: (href) => navigate(href),
+    group: NAV_GROUP,
+    layer: "house",
+    idPrefix: DYNAMIC_ID_PREFIX,
+  })
+  return null
 }
