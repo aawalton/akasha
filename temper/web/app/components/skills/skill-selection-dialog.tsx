@@ -3,7 +3,7 @@ import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@akasha/des
 import { Command, CommandGroup, CommandInput, CommandList } from "@akasha/design-primitives/command"
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
 import { cn } from "@akasha/design-primitives/cn"
-import { type SkillId, skills } from "@temper/game-characters-skills/skills-data"
+import { type SkillId, skills } from "@akasha/temper-character-skills/character-skills"
 import type { CategoryData } from "@akasha/temper-skill-morphs/skill-organization"
 import { Check, ChevronRight, ChevronsDown, ChevronsUp } from "lucide-react"
 import { useState } from "react"

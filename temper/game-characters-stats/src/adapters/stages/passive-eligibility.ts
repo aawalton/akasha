@@ -3,8 +3,8 @@ import type { CharacterState } from "@temper/game-characters-character/build-typ
 import type { CurseState } from "@akasha/temper-character-sources/curses"
 import type { StandardArmorWeightId } from "@temper/game-characters-equipment/armor/armor-weights-data"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
-import { countArmorPiecesByWeight, countSlottedAbilitiesFromLine, getRacialSkillLineIdForRace, getSkillLineCategory, getSlottedSkillLineIds, getWeaponTypeIdsForBar } from "@temper/game-characters-skills/passive-queries"
-import { getWeaponSkillLineIdsForBar } from "@temper/game-characters-skills/skill-line-queries"
+import { countArmorPiecesByWeight, countSlottedAbilitiesFromLine, getRacialSkillLineIdForRace, getSkillLineCategory, getSlottedSkillLineIds, getWeaponTypeIdsForBar } from "@akasha/temper-character-skills/passive-queries"
+import { getWeaponSkillLineIdsForBar } from "@akasha/temper-character-skills/skill-line-queries"
 import type { TranslationContext } from "./types"
 
 export interface PassiveEligibilityContext {

@@ -9,10 +9,10 @@ import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-l
 import {
   countArmorPiecesByWeight,
   getRacialSkillLineIdForRace,
-  getWeaponSkillLineIdsForBar,
-} from "@temper/game-characters-skills/passive-queries"
-import type { Skill } from "@temper/game-characters-skills/skills-data"
-import { skills } from "@temper/game-characters-skills/skills-data"
+} from "@akasha/temper-character-skills/passive-queries"
+import { getWeaponSkillLineIdsForBar } from "@akasha/temper-character-skills/skill-line-queries"
+import type { Skill } from "@akasha/temper-character-skills/character-skills"
+import { skills } from "@akasha/temper-character-skills/character-skills"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import { SkillCollapsibleCard } from "@/components/skills/skill-collapsible-card"

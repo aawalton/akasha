@@ -44,14 +44,6 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "temper/game-characters-skills": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/game-characters-skills-morphs-addon": {
       "entry": [
         "src/**/*.ts!"

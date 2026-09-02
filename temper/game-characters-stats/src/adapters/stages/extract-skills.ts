@@ -1,6 +1,6 @@
-import { createScribedSkillSource } from "@temper/game-characters-skills/scribing/scribed-skill-source"
+import { createScribedSkillSource } from "@akasha/temper-character-skills/scribed-skill-source"
 import { skillSlots } from "@akasha/temper-skill-kinds/skill-slots"
-import { skills } from "@temper/game-characters-skills/skills-data"
+import { skills } from "@akasha/temper-character-skills/character-skills"
 import type { SkillSource } from "@akasha/temper-formula-framework/skill-source"
 import type { Effect } from "@akasha/temper-formula-framework/effect"
 import type { PipelineStage } from "./types"

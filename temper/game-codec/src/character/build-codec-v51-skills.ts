@@ -1,5 +1,5 @@
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { SkillId } from "@temper/game-characters-skills/skills-data"
+import type { SkillId } from "@akasha/temper-character-skills/character-skills"
 import type { BitReaderState, BitWriterState } from "../binary-utils"
 import { readBits, writeBits } from "../binary-utils"
 import { recordFromKeys } from "../record-from-keys"

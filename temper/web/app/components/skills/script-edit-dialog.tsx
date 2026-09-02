@@ -4,7 +4,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Text } from "@akasha/design-primitives/text-body"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
+import type { ScribedSkill } from "@akasha/temper-character-skills/scribed-skill-types"
 import {
   type AffixScriptId,
   affixScripts,
@@ -14,10 +14,10 @@ import {
   focusScripts,
 } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import {
-  getCombinedScriptDescription,
   getGrimoireCompatibleScripts,
   grimoires,
-} from "@temper/game-characters-skills/scribing/grimoires-data"
+} from "@akasha/temper-character-skills/scribing-grimoires"
+import { getCombinedScriptDescription } from "@akasha/temper-character-skills/scribing-script-description"
 import {
   type SignatureScriptId,
   signatureScripts,

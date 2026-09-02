@@ -58,7 +58,6 @@
     "temper/game-characters-character-ui",
     "temper/game-characters-equipment",
     "temper/game-characters-equipment-ui",
-    "temper/game-characters-skills",
     "temper/game-characters-skills-morphs-addon",
     "temper/game-characters-stats",
     "temper/game-codec",

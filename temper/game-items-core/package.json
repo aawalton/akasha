@@ -10,7 +10,6 @@
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
-    "@temper/game-characters-skills": "workspace:*",
     "@temper/game-completion": "workspace:*",
     "zod": "^4.3.6"
   },

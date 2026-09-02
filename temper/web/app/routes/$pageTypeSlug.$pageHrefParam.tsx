@@ -17,7 +17,7 @@ import { createEmptyCharacter } from "@temper/game-characters-character/build-fa
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { toCharacterVisibility } from "@temper/game-characters-character/build-types"
 import { setsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
-import { skills } from "@temper/game-characters-skills/skills-data"
+import { skills } from "@akasha/temper-character-skills/character-skills"
 import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-codec"
 import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { createEmptyCompanion } from "@akasha/temper-companions-core/companion-factory"

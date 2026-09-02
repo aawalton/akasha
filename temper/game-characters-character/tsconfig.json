@@ -12,9 +12,6 @@
   "references": [
     {
       "path": "../game-characters-equipment"
-    },
-    {
-      "path": "../game-characters-skills"
     }
   ],
   "include": [

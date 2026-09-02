@@ -6,7 +6,7 @@ import {
   getSkillLineIdsForClass,
   skillLines,
 } from "@akasha/temper-skill-lines/skill-lines"
-import { getRacialSkillLineIdForRace } from "@temper/game-characters-skills/passive-queries"
+import { getRacialSkillLineIdForRace } from "@akasha/temper-character-skills/passive-queries"
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,

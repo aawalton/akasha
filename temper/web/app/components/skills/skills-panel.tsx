@@ -5,7 +5,7 @@ import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import {
   getArmorSkillLineIds,
   getWeaponSkillLineIdsForBar,
-} from "@temper/game-characters-skills/skill-line-queries"
+} from "@akasha/temper-character-skills/skill-line-queries"
 import { activeSkillSlots } from "@akasha/temper-skill-kinds/skill-slots"
 import { useDeferredValue, useMemo } from "react"
 import { useScribedSkills } from "@/components/skills/hooks/useScribedSkills"

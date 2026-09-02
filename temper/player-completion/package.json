@@ -1,6 +1,7 @@
 {
   "name": "@temper/player-completion",
   "dependencies": {
+    "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
@@ -12,7 +13,6 @@
     "@akasha/temper-skill-morphs-access": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
-    "@temper/game-characters-skills": "workspace:*",
     "@temper/game-completion": "workspace:*"
   },
   "devDependencies": {

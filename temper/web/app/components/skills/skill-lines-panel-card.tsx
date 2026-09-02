@@ -6,7 +6,7 @@ import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-l
 import {
   getAvailableSkillLinesGrouped,
   getClassForSkillLine,
-} from "@temper/game-characters-skills/skill-line-queries"
+} from "@akasha/temper-character-skills/skill-line-queries"
 
 interface SkillLinesPanelCardProps {
   skillLineIds: readonly SkillLineId[]

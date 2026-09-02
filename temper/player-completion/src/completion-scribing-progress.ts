@@ -1,6 +1,6 @@
 import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
-import { grimoires } from "@temper/game-characters-skills/scribing/grimoires-data"
+import { grimoires } from "@akasha/temper-character-skills/scribing-grimoires"
 import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 import type { CompletionCharacterRow } from "./completion-character-row-type"
 import { isCharacterMeasured } from "./completion-measured"

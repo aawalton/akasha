@@ -1,1 +1,1 @@
-export { skills } from "@temper/game-characters-skills/skills-data"
+export { skills } from "@akasha/temper-character-skills/character-skills"

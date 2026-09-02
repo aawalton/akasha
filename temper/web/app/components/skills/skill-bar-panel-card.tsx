@@ -2,7 +2,7 @@
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { activeSkillSlots, type SkillSlotId } from "@akasha/temper-skill-kinds/skill-slots"
-import type { Skill, SkillId } from "@temper/game-characters-skills/skills-data"
+import type { Skill, SkillId } from "@akasha/temper-character-skills/character-skills"
 import { SkillSlotCard } from "@/components/skills/skill-slot-card"
 import { UltimateSlotCard } from "@/components/skills/ultimate-slot-card"
 

@@ -1,1 +1,1 @@
-export { grimoires } from "@temper/game-characters-skills/scribing/grimoires-data"
+export { grimoires } from "@akasha/temper-character-skills/scribing-grimoires"

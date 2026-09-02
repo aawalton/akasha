@@ -1,4 +1,4 @@
-import { skills } from "@temper/game-characters-skills/skills-data"
+import { skills } from "@akasha/temper-character-skills/character-skills"
 import type { SkillSource } from "@akasha/temper-formula-framework/skill-source"
 import type { Effect } from "@akasha/temper-formula-framework/effect"
 import {

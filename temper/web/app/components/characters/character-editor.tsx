@@ -5,7 +5,7 @@ import type {
   CharacterVisibility,
 } from "@temper/game-characters-character/build-types"
 import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
-import type { Skill } from "@temper/game-characters-skills/skills-data"
+import type { Skill } from "@akasha/temper-character-skills/character-skills"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { CharacterEditorContent } from "@/components/characters/character-editor-content"
 import { CharacterProvider } from "@/components/characters/context/character-context"

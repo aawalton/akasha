@@ -3,7 +3,7 @@ import { Command, CommandInput, CommandList } from "@akasha/design-primitives/co
 import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
+import type { ScribedSkill } from "@akasha/temper-character-skills/scribed-skill-types"
 import {
   type FocusScriptId,
   focusScripts,
@@ -12,8 +12,8 @@ import {
   type GrimoireId,
   getGrimoireCompatibleScripts,
   grimoires,
-} from "@temper/game-characters-skills/scribing/grimoires-data"
-import { getScribedSkillName } from "@temper/game-characters-skills/scribing/scribed-skills-data"
+} from "@akasha/temper-character-skills/scribing-grimoires"
+import { getScribedSkillName } from "@akasha/temper-character-skills/scribed-skills"
 import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { ArrowLeft } from "lucide-react"
 import { useState } from "react"

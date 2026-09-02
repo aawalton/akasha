@@ -11,7 +11,7 @@ import {
 } from "@temper/game-characters-character/build-types"
 import { useCharacter as useCharacterZero } from "@temper/game-characters-character-ui/use-characters"
 import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
-import type { Skill } from "@temper/game-characters-skills/skills-data"
+import type { Skill } from "@akasha/temper-character-skills/character-skills"
 import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-codec"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"

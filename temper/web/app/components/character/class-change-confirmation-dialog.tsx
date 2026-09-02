@@ -8,8 +8,8 @@ import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-l
 import {
   getSkillsToRemoveOnClassChange,
   validateSkillLinesForClass,
-} from "@temper/game-characters-skills/skill-line-queries"
-import type { Skill } from "@temper/game-characters-skills/skills-data"
+} from "@akasha/temper-character-skills/skill-line-queries"
+import type { Skill } from "@akasha/temper-character-skills/character-skills"
 
 interface ClassChangeConfirmationDialogProps {
   open: boolean

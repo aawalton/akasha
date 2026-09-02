@@ -21,17 +21,17 @@ import { weaponTraits } from "@akasha/temper-equipment/weapon-traits"
 import { weaponTypes } from "@temper/game-characters-equipment/weapons/weapon-types-data"
 import { races } from "@akasha/temper-races/races"
 import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import { getSkillLineCategory } from "@temper/game-characters-skills/passive-queries"
+import { getSkillLineCategory } from "@akasha/temper-character-skills/passive-queries"
 import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
-import { grimoires } from "@temper/game-characters-skills/scribing/grimoires-data"
+import { grimoires } from "@akasha/temper-character-skills/scribing-grimoires"
 import {
   type ScribedSkillId,
   scribedSkills,
-} from "@temper/game-characters-skills/scribing/scribed-skills-data"
+} from "@akasha/temper-character-skills/scribed-skills"
 import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 import { skillSlots } from "@akasha/temper-skill-kinds/skill-slots"
-import { skills } from "@temper/game-characters-skills/skills-data"
+import { skills } from "@akasha/temper-character-skills/character-skills"
 import { poisons } from "@akasha/temper-alchemy/poison-source"
 import { potions } from "@akasha/temper-alchemy/potion-source"
 

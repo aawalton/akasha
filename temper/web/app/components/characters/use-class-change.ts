@@ -4,7 +4,7 @@ import { getSetIdsClassCannotEquip } from "@temper/game-characters-equipment/set
 import {
   getSkillsToRemoveOnClassChange,
   validateSkillLinesForClass,
-} from "@temper/game-characters-skills/skill-line-queries"
+} from "@akasha/temper-character-skills/skill-line-queries"
 import { useState } from "react"
 import { useCharacter, useCharacterActions, useCharacterMetadata } from "./context/use-character"
 

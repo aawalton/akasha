@@ -2,6 +2,7 @@
   "name": "@temper/game-codec",
   "dependencies": {
     "@akasha/temper-alchemy": "workspace:*",
+    "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-classes": "workspace:*",
@@ -14,8 +15,7 @@
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
-    "@temper/game-characters-equipment": "workspace:*",
-    "@temper/game-characters-skills": "workspace:*"
+    "@temper/game-characters-equipment": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",
