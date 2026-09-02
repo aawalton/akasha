@@ -1,19 +1,22 @@
 "use client"
 
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { type CurseState, curses } from "@akasha/temper-character-sources/curses"
-import { getRaceSourceById } from "@temper/game-characters-character/race-source"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import {
-  type VampireStageId,
-  vampireStages,
-} from "@akasha/temper-character-sources/vampire-stages"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import { getRaceSourceById } from "@akasha/temper-character-build/race-source"
+import { type CurseState, curses } from "@akasha/temper-character-sources/curses"
+import { type VampireStageId, vampireStages } from "@akasha/temper-character-sources/vampire-stages"
 import { classes } from "@akasha/temper-classes/character-class"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { RaceId } from "@akasha/temper-races/races"
 import { useState } from "react"
 import { RaceSelectDialog } from "@/components/character/race-select-dialog"
 import { FilterableSelectTrigger } from "@/components/ui/filterable-select-dialog"
-import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface IdentityPanelCardProps {
   character: {
