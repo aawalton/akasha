@@ -8,19 +8,26 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "A body reaches write and edit on the command line rather than in a file.",
+      statement: "A file property is carried uncommitted.",
       workingMemory:
-        "Standard input carries the body. Write takes one body; edit takes old and new between conflict markers, line-oriented, the trailing newline included. The file flags and the repeating pairs stay until patches land, since a new page and its parent's part-slugs must still land in one call. The invariant naming --content-file is restated to name standard input rather than deleted, because keeping bodies out of argv is the point.",
+        "No file property is uncommitted today, and the two cannot be combined. The sidecar is built by besideAt(path, uncommitted, ts), the same path builder a file property uses, so the reserved tail sits in the slot a property slug needs. A page keeps one sidecar and it is one JSON object. The filename grammar has to gain a slot, something like dalla.seat.patch.uncommitted.patch, and that is pages-system work rather than seat-system work.",
     },
     { statement: "A seat and a subagent each carry the patch they are drafting." },
+    { statement: "A subagent states the agent id it runs under." },
     { statement: "A drafted change is worked into the agent's patch and rebased onto main." },
     {
       statement: "A patch that cannot rebase carries its conflicts where the agent resolves them.",
     },
+    { statement: "A principal takes in the patch of a subagent that stops." },
     { statement: "A draft says what the checks would refuse and refuses nothing." },
     { statement: "An applied patch lands through the gate as one commit." },
     { statement: "A drafting command takes no dry run flag." },
     { statement: "The glass is broken only where a patch applies." },
+    {
+      statement: "A body reaches write and edit on the command line rather than in a file.",
+      workingMemory:
+        "Standard input carries a body now, so no scratch file is needed. What is left is taking the file flags and the repeating pairs away, and that waits on the patch: until a change accumulates, a new page and its parent's part-slugs must still land in one call.",
+    },
     { statement: "A rename landing under an open patch leaves that patch coherent." },
     { statement: "A seat and its subagents draft against one worktree of their own." },
   ],
