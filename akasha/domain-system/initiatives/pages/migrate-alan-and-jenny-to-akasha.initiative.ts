@@ -26,7 +26,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "The bridge in `readouts/ask-here.ts` holds, by decision. No type is refused by name: the index covers `akasha/` alone and its loader requires TypeScript, so a markdown body throws and the page is dropped unnoted. A probe served `value` from markdown in 131 lines, six rows checked on disk. It buys little: the stoplights ask by saved query, so closing this needs seven page types, a frontmatter parser akasha declares it has none of, caching, and a kebab-camel ruling with live callers each side.",
+        "Alan has ruled this the priority: the pod cannot answer page queries from its own checkout and must reach the pages-system-service. That checkout resets to origin at pod start and was 262 commits stale, hiding four landed readouts from his widget while they were right here. The service answers for akasha pages alone and refuses the rest by name, so a census of what the pod asks for is owed before any switch. No fallback to the checkout: that is the same defect wearing resilience.",
     },
     {
       statement: "`pages-ui` stands in akasha.",
