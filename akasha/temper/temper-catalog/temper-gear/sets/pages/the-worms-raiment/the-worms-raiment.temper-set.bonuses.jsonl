@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fe-7134-aeb4-343997e2a638","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-7002-b768-4ce2a39ff829","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fe-7f11-a8b4-913505cde95c","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-7ecd-bbf9-90a33b89bab6","count":5,"status":"unsupported","description":"Grants 145 Magicka Recovery to you and up to 11 other group members within 28 meters of you. This bonus persists through death."}

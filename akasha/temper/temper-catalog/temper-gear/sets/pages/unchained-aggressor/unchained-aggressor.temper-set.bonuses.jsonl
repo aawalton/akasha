@@ -1,0 +1,4 @@
+{"id":"01a05fde-b300-769c-87c1-dc46f42e77dd","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b300-7645-99ae-e0d966608f3b","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b300-7666-96ee-43b26628b018","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b300-7ea2-9fa6-16f8c75cfec8","count":5,"status":"unsupported","description":"After Breaking Free, gain Major Berserk for 12 seconds, increasing your damage done by 10%.  This effect can occur once every 14 seconds."}

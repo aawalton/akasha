@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fc-7a8b-9a89-7bbda4b93d44","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fc-7205-9a01-ca29670dbad8","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fde-b2fc-79c7-948b-a1d47e377721","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fc-78c3-b5ba-0beba8bd4504","count":5,"status":"unsupported","description":"When an enemy you recently damaged dies, they leave behind a vengeful soul for 6 seconds. You can only create one vengeful soul at a time. Touching the soul increases your Critical Chance by 2160 and your Critical Damage by 12% for 30 seconds."}

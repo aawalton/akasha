@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fe-7e49-8062-3d3ac15b1a3a","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-7ff2-a801-dbc919f4b81f","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-7ec9-9751-327e0ff610cb","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-774b-8519-04bd5a23ca63","count":5,"status":"unsupported","description":"Dealing damage with a fully-charged Heavy Attack grants you Major Berserk for 4 seconds, increasing your damage done by 10%. This effect can occur once every 1 second."}

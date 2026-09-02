@@ -1,0 +1,5 @@
+{"id":"01a05fde-b302-79a2-949b-f4b30a9cf963","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b302-7f0e-9611-1f5c48e72e54","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fde-b302-7dbd-8684-c368d21de168","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b302-7212-bba0-8020a10ac152","count":5,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b302-7dbb-89c8-311ca2d5d0e4","count":5,"status":"unsupported","description":"Reduces the cost of your Stamina abilities by 8%. When an enemy you have recently damaged dies, you restore 2454 Stamina and gain Major Expedition for 8 seconds, increasing your Movement Speed by 30%.  These effects can occur once every second."}

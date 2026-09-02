@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fd-79f7-8e8e-c0878f8c969f","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b2fd-7936-890d-218f19b35da2","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b2fd-70c8-80e7-00c497a0a202","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b2fd-7ba4-a3ef-0c9fff49a43d","count":5,"status":"unsupported","description":"When you dodge an attack, you receive the blessing of Tava, generating 12 Ultimate over 3 seconds.  This effect can occur once every 3 seconds."}

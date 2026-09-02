@@ -1,0 +1,4 @@
+{"id":"01a05fde-b303-73b5-b327-e7bf8d6948ed","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b303-7740-beb6-d182eebd96c6","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b303-79de-b2ef-f7dbad32a222","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b303-75e6-bec3-56e4ccfc549f","count":5,"status":"unsupported","description":"When your alchemical poison fires, you drop a poisonous spore in front of you that bursts after 1 second, dealing 2856 Poison damage over 10 seconds to all enemies within 5 meters. This effect scales off the higher of your Weapon or Spell Damage."}

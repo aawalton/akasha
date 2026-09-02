@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2ff-7dad-a30f-105dbe99fde2","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2ff-7dc3-9437-e5c55be35fab","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2ff-7a4d-b13e-dd6d5453c851","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2ff-76b5-90f6-8d53c616188a","count":5,"status":"unsupported","description":"Dealing direct damage with a non-Heavy Attack grants you a stack of Trapmaster for 5 seconds, up to 4 stacks max. You can gain a stack every 1 second.\n\nDealing damage with a fully-charged Heavy Attack consumes the stacks, applies Sundered, and deals 353 Physical damage per stack consumed."}

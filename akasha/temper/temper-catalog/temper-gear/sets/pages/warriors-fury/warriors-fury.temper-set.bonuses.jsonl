@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-747f-8cfe-afcbbbbb3be9","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b302-732d-8870-cdcd47e4fc66","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b302-774a-8d61-d298404449b8","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b302-7a34-947e-ae389125610e","count":5,"status":"unsupported","description":"When you take damage, your Weapon and Spell Damage is increased by 24 for 5 seconds, stacking up to 20 times. This effect can occur once every half second. Upon reaching 20 stacks, the duration is doubled but can no longer be refreshed."}

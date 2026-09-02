@@ -1,0 +1,4 @@
+{"id":"01a05fde-b303-7962-81da-4784f12ee3a6","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b303-76b6-a6b5-818ebb7c71f9","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7519-9566-ae9982859cb3","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7077-8059-3ad833b625e0","count":5,"status":"unsupported","description":"While your Stamina is below 50%, your Light Attacks cause the enemy to take 8% additional damage for 5 seconds. This effect can occur once every 8 seconds."}

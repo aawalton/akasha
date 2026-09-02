@@ -1,0 +1,4 @@
+{"id":"01a05fde-b300-74d2-8dc5-e71fd9550363","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b300-7821-918e-a981d45ce9d4","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b300-74d7-9f6d-24bb9d1991b6","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b300-77dd-a455-e361667e5b2a","count":5,"status":"unsupported","description":"Adds 708 Critical Chance and increases your Critical Damage by 4%. While in combat, this bonus doubles when you are under 75% Health and quadruples when you are under 50% Health."}

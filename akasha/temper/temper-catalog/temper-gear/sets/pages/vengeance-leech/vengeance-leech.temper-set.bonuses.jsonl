@@ -1,0 +1,2 @@
+{"id":"01a05fde-b302-70ec-a2ab-7af169a0d96b","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b302-7310-a0d3-4f448de42d6a","count":3,"status":"unsupported","description":"When you kill an enemy, you heal for 2827 Health and restore 2772 Magicka and Stamina."}

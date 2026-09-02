@@ -1,0 +1,5 @@
+{"id":"01a05fde-b300-7792-ae47-c52efdc4e438","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b300-788c-aac4-074faa594b6a","count":3,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b300-7dbb-a8fd-7496ca3244d0","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b300-7308-89da-5fe0d55f8b79","count":5,"status":"supported","description":"Adds 2305 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":2305}]}
+{"id":"01a05fde-b300-7607-80a7-5ce28c353d32","count":5,"status":"unsupported","description":"When you deal damage, your Offensive Penetration is increased by 660 for 5 seconds, stacking up to 5 times. This effect can occur once every half second."}

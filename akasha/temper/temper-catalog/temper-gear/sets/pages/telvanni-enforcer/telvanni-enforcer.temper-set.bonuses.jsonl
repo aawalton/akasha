@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fd-7a25-8331-151131e121e0","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fd-735f-9ca7-bef2a837269e","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b2fd-71a1-b235-8227eacb4dbc","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fd-7c14-87f3-5acd340204ab","count":5,"status":"unsupported","description":"While Bracing, increase your Magicka Recovery by 369. While you are not Bracing, increase your Stamina Recovery by 369."}

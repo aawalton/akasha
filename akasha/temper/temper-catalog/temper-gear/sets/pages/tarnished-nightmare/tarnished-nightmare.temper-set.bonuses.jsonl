@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fd-75f0-9a5b-9b51faf5230e","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fd-7c7e-8f4f-2f31eada303f","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fd-7db9-892e-be3300f060ed","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fd-7ed5-af1d-03fdd412f26f","count":5,"status":"unsupported","description":"When you deal Critical Damage to an enemy, glass shards burst 8 meters around them after 1.3 seconds, dealing 1129 Physical damage to enemies in the burst and applying the Sundered status effect. This effect can occur once every 8 seconds and the damage scales off the higher of your Weapon or Spell Damage."}

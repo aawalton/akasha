@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fd-7fa5-9808-86e159fef86d","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fd-7417-9ddb-5583bde1fa6d","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b2fd-714a-9914-48321d4d1ad8","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fd-7648-9409-33870e51872e","count":5,"status":"unsupported","description":"When you Bash an enemy, place Systres' Scowl on them for 15 seconds. When hit by a Light Attack, a target with Systres' Scowl takes 1973 Frost Damage, up to once every second."}

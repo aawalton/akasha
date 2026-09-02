@@ -1,0 +1,4 @@
+{"id":"01a05fde-b303-7a28-b691-fe8f94551e62","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7228-84ee-5b280680cc46","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7f59-bb92-f4a42188a9af","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b303-7e4c-a3f6-6fd168523461","count":5,"status":"unsupported","description":"When you use an Ultimate ability, you heal for 52 Health and restore 51 Stamina and Magicka per Ultimate spent."}

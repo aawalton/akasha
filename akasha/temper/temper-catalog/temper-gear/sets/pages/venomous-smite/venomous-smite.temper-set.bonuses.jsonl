@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-7e9c-af3b-359686eb884b","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b302-7002-9c0e-dae1035955f7","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b302-7e09-8813-f5320a9754e3","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b302-76c5-ab0c-8fc4cd5a6b8a","count":5,"status":"unsupported","description":"Dealing Critical Damage inflicts Hunter's Venom on your enemy for 10 seconds, dealing 714 Poison damage to your target and enemies within 6 meters of them every 2 seconds. This effect can occur once every 15 seconds and scales off the higher of your Weapon or Spell Damage."}

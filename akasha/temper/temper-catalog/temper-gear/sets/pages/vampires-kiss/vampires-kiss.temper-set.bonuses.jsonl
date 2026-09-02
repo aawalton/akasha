@@ -1,0 +1,6 @@
+{"id":"01a05fde-b301-75d4-9fb7-ba9605373ebc","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-7a0c-ad93-6abde92052e8","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-7413-b2d6-434abb125f37","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-704c-aca8-31ccc94d43e6","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-730b-bed4-fbe9b3a894da","count":5,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b301-7d59-807d-1a618588ba48","count":5,"status":"unsupported","description":"When you kill an enemy, you heal for 10956 Health over 10 seconds.  This effect scales off the higher of your Max Magicka or Stamina."}

@@ -1,0 +1,5 @@
+{"id":"01a05fde-b303-7f0f-a309-2f3143dc12c3","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b303-7760-8653-3bb8dc08eafb","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b303-7c49-910b-8bf72f8e73b3","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b303-7d8a-85e8-10982fbcea66","count":5,"status":"supported","description":"Adds 165 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":165}]}
+{"id":"01a05fde-b303-7ce1-8e91-424bc78c9cbb","count":5,"status":"unsupported","description":"Reduces the cost of Break Free by 40%."}

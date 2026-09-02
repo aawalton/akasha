@@ -1,0 +1,5 @@
+{"id":"01a05fde-b303-75fb-9c96-2e9f3dc61825","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b303-7d04-8591-9600af799b7e","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b303-74b4-ae04-f1322bc607ba","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b303-7afa-afcf-13b74ea4c5f0","count":5,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7c56-be1f-e41272c57150","count":5,"status":"unsupported","description":"After completing a fully-charged Heavy Attack, you gain Major Mending for 5 seconds, increasing your healing done by 16%. This duration is increased with each rank of the Restoration Staff Passive of Essence Drain when using a Restoration Staff."}

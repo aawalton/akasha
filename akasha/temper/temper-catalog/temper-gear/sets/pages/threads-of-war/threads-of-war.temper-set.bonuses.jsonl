@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fe-73be-95c0-f5d1b8804e5f","count":2,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b2fe-7bc9-a614-567867638eb1","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-7231-bec4-e92fecc1f24d","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fe-7872-9fb7-43d874235a37","count":5,"status":"unsupported","description":"Your Light and fully-charged Heavy Attacks gain 100% Status Effect Chance. The Status Effect is based on the damage type of your weapon."}

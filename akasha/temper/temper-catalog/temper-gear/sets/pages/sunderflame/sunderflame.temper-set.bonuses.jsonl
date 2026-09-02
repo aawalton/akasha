@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fc-7283-8958-6456765961c0","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fc-74c6-93fd-c36fe25d679d","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fc-73eb-adec-a55a75baa467","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fc-717d-adcc-05c63923e3d1","count":5,"status":"unsupported","description":"When you deal damage with a fully-charged Heavy Attack, you deal an additional 1925 Flame damage over 10 seconds and apply Minor Breach to the enemy, reducing their Physical and Spell Resistance by 2974.  This effect scales off the higher of your Weapon or Spell Damage."}

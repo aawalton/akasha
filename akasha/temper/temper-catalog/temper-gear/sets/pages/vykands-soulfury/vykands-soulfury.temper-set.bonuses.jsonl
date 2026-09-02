@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-7f2c-aa84-42680d7c08a6","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b302-78f7-97a5-3653db56d1cd","count":3,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b302-780d-9037-1cc86d8d8b0c","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b302-7d58-afd6-e1aee0649a81","count":5,"status":"unsupported","description":"While in combat, completing a fully-charged Heavy Attack grants you either Major Force, Major Berserk, or Major Courage for 12 seconds, increasing your Critical Damage done by 20%, your damage done by 10%, or your Weapon and Spell Damage by 430.\n\nThis effect can occur once every 9 seconds."}

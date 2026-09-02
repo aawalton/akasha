@@ -1,0 +1,6 @@
+{"id":"01a05fde-b301-790c-b982-0a8affe2296b","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-7f62-be88-8497e2b6a019","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b301-796e-8736-16d8db863af9","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-7ead-9a36-6ef08fd8270e","count":5,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b301-7c0f-8fa0-dfb63a529123","count":5,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b301-7e52-bcc7-2db4c284c42a","count":5,"status":"unsupported","description":"When you resurrect an ally, you and your ally gain 258 Weapon and Spell Damage and 10% cost reduction to non-Ultimate abilities for 10 seconds."}

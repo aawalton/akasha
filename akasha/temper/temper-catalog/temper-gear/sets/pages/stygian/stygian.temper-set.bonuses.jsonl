@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fc-70b0-9c6c-9fb37f325a6e","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fc-74b9-aa3f-fb5c6dcf34ec","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fc-7fb6-abff-2e8493c5ccbc","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b2fc-7cd5-87a9-05a24aa869c2","count":5,"status":"unsupported","description":"When you leave Sneak or invisibility while in combat, your Weapon and Spell Damage is increased by 369 for 15 seconds."}

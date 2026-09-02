@@ -1,0 +1,5 @@
+{"id":"01a05fde-b303-756a-a510-7d74b5962700","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b303-77dd-bb4a-52a2d47bdb8a","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7368-8158-6e1c86c5ac0e","count":4,"status":"unsupported","description":"Increases the radius you can detect Sneaking enemies by 2 meters."}
+{"id":"01a05fde-b303-73c8-910e-4ec6e24b1334","count":5,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b303-75b1-aafa-0dd7b46df937","count":5,"status":"unsupported","description":"When you use Roll Dodge, your Weapon and Spell Damage is increased by 391 for 6 seconds."}

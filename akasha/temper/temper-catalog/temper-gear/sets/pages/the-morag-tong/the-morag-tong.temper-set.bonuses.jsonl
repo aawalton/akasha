@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fe-7412-8bff-957763abfbd5","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-7ad4-9b09-88794700ad7d","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fe-7914-9dfc-fd0a5c3315e7","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-7b46-8b17-f19f972e207c","count":5,"status":"unsupported","description":"When you deal direct damage, you cause the enemy to take 10% more damage from Poison and Disease attacks for 5 seconds."}

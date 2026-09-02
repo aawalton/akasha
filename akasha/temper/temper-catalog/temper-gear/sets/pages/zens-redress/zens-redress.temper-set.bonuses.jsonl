@@ -1,0 +1,4 @@
+{"id":"01a05fde-b304-760f-8713-4643b171e317","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b304-7071-8a12-a6984525fab2","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b304-75e9-9141-fdcf680efc3b","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b304-75d4-8a22-52f468ab6e2f","count":5,"status":"unsupported","description":"Your Light Attacks apply the Touch of Z'en on enemies for 20 seconds. Enemies with the Touch of Z'en take an additional 1% more damage for each damage over time effect you've placed on them, up to 5%. Enemies can only be affected by one Touch of Z'en at a time."}

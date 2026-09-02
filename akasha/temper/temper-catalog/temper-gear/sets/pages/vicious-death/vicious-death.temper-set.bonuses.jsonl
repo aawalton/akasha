@@ -1,0 +1,5 @@
+{"id":"01a05fde-b302-7ada-90d3-85fb32c9cdff","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b302-751f-9cb3-ae623dc4d154","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b302-70fa-9f02-85338b4c2dd1","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b302-7b54-a21a-02e00006928e","count":5,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b302-7ac9-8168-f62d2db908eb","count":5,"status":"unsupported","description":"When you kill a Player, they violently explode for 3322 Flame Damage to all other enemies in a 5 meter radius. This effect scales off the higher of your Weapon or Spell Damage."}

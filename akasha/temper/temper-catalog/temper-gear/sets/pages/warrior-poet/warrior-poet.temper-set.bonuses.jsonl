@@ -1,0 +1,5 @@
+{"id":"01a05fde-b302-73aa-a85d-70a6574020f9","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b302-73b8-aa82-f4e2493d8c2a","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b302-764e-946d-faab048f16ec","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b302-749c-b879-bc69e3ecdf89","count":5,"status":"supported","description":"Adds 1600 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1600}]}
+{"id":"01a05fde-b302-7405-a33b-1e704e670013","count":5,"status":"unsupported","description":"Gain Minor Toughness at all times, increasing your Max Health by 10%."}

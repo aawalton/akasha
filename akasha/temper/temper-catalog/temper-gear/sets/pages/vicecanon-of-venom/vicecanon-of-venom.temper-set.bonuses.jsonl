@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-7989-a836-3645dfcacfea","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b302-769d-8fa5-b0df73ff7ec6","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b302-7cc7-8752-2e4c77ccc817","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b302-7de6-85bf-1ffa56f9373c","count":5,"status":"unsupported","description":"When you deal direct Critical Damage to an enemy while behind them, you inject a leeching poison that deals 1300 Poison Damage over 10 seconds to them and heals you for 100% of the damage done.  This effect can occur once every 10 seconds per enemy and scales off the higher of your Weapon or Spell Damage."}

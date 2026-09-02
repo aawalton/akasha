@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fd-70de-b37b-17575074622d","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fd-76a3-9608-1e8b13219d9f","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b2fd-72f1-9540-bd9f7cbac7c6","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fd-7aa9-a97a-73ad655a5b80","count":5,"status":"unsupported","description":"While you have a living Companion, reduce the cooldown of their abilities by 50%. While you do not have a living Companion, reduce the cost of your Magicka, Stamina, Health, and Ultimate abilities by 8%."}

@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fc-7a6b-83e8-8d8106739cbf","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fc-7322-965d-a6f392b6b84c","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fc-783b-bd56-234239b3b7e0","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fc-7e93-828b-531dceb39182","count":5,"status":"unsupported","description":"When you deal Critical Damage with a fully-charged Heavy Attack, your Light and Heavy Attacks deal an additional 1542 damage to monsters for 8 seconds. This effect can occur once every 5 seconds."}

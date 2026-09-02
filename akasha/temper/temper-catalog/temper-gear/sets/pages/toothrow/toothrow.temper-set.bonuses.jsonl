@@ -1,0 +1,5 @@
+{"id":"01a05fde-b2ff-7314-8084-77975c730f92","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2ff-75bd-a5aa-90e6213505ef","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2ff-709e-87bf-4883301226b4","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2ff-7883-be26-9b17c1645c3b","count":5,"status":"supported","description":"Adds 171 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":171}]}
+{"id":"01a05fde-b2ff-75d2-b7cb-cc624abae2f0","count":5,"status":"unsupported","description":"Gain Major Savagery and Prophecy at all times, increasing your Weapon and Spell Critical rating by 2629."}

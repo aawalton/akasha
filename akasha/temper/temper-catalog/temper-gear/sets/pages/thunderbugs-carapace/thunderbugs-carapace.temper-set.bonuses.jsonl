@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2ff-7040-8f3e-a5fbdc522a72","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b2ff-7ccf-b7aa-915897a09d7e","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b2ff-7e82-b27a-1de902b0d081","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2ff-7935-a3c0-35fad50dc073","count":5,"status":"unsupported","description":"When you take Physical Damage, you deal 714 Shock damage in a 5 meter radius around you. This effect can occur once every 3 seconds and scales off the higher of your Weapon or Spell Damage."}

@@ -1,0 +1,4 @@
+{"id":"01a05fde-b304-7da8-96a6-fd6aef1460b2","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b304-7719-8a88-634d412bb142","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b304-724f-8377-18c610981ee0","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b304-73ea-8494-51278051225a","count":5,"status":"unsupported","description":"Adds 400 Weapon and Spell Damage to your Frost Damage abilities."}

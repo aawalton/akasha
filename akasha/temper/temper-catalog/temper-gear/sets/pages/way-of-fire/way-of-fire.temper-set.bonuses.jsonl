@@ -1,0 +1,4 @@
+{"id":"01a05fde-b303-7ce5-8dbc-dc35249bf484","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b303-742e-8274-d993bf565c4a","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b303-7421-92fb-c729b40b1822","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b303-7ea8-b58d-4645b53cad9f","count":5,"status":"unsupported","description":"When you deal damage with a Light or Heavy Attack, you deal an additional 571 Flame damage. This effect can occur once every 2 seconds and scales off the higher of your Weapon or Spell Damage."}

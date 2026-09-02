@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-715a-bda1-a37c4453479b","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b302-789b-b346-fa24bec41ec2","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b302-75ad-a45d-ef001f6ee983","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b302-72bd-9d86-fe639b5c97f2","count":5,"status":"unsupported","description":"When you cast an ability that costs resources while under 25% Magicka, you restore 11350 Magicka. This effect can occur once every 45 seconds."}

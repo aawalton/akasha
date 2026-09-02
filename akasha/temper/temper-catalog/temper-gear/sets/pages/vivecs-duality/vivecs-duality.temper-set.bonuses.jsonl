@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-79d7-a38b-c03bffb8956f","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b302-7016-a779-25c3e9c93791","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b302-721a-8e3c-b4dbe606a090","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b302-7544-9136-8fec6c0f8de4","count":5,"status":"unsupported","description":"Your weapon charges over 15 seconds while not Weapon Swapping. Once fully charged, restore 6636 Magicka and Stamina after Weapon Swapping."}

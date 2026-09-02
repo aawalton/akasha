@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fe-728b-9863-f8b6bea5d4d4","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fe-7b11-b387-8484d7a48d6d","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fe-7732-a475-4c2d2d965a08","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-7d5f-81ab-938367b653c7","count":5,"status":"unsupported","description":"When you deal Frost Damage, you deal an additional 238 Flame damage to all enemies within 8 meters around the initial target. This effect can occur once every 1 second and scales off the higher of your Weapon or Spell Damage."}

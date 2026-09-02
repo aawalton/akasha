@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fd-77ef-b554-41022ecb52fd","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fd-72fb-aa09-a5e30933f70b","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fd-738d-afc5-daac649b5900","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fd-78e7-928b-8e6249a67349","count":5,"status":"unsupported","description":"Increases your Weapon and Spell Damage by 372. Increases your damage taken from Flame and Fighter's Guild abilities by 5%."}

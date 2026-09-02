@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2ff-7721-9016-77fcf33e602b","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b2ff-7470-9a92-4bcc8c2fd0a3","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2ff-78ca-bb68-d56a75ca2c15","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b2ff-7b40-8918-aa0659077418","count":5,"status":"unsupported","description":"When you cast an ability that costs resources while under 25% Stamina, you restore 11350 Stamina. This effect can occur once every 45 seconds."}

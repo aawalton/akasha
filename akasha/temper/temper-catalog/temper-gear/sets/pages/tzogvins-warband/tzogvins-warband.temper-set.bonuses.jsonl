@@ -1,0 +1,4 @@
+{"id":"01a05fde-b300-7643-8e9f-59ad82cc3355","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b300-798f-a7da-bccdbe3f2d0a","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b300-75e6-8fca-a98c9e8089c3","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b300-77de-81d6-f75d182be1d7","count":5,"status":"unsupported","description":"When you deal Critical Damage, you gain a stack of Precision, increasing your Critical Chance by 177 for 5 seconds, up to 10 stacks max. At max stacks, you also gain Minor Force, increasing your Critical Damage done by 10%.  This effect can occur once every half second."}

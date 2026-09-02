@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2ff-772d-a582-19c69f2834a6","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b2ff-72c1-9e1e-df73ffa144a4","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fde-b2ff-75bf-bd40-249864ac547e","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fde-b2ff-7a34-a837-7d2ac61ae176","count":5,"status":"unsupported","description":"When you deal direct damage with a Blink, Charge, Leap, Teleport, or Pull ability, you gain 3642 Physical and Spell Resistance, taunt the first enemy hit to attack you for 15 seconds, and heal for 46% of the damage done."}

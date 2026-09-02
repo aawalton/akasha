@@ -1,0 +1,4 @@
+{"id":"01a05fde-b304-7757-a652-859ecefbae73","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b304-7fd7-b8d9-5afc6808c7d0","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b304-7b7e-8360-1e74d4b37c4c","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b304-766f-abb4-4d363d475505","count":5,"status":"unsupported","description":"When you cast a Magicka ability, you remove all negative effects from yourself. This effect can occur once every 15 seconds."}

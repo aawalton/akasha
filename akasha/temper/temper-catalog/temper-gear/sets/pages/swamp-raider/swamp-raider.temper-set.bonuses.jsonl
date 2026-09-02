@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fc-725f-8e81-2bf139d2874b","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fc-7780-893f-80ea0f5f7525","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fc-71b8-af52-4aaf9a85d2bc","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fc-784b-b62a-e7a1af533c05","count":5,"status":"unsupported","description":"Adds 600 Weapon and Spell Damage to your Poison and Disease Damage abilities."}

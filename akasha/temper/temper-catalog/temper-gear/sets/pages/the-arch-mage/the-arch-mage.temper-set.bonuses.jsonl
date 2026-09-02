@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fe-7e1d-89a5-7b4f09513d02","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-7ca6-914f-9f6f47ca1de2","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fe-74a3-858c-25bcffaa5845","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fe-7f16-8434-35d39d61978e","count":5,"status":"unsupported","description":"When you complete a fully-charged Heavy Attack, you gain an additional 506 Magicka Recovery for 10 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fc-75ab-abae-5d6ccf912fe4","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fc-7522-a0ea-5b90d9a3459d","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fc-7ee7-b7ce-5e57a51db3a4","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fc-7e95-a473-f5685bf8de3f","count":5,"status":"unsupported","description":"Adds 600 Weapon and Spell Damage to your Dual Wield abilities."}

@@ -1,0 +1,2 @@
+{"id":"01a05fde-b304-7cec-9112-96135d76987b","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b304-788b-af89-7f657c4e0663","count":3,"status":"unsupported","description":"Adds 325 Weapon and Spell Damage to your ranged direct damage abilities."}

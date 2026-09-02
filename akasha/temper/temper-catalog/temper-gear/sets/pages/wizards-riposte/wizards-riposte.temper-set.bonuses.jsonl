@@ -1,0 +1,5 @@
+{"id":"01a05fde-b303-7f21-a708-d3bef61be2e8","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b303-7182-b6b0-8d6cb4320c26","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7172-8fcf-85d30a3bc96e","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b303-72c3-b62f-dc418fdf8f1c","count":5,"status":"supported","description":"Adds 660 Critical Resistance","effects":[{"metricId":"resistance-critical","type":"integer","value":660}]}
+{"id":"01a05fde-b303-75dc-9e3d-523a1faf2b64","count":5,"status":"unsupported","description":"When you take direct Critical Damage, you apply Minor Enervation to the enemy for 5 seconds, reducing their Critical Damage done by 10%."}

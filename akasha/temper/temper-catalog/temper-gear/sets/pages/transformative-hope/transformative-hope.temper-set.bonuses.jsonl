@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2ff-7593-afe1-49a91eff67d9","count":2,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fde-b2ff-7aac-88c1-240dcebc93aa","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fde-b2ff-7aa4-b845-764ae450c0e1","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b2ff-776e-a664-91a806f9cf45","count":5,"status":"unsupported","description":"While in combat, when you heal yourself or an ally that is below 50% Health, you ignite a Spark of Hope within them for 3 seconds. If they are above 90% Health when the effect ends, you and the ally gain Major Heroism for 15 seconds. This effect can occur once every 20 seconds per target."}

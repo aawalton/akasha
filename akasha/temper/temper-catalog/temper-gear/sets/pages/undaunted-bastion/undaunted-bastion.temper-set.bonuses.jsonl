@@ -1,0 +1,4 @@
+{"id":"01a05fde-b301-7dc0-bce3-e86f18007b12","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b301-777d-8caa-0a72ba4060dc","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b301-7435-8886-0d412ef92733","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b301-7572-8b6a-0c8d9dfcd108","count":5,"status":"unsupported","description":"When you use a taunt ability while you are under 75% Health, gain a damage shield that absorbs 14127 damage for 6 seconds. This effect can occur once every 10 seconds."}

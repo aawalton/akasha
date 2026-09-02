@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-7d79-a617-b3f32550f44c","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b302-7656-b897-42912aa0e798","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fde-b302-7716-8d5c-7780c9ad2689","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b302-74e0-b135-9b85fd3f5b78","count":5,"status":"unsupported","description":"After completing a fully-charged Heavy Attack, apply Major Aegis to you and up to 11 nearby group members for 12 seconds, reducing damage taken from Dungeon, Trial, and Arena enemies by 10%. This effect can occur once every 21 seconds."}

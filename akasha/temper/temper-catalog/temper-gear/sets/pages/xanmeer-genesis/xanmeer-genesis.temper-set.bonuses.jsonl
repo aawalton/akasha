@@ -1,0 +1,4 @@
+{"id":"01a05fde-b304-782c-a4ef-defd684f316a","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b304-7288-84fa-118a80824a2f","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b304-7f55-9815-5548a4762806","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b304-7605-a6f2-5ab0c7ed82cd","count":5,"status":"unsupported","description":"When an enemy you have recently damaged dies, after 0.5 seconds, you and allies within 8 meters of the dead enemy receive 322 Health, Magicka, and Stamina Recovery for 10 seconds. This effect can occur once every 6 seconds."}

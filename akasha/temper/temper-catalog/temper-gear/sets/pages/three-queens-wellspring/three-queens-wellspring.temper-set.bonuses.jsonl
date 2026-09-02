@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2ff-7233-b1d5-8038ecf276d7","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2ff-7688-8fd2-f5d3860c3f80","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2ff-7533-b5b6-51fd2c0f786c","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2ff-7b65-8581-0b73820563b2","count":5,"status":"unsupported","description":"Gain 1 Magicka Recovery for every 100 Max Magicka you have. \n\nCurrent Increase: \n122 Magicka Recovery"}

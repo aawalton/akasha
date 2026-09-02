@@ -1,0 +1,4 @@
+{"id":"01a05fde-b301-713f-9013-a04c77b8f99d","count":2,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b301-7566-a01f-5e3312e90cdb","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b301-725b-94c5-e366e4f110ca","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b301-7306-b1b9-8f0218cf0856","count":5,"status":"unsupported","description":"Dealing damage with a fully-charged Heavy Attack places an electric charge on yourself and below your enemy. After 1 second, both charges explode in a 4 meter blast, each dealing 914 Shock damage to enemies hit. This effect can occur once every 6 seconds and scales off the higher of your Weapon or Spell Damage."}

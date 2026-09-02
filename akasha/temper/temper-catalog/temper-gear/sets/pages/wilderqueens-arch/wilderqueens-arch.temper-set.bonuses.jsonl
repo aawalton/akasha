@@ -1,0 +1,4 @@
+{"id":"01a05fde-b303-799d-87b1-1a51ce3e2e17","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b303-7086-83af-c843e19daf45","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b303-78ab-9c51-0d219a4e40a7","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b303-7cc3-864f-139468c5fd90","count":5,"status":"unsupported","description":"Your Bow attacks reduce the Movement Speed of any enemy they hit by 15% and increase your Movement Speed by 15% for 3 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fe-7d5d-b3fa-a0cc683c2b0b","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b2fe-7eb0-a4db-2af7b5b9dd25","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b2fe-78e0-8ee7-cfc82a3bf2f6","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fe-7ef3-93f4-11610d7b4fbd","count":5,"status":"unsupported","description":"When you Block, you deal 730 Physical Damage to the attacker. This effect scales off your Max Health."}

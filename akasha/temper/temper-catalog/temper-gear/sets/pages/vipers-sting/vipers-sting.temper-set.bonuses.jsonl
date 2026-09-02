@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-7cda-9bda-6a6e5a9142ab","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b302-730f-971c-f1894123432d","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b302-7c92-a480-ad33a9bd3575","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b302-7bfa-afd7-ef8bbdca2cb1","count":5,"status":"unsupported","description":"When you deal damage with a Martial melee attack, you deal an additional 928 Poison damage over 4 seconds. This effect can occur once every 4 seconds and scales off the higher of your Weapon or Spell Damage."}

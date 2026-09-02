@@ -1,0 +1,4 @@
+{"id":"01a05fde-b300-7e5f-811a-4ae30da10590","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b300-7b66-93b8-91ac7a84f2b0","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b300-78e9-a105-cb57e01c43d7","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b300-7da9-b8b9-87d624979854","count":5,"status":"unsupported","description":"You can have two Mundus Stone boons at the same time."}

@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fe-7819-9d58-f3874e6e789f","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b2fe-7d9f-a9d6-7977ee2aa150","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b2fe-7e96-b1f4-c580a5113279","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b2fe-73dd-8da7-b26d84a5d352","count":5,"status":"unsupported","description":"When you take damage while under 30% Health, heal for 4595 Health immediately and gain 20000 Armor for 15 seconds. This effect can occur once every 1 minute and the heal scales off your Max Health."}

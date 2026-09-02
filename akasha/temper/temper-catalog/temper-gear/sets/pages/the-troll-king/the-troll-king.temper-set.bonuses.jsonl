@@ -1,0 +1,2 @@
+{"id":"01a05fde-b2fe-705f-bff3-52cceb4a137f","count":1,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fde-b2fe-795b-8138-e0b01ac0a0ed","count":2,"status":"unsupported","description":"When you heal yourself or an ally, if they are still below 50% Health, their Health Recovery is increased by 925 for 10 seconds."}

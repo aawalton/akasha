@@ -1,0 +1,2 @@
+{"id":"01a05fde-b2fc-7fa9-8050-bac72b8386e9","count":1,"status":"supported","description":"Adds 300 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":300}]}
+{"id":"01a05fde-b2fc-7dce-8ce0-92b9ff53a716","count":1,"status":"unsupported","description":"Sprint, Roll Dodge, Bash, Break Free, Sneak, and Block now consume Magicka instead of Stamina. You reduce your Magicka Recovery to 0 while Blocking, Sneaking, or Sprinting. You no longer reduce your Stamina Recovery to 0 while Blocking, Sneaking or Sprinting."}

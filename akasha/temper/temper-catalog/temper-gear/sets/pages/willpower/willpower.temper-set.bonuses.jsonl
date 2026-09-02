@@ -1,0 +1,2 @@
+{"id":"01a05fde-b303-7a86-a4cb-0fe582c296cb","count":2,"status":"supported","description":"Adds 1752 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1752}]}
+{"id":"01a05fde-b303-7997-a463-2c91480700f9","count":3,"status":"supported","description":"Adds 206 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":206}]}

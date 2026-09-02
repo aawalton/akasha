@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2ff-7c7a-8250-27f40f530052","count":2,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b2ff-7242-95f7-07acd4c49440","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2ff-727a-b24d-b063b732e351","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2ff-7fcd-a672-d9d0ded57b21","count":5,"status":"unsupported","description":"Adds 110 Weapon and Spell Damage and 1240 Offensive Penetration. While in combat, this bonus doubles when you are under 75% Health and quadruples when you are under 50% Health."}

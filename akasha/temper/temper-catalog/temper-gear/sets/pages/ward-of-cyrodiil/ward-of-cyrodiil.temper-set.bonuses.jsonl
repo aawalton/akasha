@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-7649-98bf-2f1037d1a3a5","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b302-7877-b32d-213345645e8e","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b302-7128-a89c-268f69244078","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b302-7256-a261-1b9de4b67c36","count":5,"status":"unsupported","description":"When you deal Martial melee damage, you apply Major Defile to the enemy for 4 seconds, reducing their healing received and damage shield strength by 12%. This effect can occur once every 5 seconds."}

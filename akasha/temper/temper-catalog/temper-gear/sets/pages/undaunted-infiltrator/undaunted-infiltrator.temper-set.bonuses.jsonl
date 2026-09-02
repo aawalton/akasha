@@ -1,0 +1,4 @@
+{"id":"01a05fde-b301-72d2-b3eb-168a148cff1f","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-734d-881b-fbb4032a0798","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-7833-88db-df67ebf84720","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b301-7fa4-af2e-3f705197c4f2","count":5,"status":"unsupported","description":"When you use an ability that costs Magicka while in combat, you increase the damage of your Light and Heavy Attacks against monsters by 1645 for 10 seconds."}

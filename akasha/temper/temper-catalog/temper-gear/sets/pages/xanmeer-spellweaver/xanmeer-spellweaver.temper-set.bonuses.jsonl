@@ -1,0 +1,4 @@
+{"id":"01a05fde-b304-7d54-9213-51fae3ebf587","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b304-7cf1-a98b-072755aab58d","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b304-7194-96b4-6ad976c52ae4","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b304-7910-8143-ed578c4f5af1","count":5,"status":"unsupported","description":"Increase your damage done with Flame, Frost, and Shock Damage by 5%.\nIncrease your damage done with Burning, Chilled, and Concussion by an additional 15%."}

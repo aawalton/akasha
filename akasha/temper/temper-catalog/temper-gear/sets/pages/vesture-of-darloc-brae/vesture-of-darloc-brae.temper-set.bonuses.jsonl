@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-730d-8b8b-f5cfd3aac1ee","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b302-72ed-a508-372d17a037bb","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b302-7a20-9f0b-fc8350536f8d","count":4,"status":"supported","description":"Reduces the radius you can be detected while Sneaking by 2 meters. Reduces the cost of Sneak by 10%.","effects":[{"metricId":"sneak-range","type":"integer","value":-2},{"metricId":"sneak-cost","type":"fractional-change","value":-0.1}]}
+{"id":"01a05fde-b302-7bda-9034-c687069016c1","count":5,"status":"unsupported","description":"While you are crouching and not Bracing, you restore 670 Magicka and Stamina and heal for 683 Health every second."}

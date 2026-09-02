@@ -1,0 +1,4 @@
+{"id":"01a05fde-b303-7e75-b884-c0cd8c1c7a0d","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b303-7e21-aaf5-6755eea8c674","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b303-7721-9ded-65664835ea33","count":4,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7756-8292-8c9780a8798e","count":5,"status":"unsupported","description":"When you take damage while you are under 30% Health, you gain a damage shield that absorbs 13035 damage for 6 seconds. This effect can occur once every 15 seconds."}

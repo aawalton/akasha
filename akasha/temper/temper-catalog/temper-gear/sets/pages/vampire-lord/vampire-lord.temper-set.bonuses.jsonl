@@ -1,0 +1,4 @@
+{"id":"01a05fde-b301-7b1b-a034-07b48990390b","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-7f6b-9a1b-bf3c07abe2be","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b301-722f-a883-8b51a544cf4a","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b301-73d1-9f3c-826db5c9a2a5","count":5,"status":"unsupported","description":"Increases the bonuses and penalties of your Vampire Stage, depending on how far you've progressed.\n\nStage 1/2/3/4\n\n1%/2%/4%/6% additional Flame Damage Taken.\n1%/2%/4%/6% increased Regular Ability cost.\n5%/10%/15%/20% reduced Vampire Ability cost."}

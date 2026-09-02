@@ -1,0 +1,4 @@
+{"id":"01a05fde-b301-7433-81db-54fbe155db06","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b301-725d-b4c1-1fa6c904ae97","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b301-77e5-a298-7e86ab6b6b6a","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fde-b301-7eda-ac93-21794fcc90d3","count":5,"status":"unsupported","description":"When you taunt an enemy player, they deal 35% less damage to all other players but 35% more damage to you for 15 seconds. This effect is lost if you enter Sneak, invisibility, or move further than 28 meters away from them."}

@@ -1,0 +1,4 @@
+{"id":"01a05fde-b300-741d-b3b0-608bf2587820","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b300-7e2e-9b31-07055c8bd094","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b300-792c-84f8-6171b2d3b414","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b300-705e-a8a3-06d2746c5755","count":5,"status":"unsupported","description":"Increases your healing received by 10%."}

@@ -1,0 +1,4 @@
+{"id":"01a05fde-b300-73e1-8f98-d4e360345192","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b300-7bcf-aa38-0b75c03543c5","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b300-7788-8b31-cbd24d197906","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fde-b300-74f9-af92-ff0f05def1e8","count":5,"status":"unsupported","description":"While under the effect of an Elemental Status Effect you gain 8500 Armor."}

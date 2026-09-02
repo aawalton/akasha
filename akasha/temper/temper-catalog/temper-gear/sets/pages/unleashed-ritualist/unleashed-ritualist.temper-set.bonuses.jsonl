@@ -1,0 +1,4 @@
+{"id":"01a05fde-b301-7c61-a246-f1adfe341c0b","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b301-745b-a690-5beafffde27b","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b301-7d3a-b6fa-ddcbd38018a1","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b301-781d-8799-171ea3840a27","count":5,"status":"unsupported","description":"Increases your damage done with summoned pets by 20%."}

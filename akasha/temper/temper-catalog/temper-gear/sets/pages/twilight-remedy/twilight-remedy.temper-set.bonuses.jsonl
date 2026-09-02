@@ -1,0 +1,4 @@
+{"id":"01a05fde-b300-75c9-9dae-6d0fd6d32825","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b300-7430-981a-fb525eed7be3","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fde-b300-78bb-bdde-510fd067bed9","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b300-789f-a381-c712decabfc5","count":5,"status":"unsupported","description":"When an ally activates a synergy you have created within 10 seconds, they heal themselves for 8032 Health over 15 seconds and gain Minor Force for the duration, increasing their Critical Damage by 10%. This effect scales off the higher of the synergy activator's Max Magicka or Stamina."}

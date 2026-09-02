@@ -1,0 +1,4 @@
+{"id":"01a05fde-b303-725b-821c-911a1ade49d1","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7db2-a97e-e4a5b14563c5","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7baf-8108-d26f0240aa04","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b303-7543-b115-bfebe06dc411","count":5,"status":"unsupported","description":"Increases your Weapon and Spell Damage by 369 against enemies inflicted with a Poison Damage effect."}

@@ -1,0 +1,4 @@
+{"id":"01a05fde-b301-7c6b-8515-d9679571d227","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b301-7628-92a8-bf3e72f95bf2","count":3,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b301-783e-8a2d-587849329a7b","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b301-7363-8da3-cad3834e09ab","count":5,"status":"unsupported","description":"When you deal damage, you call a murder of crows around you for 12 seconds. Every 3 seconds a crow will be sent to peck the closest enemy within 12 meters of you, dealing 871 Physical Damage. This effect can occur once every 15 seconds and scales off the higher of your Weapon or Spell Damage."}

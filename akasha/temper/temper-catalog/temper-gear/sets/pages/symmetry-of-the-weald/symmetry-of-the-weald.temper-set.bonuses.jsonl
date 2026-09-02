@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fd-76bf-ad35-56da989e3f57","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fd-75ef-b767-695cb3f81c2d","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fd-70e5-8a33-0ea896408a02","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fd-74b2-b8a1-565b79fe5566","count":5,"status":"unsupported","description":"Adds 200% Status Effect Chance while your Health is above 50%. Adds 10% Healing Done while your Health is 50% or less."}

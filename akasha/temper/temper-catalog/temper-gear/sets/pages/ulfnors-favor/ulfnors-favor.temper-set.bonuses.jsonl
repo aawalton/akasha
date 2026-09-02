@@ -1,0 +1,5 @@
+{"id":"01a05fde-b300-725b-848f-ee3a9a2c0906","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b300-792a-a800-e244164d3003","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b300-7b6f-95cd-4d1a0b8cf8ec","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b300-73f7-8c5b-5d346f08b908","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fde-b300-783e-8573-bd47b2fc3ad3","count":5,"status":"unsupported","description":"Increases the Magicka or Stamina your Heavy Attacks restore by 30%."}

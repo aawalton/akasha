@@ -1,0 +1,4 @@
+{"id":"01a05fde-b301-7e08-910e-05108002f1ba","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b301-7374-bddd-fdaa045bca95","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b301-795d-8139-3fc93f853a48","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b301-7233-ae79-b5014b6b3ffe","count":5,"status":"unsupported","description":"Gain 1 second of immunity to crowd control effects after casting an Ultimate for each 20 Ultimate spent."}

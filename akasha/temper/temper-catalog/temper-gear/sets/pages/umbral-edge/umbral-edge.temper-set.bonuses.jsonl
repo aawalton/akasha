@@ -1,0 +1,4 @@
+{"id":"01a05fde-b300-7e51-b51a-48babd540561","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b300-702a-b278-9a8947032292","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b300-75c2-a63c-5d526140fba1","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b300-7ec6-9626-639ca62c7498","count":5,"status":"unsupported","description":"When you cast a Shadow ability, you gain Umbral Riposte for 3 seconds, up to once every 6 seconds. Umbral Riposte causes you to dodge the next attack made against you and automatically curses the attacking enemy, applying Major Vulnerability for 5 seconds, increasing their damage taken by 10%."}

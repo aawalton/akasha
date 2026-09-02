@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2ff-71ac-b6d6-f2376a751688","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b2ff-716a-b503-d15310cda5a3","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b2ff-7998-b996-523fbc56f969","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fde-b2ff-73df-90f3-238cd561b1c7","count":5,"status":"unsupported","description":"Decreases weapon enchantment cooldown by 33% and increases non Oblivion Damage weapon enchantment potency by 45%."}

@@ -1,0 +1,2 @@
+{"id":"01a05fde-b304-758b-8312-1029c88360f3","count":1,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b304-7f03-bd80-5b40f1b138d8","count":2,"status":"unsupported","description":"When you Break Free, you release a wave of Watcher energy, causing enemies within 8 meters of you to become Feared for 3 seconds. You also gain 34 Weapon and Spell Damage for each enemy hit, up to 6 enemies, for 7 seconds."}

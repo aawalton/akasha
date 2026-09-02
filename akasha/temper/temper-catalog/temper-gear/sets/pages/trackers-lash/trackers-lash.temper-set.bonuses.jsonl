@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2ff-7ffd-b479-fa2dfbbab602","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2ff-7e8b-9255-0536111bd7cb","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2ff-7654-a7be-cffac887df74","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2ff-7091-9743-64c596cbbf07","count":5,"status":"unsupported","description":"When your attack is dodged, increase your Weapon and Spell Damage by 95 for 7 seconds, stacking up to 5 times. This effect can occur once every 0.5 seconds."}

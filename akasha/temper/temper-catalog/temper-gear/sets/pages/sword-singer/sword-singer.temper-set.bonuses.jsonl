@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fc-7efd-a3b2-cee5447f63c9","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2fc-7fc1-b581-a64eda01e7de","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fc-7a6f-ac1b-1d3ee19ea66b","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2fc-707c-a276-2e1ed780dd72","count":5,"status":"unsupported","description":"Adds 600 Weapon and Spell Damage to your Two Handed abilities."}

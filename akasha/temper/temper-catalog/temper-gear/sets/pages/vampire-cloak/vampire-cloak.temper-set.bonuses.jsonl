@@ -1,0 +1,5 @@
+{"id":"01a05fde-b301-7ec9-9d3c-84c546e563cd","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b301-70fb-9542-53d977123a79","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b301-7c4d-9b53-10b271653b3d","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fde-b301-7f30-8a23-10bab9614ac8","count":5,"status":"supported","description":"Adds 171 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":171}]}
+{"id":"01a05fde-b301-710d-97a4-4d1974989e9f","count":5,"status":"unsupported","description":"Gain Minor Protection at all times, reducing your damage taken by 5%."}

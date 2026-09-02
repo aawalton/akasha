@@ -1,0 +1,5 @@
+{"id":"01a05fde-b2ff-7a69-8b49-112fbbdb84ab","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b2ff-78df-85aa-44194bfe0357","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2ff-73bb-90a1-b961b2171874","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2ff-7b44-b909-116956add436","count":5,"status":"supported","description":"Adds 171 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":171}]}
+{"id":"01a05fde-b2ff-7fac-b64f-7cb3a00542ba","count":5,"status":"unsupported","description":"Gain Major Savagery and Prophecy at all times, increasing your Weapon and Spell Critical rating by 2629."}

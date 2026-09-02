@@ -1,0 +1,4 @@
+{"id":"01a05fde-b300-7aaa-864f-49b7fab266c0","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b300-7ecb-8ae1-43811984ffb3","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b300-7b68-99d3-61d79c0c9935","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b300-7629-85e6-c351f902598b","count":5,"status":"unsupported","description":"When you Block, you cause all enemies within 5 meters of you to bleed for 1932 Bleed Damage over 10 seconds. This effect can occur once every 10 seconds and scales off the higher of your Weapon or Spell Damage."}

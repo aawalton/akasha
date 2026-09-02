@@ -1,0 +1,4 @@
+{"id":"01a05fde-b301-717d-82dc-1fa8505e346d","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-7351-9f67-cb504ceb94c4","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b301-75f8-846c-f0dc23a70cf3","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b301-777f-af4e-0456183d4338","count":5,"status":"unsupported","description":"When you use an ability that costs Stamina while in combat, you increase the damage of your Light and Heavy Attacks against monsters by 1645 for 10 seconds."}

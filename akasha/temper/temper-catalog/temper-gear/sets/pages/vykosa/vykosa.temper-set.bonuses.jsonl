@@ -1,0 +1,2 @@
+{"id":"01a05fde-b302-7cd2-ae13-a2e08df0081a","count":1,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fde-b302-7caa-828d-b3596187ff8c","count":2,"status":"unsupported","description":"When you Bash an enemy you've taunted, you frighten them with a deafening howl, applying Major Cowardice to them, lowering their Weapon and Spell Damage by 430 for 8 seconds. This effect can occur once every 15 seconds."}

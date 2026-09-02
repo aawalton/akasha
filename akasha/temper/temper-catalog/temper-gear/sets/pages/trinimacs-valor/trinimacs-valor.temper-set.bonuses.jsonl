@@ -1,0 +1,4 @@
+{"id":"01a05fde-b300-7f96-bba3-0fe57c71bf86","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b300-7922-b724-b12075c5641f","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b300-7685-afaa-1e3999f7f549","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fde-b300-7f96-a3ba-16b5fb7c0c0e","count":5,"status":"unsupported","description":"When you cast a damage shield, you call down a fragment of Trinimac that heals you and group members for 1455 Health and damages enemies for 1426 Magic damage in a 5 meter radius after a 2 second delay. This effect can occur once every 5 seconds and scales with the higher of your Max Magicka or Stamina."}

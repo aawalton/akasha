@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2ff-7c8f-ae24-0bfc4e0fe06a","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2ff-7a57-933c-325f98abdabc","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fde-b2ff-7780-8552-161ac5a4ee05","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b2ff-7b3e-afab-57d77de77a27","count":5,"status":"unsupported","description":"Increase your direct damage done to monsters by 12%."}

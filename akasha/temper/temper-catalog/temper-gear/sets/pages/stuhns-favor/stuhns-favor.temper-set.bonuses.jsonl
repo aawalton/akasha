@@ -1,0 +1,4 @@
+{"id":"01a05fde-b2fc-7a9e-9df8-db0f3bf88df7","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fc-75f3-9a3c-a3d9c663b275","count":3,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fde-b2fc-7636-bc4a-4582b027dee8","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b2fc-7388-b347-f59f2b3a8210","count":5,"status":"unsupported","description":"When you deal damage to an enemy who is Off Balance, your Offensive Penetration is increased by 5312 for 10 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fde-b302-7ea2-8ee6-de33e31bc8f9","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fde-b302-78f1-82ec-2f7a2c4fda18","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fde-b302-7d55-8bdd-34eb27e9c186","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fde-b302-7950-b13b-78ab2cbf1483","count":5,"status":"unsupported","description":"When you use an Ultimate ability while in combat, you and the closest 5 group members within 28 meters of you gain Major Slayer for 1 second per 10 Ultimate spent, increasing your damage done to Dungeon, Trial, and Arena Monsters by 10%."}
