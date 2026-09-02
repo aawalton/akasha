@@ -1,5 +1,6 @@
 "use client"
 
+import { decideLinkTarget } from "@akasha/alanwalton-web/link-target"
 import { Badge } from "@akasha/design-badges/badge"
 import { Button } from "@akasha/design-primitives/button"
 import { Textarea } from "@akasha/design-primitives/textarea"
@@ -19,7 +20,6 @@ import { SignedOutNotice } from "~/components/signed-out-notice"
 import { API_ORIGIN } from "~/lib/api-origin"
 import { isNativeShell } from "~/lib/capacitor-bridge"
 import { dispatchOpenQuestionsResync } from "~/lib/open-questions-resync"
-import { decideLinkTarget } from "./lib/link-target"
 import { type ResolveAction, resolveQuestion } from "./lib/resolve-question"
 
 const QUESTION_TYPE = toPageTypeSlug(QUESTION_PAGE_TYPE_SLUG)
