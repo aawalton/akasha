@@ -2,9 +2,9 @@
 export const summary = "List equipment items (--all includes proposed/unavailable)"
 
 import { displayTitle, fieldBool, fieldStr } from "@collections/exercises/cli/fields"
-import { getPages } from "@collections/exercises/pages/access"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import { askExercisePages } from "./ask-pages.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -23,7 +23,7 @@ export default async function exerciseEquipmentList(args: readonly string[]): Pr
   const all = parsed.boolean("--all")
   const json = parsed.boolean("--json")
 
-  const rows = await getPages({
+  const rows = await askExercisePages({
     pageTypeSlug: "equipment-item",
     order: [{ by: "sortOrder", dir: "asc" }],
     limit: 200,

@@ -3,11 +3,11 @@ export const summary = "Show recent mobility readings + trend per metric+side"
 
 import { fieldNum, fieldStr } from "@collections/exercises/cli/fields"
 import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
-import { getPages } from "@collections/exercises/pages/access"
 import { mobilityTrend } from "@collections/exercises/tracking/digest-model"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { MOBILITY_METRIC_OPTIONS } from "../../lib/exercise-vocabularies.ts"
+import { askExercisePages } from "./ask-pages.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -45,7 +45,7 @@ export default async function exerciseMobilityShow(args: readonly string[]): Pro
   const limit = parsed.nonNegativeInt("--limit") ?? 30
   const json = parsed.boolean("--json")
 
-  const rows = await getPages({
+  const rows = await askExercisePages({
     pageTypeSlug: "mobility-reading",
     where: metric !== undefined ? [{ key: "metric", eq: metric }] : [],
     order: [{ by: "date", dir: "desc" }],

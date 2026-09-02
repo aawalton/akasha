@@ -110,20 +110,21 @@ export async function getPage(query: PageQuery): Promise<Page | null> {
   return found.rows[0] ?? null
 }
 
-// THE READING HALF OF THIS FILE WORKS AND THE WRITING HALF DOES NOT. `getPages`, `getPage` and
-// `pageOfRow` above ask the store and are asked by `ops exercise today`, `ranks`, `next-set`,
-// `history`, `session-show`, `mobility-show`, `equipment-list` and `constraint-list`, all of which
-// still answer.
+// BOTH HALVES OF THIS FILE ARE DOWN, AND BOTH SAY SO. Measured 2026-09-01: `ops exercise today`,
+// `ranks`, `equipment-list`, `constraint-list`, `mobility-show` and `digest` each exit 70, because
+// the remote index behind `getPages` holds no page type in this family. An earlier note here said
+// the reading half worked and named those commands as answering; running them is what showed
+// otherwise, and the reads are recoverable rather than lost — see `AskPages` above.
 //
 // `createPage` and `patchPage` landed through `writePage` and `patchPage`, and the store refuses
-// every keyed write, so they have thrown since. What that costs is one-sided and worth naming: a
-// workout is read back fine and cannot be recorded. `ops exercise session-start`, `log-set`,
-// `log-activity`, `add`, `session-finish`, `schedule-create`, `constraint-set` and `equipment-set`
-// all end here, so nothing Alan does in a session is being written down. The reads keep answering
-// from what was already filed, which makes the history look whole while it stops advancing.
+// every keyed write, so they have thrown since. `ops exercise session-start`, `log-set`,
+// `log-activity`, `add`, `session-finish`, `schedule-create` and `constraint-set` all end here, so
+// a workout finished today is not written down. Each refuses out loud with an empty stdout, so
+// nothing reports a workout saved that was not; `equipment-set` is the one writer already off this
+// road, and it takes the file write at `tools/lib/page-write.ts` instead.
 //
-// The `valuesFor` narrowing that stood here served only these two, and went with them. A
-// restoration wants a writing road, not a fuller conversion.
+// The `valuesFor` narrowing that served only these two went with them. A restoration wants that
+// same file write reached from the command layer, not a fuller conversion here.
 const NO_KEYED_WRITE = "the page store refuses every keyed write"
 
 export async function createPage(

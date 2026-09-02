@@ -3,10 +3,10 @@ export const summary = "List active coaching-constraints (--focus filters by tag
 
 import { displayTitle, fieldBool, fieldStr, fieldStrList } from "@collections/exercises/cli/fields"
 import { normalizeSelectValue } from "@collections/exercises/cli/select-values"
-import { getPages } from "@collections/exercises/pages/access"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { CONSTRAINT_FOCUS_OPTIONS } from "../../lib/exercise-vocabularies.ts"
+import { askExercisePages } from "./ask-pages.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -37,7 +37,7 @@ export default async function exerciseConstraintList(args: readonly string[]): P
   const all = parsed.boolean("--all")
   const json = parsed.boolean("--json")
 
-  const rows = await getPages({
+  const rows = await askExercisePages({
     pageTypeSlug: "coaching-constraint",
     order: [{ by: "sortOrder", dir: "asc" }],
     limit: 200,
