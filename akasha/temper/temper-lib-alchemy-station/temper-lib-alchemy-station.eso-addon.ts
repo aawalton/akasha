@@ -13,6 +13,7 @@ export const temperLibAlchemyStation = {
     "module/alchemy-station-entry",
     "module/alchemy-station-types",
     "type-declaration/alchemy-station-declarations",
+    "type-declaration/alchemy-station-entry-declarations",
   ],
   invariants: [
     {
