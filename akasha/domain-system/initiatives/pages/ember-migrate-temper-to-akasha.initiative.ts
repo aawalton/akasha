@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "66 packages are in akasha and 109 folders remain, though the census overstates it and a seat is measuring which already landed under a new name. The ESO shared set landed: 100 declaration pages, 6,854 names, clean. The thirteen per-package `declare global` modules are trimmed rather than deleted, since 142 of their names are not in the shared set; that is the 567-refusal wall, and three seats hold it. The pure-logic spine under `game-characters-equipment` and `shared-narrow` needs none of it.",
+        "Typecheck refusals fell 567 to 387 as six of the thirteen declaration packages reached zero, and three seats hold the rest. Of 103 folders left, 40 are free of ESO rather than 31: the seven game-data cores were never blocked, proven by canary. `game-items-core` gates 12 and waits only on `game-completion`. The 707-set table is a build output rather than source, and division is safe wherever the emitter sorts. The fifteen vendored libraries are consumed rather than recreated.",
     },
   ],
   constraints: [
