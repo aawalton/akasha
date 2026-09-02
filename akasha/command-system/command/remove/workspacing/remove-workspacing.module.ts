@@ -38,6 +38,14 @@ export const removeWorkspacing = {
     },
     {
       invariantKind: "departure",
+      statement: "The body the mending was worked out from is answered alongside the mending.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A caller mending nothing is answered with no body to hold the caller to.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A removal emptying no workspace is answered with nothing to say.",
     },
     {

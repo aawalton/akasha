@@ -99,6 +99,15 @@ test("the manifest is asked for without the entry the removal emptied", () => {
   expect(workspacesIn(manifest)).toEqual(["two"])
 })
 
+test("the body the mending was worked out from is answered so the caller can be held to it", () => {
+  const root = world()
+  const held = workspacingFor(root, baseOf(root), TAKING)
+  expect(held.unmoved.map((one) => one.path)).toEqual([MANIFEST])
+  expect(new TextDecoder().decode(held.unmoved[0]?.was ?? new Uint8Array())).toBe(ROOT_BODY)
+  expect(workspacingFor(root, baseOf(root), new Set(["one/src/held.ts"])).unmoved).toEqual([])
+  expect(workspacingFor(root, "no-commit-of-that-name", TAKING).unmoved).toEqual([])
+})
+
 test("a base holding no root manifest asks for no change and says why", () => {
   const root = world()
   const held = workspacingFor(root, "no-commit-of-that-name", TAKING)

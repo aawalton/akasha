@@ -1,10 +1,11 @@
-import { mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
 import { admitting } from "@akasha/testing-system/minting"
-import type { Given } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import { remove } from "./remove.command.code.ts"
 
 export const scratch = scratchWorld()
 
@@ -25,6 +26,10 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   writeFileSync(join(root, ".git/info/exclude"), "akasha/admits.code-check*\n")
   admitting(root)
   return root
+}
+
+export function removing(root: string, argv: readonly string[]): Answer {
+  return remove(argv, givenIn(root))
 }
 
 export function givenIn(root: string): Given {
@@ -50,3 +55,53 @@ export const OUTSIDE = "temper/one/held.ts"
 export const BESIDE_IT = "temper/one/held.test.ts"
 
 export const BODY = `export const held = 1\n`
+
+export const MANIFEST = "package.json"
+
+export const WORKSPACE = "temper/one"
+
+export const ROOT_MANIFEST = `{
+  "name": "held",
+  "private": true,
+  "workspaces": [
+    "temper/one"
+  ]
+}
+`
+
+export function manifested(): string {
+  return repoWith({
+    [HELD]: BODY,
+    [MANIFEST]: ROOT_MANIFEST,
+    "temper/one/package.json": `{\n  "name": "@held/one",\n  "version": "0.0.0"\n}\n`,
+  })
+}
+
+export const MOVED_MANIFEST = ROOT_MANIFEST.replace(
+  `"${WORKSPACE}"`,
+  `"${WORKSPACE}",\n    "temper/two"`
+)
+
+export const AGENT = "01a04bed-1461-7364-8579-6799d5aa8ea0"
+
+export const GONE = "akasha/one/nowhere.ts"
+
+export const REFUSED_ENDS = "--file-path takes a path, and none follows it"
+
+export const REFUSED_FLAGGED = "--file-path takes a path, and `--dry-run` names another flag"
+
+export const REFUSED_UNKNOWN =
+  "`--force` is not a flag this takes — a removal names its paths as `--file-path <path>` and " +
+  "takes `--message`, `--message-file`, `--break-the-glass`, `--dry-run`"
+
+export function manifestIn(root: string): string {
+  return readFileSync(join(root, MANIFEST), "utf8")
+}
+
+export function reportOf(said: Answer): string {
+  return said.report.join("\n")
+}
+
+export function refusalOf(said: Answer): string {
+  return said.refusals.join("\n")
+}

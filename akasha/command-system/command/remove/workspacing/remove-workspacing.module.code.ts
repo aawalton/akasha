@@ -1,5 +1,5 @@
 import ts from "typescript"
-import { counted, textOf } from "../../../asking/asking.module.code.ts"
+import { counted, type Held, textOf } from "../../../asking/asking.module.code.ts"
 import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
 import type { FileEdit } from "../../../landing/landing.module.code.ts"
 
@@ -79,11 +79,12 @@ export function withoutNamed(path: string, text: string, dropping: ReadonlySet<s
 
 export type Workspacing = {
   readonly edits: readonly FileEdit[]
+  readonly unmoved: readonly Held[]
   readonly emptied: readonly string[]
   readonly why: string | null
 }
 
-export const NO_WORKSPACING: Workspacing = { edits: [], emptied: [], why: null }
+export const NO_WORKSPACING: Workspacing = { edits: [], unmoved: [], emptied: [], why: null }
 
 export function workspacingOver(
   root: string,
@@ -91,7 +92,8 @@ export function workspacingOver(
   going: ReadonlySet<string>
 ): Workspacing {
   const bytes = bodyAt(root, base, MANIFEST)
-  const text = bytes === null ? null : textOf(bytes)
+  if (bytes === null) return NO_WORKSPACING
+  const text = textOf(bytes)
   if (text === null) return NO_WORKSPACING
   const named = workspacesIn(text)
   if (named === null) return NO_WORKSPACING
@@ -101,6 +103,7 @@ export function workspacingOver(
   if (mended === text) return NO_WORKSPACING
   return {
     edits: [{ path: MANIFEST, body: new TextEncoder().encode(mended) }],
+    unmoved: [{ path: MANIFEST, was: bytes }],
     emptied,
     why: null,
   }
@@ -116,6 +119,7 @@ export function workspacingFor(
   } catch (thrown) {
     return {
       edits: [],
+      unmoved: [],
       emptied: [],
       why:
         `the root ${MANIFEST} could not be read at ${base}, so no workspace entry was dropped ` +

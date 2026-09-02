@@ -393,7 +393,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
     message: stated.message ?? `remove ${paths.join(", ")}`,
     dryRun: read.dryRun,
     glass: glass.glass,
-    unmoved: [],
+    unmoved: spread.unmoved,
     saying: (landed) => [
       ...landed.took.map((one) => `${one} taken away`),
       ...already,

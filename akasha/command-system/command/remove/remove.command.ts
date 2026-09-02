@@ -30,6 +30,7 @@ export const remove = {
     "a file is named for spelling a whole path that goes or a package name a manifest that goes declares.",
     "a wider sweep for the last part of each path is reported apart, and most of it is unrelated.",
     "the root manifest stops naming a workspace this empties, and the lockfile is made again.",
+    "a root manifest another commit moved while this ran refuses the removal rather than being written over.",
   ],
   invariants: [
     {
@@ -118,6 +119,14 @@ export const remove = {
       invariantKind: "departure",
       statement:
         "A workspace is emptied where the removal takes the manifest naming that workspace.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root manifest is written only where its body is the body this call read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A root manifest that moved while this ran refuses the removal unwritten.",
     },
     {
       invariantKind: "departure",
