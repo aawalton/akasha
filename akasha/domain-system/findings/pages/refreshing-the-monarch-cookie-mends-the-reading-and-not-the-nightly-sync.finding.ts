@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const refreshingTheMonarchCookieMendsTheReadingAndNotTheNightlySync = {
+  id: "01a06429-5129-7d28-a28f-4ee8265343d9",
+  pageTypeSlug: "finding",
+  slug: "refreshing-the-monarch-cookie-mends-the-reading-and-not-the-nightly-sync",
+  domainSlug: "domain/monarch",
+  claim:
+    "Alan's Monarch credential is live, and his nightly full sync has failed for seven days anyway. The reading his widget draws authenticates fine; `monarch-sync` answers `Monarch API 401` from its very first query and has every night since 2026-08-27. The credential was refreshed on 09-01 and the sync failed again after that, so refreshing it is not the remedy and treating this as an expired cookie will keep missing it.",
+  evidence:
+    "Measured 2026-09-02 around 16:05. Running `tools/take-monarch-reading.ts` by hand against the workstation environment leaves on code 0 with no error shape in its output, and the relay carrying that readout leaves on code 0 too. So the credential named `MONARCH_COOKIE` is present and Monarch honours it for the ring counts.\n\n`monarch-sync.service` is a daily oneshot. Its last clean finish was 2026-08-26. It has failed on 08-28, 08-29, 08-30, 08-31, 09-01 and 09-02, each time within the same second it started, throwing `Monarch API 401: Unauthorized` from `monarchQuery` at `monarch/client.ts:252` reached from `accounts` at `:276` — its Phase 1. It never gets past the first query, so nothing of the copy is written.\n\nWhat rules out expiry: the home secrets file was last written 2026-09-01 06:29:23, and the sync failed again at 2026-09-02 00:23:34, eighteen hours after that refresh. One credential, two answers — honoured for the reading, refused for `accounts`.\n\nFour of this session's instruments were wrong before this reading held, and each was caught by a control rather than by suspicion. A grep for `^MONARCH_COOKIE=` reported the name absent because the file writes `export ` first. A grep for `lastValue` read a healthy readout as empty because the sidecar is one line. A search for a clean finish reported none in seven days, and reported none for a service known to be finishing cleanly. Only the direct run distinguished the states, which is the same lesson the relay defect taught tonight: ask the thing, not the record of the thing.\n\nWhat this needs from Alan is a decision rather than a refresh: whether Monarch has narrowed what a session cookie may reach, or whether the accounts query wants something the reading path does not.",
+} as const satisfies Finding
