@@ -45,7 +45,8 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A command stating `mechanical` is handed that a program composes its changes.",
+      statement:
+        "A command whose change kind is mechanical is handed that a program composes its changes.",
     },
   ],
 } as const satisfies Module

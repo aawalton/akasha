@@ -1,11 +1,11 @@
 import type { Module } from "@akasha/code-system/module"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { ChangeKindSlug } from "./properties/change-kind-slug.relation-property.ts"
 import type { HelpNotes } from "./properties/help-notes.text-property.ts"
-import type { Mechanical } from "./properties/mechanical.boolean-property.ts"
 import type { Taking } from "./properties/taking.record-property.ts"
 
 export type Command = Module & {
-  mechanical?: Mechanical
+  changeKindSlug: ChangeKindSlug
   taking?: Taking
   helpNotes?: readonly HelpNotes[]
 }
@@ -17,7 +17,6 @@ export const command = {
   definition: "a module reached by name from the command line",
   pluralSlug: "commands",
   partSlugs: [
-    "boolean-property/mechanical",
     "command/audit",
     "command/deploy",
     "command/edit",
@@ -34,6 +33,7 @@ export const command = {
     "command/test",
     "command/write",
     "record-property/taking",
+    "relation-property/change-kind-slug",
     "text-property/help-notes",
     "text-property/said",
     "text-property/takes",
@@ -41,7 +41,7 @@ export const command = {
   extendsSlug: "page-type/module",
   loadedBySlug: "module/calling",
   properties: [
-    { pagePropertySlug: "mechanical", required: false, many: false },
+    { pagePropertySlug: "change-kind-slug", required: true, many: false },
     { pagePropertySlug: "taking", required: false, many: true, max: null },
     { pagePropertySlug: "help-notes", required: false, many: true, max: null },
   ],

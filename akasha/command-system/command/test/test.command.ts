@@ -7,6 +7,7 @@ export const test = {
   definition: "the command running the akasha tests and saying whether they passed",
   code: "ts",
   test: "ts",
+  changeKindSlug: "change-none",
   taking: [
     { said: "--file-path <path>", takes: "a file or folder under `akasha/` whose tests run" },
   ],

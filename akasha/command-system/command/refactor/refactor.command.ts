@@ -7,7 +7,7 @@ export const refactor = {
   definition: "a name the pages are spelled by changed everywhere it is spelled, as one act",
   code: "ts",
   test: "ts",
-  mechanical: true,
+  changeKindSlug: "change-mechanical",
   partSlugs: [
     "module/key-respelling",
     "module/package-renaming",

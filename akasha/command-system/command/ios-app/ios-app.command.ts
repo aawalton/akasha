@@ -7,6 +7,7 @@ export const iosApp = {
   definition: "the command acting on the iOS apps akasha carries",
   code: "ts",
   test: "ts",
+  changeKindSlug: "change-none",
   taking: [
     { said: "build", takes: "the act, which is to build one app and install it on a simulator" },
     { said: "<app>", takes: "the app to build, which is the slug of an ios-app page" },

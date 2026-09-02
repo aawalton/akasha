@@ -8,7 +8,7 @@ export const write = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  mechanical: false,
+  changeKindSlug: "change-authored",
   taking: [
     { said: "--file-path <path>", takes: "a path under `akasha/` to write" },
     { said: "--content-file <file>", takes: "the body that lands at the --file-path before it" },

@@ -9,6 +9,7 @@ export const read = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
+  changeKindSlug: "change-none",
   taking: [
     { said: "--file-path <path>", takes: "a file under `akasha/` to read" },
     { said: "--full", takes: "the whole body, whatever your record holds" },

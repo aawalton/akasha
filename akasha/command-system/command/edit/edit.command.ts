@@ -9,7 +9,7 @@ export const edit = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  mechanical: false,
+  changeKindSlug: "change-authored",
   taking: [
     { said: "--file-path <path>", takes: "the file under `akasha/` to change" },
     { said: "--old-file <file>", takes: "a file holding the passage to replace" },

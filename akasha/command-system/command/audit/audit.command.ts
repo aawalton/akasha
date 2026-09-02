@@ -7,6 +7,7 @@ export const audit = {
   definition: "every check that runs at audit, over every file the akasha folder holds",
   code: "ts",
   test: "ts",
+  changeKindSlug: "change-none",
   taking: [
     { said: "--check <slug>", takes: "a check to run on its own even where it runs at no audit" },
   ],

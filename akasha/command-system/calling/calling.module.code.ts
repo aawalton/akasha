@@ -38,7 +38,9 @@ export const HELP_SHORT = "-h"
 
 const DEFINITION = "definition"
 
-const MECHANICAL = "mechanical"
+const CHANGE_KIND = "changeKindSlug"
+
+const MECHANICAL_KIND = "change-mechanical"
 
 const TAKING = "taking"
 
@@ -124,7 +126,7 @@ function definitionOf(page: Record<string, unknown> | null): string | null {
 }
 
 function mechanicalOf(page: Record<string, unknown> | null): boolean {
-  return page !== null && page[MECHANICAL] === true
+  return page !== null && page[CHANGE_KIND] === MECHANICAL_KIND
 }
 
 function definitionIn(root: string, path: string, slug: string): string | null {

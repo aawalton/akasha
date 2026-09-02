@@ -7,6 +7,7 @@ export const measure = {
   definition: "the command saying what a fleet has spent of what it is allowed",
   code: "ts",
   test: "ts",
+  changeKindSlug: "change-none",
   partSlugs: ["module/repo-measuring"],
   taking: [{ said: "<subject>", takes: "what to measure, which is `claude-accounts` or `repo`" }],
   helpNotes: [

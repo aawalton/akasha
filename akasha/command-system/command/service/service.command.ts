@@ -7,6 +7,7 @@ export const service = {
   definition: "the command acting on the services akasha carries",
   code: "ts",
   test: "ts",
+  changeKindSlug: "change-none",
   taking: [
     {
       said: "install",

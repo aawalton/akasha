@@ -7,6 +7,7 @@ export const deploy = {
   definition: "the command putting up the app a page describes",
   code: "ts",
   test: "ts",
+  changeKindSlug: "change-none",
   partSlugs: ["module/deploy-kind-reading", "module/deploy-web-putting-up"],
   taking: [
     { said: "<slug>", takes: "the app to put up, named by the slug its page carries" },

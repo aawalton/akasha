@@ -8,7 +8,7 @@ export const remove = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  mechanical: true,
+  changeKindSlug: "change-mechanical",
   taking: [
     { said: "--file-path <path>", takes: "a path under `akasha/` to take away" },
     { said: "--message <text>", takes: "what the commit is for" },

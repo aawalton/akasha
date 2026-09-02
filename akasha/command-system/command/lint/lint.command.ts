@@ -7,6 +7,7 @@ export const lint = {
   definition: "the command saying what the linter finds in the akasha folder and fixing none of it",
   code: "ts",
   test: "ts",
+  changeKindSlug: "change-none",
   taking: [
     { said: "--file-path <path>", takes: "a file or folder under `akasha/` the linter reads" },
   ],

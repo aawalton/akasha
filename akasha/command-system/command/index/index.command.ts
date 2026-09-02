@@ -7,6 +7,7 @@ export const index = {
   definition: "the index rebuilt from the commit at HEAD and put in place whole",
   code: "ts",
   test: "ts",
+  changeKindSlug: "change-none",
   taking: [
     { said: "refresh", takes: "build the index over `akasha/` as it stands and put it in place" },
     { said: "--dry-run", takes: "say what the rebuild would change and put nothing in place" },
