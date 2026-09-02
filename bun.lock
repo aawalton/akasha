@@ -2837,10 +2837,10 @@
       "name": "@temper/game-characters-skills-morphs-addon",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-characters-capture-addon": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-capture-addon": "workspace:*",
       },
       "devDependencies": {
         "typescript": "^5.8.3",
@@ -2899,13 +2899,13 @@
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-bit-codec": "workspace:*",
         "@akasha/temper-capture-perf": "workspace:*",
+        "@akasha/temper-characters-capture-addon": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-hud-window": "workspace:*",
         "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-characters-capture-addon": "workspace:*",
         "@temper/game-characters-skills-morphs-addon": "workspace:*",
       },
       "devDependencies": {

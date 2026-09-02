@@ -9,7 +9,7 @@
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-settings-panel": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/game-characters-capture-addon": "workspace:*",
+    "@akasha/temper-characters-capture-addon": "workspace:*",
     "@temper/game-characters-skills-morphs-addon": "workspace:*",
     "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-hud-window": "workspace:*"
