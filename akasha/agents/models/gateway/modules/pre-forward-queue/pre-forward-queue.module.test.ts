@@ -1,16 +1,29 @@
 import { expect, test } from "bun:test"
 import type { PoolSummary } from "../../../../claude-accounts/modules/selection/claude-account-selection.module.code.ts"
 import type { AccountState } from "../oauth-types/oauth-types.module.code.ts"
-import { SILENT_QUEUE_BUDGET_MS } from "../queue-step/queue-step.module.code.ts"
 import {
+  RESET_PROBE_MARGIN_MS,
+  SILENT_QUEUE_BUDGET_MS,
+} from "../queue-step/queue-step.module.code.ts"
+import {
+  ceilingLine,
+  ceilingSaid,
   commitLine,
   exhaustLine,
+  QUEUE_TURN_CEILING,
   type QueueDoors,
   type QueueOutcome,
   resetSaid,
   runPreForwardQueue,
+  TURN_CEILING_SAID,
   waitLine,
 } from "./pre-forward-queue.module.code.ts"
+
+const RIG_TURN_GUARD = 200
+
+const RIG_RAN_AWAY = "the rig ran away rather than reaching a ceiling"
+
+const BUDGET_TURNS = SILENT_QUEUE_BUDGET_MS / RESET_PROBE_MARGIN_MS
 
 const PREFIX = "[gw]"
 
@@ -69,6 +82,7 @@ function rigged(outcomes: readonly QueueOutcome[], states: readonly AccountState
   let reads = 0
   const doors: QueueDoors = {
     attempted: async () => {
+      if (turn >= RIG_TURN_GUARD) throw new Error(RIG_RAN_AWAY)
       const answer = outcomes[Math.min(turn, outcomes.length - 1)] ?? EMPTY
       turn += 1
       return answer
@@ -112,6 +126,17 @@ function run(rig: Rig, body: ArrayBuffer | null = null): Promise<Response> {
     originalBody: body,
     doors: rig.doors,
   })
+}
+
+function runUnder(
+  rig: Rig,
+  turnCeiling: number,
+  body: ArrayBuffer | null = null
+): Promise<Response> {
+  return runPreForwardQueue(
+    { logPrefix: PREFIX, method: METHOD, pathname: PATH, originalBody: body, doors: rig.doors },
+    turnCeiling
+  )
 }
 
 const SERVED: QueueOutcome = { kind: "served", response: new Response(null, { status: 204 }) }
@@ -321,4 +346,68 @@ test("nothing here holds a clock the caller cannot replace", async () => {
   await run(rig)
   expect(rig.refused[0]?.now).toBe(NOW)
   expect(Date.now()).not.toBe(NOW)
+})
+
+const AT_RESET = stateOf("aine", 100, new Date(NOW).toISOString())
+
+test("a queue whose turns never terminate reaches its turn ceiling and throws", async () => {
+  const rig = rigged([EMPTY], [AT_RESET])
+  await expect(runUnder(rig, 3)).rejects.toThrow(ceilingSaid(3))
+  expect(rig.turns()).toBe(3)
+  expect(rig.slept).toEqual([500, 500, 500])
+})
+
+test("a turn ceiling reached is written about before the throw", async () => {
+  const rig = rigged([EMPTY], [AT_RESET])
+  await expect(runUnder(rig, 2)).rejects.toThrow(TURN_CEILING_SAID)
+  const last = rig.lines[rig.lines.length - 1] ?? ""
+  expect(last).toContain("phase=turn-ceiling")
+  expect(last).toContain("turns=2")
+  expect(last).toContain(`account=${TRAIL}`)
+  expect(last).toContain("silentElapsed=1000ms")
+})
+
+test("the longest run the silent budget allows answers without the ceiling firing", async () => {
+  const rig = rigged([EMPTY], [AT_RESET])
+  const res = await run(rig, bodyOf({ stream: false }))
+  expect(res.status).toBe(429)
+  expect(rig.slept.length).toBe(BUDGET_TURNS)
+  expect(rig.turns()).toBe(BUDGET_TURNS + 1)
+  expect(rig.turns()).toBeLessThan(QUEUE_TURN_CEILING)
+  for (const line of rig.lines) expect(line).not.toContain("phase=turn-ceiling")
+})
+
+test("the turn ceiling sits above the turns the silent budget can produce", () => {
+  expect(QUEUE_TURN_CEILING).toBeGreaterThan(BUDGET_TURNS + 1)
+})
+
+test("a spent turn ceiling is told from every other answer the queue gives", async () => {
+  const answer = new Response("served", { status: 201 })
+  expect((await run(rigged([{ kind: "served", response: answer }], []))).status).toBe(201)
+  expect((await run(rigged([EMPTY], [AT_RESET]), bodyOf({ stream: true }))).status).toBe(200)
+  expect((await run(rigged([EMPTY], [AT_RESET]), bodyOf({ stream: false }))).status).toBe(429)
+  await expect(runUnder(rigged([EMPTY], [AT_RESET]), 2)).rejects.toThrow(TURN_CEILING_SAID)
+})
+
+test("a run that answers writes no turn-ceiling line", async () => {
+  const rig = rigged([EMPTY, SERVED], [MAXED])
+  await run(rig)
+  expect(rig.lines.length).toBe(1)
+  for (const line of rig.lines) expect(line).not.toContain("phase=turn-ceiling")
+})
+
+test("a turn-ceiling line names the trail, the turns and the silent elapsed", () => {
+  expect(
+    ceilingLine({
+      logPrefix: PREFIX,
+      method: METHOD,
+      pathname: PATH,
+      trailDisplay: TRAIL,
+      silentElapsedMs: 6_000,
+      turnCeiling: 32,
+    })
+  ).toBe(
+    `${PREFIX} pre-forward-queue ${METHOD} ${PATH} account=${TRAIL} ` +
+      `phase=turn-ceiling turns=32 silentElapsed=6000ms`
+  )
 })
