@@ -1,15 +1,16 @@
+import { peopleStanding } from "../../lib/akasha-people.ts"
+import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { pathsFor, SLUG_MARK, shapesStanding, standsShell } from "./document-shape.ts"
 
-import { placeDirOf } from "../../../page/page-types.ts"
-
-const PERSON = "person"
+const PERSON_FALLBACK = `akasha/person-system/people/pages/${SLUG_MARK}.person.ts`
 
 function personPaths(slugVar: string): readonly string[] {
-  const dir = `$_root/${placeDirOf(PERSON)}`
-  return [`${dir}/$${slugVar}.md`, `${dir}/$${slugVar}.${PERSON}.md`]
+  return pathsFor(
+    shapesStanding(() => peopleStanding(ownRepoRoot()), PERSON_FALLBACK),
+    slugVar
+  )
 }
 
 export function personDocumentStandsShell(slugVar: string): string {
-  return personPaths(slugVar)
-    .map((at) => `[ -f "${at}" ]`)
-    .join(" || ")
+  return standsShell(personPaths(slugVar))
 }

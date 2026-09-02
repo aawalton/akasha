@@ -1,47 +1,23 @@
-
 import { personasStanding } from "../../lib/akasha-personas.ts"
 import { ownRepoRoot } from "@akasha/pages-system/checkout-roots"
+import { pathsFor, SLUG_MARK, shapesStanding, standsShell } from "./document-shape.ts"
 
-const PERSONA_HOME = "akasha/persona-system/persona"
-
-const PERSONA_ENDING = ".persona.ts"
-
-const SLUG_MARK = "<slug>"
-
-function shapeOf(path: string, slug: string): string {
-  const parts = path.split("/")
-  return parts
-    .map((part, at) => {
-      if (at < parts.length - 2) return part
-      if (part === slug) return SLUG_MARK
-      if (part.startsWith(`${slug}.`)) return `${SLUG_MARK}${part.slice(slug.length)}`
-      return part
-    })
-    .join("/")
-}
-
-function shapesStanding(): readonly string[] {
-  try {
-    const held = personasStanding(ownRepoRoot()).map((one) => shapeOf(one.path, one.slug))
-    return [...new Set(held)].sort()
-  } catch {
-    return [`${PERSONA_HOME}/${SLUG_MARK}/${SLUG_MARK}${PERSONA_ENDING}`]
-  }
-}
+const PERSONA_FALLBACK = `akasha/persona-system/persona/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
 
 function personaPaths(slugVar: string): readonly string[] {
-  return shapesStanding().map((shape) => `$_root/${shape.replaceAll(SLUG_MARK, `$${slugVar}`)}`)
+  return pathsFor(
+    shapesStanding(() => personasStanding(ownRepoRoot()), PERSONA_FALLBACK),
+    slugVar
+  )
 }
 
 export function personaDocumentStandsShell(slugVar: string): string {
-  return personaPaths(slugVar)
-    .map((at) => `[ -f "${at}" ]`)
-    .join(" || ")
+  return standsShell(personaPaths(slugVar))
 }
 
 export function personaDocumentGateLines(fnName: string, slugVar: string): readonly string[] {
   const paths = personaPaths(slugVar)
-  const place = paths[0] ?? `$_root/${PERSONA_HOME}/$${slugVar}/$${slugVar}${PERSONA_ENDING}`
+  const place = paths[0] ?? `$_root/${PERSONA_FALLBACK.replaceAll(SLUG_MARK, `$${slugVar}`)}`
   const missing = paths.map((at) => `[ ! -f "${at}" ]`).join(" && ")
   return [
     `  if ${missing}; then`,
