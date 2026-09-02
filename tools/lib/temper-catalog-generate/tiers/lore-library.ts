@@ -1,5 +1,5 @@
 
-import { loreLibraryCatalogSchema } from "@akasha/temper-game-collections-lore-capture-host/lore-library-catalog-schema"
+import { loreLibraryCatalogSchema } from "@akasha/temper-game-catalog-capture-host/lore-library-catalog-schema"
 import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
 

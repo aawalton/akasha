@@ -182,7 +182,7 @@
     "@akasha/temper-community-addons": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
-    "@akasha/temper-game-navigation-capture-host": "workspace:*",
+    "@akasha/temper-game-catalog-capture-host": "workspace:*",
     "@akasha/temper-lua-runner": "workspace:*",
     "@akasha/temper-quests-trace": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",

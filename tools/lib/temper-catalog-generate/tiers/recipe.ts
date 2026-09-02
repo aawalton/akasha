@@ -1,5 +1,5 @@
 
-import { recipeCatalogSchema } from "@akasha/temper-game-crafting-capture-host/recipe-catalog-schema"
+import { recipeCatalogSchema } from "@akasha/temper-game-catalog-capture-host/recipe-catalog-schema"
 import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
 
