@@ -25,10 +25,6 @@ export const domainAncestors = {
     },
     {
       invariantKind: "departure",
-      statement: "A chain that turns back on itself is walked once.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The domain answered for is no ancestor of itself.",
     },
     {
