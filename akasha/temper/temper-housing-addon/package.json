@@ -14,7 +14,7 @@
     "./housing-comboboxes": "./housing-comboboxes/housing-comboboxes.module.code.ts",
     "./housing-constants": "./housing-constants/housing-constants.module.code.ts",
     "./housing-context-menu": "./housing-context-menu/housing-context-menu.module.code.ts",
-    "./housing-declarations": "./housing-declarations/housing-declarations.module.code.ts",
+    "./housing-declarations": "./housing-declarations/housing-declarations.type-declaration.d.ts",
     "./housing-dropdowns": "./housing-dropdowns/housing-dropdowns.module.code.ts",
     "./housing-entry": "./housing-entry/housing-entry.module.code.ts",
     "./housing-favorites-helpers": "./housing-favorites-helpers/housing-favorites-helpers.module.code.ts",

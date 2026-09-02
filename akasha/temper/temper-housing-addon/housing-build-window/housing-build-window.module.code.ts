@@ -1,7 +1,6 @@
 import "@akasha/temper-eso-types/eso-enums-17"
 import "@akasha/temper-eso-types/eso-objects-01"
 import "@akasha/temper-eso-types/eso-ui-2"
-import "../housing-declarations/housing-declarations.module.code.ts"
 import {
   asBackdropEdgeView,
   asControl,

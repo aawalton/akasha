@@ -5,7 +5,6 @@ import "@akasha/temper-eso-types/eso-objects-01"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import "../housing-declarations/housing-declarations.module.code.ts"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 interface TabBackdrop {

@@ -1,7 +1,6 @@
 import "@akasha/temper-eso-types/eso-enums-17"
 import "@akasha/temper-eso-types/eso-enums-19"
 import "@akasha/temper-eso-types/eso-ui-2"
-import "../housing-declarations/housing-declarations.module.code.ts"
 import {
   asControl,
   asControlHandler,

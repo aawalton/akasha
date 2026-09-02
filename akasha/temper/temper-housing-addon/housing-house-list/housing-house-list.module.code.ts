@@ -4,7 +4,6 @@ import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
 import "@akasha/temper-eso-types/tstl-eso-sandbox"
-import "../housing-declarations/housing-declarations.module.code.ts"
 import { getPtfSavedVars, portToFriend } from "../housing-state/housing-state.module.code.ts"
 import type { PurchasedHouse } from "../housing-types/housing-types.module.code.ts"
 

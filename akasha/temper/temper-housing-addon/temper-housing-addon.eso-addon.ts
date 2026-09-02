@@ -21,7 +21,6 @@ export const temperHousingAddon = {
     "module/housing-comboboxes",
     "module/housing-constants",
     "module/housing-context-menu",
-    "module/housing-declarations",
     "module/housing-dropdowns",
     "module/housing-entry",
     "module/housing-favorites-helpers",
@@ -61,6 +60,7 @@ export const temperHousingAddon = {
     "module/housing-visit-cards-render",
     "module/housing-visit-cards-view",
     "module/housing-window-controls",
+    "type-declaration/housing-declarations",
   ],
   invariants: [
     {

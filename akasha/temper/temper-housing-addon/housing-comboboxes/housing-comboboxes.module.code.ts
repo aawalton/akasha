@@ -3,7 +3,6 @@ import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-3"
 import "@akasha/temper-eso-types/tstl-eso-sandbox"
-import "../housing-declarations/housing-declarations.module.code.ts"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 let UNIQUE_NAME_COUNTER = 0

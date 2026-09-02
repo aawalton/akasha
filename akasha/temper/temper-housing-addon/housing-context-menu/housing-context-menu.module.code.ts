@@ -3,7 +3,6 @@ import "@akasha/temper-eso-types/eso-chat"
 import "@akasha/temper-eso-types/eso-enums-19"
 import "@akasha/temper-eso-types/eso-event-manager"
 import "@akasha/temper-lib-custom-menu/custom-menu-declarations"
-import "../housing-declarations/housing-declarations.module.code.ts"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 interface HouseEditbox {
