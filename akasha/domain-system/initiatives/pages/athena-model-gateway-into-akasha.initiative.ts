@@ -12,7 +12,7 @@ export const athenaModelGatewayIntoAkasha = {
       statement:
         "The model gateway is a domain in akasha, and every module it runs from is a page there.",
       workingMemory:
-        "model-gateway is a domain under models, and keepalive is the first module in with 6 tests passing. Nine modules import nothing at all and go first: sse-error-frame, committed-outcome, bind-with-retry, hold-registry, proxy-headers, queue-step, keepalive, idle-timeout, capacity-classification. Cutting the log sink collapses the 208-file closure from main.ts to about 40. Checks that bite: UPPER_SNAKE constants, lowerCamel functions, no cast through unknown, and `stand` is a taboo term.",
+        "model-gateway is a domain under models with six modules in and 50 tests passing: keepalive, sse-error-frame, committed-outcome, proxy-headers, bind-with-retry, queue-step. Three leaves are left: hold-registry, idle-timeout, capacity-classification. Checks that refuse a body: UPPER_SNAKE constants, lowerCamel functions, no cast through unknown, `stand` is taboo, and no lone pronoun or quantifier in a statement. Subagents write bodies to /var/tmp for one writer.",
     },
     {
       statement: "No part of the model gateway is outside akasha.",
