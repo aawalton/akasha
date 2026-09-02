@@ -6,14 +6,15 @@ import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { ran } from "@akasha/utils-run/running"
 import {
+  actingIn,
   agentIn,
   cleared,
   NAMED,
   recordAt,
   replacing,
   SCOPE,
+  seatIn,
   sourceIn,
-  underSeat,
 } from "./clear-reads-on-context-replaced.agent-hook.code.ts"
 
 const SCRIPT = join(import.meta.dir, "clear-reads-on-context-replaced.agent-hook.code.ts")
@@ -33,7 +34,9 @@ const KEEPING: readonly string[] = ["resume", "", "other", "Startup", "compactio
 const scratch = scratchWorld()
 
 afterAll(() => {
-  for (const one of [ONE, TWO]) rmSync(recordAt(HERE, one), { recursive: true, force: true })
+  for (const one of [ONE, TWO, `${ONE}${SUBAGENT_MARK}suba`]) {
+    rmSync(recordAt(HERE, one), { recursive: true, force: true })
+  }
   scratch.sweep()
 })
 
@@ -62,18 +65,21 @@ function planted(agentId: string): string {
   return at
 }
 
-function payloadOf(source: string): string {
-  return JSON.stringify({ hook_event_name: "SessionStart", source })
+function payloadOf(source: string, acting?: string): string {
+  const held: Record<string, string> = { hook_event_name: "SessionStart", source }
+  if (acting !== undefined) held.agent_id = acting
+  return JSON.stringify(held)
 }
 
 function ranWith(
   source: string,
-  named: string | null
+  named: string | null,
+  acting?: string
 ): { readonly code: number; readonly out: string } {
   const held: Record<string, string> = { ...process.env } as Record<string, string>
   if (named === null) delete held[NAMED]
   else held[NAMED] = named
-  const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf(source)), env: held })
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf(source, acting)), env: held })
   return { code: done.code, out: done.out }
 }
 
@@ -136,27 +142,30 @@ function seated(): string {
   return root
 }
 
-test("a seat's own folder and its subagents' are what the seat takes with it", () => {
-  expect(underSeat(ONE, SEATED)).toEqual([ONE, ...UNDER_ONE])
-  expect(underSeat(TWO, SEATED)).toEqual([TWO, UNDER_TWO])
-})
-
-test("a seat standing beside no subagent takes only its own folder", () => {
-  expect(underSeat(ONE, [ONE, TWO, UNDER_TWO])).toEqual([ONE])
-  expect(underSeat(ONE, [])).toEqual([ONE])
-})
-
-test("a seat's subagents' records go when the seat's context is replaced", () => {
+test("a seat's subagents' records are left where they are when the seat's own context goes", () => {
   for (const one of REPLACING) {
     const root = seated()
     expect(cleared(root, ONE, one)).toBe(true)
-    for (const said of [ONE, ...UNDER_ONE]) {
-      expect(existsSync(recordAt(root, said))).toBe(false)
+    expect(existsSync(recordAt(root, ONE))).toBe(false)
+    for (const said of UNDER_ONE) {
+      expect(readFileSync(readingAt(root, said), "utf8")).toContain(said)
     }
   }
 })
 
-test("another seat's subagents' records stand while one seat's are cleared", () => {
+test("a subagent starting takes its own record and no sibling's", () => {
+  for (const one of REPLACING) {
+    const root = seated()
+    const held = UNDER_ONE[0] ?? ""
+    expect(cleared(root, held, one)).toBe(true)
+    expect(existsSync(recordAt(root, held))).toBe(false)
+    for (const said of [ONE, UNDER_ONE[1] ?? "", TWO, UNDER_TWO]) {
+      expect(readFileSync(readingAt(root, said), "utf8")).toContain(said)
+    }
+  }
+})
+
+test("another seat's records stand while one seat's is cleared", () => {
   const root = seated()
   cleared(root, ONE, "startup")
   expect(readFileSync(readingAt(root, TWO), "utf8")).toContain(TWO)
@@ -200,10 +209,26 @@ test("a record that cannot be reached is left as it stands", () => {
   expect(readFileSync(at, "utf8")).toBe("not a folder\n")
 })
 
-test("the agent is the one AGENT_ID names, and an empty name names none", () => {
-  expect(agentIn({ AGENT_ID: ONE })).toBe(ONE)
-  expect(agentIn({ AGENT_ID: "" })).toBeNull()
-  expect(agentIn({})).toBeNull()
+test("the seat is the one AGENT_ID names, and an empty name names none", () => {
+  expect(seatIn({ AGENT_ID: ONE })).toBe(ONE)
+  expect(seatIn({ AGENT_ID: "" })).toBeNull()
+  expect(seatIn({})).toBeNull()
+})
+
+test("the acting agent is the one the payload names, and only where it names one", () => {
+  expect(actingIn(payloadOf("startup", "suba"))).toBe("suba")
+  expect(actingIn(payloadOf("startup"))).toBeNull()
+  expect(actingIn(JSON.stringify({ agent_id: "  " }))).toBeNull()
+  expect(actingIn(JSON.stringify({ agent_id: 1 }))).toBeNull()
+  expect(actingIn("{")).toBeNull()
+})
+
+test("the agent whose context went is the seat, or the subagent acting under it", () => {
+  expect(agentIn({ AGENT_ID: ONE }, payloadOf("startup"))).toBe(ONE)
+  expect(agentIn({ AGENT_ID: ONE }, payloadOf("startup", "suba"))).toBe(
+    `${ONE}${SUBAGENT_MARK}suba`
+  )
+  expect(agentIn({}, payloadOf("startup", "suba"))).toBeNull()
 })
 
 test("the source is read from the payload the harness sends", () => {
@@ -238,6 +263,15 @@ test("the hook run as the harness runs it clears the record under the root it st
   expect(ranWith("startup", ONE).code).toBe(0)
   expect(existsSync(one)).toBe(false)
   expect(existsSync(recordAt(HERE, ONE))).toBe(false)
+})
+
+test("the hook run as the harness runs it takes the subagent the payload names", () => {
+  const held = `${ONE}${SUBAGENT_MARK}suba`
+  const seat = planted(ONE)
+  const one = planted(held)
+  expect(ranWith("startup", ONE, "suba").code).toBe(0)
+  expect(existsSync(one)).toBe(false)
+  expect(readFileSync(seat, "utf8")).toContain(ONE)
 })
 
 test("the hook run as the harness runs it leaves a resumed session's record standing", () => {

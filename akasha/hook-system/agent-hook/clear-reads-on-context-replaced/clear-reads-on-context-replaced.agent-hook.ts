@@ -43,11 +43,23 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat's subagents' records go when the seat's context is replaced.",
+      statement: "A subagent's own session raises this event carrying the name of its seat.",
     },
     {
       invariantKind: "departure",
-      statement: "Nothing else takes a seat's subagents' records away.",
+      statement: "The payload names the subagent acting.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The environment names only the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The agent cleared is the agent acting rather than that agent's seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's subagents keep their records when the seat's own context is replaced.",
     },
     {
       invariantKind: "departure",
@@ -68,6 +80,10 @@ export const clearReadsOnContextReplaced = {
     {
       invariantKind: "departure",
       statement: "This hook is the only one that does.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A record an ended agent left behind is taken away.",
     },
   ],
 } as const satisfies AgentHook
