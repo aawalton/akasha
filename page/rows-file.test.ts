@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { rowsFileOf } from "./rows-file.ts"
-import { attachmentFileOf } from "./attachment-file.ts"
+import { attachmentFileOf, attachmentPathFor } from "./attachment-file.ts"
 
 const MARKDOWN_DAY = "pages/daily-tracking/2026-03-05.daily-tracking.md"
 
@@ -45,5 +45,24 @@ describe("what stands beside a page", () => {
     expect(attachmentFileOf(AKASHA_DAY, "notes", "md")).toBe(
       "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.notes.attachment.md"
     )
+  })
+
+  /**
+   * The gate in front of every attachment read and write asked whether the path ended `.md`, which
+   * is half of what the call above answers, so it refused the akasha half of a corpus the call
+   * beneath it names correctly. Both now ask `besideAt` the one question.
+   */
+  test("the gate names a page of either kind rather than refusing the akasha one", () => {
+    expect(attachmentPathFor(MARKDOWN_DAY, "notes", "md")).toBe(
+      attachmentFileOf(MARKDOWN_DAY, "notes", "md")
+    )
+    expect(attachmentPathFor(AKASHA_DAY, "notes", "md")).toBe(
+      attachmentFileOf(AKASHA_DAY, "notes", "md")
+    )
+  })
+
+  test("a path naming no page of either kind is still refused", () => {
+    expect(() => attachmentPathFor("pages/daily-tracking", "notes", "md")).toThrow()
+    expect(() => attachmentPathFor("README", "notes", "md")).toThrow()
   })
 })

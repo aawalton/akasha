@@ -25,25 +25,46 @@ export function isAttachmentExtension(one: string): boolean {
  * beside either one is named by dropping the page's own extension. `besideAt` is where akasha states
  * that rule, so a `.ts` page is asked of it rather than answered by a second copy of the rule here.
  */
+function tailOf(extension: string, uncommitted: boolean): string {
+  return `${uncommitted ? UNCOMMITTED_INFIX : ""}attachment.${extension}`
+}
+
 export function attachmentFileOf(
   relPath: string,
   key: string,
   extension: string,
   uncommitted = false
 ): string {
-  const tail = `${uncommitted ? UNCOMMITTED_INFIX : ""}attachment.${extension}`
+  const tail = tailOf(extension, uncommitted)
   const beside = besideAt(relPath, key, tail)
   if (beside !== null) return beside
   return `${relPath.replace(/\.md$/, "")}.${key}.${tail}`
 }
 
+/**
+ * The same path, refusing one that names no page at all.
+ *
+ * What counts as a page is the question `attachmentFileOf` answers above, by asking `besideAt` and
+ * falling back to the markdown rule where it will not answer. This asked a different question — did
+ * the path end `.md` — which is the markdown half of that answer with the akasha half dropped, so
+ * the gate in front of every read and write refused a `.ts` page under `akasha/` that the call two
+ * functions up names correctly. The comment on that call already said a page is either kind.
+ *
+ * No day reaches here today: no `daily-tracking` property is attachment-typed, and a day that has
+ * moved is written by `landAkashaDayPage` rather than through the markdown page writer that calls
+ * this. It is one question asked in one way all the same, because that is what stops the two from
+ * drifting apart before a day does reach it.
+ */
 export function attachmentPathFor(
   pagePath: string,
   key: string,
   extension: string,
   uncommitted = false
 ): string {
-  if (!pagePath.endsWith(PAGE_SUFFIX)) {
+  const named =
+    besideAt(pagePath, key, tailOf(extension, uncommitted)) !== null ||
+    pagePath.endsWith(PAGE_SUFFIX)
+  if (!named) {
     throw new Error(`an attachment stands beside a page, and '${pagePath}' is not one`)
   }
   return attachmentFileOf(pagePath, key, extension, uncommitted)
