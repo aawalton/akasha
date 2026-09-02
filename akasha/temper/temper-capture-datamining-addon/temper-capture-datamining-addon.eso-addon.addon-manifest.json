@@ -1,0 +1,11 @@
+{
+  "name": "TemperDataMining",
+  "title": "Temper Data Mining",
+  "description": "Mine equipment item data from ESO for import to the Temper database",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101041", "101042", "101049"],
+  "savedVariables": ["TemperDataMining_SavedVariables"],
+  "dependsOn": ["TemperHud"]
+}

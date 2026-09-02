@@ -1,0 +1,19 @@
+{
+  "name": "@akasha/temper-capture-datamining-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./datamining-constants": "./datamining-constants/datamining-constants.module.code.ts",
+    "./datamining-saved-variables": "./datamining-saved-variables/datamining-saved-variables.module.code.ts",
+    "./datamining-item-miner": "./datamining-item-miner/datamining-item-miner.module.code.ts",
+    "./datamining-quest-miner": "./datamining-quest-miner/datamining-quest-miner.module.code.ts",
+    "./datamining-public-api": "./datamining-public-api/datamining-public-api.module.code.ts",
+    "./datamining-entry": "./datamining-entry/datamining-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-capture-datamining": "workspace:*",
+    "@akasha/temper-capture-writer": "workspace:*"
+  }
+}

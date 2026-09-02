@@ -56,5 +56,6 @@ export const temperAddonLibraryTypes = {
     "type-declaration/crafting-addon-neighbours",
     "type-declaration/temper-addons-global",
     "type-declaration/temper-inventory-global",
+    "type-declaration/temper-data-mining-global",
   ],
 } as const satisfies WorkspacePackage
