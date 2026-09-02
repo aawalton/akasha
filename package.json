@@ -113,7 +113,6 @@
     "@infra/zimage": "workspace:*",
     "@media/cli": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.30.0",
-    "@stories/text": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",
     "@vscode/ripgrep": "^1.18.0",
     "cdk8s": "^2.70.60",
