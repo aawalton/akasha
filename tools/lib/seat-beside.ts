@@ -1,11 +1,11 @@
 import { existsSync } from "node:fs"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+import { PAGE_EXTENSION, pageStemOf } from "@akasha/pages-system/markdown-page-name"
 import {
   dropUncommitted as dropAkasha,
   mergeUncommitted,
   removeUncommitted as removeAkasha,
-} from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
-import { PAGE_EXTENSION, pageStemOf } from "@akasha/pages-system/markdown-page-name"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
+} from "../../akasha/pages-system/page/uncommitted/page-uncommitted.module.code.ts"
 import { type Beside, CARRIED, type Kind, RECORDS } from "./seat-akasha-beside.ts"
 import { akashaSeatRelPath } from "./seat-page-akasha.ts"
 

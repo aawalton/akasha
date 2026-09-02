@@ -1,21 +1,21 @@
 import { describe, expect, test } from "bun:test"
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { besideAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { uuidVersion7 } from "../../akasha/command-system/value-minting/value-minting.module.code.ts"
-import { importedFrom } from "../../akasha/pages-system/page/page-body/page-body.module.code.ts"
+import { slugOfFilePage } from "../../akasha/file-page-identity/file-page/file-page.module.code.ts"
+import { importedFrom } from "../../akasha/pages-system/page/body/page-body.module.code.ts"
+import { exportedAs } from "../../akasha/pages-system/page/export-name/page-export-name.module.code.ts"
+import { besideAt } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
 import { pathFor } from "../../akasha/pages-system/pages-system-service/page-composing/page-composing.module.code.ts"
+import {
+  ID_SUFFIX_LENGTH as AKASHA_ID_SUFFIX_LENGTH,
+  buildPageHrefParam,
+} from "../../akasha/pages-system/pages-url/page-href/page-href.module.code.ts"
 import { declaredIn, pageTypeFilesIn } from "../daily-tracking-landing/declared.ts"
 import { camelizeKey, kebabizeKey } from "../lib/tracking/keys.ts"
 import {
-  buildPageHrefParam,
-  ID_SUFFIX_LENGTH as AKASHA_ID_SUFFIX_LENGTH,
-} from "../../akasha/pages-system/pages-url/page-href/page-href.module.code.ts"
-import { slugOfFilePage } from "../../akasha/file-page-identity/file-page/file-page.module.code.ts"
-import {
-  camelisedRow,
   type Converted,
+  camelisedRow,
   convertDay,
   type DaySource,
   exportNameOf,
@@ -50,8 +50,7 @@ const PLACING = placingFor(TYPE_AT, PLURAL)
  */
 const COPY = process.env["DAILY_TRACKING_COPY"] ?? ""
 
-const HAVE_COPY =
-  COPY !== "" && statSync(COPY, { throwIfNoEntry: false })?.isDirectory() === true
+const HAVE_COPY = COPY !== "" && statSync(COPY, { throwIfNoEntry: false })?.isDirectory() === true
 
 const V7 = "01a05f80-3969-7000-8ccd-6284909fc036"
 
@@ -344,7 +343,10 @@ describe("what a day page imports", () => {
   test("a type one folder further off is imported one folder further up, with nothing repointed", () => {
     // Nothing here is configured. The specifier follows the two paths, so a type that moves is
     // followed rather than needing a constant somewhere to be corrected after it.
-    const deeper = placingFor("akasha/alan/tracking/daily-tracking/daily-tracking.page-type.ts", PLURAL)
+    const deeper = placingFor(
+      "akasha/alan/tracking/daily-tracking/daily-tracking.page-type.ts",
+      PLURAL
+    )
     expect(deeper.folder).toBe("akasha/alan/tracking/daily-tracking/daily-trackings")
     expect(importFor(deeper, "day-2026-03-05.daily-tracking.ts")).toBe(
       "../daily-tracking.page-type.ts"
@@ -406,9 +408,7 @@ describe("what a day carries", () => {
   })
 
   test("numeric-looking text stays text, because Number() eats the form", () => {
-    const one = done(
-      dayOf({ frontmatter: { ...BARE, version: "1.0", "safety-level": "3" } })
-    )
+    const one = done(dayOf({ frontmatter: { ...BARE, version: "1.0", "safety-level": "3" } }))
     expect(one.value["version"]).toBe("1.0")
     expect(one.value["safetyLevel"]).toBe("3")
     expect(one.pageText).toContain('  version: "1.0",')

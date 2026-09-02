@@ -1,6 +1,6 @@
-import { FIRST_PART } from "../page-file-name/page-file-name.module.code.ts"
-import { partAt } from "../page-file-parts/page-file-parts.module.code.ts"
-import type { Value } from "../page-value/page-value.module.code.ts"
+import { FIRST_PART } from "../file-name/page-file-name.module.code.ts"
+import { partAt } from "../file-parts/page-file-parts.module.code.ts"
+import type { Value } from "../value/page-value.module.code.ts"
 
 const NEWLINE = "\n"
 

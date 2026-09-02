@@ -52,13 +52,13 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { uuidVersion7 } from "../../akasha/command-system/value-minting/value-minting.module.code.ts"
-import { entriesAt } from "../../akasha/pages-system/page/page-entries/page-entries.module.code.ts"
+import { entriesAt } from "../../akasha/pages-system/page/entries/page-entries.module.code.ts"
 import { compareCorpora } from "../daily-tracking-fidelity/compare.ts"
 import { derivedVerdict, verdictSaid } from "../daily-tracking-fidelity/derived.ts"
 import { readAkashaPageCorpus, readMarkdownCorpus } from "../daily-tracking-fidelity/read-corpus.ts"
 import { type Converted, convertDay, refused } from "../daily-tracking-migration/convert.ts"
-import { readDays } from "../daily-tracking-migration/read-days.ts"
 import { importFor, type Placing, placingFor } from "../daily-tracking-migration/placing.ts"
+import { readDays } from "../daily-tracking-migration/read-days.ts"
 import {
   COMPLETED_TASKS_SLUG,
   DAY_PAGE_TYPE,
@@ -66,15 +66,21 @@ import {
   PROPERTY_PAGES_NEEDED,
   SESSIONS_SLUG,
 } from "../daily-tracking-migration/shape.ts"
-import { kebabizeKey } from "../lib/tracking/keys.ts"
 import { AKASHA as AKASHA_PLACE, dayPageAt, openSession } from "../lib/tracking/day-place.ts"
 import { displayTitle } from "../lib/tracking/format.ts"
+import { kebabizeKey } from "../lib/tracking/keys.ts"
 import { bothHalves } from "./both-halves.ts"
 import { carryIn, isAkashaPath } from "./carry.ts"
-import { committed, headHere, landFile, putBack, takenAway, untrackedAmong } from "./take-away.ts"
 import { type Declared, declaredIn, pageTypeFilesIn, undeclaredAmong } from "./declared.ts"
-import { type Drift, driftBetween, type Fingerprint, fingerprintJson, fingerprintOf } from "./fingerprint.ts"
+import {
+  type Drift,
+  driftBetween,
+  type Fingerprint,
+  fingerprintJson,
+  fingerprintOf,
+} from "./fingerprint.ts"
 import { flippedTo, namesNoDay } from "./flip.ts"
+import { committed, headHere, landFile, putBack, takenAway, untrackedAmong } from "./take-away.ts"
 
 const HERE = resolve(import.meta.dir, "..", "..")
 
@@ -205,7 +211,9 @@ function driftSaid(drift: readonly Drift[], when: string): readonly string[] {
  * his next command will tell him, and that is worth printing. A read that fails costs a note too,
  * since nothing here now hangs on the answer.
  */
-async function sessionOpen(): Promise<{ readonly title: string } | null | { readonly why: string }> {
+async function sessionOpen(): Promise<
+  { readonly title: string } | null | { readonly why: string }
+> {
   try {
     const open = await openSession()
     if (open === null) return null
@@ -262,8 +270,7 @@ function told(): Told {
    * the checkout it is on the same filesystem, which is also where a reflink can be taken and the
    * copy costs nothing.
    */
-  const work =
-    argOf("work") ?? join(HERE, "..", `daily-tracking-landing-${String(process.pid)}`)
+  const work = argOf("work") ?? join(HERE, "..", `daily-tracking-landing-${String(process.pid)}`)
   return {
     from,
     into: resolve(into),
@@ -341,7 +348,9 @@ async function preconditions(at: Told): Promise<{
         "name a type that is not there"
     )
   } else if (types.length > 1) {
-    owed.push(`${String(types.length)} files under akasha/ name this page type: ${types.join(", ")}`)
+    owed.push(
+      `${String(types.length)} files under akasha/ name this page type: ${types.join(", ")}`
+    )
   } else {
     const read = await declaredIn(join(AKASHA_DIR, types[0] as string))
     if ("refused" in read) {
@@ -620,7 +629,9 @@ async function main(): Promise<never> {
       for (const key of Object.keys(one.value)) carried.add(kebabizeKey(key))
     }
     const undeclared = undeclaredAmong(stood.declared, carried)
-    say(`  keys carried   ${String(carried.size)}, of which ${String(undeclared.length)} undeclared`)
+    say(
+      `  keys carried   ${String(carried.size)}, of which ${String(undeclared.length)} undeclared`
+    )
     if (undeclared.length > 0 && at.forReal) {
       refuse("convert", [
         `\`${DAY_PAGE_TYPE}\` declares no property for ${String(undeclared.length)} key(s) the ` +
@@ -633,19 +644,28 @@ async function main(): Promise<never> {
   const staged = join(at.work, "staged")
   stage(staged, made)
   landFile(join(at.work, "id-map.json"), `${JSON.stringify(made.idMap, null, 2)}\n`)
-  const verdict = compareCorpora(readMarkdownCorpus(snapshot), await readAkashaPageCorpus(staged), made.idMap)
+  const verdict = compareCorpora(
+    readMarkdownCorpus(snapshot),
+    await readAkashaPageCorpus(staged),
+    made.idMap
+  )
   say(`  records        ${String(verdict.recordsChecked)}`)
   say(`  values         ${String(verdict.valuesChecked)}`)
   say(`  faults         ${String(verdict.faults.length)}`)
   if (verdict.faults.length > 0) {
     refuse("verify", [
       "the staged corpus does not carry every value the snapshot carried, and nothing is written",
-      ...verdict.faults.slice(0, 20).map((one) => `  ${one.kind} ${one.where} ${one.key} :: ${one.detail}`),
+      ...verdict.faults
+        .slice(0, 20)
+        .map((one) => `  ${one.kind} ${one.where} ${one.key} :: ${one.detail}`),
     ])
   }
   const unread = rowsReadBack(staged, made)
   if (unread.length > 0) {
-    refuse("verify", ["a landed page's rows do not read back through akasha's own reader", ...unread])
+    refuse("verify", [
+      "a landed page's rows do not read back through akasha's own reader",
+      ...unread,
+    ])
   }
 
   /**
@@ -737,7 +757,10 @@ async function main(): Promise<never> {
        */
       refuse("write", [
         "`akasha write --dry-run` refuses this landing, so the landing would refuse mid-act",
-        ...why.trim().split("\n").map((one) => `  ${one}`),
+        ...why
+          .trim()
+          .split("\n")
+          .map((one) => `  ${one}`),
       ])
     }
     say("  asked first    `akasha write --dry-run` holds")
@@ -745,7 +768,8 @@ async function main(): Promise<never> {
 
   say("\nstep 7  the corpus has not moved")
   const drifted = driftBetween(before, fingerprintOf(at.from))
-  if (drifted.length > 0) refuse("write", driftSaid(drifted, "while it was being turned and judged"))
+  if (drifted.length > 0)
+    refuse("write", driftSaid(drifted, "while it was being turned and judged"))
   say("  unmoved since the snapshot")
   say("  this is the last instant at which nothing has been written")
 
@@ -832,7 +856,11 @@ async function main(): Promise<never> {
     if (ran.exitCode !== 0) {
       refuse("write", [
         "`akasha write` refused the day pages, and it lands or refuses as one, so nothing is there",
-        ...new TextDecoder().decode(ran.stderr).trim().split("\n").map((one) => `  ${one}`),
+        ...new TextDecoder()
+          .decode(ran.stderr)
+          .trim()
+          .split("\n")
+          .map((one) => `  ${one}`),
       ])
     }
     landed.push(...made.names)

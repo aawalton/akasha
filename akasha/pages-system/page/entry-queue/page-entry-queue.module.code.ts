@@ -5,9 +5,9 @@ import {
   type Filling,
   openedAt,
   rolledInto,
-} from "../page-entry-landing/page-entry-landing.module.code.ts"
-import { lineFor } from "../page-entry-writing/page-entry-writing.module.code.ts"
-import type { Value } from "../page-value/page-value.module.code.ts"
+} from "../entry-landing/page-entry-landing.module.code.ts"
+import { lineFor } from "../entry-writing/page-entry-writing.module.code.ts"
+import type { Value } from "../value/page-value.module.code.ts"
 
 type Chunk = { path: string; text: string }
 

@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node
 import { dirname, join } from "node:path"
 import { dataIn } from "@akasha/file-system/data-place"
 import { NO_CODE, ran as running, type Said } from "@akasha/utils-run/running"
-import { secretAt } from "../page-file-name/page-file-name.module.code.ts"
+import { secretAt } from "../file-name/page-file-name.module.code.ts"
 
 export type Secrets = ReadonlyMap<string, string>
 

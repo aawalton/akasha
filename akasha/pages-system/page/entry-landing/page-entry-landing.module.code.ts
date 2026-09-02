@@ -1,10 +1,10 @@
 import { Buffer } from "node:buffer"
 import { appendFileSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { lineFor, partsOver } from "../page-entry-writing/page-entry-writing.module.code.ts"
-import { FIRST_PART } from "../page-file-name/page-file-name.module.code.ts"
-import { partAt, partsOf } from "../page-file-parts/page-file-parts.module.code.ts"
-import type { Value } from "../page-value/page-value.module.code.ts"
+import { lineFor, partsOver } from "../entry-writing/page-entry-writing.module.code.ts"
+import { FIRST_PART } from "../file-name/page-file-name.module.code.ts"
+import { partAt, partsOf } from "../file-parts/page-file-parts.module.code.ts"
+import type { Value } from "../value/page-value.module.code.ts"
 
 const NO_NAME = "is no page file, so the files beside that page have no name"
 

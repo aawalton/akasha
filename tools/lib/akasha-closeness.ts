@@ -1,9 +1,9 @@
+import { everyOfType } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   numberAt,
   textAt,
   valueAt,
-} from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
-import { everyOfType } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
+} from "../../akasha/pages-system/page/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "closeness-level"
 

@@ -1,4 +1,4 @@
-import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
+import { exportedAs } from "../../akasha/pages-system/page/export-name/page-export-name.module.code.ts"
 import { landMechanically } from "./akasha-landing.ts"
 import { akashaAccountPath, akashaAccountsDir, akashaRoot } from "./claude-account-akasha.ts"
 import type { Outcome } from "./gated-write.ts"
@@ -76,7 +76,11 @@ export function createAccountPage(args: AccountPageCreate): PageCreate {
   const { account } = args
   try {
     if (!ACCOUNT_SHAPE.test(account)) {
-      return { kind: "refused", account, why: `\`${account}\` is not an account name this writes a path from` }
+      return {
+        kind: "refused",
+        account,
+        why: `\`${account}\` is not an account name this writes a path from`,
+      }
     }
     if (!EMAIL_SHAPE.test(args.email)) {
       return {
@@ -100,13 +104,7 @@ export function createAccountPage(args: AccountPageCreate): PageCreate {
     const text = accountPageText({ account, email: args.email, aliasIndex: args.aliasIndex, id })
 
     const root = akashaRoot()
-    const landed: Outcome = landMechanically(
-      root,
-      WRITER,
-      relPath,
-      text,
-      `akasha: add ${relPath}`
-    )
+    const landed: Outcome = landMechanically(root, WRITER, relPath, text, `akasha: add ${relPath}`)
     if (landed.kind !== "written" && landed.kind !== "unchanged") {
       const why = landed.kind === "refused" ? landed.detail : `the landing said \`${landed.kind}\``
       return { kind: "refused", account, why }

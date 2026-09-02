@@ -1,14 +1,9 @@
 import { listedAt, type Schema, schemaOf } from "@akasha/indexes"
 import type { Identifier } from "@akasha/indexes/entries"
 import type { Reading } from "@akasha/indexes/shape"
-import { addressIn, slugIn } from "../../page/page-address/page-address.module.code.ts"
-import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
-import {
-  numberAt,
-  slugAt,
-  textAt,
-  type Value,
-} from "../../page/page-value/page-value.module.code.ts"
+import { addressIn, slugIn } from "../../page/address/page-address.module.code.ts"
+import { exportedAs } from "../../page/export-name/page-export-name.module.code.ts"
+import { numberAt, slugAt, textAt, type Value } from "../../page/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

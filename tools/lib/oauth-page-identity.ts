@@ -1,10 +1,5 @@
-
-import { removeUncommitted } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
-import {
-  akashaAccountPath,
-  akashaAccountValues,
-  akashaRoot,
-} from "./claude-account-akasha.ts"
+import { removeUncommitted } from "../../akasha/pages-system/page/uncommitted/page-uncommitted.module.code.ts"
+import { akashaAccountPath, akashaAccountValues, akashaRoot } from "./claude-account-akasha.ts"
 import type { IdentityPinStage } from "./oauth-identity-core.ts"
 import { holdMarksOnPage, type Marks } from "./oauth-page-mark.ts"
 import { pushCredentialToPage } from "./oauth-page-push.ts"
@@ -57,7 +52,8 @@ export type Cleared = { readonly ok: true } | { readonly ok: false; readonly why
 
 export function clearPreviousAccountBookkeeping(account: string, page: string): Cleared {
   const dropped = holdMarksOnPage(account, identityScopedClearMarks())
-  if (dropped.kind === "refused" || dropped.kind === "skipped") return { ok: false, why: dropped.why }
+  if (dropped.kind === "refused" || dropped.kind === "skipped")
+    return { ok: false, why: dropped.why }
   try {
     removeUncommitted(akashaRoot(), page)
   } catch (thrown) {

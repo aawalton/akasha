@@ -1,20 +1,17 @@
 import { onceInCall } from "@akasha/command-system/during-call"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
 import { everyOfType } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { secretAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { secretAt } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
 import {
   cipherFor,
   secretsIn,
-} from "../../akasha/pages-system/page/page-secret/page-secret.module.code.ts"
+} from "../../akasha/pages-system/page/secret/page-secret.module.code.ts"
 import {
   dropUncommitted,
   mergeUncommitted,
   uncommittedIn,
-} from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
-import {
-  type Value,
-  valueAt,
-} from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
+} from "../../akasha/pages-system/page/uncommitted/page-uncommitted.module.code.ts"
+import { type Value, valueAt } from "../../akasha/pages-system/page/value/page-value.module.code.ts"
 import { propertiesOf } from "../../akasha/pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 
 // A claude-account stands in akasha and the readers above still ask for it by the keys its

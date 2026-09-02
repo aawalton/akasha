@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { entriesIn } from "../page-entries/page-entries.module.code.ts"
-import type { Value } from "../page-value/page-value.module.code.ts"
+import { entriesIn } from "../entries/page-entries.module.code.ts"
+import type { Value } from "../value/page-value.module.code.ts"
 import {
   lineFor,
   type Part,

@@ -8,8 +8,8 @@ import {
   writeFileSync,
 } from "node:fs"
 import { join } from "node:path"
-import { entriesAt } from "../page-entries/page-entries.module.code.ts"
-import type { Value } from "../page-value/page-value.module.code.ts"
+import { entriesAt } from "../entries/page-entries.module.code.ts"
+import type { Value } from "../value/page-value.module.code.ts"
 import { appendedAt, landedAt, openedAt } from "./page-entry-landing.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"

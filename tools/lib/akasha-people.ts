@@ -1,13 +1,13 @@
 import {
-  textAt,
-  type Value,
-  valueAt,
-} from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
-import {
   everyOfType,
   type Listed,
   listedAt,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  textAt,
+  type Value,
+  valueAt,
+} from "../../akasha/pages-system/page/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "person"
 

@@ -1,8 +1,8 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { parse as parseYaml } from "yaml"
-import { entriesIn } from "../../akasha/pages-system/page/page-entries/page-entries.module.code.ts"
-import { besideAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { entriesIn } from "../../akasha/pages-system/page/entries/page-entries.module.code.ts"
+import { besideAt } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
 import { rowsPartsOf } from "../../page/rows-file.ts"
 import { kebabizeKey } from "../lib/tracking/keys.ts"
 import type { Kind } from "./ledger.ts"
@@ -116,7 +116,10 @@ export function readMarkdownCorpus(root: string): Corpus {
     const day = name.slice(0, -MD_SUFFIX.length)
     const locator = join(root, name)
     try {
-      const parsed = frontmatterOf(readFileSync(locator, "utf8"), locator) as Record<string, unknown>
+      const parsed = frontmatterOf(readFileSync(locator, "utf8"), locator) as Record<
+        string,
+        unknown
+      >
       corpus.days.set(day, {
         kind: "day",
         day,
@@ -192,7 +195,10 @@ export async function readAkashaPageCorpus(root: string): Promise<Corpus> {
       const date = fields.get("date")
       const day = date instanceof Date ? date.toISOString().slice(0, 10) : String(date ?? "")
       if (day === "") {
-        corpus.faults.push({ locator: path, reason: "the page states no date, so its day is unknowable" })
+        corpus.faults.push({
+          locator: path,
+          reason: "the page states no date, so its day is unknowable",
+        })
         continue
       }
       corpus.days.set(day, { kind: "day", day, ordinal: 0, locator: path, fields })

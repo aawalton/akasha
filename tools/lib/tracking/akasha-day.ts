@@ -75,7 +75,8 @@ function refused(why: string): Landed {
 
 export function rootOf(): string {
   const root = resolveRoots()[AKASHA_REPO]
-  if (root === undefined) throw new Error("no akasha checkout is resolved, so no day can be written")
+  if (root === undefined)
+    throw new Error("no akasha checkout is resolved, so no day can be written")
   return root
 }
 
@@ -110,7 +111,7 @@ export function camelised(values: Values): Record<string, unknown> {
  * `page-property-entry` that page names for it, and judge every line against the properties that
  * entry declares — the file parses as one JSON object to a line, every required property is there,
  * no key is one the entry does not declare, and `id` is a uuid. `entriesIn` in
- * `akasha/pages-system/page/page-entries` already parses; the declaration is already on the entry
+ * `akasha/pages-system/page/entries` already parses; the declaration is already on the entry
  * page; nothing puts the two together. Until it does, camelising here is what keeps a row readable
  * rather than what makes it right.
  *
@@ -324,5 +325,7 @@ export function turnedRows(
   }
   if (act === "remove-row") return { rows: held.filter((_, index) => index !== at) }
   const was = held[at] as Row
-  return { rows: held.map((one, index) => (index === at ? { ...was, ...camelisedRow(values) } : one)) }
+  return {
+    rows: held.map((one, index) => (index === at ? { ...was, ...camelisedRow(values) } : one)),
+  }
 }

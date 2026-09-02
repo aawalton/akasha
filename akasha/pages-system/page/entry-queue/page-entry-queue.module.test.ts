@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { entriesAt } from "../page-entries/page-entries.module.code.ts"
-import { landedAt } from "../page-entry-landing/page-entry-landing.module.code.ts"
-import type { Value } from "../page-value/page-value.module.code.ts"
+import { entriesAt } from "../entries/page-entries.module.code.ts"
+import { landedAt } from "../entry-landing/page-entry-landing.module.code.ts"
+import type { Value } from "../value/page-value.module.code.ts"
 import { type Queue, queueAt } from "./page-entry-queue.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"

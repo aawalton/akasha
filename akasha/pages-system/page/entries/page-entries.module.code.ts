@@ -1,9 +1,9 @@
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { ENTRY_PROPERTY } from "@akasha/indexes/entries"
-import { besideAt } from "../page-file-name/page-file-name.module.code.ts"
-import { partsOf } from "../page-file-parts/page-file-parts.module.code.ts"
-import type { Value } from "../page-value/page-value.module.code.ts"
+import { besideAt } from "../file-name/page-file-name.module.code.ts"
+import { partsOf } from "../file-parts/page-file-parts.module.code.ts"
+import type { Value } from "../value/page-value.module.code.ts"
 
 const UNKNOWN = "so what the page carries there is unknown rather than nothing"
 

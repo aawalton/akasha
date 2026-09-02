@@ -1,6 +1,6 @@
 import { readFileSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
-import { addressIn } from "../page-address/page-address.module.code.ts"
+import { addressIn } from "../address/page-address.module.code.ts"
 
 function newTranspiler() {
   return new Bun.Transpiler({ loader: "ts" })

@@ -2,9 +2,8 @@ import { createHash } from "node:crypto"
 import { chmodSync } from "node:fs"
 import { join } from "node:path"
 
-import { uncommittedAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { uncommittedAt } from "../../akasha/pages-system/page/file-name/page-file-name.module.code.ts"
 import { landMechanically } from "./akasha-landing.ts"
-import type { Outcome } from "./gated-write.ts"
 import {
   akashaAccountBeside,
   akashaAccountPath,
@@ -14,6 +13,7 @@ import {
   akashaSecretPath,
   holdBesideAccount,
 } from "./claude-account-akasha.ts"
+import type { Outcome } from "./gated-write.ts"
 
 const WRITER = "claude-account-credential-writer"
 
@@ -78,17 +78,15 @@ function holdExpiry(account: string, expiresAt: number): void {
     [EXPIRES_KEY]: new Date(expiresAt).toISOString(),
   })
   if (wrong !== null) {
-    process.stderr.write(`page push: ${account} keeps its credential but not its expiry: ${wrong}\n`)
+    process.stderr.write(
+      `page push: ${account} keeps its credential but not its expiry: ${wrong}\n`
+    )
   }
 }
 
 // The escape hatch: where the rotated pair could not be landed, it is held beside the page, which
 // no gate judges, so the next read takes it rather than the pair being lost.
-function heldBeside(
-  account: string,
-  next: ReadonlyMap<string, string>,
-  expiresAt: number
-): string {
+function heldBeside(account: string, next: ReadonlyMap<string, string>, expiresAt: number): string {
   const wrong = holdBesideAccount(account, {
     [RESCUED_KEY]: {
       accessToken: next.get(ACCESS_KEY) ?? "",
@@ -96,7 +94,8 @@ function heldBeside(
       expiresAtMs: expiresAt,
     },
   })
-  if (wrong !== null) return `and it could not be held beside the page either, so it is gone: ${wrong}`
+  if (wrong !== null)
+    return `and it could not be held beside the page either, so it is gone: ${wrong}`
   const page = akashaAccountPath(account)
   const at = page === null ? null : uncommittedAt(page)
   if (at !== null) {
@@ -120,7 +119,8 @@ function landBody(root: string, relPath: string, body: string, message: string):
 }
 
 function unfit(key: string, value: string): string | null {
-  if (value === "") return `\`${key}\` arrived empty, and an empty secret would replace a usable one`
+  if (value === "")
+    return `\`${key}\` arrived empty, and an empty secret would replace a usable one`
   if (value.includes("\n")) return `\`${key}\` holds a newline, and a secret's value is one line`
   return null
 }
@@ -129,10 +129,18 @@ export function pushCredentialToPage(args: CredentialPagePush): PagePush {
   const { account } = args
   try {
     if (!ACCOUNT_SHAPE.test(account)) {
-      return { kind: "refused", account, why: `\`${account}\` is not an account name this writes a path from` }
+      return {
+        kind: "refused",
+        account,
+        why: `\`${account}\` is not an account name this writes a path from`,
+      }
     }
     if (akashaAccountPath(account) === null) {
-      return { kind: "skipped", account, why: `no page stands for \`${account}\`, and a secret belongs to a page` }
+      return {
+        kind: "skipped",
+        account,
+        why: `no page stands for \`${account}\`, and a secret belongs to a page`,
+      }
     }
     const sidecar = akashaSecretPath(account)
     if (sidecar === null) {
