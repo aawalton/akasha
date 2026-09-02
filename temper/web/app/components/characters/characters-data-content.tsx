@@ -13,7 +13,7 @@ import { applyCharacterMetadata } from "@temper/game-characters/build-metadata"
 import { useAllCharacterList, useCharacterLifecycle } from "@temper/game-characters-character-ui/use-characters"
 import { decodeBuild } from "@temper/game-codec/character/build-codec"
 import { useCompletionCharactersByUser } from "@temper/player-completion-ui/use-completion"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
 import {
@@ -124,7 +124,7 @@ export function CharactersDataContent({
   const decodedBuilds = useMemo<DecodedBuild[]>(() => {
     return builds.map((build) => {
       const metadata = build.buildMetadata
-      const decoded = build.buildHash !== "" ? decodeBuild(BuildHash(build.buildHash)) : null
+      const decoded = build.buildHash !== "" ? decodeBuild(toBuildHash(build.buildHash)) : null
       const buildData = decoded && metadata ? applyCharacterMetadata(decoded, metadata) : null
       return {
         id: build.id,

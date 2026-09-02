@@ -1,4 +1,4 @@
-import type { CadwellLevel, CadwellPOI, CadwellProgress, CadwellZone } from "@temper/game-completion/completion-types"
+import type { CadwellLevel, CadwellPOI, CadwellProgress, CadwellZone } from "@akasha/temper-completion/completion-progress"
 import { getSavedVariables } from "../saved-variables"
 export const CADWELL_LEVELS = [
   CADWELL_PROGRESSION_LEVEL_BRONZE,

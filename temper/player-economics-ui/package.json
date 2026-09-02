@@ -4,8 +4,9 @@
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
     "@akasha/design-system": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters": "workspace:*",
     "@temper/game-codec": "workspace:*",
     "@temper/game-companions-core": "workspace:*",
@@ -16,7 +17,6 @@
     "@temper/player-economics-core": "workspace:*",
     "@temper/player-inventory-management-ui": "workspace:*",
     "@temper/player-profile": "workspace:*",
-    "@temper/shared-formula-framework": "workspace:*",
     "lucide-react": "^0.576.0",
     "zod": "^4.3.6"
   },

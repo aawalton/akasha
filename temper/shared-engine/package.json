@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@akasha/pages-url": "workspace:*",
-    "@temper/shared-formula-framework": "workspace:*"
+    "@akasha/temper-formula-framework": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

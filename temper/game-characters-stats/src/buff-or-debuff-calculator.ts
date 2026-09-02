@@ -1,7 +1,7 @@
-import { type BuffOrDebuffSource, buffOrDebuff } from "@temper/shared-formula-framework/buff-or-debuff-source"
-import { type BuffOrDebuffEffect } from "@temper/shared-formula-framework/effects-types"
-import { type EffectSource, isNamedSource } from "@temper/shared-formula-framework/effect-source"
-import { isBuffOrDebuffEffect } from "@temper/shared-formula-framework/effects-types"
+import { type BuffOrDebuffSource, buffOrDebuff } from "@akasha/temper-formula-framework/buff-or-debuff-source"
+import { type BuffOrDebuffEffect } from "@akasha/temper-formula-framework/effect"
+import { type EffectSource, isNamedSource } from "@akasha/temper-formula-framework/effect-source"
+import { isBuffOrDebuffEffect } from "@akasha/temper-formula-framework/effect"
 
 function getBuffOrDebuffId(effect: BuffOrDebuffEffect): string {
   return "buffId" in effect ? effect.buffId : effect.debuffId

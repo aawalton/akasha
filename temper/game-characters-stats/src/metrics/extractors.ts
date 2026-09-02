@@ -1,6 +1,6 @@
-import type { EffectSource } from "@temper/shared-formula-framework/effect-source"
-import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
-import { isMetricEffect } from "@temper/shared-formula-framework/effects-types"
+import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
+import { isMetricEffect } from "@akasha/temper-formula-framework/effect"
 
 export function getAttributeEffects(
   metricId: MetricId | readonly MetricId[],

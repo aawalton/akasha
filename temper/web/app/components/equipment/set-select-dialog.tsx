@@ -1,6 +1,6 @@
 "use client"
 
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { canClassEquipSet } from "@temper/game-characters-equipment/sets/class-restrictions"
 import { convertIconPathToUrl } from "@temper/game-characters-equipment/sets/get-equipment-icon"
 import {
@@ -19,7 +19,7 @@ import {
   type SetsAllId,
 } from "@temper/game-characters-equipment/sets/sets-all-data"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import { valuesOf } from "@temper/shared-formula-framework/object-utils"
+import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
 import { Shield } from "lucide-react"
 import { useMemo } from "react"
 import { FilterableSelectDialog } from "@/components/ui/filterable-select-dialog"

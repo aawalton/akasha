@@ -1,11 +1,11 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import type { PotionSource } from "@temper/game-items-alchemy/potions-source"
-import type { BuffOrDebuffSource } from "@temper/shared-formula-framework/buff-or-debuff-source"
-import type { BuffOrDebuffEffect } from "@temper/shared-formula-framework/effects-types"
-import type { EffectSource } from "@temper/shared-formula-framework/effect-source"
-import type { SkillSource } from "@temper/shared-formula-framework/skill-source"
+import type { PotionSource } from "@akasha/temper-alchemy/potion-source"
+import type { BuffOrDebuffSource } from "@akasha/temper-formula-framework/buff-or-debuff-source"
+import type { BuffOrDebuffEffect } from "@akasha/temper-formula-framework/effect"
+import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
+import type { SkillSource } from "@akasha/temper-formula-framework/skill-source"
 import { getMetricDisplayName, metrics } from "./metrics/metrics.generated"
-import { isBuffOrDebuffEffect, isMetricEffect, type MetricEffect } from "@temper/shared-formula-framework/effects-types"
+import { isBuffOrDebuffEffect, isMetricEffect, type MetricEffect } from "@akasha/temper-formula-framework/effect"
 
 function getBuffOrDebuffId(effect: BuffOrDebuffEffect): string {
   return "buffId" in effect ? effect.buffId : effect.debuffId

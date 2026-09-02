@@ -5,7 +5,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import type { FoodOrDrinkId } from "@temper/game-characters-character/food-and-drink/food-or-drink-source"
 import type { MundusId } from "@temper/game-characters-character/mundus-source"
-import { type PotionId, potions } from "@temper/game-items-alchemy/potions-source"
+import { type PotionId, potions } from "@akasha/temper-alchemy/potion-source"
 import { Info } from "lucide-react"
 import { useState } from "react"
 import {

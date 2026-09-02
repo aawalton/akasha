@@ -12,7 +12,7 @@
  */
 
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
-import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import type { MetricTemplate } from "./metric-template"
 import { METRICS_DATA_AD } from "./metrics-data-ad.generated"
 import { METRICS_DATA_EH } from "./metrics-data-eh.generated"

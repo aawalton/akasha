@@ -1,1 +1,1 @@
-export { isMetricEffect } from "@temper/shared-formula-framework/effects-types"
+export { isMetricEffect } from "@akasha/temper-formula-framework/effect"

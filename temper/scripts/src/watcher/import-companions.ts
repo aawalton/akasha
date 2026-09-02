@@ -6,7 +6,7 @@ import { companionRoles } from "@temper/game-companions-core/generated/temper-co
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
 import { companions, getCompanionIdByDefId } from "@temper/game-companions-core/companions-data"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 
 function toLuaKeyedRecord(value: unknown): Record<string, unknown> {
@@ -103,7 +103,7 @@ interface CompanionImportPlan {
 function planCompanionImport(content: string): CompanionImportPlan {
   const entries = parseSavedVariables(content)
   const actions: CompanionImportAction[] = entries.map((entry) => {
-    const decoded = decodeCompanion(BuildHash(entry.hash))
+    const decoded = decodeCompanion(buildHash(entry.hash))
     if (!decoded) {
       return {
         action: "skip",

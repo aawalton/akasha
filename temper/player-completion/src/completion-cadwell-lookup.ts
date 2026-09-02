@@ -1,4 +1,4 @@
-import type { CadwellProgress, CharacterCompletion } from "@temper/game-completion/completion-types"
+import type { CadwellProgress, CharacterCompletion } from "@akasha/temper-completion/completion-progress"
 import { cadwellData } from "./generated/cadwell-data.generated"
 
 export interface CadwellCoordinate {

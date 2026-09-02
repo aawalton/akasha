@@ -1,15 +1,14 @@
 {
   "name": "@temper/player-build-validation",
   "dependencies": {
+    "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",
     "@temper/game-codec": "workspace:*",
     "@temper/game-companions-core": "workspace:*",
-    "@temper/game-completion": "workspace:*",
     "@temper/shared-engine": "workspace:*",
-    "@temper/shared-formula-framework": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

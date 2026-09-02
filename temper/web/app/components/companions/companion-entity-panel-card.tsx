@@ -22,7 +22,7 @@ import {
   getWeaponRole,
 } from "@temper/game-companions-core/equipment/companion-weapon-roles-data"
 import { companionUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { Search, Trophy } from "lucide-react"
 
 interface CompanionPlanBuild {
@@ -61,7 +61,7 @@ function BuildRow({ build, variant }: { build: CompanionPlanBuild; variant: "liv
 
   return (
     <Link
-      href={`${companionUrl(BuildId(build.id), build.name)}?tab=companion`}
+      href={`${companionUrl(toBuildId(build.id), build.name)}?tab=companion`}
       className={`flex cursor-pointer flex-col gap-1 rounded-lg ${surfaceClass(surface + 1)} px-3 py-2.5 transition-colors hover:bg-surface-3`}
     >
       <div className="flex items-center justify-between gap-2">

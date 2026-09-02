@@ -1,10 +1,10 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
-import type { EffectSource } from "@temper/shared-formula-framework/effect-source"
-import { evaluateArithmeticNode } from "@temper/shared-formula-framework/formula-evaluator"
-import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
-import { convertRatingToChance } from "@temper/shared-formula-framework/rating-utils"
-import { sourceCategories } from "@temper/shared-formula-framework/source-categories-data"
+import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
+import { evaluateArithmeticNode } from "@akasha/temper-formula-framework/arithmetic-evaluate"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
+import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
+import { sourceCategories } from "@akasha/temper-formula-framework/source-category"
 import {
   getAttributeEffects,
   getConditionalChanceEffects,

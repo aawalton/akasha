@@ -9,7 +9,7 @@ import {
 } from "@temper/game-characters-equipment/quality-data"
 import { createSetSource, type SetSource } from "@temper/game-characters-equipment/sets/set-source"
 import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
-import { valuesOf } from "@temper/shared-formula-framework/object-utils"
+import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
 import type { PipelineStage } from "./types"
 
 function getSetInfo(

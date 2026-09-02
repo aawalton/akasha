@@ -1,9 +1,9 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { buffOrDebuff } from "@temper/shared-formula-framework/buff-or-debuff-source"
-import { type BuffOrDebuffEffect } from "@temper/shared-formula-framework/effects-types"
-import { formatPercent } from "@temper/shared-formula-framework/format"
+import { buffOrDebuff } from "@akasha/temper-formula-framework/buff-or-debuff-source"
+import { type BuffOrDebuffEffect } from "@akasha/temper-formula-framework/effect"
+import { formatPercent } from "@akasha/temper-formula-framework/number-format"
 import { getMetricDisplayName, metrics } from "./metrics.generated"
-import { type Effect, isBuffOrDebuffEffect, isMetricEffect, type MetricEffect } from "@temper/shared-formula-framework/effects-types"
+import { type Effect, isBuffOrDebuffEffect, isMetricEffect, type MetricEffect } from "@akasha/temper-formula-framework/effect"
 
 function resolveMetricName(metricId: string): string {
   return metrics.has(metricId) ? getMetricDisplayName(metricId) : metricId

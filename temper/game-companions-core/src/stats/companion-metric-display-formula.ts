@@ -2,14 +2,14 @@ import { assertNever } from "@akasha/utils-narrow/assert-never"
 import {
   convertArithmeticToDisplay,
   type DisplayResult,
-} from "@temper/shared-formula-framework/display-formula-converter"
+} from "@akasha/temper-formula-framework/display-formula-convert"
 import type {
   DisplayFormulaNode,
   NumberFormat,
-} from "@temper/shared-formula-framework/display-formula-types"
-import { formatDecimal } from "@temper/shared-formula-framework/format"
-import { convertRatingToChance } from "@temper/shared-formula-framework/rating-utils"
-import { sourceCategories } from "@temper/shared-formula-framework/source-categories-data"
+} from "@akasha/temper-formula-framework/display-formula-node"
+import { formatDecimal } from "@akasha/temper-formula-framework/number-format"
+import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
+import { sourceCategories } from "@akasha/temper-formula-framework/source-category"
 import type { CompanionBaseRoleId } from "../companion-base-roles-data"
 import type { CompanionEffectSource } from "./companion-effect-sources"
 import { COMPANION_CATEGORIES, type CompanionMetricValue, companionMetrics, getCompanionMetricName } from "./companion-metrics.generated"

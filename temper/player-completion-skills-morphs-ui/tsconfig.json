@@ -17,9 +17,6 @@
   },
   "references": [
     {
-      "path": "../game-characters-classes"
-    },
-    {
       "path": "../player-completion"
     },
     {

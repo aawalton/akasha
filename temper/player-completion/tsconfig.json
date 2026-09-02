@@ -11,16 +11,7 @@
   },
   "references": [
     {
-      "path": "../shared-formula-framework"
-    },
-    {
       "path": "../game-completion"
-    },
-    {
-      "path": "../game-characters-champion-points"
-    },
-    {
-      "path": "../game-characters-classes"
     },
     {
       "path": "../game-companions-core"

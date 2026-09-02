@@ -1,5 +1,5 @@
 import type { MetricValue } from "@temper/game-characters-stats/metrics/types"
-import type { BuffOrDebuffSource } from "@temper/shared-formula-framework/buff-or-debuff-source"
+import type { BuffOrDebuffSource } from "@akasha/temper-formula-framework/buff-or-debuff-source"
 import { useState } from "react"
 
 export function useStatsUIState() {

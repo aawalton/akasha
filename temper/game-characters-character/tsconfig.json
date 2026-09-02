@@ -11,19 +11,7 @@
   },
   "references": [
     {
-      "path": "../game-items-alchemy"
-    },
-    {
-      "path": "../game-characters-champion-points"
-    },
-    {
-      "path": "../game-characters-classes"
-    },
-    {
       "path": "../game-characters-equipment"
-    },
-    {
-      "path": "../shared-formula-framework"
     },
     {
       "path": "../game-characters-skills"

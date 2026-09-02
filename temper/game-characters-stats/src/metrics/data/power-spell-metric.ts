@@ -1,4 +1,4 @@
-import { POWER_LEVEL_BASE } from "@temper/shared-formula-framework/base-stat-constants"
+import { POWER_LEVEL_BASE } from "@akasha/temper-formula-framework/base-stat"
 import type { MetricTemplate } from "../metric-template"
 
 export const powerSpellMetric = {

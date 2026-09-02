@@ -7,7 +7,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 import { useMemo } from "react"
 
 const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"

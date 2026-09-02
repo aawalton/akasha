@@ -22,7 +22,7 @@ import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-cod
 import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { createEmptyCompanion } from "@temper/game-companions-core/companion-factory"
 import { toVisibility } from "@temper/game-companions-core/companion-types"
-import { BuildHash, BuildId } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash, buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"
@@ -181,7 +181,7 @@ async function loadCharacterDetail(page: Record<string, unknown>, request: Reque
   let initialBuildHash = buildHash
   let decodeFailed = false
   if (buildHash !== "") {
-    const decoded = decodeBuild(BuildHash(buildHash))
+    const decoded = decodeBuild(toBuildHash(buildHash))
     if (decoded) {
       initialBuild = applyCharacterMetadata(decoded, metadata ?? EMPTY_CHARACTER_METADATA)
     } else {
@@ -237,7 +237,7 @@ async function loadCompanionDetail(page: Record<string, unknown>, request: Reque
   let initialBuildHash = buildHash
   let decodeFailed = false
   if (buildHash !== "") {
-    const decoded = decodeCompanion(BuildHash(buildHash))
+    const decoded = decodeCompanion(toBuildHash(buildHash))
     if (decoded) {
       initialBuild = applyCompanionMetadata(decoded, metadata ?? EMPTY_COMPANION_METADATA)
     } else {
@@ -282,7 +282,7 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
   if (loaderData.kind === "character") {
     return (
       <CharacterEditor
-        buildId={BuildId(loaderData.buildId)}
+        buildId={toBuildId(loaderData.buildId)}
         initialTab={tab}
         initialBuild={loaderData.initialBuild}
         initialBuildHash={loaderData.initialBuildHash}
@@ -298,7 +298,7 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
   if (loaderData.kind === "companion") {
     return (
       <CompanionEditor
-        buildId={BuildId(loaderData.buildId)}
+        buildId={toBuildId(loaderData.buildId)}
         initialTab={tab}
         initialBuild={loaderData.initialBuild}
         initialBuildHash={loaderData.initialBuildHash}

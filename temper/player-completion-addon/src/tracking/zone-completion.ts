@@ -1,4 +1,4 @@
-import type { SparseZoneCompletion } from "@temper/game-completion/completion-types"
+import type { SparseZoneCompletion } from "@akasha/temper-completion/completion-progress"
 import { getSavedVariables } from "../saved-variables"
 export function scanZoneCompletion(): SparseZoneCompletion {
   const result: SparseZoneCompletion = {}

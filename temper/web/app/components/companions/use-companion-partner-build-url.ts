@@ -2,7 +2,7 @@ import type { CompanionVisibility } from "@temper/game-companions-core/companion
 import type { useCompanionList } from "@temper/game-companions-ui/use-companions"
 import type { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { companionUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useMemo } from "react"
 
 type CompletionCompanions = ReturnType<typeof useCompletionCompanions>["companions"]
@@ -20,7 +20,7 @@ export function useCompanionPartnerBuildUrl(
     for (const entity of completionCompanions) {
       if (visibility === "live" && entity.liveBuildId === buildId && entity.targetBuildId != null) {
         const partner = companionBuilds.find((b) => b.id === entity.targetBuildId)
-        return companionUrl(BuildId(entity.targetBuildId), partner?.buildMetadata?.name)
+        return companionUrl(toBuildId(entity.targetBuildId), partner?.buildMetadata?.name)
       }
       if (
         visibility === "target" &&
@@ -28,7 +28,7 @@ export function useCompanionPartnerBuildUrl(
         entity.liveBuildId != null
       ) {
         const partner = companionBuilds.find((b) => b.id === entity.liveBuildId)
-        return companionUrl(BuildId(entity.liveBuildId), partner?.buildMetadata?.name)
+        return companionUrl(toBuildId(entity.liveBuildId), partner?.buildMetadata?.name)
       }
     }
     return undefined

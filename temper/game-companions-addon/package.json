@@ -9,10 +9,9 @@
     "@temper/shared-narrow": "workspace:*"
   },
   "devDependencies": {
-    "typescript": "^5.8.3",
     "@temper/game-codec": "workspace:*",
     "@temper/game-companions-core": "workspace:*",
-    "@temper/shared-formula-framework": "workspace:*"
+    "typescript": "^5.8.3"
   },
   "functionalType": "addon",
   "version": "0.1.0",

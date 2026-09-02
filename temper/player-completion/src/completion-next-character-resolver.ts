@@ -1,4 +1,4 @@
-import type { CharacterCompletion } from "@temper/game-completion/completion-types"
+import type { CharacterCompletion } from "@akasha/temper-completion/completion-progress"
 import type { CompletionCardChecker } from "./completion-card-checker-types"
 import { COMPLETION_CARD_CHECKERS } from "./completion-card-checkers"
 import type { AnyCompletionCardId } from "./completion-card-id"

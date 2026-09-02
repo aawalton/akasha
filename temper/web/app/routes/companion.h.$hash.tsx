@@ -1,5 +1,5 @@
 import { companionUrl } from "@temper/shared-engine/utils/slug"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import { z } from "zod"
 import { importCompanionFromHash } from "@/app/companions/import-actions"
 import type { Route } from "./+types/companion.h.$hash"
@@ -9,7 +9,7 @@ export async function loader({ request, params }: Route.LoaderArgs): Promise<Res
   const baseUrl = z.string().optional().parse(process.env["BASE_URL"])
   const origin = baseUrl ?? new URL(request.url).origin
 
-  const { result, headers: importHeaders } = await importCompanionFromHash(request, BuildHash(hash))
+  const { result, headers: importHeaders } = await importCompanionFromHash(request, buildHash(hash))
 
   const redirect = (location: string): Response => {
     const headers = new Headers({ Location: location })

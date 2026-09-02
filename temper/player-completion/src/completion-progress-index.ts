@@ -3,7 +3,7 @@ import { joinPath } from "@akasha/utils-narrow/join-path"
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 import { COMPLETION_CARD_CHECKERS } from "./completion-card-checkers"
 import { ACCOUNT_COMPLETION_CARD_CHECKERS } from "./account-checkers"
 import { type AnyCompletionCardId, isAnyCompletionCardId } from "./completion-card-id"

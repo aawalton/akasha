@@ -1,4 +1,4 @@
-import type { CharacterCompletion } from "@temper/game-completion/completion-types"
+import type { CharacterCompletion } from "@akasha/temper-completion/completion-progress"
 import type { CompletionCharacterRow } from "./completion-character-row-type"
 import { isCharacterMeasured } from "./completion-measured"
 import type {

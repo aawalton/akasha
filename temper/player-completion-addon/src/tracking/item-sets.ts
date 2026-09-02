@@ -1,4 +1,4 @@
-import type { ItemSetProgress } from "@temper/game-completion/completion-writer-types"
+import type { ItemSetProgress } from "@akasha/temper-completion/completion-record"
 import { getSavedVariables } from "../saved-variables"
 export function resolveCategoryNames(itemSetId: number): {
   categoryName?: string

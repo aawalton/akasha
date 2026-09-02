@@ -2,7 +2,7 @@ import type { CharacterVisibility } from "@temper/game-characters-character/buil
 import type { useCharacterList } from "@temper/game-characters-character-ui/use-characters"
 import type { useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
 import { characterUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useMemo } from "react"
 
 type CompletionCharacters = ReturnType<typeof useCompletionCharacters>["characters"]
@@ -19,7 +19,7 @@ export function usePartnerBuildUrl(
     for (const entity of completionCharacters) {
       if (visibility === "live" && entity.liveBuildId === buildId && entity.targetBuildId != null) {
         const partner = characterBuilds.find((b) => b.id === entity.targetBuildId)
-        return characterUrl(BuildId(entity.targetBuildId), partner?.buildMetadata?.name)
+        return characterUrl(toBuildId(entity.targetBuildId), partner?.buildMetadata?.name)
       }
       if (
         visibility === "target" &&
@@ -27,7 +27,7 @@ export function usePartnerBuildUrl(
         entity.liveBuildId != null
       ) {
         const partner = characterBuilds.find((b) => b.id === entity.liveBuildId)
-        return characterUrl(BuildId(entity.liveBuildId), partner?.buildMetadata?.name)
+        return characterUrl(toBuildId(entity.liveBuildId), partner?.buildMetadata?.name)
       }
     }
     return undefined

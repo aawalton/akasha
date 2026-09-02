@@ -1,5 +1,5 @@
-import type { AccountCompletion } from "@temper/game-completion/completion-writer-types"
-import type { AchievementCriteriaProgress } from "@temper/game-completion/completion-types"
+import type { AccountCompletion } from "@akasha/temper-completion/completion-record"
+import type { AchievementCriteriaProgress } from "@akasha/temper-completion/completion-progress"
 import type { SavedCharacterEntry } from "../saved-variables"
 import {
   getAccountAchievementCategoryMap,

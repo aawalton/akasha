@@ -11,9 +11,6 @@
   },
   "references": [
     {
-      "path": "../game-items-alchemy"
-    },
-    {
       "path": "../game-characters-character"
     },
     {
@@ -24,9 +21,6 @@
     },
     {
       "path": "../shared-engine"
-    },
-    {
-      "path": "../shared-formula-framework"
     },
     {
       "path": "../game-items-core"

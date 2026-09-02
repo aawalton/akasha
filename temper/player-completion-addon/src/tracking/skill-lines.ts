@@ -1,4 +1,4 @@
-import type { SkillLineProgress } from "@temper/game-completion/completion-types"
+import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 import { getSavedVariables } from "../saved-variables"
 import { mergeSkillLineProgress } from "./skill-lines-merge"
 

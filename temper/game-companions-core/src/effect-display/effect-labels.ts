@@ -8,7 +8,7 @@ import type {
 } from "@temper/game-characters-skills/skill-buff-debuff-types"
 import { specialEffectTypes } from "@temper/game-characters-skills/special-effect-type-data"
 import { statusEffectTypes } from "@temper/game-characters-skills/status-effect-type-data"
-import { buffOrDebuff } from "@temper/shared-formula-framework/buff-or-debuff-source"
+import { buffOrDebuff } from "@akasha/temper-formula-framework/buff-or-debuff-source"
 import { companionActivationBuffs } from "../generated/temper-companion-activation-buff.generated"
 import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"
 import { companionPassiveMetrics } from "../stats/companion-passive-metric-data"

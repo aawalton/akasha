@@ -1,4 +1,4 @@
-import type { BuildId } from "@temper/shared-formula-framework/branded"
+import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { z } from "zod"
 
 export interface CharacterVersion {

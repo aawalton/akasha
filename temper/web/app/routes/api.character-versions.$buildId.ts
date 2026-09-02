@@ -1,7 +1,7 @@
 import { getPages } from "@akasha/pages-access/get"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { Route } from "./+types/api.character-versions.$buildId"
 
 interface CharacterVersion {
@@ -34,7 +34,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
     headers.append("Set-Cookie", value)
   }
 
-  const buildId = BuildId(params.buildId)
+  const buildId = toBuildId(params.buildId)
 
   try {
     const { rows } = await getPages({

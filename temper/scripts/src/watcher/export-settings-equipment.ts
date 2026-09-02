@@ -15,7 +15,7 @@ import {
   resolveCharacterToggles,
   resolveCompanionToggles,
 } from "@temper/shared-engine/automation/automation-settings-types"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 
 export async function readCharactersWithTargetBuilds(userId: string): Promise<
   Array<{
@@ -127,7 +127,7 @@ export async function compileWantedEquipment(
     )
     if (!charToggles.equipment) continue
 
-    const decoded = decodeBuild(BuildHash(char.targetBuildHash))
+    const decoded = decodeBuild(toBuildHash(char.targetBuildHash))
     if (!decoded) continue
 
     signatures.push(...compileWantedEquipmentForBuild(decoded, char.esoCharacterId))
@@ -154,7 +154,7 @@ export async function compileWantedCompanionEquipment(
     )
     if (!compToggles.equipment) continue
 
-    const decoded = decodeCompanion(BuildHash(row.targetBuildHash))
+    const decoded = decodeCompanion(toBuildHash(row.targetBuildHash))
     if (!decoded) continue
 
     signatures.push(...compileWantedCompanionEquipmentForBuild(decoded, row.companionId))

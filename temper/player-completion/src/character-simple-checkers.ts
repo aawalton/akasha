@@ -1,4 +1,4 @@
-import { getEsoDateString } from "@temper/shared-formula-framework/eso-date"
+import { getEsoDateString } from "@akasha/temper-formula-framework/eso-date"
 import type { CompletionCardChecker } from "./completion-card-checker-types"
 import type { CharacterCardId } from "./completion-card-registry"
 import { questData } from "./generated/quest-data.generated"

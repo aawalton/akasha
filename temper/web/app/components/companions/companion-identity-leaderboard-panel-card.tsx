@@ -13,7 +13,7 @@ import {
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
 import { companions } from "@temper/game-companions-core/companions-data"
 import { companionUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useMemo } from "react"
 import { LEADERBOARD_COLUMNS } from "@/components/companions/leaderboard-columns"
 
@@ -93,7 +93,7 @@ export function CompanionIdentityLeaderboardPanelCard({
                 </TableCell>
                 <TableTotalCell className={accentClass}>
                   <Link
-                    href={companionUrl(BuildId(entry.buildId), entry.buildName)}
+                    href={companionUrl(toBuildId(entry.buildId), entry.buildName)}
                     className="cursor-pointer"
                   >
                     <TableValue

@@ -1,5 +1,5 @@
 import { targetArmor } from "@temper/game-characters-character/target-armor-data"
-import type { SourceCategoryId } from "@temper/shared-formula-framework/source-categories-data"
+import type { SourceCategoryId } from "@akasha/temper-formula-framework/source-category"
 import type { CompanionState } from "../companion-types"
 import { companions } from "../companions-data"
 import { getCompanionArmorBaseValue } from "../equipment/companion-armor-base-values-data"

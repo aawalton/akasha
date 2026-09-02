@@ -2,7 +2,7 @@ import type {
   AccountAchievementProgress,
   AccountCompletion,
   CharacterAchievementProgress,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 import type { CompletionCharacterRow } from "./completion-character-row-type"
 import { isCharacterMeasured } from "./completion-measured"
 import {

@@ -13,7 +13,8 @@ import { useCharacter as useCharacterZero } from "@temper/game-characters-charac
 import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
 import type { Skill } from "@temper/game-characters-skills/skills-data"
 import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-codec"
-import { BuildHash, type BuildId } from "@temper/shared-formula-framework/branded"
+import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { createContext, type ReactNode, useCallback, useReducer } from "react"
 import { useBuildSync } from "@/hooks/use-build-sync"
 import type { CharacterAction } from "./character-actions"
@@ -90,7 +91,7 @@ export function CharacterProvider({
 
   const decodeForSync = useCallback(
     (hash: string, metadata: CharacterBuildMetadata): CharacterState => {
-      const decoded = decodeBuild(BuildHash(hash))
+      const decoded = decodeBuild(toBuildHash(hash))
       if (!decoded) return initialBuild
       return applyCharacterMetadata(decoded, metadata)
     },

@@ -11,7 +11,7 @@ import {
   pickRelevantSkillLineIds,
   selectMorphSuggestions,
 } from "@temper/game-characters-skills-morphs-core/select-morph-suggestions"
-import type { SkillLineProgress } from "@temper/game-completion/completion-types"
+import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 import {
   getSavedVariables,
   type TaskData,

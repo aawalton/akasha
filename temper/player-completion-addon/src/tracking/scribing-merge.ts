@@ -1,4 +1,4 @@
-import type { GrimoireEntry, ScribingProgress, ScriptEntry } from "@temper/game-completion/completion-types"
+import type { GrimoireEntry, ScribingProgress, ScriptEntry } from "@akasha/temper-completion/completion-progress"
 
 function preferPopulated(stored: string, fresh: string): string {
   return fresh !== "" ? fresh : stored

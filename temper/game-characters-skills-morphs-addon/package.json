@@ -1,9 +1,9 @@
 {
   "name": "@temper/game-characters-skills-morphs-addon",
   "dependencies": {
+    "@akasha/temper-completion": "workspace:*",
     "@temper/game-characters-capture-addon": "workspace:*",
     "@temper/game-characters-skills-morphs-core": "workspace:*",
-    "@temper/game-completion": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },
   "devDependencies": {

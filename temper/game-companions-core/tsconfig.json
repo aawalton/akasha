@@ -11,9 +11,6 @@
   },
   "references": [
     {
-      "path": "../shared-formula-framework"
-    },
-    {
       "path": "../game-characters-character"
     },
     {

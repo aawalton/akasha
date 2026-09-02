@@ -1,12 +1,12 @@
 import {
   type BuffOrDebuffId,
   buffOrDebuff,
-} from "@temper/shared-formula-framework/buff-or-debuff-source"
-import type { EffectSource } from "@temper/shared-formula-framework/effect-source"
+} from "@akasha/temper-formula-framework/buff-or-debuff-source"
+import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 import { metrics } from "./metrics/metrics.generated"
-import { type MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
-import type { Effect } from "@temper/shared-formula-framework/effects-types"
-import { isBuffOrDebuffEffect, isMetricEffect } from "@temper/shared-formula-framework/effects-types"
+import { type MetricId } from "@akasha/temper-formula-framework/metric-id"
+import type { Effect } from "@akasha/temper-formula-framework/effect"
+import { isBuffOrDebuffEffect, isMetricEffect } from "@akasha/temper-formula-framework/effect"
 
 interface EffectSourceDiff {
   added: readonly EffectSource[]

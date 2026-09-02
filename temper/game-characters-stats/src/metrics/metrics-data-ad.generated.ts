@@ -7,7 +7,7 @@
  * Partial METRICS_DATA partition. Merged in metrics.ts.
  */
 
-import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import { alliancePointsGainMetric } from "./data/alliance-points-gain-metric"
 import { attackCritDamageSpellMetric } from "./data/attack-crit-damage-spell-metric"
 import { attackCritDamageWeaponMetric } from "./data/attack-crit-damage-weapon-metric"

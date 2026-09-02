@@ -1,4 +1,5 @@
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import type { BuildHash } from "@akasha/temper-formula-framework/branded-id"
+import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import type { CompanionState } from "../companion-types"
 import { computeReferenceBaseline } from "./companion-support-baseline"
 import type { ReferenceBaseline } from "./companion-support-types"
@@ -28,7 +29,7 @@ const getReferenceBuild = once((): CompanionState => {
     throw new Error(
       "Companion decoder not registered — import @temper/game-codec to trigger registerCompanionDecoder()"
     )
-  const decoded = _decoder(BuildHash(REFERENCE_BUILD_CODE))
+  const decoded = _decoder(buildHash(REFERENCE_BUILD_CODE))
   if (!decoded) throw new Error("Failed to decode reference build")
   return decoded
 })

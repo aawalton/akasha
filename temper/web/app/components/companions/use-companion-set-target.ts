@@ -11,7 +11,7 @@ import { companions as companionsData } from "@temper/game-companions-core/compa
 import { useCompanionLifecycle, useCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useMemo, useState, useTransition } from "react"
 import type { SetTargetEntity } from "@/components/ui/set-target-dialog"
 
@@ -49,7 +49,7 @@ export function useCompanionSetTarget({
     const sourceBuild = buildMap.get(buildId)
     if (sourceBuild?.buildHash == null) return null
 
-    const sourceState = decodeCompanion(BuildHash(sourceBuild.buildHash))
+    const sourceState = decodeCompanion(toBuildHash(sourceBuild.buildHash))
     if (!sourceState) return null
 
     const sourceMetadata = sourceBuild.buildMetadata
@@ -111,7 +111,7 @@ export function useCompanionSetTarget({
 
         const companionName = companionsData.data[companionId]?.name ?? "Unknown"
         const decoded =
-          refBuild?.buildHash != null ? decodeCompanion(BuildHash(refBuild.buildHash)) : null
+          refBuild?.buildHash != null ? decodeCompanion(toBuildHash(refBuild.buildHash)) : null
         const subtitle = decoded ? getBaseRoleName(decoded.companion.baseRoles) : "No build"
 
         let targetManuallyEdited = false

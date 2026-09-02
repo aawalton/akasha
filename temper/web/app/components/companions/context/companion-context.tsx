@@ -11,7 +11,8 @@ import {
   toVisibility,
 } from "@temper/game-companions-core/companion-types"
 import { useCompanion as useCompanionZero } from "@temper/game-companions-ui/use-companions"
-import { BuildHash, type BuildId } from "@temper/shared-formula-framework/branded"
+import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { type ReactNode, useCallback, useReducer } from "react"
 import { useBuildSync } from "@/hooks/use-build-sync"
 import type { CompanionAction } from "./companion-actions"
@@ -67,7 +68,7 @@ export function CompanionProvider({
 
   const decodeForSync = useCallback(
     (hash: string, metadata: CompanionBuildMetadata): CompanionState => {
-      const decoded = decodeCompanion(BuildHash(hash))
+      const decoded = decodeCompanion(toBuildHash(hash))
       if (!decoded) return initialBuild
       return applyCompanionMetadata(decoded, metadata)
     },

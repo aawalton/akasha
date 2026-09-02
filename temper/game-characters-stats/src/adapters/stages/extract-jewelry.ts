@@ -1,5 +1,5 @@
 import { createJewelrySource } from "@temper/game-characters-equipment/jewelry/jewelry-source"
-import { valuesOf } from "@temper/shared-formula-framework/object-utils"
+import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
 import type { PipelineStage } from "./types"
 
 export const extractJewelry: PipelineStage = (build, _context) => {

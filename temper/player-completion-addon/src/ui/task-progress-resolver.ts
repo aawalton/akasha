@@ -1,5 +1,5 @@
 import { resolveSkillMorphs } from "@temper/game-characters-skills-morphs-addon/ui/task-progress-resolver-skill-morphs"
-import type { AccountCompletion } from "@temper/game-completion/completion-writer-types"
+import type { AccountCompletion } from "@akasha/temper-completion/completion-record"
 import { applyCompletionOverrides } from "@temper/player-completion/completion-overrides"
 import { getCompletionOverridesForCharacter } from "../characters-config"
 import { HIRELING_MAILS_DAILY_TARGET, hirelingCountForToday } from "../hireling-mail-count"

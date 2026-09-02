@@ -1,4 +1,4 @@
-import type { SparseAntiquityLore } from "@temper/game-completion/completion-types"
+import type { SparseAntiquityLore } from "@akasha/temper-completion/completion-progress"
 import { getSavedVariables } from "../saved-variables"
 import { mergeMaxByKey } from "./collector-merge"
 

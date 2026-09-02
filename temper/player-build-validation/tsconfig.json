@@ -11,9 +11,6 @@
   },
   "references": [
     {
-      "path": "../game-completion"
-    },
-    {
       "path": "../game-companions-core"
     }
   ],

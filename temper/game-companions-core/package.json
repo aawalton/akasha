@@ -1,11 +1,11 @@
 {
   "name": "@temper/game-companions-core",
   "dependencies": {
+    "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",
-    "@temper/shared-formula-framework": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

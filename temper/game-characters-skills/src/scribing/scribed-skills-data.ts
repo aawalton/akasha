@@ -1,5 +1,5 @@
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
-import type { ClassId } from "@temper/shared-formula-framework/class-id"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { TEMPER_SCRIBED_SKILLS } from "../generated/temper-scribed-skill.generated"
 import type { SkillTemplate } from "../skills-data"
 import type { FocusScriptId } from "./focus-scripts-data"

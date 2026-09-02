@@ -16,7 +16,7 @@ import { useCompletionCompanions } from "@temper/player-completion-ui/use-comple
 import { useInventory, usePriceExtract } from "@temper/player-inventory-management-ui/hooks-inventory"
 import { type EffectivePricingRegion, type PricingRegionNoteKind, resolvePricingRegion, resolvePricingRegionNote } from "@temper/player-inventory-management-ui/pricing-region"
 import { usePlayer } from "@temper/player-profile/use-player"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useMemo } from "react"
 import {
   type BlendedPriceKey,
@@ -70,7 +70,7 @@ export function useCompanionShoppingData(userId: string | null): CompanionShoppi
     const map = new Map<string, { buildData: CompanionState | null }>()
     for (const build of builds) {
       if (build.userId !== userId) continue
-      const decoded = build.buildHash !== "" ? decodeCompanion(BuildHash(build.buildHash)) : null
+      const decoded = build.buildHash !== "" ? decodeCompanion(toBuildHash(build.buildHash)) : null
       const buildData =
         decoded && build.buildMetadata ? applyCompanionMetadata(decoded, build.buildMetadata) : null
       map.set(build.id, { buildData })

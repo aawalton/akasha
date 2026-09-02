@@ -18,7 +18,7 @@ import { encodeBuild } from "@temper/game-codec/character/build-codec"
 import { useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
 import { characterUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
 import { ClassChangeConfirmationDialog } from "@/components/character/class-change-confirmation-dialog"
@@ -74,7 +74,7 @@ export function CharacterEditorContent({ initialTab }: BuildEditorContentProps) 
       const newBuildMetadata = extractCharacterMetadata(remixedBuild)
       const newId = crypto.randomUUID()
       await remix({ sourceId: buildId, newId, newBuildHash, newBuildMetadata })
-      router.push(`${characterUrl(BuildId(newId), remixedBuild.name)}?tab=general`)
+      router.push(`${characterUrl(toBuildId(newId), remixedBuild.name)}?tab=general`)
     } catch (error) {
       toast.error(error instanceof Error ? error.message : "Failed to remix build")
     } finally {

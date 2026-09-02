@@ -1,4 +1,4 @@
-import type { SkillPointProgress } from "@temper/game-completion/completion-types"
+import type { SkillPointProgress } from "@akasha/temper-completion/completion-progress"
 import { requireFirst } from "@temper/shared-narrow"
 import { getSavedVariables } from "../saved-variables"
 import {

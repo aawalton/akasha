@@ -14,7 +14,7 @@ import {
 import type { CompanionSkillTemplate } from "@temper/game-companions-core/skills/companion-skill-activation-effect-types"
 import { extractSkillTiming } from "@temper/game-companions-core/skills/companion-skill-activation-effect-types"
 import { isResourceCostEffect } from "@temper/game-companions-core/skills/companion-skill-effect-components"
-import { getEsoIconUrl } from "@temper/shared-formula-framework/icon-utils"
+import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { ConstraintBadges } from "@/components/companion-skills/effect-badges/constraint-badges"
 import { EffectBadge } from "@/components/companion-skills/effect-badges/effect-badge"
 import {

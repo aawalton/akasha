@@ -3,13 +3,13 @@ import { collectPages } from "@akasha/pages-access/iterate"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { foodOrDrink } from "@temper/game-characters-character/food-and-drink/food-or-drink-source"
 import { decodeBuild } from "@temper/game-codec/character/build-codec"
-import { potions } from "@temper/game-items-alchemy/potions-source"
+import { potions } from "@akasha/temper-alchemy/potion-source"
 import { computeItemStock } from "@temper/game-items-core/compute-item-stock"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
 import type { InventoryRuleSettings } from "@temper/game-items-rules-core/inventory-rule-types"
 import type { AutomationSettings } from "@temper/shared-engine/automation/automation-settings-types"
 import { resolveCharacterToggles } from "@temper/shared-engine/automation/automation-settings-types"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import { z } from "zod"
 import { readCharactersWithTargetBuilds } from "./export-settings-equipment"
 import { inventorySnapshotName } from "./inventory-snapshot-name"
@@ -55,7 +55,7 @@ export async function compileWantedConsumables(
       automationSettings?.global?.characters
     )
 
-    const decoded = decodeBuild(BuildHash(char.targetBuildHash))
+    const decoded = decodeBuild(buildHash(char.targetBuildHash))
     if (!decoded) continue
 
     if (charToggles.food) {

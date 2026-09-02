@@ -6,8 +6,8 @@ import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 import { explainBuff } from "@temper/game-characters-stats/buff-or-debuff-explainer"
-import type { BuffOrDebuffSource } from "@temper/shared-formula-framework/buff-or-debuff-source"
-import type { EffectSource } from "@temper/shared-formula-framework/effect-source"
+import type { BuffOrDebuffSource } from "@akasha/temper-formula-framework/buff-or-debuff-source"
+import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 
 interface BuffOrDebuffExplanationDialogProps {
   open: boolean

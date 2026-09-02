@@ -1,4 +1,4 @@
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { clearIncompatibleSets } from "@temper/game-characters-equipment/loadout/clear-incompatible-sets"
 import { getSetIdsClassCannotEquip } from "@temper/game-characters-equipment/sets/class-restrictions"
 import {

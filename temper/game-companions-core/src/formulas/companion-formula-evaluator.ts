@@ -1,6 +1,6 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { evaluateArithmeticNode } from "@temper/shared-formula-framework/formula-evaluator"
-import { convertRatingToChance } from "@temper/shared-formula-framework/rating-utils"
+import { evaluateArithmeticNode } from "@akasha/temper-formula-framework/arithmetic-evaluate"
+import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
 import type { CompanionBaseRoleId } from "../companion-base-roles-data"
 import type { CompanionEffectSource } from "../stats/companion-effect-sources"
 import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"

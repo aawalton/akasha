@@ -1,5 +1,5 @@
 import { stripMorphVariantFields } from "@temper/game-characters-skills-morphs-addon/tracking/skill-morph-strip"
-import type { SkillLineProgress } from "@temper/game-completion/completion-types"
+import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 import { ADDON_NAME } from "./constants"
 import { getSavedVariables, type SavedVariablesData } from "./saved-variables"
 import { collectAchievements } from "./tracking/achievements"

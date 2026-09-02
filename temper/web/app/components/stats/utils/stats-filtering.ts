@@ -1,4 +1,4 @@
-import type { NamedSource } from "@temper/shared-formula-framework/effect-source"
+import type { NamedSource } from "@akasha/temper-formula-framework/effect-source"
 
 export function filterEffectsBySearch(
   effects: readonly NamedSource[],

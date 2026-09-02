@@ -2,7 +2,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 
 type EmptyBlob = object | null | undefined
 

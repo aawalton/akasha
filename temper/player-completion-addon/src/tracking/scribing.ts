@@ -1,4 +1,4 @@
-import type { GrimoireEntry, ScribingProgress, ScriptEntry } from "@temper/game-completion/completion-types"
+import type { GrimoireEntry, ScribingProgress, ScriptEntry } from "@akasha/temper-completion/completion-progress"
 import { getSavedVariables } from "../saved-variables"
 import { mergeScribing } from "./scribing-merge"
 

@@ -1,6 +1,6 @@
-import type { EffectSourceInterface } from "@temper/shared-formula-framework/effect-source"
-import type { MetricEffect } from "@temper/shared-formula-framework/effects-types"
-import { createSourceFile } from "@temper/shared-formula-framework/utils/create-source-file"
+import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
+import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
+import { createSourceFile } from "@akasha/temper-formula-framework/source-file"
 
 interface AttributeTemplate extends EffectSourceInterface {
   categoryId: "attributes"

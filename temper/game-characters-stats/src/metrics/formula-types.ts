@@ -6,9 +6,9 @@ import type {
   MaxNode,
   MinNode,
   MultiplyNode,
-} from "@temper/shared-formula-framework/formula-types"
-import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
-import type { SourceCategoryId } from "@temper/shared-formula-framework/source-categories-data"
+} from "@akasha/temper-formula-framework/arithmetic-node"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
+import type { SourceCategoryId } from "@akasha/temper-formula-framework/source-category"
 
 type MetricEffectType =
   | "integer"

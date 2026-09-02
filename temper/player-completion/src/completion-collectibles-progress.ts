@@ -1,4 +1,4 @@
-import type { AccountCompletion } from "@temper/game-completion/completion-types"
+import type { AccountCompletion } from "@akasha/temper-completion/completion-progress"
 import type {
   AccountCollectiblesProgress,
   CollectibleCategoryProgress,

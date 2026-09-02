@@ -4,7 +4,7 @@ import { getMetricDisplayName } from "@temper/game-characters-stats/metrics/metr
 import {
   type BuffOrDebuffId,
   buffOrDebuff,
-} from "@temper/shared-formula-framework/buff-or-debuff-source"
+} from "@akasha/temper-formula-framework/buff-or-debuff-source"
 import { Minus, Plus, TrendingDown, TrendingUp } from "lucide-react"
 
 export interface StatChangeNotification {

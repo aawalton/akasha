@@ -11,7 +11,7 @@ import { createNewCharacter } from "@temper/game-characters-character/build-fact
 import { useCharacterLifecycle } from "@temper/game-characters-character-ui/use-characters"
 import { encodeBuild } from "@temper/game-codec/character/build-codec"
 import { characterUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { Plus } from "lucide-react"
 import { useState } from "react"
 import { toast } from "sonner"
@@ -31,7 +31,7 @@ export function NewCharacterPanelCard() {
       const buildMetadata = extractCharacterMetadata(build)
       const id = crypto.randomUUID()
       await createNew({ id, userId, buildHash, buildMetadata })
-      router.push(`${characterUrl(BuildId(id), build.name)}?tab=character`)
+      router.push(`${characterUrl(buildId(id), build.name)}?tab=character`)
     } catch (error) {
       toast.error(error instanceof Error ? error.message : "Failed to create build")
       setIsCreating(false)

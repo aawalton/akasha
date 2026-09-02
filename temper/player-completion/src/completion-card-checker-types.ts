@@ -1,7 +1,7 @@
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 
 export interface ItemPickerLevel {
   label: string

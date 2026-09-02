@@ -17,7 +17,7 @@ import {
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
 import { useAllCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { CompanionsBuildBrowseTab } from "@/components/companions/companions-build-browse-tab"
 import type { FilterValues } from "@/components/companions/companions-filter-types"
@@ -118,7 +118,7 @@ export function CompanionsDataContent({
   const decodedBuilds = useMemo(() => {
     return builds.map((build) => {
       const metadata = build.buildMetadata
-      const decoded = build.buildHash !== "" ? decodeCompanion(BuildHash(build.buildHash)) : null
+      const decoded = build.buildHash !== "" ? decodeCompanion(toBuildHash(build.buildHash)) : null
       const buildData = decoded && metadata ? applyCompanionMetadata(decoded, metadata) : null
       return {
         id: build.id,

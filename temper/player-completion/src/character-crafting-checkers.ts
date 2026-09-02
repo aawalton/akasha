@@ -2,7 +2,7 @@ import { affixScripts } from "@temper/game-characters-skills/scribing/affix-scri
 import { focusScripts } from "@temper/game-characters-skills/scribing/focus-scripts-data"
 import { grimoires } from "@temper/game-characters-skills/scribing/grimoires-data"
 import { signatureScripts } from "@temper/game-characters-skills/scribing/signature-scripts-data"
-import type { RecipeList } from "@temper/game-completion/completion-types"
+import type { RecipeList } from "@akasha/temper-completion/completion-progress"
 import { recipeData } from "@temper/game-completion/generated/recipe-data.generated"
 import type { CompletionCardChecker } from "./completion-card-checker-types"
 import type { CharacterCardId } from "./completion-card-registry"

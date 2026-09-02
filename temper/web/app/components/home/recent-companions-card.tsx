@@ -11,7 +11,7 @@ import { getBaseRoleName } from "@temper/game-companions-core/companion-base-rol
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import { getCompanionName } from "@temper/game-companions-core/companions-data"
 import { companionUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { FolderOpen } from "lucide-react"
 import { NewCompanionButton } from "@/components/companions/new-companion-button"
 
@@ -70,7 +70,7 @@ export function RecentCompanionsCard({ builds }: RecentCompanionsCardProps) {
             return (
               <Link
                 key={build.id}
-                href={`${companionUrl(BuildId(build.id), build.name)}?tab=companion`}
+                href={`${companionUrl(buildId(build.id), build.name)}?tab=companion`}
                 className={`group -mx-3 flex flex-col gap-1 rounded-lg ${surfaceClass(surface + 1)} px-3 py-2 transition-colors hover:bg-surface-3`}
               >
                 <div className="flex items-center justify-between gap-2">

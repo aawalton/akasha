@@ -6,7 +6,7 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 import { getSkillLineName } from "@temper/game-characters-skills/skill-line-queries"
 import type { Skill } from "@temper/game-characters-skills/skills-data"
-import { getEsoIconUrl } from "@temper/shared-formula-framework/icon-utils"
+import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { Plus, X } from "lucide-react"
 
 interface UltimateSlotCardProps {

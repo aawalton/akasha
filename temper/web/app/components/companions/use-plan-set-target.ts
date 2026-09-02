@@ -9,7 +9,7 @@ import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import { type useAllCompanionList, useCompanionLifecycle } from "@temper/game-companions-ui/use-companions"
 import type { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useCallback, useState, useTransition } from "react"
 
 interface UsePlanSetTargetArgs {
@@ -34,7 +34,7 @@ export function usePlanSetTarget({ buildMap, completionCompanions }: UsePlanSetT
         return
       }
 
-      const sourceState = decodeCompanion(BuildHash(sourceBuild.buildHash))
+      const sourceState = decodeCompanion(toBuildHash(sourceBuild.buildHash))
       if (!sourceState) {
         console.error("Failed to set top build as target: could not decode source build")
         return

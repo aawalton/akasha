@@ -2,7 +2,7 @@ import { transformSubclassingSkillMorphProgress } from "@temper/game-characters-
 import type {
   AccountCompletion,
   CompanionCompletion,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 import {
   transformAccountRecipeUnion,
   transformAccountScribingUnion,

@@ -1,6 +1,6 @@
 import { targetArmor } from "@temper/game-characters-character/target-armor-data"
-import { calculateRatingSurplus } from "@temper/shared-formula-framework/rating-utils"
-import { topologicalSort } from "@temper/shared-formula-framework/topological-sort"
+import { calculateRatingSurplus } from "@akasha/temper-formula-framework/rating-chance"
+import { topologicalSort } from "@akasha/temper-formula-framework/topological-sort"
 import type { CompanionState } from "../companion-types"
 import { DEFAULT_COMPANION_ROTATION_CONFIG } from "../companion-types"
 import { companionBase } from "../companions-base-source"

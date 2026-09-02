@@ -1,6 +1,6 @@
 import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
-import type { ClassId } from "@temper/shared-formula-framework/class-id"
-import type { Effect } from "@temper/shared-formula-framework/effects-types"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { Effect } from "@akasha/temper-formula-framework/effect"
 import type { ArmorTypeId } from "../armor/armor-types-data"
 import type { StandardArmorWeightId } from "../armor/armor-weights-data"
 import type { JewelryTypeId } from "../jewelry/jewelry-types-data"

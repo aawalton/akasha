@@ -1,1 +1,1 @@
-export { championPoints } from "@temper/game-characters-champion-points/champion-points-source"
+export { championPoints } from "@akasha/temper-champion-points/champion-point-source"

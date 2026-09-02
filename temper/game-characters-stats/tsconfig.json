@@ -11,12 +11,6 @@
   },
   "references": [
     {
-      "path": "../shared-formula-framework"
-    },
-    {
-      "path": "../game-items-alchemy"
-    },
-    {
       "path": "../game-characters-character"
     },
     {
@@ -24,9 +18,6 @@
     },
     {
       "path": "../game-characters-skills"
-    },
-    {
-      "path": "../game-characters-champion-points"
     },
     {
       "path": "../shared-engine"

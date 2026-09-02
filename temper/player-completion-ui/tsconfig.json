@@ -23,9 +23,6 @@
       "path": "../../shared/pages-ui"
     },
     {
-      "path": "../game-completion"
-    },
-    {
       "path": "../player-completion"
     }
   ],

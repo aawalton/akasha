@@ -1,13 +1,14 @@
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import { registerCompanionDecoder } from "@temper/game-companions-core/optimizer/reference-build-data"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import type { BuildHash } from "@akasha/temper-formula-framework/branded-id"
+import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import { base64urlToBytes, bytesToBase64url } from "../binary-utils"
 import { COMPANION_BUILD_TYPE, decodeV48, ESO_VERSION_48 } from "./companion-codec-v48"
 import { decodeV49, ESO_VERSION_49, encodeV49 } from "./companion-codec-v49"
 
 export function encodeCompanion(build: CompanionState): BuildHash {
   const bytes = encodeV49(build)
-  return BuildHash(bytesToBase64url(bytes))
+  return buildHash(bytesToBase64url(bytes))
 }
 
 export function decodeCompanion(encoded: BuildHash): CompanionState | null {

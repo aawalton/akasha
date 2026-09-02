@@ -3,7 +3,7 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import { ItemCard } from "@akasha/design-patterns/item-card"
-import type { ChampionPointId } from "@temper/game-characters-champion-points/champion-points-source"
+import type { ChampionPointId } from "@akasha/temper-champion-points/champion-point-source"
 import {
   getCPSkillDescription,
   getCPSkillDisplayName,

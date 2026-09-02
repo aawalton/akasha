@@ -1,10 +1,10 @@
 import { getSubcategory } from "@akasha/utils-narrow/get-subcategory"
-import { championPoints } from "@temper/game-characters-champion-points/champion-points-source"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { championPoints } from "@akasha/temper-champion-points/champion-point-source"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import type { CharacterState } from "./build-types"
 
 export const createNewCharacter = (): CharacterState => ({
-  id: BuildId(""),
+  id: buildId(""),
   name: "New Build",
   description: "",
 
@@ -232,7 +232,7 @@ export const createNewCharacter = (): CharacterState => ({
 
 export const createEmptyCharacter = (): CharacterState => {
   return {
-    id: BuildId(""),
+    id: buildId(""),
     name: "",
     description: "",
 

@@ -3,15 +3,15 @@ import { requireFirst } from "@akasha/utils-narrow/require-first"
 import {
   convertArithmeticToDisplay,
   type DisplayResult,
-} from "@temper/shared-formula-framework/display-formula-converter"
+} from "@akasha/temper-formula-framework/display-formula-convert"
 import type {
   DisplayFormulaNode,
   NumberFormat,
-} from "@temper/shared-formula-framework/display-formula-types"
-import type { EffectSource } from "@temper/shared-formula-framework/effect-source"
-import { formatDecimal } from "@temper/shared-formula-framework/format"
-import { convertRatingToChance } from "@temper/shared-formula-framework/rating-utils"
-import { sourceCategories } from "@temper/shared-formula-framework/source-categories-data"
+} from "@akasha/temper-formula-framework/display-formula-node"
+import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
+import { formatDecimal } from "@akasha/temper-formula-framework/number-format"
+import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
+import { sourceCategories } from "@akasha/temper-formula-framework/source-category"
 import {
   getAttributeEffects,
   getConditionalChanceEffects,
@@ -23,7 +23,7 @@ import {
 } from "./extractors"
 import type { FormulaNode } from "./formula-types"
 import { getAggregateMetricIds } from "./metric-tree"
-import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import { getMetricDisplayName, hasFormula, metrics } from "./metrics.generated"
 import type { MetricValue } from "./types"
 

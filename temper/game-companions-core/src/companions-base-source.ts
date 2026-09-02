@@ -1,5 +1,5 @@
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
-import type { SourceCategoryId } from "@temper/shared-formula-framework/source-categories-data"
+import type { SourceCategoryId } from "@akasha/temper-formula-framework/source-category"
 import type { CompanionEffect } from "./stats/metrics/companion-metric-template"
 
 interface CompanionBaseTemplate {

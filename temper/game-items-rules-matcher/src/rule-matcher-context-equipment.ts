@@ -19,7 +19,7 @@ import {
   resolveCharacterToggles,
   resolveCompanionToggles,
 } from "@temper/shared-engine/automation/automation-settings-types"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 
 export function compileWantedEquipment(
   characters: readonly CompletionCharacterInput[],
@@ -38,7 +38,7 @@ export function compileWantedEquipment(
     const build = buildById.get(char.targetBuildId)
     if (build?.buildHash == null) continue
 
-    const decoded = decodeBuild(BuildHash(build.buildHash))
+    const decoded = decodeBuild(toBuildHash(build.buildHash))
     if (!decoded) continue
 
     signatures.push(...compileWantedEquipmentForBuild(decoded, char.esoCharacterId))
@@ -64,7 +64,7 @@ export function compileWantedCompanionEquipment(
     const build = companionBuildById.get(comp.targetBuildId)
     if (build?.buildHash == null) continue
 
-    const decoded = decodeCompanion(BuildHash(build.buildHash))
+    const decoded = decodeCompanion(toBuildHash(build.buildHash))
     if (!decoded) continue
 
     signatures.push(...compileWantedCompanionEquipmentForBuild(decoded, comp.companionId))

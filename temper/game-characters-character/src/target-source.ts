@@ -1,5 +1,5 @@
-import type { EffectSourceInterface } from "@temper/shared-formula-framework/effect-source"
-import { createSourceFile } from "@temper/shared-formula-framework/utils/create-source-file"
+import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
+import { createSourceFile } from "@akasha/temper-formula-framework/source-file"
 import { targetArmor } from "./target-armor-data"
 
 interface TargetTemplate extends EffectSourceInterface {

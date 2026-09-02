@@ -1,7 +1,7 @@
 "use client"
 
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { armorSlots } from "@temper/game-characters-equipment/armor/armor-slots-data"
 import { jewelrySlots } from "@temper/game-characters-equipment/jewelry/jewelry-slots-data"
 import {

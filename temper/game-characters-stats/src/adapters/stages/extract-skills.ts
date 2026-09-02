@@ -1,8 +1,8 @@
 import { createScribedSkillSource } from "@temper/game-characters-skills/scribing/scribed-skill-source"
 import { skillSlots } from "@temper/game-characters-skills/skill-slots-data"
 import { skills } from "@temper/game-characters-skills/skills-data"
-import type { SkillSource } from "@temper/shared-formula-framework/skill-source"
-import type { Effect } from "@temper/shared-formula-framework/effects-types"
+import type { SkillSource } from "@akasha/temper-formula-framework/skill-source"
+import type { Effect } from "@akasha/temper-formula-framework/effect"
 import type { PipelineStage } from "./types"
 
 export const extractSkills: PipelineStage = (build, context) => {

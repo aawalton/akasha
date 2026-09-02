@@ -1,4 +1,4 @@
-import type { Effect } from "@temper/shared-formula-framework/effects-types"
+import type { Effect } from "@akasha/temper-formula-framework/effect"
 import type { SkillSource } from "../skills-source"
 import { grimoires } from "./grimoires-data"
 import type { ScribedSkill } from "./scribed-skill-types"

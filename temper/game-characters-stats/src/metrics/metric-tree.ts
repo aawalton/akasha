@@ -1,4 +1,4 @@
-import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import { METRIC_TREE } from "../generated/metric-tree.generated"
 import { isMetricNode, type MetricTree, type MetricTreeNode } from "./metric-tree-types"
 

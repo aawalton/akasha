@@ -2,7 +2,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 
 const NESTED_LWW_KEYS: ReadonlySet<string> = new Set(["currentMorph", "unassigned"])
 

@@ -1,5 +1,5 @@
-import { BuildId } from "@temper/shared-formula-framework/branded"
-import { randomFrom } from "@temper/shared-formula-framework/object-utils"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
+import { randomFrom } from "@akasha/temper-formula-framework/random-from"
 import { type CompanionBaseRoleId, getArmorWeightForBaseRoles } from "./companion-base-roles-data"
 import type { CompanionState } from "./companion-types"
 import { companions } from "./companions-data"
@@ -202,7 +202,7 @@ export const createNewCompanion = (): CompanionState => {
   const defaultUltimate = getDefaultUltimateForCompanion(randomCompanion)
 
   return {
-    id: BuildId(""),
+    id: buildId(""),
     name: "",
     description: "",
 
@@ -230,7 +230,7 @@ export const createNewCompanion = (): CompanionState => {
 }
 
 export const createEmptyCompanion = (): CompanionState => ({
-  id: BuildId(""),
+  id: buildId(""),
   name: "",
   description: "",
   companion: {

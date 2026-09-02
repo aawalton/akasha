@@ -1,4 +1,4 @@
-import type { ClassId } from "@temper/shared-formula-framework/class-id"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { SetsAll, SetsAllId } from "./sets-all-data"
 import { setsAll } from "./sets-all-data"
 

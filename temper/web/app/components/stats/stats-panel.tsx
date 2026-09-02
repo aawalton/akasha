@@ -11,7 +11,7 @@ import {
   type MetricTreeNode,
 } from "@temper/game-characters-stats/metrics/metric-tree-types"
 import { getMetricDisplayName } from "@temper/game-characters-stats/metrics/metrics.generated"
-import { isNamedSource } from "@temper/shared-formula-framework/effect-source"
+import { isNamedSource } from "@akasha/temper-formula-framework/effect-source"
 import { Search } from "lucide-react"
 import { useCallback, useState } from "react"
 import { PanelCardSkeleton } from "@/components/characters/loading/panel-card-skeleton"

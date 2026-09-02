@@ -11,9 +11,9 @@ import {
   summarizeEffectChanges,
 } from "@temper/game-characters-stats/diff-effect-sources"
 import { calculateBuildStatsByBar } from "@temper/game-characters-stats/metric-calculator"
-import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import type { MetricValue } from "@temper/game-characters-stats/metrics/types"
-import type { EffectSource } from "@temper/shared-formula-framework/effect-source"
+import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
 import {

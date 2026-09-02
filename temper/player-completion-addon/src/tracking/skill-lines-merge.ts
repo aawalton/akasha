@@ -1,4 +1,4 @@
-import type { SkillLineProgress } from "@temper/game-completion/completion-types"
+import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 
 function mergeLine(stored: SkillLineProgress, fresh: SkillLineProgress): SkillLineProgress {
   const freshIsAtLeastAsAdvanced = fresh.currentRank >= stored.currentRank

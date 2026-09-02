@@ -11,12 +11,6 @@
   },
   "references": [
     {
-      "path": "../shared-formula-framework"
-    },
-    {
-      "path": "../game-characters-classes"
-    },
-    {
       "path": "../game-characters-equipment"
     }
   ],

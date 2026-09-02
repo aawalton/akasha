@@ -7,7 +7,7 @@
  * Partial METRICS_DATA partition. Merged in metrics.ts.
  */
 
-import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import { effectiveHealingMetric } from "./data/effective-healing-metric"
 import { effectiveHealingSpellMetric } from "./data/effective-healing-spell-metric"
 import { effectiveHealingWeaponMetric } from "./data/effective-healing-weapon-metric"

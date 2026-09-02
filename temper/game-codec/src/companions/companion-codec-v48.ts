@@ -17,7 +17,7 @@ import { companionJewelrySlots } from "@temper/game-companions-core/generated/te
 import type { CompanionWeaponSlotId } from "@temper/game-companions-core/equipment/companion-weapon-slots-data"
 import { companionWeaponSlots } from "@temper/game-companions-core/equipment/companion-weapon-slots-data"
 import { companionSkillSlots } from "@temper/game-companions-core/skills/companion-skill-slots-data"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { type BitReaderState, makeBitReader, readBits } from "../binary-utils"
 import { recordFromKeys } from "../record-from-keys"
 import {
@@ -68,7 +68,7 @@ export function decodeV48(data: Uint8Array): CompanionState | null {
     const target = decodeTarget(reader)
 
     return {
-      id: BuildId(""),
+      id: buildId(""),
       name: "",
       description: "",
       companion,

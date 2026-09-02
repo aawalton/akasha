@@ -15,7 +15,7 @@ import {
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
 import { calculateEffectValue } from "@temper/game-companions-core/formulas/companion-skill-tooltip"
 import type { CompanionEffect } from "@temper/game-companions-core/skills/companion-skill-effect-components"
-import { formatAbbreviated } from "@temper/shared-formula-framework/format"
+import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
 
 interface EffectCardProps {
   effect: CompanionEffect

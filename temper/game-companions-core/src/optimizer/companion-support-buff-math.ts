@@ -1,4 +1,4 @@
-import { convertRatingToChance } from "@temper/shared-formula-framework/rating-utils"
+import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
 import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"
 import { companionMetrics } from "../stats/companion-metrics.generated"
 

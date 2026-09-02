@@ -1,4 +1,4 @@
-import type { TraitResearchCraftType, TraitResearchLine, TraitResearchTrait } from "@temper/game-completion/completion-types"
+import type { TraitResearchCraftType, TraitResearchLine, TraitResearchTrait } from "@akasha/temper-completion/completion-progress"
 import { getSavedVariables } from "../saved-variables"
 import { mergeTraitResearch } from "./trait-research-merge"
 export const CRAFTING_TYPES = [

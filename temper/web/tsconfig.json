@@ -68,16 +68,10 @@
       "path": "../game-characters"
     },
     {
-      "path": "../game-characters-champion-points"
-    },
-    {
       "path": "../game-characters-character"
     },
     {
       "path": "../game-characters-character-ui"
-    },
-    {
-      "path": "../game-characters-classes"
     },
     {
       "path": "../game-characters-equipment"
@@ -105,12 +99,6 @@
     },
     {
       "path": "../game-companions-ui"
-    },
-    {
-      "path": "../game-completion"
-    },
-    {
-      "path": "../game-items-alchemy"
     },
     {
       "path": "../game-items-core"
@@ -147,9 +135,6 @@
     },
     {
       "path": "../shared-engine"
-    },
-    {
-      "path": "../shared-formula-framework"
     },
     {
       "path": "../shared-foundation-misc-dungeons"

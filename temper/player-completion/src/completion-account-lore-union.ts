@@ -1,4 +1,4 @@
-import type { LoreCategory } from "@temper/game-completion/completion-types"
+import type { LoreCategory } from "@akasha/temper-completion/completion-progress"
 import { loreLibraryData } from "@temper/game-completion/generated/lore-library-data.generated"
 import type { CompletionCharacterRow } from "./completion-character-row-type"
 import type { AccountLoreProgress } from "./completion-ui-types"

@@ -1,5 +1,5 @@
 import { createArmorSource } from "@temper/game-characters-equipment/armor/armor-source"
-import { valuesOf } from "@temper/shared-formula-framework/object-utils"
+import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
 import type { PipelineStage } from "./types"
 
 export const extractArmor: PipelineStage = (build, context) => {

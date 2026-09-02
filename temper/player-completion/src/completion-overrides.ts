@@ -1,7 +1,7 @@
 import type {
   CharacterCompletion,
   SkillPointProgress,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 import type { AnyCompletionCardId } from "./completion-card-id"
 import { skillPointGeneralSources, skillPointGroupDungeonSources, skillPointPublicDungeonSources, skillPointZoneSources } from "./generated/temper-skill-point.generated"
 

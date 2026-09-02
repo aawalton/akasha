@@ -1,7 +1,7 @@
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "@temper/game-completion/completion-writer-types"
+} from "@akasha/temper-completion/completion-record"
 import type { CompletionOverride } from "@temper/player-completion/completion-overrides"
 import { deleteRecordKey, isObjectRecord } from "@temper/shared-narrow"
 import { ADDON_NAME, SAVED_VARIABLES_NAME } from "./constants"

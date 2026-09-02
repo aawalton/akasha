@@ -11,7 +11,7 @@ import { encodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { createNewCompanion } from "@temper/game-companions-core/companion-factory"
 import { useCompanionLifecycle } from "@temper/game-companions-ui/use-companions"
 import { companionUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { Plus } from "lucide-react"
 import { useState } from "react"
 import { toast } from "sonner"
@@ -31,7 +31,7 @@ export function NewCompanionPanelCard() {
       const buildMetadata = extractCompanionMetadata(build)
       const id = crypto.randomUUID()
       await createNew({ id, userId, buildHash, buildMetadata })
-      router.push(`${companionUrl(BuildId(id), build.name)}?tab=companion`)
+      router.push(`${companionUrl(buildId(id), build.name)}?tab=companion`)
     } catch (error) {
       toast.error(error instanceof Error ? error.message : "Failed to create companion")
       setIsCreating(false)

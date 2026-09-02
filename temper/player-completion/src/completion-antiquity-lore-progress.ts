@@ -1,7 +1,7 @@
 import type {
   AccountCompletion,
   AntiquityLoreProgress,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 import type {
   AccountAntiquityLoreProgress,
   AntiquityLoreCategoryProgress,

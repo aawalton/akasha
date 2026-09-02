@@ -16,7 +16,7 @@ import {
 import { calculateCompanionStats } from "@temper/game-companions-core/stats/companion-stats-calculator"
 import { type CompanionStatsResult } from "@temper/game-companions-core/stats/companion-stats-calculator-impl"
 import { companionUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 
 function getRolePrimaryStats(roles: readonly CompanionBaseRoleId[]): ReadonlySet<string> {
   const stats = new Set<string>()
@@ -79,7 +79,7 @@ export function CompanionListPanelCard({
 
   return (
     <Link
-      href={`${companionUrl(BuildId(build.id), build.name)}?tab=companion`}
+      href={`${companionUrl(buildId(build.id), build.name)}?tab=companion`}
       className="block w-full min-[520px]:w-auto"
     >
       <PanelCard

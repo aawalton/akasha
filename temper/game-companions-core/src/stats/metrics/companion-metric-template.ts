@@ -6,7 +6,7 @@ import type {
   MaxNode,
   MinNode,
   MultiplyNode,
-} from "@temper/shared-formula-framework/formula-types"
+} from "@akasha/temper-formula-framework/arithmetic-node"
 import type { CompanionBaseRoleId } from "../../companion-base-roles-data"
 import type { CompanionMetricId } from "../companion-metric-ids.generated"
 

@@ -1,7 +1,7 @@
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 import type { CompletionCharacterEntry } from "../completion-next-character-resolver"
 
 export function mkRosterEntry(

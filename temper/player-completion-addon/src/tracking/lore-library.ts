@@ -1,4 +1,4 @@
-import type { SparseLoreLibrary } from "@temper/game-completion/completion-types"
+import type { SparseLoreLibrary } from "@akasha/temper-completion/completion-progress"
 import { getSavedVariables } from "../saved-variables"
 export function collectLoreLibrary(): undefined {
   const savedVars = getSavedVariables()

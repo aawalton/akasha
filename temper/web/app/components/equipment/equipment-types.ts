@@ -1,5 +1,5 @@
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
 
 export interface EquipmentPanelProps {

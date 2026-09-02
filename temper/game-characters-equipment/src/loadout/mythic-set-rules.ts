@@ -1,4 +1,4 @@
-import { valuesOf } from "@temper/shared-formula-framework/object-utils"
+import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
 import type { SetsAll, SetsAllId } from "../sets/sets-all-data"
 import { weaponBars } from "../weapons/weapon-bars-data"
 import { weaponSlots } from "../weapons/weapon-slots-data"

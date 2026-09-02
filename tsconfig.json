@@ -7,25 +7,10 @@
       "path": "./shared/design-patterns"
     },
     {
-      "path": "./temper/shared-formula-framework"
-    },
-    {
-      "path": "./temper/shared-build-deploy-addons-resolve"
-    },
-    {
-      "path": "./temper/game-items-alchemy"
-    },
-    {
       "path": "./temper/game-trading-pricing"
     },
     {
       "path": "./temper/game-trading-core"
-    },
-    {
-      "path": "./temper/game-characters-champion-points"
-    },
-    {
-      "path": "./temper/game-characters-classes"
     },
     {
       "path": "./temper/game-characters-character"
@@ -182,15 +167,6 @@
     },
     {
       "path": "./temper/shared-build-deploy-checks"
-    },
-    {
-      "path": "./temper/shared-build-deploy-community-addons"
-    },
-    {
-      "path": "./temper/shared-build-deploy-lua-runner"
-    },
-    {
-      "path": "./temper/shared-build-deploy-saved-vars-migration"
     },
     {
       "path": "./infra/talos"

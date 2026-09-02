@@ -25,7 +25,7 @@ import { useInventory } from "@temper/player-inventory-management-ui/hooks-inven
 import { useManagedGuildBanks } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { InventoryScopeNote } from "@temper/player-inventory-management-ui/inventory-scope-note"
 import { InventoryTypeSummaryPanelCard } from "@temper/player-inventory-management-ui/inventory-summary-panel-card"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"
 import { OverallSummaryPanelCard } from "@/components/completion/overall-summary-panel-card"
@@ -136,7 +136,7 @@ function HomeDataContent() {
   const decodedCharacters = useMemo(() => {
     return characters.slice(0, RECENT_BUILD_COUNT).map((build) => {
       const metadata = build.buildMetadata
-      const decoded = build.buildHash !== "" ? decodeBuild(BuildHash(build.buildHash)) : null
+      const decoded = build.buildHash !== "" ? decodeBuild(toBuildHash(build.buildHash)) : null
       const buildData = decoded && metadata ? applyCharacterMetadata(decoded, metadata) : null
       return {
         id: build.id,
@@ -151,7 +151,7 @@ function HomeDataContent() {
   const decodedCompanions = useMemo(() => {
     return companions.slice(0, RECENT_BUILD_COUNT).map((build) => {
       const metadata = build.buildMetadata
-      const decoded = build.buildHash !== "" ? decodeCompanion(BuildHash(build.buildHash)) : null
+      const decoded = build.buildHash !== "" ? decodeCompanion(toBuildHash(build.buildHash)) : null
       const buildData = decoded && metadata ? applyCompanionMetadata(decoded, metadata) : null
       return {
         id: build.id,

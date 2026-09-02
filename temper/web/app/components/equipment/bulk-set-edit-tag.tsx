@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { canClassEquipSet } from "@temper/game-characters-equipment/sets/class-restrictions"
 import {
   createSetSelectConfig,

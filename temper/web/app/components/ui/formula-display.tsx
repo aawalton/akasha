@@ -2,8 +2,8 @@
 
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
-import { toLatex } from "@temper/shared-formula-framework/display-formula-latex"
-import type { DisplayFormulaNode } from "@temper/shared-formula-framework/display-formula-types"
+import { toLatex } from "@akasha/temper-formula-framework/display-formula-latex"
+import type { DisplayFormulaNode } from "@akasha/temper-formula-framework/display-formula-node"
 import katex from "katex"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { createPortal } from "react-dom"

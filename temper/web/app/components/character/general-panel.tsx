@@ -2,7 +2,7 @@
 
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { BuildId } from "@temper/shared-formula-framework/branded"
+import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { BuildDescriptionPanelCard } from "@/components/character/build-description-panel-card"
 import { BuildInfoPanelCard } from "@/components/character/build-info-panel-card"
 import { CharacterManagementPanelCard } from "@/components/characters/character-management-panel-card"

@@ -1,5 +1,5 @@
-import type { EffectSourceInterface } from "@temper/shared-formula-framework/effect-source"
-import type { Effect, MetricEffect } from "@temper/shared-formula-framework/effects-types"
+import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
+import type { Effect, MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { type ArmorEnchantId, getArmorEnchantmentEffects } from "../enchants/armor-enchants-data"
 import type { ArmorItem } from "../item-composites"
 import type { ArmorTraitId } from "../traits/armor-traits-data"

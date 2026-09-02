@@ -1,5 +1,6 @@
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import type { BuildHash } from "@akasha/temper-formula-framework/branded-id"
+import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import { base64urlToBytes, bytesToBase64url } from "../binary-utils"
 import { CHARACTER_BUILD_TYPE, decodeV48, ESO_VERSION_48 } from "./build-codec-v48"
 import { decodeV49, ESO_VERSION_49 } from "./build-codec-v49"
@@ -9,7 +10,7 @@ import { decodeV52, ESO_VERSION_52, encodeV52 } from "./build-codec-v52"
 
 export function encodeBuild(build: CharacterState): BuildHash {
   const bytes = encodeV52(build)
-  return BuildHash(bytesToBase64url(bytes))
+  return buildHash(bytesToBase64url(bytes))
 }
 
 export function decodeBuild(encoded: BuildHash): CharacterState | null {

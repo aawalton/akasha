@@ -1,9 +1,9 @@
 import type { ArmorItem } from "@temper/game-characters-equipment/item-composites"
 import { calculateDivinesValue } from "@temper/game-characters-equipment/traits/armor-traits-data"
-import type { EffectSourceInterface } from "@temper/shared-formula-framework/effect-source"
-import type { MetricEffect } from "@temper/shared-formula-framework/effects-types"
-import { createSourceFile } from "@temper/shared-formula-framework/utils/create-source-file"
-import { mapOf } from "@temper/shared-formula-framework/utils/map-of"
+import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
+import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
+import { createSourceFile } from "@akasha/temper-formula-framework/source-file"
+import { mapOf } from "@akasha/temper-formula-framework/map-of"
 
 type MundusMetricEffect = MetricEffect & {
   effectType: "integer" | "fractional-change"

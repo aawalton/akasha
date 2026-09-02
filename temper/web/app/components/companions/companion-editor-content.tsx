@@ -17,7 +17,7 @@ import { useCompanionLifecycle, useCompanionList } from "@temper/game-companions
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
 import { companionUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
@@ -89,7 +89,7 @@ export function CompanionEditorContent({ initialTab }: CompanionEditorContentPro
       const newBuildMetadata = extractCompanionMetadata(remixedBuild)
       const newId = crypto.randomUUID()
       await remix({ sourceId: buildId, newId, newBuildHash, newBuildMetadata })
-      router.push(`${companionUrl(BuildId(newId), remixedBuild.name)}?tab=companion`)
+      router.push(`${companionUrl(toBuildId(newId), remixedBuild.name)}?tab=companion`)
     } catch (error) {
       toast.error(error instanceof Error ? error.message : "Failed to remix build")
     } finally {

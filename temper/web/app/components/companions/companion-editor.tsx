@@ -4,7 +4,7 @@ import type {
   CompanionState,
   CompanionVisibility,
 } from "@temper/game-companions-core/companion-types"
-import type { BuildId } from "@temper/shared-formula-framework/branded"
+import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { CompanionEditorContent } from "@/components/companions/companion-editor-content"
 import { CompanionProvider } from "@/components/companions/context/companion-context"
 

@@ -1,5 +1,5 @@
 import { characterUrl } from "@temper/shared-engine/utils/slug"
-import { BuildHash, EsoCharacterId } from "@temper/shared-formula-framework/branded"
+import { buildHash, esoCharacterId as toEsoCharacterId } from "@akasha/temper-formula-framework/branded-id"
 import { z } from "zod"
 import { importCharacterFromHash } from "@/app/characters/import-actions"
 import type { Route } from "./+types/character.h.$hash"
@@ -14,8 +14,8 @@ export async function loader({ request, params }: Route.LoaderArgs): Promise<Res
 
   const { result, headers: importHeaders } = await importCharacterFromHash(
     request,
-    BuildHash(hash),
-    esoCharacterId != null ? EsoCharacterId(esoCharacterId) : undefined
+    buildHash(hash),
+    esoCharacterId != null ? toEsoCharacterId(esoCharacterId) : undefined
   )
 
   const redirect = (location: string): Response => {

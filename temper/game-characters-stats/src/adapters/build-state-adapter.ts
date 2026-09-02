@@ -1,5 +1,5 @@
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { EffectSource } from "@temper/shared-formula-framework/effect-source"
+import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 import { extractAccount } from "./stages/extract-account"
 import { extractArmor } from "./stages/extract-armor"
 import { extractAttributes } from "./stages/extract-attributes"

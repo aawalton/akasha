@@ -1,4 +1,4 @@
-import type { MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import type { MetricValue } from "./metrics/types"
 
 export interface MetricChange {

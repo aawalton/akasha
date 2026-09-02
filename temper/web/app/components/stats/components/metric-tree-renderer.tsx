@@ -6,7 +6,7 @@ import {
 } from "@temper/game-characters-stats/metrics/metric-tree-types"
 import { getMetricDisplayName } from "@temper/game-characters-stats/metrics/metrics.generated"
 import type { MetricValue } from "@temper/game-characters-stats/metrics/types"
-import { formatStatValue } from "@temper/shared-formula-framework/format"
+import { formatStatValue } from "@akasha/temper-formula-framework/number-format"
 import type { ReactElement } from "react"
 import type { StatsRecord } from "@/components/stats/types"
 

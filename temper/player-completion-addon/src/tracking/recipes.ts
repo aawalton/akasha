@@ -1,4 +1,4 @@
-import type { SparseRecipes } from "@temper/game-completion/completion-types"
+import type { SparseRecipes } from "@akasha/temper-completion/completion-progress"
 import { getSavedVariables } from "../saved-variables"
 import { mergeIdListsByKey } from "./collector-merge"
 

@@ -1,1 +1,1 @@
-export { classes } from "@temper/game-characters-classes/classes-data"
+export { classes } from "@akasha/temper-classes/character-class"

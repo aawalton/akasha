@@ -17,9 +17,6 @@
   },
   "references": [
     {
-      "path": "../game-items-alchemy"
-    },
-    {
       "path": "../game-characters-character"
     },
     {
@@ -32,22 +29,10 @@
       "path": "../player-completion"
     },
     {
-      "path": "../game-completion"
-    },
-    {
-      "path": "../shared-foundation-misc-eso-paths"
-    },
-    {
       "path": "../game-items-core"
     },
     {
       "path": "../game-items-rules-core"
-    },
-    {
-      "path": "../shared-formula-framework"
-    },
-    {
-      "path": "../game-characters-champion-points"
     },
     {
       "path": "../player-build-validation"
@@ -60,11 +45,7 @@
     },
     {
       "path": "../shared-capture-datamining-reader"
-    },
-    {
-      "path": "../shared-foundation-misc-eso-paths-resolve"
-    }
-  ],
+    }],
   "include": [
     "src/**/*.ts"
   ],

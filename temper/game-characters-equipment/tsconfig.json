@@ -9,11 +9,7 @@
       "@types/bun"
     ]
   },
-  "references": [
-    {
-      "path": "../shared-formula-framework"
-    }
-  ],
+  "references": [],
   "include": [
     "src/**/*.ts"
   ],

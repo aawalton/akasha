@@ -9,8 +9,8 @@
  */
 
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
-import type { RatingSurplusInfo } from "@temper/shared-formula-framework/rating-utils"
-import type { SourceCategoryId } from "@temper/shared-formula-framework/source-categories-data"
+import type { RatingSurplusInfo } from "@akasha/temper-formula-framework/rating-chance"
+import type { SourceCategoryId } from "@akasha/temper-formula-framework/source-category"
 import type { CompanionMetricId } from "./companion-metric-ids.generated"
 import type { CompanionMetricTemplate } from "./metrics/companion-metric-template"
 

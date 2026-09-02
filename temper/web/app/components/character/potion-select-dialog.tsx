@@ -3,7 +3,7 @@
 import { getSubcategory } from "@akasha/utils-narrow/get-subcategory"
 import { convertIconPathToUrl } from "@temper/game-characters-equipment/sets/get-equipment-icon"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import { type PotionId, type PotionSource, potions } from "@temper/game-items-alchemy/potions-source"
+import { type PotionId, type PotionSource, potions } from "@akasha/temper-alchemy/potion-source"
 import { useMemo } from "react"
 import {
   FilterableSelectDialog,

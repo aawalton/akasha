@@ -1,4 +1,4 @@
-import type { AccountCompletion } from "@temper/game-completion/completion-writer-types"
+import type { AccountCompletion } from "@akasha/temper-completion/completion-record"
 import { loreLibraryData } from "@temper/game-completion/generated/lore-library-data.generated"
 import { companionQuestData } from "@temper/player-completion/companion-quest-data"
 import {

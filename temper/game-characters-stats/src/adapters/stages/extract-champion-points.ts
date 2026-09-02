@@ -1,7 +1,7 @@
 import {
   type ChampionPointSource,
   championPoints,
-} from "@temper/game-characters-champion-points/champion-points-source"
+} from "@akasha/temper-champion-points/champion-point-source"
 import type { PipelineStage } from "./types"
 
 export function getCPSkillDisplayName(championPointId: string): string {

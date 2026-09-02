@@ -11,7 +11,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 import { parseSavedVariablesContent } from "@temper/player-build-validation/completion-saved-variables-parser"
 import { classifyCompletionImport } from "@temper/player-completion/completion-import-outcome"
 import { mergeAccountCompletionForward, mergeCharacterCompletionForward, mergeCompanionCompletionForward } from "@temper/player-completion/completion-merge-forward"

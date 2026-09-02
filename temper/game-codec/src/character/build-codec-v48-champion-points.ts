@@ -1,4 +1,4 @@
-import type { ChampionPointId } from "@temper/game-characters-champion-points/champion-points-source"
+import type { ChampionPointId } from "@akasha/temper-champion-points/champion-point-source"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { BitReaderState } from "../binary-utils"
 import { readBits } from "../binary-utils"

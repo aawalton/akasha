@@ -5,7 +5,7 @@ import { setsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
 import type {
   AccountCompletion,
   ItemSetPieceProgress,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 
 const ESO_CATEGORY_NAME_MAP: Record<string, SetCategoryId> = {
   dungeons: "dungeon",

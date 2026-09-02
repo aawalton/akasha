@@ -1,14 +1,14 @@
 import { base } from "@temper/game-characters-character/base-source"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { indexBy } from "@temper/shared-engine/utils"
-import type { EffectSource } from "@temper/shared-formula-framework/effect-source"
-import { topologicalSort } from "@temper/shared-formula-framework/topological-sort"
+import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
+import { topologicalSort } from "@akasha/temper-formula-framework/topological-sort"
 import { buildStateToEffectSources } from "./adapters/build-state-adapter"
 import { calculateBuffs } from "./buff-or-debuff-calculator"
 import type { FormulaNode } from "./metrics/formula-types"
 import { evaluateFormula, roundMetricValue } from "./metrics/metric-formulas"
 import { hasFormula, type MetricWithFormula, metrics, metricsWithFormulas } from "./metrics/metrics.generated"
-import { type MetricId } from "@temper/shared-formula-framework/metric-ids.generated"
+import { type MetricId } from "@akasha/temper-formula-framework/metric-id"
 import type { MetricValue } from "./metrics/types"
 
 export interface CalculationResult {

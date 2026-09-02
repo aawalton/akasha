@@ -1,4 +1,4 @@
-import { getEsoDateString } from "@temper/shared-formula-framework/eso-date"
+import { getEsoDateString } from "@akasha/temper-formula-framework/eso-date"
 import type { CompletionCharacterRow } from "./completion-character-row-type"
 import { isCharacterMeasured } from "./completion-measured"
 import type { CharacterDailyWritsProgress } from "./completion-ui-types"

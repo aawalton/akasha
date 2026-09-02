@@ -1,7 +1,7 @@
 import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import { foodOrDrink } from "@temper/game-characters-character/food-and-drink/food-or-drink-source"
 import { decodeBuild } from "@temper/game-codec/character/build-codec"
-import { potions } from "@temper/game-items-alchemy/potions-source"
+import { potions } from "@akasha/temper-alchemy/potion-source"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
 import { getScriptItemIdByName } from "@temper/game-items-core/script-knowledge-lookup"
 import type {
@@ -10,7 +10,7 @@ import type {
 } from "@temper/game-items-rules-core/rule-matcher-context-types"
 import type { AutomationSettings } from "@temper/shared-engine/automation/automation-settings-types"
 import { resolveCharacterToggles } from "@temper/shared-engine/automation/automation-settings-types"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 
 function getCompletionField(completion: unknown, field: string): unknown {
   if (!isObjectRecord(completion)) return undefined
@@ -191,7 +191,7 @@ export function compileWantedConsumables(
     const esoCharId = char.esoCharacterId
     if (esoCharId === "") continue
 
-    const decoded = decodeBuild(BuildHash(build.buildHash))
+    const decoded = decodeBuild(toBuildHash(build.buildHash))
     if (!decoded) continue
 
     const charToggles = resolveCharacterToggles(

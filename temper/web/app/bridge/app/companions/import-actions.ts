@@ -9,7 +9,8 @@ import { extractCompanionMetadata } from "@temper/game-characters/build-metadata
 import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { companions } from "@temper/game-companions-core/companions-data"
 import { companionWeaponTypes } from "@temper/game-companions-core/generated/temper-companion-weapon-type.generated"
-import { type BuildHash, BuildId } from "@temper/shared-formula-framework/branded"
+import type { BuildHash, BuildId } from "@akasha/temper-formula-framework/branded-id"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 
 function asJson(value: Record<string, unknown>): Json {
   return value as Json
@@ -64,7 +65,7 @@ export async function importCompanionFromHash(
   const firstExistingBuild = existingBuilds[0]
   if (firstExistingBuild && typeof firstExistingBuild.id === "string") {
     return {
-      result: { buildId: BuildId(firstExistingBuild.id), buildName: buildState.name },
+      result: { buildId: toBuildId(firstExistingBuild.id), buildName: buildState.name },
       headers,
     }
   }
@@ -112,7 +113,7 @@ export async function importCompanionFromHash(
     }
 
     return {
-      result: { buildId: BuildId(newBuildId), buildName: buildState.name },
+      result: { buildId: toBuildId(newBuildId), buildName: buildState.name },
       headers,
     }
   } catch (e) {

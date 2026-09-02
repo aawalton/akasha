@@ -1,4 +1,4 @@
-import type { CharacterCompletion } from "@temper/game-completion/completion-types"
+import type { CharacterCompletion } from "@akasha/temper-completion/completion-progress"
 
 export function mkMount(
   speed: number,

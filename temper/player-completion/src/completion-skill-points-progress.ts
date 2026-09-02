@@ -1,4 +1,4 @@
-import type { SkillPointProgress } from "@temper/game-completion/completion-types"
+import type { SkillPointProgress } from "@akasha/temper-completion/completion-progress"
 import type { CompletionCharacterRow } from "./completion-character-row-type"
 import { isCharacterMeasured } from "./completion-measured"
 import type { CharacterSkillPointsProgress, SkillPointSourceProgress } from "./completion-ui-types"

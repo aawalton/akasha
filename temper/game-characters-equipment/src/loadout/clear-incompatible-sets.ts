@@ -1,4 +1,4 @@
-import { keysOf } from "@temper/shared-formula-framework/object-utils"
+import { keysOf } from "@akasha/temper-formula-framework/record-parts"
 import type { SetsAllId } from "../sets/sets-all-data"
 import type { Loadout, WeaponSlot, WeaponSlotItem } from "./loadout-types"
 
