@@ -14,6 +14,11 @@ export const migrateAlanAndJennyToAkasha = {
         "An upload IS a delivery: each app has one internal group holding every build, and every build carries `autoNotifyEnabled`, so the command cannot decline to notify and its only lever is `--no-upload`. Read off the live API without uploading, filed at `8f90294f14`. Jenny's 22 and Atlas 2 are signed, stamped, Apple-validated, waiting on a person. Left to build is the command: `akasha deploy` says an iOS app is not put up by it yet, and Atlas has no page, so it is not even found.",
     },
     {
+      statement: "Alan's health samples are read from akasha rather than from the old markdown.",
+      workingMemory:
+        "Rows die because the pod writes its own checkout and nothing commits. Durability is the service road; `akasha/` is only the toll gate, since `/write` refuses every path outside it. This is a page-type migration on the daily-tracking recipe: mint the akasha type and entry property, move 234 days to `.ts` with 233 `.jsonl` beside them. Whole-file put with a `read` precondition and bounded retry; append is barred because the writer upserts. `sampleRowsAt` restates the rule and refuses at `.part2`.",
+    },
+    {
       statement: "Alan's and Jenny's safety iOS widgets work.",
       workingMemory:
         "Both halves are proven as far as the pod; the phones are unseen. Alan's deployed at `d0f4d24621`. Jenny's landed at `aceffc1382`, a second `runs` line on his relay, and `172cd167b9`, her route on the same `safety` group. Her site now serves `49134b9632`, where `/api/errors` answers 405 rather than 404. Proven against the real store and the real held reading: 401 bare, 503 with nothing carried in, 200 and a whole stoplight otherwise, plus 16 tests. Her tile shows Alan's level, by design.",
