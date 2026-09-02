@@ -325,9 +325,9 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
   {
     rendered: "temper-set.generated.ts",
     workspacePackage: "temper-characters-equipment",
-    moduleSlug: "set-data-from-pages",
-    partPrefix: "set-data-from-pages",
-    parts: 100,
+    moduleSlug: "sets-all",
+    partPrefix: "sets-data",
+    parts: 124,
   },
   {
     rendered: "temper-skill-point.generated.ts",
@@ -384,11 +384,16 @@ export function targetOf(rendered: string): AddonDataTarget | undefined {
   return ADDON_DATA_TARGETS.find((one) => one.rendered === rendered)
 }
 
+export function partDigitsOf(parts: number): number {
+  return Math.max(2, String(parts - 1).length)
+}
+
 export function partSlugsOf(target: AddonDataTarget): readonly string[] {
   if (target.parts === 1) return [target.moduleSlug]
+  const width = partDigitsOf(target.parts)
   const held: string[] = []
   for (let at = 0; at < target.parts; at += 1) {
-    held.push(`${target.partPrefix}-${String(at).padStart(2, "0")}`)
+    held.push(`${target.partPrefix}-${String(at).padStart(width, "0")}`)
   }
   return held
 }
