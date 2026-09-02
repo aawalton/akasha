@@ -101,9 +101,16 @@ export function buildTransportEvent(state: ObservedStreamState): TransportEvent 
 
 const SSE_EVENT_LINE = /(?:^|\n)event:[ \t]*([^\r\n]*?)[ \t]*(?:\r?\n|$)/g
 
-export function extractLastSseEventType(chunk: Uint8Array): string | null {
-  if (chunk.byteLength === 0) return null
-  const text = new TextDecoder().decode(chunk)
+// ONE DECODER RATHER THAN ONE PER FRAME. Decoding without `stream` carries nothing between calls,
+// so a shared decoder reads exactly as a fresh one does and allocates nothing on the hottest path
+// this process has.
+const DECODER = new TextDecoder()
+
+export function decodedChunk(chunk: Uint8Array): string {
+  return DECODER.decode(chunk)
+}
+
+export function extractLastSseEventTypeIn(text: string): string | null {
   let last: string | null = null
   SSE_EVENT_LINE.lastIndex = 0
   for (const match of text.matchAll(SSE_EVENT_LINE)) {
@@ -196,10 +203,17 @@ export function buildStreamObserver(args: {
       bytesUpstream += bytes
       lastFrameMs = atMs
     },
+    // ONE DECODE SERVES BOTH SCANS. This runs for every SSE frame on every stream a gateway
+    // carries, and Claude's frames are token-sized, so it is the hottest path in the process.
+    // Decoding the same bytes twice — once to read the event type and again to look for the stop —
+    // spent the event loop badly enough that `/healthz` could not be reached inside a second, and
+    // the supervisor read a working gateway as a dead one and killed it every thirty seconds.
     onChunkBytes(chunk) {
-      const ev = extractLastSseEventType(chunk)
+      if (chunk.byteLength === 0) return
+      const text = decodedChunk(chunk)
+      const ev = extractLastSseEventTypeIn(text)
       if (ev != null) lastEventType = ev
-      if (!sawMessageStop && SSE_MESSAGE_STOP.test(new TextDecoder().decode(chunk))) {
+      if (!sawMessageStop && SSE_MESSAGE_STOP.test(text)) {
         sawMessageStop = true
       }
     },
