@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Every temper page type is in akasha, two landed finer than the census read them. The mine's 188MB sweep is 22x the entry ceiling, and the call taken is one entry property spanning numbered files. Akasha holds a part now and the spelling sits in one place, but the consumer side is still losing data: `catalog-sidecars.ts:9` matches `[a-z-]+`, so every part fails and the addon catalog is silently short. `clearRows` orphaned 13MB, and `read-corpus.ts:258` refuses a landing over a part.",
+        "The parts mend is in flight: `catalog-sidecars.ts` matches any part locator now, uncommitted under its seat. A worse fault sits beneath it. `temper-set`'s pages cannot express a buff its file carries, lost in the first migration rather than by generator drift, so `bonus-effects` gains a `buff-id`. 537 of 707 rows also differ only in icon key order, which would bury that one datum inside a regeneration diff, so the file is normalised first and the generator left alone.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "85 packages are in `akasha/temper`. What remains is mostly four addons: 4.3MB over 658 modules, 97.6% hand-written, so the generated-output ruling reaches 0.33% and there is no shortcut. Eight XML files are over the 15,000 ceiling, `TemperCombat.xml` at eleven times it. An akasha eso-addon still makes no Lua. Typecheck answers zero, from 567, but that is one check of forty and the full audit exits 2, so `--check typecheck` is never the answer.",
+        "90 packages are in `akasha/temper` and 97 remain in `temper/`. Housing landed whole and the twelve catalog generators with it. Companions-core is half landed: 100 files remain, none over the ceiling, so it is volume rather than a wall. Seven of fourteen addon-data sections throw, which is why six of eight generators hold only synthetic proof; one seat now has both. Typecheck answers zero over 28,973 files, but the full audit is the number that counts.",
     },
   ],
   constraints: [
