@@ -1,17 +1,7 @@
 {
   "workspaces": {
-    "temper/game-characters-character-ui": {
-      "entry": [],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
-    "temper/game-characters-equipment-ui": {
-      "entry": [],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
+
+
     "temper/game-companions-ui": {
       "entry": [],
       "project": [
