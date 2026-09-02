@@ -1,7 +1,6 @@
 import { resolve } from "node:path"
 import type { AddonDataPages } from "./addon-data-pages.ts"
 import { buildAddonDataWritesAlchemy } from "./writes/alchemy.ts"
-import { buildAddonDataWritesBuffsAndDebuffs } from "./writes/buffs-and-debuffs.ts"
 import { buildAddonDataWritesCharacters } from "./writes/characters.ts"
 import { buildAddonDataWritesCodec } from "./writes/codec.ts"
 import { buildAddonDataWritesCompanionMappings } from "./writes/companion-mappings.ts"
@@ -27,7 +26,6 @@ export function buildAddonDataWrites(p: AddonDataPages): readonly Promise<number
     ...buildAddonDataWritesCodec(w),
     ...buildAddonDataWritesEquipment(p, w),
     ...buildAddonDataWritesSets(p, w),
-    ...buildAddonDataWritesBuffsAndDebuffs(p, w),
     ...buildAddonDataWritesAlchemy(p, w),
     ...buildAddonDataWritesCharacters(p, w),
     ...buildAddonDataWritesCompletion(p, w),

@@ -966,6 +966,12 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-trading-pricing": {
+      "name": "@akasha/temper-trading-pricing",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/temper/temper-upstream-data": {
       "name": "@akasha/temper-upstream-data",
     },
@@ -3758,6 +3764,8 @@
     "@akasha/temper-settings-panel": ["@akasha/temper-settings-panel@workspace:akasha/temper/temper-settings-panel"],
 
     "@akasha/temper-skill-lines": ["@akasha/temper-skill-lines@workspace:akasha/temper/temper-skill-lines"],
+
+    "@akasha/temper-trading-pricing": ["@akasha/temper-trading-pricing@workspace:akasha/temper/temper-trading-pricing"],
 
     "@akasha/temper-upstream-data": ["@akasha/temper-upstream-data@workspace:akasha/temper/temper-upstream-data"],
 

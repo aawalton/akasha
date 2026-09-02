@@ -5,7 +5,6 @@ import { COMPANIONS_OUTPUT_DIR, OUTPUT_DIR } from "./constants.ts"
 
 const out = (rel: string): string => temperFile(`${rel}/src/generated`)
 
-export const TEMPER_CLASSES_OUTPUT_DIR = out("game-characters-classes")
 export const TEMPER_INVENTORY_OUTPUT_DIR = out("game-items-addon")
 export const TEMPER_DUNGEONS_OUTPUT_DIR = out("shared-foundation-misc-dungeons")
 export const TEMPER_EQUIPMENT_OUTPUT_DIR = out("game-characters-equipment")
@@ -20,11 +19,9 @@ export const TEMPER_CHARACTER_GENERATED_DIR = out("game-characters-character")
 export const TEMPER_CHARACTERS_CAPTURE_OUTPUT_DIR = out("game-characters-capture-addon")
 export const TEMPER_COMPANIONS_OUTPUT_DIR = out("game-companions-core")
 export const TEMPER_COMPLETION_OUTPUT_DIR = out("player-completion")
-export const TEMPER_ALCHEMY_OUTPUT_DIR = out("game-items-alchemy")
 export const TEMPER_ADDONS_CHARACTERS_GENERATED_DIR = out("player-completion-addon")
 export const TEMPER_INVENTORY_CORE_OUTPUT_DIR = out("game-items-core")
 export const TEMPER_PRICING_OUTPUT_DIR = out("game-trading-pricing")
-export const TEMPER_SHARED_OUTPUT_DIR = out("shared-formula-framework")
 export const TEMPER_SKILLS_OUTPUT_DIR = out("game-characters-skills")
 export const TEMPER_STATS_OUTPUT_DIR = out("game-characters-stats")
 export const WEB_ENGINE_INVENTORY_DIR = out("game-items-rules-core")
@@ -32,7 +29,6 @@ export const WEB_ENGINE_INVENTORY_DIR = out("game-items-rules-core")
 const ALL_OUTPUT_DIRS: readonly string[] = [
   OUTPUT_DIR,
   COMPANIONS_OUTPUT_DIR,
-  TEMPER_CLASSES_OUTPUT_DIR,
   TEMPER_INVENTORY_OUTPUT_DIR,
   TEMPER_DUNGEONS_OUTPUT_DIR,
   TEMPER_EQUIPMENT_OUTPUT_DIR,
@@ -47,11 +43,9 @@ const ALL_OUTPUT_DIRS: readonly string[] = [
   TEMPER_CHARACTERS_CAPTURE_OUTPUT_DIR,
   TEMPER_COMPANIONS_OUTPUT_DIR,
   TEMPER_COMPLETION_OUTPUT_DIR,
-  TEMPER_ALCHEMY_OUTPUT_DIR,
   TEMPER_ADDONS_CHARACTERS_GENERATED_DIR,
   TEMPER_INVENTORY_CORE_OUTPUT_DIR,
   TEMPER_PRICING_OUTPUT_DIR,
-  TEMPER_SHARED_OUTPUT_DIR,
   TEMPER_SKILLS_OUTPUT_DIR,
   TEMPER_STATS_OUTPUT_DIR,
   WEB_ENGINE_INVENTORY_DIR,
