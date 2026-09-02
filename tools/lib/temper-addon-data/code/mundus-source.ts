@@ -1,1 +1,1 @@
-export { mundus } from "@temper/game-characters-character/mundus-source"
+export { mundus } from "@akasha/temper-character-sources/mundus-source"
