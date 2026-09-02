@@ -25,6 +25,13 @@ export type Draft = {
 
 export type Drafted = { readonly patch: string | null } | { readonly why: string }
 
+export type Bodies = ReadonlyMap<
+  string,
+  { readonly was: string | null; readonly body: string | null }
+>
+
+export type Rebased = { readonly held: Bodies; readonly moved: readonly string[] }
+
 type Held = Map<string, { readonly was: string | null; readonly body: string | null }>
 
 type Worked = { readonly held: Held } | { readonly why: string }
@@ -59,18 +66,24 @@ function heldIn(root: string, patch: string | null): Held {
   return held
 }
 
-function rebased(root: string, head: string, held: Held): Worked {
+export function rebasedOnto(
+  root: string,
+  head: string,
+  patch: string | null
+): Rebased | { readonly why: string } {
   const next: Held = new Map()
-  for (const [path, one] of held) {
+  const moved: string[] = []
+  for (const [path, one] of heldIn(root, patch)) {
     const now = textOf(bodyAt(root, head, path))
+    if (now !== one.was) moved.push(path)
     const said = merged(one.was, one.body, now)
     if ("why" in said) return { why: `${path} — ${said.why}` }
     next.set(path, { was: now, body: said.body })
   }
-  return { held: next }
+  return { held: next, moved: moved.sort() }
 }
 
-function folded(held: Held, drafts: readonly Draft[]): Worked {
+function folded(held: Bodies, drafts: readonly Draft[]): Worked {
   const next: Held = new Map(held)
   for (const one of drafts) {
     const had = next.get(one.path)
@@ -95,7 +108,7 @@ export function drafted(root: string, page: string, drafts: readonly Draft[]): D
   const head = headOf(root)
   let answer: Drafted = { why: NO_PAGE }
   const took = keptPatch(root, page, (patch) => {
-    const first = rebased(root, head, heldIn(root, patch))
+    const first = rebasedOnto(root, head, patch)
     if ("why" in first) {
       answer = first
       return patch
