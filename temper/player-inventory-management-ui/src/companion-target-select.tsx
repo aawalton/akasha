@@ -8,8 +8,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { MoveToDestination } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { useAuth } from "@shared/auth/use-auth"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import type { ActionVariant } from "./action-options"
@@ -31,7 +31,7 @@ export function CompanionTargetSelect({
   onChange,
   variant = "green",
 }: CompanionTargetSelectProps) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { inventory } = useInventory(userId)
 
   const options = useMemo((): readonly CompanionOption[] => {

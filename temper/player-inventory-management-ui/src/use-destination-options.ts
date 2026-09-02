@@ -1,11 +1,11 @@
 "use client"
 
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { classifyLocation } from "@akasha/temper-items-core/location-classify"
 import type {
   DestinationCategory,
   MoveToDestination,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { useAuth } from "@shared/auth/use-auth"
 import { useMemo } from "react"
 import { useInventory } from "./hooks-inventory"
 import { useManagedGuildBanks } from "./hooks-inventory-settings"
@@ -29,7 +29,7 @@ export interface DestinationOptions {
 }
 
 export function useDestinationOptions(): DestinationOptions {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { inventory } = useInventory(userId)
   const { managedSet } = useManagedGuildBanks()
 

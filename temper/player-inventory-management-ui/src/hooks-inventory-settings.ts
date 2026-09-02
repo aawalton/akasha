@@ -5,6 +5,7 @@ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,
@@ -22,7 +23,6 @@ import {
 import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { Json } from "@akasha/utils-narrow/json-value"
-import { useAuth } from "@shared/auth/use-auth"
 import { useCallback, useMemo } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
@@ -49,7 +49,7 @@ function asJson(value: SettingsBlob): Json {
 }
 
 function useSettingsBlob() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { rows } = usePagesSupabase({
     pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
     where:

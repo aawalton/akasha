@@ -1,23 +1,25 @@
 "use client"
 
-import { useAuth } from "@shared/auth/use-auth"
 import { createPage } from "@akasha/pages-access/create"
 import { deletePage } from "@akasha/pages-access/delete"
 import { patchPage } from "@akasha/pages-access/patch"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
-import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
+import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
-import type { Json } from "@akasha/utils-narrow/json-value"
-import type { CompanionBuildMetadata } from "@temper/game-characters/build-metadata"
-import { type CompanionRoleId } from "@akasha/temper-companions-core/companion-roles"
-import { companionRoles } from "@akasha/temper-companions-core/companion-roles"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
 } from "@akasha/temper-companions-core/companion-base-roles"
+import {
+  type CompanionRoleId,
+  companionRoles,
+} from "@akasha/temper-companions-core/companion-roles"
 import type { CompanionVisibility } from "@akasha/temper-companions-core/companion-types"
+import type { Json } from "@akasha/utils-narrow/json-value"
+import type { CompanionBuildMetadata } from "@temper/game-characters/build-metadata"
 import { useMemo } from "react"
 
 const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"
@@ -104,7 +106,7 @@ function buildMetadataToJson(meta: CompanionBuildMetadata): Json {
 }
 
 export function useCompanionList() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { rows, isLoading, error } = usePagesSupabase({
     pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
     where:
@@ -128,7 +130,7 @@ export function useCompanionList() {
 }
 
 export function useCompanion(buildId: string) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { rows, isLoading, error } = usePagesSupabase({
     pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
     where: [{ key: "id", eq: buildId }],
@@ -202,7 +204,7 @@ export function useCompanion(buildId: string) {
 }
 
 export function useCompanionLifecycle() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const runCreate = useOptimisticCreatePage((args) => createPage(args))
   const runPatch = useOptimisticPatchPage((args) => patchPage(args))
 

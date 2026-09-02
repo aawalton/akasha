@@ -1,18 +1,20 @@
 "use client"
 
-import { useAuth } from "@shared/auth/use-auth"
 import { createPage } from "@akasha/pages-access/create"
 import { deletePage } from "@akasha/pages-access/delete"
 import { patchPage } from "@akasha/pages-access/patch"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
-import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
+import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
+import {
+  type RoleId,
+  characterRoles as roles,
+} from "@akasha/temper-character-sources/character-roles"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import type { CharacterBuildMetadata } from "@temper/game-characters/build-metadata"
-import { characterRoles as roles } from "@akasha/temper-character-sources/character-roles"
-import { type RoleId } from "@akasha/temper-character-sources/character-roles"
 import type { CharacterVisibility } from "@temper/game-characters-character/build-types"
 import { useMemo } from "react"
 
@@ -96,7 +98,7 @@ function buildMetadataToJson(meta: CharacterBuildMetadata): Json {
 }
 
 export function useCharacterList() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { rows, isLoading, error } = usePagesSupabase({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
     where:
@@ -120,7 +122,7 @@ export function useCharacterList() {
 }
 
 export function useCharacter(buildId: string) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { rows, isLoading, error } = usePagesSupabase({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
     where: [{ key: "id", eq: buildId }],
@@ -199,7 +201,7 @@ export function useCharacter(buildId: string) {
 }
 
 export function useCharacterLifecycle() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const runCreate = useOptimisticCreatePage((args) => createPage(args))
   const runPatch = useOptimisticPatchPage((args) => patchPage(args))
 

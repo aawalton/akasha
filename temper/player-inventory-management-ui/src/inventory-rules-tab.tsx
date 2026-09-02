@@ -4,10 +4,10 @@ import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { LayoutLink } from "@akasha/design-layout/router-context"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { Alert, AlertDescription, AlertTitle } from "@akasha/design-primitives/alert"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { partitionUnmanagedGuildBanks } from "@akasha/temper-items-core/inventory-guild-bank-filter"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import { classifyAllInventoryItems } from "@akasha/temper-items-rules-matcher/inventory-item-classifier"
-import { useAuth } from "@shared/auth/use-auth"
 import { Package } from "lucide-react"
 import { useMemo, useRef } from "react"
 import { useInventory } from "./hooks-inventory"
@@ -73,7 +73,7 @@ export function InventoryRulesTab({
   onRuleSortChange,
   deferred,
 }: InventoryRulesTabProps) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { localSettings, handlers } = useInventoryRulesSettingsState()
   const { inventory: rawInventory, isLoading: isInventoryLoading } = useInventory(userId)
   const { managedSet } = useManagedGuildBanks()

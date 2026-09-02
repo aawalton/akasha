@@ -1,8 +1,8 @@
 "use client"
 
-import { useAuth } from "@shared/auth/use-auth"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -147,7 +147,7 @@ function sortBySortOrderAscNullsLast<T extends { sortOrder: number | undefined }
 }
 
 export function useCompletionCharacters() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   return useCompletionCharactersByUserInternal(userId)
 }
 
@@ -180,7 +180,7 @@ function useCompletionCharactersByUserInternal(userId: string | null) {
 }
 
 export function useCompletionCompanions() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   return useCompletionCompanionsByUserInternal(userId)
 }
 
@@ -212,7 +212,7 @@ function useCompletionCompanionsByUserInternal(userId: string | null) {
 }
 
 export function useAccountCompletion() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   return useAccountCompletionByUserInternal(userId)
 }
 

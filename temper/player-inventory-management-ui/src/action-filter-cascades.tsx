@@ -8,8 +8,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { classifyLocation } from "@akasha/temper-items-core/location-classify"
-import { useAuth } from "@shared/auth/use-auth"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import { NULL_SENTINEL } from "./action-filter-utils"
@@ -85,7 +85,7 @@ export function MoveToCascade({
   onSubChange: (val: string | null) => void
   onSub2Change: (val: string | null) => void
 }) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { inventory } = useInventory(userId)
   const { managedSet } = useManagedGuildBanks()
 
@@ -189,7 +189,7 @@ export function StockCascade({
   onSubChange: (val: string | null) => void
   onSub2Change: (val: string | null) => void
 }) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { inventory } = useInventory(userId)
 
   const characterOptions = useMemo(() => {
@@ -239,7 +239,7 @@ export function DeconstructCascade({
   onSubChange: (val: string | null) => void
   onSub2Change: (val: string | null) => void
 }) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { inventory } = useInventory(userId)
 
   const characterOptions = useMemo(() => {
@@ -290,7 +290,7 @@ export function CharacterTargetCascade({
   sub: string | null
   onSubChange: (val: string | null) => void
 }) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { inventory } = useInventory(userId)
 
   const options = useMemo(() => {
@@ -319,7 +319,7 @@ export function CompanionTargetCascade({
   sub: string | null
   onSubChange: (val: string | null) => void
 }) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { inventory } = useInventory(userId)
 
   const options = useMemo(() => {

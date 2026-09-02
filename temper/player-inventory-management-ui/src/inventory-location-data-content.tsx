@@ -13,9 +13,9 @@ import {
 } from "@akasha/design-patterns/empty"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { Button } from "@akasha/design-primitives/button"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { partitionUnmanagedGuildBanks } from "@akasha/temper-items-core/inventory-guild-bank-filter"
 import { lookupCurrencyConversionRates } from "@akasha/temper-trading-pricing/currency-price-lookup"
-import { useAuth } from "@shared/auth/use-auth"
 import { usePlayer } from "@temper/player-profile/use-player"
 import { Package } from "lucide-react"
 import { useMemo } from "react"
@@ -68,7 +68,7 @@ export function InventoryLocationDataContent({
   onClearFilters,
   deferred,
 }: InventoryLocationDataContentProps) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { isLoading: playerLoading, profileMetadata } = usePlayer()
   const { inventory: rawInventory, isLoading } = useInventory(userId)
   const { managedSet } = useManagedGuildBanks()
