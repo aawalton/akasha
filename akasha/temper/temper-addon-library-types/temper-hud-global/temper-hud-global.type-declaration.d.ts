@@ -1,4 +1,4 @@
-interface TemperHudHideApi {
+interface TemperHudApi {
   registerHideableComponent: (
     this: void,
     id: string,
@@ -6,6 +6,15 @@ interface TemperHudHideApi {
     reason: string
   ) => undefined
   setComponentHidden: (this: void, id: string, hidden: boolean) => undefined
+  registerCommand: (
+    this: void,
+    command: {
+      name: string
+      description: string
+      addon: string
+      handler?: (this: void, args: string) => undefined
+    }
+  ) => undefined
 }
 
-declare var TemperHud: TemperHudHideApi | undefined
+declare var TemperHud: TemperHudApi | undefined
