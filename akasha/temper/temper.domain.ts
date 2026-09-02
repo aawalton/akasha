@@ -31,6 +31,7 @@ export const temper = {
     "eso-addon/temper-lib-notification",
     "eso-addon/temper-lib-addon-keybinds",
     "eso-addon/lib-custom-menu",
+    "eso-addon/temper-lib-main-menu",
   ],
   invariants: [
     {

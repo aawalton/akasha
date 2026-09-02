@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/temper-lib-main-menu",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./main-menu-casts": "./main-menu-casts/main-menu-casts.module.code.ts",
+    "./main-menu-entry": "./main-menu-entry/main-menu-entry.module.code.ts",
+    "./main-menu-game-shape-1": "./main-menu-game-shape-1/main-menu-game-shape-1.module.code.ts",
+    "./main-menu-game-shape-2": "./main-menu-game-shape-2/main-menu-game-shape-2.module.code.ts",
+    "./main-menu-keyboard": "./main-menu-keyboard/main-menu-keyboard.module.code.ts",
+    "./main-menu-library": "./main-menu-library/main-menu-library.module.code.ts",
+    "./main-menu-publish": "./main-menu-publish/main-menu-publish.module.code.ts",
+    "./main-menu-setup": "./main-menu-setup/main-menu-setup.module.code.ts",
+    "./main-menu-shape": "./main-menu-shape/main-menu-shape.module.code.ts",
+    "./main-menu-version": "./main-menu-version/main-menu-version.module.code.ts"
+  }
+}

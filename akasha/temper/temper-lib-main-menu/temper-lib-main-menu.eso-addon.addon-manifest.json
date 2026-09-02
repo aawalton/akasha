@@ -1,0 +1,12 @@
+{
+  "name": "LibMainMenu-2.0",
+  "title": "LibMainMenu-2.0",
+  "description": "Library to add main menu entries.",
+  "author": "AlanGaming",
+  "version": "4.5.0",
+  "addonVersion": 40500,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": [],
+  "dependsOn": [],
+  "optionalDependsOn": ["LibAddonMenu-2.0"]
+}
