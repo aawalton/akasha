@@ -1,5 +1,5 @@
 import { parsedAs } from "@akasha/code-system/code-source"
-import type { Standing } from "./syntax-rule/syntax-rule.page-type.ts"
+import type { Standing } from "./syntax-rules/syntax-rule.page-type.ts"
 
 export const PROBE_AT = "akasha/one/probe.module.code.ts"
 

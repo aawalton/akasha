@@ -7,7 +7,7 @@ import { type Shadow, shadowAt } from "@akasha/pages-system/shadow"
 import type { SourceFile } from "typescript"
 import { type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.code-check.code.ts"
 import { PROBE_AT } from "./no-refused-syntax.code-check.test-fixtures.ts"
-import type { Standing } from "./syntax-rule/syntax-rule.page-type.ts"
+import type { Standing } from "./syntax-rules/syntax-rule.page-type.ts"
 
 const RULE = "syntax-rule"
 

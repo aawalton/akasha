@@ -15,7 +15,7 @@ import {
   TEXTS,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Judging, Standing } from "./syntax-rule/syntax-rule.page-type.ts"
+import type { Judging, Standing } from "./syntax-rules/syntax-rule.page-type.ts"
 
 const RULE = "syntax-rule"
 
