@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const gettingADebugLoggerIsWrittenFourWaysInAkasha = {
+  id: "01a06160-cddc-7437-a457-6451d9700cd8",
+  pageTypeSlug: "finding",
+  slug: "getting-a-debug-logger-is-written-four-ways-in-akasha",
+  domainSlug: "domain/temper",
+  claim:
+    "Four akasha packages each spell out their own way to reach a `DebugLogger` or fail. `temper-lib-map-ping/map-ping-lib` and `temper-lib-gps/gps-lib-state` hold `createLogger` bodies that match byte for byte. `temper-lost-treasure/lost-treasure-logger` names the same rule `requireLibDebugLogger`. `temper-lib-async/async-state` writes it inline and yields undefined rather than failing. `no-rule-in-two-files` refuses the matching pair and misses the other two.",
+  evidence:
+    "Measured on 2026-09-02, in the audit run right after LibGPS landed as `temper-lib-gps`. Landing it is what raised the refusal: `temper-lib-map-ping/map-ping-lib/map-ping-lib.module.code.ts` had held its `createLogger` alone until then, and the two are now lines 63 and 64 of the 66 refusals `no-rule-in-two-files` carries across the whole tree. The other 64 predate this wave, so the tree already tolerates this class at audit, and the refusal count reads as though the duplication were two-fold when it is four-fold. The two matching bodies are five lines each and differ in nothing, not even the backtick message: both guard `LibDebugLogger === undefined`, call `error` naming their own `LIB_IDENTIFIER`, and return `LibDebugLogger(LIB_IDENTIFIER)`. The two the check cannot see differ only in shape: `temper-lost-treasure/lost-treasure-logger.module.code.ts:3` wraps the same guard in a function named for what it demands, and `temper-lib-async/async-state/async-state.module.code.ts:16` drops the failure and yields undefined, which is a different rule wearing the same clothes and is the one worth reading twice. The fix is not a seat's to take alone. LibGPS 3.3.3 and LibMapPing 2.1.0 are ports of community addons that get ported again when upstream moves, and `temper-upstream-data` exists to do exactly that. One shared helper would couple two vendored ports to each other and make the next port read against a structure upstream does not have. Whether that price is worth paying, and whether the async spelling should be brought to the same rule at all when it deliberately does not fail, is a call above the migration.",
+} as const satisfies Finding
