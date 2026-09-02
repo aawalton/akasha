@@ -6,4 +6,14 @@ export const temperWorld = {
   slug: "temper-world",
   definition: "the places of Tamriel and the people who live in them",
   pluralSlug: "temper-worlds",
+  partSlugs: [
+    "page-type/temper-alliance",
+    "page-type/temper-catalog-domain",
+    "page-type/temper-dungeon",
+    "page-type/temper-location-type",
+    "page-type/temper-quest-giver",
+    "page-type/temper-race",
+    "page-type/temper-source-category",
+    "page-type/temper-zone",
+  ],
 } as const satisfies Domain
