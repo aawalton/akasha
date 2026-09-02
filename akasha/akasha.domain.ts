@@ -48,6 +48,7 @@ export const akasha = {
     "workspace-package/checkout-version",
     "domain/temper",
     "domain/story-engine",
+    "domain/browser",
   ],
   invariants: [
     {
