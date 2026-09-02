@@ -44,7 +44,7 @@ export function under(repo: string, path: string): string {
 
 const FILE_PROPERTY = "file-property"
 
-const ENTRY_PROPERTY = "page-property-entry"
+export const ENTRY_PROPERTY = "page-property-entry"
 
 function besides(pageTypeSlug: string | null): boolean {
   return pageTypeSlug === FILE_PROPERTY || pageTypeSlug === ENTRY_PROPERTY

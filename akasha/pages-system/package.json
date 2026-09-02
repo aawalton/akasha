@@ -35,6 +35,7 @@
     "./page-address": "./page/page-address/page-address.module.code.ts",
     "./page-beside": "./page/page-beside/page-beside.module.code.ts",
     "./page-body": "./page/page-body/page-body.module.code.ts",
+    "./page-entries": "./page/page-entries/page-entries.module.code.ts",
     "./page-export-name": "./page/page-export-name/page-export-name.module.code.ts",
     "./page-file-name": "./page/page-file-name/page-file-name.module.code.ts",
     "./page-property": "./page-property/page-property.page-type.ts",
