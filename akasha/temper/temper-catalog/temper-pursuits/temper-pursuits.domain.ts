@@ -8,6 +8,7 @@ export const temperPursuits = {
   pluralSlug: "temper-pursuitss",
   partSlugs: [
     "page-type/temper-antiquity-category",
+    "page-type/temper-collectible-category",
     "page-type/temper-pursuit-thing",
     "page-type/temper-tribute-patron",
   ],
