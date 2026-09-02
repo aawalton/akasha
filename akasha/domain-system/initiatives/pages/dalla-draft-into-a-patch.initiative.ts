@@ -8,14 +8,9 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "A page's file name is read from its slug rather than from its last three parts.",
-      workingMemory:
-        "The name is read from the left: segment one is the slug, which never holds a dot because a slug is lower kebab; segment two is the page type; the last segment is what the file holds; the rest are sections in order. Arity stops mattering. The page types handed in still decide only whether something is a page, so nothing tightens. The scratch files ending in part must keep coming back stray.",
-    },
-    {
       statement: "A file property is carried uncommitted.",
       workingMemory:
-        "The name carries the property slug and then uncommitted, as in dalla.seat.patch.uncommitted.patch. This waits on the name being read from the slug, since two sections cannot be read while only three parts are.",
+        "The name carries the property slug and then uncommitted, as in dalla.seat.patch.uncommitted.patch. The name is read from the slug now, so two sections parse. What is missing is meaning: heldIn calls two sections stray, and the predicates agree with it.",
     },
     { statement: "A seat and a subagent each carry the patch they are drafting." },
     { statement: "A subagent states the agent id it runs under." },
