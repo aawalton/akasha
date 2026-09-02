@@ -116,7 +116,7 @@ export const wakeDay = {
     "number-property/words-read-snapshot",
     "page-property-entry/completed-tasks",
     "page-property-entry/sessions",
-    "text-property/wake-day",
+    "text-property/daily-tracking",
     "text-property/date",
     "text-property/difficulty-level",
     "text-property/end-time",

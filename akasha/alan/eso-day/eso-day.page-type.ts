@@ -1,14 +1,14 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Title } from "../../temper/temper-things/properties/title.text-property.ts"
-import type { EsoDay } from "./properties/eso-day.text-property.ts"
+import type { EsoDay as TrackedEsoDay } from "./properties/eso-day.text-property.ts"
 import type { HealthSamples } from "./properties/health-samples.page-property-entry.ts"
 import type { Listens } from "./properties/listens.page-property-entry.ts"
 import type { SurplusTierSaid } from "./properties/surplus-tier-said.text-property.ts"
 
 export type EsoDay = Page & {
   title: Title
-  esoDay: EsoDay
+  esoDay: TrackedEsoDay
   surplusTierSaid?: SurplusTierSaid
   healthSamples?: HealthSamples
   listens?: Listens
