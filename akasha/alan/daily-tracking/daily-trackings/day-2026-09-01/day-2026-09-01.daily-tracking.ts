@@ -17,6 +17,7 @@ export const day20260901 = {
   strengthVolume: 0,
   nutritionPoints: 0,
   breathingPoints: 0,
+  activeCalories: 14.246000000000002,
   spannedFromDayBoundary: true,
   inboxTasks: 24,
   inboxTasksClearedToday: false,
