@@ -20,7 +20,6 @@
     "./frame/frame-view-properties-menu": "./src/frame/frame-view-properties-menu.tsx",
     "./media/page-media-player": "./src/media/page-media-player.tsx",
     "./media/playing-session-context": "./src/media/playing-session-context.tsx",
-    "./use-user-id": "./src/use-user-id.tsx",
     "./*": "./src/*.ts"
   },
   "peerDependencies": {
