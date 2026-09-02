@@ -21,7 +21,7 @@ export const hookJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "The root a hook is judged against is bound once.",
+      statement: "The root a hook is judged against is bound before the hook is asked.",
     },
     {
       invariantKind: "departure",

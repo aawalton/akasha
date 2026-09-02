@@ -33,7 +33,7 @@ export const supabaseRr = {
     },
     {
       invariantKind: "departure",
-      statement: "One request works out its client and its session once.",
+      statement: "A request holds the client and the session the request worked out.",
     },
   ],
 } as const satisfies WorkspacePackage

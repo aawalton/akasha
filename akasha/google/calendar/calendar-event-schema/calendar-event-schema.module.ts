@@ -25,7 +25,7 @@ export const calendarEventSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A recurrence rule is written with its `RRULE:` prefix exactly once.",
+      statement: "A recurrence rule carries no second `RRULE:` prefix.",
     },
     {
       invariantKind: "departure",

@@ -17,7 +17,7 @@ export const gmailHistory = {
     },
     {
       invariantKind: "departure",
-      statement: "A message named twice across pages is counted once.",
+      statement: "A message named across pages is one message.",
     },
   ],
 } as const satisfies Module
