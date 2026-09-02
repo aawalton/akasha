@@ -6,6 +6,7 @@ export const completionLoreCollection = {
   slug: "completion-lore-collection",
   definition: "the first lore collection a character has yet to read out",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
