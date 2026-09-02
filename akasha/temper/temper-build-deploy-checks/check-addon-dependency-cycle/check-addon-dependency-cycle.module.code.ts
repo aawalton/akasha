@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { join } from "node:path"
+import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { z } from "zod"
 import {
@@ -24,7 +24,13 @@ const ADDON_JSON_SCHEMA = z
   .passthrough()
 
 function readDeps(addonDir: string): readonly string[] {
-  const raw = readFileSync(join(addonDir, "addon.json"), "utf8")
+  const path = addonManifestPathIn(addonDir)
+  if (path === null) {
+    throw new Error(
+      `${PREFIX} ${addonDir} is on the addon roster and holds no manifest the game or a page names, so its declared dependencies cannot be read`
+    )
+  }
+  const raw = readFileSync(path, "utf8")
   const parsed = ADDON_JSON_SCHEMA.parse(JSON.parse(raw))
   return [...(parsed.dependsOn ?? []), ...(parsed.optionalDependsOn ?? [])]
 }

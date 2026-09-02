@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
-import { join } from "node:path"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
+import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import {
   type AddonFloorInput,
@@ -24,7 +24,12 @@ function readAddonFloorFields(addonDir: string): {
   dependsOn: readonly string[]
   optionalDependsOn: readonly string[]
 } {
-  const path = join(addonDir, "addon.json")
+  const path = addonManifestPathIn(addonDir)
+  if (path === null) {
+    throw new Error(
+      `${PREFIX} ${addonDir} is on the addon roster and holds no manifest the game or a page names, so its declared version floors cannot be read`
+    )
+  }
   const raw = readFileSync(path, "utf8")
   const parsed = ADDON_FLOOR_MANIFEST_SCHEMA.parse(JSON.parse(raw))
   return {
