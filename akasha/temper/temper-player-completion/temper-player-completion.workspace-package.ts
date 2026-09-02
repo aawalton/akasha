@@ -65,6 +65,9 @@ export const temperPlayerCompletion = {
     "module/completion-zone-progress",
     "module/completion-collectibles-progress",
     "module/completion-antiquity-lore-progress",
+    "module/completion-trait-research-progress",
+    "module/completion-account-trait-union",
+    "module/completion-achievement-progress",
   ],
   invariants: [
     {
