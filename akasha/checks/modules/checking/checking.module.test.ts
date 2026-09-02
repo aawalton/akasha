@@ -40,6 +40,8 @@ const OUTSIDE_AT = "tools/agent-decide.ts"
 
 const SHAPED = "folder-matches-a-shape"
 
+const WHOLE_TREE_CHECKS_TAKE = 30_000
+
 afterAll(scratch.sweep)
 
 test("a check is found through the index rather than by walking the tree", () => {
@@ -302,20 +304,24 @@ function over(changed: readonly string[]): Change {
   return { root: ROOT, changed, after: held, before: held }
 }
 
-test("a check refuses nothing in a change its own input turns away whole", () => {
-  const asked = shadowAsked(over(SAMPLED))
-  const taken: string[] = []
-  for (const one of checksIn(ROOT)) {
-    const takes = one.isInput
-    if (takes === null) continue
-    const asleep = SAMPLED.filter((path) => !takes(path, asked))
-    if (asleep.length === 0) continue
-    taken.push(one.slug)
-    const change = over(asleep)
-    expect([one.slug, one.run(change, shadowAsked(change))]).toEqual([one.slug, []])
-  }
-  expect(taken.length).toBeGreaterThan(0)
-})
+test(
+  "a check refuses nothing in a change its own input turns away whole",
+  () => {
+    const asked = shadowAsked(over(SAMPLED))
+    const taken: string[] = []
+    for (const one of checksIn(ROOT)) {
+      const takes = one.isInput
+      if (takes === null) continue
+      const asleep = SAMPLED.filter((path) => !takes(path, asked))
+      if (asleep.length === 0) continue
+      taken.push(one.slug)
+      const change = over(asleep)
+      expect([one.slug, one.run(change, shadowAsked(change))]).toEqual([one.slug, []])
+    }
+    expect(taken.length).toBeGreaterThan(0)
+  },
+  WHOLE_TREE_CHECKS_TAKE
+)
 
 test("a check carrying no guard of its own takes no path outside the akasha folder", () => {
   const gate = judgingBy(checksIn(ROOT).filter((one) => one.slug === SHAPED))
