@@ -9,7 +9,6 @@ export const inbox = {
   partSlugs: [
     "readout/inboxes-email",
     "readout/inboxes-tasks",
-    "readout/inboxes-texts",
     "workstation-service/inbox-reading-service",
     "workstation-service/inbox-relay-service",
   ],
@@ -42,10 +41,6 @@ export const inbox = {
     {
       invariantKind: "departure",
       statement: "The game tasks among Alan's inboxes belong to temper rather than here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The texts reading keeps a page here while nothing draws the texts reading.",
     },
   ],
 } as const satisfies Domain
