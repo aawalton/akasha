@@ -6,6 +6,13 @@ export const musicCatalog = {
   slug: "music-catalog",
   definition: "the songs and the artists who made them",
   partSlugs: [
+    "module/lrclib-client",
+    "module/lrclib-map",
+    "module/lrclib-schema",
+    "module/musicbrainz-client",
+    "module/musicbrainz-map",
+    "module/musicbrainz-schema",
+    "module/song-slug",
     "page-type/artist",
     "page-type/song",
     "text-property/catalog-tags",
@@ -14,5 +21,15 @@ export const musicCatalog = {
     "text-property/last-synced-at",
     "text-property/rating",
     "text-property/source",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "MusicBrainz says what a song and an artist are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "LRCLIB says what the words of a song are.",
+    },
   ],
 } as const satisfies Domain
