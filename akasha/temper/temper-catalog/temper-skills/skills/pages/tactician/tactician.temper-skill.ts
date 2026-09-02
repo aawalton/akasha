@@ -20,4 +20,5 @@ export const tactician = {
   skillType: "passive",
   subcategoryId: "alliance-war-emperor",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

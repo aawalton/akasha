@@ -20,4 +20,5 @@ export const undeath = {
   skillType: "passive",
   subcategoryId: "world-vampire",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

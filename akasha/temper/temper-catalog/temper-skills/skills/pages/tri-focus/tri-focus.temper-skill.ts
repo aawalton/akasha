@@ -20,4 +20,5 @@ export const triFocus = {
   skillType: "passive",
   subcategoryId: "weapon-destruction-staff",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill
