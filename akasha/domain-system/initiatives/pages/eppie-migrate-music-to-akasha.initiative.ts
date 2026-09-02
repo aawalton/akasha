@@ -18,13 +18,21 @@ export const eppieMigrateMusicToAkasha = {
       statement:
         "The Spotify client and the music collection are code in akasha rather than in `collections/`.",
       workingMemory:
-        "27 files sit in `collections/music-spotify/src` and its `endpoints` folder, and 15 in `collections/music/src`, being `spotify-reads.ts`, `auth.ts`, `auth-cli.ts` and the `cli`, `eppie`, `lrclib` and `musicbrainz` folders. `pages/domain/spotify.domain.md` carries one rule, Paced Live Sweep, and one design line saying Extended Quota Mode is not pursued.",
+        "Four of the client's fifteen endpoint families are imported anywhere: player, search, tracks, personalization. Its `src/` carries no test, though `dist/` holds 18 stale test declarations. The write side is dead: `landSong` and `landArtist` throw on a decommissioned keyed write, and `2669aed6` deleted the listening capture on 1 September because every road out was refused. Listens stop at 21 August. `patchPage` in `tools/lib/page-write.ts` still writes, and `ops music rate` uses it.",
     },
     {
       statement:
         "Every song, artist and listen the music keeps is a page in akasha rather than in `pages/`.",
       workingMemory:
         "1,656 song pages sit in `pages/music-song`, 30 rated, beside 1,372 lyrics and 1,340 synced-lyrics attachments; 14 artists; 12 day pages holding 698 listen rows; one heard-music page holding 678 heard-track rows, 29 of which name no Spotify track id though the property is required. The queries turn on five keys: `play-key`, `spotify-track-id`, `title-key`, `played-at`, and `new-music-minutes` summed by persona and date.",
+    },
+    {
+      statement: "Alan's listening is captured again, onto the pages the new system keeps.",
+    },
+    {
+      statement: "Every heard track names the Spotify track id its type requires.",
+      workingMemory:
+        "29 of the 678 rows name none, and the old type called it required while the data went on without it. `heard-track-by-title-key` exists to work around exactly this.",
     },
   ],
   constraints: [
