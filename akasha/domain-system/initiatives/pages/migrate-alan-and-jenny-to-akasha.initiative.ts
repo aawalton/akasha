@@ -36,7 +36,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "The stoplights answer: 41 personas, 6 values, in declared order. What blocked them was `readouts/ask-here.ts` throwing for every slug — severed with the HTTP client, it took the checkout engine down too. It routes now: checkout first, only a 503 UNREACHED carried to the service. That is a bridge, adding a reach. No record names `value` or `persona-day`; the arm is cut the dependency, migrate no page types, remove no old pages. Closing this needs the service to serve markdown-backed types.",
+        "The bridge in `readouts/ask-here.ts` holds, by decision. No type is refused by name: the index covers `akasha/` alone and its loader requires TypeScript, so a markdown body throws and the page is dropped unnoted. A probe served `value` from markdown in 131 lines, six rows checked on disk. It buys little: the stoplights ask by saved query, so closing this needs seven page types, a frontmatter parser akasha declares it has none of, caching, and a kebab-camel ruling with live callers each side.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
