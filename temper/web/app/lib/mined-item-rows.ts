@@ -2,7 +2,7 @@ import type {
   MinedItemData,
   MinedItemSearchResult,
   SetBonusEntry,
-} from "@temper/game-items-core/item-tooltip-types"
+} from "@akasha/temper-items-core/item-tooltip-types"
 import { z } from "zod"
 
 export const MINED_ITEM_PAGE_TYPE = "temper-mined-item"
