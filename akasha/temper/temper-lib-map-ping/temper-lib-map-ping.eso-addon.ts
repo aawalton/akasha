@@ -22,7 +22,6 @@ export const temperLibMapPing = {
     "module/map-ping-types",
     "module/ping-leaky-bucket",
     "module/ping-rolling-average",
-    "type-declaration/map-ping-declarations",
   ],
   invariants: [
     {

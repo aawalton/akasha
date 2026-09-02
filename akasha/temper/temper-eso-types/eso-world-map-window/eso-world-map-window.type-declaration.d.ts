@@ -10,6 +10,8 @@ declare const CreateFont: (this: void, name: string, definition: string) => Font
 
 declare const GetWindowManager: (this: void) => WindowManager
 
+declare const MouseIsOver: (this: void, control: Control) => boolean
+
 declare const NormalizeMousePositionToControl: (
   this: void,
   control: Control
@@ -36,7 +38,12 @@ declare const ZO_GetPlatformTemplate: (this: void, name: string) => string
 
 declare const ZO_Map_GetFastTravelNode: (this: void) => number
 
+interface WorldMapManagerControl {
+  UnregisterForEvent: (this: WorldMapManagerControl, event: number) => boolean
+}
+
 interface WorldMapManager {
+  control: WorldMapManagerControl
   IsInMode: (this: WorldMapManager, mode: number) => boolean
   GetMode: (this: WorldMapManager) => number
   SetToMode: (this: WorldMapManager, mode: number) => void
@@ -47,6 +54,8 @@ interface WorldMapManager {
   UpdateFloorAndLevelNavigation: (this: WorldMapManager) => void
   inSpecialMode?: boolean
 }
+
+declare const WORLD_MAP_MANAGER: WorldMapManager
 
 declare const ZO_WorldMapManager: WorldMapManager
 

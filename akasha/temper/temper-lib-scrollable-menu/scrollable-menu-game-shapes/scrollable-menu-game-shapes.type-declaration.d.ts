@@ -6,7 +6,6 @@ declare const ZO_REMOTE_SCENE_CHANGE_ORIGIN: number
 declare const ZO_GAMEPAD_UNSELECTED_COLOR: ZoColorDef
 declare const GetAnimationManager: (this: void) => Record<string, unknown>
 declare const GetEventManager: (this: void) => Record<string, unknown>
-declare const MouseIsOver: (this: void, control: Control) => boolean
 declare const RequestAlert: (this: void, category: number, soundId: string, text: string) => void
 declare const ZO_ComboBox_HideDropdown: (this: void, control: Control) => void
 declare const ZO_ScrollList_SetHeight: (this: void, scrollControl: Control, height: number) => void
