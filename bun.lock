@@ -1818,6 +1818,12 @@
     },
     "akasha/temper/temper-upstream-data": {
       "name": "@akasha/temper-upstream-data",
+      "dependencies": {
+        "@akasha/temper-eso-paths": "workspace:*",
+        "@akasha/temper-lua-runner": "workspace:*",
+        "@akasha/utils-run": "workspace:*",
+        "@infra/git-porcelain": "workspace:*",
+      },
     },
     "akasha/temper/temper-watcher": {
       "name": "@akasha/temper-watcher",
@@ -3322,8 +3328,6 @@
 
     "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:akasha/browser/test-harness"],
 
-    "@akasha/google-calendar": ["@akasha/google-calendar@workspace:akasha/google/calendar"],
-
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:akasha/calendar-sync"],
 
     "@akasha/checkout-version": ["@akasha/checkout-version@workspace:akasha/version/checkout"],
@@ -3375,6 +3379,8 @@
     "@akasha/geo-io": ["@akasha/geo-io@workspace:akasha/geo-io"],
 
     "@akasha/git": ["@akasha/git@workspace:akasha/git"],
+
+    "@akasha/google-calendar": ["@akasha/google-calendar@workspace:akasha/google/calendar"],
 
     "@akasha/google-oauth": ["@akasha/google-oauth@workspace:akasha/google/oauth"],
 

@@ -5,6 +5,8 @@
   "exports": {
     "./housing-upstream-verify": "./housing-upstream-verify/housing-upstream-verify.module.code.ts",
     "./leaf-dump": "./leaf-dump/leaf-dump.module.code.ts",
+    "./libsets-data-port": "./libsets-data-port/libsets-data-port.module.code.ts",
+    "./libsets-upstream-fetch": "./libsets-upstream-fetch/libsets-upstream-fetch.module.code.ts",
     "./libsets-upstream-pin": "./libsets-upstream-pin/libsets-upstream-pin.module.code.ts",
     "./libsets-upstream-verify": "./libsets-upstream-verify/libsets-upstream-verify.module.code.ts",
     "./map-data-upstream-verify": "./map-data-upstream-verify/map-data-upstream-verify.module.code.ts",
@@ -14,5 +16,11 @@
     "./upstream-libraries": "./upstream-libraries/upstream-libraries.module.code.ts",
     "./zone-eso-stubs": "./zone-eso-stubs/zone-eso-stubs.module.code.ts",
     "./zone-upstream-verify": "./zone-upstream-verify/zone-upstream-verify.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-eso-paths": "workspace:*",
+    "@akasha/temper-lua-runner": "workspace:*",
+    "@akasha/utils-run": "workspace:*",
+    "@infra/git-porcelain": "workspace:*"
   }
 }

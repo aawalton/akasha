@@ -18,6 +18,8 @@ export const temperUpstreamData = {
     "module/zone-upstream-verify",
     "module/libsets-upstream-pin",
     "module/libsets-upstream-verify",
+    "module/libsets-upstream-fetch",
+    "module/libsets-data-port",
   ],
   invariants: [
     {
