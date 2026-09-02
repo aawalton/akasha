@@ -1,0 +1,26 @@
+{
+  "name": "@akasha/temper-skill-morphs",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./morph-progress-types": "./morph-progress-types/morph-progress-types.module.code.ts",
+    "./applicable-eso-skill-lines": "./applicable-eso-skill-lines/applicable-eso-skill-lines.module.code.ts",
+    "./morphable-skills": "./morphable-skills/morphable-skills.module.code.ts",
+    "./morph-pair": "./morph-pair/morph-pair.module.code.ts",
+    "./morph-conflict": "./morph-conflict/morph-conflict.module.code.ts",
+    "./skill-organization": "./skill-organization/skill-organization.module.code.ts",
+    "./character-morph-progress-eso": "./character-morph-progress-eso/character-morph-progress-eso.module.code.ts",
+    "./character-morph-progress": "./character-morph-progress/character-morph-progress.module.code.ts",
+    "./skill-line-morph-totals": "./skill-line-morph-totals/skill-line-morph-totals.module.code.ts",
+    "./skill-morph-progress-paths": "./skill-morph-progress-paths/skill-morph-progress-paths.module.code.ts",
+    "./subclassing-morph-progress": "./subclassing-morph-progress/subclassing-morph-progress.module.code.ts",
+    "./build-morph-entry": "./build-morph-entry/build-morph-entry.module.code.ts",
+    "./select-morph-suggestions": "./select-morph-suggestions/select-morph-suggestions.module.code.ts",
+    "./morph-suggestion-fixtures": "./morph-suggestion-fixtures/morph-suggestion-fixtures.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-character-skills": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

@@ -122,6 +122,7 @@ export const temper = {
     "eso-addon/temper-lib-histoire",
     "workspace-package/temper-skyshards",
     "workspace-package/temper-build-metadata",
+    "workspace-package/temper-skill-morphs",
   ],
   invariants: [
     {
