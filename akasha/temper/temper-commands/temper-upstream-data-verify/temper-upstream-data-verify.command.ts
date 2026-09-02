@@ -9,9 +9,12 @@ export const temperUpstreamDataVerify = {
   changeKindSlug: "change-none",
   taking: [{ said: "<library>", takes: "which upstream library's port is ruled on" }],
   helpNotes: [
+    "the libraries it carries are housing, lib-map-data, lib-treasure and lib-zone.",
     "the comparison is leaf for leaf rather than file for file.",
     "a difference refuses the call and names where the two part.",
     "a library this does not carry is refused by name.",
+    "an upstream file this cannot find refuses the call, because a run over an absent upstream reports whatever a clean run reports.",
+    "the upstream is the third-party library a live ESO install carries, which our own deployed addons overwrite.",
   ],
   invariants: [
     {
@@ -25,6 +28,14 @@ export const temperUpstreamDataVerify = {
     {
       invariantKind: "departure",
       statement: "The refusal names where the two part.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An upstream file that is not on this workstation refuses the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report says how many leaves agreed.",
     },
     {
       invariantKind: "absence",
