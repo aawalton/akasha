@@ -37,9 +37,20 @@ export async function shouldRunGreatCoursesSync(): Promise<boolean> {
     }
     return shouldRun
   } catch (thrown) {
+    // A READ THAT FAILED IS NOT A GATE THAT OPENED. This used to log the failure and answer
+    // `true`, which reads as "the sync is due" when what happened is "whether it is due went
+    // unread". Measured 2026-09-02, that is not hypothetical: the read is refused 400,
+    // `great-courses-collection` names no page type the index holds, so every run took this
+    // branch, called itself due, and then died two steps later in `getAllGreatCoursesParentSlug`
+    // against the same unread page type — naming the second read rather than the first, which is
+    // the one that would have said why. Refusing here puts the cause in the first line of the
+    // failure instead of the third.
     const err = toError(thrown)
     logError("Root parent query", "shouldRunGreatCoursesSync", err, classifyError(err))
-    return true
+    throw new Error(
+      `whether the Great Courses sync is due went unread, so it is neither due nor not due and ` +
+        `nothing may be decided against it: ${err.message}`
+    )
   }
 }
 
@@ -51,8 +62,13 @@ export async function shouldRunGreatCoursesSync(): Promise<boolean> {
 //
 // What that costs, measured 2026-09-02: the page holds `lastSyncedAt: 2026-08-24`, and the gate
 // opens once today less thirty days passes that date. Computed rather than reckoned by eye, the
-// cutoff first passes it on 2026-09-24. So the gate is shut today, and from that morning the timer
-// at 07:35 runs a whole sync every day rather than monthly, for good.
+// cutoff first passes it on 2026-09-24. So on the arithmetic the gate is shut today, and from that
+// morning the timer at 07:35 would run a whole sync every day rather than monthly, for good.
+//
+// The arithmetic is not what happens, because the date it reasons about is never read. Measured by
+// running the sync on 2026-09-02, `pageTitled` is refused 400 — `great-courses-collection` names no
+// page type the index holds — so `lastSyncedAt` never reaches the comparison at all. The gate is
+// not shut; it is unreadable, which is a different thing and fails differently.
 //
 // This cannot be repaired here. `great-courses-collection` names no page type the store's index
 // holds — its three pages are markdown under `pages/` — and nothing in the repository renders a

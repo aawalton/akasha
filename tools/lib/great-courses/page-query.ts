@@ -31,7 +31,7 @@ export async function pageTitled(
 ): Promise<QueryRow | null> {
   const asked = await askComposed({
     "page-type": pageTypeSlug,
-    where: { title },
+    where: { title: { is: title } },
     keys: [...keys, "slug"],
   })
   if (!asked.ok) throw new Error(`\`${pageTypeSlug}\` titled "${title}" went unread: ${asked.why}`)
