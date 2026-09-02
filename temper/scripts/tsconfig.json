@@ -24,12 +24,6 @@
     },
     {
       "path": "../player-completion"
-    },
-    {
-      "path": "../game-items-core"
-    },
-    {
-      "path": "../game-items-rules-core"
     }
   ],
   "include": [

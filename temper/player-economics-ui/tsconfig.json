@@ -29,9 +29,6 @@
       "path": "../game-characters"
     },
     {
-      "path": "../game-items-core"
-    },
-    {
       "path": "../player-inventory-management-ui"
     },
     {
