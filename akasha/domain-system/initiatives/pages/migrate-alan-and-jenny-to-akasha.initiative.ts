@@ -36,7 +36,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "Two reach sets were conflated. `@shared/pages-query`, the HTTP client, is heavily stubbed and refuses loudly. `tools/lib/page-query*.ts`, the local engine, is not gutted: 41 files reach it, 0 stubs, and ten unattended daemons sit on them. Of 57 name-matches, 16 are decoys: pure helpers touching no page, a view-namer, and a `great-courses` module already on the new store. Stoplights cannot leave markdown until `value` and `persona-day` move; the store refuses both by name.",
+        "The stoplights answer: 41 personas, 6 values, in declared order. What blocked them was `readouts/ask-here.ts` throwing for every slug — severed with the HTTP client, it took the checkout engine down with it. It routes now, asking the checkout first and carrying only a 503 UNREACHED on to the service. That is a bridge, not the destination: it adds a reach. Alan's keep arm forbids moving `value` and `persona-day`, so closing this needs the service to serve markdown-backed types.",
     },
     {
       statement: "The packages Alan's own work rests on stand in akasha.",
