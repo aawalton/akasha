@@ -7,7 +7,18 @@ export const temperLibSets = {
   definition: "an addon library naming every gear set in the game and saying where each one drops",
   manifest: "json",
   addonManifest: "json",
-  partSlugs: ["module/lib-sets-casts", "module/lib-sets-bool-pair"],
+  partSlugs: [
+    "module/lib-sets-casts",
+    "module/lib-sets-bool-pair",
+    "eso-interface/lib-sets-copy-text-dialog",
+    "eso-interface/lib-sets-search-ui-shared-xml",
+    "eso-interface/lib-sets-search-ui-keyboard-xml",
+  ],
+  interfaceSlugs: [
+    "lib-sets-copy-text-dialog",
+    "lib-sets-search-ui-shared-xml",
+    "lib-sets-search-ui-keyboard-xml",
+  ],
   invariants: [
     {
       invariantKind: "constraint",
