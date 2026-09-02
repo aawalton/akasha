@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "The landing rehearses to `records 1942 · values 18884 · faults 0`, and `akasha write --dry-run` clears 34 checks over 288 of its 294 paths. Rows are camel and the declaring import is derived, both at `cdcc1c162b`. Days land at `akasha/alan/daily-tracking/daily-trackings/`. What blocks the flip: three completed-tasks row files over the 15000 byte ceiling, 9 reads reaching around the funnel, a query joining on `daily-tracking-slug`, and 30 re-minted ids that are 30 urls.",
+        "The landing write clears 34 checks over all 294 paths, EXIT=0, after `2c31d47f4a` gave entry files their own ceiling and `b54bd0098c` kept the 30 urls by keeping the last eight hex. The funnel audit is at 0 by `1514a90042`, which found every one of the fifteen callers on the old barrel had been refusing on every run. Left before the turn: a query joining on `daily-tracking-slug`, and a rehearsal of the day after.",
     },
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
