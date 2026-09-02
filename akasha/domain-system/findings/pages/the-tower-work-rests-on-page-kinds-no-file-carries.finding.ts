@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theTowerWorkRestsOnPageKindsNoFileCarries = {
+  id: "01a06365-1593-7a40-ab39-fb862e98991a",
+  pageTypeSlug: "finding",
+  slug: "the-tower-work-rests-on-page-kinds-no-file-carries",
+  domainSlug: "domain/story-engine",
+  claim:
+    "Three page kinds the tower work rests on carry no page anywhere in this repository. `tower-floor`, `tower-session` and `game-character` each declare `files: none` in the old markdown registry, and 0 pages of the three exist. Their siblings `game` and `story-turn` declare real globs and hold 62 and 139 files. The only reader of the three slugs is `tools/lib/tower-game-access.ts`, which is outside akasha, and the 36 files under `akasha/story/tower` carry 0 tests.",
+  evidence:
+    "Read 2 September, straight after the three tower packages moved under `akasha/story`.\n\n`akasha/story/tower/tower-page-slugs/tower-page-slugs.module.code.ts` is three lines whole, and they are the three slugs. Searching everything git tracks for those three constants answers two files: that module, and `tools/lib/tower-game-access.ts`. So no module inside the three packages reaches a page at all. They are schemas and combat arithmetic, and the one file that reads a saved climb is still outside akasha.\n\nThe page types are real, but they are in the old markdown registry rather than in akasha: `pages/page-type/tower-floor.page-type.md`, `tower-session.page-type.md` and `game-character.page-type.md`. Each carries `files: none`, and `tower-session` and `game-character` carry `body-shape-slug: empty` as well. No `.page-type.ts` for any of the three is anywhere in the tree.\n\nCounting pages of the three kinds over everything git tracks answers 0, 0 and 0. For contrast, `pages/page-type/game.page-type.md` declares `files: akasha:**/*.game.md` and `pages/game/` holds 62 files, and `story-turn` declares its own glob and holds 139. The tower is not merely small: nothing was ever written to disk for it.\n\n`tower-session.page-type.md` defines a session as one climb of the Tower, from its first floor to where it stopped. That is a thing Alan played. This initiative's constraint names a world, a story, a chapter or a turn as never lost. A climb is none of those four words, and it is the shape here with nothing on disk behind it.\n\nThe 36 files under `akasha/story/tower` carry 0 tests, so no run in this repository has ever read one of those rows.",
+} as const satisfies Finding
