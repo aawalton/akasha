@@ -1,5 +1,6 @@
 import { existsSync, mkdirSync, rmSync } from "node:fs"
 import { dirname } from "node:path"
+import { duringOneCall } from "@akasha/command-system/during-call"
 import { exclusively } from "@akasha/file-system/exclusive"
 import { patchUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { attachmentFileOf, removeAttachment, writeAttachment } from "../../page/attachment-file.ts"
@@ -151,7 +152,34 @@ export function patchPage(
   return { ...at, commitError: took.commitError }
 }
 
+// The state a page carries but does not commit, landed beside it.
+//
+// ONE WALK OF THE CORPUS, NOT FOUR. `whereFor` asks the registry where the type is filed and then
+// scans for the type's own files, and a type filed `**/*.<slug>.md` names no folder, so both
+// questions are answered by walking every markdown file in the repo — 56,507 of them here.
+// Outside a call scope `scanGlob` memoizes nothing, so the registry's walk of each root and
+// `whereFor`'s walk of the page's root were four separate walks of the same trees, once per write.
+// The editor's observation store writes here on a 250ms settle from inside the extension host,
+// where each walk is a synchronous stall of the node event loop: 922ms of scanning per write
+// measured with the shape mark unavailable, which is how a shared worktree stands whenever `page/`
+// is dirty. Held for one call the four walks are one, and the same scanning measures 205ms.
+//
+// WHY THIS SCOPE CANNOT READ PAST ITS OWN WRITE. A memo held across a write is safe only where the
+// write cannot change what was memoized. What this lands is `<page>.uncommitted.yaml` and, if it
+// is missing, the folder holding it — no markdown page, and every glob a scan here memoizes ends
+// `.md`, so nothing this writes could ever appear in one. The uncommitted file has a memo of its
+// own and that one is already sound on these terms: `patchUncommitted` re-reads the file itself
+// rather than the memo, and `writeUncommitted` puts what it landed back into it.
 export function patchState(
+  roots: Roots,
+  pageType: string,
+  name: string,
+  values: Readonly<Record<string, unknown>>
+): Where | null {
+  return duringOneCall(() => stateLanded(roots, pageType, name, values))
+}
+
+function stateLanded(
   roots: Roots,
   pageType: string,
   name: string,
