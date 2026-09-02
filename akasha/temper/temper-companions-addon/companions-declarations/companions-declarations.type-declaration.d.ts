@@ -133,12 +133,3 @@ declare const TemperCharacters: {
   scheduleTaskAutoCompletionCheck: (this: void) => undefined
   TabManager: TemperCharactersTabManager
 }
-
-declare const TemperInventory: {
-  getSavedVariables: (this: void) => {
-    automation?: {
-      characters: Record<string, { equipment?: boolean; food?: boolean; potions?: boolean }>
-      companions: Record<string, { equipment?: boolean; skills?: boolean }>
-    }
-  }
-}

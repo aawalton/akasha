@@ -46,6 +46,7 @@
     "./lib-main-menu-shape": "./lib-main-menu-shape/lib-main-menu-shape.type-declaration.d.ts",
     "./lam-option-controls": "./lam-option-controls/lam-option-controls.type-declaration.d.ts",
     "./crafting-addon-neighbours": "./crafting-addon-neighbours/crafting-addon-neighbours.type-declaration.d.ts",
-    "./temper-addons-global": "./temper-addons-global/temper-addons-global.type-declaration.d.ts"
+    "./temper-addons-global": "./temper-addons-global/temper-addons-global.type-declaration.d.ts",
+    "./temper-inventory-global": "./temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
   }
 }

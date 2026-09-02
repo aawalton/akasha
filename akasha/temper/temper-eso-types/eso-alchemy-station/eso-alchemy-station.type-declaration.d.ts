@@ -32,6 +32,8 @@ declare const SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES212: number
 
 declare const ZO_SharedRightPanelBackground: Control
 
+declare const ZO_SharedRightBackground: Control
+
 declare const SI_BINDING_NAME_POTIONMAKER: number
 
 declare const SI_BINDING_NAME_POISONMAKER: number
