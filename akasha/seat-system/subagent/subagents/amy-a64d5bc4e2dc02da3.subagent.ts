@@ -7,4 +7,5 @@ export const amyA64d5bc4e2dc02da3 = {
   principalSeatName: "amy",
   assignmentSlug: "initiative/migrate-alan-and-jenny-to-akasha",
   dispatchedAs: "general-purpose",
+  agentId: "01a05318-95f7-7000-8337-8cdabc7ff145--a64d5bc4e2dc02da3",
 } as const satisfies Subagent
