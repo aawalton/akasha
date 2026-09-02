@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theLastTwoMarkdownReadoutReachesWantBuildingRatherThanMoving = {
+  id: "01a06431-6f25-7716-906c-59a3abb9b928",
+  pageTypeSlug: "finding",
+  slug: "the-last-two-markdown-readout-reaches-want-building-rather-than-moving",
+  domainSlug: "domain/alan-harness",
+  claim:
+    "Two files are all that still read a readout through the markdown engine, and neither can be cleared by carrying code across. `tools/lib/daily-tracking/session-pages.ts` wants a reader over every session page, which akasha has none of. `tracking-modules.ts` wants `DEFAULT_GREEN_DAY_POINTS`, which akasha must not carry. So the migration's first intent is blocked on something to be designed rather than moved.",
+  evidence:
+    "Measured 2026-09-02 at 16:15, after the widget generator, the notifier and the cardio reading all moved. Searching every `.ts` and `.tsx` outside the markdown tree for its modules finds five files. Three are not reaches: a comment in `tools/lib/surplus-fall/readout.ts:10` recording what that lane moved off, fixture strings in `tools/lib/tracking-funnel.test.ts`, and a type-only import at `akasha/status-bar-access/session-reading/session-reading.module.code.ts:3` that erases when compiled. The two that remain are `session-pages.ts:1` taking `sessionsFromAnswer` and `SessionPage`, and `tracking-modules.ts:35-36` taking `DEFAULT_GREEN_DAY_POINTS` and `wakeWindow`. The search was controlled: the same pattern finds the ladder reach it was asked to find.\n\nWhy the bar must not be carried across. Two findings already record that this same default of ten thousand is a bar no persona carries, and that it rewrote fifty `persona-day` pages between 2026-08-18 and 08-31. Moving it into akasha would give a harmful value a permanent home in the system meant to replace the one that held it.\n\nWhy the session reader cannot be carried either. akasha's nearest thing is `getWakeDayWindow`, which reads sessions beside an akasha `wake-day` page and answers ISO strings, where `wakeWindow` folds markdown session rows and answers epoch milliseconds. `SessionPage` also carries safety, difficulty and capacity, and nothing in akasha reads those over every session.\n\nBoth files sit in `tools/lib/daily-tracking/`, which Alan has said is being rebuilt from scratch. So the cheapest path to the intent may be to wait for that rebuild rather than to design a reader twice. What must not happen is the bar being carried over to make a count go to zero.",
+} as const satisfies Finding
