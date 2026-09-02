@@ -1,4 +1,4 @@
-import { HUD_SCENE_CATALOG } from "@temper/shared-interface-hud-scene-catalog/generated/hud-scene-catalog.generated"
+import { HUD_SCENE_CATALOG } from "@akasha/temper-hud-components/hud-scene-catalog"
 import { createHideRegistry, type HideRegistry } from "./hide-registry"
 import {
   migrateComponentVisibility,

@@ -34,9 +34,6 @@
       "path": "./temper/scripts"
     },
     {
-      "path": "./temper/shared-interface-hud-scene-catalog"
-    },
-    {
       "path": "./infra/k8s"
     },
     {

@@ -1,4 +1,4 @@
-import type { HudComponentRecord } from "@temper/shared-interface-hud-scene-catalog/schema"
+import type { HudComponentRecord } from "@akasha/temper-hud-components/hud-component-record"
 import type { HidePlanEntry, HideRegistration } from "./hide-types"
 
 export function indexInventoryById(

@@ -1,5 +1,5 @@
-import { HUD_SCENE_CATALOG } from "@temper/shared-interface-hud-scene-catalog/generated/hud-scene-catalog.generated"
-import type { HudComponentRecord } from "@temper/shared-interface-hud-scene-catalog/schema"
+import { HUD_SCENE_CATALOG } from "@akasha/temper-hud-components/hud-scene-catalog"
+import type { HudComponentRecord } from "@akasha/temper-hud-components/hud-component-record"
 import { header } from "@akasha/temper-settings-panel/header"
 import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import {

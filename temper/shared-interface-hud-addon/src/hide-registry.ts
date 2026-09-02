@@ -1,4 +1,4 @@
-import { HUD_SCENE_CATALOG } from "@temper/shared-interface-hud-scene-catalog/generated/hud-scene-catalog.generated"
+import { HUD_SCENE_CATALOG } from "@akasha/temper-hud-components/hud-scene-catalog"
 import { assertNever, isRecord } from "@temper/shared-narrow"
 import { computeHidePlan, indexInventoryById } from "./hide-plan"
 import type { HidePlanEntry, HideRegistration } from "./hide-types"
