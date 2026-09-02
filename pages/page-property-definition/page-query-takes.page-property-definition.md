@@ -15,7 +15,9 @@ domain-parent-slug: domain/page-query-language
 
 # Design
 
-An argument is text, a number, an instant, a calendar date, a boolean, or a list of text.
+An argument is text, a number, an instant, a calendar date, one of Alan's tracked days, a boolean, or a list of text.
+
+A tracked day is given as a calendar date and tested against the name that day's page answers to.
 
 A list argument given as one string is split on commas.
 

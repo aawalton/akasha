@@ -5,7 +5,7 @@ page-type-slug: page-query
 title: "Session spend on day"
 page-type: session-tracking
 takes:
-  date: calendar-date
+  date: tracking-day
 where:
   daily-tracking-slug:
     is: $date

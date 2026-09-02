@@ -5,6 +5,7 @@ import {
   type ReadoutSortOrder,
   readoutCatalog,
 } from "./readout-catalog.ts"
+import { TRACKING_DAY } from "../tools/lib/page-query-day.ts"
 import {
   READOUT_SCALE_PAGE_TYPE_SLUG,
   type ReadoutScale,
@@ -47,7 +48,14 @@ export function askOr(ask?: Ask): Ask {
   return held
 }
 
-const DAY_ARGUMENT_TYPE = "calendar-date"
+/**
+ * The types an argument takes when a readout is to fill it with the day being drawn.
+ *
+ * `calendar-date` is a date a query tests against a date. `tracking-day` is a date the binder turns
+ * into the name that day's page answers to, for a query reaching a day through a row standing
+ * beside it. A readout holds a day either way and hands over the same string.
+ */
+const DAY_ARGUMENT_TYPES: readonly string[] = ["calendar-date", TRACKING_DAY]
 
 export function readoutQueryDoc(slug: string): string {
   return `the \`${PAGE_QUERY_PAGE_TYPE_SLUG}\` page \`${slug}\``
@@ -251,7 +259,7 @@ export function dayGiven(readout: ResolvedReadout, query: ReadoutQuery, day: str
   const given: Record<string, string> = {}
   const unheld: string[] = []
   for (const [name, type] of Object.entries(query.takes)) {
-    if (type === DAY_ARGUMENT_TYPE) given[name] = day
+    if (DAY_ARGUMENT_TYPES.includes(type)) given[name] = day
     else if (name === readout.keyArgument && readout.queryKey !== null) {
       given[name] = readout.queryKey
     } else unheld.push(`\`${name}\` as \`${type}\``)
