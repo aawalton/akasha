@@ -3,12 +3,14 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./mined-data-parse": "./mined-data-parse/mined-data-parse.module.code.ts",
     "./saved-variables-schema": "./saved-variables-schema/saved-variables-schema.module.code.ts"
   },
   "dependencies": {
     "@akasha/temper-capture-datamining": "workspace:*",
     "@akasha/temper-capture-host": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
 }
