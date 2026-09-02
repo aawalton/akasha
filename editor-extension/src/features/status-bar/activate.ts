@@ -3,12 +3,11 @@ import * as path from 'node:path';
 import { duringOneCall } from '@akasha/command-system/during-call';
 import * as vscode from 'vscode';
 import { recordObservation } from '../../seat/observation-store.ts';
-import { glyphsOf, legendOf, nameTheStore, readGroup } from './group-stoplights.ts';
-import { createLegendStore } from './legends.ts';
+import { drawGroup, type GroupDrawing, nameTheStore } from './group-stoplights.ts';
+import { NO_LEGENDS, type StoplightLegends } from './legends.ts';
 import { applyToItems, type FreshAts, type ReadOutcomes, settleReads } from './render.ts';
 import { SLOTS } from "./slots.ts"
 import { SEPARATOR_GLYPH, SEPARATOR_HEX } from "./theme.ts";
-import type { StoplightsSection } from './slot-types.ts';
 import { readUsage } from './usage.ts';
 
 const FEATURE = 'status-bar';
@@ -19,14 +18,27 @@ const UPKEEP_GROUP = 'upkeep';
 
 const INBOX_GROUP = 'inboxes';
 
-const LEGEND_READS: Readonly<
-	Record<StoplightsSection, () => Promise<string>>
-> = {
-	upkeep: async () => legendOf(await readGroup(UPKEEP_GROUP)),
-	inbox: async () => legendOf(await readGroup(INBOX_GROUP)),
-};
-
 let output: vscode.OutputChannel;
+
+// The glyph row read off a group's drawing, so the settling and staleness below go on seeing the
+// string they already did.
+function glyphsSettled(settled: PromiseSettledResult<GroupDrawing>): PromiseSettledResult<string> {
+	return settled.status === 'fulfilled'
+		? { status: 'fulfilled', value: settled.value.glyphs }
+		: settled;
+}
+
+// A GROUP THAT WOULD NOT ANSWER KEEPS THE LABELS IT LAST NAMED. The glyph row goes stale and the
+// tooltip says since when; dropping the legend along with it would empty the tooltip, which reads
+// as a group whose readouts have no labels rather than as a reading that did not arrive. An empty
+// legend is held off for the same reason.
+function legendKept(
+	settled: PromiseSettledResult<GroupDrawing>,
+	held: string | undefined
+): string | undefined {
+	if (settled.status !== 'fulfilled' || settled.value.legend === '') { return held; }
+	return settled.value.legend;
+}
 
 export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
 	output = vscode.window.createOutputChannel('Ops: Status Bar');
@@ -63,38 +75,58 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 		usage: undefined,
 	};
 
-	const legendStore = createLegendStore(
-		(section) => LEGEND_READS[section](),
-		(section, reason) => {
-			output.appendLine(
-				`[legend] ${section}: ${String(reason)} — that group draws its reading with no legend`
-			);
-			return undefined;
-		}
-	);
+	let legends: StoplightLegends = NO_LEGENDS;
 
-	const refresh = async (trigger: string): Promise<undefined> => {
-		legendStore.pump();
+	const readOnce = async (trigger: string): Promise<undefined> => {
 		const [inbox, upkeep, usage] = await duringOneCall(async () =>
 			Promise.allSettled([
-				readGroup(INBOX_GROUP).then(glyphsOf),
-				readGroup(UPKEEP_GROUP).then(glyphsOf),
+				drawGroup(INBOX_GROUP),
+				drawGroup(UPKEEP_GROUP),
 				readUsage(),
 			])
 		);
 		const outcomes: ReadOutcomes = {
-			inbox,
-			upkeep,
+			inbox: glyphsSettled(inbox),
+			upkeep: glyphsSettled(upkeep),
 			usage,
 		};
+		legends = {
+			inbox: legendKept(inbox, legends.inbox),
+			upkeep: legendKept(upkeep, legends.upkeep),
+		};
 		const reads = settleReads(outcomes, freshAts, Date.now());
-		applyToItems(items, reads, legendStore.read());
+		applyToItems(items, reads, legends);
 		freshAts = {
 			inbox: reads.inbox.lastFreshAt,
 			upkeep: reads.upkeep.lastFreshAt,
 			usage: reads.usage.lastFreshAt,
 		};
 		logRefresh(trigger, outcomes);
+		return undefined;
+	};
+
+	// ONE READ AT A TIME, THE WAY THE AGENT TREE ALREADY DOES IT. Every drawn slot carries
+	// `opsStatusBar.refreshNow` as its click command, so a run of clicks started a run of refreshes,
+	// each spawning its own `claude-usage` child and each contending with the others for the store
+	// and the CPU — on a box under load the clicks that asked for a faster answer bought a slower
+	// one. A trigger arriving mid-read now waits for the read in flight rather than starting a
+	// second, so what a click promises is the reading in hand rather than another attempt at it.
+	let reading: Promise<undefined> | undefined;
+
+	const refresh = async (trigger: string): Promise<undefined> => {
+		const inFlight = reading;
+		if (inFlight !== undefined) {
+			output.appendLine(`[${trigger}] a read is already in flight — waiting for it`);
+			await inFlight;
+			return undefined;
+		}
+		const started = readOnce(trigger);
+		reading = started;
+		try {
+			await started;
+		} finally {
+			reading = undefined;
+		}
 		return undefined;
 	};
 
