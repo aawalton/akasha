@@ -1,4 +1,4 @@
-import type { CharacterState } from "@temper/game-characters-character/build-types"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
 
