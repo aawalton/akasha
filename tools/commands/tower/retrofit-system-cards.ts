@@ -4,12 +4,12 @@ export const summary =
 import { readFile } from "node:fs/promises"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { pageStemOf } from "@akasha/pages-system/markdown-page-name"
-import { parseTowerState } from "@akasha/story-tower-core/tower-state"
 import {
   createProgressionState,
   extractSystemCards,
   retrofitChapterText,
-} from "@akasha/tower/retrofit-system-cards"
+} from "@akasha/story-tower/retrofit-system-cards"
+import { parseTowerState } from "@akasha/story-tower-core/tower-state"
 import { z } from "zod"
 import { dataError, operationalError } from "../../lib/exit.ts"
 import { answer } from "../../lib/page-query.ts"

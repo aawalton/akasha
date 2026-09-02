@@ -1839,7 +1839,7 @@
       "name": "@akasha/testing-system",
     },
     "akasha/tower": {
-      "name": "@akasha/tower",
+      "name": "@akasha/story-tower",
       "dependencies": {
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/story-tower-core": "workspace:*",
@@ -3737,7 +3737,7 @@
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:akasha/testing-system"],
 
-    "@akasha/tower": ["@akasha/tower@workspace:akasha/tower"],
+    "@akasha/story-tower": ["@akasha/story-tower@workspace:akasha/tower"],
 
     "@akasha/story-tower-core": ["@akasha/story-tower-core@workspace:akasha/story/tower/core"],
 

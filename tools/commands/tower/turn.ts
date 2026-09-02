@@ -2,9 +2,9 @@ export const summary =
   "Resolve one action through the pure engine and print the roll (coordinator-only)"
 
 import { readFile } from "node:fs/promises"
+import { actionResultToRollPayload } from "@akasha/story-tower/roll-payload"
 import type { ActionInput } from "@akasha/story-tower-engine/combat-types"
 import { resolveAction } from "@akasha/story-tower-engine/resolve-action"
-import { actionResultToRollPayload } from "@akasha/tower/roll-payload"
 import { z } from "zod"
 import { dataError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"

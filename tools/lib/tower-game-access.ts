@@ -1,5 +1,5 @@
+import { TOWER_SESSION_SLUG } from "@akasha/story-tower/tower-page-slugs"
 import { type TowerState, TowerStateSchema } from "@akasha/story-tower-core/tower-state"
-import { TOWER_SESSION_SLUG } from "@akasha/tower/tower-page-slugs"
 import { askComposed } from "@shared/pages-query/ask"
 
 const GAME_KEY = "game-slug"
