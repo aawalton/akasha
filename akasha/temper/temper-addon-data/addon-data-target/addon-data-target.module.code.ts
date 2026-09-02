@@ -8,13 +8,6 @@ export type AddonDataTarget = {
 
 export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
   {
-    rendered: "achievement-data.generated.ts",
-    workspacePackage: "temper-player-completion",
-    moduleSlug: "completion-achievement-data",
-    partPrefix: "completion-achievement-data",
-    parts: 26,
-  },
-  {
     rendered: "alliance-mappings.generated.ts",
     workspacePackage: "temper-characters-capture-addon",
     moduleSlug: "character-capture-alliance-map",
@@ -62,13 +55,6 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     moduleSlug: "character-capture-codec-constants",
     partPrefix: "character-capture-codec-constants",
     parts: 1,
-  },
-  {
-    rendered: "collectibles-data.generated.ts",
-    workspacePackage: "temper-player-completion",
-    moduleSlug: "completion-collectibles-data",
-    partPrefix: "completion-collectibles-data",
-    parts: 88,
   },
   {
     rendered: "companion-mappings.generated.ts",
@@ -146,13 +132,6 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     moduleSlug: "character-capture-skill-map",
     partPrefix: "character-capture-skill-map",
     parts: 1,
-  },
-  {
-    rendered: "poi-data.generated.ts",
-    workspacePackage: "temper-player-completion",
-    moduleSlug: "completion-poi-data",
-    partPrefix: "completion-poi-data",
-    parts: 21,
   },
   {
     rendered: "potion-mappings.generated.ts",
@@ -398,13 +377,6 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     moduleSlug: "completion-tribute-data",
     partPrefix: "completion-tribute-data",
     parts: 1,
-  },
-  {
-    rendered: "zone-completion-data.generated.ts",
-    workspacePackage: "temper-player-completion",
-    moduleSlug: "completion-zone-data",
-    partPrefix: "completion-zone-data",
-    parts: 41,
   },
 ]
 
