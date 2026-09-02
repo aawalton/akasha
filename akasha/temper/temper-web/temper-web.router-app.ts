@@ -22,6 +22,7 @@ export const temperWeb = {
     "module/companion-actions",
     "module/companion-armor-panel-card",
     "module/companion-bulk-edit-tag",
+    "module/companion-context",
     "module/companion-contexts",
     "module/companion-entity-panel-card",
     "module/companion-equipment-panel",
