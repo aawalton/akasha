@@ -18,6 +18,7 @@ export const temperItemsCore = {
     "module/eso-bag-constants",
     "module/eso-companion-equipment-constants-data",
     "module/eso-player-equipment-constants-data",
+    "module/eso-trait-reverse-map",
     "module/inventory-craft-bag-types",
     "module/inventory-currencies",
     "module/inventory-currency-data",
