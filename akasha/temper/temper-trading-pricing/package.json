@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/temper-trading-pricing",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./crown-consumable-price-lookup": "./crown-consumable-price-lookup/crown-consumable-price-lookup.module.code.ts",
+    "./currency-price-lookup": "./currency-price-lookup/currency-price-lookup.module.code.ts",
+    "./is-price-entry": "./is-price-entry/is-price-entry.module.code.ts",
+    "./kiosk-location-name": "./kiosk-location-name/kiosk-location-name.module.code.ts",
+    "./pricing-types": "./pricing-types/pricing-types.module.code.ts",
+    "./ttc-listing-schema": "./ttc-listing-schema/ttc-listing-schema.module.code.ts",
+    "./ttc-listing-types": "./ttc-listing-types/ttc-listing-types.module.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}

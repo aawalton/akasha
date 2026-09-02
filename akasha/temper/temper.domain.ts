@@ -67,6 +67,7 @@ export const temper = {
     "workspace-package/temper-races",
     "workspace-package/temper-skill-lines",
     "workspace-package/temper-quests-trace",
+    "workspace-package/temper-trading-pricing",
   ],
   invariants: [
     {
