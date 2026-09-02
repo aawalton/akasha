@@ -5,11 +5,13 @@ import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
+import { decodeBuild, encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import { createEmptyCharacter } from "@akasha/temper-character-build/build-factory"
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import { toCharacterVisibility } from "@akasha/temper-character-build/build-types"
 import { skills } from "@akasha/temper-character-skills/character-skills"
 import { setsAll } from "@akasha/temper-characters-equipment/sets-all"
+import { decodeCompanion, encodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import { createEmptyCompanion } from "@akasha/temper-companions-core/companion-factory"
 import { toVisibility } from "@akasha/temper-companions-core/companion-types"
 import {
@@ -24,8 +26,6 @@ import {
   applyCharacterMetadata,
   applyCompanionMetadata,
 } from "@temper/game-characters/build-metadata"
-import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-codec"
-import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"
