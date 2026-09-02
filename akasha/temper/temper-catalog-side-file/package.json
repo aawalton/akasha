@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/temper-catalog-side-file",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./catalog-side-file": "./catalog-side-file/catalog-side-file.module.code.ts",
+    "./catalog-file-paths": "./catalog-file-paths/catalog-file-paths.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-eso-paths": "workspace:*",
+    "@akasha/temper-saved-variables": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

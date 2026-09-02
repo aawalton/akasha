@@ -77,6 +77,7 @@ export const temper = {
     "workspace-package/temper-equipment-kinds",
     "workspace-package/temper-hud-window",
     "workspace-package/temper-errors-triage",
+    "workspace-package/temper-catalog-side-file",
   ],
   invariants: [
     {
