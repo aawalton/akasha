@@ -7,6 +7,7 @@ export const temperLibTreasure = {
   definition: "where every treasure map, survey report and clue is buried",
   manifest: "json",
   addonManifest: "json",
+  bundleEntrySlug: "treasure-main",
   partSlugs: [
     "module/treasure-constants",
     "module/treasure-types",
@@ -18,6 +19,11 @@ export const temperLibTreasure = {
     "module/treasure-pins-data-02",
     "module/treasure-pins-data-03",
     "module/treasure-pins-data",
+    "module/treasure-build-data",
+    "module/treasure-lib-state",
+    "module/treasure-api",
+    "module/treasure-public-api",
+    "module/treasure-main",
   ],
   invariants: [
     {

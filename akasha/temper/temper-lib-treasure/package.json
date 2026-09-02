@@ -12,6 +12,11 @@
     "./treasure-pins-data-01": "./treasure-pins-data-01/treasure-pins-data-01.module.code.ts",
     "./treasure-pins-data-02": "./treasure-pins-data-02/treasure-pins-data-02.module.code.ts",
     "./treasure-pins-data-03": "./treasure-pins-data-03/treasure-pins-data-03.module.code.ts",
-    "./treasure-pins-data": "./treasure-pins-data/treasure-pins-data.module.code.ts"
+    "./treasure-pins-data": "./treasure-pins-data/treasure-pins-data.module.code.ts",
+    "./treasure-build-data": "./treasure-build-data/treasure-build-data.module.code.ts",
+    "./treasure-lib-state": "./treasure-lib-state/treasure-lib-state.module.code.ts",
+    "./treasure-api": "./treasure-api/treasure-api.module.code.ts",
+    "./treasure-public-api": "./treasure-public-api/treasure-public-api.module.code.ts",
+    "./treasure-main": "./treasure-main/treasure-main.module.code.ts"
   }
 }
