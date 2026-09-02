@@ -4,11 +4,11 @@ import {
   applyCompanionMetadata,
   extractCompanionMetadata,
 } from "@akasha/temper-build-metadata/build-metadata"
+import { decodeCompanion, encodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import { getBaseRoleName } from "@akasha/temper-companions-core/companion-base-roles"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { companions as companionsData } from "@akasha/temper-companions-core/companions"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
-import { decodeCompanion, encodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { useCompanionLifecycle, useCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
