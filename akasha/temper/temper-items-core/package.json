@@ -53,6 +53,7 @@
     "./motif-name-parser": "./motif-name-parser/motif-name-parser.module.code.ts",
     "./plan-inventory-import": "./plan-inventory-import/plan-inventory-import.module.code.ts",
     "./recipe-result-id-lookup": "./recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts",
+    "./script-knowledge-lookup": "./script-knowledge-lookup/script-knowledge-lookup.module.code.ts",
     "./set-category-mappings": "./set-category-mappings/set-category-mappings.module.code.ts",
     "./shard-inventory": "./shard-inventory/shard-inventory.module.code.ts"
   },
@@ -62,6 +63,7 @@
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
+    "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
