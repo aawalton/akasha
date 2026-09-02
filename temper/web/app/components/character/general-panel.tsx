@@ -1,7 +1,7 @@
 "use client"
 
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { BuildDescriptionPanelCard } from "@/components/character/build-description-panel-card"
 import { BuildInfoPanelCard } from "@/components/character/build-info-panel-card"
