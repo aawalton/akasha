@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "All 104 queries are pages; `page-query` at `9fe4ee0941`. Relays fixed at `5eefbbf0b8` and verified at the server: 17 of 17 carried, every readout fresh, since exit 0 implies a 2xx implies the hold ran. A dash `ExecStart` erases the failure record — finding `7260ca1905`, so run the command, never read systemd. Left before deletion: `categorization` is `unreviewed` in markdown and `monarch-unreviewed-transactions` in akasha; `group-divergence.ts` has no caller and goes with the markdown.",
+        "Relays fixed `5eefbbf0b8`, verified at the server and holding on the timer, zero failures since 15:28. THE MARKDOWN CANNOT BE DELETED YET. A field-by-field diff found real losses: no akasha upkeep readout carries `querySlug`, `readLiveFrom` has no akasha property at all, 7 of 9 widget pages and the whole `readouts/ring/` ladder are markdown-only, and the two engines CONTRADICT on whether a value floors to a rung. `5ec8f14ad5` stilled `inboxes-texts`; `9bd7b18e49` the group orders.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
