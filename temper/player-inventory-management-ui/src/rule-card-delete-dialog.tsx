@@ -1,9 +1,18 @@
 "use client"
 
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@akasha/design-primitives/alert-dialog"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "@akasha/design-primitives/alert-dialog"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { getActionLabel } from "./action-options"
 
 interface RuleCardDeleteDialogProps {
