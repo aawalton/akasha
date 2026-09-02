@@ -1,5 +1,9 @@
 import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
-import { asVoidSelfFn, asZoColorDef } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
+import {
+  asGlobalTable,
+  asVoidSelfFn,
+  asZoColorDef,
+} from "../custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   MENU_ADD_OPTION_HEADER,
   SUBMENU_ITEM_MOUSE_CLICKED,
@@ -9,7 +13,6 @@ import {
 import { LIB } from "../custom-menu-lib/custom-menu-lib.module.code.ts"
 import type {
   LcmSubmenuParent,
-  Lib,
   MenuEntry,
   TooltipValue,
   Valued,
@@ -137,15 +140,9 @@ function addCustomSubMenuItem(
   return index
 }
 
-declare global {
-  var AddCustomMenuItem: typeof addCustomMenuItem
-  var AddCustomMenuTooltip: typeof addCustomMenuTooltip
-  var AddCustomSubMenuItem: typeof addCustomSubMenuItem
-  var LibCustomMenu: Lib
-}
-
-globalThis.AddCustomMenuItem = addCustomMenuItem
-globalThis.AddCustomMenuTooltip = addCustomMenuTooltip
-globalThis.AddCustomSubMenuItem = addCustomSubMenuItem
-globalThis.MENU_ADD_OPTION_HEADER = MENU_ADD_OPTION_HEADER
-globalThis.LibCustomMenu = LIB
+const published = asGlobalTable(globalThis)
+published["AddCustomMenuItem"] = addCustomMenuItem
+published["AddCustomMenuTooltip"] = addCustomMenuTooltip
+published["AddCustomSubMenuItem"] = addCustomSubMenuItem
+published["MENU_ADD_OPTION_HEADER"] = MENU_ADD_OPTION_HEADER
+published["LibCustomMenu"] = LIB

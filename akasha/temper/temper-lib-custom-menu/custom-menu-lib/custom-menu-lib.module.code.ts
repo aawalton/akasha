@@ -1,4 +1,5 @@
 import "../custom-menu-declarations/custom-menu-declarations.module.code.ts"
+import { asMenuRegistry } from "../custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
   CATEGORY_EARLY,
   CATEGORY_LATE,
@@ -80,13 +81,13 @@ export const LIB: Lib = {
   CATEGORY_QUATERNARY,
   CATEGORY_LATE,
 
-  contextMenuRegistry: ZO_CallbackObject.New(),
-  keybindRegistry: ZO_CallbackObject.New(),
-  playerContextMenuRegistry: ZO_CallbackObject.New(),
-  guildRosterContextMenuRegistry: ZO_CallbackObject.New(),
-  friendsListContextMenuRegistry: ZO_CallbackObject.New(),
-  ignoreListContextMenuRegistry: ZO_CallbackObject.New(),
-  groupListContextMenuRegistry: ZO_CallbackObject.New(),
+  contextMenuRegistry: asMenuRegistry(ZO_CallbackObject.New()),
+  keybindRegistry: asMenuRegistry(ZO_CallbackObject.New()),
+  playerContextMenuRegistry: asMenuRegistry(ZO_CallbackObject.New()),
+  guildRosterContextMenuRegistry: asMenuRegistry(ZO_CallbackObject.New()),
+  friendsListContextMenuRegistry: asMenuRegistry(ZO_CallbackObject.New()),
+  ignoreListContextMenuRegistry: asMenuRegistry(ZO_CallbackObject.New()),
+  groupListContextMenuRegistry: asMenuRegistry(ZO_CallbackObject.New()),
 
   itemPool: ZO_ObjectPool.New(menuItemFactory, resetMenuItem),
   submenuPool: ZO_ObjectPool.New(subMenuItemFactory, resetMenuItem),

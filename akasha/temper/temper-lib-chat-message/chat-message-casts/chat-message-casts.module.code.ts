@@ -23,6 +23,11 @@ export function asChatProxy(value: object): ChatProxy {
   return value as ChatProxy
 }
 
+export type ChatEventKey = string | number
+export function asChatEventKey(value: unknown): ChatEventKey {
+  return value as ChatEventKey
+}
+
 export function asString(value: unknown): string {
   return value as string
 }

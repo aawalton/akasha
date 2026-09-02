@@ -49,4 +49,4 @@ interface LibChatMessage {
   GetChatHistoryMaxAge: (this: LibChatMessage) => number
 }
 
-declare const LibChatMessage: LibChatMessage
+declare const LibChatMessage: LibChatMessage | undefined

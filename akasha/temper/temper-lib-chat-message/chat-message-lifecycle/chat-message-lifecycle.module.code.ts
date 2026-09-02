@@ -1,5 +1,6 @@
 import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 import {
+  asChatEventKey,
   asHistoryArray,
   asNumber,
   asSettings,
@@ -59,11 +60,12 @@ export function registerLifecycle(this: void): undefined {
 
       function restoreChatHistoryEntry(this: void, entry: HistoryEntry): undefined {
         LIB.nextEventTimeStamp = asNumber(entry[0])
+        const eventKey = asChatEventKey(readFromSavedVariable(entry[1]))
         const args: unknown[] = []
-        for (let i = 1; i < entry.length; i += 1) {
+        for (let i = 2; i < entry.length; i += 1) {
           args[args.length] = readFromSavedVariable(entry[i])
         }
-        CHAT_ROUTER.FormatAndAddChatMessage(...args)
+        CHAT_ROUTER.FormatAndAddChatMessage(eventKey, ...args)
       }
 
       function restoreChatHistory(this: void): undefined {

@@ -13,6 +13,8 @@ export type GlobalFnTable = Record<
 
 export type SlotActionsTable = Record<string, unknown>
 
+export type GlobalTable = Record<string, unknown>
+
 export type ValuedString = Valued<string>
 
 export type VoidSelfFn = (this: void) => void
@@ -47,6 +49,14 @@ export function asLcmMenu(value: unknown): LcmMenu {
 
 export function asLcmLabel(value: unknown): LcmLabel {
   return value as LcmLabel
+}
+
+export function asGlobalTable(value: unknown): GlobalTable {
+  return value as GlobalTable
+}
+
+export function asMenuRegistry(value: unknown): ZoCallbackObject {
+  return value as ZoCallbackObject
 }
 
 export function asZoColorDef(value: unknown): ZoColorDef {

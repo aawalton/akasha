@@ -62,9 +62,9 @@ export function createChatProxy(this: void, longTag: string, shortTag: string): 
 export function installChatProxy(this: void): undefined {
   LIB.Create = createChatProxy
   setmetatable(LIB, {
-    __call(this: Lib, longTag: string, shortTag: string): ChatProxy {
+    __call(this: Lib, ...args: unknown[]): ChatProxy {
       const create = LIB.Create ?? createChatProxy
-      return create(longTag, shortTag)
+      return create(asString(args[0]), asString(args[1]))
     },
   })
 }
