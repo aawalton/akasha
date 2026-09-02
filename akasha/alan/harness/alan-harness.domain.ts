@@ -105,7 +105,7 @@ export const alanHarness = {
     },
     {
       invariantKind: "departure",
-      statement: "Alan's values group shows all six stoplights.",
+      statement: "Alan's code editor status line shows Claude usage and both readout groups.",
     },
   ],
   directives: [

@@ -9,11 +9,6 @@ export const migrateAlanAndJennyToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "The code editor's status line shows Claude usage and both readout groups.",
-      workingMemory:
-        "The bar is 4th fastest of 8 features in every condition, so what Alan reads as slow is the host frozen under it. Muting the observation write took blocked time 11064ms to 945ms, twice over: `observation-store.ts` looks like an HTTP POST and lands in-process, a 117k-file readdir plus 6 spawnSync git children plus a lock spin, fed by three panels polling at 1s. A 10s minimum between flushes was revert-tested and gave nothing, so the write must leave the loop rather than run less often.",
-    },
-    {
       statement: "The code editor's four panels each show what akasha holds.",
       workingMemory:
         "The host was the wall, not the panels: the observation write held the thread 4579ms of every stretch and holds 124ms since `8be23cdcca`. Domains reads fell 10.9 a minute to 4.4 and redraws to 0.75 at `b1b5f17e6e`, once equal bytes stopped being reparsed. What is left is that Pages reads from outside akasha — 3180 of its 3243 rows come from `pages/`, the markdown store, against 63 from akasha. Alan says akasha only, served from the index.",
