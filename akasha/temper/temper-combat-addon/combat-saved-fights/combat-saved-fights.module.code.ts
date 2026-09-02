@@ -25,10 +25,6 @@ const [LDE] = assert(
   "LibDataEncode wasn't found"
 )
 
-declare global {
-  var TemperCombat_FightData: FightDataSVRaw | undefined
-}
-
 let sv: FightDataSV | undefined
 
 function hasVersion(table: FightDataSVRaw): table is FightDataSV {

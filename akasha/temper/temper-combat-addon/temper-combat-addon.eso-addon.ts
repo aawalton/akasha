@@ -171,6 +171,10 @@ export const temperCombatAddon = {
     "type-declaration/combat-string-ids",
     "type-declaration/combat-string-ids-menus",
     "type-declaration/combat-string-ids-report",
+    "type-declaration/combat-saved-fights-declarations",
+    "type-declaration/combat-ui-live-report-declarations",
+    "type-declaration/combat-ui-main-panel-declarations",
+    "type-declaration/combat-ui-state-declarations",
   ],
   interfaceSlugs: ["combat-templates-layout", "combat-report-layout", "combat-live-report-layout"],
   invariants: [

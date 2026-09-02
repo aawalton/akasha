@@ -3,7 +3,6 @@ import type {
   SelectionData,
   SelectionState,
 } from "@akasha/temper-combat-addon/combat-core-types"
-import type { LayoutControl } from "@akasha/temper-combat-addon/combat-ui-helpers"
 
 let dxCache: number | undefined
 
@@ -32,14 +31,6 @@ export interface ReportControl extends Control {
   Update?: (this: void, control: Control, fightId?: number) => undefined
   Toggle?: (this: void) => undefined
   Resize?: (this: void, scale: number) => undefined
-}
-
-declare global {
-  const TemperCombat_Report: TopLevelWindow & ReportControl & LayoutControl
-  const TemperCombat_Report_FightList: UpdatableControl
-  const TemperCombat_Report_InfoPanel: UpdatableControl
-  const TemperCombat_Report_AbilityPanel: UpdatableControl
-  const TemperCombat_Report_MainPanelGraph: UpdatableControl
 }
 
 export type SelectionTable = Record<string | number, unknown>

@@ -15,12 +15,8 @@ import {
   resizeLiveReport,
 } from "@akasha/temper-combat-addon/combat-ui-live-refresh"
 
-interface LiveReportControl extends LayoutControl, TopLevelWindow {
+export interface LiveReportControl extends LayoutControl, TopLevelWindow {
   Toggle?: (this: void, control: Control, value?: boolean) => undefined
-}
-
-declare global {
-  const TemperCombat_LiveReport: LiveReportControl
 }
 
 export function maxStat(): string {

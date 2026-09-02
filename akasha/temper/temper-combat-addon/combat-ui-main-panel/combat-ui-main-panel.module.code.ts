@@ -8,10 +8,6 @@ export interface ActivePanelControl extends UpdatableControl {
   active?: UpdatableControl
 }
 
-declare global {
-  const TemperCombat_Report_MainPanel: ActivePanelControl
-}
-
 export function updateMainPanel(this: void, mainpanel: ActivePanelControl): undefined {
   log("UI", LOG_LEVEL_DEBUG, "Updating MainPanel")
 
