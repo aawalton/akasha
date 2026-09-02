@@ -2,6 +2,7 @@ import { askingFor } from "@akasha/pages-system-service/calling"
 import { READOUT_CACHE_CONTROL } from "../readout-credential/readout-credential.module.code.ts"
 import { stated } from "../readout-none-left/readout-none-left.module.code.ts"
 import {
+  type HeldReading,
   noReading,
   type RingAdmission,
   readingHeldFor,
@@ -38,6 +39,12 @@ export type Stoplight = {
 
 type Values = Readonly<Record<string, unknown>>
 
+export type ReadingHeld = (row: Values) => HeldReading
+
+export function relayedReading(row: Values): HeldReading {
+  return readingHeldFor(stated(row.slug) ?? "")
+}
+
 export function inPlaceOrder(rows: readonly Values[]): readonly Values[] {
   return [...rows].sort((one, two) => (statedAt(one.place) ?? 0) - (statedAt(two.place) ?? 0))
 }
@@ -58,7 +65,8 @@ async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
 
 export async function stoplightOf(
   row: Values,
-  wireKeyName: string = HABIT
+  wireKeyName: string = HABIT,
+  readingHeld: ReadingHeld = relayedReading
 ): Promise<Stoplight | null> {
   const slug = stated(row.slug)
   const label = stated(row.label)
@@ -68,7 +76,7 @@ export async function stoplightOf(
   const wireKey = stated(row.wireKey)
   if (wireKey === undefined) return null
 
-  const reading = readingHeldFor(slug)
+  const reading = readingHeld(row)
   if (reading.held !== "fresh") {
     return {
       ...wireKeyed(wireKeyName, wireKey),
@@ -92,6 +100,25 @@ export async function stoplightOf(
   }
 }
 
+export async function stoplightsInGroup(
+  groupSlug: string,
+  wireKeyName: string = HABIT,
+  readingHeld: ReadingHeld = relayedReading
+): Promise<readonly Stoplight[]> {
+  const asked = await askingFor({
+    pageTypeSlug: READOUT,
+    where: { groupSlugs: { has: groupSlug } },
+  })
+  if ("refused" in asked) return []
+
+  const stoplights: Stoplight[] = []
+  for (const row of inPlaceOrder(asked.rows)) {
+    const one = await stoplightOf(row, wireKeyName, readingHeld)
+    if (one !== null) stoplights.push(one)
+  }
+  return stoplights
+}
+
 export async function answerStoplightsAdmittedBy(
   request: Request,
   admit: RingAdmission,
@@ -101,17 +128,7 @@ export async function answerStoplightsAdmittedBy(
   const refusal = await admit(request)
   if (refusal !== null) return refusal
 
-  const asked = await askingFor({
-    pageTypeSlug: READOUT,
-    where: { groupSlugs: { has: groupSlug } },
-  })
-  if ("refused" in asked) return noReading()
-
-  const stoplights: Stoplight[] = []
-  for (const row of inPlaceOrder(asked.rows)) {
-    const one = await stoplightOf(row, wireKeyName)
-    if (one !== null) stoplights.push(one)
-  }
+  const stoplights = await stoplightsInGroup(groupSlug, wireKeyName)
   if (stoplights.length === 0) return noReading()
 
   return Response.json({ stoplights }, { headers: { "Cache-Control": READOUT_CACHE_CONTROL } })
