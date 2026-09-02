@@ -5,7 +5,7 @@ import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
 import { blobsIn, bodyOf } from "../patching/patching.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { writing } from "../scratching/scratching.module.test-fixtures.ts"
-import { drafted, resolved } from "./drafting.module.code.ts"
+import { drafted, resolved, wouldHold } from "./drafting.module.code.ts"
 
 const PAGE = "akasha/seat-system/seat/seats/tester.seat.ts"
 const ONE = "akasha/one.page.ts"
@@ -88,6 +88,33 @@ test("a patch is rebased onto a commit that moved under the draft", () => {
   expect(draftedBody(root, ONE)).toBe(swapped(swapped(TEN, "b", "B"), "j", "J"))
   const head = gitSaid(root, ["rev-parse", `HEAD:${ONE}`]).trim()
   expect(blobsIn(patchIn(root, PAGE) ?? "").get(ONE)?.base).toBe(head)
+})
+
+test("what the patch would hold carries a path this draft does not name", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
+  const said = wouldHold(root, PAGE, [{ path: TWO, was: null, body: "fresh\n" }])
+  if ("why" in said) throw new Error(said.why)
+  expect([...said.held.keys()].sort()).toEqual([ONE, TWO])
+  expect(said.held.get(ONE)?.body).toBe(swapped(TEN, "b", "B"))
+  expect(said.held.get(TWO)?.body).toBe("fresh\n")
+})
+
+test("what the patch would hold is rebased onto the commit at HEAD", () => {
+  const root = repoAt()
+  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
+  landed(root, { [ONE]: swapped(TEN, "j", "J") })
+  const said = wouldHold(root, PAGE, [])
+  if ("why" in said) throw new Error(said.why)
+  expect(said.held.get(ONE)?.body).toBe(swapped(swapped(TEN, "b", "B"), "j", "J"))
+})
+
+test("what the patch would hold writes no patch", () => {
+  const root = repoAt()
+  const said = wouldHold(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
+  expect("why" in said).toBe(false)
+  expect(patchIn(root, PAGE)).toBeNull()
+  expect(refs(root)).toBe("")
 })
 
 test("a line conflict is drafted into the patch as the body git marked", () => {

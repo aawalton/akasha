@@ -103,6 +103,18 @@ export const drafting = {
       statement: "A path that is no page is refused rather than drafted.",
     },
     {
+      invariantKind: "departure",
+      statement: "What the patch would hold is answered without the patch being written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the patch would hold is the patch rebased with the draft folded in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the patch holds is answered whether or not the draft names that path.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes into the worktree.",
     },

@@ -1,4 +1,4 @@
-import { keptPatch, patchAt } from "@akasha/agents/patch-keeping"
+import { keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { clashing, mergedOnto } from "../body-merging/body-merging.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
@@ -39,6 +39,8 @@ export type Rebased = {
   readonly moved: readonly string[]
   readonly clashed: readonly string[]
 }
+
+export type Would = { readonly held: Bodies } | { readonly why: string }
 
 type Held = Map<string, { readonly was: string | null; readonly body: string | null }>
 
@@ -113,6 +115,14 @@ function folded(held: Bodies, drafts: readonly Draft[]): Worked {
     next.set(one.path, { was: one.was, body: said.body })
   }
   return { held: next }
+}
+
+export function wouldHold(root: string, page: string, drafts: readonly Draft[]): Would {
+  if (patchAt(page) === null) return { why: NO_PAGE }
+  const first = rebasedOnto(root, headOf(root), patchIn(root, page))
+  if ("why" in first) return first
+  const then = folded(first.held, drafts)
+  return "why" in then ? then : { held: then.held }
 }
 
 function changesOf(held: Held): readonly Change[] {
