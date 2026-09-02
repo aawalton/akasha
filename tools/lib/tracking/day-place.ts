@@ -36,169 +36,38 @@ export type SessionAct = "write-row" | "patch-row" | "remove-row"
  * Which half of the corpus one of Alan's days is kept in.
  *
  * Every reach that writes a day, or writes a session beside a day, asks this first, and nothing
- * reaches the file layer around it. That is the whole point of this file: while the migration is
- * partly done, one day is markdown and the next is akasha, and a reach that decides for itself
+ * reaches the file layer around it. That is the whole point of this file: while the migration was
+ * partly done, one day was markdown and the next was akasha, and a reach that decided for itself
  * would write a new day to the old place after that day had already moved — two files for one day,
  * each holding half of it, and nothing saying which is the day.
  *
- * Today no day has moved, so this answers `markdown` for all of them and every write lands exactly
- * where it landed before. When a day moves, name it here. When they all have, this returns `akasha`
- * outright and dies with the migration.
+ * Every day has moved, so this answers `akasha` outright. What stood here until it did was
+ * `MIGRATED_DAYS`, a set naming the 133 days already carried across, and a day it did not name was
+ * answered `markdown`. That set could only ever be right for the day it was last edited on: it
+ * named up to 2026-09-01 while the day being tracked was 2026-09-02, so today's day was written to
+ * `pages/daily-tracking/` after every day before it had moved, and the migration that would have
+ * carried it over afterwards had already been deleted as dead. Naming one more day would have put
+ * the same lag back at the next midnight. A constant is the wrong instrument for a question whose
+ * answer changes while nobody is editing this file.
+ *
+ * The days the set named are in this file's history, and the pages themselves are the record that
+ * they moved. `dayStr` is taken and not read, because every caller has a day in hand and the audit
+ * in `tools/lib/tracking-funnel.ts` reads a reach as funnelled by its asking here.
  */
-export const MIGRATED_DAYS: ReadonlySet<string> = new Set<string>([
-  "2026-03-05",
-  "2026-03-06",
-  "2026-03-07",
-  "2026-03-08",
-  "2026-03-09",
-  "2026-03-14",
-  "2026-03-15",
-  "2026-03-19",
-  "2026-03-20",
-  "2026-03-21",
-  "2026-03-23",
-  "2026-03-24",
-  "2026-03-25",
-  "2026-03-26",
-  "2026-03-29",
-  "2026-04-05",
-  "2026-04-26",
-  "2026-04-27",
-  "2026-04-28",
-  "2026-04-29",
-  "2026-04-30",
-  "2026-05-02",
-  "2026-05-03",
-  "2026-05-04",
-  "2026-05-05",
-  "2026-05-06",
-  "2026-05-07",
-  "2026-05-08",
-  "2026-05-11",
-  "2026-05-13",
-  "2026-05-14",
-  "2026-05-15",
-  "2026-05-16",
-  "2026-05-20",
-  "2026-05-25",
-  "2026-05-26",
-  "2026-05-27",
-  "2026-05-29",
-  "2026-05-30",
-  "2026-05-31",
-  "2026-06-01",
-  "2026-06-02",
-  "2026-06-03",
-  "2026-06-04",
-  "2026-06-05",
-  "2026-06-06",
-  "2026-06-07",
-  "2026-06-08",
-  "2026-06-09",
-  "2026-06-10",
-  "2026-06-11",
-  "2026-06-12",
-  "2026-06-13",
-  "2026-06-14",
-  "2026-06-15",
-  "2026-06-16",
-  "2026-06-17",
-  "2026-06-18",
-  "2026-06-19",
-  "2026-06-20",
-  "2026-06-21",
-  "2026-06-22",
-  "2026-06-23",
-  "2026-06-24",
-  "2026-06-25",
-  "2026-06-26",
-  "2026-06-27",
-  "2026-06-28",
-  "2026-06-29",
-  "2026-06-30",
-  "2026-07-01",
-  "2026-07-02",
-  "2026-07-03",
-  "2026-07-04",
-  "2026-07-05",
-  "2026-07-06",
-  "2026-07-07",
-  "2026-07-08",
-  "2026-07-09",
-  "2026-07-10",
-  "2026-07-11",
-  "2026-07-12",
-  "2026-07-13",
-  "2026-07-14",
-  "2026-07-15",
-  "2026-07-16",
-  "2026-07-17",
-  "2026-07-18",
-  "2026-07-19",
-  "2026-07-20",
-  "2026-07-21",
-  "2026-07-22",
-  "2026-07-23",
-  "2026-07-24",
-  "2026-07-25",
-  "2026-07-26",
-  "2026-07-27",
-  "2026-07-28",
-  "2026-07-29",
-  "2026-07-30",
-  "2026-07-31",
-  "2026-08-01",
-  "2026-08-02",
-  "2026-08-03",
-  "2026-08-04",
-  "2026-08-05",
-  "2026-08-06",
-  "2026-08-07",
-  "2026-08-08",
-  "2026-08-09",
-  "2026-08-10",
-  "2026-08-11",
-  "2026-08-12",
-  "2026-08-13",
-  "2026-08-14",
-  "2026-08-15",
-  "2026-08-16",
-  "2026-08-17",
-  "2026-08-18",
-  "2026-08-19",
-  "2026-08-20",
-  "2026-08-21",
-  "2026-08-22",
-  "2026-08-23",
-  "2026-08-24",
-  "2026-08-25",
-  "2026-08-26",
-  "2026-08-27",
-  "2026-08-28",
-  "2026-08-29",
-  "2026-08-30",
-  "2026-08-31",
-  "2026-09-01",
-])
-
-export function dayPlaceIn(migrated: ReadonlySet<string>, dayStr: string): DayPlace {
-  return migrated.has(dayStr) ? AKASHA : MARKDOWN
-}
-
-export function dayPlaceOf(dayStr: string): DayPlace {
-  return dayPlaceIn(MIGRATED_DAYS, dayStr)
+export function dayPlaceOf(_dayStr: string): DayPlace {
+  return AKASHA
 }
 
 /**
  * The name a day's page answers to, and the day that name is for.
  *
  * A markdown day is named by its date, so both of these are the date itself. An akasha day is to be
- * named `day-2026-03-05`, because `20260305` is no identifier and a bare date reads as a number.
+ * named `wake-day-2026-03-05`, because `20260305` is no identifier and a bare date reads as a number.
  * Both directions live here so that the day a session says it is beside and the day a writer names
  * are read by one rule rather than two.
  */
 export function dayNameIn(place: DayPlace, dayStr: string): string {
-  return place === AKASHA ? `day-${dayStr}` : dayStr
+  return place === AKASHA ? `wake-day-${dayStr}` : dayStr
 }
 
 export function dayNameOf(dayStr: string): string {
@@ -206,7 +75,7 @@ export function dayNameOf(dayStr: string): string {
 }
 
 export function dayOfName(name: string): string {
-  return name.startsWith("day-") ? name.slice("day-".length) : name
+  return name.startsWith("wake-day-") ? name.slice("wake-day-".length) : name
 }
 
 export interface DayLanding {
