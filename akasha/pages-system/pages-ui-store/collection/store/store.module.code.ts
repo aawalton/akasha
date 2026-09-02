@@ -154,7 +154,7 @@ export function createPagesStore(
 
   const backingOf = (pageTypeSlug: string): PageTypeBacking | null => {
     if (roster === null || roster instanceof RosterUnreachable) return null
-    return roster.has(pageTypeSlug) ? "file" : "database"
+    return roster.has(pageTypeSlug) ? "file" : "unknown"
   }
 
   const onAuthStale = (): undefined => {
@@ -220,7 +220,7 @@ export function createPagesStore(
       unbackedReported.add(pageTypeSlug)
       emitStoreDiagnostic({
         reason: "page-type-unbacked",
-        message: `[pages-ui-store] ${pageTypeSlug} is not a page type the roster names, so nothing carries its pages and every query against it resolves against nothing`,
+        message: `[pages-ui-store] ${pageTypeSlug} is not a page type the roster names, so no road to its pages is known; this store refuses to guess one, and every query against it answers nothing`,
         detail: `shape=${pageTypeSlug} roster=${rosterState()}`,
       })
     }
@@ -249,7 +249,7 @@ export function createPagesStore(
     askRoster()
     const backing = backingOf(pageTypeSlug)
     if (backing === "file") return attachFileBacked(pageTypeSlug)
-    if (backing === "database") return attachUnbacked(pageTypeSlug)
+    if (backing === "unknown") return attachUnbacked(pageTypeSlug)
 
     const named: string = pageTypeSlug
     let current: (() => undefined) | null = null

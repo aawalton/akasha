@@ -1,7 +1,7 @@
 import { RosterUnreachable } from "@akasha/pages-access/file-read"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 
-export type PageTypeBacking = "file" | "database"
+export type PageTypeBacking = "file" | "unknown"
 
 export const FILE_BACKED_ROSTER_PATH = "/api/page-types"
 
