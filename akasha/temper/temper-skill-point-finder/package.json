@@ -1,0 +1,30 @@
+{
+  "name": "@akasha/temper-skill-point-finder",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./api": "./skill-point-finder-api/skill-point-finder-api.module.code.ts",
+    "./char-list": "./skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts",
+    "./colors": "./skill-point-finder-colors/skill-point-finder-colors.module.code.ts",
+    "./constants": "./skill-point-finder-constants/skill-point-finder-constants.module.code.ts",
+    "./data-lines": "./skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts",
+    "./events": "./skill-point-finder-events/skill-point-finder-events.module.code.ts",
+    "./game-data": "./skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts",
+    "./gui-table": "./skill-point-finder-gui-table/skill-point-finder-gui-table.module.code.ts",
+    "./helpers": "./skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts",
+    "./init": "./skill-point-finder-init/skill-point-finder-init.module.code.ts",
+    "./menu": "./skill-point-finder-menu/skill-point-finder-menu.module.code.ts",
+    "./points": "./skill-point-finder-points/skill-point-finder-points.module.code.ts",
+    "./saved-state": "./skill-point-finder-saved-state/skill-point-finder-saved-state.module.code.ts",
+    "./sources": "./skill-point-sources/skill-point-sources.module.code.ts",
+    "./state": "./skill-point-finder-state/skill-point-finder-state.module.code.ts",
+    "./strings": "./skill-point-finder-strings/skill-point-finder-strings.module.code.ts",
+    "./tooltips": "./skill-point-finder-tooltips/skill-point-finder-tooltips.module.code.ts",
+    "./types": "./skill-point-finder-types/skill-point-finder-types.module.code.ts",
+    "./window": "./skill-point-finder-window/skill-point-finder-window.module.code.ts",
+    "./zones": "./skill-point-finder-zones/skill-point-finder-zones.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-settings-panel": "workspace:*"
+  }
+}
