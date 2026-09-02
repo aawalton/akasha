@@ -38,6 +38,7 @@ export const temperCharactersStats = {
     "module/format-effects",
     "module/metric-formulas",
     "module/metric-display-formula",
+    "module/buff-or-debuff-id",
     "module/buff-or-debuff-calculator",
     "module/buff-or-debuff-explainer",
     "module/compare-stats",

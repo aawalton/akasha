@@ -2,15 +2,9 @@ import {
   type BuffOrDebuffSource,
   buffOrDebuff,
 } from "@akasha/temper-formula-framework/buff-or-debuff-source"
-import {
-  type BuffOrDebuffEffect,
-  isBuffOrDebuffEffect,
-} from "@akasha/temper-formula-framework/effect"
+import { isBuffOrDebuffEffect } from "@akasha/temper-formula-framework/effect"
 import { type EffectSource, isNamedSource } from "@akasha/temper-formula-framework/effect-source"
-
-function getBuffOrDebuffId(effect: BuffOrDebuffEffect): string {
-  return "buffId" in effect ? effect.buffId : effect.debuffId
-}
+import { getBuffOrDebuffId } from "../buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
 
 export function calculateBuffs(sources: readonly EffectSource[]): readonly BuffOrDebuffSource[] {
   const buffSources: BuffOrDebuffSource[] = []

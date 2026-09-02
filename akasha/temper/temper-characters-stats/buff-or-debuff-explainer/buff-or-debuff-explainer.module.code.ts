@@ -9,11 +9,8 @@ import {
 import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 import type { SkillSource } from "@akasha/temper-formula-framework/skill-source"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { getBuffOrDebuffId } from "../buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
 import { getMetricDisplayName, metrics } from "../metrics/metrics.module.code.ts"
-
-function getBuffOrDebuffId(effect: BuffOrDebuffEffect): string {
-  return "buffId" in effect ? effect.buffId : effect.debuffId
-}
 
 function isSkillSource(source: EffectSource): source is SkillSource {
   return source.categoryId === "skills"

@@ -5,6 +5,7 @@
   "exports": {
     "./buff-or-debuff-calculator": "./buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts",
     "./buff-or-debuff-explainer": "./buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts",
+    "./buff-or-debuff-id": "./buff-or-debuff-id/buff-or-debuff-id.module.code.ts",
     "./compare-stats": "./compare-stats/compare-stats.module.code.ts",
     "./diff-effect-sources": "./diff-effect-sources/diff-effect-sources.module.code.ts",
     "./extractors": "./extractors/extractors.module.code.ts",
