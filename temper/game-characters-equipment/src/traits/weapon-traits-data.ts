@@ -2,7 +2,7 @@ import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import type { WeaponItem } from "../item-composites"
-import { type EquipmentQualityId, resolveQuality } from "../quality-data"
+import { type EquipmentQualityId, resolveQuality } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { weaponTypes } from "../weapons/weapon-types-data"
 import {
   TEMPER_WEAPON_TRAIT_QUALITY_VALUES,

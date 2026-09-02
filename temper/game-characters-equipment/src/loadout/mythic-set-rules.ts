@@ -1,7 +1,7 @@
 import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
 import type { SetsAll, SetsAllId } from "../sets/sets-all-data"
-import { weaponBars } from "../weapons/weapon-bars-data"
-import { weaponSlots } from "../weapons/weapon-slots-data"
+import { weaponBars } from "@akasha/temper-equipment-kinds/weapon-bars"
+import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import type { Loadout, WeaponSlot } from "./loadout-types"
 import { getWeaponItem, isShieldSlot, isWeaponSlot } from "./weapon-slot-access"
 

@@ -5,7 +5,7 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { ItemCard } from "@akasha/design-patterns/item-card"
-import { armorSlots } from "@temper/game-characters-equipment/armor/armor-slots-data"
+import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import type {
   CompanionArmorSlotItem,

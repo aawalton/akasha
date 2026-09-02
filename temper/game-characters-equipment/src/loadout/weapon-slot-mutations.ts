@@ -1,5 +1,5 @@
 import type { ShieldItem, WeaponItem } from "../item-composites"
-import type { WeaponBar } from "../weapons/weapon-bars-data"
+import type { WeaponBar } from "@akasha/temper-equipment-kinds/weapon-bars"
 import type { WeaponBars, WeaponSlotItem, WeaponSlotUpdateParams } from "./loadout-types"
 import { mergeItemData } from "./merge-item-data"
 import { isShieldSlot, isWeaponSlot } from "./weapon-slot-access"

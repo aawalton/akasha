@@ -1,7 +1,7 @@
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import { armorSlots } from "@temper/game-characters-equipment/armor/armor-slots-data"
-import { jewelrySlots } from "@temper/game-characters-equipment/jewelry/jewelry-slots-data"
-import { resolveQuality } from "@temper/game-characters-equipment/quality-data"
+import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
+import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
+import { resolveQuality } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import {
   PLAYER_ARMOR_TRAIT_TO_ESO,
   PLAYER_JEWELRY_TRAIT_TO_ESO,

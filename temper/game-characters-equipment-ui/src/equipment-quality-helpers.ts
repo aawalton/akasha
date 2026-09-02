@@ -1,7 +1,7 @@
 import {
   type EquipmentQualityOptionId,
   equipmentQualities,
-} from "@temper/game-characters-equipment/quality-data"
+} from "@akasha/temper-equipment-kinds/equipment-qualities"
 
 export function getQualityVariant(
   quality: EquipmentQualityOptionId,

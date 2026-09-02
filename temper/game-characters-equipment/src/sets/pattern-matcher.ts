@@ -1,7 +1,7 @@
-import type { ArmorSlotId } from "../armor/armor-slots-data"
+import type { ArmorSlotId } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { StandardArmorWeightId } from "../armor/armor-weights-data"
-import type { JewelrySlotId } from "../jewelry/jewelry-slots-data"
-import type { WeaponSlot } from "../weapons/weapon-slots-data"
+import type { JewelrySlotId } from "@akasha/temper-equipment-kinds/jewelry-slots"
+import type { WeaponSlot } from "@akasha/temper-equipment-kinds/weapon-slots"
 import type { WeaponTypeId } from "../weapons/weapon-types-data"
 import {
   type EquipmentType,

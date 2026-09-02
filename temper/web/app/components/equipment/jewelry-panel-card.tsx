@@ -8,7 +8,7 @@ import {
 import {
   type JewelrySlotId,
   jewelrySlots,
-} from "@temper/game-characters-equipment/jewelry/jewelry-slots-data"
+} from "@akasha/temper-equipment-kinds/jewelry-slots"
 import {
   bulkUpdateJewelryEnchant,
   bulkUpdateJewelryQuality,
@@ -17,7 +17,7 @@ import {
 } from "@temper/game-characters-equipment/loadout/bulk-update-jewelry"
 import { mergeItemData } from "@temper/game-characters-equipment/loadout/merge-item-data"
 import { getMythicSlots } from "@temper/game-characters-equipment/loadout/mythic-set-rules"
-import type { EquipmentQualityOptionId } from "@temper/game-characters-equipment/quality-data"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import {
   type JewelryTraitId,

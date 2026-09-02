@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { temperFile } from "./code-tree.ts"
-import { equipmentQualities } from "./code/quality-data.ts"
+import { equipmentQualities } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import {
   companionArmorWeightIds,
   companionTraitIds,

@@ -1,4 +1,4 @@
-import type { EquipmentQualityOptionId } from "../quality-data"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { SetsAll, SetsAllId } from "../sets/sets-all-data"
 import { bulkUpdateArmorQuality, bulkUpdateArmorSet } from "./bulk-update-armor"
 import { bulkUpdateJewelryQuality, bulkUpdateJewelrySet } from "./bulk-update-jewelry"

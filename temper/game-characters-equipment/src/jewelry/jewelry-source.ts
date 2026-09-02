@@ -6,7 +6,7 @@ import {
 } from "../enchants/jewelry-enchants-data"
 import type { JewelryItem } from "../item-composites"
 import { getJewelryTraitEffects, type JewelryTraitId } from "../traits/jewelry-traits-data"
-import type { JewelryTypeId } from "./jewelry-types-data"
+import type { JewelryTypeId } from "@akasha/temper-equipment-kinds/jewelry-types"
 
 interface JewelryItemSource extends EffectSourceInterface<"jewelry", Effect> {
   categoryId: "jewelry"

@@ -31,7 +31,7 @@ const COMPANIONS_SNAP = "temper/game-companions-core/src/generated"
 const SKILLS_SNAP = "temper/game-characters-skills/src/generated"
 const CHAR_SNAP = "temper/game-characters-character/src/generated"
 const SKILL_LINES_SNAP = "akasha/temper/temper-skill-lines/skill-line-category-data"
-const WEAPONS_SNAP = "temper/game-characters-equipment/src/weapons/generated"
+const EQUIPMENT_KINDS = "akasha/temper/temper-equipment-kinds"
 const COMPLETION_SNAP = "temper/player-completion/src/generated"
 const COMPLETION_ADDON = "temper/player-completion-addon/src/skill-point-data.ts"
 
@@ -360,7 +360,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "weapon-bar-precedence",
     canonical: {
       repo: "code",
-      file: `${WEAPONS_SNAP}/temper-weapon-bar.generated.ts`,
+      file: `${EQUIPMENT_KINDS}/weapon-bars/weapon-bars.module.code.ts`,
       kind: "object-keys",
       symbol: "TEMPER_WEAPON_BARS",
     },

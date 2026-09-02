@@ -1,5 +1,5 @@
 import type { ShieldItem, WeaponItem } from "../item-composites"
-import type { WeaponBar } from "../weapons/weapon-bars-data"
+import type { WeaponBar } from "@akasha/temper-equipment-kinds/weapon-bars"
 import { weaponTypes } from "../weapons/weapon-types-data"
 import type { WeaponBars, WeaponSlotItem } from "./loadout-types"
 

@@ -1,5 +1,5 @@
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
-import type { EquipmentQualityId } from "@temper/game-characters-equipment/quality-data"
+import type { EquipmentQualityId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { CompanionState } from "../companion-types"
 import { TEMPER_COMPANION_TRAITS } from "../generated/temper-companion-trait.generated"
 import type { CompanionMetricId } from "../stats/companion-metric-ids.generated"

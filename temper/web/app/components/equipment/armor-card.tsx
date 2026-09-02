@@ -7,7 +7,7 @@ import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import {
   type ArmorSlotId,
   armorSlots,
-} from "@temper/game-characters-equipment/armor/armor-slots-data"
+} from "@akasha/temper-equipment-kinds/armor-slots"
 import {
   type StandardArmorWeightId,
   standardArmorWeights,
@@ -16,7 +16,7 @@ import {
   type ArmorEnchantId,
   armorEnchants,
 } from "@temper/game-characters-equipment/enchants/armor-enchants-data"
-import type { EquipmentQualityOptionId } from "@temper/game-characters-equipment/quality-data"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import {
   convertIconPathToUrl,
   getEquipmentIcon,

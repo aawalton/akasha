@@ -1,6 +1,7 @@
 {
   "name": "@temper/game-characters-equipment",
   "dependencies": {
+    "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*"

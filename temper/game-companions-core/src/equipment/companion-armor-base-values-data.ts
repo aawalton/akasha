@@ -1,4 +1,4 @@
-import type { EquipmentQualityId } from "@temper/game-characters-equipment/quality-data"
+import type { EquipmentQualityId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { CompanionArmorWeight } from "../companion-types"
 import type { CompanionEquipmentQualityId } from "./companion-equipment-quality-data"
 

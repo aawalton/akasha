@@ -3,7 +3,7 @@ import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { updateEffectValue } from "@akasha/temper-formula-framework/effect-value-update"
 import type { JewelryItem } from "../item-composites"
-import { type EquipmentQualityId, minQuality, resolveQuality } from "../quality-data"
+import { type EquipmentQualityId, minQuality, resolveQuality } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { getInfusedJewelryBonus } from "../traits/jewelry-traits-data"
 import {
   TEMPER_JEWELRY_ENCHANT_QUALITY_VALUES,

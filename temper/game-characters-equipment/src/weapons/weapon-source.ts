@@ -3,7 +3,7 @@ import type { Effect, MetricEffect } from "@akasha/temper-formula-framework/effe
 import type { WeaponEnchantmentId } from "../enchants/weapon-enchants-data"
 import { getWeaponEnchantmentEffects } from "../enchants/weapon-enchants-data"
 import type { PoisonId, WeaponItem } from "../item-composites"
-import { type EquipmentQualityId, resolveQuality } from "../quality-data"
+import { type EquipmentQualityId, resolveQuality } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { WeaponTraitId } from "../traits/weapon-traits-data"
 import { getNirnhonedWeaponBonus, getWeaponTraitEffects } from "../traits/weapon-traits-data"
 import { getWeaponPower, type WeaponTypeId } from "./weapon-types-data"

@@ -1,5 +1,5 @@
-import { type ArmorTypeId, armorTypes, type StandardArmorType } from "../armor/armor-types-data"
-import { type JewelryTypeId, jewelryTypes } from "../jewelry/jewelry-types-data"
+import { type ArmorTypeId, armorTypes, type StandardArmorType } from "@akasha/temper-equipment-kinds/armor-types"
+import { type JewelryTypeId, jewelryTypes } from "@akasha/temper-equipment-kinds/jewelry-types"
 import { type WeaponTypeId, weaponTypes } from "../weapons/weapon-types-data"
 
 export type EquipmentType = WeaponTypeId | JewelryTypeId | ArmorTypeId

@@ -1,6 +1,6 @@
 import type { JewelryEnchantId } from "../enchants/jewelry-enchants-data"
-import { jewelrySlots } from "../jewelry/jewelry-slots-data"
-import type { EquipmentQualityOptionId } from "../quality-data"
+import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { isSetValidForSlot } from "../sets/pattern-matcher"
 import type { SetsAll, SetsAllId } from "../sets/sets-all-data"
 import type { JewelryTraitId } from "../traits/jewelry-traits-data"

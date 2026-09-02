@@ -4,7 +4,7 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import {
   type ArmorSlotId,
   armorSlots,
-} from "@temper/game-characters-equipment/armor/armor-slots-data"
+} from "@akasha/temper-equipment-kinds/armor-slots"
 import {
   type StandardArmorWeightId,
   standardArmorWeights,
@@ -22,7 +22,7 @@ import {
 } from "@temper/game-characters-equipment/loadout/bulk-update-armor"
 import { mergeItemData } from "@temper/game-characters-equipment/loadout/merge-item-data"
 import { getMythicSlots } from "@temper/game-characters-equipment/loadout/mythic-set-rules"
-import type { EquipmentQualityOptionId } from "@temper/game-characters-equipment/quality-data"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import {
   type ArmorTraitId,

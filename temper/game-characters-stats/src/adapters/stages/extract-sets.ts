@@ -6,7 +6,7 @@ import type {
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "@temper/game-characters-equipment/quality-data"
+} from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { createSetSource, type SetSource } from "@temper/game-characters-equipment/sets/set-source"
 import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import { valuesOf } from "@akasha/temper-formula-framework/record-parts"

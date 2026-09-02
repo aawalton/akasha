@@ -23,14 +23,14 @@ import {
   removeWeaponItem,
   updateWeaponItem,
 } from "@temper/game-characters-equipment/loadout/weapon-slot-mutations"
-import type { EquipmentQualityOptionId } from "@temper/game-characters-equipment/quality-data"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import {
   type WeaponTraitId,
   weaponTraitsBuildList,
   weaponTraits as weaponTraitsData,
 } from "@temper/game-characters-equipment/traits/weapon-traits-data"
-import { weaponSlots as weaponSlotsData } from "@temper/game-characters-equipment/weapons/weapon-slots-data"
+import { weaponSlots as weaponSlotsData } from "@akasha/temper-equipment-kinds/weapon-slots"
 import { weaponTypes } from "@temper/game-characters-equipment/weapons/weapon-types-data"
 import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"

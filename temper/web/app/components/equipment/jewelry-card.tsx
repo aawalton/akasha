@@ -13,8 +13,8 @@ import type { JewelryItem } from "@temper/game-characters-equipment/item-composi
 import {
   type JewelrySlotId,
   jewelrySlots,
-} from "@temper/game-characters-equipment/jewelry/jewelry-slots-data"
-import type { EquipmentQualityOptionId } from "@temper/game-characters-equipment/quality-data"
+} from "@akasha/temper-equipment-kinds/jewelry-slots"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import {
   convertIconPathToUrl,
   getEquipmentIcon,

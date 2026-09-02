@@ -1,6 +1,6 @@
-import type { ArmorSlotId } from "../armor/armor-slots-data"
+import type { ArmorSlotId } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { JewelryItem, ShieldItem, StandardArmorItem, WeaponItem } from "../item-composites"
-import type { JewelrySlotId } from "../jewelry/jewelry-slots-data"
+import type { JewelrySlotId } from "@akasha/temper-equipment-kinds/jewelry-slots"
 
 export type WeaponUpdateParams = Partial<WeaponItem>
 export type ShieldUpdateParams = Partial<ShieldItem>

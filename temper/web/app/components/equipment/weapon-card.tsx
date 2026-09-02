@@ -16,7 +16,7 @@ import type {
   WeaponSlotItem,
   WeaponSlotUpdateParams,
 } from "@temper/game-characters-equipment/loadout/loadout-types"
-import type { EquipmentQualityOptionId } from "@temper/game-characters-equipment/quality-data"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import {
   convertIconPathToUrl,
   getEquipmentIcon,
@@ -37,11 +37,11 @@ import {
   weaponTraits,
   weaponTraitsBuildList,
 } from "@temper/game-characters-equipment/traits/weapon-traits-data"
-import type { WeaponBar } from "@temper/game-characters-equipment/weapons/weapon-bars-data"
+import type { WeaponBar } from "@akasha/temper-equipment-kinds/weapon-bars"
 import {
   type WeaponSlot,
   weaponSlots,
-} from "@temper/game-characters-equipment/weapons/weapon-slots-data"
+} from "@akasha/temper-equipment-kinds/weapon-slots"
 import {
   type WeaponTypeId,
   weaponTypes,

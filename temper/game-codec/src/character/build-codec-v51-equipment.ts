@@ -1,6 +1,6 @@
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ArmorSlotId } from "@temper/game-characters-equipment/armor/armor-slots-data"
-import type { JewelrySlotId } from "@temper/game-characters-equipment/jewelry/jewelry-slots-data"
+import type { ArmorSlotId } from "@akasha/temper-equipment-kinds/armor-slots"
+import type { JewelrySlotId } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
@@ -10,7 +10,7 @@ import type {
 import type {
   EquipmentQualityId,
   EquipmentQualityOptionId,
-} from "@temper/game-characters-equipment/quality-data"
+} from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { BitReaderState, BitWriterState } from "../binary-utils"
 import { readBits, writeBits } from "../binary-utils"
 import { recordFromKeys } from "../record-from-keys"

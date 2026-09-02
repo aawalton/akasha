@@ -3,9 +3,9 @@ import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import type { ArmorItem, ItemLevel } from "../item-composites"
 import { getArmorBaseValueForLevel } from "../level-scaling"
-import { type EquipmentQualityId, resolveQuality } from "../quality-data"
+import { type EquipmentQualityId, resolveQuality } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { calculateNirnhonedValue, calculateReinforcedValue } from "../traits/armor-traits-data"
-import { type ArmorTypeId, getArmorMultiplier } from "./armor-types-data"
+import { type ArmorTypeId, getArmorMultiplier } from "@akasha/temper-equipment-kinds/armor-types"
 import {
   STANDARD_TEMPER_ARMOR_WEIGHTS_BY_ID,
   TEMPER_ARMOR_WEIGHTS_BY_ID,

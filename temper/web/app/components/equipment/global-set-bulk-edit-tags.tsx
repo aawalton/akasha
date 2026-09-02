@@ -2,8 +2,8 @@
 
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { armorSlots } from "@temper/game-characters-equipment/armor/armor-slots-data"
-import { jewelrySlots } from "@temper/game-characters-equipment/jewelry/jewelry-slots-data"
+import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
+import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import {
   bulkUpdateAllQuality,
   bulkUpdateAllSets,
@@ -19,10 +19,10 @@ import {
   isWeaponSlot,
   shouldHideWeaponSlot,
 } from "@temper/game-characters-equipment/loadout/weapon-slot-access"
-import type { EquipmentQualityOptionId } from "@temper/game-characters-equipment/quality-data"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
-import { weaponBars } from "@temper/game-characters-equipment/weapons/weapon-bars-data"
-import { weaponSlots } from "@temper/game-characters-equipment/weapons/weapon-slots-data"
+import { weaponBars } from "@akasha/temper-equipment-kinds/weapon-bars"
+import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import { weaponTypes } from "@temper/game-characters-equipment/weapons/weapon-types-data"
 import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"

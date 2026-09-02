@@ -4,7 +4,7 @@ import { type ArmorEnchantId, getArmorEnchantmentEffects } from "../enchants/arm
 import type { ArmorItem } from "../item-composites"
 import type { ArmorTraitId } from "../traits/armor-traits-data"
 import { getArmorTraitEffects } from "../traits/armor-traits-data"
-import type { ArmorTypeId } from "./armor-types-data"
+import type { ArmorTypeId } from "@akasha/temper-equipment-kinds/armor-types"
 import type { ArmorWeightId } from "./armor-weights-data"
 import { getArmorEffects } from "./armor-weights-data"
 

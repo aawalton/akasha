@@ -2,9 +2,9 @@ import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { createDataFile } from "@akasha/utils-narrow/create-data-file"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { updateEffectValue } from "@akasha/temper-formula-framework/effect-value-update"
-import { isLargeArmorEnchantSlot } from "../armor/armor-types-data"
+import { isLargeArmorEnchantSlot } from "@akasha/temper-equipment-kinds/armor-types"
 import type { ArmorItem } from "../item-composites"
-import { type EquipmentQualityId, minQuality, resolveQuality } from "../quality-data"
+import { type EquipmentQualityId, minQuality, resolveQuality } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { getInfusedArmorBonus } from "../traits/armor-traits-data"
 import {
   TEMPER_ARMOR_ENCHANT_QUALITY_VALUES,
