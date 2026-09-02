@@ -2,24 +2,39 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { ItemCard } from "@akasha/design-patterns/item-card"
-import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
-import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import type { CompanionJewelrySlotItem } from "@akasha/temper-companions-core/companion-types"
+import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import { EquipmentIcon } from "@akasha/temper-characters-equipment-ui/equipment-icon"
 import { getCompanionJewelryIcon } from "@akasha/temper-companions-core/companion-equipment-icons"
 import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { capQualityForSlot, getAvailableQualityOptions, LEGENDARY_QUALITY_OPTIONS } from "@akasha/temper-companions-core/companion-equipment-quality-rules"
-import { type CompanionJewelrySlotId } from "@akasha/temper-companions-core/companion-jewelry-slots"
-import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
+import {
+  capQualityForSlot,
+  getAvailableQualityOptions,
+  LEGENDARY_QUALITY_OPTIONS,
+} from "@akasha/temper-companions-core/companion-equipment-quality-rules"
+import {
+  type CompanionJewelrySlotId,
+  companionJewelrySlots,
+} from "@akasha/temper-companions-core/companion-jewelry-slots"
 import {
   type CompanionTraitId,
   companionTraits,
 } from "@akasha/temper-companions-core/companion-traits"
-import { getQualityClassName, getQualityVariant } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
-import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import type { CompanionJewelrySlotItem } from "@akasha/temper-companions-core/companion-types"
+import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
+import {
+  getQualityClassName,
+  getQualityVariant,
+} from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import { useMemo } from "react"
 import { BulkEditTag } from "./companion-bulk-edit-tag"
 import type { CompanionEquipmentPanelProps } from "./companion-equipment-panel-types"
