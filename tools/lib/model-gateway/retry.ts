@@ -17,20 +17,20 @@ export function isTransientTransportError(err: unknown): err is TypeError | DOME
   }
   if (!(err instanceof TypeError)) return false
   const msg = err.message.toLowerCase()
-  return TRANSIENT_TRANSPORT_PATTERNS.some((p) => msg.includes(p))
+  if (TRANSIENT_TRANSPORT_CODES.test(msg)) return true
+  return TRANSIENT_TRANSPORT_PHRASES.some((phrase) => msg.includes(phrase))
 }
 
-const TRANSIENT_TRANSPORT_PATTERNS = [
+const TRANSIENT_TRANSPORT_PHRASES = [
   "socket connection was closed unexpectedly",
   "socket close",
   "socket hang up",
   "connection reset",
-  "econnreset",
-  "eof",
-  "epipe",
   "network unreachable",
   "timed out",
 ] as const
+
+const TRANSIENT_TRANSPORT_CODES = /\b(?:econnreset|eof|epipe)\b/
 
 function defaultSleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms))
