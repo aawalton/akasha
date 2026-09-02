@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Entries are the dominant shape already: 4,189 `.jsonl` files and 789,461 rows under akasha, and a writer for the numbered part files landed at `0d56d921e2` with an 8,114-leaf proof at `f46fa0f0e5`. What that writer produces cannot land: `file-has-its-page` refuses a `.part2.jsonl` because no page claims it, and the row judge reads only the first file. Both mends are Alan's. The addon-data pipeline no longer runs at all: `ensureAllOutputDirs` throws on the ablated `game-characters-skills`.",
+        "Entries are the dominant shape: 4,189 `.jsonl` files and 789,461 rows under akasha, and a writer for the numbered part files landed at `0d56d921e2`, proved at `f46fa0f0e5`. What that writer produces cannot land: `file-has-its-page` refuses a `.part2.jsonl` because no page claims it, and the row judge reads only the first file. Both mends are Alan's. The addon-data pipeline is dead: `ensureAllOutputDirs` throws on the ablated `game-companions-addon`, with `game-characters-skills` behind it.",
     },
     {
       statement: "No part of temper is outside akasha.",
