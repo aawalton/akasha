@@ -137,7 +137,12 @@
       }
     },
     {
-      "includes": ["temper/*-addon/src/**/data/**"],
+      "includes": [
+        "temper/*-addon/src/**/data/**",
+        "akasha/temper/temper-lorebooks/lorebooks-book-data*/**",
+        "akasha/temper/temper-lorebooks/lorebooks-library-data*/**",
+        "akasha/temper/temper-lorebooks/lorebooks-shalidor-locations*/**"
+      ],
       "linter": {
         "rules": {
           "suspicious": {
