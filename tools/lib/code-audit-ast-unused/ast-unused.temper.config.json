@@ -48,14 +48,6 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "temper/player-inventory-management-ui": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
     "temper/player-profile": {
       "entry": [],
       "project": [
