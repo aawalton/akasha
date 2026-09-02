@@ -22,7 +22,7 @@ export const athenaModelGatewayIntoAkasha = {
   ],
   constraints: [
     "The new gateway is built beside the old one, its users are moved to it, and only then is the old one removed.",
-    "Every part of the gateway migrated into akasha lands under `akasha/agents-system/models`.",
+    "Every part of the gateway migrated into akasha lands under `akasha/agents/models`.",
     "The intent stack and its working memory hold where the work is, so a fresh context resumes from the page rather than from what it remembers.",
     "What is believed about the running system is measured before it is acted on, and a measurement that refutes the belief is reported as plainly as one that confirms it.",
     "Work never halts on doubt: a finding is filed, a decision is made, and the work goes on.",
