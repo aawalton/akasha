@@ -61,6 +61,7 @@ export const temperWatcher = {
     "module/watcher-updating",
     "module/watcher-auth",
     "module/watcher-dispatch-handling",
+    "module/watcher-dispatch",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],
