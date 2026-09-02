@@ -6,7 +6,7 @@ export const temperEsoPaths = {
   slug: "temper-eso-paths",
   definition: "what a workstation carries of the game and of the game's own sources",
   manifest: "json",
-  partSlugs: ["module/eso-paths", "module/eso-clone-stamp"],
+  partSlugs: ["module/eso-paths", "module/eso-paths-resolve", "module/eso-clone-stamp"],
   invariants: [
     {
       invariantKind: "departure",
@@ -14,8 +14,8 @@ export const temperEsoPaths = {
         "A path here is worked out from the environment rather than from what is written on disk.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here reaches the disk.",
+      invariantKind: "departure",
+      statement: "Asking the disk settles which candidate the live directory is.",
     },
   ],
 } as const satisfies WorkspacePackage
