@@ -27,7 +27,7 @@ interface ZoTimeline {
   GetDuration: (this: ZoTimeline) => number
   PlayForward: (this: ZoTimeline) => void
   PlayBackward: (this: ZoTimeline) => void
-  PlayFromEnd: (this: ZoTimeline, time: number) => void
+  PlayFromEnd: (this: ZoTimeline, time?: number) => void
 }
 
 interface Control {
