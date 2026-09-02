@@ -32,12 +32,6 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "temper/game-characters-equipment": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/game-characters-equipment-ui": {
       "entry": [],
       "project": [
