@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Alan's page-type gap is closed and proven: `temper-companion-skill` gained 53 property pages and two entry shapes, and its 122 pages regenerate 119,803 bytes against 119,824 on disk. The addon-data pipeline is 11 of 12 byte-identical, and the twelfth hides three more — `writes-skills.ts` builds five generator calls in one eager array, so the grimoire throw takes scribed-skill, skill and skill-point down before they run, while the section printed 1/1 byte-identical.",
+        "The addon-data pipeline is whole at last: twelve sections, 48 files, 47 byte-identical, and the 48th differs by one banner line because the generator moved and the pipeline had never run. The eager array that hid three generators behind one throw is fixed, so a throw names one file rather than stopping four. Alan's page-type gap stays closed: 122 companion-skill pages regenerate 119,803 bytes against 119,824.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "A content census settled what no name rule could, 93 rows at `scratchpad/ember/PARITY.md`: 49 folders landed and duplicated, 13 part-landed, 19 outside, 12 outside this migration. Of teardowns, 38 clear content and none is proven safe. The Lua wall is down: 13 of 16 landed addons build to a bundle, the roster reads a manifest at either spelling, and the build writes the tstl settings from the page's bundle entry. Three fail on TS90002 of their own, and one shipping XML stops at the copy step.",
+        "Typecheck broke from zero to 53 over nine packages: `craft-decl-controls` gives the merged `Control` its own data type, so every neighbour's control subtype is refused. Taking it out gives 84, all inside crafting, and that is the repair. The Lua wall is down: 13 of 16 landed addons build a bundle, three fail on TS90002 of their own, one stops at the XML copy. Alan approved both checks and ruled no ESO library vendored, so all of them migrate.",
     },
   ],
   constraints: [
