@@ -10,15 +10,9 @@ export const emberMigrateTemperToAkasha = {
   intents: [
     {
       statement:
-        "An entry is a page property shape extending `page-property-entry` rather than a page.",
-      workingMemory:
-        "`page-property-entry` landed 2026-09-01 in 182eb8d2e7 under `pages-system/page-property-entries/`, extending `page-property` and declaring `properties` the way `record-property` does. An entry shape is a page of that type rather than a page type of its own. Nothing uses the shape yet. The one property in akasha keeping values beside its page is `cases` on `model-test`, still a file property naming jsonl, holding 14 rows over the fields page, definition, statement and answer, none with an id.",
-    },
-    {
-      statement:
         "A declaration carrying many values says `entries` and keeps each value in a JSONL beside the page.",
       workingMemory:
-        "`entries` landed 2026-09-01 in 0646bef0b2 as a boolean property and a third arm of `Declaration`, beside the arm carrying one value and the arm carrying a list. Finding 42c6fd4a0c records the narrow reading taken, so `entries` marks only the declarations kept beside the page rather than every list. Left to do is the writer and the index: nothing reads a jsonl under an `entries` declaration, and `cases` is still declared as a file property.",
+        "`entries` landed 2026-09-01 in 0646bef0b2 as a boolean property and a third arm of `Declaration`, beside the arm carrying one value and the arm carrying a list. Finding 42c6fd4a0c records the narrow reading taken, so `entries` marks only the declarations kept beside the page rather than every list. Left to do is the writer and the index: nothing reads a jsonl under an `entries` declaration, and `cases` on `model-test` is still a file property, which turning it into an entry shape waits on.",
     },
     {
       statement:
