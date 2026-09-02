@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   addedIn,
   foundIn,
+  judgedIn,
   owedOf,
   reachOf,
   seamsApart,
@@ -158,4 +159,28 @@ test("what is owed names the senses a term keeps apart from the senses it bars",
     said.indexOf("It bars these senses:")
   )
   expect(said).toContain("Match what you meant against the senses it keeps first")
+})
+
+test("a page of a type that runs no taboo check is not judged", () => {
+  expect(judgedIn("akasha/story/worlds/pages/hyrule.world.ts", new Set(["world"]))).toBe(false)
+})
+
+test("a file beside such a page is not judged either", () => {
+  const at = "akasha/story/worlds/pages/one/one.world.mechanic-readings.jsonl"
+  expect(judgedIn(at, new Set(["world"]))).toBe(false)
+})
+
+test("a page type's own file is judged though its pages are not", () => {
+  expect(judgedIn("akasha/story/worlds/world.page-type.ts", new Set(["world"]))).toBe(true)
+})
+
+test("a page of any other type is judged", () => {
+  expect(judgedIn("akasha/story/worlds/pages/hyrule.world.ts", new Set<string>())).toBe(true)
+  expect(judgedIn("akasha/alan/music/catalog/songs/pages/one.song.ts", new Set(["world"]))).toBe(
+    true
+  )
+})
+
+test("a path naming no page at all is judged", () => {
+  expect(judgedIn("akasha/story/package.json", new Set(["world"]))).toBe(true)
 })

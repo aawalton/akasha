@@ -5,6 +5,7 @@ import type { LoadedBySlug } from "./properties/loaded-by-slug.relation-property
 import type { MediaConfig } from "./properties/media-config.record-property.ts"
 import type { Mortal } from "./properties/mortal.boolean-property.ts"
 import type { Properties } from "./properties/properties.record-property.ts"
+import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-property.ts"
 import type { Sequence } from "./properties/sequence.record-property.ts"
 
 export type PageType = Domain & {
@@ -15,6 +16,7 @@ export type PageType = Domain & {
   loadedBySlug?: LoadedBySlug
   mediaConfig?: MediaConfig
   sequence?: Sequence
+  runsTabooCheck?: RunsTabooCheck
 }
 
 export const pageType = {
@@ -29,6 +31,7 @@ export const pageType = {
     "boolean-property/many",
     "boolean-property/mortal",
     "boolean-property/required",
+    "boolean-property/runs-taboo-check",
     "boolean-property/secret",
     "boolean-property/uncommitted",
     "record-property/audio-media",
@@ -56,6 +59,7 @@ export const pageType = {
     { pagePropertySlug: "loaded-by-slug", required: false, many: false },
     { pagePropertySlug: "media-config", required: false, many: false },
     { pagePropertySlug: "sequence", required: false, many: false },
+    { pagePropertySlug: "runs-taboo-check", required: false, many: false },
   ],
   invariants: [
     {
@@ -69,6 +73,10 @@ export const pageType = {
     {
       invariantKind: "departure",
       statement: "A page type says here how its pages are grouped and ordered into a run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type says here whether the taboo terms are judged over its pages.",
     },
   ],
 } as const satisfies PageType

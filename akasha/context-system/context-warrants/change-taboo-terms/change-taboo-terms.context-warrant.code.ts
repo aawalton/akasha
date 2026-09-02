@@ -1,4 +1,5 @@
 import { everyOfType } from "@akasha/indexes"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import { valueAt } from "@akasha/pages-system/page-value"
 import {
   blobAt,
@@ -8,6 +9,10 @@ import {
 } from "../../warranting/warranting.module.code.ts"
 
 const TERM = "taboo-term"
+
+const PAGE_TYPE = "page-type"
+
+const RUNS = "runsTabooCheck"
 
 const TEXT = new TextDecoder()
 
@@ -97,6 +102,23 @@ function keptOf(said: unknown): readonly string[] {
   return said.filter((one): one is string => typeof one === "string")
 }
 
+export function judgedIn(path: string, unjudged: ReadonlySet<string>): boolean {
+  const said = partedIn(path)
+  if (said === null) return true
+  return !unjudged.has(said.pageType)
+}
+
+export function unjudgedIn(root: string): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const page of everyOfType(root, PAGE_TYPE)) {
+    const value = valueAt(page.path, root)
+    if (value === null || value[RUNS] !== false) continue
+    const slug = value["slug"]
+    if (typeof slug === "string") found.add(slug)
+  }
+  return found
+}
+
 export function termsIn(root: string): readonly Term[] {
   const found: Term[] = []
   for (const standing of everyOfType(root, TERM)) {
@@ -124,6 +146,7 @@ export function changeTabooTerms(
   if (changing === undefined) return []
   const added = addedIn(textOf(changing.before(path)), textOf(changing.after(path)))
   if (added.trim() === "") return []
+  if (!judgedIn(path, unjudgedIn(root))) return []
   const found: Warrant[] = []
   for (const term of termsIn(root)) {
     if (term.path === path) continue

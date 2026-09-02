@@ -59,6 +59,22 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
+      statement: "A term warrants nothing of a page whose type runs no taboo check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which page type a path names is read off that path's own name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type's own file is warranted whatever that page type says of its pages.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file beside a page is warranted as that page is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What is owed names every sense the term bars and what stands instead.",
     },
     {
