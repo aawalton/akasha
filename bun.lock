@@ -1029,15 +1029,6 @@
     "akasha/temper/temper-catalog-core": {
       "name": "@akasha/temper-catalog-core",
     },
-    "akasha/temper/temper-catalog-generators": {
-      "name": "@akasha/temper-catalog-generators",
-      "dependencies": {
-        "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-capture-datamining-reader": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "@akasha/temper-game-catalog-capture-host": "workspace:*",
-      },
-    },
     "akasha/temper/temper-catalog-host": {
       "name": "@akasha/temper-catalog-host",
       "dependencies": {
@@ -3249,8 +3240,6 @@
     "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:akasha/temper/temper-catalog-addon"],
 
     "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:akasha/temper/temper-catalog-core"],
-
-    "@akasha/temper-catalog-generators": ["@akasha/temper-catalog-generators@workspace:akasha/temper/temper-catalog-generators"],
 
     "@akasha/temper-catalog-host": ["@akasha/temper-catalog-host@workspace:akasha/temper/temper-catalog-host"],
 

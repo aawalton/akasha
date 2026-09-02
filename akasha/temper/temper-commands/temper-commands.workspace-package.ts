@@ -19,7 +19,6 @@ export const temperCommands = {
     "command/temper-addon-resolve",
     "command/temper-addon-typecheck",
     "command/temper-auto-quest-trace",
-    "command/temper-catalog-generate",
     "command/temper-catalog-invalidate",
     "command/temper-catalog-list",
     "command/temper-catalog-status",
