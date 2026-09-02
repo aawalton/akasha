@@ -145,7 +145,7 @@ function writtenAt(full: string, page: string, values: Value): undefined {
   const scratch = `${full}.${process.pid}.${PART}`
   const found = statSync(full, { throwIfNoEntry: false })
   writeFileSync(scratch, bodyFor(page, values), "utf8")
-  chmodSync(scratch, found === undefined ? 0o600 : found.mode & MODE_BITS)
+  if (found !== undefined) chmodSync(scratch, found.mode & MODE_BITS)
   renameSync(scratch, full)
 }
 
