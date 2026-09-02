@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
 import { sampleIdentity } from "../sample-identity/sample-identity.module.code.ts"
 import type { HealthSample } from "../sample-shape/sample-shape.module.code.ts"
-import { mergedInto } from "./sample-upsert.module.code.ts"
+import {
+  landDay,
+  mergedInto,
+  type ReadingFor,
+  TRIES,
+  type WritingFor,
+} from "./sample-upsert.module.code.ts"
 
 const AT =
   "akasha/alan/eso-daily-tracking/eso-daily-trackings/eso-day-2026-01-01/eso-day-2026-01-01.eso-daily-tracking.health-samples.jsonl"
@@ -86,4 +92,109 @@ test("a row already filed is matched by what names a reading rather than by its 
   const merged = mergedInto(first.lines, heldOf(renamed), ARRIVED, AT)
   expect(merged.tally).toEqual({ inserted: 1, unchanged: 0, valueChanged: 0 })
   expect(merged.lines).toHaveLength(2)
+})
+
+const COMMIT = "1a02fe93463f2325a4ab998af71d903d854aaf55"
+
+type Read = Awaited<ReturnType<ReadingFor>>
+
+type Wrote = Awaited<ReturnType<WritingFor>>
+
+type Asked = Parameters<WritingFor>[0]
+
+const LANDED = { commit: COMMIT, wrote: [AT], took: [] } as Wrote
+
+function emptyRead(): Read {
+  return { at: COMMIT, bodies: [], unplaced: [] } as Read
+}
+
+function bodiedRead(content: string): Read {
+  return { at: COMMIT, bodies: [{ path: AT, content }], unplaced: [] } as Read
+}
+
+function readingOf(answers: readonly Read[]): {
+  reading: ReadingFor
+  taken: () => number
+} {
+  let at = 0
+  const reading: ReadingFor = () => {
+    const said = answers[at] ?? answers[answers.length - 1]
+    at += 1
+    return Promise.resolve(said as Read)
+  }
+  return { reading, taken: () => at }
+}
+
+function writingOf(answers: readonly Wrote[]): {
+  writing: WritingFor
+  asked: readonly Asked[]
+} {
+  const asked: Asked[] = []
+  const writing: WritingFor = (one) => {
+    asked.push(one)
+    const said = answers[asked.length - 1] ?? answers[answers.length - 1]
+    return Promise.resolve(said as Wrote)
+  }
+  return { writing, asked }
+}
+
+test("a day whose rows are not there yet is filed rather than refused", async () => {
+  const read = readingOf([emptyRead()])
+  const write = writingOf([LANDED])
+  const tally = await landDay(AT, HELD, ARRIVED, read.reading, write.writing)
+  expect(tally).toEqual({ inserted: 1, unchanged: 0, valueChanged: 0 })
+  expect(write.asked).toHaveLength(1)
+})
+
+test("a write names the commit the rows were read at", async () => {
+  const read = readingOf([emptyRead()])
+  const write = writingOf([LANDED])
+  await landDay(AT, HELD, ARRIVED, read.reading, write.writing)
+  const one = write.asked[0]
+  expect(one?.read).toBe(COMMIT)
+  expect(one?.puts?.[0]?.path).toBe(AT)
+})
+
+test("a day whose readings were all filed already is written nowhere", async () => {
+  const first = mergedInto([], HELD, ARRIVED, AT)
+  const read = readingOf([bodiedRead(`${first.lines.join("\n")}\n`)])
+  const write = writingOf([LANDED])
+  const tally = await landDay(AT, HELD, ARRIVED, read.reading, write.writing)
+  expect(tally).toEqual({ inserted: 0, unchanged: 1, valueChanged: 0 })
+  expect(write.asked).toHaveLength(0)
+})
+
+test("a read the pages refuse is tried again from a fresh read", async () => {
+  const read = readingOf([{ refused: "the pages were busy" } as Read, emptyRead()])
+  const write = writingOf([LANDED])
+  const tally = await landDay(AT, HELD, ARRIVED, read.reading, write.writing)
+  expect(tally.inserted).toBe(1)
+  expect(read.taken()).toBe(2)
+  expect(write.asked).toHaveLength(1)
+})
+
+test("a write the pages refuse is tried again from a fresh read", async () => {
+  const read = readingOf([emptyRead()])
+  const write = writingOf([{ refused: "the rows moved" } as Wrote, LANDED])
+  const tally = await landDay(AT, HELD, ARRIVED, read.reading, write.writing)
+  expect(tally.inserted).toBe(1)
+  expect(read.taken()).toBe(2)
+  expect(write.asked).toHaveLength(2)
+})
+
+test("a write naming no commit where a change was meant is tried again", async () => {
+  const read = readingOf([emptyRead()])
+  const write = writingOf([{ commit: null, wrote: [], took: [] } as Wrote, LANDED])
+  const tally = await landDay(AT, HELD, ARRIVED, read.reading, write.writing)
+  expect(tally.inserted).toBe(1)
+  expect(write.asked).toHaveLength(2)
+})
+
+test("a write that never landed throws once every try is spent", async () => {
+  const read = readingOf([emptyRead()])
+  const write = writingOf([{ refused: "the rows moved" } as Wrote])
+  const landing = landDay(AT, HELD, ARRIVED, read.reading, write.writing)
+  await expect(landing).rejects.toThrow("was not written")
+  expect(read.taken()).toBe(TRIES)
+  expect(write.asked).toHaveLength(TRIES)
 })

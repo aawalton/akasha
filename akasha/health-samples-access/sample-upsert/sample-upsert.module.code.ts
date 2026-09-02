@@ -42,6 +42,10 @@ interface Merged {
 
 type Held = readonly (readonly [string, HealthSample])[]
 
+export type ReadingFor = typeof readingFor
+
+export type WritingFor = typeof writingFor
+
 function linesIn(content: string | null): readonly string[] {
   if (content === null) return []
   return content.split("\n").filter((one) => one.trim() !== "")
@@ -136,10 +140,16 @@ function messageFor(path: string, tally: DayTally): string {
   return `${String(tally.inserted)} reading(s) filed and ${String(tally.valueChanged)} corrected in ${path}`
 }
 
-async function landDay(path: string, held: Held, arrivedAt: string): Promise<DayTally> {
+export async function landDay(
+  path: string,
+  held: Held,
+  arrivedAt: string,
+  reading: ReadingFor = readingFor,
+  writing: WritingFor = writingFor
+): Promise<DayTally> {
   let why = "nothing was tried"
   for (let taken = 1; taken <= TRIES; taken += 1) {
-    const read = await readingFor({ paths: [path] })
+    const read = await reading({ paths: [path] })
     if ("refused" in read) {
       why = read.refused
       continue
@@ -147,7 +157,7 @@ async function landDay(path: string, held: Held, arrivedAt: string): Promise<Day
     const body = read.bodies.find((one) => one.path === path)
     const merged = mergedInto(linesIn(body?.content ?? null), held, arrivedAt, path)
     if (!merged.touched) return merged.tally
-    const wrote = await writingFor({
+    const wrote = await writing({
       writer: WRITER,
       message: messageFor(path, merged.tally),
       puts: [{ path, content: `${merged.lines.join("\n")}\n` }],
