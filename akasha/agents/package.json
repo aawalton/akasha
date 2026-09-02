@@ -7,6 +7,7 @@
     "./patch-keeping": "./patch-keeping/patch-keeping.module.code.ts"
   },
   "dependencies": {
+    "@akasha/day": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "zod": "^4.3.6"
   }
