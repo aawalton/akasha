@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-property/record-property.page-type.ts"
+import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
 import type { AudioMedia } from "./audio-media.record-property.ts"
 import type { ImageMedia } from "./image-media.record-property.ts"
 

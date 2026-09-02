@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-property/record-property.page-type.ts"
+import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
 import type { SequenceDirection } from "./sequence-direction.text-property.ts"
 import type { SequenceGroupBy } from "./sequence-group-by.text-property.ts"
 import type { SequenceOrderBy } from "./sequence-order-by.text-property.ts"

@@ -1,4 +1,4 @@
-import type { PageProperty } from "../page-property/page-property.page-type.ts"
+import type { PageProperty } from "../page-properties/page-property.page-type.ts"
 import type { PageType } from "../page-type/page-type.page-type.ts"
 import type { Properties } from "../page-type/properties/properties.record-property.ts"
 

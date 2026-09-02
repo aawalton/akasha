@@ -1,5 +1,5 @@
 import type { Domain } from "@akasha/domain-system/domain"
-import type { NameFormatSlug } from "../page-property/properties/name-format-slug.relation-property.ts"
+import type { NameFormatSlug } from "../page-properties/properties/name-format-slug.relation-property.ts"
 import type { PageType } from "../page-type/page-type.page-type.ts"
 
 export type NamePlace = Domain & {

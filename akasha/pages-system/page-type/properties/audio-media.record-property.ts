@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-property/record-property.page-type.ts"
+import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
 import type { MediaRenderer } from "./media-renderer.text-property.ts"
 import type { MediaSourcePropertyId } from "./media-source-property-id.text-property.ts"
 import type { MediaVariantAxis } from "./media-variant-axis.text-property.ts"
