@@ -1,0 +1,884 @@
+{"id":"01a0616e-9b4c-71cb-aebb-b73ac70d9caf","esoCollectibleId":3954,"collectibleName":"Abah's Watch Battle Axe"}
+{"id":"01a0616e-9b4c-718d-835e-49678959fd00","esoCollectibleId":3956,"collectibleName":"Abah's Watch Greatsword"}
+{"id":"01a0616e-9b4c-70b4-bd81-5a75952ed0c3","esoCollectibleId":3955,"collectibleName":"Abah's Watch Maul"}
+{"id":"01a0616e-9b4c-7a7a-b9f5-761c00b10ed4","esoCollectibleId":12334,"collectibleName":"Aetheriusbound Battle Axe"}
+{"id":"01a0616e-9b4c-7b5d-b42f-9d2f5467192c","esoCollectibleId":12340,"collectibleName":"Aetheriusbound Greatsword"}
+{"id":"01a0616e-9b4c-73b0-9307-7dff54c46bce","esoCollectibleId":12339,"collectibleName":"Aetheriusbound Maul"}
+{"id":"01a0616e-9b4c-70d3-96a5-6aaa4a7866ed","esoCollectibleId":2877,"collectibleName":"Akaviri Battle Axe 1"}
+{"id":"01a0616e-9b4c-7493-8238-b33d2db61b1c","esoCollectibleId":2878,"collectibleName":"Akaviri Battle Axe 2"}
+{"id":"01a0616e-9b4c-7c4f-a94b-05001066c46d","esoCollectibleId":2879,"collectibleName":"Akaviri Battle Axe 3"}
+{"id":"01a0616e-9b4c-7c7f-8765-ed92b9b2695a","esoCollectibleId":2883,"collectibleName":"Akaviri Greatsword 1"}
+{"id":"01a0616e-9b4c-7d76-b297-09649b38645b","esoCollectibleId":2884,"collectibleName":"Akaviri Greatsword 2"}
+{"id":"01a0616e-9b4c-7b4e-960e-66032c5525fc","esoCollectibleId":2885,"collectibleName":"Akaviri Greatsword 3"}
+{"id":"01a0616e-9b4c-769f-b091-7b8d788eeff1","esoCollectibleId":2880,"collectibleName":"Akaviri Maul 1"}
+{"id":"01a0616e-9b4c-7999-a1e3-38add89ead84","esoCollectibleId":2881,"collectibleName":"Akaviri Maul 2"}
+{"id":"01a0616e-9b4c-7c9a-96e0-87120521ae69","esoCollectibleId":2882,"collectibleName":"Akaviri Maul 3"}
+{"id":"01a0616e-9b4c-78a6-bb22-3415bc0e3b43","esoCollectibleId":3615,"collectibleName":"Aldmeri Battle Axe"}
+{"id":"01a0616e-9b4c-774e-84bf-4a2086b7b8df","esoCollectibleId":3617,"collectibleName":"Aldmeri Greatsword"}
+{"id":"01a0616e-9b4c-71c1-acb2-e3605f253d8c","esoCollectibleId":3616,"collectibleName":"Aldmeri Maul"}
+{"id":"01a0616e-9b4c-74c3-ad35-3d669b0446db","esoCollectibleId":12843,"collectibleName":"Alliance Accord Greatsword"}
+{"id":"01a0616e-9b4c-74bb-bbf8-a0b3215e381e","esoCollectibleId":8411,"collectibleName":"Ancestral Akaviri Battle Axe"}
+{"id":"01a0616e-9b4c-781b-909f-949b34efc9aa","esoCollectibleId":8413,"collectibleName":"Ancestral Akaviri Greatsword"}
+{"id":"01a0616e-9b4c-7d3e-82fc-4b0c348ebe16","esoCollectibleId":8412,"collectibleName":"Ancestral Akaviri Maul"}
+{"id":"01a0616e-9b4c-7ef6-808c-33d938765ccf","esoCollectibleId":8443,"collectibleName":"Ancestral Breton Battle Axe"}
+{"id":"01a0616e-9b4c-7926-9f24-5d10415416d1","esoCollectibleId":8445,"collectibleName":"Ancestral Breton Greatsword"}
+{"id":"01a0616e-9b4c-796d-a0ca-f9a50771c565","esoCollectibleId":8444,"collectibleName":"Ancestral Breton Maul"}
+{"id":"01a0616e-9b4c-7fb3-89d4-5d25e01d7cb8","esoCollectibleId":7955,"collectibleName":"Ancestral High Elf Battle Axe"}
+{"id":"01a0616e-9b4c-7f27-9312-65a98c6314f8","esoCollectibleId":7957,"collectibleName":"Ancestral High Elf Greatsword"}
+{"id":"01a0616e-9b4c-7e4e-8596-f4b0bc7b37af","esoCollectibleId":7956,"collectibleName":"Ancestral High Elf Maul"}
+{"id":"01a0616e-9b4c-7136-907e-7d85e071853f","esoCollectibleId":7920,"collectibleName":"Ancestral Nord Battle Axe"}
+{"id":"01a0616e-9b4c-75e3-b222-6a7a587451e1","esoCollectibleId":7922,"collectibleName":"Ancestral Nord Greatsword"}
+{"id":"01a0616e-9b4c-7989-9f01-f4c378fc6ac9","esoCollectibleId":7921,"collectibleName":"Ancestral Nord Maul"}
+{"id":"01a0616e-9b4c-782d-bb10-d5e1cf577755","esoCollectibleId":7987,"collectibleName":"Ancestral Orc Battle Axe"}
+{"id":"01a0616e-9b4c-7a45-bfa0-57d73ea16a02","esoCollectibleId":7989,"collectibleName":"Ancestral Orc Greatsword"}
+{"id":"01a0616e-9b4c-77ed-a258-35fa07b14ce6","esoCollectibleId":7988,"collectibleName":"Ancestral Orc Maul"}
+{"id":"01a0616e-9b4c-7226-84e7-78d410b542f6","esoCollectibleId":8497,"collectibleName":"Ancestral Reach Battle Axe"}
+{"id":"01a0616e-9b4c-785c-8a9c-cf9e9f271ba2","esoCollectibleId":8499,"collectibleName":"Ancestral Reach Greatsword"}
+{"id":"01a0616e-9b4c-7653-bab5-b8620192cf58","esoCollectibleId":8498,"collectibleName":"Ancestral Reach Maul"}
+{"id":"01a0616e-9b4c-79a4-890c-e92be5fa5aac","esoCollectibleId":9113,"collectibleName":"Ancient Daedric Battle Axe"}
+{"id":"01a0616e-9b4c-7105-9d35-5f7a2372ebaf","esoCollectibleId":9115,"collectibleName":"Ancient Daedric Greatsword"}
+{"id":"01a0616e-9b4c-77fd-8f0f-090ed9aff917","esoCollectibleId":9114,"collectibleName":"Ancient Daedric Maul"}
+{"id":"01a0616e-9b4c-7840-a348-ed6d2c0cc263","esoCollectibleId":6795,"collectibleName":"Ancient Dragon Hunter Greatsword"}
+{"id":"01a0616e-9b4c-7247-9d2c-6669de7387b9","esoCollectibleId":2447,"collectibleName":"Ancient Elf Battle Axe 1"}
+{"id":"01a0616e-9b4c-73bd-aa59-f7af7f8d2239","esoCollectibleId":2448,"collectibleName":"Ancient Elf Battle Axe 2"}
+{"id":"01a0616e-9b4c-7e0e-b4f5-92b2bb9584fd","esoCollectibleId":2453,"collectibleName":"Ancient Elf Greatsword 1"}
+{"id":"01a0616e-9b4c-746e-a59b-ab0fd49d33b2","esoCollectibleId":2454,"collectibleName":"Ancient Elf Greatsword 2"}
+{"id":"01a0616e-9b4c-78a5-82b4-34bebd21c6c4","esoCollectibleId":2450,"collectibleName":"Ancient Elf Maul 1"}
+{"id":"01a0616e-9b4c-7623-b5d9-80e161e4903d","esoCollectibleId":2451,"collectibleName":"Ancient Elf Maul 2"}
+{"id":"01a0616e-9b4c-7465-b112-5a851910a296","esoCollectibleId":12643,"collectibleName":"Ancient Mirrormoor Battle Axe"}
+{"id":"01a0616e-9b4c-71d7-a95c-bcfde1a953d6","esoCollectibleId":3398,"collectibleName":"Ancient Orc Battle Axe"}
+{"id":"01a0616e-9b4c-723d-bc5d-4a26ad871981","esoCollectibleId":3400,"collectibleName":"Ancient Orc Greatsword"}
+{"id":"01a0616e-9b4c-732b-b57d-b5d163270066","esoCollectibleId":3399,"collectibleName":"Ancient Orc Maul"}
+{"id":"01a0616e-9b4c-75ef-b635-23e1781726cc","esoCollectibleId":6563,"collectibleName":"Anequina Battle Axe"}
+{"id":"01a0616e-9b4c-7d70-92b9-25f7a69eee9b","esoCollectibleId":6565,"collectibleName":"Anequina Greatsword"}
+{"id":"01a0616e-9b4c-7a0b-815d-2cd6e3668546","esoCollectibleId":6564,"collectibleName":"Anequina Maul"}
+{"id":"01a0616e-9b4c-71e5-bc0e-b6d36685e335","esoCollectibleId":9614,"collectibleName":"Annihilarch's Chosen Battle Axe"}
+{"id":"01a0616e-9b4c-7e28-bd16-707edf1eef68","esoCollectibleId":9616,"collectibleName":"Annihilarch's Chosen Greatsword"}
+{"id":"01a0616e-9b4c-7d93-835c-98c3adeddec1","esoCollectibleId":9615,"collectibleName":"Annihilarch's Chosen Maul"}
+{"id":"01a0616e-9b4c-7efb-b79e-9789bc975ec1","esoCollectibleId":8073,"collectibleName":"Antiquarian's Pickaxe"}
+{"id":"01a0616e-9b4c-7ded-8cb3-98520ac20b4f","esoCollectibleId":10343,"collectibleName":"Anvil of Zenithar Greatsword"}
+{"id":"01a0616e-9b4c-7d07-947c-05da2e13ce4e","esoCollectibleId":11612,"collectibleName":"Apocrypha Expedition Battle Axe"}
+{"id":"01a0616e-9b4c-7fc7-96e2-1d8252f54ce8","esoCollectibleId":11618,"collectibleName":"Apocrypha Expedition Greatsword"}
+{"id":"01a0616e-9b4c-7717-97c3-9630485d7932","esoCollectibleId":11617,"collectibleName":"Apocrypha Expedition Maul"}
+{"id":"01a0616e-9b4c-7e02-baef-0925a3286480","esoCollectibleId":13933,"collectibleName":"Apocryphabound Battle Axe"}
+{"id":"01a0616e-9b4c-77be-a4c8-39776153f194","esoCollectibleId":4922,"collectibleName":"Apostle Battle Axe"}
+{"id":"01a0616e-9b4c-7376-b309-63ccdcb5f9fc","esoCollectibleId":4924,"collectibleName":"Apostle Greatsword"}
+{"id":"01a0616e-9b4c-702f-ab87-c3bc2d8e3446","esoCollectibleId":4923,"collectibleName":"Apostle Maul"}
+{"id":"01a0616e-9b4c-7641-87f4-d7dc87122565","esoCollectibleId":2203,"collectibleName":"Argonian Battle Axe 1"}
+{"id":"01a0616e-9b4c-7b80-ab75-de54ee8ad6a7","esoCollectibleId":2200,"collectibleName":"Argonian Battle Axe 2"}
+{"id":"01a0616e-9b4d-755d-b2a8-c3a4aac46ed4","esoCollectibleId":2201,"collectibleName":"Argonian Battle Axe 3"}
+{"id":"01a0616e-9b4d-73e1-9cc6-5197cfc58162","esoCollectibleId":2202,"collectibleName":"Argonian Battle Axe 4"}
+{"id":"01a0616e-9b4d-7b62-8e7d-03fdc8bd51f8","esoCollectibleId":2219,"collectibleName":"Argonian Greatsword 1"}
+{"id":"01a0616e-9b4d-7756-a37f-887a8f41424d","esoCollectibleId":2220,"collectibleName":"Argonian Greatsword 2"}
+{"id":"01a0616e-9b4d-76e3-bef9-801417db6293","esoCollectibleId":2221,"collectibleName":"Argonian Greatsword 3"}
+{"id":"01a0616e-9b4d-7de2-b9d4-7ffd428309d5","esoCollectibleId":2222,"collectibleName":"Argonian Greatsword 4"}
+{"id":"01a0616e-9b4d-71a9-a25f-ef9adf187f8e","esoCollectibleId":2209,"collectibleName":"Argonian Maul 1"}
+{"id":"01a0616e-9b4d-74af-b3db-e10fd3ce0c1d","esoCollectibleId":2210,"collectibleName":"Argonian Maul 2"}
+{"id":"01a0616e-9b4d-7d9e-b7c2-07590a79618f","esoCollectibleId":2211,"collectibleName":"Argonian Maul 3"}
+{"id":"01a0616e-9b4d-7b46-8401-275dbdfe57a2","esoCollectibleId":2212,"collectibleName":"Argonian Maul 4"}
+{"id":"01a0616e-9b4d-7e3d-b226-1edca19ee688","esoCollectibleId":12627,"collectibleName":"Arkay Unending Cycle Battle Axe"}
+{"id":"01a0616e-9b4d-7a1a-8bf3-6ddfbadfd2bc","esoCollectibleId":12633,"collectibleName":"Arkay Unending Cycle Greatsword"}
+{"id":"01a0616e-9b4d-7bbd-8e18-5862a2ae13d8","esoCollectibleId":12632,"collectibleName":"Arkay Unending Cycle Maul"}
+{"id":"01a0616e-9b4d-7ac7-89d1-8850b0c26173","esoCollectibleId":8610,"collectibleName":"Arkthzand Armory Battle Axe"}
+{"id":"01a0616e-9b4d-7d91-bd4b-72835052e7da","esoCollectibleId":8612,"collectibleName":"Arkthzand Armory Greatsword"}
+{"id":"01a0616e-9b4d-78b5-b7b0-33b0bd9273e6","esoCollectibleId":8611,"collectibleName":"Arkthzand Armory Maul"}
+{"id":"01a0616e-9b4d-7f0c-a8af-02988b587d99","esoCollectibleId":10175,"collectibleName":"Ascendant Lord Greatsword"}
+{"id":"01a0616e-9b4d-7eb2-87d6-2aa82de8fe0d","esoCollectibleId":9967,"collectibleName":"Ascendant Order Battle Axe"}
+{"id":"01a0616e-9b4d-76bb-aa11-f01bbac41e3f","esoCollectibleId":9969,"collectibleName":"Ascendant Order Greatsword"}
+{"id":"01a0616e-9b4d-7eb4-9ba1-4cae25be40c2","esoCollectibleId":9968,"collectibleName":"Ascendant Order Maul"}
+{"id":"01a0616e-9b4d-76ec-b5c6-b17744db607e","esoCollectibleId":11392,"collectibleName":"Ashen Militia Battle Axe"}
+{"id":"01a0616e-9b4d-73cf-a3ac-2fedf80df2d6","esoCollectibleId":11398,"collectibleName":"Ashen Militia Greatsword"}
+{"id":"01a0616e-9b4d-7353-b76d-d47355597b3e","esoCollectibleId":11397,"collectibleName":"Ashen Militia Maul"}
+{"id":"01a0616e-9b4d-7633-835c-a932877c9426","esoCollectibleId":4391,"collectibleName":"Ashlander Battle Axe"}
+{"id":"01a0616e-9b4d-7f3b-827a-7e9867a27a45","esoCollectibleId":4393,"collectibleName":"Ashlander Greatsword"}
+{"id":"01a0616e-9b4d-7dec-9c43-bd277770488e","esoCollectibleId":4392,"collectibleName":"Ashlander Maul"}
+{"id":"01a0616e-9b4d-7cf6-8abf-8e816220654e","esoCollectibleId":3372,"collectibleName":"Assassins League Battle Axe"}
+{"id":"01a0616e-9b4d-741d-8840-3cfc2332ce2c","esoCollectibleId":3374,"collectibleName":"Assassins League Greatsword"}
+{"id":"01a0616e-9b4d-7b10-9397-1325576b785e","esoCollectibleId":3373,"collectibleName":"Assassins League Maul"}
+{"id":"01a0616e-9b4d-7a9d-bcd4-c51ba7f9c3b8","esoCollectibleId":12205,"collectibleName":"Ayleid Lich Battle Axe"}
+{"id":"01a0616e-9b4d-7033-b8d2-1dad3a1d60a3","esoCollectibleId":12211,"collectibleName":"Ayleid Lich Greatsword"}
+{"id":"01a0616e-9b4d-7f47-9ddf-9119d0dd593c","esoCollectibleId":12210,"collectibleName":"Ayleid Lich Maul"}
+{"id":"01a0616e-9b4d-7947-bf2c-069a61694280","esoCollectibleId":6576,"collectibleName":"Baandari Pedlar Battle Axe"}
+{"id":"01a0616e-9b4d-72de-96f2-c965c6276164","esoCollectibleId":7398,"collectibleName":"Balorgh Greatsword"}
+{"id":"01a0616e-9b4d-7030-9b08-c63903a0c18e","esoCollectibleId":2370,"collectibleName":"Barbaric Battle Axe 1"}
+{"id":"01a0616e-9b4d-79d0-bcc6-7cf6cd223e9c","esoCollectibleId":2371,"collectibleName":"Barbaric Battle Axe 2"}
+{"id":"01a0616e-9b4d-7495-8b68-e9116468f463","esoCollectibleId":2372,"collectibleName":"Barbaric Battle Axe 3"}
+{"id":"01a0616e-9b4d-7f0e-99b0-38a1d27d06d0","esoCollectibleId":2396,"collectibleName":"Barbaric Greatsword 1"}
+{"id":"01a0616e-9b4d-7af9-93c8-e0dbaf26e3bd","esoCollectibleId":2394,"collectibleName":"Barbaric Greatsword 2"}
+{"id":"01a0616e-9b4d-7ba2-b4a2-889e9093d09c","esoCollectibleId":2395,"collectibleName":"Barbaric Greatsword 3"}
+{"id":"01a0616e-9b4d-7d45-a7e4-52975903d664","esoCollectibleId":2375,"collectibleName":"Barbaric Maul 1"}
+{"id":"01a0616e-9b4d-7b33-a247-0f2cd37d5f6e","esoCollectibleId":2374,"collectibleName":"Barbaric Maul 2"}
+{"id":"01a0616e-9b4d-7f41-a019-cc5192910031","esoCollectibleId":2373,"collectibleName":"Barbaric Maul 3"}
+{"id":"01a0616e-9b4d-7aff-96e7-952c927c2dc4","esoCollectibleId":9525,"collectibleName":"Baron Zaudrus Maul"}
+{"id":"01a0616e-9b4d-77ab-a226-b3dae891f9ab","esoCollectibleId":11736,"collectibleName":"Basalt-Blood Warrior Battle Axe"}
+{"id":"01a0616e-9b4d-7a18-a303-62d18f95a63a","esoCollectibleId":11742,"collectibleName":"Basalt-Blood Warrior Greatsword"}
+{"id":"01a0616e-9b4d-7318-80d4-fbdc0822a8cf","esoCollectibleId":11741,"collectibleName":"Basalt-Blood Warrior Maul"}
+{"id":"01a0616e-9b4d-7f3b-8ce5-0f6521578176","esoCollectibleId":6782,"collectibleName":"Battleground Runner Bludgeon"}
+{"id":"01a0616e-9b4d-7e69-8b09-afaa0db47480","esoCollectibleId":9152,"collectibleName":"Black Fin Legion Battle Axe"}
+{"id":"01a0616e-9b4d-7084-9d42-3e5bc8d0316d","esoCollectibleId":9154,"collectibleName":"Black Fin Legion Greatsword"}
+{"id":"01a0616e-9b4d-7946-bb12-633273773b80","esoCollectibleId":9153,"collectibleName":"Black Fin Legion Maul"}
+{"id":"01a0616e-9b4d-7c26-ba9a-99c4e8395171","esoCollectibleId":13331,"collectibleName":"Black Soul Gem Battle Axe"}
+{"id":"01a0616e-9b4d-7f8b-95b2-80fbeb547560","esoCollectibleId":13333,"collectibleName":"Black Soul Gem Greatsword"}
+{"id":"01a0616e-9b4d-7340-a6e4-6e1a3acd6e96","esoCollectibleId":13332,"collectibleName":"Black Soul Gem Maul"}
+{"id":"01a0616e-9b4d-7dc6-be55-c4d8ffd36101","esoCollectibleId":7722,"collectibleName":"Blackreach Vanguard Battle Axe"}
+{"id":"01a0616e-9b4d-7f72-ba60-43e0cd2b6d35","esoCollectibleId":7724,"collectibleName":"Blackreach Vanguard Greatsword"}
+{"id":"01a0616e-9b4d-71f5-98df-4946b89c60c9","esoCollectibleId":7723,"collectibleName":"Blackreach Vanguard Maul"}
+{"id":"01a0616e-9b4d-775d-a47c-634a35ee694a","esoCollectibleId":10988,"collectibleName":"Blessed Inheritor Battle Axe"}
+{"id":"01a0616e-9b4d-7c1f-811a-e612f0bfc783","esoCollectibleId":10990,"collectibleName":"Blessed Inheritor Greatsword"}
+{"id":"01a0616e-9b4d-7bdd-bb70-79ac52300c11","esoCollectibleId":10989,"collectibleName":"Blessed Inheritor Maul"}
+{"id":"01a0616e-9b4d-7ed9-810b-39708e49b5bc","esoCollectibleId":11985,"collectibleName":"Blind Path Cultist Battle Axe"}
+{"id":"01a0616e-9b4d-7673-8dfb-56771fc8906b","esoCollectibleId":11987,"collectibleName":"Blind Path Cultist Greatsword"}
+{"id":"01a0616e-9b4d-70d6-8c2c-aba3facc9d4a","esoCollectibleId":11986,"collectibleName":"Blind Path Cultist Maul"}
+{"id":"01a0616e-9b4d-7ce7-bbb1-026443dc2893","esoCollectibleId":4565,"collectibleName":"Bloodforge Battle Axe"}
+{"id":"01a0616e-9b4d-7b1f-8441-d8307e906db3","esoCollectibleId":4567,"collectibleName":"Bloodforge Greatsword"}
+{"id":"01a0616e-9b4d-7299-aa09-4c29d209cd51","esoCollectibleId":4566,"collectibleName":"Bloodforge Maul"}
+{"id":"01a0616e-9b4d-722d-8780-c536aeb835d1","esoCollectibleId":11034,"collectibleName":"Bloodrage Battle Axe"}
+{"id":"01a0616e-9b4d-7a58-a05b-eeb0431f9cab","esoCollectibleId":5570,"collectibleName":"Bloodspawn Battle Axe"}
+{"id":"01a0616e-9b4d-76d0-a1ac-cfd4f64d1e4e","esoCollectibleId":11012,"collectibleName":"Bonemold Battle Axe"}
+{"id":"01a0616e-9b4d-788c-9d53-7d837267a42b","esoCollectibleId":11018,"collectibleName":"Bonemold Greatsword"}
+{"id":"01a0616e-9b4d-7cb3-a281-08935bd63d35","esoCollectibleId":11017,"collectibleName":"Bonemold Maul"}
+{"id":"01a0616e-9b4d-793d-9014-01b2a3e4c818","esoCollectibleId":1570,"collectibleName":"Breton Battle Axe 1"}
+{"id":"01a0616e-9b4d-763b-b641-a8831103eb22","esoCollectibleId":1572,"collectibleName":"Breton Battle Axe 2"}
+{"id":"01a0616e-9b4d-7302-b7c7-c16704db0407","esoCollectibleId":1569,"collectibleName":"Breton Battle Axe 3"}
+{"id":"01a0616e-9b4d-7f9d-88c4-1041ec51e384","esoCollectibleId":1568,"collectibleName":"Breton Battle Axe 4"}
+{"id":"01a0616e-9b4d-796f-a583-40cd2bd8f006","esoCollectibleId":1577,"collectibleName":"Breton Greatsword 1"}
+{"id":"01a0616e-9b4d-788d-8320-30c93bb4218b","esoCollectibleId":1576,"collectibleName":"Breton Greatsword 2"}
+{"id":"01a0616e-9b4d-79d0-abe1-a77208ba2dc3","esoCollectibleId":1575,"collectibleName":"Breton Greatsword 3"}
+{"id":"01a0616e-9b4d-7c7f-800c-8ec15cde286a","esoCollectibleId":1574,"collectibleName":"Breton Greatsword 4"}
+{"id":"01a0616e-9b4d-7216-a1c8-21ce0c7aff59","esoCollectibleId":1558,"collectibleName":"Breton Maul 1"}
+{"id":"01a0616e-9b4d-7e19-af54-b29c17e562d5","esoCollectibleId":1562,"collectibleName":"Breton Maul 2"}
+{"id":"01a0616e-9b4d-7747-92b4-bc149bc43d9c","esoCollectibleId":1559,"collectibleName":"Breton Maul 3"}
+{"id":"01a0616e-9b4d-752a-a960-61690d7393e3","esoCollectibleId":1560,"collectibleName":"Breton Maul 4"}
+{"id":"01a0616e-9b4d-7cee-bc4a-b296f0be9fef","esoCollectibleId":11841,"collectibleName":"Bristleback Hunter Battle Axe"}
+{"id":"01a0616e-9b4d-7aed-9c4b-420c8d29c218","esoCollectibleId":11847,"collectibleName":"Bristleback Hunter Greatsword"}
+{"id":"01a0616e-9b4d-7d0a-a2e2-18586814d166","esoCollectibleId":11846,"collectibleName":"Bristleback Hunter Maul"}
+{"id":"01a0616e-9b4d-7d0d-91f8-d7d7a20718ff","esoCollectibleId":7616,"collectibleName":"Broom"}
+{"id":"01a0616e-9b4d-7763-92e8-2061ba6e98fd","esoCollectibleId":4458,"collectibleName":"Buoyant Armiger Battle Axe"}
+{"id":"01a0616e-9b4d-711e-a988-751eef969189","esoCollectibleId":4460,"collectibleName":"Buoyant Armiger Greatsword"}
+{"id":"01a0616e-9b4d-7622-97ee-3234322b5012","esoCollectibleId":4459,"collectibleName":"Buoyant Armiger Maul"}
+{"id":"01a0616e-9b4d-7df3-9218-625590bac3d9","esoCollectibleId":6097,"collectibleName":"Cadwell's \"Battle Axe\""}
+{"id":"01a0616e-9b4d-7b86-8a8a-15d8835826ca","esoCollectibleId":6099,"collectibleName":"Cadwell's \"Greatsword\""}
+{"id":"01a0616e-9b4d-7d1f-b21c-fc68ce6e4aba","esoCollectibleId":6098,"collectibleName":"Cadwell's \"Maul\""}
+{"id":"01a0616e-9b4d-7a64-8d72-b13b14424d58","esoCollectibleId":12863,"collectibleName":"Carnaval Maul"}
+{"id":"01a0616e-9b4d-77d8-bc48-cab52a85440f","esoCollectibleId":4299,"collectibleName":"Celestial Battle Axe"}
+{"id":"01a0616e-9b4d-77f4-96f1-9a1034bbc4ab","esoCollectibleId":4301,"collectibleName":"Celestial Greatsword"}
+{"id":"01a0616e-9b4d-7212-9d66-3cfcf86eebff","esoCollectibleId":4300,"collectibleName":"Celestial Maul"}
+{"id":"01a0616e-9b4d-7c1a-bf7b-d82e2e4bbe54","esoCollectibleId":14315,"collectibleName":"Charming Rogue Battle Axe"}
+{"id":"01a0616e-9b4d-7f62-b460-61810bcb7b63","esoCollectibleId":14317,"collectibleName":"Charming Rogue Greatsword"}
+{"id":"01a0616e-9b4d-7438-b78d-c32623d2c2df","esoCollectibleId":14316,"collectibleName":"Charming Rogue Maul"}
+{"id":"01a0616e-9b4d-7525-afb1-c438856900e6","esoCollectibleId":8099,"collectibleName":"Chitinous Battle Axe"}
+{"id":"01a0616e-9b4d-7bd8-a504-897bc16fd619","esoCollectibleId":8105,"collectibleName":"Chitinous Greatsword"}
+{"id":"01a0616e-9b4d-74d7-833a-c46aaa036d1c","esoCollectibleId":8104,"collectibleName":"Chitinous Maul"}
+{"id":"01a0616e-9b4d-71ac-8a0e-c9f1ed953ac2","esoCollectibleId":6746,"collectibleName":"Chokethorn Greatsword"}
+{"id":"01a0616e-9b4d-7eff-b9fd-383f0ab51bb6","esoCollectibleId":14160,"collectibleName":"Chosen of Anu Battle Axe"}
+{"id":"01a0616e-9b4d-7002-b4e2-40a6f0786008","esoCollectibleId":14161,"collectibleName":"Chosen of Anu Maul"}
+{"id":"01a0616e-9b4d-7ab2-88f6-52ec13a4f3db","esoCollectibleId":14155,"collectibleName":"Chosen of Padomay Greatsword"}
+{"id":"01a0616e-9b4d-7d38-9022-daccb01f2023","esoCollectibleId":6354,"collectibleName":"Chrysamere"}
+{"id":"01a0616e-9b4d-78a8-84f6-44dfe632745b","esoCollectibleId":11283,"collectibleName":"Clan Dreamcarver Battle Axe"}
+{"id":"01a0616e-9b4d-75de-aa35-ab8b7d770fe1","esoCollectibleId":11285,"collectibleName":"Clan Dreamcarver Greatsword"}
+{"id":"01a0616e-9b4d-778d-97fd-c334bb707acc","esoCollectibleId":11284,"collectibleName":"Clan Dreamcarver Maul"}
+{"id":"01a0616e-9b4d-7f9c-bafe-afb542ff81c4","esoCollectibleId":10538,"collectibleName":"Claw-Dance Acolyte Battle Axe"}
+{"id":"01a0616e-9b4d-72b6-a3ca-d3e3f8d7bd84","esoCollectibleId":10544,"collectibleName":"Claw-Dance Acolyte Greatsword"}
+{"id":"01a0616e-9b4d-7e26-821c-06632225137e","esoCollectibleId":10543,"collectibleName":"Claw-Dance Acolyte Maul"}
+{"id":"01a0616e-9b4d-72c6-afbb-4cd4201cdc6d","esoCollectibleId":13662,"collectibleName":"Clockwork Factotum Battle Axe"}
+{"id":"01a0616e-9b4d-738e-b402-d02b06a6bf99","esoCollectibleId":13668,"collectibleName":"Clockwork Factotum Greatsword"}
+{"id":"01a0616e-9b4d-714f-bb45-ec2f3103cb62","esoCollectibleId":13667,"collectibleName":"Clockwork Factotum Maul"}
+{"id":"01a0616e-9b4d-7341-9968-5d79edbccf23","esoCollectibleId":13172,"collectibleName":"Coldharbour Dominator Battle Axe"}
+{"id":"01a0616e-9b4d-776b-a43e-b496a8e1fc04","esoCollectibleId":13174,"collectibleName":"Coldharbour Dominator Greatsword"}
+{"id":"01a0616e-9b4d-71e5-aa40-7e2b14649cb4","esoCollectibleId":13173,"collectibleName":"Coldharbour Dominator Maul"}
+{"id":"01a0616e-9b4d-7601-a872-26ac189c3580","esoCollectibleId":6274,"collectibleName":"Coldsnap Goblin Battle Axe"}
+{"id":"01a0616e-9b4d-704b-b44d-0a2a22421554","esoCollectibleId":6276,"collectibleName":"Coldsnap Goblin Greatsword"}
+{"id":"01a0616e-9b4d-79a9-a36d-64218dac29e5","esoCollectibleId":6275,"collectibleName":"Coldsnap Goblin Maul"}
+{"id":"01a0616e-9b4d-767c-aa96-d49b567f8728","esoCollectibleId":12230,"collectibleName":"Companion Revelry Maul"}
+{"id":"01a0616e-9b4d-7c3e-9dba-dca5809338eb","esoCollectibleId":9494,"collectibleName":"Crimson Oath Battle Axe"}
+{"id":"01a0616e-9b4d-7a74-8377-5b83d32e9ac6","esoCollectibleId":9496,"collectibleName":"Crimson Oath Greatsword"}
+{"id":"01a0616e-9b4d-738f-a25f-09c0d8fbf0c9","esoCollectibleId":9495,"collectibleName":"Crimson Oath Maul"}
+{"id":"01a0616e-9b4d-7d55-be67-8e4106e4bcb2","esoCollectibleId":11602,"collectibleName":"Crowborne Hunter Battle Axe"}
+{"id":"01a0616e-9b4d-725b-98d6-6af6ce54c530","esoCollectibleId":11608,"collectibleName":"Crowborne Hunter Greatsword"}
+{"id":"01a0616e-9b4d-7e01-adae-d40b87727ad4","esoCollectibleId":11607,"collectibleName":"Crowborne Hunter Maul"}
+{"id":"01a0616e-9b4d-76c5-8ee0-be69a7959d08","esoCollectibleId":13236,"collectibleName":"Cruel Corelanya Greatsword"}
+{"id":"01a0616e-9b4d-719f-a300-1ea8f6a0a024","esoCollectibleId":2104,"collectibleName":"Daedric Battle Axe 1"}
+{"id":"01a0616e-9b4d-7f92-90f8-1e04e062b906","esoCollectibleId":2105,"collectibleName":"Daedric Battle Axe 2"}
+{"id":"01a0616e-9b4d-7754-8185-6a8ebb492cdc","esoCollectibleId":2106,"collectibleName":"Daedric Battle Axe 3"}
+{"id":"01a0616e-9b4d-71c1-ab21-c18dfa6fbd49","esoCollectibleId":2110,"collectibleName":"Daedric Greatsword 1"}
+{"id":"01a0616e-9b4d-725c-b13f-e635b4df1fdf","esoCollectibleId":2111,"collectibleName":"Daedric Greatsword 2"}
+{"id":"01a0616e-9b4d-766b-bc19-3446c12e05e0","esoCollectibleId":2112,"collectibleName":"Daedric Greatsword 3"}
+{"id":"01a0616e-9b4d-7232-8658-fd435bed28cf","esoCollectibleId":2107,"collectibleName":"Daedric Maul 1"}
+{"id":"01a0616e-9b4d-7317-91cd-5e6fb80e01a0","esoCollectibleId":2108,"collectibleName":"Daedric Maul 2"}
+{"id":"01a0616e-9b4d-71d7-8cd4-8f7a0092a355","esoCollectibleId":2109,"collectibleName":"Daedric Maul 3"}
+{"id":"01a0616e-9b4d-7abc-a9d3-706be05db21a","esoCollectibleId":3671,"collectibleName":"Daggerfall Battle Axe"}
+{"id":"01a0616e-9b4d-7384-aa6d-9c2832c55f57","esoCollectibleId":3673,"collectibleName":"Daggerfall Greatsword"}
+{"id":"01a0616e-9b4d-7e25-97c5-4dbecdb4e417","esoCollectibleId":3672,"collectibleName":"Daggerfall Maul"}
+{"id":"01a0616e-9b4d-7cb1-896c-f98eb5482687","esoCollectibleId":14094,"collectibleName":"Dapper Daredevil Battle Axe"}
+{"id":"01a0616e-9b4d-714a-a788-d80ee92111e6","esoCollectibleId":13928,"collectibleName":"Dapper Daredevil Greatsword"}
+{"id":"01a0616e-9b4d-75b8-a0c9-6018337abcdf","esoCollectibleId":14093,"collectibleName":"Dapper Daredevil Maul"}
+{"id":"01a0616e-9b4d-733e-a0c0-89988ec274fc","esoCollectibleId":3704,"collectibleName":"Dark Brotherhood Battle Axe"}
+{"id":"01a0616e-9b4d-764e-b671-17ed94c2e4f6","esoCollectibleId":3706,"collectibleName":"Dark Brotherhood Greatsword"}
+{"id":"01a0616e-9b4d-7a10-96d0-8bd4c42472e4","esoCollectibleId":3705,"collectibleName":"Dark Brotherhood Maul"}
+{"id":"01a0616e-9b4d-700c-8261-ee5929f3f69e","esoCollectibleId":13414,"collectibleName":"Dark Dream Contagion Greatsword"}
+{"id":"01a0616e-9b4d-76ff-920b-f58166113083","esoCollectibleId":1610,"collectibleName":"Dark Elf Battle Axe 1"}
+{"id":"01a0616e-9b4d-7995-b4f3-a9549f6375f7","esoCollectibleId":1608,"collectibleName":"Dark Elf Battle Axe 2"}
+{"id":"01a0616e-9b4d-79a8-80fd-efe0e6eda9f9","esoCollectibleId":1606,"collectibleName":"Dark Elf Battle Axe 3"}
+{"id":"01a0616e-9b4d-7bf3-989f-275c8fd0d731","esoCollectibleId":1609,"collectibleName":"Dark Elf Battle Axe 4"}
+{"id":"01a0616e-9b4d-73cc-b2fd-15e5caf5c94a","esoCollectibleId":1605,"collectibleName":"Dark Elf Greatsword 1"}
+{"id":"01a0616e-9b4d-7aca-8e92-aa4d3f450f1c","esoCollectibleId":1601,"collectibleName":"Dark Elf Greatsword 2"}
+{"id":"01a0616e-9b4d-7a0c-a72a-c9e66075c409","esoCollectibleId":1603,"collectibleName":"Dark Elf Greatsword 3"}
+{"id":"01a0616e-9b4d-7789-817b-099f25a098cf","esoCollectibleId":1604,"collectibleName":"Dark Elf Greatsword 4"}
+{"id":"01a0616e-9b4d-73c2-9704-d0ff9c7dcb13","esoCollectibleId":1632,"collectibleName":"Dark Elf Maul 1"}
+{"id":"01a0616e-9b4d-72ed-aec3-e37d35ac7a04","esoCollectibleId":1631,"collectibleName":"Dark Elf Maul 2"}
+{"id":"01a0616e-9b4d-7ccf-8916-e152334e116b","esoCollectibleId":1630,"collectibleName":"Dark Elf Maul 3"}
+{"id":"01a0616e-9b4d-78c5-aa92-5f02c26e08d5","esoCollectibleId":1629,"collectibleName":"Dark Elf Maul 4"}
+{"id":"01a0616e-9b4d-7eb0-bcf6-71e5e1a4d8d0","esoCollectibleId":12398,"collectibleName":"Dark Executioner Greatsword"}
+{"id":"01a0616e-9b4d-7f33-8a5b-828a41fcda60","esoCollectibleId":12396,"collectibleName":"Dark Executioner Maul"}
+{"id":"01a0616e-9b4d-7446-969a-d716726dd01a","esoCollectibleId":11316,"collectibleName":"Dead Keeper Battle Axe"}
+{"id":"01a0616e-9b4d-72e7-a036-f96c9b5d59e3","esoCollectibleId":11318,"collectibleName":"Dead Keeper Greatsword"}
+{"id":"01a0616e-9b4d-7de2-b572-f692f3fe301a","esoCollectibleId":11317,"collectibleName":"Dead Keeper Maul"}
+{"id":"01a0616e-9b4d-7122-ab7e-3065da0d7bc8","esoCollectibleId":5961,"collectibleName":"Dead-Water Battle Axe"}
+{"id":"01a0616e-9b4d-7869-918f-94f2427a8e4b","esoCollectibleId":5963,"collectibleName":"Dead-Water Greatsword"}
+{"id":"01a0616e-9b4d-7e7f-b857-d52a1e06b991","esoCollectibleId":5962,"collectibleName":"Dead-Water Maul"}
+{"id":"01a0616e-9b4d-78a0-94c7-357ab8370938","esoCollectibleId":8792,"collectibleName":"Deadlands Gladiator Battle Axe"}
+{"id":"01a0616e-9b4d-77c2-bdce-da270d87b1a5","esoCollectibleId":8794,"collectibleName":"Deadlands Gladiator Greatsword"}
+{"id":"01a0616e-9b4d-7893-ae96-761e991d4343","esoCollectibleId":8793,"collectibleName":"Deadlands Gladiator Maul"}
+{"id":"01a0616e-9b4d-799a-96e6-ebe2a27107af","esoCollectibleId":12848,"collectibleName":"Deepsea Corsair Battle Axe"}
+{"id":"01a0616e-9b4d-7c5a-ba58-e7899293d7c8","esoCollectibleId":13241,"collectibleName":"Devourer's Dragonbone Greatsword"}
+{"id":"01a0616e-9b4d-7a18-a88a-c2364329243f","esoCollectibleId":5282,"collectibleName":"Divine Prosecution Battle Axe"}
+{"id":"01a0616e-9b4d-7cb9-9a58-553e990da04b","esoCollectibleId":5284,"collectibleName":"Divine Prosecution Greatsword"}
+{"id":"01a0616e-9b4d-7d0c-b6b6-1b47c89f1852","esoCollectibleId":5283,"collectibleName":"Divine Prosecution Maul"}
+{"id":"01a0616e-9b4d-7ae0-9aed-5a72fe4f63a0","esoCollectibleId":8664,"collectibleName":"Doctrine Ordinator Battle Axe"}
+{"id":"01a0616e-9b4d-71f2-b333-872c040a23fc","esoCollectibleId":8670,"collectibleName":"Doctrine Ordinator Greatsword"}
+{"id":"01a0616e-9b4d-75f8-9856-bb48d3787219","esoCollectibleId":8669,"collectibleName":"Doctrine Ordinator Maul"}
+{"id":"01a0616e-9b4d-7e33-97c2-9e9fb2d532d9","esoCollectibleId":7744,"collectibleName":"Domihaus Maul"}
+{"id":"01a0616e-9b4d-75ab-ba53-2cc85af1b393","esoCollectibleId":6087,"collectibleName":"Dragon Bone Battle Axe"}
+{"id":"01a0616e-9b4d-7675-a6d2-0193cd07a075","esoCollectibleId":6089,"collectibleName":"Dragon Bone Greatsword"}
+{"id":"01a0616e-9b4d-7bfa-90fc-2678b6e63e00","esoCollectibleId":6088,"collectibleName":"Dragon Bone Maul"}
+{"id":"01a0616e-9b4d-7302-b43a-9667a11aa4d9","esoCollectibleId":7047,"collectibleName":"Dragonguard Battle Axe"}
+{"id":"01a0616e-9b4d-787c-9302-ab38a03fad68","esoCollectibleId":7049,"collectibleName":"Dragonguard Greatsword"}
+{"id":"01a0616e-9b4d-7b1e-b9dc-dd18b528ab4c","esoCollectibleId":7048,"collectibleName":"Dragonguard Maul"}
+{"id":"01a0616e-9b4d-7256-ab83-d71cccca33d7","esoCollectibleId":2796,"collectibleName":"Draugr Battle Axe"}
+{"id":"01a0616e-9b4d-714f-8db2-8d89fd7c5efa","esoCollectibleId":2798,"collectibleName":"Draugr Greatsword"}
+{"id":"01a0616e-9b4d-7904-8b22-23cd2241c7b8","esoCollectibleId":2797,"collectibleName":"Draugr Maul"}
+{"id":"01a0616e-9b4d-70a2-97f8-6ef1e9b7bd45","esoCollectibleId":4597,"collectibleName":"Dreadhorn Battle Axe"}
+{"id":"01a0616e-9b4d-7c5e-ae93-82c126ad09c0","esoCollectibleId":4599,"collectibleName":"Dreadhorn Greatsword"}
+{"id":"01a0616e-9b4d-77e9-a0dd-6f4b71aa3cb5","esoCollectibleId":4598,"collectibleName":"Dreadhorn Maul"}
+{"id":"01a0616e-9b4d-7b70-b40b-4e3c5e67147d","esoCollectibleId":9935,"collectibleName":"Dreadsails Battle Axe"}
+{"id":"01a0616e-9b4d-7937-96a5-4bc94782bfaf","esoCollectibleId":9937,"collectibleName":"Dreadsails Greatsword"}
+{"id":"01a0616e-9b4d-7691-8a76-6088d46c91c5","esoCollectibleId":9936,"collectibleName":"Dreadsails Maul"}
+{"id":"01a0616e-9b4d-760d-8b69-e09a54f2667d","esoCollectibleId":4628,"collectibleName":"Dremora Battle Axe"}
+{"id":"01a0616e-9b4d-71ec-b9d6-7b8571c7169e","esoCollectibleId":4630,"collectibleName":"Dremora Greatsword"}
+{"id":"01a0616e-9b4d-7caf-8424-6ebd68cb5435","esoCollectibleId":4629,"collectibleName":"Dremora Maul"}
+{"id":"01a0616e-9b4d-7b96-8c37-1f5ca01fb8ed","esoCollectibleId":4096,"collectibleName":"Dro-m'Athra Battle Axe"}
+{"id":"01a0616e-9b4d-739b-9a6d-24b09526b78a","esoCollectibleId":4098,"collectibleName":"Dro-m'Athra Greatsword"}
+{"id":"01a0616e-9b4d-7805-b191-c91a0fdd843d","esoCollectibleId":4097,"collectibleName":"Dro-m'Athra Maul"}
+{"id":"01a0616e-9b4d-7cae-89fd-0162caa53f35","esoCollectibleId":10499,"collectibleName":"Drowned Mariner Battle Axe"}
+{"id":"01a0616e-9b4d-7b36-b14a-40f4b74294f0","esoCollectibleId":10501,"collectibleName":"Drowned Mariner Greatsword"}
+{"id":"01a0616e-9b4d-7981-a8aa-c4debbbf8afc","esoCollectibleId":10500,"collectibleName":"Drowned Mariner Maul"}
+{"id":"01a0616e-9b4d-7117-b875-69f83b301d20","esoCollectibleId":2963,"collectibleName":"Dwarven Battle Axe 1"}
+{"id":"01a0616e-9b4d-7241-9197-2935ddbf8e4b","esoCollectibleId":2962,"collectibleName":"Dwarven Battle Axe 2"}
+{"id":"01a0616e-9b4d-7702-adcd-dab2ec3818a6","esoCollectibleId":2964,"collectibleName":"Dwarven Battle Axe 3"}
+{"id":"01a0616e-9b4d-754a-a3a8-d18f100e4a76","esoCollectibleId":2970,"collectibleName":"Dwarven Greatsword 1"}
+{"id":"01a0616e-9b4d-7fed-8fa7-de5327149c7a","esoCollectibleId":2968,"collectibleName":"Dwarven Greatsword 2"}
+{"id":"01a0616e-9b4d-74a1-b0b4-0df83c2de20d","esoCollectibleId":2969,"collectibleName":"Dwarven Greatsword 3"}
+{"id":"01a0616e-9b4d-79b1-b65e-2298513bb2c5","esoCollectibleId":2966,"collectibleName":"Dwarven Maul 1"}
+{"id":"01a0616e-9b4d-7e4f-833d-28ab0e9b40d2","esoCollectibleId":2965,"collectibleName":"Dwarven Maul 2"}
+{"id":"01a0616e-9b4d-79fd-9cbc-fbb26322a2e8","esoCollectibleId":2967,"collectibleName":"Dwarven Maul 3"}
+{"id":"01a0616e-9b4d-7c6c-b8f4-7ad73f9a1b76","esoCollectibleId":6247,"collectibleName":"Dwarven Remnant Battle Axe"}
+{"id":"01a0616e-9b4d-76eb-b202-302b89ba2199","esoCollectibleId":12023,"collectibleName":"Earthbone Ayleid Battle Axe"}
+{"id":"01a0616e-9b4d-75d9-b948-fa18efba3159","esoCollectibleId":12029,"collectibleName":"Earthbone Ayleid Greatsword"}
+{"id":"01a0616e-9b4d-75a2-9e1f-0d1793e2556e","esoCollectibleId":12028,"collectibleName":"Earthbone Ayleid Maul"}
+{"id":"01a0616e-9b4d-7470-a923-92262f6cfb8f","esoCollectibleId":8162,"collectibleName":"Earthgore Maul"}
+{"id":"01a0616e-9b4d-78b5-af3c-ddae313dcd80","esoCollectibleId":3599,"collectibleName":"Ebonheart Battle Axe"}
+{"id":"01a0616e-9b4d-74d9-9aae-5b09687fb536","esoCollectibleId":3601,"collectibleName":"Ebonheart Greatsword"}
+{"id":"01a0616e-9b4d-7c01-bd6c-8a40a93d83f8","esoCollectibleId":3600,"collectibleName":"Ebonheart Maul"}
+{"id":"01a0616e-9b4d-7392-8522-ed51b7264bf3","esoCollectibleId":4976,"collectibleName":"Ebonshadow Battle Axe"}
+{"id":"01a0616e-9b4d-79db-adba-0ea6fda0e129","esoCollectibleId":4978,"collectibleName":"Ebonshadow Greatsword"}
+{"id":"01a0616e-9b4d-7aff-8f5a-046609770cf9","esoCollectibleId":4977,"collectibleName":"Ebonshadow Maul"}
+{"id":"01a0616e-9b4d-7d99-98a1-cac3b90ca87d","esoCollectibleId":8818,"collectibleName":"Ebonsteel Knight Greatsword"}
+{"id":"01a0616e-9b4d-75f8-bc96-df83540ef4af","esoCollectibleId":4077,"collectibleName":"Ebony Battle Axe"}
+{"id":"01a0616e-9b4d-7bd4-8b49-58e57eee198a","esoCollectibleId":6478,"collectibleName":"Ebony Blade"}
+{"id":"01a0616e-9b4d-7421-b88f-53eea85a165c","esoCollectibleId":4079,"collectibleName":"Ebony Greatsword"}
+{"id":"01a0616e-9b4d-749b-bf6f-2ba11ab26ee6","esoCollectibleId":4078,"collectibleName":"Ebony Maul"}
+{"id":"01a0616e-9b4d-7ecb-a387-2c4c489cc51c","esoCollectibleId":12533,"collectibleName":"Eld Angavar Battle Axe"}
+{"id":"01a0616e-9b4d-7031-852c-8cae2159e67c","esoCollectibleId":12539,"collectibleName":"Eld Angavar Greatsword"}
+{"id":"01a0616e-9b4d-70f3-b962-3c68bd400a01","esoCollectibleId":12538,"collectibleName":"Eld Angavar Maul"}
+{"id":"01a0616e-9b4d-72c4-b3f8-fba9687eea23","esoCollectibleId":5993,"collectibleName":"Elder Argonian Battle Axe"}
+{"id":"01a0616e-9b4d-700d-9f4a-1fa626443cb5","esoCollectibleId":5995,"collectibleName":"Elder Argonian Greatsword"}
+{"id":"01a0616e-9b4d-7b4c-a337-fd19eb58b628","esoCollectibleId":5994,"collectibleName":"Elder Argonian Maul"}
+{"id":"01a0616e-9b4d-77b9-b3e1-1e85409b312b","esoCollectibleId":6604,"collectibleName":"Elder Dragon Hunter Greatsword"}
+{"id":"01a0616e-9b4d-766f-808c-fe9beb5ba836","esoCollectibleId":12358,"collectibleName":"Eltheric Revenant Battle Axe"}
+{"id":"01a0616e-9b4d-78ea-a3a0-812ac9238a1a","esoCollectibleId":12364,"collectibleName":"Eltheric Revenant Greatsword"}
+{"id":"01a0616e-9b4d-7818-8748-5002e11e06f3","esoCollectibleId":12363,"collectibleName":"Eltheric Revenant Maul"}
+{"id":"01a0616e-9b4d-72b1-9f89-57bce0719d07","esoCollectibleId":10257,"collectibleName":"Encratis's Behemoth Maul"}
+{"id":"01a0616e-9b4d-74a9-a6be-629bd7ca646f","esoCollectibleId":6049,"collectibleName":"Engine Guardian Greatsword"}
+{"id":"01a0616e-9b4d-76ff-9615-adce91575b4e","esoCollectibleId":10893,"collectibleName":"Euphotic Gatekeeper Maul"}
+{"id":"01a0616e-9b4d-7d5e-af54-72d4b4d92530","esoCollectibleId":9753,"collectibleName":"Evergloam Champion Battle Axe"}
+{"id":"01a0616e-9b4d-7794-a4bf-8e959e75c22e","esoCollectibleId":9759,"collectibleName":"Evergloam Champion Greatsword"}
+{"id":"01a0616e-9b4d-7068-948c-5d24d66c4d28","esoCollectibleId":9758,"collectibleName":"Evergloam Champion Maul"}
+{"id":"01a0616e-9b4d-780e-80d6-f94d91b609cd","esoCollectibleId":10736,"collectibleName":"Evergreen Battle Axe"}
+{"id":"01a0616e-9b4d-7ab7-85e4-43cee70990b5","esoCollectibleId":10742,"collectibleName":"Evergreen Greatsword"}
+{"id":"01a0616e-9b4d-7239-a751-8ce0e692cf2e","esoCollectibleId":10741,"collectibleName":"Evergreen Maul"}
+{"id":"01a0616e-9b4d-7bb4-90f9-e4793eee2fd1","esoCollectibleId":12592,"collectibleName":"Evergreen Saturalia Battle Axe"}
+{"id":"01a0616e-9b4d-7c19-aa5c-eedb71ca869f","esoCollectibleId":12598,"collectibleName":"Evergreen Saturalia Greatsword"}
+{"id":"01a0616e-9b4d-7d99-b0ec-b6c41cabaad4","esoCollectibleId":12597,"collectibleName":"Evergreen Saturalia Maul"}
+{"id":"01a0616e-9b4d-7b7d-8e78-55f7c46434c6","esoCollectibleId":12900,"collectibleName":"Exile's Revenge Battle Axe"}
+{"id":"01a0616e-9b4d-7176-8940-029f9e5adb3b","esoCollectibleId":12902,"collectibleName":"Exile's Revenge Greatsword"}
+{"id":"01a0616e-9b4d-7d7c-acac-4072a9ab2711","esoCollectibleId":12901,"collectibleName":"Exile's Revenge Maul"}
+{"id":"01a0616e-9b4d-7a6f-ae71-94ab76cc47c8","esoCollectibleId":13713,"collectibleName":"Faithful Housecarl Battle Axe"}
+{"id":"01a0616e-9b4d-7cf2-b6f3-0c1258876cc1","esoCollectibleId":13719,"collectibleName":"Faithful Housecarl Greatsword"}
+{"id":"01a0616e-9b4d-7f56-abc8-1021cdb41a10","esoCollectibleId":13718,"collectibleName":"Faithful Housecarl Maul"}
+{"id":"01a0616e-9b4d-7d52-8687-e901497e8120","esoCollectibleId":5345,"collectibleName":"Fang Lair Battle Axe"}
+{"id":"01a0616e-9b4d-7ff1-b749-704cfbd8fa27","esoCollectibleId":5347,"collectibleName":"Fang Lair Greatsword"}
+{"id":"01a0616e-9b4d-7f88-93df-8dcbd812cf80","esoCollectibleId":5346,"collectibleName":"Fang Lair Maul"}
+{"id":"01a0616e-9b4d-7e89-a02f-13cdc104cf78","esoCollectibleId":5378,"collectibleName":"Fanged Worm Battle Axe"}
+{"id":"01a0616e-9b4d-7e95-b773-d2cf4a32aeca","esoCollectibleId":5380,"collectibleName":"Fanged Worm Greatsword"}
+{"id":"01a0616e-9b4d-76e3-9a01-f75f2bd8aa5a","esoCollectibleId":5379,"collectibleName":"Fanged Worm Maul"}
+{"id":"01a0616e-9b4d-742f-a0f4-be0026b9b645","esoCollectibleId":9708,"collectibleName":"Fargrave Guardian Battle Axe"}
+{"id":"01a0616e-9b4d-7028-9c8c-440f0c003006","esoCollectibleId":9710,"collectibleName":"Fargrave Guardian Greatsword"}
+{"id":"01a0616e-9b4d-75bf-86d1-728fc32a03ed","esoCollectibleId":9709,"collectibleName":"Fargrave Guardian Maul"}
+{"id":"01a0616e-9b4d-716d-bfd8-c0ad5b464f76","esoCollectibleId":13679,"collectibleName":"Fharun Moonlight Battle Axe"}
+{"id":"01a0616e-9b4d-7547-b773-7ff8e6af1361","esoCollectibleId":6219,"collectibleName":"Fire Drake Battle Axe"}
+{"id":"01a0616e-9b4d-7fce-9bf4-67722a3477a2","esoCollectibleId":6221,"collectibleName":"Fire Drake Greatsword"}
+{"id":"01a0616e-9b4d-7525-8473-e363eab5aeb4","esoCollectibleId":6220,"collectibleName":"Fire Drake Maul"}
+{"id":"01a0616e-9b4d-728b-9408-df0612a493bd","esoCollectibleId":8960,"collectibleName":"Fire-Forged Maul"}
+{"id":"01a0616e-9b4d-7337-a4bc-e84681022923","esoCollectibleId":14664,"collectibleName":"Fire's Torment Battle Axe"}
+{"id":"01a0616e-9b4d-7f17-ad09-e2e45944902e","esoCollectibleId":14670,"collectibleName":"Fire's Torment Greatsword"}
+{"id":"01a0616e-9b4d-74f9-a2ed-55d07c94d422","esoCollectibleId":14669,"collectibleName":"Fire's Torment Maul"}
+{"id":"01a0616e-9b4d-75a6-ad4d-3bc10322835f","esoCollectibleId":10795,"collectibleName":"Firesong Battle Axe"}
+{"id":"01a0616e-9b4d-75a1-b2b5-c768a9e5ebf7","esoCollectibleId":10797,"collectibleName":"Firesong Greatsword"}
+{"id":"01a0616e-9b4d-7d79-8bb6-1cfc8e9cec5c","esoCollectibleId":10796,"collectibleName":"Firesong Maul"}
+{"id":"01a0616e-9b4d-7cfb-ae97-7a9623753a99","esoCollectibleId":4332,"collectibleName":"Frostcaster Battle Axe"}
+{"id":"01a0616e-9b4d-7951-8655-b9337939770a","esoCollectibleId":4334,"collectibleName":"Frostcaster Greatsword"}
+{"id":"01a0616e-9b4d-7ae0-8a29-27e2502e6925","esoCollectibleId":4333,"collectibleName":"Frostcaster Maul"}
+{"id":"01a0616e-9b4d-7486-bf79-ec43357e6b79","esoCollectibleId":10669,"collectibleName":"Galenstone Maul"}
+{"id":"01a0616e-9b4d-76c5-b3ad-e36d1d17b756","esoCollectibleId":11786,"collectibleName":"Gardener of Seasons Battle Axe"}
+{"id":"01a0616e-9b4d-7379-b82c-2ece128f4be8","esoCollectibleId":11792,"collectibleName":"Gardener of Seasons Greatsword"}
+{"id":"01a0616e-9b4d-713b-919e-9a9b703df82e","esoCollectibleId":11791,"collectibleName":"Gardener of Seasons Maul"}
+{"id":"01a0616e-9b4d-74f6-8096-ed67579edb71","esoCollectibleId":3450,"collectibleName":"Glass Battle Axe"}
+{"id":"01a0616e-9b4d-7fdf-855b-9db4dc665c27","esoCollectibleId":3452,"collectibleName":"Glass Greatsword"}
+{"id":"01a0616e-9b4d-719f-b077-4b76e1b9676c","esoCollectibleId":3451,"collectibleName":"Glass Maul"}
+{"id":"01a0616e-9b4d-7eb2-8bc6-5d903eb07b67","esoCollectibleId":6753,"collectibleName":"Glenmoril Wyrd Battle Axe"}
+{"id":"01a0616e-9b4d-77a3-a517-05cbc5880b0d","esoCollectibleId":6755,"collectibleName":"Glenmoril Wyrd Greatsword"}
+{"id":"01a0616e-9b4d-7235-87a6-4d7c9ada0af5","esoCollectibleId":6754,"collectibleName":"Glenmoril Wyrd Maul"}
+{"id":"01a0616e-9b4d-7891-8678-2b7598893f08","esoCollectibleId":9987,"collectibleName":"Gloambound Battle Axe"}
+{"id":"01a0616e-9b4d-7f00-8ebf-21f9854f2157","esoCollectibleId":9993,"collectibleName":"Gloambound Greatsword"}
+{"id":"01a0616e-9b4d-76f0-a7d7-de7717352179","esoCollectibleId":9992,"collectibleName":"Gloambound Maul"}
+{"id":"01a0616e-9b4d-7c41-8e1b-193db071daf2","esoCollectibleId":7368,"collectibleName":"Gloomspore Maul"}
+{"id":"01a0616e-9b4d-7497-ad1b-ba0691234322","esoCollectibleId":12195,"collectibleName":"Gold Road Dragoon Battle Axe"}
+{"id":"01a0616e-9b4d-7de8-9b7e-a85675940860","esoCollectibleId":12201,"collectibleName":"Gold Road Dragoon Greatsword"}
+{"id":"01a0616e-9b4d-743a-89da-4fe7f8a485db","esoCollectibleId":12200,"collectibleName":"Gold Road Dragoon Maul"}
+{"id":"01a0616e-9b4d-7145-a39a-5fa83c827710","esoCollectibleId":13769,"collectibleName":"Golden Khajiit Battle Axe"}
+{"id":"01a0616e-9b4d-782a-8e39-1c8c69f553b6","esoCollectibleId":13775,"collectibleName":"Golden Khajiit Greatsword"}
+{"id":"01a0616e-9b4d-79a9-8a59-c52737b05f15","esoCollectibleId":13774,"collectibleName":"Golden Khajiit Maul"}
+{"id":"01a0616e-9b4d-79f6-9b7d-f7a0c9dba42f","esoCollectibleId":8324,"collectibleName":"Grave Dancer Battle Axe"}
+{"id":"01a0616e-9b4d-77dd-a8d3-6fd84f3ce769","esoCollectibleId":8330,"collectibleName":"Grave Dancer Greatsword"}
+{"id":"01a0616e-9b4d-7515-a198-7d5f14855e85","esoCollectibleId":8329,"collectibleName":"Grave Dancer Maul"}
+{"id":"01a0616e-9b4d-737b-9f2c-6674df544b00","esoCollectibleId":7852,"collectibleName":"Greymoor Battle Axe"}
+{"id":"01a0616e-9b4d-7732-b0ff-7aabf556596c","esoCollectibleId":7854,"collectibleName":"Greymoor Greatsword"}
+{"id":"01a0616e-9b4d-7b06-af7d-d255a5bfe7d7","esoCollectibleId":7826,"collectibleName":"Greymoor Lycanthrope Greatsword"}
+{"id":"01a0616e-9b4d-7bc8-a47e-10243ca7e7bd","esoCollectibleId":7853,"collectibleName":"Greymoor Maul"}
+{"id":"01a0616e-9b4d-7684-bd74-dcdfd45be7c5","esoCollectibleId":4267,"collectibleName":"Grim Harlequin Battle Axe"}
+{"id":"01a0616e-9b4d-7063-a440-e0d8cf6284bb","esoCollectibleId":4269,"collectibleName":"Grim Harlequin Greatsword"}
+{"id":"01a0616e-9b4d-7b93-ae8d-9a2fd1fe77f8","esoCollectibleId":4268,"collectibleName":"Grim Harlequin Maul"}
+{"id":"01a0616e-9b4d-7033-8e9d-ee84c69fc532","esoCollectibleId":5193,"collectibleName":"Grothdarr Maul"}
+{"id":"01a0616e-9b4d-7c5a-815d-0f213d509fc9","esoCollectibleId":9123,"collectibleName":"Grundwulf Greatsword"}
+{"id":"01a0616e-9b4d-703d-a890-ecfa51767c9f","esoCollectibleId":12063,"collectibleName":"Guild's Eye Battle Axe"}
+{"id":"01a0616e-9b4d-7a55-aaef-bf10a8f1eb1f","esoCollectibleId":12069,"collectibleName":"Guild's Eye Greatsword"}
+{"id":"01a0616e-9b4d-73a7-abbd-0aac497a52ea","esoCollectibleId":12068,"collectibleName":"Guild's Eye Maul"}
+{"id":"01a0616e-9b4d-7a95-a911-e10521968b33","esoCollectibleId":8284,"collectibleName":"Hazardous Alchemy Battle Axe"}
+{"id":"01a0616e-9b4d-7ff6-9ac0-63846affc9e9","esoCollectibleId":8286,"collectibleName":"Hazardous Alchemy Greatsword"}
+{"id":"01a0616e-9b4d-70b7-9073-f684f643ea5a","esoCollectibleId":8285,"collectibleName":"Hazardous Alchemy Maul"}
+{"id":"01a0616e-9b4d-769d-a11f-15681ea3a6bd","esoCollectibleId":2730,"collectibleName":"High Elf Battle Axe 1"}
+{"id":"01a0616e-9b4d-7248-862e-212529c8328a","esoCollectibleId":2729,"collectibleName":"High Elf Battle Axe 2"}
+{"id":"01a0616e-9b4d-7a81-9652-115a01e47eb8","esoCollectibleId":2728,"collectibleName":"High Elf Battle Axe 3"}
+{"id":"01a0616e-9b4d-738b-b4fa-f82a4e72d456","esoCollectibleId":2727,"collectibleName":"High Elf Battle Axe 4"}
+{"id":"01a0616e-9b4d-746f-bb3c-47d821d23422","esoCollectibleId":2739,"collectibleName":"High Elf Greatsword 1"}
+{"id":"01a0616e-9b4d-77b9-a44d-1ac320a09eb9","esoCollectibleId":2737,"collectibleName":"High Elf Greatsword 2"}
+{"id":"01a0616e-9b4d-7b41-8786-2d5221c196ac","esoCollectibleId":2738,"collectibleName":"High Elf Greatsword 3"}
+{"id":"01a0616e-9b4d-76f2-a51a-e92a06c67cd3","esoCollectibleId":2736,"collectibleName":"High Elf Greatsword 4"}
+{"id":"01a0616e-9b4d-733a-9828-fbbf36196fd9","esoCollectibleId":2733,"collectibleName":"High Elf Maul 1"}
+{"id":"01a0616e-9b4d-7db9-8f1a-321b4bed48b9","esoCollectibleId":2734,"collectibleName":"High Elf Maul 2"}
+{"id":"01a0616e-9b4d-7e0e-8f64-91cbee669920","esoCollectibleId":2771,"collectibleName":"High Elf Maul 3"}
+{"id":"01a0616e-9b4d-7fa0-8312-c96b4b7d7e94","esoCollectibleId":2732,"collectibleName":"High Elf Maul 4"}
+{"id":"01a0616e-9b4d-7f0a-af2c-aa81aa02c94f","esoCollectibleId":12296,"collectibleName":"Hircine Bloodhunter Battle Axe"}
+{"id":"01a0616e-9b4d-721d-9274-07d35129f7a4","esoCollectibleId":12298,"collectibleName":"Hircine Bloodhunter Greatsword"}
+{"id":"01a0616e-9b4d-7c83-b79b-4d637600e5c6","esoCollectibleId":12297,"collectibleName":"Hircine Bloodhunter Maul"}
+{"id":"01a0616e-9b4d-7a27-af1b-6f11e8a4b98d","esoCollectibleId":4382,"collectibleName":"Hlaalu Battle Axe"}
+{"id":"01a0616e-9b4d-76a9-949b-95bf57f9a8ab","esoCollectibleId":4384,"collectibleName":"Hlaalu Greatsword"}
+{"id":"01a0616e-9b4d-73e6-afe9-5663c04d83d0","esoCollectibleId":4383,"collectibleName":"Hlaalu Maul"}
+{"id":"01a0616e-9b4d-7440-bc4d-489a0354d007","esoCollectibleId":4236,"collectibleName":"Hollowjack Battle Axe"}
+{"id":"01a0616e-9b4d-73f2-b025-157498f70368","esoCollectibleId":4238,"collectibleName":"Hollowjack Greatsword"}
+{"id":"01a0616e-9b4d-7cc7-a8c0-82d148933c9b","esoCollectibleId":4237,"collectibleName":"Hollowjack Maul"}
+{"id":"01a0616e-9b4d-7ed1-8865-a2d9eca55571","esoCollectibleId":6107,"collectibleName":"Honor Guard Battle Axe"}
+{"id":"01a0616e-9b4d-7e50-a330-61a97050ee8b","esoCollectibleId":6109,"collectibleName":"Honor Guard Greatsword"}
+{"id":"01a0616e-9b4d-75cd-9c88-d3c65d5197ab","esoCollectibleId":6108,"collectibleName":"Honor Guard Maul"}
+{"id":"01a0616e-9b4d-7abf-9105-11dc500d006b","esoCollectibleId":5420,"collectibleName":"Horned Dragon Battle Axe"}
+{"id":"01a0616e-9b4d-7f97-9fd1-2356f480ce03","esoCollectibleId":5422,"collectibleName":"Horned Dragon Greatsword"}
+{"id":"01a0616e-9b4d-7340-a1d9-f2e9b23d7294","esoCollectibleId":5421,"collectibleName":"Horned Dragon Maul"}
+{"id":"01a0616e-9b4d-7993-a2f2-d9ca9721d608","esoCollectibleId":8720,"collectibleName":"House Hexos Battle Axe"}
+{"id":"01a0616e-9b4d-7945-947c-26046a446135","esoCollectibleId":8722,"collectibleName":"House Hexos Greatsword"}
+{"id":"01a0616e-9b4d-744f-aa08-7a82056f757b","esoCollectibleId":8721,"collectibleName":"House Hexos Maul"}
+{"id":"01a0616e-9b4d-798d-9a1f-ad45ed7904d7","esoCollectibleId":10827,"collectibleName":"House Mornard Battle Axe"}
+{"id":"01a0616e-9b4d-724c-9925-5e50eebaf9a1","esoCollectibleId":10829,"collectibleName":"House Mornard Greatsword"}
+{"id":"01a0616e-9b4d-7052-bf98-d535b32b64d0","esoCollectibleId":10828,"collectibleName":"House Mornard Maul"}
+{"id":"01a0616e-9b4d-75c6-a380-b89ed13de9c1","esoCollectibleId":8856,"collectibleName":"Hungering Void Battle Axe"}
+{"id":"01a0616e-9b4d-7ab5-a890-7af62af1fe8e","esoCollectibleId":8858,"collectibleName":"Hungering Void Greatsword"}
+{"id":"01a0616e-9b4d-75f6-a9dc-ba6a098ce3eb","esoCollectibleId":8857,"collectibleName":"Hungering Void Maul"}
+{"id":"01a0616e-9b4d-7eae-9cc9-f66ab656d30a","esoCollectibleId":5788,"collectibleName":"Huntsman Battle Axe"}
+{"id":"01a0616e-9b4d-736a-954c-a4d220e12334","esoCollectibleId":5790,"collectibleName":"Huntsman Greatsword"}
+{"id":"01a0616e-9b4d-757f-9ccf-7948db9af958","esoCollectibleId":5789,"collectibleName":"Huntsman Maul"}
+{"id":"01a0616e-9b4d-7204-84bd-b4d60df47ce5","esoCollectibleId":5207,"collectibleName":"Iceheart Greatsword"}
+{"id":"01a0616e-9b4d-7063-a6f6-63d380ac9bd0","esoCollectibleId":7491,"collectibleName":"Icereach Coven Battle Axe"}
+{"id":"01a0616e-9b4d-744d-9627-b6b01020c8da","esoCollectibleId":7493,"collectibleName":"Icereach Coven Greatsword"}
+{"id":"01a0616e-9b4d-7a46-8d70-10c2baa06c58","esoCollectibleId":7492,"collectibleName":"Icereach Coven Maul"}
+{"id":"01a0616e-9b4d-7aac-bdff-954721d15dab","esoCollectibleId":11858,"collectibleName":"Iceshard Battle Axe"}
+{"id":"01a0616e-9b4d-7140-8f54-c1d9cdb92151","esoCollectibleId":5162,"collectibleName":"Ilambris Battle Axe"}
+{"id":"01a0616e-9b4d-7b2b-b0ec-899e872a17af","esoCollectibleId":2420,"collectibleName":"Imperial Battle Axe 1"}
+{"id":"01a0616e-9b4d-7b12-a722-130e7db51ffa","esoCollectibleId":2421,"collectibleName":"Imperial Battle Axe 2"}
+{"id":"01a0616e-9b4d-758a-b108-77345f6f4fac","esoCollectibleId":2422,"collectibleName":"Imperial Battle Axe 3"}
+{"id":"01a0616e-9b4d-7dda-b59f-200d0c0f5ff1","esoCollectibleId":3138,"collectibleName":"Imperial Battle Axe 4"}
+{"id":"01a0616e-9b4d-776e-9570-8d170fef2c73","esoCollectibleId":9028,"collectibleName":"Imperial Champion Battle Axe"}
+{"id":"01a0616e-9b4d-7920-918b-32cb6cb1c249","esoCollectibleId":9034,"collectibleName":"Imperial Champion Greatsword"}
+{"id":"01a0616e-9b4d-7603-b8ed-b40b473d4afe","esoCollectibleId":9033,"collectibleName":"Imperial Champion Maul"}
+{"id":"01a0616e-9b4d-79c5-b34b-d80982a61f41","esoCollectibleId":2427,"collectibleName":"Imperial Greatsword 1"}
+{"id":"01a0616e-9b4d-7a88-9c51-bf3fb5f04478","esoCollectibleId":2426,"collectibleName":"Imperial Greatsword 2"}
+{"id":"01a0616e-9b4d-7f0f-8e9c-21022a99bc29","esoCollectibleId":2428,"collectibleName":"Imperial Greatsword 3"}
+{"id":"01a0616e-9b4d-707b-9734-2033c41dd9ac","esoCollectibleId":3142,"collectibleName":"Imperial Greatsword 4"}
+{"id":"01a0616e-9b4d-7104-972e-21b5032a98ae","esoCollectibleId":2423,"collectibleName":"Imperial Maul 1"}
+{"id":"01a0616e-9b4d-7b29-8928-fdb7c24cad53","esoCollectibleId":2424,"collectibleName":"Imperial Maul 2"}
+{"id":"01a0616e-9b4d-7930-b2b3-8455482a4241","esoCollectibleId":2425,"collectibleName":"Imperial Maul 3"}
+{"id":"01a0616e-9b4d-79d0-806f-f1524226f934","esoCollectibleId":3140,"collectibleName":"Imperial Maul 4"}
+{"id":"01a0616e-9b4d-7b4c-8bd2-a240f0197fcb","esoCollectibleId":6943,"collectibleName":"Infernal Guardian Maul"}
+{"id":"01a0616e-9b4d-7b66-96c0-1ec1bf5edaa5","esoCollectibleId":9337,"collectibleName":"Iron Atronach Battle Axe"}
+{"id":"01a0616e-9b4d-7f3e-a255-f17c623361fd","esoCollectibleId":9187,"collectibleName":"Ivory Brigade Battle Axe"}
+{"id":"01a0616e-9b4d-7f2e-befc-5d0ac9aed436","esoCollectibleId":9189,"collectibleName":"Ivory Brigade Greatsword"}
+{"id":"01a0616e-9b4d-7380-a990-1a99ea06f125","esoCollectibleId":9188,"collectibleName":"Ivory Brigade Maul"}
+{"id":"01a0616e-9b4d-7c47-af91-902dc95fd66b","esoCollectibleId":14222,"collectibleName":"Jephre's Ensemble Battle Axe"}
+{"id":"01a0616e-9b4d-77af-9a07-c948154f6253","esoCollectibleId":7375,"collectibleName":"Jephrine Paladin Greatsword"}
+{"id":"01a0616e-9b4d-79ea-9aa0-4b22e4dd0403","esoCollectibleId":12033,"collectibleName":"Jester's Feast Battle Axe"}
+{"id":"01a0616e-9b4d-7bc0-bed5-fc2b60247ae5","esoCollectibleId":12039,"collectibleName":"Jester's Feast Greatsword"}
+{"id":"01a0616e-9b4d-7791-8291-606266268617","esoCollectibleId":12038,"collectibleName":"Jester's Feast Maul"}
+{"id":"01a0616e-9b4d-773a-b77b-1d109e888d65","esoCollectibleId":14266,"collectibleName":"Justiciar of Stendarr Battle Axe"}
+{"id":"01a0616e-9b4d-72d7-a7ca-08f9959c47be","esoCollectibleId":14272,"collectibleName":"Justiciar of Stendarr Greatsword"}
+{"id":"01a0616e-9b4d-77f8-bc8b-f3b214ab5a48","esoCollectibleId":14271,"collectibleName":"Justiciar of Stendarr Maul"}
+{"id":"01a0616e-9b4d-7f09-b908-3fb5c508e5e0","esoCollectibleId":10030,"collectibleName":"Kargaeda Greatsword"}
+{"id":"01a0616e-9b4d-7868-aebf-5f2b7fadd9ea","esoCollectibleId":2475,"collectibleName":"Khajiit Battle Axe 1"}
+{"id":"01a0616e-9b4d-7654-ab2b-e6ec2ec6c1ec","esoCollectibleId":2478,"collectibleName":"Khajiit Battle Axe 2"}
+{"id":"01a0616e-9b4d-78e6-826c-a3bb3c7c7be0","esoCollectibleId":2477,"collectibleName":"Khajiit Battle Axe 3"}
+{"id":"01a0616e-9b4d-74bb-bb11-042fd419db83","esoCollectibleId":2474,"collectibleName":"Khajiit Battle Axe 4"}
+{"id":"01a0616e-9b4d-7388-81fb-a06544d1bbea","esoCollectibleId":2485,"collectibleName":"Khajiit Greatsword 1"}
+{"id":"01a0616e-9b4d-795f-b7aa-3afa4dcb46df","esoCollectibleId":2488,"collectibleName":"Khajiit Greatsword 2"}
+{"id":"01a0616e-9b4d-7b96-b6b9-c9fb05fef205","esoCollectibleId":2487,"collectibleName":"Khajiit Greatsword 3"}
+{"id":"01a0616e-9b4d-7394-8238-bc58e3dd4c8a","esoCollectibleId":2484,"collectibleName":"Khajiit Greatsword 4"}
+{"id":"01a0616e-9b4d-717d-816d-d794b2cc10c6","esoCollectibleId":2480,"collectibleName":"Khajiit Maul 1"}
+{"id":"01a0616e-9b4d-7b48-a4ec-39e49b28e2a0","esoCollectibleId":2483,"collectibleName":"Khajiit Maul 2"}
+{"id":"01a0616e-9b4d-79a2-9b17-520bb330629a","esoCollectibleId":2482,"collectibleName":"Khajiit Maul 3"}
+{"id":"01a0616e-9b4d-7985-ac07-4e0270e26b88","esoCollectibleId":2479,"collectibleName":"Khajiit Maul 4"}
+{"id":"01a0616e-9b4d-7ec9-89e8-c1f445c0c368","esoCollectibleId":11350,"collectibleName":"Kindred's Concord Battle Axe"}
+{"id":"01a0616e-9b4d-7bba-b2c7-3bee82b7ee9b","esoCollectibleId":11352,"collectibleName":"Kindred's Concord Greatsword"}
+{"id":"01a0616e-9b4d-7c91-bf8a-e5b6aca6f88c","esoCollectibleId":11351,"collectibleName":"Kindred's Concord Maul"}
+{"id":"01a0616e-9b4d-73e9-8ebe-0e1303d0fd6d","esoCollectibleId":9258,"collectibleName":"Kjalnar's Nightmare Maul"}
+{"id":"01a0616e-9b4d-70ca-8848-ec4b9556c368","esoCollectibleId":7380,"collectibleName":"Knight of the Circle Maul"}
+{"id":"01a0616e-9b4d-7c6b-bdef-c93a993377d5","esoCollectibleId":14249,"collectibleName":"Koldane Cartel Battle Axe"}
+{"id":"01a0616e-9b4d-7bbe-9f07-a50e26e672b3","esoCollectibleId":14251,"collectibleName":"Koldane Cartel Greatsword"}
+{"id":"01a0616e-9b4d-7d55-858b-a6753fcb8efe","esoCollectibleId":14250,"collectibleName":"Koldane Cartel Maul"}
+{"id":"01a0616e-9b4d-7660-811d-4abe47eb9ac7","esoCollectibleId":6951,"collectibleName":"Kra'gh Maul"}
+{"id":"01a0616e-9b4d-7bfa-a85b-3b9a8e380bd0","esoCollectibleId":10017,"collectibleName":"Lady Thorn Battle Axe"}
+{"id":"01a0616e-9b4d-71e1-81bd-52e9746af9ee","esoCollectibleId":12602,"collectibleName":"Legacy of the Draoife Battle Axe"}
+{"id":"01a0616e-9b4d-7980-a7a2-2c2e82a01f6d","esoCollectibleId":12608,"collectibleName":"Legacy of the Draoife Greatsword"}
+{"id":"01a0616e-9b4d-7f19-8117-f89c41433588","esoCollectibleId":12607,"collectibleName":"Legacy of the Draoife Maul"}
+{"id":"01a0616e-9b4d-774e-bb4c-5cd42c18c90f","esoCollectibleId":6987,"collectibleName":"Legendary Dragon Greatsword"}
+{"id":"01a0616e-9b4d-7dfc-9216-22b2b95c5dbe","esoCollectibleId":6390,"collectibleName":"Lord Warden Greatsword"}
+{"id":"01a0616e-9b4d-794b-a73e-fff2048eac3e","esoCollectibleId":12159,"collectibleName":"Lucent Sentinel Battle Axe"}
+{"id":"01a0616e-9b4d-7e35-bb52-70cdfff0d47e","esoCollectibleId":12161,"collectibleName":"Lucent Sentinel Greatsword"}
+{"id":"01a0616e-9b4d-715a-baef-f69c4ba92657","esoCollectibleId":12160,"collectibleName":"Lucent Sentinel Maul"}
+{"id":"01a0616e-9b4d-77cf-b6a6-f32c57a6f5a4","esoCollectibleId":6148,"collectibleName":"Lyris Titanborn's Battle Axe"}
+{"id":"01a0616e-9b4d-7240-9b8a-1642c72e5411","esoCollectibleId":7571,"collectibleName":"Lyris's Icereach Battle Axe"}
+{"id":"01a0616e-9b4d-739b-a24a-c59a9b76b8e2","esoCollectibleId":9268,"collectibleName":"Maarselok Maul"}
+{"id":"01a0616e-9b4d-7fc7-a633-9c4eb839082d","esoCollectibleId":3730,"collectibleName":"Malacath Battle Axe"}
+{"id":"01a0616e-9b4d-7b53-92c2-3378ac07fb96","esoCollectibleId":3732,"collectibleName":"Malacath Greatsword"}
+{"id":"01a0616e-9b4d-7893-bbe0-1d88a19dd42a","esoCollectibleId":3731,"collectibleName":"Malacath Maul"}
+{"id":"01a0616e-9b4d-745b-9139-a10f985a6740","esoCollectibleId":9467,"collectibleName":"Maniacal Jester Maul"}
+{"id":"01a0616e-9b4d-703f-aba6-1903d29763c4","esoCollectibleId":8142,"collectibleName":"Maw of the Infernal Maul"}
+{"id":"01a0616e-9b4d-71fb-93e7-26a08d959863","esoCollectibleId":4031,"collectibleName":"Mazzatun Battle Axe"}
+{"id":"01a0616e-9b4d-753d-b147-3ae405ee42fd","esoCollectibleId":4033,"collectibleName":"Mazzatun Greatsword"}
+{"id":"01a0616e-9b4d-7097-bdaf-2761285129cf","esoCollectibleId":4032,"collectibleName":"Mazzatun Maul"}
+{"id":"01a0616e-9b4d-7227-9e4f-a5e060baa382","esoCollectibleId":3546,"collectibleName":"Mercenary Battle Axe"}
+{"id":"01a0616e-9b4d-79c0-ac50-6617ade7231a","esoCollectibleId":3548,"collectibleName":"Mercenary Greatsword"}
+{"id":"01a0616e-9b4d-72b3-98ed-0f8519c11e98","esoCollectibleId":3547,"collectibleName":"Mercenary Maul"}
+{"id":"01a0616e-9b4d-74e1-91ea-e6e71e069d7c","esoCollectibleId":6321,"collectibleName":"Meridian Battle Axe"}
+{"id":"01a0616e-9b4d-7481-a128-f7a520c90d29","esoCollectibleId":6323,"collectibleName":"Meridian Greatsword"}
+{"id":"01a0616e-9b4d-77ff-8ab8-860b371a67a4","esoCollectibleId":6322,"collectibleName":"Meridian Maul"}
+{"id":"01a0616e-9b4d-751c-a6af-f5ed8e4ad39c","esoCollectibleId":14145,"collectibleName":"Mesa Stalker Battle Axe"}
+{"id":"01a0616e-9b4d-786a-ae63-2140473a2722","esoCollectibleId":14147,"collectibleName":"Mesa Stalker Greatsword"}
+{"id":"01a0616e-9b4d-74ed-b704-49ea9749a6a3","esoCollectibleId":14146,"collectibleName":"Mesa Stalker Maul"}
+{"id":"01a0616e-9b4d-7475-a35d-ba098c228024","esoCollectibleId":6500,"collectibleName":"Mighty Chudan Maul"}
+{"id":"01a0616e-9b4d-7d1d-b07a-15e799000170","esoCollectibleId":12932,"collectibleName":"Militant Monk Battle Axe"}
+{"id":"01a0616e-9b4d-75d3-bff2-40d702d01f74","esoCollectibleId":12934,"collectibleName":"Militant Monk Greatsword"}
+{"id":"01a0616e-9b4d-74fd-b70d-4243cf9f5bba","esoCollectibleId":12933,"collectibleName":"Militant Monk Maul"}
+{"id":"01a0616e-9b4d-762d-8c64-1523040c8626","esoCollectibleId":4534,"collectibleName":"Militant Ordinator Battle Axe"}
+{"id":"01a0616e-9b4d-7d8a-99b1-8f7031588f5e","esoCollectibleId":4536,"collectibleName":"Militant Ordinator Greatsword"}
+{"id":"01a0616e-9b4d-7faf-91c5-8b5b506c9953","esoCollectibleId":4535,"collectibleName":"Militant Ordinator Maul"}
+{"id":"01a0616e-9b4d-7802-bab7-29a019954c00","esoCollectibleId":3992,"collectibleName":"Minotaur Battle Axe"}
+{"id":"01a0616e-9b4d-7f43-8435-2b6be3b4d248","esoCollectibleId":3994,"collectibleName":"Minotaur Greatsword"}
+{"id":"01a0616e-9b4d-7ca3-8ae3-1bd3dc2568cc","esoCollectibleId":3993,"collectibleName":"Minotaur Maul"}
+{"id":"01a0616e-9b4d-7b0f-b8a3-e00edef4ad66","esoCollectibleId":5123,"collectibleName":"Molag Kena Maul"}
+{"id":"01a0616e-9b4d-72d3-b12f-47abe4666d31","esoCollectibleId":11836,"collectibleName":"Molten Demise Maul"}
+{"id":"01a0616e-9b4d-7268-b742-f6b99d1654d5","esoCollectibleId":11766,"collectibleName":"Monolith of Storms Battle Axe"}
+{"id":"01a0616e-9b4d-73ce-8e58-1d18c2e57db5","esoCollectibleId":11772,"collectibleName":"Monolith of Storms Greatsword"}
+{"id":"01a0616e-9b4d-7047-8b26-487cf493276f","esoCollectibleId":11771,"collectibleName":"Monolith of Storms Maul"}
+{"id":"01a0616e-9b4d-77d7-8a73-6b84e458d349","esoCollectibleId":7166,"collectibleName":"Moongrave Fane Battle Axe"}
+{"id":"01a0616e-9b4d-7c5e-a613-ed3862ca86be","esoCollectibleId":7168,"collectibleName":"Moongrave Fane Greatsword"}
+{"id":"01a0616e-9b4d-7c93-a0f7-83ca411ef7be","esoCollectibleId":7167,"collectibleName":"Moongrave Fane Maul"}
+{"id":"01a0616e-9b4d-709e-a14c-1b0e1cd4f62d","esoCollectibleId":3872,"collectibleName":"Morag Tong Battle Axe"}
+{"id":"01a0616e-9b4d-77ae-a67b-37c45f7aa243","esoCollectibleId":3874,"collectibleName":"Morag Tong Greatsword"}
+{"id":"01a0616e-9b4d-723a-a43c-74f16ec4e946","esoCollectibleId":3873,"collectibleName":"Morag Tong Maul"}
+{"id":"01a0616e-9b4d-7ecd-99cc-fb5722798e43","esoCollectibleId":9263,"collectibleName":"Mother Ciannait Greatsword"}
+{"id":"01a0616e-9b4d-76c4-b873-7c6c4c95010b","esoCollectibleId":13938,"collectibleName":"Namira's Hunger Greatsword"}
+{"id":"01a0616e-9b4d-7da4-82f5-2fb61fccb50a","esoCollectibleId":10037,"collectibleName":"Nazaray Battle Axe"}
+{"id":"01a0616e-9b4d-7964-be05-3872c4e1231b","esoCollectibleId":11545,"collectibleName":"Necrom Armiger Battle Axe"}
+{"id":"01a0616e-9b4d-7b25-a59b-b6f4942b9bf2","esoCollectibleId":7779,"collectibleName":"Nerien'eth Greatsword"}
+{"id":"01a0616e-9b4d-7db9-af44-a45a5590afd3","esoCollectibleId":6837,"collectibleName":"New Moon Maul"}
+{"id":"01a0616e-9b4d-768d-8f3c-290ababdf802","esoCollectibleId":7198,"collectibleName":"New Moon Priest Battle Axe"}
+{"id":"01a0616e-9b4d-7eb4-b7cb-be2ca74eeb7b","esoCollectibleId":7200,"collectibleName":"New Moon Priest Greatsword"}
+{"id":"01a0616e-9b4d-7b9b-b5c5-8a56dcaff67b","esoCollectibleId":7199,"collectibleName":"New Moon Priest Maul"}
+{"id":"01a0616e-9b4d-7802-8a39-366d9bc978c1","esoCollectibleId":6253,"collectibleName":"Nightflame Greatsword"}
+{"id":"01a0616e-9b4d-7018-a1a1-f46966af1fb1","esoCollectibleId":8574,"collectibleName":"Nighthollow Battle Axe"}
+{"id":"01a0616e-9b4d-794b-b4d3-25477a27c0fa","esoCollectibleId":8576,"collectibleName":"Nighthollow Greatsword"}
+{"id":"01a0616e-9b4d-773e-a3e5-0ed7363b6d37","esoCollectibleId":8575,"collectibleName":"Nighthollow Maul"}
+{"id":"01a0616e-9b4d-797d-8027-a9fbe00f1b35","esoCollectibleId":11746,"collectibleName":"Nobility in Decay Battle Axe"}
+{"id":"01a0616e-9b4d-7a0e-a717-6ae5c4d8ec95","esoCollectibleId":11752,"collectibleName":"Nobility in Decay Greatsword"}
+{"id":"01a0616e-9b4d-7f22-bc17-3ebeb1acb029","esoCollectibleId":11751,"collectibleName":"Nobility in Decay Maul"}
+{"id":"01a0616e-9b4d-7027-b148-5b2393169a22","esoCollectibleId":12781,"collectibleName":"Nokvroz's Greatsword Replica"}
+{"id":"01a0616e-9b4d-7f8e-b27b-f4f1da1005a5","esoCollectibleId":2264,"collectibleName":"Nord Battle Axe 1"}
+{"id":"01a0616e-9b4d-760e-91e6-c40e925b1bff","esoCollectibleId":2265,"collectibleName":"Nord Battle Axe 2"}
+{"id":"01a0616e-9b4d-7e61-b307-2ea48193fdf6","esoCollectibleId":2266,"collectibleName":"Nord Battle Axe 3"}
+{"id":"01a0616e-9b4d-7e1f-9203-3e975edf9fee","esoCollectibleId":2267,"collectibleName":"Nord Battle Axe 4"}
+{"id":"01a0616e-9b4d-7a46-92a8-e767da744df8","esoCollectibleId":9653,"collectibleName":"Nord Carved Battle Axe"}
+{"id":"01a0616e-9b4d-798a-9153-c3f14261c5c8","esoCollectibleId":9659,"collectibleName":"Nord Carved Greatsword"}
+{"id":"01a0616e-9b4d-74a1-9375-06363c56574c","esoCollectibleId":9658,"collectibleName":"Nord Carved Maul"}
+{"id":"01a0616e-9b4e-7198-a99d-22be784995fe","esoCollectibleId":2245,"collectibleName":"Nord Greatsword 1"}
+{"id":"01a0616e-9b4e-7f94-bec6-e26cab87f808","esoCollectibleId":2247,"collectibleName":"Nord Greatsword 2"}
+{"id":"01a0616e-9b4e-72ce-bdff-9520ad529c1a","esoCollectibleId":2246,"collectibleName":"Nord Greatsword 3"}
+{"id":"01a0616e-9b4e-7f68-ba5c-bae62a22e8e7","esoCollectibleId":2244,"collectibleName":"Nord Greatsword 4"}
+{"id":"01a0616e-9b4e-7af7-95c3-b057a7cbc9ce","esoCollectibleId":2261,"collectibleName":"Nord Maul 1"}
+{"id":"01a0616e-9b4e-7b64-aaed-e9bcc69ad78f","esoCollectibleId":2260,"collectibleName":"Nord Maul 2"}
+{"id":"01a0616e-9b4e-7d13-9395-d278afddac5c","esoCollectibleId":2262,"collectibleName":"Nord Maul 3"}
+{"id":"01a0616e-9b4e-7344-aa56-b0d378800949","esoCollectibleId":2259,"collectibleName":"Nord Maul 4"}
+{"id":"01a0616e-9b4e-7fda-b121-4728edc123c0","esoCollectibleId":10521,"collectibleName":"Oaken Order Battle Axe"}
+{"id":"01a0616e-9b4e-7765-85e2-91e61a234795","esoCollectibleId":10527,"collectibleName":"Oaken Order Greatsword"}
+{"id":"01a0616e-9b4e-7fdd-b3e0-c816f089647c","esoCollectibleId":10526,"collectibleName":"Oaken Order Maul"}
+{"id":"01a0616e-9b4e-7e3a-a394-3f03c23d0270","esoCollectibleId":9297,"collectibleName":"Old Orsinium Battle Axe"}
+{"id":"01a0616e-9b4e-710d-a2c7-ba8fb58f1c33","esoCollectibleId":9303,"collectibleName":"Old Orsinium Greatsword"}
+{"id":"01a0616e-9b4e-7511-ba68-da4f3b619a47","esoCollectibleId":9302,"collectibleName":"Old Orsinium Maul"}
+{"id":"01a0616e-9b4e-7422-93d3-e3c682f77fbf","esoCollectibleId":6824,"collectibleName":"Opal Bloodspawn Battle Axe"}
+{"id":"01a0616e-9b4e-784d-b9b1-e4489653fec8","esoCollectibleId":9807,"collectibleName":"Opal Chokethorn Greatsword"}
+{"id":"01a0616e-9b4e-733b-bd31-c0019d27f592","esoCollectibleId":10420,"collectibleName":"Opal Earthgore Maul"}
+{"id":"01a0616e-9b4e-7111-b626-a127b6e938cc","esoCollectibleId":6821,"collectibleName":"Opal Engine Guardian Greatsword"}
+{"id":"01a0616e-9b4e-7841-94d6-c5142401f1ad","esoCollectibleId":7751,"collectibleName":"Opal Iceheart Greatsword"}
+{"id":"01a0616e-9b4e-7abf-ac44-f4040413dcc0","esoCollectibleId":6814,"collectibleName":"Opal Ilambris Battle Axe"}
+{"id":"01a0616e-9b4e-7fcd-bd59-4e1ad981212a","esoCollectibleId":7758,"collectibleName":"Opal Lord Warden Greatsword"}
+{"id":"01a0616e-9b4e-7d01-80b3-191faac0e62b","esoCollectibleId":7765,"collectibleName":"Opal Nightflame Greatsword"}
+{"id":"01a0616e-9b4e-7ba8-ab71-7efb43f0f4c6","esoCollectibleId":10746,"collectibleName":"Opal Rkugamz Sentinel Battle Axe"}
+{"id":"01a0616e-9b4e-7bfe-98fb-7868acf20fc7","esoCollectibleId":9822,"collectibleName":"Opal Scourge Harvester Maul"}
+{"id":"01a0616e-9b4e-7005-8078-d4daf821db02","esoCollectibleId":7803,"collectibleName":"Opal Swarm Mother Greatsword"}
+{"id":"01a0616e-9b4e-711c-b49e-45caa00a1b93","esoCollectibleId":6831,"collectibleName":"Opal Troll King Battle Axe"}
+{"id":"01a0616e-9b4e-7687-ade6-278eab0cbd35","esoCollectibleId":10556,"collectibleName":"Opal Velidreth Maul"}
+{"id":"01a0616e-9b4e-72eb-8953-2c66efc82330","esoCollectibleId":1853,"collectibleName":"Orc Battle Axe 1"}
+{"id":"01a0616e-9b4e-7bf4-8f04-4a4957ac8085","esoCollectibleId":1852,"collectibleName":"Orc Battle Axe 2"}
+{"id":"01a0616e-9b4e-7d46-99da-b516c7ae5474","esoCollectibleId":1854,"collectibleName":"Orc Battle Axe 3"}
+{"id":"01a0616e-9b4e-779a-9730-cc32f9245fde","esoCollectibleId":1855,"collectibleName":"Orc Battle Axe 4"}
+{"id":"01a0616e-9b4e-7a1a-aae8-32a805ff5542","esoCollectibleId":1890,"collectibleName":"Orc Greatsword 1"}
+{"id":"01a0616e-9b4e-7059-9daf-fab6325143e5","esoCollectibleId":1889,"collectibleName":"Orc Greatsword 2"}
+{"id":"01a0616e-9b4e-7438-9e48-0bf1f86840f5","esoCollectibleId":1888,"collectibleName":"Orc Greatsword 3"}
+{"id":"01a0616e-9b4e-702c-81bd-08f89290408c","esoCollectibleId":1887,"collectibleName":"Orc Greatsword 4"}
+{"id":"01a0616e-9b4e-7feb-b623-eb5c57f33cbb","esoCollectibleId":1875,"collectibleName":"Orc Maul 1"}
+{"id":"01a0616e-9b4e-7f4b-86fe-2c94f71d0fca","esoCollectibleId":1872,"collectibleName":"Orc Maul 2"}
+{"id":"01a0616e-9b4e-7895-82e4-c0651080873b","esoCollectibleId":1874,"collectibleName":"Orc Maul 3"}
+{"id":"01a0616e-9b4e-7660-adcf-c736576f576d","esoCollectibleId":1871,"collectibleName":"Orc Maul 4"}
+{"id":"01a0616e-9b4e-70e5-8722-1442dcdd63bf","esoCollectibleId":4001,"collectibleName":"Order of the Hour Battle Axe"}
+{"id":"01a0616e-9b4e-77a9-91d4-f71a18f21294","esoCollectibleId":4003,"collectibleName":"Order of the Hour Greatsword"}
+{"id":"01a0616e-9b4e-7d66-b540-e6963ba5380f","esoCollectibleId":4002,"collectibleName":"Order of the Hour Maul"}
+{"id":"01a0616e-9b4e-795b-93cc-8735a4e11152","esoCollectibleId":12049,"collectibleName":"Order of the Lamp Battle Axe"}
+{"id":"01a0616e-9b4e-7a6d-97d7-3348c7664970","esoCollectibleId":3246,"collectibleName":"Outlaw Battle Axe 1"}
+{"id":"01a0616e-9b4e-7b5c-ad35-c745fd964285","esoCollectibleId":3247,"collectibleName":"Outlaw Battle Axe 2"}
+{"id":"01a0616e-9b4e-7a64-bf1b-f9c0821b4d71","esoCollectibleId":3248,"collectibleName":"Outlaw Battle Axe 3"}
+{"id":"01a0616e-9b4e-7dd7-a62e-798f978c7040","esoCollectibleId":3253,"collectibleName":"Outlaw Greatsword 1"}
+{"id":"01a0616e-9b4e-7786-8f80-a8a558e86927","esoCollectibleId":3252,"collectibleName":"Outlaw Greatsword 2"}
+{"id":"01a0616e-9b4e-7afa-b923-3188df17a5e5","esoCollectibleId":3254,"collectibleName":"Outlaw Greatsword 3"}
+{"id":"01a0616e-9b4e-7eff-8dde-aafbc74a4065","esoCollectibleId":3251,"collectibleName":"Outlaw Maul 1"}
+{"id":"01a0616e-9b4e-74b8-96e7-390e4c9eda26","esoCollectibleId":3249,"collectibleName":"Outlaw Maul 2"}
+{"id":"01a0616e-9b4e-7768-a643-4e17d1766e82","esoCollectibleId":3250,"collectibleName":"Outlaw Maul 3"}
+{"id":"01a0616e-9b4e-7ccd-89c9-22229c31d3f5","esoCollectibleId":10355,"collectibleName":"Passion Dancer's Battle Axe"}
+{"id":"01a0616e-9b4e-7438-9487-cf92a30ca587","esoCollectibleId":6531,"collectibleName":"Pellitine Battle Axe"}
+{"id":"01a0616e-9b4e-77a7-a6d8-1be55e2edb09","esoCollectibleId":6533,"collectibleName":"Pellitine Greatsword"}
+{"id":"01a0616e-9b4e-77a6-8c6e-74b639527c5e","esoCollectibleId":6532,"collectibleName":"Pellitine Maul"}
+{"id":"01a0616e-9b4e-7e10-b79a-17ce9e34e872","esoCollectibleId":7106,"collectibleName":"Pellitine Outlaw Greatsword"}
+{"id":"01a0616e-9b4e-77a3-8b72-a67ea586e696","esoCollectibleId":6723,"collectibleName":"Pirate Skeleton Maul"}
+{"id":"01a0616e-9b4e-7395-9453-4168fee98b9f","esoCollectibleId":6229,"collectibleName":"Pit Daemon Battle Axe"}
+{"id":"01a0616e-9b4e-7f54-a321-149fcc01932b","esoCollectibleId":6231,"collectibleName":"Pit Daemon Greatsword"}
+{"id":"01a0616e-9b4e-774e-abaf-ce9c50db957a","esoCollectibleId":6230,"collectibleName":"Pit Daemon Maul"}
+{"id":"01a0616e-9b4e-7960-be0e-d6c8dfbe3f19","esoCollectibleId":2055,"collectibleName":"Primal Battle Axe 1"}
+{"id":"01a0616e-9b4e-797b-aa3c-6c24c5d6e275","esoCollectibleId":2056,"collectibleName":"Primal Battle Axe 2"}
+{"id":"01a0616e-9b4e-799d-b72b-343f68465384","esoCollectibleId":2054,"collectibleName":"Primal Battle Axe 3"}
+{"id":"01a0616e-9b4e-7d59-b9b7-b6e3481e5dae","esoCollectibleId":2025,"collectibleName":"Primal Greatsword 1"}
+{"id":"01a0616e-9b4e-7374-810f-f142b3f9a92a","esoCollectibleId":2026,"collectibleName":"Primal Greatsword 2"}
+{"id":"01a0616e-9b4e-724a-aeff-d841e2d6fab3","esoCollectibleId":2024,"collectibleName":"Primal Greatsword 3"}
+{"id":"01a0616e-9b4e-7017-bfdd-6230e162d8c5","esoCollectibleId":2064,"collectibleName":"Primal Maul 1"}
+{"id":"01a0616e-9b4e-74b9-b961-19e1c076b3ea","esoCollectibleId":2063,"collectibleName":"Primal Maul 2"}
+{"id":"01a0616e-9b4e-7c6b-b203-38dd903760f8","esoCollectibleId":2065,"collectibleName":"Primal Maul 3"}
+{"id":"01a0616e-9b4e-75d2-b2c5-48c95f20cb30","esoCollectibleId":9583,"collectibleName":"Prior Thierric Greatsword"}
+{"id":"01a0616e-9b4e-7ef8-9f32-093a9e6564f5","esoCollectibleId":5292,"collectibleName":"Psijic Order Battle Axe"}
+{"id":"01a0616e-9b4e-79b0-9009-72a4b1dbdf4d","esoCollectibleId":5294,"collectibleName":"Psijic Order Greatsword"}
+{"id":"01a0616e-9b4e-7222-93c1-2129990b56ae","esoCollectibleId":5293,"collectibleName":"Psijic Order Maul"}
+{"id":"01a0616e-9b4e-7e2f-aeeb-b39b46505558","esoCollectibleId":5475,"collectibleName":"Pyandonean Battle Axe"}
+{"id":"01a0616e-9b4e-713e-861d-ff81096c7470","esoCollectibleId":5477,"collectibleName":"Pyandonean Greatsword"}
+{"id":"01a0616e-9b4e-762e-be56-479d17f9745a","esoCollectibleId":5476,"collectibleName":"Pyandonean Maul"}
+{"id":"01a0616e-9b4e-7ac6-acfb-ba26c3769cd7","esoCollectibleId":7561,"collectibleName":"Pyre Watch Battle Axe"}
+{"id":"01a0616e-9b4e-7cf5-b730-9579bc28f935","esoCollectibleId":7563,"collectibleName":"Pyre Watch Greatsword"}
+{"id":"01a0616e-9b4e-7ff6-9ab9-f1a51bb079e4","esoCollectibleId":7562,"collectibleName":"Pyre Watch Maul"}
+{"id":"01a0616e-9b4e-7f3f-bb18-6949b492899f","esoCollectibleId":3915,"collectibleName":"Ra Gada Battle Axe"}
+{"id":"01a0616e-9b4e-722c-9a5b-9f8b3749ec5d","esoCollectibleId":3917,"collectibleName":"Ra Gada Greatsword"}
+{"id":"01a0616e-9b4e-73e3-8344-5316b01a61bf","esoCollectibleId":3916,"collectibleName":"Ra Gada Maul"}
+{"id":"01a0616e-9b4e-7708-ba64-cbd159b3cd68","esoCollectibleId":11667,"collectibleName":"Reawakened Hierophant Battle Axe"}
+{"id":"01a0616e-9b4e-7766-83b5-761e59881297","esoCollectibleId":11673,"collectibleName":"Reawakened Hierophant Greatsword"}
+{"id":"01a0616e-9b4e-76cd-b3d2-eafb975a74d5","esoCollectibleId":11672,"collectibleName":"Reawakened Hierophant Maul"}
+{"id":"01a0616e-9b4e-7b43-8d3c-39d67139fbc0","esoCollectibleId":1980,"collectibleName":"Redguard Battle Axe 1"}
+{"id":"01a0616e-9b4e-756e-98e0-5cddd257d879","esoCollectibleId":1979,"collectibleName":"Redguard Battle Axe 2"}
+{"id":"01a0616e-9b4e-7611-8710-c3e71cb32e33","esoCollectibleId":1978,"collectibleName":"Redguard Battle Axe 3"}
+{"id":"01a0616e-9b4e-7adf-9ff1-22d3494f6764","esoCollectibleId":1981,"collectibleName":"Redguard Battle Axe 4"}
+{"id":"01a0616e-9b4e-7f11-a8c0-58380a2a6052","esoCollectibleId":1915,"collectibleName":"Redguard Greatsword 1"}
+{"id":"01a0616e-9b4e-7e74-859b-21fa586bac3a","esoCollectibleId":1913,"collectibleName":"Redguard Greatsword 2"}
+{"id":"01a0616e-9b4e-73f2-a8f4-6b3805a12015","esoCollectibleId":1917,"collectibleName":"Redguard Greatsword 3"}
+{"id":"01a0616e-9b4e-7920-ac3a-a1b5e8636400","esoCollectibleId":1916,"collectibleName":"Redguard Greatsword 4"}
+{"id":"01a0616e-9b4e-78c5-9294-ba2eff448d3a","esoCollectibleId":1940,"collectibleName":"Redguard Maul 1"}
+{"id":"01a0616e-9b4e-7780-ac3c-93f2775f8e0e","esoCollectibleId":1939,"collectibleName":"Redguard Maul 2"}
+{"id":"01a0616e-9b4e-7427-8dfe-193b14110c8a","esoCollectibleId":1941,"collectibleName":"Redguard Maul 3"}
+{"id":"01a0616e-9b4e-7a5a-8b63-b0e8c640165b","esoCollectibleId":1943,"collectibleName":"Redguard Maul 4"}
+{"id":"01a0616e-9b4e-7e45-ae1e-a6479d814621","esoCollectibleId":4351,"collectibleName":"Redoran Battle Axe"}
+{"id":"01a0616e-9b4e-77b6-b2ec-079aa6220b71","esoCollectibleId":4353,"collectibleName":"Redoran Greatsword"}
+{"id":"01a0616e-9b4e-79c2-a11f-66c4677bc4b1","esoCollectibleId":13694,"collectibleName":"Redoran Lava Shalk Maul"}
+{"id":"01a0616e-9b4e-78a5-aec5-9a110220a5bb","esoCollectibleId":4352,"collectibleName":"Redoran Maul"}
+{"id":"01a0616e-9b4e-783d-bb15-dd9509b4f2ef","esoCollectibleId":10012,"collectibleName":"Reefborn Battle Axe"}
+{"id":"01a0616e-9b4e-74f6-90ea-e784771ff3c3","esoCollectibleId":3506,"collectibleName":"Refabricated Battle Axe"}
+{"id":"01a0616e-9b4e-7761-b525-b3b52246956e","esoCollectibleId":3508,"collectibleName":"Refabricated Greatsword"}
+{"id":"01a0616e-9b4e-71a5-9b1e-bf197c24c815","esoCollectibleId":3507,"collectibleName":"Refabricated Maul"}
+{"id":"01a0616e-9b4e-7340-ac94-23cf10f33657","esoCollectibleId":9052,"collectibleName":"Regal Regalia Greatsword"}
+{"id":"01a0616e-9b4e-79e7-ab42-a048d8ebe647","esoCollectibleId":8730,"collectibleName":"Rkindaleft Dwarven Battle Axe"}
+{"id":"01a0616e-9b4e-7ef4-b235-1f83ac358f5b","esoCollectibleId":8736,"collectibleName":"Rkindaleft Dwarven Greatsword"}
+{"id":"01a0616e-9b4e-7a17-a294-4b13284434b9","esoCollectibleId":8735,"collectibleName":"Rkindaleft Dwarven Maul"}
+{"id":"01a0616e-9b4e-7b57-bc81-1af9367bd1e1","esoCollectibleId":12617,"collectibleName":"Roksa the Warped Maul"}
+{"id":"01a0616e-9b4e-7280-a456-78f9e6526381","esoCollectibleId":12612,"collectibleName":"Rose of Sanguine Maul"}
+{"id":"01a0616e-9b4e-7364-9db6-80e2b2bc8086","esoCollectibleId":6484,"collectibleName":"Rueful Axe"}
+{"id":"01a0616e-9b4e-7dea-8203-82b860a134ec","esoCollectibleId":10350,"collectibleName":"Runepriest's Greatsword"}
+{"id":"01a0616e-9b4e-760c-bbdc-7aebe59414cd","esoCollectibleId":10007,"collectibleName":"Saberkeel Armaments Battle Axe"}
+{"id":"01a0616e-9b4e-7a6a-a7ca-2e8b13adcdee","esoCollectibleId":6163,"collectibleName":"Sai Sahan's Greatsword"}
+{"id":"01a0616e-9b4e-794e-b3a5-d8a9815514af","esoCollectibleId":11250,"collectibleName":"Sancre Tor Sentry Battle Axe"}
+{"id":"01a0616e-9b4e-7512-9934-6e763aa2299e","esoCollectibleId":11256,"collectibleName":"Sancre Tor Sentry Greatsword"}
+{"id":"01a0616e-9b4e-7b81-9b5a-f59afc5bc9fc","esoCollectibleId":11255,"collectibleName":"Sancre Tor Sentry Maul"}
+{"id":"01a0616e-9b4e-7461-bb1b-49f152de28bf","esoCollectibleId":5507,"collectibleName":"Sapiarch Battle Axe"}
+{"id":"01a0616e-9b4e-7ebc-a587-2aea039df72f","esoCollectibleId":5509,"collectibleName":"Sapiarch Greatsword"}
+{"id":"01a0616e-9b4e-7df3-8885-5ede9b06c79d","esoCollectibleId":5508,"collectibleName":"Sapiarch Maul"}
+{"id":"01a0616e-9b4e-704d-98fe-8bd4df76dd1d","esoCollectibleId":5410,"collectibleName":"Scalecaller Battle Axe"}
+{"id":"01a0616e-9b4e-7d29-98b2-ac863280e7bf","esoCollectibleId":4755,"collectibleName":"Scalecaller Dragonflame Maul"}
+{"id":"01a0616e-9b4e-70b2-b7a8-37ab45710166","esoCollectibleId":5412,"collectibleName":"Scalecaller Greatsword"}
+{"id":"01a0616e-9b4e-7dbc-bfb4-4dd423b007fc","esoCollectibleId":5411,"collectibleName":"Scalecaller Maul"}
+{"id":"01a0616e-9b4e-7287-8a12-bb93773ac761","esoCollectibleId":7672,"collectibleName":"Scourge Harvester Maul"}
+{"id":"01a0616e-9b4e-792f-9c8b-9241dcb8eaaa","esoCollectibleId":10956,"collectibleName":"Scribes of Mora Battle Axe"}
+{"id":"01a0616e-9b4e-73f3-b1bb-d3561214ba17","esoCollectibleId":10958,"collectibleName":"Scribes of Mora Greatsword"}
+{"id":"01a0616e-9b4e-7660-bfd0-213b1a246c03","esoCollectibleId":10957,"collectibleName":"Scribes of Mora Maul"}
+{"id":"01a0616e-9b4e-70ec-a0bd-45f2a9e7b180","esoCollectibleId":7887,"collectibleName":"Sea Giant Battle Axe"}
+{"id":"01a0616e-9b4e-755c-9e9c-e37ac6a87aa5","esoCollectibleId":7889,"collectibleName":"Sea Giant Greatsword"}
+{"id":"01a0616e-9b4e-741c-97af-e4ea4058c5ea","esoCollectibleId":7888,"collectibleName":"Sea Giant Maul"}
+{"id":"01a0616e-9b4e-7cf3-b132-14d7efc89743","esoCollectibleId":6467,"collectibleName":"Second Legion Battle Axe"}
+{"id":"01a0616e-9b4e-7f61-9526-78b2929365b1","esoCollectibleId":6469,"collectibleName":"Second Legion Greatsword"}
+{"id":"01a0616e-9b4e-7302-a365-f56e5a1c6491","esoCollectibleId":6468,"collectibleName":"Second Legion Maul"}
+{"id":"01a0616e-9b4e-7e2e-9c60-4db8f847689e","esoCollectibleId":8334,"collectibleName":"Selene Greatsword"}
+{"id":"01a0616e-9b4e-7b21-8fa8-ecd7a60e59d0","esoCollectibleId":5580,"collectibleName":"Sellistrix Battle Axe"}
+{"id":"01a0616e-9b4e-76d3-a549-59a6c32e27a7","esoCollectibleId":6958,"collectibleName":"Sentinel of Rkugamz Battle Axe"}
+{"id":"01a0616e-9b4e-7d97-b2e1-7cab72e0f56b","esoCollectibleId":5463,"collectibleName":"Shadowrend Greatsword"}
+{"id":"01a0616e-9b4e-733a-90f1-d8f644e77b04","esoCollectibleId":12095,"collectibleName":"Shardborn Battle Axe"}
+{"id":"01a0616e-9b4e-7138-93e2-1819f504da94","esoCollectibleId":12097,"collectibleName":"Shardborn Greatsword"}
+{"id":"01a0616e-9b4e-7ab0-a9e4-d7b81247b10a","esoCollectibleId":12096,"collectibleName":"Shardborn Maul"}
+{"id":"01a0616e-9b4e-7121-83d5-ad819766fee4","esoCollectibleId":7259,"collectibleName":"Shield of Senchal Battle Axe"}
+{"id":"01a0616e-9b4e-77c2-a661-b3667829bb5a","esoCollectibleId":7261,"collectibleName":"Shield of Senchal Greatsword"}
+{"id":"01a0616e-9b4e-7796-9468-f71c7e770a74","esoCollectibleId":7260,"collectibleName":"Shield of Senchal Maul"}
+{"id":"01a0616e-9b4e-7004-9086-7a6c3f252309","esoCollectibleId":3537,"collectibleName":"Silken Ring Battle Axe"}
+{"id":"01a0616e-9b4e-706c-9d57-468b239a32df","esoCollectibleId":3539,"collectibleName":"Silken Ring Greatsword"}
+{"id":"01a0616e-9b4e-75f3-8887-77859c578e53","esoCollectibleId":3538,"collectibleName":"Silken Ring Maul"}
+{"id":"01a0616e-9b4e-7359-a3b6-842fbea57f96","esoCollectibleId":5820,"collectibleName":"Silver Dawn Battle Axe"}
+{"id":"01a0616e-9b4e-7b83-81ba-526afe42b5e0","esoCollectibleId":5822,"collectibleName":"Silver Dawn Greatsword"}
+{"id":"01a0616e-9b4e-76d9-a44f-4d0740798bb6","esoCollectibleId":5821,"collectibleName":"Silver Dawn Maul"}
+{"id":"01a0616e-9b4e-7145-8c3b-a3c0d31dcacc","esoCollectibleId":9555,"collectibleName":"Silver Rose Battle Axe"}
+{"id":"01a0616e-9b4e-7bc3-98ff-38a1af3679ca","esoCollectibleId":9557,"collectibleName":"Silver Rose Greatsword"}
+{"id":"01a0616e-9b4e-7176-9b3c-a066b1b2461e","esoCollectibleId":9556,"collectibleName":"Silver Rose Maul"}
+{"id":"01a0616e-9b4e-716f-8a9a-f4d802832fef","esoCollectibleId":8915,"collectibleName":"Silyanorn Ayleid Maul"}
+{"id":"01a0616e-9b4e-7632-a682-b377b0caf0c3","esoCollectibleId":6285,"collectibleName":"Sinweaver"}
+{"id":"01a0616e-9b4e-73c5-95ab-080b1aa78bfc","esoCollectibleId":7300,"collectibleName":"Skaal Explorer Battle Axe"}
+{"id":"01a0616e-9b4e-7ca4-be6b-a7e790edb023","esoCollectibleId":7302,"collectibleName":"Skaal Explorer Greatsword"}
+{"id":"01a0616e-9b4e-701c-9020-ac4a544ec1da","esoCollectibleId":7301,"collectibleName":"Skaal Explorer Maul"}
+{"id":"01a0616e-9b4e-70f2-a5da-4081781c510f","esoCollectibleId":4068,"collectibleName":"Skinchanger Battle Axe"}
+{"id":"01a0616e-9b4e-7db9-a046-955c90d581e3","esoCollectibleId":4070,"collectibleName":"Skinchanger Greatsword"}
+{"id":"01a0616e-9b4e-73ab-b8c3-3459c6cb9106","esoCollectibleId":4069,"collectibleName":"Skinchanger Maul"}
+{"id":"01a0616e-9b4e-763f-b073-282f6414bffd","esoCollectibleId":7324,"collectibleName":"Slimecraw Maul"}
+{"id":"01a0616e-9b4e-70b1-9e83-3050883f256e","esoCollectibleId":3978,"collectibleName":"Soul Shriven Battle Axe"}
+{"id":"01a0616e-9b4e-7e56-a136-80a48d6d5dae","esoCollectibleId":3980,"collectibleName":"Soul Shriven Greatsword"}
+{"id":"01a0616e-9b4e-7747-8f48-17674c440108","esoCollectibleId":3979,"collectibleName":"Soul Shriven Maul"}
+{"id":"01a0616e-9b4e-7284-a1e9-41fa46bd1f54","esoCollectibleId":11756,"collectibleName":"Soulcleaver Battle Axe"}
+{"id":"01a0616e-9b4e-7373-941f-217475ef386e","esoCollectibleId":11762,"collectibleName":"Soulcleaver Greatsword"}
+{"id":"01a0616e-9b4e-7744-9945-d97160269baa","esoCollectibleId":11761,"collectibleName":"Soulcleaver Maul"}
+{"id":"01a0616e-9b4e-7917-8165-3c8fee7e9f81","esoCollectibleId":10169,"collectibleName":"Soulrazer Battle Axe"}
+{"id":"01a0616e-9b4e-7226-881d-521849df851b","esoCollectibleId":6777,"collectibleName":"Spawn of Mephala Maul"}
+{"id":"01a0616e-9b4e-7712-9120-5c4bd1f991da","esoCollectibleId":9770,"collectibleName":"Spellscar Lithoarms Battle Axe"}
+{"id":"01a0616e-9b4e-7c61-a903-d554cce7b5f9","esoCollectibleId":6842,"collectibleName":"Stags of Z'en Battle Axe"}
+{"id":"01a0616e-9b4e-7ec9-a8a7-fa6f37645cfa","esoCollectibleId":6844,"collectibleName":"Stags of Z'en Greatsword"}
+{"id":"01a0616e-9b4e-73c6-bc42-c449c4aec7e9","esoCollectibleId":6843,"collectibleName":"Stags of Z'en Maul"}
+{"id":"01a0616e-9b4e-7f93-bfb1-f041c5f45828","esoCollectibleId":10127,"collectibleName":"Steadfast Society Battle Axe"}
+{"id":"01a0616e-9b4e-77e1-9361-3cc20617c032","esoCollectibleId":10129,"collectibleName":"Steadfast Society Greatsword"}
+{"id":"01a0616e-9b4e-776d-ad8a-357ff85a6cdb","esoCollectibleId":10128,"collectibleName":"Steadfast Society Maul"}
+{"id":"01a0616e-9b4e-7362-bf82-5f38c4d06a6e","esoCollectibleId":13140,"collectibleName":"Stirk Fellowship Battle Axe"}
+{"id":"01a0616e-9b4e-7087-ad56-4ac0e3d007ed","esoCollectibleId":13142,"collectibleName":"Stirk Fellowship Greatsword"}
+{"id":"01a0616e-9b4e-765e-a61f-e4df9280554e","esoCollectibleId":13141,"collectibleName":"Stirk Fellowship Maul"}
+{"id":"01a0616e-9b4e-7106-a7f1-355bb2491b79","esoCollectibleId":8996,"collectibleName":"Stonekeeper Maul"}
+{"id":"01a0616e-9b4e-7dd0-b59d-cba25276a9c0","esoCollectibleId":6209,"collectibleName":"Storm Lord Battle Axe"}
+{"id":"01a0616e-9b4e-7f59-bf95-a946ff3eb837","esoCollectibleId":6211,"collectibleName":"Storm Lord Greatsword"}
+{"id":"01a0616e-9b4e-796a-b469-dfa054e02f48","esoCollectibleId":6210,"collectibleName":"Storm Lord Maul"}
+{"id":"01a0616e-9b4e-75f3-b2dc-57fac0781573","esoCollectibleId":7318,"collectibleName":"Stormfist Maul"}
+{"id":"01a0616e-9b4e-728b-afd7-ca5e0587fcc1","esoCollectibleId":9219,"collectibleName":"Sul-Xan Battle Axe"}
+{"id":"01a0616e-9b4e-727b-8d1b-2a779698355e","esoCollectibleId":9221,"collectibleName":"Sul-Xan Greatsword"}
+{"id":"01a0616e-9b4e-7cd0-8f7d-e09031ce16e9","esoCollectibleId":9220,"collectibleName":"Sul-Xan Maul"}
+{"id":"01a0616e-9b4e-71f4-b0a0-e217a39a2da5","esoCollectibleId":6896,"collectibleName":"Sunspire Battle Axe"}
+{"id":"01a0616e-9b4e-7b7d-821e-9f9a48c2ec89","esoCollectibleId":6898,"collectibleName":"Sunspire Greatsword"}
+{"id":"01a0616e-9b4e-7ccb-ad7e-ac6200007970","esoCollectibleId":6897,"collectibleName":"Sunspire Maul"}
+{"id":"01a0616e-9b4e-71a5-a76d-dbceb451d2c2","esoCollectibleId":5575,"collectibleName":"Swarm Mother Greatsword"}
+{"id":"01a0616e-9b4e-7b64-9043-1265bd7cff82","esoCollectibleId":6483,"collectibleName":"Sword of Jyggalag"}
+{"id":"01a0616e-9b4e-7440-8cb7-7d447ef330db","esoCollectibleId":7662,"collectibleName":"Swordthane Battle Axe"}
+{"id":"01a0616e-9b4e-7907-8c0e-8b621705253f","esoCollectibleId":7664,"collectibleName":"Swordthane Greatsword"}
+{"id":"01a0616e-9b4e-7ce7-add7-5f926ee3a884","esoCollectibleId":7663,"collectibleName":"Swordthane Maul"}
+{"id":"01a0616e-9b4e-7172-8173-50b8ca81318c","esoCollectibleId":8953,"collectibleName":"Symphony of Blades Greatsword"}
+{"id":"01a0616e-9b4e-7023-b141-f7d0520d31eb","esoCollectibleId":10095,"collectibleName":"Syrabanic Marine Battle Axe"}
+{"id":"01a0616e-9b4e-77e0-8731-3bc67cc8a3b5","esoCollectibleId":10097,"collectibleName":"Syrabanic Marine Greatsword"}
+{"id":"01a0616e-9b4e-7ebb-b5d6-27066d1ad4a7","esoCollectibleId":10096,"collectibleName":"Syrabanic Marine Maul"}
+{"id":"01a0616e-9b4e-730d-bc49-06cfe67b299f","esoCollectibleId":10159,"collectibleName":"Systres Guardian Battle Axe"}
+{"id":"01a0616e-9b4e-74ae-9b9c-5a15a6100dde","esoCollectibleId":10161,"collectibleName":"Systres Guardian Greatsword"}
+{"id":"01a0616e-9b4e-7e4d-b32e-a72ad04930ef","esoCollectibleId":10160,"collectibleName":"Systres Guardian Maul"}
+{"id":"01a0616e-9b4e-7acc-9845-ad7320d1bd79","esoCollectibleId":13073,"collectibleName":"Tarnished Red Petal Greatsword"}
+{"id":"01a0616e-9b4e-78e2-add5-aa662de89099","esoCollectibleId":13689,"collectibleName":"Tava's Goshawk Greatsword"}
+{"id":"01a0616e-9b4e-77bc-84ac-5d37e859d86f","esoCollectibleId":4290,"collectibleName":"Telvanni Battle Axe"}
+{"id":"01a0616e-9b4e-7c94-b7a2-d5140befbf00","esoCollectibleId":4292,"collectibleName":"Telvanni Greatsword"}
+{"id":"01a0616e-9b4e-72de-bb9c-ad7ca2b6f6e0","esoCollectibleId":4291,"collectibleName":"Telvanni Maul"}
+{"id":"01a0616e-9b4e-7e5e-bbca-c275d1318e82","esoCollectibleId":12016,"collectibleName":"The Blind Battle Axe"}
+{"id":"01a0616e-9b4e-7b71-be02-cfb811d0b4fc","esoCollectibleId":3720,"collectibleName":"The Maelstrom's Battle Axe"}
+{"id":"01a0616e-9b4e-7b0f-8a87-328614827954","esoCollectibleId":3722,"collectibleName":"The Maelstrom's Greatsword"}
+{"id":"01a0616e-9b4e-7800-a88f-095937c332ca","esoCollectibleId":3721,"collectibleName":"The Maelstrom's Maul"}
+{"id":"01a0616e-9b4e-7ed0-b448-65e58a37c2e7","esoCollectibleId":11949,"collectibleName":"The Recollection Battle Axe"}
+{"id":"01a0616e-9b4e-7f62-9e0e-a0e70f40d3ca","esoCollectibleId":11951,"collectibleName":"The Recollection Greatsword"}
+{"id":"01a0616e-9b4e-7fe5-8770-209823506b78","esoCollectibleId":11950,"collectibleName":"The Recollection Maul"}
+{"id":"01a0616e-9b4e-7ce4-87f1-dadfccf8f0c8","esoCollectibleId":3852,"collectibleName":"Thieves Guild Battle Axe"}
+{"id":"01a0616e-9b4e-7cb2-af3a-0805607cf070","esoCollectibleId":3854,"collectibleName":"Thieves Guild Greatsword"}
+{"id":"01a0616e-9b4e-7d43-9515-7e49c630cb9a","esoCollectibleId":3853,"collectibleName":"Thieves Guild Maul"}
+{"id":"01a0616e-9b4e-7e8e-8421-31e89f86cb86","esoCollectibleId":8252,"collectibleName":"Thorn Legion Battle Axe"}
+{"id":"01a0616e-9b4e-753e-96aa-7c215444c9b0","esoCollectibleId":8254,"collectibleName":"Thorn Legion Greatsword"}
+{"id":"01a0616e-9b4e-7110-875a-1de8daab93eb","esoCollectibleId":8253,"collectibleName":"Thorn Legion Maul"}
+{"id":"01a0616e-9b4e-7984-93c5-54218ff44817","esoCollectibleId":8690,"collectibleName":"Thurvokun Maul"}
+{"id":"01a0616e-9b4e-73a6-aa7c-dcf3a5a70f65","esoCollectibleId":13204,"collectibleName":"Tide-Born Battle Axe"}
+{"id":"01a0616e-9b4e-7563-a81e-80a467c78193","esoCollectibleId":13206,"collectibleName":"Tide-Born Greatsword"}
+{"id":"01a0616e-9b4e-75e0-bc64-343edfb74556","esoCollectibleId":13205,"collectibleName":"Tide-Born Maul"}
+{"id":"01a0616e-9b4e-72ed-ae0a-b641baf70599","esoCollectibleId":8295,"collectibleName":"Timbercrow Battle Axe"}
+{"id":"01a0616e-9b4e-7315-96ba-e4f1a2abdaf7","esoCollectibleId":8301,"collectibleName":"Timbercrow Greatsword"}
+{"id":"01a0616e-9b4e-7da2-8774-97f6bf9eea69","esoCollectibleId":8300,"collectibleName":"Timbercrow Maul"}
+{"id":"01a0616e-9b4e-704c-a21d-8e947589b673","esoCollectibleId":13250,"collectibleName":"Time's Herald Battleaxe"}
+{"id":"01a0616e-9b4e-7af5-ac3d-1dc74b8568d6","esoCollectibleId":13246,"collectibleName":"Time's Herald Maul"}
+{"id":"01a0616e-9b4e-765f-aed0-c6cdaec2edc5","esoCollectibleId":8343,"collectibleName":"Tools of Domination Battle Axe"}
+{"id":"01a0616e-9b4e-7ca4-85d2-81a0fe182d82","esoCollectibleId":8349,"collectibleName":"Tools of Domination Greatsword"}
+{"id":"01a0616e-9b4e-77a2-8999-e8d194b66d62","esoCollectibleId":8348,"collectibleName":"Tools of Domination Maul"}
+{"id":"01a0616e-9b4e-78ef-a371-826fda602cc1","esoCollectibleId":9663,"collectibleName":"Torment's Cut Battle Axe"}
+{"id":"01a0616e-9b4e-7dd8-962d-fceb1d872554","esoCollectibleId":9669,"collectibleName":"Torment's Cut Greatsword"}
+{"id":"01a0616e-9b4e-72bd-9a9e-12669a41a9a8","esoCollectibleId":9668,"collectibleName":"Torment's Cut Maul"}
+{"id":"01a0616e-9b4e-7cf4-9f0f-a0d15996290b","esoCollectibleId":12368,"collectibleName":"Tree-Sap Legion Battle Axe"}
+{"id":"01a0616e-9b4e-794a-9e98-12879676b917","esoCollectibleId":12374,"collectibleName":"Tree-Sap Legion Greatsword"}
+{"id":"01a0616e-9b4e-71d2-9aa5-e467a414093c","esoCollectibleId":12373,"collectibleName":"Tree-Sap Legion Maul"}
+{"id":"01a0616e-9b4e-7b37-a4cf-d8ba4030f394","esoCollectibleId":8169,"collectibleName":"Tremorscale Battle Axe"}
+{"id":"01a0616e-9b4e-74ab-b366-9f38259eedb2","esoCollectibleId":3816,"collectibleName":"Trinimac Battle Axe"}
+{"id":"01a0616e-9b4e-7b97-895f-8db8907985c3","esoCollectibleId":3818,"collectibleName":"Trinimac Greatsword"}
+{"id":"01a0616e-9b4e-70bb-a451-31c44aec19df","esoCollectibleId":3817,"collectibleName":"Trinimac Maul"}
+{"id":"01a0616e-9b4e-7544-b26c-e4ff3e126627","esoCollectibleId":5229,"collectibleName":"Troll King Battle Axe"}
+{"id":"01a0616e-9b4e-7ac2-aa05-e9071954e510","esoCollectibleId":8943,"collectibleName":"True-Sworn Battle Axe"}
+{"id":"01a0616e-9b4e-7583-85d1-d72066a21e5f","esoCollectibleId":8945,"collectibleName":"True-Sworn Greatsword"}
+{"id":"01a0616e-9b4e-72ac-a158-0cf2cce386f4","esoCollectibleId":8944,"collectibleName":"True-Sworn Maul"}
+{"id":"01a0616e-9b4e-724e-88ab-f0fd4724abb6","esoCollectibleId":11022,"collectibleName":"Truth and Logic Maul"}
+{"id":"01a0616e-9b4e-7bab-aa46-8007ca470887","esoCollectibleId":4342,"collectibleName":"Tsaesci Battle Axe"}
+{"id":"01a0616e-9b4e-7036-ab88-a193166a4370","esoCollectibleId":4344,"collectibleName":"Tsaesci Greatsword"}
+{"id":"01a0616e-9b4e-758b-a1cc-639f2ac3daa7","esoCollectibleId":4343,"collectibleName":"Tsaesci Maul"}
+{"id":"01a0616e-9b4e-749c-b767-53fe90429e1c","esoCollectibleId":10674,"collectibleName":"Unfeathered Battle Axe"}
+{"id":"01a0616e-9b4e-7408-8ffc-ddfcf2dd2dde","esoCollectibleId":10680,"collectibleName":"Unfeathered Greatsword"}
+{"id":"01a0616e-9b4e-7b2c-904f-2a9548913caa","esoCollectibleId":10679,"collectibleName":"Unfeathered Maul"}
+{"id":"01a0616e-9b4e-7bd7-a0f3-1b613a405704","esoCollectibleId":14366,"collectibleName":"Valiant Rogue Battle Axe"}
+{"id":"01a0616e-9b4e-766e-afd0-8799935beca3","esoCollectibleId":14372,"collectibleName":"Valiant Rogue Greatsword"}
+{"id":"01a0616e-9b4e-78d4-8080-efa61bd3b551","esoCollectibleId":14371,"collectibleName":"Valiant Rogue Maul"}
+{"id":"01a0616e-9b4e-71d2-afec-edf038a4a4cb","esoCollectibleId":6176,"collectibleName":"Valkyn Skoria Greatsword"}
+{"id":"01a0616e-9b4e-7ba5-82c3-9c01c3b86a1f","esoCollectibleId":8305,"collectibleName":"Valorous Sovngarde Greatsword"}
+{"id":"01a0616e-9b4e-7bc4-aea0-53cc124db293","esoCollectibleId":14105,"collectibleName":"Vanos Dungeon Delve Battle Axe"}
+{"id":"01a0616e-9b4e-772c-b759-d73c4e2c5f62","esoCollectibleId":14111,"collectibleName":"Vanos Dungeon Delve Greatsword"}
+{"id":"01a0616e-9b4e-7f34-a8b6-3720cc365bf4","esoCollectibleId":14110,"collectibleName":"Vanos Dungeon Delve Maul"}
+{"id":"01a0616e-9b4e-7087-9050-1ed8ebdacb5d","esoCollectibleId":6505,"collectibleName":"Velidreth Maul"}
+{"id":"01a0616e-9b4e-7d6e-8037-07b36da191d8","esoCollectibleId":6353,"collectibleName":"Volendrung"}
+{"id":"01a0616e-9b4e-700a-aea9-7f0baf4a9bb9","esoCollectibleId":6003,"collectibleName":"Voriplasm Battle Axe"}
+{"id":"01a0616e-9b4e-76a4-86fe-1921ef49567e","esoCollectibleId":13363,"collectibleName":"Voskrona Guardian Battle Axe"}
+{"id":"01a0616e-9b4e-72b1-9c47-0cc2bb87c78d","esoCollectibleId":13365,"collectibleName":"Voskrona Guardian Greatsword"}
+{"id":"01a0616e-9b4e-7073-a9f9-829cd8b7150a","esoCollectibleId":13364,"collectibleName":"Voskrona Guardian Maul"}
+{"id":"01a0616e-9b4e-7e7f-b3e6-20f9e6f04b7d","esoCollectibleId":8683,"collectibleName":"Vykosa Maul"}
+{"id":"01a0616e-9b4e-741c-b5dc-1cc56f4a7e6b","esoCollectibleId":8984,"collectibleName":"Waking Flame Battle Axe"}
+{"id":"01a0616e-9b4e-716e-bf95-5b8f3d15e9c8","esoCollectibleId":8986,"collectibleName":"Waking Flame Greatsword"}
+{"id":"01a0616e-9b4e-739f-bc5b-219082b4356f","esoCollectibleId":8985,"collectibleName":"Waking Flame Maul"}
+{"id":"01a0616e-9b4e-70ec-ade1-7f8c7f5b1730","esoCollectibleId":13943,"collectibleName":"Warrior Wave Marine Maul"}
+{"id":"01a0616e-9b4e-7c45-9edb-e0e3f62e6f74","esoCollectibleId":8642,"collectibleName":"Wayward Guardian Battle Axe"}
+{"id":"01a0616e-9b4e-76ab-a818-6381f9f69923","esoCollectibleId":8644,"collectibleName":"Wayward Guardian Greatsword"}
+{"id":"01a0616e-9b4e-7eb6-a9c8-a99036b4f34e","esoCollectibleId":8643,"collectibleName":"Wayward Guardian Maul"}
+{"id":"01a0616e-9b4e-7279-be12-2c2cbb0524c5","esoCollectibleId":5687,"collectibleName":"Welkynar Battle Axe"}
+{"id":"01a0616e-9b4e-7a46-b48f-28138eaacc1a","esoCollectibleId":5689,"collectibleName":"Welkynar Greatsword"}
+{"id":"01a0616e-9b4e-7cef-bd2f-d45c3b5990c2","esoCollectibleId":5688,"collectibleName":"Welkynar Maul"}
+{"id":"01a0616e-9b4e-71ab-969a-81682f83125d","esoCollectibleId":12127,"collectibleName":"West Weald Legion Battle Axe"}
+{"id":"01a0616e-9b4e-7d57-ac47-282736bab392","esoCollectibleId":12129,"collectibleName":"West Weald Legion Greatsword"}
+{"id":"01a0616e-9b4e-7b9b-817a-9f6ba663db0f","esoCollectibleId":12128,"collectibleName":"West Weald Legion Maul"}
+{"id":"01a0616e-9b4e-704a-82af-f5d8159898b0","esoCollectibleId":12378,"collectibleName":"Whispers of Sithis Battle Axe"}
+{"id":"01a0616e-9b4e-7c22-9bde-ea5863fc870d","esoCollectibleId":13429,"collectibleName":"Wickerchain Soul Battle Axe"}
+{"id":"01a0616e-9b4e-7f30-a60d-bf6eda22919e","esoCollectibleId":13435,"collectibleName":"Wickerchain Soul Greatsword"}
+{"id":"01a0616e-9b4e-744e-a518-bb5f3e8445ab","esoCollectibleId":13434,"collectibleName":"Wickerchain Soul Maul"}
+{"id":"01a0616e-9b4e-7eaf-b11c-9b522bd2454e","esoCollectibleId":10372,"collectibleName":"Witchmother's Servant Battle Axe"}
+{"id":"01a0616e-9b4e-7db9-a51a-59786330de80","esoCollectibleId":10378,"collectibleName":"Witchmother's Servant Greatsword"}
+{"id":"01a0616e-9b4e-7b59-9f7c-f948e41ccdbd","esoCollectibleId":10377,"collectibleName":"Witchmother's Servant Maul"}
+{"id":"01a0616e-9b4e-7008-be35-a1a6d3c0dbec","esoCollectibleId":2635,"collectibleName":"Wood Elf Battle Axe 1"}
+{"id":"01a0616e-9b4e-7047-b478-cf4c8fca0b23","esoCollectibleId":2634,"collectibleName":"Wood Elf Battle Axe 2"}
+{"id":"01a0616e-9b4e-7b10-ae98-43dfd62f4cad","esoCollectibleId":2633,"collectibleName":"Wood Elf Battle Axe 3"}
+{"id":"01a0616e-9b4e-752b-9f67-89c40711d957","esoCollectibleId":2636,"collectibleName":"Wood Elf Battle Axe 4"}
+{"id":"01a0616e-9b4e-7926-9e04-523a553d9f5f","esoCollectibleId":1708,"collectibleName":"Wood Elf Greatsword 1"}
+{"id":"01a0616e-9b4e-7d62-9bc2-1df049eaef82","esoCollectibleId":1707,"collectibleName":"Wood Elf Greatsword 2"}
+{"id":"01a0616e-9b4e-7504-a3df-6ee037a9c1eb","esoCollectibleId":1706,"collectibleName":"Wood Elf Greatsword 3"}
+{"id":"01a0616e-9b4e-7450-a2b6-4d182270cd3f","esoCollectibleId":1705,"collectibleName":"Wood Elf Greatsword 4"}
+{"id":"01a0616e-9b4e-70ab-b844-f60792528214","esoCollectibleId":2640,"collectibleName":"Wood Elf Maul 1"}
+{"id":"01a0616e-9b4e-78d6-96a2-8907d296a999","esoCollectibleId":2639,"collectibleName":"Wood Elf Maul 2"}
+{"id":"01a0616e-9b4e-7ac8-9ab0-deff99cebc0a","esoCollectibleId":2638,"collectibleName":"Wood Elf Maul 3"}
+{"id":"01a0616e-9b4e-7a04-a7b0-389c591712ec","esoCollectibleId":2637,"collectibleName":"Wood Elf Maul 4"}
+{"id":"01a0616e-9b4e-7b60-808a-66396063282d","esoCollectibleId":4205,"collectibleName":"Worm Cult Battle Axe"}
+{"id":"01a0616e-9b4e-7364-9e86-5868964ad346","esoCollectibleId":4207,"collectibleName":"Worm Cult Greatsword"}
+{"id":"01a0616e-9b4e-74c0-ba30-caadcb15f8d0","esoCollectibleId":12853,"collectibleName":"Worm Cult Hunter Battle Axe"}
+{"id":"01a0616e-9b4e-7f91-8fda-e282e401e149","esoCollectibleId":12859,"collectibleName":"Worm Cult Hunter Greatsword"}
+{"id":"01a0616e-9b4e-7928-9d23-b9916b194f65","esoCollectibleId":12858,"collectibleName":"Worm Cult Hunter Maul"}
+{"id":"01a0616e-9b4e-7920-b511-8a6036052350","esoCollectibleId":4206,"collectibleName":"Worm Cult Maul"}
+{"id":"01a0616e-9b4e-75d2-a6fa-09b99a5917bb","esoCollectibleId":13397,"collectibleName":"Wormwrithe Battle Axe"}
+{"id":"01a0616e-9b4e-7579-8bb2-f4ebdd10ae72","esoCollectibleId":13403,"collectibleName":"Wormwrithe Greatsword"}
+{"id":"01a0616e-9b4e-7498-beba-d6098aa028c5","esoCollectibleId":13402,"collectibleName":"Wormwrithe Maul"}
+{"id":"01a0616e-9b4e-7daf-8a9b-267967bf5a3e","esoCollectibleId":11776,"collectibleName":"Wrathsun Battle Axe"}
+{"id":"01a0616e-9b4e-78ba-8751-65cac8850117","esoCollectibleId":11782,"collectibleName":"Wrathsun Greatsword"}
+{"id":"01a0616e-9b4e-74ff-bc8d-4d392013a76b","esoCollectibleId":11781,"collectibleName":"Wrathsun Maul"}
+{"id":"01a0616e-9b4e-7991-863d-a91b9a5bb62b","esoCollectibleId":3389,"collectibleName":"Xivkyn Battle Axe"}
+{"id":"01a0616e-9b4e-7d63-9fed-d76ec94ab7e4","esoCollectibleId":3391,"collectibleName":"Xivkyn Greatsword"}
+{"id":"01a0616e-9b4e-7798-bfab-9a874b9c08df","esoCollectibleId":3390,"collectibleName":"Xivkyn Maul"}
+{"id":"01a0616e-9b4e-7b2c-8f1a-81dc9bb788ae","esoCollectibleId":11831,"collectibleName":"Y'ffre-Bound Battle Axe"}
+{"id":"01a0616e-9b4e-7e53-8cf8-e58437b96f7c","esoCollectibleId":10464,"collectibleName":"Y'ffre's Will Battle Axe"}
+{"id":"01a0616e-9b4e-7b7c-abf8-9ff5c73baf20","esoCollectibleId":10466,"collectibleName":"Y'ffre's Will Greatsword"}
+{"id":"01a0616e-9b4e-7ac2-a294-526868d3e3db","esoCollectibleId":10465,"collectibleName":"Y'ffre's Will Maul"}
+{"id":"01a0616e-9b4e-75ef-95d4-1def4aeb6123","esoCollectibleId":13684,"collectibleName":"Yaghra's Bane Battle Axe"}
+{"id":"01a0616e-9b4e-7651-ad22-fb7aef575232","esoCollectibleId":3307,"collectibleName":"Yokudan Battle Axe 1"}
+{"id":"01a0616e-9b4e-739b-a2fa-a7fed7386916","esoCollectibleId":3311,"collectibleName":"Yokudan Greatsword 1"}
+{"id":"01a0616e-9b4e-71ca-9034-e65565389487","esoCollectibleId":3309,"collectibleName":"Yokudan Maul 1"}
+{"id":"01a0616e-9b4e-7496-9ada-05a256c7866a","esoCollectibleId":8756,"collectibleName":"Zaan Greatsword"}
