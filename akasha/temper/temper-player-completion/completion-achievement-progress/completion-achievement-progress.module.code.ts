@@ -60,17 +60,17 @@ export interface CharacterAchievementProgressResult {
   totalPoints: number
 }
 
-interface AchievementTallySubCategory {
+export interface AchievementTallySubCategory {
   name: string
   achievements: readonly AchievementCatalogEntry[]
 }
 
-interface AchievementTallyCategory {
+export interface AchievementTallyCategory {
   name: string
   subCategories: readonly AchievementTallySubCategory[]
 }
 
-function achievementTally(
+export function achievementTally(
   catalog: readonly AchievementCategoryCatalogEntry[],
   tallyCategory: string
 ): readonly AchievementTallyCategory[] {
