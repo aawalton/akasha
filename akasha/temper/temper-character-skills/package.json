@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/temper-character-skills",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./character-skill-activation-types": "./character-skill-activation-types/character-skill-activation-types.module.code.ts",
+    "./character-skill-template": "./character-skill-template/character-skill-template.module.code.ts",
+    "./grimoire-template": "./grimoire-template/grimoire-template.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-characters-equipment": "workspace:*",
+    "@akasha/temper-classes": "workspace:*",
+    "@akasha/temper-equipment": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-kinds": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
