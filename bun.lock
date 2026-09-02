@@ -3113,13 +3113,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/shared-addon-libraries-lib-addon-menu": {
-      "name": "@temper/shared-addon-libraries-lib-addon-menu",
-      "version": "0.1.0",
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/shared-build-deploy-checks": {
       "name": "@temper/shared-build-deploy-checks",
       "version": "0.1.0",
@@ -4376,8 +4369,6 @@
     "@temper/player-quests-addon": ["@temper/player-quests-addon@workspace:temper/player-quests-addon"],
 
     "@temper/scripts": ["@temper/scripts@workspace:temper/scripts"],
-
-    "@temper/shared-addon-libraries-lib-addon-menu": ["@temper/shared-addon-libraries-lib-addon-menu@workspace:temper/shared-addon-libraries-lib-addon-menu"],
 
     "@temper/shared-build-deploy-checks": ["@temper/shared-build-deploy-checks@workspace:temper/shared-build-deploy-checks"],
 
