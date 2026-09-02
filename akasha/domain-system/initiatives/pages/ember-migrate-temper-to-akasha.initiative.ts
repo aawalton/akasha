@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "The parts mend is in flight: `catalog-sidecars.ts` matches any part locator now, uncommitted under its seat. A worse fault sits beneath it. `temper-set`'s pages cannot express a buff its file carries, lost in the first migration rather than by generator drift, so `bonus-effects` gains a `buff-id`. 537 of 707 rows also differ only in icon key order, which would bury that one datum inside a regeneration diff, so the file is normalised first and the generator left alone.",
+        "Addon-data generate exits 70 before any of its fourteen sections runs: it asks for three page types the index never held, because the recreation made them entry properties whose rows a composed query already answers inline. That whole path is dead code, being deleted. `temper-set` shows the other shape, pages that cannot express a buff their file carries, lost in the first migration, so `bonus-effects` gains a `buff-id`. The parts mend is real but it unblocks the mine reader rather than this.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "90 packages are in `akasha/temper` and 97 remain in `temper/`. Housing landed whole and the twelve catalog generators with it. Companions-core is half landed: 100 files remain, none over the ceiling, so it is volume rather than a wall. Seven of fourteen addon-data sections throw, which is why six of eight generators hold only synthetic proof; one seat now has both. Typecheck answers zero over 28,973 files, but the full audit is the number that counts.",
+        "90 packages are in `akasha/temper` and 97 remain in `temper/`. Housing landed whole, the twelve catalog generators with it, and player-completion's keystone is reachable. Companions-core and player-completion are each about half landed, and neither remainder is a wall: nothing left in either is over the byte ceiling. The markup ceiling discharged seven of eight oversized XML files, leaving only `TemperCombat.xml` at 164,528 bytes. The full audit is 72 refusals over 28,993 files.",
     },
   ],
   constraints: [
