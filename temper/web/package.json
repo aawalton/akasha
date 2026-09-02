@@ -1,6 +1,8 @@
 {
   "name": "@temper/web",
   "dependencies": {
+    "@akasha/design-badges": "workspace:*",
+    "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
@@ -52,10 +54,7 @@
     "@infra/k8s-types": "workspace:*",
     "@shared/auth": "workspace:*",
     "@shared/pages-ui": "workspace:*",
-    "@temper/game-characters": "workspace:*",
-    "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-character-ui": "workspace:*",
-    "@temper/game-characters-equipment": "workspace:*",
     "@temper/game-characters-equipment-ui": "workspace:*",
     "@akasha/temper-characters-stats": "workspace:*",
     "@temper/game-companions-ui": "workspace:*",
