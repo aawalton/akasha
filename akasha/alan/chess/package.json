@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
-    "@akasha/pages-ui": "workspace:*",
+    "@akasha/pages-ui-components": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "chess.js": "^1.4.0",
     "chessground": "^9.2.1",
