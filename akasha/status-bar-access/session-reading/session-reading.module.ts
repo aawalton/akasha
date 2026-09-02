@@ -16,6 +16,10 @@ export const sessionReading = {
       statement: "The metric read is the active energy a watch records.",
     },
     {
+      invariantKind: "departure",
+      statement: "The span a caller states is counted in milliseconds rather than in ISO text.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here works out when a day began or ended.",
     },
