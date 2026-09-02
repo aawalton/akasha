@@ -6,6 +6,7 @@ export const questsChatterNames = {
   slug: "quests-chatter-names",
   definition: "the name behind a dialogue option code, looked up for whoever reads a trace",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

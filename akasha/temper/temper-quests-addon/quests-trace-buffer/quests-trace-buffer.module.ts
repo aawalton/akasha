@@ -6,6 +6,7 @@ export const questsTraceBuffer = {
   slug: "quests-trace-buffer",
   definition: "how many trace entries are kept, and which one goes when a new one arrives",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
