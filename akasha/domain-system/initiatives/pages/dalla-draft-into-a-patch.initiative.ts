@@ -8,11 +8,6 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "A file property is carried uncommitted.",
-      workingMemory:
-        "The name carries the property slug and then uncommitted, as in dalla.seat.patch.uncommitted.patch. The name is read from the slug now, so two sections parse. What is missing is meaning: heldIn calls two sections stray, and the predicates agree with it.",
-    },
-    {
       statement: "A page's file name is taken apart in one place.",
       workingMemory:
         "partedIn reads the name and namedIn is a derived view kept so that callers reading stem and tail did not have to change. Two readings of one rule is what let heldIn and the predicates disagree. Taking namedIn away reaches about fifty callers across pages-system, the index, the commit machinery and the checks, plus two outside akasha.",
