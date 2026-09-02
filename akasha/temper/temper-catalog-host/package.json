@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-catalog-host",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./saved-variables-reader": "./saved-variables-reader/saved-variables-reader.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-saved-variables": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
