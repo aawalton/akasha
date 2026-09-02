@@ -1,14 +1,20 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import { CAN_COMPANION_EQUIP_OPTIONS } from "@akasha/temper-items-rules-core/can-companion-equip-filter"
+import { CAN_GIVE_MAX_REWARDS_OPTIONS } from "@akasha/temper-items-rules-core/can-give-max-rewards-filter"
+import { CAN_INSPIRE_OPTIONS } from "@akasha/temper-items-rules-core/can-inspire-filter"
+import { CAN_OPEN_OPTIONS } from "@akasha/temper-items-rules-core/can-open-filter"
+import { CAN_RESEARCH_OPTIONS } from "@akasha/temper-items-rules-core/can-research-filter"
+import { CAN_UNLOCK_OPTIONS } from "@akasha/temper-items-rules-core/can-unlock-filter"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { CAN_COMPANION_EQUIP_OPTIONS } from "@temper/game-items-rules-core/filters/can-companion-equip-filter"
-import { CAN_GIVE_MAX_REWARDS_OPTIONS } from "@temper/game-items-rules-core/filters/can-give-max-rewards-filter"
-import { CAN_INSPIRE_OPTIONS } from "@temper/game-items-rules-core/filters/can-inspire-filter"
-import { CAN_OPEN_OPTIONS } from "@temper/game-items-rules-core/filters/can-open-filter"
-import { CAN_RESEARCH_OPTIONS } from "@temper/game-items-rules-core/filters/can-research-filter"
-import { CAN_UNLOCK_OPTIONS } from "@temper/game-items-rules-core/filters/can-unlock-filter"
 import type { ReactNode } from "react"
 import { FilterLock } from "./rule-card-filter-lock"
 import type { useRuleCard } from "./use-rule-card"
