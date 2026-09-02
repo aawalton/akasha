@@ -1,9 +1,11 @@
 import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { LoadedAs } from "./properties/loaded-as.text-property.ts"
 import type { Markup } from "./properties/markup.file-property.ts"
 
 export type EsoInterface = Domain & {
   markup: Markup
+  loadedAs?: LoadedAs
 }
 
 export const esoInterface = {
@@ -12,9 +14,12 @@ export const esoInterface = {
   slug: "eso-interface",
   definition: "one XML document the game reads",
   pluralSlug: "eso-interfaces",
-  partSlugs: ["file-property/markup"],
+  partSlugs: ["file-property/markup", "text-property/loaded-as"],
   extendsSlug: "page-type/domain",
-  properties: [{ pagePropertySlug: "markup", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "markup", required: true, many: false },
+    { pagePropertySlug: "loaded-as", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -35,6 +40,10 @@ export const esoInterface = {
     {
       invariantKind: "departure",
       statement: "The addon loading an interface names that interface.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name the manifest loads a document by is stated on the document's page.",
     },
   ],
 } as const satisfies PageType

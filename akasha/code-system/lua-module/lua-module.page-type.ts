@@ -1,9 +1,11 @@
 import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { LoadedAs } from "../eso-interface/properties/loaded-as.text-property.ts"
 import type { Lua } from "./properties/lua.file-property.ts"
 
 export type LuaModule = Domain & {
   lua: Lua
+  loadedAs?: LoadedAs
 }
 
 export const luaModule = {
@@ -14,7 +16,10 @@ export const luaModule = {
   pluralSlug: "lua-modules",
   partSlugs: ["file-property/lua"],
   extendsSlug: "page-type/domain",
-  properties: [{ pagePropertySlug: "lua", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "lua", required: true, many: false },
+    { pagePropertySlug: "loaded-as", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -27,6 +32,10 @@ export const luaModule = {
     {
       invariantKind: "departure",
       statement: "The addon loading a Lua module names that module.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module no manifest loads states no name to be loaded by.",
     },
     {
       invariantKind: "departure",
