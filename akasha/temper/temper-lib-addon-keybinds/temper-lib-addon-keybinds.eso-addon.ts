@@ -17,7 +17,7 @@ export const temperLibAddonKeybinds = {
     "module/addon-keybinds-names",
     "module/addon-keybinds-strings",
     "module/addon-keybinds-types",
-    "module/addon-keybinds-declarations",
+    "type-declaration/addon-keybinds-declarations",
     "module/addon-keybinds-entry",
   ],
   invariants: [

@@ -4,13 +4,4 @@ export interface LakTable {
   showAddonKeybinds: boolean
 }
 
-export interface KeybindRowData {
-  actionName: string
-}
-
-export interface KeybindScrollEntry {
-  typeId: number
-  data?: KeybindRowData
-}
-
 export type KeybindScrollData = KeybindScrollEntry[]

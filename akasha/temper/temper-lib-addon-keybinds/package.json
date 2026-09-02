@@ -11,7 +11,6 @@
     "./addon-keybinds-menu-entry": "./addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts",
     "./addon-keybinds-types": "./addon-keybinds-types/addon-keybinds-types.module.code.ts",
     "./addon-keybinds-strings": "./addon-keybinds-strings/addon-keybinds-strings.module.code.ts",
-    "./addon-keybinds-declarations": "./addon-keybinds-declarations/addon-keybinds-declarations.module.code.ts",
     "./addon-keybinds-entry": "./addon-keybinds-entry/addon-keybinds-entry.module.code.ts"
   }
 }

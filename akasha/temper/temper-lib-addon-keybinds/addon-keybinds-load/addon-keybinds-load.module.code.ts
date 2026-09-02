@@ -1,4 +1,3 @@
-import "../addon-keybinds-declarations/addon-keybinds-declarations.module.code.ts"
 import {
   hookKeybindingListCallbacks,
   hookKeybindingListFilter,

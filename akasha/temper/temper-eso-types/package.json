@@ -70,6 +70,7 @@
     "./eso-map-ui": "./eso-map-ui/eso-map-ui.type-declaration.d.ts",
     "./eso-objects-01": "./eso-objects-01/eso-objects-01.type-declaration.d.ts",
     "./eso-objects-02": "./eso-objects-02/eso-objects-02.type-declaration.d.ts",
+    "./eso-options-menu": "./eso-options-menu/eso-options-menu.type-declaration.d.ts",
     "./eso-provisioner-station": "./eso-provisioner-station/eso-provisioner-station.type-declaration.d.ts",
     "./eso-reserved-colon-methods": "./eso-reserved-colon-methods/eso-reserved-colon-methods.type-declaration.d.ts",
     "./eso-reticle-interaction": "./eso-reticle-interaction/eso-reticle-interaction.type-declaration.d.ts",

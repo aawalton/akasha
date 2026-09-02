@@ -1,4 +1,3 @@
-import "../addon-keybinds-declarations/addon-keybinds-declarations.module.code.ts"
 import type { LakTable } from "../addon-keybinds-types/addon-keybinds-types.module.code.ts"
 
 export function addGameMenuEntry(

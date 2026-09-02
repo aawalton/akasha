@@ -57,6 +57,7 @@ export const temperEsoTypes = {
     "type-declaration/eso-mail",
     "type-declaration/eso-map-ui",
     "type-declaration/eso-objects-01",
+    "type-declaration/eso-options-menu",
     "type-declaration/eso-objects-02",
     "type-declaration/eso-reserved-colon-methods",
     "type-declaration/eso-sort-filter-list",
