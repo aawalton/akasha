@@ -27,6 +27,7 @@ export const readoutScale = {
     "readout-scale/backlog-count",
     "readout-scale/plant-grams",
     "readout-scale/safety-level",
+    "readout-scale/sleep-hours",
     "readout-scale/surplus-hours",
     "number-property/black-at",
     "number-property/blue-at",

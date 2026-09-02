@@ -7,6 +7,7 @@
     "./upkeep-activity": "./readout/readouts/upkeep-activity/upkeep-activity.readout.code.ts",
     "./upkeep-plants": "./readout/readouts/upkeep-plants/upkeep-plants.readout.code.ts",
     "./upkeep-safety": "./readout/readouts/upkeep-safety/upkeep-safety.readout.code.ts",
+    "./upkeep-sleep": "./readout/readouts/upkeep-sleep/upkeep-sleep.readout.code.ts",
     "./upkeep-surplus": "./readout/readouts/upkeep-surplus/upkeep-surplus.readout.code.ts",
     "./readout-asking": "./readout-asking/readout-asking.module.code.ts",
     "./readout-asking/testing": "./readout-asking/readout-asking.module.test-fixtures.ts",
