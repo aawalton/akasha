@@ -1022,6 +1022,8 @@
       "dependencies": {
         "@akasha/command-system": "workspace:*",
         "@akasha/pages-system": "workspace:*",
+        "@akasha/temper-addon-build": "workspace:*",
+        "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-watcher": "workspace:*",
         "@akasha/utils-run": "workspace:*",
       },
@@ -1463,6 +1465,15 @@
       "name": "@akasha/temper-narrow",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-navigation-addon": {
+      "name": "@akasha/temper-navigation-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
       },
     },
     "akasha/temper/temper-player-completion": {
@@ -3891,6 +3902,8 @@
     "@akasha/temper-lua-runner": ["@akasha/temper-lua-runner@workspace:akasha/temper/temper-lua-runner"],
 
     "@akasha/temper-narrow": ["@akasha/temper-narrow@workspace:akasha/temper/temper-narrow"],
+
+    "@akasha/temper-navigation-addon": ["@akasha/temper-navigation-addon@workspace:akasha/temper/temper-navigation-addon"],
 
     "@akasha/temper-player-completion": ["@akasha/temper-player-completion@workspace:akasha/temper/temper-player-completion"],
 
