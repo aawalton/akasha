@@ -73,6 +73,7 @@ export const temperCommands = {
     "command/temper-upstream-data-verify",
     "command/temper-watcher-logs",
     "command/temper-watcher-status",
+    "module/code-outside-akasha",
   ],
   invariants: [
     {
