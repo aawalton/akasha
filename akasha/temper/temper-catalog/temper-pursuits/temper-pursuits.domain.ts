@@ -12,6 +12,7 @@ export const temperPursuits = {
     "page-type/temper-cadwell-level",
     "page-type/temper-collectible-category",
     "page-type/temper-craft-type",
+    "page-type/temper-lore-collection",
     "page-type/temper-pursuit-thing",
     "page-type/temper-recipe-list",
     "page-type/temper-research-line",
