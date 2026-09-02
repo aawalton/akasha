@@ -153,20 +153,21 @@ ${fields.join(",\n")},
  */
 
 import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
-import type { SetsAllId, SetsAllTemplate } from "../sets-all-data"
-import type { SetCategoryId } from "../set-categories-data"
+import type { SetCategoryId } from "@akasha/temper-equipment/set-category-ids"
+import type { SetId } from "@akasha/temper-equipment/set-ids"
+import type { SetTemplate } from "@akasha/temper-equipment/set-template"
 
 const SETS_DATA = {
 ${entryLines.join("\n")}
-} satisfies Record<string, SetsAllTemplate>
+} satisfies Record<string, SetTemplate>
 
-// The named \`SetsAllId\` union keeps the TS native compiler from
+// The named \`SetId\` union keeps the TS native compiler from
 // serializing the full inferred per-key union once the snapshot grows
 // past ~255 rows (TS7056: "inferred type ... exceeds the maximum length
 // the compiler will serialize"). An explicit annotation is what TS7056
 // asks for, so widening this key back to \`string\` is not the repair;
 // widening it is what typed every set id as a bare string.
-export const setsFromPages: DataFile<SetsAllId, SetsAllTemplate, SetCategoryId> =
-  createDataFile<SetsAllTemplate>()(SETS_DATA)
+export const setsFromPages: DataFile<SetId, SetTemplate, SetCategoryId> =
+  createDataFile<SetTemplate>()(SETS_DATA)
 `
 }

@@ -63,9 +63,10 @@ export function generateTemperArmorWeight(rows: readonly Page[]): string {
 import type { ArmorWeightTemplate } from "../armor-weights-data"
 
 /**
- * Keyed record. The literal-id keys flow into \`createDataFile\`'s
- * \`armorWeights.ids\` so \`(typeof armorWeights.ids)[number]\` stays a
- * literal-union typed for callers.
+ * Keyed record. \`ArmorWeightId\` is declared in
+ * \`@akasha/temper-equipment/armor-weight-ids\`, and \`armorWeights\` is
+ * annotated against that union, so a key here the union does not name
+ * is a type error rather than a silent widening.
  */
 export const TEMPER_ARMOR_WEIGHTS_BY_ID = {
 ${allEntries.join("\n")}
