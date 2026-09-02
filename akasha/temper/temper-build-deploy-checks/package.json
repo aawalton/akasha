@@ -22,6 +22,7 @@
     "./check-addon-inline-handler-dispatch": "./check-addon-inline-handler-dispatch/check-addon-inline-handler-dispatch.module.code.ts",
     "./check-addon-orphan-xml-handler": "./check-addon-orphan-xml-handler/check-addon-orphan-xml-handler.module.code.ts",
     "./check-addon-removed-refs": "./check-addon-removed-refs/check-addon-removed-refs.module.code.ts",
+    "./check-addon-sandbox-load": "./check-addon-sandbox-load/check-addon-sandbox-load.module.code.ts",
     "./check-addon-sandbox-safety": "./check-addon-sandbox-safety/check-addon-sandbox-safety.module.code.ts",
     "./check-eso-typings-fresh": "./check-eso-typings-fresh/check-eso-typings-fresh.module.code.ts",
     "./cli-args": "./cli-args/cli-args.module.code.ts",

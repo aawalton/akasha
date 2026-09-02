@@ -77,6 +77,7 @@ export const temperBuildDeployChecks = {
     "module/eso-base-game-string-ids-36",
     "module/eso-base-game-string-ids-37",
     "module/eso-base-game-string-ids",
+    "module/check-addon-sandbox-load",
   ],
   invariants: [
     {
