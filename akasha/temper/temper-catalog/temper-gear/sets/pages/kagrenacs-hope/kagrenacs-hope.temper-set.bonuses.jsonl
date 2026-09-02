@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72d-758e-83d2-88dfd4b311f4","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72d-7e5c-8caa-adc142626fa0","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72d-7135-b9a1-3dca49d7eaf7","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72d-7575-88d1-9715b20ab546","count":5,"status":"supported","description":"Adds 222 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":222}]}
+{"id":"01a05fda-f72d-7576-baf6-71fde3f446fe","count":5,"status":"unsupported","description":"Decreases the time it takes to resurrect an ally by 25%. When you successfully resurrect an ally, you restore 1720 Magicka."}

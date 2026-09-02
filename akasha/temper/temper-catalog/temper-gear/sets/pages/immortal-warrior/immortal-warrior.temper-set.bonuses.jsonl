@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72c-7b8f-8533-9c8e6b35dcb4","count":2,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f72c-7d2b-a60e-ed9aa3d75843","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72c-780f-b190-239dfdb6ac64","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f72c-714d-9ada-a7928e03bf59","count":5,"status":"unsupported","description":"When you take damage while below 35% Health you gain Major Protection for 20 seconds, reducing your damage taken by 10%. This effect can occur once every 20 seconds."}

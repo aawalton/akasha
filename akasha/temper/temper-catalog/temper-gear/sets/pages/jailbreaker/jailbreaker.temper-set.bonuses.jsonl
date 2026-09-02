@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72d-7ac3-b5d5-266a7f522438","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72d-7742-934c-6f33179deea1","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72d-7f83-a57f-739f28e0bbd5","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72d-7152-a53f-99db39e9f201","count":5,"status":"supported","description":"Adds 142 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":142}]}
+{"id":"01a05fda-f72d-7513-b38e-1ca983132be6","count":5,"status":"unsupported","description":"Gain Minor Expedition at all times, increasing your Movement Speed by 15%."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72b-73ea-8875-3f810e6fddd0","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72b-7b63-b8bb-5c952ff8a887","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-7f61-baca-0a4ed5f2e681","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-7a5a-8650-0a0408f276c0","count":5,"status":"unsupported","description":"When you take damage, you generate 6 Ultimate. This effect can occur once every 5 seconds."}

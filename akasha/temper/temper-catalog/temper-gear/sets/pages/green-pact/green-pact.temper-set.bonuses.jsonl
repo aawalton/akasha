@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72a-7f55-98cc-97f99e7a9429","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72a-7f2f-95c9-dd54ceb5be64","count":3,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72a-77b6-afb2-f7e0c9e4d0de","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72a-7489-8198-098c1ceddc59","count":5,"status":"unsupported","description":"While you have a food buff active, your Max Health is increased by 2500 and Health Recovery by 356."}

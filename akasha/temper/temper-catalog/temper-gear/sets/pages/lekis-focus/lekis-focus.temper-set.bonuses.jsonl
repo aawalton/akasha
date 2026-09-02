@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72e-7966-8d7b-a16155ac8ed9","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72e-7857-ae76-cd89749aad60","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72e-7bda-9434-fc5bfe7bfa33","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72e-788a-ad0d-729572a85efd","count":5,"status":"unsupported","description":"Reduces your damage done with area of effect attacks by 5%, but grants Major Evasion at all times; reducing your damage taken from area of effect attacks by 20%."}

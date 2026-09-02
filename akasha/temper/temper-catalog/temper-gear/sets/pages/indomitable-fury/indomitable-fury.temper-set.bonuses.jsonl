@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72c-7661-8cda-63fa3d0f8dff","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72c-722b-8d2c-c98c8514af68","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72c-7c69-9d27-5251197077e7","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72c-7176-b529-5733f6aa7815","count":5,"status":"unsupported","description":"After Breaking Free, you gain Minor Protection and Minor Heroism for 7 seconds, reducing your damage taken by 5% and generating 1 Ultimate every 1.5 seconds."}

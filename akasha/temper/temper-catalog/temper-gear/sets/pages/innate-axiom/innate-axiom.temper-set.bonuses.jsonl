@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72c-7920-9ce6-4cfa4dc1fba2","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72c-7381-9118-3c4c73ff53bf","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72c-739a-956f-a3be5fd62e19","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72c-788d-bdc1-4c27da5e84af","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72c-7f24-9001-f68e1a041dc5","count":5,"status":"unsupported","description":"Adds 400 Weapon and Spell Damage to your Class abilities."}

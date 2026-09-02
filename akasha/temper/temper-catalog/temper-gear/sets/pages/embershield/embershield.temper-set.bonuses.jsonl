@@ -1,0 +1,4 @@
+{"id":"01a05fda-f727-7885-b11b-e92f5a3889cb","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f727-732b-80c9-31735188589f","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f727-79f9-86a8-76f8977988ab","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f727-7d56-9476-110f6a279271","count":5,"status":"unsupported","description":"When you complete a fully-charged Heavy Attack, you increase your Physical and Spell Resistance by 3300 and deal 0 Flame damage to all enemies within 5 meters of you every 1 second for 6 seconds. The damage scales off the higher of your Physical or Spell Resistance."}

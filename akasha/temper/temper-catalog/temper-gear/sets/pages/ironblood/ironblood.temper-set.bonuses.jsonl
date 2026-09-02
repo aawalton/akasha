@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72d-7191-889d-f663ab2e4c5f","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72d-7ac6-ad92-76b670f9e148","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72d-742c-b16e-542eb502c53b","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72d-7e91-a887-6fc4388ffa5d","count":5,"status":"unsupported","description":"When you take damage, you have a 10% chance to turn your blood into pure iron for 10 seconds, gaining Major Protection, Major Aegis, and Minor Protection, but also reducing your Movement Speed by 25%. This effect can occur once every 10 seconds."}

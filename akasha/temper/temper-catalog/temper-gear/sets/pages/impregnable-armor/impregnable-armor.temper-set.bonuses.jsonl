@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72c-7437-a527-5d6a0d734a06","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72c-77d3-a886-ce3e1c0be595","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72c-7cce-845c-34b652b953cf","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72c-7c0e-8390-80565d87bdca","count":5,"status":"supported","description":"Adds 1650 Critical Resistance","effects":[{"metricId":"resistance-critical","type":"integer","value":1650}]}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72c-76e1-99e8-2341d21a8b98","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72c-7220-b3e1-5c20d8253d82","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fda-f72c-75a1-ba17-417aaf29a587","count":4,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f72c-728d-b7af-cc0a97eaf697","count":5,"status":"unsupported","description":"When you use an Ultimate ability while in combat, you and the closest 5 group members within 28 meters of you gain Major Aegis for 1 second per 10 Ultimate spent, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 10%."}

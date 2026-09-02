@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72e-7831-b76c-ad96d8709264","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72e-7cb7-ac50-1164eddc6dc4","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72e-7489-b0e0-3986dc2f1906","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fda-f72e-7bb8-b4e1-ecb83e054255","count":5,"status":"unsupported","description":"Enemies affected by your alchemic poisons take 285 Disease damage every 1 second. This effect scales off the higher of your Weapon or Spell Damage."}

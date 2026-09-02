@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-70f0-a491-4bca2e3dbf91","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f729-715c-90a4-f7bf6f9e5a0f","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f729-73e9-9057-5731058b2e5e","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72a-78be-95c5-d321b9702cad","count":5,"status":"unsupported","description":"When you take damage, you become a living shadow for 10 seconds, causing you to heal for 962 every 2 seconds and gaining Major Evasion, reducing damage from area attacks by 20%. This effect can occur every 20 seconds and scales off your Max Health."}

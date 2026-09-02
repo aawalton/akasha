@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72b-72db-8d29-29de6a959bbf","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-73e5-9367-8cabfbb27f29","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-7470-9281-a69d87bc0265","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72b-7d46-bd8d-d93b3d6435ac","count":5,"status":"supported","description":"Adds 171 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":171}]}
+{"id":"01a05fda-f72b-7418-875d-2dd7a890011d","count":5,"status":"unsupported","description":"Whenever you Bash an enemy, you release a cone of hexing energy in front of you.  Each enemy hit increases your Weapon and Spell Damage by 88 for 8 seconds, up to a maximum of 6 enemies.  This effect can occur once every 8 seconds. \n\nWhenever you successfully interrupt a target, you restore 1000 Magicka."}

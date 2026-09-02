@@ -1,0 +1,4 @@
+{"id":"01a05fda-f728-711e-b08f-9f2d5fc0e0ba","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f728-7440-b92f-1cbcfaf66982","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f728-7f69-9557-7cf27b9eb966","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f728-7a67-968a-cce5ef5d5c8b","count":5,"status":"unsupported","description":"When you deal direct damage with a Blink, Charge, Leap, Teleport, or Pull ability, decrease the Critical Resistance of your enemy by 40% and increase your Critical Resistance by an equal amount for 10 seconds. This effect can occur once every 7 seconds."}

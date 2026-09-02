@@ -1,0 +1,4 @@
+{"id":"01a05fda-f727-7577-8d88-b0626c46a265","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f727-7435-ab31-09d3837e1978","count":3,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f727-74d6-8da2-503b44986b7f","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f727-7004-817f-4aca47098140","count":5,"status":"unsupported","description":"When you take damage, you apply Major Defile to the enemy for 5 seconds, reducing their healing received and damage shield strength by 12%. This effect can occur once every 7 seconds per enemy."}

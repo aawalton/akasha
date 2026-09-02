@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72b-7475-8239-fe897e4350a9","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-774d-a2bc-4bdd7e57fe15","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-725b-a3f5-774e01b71e8f","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-7b2b-8ab8-6604cf052cbe","count":5,"status":"unsupported","description":"Grants 145 Stamina Recovery to you and up to 11 other group members within 28 meters of you. This bonus persists through death."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72e-728d-bf2b-2446d99848a4","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72e-7968-a119-9c329ef5ebad","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72e-741a-8820-b7bbcd1ceca9","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72e-7f59-8edc-b4989bc65d28","count":5,"status":"unsupported","description":"When you use an Ultimate ability, you and your group members within 20 meters of you heal for 26 Health and restore 25 Magicka and Stamina per Ultimate spent."}

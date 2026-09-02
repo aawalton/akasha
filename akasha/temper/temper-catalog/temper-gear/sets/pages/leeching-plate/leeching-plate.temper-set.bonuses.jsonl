@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72e-7dcc-9f06-d29c138ea793","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72e-75e4-9e97-b4d9e99a0041","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f72e-723b-9511-f0634cb127cb","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72e-7c31-9660-34afb3e7b256","count":5,"status":"unsupported","description":"When you take damage, you summon a cloud of leeching poison under the assailant. The cloud deals 434 Poison damage every 1 second for 5 seconds and heals you for 102% of the damage caused. This effect can occur once every 5 seconds and scales off your Max Health."}

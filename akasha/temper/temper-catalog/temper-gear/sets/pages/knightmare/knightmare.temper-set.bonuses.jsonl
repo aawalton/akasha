@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72d-7918-aafc-36b2891c62bf","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72d-7550-bd5d-2afed332aeda","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72d-7eaa-adca-d256cfe51bc5","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72d-715a-a527-71ba145eb974","count":5,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72d-7f1c-b4c7-04658e5a4eee","count":5,"status":"unsupported","description":"When you deal Martial melee damage, you apply Minor Maim to all enemies within 8 meters of you for 5 seconds, reducing their damage done by 5%.  This effect can occur once every 3 seconds."}

@@ -1,0 +1,2 @@
+{"id":"01a05fda-f727-75df-9f8c-d4fc46565e14","count":1,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f727-779a-8ecb-0804e4b0d574","count":2,"status":"unsupported","description":"Dealing Flame Damage to an enemy grants you Behemoth's Aura for 12 seconds that reaches up to 12 meters. You and up to 11 group members in the aura reduce Flame Damage taken by 5%. Enemies in the aura increase their Flame Damage taken by 5%. This effect can occur once every 15 seconds."}

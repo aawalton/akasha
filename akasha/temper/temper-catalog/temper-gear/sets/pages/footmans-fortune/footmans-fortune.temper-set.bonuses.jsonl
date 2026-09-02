@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-7272-8633-663f2099b29b","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f729-7970-94a2-5d84239df71a","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f729-77dc-b4ea-d1fa4cc8a849","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f729-7516-9621-a4196531dd73","count":5,"status":"unsupported","description":"Increases the amount of damage you block by 14%."}

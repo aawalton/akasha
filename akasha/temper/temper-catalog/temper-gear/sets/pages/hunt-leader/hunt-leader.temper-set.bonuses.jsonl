@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72c-7c8d-bd31-0a667eb2708f","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72c-7822-ab42-bb301cd3dfc0","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72c-7feb-bb62-9877126183cd","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72c-7d83-8e05-63ac986e18c2","count":5,"status":"unsupported","description":"When your pets attack an enemy you have also attacked in the last 10 seconds, you heal for 2482 Health and restore 1216 Stamina. This effect can occur once every 5 seconds."}

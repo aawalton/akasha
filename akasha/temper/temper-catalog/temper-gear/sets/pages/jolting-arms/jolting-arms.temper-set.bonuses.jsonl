@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72d-74ea-b440-429156b907cb","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72d-7ccf-b8d3-934ca4f9e5b5","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72d-7072-8219-e768baccd809","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72d-798a-a6d2-c9f377792e63","count":5,"status":"unsupported","description":"When you Block, you charge your arms, increasing your Physical and Spell Resistance by 4620 for 6 seconds and causing your next Bash attack to deal an additional 3513 damage.\n\nThis effect can occur once every 6 seconds."}

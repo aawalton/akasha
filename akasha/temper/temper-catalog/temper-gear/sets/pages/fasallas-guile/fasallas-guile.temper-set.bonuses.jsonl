@@ -1,0 +1,5 @@
+{"id":"01a05fda-f728-7279-97dc-8e0c7de6cb86","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f728-7a00-98e3-3f7400808181","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f728-7343-9067-86eaa59aaaaa","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f728-756a-be67-73155eeb083e","count":5,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f728-70b3-ab96-9ec7531f2dc6","count":5,"status":"unsupported","description":"While in combat, every 1 second you apply Minor Defile to enemies within 5 meters of you for 2 seconds, reducing their healing received and damage shield strength by 6%."}

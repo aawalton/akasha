@@ -1,0 +1,4 @@
+{"id":"01a05fda-f726-7563-9bec-f9643e555562","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f726-7e5a-a0ff-cd86010fae47","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f726-70a7-a583-b3363323d1fb","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f726-7793-9470-0f872361250a","count":5,"status":"unsupported","description":"When you take damage while you are under 35% Health, you knockdown all enemies within 4 meters of you for 2 seconds and restore 1058 Magicka. This effect can occur once every 7 seconds."}

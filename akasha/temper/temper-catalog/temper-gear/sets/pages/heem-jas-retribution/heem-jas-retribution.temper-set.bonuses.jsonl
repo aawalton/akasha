@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72b-73f9-aec3-28f382a4082c","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-7e60-875e-e98d8914c7eb","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-7e55-85e3-b947f9dc6f54","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72b-7066-844d-4a60d0fe1b2a","count":5,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-7df8-8b1b-beaec243a223","count":5,"status":"unsupported","description":"When you are within 28 meters of an enemy you are in combat with, and the enemy dies, you gain Major Berserk for 10 seconds, increasing your damage done by 10%."}

@@ -1,0 +1,2 @@
+{"id":"01a05fda-f72a-7dc5-b577-8b83141b705d","count":1,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72a-72f8-9bb6-3bf274da1e16","count":2,"status":"unsupported","description":"Whenever you deal critical damage, restore 700 Magicka or Stamina, whichever maximum is higher. You also gain 350 of the other resource. This effect can occur once every 5 seconds."}

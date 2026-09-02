@@ -1,0 +1,4 @@
+{"id":"01a05fda-f728-703b-adc1-aeba49a3ccf2","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f728-7fd4-a44c-4c51438dd7a7","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f728-730f-9b68-6731f1856e49","count":4,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f728-7282-9573-1310bd4d18cf","count":5,"status":"unsupported","description":"Adds 337 Stamina and Magicka Recovery while your Health is above 50%. Adds 1011 Health Recovery while your Health is 50% or less."}

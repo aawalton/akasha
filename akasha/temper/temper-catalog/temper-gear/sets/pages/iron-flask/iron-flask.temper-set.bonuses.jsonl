@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72d-742f-9532-ec944e938878","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72d-7189-b256-2f32293de759","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72d-7ef1-b5fa-32bc39ca2fe7","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72d-71e1-bcf6-3c167abf3877","count":5,"status":"unsupported","description":"When you drink a potion while in combat, gain 7779 Armor for 20 seconds."}

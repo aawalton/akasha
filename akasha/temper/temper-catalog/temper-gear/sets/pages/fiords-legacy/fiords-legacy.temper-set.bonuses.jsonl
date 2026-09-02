@@ -1,0 +1,4 @@
+{"id":"01a05fda-f728-71cf-8e16-5ca5bbf50031","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f728-7b7f-bfc7-35d69954628d","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f728-7815-bbcc-59c82233945d","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f728-7601-bb40-248df5910c4c","count":5,"status":"unsupported","description":"Reduces the cost and increases the Movement Speed bonus of Sprint by 15%."}

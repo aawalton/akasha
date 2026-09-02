@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72e-782d-b912-257a46b09832","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72e-7dde-a6f1-de3e686821c8","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72e-747e-9161-1dcc74733aea","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72e-7266-9d87-e22e918611fd","count":5,"status":"supported","description":"Adds 300 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":300}]}

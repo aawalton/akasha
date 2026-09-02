@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72b-7dc3-9829-d34299138922","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-789e-b4fc-c24a037fcc3f","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-72a0-85db-53ce4bacb44b","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-7665-b21f-ce43b3d9aa28","count":5,"status":"unsupported","description":"When you deal damage with a Heavy Attack, gain 1236 Offensive Penetration for each enemy within 8 meters of your target for 10 seconds. This effect can occur once every 7 seconds."}

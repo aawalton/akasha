@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72b-720f-9d8d-53c91f978eea","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72b-78d9-8719-cf4ecd5643f5","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-782c-912f-a280fef58a18","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72b-76d7-aec2-f4d866a88ecf","count":5,"status":"unsupported","description":"Dealing direct Critical Damage grants you a damage shield that absorbs up to 12305 damage for 6 seconds. This effect can occur once every 7 seconds."}

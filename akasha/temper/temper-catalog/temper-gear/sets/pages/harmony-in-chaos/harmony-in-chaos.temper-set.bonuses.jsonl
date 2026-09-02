@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72a-7f7d-8fb3-01e9fe7f7430","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72a-7a02-af92-69e0d8243638","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fda-f72a-7132-b014-8fa5918768f1","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72a-707f-8061-0354bb709a5e","count":5,"status":"supported","description":"Adds 200 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":200}]}
+{"id":"01a05fda-f72a-778f-9fd5-a5b03cb3b1e9","count":5,"status":"unsupported","description":"While in combat, activating a synergy increases your Weapon and Spell Damage by 88 for 15 seconds, stacking up to 5 times."}

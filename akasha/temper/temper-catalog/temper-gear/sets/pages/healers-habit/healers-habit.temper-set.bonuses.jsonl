@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72b-7c77-838a-77e198eee077","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-78c4-8ba6-bcb3c53e25af","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-74ef-8294-d310d1da5e63","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-74b3-8a2a-d7d7937146e9","count":5,"status":"supported","description":"Adds 5% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.05}]}
+{"id":"01a05fda-f72b-72fd-ba30-18e92f82fec2","count":5,"status":"unsupported","description":"Gain Minor Mending at all times, increasing your healing done by 8%."}

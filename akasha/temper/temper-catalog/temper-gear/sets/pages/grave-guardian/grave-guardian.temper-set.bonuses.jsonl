@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72a-71ce-a80d-104f8c3243a8","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72a-7c60-8e6b-277b6a295e03","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72a-7d9c-828a-023407fd8c0e","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72a-77e1-b801-21360b9a2168","count":5,"status":"unsupported","description":"Summon a stone aura while you are Bracing, hardening you and your nearby group members, increasing your Physical and Spell Resistance by 4430."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72b-72a0-bfa1-cdbcd1bd4891","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-7b62-a139-778feba8e3f4","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-7b24-832a-5b2f5629ba02","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-707c-a5d6-9b574029ce96","count":5,"status":"unsupported","description":"Increase the effectiveness of your Weapon Traits by 100%. This does not affect Ornate or Intricate traits."}

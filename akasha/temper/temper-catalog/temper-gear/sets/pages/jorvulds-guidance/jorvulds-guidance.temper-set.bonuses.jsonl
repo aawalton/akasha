@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72d-79b0-8063-172f1f251233","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72d-7bca-85f8-73a7a7692f1e","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72d-7cc6-9586-99708398e135","count":4,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f72d-7f01-805b-4969893eff62","count":5,"status":"unsupported","description":"While in combat, increases the duration of all Major buffs, Minor buffs, and damage shields you apply to yourself and allies by 40%."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-f728-7f0f-9d3a-5c0860833792","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f728-72b6-8303-48104478cb3f","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f728-7ca6-9078-8bacca83bd3a","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f728-7f95-bfeb-0f08b4c75e60","count":5,"status":"unsupported","description":"Reduces the cost of your Restoration Staff abilities by 15%."}

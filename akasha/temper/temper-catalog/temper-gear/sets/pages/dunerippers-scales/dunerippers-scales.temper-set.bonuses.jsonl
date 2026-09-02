@@ -1,0 +1,4 @@
+{"id":"01a05fda-f727-72d6-998c-77a4374b74d6","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f727-78f3-b21e-7d2ee7dfe26d","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f727-783f-a5cc-56ee1a2ae45b","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f727-7e5b-b543-fce184a04c25","count":5,"status":"unsupported","description":"While you are Bracing, your Physical and Spell Resistance are increased by 5310."}

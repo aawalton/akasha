@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72a-761d-9f67-a4e92775dd20","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72a-7b93-8e1d-dea4348229ec","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72a-7c4b-ba26-853ca41c99dc","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72a-754a-bb13-3f97933e093b","count":5,"status":"unsupported","description":"When an enemy you recently damaged dies, they drop a grave-stake for 6 seconds. When you touch the grave-stake, you restore 4564 Stamina and Magicka. Only one grave-stake can appear at a time."}

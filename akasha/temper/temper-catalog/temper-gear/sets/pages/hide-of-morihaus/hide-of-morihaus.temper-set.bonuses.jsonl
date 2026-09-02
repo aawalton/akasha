@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72b-787b-a785-ea7390125f46","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72b-7849-b747-02e7791f31b5","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72b-7083-b273-753aa972007a","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-7005-81c0-19c5eb6b3331","count":5,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-79c5-9df0-22fdaefff45f","count":5,"status":"unsupported","description":"When you Roll Dodge through an enemy, you deal 0 Physical Damage and knock them down for 3 seconds.  This effect scales off the higher of your Physical or Spell Resistance."}

@@ -1,0 +1,2 @@
+{"id":"01a05fda-f727-7a95-a68a-2e67a5a7242e","count":2,"status":"supported","description":"Adds 1928 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1928}]}
+{"id":"01a05fda-f727-7580-8f7b-52b68e483169","count":3,"status":"supported","description":"Adds 618 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":618}]}

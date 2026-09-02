@@ -1,0 +1,2 @@
+{"id":"01a05fda-f727-7e75-b04a-54431b79af2a","count":1,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f727-701d-ab9a-72f38f0c9417","count":2,"status":"unsupported","description":"When you use an ability that costs resources, you have a 25% chance to summon a Dwemer automaton to restore 550 Stamina or Magicka or 1994 Health to you every 0.5 seconds for 6 seconds. This effect can occur once every 10 seconds."}

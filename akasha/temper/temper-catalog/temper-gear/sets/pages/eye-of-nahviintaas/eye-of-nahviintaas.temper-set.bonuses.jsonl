@@ -1,0 +1,4 @@
+{"id":"01a05fda-f728-720e-a259-cfbd40607526","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f728-7dcf-b045-344ec6dfafde","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fda-f728-7b54-803c-f3c3a9db6c35","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f728-752f-a832-a197dcefaa83","count":5,"status":"unsupported","description":"When an ally activates a synergy you have created within 10 seconds, you and the ally who activated the synergy get 12% cost reduction for non-Ultimate abilities for 3 seconds. This effect can occur every 6 seconds per target."}

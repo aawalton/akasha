@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72a-7d1b-a3b2-2e65c942fbb6","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72a-74f6-9c8b-3f93e8e43983","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72a-752e-91df-37e86167237e","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72a-70dc-94fb-5755beea0635","count":5,"status":"unsupported","description":"After dealing direct damage, you gain Minor Force and Minor Expedition for 10 seconds, increasing your Critical Damage done by 10% and increasing your Movement Speed by 15%."}

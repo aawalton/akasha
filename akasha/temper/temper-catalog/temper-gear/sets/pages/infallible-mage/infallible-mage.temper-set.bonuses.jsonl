@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72c-7ae7-8098-39ba2c53878d","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72c-7cbc-b56c-7c69c67d0d9b","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fda-f72c-7e00-be58-54f4e5245587","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72c-738f-81cf-82d5d2aed4d2","count":5,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72c-7d5f-80a7-58562df23fb3","count":5,"status":"unsupported","description":"Your Heavy Attacks deal an additional 900 damage to monsters. Enemies you damage with fully-charged Heavy Attacks are afflicted with Minor Vulnerability for 10 seconds, increasing their damage taken by 5%."}

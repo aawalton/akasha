@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72a-75a9-ae64-b4005556007c","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72a-75e9-b760-ebac0c91a777","count":3,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72a-7df9-a9fc-1fd7a28296b1","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f72a-743b-a992-a7aebaf69c4e","count":5,"status":"unsupported","description":"When you take damage while under 50% Health, you summon a preservation of nature around you in a 8 meter radius for 8 seconds which grants Major Protection to you and up to 5 group members while in the area, reducing your damage taken by 10%. This effect can occur once every 30 seconds."}

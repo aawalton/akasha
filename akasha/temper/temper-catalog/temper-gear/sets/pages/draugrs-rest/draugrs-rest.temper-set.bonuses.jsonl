@@ -1,0 +1,4 @@
+{"id":"01a05fda-f726-70df-8d99-72c6b9fcb5b9","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f726-782c-ae64-c61f6e05ce39","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f726-7468-bf1c-65639929b8eb","count":4,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f726-7277-8b48-6e07b081b1fe","count":5,"status":"unsupported","description":"When you complete a fully-charged Heavy Attack, you create a circle of consecrated ground that heals you and your group members within 5 meters for 5784 Health over 10 seconds. This effect can occur once every 10 seconds and scales off the higher of your Max Magicka or Stamina."}

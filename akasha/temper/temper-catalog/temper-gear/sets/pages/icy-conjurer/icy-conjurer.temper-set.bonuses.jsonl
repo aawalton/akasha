@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72c-7ae6-a887-00db3b6189bc","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72c-7aa3-aea7-fd66267e7711","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72c-7ee2-8873-f89aacd72322","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fda-f72c-7172-9b10-83b1d2608d35","count":5,"status":"unsupported","description":"Applying a minor debuff to your enemy summons a non-reflectable Ice Wraith that will charge into your enemy, dealing 3070 Frost damage over 10 seconds. This effect can occur every 10 seconds and scales off the higher of your Weapon or Spell Damage."}

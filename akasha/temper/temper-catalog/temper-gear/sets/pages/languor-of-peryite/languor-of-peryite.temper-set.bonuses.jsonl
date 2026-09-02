@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72e-754d-8716-99c6289b31b1","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72e-7f9a-bd01-8564a1695da1","count":3,"status":"supported","description":"Adds 424 Critical Resistance","effects":[{"metricId":"resistance-critical","type":"integer","value":424}]}
+{"id":"01a05fda-f72e-746e-8cdd-d5abe6006bf6","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fda-f72e-778e-b957-128de7a493a1","count":5,"status":"unsupported","description":"You deal 6% increased damage to blocking players. When you deal Light Attack damage to an enemy that is immune to crowd control, apply Languor for 10 seconds, reducing their Magicka Recovery and Stamina Recovery by 248. This effect can occur once every 10 seconds."}

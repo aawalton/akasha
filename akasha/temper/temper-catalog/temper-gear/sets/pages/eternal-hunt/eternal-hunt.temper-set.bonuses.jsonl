@@ -1,0 +1,4 @@
+{"id":"01a05fda-f728-7274-a549-85cdd86fc010","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f728-7678-b01d-188410c95878","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f728-7bea-8c57-f04c26fb523e","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f728-749e-a265-bcbe976aec3f","count":5,"status":"unsupported","description":"When you use Roll Dodge, you leave behind a rune that detonates when an enemy comes close, dealing 992 Poison Damage and immobilizing them for 1.5 seconds.  This effect scales off the higher of your Weapon or Spell Damage."}

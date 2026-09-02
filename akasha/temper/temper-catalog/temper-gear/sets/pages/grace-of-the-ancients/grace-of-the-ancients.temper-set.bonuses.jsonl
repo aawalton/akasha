@@ -1,0 +1,2 @@
+{"id":"01a05fda-f72a-7f44-8d56-682f5ae2b775","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72a-7ee0-bbb6-a0e348fc49b6","count":3,"status":"supported","description":"Adds 2406 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":2406}]}

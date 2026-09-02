@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72c-7830-8dcb-88cc3382adc9","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72c-7a68-b08c-281d89572cc3","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72c-7449-9fd2-75fcc45ca231","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72c-788e-8652-09dd1a5d91bd","count":5,"status":"unsupported","description":"While you are in Imperial City, you tap into the power of the Tel Var Stones you are carrying, increasing your Health, Magicka, and Stamina by 1032. While you have a 4x Tel Var Stone multiplier this effect is increased by 600%."}

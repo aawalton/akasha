@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72b-743e-bee8-25d5378fe644","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72b-70f6-8cab-1bab2336a5c5","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-7ddc-b9c1-6750efccfeb3","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72b-750a-8cce-a6ddc5ea64b1","count":5,"status":"unsupported","description":"While you are Bracing, you gain Major Evasion, reducing damage from area attacks by 20%."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-7637-9221-290a003ac5ee","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f729-7156-8aed-f280abf0f458","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f729-7364-8d1f-4d29d3d66421","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f729-7c50-9d04-7644f063cce8","count":5,"status":"unsupported","description":"Adds 400 Weapon and Spell Damage to your damaging abilities when you attack an enemy from behind or their sides."}

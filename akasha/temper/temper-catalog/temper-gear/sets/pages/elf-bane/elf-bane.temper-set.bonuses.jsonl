@@ -1,0 +1,4 @@
+{"id":"01a05fda-f727-7002-be96-2b3abafd79ef","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f727-7343-b8f0-33e64ece710f","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f727-71f0-93d3-1da16b03d175","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f727-779d-8d01-39e8eb7d2217","count":5,"status":"unsupported","description":"While in combat, increases the duration of your Flame Damage over Time abilities by 5 seconds.\n\nThis effect does not work with beam or channeled effects."}

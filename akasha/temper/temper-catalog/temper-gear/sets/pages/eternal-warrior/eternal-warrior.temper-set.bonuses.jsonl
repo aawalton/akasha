@@ -1,0 +1,5 @@
+{"id":"01a05fda-f728-7cac-9d9e-ee5d4fc69fd8","count":2,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f728-7889-aec6-9dab8fee854f","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fda-f728-70aa-ac41-f50c50d5a74f","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f728-7b48-b0d1-f2eb19109ee8","count":5,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f728-7e00-917a-b929bf9ce62e","count":5,"status":"unsupported","description":"When you take damage while below 25% Health in combat, you heal for 9725 Health and gain 100 Ultimate. This effect can occur once every 1 minute and the heal scales off your Max Health."}

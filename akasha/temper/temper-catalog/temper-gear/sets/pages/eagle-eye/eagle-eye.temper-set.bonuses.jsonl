@@ -1,0 +1,2 @@
+{"id":"01a05fda-f727-70b3-a4ca-c484527e4da1","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f727-7c1d-a6d9-5bb78ba1aa95","count":3,"status":"unsupported","description":"Adds 1652 Critical Chance to your ranged direct damage abilities."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72e-764c-99e5-806a029d9edd","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72e-79a9-bf95-1677513a1ae3","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72e-731c-9da8-c897ea585f61","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72e-730c-978d-e92e60e5bddc","count":5,"status":"unsupported","description":"Gain 100000 Offensive Penetration. Reduce your damage done by 46%."}

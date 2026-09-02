@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-762c-a3ac-32040d6ae34c","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f729-7b69-92b8-6c60329a639c","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f729-734b-bb38-31e8589ec26a","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f729-7c3b-bbc4-1900d9a348ca","count":5,"status":"supported","description":"Adds 3460 Armor","effects":[{"metricId":"resistance","type":"integer","value":1730}]}

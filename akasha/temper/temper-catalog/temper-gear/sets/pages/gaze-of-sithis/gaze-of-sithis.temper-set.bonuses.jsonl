@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-7381-bb8b-a0063f19cb68","count":1,"status":"supported","description":"Adds 3276 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":3276}]}
+{"id":"01a05fda-f729-7bb7-826c-3e7037cc6114","count":1,"status":"supported","description":"Adds 1025 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":1025}]}
+{"id":"01a05fda-f729-733c-a247-5c3a125a9124","count":1,"status":"supported","description":"Adds 4000 Armor","effects":[{"metricId":"resistance","type":"integer","value":2000}]}
+{"id":"01a05fda-f729-76c8-9c62-b971fd98331a","count":1,"status":"unsupported","description":"Reduces your Block Mitigation to 0."}

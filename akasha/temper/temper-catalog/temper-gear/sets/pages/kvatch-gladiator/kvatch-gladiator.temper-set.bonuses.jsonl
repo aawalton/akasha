@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72d-7aee-8b73-6aafbfd3dde6","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72d-7718-8705-1d5cdce94c1e","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72d-7a88-b53d-3b8f59e3db01","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72d-7e80-851f-d61f287a4863","count":5,"status":"unsupported","description":"You gain 1475 Weapon and Spell Damage against targets who are at or below 25% Health."}

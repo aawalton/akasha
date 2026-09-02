@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72b-78db-b9d6-30ded068683c","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-716f-a5b1-52bfc3151a25","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-7e27-87c9-b77f0c70c41a","count":4,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f72b-7094-8303-b670de01926a","count":5,"status":"unsupported","description":"When you use an area of effect heal ability, you apply Minor Cowardice to enemies within 10 meters of you, reducing their Weapon and Spell Damage by 215 for 5 seconds. This effect can occur once every 3 seconds."}

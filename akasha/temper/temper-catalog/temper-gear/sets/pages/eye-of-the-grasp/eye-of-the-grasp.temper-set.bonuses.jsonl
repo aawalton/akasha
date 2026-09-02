@@ -1,0 +1,4 @@
+{"id":"01a05fda-f728-76d2-9084-7697d26fd21d","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f728-7aba-b3e1-8aa58ceff314","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f728-745a-8772-38455c5d253a","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f728-770e-b445-13b8fc70e5cb","count":5,"status":"unsupported","description":"When you deal Critical Damage, generate 7 Ultimate. This effect can occur once every 5 seconds."}

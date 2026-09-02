@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-7d52-beac-fe1c682a8208","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f729-725e-9e65-f8e8a8e06807","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f729-7356-9c91-6651f837599a","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f729-78d8-a637-aadf5b8531a1","count":5,"status":"unsupported","description":"When you deal damage with a Light or Heavy Attack, you put a Mark of Revenge on the enemy for 15 seconds. After stacking 5 Marks of Revenge on an enemy they detonate for 1462 Magic Damage.\n\nYou can only apply a stack once every half second and the damage scales off the higher of your Weapon or Spell Damage."}

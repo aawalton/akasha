@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72b-7997-8778-57ce0d2fd914","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72b-71e5-9716-3e64b3f81a6f","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72b-752e-aeb8-d6a81c5b8645","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72b-713a-8139-ca619a3bec43","count":5,"status":"unsupported","description":"Activating a Synergy gives you and up to 3 group members within 12 meters Major Heroism for 6 seconds, granting 3 Ultimate every 1.5 seconds. This effect can occur once every 1 second."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-f727-7b9f-8461-c34a833e77fe","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f727-7bc6-8d21-7ae28c358d27","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f727-7550-9947-96ba40faebe2","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f727-75e8-a33e-e0925db0e44c","count":5,"status":"unsupported","description":"Whenever you deal Flame, Shock, or Frost Damage, you gain 492 Weapon and Spell Damage for Flame, Shock, or Frost Damage for 4 seconds. Each effect is picked randomly and an effect that is already active cannot refresh."}

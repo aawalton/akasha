@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72e-7fc6-849d-d8780680f1a8","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72e-758b-92ab-b6724efecb6d","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72e-7e1c-8bc2-6dc8ffea946e","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72e-73b9-97df-84c3ed30d2ee","count":5,"status":"unsupported","description":"When you deal direct damage, you apply one of 5 random Major debuffs to enemies within 8 meters of you for 18 seconds. This effect can occur once every 8 seconds and only if an enemy is in range.\n\nEligible effects are Major Breach, Major Cowardice, Major Defile, Major Maim, and Major Vulnerability."}

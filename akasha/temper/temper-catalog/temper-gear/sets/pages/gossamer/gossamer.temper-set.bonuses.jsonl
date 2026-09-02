@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-73f4-865d-e70fa3a4c2df","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f729-75d1-a7b4-9ffa94f9db8a","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f729-784b-b97d-836e22f5dc30","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f729-7cd2-b8ea-78e18a09b5c5","count":5,"status":"unsupported","description":"When you heal yourself or an ally, you grant them Major Evasion for 4 seconds, reducing damage from area attacks by 20%."}

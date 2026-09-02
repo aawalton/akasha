@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72b-787f-80eb-afb38bea5fcd","count":2,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-7882-a9db-70c8745e00f3","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-766c-ab82-4571e2b4ffb0","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72b-7313-954b-e104002fb409","count":5,"status":"unsupported","description":"Dealing damage with a Light or Medium Attack heals you for 324 Health and restores 318 Stamina and Magicka. Dealing damage with a fully-charged Heavy Attack heals you for 649 Health and restores 636 Stamina and Magicka."}

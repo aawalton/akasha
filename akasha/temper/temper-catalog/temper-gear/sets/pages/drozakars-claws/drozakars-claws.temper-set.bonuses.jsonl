@@ -1,0 +1,5 @@
+{"id":"01a05fda-f726-7d72-8504-33e5ca5f0966","count":2,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fda-f726-7d54-ae98-c41d67ac5cf9","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f726-7666-82be-857746caff3a","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f726-733d-8561-0ac8b8b6d268","count":5,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f726-7b9d-919d-db3f6ad5818c","count":5,"status":"unsupported","description":"For every bleed effect you have on an enemy, increase your Weapon and Spell Damage by 103 against them."}

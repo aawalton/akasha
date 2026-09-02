@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-7f4f-8b17-69cab98b28e6","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f729-7d05-be16-1731748b28e1","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f729-7e32-82c6-edb197a50461","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f729-7892-b4e4-7a281cee2f0d","count":5,"status":"unsupported","description":"Increases your damage done with Frost abilities by 8%. Increases your damage done against Chilled enemies by 4%. Increases your damage done against enemies afflicted with Minor Brittle by 2%."}

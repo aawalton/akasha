@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72a-7c7e-9a20-620c2691d311","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72a-71f6-9745-5b609c6477df","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-f72a-7c41-bced-0c16ca97933f","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72a-7381-8479-35b0ebd8918b","count":5,"status":"unsupported","description":"Whenever you take damage you gain a damage shield that absorbs up to 3256 damage for 6 seconds.  This effect can occur once every 6 seconds and scales off your Max Health."}

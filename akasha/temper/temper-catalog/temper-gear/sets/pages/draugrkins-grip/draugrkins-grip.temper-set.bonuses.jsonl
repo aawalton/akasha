@@ -1,0 +1,4 @@
+{"id":"01a05fda-f726-7072-9bfa-490b5dfcc735","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f726-7c47-952f-9f0a7a28d031","count":3,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fda-f726-72ca-ab72-b4fa5b93af9c","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f726-7870-af98-c51ac0d97017","count":5,"status":"unsupported","description":"Increases your damage done by 330 but reduces your healing received by 10%."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72a-717b-b358-23a5a6093482","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72a-774a-bf34-d46113ff8f71","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72a-7ef1-b8fb-368e7def9def","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72a-7a65-b34d-faabdc2464c2","count":5,"status":"unsupported","description":"Reduces the cost and increases the damage of your Bow abilities by 6%."}

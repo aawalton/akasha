@@ -1,0 +1,4 @@
+{"id":"01a05fda-f727-7e57-854b-c16485f202fe","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f727-799e-9dd5-dbd00f6b0e98","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f727-7ec1-b81f-0bff206532c0","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f727-7dc0-a967-e3b7ebee947c","count":5,"status":"unsupported","description":"Increases Max Health by 1000 for you and up to 11 other group members within 28 meters of you. This bonus persists through death."}

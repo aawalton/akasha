@@ -1,0 +1,4 @@
+{"id":"01a05fda-f726-753d-a2f3-596f353a03dc","count":2,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f726-7a93-a704-ee815d4f66dc","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f726-7bf4-bd02-aa3f5f5e1394","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f726-7685-8def-fb2c4bba4b52","count":5,"status":"unsupported","description":"When you take damage while you are under 35% Health, you knockdown all enemies within 4 meters of you for 2 seconds and heal for 2611 Health. This effect can occur once every 7 seconds and the heal scales off the higher of your Max Magicka or Stamina."}

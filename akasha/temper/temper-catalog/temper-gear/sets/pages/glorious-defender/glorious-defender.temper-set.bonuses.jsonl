@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-75e2-b8da-fac0207792dc","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f729-7bc8-b20c-8bcf0247f9e6","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f729-7769-b613-3798091850cb","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f729-7e51-9280-085fd3bc837d","count":5,"status":"unsupported","description":"When you Bash an enemy, you gain Glorious Defense for 10 seconds, allowing you to dodge the next attack made against you and all others afterwards for 1 second. This effect can occur once every 13 seconds."}

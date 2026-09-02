@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-788e-9bb9-c41091c766d7","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f729-7681-ac8d-3017acf800e1","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f729-721a-aa0e-fbf95aeb59da","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f729-7873-8802-ce78d8f0f9ad","count":5,"status":"unsupported","description":"While you have a food buff active, your Block Mitigation is increased by 8% and block cost is reduced by 8%."}

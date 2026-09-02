@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72a-7b3c-be38-8b4aaed2dc3b","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72a-754f-ac8e-d7c56a07e5aa","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72a-769c-b418-9e21c5911413","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72a-7de7-8dac-d64307f11709","count":5,"status":"supported","description":"Adds 1963 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1963}]}
+{"id":"01a05fda-f72a-7c78-af76-6848f8132c56","count":5,"status":"unsupported","description":"When you resurrect an ally while in combat, both you and your ally gain Major Heroism for 15 seconds, granting 3 Ultimate every 1.5 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72c-718e-965e-e8fea554564f","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72c-7289-879c-b3118ec7aa87","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72c-796a-b670-d4f95f36b8df","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72c-7c63-9cc8-2e2b7e0ed65b","count":5,"status":"supported","description":"Adds 300 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":300}]}

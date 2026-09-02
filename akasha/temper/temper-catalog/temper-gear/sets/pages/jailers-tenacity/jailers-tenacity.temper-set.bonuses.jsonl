@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72d-78a8-a96d-e8f477609687","count":2,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f72d-7353-a13f-b59ca37c461b","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72d-702a-9c0e-f3804e41e674","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-f72d-78e6-8f09-f098217f260c","count":5,"status":"unsupported","description":"When you lose 7000 or more Health from a single attack, you gain Major Vitality for 8 seconds, increasing your healing received and damage shield strength by 12%."}

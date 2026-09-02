@@ -1,0 +1,4 @@
+{"id":"01a05fda-f726-718f-8ec5-e8e0d02ee9d4","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f726-797d-a25a-95d012f9f998","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f726-75c9-8c85-b7dcef803a5e","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f726-7d2b-8167-4c2b0884f6d5","count":5,"status":"unsupported","description":"Gain Major Brutality and Sorcery at all times, increasing your Weapon and Spell Damage by 20%. When you kill an enemy, you gain Major Expedition for 8 seconds, increasing your Movement Speed by 30%."}

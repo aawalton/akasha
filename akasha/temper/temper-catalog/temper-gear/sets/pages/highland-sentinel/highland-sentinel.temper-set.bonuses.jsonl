@@ -1,0 +1,5 @@
+{"id":"01a05fda-f72b-70b5-b79f-661aede8d7db","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72b-742d-8c1c-fc604813cfbd","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72b-7ace-a6ac-e6ddb9230734","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72b-77f6-a01e-8650d0b804b8","count":5,"status":"supported","description":"Adds 986 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":986}]}
+{"id":"01a05fda-f72b-7683-9f02-09d9d7d95c69","count":5,"status":"unsupported","description":"While in combat, each second you stand still grants you a stack of Sentinel's Eye, increasing your Critical Chance by 443 per stack, stacking up to 3 times. Each second you move, one stack is removed. Using charge and teleport abilities does not remove stacks, and exiting combat will remove all stacks of Sentinel's Eye."}

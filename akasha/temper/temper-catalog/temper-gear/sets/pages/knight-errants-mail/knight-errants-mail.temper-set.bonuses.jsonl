@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72d-7fa3-8705-567560ddfb3f","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f72d-7ee9-ade7-f7a6cc4d8e66","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72d-7e62-90b5-cf8fb280003f","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f72d-7404-897f-dbbc2a54e49b","count":5,"status":"unsupported","description":"Adds 450 Weapon and Spell Damage to your One Hand and Shield abilities. When you use a One Hand and Shield ability, you heal for 1568 Health."}

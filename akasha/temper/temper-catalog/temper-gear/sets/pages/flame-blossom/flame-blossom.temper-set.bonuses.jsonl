@@ -1,0 +1,4 @@
+{"id":"01a05fda-f728-75b4-abe5-75c4aedcb6f4","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f728-7fc4-ab22-bb67170140e7","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-f728-769f-bb60-ae704b51a350","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fda-f728-7f64-ba69-1ab4da52c159","count":5,"status":"unsupported","description":"When you deal damage, you summon a line of flame that moves forward after 1 second, dealing 1537 Flame damage to any enemy in its path and applying the Burning status effect. This effect can occur once every 10 seconds and scales off the higher of your Weapon or Spell Damage."}

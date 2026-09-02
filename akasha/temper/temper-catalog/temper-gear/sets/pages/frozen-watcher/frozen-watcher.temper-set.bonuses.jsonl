@@ -1,0 +1,4 @@
+{"id":"01a05fda-f729-7e0a-8755-11597b699b3b","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f729-7a45-8c72-fdb9ab108eb1","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-f729-717f-a355-acf559d632b6","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f729-7455-86b1-fc8e5e3f3707","count":5,"status":"unsupported","description":"Summon a blizzard around you while you are Bracing, inflicting 505 Frost damage every 1 second to enemies within 6 meters. This effect scales off your Max Health and has a 15% chance of inflicting the Chilled status effect."}

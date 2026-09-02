@@ -1,0 +1,4 @@
+{"id":"01a05fda-f72d-7762-bd12-56c792c15ca9","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f72d-7c0c-916e-0ac5f3371b5c","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-f72d-716c-b756-8b7abe0ccd7d","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-f72d-750c-8eb3-2abe364c29f7","count":5,"status":"unsupported","description":"When you deal direct damage while 12 meters or further from your target, you heal for 543 Health and restore 1314 Stamina.  This effect can occur once every 5 seconds and the heal scales off the higher of your Max Magicka or Stamina."}

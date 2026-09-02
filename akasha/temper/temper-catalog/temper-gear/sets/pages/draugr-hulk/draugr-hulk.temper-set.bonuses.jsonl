@@ -1,0 +1,4 @@
+{"id":"01a05fda-f726-73f3-aca2-bd8027049c50","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f726-78d4-a990-63e5e2ef3748","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f726-7b2b-acf2-f2396aea4a6b","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-f726-7e30-9b50-64cdfd741df3","count":5,"status":"supported","description":"Adds 2550 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":2550}]}
