@@ -46,7 +46,7 @@
     "./page-property-key": "./page-property/page-property-key/page-property-key.module.code.ts",
     "./page-type": "./page-type/page-type.page-type.ts",
     "./page-type-descent": "./page-type/descent/page-type-descent.module.code.ts",
-    "./page-type-properties": "./page-type/page-type-properties/page-type-properties.module.code.ts",
+    "./page-type-properties": "./page-type/page-type-properties/declared-properties.module.code.ts",
     "./page-uncommitted": "./page/uncommitted/page-uncommitted.module.code.ts",
     "./page-value": "./page/value/page-value.module.code.ts",
     "./page/id": "./page/properties/id.text-property.ts",

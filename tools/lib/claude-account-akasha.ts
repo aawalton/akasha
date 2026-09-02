@@ -12,7 +12,7 @@ import {
   uncommittedIn,
 } from "../../akasha/pages-system/page/uncommitted/page-uncommitted.module.code.ts"
 import { type Value, valueAt } from "../../akasha/pages-system/page/value/page-value.module.code.ts"
-import { propertiesOf } from "../../akasha/pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
+import { propertiesOf } from "../../akasha/pages-system/page-type/page-type-properties/declared-properties.module.code.ts"
 
 // A claude-account stands in akasha and the readers above still ask for it by the keys its
 // markdown page carried. This answers them under those keys so that moving the page changes

@@ -25,7 +25,7 @@ export const pageType = {
   pluralSlug: "page-types",
   partSlugs: [
     "module/page-type-descent",
-    "module/page-type-properties",
+    "module/declared-properties",
     "boolean-property/many",
     "boolean-property/mortal",
     "boolean-property/required",
