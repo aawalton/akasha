@@ -9,6 +9,7 @@ export const alanHarness = {
     "domain/monarch",
     "domain/alan-safety",
     "domain/alan-surplus",
+    "domain/alan-capacity",
     "domain/alan-plants",
     "domain/alan-activity",
     "domain/alan-sleep",
