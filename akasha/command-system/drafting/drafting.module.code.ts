@@ -2,7 +2,14 @@ import { keptPatch, patchAt } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { mergedOnto } from "../body-merging/body-merging.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import { blobsIn, bodyOf, type Change, patchOf } from "../patching/patching.module.code.ts"
+import {
+  blobsIn,
+  bodyOf,
+  type Change,
+  dropBlobs,
+  keepBlobs,
+  patchOf,
+} from "../patching/patching.module.code.ts"
 
 const TEXT = new TextDecoder()
 
@@ -83,7 +90,8 @@ function changesOf(held: Held): readonly Change[] {
 }
 
 export function drafted(root: string, page: string, drafts: readonly Draft[]): Drafted {
-  if (patchAt(page) === null) return { why: NO_PAGE }
+  const at = patchAt(page)
+  if (at === null) return { why: NO_PAGE }
   const head = headOf(root)
   let answer: Drafted = { why: NO_PAGE }
   const took = keptPatch(root, page, (patch) => {
@@ -98,7 +106,13 @@ export function drafted(root: string, page: string, drafts: readonly Draft[]): D
       return patch
     }
     const next = patchOf(root, head, changesOf(then.held))
-    answer = { patch: next === "" ? null : next }
+    if (next === "") {
+      dropBlobs(root, at)
+      answer = { patch: null }
+      return null
+    }
+    keepBlobs(root, at, next)
+    answer = { patch: next }
     return next
   })
   return took ? answer : { why: NO_PAGE }
