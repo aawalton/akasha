@@ -1,0 +1,27 @@
+{
+  "name": "@akasha/temper-keybinder-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./keybinder-constants": "./keybinder-constants/keybinder-constants.module.code.ts",
+    "./keybinder-casts": "./keybinder-casts/keybinder-casts.module.code.ts",
+    "./keybinder-state": "./keybinder-state/keybinder-state.module.code.ts",
+    "./keybinder-keybind-manager": "./keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts",
+    "./keybinder-binding-fns": "./keybinder-binding-fns/keybinder-binding-fns.module.code.ts",
+    "./keybinder-binding-utils": "./keybinder-binding-utils/keybinder-binding-utils.module.code.ts",
+    "./keybinder-ui-strings": "./keybinder-ui-strings/keybinder-ui-strings.module.code.ts",
+    "./keybinder-filter": "./keybinder-filter/keybinder-filter.module.code.ts",
+    "./keybinder-scroll-list": "./keybinder-scroll-list/keybinder-scroll-list.module.code.ts",
+    "./keybinder-search-box": "./keybinder-search-box/keybinder-search-box.module.code.ts",
+    "./keybinder-share": "./keybinder-share/keybinder-share.module.code.ts",
+    "./keybinder-keybind-events": "./keybinder-keybind-events/keybinder-keybind-events.module.code.ts",
+    "./keybinder-init": "./keybinder-init/keybinder-init.module.code.ts",
+    "./keybinder-saved-variables": "./keybinder-saved-variables/keybinder-saved-variables.module.code.ts",
+    "./keybinder-public-api": "./keybinder-public-api/keybinder-public-api.module.code.ts",
+    "./keybinder-entry": "./keybinder-entry/keybinder-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-addon-library-types": "workspace:*"
+  }
+}

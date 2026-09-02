@@ -1,0 +1,12 @@
+{
+  "name": "TemperKeybinder",
+  "title": "Temper Keybinder",
+  "description": "Account-wide key bindings, chosen per action from the key-bind window",
+  "author": "AlanGaming",
+  "version": "1.4.6",
+  "addonVersion": 10406,
+  "apiVersion": ["101050", "101051"],
+  "savedVariables": ["TemperKeybinder_SavedVariables"],
+  "dependsOn": [],
+  "optionalDependsOn": ["libAddonKeybinds>=6"]
+}

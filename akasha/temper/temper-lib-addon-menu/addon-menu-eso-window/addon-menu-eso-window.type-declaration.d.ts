@@ -57,14 +57,6 @@ interface ZoFadeSceneFragmentClass {
 
 declare const ZO_GameMenu_AddSettingPanel: (this: void, panelData: unknown) => void
 
-declare const ZO_KeybindButtonTemplate_Setup: (
-  this: void,
-  button: Control,
-  keybind: string,
-  callback: (this: void, ...args: unknown[]) => void,
-  text: string | number
-) => void
-
 declare const ZO_ReanchorControlForLeftSidePanel: (this: void, control: Control) => void
 
 declare const ZO_Ingame_SavedVariables: Record<string, unknown>

@@ -1556,6 +1556,13 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-keybinder-addon": {
+      "name": "@akasha/temper-keybinder-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+      },
+    },
     "akasha/temper/temper-lib-addon-keybinds": {
       "name": "@akasha/temper-lib-addon-keybinds",
     },
@@ -3472,6 +3479,8 @@
     "@akasha/temper-items-rules-routing": ["@akasha/temper-items-rules-routing@workspace:akasha/temper/temper-items-rules-routing"],
 
     "@akasha/temper-items-rules-routing-core": ["@akasha/temper-items-rules-routing-core@workspace:akasha/temper/temper-items-rules-routing-core"],
+
+    "@akasha/temper-keybinder-addon": ["@akasha/temper-keybinder-addon@workspace:akasha/temper/temper-keybinder-addon"],
 
     "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:akasha/temper/temper-lib-addon-keybinds"],
 

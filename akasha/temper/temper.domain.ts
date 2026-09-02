@@ -154,6 +154,7 @@ export const temper = {
     "workspace-package/temper-characters-character-ui",
     "workspace-package/temper-companions-ui",
     "workspace-package/temper-player-inventory-management-ui",
+    "eso-addon/temper-keybinder-addon",
   ],
   invariants: [
     {

@@ -1,0 +1,9 @@
+<Bindings>
+  <Layer name="KeybindWindow">
+    <Category>
+      <Action name="TEMPER_KEYBINDER_TOGGLE" hideAction="true" inheritsBindFrom="UI_SHORTCUT_PRIMARY" allowFallthrough="false">
+        <Down>TemperKeybinder.ToggleShareState()</Down>
+      </Action>
+    </Category>
+  </Layer>
+</Bindings>
