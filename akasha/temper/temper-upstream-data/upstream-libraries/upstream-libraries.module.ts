@@ -17,6 +17,18 @@ export const upstreamLibraries = {
     },
     {
       invariantKind: "departure",
+      statement: "Each library names the upstream files its data is read out of.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those files are named against the addons directory rather than as whole paths.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name that is no library is answered as no library rather than refused here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A copy differing from upstream is told apart from a run that broke.",
     },
   ],

@@ -10,6 +10,12 @@ export const temperUpstreamData = {
     "module/upstream-libraries",
     "module/ts-lua-serializer",
     "module/zone-eso-stubs",
+    "module/leaf-dump",
+    "module/upstream-leaf-reading",
+    "module/housing-upstream-verify",
+    "module/map-data-upstream-verify",
+    "module/treasure-upstream-verify",
+    "module/zone-upstream-verify",
     "module/libsets-upstream-pin",
     "module/libsets-upstream-verify",
   ],
@@ -27,8 +33,13 @@ export const temperUpstreamData = {
       statement: "An upstream Lua file is read by running the file in a Lua machine.",
     },
     {
-      invariantKind: "gap",
-      statement: "No library is copied or ruled on until the Lua machine reaches akasha.",
+      invariantKind: "departure",
+      statement: "A copy is ruled on leaf for leaf rather than by a digest or a count.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A ruling is refused where the upstream files it reads are not on this workstation.",
     },
   ],
 } as const satisfies WorkspacePackage
