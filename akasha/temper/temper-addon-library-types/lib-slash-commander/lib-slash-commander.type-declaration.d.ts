@@ -46,5 +46,3 @@ interface LibSlashCommander {
   lastInput: string | undefined
   hasCustomResults: LscCommand | undefined
 }
-
-declare const LibSlashCommander: LibSlashCommander | undefined

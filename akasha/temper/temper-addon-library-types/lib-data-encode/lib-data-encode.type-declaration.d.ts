@@ -43,5 +43,3 @@ interface LibDataEncodeSurface {
     testDictGlobal?: LibDataEncodeDictionary
   ) => LibDataEncodeTestResult
 }
-
-declare const LibDataEncode: LibDataEncodeSurface | undefined
