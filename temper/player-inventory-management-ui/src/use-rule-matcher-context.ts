@@ -1,3 +1,8 @@
+import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
+import {
+  buildDerivedContext,
+  mergeInventoryContext,
+} from "@akasha/temper-items-rules-matcher/rule-matcher-context"
 import { useCharacterList } from "@temper/game-characters-character-ui/use-characters"
 import { useCompanionList } from "@temper/game-companions-ui/use-companions"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
@@ -6,11 +11,9 @@ import type {
   RuleMatcherContext,
 } from "@temper/game-items-rules-core/rule-matcher-context-types"
 import {
-  buildDerivedContext,
-  mergeInventoryContext,
-} from "@temper/game-items-rules-matcher/rule-matcher-context"
-import { useCompletionCharacters, useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
-import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
+  useCompletionCharacters,
+  useCompletionCompanions,
+} from "@temper/player-completion-ui/use-completion"
 import { useMemo } from "react"
 
 export function useRuleMatcherContext(
