@@ -1,0 +1,29 @@
+{
+  "name": "@akasha/story-reader",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./alert-notification": "./alert-notification/alert-notification.module.code.ts",
+    "./alert-sound": "./alert-sound/alert-sound.module.code.ts",
+    "./client-envelope": "./client-envelope/client-envelope.module.code.ts",
+    "./client-session": "./client-session/client-session.module.code.ts",
+    "./client-story-session": "./client-story-session/client-story-session.module.code.ts",
+    "./content-frontier": "./content-frontier/content-frontier.module.code.ts",
+    "./game-config": "./game-config/game-config.module.code.ts",
+    "./pending-actions": "./pending-actions/pending-actions.module.code.ts",
+    "./pool-bars": "./pool-bars/pool-bars.module.code.ts",
+    "./prose-interleave": "./prose-interleave/prose-interleave.module.code.ts",
+    "./quest-projection": "./quest-projection/quest-projection.module.code.ts",
+    "./revealed-frontier": "./revealed-frontier/revealed-frontier.module.code.ts",
+    "./session-envelope": "./session-envelope/session-envelope.module.code.ts",
+    "./state-parse": "./state-parse/state-parse.module.code.ts",
+    "./story-prose-dividers": "./story-prose-dividers/story-prose-dividers.module.code.ts",
+    "./story-session-compose": "./story-session-compose/story-session-compose.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-core": "workspace:*",
+    "@akasha/pages-url": "workspace:*",
+    "@akasha/story-engine-core": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

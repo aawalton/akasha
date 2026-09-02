@@ -7,6 +7,7 @@ export const storyEngine = {
   definition: "worlds and their stories, kept true to each other",
   partSlugs: [
     "workspace-package/story-engine-core",
+    "workspace-package/story-reader",
     "workspace-package/tower-core",
     "workspace-package/tower-engine",
     "workspace-package/tower",
