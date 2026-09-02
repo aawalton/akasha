@@ -9,7 +9,6 @@ export const temperLibChatMessage = {
   addonManifest: "json",
   bundleEntrySlug: "chat-message-main",
   partSlugs: [
-    "module/chat-message-declarations",
     "module/chat-message-types",
     "module/chat-message-casts",
     "module/chat-message-constants",
@@ -24,6 +23,7 @@ export const temperLibChatMessage = {
     "module/chat-message-strings",
     "module/chat-message-public-api",
     "module/chat-message-main",
+    "type-declaration/chat-message-declarations",
   ],
   invariants: [
     {

@@ -1,4 +1,3 @@
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 export function registerUnknownLinkString(this: void): undefined {
   ZO_CreateStringId(
     "LIB_CHATMESSAGE_UNKNOWN_DESCRIPTION",

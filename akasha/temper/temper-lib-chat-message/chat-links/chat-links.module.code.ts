@@ -1,5 +1,3 @@
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
-
 import {
   LINK_GMATCH_PATTERN,
   UNKNOWN_LINK_TYPE,

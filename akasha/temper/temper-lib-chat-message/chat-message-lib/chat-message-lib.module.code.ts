@@ -1,4 +1,3 @@
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 import {
   TAG_PREFIX_LONG,
   TAG_PREFIX_OFF,

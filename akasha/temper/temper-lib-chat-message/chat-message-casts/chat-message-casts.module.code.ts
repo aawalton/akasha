@@ -1,4 +1,3 @@
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 import type {
   ChatProxy,
   HistoryEntry,

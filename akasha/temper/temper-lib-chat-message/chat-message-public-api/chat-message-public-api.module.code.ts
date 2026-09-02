@@ -1,5 +1,4 @@
 import type { GlobalTable } from "../chat-message-casts/chat-message-casts.module.code.ts"
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 
 import { LIB_IDENTIFIER } from "../chat-message-constants/chat-message-constants.module.code.ts"
 import { LIB } from "../chat-message-lib/chat-message-lib.module.code.ts"

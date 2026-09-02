@@ -1,4 +1,3 @@
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 export const LIB_IDENTIFIER = "LibChatMessage"
 
 export const TAG_FORMAT = "[%s]"

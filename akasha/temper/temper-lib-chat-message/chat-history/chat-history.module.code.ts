@@ -1,5 +1,3 @@
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
-
 import {
   MAX_HISTORY_LENGTH,
   TRIMMED_HISTORY_LENGTH,

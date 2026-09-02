@@ -1,4 +1,3 @@
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 import { asZoColorDef } from "../chat-message-casts/chat-message-casts.module.code.ts"
 import {
   COLOR_FORMAT,

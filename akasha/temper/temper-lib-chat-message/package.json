@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./chat-message-declarations": "./chat-message-declarations/chat-message-declarations.module.code.ts",
+    "./chat-message-declarations": "./chat-message-declarations/chat-message-declarations.type-declaration.d.ts",
     "./chat-message-types": "./chat-message-types/chat-message-types.module.code.ts",
     "./chat-message-casts": "./chat-message-casts/chat-message-casts.module.code.ts",
     "./chat-message-constants": "./chat-message-constants/chat-message-constants.module.code.ts",

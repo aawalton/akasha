@@ -1,4 +1,3 @@
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 import { asStringChunks } from "../chat-message-casts/chat-message-casts.module.code.ts"
 import { MAX_SAVE_DATA_LENGTH } from "../chat-message-constants/chat-message-constants.module.code.ts"
 

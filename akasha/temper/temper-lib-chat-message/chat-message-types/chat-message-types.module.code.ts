@@ -1,4 +1,3 @@
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 export interface Settings {
   version: number
   timePrefixEnabled: boolean

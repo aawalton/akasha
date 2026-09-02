@@ -1,4 +1,3 @@
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 import {
   REVERSE_TIME_FORMAT_MAPPING,
   TAG_PREFIX_LONG,

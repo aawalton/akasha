@@ -1,11 +1,10 @@
-import type { GlobalTable } from "../chat-message-casts/chat-message-casts.module.code.ts"
-import "../chat-message-declarations/chat-message-declarations.module.code.ts"
 import {
   getFormattedTime,
   getTimeStampForEvent,
   storeChatEvent,
 } from "../chat-history/chat-history.module.code.ts"
 import { customLinkFormatter } from "../chat-links/chat-links.module.code.ts"
+import type { GlobalTable } from "../chat-message-casts/chat-message-casts.module.code.ts"
 
 import {
   LIB_IDENTIFIER,
