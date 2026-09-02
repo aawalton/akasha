@@ -1,4 +1,6 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { AccountQuestUnionProgress } from "@akasha/temper-player-completion/completion-account-union-progress"
+import type { CompanionCardId } from "@akasha/temper-player-completion/completion-card-registry"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -7,8 +9,6 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import type { AccountQuestUnionProgress } from "@temper/player-completion/completion-account-union-progress"
-import type { CompanionCardId } from "@temper/player-completion/completion-card-registry"
 
 interface CompanionQuestsUnionPanelCardProps {
   id?: CompanionCardId
