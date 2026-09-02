@@ -4,8 +4,7 @@ import { sidecarFor } from "./page-secret.ts"
 
 const MARKDOWN_SECRET = "pages/secret/tailnet-egress-auth.secret.md"
 
-const AKASHA_ACCOUNT =
-  "akasha/agents-system/claude-accounts/pages/aawalton/aawalton.claude-account.ts"
+const AKASHA_ACCOUNT = "akasha/agents/claude-accounts/pages/aawalton/aawalton.claude-account.ts"
 
 describe("the sops file standing beside a page", () => {
   test("a markdown page's sops file is named as it always was", () => {
@@ -20,7 +19,7 @@ describe("the sops file standing beside a page", () => {
    */
   test("an akasha page's sops file is named rather than answered as none", () => {
     expect(sidecarFor(AKASHA_ACCOUNT)).toBe(
-      "akasha/agents-system/claude-accounts/pages/aawalton/aawalton.claude-account.sops.yaml"
+      "akasha/agents/claude-accounts/pages/aawalton/aawalton.claude-account.sops.yaml"
     )
   })
 

@@ -84,7 +84,7 @@
         "typescript": "5.9.3",
       },
     },
-    "akasha/agents-system": {
+    "akasha/agents": {
       "name": "@akasha/agents",
     },
     "akasha/alan/chess": {
@@ -3575,7 +3575,7 @@
   "packages": {
     "@acemir/cssom": ["@acemir/cssom@0.9.31", "", {}, "sha512-ZnR3GSaH+/vJ0YlHau21FjfLYjMpYVIzTD8M8vIEQvIGxeOXyXdzCI140rrCY862p/C/BbzWsjc1dgnM9mkoTA=="],
 
-    "@akasha/agents": ["@akasha/agents@workspace:akasha/agents-system"],
+    "@akasha/agents": ["@akasha/agents@workspace:akasha/agents"],
 
     "@akasha/alanwalton-web": ["@akasha/alanwalton-web@workspace:akasha/alan/web"],
 
