@@ -118,6 +118,7 @@
   "peerDependencies": {
     "lucide-react": ">=0.400",
     "react": "^18 || ^19",
+    "react-dom": "^18 || ^19",
     "react-router": ">=7"
   },
   "dependencies": {
@@ -132,6 +133,8 @@
     "@akasha/web-build-version": "workspace:*",
     "@types/mdast": "^4.0.4",
     "mdast-util-to-hast": "^13.2.1",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
     "sonner": "^2.0.7",
     "unified": "^11.0.5",
     "zod": "^4.3.6"
