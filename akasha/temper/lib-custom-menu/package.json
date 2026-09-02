@@ -1,0 +1,22 @@
+{
+  "name": "@akasha/lib-custom-menu",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./custom-menu-casts": "./custom-menu-casts/custom-menu-casts.module.code.ts",
+    "./custom-menu-constants": "./custom-menu-constants/custom-menu-constants.module.code.ts",
+    "./eso-menu": "./eso-menu/eso-menu.module.code.ts",
+    "./custom-menu-hooks": "./custom-menu-hooks/custom-menu-hooks.module.code.ts",
+    "./custom-menu-lib": "./custom-menu-lib/custom-menu-lib.module.code.ts",
+    "./custom-menu-main": "./custom-menu-main/custom-menu-main.module.code.ts",
+    "./menu-row-factories": "./menu-row-factories/menu-row-factories.module.code.ts",
+    "./custom-menu-public-api": "./custom-menu-public-api/custom-menu-public-api.module.code.ts",
+    "./submenu-item": "./submenu-item/submenu-item.module.code.ts",
+    "./submenu-window": "./submenu-window/submenu-window.module.code.ts",
+    "./submenu-text-colors": "./submenu-text-colors/submenu-text-colors.module.code.ts",
+    "./submenu-timeout": "./submenu-timeout/submenu-timeout.module.code.ts",
+    "./custom-menu-types": "./custom-menu-types/custom-menu-types.module.code.ts",
+    "./menu-row-setup": "./menu-row-setup/menu-row-setup.module.code.ts",
+    "./custom-menu-declarations": "./custom-menu-declarations/custom-menu-declarations.module.code.ts"
+  }
+}

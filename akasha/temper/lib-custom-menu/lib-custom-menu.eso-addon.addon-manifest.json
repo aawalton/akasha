@@ -1,0 +1,12 @@
+{
+  "name": "LibCustomMenu",
+  "title": "LibCustomMenu",
+  "description": "Fixes in-game bug that causes \"Access a private function from insecure code\" created by custom context-menu items. Adds support for sub-menu and divider.",
+  "author": "AlanGaming",
+  "version": "7.3.0",
+  "addonVersion": 730,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": [],
+  "dependsOn": [],
+  "optionalDependsOn": []
+}
