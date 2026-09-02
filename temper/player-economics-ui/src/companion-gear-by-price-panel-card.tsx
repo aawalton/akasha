@@ -5,11 +5,11 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ItemRow } from "@akasha/design-patterns/item-row"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
+import { getQualityClassName } from "@akasha/temper-companions-ui/companion-quality-rules"
 import type { CompanionGearNeed } from "@akasha/temper-items-core/companion-gear-diff"
 import { needToShoppingKey } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { requireGet } from "@akasha/utils-narrow/require-get"
-import { getQualityClassName } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import { useMemo, useState } from "react"
 import {
   buildBlendedPriceMap,
