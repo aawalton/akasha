@@ -1,5 +1,6 @@
 import { LOG_LEVEL_DEBUG, log } from "@akasha/temper-combat-addon/combat-core-log"
 import { getDb } from "@akasha/temper-combat-addon/combat-saved-variables"
+import { isLabelControl } from "@akasha/temper-combat-addon/combat-ui-helpers"
 import type { BarsPanelControl } from "@akasha/temper-combat-addon/combat-ui-selection"
 import type { UpdatableControl } from "@akasha/temper-combat-addon/combat-ui-state"
 
@@ -34,10 +35,6 @@ export function numberValue(this: void, value: unknown): number {
 export function setChildText(this: void, parent: Control, name: string, text: string): undefined {
   parent.GetNamedChild<LabelControl>(name)?.SetText(text)
   return undefined
-}
-
-export function isLabel(this: void, control: Control): control is LabelControl {
-  return control.GetType() === CT_LABEL
 }
 
 export interface ScalableRowControl extends Control {
@@ -80,7 +77,7 @@ export function adjustRowSize(
         rowchild.SetAnchor(point, relativeTo, relativePoint, anchorX, anchorY)
       }
 
-      if (isLabel(rowchild)) {
+      if (isLabelControl(rowchild)) {
         const fontsize = (tonumber(GetString(SI_TEMPER_COMBAT_FONT_SIZE)) ?? 0) * row.scale
         rowchild.SetFont(
           string.format(

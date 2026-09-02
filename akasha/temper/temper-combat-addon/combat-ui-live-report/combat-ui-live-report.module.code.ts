@@ -1,9 +1,16 @@
 import type { CurrentData } from "@akasha/temper-combat-addon/combat-core-types"
 import { getDb } from "@akasha/temper-combat-addon/combat-saved-variables"
-import type { LayoutControl, TooltipCarrier } from "@akasha/temper-combat-addon/combat-ui-helpers"
-import { namedChild, storeOrigLayout } from "@akasha/temper-combat-addon/combat-ui-helpers"
+import type {
+  LayoutControl,
+  TooltipCarrier,
+  TooltipSpec,
+} from "@akasha/temper-combat-addon/combat-ui-helpers"
 import {
-  isTooltipList,
+  isNonNullObject,
+  namedChild,
+  storeOrigLayout,
+} from "@akasha/temper-combat-addon/combat-ui-helpers"
+import {
   refreshLiveReport,
   resizeLiveReport,
 } from "@akasha/temper-combat-addon/combat-ui-live-refresh"
@@ -111,7 +118,7 @@ export function updateLiveReport(data?: CurrentData): undefined {
 
     iconControl.SetTexture(texture)
     const tooltipLines = tooltipControl.tooltip
-    if (isTooltipList(tooltipLines)) {
+    if (isNonNullObject<(TooltipSpec | undefined)[]>(tooltipLines)) {
       tooltipLines[0] = tooltip
     }
     sdps = data.bossDPSOut ?? 0

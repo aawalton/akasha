@@ -62,10 +62,9 @@ export function testEnchant(this: void, itemLink: string): undefined {
   return undefined
 }
 
-function isAbilityIdTable(this: void, value: unknown): value is Record<number, unknown> {
-  return typeof value === "object" && value != null
+export function isNonNullObject<T>(this: void, value: unknown): value is T {
+  return typeof value === "object" && value !== null
 }
-
 const SIGIL_ABILITIES: Record<number, boolean> = {
   [236960]: true,
   [236968]: true,
@@ -74,7 +73,7 @@ const SIGIL_ABILITIES: Record<number, boolean> = {
 }
 
 export function isSigilAbility(this: void, buffAbilityIds: unknown): boolean {
-  if (!isAbilityIdTable(buffAbilityIds)) {
+  if (!isNonNullObject<Record<number, unknown>>(buffAbilityIds)) {
     return false
   }
 
@@ -264,7 +263,7 @@ interface ColorableControl extends Control {
   nocolor?: boolean
 }
 
-function isLabelControl(this: void, control: Control): control is LabelControl {
+export function isLabelControl(this: void, control: Control): control is LabelControl {
   return control.GetType() === CT_LABEL
 }
 

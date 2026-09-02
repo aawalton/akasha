@@ -9,6 +9,7 @@ import { LIBCOMBAT_CPTYPE_SLOTTED } from "@akasha/temper-combat-addon/combat-lib
 import { getDb } from "@akasha/temper-combat-addon/combat-saved-variables"
 import { spairs } from "@akasha/temper-combat-addon/combat-sorted-pairs"
 import type { TooltipCarrier } from "@akasha/temper-combat-addon/combat-ui-helpers"
+import { isNonNullObject } from "@akasha/temper-combat-addon/combat-ui-helpers"
 import { numberValue, setChildText } from "@akasha/temper-combat-addon/combat-ui-main-panel"
 import {
   getFightData,
@@ -23,10 +24,6 @@ import {
   STAT_KEYS_LEGACY,
   type StatFormatEntry,
 } from "@akasha/temper-combat-addon/combat-ui-stats-panels"
-
-function isHistogram(this: void, value: unknown): value is Record<number, number> {
-  return typeof value === "object" && value != null
-}
 
 export function updateFightStatsPanelRight(this: void, panel: Control): undefined {
   log("UI", LOG_LEVEL_DEBUG, "Updating FightStatsPanelRight")
@@ -172,7 +169,9 @@ export function updateFightStatsPanelRight(this: void, panel: Control): undefine
             : powerType === COMBAT_MECHANIC_FLAGS_STAMINA
               ? resdata["weaponCrit"]
               : undefined
-        const critvalues = isHistogram(critvaluesRaw) ? critvaluesRaw : undefined
+        const critvalues = isNonNullObject<Record<number, number>>(critvaluesRaw)
+          ? critvaluesRaw
+          : undefined
 
         if (critvalues != null) {
           let sum = 0
@@ -302,7 +301,11 @@ function updatePenetrationRows(
       powerType === COMBAT_MECHANIC_FLAGS_MAGICKA
         ? resdata["spellResistance"]
         : resdata["physicalResistance"]
-    const resistvalues: Record<number, number> = isHistogram(resistvaluesRaw) ? resistvaluesRaw : {}
+    const resistvalues: Record<number, number> = isNonNullObject<Record<number, number>>(
+      resistvaluesRaw
+    )
+      ? resistvaluesRaw
+      : {}
     const statId = keys?.[4]?.[0] ?? 0
     const statData = statsById[statId]
 

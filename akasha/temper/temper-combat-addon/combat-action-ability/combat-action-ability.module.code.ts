@@ -1,11 +1,8 @@
+import { isDigitChar } from "@akasha/temper-combat-addon/combat-action-icon-path"
 import type { Ability } from "@akasha/temper-combat-addon/combat-action-types"
 
 const DIGITS = "0123456789"
 const WHITESPACE = " \t\n\r"
-
-function isDigitChar(c: string): boolean {
-  return c.length === 1 && DIGITS.includes(c)
-}
 
 function isNumberRunChar(c: string): boolean {
   return isDigitChar(c) || c === "." || c === ","

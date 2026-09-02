@@ -6,6 +6,7 @@ import {
 } from "@akasha/temper-combat-addon/combat-lib-constants"
 import type { CPStarEntry } from "@akasha/temper-combat-addon/combat-lib-types"
 import { spairs } from "@akasha/temper-combat-addon/combat-sorted-pairs"
+import { isNonNullObject } from "@akasha/temper-combat-addon/combat-ui-helpers"
 import { getFightData } from "@akasha/temper-combat-addon/combat-ui-state"
 import type {
   CPStarControl,
@@ -14,13 +15,6 @@ import type {
 
 const PASSIVE_REQUIREMENTS = [10, 30, 75, 120]
 
-function isLegacyCpData(
-  this: void,
-  value: unknown
-): value is Record<number, Record<number, number>> {
-  return typeof value === "object" && value !== null
-}
-
 function updateRightInfoPanelLegacy(this: void, panel: Control): undefined {
   const fightData = getFightData()
   if (fightData == null) {
@@ -28,7 +22,7 @@ function updateRightInfoPanelLegacy(this: void, panel: Control): undefined {
   }
 
   const cp: unknown = fightData.CP
-  const cpData = isLegacyCpData(cp) ? cp : undefined
+  const cpData = isNonNullObject<Record<number, Record<number, number>>>(cp) ? cp : undefined
   if (cpData == null) {
     return undefined
   }

@@ -4,16 +4,15 @@ import type {
   TooltipCarrier,
   TooltipSpec,
 } from "@akasha/temper-combat-addon/combat-ui-helpers"
-import { namedChild } from "@akasha/temper-combat-addon/combat-ui-helpers"
-import { isLabel } from "@akasha/temper-combat-addon/combat-ui-main-panel"
+import {
+  isLabelControl,
+  isNonNullObject,
+  namedChild,
+} from "@akasha/temper-combat-addon/combat-ui-helpers"
 import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 
 interface LiveBlockControl extends LayoutControl {
   blocksize?: number
-}
-
-export function isTooltipList(this: void, value: unknown): value is (TooltipSpec | undefined)[] {
-  return typeof value === "object" && value !== null
 }
 
 function refreshBG(this: void): undefined {
@@ -130,7 +129,7 @@ export function refreshLiveReport(): undefined {
       label.SetHorizontalAlignment(setLR.alignmentleft ? TEXT_ALIGN_LEFT : TEXT_ALIGN_RIGHT)
 
       const tooltipLines: unknown = namedChild<TooltipCarrier>(child, "Tooltip").tooltip
-      if (isTooltipList(tooltipLines)) {
+      if (isNonNullObject<(TooltipSpec | undefined)[]>(tooltipLines)) {
         tooltipLines[1] = db.recordgrp ? SI_TEMPER_COMBAT_LIVEREPORT_GROUP_TOOLTIP : undefined
       }
     }
@@ -171,7 +170,7 @@ function resizeControl(control: LayoutControl, scale: number | undefined): undef
       size = (assert(tonumber(size)) * (clamped + 0.1)) / 1.2
     }
 
-    if (isLabel(control)) {
+    if (isLabelControl(control)) {
       control.SetFont(string.format("%s|%s|%s", font, size, style))
     }
   }

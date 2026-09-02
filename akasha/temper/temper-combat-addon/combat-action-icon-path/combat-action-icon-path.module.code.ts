@@ -13,7 +13,7 @@ export function normalizeIconPath(p: string): string {
 
 const DIGITS = "0123456789"
 
-function isDigitChar(c: string): boolean {
+export function isDigitChar(c: string): boolean {
   return c.length === 1 && DIGITS.includes(c)
 }
 

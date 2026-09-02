@@ -9,6 +9,7 @@ import { getDb } from "@akasha/temper-combat-addon/combat-saved-variables"
 import { getShowOverHeal } from "@akasha/temper-combat-addon/combat-selection"
 import { spairs } from "@akasha/temper-combat-addon/combat-sorted-pairs"
 import type { RowAnchor } from "@akasha/temper-combat-addon/combat-ui-buff-panel"
+import { isNonNullObject } from "@akasha/temper-combat-addon/combat-ui-helpers"
 import {
   adjustRowSize,
   numberValue,
@@ -65,10 +66,6 @@ function refreshAbilityPanel(this: void): undefined {
   const abilityPanel = TemperCombat_Report_AbilityPanel
   abilityPanel.Update?.(abilityPanel)
   return undefined
-}
-
-function isAbilityTable(this: void, value: unknown): value is Record<number, AbilityData> {
-  return typeof value === "object" && value != null
 }
 
 function addHitCritMenuItem(this: void, id: number): undefined {
@@ -251,7 +248,9 @@ export function updateAbilityPanel(this: void, barsPanel: BarsPanelControl): und
   const showids = db.showDebugIds
 
   const abilityTableRaw = data[category]
-  const abilityTable: Record<number, AbilityData> = isAbilityTable(abilityTableRaw)
+  const abilityTable: Record<number, AbilityData> = isNonNullObject<Record<number, AbilityData>>(
+    abilityTableRaw
+  )
     ? abilityTableRaw
     : {}
 
