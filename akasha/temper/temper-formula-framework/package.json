@@ -1,0 +1,42 @@
+{
+  "name": "@akasha/temper-formula-framework",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./arithmetic-evaluate": "./arithmetic-evaluate/arithmetic-evaluate.module.code.ts",
+    "./arithmetic-node": "./arithmetic-node/arithmetic-node.module.code.ts",
+    "./base-stat": "./base-stat/base-stat.module.code.ts",
+    "./branded-id": "./branded-id/branded-id.module.code.ts",
+    "./buff-or-debuff-source": "./buff-or-debuff-source/buff-or-debuff-source.module.code.ts",
+    "./buffs-major": "./buffs-major/buffs-major.module.code.ts",
+    "./buffs-minor": "./buffs-minor/buffs-minor.module.code.ts",
+    "./buffs-other": "./buffs-other/buffs-other.module.code.ts",
+    "./class-id": "./class-id/class-id.module.code.ts",
+    "./debuffs-major": "./debuffs-major/debuffs-major.module.code.ts",
+    "./debuffs-minor": "./debuffs-minor/debuffs-minor.module.code.ts",
+    "./debuffs-other": "./debuffs-other/debuffs-other.module.code.ts",
+    "./display-formula-convert": "./display-formula-convert/display-formula-convert.module.code.ts",
+    "./display-formula-latex": "./display-formula-latex/display-formula-latex.module.code.ts",
+    "./display-formula-node": "./display-formula-node/display-formula-node.module.code.ts",
+    "./display-formula-text": "./display-formula-text/display-formula-text.module.code.ts",
+    "./effect": "./effect/effect.module.code.ts",
+    "./effect-source": "./effect-source/effect-source.module.code.ts",
+    "./effect-value-update": "./effect-value-update/effect-value-update.module.code.ts",
+    "./eso-date": "./eso-date/eso-date.module.code.ts",
+    "./eso-icon-url": "./eso-icon-url/eso-icon-url.module.code.ts",
+    "./map-of": "./map-of/map-of.module.code.ts",
+    "./metric-id": "./metric-id/metric-id.module.code.ts",
+    "./number-format": "./number-format/number-format.module.code.ts",
+    "./random-from": "./random-from/random-from.module.code.ts",
+    "./rating-chance": "./rating-chance/rating-chance.module.code.ts",
+    "./record-parts": "./record-parts/record-parts.module.code.ts",
+    "./skill-source": "./skill-source/skill-source.module.code.ts",
+    "./source-category": "./source-category/source-category.module.code.ts",
+    "./source-file": "./source-file/source-file.module.code.ts",
+    "./topological-sort": "./topological-sort/topological-sort.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/day": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

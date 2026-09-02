@@ -42,6 +42,7 @@ export const temper = {
     "workspace-package/temper-community-addons",
     "eso-addon/temper-lib-media-provider",
     "eso-addon/temper-lib-async",
+    "workspace-package/temper-formula-framework",
   ],
   invariants: [
     {
