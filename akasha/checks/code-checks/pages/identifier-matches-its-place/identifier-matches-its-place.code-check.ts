@@ -84,7 +84,20 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A name bound at the top of a file to a literal is judged as a constant.",
+      statement:
+        "A name bound at the top of a file with `const` to a literal is judged as a constant.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name bound at the top of a file with anything but `const` is not judged.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A name the file can bind again holds a thing the file acts on rather than data.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A name bound with `let` at the top of a file sits in a place no page names.",
     },
     {
       invariantKind: "departure",

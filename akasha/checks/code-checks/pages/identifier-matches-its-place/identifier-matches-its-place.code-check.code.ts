@@ -163,7 +163,9 @@ export function constantsIn(source: ts.SourceFile, at: string): readonly ts.Iden
   const found: ts.Identifier[] = []
   for (const statement of source.statements) {
     if (!ts.isVariableStatement(statement)) continue
-    for (const one of statement.declarationList.declarations) {
+    const holding = statement.declarationList
+    if ((holding.flags & ts.NodeFlags.BlockScoped) !== ts.NodeFlags.Const) continue
+    for (const one of holding.declarations) {
       if (!ts.isIdentifier(one.name) || one.name.text === itself) continue
       if (one.initializer === undefined) continue
       if (writtenOut(heldIn(one.initializer))) found.push(one.name)

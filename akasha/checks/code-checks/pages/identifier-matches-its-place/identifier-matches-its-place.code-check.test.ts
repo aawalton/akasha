@@ -101,6 +101,21 @@ test("a literal is a literal through `as` and `satisfies`", () => {
   expect(said[0]).toContain("the constant `held`")
 })
 
+test("a name the file can bind again is no constant, whatever the literal is", () => {
+  expect(refusedIn(AT, "let initialized = false\n", PLACES)).toEqual([])
+  expect(refusedIn(AT, 'var heldAt = "akasha/"\n', PLACES)).toEqual([])
+})
+
+test("a constant beside a name the file can bind again is judged still", () => {
+  const said = refusedIn(AT, 'let initialized = false\nconst heldAt = "akasha/"\n', PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the constant `heldAt`")
+})
+
+test("a name bound to a resource is no constant", () => {
+  expect(refusedIn(AT, "using heldAt = { [Symbol.dispose]() {} }\n", PLACES)).toEqual([])
+})
+
 test("a value worked out at the top of a file is passed over", () => {
   const body =
     'const held = new Set(["one"])\nconst over = oneIn()\nconst said = `${held}`\n' +
