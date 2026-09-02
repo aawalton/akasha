@@ -71,6 +71,13 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     parts: 1,
   },
   {
+    rendered: "lore-shalidor-data.generated.ts",
+    workspacePackage: "temper-player-completion",
+    moduleSlug: "shalidor-library-collections",
+    partPrefix: "shalidor-library-collections",
+    parts: 2,
+  },
+  {
     rendered: "metric-tree.generated.ts",
     workspacePackage: "temper-characters-stats",
     moduleSlug: "metric-tree-data",
