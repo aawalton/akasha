@@ -67,7 +67,6 @@
     "temper/game-crafting-addon",
     "temper/game-items-core",
     "temper/game-items-rules-core",
-    "temper/game-items-rules-routing-core",
     "temper/player-completion",
     "temper/player-completion-addon",
     "temper/player-completion-skills-morphs-ui",

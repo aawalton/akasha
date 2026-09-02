@@ -2900,19 +2900,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-items-rules-routing-core": {
-      "name": "@temper/game-items-rules-routing-core",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-items-core": "workspace:*",
-        "@temper/game-items-rules-core": "workspace:*",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/player-completion": {
       "name": "@temper/player-completion",
       "version": "0.1.0",
@@ -4522,8 +4509,6 @@
     "@temper/game-items-core": ["@temper/game-items-core@workspace:temper/game-items-core"],
 
     "@temper/game-items-rules-core": ["@temper/game-items-rules-core@workspace:temper/game-items-rules-core"],
-
-    "@temper/game-items-rules-routing-core": ["@temper/game-items-rules-routing-core@workspace:temper/game-items-rules-routing-core"],
 
     "@temper/player-completion": ["@temper/player-completion@workspace:temper/player-completion"],
 
