@@ -1,0 +1,177 @@
+---
+id: cab7d870-2b06-5e50-9596-eb60f1abb0a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 643: End the War"
+slug: 0113-chapter-643-end-the-war
+partOf: rise-of-the-living-forge
+position: 113
+ownLength: 2027
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3900520/chapter-643-end-the-war"
+royalRoadId: "3900520"
+---
+
+One emerged from the flames to find a lone man standing before him.
+
+His lips thinned.
+
+And for the first time since arriving on the battlefield, he ground to a halt. The smell of his burnt flesh and hair lingered in the air around him like a specter of death waiting to take him into its hands. His throat was cracked bleeding, and there were so many weapons jutting out from his body that he felt like an iron porcupine.
+
+“Alrich,” One growled. “So you came. I didn’t think you left the safety of the Guild’s walls anymore.”
+
+“For something like this, you left me no choice,” Alrich said. Sleek gray armor covered the man’s entire body, not leaving a single opening. Even though the equipment didn’t look like it was anything particularly special, it completely reeked of magic.
+
+Alrich wouldn’t have come out here in anything but the best. The man was a coward. He always had been.
+
+“There is always a choice,” One said, drawing on what little of his magic remained.
+
+“Not anymore. You are trying to destroy this kingdom. Did you think we would just sit around while you tore down the ground that we all stand upon?” Alrich asked. “Your terror ends here, One. You’re delusional. And if you really believe that we didn’t know what you were doing… you’re more foolish than I thought.”
+
+“You sad, deluded fool,” One said. He coughed, blood splattering from his lips, but he paid it no mind. “It almost sounds as if you believe your own words. Do you really think you can keep this fake cycle going forever? It will fail. If not today, then in the future. And then everything truly end.”
+
+“We can keep it going,” Alrich said. For a moment, his confidence seemed to falter. Then his jaw set. “We have to. And you will not stop us.”
+
+“I suppose we shall have to see,” One said.
+
+“There is nothing that remains to be seen,” Alrich said. “You are already dead, One. I stand before a walking corpse. Your wounds have already done you in. You just haven’t realized it yet. All I have to do is keep you over here, where you can’t do any damage. There’s a spatial magic block around this entire area. Your guild can’t reinforce you. Most of them are still stuck far behind. The Menagerie’s attempt to attack the Deepmind failed. This is over.”
+
+The half of One’s lips that could still move pulled into a smile. “You truly do think I am a fool. I’m hurt, Alrich. But I suppose I should have expect it. A man can only see the world in the strokes painted by his own mind, and you are not in possession of a brush.”
+
+“Talk all you wish,” Alrich said. “It changes nothing.”
+
+“Only because you are too great a coward to finish me yourself,” One said with a laugh that quickly transformed into a hacking cough. He wiped the blood from his lips with the back of his good hand. “But those who cling to their lives so desperately never truly live, do they? You’re nothing but a hollow shell of a man. Did you ever consider that a magical block wasn’t sufficient to stop us?”
+
+“Not for a moment,” Alrich replied without a second of hesitation. “The barrier is powered by one hundred Guild mages. Every single one of them is at Grandmaster. What do you think you can do against that?”
+
+“Nothing, most likely.” One smiled. “But when did I ever say I needed to break your block to get around it? There are other ways to get my people here.”
+
+Alrich snorted. “Your attempts to bait me into a fight will not work. I know what you seek to do. But am much older than you are. I will not weaken the Guild by giving you a chance to kill me.”
+
+One’s grin grew wider. “So, so selfish. You never did consider the fact that you don’t matter, did you? I wasn’t bluffing, you idiot. A barrier can’t do anything to interfere with Sympathetic Magic.”
+
+Alrich’s confidence faltered for a brief moment. “What are you talking about?”
+
+If Alrich had been a bolder man, he would have cut One down on the spot. But there was fear in his eyes. Even now, when One was on his final breaths, the other man was so desperate to live that he didn’t dare challenge him.
+
+And that was what One had been counting on.
+
+He pressed his hand to his chest, feeling the beat of the last strokes of magic that remained within him. The power that had dragged him this far was at its limit. Even without Alrich in his path, there was precious little he could still accomplish. This body took too much power.
+
+But there was still one more task he could accomplish.
+
+I don’t know if the Menagerie succeeded or not. I pray that they did. But at the very least… I will save these two. I will not fail a second time.
+
+“Thanks for waiting so long, Blake,” One whispered. Murky black light lit around his palm, shimmering as the mote of power pressed against his chest grew brighter and brighter. “I’m coming home.”
+
+“No!” Alrich threw himself back, crossing his arms before his face in preparation for an explosion.
+
+It never came.
+
+Instead, magic roared deep within One. His broken body groaned. Cracks of brilliant golden light cut through the seams in his armor. They grew brighter and brighter, slicing through the battlefield around them as a keen whine filled the air. His entire body ignited with power that flooded out form his skin as if he had transformed into a miniature sun.
+
+Loud screeching groans echoed through the air. The metal half of his face warped, twisting, slowly pulling upward with a horrid crunch.
+
+And for the first time in many years, One smiled with his full face.
+
+Then there was a deafening roar.
+
+A flash of magic and a huge shockwave tore out from One’s body. It ripped across the ground, sending Alrich skidding backward and sending other people through the air like ragdolls as the power connected with them.
+
+Then the light faded.
+
+Where one had stood was nothing but a warped pillar of still-glowing metal, the imbuements covering it searing with such force that they warped the air.
+
+And burning in the air above the pillar was a brilliant gold portal.
+
+Alrich’s eyes went wide.
+
+“Impossible,” he muttered, his words falling from numb lips. “He used his own life to open a portal with Sympathetic Magic? I… that can’t—”
+
+He raised his hand, but it was too late.
+
+A blurred form flew through the portal, landing on the muddied ground before Alrich with a squelch. The symbol embossed on his white armor made it painfully clear who he was with.
+
+It was Setting Sun.
+
+All of them.
+
+Figures dashed out from the portal, streaking through the air. They shot straight past Alrich and raced toward the Hero and Demon Queen behind him. Not a single Guild member was anywhere in a position to stop them. Their forces were mostly concentrated where the fighting had been — outside of the barrier that they’d erected to avoid anyone getting too close.
+
+Not toward Alrich, but toward the Hero and Demon Queen behind him.
+
+***
+
+Arwin and Anna raced down the stairs and into the main room of the Devil’s Den.
+
+And, even in spite of the haste in their steps, Arwin nearly tripped over his own feet. The Den was a complete mess. Huge rifts had torn through the ground to reveal the blackened roots of the demon tree that lived beneath the floor. Many of the roots themselves had been torn completely to shreds.
+
+The furniture had been smashed to pieces, and blood had sprayed across nearly every surface. Several bodies still laid scattered across the ground. Several members of the Menagerie had gathered at the remains of the counter as they desperately fought to catch their breath and recover.
+
+Lillia, Olive, Kien, and Reya, Koyu, and Art. That was it. Eleven was present as well. There was no sign of any other members of the Menagerie or Setting Sun.
+
+But it wasn’t hard to tell where they were.
+
+The sounds of continued fighting continued from the outside. Occasional flashes of magical energy lit the darkened windows and shook the ground. The Menagerie were still holding the line.
+
+At least, Arwin hoped it was them fighting. He didn’t want to think about the alternative.
+
+Those weren’t thoughts he could afford right now. He needed everyone to survive this. No matter how impossible it was, he couldn’t afford to consider anything else.
+
+“Arwin!” Lillia exclaimed, relief washing over her features as she spotted him. She looked exhausted. “You’re okay!”
+
+“Thanks to Reya and Anna,” Arwin said with a grim smile as he skidded to a stop alongside everyone. “But—”
+
+“I’m sorry, Arwin,” Koyu said. His fists clenched at his sides. “I failed you. I failed—”
+
+“No,” Arwin said sharply. “You did not. There wasn’t enough information, Koyu. That’s why you couldn’t figure out what was going on. But I know, now. The Deepmind isn’t a lich at all. Not a full one.”
+
+“What?” Koyu asked. Confusion passed through his metal features.
+
+“It’s a ghost,” Arwin said hurriedly. He held his hand out. The Prism’s Reach materialized in his grip. “Just like you. It bound itself into the green crystals. The same ones that are in this bow. I saw them.”
+
+Koyu blinked. He stared at the weapon for a moment.
+
+Then his eyes went wide in realization.
+
+“There’s no magic to eat in the body because it isn’t a body at all. You were chewing on inanimate objects,” Koyu breathed. His gaze snapped back to meet Arwin’s. “It’s all in the crystal! That’s what the shackles are for! They aren’t keeping the Deepmind trapped in the hole at all. They’re what keep the Deepmind inside its own fake body!”
+
+“Right,” Arwin said. “Which means all the Deepmind’s power is in those damn crystals. And if we destroy those crystals, we take the power away from it.”
+
+“We can kill him,” Koyu whispered.
+
+“It’s made from the same shit from that cave?” Lillia asked in disbelief. “The magic storing crystal? Then you can eat it!”
+
+“Right,” Arwin said. A grim smile crossed his features. “I know I can.”
+
+“Then we need to move,” Reya said. “Now. The Guild’s reinforcements were already there when we left. And I don’t know if we’re going to get another chance at attacking the Deepmind.”
+
+“We won’t,” Eleven said. She coughed into her fist, leaning heavily against the table. The woman looked positively exhausted. She was barely even still standing.  “We’ve used everything we have. I don’t think we’ll be able to rebuild enough to try a second time.”
+
+“We won’t need to,” Arwin said. “Open the portal. Back to the Guildwall. We’re going in.”
+
+“Now? With their reinforcements?” Eleven asked.
+
+“Now,” Arwin said. “You said it yourself. There won’t be another chance. We have to end this. Now.”
+
+“I…” Eleven swallowed. “I can open it. But I won’t be able to hold it. Six is on the field. Even if he wasn’t… I’m spent. Completely. You’ll be on your own.”
+
+Arwin glanced at the members of the Menagerie that remained in the room with him. All that met his gaze were determined stares. They were all tired, worn down, and damn near spent.
+
+But they were ready.
+
+He didn’t need to say a word.
+
+“That’s fine,” Arwin said. He glanced at everyone around him. “I’m far from alone.”
+
+Eleven pushed herself away from the counter. “The Guild’s reinforcements. Are you sure—”
+
+“Don’t even bother asking,” Arwin said with a cold smile. “We’re the Menagerie. Just do me a favor.”
+
+“What?” Eleven asked.
+
+“Tell the others we went to end the war,” Arwin said. “Now open the portal.”
+
+Eleven smiled. She drew in a deep breath. Then, with a groan through clenched teeth, she pulled open a weak, sputtering gateway.
+
+The Menagerie charged into it.
