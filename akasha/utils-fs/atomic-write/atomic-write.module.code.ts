@@ -20,6 +20,16 @@ function tempPathFor(path: string): string {
   return `${path}.tmp-${process.pid}-${Math.random().toString(36).slice(2, 10)}`
 }
 
+function sleepSync(ms: number): undefined {
+  Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
+}
+
+function sleep(ms: number): Promise<undefined> {
+  return new Promise((resolve) => {
+    setTimeout(() => resolve(undefined), ms)
+  })
+}
+
 function retrySync<T>(fn: () => T, label: string, onRetry?: (message: string) => void): T {
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
@@ -27,7 +37,7 @@ function retrySync<T>(fn: () => T, label: string, onRetry?: (message: string) =>
     } catch (err) {
       if (!isBusyError(err) || attempt === MAX_ATTEMPTS) throw err
       onRetry?.(`retrying ${label} (attempt ${attempt}/${MAX_ATTEMPTS})`)
-      Bun.sleepSync(BACKOFF_MS[attempt - 1] ?? 3200)
+      sleepSync(BACKOFF_MS[attempt - 1] ?? 3200)
     }
   }
   throw new Error("unreachable")
@@ -44,7 +54,7 @@ async function retryAsync<T>(
     } catch (err) {
       if (!isBusyError(err) || attempt === MAX_ATTEMPTS) throw err
       onRetry?.(`retrying ${label} (attempt ${attempt}/${MAX_ATTEMPTS})`)
-      await Bun.sleep(BACKOFF_MS[attempt - 1] ?? 3200)
+      await sleep(BACKOFF_MS[attempt - 1] ?? 3200)
     }
   }
   throw new Error("unreachable")

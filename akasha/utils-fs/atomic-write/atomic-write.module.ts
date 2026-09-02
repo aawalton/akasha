@@ -23,5 +23,21 @@ export const atomicWrite = {
       invariantKind: "constraint",
       statement: "Five attempts are made at the most.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The wait between attempts reaches no `Bun` global.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a retry ever waits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A runtime holding no `Bun` read this module as working until a write was busy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The editor's extension host holds no `Bun`.",
+    },
   ],
 } as const satisfies Module
