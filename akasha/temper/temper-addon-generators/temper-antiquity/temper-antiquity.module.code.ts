@@ -6,7 +6,7 @@ const ANTIQUITY_SCHEMA = z
     id: z.string(),
     esoAntiquityId: z.number(),
     antiquityName: z.string(),
-    esoSetId: z.number(),
+    esoAntiquitySetId: z.number(),
     totalLoreEntries: z.number(),
   })
   .strict()
@@ -45,7 +45,7 @@ function categoryOf(row: Page): OutCategory {
     antiquities: antiquities.map((one) => ({
       antiquityId: one.esoAntiquityId,
       name: one.antiquityName,
-      setId: one.esoSetId,
+      setId: one.esoAntiquitySetId,
       totalLoreEntries: one.totalLoreEntries,
     })),
   }

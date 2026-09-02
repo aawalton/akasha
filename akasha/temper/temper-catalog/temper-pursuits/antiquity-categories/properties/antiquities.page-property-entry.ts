@@ -11,7 +11,7 @@ export const antiquities = {
   properties: [
     { pagePropertySlug: "eso-antiquity-id", required: true, many: false },
     { pagePropertySlug: "antiquity-name", required: true, many: false },
-    { pagePropertySlug: "eso-set-id", required: true, many: false },
+    { pagePropertySlug: "eso-antiquity-set-id", required: true, many: false },
     { pagePropertySlug: "total-lore-entries", required: true, many: false },
   ],
   invariants: [

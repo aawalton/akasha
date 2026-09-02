@@ -18,6 +18,7 @@ export const temperAntiquityCategory = {
   partSlugs: [
     "number-property/eso-antiquity-category-id",
     "number-property/eso-antiquity-id",
+    "number-property/eso-antiquity-set-id",
     "number-property/total-lore-entries",
     "page-property-entry/antiquities",
     "text-property/antiquity-name",
