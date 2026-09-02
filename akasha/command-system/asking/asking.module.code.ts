@@ -3,6 +3,7 @@ import { join } from "node:path"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code-system/code-format"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
+import { INSIDE } from "../change-freshness/change-freshness.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
@@ -288,10 +289,16 @@ function reporting(root: string, asked: Asked, gate: Judging, aside: readonly st
   }
 }
 
+export const WARRANTED = `${INSIDE}/`
+
+export function warranted(path: string): boolean {
+  return path.startsWith(WARRANTED)
+}
+
 export function recordLanded(given: Given, changes: readonly FileEdit[]): undefined {
   if (given.agentId === null) return
   for (const one of changes) {
-    if (one.body === null) continue
+    if (one.body === null || !warranted(one.path)) continue
     recordRead(given.root, given.agentId, {
       path: one.path,
       oid: blobIdOf(one.body),
@@ -305,6 +312,7 @@ export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly R
   if (given.agentId === null) return []
   const held: Reading[] = []
   for (const one of changes) {
+    if (!warranted(one.path)) continue
     const seen = readingIn(given.root, given.agentId, one.path)
     if (seen !== null) held.push(seen)
   }

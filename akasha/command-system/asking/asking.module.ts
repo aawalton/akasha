@@ -73,6 +73,18 @@ export const asking = {
         "A lockfile this command made for the change is held to no reading of the caller's.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A reading is taken of what is under `akasha/` alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path outside `akasha/` is recorded as read by nobody.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path outside `akasha/` is held to no reading of the caller's.",
+    },
+    {
       invariantKind: "departure",
       statement: "Reaching a body tells a path standing at nothing from one that will not open.",
     },
