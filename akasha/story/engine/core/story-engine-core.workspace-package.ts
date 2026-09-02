@@ -12,6 +12,7 @@ export const storyEngineCore = {
     "module/audit-record-schema",
     "module/backfill-turns",
     "module/beat-schema",
+    "module/chapter-words",
     "module/choice-action",
     "module/design-schema",
     "module/display-defaults",

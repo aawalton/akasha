@@ -8,6 +8,7 @@
     "./audit-record-schema": "./audit-record-schema/audit-record-schema.module.code.ts",
     "./backfill-turns": "./backfill-turns/backfill-turns.module.code.ts",
     "./beat-schema": "./beat-schema/beat-schema.module.code.ts",
+    "./chapter-words": "./chapter-words/chapter-words.module.code.ts",
     "./choice-action": "./choice-action/choice-action.module.code.ts",
     "./design-schema": "./design-schema/design-schema.module.code.ts",
     "./display-defaults": "./display-defaults/display-defaults.module.code.ts",

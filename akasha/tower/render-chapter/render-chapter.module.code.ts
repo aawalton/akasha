@@ -1,6 +1,6 @@
+import { chapterWords } from "@akasha/story-engine-core/chapter-words"
 import type { Beat, ChapterEntry } from "@akasha/tower-core/tower-state"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { countChapterWords } from "@stories/text"
 
 export type RenderedChapter = {
   text: string
@@ -8,7 +8,7 @@ export type RenderedChapter = {
 }
 
 export function countWords(text: string): number {
-  return countChapterWords(text)
+  return chapterWords(text)
 }
 
 function renderNarrative(beat: Beat): string {
