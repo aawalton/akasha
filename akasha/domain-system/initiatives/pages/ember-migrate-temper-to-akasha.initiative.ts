@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "The registry is 57 rows and 55 of the 56 rendered tables have a destination, but the shape is wrong: 436 module pages across 57 tables, 361 of them in six (100, 88, 85, 41, 26, 21). A rendered table is data and lands as a page with entries, as the completion tables already do, rather than as numbered code parts. `skill-line-mappings` wants its render deleted: all ten exports are declared already. The generator no longer aborts, but does again once `player-completion` ablates.",
+        "My 436-parts figure counted a plan as an artifact: `ADDON_DATA_TARGETS` has zero consumers, `temper-addon-data-generate` is a refusing stub, and five of the six worst rows have no parts on disk. Only `character-skills-from-pages` (85) and the sets table (124 on disk as `sets-data-NNN`, where the row says 100 and pads to two digits) are real series, and neither reaches an addon. 176 further parts are already entries and want their rows deleted, not converted.",
     },
     {
       statement: "No part of temper is outside akasha.",
