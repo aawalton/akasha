@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "A package moves once its own dependencies are in akasha, whether or not the source is gone, so the level-1 wave is open. Three hubs gate most of the wave and a seat has each: `catalog-core` (7 dependents), `shared-capture-host` (6), `shared-formula-framework` (4). 25 `@akasha/temper-*` packages are linked. `page-type/type-declaration` lets a `.d.ts` keep the name a compiler reads, unblocking some thirty addon packages. Teardown is proven, and each seat greps for its own consumers.",
+        "A package moves once its dependencies are in akasha, whether or not the source is gone. Three hubs gate most of the wave and a seat has each: `catalog-core` (7 dependents), `shared-capture-host` (6), `shared-formula-framework` (4). Thirty addon packages wait on one shared set of ESO declarations; thirteen seats each wrote their own, and the collision answers 245 refusals at audit, so one seat owns deleting all thirteen. No `type-declaration` page has landed. Teardown is proven twice.",
     },
   ],
   constraints: [
