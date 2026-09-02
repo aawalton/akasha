@@ -1,16 +1,16 @@
 "use client"
 
-import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
-import { ruleFingerprint } from "@temper/game-items-rules-core/filters/rule-fingerprint"
-import { classifyRule } from "@temper/game-items-rules-core/inventory-rule-classify"
-import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
-import { buildAllControlledRules } from "@temper/game-items-rules-core/inventory-rule-controlled"
+import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
+import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
+import { classifyRule } from "@akasha/temper-items-rules-core/inventory-rule-classify"
+import type { ControlledRule } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
+import { buildAllControlledRules } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
 import type {
   CategoryRule,
   InventoryRuleSettings,
   ItemRule,
-} from "@temper/game-items-rules-core/inventory-rule-types"
-import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { ruleFingerprint } from "@akasha/temper-items-rules-core/rule-fingerprint"
 import { useDeferredValue, useMemo } from "react"
 
 export interface AssembledInventoryRules {
