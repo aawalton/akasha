@@ -12,3 +12,18 @@ interface ArkadiusTradeToolsSalesApi {
 }
 
 declare const ArkadiusTradeToolsSales: ArkadiusTradeToolsSalesApi | undefined
+
+interface ArkadiusTradeToolsSalesModule {
+  addMenuItems?: unknown
+  GetAveragePricePerItem: (
+    this: ArkadiusTradeToolsSalesModule,
+    itemLink: string,
+    sinceTimestamp: number
+  ) => number | undefined
+}
+
+interface ArkadiusTradeToolsApi {
+  Modules?: { Sales?: ArkadiusTradeToolsSalesModule }
+}
+
+declare const ArkadiusTradeTools: ArkadiusTradeToolsApi | undefined

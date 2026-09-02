@@ -38,6 +38,7 @@
     "./lib-undaunted-pledges": "./lib-undaunted-pledges/lib-undaunted-pledges.type-declaration.d.ts",
     "./master-merchant": "./master-merchant/master-merchant.type-declaration.d.ts",
     "./temper-hud-global": "./temper-hud-global/temper-hud-global.type-declaration.d.ts",
-    "./lib-group-broadcast": "./lib-group-broadcast/lib-group-broadcast.type-declaration.d.ts"
+    "./lib-group-broadcast": "./lib-group-broadcast/lib-group-broadcast.type-declaration.d.ts",
+    "./furniture-catalogue": "./furniture-catalogue/furniture-catalogue.type-declaration.d.ts"
   }
 }

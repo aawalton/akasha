@@ -1,0 +1,25 @@
+{
+  "name": "@akasha/temper-lib-price",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./price-types": "./price-types/price-types.module.code.ts",
+    "./price-constants": "./price-constants/price-constants.module.code.ts",
+    "./price-casts": "./price-casts/price-casts.module.code.ts",
+    "./price-lua-truthy": "./price-lua-truthy/price-lua-truthy.module.code.ts",
+    "./price-log": "./price-log/price-log.module.code.ts",
+    "./price-state": "./price-state/price-state.module.code.ts",
+    "./price-cache": "./price-cache/price-cache.module.code.ts",
+    "./price-sources-mm": "./price-sources-mm/price-sources-mm.module.code.ts",
+    "./price-sources-att": "./price-sources-att/price-sources-att.module.code.ts",
+    "./price-sources-ttc": "./price-sources-ttc/price-sources-ttc.module.code.ts",
+    "./price-sources-crown": "./price-sources-crown/price-sources-crown.module.code.ts",
+    "./price-sources-rolis": "./price-sources-rolis/price-sources-rolis.module.code.ts",
+    "./price-sources-npc": "./price-sources-npc/price-sources-npc.module.code.ts",
+    "./price-sources-furc": "./price-sources-furc/price-sources-furc.module.code.ts",
+    "./price-dispatch": "./price-dispatch/price-dispatch.module.code.ts",
+    "./price-api": "./price-api/price-api.module.code.ts",
+    "./price-public-api": "./price-public-api/price-public-api.module.code.ts",
+    "./price-main": "./price-main/price-main.module.code.ts"
+  }
+}
