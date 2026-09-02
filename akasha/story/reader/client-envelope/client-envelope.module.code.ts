@@ -63,3 +63,9 @@ export const AwenDisplayPropsSchema = z
     initialEnvelope: SessionEnvelopeSchema,
   })
   .strict()
+
+export type ResolvedGameDisplay = z.infer<typeof ResolvedGameDisplaySchema>
+
+export type AwenDisplayProps = z.infer<typeof AwenDisplayPropsSchema>
+
+export type AwenGame = AwenDisplayProps["game"]
