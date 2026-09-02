@@ -12,6 +12,22 @@
     "./zone-geo-data-01": "./zone-geo-data-01/zone-geo-data-01.module.code.ts",
     "./zone-geo-data-02": "./zone-geo-data-02/zone-geo-data-02.module.code.ts",
     "./zone-geo-data": "./zone-geo-data/zone-geo-data.module.code.ts",
+    "./zone-names-de-00": "./zone-names-de-00/zone-names-de-00.module.code.ts",
+    "./zone-names-de-01": "./zone-names-de-01/zone-names-de-01.module.code.ts",
+    "./zone-names-de-02": "./zone-names-de-02/zone-names-de-02.module.code.ts",
+    "./zone-names-de-03": "./zone-names-de-03/zone-names-de-03.module.code.ts",
+    "./zone-names-en-00": "./zone-names-en-00/zone-names-en-00.module.code.ts",
+    "./zone-names-en-01": "./zone-names-en-01/zone-names-en-01.module.code.ts",
+    "./zone-names-en-02": "./zone-names-en-02/zone-names-en-02.module.code.ts",
+    "./zone-names-es-00": "./zone-names-es-00/zone-names-es-00.module.code.ts",
+    "./zone-names-es-01": "./zone-names-es-01/zone-names-es-01.module.code.ts",
+    "./zone-names-es-02": "./zone-names-es-02/zone-names-es-02.module.code.ts",
+    "./zone-names-es-03": "./zone-names-es-03/zone-names-es-03.module.code.ts",
+    "./zone-names-fr-00": "./zone-names-fr-00/zone-names-fr-00.module.code.ts",
+    "./zone-names-fr-01": "./zone-names-fr-01/zone-names-fr-01.module.code.ts",
+    "./zone-names-fr-02": "./zone-names-fr-02/zone-names-fr-02.module.code.ts",
+    "./zone-names-fr-03": "./zone-names-fr-03/zone-names-fr-03.module.code.ts",
+    "./zone-names-jp-00": "./zone-names-jp-00/zone-names-jp-00.module.code.ts",
     "./zone-public-dungeon-map-ids": "./zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
   }
 }
