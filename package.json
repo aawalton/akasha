@@ -54,7 +54,6 @@
     "temper/player-completion-ui",
     "temper/player-economics-ui",
     "temper/player-profile",
-    "temper/player-quests-addon",
     "temper/scripts",
     "temper/shared-interface-keybinder-addon",
     "temper/web",
