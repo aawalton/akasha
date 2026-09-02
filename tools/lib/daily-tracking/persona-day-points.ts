@@ -1,7 +1,7 @@
 import { z } from "zod"
 import { askComposed, pageLanding } from "../page-query-client.ts"
-import { DEFAULT_GREEN_DAY_POINTS, kebabKey, WRITER } from "./tracking-modules.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
+import { greenDayPointsOf, kebabKey, WRITER } from "./tracking-modules.ts"
 import type { WriteOutcome } from "./tracking-types.ts"
 
 export const PERSONA_DAY_PAGE_TYPE_SLUG = "persona-day"
@@ -38,7 +38,10 @@ export async function resolvePersonaBySlug(slug: string): Promise<PersonaDayTarg
     slug: match.slug ?? wanted,
     title: match.title ?? slug,
     ...(match.valueSlug === undefined ? {} : { valueSlug: match.valueSlug }),
-    greenDayPoints: match.greenDayPoints ?? DEFAULT_GREEN_DAY_POINTS,
+    greenDayPoints: greenDayPointsOf({
+      slug: match.slug ?? wanted,
+      greenDayPoints: match.greenDayPoints,
+    }),
   }
 }
 

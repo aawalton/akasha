@@ -1,19 +1,11 @@
 import {
-  DEFAULT_GREEN_DAY_POINTS,
-  getEsoDayWindow,
-  numberOf,
-  SOURCE_POINTS_FIELD,
-  textOf,
-  WRITER,
-} from "./tracking-modules.ts"
-import {
   allSessions,
   sessionPropertyDefinitions,
   sessionPropertyUndeclared,
 } from "../tracking/day-place.ts"
 import { type PersonaDayTarget, patchPersonaDayField } from "./persona-day-points.ts"
-import { landTotalPoints } from "./persona-total-landing.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
+import { landTotalPoints } from "./persona-total-landing.ts"
 import {
   PERSONA_PAGE_TYPE_SLUG,
   PersonaSessionRowSchema,
@@ -22,6 +14,14 @@ import {
   sumSessionPointsForValue,
   sumSessionPointsForWindow,
 } from "./session-points-compute.ts"
+import {
+  getEsoDayWindow,
+  greenDayPointsOf,
+  numberOf,
+  SOURCE_POINTS_FIELD,
+  textOf,
+  WRITER,
+} from "./tracking-modules.ts"
 import type { PropertyDefinition, ReadonlyJSONValue } from "./tracking-types.ts"
 
 export interface PersonaSessionSpec {
@@ -115,12 +115,7 @@ export async function writeSessionPointsTotalForPersona(
 
   const { patches, outcomes } = planPersonaSessionWrite(total, persona)
   for (const patch of patches) {
-    const landed = await landTotalPoints(
-      patch.pageTypeSlug,
-      patch.slug,
-      patch.totalPoints,
-      WRITER
-    )
+    const landed = await landTotalPoints(patch.pageTypeSlug, patch.slug, patch.totalPoints, WRITER)
     if (!landed.ok) throw new Error(`the ${patch.slug} session total went unwritten: ${landed.why}`)
   }
 
@@ -154,7 +149,10 @@ export async function writeSessionPointsDailyForPersona(
     slug: persona.slug ?? persona.id,
     title: persona.title ?? persona.slug ?? persona.id,
     ...(persona.valueSlug === undefined ? {} : { valueSlug: persona.valueSlug }),
-    greenDayPoints: numberOf(persona.greenDayPoints) ?? DEFAULT_GREEN_DAY_POINTS,
+    greenDayPoints: greenDayPointsOf({
+      slug: persona.slug ?? persona.id,
+      greenDayPoints: numberOf(persona.greenDayPoints),
+    }),
   }
 
   const days: SessionDailyOutcome[] = []
