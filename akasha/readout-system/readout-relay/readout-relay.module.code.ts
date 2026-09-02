@@ -1,3 +1,5 @@
+import { existsSync } from "node:fs"
+import { resolve } from "node:path"
 import { saidBy } from "@akasha/command-system/fault-saying"
 import { z } from "zod"
 import { RELAY_SECRET_HEADER } from "../readout-credential/readout-credential.module.code.ts"
@@ -18,6 +20,15 @@ export const NOWHERE_TO_CARRY_TO =
 export const NO_SECRET_TO_CARRY_ON =
   `${RELAY_SECRET_NAME} is not set, so a reading carried would be refused. It is the secret the ` +
   "site names for the machine its readings are taken on."
+
+export const JOURNAL_ERROR_LEVEL = "<3>"
+
+export function noReadoutPageAt(page: string): string {
+  return (
+    `${JOURNAL_ERROR_LEVEL}relay wiring fault: no readout page is at '${page}', so this relay ` +
+    "carries nothing, and will go on carrying nothing until the path it names is put right"
+  )
+}
 
 export type Relayed = Reading & { readonly readout: string }
 
@@ -84,6 +95,11 @@ export function statedIn(open: Record<string, string | undefined>, name: string)
   return stated === undefined || stated === "" ? null : stated
 }
 
+export function readoutPageAt(root: string, page: string): string | null {
+  const full = resolve(root, page)
+  return existsSync(full) ? full : null
+}
+
 if (import.meta.main) {
   const page = (process.argv[2] ?? "").trim()
   const to = (process.argv[3] ?? "").trim()
@@ -101,6 +117,10 @@ if (import.meta.main) {
     process.exit(2)
   }
   const root = process.env.AKASHA_ROOT ?? process.cwd()
+  if (readoutPageAt(root, page) === null) {
+    process.stderr.write(`${noReadoutPageAt(page)}\n`)
+    process.exit(3)
+  }
   const kept = readingKept(root, page)
   if (kept === null) {
     process.stderr.write(`${page} stands beside no reading, so there is none to carry\n`)
