@@ -17,6 +17,6 @@
     "luaLibImport": "require-minimal",
     "noImplicitSelf": true
   },
-  "include": ["src/**/*.ts", "../../akasha/temper/temper-eso-types/**/*.d.ts", "../addons/types/libs/**/*.d.ts"],
+  "include": ["src/**/*.ts", "../../akasha/temper/temper-eso-types/**/*.d.ts", "../../akasha/temper/temper-addon-library-types/**/*.d.ts"],
   "exclude": ["src/**/*.test.ts"]
 }
