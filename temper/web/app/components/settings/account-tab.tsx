@@ -1,16 +1,22 @@
 "use client"
 
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Input } from "@akasha/design-primitives/input"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import type { SupabaseUser } from "@akasha/supabase-auth/supabase-user"
-import type { ProfileMetadata } from "@temper/game-characters/build-metadata"
+import type { ProfileMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { useCraftBagAccess } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { usePlayer } from "@temper/player-profile/use-player"
 import { useCallback, useEffect, useState } from "react"
-import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import {
   type CraftBagAccessValue,
   fromCraftBagAccessValue,
