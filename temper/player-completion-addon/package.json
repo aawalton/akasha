@@ -10,7 +10,7 @@
     "@akasha/temper-settings-panel": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/temper-characters-capture-addon": "workspace:*",
-    "@temper/game-characters-skills-morphs-addon": "workspace:*",
+    "@akasha/temper-characters-skills-morphs-addon": "workspace:*",
     "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-hud-window": "workspace:*"
   },
