@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/temper-characters-stats",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./formula-types": "./formula-types/formula-types.module.code.ts",
+    "./metric-template": "./metric-template/metric-template.module.code.ts",
+    "./metric-tree-types": "./metric-tree-types/metric-tree-types.module.code.ts",
+    "./metric-value-types": "./metric-value-types/metric-value-types.module.code.ts",
+    "./source-lookup": "./source-lookup/source-lookup.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-alchemy": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
