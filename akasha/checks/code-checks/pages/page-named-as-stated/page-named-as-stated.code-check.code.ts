@@ -113,8 +113,7 @@ export function reasonsIn(
     )
   }
   const wanted = exportedAs(first.slug)
-  const sent = first.named === wanted ? null : sentIn(given.path, body)
-  if (first.named !== wanted && sent?.get(wanted) !== first.named) {
+  if (first.named !== wanted) {
     const bound = first.named === null ? "bound to no name" : `bound as \`${first.named}\``
     found.push(
       `the page is ${bound}, and the slug it states is named \`${wanted}\` — a page's exported ` +
