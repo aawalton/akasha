@@ -32,6 +32,7 @@ export const commandSystem = {
     "module/body-merging",
     "module/patching",
     "module/drafting",
+    "module/applying",
   ],
   invariants: [
     {
