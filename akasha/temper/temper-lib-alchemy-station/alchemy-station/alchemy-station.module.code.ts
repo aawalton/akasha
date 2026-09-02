@@ -1,5 +1,3 @@
-import "../alchemy-station-declarations/alchemy-station-declarations.module.code.ts"
-
 import type {
   AlchemyDescriptor,
   LasTabData,
