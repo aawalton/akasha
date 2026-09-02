@@ -75,6 +75,27 @@ export const agentHook = {
         "A hook binds an agent from its next spawn after the page lands rather than mid-session.",
     },
     {
+      invariantKind: "departure",
+      statement: "A hook's code file answers to `ran`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A runner of hooks calls `ran`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A registration names a hook by its slug rather than by the path of its code.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What that slug reaches is worked out at the call rather than at the spawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A registration naming a hook nothing reaches refuses the call rather than passing the call.",
+    },
+    {
       invariantKind: "stopgap",
       statement:
         "What works the registration out sits outside akasha until akasha answers for its own settings.",

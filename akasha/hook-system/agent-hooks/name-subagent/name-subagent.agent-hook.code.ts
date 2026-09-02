@@ -112,6 +112,8 @@ export async function ranAsNaming(
   }
 }
 
-if (import.meta.main) {
-  process.exit(await ranAsNaming(process.env))
+export async function ran(): Promise<number> {
+  return await ranAsNaming(process.env)
 }
+
+if (import.meta.main) process.exit(await ran())

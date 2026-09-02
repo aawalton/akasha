@@ -122,6 +122,8 @@ export async function ranAsStating(
   return ASIDE
 }
 
-if (import.meta.main) {
-  process.exit(await ranAsStating(process.env, import.meta.path))
+export async function ran(): Promise<number> {
+  return await ranAsStating(process.env, import.meta.path)
 }
+
+if (import.meta.main) process.exit(await ran())

@@ -170,4 +170,8 @@ async function main(): Promise<number> {
   return REFUSED
 }
 
-if (import.meta.main) process.exit(await main())
+export async function ran(): Promise<number> {
+  return await main()
+}
+
+if (import.meta.main) process.exit(await ran())

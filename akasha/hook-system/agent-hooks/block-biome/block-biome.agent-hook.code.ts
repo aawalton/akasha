@@ -99,6 +99,8 @@ export function refusalIn(command: string, from: string, root: string): string |
   return refusalOver(segmentsOf(command), (segment) => (biomeIn(segment) ? REFUSAL : null))
 }
 
-if (import.meta.main) {
-  process.exit(await ranAsHook(HOOK, "command", SCOPE, import.meta.path, refusalIn))
+export async function ran(): Promise<number> {
+  return await ranAsHook(HOOK, "command", SCOPE, import.meta.path, refusalIn)
 }
+
+if (import.meta.main) process.exit(await ran())

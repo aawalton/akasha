@@ -65,6 +65,8 @@ export function refusalIn(filePath: string, from: string, root: string): string 
   return insideOf(settled(join(here, PAGES)), at) ? refusalFor(shownIn(here, at)) : null
 }
 
-if (import.meta.main) {
-  process.exit(await ranAsHook(HOOK, FILE_PATH, SCOPE, import.meta.path, refusalIn))
+export async function ran(): Promise<number> {
+  return await ranAsHook(HOOK, FILE_PATH, SCOPE, import.meta.path, refusalIn)
 }
+
+if (import.meta.main) process.exit(await ran())
