@@ -24,17 +24,19 @@ import {
   resolveRelationshipIds,
 } from "./tracking/relationships.ts"
 import {
+  listSessionActivities,
+  normalizeSessionActivities,
+  setActivityDefault,
+} from "./tracking/activities.ts"
+import {
   blockDay,
   DAILY_TRACKING_VERSION,
   ensureNoOpenSession,
   findOpenSession,
   findPriorClosedSession,
   listDaySessions,
-  listSessionActivities,
-  normalizeSessionActivities,
   requireOpenSession,
   resolveOrCreateDaily,
-  setActivityDefault,
   TRACKING_WRITER,
 } from "./tracking/resolve.ts"
 import {
