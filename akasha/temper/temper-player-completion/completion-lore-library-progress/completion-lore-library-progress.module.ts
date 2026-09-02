@@ -6,6 +6,7 @@ export const completionLoreLibraryProgress = {
   slug: "completion-lore-library-progress",
   definition: "the shalidor books each character has read, counted by collection",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
