@@ -7,6 +7,7 @@ export const temperLibAlchemyStation = {
   definition: "the tabs other addons add to the game's alchemy crafting station",
   manifest: "json",
   addonManifest: "json",
+  bundleEntrySlug: "alchemy-station-entry",
   partSlugs: [
     "module/alchemy-station",
     "module/alchemy-station-casts",

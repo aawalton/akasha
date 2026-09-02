@@ -7,6 +7,7 @@ export const temperLibMediaProvider = {
   definition: "the fonts, textures and sounds addons share with each other",
   manifest: "json",
   addonManifest: "json",
+  bundleEntrySlug: "media-main",
   partSlugs: [
     "module/media-declarations",
     "module/media-types",

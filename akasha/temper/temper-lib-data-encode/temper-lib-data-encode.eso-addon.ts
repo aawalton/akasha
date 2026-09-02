@@ -7,6 +7,7 @@ export const temperLibDataEncode = {
   definition: "an arbitrary Lua table packed into text the game may carry and read back",
   manifest: "json",
   addonManifest: "json",
+  bundleEntrySlug: "data-encode-entry",
   partSlugs: [
     "module/data-encode-surface",
     "module/data-encode-encoder",

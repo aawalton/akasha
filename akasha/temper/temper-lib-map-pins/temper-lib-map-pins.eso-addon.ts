@@ -7,6 +7,7 @@ export const temperLibMapPins = {
   definition: "an addon library adding custom pins and their filter checkboxes to the world map",
   manifest: "json",
   addonManifest: "json",
+  bundleEntrySlug: "map-pins-main",
   partSlugs: [
     "module/map-pins-casts",
     "module/map-pins-constants",
