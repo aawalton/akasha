@@ -1,0 +1,9 @@
+{
+  "name": "@akasha/location-traces-access",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./trace-shape": "./trace-shape/trace-shape.module.code.ts",
+    "./trace-insert": "./trace-insert/trace-insert.module.code.ts"
+  }
+}
