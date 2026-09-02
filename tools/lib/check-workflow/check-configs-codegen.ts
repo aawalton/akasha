@@ -41,7 +41,7 @@ export const CODEGEN_CHECKS: CheckConfig[] = [
       "ts-file:instructions:akasha/temper/temper-addon-generators/temper-comparison-op/temper-comparison-op.module.code.ts",
       "ts-file:instructions:akasha/temper/temper-addon-generators/temper-rotation-breakdown-row/temper-rotation-breakdown-row.module.code.ts",
       "ts-file:instructions:akasha/temper/temper-addon-generators/temper-skill-bars/temper-skill-bars.module.code.ts",
-      "ts-file:instructions:tools/lib/temper-addon-data/generators/temper-skill-point.ts",
+      "ts-file:instructions:akasha/temper/temper-addon-generators/temper-skill-point/temper-skill-point.module.code.ts",
       "ts-file:instructions:akasha/temper/temper-addon-generators/temper-skill-slot/temper-skill-slot.module.code.ts",
       "ts-file:instructions:akasha/temper/temper-addon-generators/temper-skill-type/temper-skill-type.module.code.ts",
       "ts-file:instructions:akasha/temper/temper-addon-generators/temper-special-effect-type/temper-special-effect-type.module.code.ts",

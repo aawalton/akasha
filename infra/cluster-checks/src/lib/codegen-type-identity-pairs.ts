@@ -28,8 +28,8 @@ function gen(slug: string): string {
   return `${GEN}/${slug}/${slug}.module.code.ts`
 }
 const COMPANIONS_SNAP = "temper/game-companions-core/src/generated"
-const SKILLS_SNAP = "temper/game-characters-skills/src/generated"
-const CHAR_SNAP = "temper/game-characters-character/src/generated"
+const SKILL_KINDS = "akasha/temper/temper-skill-kinds"
+const CHARACTER_SOURCES = "akasha/temper/temper-character-sources"
 const SKILL_LINES_SNAP = "akasha/temper/temper-skill-lines/skill-line-category-data"
 const EQUIPMENT_KINDS = "akasha/temper/temper-equipment-kinds"
 const COMPLETION_SNAP = "temper/player-completion/src/generated"
@@ -120,7 +120,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "character-role-rank",
     canonical: {
       repo: "code",
-      file: `${CHAR_SNAP}/temper-character-role.generated.ts`,
+      file: `${CHARACTER_SOURCES}/character-roles/character-roles.module.code.ts`,
       kind: "object-keys",
       symbol: "ROLE_DATA",
     },
@@ -135,9 +135,9 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "target-scope-precedence",
     canonical: {
       repo: "code",
-      file: `${SKILLS_SNAP}/temper-target-scope.generated.ts`,
+      file: `${SKILL_KINDS}/target-scopes/target-scopes.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_TARGET_SCOPES",
+      symbol: "TARGET_SCOPE_DATA",
     },
     mirror: {
       repo: "instructions",
@@ -150,9 +150,9 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "target-type-precedence",
     canonical: {
       repo: "code",
-      file: `${SKILLS_SNAP}/temper-target-type.generated.ts`,
+      file: `${SKILL_KINDS}/target-types/target-types.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_TARGET_TYPES",
+      symbol: "TARGET_TYPE_DATA",
     },
     mirror: {
       repo: "instructions",
@@ -165,9 +165,9 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "status-effect-type-precedence",
     canonical: {
       repo: "code",
-      file: `${SKILLS_SNAP}/temper-status-effect-type.generated.ts`,
+      file: `${SKILL_KINDS}/status-effect-types/status-effect-types.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_STATUS_EFFECT_TYPES",
+      symbol: "STATUS_EFFECT_TYPE_DATA",
     },
     mirror: {
       repo: "instructions",
@@ -180,9 +180,9 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "special-effect-type-precedence",
     canonical: {
       repo: "code",
-      file: `${SKILLS_SNAP}/temper-special-effect-type.generated.ts`,
+      file: `${SKILL_KINDS}/special-effect-types/special-effect-types.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_SPECIAL_EFFECT_TYPES",
+      symbol: "SPECIAL_EFFECT_TYPE_DATA",
     },
     mirror: {
       repo: "instructions",
@@ -315,9 +315,9 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "skill-bars-precedence",
     canonical: {
       repo: "code",
-      file: `${SKILLS_SNAP}/temper-skill-bars.generated.ts`,
+      file: `${SKILL_KINDS}/skill-bars/skill-bars.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_SKILL_BARS",
+      symbol: "SKILL_BAR_DATA",
     },
     mirror: {
       repo: "instructions",
@@ -330,9 +330,9 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "skill-slot-precedence",
     canonical: {
       repo: "code",
-      file: `${SKILLS_SNAP}/temper-skill-slot.generated.ts`,
+      file: `${SKILL_KINDS}/skill-slots/skill-slots.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_SKILL_SLOTS",
+      symbol: "SKILL_SLOT_DATA",
     },
     mirror: {
       repo: "instructions",
@@ -345,9 +345,9 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "skill-type-precedence",
     canonical: {
       repo: "code",
-      file: `${SKILLS_SNAP}/temper-skill-type.generated.ts`,
+      file: `${SKILL_KINDS}/skill-types/skill-types.module.code.ts`,
       kind: "object-keys",
-      symbol: "TEMPER_SKILL_TYPES",
+      symbol: "SKILL_TYPE_DATA",
     },
     mirror: {
       repo: "instructions",
@@ -412,7 +412,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: "tools/lib/temper-addon-data/generators/temper-skill-point.ts",
+      file: "akasha/temper/temper-addon-generators/temper-skill-point/temper-skill-point.module.code.ts",
       kind: "object-keys",
       symbol: "GENERAL_KEY_RANK",
     },
@@ -428,7 +428,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: "tools/lib/temper-addon-data/generators/temper-skill-point.ts",
+      file: "akasha/temper/temper-addon-generators/temper-skill-point/temper-skill-point.module.code.ts",
       kind: "object-keys",
       symbol: "ZONE_KEY_RANK",
     },
@@ -444,7 +444,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: "tools/lib/temper-addon-data/generators/temper-skill-point.ts",
+      file: "akasha/temper/temper-addon-generators/temper-skill-point/temper-skill-point.module.code.ts",
       kind: "array-field",
       symbol: "PUBLIC_DUNGEONS",
       field: "key",
