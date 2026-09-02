@@ -24,6 +24,8 @@
     "./completion-card-reset-behavior": "./completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts",
     "./completion-card-tab": "./completion-card-tab/completion-card-tab.module.code.ts",
     "./completion-category-tree": "./completion-category-tree/completion-category-tree.module.code.ts",
+    "./completion-category-tree-composed": "./completion-category-tree-composed/completion-category-tree-composed.module.code.ts",
+    "./completion-category-tree-utils": "./completion-category-tree-utils/completion-category-tree-utils.module.code.ts",
     "./completion-category-tree-types": "./completion-category-tree-types/completion-category-tree-types.module.code.ts",
     "./completion-character-row": "./completion-character-row/completion-character-row.module.code.ts",
     "./completion-collectibles-progress": "./completion-collectibles-progress/completion-collectibles-progress.module.code.ts",

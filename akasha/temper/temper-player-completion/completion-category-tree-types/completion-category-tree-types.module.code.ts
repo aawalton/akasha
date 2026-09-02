@@ -6,3 +6,5 @@ export interface CompletionCategoryNode {
   pickerLabel?: string
   children?: readonly CompletionCategoryNode[]
 }
+
+export type CompletionCategoryTree = Record<CompletionTab, readonly CompletionCategoryNode[]>

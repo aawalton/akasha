@@ -9,6 +9,8 @@ export const temperPlayerCompletion = {
   partSlugs: [
     "module/completion-category-tree-types",
     "module/completion-category-tree",
+    "module/completion-category-tree-composed",
+    "module/completion-category-tree-utils",
     "module/completion-card-tab",
     "module/completion-card-registry",
     "module/completion-card-id",
