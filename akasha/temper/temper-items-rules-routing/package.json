@@ -1,0 +1,22 @@
+{
+  "name": "@akasha/temper-items-rules-routing",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./inventory-management-plan-capacity": "./inventory-management-plan-capacity/inventory-management-plan-capacity.module.code.ts",
+    "./inventory-management-plan-capacity-filter": "./inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts",
+    "./inventory-management-plan-chain": "./inventory-management-plan-chain/inventory-management-plan-chain.module.code.ts",
+    "./inventory-management-plan-collect": "./inventory-management-plan-collect/inventory-management-plan-collect.module.code.ts",
+    "./inventory-management-plan-grouping": "./inventory-management-plan-grouping/inventory-management-plan-grouping.module.code.ts",
+    "./inventory-management-plan-simulation": "./inventory-management-plan-simulation/inventory-management-plan-simulation.module.code.ts",
+    "./inventory-management-plan-test-utils": "./inventory-management-plan-test-utils/inventory-management-plan-test-utils.module.code.ts",
+    "./inventory-management-plan-use-destinations": "./inventory-management-plan-use-destinations/inventory-management-plan-use-destinations.module.code.ts",
+    "./inventory-plan-checklist": "./inventory-plan-checklist/inventory-plan-checklist.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-items-core": "workspace:*",
+    "@akasha/temper-items-rules-core": "workspace:*",
+    "@akasha/temper-items-rules-routing-core": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
