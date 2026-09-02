@@ -21,7 +21,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "Membership is unblocked: values landed at `b28c97dc9d` and the store answers upkeep 6, inboxes 3, values 6 = 15, matching the checkout. A shortfall guard is wired at `1c6a3718e8`, so a member losing its page refuses rather than shrinking the denominator quietly. What blocks the readings is that an akasha readout holds one `lastValue` under no day key, while the hourly run rescores yesterday too, so yesterday would be rewritten from today's readings. Values need no reading; upkeep and inboxes do.",
+        "The premise inverts: two of the nine lights already ignore the day asked. `email-entry-lowest-inbox-count-today` and `food-entry-plants-since-waking` state no `takes`, so `dayGiven` iterates nothing, throws nothing, and the literal resolves against `Date.now()`. The hourly run scores yesterday from today for those two. Moving the readings widens this from two lights to nine rather than causing it. Read and not run; a lane is asking past days to confirm. Refusal comes before any backfill.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
