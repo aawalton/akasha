@@ -26,6 +26,7 @@ import {
   OTHER,
   OWED,
   PATH,
+  readAt,
   type Said,
   SEAT_AT,
   SEEDED_AT,
@@ -108,7 +109,7 @@ test("a path the record holds no reading of is refused", () => {
 test("a reading of the body standing now answers for it", () => {
   const root = rootWith()
   const oid = writing(root, PATH, "one\n")
-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+  readAt(root, AGENT, PATH, oid)
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
 })
 
@@ -116,7 +117,7 @@ test("a reading of another body is refused, and both ids are said", () => {
   const root = rootWith()
   const was = blobIdOf(new TextEncoder().encode("one\n"))
   const oid = writing(root, PATH, "two\n")
-  recordRead(root, AGENT, { path: PATH, oid: was, seenAt: 1, mechanicalOid: null })
+  readAt(root, AGENT, PATH, was)
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(1)
   expect(said[0]).toContain("it has changed since")
@@ -124,11 +125,23 @@ test("a reading of another body is refused, and both ids are said", () => {
   expect(said[0]).toContain(oid)
 })
 
+test("a body read only in part is owed as read in part", () => {
+  const root = rootWith()
+  const oid = writing(root, PATH, "one\n")
+  readAt(root, AGENT, PATH, oid, null, 3)
+  const said = unreadIn(root, AGENT, [PATH])
+  expect(said.length).toBe(1)
+  expect(said[0]).toContain("part of this reached you, and the rest has not")
+  expect(said[0]).toContain("holds line 3 as how far")
+  expect(said[0]).not.toContain("it has changed since")
+  expect(said[0]).toContain(`akasha read --file-path ${PATH}`)
+})
+
 test("a reading whose mechanical id is the body standing now answers for it", () => {
   const root = rootWith()
   const was = blobIdOf(new TextEncoder().encode("one\n"))
   const oid = writing(root, PATH, "two\n")
-  recordRead(root, AGENT, { path: PATH, oid: was, seenAt: 1, mechanicalOid: oid })
+  readAt(root, AGENT, PATH, was, oid)
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
 })
 
@@ -142,7 +155,7 @@ test("when the body was read is not asked, only which body", () => {
 test("one agent's reading answers for no other agent's write", () => {
   const root = rootWith()
   const oid = writing(root, PATH, "one\n")
-  recordRead(root, OTHER, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+  readAt(root, OTHER, PATH, oid)
   expect(unreadIn(root, AGENT, [PATH]).length).toBe(1)
 })
 
@@ -182,7 +195,7 @@ test("a path warranted by two warrants is judged once", () => {
 test("a subagent's reading does not answer for its seat", () => {
   const root = rootWith()
   const oid = writing(root, PATH, "one\n")
-  recordRead(root, UNDER, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+  readAt(root, UNDER, PATH, oid)
   expect(unreadIn(root, UNDER, [PATH])).toEqual([])
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(1)
@@ -192,7 +205,7 @@ test("a subagent's reading does not answer for its seat", () => {
 test("a seat's reading does not answer for a subagent acting under it", () => {
   const root = rootWith()
   const oid = writing(root, PATH, "one\n")
-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+  readAt(root, AGENT, PATH, oid)
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
   const said = unreadIn(root, UNDER, [PATH])
   expect(said.length).toBe(1)
@@ -202,7 +215,7 @@ test("a seat's reading does not answer for a subagent acting under it", () => {
 test("one subagent's reading does not answer for another under the same seat", () => {
   const root = rootWith()
   const oid = writing(root, PATH, "one\n")
-  recordRead(root, UNDER, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+  readAt(root, UNDER, PATH, oid)
   const other = `${AGENT}${SUBAGENT_MARK}subb`
   expect(unreadIn(root, other, [PATH]).length).toBe(1)
 })
@@ -363,14 +376,14 @@ test("a seat owes what its page names rather than the page itself", () => {
 test("a reading of what a seat's page names answers for it", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
   pageFiled(root, AGENT, SEAT_AT)
-  recordRead(root, AGENT, { path: X, oid: "oid", seenAt: 1, mechanicalOid: null })
+  readAt(root, AGENT, X, "oid")
   expect(unheldIn(root, AGENT)).toEqual([])
 })
 
 test("one agent's reading does not answer for another agent's seat", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
   pageFiled(root, AGENT, SEAT_AT)
-  recordRead(root, OTHER, { path: X, oid: "oid", seenAt: 1, mechanicalOid: null })
+  readAt(root, OTHER, X, "oid")
   expect(unheldIn(root, AGENT).length).toBe(1)
 })
 
@@ -400,7 +413,7 @@ test("what is said of a taboo term names it rather than a reading to clear", () 
   expect(said?.split("\n")[1]).toBe(`${TERM_AT} states the term.`)
   expect(said).not.toContain(NOT_READ)
   expect(said).toContain(`akasha read --file-path ${TERM_AT}`)
-  recordRead(root, AGENT, { path: TERM_AT, oid: "gone", seenAt: 1, mechanicalOid: null })
+  readAt(root, AGENT, TERM_AT, "gone")
   const moved = unreadIn(root, AGENT, [A])[0]
   expect(moved?.split("\n")[0]).toBe(DECIDING)
   expect(moved).toContain("it has changed since you read it")

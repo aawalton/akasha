@@ -1,7 +1,14 @@
 import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { blobIdOf, readingIn, SUBAGENT_MARK, sameBody } from "@akasha/command-system/reading"
+import {
+  blobIdOf,
+  partly,
+  reachOf,
+  readingIn,
+  SUBAGENT_MARK,
+  sameBody,
+} from "@akasha/command-system/reading"
 import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
@@ -17,6 +24,9 @@ const REACH = [
 
 const SHORTER =
   "A body that moved since your record holds it comes back as what changed, where that is shorter."
+
+const A_RUN =
+  "A body longer than one answer holds comes back a run of lines at a time, and answers a write once the whole body has reached you."
 
 const DECIDING =
   "NAMING DECISION — not a reading to clear, and it may mean renaming what your change writes."
@@ -53,6 +63,7 @@ export type Warrant = {
 export type Owing = {
   readonly warrant: Warrant
   readonly held: string | null
+  readonly reach?: number | null
 }
 
 export type Known = {
@@ -153,7 +164,36 @@ export function movedOf(warrant: Warrant, held: string): string {
   ].join("\n")
 }
 
+export function partlyOf(warrant: Warrant, reach: number): string {
+  const far = `Your record holds line ${reach} as how far this body has reached you.`
+  if (fromTabooTerm(warrant)) {
+    return [
+      DECIDING,
+      `${warrant.path} states the term, and part of it has reached you.`,
+      far,
+      warrant.owed,
+      DECIDE,
+      "",
+      `  ${READ_CALL} ${warrant.path}`,
+      "",
+      A_RUN,
+    ].join("\n")
+  }
+  return [
+    `${warrant.path} — part of this reached you, and the rest has not.`,
+    far,
+    warrant.owed,
+    "The run after it is read here:",
+    "",
+    `  ${READ_CALL} ${warrant.path}`,
+    "",
+    A_RUN,
+  ].join("\n")
+}
+
 export function sayingOf(owing: Owing): string {
+  const reach = reachOf(owing.reach)
+  if (reach !== null) return partlyOf(owing.warrant, reach)
   return owing.held === null ? notReadOf(owing.warrant) : movedOf(owing.warrant, owing.held)
 }
 
@@ -314,7 +354,9 @@ function owingOf(
     asked.add(warrant.path)
     const held = readingIn(root, agentId, warrant.path)
     if (held === null) said.push({ warrant, held: null })
-    else if (!sameBody(held, warrant.oid)) said.push({ warrant, held: held.oid })
+    else if (partly(held) && held.oid === warrant.oid) {
+      said.push({ warrant, held: held.oid, reach: reachOf(held.readThrough) })
+    } else if (!sameBody(held, warrant.oid)) said.push({ warrant, held: held.oid })
   }
   return said
 }

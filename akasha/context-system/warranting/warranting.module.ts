@@ -28,6 +28,18 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
+      statement: "A body only part of which reached the agent answers no warrant.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body read in part is owed as read in part rather than as changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for a body read in part says how far that body reached the agent.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refusal says what is owed rather than only that something is.",
     },
     {

@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { recordRead } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { dataAt } from "@akasha/file-system/data-place"
@@ -145,6 +146,17 @@ export function warrantingStated(root: string, every: readonly Said[]): undefine
     writing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code ?? statedCodeFor(one))
     listedFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
   }
+}
+
+export function readAt(
+  root: string,
+  agentId: string,
+  path: string,
+  oid: string,
+  was: string | null = null,
+  reach: number | null = null
+): undefined {
+  recordRead(root, agentId, { path, oid, seenAt: 1, mechanicalOid: was, readThrough: reach })
 }
 
 export function subaged(root: string, slug: string, path: string): undefined {
