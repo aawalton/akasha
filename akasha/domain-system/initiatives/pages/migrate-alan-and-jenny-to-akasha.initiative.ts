@@ -31,7 +31,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "`pages-ui` stands in akasha.",
       workingMemory:
-        "The manifest is no longer the block: `@akasha/pages-ui` is 9,254 bytes over 82 export keys and its `components` 9,269 over 90, so 172 keys across two packages where the night opened at 14,662 bytes and 126 keys in one. A third package was approved and is not needed. Not met yet: `shared/pages-ui/src` still holds 110 modules, down from 156, every one of them source rather than a re-export and none carrying a counterpart in akasha, reached by 78 imports in 54 files.",
+        "95 modules, down from 110 at `4fc83ea1fc`, reached by 52 statements in 40 files. Manifests are no longer the block; cycles are. 47 layer cleanly and 48 sit in one ring of 24 around `badge-registry.ts`, plus `block-row.tsx` against `use-textarea-input.ts`. Nothing bars a cycle among siblings inside one akasha package, so the ring lands whole rather than being broken first. `readRelationConfig` already exists at `view-tab-content-href`; import rather than carry.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
