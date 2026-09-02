@@ -3,10 +3,15 @@ export interface SettledRefresh {
 	readonly dispose: () => undefined;
 }
 
+// HOW LONG THE QUIET HAS TO LAST, ASKED EACH TIME RATHER THAN FIXED ONCE. A caller that watches a
+// corpus eleven other agents are writing into wants to lengthen the quiet it demands while its
+// answers keep coming back identical, and shorten it the moment one differs. Passing a number is
+// what every caller here did and still does; passing a function is how one of them varies it.
 export function createSettledRefresh(
-	quietMs: number,
+	quiet: number | (() => number),
 	run: (trigger: string) => Promise<undefined>
 ): SettledRefresh {
+	const quietMs = typeof quiet === 'number' ? (): number => quiet : quiet;
 	let timer: ReturnType<typeof setTimeout> | undefined;
 	let running = false;
 	let queued: string | undefined;
@@ -39,7 +44,7 @@ export function createSettledRefresh(
 					return;
 				}
 				void drain(trigger);
-			}, quietMs);
+			}, quietMs());
 			return undefined;
 		},
 		dispose: () => {
