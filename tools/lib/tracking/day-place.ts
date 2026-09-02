@@ -1,5 +1,5 @@
 import type { Page } from "../daily-tracking/tracking-types.ts"
-import { dataError, operationalError } from "../exit.ts"
+import { dataError } from "../exit.ts"
 import {
   type Answered,
   askComposed,
@@ -8,6 +8,7 @@ import {
   removeRow,
   rowLanding,
 } from "../page-query-client.ts"
+import { landAkashaDayPage, landAkashaSessionRow } from "./akasha-day.ts"
 import { pageOf } from "./pages.ts"
 
 export const DAILY_TRACKING = "daily-tracking"
@@ -74,62 +75,44 @@ export interface DayLanding {
   readonly name: string
 }
 
-/**
- * Refuse a write to a day that has moved.
- *
- * The akasha half of every verb here is deliberately empty. Until the akasha read path is built, a
- * day named migrated has nowhere to be written, and the only wrong answer is to fall back to the
- * old place — that is the corpus splitting in two. So this refuses out loud and names the day.
- */
-function unmoved(dayStr: string, what: string): never {
-  throw operationalError(
-    `${what} for ${dayStr} was asked of akasha, and no day is written there yet. ` +
-      "`dayPlaceOf` in tools/lib/tracking/day-place.ts is the one thing that says where a day is " +
-      "kept, and it named this day migrated. Writing it to the old markdown place anyway would " +
-      "leave two files for one day, each holding half of it. Build the akasha half of this verb, " +
-      "or take the day out of the migrated set."
-  )
-}
-
 export function dayPageAt(place: DayPlace, act: DayAct, dayStr: string): DayLanding {
-  if (place === AKASHA) unmoved(dayStr, `a \`${act}\` of the day page`)
   return { place, act, pageType: DAILY_TRACKING, name: dayNameIn(place, dayStr) }
 }
 
 export function sessionRowAt(place: DayPlace, act: SessionAct, dayStr: string): DayLanding {
-  if (place === AKASHA) unmoved(dayStr, `a \`${act}\` of a session`)
   return { place, act, pageType: SESSION_TRACKING, name: dayNameIn(place, dayStr) }
 }
 
 /**
- * Refuse a *derived* read of a day that has moved.
+ * A *derived* read of a day, which reaches both halves.
  *
  * `sleepBlocksOn` in tools/lib/wake-day.ts reads day rows and session rows straight off the
  * deriver. It is synchronous, and it is called from inside the page query engine itself
  * (tools/lib/page-query.ts, wherever a query's `where` names `wake-day`), so it cannot await
  * `dayByDate` — the readers below are async and asking one from there would be the engine asking
- * itself. What it can do is ask where the day is kept before it looks.
+ * itself. What it could do until the akasha half was read was refuse.
  *
- * That matters because the deriver walks the markdown checkout, and whether it will also walk the
- * akasha half is not settled — no day is written there yet. If it does not, a moved day derives no
- * rows at all: the day reads as having no sleep, `wakeInstantOn` falls back to the start of the day
- * window, and a wrong wake instant is handed to every caller with no fault raised. A refusal is the
- * only honest answer until the akasha half exists, so whoever builds it decides here.
+ * It no longer refuses, because the deriver reads both halves. `filedPagesOf` in
+ * tools/lib/page-derive.ts reads whichever kind of file a scanned page is, and the `daily-tracking`
+ * page type states both places in its `files:`, so a moved day derives its rows where it stands. A
+ * day this call was asked about is a day the derive can see, and nothing is left to decide.
  */
-export function derivedDayIn(place: DayPlace, dayStr: string): void {
-  if (place !== AKASHA) return
-  throw operationalError(
-    `a derived read of the day ${dayStr} was answered from the markdown checkout, and ` +
-      "`dayPlaceOf` in tools/lib/tracking/day-place.ts names that day migrated. A derive that " +
-      "cannot see the akasha half finds no rows for this day and answers that the day is empty, " +
-      "raising nothing. Settle what the deriver reaches, or take the day out of the migrated set."
-  )
+export function derivedDayIn(_place: DayPlace, _dayStr: string): void {
+  return
 }
 
 export function derivedDayOf(dayStr: string): void {
   derivedDayIn(dayPlaceOf(dayStr), dayStr)
 }
 
+/**
+ * The day page, landed where the day is kept.
+ *
+ * The two halves take different roads because they are different acts. A markdown day is a file this
+ * process writes and commits itself, through `pageLanding`. An akasha day is composed and handed to
+ * `akasha write`, because nothing writes under `akasha/` but akasha's own verb. What they share is
+ * this call: no reach above here knows which road its day took.
+ */
 export function landDayPage(
   act: DayAct,
   dayStr: string,
@@ -137,6 +120,7 @@ export function landDayPage(
   writer: string
 ): Promise<Landed> {
   const at = dayPageAt(dayPlaceOf(dayStr), act, dayStr)
+  if (at.place === AKASHA) return landAkashaDayPage(act, at.name, values, writer)
   return pageLanding(act, at.pageType, at.name, values, writer)
 }
 
@@ -147,11 +131,18 @@ export function landSessionRow(
   writer: string
 ): Promise<Landed> {
   const at = sessionRowAt(dayPlaceOf(dayStr), act, dayStr)
+  if (at.place === AKASHA) {
+    const id = values["id"]
+    return landAkashaSessionRow(act, at.name, values, typeof id === "string" ? id : "", writer)
+  }
   return rowLanding(act, at.pageType, at.name, values, writer)
 }
 
 export function dropSessionRow(dayStr: string, named: string, writer: string): Promise<Landed> {
   const at = sessionRowAt(dayPlaceOf(dayStr), "remove-row", dayStr)
+  if (at.place === AKASHA) {
+    return landAkashaSessionRow("remove-row", at.name, {}, named, writer)
+  }
   return removeRow(at.pageType, at.name, named, writer)
 }
 

@@ -46,6 +46,17 @@ mock.module(join(HERE, "..", "page-query-client.ts"), () => ({
   },
 }))
 
+mock.module(join(HERE, "akasha-day.ts"), () => ({
+  landAkashaDayPage: (act: string, name: string) => {
+    reached.push({ verb: "landAkashaDayPage", act, pageType: "akasha", name })
+    return Promise.resolve(landed)
+  },
+  landAkashaSessionRow: (act: string, name: string) => {
+    reached.push({ verb: "landAkashaSessionRow", act, pageType: "akasha", name })
+    return Promise.resolve(landed)
+  },
+}))
+
 const {
   AKASHA,
   DAILY_TRACKING,
@@ -152,20 +163,29 @@ describe("create, edit and delete agree on where a day is", () => {
     }
   })
 
-  test("akasha: every act refuses, and the refusal names the day", () => {
-    const asked = [
-      (): unknown => dayPageAt(AKASHA, "patch", day),
-      (): unknown => dayPageAt(AKASHA, "write", day),
-      (): unknown => sessionRowAt(AKASHA, "write-row", day),
-      (): unknown => sessionRowAt(AKASHA, "patch-row", day),
-      (): unknown => sessionRowAt(AKASHA, "remove-row", day),
-      (): unknown => derivedDayIn(AKASHA, day),
+  test("akasha: one page type, one name, for every act, and the name is prefixed", () => {
+    const name = `day-${day}`
+    const acts = [dayPageAt(AKASHA, "patch", day), dayPageAt(AKASHA, "write", day)]
+    for (const at of acts) {
+      expect(at.place).toBe(AKASHA)
+      expect(at.pageType).toBe(DAILY_TRACKING)
+      expect(at.name).toBe(name)
+    }
+    const rows = [
+      sessionRowAt(AKASHA, "write-row", day),
+      sessionRowAt(AKASHA, "patch-row", day),
+      sessionRowAt(AKASHA, "remove-row", day),
     ]
-    for (const one of asked) expect(one).toThrow(day)
+    for (const at of rows) {
+      expect(at.place).toBe(AKASHA)
+      expect(at.pageType).toBe(SESSION_TRACKING)
+      expect(at.name).toBe(name)
+    }
   })
 
-  test("markdown: a derived read is let through", () => {
+  test("a derived read is let through in both halves, because the derive reads both", () => {
     expect(() => derivedDayIn(MARKDOWN, day)).not.toThrow()
+    expect(() => derivedDayIn(AKASHA, day)).not.toThrow()
   })
 })
 
@@ -186,15 +206,21 @@ describe("what reaches the file layer", () => {
     ])
   })
 
-  test("a migrated day is not written to the old place by any verb", async () => {
+  test("a migrated day reaches the akasha half and never the old place", async () => {
     await whileMigrated(day, async () => {
       reached.length = 0
       expect(dayPlaceOf(day)).toBe(AKASHA)
-      expect(() => landDayPage("patch", day, { date: day }, "ops-tracking")).toThrow(day)
-      expect(() => landSessionRow("write-row", day, { id: "one" }, "ops-tracking")).toThrow(day)
-      expect(() => landSessionRow("patch-row", day, { id: "one" }, "ops-tracking")).toThrow(day)
-      expect(() => dropSessionRow(day, "one", "ops-tracking")).toThrow(day)
-      expect(reached).toEqual([])
+      await landDayPage("patch", day, { date: day }, "ops-tracking")
+      await landSessionRow("write-row", day, { id: "one" }, "ops-tracking")
+      await landSessionRow("patch-row", day, { id: "one" }, "ops-tracking")
+      await dropSessionRow(day, "one", "ops-tracking")
+      const name = `day-${day}`
+      expect(reached).toEqual([
+        { verb: "landAkashaDayPage", act: "patch", pageType: "akasha", name },
+        { verb: "landAkashaSessionRow", act: "write-row", pageType: "akasha", name },
+        { verb: "landAkashaSessionRow", act: "patch-row", pageType: "akasha", name },
+        { verb: "landAkashaSessionRow", act: "remove-row", pageType: "akasha", name },
+      ])
     })
     expect(dayPlaceOf(day)).toBe(MARKDOWN)
   })
