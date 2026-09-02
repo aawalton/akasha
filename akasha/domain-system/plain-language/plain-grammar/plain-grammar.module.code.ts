@@ -8,7 +8,7 @@ export const START = "S"
 
 const SPELT = /`[^`]*`/g
 
-function scanned(text: string): string {
+export function scanned(text: string): string {
   return text.replace(SPELT, (held) => `\`${"x".repeat(held.length - 2)}\``)
 }
 

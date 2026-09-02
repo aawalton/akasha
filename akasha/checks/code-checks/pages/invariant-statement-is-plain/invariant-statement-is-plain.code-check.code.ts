@@ -1,5 +1,5 @@
 import { lineOf, parsedAs } from "@akasha/code-system/code-source"
-import { type Grammars, grammarsIn, plainlyBy } from "@akasha/plain-language"
+import { type Grammars, grammarsIn, plainlyBy, scanned } from "@akasha/plain-language"
 import ts from "typescript"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
@@ -21,8 +21,6 @@ const TWO = /[a-z`)"]\.\s+[A-Z`]/
 const TRAILING = /[\s,;:—]+$/
 
 const LEADING = /^[\s,;:—.]+/
-
-const SPELT = /`[^`]*`/g
 
 export type Stated = {
   readonly line: number
@@ -78,10 +76,6 @@ export function statementsIn(path: string, text: string): readonly Stated[] {
   }
   ts.forEachChild(source, walk)
   return found
-}
-
-function scanned(text: string): string {
-  return text.replace(SPELT, (held) => `\`${"x".repeat(held.length - 2)}\``)
 }
 
 export function splitAt(one: Stated): Split | null {
