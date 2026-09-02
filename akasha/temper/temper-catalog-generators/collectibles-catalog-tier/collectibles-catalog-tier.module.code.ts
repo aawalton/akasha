@@ -1,3 +1,4 @@
+import { stripEsoNameSuffix } from "@akasha/temper-build-support/eso-name"
 import type { CollectiblesCatalogSubCategory } from "@akasha/temper-capture-shapes/collectibles-catalog"
 import { collectiblesCatalogSchema } from "@akasha/temper-game-catalog-capture-host/collectibles-catalog-schema"
 import {
@@ -5,10 +6,6 @@ import {
   type Tier,
   type TierEmit,
 } from "../catalog-tier/catalog-tier.module.code.ts"
-
-function stripEsoMarkers(name: string): string {
-  return name.replace(/\^[A-Za-z]+$/, "")
-}
 
 interface CollectibleEntry {
   id: number
@@ -92,7 +89,7 @@ function extractCollectibles(
     return [
       {
         id: Number(idStr),
-        name: stripEsoMarkers(entry.name),
+        name: stripEsoNameSuffix(entry.name),
       },
     ]
   })

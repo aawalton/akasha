@@ -1,3 +1,4 @@
+import { stripEsoNameSuffix } from "@akasha/temper-build-support/eso-name"
 import { recipeCatalogSchema } from "@akasha/temper-game-catalog-capture-host/recipe-catalog-schema"
 import {
   CATALOG_SAVED_VARIABLES,
@@ -6,10 +7,6 @@ import {
 } from "../catalog-tier/catalog-tier.module.code.ts"
 
 type ListMap = Map<number, { name: string; recipes: Map<number, string> }>
-
-function stripEsoMarkers(name: string): string {
-  return name.replace(/\^[A-Za-z]+$/, "")
-}
 
 function extractRecipesFromSavedVars(accountWide: Record<string, unknown>): ListMap {
   const rawRecipeCatalog = accountWide.recipeCatalog
@@ -31,7 +28,7 @@ function extractRecipesFromSavedVars(accountWide: Record<string, unknown>): List
       const itemId = Number(itemIdStr)
       if (itemId === 0) continue
 
-      recipes.set(itemId, stripEsoMarkers(recipe.name))
+      recipes.set(itemId, stripEsoNameSuffix(recipe.name))
     }
 
     if (recipes.size > 0) {

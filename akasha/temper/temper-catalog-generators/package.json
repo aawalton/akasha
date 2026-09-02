@@ -17,6 +17,7 @@
     "./zone-completion-catalog-tier": "./zone-completion-catalog-tier/zone-completion-catalog-tier.module.code.ts"
   },
   "dependencies": {
+    "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-capture-datamining-reader": "workspace:*",
     "@akasha/temper-capture-shapes": "workspace:*",
     "@akasha/temper-game-catalog-capture-host": "workspace:*"
