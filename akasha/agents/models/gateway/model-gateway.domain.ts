@@ -14,6 +14,7 @@ export const modelGateway = {
     "module/committed-outcome",
     "module/fable-fallback",
     "module/fast-mode-strip",
+    "module/forward",
     "module/hold-registry",
     "module/idle-timeout",
     "module/keepalive",
