@@ -27,7 +27,7 @@ function once<T>(factory: () => T): () => T {
 const getReferenceBuild = once((): CompanionState => {
   if (!_decoder)
     throw new Error(
-      "Companion decoder not registered — import @temper/game-codec to trigger registerCompanionDecoder()"
+      "Companion decoder not registered — import @akasha/temper-companion-codec/companion-codec to trigger registerCompanionDecoder()"
     )
   const decoded = _decoder(buildHash(REFERENCE_BUILD_CODE))
   if (!decoded) throw new Error("Failed to decode reference build")
