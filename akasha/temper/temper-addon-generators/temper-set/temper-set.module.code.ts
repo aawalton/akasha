@@ -153,20 +153,20 @@ ${fields.join(",\n")},
  */
 
 import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
-import type { SetsAllTemplate } from "../sets-all-data"
+import type { SetsAllId, SetsAllTemplate } from "../sets-all-data"
 import type { SetCategoryId } from "../set-categories-data"
 
 const SETS_DATA = {
 ${entryLines.join("\n")}
 } satisfies Record<string, SetsAllTemplate>
 
-// Explicit \`DataFile<string, ...>\` annotation prevents the TS native
-// compiler from serializing the full inferred per-key union once the
-// snapshot grows past ~255 rows (TS7056: "inferred type ... exceeds the
-// maximum length the compiler will serialize"). The widened key type is
-// equivalent to the \`setsAll\` consumer's annotation in
-// \`sets-all-data.ts\`.
-export const setsFromPages: DataFile<string, SetsAllTemplate, SetCategoryId> =
+// The named \`SetsAllId\` union keeps the TS native compiler from
+// serializing the full inferred per-key union once the snapshot grows
+// past ~255 rows (TS7056: "inferred type ... exceeds the maximum length
+// the compiler will serialize"). An explicit annotation is what TS7056
+// asks for, so widening this key back to \`string\` is not the repair;
+// widening it is what typed every set id as a bare string.
+export const setsFromPages: DataFile<SetsAllId, SetsAllTemplate, SetCategoryId> =
   createDataFile<SetsAllTemplate>()(SETS_DATA)
 `
 }
