@@ -150,3 +150,11 @@ declare const SI_ITEMTRAITTYPE32: number
 declare const SI_ITEMTRAITTYPE33: number
 
 declare const SI_DIALOG_CONFIRM: number
+
+declare const SI_UNIT_FRAME_NAME_COMPANION: number
+declare const SI_SKILLTYPE8: number
+declare const SI_CURRENCYLOCATION1: number
+declare const SI_MAPDISPLAYFILTER2: number
+declare const SI_GUILDACTIVITYATTRIBUTEVALUE9: number
+declare const SI_BINDING_NAME_SPECIAL_MOVE_CROUCH: number
+declare const SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES1304: number

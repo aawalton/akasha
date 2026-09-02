@@ -1,0 +1,17 @@
+{
+  "name": "TemperCompanions",
+  "title": "Temper Companions",
+  "description": "Companion build management for Temper, plus folded-in companion quality-of-life (un/re-summon keybinds, compass-pin toggle, numeric rapport label, companion-item junk \u2014 the former FCOCompanion).",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101050", "101051"],
+  "savedVariables": [
+    "TemperCompanions_SavedVariables",
+    "FCOCompanion_Settings",
+    "FCOCompanion_Settings_PerToon"
+  ],
+  "additionalLuaFiles": ["TemperCompanionsConfig.lua"],
+  "dependsOn": ["TemperCharacters", "LibAddonMenu-2.0>=38"],
+  "optionalDependsOn": ["LibCustomMenu>=730"]
+}
