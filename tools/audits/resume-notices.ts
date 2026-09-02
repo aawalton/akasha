@@ -16,8 +16,16 @@ const CLAUSE = "restart-recovery-clause"
 
 const OPENING = "[supervisor]"
 
+// THE THREE NOTICES THAT ARRIVE ON A MESSAGE ROW, WHICH IS ALL OF THEM. `resume.notice.md` says
+// "the last three below arrive on a message row instead", and this list held two of those three:
+// `wait-resume-nudge` was watched by nothing, though `supervisor-decide.ts:82` asks for it by name
+// exactly as `:66` asks for `limit-resume-nudge`. A check that names a population and then reads
+// part of it answers green for the part it read, which is the same fault as a message that misnames
+// its cause — both look like an answer. Anything added to that document as a row notice belongs
+// here too.
 const ON_ROW: Readonly<Record<string, string>> = {
   "limit-resume-nudge": "The limit-resume decision",
+  "wait-resume-nudge": "The wait-resume decision",
   "editor-revive": "The editor extension",
 }
 
