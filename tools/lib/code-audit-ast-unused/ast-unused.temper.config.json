@@ -34,12 +34,6 @@
         "**/*.ts!"
       ]
     },
-    "temper/player-completion-skills-morphs-ui": {
-      "entry": [],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
     "temper/player-completion-ui": {
       "entry": [],
       "project": [
