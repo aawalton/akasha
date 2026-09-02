@@ -40,5 +40,13 @@ export const pageValue = {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Importing this module makes no transpiler.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A runtime holding no transpiler is a body that will not load.",
+    },
   ],
 } as const satisfies Module

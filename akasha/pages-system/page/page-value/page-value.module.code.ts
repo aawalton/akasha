@@ -2,7 +2,16 @@ import { readFileSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import { addressIn } from "../page-address/page-address.module.code.ts"
 
-const transpiler = new Bun.Transpiler({ loader: "ts" })
+function newTranspiler() {
+  return new Bun.Transpiler({ loader: "ts" })
+}
+
+let transpilerHeld: ReturnType<typeof newTranspiler> | null = null
+
+function transpiler(): ReturnType<typeof newTranspiler> {
+  transpilerHeld ??= newTranspiler()
+  return transpilerHeld
+}
 
 const EXPORTED = /^export\s+/gm
 
@@ -26,8 +35,9 @@ export type Loaded = {
 
 export function loadedFrom(body: string): Loaded {
   try {
-    const named = transpiler.scan(body).exports.filter((one) => one !== DEFAULT && NAMED.test(one))
-    const js = transpiler.transformSync(body).replace(EXPORTED, "")
+    const on = transpiler()
+    const named = on.scan(body).exports.filter((one) => one !== DEFAULT && NAMED.test(one))
+    const js = on.transformSync(body).replace(EXPORTED, "")
     const declared = new Function(`${js}\nreturn {${named.join(",")}}`)() as Record<string, unknown>
     return { value: firstValueIn(declared), failed: null }
   } catch (why) {
