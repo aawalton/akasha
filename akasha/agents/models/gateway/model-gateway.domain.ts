@@ -28,6 +28,7 @@ export const modelGateway = {
     "module/peek-response",
     "module/permission-denied",
     "module/proxy-headers",
+    "module/proxy-start",
     "module/queue-step",
     "module/retry",
     "module/server-error",
