@@ -59,10 +59,19 @@ const fromDeclarationsData = (one: DeclarationsData): Declarations => ({
 
 const anyDeclared = (one: Declarations): boolean => one.bySlug.size > 0
 
+// Reading the files is what `declarationsFromFiles` holds, so it is asked for the reading rather
+// than the files being read again beside it. Where the mark stands and the kept answer is good this
+// never runs, and the two go on answering from their own stores; where it does run, one reading
+// answers both. A checkout with anything uncommitted in it has no mark at all, which is the state
+// this is read in, and there the two readings were the same 2,117 files twice over — 39ms of a
+// 630ms read of the editor's page tree.
+//
+// Nothing here hands out anything a caller may write to: `bySlug` is a `ReadonlyMap` and every
+// reader of it only asks.
 function heldDeclarations(tree: FileTree): Declarations {
   const mark = shapeMarkOf(tree)
   const root = tree.root
-  const make = (): Declarations => readDeclarations(tree)
+  const make = (): Declarations => declarationsFromFiles(tree)
   if (mark === null || root === undefined) return make()
   return answeredWhole(
     root,

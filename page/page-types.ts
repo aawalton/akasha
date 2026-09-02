@@ -83,6 +83,29 @@ export interface PageType {
   readonly namedFor: string | null
 }
 
+// ONE READING OF THE CORPUS PER CALL, NOT ONE PER SCAN. A pattern that names no folder is answered
+// out of the corpus scan, and the scan is held once for the length of a `duringOneCall` scope. What
+// was not held is the reading of it: each such scan walked all 56,500 markdown paths asking what
+// suffix each name carried, and one read of the editor's page tree makes twenty-six of those scans.
+// That is 1.24 million path reads to hand back the four hundred paths they wanted between them,
+// measured at 332-401ms of an 850ms read.
+//
+// Grouping the corpus by suffix once turns each of those scans into a lookup. The grouping is held
+// on the same terms as the scan it reads, so a reader outside such a scope groups afresh and pays
+// one pass, which is what it paid before.
+function suffixedIn(root: string): ReadonlyMap<string, readonly string[]> {
+  return onceInCall(`suffixed:${root}`, () => {
+    const made = new Map<string, string[]>()
+    for (const at of scanGlob(`**/*${MARKDOWN}`, root)) {
+      const suffix = typeSuffixOf(at)
+      const held = made.get(suffix)
+      if (held === undefined) made.set(suffix, [at])
+      else held.push(at)
+    }
+    return made
+  })
+}
+
 // `_repo` is unread. It named the repository the page index was to be asked for, and there is no
 // index to ask — every scan now walks the disk under `root`. The argument stands because the caller
 // still knows which repository the root is, and the reader that will want it again is being written.
@@ -100,9 +123,10 @@ export function scanIn(
   }
   const found = walked.flatMap((pattern) => [...scanGlob(pattern, root)])
   if (suffixes.size > 0) {
-    for (const at of scanGlob(`**/*${MARKDOWN}`, root)) {
-      if (suffixes.has(typeSuffixOf(at))) found.push(at)
-    }
+    // Taken suffix by suffix rather than in corpus order, which groups the paths differently from
+    // the pass this replaced. Nothing downstream reads that order: what comes back is sorted.
+    const held = suffixedIn(root)
+    for (const suffix of suffixes) found.push(...(held.get(suffix) ?? []))
   }
   const kept = notIgnored(root, [...new Set(found)])
   if (kept === null) {

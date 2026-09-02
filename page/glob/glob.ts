@@ -34,8 +34,24 @@ export function globBaseOf(pattern: string): string {
   return cut < 0 ? "" : pattern.slice(0, cut)
 }
 
+// `**/*.md` reaches every file the walk turns up, and the walk turns up 117,270 of them to keep the
+// 56,500 that end in `.md`. Asking minimatch that question 117,270 times costs around 200ms of a
+// 260ms walk, because it splits each path on `/` and runs a pattern per segment. A pattern whose
+// only glob characters are the leading `**/` and a `*` ahead of a literal tail asks nothing of the
+// path but its ending, so the ending is what gets read.
+//
+// `**/` stands for zero or more segments and `*` for zero or more characters within one, so under
+// `dot: true` the pattern matches exactly those paths ending in the tail, wherever they stand and
+// whatever they are named — which is what `endsWith` answers.
+const TAIL_ONLY = /^\*\*\/\*([A-Za-z0-9._-]+)$/
+
+function tailOf(pattern: string): string | null {
+  return TAIL_ONLY.exec(pattern)?.[1] ?? null
+}
+
 function scannedGlob(pattern: string, root: string): readonly string[] {
-  const matches = globFor(pattern)
+  const tail = tailOf(pattern)
+  const matches = tail === null ? globFor(pattern) : { match: (at: string) => at.endsWith(tail) }
   const found: string[] = []
   const walk = (dir: string): void => {
     let entries: readonly Dirent[]
