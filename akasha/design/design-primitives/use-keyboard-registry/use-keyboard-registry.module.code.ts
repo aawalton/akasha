@@ -140,28 +140,55 @@ function register(registration: Registration): () => undefined {
   }
 }
 
-export function useKeyboardBinding(binding: KeyBinding): undefined {
-  const onTriggerRef = useRef(binding.onTrigger)
-  onTriggerRef.current = binding.onTrigger
+function shapeOf(bindings: readonly KeyBinding[]): string {
+  return JSON.stringify(
+    bindings.map((one) => [
+      one.id,
+      one.chord,
+      one.label,
+      one.scope,
+      one.enabled,
+      one.allowInTextInput,
+      one.preventDefault,
+      one.group,
+      one.layer,
+    ])
+  )
+}
 
-  const { id, chord, label, scope, enabled, allowInTextInput, preventDefault, group, layer } =
-    binding
+export function useKeyboardBindings(bindings: readonly KeyBinding[]): undefined {
+  const bindingsRef = useRef(bindings)
+  bindingsRef.current = bindings
+  const shape = shapeOf(bindings)
 
   useEffect(() => {
-    if (enabled === false) return
-    return register({
-      id,
-      chord,
-      label,
-      scope,
-      allowInTextInput,
-      preventDefault,
-      group,
-      layer,
-      enabled: true,
-      onTrigger: () => onTriggerRef.current(),
-    })
-  }, [id, chord, label, scope, enabled, allowInTextInput, preventDefault, group, layer])
+    const undoing = bindingsRef.current
+      .filter((one) => one.enabled !== false)
+      .map((one) =>
+        register({
+          id: one.id,
+          chord: one.chord,
+          label: one.label,
+          scope: one.scope,
+          allowInTextInput: one.allowInTextInput,
+          preventDefault: one.preventDefault,
+          group: one.group,
+          layer: one.layer,
+          enabled: true,
+          onTrigger: () => {
+            const latest = bindingsRef.current.find((other) => other.id === one.id)
+            if (latest !== undefined) latest.onTrigger()
+          },
+        })
+      )
+    return () => {
+      for (const undo of undoing) undo()
+    }
+  }, [shape])
+}
+
+export function useKeyboardBinding(binding: KeyBinding): undefined {
+  useKeyboardBindings([binding])
 }
 
 export function useKeyboardScope(scopeId: string): (element: Element | null) => undefined {
@@ -210,7 +237,7 @@ function getDescriptors(): readonly KeyBindingDescriptor[] {
   return descriptorCache
 }
 
-export function useKeyboardBindings(): readonly KeyBindingDescriptor[] {
+export function useKeyboardBindingDescriptors(): readonly KeyBindingDescriptor[] {
   return useSyncExternalStore(subscribe, getDescriptors, () => EMPTY_DESCRIPTORS)
 }
 

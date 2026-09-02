@@ -15,7 +15,7 @@ import { filterDescriptorsByLabel } from "../shortcut-surfaces/shortcut-surfaces
 import {
   triggerBinding,
   useKeyboardBinding,
-  useKeyboardBindings,
+  useKeyboardBindingDescriptors,
   useShortcutsEnabled,
 } from "../use-keyboard-registry/use-keyboard-registry.module.code.ts"
 
@@ -23,7 +23,7 @@ export function CommandPalette() {
   const [open, setOpen] = useState(false)
   const [query, setQuery] = useState("")
   const [activeIndex, setActiveIndex] = useState(0)
-  const descriptors = useKeyboardBindings()
+  const descriptors = useKeyboardBindingDescriptors()
   const [shortcutsEnabled, setShortcutsEnabled] = useShortcutsEnabled()
   const restoreRef = useRef<HTMLElement | null>(null)
 

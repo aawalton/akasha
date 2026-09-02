@@ -18,7 +18,7 @@ import {
 import { Switch } from "../switch-control/switch-control.module.code.tsx"
 import {
   useKeyboardBinding,
-  useKeyboardBindings,
+  useKeyboardBindingDescriptors,
   useShortcutsEnabled,
 } from "../use-keyboard-registry/use-keyboard-registry.module.code.ts"
 
@@ -26,7 +26,7 @@ const DISABLE_TOGGLE_ID = "disable-keyboard-shortcuts"
 
 export function ShortcutSheet() {
   const [open, setOpen] = useState(false)
-  const descriptors = useKeyboardBindings()
+  const descriptors = useKeyboardBindingDescriptors()
   const [enabled, setEnabled] = useShortcutsEnabled()
 
   useKeyboardBinding({
