@@ -69,7 +69,6 @@
     "temper/player-quests-addon",
     "temper/scripts",
     "temper/shared-addon-libraries-lib-addon-menu",
-    "temper/shared-addon-libraries-lib-sets",
     "temper/shared-addon-libraries-lib-sets-scripts",
     "temper/shared-build-deploy-checks",
     "temper/shared-capture-datamining-addon",

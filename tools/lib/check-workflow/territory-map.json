@@ -43,7 +43,7 @@
     { "addon": "LibPrice", "package": "akasha/temper/temper-lib-price", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13229, "adjacent": ["TemperCrafting"] },
     { "addon": "LibSavedVars", "package": "akasha/temper/temper-lib-saved-vars", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13238, "adjacent": ["TemperNavigation", "TemperCollections"] },
     { "addon": "LibScrollableMenu", "package": "akasha/temper/temper-lib-scrollable-menu", "state": "held", "tiClean": true, "kind": "library", "heldBy": 14478, "adjacent": [] },
-    { "addon": "LibSets", "package": "temper/shared-addon-libraries-lib-sets", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13244, "adjacent": ["TemperCrafting"] },
+    { "addon": "LibSets", "package": "akasha/temper/temper-lib-sets", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13244, "adjacent": ["TemperCrafting"] },
     { "addon": "LibShifterBox", "package": "akasha/temper/temper-lib-shifter-box", "state": "held", "tiClean": true, "kind": "library", "heldBy": 14477, "adjacent": ["TemperInterface"] },
     { "addon": "LibSlashCommander", "package": "akasha/temper/temper-lib-slash-commander", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13228, "adjacent": ["TemperCrafting"] },
     { "addon": "TemperTableFunctions", "package": "akasha/temper/temper-lib-table-functions", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13246, "adjacent": ["TemperCharacters"] },

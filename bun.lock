@@ -3123,17 +3123,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/shared-addon-libraries-lib-sets": {
-      "name": "@temper/shared-addon-libraries-lib-sets",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/shared-addon-libraries-lib-sets-scripts": {
       "name": "@temper/shared-addon-libraries-lib-sets-scripts",
       "version": "0.1.0",
@@ -4418,8 +4407,6 @@
     "@temper/scripts": ["@temper/scripts@workspace:temper/scripts"],
 
     "@temper/shared-addon-libraries-lib-addon-menu": ["@temper/shared-addon-libraries-lib-addon-menu@workspace:temper/shared-addon-libraries-lib-addon-menu"],
-
-    "@temper/shared-addon-libraries-lib-sets": ["@temper/shared-addon-libraries-lib-sets@workspace:temper/shared-addon-libraries-lib-sets"],
 
     "@temper/shared-addon-libraries-lib-sets-scripts": ["@temper/shared-addon-libraries-lib-sets-scripts@workspace:temper/shared-addon-libraries-lib-sets-scripts"],
 
