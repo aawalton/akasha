@@ -24,7 +24,7 @@
     { "addon": "LibCustomMenu", "package": "akasha/temper/temper-lib-custom-menu", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13211, "adjacent": [] },
     { "addon": "libAddonKeybinds", "package": "akasha/temper/temper-lib-addon-keybinds", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13231, "adjacent": ["TemperKeybinder"] },
     { "addon": "LibAddonMenuOrderListBox", "package": "akasha/temper/temper-lib-addon-menu-order-list-box", "state": "held", "tiClean": true, "kind": "library", "heldBy": 14477, "adjacent": ["TemperInterface"] },
-    { "addon": "LibAddonMenu-2.0", "package": "temper/shared-addon-libraries-lib-addon-menu", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13212, "adjacent": ["TemperCrafting", "TemperNavigation", "TemperCollections", "TemperEvents", "LibAlchemyStation"] },
+    { "addon": "LibAddonMenu-2.0", "package": "akasha/temper/temper-lib-addon-menu", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13212, "adjacent": ["TemperCrafting", "TemperNavigation", "TemperCollections", "TemperEvents", "LibAlchemyStation"] },
     { "addon": "LibAlchemyStation", "package": "akasha/temper/temper-lib-alchemy-station", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13207, "adjacent": ["TemperCrafting"] },
     { "addon": "LibAsync", "package": "akasha/temper/temper-lib-async", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13237, "adjacent": ["TemperCrafting", "TemperNavigation"] },
     { "addon": "LibCharacterKnowledge", "package": "akasha/temper/temper-lib-character-knowledge", "state": "held", "tiClean": true, "kind": "library", "heldBy": 13239, "adjacent": ["TemperCrafting"] },
