@@ -8,6 +8,10 @@
     "./zone-casts": "./zone-casts/zone-casts.module.code.ts",
     "./zone-ui-strings": "./zone-ui-strings/zone-ui-strings.module.code.ts",
     "./zone-internal-state": "./zone-internal-state/zone-internal-state.module.code.ts",
+    "./zone-geo-data-00": "./zone-geo-data-00/zone-geo-data-00.module.code.ts",
+    "./zone-geo-data-01": "./zone-geo-data-01/zone-geo-data-01.module.code.ts",
+    "./zone-geo-data-02": "./zone-geo-data-02/zone-geo-data-02.module.code.ts",
+    "./zone-geo-data": "./zone-geo-data/zone-geo-data.module.code.ts",
     "./zone-public-dungeon-map-ids": "./zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
   }
 }

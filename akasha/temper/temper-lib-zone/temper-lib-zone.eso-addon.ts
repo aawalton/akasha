@@ -13,6 +13,10 @@ export const temperLibZone = {
     "module/zone-casts",
     "module/zone-ui-strings",
     "module/zone-internal-state",
+    "module/zone-geo-data-00",
+    "module/zone-geo-data-01",
+    "module/zone-geo-data-02",
+    "module/zone-geo-data",
     "module/zone-public-dungeon-map-ids",
   ],
   invariants: [
