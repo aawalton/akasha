@@ -3,10 +3,13 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./base64url": "./base64url/base64url.module.code.ts",
+    "./bit-reader": "./bit-reader/bit-reader.module.code.ts",
     "./bit-writer": "./bit-writer/bit-writer.module.code.ts",
     "./equipment-mappings": "./equipment-mappings/equipment-mappings.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*"
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
   }
 }

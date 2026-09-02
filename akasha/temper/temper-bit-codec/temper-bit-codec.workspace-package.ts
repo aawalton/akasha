@@ -4,9 +4,15 @@ export const temperBitCodec = {
   id: "01a060af-255f-7995-9b3e-b6dcbaae7cd7",
   pageTypeSlug: "workspace-package",
   slug: "temper-bit-codec",
-  definition: "packing an item's traits and quality into as few bits as the game allows",
+  definition:
+    "packing a build into as few bits as the game allows, and the characters that carry them",
   manifest: "json",
-  partSlugs: ["module/bit-writer", "module/equipment-mappings"],
+  partSlugs: [
+    "module/bit-writer",
+    "module/bit-reader",
+    "module/base64url",
+    "module/equipment-mappings",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -17,8 +23,8 @@ export const temperBitCodec = {
       statement: "A game constant is mapped to a small index before the packing.",
     },
     {
-      invariantKind: "gap",
-      statement: "The reader and the base64url coding are outside akasha yet.",
+      invariantKind: "departure",
+      statement: "The writer and the reader take the bits in the one order.",
     },
   ],
 } as const satisfies WorkspacePackage
