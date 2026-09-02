@@ -1,0 +1,18 @@
+const ESO_CRAFTING_TYPE_BLACKSMITHING = 1
+const ESO_CRAFTING_TYPE_CLOTHIER = 2
+const ESO_CRAFTING_TYPE_ENCHANTING = 3
+const ESO_CRAFTING_TYPE_WOODWORKING = 6
+const ESO_CRAFTING_TYPE_JEWELRYCRAFTING = 7
+
+export const CRAFT_TYPE_MAX_PASSIVE_RANK: Record<number, number> = {
+  [ESO_CRAFTING_TYPE_BLACKSMITHING]: 10,
+  [ESO_CRAFTING_TYPE_CLOTHIER]: 10,
+  [ESO_CRAFTING_TYPE_WOODWORKING]: 10,
+  [ESO_CRAFTING_TYPE_ENCHANTING]: 10,
+  [ESO_CRAFTING_TYPE_JEWELRYCRAFTING]: 5,
+}
+
+export function isCraftingRankBelowCap(rank: number, craftingType: number): boolean {
+  const cap = CRAFT_TYPE_MAX_PASSIVE_RANK[craftingType] ?? 10
+  return rank < cap
+}
