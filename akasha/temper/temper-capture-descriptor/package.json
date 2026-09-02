@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/temper-capture-descriptor",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./descriptor": "./descriptor/descriptor.module.code.ts"
+  }
+}

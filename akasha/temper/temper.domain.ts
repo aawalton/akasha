@@ -23,6 +23,9 @@ export const temper = {
     "workspace-package/temper-capture-shapes",
     "workspace-package/temper-eso-paths",
     "eso-addon/temper-lib-table-functions",
+    "workspace-package/temper-saved-variables",
+    "workspace-package/temper-settings-panel",
+    "workspace-package/temper-capture-descriptor",
   ],
   invariants: [
     {

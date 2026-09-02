@@ -1,0 +1,15 @@
+{
+  "name": "@akasha/temper-saved-variables",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./account-wide": "./account-wide/account-wide.module.code.ts",
+    "./lua-array": "./lua-array/lua-array.module.code.ts",
+    "./lua-parser": "./lua-parser/lua-parser.module.code.ts",
+    "./lua-serializer": "./lua-serializer/lua-serializer.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

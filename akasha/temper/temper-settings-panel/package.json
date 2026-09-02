@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/temper-settings-panel",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./build-lookup": "./build-lookup/build-lookup.module.code.ts",
+    "./dropdown": "./dropdown/dropdown.module.code.ts",
+    "./header": "./header/header.module.code.ts",
+    "./register-panel": "./register-panel/register-panel.module.code.ts"
+  }
+}
