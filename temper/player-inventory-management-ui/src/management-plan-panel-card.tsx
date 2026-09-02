@@ -1,22 +1,22 @@
 "use client"
 
-import { formatGold } from "@akasha/design-primitives/format-gold"
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { CardTitleBadges } from "@akasha/design-primitives/card"
-import { Text } from "@akasha/design-primitives/text-body"
 import { ItemRow } from "@akasha/design-patterns/item-row"
-import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { buildNodePath } from "@akasha/design-patterns/path"
-import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"
+import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
+import { CardTitleBadges } from "@akasha/design-primitives/card"
+import { formatGold } from "@akasha/design-primitives/format-gold"
+import { Text } from "@akasha/design-primitives/text-body"
 import type {
   ActionGroup,
   CharacterSession,
   ManagementPlan,
   PlanItem,
   VenueStop,
-} from "@temper/game-items-rules-routing-core/inventory-management-plan-types"
+} from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
+import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"
 import { useCallback, useState } from "react"
 import {
   decideManagementPlanPanelState,
