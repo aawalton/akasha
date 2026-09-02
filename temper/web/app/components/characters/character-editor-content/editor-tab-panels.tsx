@@ -2,9 +2,9 @@
 
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { TabsContent } from "@akasha/design-patterns/tabs"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { SkillLineCategoryId } from "@akasha/temper-skill-lines/skill-line-category-data"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
+import type { SkillLineCategoryId } from "@akasha/temper-skill-lines/skill-line-category-data"
 import { ChampionPointsPanel } from "@/components/champion-points/champion-points-panel"
 import { CharacterPanel } from "@/components/character/character-panel"
 import { GeneralPanel } from "@/components/character/general-panel"
