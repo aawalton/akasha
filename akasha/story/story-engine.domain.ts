@@ -8,7 +8,7 @@ export const storyEngine = {
   partSlugs: [
     "workspace-package/story-engine-core",
     "workspace-package/story-ui",
-    "workspace-package/tower-core",
+    "workspace-package/story-tower-core",
     "workspace-package/tower-engine",
     "workspace-package/tower",
   ],

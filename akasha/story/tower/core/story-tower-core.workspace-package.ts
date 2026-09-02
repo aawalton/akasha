@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
 
-export const towerCore = {
+export const storyTowerCore = {
   id: "01a05bc6-fa4a-7000-bf9b-15c368be5c0a",
   pageTypeSlug: "workspace-package",
-  slug: "tower-core",
+  slug: "story-tower-core",
   definition: "the shapes a tower game's characters, floors and saved state are stored in",
   manifest: "json",
   partSlugs: [
