@@ -31,6 +31,7 @@
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-game-catalog-capture-host": "workspace:*",
+    "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-races": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-shopping": "workspace:*",
@@ -46,7 +47,6 @@
     "@akasha/temper-items-rules-routing": "workspace:*",
     "@akasha/temper-items-rules-routing-core": "workspace:*",
     "@akasha/temper-trading-pricing-client": "workspace:*",
-    "@temper/player-completion": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {
