@@ -7,6 +7,7 @@ export const musicCommands = {
   definition: "what an agent runs by name over Alan's music",
   manifest: "json",
   partSlugs: [
+    "command/music-capture",
     "command/music-import-artist",
     "command/music-listening",
     "command/music-next",
@@ -15,5 +16,6 @@ export const musicCommands = {
     "command/music-queue",
     "command/music-rate",
     "command/music-search",
+    "module/play-row",
   ],
 } as const satisfies WorkspacePackage
