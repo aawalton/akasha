@@ -12,7 +12,7 @@ export const eppieMigrateMusicToAkasha = {
       statement:
         "Every song, artist and listen the music keeps is a page in akasha rather than in `pages/`.",
       workingMemory:
-        "1,656 songs, 14 artists and 649 heard tracks are pages under `akasha/alan/music`, and 698 listens are rows on the twelve ESO days they were played in. Every field and every attachment byte was compared against the source and matched: 23,184 song field comparisons and 4,863,694 attachment bytes. What is left is deleting `pages/music-song`, `pages/artist`, `pages/music-day` and `pages/heard-music`, which waits on the three files still reading them.",
+        "1,656 songs, 14 artists and 649 heard tracks are pages under `akasha/alan/music`, and 698 listens are rows on the twelve ESO days they were played in. 23,184 field comparisons and 4,863,694 attachment bytes match the source, checked again after the commands landed. All eight commands read the akasha pages now, so nothing reads the old copies but `tools/commands/music/` and `collections/music/`. What is left is deleting those two, then the four folders under `pages/`.",
     },
     {
       statement: "Alan's listening is captured again, onto the pages the new system keeps.",
