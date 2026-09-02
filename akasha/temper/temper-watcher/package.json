@@ -48,14 +48,20 @@
     "./watcher-settings-consumables": "./watcher-settings-consumables/watcher-settings-consumables.module.code.ts",
     "./watcher-import-completion": "./watcher-import-completion/watcher-import-completion.module.code.ts",
     "./watcher-import-item-rule-verdicts": "./watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts",
-    "./watcher-signed-in-user": "./watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+    "./watcher-signed-in-user": "./watcher-signed-in-user/watcher-signed-in-user.module.code.ts",
+    "./watcher-import-inventory": "./watcher-import-inventory/watcher-import-inventory.module.code.ts",
+    "./watcher-import-tasks": "./watcher-import-tasks/watcher-import-tasks.module.code.ts",
+    "./watcher-export-companion-builds": "./watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
   },
   "dependencies": {
+    "@akasha/day": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-query": "workspace:*",
     "@akasha/pages-system": "workspace:*",
+    "@akasha/pages-system-service": "workspace:*",
+    "@akasha/recurrence": "workspace:*",
     "@akasha/supabase-server": "workspace:*",
     "@akasha/temper-addon-generators": "workspace:*",
     "@akasha/temper-build-codec": "workspace:*",

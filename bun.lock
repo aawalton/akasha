@@ -1984,11 +1984,14 @@
     "akasha/temper/temper-watcher": {
       "name": "@akasha/temper-watcher",
       "dependencies": {
+        "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-query": "workspace:*",
         "@akasha/pages-system": "workspace:*",
+        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/recurrence": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/temper-addon-generators": "workspace:*",
         "@akasha/temper-build-codec": "workspace:*",
