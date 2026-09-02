@@ -8,7 +8,7 @@ import type {
   CharEligibility,
   MoveToDestination,
   Tier,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { ArrowDown, ArrowUp, ChevronRight, Trash2 } from "lucide-react"
 import { CharacterTargetSelect } from "./character-target-select"
 import { DestinationCascade } from "./destination-cascade"
