@@ -14,7 +14,6 @@ export const hookSystem = {
     "module/hook-answer",
     "module/hook-judging",
     "module/hook-payload",
-    "module/hook-reaching",
     "module/path-showing",
     "module/settling",
     "module/shell-calls",
