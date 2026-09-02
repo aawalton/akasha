@@ -14,12 +14,12 @@ import type {
   InventoryLeafNode,
   InventoryNode,
 } from "@akasha/temper-items-core/inventory-node-types"
-import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"
 import {
   buildAffectedItemLocationNodes,
   buildAffectedItemNodes,
-} from "@temper/game-items-rules-core/affected-items-tree-builder"
-import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
+} from "@akasha/temper-items-rules-core/affected-items-tree-builder"
+import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"
 import { LayoutList, List, MapPin } from "lucide-react"
 import { useMemo, useState } from "react"
 import { type ValueExplanationData, ValueExplanationDialog } from "./value-explanation-dialog"
