@@ -1,6 +1,7 @@
 "use client"
 
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import {
   bulkUpdateAllQuality,
   bulkUpdateAllSets,
@@ -23,7 +24,6 @@ import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import { weaponBars } from "@akasha/temper-equipment-kinds/weapon-bars"
 import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import {
   AVAILABLE_QUALITY_OPTIONS,
