@@ -1,11 +1,12 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import type { FoodOrDrinkId } from "@akasha/temper-character-sources/food-or-drink-source"
-import type { MundusId } from "@temper/game-characters-character/mundus-source"
 import { type PotionId, potions } from "@akasha/temper-alchemy/potion-source"
+import type { FoodOrDrinkId } from "@akasha/temper-character-sources/food-or-drink-source"
+import type { MundusId } from "@akasha/temper-character-sources/mundus-source"
 import { Info } from "lucide-react"
 import { useState } from "react"
 import {
@@ -15,7 +16,6 @@ import {
 import { getMundusById, MundusSelectDialog } from "@/components/character/mundus-select-dialog"
 import { PotionSelectDialog } from "@/components/character/potion-select-dialog"
 import { FilterableSelectTrigger } from "@/components/ui/filterable-select-dialog"
-import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface ConsumablesPanelCardProps {
   consumables: {
