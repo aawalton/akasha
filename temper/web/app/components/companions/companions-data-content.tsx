@@ -6,6 +6,7 @@ import { useScrollRestoration } from "@akasha/design-patterns/use-scroll-restora
 import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { applyCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
+import { decodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
 import {
   buildOverallRankMap,
@@ -15,7 +16,6 @@ import {
 } from "@akasha/temper-companions-core/companion-leaderboard"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
-import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { useAllCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { useCallback, useEffect, useMemo, useRef } from "react"
