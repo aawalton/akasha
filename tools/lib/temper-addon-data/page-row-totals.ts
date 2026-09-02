@@ -4,10 +4,7 @@ type Rows = { rows: ReadonlyArray<unknown> }
 
 export function buildPageRowTotals(p: AddonDataPages): Record<string, Rows> {
   return {
-    "temper-achievement-category": p.achievementCategoryPages,
-    "temper-activity-category": p.activityCategoryPages,
     "temper-affix-script": p.affixScriptPages,
-    "temper-antiquity-category": p.antiquityCategoryPages,
     "temper-alliance": p.alliancePages,
     "temper-armor-enchant": p.armorEnchantPages,
     "temper-armor-slot": p.armorSlotPages,
@@ -20,7 +17,6 @@ export function buildPageRowTotals(p: AddonDataPages): Record<string, Rows> {
     "temper-character-role": p.characterRolePages,
     "temper-character-skill-activation": p.characterSkillActivationPages,
     "temper-class": p.classPages,
-    "temper-collectible-category": p.collectibleCategoryPages,
     "temper-eso-companion": p.companionPages,
     "temper-companion-activation-buff": p.companionActivationBuffPages,
     "temper-companion-armor-slot": p.companionArmorSlotPages,
@@ -37,7 +33,6 @@ export function buildPageRowTotals(p: AddonDataPages): Record<string, Rows> {
     "temper-companion-weapon-slot": p.companionWeaponSlotPages,
     "temper-companion-weapon-type": p.companionWeaponTypePages,
     "temper-comparison-op": p.comparisonOpPages,
-    "temper-completion-category": p.completionCategoryPages,
     "temper-curse": p.cursePages,
     "temper-debuff-major": p.debuffMajorPages,
     "temper-debuff-minor": p.debuffMinorPages,
@@ -75,7 +70,6 @@ export function buildPageRowTotals(p: AddonDataPages): Record<string, Rows> {
     "temper-skill-bar": p.skillBarPages,
     "temper-skill-line": p.skillLinePages,
     "temper-skill-line-category": p.skillLineCategoryPages,
-    "temper-skill-point": p.skillPointPages,
     "temper-skill-slot": p.skillSlotPages,
     "temper-skill-type": p.skillTypePages,
     "temper-source-category": p.sourceCategoryPages,
@@ -91,12 +85,7 @@ export function buildPageRowTotals(p: AddonDataPages): Record<string, Rows> {
     "temper-weapon-slot": p.weaponSlotPages,
     "temper-weapon-trait": p.weaponTraitPages,
     "temper-weapon-type": p.weaponTypePages,
-    "temper-tribute-patron": p.tributePatronPages,
     "temper-zone": p.zonePages,
-    "temper-world-zone": p.worldZonePages,
-    "temper-cadwell-level": p.cadwellLevelPages,
-    "temper-craft-type": p.craftTypePages,
-    "temper-research-line": p.researchLinePages,
   }
 }
 
