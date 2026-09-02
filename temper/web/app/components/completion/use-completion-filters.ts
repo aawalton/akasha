@@ -1,7 +1,7 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
+import { ACTIVITY_CATEGORIES } from "@akasha/temper-player-completion/activity-categories"
 import type { CompletionSortMode } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import { activityCategories } from "@temper/player-completion/activity-category-data"
 import { getTabForCard } from "@temper/player-completion/completion-card-registry"
 import {
   VALID_SKILL_TYPES,
@@ -94,7 +94,7 @@ export function useCompletionFilters({
             : typeof raw === "string"
               ? raw.split(",")
               : []
-          const valid = items.filter((x) => activityCategories.has(x))
+          const valid = items.filter((x) => ACTIVITY_CATEGORIES.has(x))
           return valid.length > 0 ? valid : undefined
         },
         toParam: (v) => (v.length > 0 ? v.join(",") : null),
