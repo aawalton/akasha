@@ -4,13 +4,13 @@ import { patchPage } from "@akasha/pages-access/patch"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { extractCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
+import { decodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 import { companions } from "@akasha/temper-companions-core/companions"
 import type { BuildHash, BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
-import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
 
 function asJson(value: Record<string, unknown>): Json {
   return value as Json
