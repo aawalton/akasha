@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Addon-data pipeline: the content is whole and the destinations are dying under us. At `685e1bb6a7` it renders 59 files, 41 SAME, 0 DIFF, 18 ABSENT across 5 dead folders; two hours earlier it was 3 dead and 8 ABSENT, so re-run `ensureAllOutputDirs` rather than trust any number here. Blocked on a port, not a body: `imports-inside` bars akasha from `tools/`, so 3,271 lines and 21 unmigrated generators must land under `akasha/temper` first. Findings `593b76c9d6`, `1c78afe15b`.",
+        "Addon-data pipeline is blocked on a port, not a body: `imports-inside` bars akasha from `tools/`. At `ff0eb0b54d` `tools/lib/temper-addon-data` holds 83 files, 29 already pure `@akasha` re-export shims; 54 files and 3,101 lines of orchestration remain, led by `addon-data-pages` at 421 and `catalog-sidecars` at 253. The `code/` generators are migrated — a folder-scoped census called 15 absent and widening found all 15. Findings `593b76c9d6`, `1c78afe15b`.",
     },
     {
       statement: "No part of temper is outside akasha.",
