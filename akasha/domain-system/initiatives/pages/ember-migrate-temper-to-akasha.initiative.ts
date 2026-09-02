@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "20 packages and 987 files remain under `temper/`, from 38 and 2,291. `web` at 358 is a third of it and has a seat. Nine ablation reference sites now, the ninth being a path composed from a fragment, which `akasha remove` cannot see and no search for the package finds. A surgical one-row workspaces edit was overwritten eight seconds later by a sibling rewriting the whole list, with no git conflict, so re-read a shared list at the end rather than trusting the edit.",
+        "17 packages and 899 files remain under `temper/`, from 38 and 2,291, and every one has a seat. `web` at 358 crosses last by ruling: 1,842 of its 2,718 edges already name `@akasha` and the rest wait on the interface packages. A dangling export row in one akasha manifest refuses every write in the repository rather than only its own package's, so retry rather than reach into another lane. A glob whose last match is ablated is orphaned and comes out with it.",
     },
   ],
   constraints: [
