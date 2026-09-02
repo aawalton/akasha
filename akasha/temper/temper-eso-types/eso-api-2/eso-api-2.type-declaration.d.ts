@@ -43,7 +43,7 @@ declare function ZO_PreHook(
   hookFunction: (...args: unknown[]) => unknown
 ): ((...args: unknown[]) => unknown) | undefined
 declare function ZO_PreHook(
-  objectTable: Record<string, unknown>,
+  objectTable: object,
   existingFunctionName: string,
   hookFunction: (...args: unknown[]) => unknown
 ): ((...args: unknown[]) => unknown) | undefined

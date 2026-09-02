@@ -45,7 +45,7 @@ interface Control {
   SetHandler: (
     event: string,
     handler: ((...args: unknown[]) => void) | undefined,
-    name: string
+    name?: string
   ) => void
 }
 

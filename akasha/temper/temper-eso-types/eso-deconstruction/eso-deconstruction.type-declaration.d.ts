@@ -47,7 +47,21 @@ declare function CanItemBeSmithingExtractedOrRefined(
   craftingType: number
 ): boolean
 
-declare const ZO_MenuBar_SelectDescriptor: (this: void, menuBar: object, descriptor: number) => void
+declare const ZO_MenuBar_AddButton: (
+  this: void,
+  menuBar: Control,
+  buttonData: object
+) => Control | undefined
+
+declare const ZO_MenuBar_GetSelectedDescriptor: (this: void, menuBar: Control) => number | string
+
+declare const ZO_MenuBar_SelectDescriptor: (
+  this: void,
+  menuBar: Control,
+  descriptor: number | string,
+  skipAnimation?: boolean,
+  reselectIfSelected?: boolean
+) => boolean
 
 declare const SMITHING_MODE_REFINMENT: number
 declare const SMITHING_MODE_DECONSTRUCTION: number

@@ -15,6 +15,7 @@ interface WorldMapFiltersObject {
   pvePanel?: WorldMapFilterPanel
   pvpPanel?: WorldMapFilterPanel
   imperialPvPPanel?: WorldMapFilterPanel
+  battlegroundPanel?: WorldMapFilterPanel
 }
 declare const WORLD_MAP_FILTERS: WorldMapFiltersObject
 

@@ -8,6 +8,7 @@ declare function ZO_CachedStrFormat(format: string | number, ...args: unknown[])
 
 declare function GetString(this: void, stringId: number): string
 declare function GetString(this: void, stringVariablePrefix: string, value: string | number): string
+declare function GetString(this: void, stringIdOrPrefix: number | string): string
 
 declare const ZO_CreateStringId: (key: string, value: string) => void
 

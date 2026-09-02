@@ -1,10 +1,25 @@
+interface ChatAutoCompleteWidget {
+  enabled?: boolean
+  [key: string]: unknown
+}
+
 interface ChatTextEntry {
   GetText: () => string
   editControl: {
     HasFocus: () => boolean
     InsertText: (text: string) => void
   }
+  targetAutoComplete: ChatAutoCompleteWidget
+  slashCommandAutoComplete: ChatAutoCompleteWidget
+  AutoCompleteTarget: (this: ChatTextEntry, text: string) => undefined
+  CloseAutoComplete: (this: ChatTextEntry) => undefined
 }
+
+interface KeyboardChatSystem {
+  textEntry: ChatTextEntry
+  ignoreTextEntryChangedEvent?: boolean
+}
+declare const KEYBOARD_CHAT_SYSTEM: KeyboardChatSystem
 interface ChatNotificationTimeline {
   Stop: () => void
   PlayFromStart: () => void
