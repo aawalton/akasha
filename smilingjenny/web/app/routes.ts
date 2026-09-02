@@ -11,4 +11,5 @@ export default [
   route("api/safety-level", "routes/api.safety-level.ts"),
   route("api/surplus", "routes/api.surplus.ts"),
   route("api/push/register", "routes/api.push.register.ts"),
+  route("api/errors", "routes/api.errors.ts"),
 ] satisfies RouteConfig

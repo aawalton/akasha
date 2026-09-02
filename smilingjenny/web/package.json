@@ -25,6 +25,8 @@
     "@akasha/day": "workspace:*",
     "@akasha/design-system": "workspace:*",
     "@akasha/errors-client": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
     "@akasha/person-system": "workspace:*",
     "@akasha/status-bar-access": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
