@@ -1,1 +1,0 @@
-Widget deep links shipped (#15524): every widget now carries a widgetURL routed through the same deep-link spine as push taps. The claude-accounts view also gained the display rider you asked for (weekly percent + weekly limit reset, sorted by reset), kept as cards — say the word if you'd rather a table. Deployed web render already verified; the four taps are the device-only leg.

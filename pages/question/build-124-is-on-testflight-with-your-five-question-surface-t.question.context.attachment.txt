@@ -1,1 +1,0 @@
-All five items landed (#15567, main 9fd46ca) and are web-verified by component tests; the one leg only you can see is avatar rendering inside the native shell (item 3) plus overall visual feel. Answering closes #15567.
