@@ -1,13 +1,13 @@
 import * as luaParserModule from "@akasha/temper-saved-variables/lua-parser"
 import * as addonsResolveModule from "@akasha/temper-addons-resolve/addon-roster"
 import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
-import * as collectModule from "@temper/shared-capture-errors-decision-core/collect"
-import * as livenessModule from "@temper/shared-capture-errors-decision-core/liveness"
-import * as savedVariablesSchemaModule from "@temper/shared-capture-errors-decision-core/saved-variables-schema"
-import type { InferredCulprit } from "@temper/shared-capture-errors-decision-core/triage"
-import * as triageGatherModule from "@temper/shared-capture-errors-decision-core/triage-gather"
+import * as collectModule from "@akasha/temper-errors-triage/errors-collect"
+import * as livenessModule from "@akasha/temper-errors-triage/errors-liveness"
+import * as savedVariablesSchemaModule from "@akasha/temper-errors-triage/errors-saved-variables"
+import type { InferredCulprit } from "@akasha/temper-errors-triage/errors-triage"
+import * as triageGatherModule from "@akasha/temper-errors-triage/errors-triage-gather"
 
-export type { Ownership } from "@temper/shared-capture-errors-decision-core/liveness"
+export type { Ownership } from "@akasha/temper-errors-triage/errors-liveness"
 export type { ErrorEntry, InferredCulprit }
 
 // Each of these names a whole module a caller is handed, not a value inside

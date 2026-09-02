@@ -1,17 +1,17 @@
 import {
   collectEntries,
   SAVED_VARIABLES_NAME,
-} from "@temper/shared-capture-errors-decision-core/collect"
+} from "@akasha/temper-errors-triage/errors-collect"
 import {
   classifyLiveness,
   DEFAULT_STALE_AFTER_HOURS,
-} from "@temper/shared-capture-errors-decision-core/liveness"
+} from "@akasha/temper-errors-triage/errors-liveness"
 import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
-import { rootSchema } from "@temper/shared-capture-errors-decision-core/saved-variables-schema"
+import { rootSchema } from "@akasha/temper-errors-triage/errors-saved-variables"
 import {
   gatherTriage,
   readDeployedBuildId,
-} from "@temper/shared-capture-errors-decision-core/triage-gather"
+} from "@akasha/temper-errors-triage/errors-triage-gather"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { loadErrorCursor, saveErrorCursor } from "./import-errors-cursor"
 import { decideErrorEmissions, type EntryVerdict, isStaleResidue } from "./import-errors-decide"

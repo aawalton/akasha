@@ -2,13 +2,13 @@
 import {
   resolveSavedVariablesPath,
   resolveSideFilePath,
-} from "@temper/catalog-cli/temper/catalog/paths"
+} from "@akasha/temper-catalog-side-file/catalog-file-paths"
 import {
   computeNextSideFile,
   parseSideFile,
   type SideFile,
   serializeSideFile,
-} from "@temper/catalog-cli/temper/catalog/side-file"
+} from "@akasha/temper-catalog-side-file/catalog-side-file"
 import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
 import {
   type AccountSummary,

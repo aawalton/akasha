@@ -20,8 +20,10 @@
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-catalog-host": "workspace:*",
+        "@akasha/temper-catalog-side-file": "workspace:*",
         "@akasha/temper-community-addons": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
+        "@akasha/temper-errors-triage": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-game-catalog-capture-host": "workspace:*",
         "@akasha/temper-hud-components": "workspace:*",
@@ -60,7 +62,6 @@
         "@modelcontextprotocol/sdk": "^1.30.0",
         "@stories/text": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
-        "@temper/catalog-cli": "workspace:*",
         "@vscode/ripgrep": "^1.18.0",
         "cdk8s": "^2.70.60",
         "extract-zip": "^2.0.1",
@@ -855,6 +856,9 @@
     },
     "akasha/temper/temper-dungeons": {
       "name": "@akasha/temper-dungeons",
+    },
+    "akasha/temper/temper-equipment": {
+      "name": "@akasha/temper-equipment",
     },
     "akasha/temper/temper-equipment-kinds": {
       "name": "@akasha/temper-equipment-kinds",
@@ -2053,19 +2057,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/catalog-cli": {
-      "name": "@temper/catalog-cli",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-saved-variables": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-characters": {
       "name": "@temper/game-characters",
       "version": "0.1.0",
@@ -2138,6 +2129,7 @@
       "name": "@temper/game-characters-equipment",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
@@ -2992,6 +2984,7 @@
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
+        "@akasha/temper-errors-triage": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-game-catalog-capture-host": "workspace:*",
@@ -3019,7 +3012,6 @@
         "@temper/game-trading-pricing-client": "workspace:*",
         "@temper/player-build-validation": "workspace:*",
         "@temper/player-completion": "workspace:*",
-        "@temper/shared-capture-errors-decision-core": "workspace:*",
         "zod": "^4.3.6",
       },
       "devDependencies": {
@@ -3288,21 +3280,6 @@
         "@akasha/temper-capture-writer": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-capture-errors-decision-core": {
-      "name": "@temper/shared-capture-errors-decision-core",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-capture-errors": "workspace:*",
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-saved-variables": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -3667,6 +3644,8 @@
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:akasha/temper/temper-completion"],
 
     "@akasha/temper-dungeons": ["@akasha/temper-dungeons@workspace:akasha/temper/temper-dungeons"],
+
+    "@akasha/temper-equipment": ["@akasha/temper-equipment@workspace:akasha/temper/temper-equipment"],
 
     "@akasha/temper-equipment-kinds": ["@akasha/temper-equipment-kinds@workspace:akasha/temper/temper-equipment-kinds"],
 
@@ -4404,8 +4383,6 @@
 
     "@temper/catalog-addon": ["@temper/catalog-addon@workspace:temper/catalog-addon"],
 
-    "@temper/catalog-cli": ["@temper/catalog-cli@workspace:temper/catalog-cli"],
-
     "@temper/game-characters": ["@temper/game-characters@workspace:temper/game-characters"],
 
     "@temper/game-characters-capture-addon": ["@temper/game-characters-capture-addon@workspace:temper/game-characters-capture-addon"],
@@ -4583,8 +4560,6 @@
     "@temper/shared-capture-datamining-addon": ["@temper/shared-capture-datamining-addon@workspace:temper/shared-capture-datamining-addon"],
 
     "@temper/shared-capture-errors-addon": ["@temper/shared-capture-errors-addon@workspace:temper/shared-capture-errors-addon"],
-
-    "@temper/shared-capture-errors-decision-core": ["@temper/shared-capture-errors-decision-core@workspace:temper/shared-capture-errors-decision-core"],
 
     "@temper/shared-capture-sales-addon": ["@temper/shared-capture-sales-addon@workspace:temper/shared-capture-sales-addon"],
 

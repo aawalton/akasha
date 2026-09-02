@@ -1,7 +1,7 @@
-import { crashSignatureKey } from "@temper/shared-capture-errors-decision-core/crash-signatures"
-import type { LivenessVerdict } from "@temper/shared-capture-errors-decision-core/liveness"
+import { crashSignatureKey } from "@akasha/temper-errors-triage/errors-crash-signatures"
+import type { LivenessVerdict } from "@akasha/temper-errors-triage/errors-liveness"
 import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
-import type { Triage, TriageVerdict } from "@temper/shared-capture-errors-decision-core/triage"
+import type { Triage, TriageVerdict } from "@akasha/temper-errors-triage/errors-triage"
 
 export interface TemperErrorEnvelope {
   readonly kind: "temper-error"

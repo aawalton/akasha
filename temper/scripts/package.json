@@ -21,6 +21,7 @@
     "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
+    "@akasha/temper-errors-triage": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-game-catalog-capture-host": "workspace:*",
@@ -48,7 +49,6 @@
     "@temper/game-trading-pricing-client": "workspace:*",
     "@temper/player-build-validation": "workspace:*",
     "@temper/player-completion": "workspace:*",
-    "@temper/shared-capture-errors-decision-core": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

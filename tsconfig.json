@@ -139,9 +139,6 @@
       "path": "./stories/text"
     },
     {
-      "path": "./temper/catalog-cli"
-    },
-    {
       "path": "./temper/game-items-filters-core"
     },
     {

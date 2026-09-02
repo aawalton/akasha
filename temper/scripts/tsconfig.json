@@ -36,9 +36,6 @@
     },
     {
       "path": "../player-build-validation"
-    },
-    {
-      "path": "../shared-capture-errors-decision-core"
     }
   ],
   "include": [

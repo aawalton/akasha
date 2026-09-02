@@ -14,7 +14,6 @@ sequence-slugs:
   - domain/ops-temper-watcher
   - domain/ops-temper-addon
   - domain/ops-temper-community-addon
-  - package/temper-shared-capture-errors-decision-core
   - package/temper-scripts
 settled: true
 ---

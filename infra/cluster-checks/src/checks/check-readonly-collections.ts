@@ -58,9 +58,6 @@ function isTstlAddonPath(rel: string): boolean {
   if (rel.startsWith("temper/addons/")) return true
   if (/^temper\/[^/]*-addon\//.test(rel)) return true
   if (rel.startsWith("temper/shared-addon-libraries-")) return true
-  if (rel.startsWith("temper/shared-capture-errors-decision-core/")) {
-    return false
-  }
   if (rel.startsWith("temper/shared-capture-")) return true
   return false
 }
