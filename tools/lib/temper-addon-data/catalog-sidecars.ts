@@ -78,7 +78,13 @@ export async function readCatalogSidecars(): Promise<Sidecars> {
   return held
 }
 
-type Shape = "effects" | "passive-effects" | "flat-quality" | "metric-quality" | "scripts"
+type Shape =
+  | "effects"
+  | "passive-effects"
+  | "flat-quality"
+  | "metric-quality"
+  | "trait-quality"
+  | "scripts"
 
 function effectOf(values: Values): unknown {
   const seconds = numberOf(values["effect-seconds"])
@@ -113,6 +119,13 @@ function metricQualityOf(held: readonly Held[]): Record<string, Record<string, n
   return out
 }
 
+// A jewelry trait names a metric only where its values split in two, as Triune
+// splits into health and resource. Every other trait carries one flat table.
+function traitQualityOf(held: readonly Held[]): Record<string, unknown> {
+  const split = held.some((one) => textOf(one.values["metric-id"]) !== null)
+  return split ? metricQualityOf(held) : flatQualityOf(held)
+}
+
 function scriptsOf(held: readonly Held[]): Record<string, unknown> {
   const out: Record<string, unknown> = {}
   for (const one of held) {
@@ -137,6 +150,7 @@ function shaped(shape: Shape, held: readonly Held[]): unknown {
   if (shape === "passive-effects") return held.map((one) => passiveOf(one.values))
   if (shape === "flat-quality") return flatQualityOf(held)
   if (shape === "metric-quality") return metricQualityOf(held)
+  if (shape === "trait-quality") return traitQualityOf(held)
   return scriptsOf(held)
 }
 
@@ -169,6 +183,22 @@ const CARRIED: Readonly<Record<string, readonly Carry[]>> = {
     ...EFFECTS,
     { sidecar: "quality-values", key: "qualityValues", shape: "metric-quality" },
   ],
+  "temper-jewelry-enchant": [
+    ...EFFECTS,
+    { sidecar: "quality-values", key: "qualityValues", shape: "metric-quality" },
+  ],
+  "temper-weapon-enchant": [
+    ...EFFECTS,
+    { sidecar: "quality-values", key: "qualityValues", shape: "metric-quality" },
+  ],
+  "temper-weapon-trait": [
+    ...EFFECTS,
+    { sidecar: "quality-values", key: "qualityValues", shape: "flat-quality" },
+  ],
+  "temper-jewelry-trait": [
+    ...EFFECTS,
+    { sidecar: "quality-values", key: "qualityValues", shape: "trait-quality" },
+  ],
   "temper-grimoire": [
     { sidecar: "affix-scripts", key: "affixScripts", shape: "scripts" },
     { sidecar: "signature-scripts", key: "signatureScripts", shape: "scripts" },
@@ -189,6 +219,7 @@ const EMPTY: Readonly<Record<Shape, unknown>> = {
   "passive-effects": [],
   "flat-quality": null,
   "metric-quality": {},
+  "trait-quality": null,
   scripts: {},
 }
 

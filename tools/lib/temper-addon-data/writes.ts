@@ -16,23 +16,32 @@ import { buildAddonDataWritesCompanions } from "./writes-companions.ts"
 import { buildAddonDataWritesSkills } from "./writes-skills.ts"
 
 
-export function buildAddonDataWrites(p: AddonDataPages): readonly Promise<number>[] {
-  const w = (dir: string, name: string, source: string): Promise<number> =>
-    Bun.write(resolve(dir, name), source)
-  return [
-    ...buildAddonDataWritesCodec(w),
-    ...buildAddonDataWritesEquipment(p, w),
-    ...buildAddonDataWritesSets(p, w),
-    ...buildAddonDataWritesAlchemy(p, w),
-    ...buildAddonDataWritesCompletion(p, w),
-    ...buildAddonDataWritesLore(p, w),
-    ...buildAddonDataWritesInventory(p, w),
-    ...buildAddonDataWritesRules(p, w),
-    ...buildAddonDataWritesScribing(p, w),
-    ...buildAddonDataWritesStats(p, w),
-    ...buildAddonDataWritesCompanions(p, w),
-    ...buildAddonDataWritesCompanionRotations(p, w),
-    ...buildAddonDataWritesCompanionMappings(w),
-    ...buildAddonDataWritesSkills(p, w),
-  ]
+export type AddonDataWrite = (dir: string, name: string, source: string) => Promise<number>
+
+const writeToDisk: AddonDataWrite = (dir, name, source) => Bun.write(resolve(dir, name), source)
+
+export type AddonDataSection = readonly [string, (p: AddonDataPages, w: AddonDataWrite) => readonly Promise<number>[]]
+
+export const ADDON_DATA_SECTIONS: readonly AddonDataSection[] = [
+  ["codec", (_p, w) => buildAddonDataWritesCodec(w)],
+  ["equipment", buildAddonDataWritesEquipment],
+  ["sets", buildAddonDataWritesSets],
+  ["alchemy", buildAddonDataWritesAlchemy],
+  ["completion", buildAddonDataWritesCompletion],
+  ["lore", buildAddonDataWritesLore],
+  ["inventory", buildAddonDataWritesInventory],
+  ["rules", buildAddonDataWritesRules],
+  ["scribing", buildAddonDataWritesScribing],
+  ["stats", buildAddonDataWritesStats],
+  ["companions", buildAddonDataWritesCompanions],
+  ["companion-rotations", buildAddonDataWritesCompanionRotations],
+  ["companion-mappings", (_p, w) => buildAddonDataWritesCompanionMappings(w)],
+  ["skills", buildAddonDataWritesSkills],
+]
+
+export function buildAddonDataWrites(
+  p: AddonDataPages,
+  w: AddonDataWrite = writeToDisk
+): readonly Promise<number>[] {
+  return ADDON_DATA_SECTIONS.flatMap(([, build]) => build(p, w))
 }
