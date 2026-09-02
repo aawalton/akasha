@@ -69,10 +69,6 @@ interface GamepadWorldMapFilters {
 
 declare const GAMEPAD_WORLD_MAP_FILTERS: GamepadWorldMapFilters | undefined
 
-declare const SCREEN_NARRATION_MANAGER: {
-  QueueParametricListEntry: (list: GamepadParametricScrollList) => void
-}
-
 declare const ZO_FormatToggleNarrationText: (this: void, text: string, value: boolean) => unknown
 
 declare const ZO_GamepadCheckboxOptionTemplate_Setup: unknown

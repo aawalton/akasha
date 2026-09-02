@@ -8,8 +8,6 @@ interface ZoCallbackObject {
   FireCallbacks: (this: ZoCallbackObject, key: number | string, ...args: unknown[]) => void
 }
 
-declare const ZO_Menus: Control
-
 declare const ZO_IsConsoleUI: (this: void) => boolean
 
 declare const IgnoreMouseDownEditFocusLoss: (this: void, ...args: unknown[]) => void
@@ -19,8 +17,6 @@ declare const ZO_Menu_EnterItem: (this: void, control: Control) => void
 declare const ZO_Menu_ExitItem: (this: void, control: Control) => void
 
 declare const ZO_Menu_ClickItem: (this: void, control: Control, button: number) => void
-
-declare const ZO_CheckButton_OnClicked: (this: void, checkButton: Control, button?: number) => void
 
 declare const ZO_CheckButton_SetUnchecked: (this: void, checkButton: Control) => void
 

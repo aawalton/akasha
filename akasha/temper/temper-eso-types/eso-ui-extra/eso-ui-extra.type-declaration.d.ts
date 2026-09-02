@@ -127,6 +127,15 @@ declare const ZO_SCROLLABLE_COMBO_BOX_LIST_PADDING_Y: number
 
 declare const ZO_SORT_BY_NAME: Record<string, unknown>
 
+declare const ZO_Menus: Control
+
+declare const ZO_CheckButton_OnClicked: (this: void, checkButton: Control, button?: number) => void
+
+declare const SCREEN_NARRATION_MANAGER: {
+  QueueParametricListEntry: (list: unknown) => void
+  [key: string]: unknown
+}
+
 declare const ZO_Scroll_SetUseFadeGradient: (
   this: void,
   scrollControl: Control,
