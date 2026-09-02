@@ -101,6 +101,16 @@
         "react": "^18 || ^19",
       },
     },
+    "akasha/alan/music/spotify": {
+      "name": "@akasha/spotify",
+      "bin": {
+        "spotify-auth": "./auth-cli/spotify-auth-cli.module.code.ts",
+      },
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
@@ -953,7 +963,17 @@
       "name": "@akasha/temper-characters-stats",
       "dependencies": {
         "@akasha/temper-alchemy": "workspace:*",
+        "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-champion-points": "workspace:*",
+        "@akasha/temper-character-build": "workspace:*",
+        "@akasha/temper-character-skills": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-characters-equipment": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
+        "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
@@ -1406,6 +1426,21 @@
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-player-completion-skills-morphs-ui": {
+      "name": "@akasha/temper-player-completion-skills-morphs-ui",
+      "dependencies": {
+        "@akasha/design-patterns": "workspace:*",
+        "@akasha/temper-classes": "workspace:*",
+        "@akasha/temper-player-completion": "workspace:*",
+        "@akasha/temper-player-completion-ui": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-skill-morphs": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
       },
     },
     "akasha/temper/temper-player-completion-state": {
@@ -3614,6 +3649,8 @@
 
     "@akasha/sms-core": ["@akasha/sms-core@workspace:akasha/sms-core"],
 
+    "@akasha/spotify": ["@akasha/spotify@workspace:akasha/alan/music/spotify"],
+
     "@akasha/ssh-access": ["@akasha/ssh-access@workspace:akasha/ssh-access"],
 
     "@akasha/status-bar-access": ["@akasha/status-bar-access@workspace:akasha/status-bar-access"],
@@ -3825,6 +3862,8 @@
     "@akasha/temper-narrow": ["@akasha/temper-narrow@workspace:akasha/temper/temper-narrow"],
 
     "@akasha/temper-player-completion": ["@akasha/temper-player-completion@workspace:akasha/temper/temper-player-completion"],
+
+    "@akasha/temper-player-completion-skills-morphs-ui": ["@akasha/temper-player-completion-skills-morphs-ui@workspace:akasha/temper/temper-player-completion-skills-morphs-ui"],
 
     "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:akasha/temper/temper-player-completion-state"],
 
