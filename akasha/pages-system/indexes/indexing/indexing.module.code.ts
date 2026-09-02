@@ -42,7 +42,7 @@ import {
   uniquePropertiesAt,
   uniquePropertiesIn,
 } from "../index-entries/index-entries.module.code.ts"
-import { everyPath, indexThere, readingIn } from "../index-reading/index-reading.module.code.ts"
+import { everyPath, indexThere } from "../index-reading/index-reading.module.code.ts"
 import type { Filing, Reading } from "../index-shape/index-shape.module.code.ts"
 import { stampBuilt, stampSettled } from "../index-stamp/index-stamp.module.code.ts"
 import {
@@ -237,6 +237,7 @@ export type Moving = {
 }
 
 export type Settling = {
+  readonly reading: Reading
   readonly filings: readonly Filing[]
   readonly noted: readonly string[]
   readonly refused: readonly string[]
@@ -381,20 +382,17 @@ export function settlingOver(
     held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
   )
 
+  const filings = [...imported, ...identity, ...paths, ...schema, ...relation, ...valued]
   return {
-    filings: [...imported, ...identity, ...paths, ...schema, ...relation, ...valued],
+    reading: overlaidOn(readingOf(given), filings),
+    filings,
     noted,
     refused: [...was, ...now].flatMap((one) => one.refused),
   }
 }
 
-export function settledOver(
-  root: string,
-  moving: readonly Moving[],
-  pageOf: (path: string) => Value | null
-): Reading {
-  const under = readingIn(root)
-  return overlaidOn(under, settlingOver(under, root, moving, pageOf).filings)
+export function filedInto(root: string, filings: readonly Filing[]): undefined {
+  for (const one of filings) keepWhole(join(root, one.at), one.lines, root)
 }
 
 export function keepingIn(repo: string): Indexing {
@@ -420,7 +418,7 @@ export function indexingAt(root: string, repo: string): Indexing {
       }))
       pending.clear()
       const found = settlingOver(readingAt(root), repo, moving)
-      for (const one of found.filings) keepWhole(join(root, one.at), one.lines, root)
+      filedInto(root, found.filings)
       stampSettled(
         repo,
         root,

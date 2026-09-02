@@ -15,6 +15,14 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
+      statement: "A settle answers the reading the change leaves beside what the change files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One rule writes a filing into an index wherever that index stands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Identity is settled for every page in a write before any relation is.",
     },
     {

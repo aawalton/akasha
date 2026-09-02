@@ -39,6 +39,14 @@ export const shellClean = {
     },
     {
       invariantKind: "departure",
+      statement: "The world carries no index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The linter reads no index.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A script standing outside the world is a script the linter cannot follow a source into.",
     },

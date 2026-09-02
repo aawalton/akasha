@@ -39,6 +39,14 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A shadow answers what the change files beside the index the change leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller standing that index up elsewhere writes what the change files.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The shadow lies over the committed index and holds only the entry files the change touches.",
     },

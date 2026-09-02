@@ -78,7 +78,23 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A world borrows the index from the tree the world is made from.",
+      statement: "A world carries the index the change leaves rather than the tree's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world's index starts as a copy of the tree's index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the change files is written over that copy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the change files is written by the rule a landing files by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world asked for no index carries no index.",
     },
     {
       invariantKind: "departure",

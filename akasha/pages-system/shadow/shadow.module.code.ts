@@ -2,14 +2,15 @@ import { createHash } from "node:crypto"
 import { textOf } from "@akasha/code-system/body-text"
 import { everyValue, readingIn } from "@akasha/indexes"
 import { type Answering, answeringOver } from "@akasha/indexes/answering"
-import { settledOver } from "@akasha/indexes/indexing"
-import type { Reading } from "@akasha/indexes/shape"
+import { settlingOver } from "@akasha/indexes/indexing"
+import type { Filing, Reading } from "@akasha/indexes/shape"
 import type { Change } from "../change/change.module.code.ts"
 import { type Value, valueAt, valueIn } from "../page/page-value/page-value.module.code.ts"
 
 export type Shadow = {
   readonly reading: Reading
   readonly index: Answering
+  readonly filed: () => readonly Filing[]
   readonly pageOf: (path: string) => Value | null
   readonly codeAt: (path: string) => string | null
 }
@@ -73,6 +74,7 @@ export function shadowAt(root: string): Shadow {
   return {
     reading,
     index: answeringOver(reading, root, pageOf),
+    filed: () => [],
     pageOf,
     codeAt: (path) => path,
   }
@@ -93,9 +95,11 @@ function castOver(change: Change): Cast {
       before: textOf(change.before(path)),
       after: textOf(change.after(path)),
     }))
-    const reading = settledOver(change.root, moving, pageOf)
+    const settled = settlingOver(readingIn(change.root), change.root, moving, pageOf)
+    const reading = settled.reading
     const index = answeringOver(reading, change.root, pageOf)
-    return { shadow: { reading, index, pageOf, codeAt: codeOver(change) } }
+    const filed = (): readonly Filing[] => settled.filings
+    return { shadow: { reading, index, filed, pageOf, codeAt: codeOver(change) } }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { refused: `${NOT_WORKED_OUT} — ${why}` }
@@ -120,6 +124,7 @@ export function shadowAsked(change: Change): Shadow {
   return {
     reading,
     index: answeringOver(reading, change.root, pageOf),
+    filed: () => worked().filed(),
     pageOf,
     codeAt: (path) => worked().codeAt(path),
   }

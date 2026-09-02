@@ -135,7 +135,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedIn(change)
   const first = carried[0]
   if (first === undefined) return []
-  const world = worldOf(change.root, besideIn(change, shadow), change.after)
+  const world = worldOf(change.root, besideIn(change, shadow), change.after, null)
   try {
     return judgedOf(lookedOver(world.root, carried, Bun.which(TOOL)), first, world.root)
   } finally {

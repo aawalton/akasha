@@ -28,6 +28,10 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "The world the tests run in carries the index the change leaves.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A test stands beside a changed file when the change answers a body for the test.",
     },
     {

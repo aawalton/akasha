@@ -39,6 +39,14 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
+      statement: "The world carries no index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The linter reads no index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The linter reads each file on its own and follows no import out of that file.",
     },
     {

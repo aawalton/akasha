@@ -54,7 +54,7 @@ function refusalsIn(change: Change): readonly Judged[] {
   const carried = carriedIn(change)
   const first = carried[0]
   if (first === undefined) return []
-  const world = worldOf(change.root, carried, change.after)
+  const world = worldOf(change.root, carried, change.after, null)
   try {
     return judgedOf(lintedOver(world.root, carried), first, world.root)
   } finally {

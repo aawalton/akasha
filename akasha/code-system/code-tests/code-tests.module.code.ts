@@ -12,6 +12,8 @@ import {
 } from "node:fs"
 import { dirname, join, relative, sep } from "node:path"
 import { indexNamed } from "@akasha/indexes"
+import { filedInto } from "@akasha/indexes/indexing"
+import type { Filing } from "@akasha/indexes/shape"
 import { besideAt } from "@akasha/pages-system/page-file-name"
 import { ran } from "@akasha/utils-run/running"
 
@@ -219,7 +221,8 @@ function rootMade(): string {
 export function worldOf(
   from: string,
   paths: readonly string[],
-  at: (path: string) => Uint8Array | null
+  at: (path: string) => Uint8Array | null,
+  filed: readonly Filing[] | null
 ): World {
   const root = rootMade()
   try {
@@ -238,10 +241,12 @@ export function worldOf(
       if (top !== null) tops.add(top)
     }
     const index = join(from, INDEX)
-    if (existsSync(index)) {
+    if (filed !== null && existsSync(index)) {
       reaching(root, `the index at ${index} would not be taken`, () => {
-        mkdirSync(dirname(join(root, INDEX)), { recursive: true })
-        cpSync(index, join(root, INDEX), { recursive: true })
+        const to = join(root, INDEX)
+        mkdirSync(dirname(to), { recursive: true })
+        cpSync(index, to, { recursive: true })
+        filedInto(to, filed)
       })
     }
     for (const one of CARRIED) {
