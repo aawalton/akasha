@@ -23,6 +23,15 @@ export interface ReadoutQuery {
   readonly slug: string
   readonly takes: Readonly<Record<string, string>>
   readonly reducesToOneNumber: boolean
+  /**
+   * The page type the query stands over, as its `page-type:` field names it.
+   *
+   * Which store answers a query is decided by this, so a caller that has to choose between the
+   * checkout and the page service reads it rather than guessing from the query's name.
+   */
+  readonly pageTypeSlug: string | null
+  /** The keys the query names, spelled as the query page spells them. */
+  readonly keys: readonly string[]
 }
 
 export interface ReadoutRow {
@@ -265,6 +274,8 @@ export function readoutCatalog(roots: Roots = rootsHere()): ReadoutCatalog {
       slug,
       takes: takesIn(fm),
       reducesToOneNumber: stringAt(fm, "function") !== null,
+      pageTypeSlug: stringAt(fm, PAGE_TYPE),
+      keys: listField(fm, "keys"),
     })
   }
 
