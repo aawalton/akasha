@@ -5,7 +5,6 @@
   "type": "module",
   "private": true,
   "exports": {
-    "./components/use-app-nav-items": "./src/components/use-app-nav-items.tsx",
     "./*": "./src/*.ts"
   },
   "peerDependencies": {
