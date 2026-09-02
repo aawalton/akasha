@@ -7,4 +7,5 @@ export const charactersTaskProgressResolverSkills = {
   definition:
     "how far a character's skill lines have ranked up and how far its skill points have got",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
