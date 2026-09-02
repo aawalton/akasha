@@ -41,7 +41,7 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement: "A file two rules refuse is refused twice.",
+      statement: "A file two rules refuse is refused by each rule apart.",
     },
     {
       invariantKind: "departure",

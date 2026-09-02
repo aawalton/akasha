@@ -58,7 +58,7 @@ export const nameFormatJudgesByOneShape = {
     {
       invariantKind: "departure",
       statement:
-        "A shape carrying `g` keeps a `lastIndex` between asks and so answers one name differently each time.",
+        "A shape carrying `g` keeps a `lastIndex` between asks and so answers one name differently.",
     },
     {
       invariantKind: "departure",
