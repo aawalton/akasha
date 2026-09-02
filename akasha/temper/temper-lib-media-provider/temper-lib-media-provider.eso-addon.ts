@@ -7,6 +7,7 @@ export const temperLibMediaProvider = {
   definition: "the fonts, textures and sounds addons share with each other",
   manifest: "json",
   addonManifest: "json",
+  siblingManifest: "json",
   bundleEntrySlug: "media-main",
   partSlugs: [
     "eso-interface/media-console-backupfont-jp",

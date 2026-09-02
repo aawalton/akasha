@@ -6,6 +6,7 @@ import type { Bindings } from "./properties/bindings.named-file-property.ts"
 import type { BundleEntrySlug } from "./properties/bundle-entry-slug.relation-property.ts"
 import type { EsoInterfaceSlugs } from "./properties/eso-interface-slugs.relation-property.ts"
 import type { LuaModuleSlugs } from "./properties/lua-module-slugs.relation-property.ts"
+import type { SiblingManifest } from "./properties/sibling-manifest.file-property.ts"
 
 export type EsoAddon = WorkspacePackage & {
   addonManifest: AddonManifest
@@ -14,6 +15,7 @@ export type EsoAddon = WorkspacePackage & {
   interfaceSlugs?: EsoInterfaceSlugs
   luaModuleSlugs?: LuaModuleSlugs
   gitIgnore?: AddonGitIgnore
+  siblingManifest?: SiblingManifest
 }
 
 export const esoAddon = {
@@ -24,6 +26,7 @@ export const esoAddon = {
   pluralSlug: "eso-addons",
   partSlugs: [
     "file-property/addon-manifest",
+    "file-property/sibling-manifest",
     "named-file-property/addon-git-ignore",
     "named-file-property/bindings",
     "relation-property/bundle-entry-slug",
@@ -38,6 +41,7 @@ export const esoAddon = {
     { pagePropertySlug: "eso-interface-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "lua-module-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "addon-git-ignore", required: false, many: false },
+    { pagePropertySlug: "sibling-manifest", required: false, many: false },
   ],
   invariants: [
     {
@@ -67,6 +71,14 @@ export const esoAddon = {
     {
       invariantKind: "departure",
       statement: "Which addons an addon needs loaded first is stated in its manifest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An addon ships a second addon holding a manifest and nothing more.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A second addon shipped inside one is versioned with the addon shipping it.",
     },
     {
       invariantKind: "constraint",
