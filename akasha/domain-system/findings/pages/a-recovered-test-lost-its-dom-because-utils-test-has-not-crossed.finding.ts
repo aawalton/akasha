@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aRecoveredTestLostItsDomBecauseUtilsTestHasNotCrossed = {
+  id: "01a06428-7ccb-74d5-a026-03f03f4b0bc8",
+  pageTypeSlug: "finding",
+  slug: "a-recovered-test-lost-its-dom-because-utils-test-has-not-crossed",
+  domainSlug: "domain/temper",
+  claim:
+    "The one test recovered for temper's completion components could not be ported whole, because the render harness it calls has not crossed into akasha. Both its assertions and its name were kept, and what changed is the mechanism: it walked a rendered DOM for two anchors and now walks the returned React element tree for two hrefs. The weaker claim is that it no longer proves an anchor reached a document, only that the component names the two routes.",
+  evidence:
+    '`completion-page-own-empty.component.test.tsx` was deleted at `5ecda6a07f`, the only test the whole history of `temper/web/app/components/completion` ever held; the 2,271-file deletion at `09f964f5c5` touched none of that folder. Its body imported `render` and `cleanup` from `@shared/utils-test` and wrapped the component in `LayoutRouterProvider` and `LayoutLinkProvider`, then asserted `container.querySelector(\'a[href="/watcher"]\')` and the same for `/import` were not null.\n\n`@shared/utils-test` is a package under `shared/utils-test`, reached by `alanwalton/web`, `temper/web` and its own manifest. Nothing under `akasha/` names `@akasha/utils-test`, and no package.json under `akasha/` names happy-dom or @testing-library, so no DOM render harness is reachable from inside akasha at all. The three landed `.module.test.tsx` files call their component as a plain function instead: `expect(HudPanel({ hud: null })).toBe(null)` at `akasha/story/ui/hud-panel/hud-panel.module.test.tsx`.\n\nThe port keeps the describe name, the test name and both assertions, and reads the hrefs off the element tree the component returns. It passes, at 1 pass and 2 expect() calls. Seeded outside `akasha/` by copying both files to a folder beside the repo root and turning `/watcher` into `/watchers`, the line printed off disk in the same shell call as the runner, it failed with `Received: [ "/watchers", "/import" ]`, so the test does read the component.',
+} as const satisfies Finding
