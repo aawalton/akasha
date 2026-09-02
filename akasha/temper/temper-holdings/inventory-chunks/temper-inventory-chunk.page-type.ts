@@ -1,28 +1,32 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { TemperThing } from "../../temper-thing.page-type.ts"
+import type { ByteCount } from "./properties/byte-count.number-property.ts"
 import type { ChunkIndex } from "./properties/chunk-index.number-property.ts"
-import type { Data } from "./properties/data.file-property.ts"
 import type { Inventory } from "./properties/inventory.relation-property.ts"
 
 export type TemperInventoryChunk = TemperThing & {
   chunkIndex: ChunkIndex
   inventory: Inventory
-  data: Data
+  byteCount: ByteCount
 }
 
 export const temperInventoryChunk = {
   id: "01a05fcb-fd2f-718b-84ca-d9cdeb890706",
   pageTypeSlug: "page-type",
   slug: "temper-inventory-chunk",
-  definition: "one slice of the JSON a reading of an inventory was written as",
+  definition: "one piece of the JSON a reading of an inventory was written as",
   pluralSlug: "temper-inventory-chunks",
   extendsSlug: "page-type/temper-thing",
-  partSlugs: ["file-property/data", "number-property/chunk-index", "relation-property/inventory"],
+  partSlugs: [
+    "number-property/byte-count",
+    "number-property/chunk-index",
+    "relation-property/inventory",
+  ],
   properties: [
     { pagePropertySlug: "account-page", required: true, many: false },
     { pagePropertySlug: "inventory", required: true, many: false },
     { pagePropertySlug: "chunk-index", required: true, many: false },
-    { pagePropertySlug: "data", required: true, many: false },
+    { pagePropertySlug: "byte-count", required: true, many: false },
   ],
   invariants: [
     {
@@ -31,7 +35,15 @@ export const temperInventoryChunk = {
     },
     {
       invariantKind: "departure",
-      statement: "The slices of one reading rejoin in the order the chunk indexes give.",
+      statement: "The pieces of one reading rejoin in the order the chunk indexes give.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A piece is divided on a byte count rather than on a JSON boundary.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The bytes a page here counts are not in akasha.",
     },
   ],
 } as const satisfies PageType
