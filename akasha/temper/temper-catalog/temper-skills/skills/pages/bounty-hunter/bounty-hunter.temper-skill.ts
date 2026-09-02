@@ -1,0 +1,22 @@
+import type { TemperSkill } from "../../temper-skill.page-type.ts"
+
+export const bountyHunter = {
+  id: "01a05fd0-437d-7bf1-b17e-a1c2505082c9",
+  pageTypeSlug: "temper-skill",
+  slug: "bounty-hunter",
+  title: "Bounty Hunter",
+  key: "bounty-hunter",
+  baseName: "Bounty Hunter",
+  description: '"Allows you to accept bounty quests from the Fighters Guild in Cyrodiil."',
+  icon: "/esoui/art/icons/ability_armor_011.dds",
+  esoSkillId: 35804,
+  isMorph: false,
+  learnedLevel: 1,
+  lineRankNeeded: 9,
+  morphIndex: 0,
+  rank: 1,
+  skillLineId: "guild-fighters-guild",
+  skillType: "passive",
+  subcategoryId: "guild-fighters-guild",
+  status: "unsupported",
+} as const satisfies TemperSkill
