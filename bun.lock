@@ -23,7 +23,8 @@
         "@akasha/temper-community-addons": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-game-navigation-capture-host": "workspace:*",
+        "@akasha/temper-game-catalog-capture-host": "workspace:*",
+        "@akasha/temper-hud-components": "workspace:*",
         "@akasha/temper-lua-runner": "workspace:*",
         "@akasha/temper-quests-trace": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
@@ -708,6 +709,12 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-addon-init": {
+      "name": "@akasha/temper-addon-init",
+      "dependencies": {
+        "@akasha/temper-eso-types": "workspace:*",
+      },
+    },
     "akasha/temper/temper-addon-library-types": {
       "name": "@akasha/temper-addon-library-types",
     },
@@ -724,6 +731,12 @@
       "name": "@akasha/temper-alchemy",
       "dependencies": {
         "@akasha/temper-formula-framework": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-bit-codec": {
+      "name": "@akasha/temper-bit-codec",
+      "dependencies": {
+        "@akasha/temper-eso-types": "workspace:*",
       },
     },
     "akasha/temper/temper-build-support": {
@@ -755,6 +768,13 @@
       "name": "@akasha/temper-capture-host",
       "dependencies": {
         "zod": "^4.3.6",
+      },
+    },
+    "akasha/temper/temper-capture-perf": {
+      "name": "@akasha/temper-capture-perf",
+      "dependencies": {
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "akasha/temper/temper-capture-sales": {
@@ -835,56 +855,8 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "akasha/temper/temper-game-collections-antiquities-capture-host": {
-      "name": "@akasha/temper-game-collections-antiquities-capture-host",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "akasha/temper/temper-game-collections-capture-host": {
-      "name": "@akasha/temper-game-collections-capture-host",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "akasha/temper/temper-game-collections-lore-capture-host": {
-      "name": "@akasha/temper-game-collections-lore-capture-host",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "akasha/temper/temper-game-collections-tribute-capture-host": {
-      "name": "@akasha/temper-game-collections-tribute-capture-host",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "akasha/temper/temper-game-completion-capture-host": {
-      "name": "@akasha/temper-game-completion-capture-host",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "akasha/temper/temper-game-crafting-capture-host": {
-      "name": "@akasha/temper-game-crafting-capture-host",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "akasha/temper/temper-game-catalog-capture-host": {
-      "name": "@akasha/temper-game-navigation-capture-host",
+      "name": "@akasha/temper-game-catalog-capture-host",
       "dependencies": {
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
@@ -987,6 +959,20 @@
       "name": "@akasha/temper-skill-lines",
       "dependencies": {
         "@akasha/utils-narrow": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-trading-listings": {
+      "name": "@akasha/temper-trading-listings",
+      "dependencies": {
+        "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/temper/temper-trading-post": {
+      "name": "@akasha/temper-trading-post",
+      "dependencies": {
+        "@akasha/temper-eso-types": "workspace:*",
       },
     },
     "akasha/temper/temper-trading-pricing": {
@@ -2952,6 +2938,8 @@
         "@akasha/day": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "@akasha/pages-query": "workspace:*",
+        "@akasha/pages-system-service": "workspace:*",
         "@akasha/recurrence": "workspace:*",
         "@akasha/supabase-client": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
@@ -2969,13 +2957,7 @@
         "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-game-collections-antiquities-capture-host": "workspace:*",
-        "@akasha/temper-game-collections-capture-host": "workspace:*",
-        "@akasha/temper-game-collections-lore-capture-host": "workspace:*",
-        "@akasha/temper-game-collections-tribute-capture-host": "workspace:*",
-        "@akasha/temper-game-completion-capture-host": "workspace:*",
-        "@akasha/temper-game-crafting-capture-host": "workspace:*",
-        "@akasha/temper-game-navigation-capture-host": "workspace:*",
+        "@akasha/temper-game-catalog-capture-host": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
@@ -3345,24 +3327,12 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
+        "@akasha/temper-hud-components": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
         "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
-        "@temper/shared-interface-hud-scene-catalog": "workspace:*",
         "@temper/shared-narrow": "workspace:*",
       },
       "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
-    "temper/shared-interface-hud-scene-catalog": {
-      "name": "@temper/shared-interface-hud-scene-catalog",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-eso-paths": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
       },
     },
@@ -3660,11 +3630,15 @@
 
     "@akasha/temper-addon-generators": ["@akasha/temper-addon-generators@workspace:akasha/temper/temper-addon-generators"],
 
+    "@akasha/temper-addon-init": ["@akasha/temper-addon-init@workspace:akasha/temper/temper-addon-init"],
+
     "@akasha/temper-addon-library-types": ["@akasha/temper-addon-library-types@workspace:akasha/temper/temper-addon-library-types"],
 
     "@akasha/temper-addons-resolve": ["@akasha/temper-addons-resolve@workspace:akasha/temper/temper-addons-resolve"],
 
     "@akasha/temper-alchemy": ["@akasha/temper-alchemy@workspace:akasha/temper/temper-alchemy"],
+
+    "@akasha/temper-bit-codec": ["@akasha/temper-bit-codec@workspace:akasha/temper/temper-bit-codec"],
 
     "@akasha/temper-build-support": ["@akasha/temper-build-support@workspace:akasha/temper/temper-build-support"],
 
@@ -3677,6 +3651,8 @@
     "@akasha/temper-capture-errors": ["@akasha/temper-capture-errors@workspace:akasha/temper/temper-capture-errors"],
 
     "@akasha/temper-capture-host": ["@akasha/temper-capture-host@workspace:akasha/temper/temper-capture-host"],
+
+    "@akasha/temper-capture-perf": ["@akasha/temper-capture-perf@workspace:akasha/temper/temper-capture-perf"],
 
     "@akasha/temper-capture-sales": ["@akasha/temper-capture-sales@workspace:akasha/temper/temper-capture-sales"],
 
@@ -3706,19 +3682,7 @@
 
     "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:akasha/temper/temper-formula-framework"],
 
-    "@akasha/temper-game-collections-antiquities-capture-host": ["@akasha/temper-game-collections-antiquities-capture-host@workspace:akasha/temper/temper-game-collections-antiquities-capture-host"],
-
-    "@akasha/temper-game-collections-capture-host": ["@akasha/temper-game-collections-capture-host@workspace:akasha/temper/temper-game-collections-capture-host"],
-
-    "@akasha/temper-game-collections-lore-capture-host": ["@akasha/temper-game-collections-lore-capture-host@workspace:akasha/temper/temper-game-collections-lore-capture-host"],
-
-    "@akasha/temper-game-collections-tribute-capture-host": ["@akasha/temper-game-collections-tribute-capture-host@workspace:akasha/temper/temper-game-collections-tribute-capture-host"],
-
-    "@akasha/temper-game-completion-capture-host": ["@akasha/temper-game-completion-capture-host@workspace:akasha/temper/temper-game-completion-capture-host"],
-
-    "@akasha/temper-game-crafting-capture-host": ["@akasha/temper-game-crafting-capture-host@workspace:akasha/temper/temper-game-crafting-capture-host"],
-
-    "@akasha/temper-game-navigation-capture-host": ["@akasha/temper-game-navigation-capture-host@workspace:akasha/temper/temper-game-catalog-capture-host"],
+    "@akasha/temper-game-catalog-capture-host": ["@akasha/temper-game-catalog-capture-host@workspace:akasha/temper/temper-game-catalog-capture-host"],
 
     "@akasha/temper-hud-components": ["@akasha/temper-hud-components@workspace:akasha/temper/temper-hud-components"],
 
@@ -3765,6 +3729,10 @@
     "@akasha/temper-settings-panel": ["@akasha/temper-settings-panel@workspace:akasha/temper/temper-settings-panel"],
 
     "@akasha/temper-skill-lines": ["@akasha/temper-skill-lines@workspace:akasha/temper/temper-skill-lines"],
+
+    "@akasha/temper-trading-listings": ["@akasha/temper-trading-listings@workspace:akasha/temper/temper-trading-listings"],
+
+    "@akasha/temper-trading-post": ["@akasha/temper-trading-post@workspace:akasha/temper/temper-trading-post"],
 
     "@akasha/temper-trading-pricing": ["@akasha/temper-trading-pricing@workspace:akasha/temper/temper-trading-pricing"],
 
@@ -4629,8 +4597,6 @@
     "@temper/shared-foundation-misc-codec": ["@temper/shared-foundation-misc-codec@workspace:temper/shared-foundation-misc-codec"],
 
     "@temper/shared-interface-hud-addon": ["@temper/shared-interface-hud-addon@workspace:temper/shared-interface-hud-addon"],
-
-    "@temper/shared-interface-hud-scene-catalog": ["@temper/shared-interface-hud-scene-catalog@workspace:temper/shared-interface-hud-scene-catalog"],
 
     "@temper/shared-interface-hud-window": ["@temper/shared-interface-hud-window@workspace:temper/shared-interface-hud-window"],
 
