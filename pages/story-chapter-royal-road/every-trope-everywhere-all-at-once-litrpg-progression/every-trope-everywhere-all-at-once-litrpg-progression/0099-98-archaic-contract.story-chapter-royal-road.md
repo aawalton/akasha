@@ -1,0 +1,283 @@
+---
+id: 44dd21f3-be99-5811-8da3-f51e7dc49e73
+page-type-slug: story-chapter-royal-road
+title: "98 - Archaic Contract"
+slug: 0099-98-archaic-contract
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 99
+ownLength: 2274
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3898112/98-archaic-contract"
+royalRoadId: "3898112"
+---
+
+Camille fell to her knees after hearing what had happened to Aurelius, covering her face. Reina ran to her side, reaching out a hand. I caught her wrist before it could actually touch Camille.
+
+“She’ll faint if your hand goes through her,” I whispered.
+
+Reina reluctantly pulled away. “But look at her,” she whispered back. “I can’t just watch her cry.”
+
+“I know… I know,” I said, letting go of her. “I don’t want to either. But we have to. For her sake.”
+
+Talon turned away, unable to bear the sight, while Kaelor and Meriel kept their distance, giving Camille the space she needed.
+
+I noticed a smile curling at the corner of the demon’s lips, but the moment I tried to point it out, he stopped. Instead, he began to frown as he hovered over Camille.
+
+“Don’t do that,” I said to him.
+
+He looked at me. “Do what?”
+
+“Don’t taunt her emotions. You have no idea how she’s feeling right now.”
+
+The demon kneeled beside Camille, frowning at her tears. “This sight pains me. It really does. Is there anything I can do to make you feel better?”
+
+She wiped her eyes, facing him. “There’s nothing you can do,” she said through a sniffle. “Everyone’s gone. Even Aurelius. And this dungeon, I… why have I been trapped here all this time? How did I even get here?”
+
+“It’s a long story,” Gal’Meth said. “Back when you and the others were murdered in the outside world, your souls lingered in the manor for just a while longer. Aurelius was devastated, and his own soul was beginning to fade as well. But I appeared before him, granting him the necessary means to bring you and the others back.”
+
+Then, he let out a laugh. “Though it would appear that endeavor ended in tragedy. Not only was he imprisoned in this dungeon, but your soul and the souls of all the others became stuck here as well. He eventually managed to escape as a dungeon warden, but now he’s dead. There’s nothing holding this dungeon together. I’m impressed, really. He fought so, so hard to bring you and the others back, only to meet a tragic end. The others’ souls have already faded, and yours will be gone soon enough. And it’s all because of her.”
+
+Gal’Meth pointed at Reina.
+
+“Because of her…?” Camille muttered.
+
+“She’s the one who killed Aurelius.”
+
+Her eyes widened. “Reina, is that true…?”
+
+She stayed quiet, looking around at the others for help. Although all of us fought him, she was the one who dealt the final blow. But still…
+
+“We had to kill him,” I said. “He attacked the city, and too many lives were at risk—even ours. He even wanted to steal my body, hoping it would be a suitable vessel for you.”
+
+“For me…?” Camille said.
+
+I nodded. “He said my body was likely compatible with your soul, though it wasn’t perfect. I’m sorry, Camille. We had no other choice.”
+
+She shook her head. “I believe you. It’s just…” She wiped away more tears. “I can’t believe our story had to end this way. I’m beginning to remember how things were between us. This dungeon has kept my mind in its confines, but now that it’s beginning to break apart, my memories are coming back. I…”
+
+Her entire body trembled. I couldn’t help but notice that she was becoming even more transparent than before, as if her ghostly form was starting to vanish.
+
+“I loved him,” she cried. “I loved him… So why did things have to end like this…?”
+
+I squeezed my fist, turning away. Reina gently held my hand, offering me her comfort. I leaned into her.
+
+For a moment, nobody in the room spoke. All we could hear were Camille’s cries. The lights flickered with each wail. Even the fireplace.
+
+The corner of Gal’Meth’s lips curved further every second.
+
+I gritted my teeth.
+
+This tragedy didn’t happen because of Aurelius. It happened because of this demon. It happened because he gave Aurelius powers he shouldn’t have received.
+
+I stormed over to Gal’Meth.
+
+“What is it, little lady?” he said. “Do you—”
+
+I slapped him. His head twisted, staying sideways long enough for his cheek to start bruising.
+
+The others took their stances, as if expecting the demon to retaliate.
+
+He didn’t.
+
+He just faced me again, smiling as if I hadn’t hurt him one bit.
+
+“As I said,” he began. “This body is merely a projection. You can’t possibly hurt—”
+
+I slapped him again—the other direction this time. But unlike last time, his face didn’t move at all. It absorbed the entire impact.
+
+“Allene…” Meriel muttered.
+
+“You think all of this is funny?!” I cried. “Do you think emotions are meant to be toyed with?”
+
+Gal’Meth laughed. “I never said any of that.”
+
+“Your laughter says otherwise,” Kaelor said, stepping in. “You say you’re not like the other demons, but I can tell—you’re no different from the rest.”
+
+The demon shot his head to Kaelor, his eyes wide. “Don’t compare me with them. I’m far more similar to you than I am to them.”
+
+Kaelor frowned. “Don’t compare us.”
+
+The demon laughed again, but it was a different kind of laughter this time.
+
+A manic laugh.
+
+The moment I blinked, he teleported behind Kaelor. He wasn’t holding a weapon, but that sudden movement made Kaelor jump away, pointing his dagger at the demon.
+
+“What game are you trying to play?” Kaelor asked.
+
+“Game? Oh, that wasn’t my intention at all,” Gal’Meth said. “I was simply trying to show you the difference in power between us.”
+
+He walked to the edge of the room, running his hand along the walls.
+
+“As I said before, bloodshed doesn’t suit me. I’ve appeared before you all not for conflict, but to come to an agreement. This dungeon will soon shatter, and Camille’s soul will perish with it. However, I’d like to offer an accord.”
+
+Kaelor shook his head. “We’re not here to make any contracts with a de—”
+
+“Let him talk,” I cut in.
+
+He walked over to me, grabbing my shoulders. “Allene, this is exactly what he wants us to do. There’s no use trying to reason with a demon.”
+
+“But there’s no harm in trying.”
+
+“There is harm,” he argued. “Whatever contract he proposes to us is meant to exploit us, not help us. Demons are born for just that. Trickery. Deception. They’re all the same. No matter how great a contract may sound, a demon will always be the one who benefits the most from it.”
+
+“But I think we should at least listen to what he has to say first,” Meriel said. “I doubt Allene and Reina would just let Camille die without a struggle. And besides—if Gal’Meth wanted to hurt us, he would’ve done so already. It’s quite uncommon to have a demon talk to us as reasonably as he’s doing now.”
+
+Reina nodded in agreement. “We’ll get you out of here, Camille.”
+
+The ghost maid gave her a soft smile. “Reina…”
+
+With that, Gal’Meth stepped in front of the fireplace. As close as he was, he didn’t seem to feel the heat at all.
+
+“Then I’ll begin,” he said, clapping once. “I offer you a single spell: Soul Transference. With it, you’ll be able to move a soul from one vessel to another. You’d be able to save Camille by transferring her soul from her deteriorating ghost form into whatever object you currently have. Then, when the time is right, you’ll be able to transfer her soul into a suitable body. That’s all you need to save her.”
+
+We exchanged looks. As good as it sounded, everybody was on edge because this very magic had driven Aurelius into insanity.
+
+“And what will you get out of it?” I asked.
+
+Gal’Meth smiled. “It’s very simple. I’ll take the same thing that Aurelius gave me all those years ago: a portion of your lifespan.”
+
+Kaelor shook his head. “We’re not doing that.”
+
+Reina stepped toward the demon with a determined expression. “How much of it?”
+
+He grinned. His teeth were razor-sharp, like those you’d find on a monster.
+
+“Half of it.”
+
+“Half…?” Talon muttered.
+
+Kaelor sighed. “As I said, a contract with a demon is—”
+
+“I’ll do it,” I said.
+
+Everyone turned to me.
+
+“Allene…” Camille said, shaking her head. “No, Allene. You don’t have to do this for me…”
+
+Meriel put a hand on my shoulder. “Allene, you do realize what this means, right? With half your lifespan gone, you’ll only live a few more decades.”
+
+“I know,” I said, nodding. “But… I think I’m willing to pay that price if it means saving a life.”
+
+“Even if the person you save is someone you hardly know?”
+
+I nodded right away. “If not me, then who will?”
+
+I locked eyes with Camille. The moment she opened her mouth, I shook my head.
+
+Don’t worry, Camille. I’ll save you. I’ll get you out of here.
+
+Meriel gave my shoulder a gentle squeeze before letting go. “If that’s the decision you’ve come to, I won’t stop you. However…”
+
+She leaned in, whispering, “This is something a protagonist would do, isn’t it? Are you making this decision to fulfill a trope?”
+
+I shook my head. “No. I’m doing this because I want to.”
+
+“Such self-sacrifice is quite atypical coming from you. I didn’t take you to be a hero.”
+
+“I’ve just had enough of letting people go, knowing I can help them,” I whispered.
+
+I won’t make the same mistakes again. Not when I’ve been given a second life in this world.
+
+Meriel smiled. “Wise words. I like this new version of you.”
+
+Reina walked up to me, holding my hands. “Allene, don’t! I’ll do it! Or better yet, let’s split our lifespans!”
+
+Gal’Meth shook his head. “That won’t do. This contract can only apply to one of you, since only one of you can receive the Soul Transference spell.”
+
+I gently pushed her away. “It’s alright, Reina. I want to do this.”
+
+She slowly stepped away, holding herself back as I walked up to Gal’Meth.
+
+“So,” I began. “How do I sign the contract?”
+
+The demon smiled. “A verbal agreement will suffice, though a little blood is needed to seal it. I would suggest getting hold of a dagger and making a tiny slit across your thumb. That’s the most common method.”
+
+Unable to hold himself back any longer, Kaelor ran up to me and pulled me away from Gal’Meth.
+
+“No,” he said. “I refuse to just watch this happen.”
+
+Gal’Meth laughed. “This contract is for her to decide, not you. Begone, Firstborn. This has nothing to do with you.”
+
+I tapped Kaelor’s back. “Just let me do this… please. I can’t just let Camille die.”
+
+He shook his head, staring at the demon. “No. There has to be another way.” He pointed his dagger at Gal’Meth, gritting his teeth. “I propose a duel. If I win, you give us the spell without any repercussions.”
+
+Hearing that, the demon raised a curious eyebrow. “And if you lose?”
+
+“You take my soul,” Kaelor said. “What do you say? High risk, high reward—just the kind of deal demons enjoy the most.”
+
+Gal’Meth burst into laughter, nearly tripping and falling into the fireplace.
+
+“Wow… The bravery of a Firstborn never ceases to amaze me. Dueling, huh? A deal like that hasn’t been made for centuries. That method is archaic, and most demons would reject such an offer, since it’s not guaranteed they’d win anything out of it.”
+
+Kaelor smiled. “But you said so yourself. You’re not like most demons, are you?”
+
+Gal’Meth shook his head. “No… no, I’m not. But I’m curious. How could such a duel possibly favor you?”
+
+“Because I know I’d be able to defeat you.”
+
+The demon frowned. “Could you? I don’t think so.”
+
+“I’ll have to disagree on that.”
+
+The demon paced around the room, occasionally glancing at us. A piece of his clothing caught fire, but the flame somehow went out immediately.
+
+“An adjustment,” Gal’Meth began. “I’m willing to accept this duel—but only with a tiny adjustment.”
+
+He pointed at Meriel, then at me.
+
+“Those two will also be in the duel.”
+
+“You want to fight us one-on-three?” Kaelor asked.
+
+He nodded.
+
+“So you’ll give all three of us the Soul Transference spell if we win?” Kaelor continued.
+
+“No. Just one.”
+
+“Then why would I ever take such a deal?”
+
+“Because then you can face me with the help of your allies—not just yourself.”
+
+Kaelor frowned. “They could lose their souls.”
+
+“Only if you fail to defeat me,” Gal’Meth said.
+
+I stood beside Kaelor.
+
+“We’ll do it,” I said.
+
+Meriel turned to me. “We? Who’s we?”
+
+“We’ll do it,” I said again.
+
+She rolled her eyes, coming over to Kaelor’s other side. “Of course I end up in these situations…”
+
+Gal’Meth looked at the three of us. “So you agree to the conditions of this battle?”
+
+We nodded.
+
+He snapped his fingers. “Very well. Let us fight to the death—or rather, for our souls. When you’re in your last seconds of life, do remember that you’ve brought this upon yourselves.”
+
+[TROPE INITIATED: CONTRACT WITH A DEMON]
+
+Completion criteria: Fight Gal’Meth and emerge victorious.
+
+=== BOSS ENCOUNTER  ===
+
+[GAL’METH, THE SOULBINDER]
+
+Level: 305
+
+HP: 100%
+
+Description:
+
+A demon whose existence has no known beginning. Gal'Meth prefers bargains over bloodshed whenever possible. Little else is known about him.
+
+Assessment:
+
+Never agree to a contract unless you are absolutely certain you understand every consequence. Even then, decline. Don’t trust demons. Though from the direction things are heading toward, it looks like this advice is meaningless.
