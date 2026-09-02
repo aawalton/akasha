@@ -1,0 +1,1 @@
+export const KNOWN_ISSUES_METHODOLOGY_PANELS = []
