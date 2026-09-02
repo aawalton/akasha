@@ -85,9 +85,9 @@ describe("the rows a file beside a page holds", () => {
       expect(rowsBeside(root, PAGE, "sessions")).toEqual([])
       const at = join(
         root,
-        "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.sessions.jsonl"
+        "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.sessions.jsonl"
       )
-      Bun.spawnSync(["mkdir", "-p", join(root, "akasha/alan/daily-tracking/daily-trackings")])
+      Bun.spawnSync(["mkdir", "-p", join(root, "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05")])
       writeFileSync(at, rowsText(HELD))
       expect(rowsBeside(root, PAGE, "sessions")).toEqual(HELD)
     } finally {

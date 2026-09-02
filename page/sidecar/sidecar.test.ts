@@ -28,10 +28,10 @@ standing([
   "pages/daily-tracking/2026-03-06.daily-tracking.md",
   "pages/daily-tracking/2026-03-06.daily-tracking.sessions.jsonl",
   AKASHA_DAY,
-  "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.sessions.jsonl",
-  "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.notes.attachment.md",
+  "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.sessions.jsonl",
+  "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.notes.attachment.md",
   "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06/day-2026-03-06.daily-tracking.ts",
-  "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06.daily-tracking.sessions.jsonl",
+  "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06/day-2026-03-06.daily-tracking.sessions.jsonl",
   AKASHA_SEAT,
   "akasha/seat-system/seat/seats/alan.seat.uncommitted.ts",
   "akasha/seat-system/seat/seats/alan.seat.sops.yaml",
@@ -57,8 +57,8 @@ describe("the files standing beside a page", () => {
    */
   test("an akasha page's files are found rather than answered as none", () => {
     expect(sidecarsOf(root, AKASHA_DAY)).toEqual([
-      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.notes.attachment.md",
-      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.sessions.jsonl",
+      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.notes.attachment.md",
+      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.sessions.jsonl",
     ])
   })
 
@@ -125,12 +125,12 @@ describe("where a file beside a page lands when the page moves", () => {
    */
   test("an akasha page carries its files under a whole name rather than a sliced one", () => {
     const at = sidecarCarriedTo(
-      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.sessions.jsonl",
+      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.sessions.jsonl",
       AKASHA_DAY,
       "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06/day-2026-03-06.daily-tracking.ts"
     )
     expect(at).toBe(
-      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06.daily-tracking.sessions.jsonl"
+      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06/day-2026-03-06.daily-tracking.sessions.jsonl"
     )
     expect(at).not.toContain(".ts.")
   })
@@ -143,7 +143,7 @@ describe("where a file beside a page lands when the page moves", () => {
         AKASHA_DAY
       )
     ).toBe(
-      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.sessions.jsonl"
+      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.sessions.jsonl"
     )
   })
 

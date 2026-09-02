@@ -30,7 +30,7 @@ test("a file standing beside a page carries no page type", () => {
   expect(typeSlotOf("akasha/pages-system/page/page-beside/page-beside.module.test.ts")).toBeNull()
   expect(
     typeSlotOf(
-      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.sessions.jsonl"
+      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.sessions.jsonl"
     )
   ).toBeNull()
 })
