@@ -1,5 +1,6 @@
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { renderBuffEffectEntry } from "../render-buff-effect-entry/render-buff-effect-entry.module.code.ts"
 
 const SCALAR_EFFECT_SCHEMA = z
   .object({
@@ -57,16 +58,9 @@ function parseDebuffMajor(row: Page): ParsedDebuffMajor {
   }
 }
 
-function renderEntry(entry: ParsedEntry): string {
-  if (typeof entry.effectValue === "number") {
-    return `      { metricId: ${JSON.stringify(entry.metricId)} as const, effectType: ${JSON.stringify(entry.effectType)} as const, effectValue: ${entry.effectValue} }`
-  }
-  return `      { metricId: ${JSON.stringify(entry.metricId)} as const, effectType: ${JSON.stringify(entry.effectType)} as const, effectValue: { value: ${entry.effectValue.value}, seconds: ${entry.effectValue.seconds} } }`
-}
-
 function renderDebuff(debuff: ParsedDebuffMajor): string {
   const idLit = JSON.stringify(debuff.debuffId)
-  const entries = debuff.effects.map(renderEntry).join(",\n")
+  const entries = debuff.effects.map(renderBuffEffectEntry).join(",\n")
   return `  ${idLit}: {
     id: ${idLit} as const,
     name: ${JSON.stringify(debuff.name)},
