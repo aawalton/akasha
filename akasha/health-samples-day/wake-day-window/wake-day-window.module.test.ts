@@ -16,7 +16,7 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 function dayFiled(root: string, day: string, rows: readonly unknown[] | null): undefined {
-  const at = `akasha/held/day-${day}/day-${day}.daily-tracking.ts`
+  const at = `akasha/held/day-${day}/day-${day}.wake-day.ts`
   listedFiled(root, "daily-tracking", `day-${day}`, [{ path: at, id: `id-${day}` }])
   mkdirSync(dirname(join(root, at)), { recursive: true })
   writeFileSync(join(root, at), "export const held = {}\n")

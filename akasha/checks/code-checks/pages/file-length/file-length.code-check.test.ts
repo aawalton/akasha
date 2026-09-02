@@ -4,7 +4,7 @@ import { CEILING, ENTRY_CEILING, MARKUP_CEILING, reasonsIn } from "./file-length
 
 const ROOT = "/repo"
 
-const ENTRY = "akasha/day.daily-tracking.completed-tasks.jsonl"
+const ENTRY = "akasha/day.wake-day.completed-tasks.jsonl"
 
 const MARKUP = "akasha/panel.eso-interface.markup.xml"
 

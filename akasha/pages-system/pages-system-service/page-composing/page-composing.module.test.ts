@@ -97,7 +97,7 @@ test("a type declaring no property held in a file carries none", () => {
 test("a new day is placed in a folder of its own under the plural", () => {
   const said = foldedFor(ROOT, [A_DAY])
   expect("puts" in said && said.puts[0]?.path).toBe(
-    "akasha/alan/daily-tracking/daily-trackings/day-1970-01-01/day-1970-01-01.daily-tracking.ts"
+    "akasha/alan/wake-day/daily-trackings/day-1970-01-01/day-1970-01-01.wake-day.ts"
   )
 })
 

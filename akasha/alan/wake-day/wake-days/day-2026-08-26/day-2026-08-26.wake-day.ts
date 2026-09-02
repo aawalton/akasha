@@ -1,0 +1,28 @@
+import type { WakeDay } from "../../wake-day.page-type.ts"
+
+export const day20260826 = {
+  id: "01a03d83-31de-7000-8573-c4322bb2c7c7",
+  pageTypeSlug: "wake-day",
+  slug: "day-2026-08-26",
+  title: "@date:2026-08-26",
+  date: "2026-08-26",
+  version: "3.0",
+  healthPoints: 13.7875,
+  taskPoints: 0,
+  faithPoints: 1.5,
+  lovePoints: 0,
+  sleepPoints: 415,
+  funPoints: 0,
+  learnPoints: 0,
+  strengthVolume: 0,
+  nutritionPoints: 1920,
+  breathingPoints: 0,
+  spannedFromDayBoundary: false,
+  inboxTasks: 21,
+  inboxTasksClearedToday: false,
+  inboxTemperTasks: 19,
+  inboxTemperTasksClearedToday: false,
+  inboxTexts: 2,
+  inboxTextsClearedToday: false,
+  sessions: "jsonl",
+} as const satisfies WakeDay
