@@ -48,11 +48,7 @@ function rootFor(): string {
       workspaces: ["akasha/temper/*"],
     })
   )
-  mkdirSync(join(root, "temper/addons"), { recursive: true })
-  writeFileSync(
-    join(root, "temper/addons/tsconfig.base.json"),
-    JSON.stringify(BASE_SETTINGS, null, 2)
-  )
+  writeFileSync(join(root, "tsconfig.base.json"), JSON.stringify(BASE_SETTINGS, null, 2))
   symlinkSync(join(codeRoot(), "node_modules"), join(root, "node_modules"))
   return root
 }
