@@ -27,6 +27,7 @@ const publicRoutes: RouteConfig = [
 
 const apiRoutes: RouteConfig = [
   route("api/errors", "routes/api.errors.ts"),
+  route("api/ask", "routes/api.ask.ts"),
   route("api/page-types", "routes/api.page-types.ts"),
   route("api/pages/:pageTypeSlug", "routes/api.pages.$pageTypeSlug.ts"),
   route("api/page-write", "routes/api.page-write.ts"),
