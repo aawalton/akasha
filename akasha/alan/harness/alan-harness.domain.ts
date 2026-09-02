@@ -14,6 +14,7 @@ export const alanHarness = {
     "domain/activity",
     "domain/sleep",
     "domain/inboxes",
+    "domain/values",
     "workspace-package/readout-system",
     "workspace-package/voice-core",
     "workspace-package/idle-system",
@@ -102,6 +103,10 @@ export const alanHarness = {
     {
       invariantKind: "departure",
       statement: "Alan's inboxes widget shows all three stoplights.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Alan's values group shows all six stoplights.",
     },
   ],
   directives: [

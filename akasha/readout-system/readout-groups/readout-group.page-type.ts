@@ -15,6 +15,7 @@ export const readoutGroup = {
     "readout-group/safety",
     "readout-group/surplus",
     "readout-group/upkeep",
+    "readout-group/values",
   ],
   extendsSlug: "page-type/domain",
 } as const satisfies PageType
