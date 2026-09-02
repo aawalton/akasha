@@ -40,6 +40,22 @@ export const pageEntries = {
       statement: "The values read here are written over the extension the page states.",
     },
     {
+      invariantKind: "departure",
+      statement: "A property's values may be kept in the numbered files beside the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The values of one property are read in the order the files are numbered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first file of a property is refused where no file is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Reading stops at the first numbered file that is not there.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },

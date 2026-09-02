@@ -2,6 +2,7 @@ import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { ENTRY_PROPERTY } from "@akasha/indexes/entries"
 import { besideAt } from "../page-file-name/page-file-name.module.code.ts"
+import { partsOf } from "../page-file-parts/page-file-parts.module.code.ts"
 import type { Value } from "../page-value/page-value.module.code.ts"
 
 const UNKNOWN = "so what the page carries there is unknown rather than nothing"
@@ -42,15 +43,24 @@ export function entriesIn(at: string, text: string): Rows {
   return { entries: found }
 }
 
+function filed(root: string, at: string): boolean {
+  const found = statSync(join(root, at), { throwIfNoEntry: false })
+  return found?.isFile() === true
+}
+
 export function entriesAt(root: string, page: string, propertySlug: string, held: string): Rows {
-  const at = besideAt(page, propertySlug, held)
-  if (at === null) return { refused: `'${page}' is no page file, ${UNKNOWN}` }
-  const full = join(root, at)
-  const found = statSync(full, { throwIfNoEntry: false })
-  if (found === undefined || !found.isFile()) {
-    return { refused: `'${at}' is named by the page beside it and no file is there, ${UNKNOWN}` }
+  const first = besideAt(page, propertySlug, held)
+  if (first === null) return { refused: `'${page}' is no page file, ${UNKNOWN}` }
+  if (!filed(root, first)) {
+    return { refused: `'${first}' is named by the page beside it and no file is there, ${UNKNOWN}` }
   }
-  return entriesIn(at, readFileSync(full, "utf8"))
+  const found: Value[] = []
+  for (const at of partsOf(page, propertySlug, held, (one) => filed(root, one))) {
+    const read = entriesIn(at, readFileSync(join(root, at), "utf8"))
+    if ("refused" in read) return read
+    found.push(...read.entries)
+  }
+  return { entries: found }
 }
 
 export function entriedValue(

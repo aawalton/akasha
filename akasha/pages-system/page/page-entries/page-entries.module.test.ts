@@ -117,3 +117,36 @@ test("a file beside the page that will not read throws rather than answering sho
 
   expect(() => entriedValue(root, PAGE, { cases: "jsonl" }, [CASES])).toThrow("no JSON")
 })
+
+test("the values of one property are read from the numbered files in order", () => {
+  const root = rooted("akasha-entries-parts-", {
+    [PAGE]: "",
+    "akasha/one/held.model-test.cases.jsonl": '{"at":1}\n{"at":2}\n',
+    "akasha/one/held.model-test.cases.part2.jsonl": '{"at":3}\n',
+    "akasha/one/held.model-test.cases.part3.jsonl": '{"at":4}\n{"at":5}\n',
+  })
+  const read = entriesAt(root, PAGE, "cases", "jsonl")
+
+  expect(read).toEqual({ entries: [{ at: 1 }, { at: 2 }, { at: 3 }, { at: 4 }, { at: 5 }] })
+})
+
+test("reading stops at the first numbered file that is not there", () => {
+  const root = rooted("akasha-entries-gap-", {
+    [PAGE]: "",
+    "akasha/one/held.model-test.cases.jsonl": '{"at":1}\n',
+    "akasha/one/held.model-test.cases.part3.jsonl": '{"at":3}\n',
+  })
+
+  expect(entriesAt(root, PAGE, "cases", "jsonl")).toEqual({ entries: [{ at: 1 }] })
+})
+
+test("a numbered file that will not read refuses the whole property", () => {
+  const root = rooted("akasha-entries-part-broken-", {
+    [PAGE]: "",
+    "akasha/one/held.model-test.cases.jsonl": '{"at":1}\n',
+    "akasha/one/held.model-test.cases.part2.jsonl": "not json\n",
+  })
+  const read = entriesAt(root, PAGE, "cases", "jsonl")
+
+  expect("refused" in read && read.refused).toContain("part2")
+})
