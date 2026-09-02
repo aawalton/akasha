@@ -1,13 +1,14 @@
+import { afterAll, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { afterAll, describe, expect, test } from "bun:test"
 import { besideAt, uncommittedAt } from "@akasha/pages-system/page-file-name"
 import { pagesOfSidecar, sidecarCarriedTo, sidecarsOf } from "./sidecar.ts"
 
 const MARKDOWN_DAY = "pages/daily-tracking/2026-03-05.daily-tracking.md"
 
-const AKASHA_DAY = "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.ts"
+const AKASHA_DAY =
+  "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.ts"
 
 const AKASHA_SEAT = "akasha/seat-system/seat/seats/alan.seat.ts"
 
@@ -29,7 +30,7 @@ standing([
   AKASHA_DAY,
   "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.sessions.jsonl",
   "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.notes.attachment.md",
-  "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06.daily-tracking.ts",
+  "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06/day-2026-03-06.daily-tracking.ts",
   "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06.daily-tracking.sessions.jsonl",
   AKASHA_SEAT,
   "akasha/seat-system/seat/seats/alan.seat.uncommitted.ts",
@@ -73,7 +74,9 @@ describe("the files standing beside a page", () => {
   })
 
   test("a rows file is the one akasha itself names", () => {
-    expect(pagesOfSidecar(besideAt(AKASHA_DAY, "sessions", "jsonl") as string)).toContain(AKASHA_DAY)
+    expect(pagesOfSidecar(besideAt(AKASHA_DAY, "sessions", "jsonl") as string)).toContain(
+      AKASHA_DAY
+    )
   })
 
   test("a page carries no neighbouring page's files", () => {
@@ -91,9 +94,9 @@ describe("the files standing beside a page", () => {
   })
 
   test("a yaml uncommitted file belongs to the markdown page alone", () => {
-    expect(pagesOfSidecar("pages/daily-tracking/2026-03-05.daily-tracking.uncommitted.yaml")).toEqual(
-      [MARKDOWN_DAY]
-    )
+    expect(
+      pagesOfSidecar("pages/daily-tracking/2026-03-05.daily-tracking.uncommitted.yaml")
+    ).toEqual([MARKDOWN_DAY])
   })
 
   test("a sops file names a page of either kind, both naming it the same way", () => {
@@ -124,7 +127,7 @@ describe("where a file beside a page lands when the page moves", () => {
     const at = sidecarCarriedTo(
       "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.sessions.jsonl",
       AKASHA_DAY,
-      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06.daily-tracking.ts"
+      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06/day-2026-03-06.daily-tracking.ts"
     )
     expect(at).toBe(
       "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06.daily-tracking.sessions.jsonl"
@@ -139,15 +142,13 @@ describe("where a file beside a page lands when the page moves", () => {
         MARKDOWN_DAY,
         AKASHA_DAY
       )
-    ).toBe("akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.sessions.jsonl")
+    ).toBe(
+      "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.sessions.jsonl"
+    )
   })
 
   test("a path naming no page is refused rather than answered wrongly", () => {
-    expect(() =>
-      sidecarCarriedTo("pages/x.sessions.jsonl", "pages/x", "pages/y.md")
-    ).toThrow()
-    expect(() =>
-      sidecarCarriedTo("pages/x.sessions.jsonl", "pages/x.md", "pages/y")
-    ).toThrow()
+    expect(() => sidecarCarriedTo("pages/x.sessions.jsonl", "pages/x", "pages/y.md")).toThrow()
+    expect(() => sidecarCarriedTo("pages/x.sessions.jsonl", "pages/x.md", "pages/y")).toThrow()
   })
 })

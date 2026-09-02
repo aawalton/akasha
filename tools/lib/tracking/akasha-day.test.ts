@@ -4,7 +4,8 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { camelised, camelisedRow, rowsBeside, rowsText, turnedRows } from "./akasha-day.ts"
 
-const PAGE = "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.ts"
+const PAGE =
+  "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05/day-2026-03-05.daily-tracking.ts"
 
 const HELD = [
   { id: "one", title: "Sleep", startTime: "a" },
@@ -95,8 +96,11 @@ describe("the rows a file beside a page holds", () => {
   })
 
   test("a path that is no page file refuses rather than naming a file beside nothing", () => {
-    expect(rowsBeside("/", "pages/daily-tracking/2026-03-05.daily-tracking.md", "sessions")).toEqual(
-      { refused: "'pages/daily-tracking/2026-03-05.daily-tracking.md' is no page file, so nothing stands beside it" }
-    )
+    expect(
+      rowsBeside("/", "pages/daily-tracking/2026-03-05.daily-tracking.md", "sessions")
+    ).toEqual({
+      refused:
+        "'pages/daily-tracking/2026-03-05.daily-tracking.md' is no page file, so nothing stands beside it",
+    })
   })
 })
