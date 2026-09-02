@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/temper-navigation-addon",
+  "private": true,
+  "type": "module",
+  "exports": {},
+  "dependencies": {
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*"
+  }
+}

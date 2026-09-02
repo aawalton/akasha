@@ -138,6 +138,7 @@ export const temper = {
     "eso-addon/temper-lib-scrollable-menu",
     "eso-addon/temper-items-addon",
     "eso-addon/temper-antiquities-addon",
+    "eso-addon/temper-navigation-addon",
   ],
   invariants: [
     {

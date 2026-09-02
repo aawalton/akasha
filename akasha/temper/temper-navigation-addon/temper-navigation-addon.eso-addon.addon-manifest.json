@@ -1,0 +1,50 @@
+{
+  "name": "TemperNavigation",
+  "title": "Temper Navigation",
+  "description": "Navigation hub — world-map and compass pins (map pins + POI/destination pins), the shared CustomCompassPins provider that publishes the COMPASS_PINS global, and the minimap window. Consolidates TemperMapPins, CustomCompassPins, TemperDestinations, and TemperVotansMiniMap (#15147).",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101049", "101050", "101051"],
+  "savedVariables": [
+    "TemperMapPins_SavedVars",
+    "TemperMapPins_SavedGlobal",
+    "TemperMapPins_ChestData",
+    "TemperMapPins_ThievesTrove",
+    "TemperDestinations_SavedVariables",
+    "TemperVotansMiniMap_SavedVariables"
+  ],
+  "dependsOn": [
+    "LibMapPins-1.0>=10047",
+    "LibAddonMenu-2.0>=41",
+    "LibGPS>=73",
+    "LibDebugLogger>=274",
+    "LibSavedVars>=60007",
+    "LibNotification>=15",
+    "LibTreasure>=24",
+    "LibMapData>=121",
+    "LibAsync>=30001"
+  ],
+  "optionalDependsOn": ["DebugLogViewer", "TweakIt", "TrueExploration"],
+  "xmlFiles": {
+    "beforeBundle": ["TemperNavigation_Controls.xml"],
+    "afterBundle": []
+  },
+  "assets": [
+    "Chest_1.dds",
+    "Chest_2.dds",
+    "Lorebook_1.dds",
+    "Lorebook_1-2.dds",
+    "Lorebook_2.dds",
+    "Lorebook_2-2.dds",
+    "Scroll_1.dds",
+    "Skyshard_1.dds",
+    "Treasure_1.dds",
+    "Treasure_1-2.dds",
+    "Treasure_2.dds",
+    "Treasure_3.dds",
+    "Treasure_4.dds",
+    "ViewLimit.dds",
+    "WorldMapFrame.dds"
+  ]
+}
