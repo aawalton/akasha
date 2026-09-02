@@ -1,8 +1,8 @@
-import type { CharacterVisibility } from "@temper/game-characters-character/build-types"
+import { characterUrl } from "@akasha/temper-build-support/build-url"
+import type { CharacterVisibility } from "@akasha/temper-character-build/build-types"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { useCharacterList } from "@temper/game-characters-character-ui/use-characters"
 import type { useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
-import { characterUrl } from "@akasha/temper-build-support/build-url"
-import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useMemo } from "react"
 
 type CompletionCharacters = ReturnType<typeof useCompletionCharacters>["characters"]
