@@ -52,7 +52,7 @@
     "@akasha/temper-characters-stats": "workspace:*",
     "@temper/game-codec": "workspace:*",
     "@temper/game-companions-ui": "workspace:*",
-    "@temper/game-items-core": "workspace:*",
+    "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-trading-pricing-client": "workspace:*",
     "@temper/player-completion": "workspace:*",
     "@temper/player-completion-skills-morphs-ui": "workspace:*",

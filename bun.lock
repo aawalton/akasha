@@ -764,6 +764,9 @@
         "typescript": "5.9.3",
       },
     },
+    "akasha/temper/temper-addon-data": {
+      "name": "@akasha/temper-addon-data",
+    },
     "akasha/temper/temper-addon-generators": {
       "name": "@akasha/temper-addon-generators",
       "dependencies": {
@@ -3301,7 +3304,6 @@
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-character": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
-        "@temper/game-characters-stats": "workspace:*",
         "@temper/game-codec": "workspace:*",
         "@temper/game-items-core": "workspace:*",
         "@temper/game-items-rules-core": "workspace:*",
@@ -3482,6 +3484,7 @@
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-shopping": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -3504,7 +3507,6 @@
         "@temper/game-characters-equipment-ui": "workspace:*",
         "@temper/game-codec": "workspace:*",
         "@temper/game-companions-ui": "workspace:*",
-        "@temper/game-items-core": "workspace:*",
         "@temper/player-completion": "workspace:*",
         "@temper/player-completion-skills-morphs-ui": "workspace:*",
         "@temper/player-completion-ui": "workspace:*",
@@ -3711,6 +3713,8 @@
     "@akasha/supabase-server": ["@akasha/supabase-server@workspace:akasha/supabase-server"],
 
     "@akasha/temper-addon-build": ["@akasha/temper-addon-build@workspace:akasha/temper/temper-addon-build"],
+
+    "@akasha/temper-addon-data": ["@akasha/temper-addon-data@workspace:akasha/temper/temper-addon-data"],
 
     "@akasha/temper-addon-generators": ["@akasha/temper-addon-generators@workspace:akasha/temper/temper-addon-generators"],
 
