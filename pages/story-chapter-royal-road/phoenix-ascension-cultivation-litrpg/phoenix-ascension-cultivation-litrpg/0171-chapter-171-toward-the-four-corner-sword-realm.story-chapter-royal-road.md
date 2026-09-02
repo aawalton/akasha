@@ -1,0 +1,221 @@
+---
+id: 995515bc-4e07-5ec1-bc4c-1d945d3696bb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 171: Toward the Four Corner Sword Realm!"
+slug: 0171-chapter-171-toward-the-four-corner-sword-realm
+partOf: phoenix-ascension-cultivation-litrpg
+position: 171
+ownLength: 2374
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3901460/chapter-171-toward-the-four-corner-sword-realm"
+royalRoadId: "3901460"
+---
+
+“Achoo.”
+
+When did I even catch a cold? I wasn’t outside for that long, come on now.
+
+I was sat on the bed in the loungings provided by the sect with the kid still tending to me. I inspected his body, and it seemed that he’s actually started cultivating.
+
+He was making progress toward the first layer of Qi Condensation. I couldn’t help but wonder what he would do in the future.
+
+The Reaper Sect was an interesting place to live in, but at least they it didn’t seem like they were getting abused.
+
+Although for a sect with such a name I would not expect anythign short of human sacrifice.
+
+Anyway, I won first place so I would be the first to enter the secret realm, which was pretty amazing.
+
+Meng Mao was preparing to leave now, though he would probably be held another week because of all the people that wanted to talk to him about me.
+
+I didn’t pity him. Well, maybe a little.
+
+Either way, it was not my issue anymore. I would bring him something from the realm though, it was the only right thing to do.
+
+The Patriarch didn’t say when we were going to leave though, and quite frankly I was getting tired of having to sit around and do nothing. I couldn’t refine my sword, I couldn’t increase my cultivation, I couldn’t increase my core, I could basically do nothing!
+
+Should I just go around and anger a Young Master? Maybe I could bother those two Spirit Beasts and ask them if they know where I could find a secret Spirit Beast society.
+
+That would surely scare them.
+
+But no, I had… Well I would have said I had better things to do, but not really.
+
+The Patriarch would probably call us in for some sort of award ceremony, then we would be headed off toward the Secret Realm, wherever that was.
+
+My only issue would be Yo Na and the rest not finding me. I would need to tell Meng Mao to give them a location or something, but I didn’t even consider how they would get to the Reaper Sect to begin with.
+
+It wasn’t like it took us a week or so with a flying carriage. They would take even longer… It was probably just not worth it in the grand scheme of things, honestly.
+
+They would be better off just waiting for me, Meng Mao would need to give them something to do if they didn’t want to remain bored.
+
+Ah well.
+
+With that in mind, I closed my eyes and went to sleep. I just wanted time to pass at that point.
+
+Aaand… It was the morning of the next day when we were all called out in front of the arena. There weren’t any more people watching, just those of us who qualified, the elders of the Reaper Sect, and the Patriarch.
+
+It was a chilly morning, which was good, it was better than warm mornings.
+
+Not that I cared much for temperature anyway.
+
+Everyone else was sitting straight and attentive while the Patriarch stared at everyone with scrutiny.
+
+The elders were as well, and amongst them, I noticed Elder Su sitting quietly and not paying any particular attention to anyone.
+
+It was clear to me that she was inpatient, though. I couldn’t help but ask myself how long until her ghost technique would be too much for her to handle.
+
+Or how long until she would get discovered. Although I didn’t believe for a second that the patriarch wasn’t aware of her techniques.
+
+Still, it was also deahtly obvious that she was looking at me, though not with her eyes.
+
+Whatever the case was, the better question would be why was the Patriarch waiting so long to do anything.
+
+He gathered us there, after all.
+
+Thankfully, I didn’t have to wait for a long time as he finally cleared his throat and spoke.
+
+“I am incredibly happy to see so many talents here today. The fights were a treat as well, and it allowed us all to see where the top geniuses of our sects and clans stand. There have been some surprised, though they were welcome.
+
+I would like to extend my congratulations towrad our winners, who will continue on toward the Four Corner Sword Realm where they will be able to further prove themselves.
+
+All twelve of you have earned your spot, and I think, all deserve a reward in hopes that it may help you in the future. All of these gifts come from the collective treasury of our sects made specifically for this ocassion, so please do not worry and don’t be shy about accepting them.
+
+Please walk forward when I call out your names.”
+
+His voice boombed thorough the area, but it wasn’t really… unpleasant?
+
+Menawhile I could only wonder what the poor outer sect disciples were doing while we were having this tournament, since this was basically their own area.
+
+Ah well…
+
+“Shuzhai Shu of the Scholar Domination Sect, please come forward.”
+
+He looked around then stepped onto the arena with a single step. The Patriach flew down as well and handed him a ring that had the symbol of the Reaper Sect on it.
+
+I squinted at it. A spatial ring was strange, and one with that symbol was stranger. I would need to figure out what had been done with it later.
+
+“This is a ring that has the equivalent storage space of a medium-sized bag of holding. Inside there are some pills that we hope will save you in the future.”
+
+Shuzhai Shu cupped his fists and bowed. “Many thanks to the Patriarch, many thanks to the elders.”
+
+“You may step back now.”
+
+He made his way back toward his spot, and Peng Long called out the next name on the list, Qi Rian of the Rock Point Clan, though that was probably a lie. Or maybe the entire Rock Point Clan had Spirit Beasts disguised as humans in it.
+
+Who knew?
+
+The gifts were the same, a ring, pills and whatever else. I was dying to know, just a little though.
+
+The next afterwards were Yi Lingxy, Mei Ba Do, Lian shu, Pei Hua, Jiang Chi, Jiang Ji, Fah Xing, and Hwei Badai.
+
+They were all renowned names from their rspective sects and clans, but they all recieved the same thing.
+
+When calling out Hwei Badai’s name, though, there was a little bit of hesitation. Just the tiniest bit on the Patriarch’s part. I wasn’t sure why, but I kept that in mind.
+
+He did recieve the same thing as everyone else though.
+
+Peng Li’s turn was met with much more fanfare from the elders, but not from the Patriarch. He said the same thing he said to everyone else, which wasn’t much to begin with.
+
+I could tell that his grandson or whatever was very diassitsfied with his placement. So what? He could only blame his own weakness.
+
+Giving him a second look, the soul thing inside him had also disappeared. That was peculiar, his techniques weren’t as straight forward as they would seem.
+
+But that didn’t change anything, and hopefully, I wouldn’t need to face him or anyone else again in the future. That wasn’t what interested me, unless they would grow more powerful.
+
+Which most likely, would not be the case.
+
+Finally, it was my turn. I could tell that there was just the tiniest bit of tension when the Patriarch called out my name, which was always fun.
+
+Walking up onto the stage, I didn’t even get a chance to look at the ring, as Peng Long had not even started reciting his lines.
+
+Up on the stands one of the elders sat up and raised an accusatory finger toward me.
+
+“I object. This… woman is clearly not at the Qi Condensation stage.”
+
+When he said that, many of the elders nodded om approval. They must not have been happy I stole their dear prodigy’s place.
+
+Ah well… What was I to do?
+
+“We demand a re-test of her cultivation.”
+
+Peng Long sighed. “Elder Lu… could you please tell me what would the interest of faking this be, besides wasting everyone’s time?”
+
+“Right.” Elder Su stood up as well, a devious smile on her face. “Since the Four Corner Sword Realm only accepts Qi Condensation disciples, then even if she had faked it so she looked to be at the Qi Condensation stage, what would be the point, because when it would be time to enter, she won’t be able to.”
+
+Another set of elders agreed with her, and honestly I was just getting a headache.
+
+I unleashed my full cultivation and stared down the first elder. “Come down here and test me if you wish, I have nothing to hide.”
+
+“Hmph!” He scoffed, but didn’t move. “There are many techniques to hide one’s cultivation. I am merely at the Core Formation stage, so I may not be powerful enough to ascertain the truth. But to someone like the Patriarch, this should be an easy job, right?”
+
+Peng Long’s brows furrowed when he heard that. What was even the point of this conflict? They were just salty that I won over their grandson, there was no reason to do all of this just to confirm my cultivation.
+
+Unless this wasn’t about my cultivation at all, in which case… I was being used as a tool?
+
+My cultivation flared as anger coursed through me. How dare they?
+
+“Stop this nonsense.” I said as calmly as I could. “I will not be used in your games just because I am at the Qi Condensation stage. Act like adults. If you have any issues with me, speak!”
+
+I must have been a little more aggressive than I meant to be, but honestly it was their fault for acting like that.
+
+Both the elders and the patriarch were stunned at my tone.
+
+“Junior, know your place!” Elder Lu’s fierce aura of a Core Formation cultivator bore down upon me, but I didn’t back down. I was not going to be humiliated or used as a tool for their political games.
+
+“Bullying those weaker than you? Is that how the Reaper Sect handles its affairs? Ha!” I lauhged daringly, knowing that they couldn’t do anything against me.
+
+“You-” Elder Lu’s aura flared, forcing me down, and it was hard even for me to resist.
+
+I was still too weak!
+
+“Sit down!” Peng Long commanded, unleashing the aura of his Nascent Soul cultivation. Elder Lu’s cultivation base immediately quieted down, and I retracted mine as well. He didn’t focus it on me, but even if he did, I would not have instnatly succumbed, so it was better to be safe.
+
+There was a hint of suspicion when he stared at me.
+
+“This is no way for an elder to behave himself. Settle down, and I will take care of this matter.”
+
+Peng Long’s lip twitched as he looked at me, and well, he had no choice but to test me now.
+
+His palm hovered above my forehead and his Qi ran through my meridians. I manipulated Perfect Disguise to only show the first nine levels of Qi Condensation, and it was already fully mastered, ready to evolve, so without an extremely deep glance, I should have no issues.
+
+And I didn’t. Peng Long gave me a cursory glance and confirmed that I was at the ninth stage of Qi Condensation.
+
+“She’s at the peak of Qi Condensation, stop making a fuss. She does have a unique phisique though… A very powerful one, so it makes sense that she’s so powerful at her rank.”
+
+Phisique? Do you mean the one created by the Divine Lightning Transformation Technique, or something else entirely?
+
+I didn’t know what he’d figured out, but as long as it wasn’t the truth, it would be fine.
+
+“Now, are there any more complaints?” Peng Long stared at Elder Lu, and Elder Su smiled to herself. She probably thought she’d curried some favor with me, but jokes on her, the quest was already given and accepted so…
+
+I gracefully took the ring from the Patriarch and made my way back at my own spot, although Peng Long was now looking at me with some suspicion, and the other elders… well they didn’t look too happy about my provocation.
+
+Especially not that Elder Lu and his entourage.
+
+Were they a party opposed to Peng Long, but so openly… It was hard to figure them out.
+
+I stashed the ring inside my pocket, since you couldn’t put dimensional devices in one another, unless you wanted to create something akin to a small explosion that would destroy everything inside both items.
+
+It was better to be safe than sorry. I was going to check it out on the way anyway.
+
+Peng Long cleared his throat. “Now that the ceremony is over, I think it’s just about time for us to depart.”
+
+As he said that, two giant boats flew down from within the clouds, the symbol of the Reaper Sect etched onto the vessels and flags.
+
+They were in the shape of giant… well, boats, but more aerodynamic.
+
+The circular shape of the usual bottom was replaced with a slope more suited to push the air to the sides while still allowing plenty of space for the kitchens and bedrooms.
+
+The front of the ship was kept in a similar shape, but there was no statue or anything of the sort in front, and the most important change was that instead of an oval shape, it was more triangular, allowing for a better flight and more space at the back.
+
+They landed right on the side of the island, floating, and waiting for us.
+
+They were two very impressive things, each of them being enough to house at least one hundred people with space to move about.
+
+And they were all used for about twenty people.
+
+Talk about a way to show off your wealth. I couldn’t help but roll my eyes.
+
+“Everyone, please board and let us go on toward the Four Corner Sword Realm!” Peng Long said and cheers erupted from the elders, and eventually, the disciples.
+
+It was time indeed.
