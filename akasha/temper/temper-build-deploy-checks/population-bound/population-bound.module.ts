@@ -20,5 +20,13 @@ export const populationBound = {
       invariantKind: "constraint",
       statement: "A caller handing the same count twice reports no shortfall.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "A record naming both counts does not stop a caller handing the same count twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every call site is rewritten on its way into akasha.",
+    },
   ],
 } as const satisfies Module

@@ -3,9 +3,16 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./addon-dependency-cycle": "./addon-dependency-cycle/addon-dependency-cycle.module.code.ts",
+    "./addon-dependency-floor": "./addon-dependency-floor/addon-dependency-floor.module.code.ts",
     "./addon-roster-guard": "./addon-roster-guard/addon-roster-guard.module.code.ts",
+    "./check-addon-dependency-cycle": "./check-addon-dependency-cycle/check-addon-dependency-cycle.module.code.ts",
+    "./check-addon-dependency-floor": "./check-addon-dependency-floor/check-addon-dependency-floor.module.code.ts",
+    "./check-eso-typings-fresh": "./check-eso-typings-fresh/check-eso-typings-fresh.module.code.ts",
     "./cli-args": "./cli-args/cli-args.module.code.ts",
     "./error-message": "./error-message/error-message.module.code.ts",
+    "./eso-clone-artifacts": "./eso-clone-artifacts/eso-clone-artifacts.module.code.ts",
+    "./eso-doc-api-version": "./eso-doc-api-version/eso-doc-api-version.module.code.ts",
     "./population-bound": "./population-bound/population-bound.module.code.ts",
     "./repo-root": "./repo-root/repo-root.module.code.ts",
     "./suggest-closest": "./suggest-closest/suggest-closest.module.code.ts",
@@ -13,6 +20,7 @@
   },
   "dependencies": {
     "@akasha/temper-addons-resolve": "workspace:*",
+    "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "typescript": "^5.8.3",
     "zod": "^4.3.6"
