@@ -1,0 +1,25 @@
+{
+  "name": "LibSets",
+  "title": "LibSets",
+  "description": "List of all ingame sets and functions to check what set type they are, set names, itemIds, drop locations, etc.",
+  "author": "AlanGaming",
+  "version": "0.9.2",
+  "addonVersion": 9020,
+  "apiVersion": ["101050", "101051"],
+  "savedVariables": ["LibSets_SV_Data", "LibSets_SV_DEBUG_Data"],
+  "dependsOn": [],
+  "optionalDependsOn": [
+    "LibAddonMenu-2.0",
+    "LibCustomMenu",
+    "LibScrollableMenu",
+    "LibSlashCommander",
+    "LibZone"
+  ],
+  "xmlFiles": {
+    "afterBundle": [
+      "PC/CopyText/LibSets_CopyTextDialog.xml",
+      "SearchUI/LibSets_SearchUI_Shared.xml",
+      "SearchUI/Keyboard/LibSets_SearchUI_Keyboard.xml"
+    ]
+  }
+}

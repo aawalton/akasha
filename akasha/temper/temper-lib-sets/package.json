@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/temper-lib-sets",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./lib-sets-bool-pair": "./lib-sets-bool-pair/lib-sets-bool-pair.module.code.ts",
+    "./lib-sets-casts": "./lib-sets-casts/lib-sets-casts.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-eso-types": "workspace:*"
+  }
+}
