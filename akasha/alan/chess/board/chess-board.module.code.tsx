@@ -15,8 +15,8 @@ import {
   useState,
 } from "react"
 import { z } from "zod"
-import ChessEvalBar from "../eval/bar/chess-eval-bar.module.code.tsx"
 import { evalToWhiteFraction, formatScore } from "../eval/chess-eval.module.code.ts"
+import ChessEvalBar from "../eval-bar/chess-eval-bar.module.code.tsx"
 import ChessMoveList from "../move-list/chess-move-list.module.code.tsx"
 import type { ChessState, ChessStatus } from "../state/chess-state.module.code.ts"
 import {
