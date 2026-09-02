@@ -2,12 +2,19 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code-system/code-format"
+import { agentPathOf } from "@akasha/context-system/warranting"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { INSIDE } from "../change-freshness/change-freshness.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import type { FileCarry, FileEdit, Landed, Refused } from "../landing/landing.module.code.ts"
+import type {
+  Drafted,
+  FileCarry,
+  FileEdit,
+  Landed,
+  Refused,
+} from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
 import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
@@ -17,6 +24,8 @@ import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
 export const DRY_RUN = "--dry-run"
 
 export const BREAK_GLASS = "--break-the-glass"
+
+export const DRAFT = "--draft"
 
 const NOTHING = "nothing was judged and nothing was written"
 
@@ -40,6 +49,7 @@ export type Asked = {
   readonly saying: Saying
   readonly read?: string | null
   readonly carries?: readonly FileCarry[]
+  readonly draft?: boolean
 }
 
 export type Trouble = {
@@ -319,10 +329,60 @@ export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly R
   return held
 }
 
+function draftedSaid(said: Drafted, aside: readonly string[], checks: number): readonly string[] {
+  return [
+    ...aside,
+    ...said.drafted.map((one) => `drafted ${one}`),
+    judgedBy(checks, said.drafted.length),
+    said.patch === null
+      ? "the patch was worked out to nothing and taken away"
+      : `the patch is kept against ${said.base} — say \`akasha patch\` to read it`,
+  ]
+}
+
+function draftingAsked(
+  given: Given,
+  asked: Asked,
+  gate: Judging,
+  message: string,
+  asRead: readonly Reading[],
+  aside: readonly string[]
+): Answer {
+  const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+  if (page === null) {
+    return mistaking([
+      `${DRAFT} keeps a patch beside the page of the agent drafting it, and this call names no such page`,
+    ])
+  }
+  let said: Drafted | Refused
+  try {
+    said = landing(
+      given.root,
+      asked.changes,
+      message,
+      gate,
+      given.writer,
+      asked.read ?? null,
+      asRead,
+      asked.carries ?? [],
+      { page }
+    )
+  } catch (thrown) {
+    return { report: [], refusals: [`nothing was drafted — ${whyOf(thrown)}`], code: 3 }
+  }
+  if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+  return { report: draftedSaid(said, aside, gate.named.length), refusals: [], code: 0 }
+}
+
 export function landingAsked(given: Given, asked: Asked): Answer {
   if (asked.dryRun && asked.glass !== null) {
     return mistaking([
       `${DRY_RUN} reports what the checks say and ${BREAK_GLASS} runs none, so together they report nothing`,
+    ])
+  }
+  if (asked.dryRun && asked.draft === true) {
+    return mistaking([
+      `${DRAFT} keeps what a change would leave and ${DRY_RUN} keeps nothing, so together they keep nothing`,
     ])
   }
   let minted: Minted
@@ -345,16 +405,19 @@ export function landingAsked(given: Given, asked: Asked): Answer {
   const broken = "broken" in built ? built.broken : null
   const gate = gateFor(held, bypass === null && "gate" in built ? built.gate : NO_GATE)
   if (held.dryRun) return reporting(given.root, held, gate, aside)
+  const message = messageWith(held, bypass, broken)
+  const asRead = asReadIn(given, formatting.changes)
+  if (held.draft === true) return draftingAsked(given, held, gate, message, asRead, aside)
   let said: Landed | Refused
   try {
     said = landing(
       given.root,
       held.changes,
-      messageWith(held, bypass, broken),
+      message,
       gate,
       given.writer,
       held.read ?? null,
-      asReadIn(given, formatting.changes),
+      asRead,
       held.carries ?? []
     )
   } catch (thrown) {

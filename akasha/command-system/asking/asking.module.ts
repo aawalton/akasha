@@ -31,6 +31,38 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement: "A draft is gated as a landing is gated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft keeps a patch rather than writing a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft and a dry run name two answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming a draft and a dry run together is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The patch a draft keeps sits beside the page of the agent that asked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller whose agent has no page is refused rather than drafted nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body drafted is recorded as read by nobody.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a draft left is named in the report as what was drafted.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A dry run judges what is there as the dry run runs rather than what a later landing will judge.",
     },
