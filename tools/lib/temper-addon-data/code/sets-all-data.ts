@@ -1,1 +1,1 @@
-export { setsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
+export { setsAll } from "@akasha/temper-characters-equipment/sets-all"

@@ -1,1 +1,1 @@
-export { weaponTraits } from "@temper/game-characters-equipment/traits/weapon-traits-data"
+export { weaponTraits } from "@akasha/temper-equipment/weapon-traits"

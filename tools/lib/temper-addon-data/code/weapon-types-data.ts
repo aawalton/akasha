@@ -1,1 +1,1 @@
-export { weaponTypes } from "@temper/game-characters-equipment/weapons/weapon-types-data"
+export { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
