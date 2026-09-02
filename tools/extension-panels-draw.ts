@@ -28,10 +28,15 @@ FIVE SURFACES, AND A COUNT IS PINNED ON ONE OF THEM.
   opsDomainTree   every row carries a label and an id, and some row opens a document
   opsWorkTree     every row carries a label and an id, and some row carries a turn colour
   opsPageTree     every row carries a label and an id, and some row opens a document
-  the status bar  two usage numbers read as numbers, and three stoplight groups count 6, 3, 6
+  the status bar  two usage numbers read as numbers, and two stoplight groups count 6 and 3
 
-Only the status bar's three counts are pinned, by invariants on
-\`akasha/alan/harness/alan-harness.domain.ts\`. The four trees are judged on shape and on being
+Only the status bar's two counts are pinned, and what pins them is stated about another
+surface: \`akasha/alan/harness/alan-harness.domain.ts\` says Alan's upkeep widget shows all
+six stoplights and his inboxes widget all three. The invariant naming the status line
+itself asks for Claude usage and both readout groups, and names no count. The counts carry
+across because \`group-stoplights.ts\` reads each group through the same
+\`stoplightsInGroup\` the widget endpoints answer from, so a group that loses a readout here
+lost it for the widget too. The four trees are judged on shape and on being
 non-empty, never on a row count: a lane once read 13 work rows across 5 roots and those figures
 were true for an hour. What is asserted is that rows exist and carry what the tree provider
 reads, because a row with no label is a blank line in the panel and draws as a failure.
@@ -81,9 +86,13 @@ export function membersExported(stub: string): ReadonlySet<string> {
 
 const RUN_TIMEOUT_MS = 180_000
 
-// The status bar's three groups, and the count each is pinned to by an invariant on
-// `akasha/alan/harness/alan-harness.domain.ts`. A group that draws four of six stoplights has
-// lost two readouts, and drawing four is not an error anywhere else.
+// The status bar's two groups, and the count each is pinned to. The counts are the ones
+// `akasha/alan/harness/alan-harness.domain.ts` states about Alan's upkeep and inboxes widgets —
+// the status line's own invariant there asks for both groups without naming a size — and they hold
+// here because both surfaces read a group's membership through the same `stoplightsInGroup`.
+// A group that draws four of six stoplights has lost two readouts, and drawing four is not an
+// error anywhere else. A third group of six read the `values` readouts until `267f233e10` took the
+// group, its slot and its separator out of the status bar.
 const PINNED_GROUPS: readonly { readonly id: string; readonly said: string; readonly count: number }[] = [
   { id: "opsStatusBar.upkeepStoplights", said: "upkeep", count: 6 },
   { id: "opsStatusBar.inboxStoplights", said: "inboxes", count: 3 },
