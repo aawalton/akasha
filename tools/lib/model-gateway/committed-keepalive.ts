@@ -194,7 +194,22 @@ export function buildCommittedKeepaliveResponse(args: {
         finishComplete()
       }
 
-      void orchestrate()
+      // A REJECTION HERE IS THE ONLY PATH OUT OF `orchestrate` THAT ENDS NOTHING. `finishComplete`
+      // runs on every other path, and it is what closes the stream, stops the heartbeat and
+      // releases the hold. Thrown past, `void` swallows the error and the client is left reading an
+      // SSE stream that never carries data and never ends, while the hold ages in `/inflight` and
+      // the heartbeat fires on. Measured: after 800ms, heldCount=1 and 16 keepalive comments sent.
+      void orchestrate().catch((err) => {
+        console.error(
+          `${logPrefix} committed-keepalive ${method} ${pathname} phase=failed heldMs=${Date.now() - committedStartMs}`,
+          err
+        )
+        heartbeat.stop()
+        safeEnqueue(
+          buildAnthropicSseErrorFrame("api_error", "the gateway failed while holding this request")
+        )
+        finishComplete()
+      })
     },
     cancel(): undefined {
       disconnected = true
