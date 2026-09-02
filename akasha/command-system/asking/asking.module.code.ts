@@ -225,6 +225,12 @@ export function judgedBy(checks: number, paths: number): string {
   return `${counted(checks, "check")} judged the ${counted(paths, "path")} asked for, and none refused`
 }
 
+export function judgedOver(checks: number, paths: number): string {
+  const held = `${counted(paths, "path")} the patch would leave`
+  if (checks === 0) return `no check runs at this phase, so the ${held} went unjudged`
+  return `${counted(checks, "check")} judged the ${held}, and none refused`
+}
+
 export function committedLine(said: Landed): string {
   if (said.commit === null) return "nothing was committed — what was asked for already stands"
   if (said.commit === UNNAMED) return "committed — the commit could not be named"
@@ -339,7 +345,7 @@ function draftedSaid(
   return [
     ...aside,
     ...said.drafted.map((one) => `drafted ${one}`),
-    judgedBy(checks, said.drafted.length),
+    judgedOver(checks, said.judged.length),
     ...said.clashed.map(
       (one) => `${one} carries a conflict — resolve it in the patch before the patch applies`
     ),

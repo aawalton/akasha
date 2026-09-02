@@ -67,6 +67,14 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement: "A draft says how many paths the patch would leave were judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a draft was judged over is the patch rather than the call's own paths.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A dry run judges what is there as the dry run runs rather than what a later landing will judge.",
     },

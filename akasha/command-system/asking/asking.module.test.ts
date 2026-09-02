@@ -10,6 +10,7 @@ import { baseOf as headOf } from "../landing/landing.module.code.ts"
 import {
   committedLine,
   judgedBy,
+  judgedOver,
   landingAsked,
   MECHANICAL,
   NO_CHECKS,
@@ -203,6 +204,13 @@ test("a landing names what judged it, and says so when nothing did", () => {
   expect(judgedBy(1, 1)).toBe("1 check judged the 1 path asked for, and none refused")
   expect(judgedBy(0, 1)).toBe(
     "no check runs at this phase, so the 1 path asked for landed unjudged"
+  )
+})
+
+test("a draft names how many paths the patch would leave were judged", () => {
+  expect(judgedOver(1, 1)).toBe("1 check judged the 1 path the patch would leave, and none refused")
+  expect(judgedOver(0, 2)).toBe(
+    "no check runs at this phase, so the 2 paths the patch would leave went unjudged"
   )
 })
 
