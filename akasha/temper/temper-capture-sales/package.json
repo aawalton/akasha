@@ -1,0 +1,9 @@
+{
+  "name": "@akasha/temper-capture-sales",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./sales-descriptor": "./sales-descriptor/sales-descriptor.module.code.ts",
+    "./sales-payload": "./sales-payload/sales-payload.module.code.ts"
+  }
+}

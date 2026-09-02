@@ -1,0 +1,9 @@
+{
+  "name": "@akasha/temper-capture-datamining",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./datamining-descriptor": "./datamining-descriptor/datamining-descriptor.module.code.ts",
+    "./datamining-payload": "./datamining-payload/datamining-payload.module.code.ts"
+  }
+}

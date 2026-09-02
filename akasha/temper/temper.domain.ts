@@ -59,6 +59,9 @@ export const temper = {
     "workspace-package/temper-completion",
     "workspace-package/temper-catalog-host",
     "workspace-package/temper-game-navigation-capture-host",
+    "workspace-package/temper-capture-datamining",
+    "workspace-package/temper-capture-errors",
+    "workspace-package/temper-capture-sales",
   ],
   invariants: [
     {
