@@ -388,7 +388,7 @@ export function settlingOver(
   }
 }
 
-export function readingOver(
+export function settledOver(
   root: string,
   moving: readonly Moving[],
   pageOf: (path: string) => Value | null

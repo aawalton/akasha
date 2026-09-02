@@ -2,7 +2,7 @@ import { createHash } from "node:crypto"
 import { textOf } from "@akasha/code-system/body-text"
 import { everyValue, readingIn } from "@akasha/indexes"
 import { type Answering, answeringOver } from "@akasha/indexes/answering"
-import { readingOver } from "@akasha/indexes/indexing"
+import { settledOver } from "@akasha/indexes/indexing"
 import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "../change/change.module.code.ts"
 import { type Value, valueAt, valueIn } from "../page/page-value/page-value.module.code.ts"
@@ -93,7 +93,7 @@ function castOver(change: Change): Cast {
       before: textOf(change.before(path)),
       after: textOf(change.after(path)),
     }))
-    const reading = readingOver(change.root, moving, pageOf)
+    const reading = settledOver(change.root, moving, pageOf)
     const index = answeringOver(reading, change.root, pageOf)
     return { shadow: { reading, index, pageOf, codeAt: codeOver(change) } }
   } catch (thrown) {
