@@ -1,0 +1,304 @@
+// Alan's inbox tile, driven over real HTTP: the relay carrier POSTs each reading into his
+// receiving route, and the group-serving path answers them as the `stoplights` body his shipped
+// widget decodes. The relay secret is the only made-up thing here, generated fresh for each run.
+//
+// The readings are fixtures, and they are the five in the widget's own `INBOX_PREVIEW`. Alan's own
+// inbox counts are never read here, and no test asserts a count as though it were his.
+//
+// What this pins that the upkeep files do not:
+//
+// The key. `InboxStoplight` decodes `let inbox: String`, non-optional, where every other stoplight
+// consumer decodes `habit`, and `answerStoplightsAdmittedBy` defaults to `habit`. A route that
+// forgot the fourth argument would answer 200 with a well-formed body that throws inside the array
+// decode on the phone, leaving the last good payload on screen. Nothing on the server would say
+// so. The assertion is on `Object.keys` of the decoded body rather than on field access, because
+// `habit` and `inbox` are both declared on `Stoplight` and reading either one typechecks.
+//
+// The count. Three of five readouts would answer three rings and look right, so these count what
+// comes back rather than asking whether anything did.
+//
+// The direction. All three inbox scales fall — a hundred waiting is black and an empty inbox is
+// blue — where every upkeep scale climbs. A `tierAt` that reads only climbing scales answers null
+// for all five, and a readout answering null is left out rather than refused, so the tile would
+// have shown no rings while nothing errored.
+import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
+import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
+import { action } from "./api.readout-relay.ts"
+
+// This workspace preloads happy-dom, which replaces `globalThis.Response` with one `Bun.serve`
+// refuses to answer with. The preload keeps the native `fetch`, so the native `Response` comes
+// back off any answer that fetch gives.
+globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
+
+const RELAY_SECRET = crypto.randomUUID()
+const GROUP = "inboxes"
+
+process.env.READING_RELAY_SECRET = RELAY_SECRET
+
+const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
+
+// The five readouts naming the `inboxes` group and the three scales they are read against, as
+// those pages state them. Held here so a change to any of them shows up as a failure rather than
+// as a missing ring.
+const READOUT_ROWS = [
+  {
+    slug: "inboxes-email",
+    label: "Email",
+    unit: "messages",
+    place: 1,
+    figureFormat: "integer",
+    scaleSlug: "lowest-inbox-count",
+    wireKey: "email",
+    groupSlugs: [GROUP],
+  },
+  {
+    slug: "inboxes-tasks",
+    label: "Tasks",
+    unit: "tasks",
+    place: 2,
+    figureFormat: "integer",
+    scaleSlug: "daily-inbox",
+    wireKey: "tasks",
+    groupSlugs: [GROUP],
+  },
+  {
+    slug: "inboxes-temper-tasks",
+    label: "Temper tasks",
+    unit: "tasks",
+    place: 3,
+    figureFormat: "integer",
+    scaleSlug: "daily-inbox",
+    wireKey: "temperTasks",
+    groupSlugs: [GROUP],
+  },
+  {
+    slug: "inboxes-texts",
+    label: "Unread texts",
+    unit: "texts",
+    place: 4,
+    figureFormat: "integer",
+    scaleSlug: "daily-inbox",
+    wireKey: "texts",
+    groupSlugs: [GROUP],
+  },
+  {
+    slug: "inboxes-questions",
+    label: "Questions",
+    unit: "questions",
+    place: 5,
+    figureFormat: "integer",
+    scaleSlug: "live-count",
+    wireKey: "questions",
+    groupSlugs: [GROUP],
+  },
+]
+
+const SCALE_ROWS: Record<string, Record<string, unknown>> = {
+  "daily-inbox": {
+    slug: "daily-inbox",
+    blackAt: 100,
+    redAt: 10,
+    yellowAt: 1,
+    blueAt: 0,
+    earnedColorSlug: "green",
+  },
+  "lowest-inbox-count": {
+    slug: "lowest-inbox-count",
+    blackAt: 100,
+    redAt: 20,
+    yellowAt: 10,
+    greenAt: 1,
+    blueAt: 0,
+  },
+  "live-count": { slug: "live-count", redAt: 4, yellowAt: 2, greenAt: 1, blueAt: 0 },
+}
+
+// The widget's own preview payload, which is the record of what the old server sent.
+const CARRIED: readonly (readonly [string, number])[] = [
+  ["inboxes-email", 0],
+  ["inboxes-tasks", 4],
+  ["inboxes-temper-tasks", 23],
+  ["inboxes-texts", 6],
+  ["inboxes-questions", 2],
+]
+
+const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: READOUT_ROWS }
+
+let store: ReturnType<typeof Bun.serve>
+let server: ReturnType<typeof Bun.serve>
+let origin: string
+
+beforeAll(() => {
+  store = Bun.serve({
+    port: 0,
+    fetch: async (request) => {
+      const asked = (await request.json()) as {
+        pageTypeSlug: string
+        where?: { slug?: { is?: string } }
+      }
+      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
+      const named = asked.where?.slug?.is ?? ""
+      const scale = SCALE_ROWS[named]
+      return Response.json({ rows: scale === undefined ? [] : [scale] })
+    },
+  })
+  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+  server = Bun.serve({
+    port: 0,
+    fetch(request) {
+      const { pathname } = new URL(request.url)
+      if (pathname === RELAY_PATH) return action({ request } as never)
+      if (pathname === "/api/inbox-stoplights") {
+        return answerStoplightsAdmittedBy(request, () => null, GROUP, "inbox")
+      }
+      return new Response("no such route", { status: 404 })
+    },
+  })
+  origin = `http://localhost:${server.port}`
+})
+
+afterAll(() => {
+  server.stop()
+  store.stop()
+})
+
+beforeEach(() => {
+  dropRelayed()
+  ANSWERED.readouts = READOUT_ROWS
+})
+
+type Stoplight = Record<string, unknown>
+
+const tile = () => fetch(`${origin}/api/inbox-stoplights`)
+
+const carryNow = (readout: string, value: number, at: Date = new Date()) =>
+  relayReading(origin, RELAY_SECRET, { readout, value, at: at.toISOString() })
+
+async function carryAll(at: Date = new Date()): Promise<void> {
+  for (const [readout, value] of CARRIED) await carryNow(readout, value, at)
+}
+
+async function drawn(): Promise<readonly Stoplight[]> {
+  const answered = await tile()
+  expect(answered.status).toBe(200)
+  const body = (await answered.json()) as { stoplights: readonly Stoplight[] }
+  return body.stoplights
+}
+
+test("nothing carried in says there is no reading rather than an empty list", async () => {
+  const answered = await tile()
+  expect(answered.status).toBe(503)
+  expect(await answered.json()).toEqual({ ok: false, error: "No reading." })
+})
+
+test("all five inboxes come back when all five have been carried in", async () => {
+  await carryAll()
+  expect((await drawn()).length).toBe(5)
+})
+
+test("every stoplight carries its key under `inbox` rather than under `habit`", async () => {
+  await carryAll()
+  for (const one of await drawn()) {
+    expect(Object.keys(one)).toContain("inbox")
+    expect(Object.keys(one)).not.toContain("habit")
+  }
+})
+
+test("the five keys are the five the shipped widget looks its labels up by", async () => {
+  await carryAll()
+  expect((await drawn()).map((one) => one.inbox)).toEqual([
+    "email",
+    "tasks",
+    "temperTasks",
+    "texts",
+    "questions",
+  ])
+})
+
+test("the rings come back in the place order the readout pages state", async () => {
+  await carryAll()
+  expect((await drawn()).map((one) => one.label)).toEqual([
+    "Email",
+    "Tasks",
+    "Temper tasks",
+    "Unread texts",
+    "Questions",
+  ])
+})
+
+test("an inbox with no fresh reading is left out rather than refusing the whole tile", async () => {
+  await carryNow("inboxes-email", 0)
+  await carryNow("inboxes-questions", 2)
+  const some = await drawn()
+  expect(some.length).toBe(2)
+  expect(some.map((one) => one.inbox)).toEqual(["email", "questions"])
+})
+
+test("every stoplight carries a tier that is one of the six colours the phone decodes", async () => {
+  await carryAll()
+  for (const one of await drawn()) {
+    expect(TIERS).toContain(one.tier)
+    if (one.nextTier !== undefined) expect(TIERS).toContain(one.nextTier)
+  }
+})
+
+test("an inbox at empty is blue, with no tier above it", async () => {
+  await carryAll()
+  const [email] = await drawn()
+  expect(email?.tier).toBe("blue")
+  expect(email?.reading).toBe("0")
+  expect(email?.nextTier).toBeUndefined()
+  expect(email?.progress).toBeUndefined()
+})
+
+test("a falling scale colours a rising count worse rather than better", async () => {
+  await carryAll()
+  const [, tasks, temperTasks, texts] = await drawn()
+  expect(tasks?.tier).toBe("yellow")
+  expect(temperTasks?.tier).toBe("red")
+  expect(texts?.tier).toBe("yellow")
+})
+
+test("an inbox over a hundred is black rather than a reading gone missing", async () => {
+  await carryNow("inboxes-tasks", 140)
+  const [one] = await drawn()
+  expect(one?.tier).toBe("black")
+  expect(one?.reading).toBe("140")
+})
+
+test("the tier a falling reading is next to reach is the better one", async () => {
+  await carryAll()
+  const [, tasks, temperTasks] = await drawn()
+  expect(tasks?.nextTier).toBe("blue")
+  expect(temperTasks?.nextTier).toBe("yellow")
+})
+
+test("how far a falling reading has come is the fraction of its band it has come down", async () => {
+  await carryAll()
+  const [, tasks, temperTasks, texts, questions] = await drawn()
+  expect(tasks?.progress).toBeCloseTo(6 / 9, 12)
+  expect(temperTasks?.progress).toBeCloseTo(77 / 90, 12)
+  expect(texts?.progress).toBeCloseTo(4 / 9, 12)
+  expect(questions?.progress).toBe(1)
+})
+
+test("a count reaches the widget as a string, which is what the widget decodes", async () => {
+  await carryAll()
+  for (const one of await drawn()) expect(typeof one.reading).toBe("string")
+})
+
+test("a count is written whole rather than as the float the relay carried", async () => {
+  await carryNow("inboxes-tasks", 4.4)
+  expect((await drawn())[0]?.reading).toBe("4")
+})
+
+test("a reading past forty-five minutes is no reading", async () => {
+  await carryAll(new Date(Date.now() - 46 * 60_000))
+  expect((await tile()).status).toBe(503)
+})
+
+test("nothing between here and the tile is allowed to keep an answer", async () => {
+  await carryAll()
+  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+})
