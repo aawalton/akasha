@@ -3,6 +3,7 @@ import { acquireLocalCutLock, releaseLocalCutLock } from "@akasha/mobile-cli/loc
 import { type MobileApp, resolveApp } from "@akasha/mobile-cli/mobile-app"
 import { runTestflightCut } from "@tools/lib/mobile-testflight-cut"
 import type { Answer } from "../../../calling/calling.module.code.ts"
+import { saidBy } from "../../../fault-saying/fault-saying.module.code.ts"
 
 const DATA = 2
 
@@ -24,10 +25,6 @@ export function linesFor(slug: string, pagePath: string, noUpload: boolean): rea
     `build\t${CONFIGURATION}\tfrom ${REF}`,
     noUpload ? NO_UPLOAD_SAID : UPLOAD_SAID,
   ]
-}
-
-function saidBy(err: unknown): string {
-  return err instanceof Error ? err.message : String(err)
 }
 
 export async function shipIosApp(
