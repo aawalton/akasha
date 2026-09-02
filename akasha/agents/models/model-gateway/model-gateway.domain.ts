@@ -7,7 +7,10 @@ export const modelGateway = {
   definition: "what sits between an agent and the model it is asking",
   partSlugs: [
     "module/bind-with-retry",
+    "module/capacity-classification",
     "module/committed-outcome",
+    "module/hold-registry",
+    "module/idle-timeout",
     "module/keepalive",
     "module/proxy-headers",
     "module/queue-step",
