@@ -1,4 +1,4 @@
-import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
+import { mkdirSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Phase } from "@akasha/checks/checking"
 import { warrantsSeeded } from "@akasha/context-system/warranting/testing"
@@ -6,6 +6,8 @@ import { said as gitIn } from "@akasha/git/git-running"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
+import type { Answer, Given } from "../calling/calling.module.code.ts"
+import { write } from "../command/write/write.command.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
@@ -18,6 +20,12 @@ const REPO_AT = rootOf(import.meta.dir)
 const MODULES = "node_modules"
 
 const CONFIG = "biome.json"
+
+const TWO_AT = "akasha/two.ts"
+
+export const UNLOADABLE_AT = "akasha/admits.code-check.code.ts"
+
+export const PROPOSED = "proposed\n"
 
 const BIOME = JSON.stringify({
   formatter: { indentStyle: "space", indentWidth: 2, lineWidth: 100 },
@@ -64,6 +72,12 @@ export function repoWith(
   return repoAt(scratch.rootFor("akasha-asking-"), named)
 }
 
+export function repoNoCheckLoads(): string {
+  const root = repoWith()
+  rmSync(join(root, UNLOADABLE_AT))
+  return root
+}
+
 export function repoWithTheFormatter(named?: Readonly<Record<string, string>>): string {
   const root = named === undefined ? repoWith() : repoWith(named)
   symlinkSync(join(REPO_AT, MODULES), join(root, MODULES))
@@ -103,11 +117,21 @@ export const givenIn = (root: string) => ({
   agentId: AGENT,
 })
 
-export const bodyIn = (root: string): string => put(root, "body.txt", "proposed\n")
+export const bodyIn = (root: string): string => put(root, "body.txt", PROPOSED)
+
+export function wrote(
+  root: string,
+  said: readonly string[],
+  body: string = PROPOSED,
+  given: Given = givenIn(root)
+): Answer {
+  const from = put(root, "body.txt", body)
+  return write(["--file-path", TWO_AT, "--content-file", from, ...said], given)
+}
 
 export function asking(over: Partial<Asked>): Asked {
   return {
-    changes: [{ path: "akasha/two.ts", body: bytes("proposed\n") }],
+    changes: [{ path: TWO_AT, body: bytes(PROPOSED) }],
     message: "held",
     dryRun: false,
     glass: null,
@@ -123,8 +147,8 @@ export function blocked(root: string): Asked {
   mkdirSync(join(root, "akasha/three.ts"), { recursive: true })
   return asking({
     changes: [
-      { path: "akasha/two.ts", body: bytes("proposed\n") },
-      { path: "akasha/three.ts", body: bytes("proposed\n") },
+      { path: TWO_AT, body: bytes(PROPOSED) },
+      { path: "akasha/three.ts", body: bytes(PROPOSED) },
     ],
     saying: () => [],
   })

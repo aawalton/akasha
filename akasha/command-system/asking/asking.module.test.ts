@@ -24,13 +24,17 @@ import {
   git,
   givenIn,
   LOOSE,
+  PROPOSED,
   REFORMATTED,
   REFUSES_LOOSE,
   REFUSES_TAKING,
+  repoNoCheckLoads,
   repoWith,
   repoWithTheFormatter,
   scratch,
   TIDY,
+  UNLOADABLE_AT,
+  wrote,
 } from "./asking.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -105,14 +109,35 @@ test("a commit that could not be named is said to stand rather than said to be n
   )
 })
 
+test("checks that will not load refuse the change, and nothing reaches the disk", () => {
+  const root = repoNoCheckLoads()
+  const was = headOf(root)
+  const said = wrote(root, ["--message", "held"])
+  expect(said.code).toBe(3)
+  expect(said.refusals.join("\n")).toContain("the checks could not be loaded from")
+  expect(said.refusals.join("\n")).toContain(
+    `${UNLOADABLE_AT} is a check's code, and would not load`
+  )
+  expect(said.refusals.join("\n")).toContain("nothing was judged and nothing was written")
+  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
+  expect(headOf(root)).toBe(was)
+})
+
+test("the glass carries a change past checks that will not load, and the commit says why", () => {
+  const root = repoNoCheckLoads()
+  const said = wrote(root, ["--message", "held", "--break-the-glass", "mid-refactor"])
+  expect(said.code).toBe(0)
+  expect(said.report).toContain("wrote akasha/two.ts")
+  expect(said.report.join("\n")).toContain("either, so none could have run")
+  const body = git(root, ["log", "-1", "--pretty=%B"])
+  expect(body).toContain("Checks-bypassed: mid-refactor")
+  expect(body).toContain(`Checks-unloadable: ${UNLOADABLE_AT} is a check's code`)
+})
+
 test("a dry run gates and writes nothing at all, index entry included", () => {
   const root = repoWith()
   const was = headOf(root)
-  const from = put(root, "body.txt", 'import { one } from "./one.ts"\n')
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--dry-run"],
-    givenIn(root)
-  )
+  const said = wrote(root, ["--dry-run"], 'import { one } from "./one.ts"\n')
   expect(said.code).toBe(0)
   expect(said.report.join("\n")).toContain("nothing was written")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
@@ -124,11 +149,7 @@ test("a dry run gates and writes nothing at all, index entry included", () => {
 test("a dry run over a change the checks refuse reports the refusal", () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
-  const from = bodyIn(root)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--dry-run"],
-    givenIn(root)
-  )
+  const said = wrote(root, ["--dry-run"])
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
@@ -145,11 +166,7 @@ test("a check is handed a removal, and can refuse it", () => {
 test("that same check lets a written body through, so it refuses the going and not the arriving", () => {
   const root = repoWith()
   checking(root, "refuses-taking", REFUSES_TAKING)
-  const from = bodyIn(root)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--dry-run"],
-    givenIn(root)
-  )
+  const said = wrote(root, ["--dry-run"])
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
 })
@@ -193,11 +210,7 @@ test("a landing whose phase runs no check says the paths landed unjudged", () =>
   const root = repoWith()
   listedTakenFrom(root, "code-check", "admits")
   checking(root, "later", ADMITS_CODE, "deploy")
-  const from = bodyIn(root)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
-    givenIn(root)
-  )
+  const said = wrote(root, ["--message", "held"])
   expect(said.code).toBe(0)
   expect(said.report).toContain(
     "no check runs at this phase, so the 1 path asked for landed unjudged"
@@ -207,22 +220,14 @@ test("a landing whose phase runs no check says the paths landed unjudged", () =>
 test("breaking the glass runs no check and says so in the commit", () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
-  const from = bodyIn(root)
-  const said = write(
-    [
-      "--file-path",
-      "akasha/two.ts",
-      "--content-file",
-      from,
-      "--message",
-      "held",
-      "--break-the-glass",
-      "the checks are themselves broken",
-    ],
-    givenIn(root)
-  )
+  const said = wrote(root, [
+    "--message",
+    "held",
+    "--break-the-glass",
+    "the checks are themselves broken",
+  ])
   expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
     "Checks-bypassed: the checks are themselves broken"
   )
@@ -231,13 +236,12 @@ test("breaking the glass runs no check and says so in the commit", () => {
 test("a landing made by a program runs no check and says so in the commit", () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
-  const from = bodyIn(root)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
-    { ...givenIn(root), changeKind: MECHANICAL }
-  )
+  const said = wrote(root, ["--message", "held"], PROPOSED, {
+    ...givenIn(root),
+    changeKind: MECHANICAL,
+  })
   expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
     "Checks-bypassed: a `change-mechanical` change runs no check"
   )
@@ -246,10 +250,11 @@ test("a landing made by a program runs no check and says so in the commit", () =
 test("a kind running the checks runs them", () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES_CODE)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root), "--message", "held"],
-    { ...givenIn(root), agentId: null, changeKind: CHECKED }
-  )
+  const said = wrote(root, ["--message", "held"], PROPOSED, {
+    ...givenIn(root),
+    agentId: null,
+    changeKind: CHECKED,
+  })
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
@@ -257,21 +262,22 @@ test("a kind running the checks runs them", () => {
 
 test("a kind running the checks lands what they pass", () => {
   const root = repoWith()
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root), "--message", "held"],
-    { ...givenIn(root), agentId: null, changeKind: CHECKED }
-  )
+  const said = wrote(root, ["--message", "held"], PROPOSED, {
+    ...givenIn(root),
+    agentId: null,
+    changeKind: CHECKED,
+  })
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
 })
 
 test("a landing made by a program is told apart from a glass that was broken", () => {
   const root = repoWith()
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root), "--message", "held"],
-    { ...givenIn(root), changeKind: MECHANICAL }
-  )
+  const said = wrote(root, ["--message", "held"], PROPOSED, {
+    ...givenIn(root),
+    changeKind: MECHANICAL,
+  })
   expect(said.code).toBe(0)
   expect(said.report).toContain(`a \`change-mechanical\` change ${NO_CHECKS}`)
   expect(said.report.join("\n")).not.toContain("the glass was broken")
@@ -279,30 +285,14 @@ test("a landing made by a program is told apart from a glass that was broken", (
 
 test("a dry run that breaks the glass is refused, having nothing to report", () => {
   const root = repoWith()
-  const from = bodyIn(root)
-  const said = write(
-    [
-      "--file-path",
-      "akasha/two.ts",
-      "--content-file",
-      from,
-      "--dry-run",
-      "--break-the-glass",
-      "why",
-    ],
-    givenIn(root)
-  )
+  const said = wrote(root, ["--dry-run", "--break-the-glass", "why"])
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("report nothing")
 })
 
 test("a loose body lands formatted and sorted, and the report says it did", () => {
   const root = repoWithTheFormatter()
-  const from = put(root, "body.txt", LOOSE)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
-    givenIn(root)
-  )
+  const said = wrote(root, ["--message", "held"], LOOSE)
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(TIDY)
@@ -312,11 +302,7 @@ test("a loose body lands formatted and sorted, and the report says it did", () =
 
 test("a body that will not parse lands whole rather than blank", () => {
   const root = repoWithTheFormatter()
-  const from = put(root, "body.txt", BROKEN)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
-    givenIn(root)
-  )
+  const said = wrote(root, ["--message", "held"], BROKEN)
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(BROKEN)
   expect(said.report).not.toContain(REFORMATTED)
@@ -324,11 +310,7 @@ test("a body that will not parse lands whole rather than blank", () => {
 
 test("a body already formatted lands untouched, and the report says nothing extra", () => {
   const root = repoWithTheFormatter()
-  const from = put(root, "body.txt", TIDY)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
-    givenIn(root)
-  )
+  const said = wrote(root, ["--message", "held"], TIDY)
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(TIDY)
   expect(said.report).not.toContain(REFORMATTED)
@@ -370,22 +352,14 @@ test("a folder still holding a file git does not track is kept by a removal", ()
 test("a dry run gates the formatted body, so what a check judged is what would land", () => {
   const root = repoWithTheFormatter()
   checking(root, "refuses-loose", REFUSES_LOOSE)
-  const from = put(root, "body.txt", LOOSE)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--dry-run"],
-    givenIn(root)
-  )
+  const said = wrote(root, ["--dry-run"], LOOSE)
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
 })
 
 test("a body that lands is recorded as read, so writing over it again is not refused", () => {
   const root = repoWith()
-  const first = write(
-    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root)],
-    givenIn(root)
-  )
-  expect(first.code).toBe(0)
+  expect(wrote(root, []).code).toBe(0)
   const again = put(root, "again.txt", "written twice\n")
   const said = write(["--file-path", "akasha/two.ts", "--content-file", again], givenIn(root))
   expect(said.refusals).toEqual([])
@@ -394,11 +368,7 @@ test("a body that lands is recorded as read, so writing over it again is not ref
 
 test("a body the formatter changed is recorded as it landed, not as it was handed in", () => {
   const root = repoWithTheFormatter()
-  const first = write(
-    ["--file-path", "akasha/two.ts", "--content-file", put(root, "body.txt", LOOSE)],
-    givenIn(root)
-  )
-  expect(first.report).toContain(REFORMATTED)
+  expect(wrote(root, [], LOOSE).report).toContain(REFORMATTED)
   const said = write(
     ["--file-path", "akasha/two.ts", "--content-file", put(root, "again.txt", TIDY)],
     givenIn(root)
