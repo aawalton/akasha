@@ -89,7 +89,7 @@ test("a name no command carries is a caller's mistake too", async () => {
   const root = scratch.rootFor("akasha-cli-")
   listedFiled(root, COMMAND, "read", [{ path: "akasha/r.command.ts", id: ID }])
   idFiled(root, COMMAND_TYPE, [
-    { path: "akasha/command-system/command/command.page-type.ts", id: COMMAND_TYPE },
+    { path: "akasha/command-system/commands/command.page-type.ts", id: COMMAND_TYPE },
   ])
   const said = await answering(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)

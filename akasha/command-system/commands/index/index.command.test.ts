@@ -27,9 +27,9 @@ import { index as indexCommand } from "./index.command.ts"
 
 const AKASHA = "akasha"
 
-const CODE_AT = "akasha/command-system/command/index/index.command.code.ts"
+const CODE_AT = "akasha/command-system/commands/index/index.command.code.ts"
 
-const PAGE_AT = "akasha/command-system/command/index/index.command.ts"
+const PAGE_AT = "akasha/command-system/commands/index/index.command.ts"
 
 const LOCK_AT = ".git/akasha-landing.lock"
 

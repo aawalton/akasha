@@ -4,8 +4,8 @@ import { join, resolve } from "node:path"
 import { indexNamed, indexThere, listedAt, slugsOfType, typeSlugById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt } from "@akasha/pages-system/page-file-name"
-import type { HelpNotes } from "../command/properties/help-notes.text-property.ts"
-import type { Taking } from "../command/properties/taking.record-property.ts"
+import type { HelpNotes } from "../commands/properties/help-notes.text-property.ts"
+import type { Taking } from "../commands/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 
 export type Kind = {
@@ -64,7 +64,7 @@ const TS = "ts"
 
 export const ROOTED = "index"
 
-export const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
+export const ROOTED_AT = "akasha/command-system/commands/index/index.command.ts"
 
 const loadFrom = createRequire(import.meta.url)
 

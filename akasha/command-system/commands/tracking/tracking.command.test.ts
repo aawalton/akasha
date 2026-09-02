@@ -17,9 +17,9 @@ test("a path under the tracked days is no stray", () => {
 test("a path elsewhere under akasha is a stray", () => {
   const said = strayIn(ROOT, [
     "--file-path",
-    "akasha/command-system/command/write/write.command.ts",
+    "akasha/command-system/commands/write/write.command.ts",
   ])
-  expect(said).toEqual([outsideTracked("akasha/command-system/command/write/write.command.ts")])
+  expect(said).toEqual([outsideTracked("akasha/command-system/commands/write/write.command.ts")])
 })
 
 test("a path outside akasha altogether is a stray", () => {

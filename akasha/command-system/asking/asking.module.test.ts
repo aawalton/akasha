@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { importsListed, listedTakenFrom } from "@akasha/indexes/testing"
 import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
-import { write } from "../command/write/write.command.code.ts"
+import { write } from "../commands/write/write.command.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
 import {
