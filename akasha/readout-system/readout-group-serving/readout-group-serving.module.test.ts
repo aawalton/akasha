@@ -93,6 +93,42 @@ test("the label and the key answered are the ones the readout's own page carries
   expect(one?.habit).toBe("safety")
 })
 
+const WIRE_KEY_NAME = "a-key-named-only-in-this-test"
+
+async function keysAnswered(wireKeyName?: string): Promise<readonly string[]> {
+  const answered = await answerStoplightsAdmittedBy(
+    new Request("http://a.test/"),
+    () => null,
+    GROUP,
+    wireKeyName
+  )
+  expect(answered.status).toBe(200)
+  const body = (await answered.json()) as { stoplights: readonly Record<string, unknown>[] }
+  return Object.keys(body.stoplights[0] ?? {})
+}
+
+test("the wire key is answered under the key the caller names", async () => {
+  relayedFor(READOUT, 3)
+  const keys = await keysAnswered(WIRE_KEY_NAME)
+  expect(keys).toContain(WIRE_KEY_NAME)
+  expect(keys).not.toContain("habit")
+})
+
+test("a caller naming no key for the wire key has the wire key answered under habit", async () => {
+  relayedFor(READOUT, 3)
+  const keys = await keysAnswered()
+  expect(keys).toContain("habit")
+  expect(keys).not.toContain(WIRE_KEY_NAME)
+})
+
+test("the key the caller names is answered first, where the key answered before it was", async () => {
+  relayedFor(READOUT, 3)
+  expect((await keysAnswered(WIRE_KEY_NAME))[0]).toBe(WIRE_KEY_NAME)
+  dropRelayed()
+  relayedFor(READOUT, 3)
+  expect((await keysAnswered())[0]).toBe("habit")
+})
+
 test("a readout whose page states no format has its reading answered as that number", async () => {
   relayedFor(READOUT, 2.5)
   expect((await stoplights())[0]?.reading).toBe("2.5")

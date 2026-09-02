@@ -19,6 +19,8 @@ const READOUT = "readout"
 
 const READOUT_SCALE = "readout-scale"
 
+const HABIT = "habit"
+
 export type Stoplight = {
   readonly habit?: string
   readonly label: string
@@ -44,7 +46,10 @@ async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
   return row === undefined ? [] : rungsIn(row)
 }
 
-export async function stoplightOf(row: Values): Promise<Stoplight | null> {
+export async function stoplightOf(
+  row: Values,
+  wireKeyName: string = HABIT
+): Promise<Stoplight | null> {
   const slug = stated(row.slug)
   const label = stated(row.label)
   const scaleSlug = stated(row.scaleSlug)
@@ -58,7 +63,7 @@ export async function stoplightOf(row: Values): Promise<Stoplight | null> {
 
   const wireKey = stated(row.wireKey)
   return {
-    ...(wireKey === undefined ? {} : { habit: wireKey }),
+    ...(wireKey === undefined ? {} : { [wireKeyName]: wireKey }),
     label,
     tier: reached.tier,
     reading: readingSaid(value, stated(row.figureFormat)),
@@ -70,7 +75,8 @@ export async function stoplightOf(row: Values): Promise<Stoplight | null> {
 export async function answerStoplightsAdmittedBy(
   request: Request,
   admit: RingAdmission,
-  groupSlug: string
+  groupSlug: string,
+  wireKeyName: string = HABIT
 ): Promise<Response> {
   const refusal = await admit(request)
   if (refusal !== null) return refusal
@@ -83,7 +89,7 @@ export async function answerStoplightsAdmittedBy(
 
   const stoplights: Stoplight[] = []
   for (const row of inPlaceOrder(asked.rows)) {
-    const one = await stoplightOf(row)
+    const one = await stoplightOf(row, wireKeyName)
     if (one !== null) stoplights.push(one)
   }
   if (stoplights.length === 0) return noReading()

@@ -30,6 +30,14 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
+      statement: "The key carrying the wire key is the one the caller names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming no key for the wire key has the wire key answered under habit.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The scale read is the one the readout's page names rather than one named here.",
     },
     {
