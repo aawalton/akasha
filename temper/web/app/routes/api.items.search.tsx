@@ -1,5 +1,5 @@
+import type { MinedItemSearchResult } from "@akasha/temper-items-core/item-tooltip-types"
 import { askComposed } from "@shared/pages-query/ask"
-import type { MinedItemSearchResult } from "@temper/game-items-core/item-tooltip-types"
 import { MINED_ITEM_PAGE_TYPE, rowToSearchResult } from "@/lib/mined-item-rows"
 import type { Route } from "./+types/api.items.search"
 
