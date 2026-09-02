@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "98 of 99 source page types recreated: 5,670 pages, 108 page types, 2,080 entry files, 20,956 rows — every row checked for declared keys and a unique v7 id, all clean. `temper-completed-month` went on purpose for 119 day pages. Typecheck and the 4,643 tests pass. Holdings alone is still landing, and its inventory chunks are the only audit refusals. Left: move `temper-thing` into `temper-things/` once holdings finishes, the last folder-shape refusal.",
+        "All 8 clusters landed and the audit shows no temper refusal. 6,363 pages, 2,773 entry files, 20,956 rows, every row checked for declared keys and a unique v7 id. 97 of 99 source page types land one for one; `completed-month` became 119 day pages and `net-worth-day` became 787 hour pages, both to fit the ceiling. Blocked on the ceiling alone: 570MB of captures stays out, filed for Alan.",
     },
     {
       statement: "No part of temper is outside akasha.",
