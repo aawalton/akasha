@@ -83,6 +83,7 @@ interface LabelControl {
   GetTextDimensions: () => LuaMultiReturn<[number, number]>
   SetDesaturation: (desaturation: number) => void
   SetModifyTextType: (modifyTextType: ModifyTextType) => void
+  SetMaxLineCount: (count: number) => void
 }
 
 interface TextureControl {
