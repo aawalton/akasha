@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "133 day pages and 778 session rows, each already in a sidecar. The entries read path does not exist yet and is being built; the migration is prepared beside it and lands after, so no row is ever write-only. Decided: re-mint the 30 uuid version 5 ids, and prefix date slugs as `day-2026-03-05`, since `20260305` is no identifier. `tracking edit` and `delete` go blind to a migrated day and would keep writing to the old place, so they are rewritten in the same landing.",
+        "The entries read path landed at `2a426e510e` and `ce165a80d2`, so a migrated row is readable, and `entries: true` died in favour of the property's own page type at `391e75bc4b`. 133 day pages and 778 session rows, each already in a sidecar. Three lanes run: the write verbs funnelled through one place, a checker proving every value round-trips, and the converter. Decided: re-mint the 30 uuid version 5 ids, and prefix date slugs as `day-2026-03-05`.",
     },
     {
       statement: "Alan's and Jenny's iOS apps ship to TestFlight from an akasha command.",
