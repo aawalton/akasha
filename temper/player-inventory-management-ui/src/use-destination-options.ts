@@ -1,11 +1,11 @@
 "use client"
 
 import { classifyLocation } from "@akasha/temper-items-core/location-classify"
-import { useAuth } from "@shared/auth/use-auth"
 import type {
   DestinationCategory,
   MoveToDestination,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { useAuth } from "@shared/auth/use-auth"
 import { useMemo } from "react"
 import { useInventory } from "./hooks-inventory"
 import { useManagedGuildBanks } from "./hooks-inventory-settings"
