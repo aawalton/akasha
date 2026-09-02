@@ -9,16 +9,6 @@ export const migrateAlanAndJennyToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "Alan's and Jenny's safety iOS widgets work.",
-      workingMemory:
-        "Both halves are proven as far as the pod; the phones are unseen. Alan's deployed at `d0f4d24621`. Jenny's landed at `aceffc1382`, a second `runs` line on his relay, and `172cd167b9`, her route on the same `safety` group. Her site now serves `49134b9632`, where `/api/errors` answers 405 rather than 404. Proven against the real store and the real held reading: 401 bare, 503 with nothing carried in, 200 and a whole stoplight otherwise, plus 16 tests. Her tile shows Alan's level, by design.",
-    },
-    {
-      statement: "Alan's and Jenny's surplus iOS widgets work.",
-      workingMemory:
-        "Both tiles draw a reading and Alan reports the figure wrong. The number is right: `surplus-hours` is derived on the day as sleep less spend, and recomputing from the day's stretches matches it exactly. Wrong was that a readout said nothing about how wide its figure is written, so the tile got 21 characters of float tail and broke them off mid-number. `ad85a10ab5` gives a readout a figure-format and refuses a day holding neither half; site tests `7b978fb3e6`; deployed `776bd64872`. Phones unseen.",
-    },
-    {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
         "The bridge in `readouts/ask-here.ts` holds, by decision. No type is refused by name: the index covers `akasha/` alone and its loader requires TypeScript, so a markdown body throws and the page is dropped unnoted. A probe served `value` from markdown in 131 lines, six rows checked on disk. It buys little: the stoplights ask by saved query, so closing this needs seven page types, a frontmatter parser akasha declares it has none of, caching, and a kebab-camel ruling with live callers each side.",
