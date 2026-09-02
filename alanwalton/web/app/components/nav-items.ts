@@ -9,7 +9,6 @@ import {
   Hammer,
   Package,
   SwatchBook,
-  TowerControl,
 } from "lucide-react"
 import { z } from "zod"
 
@@ -95,14 +94,6 @@ export function getNavItemProducts(): AppNavItem {
         href: "/idle",
         external: false,
         icon: Gamepad2,
-      },
-      {
-        id: "tower",
-        label: "Tower",
-        shortLabel: "Tower",
-        href: "https://tower.alanwalton.com",
-        external: true,
-        icon: TowerControl,
       },
     ],
   }

@@ -13,8 +13,5 @@ export const alanwaltonWeb = {
     "webhook.alanwalton.com",
     "sms.alanwalton.com",
     "idle.alanwalton.com",
-    "awen.alanwalton.com",
-    "tower.alanwalton.com",
-    "dragons.alanwalton.com",
   ],
 } as const satisfies WebApp
