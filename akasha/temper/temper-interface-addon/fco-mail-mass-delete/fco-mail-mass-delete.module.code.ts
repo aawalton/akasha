@@ -133,9 +133,7 @@ export function getMailReceivedMassChangeContextMenu(this: void): undefined {
     return
   }
 
-  AddCustomScrollableMenuHeader("Mass-Change", () => {}, LSM_ENTRY_TYPE_HEADER, undefined, {
-    doNotFilter: true,
-  })
+  AddCustomScrollableMenuHeader("Mass-Change", { doNotFilter: true })
   AddCustomScrollableMenuEntry(
     "Delete read player mails, w/o attachments",
     () => {
