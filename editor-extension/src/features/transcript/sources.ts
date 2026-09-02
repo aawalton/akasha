@@ -1,4 +1,4 @@
-import * as fs from 'node:fs';
+import { readdir, readFile, stat } from 'node:fs/promises';
 import * as path from 'node:path';
 import { z } from 'zod';
 import { runVerb, verbPath } from '../../harness-call.ts';
@@ -77,9 +77,9 @@ const subagentMetaSchema = z.looseObject({
 	description: z.string().optional(),
 });
 
-function readSubagentMeta(filePath: string): z.infer<typeof subagentMetaSchema> | null {
+async function readSubagentMetaAt(filePath: string): Promise<z.infer<typeof subagentMetaSchema> | null> {
 	try {
-		const text = z.string().parse(fs.readFileSync(filePath, 'utf8'));
+		const text = await readFile(filePath, 'utf8');
 		const parsed = subagentMetaSchema.safeParse(JSON.parse(text));
 		return parsed.success ? parsed.data : null;
 	} catch {
@@ -87,26 +87,32 @@ function readSubagentMeta(filePath: string): z.infer<typeof subagentMetaSchema> 
 	}
 }
 
-export function readSubagents(transcriptPath: string): ReadonlyMap<string, SubagentTranscript> {
+// WHICH SUBAGENTS A TRANSCRIPT HAS, taken from the directory beside it. A seat with a thousand
+// subagents is a thousand small reads, so the transcript reader takes this again only when the
+// directory's mtime moves — see `reader.ts`. Nothing here reads a transcript, only the meta beside
+// one.
+export async function readSubagentsIn(subagentsDir: string): Promise<ReadonlyMap<string, SubagentTranscript>> {
 	const byToolUseId = new Map<string, SubagentTranscript>();
-	const directory = transcriptPath.replace(/\.jsonl$/, '');
-	const subagentsDir = path.join(directory, 'subagents');
 
 	let names: readonly string[];
 	try {
-		names = fs.readdirSync(subagentsDir);
+		names = await readdir(subagentsDir);
 	} catch {
 		return byToolUseId;
 	}
 
 	for (const name of names) {
 		if (!name.endsWith('.meta.json')) { continue; }
-		const meta = readSubagentMeta(path.join(subagentsDir, name));
+		const meta = await readSubagentMetaAt(path.join(subagentsDir, name));
 		if (meta === null) { continue; }
 
 		const jsonlName = name.replace(/\.meta\.json$/, '.jsonl');
 		const filePath = path.join(subagentsDir, jsonlName);
-		if (!fs.existsSync(filePath)) { continue; }
+		try {
+			await stat(filePath);
+		} catch {
+			continue;
+		}
 
 		byToolUseId.set(meta.toolUseId, {
 			toolUseId: meta.toolUseId,
@@ -118,10 +124,3 @@ export function readSubagents(transcriptPath: string): ReadonlyMap<string, Subag
 	return byToolUseId;
 }
 
-export function readTranscriptText(transcriptPath: string): string {
-	try {
-		return z.string().parse(fs.readFileSync(transcriptPath, 'utf8'));
-	} catch {
-		return '';
-	}
-}

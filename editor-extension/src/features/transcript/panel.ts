@@ -1,8 +1,8 @@
-import * as fs from 'node:fs';
 import * as vscode from 'vscode';
-import { buildEntries, type Entry } from './model.ts';
+import type { Entry } from './model.ts';
+import { createTranscriptReader, type TranscriptRead } from './reader.ts';
 import { renderEntries } from './render.ts';
-import { readSubagents, readTranscriptText, seatTranscriptOf, type SubagentTranscript } from './sources.ts';
+import { seatTranscriptOf } from './sources.ts';
 
 const POLL_INTERVAL_MS = 1_000;
 
@@ -18,6 +18,19 @@ interface RenderedState {
 	lastSize: number;
 }
 
+// The panel's own output, so a poll that costs seconds says so rather than being read off a frozen
+// editor. No transcript content passes through it: byte counts and file counts only. One channel
+// for every transcript panel, made on the first one and disposed with the extension.
+let output: vscode.OutputChannel | undefined;
+
+function outputFor(context: vscode.ExtensionContext): vscode.OutputChannel {
+	if (output === undefined) {
+		output = vscode.window.createOutputChannel('Ops: Transcript');
+		context.subscriptions.push(output);
+	}
+	return output;
+}
+
 function stableBoundary(entries: readonly Entry[]): number {
 	for (let index = 0; index < entries.length; index += 1) {
 		const entry = entries[index];
@@ -26,23 +39,13 @@ function stableBoundary(entries: readonly Entry[]): number {
 	return entries.length;
 }
 
-function subagentEntriesFor(
-	subagents: ReadonlyMap<string, SubagentTranscript>
-): ReadonlyMap<string, readonly Entry[]> {
-	const resolved = new Map<string, readonly Entry[]>();
-	for (const [toolUseId, subagent] of subagents) {
-		resolved.set(toolUseId, buildEntries(readTranscriptText(subagent.filePath)));
-	}
-	return resolved;
-}
-
-function renderSlice(
-	entries: readonly Entry[],
-	subagents: ReadonlyMap<string, SubagentTranscript>
-): string {
+// Both slices render against the one read. Each used to build its own `subagentEntries`, which read
+// and re-parsed every subagent transcript beneath the seat — a second time, for the same bytes, in
+// the same tick.
+function renderSlice(entries: readonly Entry[], read: TranscriptRead): string {
 	return renderEntries(entries, {
-		subagents,
-		subagentEntries: subagentEntriesFor(subagents),
+		subagents: read.subagents,
+		subagentEntries: read.subagentEntries,
 		depth: 0,
 	});
 }
@@ -62,6 +65,11 @@ export function openTranscriptPanel(
 	panel.webview.html = shellHtml(panel.webview);
 
 	const state: RenderedState = { transcriptPath: null, stableCount: 0, lastSize: -1 };
+	const reader = createTranscriptReader();
+	const say = (line: string): undefined => {
+		outputFor(context).appendLine(line);
+		return undefined;
+	};
 
 	const resolvePath = async (): Promise<string | null> => {
 		if (target.agentId !== undefined) {
@@ -70,45 +78,86 @@ export function openTranscriptPanel(
 		return target.transcriptPath ?? null;
 	};
 
-	const tick = async (): Promise<undefined> => {
+	const readOnce = async (): Promise<undefined> => {
 		const transcriptPath = await resolvePath();
 		if (transcriptPath === null) {
-			if (state.transcriptPath !== null) { return; }
+			if (state.transcriptPath !== null) { return undefined; }
 			void panel.webview.postMessage({ kind: 'status', text: 'No transcript found for this seat.' });
-			return;
-		}
-
-		let size: number;
-		try {
-			size = fs.statSync(transcriptPath).size;
-		} catch {
-			void panel.webview.postMessage({ kind: 'status', text: 'Transcript file is not readable.' });
-			return;
+			return undefined;
 		}
 
 		const rotated = transcriptPath !== state.transcriptPath;
-		if (!rotated && size === state.lastSize) { return; }
-
 		if (rotated) {
 			state.transcriptPath = transcriptPath;
 			state.stableCount = 0;
+			state.lastSize = -1;
 			void panel.webview.postMessage({ kind: 'reset' });
 		}
-		state.lastSize = size;
 
-		const entries = buildEntries(readTranscriptText(transcriptPath));
-		const subagents = readSubagents(transcriptPath);
+		const began = Date.now();
+		const read = await reader.read(transcriptPath);
+		// A read that folded nothing anywhere — not in the seat's transcript and not under it —
+		// leaves the panel as it stands. The size test this replaces watched only the seat's own
+		// file and so re-rendered nothing when a subagent grew, and re-read everything when it did.
+		if (!rotated && read.bytesFolded === 0 && read.filesRefolded === 0 && state.lastSize >= 0) {
+			return undefined;
+		}
+		state.lastSize = read.bytesStanding;
+
+		// A file that no longer reads as it did where the last fold stopped was folded again from
+		// its first byte, which can only move entries the panel has already settled. It starts over.
+		if (read.filesRefolded > 0 && !rotated && state.stableCount > 0) {
+			state.stableCount = 0;
+			void panel.webview.postMessage({ kind: 'reset' });
+		}
+
+		const { entries } = read;
 		const boundary = stableBoundary(entries);
 
 		if (boundary > state.stableCount) {
 			const settled = entries.slice(state.stableCount, boundary);
-			void panel.webview.postMessage({ kind: 'append', html: renderSlice(settled, subagents) });
+			void panel.webview.postMessage({ kind: 'append', html: renderSlice(settled, read) });
 			state.stableCount = boundary;
 		}
 
 		const tail = entries.slice(state.stableCount);
-		void panel.webview.postMessage({ kind: 'tail', html: renderSlice(tail, subagents) });
+		void panel.webview.postMessage({ kind: 'tail', html: renderSlice(tail, read) });
 		void panel.webview.postMessage({ kind: 'status', text: '' });
+		say(
+			`[transcript] ${Date.now() - began}ms, folded ${read.bytesFolded} of ${read.bytesStanding} bytes ` +
+			`across ${read.filesFolded} file(s), ${entries.length} entries, ` +
+			`${read.subagents.size} subagent(s)` +
+			(read.filesRefolded === 0 ? '' : `, ${read.filesRefolded} file(s) refolded from the first byte`)
+		);
+		return undefined;
+	};
+
+	// ONE READ AT A TIME, for the reason `features/agent-tree/activate.ts` gives at length: the poll
+	// and the first read share one reader whose folds are mutable state, and two reads at once
+	// advance each other's offsets and both end by posting to the same webview, so the panel draws
+	// whichever finished last rather than whichever read latest. The first read of a large seat
+	// takes seconds and the poll comes round every one of them.
+	//
+	// A trigger arriving mid-read waits for the read in flight. The poll comes round again in a
+	// second, so nothing is lost by not reading twice at once.
+	let reading: Promise<undefined> | undefined;
+
+	const tick = async (): Promise<undefined> => {
+		const inFlight = reading;
+		if (inFlight !== undefined) {
+			await inFlight;
+			return undefined;
+		}
+		const started = readOnce();
+		reading = started;
+		try {
+			await started;
+		} catch (err) {
+			say(`[transcript] read failed: ${String(err)}`);
+		} finally {
+			reading = undefined;
+		}
+		return undefined;
 	};
 
 	void tick();
