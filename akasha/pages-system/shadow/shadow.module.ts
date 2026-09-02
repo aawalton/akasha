@@ -10,6 +10,14 @@ export const shadow = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A page the change does not carry is read from the value index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the value index does not name is read from its own body.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A check judging a change reads the index the change leaves rather than the committed index.",
     },

@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto"
 import { textOf } from "@akasha/code-system/body-text"
-import { readingIn } from "@akasha/indexes"
+import { everyValue, readingIn } from "@akasha/indexes"
 import { type Answering, answeringOver } from "@akasha/indexes/answering"
 import { readingOver } from "@akasha/indexes/indexing"
 import type { Reading } from "@akasha/indexes/shape"
@@ -27,6 +27,14 @@ function remembering(pageOf: (path: string) => Value | null): (path: string) => 
     const value = pageOf(path)
     held.set(path, value)
     return value
+  }
+}
+
+function filedIn(reading: Reading, root: string): (path: string) => Value | null {
+  let filed: ReadonlyMap<string, Value> | null = null
+  return (path) => {
+    if (filed === null) filed = everyValue(reading)
+    return filed.get(path) ?? valueAt(path, root)
   }
 }
 
@@ -61,7 +69,7 @@ function codeOver(change: Change): (path: string) => string | null {
 
 export function shadowAt(root: string): Shadow {
   const reading = readingIn(root)
-  const pageOf = remembering((path) => valueAt(path, root))
+  const pageOf = remembering(filedIn(reading, root))
   return {
     reading,
     index: answeringOver(reading, root, pageOf),
@@ -73,8 +81,9 @@ export function shadowAt(root: string): Shadow {
 function castOver(change: Change): Cast {
   if (nothingMoved(change)) return { shadow: shadowAt(change.root) }
   const carried = new Set(change.changed)
+  const filed = filedIn(readingIn(change.root), change.root)
   const pageOf = remembering((path) => {
-    if (!carried.has(path)) return valueAt(path, change.root)
+    if (!carried.has(path)) return filed(path)
     const body = textOf(change.after(path))
     return body === null ? null : valueIn(body)
   })

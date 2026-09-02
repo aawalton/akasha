@@ -11,6 +11,10 @@ export const indexReading = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "The value every page carries is answered as one map from path to value.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An answer about one page is one file read or one directory listed.",
     },
     {

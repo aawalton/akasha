@@ -290,6 +290,17 @@ function valuesIn(reading: Reading, at: string): readonly Valued[] {
   return found
 }
 
+export function everyValue(given: string | Reading): ReadonlyMap<string, Value> {
+  return answered(given, ROOT, "what every page carries", (reading) => {
+    const found = new Map<string, Value>()
+    for (const one of reading.listing(VALUE)) {
+      if (one.directory || !one.name.endsWith(ENDING)) continue
+      for (const held of valuesIn(reading, join(VALUE, one.name))) found.set(held.path, held.value)
+    }
+    return found
+  })
+}
+
 export function valuesOfType(given: string | Reading, pageTypeSlug: string): readonly Valued[] {
   return answered(given, ROOT, `what the \`${pageTypeSlug}\` pages carry`, (reading) =>
     [...valuesIn(reading, join(VALUE, `${pageTypeSlug}${ENDING}`))].sort((one, two) =>
