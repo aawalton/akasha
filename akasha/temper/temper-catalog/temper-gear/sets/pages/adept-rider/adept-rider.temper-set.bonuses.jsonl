@@ -1,0 +1,4 @@
+{"id":"01a05fda-0243-7fe4-ba31-41e405c01c9d","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0243-74fb-8e50-bb5687552c78","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0243-7710-9682-03f48fef5883","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0243-7cd0-9b7a-829183f16ab3","count":5,"status":"unsupported","description":"Gain Gallop and Major Expedition at all times, increasing your Movement Speed by 30% and Mounted Speed by 15%."}

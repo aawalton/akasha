@@ -1,0 +1,4 @@
+{"id":"01a05fda-0247-7c0e-97b7-543c21325e95","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0247-7608-89e4-da5d9ded6312","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-0247-7f48-a661-585233c92061","count":4,"status":"unsupported","description":"Reduces your damage taken from Players by 3%."}
+{"id":"01a05fda-0247-7e1f-8698-b6c01255a1a6","count":5,"status":"unsupported","description":"Reduces your damage taken from Siege Weapons and Player area of effect abilities by 10%."}

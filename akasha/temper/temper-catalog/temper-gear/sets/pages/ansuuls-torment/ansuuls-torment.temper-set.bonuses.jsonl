@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7fd9-b318-8dae62f4851b","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0245-7180-8e93-f3ff0444ae68","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fda-0245-7d0b-8e92-d8c9488f113c","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fda-0245-7e93-bddb-92f8f6014f80","count":5,"status":"unsupported","description":"Increases your damage done against monsters by 7%. When you interrupt an enemy, you increase your damage done against monsters by an additional 7% for 10 seconds."}

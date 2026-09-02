@@ -1,0 +1,4 @@
+{"id":"01a05fda-0247-7e95-aca2-1f57c286b633","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0247-7c96-aa4c-dc88805b98f4","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0247-7d91-b7f7-224f3b383e34","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0247-7c07-8035-e8ab5125b32f","count":5,"status":"unsupported","description":"When you are healed while in combat, increase your Weapon and Spell Damage by 369 for 5 seconds."}

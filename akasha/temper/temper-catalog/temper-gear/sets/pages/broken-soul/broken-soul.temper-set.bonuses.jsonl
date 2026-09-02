@@ -1,0 +1,1 @@
+{"id":"01a05fda-0248-7721-90ed-875291d3ce11","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}

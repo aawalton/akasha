@@ -1,0 +1,4 @@
+{"id":"01a05fda-0244-77de-9086-bc567804b93c","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0244-7b9c-a3d5-d204e6db152b","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0244-7f61-a859-097b714d0602","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0244-770f-a055-c3e2e7bf3899","count":5,"status":"unsupported","description":"When you take damage, you heal you and your group members within 7 meters of you for 1468 Health over 3 seconds. This effect can occur once every 3 seconds and scales off the higher of your Max Magicka or Stamina."}

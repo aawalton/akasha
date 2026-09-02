@@ -1,0 +1,4 @@
+{"id":"01a05fda-0246-77ab-8e47-e1ea7e9ee700","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0246-7b56-b761-c5c2bb28cd84","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0246-7c02-97d1-32bf022b21de","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0246-7c88-a0c0-d10a1e4de3ed","count":5,"status":"unsupported","description":"Reduces the duration of immobilizations and snares applied to you by 50%. When an immobilization or snare is applied to you, heal for 1749 Health and restore 858 Stamina. This effect can occur once every 5 seconds."}

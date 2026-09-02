@@ -1,0 +1,4 @@
+{"id":"01a05fda-0246-71c1-a7ee-008f98bfb7f9","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0246-7f75-b3f4-0f61d5a66c60","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0246-79dc-b4d4-166707bdc31f","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0246-73de-8c49-0c26023c5a1f","count":5,"status":"unsupported","description":"Blocking an attack reduces your damage taken by 11% for 3 seconds."}

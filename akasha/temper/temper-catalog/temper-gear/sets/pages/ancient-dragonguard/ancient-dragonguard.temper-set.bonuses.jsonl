@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7077-9cd2-a344ceb98d59","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0245-76cd-84c7-f35eeef8ff28","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0245-73fe-aaff-bc30586aff47","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0245-75a0-a0b8-44ac273ed28c","count":5,"status":"unsupported","description":"Adds 300 Weapon and Spell Damage while your Health is above 50%. Adds 3460 Physical and Spell Resistance while your Health is 50% or less."}

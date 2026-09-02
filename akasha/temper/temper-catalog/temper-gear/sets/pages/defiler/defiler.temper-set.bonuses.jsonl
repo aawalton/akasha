@@ -1,0 +1,4 @@
+{"id":"01a05fda-024b-7da5-87fe-5e76bf242235","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-024b-7ef8-a749-4f92a121dc66","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-024b-7411-9cfc-762c30ade194","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-024b-7554-8210-2f28d2936e14","count":5,"status":"unsupported","description":"When you deal Critical Damage, you summon a Hunger that spews poison to all enemies in front of it, dealing 990 Poison Damage and stunning any enemy hit for 5 seconds. This effect can occur once every 5 seconds and scales off the higher of your Weapon or Spell Damage."}

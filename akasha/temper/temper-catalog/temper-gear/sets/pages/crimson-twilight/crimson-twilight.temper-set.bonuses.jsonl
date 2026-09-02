@@ -1,0 +1,4 @@
+{"id":"01a05fda-0249-786a-a7ff-43c3e3a004d0","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0249-7ebf-bab7-2fc6b8aeea47","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-0249-7e0e-899c-7d0b07f24478","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0249-74b6-a4c3-6e035c921e08","count":5,"status":"unsupported","description":"After taking damage you surround yourself in an 8 meter mist of blood. After 2 seconds, the mist is violently siphoned into your body, dealing 1980 Bleed Damage to nearby enemies and healing you for 100% of the damage done. This effect can occur once every 8 seconds and scales off your Max Health."}

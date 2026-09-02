@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-7e6e-9bf5-fab5f2887d7c","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7219-99fb-9f8113d0db70","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7081-9e09-00ba44900bc9","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0248-7bc3-a0b9-cd09bfb01d65","count":5,"status":"unsupported","description":"While you have a drink buff active, your Max Magicka is increased by 2000 and Magicka Recovery by 133."}

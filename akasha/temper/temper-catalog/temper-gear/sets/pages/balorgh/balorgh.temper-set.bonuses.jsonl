@@ -1,0 +1,2 @@
+{"id":"01a05fda-0246-7ed6-bce8-a7130189e5d9","count":1,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0246-7ace-86b3-5442d5e4bfa1","count":2,"status":"unsupported","description":"When you use an Ultimate ability, you gain Weapon and Spell Damage equal to the amount of total Ultimate consumed, and Physical and Spell Penetration equal to 23 times the amount for 12 seconds."}

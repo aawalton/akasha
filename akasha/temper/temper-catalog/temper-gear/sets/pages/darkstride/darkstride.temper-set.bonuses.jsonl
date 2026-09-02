@@ -1,0 +1,4 @@
+{"id":"01a05fda-024a-7ed1-af77-55b58631f366","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-7b98-bfad-aead0c0c7c45","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-71f7-b271-a19c73121fb9","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-024a-7c77-a16a-b9fedf2d7c7a","count":5,"status":"unsupported","description":"Reduces the cost of Sprint and Sneak by 50%."}

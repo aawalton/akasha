@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7f73-a0ac-3af368864552","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0245-7b3d-8e7d-346894ff15fb","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fda-0245-70c6-ad2a-b96d8166358d","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fda-0245-7c4d-a9bc-c174be102052","count":5,"status":"unsupported","description":"Your Light and Heavy attacks apply a stack of harmful winds to your target for 5 seconds. Harmful winds deal 51 Physical damage per stack every 1 second. This effect can stack once every 0.5 seconds, up to 10 times, and scales off the higher of your Weapon or Spell Damage."}

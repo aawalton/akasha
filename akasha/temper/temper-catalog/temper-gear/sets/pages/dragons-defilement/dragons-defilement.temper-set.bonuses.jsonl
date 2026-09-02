@@ -1,0 +1,5 @@
+{"id":"01a05fda-024b-71b9-b1a0-1273a46f686a","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024b-7df5-a256-70473634af98","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024b-7dc8-b4da-75164340bfb9","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024b-7f5a-8b24-a355c4322f21","count":5,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024b-7ed8-9a10-26f7940b82eb","count":5,"status":"unsupported","description":"When you take damage from a melee attack, gain a corrupting aura for 5 seconds that applies Minor Breach to all enemies within 8 meters of you, reducing their Physical and Spell Resistance by 2974. This effect can occur every 5 seconds."}

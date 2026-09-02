@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-7633-8ebb-df7fd4a464a0","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0248-759c-8118-3d2a97e52512","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0248-7795-a828-242ee65c3e2f","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-0248-7cd3-969d-950a0adfbec5","count":5,"status":"unsupported","description":"When you take damage, you grant you and your group members within 8 meters a damage shield that absorbs 11260 damage for 6 seconds. This effect can occur once every 12 seconds."}

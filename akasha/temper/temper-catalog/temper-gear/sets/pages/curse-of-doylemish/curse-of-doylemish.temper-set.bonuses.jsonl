@@ -1,0 +1,4 @@
+{"id":"01a05fda-024a-75c4-ad7d-254a7279ecbe","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024a-7ce7-a377-4993503d2f17","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024a-7ebb-bc42-0cdeaee76974","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-024a-7fa1-9ddf-584b1db4aa6e","count":5,"status":"unsupported","description":"When using a fully-charged melee Heavy Attack on a taunted monster or any enemy who is stunned, feared, or immobilized, you will deal 1811 Physical damage. This effect can occur once every 4 seconds and scales off the higher of your Weapon or Spell Damage."}

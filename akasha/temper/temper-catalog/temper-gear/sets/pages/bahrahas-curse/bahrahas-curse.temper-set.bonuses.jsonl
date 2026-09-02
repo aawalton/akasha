@@ -1,0 +1,5 @@
+{"id":"01a05fda-0246-7ccb-9d6f-477e383e3dff","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0246-7238-8c1c-c65793cebb93","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0246-73c2-bd93-284befbd11f1","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0246-7f5e-b5c9-c66a8756efe4","count":4,"status":"unsupported","description":"Reduces your damage taken from environmental traps by 40%."}
+{"id":"01a05fda-0246-7c39-901d-5a3f4ef8c084","count":5,"status":"unsupported","description":"When you deal damage, you have a 25% chance to create desecrated ground for 5 seconds, which reduces the Movement Speed of enemies within 3.5 meters by 60%, damages them for 355 Magic damage every 1 second, and heals you for 100% of the damage done. This effect can occur once every 5 seconds and the damage scales off your Max Health."}

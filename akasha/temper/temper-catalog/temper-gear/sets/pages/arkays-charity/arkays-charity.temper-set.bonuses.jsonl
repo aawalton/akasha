@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7c75-b706-d9b47f0e2aaa","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0245-7c72-837c-a2bfe8677cb4","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0245-7342-bb1e-888156dbacb2","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0245-715c-afc6-6b13345a3a71","count":5,"status":"unsupported","description":"When you cleanse a negative effect from yourself or an ally, restore 13 Ultimate to the target. This effect can occur once every 9 seconds per target."}

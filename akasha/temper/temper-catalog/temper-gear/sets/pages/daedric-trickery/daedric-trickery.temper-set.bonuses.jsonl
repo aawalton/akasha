@@ -1,0 +1,4 @@
+{"id":"01a05fda-024a-702e-b2a3-9946289b2f69","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024a-7d12-a877-4a7b80ecaa1e","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-7fec-ba97-c196af0f41b6","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-7376-8fdb-ef93e7bf4c25","count":5,"status":"unsupported","description":"When you deal damage you gain one of 5 random Major buffs for 21 seconds every 9 seconds. Eligible buffs are Expedition, Protection, Mending, Heroism, or Vitality."}

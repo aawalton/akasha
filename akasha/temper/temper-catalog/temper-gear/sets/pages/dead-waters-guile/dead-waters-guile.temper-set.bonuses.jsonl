@@ -1,0 +1,5 @@
+{"id":"01a05fda-024a-73ae-b582-81892ea24b19","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-024a-7ff6-bf00-e8d354b2cad4","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024a-7689-9d6d-295b0fa4ff6b","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-7f96-9fa1-a741737d4619","count":5,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-024a-7908-be37-9257070fc3e3","count":5,"status":"unsupported","description":"Whenever you kill an enemy, you gain 15 Ultimate."}

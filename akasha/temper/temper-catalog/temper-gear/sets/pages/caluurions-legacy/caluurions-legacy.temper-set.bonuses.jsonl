@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-70e4-bdd2-f325def54591","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-7fbd-b1c2-594fe4febdc0","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0248-7272-a5f3-69eecc1c28b5","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-7445-ae07-eb44835c3acf","count":5,"status":"unsupported","description":"When you deal Critical Damage with a Light or Heavy Attack, you launch a projectile at your target that deals 894 Flame, 894 Frost, 894 Shock, or 894 Disease damage and applies the respective status effect. This effect can occur once every 5 seconds and scales off the higher of your Weapon or Spell Damage."}

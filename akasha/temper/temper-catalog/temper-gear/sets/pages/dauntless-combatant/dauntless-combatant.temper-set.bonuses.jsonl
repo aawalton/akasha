@@ -1,0 +1,5 @@
+{"id":"01a05fda-024a-7e0e-b9de-afc10864be2d","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-70ea-9242-e3901473ddb7","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024a-7b41-8f10-907f32b0426b","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-7428-9b4c-d806e9d8bbc9","count":5,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024a-7cc0-a7ac-37fcb92f1104","count":5,"status":"unsupported","description":"When you are affected by a disabling effect, you automatically Break Free for no cost. After using this effect, you become Winded and cannot trigger this effect or others like it for 21 seconds."}

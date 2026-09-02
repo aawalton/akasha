@@ -1,0 +1,4 @@
+{"id":"01a05fda-0246-70f5-bd88-c710850a6fc6","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0246-7d57-bb08-2fd644648cc7","count":3,"status":"unsupported","description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fda-0246-7878-8b1c-9081c4c7338c","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0246-7fb4-8033-572e8480c27f","count":5,"status":"unsupported","description":"Increases your damage done against monsters by up to 10% based on your missing Magicka, reaching the maximum at 50% Magicka.\n\nCurrent value: 0%"}

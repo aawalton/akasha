@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-7c0b-8058-d40a1089dae3","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7e92-ba1c-64e859096658","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0248-70de-81fa-a21fcb06f4a2","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7329-ba3c-8135b916fa73","count":5,"status":"unsupported","description":"While you have a drink buff active, your Max Stamina is increased by 2000 and Stamina Recovery by 133."}

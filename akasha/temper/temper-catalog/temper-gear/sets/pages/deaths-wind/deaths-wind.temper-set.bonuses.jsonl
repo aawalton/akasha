@@ -1,0 +1,4 @@
+{"id":"01a05fda-024a-7647-bc85-ade5e05076ac","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-024a-7858-90e4-938ac5015c24","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024a-785c-86b7-70e243db47ca","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024a-7fc3-b7e5-1313e43500a9","count":5,"status":"unsupported","description":"When you take melee damage while you are under 35% Health, you knockback and stun all enemies within 8 meters of you for 4 seconds. This effect can occur once every 15 seconds."}

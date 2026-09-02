@@ -1,0 +1,4 @@
+{"id":"01a05fda-0244-71fe-95c0-b60fabbf0aab","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0244-7be0-a575-126ea1e791d7","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0244-71c6-8c9d-8f87e9744586","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0244-75a3-963f-d6d62056aeac","count":5,"status":"unsupported","description":"Adds 7377 Armor. Increases the cost of Block, Sprint, Dodge, and Break Free by 20%."}

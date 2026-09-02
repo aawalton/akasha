@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-725c-a70a-2e1c5a33b042","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-778d-8910-61c1f34938a4","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0248-7693-9998-926dc4ab2361","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7394-a96a-176ac9f7995d","count":5,"status":"unsupported","description":"Dealing damage with a fully-charged Heavy Attack also restores 2363 Magicka or Stamina to the three allies nearest your target. The resource restore is based on the type of weapon you are wielding."}

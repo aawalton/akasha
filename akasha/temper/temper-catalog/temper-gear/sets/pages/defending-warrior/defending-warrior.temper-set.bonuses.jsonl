@@ -1,0 +1,4 @@
+{"id":"01a05fda-024a-72a6-b854-06fa039fdc88","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-024a-79f4-ae80-a3906fa0b2b4","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-024a-7abd-a83f-dece979b4e9f","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024a-7068-a727-eed76c4b3145","count":5,"status":"unsupported","description":"When you Block, you deal 1217 Magic damage to all enemies within 10 meters of you and heal for 102% of the damage done. This effect can occur once every 5 seconds and scales off your Max Health."}

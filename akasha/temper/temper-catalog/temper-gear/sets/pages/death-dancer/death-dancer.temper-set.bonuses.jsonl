@@ -1,0 +1,4 @@
+{"id":"01a05fda-024a-73a8-a3e3-649489873369","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-7ae2-9ffc-92f8f35d4608","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-024a-780a-9334-5f4eeca3de6b","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-024a-7ae0-ad52-1c42b4cfbccb","count":5,"status":"unsupported","description":"Adds 1528 Critical Chance while you have 50% or more Stamina. Reduce the cost of your Core Combat abilities by 23% while you have less than 50% of your Stamina."}

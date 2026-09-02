@@ -1,0 +1,4 @@
+{"id":"01a05fda-0246-770f-bf4d-3894ef9d8e71","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0246-7bab-9199-e17ec830d064","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0246-7a16-8465-d7729fa30717","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0246-7dcb-a906-aa2255b10197","count":5,"status":"unsupported","description":"While you have a food buff active, your Critical Damage and Critical Healing is increased by 13%."}

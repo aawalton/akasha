@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-70f5-bc57-b8b4387b4dac","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-7aef-b3b7-d844390467d0","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7b02-a4e2-7ae19b2b3de0","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-7a95-abd1-5dfba41c52a7","count":5,"status":"unsupported","description":"When you deal Critical Damage, you increase your Weapon and Spell Damage by 450 for 10 seconds. While this effect is active your Critical Strikes heal you for 99 Health. This effect can occur once every 15 seconds and the heal scales off the higher of your Max Magicka or Stamina."}

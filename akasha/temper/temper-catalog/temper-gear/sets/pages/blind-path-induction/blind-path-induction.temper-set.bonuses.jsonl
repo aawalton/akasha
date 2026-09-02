@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-734b-bf6d-e73c178ca78d","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7eb7-99fc-9918125da87b","count":3,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-0248-7271-8eab-457fbad2d2d9","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-73ed-82bc-63c30b85f739","count":5,"status":"unsupported","description":"Increase the strength of your Damage Shields by 13% to you and targets within 15 meters of you. Increase your Healing Done by 13% to targets more than 15 meters away from you."}

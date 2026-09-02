@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-7eff-a5e8-e9dd13077986","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-72c4-8124-93d4219b49fc","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0248-7eea-a674-40171a767735","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-72d0-8005-4c1639caccb5","count":5,"status":"unsupported","description":"When you deal damage with a Flame Damage ability, you apply the Burning status effect to the enemy and increase your Weapon and Spell Damage by 490 for 8 seconds. These effects can occur once every 12 seconds."}

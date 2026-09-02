@@ -1,0 +1,4 @@
+{"id":"01a05fda-0249-7fb7-84e4-e1ce7b72922f","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0249-74c1-906f-343114a005f6","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0249-7faf-9f84-a40a7a125272","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0249-7e72-985e-b63b261c089b","count":5,"status":"unsupported","description":"When you Block, heal for 2979 Health. This effect can occur every 4 seconds and scales off your Max Health."}

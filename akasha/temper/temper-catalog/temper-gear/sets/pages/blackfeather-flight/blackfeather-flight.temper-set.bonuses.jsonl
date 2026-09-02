@@ -1,0 +1,4 @@
+{"id":"01a05fda-0247-74f0-89f8-f125528de33e","count":2,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-0247-76dd-9cb3-4f2d77c69f07","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0247-7c7f-a130-5204a5bd108e","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0247-7084-91b8-36c10077ee0f","count":5,"status":"unsupported","description":"When you Break Free, gain 100% Movement Speed for 7 seconds. This effect can occur once every 28 seconds."}

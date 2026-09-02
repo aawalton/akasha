@@ -1,0 +1,4 @@
+{"id":"01a05fda-0247-716d-8766-efbfb0090f46","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0247-7eab-ba0a-ef33a92499ef","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0247-75b0-add2-6c7c472f6b86","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0247-76e2-974c-15ff7591b998","count":5,"status":"unsupported","description":"Blocking an attack grants you a stack of Inflection for 10 seconds, up to 3 stacks max. You can gain up to 1 stack every 0.5 seconds. Increase your Magicka and Stamina Recovery by 106 per stack of Inflection."}

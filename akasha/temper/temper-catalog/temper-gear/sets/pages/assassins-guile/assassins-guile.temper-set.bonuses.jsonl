@@ -1,0 +1,4 @@
+{"id":"01a05fda-0246-7229-b07e-78692c36261d","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0246-74a2-837c-43a17de9c4eb","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0246-7dba-9e28-c6a0b1c46a45","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0246-7e62-bc18-76846b22e410","count":5,"status":"unsupported","description":"Increases the duration of your alchemical poisons by 4 seconds."}

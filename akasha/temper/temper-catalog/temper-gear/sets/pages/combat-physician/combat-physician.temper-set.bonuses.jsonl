@@ -1,0 +1,4 @@
+{"id":"01a05fda-0249-7271-bbc6-5f7675071000","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0249-7997-9bcc-317fd4bc1cf5","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0249-7110-94d0-e6892e7187f5","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0249-7c1c-aabc-501c9c50f1c1","count":5,"status":"unsupported","description":"When your healing critically strikes, you grant your target a damage shield that absorbs 4308 damage for 6 seconds. This effect can occur once every 6 seconds per target."}

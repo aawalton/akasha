@@ -1,0 +1,4 @@
+{"id":"01a05fda-0249-7ec0-8172-9c0a2ad49acf","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0249-775b-8cd4-f97ed73f3615","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0249-7145-bf79-1c11985efb5a","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0249-785d-81e7-ef8dce75fa15","count":5,"status":"unsupported","description":"When you drink a potion during combat you feel a rush of energy, increasing your Weapon and Spell Damage by 675 for 20 seconds."}

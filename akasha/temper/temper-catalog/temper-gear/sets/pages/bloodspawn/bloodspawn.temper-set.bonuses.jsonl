@@ -1,0 +1,2 @@
+{"id":"01a05fda-0248-7061-8a94-28f0867ff86f","count":1,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0248-7e39-bb51-9600f91955de","count":2,"status":"unsupported","description":"When you take damage, you have a 6% chance to generate 13 Ultimate and increase your Physical and Spell Resistance by 3731 for 5 seconds. This effect can occur once every 5 seconds."}

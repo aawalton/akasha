@@ -1,0 +1,5 @@
+{"id":"01a05fda-0249-7aa3-952e-95aae12c8009","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0249-7b08-8536-2adc4c298a3e","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0249-7242-982f-c5183dbf94dd","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0249-7eb5-a20d-efa8cc09e690","count":5,"status":"supported","description":"Adds 250 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":250}]}
+{"id":"01a05fda-0249-74da-bdf3-b9c22903170e","count":5,"status":"unsupported","description":"While Sprinting you gain Major Expedition and Major Protection, increasing your Movement Speed by 30% and reducing your damage taken by 10%."}

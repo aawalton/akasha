@@ -1,0 +1,2 @@
+{"id":"01a05fda-0248-7e75-8703-ef4383b75fd5","count":1,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0248-7f67-ac93-601845a97c1a","count":2,"status":"unsupported","description":"When you use a heal ability with a cost, you have a 33% chance to summon a strangler sapling that heals you or an ally for 7280 Health over 6 seconds. This effect can occur once every 10 seconds and scales off the higher of your Max Magicka or Stamina."}

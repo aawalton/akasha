@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7b26-9c24-1f68e0b176d1","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0245-72e6-b81e-283a77f0067c","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0245-766f-be8e-82b11ff80951","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0245-73d6-9238-00e73aa50e5b","count":5,"status":"unsupported","description":"You and group members within 28 meters of you gain Major Fortitude, Major Intellect, and Major Endurance, increasing your Health Recovery, Magicka Recovery, and Stamina Recovery by 30%."}

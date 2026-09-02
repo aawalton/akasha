@@ -1,0 +1,5 @@
+{"id":"01a05fda-0244-7bcc-80e6-147b38e3dd9e","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0244-7a78-a2b1-9acf9cc5bd72","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-0244-7e14-88b2-2a45c87c13fc","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0244-7fdb-afb8-487b8b75d4a0","count":5,"status":"supported","description":"Adds 158 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":158}]}
+{"id":"01a05fda-0244-76d3-8e5f-1a7ac3c4aa25","count":5,"status":"unsupported","description":"Reduces the cost of your Ultimate abilities by 15%."}

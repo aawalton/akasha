@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-770e-82ae-dc3f73ecaa8a","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0245-7a3c-9e2e-f47f3a8f7eed","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0245-73d2-91e7-dfdde63078f9","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0245-71b7-a917-e8f2e653a7f2","count":5,"status":"unsupported","description":"When you interrupt an enemy, you gain 516 Weapon and Spell Damage for 15 seconds. Your Bash attacks deal 516 more damage."}

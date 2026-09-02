@@ -1,0 +1,4 @@
+{"id":"01a05fda-0249-76ed-a549-6f100b9ba2ec","count":2,"status":"supported","description":"Adds 424 Critical Resistance","effects":[{"metricId":"resistance-critical","type":"integer","value":424}]}
+{"id":"01a05fda-0249-79b9-98a0-dd54dd35b511","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0249-75c6-bf1f-b8eef2a7b14f","count":4,"status":"supported","description":"Adds 424 Critical Resistance","effects":[{"metricId":"resistance-critical","type":"integer","value":424}]}
+{"id":"01a05fda-0249-782a-87b0-6b2a84ca89b7","count":5,"status":"unsupported","description":"When you take critical damage, you apply Minor Uncertainty and Minor Enervation to the enemy for 9 seconds, reducing their Physical and Spell Critical by 1314 and reducing their Critical Damage by 10%. An enemy can only be affected by your Critical Riposte once every 10 seconds."}

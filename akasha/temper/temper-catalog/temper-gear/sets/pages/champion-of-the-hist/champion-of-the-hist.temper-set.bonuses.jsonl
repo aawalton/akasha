@@ -1,0 +1,5 @@
+{"id":"01a05fda-0248-7f79-b3c9-c536569ace16","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0248-7647-bf2b-8ad23ca6e9c8","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7340-bf69-ee74bc0cdf2f","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-720f-a495-cfd0239d9a93","count":5,"status":"supported","description":"Adds 1600 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1600}]}
+{"id":"01a05fda-0248-7460-98cb-44cb95a12a7b","count":5,"status":"unsupported","description":"Gain Minor Heroism at all times while you are in combat, generating 1 Ultimate every 1.5 seconds."}

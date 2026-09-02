@@ -1,0 +1,4 @@
+{"id":"01a05fda-024b-701b-96b7-e27ed405ef65","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-024b-7392-a34f-300b3456ba92","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024b-7ae4-9a03-02ba349cee0f","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024b-7f64-8e9d-052bd3cdd469","count":5,"status":"unsupported","description":"When you take damage, you have a 25% chance to restore 2012 Magicka. This effect can occur once every 4 seconds."}

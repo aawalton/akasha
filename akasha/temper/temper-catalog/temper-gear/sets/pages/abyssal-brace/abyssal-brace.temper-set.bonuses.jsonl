@@ -1,0 +1,5 @@
+{"id":"01a05fda-0243-775e-adc8-e0890ac576f9","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0243-7ec5-96ec-87827d4dccd5","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0243-7abb-99bb-c1000bad7ef3","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0243-73d4-8140-b9db6bdc566d","count":5,"status":"supported","description":"Adds 1710 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1710}]}
+{"id":"01a05fda-0243-762b-95be-8bdab12169b8","count":5,"status":"unsupported","description":"While you are Bracing, you and group members within 12 meters of you gain Minor Evasion, reducing damage from area attacks by 10%."}

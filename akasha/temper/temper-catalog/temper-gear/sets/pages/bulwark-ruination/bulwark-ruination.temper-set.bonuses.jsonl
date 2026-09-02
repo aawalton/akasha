@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-7f8e-8cfb-45ab63112308","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-7d8e-83f2-565f9de0a46e","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-745a-aede-b99db091a6e7","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0248-71b0-99c9-f61799645218","count":5,"status":"unsupported","description":"When an enemy blocks one of your attacks, reduce the amount of damage they can block by 8% for 5 seconds. This effect can stack up to 5 times and can occur once every 0.3 seconds."}

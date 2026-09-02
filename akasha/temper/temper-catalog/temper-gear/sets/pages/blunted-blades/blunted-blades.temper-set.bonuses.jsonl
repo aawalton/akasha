@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-7776-9e27-7895571cf606","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0248-7526-9aff-71d33ac4933d","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-79f0-8569-b430b689fb8f","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0248-7ad1-b653-8ae5e430511d","count":5,"status":"unsupported","description":"When you take direct damage, Minor Enervation is applied to your enemy for 4 seconds, reducing their Critical Damage done by 10%. This can occur once every 5 seconds.\n\nIncrease your damage done to enemies with Minor Enervation by 6%."}

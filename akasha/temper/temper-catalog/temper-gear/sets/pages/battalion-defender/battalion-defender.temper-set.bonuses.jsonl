@@ -1,0 +1,4 @@
+{"id":"01a05fda-0247-7f5b-ade7-c0a66c04e132","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0247-7bf3-836d-6eba5ac402e9","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0247-7778-a30d-32c7e64d4c66","count":4,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-0247-7b07-8e9b-fd8699a78930","count":5,"status":"unsupported","description":"When you Block, heal yourself or a group member within 15 meters of you for 930 Health. This effect can occur every 1 second and scales off your Max Health."}

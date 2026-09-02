@@ -1,0 +1,4 @@
+{"id":"01a05fda-0246-71db-a2eb-b340e55a6df2","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0246-72c3-b6f2-4fe13dce2eb0","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0246-77b2-988c-0778e68ec0e2","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0246-7987-972b-aac5f93dbec8","count":5,"status":"unsupported","description":"When you take damage while under 30% Health, you heal for 10691 Health and restore 10481 Magicka and Stamina. This effect can occur once every 45 seconds."}

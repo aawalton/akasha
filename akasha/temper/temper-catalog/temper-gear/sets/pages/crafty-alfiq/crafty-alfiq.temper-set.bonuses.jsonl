@@ -1,0 +1,4 @@
+{"id":"01a05fda-0249-7473-880c-2928ba619b96","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0249-739f-9c9f-3c8bee25b920","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0249-7939-b325-fd09e853939f","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0249-778f-9362-d2abbe22aa8b","count":5,"status":"supported","description":"Adds 2550 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":2550}]}

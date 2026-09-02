@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-7d3a-a508-0c2969cedc72","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7836-8a84-d0b3dca59feb","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0248-7985-a268-117def1213cf","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0248-7d51-bb62-00da96ebe453","count":5,"status":"unsupported","description":"Reduce damage taken from Players by 10%."}

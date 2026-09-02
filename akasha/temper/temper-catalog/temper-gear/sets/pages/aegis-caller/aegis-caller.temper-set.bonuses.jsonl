@@ -1,0 +1,4 @@
+{"id":"01a05fda-0244-7bc2-9f38-532c615cd742","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0244-78aa-bc08-29885b3ff43a","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0244-7f7a-9541-7d7eb347d897","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0244-78a0-bb64-32a56480acd3","count":5,"status":"unsupported","description":"When you deal critical damage with a Martial melee attack, summon a Lesser Aegis for 11 seconds. After 2.5 seconds, the Lesser Aegis spins its blades, dealing 478 Bleed Damage every 1 second. This effect can occur once every 12 seconds and scales off the higher of your Weapon or Spell Damage."}

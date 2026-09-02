@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7140-b3fa-7744db0b4c2d","count":1,"status":"unsupported","description":"Increase your Critical Chance against targets with a lower % of health than you by 2051."}
+{"id":"01a05fda-0245-72af-bb6a-7fa5334169b0","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0245-744a-aa56-d9effb6ea8c0","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0245-76fc-9261-41a036b5cdc8","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}

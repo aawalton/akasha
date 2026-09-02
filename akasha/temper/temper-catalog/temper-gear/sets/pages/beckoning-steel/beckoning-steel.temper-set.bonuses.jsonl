@@ -1,0 +1,4 @@
+{"id":"01a05fda-0247-708d-b0a3-74788e97befb","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0247-7077-9c0e-d47cc8a49eb1","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0247-7227-84d3-efd5977b826c","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0247-7918-bed6-0df51ac77c94","count":5,"status":"unsupported","description":"Generate an aura that causes you and 11 group members within the aura to take 10% less damage from projectiles. This bonus persists through death.\n\nYou can only be affected by one instance of Beckoning Steel."}

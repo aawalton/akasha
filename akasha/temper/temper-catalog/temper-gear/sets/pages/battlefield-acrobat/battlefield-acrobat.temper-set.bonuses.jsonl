@@ -1,0 +1,4 @@
+{"id":"01a05fda-0247-7ad1-a189-4b1a6e603c4c","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0247-7961-8433-f9c8574d1217","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0247-7b15-b202-eaa239ccff5a","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0247-7d94-968f-79fd2657909a","count":5,"status":"unsupported","description":"Reduces the cost of all of your abilities by 6%."}

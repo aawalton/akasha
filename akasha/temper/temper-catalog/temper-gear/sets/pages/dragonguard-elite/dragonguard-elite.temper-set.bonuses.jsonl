@@ -1,0 +1,4 @@
+{"id":"01a05fda-024b-7adc-acf0-67c5ae2c1094","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-024b-705e-bb81-151437b2781b","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-024b-73f6-ac30-47a26689b592","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-024b-7a61-b1b8-47f371a70236","count":5,"status":"unsupported","description":"You gain a stack of Dragonguard Tactics for 5 seconds when you deal direct damage to an enemy from the front or their sides, up to 10 stacks. Each stack of Dragonguard Tactics increases your Critical Chance by 275. You can only gain one stack every 0.5 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-0243-7b4b-a641-a9b690165ace","count":2,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0243-7e4d-b611-ac2729d447f4","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0243-757a-a283-64d57decf86e","count":4,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0243-7b2e-935a-ce0f224a0b05","count":5,"status":"unsupported","description":"Gain 1505 Health Recovery while you are standing still."}

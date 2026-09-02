@@ -1,0 +1,4 @@
+{"id":"01a05fda-024b-77f3-9f63-4696b9ce36e9","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024b-7fec-87be-c280bcb62f50","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024b-7d95-a380-d2c8cda2fa35","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024b-7da1-9dda-4a753a19f295","count":5,"status":"unsupported","description":"When you Bash an enemy, you and up to 3 group members within 15 meters of you gain Major Heroism for 12 seconds, granting you 3 Ultimate every 1.5 seconds. This effect can occur once every 18 seconds."}

@@ -1,0 +1,5 @@
+{"id":"01a05fda-0247-7efb-b0fc-f00b87296757","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0247-7ae7-b3b5-1d40a3b6d43d","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0247-7a6e-bb2e-68920c6e390b","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0247-744d-8908-d2776408e6f7","count":5,"status":"supported","description":"Adds 986 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":986}]}
+{"id":"01a05fda-0247-77c0-8266-cf9767f7f3d1","count":5,"status":"unsupported","description":"When you deal Martial melee damage, your Critical Chance is increased by 298 for 5 seconds, stacking up to 5 times. This effect can occur once every half second."}

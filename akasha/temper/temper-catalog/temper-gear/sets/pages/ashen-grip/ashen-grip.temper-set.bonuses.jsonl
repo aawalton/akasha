@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7a2a-b47c-76512bd22169","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0245-7534-918e-9b5c541072a4","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0245-7146-90b5-34f230ca8b0f","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0245-7567-91ea-170b85fb030a","count":5,"status":"unsupported","description":"When you deal Martial melee damage, you breathe fire to all enemies in front of you for 774 Flame Damage. This effect can occur once every 4 seconds and scales off the higher of your Weapon or Spell Damage."}

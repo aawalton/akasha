@@ -1,0 +1,4 @@
+{"id":"01a05fda-0246-76d0-829a-5ec8f8d0a279","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0246-7368-9f59-a004ac159df8","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fda-0246-7ced-abac-9c7ac95b4465","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-0246-7e4e-972d-db31feeaa21b","count":5,"status":"unsupported","description":"When you use an Ultimate ability while in combat, you and the closest 5 group members within 28 meters of you gain Major Aegis for 1 second per 10 Ultimate spent, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 10%."}

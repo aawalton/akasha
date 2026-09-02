@@ -1,0 +1,4 @@
+{"id":"01a05fda-0244-7672-a5fb-3878b2eaba9e","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0244-705a-b988-cd5702146c4d","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0244-7d7c-ad95-5ddda45e83be","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0244-76fd-8874-67fe56c1d71a","count":5,"status":"unsupported","description":"Increase your Health Recovery by 2% of your sum total Physical Resistance and Spell Resistance, up to a maximum of 1320.\n\nCurrent Bonus Health Recovery: 0."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-75fa-9c2b-6bfb239e8992","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0245-794c-a83c-89fce1d70b48","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0245-7b62-8247-749fab7a01d4","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0245-72a5-8b7b-d68db93a1e9d","count":5,"status":"unsupported","description":"Increases your Critical Damage and Healing by 8%. Increases your Critical Damage and Healing by an additional 16% when you are Sneaking or Invisible."}

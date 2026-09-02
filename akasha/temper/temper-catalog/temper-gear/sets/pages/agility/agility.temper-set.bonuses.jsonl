@@ -1,0 +1,2 @@
+{"id":"01a05fda-0244-791e-a796-32fa609990a1","count":2,"status":"supported","description":"Adds 1752 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1752}]}
+{"id":"01a05fda-0244-7519-b88c-6ffd15e82ad0","count":3,"status":"supported","description":"Adds 206 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":206}]}

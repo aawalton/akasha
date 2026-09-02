@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7404-8121-10b81bb79222","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0245-7158-b986-0c1245315fd6","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0245-7edb-ab4d-ec9390f4cecd","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0245-7031-970b-83b414654f8e","count":5,"status":"unsupported","description":"When you deal damage to an enemy who is Off Balance, your Weapon and Spell Damage are increased by 460 for 10 seconds."}

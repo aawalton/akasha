@@ -1,0 +1,4 @@
+{"id":"01a05fda-0246-7332-a77e-d3b8ca9d4c9e","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0246-7eb9-b77a-8f7c534b1815","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0246-73e7-b392-ce9b6adbb7f5","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fda-0246-71f3-b527-939b5ba9df14","count":5,"status":"unsupported","description":"Dealing direct damage to a target within 10 meters of you summons a cone of lightning from your chest for 5 seconds, dealing 396 Shock damage every 1 second to enemies in the cone. This effect can occur every 10 seconds and scales off the higher of your Weapon or Spell Damage."}

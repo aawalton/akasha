@@ -1,0 +1,4 @@
+{"id":"01a05fda-024a-7c55-8dab-7985186f4b6e","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-7df3-b9ee-f9e09c27940e","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-7efd-a8dd-dd51f411af22","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-024a-7fd4-8b43-0722930f82a2","count":5,"status":"unsupported","description":"When you deal direct damage to a taunted target, restore 525 Stamina and Magicka. This effect can occur once every 2 seconds."}

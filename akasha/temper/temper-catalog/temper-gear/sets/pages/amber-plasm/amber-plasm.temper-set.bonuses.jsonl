@@ -1,0 +1,6 @@
+{"id":"01a05fda-0244-7dac-9df4-6910942333b0","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0244-7c31-afa9-2353f4606852","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0244-7c48-910e-4a9577d535a7","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0244-77f5-a7ae-fde864968711","count":5,"status":"supported","description":"Adds 245 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":245}]}
+{"id":"01a05fda-0244-7f79-a6b4-6c2f740b0615","count":5,"status":"supported","description":"Adds 245 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":245}]}
+{"id":"01a05fda-0244-7ab1-95ff-2c16d6d83ae3","count":5,"status":"supported","description":"Adds 245 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":245}]}

@@ -1,0 +1,5 @@
+{"id":"01a05fda-0247-72c3-b352-b4a8e912d25c","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0247-75ae-ae01-3c8856eb042c","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0247-7b98-82f0-6fa7c165a37c","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0247-70eb-8400-8448628de026","count":5,"status":"supported","description":"Adds 176 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":176}]}
+{"id":"01a05fda-0247-7d48-a590-c23d400328cb","count":5,"status":"unsupported","description":"Increases the Magicka and Stamina restored from the Constitution passive ability by 60%."}

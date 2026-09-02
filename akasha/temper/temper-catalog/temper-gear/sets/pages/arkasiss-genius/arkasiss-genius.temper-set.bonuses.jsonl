@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7394-97e5-cca6cbefba8c","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0245-749b-a14f-20a3958f4f64","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0245-745a-a546-c7d1cbc2a627","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0245-7ba9-b3c1-60f597ae0bfe","count":5,"status":"unsupported","description":"Whenever you drink a potion while in combat, you and 3 group members gain 44 Ultimate. This effect can occur once every 30 seconds."}

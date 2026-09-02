@@ -1,0 +1,2 @@
+{"id":"01a05fda-0249-77e2-8d34-9c37c31ffb4c","count":1,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fda-0249-70b4-80e9-80c713a5144c","count":2,"status":"unsupported","description":"When you kill a Player, gain a stack of Blood Debt for 0.5 seconds. When Blood Debt expires, you and up to 5 group members within 28 meters of you gain 15 Ultimate per stack of Blood Debt."}

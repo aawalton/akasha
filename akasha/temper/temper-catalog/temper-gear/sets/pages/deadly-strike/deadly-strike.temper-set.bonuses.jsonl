@@ -1,0 +1,4 @@
+{"id":"01a05fda-024a-7d31-bd71-ebd49b9911d9","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-024a-7d18-841d-58a3a52d1bd7","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-024a-73ad-a874-bb7d5b8534b4","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-024a-7deb-b572-3bd62959f9e6","count":5,"status":"unsupported","description":"Increase the damage your damage over time and channeled attacks do by 15%."}

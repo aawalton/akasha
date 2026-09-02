@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7ba8-8856-30098b6e207a","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0245-736b-9723-b2dbfdce9ac9","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0245-72d1-b290-623e513bb717","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0245-7b0f-88a9-ed4811109cbe","count":5,"status":"unsupported","description":"Reduces the cost of your Magicka abilities by 10%."}

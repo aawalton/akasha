@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-76f5-856f-0da2c647c230","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7024-8150-8406524bca9d","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0248-7fcc-a83a-02235a9cb4cf","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-71e5-9133-29d47abec35a","count":5,"status":"unsupported","description":"When an enemy you have recently damaged dies, gain 10 Ultimate and increase your Health Recovery by 1156 for 10 seconds. This effect can occur once every 10 seconds."}

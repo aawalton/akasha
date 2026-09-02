@@ -1,0 +1,4 @@
+{"id":"01a05fda-0244-7ea0-9f46-6c7d0d2b7efd","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0244-7e61-b2fb-95ec31abee30","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0244-7ecb-be3b-fc5460bc454c","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0244-7da2-a084-46d48eb9e656","count":5,"status":"unsupported","description":"When you take damage from a Martial melee attack, you reduce the attacker's Weapon and Spell Damage by 300 for 5 seconds."}

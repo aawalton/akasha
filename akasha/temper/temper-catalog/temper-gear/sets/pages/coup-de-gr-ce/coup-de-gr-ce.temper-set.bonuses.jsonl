@@ -1,0 +1,4 @@
+{"id":"01a05fda-0249-7a83-9dcc-81859168a53f","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0249-7129-876f-27ceb36ce16b","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0249-7bd6-8226-5514796ce00e","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0249-7436-aacc-46b59f5728ad","count":5,"status":"unsupported","description":"Dealing damage to an Immobilized enemy applies Major Vulnerability to them for 3 seconds, increasing their damage taken by 10%. This effect can occur once every 1 second."}

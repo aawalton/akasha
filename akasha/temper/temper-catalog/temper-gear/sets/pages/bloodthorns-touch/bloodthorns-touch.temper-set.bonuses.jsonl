@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-71e8-adde-209c323ff1aa","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0248-799e-955d-45aa9d860c4c","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0248-7c1d-a187-79aa8eec8180","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-0248-7eb3-b1cb-72b740a96361","count":5,"status":"unsupported","description":"When you deal direct damage, you restore 800 Magicka and Stamina. This effect can occur once every 5 seconds."}

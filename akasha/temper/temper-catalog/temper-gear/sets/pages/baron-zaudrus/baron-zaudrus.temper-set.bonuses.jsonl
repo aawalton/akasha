@@ -1,0 +1,4 @@
+{"id":"01a05fda-0246-78db-86fd-147e83984078","count":1,"status":"supported","description":"Adds 548 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":548}]}
+{"id":"01a05fda-0246-79d9-a0ac-9fdf69ac6591","count":1,"status":"supported","description":"Adds 548 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":548}]}
+{"id":"01a05fda-0246-732e-a0f9-276c28c67801","count":1,"status":"supported","description":"Adds 603 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":603}]}
+{"id":"01a05fda-0246-7d07-b653-1a046ac4b93a","count":2,"status":"unsupported","description":"Applying a status effect to an enemy grants you a stack of Zaudrus's Ambition for 10 seconds, up to 3 stacks max. When you gain 3 stacks, the stacks are removed and you gain 4 Ultimate. On gaining Ultimate, you cannot gain additional stacks of Zaudrus's Ambition for 1 second."}

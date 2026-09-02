@@ -1,0 +1,4 @@
+{"id":"01a05fda-024a-7e63-8c92-bf8867878aa7","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-024a-7650-96ac-08b9ce1d744c","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-024a-75c9-b7d7-0ade30c0e84d","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-024a-738f-8a73-ef7a1b6037e6","count":5,"status":"unsupported","description":"Adds 492 Weapon and Spell Damage to your area of effect abilities."}

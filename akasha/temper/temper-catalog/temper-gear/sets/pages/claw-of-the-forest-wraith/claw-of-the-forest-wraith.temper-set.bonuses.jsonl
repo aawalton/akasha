@@ -1,0 +1,4 @@
+{"id":"01a05fda-0249-74d5-a979-858d31c1e747","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0249-7162-ab8b-15f5549c17a0","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0249-774e-b4dc-b07cd6460ee4","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0249-7233-8d25-4d5bb7e6d530","count":5,"status":"unsupported","description":"Adds 2037 Critical Chance to your Class abilities."}

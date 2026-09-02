@@ -1,0 +1,4 @@
+{"id":"01a05fda-0245-7b18-8a7b-333d0dbf3dba","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0245-75ff-9be5-acfe09a1f9f9","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0245-7b50-b8bb-62adf108963c","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fda-0245-765d-84e1-e94d8f413bcc","count":5,"status":"unsupported","description":"While you have an Armor ability slotted, your Max Health is increased by 5%. When you use an Armor ability while in combat, your Physical and Spell Resistance is increased by 5940 for 10 seconds."}

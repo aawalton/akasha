@@ -1,0 +1,4 @@
+{"id":"01a05fda-0247-7609-8061-c17bbc913302","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0247-7545-8550-4bdc75359e7e","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0247-7bfe-af8c-e45d9dd0d53b","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fda-0247-769f-ad13-86c7653bb0e2","count":5,"status":"unsupported","description":"Automatically block all attacks at no cost for 2 seconds when you begin a Heavy Attack. This effect can occur once every 12 seconds."}

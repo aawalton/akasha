@@ -1,0 +1,5 @@
+{"id":"01a05fda-0248-7b0c-8728-ca9c7f4c22eb","count":2,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-0248-7dd9-9ab4-b4c8e77d9ea4","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0248-7461-b241-bdcd828afdd4","count":4,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fda-0248-7bea-8a0a-44b7b30b6bc1","count":5,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fda-0248-7d5f-9569-f05ee608271d","count":5,"status":"unsupported","description":"When you deal damage, you apply Minor Lifesteal to your enemy for 8 seconds, healing you and your allies for 612 Health every 1 second when damaging them."}

@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-79f8-b4b3-3c49c76ed887","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0248-7040-b95d-9f216b9a42b9","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-729c-a25e-c5462362a684","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-71f1-b15f-fae0003102f9","count":5,"status":"unsupported","description":"When you deal damage with a melee Light Attack, you gain a stack of Blood Scent for 8 seconds. When you gain 5 stacks, you become Frenzied for 5 seconds, increasing your melee Light Attack damage by 2050 and attack speed by 50%. This effect can occur every 15 seconds."}

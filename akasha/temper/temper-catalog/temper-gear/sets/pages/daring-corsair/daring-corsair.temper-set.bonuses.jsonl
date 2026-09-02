@@ -1,0 +1,4 @@
+{"id":"01a05fda-024a-796c-9e51-22600510482b","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-024a-7558-bfeb-b3f3939b95b6","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fda-024a-78a2-988e-1c48f667515b","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-024a-7018-bf0a-7587202b9f93","count":5,"status":"unsupported","description":"Reduce the cost of your Weapon abilities by 10% Magicka or Stamina. \n\nAfter casting a Weapon ability, you gain Minor Heroism for 8 seconds, generating 1 Ultimate every 1.5 seconds while in combat. This effect can occur every 8 seconds."}

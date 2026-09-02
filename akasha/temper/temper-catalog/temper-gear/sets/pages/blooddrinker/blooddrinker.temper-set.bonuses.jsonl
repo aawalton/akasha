@@ -1,0 +1,4 @@
+{"id":"01a05fda-0248-76ed-a4aa-390457e7fb05","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-7677-acbb-fa897f0b3ffd","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fda-0248-7b2b-88ab-24e39a7972c6","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fda-0248-74e1-83d6-8dea46405638","count":5,"status":"unsupported","description":"Increases your Bleed damaging attacks by 20%."}
