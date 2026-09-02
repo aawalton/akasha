@@ -4,11 +4,11 @@ import { ITEM_CATEGORY_TREE } from "@akasha/temper-items-core/item-category-tree
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import {
   getNodeChildren,
   getNodePath,
-} from "@temper/game-items-rules-core/item-category-tree-utils"
+} from "@akasha/temper-items-rules-core/item-category-tree-utils"
 import { useMemo } from "react"
 import { CategoryBadgeSelect } from "./rule-card-category-row"
 
