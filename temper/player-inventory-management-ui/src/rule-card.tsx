@@ -1,9 +1,9 @@
 "use client"
 
 import { ItemCard } from "@akasha/design-patterns/item-card"
-import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
-import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import type { ControlledRule } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
+import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { memo, useEffect, useState } from "react"
 import { getActionLabel } from "./action-options"
 import { AffectedItemsDialog } from "./affected-items-dialog"
