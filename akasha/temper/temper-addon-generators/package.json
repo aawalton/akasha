@@ -101,6 +101,7 @@
     "./temper-weapon-slot": "./temper-weapon-slot/temper-weapon-slot.module.code.ts",
     "./temper-weapon-trait": "./temper-weapon-trait/temper-weapon-trait.module.code.ts",
     "./temper-weapon-type": "./temper-weapon-type/temper-weapon-type.module.code.ts",
+    "./temper-zone-completion": "./temper-zone-completion/temper-zone-completion.module.code.ts",
     "./tree-node-under": "./tree-node-under/tree-node-under.module.code.ts",
     "./ttc-kiosk-locations": "./ttc-kiosk-locations/ttc-kiosk-locations.module.code.ts",
     "./web-rule-can-sell": "./web-rule-can-sell/web-rule-can-sell.module.code.ts",

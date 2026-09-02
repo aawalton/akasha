@@ -105,6 +105,7 @@ export const temperAddonGenerators = {
     "module/temper-weapon-slot",
     "module/temper-weapon-trait",
     "module/temper-weapon-type",
+    "module/temper-zone-completion",
     "module/tree-node-under",
     "module/ttc-kiosk-locations",
     "module/web-rule-can-sell",
