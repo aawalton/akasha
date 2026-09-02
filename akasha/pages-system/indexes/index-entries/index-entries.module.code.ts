@@ -44,14 +44,23 @@ export function under(repo: string, path: string): string {
 
 const FILE_PROPERTY = "file-property"
 
+const ENTRY_PROPERTY = "page-property-entry"
+
+function besides(pageTypeSlug: string | null): boolean {
+  return pageTypeSlug === FILE_PROPERTY || pageTypeSlug === ENTRY_PROPERTY
+}
+
 export function filePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, string | null> {
   const found = new Map<string, string | null>()
   for (const value of values) {
     const slug = textAt(value, "slug")
     if (slug === null) continue
     const fileName = textAt(value, "fileName")
-    if (fileName !== null) found.set(slug, fileName)
-    else if (textAt(value, "pageTypeSlug") === FILE_PROPERTY) found.set(slug, null)
+    if (fileName !== null) {
+      found.set(slug, fileName)
+      continue
+    }
+    if (besides(textAt(value, "pageTypeSlug"))) found.set(slug, null)
   }
   return found
 }
@@ -129,7 +138,7 @@ export function filePropertiesAt(given: string | Reading): ReadonlyMap<string, s
     const found = new Map<string, string | null>()
     for (const held of schemaAt(reading).values()) {
       if (held.fileName !== null) found.set(held.slug, held.fileName)
-      else if (held.pageTypeSlug === FILE_PROPERTY) found.set(held.slug, null)
+      else if (besides(held.pageTypeSlug)) found.set(held.slug, null)
     }
     return found
   })

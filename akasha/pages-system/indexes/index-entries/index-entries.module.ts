@@ -28,6 +28,10 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
+      statement: "A page claims an entry shape's file as the page claims a file property's file.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file that a page claims without stating is not asked to stand.",
     },
   ],

@@ -68,6 +68,7 @@ test("a page type carries the properties it declares itself", () => {
       declaredBy: "page-type",
       required: true,
       many: true,
+      entries: false,
       max: 20,
       total: null,
       uncommitted: false,
