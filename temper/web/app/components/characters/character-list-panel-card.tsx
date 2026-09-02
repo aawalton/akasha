@@ -1,14 +1,20 @@
 import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { CardContent, CardDescription, CardHeader, CardTitle, CardTitleBadges } from "@akasha/design-primitives/card"
+import {
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+  CardTitleBadges,
+} from "@akasha/design-primitives/card"
 import { Text } from "@akasha/design-primitives/text-body"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
+import { characterUrl } from "@akasha/temper-build-support/build-url"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { RoleId } from "@akasha/temper-character-sources/character-roles"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { RaceId } from "@akasha/temper-races/races"
-import { characterUrl } from "@akasha/temper-build-support/build-url"
-import { buildId } from "@akasha/temper-formula-framework/branded-id"
 
 interface CharacterListPanelCardBuild {
   id: string
