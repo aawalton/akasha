@@ -2867,17 +2867,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-crafting-addon": {
-      "name": "@temper/game-crafting-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/player-completion": {
       "name": "@temper/player-completion",
       "version": "0.1.0",
@@ -4478,8 +4467,6 @@
     "@temper/game-companions-ui": ["@temper/game-companions-ui@workspace:temper/game-companions-ui"],
 
     "@temper/game-completion": ["@temper/game-completion@workspace:temper/game-completion"],
-
-    "@temper/game-crafting-addon": ["@temper/game-crafting-addon@workspace:temper/game-crafting-addon"],
 
     "@temper/player-completion": ["@temper/player-completion@workspace:temper/player-completion"],
 
