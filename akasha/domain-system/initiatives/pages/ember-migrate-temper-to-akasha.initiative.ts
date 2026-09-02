@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "124 parts on this domain's page against 64 folders left in `temper/`; typecheck is 1, and it is LibSets' own missing `LibZone` global, the crafting lift having taken the other four. The read record has no expiry: a sibling subagent's startup deletes it for every seat at once, so fanning out is what breaks the write gate. Six dist gates take their denominator from what a build managed to write, so a build that stops early reads green.",
+        "125 parts on this domain's page against 62 folders in `temper/`; typecheck is 0 over 18,858 roots, down from 53. Alan ruled the old copy is ablated as each part migrates, so only two copies exist at once, and `akasha remove` is being widened to reach outside `akasha/`, nothing today being able to delete a `temper/` path. No check compares a twin's artifact to temper's. The read record runs on no timer, and the family-wide wipe ended at `6256fb84d5`.",
     },
   ],
   constraints: [
