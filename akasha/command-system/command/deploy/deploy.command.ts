@@ -7,6 +7,7 @@ export const deploy = {
   definition: "the command putting up the app a page describes",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   changeKindSlug: "change-none",
   partSlugs: [
     "module/deploy-ios-shipping",

@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, lstatSync, mkdirSync, readlinkSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
+import { manifest } from "../scratching/scratching.module.test-fixtures.ts"
 import {
   linkingsIn,
   nameIn,
@@ -34,10 +35,6 @@ function linked(root: string, name: string): string | null {
   } catch {
     return null
   }
-}
-
-function manifest(name: string): string {
-  return `${JSON.stringify({ name, private: true }, null, 2)}\n`
 }
 
 test("a manifest calling its package is read for that name", () => {

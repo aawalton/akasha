@@ -3,7 +3,7 @@ import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { seededWorld } from "@akasha/service-system/web-app-reading/testing"
 import { said } from "@akasha/utils-run/running"
-import type { Given } from "../../../calling/calling.module.code.ts"
+import { given } from "../deploy.command.test-fixtures.ts"
 import { putUpWebApp } from "./deploy-web-putting-up.module.code.ts"
 
 const WORLD = seededWorld()
@@ -14,10 +14,6 @@ const OPERATIONAL = 3
 afterAll(() => {
   WORLD.sweep()
 })
-
-function given(root: string): Given {
-  return { root, calledAs: "akasha deploy", from: root, writer: null, agentId: null }
-}
 
 const HERE = given(WORLD.root)
 

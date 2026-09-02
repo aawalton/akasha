@@ -1,17 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { seededWorld } from "@akasha/service-system/web-app-reading/testing"
-import type { Given } from "../../calling/calling.module.code.ts"
 import { deploy } from "./deploy.command.code.ts"
+import { given } from "./deploy.command.test-fixtures.ts"
 
 const WORLD = seededWorld()
 
 afterAll(() => {
   WORLD.sweep()
 })
-
-function given(root: string): Given {
-  return { root, calledAs: "akasha deploy", from: root, writer: null, agentId: null }
-}
 
 const HERE = given(WORLD.root)
 

@@ -8,3 +8,7 @@ export function writing(root: string, path: string, body: string): string {
   writeFileSync(at, body)
   return blobIdOf(new TextEncoder().encode(body))
 }
+
+export function manifest(name: string): string {
+  return `${JSON.stringify({ name, private: true }, null, 2)}\n`
+}

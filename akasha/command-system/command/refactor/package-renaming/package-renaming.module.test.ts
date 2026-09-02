@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { manifest } from "../../../scratching/scratching.module.test-fixtures.ts"
 import {
   bodyRespeltIn,
   manifestRespeltIn,
@@ -20,10 +21,6 @@ function manifests(...pairs: readonly (readonly [string, string])[]): ReadonlyMa
   const found = new Map<string, string>()
   for (const [path, text] of pairs) found.set(path, text)
   return found
-}
-
-function manifest(name: string): string {
-  return `${JSON.stringify({ name, private: true }, null, 2)}\n`
 }
 
 test("a name on its own is the name it becomes", () => {
