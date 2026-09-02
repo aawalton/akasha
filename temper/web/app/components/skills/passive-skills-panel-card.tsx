@@ -1,18 +1,25 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@akasha/design-primitives/collapsible"
+import {
+  Collapsible,
+  CollapsibleContent,
+  CollapsibleTrigger,
+} from "@akasha/design-primitives/collapsible"
 import { Heading } from "@akasha/design-primitives/heading"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
-import { type SkillLineCategoryId, skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
-import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
+import type { Skill } from "@akasha/temper-character-skills/character-skills"
+import { skills } from "@akasha/temper-character-skills/character-skills"
 import {
   countArmorPiecesByWeight,
   getRacialSkillLineIdForRace,
 } from "@akasha/temper-character-skills/passive-queries"
 import { getWeaponSkillLineIdsForBar } from "@akasha/temper-character-skills/skill-line-queries"
-import type { Skill } from "@akasha/temper-character-skills/character-skills"
-import { skills } from "@akasha/temper-character-skills/character-skills"
+import {
+  type SkillLineCategoryId,
+  skillLineCategoriesSorted,
+} from "@akasha/temper-skill-lines/skill-line-category-data"
+import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import { SkillCollapsibleCard } from "@/components/skills/skill-collapsible-card"
