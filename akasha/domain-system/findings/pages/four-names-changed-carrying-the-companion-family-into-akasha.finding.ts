@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const fourNamesChangedCarryingTheCompanionFamilyIntoAkasha = {
+  id: "01a06426-cc4a-7470-8834-af03d5578eca",
+  pageTypeSlug: "finding",
+  slug: "four-names-changed-carrying-the-companion-family-into-akasha",
+  domainSlug: "router-app/temper-web",
+  claim:
+    "Four names could not be carried unchanged. A module slug is unique across every module in the repository, an exported module-level constant is named in upper snake case, and a slug is lower kebab case. Nothing lost behaviour, but two of the four renamed an exported name that importers outside the companion family may reach, and the old names are nowhere under akasha to be found by search.",
+  evidence:
+    "Measured 2026-09-02 carrying the companion family into `akasha/temper/temper-web`.\n\n`companion-skills/effect-badges/types.ts` had to become the module slug `effect-badge-types`. Module slugs are unique per page type across the whole tree: of 5,209 landed `*.module.ts` files there are no duplicate stems, and `types` was already taken. This was the only collision among the family's 78 slugs.\n\n`companion-skills/hooks/useCompanionSkillBars.ts` became `use-companion-skill-bars`. A slug is `name-format/lower-kebab-case`, and the camelCase file name was the only one in the family. The exported function `useCompanionSkillBars` keeps its name; only the file and the slug changed.\n\n`companionActions`, exported from `companions/context/companion-reducer.ts` line 58, became `COMPANION_ACTION_CREATORS`. The gate refused it: `line 61 declares the constant companionActions, which is not written in name-format/upper-snake-case`. It is a set of action creators, separate from `COMPANION_ACTIONS` in `companion-actions.ts`, which holds the action-type strings, so the plain uppercase name was already taken and a longer one was needed. Its eight uses, all in `companions/context/use-companion.ts`, were rewritten with it.\n\n`silentSkill` in the recovered test `companion-rotation-outcome.unit.test.ts` line 8 became `SILENT_SKILL`, refused by the same rule. The rename is mechanical and every assertion of the ported body is as it was; the test is still green at 4 of 4, and a seeded fault still fires.\n\nNo directive was carried over and none was left behind: `grep` for TODO, FIXME, HACK, XXX, @deprecated, eslint-disable, @ts-ignore, @ts-expect-error and biome-ignore over all 80 files returns nothing.",
+} as const satisfies Finding
