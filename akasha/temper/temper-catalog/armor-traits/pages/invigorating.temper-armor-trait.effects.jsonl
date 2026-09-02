@@ -1,0 +1,3 @@
+{"id":"01a02990-c261-7001-85d5-f9b15bae259a","metric-id":"health-recovery","type":"integer","value":16}
+{"id":"01a02990-c261-7002-827f-d9ee5cebbc13","metric-id":"magicka-recovery","type":"integer","value":16}
+{"id":"01a02990-c261-7003-988d-031dc3807ac6","metric-id":"stamina-recovery","type":"integer","value":16}
