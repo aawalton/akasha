@@ -26,6 +26,7 @@ export const temperAddonGenerators = {
     "module/skill-line-categories",
     "module/temper-affix-script",
     "module/temper-alliance",
+    "module/temper-antiquity",
     "module/temper-armor-enchant",
     "module/temper-armor-slot",
     "module/temper-armor-trait",
