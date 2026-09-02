@@ -44,10 +44,6 @@ export const watcherImportInventory = {
     },
     {
       invariantKind: "departure",
-      statement: "The account is taken from the one call answering who is signed in.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A filing refused ends the import rather than being reported.",
     },
     {

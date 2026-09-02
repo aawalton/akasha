@@ -19,6 +19,10 @@ import {
   netWorthHourSlug,
   type ReadingValues,
 } from "../watcher-net-worth-landing/watcher-net-worth-landing.module.code.ts"
+import {
+  type SignedInReader,
+  userIdFor,
+} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
 
@@ -66,15 +70,6 @@ export type LandedReading =
   | { readonly outcome: "refused"; readonly why: string }
 
 export type LandReading = (values: ReadingValues, minted: () => string) => Promise<LandedReading>
-
-export interface SignedInReader {
-  readonly auth: {
-    readonly getUser: () => Promise<{
-      readonly data: { readonly user: { readonly id: string } | null }
-      readonly error: { readonly message: string } | null
-    }>
-  }
-}
 
 export interface ImportInventoryTools {
   readonly say?: (line: string) => void
@@ -173,15 +168,6 @@ export function filedLines(
   ]
 }
 
-async function signedInAccount(supabase: SignedInReader): Promise<string> {
-  const held = await supabase.auth.getUser()
-  if (held.error || !held.data.user) {
-    const why = held.error?.message ?? "no user"
-    throw new Error(`no account is signed in, so this scan has nobody to be filed under (${why})`)
-  }
-  return held.data.user.id
-}
-
 export async function runImportInventory(
   content: string,
   supabase: SignedInReader,
@@ -196,7 +182,7 @@ export async function runImportInventory(
     tools.land ??
     ((values: ReadingValues, minted: () => string) => landNetWorthReading(values, minted))
 
-  const userId = options.userId ?? (await signedInAccount(supabase))
+  const userId = await userIdFor(supabase, options.userId, "file this inventory scan")
 
   const inventory = parseInventoryContent(content)
   const counts = countInventory(inventory)

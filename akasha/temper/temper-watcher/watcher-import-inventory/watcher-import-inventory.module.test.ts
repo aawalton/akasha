@@ -2,12 +2,12 @@ import { expect, test } from "bun:test"
 import type { ExcludedLocation } from "@akasha/temper-items-core/inventory-guild-bank-filter"
 import type { NetWorthResult } from "@akasha/temper-items-core/inventory-net-worth-types"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
+import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   countInventory,
   excludedValueOf,
   filedLines,
   runImportInventory,
-  type SignedInReader,
   scanLines,
   scanTimestampOf,
   summaryLines,
@@ -260,14 +260,14 @@ test("an import whose player page went unread says the managed guild banks are u
   )
 })
 
-test("an import with no signed-in account says the scan has nobody to be filed under", async () => {
+test("an import with no signed-in account is refused, naming what the session said", async () => {
   const supabase: SignedInReader = {
     auth: {
       getUser: async () => ({ data: { user: null }, error: { message: "token expired" } }),
     },
   }
   await expect(runImportInventory("", supabase)).rejects.toThrow(
-    "no account is signed in, so this scan has nobody to be filed under (token expired)"
+    "no signed-in user to file this inventory scan (token expired)"
   )
 })
 
