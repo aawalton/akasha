@@ -1,5 +1,5 @@
-import { readdirSync, readFileSync, statSync } from "node:fs"
-import { join, relative, sep } from "node:path"
+import { readFileSync } from "node:fs"
+import { relative } from "node:path"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import {
   collectSourceSymbols,
@@ -10,53 +10,16 @@ import {
   addonRosterIsEmpty,
   EMPTY_ADDON_ROSTER_HINT,
 } from "../addon-roster-guard/addon-roster-guard.module.code.ts"
+import {
+  addonMarkupFiles,
+  addonSourceFiles,
+} from "../addon-source-files/addon-source-files.module.code.ts"
 import { parseArgs as parseCliArgs, REPO_ROOT_FLAG } from "../cli-args/cli-args.module.code.ts"
 import { errorMessage } from "../error-message/error-message.module.code.ts"
 import { renderPopulationBound } from "../population-bound/population-bound.module.code.ts"
 import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
 
 const PREFIX = "[addon-orphan-xml-handler]"
-
-const NOT_THE_ADDONS_OWN = new Set(["node_modules", "dist", "generated"])
-
-function filesUnder(dir: string, wanted: (path: string) => boolean): readonly string[] {
-  const found: string[] = []
-  let entries: readonly string[]
-  try {
-    entries = readdirSync(dir)
-  } catch {
-    return found
-  }
-  for (const entry of entries) {
-    if (NOT_THE_ADDONS_OWN.has(entry)) continue
-    const path = join(dir, entry)
-    let isDir = false
-    try {
-      isDir = statSync(path).isDirectory()
-    } catch {
-      continue
-    }
-    if (isDir) {
-      found.push(...filesUnder(path, wanted))
-      continue
-    }
-    if (wanted(path)) found.push(path)
-  }
-  return found
-}
-
-function isAddonCode(path: string): boolean {
-  if (!path.endsWith(".ts") && !path.endsWith(".tsx")) return false
-  if (path.endsWith(".d.ts")) return false
-  if (/\.generated\.tsx?$/.test(path)) return false
-  if (/\.test\.tsx?$/.test(path)) return false
-  if (/\.module\.code\.tsx?$/.test(path)) return true
-  return path.split(sep).includes("src")
-}
-
-function isMarkup(path: string): boolean {
-  return path.endsWith(".xml")
-}
 
 type Scan = {
   readonly findings: readonly OrphanFinding[]
@@ -79,10 +42,10 @@ function scanRoster(repoRoot: string): Scan {
 
   for (const addon of listAllAddons({ repoRoot })) {
     addonsWalked += 1
-    const code = filesUnder(addon.dir, isAddonCode)
-    const markup = filesUnder(addon.dir, isMarkup)
-    codeHeld += code.length
-    markupHeld += markup.length
+    const { code, machineWritten } = addonSourceFiles(addon.dir)
+    const markup = addonMarkupFiles(addon.dir)
+    codeHeld += code.length + machineWritten.length
+    markupHeld += markup.own.length + markup.copies.length
 
     const namespaces = new Set<string>()
     const memberUniverse = new Set<string>()
@@ -95,7 +58,7 @@ function scanRoster(repoRoot: string): Scan {
     if (namespaces.size === 0) continue
     addonsPublishing += 1
 
-    for (const markupFile of markup) {
+    for (const markupFile of markup.own) {
       const xml = readFileSync(markupFile, "utf8")
       markupRead += 1
       findings.push(
@@ -142,8 +105,10 @@ function reportHuman(scan: Scan): undefined {
     process.stdout.write(`\n${PREFIX} ${scan.findings.length} violation(s) found ${bound}\n`)
   }
   process.stdout.write(
-    `${PREFIX} not examined: ${scan.markupHeld - scan.markupRead} markup file(s) held by the ` +
-      `${scan.addonsWalked - scan.addonsPublishing} add-on(s) of ${scan.addonsWalked} publishing no global namespace.\n`
+    `${PREFIX} not examined: ${scan.markupHeld - scan.markupRead} markup file(s), held by the ` +
+      `${scan.addonsWalked - scan.addonsPublishing} add-on(s) of ${scan.addonsWalked} publishing no global namespace ` +
+      `or written by a build. Also ${scan.codeHeld - scan.codeRead} machine-written code file(s), ` +
+      `so a member defined only there reads as defined nowhere.\n`
   )
 }
 

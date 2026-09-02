@@ -9,20 +9,16 @@ export const checkAddonOrphanXmlHandler = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "An add-on's own code is the module code beside the add-on's own pages.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "An add-on still outside akasha keeps its code under a `src` folder.",
-    },
-    {
-      invariantKind: "constraint",
       statement:
         "The population this run states is the code and the markup the roster's add-ons hold.",
     },
     {
       invariantKind: "constraint",
       statement: "Markup held by an add-on publishing no namespace is counted and left unexamined.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A member defined only in a machine-written file reads here as defined nowhere.",
     },
     {
       invariantKind: "constraint",

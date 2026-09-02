@@ -13,6 +13,7 @@ export const temperBuildDeployChecks = {
     "module/cli-args",
     "module/repo-root",
     "module/addon-roster-guard",
+    "module/addon-source-files",
     "module/ts-node-shapes",
     "module/eso-doc-api-version",
     "module/eso-clone-artifacts",
@@ -25,6 +26,8 @@ export const temperBuildDeployChecks = {
     "module/check-addon-orphan-xml-handler",
     "module/addon-inline-handler-dispatch",
     "module/check-addon-inline-handler-dispatch",
+    "module/addon-hook-eager-capture",
+    "module/check-addon-hook-eager-capture",
   ],
   invariants: [
     {
@@ -38,6 +41,10 @@ export const temperBuildDeployChecks = {
     {
       invariantKind: "constraint",
       statement: "A run that could not look reports that the run could not look.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "One module answers which files under an add-on are that add-on's own.",
     },
     {
       invariantKind: "gap",

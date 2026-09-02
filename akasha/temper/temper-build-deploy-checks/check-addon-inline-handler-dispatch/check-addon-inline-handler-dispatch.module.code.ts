@@ -1,5 +1,5 @@
-import { readdirSync, readFileSync, statSync } from "node:fs"
-import { join, relative } from "node:path"
+import { readFileSync } from "node:fs"
+import { relative } from "node:path"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import {
   type DispatchFinding,
@@ -9,6 +9,7 @@ import {
   addonRosterIsEmpty,
   EMPTY_ADDON_ROSTER_HINT,
 } from "../addon-roster-guard/addon-roster-guard.module.code.ts"
+import { addonMarkupFiles } from "../addon-source-files/addon-source-files.module.code.ts"
 import { parseArgs as parseCliArgs, REPO_ROOT_FLAG } from "../cli-args/cli-args.module.code.ts"
 import { errorMessage } from "../error-message/error-message.module.code.ts"
 import { renderPopulationBound } from "../population-bound/population-bound.module.code.ts"
@@ -17,45 +18,6 @@ import { getRepoRoot } from "../repo-root/repo-root.module.code.ts"
 const PREFIX = "[addon-inline-handler-dispatch]"
 
 const GOVERNED_NAMESPACES: ReadonlySet<string> = new Set(["TemperCrafting"])
-
-const WRITTEN_BY_A_BUILD = new Set(["dist", "generated"])
-
-type Markup = {
-  readonly own: readonly string[]
-  readonly copies: readonly string[]
-}
-
-function markupIn(dir: string): Markup {
-  const own: string[] = []
-  const copies: string[] = []
-  const visit = (at: string, underABuild: boolean): undefined => {
-    let entries: readonly string[]
-    try {
-      entries = readdirSync(at)
-    } catch {
-      return
-    }
-    for (const entry of entries) {
-      if (entry === "node_modules") continue
-      const path = join(at, entry)
-      let isDir = false
-      try {
-        isDir = statSync(path).isDirectory()
-      } catch {
-        continue
-      }
-      if (isDir) {
-        visit(path, underABuild || WRITTEN_BY_A_BUILD.has(entry))
-        continue
-      }
-      if (!path.endsWith(".xml")) continue
-      if (underABuild) copies.push(path)
-      else own.push(path)
-    }
-  }
-  visit(dir, false)
-  return { own, copies }
-}
 
 type Scan = {
   readonly findings: readonly DispatchFinding[]
@@ -72,7 +34,7 @@ function scanRoster(repoRoot: string): Scan {
 
   for (const addon of listAllAddons({ repoRoot })) {
     addonsWalked += 1
-    const markup = markupIn(addon.dir)
+    const markup = addonMarkupFiles(addon.dir)
     markupHeld += markup.own.length + markup.copies.length
     for (const markupFile of markup.own) {
       const xml = readFileSync(markupFile, "utf8")
