@@ -1,4 +1,10 @@
-import { asking, type Query, TESTS_RUN, type Test } from "../page-asking/page-asking.module.code.ts"
+import {
+  asking,
+  type Query,
+  shaping,
+  TESTS_RUN,
+  type Test,
+} from "../page-asking/page-asking.module.code.ts"
 import { foldedFor, type Naming } from "../page-composing/page-composing.module.code.ts"
 import {
   type Named,
@@ -12,6 +18,8 @@ export const ASK_AT = "/ask"
 export const READ_AT = "/read"
 
 export const WRITE_AT = "/write"
+
+export const SHAPE_AT = "/shape"
 
 const ORDERING_TESTS = ["at-or-after", "after", "before", "at-or-before"]
 
@@ -127,6 +135,18 @@ export function queryIn(given: unknown): Read {
   return { query }
 }
 
+export type Shaping = { readonly pageTypeSlug: string } | { readonly refused: string }
+
+export function shapeIn(given: unknown): Shaping {
+  const held = objectIn(given)
+  if (held === null) return { refused: "a shape is asked for by a JSON object" }
+  const pageTypeSlug = held.pageTypeSlug
+  if (typeof pageTypeSlug !== "string" || pageTypeSlug === "") {
+    return { refused: "a shape names a page type as `pageTypeSlug`" }
+  }
+  return { pageTypeSlug }
+}
+
 export type Found = { readonly asked: Sought } | { readonly refused: string }
 
 export function readIn(given: unknown): Found {
@@ -237,7 +257,7 @@ async function bodyIn(request: Request): Promise<unknown> {
 
 export async function answering(given: Serving, request: Request): Promise<Response> {
   const at = new URL(request.url).pathname
-  if (at !== ASK_AT && at !== READ_AT && at !== WRITE_AT) {
+  if (at !== ASK_AT && at !== READ_AT && at !== WRITE_AT && at !== SHAPE_AT) {
     return said({ refused: `nothing is asked at ${at}` }, 404)
   }
   if (request.method !== "POST") {
@@ -245,6 +265,13 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   }
   const body = await bodyIn(request)
   if (body === undefined) return said({ refused: "the body did not parse as JSON" }, 400)
+  if (at === SHAPE_AT) {
+    const sought = shapeIn(body)
+    if ("refused" in sought) return said({ refused: sought.refused }, 400)
+    const found = shaping(given.root, sought.pageTypeSlug)
+    if ("refused" in found) return said({ refused: found.refused }, 400)
+    return said(found, 200)
+  }
   if (at === READ_AT) {
     const sought = readIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)

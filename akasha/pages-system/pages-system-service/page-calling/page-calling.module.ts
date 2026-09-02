@@ -58,6 +58,14 @@ export const pageCalling = {
       statement: "An answer whose shape is not the one asked for is refused rather than read on.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page type's shape is asked for through this module.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape answered as no page type is refused rather than read on.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here opens a page's file.",
     },

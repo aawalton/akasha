@@ -1,4 +1,4 @@
-import type { Query, Row, Asked as Rows } from "../page-asking/page-asking.module.code.ts"
+import type { Query, Row, Asked as Rows, Shaped } from "../page-asking/page-asking.module.code.ts"
 import type { Naming } from "../page-composing/page-composing.module.code.ts"
 import type { Read, Asked as Sought } from "../page-reading/page-reading.module.code.ts"
 import type { Put, Wrote } from "../page-writing/page-writing.module.code.ts"
@@ -8,6 +8,8 @@ export const ASK_AT = "/ask"
 export const READ_AT = "/read"
 
 export const WRITE_AT = "/write"
+
+export const SHAPE_AT = "/shape"
 
 export const ORIGIN_NAMES: readonly string[] = ["PAGES_SERVICE_ORIGIN", "PAGE_STORE_ORIGIN"]
 
@@ -113,6 +115,21 @@ export async function askingFor(
   const rows = (held.said as { readonly rows?: unknown }).rows
   if (!Array.isArray(rows)) return { refused: "the pages answered a question with no rows" }
   return { rows: rows as readonly Row[] }
+}
+
+export async function shapeFor(
+  pageTypeSlug: string,
+  fetcher: Fetcher = fetchThrough,
+  naps: Sleeper = sleep
+): Promise<Shaped> {
+  const held = await sentTo(SHAPE_AT, { pageTypeSlug }, ASK_CEILING_MS, fetcher, naps)
+  if ("refused" in held) return held
+  const shape = (held.said as { readonly shape?: unknown }).shape
+  if (shape === undefined) return { refused: "the pages answered a shape holding no shape" }
+  if (shape !== null && (typeof shape !== "object" || Array.isArray(shape))) {
+    return { refused: "the pages answered a shape that states no page type" }
+  }
+  return held.said as Shaped
 }
 
 export async function readingFor(

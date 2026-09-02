@@ -109,6 +109,14 @@ export const pageServing = {
       statement: "An answer to a write names the commit that write landed as.",
     },
     {
+      invariantKind: "departure",
+      statement: "A shape is asked for at a path of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape asked for naming no page type is refused.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here listens.",
     },
