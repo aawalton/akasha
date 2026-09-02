@@ -4,7 +4,6 @@ page-type-slug: page-type
 title: "ESO daily tracking"
 extends-slug: page
 files:
-  - akasha:**/*.eso-daily-tracking.md
   - akasha:akasha/alan/eso-daily-tracking/**/*.eso-daily-tracking.ts
 body-shape-slug: empty
 slug: eso-daily-tracking
