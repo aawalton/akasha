@@ -34,7 +34,8 @@ export function runAfterInitialLoadscreen(
   EVENT_MANAGER.RegisterForEvent(
     string.format("%s%d_%d", NAME, VERSION, LOADSCREEN.count),
     EVENT_PLAYER_ACTIVATED,
-    func
+    func,
+    true
   )
 }
 
