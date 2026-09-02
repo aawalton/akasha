@@ -19,6 +19,7 @@ export const modelGateway = {
     "module/keepalive",
     "module/model-unavailable",
     "module/oauth-types",
+    "module/observer-slot",
     "module/parse-boot-env",
     "module/parse-error-type",
     "module/peek-response",
@@ -28,6 +29,7 @@ export const modelGateway = {
     "module/retry",
     "module/server-error",
     "module/sse-error-frame",
+    "module/transport-log",
   ],
   invariants: [
     {
