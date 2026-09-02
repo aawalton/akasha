@@ -80,6 +80,7 @@ export const temperAddonGenerators = {
     "module/temper-skill",
     "module/temper-skill-bars",
     "module/temper-skill-line",
+    "module/temper-skill-point",
     "module/temper-skill-slot",
     "module/temper-skill-type",
     "module/temper-source-category",

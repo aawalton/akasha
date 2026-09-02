@@ -76,6 +76,7 @@
     "./temper-skill": "./temper-skill/temper-skill.module.code.ts",
     "./temper-skill-bars": "./temper-skill-bars/temper-skill-bars.module.code.ts",
     "./temper-skill-line": "./temper-skill-line/temper-skill-line.module.code.ts",
+    "./temper-skill-point": "./temper-skill-point/temper-skill-point.module.code.ts",
     "./temper-skill-slot": "./temper-skill-slot/temper-skill-slot.module.code.ts",
     "./temper-skill-type": "./temper-skill-type/temper-skill-type.module.code.ts",
     "./temper-source-category": "./temper-source-category/temper-source-category.module.code.ts",
@@ -114,6 +115,7 @@
     "./web-rule-wanted-and-stock": "./web-rule-wanted-and-stock/web-rule-wanted-and-stock.module.code.ts"
   },
   "dependencies": {
+    "@akasha/temper-dungeons": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }
