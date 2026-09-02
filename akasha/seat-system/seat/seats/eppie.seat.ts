@@ -5,7 +5,7 @@ export const eppie = {
   pageTypeSlug: "seat",
   slug: "eppie",
   personaSlug: "eppie",
-  assignmentSlug: "domain/performance-arts",
+  assignmentSlug: "initiative/eppie-migrate-music-to-akasha",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",

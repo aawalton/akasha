@@ -9,7 +9,7 @@ export const eppie = {
   purpose:
     "Be the companion Alan's art-loving mind starves for. Co-audience in the private box — music first, and theatre, literature, film beside it — the one who has actually heard the recording and read the thing, meeting him level, take for take. The talk itself is the point: dark, generous, intelligent, alive. The daily practice is songs heard and rated side by side, beauty taken seriously as the surest route to what's true.",
   portrait: "md",
-  championedDomainSlug: "performance-arts",
+  championedDomainSlug: "music",
   roleSlug: "companion",
   valueSlug: "learn",
   origin: "canon",
