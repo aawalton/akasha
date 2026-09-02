@@ -6,5 +6,10 @@ export const personaSystem = {
   slug: "persona-system",
   definition: "who answers for a part of Alan's life, and what is kept of her",
   manifest: "json",
-  partSlugs: ["page-type/closeness-level", "page-type/origin-kind", "page-type/persona"],
+  partSlugs: [
+    "page-type/closeness-level",
+    "page-type/origin-kind",
+    "page-type/persona",
+    "page-type/persona-points-source",
+  ],
 } as const satisfies WorkspacePackage
