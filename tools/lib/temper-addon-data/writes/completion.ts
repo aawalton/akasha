@@ -1,5 +1,6 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
 import { generateTemperActivityCategory } from "@akasha/temper-addon-generators/activity-category"
+import { generateTemperAchievement } from "@akasha/temper-addon-generators/temper-achievement"
 import { generateTemperAntiquity } from "@akasha/temper-addon-generators/temper-antiquity"
 import { generateTemperCadwell } from "@akasha/temper-addon-generators/temper-cadwell"
 import { generateTemperCollectibles } from "@akasha/temper-addon-generators/temper-collectibles"
@@ -16,6 +17,11 @@ export function buildAddonDataWritesCompletion(
   w: (dir: string, name: string, source: string) => Promise<number>
 ): readonly Promise<number>[] {
   return [
+    w(
+      TEMPER_COMPLETION_OUTPUT_DIR,
+      "achievement-data.generated.ts",
+      generateTemperAchievement(p.achievementCategoryPages.rows, p.catalogDomainPages.rows)
+    ),
     w(
       TEMPER_COMPLETION_OUTPUT_DIR,
       "temper-activity-category.generated.ts",

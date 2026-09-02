@@ -114,6 +114,7 @@ export interface AddonDataPages {
   weaponTraitPages: PageResult
   weaponTypePages: PageResult
   zonePages: PageResult
+  achievementCategoryPages: PageResult
   minedRestorePotions: readonly MinedRestorePotion[]
 }
 
@@ -218,6 +219,7 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     craftTypePages,
     researchLinePages,
     collectibleCategoryPages,
+    achievementCategoryPages,
   ] = await Promise.all([
     getPages({ pageTypeSlug: "temper-activity-category", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-affix-script", limit: 1000 }),
@@ -321,6 +323,7 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     getPages({ pageTypeSlug: "temper-craft-type", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-research-line", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-collectible-category", limit: 1000 }),
+    getPages({ pageTypeSlug: "temper-achievement-category", limit: 1000 }),
   ])
   const minedRestorePotions = await fetchMinedRestorePotions()
 
@@ -419,6 +422,7 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     weaponTraitPages,
     weaponTypePages,
     zonePages,
+    achievementCategoryPages,
     minedRestorePotions,
   }
 }

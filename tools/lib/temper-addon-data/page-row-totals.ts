@@ -4,6 +4,7 @@ type Rows = { rows: ReadonlyArray<unknown> }
 
 export function buildPageRowTotals(p: AddonDataPages): Record<string, Rows> {
   return {
+    "temper-achievement-category": p.achievementCategoryPages,
     "temper-activity-category": p.activityCategoryPages,
     "temper-affix-script": p.affixScriptPages,
     "temper-antiquity-category": p.antiquityCategoryPages,
