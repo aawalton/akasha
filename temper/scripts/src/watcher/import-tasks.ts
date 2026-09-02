@@ -2,15 +2,15 @@ import { getEsoDayStr, getEsoResetTime } from "@akasha/day/eso-day"
 import { instantToMillis } from "@akasha/pages-core/property-types/instant"
 import type { Row } from "@akasha/pages-system-service/asking"
 import { askingFor } from "@akasha/pages-system-service/calling"
-import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { advanceRecurrenceDueDate } from "@akasha/recurrence/scheduling"
+import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
+import { isCumulativeCard } from "@akasha/temper-player-completion/completion-card-reset-behavior"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { asRecord } from "@akasha/utils-narrow/as-record"
-import { isCumulativeCard } from "@temper/player-completion/completion-card-reset-behavior"
 import {
+  type CompletionValues,
   clearLandedCompletion,
   completedDayOf,
-  type CompletionValues,
   landCompletion,
 } from "./completed-day-landing.ts"
 import { landTaskGone, landTaskValues, taskProgressPath } from "./task-page-landing.ts"

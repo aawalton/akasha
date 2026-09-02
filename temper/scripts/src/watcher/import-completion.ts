@@ -1,19 +1,26 @@
 import { getPages } from "@akasha/pages-access/get"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
-import { asRecord } from "@akasha/utils-narrow/as-record"
+import { getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
 } from "@akasha/temper-completion/completion-progress"
-import { getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import {
   type ParsedSavedVariables,
   parseSavedVariablesContent,
 } from "@akasha/temper-completion-import/completion-saved-variables-parser"
-import { type CompletionImportVerdict, classifyCompletionImport } from "@temper/player-completion/completion-import-outcome"
-import { mergeAccountCompletionForward, mergeCharacterCompletionForward, mergeCompanionCompletionForward } from "@temper/player-completion/completion-merge-forward"
+import {
+  type CompletionImportVerdict,
+  classifyCompletionImport,
+} from "@akasha/temper-player-completion/completion-import-outcome"
+import {
+  mergeAccountCompletionForward,
+  mergeCharacterCompletionForward,
+  mergeCompanionCompletionForward,
+} from "@akasha/temper-player-completion/completion-merge-forward"
+import { asRecord } from "@akasha/utils-narrow/as-record"
 
 type TemperSupabaseClient = SupabaseServiceRoleClient
 
@@ -33,7 +40,7 @@ function asFiledText(value: unknown): string {
 function reportOutcome(label: string, verdict: CompletionImportVerdict): undefined {
   if (verdict.outcome !== "preserved") return
   console.warn(
-    `  ⚠ ${label}: incoming completion was missing ${verdict.preservedFields.join(", ")}; forward-merge preserved stored data. Possible saved-variables wipe or parse regression.`
+    `  ! ${label}: incoming completion was missing ${verdict.preservedFields.join(", ")}; forward-merge preserved stored data. Possible saved-variables wipe or parse regression.`
   )
 }
 
@@ -70,12 +77,12 @@ export async function runImportCompletion(
   }
   if (data.diagnostics.skippedCharacters > 0) {
     console.warn(
-      `  ⚠ ${data.diagnostics.skippedCharacters} character entry/entries were not readable and were skipped.`
+      `  ! ${data.diagnostics.skippedCharacters} character entry/entries were not readable and were skipped.`
     )
   }
   if (data.diagnostics.skippedCompanions > 0) {
     console.warn(
-      `  ⚠ ${data.diagnostics.skippedCompanions} companion(s) have an ESO def-id this build does not know and were skipped; companion data may be out of date.`
+      `  ! ${data.diagnostics.skippedCompanions} companion(s) have an ESO def-id this build does not know and were skipped; companion data may be out of date.`
     )
   }
 
