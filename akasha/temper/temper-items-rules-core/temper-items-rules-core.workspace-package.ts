@@ -97,6 +97,12 @@ export const temperItemsRulesCore = {
     "module/inventory-rule-mapping",
     "module/item-category-tree-utils",
     "module/traits-filter",
+    "module/set-sources-filter",
+    "module/rule-filter-registry",
+    "module/rule-fingerprint",
+    "module/affected-items-tree-builder",
+    "module/equipment-signature-compiler",
+    "module/inventory-rule-trait-research",
   ],
   invariants: [
     {
