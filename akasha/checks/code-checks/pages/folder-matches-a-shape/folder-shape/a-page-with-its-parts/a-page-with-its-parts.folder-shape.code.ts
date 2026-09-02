@@ -16,7 +16,7 @@ function partOf(standing: Standing, at: string): boolean {
   return standing.under(at).some((one) => namedIn(one)?.tail === DOMAIN)
 }
 
-export function pageTypeWithItsParts(standing: Standing): readonly string[] {
+export function aPageWithItsParts(standing: Standing): readonly string[] {
   const said: string[] = []
   if (standing.strays.length > 0) {
     said.push(

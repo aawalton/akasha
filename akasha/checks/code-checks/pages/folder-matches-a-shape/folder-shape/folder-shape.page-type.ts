@@ -42,7 +42,7 @@ export const folderShape = {
     "folder-shape/folders-only",
     "folder-shape/modules-only",
     "folder-shape/one-page-with-its-properties",
-    "folder-shape/page-type-with-its-parts",
+    "folder-shape/a-page-with-its-parts",
     "folder-shape/pages-of-one-type",
     "folder-shape/pages-of-the-type-above",
     "folder-shape/properties-of-the-type-above",

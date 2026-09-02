@@ -1,9 +1,9 @@
 import type { FolderShape } from "../folder-shape.page-type.ts"
 
-export const pageTypeWithItsParts = {
+export const aPageWithItsParts = {
   id: "01a05f26-edf0-768f-823e-e5442db4f971",
   pageTypeSlug: "folder-shape",
-  slug: "page-type-with-its-parts",
+  slug: "a-page-with-its-parts",
   definition:
     "the shape of a folder named for a page type's plural slug and holding that page type",
   code: "ts",
