@@ -6,6 +6,7 @@ export const nextBossLayout = {
   slug: "next-boss-layout",
   definition: "the timetable window and the district labels drawn over the Imperial City map",
   markup: "xml",
+  loadedAs: "TemperEvents.xml",
   invariants: [
     {
       invariantKind: "departure",
