@@ -68,4 +68,9 @@ export default [
   route("api/device-secret/revoke", "routes/api.device-secret.revoke.ts"),
 
   route("api/tracking/health-samples", "routes/api.tracking.health-samples.ts"),
+
+  // Anything else under `/api/`. `api` is no page type, so without this the page catch-all above
+  // reads a wrong api address as a page and answers 500 rather than 404. Ranked between the two:
+  // above `:pageTypeSlug/:pageHrefParam`, below every api route named here.
+  route("api/*", "routes/api.$.ts"),
 ] satisfies RouteConfig
