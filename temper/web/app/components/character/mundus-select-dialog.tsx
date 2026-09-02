@@ -5,7 +5,7 @@ import {
   type MundusId,
   type MundusSource,
   mundus,
-} from "@temper/game-characters-character/mundus-source"
+} from "@akasha/temper-character-sources/mundus-source"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import { useMemo } from "react"
 import {
