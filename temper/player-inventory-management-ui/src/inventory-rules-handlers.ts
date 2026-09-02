@@ -4,8 +4,8 @@ import {
   lockBuyRule,
   removeBuyRule,
   updateBuyRule,
-} from "@temper/game-items-rules-core/buy-rule-settings"
-import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
+} from "@akasha/temper-items-rules-core/buy-rule-settings"
+import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
 import {
   addCategoryRule,
   addItemRule,
@@ -25,13 +25,13 @@ import {
   reorderCategoryRule,
   updateCategoryRule,
   updateItemRule,
-} from "@temper/game-items-rules-core/inventory-rule-settings"
+} from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
   type InventoryRuleSettings,
   type ItemRule,
-} from "@temper/game-items-rules-core/inventory-rule-types"
+} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { type RefObject, useCallback } from "react"
 import { preserveLocked, useStableSettingsHandler } from "./inventory-rules-state"
 
