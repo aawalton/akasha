@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "First piece landed (`2abf58d75d`), but it made a SECOND empty package, not a conversion: the source manifest is the editor's own with 14 commands; the akasha one is a 6-line stub. Merge it in BEFORE repointing any symlink, or the editor loses 14 commands while `editor-extension-single` reads green through that link. 11 symlinks now, not 10. The exports bypass is cleared (`65d0200352`, `0895e7cae9`). 82/77/1, `.server` zero and the seven `@tools/lib` reaches hold.",
+        "NOT a move but a remodelling of 7844 lines. `akasha/editor-extension/src/` CANNOT EXIST: `file-has-its-page` refuses any akasha path the index does not list, proven by control. Real job: 77 module pages plus partSlugs, 653 comment lines out, 5 classes, every import rewritten. TWO BLOCKERS FIRST: `generated/vscode.d.ts` is 746912 bytes against a 15000 ceiling, and `tsconfig.json` has no akasha page type. Never repoint a symlink before code lands, or 14 commands vanish and the audit skips green.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
