@@ -13,11 +13,11 @@ import {
   type SetSourceId,
 } from "@akasha/temper-characters-equipment/set-source"
 import { isSetsAllId } from "@akasha/temper-characters-equipment/sets-all"
+import { EquipmentIcon } from "@akasha/temper-characters-equipment-ui/equipment-icon"
 import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { typedPartialRecordKeys } from "@akasha/temper-formula-framework/record-parts"
-import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import { Shield } from "lucide-react"
 import { useMemo } from "react"
 import { FilterableSelectDialog } from "@/components/ui/filterable-select-dialog"
