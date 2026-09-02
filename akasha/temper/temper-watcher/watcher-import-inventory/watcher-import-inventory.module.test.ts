@@ -306,6 +306,32 @@ test("a scan stating no capture moment takes the moment given in", () => {
   expect(scanTimestampOf(inventory, 42)).toBe(42)
 })
 
+test("a player page that went unread makes no fresh id and files no reading", async () => {
+  const minted: string[] = []
+  const landed: unknown[] = []
+  const run = runImportInventory(
+    ONE_LOCATION_LUA,
+    ACCOUNT_UNASKED,
+    { userId: "account-1" },
+    {
+      say: () => undefined,
+      now: () => 0,
+      mint: () => {
+        minted.push("id-1")
+        return "id-1"
+      },
+      ask: async () => ({ refused: "the pages answered nothing" }),
+      land: async (values) => {
+        landed.push(values)
+        return { outcome: "landed" as const, at: "abc1234" }
+      },
+    }
+  )
+  await expect(run).rejects.toThrow("the player page went unread")
+  expect(minted).toEqual([])
+  expect(landed).toEqual([])
+})
+
 test("the gold set aside is the sum over every excluded location", () => {
   expect(excludedValueOf(EXCLUDED)).toBe(94)
   expect(excludedValueOf([])).toBe(0)
