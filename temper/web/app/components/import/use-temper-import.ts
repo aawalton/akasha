@@ -12,7 +12,8 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "@akasha/temper-completion/completion-progress"
-import { parseSavedVariablesContent } from "@temper/player-build-validation/completion-saved-variables-parser"
+import { parseSavedVariablesContent } from "@akasha/temper-completion-import/completion-saved-variables-parser"
+import { getCompanionIdByDefId } from "@temper/game-companions-core/companions-data"
 import { classifyCompletionImport } from "@temper/player-completion/completion-import-outcome"
 import { mergeAccountCompletionForward, mergeCharacterCompletionForward, mergeCompanionCompletionForward } from "@temper/player-completion/completion-merge-forward"
 import { useCallback, useEffect, useRef, useState } from "react"
@@ -108,7 +109,7 @@ export function useTemperImport() {
 
       let data: ReturnType<typeof parseSavedVariablesContent>
       try {
-        data = parseSavedVariablesContent(content)
+        data = parseSavedVariablesContent(content, getCompanionIdByDefId)
       } catch (e) {
         setState({
           phase: "error",

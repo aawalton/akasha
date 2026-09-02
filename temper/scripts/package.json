@@ -20,6 +20,7 @@
     "@akasha/temper-catalog-core": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
+    "@akasha/temper-completion-import": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-errors-triage": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
@@ -47,7 +48,6 @@
     "@temper/game-items-rules-routing": "workspace:*",
     "@temper/game-items-rules-routing-core": "workspace:*",
     "@temper/game-trading-pricing-client": "workspace:*",
-    "@temper/player-build-validation": "workspace:*",
     "@temper/player-completion": "workspace:*",
     "zod": "^4.3.6"
   },

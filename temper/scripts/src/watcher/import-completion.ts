@@ -7,10 +7,11 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "@akasha/temper-completion/completion-progress"
+import { getCompanionIdByDefId } from "@temper/game-companions-core/companions-data"
 import {
   type ParsedSavedVariables,
   parseSavedVariablesContent,
-} from "@temper/player-build-validation/completion-saved-variables-parser"
+} from "@akasha/temper-completion-import/completion-saved-variables-parser"
 import { type CompletionImportVerdict, classifyCompletionImport } from "@temper/player-completion/completion-import-outcome"
 import { mergeAccountCompletionForward, mergeCharacterCompletionForward, mergeCompanionCompletionForward } from "@temper/player-completion/completion-merge-forward"
 
@@ -37,7 +38,7 @@ function reportOutcome(label: string, verdict: CompletionImportVerdict): undefin
 }
 
 function parseSavedVariables(content: string): ParsedSavedVariables {
-  return parseSavedVariablesContent(content)
+  return parseSavedVariablesContent(content, getCompanionIdByDefId)
 }
 
 export async function runImportCompletion(

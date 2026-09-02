@@ -33,9 +33,6 @@
     },
     {
       "path": "../game-items-rules-core"
-    },
-    {
-      "path": "../player-build-validation"
     }
   ],
   "include": [

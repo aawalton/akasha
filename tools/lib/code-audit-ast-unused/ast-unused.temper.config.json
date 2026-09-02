@@ -182,14 +182,6 @@
         "**/*.ts"
       ]
     },
-    "temper/player-build-validation": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/player-completion": {
       "entry": [
         "**/*.test.{ts,tsx}"

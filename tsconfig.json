@@ -22,9 +22,6 @@
       "path": "./temper/game-characters"
     },
     {
-      "path": "./temper/player-build-validation"
-    },
-    {
       "path": "./temper/scripts"
     },
     {
