@@ -19,9 +19,9 @@ import {
   jewelryTraits,
   jewelryTraitsBuildList,
 } from "@akasha/temper-equipment/jewelry-traits"
+import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { type JewelrySlotId, jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
-import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
