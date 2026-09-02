@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/temper-skill-morphs-access",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./morph-completion-shapes": "./morph-completion-shapes/morph-completion-shapes.module.code.ts",
+    "./eso-id-helpers": "./eso-id-helpers/eso-id-helpers.module.code.ts",
+    "./character-skill-morph-transform": "./character-skill-morph-transform/character-skill-morph-transform.module.code.ts",
+    "./skill-morphs-checker": "./skill-morphs-checker/skill-morphs-checker.module.code.ts",
+    "./skill-morphs-resolver": "./skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-character-skills": "workspace:*",
+    "@akasha/temper-classes": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/temper-skill-morphs": "workspace:*"
+  }
+}
