@@ -1,1 +1,1 @@
-export { companions } from "@temper/game-companions-core/companions-data"
+export { companions } from "@akasha/temper-companions-core/companions"

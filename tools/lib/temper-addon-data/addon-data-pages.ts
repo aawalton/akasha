@@ -21,6 +21,8 @@ const COMPANION_SKILL_SELECT = [
 
 export interface AddonDataPages {
   activityCategoryPages: PageResult
+  catalogDomainPages: PageResult
+  tributePatronPages: PageResult
   affixScriptPages: PageResult
   alliancePages: PageResult
   armorEnchantPages: PageResult
@@ -202,6 +204,8 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     weaponTypePages,
     zonePages,
     potionCrownPages,
+    catalogDomainPages,
+    tributePatronPages,
   ] = await Promise.all([
     getPages({ pageTypeSlug: "temper-activity-category", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-affix-script", limit: 1000 }),
@@ -297,11 +301,15 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     getPages({ pageTypeSlug: "temper-weapon-type", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-zone", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-potion-crown", limit: 1000 }),
+    getPages({ pageTypeSlug: "temper-catalog-domain", limit: 1000 }),
+    getPages({ pageTypeSlug: "temper-tribute-patron", limit: 1000 }),
   ])
   const minedRestorePotions = await fetchMinedRestorePotions()
 
   return {
     activityCategoryPages,
+    catalogDomainPages,
+    tributePatronPages,
     affixScriptPages,
     alliancePages,
     armorEnchantPages,

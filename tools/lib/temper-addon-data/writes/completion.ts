@@ -1,6 +1,7 @@
 import type { AddonDataPages } from "../addon-data-pages.ts"
 import { generateTemperActivityCategory } from "@akasha/temper-addon-generators/activity-category"
 import { generateTemperCompletionCategory } from "@akasha/temper-addon-generators/temper-completion-category"
+import { generateTemperTribute } from "@akasha/temper-addon-generators/temper-tribute"
 import { TEMPER_COMPLETION_OUTPUT_DIR } from "../output-dirs.ts"
 
 export function buildAddonDataWritesCompletion(
@@ -17,6 +18,11 @@ export function buildAddonDataWritesCompletion(
       TEMPER_COMPLETION_OUTPUT_DIR,
       "temper-completion-category.generated.ts",
       generateTemperCompletionCategory(p.completionCategoryPages.rows)
+    ),
+    w(
+      TEMPER_COMPLETION_OUTPUT_DIR,
+      "tribute-data.generated.ts",
+      generateTemperTribute(p.tributePatronPages.rows, p.catalogDomainPages.rows)
     ),
   ]
 }

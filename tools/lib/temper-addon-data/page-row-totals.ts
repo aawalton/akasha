@@ -88,6 +88,7 @@ export function buildPageRowTotals(p: AddonDataPages): Record<string, Rows> {
     "temper-weapon-slot": p.weaponSlotPages,
     "temper-weapon-trait": p.weaponTraitPages,
     "temper-weapon-type": p.weaponTypePages,
+    "temper-tribute-patron": p.tributePatronPages,
     "temper-zone": p.zonePages,
   }
 }

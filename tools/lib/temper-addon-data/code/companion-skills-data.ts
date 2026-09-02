@@ -1,1 +1,1 @@
-export { companionSkills } from "@temper/game-companions-core/skills/companion-skills-data"
+export { companionSkills } from "@akasha/temper-companions-core/companion-skills"
