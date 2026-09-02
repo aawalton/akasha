@@ -1,0 +1,23 @@
+import type { TemperSkill } from "../../temper-skill.page-type.ts"
+
+export const strikeFromTheShadows = {
+  id: "01a05fd1-d247-78cf-ad2f-a848bce4cbe9",
+  pageTypeSlug: "temper-skill",
+  slug: "strike-from-the-shadows",
+  title: "Strike from the Shadows",
+  key: "strike-from-the-shadows",
+  baseName: "Strike from the Shadows",
+  description:
+    '"When you leave Sneak, invisibility, or Mist Form your Weapon and Spell Damage is increased by 300 for 6 seconds."',
+  icon: "/esoui/art/icons/passive_u26_vampire_02.dds",
+  esoSkillId: 46040,
+  isMorph: false,
+  learnedLevel: 1,
+  lineRankNeeded: 4,
+  morphIndex: 0,
+  rank: 2,
+  skillLineId: "world-vampire",
+  skillType: "passive",
+  subcategoryId: "world-vampire",
+  status: "unsupported",
+} as const satisfies TemperSkill
