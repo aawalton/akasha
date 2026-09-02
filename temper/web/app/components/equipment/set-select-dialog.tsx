@@ -19,7 +19,7 @@ import {
   type SetsAllId,
 } from "@temper/game-characters-equipment/sets/sets-all-data"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
+import { typedPartialRecordKeys } from "@akasha/temper-formula-framework/record-parts"
 import { Shield } from "lucide-react"
 import { useMemo } from "react"
 import { FilterableSelectDialog } from "@/components/ui/filterable-select-dialog"
@@ -95,11 +95,15 @@ export function SetSelectDialog({
           return <Shield className="h-5 w-5" />
         }
 
+        // No set carries a wildcard icon today, so the last branch is the one that answers.
+        // It takes the alphabetically first slot rather than the first key the table happens
+        // to list, so what a set shows does not depend on the order its icons were written.
+        const firstSlot = [...typedPartialRecordKeys(originalSet.icons)].sort()[0]
         const iconPath =
           originalSet.icons["*"] ??
           originalSet.icons["weapon:*"] ??
           originalSet.icons["armor:*"] ??
-          valuesOf(originalSet.icons)[0]
+          (firstSlot === undefined ? undefined : originalSet.icons[firstSlot])
 
         if (iconPath == null) {
           return <Shield className="h-5 w-5" />
