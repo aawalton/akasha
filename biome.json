@@ -149,20 +149,6 @@
           }
         }
       }
-    },
-    {
-      "includes": ["temper/shared-addon-libraries-lib-*/src/**"],
-      "linter": {
-        "rules": {
-          "correctness": {
-            "noUnusedVariables": "off",
-            "noUnusedImports": "off"
-          },
-          "nursery": {
-            "useSortedClasses": "off"
-          }
-        }
-      }
     }
   ],
   "css": {
