@@ -117,7 +117,7 @@
     "./combat-controls-title": "./combat-controls-title/combat-controls-title.module.code.ts",
     "./combat-string-ids-menus": "./combat-string-ids-menus/combat-string-ids-menus.module.code.ts",
     "./combat-string-ids": "./combat-string-ids/combat-string-ids.module.code.ts",
-    "./combat-menu-string-ids": "./combat-menu-string-ids/combat-menu-string-ids.module.code.ts",
+    "./combat-menu-string-ids": "./combat-menu-string-ids/combat-menu-string-ids.type-declaration.d.ts",
     "./combat-string-ids-report": "./combat-string-ids-report/combat-string-ids-report.module.code.ts",
     "./combat-ui-ability-panel": "./combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts",
     "./combat-ui-buff-panel-update": "./combat-ui-buff-panel-update/combat-ui-buff-panel-update.module.code.ts",
