@@ -1,9 +1,5 @@
 # Page data held outside git deliberately.
-*.uncommitted.ts
-*.uncommitted.ts.*.part
-*.uncommitted.yaml
-*.uncommitted.jsonl
-*.uncommitted.attachment.*
+*.uncommitted.*
 *.lock/
 
 # Agent runtime state. `pages/repo/akasha-repo.repo.md` holds that nothing under
