@@ -1,6 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { saidBy } from "@akasha/command-system/fault-saying"
+import { framesOf, saidBy } from "@akasha/command-system/fault-saying"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
@@ -25,6 +25,8 @@ const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
 const CODE = "code"
 
 const TS = "ts"
+
+const FRAMES_AT_MOST = 3
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -148,10 +150,30 @@ export function checksFor(
   return every.filter((one) => takesFrom(one, change, shadow))
 }
 
+function fileIn(frame: string): string {
+  return frame.slice(0, frame.lastIndexOf(":", frame.lastIndexOf(":") - 1))
+}
+
+function beneath(thrown: unknown): readonly string[] {
+  const runner = fileIn(framesOf(new Error(), 1)[0] ?? "")
+  const said: string[] = []
+  let last = ""
+  for (const one of framesOf(thrown, FRAMES_AT_MOST)) {
+    const file = fileIn(one)
+    if (file === runner) break
+    said.push(file === last ? one.slice(file.length + 1) : one)
+    last = file
+  }
+  return said
+}
+
 function threw(one: Gathered, thrown: unknown): Judged {
+  const frames = beneath(thrown)
+  const at = frames[0] === undefined ? "" : ` at ${frames[0]}`
+  const under = frames.length < 2 ? "" : ` (called from ${frames.slice(1).join(", ")})`
   return {
     path: one.page,
-    reason: `the check \`${one.slug}\` threw, so it judged nothing — ${saidBy(thrown)}`,
+    reason: `the check \`${one.slug}\` threw${at}, so it judged nothing — ${saidBy(thrown)}${under}`,
     threw: true,
   }
 }

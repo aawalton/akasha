@@ -88,6 +88,27 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "The refusal names the file and line the fault was thrown at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file and line are said before what the fault said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A frame the fault was called from is named after what the fault said.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A frame repeating the file the frame before named is said by line and column alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The frames end where the fault reaches the runner here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path the change takes away is handed to every check.",
     },
     {

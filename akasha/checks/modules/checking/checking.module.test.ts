@@ -23,6 +23,7 @@ import {
   SAMPLED,
   scratch,
   THROWS,
+  THROWS_UNDER,
   TWO_CHECKS,
 } from "./checking.module.test-fixtures.ts"
 
@@ -89,6 +90,27 @@ test("a check that threw refuses the change it could not judge, and the refusal 
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/checks-system/code-check/throws/throws.code-check.ts")
   expect(said[0]?.reason).toContain("could not look")
+  expect(said[0]?.reason).toMatch(
+    /^the check `throws` threw at \S+\/throws\.code-check\.code\.ts:2:\d+, so it judged nothing — could not look$/
+  )
+})
+
+test("a fault raised beneath a check names the file and line it was thrown at, and what called there", () => {
+  const root = rootWith([{ slug: "throws-under", runsOn: ["patch"], body: THROWS_UNDER }])
+  writeFileSync(join(root, ONE_TS), "one")
+  const held = onDisk(root)
+  const said = judgingBy(checksIn(root)).over({
+    root,
+    changed: [ONE_TS],
+    after: held,
+    before: held,
+  })
+  const why = said[0]?.reason ?? ""
+  expect(why).toContain("could not be made")
+  expect(why).toMatch(
+    /threw at \S+\/throws-under\.code-check\.code\.ts:2:\d+, so it judged nothing/
+  )
+  expect(why).toMatch(/\(called from 5:\d+, 8:\d+\)$/)
 })
 
 test("a path the change takes away is handed to every check, and can be refused", () => {

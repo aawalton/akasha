@@ -95,6 +95,17 @@ export const ADMITS_ALL = `export function admitsAll() {\n  return []\n}\n`
 
 export const THROWS = `export function throws() {\n  throw new Error("could not look")\n}\n`
 
+export const THROWS_UNDER =
+  "function reaching() {\n" +
+  '  throw new Error("the world at /var/tmp/held could not be made")\n' +
+  "}\n" +
+  "function worldMade() {\n" +
+  "  reaching()\n" +
+  "}\n" +
+  "export function throwsUnder() {\n" +
+  "  worldMade()\n" +
+  "}\n"
+
 export const NAMES_SHADOW =
   "export function namesShadow(change, shadow) {\n" +
   '  const held = shadow !== undefined && typeof shadow.pageOf === "function"\n' +
