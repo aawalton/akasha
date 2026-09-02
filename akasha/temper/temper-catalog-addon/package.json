@@ -1,0 +1,22 @@
+{
+  "name": "@akasha/temper-catalog-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./catalog-constants": "./catalog-constants/catalog-constants.module.code.ts",
+    "./catalog-side-file-config": "./catalog-side-file-config/catalog-side-file-config.module.code.ts",
+    "./catalog-collect-adapters": "./catalog-collect-adapters/catalog-collect-adapters.module.code.ts",
+    "./catalog-auto-collect": "./catalog-auto-collect/catalog-auto-collect.module.code.ts",
+    "./catalog-commands": "./catalog-commands/catalog-commands.module.code.ts",
+    "./catalog-invalidations": "./catalog-invalidations/catalog-invalidations.module.code.ts",
+    "./catalog-api-test": "./catalog-api-test/catalog-api-test.module.code.ts",
+    "./catalog-public-api": "./catalog-public-api/catalog-public-api.module.code.ts",
+    "./catalog-entry": "./catalog-entry/catalog-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-capture-writer": "workspace:*",
+    "@akasha/temper-catalog-core": "workspace:*",
+    "@akasha/temper-game-catalog-capture-addon": "workspace:*"
+  }
+}

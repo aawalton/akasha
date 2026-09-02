@@ -1012,6 +1012,15 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-catalog-addon": {
+      "name": "@akasha/temper-catalog-addon",
+      "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-capture-writer": "workspace:*",
+        "@akasha/temper-catalog-core": "workspace:*",
+        "@akasha/temper-game-catalog-capture-addon": "workspace:*",
+      },
+    },
     "akasha/temper/temper-catalog-core": {
       "name": "@akasha/temper-catalog-core",
     },
@@ -3296,6 +3305,8 @@
     "@akasha/temper-capture-shapes": ["@akasha/temper-capture-shapes@workspace:akasha/temper/temper-capture-shapes"],
 
     "@akasha/temper-capture-writer": ["@akasha/temper-capture-writer@workspace:akasha/temper/temper-capture-writer"],
+
+    "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:akasha/temper/temper-catalog-addon"],
 
     "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:akasha/temper/temper-catalog-core"],
 

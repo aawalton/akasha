@@ -59,5 +59,6 @@ export const temperAddonLibraryTypes = {
     "type-declaration/temper-data-mining-global",
     "type-declaration/temper-quests-global",
     "type-declaration/temper-keybinder-global",
+    "type-declaration/temper-catalog-global",
   ],
 } as const satisfies WorkspacePackage

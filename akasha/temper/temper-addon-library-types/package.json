@@ -49,6 +49,7 @@
     "./temper-inventory-global": "./temper-inventory-global/temper-inventory-global.type-declaration.d.ts",
     "./temper-data-mining-global": "./temper-data-mining-global/temper-data-mining-global.type-declaration.d.ts",
     "./temper-quests-global": "./temper-quests-global/temper-quests-global.type-declaration.d.ts",
-    "./temper-keybinder-global": "./temper-keybinder-global/temper-keybinder-global.type-declaration.d.ts"
+    "./temper-keybinder-global": "./temper-keybinder-global/temper-keybinder-global.type-declaration.d.ts",
+    "./temper-catalog-global": "./temper-catalog-global/temper-catalog-global.type-declaration.d.ts"
   }
 }

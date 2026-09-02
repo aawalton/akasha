@@ -1,0 +1,11 @@
+{
+  "name": "TemperCatalog",
+  "title": "Temper Catalog",
+  "description": "Collect game reference data for Temper static data generation",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "savedVariables": ["TemperCatalog_SavedVariables"],
+  "additionalLuaFiles": ["TemperCatalogConfig.lua"],
+  "dependsOn": ["TemperHud"]
+}
