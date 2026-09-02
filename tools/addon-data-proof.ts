@@ -51,17 +51,39 @@ const SOURCE = JSON.parse(
   readFileSync(new URL("./addon-data-proof-sources.json", import.meta.url), "utf8")
 ) as Record<string, string>
 
+const DECLARED_AT =
+  "../akasha/temper/temper-addon-data/addon-data-pages/addon-data-pages.module.code.ts"
+
 const DECLARED = [
-  ...readFileSync(
-    new URL("./lib/temper-addon-data/addon-data-pages.ts", import.meta.url),
-    "utf8"
-  ).matchAll(/^ {2}([a-zA-Z]+): PageResult$/gm),
-].map((one) => one[1])
+  ...readFileSync(new URL(DECLARED_AT, import.meta.url), "utf8").matchAll(
+    /^ {2}([a-zA-Z]+): PageResult$/gm
+  ),
+].map((one) => one[1] as string)
 
 if (DECLARED.length === 0) {
-  throw new Error("addon-data-pages.ts declares no PageResult accessor, so this reads nothing")
+  throw new Error(`${DECLARED_AT} declares no PageResult accessor, so this reads nothing`)
 }
-const UNTABLED = DECLARED.filter((one) => SOURCE[one] === undefined)
+
+function gapIn(table: Readonly<Record<string, string>>): readonly string[] {
+  return DECLARED.filter((one) => table[one] === undefined)
+}
+
+// The self-check below caught a real gap of nine accessors and had no control of its own, so it
+// was proven only by the fault it happened to catch. This is that control: one accessor is taken
+// off a copy of the table and the gap has to be seen. A self-check blind to a gap it was handed
+// reads exactly like one with nothing to report.
+const DROPPED = DECLARED[0] as string
+const CONTROL: Record<string, string> = { ...SOURCE }
+delete CONTROL[DROPPED]
+const SEEN = gapIn(CONTROL)
+if (SEEN.length !== 1 || SEEN[0] !== DROPPED) {
+  throw new Error(
+    `the accessor self-check was handed a table missing \`${DROPPED}\` and answered ` +
+      `${SEEN.length} gap(s) as ${SEEN.join(", ") || "none"}, so it cannot see what it is for`
+  )
+}
+
+const UNTABLED = gapIn(SOURCE)
 if (UNTABLED.length > 0) {
   throw new Error(
     `addon-data-proof-sources.json misses ${UNTABLED.length} of the ${DECLARED.length} accessors ` +
@@ -69,6 +91,10 @@ if (UNTABLED.length > 0) {
       UNTABLED.join(", ")
   )
 }
+console.log(
+  `accessor self-check: ${DECLARED.length} declared, ${UNTABLED.length} untabled, ` +
+    `control saw the 1 gap seeded into it`
+)
 
 const pages: Record<string, unknown> = {}
 for (const [accessor, slug] of Object.entries(SOURCE)) pages[accessor] = await rowsOf(slug)
