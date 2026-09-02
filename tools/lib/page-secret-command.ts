@@ -52,7 +52,9 @@ export function targetOf(filePath: string): Target {
   const relPath = toRelPath(filePath, roots)
   const sidecar = sidecarFor(relPath)
   if (sidecar === null)
-    fail(`${relPath} is not a \`.md\` page, and a sops file stands beside a page`)
+    fail(
+      `${relPath} is neither a \`.md\` page nor a \`.ts\` one, and a sops file stands beside a page`
+    )
   const at = `${root}/${relPath}`
   if (!existsSync(at) || !statSync(at).isFile()) {
     fail(`${relPath} is not a file here — a secret belongs to a page that stands`)

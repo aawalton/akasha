@@ -1,5 +1,6 @@
 
 import { existsSync } from "node:fs"
+import { secretAt } from "@akasha/pages-system/page-file-name"
 
 export const PAGE_SUFFIX = ".md"
 
@@ -29,7 +30,20 @@ function nameOf(relPath: string): string {
   return relPath.split("/").at(-1) ?? ""
 }
 
+/**
+ * The sops file standing beside a page, for a page of either kind.
+ *
+ * A page is a markdown file under `pages/` or a TypeScript file under `akasha/`, and each names its
+ * sops file by dropping its own extension. Asking the markdown half alone meant this answered
+ * nothing for all 9 pages that carry a `.sops.yaml` beside a `.ts` file, so a secret on disk read as
+ * no secret. The akasha half of the rule is stated once, in `secretAt`, and restating it here is
+ * how the two halves of one corpus come to disagree about where a secret is — so this asks
+ * `secretAt` and falls back to the markdown rule only where `secretAt` will not answer. `rowsFileOf`
+ * in `page/rows-file.ts` is the same shape for the same reason.
+ */
 export function sidecarFor(relPath: string): string | null {
+  const beside = secretAt(relPath)
+  if (beside !== null) return beside
   const name = nameOf(relPath)
   if (!name.endsWith(PAGE_SUFFIX) || name === PAGE_SUFFIX) return null
   return `${relPath.slice(0, -PAGE_SUFFIX.length)}${SIDECAR_SUFFIX}`
