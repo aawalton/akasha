@@ -9,6 +9,7 @@ export const alanHarness = {
     "domain/monarch",
     "domain/alan-safety",
     "domain/alan-surplus",
+    "domain/alan-plants",
     "domain/alan-activity",
     "workspace-package/readout-system",
     "workspace-package/voice-core",

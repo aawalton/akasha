@@ -25,6 +25,7 @@ export const readoutScale = {
   partSlugs: [
     "readout-scale/activity-calories",
     "readout-scale/backlog-count",
+    "readout-scale/plant-grams",
     "readout-scale/safety-level",
     "readout-scale/surplus-hours",
     "number-property/black-at",
