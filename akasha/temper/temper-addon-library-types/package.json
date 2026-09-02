@@ -40,6 +40,11 @@
     "./master-merchant": "./master-merchant/master-merchant.type-declaration.d.ts",
     "./temper-hud-global": "./temper-hud-global/temper-hud-global.type-declaration.d.ts",
     "./lib-group-broadcast": "./lib-group-broadcast/lib-group-broadcast.type-declaration.d.ts",
-    "./furniture-catalogue": "./furniture-catalogue/furniture-catalogue.type-declaration.d.ts"
+    "./furniture-catalogue": "./furniture-catalogue/furniture-catalogue.type-declaration.d.ts",
+    "./lib-alchemy-station": "./lib-alchemy-station/lib-alchemy-station.type-declaration.d.ts",
+    "./lib-async": "./lib-async/lib-async.type-declaration.d.ts",
+    "./lib-main-menu-shape": "./lib-main-menu-shape/lib-main-menu-shape.type-declaration.d.ts",
+    "./lam-option-controls": "./lam-option-controls/lam-option-controls.type-declaration.d.ts",
+    "./crafting-addon-neighbours": "./crafting-addon-neighbours/crafting-addon-neighbours.type-declaration.d.ts"
   }
 }

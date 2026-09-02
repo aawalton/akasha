@@ -45,5 +45,10 @@ export const temperAddonLibraryTypes = {
     "type-declaration/temper-hud-global",
     "type-declaration/lib-group-broadcast",
     "type-declaration/furniture-catalogue",
+    "type-declaration/lib-alchemy-station",
+    "type-declaration/lib-async",
+    "type-declaration/lib-main-menu-shape",
+    "type-declaration/lam-option-controls",
+    "type-declaration/crafting-addon-neighbours",
   ],
 } as const satisfies WorkspacePackage

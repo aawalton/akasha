@@ -76,6 +76,15 @@
     "./tstl-language-extensions": "./tstl-language-extensions/tstl-language-extensions.type-declaration.d.ts",
     "./tstl-performance-global": "./tstl-performance-global/tstl-performance-global.type-declaration.d.ts",
     "./eso-link-handler": "./eso-link-handler/eso-link-handler.type-declaration.d.ts",
-    "./eso-world-map-zoom": "./eso-world-map-zoom/eso-world-map-zoom.type-declaration.d.ts"
+    "./eso-world-map-zoom": "./eso-world-map-zoom/eso-world-map-zoom.type-declaration.d.ts",
+    "./eso-inventory-trade": "./eso-inventory-trade/eso-inventory-trade.type-declaration.d.ts",
+    "./eso-alchemy-station": "./eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts",
+    "./eso-crafting-string-ids": "./eso-crafting-string-ids/eso-crafting-string-ids.type-declaration.d.ts",
+    "./eso-crafting-events": "./eso-crafting-events/eso-crafting-events.type-declaration.d.ts",
+    "./eso-crafting-inventories": "./eso-crafting-inventories/eso-crafting-inventories.type-declaration.d.ts",
+    "./eso-crafting-tooltips": "./eso-crafting-tooltips/eso-crafting-tooltips.type-declaration.d.ts",
+    "./eso-enchanting-station": "./eso-enchanting-station/eso-enchanting-station.type-declaration.d.ts",
+    "./eso-provisioner-station": "./eso-provisioner-station/eso-provisioner-station.type-declaration.d.ts",
+    "./tstl-lua-length": "./tstl-lua-length/tstl-lua-length.type-declaration.d.ts"
   }
 }
