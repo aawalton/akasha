@@ -8,22 +8,22 @@ const TAG_TEMPLATE = "[%s] %s"
 
 let chat: LibChatMessageInstance | undefined
 function getChatProxy(): LibChatMessageInstance {
-  if (chat === undefined) {
-    if (LibChatMessage !== undefined) {
-      chat = LibChatMessage(lib.id, "LDL")
-    } else {
-      chat = {
-        Print(this: LibChatMessageInstance, message: string): undefined {
-          CHAT_ROUTER.AddSystemMessage(string.format(TAG_TEMPLATE, lib.id, message))
-        },
-        Printf(this: LibChatMessageInstance, formatter: string, ...args: unknown[]): undefined {
-          const taggedFormatter = string.format(TAG_TEMPLATE, lib.id, formatter)
-          CHAT_ROUTER.AddSystemMessage(string.format(taggedFormatter, ...args))
-        },
-      }
-    }
-  }
-  return chat
+  const held = chat
+  if (held !== undefined) return held
+  const made: LibChatMessageInstance =
+    LibChatMessage !== undefined
+      ? LibChatMessage(lib.id, "LDL")
+      : {
+          Print(message: string): undefined {
+            CHAT_ROUTER.AddSystemMessage(string.format(TAG_TEMPLATE, lib.id, message))
+          },
+          Printf(formatter: string, ...args: unknown[]): undefined {
+            const taggedFormatter = string.format(TAG_TEMPLATE, lib.id, formatter)
+            CHAT_ROUTER.AddSystemMessage(string.format(taggedFormatter, ...args))
+          },
+        }
+  chat = made
+  return made
 }
 
 function handleSlashCommand(this: void, params: string): undefined {
