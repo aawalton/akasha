@@ -14,7 +14,7 @@ export const mitskiYourBestAmericanGirl = {
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",
-  rating: "B+",
+  rank: "B+",
   singability: "B-",
   lyrics: "txt",
   syncedLyrics: "txt",

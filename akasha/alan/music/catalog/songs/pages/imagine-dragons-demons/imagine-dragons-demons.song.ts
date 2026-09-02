@@ -13,7 +13,7 @@ export const imagineDragonsDemons = {
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
-  rating: "S-",
+  rank: "S-",
   singability: "S-",
   tags: ["masking"],
   lyrics: "txt",

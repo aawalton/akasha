@@ -14,7 +14,7 @@ export const billieEilishGettingOlder = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "A+",
+  rank: "A+",
   singability: "A-",
   tags: ["abuse"],
   lyrics: "txt",

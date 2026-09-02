@@ -18,7 +18,7 @@ const GIVEN: Given = {
 
 const CATALOG: Catalog = {
   artists: [
-    { slug: "loved-one", title: "Loved One", genre: ["pop"], rating: "A" },
+    { slug: "loved-one", title: "Loved One", genre: ["pop"], rank: "A" },
     { slug: "unknown-one", title: "Unknown One", genre: ["pop"] },
   ],
   songs: [
@@ -28,7 +28,7 @@ const CATALOG: Catalog = {
       artistSlug: "loved-one",
       songType: "original",
       performed: true,
-      rating: "A",
+      rank: "A",
     },
     {
       slug: "loved-one-unheard",

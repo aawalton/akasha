@@ -19,6 +19,6 @@ export const mitski = {
     "folk punk",
     "folk rock",
   ],
-  rating: "B+",
+  rank: "B+",
   reaction: "txt",
 } as const satisfies Artist

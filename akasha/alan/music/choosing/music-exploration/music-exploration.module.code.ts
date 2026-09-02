@@ -52,7 +52,7 @@ export function selectNextSong(catalog: Catalog, artistSlug: string): CatalogSon
   const offered = new Map<string, CatalogSong>()
   for (const song of recorded) {
     const key = normalizeTitle(song.title)
-    if (song.rating !== undefined) {
+    if (song.rank !== undefined) {
       graded.add(key)
       continue
     }
@@ -81,18 +81,18 @@ function songsOf(byArtist: SongsByArtist, artist: CatalogArtist): readonly Catal
 }
 
 function isGraded(artist: CatalogArtist, byArtist: SongsByArtist): boolean {
-  if (artist.rating !== undefined) return true
-  return songsOf(byArtist, artist).some((song) => song.rating !== undefined)
+  if (artist.rank !== undefined) return true
+  return songsOf(byArtist, artist).some((song) => song.rank !== undefined)
 }
 
 function artistIsLiked(artist: CatalogArtist, byArtist: SongsByArtist): boolean {
-  if (isLiked(artist.rating)) return true
-  return songsOf(byArtist, artist).some((song) => isLiked(song.rating))
+  if (isLiked(artist.rank)) return true
+  return songsOf(byArtist, artist).some((song) => isLiked(song.rank))
 }
 
 function loveOf(artist: CatalogArtist, byArtist: SongsByArtist): number {
-  const liked = songsOf(byArtist, artist).filter((song) => isLiked(song.rating)).length
-  return ratingRung(artist.rating) * GRADE_WEIGHT + liked
+  const liked = songsOf(byArtist, artist).filter((song) => isLiked(song.rank)).length
+  return ratingRung(artist.rank) * GRADE_WEIGHT + liked
 }
 
 function genresOf(artist: CatalogArtist): readonly string[] {

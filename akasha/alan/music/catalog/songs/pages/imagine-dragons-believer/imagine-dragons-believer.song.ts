@@ -13,7 +13,7 @@ export const imagineDragonsBeliever = {
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
-  rating: "A+",
+  rank: "A+",
   singability: "A+",
   tags: ["pain"],
   lyrics: "txt",

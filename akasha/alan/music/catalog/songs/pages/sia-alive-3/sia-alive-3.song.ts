@@ -14,7 +14,7 @@ export const siaAlive3 = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "S",
+  rank: "S",
   singability: "S-",
   tags: ["suicide"],
   lyrics: "txt",

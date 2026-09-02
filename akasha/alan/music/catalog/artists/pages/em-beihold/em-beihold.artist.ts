@@ -10,6 +10,6 @@ export const emBeihold = {
   source: "musicbrainz",
   lastSyncedAt: "2026-06-08",
   genre: ["pop", "singer-songwriter", "teen pop"],
-  rating: "S-",
+  rank: "S-",
   reaction: "txt",
 } as const satisfies Artist

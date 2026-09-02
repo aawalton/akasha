@@ -17,7 +17,7 @@ export type Artist = Page & {
   source: Source
   lastSyncedAt: LastSyncedAt
   genre?: readonly Genre[]
-  rating?: Rating
+  rank?: Rating
   tags?: readonly CatalogTags[]
   reaction?: Reaction
 }

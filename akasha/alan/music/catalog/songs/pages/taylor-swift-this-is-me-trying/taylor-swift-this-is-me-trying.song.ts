@@ -14,7 +14,7 @@ export const taylorSwiftThisIsMeTrying = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "A+",
+  rank: "A+",
   singability: "A+",
   tags: ["acceptance"],
   lyrics: "txt",

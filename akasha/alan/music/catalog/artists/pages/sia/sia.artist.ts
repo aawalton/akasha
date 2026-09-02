@@ -10,6 +10,6 @@ export const sia = {
   source: "musicbrainz",
   lastSyncedAt: "2026-06-08",
   genre: ["pop", "electropop", "dance-pop", "indie pop", "alternative pop", "art pop"],
-  rating: "S-",
+  rank: "S-",
   reaction: "txt",
 } as const satisfies Artist

@@ -14,7 +14,7 @@ export const auroraADifferentKindOfHuman = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "A+",
+  rank: "A+",
   singability: "C",
   tags: ["autism"],
   lyrics: "txt",

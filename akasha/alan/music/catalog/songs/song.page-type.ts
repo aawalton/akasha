@@ -29,7 +29,7 @@ export type Song = Page & {
   performed: Performed
   lyricsSource?: LyricsSource
   written?: Written
-  rating?: Rating
+  rank?: Rating
   singability?: Singability
   tags?: readonly CatalogTags[]
   lyrics?: Lyrics

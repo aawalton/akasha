@@ -19,6 +19,6 @@ export const aurora = {
     "synth-pop",
     "afro house",
   ],
-  rating: "A+",
+  rank: "A+",
   reaction: "txt",
 } as const satisfies Artist

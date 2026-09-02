@@ -14,7 +14,7 @@ export const siaBirdSetFree = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "S",
+  rank: "S",
   singability: "S-",
   tags: ["masking"],
   lyrics: "txt",

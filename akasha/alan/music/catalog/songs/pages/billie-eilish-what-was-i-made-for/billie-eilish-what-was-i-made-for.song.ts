@@ -14,7 +14,7 @@ export const billieEilishWhatWasIMadeFor = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "S",
+  rank: "S",
   singability: "S-",
   tags: ["autism"],
   lyrics: "txt",

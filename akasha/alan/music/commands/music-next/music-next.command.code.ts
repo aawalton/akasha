@@ -62,7 +62,7 @@ function artistIn(held: Held): CatalogArtist {
     slug: text(held, "slug") ?? "",
     title: text(held, "title") ?? "",
     genre: list(held, "genre"),
-    ...(graded === undefined ? {} : { rating: graded }),
+    ...(graded === undefined ? {} : { rank: graded }),
   }
 }
 
@@ -74,7 +74,7 @@ function songIn(held: Held): CatalogSong {
     artistSlug: text(held, "artistSlug") ?? "",
     songType: oneOf(held, "songType", SONG_TYPES) ?? "derivative",
     performed: held["performed"] === true,
-    ...(graded === undefined ? {} : { rating: graded }),
+    ...(graded === undefined ? {} : { rank: graded }),
   }
 }
 

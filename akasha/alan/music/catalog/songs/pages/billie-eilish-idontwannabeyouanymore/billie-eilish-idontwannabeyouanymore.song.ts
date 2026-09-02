@@ -14,7 +14,7 @@ export const billieEilishIdontwannabeyouanymore = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "S-",
+  rank: "S-",
   singability: "B+",
   tags: ["self-hatred"],
   lyrics: "txt",

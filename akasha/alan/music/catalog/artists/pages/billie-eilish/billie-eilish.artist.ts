@@ -19,5 +19,5 @@ export const billieEilish = {
     "indie pop",
     "bedroom pop",
   ],
-  rating: "S-",
+  rank: "S-",
 } as const satisfies Artist

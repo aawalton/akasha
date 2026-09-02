@@ -13,7 +13,7 @@ export const imagineDragonsItSTime = {
   songType: "derivative",
   performed: true,
   lyricsSource: "lrclib",
-  rating: "B+",
+  rank: "B+",
   singability: "A",
   lyrics: "txt",
   syncedLyrics: "txt",

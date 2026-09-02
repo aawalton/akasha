@@ -14,7 +14,7 @@ export const auroraALittlePlaceCalledTheMoon = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "B",
+  rank: "B",
   singability: "C",
   tags: ["autism"],
   lyrics: "txt",

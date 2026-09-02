@@ -14,7 +14,7 @@ export const billieEilishEverythingIWanted = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "S",
+  rank: "S",
   singability: "A",
   tags: ["suicide"],
   lyrics: "txt",

@@ -19,6 +19,6 @@ export const imagineDragons = {
     "indietronica",
     "rock",
   ],
-  rating: "A+",
+  rank: "A+",
   reaction: "txt",
 } as const satisfies Artist

@@ -14,7 +14,7 @@ export const taylorSwiftTheLastGreatAmericanDynasty = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "A-",
+  rank: "A-",
   singability: "A",
   tags: ["wealth"],
   lyrics: "txt",

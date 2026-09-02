@@ -14,7 +14,7 @@ export const mitskiIBetOnLosingDogs = {
   performed: true,
   lyricsSource: "lrclib",
   written: "solo",
-  rating: "C+",
+  rank: "C+",
   singability: "C-",
   lyrics: "txt",
   syncedLyrics: "txt",

@@ -14,7 +14,7 @@ export const taylorSwiftChampagneProblems = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "B+",
+  rank: "B+",
   singability: "A-",
   lyrics: "txt",
   syncedLyrics: "txt",

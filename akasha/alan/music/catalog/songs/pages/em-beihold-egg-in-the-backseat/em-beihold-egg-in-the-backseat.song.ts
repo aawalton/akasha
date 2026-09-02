@@ -14,7 +14,7 @@ export const emBeiholdEggInTheBackseat = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "A-",
+  rank: "A-",
   singability: "B+",
   lyrics: "txt",
   syncedLyrics: "txt",

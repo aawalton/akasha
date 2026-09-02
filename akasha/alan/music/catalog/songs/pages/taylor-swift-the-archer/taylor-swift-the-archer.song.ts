@@ -14,7 +14,7 @@ export const taylorSwiftTheArcher = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "S-",
+  rank: "S-",
   singability: "A",
   tags: ["relationships", "masking"],
   lyrics: "txt",

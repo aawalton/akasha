@@ -14,7 +14,7 @@ export const billieEilishBirdsOfAFeather = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "S-",
+  rank: "S-",
   singability: "A+",
   tags: ["wanted"],
   lyrics: "txt",

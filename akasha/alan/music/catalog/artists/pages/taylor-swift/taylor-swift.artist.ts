@@ -19,6 +19,6 @@ export const taylorSwift = {
     "synth-pop",
     "indie folk",
   ],
-  rating: "S",
+  rank: "S",
   reaction: "txt",
 } as const satisfies Artist

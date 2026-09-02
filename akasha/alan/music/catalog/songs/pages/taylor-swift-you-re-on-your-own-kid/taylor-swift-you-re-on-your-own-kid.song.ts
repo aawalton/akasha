@@ -14,7 +14,7 @@ export const taylorSwiftYouReOnYourOwnKid = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "A",
+  rank: "A",
   singability: "A",
   tags: ["independence"],
   lyrics: "txt",

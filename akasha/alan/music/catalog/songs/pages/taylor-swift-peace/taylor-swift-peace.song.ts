@@ -14,7 +14,7 @@ export const taylorSwiftPeace = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "S",
+  rank: "S",
   singability: "A-",
   tags: ["relationships"],
   lyrics: "txt",

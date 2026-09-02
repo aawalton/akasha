@@ -22,7 +22,7 @@ export const rating = {
   id: "01a06243-144b-7004-8d79-0c039c429e23",
   pageTypeSlug: "text-property",
   slug: "rating",
-  propertySlug: "rating",
+  propertySlug: "rank",
   definition: "Alan's grade for what a page is about",
   max: 2,
   nameFormatSlug: null,

@@ -14,7 +14,7 @@ export const taylorSwiftInvisibleString = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  rating: "A+",
+  rank: "A+",
   singability: "A",
   lyrics: "txt",
   syncedLyrics: "txt",
