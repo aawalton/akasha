@@ -40,6 +40,10 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
+      statement: "A name outside `akasha/` is read no further.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A name carrying a known page type but held as anything but TypeScript is no page.",
     },

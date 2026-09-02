@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
+import { namedUnder } from "@akasha/pages-system/page-file-name"
 import { shadowAt, shadowFor } from "@akasha/pages-system/shadow"
 import {
   claiming,
@@ -16,10 +17,7 @@ import {
   typed,
 } from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import {
-  domainIsNamedByAParent,
-  domainNamedIn,
-} from "./domain-is-named-by-a-parent.code-check.code.ts"
+import { domainIsNamedByAParent } from "./domain-is-named-by-a-parent.code-check.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"
 
@@ -263,14 +261,14 @@ test("two pages carrying one slug are each judged, not skipped", () => {
 
 test("the slug is the file's stem and the page type its suffix", () => {
   const kinds = kindsIn(rooted())
-  expect(domainNamedIn("akasha/a/b/index-relation.domain.ts", kinds)).toEqual({
+  expect(namedUnder("akasha/a/b/index-relation.domain.ts", kinds)).toEqual({
     pageTypeSlug: "domain",
     slug: "index-relation",
   })
-  expect(domainNamedIn("akasha/held.module.code.ts", kinds)).toBeNull()
-  expect(domainNamedIn("held.domain.ts", kinds)).toBeNull()
+  expect(namedUnder("akasha/held.module.code.ts", kinds)).toBeNull()
+  expect(namedUnder("held.domain.ts", kinds)).toBeNull()
 })
 
 test("a stem carrying a dot is bound whole to the slug", () => {
-  expect(domainNamedIn("akasha/a.b.domain.ts", kindsIn(rooted()))?.slug).toBe("a.b")
+  expect(namedUnder("akasha/a.b.domain.ts", kindsIn(rooted()))?.slug).toBe("a.b")
 })

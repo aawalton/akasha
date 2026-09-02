@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
+import { namedUnder } from "@akasha/pages-system/page-file-name"
 import { shadowAt, shadowFor } from "@akasha/pages-system/shadow"
 import {
   claiming,
@@ -16,10 +17,7 @@ import {
   typed,
 } from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import {
-  propertyIsDeclaredByAType,
-  propertyNamedIn,
-} from "./property-is-declared-by-a-type.code-check.code.ts"
+import { propertyIsDeclaredByAType } from "./property-is-declared-by-a-type.code-check.code.ts"
 
 const ONE = "01a04ef8-1a07-7001-8000-000000000001"
 
@@ -273,10 +271,10 @@ test("two properties carrying one slug are each judged, not skipped", () => {
 
 test("the slug is the file's stem and the page type its suffix", () => {
   const kinds = kindsIn(rooted())
-  expect(propertyNamedIn("akasha/a/b/name-format-slug.relation-property.ts", kinds)).toEqual({
+  expect(namedUnder("akasha/a/b/name-format-slug.relation-property.ts", kinds)).toEqual({
     pageTypeSlug: "relation-property",
     slug: "name-format-slug",
   })
-  expect(propertyNamedIn("akasha/held.module.code.ts", kinds)).toBeNull()
-  expect(propertyNamedIn("held.relation-property.ts", kinds)).toBeNull()
+  expect(namedUnder("akasha/held.module.code.ts", kinds)).toBeNull()
+  expect(namedUnder("held.relation-property.ts", kinds)).toBeNull()
 })

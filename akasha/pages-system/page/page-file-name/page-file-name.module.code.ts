@@ -1,5 +1,7 @@
 import { basename } from "node:path"
 
+const INSIDE = "akasha/"
+
 const SEGMENT = /^[a-z0-9-]+$/
 
 const HELD_PART = /^[a-z0-9]+$/
@@ -31,6 +33,11 @@ export type Named = {
   readonly stem: string
   readonly tail: string
   readonly held: string
+}
+
+export type Slugged = {
+  readonly pageTypeSlug: string
+  readonly slug: string
 }
 
 export type Kind = "page" | "property" | "uncommitted" | "secret" | "stray"
@@ -72,6 +79,14 @@ export function namedIn(path: string): Named | null {
   if (last === undefined) return { stem: said.slug, tail: said.pageType, held: said.held }
   const stem = [said.slug, said.pageType, ...said.sections.slice(0, -1)].join(".")
   return { stem, tail: last, held: said.held }
+}
+
+export function namedUnder(path: string, under: ReadonlySet<string>): Slugged | null {
+  if (!path.startsWith(INSIDE)) return null
+  const said = namedIn(path)
+  if (said === null) return null
+  if (!under.has(said.tail)) return null
+  return { pageTypeSlug: said.tail, slug: said.stem }
 }
 
 export function partIn(section: string | undefined): number | null {

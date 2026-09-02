@@ -1,6 +1,6 @@
 import { namesIn, reaches } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
-import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
+import { namedIn, namedUnder, pageNamed } from "@akasha/pages-system/page-file-name"
 import { type Value, valueIn } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -15,19 +15,6 @@ const PART_SLUGS = "part-slugs"
 const PARTS = "partSlugs"
 
 const THE_WHOLE = "akasha-system"
-
-export type Named = {
-  readonly pageTypeSlug: string
-  readonly slug: string
-}
-
-export function domainNamedIn(path: string, under: ReadonlySet<string>): Named | null {
-  if (!path.startsWith(INSIDE)) return null
-  const said = namedIn(path)
-  if (said === null) return null
-  if (!under.has(said.tail)) return null
-  return { pageTypeSlug: said.tail, slug: said.stem }
-}
 
 function theWhole(path: string): boolean {
   const said = namedIn(path)
@@ -74,7 +61,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       judge(listed.path, reached.id, shown)
     }
     if (change.after(path) === null) continue
-    const held = domainNamedIn(path, under)
+    const held = namedUnder(path, under)
     if (held === null || (held.pageTypeSlug === DOMAIN && held.slug === THE_WHOLE)) continue
     const one = shadow.index.listedByPath(path).find((filed) => filed.path === path)
     if (one === undefined) continue

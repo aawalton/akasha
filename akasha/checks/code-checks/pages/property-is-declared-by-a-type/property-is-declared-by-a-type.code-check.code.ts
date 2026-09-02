@@ -1,6 +1,6 @@
 import { reaches, recordsIn } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
-import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
+import { namedUnder, pageNamed } from "@akasha/pages-system/page-file-name"
 import { textAt, type Value, valueIn } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -15,19 +15,6 @@ const DECLARES = "page-property-slug"
 const DECLARED = "properties"
 
 const SAID = "pagePropertySlug"
-
-export type Named = {
-  readonly pageTypeSlug: string
-  readonly slug: string
-}
-
-export function propertyNamedIn(path: string, under: ReadonlySet<string>): Named | null {
-  if (!path.startsWith(INSIDE)) return null
-  const said = namedIn(path)
-  if (said === null) return null
-  if (!under.has(said.tail)) return null
-  return { pageTypeSlug: said.tail, slug: said.stem }
-}
 
 export function declaredIn(value: Value | null): readonly string[] {
   const held = value === null ? null : value[DECLARED]
@@ -76,7 +63,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       judge(listed.path, reached.id, shown)
     }
     if (change.after(path) === null) continue
-    const held = propertyNamedIn(path, under)
+    const held = namedUnder(path, under)
     if (held === null) continue
     const one = shadow.index.listedByPath(path).find((filed) => filed.path === path)
     if (one === undefined) continue
