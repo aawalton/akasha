@@ -61,6 +61,37 @@ const ACTIVATION_EAV_SCHEMA = z
   })
   .strict()
 
+const ACTIVATION_ROW_SCHEMA = z
+  .object({
+    id: z.string().optional(),
+    effectType: z.enum(["damage", "heal", "shield"]),
+    damageType: DAMAGE_TYPE.optional(),
+    scalingKind: z.string(),
+    scalingStat: SKILL_SCALING_STAT,
+    coefficient: z.number(),
+    scalingFactor: z.number().optional(),
+  })
+  .strict()
+
+function effectOfRow(slug: string, held: unknown): z.infer<typeof ACTIVATION_EFFECT_SCHEMA> {
+  const row = ACTIVATION_ROW_SCHEMA.parse(held)
+  if (row.scalingKind !== "stat-scaling") {
+    throw new Error(
+      `temper-character-skill-activation ${slug} states scaling kind ${row.scalingKind}, and an activation effect row carries only what stat-scaling needs`
+    )
+  }
+  return {
+    effectType: row.effectType,
+    ...(row.damageType === undefined ? {} : { damageType: row.damageType }),
+    formula: {
+      type: "stat-scaling",
+      stat: row.scalingStat,
+      coefficient: row.coefficient,
+      ...(row.scalingFactor === undefined ? {} : { scalingFactor: row.scalingFactor }),
+    },
+  }
+}
+
 interface ParsedActivation {
   skillKey: string
   descriptionTemplate: string
@@ -68,10 +99,12 @@ interface ParsedActivation {
 }
 
 function parseActivation(row: Page): ParsedActivation {
+  const slug = typeof row.slug === "string" ? row.slug : ""
+  const held = Array.isArray(row.activationEffects) ? row.activationEffects : []
   const eav = ACTIVATION_EAV_SCHEMA.parse({
-    skillKey: row.skillKey,
+    skillKey: slug,
     descriptionTemplate: row.descriptionTemplate,
-    effects: row.effects,
+    effects: held.map((one) => effectOfRow(slug, one)),
   })
   return {
     skillKey: eav.skillKey,

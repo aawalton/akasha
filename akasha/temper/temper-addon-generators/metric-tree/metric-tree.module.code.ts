@@ -6,52 +6,50 @@ type NodeType = (typeof NODE_TYPES)[number]
 
 const NODE_EAV_SCHEMA = z
   .object({
-    key: z.string(),
+    slug: z.string(),
     nodeId: z.string(),
     nodeType: z.enum(NODE_TYPES),
     parent: z.string().nullable().optional(),
-    sortOrder: z.number(),
+    displayOrder: z.number(),
     useAccentColor: z.boolean().optional(),
     includeInChildAggregates: z.boolean().optional(),
   })
   .strict()
 
 interface ParsedNode {
-  pageId: string
-  key: string
+  slug: string
   nodeId: string
   title: string
   nodeType: NodeType
-  parentId: string | null
-  sortOrder: number
+  parent: string | null
+  displayOrder: number
   useAccentColor: boolean
   includeInChildAggregates: boolean
 }
 
 function parseNode(row: Page): ParsedNode {
-  if (typeof row.id !== "string") {
-    throw new Error(`temper-metric-tree row has non-string id: ${JSON.stringify(row.id)}`)
+  if (typeof row.slug !== "string") {
+    throw new Error(`temper-metric-tree row has non-string slug: ${JSON.stringify(row.slug)}`)
   }
   if (row.title === null || typeof row.title !== "string") {
-    throw new Error(`temper-metric-tree row ${row.id} has null/non-string title`)
+    throw new Error(`temper-metric-tree row ${row.slug} has null/non-string title`)
   }
   const eav = NODE_EAV_SCHEMA.parse({
-    key: row.key,
+    slug: row.slug,
     nodeId: row.nodeId,
     nodeType: row.nodeType,
     parent: row.parent,
-    sortOrder: row.sortOrder,
+    displayOrder: row.displayOrder,
     useAccentColor: row.useAccentColor,
     includeInChildAggregates: row.includeInChildAggregates,
   })
   return {
-    pageId: row.id,
-    key: eav.key,
+    slug: eav.slug,
     nodeId: eav.nodeId,
     title: row.title,
     nodeType: eav.nodeType,
-    parentId: eav.parent ?? null,
-    sortOrder: eav.sortOrder,
+    parent: eav.parent ?? null,
+    displayOrder: eav.displayOrder,
     useAccentColor: eav.useAccentColor ?? false,
     includeInChildAggregates: eav.includeInChildAggregates ?? false,
   }
@@ -75,24 +73,24 @@ interface OutCategory {
 function buildTree(parsed: readonly ParsedNode[]): Record<string, OutCategory> {
   const byParent = new Map<string | null, ParsedNode[]>()
   for (const node of parsed) {
-    const bucket = byParent.get(node.parentId) ?? []
+    const bucket = byParent.get(node.parent) ?? []
     bucket.push(node)
-    byParent.set(node.parentId, bucket)
+    byParent.set(node.parent, bucket)
   }
   for (const bucket of byParent.values()) {
     bucket.sort((a, b) => {
-      if (a.sortOrder !== b.sortOrder) return a.sortOrder - b.sortOrder
-      return a.key.localeCompare(b.key)
+      if (a.displayOrder !== b.displayOrder) return a.displayOrder - b.displayOrder
+      return a.slug.localeCompare(b.slug)
     })
   }
 
   function emitNode(node: ParsedNode): OutNode {
     if (node.nodeType === "category") {
       throw new Error(
-        `unexpected nested category node ${node.key} (pageId=${node.pageId}, parentId=${String(node.parentId)})`
+        `unexpected nested category node ${node.slug} (parent=${String(node.parent)})`
       )
     }
-    const children = byParent.get(node.pageId) ?? []
+    const children = byParent.get(node.slug) ?? []
     const out: OutNode = {
       type: node.nodeType,
       id: node.nodeId,
@@ -113,10 +111,10 @@ function buildTree(parsed: readonly ParsedNode[]): Record<string, OutCategory> {
   for (const root of roots) {
     if (root.nodeType !== "category") {
       throw new Error(
-        `top-level node ${root.key} (pageId=${root.pageId}) has nodeType=${root.nodeType}, expected 'category'`
+        `top-level node ${root.slug} has nodeType=${root.nodeType}, expected 'category'`
       )
     }
-    const children = byParent.get(root.pageId) ?? []
+    const children = byParent.get(root.slug) ?? []
     tree[root.nodeId] = {
       id: root.nodeId,
       name: root.title,

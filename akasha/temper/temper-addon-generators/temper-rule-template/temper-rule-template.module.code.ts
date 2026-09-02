@@ -4,12 +4,12 @@ import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 const RULE_TEMPLATE_EAV_SCHEMA = z
   .object({
     key: z.string(),
-    notes: z.string(),
+    description: z.string(),
     goal: z.string(),
     categoryId: z.string(),
     action: z.string(),
     active: z.boolean(),
-    sortOrder: z.number().int().nonnegative(),
+    displayOrder: z.number().int().nonnegative(),
     destination: z.string().optional().nullable(),
     stockScope: z.string().optional().nullable(),
     conditions: z.unknown().optional().nullable(),
@@ -24,7 +24,7 @@ interface ParsedRuleTemplate {
   categoryId: string
   action: string
   active: boolean
-  sortOrder: number
+  displayOrder: number
   destination?: string
   stockScope?: string
   conditions?: unknown
@@ -36,12 +36,12 @@ function parseRuleTemplate(row: Page): ParsedRuleTemplate {
   }
   const eav = RULE_TEMPLATE_EAV_SCHEMA.parse({
     key: row.key,
-    notes: row.notes,
+    description: row.description,
     goal: row.goal,
     categoryId: row.categoryId,
     action: row.action,
     active: row.active,
-    sortOrder: row.sortOrder,
+    displayOrder: row.displayOrder,
     destination: row.destination,
     stockScope: row.stockScope,
     conditions: row.conditions,
@@ -49,12 +49,12 @@ function parseRuleTemplate(row: Page): ParsedRuleTemplate {
   const out: ParsedRuleTemplate = {
     key: eav.key,
     title: row.title,
-    notes: eav.notes,
+    notes: eav.description,
     goal: eav.goal,
     categoryId: eav.categoryId,
     action: eav.action,
     active: eav.active,
-    sortOrder: eav.sortOrder,
+    displayOrder: eav.displayOrder,
   }
   if (typeof eav.destination === "string" && eav.destination.length > 0) {
     out.destination = eav.destination
@@ -62,10 +62,32 @@ function parseRuleTemplate(row: Page): ParsedRuleTemplate {
   if (typeof eav.stockScope === "string" && eav.stockScope.length > 0) {
     out.stockScope = eav.stockScope
   }
-  if (eav.conditions !== undefined && eav.conditions !== null) {
-    out.conditions = eav.conditions
+  const conditions = conditionsOf(eav.conditions)
+  if (conditions !== null) {
+    out.conditions = conditions
   }
   return out
+}
+
+function spelt(value: string): unknown {
+  try {
+    return JSON.parse(value)
+  } catch {
+    return value
+  }
+}
+
+function conditionsOf(held: unknown): Record<string, unknown> | null {
+  if (!Array.isArray(held)) return null
+  const out: Record<string, unknown> = {}
+  for (const one of held) {
+    const row = one as Record<string, unknown>
+    const field = row.conditionField
+    const value = row.conditionValue
+    if (typeof field !== "string" || field === "" || typeof value !== "string") continue
+    out[field] = spelt(value)
+  }
+  return Object.keys(out).length === 0 ? null : out
 }
 
 function emitRuleEntry(rule: ParsedRuleTemplate): string {
@@ -94,7 +116,7 @@ export function generateTemperRuleTemplate(rows: readonly Page[]): string {
   const parsed = rows.map(parseRuleTemplate)
 
   const sorted = [...parsed].sort((a, b) => {
-    const delta = a.sortOrder - b.sortOrder
+    const delta = a.displayOrder - b.displayOrder
     if (delta !== 0) return delta
     return a.key.localeCompare(b.key)
   })
