@@ -1,31 +1,34 @@
 "use client"
 
-import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
-import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import {
   bulkUpdateAllQuality,
   bulkUpdateAllSets,
-} from "@temper/game-characters-equipment/loadout/bulk-update-functions"
-import type { WeaponBars } from "@temper/game-characters-equipment/loadout/loadout-types"
+} from "@akasha/temper-characters-equipment/bulk-update-functions"
+import type { WeaponBars } from "@akasha/temper-characters-equipment/loadout-types"
 import {
   getMythicSlots,
   getWeaponMythicSlots,
-} from "@temper/game-characters-equipment/loadout/mythic-set-rules"
+} from "@akasha/temper-characters-equipment/mythic-set-rules"
 import {
   getWeaponItem,
   isShieldSlot,
   isWeaponSlot,
   shouldHideWeaponSlot,
-} from "@temper/game-characters-equipment/loadout/weapon-slot-access"
+} from "@akasha/temper-characters-equipment/weapon-slot-access"
+import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
+import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import { weaponBars } from "@akasha/temper-equipment-kinds/weapon-bars"
 import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
-import { weaponTypes } from "@temper/game-characters-equipment/weapons/weapon-types-data"
-import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
-import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { CharacterState } from "@temper/game-characters-character/build-types"
+import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo } from "react"
 import { BulkEditTag } from "@/components/equipment/bulk-edit-tag"
 import { BulkSetEditTag } from "@/components/equipment/bulk-set-edit-tag"
