@@ -1397,8 +1397,10 @@
       "name": "@akasha/temper-items-rules-matcher",
       "dependencies": {
         "@akasha/temper-alchemy": "workspace:*",
+        "@akasha/temper-build-codec": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-companion-codec": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
@@ -1406,7 +1408,6 @@
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-skill-morphs-access": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
-        "@temper/game-codec": "workspace:*",
         "fast-check": "^4.5.3",
       },
     },
