@@ -1,4 +1,4 @@
-import type { Subagent } from "../../subagent/subagent.page-type.ts"
+import type { Subagent } from "../subagent.page-type.ts"
 
 export const emberAb6c54f0995e0246a = {
   id: "01a06321-5ba5-7105-9261-ef22af685978",
