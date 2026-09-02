@@ -2,12 +2,18 @@
 
 import { Badge } from "@akasha/design-badges/badge"
 import { EditableNumber } from "@akasha/design-forms/editable-number"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import { ALL_STOCKED_OPTIONS } from "@akasha/temper-items-rules-core/all-stocked-filter"
+import { KEEP_QUANTITY_OPTIONS } from "@akasha/temper-items-rules-core/keep-quantity-filter"
+import { STOCK_THRESHOLD_OPTIONS } from "@akasha/temper-items-rules-core/stock-threshold-filter"
+import { TARGET_QUANTITY_OPTIONS } from "@akasha/temper-items-rules-core/target-quantity-filter"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { ALL_STOCKED_OPTIONS } from "@temper/game-items-rules-core/filters/all-stocked-filter"
-import { KEEP_QUANTITY_OPTIONS } from "@temper/game-items-rules-core/filters/keep-quantity-filter"
-import { STOCK_THRESHOLD_OPTIONS } from "@temper/game-items-rules-core/filters/stock-threshold-filter"
-import { TARGET_QUANTITY_OPTIONS } from "@temper/game-items-rules-core/filters/target-quantity-filter"
 import type { ReactNode } from "react"
 import { ComparisonOpPicker } from "./comparison-op-picker"
 import { EditableTextValue } from "./rule-card-filter-text"
