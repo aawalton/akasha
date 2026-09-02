@@ -19,4 +19,5 @@ export const bountyHunter = {
   skillType: "passive",
   subcategoryId: "guild-fighters-guild",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

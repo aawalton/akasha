@@ -19,4 +19,5 @@ export const capacitor = {
   skillType: "passive",
   subcategoryId: "sorcerer-storm-calling",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill
