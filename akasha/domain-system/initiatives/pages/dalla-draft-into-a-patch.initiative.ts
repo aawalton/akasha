@@ -8,11 +8,6 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
-      statement: "A drafted change is worked into the agent's patch and rebased onto main.",
-      workingMemory:
-        "Drafting is reached by --draft here rather than by default. What a command does when no flag is given is unchanged until the default flips. That flip waits on applying.",
-    },
-    {
       statement: "A patch that cannot rebase carries its conflicts where the agent resolves them.",
     },
     {
