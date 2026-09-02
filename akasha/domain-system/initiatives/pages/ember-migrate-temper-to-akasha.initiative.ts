@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "`output-dirs.ts` no longer aborts the generator: 11 consts remain, but `ALL_OUTPUT_DIRS` holds one row, `player-completion`, so the pipeline runs again — and aborts again the moment that package ablates. The render half is landed and byte-identical. 19 rendered tables have no `ADDON_DATA_TARGETS` destination. The registry is 39 rows and nothing reads it yet. `typesFor` does not cross.",
+        "The registry is 57 rows and 55 of the 56 rendered tables have a destination, but the shape is wrong: 436 module pages across 57 tables, 361 of them in six (100, 88, 85, 41, 26, 21). A rendered table is data and lands as a page with entries, as the completion tables already do, rather than as numbered code parts. `skill-line-mappings` wants its render deleted: all ten exports are declared already. The generator no longer aborts, but does again once `player-completion` ablates.",
     },
     {
       statement: "No part of temper is outside akasha.",
