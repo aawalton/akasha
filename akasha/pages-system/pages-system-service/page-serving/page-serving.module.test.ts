@@ -351,7 +351,7 @@ test("a write may carry pages rather than bodies", async () => {
   expect(answered.status).toBe(200)
   const told = TOLD[TOLD.length - 1]
   expect(told?.puts?.[0]?.path).toBe(
-    "akasha/person-system/device-token/device-tokens/held-one.device-token.ts"
+    "akasha/person-system/device-tokens/pages/held-one.device-token.ts"
   )
 })
 

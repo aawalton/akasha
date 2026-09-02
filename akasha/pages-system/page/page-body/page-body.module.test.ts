@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { bodyOf, importedFrom, saidAs, unnamedIn } from "./page-body.module.code.ts"
 
-const AT = "akasha/person-system/device-token/device-tokens/one.device-token.ts"
+const AT = "akasha/person-system/device-tokens/pages/one.device-token.ts"
 
 const TYPE_AT = "akasha/person-system/device-tokens/device-token.page-type.ts"
 
