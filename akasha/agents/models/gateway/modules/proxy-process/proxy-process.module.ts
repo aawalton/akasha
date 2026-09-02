@@ -198,6 +198,10 @@ export const proxyProcess = {
     },
     {
       invariantKind: "gap",
+      statement: "No transport log path reaches the gateway this process starts.",
+    },
+    {
+      invariantKind: "gap",
       statement: "The health writing the old entrypoint did on a refresh is carried nowhere.",
     },
     {
