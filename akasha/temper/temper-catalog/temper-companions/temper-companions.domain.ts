@@ -14,6 +14,7 @@ export const temperCompanions = {
     "page-type/temper-companion-jewelry-slot",
     "page-type/temper-companion-passive-metric",
     "page-type/temper-companion-role",
+    "page-type/temper-companion-skill",
     "page-type/temper-companion-skill-line",
     "page-type/temper-companion-skill-slot",
     "page-type/temper-companion-thing",
