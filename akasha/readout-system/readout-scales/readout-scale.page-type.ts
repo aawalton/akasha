@@ -26,6 +26,7 @@ export const readoutScale = {
   pluralSlug: "readout-scales",
   partSlugs: [
     "readout-scale/activity-calories",
+    "readout-scale/allowance-hours",
     "readout-scale/backlog-count",
     "readout-scale/capacity-hours",
     "readout-scale/daily-inbox",

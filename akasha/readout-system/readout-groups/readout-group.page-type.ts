@@ -16,6 +16,7 @@ export const readoutGroup = {
   pluralSlug: "readout-groups",
   partSlugs: [
     "readout-group/categorization",
+    "readout-group/claude-usage",
     "readout-group/inboxes",
     "readout-group/safety",
     "readout-group/surplus",
