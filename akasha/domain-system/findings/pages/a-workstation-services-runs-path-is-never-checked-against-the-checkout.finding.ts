@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aWorkstationServicesRunsPathIsNeverCheckedAgainstTheCheckout = {
+  id: "01a06358-546d-7476-bdea-920a8b70bea6",
+  pageTypeSlug: "finding",
+  slug: "a-workstation-services-runs-path-is-never-checked-against-the-checkout",
+  domainSlug: "workspace-package/service-system",
+  claim:
+    "A workstation service's `runs` path is never checked against the checkout, so a rename that moves the target leaves the service naming a file that is not there. It dies at its next start with nothing reporting the cause. I found three at once, one of them the constant writing `ExecStart` for every long-running TypeScript workstation service. The call I took: repair the three and leave the check for Alan, whom Alan Approves Checks reserves it to.",
+  evidence:
+    "Three instances, all found and repaired in one session.\n\n`akasha/pages-system/service/workstation-services/pages-system-service.workstation-service.ts` named `akasha/pages-system/pages-system-service/page-listening/...` from before a rename; repaired to `akasha/pages-system/service/page-listening/page-listening.module.code.ts` at bac4186f53.\n\n`akasha/service-system/workstation-services/unit-writing/unit-writing.module.code.ts` lines 6-7: `WRAPPER_RUNS` named `akasha/service-system/workstation-service/service-wrapping/...` where the folder is `workstation-services`, plural; repaired at f7c76b74d5. This is the systemic one, since that constant writes the `ExecStart` line for every long-running TypeScript workstation service, so one wrong word there is wrong for all of them.\n\n`akasha/alan/harness/monarch/reading-service/monarch-reading-service.workstation-service.ts` named `monarch-reading/` where the path is `monarch/reading/`; repaired at 042f57666a.\n\nWhat makes this one defect rather than three typos is what the first cost. It took `pages-system-service` down: dead since 10:34, first failure at 10:34:19, killed by another lane's rename 7f560bc005, 'ten folders take the name the page above them leaves them'. While it was dead, every upkeep and inbox stoplight in Alan's editor status bar was blank, and Alan reported that as a status-bar defect. The rename was correct. Nothing connected it to the service, because nothing checks the link.\n\nThe obvious repair is a commit-time check refusing any service whose `runs` path resolves to nothing. I did not add it: Alan Approves Checks reserves to Alan what a check refuses. The check waits for him.",
+} as const satisfies Finding
