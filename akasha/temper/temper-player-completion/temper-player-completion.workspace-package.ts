@@ -75,6 +75,8 @@ export const temperPlayerCompletion = {
     "module/completion-transforms",
     "module/completion-summary",
     "module/completion-summary-account",
+    "module/completion-catalogs",
+    "module/completion-summaries",
   ],
   invariants: [
     {
