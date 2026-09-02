@@ -1271,6 +1271,9 @@
     "akasha/temper/temper-lib-addon-keybinds": {
       "name": "@akasha/temper-lib-addon-keybinds",
     },
+    "akasha/temper/temper-lib-addon-menu-order-list-box": {
+      "name": "@akasha/temper-lib-addon-menu-order-list-box",
+    },
     "akasha/temper/temper-lib-alchemy-station": {
       "name": "@akasha/temper-lib-alchemy-station",
     },
@@ -3860,6 +3863,8 @@
     "@akasha/temper-items-rules-routing-core": ["@akasha/temper-items-rules-routing-core@workspace:akasha/temper/temper-items-rules-routing-core"],
 
     "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:akasha/temper/temper-lib-addon-keybinds"],
+
+    "@akasha/temper-lib-addon-menu-order-list-box": ["@akasha/temper-lib-addon-menu-order-list-box@workspace:akasha/temper/temper-lib-addon-menu-order-list-box"],
 
     "@akasha/temper-lib-alchemy-station": ["@akasha/temper-lib-alchemy-station@workspace:akasha/temper/temper-lib-alchemy-station"],
 
