@@ -1,4 +1,4 @@
-import { pickFirstActionableCompanionQuest } from "@temper/player-completion/completion-companion-quest-actionability"
+import { pickFirstActionableCompanionQuest } from "@akasha/temper-player-completion/completion-companion-quest-actionability"
 import type { TaskData } from "../saved-variables"
 
 export interface CompanionQuestEnrichment {

@@ -1,7 +1,7 @@
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,
-} from "@temper/player-completion/companion-rapport"
+} from "@akasha/temper-player-completion/companion-rapport"
 import type { TaskData } from "../saved-variables"
 
 export const COMPANION_RAPPORT_POINTS_MAX = MAX_COMPANION_RAPPORT

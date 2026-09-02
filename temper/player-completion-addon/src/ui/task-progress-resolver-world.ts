@@ -1,10 +1,10 @@
 import type { AccountCompletion } from "@akasha/temper-completion/completion-record"
 import { loreLibraryData } from "@temper/game-completion/generated/lore-library-data.generated"
-import { companionQuestData } from "@temper/player-completion/companion-quest-data"
+import { COMPANION_QUEST_DATA } from "@akasha/temper-player-completion/companion-quest-data"
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,
-} from "@temper/player-completion/companion-rapport"
+} from "@akasha/temper-player-completion/companion-rapport"
 import { ALL_COMPANION_IDS } from "../generated/companion-mappings.generated"
 import type { SavedCharacterEntry } from "../saved-variables"
 import type { TaskProgress } from "./task-progress-resolver-types"
@@ -135,7 +135,7 @@ export function resolveCompanionQuests(
   if (itemPath !== undefined && itemPath.length > 0) {
     const companionId = itemPath[0]
     if (typeof companionId !== "string") return undefined
-    const group = companionQuestData.find((g) => g.companionId === companionId)
+    const group = COMPANION_QUEST_DATA.find((g) => g.companionId === companionId)
     if (group === undefined) return undefined
     let current = 0
     for (const q of group.quests) {
@@ -146,7 +146,7 @@ export function resolveCompanionQuests(
 
   let current = 0
   let total = 0
-  for (const group of companionQuestData) {
+  for (const group of COMPANION_QUEST_DATA) {
     for (const q of group.quests) {
       total++
       if (completedIds.has(q.questId)) current++

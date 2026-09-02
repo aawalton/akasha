@@ -1,4 +1,4 @@
-import type { CompletionOverride } from "@temper/player-completion/completion-overrides"
+import type { CompletionOverride } from "@akasha/temper-player-completion/completion-override"
 import type { CharactersConfigGlobal, SavedVariablesData, TaskData } from "./saved-variables"
 import { getSavedVariables } from "./saved-variables"
 

@@ -1,8 +1,8 @@
 import {
   findFirstIncompleteCadwellZone,
   sortCadwellPois,
-} from "@temper/player-completion/completion-cadwell-sort"
-import { findFirstIncompleteLoreCollection } from "@temper/player-completion/completion-lore-collection"
+} from "@akasha/temper-player-completion/completion-cadwell-sort"
+import { findFirstIncompleteLoreCollection } from "@akasha/temper-player-completion/completion-lore-collection"
 import { shalidorLibraryCollections } from "@temper/player-completion/generated/lore-shalidor-data.generated"
 import {
   type ActiveAntiquityLead,

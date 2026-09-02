@@ -1,5 +1,5 @@
 import { SKILL_LINE_MAX_RANK } from "@temper/game-characters-capture-addon/skill-line-mappings"
-import { resolveSkillPointItemProgress } from "@temper/player-completion/completion-skill-points-progress"
+import { resolveSkillPointItemProgress } from "@akasha/temper-player-completion/completion-skill-points-progress"
 import type { SavedCharacterEntry } from "../saved-variables"
 import type { TaskProgress } from "./task-progress-resolver-types"
 
