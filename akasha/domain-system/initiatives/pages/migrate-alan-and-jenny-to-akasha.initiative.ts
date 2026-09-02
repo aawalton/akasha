@@ -26,7 +26,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's and Jenny's surplus iOS widgets work.",
       workingMemory:
-        "Both halves are proved as far as the pod; the phones are unseen. Nothing surplus was in the index — no readout, no scale, no group — since `11af5db6b1` took the route off the markdown engine and `d0f4d24621` rebuilt safety alone. His pages at `a62ee247c2`, route at `9d5e909c77`, deployed `3bba06c8ec`. Hers at `6b083866a2`, deployed `f1b03b228e`. One relay tick now carries one reading to both sites.",
+        "Both tiles draw a reading and Alan reports the figure wrong. The number is right: `surplus-hours` is derived on the day as sleep less spend, and recomputing from the day's stretches matches it exactly. Wrong was that a readout said nothing about how wide its figure is written, so the tile got 21 characters of float tail and broke them off mid-number. `ad85a10ab5` gives a readout a figure-format and refuses a day holding neither half; site tests `7b978fb3e6`; deployed `776bd64872`. Phones unseen.",
     },
     {
       statement: "Jenny's site deploys from akasha.",
