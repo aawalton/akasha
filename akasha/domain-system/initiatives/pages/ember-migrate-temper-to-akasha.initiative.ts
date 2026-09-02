@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "A package moves once its dependencies are in akasha, whether or not the source is gone. Thirty addon packages, six catalog collectors, four ESO libraries and LibGPS all wait on one shared set of ESO declarations; thirteen seats each wrote their own, and the collision answers 245 refusals at audit, so one seat owns deleting all thirteen. The write-time typecheck now compiles every declaration file, so a fourteenth cannot land. Teardown is proven many times over.",
+        "66 packages are in akasha and 109 folders remain, though the census overstates it and a seat is measuring which already landed under a new name. The ESO shared set landed: 100 declaration pages, 6,854 names, clean. The thirteen per-package `declare global` modules are trimmed rather than deleted, since 142 of their names are not in the shared set; that is the 567-refusal wall, and three seats hold it. The pure-logic spine under `game-characters-equipment` and `shared-narrow` needs none of it.",
     },
   ],
   constraints: [
