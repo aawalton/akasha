@@ -84,8 +84,25 @@ function shortly(commit: string): string {
   return commit.slice(0, SHORT)
 }
 
+// What two commits differ in never itself changes, so the answer is kept for the life of the
+// process, keyed by the repository and the two commits and the tree. HEAD is deliberately not
+// kept this way: agents commit into a shared worktree every few seconds, and a service or an
+// editor host outlives many of those commits, so `headOf` asks git afresh every time or the
+// guard would answer from a commit that has already moved.
+const KEEPING = 256
+
+const changedKept = new Map<string, readonly string[]>()
+
 function changedFor(repo: string, held: Stamp, head: string): readonly string[] | null {
-  return head === held.commit ? [] : changedSince(repo, held.commit, head, held.tree)
+  if (head === held.commit) return []
+  const key = `${repo}\0${held.commit}\0${head}\0${held.tree}`
+  const kept = changedKept.get(key)
+  if (kept !== undefined) return kept
+  const found = changedSince(repo, held.commit, head, held.tree)
+  if (found === null) return null
+  if (changedKept.size >= KEEPING) changedKept.clear()
+  changedKept.set(key, found)
+  return found
 }
 
 function looseIn(held: Stamp, changed: readonly string[]): readonly string[] {
