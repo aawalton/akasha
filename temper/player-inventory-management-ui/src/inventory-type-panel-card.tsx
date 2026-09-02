@@ -1,8 +1,8 @@
 "use client"
 
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import type { InventoryTypeGroup } from "@temper/game-items-core/inventory-grouping-types"
-import { buildInventoryTypeNodes } from "@temper/game-items-core/inventory-type-tree-builder"
+import type { InventoryTypeGroup } from "@akasha/temper-items-core/inventory-grouping-types"
+import { buildInventoryTypeNodes } from "@akasha/temper-items-core/inventory-type-tree-builder"
 import { useMemo } from "react"
 import { InventoryPanelCard, type InventorySortMode } from "./inventory-panel-card"
 
