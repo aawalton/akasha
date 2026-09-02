@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { compiled, readingOf, typingOver } from "@akasha/code-system/code-typing"
+import { compiled, readingOf, typed, typingOver } from "@akasha/code-system/code-typing"
 import { reachingInto } from "@akasha/graph-system/graph-asking"
 import { importEdge } from "@akasha/graph-system/import-edge"
 import { everyPath, listedAt, readingIn } from "@akasha/indexes"
@@ -68,8 +68,6 @@ const PAGE_SLUG = "page-slug"
 const PROPERTY_SLUG = "property-slug"
 
 const TOKEN = "token"
-
-const TS = ".ts"
 
 const PACKAGE = "package"
 
@@ -173,7 +171,7 @@ export function landed(
   for (const path of everyPath(root)) {
     if (moved.has(path) || !onDisk(path)) continue
     if (namesStill(path, one.was).length > 0) left.push(`  ${path} — its own path`)
-    if (!path.endsWith(TS)) continue
+    if (!typed(path)) continue
     const bytes = bodyAt(root, base, path)
     const text = bytes === null ? null : textOf(bytes)
     if (bytes === null || text === null || !text.includes(one.was)) continue
@@ -192,19 +190,19 @@ export function landed(
     if (bytes === null) return unread(carry.from, `stands in no commit at \`${base}\``)
     readings.push({ was: carry.from, now: carry.to, from: blobIdOf(bytes) })
     changes.push({ path: carry.from, body: null })
-    if (!carry.from.endsWith(TS)) {
+    if (!typed(carry.from)) {
       changes.push({ path: carry.to, body: bytes, carried: true })
       continue
     }
     const text = textOf(bytes)
-    if (text === null) return unread(carry.from, `is named \`${TS}\` and its bytes are not utf-8`)
+    if (text === null) return unread(carry.from, `is TypeScript and its bytes are not utf-8`)
     const said = rewritten(held, carry.from, carry.to, text)
     noting(carry.to, said)
     changes.push({ path: carry.to, body: BYTES.encode(said), carried: true })
   }
   const repointing: string[] = []
   for (const path of [...naming].sort()) {
-    if (!path.endsWith(TS) || moved.has(path)) continue
+    if (!typed(path) || moved.has(path)) continue
     const bytes = bodies.get(path) ?? bodyAt(root, base, path)
     if (bytes === null) continue
     const text = textOf(bytes)
