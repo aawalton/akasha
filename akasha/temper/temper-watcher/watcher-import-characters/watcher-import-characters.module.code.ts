@@ -1,5 +1,4 @@
 import { upsertPage } from "@akasha/pages-access/upsert"
-import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { decodeBuild, encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import type { ChampionPointId } from "@akasha/temper-champion-points/champion-point-source"
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
@@ -9,6 +8,10 @@ import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-p
 import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { asRecord } from "@akasha/utils-narrow/as-record"
 import { resolveAccountPageId } from "../watcher-account-page/watcher-account-page.module.code.ts"
+import {
+  type SignedInReader,
+  userIdFor,
+} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const CHARACTERS_GLOBAL = "TemperCharacters_SavedVariables"
 const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
@@ -151,19 +154,9 @@ export function planCharacterImport(content: string): CharacterImportPlan {
   return { actions: parseCharacterSavedVariables(content).map(toCharacterImportAction) }
 }
 
-async function authenticatedUserId(supabase: SupabaseServiceRoleClient): Promise<string> {
-  const result = await supabase.auth.getUser()
-  const user = result.data.user
-  if (result.error || !user) {
-    const detail = result.error?.message ?? "the client returned no user"
-    throw new Error(`no authenticated user to import characters for (${detail})`)
-  }
-  return user.id
-}
-
 export async function executeCharacterImportPlan(
   plan: CharacterImportPlan,
-  supabase: SupabaseServiceRoleClient,
+  supabase: SignedInReader,
   options: { userId?: string } = {},
   seams: CharacterImportSeams = {}
 ): Promise<void> {
@@ -177,7 +170,7 @@ export async function executeCharacterImportPlan(
 
   report(`Found ${plan.actions.length} character(s).\n`)
 
-  const userId = options.userId ?? (await authenticatedUserId(supabase))
+  const userId = await userIdFor(supabase, options.userId, "import these characters")
 
   await resolveAccountPageId(userId, upsert)
 
@@ -211,7 +204,7 @@ export async function executeCharacterImportPlan(
 
 export async function runImportCharacters(
   content: string,
-  supabase: SupabaseServiceRoleClient,
+  supabase: SignedInReader,
   options: { userId?: string } = {},
   seams: CharacterImportSeams = {}
 ): Promise<void> {

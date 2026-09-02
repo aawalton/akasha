@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import type { PageUpsert } from "./watcher-import-characters.module.code.ts"
 import {
   executeCharacterImportPlan,
@@ -71,11 +72,11 @@ function reporting(): { report: (line: string) => void; lines: string[] } {
   return { report: (line: string) => void lines.push(line), lines }
 }
 
-const NO_SUPABASE = {
+const NO_SUPABASE: SignedInReader = {
   auth: {
     getUser: async () => ({ data: { user: null }, error: { message: "no session" } }),
   },
-} as never
+}
 
 test("a character carrying a build hash is read out, and one carrying none is left out", () => {
   expect(parseCharacterSavedVariables(TWO_CHARACTERS)).toEqual([
@@ -292,7 +293,7 @@ test("a run given no user asks the client, and the refusal names what is missing
   const { report } = reporting()
   await expect(
     runImportCharacters(ONE_REAL_CHARACTER, NO_SUPABASE, {}, { upsert, report })
-  ).rejects.toThrow("no authenticated user to import characters for (no session)")
+  ).rejects.toThrow("no signed-in user to import these characters (no session)")
 })
 
 test("an account page that comes back with no id stops the import", async () => {
