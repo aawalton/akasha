@@ -91,6 +91,7 @@
     "./temper-target-armor": "./temper-target-armor/temper-target-armor.module.code.ts",
     "./temper-target-scope": "./temper-target-scope/temper-target-scope.module.code.ts",
     "./temper-target-type": "./temper-target-type/temper-target-type.module.code.ts",
+    "./temper-tribute": "./temper-tribute/temper-tribute.module.code.ts",
     "./temper-vampire-stage": "./temper-vampire-stage/temper-vampire-stage.module.code.ts",
     "./temper-weapon-bar": "./temper-weapon-bar/temper-weapon-bar.module.code.ts",
     "./temper-weapon-enchant": "./temper-weapon-enchant/temper-weapon-enchant.module.code.ts",

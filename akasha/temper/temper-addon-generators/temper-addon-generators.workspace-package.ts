@@ -95,6 +95,7 @@ export const temperAddonGenerators = {
     "module/temper-target-armor",
     "module/temper-target-scope",
     "module/temper-target-type",
+    "module/temper-tribute",
     "module/temper-vampire-stage",
     "module/temper-weapon-bar",
     "module/temper-weapon-enchant",
