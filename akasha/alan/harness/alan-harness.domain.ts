@@ -13,6 +13,7 @@ export const alanHarness = {
     "domain/alan-plants",
     "domain/alan-activity",
     "domain/alan-sleep",
+    "domain/alan-inboxes",
     "workspace-package/readout-system",
     "workspace-package/voice-core",
     "workspace-package/idle-system",

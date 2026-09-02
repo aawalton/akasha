@@ -1,28 +1,28 @@
-import type { Readout } from "../../../../readout-system/readout/readout.page-type.ts"
+import type { Readout } from "../../readout.page-type.ts"
 
-export const inboxesTemperTasks = {
-  id: "01a0603b-d45a-7ff5-8a9e-03ecb545e854",
+export const inboxesTasks = {
+  id: "01a06230-b156-7d81-a78b-ca66f6f5da77",
   pageTypeSlug: "readout",
-  slug: "inboxes-temper-tasks",
-  definition: "how many game tasks are waiting",
+  slug: "inboxes-tasks",
+  definition: "how many of Alan's tasks are waiting",
   code: "ts",
   test: "ts",
-  label: "Temper tasks",
+  label: "Tasks",
   unit: "tasks",
-  place: 3,
+  place: 2,
   figureFormat: "integer",
   scaleSlug: "daily-inbox",
-  earnedKey: "inbox-temper-tasks-cleared-today",
+  earnedKey: "inbox-tasks-cleared-today",
   groupSlugs: ["inboxes"],
-  wireKey: "temperTasks",
+  wireKey: "tasks",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The count is the one the tracking day carries.",
+      statement: "The count is the one the tracking day carries for the day asked for.",
     },
     {
       invariantKind: "departure",
-      statement: "The count is how many game tasks are undone at the end of that day.",
+      statement: "The count is how many tasks are undone at the end of that day.",
     },
     {
       invariantKind: "departure",
@@ -46,11 +46,7 @@ export const inboxesTemperTasks = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here caches a reading.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here decides when a reading is taken.",
+      statement: "Nothing here caches a reading or decides when a reading is taken.",
     },
     {
       invariantKind: "absence",

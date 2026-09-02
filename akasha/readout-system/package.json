@@ -3,6 +3,10 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./inboxes-email": "./readout/readouts/inboxes-email/inboxes-email.readout.code.ts",
+    "./inboxes-questions": "./readout/readouts/inboxes-questions/inboxes-questions.readout.code.ts",
+    "./inboxes-tasks": "./readout/readouts/inboxes-tasks/inboxes-tasks.readout.code.ts",
+    "./inboxes-texts": "./readout/readouts/inboxes-texts/inboxes-texts.readout.code.ts",
     "./monarch-unreviewed-transactions": "./readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts",
     "./upkeep-activity": "./readout/readouts/upkeep-activity/upkeep-activity.readout.code.ts",
     "./upkeep-plants": "./readout/readouts/upkeep-plants/upkeep-plants.readout.code.ts",
