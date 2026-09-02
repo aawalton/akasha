@@ -5,7 +5,7 @@ import type { Tasks } from "./properties/tasks.page-property-entry.ts"
 
 export type TemperCompletedMonth = TemperProgressThing & {
   month: Month
-  tasks: Tasks
+  tasks?: Tasks
 }
 
 export const temperCompletedMonth = {
@@ -24,7 +24,7 @@ export const temperCompletedMonth = {
   ],
   properties: [
     { pagePropertySlug: "month", required: true, many: false },
-    { pagePropertySlug: "tasks", required: true, many: false },
+    { pagePropertySlug: "tasks", required: false, many: false },
   ],
   invariants: [
     {
@@ -34,6 +34,10 @@ export const temperCompletedMonth = {
     {
       invariantKind: "departure",
       statement: "A month closed is written once and left alone.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No month here carries the completions that month gathered.",
     },
   ],
 } as const satisfies PageType
