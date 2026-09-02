@@ -14,7 +14,6 @@ export const TEMPER_COMPOSITION_ROOTS: readonly string[] = [
   "temper/web",
   "temper/scripts",
   "temper/addons",
-  "temper/catalog-addon",
 ]
 
 export function isCompositionRoot(workspacePath: string): boolean {

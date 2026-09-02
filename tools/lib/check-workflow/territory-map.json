@@ -5,7 +5,7 @@
     { "addon": "TemperCompanions", "package": "akasha/temper/temper-companions-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13024, "adjacent": ["TemperCharacters"] },
     { "addon": "TemperCharacters", "package": "akasha/temper/temper-characters-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13029, "adjacent": ["TemperCompanions", "TemperCatalog", "TemperQuests"] },
     { "addon": "TemperQuests", "package": "akasha/temper/temper-quests-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 15656, "adjacent": ["TemperCharacters"] },
-    { "addon": "TemperCatalog", "package": "temper/catalog-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13034, "adjacent": ["TemperCharacters", "TemperDataMining"] },
+    { "addon": "TemperCatalog", "package": "akasha/temper/temper-catalog-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13034, "adjacent": ["TemperCharacters", "TemperDataMining"] },
     { "addon": "TemperDataMining", "package": "akasha/temper/temper-capture-datamining-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13035, "adjacent": ["TemperCatalog", "TemperInventory"] },
     { "addon": "TemperInventory", "package": "akasha/temper/temper-items-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13037, "adjacent": ["TemperDataMining", "TemperListings", "TemperHud"] },
     { "addon": "TemperListings", "package": "akasha/temper/temper-trading-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13040, "adjacent": ["TemperInventory"] },
