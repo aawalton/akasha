@@ -155,40 +155,6 @@ function refuseWhatMoved(found: readonly Rewrite[]): void {
 }
 
 export const help = {
-  description:
-    `${summary}.\n` +
-    "\n" +
-    "Takes the substitution rather than the file list: every tracked file under the paths named " +
-    "carrying --old-string is rewritten, and the set is admitted whole or refused whole. It is " +
-    "`edit` with the paths discovered instead of declared, which is the shape a vocabulary rename " +
-    "actually has — enumerating the files by hand is the error the search exists to remove.\n" +
-    "\n" +
-    "NOTHING IS INFERRED FROM THE STRINGS. There is no regular expression, no word boundary and " +
-    "no case folding: what matches is the bytes you gave, and a rename needing three spellings is " +
-    "three calls. A substring of a longer word matches, so name enough surrounding text if that " +
-    "is not what you meant, and read the per-file counts it reports before letting it land. Every " +
-    "occurrence in a file is replaced, there being no single-match form: a call that found one " +
-    "file out of ninety and rewrote part of it would leave the repo mid-rename with nothing " +
-    "saying so.\n" +
-    "\n" +
-    "WHAT IS SEARCHED is what git tracks under the paths named, quarantine included: text under " +
-    "`dirty/` is text, and a rename skipping it would leave the old spelling alive in the one " +
-    "place nobody is watching. A file holding a NUL byte or bytes that are not UTF-8 is passed " +
-    "over rather than decoded, and every one passed over that carries the string is named.\n" +
-    "\n" +
-    "A call addressing akasha has the bodies it composed gated before any of them reaches disk. A " +
-    "call addressing any other repository lands unjudged. A path inside no repository is written " +
-    "where it lies, with nothing committing it. A stated substitution is shaped by nothing anyone " +
-    "read, so the checks weighing what its writer read stand aside, as they do for `rm`.\n" +
-    "\n" +
-    "A file that changes between the read a body was composed from and the write that lands it " +
-    "refuses the whole call, by mtime, naming every file that moved. What lands is the whole " +
-    "body, so a change made elsewhere in the file would be reverted with nothing saying so.\n" +
-    "\n" +
-    "REFUSED BEFORE ANY CHECK RUNS: an empty --old-string, which matches everywhere and nowhere; " +
-    "an --old-string equal to --new-string, which asks for no change; nothing carrying " +
-    "--old-string, which is a typo rather than a no-op; and a flag it does not take, rather than " +
-    "ignoring it.",
   flags: [
     { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused." },
     { name: OLD_STRING, argLabel: "<s>", valueShape: "prose" as const, description: "The exact text to replace. The key `edit` calls it by." },

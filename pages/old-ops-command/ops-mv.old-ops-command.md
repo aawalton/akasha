@@ -1,0 +1,48 @@
+---
+id: 444a0d0e-ae6a-55cb-bce0-4aebc60dae06
+page-type-slug: old-ops-command
+title: "Ops mv"
+slug: ops-mv
+domain-parent-slug: domain/ops-global
+required-reading-slugs:
+  - page-type/old-ops-command
+command-path: ops-cli/global/mv/mv.command.code.attachment.ts
+path: mv
+irreversible: false
+---
+
+# Definition
+
+- **Ops mv** — files carried to new paths, with everything naming them repointed in the same act.
+
+# Help
+
+Move files, repoint everything that named them, and remove the orphans.
+
+PAIRS ARE THE SHAPE — `--from <old> --to <new>`, repeated. Two documents naming each other cannot move one at a time in any order, and a restructure splitting one document into two named paths is one act rather than two.
+
+A `--from` NAMING A DIRECTORY STANDS FOR EVERY TRACKED FILE UNDER IT, each landing at the same relative path under `--to`, as one act and one commit and in every other respect as though the files had been named by hand. `--to` must not exist: `mv` on the command line nests a directory inside an existing one and replaces a missing one, so the same two words would mean two different landings depending on what is on disk, and here `--to` always names the path the directory BECOMES. A file git neither tracks nor ignores REFUSES the call, the directory it stands in being about to go and a file left behind under it being a file lost; an ignored file is passed over, being build output rather than content. A file standing beside a page also in the expansion is not named, a page's own files going with it already. A path under `dirty/` is passed over, and a directory holding nothing else is refused. A file whose kind states `binary: true` is carried exactly as it is when named by hand.
+
+WHAT IT REPOINTS is what a hand-run grep was reaching for. A markdown link is RESOLVED rather than matched, so a relative spelling and an absolute one are both followed, and a link label is rewritten where it is exactly the target's filename stem — an address written in words, which goes stale in silence because the link still resolves. The `slug:` a moved page declares follows its new FILENAME, and every frontmatter value that NAMES that slug follows with it, the key set read off the page types rather than listed. A `slug:` on a page that is NOT moving is that page's own name rather than a reference to the page that moved, and is left exactly as it is even where the two are spelled the same. A relative `import`/`from` naming a moved `.ts` is repointed in whatever repository the importer stands in, under its `.js`, extensionless and `/index.ts` spellings. A path written as TEXT — a doc comment, a shell example, a hook command, a string in a test — is rewritten inside a fence as readily as outside one. A moved file's own relative links are re-anchored to the directory it lands in. Every rewrite is printed with its line before anything lands.
+
+WHAT IT DOES NOT REPOINT is the `# Definition` term of a page whose name changed, and [slug] names it. A key and a label state their subject with nothing else in the sentence turning on the spelling; a term is authored prose that the definition beneath it is written around, and a new name substituted into that lands a statement which is false rather than merely stale. Change the term and its sentence together, or leave both.
+
+A PATH A MODULE WRITES AGAINST ITS OWN DIRECTORY is followed like anything else, and [runtime-paths] names it. Three spellings are read: the first argument to `new URL` where `import.meta.url` is the second, a literal handed to `join` or `resolve` beside `import.meta.dir`, `import.meta.dirname`, `__dirname` or a name bound to one of them, and the static tail of a template one of those opens. Such a string is neither an import specifier nor a path from the repo root, so no other survey here can see one, and a move that passed over it left working code naming a path that was no longer there. A base whose path cannot be read — a computed segment, a helper taking the path as an argument — is COUNTED rather than passed over, and REFUSES the move where the call takes a file out from under the directory that base does spell out, or moves the file the expression stands in.
+
+AN OCCURRENCE THAT SPELLS A MOVED PATH rather than writing it — a regex escaping its slashes and dots, a JSON string escaping a slash — is named by [escaped] and REFUSES the move. Re-emitting a path into a matcher's escaping means guessing which language and which of its characters take a backslash, and a wrong guess reads correct and matches nothing. Write the path whole and land that first, with the repo still green.
+
+A reference from `dirty/` is reported and never rewritten: quarantined material holds no veto over the live documents, and neither does it earn an edit from a command.
+
+A PAGE'S OWN FILES GO WITH IT — an attachment, a rows file and its parts, an uncommitted file or a sops file standing beside a moved page — carried to the path the page lands on without being named, and refused where something already stands there.
+
+A FILE WHOSE KIND STATES `binary: true` IS CARRIED, its bytes landing at the new path exactly as they left. The survey that rewrites a path written as text passes over it, having no text to read, and `--input-file` may not name it. A file of any other kind holding a NUL byte is REFUSED, that being a stray byte in a document rather than a kind this carries.
+
+ONE COMMIT INSIDE ONE REPOSITORY carries every body to its new path, every referrer it repointed, and the removal of every path moved out of. A repo holding the body at both paths at once is two documents declaring one `slug:`, which is not a state to publish.
+
+A MOVE BETWEEN REPOSITORIES IS ONE ACT AND TWO COMMITS, one in each. The destination takes the bodies first, being the side with checks that can refuse, and the source gives up the paths they left only after a landing that passed; nothing merges the two, so no failure loses a body. The destination's gate is told what this same act takes out of the source, so a page is not refused for carrying a name still standing at the path it is leaving. Every `--from` names one repository and every `--to` names one.
+
+A THIRD REPOSITORY IS TOUCHED WHERE IT ONLY IMPORTS WHAT MOVED, neither giving a body up nor taking one, and its repointed importers are committed there FIRST, ahead of both sides. akasha refuses a change leaving an import elsewhere naming a path it no longer holds, and reads that importer off DISK. A dry run writes nothing and hands the gate the bodies it would have written, so what it reports is what a real run would land.
+
+EVERY LANDING IS GATED AS MECHANICAL. A move authors no body: the bytes that land are the bytes that left, and any repointing or `--input-file` change is this command's own work rather than anyone's writing. The checks asking what a writer read stand aside; the ones measuring the tree the move would leave do not. Nothing asks you to have read what you are moving, a move relocating a body rather than destroying it.
+
+`--input-file` CHANGES A BODY AS IT LANDS, and it is how a document becomes a document of another kind: a page type is decided by the name a file carries, so a domain renamed onto another page type's name is judged against that page type the moment it arrives, and without this flag the only route is `rm` then `write`, with the slug resolving to nothing in between. It takes the shape `edit` takes, `file_path` naming the DESTINATION, and each pair is applied before any gate sees the body — AFTER the link re-anchoring, so an `old_string` spanning a relative link must be written as the link will read at the new path.

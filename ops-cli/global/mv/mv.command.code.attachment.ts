@@ -8,7 +8,6 @@ import { fail, payloadText, valueOf } from "../../../patches/patch.ts"
 import type { Moves } from "../../../repoint/repoint.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
 import {
-  DESCRIPTION,
   DRY_RUN,
   EXITS,
   FLAGS,
@@ -25,7 +24,6 @@ const VALUE_FLAGS = [FROM, TO, REPO, MESSAGE, MESSAGE_FILE, INPUT_FILE]
 const BARE_FLAGS = [DRY_RUN, "--help", "-h"]
 
 export const help = {
-  description: `${summary}.\n\n${DESCRIPTION}`,
   flags: FLAGS,
   positionals: [],
   exits: EXITS,

@@ -4,8 +4,6 @@ import { execFileSync } from "node:child_process"
 import { resolve } from "node:path"
 
 export const help = {
-  description:
-    "Print every tracked file under a section, spelled from the repository root and in the order git holds them. An untracked or ignored file is not listed.",
   positionals: [
     {
       name: "root",

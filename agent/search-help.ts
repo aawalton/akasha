@@ -36,7 +36,7 @@ stops it where it stands, with nothing left running and nothing to say about it.
 
 NOTHING HERE IS RECORDED AS READ. A matching line is not the file it came out of, so a
 change to a file you found this way is still refused until you have read it:
-  ops read --file-path <path>
+  akasha read --file-path <path>
 
 Defaults it changes:
   --color never           Escape codes are noise to whatever reads this.

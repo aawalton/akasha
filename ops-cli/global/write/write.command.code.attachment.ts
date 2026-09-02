@@ -132,17 +132,6 @@ function couldCarryBody(): boolean {
 }
 
 export const help = {
-  description:
-    `${summary}.\n` +
-    "\n" +
-    "A call addressing akasha is turned into a patch against HEAD and the checks akasha defines " +
-    "are run over the files that patch changes, before anything reaches disk. A call addressing " +
-    "any other repository lands unjudged, those repositories having no checks. A path inside no " +
-    "repository is written where it lies, with nothing committing it.\n" +
-    "\n" +
-    "Every body reaches this as a whole file. Where the path's extension has a file kind stating " +
-    "`binary: true` the bytes land exactly as read; every other body is decoded as UTF-8 and " +
-    "refused where it does not decode.",
   flags: [
     { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused." },
     { name: INPUT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "The tool-call JSON: `{ file_path, content }` or an array of them. `-` is stdin and the default." },

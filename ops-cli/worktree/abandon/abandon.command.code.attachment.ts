@@ -26,22 +26,6 @@ const ORIGIN = "origin"
 const UNLANDED = "+ "
 
 export const help = {
-  description:
-    `${summary}.\n` +
-    "\n" +
-    "EVERY READING HAPPENS BEFORE ANY ACT, so the first refusal leaves the worktree exactly as " +
-    "it was. What is read is printed either way, so a dry run and a refusal show the same thing.\n" +
-    "\n" +
-    "UNCOMMITTED WORK IS NEVER GIVEN UP. A tree holding changes of its own, tracked or not, is " +
-    "refused, because that work has no other copy anywhere. A commit that never landed is a " +
-    "different thing: it was written down, this prints every one of them, and then drops them, " +
-    "which is what giving up a worktree means.\n" +
-    "\n" +
-    "Landedness is read with `git cherry` rather than by ancestry, so a commit that landed as a " +
-    "cherry-pick or through a rebase reads as landed rather than as work about to be lost.\n" +
-    "\n" +
-    "The page goes last and only where nothing else is left standing. A page removed while its " +
-    "tree or branch survives is a worktree nothing states, which nothing can then finish.",
   positionals: [
     { name: "name", description: "The worktree to give up. Required where you stand in one." },
   ],

@@ -26,23 +26,6 @@ const PASSED = "passed-commit"
 const LOCKFILE = "bun.lock"
 
 export const help = {
-  description:
-    `${summary}.\n` +
-    "\n" +
-    "A worktree lands only where its page states the commit its checks passed at and the tree " +
-    "still stands there. A tree that moved after it went green is refused rather than merged, " +
-    "because the commit that passed is not the commit that would land.\n" +
-    "\n" +
-    "MAIN MOVING UNDERNEATH IS NOT A REFUSAL. The fold is made against main as it stands, and " +
-    "what that race lets through is caught by the next run of checks rather than by holding " +
-    "every merge until nothing else is landing.\n" +
-    "\n" +
-    "After main moves, its packages are linked again from the lockfile the landed commit " +
-    "carries. A commit declaring a workspace this checkout never installed leaves a tree where " +
-    "that workspace is declared, locked and resolves to nothing, and git is happy throughout.\n" +
-    "\n" +
-    "The tree, its branch and its page go together once main holds the commit. What is left " +
-    "standing is named rather than swallowed.",
   positionals: [
     { name: "name", description: "The worktree to land. Required where you stand in one." },
   ],
