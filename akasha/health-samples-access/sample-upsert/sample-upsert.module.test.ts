@@ -4,7 +4,7 @@ import type { HealthSample } from "../sample-shape/sample-shape.module.code.ts"
 import { mergedInto } from "./sample-upsert.module.code.ts"
 
 const AT =
-  "akasha/alan/eso-daily-tracking/eso-daily-trackings/eso-day-2026-01-01.eso-daily-tracking.health-samples.jsonl"
+  "akasha/alan/eso-daily-tracking/eso-daily-trackings/eso-day-2026-01-01/eso-day-2026-01-01.eso-daily-tracking.health-samples.jsonl"
 
 const ARRIVED = "2026-01-01T12:00:00.000Z"
 
