@@ -15,7 +15,7 @@ import type { PageSystemTabContentProps } from "@akasha/pages-ui-components/page
 import { withColumnWidths } from "@akasha/pages-ui-components/page-table-widths"
 import { useBoardViewWiring } from "@akasha/pages-ui-components/use-board-view-wiring"
 import { useCalendarViewWiring } from "@akasha/pages-ui-components/use-calendar-view-wiring"
-import { useTimelineConfig } from "./use-timeline-config"
+import { useTimelineConfig } from "@akasha/pages-ui-components/use-timeline-config"
 import { useViewLocalConfig } from "@akasha/pages-ui-components/use-view-local-config"
 
 

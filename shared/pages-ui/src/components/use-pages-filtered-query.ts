@@ -20,7 +20,7 @@ import { buildFlatQueryArgs } from "@akasha/pages-ui-components/flat-query-args"
 import { toPageDataRecord } from "@akasha/pages-ui-components/page-data-json"
 import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
 import { buildBaseFilters, buildSyntheticConfig } from "@akasha/pages-ui-components/synthetic-config"
-import { useEffectiveListing } from "./use-effective-listing.ts"
+import { useEffectiveListing } from "@akasha/pages-ui-components/use-effective-listing"
 import { buildPageTypeSlugMaps } from "@akasha/pages-ui-components/view-tab-content-href"
 
 const PAGE_TYPE_SLUG = "page-type"

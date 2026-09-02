@@ -13,7 +13,7 @@ import { useOptimisticCreatePage } from "../supabase/mutations/use-optimistic-cr
 import { useOptimisticPatchPropertyDefinition } from "../supabase/mutations/use-optimistic-patch-property-definition"
 import { useOptimisticDeletePage } from "../supabase/mutations/use-optimistic-delete-page"
 import { type useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
-import { createOptionOnDefinition } from "./create-option"
+import { createOptionOnDefinition } from "@akasha/pages-ui-components/create-option"
 
 interface UseViewRowHandlersArgs {
   rowPageTypeSlug?: PageTypeSlug
