@@ -35,10 +35,6 @@ export const sampleUpsert = {
     },
     {
       invariantKind: "departure",
-      statement: "A second rows part beside the first refuses rather than filing a reading twice.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A reading is written only into the checkout said to keep what is written there.",
     },
     {

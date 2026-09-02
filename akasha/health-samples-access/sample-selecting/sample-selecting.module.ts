@@ -13,6 +13,16 @@ export const sampleSelecting = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Where a rows file sits is asked of the name a page's property file is built under.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A day's rows are reached through that day's page rather than by a path built here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A span holding no reading is answered empty rather than raised.",
     },
     {

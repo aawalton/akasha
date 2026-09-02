@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
+import { besideAt } from "@akasha/pages-system/page-file-name"
 import { instantMs } from "../sample-identity/sample-identity.module.code.ts"
 import { ANCHOR_PAGE_TYPE, ROW_CEILING, recordOf } from "../sample-rows/sample-rows.module.code.ts"
 import type { HealthMetric, HealthSampleRecord } from "../sample-shape/sample-shape.module.code.ts"
@@ -7,6 +8,12 @@ import type { HealthMetric, HealthSampleRecord } from "../sample-shape/sample-sh
 export const HEALTH_SAMPLE_PAGE_TYPE = "health-sample"
 
 export const SAMPLE_ROWS_KEY = "health-samples"
+
+export const DAYS_KEPT_IN = "akasha/alan/eso-daily-tracking/eso-daily-trackings"
+
+export const DAY_SLUG_PREFIX = "eso-day-"
+
+const HELD = "jsonl"
 
 const DAY_MS = 86400000
 
@@ -20,8 +27,20 @@ export function checkoutRoot(): string {
   return at
 }
 
-export function sampleRowsAt(root: string, civilDay: string): string {
-  return `${root}/pages/${ANCHOR_PAGE_TYPE}/${civilDay}.${ANCHOR_PAGE_TYPE}.${SAMPLE_ROWS_KEY}.jsonl`
+export function dayPageAt(day: string): string {
+  return `${DAYS_KEPT_IN}/${DAY_SLUG_PREFIX}${day}.${ANCHOR_PAGE_TYPE}.ts`
+}
+
+export function sampleRowsIn(day: string): string {
+  const beside = besideAt(dayPageAt(day), SAMPLE_ROWS_KEY, HELD)
+  if (beside === null) {
+    throw new Error(`sampleRowsIn: ${dayPageAt(day)} is no page a row can sit beside`)
+  }
+  return beside
+}
+
+export function sampleRowsAt(root: string, day: string): string {
+  return `${root}/${sampleRowsIn(day)}`
 }
 
 function civilDayOf(ms: number): string {

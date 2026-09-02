@@ -23,5 +23,9 @@ export const sampleRows = {
       invariantKind: "departure",
       statement: "A field the row does not hold reads as the empty string.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A row beside an akasha page spells its keys in camel.",
+    },
   ],
 } as const satisfies Module

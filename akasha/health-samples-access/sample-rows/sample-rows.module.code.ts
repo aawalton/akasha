@@ -24,11 +24,11 @@ export function recordOf(values: Readonly<Record<string, unknown>>): HealthSampl
   return {
     id: textAt(values, "id"),
     metric,
-    startedAt: textAt(values, "started-at"),
-    endedAt: textAt(values, "ended-at"),
+    startedAt: textAt(values, "startedAt"),
+    endedAt: textAt(values, "endedAt"),
     value,
     unit: textAt(values, "unit"),
-    sourceName: textAt(values, "source-name"),
-    arrivedAt: textAt(values, "arrived-at"),
+    sourceName: textAt(values, "sourceName"),
+    arrivedAt: textAt(values, "arrivedAt"),
   }
 }

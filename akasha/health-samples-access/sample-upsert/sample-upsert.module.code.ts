@@ -21,8 +21,6 @@ const EMPTY_REPORT: HealthSampleWriteReport = {
   valueChanged: 0,
 }
 
-const ROWS_SUFFIX = ".jsonl"
-
 export const KEPT_IN = "HEALTH_SAMPLE_ROWS_KEPT_IN"
 
 export function keptSaid(): string | null {
@@ -60,11 +58,6 @@ interface DayTally {
 
 type Held = readonly (readonly [string, HealthSample])[]
 
-function partBeside(path: string): string | null {
-  const at = `${path.slice(0, -ROWS_SUFFIX.length)}.part2${ROWS_SUFFIX}`
-  return existsSync(at) ? at : null
-}
-
 function linesAt(path: string): readonly string[] {
   if (!existsSync(path)) return []
   return readFileSync(path, "utf8")
@@ -88,9 +81,9 @@ function valuesOf(line: string, path: string): Readonly<Record<string, unknown>>
 function identityOf(values: Readonly<Record<string, unknown>>): string {
   return sampleIdentity({
     metric: textAt(values, "metric"),
-    sourceName: textAt(values, "source-name"),
-    startedAt: textAt(values, "started-at"),
-    endedAt: textAt(values, "ended-at"),
+    sourceName: textAt(values, "sourceName"),
+    startedAt: textAt(values, "startedAt"),
+    endedAt: textAt(values, "endedAt"),
   })
 }
 
@@ -99,12 +92,12 @@ function lineOf(sample: HealthSample, id: string, seq: number, arrivedAt: string
     id,
     seq,
     metric: sample.metric,
-    "started-at": sample.startedAt,
-    "ended-at": sample.endedAt,
+    startedAt: sample.startedAt,
+    endedAt: sample.endedAt,
     value: sample.value,
     unit: sample.unit,
-    "source-name": sample.sourceName,
-    "arrived-at": arrivedAt,
+    sourceName: sample.sourceName,
+    arrivedAt,
   })
 }
 
@@ -124,13 +117,6 @@ function filedIn(lines: readonly string[], path: string): ReadonlyMap<string, Fi
 }
 
 function landDay(path: string, held: Held, arrivedAt: string): DayTally {
-  const part = partBeside(path)
-  if (part !== null) {
-    throw new Error(
-      `upsertHealthSamples: ${part} sits beside ${path}, and a reading is matched against one part alone, ` +
-        `so a second part would let the same reading land twice`
-    )
-  }
   mkdirSync(dirname(path), { recursive: true })
   return exclusively(path, () => {
     const lines = [...linesAt(path)]
