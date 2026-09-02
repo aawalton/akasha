@@ -204,5 +204,41 @@ export const landing = {
       invariantKind: "departure",
       statement: "A change says whether the body the change carries came from another path.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A change may be drafted into an agent's patch rather than written onto the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft is judged by the checks a landing is judged by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft is held to the bodies its writer read as a landing is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One rule answers whether a landing and a draft are held to what was read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft takes no hold over the worktree.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A draft writes no file in the worktree.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A draft makes no commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft a conflict refused leaves the patch as the patch was.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A draft whose base moved is merged rather than refused.",
+    },
   ],
 } as const satisfies Module

@@ -7,6 +7,7 @@ import type { Change } from "@akasha/pages-system/change"
 import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
+import { drafted as draftedOnto } from "../drafting/drafting.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
@@ -42,6 +43,22 @@ export type Landed = {
 export type Refused = {
   readonly refusals: readonly string[]
 }
+
+export type Drafting = {
+  readonly page: string
+}
+
+export type Drafted = {
+  readonly base: string
+  readonly drafted: readonly string[]
+  readonly patch: string | null
+}
+
+const AGAIN_WRITTEN = "nothing was written — read them again against what stands now"
+
+const AGAIN_DRAFTED = "nothing was drafted — read them again against what stands now"
+
+const KEPT_AS_IT_WAS = "nothing was drafted — the patch is as the patch was"
 
 export function baseOf(root: string): string {
   return gitIn(root, ["rev-parse", "HEAD"]).trim()
@@ -219,6 +236,65 @@ function movedBetween(
   return moved.sort()
 }
 
+function unfresh(
+  root: string,
+  named: string | null,
+  base: string,
+  changes: readonly FileEdit[],
+  asRead: readonly AsRead[],
+  tail: string
+): Refused | null {
+  const moved = named === null || named === base ? [] : movedBetween(root, named, base, changes)
+  if (named !== null && moved.length > 0) {
+    return {
+      refusals: [
+        ...moved.map(
+          (one) =>
+            `${one} — read against \`${named}\`, and what stands at \`${base}\` is not what was read, so writing it would put back what moved in between`
+        ),
+        tail,
+      ],
+    }
+  }
+  const stirred = movedOnDisk(root, asRead)
+  if (stirred.length > 0) {
+    return {
+      refusals: [
+        ...stirred.map(
+          (one) =>
+            `${one} — what stands on disk is not the body you read, so writing it would put back what moved in between`
+        ),
+        tail,
+      ],
+    }
+  }
+  return null
+}
+
+function draftedBy(
+  root: string,
+  page: string,
+  changes: readonly FileEdit[],
+  named: string | null,
+  asRead: readonly AsRead[]
+): Drafted | Refused {
+  const base = baseOf(root)
+  const stale = unfresh(root, named, base, changes, asRead, AGAIN_DRAFTED)
+  if (stale !== null) return stale
+  const before = beforeOf(root, base, changes)
+  const said = draftedOnto(
+    root,
+    page,
+    changes.map((one) => ({
+      path: one.path,
+      was: textOf(before.get(one.path) ?? null),
+      body: textOf(one.body),
+    }))
+  )
+  if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
+  return { base, drafted: changes.map((one) => one.path).sort(), patch: said.patch }
+}
+
 function commitNamed(root: string, named: string): string | null {
   try {
     const said = gitIn(root, [
@@ -239,11 +315,33 @@ export function landing(
   changes: readonly FileEdit[],
   message: string,
   judging: Judging,
+  writer?: string | null,
+  read?: string | null,
+  asRead?: readonly AsRead[],
+  carries?: readonly FileCarry[]
+): Landed | Refused
+export function landing(
+  root: string,
+  changes: readonly FileEdit[],
+  message: string,
+  judging: Judging,
+  writer: string | null,
+  read: string | null,
+  asRead: readonly AsRead[],
+  carries: readonly FileCarry[],
+  drafting: Drafting
+): Drafted | Refused
+export function landing(
+  root: string,
+  changes: readonly FileEdit[],
+  message: string,
+  judging: Judging,
   writer: string | null = null,
   read: string | null = null,
   asRead: readonly AsRead[] = [],
-  carries: readonly FileCarry[] = []
-): Landed | Refused {
+  carries: readonly FileCarry[] = [],
+  drafting: Drafting | null = null
+): Landed | Refused | Drafted {
   if (changes.length === 0) {
     return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
   }
@@ -266,32 +364,11 @@ export function landing(
       ],
     }
   }
+  if (drafting !== null) return draftedBy(root, drafting.page, changes, named, asRead)
   return holding(root, () => {
     const base = baseOf(root)
-    const moved = named === null || named === base ? [] : movedBetween(root, named, base, changes)
-    if (named !== null && moved.length > 0) {
-      return {
-        refusals: [
-          ...moved.map(
-            (one) =>
-              `${one} — read against \`${named}\`, and what stands at \`${base}\` is not what was read, so writing it would put back what moved in between`
-          ),
-          "nothing was written — read them again against what stands now",
-        ],
-      }
-    }
-    const stirred = movedOnDisk(root, asRead)
-    if (stirred.length > 0) {
-      return {
-        refusals: [
-          ...stirred.map(
-            (one) =>
-              `${one} — what stands on disk is not the body you read, so writing it would put back what moved in between`
-          ),
-          "nothing was written — read them again against what stands now",
-        ],
-      }
-    }
+    const stale = unfresh(root, named, base, changes, asRead, AGAIN_WRITTEN)
+    if (stale !== null) return stale
     const before = beforeOf(root, base, changes)
     const keeping = indexingLoaded()
     try {

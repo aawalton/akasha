@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "@akasha/checks/judging"
+import { patchIn } from "@akasha/agents/patch-keeping"
 import { rebuiltFrom } from "@akasha/indexes/indexing"
 import { butTheStamp } from "@akasha/indexes/indexing/testing"
 import {
@@ -18,17 +18,23 @@ import { baseOf, changeOf, landing } from "./landing.module.code.ts"
 import {
   A,
   ADMITS,
+  BROKEN,
   bytes,
   CARRIED,
+  DRAFT,
+  filedFor,
   git,
   gitOver,
   ID,
   identityAmong,
+  judgingThat,
   LINE,
+  NUL,
+  PAGE,
+  pagesRepo,
   REFUSES,
   repoWith,
   scratch,
-  TYPE,
 } from "./landing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -67,38 +73,28 @@ test("a body the change takes away reads as gone rather than as what stands", ()
 })
 
 test("a body carrying a raw NUL and a body that is not UTF-8 come back byte for byte", () => {
-  const nul = new Uint8Array([104, 0, 101, 108, 100, 0, 0, 10])
-  const broken = new Uint8Array([0xff, 0xfe, 0x41, 0x80, 0x42, 0xc3, 0x28])
-  const root = repoWith({ "nul.bin": nul, "broken.bin": broken })
+  const root = repoWith({ "nul.bin": NUL, "broken.bin": BROKEN })
   const change = changeOf(root, {
     base: baseOf(root),
     edits: [{ path: "one.txt", body: bytes("proposed") }],
   })
-  expect(change.after("nul.bin")).toEqual(nul)
-  expect(change.after("broken.bin")).toEqual(broken)
+  expect(change.after("nul.bin")).toEqual(NUL)
+  expect(change.after("broken.bin")).toEqual(BROKEN)
   readingEnded()
 })
 
 test("no git outlives a landing, nor one a check throws through", () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
-  const reading: Judging = {
-    named: ["reading"],
-    checksFor: () => ["reading"],
-    over: (change) => {
-      expect(change.after("one.txt")).not.toBeNull()
-      expect(gitOver(root).length).toBe(1)
-      return []
-    },
-  }
-  const throwing: Judging = {
-    named: ["throwing"],
-    checksFor: () => ["throwing"],
-    over: (change) => {
-      expect(change.after("one.txt")).not.toBeNull()
-      expect(gitOver(root).length).toBe(1)
-      throw new Error("thrown for the test")
-    },
-  }
+  const reading = judgingThat("reading", (change) => {
+    expect(change.after("one.txt")).not.toBeNull()
+    expect(gitOver(root).length).toBe(1)
+    return []
+  })
+  const throwing = judgingThat("throwing", (change) => {
+    expect(change.after("one.txt")).not.toBeNull()
+    expect(gitOver(root).length).toBe(1)
+    throw new Error("thrown for the test")
+  })
   landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", reading)
   expect(gitOver(root)).toEqual([])
   expect(() => landing(root, [{ path: "two.txt", body: null }], "held", throwing)).toThrow(
@@ -114,12 +110,7 @@ test("a landing files the index entries its page implies, with no rebuild run by
   const said = landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   const filed = everythingFiled(root)
-  const named = [
-    `identity/page/id/${ID}.jsonl`,
-    "identity/domain/slug/a.jsonl",
-    "path/akasha/a.domain.ts.jsonl",
-  ]
-  for (const at of named) expect(filed).toContain(`/${at} ${LINE}\n`)
+  for (const at of filedFor(ID)) expect(filed).toContain(`/${at} ${LINE}\n`)
 })
 
 test("a landing that takes a page away takes its index entries with it", () => {
@@ -220,14 +211,10 @@ test("a change asking for what already stands commits nothing", () => {
 test("the checks are shown every path the change touches", () => {
   const root = repoWith({ "one.txt": "committed" })
   const seen: string[] = []
-  const watching: Judging = {
-    named: ["watching"],
-    checksFor: () => ["watching"],
-    over: (change) => {
-      seen.push(...change.changed)
-      return []
-    },
-  }
+  const watching = judgingThat("watching", (change) => {
+    seen.push(...change.changed)
+    return []
+  })
   landing(
     root,
     [
@@ -241,7 +228,7 @@ test("the checks are shown every path the change touches", () => {
 })
 
 test("a change read against a commit that moved a path it carries is refused unwritten", () => {
-  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+  const root = pagesRepo()
   const read = baseOf(root)
   writeFileSync(join(root, "akasha/a.domain.ts"), `${A}\n`)
   git(root, ["add", "-A"])
@@ -260,7 +247,7 @@ test("a change read against a commit that moved a path it carries is refused unw
 })
 
 test("a change read against a commit that moved nothing it carries is landed", () => {
-  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+  const root = pagesRepo()
   const read = baseOf(root)
   writeFileSync(join(root, "later.txt"), "later")
   git(root, ["add", "-A"])
@@ -278,7 +265,7 @@ test("a change read against a commit that moved nothing it carries is landed", (
 })
 
 test("a change read against the commit that stands is landed", () => {
-  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+  const root = pagesRepo()
   landing(root, CARRIED, "held", ADMITS)
   const said = landing(
     root,
@@ -296,7 +283,7 @@ test("a change read against the commit that stands is landed", () => {
 })
 
 test("a change read against an abbreviated commit is read against the commit it names", () => {
-  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+  const root = pagesRepo()
   const read = git(root, ["rev-parse", "--short=10", "HEAD"]).trim()
   writeFileSync(join(root, "later.txt"), "later")
   git(root, ["add", "-A"])
@@ -318,7 +305,7 @@ test("a change read against a name standing for no commit is refused unwritten",
 })
 
 test("what was written is put back when the landing throws after writing", () => {
-  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+  const root = pagesRepo()
   fileWhereTheIndexIs(root, "no directory stands here")
   const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
   expect(() =>
@@ -366,4 +353,23 @@ test("a carry that will not go puts back the ones that went and commits nothing"
   expect(existsSync(join(root, "deep/one.uncommitted.ts"))).toBe(false)
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
+})
+
+test("a change drafted is kept in the patch and reaches no file and no commit", () => {
+  const root = repoWith({ "akasha/a.domain.ts": A })
+  const was = baseOf(root)
+  const change = [{ path: "new.txt", body: bytes("proposed") }]
+  const said = landing(root, change, "held", ADMITS, null, null, [], [], DRAFT)
+  expect("refusals" in said ? [] : said.drafted).toEqual(["new.txt"])
+  expect(patchIn(root, PAGE) ?? "").toContain("+proposed")
+  expect(existsSync(join(root, "new.txt"))).toBe(false)
+  expect(baseOf(root)).toBe(was)
+})
+
+test("a draft is refused by the checks that refuse a landing, and keeps no patch", () => {
+  const root = repoWith({ "akasha/a.domain.ts": A })
+  const change = [{ path: "new.txt", body: bytes("proposed") }]
+  const said = landing(root, change, "held", REFUSES, null, null, [], [], DRAFT)
+  expect("refusals" in said).toBe(true)
+  expect(patchIn(root, PAGE)).toBeNull()
 })

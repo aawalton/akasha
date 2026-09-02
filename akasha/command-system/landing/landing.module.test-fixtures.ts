@@ -1,8 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "@akasha/checks/judging"
+import type { Judged, Judging } from "@akasha/checks/judging"
 import { said as gitIn } from "@akasha/git/git-running"
 import { bodyOf, thePage } from "@akasha/indexes/indexing/testing"
+import type { Change } from "@akasha/pages-system/change"
 import { id as idPage } from "@akasha/pages-system/page/id"
 import { slug as slugPage } from "@akasha/pages-system/page/slug"
 import type { Value } from "@akasha/pages-system/page-value"
@@ -34,6 +35,14 @@ export function repoWith(named: Readonly<Record<string, string | Uint8Array>>): 
 }
 
 export const ADMITS: Judging = { named: ["admits"], checksFor: () => ["admits"], over: () => [] }
+
+export function judgingThat(name: string, over: (change: Change) => readonly Judged[]): Judging {
+  return { named: [name], checksFor: () => [name], over }
+}
+
+export const PAGE = "akasha/a.domain.ts"
+
+export const DRAFT = { page: PAGE }
 
 export const REFUSES: Judging = {
   named: ["refuses"],
@@ -74,6 +83,19 @@ function typed(
 }
 
 export const TYPE = typed("02", "domain", "page-type/page")
+
+export const NUL = new Uint8Array([104, 0, 101, 108, 100, 0, 0, 10])
+
+export const BROKEN = new Uint8Array([0xff, 0xfe, 0x41, 0x80, 0x42, 0xc3, 0x28])
+
+export const pagesRepo = (): string =>
+  repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+
+export const filedFor = (id: string): readonly string[] => [
+  `identity/page/id/${id}.jsonl`,
+  "identity/domain/slug/a.jsonl",
+  "path/akasha/a.domain.ts.jsonl",
+]
 
 const VOCABULARY: readonly (readonly [string, string])[] = [
   ["akasha/page.page-type.ts", typed("11", "page", null, ["id", "slug"])],
