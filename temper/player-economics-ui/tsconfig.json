@@ -15,17 +15,7 @@
       "@types/bun"
     ]
   },
-  "references": [
-    {
-      "path": "../game-companions-ui"
-    },
-    {
-      "path": "../player-completion-ui"
-    },
-    {
-      "path": "../player-profile"
-    }
-  ],
+
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx"
