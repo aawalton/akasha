@@ -1119,6 +1119,24 @@
         "@akasha/temper-items-rules-core": "workspace:*",
       },
     },
+    "akasha/temper/temper-items-rules-matcher": {
+      "name": "@akasha/temper-items-rules-matcher",
+      "dependencies": {
+        "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-items-rules-core": "workspace:*",
+        "@akasha/temper-items-rules-eval": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-items-rules-routing-core": {
+      "name": "@akasha/temper-items-rules-routing-core",
+      "dependencies": {
+        "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-items-rules-core": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-lib-addon-keybinds": {
       "name": "@akasha/temper-lib-addon-keybinds",
     },
@@ -1139,6 +1157,9 @@
     },
     "akasha/temper/temper-lib-debug-logger": {
       "name": "@akasha/temper-lib-debug-logger",
+    },
+    "akasha/temper/temper-lib-gps": {
+      "name": "@akasha/temper-lib-gps",
     },
     "akasha/temper/temper-lib-main-menu": {
       "name": "@akasha/temper-lib-main-menu",
@@ -3916,6 +3937,10 @@
 
     "@akasha/temper-items-rules-eval": ["@akasha/temper-items-rules-eval@workspace:akasha/temper/temper-items-rules-eval"],
 
+    "@akasha/temper-items-rules-matcher": ["@akasha/temper-items-rules-matcher@workspace:akasha/temper/temper-items-rules-matcher"],
+
+    "@akasha/temper-items-rules-routing-core": ["@akasha/temper-items-rules-routing-core@workspace:akasha/temper/temper-items-rules-routing-core"],
+
     "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:akasha/temper/temper-lib-addon-keybinds"],
 
     "@akasha/temper-lib-alchemy-station": ["@akasha/temper-lib-alchemy-station@workspace:akasha/temper/temper-lib-alchemy-station"],
@@ -3929,6 +3954,8 @@
     "@akasha/temper-lib-data-encode": ["@akasha/temper-lib-data-encode@workspace:akasha/temper/temper-lib-data-encode"],
 
     "@akasha/temper-lib-debug-logger": ["@akasha/temper-lib-debug-logger@workspace:akasha/temper/temper-lib-debug-logger"],
+
+    "@akasha/temper-lib-gps": ["@akasha/temper-lib-gps@workspace:akasha/temper/temper-lib-gps"],
 
     "@akasha/temper-lib-main-menu": ["@akasha/temper-lib-main-menu@workspace:akasha/temper/temper-lib-main-menu"],
 
