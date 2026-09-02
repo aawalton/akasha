@@ -11,8 +11,9 @@ import { AUDITS, judgeOne, viewsOf } from "./audits.ts"
  * audit's own, kept for the parent to quote when no verdict arrives.
  *
  * This exits 0 whatever the audit judged. The verdict is in the file; the exit
- * code here says only whether the audit got as far as answering. `services/
- * audits-watchdog.ts` is what turns a refusal into a red unit.
+ * code here says only whether the audit got as far as answering. Nothing turns
+ * a refusal into a red unit any more: the service that did so on a clock was
+ * ablated, so a refusal reaches whoever reads the file and nobody else.
  */
 async function main(argv: readonly string[]): Promise<number> {
   const name = argv[0]

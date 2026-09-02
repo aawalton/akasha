@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { over, type Outcome } from "@akasha/verdict/outcome"
-import { AUDITS, auditFileStems, certified, died, registered, shortened, unrun } from "./audits.ts"
-import { argumentsIn } from "../../services/audits-watchdog.ts"
+import { auditFileStems, certified, died, registered, shortened, unrun } from "./audits.ts"
 
 const clean: Outcome = { name: "one", verdict: "pass", detail: "", messages: [] }
 
@@ -54,7 +53,7 @@ test("a long message list is cut for drawing and states how many it held back", 
   const drawn = shortened(many, 10)
   expect(drawn.messages).toHaveLength(11)
   expect(drawn.messages[10]).toContain("15 further message(s)")
-  expect(drawn.messages[10]).toContain("--audit big")
+  expect(drawn.messages[10]).toContain("run-one.ts big")
 })
 
 test("cutting for drawing leaves the verdict and the detail untouched", () => {
@@ -66,25 +65,4 @@ test("cutting for drawing leaves the verdict and the detail untouched", () => {
 
 test("a short message list is handed back as it was", () => {
   expect(shortened({ ...clean, messages: ["a"] }, 10).messages).toEqual(["a"])
-})
-
-test("a name no audit carries is read as a name rather than dropped", () => {
-  const read = argumentsIn(["--audit", "no-such-audit"])
-  expect(typeof read).not.toBe("string")
-  expect(read).toMatchObject({ only: ["no-such-audit"] })
-  expect(AUDITS["no-such-audit"]).toBeUndefined()
-})
-
-test("--audit with nothing after it is refused rather than read as a whole run", () => {
-  expect(argumentsIn(["--audit"])).toContain("names no audit")
-  expect(argumentsIn(["--audit", "--json"])).toContain("names no audit")
-})
-
-test("a flag this does not take is refused rather than ignored", () => {
-  expect(argumentsIn(["--notify"])).toContain("not a flag this takes")
-})
-
-test("no flag reaching a phone is taken", () => {
-  expect(argumentsIn(["--notify"])).toContain("--notify")
-  expect(argumentsIn([])).toMatchObject({ only: [], json: false, list: false, full: false })
 })

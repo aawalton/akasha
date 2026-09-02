@@ -173,9 +173,10 @@ async function main(argv: readonly string[]): Promise<number> {
   //   drains. Two recipients cover a fault in one recipient's directory, but they share a writer,
   //   so they are one rung's worth of independence, not two.
   // 3 is the rung that shares nothing with them: this process exits non-zero and the unit goes
-  //   red. It needs no git, no store and no mailbox. `services/audits-watchdog.ts:52` records
-  //   that Alan asked for nothing to be pushed to his phone and that the unit going red is the
-  //   whole signal, so this is the sanctioned alarm rather than a consolation.
+  //   red. It needs no git, no store and no mailbox. Alan asked that nothing be pushed to his
+  //   phone and that the unit going red be the whole signal, at `ce38d83572`, so this is the
+  //   sanctioned alarm rather than a consolation. The two watchdogs that carried that same
+  //   arrangement were ablated on 2026-09-02; this rung is what is left of it.
   function deliver(to: string, content: string): string | null {
     const written = writeMessage({ to, from: alertFrom, warrant: "blocked", body: content })
     return written.kind === "written" ? null : written.detail

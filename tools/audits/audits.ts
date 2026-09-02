@@ -216,7 +216,7 @@ export const DRAWN = 10
  * This narrows what is DRAWN and nothing else: the verdict, the counts in the
  * detail line and the exit code are untouched, and the number held back is
  * stated beside the way to see them. A board that hid the count instead would
- * be the defect this watchdog stands against.
+ * be the defect this narrowing is against.
  */
 export function shortened(outcome: Outcome, limit: number = DRAWN): Outcome {
   const held = outcome.messages.length - limit
@@ -226,7 +226,7 @@ export function shortened(outcome: Outcome, limit: number = DRAWN): Outcome {
     messages: [
       ...outcome.messages.slice(0, limit),
       `… and ${held} further message(s), not drawn here. Run ` +
-        `\`bun services/audits-watchdog.ts --audit ${outcome.name.split(" ")[0]}\` for all of them.`,
+        `\`bun tools/audits/run-one.ts ${outcome.name.split(" ")[0]} --out <path>\` for all of them.`,
     ],
   }
 }
