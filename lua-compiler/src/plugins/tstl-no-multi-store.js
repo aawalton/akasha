@@ -57,6 +57,8 @@ function isInSafeContext(node) {
         return false;
     if (ts.isReturnStatement(parent))
         return true;
+    if (ts.isExpressionStatement(parent) && parent.expression === node)
+        return true;
     if (ts.isVariableDeclaration(parent) && parent.initializer === node) {
         return ts.isArrayBindingPattern(parent.name);
     }
