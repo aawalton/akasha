@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's inboxes stoplights and widget work.",
       workingMemory:
-        "Five answer and Alan sees the widget working. He has ruled two off — questions and texts — leaving three: email, tasks, temper-tasks. A lane holds that ablation. `bac3dee945` went live at `0e64cf9da1`, so a readout admitted to a group answers a stoplight whether or not a reading is kept; that lets the lane tell an incomplete ablation, where the readout disappears, from a missing reading, where an empty ring shows. What is owed is the ablation and three rings confirmed.",
+        "Three answer: email, tasks, temper-tasks. Measured through `answerStoplightsAdmittedBy` against the live store on 8787: `in group 3 | readings held 3 | STOPLIGHTS 3`, against 5 before. Questions and texts went at `fdee638096` with every reference, and `live-count` with them as the one readout it served. The reading script and route test went first at `e0015925ad`, since `akasha write` refuses a path outside `akasha/`. The relay unit is reinstalled at three runs. Owed is a widget build.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
