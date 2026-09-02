@@ -52,6 +52,19 @@ export const serviceWrapping = {
     },
     {
       invariantKind: "departure",
+      statement: "A code file the service reaches that does not parse is waited on for a minute.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file that is not code is waited on by nothing even where that file will not parse.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A code file still not parsing past that minute is run on as it is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Running this module's file wraps a command.",
     },
     {

@@ -1,7 +1,26 @@
 import { expect, test } from "bun:test"
-import { commandIn, entryIn, namedIn } from "./service-wrapping.module.code.ts"
+import { commandIn, entryIn, namedIn, unparsedIn } from "./service-wrapping.module.code.ts"
 
 const ROOT = "/home/one/repos/akasha"
+
+test("a code file that will not parse is waited on", () => {
+  expect(unparsedIn([`${ROOT}/a.ts`, `${ROOT}/b.tsx`, `${ROOT}/c.mts`, `${ROOT}/d.cts`])).toEqual([
+    `${ROOT}/a.ts`,
+    `${ROOT}/b.tsx`,
+    `${ROOT}/c.mts`,
+    `${ROOT}/d.cts`,
+  ])
+})
+
+test("a file that is not code and will not parse is waited on by nothing", () => {
+  expect(unparsedIn([`${ROOT}/a.json`, `${ROOT}/b.md`, `${ROOT}/c.css`, `${ROOT}/d.txt`])).toEqual(
+    []
+  )
+})
+
+test("a JSON file beside a code file leaves only the code file waited on", () => {
+  expect(unparsedIn([`${ROOT}/a.json`, `${ROOT}/b.ts`])).toEqual([`${ROOT}/b.ts`])
+})
 
 test("the command is what stands after the first double dash", () => {
   expect(commandIn(["--also", "x", "--", "bun", "a.ts"])).toEqual(["bun", "a.ts"])

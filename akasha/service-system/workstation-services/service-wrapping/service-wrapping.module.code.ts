@@ -35,6 +35,14 @@ export function rootOf(): string {
   return stated === undefined || stated === "" ? process.cwd() : stated
 }
 
+const CODE_FILE = /\.(ts|tsx|mts|cts)$/
+const PARSE_CEILING_MS = 60_000
+const PARSE_POLL_MS = 1_000
+
+export function unparsedIn(unscanned: readonly string[]): readonly string[] {
+  return unscanned.filter((at) => CODE_FILE.test(at))
+}
+
 export async function wrapping(given: Wrapping): Promise<number> {
   const entryRel = entryIn(given.command)
   if (entryRel === null) {
@@ -49,7 +57,27 @@ export async function wrapping(given: Wrapping): Promise<number> {
   const under = (at: string): string => at.replace(`${root}/`, "")
 
   const own = localClosure(resolve(root, OWN_ENTRY), root)
-  const service = localClosure(resolve(root, entryRel), root)
+  let service = localClosure(resolve(root, entryRel), root)
+  let unparsed = unparsedIn(service.unscanned)
+
+  if (unparsed.length > 0) {
+    const waitedOn = namedIn(unparsed, root)
+    const seconds = PARSE_CEILING_MS / 1_000
+    process.stderr.write(
+      `${says} ${waitedOn} does not parse, so it is waited on for up to ${seconds}s\n`
+    )
+    const until = Date.now() + PARSE_CEILING_MS
+    while (unparsed.length > 0 && Date.now() < until) {
+      await Bun.sleep(PARSE_POLL_MS)
+      service = localClosure(resolve(root, entryRel), root)
+      unparsed = unparsedIn(service.unscanned)
+    }
+    process.stderr.write(
+      unparsed.length === 0
+        ? `${says} ${waitedOn} parses now, so what it imports is followed\n`
+        : `${says} ${waitedOn} still does not parse, so it is run on as it is\n`
+    )
+  }
 
   for (const at of service.unscanned) {
     process.stderr.write(
