@@ -3,7 +3,9 @@ id: aade7c2e-69cc-573e-ba0d-73229b432652
 page-type-slug: page-type
 title: "ESO daily tracking"
 extends-slug: page
-files: akasha:**/*.eso-daily-tracking.md
+files:
+  - akasha:**/*.eso-daily-tracking.md
+  - akasha:akasha/alan/eso-daily-tracking/**/*.eso-daily-tracking.ts
 body-shape-slug: empty
 slug: eso-daily-tracking
 domain-parent-slug: domain/alan-harness-tracking-store-page
