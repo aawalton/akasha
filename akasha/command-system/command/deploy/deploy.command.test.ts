@@ -15,16 +15,16 @@ function given(root: string): Given {
 
 const HERE = given(WORLD.root)
 
-test("a call naming no web app is refused as the caller's fault", async () => {
+test("a call naming no app is refused as the caller's fault", async () => {
   const answer = await deploy([], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("name the web app")
+  expect(answer.refusals[0]).toContain("name the app")
 })
 
-test("a call naming two web apps is refused rather than chosen between", async () => {
+test("a call naming two apps is refused rather than chosen between", async () => {
   const answer = await deploy(["one-web", "two-web"], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("one web app")
+  expect(answer.refusals[0]).toContain("one app")
   expect(answer.refusals[0]).toContain("one-web, two-web")
 })
 
@@ -34,19 +34,21 @@ test("a flag this command does not take is refused by name", async () => {
   expect(answer.refusals[0]).toContain("`--again`")
 })
 
-test("a slug no web app page carries is refused as the data's fault", async () => {
-  const answer = await deploy(["no-such-web-app-stands-here"], HERE)
+test("a slug no app page of either kind carries is refused as the data's fault", async () => {
+  const answer = await deploy(["no-such-app-here"], HERE)
   expect(answer.code).toBe(2)
-  expect(answer.refusals[0]).toContain("no-such-web-app-stands-here")
+  expect(answer.refusals[0]).toContain("no-such-app-here")
+  expect(answer.refusals[0]).toContain("web app")
+  expect(answer.refusals[0]).toContain("ios app")
 })
 
-test("a web app leaving which workload is meant unsettled is refused", async () => {
+test("an app leaving which workload is meant unsettled is refused", async () => {
   const answer = await deploy(["two-web"], HERE)
   expect(answer.code).toBe(2)
   expect(answer.refusals[0]).toContain("unsettled")
 })
 
 test("a refusal reaching no cluster reports nothing", async () => {
-  const answer = await deploy(["no-such-web-app-stands-here"], HERE)
+  const answer = await deploy(["no-such-app-here"], HERE)
   expect(answer.report).toEqual([])
 })
