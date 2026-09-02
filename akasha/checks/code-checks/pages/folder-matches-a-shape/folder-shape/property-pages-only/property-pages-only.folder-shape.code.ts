@@ -7,16 +7,19 @@ const PROPERTY = "page-property"
 const PROPERTIES = "properties"
 
 export function propertyPagesOnly(standing: Standing): readonly string[] {
-  if (standing.files.length === 0) return []
+  const named = basename(standing.folder)
+  const misnamed =
+    named === PROPERTIES ? [] : [`it is named \`${named}\` rather than \`${PROPERTIES}\``]
+  if (standing.files.length === 0) return misnamed
   const said: string[] = []
   if (standing.strays.length > 0) {
     said.push(
-      `${standing.strays.length} files are neither a page nor a file standing beside one: ${saidInside(standing.folder, standing.strays)}`
+      `${standing.strays.length} files are neither a page nor a file beside one: ${saidInside(standing.folder, standing.strays)}`
     )
   }
   if (standing.properties.length > 0) {
     said.push(
-      `${standing.properties.length} files stand beside a page, and a property page carries no file of its own: ${saidInside(standing.folder, standing.properties)}`
+      `${standing.properties.length} files sit beside a page, and a property page carries no file of its own: ${saidInside(standing.folder, standing.properties)}`
     )
   }
   const other = standing.pages.filter(
@@ -28,7 +31,5 @@ export function propertyPagesOnly(standing: Standing): readonly string[] {
     )
   }
   if (standing.pages.length === 0 && said.length === 0) said.push("it holds no page")
-  const named = basename(standing.folder)
-  if (named !== PROPERTIES) said.push(`it is named \`${named}\` rather than \`${PROPERTIES}\``)
-  return said
+  return [...said, ...misnamed]
 }

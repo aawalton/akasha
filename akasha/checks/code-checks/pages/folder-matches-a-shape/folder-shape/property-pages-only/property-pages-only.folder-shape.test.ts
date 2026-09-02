@@ -50,12 +50,12 @@ test("a page whose type does not extend page-property is refused, and the reason
   expect(said[0]).toContain("held.module.ts")
 })
 
-test("a file standing beside a page is refused, because a property page carries no file", () => {
+test("a file beside a page is refused, because a property page carries no file", () => {
   const said = propertyPagesOnly(folder(["held.module.ts", "held.module.code.ts"]))
-  expect(said.some((each) => each.includes("stand beside a page"))).toBe(true)
+  expect(said.some((each) => each.includes("sit beside a page"))).toBe(true)
 })
 
-test("a file that is neither a page nor stands beside one is refused", () => {
+test("a file that is neither a page nor sits beside one is refused", () => {
   const said = propertyPagesOnly(folder(["id.text-property.ts", "notes.txt"]))
   expect(said.some((each) => each.includes("notes.txt"))).toBe(true)
 })
@@ -67,6 +67,9 @@ test("a folder of property pages under any other name is refused, and the reason
   expect(said[0]).toContain("`properties`")
 })
 
-test("a folder holding no file at all takes the shape whatever it is named", () => {
-  expect(propertyPagesOnly(otherwise([]))).toHaveLength(0)
+test("a folder holding no file at all is refused under any other name", () => {
+  const said = propertyPagesOnly(otherwise([]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`props`")
+  expect(said[0]).toContain("`properties`")
 })

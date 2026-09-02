@@ -15,6 +15,14 @@ export const propertyPagesOnly = {
     },
     {
       invariantKind: "departure",
+      statement: "The name is judged before what the folder holds is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding no file of its own takes the shape under that name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page is a property where `page-property` is anywhere above its page type.",
     },
     {
