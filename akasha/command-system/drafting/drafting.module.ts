@@ -58,6 +58,14 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
+      statement: "The blobs a patch names are kept before the patch is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ref keeping blobs is taken away with the patch that names those blobs.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path that is no page is refused rather than drafted.",
     },
     {

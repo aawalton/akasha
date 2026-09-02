@@ -67,8 +67,28 @@ export const patching = {
       statement: "The scratch index is swept whether the patch was built or refused.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A blob a patch names is kept from git's pruning of unreachable objects.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ref over a tree of the bodies a patch leaves is what keeps those blobs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One ref keeps every blob one patch names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ref is named for the file the patch is kept in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deletion names no blob to keep.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking away a ref that was never there is no fault.",
     },
   ],
 } as const satisfies Module
