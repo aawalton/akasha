@@ -33,12 +33,10 @@ struct ClaudeUsageWidget: Widget {
 @main
 struct AlanWaltonWidgets: WidgetBundle {
     var body: some Widget {
-        ValuesStoplightsWidget()
         ClaudeUsageWidget()
         InboxStoplightsWidget()
         UpkeepStoplightsWidget()
         CategorizeWidget()
-        PersonaStoplightsWidget()
         SafetyLevelWidget()
         SurplusWidget()
     }
