@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "32 packages and 2,009 files remain under `temper/`. Ablation is the bottleneck and most already name a twin in `partSlugs`, so the question is how complete it is. The eight `-ui` packages are held out by one dependency rather than a rule: `@shared/auth`, three files, finding `57f3b4f31d`. A symbol census must normalise case and punctuation yet skip each module page const, or it calls a twin whole that is not.",
+        "32 packages and 2,009 files remain under `temper/`. Ablation is the bottleneck and most already name a twin in `partSlugs`, so the question is how complete it is. `shared/auth` is gone, yet the eight `-ui` packages are still held by 8 edges in 6 files onto three `@temper` packages: finding `4e64eb556d`. A symbol census must normalise case and punctuation yet skip each module page const, or it calls a twin whole that is not.",
     },
   ],
   constraints: [
