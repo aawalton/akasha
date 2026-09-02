@@ -1,4 +1,4 @@
-import "@akasha/design-system/styles.css"
+import "./temper-web-look/temper-web-look.stylesheet.styles.css"
 import {
   type LayoutLinkProps,
   LayoutLinkProvider,
