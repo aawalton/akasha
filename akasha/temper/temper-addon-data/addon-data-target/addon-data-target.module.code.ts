@@ -15,13 +15,6 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     parts: 1,
   },
   {
-    rendered: "antiquity-data.generated.ts",
-    workspacePackage: "temper-player-completion",
-    moduleSlug: "completion-antiquity-data",
-    partPrefix: "completion-antiquity-data",
-    parts: 6,
-  },
-  {
     rendered: "cadwell-data.generated.ts",
     workspacePackage: "temper-player-completion",
     moduleSlug: "completion-cadwell-data",
@@ -146,13 +139,6 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     moduleSlug: "potion-restore-resolve",
     partPrefix: "potion-restore-resolve",
     parts: 1,
-  },
-  {
-    rendered: "quest-data.generated.ts",
-    workspacePackage: "temper-player-completion",
-    moduleSlug: "completion-quest-data",
-    partPrefix: "completion-quest-data",
-    parts: 9,
   },
   {
     rendered: "scribing-mappings.generated.ts",
@@ -363,13 +349,6 @@ export const ADDON_DATA_TARGETS: readonly AddonDataTarget[] = [
     moduleSlug: "weapon-types-data",
     partPrefix: "weapon-types-data",
     parts: 1,
-  },
-  {
-    rendered: "trait-research-data.generated.ts",
-    workspacePackage: "temper-player-completion",
-    moduleSlug: "completion-trait-research-data",
-    partPrefix: "completion-trait-research-data",
-    parts: 3,
   },
   {
     rendered: "tribute-data.generated.ts",
