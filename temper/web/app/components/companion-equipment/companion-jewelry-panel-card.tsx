@@ -30,11 +30,11 @@ import {
   companionTraits,
 } from "@akasha/temper-companions-core/companion-traits"
 import type { CompanionJewelrySlotItem } from "@akasha/temper-companions-core/companion-types"
-import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import {
   getQualityClassName,
   getQualityVariant,
-} from "@temper/game-companions-ui/companion-equipment-quality-helpers"
+} from "@akasha/temper-companions-ui/companion-quality-rules"
+import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import { useMemo } from "react"
 import { BulkEditTag } from "./companion-bulk-edit-tag"
 import type { CompanionEquipmentPanelProps } from "./companion-equipment-panel-types"

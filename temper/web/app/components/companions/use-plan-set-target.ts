@@ -7,12 +7,12 @@ import {
 } from "@akasha/temper-build-metadata/build-metadata"
 import { decodeCompanion, encodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
-import type { useCompletionCompanions } from "@akasha/temper-player-completion-ui/use-completion"
 import {
   type useAllCompanionList,
   useCompanionLifecycle,
-} from "@temper/game-companions-ui/use-companions"
+} from "@akasha/temper-companions-ui/use-companions"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
+import type { useCompletionCompanions } from "@akasha/temper-player-completion-ui/use-completion"
 import { useCallback, useState, useTransition } from "react"
 
 interface UsePlanSetTargetArgs {

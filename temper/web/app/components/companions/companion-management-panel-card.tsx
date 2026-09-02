@@ -1,12 +1,21 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@akasha/design-primitives/alert-dialog"
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "@akasha/design-primitives/alert-dialog"
 import { Button } from "@akasha/design-primitives/button"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { useCompanion } from "@temper/game-companions-ui/use-companions"
+import { useCompanion } from "@akasha/temper-companions-ui/use-companions"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useState } from "react"
 import { toast } from "sonner"

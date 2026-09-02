@@ -1,8 +1,11 @@
 "use client"
 
-import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
-import { bulkUpdateAllCompanionQualities, bulkUpdateAllCompanionTraits } from "@akasha/temper-companions-core/companion-bulk-update-equipment"
+import {
+  bulkUpdateAllCompanionQualities,
+  bulkUpdateAllCompanionTraits,
+} from "@akasha/temper-companions-core/companion-bulk-update-equipment"
 import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import { LEGENDARY_QUALITY_OPTIONS } from "@akasha/temper-companions-core/companion-equipment-quality-rules"
 import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
@@ -10,10 +13,13 @@ import {
   type CompanionTraitId,
   companionTraits,
 } from "@akasha/temper-companions-core/companion-traits"
+import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { companionWeaponSlots } from "@akasha/temper-companions-core/companion-weapon-slots"
 import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
-import { getQualityClassName, getQualityVariant } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
-import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import {
+  getQualityClassName,
+  getQualityVariant,
+} from "@akasha/temper-companions-ui/companion-quality-rules"
 import { useMemo } from "react"
 import { BulkEditTag } from "./companion-bulk-edit-tag"
 
