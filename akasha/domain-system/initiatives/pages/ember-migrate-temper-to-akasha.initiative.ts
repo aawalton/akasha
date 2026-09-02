@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "10 packages and 583 files remain under `temper/`, from 38 and 2,291. `web` at 357 crosses last; its 21 remaining completion edges across 4 files are held by 12 transforms that gained catalog parameters the akasha catalogs answer as pages rather than as tables. `player-completion-addon` came down at 29d5251309 with no package of its own: its behaviour was already twinned across two akasha packages, so an absent twin package is not an absent twin. `scripts` at 57 is seated on the watcher handlers.",
+        "6 packages and 554 files remain under `temper/`, from 38 and 2,291: web 357, player-completion 85, scripts 57, keybinder-addon 21, player-economics-ui 21, catalog-addon 13. `akasha temper-addon-typecheck` reads 49 of 49 at 0 errors; the roster halt went with the quests package. Before ablating, ask git what tests an earlier commit deleted from the legacy package: weighing a twin against the legacy tip hides them and licenses the removal.",
     },
   ],
   constraints: [
