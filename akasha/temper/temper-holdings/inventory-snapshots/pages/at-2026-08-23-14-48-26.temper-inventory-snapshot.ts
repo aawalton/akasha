@@ -1,0 +1,12 @@
+import type { TemperInventorySnapshot } from "../temper-inventory-snapshot.page-type.ts"
+
+export const at20260823144826 = {
+  id: "01a05fd0-b482-795b-b267-71d6a739a13a",
+  pageTypeSlug: "temper-inventory-snapshot",
+  slug: "at-2026-08-23-14-48-26",
+  title: "2026-08-23T14:48:26.000Z",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  capturedAt: "2026-08-23T14:48:26.000Z",
+  totalValue: 517603900.3236002,
+  chunkCount: 3,
+} as const satisfies TemperInventorySnapshot
