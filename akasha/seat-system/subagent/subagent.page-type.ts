@@ -1,12 +1,10 @@
-import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { AssignmentSlug } from "../seat/properties/assignment-slug.text-property.ts"
+import type { Agent } from "../agent/agent.page-type.ts"
 import type { PrincipalSeatName } from "../seat/properties/principal-seat-name.relation-property.ts"
 import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"
 
-export type Subagent = Page & {
+export type Subagent = Agent & {
   principalSeatName: PrincipalSeatName
-  assignmentSlug: AssignmentSlug
   dispatchedAs: DispatchedAs
 }
 
@@ -16,12 +14,11 @@ export const subagent = {
   slug: "subagent",
   definition: "an agent a seat runs with the Agent tool",
   pluralSlug: "subagents",
-  extendsSlug: "page-type/page",
+  extendsSlug: "page-type/agent",
   mortal: true,
   partSlugs: ["text-property/dispatched-as"],
   properties: [
     { pagePropertySlug: "principal-seat-name", required: true, many: false },
-    { pagePropertySlug: "assignment-slug", required: true, many: false },
     { pagePropertySlug: "dispatched-as", required: true, many: false },
   ],
   invariants: [
@@ -49,6 +46,11 @@ export const subagent = {
     {
       invariantKind: "departure",
       statement: "The id a subagent runs under is the part of its slug after its seat's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent's own id is minted rather than taken from the id the subagent acts under.",
     },
     {
       invariantKind: "departure",

@@ -1,21 +1,17 @@
 import type { PersonaSlug } from "@akasha/domain-system/persona-slug"
-import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { AssignmentSlug } from "./properties/assignment-slug.text-property.ts"
+import type { Agent } from "../agent/agent.page-type.ts"
 import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uuid.text-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
-import type { PrincipalSeatName } from "./properties/principal-seat-name.relation-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
 import type { RoleSlug } from "./properties/role-slug.relation-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
 
-export type Seat = Page & {
+export type Seat = Agent & {
   personaSlug: PersonaSlug
-  assignmentSlug: AssignmentSlug
   roleSlug: RoleSlug
   personSlug?: PersonSlug
-  principalSeatName?: PrincipalSeatName
   startMode: StartMode
   onCall: OnCall
   registrationAccount: RegistrationAccount
@@ -28,7 +24,7 @@ export const seat = {
   slug: "seat",
   definition: "a place an agent works from",
   pluralSlug: "seats",
-  extendsSlug: "page-type/page",
+  extendsSlug: "page-type/agent",
   mortal: true,
   partSlugs: [
     "boolean-property/live-child",
@@ -48,9 +44,7 @@ export const seat = {
     "record-property/request",
     "record-property/turn-pending",
     "relation-property/person-slug",
-    "relation-property/principal-seat-name",
     "relation-property/requested-action",
-    "text-property/assignment-slug",
     "text-property/claude-code-session-uuid",
     "text-property/context-replaced-source",
     "text-property/interrupt-message",
@@ -64,15 +58,8 @@ export const seat = {
   ],
   properties: [
     { pagePropertySlug: "persona-slug", required: true, many: false, default: "claude" },
-    {
-      pagePropertySlug: "assignment-slug",
-      required: true,
-      many: false,
-      default: "domain/akasha-system",
-    },
     { pagePropertySlug: "role-slug", required: true, many: false, default: "worker" },
     { pagePropertySlug: "person-slug", required: false, many: false },
-    { pagePropertySlug: "principal-seat-name", required: false, many: false },
     { pagePropertySlug: "start-mode", required: true, many: false },
     { pagePropertySlug: "on-call", required: true, many: false },
     { pagePropertySlug: "registration-account", required: true, many: false },

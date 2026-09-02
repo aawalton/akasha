@@ -7,6 +7,7 @@ export const seatSystem = {
   definition: "a place an agent works from, and what stands there while it does",
   manifest: "json",
   partSlugs: [
+    "page-type/agent",
     "page-type/seat",
     "page-type/subagent",
     "page-type/supervisor-action",
@@ -62,10 +63,6 @@ export const seatSystem = {
     {
       invariantKind: "departure",
       statement: "A seat's id is the agent's id.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What an agent has read is found by the seat the agent works from.",
     },
     {
       invariantKind: "constraint",
