@@ -1,10 +1,12 @@
 import { getPage } from "@akasha/pages-access/get"
 import { collectPages } from "@akasha/pages-access/iterate"
+import { decodeBuild } from "@akasha/temper-build-codec/build-codec"
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import {
   resolveCharacterToggles,
   resolveCompanionToggles,
 } from "@akasha/temper-build-support/automation-settings"
+import { decodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import {
   compileWantedCompanionEquipmentForBuild,
@@ -14,8 +16,6 @@ import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
 } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
-import { decodeBuild } from "@temper/game-codec/character/build-codec"
-import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
 
 export async function readCharactersWithTargetBuilds(userId: string): Promise<
   Array<{
