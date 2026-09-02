@@ -4,7 +4,7 @@ export const anEarnedColorIsCarriedOnThePagesAndReachesNoWire = {
   id: "01a06230-b156-77de-b63d-ecd6de4b9bec",
   pageTypeSlug: "finding",
   slug: "an-earned-color-is-carried-on-the-pages-and-reaches-no-wire",
-  domainSlug: "domain/inboxes",
+  domainSlug: "domain/inbox",
   claim:
     "Two of Alan's inbox readouts name the fact that earns a color, and the daily-inbox scale names the color earned, and nothing between the reading and the tile carries whether the fact was true. Alan clearing an inbox to zero and then filling it again reads as the count it now holds rather than as the green he earned for clearing it.",
   evidence:
