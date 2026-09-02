@@ -333,6 +333,7 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     cadwellLevelPages,
     craftTypePages,
     researchLinePages,
+    collectibleCategoryPages,
     affixScriptPages,
     alliancePages,
     armorEnchantPages,
