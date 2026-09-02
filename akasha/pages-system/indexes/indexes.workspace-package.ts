@@ -66,11 +66,6 @@ export const indexes = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A caller is answered or refused rather than reading a missing index as an index naming no page.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A caller outside spells no directory the index files under.",
     },
     {
