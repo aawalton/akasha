@@ -9,6 +9,23 @@ import { minedLua } from "./mined-data-parse.module.test-fixtures.ts"
 
 const READ_ALL = minedLua([{ id: 700001 }, { id: 700002 }, { id: 700003 }], [800001, 800002])
 
+const ONE = minedLua([{ id: 700001 }])
+
+test("the fixture writes the file the game writes: CRLF lines and bare integer keys", () => {
+  expect(ONE.includes("\n") && !ONE.includes("\r")).toBe(false)
+  expect(ONE).toContain('["items"] = \r\n')
+  expect(ONE).toContain("[700001] = \r\n")
+  expect(ONE).not.toContain('["700001"]')
+})
+
+test("the set-bonus members are written as a numeric-keyed table in hash order", () => {
+  const memberKey = /^ {28}\[(\d+)\] = \r$/
+  const order = ONE.split("\n")
+    .map((line) => memberKey.exec(line)?.[1])
+    .filter((key) => key !== undefined)
+  expect(order).toEqual(["4", "1", "2", "3"])
+})
+
 test("the siblings are read through the Default, account and account-wide envelope", () => {
   const accountWide = readMinedAccountWide(READ_ALL)
   expect(accountWide.version).toBe(1)
