@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperHoldingsThing } from "../temper-holdings-thing.page-type.ts"
+import type { TemperHoldingsThing } from "../temper-holdings-things/temper-holdings-thing.page-type.ts"
 import type { Snapshots } from "./properties/snapshots.page-property-entry.ts"
 
 export type TemperNetWorthDay = TemperHoldingsThing & {

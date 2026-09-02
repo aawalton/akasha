@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperHoldingsThing } from "../temper-holdings-thing.page-type.ts"
+import type { TemperHoldingsThing } from "../temper-holdings-things/temper-holdings-thing.page-type.ts"
 import type { ChunkCount } from "./properties/chunk-count.number-property.ts"
 
 export type TemperInventorySnapshot = TemperHoldingsThing & {

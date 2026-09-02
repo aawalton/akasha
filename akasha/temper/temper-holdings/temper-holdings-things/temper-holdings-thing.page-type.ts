@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { CapturedAt } from "../temper-catalog/temper-world/properties/captured-at.instant-property.ts"
-import type { TemperThing } from "../temper-thing.page-type.ts"
+import type { CapturedAt } from "../../temper-catalog/temper-world/properties/captured-at.instant-property.ts"
+import type { TemperThing } from "../../temper-thing.page-type.ts"
 import type { TotalValue } from "./properties/total-value.number-property.ts"
 
 export type TemperHoldingsThing = TemperThing & {
