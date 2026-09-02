@@ -178,12 +178,6 @@
       "path": "./temper/catalog-cli"
     },
     {
-      "path": "./temper/catalog-host"
-    },
-    {
-      "path": "./temper/game-navigation-capture-host"
-    },
-    {
       "path": "./temper/game-items-filters-core"
     },
     {

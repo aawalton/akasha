@@ -13,7 +13,7 @@ import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
 import {
   type AccountSummary,
   readAccountSummaries,
-} from "@temper/catalog-host/saved-variables-reader"
+} from "@akasha/temper-catalog-host/saved-variables-reader"
 
 export type { AccountSummary, SideFile }
 

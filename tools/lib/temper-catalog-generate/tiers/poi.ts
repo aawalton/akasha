@@ -1,5 +1,5 @@
 
-import { poiCatalogSchema } from "@temper/game-navigation-capture-host/poi-catalog-schema"
+import { poiCatalogSchema } from "@akasha/temper-game-navigation-capture-host/poi-catalog-schema"
 import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
 

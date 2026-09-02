@@ -17,6 +17,8 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
+        "@akasha/temper-catalog-host": "workspace:*",
+        "@akasha/temper-game-navigation-capture-host": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -48,7 +50,6 @@
         "@stories/text": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "@temper/catalog-cli": "workspace:*",
-        "@temper/catalog-host": "workspace:*",
         "@temper/player-quests-addon-cli": "workspace:*",
         "@temper/shared-build-deploy-addons-resolve": "workspace:*",
         "@temper/shared-build-deploy-community-addons": "workspace:*",
@@ -390,6 +391,12 @@
     },
     "akasha/health-samples-access": {
       "name": "@akasha/health-samples-access",
+      "dependencies": {
+        "@akasha/day": "workspace:*",
+        "@akasha/file-system": "workspace:*",
+        "@akasha/pages-system": "workspace:*",
+        "@akasha/utils-fs": "workspace:*",
+      },
     },
     "akasha/health-samples-day": {
       "name": "@akasha/health-samples-day",
@@ -729,6 +736,14 @@
     "akasha/temper/temper-catalog-core": {
       "name": "@akasha/temper-catalog-core",
     },
+    "akasha/temper/temper-catalog-host": {
+      "name": "@akasha/temper-catalog-host",
+      "dependencies": {
+        "@akasha/temper-saved-variables": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/temper/temper-champion-points": {
       "name": "@akasha/temper-champion-points",
       "dependencies": {
@@ -829,6 +844,14 @@
     },
     "akasha/temper/temper-game-crafting-capture-host": {
       "name": "@akasha/temper-game-crafting-capture-host",
+      "dependencies": {
+        "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "akasha/temper/temper-game-navigation-capture-host": {
+      "name": "@akasha/temper-game-navigation-capture-host",
       "dependencies": {
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
@@ -1923,19 +1946,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/catalog-host": {
-      "name": "@temper/catalog-host",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-saved-variables": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-characters": {
       "name": "@temper/game-characters",
       "version": "0.1.0",
@@ -2622,19 +2632,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-navigation-capture-host": {
-      "name": "@temper/game-navigation-capture-host",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-trading-addon": {
       "name": "@temper/game-trading-addon",
       "version": "0.1.0",
@@ -2995,7 +2992,6 @@
         "@temper/game-items-rules-matcher": "workspace:*",
         "@temper/game-items-rules-routing": "workspace:*",
         "@temper/game-items-rules-routing-core": "workspace:*",
-        "@temper/game-navigation-capture-host": "workspace:*",
         "@temper/game-trading-core": "workspace:*",
         "@temper/game-trading-pricing": "workspace:*",
         "@temper/game-trading-pricing-client": "workspace:*",
@@ -3837,6 +3833,8 @@
 
     "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:akasha/temper/temper-catalog-core"],
 
+    "@akasha/temper-catalog-host": ["@akasha/temper-catalog-host@workspace:akasha/temper/temper-catalog-host"],
+
     "@akasha/temper-champion-points": ["@akasha/temper-champion-points@workspace:akasha/temper/temper-champion-points"],
 
     "@akasha/temper-classes": ["@akasha/temper-classes@workspace:akasha/temper/temper-classes"],
@@ -3866,6 +3864,8 @@
     "@akasha/temper-game-completion-capture-host": ["@akasha/temper-game-completion-capture-host@workspace:akasha/temper/temper-game-completion-capture-host"],
 
     "@akasha/temper-game-crafting-capture-host": ["@akasha/temper-game-crafting-capture-host@workspace:akasha/temper/temper-game-crafting-capture-host"],
+
+    "@akasha/temper-game-navigation-capture-host": ["@akasha/temper-game-navigation-capture-host@workspace:akasha/temper/temper-game-navigation-capture-host"],
 
     "@akasha/temper-inventory-automation": ["@akasha/temper-inventory-automation@workspace:akasha/temper/temper-inventory-automation"],
 
@@ -4567,8 +4567,6 @@
 
     "@temper/catalog-cli": ["@temper/catalog-cli@workspace:temper/catalog-cli"],
 
-    "@temper/catalog-host": ["@temper/catalog-host@workspace:temper/catalog-host"],
-
     "@temper/game-characters": ["@temper/game-characters@workspace:temper/game-characters"],
 
     "@temper/game-characters-capture-addon": ["@temper/game-characters-capture-addon@workspace:temper/game-characters-capture-addon"],
@@ -4664,8 +4662,6 @@
     "@temper/game-navigation-addon": ["@temper/game-navigation-addon@workspace:temper/game-navigation-addon"],
 
     "@temper/game-navigation-capture-addon": ["@temper/game-navigation-capture-addon@workspace:temper/game-navigation-capture-addon"],
-
-    "@temper/game-navigation-capture-host": ["@temper/game-navigation-capture-host@workspace:temper/game-navigation-capture-host"],
 
     "@temper/game-trading-addon": ["@temper/game-trading-addon@workspace:temper/game-trading-addon"],
 

@@ -37,7 +37,6 @@
     "@temper/game-items-rules-matcher": "workspace:*",
     "@temper/game-items-rules-routing": "workspace:*",
     "@temper/game-items-rules-routing-core": "workspace:*",
-    "@temper/game-navigation-capture-host": "workspace:*",
     "@temper/game-trading-core": "workspace:*",
     "@temper/game-trading-pricing": "workspace:*",
     "@temper/game-trading-pricing-client": "workspace:*",
