@@ -2,5 +2,8 @@
   "name": "@akasha/editor-extension",
   "private": true,
   "type": "module",
-  "exports": {}
+  "exports": {
+    "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
+    "./work-initiatives": "./work-initiatives/work-initiatives.module.code.ts"
+  }
 }
