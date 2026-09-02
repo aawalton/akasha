@@ -1,6 +1,6 @@
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { argvFor, said as gitSaid } from "@akasha/git/git-running"
+import { argvFor, said as gitSaid, told as gitTold } from "@akasha/git/git-running"
 import { said as ranSaid } from "@akasha/utils-run/running"
 import { bodyRead } from "../differing/differing.module.code.ts"
 import { SCRATCH_AT } from "../scratching/scratching.module.code.ts"
@@ -8,6 +8,7 @@ import { SCRATCH_AT } from "../scratching/scratching.module.code.ts"
 const ZERO = "0000000000000000000000000000000000000000"
 const MODE = "100644"
 const PREFIX = "akasha-patch-index-"
+const KEPT = "refs/akasha/patch"
 
 export type Change = {
   readonly path: string
@@ -106,4 +107,28 @@ export function bodyOf(root: string, blob: string): string | null {
   if (blob === ZERO) return null
   const held = bodyRead(root, blob)
   return held === null ? null : new TextDecoder().decode(held)
+}
+
+function refFor(at: string): string {
+  return `${KEPT}/${at}`
+}
+
+export function keepBlobs(root: string, at: string, patch: string): undefined {
+  const world = mkdtempSync(join(SCRATCH_AT, PREFIX))
+  try {
+    const index = join(world, "index")
+    for (const [path, blobs] of blobsIn(patch)) {
+      if (deleted(blobs)) continue
+      const named = `${MODE},${blobs.result},${path}`
+      indexed(root, ["update-index", "--add", "--cacheinfo", named], index)
+    }
+    const tree = indexed(root, ["write-tree"], index).trim()
+    gitSaid(root, ["update-ref", refFor(at), tree])
+  } finally {
+    rmSync(world, { recursive: true, force: true })
+  }
+}
+
+export function dropBlobs(root: string, at: string): undefined {
+  gitTold(root, ["update-ref", "-d", refFor(at)])
 }
