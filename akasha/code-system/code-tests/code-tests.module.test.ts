@@ -5,6 +5,7 @@ import {
   mkdirSync,
   readFileSync,
   realpathSync,
+  symlinkSync,
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
@@ -196,7 +197,7 @@ check("a path answered by no body is not written into the world", () => {
   }
 })
 
-check("a world carries the index, what a run is configured by, and a link to the modules", () => {
+check("a world carries the index, what a run is configured by, and the modules", () => {
   const from = repo({})
   linesFiled(from, "held.jsonl", [{}])
   mkdirSync(join(from, "node_modules"), { recursive: true })
@@ -205,7 +206,56 @@ check("a world carries the index, what a run is configured by, and a link to the
   try {
     expect(readingIn(world.root).lines("held.jsonl")).toEqual(["{}"])
     for (const one of CARRIED) expect(existsSync(join(world.root, one))).toBe(true)
-    expect(lstatSync(join(world.root, "node_modules")).isSymbolicLink()).toBe(true)
+    expect(lstatSync(join(world.root, "node_modules")).isDirectory()).toBe(true)
+  } finally {
+    world.sweep()
+  }
+})
+
+function installed(from: string, named: string, at: string | null): undefined {
+  const to = join(from, "node_modules", named)
+  mkdirSync(dirname(to), { recursive: true })
+  if (at === null) {
+    mkdirSync(to, { recursive: true })
+    writeFileSync(join(to, "package.json"), '{"name":"third"}\n')
+    return
+  }
+  symlinkSync(join(from, at), to)
+}
+
+check("a package standing outside the tree is answered from the tree it was made from", () => {
+  const from = repo({})
+  installed(from, "third", null)
+  const world = worldOf(from, [], handing({}), null)
+  try {
+    const at = join(world.root, "node_modules/third")
+    expect(lstatSync(at).isSymbolicLink()).toBe(true)
+    expect(realpathSync(at)).toBe(join(from, "node_modules/third"))
+  } finally {
+    world.sweep()
+  }
+})
+
+check("a package standing inside the tree is answered from the world holding it", () => {
+  const from = repo({ "held/package.json": '{"name":"@akasha/held"}\n' })
+  installed(from, "@akasha/held", "akasha/held")
+  const named = ["akasha/held/package.json"]
+  const world = worldOf(from, named, handing({ "akasha/held/package.json": "{}\n" }), null)
+  try {
+    const at = join(world.root, "node_modules/@akasha/held")
+    expect(realpathSync(at)).toBe(join(world.root, "akasha/held"))
+  } finally {
+    world.sweep()
+  }
+})
+
+check("a package standing inside the tree the world does not hold is answered by nothing", () => {
+  const from = repo({ "held/package.json": '{"name":"@akasha/held"}\n' })
+  installed(from, "@akasha/held", "akasha/held")
+  const world = worldOf(from, [], handing({}), null)
+  try {
+    expect(existsSync(join(world.root, "node_modules/@akasha/held"))).toBe(false)
+    expect(existsSync(join(world.root, "node_modules/@akasha"))).toBe(true)
   } finally {
     world.sweep()
   }

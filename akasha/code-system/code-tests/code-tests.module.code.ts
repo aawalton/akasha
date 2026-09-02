@@ -10,7 +10,7 @@ import {
   symlinkSync,
   writeFileSync,
 } from "node:fs"
-import { dirname, join, relative, sep } from "node:path"
+import { dirname, isAbsolute, join, relative, sep } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { filedInto } from "@akasha/indexes/indexing"
 import type { Filing } from "@akasha/indexes/shape"
@@ -46,6 +46,8 @@ const INDEX = indexNamed()
 const MODULES = "node_modules"
 
 const SCOPE = "@"
+
+const OUT = ".."
 
 const MANIFEST = "package.json"
 
@@ -142,59 +144,46 @@ export function verdictOf(code: number, output: string, expected: number): Verdi
   return said.failed === 0 ? "pass" : "fail"
 }
 
-function topOf(path: string): string | null {
-  const first = path.split(sep)[0]
-  if (first === undefined || first === "" || first === path) return null
-  return first
+function withinOf(real: string, at: string): string | null {
+  const inside = relative(real, realpathSync(at))
+  if (inside === "" || inside.startsWith(OUT) || isAbsolute(inside)) return null
+  return inside.split(sep)[0] === MODULES ? null : inside
 }
 
-function copyIn(
-  from: string,
+function linkedInto(
+  real: string,
   root: string,
-  standing: ReadonlySet<string>,
-  at: string
-): string | null {
-  if (!existsSync(at)) return null
-  const inside = relative(from, realpathSync(at))
-  const top = topOf(inside)
-  if (top === null || !standing.has(top)) return null
-  const found = join(root, inside)
-  return existsSync(join(found, MANIFEST)) ? found : null
+  live: string,
+  into: string,
+  one: string
+): undefined {
+  const at = join(live, one)
+  if (!existsSync(at)) return
+  const inside = withinOf(real, at)
+  if (inside === null) {
+    symlinkSync(at, join(into, one))
+    return
+  }
+  const held = join(root, inside)
+  if (existsSync(join(held, MANIFEST))) symlinkSync(held, join(into, one))
 }
 
-function packagesIn(
-  from: string,
-  root: string,
-  standing: ReadonlySet<string>
-): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
+function modulesInto(from: string, root: string): undefined {
   const live = join(from, MODULES)
+  if (!existsSync(live)) return
   const real = realpathSync(from)
+  const into = join(root, MODULES)
+  mkdirSync(into, { recursive: true })
   for (const one of readdirSync(live)) {
-    const named = join(live, one)
     if (!one.startsWith(SCOPE)) {
-      const to = copyIn(real, root, standing, named)
-      if (to !== null) found.set(one, to)
+      linkedInto(real, root, live, into, one)
       continue
     }
-    if (!existsSync(named)) continue
-    for (const member of readdirSync(named)) {
-      const to = copyIn(real, root, standing, join(named, member))
-      if (to !== null) found.set(`${one}${sep}${member}`, to)
-    }
-  }
-  return found
-}
-
-function modulesInto(from: string, root: string, standing: ReadonlySet<string>): undefined {
-  if (!existsSync(join(from, MODULES))) return
-  symlinkSync(join(from, MODULES), join(root, MODULES))
-  for (const [named, to] of packagesIn(from, root, standing)) {
-    for (const one of standing) {
-      const at = join(root, one, MODULES, named)
-      mkdirSync(dirname(at), { recursive: true })
-      symlinkSync(to, at)
-    }
+    const scope = join(live, one)
+    if (!existsSync(scope)) continue
+    const under = join(into, one)
+    mkdirSync(under, { recursive: true })
+    for (const member of readdirSync(scope)) linkedInto(real, root, scope, under, member)
   }
 }
 
@@ -226,7 +215,6 @@ export function worldOf(
 ): World {
   const root = rootMade()
   try {
-    const tops = new Set<string>()
     for (const one of paths) {
       const bytes = reaching(root, `the body handed in for \`${one}\` would not be read`, () =>
         at(one)
@@ -237,8 +225,6 @@ export function worldOf(
         mkdirSync(dirname(to), { recursive: true })
         writeFileSync(to, bytes)
       })
-      const top = topOf(one)
-      if (top !== null) tops.add(top)
     }
     const index = join(from, INDEX)
     if (filed !== null && existsSync(index)) {
@@ -255,9 +241,7 @@ export function worldOf(
         reaching(root, `${held} would not be taken`, () => cpSync(held, join(root, one)))
       }
     }
-    reaching(root, `the modules under ${from} would not be linked`, () =>
-      modulesInto(from, root, tops)
-    )
+    reaching(root, `the modules under ${from} would not be linked`, () => modulesInto(from, root))
   } catch (thrown) {
     rmSync(root, { recursive: true, force: true })
     throw thrown

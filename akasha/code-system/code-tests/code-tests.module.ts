@@ -102,7 +102,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A world borrows a link to the modules imported from that tree.",
+      statement: "A world borrows a link to each module the world does not hold.",
     },
     {
       invariantKind: "departure",
@@ -123,8 +123,20 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A package standing outside that tree is answered from that tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change to that tree cannot move a package standing outside that tree.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A package the world does not hold is answered from the tree the world was made from.",
+        "A package standing inside that tree the world does not hold is answered by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package the folder of installed modules holds stands outside that tree.",
     },
     {
       invariantKind: "departure",
@@ -133,8 +145,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The packages a world answers sit under each directory the world was written into.",
+      statement: "The packages a world answers sit at the world's root.",
     },
     {
       invariantKind: "departure",
