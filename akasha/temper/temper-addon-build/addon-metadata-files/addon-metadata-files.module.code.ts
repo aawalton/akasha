@@ -85,6 +85,7 @@ export async function namedFilePathsIn(
   named: readonly string[]
 ): Promise<ReadonlyMap<string, string>> {
   const answer = new Map<string, string>()
+  const unreached: string[] = []
   let stated: ReadonlyMap<string, string> | null = null
   for (const one of named) {
     if (answer.has(one)) continue
@@ -101,12 +102,16 @@ export async function namedFilePathsIn(
     stated ??= await loadedDocumentPathsIn(dir)
     const held = stated.get(one)
     if (held === undefined) {
-      const names = [...stated.keys()]
-      throw new Error(
-        `namedFilePathsIn: the manifest in ${dir} loads "${one}", and no file of that name is beside the page or under ${GAME_METADATA_DIR}/, and no page there is loaded as that name (${names.length === 0 ? "no page there is loaded as any name" : names.join(", ")})`
-      )
+      unreached.push(one)
+      continue
     }
     answer.set(one, held)
+  }
+  if (unreached.length > 0) {
+    const names = [...(stated ?? new Map()).keys()]
+    throw new Error(
+      `namedFilePathsIn: the manifest in ${dir} loads ${String(unreached.length)} file(s) nothing there holds (${unreached.join(", ")}); none is beside the page, none is under ${GAME_METADATA_DIR}/, and the pages beside it are loaded as ${names.length === 0 ? "no name at all" : names.join(", ")}`
+    )
   }
   return answer
 }
