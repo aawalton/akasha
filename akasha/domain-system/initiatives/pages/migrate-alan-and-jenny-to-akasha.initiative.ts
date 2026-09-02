@@ -31,7 +31,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "`pages-ui` stands in akasha.",
       workingMemory:
-        "`src` holds one file: `use-app-nav-items.tsx`. `media-server.ts` went at `7b84767250` with no importer, the registrar at `b67a9fd3c7`, and `serve-media.ts` at `4775d51c6b` — that one was never dead, so its four media routes were rewired to the akasha module first. `identifier-matches-its-place` blocks the last file: it reads a component off JSX nested inside `toNavItem` and a `useMemo`, so it asks for a component name where the hook rule asks for `use`. Four apps import it.",
+        "`shared/pages-ui/src` is gone. The check now reads a component off what a function answers with, `bbc3c1ded2`, and two renames at `6d191b5e19` held the repo-wide refusals at 80 either side. `use-app-nav-items` landed at `3456974975` under `pages-ui-components` rather than `pages-ui`, since `pages-ui` is already its dependency and the reverse would cycle; four app shells were repointed at `b033721784`. A husk is left: five config files, a workspaces entry, four dependency entries.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
