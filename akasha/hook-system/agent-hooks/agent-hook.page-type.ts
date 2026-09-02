@@ -80,25 +80,24 @@ export const agentHook = {
     },
     {
       invariantKind: "departure",
-      statement: "A runner of hooks calls `ran`.",
+      statement: "What a hook's code file does as a program is what `ran` does.",
     },
     {
       invariantKind: "departure",
-      statement: "A registration names a hook by its slug rather than by the path of its code.",
+      statement: "A registration names the path of a hook's code file.",
     },
     {
       invariantKind: "departure",
-      statement: "What that slug reaches is worked out at the call rather than at the spawn.",
+      statement: "The path a registration names is settled at the spawn rather than at the call.",
     },
     {
       invariantKind: "departure",
+      statement: "A move carrying a hook's code file rewrites the live settings documents too.",
+    },
+    {
+      invariantKind: "gap",
       statement:
-        "A registration naming a hook nothing reaches refuses the call rather than passing the call.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement:
-        "What works the registration out sits outside akasha until akasha answers for its own settings.",
+        "A registration naming a file nothing is at refuses the call rather than passing it.",
     },
   ],
   directives: [
