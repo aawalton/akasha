@@ -16,11 +16,15 @@ import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
+  barredIn,
   FILE_PATH,
   glassIn,
+  insideAkasha,
+  judgedByNothing,
   MESSAGE,
   MESSAGE_FILE,
   messageIn,
+  offRepo,
   pathAt,
 } from "../write/write.command.code.ts"
 import { leftNaming, leftNamingSaid } from "./remove-naming/remove-naming.module.code.ts"
@@ -30,14 +34,6 @@ import {
   workspacingFor,
   workspacingSaid,
 } from "./remove-workspacing/remove-workspacing.module.code.ts"
-
-const AKASHA = "akasha"
-
-const INSIDE = `${AKASHA}/`
-
-const GIT_DIR = ".git"
-
-const PARTED_BY = "/"
 
 const VALUED = [FILE_PATH, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
@@ -100,26 +96,6 @@ export function trackedUnder(root: string, path: string): readonly string[] | nu
   }
 }
 
-export function insideAkasha(path: string): boolean {
-  return path.startsWith(INSIDE)
-}
-
-export function barredIn(root: string, path: string): string | null {
-  if (path === GIT_DIR || path.startsWith(`${GIT_DIR}${PARTED_BY}`)) {
-    return (
-      `${path} is inside \`${GIT_DIR}/\`, which holds the repository itself rather than ` +
-      "anything the repository says"
-    )
-  }
-  if (path.includes(PARTED_BY)) return null
-  const at = join(root, path)
-  if (!existsSync(at) || !statSync(at).isDirectory()) return null
-  return (
-    `${path} is a folder at the top of the repository — name what is inside it, so no one call ` +
-    "takes a whole tree away by a slip of the keyboard"
-  )
-}
-
 type Opened = {
   readonly opened: readonly string[]
   readonly under: readonly string[]
@@ -140,10 +116,7 @@ function openedIn(
   for (const one of named) {
     const path = pathAt(root, one)
     if (path === null) {
-      refusals.push(
-        `\`${one}\` is no path inside the repository — a path is read against the repository ` +
-          "root, and this takes nothing from outside the repository"
-      )
+      refusals.push(offRepo(one))
       continue
     }
     const barred = barredIn(root, path)
@@ -190,14 +163,6 @@ function openedIn(
   }
   if (refusals.length > 0) return { refusals }
   return { opened, under, gone, outside }
-}
-
-function judgedByNothing(outside: readonly string[], dry: boolean): readonly string[] {
-  if (outside.length === 0) return []
-  return [
-    `no check judges a path outside \`${INSIDE}\`, so what these carry ` +
-      `${dry ? "would go" : "went"} unjudged — ${outside.join(", ")}`,
-  ]
 }
 
 export type Naming = {

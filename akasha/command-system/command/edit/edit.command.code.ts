@@ -24,15 +24,18 @@ import {
 } from "../../piping/piping.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
+  barredIn,
   besideTaken,
   defaultMessage,
   FILE_PATH,
   glassIn,
+  judgedByNothing,
   MESSAGE,
   MESSAGE_FILE,
   messageIn,
-  outside,
-  pathInside,
+  offRepo,
+  outsideOf,
+  pathAt,
   REMOVE,
   removingIn,
   unknownIn,
@@ -231,9 +234,14 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
   const unmoved: Held[] = []
   const seen = new Set<string>()
   for (const one of every.asking) {
-    const path = pathInside(given.root, one.path)
+    const path = pathAt(given.root, one.path)
     if (path === null) {
-      mistaken.push(outside(one.path))
+      mistaken.push(offRepo(one.path))
+      continue
+    }
+    const barred = barredIn(given.root, path)
+    if (barred !== null) {
+      mistaken.push(barred)
       continue
     }
     if (seen.has(path)) {
@@ -296,6 +304,7 @@ export function askedWith(argv: readonly string[], given: Given, piping: Piping)
     saying: (said) => [
       ...said.wrote.map((one) => `edited ${one}`),
       ...said.took.map((one) => `took away ${one}`),
+      ...judgedByNothing(outsideOf(changes), false),
     ],
   }
   return asked
@@ -315,7 +324,9 @@ export function editing(argv: readonly string[], given: Given, piping: Piping): 
       asked.changes.filter((one) => one.body === null).map((one) => one.path)
     )
   }
-  return answer
+  if (answer.code !== 0 || !asked.dryRun) return answer
+  const said = judgedByNothing(outsideOf(asked.changes), true)
+  return { ...answer, report: [...said, ...answer.report] }
 }
 
 export function edit(argv: readonly string[], given: Given): Answer {

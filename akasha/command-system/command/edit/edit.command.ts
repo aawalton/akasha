@@ -11,7 +11,7 @@ export const edit = {
   testFixtures: "ts",
   changeKindSlug: "change-authored",
   taking: [
-    { said: "--file-path <path>", takes: "the file under `akasha/` to change" },
+    { said: "--file-path <path>", takes: "the file to change, anywhere in the repository" },
     { said: "--old-file <file>", takes: "a file holding the passage to replace" },
     { said: "--new-file <file>", takes: "a file holding what that passage becomes" },
     { said: "--remove <path>", takes: "a path under `akasha/` to take away" },
@@ -28,6 +28,10 @@ export const edit = {
     "a passage piped in sits between <<<<<<< old and =======, and what it becomes before >>>>>>> new.",
     "the marker blocks repeat, and each is worked in the order stated.",
     "the files standing beside a path given to --remove go with it.",
+    "a path outside `akasha/` is changed too, and no check judges one, which the answer says.",
+    "a path outside `akasha/` is warranted by nothing, so no reading of it is owed.",
+    "a file has to be what this call read it as, wherever in the repository that file is.",
+    "--remove takes a path under `akasha/` alone — say `akasha remove` for one outside it.",
   ],
   invariants: [
     {
@@ -87,6 +91,39 @@ export const edit = {
     {
       invariantKind: "departure",
       statement: "A removal lands in the same commit as the substitutions.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path anywhere in the repository is changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path inside `.git` is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder at the top of the repository is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No check judges a path outside the `akasha` folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path no check judged is named in the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A substitution naming no passage is refused wherever the path is.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A path outside the `akasha` folder is warranted by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path outside the `akasha` folder is overwritten only from the body the writer read.",
     },
     {
       invariantKind: "gap",

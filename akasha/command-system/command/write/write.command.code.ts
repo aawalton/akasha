@@ -1,4 +1,5 @@
-import { isAbsolute, relative, resolve } from "node:path"
+import { existsSync, statSync } from "node:fs"
+import { isAbsolute, join, relative, resolve } from "node:path"
 import { changingOf, owedIn } from "@akasha/context-system/warranting"
 import { besideAll } from "@akasha/pages-system/page-beside"
 import {
@@ -32,6 +33,12 @@ export const REMOVE = "--remove"
 
 const AKASHA = "akasha"
 
+const INSIDE = `${AKASHA}/`
+
+const GIT_DIR = ".git"
+
+const PARTED_BY = "/"
+
 export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE = [DRY_RUN]
@@ -46,7 +53,7 @@ export function unwarrantedIn(
   return owedIn(
     given.root,
     given.agentId,
-    changes.map((one) => one.path),
+    changes.map((one) => one.path).filter(insideAkasha),
     changingOf(given.root, changes)
   )
 }
@@ -66,6 +73,45 @@ export function pathInside(root: string, said: string): string | null {
 
 export function outside(said: string): string {
   return `${said} is not under \`${AKASHA}/\`, and this writes nothing the checks do not address`
+}
+
+export function offRepo(said: string): string {
+  return (
+    `\`${said}\` is no path inside the repository — a path is read against the repository root, ` +
+    "and this takes nothing from outside the repository"
+  )
+}
+
+export function insideAkasha(path: string): boolean {
+  return path.startsWith(INSIDE)
+}
+
+export function outsideOf(changes: readonly FileEdit[]): readonly string[] {
+  return changes.map((one) => one.path).filter((one) => !insideAkasha(one))
+}
+
+export function barredIn(root: string, path: string): string | null {
+  if (path === GIT_DIR || path.startsWith(`${GIT_DIR}${PARTED_BY}`)) {
+    return (
+      `${path} is inside \`${GIT_DIR}/\`, which holds the repository itself rather than ` +
+      "anything the repository says"
+    )
+  }
+  if (path.includes(PARTED_BY)) return null
+  const at = join(root, path)
+  if (!existsSync(at) || !statSync(at).isDirectory()) return null
+  return (
+    `${path} is a folder at the top of the repository — name what is inside it, so no one call ` +
+    "takes a whole tree away by a slip of the keyboard"
+  )
+}
+
+export function judgedByNothing(outside: readonly string[], dry: boolean): readonly string[] {
+  if (outside.length === 0) return []
+  return [
+    `no check judges a path outside \`${INSIDE}\`, so what these carry ` +
+      `${dry ? "would go" : "went"} unjudged — ${outside.join(", ")}`,
+  ]
 }
 
 export function valuesOf(

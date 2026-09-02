@@ -29,3 +29,13 @@ export const givenIn = (root: string) => ({
 export function stating(root: string, name: string, was: string, now: string): readonly string[] {
   return ["--old-file", put(root, `${name}.old`, was), "--new-file", put(root, `${name}.new`, now)]
 }
+
+export function changing(
+  root: string,
+  name: string,
+  was: string,
+  now: string,
+  path = "akasha/one.ts"
+): readonly string[] {
+  return ["--file-path", path, ...stating(root, name, was, now)]
+}
