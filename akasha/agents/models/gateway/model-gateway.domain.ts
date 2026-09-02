@@ -7,11 +7,13 @@ export const modelGateway = {
   definition: "what sits between an agent and the model it is asking",
   partSlugs: [
     "module/account-picker",
+    "module/account-walk",
     "module/anthropic-error-envelope",
     "module/auth-failed-retry",
     "module/bind-with-retry",
     "module/capacity-classification",
     "module/client-stream",
+    "module/committed-keepalive",
     "module/committed-outcome",
     "module/extended-context-model",
     "module/fable-fallback",
