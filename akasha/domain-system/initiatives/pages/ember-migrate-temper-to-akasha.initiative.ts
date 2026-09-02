@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Six page types are short and only two are temper's: `temper-net-worth-day` at 94 pages and `temper-completed-month` at 6, and a seat has both. The `item`, `game`, `condition` and `collection-type` folders carry other domains' worlds, so they fall outside this initiative. 6,363 temper pages are in akasha against 6,751 source files. One wall is left: the `eso` mine's `items`, 188,484,624 bytes shaped, 22x the entry ceiling, no shard that fits, and three consumers reading it.",
+        "Every temper page type is in akasha; the two the folder census read as short are landed at a finer grain, `temper-net-worth-day` as net-worth-hours with 3,395 readings proven equal and `temper-completed-month` as completed-days with 1,425 ids identical. `item`, `game`, `condition` and `collection-type` are other domains'. Two writers still write the old grain: watcher/import-inventory.ts:12 and import-tasks.ts:17, and a seat has them. One wall: the `eso` mine's items, 22x the entry ceiling.",
     },
     {
       statement: "No part of temper is outside akasha.",
