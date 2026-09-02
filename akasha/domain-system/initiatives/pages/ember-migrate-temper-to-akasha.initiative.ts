@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "4 packages and 512 files remain under `temper/`: web 357, player-completion 85, scripts 57, catalog-addon 13. Web is 21 edges from movable — 18 naming legacy `@temper/player-completion`, 3 naming `@shared/*` — everything else is `@akasha/*`, npm, or web`s own aliases. Ask git what tests an earlier commit deleted before weighing a twin against the legacy tip: `09f964f5c5` has now eaten tests in six packages.",
+        "4 packages and 512 files remain under `temper/`: web 357, player-completion 85, scripts 57, catalog-addon 13. Web is 21 edges from movable — 18 naming legacy `@temper/player-completion`, 3 naming `@shared/*` — everything else is `@akasha/*`, npm, or aliases web declares itself. Ask git what tests an earlier commit deleted before weighing a twin against the legacy tip: `09f964f5c5` has now eaten tests in six packages.",
     },
   ],
   constraints: [
