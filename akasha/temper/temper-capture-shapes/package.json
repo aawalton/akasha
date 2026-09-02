@@ -1,0 +1,26 @@
+{
+  "name": "@akasha/temper-capture-shapes",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./achievement-catalog": "./achievement-catalog/achievement-catalog.module.code.ts",
+    "./antiquity-lore-catalog": "./antiquity-lore-catalog/antiquity-lore-catalog.module.code.ts",
+    "./cadwell-catalog": "./cadwell-catalog/cadwell-catalog.module.code.ts",
+    "./class-catalog": "./class-catalog/class-catalog.module.code.ts",
+    "./collectibles-catalog": "./collectibles-catalog/collectibles-catalog.module.code.ts",
+    "./companion-equipment-catalog": "./companion-equipment-catalog/companion-equipment-catalog.module.code.ts",
+    "./companion-skill-catalog": "./companion-skill-catalog/companion-skill-catalog.module.code.ts",
+    "./currency-catalog": "./currency-catalog/currency-catalog.module.code.ts",
+    "./furniture-catalog": "./furniture-catalog/furniture-catalog.module.code.ts",
+    "./inventory-constants-catalog": "./inventory-constants-catalog/inventory-constants-catalog.module.code.ts",
+    "./item-set-catalog": "./item-set-catalog/item-set-catalog.module.code.ts",
+    "./lore-library-catalog": "./lore-library-catalog/lore-library-catalog.module.code.ts",
+    "./poi-catalog": "./poi-catalog/poi-catalog.module.code.ts",
+    "./recipe-catalog": "./recipe-catalog/recipe-catalog.module.code.ts",
+    "./scribing-catalog": "./scribing-catalog/scribing-catalog.module.code.ts",
+    "./skill-catalog": "./skill-catalog/skill-catalog.module.code.ts",
+    "./trait-research-catalog": "./trait-research-catalog/trait-research-catalog.module.code.ts",
+    "./tribute-catalog": "./tribute-catalog/tribute-catalog.module.code.ts",
+    "./zone-completion-catalog": "./zone-completion-catalog/zone-completion-catalog.module.code.ts"
+  }
+}
