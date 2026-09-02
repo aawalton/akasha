@@ -85,34 +85,72 @@ function daysOnDisk(): readonly string[] {
   return found.sort()
 }
 
+/**
+ * A day the funnel names in neither world, which is what makes these tests survive the landing.
+ *
+ * Every date the corpus holds is unmigrated today and migrated the moment the landing turns the
+ * funnel, so a test that hard-codes one is asserting which side of the landing it runs on. A day
+ * Alan has not tracked is named by `MIGRATED_DAYS` before the landing and after it alike — the
+ * funnel answers `markdown` for any day it does not name, which is how a day tracked after the
+ * landing still has somewhere to go.
+ */
+const UNNAMED_DAY = "2999-01-01"
+
+const UNNAMED_NEXT = "2999-01-02"
+
+/**
+ * The day named for the length of one run and put back as it was found.
+ *
+ * The `finally` used to delete unconditionally, which is right only while `MIGRATED_DAYS` is empty.
+ * Once the landing has named 133 days, deleting one the funnel really holds would leave the set
+ * wrong for every test after this one — a migrated day quietly answering `markdown`.
+ */
 async function whileMigrated(dayStr: string, run: () => Promise<void>): Promise<void> {
   const held = MIGRATED_DAYS as Set<string>
+  const already = held.has(dayStr)
   held.add(dayStr)
   try {
     await run()
   } finally {
-    held.delete(dayStr)
+    if (!already) held.delete(dayStr)
   }
 }
 
 describe("where a day is kept", () => {
-  test("every day of the corpus is markdown today", () => {
-    const days = daysOnDisk()
-    expect(days.length).toBeGreaterThan(100)
-    for (const day of days) expect(dayPlaceOf(day)).toBe(MARKDOWN)
-    expect(MIGRATED_DAYS.size).toBe(0)
+  /**
+   * Every day stands in one half, which is the claim the landing exists to keep true.
+   *
+   * This used to say the corpus is all markdown and `MIGRATED_DAYS` is empty — the world before the
+   * landing rather than a rule about it. It went red the instant the funnel turned, and a test that
+   * has to be hand-edited to let an act through is a test the act is not really passing.
+   *
+   * So it states what holds on both sides: every day Alan tracked is answered by exactly one half,
+   * and none is answered by both. The doubled corpus is precisely what `land.ts` orders its steps to
+   * prevent, and this is where that would show.
+   */
+  test("every day Alan tracked stands in one half and no day stands in both", () => {
+    const onDisk = daysOnDisk()
+    const named = [...MIGRATED_DAYS]
+    expect(onDisk.length + named.length).toBeGreaterThan(100)
+    for (const day of onDisk) {
+      expect(dayPlaceOf(day)).toBe(MARKDOWN)
+      expect(MIGRATED_DAYS.has(day)).toBe(false)
+    }
+    for (const day of named) expect(dayPlaceOf(day)).toBe(AKASHA)
   })
 
-  test("the name a markdown day answers to is the name on disk", () => {
+  test("the name a day answers to is the name of the half it stands in", () => {
     for (const name of readdirSync(CORPUS)) {
       const day = DAY_PAGE.exec(name)
       if (day === null) continue
       const dayStr = day[1] as string
       expect(`${dayNameOf(dayStr)}.${DAILY_TRACKING}.md`).toBe(name)
     }
+    // The half above empties when the landing runs, and this one fills. One of the two is always live.
+    for (const day of MIGRATED_DAYS) expect(dayNameOf(day)).toBe(`day-${day}`)
   })
 
-  test("a sessions sidecar is named beside the day page it belongs to", () => {
+  test("a sessions sidecar stands beside the day page it belongs to, and only while that day does", () => {
     let seen = 0
     for (const name of readdirSync(CORPUS)) {
       if (!name.endsWith(`.${DAILY_TRACKING}.sessions.jsonl`)) continue
@@ -121,7 +159,9 @@ describe("where a day is kept", () => {
       expect(dayPlaceOf(dayStr)).toBe(MARKDOWN)
       seen += 1
     }
-    expect(seen).toBeGreaterThan(0)
+    // A sidecar is a markdown day's rows, so sidecars stand exactly while markdown days do. Asserting
+    // a count above zero instead would be asserting that the landing has not run.
+    expect(seen > 0).toBe(daysOnDisk().length > 0)
   })
 
   test("a day named migrated is answered akasha and no other day is", () => {
@@ -190,7 +230,9 @@ describe("create, edit and delete agree on where a day is", () => {
 })
 
 describe("what reaches the file layer", () => {
-  const day = "2026-03-05"
+  // A day the funnel names in neither world. Every date the corpus holds becomes migrated when the
+  // landing runs, so naming one here would make these three tests assert the landing has not run.
+  const day = UNNAMED_DAY
 
   test("an unmigrated day is written exactly where it was written before", async () => {
     reached.length = 0
@@ -228,9 +270,9 @@ describe("what reaches the file layer", () => {
   test("one migrated day does not move its neighbours", async () => {
     await whileMigrated(day, async () => {
       reached.length = 0
-      await landSessionRow("write-row", "2026-03-06", { id: "two" }, "ops-tracking")
+      await landSessionRow("write-row", UNNAMED_NEXT, { id: "two" }, "ops-tracking")
       expect(reached).toEqual([
-        { verb: "rowLanding", act: "write-row", pageType: SESSION_TRACKING, name: "2026-03-06" },
+        { verb: "rowLanding", act: "write-row", pageType: SESSION_TRACKING, name: UNNAMED_NEXT },
       ])
     })
   })
