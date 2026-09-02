@@ -7,6 +7,7 @@ export const safetyRelayService = {
   definition: "the service carrying the safety level to the sites that show it",
   runs: [
     "-bun akasha/readout-system/readout-relay/readout-relay.module.code.ts akasha/readout-system/readout/readouts/upkeep-safety/upkeep-safety.readout.ts https://alanwalton.com",
+    "-bun akasha/readout-system/readout-relay/readout-relay.module.code.ts akasha/readout-system/readout/readouts/upkeep-safety/upkeep-safety.readout.ts https://smilingjenny.me",
   ],
   enabled: true,
   needsSecrets: true,
