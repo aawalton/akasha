@@ -1,8 +1,7 @@
 import { existsSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import { typed } from "@akasha/code-system/code-typing"
-import type { Listed } from "@akasha/indexes"
-import { everyPath, importersOf, listedByPath } from "@akasha/indexes"
+import { everyPath } from "@akasha/indexes"
 import { besideOf } from "@akasha/pages-system/page-beside"
 import { uncommittedNamed } from "@akasha/pages-system/page-file-name"
 import type { Asked } from "../../asking/asking.module.code.ts"
@@ -19,6 +18,7 @@ import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import { glassIn, messageIn, pathInside } from "../write/write.command.code.ts"
 import { FROM, pairsIn, TO, VALUED } from "./move-arguing/move-arguing.module.code.ts"
 import { manifestingOver } from "./move-manifesting/move-manifesting.module.code.ts"
+import { importingOf, namingOf, spellingOf } from "./move-naming/move-naming.module.code.ts"
 import { outsideIn, outsideSaid } from "./move-outside/move-outside.module.code.ts"
 import type { Renaming, Unrepointed } from "./move-renaming/move-renaming.module.code.ts"
 import {
@@ -32,6 +32,7 @@ import {
   unrepointedSaid,
 } from "./move-renaming/move-renaming.module.code.ts"
 import { repointed } from "./move-repointing/move-repointing.module.code.ts"
+import { resettlingSaid } from "./move-resettling/move-resettling.module.code.ts"
 import type { Pair, Spread } from "./move-spreading/move-spreading.module.code.ts"
 import { expandedIn, spreadSaid } from "./move-spreading/move-spreading.module.code.ts"
 
@@ -39,65 +40,7 @@ const AKASHA = "akasha"
 
 const INSIDE = `${AKASHA}/`
 
-export type Naming = { readonly held: Listed | null } | { readonly unread: string }
-
-export function namingOf(root: string, path: string): Naming {
-  let listed: readonly Listed[]
-  try {
-    listed = listedByPath(root, path)
-  } catch (cause) {
-    return { unread: cause instanceof Error ? cause.message : String(cause) }
-  }
-  if (listed.length > 1) {
-    return {
-      unread:
-        `the index answers ${listed.length} pages to the path \`${path}\`, so what names it ` +
-        "could not be answered",
-    }
-  }
-  return { held: listed[0] ?? null }
-}
-
 const NOTHING_SAID: ReadonlyMap<string, string> = new Map()
-
-export type Reading = { readonly importers: readonly string[] } | { readonly unread: string }
-
-export function importingOf(root: string, moved: ReadonlyMap<string, string>): Reading {
-  const found = new Set<string>()
-  for (const from of moved.keys()) {
-    let said: readonly string[]
-    try {
-      said = importersOf(root, from)
-    } catch (cause) {
-      const why = cause instanceof Error ? cause.message : String(cause)
-      return { unread: `${why}, so none were repointed` }
-    }
-    for (const one of said) {
-      if (moved.has(one)) continue
-      found.add(one)
-    }
-  }
-  return { importers: [...found].sort() }
-}
-
-export function spellingOf(
-  root: string,
-  stood: string,
-  moved: ReadonlyMap<string, string>,
-  known: ReadonlySet<string>
-): readonly string[] {
-  const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
-  const found: string[] = []
-  for (const path of everyPath(root)) {
-    if (!typed(path) || moved.has(path) || known.has(path)) continue
-    const held = bodyAt(root, stood, path)
-    if (held === null) continue
-    const text = textOf(held)
-    if (text === null) continue
-    if (names.some((name) => text.includes(name))) found.push(path)
-  }
-  return found
-}
 
 type Sided = {
   readonly from: string
@@ -389,7 +332,10 @@ export function move(argv: readonly string[], given: Given): Answer {
     unmoved: [],
     read: base,
     carries: uncommitted,
-    saying: (landed) => carrying(sided.sides, reached, false, spread, landed.cleared),
+    saying: (landed) => [
+      ...carrying(sided.sides, reached, false, spread, landed.cleared),
+      ...resettlingSaid(root, named, true),
+    ],
   }
   const relink = read.dryRun ? () => undefined : reachedOver(root, linkingsIn(moved, bodyText))
   let landed: Answer
@@ -403,5 +349,6 @@ export function move(argv: readonly string[], given: Given): Answer {
   if (landed.code === 0 && !read.dryRun) carryReadings(root, carries)
   if (landed.code !== 0 || !read.dryRun) return landed
   const would = carrying(sided.sides, reached, true, spread, wouldClear(root, gone))
-  return answering([...would, ...landed.report], [], 0)
+  const resaid = resettlingSaid(root, named, false)
+  return answering([...would, ...resaid, ...landed.report], [], 0)
 }

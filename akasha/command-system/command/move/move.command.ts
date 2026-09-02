@@ -13,9 +13,11 @@ export const move = {
   partSlugs: [
     "module/move-arguing",
     "module/move-manifesting",
+    "module/move-naming",
     "module/move-outside",
     "module/move-renaming",
     "module/move-repointing",
+    "module/move-resettling",
     "module/move-spreading",
   ],
   taking: [
@@ -35,6 +37,8 @@ export const move = {
     "a file git is told to ignore goes as a sidecar rather than as folder contents.",
     "the files naming what moves are repointed in the same commit.",
     "a tracked file outside `akasha/` spelling a path that moves is repointed with it.",
+    "an agent settings document a live seat watches is rewritten once the move has landed.",
+    "one that would not take the rewrite is named, and the move lands rather than refusing.",
     "one reaching in by a relative path is repointed where that path resolves to what moves.",
     "a package manifest naming a file that moves is repointed with it.",
     "a manifest that moves states its ways in from the folder it arrives in.",
