@@ -34,6 +34,18 @@ export const temperPlayerCompletion = {
     "module/skill-point-public-dungeons",
     "module/skill-point-source-types",
     "module/skill-point-zone-sources",
+    "module/companion-quest-data",
+    "module/completion-account-lore-union",
+    "module/completion-account-recipe-scribing-union",
+    "module/completion-account-union-progress",
+    "module/completion-companion-progress",
+    "module/completion-companion-quest-actionability",
+    "module/completion-companion-rapport-completeness",
+    "module/completion-daily-writs-progress",
+    "module/completion-lore-library-progress",
+    "module/completion-recipe-progress",
+    "module/completion-skill-points-progress",
+    "module/completion-ui-types",
   ],
   invariants: [
     {

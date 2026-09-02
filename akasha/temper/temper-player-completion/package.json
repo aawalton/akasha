@@ -5,7 +5,11 @@
   "exports": {
     "./activity-categories": "./activity-categories/activity-categories.module.code.ts",
     "./apply-completion-overrides": "./apply-completion-overrides/apply-completion-overrides.module.code.ts",
+    "./companion-quest-data": "./companion-quest-data/companion-quest-data.module.code.ts",
     "./companion-rapport": "./companion-rapport/companion-rapport.module.code.ts",
+    "./completion-account-lore-union": "./completion-account-lore-union/completion-account-lore-union.module.code.ts",
+    "./completion-account-recipe-scribing-union": "./completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts",
+    "./completion-account-union-progress": "./completion-account-union-progress/completion-account-union-progress.module.code.ts",
     "./completion-cadwell-sort": "./completion-cadwell-sort/completion-cadwell-sort.module.code.ts",
     "./completion-card-checker-types": "./completion-card-checker-types/completion-card-checker-types.module.code.ts",
     "./completion-card-id": "./completion-card-id/completion-card-id.module.code.ts",
@@ -15,15 +19,23 @@
     "./completion-category-tree": "./completion-category-tree/completion-category-tree.module.code.ts",
     "./completion-category-tree-types": "./completion-category-tree-types/completion-category-tree-types.module.code.ts",
     "./completion-character-row": "./completion-character-row/completion-character-row.module.code.ts",
+    "./completion-companion-progress": "./completion-companion-progress/completion-companion-progress.module.code.ts",
+    "./completion-companion-quest-actionability": "./completion-companion-quest-actionability/completion-companion-quest-actionability.module.code.ts",
+    "./completion-companion-rapport-completeness": "./completion-companion-rapport-completeness/completion-companion-rapport-completeness.module.code.ts",
     "./completion-cumulative-cards": "./completion-cumulative-cards/completion-cumulative-cards.module.code.ts",
+    "./completion-daily-writs-progress": "./completion-daily-writs-progress/completion-daily-writs-progress.module.code.ts",
     "./completion-import-outcome": "./completion-import-outcome/completion-import-outcome.module.code.ts",
     "./completion-lore-collection": "./completion-lore-collection/completion-lore-collection.module.code.ts",
+    "./completion-lore-library-progress": "./completion-lore-library-progress/completion-lore-library-progress.module.code.ts",
     "./completion-measured": "./completion-measured/completion-measured.module.code.ts",
     "./completion-merge-forward": "./completion-merge-forward/completion-merge-forward.module.code.ts",
     "./completion-mount-training-completeness": "./completion-mount-training-completeness/completion-mount-training-completeness.module.code.ts",
     "./completion-override": "./completion-override/completion-override.module.code.ts",
     "./completion-override-row": "./completion-override-row/completion-override-row.module.code.ts",
     "./completion-percent": "./completion-percent/completion-percent.module.code.ts",
+    "./completion-recipe-progress": "./completion-recipe-progress/completion-recipe-progress.module.code.ts",
+    "./completion-skill-points-progress": "./completion-skill-points-progress/completion-skill-points-progress.module.code.ts",
+    "./completion-ui-types": "./completion-ui-types/completion-ui-types.module.code.ts",
     "./cyrodiil-wayshrine": "./cyrodiil-wayshrine/cyrodiil-wayshrine.module.code.ts",
     "./skill-point-general-sources": "./skill-point-general-sources/skill-point-general-sources.module.code.ts",
     "./skill-point-group-dungeons": "./skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts",
@@ -32,8 +44,12 @@
     "./skill-point-zone-sources": "./skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
   },
   "dependencies": {
+    "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*"
   }
 }
