@@ -1,6 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { Cooldown } from "../properties/cooldown.number-property.ts"
-import type { Debuffs } from "../properties/debuffs.page-property-entry.ts"
 import type { IsPositive } from "../properties/is-positive.boolean-property.ts"
 import type { OppositeId } from "../properties/opposite-id.text-property.ts"
 import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
@@ -9,7 +8,6 @@ export type TemperPoisonEffect = TemperGearThing & {
   oppositeId: OppositeId
   isPositive?: IsPositive
   cooldown?: Cooldown
-  debuffs?: Debuffs
 }
 
 export const temperPoisonEffect = {
@@ -22,8 +20,6 @@ export const temperPoisonEffect = {
   partSlugs: [
     "boolean-property/is-positive",
     "number-property/cooldown",
-    "page-property-entry/debuffs",
-    "text-property/debuff-id",
     "text-property/opposite-id",
   ],
   properties: [
@@ -31,6 +27,5 @@ export const temperPoisonEffect = {
     { pagePropertySlug: "opposite-id", required: true, many: false },
     { pagePropertySlug: "is-positive", required: false, many: false },
     { pagePropertySlug: "cooldown", required: false, many: false },
-    { pagePropertySlug: "debuffs", required: false, many: false },
   ],
 } as const satisfies PageType

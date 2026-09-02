@@ -1,6 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { TemperCatalogThing } from "../../temper-catalog-thing.page-type.ts"
-import type { Buffs } from "../properties/buffs.page-property-entry.ts"
 import type { EsoEnchantConstantName } from "../properties/eso-enchant-constant-name.text-property.ts"
 import type { EssenceRune } from "../properties/essence-rune.text-property.ts"
 import type { GlyphName } from "../properties/glyph-name.text-property.ts"
@@ -15,7 +14,6 @@ export type TemperGearThing = TemperCatalogThing & {
   validSlots?: ValidSlots
   level?: ItemLevel
   seconds?: PotionSeconds
-  buffs?: Buffs
 }
 
 export const temperGearThing = {
@@ -27,8 +25,8 @@ export const temperGearThing = {
   extendsSlug: "page-type/temper-catalog-thing",
   partSlugs: [
     "number-property/potion-seconds",
-    "page-property-entry/buffs",
     "text-property/buff-id",
+    "text-property/debuff-id",
     "text-property/essence-rune",
     "text-property/eso-enchant-constant-name",
     "text-property/glyph-name",
@@ -42,12 +40,16 @@ export const temperGearThing = {
     { pagePropertySlug: "valid-slots", required: false, many: true, max: null },
     { pagePropertySlug: "item-level", required: false, many: false },
     { pagePropertySlug: "potion-seconds", required: false, many: false },
-    { pagePropertySlug: "buffs", required: false, many: false },
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A key two gear page types both carry is declared here rather than in each.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which buff a drink grants is a field of the shared effect shape rather than a key here.",
     },
   ],
 } as const satisfies PageType
