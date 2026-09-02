@@ -8,10 +8,13 @@ export const codeSystem = {
   manifest: "json",
   partSlugs: [
     "page-type/module",
+    "page-type/eso-addon",
+    "page-type/eso-interface",
     "page-type/ios-app",
     "page-type/ios-component",
     "page-type/ios-harness",
     "page-type/ios-program",
+    "page-type/lua-module",
     "page-type/rust-crate",
     "page-type/rust-module",
     "page-type/shell-script",
