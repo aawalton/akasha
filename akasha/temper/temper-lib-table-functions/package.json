@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/temper-lib-table-functions",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./table-functions": "./table-functions/table-functions.module.code.ts",
+    "./table-function-casts": "./table-function-casts/table-function-casts.module.code.ts",
+    "./table-function-types": "./table-function-types/table-function-types.module.code.ts",
+    "./table-functions-entry": "./table-functions-entry/table-functions-entry.module.code.ts"
+  }
+}
