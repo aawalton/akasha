@@ -5,6 +5,8 @@
   "exports": {
     "./assemble-inventory": "./assemble-inventory/assemble-inventory.module.code.ts",
     "./backpack-settings-types": "./backpack-settings-types/backpack-settings-types.module.code.ts",
+    "./classify-item": "./classify-item/classify-item.module.code.ts",
+    "./classify-item-node-ids": "./classify-item-node-ids/classify-item-node-ids.module.code.ts",
     "./cooldown-groups": "./cooldown-groups/cooldown-groups.module.code.ts",
     "./crafting-passive-ranks": "./crafting-passive-ranks/crafting-passive-ranks.module.code.ts",
     "./decon-crafting-type-inference": "./decon-crafting-type-inference/decon-crafting-type-inference.module.code.ts",
@@ -31,6 +33,13 @@
     "./inventory-safety-types": "./inventory-safety-types/inventory-safety-types.module.code.ts",
     "./inventory-types": "./inventory-types/inventory-types.module.code.ts",
     "./inventory-value": "./inventory-value/inventory-value.module.code.ts",
+    "./item-category-tree-data": "./item-category-tree-data/item-category-tree-data.module.code.ts",
+    "./item-category-tree-entries-00": "./item-category-tree-entries-00/item-category-tree-entries-00.module.code.ts",
+    "./item-category-tree-entries-01": "./item-category-tree-entries-01/item-category-tree-entries-01.module.code.ts",
+    "./item-category-tree-entries-02": "./item-category-tree-entries-02/item-category-tree-entries-02.module.code.ts",
+    "./item-category-tree-entries-03": "./item-category-tree-entries-03/item-category-tree-entries-03.module.code.ts",
+    "./item-category-tree-furnishings-00": "./item-category-tree-furnishings-00/item-category-tree-furnishings-00.module.code.ts",
+    "./item-category-tree-furnishings-01": "./item-category-tree-furnishings-01/item-category-tree-furnishings-01.module.code.ts",
     "./item-category-tree-types": "./item-category-tree-types/item-category-tree-types.module.code.ts",
     "./item-centric-inventory": "./item-centric-inventory/item-centric-inventory.module.code.ts",
     "./item-link-parser": "./item-link-parser/item-link-parser.module.code.ts",
@@ -44,6 +53,7 @@
     "./motif-name-parser": "./motif-name-parser/motif-name-parser.module.code.ts",
     "./plan-inventory-import": "./plan-inventory-import/plan-inventory-import.module.code.ts",
     "./recipe-result-id-lookup": "./recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts",
+    "./set-category-mappings": "./set-category-mappings/set-category-mappings.module.code.ts",
     "./shard-inventory": "./shard-inventory/shard-inventory.module.code.ts"
   },
   "dependencies": {
