@@ -21,8 +21,6 @@ declare global {
     GetAllCollectibleDataObjects: (this: CollectibleDataManager) => CollectibleDataObject[]
   }
 
-  const ZO_COLLECTIBLE_DATA_MANAGER: CollectibleDataManager
-
   interface LibAddonMenu2 {
     OpenToPanel: (this: LibAddonMenu2, panel: unknown) => void
   }
