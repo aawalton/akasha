@@ -16,9 +16,5 @@ export const charactersMigrations = {
       invariantKind: "departure",
       statement: "A domain the saved table gives no version to counts as being at nought.",
     },
-    {
-      invariantKind: "gap",
-      statement: "Dead fields on a captured morph variant are not stripped.",
-    },
   ],
 } as const satisfies Module

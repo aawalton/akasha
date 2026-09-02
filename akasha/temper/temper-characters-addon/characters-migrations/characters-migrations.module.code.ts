@@ -1,3 +1,4 @@
+import { stripMorphVariantFields } from "@akasha/temper-characters-skills-morphs-addon/skill-morph-strip"
 import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
 import type { SavedVariablesData } from "@akasha/temper-player-completion-state/completion-saved-variables"
@@ -78,6 +79,17 @@ export const MIGRATIONS: Migration[] = [
         clearSkillsOfReworkedLines(charEntry?.skillLineProgress)
       }
       clearSkillsOfReworkedLines(savedVars.account.subclassingSkillLineProgress)
+    },
+  },
+  {
+    domain: "skill-morph-fields",
+    version: 1,
+    description: "Strip dead-state id/totalXPNeeded/totalXPProgress from captured morph variants",
+    migrate: (savedVars: SavedVariablesData): undefined => {
+      for (const [, charEntry] of Object.entries(savedVars.characters)) {
+        stripMorphVariantFields(charEntry?.skillLineProgress)
+      }
+      stripMorphVariantFields(savedVars.account.subclassingSkillLineProgress)
     },
   },
 ]
