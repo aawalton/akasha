@@ -30,6 +30,7 @@ export const commandSystem = {
     "module/outside-naming",
     "module/manifest-locking",
     "module/body-merging",
+    "module/patching",
   ],
   invariants: [
     {
