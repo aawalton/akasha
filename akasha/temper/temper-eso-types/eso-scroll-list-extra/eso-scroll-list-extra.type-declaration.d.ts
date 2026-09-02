@@ -2,6 +2,15 @@ declare const ZO_ScrollList_Initialize: (this: void, listControl: Control) => vo
 
 declare const ZO_ScrollList_AddResizeOnScreenResize: (this: void, listControl: Control) => void
 
+declare const ZO_ScrollList_SelectData: (
+  this: void,
+  list: object,
+  data: unknown,
+  control?: unknown,
+  reselectingDuringRebuild?: boolean,
+  animateInstantly?: boolean
+) => undefined
+
 interface ZoObjectPool<TObject = Control> {
   m_Factory: (this: void, pool: ZoObjectPool<TObject>, objectKey?: unknown) => TObject
 }

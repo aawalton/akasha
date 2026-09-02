@@ -1,18 +1,8 @@
-declare const ZO_Options_OnMouseEnter: (control: Control) => undefined
-
 declare const ZO_ScrollList_GetSelectedData: (list: object) => unknown
 
 declare const ZO_ScrollList_GetSelectedDataIndex: (list: object) => number | undefined
 
 declare const ZO_ScrollList_HasVisibleData: (list: object) => boolean
-
-declare const ZO_ScrollList_SelectData: (
-  list: object,
-  data: unknown,
-  control?: unknown,
-  animateInstantly?: unknown,
-  reselectingDuringRebuild?: boolean
-) => undefined
 
 declare const ZO_ScrollList_SelectDataAndScrollIntoView: (
   list: object,

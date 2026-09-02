@@ -28,3 +28,5 @@ interface ZoGameMenuInGame {
 }
 
 declare const ZO_GameMenu_InGame: ZoGameMenuInGame
+
+declare const ZO_Options_OnMouseEnter: (this: void, control: Control) => undefined
