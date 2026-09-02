@@ -730,7 +730,7 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/story/reader": {
+    "akasha/story/ui": {
       "name": "@akasha/story-reader",
       "dependencies": {
         "@akasha/design-patterns": "workspace:*",
@@ -3499,7 +3499,7 @@
 
     "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:akasha/story/engine/core"],
 
-    "@akasha/story-reader": ["@akasha/story-reader@workspace:akasha/story/reader"],
+    "@akasha/story-reader": ["@akasha/story-reader@workspace:akasha/story/ui"],
 
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:akasha/supabase-auth"],
 
