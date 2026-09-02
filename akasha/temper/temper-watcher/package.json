@@ -29,7 +29,10 @@
     "./watcher-run-observing": "./watcher-run-observing/watcher-run-observing.module.code.ts",
     "./watcher-token": "./watcher-token/watcher-token.module.code.ts",
     "./watcher-config": "./watcher-config/watcher-config.module.code.ts",
-    "./watcher-config-file": "./watcher-config-file/watcher-config-file.module.code.ts"
+    "./watcher-config-file": "./watcher-config-file/watcher-config-file.module.code.ts",
+    "./watcher-account-page": "./watcher-account-page/watcher-account-page.module.code.ts",
+    "./watcher-side-file": "./watcher-side-file/watcher-side-file.module.code.ts",
+    "./watcher-pricing-tables": "./watcher-pricing-tables/watcher-pricing-tables.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
