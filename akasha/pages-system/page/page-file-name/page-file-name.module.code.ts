@@ -29,12 +29,6 @@ export type Parted = {
   readonly held: string
 }
 
-export type Named = {
-  readonly stem: string
-  readonly tail: string
-  readonly held: string
-}
-
 export type Slugged = {
   readonly pageTypeSlug: string
   readonly slug: string
@@ -72,21 +66,16 @@ export function partedIn(path: string): Parted | null {
   return { slug, pageType, sections, held }
 }
 
-export function namedIn(path: string): Named | null {
-  const said = partedIn(path)
-  if (said === null) return null
-  const last = said.sections[said.sections.length - 1]
-  if (last === undefined) return { stem: said.slug, tail: said.pageType, held: said.held }
-  const stem = [said.slug, said.pageType, ...said.sections.slice(0, -1)].join(".")
-  return { stem, tail: last, held: said.held }
+export function pageOf(said: Parted): string {
+  return `${said.slug}.${said.pageType}`
 }
 
 export function namedUnder(path: string, under: ReadonlySet<string>): Slugged | null {
   if (!path.startsWith(INSIDE)) return null
-  const said = namedIn(path)
-  if (said === null) return null
-  if (!under.has(said.tail)) return null
-  return { pageTypeSlug: said.tail, slug: said.stem }
+  const said = partedIn(path)
+  if (said === null || said.sections.length > 0) return null
+  if (!under.has(said.pageType)) return null
+  return { pageTypeSlug: said.pageType, slug: said.slug }
 }
 
 export function partIn(section: string | undefined): number | null {
@@ -182,7 +171,7 @@ export function heldIn(
 ): Held {
   const said = partedIn(path)
   if (said === null) return strayAt(path)
-  const page = `${said.slug}.${said.pageType}`
+  const page = pageOf(said)
   const only = onlyIn(said)
   if (only === UNCOMMITTED) {
     return {

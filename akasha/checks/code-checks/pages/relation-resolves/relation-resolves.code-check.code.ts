@@ -1,6 +1,6 @@
 import { type Known, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
-import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
+import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
 import { textAt, type Value, valueIn } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -53,8 +53,9 @@ export function namersOf(
   const found = new Set<string>()
   for (const path of change.changed) {
     if (change.after(path) !== null) continue
-    const said = namedIn(path)
-    if (said === null || heldInAFile.has(said.tail)) continue
+    const said = partedIn(path)
+    if (said === null || said.sections.length > 0) continue
+    if (heldInAFile.has(said.pageType)) continue
     const gone = idTakenFrom(change, path)
     if (gone === null) continue
     for (const propertySlug of properties) {
@@ -75,7 +76,7 @@ export type Mortality = {
 const PAGE_TYPE = "page-type"
 
 export function pageTypeOf(path: string): string | null {
-  return namedIn(path)?.tail ?? null
+  return partedIn(path)?.pageType ?? null
 }
 
 export function mortalityIn(shadow: Shadow, known: Known): Mortality {

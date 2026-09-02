@@ -2,8 +2,8 @@ import { expect, test } from "bun:test"
 import {
   besideAt,
   heldIn,
-  namedIn,
   pageNamed,
+  pageOf,
   partedIn,
   partIn,
   secretAt,
@@ -22,36 +22,33 @@ import {
   PORTRAIT,
 } from "./page-file-name.module.test-fixtures.ts"
 
-test("a name is read as a stem, the tail after it, and what the file holds", () => {
-  expect(namedIn("akasha/one/file-length.check.ts")).toEqual({
-    stem: "file-length",
-    tail: "check",
-    held: "ts",
-  })
-})
+function pageNameIn(path: string): string {
+  const said = partedIn(path)
+  if (said === null) throw new Error(`expected \`${path}\` to parse`)
+  return pageOf(said)
+}
 
-test("a stem carrying a dot stays the stem, so a property file reads as its page and its key", () => {
-  expect(namedIn("akasha/one/file-length.check.code.ts")).toEqual({
-    stem: "file-length.check",
-    tail: "code",
-    held: "ts",
-  })
+test("a page's name is the slug and the page type, whatever sections come after them", () => {
+  expect(pageNameIn("akasha/one/file-length.check.ts")).toBe("file-length.check")
+  expect(pageNameIn("akasha/one/file-length.check.code.ts")).toBe("file-length.check")
+  expect(pageNameIn("akasha/one/sophia.persona.portrait.md")).toBe("sophia.persona")
 })
 
 test("what a file holds is read whatever it is, so a property need not be TypeScript", () => {
-  expect(namedIn("akasha/one/sophia.persona.portrait.md")).toEqual({
-    stem: "sophia.persona",
-    tail: "portrait",
+  expect(partedIn("akasha/one/sophia.persona.portrait.md")).toEqual({
+    slug: "sophia",
+    pageType: "persona",
+    sections: ["portrait"],
     held: "md",
   })
 })
 
 test("a name of fewer than three dotted parts answers nothing", () => {
-  expect(namedIn("akasha/one/notes.txt")).toBeNull()
+  expect(partedIn("akasha/one/notes.txt")).toBeNull()
 })
 
 test("a name with no dot before `.ts` answers nothing", () => {
-  expect(namedIn("akasha/one/held.ts")).toBeNull()
+  expect(partedIn("akasha/one/held.ts")).toBeNull()
 })
 
 test("a tail is a page only where the sets handed in say so", () => {

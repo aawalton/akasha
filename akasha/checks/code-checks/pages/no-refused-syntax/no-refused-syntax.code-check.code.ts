@@ -5,7 +5,7 @@ import { parsedAs } from "@akasha/code-system/code-source"
 import { saidBy } from "@akasha/command-system/fault-saying"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
+import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
 import {
@@ -68,11 +68,11 @@ export function rulesIn(
 ): readonly Rule[] {
   const found: Rule[] = []
   for (const one of shadow.index.everyOfType(RULE)) {
-    const said = namedIn(one.path)
+    const said = partedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a syntax rule, and its name says no slug`)
     }
-    const slug = said.stem
+    const slug = said.slug
     const beside = besideAt(one.path, CODE, TS)
     if (beside === null) {
       throw new Error(

@@ -4,7 +4,7 @@ import { everyPath } from "@akasha/indexes"
 import type { Answering } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "@akasha/pages-system/change"
-import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
+import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
 import { type Loaded, loadedFrom } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
@@ -140,7 +140,7 @@ export const PAGES: Selector<Paged> = {
 }
 
 export function pagesTailed(slug: string): Selector<Paged> {
-  const tailed = (path: string): boolean => namedIn(path)?.tail === slug
+  const tailed = (path: string): boolean => partedIn(path)?.pageType === slug
   return {
     named: `pages tailed ${slug}`,
     isInput: (path, shadow) => PAGES.isInput(path, shadow) && tailed(path),

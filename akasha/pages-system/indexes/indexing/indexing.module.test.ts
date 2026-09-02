@@ -29,6 +29,7 @@ import {
   put,
   renamed,
   retyped,
+  SWEEPING,
   said,
   schemaFile,
   scratch,
@@ -41,7 +42,7 @@ import {
   wroteText,
 } from "./indexing.module.test-fixtures.ts"
 
-afterAll(scratch.sweep)
+afterAll(scratch.sweep, SWEEPING)
 
 const REBUILDING = 60000
 

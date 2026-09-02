@@ -2,7 +2,7 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import { listedAt, schemaOf } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import { slugFor } from "@akasha/pages-system/page-property-key"
 import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
 
@@ -24,10 +24,11 @@ export function statedIn(root: string, path: string, slug: string): readonly str
 }
 
 export function fileProperty(root: string, path: string, knowing: Knowing): readonly Warrant[] {
-  const said = namedIn(path)
-  if (said === null || !knowing().types.has(said.tail)) return []
+  const said = partedIn(path)
+  if (said === null || said.sections.length > 0) return []
+  if (!knowing().types.has(said.pageType)) return []
   const found: Warrant[] = []
-  for (const slug of statedIn(root, path, said.stem)) {
+  for (const slug of statedIn(root, path, said.slug)) {
     const filed = schemaOf(root, slug)
     if ("refused" in filed) continue
     const listed = listedAt(root, filed.schema.pageTypeSlug, slug)[0]

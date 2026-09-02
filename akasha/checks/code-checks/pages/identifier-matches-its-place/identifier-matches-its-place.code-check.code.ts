@@ -7,7 +7,7 @@ import { derivedIdentifier } from "@akasha/pages-system/name-place/derived-ident
 import { functionIdentifier } from "@akasha/pages-system/name-place/function-identifier"
 import { typeIdentifier } from "@akasha/pages-system/name-place/type-identifier"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import ts from "typescript"
 import {
   bodyOf,
@@ -154,8 +154,9 @@ function openedAsATag(scope: ts.Node, text: string): boolean {
 }
 
 export function pageValueIn(at: string): string | null {
-  const said = namedIn(at)
-  return said === null ? null : exportedAs(said.stem)
+  const said = partedIn(at)
+  if (said === null || said.sections.length > 0) return null
+  return exportedAs(said.slug)
 }
 
 export function constantsIn(source: ts.SourceFile, at: string): readonly ts.Identifier[] {

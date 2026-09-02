@@ -5,7 +5,7 @@ import type { FileEdit } from "@akasha/command-system/landing"
 import { dropReadings } from "@akasha/command-system/reading"
 import { listedAt, listedById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import { textAt, valueAt } from "@akasha/pages-system/page-value"
 
 export const SUBAGENTS_AT = "akasha/seat-system/subagent/subagents"
@@ -65,8 +65,9 @@ export function assignedTo(root: string, seatName: string): string | null {
 export function seatNamedIn(root: string, seatId: string): string | null {
   const listed = listedById(root, seatId)
   if (listed === null) return null
-  const named = namedIn(listed.path)
-  return named === null || named.tail !== SEAT ? null : named.stem
+  const named = partedIn(listed.path)
+  if (named === null || named.sections.length > 0 || named.pageType !== SEAT) return null
+  return named.slug
 }
 
 function handed(root: string, changes: readonly FileEdit[], message: string): boolean {

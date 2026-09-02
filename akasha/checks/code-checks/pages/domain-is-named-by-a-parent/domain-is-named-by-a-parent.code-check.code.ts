@@ -1,6 +1,6 @@
 import { namesIn, reaches } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
-import { namedIn, namedUnder, pageNamed } from "@akasha/pages-system/page-file-name"
+import { namedUnder, pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
 import { type Value, valueIn } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { bodyOf, input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -17,8 +17,9 @@ const PARTS = "partSlugs"
 const THE_WHOLE = "akasha-system"
 
 function theWhole(path: string): boolean {
-  const said = namedIn(path)
-  return said !== null && said.tail === DOMAIN && said.stem === THE_WHOLE
+  const said = partedIn(path)
+  if (said === null || said.sections.length > 0) return false
+  return said.pageType === DOMAIN && said.slug === THE_WHOLE
 }
 
 function partsOf(value: Value | null): readonly string[] {

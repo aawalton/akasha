@@ -4,7 +4,7 @@ import { saidBy } from "@akasha/command-system/fault-saying"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
+import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import { ran } from "@akasha/utils-run/running"
 import { PAGES } from "../change-walking/change-walking.module.code.ts"
@@ -64,7 +64,7 @@ function slugsIn(stated: Record<string, unknown>, named: string): readonly strin
 function pathOfSlug(root: string, slug: string): string {
   const tailed = slug.slice(slug.indexOf("/") + 1)
   const found = everyOfType(root, slug.slice(0, slug.indexOf("/"))).filter(
-    (one) => (namedIn(one.path)?.stem ?? "") === tailed
+    (one) => (partedIn(one.path)?.slug ?? "") === tailed
   )
   const first = found[0]
   if (first === undefined) throw new Error(`\`${slug}\` reaches no page a model check can put`)
@@ -73,21 +73,21 @@ function pathOfSlug(root: string, slug: string): string {
 
 function testHeld(root: string, slug: string): Held {
   const page = pathOfSlug(root, slug)
-  const stem = namedIn(page)?.stem ?? ""
-  const stated = valueAt(join(root, page), stem)
-  if (stated === null) throw new Error(`${page} answers to no \`${exportedAs(stem)}\``)
+  const own = partedIn(page)?.slug ?? ""
+  const stated = valueAt(join(root, page), own)
+  if (stated === null) throw new Error(`${page} answers to no \`${exportedAs(own)}\``)
   const family = stated["modelFamilySlug"]
   if (typeof family !== "string") throw new Error(`${page} names no model family`)
   const at = pathOfSlug(root, family)
-  const named = valueAt(join(root, at), namedIn(at)?.stem ?? "")
+  const named = valueAt(join(root, at), partedIn(at)?.slug ?? "")
   const model = named === null ? undefined : named["name"]
   if (typeof model !== "string") throw new Error(`${at} names no model a call can reach`)
   const beside = besideAt(page, CODE, TS)
   if (beside === null) throw new Error(`${page} has no code file beside it`)
   const mod = loadFrom(join(root, beside)) as Record<string, unknown>
-  const compile = mod[exportedAs(stem)]
-  if (typeof compile !== "function") throw new Error(`${beside} answers to no \`${stem}\``)
-  return { slug: stem, model, compile: compile as Compiling }
+  const compile = mod[exportedAs(own)]
+  if (typeof compile !== "function") throw new Error(`${beside} answers to no \`${own}\``)
+  return { slug: own, model, compile: compile as Compiling }
 }
 
 function askedOf(
@@ -212,7 +212,7 @@ export function modelChecksIn(root: string): readonly Judgement[] {
   }
   const found: Judgement[] = []
   for (const path of [...pages].sort()) {
-    const slug = namedIn(path)?.stem
+    const slug = partedIn(path)?.slug
     if (slug === undefined) continue
     const stated = valueAt(join(root, path), slug)
     if (stated === null) throw new Error(`${path} is a model check, and answers to no value`)

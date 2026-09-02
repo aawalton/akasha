@@ -1,6 +1,6 @@
 import { join } from "node:path"
 import { addressIn } from "@akasha/pages-system/page-address"
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Value } from "@akasha/pages-system/page-value"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
@@ -344,13 +344,13 @@ export function everyPath(given: string | Reading): readonly string[] {
 
 function slugOf(standing: Listed | null, id: string): string | null {
   if (standing === null) return null
-  const said = namedIn(standing.path)
+  const said = partedIn(standing.path)
   if (said === null) {
     throw new Error(
       `\`${standing.path}\` carries the id \`${id}\`, and its name says no slug for the page type it is`
     )
   }
-  return said.stem
+  return said.slug
 }
 
 export function typeSlugById(given: string | Reading, id: string): string | null {

@@ -3,7 +3,7 @@ import { everyOfType } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import { matchingIn } from "@akasha/pages-system/name-format/format-reaching"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
+import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
 import { FILES, input, textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -96,7 +96,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const formatting = matchingIn(change.root, shadow.codeAt)
   const found: Judged[] = []
   for (const one of everyOfType(shadow.reading, NAME_FORMAT)) {
-    const said = namedIn(one.path)
+    const said = partedIn(one.path)
     const beside = besideAt(one.path, CODE, TS)
     if (said === null || beside === null) {
       found.push({
@@ -114,10 +114,10 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
           "judges by the shape its own code hands over",
       })
     } else {
-      for (const reason of reasonsIn(said.stem, beside, text)) found.push({ path: beside, reason })
+      for (const reason of reasonsIn(said.slug, beside, text)) found.push({ path: beside, reason })
     }
     try {
-      formatting(`${NAME_FORMAT}/${said.stem}`)
+      formatting(`${NAME_FORMAT}/${said.slug}`)
     } catch (thrown) {
       found.push({
         path: one.path,

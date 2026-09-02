@@ -1,5 +1,5 @@
 import { listedAt } from "@akasha/indexes"
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const TYPE = "A page answers to its type, and to every type that one extends."
@@ -7,9 +7,9 @@ export const TYPE = "A page answers to its type, and to every type that one exte
 const PAGE_TYPE = "page-type"
 
 export function typeSlugOf(path: string, types: ReadonlySet<string>): string | null {
-  const said = namedIn(path)
-  if (said === null) return null
-  return types.has(said.tail) ? said.tail : null
+  const said = partedIn(path)
+  if (said === null || said.sections.length > 0) return null
+  return types.has(said.pageType) ? said.pageType : null
 }
 
 export function filePageType(root: string, path: string, knowing: Knowing): readonly Warrant[] {

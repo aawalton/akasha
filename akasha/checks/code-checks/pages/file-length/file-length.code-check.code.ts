@@ -1,4 +1,4 @@
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import { FILES, judgingEach } from "../../../modules/change-walking/change-walking.module.code.ts"
 
@@ -23,17 +23,18 @@ const MARKUP_RELIEF =
   "an addon names every XML document the game loads, so divide this one at a top-level element"
 
 function ceilingFor(path: string): number {
-  const held = namedIn(path)?.held
+  const held = partedIn(path)?.held
   if (held === ENTRIES) return ENTRY_CEILING
   if (held === MARKUP) return MARKUP_CEILING
   return CEILING
 }
 
 function reliefFor(path: string): string | null {
-  const said = namedIn(path)
+  const said = partedIn(path)
   if (said === null) return null
   if (said.held === MARKUP) return MARKUP_RELIEF
-  return said.tail === TEST && said.held === TS ? TEST_RELIEF : null
+  if (said.sections.length !== 1 || said.sections[0] !== TEST) return null
+  return said.held === TS ? TEST_RELIEF : null
 }
 
 export function reasonsIn(given: Body): readonly string[] {

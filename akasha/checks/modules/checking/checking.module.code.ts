@@ -4,7 +4,7 @@ import { saidBy } from "@akasha/command-system/fault-saying"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
+import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
 import { type Shadow, shadowAsked } from "@akasha/pages-system/shadow"
 import { type Input, insideOf } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Judging, Running } from "../judging/judging.module.code.ts"
@@ -86,11 +86,11 @@ function runningIn(at: string, slug: string, beside: string): Running | null {
 export function checksIn(root: string): readonly Gathered[] {
   const found: Gathered[] = []
   for (const path of checkPagesIn(root)) {
-    const said = namedIn(path)
+    const said = partedIn(path)
     if (said === null) {
       throw new Error(`${path} is a check page, and its name says no slug a runner can read`)
     }
-    const slug = said.stem
+    const slug = said.slug
     const full = join(root, path)
     const stated = statedIn(full, slug, path)
     if (stated === null) {

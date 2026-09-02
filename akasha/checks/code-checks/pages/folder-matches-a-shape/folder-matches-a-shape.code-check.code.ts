@@ -12,7 +12,7 @@ import {
   besideAt,
   type Held,
   heldIn,
-  namedIn,
+  partedIn,
   uncommittedAt,
 } from "@akasha/pages-system/page-file-name"
 import { textAt } from "@akasha/pages-system/page-value"
@@ -101,11 +101,11 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
       throw new Error(`${one.path} is a folder shape, and its page says no \`${ENABLED}\``)
     }
     if (!enabled) continue
-    const said = namedIn(one.path)
-    if (said === null) {
+    const said = partedIn(one.path)
+    if (said === null || said.sections.length > 0) {
       throw new Error(`${one.path} is a folder shape, and its name says no slug`)
     }
-    const slug = said.stem
+    const slug = said.slug
     const beside = besideAt(one.path, CODE, TS)
     if (beside === null) {
       throw new Error(
@@ -248,8 +248,9 @@ export function groupedBy(files: readonly string[]): Grouped {
 export function pageTypesAt(grouped: Grouped, folder: string): readonly string[] {
   const found: string[] = []
   for (const one of grouped.at(folder)) {
-    const said = namedIn(one)
-    if (said !== null && said.held === TS && said.tail === PAGE_TYPE) found.push(said.stem)
+    const said = partedIn(one)
+    if (said === null || said.sections.length > 0) continue
+    if (said.held === TS && said.pageType === PAGE_TYPE) found.push(said.slug)
   }
   return found
 }
@@ -257,11 +258,12 @@ export function pageTypesAt(grouped: Grouped, folder: string): readonly string[]
 export function fieldsIn(index: Answering, grouped: Grouped, folder: string): readonly string[] {
   const found: string[] = []
   for (const one of grouped.at(`${folder}/${PROPERTIES}`)) {
-    const said = namedIn(one)
-    if (said === null || said.held !== TS || said.tail !== RECORD_PROPERTY) continue
-    const value = index.pageAt(RECORD_PROPERTY, said.stem)
+    const said = partedIn(one)
+    if (said === null || said.sections.length > 0) continue
+    if (said.held !== TS || said.pageType !== RECORD_PROPERTY) continue
+    const value = index.pageAt(RECORD_PROPERTY, said.slug)
     if (value === null) continue
-    for (const carried of index.carriedIn(value, said.stem)) found.push(carried.pagePropertySlug)
+    for (const carried of index.carriedIn(value, said.slug)) found.push(carried.pagePropertySlug)
   }
   return found
 }

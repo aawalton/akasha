@@ -11,7 +11,7 @@ import {
 } from "@akasha/command-system/reading"
 import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { besideAt, namedIn } from "@akasha/pages-system/page-file-name"
+import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
 import { listedAbove } from "@akasha/pages-system/page-type-descent"
 import { slugOf } from "@akasha/seat-system/subagent-presence"
 
@@ -110,7 +110,7 @@ export function knowingIn(root: string): Knowing {
 }
 
 export function fromTabooTerm(warrant: Warrant): boolean {
-  return namedIn(warrant.path)?.tail === TABOO_TERM
+  return partedIn(warrant.path)?.pageType === TABOO_TERM
 }
 
 export function notReadOf(warrant: Warrant): string {
@@ -245,11 +245,11 @@ function warrantPagesIn(root: string): readonly string[] {
 export function gatheredIn(root: string): readonly Gathered[] {
   const found: Gathered[] = []
   for (const page of warrantPagesIn(root)) {
-    const said = namedIn(page)
+    const said = partedIn(page)
     if (said === null) {
       throw new Error(`${page} is a warrant page, and its name says no slug a runner can read`)
     }
-    const slug = said.stem
+    const slug = said.slug
     const stated = statedIn(join(root, page), slug)
     if (stated === null) {
       throw new Error(
@@ -389,8 +389,8 @@ export function unreadIn(
 export function seatPathOf(root: string, agentId: string): string | null {
   const listed = listedById(root, agentId)
   if (listed === null) return null
-  const said = namedIn(listed.path)
-  return said !== null && said.tail === SEAT ? listed.path : null
+  const said = partedIn(listed.path)
+  return said !== null && said.pageType === SEAT ? listed.path : null
 }
 
 export function subagentPathOf(root: string, agentId: string): string | null {
@@ -400,9 +400,9 @@ export function subagentPathOf(root: string, agentId: string): string | null {
   if (own === "") return null
   const seat = seatPathOf(root, agentId.slice(0, at))
   if (seat === null) return null
-  const said = namedIn(seat)
+  const said = partedIn(seat)
   if (said === null) return null
-  const listed = listedAt(root, SUBAGENT, slugOf(said.stem, own))[0]
+  const listed = listedAt(root, SUBAGENT, slugOf(said.slug, own))[0]
   return listed === undefined ? null : listed.path
 }
 

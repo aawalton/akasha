@@ -9,7 +9,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
-import { namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
+import { pageNamed, partedIn } from "@akasha/pages-system/page-file-name"
 import {
   identifyingFrom,
   sourceAmong,
@@ -126,8 +126,9 @@ export function filingOf(
 }
 
 function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | null>): boolean {
-  const said = namedIn(path)
-  return said !== null && !fileProperties.has(said.tail)
+  const said = partedIn(path)
+  if (said === null || said.sections.length > 0) return false
+  return !fileProperties.has(said.pageType)
 }
 
 function walkedUnder(at: string, taking: (name: string) => boolean): readonly string[] {
@@ -144,16 +145,13 @@ function walkedUnder(at: string, taking: (name: string) => boolean): readonly st
 }
 
 function pagesUnder(tree: string): readonly string[] {
-  const found = walkedUnder(tree, (name) => namedIn(name) !== null)
+  const found = walkedUnder(tree, (name) => partedIn(name)?.sections.length === 0)
   const pageTypes = new Set<string>([PAGE_TYPE])
   for (const one of found) {
-    const said = namedIn(one)
-    if (said !== null && said.tail === PAGE_TYPE) pageTypes.add(said.stem)
+    const said = partedIn(one)
+    if (said?.pageType === PAGE_TYPE) pageTypes.add(said.slug)
   }
-  return found.filter((one) => {
-    const said = namedIn(one)
-    return said !== null && pageTypes.has(said.tail)
-  })
+  return found.filter((one) => pageTypes.has(partedIn(one)?.pageType ?? ""))
 }
 
 const TS = ".ts"

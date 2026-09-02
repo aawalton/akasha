@@ -106,11 +106,12 @@ test("a file is judged by its own name rather than by the folders above it", () 
   expect(said[0]).toContain("its file is named `held`")
 })
 
-test("a stem carrying a dot is bound whole to the slug", () => {
+test("a slug never carries a dot, so a name carrying one names some other page", () => {
   const body = page("held.ledger", "module", "heldLedger")
   const said = reasons("akasha/held.ledger.module.ts", body)
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("bound as `heldLedger`")
+  expect(said).toHaveLength(3)
+  expect(said[0]).toContain("its file is named `held`")
+  expect(said[1]).toContain("its file is named `ledger`")
 })
 
 test("a page property's code file is no page, so a value it holds is passed over", () => {

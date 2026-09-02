@@ -31,6 +31,10 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
+      statement: "A page's name is the slug and the page type parted by a dot.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Whether the page type slot names a page type is answered against the set handed in.",
     },

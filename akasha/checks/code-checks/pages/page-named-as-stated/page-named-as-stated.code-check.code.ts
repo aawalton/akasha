@@ -1,7 +1,7 @@
 import { literalOf, parsedAs } from "@akasha/code-system/code-source"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn, sectionedIn } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -89,11 +89,12 @@ export function reasonsIn(
   given: Body,
   heldInAFile: ReadonlyMap<string, string | null>
 ): readonly string[] {
-  const said = namedIn(given.path)
+  const said = partedIn(given.path)
   if (said === null) return []
-  const stem = said.stem
-  const suffix = said.tail
-  if (heldInAFile.has(suffix)) return []
+  const beside = sectionedIn(said)
+  if (beside !== null && heldInAFile.has(beside.propertySlug)) return []
+  const stem = said.slug
+  const suffix = said.pageType
   const body = bodyOf(given)
   const stated = pagesIn(given.path, body)
   const first = stated[0]

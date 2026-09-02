@@ -5,7 +5,7 @@ import { namersOf, readingIn } from "@akasha/indexes"
 import { knownIn, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import { addressIn } from "@akasha/pages-system/page-address"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import type { Value } from "@akasha/pages-system/page-value"
 import { valuesOver } from "@akasha/pages-system/page-value"
 import ts from "typescript"
@@ -26,16 +26,23 @@ export type Renaming = {
 export type Asked = { readonly renaming: Renaming } | { readonly refused: string }
 
 export function renamingFor(from: string, to: string, id: string): Asked {
-  const was = namedIn(from)
-  const now = namedIn(to)
-  if (was === null || now === null || was.held !== now.held || was.tail !== now.tail) {
+  const was = partedIn(from)
+  const now = partedIn(to)
+  const alike =
+    was !== null &&
+    now !== null &&
+    was.sections.length === 0 &&
+    now.sections.length === 0 &&
+    was.held === now.held &&
+    was.pageType === now.pageType
+  if (was === null || now === null || !alike) {
     return {
       refused:
         `${from} would arrive called \`${basename(to)}\` — a move carries a body under the name ` +
         "it already has, and the one name it changes is the slug a page states",
     }
   }
-  if (was.tail === PAGE_TYPE) {
+  if (was.pageType === PAGE_TYPE) {
     return {
       refused:
         `${from} states a page type's slug, and that slug is the tail of every file naming a page ` +
@@ -43,7 +50,7 @@ export function renamingFor(from: string, to: string, id: string): Asked {
         "slug is not renamed here",
     }
   }
-  return { renaming: { id, was: was.stem, now: now.stem, pageTypeSlug: was.tail } }
+  return { renaming: { id, was: was.slug, now: now.slug, pageTypeSlug: was.pageType } }
 }
 
 export function besideRenamed(name: string, one: Renaming): string {

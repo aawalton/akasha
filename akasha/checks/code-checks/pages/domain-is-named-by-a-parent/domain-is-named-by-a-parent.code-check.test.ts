@@ -259,7 +259,7 @@ test("two pages carrying one slug are each judged, not skipped", () => {
   expect(said.map((filed) => filed.path).sort()).toEqual([one, two].sort())
 })
 
-test("the slug is the file's stem and the page type its suffix", () => {
+test("the slug is the file's first part and the page type the part after it", () => {
   const kinds = kindsIn(rooted())
   expect(namedUnder("akasha/a/b/index-relation.domain.ts", kinds)).toEqual({
     pageTypeSlug: "domain",
@@ -269,6 +269,6 @@ test("the slug is the file's stem and the page type its suffix", () => {
   expect(namedUnder("held.domain.ts", kinds)).toBeNull()
 })
 
-test("a stem carrying a dot is bound whole to the slug", () => {
-  expect(namedUnder("akasha/a.b.domain.ts", kindsIn(rooted()))?.slug).toBe("a.b")
+test("a slug never carries a dot, so `a.b.domain.ts` names a section rather than a domain", () => {
+  expect(namedUnder("akasha/a.b.domain.ts", kindsIn(rooted()))).toBeNull()
 })

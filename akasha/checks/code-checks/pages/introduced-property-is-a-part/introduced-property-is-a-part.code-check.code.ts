@@ -1,7 +1,7 @@
 import { namesIn } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { slugIn } from "@akasha/pages-system/page-address"
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn as nameParted } from "@akasha/pages-system/page-file-name"
 import { identityOf } from "@akasha/pages-system/page-type-properties"
 import { textAt, type Value } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
@@ -31,9 +31,9 @@ export type PageType = {
 
 export function typeNamedIn(path: string): string | null {
   if (!path.startsWith(INSIDE)) return null
-  const said = namedIn(path)
-  if (said === null || said.tail !== PAGE_TYPE) return null
-  return said.stem
+  const said = nameParted(path)
+  if (said === null || said.sections.length > 0 || said.pageType !== PAGE_TYPE) return null
+  return said.slug
 }
 
 export function declaresIn(value: Value | null): readonly string[] {

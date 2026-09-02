@@ -3,7 +3,7 @@ import {
   idsNaming,
   type Listed,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { namedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { partedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { type Value, valueAt } from "../../pages-system/page/page-value/page-value.module.code.ts"
 import { kindsUnder } from "../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 
@@ -21,8 +21,9 @@ export type DomainRow = {
 }
 
 function addressOf(path: string): string | null {
-  const said = namedIn(path)
-  return said === null ? null : `${said.tail}/${said.stem}`
+  const said = partedIn(path)
+  if (said === null || said.sections.length > 0) return null
+  return `${said.pageType}/${said.slug}`
 }
 
 function partsIn(value: Value | null): readonly string[] {

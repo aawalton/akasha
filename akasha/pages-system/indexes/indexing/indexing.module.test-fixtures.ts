@@ -23,6 +23,8 @@ export type Pair = { readonly tree: string; readonly root: string }
 
 export const scratch = scratchWorld()
 
+export const SWEEPING = 60000
+
 export const heldAt = (): string => scratch.rootFor("akasha-index-")
 
 export const bare = (): Pair => {

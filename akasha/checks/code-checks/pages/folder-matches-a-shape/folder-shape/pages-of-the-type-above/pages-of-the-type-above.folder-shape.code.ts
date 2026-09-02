@@ -1,5 +1,5 @@
 import { basename, dirname } from "node:path"
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
@@ -9,8 +9,9 @@ const TS = "ts"
 
 function ownPagesIn(standing: Standing, at: string, slug: string): number {
   return standing.under(at).filter((one) => {
-    const said = namedIn(one)
-    return said !== null && said.held === TS && said.tail === slug
+    const said = partedIn(one)
+    if (said === null || said.held !== TS || said.sections.length > 0) return false
+    return said.pageType === slug
   }).length
 }
 

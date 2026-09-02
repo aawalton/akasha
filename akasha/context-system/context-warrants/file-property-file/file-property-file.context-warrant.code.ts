@@ -1,6 +1,12 @@
 import { dirname, join } from "node:path"
 import { listedAt, schemaOf } from "@akasha/indexes"
-import { besideAt, type Named, namedIn, pageNamed } from "@akasha/pages-system/page-file-name"
+import {
+  besideAt,
+  type Parted,
+  pageNamed,
+  pageOf,
+  partedIn,
+} from "@akasha/pages-system/page-file-name"
 import { blobAt, type Knowing, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const PAGE =
@@ -11,9 +17,9 @@ export const PROPERTY =
 
 const TS = "ts"
 
-function pageBeside(path: string, said: Named): string | null {
-  const held = join(dirname(path), `${said.stem}.${TS}`)
-  return besideAt(held, said.tail, said.held) === path ? held : null
+function pageBeside(path: string, said: Parted, propertySlug: string): string | null {
+  const held = join(dirname(path), `${pageOf(said)}.${TS}`)
+  return besideAt(held, propertySlug, said.held) === path ? held : null
 }
 
 function propertyOf(root: string, propertySlug: string): Warrant | null {
@@ -26,16 +32,17 @@ function propertyOf(root: string, propertySlug: string): Warrant | null {
 }
 
 export function filePropertyFile(root: string, path: string, knowing: Knowing): readonly Warrant[] {
-  const said = namedIn(path)
+  const said = partedIn(path)
   if (said === null) return []
   const known = knowing()
-  if (known.types.has(said.tail)) return []
-  const page = pageBeside(path, said)
+  const only = said.sections.length === 1 ? said.sections[0] : undefined
+  if (only === undefined || known.types.has(only)) return []
+  const page = pageBeside(path, said, only)
   if (page === null || !pageNamed(page, known.types)) return []
   const oid = blobAt(root, page)
   if (oid === null) return []
   const found: Warrant[] = [{ path: page, oid: oid, owed: PAGE }]
-  const held = propertyOf(root, said.tail)
+  const held = propertyOf(root, only)
   if (held !== null) found.push(held)
   return found
 }

@@ -2,7 +2,7 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 
 const SHAPE_TYPE = "01a05da1-60fc-76ca-8503-b43deb6d5f53"
 
@@ -29,21 +29,21 @@ function rulesIn(held: Record<string, unknown>): readonly string[] {
 }
 
 function shapeIn(root: string, path: string): Shape {
-  const said = namedIn(path)
+  const said = partedIn(path)
   if (said === null) {
     throw new Error(`${path} is a sentence shape, and its name says no slug a reader can take`)
   }
   const mod = loadFrom(join(root, path)) as Record<string, unknown>
-  const held = mod[exportedAs(said.stem)]
+  const held = mod[exportedAs(said.slug)]
   if (held === null || typeof held !== "object") {
     throw new Error(
-      `${path} is a sentence shape, and answers to no \`${exportedAs(said.stem)}\` a reader can take`
+      `${path} is a sentence shape, and answers to no \`${exportedAs(said.slug)}\` a reader can take`
     )
   }
   const value = held as Record<string, unknown>
   const allowed = value.allowed
   return {
-    slug: said.stem,
+    slug: said.slug,
     definition: textIn(value, "definition") ?? "",
     allowed: typeof allowed === "boolean" ? allowed : null,
     reason: textIn(value, "reason"),

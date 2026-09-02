@@ -1,4 +1,4 @@
-import { namedIn } from "@akasha/pages-system/page-file-name"
+import { partedIn } from "@akasha/pages-system/page-file-name"
 import {
   everyOfType,
   idsNaming,
@@ -39,9 +39,9 @@ export function declaringOf(given: string | Reading, id: string): readonly Decla
   for (const said of idsNaming(reading, id, DECLARES)) {
     const listed = listedById(reading, said)
     if (listed === null) continue
-    const named = namedIn(listed.path)
-    if (named === null) continue
-    found.push({ slug: named.stem, kind: named.tail, id: said, path: listed.path })
+    const named = partedIn(listed.path)
+    if (named === null || named.sections.length > 0) continue
+    found.push({ slug: named.slug, kind: named.pageType, id: said, path: listed.path })
   }
   return found
 }
@@ -55,9 +55,9 @@ function underneath(reading: Reading, id: string): readonly string[] {
     walked.add(one)
     const listed = listedById(reading, one)
     if (listed === null) continue
-    const named = namedIn(listed.path)
-    if (named === null || named.tail !== PAGE_TYPE) continue
-    found.push(named.stem)
+    const named = partedIn(listed.path)
+    if (named === null || named.sections.length > 0 || named.pageType !== PAGE_TYPE) continue
+    found.push(named.slug)
     waiting.push(...idsNaming(reading, one, EXTENDS))
   }
   return found

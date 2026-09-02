@@ -10,7 +10,7 @@ import {
 import { dirname, join } from "node:path"
 import { alive, holderOf, markIn, startedAt } from "@akasha/file-system/lock-holder"
 import { exportedAs } from "../page-export-name/page-export-name.module.code.ts"
-import { namedIn, uncommittedAt } from "../page-file-name/page-file-name.module.code.ts"
+import { partedIn, uncommittedAt } from "../page-file-name/page-file-name.module.code.ts"
 import { loadedFrom, type Value } from "../page-value/page-value.module.code.ts"
 
 const HOLDS = "uncommitted"
@@ -76,9 +76,9 @@ function exclusively<T>(at: string, act: () => T, waited: number = WAITED_AT_MOS
 }
 
 export function nameFor(page: string): string {
-  const said = namedIn(page)
+  const said = partedIn(page)
   if (said === null) return HOLDS
-  return exportedAs(`${said.stem.replaceAll(".", "-")}-${said.tail}-${HOLDS}`)
+  return exportedAs([said.slug, said.pageType, ...said.sections, HOLDS].join("-"))
 }
 
 export function bodyFor(page: string, values: Value): string {
