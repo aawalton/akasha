@@ -37,6 +37,10 @@ const RECORD_PROPERTY = "record-property"
 
 const PROPERTIES = "properties"
 
+const MODULES = "modules"
+
+const PAGES = "pages"
+
 const PLURAL_SLUG = "pluralSlug"
 
 const loadFrom = createRequire(import.meta.url)
@@ -287,13 +291,29 @@ export function declaringOver(
   }
 }
 
-export function namingOver(
+export const HELD_FOLDERS = new Set<string>([MODULES, PAGES, PROPERTIES])
+
+export function strippedOf(named: string, above: readonly string[]): string {
+  for (const one of above) {
+    if (named.startsWith(`${one}-`)) return named.slice(one.length + 1)
+  }
+  return named
+}
+
+export function openingWith(named: string, above: readonly string[]): string | null {
+  for (const one of above) {
+    if (named === one || named.startsWith(`${one}-`)) return one
+  }
+  return null
+}
+
+export function namesOver(
   index: Answering,
   grouped: Grouped,
   pageTypes: ReadonlySet<string>,
   fileProperties: ReadonlySet<string>
-): (folder: string) => string | null {
-  const held = new Map<string, string | null>()
+): (folder: string) => readonly string[] {
+  const held = new Map<string, readonly string[]>()
   return (folder) => {
     const found = held.get(folder)
     if (found !== undefined) return found
@@ -302,13 +322,29 @@ export function namingOver(
       .map((one) => heldIn(one, pageTypes, fileProperties))
       .filter((one) => one.kind === "page")
     const page = pages.length === 1 ? pages[0] : undefined
-    let made: string | null = null
+    let made: readonly string[] = []
     if (page !== undefined && page.slug !== null && page.pageTypeSlug !== null) {
       const value = index.pageAt(page.pageTypeSlug, page.slug)
-      made = value === null ? page.slug : (textAt(value, PLURAL_SLUG) ?? page.slug)
+      const plural = value === null ? null : textAt(value, PLURAL_SLUG)
+      made = plural === null ? [page.slug] : [page.slug, plural]
     }
     held.set(folder, made)
     return made
+  }
+}
+
+export function namingOver(
+  index: Answering,
+  grouped: Grouped,
+  pageTypes: ReadonlySet<string>,
+  fileProperties: ReadonlySet<string>
+): (folder: string) => string | null {
+  const names = namesOver(index, grouped, pageTypes, fileProperties)
+  return (folder) => {
+    const held = names(folder)
+    const wants = held[1] ?? held[0]
+    if (wants === undefined) return null
+    return strippedOf(wants, names(folderOf(folder)))
   }
 }
 
@@ -346,11 +382,21 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   }
   const grouped = groupedBy(listedFiles(shadow.index, change))
   const declaring = declaringOver(shadow.index, grouped)
+  const namesFor = namesOver(shadow.index, grouped, pageTypes, fileProperties)
   const namedFor = namingOver(shadow.index, grouped, pageTypes, fileProperties)
   const parts = partsOver(shadow.index, change.root, stated, shadow.index.sidecarsAt())
   const entering = enteringOf(shadow)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
+    const named = basename(folder)
+    const opening = HELD_FOLDERS.has(named) ? null : openingWith(named, namesFor(folderOf(folder)))
+    if (opening !== null) {
+      found.push({
+        path: folder,
+        reason: `this folder opens with \`${opening}\`, what the page above it is named`,
+      })
+      continue
+    }
     const here = grouped.at(folder)
     const held = here.map((one) =>
       claimedIn(heldIn(one, pageTypes, fileProperties), shadow.index, filing)

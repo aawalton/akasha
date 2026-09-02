@@ -20,6 +20,31 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder's name never opens with the slug of the page above that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder's name never opens with the plural slug of the page above that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder opening with that name is refused whatever shape the folder would match.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal is answered before any shape is asked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name a folder is asked for is its page's own with that opening taken off.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder named for a part rather than for a page is asked for no such name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The refusal carries what each shape said rather than ranking them.",
     },
     {
