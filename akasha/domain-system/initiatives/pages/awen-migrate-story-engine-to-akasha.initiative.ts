@@ -11,7 +11,7 @@ export const awenMigrateStoryEngineToAkasha = {
     {
       statement: "Every world, story, chapter and turn the story engine keeps is a page in akasha.",
       workingMemory:
-        "No story page type is in akasha yet, and that blocks every page here. Entries are ready: `page-property-entry` declares a jsonl's columns, and 4,264 jsonl already sit inside. Copy `music/catalog/songs/song.page-type.ts` and `models/tests/properties/cases.page-property-entry.ts`. Counted on disk: royal-road chapters 18,082, skill 8,972, class 8,380. What Alan played is 488 files, world 151, turn 139, chapter-played 123, game 62, story-played 13, and only those cannot be fetched again.",
+        "`world` is a page type at `akasha/story/worlds` since `04649bd157`, carrying title, description and two reading entry properties. Left to move: 149 world pages, each with the same four keys, 10 carrying a sentence of prose. Only the-wandering-inn holds readings, 57 character rows and 11,354 mechanic rows. Every world id is a uuid v5, so each is re-minted keeping its last eight hex. Story, game, turn and chapter have no page type yet.",
     },
     {
       statement: "No part of a story or a world exists only in the database.",
