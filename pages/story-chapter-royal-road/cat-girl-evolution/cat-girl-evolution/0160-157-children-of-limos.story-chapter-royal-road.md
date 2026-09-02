@@ -1,0 +1,101 @@
+---
+id: 078a63a7-7a98-5046-8cdb-a96609a95bc3
+page-type-slug: story-chapter-royal-road
+title: "157 - Children of Limos"
+slug: 0160-157-children-of-limos
+partOf: cat-girl-evolution
+position: 160
+ownLength: 1680
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3899067/157-children-of-limos"
+royalRoadId: "3899067"
+---
+
+In the enclosed space of the tunnel, the ensuing battle is extremely chaotic. I Blink back over to Illiana’s side, giving her some much-needed cover as she retreats backward away from the skinless monsters. The Children of Limos are extraordinarily powerful, in terms of raw strength, and they are durable enough that my most basic Spatial Slices can’t do anything without the weight of my sword behind them.
+
+That’s about all they are, though, which would be easy enough to handle on its own if the other cultists weren’t assisting. None of them are particularly powerful, but they aren’t too weak either, and they’re all supporting the Children of Limos well. They conjure shields to block our attacks, send attacks flying our way when we try to counter, and generally making a nuisance of themselves.
+
+Despite all this, Illiana and I are never really in danger. As strong as the Children of Limos are, they are simple. Illiana can trip them with her roots, and I can cut through their legs if I get a direct hit. The cultists are much less durable, and with my ability to Blink and Snatch, they make much easier targets.
+
+If we just fought conservatively, this battle would end in our victory in a few minutes. We would get backed quite far down the tunnel, but we could whittle them down without much trouble. But given how desperate they seemed to keep us from getting through those doors at the end of the tunnel, I don’t want to do that.
+
+I only take a moment to weigh the risks, then decide to just go all out. I summon the tentacle and shark head thing that I made back in Maligar, and have been gradually upgrading along the road here. The head at the end is now much bigger, and the whole construct is stronger than before, since I have woven some of my own flesh into it. It latches onto my shoulder, wrapping around my left arm and becoming an extension of it. If Illiana is bothered by this, she doesn’t show it, barely glancing my way as she grows a wall of roots in front of us to block a stone projectile.
+
+I reach out with Food Sense, feeling through the cultists until I find the one who keeps making shields to protect the Children of Limos, and then use Snatch. She resists, but not for very long, and the moment she appears in front of me, I Devour her with my flesh construct arm. She doesn’t even have time to scream before the shark mouth descends on her head, biting down all the way to her legs, internally shredding her, and turning her blood and mana into my own.
+
+With the boosted power, I dash forward, sword raised as I charge a Spatial Slice with the mana I Devoured. The earth mage fires another stone projectile at me, but I just Blink to the side, appearing right next to one of the frontmost Children of Limos, swinging at its knee.
+
+The Child of Limos raises its double-jointed arm to swing downward at me, but my attack its first, cleaving straight through its knee. I Blink to the side as its fist hits the ground, sending a shockwave through the tunnel, then use my construct arm to grab the severed leg and start Devouring it.
+
+I feel an enormous surge of power and adrenaline as I start processing the leg. There’s hardly any mana at all, but I can practically feel my muscles swelling with how much physical power Devour is giving me. Before the Child of Limos hits the ground, I Blink behind another one, this time not even bothering to charge a Spatial Slice as I swing at its leg.
+
+The sword cuts through the leg even more easily than the first one, going so far as to get embedded in the other one. Something hits my back, sending blood splattering forward, and causing a wave of pain, but the pain disappears just as quickly as it arrived as the Devoured blood heals me almost instantly.
+
+The first Child of Limos I de-legged is healing as well. The flesh at the base of its stump is wriggling and extending, rapidly forming a new leg as it tries to get to its feet. However, Illiana is already on the case, and has used its temporary groundedness to attack its face with more roots. It jerks its head back, trying to rip the roots out, but the roots just extend, following the head wherever it goes as they wrap around and try to force their way into its eyes. And as the second one falls to the side, off-balance, I can sense more roots burrowing through the ground to do the same thing to it.
+
+The next minute passes in a blur, as I teleport through the battlefield, cutting down Children of Limos and cultists alike, Devouring what I can and using it to fuel more attacks. My head is pounding, and I feel like I can’t focus properly, which is probably correct, based on how many attacks are hitting me, but at this point, I barely feel them. One stone punches a hole straight through my stomach, taking out most of my intestines, and it hurts like hell, but only for a split second before the wound is gone. The damage to my clothes pisses me off, though, so I immediately blink to the Geomancer and Devour him.
+
+With every kill or wound, I get stronger, and whenever I Devour a piece of the Children of Limos, I get a rush. It’s addicting, and as soon as the rush wears off, I Blink back to get another, cutting off legs and arms as needed to sate my appetite. Somewhere in the back of my mind, I realize that something isn’t quite right, but in the moment, all I know is that I am hungry, and Devouring feels good.
+
+I Blink and slash and Blink and Devour and Blink again and slash again, over and over, getting stronger with each move. Eventually, I work my way to the back of the group, and immediately look around for my next target. I spot them almost immediately, pressed against the wall and looking at me in terror. I Blink over to her, raising my construct limb to Devour her, then hesitate.
+
+Wait… I slowly look around. I’m back where they first surrendered.
+
+I look around to see a few more cultists cowering in fear, then look behind me to see that Illiana is a hundred meters back, and rushing toward me through a field of blood and corpses. She’s shouting something, but there is so much blood rushing in my ears that I can’t make out what she’s saying. I think Abby is saying something too.
+
+I look back at the cultist below me, and my stomach rumbles. My construct arm twitches, and I can feel a hint of desperation as the power of my last Devour starts to fade. I want to eat her… but something’s wrong. This isn’t right.
+
+“--na! Yona! Yona!”
+
+Abby?
+
+“Yona! Oh, thank goodness. Take a step back, and put your sword and construct away.”
+
+But…
+
+I look back at the sobbing cultist. I hesitate a few seconds longer, then do as Abby says. I still feel strange. I still want to Devour the cultist. But as the power in my veins starts to fade, that desire fades too, and I’m able to start thinking more clearly.
+
+“What the heck just happened…?” I mutter.
+
+“Yona!”
+
+I turn to see Illiana run up beside me.
+
+“Are you alright?” she asks, looking concerned.
+
+“Y– yeah,” I say. “I just… Just gimme a minute.”
+
+“This is all my fault,” she says. “I should have warned you.”
+
+“Warned me about what?”
+
+“Limos. The cult is to Limos, the demon god of Hunger and Famine.”
+
+“Hunger and Famine?” I glance down at my stomach, which is still rumbling.
+
+“The demon flesh you Devoured was likely corrupted. I’m so sorry.”
+
+Corrupted…? Abby, I thought Devour purified whatever I ate and turn it into mine.
+
+“It’s supposed to…”
+
+Why didn’t it?
+
+“Demons exist partially outside the rules of the System. It’s possible they can get around it somehow.”
+
+Huh.
+
+I massage my temples as the feeling of intense hunger starts to fade. The cultists around are still trembling and crying, but things seem to be calming down slightly. I wait another minute until the unnatural hunger fades almost entirely, then take a better look at things.
+
+All the cultists that fought with the demons are gone. I Devoured them in their entirety. I devoured many of the limbs of the demons as well, but the rest of their corpses are still around. Illiana finished them all off, sending her roots into their bodies, crushing their brains and hearts. I look at them for a few seconds, then start grabbing them all to put in my Stomach. I’m not sure if I want to eat any more of them, but they’re good to have. At worst, they’ll be evidence for our Quest.
+
+Meanwhile, Illiana ties up the remaining cultists, who don’t even try to resist. A few of them are weeping and apologizing. These ones are young, not looking much older than sixteen. They probably had no idea what they were getting into. I feel a little bad for them, but not enough to offer them any comfort. They joined a demon cult, and now they’re facing the consequences.
+
+When Illiana finishes up, she takes a deep breath, then turns to me.
+
+“They won’t be going anywhere. We should go–”
+
+The rest of her sentence is cut off by a deafening boom from down the tunnel. It is accompanied by a wave of mana rippling outward, impacting us like a wave, and sending us stumbling back a few steps.
+
+We share a glance, then both start moving as quickly as we can toward the door that the cultists turned themselves into demons to prevent us from getting to.
