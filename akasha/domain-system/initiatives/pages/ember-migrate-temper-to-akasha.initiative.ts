@@ -9,11 +9,6 @@ export const emberMigrateTemperToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "The index says what the pages say.",
-      workingMemory:
-        "Fixed 2026-09-01 in 6baad44f. The import index keys an edge by the path a specifier resolves to, so a manifest moving that landing stranded every importer outside the change. `rereadOver` in `package-reaching` reads the naming as it was, finds the specifiers that moved, and reads their importers off the index for `settlingOver` to file. A withdrawal is read against the naming as it was rather than the one the change leaves. No index test fails and drift is zero, but no move has run since.",
-    },
-    {
       statement:
         "An entry is a page property shape extending `page-property-entry` rather than a page.",
       workingMemory:

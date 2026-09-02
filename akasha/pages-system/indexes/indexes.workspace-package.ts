@@ -106,8 +106,18 @@ export const indexes = {
       statement: "No page's entry is older than the files its properties hold.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "Nothing in the index differs from the pages.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An import edge is keyed by the path a specifier reaches rather than by the specifier.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change moving what a specifier reaches refiles every importer of that specifier.",
     },
     {
       invariantKind: "gap",
