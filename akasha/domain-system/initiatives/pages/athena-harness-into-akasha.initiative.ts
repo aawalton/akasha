@@ -12,7 +12,7 @@ export const athenaHarnessIntoAkasha = {
       statement:
         "The model gateway is a domain in akasha, and every module it runs from is a page there.",
       workingMemory:
-        "Twenty modules in at akasha/agents/models/gateway/modules/<slug>/, 266 tests. A sibling import is ../<slug>/<slug>.module.code.ts. shape.ts is never ported: akasha carries zod, and z.looseObject is the form rather than the deprecated .passthrough(). Left outside: oauth-effects gates 5; transport-log needs log-append and seat-presence-read, and observer-slot, forward and gateway all wait on it. Checks refuse UPPER_SNAKE consts, lowerCamel funcs, casts via unknown, comments in code, taboo terms.",
+        "24 modules at akasha/agents/models/gateway/modules/<slug>/, 358 tests. A sibling import is ../<slug>/<slug>.module.code.ts. shape.ts is never ported: akasha carries zod, and z.looseObject rather than the deprecated .passthrough(). transport-log and observer-slot are in: rows go through page-entry-queue with the page file path handed in by the caller, so no index is read for a row. Day keying stays, the sweep reading a date. Left outside: oauth-effects gates 5, forward and gateway behind.",
     },
     {
       statement: "No part of the model gateway is outside akasha.",
