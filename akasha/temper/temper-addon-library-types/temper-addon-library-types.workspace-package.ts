@@ -50,7 +50,6 @@ export const temperAddonLibraryTypes = {
     "type-declaration/lib-main-menu-shape",
     "type-declaration/lam-option-controls",
     "type-declaration/crafting-addon-neighbours",
-    "type-declaration/lib-zone-handle",
     "type-declaration/temper-addons-global",
   ],
 } as const satisfies WorkspacePackage
