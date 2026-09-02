@@ -23,6 +23,18 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a function only passes names along is answered beside its rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body holding a literal or an operator says something of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body holding no literal and no operator only passes names along.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A declaration carrying no body says no rule rather than saying an empty one.",
     },
     {

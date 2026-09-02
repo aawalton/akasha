@@ -5,7 +5,35 @@ export type Spelt = {
   readonly name: string
   readonly rule: string
   readonly exported: boolean
+  readonly forwards: boolean
 }
+
+const SAYING: ReadonlySet<ts.SyntaxKind> = new Set([
+  ts.SyntaxKind.StringLiteral,
+  ts.SyntaxKind.NumericLiteral,
+  ts.SyntaxKind.BigIntLiteral,
+  ts.SyntaxKind.RegularExpressionLiteral,
+  ts.SyntaxKind.NoSubstitutionTemplateLiteral,
+  ts.SyntaxKind.TemplateExpression,
+  ts.SyntaxKind.TaggedTemplateExpression,
+  ts.SyntaxKind.TrueKeyword,
+  ts.SyntaxKind.FalseKeyword,
+  ts.SyntaxKind.NullKeyword,
+  ts.SyntaxKind.ObjectLiteralExpression,
+  ts.SyntaxKind.ArrayLiteralExpression,
+  ts.SyntaxKind.BinaryExpression,
+  ts.SyntaxKind.PrefixUnaryExpression,
+  ts.SyntaxKind.PostfixUnaryExpression,
+  ts.SyntaxKind.ConditionalExpression,
+  ts.SyntaxKind.IfStatement,
+  ts.SyntaxKind.ForStatement,
+  ts.SyntaxKind.ForInStatement,
+  ts.SyntaxKind.ForOfStatement,
+  ts.SyntaxKind.WhileStatement,
+  ts.SyntaxKind.DoStatement,
+  ts.SyntaxKind.SwitchStatement,
+  ts.SyntaxKind.TryStatement,
+])
 
 function bound(fn: ts.FunctionLikeDeclaration): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
@@ -44,6 +72,17 @@ function ruleOf(fn: ts.FunctionLikeDeclaration, source: ts.SourceFile): string |
   return said.join(" ")
 }
 
+function forwarding(fn: ts.FunctionLikeDeclaration): boolean {
+  if (fn.body === undefined) return false
+  let only = true
+  const walk = (node: ts.Node): undefined => {
+    if (SAYING.has(node.kind)) only = false
+    ts.forEachChild(node, walk)
+  }
+  walk(fn.body)
+  return only
+}
+
 function exported(node: ts.Node): boolean {
   const held = ts.canHaveModifiers(node) ? ts.getModifiers(node) : undefined
   if (held?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true) return true
@@ -60,7 +99,14 @@ export function speltIn(path: string, text: string): readonly Spelt[] {
   const walk = (node: ts.Node): undefined => {
     if (ts.isFunctionDeclaration(node) && node.name !== undefined) {
       const rule = ruleOf(node, source)
-      if (rule !== null) found.push({ name: node.name.text, rule, exported: exported(node) })
+      if (rule !== null) {
+        found.push({
+          name: node.name.text,
+          rule,
+          exported: exported(node),
+          forwards: forwarding(node),
+        })
+      }
     }
     if (
       ts.isVariableDeclaration(node) &&
@@ -69,7 +115,14 @@ export function speltIn(path: string, text: string): readonly Spelt[] {
       (ts.isArrowFunction(node.initializer) || ts.isFunctionExpression(node.initializer))
     ) {
       const rule = ruleOf(node.initializer, source)
-      if (rule !== null) found.push({ name: node.name.text, rule, exported: exported(node) })
+      if (rule !== null) {
+        found.push({
+          name: node.name.text,
+          rule,
+          exported: exported(node),
+          forwards: forwarding(node.initializer),
+        })
+      }
     }
     ts.forEachChild(node, walk)
   }

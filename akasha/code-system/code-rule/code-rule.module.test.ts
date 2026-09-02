@@ -77,6 +77,47 @@ test("an arrow bound inside a function is read as its own rule", () => {
   expect(found.toSorted()).toEqual(["held", "twice"])
 })
 
+test("a function passing its names along and nothing else is marked as doing so", () => {
+  const said = `function held(one: string): string {
+  return upper(one)
+}
+`
+  expect(speltIn("one.ts", said)[0]?.forwards).toBe(true)
+})
+
+test("a body holding a literal says something of its own", () => {
+  const said = `function held(one: string): string {
+  return one.replace(/-/g, "")
+}
+`
+  expect(speltIn("one.ts", said)[0]?.forwards).toBe(false)
+})
+
+test("a body holding an operator says something of its own", () => {
+  const said = `function held(one: number): number {
+  return one * 2
+}
+`
+  expect(speltIn("one.ts", said)[0]?.forwards).toBe(false)
+})
+
+test("a body holding a branch says something of its own", () => {
+  const said = `function held(one: string): string {
+  if (isEmpty(one)) return other(one)
+  return upper(one)
+}
+`
+  expect(speltIn("one.ts", said)[0]?.forwards).toBe(false)
+})
+
+test("a cast to a type passes its names along, since a type is no literal", () => {
+  const said = `function held(one: unknown): Page {
+  return one as Page
+}
+`
+  expect(speltIn("one.ts", said)[0]?.forwards).toBe(true)
+})
+
 test("a rule bound to nothing is not read, because only a function is", () => {
   const said = `const one = "a-b".replace(/-/g, "")\n`
   expect(speltIn("one.ts", said)).toEqual([])
