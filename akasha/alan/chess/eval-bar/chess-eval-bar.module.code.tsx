@@ -1,5 +1,5 @@
 "use client"
-import "../../board/look/chess-board-look.stylesheet.styles.css"
+import "../board-look/chess-board-look.stylesheet.styles.css"
 
 export interface ChessEvalBarProps {
   readonly whiteFraction: number
