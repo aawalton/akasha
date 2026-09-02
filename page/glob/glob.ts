@@ -1,5 +1,6 @@
 import { type Dirent, readdirSync } from "node:fs"
 import { Minimatch } from "minimatch"
+import { onceInCall } from "@akasha/command-system/during-call"
 
 const MATCHING = { dot: true } as const
 
@@ -33,7 +34,7 @@ export function globBaseOf(pattern: string): string {
   return cut < 0 ? "" : pattern.slice(0, cut)
 }
 
-export function scanGlob(pattern: string, root: string): readonly string[] {
+function scannedGlob(pattern: string, root: string): readonly string[] {
   const matches = globFor(pattern)
   const found: string[] = []
   const walk = (dir: string): void => {
@@ -54,4 +55,18 @@ export function scanGlob(pattern: string, root: string): readonly string[] {
   }
   walk(globBaseOf(pattern))
   return found
+}
+
+// ONE WALK OF A TREE PER CALL, AND NO MEMORY OF IT PAST THE CALL. `**/*.md` over this checkout is
+// 56,534 files and 0.6s of `readdirSync`, and the editor's page tree asked for it seven times in
+// one read: six saved queries, each scanning for the query pages and again for the pages of its
+// type. Held for the length of a `duringOneCall` scope those seven walks are one, and the answer
+// is the same answer — measured byte for byte against what the seven walks composed. A reader
+// outside such a scope memoizes nothing and walks the disk as it stands.
+//
+// What a call gets is therefore the tree as it stood when that call first asked. `page-type-files`
+// and `documents` already hold a scan on those terms, so a writer landing a file and scanning
+// again inside one call was reading past its own write before this.
+export function scanGlob(pattern: string, root: string): readonly string[] {
+  return onceInCall(`scan-glob:${root} ${pattern}`, () => scannedGlob(pattern, root))
 }
