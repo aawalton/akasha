@@ -1,18 +1,23 @@
 "use client"
 
-import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
+import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import { useScrollRestoration } from "@akasha/design-patterns/use-scroll-restoration"
 import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
-import { applyCompanionMetadata } from "@temper/game-characters/build-metadata"
-import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
+import { applyCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
-import { buildOverallRankMap, buildRankingsMap, displayRoleComboKey, mapBaseRolesToDisplayRoles } from "@akasha/temper-companions-core/companion-leaderboard"
+import {
+  buildOverallRankMap,
+  buildRankingsMap,
+  displayRoleComboKey,
+  mapBaseRolesToDisplayRoles,
+} from "@akasha/temper-companions-core/companion-leaderboard"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
+import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import { useAllCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { CompanionsBuildBrowseTab } from "@/components/companions/companions-build-browse-tab"
 import type { FilterValues } from "@/components/companions/companions-filter-types"
