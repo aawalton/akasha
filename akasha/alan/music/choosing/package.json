@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/music-choosing",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./rating-ladder": "./rating-ladder/rating-ladder.module.code.ts",
+    "./music-exploration": "./music-exploration/music-exploration.module.code.ts",
+    "./track-candidate": "./track-candidate/track-candidate.module.code.ts",
+    "./track-resolving": "./track-resolving/track-resolving.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/errors-core": "workspace:*",
+    "@akasha/spotify": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
