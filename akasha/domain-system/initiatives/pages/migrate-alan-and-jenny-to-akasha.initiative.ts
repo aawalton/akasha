@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "The bar now reads through the widgets' system: upkeep 6, inboxes 3, keys and order byte-identical to the routes, 19.0s down to 34ms, and it answers under node with no Bun global. Nobody has seen it render in a live host, so what is owed is Alan reloading his window. The four in-process reaches he approved moving to bun children are a lane's, and `atomic-write` carries a `Bun.sleepSync` the same half-mend left reachable.",
+        "The bar reads through the widgets' system: upkeep 6, inboxes 3, keys and order byte-identical to the routes, 19.0s down to 34ms. What is owed is Alan reloading his window, since nobody has seen it render in a live host. The four reaches are bun children now and `atomic-write` is runtime-neutral. `page-value` refuses under a runtime holding no transpiler rather than reading every page as empty, and `import.meta.path` is a second bun-only global no `Bun.` search finds.",
     },
     {
       statement: "Nothing reads a readout through the markdown engine.",
