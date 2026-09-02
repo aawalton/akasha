@@ -38,6 +38,12 @@ function judged(change: Change): readonly Judged[] {
   return typecheck(change, cast.shadow)
 }
 
+function reached(one: Change): readonly string[] {
+  const cast = shadowFor(one)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return reachedBy(one, cast.shadow.index)
+}
+
 function over(root: string, path: string, body: string | null): readonly Judged[] {
   return judged(change(root, { [path]: body }))
 }
@@ -47,7 +53,7 @@ test("a page the change takes away leaves what its page type says loads it uncom
   const gone = change(root, { [LOADED_AT]: null })
   const cast = shadowFor(gone)
   if ("refused" in cast) throw new Error(cast.refused)
-  expect(rootsOf(gone, cast.shadow.reading)).toEqual([])
+  expect(rootsOf(gone, cast.shadow.index)).toEqual([])
   expect(typecheck(gone, cast.shadow)).toEqual([])
 })
 
@@ -246,12 +252,12 @@ test("the files compiled are the change and everything importing it, however far
     "akasha/deep/three.ts": 'import { two } from "./two.ts"\nexport const three = two\n',
     "akasha/apart.ts": "export const apart = 1\n",
   })
-  expect(reachedBy(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+  expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
     "akasha/deep/three.ts",
     "akasha/deep/two.ts",
     "akasha/one.ts",
   ])
-  expect(reachedBy(change(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([
+  expect(reached(change(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([
     "akasha/apart.ts",
   ])
 })
@@ -269,7 +275,7 @@ test("a file outside the akasha folder never becomes a root, however the index n
     "akasha/one.ts": "export const one = 1\n",
     "shared/two.ts": 'import { one } from "../akasha/one.ts"\nexport const two = one\n',
   })
-  expect(reachedBy(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+  expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
     "akasha/one.ts",
   ])
 })
@@ -280,7 +286,7 @@ test("an index naming no commit is refused, because an index that cannot answer 
     "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
   })
   const changed = { "akasha/one.ts": "export const one = 2\n" }
-  expect(reachedBy(change(root, changed))).toEqual(["akasha/one.ts", "akasha/two.ts"])
+  expect(reached(change(root, changed))).toEqual(["akasha/one.ts", "akasha/two.ts"])
   stampTakenFrom(root)
   expect(() => judged(change(root, changed))).toThrow(NAMING_NO_COMMIT)
 })
@@ -290,7 +296,7 @@ test("an index standing and naming no importer is an answer, so the change alone
     "akasha/one.ts": "export const one = 1\n",
     "akasha/two.ts": "export const two = 2\n",
   })
-  expect(reachedBy(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+  expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
     "akasha/one.ts",
   ])
 })

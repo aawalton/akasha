@@ -14,7 +14,6 @@ import { reachingInto } from "@akasha/graph-system/graph-asking"
 import { importEdge } from "@akasha/graph-system/import-edge"
 import type { Answering } from "@akasha/indexes/answering"
 import { waitingKeys } from "@akasha/indexes/generated-properties"
-import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "@akasha/pages-system/change"
 import { pageNamed } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
@@ -64,13 +63,13 @@ export function landingsIn(change: Change): readonly string[] {
   return held.sort()
 }
 
-export function reachedBy(change: Change, reading?: Reading): readonly string[] {
+export function reachedBy(change: Change, index: Answering): readonly string[] {
   const seeds = [...change.changed, ...landingsIn(change)]
-  return reachingInto(change.root, seeds, [IMPORT], compiled, reading)
+  return reachingInto(change.root, seeds, [IMPORT], index, compiled)
 }
 
-export function rootsOf(change: Change, reading?: Reading): readonly string[] {
-  return reachedBy(change, reading).filter((one) => change.after(one) !== null)
+export function rootsOf(change: Change, index: Answering): readonly string[] {
+  return reachedBy(change, index).filter((one) => change.after(one) !== null)
 }
 
 export function declaringIn(change: Change, index: Answering): readonly string[] {
@@ -138,7 +137,7 @@ export function foundOf(root: string, said: ts.Diagnostic): Found {
 }
 
 export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
-  const roots = rootsOf(change, shadow.reading)
+  const roots = rootsOf(change, shadow.index)
   if (roots.length === 0) return []
   const root = resolve(change.root)
   const keys = [...waitingKeys(shadow)]

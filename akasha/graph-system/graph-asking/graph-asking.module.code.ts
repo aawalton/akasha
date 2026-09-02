@@ -1,15 +1,5 @@
-import {
-  everyOfType,
-  importersOf,
-  type Listed,
-  listedAt,
-  listedByPath,
-  type Named,
-  namersOf,
-  readingIn,
-  typeSlugById,
-} from "@akasha/indexes"
-import type { Reading } from "@akasha/indexes/shape"
+import type { Listed, Named } from "@akasha/indexes"
+import type { Answering } from "@akasha/indexes/answering"
 import { addressIn } from "@akasha/pages-system/page-address"
 import { slugOf, textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
 import type { Known } from "../graph-attributes/pages/known.graph-attribute.ts"
@@ -65,8 +55,8 @@ function textFor(held: Value, key: string, path: string, asked: string): string 
   return said
 }
 
-function pageFor(reading: Reading, pageTypeSlug: string, slug: string, asked: string): Listed {
-  const found = listedAt(reading, pageTypeSlug, slug)[0]
+function pageFor(index: Answering, pageTypeSlug: string, slug: string, asked: string): Listed {
+  const found = index.listedAt(pageTypeSlug, slug)[0]
   if (found === undefined) {
     throw new Error(
       `no \`${pageTypeSlug}\` page is slugged \`${slug}\`, so ${asked} could not be answered`
@@ -75,12 +65,12 @@ function pageFor(reading: Reading, pageTypeSlug: string, slug: string, asked: st
   return found
 }
 
-function indexNameFor(root: string, reading: Reading, named: string, asked: string): string {
+function indexNameFor(root: string, index: Answering, named: string, asked: string): string {
   const address = addressIn(named)
   if (address.kind !== "qualified") {
     throw new Error(`\`${named}\` names no page type, so ${asked} could not be answered`)
   }
-  const found = pageFor(reading, address.pageTypeSlug, address.slug, asked)
+  const found = pageFor(index, address.pageTypeSlug, address.slug, asked)
   return textFor(valueFor(root, found.path, asked), INDEX_NAME, found.path, asked)
 }
 
@@ -90,12 +80,12 @@ function attributesIn(held: Value): readonly string[] {
   return said.filter((one): one is string => typeof one === "string").map(slugOf)
 }
 
-function askingFor(root: string, reading: Reading, kind: string, asked: string): Asking {
-  const found = pageFor(reading, GRAPH_EDGE, kind, asked)
+function askingFor(root: string, index: Answering, kind: string, asked: string): Asking {
+  const found = pageFor(index, GRAPH_EDGE, kind, asked)
   const held = valueFor(root, found.path, asked)
   return {
     kind,
-    indexName: indexNameFor(root, reading, textFor(held, INDEX_SLUG, found.path, asked), asked),
+    indexName: indexNameFor(root, index, textFor(held, INDEX_SLUG, found.path, asked), asked),
     attributeSlugs: attributesIn(held),
   }
 }
@@ -111,14 +101,13 @@ function attributeFor(asking: Asking, asked: string): string {
 }
 
 function importsInto(
-  root: string,
-  reading: Reading,
+  index: Answering,
   path: string,
   asking: Asking,
   asked: string
 ): readonly Edge[] {
   const attribute = attributeFor(asking, asked)
-  return importersOf(root, path, reading).map((from) => ({
+  return index.importersOf(path).map((from) => ({
     kind: asking.kind,
     from,
     to: path,
@@ -127,17 +116,17 @@ function importsInto(
 }
 
 function loadedFrom(
-  reading: Reading,
+  index: Answering,
   named: Named,
   to: string,
   asking: Asking,
   attribute: string
 ): readonly Edge[] {
-  const type = listedByPath(reading, named.path)[0]
+  const type = index.listedByPath(named.path)[0]
   if (type === undefined) return []
-  const filed = typeSlugById(reading, type.id)
+  const filed = index.typeSlugById(type.id)
   if (filed === null) return []
-  return everyOfType(reading, filed).map((one) => ({
+  return index.everyOfType(filed).map((one) => ({
     kind: asking.kind,
     from: one.path,
     to,
@@ -146,15 +135,15 @@ function loadedFrom(
 }
 
 function relationsInto(
-  reading: Reading,
+  index: Answering,
   path: string,
   asking: Asking,
   asked: string
 ): readonly Edge[] {
   const attribute = attributeFor(asking, asked)
   const found: Edge[] = []
-  for (const one of listedByPath(reading, path)) {
-    for (const named of namersOf(reading, one.id, asking.indexName)) {
+  for (const one of index.listedByPath(path)) {
+    for (const named of index.namersOf(one.id, asking.indexName)) {
       found.push({
         kind: asking.kind,
         from: named.path,
@@ -162,7 +151,7 @@ function relationsInto(
         attrs: { [attribute]: named.propertySlug },
       })
       if (named.propertySlug !== LOADED_BY) continue
-      found.push(...loadedFrom(reading, named, one.path, asking, attribute))
+      found.push(...loadedFrom(index, named, one.path, asking, attribute))
     }
   }
   return found
@@ -176,15 +165,15 @@ export function edgesInto(
   root: string,
   path: string,
   kinds: readonly string[],
-  reading: Reading = readingIn(root)
+  index: Answering
 ): readonly Edge[] {
   if (kinds.length === 0) return []
   const asked = askedFor(path, kinds)
   const found: Edge[] = []
   for (const kind of new Set(kinds)) {
-    const asking = askingFor(root, reading, kind, asked)
-    if (kind === IMPORT_EDGE) found.push(...importsInto(root, reading, path, asking, asked))
-    else if (kind === RELATION) found.push(...relationsInto(reading, path, asking, asked))
+    const asking = askingFor(root, index, kind, asked)
+    if (kind === IMPORT_EDGE) found.push(...importsInto(index, path, asking, asked))
+    else if (kind === RELATION) found.push(...relationsInto(index, path, asking, asked))
     else {
       throw new Error(
         `the \`${kind}\` edge is not yet read into a node, so ${asked} could not be answered`
@@ -204,13 +193,13 @@ export function reachingInto(
   root: string,
   paths: readonly string[],
   kinds: readonly string[],
-  through: (path: string) => boolean = () => true,
-  reading: Reading = readingIn(root)
+  index: Answering,
+  through: (path: string) => boolean = () => true
 ): readonly string[] {
   const found = new Set(paths.filter((one) => through(one)))
   const waiting = [...found]
   for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
-    for (const edge of edgesInto(root, one, kinds, reading)) {
+    for (const edge of edgesInto(root, one, kinds, index)) {
       if (found.has(edge.from) || !through(edge.from)) continue
       found.add(edge.from)
       waiting.push(edge.from)

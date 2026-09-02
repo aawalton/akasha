@@ -5,6 +5,7 @@ import { reachingInto } from "@akasha/graph-system/graph-asking"
 import { importEdge } from "@akasha/graph-system/import-edge"
 import { everyPath, listedAt, readingIn } from "@akasha/indexes"
 import { uncommittedNamed } from "@akasha/pages-system/page-file-name"
+import { shadowAt } from "@akasha/pages-system/shadow"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import { counted, landingAsked, textOf } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
@@ -284,7 +285,7 @@ export function tokenLanded(
   inStrings: boolean
 ): Answer {
   const every = everyPath(root).filter(compiled)
-  const reached = reachingInto(root, [one.path], [IMPORT], compiled)
+  const reached = reachingInto(root, [one.path], [IMPORT], shadowAt(root).index, compiled)
   const made = bindingFor(
     root,
     { typed: reached, every, inStrings },

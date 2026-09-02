@@ -24,6 +24,10 @@ export const graphAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "The index a question is answered from is named by the caller.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A module a page type names as its loader is reached from every page of that type.",
     },
