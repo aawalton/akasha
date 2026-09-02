@@ -9,7 +9,8 @@ export type { AddonInfo }
 
 export type AddonResolveOpts = ResolveOpts
 
-type AddonGlobalOwnershipModule = typeof import("@temper/shared-build-deploy-checks/addon-global-ownership")
+type AddonGlobalOwnershipModule =
+  typeof import("@akasha/temper-build-deploy-checks/addon-global-ownership")
 
 interface AddonsResolve {
   readonly listAllAddons: typeof listAllAddons
@@ -28,5 +29,5 @@ export function addonsResolve(): Promise<AddonsResolve> {
 // every `temper addon` invocation about 110ms. Only `temper addon
 // global-name-dependents` reads ownership, so the import stays dynamic.
 export function addonGlobalOwnership(): Promise<AddonGlobalOwnership> {
-  return import("@temper/shared-build-deploy-checks/addon-global-ownership")
+  return import("@akasha/temper-build-deploy-checks/addon-global-ownership")
 }
