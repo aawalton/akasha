@@ -47,6 +47,7 @@ export const dallaDraftIntoAPatch = {
     "An agent id carries at most one patch.",
     "A patch is uncommitted state on the seat and the subagent rather than a page.",
     "A patch and its conflicts are stored in the formats git already reads.",
+    "A draft is an authored change.",
     "A subagent drafts by default rather than applying.",
     "Alan settles each block's shape before it lands.",
     "The worktree waits until drafting works without it.",
