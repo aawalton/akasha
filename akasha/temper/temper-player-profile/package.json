@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/temper-player-profile",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./use-player": "./use-player/use-player.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/pages-access": "workspace:*",
+    "@akasha/pages-ui": "workspace:*",
+    "@akasha/temper-build-metadata": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19"
+  }
+}
