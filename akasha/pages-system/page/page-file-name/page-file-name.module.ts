@@ -10,7 +10,23 @@ export const pageFileName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name is read as its last three dotted parts.",
+      statement: "A name is read from its slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug never carries a dot.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page type follows the slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What follows the page type is a list of sections.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The last part is what the file holds.",
     },
     {
       invariantKind: "departure",
