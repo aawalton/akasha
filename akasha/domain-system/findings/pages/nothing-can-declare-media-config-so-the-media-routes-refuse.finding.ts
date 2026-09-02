@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const nothingCanDeclareMediaConfigSoTheMediaRoutesRefuse = {
+  id: "01a062aa-531f-72e9-8d63-155b88de0708",
+  pageTypeSlug: "finding",
+  slug: "nothing-can-declare-media-config-so-the-media-routes-refuse",
+  domainSlug: "workspace-package/alan-web",
+  claim:
+    "No page type in akasha declares `mediaConfig`, and the `page-type` page type declares no such property, so no page type file could carry one. Both readers of it throw for every input rather than answering empty, which kills `resolveMediaPage` and the six media routes on Alan's site that reach it. This is a second break beneath the media routes, apart from the file-backed roster, and it outlives that roster being mended.",
+  evidence:
+    'Measured on the workstation from `alanwalton/web`. `getMediaPageTypeSlugs()` threw: "fileMediaPageTypeSlugs: the pages did not answer, so no page type can be said to render media; an empty set would read as a tree where nothing does (`keys` names `mediaConfig`, and the `page-type` page type declares no such key. the keys are cover, definition, directives, extendsSlug, id, invariants, loadedBySlug, mortal, pageTypeSlug, partSlugs, pluralSlug, properties, slug)". `fileMediaConfig(chapter)` refused the same way.\n\n`page-asking` refuses a key its page type declares nothing for, and grepping every `*.page-type.ts` under `akasha/` for `mediaConfig` answers nothing, so there is no one page missing a value here.\n\n`file-page-type-config.module.ts:41-43` already carries a gap invariant naming it: "The `page-type` page type declares neither `sequence` nor `mediaConfig`." What it does not record is that two readers throw on that gap rather than reading it as a tree where nothing renders media.\n\nReached at `alanwalton/web/app/lib/media-page.ts:20`, so `resolveMediaPage` refuses for every page id. Its readers are `api.media.$pageId.variants.ts:24`, `api.media.$pageId.$medium.stream.ts:72`, `.ensure.ts:43`, `.marks.ts:27` and `.hls.m3u8.ts:30`. `mediaPageExists` in `@akasha/pages-ui/media/serve-media` asks the same question.\n\nTold apart from the roster: with `getPage` and `getMediaPageTypeSlugs` both stubbed to answer, the four routes reaching serve-media measured 404, 401 and 503 with no throw, except `hls.m3u8` for a page that is there, which threw `fileMediaConfig(chapter)` from `kokoro-render`.',
+} as const satisfies Finding
