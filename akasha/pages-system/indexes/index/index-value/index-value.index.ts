@@ -37,9 +37,5 @@ export const indexValue = {
       invariantKind: "absence",
       statement: "Nothing filed here says which pages name a page.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A value too long to file is filed as the path alone.",
-    },
   ],
 } as const satisfies Index
