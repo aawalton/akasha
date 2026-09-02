@@ -11,7 +11,7 @@ import {
   useCompletionCharactersByUser,
   useCompletionCompanions,
   useCompletionCompanionsByUser,
-} from "@temper/player-completion-ui/use-completion"
+} from "@akasha/temper-player-completion-ui/use-completion"
 import type { AccountProgressData } from "@/components/completion/completion-progress/account-progress"
 import { useAccountProgress } from "@/components/completion/completion-progress/account-progress"
 import type { CharacterProgressData } from "@/components/completion/completion-progress/character-progress"

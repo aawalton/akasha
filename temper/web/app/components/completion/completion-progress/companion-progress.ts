@@ -16,7 +16,7 @@ import type {
 import type {
   useCompletionCharacters,
   useCompletionCompanions,
-} from "@temper/player-completion-ui/use-completion"
+} from "@akasha/temper-player-completion-ui/use-completion"
 import { useMemo } from "react"
 
 export interface CompanionProgressData {

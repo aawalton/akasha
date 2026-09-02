@@ -21,6 +21,10 @@ import type {
   CharacterZoneCompletionProgress,
   CompletionCharacter,
 } from "@akasha/temper-player-completion/completion-ui-types"
+import type {
+  useAccountCompletion,
+  useCompletionCharacters,
+} from "@akasha/temper-player-completion-ui/use-completion"
 import type { CharacterSkillMorphProgress } from "@akasha/temper-skill-morphs/morph-progress-types"
 import type { CharacterAchievementProgressResult } from "@temper/player-completion/completion-achievement-progress"
 import { transformCharacterAchievementProgress } from "@temper/player-completion/completion-achievement-progress"
@@ -30,10 +34,6 @@ import { transformQuestProgress } from "@temper/player-completion/completion-que
 import { buildCharacterSummary } from "@temper/player-completion/completion-summary"
 import { transformCompletionCharacters } from "@temper/player-completion/completion-transforms"
 import { transformZoneCompletionProgress } from "@temper/player-completion/completion-zone-progress"
-import type {
-  useAccountCompletion,
-  useCompletionCharacters,
-} from "@temper/player-completion-ui/use-completion"
 import { useMemo } from "react"
 
 export interface CharacterProgressData {

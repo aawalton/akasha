@@ -1,8 +1,8 @@
-import type { CompanionVisibility } from "@akasha/temper-companions-core/companion-types"
-import type { useCompanionList } from "@temper/game-companions-ui/use-companions"
-import type { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
+import type { CompanionVisibility } from "@akasha/temper-companions-core/companion-types"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
+import type { useCompletionCompanions } from "@akasha/temper-player-completion-ui/use-completion"
+import type { useCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useMemo } from "react"
 
 type CompletionCompanions = ReturnType<typeof useCompletionCompanions>["companions"]

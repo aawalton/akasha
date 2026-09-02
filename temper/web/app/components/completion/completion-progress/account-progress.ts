@@ -20,6 +20,10 @@ import type {
   AccountLoreProgress,
   AccountTributeProgress,
 } from "@akasha/temper-player-completion/completion-ui-types"
+import type {
+  useAccountCompletion,
+  useCompletionCharacters,
+} from "@akasha/temper-player-completion-ui/use-completion"
 import type { SubclassingSkillMorphProgressResult } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
 import { transformSubclassingSkillMorphProgress } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
 import type { AccountTraitResearchUnionProgress } from "@temper/player-completion/completion-account-trait-union"
@@ -38,10 +42,6 @@ import { transformAntiquityLoreProgress } from "@temper/player-completion/comple
 import { transformCollectiblesProgress } from "@temper/player-completion/completion-collectibles-progress"
 import { buildAccountSummary } from "@temper/player-completion/completion-summary-account"
 import { transformTributeProgress } from "@temper/player-completion/completion-tribute-progress"
-import type {
-  useAccountCompletion,
-  useCompletionCharacters,
-} from "@temper/player-completion-ui/use-completion"
 import { useMemo } from "react"
 import type { CharacterProgressData } from "@/components/completion/completion-progress/character-progress"
 

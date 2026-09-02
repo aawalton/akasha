@@ -18,11 +18,11 @@ import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-
 import { decodeBuild } from "@akasha/temper-build-codec/build-codec"
 import { applyCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
+import { useCompletionCharactersByUser } from "@akasha/temper-player-completion-ui/use-completion"
 import {
   useAllCharacterList,
   useCharacterLifecycle,
 } from "@temper/game-characters-character-ui/use-characters"
-import { useCompletionCharactersByUser } from "@temper/player-completion-ui/use-completion"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
 import {

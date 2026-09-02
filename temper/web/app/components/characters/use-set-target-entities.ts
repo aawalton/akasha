@@ -10,12 +10,12 @@ import { classes } from "@akasha/temper-classes/character-class"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { useCompletionCharacters } from "@akasha/temper-player-completion-ui/use-completion"
 import { races } from "@akasha/temper-races/races"
 import {
   useCharacterLifecycle,
   useCharacterList,
 } from "@temper/game-characters-character-ui/use-characters"
-import { useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
 import { useMemo, useState, useTransition } from "react"
 import type { SetTargetEntity } from "@/components/ui/set-target-dialog"
