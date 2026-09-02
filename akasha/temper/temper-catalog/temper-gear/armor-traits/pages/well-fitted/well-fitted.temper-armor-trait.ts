@@ -1,4 +1,4 @@
-import type { TemperArmorTrait } from "../temper-armor-trait.page-type.ts"
+import type { TemperArmorTrait } from "../../temper-armor-trait.page-type.ts"
 
 export const wellFitted = {
   id: "01a05fb2-1bd1-73f9-bcca-bd39fc693315",

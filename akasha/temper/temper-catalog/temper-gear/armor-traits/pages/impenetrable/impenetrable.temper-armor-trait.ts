@@ -1,4 +1,4 @@
-import type { TemperArmorTrait } from "../temper-armor-trait.page-type.ts"
+import type { TemperArmorTrait } from "../../temper-armor-trait.page-type.ts"
 
 export const impenetrable = {
   id: "01a05fb2-1bce-7f82-b0f1-3b03e5065b7b",

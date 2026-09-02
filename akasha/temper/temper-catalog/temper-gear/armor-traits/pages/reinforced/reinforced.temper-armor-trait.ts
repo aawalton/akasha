@@ -1,4 +1,4 @@
-import type { TemperArmorTrait } from "../temper-armor-trait.page-type.ts"
+import type { TemperArmorTrait } from "../../temper-armor-trait.page-type.ts"
 
 export const reinforced = {
   id: "01a05fb2-1bd1-7dba-b5ac-0f28ecbae701",

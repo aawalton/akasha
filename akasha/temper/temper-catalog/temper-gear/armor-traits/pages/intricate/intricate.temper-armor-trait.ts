@@ -1,4 +1,4 @@
-import type { TemperArmorTrait } from "../temper-armor-trait.page-type.ts"
+import type { TemperArmorTrait } from "../../temper-armor-trait.page-type.ts"
 
 export const intricate = {
   id: "01a05fb2-1bcf-7a85-85c9-e404b16bdfbc",

@@ -1,4 +1,4 @@
-import type { TemperArmorTrait } from "../temper-armor-trait.page-type.ts"
+import type { TemperArmorTrait } from "../../temper-armor-trait.page-type.ts"
 
 export const sturdy = {
   id: "01a05fb2-1bd1-7a1a-a411-c520da348cc8",

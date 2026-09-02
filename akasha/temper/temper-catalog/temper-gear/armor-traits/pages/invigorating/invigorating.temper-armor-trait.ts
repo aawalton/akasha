@@ -1,4 +1,4 @@
-import type { TemperArmorTrait } from "../temper-armor-trait.page-type.ts"
+import type { TemperArmorTrait } from "../../temper-armor-trait.page-type.ts"
 
 export const invigorating = {
   id: "01a05fb2-1bcf-73a5-a7c0-c033d122331e",

@@ -1,4 +1,4 @@
-import type { TemperArmorTrait } from "../temper-armor-trait.page-type.ts"
+import type { TemperArmorTrait } from "../../temper-armor-trait.page-type.ts"
 
 export const infused = {
   id: "01a05fb2-1bcf-740b-839d-2f0819a8a7ad",
