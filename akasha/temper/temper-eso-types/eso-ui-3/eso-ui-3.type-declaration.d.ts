@@ -177,3 +177,24 @@ interface EsoLootShared {
   LootAllItems: (this: EsoLootShared) => void
 }
 declare const LOOT_SHARED: EsoLootShared
+
+interface ZoGamepadEntryData {
+  data: unknown
+  currentValue: boolean
+  SetDataSource: (this: ZoGamepadEntryData, dataSource: object) => void
+  SetIconTintOnSelection: (enabled: boolean) => undefined
+  SetIconDisabledTintOnSelection: (enabled: boolean) => undefined
+  SetHeader: (headingText: string) => undefined
+  [key: string]: unknown
+}
+
+interface ZoGamepadEntryDataClass {
+  New: (
+    this: ZoGamepadEntryDataClass,
+    displayName: string | undefined,
+    icon?: string,
+    ...args: readonly unknown[]
+  ) => ZoGamepadEntryData
+}
+
+declare const ZO_GamepadEntryData: ZoGamepadEntryDataClass
