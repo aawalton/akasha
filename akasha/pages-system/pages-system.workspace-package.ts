@@ -38,6 +38,7 @@ export const pagesSystem = {
     "domain/naming",
     "module/change",
     "module/checkout-roots",
+    "module/code-root",
     "module/markdown-document",
     "module/markdown-page-at",
     "module/markdown-page-name",

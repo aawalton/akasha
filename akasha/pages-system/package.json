@@ -6,6 +6,7 @@
     "./boolean-property": "./boolean-property/boolean-property.page-type.ts",
     "./change": "./change/change.module.code.ts",
     "./checkout-roots": "./checkout-roots/checkout-roots.module.code.ts",
+    "./code-root": "./code-root/code-root.module.code.ts",
     "./email-address-property": "./email-address-property/email-address-property.page-type.ts",
     "./file-property": "./file-property/file-property.page-type.ts",
     "./generator-kind": "./generator-kinds/generator-kind.page-type.ts",
