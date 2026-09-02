@@ -3,7 +3,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { nothingFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
 import { type Formatting, matchingIn } from "@akasha/pages-system/name-format/format-reaching"
-import { type Carried, propertiesOf } from "@akasha/pages-system/page-type-properties"
+import type { Carried } from "@akasha/pages-system/page-type-properties"
 import type { Value } from "@akasha/pages-system/page-value"
 import { shadowFor } from "@akasha/pages-system/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -52,7 +52,7 @@ const world = seeded(rooted)
 const formatting = matchingIn(rooted, world.index)
 
 function declaredIn(pageTypeSlug: string): readonly Carried[] {
-  return propertiesOf(pageTypeSlug, world.reading, world.pageOf)
+  return world.index.propertiesOf(pageTypeSlug)
 }
 
 function slugsIn(declared: readonly Carried[]): readonly string[] {

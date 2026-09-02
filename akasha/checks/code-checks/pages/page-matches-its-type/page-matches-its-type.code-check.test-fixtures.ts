@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { listedFiled, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
 import type { Formatting } from "@akasha/pages-system/name-format/format-reaching"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { type Carried, propertiesOf } from "@akasha/pages-system/page-type-properties"
+import type { Carried } from "@akasha/pages-system/page-type-properties"
 import { type Value, valueAt } from "@akasha/pages-system/page-value"
 import { type Shadow, shadowAt } from "@akasha/pages-system/shadow"
 import { put } from "@akasha/testing-system/putting"
@@ -444,7 +444,7 @@ function judged(formatting: Formatting, beside: (at: string) => string | null): 
   const shadow = shadowAt(REPO)
   return entryReasonsIn(
     valueAt(RESTATEMENT, REPO) ?? {},
-    propertiesOf("model-test", shadow.reading, shadow.pageOf),
+    shadow.index.propertiesOf("model-test"),
     shadow,
     RESTATEMENT,
     beside,

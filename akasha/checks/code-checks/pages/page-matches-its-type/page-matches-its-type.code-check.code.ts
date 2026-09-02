@@ -1,16 +1,10 @@
-import { pageTypesIn } from "@akasha/indexes/entries"
 import { waitingProperties } from "@akasha/indexes/generated-properties"
 import type { Change } from "@akasha/pages-system/change"
 import { type Formatting, matchingIn } from "@akasha/pages-system/name-format/format-reaching"
 import { entriedAmong, entriesIn, type Rows } from "@akasha/pages-system/page-entries"
 import { pageNamed } from "@akasha/pages-system/page-file-name"
 import { partsOf } from "@akasha/pages-system/page-file-parts"
-import {
-  type Carried,
-  carriedIn,
-  pageAt,
-  propertiesOf,
-} from "@akasha/pages-system/page-type-properties"
+import type { Carried } from "@akasha/pages-system/page-type-properties"
 import { loadedFrom, numberAt, textAt, type Value } from "@akasha/pages-system/page-value"
 import { type Shadow, shadowAt } from "@akasha/pages-system/shadow"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -94,7 +88,7 @@ export type Shaping = {
 
 export function fieldsFor(page: Value, shadow: Shadow, slug: string): ReadonlyMap<string, Carried> {
   const found = new Map<string, Carried>()
-  for (const each of carriedIn(page, shadow.reading, slug)) found.set(each.key, each)
+  for (const each of shadow.index.carriedIn(page, slug)) found.set(each.key, each)
   return found
 }
 
@@ -163,7 +157,7 @@ export function entryReasonsIn(
 ): readonly string[] {
   const said: string[] = []
   const pageFor = (one: Carried): Value | null =>
-    pageAt(shadow.reading, one.pageTypeSlug, one.pagePropertySlug, shadow.pageOf)
+    shadow.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
   for (const one of entriedAmong(declared)) {
     const held = value[one.key]
     if (typeof held !== "string") continue
@@ -199,7 +193,7 @@ export function reasonsIn(
   const said: string[] = []
   const byKey = new Map(declared.map((one): readonly [string, Carried] => [one.key, one]))
   const pageFor = (one: Carried): Value | null =>
-    pageAt(shadow.reading, one.pageTypeSlug, one.pagePropertySlug, shadow.pageOf)
+    shadow.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
   for (const one of declared) {
     if (!one.required || one.uncommitted || one.secret) continue
     if (excused.has(one.pagePropertySlug)) continue
@@ -273,7 +267,7 @@ export function unloadable(why: string | null): string {
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const pageTypes = pageTypesIn(shadow.reading)
+  const pageTypes = shadow.index.pageTypesIn()
   let generated: ReadonlySet<string> | null = null
   const generatedNow = (): ReadonlySet<string> => {
     if (generated !== null) return generated
@@ -284,7 +278,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carriedBy = (pageTypeSlug: string): readonly Carried[] => {
     const found = held.get(pageTypeSlug)
     if (found !== undefined) return found
-    const said = propertiesOf(pageTypeSlug, shadow.reading, shadow.pageOf)
+    const said = shadow.index.propertiesOf(pageTypeSlug)
     held.set(pageTypeSlug, said)
     return said
   }
