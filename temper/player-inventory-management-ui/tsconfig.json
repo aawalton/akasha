@@ -42,21 +42,6 @@
     },
     {
       "path": "../player-profile"
-    },
-    {
-      "path": "../game-items-core"
-    },
-    {
-      "path": "../game-items-rules-core"
-    },
-    {
-      "path": "../game-items-rules-matcher"
-    },
-    {
-      "path": "../game-items-rules-routing"
-    },
-    {
-      "path": "../game-items-rules-routing-core"
     }
   ],
   "include": [
