@@ -9,23 +9,31 @@ export const sampleSelecting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This raises rather than answering a span that held nothing.",
+      statement: "A reading is read off the rows kept beside the ESO day the reading began in.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the page type nothing answers for.",
+      statement: "A span holding no reading is answered empty rather than raised.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the metric and the span asked for.",
+      statement: "A row carrying a metric other than the one asked for is dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Readings come back oldest first by the instant each began.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The day either side of the span is read too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A span running from one day into the next is answered whole.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches a page.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A health reading is a page akasha carries.",
+      statement: "Nothing here asks the pages system service.",
     },
   ],
 } as const satisfies Module
