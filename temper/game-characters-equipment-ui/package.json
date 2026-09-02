@@ -2,7 +2,6 @@
   "name": "@temper/game-characters-equipment-ui",
   "dependencies": {
     "@akasha/temper-equipment-kinds": "workspace:*",
-    "@temper/game-characters-equipment": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",
