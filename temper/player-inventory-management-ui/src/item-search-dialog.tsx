@@ -1,9 +1,22 @@
 "use client"
 
-import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@akasha/design-primitives/command"
-import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
+import {
+  Command,
+  CommandEmpty,
+  CommandGroup,
+  CommandInput,
+  CommandItem,
+  CommandList,
+} from "@akasha/design-primitives/command"
+import {
+  Dialog,
+  DialogBody,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+} from "@akasha/design-primitives/dialog"
 import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
-import type { MinedItemSearchResult } from "@temper/game-items-core/item-tooltip-types"
+import type { MinedItemSearchResult } from "@akasha/temper-items-core/item-tooltip-types"
 import { useEffect, useState } from "react"
 
 interface ItemSearchDialogProps {
