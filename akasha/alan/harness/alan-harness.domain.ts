@@ -104,6 +104,10 @@ export const alanHarness = {
       invariantKind: "departure",
       statement: "Health samples are imported by `akasha importing health`.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Alan's inboxes widget shows all three stoplights.",
+    },
   ],
   directives: [
     {

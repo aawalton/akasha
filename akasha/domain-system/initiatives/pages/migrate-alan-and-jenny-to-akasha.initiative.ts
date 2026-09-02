@@ -14,11 +14,6 @@ export const migrateAlanAndJennyToAkasha = {
         "Alan named this on 09-02: two Claude usage numbers beside the upkeep and inboxes readout groups. An explorer is mapping what exists — whether the extension already carries a status line, which pair of usage numbers he means, and whether a process on this workstation can reach the relayed readings or must go over HTTP to the pod. Both stoplight routes on his site answered 401 to an unauthenticated probe. The reach decides the shape, so nothing is built until that map returns.",
     },
     {
-      statement: "Alan's inboxes stoplights and widget work.",
-      workingMemory:
-        "Three answer: email, tasks, temper-tasks. Measured through `answerStoplightsAdmittedBy` against the live store on 8787: `in group 3 | readings held 3 | STOPLIGHTS 3`, against 5 before. Questions and texts went at `fdee638096` with every reference, and `live-count` with them as the one readout it served. The reading script and route test went first at `e0015925ad`, since `akasha write` refuses a path outside `akasha/`. The relay unit is reinstalled at three runs. Owed is a widget build.",
-    },
-    {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
         "Alan has ruled this the priority: the pod cannot answer page queries from its own checkout and must reach the pages-system-service. That checkout resets to origin at pod start and was 262 commits stale, hiding four landed readouts from his widget while they were right here. The service answers for akasha pages alone and refuses the rest by name, so a census of what the pod asks for is owed before any switch. No fallback to the checkout: that is the same defect wearing resilience.",
