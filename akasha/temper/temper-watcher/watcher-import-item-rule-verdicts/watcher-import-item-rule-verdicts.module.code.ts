@@ -1,6 +1,5 @@
 import { getPage } from "@akasha/pages-access/get"
 import { patchPage } from "@akasha/pages-access/patch"
-import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { upsertItemRuleByItemId } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import type { ItemAction } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
@@ -12,6 +11,10 @@ import type { Json } from "@akasha/utils-narrow/json-value"
 import { z } from "zod"
 import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
 import { toRuleSettings } from "../watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
+import {
+  type SignedInReader,
+  signedInUserId,
+} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const TEMPER_PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
@@ -76,18 +79,8 @@ export function knownUserSource(userId: string): VerdictUserSource {
   return { userId: async () => userId }
 }
 
-export function supabaseUserSource(supabase: SupabaseServiceRoleClient): VerdictUserSource {
-  return {
-    userId: async () => {
-      const result = await supabase.auth.getUser()
-      const id = result.data.user?.id
-      if (result.error != null || id == null) {
-        const why = result.error?.message ?? "the session names no user"
-        throw new Error(`No signed-in user to import item-rule verdicts for: ${why}`)
-      }
-      return id
-    },
-  }
+export function supabaseUserSource(reader: SignedInReader): VerdictUserSource {
+  return { userId: async () => signedInUserId(reader, "import these item-rule verdicts") }
 }
 
 export type InventorySettingsRead =
