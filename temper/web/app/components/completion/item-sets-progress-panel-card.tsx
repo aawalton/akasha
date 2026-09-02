@@ -1,5 +1,6 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import { SET_SUBCATEGORY_TO_ACTIVITY } from "@akasha/temper-player-completion/activity-category-mapping"
 import type { AccountCardId } from "@akasha/temper-player-completion/completion-card-registry"
 import {
   type CompletionFilter,
@@ -9,7 +10,6 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import { SET_SUBCATEGORY_TO_ACTIVITY } from "@temper/player-completion/activity-categories"
 import type {
   ItemSetOverallProgress,
   ItemSetSubcategoryProgress,
