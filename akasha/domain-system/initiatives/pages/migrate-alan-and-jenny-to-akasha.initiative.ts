@@ -9,6 +9,11 @@ export const migrateAlanAndJennyToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
+      statement: "Alan's upkeep widget shows all six stoplights.",
+      workingMemory:
+        "The Swift ships and draws six rings today; the tile reads `No signal`. The gap is modelling rather than layout. `upkeep-safety` and `upkeep-surplus` dropped `upkeep` from their groupSlugs on the way in, so the group matches zero and `/api/habit-stoplights` answers 503 as a stub. Owed: an `upkeep.readout-group.ts`, four readouts and four scales for capacity, plants, activity and sleep, a reading and relay service each, and one route line. Two of six draws two rings rather than failing.",
+    },
+    {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
         "The bridge in `readouts/ask-here.ts` holds, by decision. No type is refused by name: the index covers `akasha/` alone and its loader requires TypeScript, so a markdown body throws and the page is dropped unnoted. A probe served `value` from markdown in 131 lines, six rows checked on disk. It buys little: the stoplights ask by saved query, so closing this needs seven page types, a frontmatter parser akasha declares it has none of, caching, and a kebab-camel ruling with live callers each side.",
