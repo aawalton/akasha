@@ -5,7 +5,7 @@ import type {
   InventoryItemData,
   InventoryLocationData,
 } from "@temper/game-items-core/inventory-types"
-import { parseItemLink } from "@temper/game-items-core/item-link-parser"
+import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
 import { locationConditionFromKeyAndBag } from "@temper/game-items-core/location-condition"
 import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventory-rule-compiler-types"
 import { computeStockGroups } from "@temper/game-items-rules-eval/compute-stock-groups"

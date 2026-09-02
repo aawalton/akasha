@@ -1,6 +1,7 @@
 {
   "name": "@temper/game-items-rules-eval",
   "dependencies": {
+    "@akasha/temper-items-core": "workspace:*",
     "@temper/game-items-core": "workspace:*",
     "@temper/game-items-rules-core": "workspace:*"
   },

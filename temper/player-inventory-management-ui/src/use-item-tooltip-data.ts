@@ -1,4 +1,4 @@
-import { parseItemLink } from "@temper/game-items-core/item-link-parser"
+import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
 import type {
   ItemTooltipData,
   ItemTooltipInstance,

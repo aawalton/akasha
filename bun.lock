@@ -25,6 +25,7 @@
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-game-catalog-capture-host": "workspace:*",
         "@akasha/temper-hud-components": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-lua-runner": "workspace:*",
         "@akasha/temper-quests-trace": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
@@ -885,6 +886,9 @@
       "dependencies": {
         "zod": "^4.3.6",
       },
+    },
+    "akasha/temper/temper-hud-window": {
+      "name": "@akasha/temper-hud-window",
     },
     "akasha/temper/temper-inventory-automation": {
       "name": "@akasha/temper-inventory-automation",
@@ -2502,6 +2506,7 @@
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@temper/game-characters-equipment": "workspace:*",
@@ -2576,6 +2581,7 @@
       "name": "@temper/game-items-rules-eval",
       "version": "0.1.0",
       "dependencies": {
+        "@akasha/temper-items-core": "workspace:*",
         "@temper/game-items-core": "workspace:*",
         "@temper/game-items-rules-core": "workspace:*",
       },
@@ -2875,6 +2881,7 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -3653,6 +3660,8 @@
     "@akasha/temper-game-catalog-capture-host": ["@akasha/temper-game-catalog-capture-host@workspace:akasha/temper/temper-game-catalog-capture-host"],
 
     "@akasha/temper-hud-components": ["@akasha/temper-hud-components@workspace:akasha/temper/temper-hud-components"],
+
+    "@akasha/temper-hud-window": ["@akasha/temper-hud-window@workspace:akasha/temper/temper-hud-window"],
 
     "@akasha/temper-inventory-automation": ["@akasha/temper-inventory-automation@workspace:akasha/temper/temper-inventory-automation"],
 

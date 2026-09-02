@@ -176,6 +176,7 @@
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-game-catalog-capture-host": "workspace:*",
     "@akasha/temper-hud-components": "workspace:*",
+    "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-lua-runner": "workspace:*",
     "@akasha/temper-quests-trace": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",

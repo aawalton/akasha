@@ -19,7 +19,7 @@ import type {
   PlacedFurnishingData,
   PriceSource,
 } from "./inventory-types"
-import { parseItemLink } from "./item-link-parser"
+import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
 
 function asNumber(value: unknown): number {
   return typeof value === "number" ? value : 0

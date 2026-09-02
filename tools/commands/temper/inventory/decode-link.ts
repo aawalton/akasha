@@ -2,7 +2,7 @@
 export const summary = "Decode a 20-field ESO item link string to labeled fields"
 
 import type { CommandHelp } from "../../../ops/surface.ts"
-import { parseItemLink } from "@temper/game-items-core/item-link-parser"
+import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
 import { inputError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 

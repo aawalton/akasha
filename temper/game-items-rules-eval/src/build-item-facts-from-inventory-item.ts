@@ -6,7 +6,7 @@ import {
   type InventoryItemData,
   isKnowledgeItem,
 } from "@temper/game-items-core/inventory-types"
-import { parseItemLink } from "@temper/game-items-core/item-link-parser"
+import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
 import type { InventoryLocationConditionId } from "@temper/game-items-core/location-condition"
 import { parseMotifBookName } from "@temper/game-items-core/motif-name-parser"
 import { getRecipeResultId } from "@temper/game-items-core/recipe-result-id-lookup"
