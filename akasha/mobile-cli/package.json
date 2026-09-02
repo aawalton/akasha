@@ -8,6 +8,7 @@
     "./asc-client": "./asc-client/asc-client.module.code.ts",
     "./build-input-sources": "./build-input-sources/build-input-sources.module.code.ts",
     "./build-stamp-gate": "./build-stamp-gate/build-stamp-gate.module.code.ts",
+    "./cut-fingerprint": "./cut-fingerprint/cut-fingerprint.module.code.ts",
     "./export-options-plist": "./export-options-plist/export-options-plist.module.code.ts",
     "./foundation": "./foundation/foundation.module.code.ts",
     "./git-tree-hash": "./git-tree-hash/git-tree-hash.module.code.ts",

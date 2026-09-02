@@ -23,6 +23,7 @@ export const mobileCli = {
     "module/mac-build-serialization",
     "module/build-input-sources",
     "module/testflight-deploy-script",
+    "module/cut-fingerprint",
     "module/local-cut-lock",
     "module/sim-run-tree",
     "module/sim-www-stage",
@@ -47,7 +48,7 @@ export const mobileCli = {
     },
     {
       invariantKind: "stopgap",
-      statement: "The app pages this reads are markdown outside akasha.",
+      statement: "The pages this reads are markdown outside akasha.",
     },
     {
       invariantKind: "departure",
