@@ -1,4 +1,4 @@
-import { Page } from "@akasha/temper-addon-generators/addon-data-page"
+import { asPage, type Page } from "@akasha/temper-addon-generators/addon-data-page"
 import { askComposed } from "./pages-bridge.ts"
 import { z } from "zod"
 
@@ -208,6 +208,6 @@ export function withSidecars(
       const held = sidecars.get(markOf(pageTypeSlug, named, carry.sidecar))
       out[carry.key] = held === undefined ? EMPTY[carry.shape] : shaped(carry.shape, held)
     }
-    return Page(out)
+    return asPage(out)
   })
 }

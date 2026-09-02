@@ -18,11 +18,15 @@ export const CODEGEN_IDENTITY_BLIND_SPOTS: readonly CodegenIdentityBlindSpot[] =
   },
 ]
 
-export const INSTRUCTIONS_MIRROR_DIR = "tools/lib/temper-addon-data/generators"
+export const INSTRUCTIONS_MIRROR_DIR = "akasha/temper/temper-addon-generators"
 
 const RULES_CORE = "temper/game-items-rules-core/src"
 const ADDON_RULE_TYPES = "temper/game-items-addon/src/generated/rule-types.generated.ts"
 const GEN = INSTRUCTIONS_MIRROR_DIR
+
+function gen(slug: string): string {
+  return `${GEN}/${slug}/${slug}.module.code.ts`
+}
 const COMPANIONS_SNAP = "temper/game-companions-core/src/generated"
 const SKILLS_SNAP = "temper/game-characters-skills/src/generated"
 const CHAR_SNAP = "temper/game-characters-character/src/generated"
@@ -32,7 +36,7 @@ const COMPLETION_SNAP = "temper/player-completion/src/generated"
 const COMPLETION_ADDON = "temper/player-completion-addon/src/skill-point-data.ts"
 
 export const MIRROR_GENERATORS: ReadonlyMap<string, CodegenIdentityRemedy> = new Map([
-  [ADDON_RULE_TYPES, { repo: "instructions", file: `${GEN}/rule-types.ts` }],
+  [ADDON_RULE_TYPES, { repo: "instructions", file: gen("rule-types") }],
 ])
 
 export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
@@ -107,7 +111,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-companion-role.ts`,
+      file: gen("temper-companion-role"),
       kind: "object-keys",
       symbol: "KEY_RANK",
     },
@@ -122,7 +126,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-character-role.ts`,
+      file: gen("temper-character-role"),
       kind: "object-keys",
       symbol: "KEY_RANK",
     },
@@ -137,7 +141,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-target-scope.ts`,
+      file: gen("temper-target-scope"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -152,7 +156,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-target-type.ts`,
+      file: gen("temper-target-type"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -167,7 +171,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-status-effect-type.ts`,
+      file: gen("temper-status-effect-type"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -182,7 +186,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-special-effect-type.ts`,
+      file: gen("temper-special-effect-type"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -197,7 +201,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-comparison-op.ts`,
+      file: gen("temper-comparison-op"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -212,7 +216,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-companion-armor-slot.ts`,
+      file: gen("temper-companion-armor-slot"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -227,7 +231,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-companion-jewelry-slot.ts`,
+      file: gen("temper-companion-jewelry-slot"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -242,7 +246,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-companion-weapon-slot.ts`,
+      file: gen("temper-companion-weapon-slot"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -257,7 +261,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-companion-weapon-role.ts`,
+      file: gen("temper-companion-weapon-role"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -272,7 +276,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-companion-activation-buff.ts`,
+      file: gen("temper-companion-activation-buff"),
       kind: "object-keys",
       symbol: "KEY_RANK",
     },
@@ -287,7 +291,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-companion-skill-slot.ts`,
+      file: gen("temper-companion-skill-slot"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -302,7 +306,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-companion-trait.ts`,
+      file: gen("temper-companion-trait"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -317,7 +321,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-skill-bars.ts`,
+      file: gen("temper-skill-bars"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -332,7 +336,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-skill-slot.ts`,
+      file: gen("temper-skill-slot"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -347,7 +351,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-skill-type.ts`,
+      file: gen("temper-skill-type"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -362,7 +366,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-weapon-bar.ts`,
+      file: gen("temper-weapon-bar"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -377,7 +381,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-rotation-breakdown-row.ts`,
+      file: gen("temper-rotation-breakdown-row"),
       kind: "object-keys",
       symbol: "PRECEDENCE",
     },
@@ -392,7 +396,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/skill-line-categories.ts`,
+      file: gen("skill-line-categories"),
       kind: "object-keys",
       symbol: "KEY_RANK",
     },
@@ -408,7 +412,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-skill-point.ts`,
+      file: "tools/lib/temper-addon-data/generators/temper-skill-point.ts",
       kind: "object-keys",
       symbol: "GENERAL_KEY_RANK",
     },
@@ -424,7 +428,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-skill-point.ts`,
+      file: "tools/lib/temper-addon-data/generators/temper-skill-point.ts",
       kind: "object-keys",
       symbol: "ZONE_KEY_RANK",
     },
@@ -440,7 +444,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     },
     mirror: {
       repo: "instructions",
-      file: `${GEN}/temper-skill-point.ts`,
+      file: "tools/lib/temper-addon-data/generators/temper-skill-point.ts",
       kind: "array-field",
       symbol: "PUBLIC_DUNGEONS",
       field: "key",

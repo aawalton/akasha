@@ -6,7 +6,7 @@ import { diskFileTree } from "../../../page/file-tree.ts"
 import { asDeclared, typesFor } from "../page-property-types.ts"
 import { resolveRoots } from "@akasha/pages-system/checkout-roots"
 import { camelizeKey, kebabizeKey } from "../tracking/keys.ts"
-import { type Json, Page } from "@akasha/temper-addon-generators/addon-data-page"
+import { asPage, type Json, type Page } from "@akasha/temper-addon-generators/addon-data-page"
 
 export { askComposed, requireFirst }
 
@@ -54,7 +54,7 @@ function pageOf(
   for (const [key, value] of Object.entries(values)) {
     held[camelizeKey(key)] = valueOf(value, types.get(key))
   }
-  return Page(held)
+  return asPage(held)
 }
 
 function keysFor(select: readonly string[] | undefined): readonly string[] | undefined {
