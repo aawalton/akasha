@@ -20,7 +20,7 @@ import {
   InstantSentinelInput,
   RelativeToTodayInput,
 } from "@akasha/pages-ui-components/date-time-filter-inputs"
-import { MultiRelationValueInput, RelationValueInput } from "./relation-filter-inputs"
+import { MultiRelationValueInput, RelationValueInput } from "@akasha/pages-ui-components/relation-filter-inputs"
 import {
   CalendarTimeValueInput,
   DateValueInput,

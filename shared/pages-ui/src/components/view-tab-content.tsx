@@ -19,7 +19,7 @@ import { useNotesViewProps } from "@akasha/pages-ui-components/use-notes-view-pr
 import { usePropertyChangePerfHandler } from "@akasha/pages-ui-components/use-property-change-perf-handler"
 import { useReorderViewWiring } from "@akasha/pages-ui-components/use-reorder-view-wiring"
 import { useViewConfigHandlers } from "@akasha/pages-ui-components/use-view-config-handlers"
-import { useViewRowHandlers } from "./use-view-row-handlers.ts"
+import { useViewRowHandlers } from "@akasha/pages-ui-components/use-view-row-handlers"
 import { useViewTabContentData } from "./use-view-tab-content-data.ts"
 import { buildRelationBackLinkHref, buildRowHref } from "@akasha/pages-ui-components/view-tab-content-href"
 

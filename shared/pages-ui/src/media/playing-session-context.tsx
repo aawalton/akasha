@@ -24,7 +24,7 @@ import { useAudioAutoAdvance } from "@akasha/pages-ui/media/use-audio-auto-advan
 import { useAudioSeekAndPlay } from "@akasha/pages-ui/media/use-audio-seek-and-play"
 import { useAudioTimeSubscription } from "@akasha/pages-ui/media/use-audio-time-subscription"
 import { useAudioTransport } from "@akasha/pages-ui/media/use-audio-transport"
-import { useCrossModePositionWrite } from "./use-cross-mode-position-write"
+import { useCrossModePositionWrite } from "@akasha/pages-ui/media/use-cross-mode-position-write"
 import { usePersistAudioSession } from "@akasha/pages-ui/media/use-persist-audio-session"
 import { usePersistentAudioContainer } from "@akasha/pages-ui/media/use-persistent-audio-container"
 import type { MediaSrcResolver } from "@akasha/pages-ui/media/use-shell-media-src"

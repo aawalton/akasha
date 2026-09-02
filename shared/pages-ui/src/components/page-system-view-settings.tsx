@@ -23,14 +23,14 @@ import { useState } from "react"
 import { GalleryOptionsPicker } from "@akasha/pages-ui-components/gallery-options-picker"
 import { GroupByPicker } from "@akasha/pages-ui-components/group-by-picker"
 import { NotesOptionsPicker } from "@akasha/pages-ui-components/notes-options-picker"
-import { PageSizePicker } from "./page-size-picker"
+import { PageSizePicker } from "@akasha/pages-ui-components/page-size-picker"
 import {
   DEFAULT_LAYOUT,
   LAYOUT_OPTIONS,
   type ViewSettingsButtonProps,
   type ViewSettingsView,
 } from "@akasha/pages-ui-components/view-settings-options"
-import { PropertyVisibilityPicker } from "./property-visibility-picker"
+import { PropertyVisibilityPicker } from "@akasha/pages-ui-components/property-visibility-picker"
 import { TimelinePicker } from "@akasha/pages-ui-components/timeline-picker"
 
 

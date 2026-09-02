@@ -14,7 +14,7 @@ import { viewConfigToListingParams } from "@akasha/pages-ui-components/synthetic
 import { useGalleryViewProps } from "@akasha/pages-ui-components/use-gallery-view-props"
 import { useNotesViewProps } from "@akasha/pages-ui-components/use-notes-view-props"
 import { usePagesFilteredHrefs } from "@akasha/pages-ui-components/use-pages-filtered-hrefs"
-import { usePagesFilteredMutations } from "./use-pages-filtered-mutations"
+import { usePagesFilteredMutations } from "@akasha/pages-ui-components/use-pages-filtered-mutations"
 import { usePagesFilteredQuery } from "./use-pages-filtered-query"
 
 const RELATION_TARGET_SLUG = "page"

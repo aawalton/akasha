@@ -18,7 +18,7 @@ import { useResolvedDefinitions } from "../supabase/use-option-list-lookup"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { DegradingImage } from "@akasha/pages-ui-components/degrading-image"
 import { toPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
-import { PageDetailHeaderMenu } from "./page-detail-header-menu"
+import { PageDetailHeaderMenu } from "@akasha/pages-ui-components/page-detail-header-menu"
 import { PagesFilteredContent } from "./pages-by-relation-content"
 
 const PAGE_TYPE_SLUG = "page-type"

@@ -9,7 +9,7 @@ import { bodyPropertyIsContentTier } from "@akasha/pages-core/schema/content-tie
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { type ReactNode, useCallback, useMemo, useRef } from "react"
-import { DisplayFrame } from "../frame/display-frame"
+import { DisplayFrame } from "@akasha/pages-ui/frame/display-frame"
 import type { MediaVariant } from "../media/page-media-player"
 import {
   SentenceNarrationProvider,

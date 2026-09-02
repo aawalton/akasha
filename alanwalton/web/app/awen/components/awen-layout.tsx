@@ -1,5 +1,5 @@
-import { DisplayFrame } from "@shared/pages-ui/frame/display-frame"
-import { FrameViewPropertiesMenu } from "@shared/pages-ui/frame/frame-view-properties-menu"
+import { DisplayFrame } from "@akasha/pages-ui/frame/display-frame"
+import { FrameViewPropertiesMenu } from "@akasha/pages-ui/frame/frame-view-properties-menu"
 import { useRef } from "react"
 import type { SessionEnvelope } from "../lib/client-envelope"
 import { ActionComposer, ActionRows, useActionBox } from "./action-box"

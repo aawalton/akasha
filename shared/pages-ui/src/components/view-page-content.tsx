@@ -18,7 +18,7 @@ import { useAllPages, usePageByIdSuffix, useViewsForNavItem } from "../supabase/
 import { useOptionListLookup } from "../supabase/use-option-list-lookup.ts"
 import { usePageTypeDirectory } from "@akasha/pages-ui/supabase/use-page-type-directory"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
-import { useSupabaseViewCallbacks } from "../supabase/use-view-callbacks.ts"
+import { useSupabaseViewCallbacks } from "@akasha/pages-ui/supabase/use-view-callbacks"
 import { viewDataOfPage } from "@akasha/pages-ui/supabase/view-data-of-page"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { EditableTitle } from "@akasha/pages-ui-components/editable-title"

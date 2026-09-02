@@ -15,7 +15,7 @@ import { useNavMutations } from "@akasha/pages-ui/supabase/use-nav-mutations"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
 import { NavCountBadge } from "./nav-count-badge"
 import { parseShowCountBadge } from "@akasha/pages-ui-components/nav-count-badge-decider"
-import { NavItemActions } from "./nav-item-actions"
+import { NavItemActions } from "@akasha/pages-ui-components/nav-item-actions"
 
 const NAV_SLUG = toPageTypeSlug("nav")
 const NAV_ITEM_LIMIT = 200

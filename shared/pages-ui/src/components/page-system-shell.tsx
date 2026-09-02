@@ -10,7 +10,7 @@ import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
 import { deriveShellEmptyState } from "@akasha/pages-ui-components/page-system-shell-helpers"
 import type { ViewTabItem } from "@akasha/pages-ui-components/view-tab-context-menu"
-import { ViewTabs } from "./view-tabs"
+import { ViewTabs } from "@akasha/pages-ui-components/view-tabs"
 
 interface PageSystemShellTab {
   id: string

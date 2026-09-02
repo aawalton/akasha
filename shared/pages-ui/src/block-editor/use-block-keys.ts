@@ -5,7 +5,7 @@ import { createBlock, type EditorOp, newBlockId, textOf } from "@akasha/pages-co
 import { findBlock, findBlockPath, flattenBlockIds, getBlockAtPath } from "@akasha/pages-core/property-types/rich-document-tree"
 import { type RefObject, useCallback, useState } from "react"
 import { planEnterSplit } from "@akasha/pages-ui/block-editor/block-type-helpers"
-import type { SlashChoice } from "./slash-menu"
+import type { SlashChoice } from "@akasha/pages-ui/block-editor/slash-menu"
 
 export type FocusCaret = "start" | "end" | number
 

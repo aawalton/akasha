@@ -15,7 +15,7 @@ import {
   parseProseBlocks,
   proseBlockSource,
 } from "@akasha/pages-ui-components/reader-prose"
-import { ProseBlockView } from "./reader-prose-block"
+import { ProseBlockView } from "@akasha/pages-ui-components/reader-prose-block"
 import type { BlockSentenceLayout } from "@akasha/pages-ui-components/reader-sentence-layout"
 
 export interface ReaderPositionAnchor {
