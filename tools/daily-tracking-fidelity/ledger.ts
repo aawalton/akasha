@@ -20,9 +20,10 @@
  * cannot avoid, and an ordinal key does not rescue it: adding one raises 780 `key-unledgered` faults
  * because no session ledger declares such a key, so page-per-row cannot reach zero here.
  *
- * Under the landed entries shape the question does not arise. The sidecars are renamed rather than
- * rewritten, so line order simply is the order and nothing needs to state it. Do not go looking for
- * an ordinal to add.
+ * Under the landed entries shape the question does not arise. Each row keeps the line it was on, so
+ * line order simply is the order and nothing needs to state it. Do not go looking for an ordinal to
+ * add. What each line is rewritten for is its keys: a row beside an akasha page is camel-keyed, and
+ * the keys named here are kebab, which is the one spelling both halves are judged in.
  */
 export type Policy =
   | "exact"

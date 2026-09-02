@@ -4,7 +4,12 @@ import { join } from "node:path"
 import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { uuidVersion7 } from "../../akasha/command-system/value-minting/value-minting.module.code.ts"
+import { importedFrom } from "../../akasha/pages-system/page/page-body/page-body.module.code.ts"
+import { pathFor } from "../../akasha/pages-system/pages-system-service/page-composing/page-composing.module.code.ts"
+import { declaredIn, pageTypeFilesIn } from "../daily-tracking-landing/declared.ts"
+import { camelizeKey, kebabizeKey } from "../lib/tracking/keys.ts"
 import {
+  camelisedRow,
   type Converted,
   convertDay,
   type DaySource,
@@ -12,8 +17,23 @@ import {
   isUuidV7,
   refused,
 } from "./convert.ts"
+import { importFor, placingFor } from "./placing.ts"
 import { readDays } from "./read-days.ts"
-import { DAY_FIELDS, SESSIONS_SLUG } from "./shape.ts"
+import { DAY_FIELDS, DAY_PAGE_TYPE, SESSIONS_SLUG } from "./shape.ts"
+
+const AKASHA = join(import.meta.dir, "..", "..", "akasha")
+
+/**
+ * Where the day pages go, said here as the two facts akasha declares rather than as a path.
+ *
+ * The last case in this file holds these two against what the landed page type actually says, so a
+ * type that moves or renames its plural fails here rather than at a typecheck nobody ran.
+ */
+const TYPE_AT = "akasha/alan/daily-tracking/daily-tracking.page-type.ts"
+
+const PLURAL = "daily-trackings"
+
+const PLACING = placingFor(TYPE_AT, PLURAL)
 
 /**
  * Real input, copied out of the repo.
@@ -57,9 +77,16 @@ const BARE = {
 }
 
 function done(source: DaySource, mint = mintOnce()): Converted {
-  const outcome = convertDay(source, mint)
+  const outcome = convertDay(source, mint, PLACING)
   if (refused(outcome)) throw new Error(`refused: ${outcome.refused.join("; ")}`)
   return outcome
+}
+
+/** Every row of a rendered entry file, parsed back. */
+function rowsOf(one: Converted, at = 0): Record<string, unknown>[] {
+  return one.entries[at]!.text.trim()
+    .split("\n")
+    .map((line) => JSON.parse(line) as Record<string, unknown>)
 }
 
 describe("the names a day takes", () => {
@@ -86,8 +113,8 @@ describe("the names a day takes", () => {
     const one = done(
       dayOf({
         frontmatter: BARE,
-        sessions: [{ raw: JSON.stringify({ id: "a", "daily-tracking": V7 }), row: { id: "a", "daily-tracking": V7 } }],
-        completedTasks: [{ raw: JSON.stringify({ id: "b" }), row: { id: "b" } }],
+        sessions: [{ id: "a", "daily-tracking": V7 }],
+        completedTasks: [{ id: "b" }],
       })
     )
     for (const file of one.entries) {
@@ -116,42 +143,193 @@ describe("identity", () => {
   })
 
   test("re-minting re-points every session row that named the old identity", () => {
-    const rows = [
-      { id: "s1", "daily-tracking": V5, title: "one" },
-      { id: "s2", "daily-tracking": V5, title: "two" },
-    ]
     const one = done(
       dayOf({
         frontmatter: { ...BARE, id: V5 },
-        sessions: rows.map((row) => ({ raw: JSON.stringify(row), row })),
+        sessions: [
+          { id: "s1", "daily-tracking": V5, title: "one" },
+          { id: "s2", "daily-tracking": V5, title: "two" },
+        ],
       })
     )
-    const file = one.entries[0]!
-    expect(file.repointed).toBe(2)
-    for (const line of file.text.trim().split("\n")) {
-      expect((JSON.parse(line) as Record<string, unknown>)["daily-tracking"]).toBe(one.idIs)
+    expect(one.entries[0]!.repointed).toBe(2)
+    // The reference is re-pointed under the key akasha reads it by, not the one it arrived under.
+    for (const row of rowsOf(one)) {
+      expect(row["dailyTracking"]).toBe(one.idIs)
+      expect(row).not.toHaveProperty("daily-tracking")
     }
   })
 
-  test("a day whose identity stays keeps its rows byte for byte", () => {
-    const raw = `{"id":"s1","daily-tracking":"${V7}","title":"kept"}`
+  test("a day whose identity stays re-points nothing and keeps every value", () => {
     const one = done(
       dayOf({
         frontmatter: BARE,
-        sessions: [{ raw, row: JSON.parse(raw) as Record<string, unknown> }],
+        sessions: [{ id: "s1", "daily-tracking": V7, title: "kept" }],
       })
     )
-    expect(one.entries[0]!.text).toBe(`${raw}\n`)
     expect(one.entries[0]!.repointed).toBe(0)
+    expect(rowsOf(one)[0]).toEqual({ id: "s1", dailyTracking: V7, title: "kept" })
   })
 
   test("a row naming another day's identity is refused rather than re-pointed", () => {
-    const row = { id: "s1", "daily-tracking": "01a00000-0000-7000-8000-00000000ffff" }
     const outcome = convertDay(
-      dayOf({ frontmatter: BARE, sessions: [{ raw: JSON.stringify(row), row }] }),
-      mintOnce()
+      dayOf({
+        frontmatter: BARE,
+        sessions: [{ id: "s1", "daily-tracking": "01a00000-0000-7000-8000-00000000ffff" }],
+      }),
+      mintOnce(),
+      PLACING
     )
     expect(refused(outcome)).toBe(true)
+  })
+})
+
+describe("which spelling a row's keys take", () => {
+  /**
+   * The one rule, in both directions.
+   *
+   * A row beside an akasha page is read by the fields its entry property declares, and a property is
+   * read by its slug written in camel. A row beside a markdown day keeps the kebab it already
+   * carries, and nothing here writes one of those.
+   */
+  test("every key a session row carries is camel beside the page", () => {
+    const one = done(
+      dayOf({
+        frontmatter: BARE,
+        sessions: [
+          {
+            id: "s1",
+            "daily-tracking": V7,
+            title: "one",
+            "start-time": "2026-03-05T09:00:00.000Z",
+            "end-time": "2026-03-05T10:00:00.000Z",
+            "safety-level": "2",
+            "difficulty-level": "0",
+            "capacity-rate": 1,
+            "asserted-at": "2026-03-05T10:00:01.000Z",
+            "breathing-sets": 3,
+          },
+        ],
+      })
+    )
+    const row = rowsOf(one)[0]!
+    expect(Object.keys(row).filter((key) => key.includes("-"))).toEqual([])
+    expect(row["startTime"]).toBe("2026-03-05T09:00:00.000Z")
+    expect(row["safetyLevel"]).toBe("2")
+    expect(row["breathingSets"]).toBe(3)
+  })
+
+  test("a task row is camel too, and `seq` and `id` are unchanged by the turn", () => {
+    const one = done(
+      dayOf({
+        frontmatter: BARE,
+        completedTasks: [
+          {
+            id: "t1",
+            seq: 1,
+            title: "a task",
+            "completed-at": "2026-03-05T11:00:00.000Z",
+            "due-date": "2026-03-05",
+            "to-do-slug": "some-to-do",
+            "anchored-from-completion": true,
+          },
+        ],
+      })
+    )
+    expect(rowsOf(one)[0]).toEqual({
+      id: "t1",
+      seq: 1,
+      title: "a task",
+      completedAt: "2026-03-05T11:00:00.000Z",
+      dueDate: "2026-03-05",
+      toDoSlug: "some-to-do",
+      anchoredFromCompletion: true,
+    })
+  })
+
+  test("the camel a row takes is what the entry property declares, slug by slug", () => {
+    // These are the property slugs `sessions.page-property-entry.ts` and
+    // `completed-tasks.page-property-entry.ts` declare. A row is judged against them by the key each
+    // slug becomes, so the turn this converter makes is that same turn or the write is refused.
+    for (const slug of [
+      "start-time",
+      "end-time",
+      "daily-tracking",
+      "safety-level",
+      "difficulty-level",
+      "capacity-rate",
+      "asserted-at",
+      "breathing-sets",
+      "completed-at",
+      "due-date",
+      "value-slug",
+      "to-do-slug",
+      "anchored-from-completion",
+    ]) {
+      expect(camelisedRow({ [slug]: 1 })).toEqual({ [camelizeKey(slug)]: 1 })
+    }
+  })
+
+  test("the turn is undone by the one the read half makes, so no key is lost on the way back", () => {
+    const kebab = {
+      id: "s1",
+      "daily-tracking": V7,
+      "start-time": "t",
+      "breathing-sets": 3,
+      title: "one",
+      version: "1.0",
+    }
+    const there = camelisedRow(kebab)
+    const back = Object.fromEntries(
+      Object.entries(there).map(([key, held]) => [kebabizeKey(key), held])
+    )
+    expect(back).toEqual(kebab)
+  })
+
+  test("a key already camel is left as it is, so turning twice is turning once", () => {
+    const once = camelisedRow({ "start-time": 1, id: "a" })
+    expect(camelisedRow(once)).toEqual(once)
+  })
+
+  test("the page's own keys are camel by the same rule the rows are", () => {
+    const one = done(dayOf({ frontmatter: { ...BARE, "health-points": 4 } }))
+    expect(one.value["healthPoints"]).toBe(4)
+    expect(camelizeKey("health-points")).toBe("healthPoints")
+  })
+})
+
+describe("what a day page imports", () => {
+  test("the specifier is akasha's own answer for where the page is and where the type is", () => {
+    const one = done(dayOf({ frontmatter: BARE }))
+    const at = pathFor(TYPE_AT, PLURAL, DAY_PAGE_TYPE, one.slug)
+    expect(one.pageAt).toBe(at)
+    expect(one.pageText.split("\n")[0]).toBe(
+      `import type { DailyTracking } from "${importedFrom(at, TYPE_AT)}"`
+    )
+  })
+
+  test("a type one folder further off is imported one folder further up, with nothing repointed", () => {
+    // Nothing here is configured. The specifier follows the two paths, so a type that moves is
+    // followed rather than needing a constant somewhere to be corrected after it.
+    const deeper = placingFor("akasha/alan/tracking/daily-tracking/daily-tracking.page-type.ts", PLURAL)
+    expect(deeper.folder).toBe("akasha/alan/tracking/daily-tracking/daily-trackings")
+    expect(importFor(deeper, "day-2026-03-05.daily-tracking.ts")).toBe(
+      "../daily-tracking.page-type.ts"
+    )
+    const flat = placingFor("akasha/alan/daily-trackings/daily-tracking.page-type.ts", PLURAL)
+    expect(flat.folder).toBe("akasha/alan/daily-trackings/pages")
+    expect(importFor(flat, "day-2026-03-05.daily-tracking.ts")).toBe(
+      "../daily-tracking.page-type.ts"
+    )
+  })
+
+  test("the page type akasha holds is the one these cases name", async () => {
+    const [at, ...also] = pageTypeFilesIn(AKASHA)
+    expect(also).toEqual([])
+    expect(`akasha/${at}`).toBe(TYPE_AT)
+    const declared = await declaredIn(join(AKASHA, at as string))
+    if ("refused" in declared) throw new Error(declared.refused)
+    expect(declared.plural).toBe(PLURAL)
   })
 })
 
@@ -169,10 +347,7 @@ describe("what a day carries", () => {
     const one = done(
       dayOf({
         frontmatter: BARE,
-        sessions: Array.from({ length: 24 }, (_, n) => {
-          const held = { ...row, id: `s${n}` }
-          return { raw: JSON.stringify(held), row: held }
-        }),
+        sessions: Array.from({ length: 24 }, (_, n) => ({ ...row, id: `s${n}` })),
       })
     )
     expect(one.value["sessions"]).toBe("jsonl")
@@ -210,7 +385,8 @@ describe("what a day carries", () => {
   test("a calendar day that arrived as a Date is refused rather than guessed at", () => {
     const outcome = convertDay(
       dayOf({ frontmatter: { ...BARE, date: new Date("2026-03-05T00:00:00Z") } }),
-      mintOnce()
+      mintOnce(),
+      PLACING
     )
     expect(refused(outcome)).toBe(true)
     if (!refused(outcome)) return
@@ -231,7 +407,7 @@ describe("what a day carries", () => {
     const one = done(
       dayOf({
         frontmatter: BARE,
-        sessions: [empty, absent].map((row) => ({ raw: JSON.stringify(row), row })),
+        sessions: [empty, absent],
       })
     )
     const [first, second] = one.entries[0]!.text.trim().split("\n")
@@ -242,7 +418,8 @@ describe("what a day carries", () => {
   test("a key nobody declared a turn for is named rather than dropped", () => {
     const outcome = convertDay(
       dayOf({ frontmatter: { ...BARE, "moon-phase": 3, "tide-height": 1 } }),
-      mintOnce()
+      mintOnce(),
+      PLACING
     )
     expect(refused(outcome)).toBe(true)
     if (!refused(outcome)) return
@@ -251,7 +428,7 @@ describe("what a day carries", () => {
 
   test("a day missing a key every day carries is refused", () => {
     const { title: _title, ...rest } = BARE
-    const outcome = convertDay(dayOf({ frontmatter: rest }), mintOnce())
+    const outcome = convertDay(dayOf({ frontmatter: rest }), mintOnce(), PLACING)
     expect(refused(outcome)).toBe(true)
     if (!refused(outcome)) return
     expect(outcome.refused.join(" ")).toContain("'title'")
@@ -269,7 +446,7 @@ describe("what a day carries", () => {
 
 describe.if(HAVE_COPY)("over real input copied out of the repo", () => {
   const read = readDays(COPY)
-  const outcomes = read.days.map((day) => convertDay(day, () => uuidVersion7()))
+  const outcomes = read.days.map((day) => convertDay(day, () => uuidVersion7(), PLACING))
   const converted = outcomes.filter((o): o is Converted => !refused(o))
 
   test("the copy is not the repo", () => {
@@ -347,7 +524,7 @@ describe.if(HAVE_COPY)("over real input copied out of the repo", () => {
           ? read.days.find((d) => d.day === one.day)!.sessions
           : read.days.find((d) => d.day === one.day)!.completedTasks
         expect(lines.map((l) => (JSON.parse(l) as { id: string }).id)).toEqual(
-          source.map((r) => (r.row as { id: string }).id)
+          source.map((r) => (r as { id: string }).id)
         )
       }
     }

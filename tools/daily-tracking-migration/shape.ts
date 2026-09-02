@@ -15,7 +15,33 @@
  * `page-file-name.module.code.ts` builds that file's name as the page's path with the extension
  * dropped, then the property slug, then what the file holds. For a page at
  * `day-2026-03-05.daily-tracking.ts` that is `day-2026-03-05.daily-tracking.sessions.jsonl`, which
- * is the sidecar's name today with `day-` put on the front. So the rows move by being renamed.
+ * is the sidecar's name today with `day-` put on the front.
+ *
+ * THE ROWS ARE RE-KEYED, NOT MERELY RENAMED.
+ *
+ * A row beside an akasha page spells its keys camel, the same as the page above it. `akasha write`
+ * judges each row against the fields its entry property declares, and a property is reached by its
+ * slug and read by that slug written in camel — `property-slug.text-property.ts:29`. So
+ * `sessions.page-property-entry.ts` declaring `start-time` means a row beside a day page carries
+ * `startTime`, and `akasha write` refuses all 161 row files when they carry `start-time`. Measured
+ * 2026-09-01: one day and its sessions were refused on `start-time` kebab and answered 34 checks
+ * held camel.
+ *
+ * A row beside a markdown day keeps the kebab keys the 780 of them already carry. Nothing rewrites
+ * those; the whole split is which kind of page the row sits beside. `camelisedRow` in
+ * `tools/lib/tracking/akasha-day.ts` makes the same turn for every row Alan's tracking writes after
+ * the move, and `kebabisedRow` in `tools/lib/akasha-page-values.ts` turns it back for whatever reads
+ * one, so the query engine sees a single spelling out of both halves.
+ *
+ * WHAT A DAY PAGE IMPORTS IS NOT DECLARED HERE.
+ *
+ * A day page states `import type { DailyTracking } from ...`, and what fills that gap depends on the
+ * folder the page is in, which is akasha's to answer rather than this file's. `placing.ts` asks
+ * `pathFor` and `importedFrom` — the two calls `composedFor` makes for every page the pages system
+ * service writes — so the migrated days and the days written after them agree by construction. A
+ * constant here would be a second answer, right only at the one depth whoever wrote it had in mind,
+ * and a type-only import is erased before the file runs, so a wrong one loads fine and only ever
+ * fails a typecheck nobody ran.
  */
 
 export const DAY_PAGE_TYPE = "daily-tracking"
@@ -29,29 +55,11 @@ export const COMPLETED_TASKS_SLUG = "completed-tasks"
 export const ENTRY_EXTENSION = "jsonl"
 
 /**
- * The import the rendered page states, and the type it satisfies.
+ * The type a day page satisfies, which is the name `daily-tracking.page-type.ts` exports.
  *
- * The type is landed at `akasha/alan/daily-tracking/daily-tracking.page-type.ts`, and a day lands
- * at `pages/daily-tracking/day-<date>.daily-tracking.ts`, which is two folders below the repo root.
- * So the specifier is that path, relative, and it is relative for three reasons.
- *
- * `akasha/alan/alan.domain.ts` names its parts `page-type/daily-tracking` and
- * `workspace-package/alan-web`. Akasha's own domain page therefore already says which of the two
- * this is, and a package specifier would need it to be the other one.
- *
- * A page outside `akasha/` that reaches a type inside it does say `@akasha/...` — fourteen do, under
- * `alanwalton/calendar-sync` and `alanwalton/location-traces-access`. But every one of the fourteen
- * sits in a folder that is itself a workspace package and declares `"@akasha/code-system":
- * "workspace:*"` for the reach. Neither `pages/` nor `pages/daily-tracking/` is a package, so there
- * is nowhere for a day page to declare such a dependency.
- *
- * And every `.ts` under `pages/` reaches the rest of the repo this way already: all 39 of them, at
- * `pages/workflow-template/`, which is the same depth, say `../../tools/lib/...`.
- *
- * Change these two when the type lands somewhere else.
+ * Only the name is here. Where that file is, and so what a day page imports it from, is asked of
+ * akasha by `placing.ts` for the reasons above.
  */
-export const DECLARING_IMPORT = "../../akasha/alan/daily-tracking/daily-tracking.page-type.ts"
-
 export const DECLARING_TYPE = "DailyTracking"
 
 /** How a markdown value becomes a page value. */

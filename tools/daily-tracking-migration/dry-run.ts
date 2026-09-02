@@ -20,6 +20,7 @@ import {
 import { declaredIn, pageTypeFilesIn } from "../daily-tracking-landing/declared.ts"
 import { kebabizeKey } from "../lib/tracking/keys.ts"
 import { type Converted, convertDay, type Outcome, refused, renderPage } from "./convert.ts"
+import { importFor, type Placing, placingFor } from "./placing.ts"
 import { readDays } from "./read-days.ts"
 import { rowPagesOf } from "./row-pages.ts"
 import {
@@ -105,12 +106,16 @@ function migratedCorpus(root: string, done: readonly Converted[]): Corpus {
       const kind = sink === corpus.sessions ? "session" : "task"
       const lines = file.text.split("\n").filter((l) => l.trim() !== "")
       lines.forEach((line, index) => {
+        const row = JSON.parse(line) as Record<string, unknown>
         sink.push({
           kind,
           day: one.day,
           ordinal: index,
           locator: `${file.name}#${index + 1}`,
-          fields: new Map(Object.entries(JSON.parse(line) as Record<string, unknown>)),
+          // A row beside an akasha page is camel-keyed and the ledger names its keys kebab, which is
+          // the one spelling both halves are judged in. `kebabisedRow` in
+          // tools/lib/akasha-page-values.ts makes the same turn for the query engine.
+          fields: new Map(Object.entries(row).map(([key, held]) => [kebabizeKey(key), held])),
         })
       })
     }
@@ -118,7 +123,7 @@ function migratedCorpus(root: string, done: readonly Converted[]): Corpus {
   return corpus
 }
 
-function landing(out: string, done: readonly Converted[]): void {
+function landing(out: string, done: readonly Converted[], placing: Placing): void {
   const at = resolve(out)
   if (at === LIVE || at.startsWith(`${LIVE}/`)) {
     process.stderr.write(
@@ -139,7 +144,7 @@ function landing(out: string, done: readonly Converted[]): void {
       // declarations come off before the page is rendered.
       writeFileSync(
         join(at, one.pageName),
-        renderPage(one.exportName, withoutEntryDeclarations(one))
+        renderPage(one.exportName, withoutEntryDeclarations(one), importFor(placing, one.pageName))
       )
       for (const page of rowPagesOf(one, ordinal)) writeFileSync(join(at, page.name), page.text)
       continue
@@ -154,6 +159,8 @@ type Gap = {
   readonly at: string
   readonly held: readonly string[]
   readonly needed: readonly string[]
+  /** Where akasha would put a day page, read off that same page type. */
+  readonly placing: Placing
 }
 
 /**
@@ -177,12 +184,17 @@ async function propertyGap(): Promise<Gap | { readonly refused: string }> {
   }
   const declared = await declaredIn(join(AKASHA, at))
   if ("refused" in declared) return declared
+  if (declared.plural === null) {
+    return {
+      refused: `akasha/${at} states no pluralSlug, so akasha has no folder to put a day page in`,
+    }
+  }
   const held: string[] = []
   const needed: string[] = []
   for (const slug of PROPERTY_PAGES_NEEDED) {
     ;(declared.slugs.has(slug) ? held : needed).push(slug)
   }
-  return { at, held, needed }
+  return { at, held, needed, placing: placingFor(`akasha/${at}`, declared.plural) }
 }
 
 async function main(): Promise<never> {
@@ -206,12 +218,18 @@ async function main(): Promise<never> {
     process.exit(2)
   }
 
+  const gap = await propertyGap()
+  if ("refused" in gap) {
+    process.stderr.write(`the day page type is unreadable, so no day can be rendered: ${gap.refused}\n`)
+    process.exit(1)
+  }
+
   const read = readDays(from)
   const idMap: Record<string, string> = {}
   const done: Converted[] = []
   const stuck: Outcome[] = []
   for (const source of read.days) {
-    const outcome = convertDay(source, () => uuidVersion7())
+    const outcome = convertDay(source, () => uuidVersion7(), gap.placing)
     if (refused(outcome)) {
       stuck.push(outcome)
       continue
@@ -259,17 +277,14 @@ async function main(): Promise<never> {
     process.stdout.write(`  ${key.padEnd(34)} on ${days.length} day(s): ${days.join(" ")}\n`)
   }
 
-  const gap = await propertyGap()
-  if ("refused" in gap) {
-    process.stdout.write(`\nproperty pages  unanswered: ${gap.refused}\n`)
-  } else {
-    process.stdout.write(
-      `\nproperty pages  ${gap.held.length} of ${PROPERTY_PAGES_NEEDED.length} are declared by akasha/${gap.at}\n`
-    )
-    process.stdout.write(`  declared      ${gap.held.join(" ") || "-"}\n`)
-    process.stdout.write(`  undeclared (${gap.needed.length})\n`)
-    for (const slug of gap.needed) process.stdout.write(`    ${slug}\n`)
-  }
+  process.stdout.write(
+    `\nproperty pages  ${gap.held.length} of ${PROPERTY_PAGES_NEEDED.length} are declared by akasha/${gap.at}\n`
+  )
+  process.stdout.write(`  declared      ${gap.held.join(" ") || "-"}\n`)
+  process.stdout.write(`  undeclared (${gap.needed.length})\n`)
+  for (const slug of gap.needed) process.stdout.write(`    ${slug}\n`)
+  process.stdout.write(`\nday pages go    ${gap.placing.folder}/\n`)
+  process.stdout.write(`  each importing ${importFor(gap.placing, done[0]?.pageName ?? "")}\n`)
 
   const verdict = compareCorpora(readMarkdownCorpus(from), migratedCorpus(from, done), idMap)
   process.stdout.write(
@@ -291,7 +306,7 @@ async function main(): Promise<never> {
 
   const out = argOf("out")
   if (out !== null) {
-    landing(out, done)
+    landing(out, done, gap.placing)
     process.stdout.write(`\nwrote           ${done.length} pages to ${resolve(out)}\n`)
     writeFileSync(join(resolve(out), "id-map.json"), `${JSON.stringify(idMap, null, 2)}\n`)
   }

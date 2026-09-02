@@ -24,12 +24,6 @@ export type RowPage = {
   readonly text: string
 }
 
-function camelKeyed(row: JsonObject): Record<string, unknown> {
-  const out: Record<string, unknown> = {}
-  for (const [key, held] of Object.entries(row)) out[exportNameOf(key)] = held
-  return out
-}
-
 function render(exportName: string, value: Record<string, unknown>): string {
   const lines = [`export const ${exportName} = {`]
   for (const [key, held] of Object.entries(value)) lines.push(`  ${key}: ${JSON.stringify(held)},`)
@@ -56,7 +50,8 @@ export function rowPagesOf(one: Converted, ordinal: boolean): readonly RowPage[]
       const row = JSON.parse(line) as JsonObject
       const id = String(row["id"] ?? `${one.day}-${index}`)
       const slug = `${sessions ? "session" : "task"}-${id}`
-      const value: Record<string, unknown> = camelKeyed(row)
+      // The row's keys are camel already: the converter keys every row the way akasha reads one.
+      const value: Record<string, unknown> = { ...row }
       value["id"] = id
       value["pageTypeSlug"] = pageType
       value["slug"] = slug

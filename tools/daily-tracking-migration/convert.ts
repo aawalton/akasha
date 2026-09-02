@@ -6,13 +6,14 @@
  * copies in /tmp without the corpus being touched.
  */
 
+import { camelizeKey } from "../lib/tracking/keys.ts"
+import { type Placing, importFor, pageAtIn } from "./placing.ts"
 import {
   COMPLETED_TASKS_SLUG,
   DAY_FIELD_BY_KEY,
   DAY_FIELDS,
   DAY_PAGE_TYPE,
   DAY_REFERENCE_KEY,
-  DECLARING_IMPORT,
   DECLARING_TYPE,
   ENTRY_EXTENSION,
   SESSIONS_SLUG,
@@ -21,19 +22,16 @@ import {
 
 export type JsonObject = Readonly<Record<string, unknown>>
 
-/** One jsonl line as it stands, and the row it parsed to. */
-export type SourceRow = {
-  readonly raw: string
-  readonly row: JsonObject
-}
-
 export type DaySource = {
   /** The date the file name carries, `2026-03-05`. */
   readonly day: string
   readonly frontmatter: JsonObject
-  readonly sessions: readonly SourceRow[]
-  readonly completedTasks: readonly SourceRow[]
+  readonly sessions: readonly JsonObject[]
+  readonly completedTasks: readonly JsonObject[]
 }
+
+/** The key a row beside an akasha page carries its day reference under. */
+export const DAY_REFERENCE_NAME = camelizeKey(DAY_REFERENCE_KEY)
 
 export type EntryFile = {
   /** The file name beside the page, with no directory on it. */
@@ -50,6 +48,8 @@ export type Converted = {
   readonly exportName: string
   /** The page file's name, with no directory on it. */
   readonly pageName: string
+  /** Where that file belongs, against the repository root, which is akasha's own answer. */
+  readonly pageAt: string
   readonly pageText: string
   /** The page's value, camel-keyed, as the rendered file declares it. */
   readonly value: JsonObject
@@ -111,9 +111,9 @@ function renderValue(value: unknown, indent: string): string | null {
 }
 
 /** The page file's body, as the text that lands. */
-export function renderPage(exportName: string, value: JsonObject): string {
+export function renderPage(exportName: string, value: JsonObject, importFrom: string): string {
   const lines: string[] = [
-    `import type { ${DECLARING_TYPE} } from "${DECLARING_IMPORT}"`,
+    `import type { ${DECLARING_TYPE} } from "${importFrom}"`,
     "",
     `export const ${exportName} = {`,
   ]
@@ -126,18 +126,37 @@ export function renderPage(exportName: string, value: JsonObject): string {
   return lines.join("\n")
 }
 
+/**
+ * One row as akasha reads one, which is camel-keyed.
+ *
+ * `akasha write` judges a row against the fields its entry property declares, and a property is
+ * reached by its slug and read by that slug written in camel — `property-slug.text-property.ts:29`.
+ * So `start-time` in the markdown sidecar is `startTime` beside a day page, and a row keyed the
+ * markdown way is refused outright. `camelizeKey` is the same call `camelisedRow` in
+ * `tools/lib/tracking/akasha-day.ts` makes for every row Alan's tracking writes after the move, so
+ * the migrated rows and the appended ones are keyed by one rule.
+ */
+export function camelisedRow(row: JsonObject): Record<string, unknown> {
+  const out: Record<string, unknown> = {}
+  for (const [key, held] of Object.entries(row)) out[camelizeKey(key)] = held
+  return out
+}
+
 function entryFile(
   stem: string,
   propertySlug: string,
-  rows: readonly SourceRow[],
+  rows: readonly JsonObject[],
   idWas: string,
   idIs: string
 ): EntryFile {
   let repointed = 0
-  const lines = rows.map(({ raw, row }) => {
-    if (row[DAY_REFERENCE_KEY] !== idWas || idWas === idIs) return raw
-    repointed += 1
-    return JSON.stringify({ ...row, [DAY_REFERENCE_KEY]: idIs })
+  const lines = rows.map((row) => {
+    const turned = camelisedRow(row)
+    if (turned[DAY_REFERENCE_NAME] === idWas && idWas !== idIs) {
+      repointed += 1
+      turned[DAY_REFERENCE_NAME] = idIs
+    }
+    return JSON.stringify(turned)
   })
   return {
     name: `${stem}.${propertySlug}.${ENTRY_EXTENSION}`,
@@ -153,8 +172,12 @@ function entryFile(
  * `mint` is called once, and only for a day whose identity is not already a uuid v7. Thirty of the
  * 133 days are uuid v5, which akasha does not accept, and re-minting one means re-pointing every
  * session row that names it, which is why the rows and the page are converted in one act.
+ *
+ * `placing` is where akasha would put a day page and where the type it satisfies is declared. The
+ * import the rendered file states is computed from those two rather than written down, so a page
+ * rendered for one depth can never be read as one rendered for another.
  */
-export function convertDay(source: DaySource, mint: () => string): Outcome {
+export function convertDay(source: DaySource, mint: () => string, placing: Placing): Outcome {
   const reasons: string[] = []
   const unhandled: string[] = []
   const front = source.frontmatter
@@ -241,7 +264,7 @@ export function convertDay(source: DaySource, mint: () => string): Outcome {
   }
 
   for (const row of source.sessions) {
-    const held = row.row[DAY_REFERENCE_KEY]
+    const held = row[DAY_REFERENCE_KEY]
     if (held !== idWas) {
       reasons.push(
         `a session row names day '${String(held)}' and this day's identity is another one`
@@ -257,9 +280,10 @@ export function convertDay(source: DaySource, mint: () => string): Outcome {
     return { day: source.day, refused: reasons, unhandledKeys: unhandled }
   }
 
+  const pageName = `${stem}.ts`
   let pageText: string
   try {
-    pageText = renderPage(exportName, value)
+    pageText = renderPage(exportName, value, importFor(placing, pageName))
   } catch (error) {
     return {
       day: source.day,
@@ -272,7 +296,8 @@ export function convertDay(source: DaySource, mint: () => string): Outcome {
     day: source.day,
     slug,
     exportName,
-    pageName: `${stem}.ts`,
+    pageName,
+    pageAt: pageAtIn(placing, pageName),
     pageText,
     value,
     idWas,

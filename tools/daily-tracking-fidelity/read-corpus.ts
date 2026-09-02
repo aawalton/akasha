@@ -234,7 +234,21 @@ export async function readAkashaPageCorpus(root: string): Promise<Corpus> {
             day,
             ordinal: index,
             locator: `${beside}#${index + 1}`,
-            fields: new Map(Object.entries(row as Record<string, unknown>)),
+            /**
+             * A row beside an akasha page is camel-keyed, so it is turned kebab here.
+             *
+             * `akasha write` judges each row against the fields its entry property declares and
+             * reads a field by its slug written in camel, so `start-time` in the markdown sidecar
+             * is `startTime` here. The ledgers name every key kebab, which is the one spelling the
+             * two halves can be judged in, and it is the spelling `kebabisedRow` in
+             * tools/lib/akasha-page-values.ts gives the query engine for the same reason.
+             */
+            fields: new Map(
+              Object.entries(row as Record<string, unknown>).map(([key, held]) => [
+                kebabizeKey(key),
+                held,
+              ])
+            ),
           })
         })
       }

@@ -8,7 +8,7 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { parse as parseYaml } from "yaml"
-import type { DaySource, JsonObject, SourceRow } from "./convert.ts"
+import type { DaySource, JsonObject } from "./convert.ts"
 import { COMPLETED_TASKS_SLUG, SESSIONS_SLUG } from "./shape.ts"
 
 const MD = ".daily-tracking.md"
@@ -24,8 +24,15 @@ export type Read = {
   readonly faults: readonly ReadFault[]
 }
 
-function rowsIn(text: string, at: string, faults: ReadFault[]): readonly SourceRow[] {
-  const out: SourceRow[] = []
+/**
+ * Every row a sidecar holds, as the objects the lines parsed to.
+ *
+ * The line's own bytes are not kept. They were, while the rows moved across untouched; a row beside
+ * an akasha page is re-keyed, so every line is written afresh and the bytes it arrived as are read
+ * by nothing.
+ */
+function rowsIn(text: string, at: string, faults: ReadFault[]): readonly JsonObject[] {
+  const out: JsonObject[] = []
   const lines = text.split("\n")
   for (let index = 0; index < lines.length; index += 1) {
     const raw = lines[index] ?? ""
@@ -44,7 +51,7 @@ function rowsIn(text: string, at: string, faults: ReadFault[]): readonly SourceR
       faults.push({ at: `${at}#${index + 1}`, why: "no JSON object" })
       continue
     }
-    out.push({ raw, row: held as JsonObject })
+    out.push(held as JsonObject)
   }
   return out
 }
@@ -54,7 +61,7 @@ function sidecar(
   day: string,
   propertySlug: string,
   faults: ReadFault[]
-): readonly SourceRow[] {
+): readonly JsonObject[] {
   const at = `${day}.daily-tracking.${propertySlug}.jsonl`
   const full = join(root, at)
   const found = statSync(full, { throwIfNoEntry: false })
