@@ -28,8 +28,10 @@ said today is read back off the notifications already sent, each of which names 
 own \`source\`. A day that drops two rungs between ticks therefore says the one it reached and
 never the one between, and a reading that recovers and falls again says nothing the second time.
 
-The readout, its scale and its source are read as pages through the page query service, so a
-threshold Alan moves is honoured on the next tick rather than on a deploy.
+The readout and its scale are akasha pages, asked of the pages system service. The day's reading
+and what was already said today are asked of the page query service. Either way they are read on
+the tick rather than compiled in, so a threshold Alan moves is honoured on the next tick rather
+than on a deploy.
 
 What this writes is a notification. Reaching his phone is the push notifier's job, and this
 knows nothing about devices.
@@ -49,8 +51,10 @@ Usage:
   --help  This.
 
 Environment:
-  PAGE_QUERY_ORIGIN  The page query service the readout, its reading and the day's page are
-                     read through, and the feed and that page are written through.
+  PAGES_SERVICE_ORIGIN  The pages system service the readout and its scale are read through.
+                        Naming none reaches the loopback that service binds on the workstation.
+  PAGE_QUERY_ORIGIN     The page query service the day's reading is read through, and the feed
+                        is written through.
 `
 
 function sleepAbortable(ms: number, signal: AbortSignal): Promise<boolean> {
