@@ -49,7 +49,6 @@ export const alanHarness = {
     "workspace-package/supabase-client",
     "workspace-package/errors-client",
     "workspace-package/supabase-rr",
-    "workspace-package/open-questions",
     "workspace-package/status-bar-access",
     "workspace-package/browser-test-harness",
     "workspace-package/object-store",

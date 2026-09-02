@@ -502,12 +502,6 @@
         "zod": "^4.3.6",
       },
     },
-    "akasha/open-questions": {
-      "name": "@akasha/open-questions",
-      "dependencies": {
-        "@akasha/pages-core": "workspace:*",
-      },
-    },
     "akasha/pages-system": {
       "name": "@akasha/pages-system",
     },
@@ -3579,8 +3573,6 @@
     "@akasha/named-for": ["@akasha/named-for@workspace:akasha/named-for"],
 
     "@akasha/object-store": ["@akasha/object-store@workspace:akasha/object-store"],
-
-    "@akasha/open-questions": ["@akasha/open-questions@workspace:akasha/open-questions"],
 
     "@akasha/pages-access": ["@akasha/pages-access@workspace:akasha/pages-system/pages-access"],
 
