@@ -51,7 +51,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "`pages-ui` stands in akasha.",
       workingMemory:
-        "126 modules are in; `shared/pages-ui` is 156 files, 54 of them leaves, 81 of them `components`. Land akasha first so HEAD never goes red. The manifest blocks the rest at 14,662 bytes against a 15,000 ceiling, 108 a way in, room for three. Subpath patterns resolve right; the gate refuses them anyway, landing on no file: `a-subpath-pattern-lands-on-no-file-so-the-gate-refuses-it`. Take `components`, `components/quick-add` and `view-engine` into a nested package; that leaves 7,912 bytes.",
+        "The manifest is no longer the block. `components` came out as a nested package at `65a4c5f6`: 14,662 bytes to 7,536, headroom 338 to 7,464, about 68 modules. `view-engine` sits under it because two sibling packages keep the cycle and this tree has none in 320. Proven over 1,032 resolutions: 123 of 126 byte-identical, 3 gained a segment with identical blobs, and a control flipped both ways where a stale harness shows green. What is left is landing the rest of the 156 files.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
