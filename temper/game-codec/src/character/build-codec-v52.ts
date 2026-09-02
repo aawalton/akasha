@@ -1,9 +1,9 @@
 import type { RoleId } from "@temper/game-characters-character/roles"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { TargetArmorId } from "@temper/game-characters-character/target-armor-data"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
+import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import {
   type BitReaderState,
   type BitWriterState,
@@ -215,7 +215,7 @@ function decodeBody(reader: BitReaderState, minorVersion: number): CharacterStat
   const account = decodeAccount(reader)
 
   return {
-    id: BuildId(""),
+    id: buildId(""),
     name: "",
     description: "",
     character: {

@@ -1,8 +1,7 @@
-import { races } from "@temper/game-characters-races/generated/temper-race.generated"
-import { type RaceId } from "@temper/game-characters-races/races"
+import { races, type RaceId } from "@akasha/temper-races/races"
 import { getRacialSkillLineIdForRace } from "@temper/game-characters-skills/passive-queries"
 import { skills } from "@temper/game-characters-skills/skills-data"
-import type { Effect } from "@temper/shared-formula-framework/effects-types"
+import type { Effect } from "@akasha/temper-formula-framework/effect"
 
 export interface RaceSource {
   id: RaceId

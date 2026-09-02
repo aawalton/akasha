@@ -1,4 +1,3 @@
-import { generateTemperSkillLineCategory } from "@akasha/temper-addon-generators/skill-line-categories"
 import { generateTemperAffixScript } from "@akasha/temper-addon-generators/temper-affix-script"
 import { generateTemperCharacterSkillActivation } from "@akasha/temper-addon-generators/temper-character-skill-activation"
 import { generateTemperFocusScript } from "@akasha/temper-addon-generators/temper-focus-script"
@@ -7,7 +6,6 @@ import { generateTemperScribedSkill } from "@akasha/temper-addon-generators/temp
 import { generateTemperSignatureScript } from "@akasha/temper-addon-generators/temper-signature-script"
 import { generateTemperSkill } from "@akasha/temper-addon-generators/temper-skill"
 import { generateTemperSkillBar } from "@akasha/temper-addon-generators/temper-skill-bars"
-import { generateTemperSkillLine } from "@akasha/temper-addon-generators/temper-skill-line"
 import { generateTemperSkillPoint } from "./generators/temper-skill-point.ts"
 import { generateTemperSkillSlot } from "@akasha/temper-addon-generators/temper-skill-slot"
 import { generateTemperSkillType } from "@akasha/temper-addon-generators/temper-skill-type"
@@ -17,7 +15,6 @@ import { generateTemperTargetScope } from "@akasha/temper-addon-generators/tempe
 import { generateTemperTargetType } from "@akasha/temper-addon-generators/temper-target-type"
 import {
   TEMPER_COMPLETION_OUTPUT_DIR,
-  TEMPER_SKILL_LINES_OUTPUT_DIR,
   TEMPER_SKILLS_OUTPUT_DIR,
 } from "./output-dirs.ts"
 import type { AddonDataPages } from "./addon-data-pages"
@@ -66,16 +63,6 @@ export function buildAddonDataWritesSkills(
       TEMPER_SKILLS_OUTPUT_DIR,
       "temper-skill-bars.generated.ts",
       generateTemperSkillBar(p.skillBarPages.rows)
-    ),
-    w(
-      TEMPER_SKILL_LINES_OUTPUT_DIR,
-      "temper-skill-line.generated.ts",
-      generateTemperSkillLine(p.skillLinePages.rows)
-    ),
-    w(
-      TEMPER_SKILL_LINES_OUTPUT_DIR,
-      "temper-skill-line-category.generated.ts",
-      generateTemperSkillLineCategory(p.skillLineCategoryPages.rows)
     ),
     w(
       TEMPER_COMPLETION_OUTPUT_DIR,

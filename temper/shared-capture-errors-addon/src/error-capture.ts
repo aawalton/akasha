@@ -1,5 +1,5 @@
 import type { CaptureWriter } from "@temper/shared-capture-core/define-capture-writer"
-import type { ErrorEntry, ErrorsPayload } from "@temper/shared-capture-errors-core/types"
+import type { ErrorEntry, ErrorsPayload } from "@akasha/temper-capture-errors/errors-payload"
 import { ADDON_NAME, CALLSTACK_MAX_LEN, MAX_ENTRIES } from "./constants"
 
 let savedVariablesAccessor: CaptureWriter<ErrorsPayload>["getSavedVariables"] | undefined

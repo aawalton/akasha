@@ -9,12 +9,11 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { getRoleName } from "@temper/game-characters-character/roles"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
-import { classes } from "@temper/game-characters-classes/classes-data"
-import type { RaceId } from "@temper/game-characters-races/races"
-import { races } from "@temper/game-characters-races/generated/temper-race.generated"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { classes } from "@akasha/temper-classes/character-class"
+import { type RaceId, races } from "@akasha/temper-races/races"
 import { characterUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { FolderOpen } from "lucide-react"
 import { NewCharacterButton } from "@/components/characters/new-character-button"
 
@@ -76,7 +75,7 @@ export function RecentCharactersCard({ builds }: RecentCharactersCardProps) {
             return (
               <Link
                 key={build.id}
-                href={`${characterUrl(BuildId(build.id), build.name)}?tab=character`}
+                href={`${characterUrl(buildId(build.id), build.name)}?tab=character`}
                 className={`group -mx-3 flex flex-col gap-1 rounded-lg ${surfaceClass(surface + 1)} px-3 py-2 transition-colors hover:bg-surface-3`}
               >
                 <div className="flex items-center justify-between gap-2">

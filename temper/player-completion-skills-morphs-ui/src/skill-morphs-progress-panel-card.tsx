@@ -1,12 +1,12 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
-import { classes } from "@temper/game-characters-classes/classes-data"
-import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { classes } from "@akasha/temper-classes/character-class"
+import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
 import {
+  type SkillLineId,
   getSkillLineIdsForClass,
   skillLines,
-} from "@temper/game-characters-skill-lines/skill-lines-data"
+} from "@akasha/temper-skill-lines/skill-lines"
 import { type CharacterSkillMorphProgress, type MorphableSkillDetail } from "@temper/game-characters-skills-morphs-core/morph-progress-types"
 import { morphableSkillLineIds } from "@temper/game-characters-skills-morphs-core/morphable-skills"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"

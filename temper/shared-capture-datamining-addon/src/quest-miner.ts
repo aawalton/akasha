@@ -1,4 +1,4 @@
-import type { MinedQuestEntry } from "@temper/shared-capture-datamining-core/types"
+import type { MinedQuestEntry } from "@akasha/temper-capture-datamining/datamining-payload"
 import {
   ADDON_NAME,
   QUEST_BATCH_DELAY,

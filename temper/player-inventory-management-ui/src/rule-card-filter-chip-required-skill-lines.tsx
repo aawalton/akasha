@@ -5,7 +5,7 @@ import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badg
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { Text } from "@akasha/design-primitives/text-body"
-import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import type { RequiredSkillLinesCondition } from "@temper/game-items-rules-core/filters/required-skill-lines-filter-types"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "./use-rule-card"

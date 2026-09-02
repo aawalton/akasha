@@ -12,9 +12,6 @@
   "references": [
     {
       "path": "../game-characters-skills"
-    },
-    {
-      "path": "../game-characters-skill-lines"
     }
   ],
   "include": [

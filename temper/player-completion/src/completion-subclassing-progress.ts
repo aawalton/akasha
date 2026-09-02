@@ -1,5 +1,5 @@
-import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
-import type { AccountCompletion } from "@temper/game-completion/completion-types"
+import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import type { AccountCompletion } from "@akasha/temper-completion/completion-progress"
 import { calculateSkillLinePercent } from "./completion-skill-line-progress"
 import type { SkillLineProgressEntry } from "./completion-ui-types"
 

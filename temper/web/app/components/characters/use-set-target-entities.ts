@@ -6,14 +6,14 @@ import {
 } from "@temper/game-characters/build-metadata"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { useCharacterLifecycle, useCharacterList } from "@temper/game-characters-character-ui/use-characters"
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
-import { classes } from "@temper/game-characters-classes/classes-data"
-import { races } from "@temper/game-characters-races/generated/temper-race.generated"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { classes } from "@akasha/temper-classes/character-class"
+import { races } from "@akasha/temper-races/races"
 import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-codec"
 import { useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
 import { usePlayer } from "@temper/player-profile/use-player"
-import type { BuildId } from "@temper/shared-formula-framework/branded"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useMemo, useState, useTransition } from "react"
 import type { SetTargetEntity } from "@/components/ui/set-target-dialog"
 
@@ -57,7 +57,7 @@ export function useSetTargetEntities({
     >()
     for (const b of characterBuilds) {
       const metadata = b.buildMetadata
-      const decoded = b.buildHash !== "" ? decodeBuild(BuildHash(b.buildHash)) : null
+      const decoded = b.buildHash !== "" ? decodeBuild(toBuildHash(b.buildHash)) : null
       decodedMap.set(b.id, {
         className: decoded ? (classes.data[decoded.character.class]?.name ?? "Unknown") : "Unknown",
         raceName: decoded ? (races.data[decoded.character.race]?.name ?? "Unknown") : "Unknown",
@@ -72,7 +72,7 @@ export function useSetTargetEntities({
           entity.targetBuildId != null ? buildMap.get(entity.targetBuildId) : undefined
         const refBuild = liveBuild ?? targetBuild
         if (refBuild?.buildHash == null) return false
-        const decoded = decodeBuild(BuildHash(refBuild.buildHash))
+        const decoded = decodeBuild(toBuildHash(refBuild.buildHash))
         return decoded?.character.class === buildClass
       })
       .map((entity) => {
@@ -108,7 +108,7 @@ export function useSetTargetEntities({
     const sourceBuild = buildMap.get(buildId)
     if (sourceBuild?.buildHash == null) return null
 
-    const sourceState = decodeBuild(BuildHash(sourceBuild.buildHash))
+    const sourceState = decodeBuild(toBuildHash(sourceBuild.buildHash))
     if (!sourceState) return null
 
     const sourceMetadata = sourceBuild.buildMetadata

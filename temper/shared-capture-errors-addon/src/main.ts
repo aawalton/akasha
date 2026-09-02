@@ -1,5 +1,5 @@
 import { defineCaptureWriter } from "@temper/shared-capture-core/define-capture-writer"
-import { errorsCaptureDescriptor } from "@temper/shared-capture-errors-core/descriptor"
+import { ERRORS_CAPTURE_DESCRIPTOR } from "@akasha/temper-capture-errors/errors-descriptor"
 import {
   flushTempDb,
   registerErrorHooks,
@@ -10,7 +10,7 @@ import {
 
 registerPreInitHooks()
 
-defineCaptureWriter(errorsCaptureDescriptor, (writer) => {
+defineCaptureWriter(ERRORS_CAPTURE_DESCRIPTOR, (writer) => {
   setSavedVariablesAccessor(writer.getSavedVariables)
   flushTempDb()
   unregisterPreInitHooks()

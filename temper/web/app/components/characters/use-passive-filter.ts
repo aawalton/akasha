@@ -3,7 +3,7 @@ import {
   type SkillLineCategoryId,
   skillLineCategories,
   skillLineCategoriesSorted,
-} from "@temper/game-characters-skill-lines/skill-line-categories"
+} from "@akasha/temper-skill-lines/skill-line-category-data"
 import { useState } from "react"
 
 export const PASSIVE_CATEGORY_FILTER_ITEMS: BadgeToggleGroupItem[] = skillLineCategoriesSorted

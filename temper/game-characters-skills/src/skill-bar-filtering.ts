@@ -1,5 +1,5 @@
-import { classes } from "@temper/game-characters-classes/classes-data"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { classes } from "@akasha/temper-classes/character-class"
+import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { Skill } from "./skills-data"
 
 export function filterSkillsForBar(

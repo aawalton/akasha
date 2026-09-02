@@ -1,4 +1,4 @@
-import type { DataMiningPayload } from "@temper/shared-capture-datamining-core/types"
+import type { DataMiningPayload } from "@akasha/temper-capture-datamining/datamining-payload"
 import { assertSchemaMatchesPayload } from "@akasha/temper-capture-host/assert-schema-matches-payload"
 import { savedVariablesRootSchema as captureRootSchema } from "@akasha/temper-saved-variables/account-wide"
 import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"

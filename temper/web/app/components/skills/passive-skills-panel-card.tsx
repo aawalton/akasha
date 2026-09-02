@@ -4,10 +4,8 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@akasha/design-primitives/collapsible"
 import { Heading } from "@akasha/design-primitives/heading"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { SkillLineCategoryId } from "@temper/game-characters-skill-lines/skill-line-categories"
-import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
-import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { type SkillLineCategoryId, skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
+import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import {
   countArmorPiecesByWeight,
   getRacialSkillLineIdForRace,

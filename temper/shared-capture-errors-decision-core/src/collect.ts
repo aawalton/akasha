@@ -1,8 +1,8 @@
-import { errorsCaptureDescriptor } from "@temper/shared-capture-errors-core/descriptor"
+import { ERRORS_CAPTURE_DESCRIPTOR } from "@akasha/temper-capture-errors/errors-descriptor"
 import type { rootSchema } from "./saved-variables-schema"
-import type { ErrorEntry } from "@temper/shared-capture-errors-core/types"
+import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
 
-export const SAVED_VARIABLES_NAME = errorsCaptureDescriptor.savedVariablesName
+export const SAVED_VARIABLES_NAME = ERRORS_CAPTURE_DESCRIPTOR.savedVariablesName
 
 export function collectEntries(parsed: ReturnType<typeof rootSchema.parse>): readonly ErrorEntry[] {
   const defaultTable = parsed.Default

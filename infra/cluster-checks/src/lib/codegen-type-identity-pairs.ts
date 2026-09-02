@@ -30,7 +30,7 @@ function gen(slug: string): string {
 const COMPANIONS_SNAP = "temper/game-companions-core/src/generated"
 const SKILLS_SNAP = "temper/game-characters-skills/src/generated"
 const CHAR_SNAP = "temper/game-characters-character/src/generated"
-const SKILL_LINES_SNAP = "temper/game-characters-skill-lines/src/generated"
+const SKILL_LINES_SNAP = "akasha/temper/temper-skill-lines/skill-line-category-data"
 const WEAPONS_SNAP = "temper/game-characters-equipment/src/weapons/generated"
 const COMPLETION_SNAP = "temper/player-completion/src/generated"
 const COMPLETION_ADDON = "temper/player-completion-addon/src/skill-point-data.ts"
@@ -390,7 +390,7 @@ export const CODEGEN_TYPE_IDENTITY_PAIRS: readonly CodegenIdentityPair[] = [
     name: "skill-line-category-rank",
     canonical: {
       repo: "code",
-      file: `${SKILL_LINES_SNAP}/temper-skill-line-category.generated.ts`,
+      file: `${SKILL_LINES_SNAP}/skill-line-category-data.module.code.ts`,
       kind: "object-keys",
       symbol: "SKILL_LINE_CATEGORY_DATA",
     },

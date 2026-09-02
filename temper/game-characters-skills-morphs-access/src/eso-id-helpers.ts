@@ -1,11 +1,8 @@
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
-import { classes } from "@temper/game-characters-classes/classes-data"
-import type { RaceId } from "@temper/game-characters-races/races"
-import { races } from "@temper/game-characters-races/generated/temper-race.generated"
-import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
-import { getSkillLineIdsForClass } from "@temper/game-characters-skill-lines/skill-lines-data"
-import { skillLines } from "@temper/game-characters-skill-lines/generated/temper-skill-line.generated"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { classes } from "@akasha/temper-classes/character-class"
+import { type RaceId, races } from "@akasha/temper-races/races"
+import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
+import { type SkillLineId, getSkillLineIdsForClass, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { getRacialSkillLineIdForRace } from "@temper/game-characters-skills/passive-queries"
 
 export const esoClassIdToClassId = new Map<number, ClassId>()

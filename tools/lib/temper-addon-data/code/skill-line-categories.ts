@@ -1,1 +1,1 @@
-export { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"
+export { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"

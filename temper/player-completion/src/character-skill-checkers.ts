@@ -1,4 +1,4 @@
-import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { skillMorphsChecker } from "@temper/game-characters-skills-morphs-access/skill-morphs-checker"
 import type { CompletionCardChecker } from "./completion-card-checker-types"
 import type { CharacterCardId } from "./completion-card-registry"

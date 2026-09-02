@@ -1,1 +1,1 @@
-export { getSkillLineIdsForClass, skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+export { getSkillLineIdsForClass, skillLines } from "@akasha/temper-skill-lines/skill-lines"

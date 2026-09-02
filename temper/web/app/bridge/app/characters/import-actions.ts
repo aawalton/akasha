@@ -5,14 +5,11 @@ import type { Json } from "@akasha/utils-narrow/json-value"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { extractCharacterMetadata } from "@temper/game-characters/build-metadata"
-import { classes } from "@temper/game-characters-classes/classes-data"
-import { races } from "@temper/game-characters-races/generated/temper-race.generated"
+import { classes } from "@akasha/temper-classes/character-class"
+import { races } from "@akasha/temper-races/races"
 import { decodeBuild } from "@temper/game-codec/character/build-codec"
-import {
-  type BuildHash,
-  BuildId,
-  type EsoCharacterId,
-} from "@temper/shared-formula-framework/branded"
+import type { BuildHash, BuildId, EsoCharacterId } from "@akasha/temper-formula-framework/branded-id"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 
 function asJson(value: Record<string, unknown>): Json {
   return value as Json
@@ -62,7 +59,7 @@ export async function importCharacterFromHash(
   const firstExistingBuild = existingBuilds[0]
   if (firstExistingBuild && typeof firstExistingBuild.id === "string") {
     return {
-      result: { buildId: BuildId(firstExistingBuild.id), buildName: buildState.name },
+      result: { buildId: toBuildId(firstExistingBuild.id), buildName: buildState.name },
       headers,
     }
   }
@@ -117,7 +114,7 @@ export async function importCharacterFromHash(
 
       return {
         result: {
-          buildId: BuildId(newBuildId !== "" ? newBuildId : (liveBuildId ?? "")),
+          buildId: toBuildId(newBuildId !== "" ? newBuildId : (liveBuildId ?? "")),
           buildName: buildState.name,
         },
         headers,
@@ -147,7 +144,7 @@ export async function importCharacterFromHash(
     })
     const newBuildId = typeof created.id === "string" ? created.id : ""
     return {
-      result: { buildId: BuildId(newBuildId), buildName: buildState.name },
+      result: { buildId: toBuildId(newBuildId), buildName: buildState.name },
       headers,
     }
   } catch (e) {

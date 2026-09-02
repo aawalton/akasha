@@ -2,7 +2,7 @@ import { readFile } from "node:fs/promises"
 import { addonsFile } from "../../shared-foundation-misc-eso-paths-resolve/src/eso-paths-resolve"
 import { z } from "zod"
 import { inferCulpritAddon } from "./crash-signatures"
-import type { ErrorEntry } from "@temper/shared-capture-errors-core/types"
+import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
 import { classifyTriage, type InferredCulprit, type Triage, type TriageReason } from "./triage"
 
 const DEPLOYED_BUILD_ID_RE = /TemperBuildIds\[\s*"[^"]*"\s*\]\s*=\s*"([0-9a-f]{8}|unknown)"/

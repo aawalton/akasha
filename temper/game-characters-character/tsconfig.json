@@ -23,13 +23,7 @@
       "path": "../game-characters-equipment"
     },
     {
-      "path": "../game-characters-races"
-    },
-    {
       "path": "../shared-formula-framework"
-    },
-    {
-      "path": "../game-characters-skill-lines"
     },
     {
       "path": "../game-characters-skills"

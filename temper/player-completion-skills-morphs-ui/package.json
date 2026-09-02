@@ -2,10 +2,10 @@
   "name": "@temper/player-completion-skills-morphs-ui",
   "dependencies": {
     "@akasha/design-patterns": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
     "@akasha/design-system": "workspace:*",
-    "@temper/game-characters-classes": "workspace:*",
-    "@temper/game-characters-skill-lines": "workspace:*",
+    "@akasha/temper-classes": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-skills-morphs-core": "workspace:*",
     "@temper/player-completion": "workspace:*",
     "@temper/player-completion-ui": "workspace:*"

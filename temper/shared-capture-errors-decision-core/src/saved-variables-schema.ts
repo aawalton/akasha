@@ -1,4 +1,4 @@
-import type { ErrorsPayload } from "@temper/shared-capture-errors-core/types"
+import type { ErrorsPayload } from "@akasha/temper-capture-errors/errors-payload"
 import { assertSchemaMatchesPayload } from "@akasha/temper-capture-host/assert-schema-matches-payload"
 import { savedVariablesRootSchema as captureRootSchema } from "@akasha/temper-saved-variables/account-wide"
 import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"

@@ -1,5 +1,4 @@
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
-import { skillLines } from "@temper/game-characters-skill-lines/generated/temper-skill-line.generated"
+import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import {
   computeCharacterMorphProgressByEsoId,
   type ExpectedMorphableSkill,

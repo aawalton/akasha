@@ -38,9 +38,6 @@
       "path": "../game-items-rules-eval"
     },
     {
-      "path": "../game-characters-skill-lines"
-    },
-    {
       "path": "../game-characters-skills-morphs-access"
     }
   ],

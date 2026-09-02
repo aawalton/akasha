@@ -1,4 +1,4 @@
-import type { SalesPayload } from "@temper/shared-capture-sales-core/types"
+import type { SalesPayload } from "@akasha/temper-capture-sales/sales-payload"
 
 let getSavedVariables: (() => SalesPayload) | undefined
 

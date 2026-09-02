@@ -47,9 +47,6 @@
       "path": "../shared-formula-framework"
     },
     {
-      "path": "../game-characters-skill-lines"
-    },
-    {
       "path": "../game-characters-champion-points"
     },
     {
@@ -59,13 +56,7 @@
       "path": "../shared-engine"
     },
     {
-      "path": "../shared-capture-sales-core"
-    },
-    {
       "path": "../shared-capture-errors-decision-core"
-    },
-    {
-      "path": "../shared-capture-datamining-core"
     },
     {
       "path": "../shared-capture-datamining-reader"

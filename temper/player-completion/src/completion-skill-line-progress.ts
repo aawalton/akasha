@@ -1,4 +1,4 @@
-import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { transformSkillMorphProgress } from "@temper/game-characters-skills-morphs-access/character-skill-morph-transform"
 import { esoSkillLineIdToSkillLineId } from "@temper/game-characters-skills-morphs-access/eso-id-helpers"
 import type { CharacterSkillMorphProgress } from "@temper/game-characters-skills-morphs-core/morph-progress-types"

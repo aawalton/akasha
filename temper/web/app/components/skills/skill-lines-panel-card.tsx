@@ -1,7 +1,8 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { type ClassId, classes } from "@temper/game-characters-classes/classes-data"
-import { type SkillLineId, skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { classes } from "@akasha/temper-classes/character-class"
+import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import {
   getAvailableSkillLinesGrouped,
   getClassForSkillLine,

@@ -1,9 +1,10 @@
 {
   "name": "@temper/game-characters-skills-morphs-access",
   "dependencies": {
-    "@temper/game-characters-classes": "workspace:*",
-    "@temper/game-characters-races": "workspace:*",
-    "@temper/game-characters-skill-lines": "workspace:*",
+    "@akasha/temper-classes": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",
     "@temper/game-characters-skills-morphs-core": "workspace:*"
   },

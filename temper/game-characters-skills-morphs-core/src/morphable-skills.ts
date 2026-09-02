@@ -1,4 +1,4 @@
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
+import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { skills } from "@temper/game-characters-skills/skills-data"
 
 export interface MorphableSkillInfo {

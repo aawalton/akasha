@@ -1,12 +1,12 @@
 {
   "name": "@temper/game-characters-skills",
   "dependencies": {
+    "@akasha/temper-classes": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/game-characters-classes": "workspace:*",
-    "@temper/game-characters-equipment": "workspace:*",
-    "@temper/game-characters-races": "workspace:*",
-    "@temper/game-characters-skill-lines": "workspace:*",
-    "@temper/shared-formula-framework": "workspace:*"
+    "@temper/game-characters-equipment": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

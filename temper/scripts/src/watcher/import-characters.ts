@@ -2,11 +2,11 @@ import { upsertPage } from "@akasha/pages-access/upsert"
 import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-role"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { asRecord } from "@akasha/utils-narrow/as-record"
-import type { ChampionPointId } from "@temper/game-characters-champion-points/champion-points-source"
+import type { ChampionPointId } from "@akasha/temper-champion-points/champion-point-source"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import { type SkillLineId, skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-codec"
-import { BuildHash } from "@temper/shared-formula-framework/branded"
+import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 
 const validSkillLineIds = new Set<string>(skillLines.ids)
 
@@ -99,7 +99,7 @@ interface CharacterImportPlan {
 function planCharacterImport(content: string): CharacterImportPlan {
   const entries = parseSavedVariables(content)
   const actions: CharacterImportAction[] = entries.map((entry) => {
-    const decoded = decodeBuild(BuildHash(entry.buildHash))
+    const decoded = decodeBuild(toBuildHash(entry.buildHash))
     if (!decoded) {
       return {
         action: "skip",

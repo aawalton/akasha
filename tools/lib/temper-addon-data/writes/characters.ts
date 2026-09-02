@@ -3,13 +3,11 @@ import { generateTemperClass } from "@akasha/temper-addon-generators/classes"
 import { generateTemperAlliance } from "@akasha/temper-addon-generators/temper-alliance"
 import { generateTemperCharacterRole } from "@akasha/temper-addon-generators/temper-character-role"
 import { generateTemperCurse } from "@akasha/temper-addon-generators/temper-curse"
-import { generateTemperRace } from "@akasha/temper-addon-generators/temper-race"
 import { generateTemperTargetArmor } from "@akasha/temper-addon-generators/temper-target-armor"
 import { generateTemperVampireStage } from "@akasha/temper-addon-generators/temper-vampire-stage"
 import {
   TEMPER_CHARACTER_OUTPUT_DIR,
   TEMPER_CLASSES_OUTPUT_DIR,
-  TEMPER_RACES_OUTPUT_DIR,
 } from "../output-dirs.ts"
 
 export function buildAddonDataWritesCharacters(
@@ -43,6 +41,5 @@ export function buildAddonDataWritesCharacters(
       generateTemperCharacterRole(p.characterRolePages.rows)
     ),
     w(TEMPER_CLASSES_OUTPUT_DIR, "classes.generated.ts", generateTemperClass(p.classPages.rows)),
-    w(TEMPER_RACES_OUTPUT_DIR, "temper-race.generated.ts", generateTemperRace(p.racePages.rows)),
   ]
 }

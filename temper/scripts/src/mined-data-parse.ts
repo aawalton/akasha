@@ -1,7 +1,7 @@
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { asRecord } from "@akasha/utils-narrow/as-record"
-import type { MinedItemEntry, MinedQuestEntry } from "@temper/shared-capture-datamining-core/types"
+import type { MinedItemEntry, MinedQuestEntry } from "@akasha/temper-capture-datamining/datamining-payload"
 import {
   minedItemSchema,
   minedQuestSchema,

@@ -1,6 +1,6 @@
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
-import type { RaceId } from "@temper/game-characters-races/races"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { RaceId } from "@akasha/temper-races/races"
+import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
 
 export interface CompletionCharacter {

@@ -1,7 +1,7 @@
 import "./public-api"
 
 import { defineCaptureWriter } from "@temper/shared-capture-core/define-capture-writer"
-import { dataminingCaptureDescriptor } from "@temper/shared-capture-datamining-core/descriptor"
+import { DATAMINING_CAPTURE_DESCRIPTOR } from "@akasha/temper-capture-datamining/datamining-descriptor"
 import { ADDON_NAME, AUTO_START_DELAY } from "./constants"
 import { printStatus, resetMining, startMining, stopMining, testItemLinkRanges } from "./miner"
 import {
@@ -65,7 +65,7 @@ function onPlayerActivated(): undefined {
   }
 }
 
-defineCaptureWriter(dataminingCaptureDescriptor, (writer) => {
+defineCaptureWriter(DATAMINING_CAPTURE_DESCRIPTOR, (writer) => {
   setSavedVariablesAccessor(writer.getSavedVariables)
 
   const savedVars = writer.getSavedVariables()

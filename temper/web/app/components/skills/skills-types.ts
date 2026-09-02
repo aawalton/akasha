@@ -1,5 +1,5 @@
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { SkillLineCategoryId } from "@temper/game-characters-skill-lines/skill-line-categories"
+import type { SkillLineCategoryId } from "@akasha/temper-skill-lines/skill-line-category-data"
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
 import type { AffixScriptId } from "@temper/game-characters-skills/scribing/affix-scripts-data"
 import type { FocusScriptId } from "@temper/game-characters-skills/scribing/focus-scripts-data"

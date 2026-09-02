@@ -1,7 +1,7 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { CHARACTER_ACTIONS, type CharacterAction } from "./character-actions"
 
 export function characterReducer(state: CharacterState, action: CharacterAction): CharacterState {

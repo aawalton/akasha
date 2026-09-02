@@ -2,9 +2,9 @@ import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-gr
 import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-types"
 import { roles } from "@temper/game-characters-character/generated/temper-character-role.generated"
 import { type RoleId } from "@temper/game-characters-character/roles"
-import { type ClassId, classes } from "@temper/game-characters-classes/classes-data"
-import { races } from "@temper/game-characters-races/generated/temper-race.generated"
-import { type RaceId } from "@temper/game-characters-races/races"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { classes } from "@akasha/temper-classes/character-class"
+import { races, type RaceId } from "@akasha/temper-races/races"
 import type { ReactNode } from "react"
 
 export type TabValue = "plan" | "build" | "browse" | "leaderboard"

@@ -1,11 +1,11 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import { ItemCard } from "@akasha/design-patterns/item-card"
-import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
 import { grimoires } from "@temper/game-characters-skills/scribing/grimoires-data"
 import { getScribedSkillName } from "@temper/game-characters-skills/scribing/scribed-skills-data"
-import { getEsoIconUrl } from "@temper/shared-formula-framework/icon-utils"
+import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { Plus } from "lucide-react"
 import { useMemo } from "react"
 

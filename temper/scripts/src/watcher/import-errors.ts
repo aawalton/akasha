@@ -6,7 +6,7 @@ import {
   classifyLiveness,
   DEFAULT_STALE_AFTER_HOURS,
 } from "@temper/shared-capture-errors-decision-core/liveness"
-import type { ErrorEntry } from "@temper/shared-capture-errors-core/types"
+import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
 import { rootSchema } from "@temper/shared-capture-errors-decision-core/saved-variables-schema"
 import {
   gatherTriage,

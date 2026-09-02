@@ -1,4 +1,4 @@
-import type { MinedItemEntry, SetBonus } from "@temper/shared-capture-datamining-core/types"
+import type { MinedItemEntry, SetBonus } from "@akasha/temper-capture-datamining/datamining-payload"
 import {
   ADDON_NAME,
   AUTO_START_DELAY,

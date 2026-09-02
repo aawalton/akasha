@@ -2,8 +2,8 @@
   "name": "@temper/game-items-addon",
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
     "@temper/game-characters-capture-addon": "workspace:*",
-    "@temper/game-characters-skill-lines": "workspace:*",
     "@temper/game-characters-skills-morphs-core": "workspace:*",
     "@temper/game-items-core": "workspace:*",
     "@temper/game-items-filters-addon": "workspace:*",

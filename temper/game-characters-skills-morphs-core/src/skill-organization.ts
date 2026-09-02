@@ -1,6 +1,6 @@
 import { requireGet } from "@akasha/utils-narrow/require-get"
-import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
+import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import {
   getSkillCategory,
   getSkillLineName,

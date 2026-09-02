@@ -7,7 +7,8 @@ import {
   sortedRaces,
 } from "@temper/game-characters-character/race-source"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import { getRaceIconUrl, type RaceId } from "@temper/game-characters-races/races"
+import { getRaceIconUrl } from "@akasha/temper-races/race-icon-url"
+import type { RaceId } from "@akasha/temper-races/races"
 import { useMemo } from "react"
 import {
   FilterableSelectDialog,

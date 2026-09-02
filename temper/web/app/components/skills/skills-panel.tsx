@@ -1,7 +1,7 @@
 "use client"
 
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
+import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import {
   getArmorSkillLineIds,
   getWeaponSkillLineIdsForBar,

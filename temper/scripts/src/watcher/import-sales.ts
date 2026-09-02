@@ -3,7 +3,7 @@ import type { SupabaseServiceRoleClient } from "@akasha/supabase-server/service-
 import { asRecord } from "@akasha/utils-narrow/as-record"
 import { assertSchemaMatchesPayload } from "@akasha/temper-capture-host/assert-schema-matches-payload"
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
-import type { SalesPayload } from "@temper/shared-capture-sales-core/types"
+import type { SalesPayload } from "@akasha/temper-capture-sales/sales-payload"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { z } from "zod"
 

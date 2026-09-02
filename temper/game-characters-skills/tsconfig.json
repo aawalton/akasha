@@ -18,12 +18,6 @@
     },
     {
       "path": "../game-characters-equipment"
-    },
-    {
-      "path": "../game-characters-races"
-    },
-    {
-      "path": "../game-characters-skill-lines"
     }
   ],
   "include": [

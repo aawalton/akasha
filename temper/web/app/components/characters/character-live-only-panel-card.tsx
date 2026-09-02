@@ -6,10 +6,10 @@ import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
-import type { RaceId } from "@temper/game-characters-races/races"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { RaceId } from "@akasha/temper-races/races"
 import { characterUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 
 interface LiveOnlyBuild {
   id: string
@@ -42,7 +42,7 @@ function LiveBuildRow({
 
   return (
     <Link
-      href={`${characterUrl(BuildId(build.id), build.name)}?tab=character`}
+      href={`${characterUrl(buildId(build.id), build.name)}?tab=character`}
       className={`flex cursor-pointer flex-col gap-1 rounded-lg ${surfaceClass(surface + 1)} px-3 py-2.5 transition-colors hover:bg-surface-3`}
     >
       <div className="flex items-center justify-between gap-2">

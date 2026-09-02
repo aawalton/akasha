@@ -1,15 +1,15 @@
 {
   "name": "@temper/game-characters-character",
   "dependencies": {
+    "@akasha/temper-alchemy": "workspace:*",
+    "@akasha/temper-champion-points": "workspace:*",
+    "@akasha/temper-classes": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/game-characters-champion-points": "workspace:*",
-    "@temper/game-characters-classes": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
-    "@temper/game-characters-races": "workspace:*",
-    "@temper/game-characters-skill-lines": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",
-    "@temper/game-items-alchemy": "workspace:*",
-    "@temper/shared-formula-framework": "workspace:*",
     "zod": "^4.3.6"
   },
   "devDependencies": {

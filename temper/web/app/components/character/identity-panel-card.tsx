@@ -7,8 +7,9 @@ import {
   type VampireStageId,
   vampireStages,
 } from "@temper/game-characters-character/vampire-stages-data"
-import { type ClassId, classes } from "@temper/game-characters-classes/classes-data"
-import type { RaceId } from "@temper/game-characters-races/races"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { classes } from "@akasha/temper-classes/character-class"
+import type { RaceId } from "@akasha/temper-races/races"
 import { useState } from "react"
 import { RaceSelectDialog } from "@/components/character/race-select-dialog"
 import { FilterableSelectTrigger } from "@/components/ui/filterable-select-dialog"

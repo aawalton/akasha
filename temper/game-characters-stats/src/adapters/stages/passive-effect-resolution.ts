@@ -1,7 +1,7 @@
 import type { StandardArmorWeightId } from "@temper/game-characters-equipment/armor/armor-weights-data"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
-import type { ArmorPieceScalingEffect, Effect, MetricEffect, SlottedAbilityScalingEffect, WeaponTypeConditionalEffect } from "@temper/shared-formula-framework/effects-types"
-import { isArmorPieceScalingEffect, isSlottedAbilityScalingEffect, isWeaponTypeConditionalEffect } from "@temper/shared-formula-framework/effects-types"
+import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
+import type { ArmorPieceScalingEffect, Effect, MetricEffect, SlottedAbilityScalingEffect, WeaponTypeConditionalEffect } from "@akasha/temper-formula-framework/effect"
+import { isArmorPieceScalingEffect, isSlottedAbilityScalingEffect, isWeaponTypeConditionalEffect } from "@akasha/temper-formula-framework/effect"
 
 function resolveEffects<E extends Effect>(
   effects: readonly Effect[],

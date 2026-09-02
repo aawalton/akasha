@@ -1,4 +1,4 @@
-import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { isObjectRecord } from "@temper/shared-narrow"
 import { getTemperCharactersData } from "./temper-characters-data"
 

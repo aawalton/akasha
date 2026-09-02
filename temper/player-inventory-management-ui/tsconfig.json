@@ -63,9 +63,6 @@
     },
     {
       "path": "../game-trading-pricing"
-    },
-    {
-      "path": "../game-characters-skill-lines"
     }
   ],
   "include": [

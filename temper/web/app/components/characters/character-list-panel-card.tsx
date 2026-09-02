@@ -5,10 +5,10 @@ import { Text } from "@akasha/design-primitives/text-body"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import type { RoleId } from "@temper/game-characters-character/roles"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
-import type { RaceId } from "@temper/game-characters-races/races"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { RaceId } from "@akasha/temper-races/races"
 import { characterUrl } from "@temper/shared-engine/utils/slug"
-import { BuildId } from "@temper/shared-formula-framework/branded"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 
 interface CharacterListPanelCardBuild {
   id: string
@@ -41,7 +41,7 @@ export function CharacterListPanelCard({
 
   return (
     <Link
-      href={`${characterUrl(BuildId(build.id), build.name)}?tab=character`}
+      href={`${characterUrl(buildId(build.id), build.name)}?tab=character`}
       className="block w-full min-[520px]:w-auto"
     >
       <PanelCard

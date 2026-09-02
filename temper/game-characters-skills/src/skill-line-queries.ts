@@ -1,14 +1,13 @@
 import { requireGet } from "@akasha/utils-narrow/require-get"
-import { classes } from "@temper/game-characters-classes/classes-data"
+import { classes } from "@akasha/temper-classes/character-class"
 import {
   type ArmorWeightId,
   armorWeights,
 } from "@temper/game-characters-equipment/armor/armor-weights-data"
 import { weaponTypes } from "@temper/game-characters-equipment/weapons/weapon-types-data"
-import { getSkillLineIdsForClass, type SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
-import { skillLines } from "@temper/game-characters-skill-lines/generated/temper-skill-line.generated"
-import type { ClassId } from "@temper/shared-formula-framework/class-id"
-import { valuesOf } from "@temper/shared-formula-framework/object-utils"
+import { getSkillLineIdsForClass, type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
 import type { ArmorShape, SkillBarsState, WeaponBarShape } from "./query-shapes"
 import { type SkillBarId, skillBars } from "./skill-bars-data"
 import { type SkillSlotId, skillSlots } from "./skill-slots-data"

@@ -2,8 +2,8 @@
 
 import type { RoleId } from "@temper/game-characters-character/roles"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@temper/game-characters-classes/classes-data"
-import type { RaceId } from "@temper/game-characters-races/races"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { RaceId } from "@akasha/temper-races/races"
 import { usePlayerByUserId } from "@temper/player-profile/use-player"
 import { CharacterListPanelCard } from "@/components/characters/character-list-panel-card"
 

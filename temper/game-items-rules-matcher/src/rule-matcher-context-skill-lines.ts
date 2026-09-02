@@ -1,5 +1,5 @@
 import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
-import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import type { CompletionCharacterInput } from "@temper/game-items-rules-core/rule-matcher-context-types"
 
 function getCompletionField(completion: unknown, field: string): unknown {

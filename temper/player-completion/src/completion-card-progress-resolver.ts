@@ -1,5 +1,4 @@
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
-import { skillLines as skillLinesData } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { type SkillLineId, skillLines as skillLinesData } from "@akasha/temper-skill-lines/skill-lines"
 import { type MorphCharacterRow } from "@temper/game-characters-skills-morphs-access/morph-completion-shapes"
 import { resolveSkillMorphs } from "@temper/game-characters-skills-morphs-access/skill-morphs-resolver"
 import {
@@ -11,7 +10,7 @@ import { companions } from "@temper/game-companions-core/companions-data"
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 import { clampRapportProgress, MAX_COMPANION_RAPPORT } from "./companion-rapport"
 import { transformAntiquityLoreProgress } from "./completion-antiquity-lore-progress"
 import type { AnyCompletionCardId } from "./completion-card-id"

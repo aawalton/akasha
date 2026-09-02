@@ -1,9 +1,9 @@
-import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
 import {
+  type SkillLineId,
   getSkillLineIdsForClass,
   skillLines,
-} from "@temper/game-characters-skill-lines/skill-lines-data"
+} from "@akasha/temper-skill-lines/skill-lines"
 import { getRacialSkillLineIdForRace } from "@temper/game-characters-skills/passive-queries"
 import {
   EXCLUDED_CATEGORIES,

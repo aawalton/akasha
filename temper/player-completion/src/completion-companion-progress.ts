@@ -1,11 +1,10 @@
-import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
-import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
+import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
 import { companions, getCompanionIdByDefId } from "@temper/game-companions-core/companions-data"
 import type {
   CharacterCompletion,
   CompanionCompletion,
-} from "@temper/game-completion/completion-types"
+} from "@akasha/temper-completion/completion-progress"
 import { clampRapportProgress, MAX_COMPANION_RAPPORT } from "./companion-rapport"
 import { isCharacterMeasured } from "./completion-measured"
 import type {

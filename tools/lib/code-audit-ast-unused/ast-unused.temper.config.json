@@ -56,18 +56,6 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "temper/game-characters-races": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "temper/game-characters-skill-lines": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/game-characters-skills": {
       "entry": [
         "**/*.test.{ts,tsx}"

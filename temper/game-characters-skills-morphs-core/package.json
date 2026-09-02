@@ -1,8 +1,8 @@
 {
   "name": "@temper/game-characters-skills-morphs-core",
   "dependencies": {
+    "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/game-characters-skill-lines": "workspace:*",
     "@temper/game-characters-skills": "workspace:*"
   },
   "devDependencies": {

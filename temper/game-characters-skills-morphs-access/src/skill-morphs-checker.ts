@@ -1,4 +1,4 @@
-import { skillLines } from "@temper/game-characters-skill-lines/generated/temper-skill-line.generated"
+import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { computeCharacterMorphProgress } from "@temper/game-characters-skills-morphs-core/character-morph-progress"
 import { morphableSkillsByLine } from "@temper/game-characters-skills-morphs-core/morphable-skills"
 import {

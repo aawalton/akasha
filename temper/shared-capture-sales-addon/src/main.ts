@@ -1,10 +1,10 @@
 import "./public-api"
 import { defineCaptureWriter } from "@temper/shared-capture-core/define-capture-writer"
-import { salesCaptureDescriptor } from "@temper/shared-capture-sales-core/descriptor"
+import { SALES_CAPTURE_DESCRIPTOR } from "@akasha/temper-capture-sales/sales-descriptor"
 import { setSalesAccessor, startSalesCapture } from "./capture"
 import { ADDON_NAME } from "./constants"
 
-defineCaptureWriter(salesCaptureDescriptor, (writer) => {
+defineCaptureWriter(SALES_CAPTURE_DESCRIPTOR, (writer) => {
   const sv = writer.getSavedVariables()
   sv.displayName = GetDisplayName()
   setSalesAccessor(writer.getSavedVariables)

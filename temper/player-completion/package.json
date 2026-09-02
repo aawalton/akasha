@@ -1,18 +1,18 @@
 {
   "name": "@temper/player-completion",
   "dependencies": {
+    "@akasha/temper-champion-points": "workspace:*",
+    "@akasha/temper-completion": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-races": "workspace:*",
+    "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/game-characters-champion-points": "workspace:*",
-    "@temper/game-characters-classes": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
-    "@temper/game-characters-races": "workspace:*",
-    "@temper/game-characters-skill-lines": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",
     "@temper/game-characters-skills-morphs-access": "workspace:*",
     "@temper/game-characters-skills-morphs-core": "workspace:*",
     "@temper/game-companions-core": "workspace:*",
-    "@temper/game-completion": "workspace:*",
-    "@temper/shared-formula-framework": "workspace:*"
+    "@temper/game-completion": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",
