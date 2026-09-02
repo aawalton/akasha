@@ -8,6 +8,7 @@ import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import type { FileCarry, FileEdit, Landed, Refused } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
+import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 import type { Filled, Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
@@ -263,7 +264,7 @@ function reported(
   }
 }
 
-function reporting(root: string, asked: Asked, gate: Judging): Answer {
+function reporting(root: string, asked: Asked, gate: Judging, aside: readonly string[]): Answer {
   const change = changeOf(root, { base: baseOf(root), edits: asked.changes })
   const held = { said: gate.over(change), woke: gate.checksFor(change).length }
   if (held.said.length > 0) {
@@ -277,7 +278,11 @@ function reporting(root: string, asked: Asked, gate: Judging): Answer {
     }
   }
   return {
-    report: [passedOver(held.woke, asked.changes.length), `nothing was written — ${DRY_RUN}`],
+    report: [
+      ...aside,
+      passedOver(held.woke, asked.changes.length),
+      `nothing was written — ${DRY_RUN}`,
+    ],
     refusals: [],
     code: 0,
   }
@@ -319,14 +324,19 @@ export function landingAsked(given: Given, asked: Asked): Answer {
     return { report: [], refusals: [`${NOTHING} — ${whyOf(thrown)}`], code: 3 }
   }
   const formatting = formattingIn(given.root, minted.changes)
-  const aside = [...filledSaid(minted.filled), ...formattedSaid(formatting.formatted)]
-  const held: Asked = { ...asked, changes: formatting.changes }
+  const locking = lockingFor(given.root, baseOf(given.root), formatting.changes)
+  const aside = [
+    ...filledSaid(minted.filled),
+    ...formattedSaid(formatting.formatted),
+    ...locking.said,
+  ]
+  const held: Asked = { ...asked, changes: [...formatting.changes, ...locking.edits] }
   const bypass = bypassIn(given, held)
   const built = gateBuilt(given.root)
   if ("broken" in built && bypass === null) return unloadable(built.broken)
   const broken = "broken" in built ? built.broken : null
   const gate = gateFor(held, bypass === null && "gate" in built ? built.gate : NO_GATE)
-  if (held.dryRun) return reporting(given.root, held, gate)
+  if (held.dryRun) return reporting(given.root, held, gate, aside)
   let said: Landed | Refused
   try {
     said = landing(

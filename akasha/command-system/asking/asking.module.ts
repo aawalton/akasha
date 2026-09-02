@@ -48,6 +48,19 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A change carrying a package manifest carries the lockfile those manifests warrant.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The lockfile is made again before the gate sees the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lockfile that could not be made is said rather than refusing the change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body that lands is recorded as read by whoever landed the body.",
     },
     {

@@ -1,7 +1,3 @@
-import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
-import { argvFor } from "@akasha/git/git-running"
-import { ran } from "@akasha/utils-run/running"
 import ts from "typescript"
 import { counted, textOf } from "../../../asking/asking.module.code.ts"
 import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
@@ -9,27 +5,9 @@ import type { FileEdit } from "../../../landing/landing.module.code.ts"
 
 const MANIFEST = "package.json"
 
-const LOCK = "bun.lock"
-
 const WORKSPACES = "workspaces"
 
 const PARTED_BY = "/"
-
-const SCRATCH_AT = "/var/tmp"
-
-const PREFIX = "akasha-remove-workspacing-"
-
-const ARCHIVE = "tracked.tar"
-
-const TREE = "tree"
-
-const TRACKED = [`:(glob)**/${MANIFEST}`, MANIFEST, LOCK]
-
-const TAR = "tar"
-
-const BUN = "bun"
-
-const LOCKFILE_ONLY = ["install", "--lockfile-only"]
 
 export const WORKSPACE_SPELLING =
   `an entry under \`${WORKSPACES}\` is emptied where the removal takes the \`${MANIFEST}\` that ` +
@@ -99,27 +77,6 @@ export function withoutNamed(path: string, text: string, dropping: ReadonlySet<s
   return body
 }
 
-export function lockedFrom(root: string, base: string, mended: string): Uint8Array | null {
-  const held = mkdtempSync(join(SCRATCH_AT, PREFIX))
-  try {
-    const archive = join(held, ARCHIVE)
-    const tree = join(held, TREE)
-    mkdirSync(tree)
-    const took = ran(
-      argvFor(root, ["archive", "--format=tar", "-o", archive, base, "--", ...TRACKED])
-    )
-    if (took.code !== 0) return null
-    if (ran([TAR, "-xf", archive, "-C", tree]).code !== 0) return null
-    writeFileSync(join(tree, MANIFEST), mended)
-    if (ran([BUN, ...LOCKFILE_ONLY], { cwd: tree }).code !== 0) return null
-    return readFileSync(join(tree, LOCK))
-  } catch {
-    return null
-  } finally {
-    rmSync(held, { recursive: true, force: true })
-  }
-}
-
 export type Workspacing = {
   readonly edits: readonly FileEdit[]
   readonly emptied: readonly string[]
@@ -142,22 +99,8 @@ export function workspacingOver(
   if (emptied.length === 0) return NO_WORKSPACING
   const mended = withoutNamed(MANIFEST, text, new Set(emptied))
   if (mended === text) return NO_WORKSPACING
-  const lock = lockedFrom(root, base, mended)
-  if (lock === null) {
-    return {
-      edits: [],
-      emptied,
-      why:
-        `${MANIFEST} names ${counted(emptied.length, "workspace")} this removal empties and ` +
-        `\`${LOCK}\` could not be made again from the manifests at ${base}, so neither was ` +
-        `touched — a manifest landing without the lockfile beside it refuses every install`,
-    }
-  }
   return {
-    edits: [
-      { path: MANIFEST, body: new TextEncoder().encode(mended) },
-      { path: LOCK, body: lock },
-    ],
+    edits: [{ path: MANIFEST, body: new TextEncoder().encode(mended) }],
     emptied,
     why: null,
   }
@@ -186,8 +129,7 @@ export function workspacingSaid(held: Workspacing, dry: boolean): readonly strin
   if (held.emptied.length === 0) return []
   return [
     `${MANIFEST} ${dry ? "would stop naming" : "stopped naming"} ` +
-      `${counted(held.emptied.length, "workspace")} this removal empties, and \`${LOCK}\` ` +
-      `${dry ? "would be" : "was"} made again from the manifests left — ` +
+      `${counted(held.emptied.length, "workspace")} this removal empties — ` +
       held.emptied.map((one) => `\`${one}\``).join(", "),
     WORKSPACE_SPELLING,
   ]

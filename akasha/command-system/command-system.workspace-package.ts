@@ -28,6 +28,7 @@ export const commandSystem = {
     "module/package-linking",
     "module/folder-clearing",
     "module/outside-naming",
+    "module/manifest-locking",
   ],
   invariants: [
     {

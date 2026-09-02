@@ -7,7 +7,6 @@ import { baseOf } from "../../../landing/landing.module.code.ts"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
 import {
   emptiedBy,
-  lockedFrom,
   NO_WORKSPACING,
   withoutNamed,
   workspacesIn,
@@ -90,16 +89,14 @@ test("a removal emptying no workspace asks for no change and has nothing to say"
   expect(workspacingSaid(held, true)).toEqual([])
 })
 
-test("the manifest and the lockfile are asked for together, neither naming what was emptied", () => {
+test("the manifest is asked for without the entry the removal emptied", () => {
   const root = world()
   const held = workspacingFor(root, baseOf(root), TAKING)
   expect(held.emptied).toEqual(["one"])
   expect(held.why).toBe(null)
-  expect(held.edits.map((one) => one.path)).toEqual([MANIFEST, "bun.lock"])
-  const decoder = new TextDecoder()
-  const manifest = decoder.decode(held.edits[0]?.body ?? new Uint8Array())
+  expect(held.edits.map((one) => one.path)).toEqual([MANIFEST])
+  const manifest = new TextDecoder().decode(held.edits[0]?.body ?? new Uint8Array())
   expect(workspacesIn(manifest)).toEqual(["two"])
-  expect(decoder.decode(held.edits[1]?.body ?? new Uint8Array())).not.toContain('"one"')
 })
 
 test("a base holding no root manifest asks for no change and says why", () => {
@@ -110,34 +107,17 @@ test("a base holding no root manifest asks for no change and says why", () => {
   expect(workspacingSaid(held, false)).toEqual([held.why ?? ""])
 })
 
-test("a lockfile that could not be made leaves the manifest untouched and says why", () => {
-  const root = world()
-  const said = workspacingSaid(
-    { edits: [], emptied: ["one"], why: "the lockfile could not be made again" },
-    false
-  )
-  expect(said).toEqual(["the lockfile could not be made again"])
-  expect(lockedFrom(root, "no-commit-of-that-name", ROOT_BODY)).toBe(null)
-})
-
-test("a lockfile made from the manifests alone is the lockfile those manifests warrant", () => {
-  const root = world()
-  const mended = withoutNamed(MANIFEST, ROOT_BODY, new Set(["one"]))
-  const made = lockedFrom(root, baseOf(root), mended)
-  expect(made).not.toBe(null)
-  expect(new TextDecoder().decode(made ?? new Uint8Array())).not.toContain('"one"')
-})
-
-test("the tree installs after the removal, and would not have without this", () => {
+test("the workspace the removal emptied is no longer looked for, and was before", () => {
   const root = world()
   const held = workspacingFor(root, baseOf(root), TAKING)
   rmSync(join(root, "one"), { recursive: true, force: true })
-  expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
+  const before = ran(FROZEN, { cwd: root })
+  expect(before.code).not.toBe(0)
+  expect(`${before.out}${before.err}`).toContain('Workspace not found "one"')
   for (const one of held.edits) {
     writeFileSync(join(root, one.path), one.body ?? new Uint8Array())
   }
   const after = ran(FROZEN, { cwd: root })
-  expect(after.code).toBe(0)
   expect(`${after.out}${after.err}`).not.toContain("Workspace not found")
   expect(readFileSync(join(root, MANIFEST), "utf8")).not.toContain('"one",')
 })
