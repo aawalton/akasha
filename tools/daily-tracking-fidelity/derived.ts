@@ -23,12 +23,19 @@
 
 import { rootsNamed } from "@akasha/pages-system/checkout-roots"
 import { deriver } from "../lib/page-derive.ts"
-import { DAY_PAGE_TYPE } from "../daily-tracking-migration/shape.ts"
+import { AKASHA_DAY_PAGE_TYPE, DAY_PAGE_TYPE } from "../daily-tracking-migration/shape.ts"
 
-/** A markdown day's file, and a landed day's, told apart by nothing but their endings. */
+/**
+ * A markdown day's file, and a landed day's, told apart by nothing but their endings.
+ *
+ * The two endings are built from two different page type names because a day is named one thing in
+ * each half: `daily-tracking` in markdown and `wake-day` in akasha. A landed day's file really ends
+ * `.wake-day.ts`, so an ending built from the markdown name matches none of the 133 of them and
+ * this read reports every landed day as unpaired.
+ */
 const MARKDOWN_ENDING = `.${DAY_PAGE_TYPE}.md`
 
-const AKASHA_ENDING = `.${DAY_PAGE_TYPE}.ts`
+const AKASHA_ENDING = `.${AKASHA_DAY_PAGE_TYPE}.ts`
 
 /**
  * The keys the two halves are meant to answer differently, which is every key naming the page rather

@@ -44,7 +44,29 @@
  * fails a typecheck nobody ran.
  */
 
+/**
+ * The page type a day is in MARKDOWN, declared at `pages/page-type/daily-tracking.page-type.md`.
+ *
+ * This is the name the source corpus states and the name the converter reads a day back out of. It
+ * is NOT the name a day answers to once it stands in akasha — see `AKASHA_DAY_PAGE_TYPE` below.
+ */
 export const DAY_PAGE_TYPE = "daily-tracking"
+
+/**
+ * The page type a day is in AKASHA, declared at
+ * `akasha/alan/tracking/daily/wake-days/wake-day.page-type.ts`, which states `slug: "wake-day"` and
+ * `pluralSlug: "wake-days"`.
+ *
+ * The two names are kept apart because the akasha pages system service answers for the pages
+ * standing in akasha and for no others, so its index holds `wake-day` and has never held
+ * `daily-tracking`. A day page composed or looked up under the markdown name is refused with `no
+ * page type the index holds`, which is what `tools/lib/tracking/akasha-day.ts` did to every write
+ * the tracking funnel made for a migrated day.
+ *
+ * A day standing in akasha carries this on the page — `pageTypeSlug: "wake-day"` on all 133 of them
+ * — and in the file's own name, which ends `.wake-day.ts`.
+ */
+export const AKASHA_DAY_PAGE_TYPE = "wake-day"
 
 export const SLUG_PREFIX = "day-"
 

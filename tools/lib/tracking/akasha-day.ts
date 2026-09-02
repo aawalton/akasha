@@ -32,8 +32,8 @@ import {
   type Put,
 } from "../../../akasha/pages-system/service/page-composing/page-composing.module.code.ts"
 import {
+  AKASHA_DAY_PAGE_TYPE,
   COMPLETED_TASKS_SLUG,
-  DAY_PAGE_TYPE,
   ENTRY_EXTENSION,
   SESSIONS_SLUG,
 } from "../../daily-tracking-migration/shape.ts"
@@ -142,7 +142,7 @@ export interface Standing {
  * reason this funnel exists.
  */
 export function dayStanding(root: string, slug: string): Standing | null {
-  const listed = listedAt(root, DAY_PAGE_TYPE, slug)
+  const listed = listedAt(root, AKASHA_DAY_PAGE_TYPE, slug)
   const path = listed.length === 1 ? listed[0]?.path : undefined
   if (path === undefined) return null
   return { path, value: valueAt(path, root) ?? {} }
@@ -226,15 +226,16 @@ export async function landAkashaDayPage(
   const whole = {
     ...(standing?.value ?? {}),
     ...camelised(values),
-    pageTypeSlug: DAY_PAGE_TYPE,
+    pageTypeSlug: AKASHA_DAY_PAGE_TYPE,
     slug,
   }
-  const composed = composedFor(root, { pageTypeSlug: DAY_PAGE_TYPE, slug, values: whole })
+  const composed = composedFor(root, { pageTypeSlug: AKASHA_DAY_PAGE_TYPE, slug, values: whole })
   if ("refused" in composed) return refused(composed.refused)
   if (composed.kept !== null) {
     return refused(
-      `\`${DAY_PAGE_TYPE}\` declares a property kept outside the commit and this writes none; ` +
-        `${composed.kept.path} would carry ${Object.keys(composed.kept.values).join(", ")}`
+      `\`${AKASHA_DAY_PAGE_TYPE}\` declares a property kept outside the commit and this writes ` +
+        `none; ${composed.kept.path} would carry ` +
+        Object.keys(composed.kept.values).join(", ")
     )
   }
   return written([composed.put], `${writer}: the day ${slug}`)
@@ -265,8 +266,8 @@ export async function landAkashaRow(
   const standing = dayStanding(root, slug)
   if (standing === null) {
     return refused(
-      `no \`${DAY_PAGE_TYPE}\` page is filed under '${slug}', and a row stands beside a day rather ` +
-        "than on its own"
+      `no \`${AKASHA_DAY_PAGE_TYPE}\` page is filed under '${slug}', and a row stands beside a ` +
+        "day rather than on its own"
     )
   }
   const held = rowsBeside(root, standing.path, propertySlug)
@@ -282,9 +283,14 @@ export async function landAkashaRow(
   const key = ROW_PROPERTIES[propertySlug] ?? camelizeKey(propertySlug)
   if (standing.value[key] !== ENTRY_EXTENSION) {
     const composed = composedFor(root, {
-      pageTypeSlug: DAY_PAGE_TYPE,
+      pageTypeSlug: AKASHA_DAY_PAGE_TYPE,
       slug,
-      values: { ...standing.value, [key]: ENTRY_EXTENSION, pageTypeSlug: DAY_PAGE_TYPE, slug },
+      values: {
+        ...standing.value,
+        [key]: ENTRY_EXTENSION,
+        pageTypeSlug: AKASHA_DAY_PAGE_TYPE,
+        slug,
+      },
     })
     if ("refused" in composed) return refused(composed.refused)
     puts.push(composed.put)
