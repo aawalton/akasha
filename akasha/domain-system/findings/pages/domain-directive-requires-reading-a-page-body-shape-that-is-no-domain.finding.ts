@@ -4,7 +4,7 @@ export const domainDirectiveRequiresReadingAPageBodyShapeThatIsNoDomain = {
   id: "01a06114-93cd-72e8-a807-a31143b72dd7",
   pageTypeSlug: "finding",
   slug: "domain-directive-requires-reading-a-page-body-shape-that-is-no-domain",
-  domainSlug: "domain/domain-shape",
+  domainSlug: "workspace-package/domain-system",
   claim:
     "`pages/domain/domain-directive.domain.md` names `page-body-shape/domain` in `required-reading-slugs`, a property whose `target-slug` is `domain`. `page-body-shape` extends `page`, so that address can never resolve. It is the one genuinely unresolvable relation left in the markdown tree once the migration's shadow is subtracted, and it was written deliberately, so it remains unrepaired.",
   evidence:
