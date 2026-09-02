@@ -2824,19 +2824,6 @@
         "zod": "^4.3.6",
       },
     },
-    "temper/game-collections-addon": {
-      "name": "@temper/game-collections-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-narrow": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
-      "devDependencies": {
-        "@akasha/temper-lua-runner": "workspace:*",
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-combat-addon": {
       "name": "@temper/game-combat-addon",
       "version": "0.1.0",
@@ -4512,8 +4499,6 @@
     "@temper/game-characters-skills-morphs-addon": ["@temper/game-characters-skills-morphs-addon@workspace:temper/game-characters-skills-morphs-addon"],
 
     "@temper/game-codec": ["@temper/game-codec@workspace:temper/game-codec"],
-
-    "@temper/game-collections-addon": ["@temper/game-collections-addon@workspace:temper/game-collections-addon"],
 
     "@temper/game-combat-addon": ["@temper/game-combat-addon@workspace:temper/game-combat-addon"],
 
