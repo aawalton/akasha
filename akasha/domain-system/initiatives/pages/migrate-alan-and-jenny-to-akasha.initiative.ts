@@ -14,11 +14,6 @@ export const migrateAlanAndJennyToAkasha = {
         "`akasha deploy <slug>` reaches all three now, dispatched through the markdown `ios-app` registry rather than the `.ts` pages, which mark which sources have migrated and are no record of what exists. Proven four times with `--no-upload`: builds 2, 22 and 200 stamped `b0587b0306`, Apple-validated, 0 uploads and 0 build numbers spent. What is left is the upload, which delivers to a phone and waits on Alan; the call not to move Apple's switches is filed at `797a2ef58f`.",
     },
     {
-      statement: "Alan's health samples are read from akasha rather than from the old markdown.",
-      workingMemory:
-        "Whole-file put with a `read` precondition is proven: 16/16 on a private root naming no remote — `.jsonl` byte-identical over four landings, CAS refuses a stale put without corrupting, lands where no file is, and is per-path, so two days never contend. The move has not begun: 234 pages and 233 rows files are still in `pages/eso-daily-tracking/`. Each is re-slugged, since `2026-01-01` is no export name. Go through `akasha` commands; a hook reverts akasha writes made outside the gate.",
-    },
-    {
       statement: "Alan's and Jenny's safety iOS widgets work.",
       workingMemory:
         "Both halves are proven as far as the pod; the phones are unseen. Alan's deployed at `d0f4d24621`. Jenny's landed at `aceffc1382`, a second `runs` line on his relay, and `172cd167b9`, her route on the same `safety` group. Her site now serves `49134b9632`, where `/api/errors` answers 405 rather than 404. Proven against the real store and the real held reading: 401 bare, 503 with nothing carried in, 200 and a whole stoplight otherwise, plus 16 tests. Her tile shows Alan's level, by design.",
@@ -27,11 +22,6 @@ export const migrateAlanAndJennyToAkasha = {
       statement: "Alan's and Jenny's surplus iOS widgets work.",
       workingMemory:
         "Both tiles draw a reading and Alan reports the figure wrong. The number is right: `surplus-hours` is derived on the day as sleep less spend, and recomputing from the day's stretches matches it exactly. Wrong was that a readout said nothing about how wide its figure is written, so the tile got 21 characters of float tail and broke them off mid-number. `ad85a10ab5` gives a readout a figure-format and refuses a day holding neither half; site tests `7b978fb3e6`; deployed `776bd64872`. Phones unseen.",
-    },
-    {
-      statement: "Jenny's site deploys from akasha.",
-      workingMemory:
-        "Deployed and proved live. READING_RELAY_SECRET stands in her sops at the workstation's value, moved by `sops edit`, digest-checked, never printed. Pod b4289a8e7a: her relay 401s bare and 400s with the secret on a body that is no reading; her tile route answers 503 No reading on the ring credential. A relay secret 401s at her tile route as at Alan's, a category error and not a stale build, filed at alans-tile-route-refuses-jennys-credential-by-design-rather-than-by-age. He now runs 0c6fb83a1f.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
@@ -46,28 +36,28 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The design packages stand in akasha.",
       workingMemory:
-        "design-system stands at `644bb74cec` and `583bc845f5`: 5 stylesheets, 36 gallery modules, `shared/design-system` gone. The blocker was already gone: its 13 TS2322 errors typecheck clean and no `void` was rewritten. Inbound resolved to 8 edges, 7 products reaching the `.css` and one route the gallery; 10 tsconfigs dropped a reference rather than repoint. Every globals.css scanned only `shared/design-patterns`, so its 37 moved modules went unscanned by Tailwind; each names both now.",
+        "Blocked on Alan. `shared/design-system` is gone, but `shared/design-patterns` must survive: its one module left, `src/components/query-error-boundary.tsx`, is a class extending `React.Component`, and `no-class` permits a class only where it extends `Error`. React 19 offers no function form and `getDerivedStateFromError` is class-only, at `3ecea90b8d`. Adding `react-error-boundary` or widening `no-class` needs his ruling. 5 importers, all in `temper/`. All 7 globals.css carry the outside glob.",
     },
     {
       statement: "`pages-ui` stands in akasha.",
       workingMemory:
-        "The manifest is no longer the block. `components` came out as a nested package at `65a4c5f6`: 14,662 bytes to 7,536, headroom 338 to 7,464, about 68 modules. `view-engine` sits under it because two sibling packages keep the cycle and this tree has none in 320. Proven over 1,032 resolutions: 123 of 126 byte-identical, 3 gained a segment with identical blobs, and a control flipped both ways where a stale harness shows green. What is left is landing the rest of the 156 files.",
+        "The manifest is no longer the block: `@akasha/pages-ui` is 9,254 bytes over 82 export keys and its `components` 9,269 over 90, so 172 keys across two packages where the night opened at 14,662 bytes and 126 keys in one. A third package was approved and is not needed. Not met yet: `shared/pages-ui/src` still holds 110 modules, down from 156, every one of them source rather than a re-export and none carrying a counterpart in akasha, reached by 78 imports in 54 files.",
     },
     {
       statement: "The interior of Alan's site stands in akasha.",
       workingMemory:
-        "`lib` 51, `idle` 50, `awen` 51, `components` 18, `hooks` 2, `questions` 7 under `alanwalton/web/app/`: 179 files as one landing, none moved. Only pages-ui gates it now — design-primitives landed, and these folders already reach `@akasha/design-primitives` in 23 files over 49 statements. What waits is 42 `@shared/pages-ui` statements in 22 files, rewritten twice if this went first. `.json` and `.css` are no crux: `file-has-its-page` holds no extension list and they land as file properties.",
+        "`lib` 53, `idle` 50, `awen` 51, `components` 19, `hooks` 2, `questions` 4 under `alanwalton/web/app/`: 179 files as one landing, none moved. `app/` holds 257, so 78 files sit outside that census. Only pages-ui gates it now; design-primitives landed, reached in 23 files over 49 statements. What waits is 31 `@shared/pages-ui` statements in 22 files, rewritten twice if this went first. `.json` and `.css` are no crux: `file-has-its-page` holds no extension list and they land as file properties.",
     },
     {
       statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
       workingMemory:
-        "`link-target` landed at `996a2d5362` and `a6c30a4eff`, so `questions` holds 4 files and `hooks` 2. The old census was stale: 7 files, not 9, and 2 were `~/`-free, not 5. `imports-inside` settles the rest — it ignores npm but refuses a workspace outside akasha — so `use-mark-notification-read` waits on `@shared/pages-ui`, and the other 5 on 9 files under `app/lib` plus `components/signed-out-notice`. Every one of the 6 waits on the interior intent.",
+        "`link-target` landed at `996a2d5362` and `a6c30a4eff`, so `questions` holds 4 files and `hooks` 2. The old census was stale: 7 files, not 9, and 1 was `~/`-free, not 5. `imports-inside` settles the rest — it ignores npm but refuses a workspace outside akasha — so 2 of the 6 wait on `@shared/pages-ui`, and the other 4 on 9 files under `app/lib` plus `components/signed-out-notice`. Every one of the 6 waits on the interior intent.",
     },
     {
       statement: "The routes of Alan's site stand in akasha.",
       workingMemory:
-        "Last of the three, because `app/routes` is the only part of this move with modelling nobody has done. Nothing waits on it: the site is a leaf with no inbound importers. The shape is settled: a lane built the site through a symlinked package root and got exit 0 with asset hashes identical to the control, tailwind emitting 114,234 bytes. Its 62 files carry 307 imports: 47 stay inside, 164 name packages, 20 npm, 76 escape to app siblings — 66 by `~/` and 10 by `../`, all into `awen`.",
+        "Last of the three, because `app/routes` is the only part of this move with modelling nobody has done. Nothing waits on it: the site is a leaf. The shape is settled: a lane built the site through a symlinked package root, exit 0, asset hashes identical to the control, tailwind emitting 114,234 bytes. Its 67 files carry 299 imports: 6 stay inside, 49 are `./+types/*` codegen resolving outward, 158 name packages, 86 escape — 76 by `~/` over nine directories and 10 by `../` into `awen`.",
     },
   ],
   constraints: [

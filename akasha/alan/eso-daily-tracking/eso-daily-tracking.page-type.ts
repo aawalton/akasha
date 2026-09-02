@@ -65,5 +65,13 @@ export const esoDailyTracking = {
       invariantKind: "departure",
       statement: "Every ESO day Alan tracked is a page of this type.",
     },
+    {
+      invariantKind: "absence",
+      statement: "No ESO day is kept in markdown.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No reading is kept in markdown.",
+    },
   ],
 } as const satisfies PageType
