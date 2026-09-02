@@ -22,6 +22,31 @@ export const committing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A blob's mode is read off the disk a change wrote rather than off the commit that change lands onto.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file its owner may run lands at 100755 and any other file lands at 100644.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The bit read is the bit a file's owner runs by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path that is no plain file on disk keeps the mode the last commit recorded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One mode is given to the tree and to the git index for one path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mode changed with the body left alone is a change and commits.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Only the trees along a changed path are built again.",
     },
     {

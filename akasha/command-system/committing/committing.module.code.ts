@@ -1,3 +1,5 @@
+import { lstatSync } from "node:fs"
+import { join } from "node:path"
 import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
 
 export const AUTHOR = "Akasha <akasha@alanwalton.com>"
@@ -5,6 +7,10 @@ export const AUTHOR = "Akasha <akasha@alanwalton.com>"
 export const UNNAMED = "unnamed"
 
 const FILE_MODE = "100644"
+
+const EXEC_MODE = "100755"
+
+const OWNER_RUNS = 0o100
 
 const GONE_OID = "0000000000000000000000000000000000000000"
 
@@ -91,12 +97,24 @@ function nodeOf(put: ReadonlyMap<string, string | null>): Node {
   return top
 }
 
-function treeFrom(root: string, from: string | null, node: Node): string | null {
+function treeFrom(
+  root: string,
+  from: string | null,
+  node: Node,
+  modes: ReadonlyMap<string, string>,
+  at: string
+): string | null {
   const by = new Map<string, Entry>()
   for (const one of from === null ? [] : entriesOf(root, from)) by.set(one.name, one)
   for (const [name, sub] of node.dirs) {
     const there = by.get(name)
-    const made = treeFrom(root, there !== undefined && there.kind === TREE ? there.oid : null, sub)
+    const made = treeFrom(
+      root,
+      there !== undefined && there.kind === TREE ? there.oid : null,
+      sub,
+      modes,
+      `${at}${name}/`
+    )
     if (made === null) by.delete(name)
     else by.set(name, { mode: TREE_MODE, kind: TREE, oid: made, name })
   }
@@ -106,7 +124,8 @@ function treeFrom(root: string, from: string | null, node: Node): string | null 
       continue
     }
     const there = by.get(name)
-    by.set(name, { mode: there?.mode ?? FILE_MODE, kind: BLOB, oid, name })
+    const mode = modes.get(`${at}${name}`) ?? there?.mode ?? FILE_MODE
+    by.set(name, { mode, kind: BLOB, oid, name })
   }
   const every = [...by.values()]
   return every.length === 0 ? null : madeFrom(root, every)
@@ -118,6 +137,31 @@ function modesIn(root: string, head: string, paths: readonly string[]): Map<stri
   const said = gitTold(root, ["ls-tree", "-r", head, "--", ...paths])
   if (said === null) return held
   for (const one of entriesIn(said)) held.set(one.name, one.mode)
+  return held
+}
+
+function modeOnDisk(root: string, path: string): string | null {
+  let found: ReturnType<typeof lstatSync>
+  try {
+    found = lstatSync(join(root, path))
+  } catch {
+    return null
+  }
+  if (!found.isFile()) return null
+  return (found.mode & OWNER_RUNS) === 0 ? FILE_MODE : EXEC_MODE
+}
+
+function modesFor(
+  root: string,
+  head: string,
+  wrote: readonly string[],
+  took: readonly string[]
+): Map<string, string> {
+  const held = modesIn(root, head, [...wrote, ...took])
+  for (const one of wrote) {
+    const found = modeOnDisk(root, one)
+    if (found !== null) held.set(one, found)
+  }
   return held
 }
 
@@ -191,11 +235,11 @@ export function committed(
   const head = nameOf(root)
   if (head === UNNAMED) throw new Error("HEAD names no commit, so nothing lands onto it")
   const was = gitIn(root, ["rev-parse", `${head}^{tree}`]).trim()
-  const modes = modesIn(root, head, [...wrote, ...took])
+  const modes = modesFor(root, head, wrote, took)
   const put = new Map<string, string | null>()
   for (const one of wrote) put.set(one, blobFor(root, one))
   for (const one of took) put.set(one, null)
-  const tree = treeFrom(root, was, nodeOf(put)) ?? madeFrom(root, [])
+  const tree = treeFrom(root, was, nodeOf(put), modes, "") ?? madeFrom(root, [])
   if (tree === was) return null
   const writing = writer ?? AUTHOR
   const made = gitIn(root, [
