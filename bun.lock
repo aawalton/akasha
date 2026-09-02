@@ -2642,17 +2642,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "temper/game-crafting-capture-addon": {
-      "name": "@temper/game-crafting-capture-addon",
-      "version": "0.1.0",
-      "dependencies": {
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "@akasha/temper-catalog-core": "workspace:*",
-      },
-      "devDependencies": {
-        "typescript": "^5.8.3",
-      },
-    },
     "temper/game-events-addon": {
       "name": "@temper/game-events-addon",
       "version": "0.1.0",
@@ -4658,8 +4647,6 @@
     "@temper/game-completion-capture-addon": ["@temper/game-completion-capture-addon@workspace:temper/game-completion-capture-addon"],
 
     "@temper/game-crafting-addon": ["@temper/game-crafting-addon@workspace:temper/game-crafting-addon"],
-
-    "@temper/game-crafting-capture-addon": ["@temper/game-crafting-capture-addon@workspace:temper/game-crafting-capture-addon"],
 
     "@temper/game-events-addon": ["@temper/game-events-addon@workspace:temper/game-events-addon"],
 
