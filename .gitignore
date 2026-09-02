@@ -27,6 +27,7 @@ dist/
 !lua-compiler/**/*.d.ts
 !patches/**/*.d.ts
 !temper/*-addon/**/*.d.ts
+!akasha/**/*.d.ts
 
 # JavaScript compiled in place beside the TypeScript it came from. Every other
 # package emits to dist/ instead.
