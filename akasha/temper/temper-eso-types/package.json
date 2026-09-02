@@ -48,6 +48,7 @@
     "./eso-interface-extra": "./eso-interface-extra/eso-interface-extra.type-declaration.d.ts",
     "./eso-interface-extra-2": "./eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts",
     "./eso-interface-extra-3": "./eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts",
+    "./eso-interface-extra-4": "./eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts",
     "./eso-inventory": "./eso-inventory/eso-inventory.type-declaration.d.ts",
     "./eso-inventory-containers": "./eso-inventory-containers/eso-inventory-containers.type-declaration.d.ts",
     "./eso-item-browser-port": "./eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts",
