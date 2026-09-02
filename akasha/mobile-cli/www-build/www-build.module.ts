@@ -4,7 +4,7 @@ export const wwwBuild = {
   id: "01a05cee-e560-7a57-a963-fd6e97427f94",
   pageTypeSlug: "module",
   slug: "www-build",
-  definition: "the www bundle built from the tip of origin/main in a detached worktree",
+  definition: "the www bundle built at a named commit in a detached worktree",
   code: "ts",
   invariants: [
     {

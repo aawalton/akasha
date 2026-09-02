@@ -45,6 +45,30 @@ export function resolveRef(repoRoot: string, ref: string): string {
   return said(repoRoot, ["rev-parse", ref]).trim()
 }
 
+export function commitAt(repoRoot: string, ref: string): string | null {
+  try {
+    const found = said(repoRoot, ["rev-parse", "--verify", "--quiet", `${ref}^{commit}`]).trim()
+    return found === "" ? null : found
+  } catch {
+    return null
+  }
+}
+
+export function originReaches(repoRoot: string, commit: string): boolean {
+  try {
+    const holder = said(repoRoot, [
+      "for-each-ref",
+      "--count=1",
+      "--contains",
+      commit,
+      "refs/remotes/origin",
+    ]).trim()
+    return holder !== ""
+  } catch {
+    return false
+  }
+}
+
 export function countCommitsBetween(repoRoot: string, fromSha: string, toRef: string): number {
   if (fromSha === "") {
     return 0

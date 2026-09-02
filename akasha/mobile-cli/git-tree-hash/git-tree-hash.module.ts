@@ -22,6 +22,15 @@ export const gitTreeHash = {
     },
     {
       invariantKind: "departure",
+      statement: "A ref naming no commit is answered as nothing rather than as a throw.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Origin reaches a commit where a remote-tracking ref of origin contains the commit.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The code repo's build inputs are a fixed hand-written list of five paths.",
     },
   ],

@@ -39,7 +39,7 @@ export interface WwwBuildResult {
   readonly wwwDir: string
 }
 
-export async function buildWwwFromMainTip(opts: {
+export async function buildWwwAt(opts: {
   readonly app: MobileApp
   readonly ref?: string
   readonly repoRoot?: string
