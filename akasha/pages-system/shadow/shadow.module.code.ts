@@ -35,12 +35,26 @@ function remembering(pageOf: (path: string) => Value | null): (path: string) => 
   }
 }
 
-function filedIn(reading: Reading, root: string): (path: string) => Value | null {
+function filedOver(
+  reading: Reading,
+  bodyOf: (path: string) => Value | null
+): (path: string) => Value | null {
   let filed: ReadonlyMap<string, Value> | null = null
   return (path) => {
     if (filed === null) filed = everyValue(reading)
-    return filed.get(path) ?? valueAt(path, root)
+    return filed.get(path) ?? bodyOf(path)
   }
+}
+
+function bodyIn(change: Change): (path: string) => Value | null {
+  return (path) => {
+    const body = textOf(change.after(path))
+    return body === null ? null : valueIn(body)
+  }
+}
+
+function bodyOnDisk(root: string): (path: string) => Value | null {
+  return (path) => valueAt(path, root)
 }
 
 function nothingMoved(change: Change): boolean {
@@ -72,8 +86,12 @@ function codeOver(change: Change): (path: string) => string | null {
   }
 }
 
-function shadowOver(reading: Reading, root: string): Shadow {
-  const pageOf = remembering(filedIn(reading, root))
+function shadowOver(
+  reading: Reading,
+  root: string,
+  bodyOf: (path: string) => Value | null
+): Shadow {
+  const pageOf = remembering(filedOver(reading, bodyOf))
   return {
     index: answeringOver(reading, root, pageOf),
     filed: () => [],
@@ -83,21 +101,18 @@ function shadowOver(reading: Reading, root: string): Shadow {
 }
 
 export function shadowAt(root: string): Shadow {
-  return shadowOver(readingIn(root), root)
+  return shadowOver(readingIn(root), root, bodyOnDisk(root))
 }
 
 function castOver(change: Change): Cast {
+  const body = bodyIn(change)
   if (nothingMoved(change)) {
     const reading = readingIn(change.root)
-    return { shadow: shadowOver(reading, change.root), reading }
+    return { shadow: shadowOver(reading, change.root, body), reading }
   }
   const carried = new Set(change.changed)
-  const filed = filedIn(readingIn(change.root), change.root)
-  const pageOf = remembering((path) => {
-    if (!carried.has(path)) return filed(path)
-    const body = textOf(change.after(path))
-    return body === null ? null : valueIn(body)
-  })
+  const filed = filedOver(readingIn(change.root), body)
+  const pageOf = remembering((path) => (carried.has(path) ? body(path) : filed(path)))
   try {
     const moving = change.changed.map((path) => ({
       path,

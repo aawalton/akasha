@@ -18,7 +18,16 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the value index does not name is read from its own body.",
+      statement:
+        "A page the value index does not name is read from the body the change leaves at its path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shadow cast over no change reads a body from the working tree.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page body is read from the working tree while a change is judged.",
     },
     {
       invariantKind: "departure",
@@ -127,10 +136,6 @@ export const shadow = {
       invariantKind: "gap",
       statement:
         "The value index a shadow answers from describes the commit the change is judged against.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A page the shadow reads off disk is the page the change's base commit holds.",
     },
     {
       invariantKind: "gap",

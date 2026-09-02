@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { readingIn } from "@akasha/indexes"
+import { everyValue, readingIn } from "@akasha/indexes"
 import { keepingIn } from "@akasha/indexes/indexing"
 import {
   aType,
@@ -16,6 +16,7 @@ import type { Reading } from "@akasha/indexes/shape"
 import { everythingRead, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
 import { put, there } from "@akasha/testing-system/putting"
 import type { Change } from "../change/change.module.code.ts"
+import { valueAt } from "../pages/value/page-value.module.code.ts"
 import { type Cast, NOT_WORKED_OUT, shadowFor } from "./shadow.module.code.ts"
 
 const scratch = scratchWorld()
@@ -363,4 +364,62 @@ test("an audit carries nothing, so every path holds its own body", () => {
   const held = onDisk(repo)
   const change: Change = { root: repo, changed: [inside("x.ts")], before: held, after: held }
   expect(codeOf(shadowFor(change))(inside("x.ts"))).toBe(inside("x.ts"))
+})
+
+function basedAside(root: string): (path: string) => Uint8Array | null {
+  const twin = scratch.rootFor("akasha-base-")
+  rmSync(twin, { recursive: true, force: true })
+  cpSync(root, twin, { recursive: true })
+  return onDisk(twin)
+}
+
+function changeOnto(
+  root: string,
+  base: (path: string) => Uint8Array | null,
+  changes: readonly FileEdit[]
+): Change {
+  const held = new Map<string, string | null>()
+  for (const one of changes) held.set(one.path, one.body)
+  return {
+    root,
+    changed: [...held.keys()].sort(),
+    before: base,
+    after: (path) => {
+      if (!held.has(path)) return base(path)
+      const body = held.get(path) ?? null
+      return body === null ? null : TEXT.encode(body)
+    },
+  }
+}
+
+const UNFILED_AT = inside("u.domain.ts")
+
+function unfiled(slug: string): Held {
+  return { id: idOf("u"), pageTypeSlug: "domain", slug }
+}
+
+function shadowOnto(repo: string, base: (path: string) => Uint8Array | null): Cast {
+  return shadowFor(changeOnto(repo, base, [aChange("note.relation-property.ts", NOTE)]))
+}
+
+test("a page the value index does not name is read from the base rather than from the working tree", () => {
+  const repo = seeded()
+  put(repo, UNFILED_AT, bodyOf(unfiled("at-the-base")))
+  const base = basedAside(repo)
+  put(repo, UNFILED_AT, bodyOf(unfiled("moved-in-the-tree")))
+  expect(everyValue(readingIn(repo)).has(UNFILED_AT)).toBe(false)
+  expect(valueAt(UNFILED_AT, repo)?.["slug"]).toBe("moved-in-the-tree")
+  const cast = shadowOnto(repo, base)
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.pageOf(UNFILED_AT)?.["slug"]).toBe("at-the-base")
+})
+
+test("a page the working tree holds and no base holds is no page in the shadow", () => {
+  const repo = seeded()
+  const base = basedAside(repo)
+  put(repo, UNFILED_AT, bodyOf(unfiled("in-the-tree-alone")))
+  expect(valueAt(UNFILED_AT, repo)?.["slug"]).toBe("in-the-tree-alone")
+  const cast = shadowOnto(repo, base)
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.pageOf(UNFILED_AT)).toBe(null)
 })
