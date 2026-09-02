@@ -1,12 +1,12 @@
 import "../alchemy-station-declarations/alchemy-station-declarations.module.code.ts"
-import { asLib } from "../alchemy-station-casts/alchemy-station-casts.module.code.ts"
+
 import type {
   AlchemyDescriptor,
   LasTabData,
   Lib,
 } from "../alchemy-station-types/alchemy-station-types.module.code.ts"
 
-export const ALCHEMY_STATION: Lib = asLib({})
+export const ALCHEMY_STATION: Lib = {} as Lib
 
 interface MenuBarButtonData {
   activeTabText: number | string
