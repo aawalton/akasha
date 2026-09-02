@@ -39,7 +39,8 @@
     "./watcher-import-errors": "./watcher-import-errors/watcher-import-errors.module.code.ts",
     "./watcher-import-sales": "./watcher-import-sales/watcher-import-sales.module.code.ts",
     "./watcher-import-companions": "./watcher-import-companions/watcher-import-companions.module.code.ts",
-    "./watcher-run-reporting": "./watcher-run-reporting/watcher-run-reporting.module.code.ts"
+    "./watcher-run-reporting": "./watcher-run-reporting/watcher-run-reporting.module.code.ts",
+    "./watcher-settings-equipment": "./watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
@@ -49,6 +50,7 @@
     "@akasha/supabase-server": "workspace:*",
     "@akasha/temper-addon-generators": "workspace:*",
     "@akasha/temper-build-codec": "workspace:*",
+    "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-capture-datamining-reader": "workspace:*",
     "@akasha/temper-capture-errors": "workspace:*",
     "@akasha/temper-capture-host": "workspace:*",
@@ -63,6 +65,8 @@
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
+    "@akasha/temper-items-rules-core": "workspace:*",
+    "@akasha/temper-items-rules-matcher": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils-fs": "workspace:*",

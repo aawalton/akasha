@@ -44,6 +44,7 @@ export const temperWatcher = {
     "module/watcher-import-sales",
     "module/watcher-import-companions",
     "module/watcher-run-reporting",
+    "module/watcher-settings-equipment",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],
