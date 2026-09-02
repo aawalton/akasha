@@ -1,4 +1,5 @@
 import { z } from "zod"
+import type { OAuthCredential } from "../../../models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 export const OAUTH_TOKEN_URL = "https://platform.claude.com/v1/oauth/token"
 
@@ -9,6 +10,22 @@ export const USAGE_URL = "https://api.anthropic.com/api/oauth/usage"
 export const PROFILE_URL = "https://api.anthropic.com/api/oauth/profile"
 
 export const REFRESH_BUFFER_MS = 5 * 60 * 1000
+
+export const UPKEEP_PERIOD_MS = 60 * 60 * 1000
+
+export const UPKEEP_RENEWAL_MARGIN_MS = 3 * 60 * 60 * 1000
+
+export type RefreshOutcome =
+  | { readonly ok: true; readonly credential: OAuthCredential }
+  | {
+      readonly ok: false
+      readonly terminal: boolean
+      readonly reason: "no-credential" | "http-error" | "exception"
+      readonly status?: number
+      readonly code?: string | null
+      readonly description?: string | null
+      readonly error?: unknown
+    }
 
 export const OAUTH_TOKEN_RESPONSE_SCHEMA = z.looseObject({
   access_token: z.string().min(1),
