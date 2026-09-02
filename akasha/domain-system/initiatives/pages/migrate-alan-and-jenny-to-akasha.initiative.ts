@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "`ask-through` is gone (`cdda094f0e`). `tracking-modules.ts` is clear at `36fcc93bef`: `@akasha/personas-core/green-day-fraction` reads a persona's own figure off her page and refuses a persona stating no figure, so the 10000 bar that corrupted fifty persona-days never came across. Both call sites moved; `readouts/ring/ladder/ladder.ts` now has no importer. `session-pages.ts` remains: it wants a reader over every session page, which akasha lacks. `65ad02a9dc` blocks deleting the markdown tree.",
+        "`ask-through` gone (`cdda094f0e`). `tracking-modules.ts:35` clear at `36fcc93bef`: `@akasha/personas-core/green-day-fraction` reads a persona's own figure and refuses one stating none, so the 10000 bar never came across. LAST REACH `session-pages.ts` is a DELETION, not a design: akasha already reads a day's sessions beside its wake-day page, and `pages/daily-tracking/` is empty. Repoint `active-calories.ts` to `loadActiveCaloriesByDay`. `65ad02a9dc` blocks deleting the tree.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
