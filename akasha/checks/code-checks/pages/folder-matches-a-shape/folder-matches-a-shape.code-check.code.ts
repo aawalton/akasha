@@ -1,5 +1,4 @@
-import { createRequire } from "node:module"
-import { basename, join } from "node:path"
+import { basename } from "node:path"
 import { NAMING_NONE, type Naming } from "@akasha/code-system/code-specifier"
 import type { Answering } from "@akasha/indexes/answering"
 import { claimsOf, type SidecarsBy } from "@akasha/indexes/entries"
@@ -7,8 +6,7 @@ import { edgesIn } from "@akasha/indexes/import"
 import { reachingIn } from "@akasha/indexes/package-reaching"
 import type { Known } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
-import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { besideAt, type Held, heldIn, partedIn } from "@akasha/pages-system/page-file-name"
+import { type Held, heldIn, partedIn } from "@akasha/pages-system/page-file-name"
 import { textAt, textsAt } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
@@ -19,19 +17,16 @@ import {
   textNamed,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Declaring, Judging, Standing } from "./folder-shapes/folder-shape.page-type.ts"
-
-const SHAPE = "folder-shape"
-
-const ENABLED = "enabled"
-
-const CODE = "code"
+import type { Declaring, Standing } from "./folder-shapes/folder-shape.page-type.ts"
+import { shapesIn } from "./modules/shape-loading/shape-loading.module.code.ts"
 
 const TS = "ts"
 
 const TS_ENDING = ".ts"
 
 const PAGE_TYPE = "page-type"
+
+const PACKAGE = "workspace-package"
 
 const RECORD_PROPERTY = "record-property"
 
@@ -44,13 +39,6 @@ const PAGES = "pages"
 const PLURAL_SLUG = "pluralSlug"
 
 const PART_SLUGS = "partSlugs"
-
-const loadFrom = createRequire(import.meta.url)
-
-export type Shape = {
-  readonly slug: string
-  readonly judge: Judging
-}
 
 export function folderOf(path: string): string {
   const cut = path.lastIndexOf("/")
@@ -85,61 +73,6 @@ export function edgesOf(
 ): ReadonlySet<string> {
   if (bytes === null || !textNamed(path)) return new Set<string>()
   return new Set<string>(edgesIn(bodyOf({ root, path, bytes }), path, naming))
-}
-
-export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
-  const found: Shape[] = []
-  for (const one of shadow.index.everyOfType(SHAPE)) {
-    const value = shadow.pageOf(one.path)
-    if (value === null) {
-      throw new Error(
-        `${one.path} is a folder shape, and its page reads as nothing, so whether it judges folders cannot be read`
-      )
-    }
-    const enabled = value[ENABLED]
-    if (typeof enabled !== "boolean") {
-      throw new Error(`${one.path} is a folder shape, and its page says no \`${ENABLED}\``)
-    }
-    if (!enabled) continue
-    const said = partedIn(one.path)
-    if (said === null || said.sections.length > 0) {
-      throw new Error(`${one.path} is a folder shape, and its name says no slug`)
-    }
-    const slug = said.slug
-    const beside = besideAt(one.path, CODE, TS)
-    if (beside === null) {
-      throw new Error(
-        `${one.path} is a folder shape, and no code file can stand beside a name like it`
-      )
-    }
-    const codePath = shadow.codeAt(beside)
-    if (codePath === null) {
-      throw new Error(
-        `${one.path} is a folder shape, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`
-      )
-    }
-    let mod: Record<string, unknown>
-    try {
-      mod = loadFrom(join(root, codePath)) as Record<string, unknown>
-    } catch (thrown) {
-      throw new Error(
-        `${one.path} is a folder shape, and ${codePath} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
-      )
-    }
-    const named = mod[exportedAs(slug)]
-    if (typeof named !== "function") {
-      throw new Error(
-        `${one.path} is a folder shape, and ${beside} answers to nothing that can judge`
-      )
-    }
-    found.push({ slug, judge: named as Judging })
-  }
-  if (found.length === 0) {
-    throw new Error(
-      "no folder shape judges folders, so every folder would match nothing and a clean answer would mean nothing"
-    )
-  }
-  return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
 export function listedFiles(index: Answering, change: Change): readonly string[] {
@@ -302,9 +235,14 @@ export function strippedOf(named: string, above: readonly string[]): string {
   return named
 }
 
-export function namingFolderOf(folder: string): string {
+export function heldFolder(at: string, holds: Holds): boolean {
+  const named = basename(at)
+  return HELD_FOLDERS.has(named) && !holds(at).names.includes(named)
+}
+
+export function namingFolderOf(folder: string, holds: Holds): string {
   let at = folderOf(folder)
-  while (at !== "" && HELD_FOLDERS.has(basename(at))) at = folderOf(at)
+  while (at !== "" && heldFolder(at, holds)) at = folderOf(at)
   return at
 }
 
@@ -321,23 +259,49 @@ export type Holding = {
   readonly declared: ReadonlySet<string>
 }
 
+export type Holds = (folder: string) => Holding
+
 const NOTHING: Holding = { names: [], holds: null, declared: new Set<string>() }
+
+function pluralOf(index: Answering, page: Held): string | null {
+  if (page.pageTypeSlug !== PAGE_TYPE || page.slug === null) return null
+  const value = index.pageAt(PAGE_TYPE, page.slug)
+  return value === null ? null : textAt(value, PLURAL_SLUG)
+}
+
+export function pairedIn(index: Answering, pages: readonly Held[]): readonly Held[] {
+  const [one, two] = pages
+  if (one === undefined || pages.length > 2) return []
+  if (two === undefined) return [one]
+  if (two.pageTypeSlug === PACKAGE && two.slug === pluralOf(index, one)) return [one, two]
+  if (one.pageTypeSlug === PACKAGE && one.slug === pluralOf(index, two)) return [two, one]
+  return []
+}
+
+function declaredBy(index: Answering, page: Held | undefined): readonly string[] {
+  if (page === undefined || page.slug === null || page.pageTypeSlug === null) return []
+  const value = index.pageAt(page.pageTypeSlug, page.slug)
+  return value === null ? [] : (textsAt(value, PART_SLUGS) ?? [])
+}
 
 export function holdingOver(
   index: Answering,
   grouped: Grouped,
   pageTypes: ReadonlySet<string>,
   fileProperties: ReadonlySet<string>
-): (folder: string) => Holding {
+): Holds {
   const held = new Map<string, Holding>()
   return (folder) => {
     const found = held.get(folder)
     if (found !== undefined) return found
-    const pages = grouped
-      .at(folder)
-      .map((one) => heldIn(one, pageTypes, fileProperties))
-      .filter((one) => one.kind === "page")
-    const page = pages.length === 1 ? pages[0] : undefined
+    const paired = pairedIn(
+      index,
+      grouped
+        .at(folder)
+        .map((one) => heldIn(one, pageTypes, fileProperties))
+        .filter((one) => one.kind === "page")
+    )
+    const page = paired[0]
     let made = NOTHING
     if (page !== undefined && page.slug !== null && page.pageTypeSlug !== null) {
       const value = index.pageAt(page.pageTypeSlug, page.slug)
@@ -345,7 +309,10 @@ export function holdingOver(
       made = {
         names: plural === null ? [page.slug] : [page.slug, plural],
         holds: `${page.pageTypeSlug}/${page.slug}`,
-        declared: new Set<string>(value === null ? [] : (textsAt(value, PART_SLUGS) ?? [])),
+        declared: new Set<string>([
+          ...(value === null ? [] : (textsAt(value, PART_SLUGS) ?? [])),
+          ...declaredBy(index, paired[1]),
+        ]),
       }
     }
     held.set(folder, made)
@@ -353,12 +320,12 @@ export function holdingOver(
   }
 }
 
-export function namingOver(holds: (folder: string) => Holding): (folder: string) => string | null {
+export function namingOver(holds: Holds): (folder: string) => string | null {
   return (folder) => {
     const names = holds(folder).names
     const wants = names[1] ?? names[0]
     if (wants === undefined) return null
-    return strippedOf(wants, holds(namingFolderOf(folder)).names)
+    return strippedOf(wants, holds(namingFolderOf(folder, holds)).names)
   }
 }
 
@@ -403,9 +370,9 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(change, naming)].sort()) {
     const named = basename(folder)
-    const opening = HELD_FOLDERS.has(named)
+    const opening = heldFolder(folder, holds)
       ? null
-      : openingWith(named, holds(namingFolderOf(folder)).names)
+      : openingWith(named, holds(namingFolderOf(folder, holds)).names)
     if (opening !== null) {
       found.push({
         path: folder,

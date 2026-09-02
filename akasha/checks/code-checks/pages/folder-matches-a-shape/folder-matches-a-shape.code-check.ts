@@ -5,7 +5,7 @@ export const folderMatchesAShape = {
   pageTypeSlug: "code-check",
   slug: "folder-matches-a-shape",
   definition: "the check refusing a folder matching none of the folder shapes",
-  partSlugs: ["page-type/folder-shape"],
+  partSlugs: ["module/shape-loading", "page-type/folder-shape"],
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -53,15 +53,28 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder named `modules` is a part of the page above that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder named `pages` is a part of the page above that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder named `properties` is a part of the page above that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder named by the one page in that folder is that page's own folder rather than a part.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a part is looked through when the page above a folder is looked for.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The refusal carries what each shape said rather than ranking them.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The shapes are found in the index.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A shape judging no folder is never loaded.",
     },
     {
       invariantKind: "departure",
@@ -110,16 +123,6 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement: "Which files import a path is read from the index as the change leaves the index.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A shape's code is loaded from the body on disk rather than from where the change leaves the code.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A change writing a shape's code anew is refused rather than judged by the body before the change.",
     },
     {
       invariantKind: "absence",

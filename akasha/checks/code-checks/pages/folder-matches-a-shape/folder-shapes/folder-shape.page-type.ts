@@ -69,6 +69,10 @@ export const folderShape = {
       statement: "A folder may match more than one shape.",
     },
     {
+      invariantKind: "departure",
+      statement: "A shape reserves no term against a shape matching that same term.",
+    },
+    {
       invariantKind: "gap",
       statement: "No shape matches an empty folder.",
     },
@@ -139,7 +143,16 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding more than one page answers with nothing too.",
+      statement:
+        "A folder holding a page type beside its workspace package answers for the page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That workspace package is slugged the page type's plural slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding more than one page otherwise answers with nothing.",
     },
     {
       invariantKind: "departure",
@@ -148,6 +161,10 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement: "A folder answers with the parts the page in that folder declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder answers with the parts that workspace package declares too.",
     },
     {
       invariantKind: "departure",

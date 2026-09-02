@@ -12,7 +12,10 @@ import {
   folderMatchesAShape,
   folderOf,
   foldersTouchedBy,
+  type Holds,
+  heldFolder,
   namesFiling,
+  namingFolderOf,
   pageNameOf,
   reachedFolders,
 } from "./folder-matches-a-shape.code-check.code.ts"
@@ -35,6 +38,14 @@ function change(
     return said === undefined || said === null ? null : encoder.encode(said)
   }
   return { root: ROOT, changed, after: bodied(now), before: bodied(before) }
+}
+
+function holding(named: Readonly<Record<string, readonly string[]>>): Holds {
+  return (folder) => ({
+    names: named[folder] ?? [],
+    holds: null,
+    declared: new Set<string>(),
+  })
 }
 
 test("a folder is every part of a path but its last", () => {
@@ -103,6 +114,37 @@ test("a path the change takes away still carries the folders above it", () => {
     change(["akasha/a/one.ts"], { "akasha/a/one.ts": null }, { "akasha/a/one.ts": "" })
   )
   expect(said.has("akasha/a")).toBe(true)
+})
+
+test("a folder named `pages` the page in it names is that page's folder rather than a part", () => {
+  const holds = holding({ "akasha/pages-system/pages": ["page", "pages"] })
+  expect(heldFolder("akasha/pages-system/pages", holds)).toBe(false)
+  expect(namingFolderOf("akasha/pages-system/pages/address", holds)).toBe(
+    "akasha/pages-system/pages"
+  )
+})
+
+test("a folder named `pages` the page in it does not name is a part, and is looked through", () => {
+  const holds = holding({ "akasha/foo/pages": ["bar"] })
+  expect(heldFolder("akasha/foo/pages", holds)).toBe(true)
+  expect(namingFolderOf("akasha/foo/pages/deep", holds)).toBe("akasha/foo")
+})
+
+test("a folder named `pages` holding no page at all is a part", () => {
+  const holds = holding({})
+  expect(heldFolder("akasha/foo/pages", holds)).toBe(true)
+  expect(namingFolderOf("akasha/foo/pages/deep", holds)).toBe("akasha/foo")
+})
+
+test("every part between a folder and the page above it is looked through", () => {
+  const holds = holding({ "akasha/foo": ["foo"] })
+  expect(namingFolderOf("akasha/foo/modules/pages/deep", holds)).toBe("akasha/foo")
+})
+
+test("a folder named for no part is never looked through", () => {
+  const holds = holding({ "akasha/foo": ["foo"] })
+  expect(heldFolder("akasha/foo/other", holds)).toBe(false)
+  expect(namingFolderOf("akasha/foo/other/deep", holds)).toBe("akasha/foo/other")
 })
 
 function idFor(n: number): string {
