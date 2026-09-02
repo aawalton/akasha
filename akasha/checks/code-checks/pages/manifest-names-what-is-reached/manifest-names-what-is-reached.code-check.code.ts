@@ -11,6 +11,7 @@ import {
   overEachFile,
   styleNamed,
   textIn,
+  textNamed,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
@@ -23,8 +24,6 @@ import {
 const AT = "@"
 
 const PARTED_BY = "/"
-
-const TS_ENDING = ".ts"
 
 const NODE = "node:"
 
@@ -339,7 +338,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     if (held !== undefined) {
       return unreachedIn(held, byName, wholeOf(held), thereIn(change, held.folder), config)
     }
-    if (!given.path.endsWith(TS_ENDING)) return []
+    if (!textNamed(given.path)) return []
     const owner = ownerOf(folders, given.path)
     if (owner === null) return []
     const under = byFolder.get(owner)
