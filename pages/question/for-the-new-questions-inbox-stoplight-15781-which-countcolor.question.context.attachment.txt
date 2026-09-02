@@ -1,1 +1,0 @@
-#15781 adds a 5th circle to your inbox stoplight (email/tasks/temper-tasks/texts → questions), showing the count of all open ask-alan questions, in both the VSCode status bar and the iOS widget. Everything's defined and ready; the ONLY open decision is the count→color ladder (two axes: what zero reads as, and how fast it escalates).
