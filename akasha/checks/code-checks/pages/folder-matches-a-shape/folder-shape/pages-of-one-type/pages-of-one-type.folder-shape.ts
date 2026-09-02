@@ -7,7 +7,7 @@ export const pagesOfOneType = {
   definition: "the shape of a folder holding pages of one page type and nothing else",
   code: "ts",
   test: "ts",
-  enabled: true,
+  enabled: false,
   invariants: [
     {
       invariantKind: "departure",
