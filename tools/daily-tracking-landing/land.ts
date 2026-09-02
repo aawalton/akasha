@@ -430,6 +430,33 @@ async function preconditions(at: Told): Promise<{
     }
   }
 
+  /**
+   * The ungated half touches nothing under `akasha/`, which is asked rather than assumed.
+   *
+   * `--from` and `--funnel` are flags, so the claim that step 8 commits only plain files rests on
+   * whoever typed the command. If either ever named an akasha path, step 8's commit would move HEAD
+   * under `akasha/` while the akasha index still described the commit before — and the index stamp
+   * is compared over the `akasha` tree alone, so nothing else would notice. Every patch-phase check
+   * that reaches for importers then reports as having thrown, and `akasha write` refuses at step 9
+   * for a reason step 6 could not have predicted. That is the shape this landing is built to avoid:
+   * a refusal after the point of no return rather than before it.
+   *
+   * It is also what keeps the undo ungated, since a restore of an akasha path would need the verb
+   * that can refuse.
+   */
+  for (const [flag, where] of [
+    ["--from", at.from],
+    ["--funnel", at.funnel],
+  ] as const) {
+    if (isAkashaPath(AKASHA_DIR, where)) {
+      said.push(
+        `${flag} '${where}' is under akasha/, and the half of this act that goes first is the half ` +
+          "akasha's verbs do not write. Committing an akasha path there would leave the akasha " +
+          "index behind HEAD, and the step that cannot be taken back would be the one that refuses."
+      )
+    }
+  }
+
   const open = await sessionOpen()
   if (open !== null && "why" in open) {
     say(`  NOTE  whether a session is open could not be read :: ${open.why}`)
@@ -696,9 +723,21 @@ async function main(): Promise<never> {
     const asked = Bun.spawnSync([out.command, "write", ...out.args, "--dry-run"], { cwd: HERE })
     if (asked.exitCode !== 0) {
       const why = new TextDecoder().decode(asked.stderr) + new TextDecoder().decode(asked.stdout)
+      /**
+       * Said whole, because this is a list of things to go and do and half of it is not a list.
+       *
+       * It was cut to the first 40 lines, silently. The read gate spends about eight lines on each
+       * reading it wants, so forty lines is five of them and the rest went nowhere — the run says
+       * what to read, the reading is done, the run refuses again naming the next five, and nobody
+       * can tell whether the list is shortening. It cost four runs to notice, and the reads it asks
+       * for are cheapest collected in one pass.
+       *
+       * The fault count beside step 4's truncation is what makes that one honest. There is no count
+       * to give here that is not the whole thing, so the whole thing is given.
+       */
       refuse("write", [
         "`akasha write --dry-run` refuses this landing, so the landing would refuse mid-act",
-        ...why.trim().split("\n").slice(0, 40).map((one) => `  ${one}`),
+        ...why.trim().split("\n").map((one) => `  ${one}`),
       ])
     }
     say("  asked first    `akasha write --dry-run` holds")
