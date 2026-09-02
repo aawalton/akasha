@@ -1,8 +1,8 @@
 "use client"
 
-import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
-import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import type { ControlledRule } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
+import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type * as React from "react"
 import { CharacterRulesPanel } from "../inventory-character-rules-panel"
 import { CompanionRulesPanel } from "../inventory-companion-rules-panel"
