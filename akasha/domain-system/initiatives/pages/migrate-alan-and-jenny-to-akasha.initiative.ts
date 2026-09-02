@@ -11,10 +11,12 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The web pods are never killed for failing to answer.",
       workingMemory:
-        "Deployed at `6681df985c` and serving; pod `web-5fb4c8f76c-l9ckh` carries no local branch. The baseline to beat is two kills in 52 minutes, kubelet's own RESTARTS 2 agreeing with a sampler. That same sampler runs against the new pod from 22:49. Were it to die again the diagnosis was wrong rather than the fix partial, since `@shared/pages-query` reaches nothing above itself and Alan's app names neither engine.",
+        "Sampler ran 22:49 to 23:43: 1500 samples, no stall at any one. The pod was replaced mid-run though, so `web-7f8c55ccd4-gshb4` is 27m old carrying RESTARTS 0 rather than 54m. Baseline was two kills, 18m02s and 33m34s into a pod's life. Both pods cleared 18m02s; neither has been watched past 33m34s. The fix is holding and the intent is not yet proven. One pod reaching 60m at RESTARTS 0 settles it.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
+      workingMemory:
+        "Alan's half is live and proven as far as the pod, deployed at `d0f4d24621`: the reading is taken on the workstation every 5m, relayed and accepted, and the pod's own serving path answers 200 carrying one of the six tiers the shipped Swift decodes. The phone itself is unseen, no device credential being held here. The tier is resolved server-side, the call Alan took. Jenny's half is one `runs` line and her own route away and was not attempted.",
     },
     {
       statement: "Alan's and Jenny's surplus iOS widgets work.",
