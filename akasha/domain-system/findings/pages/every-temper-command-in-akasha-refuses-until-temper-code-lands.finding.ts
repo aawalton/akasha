@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const everyTemperCommandInAkashaRefusesUntilTemperCodeLands = {
+  id: "01a0603f-86cc-7393-9872-b53161fb0578",
+  pageTypeSlug: "finding",
+  slug: "every-temper-command-in-akasha-refuses-until-temper-code-lands",
+  domainSlug: "domain/temper",
+  claim:
+    "All 66 temper commands were recreated as akasha command pages, and every one of them refuses. What each command actually does lives in the 25 `@temper/*` workspace packages and the ~30 `tools/lib/temper-*` modules it imports, and the `imports-inside` check bars an akasha file from importing anything outside `akasha/`. So the whole declarative surface came across and none of the behaviour did. The old `ops temper ...` commands were left in place and still work.",
+  evidence:
+    "The 66 files under `tools/commands/temper/` import 25 distinct `@temper/*` specifiers and about 30 `tools/lib/*` modules. The heaviest are `@temper/game-items-rules-core` (13 files), `@temper/shared-build-deploy-addons-resolve` (10), `@temper/game-items-core` (8), `@temper/shared-build-deploy-community-addons` (6) and `@temper/shared-saved-variables` (4). On the `tools/lib` side, `temper-inventory.ts` is imported by 27 of the 66 and `temper-inventory-paths.ts` by 15.\n\n`akasha/checks/code-checks/pages/imports-inside/imports-inside.code-check.ts` refuses an akasha file importing a file outside the akasha folder, and says a specifier naming a package lands where the manifests name that package. The root `package.json` lists `temper/*` and `tools/lib` as workspaces outside `akasha/`, so every one of those specifiers lands outside and is refused. There is no way to reach them from `akasha/temper/temper-commands/`.\n\nEach recreated command therefore answers with a refusal naming the temper code it needs, at fault code 2. Five refusals cover the 66: the addons under `temper/addons` (11 commands), the inventory rules code (22), the reader of the addon's saved variables (15), the catalog packages (3), and one each for the community addon catalog, the errors capture, the quests trace, the item link parser, the upstream library ports (2), the workstation watcher (2), the automation settings (2) and the holdings snapshot pages.\n\nThe intent this sits under is `ember-migrate-temper-to-akasha` intent 2. Other agents on the same initiative are bringing `temper/` (153 packages) and `tools/lib` in. Each command's code can be written against the akasha module once its dependency lands, without touching the page.",
+} as const satisfies Finding
