@@ -36,6 +36,14 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
+      statement: "This file's own path is asked of whichever runtime is running it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root is read when a module is first loaded rather than at import.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A module answering to less than a gate is built from is refused by name.",
     },
     {
