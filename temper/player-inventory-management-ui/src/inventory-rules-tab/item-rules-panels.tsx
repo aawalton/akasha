@@ -1,8 +1,8 @@
 "use client"
 
-import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
-import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
-import type { CategoryRule, ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
+import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import type { CategoryRule, ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type * as React from "react"
 import { BuyRulesPanel } from "../inventory-buy-rules-panel"
 import { CategoryRulesPanel } from "../inventory-category-rules-panel"
