@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aPageKindCarryingNoFileOfItsOwnStillHoldsRows = {
+  id: "01a0636b-ea30-7adc-871e-3b747b1486d5",
+  pageTypeSlug: "finding",
+  slug: "a-page-kind-carrying-no-file-of-its-own-still-holds-rows",
+  domainSlug: "domain/story-engine",
+  claim:
+    "A page kind declaring `files: none` still holds data. Its rows are entries in a JSONL sidecar beside a parent page, addressed `<file>#<row>`, so counting folders under `pages/` or filenames spelling the slug answers 0 for a kind holding hundreds. Seven `game` kinds answer 0 that way and 5, 13, 38, 74, 30, 4 and 139 when the store is asked. `the-tower` carries 1 climb, 5 floors, 5 characters and 33 turns, all tracked since 27 August.",
+  evidence:
+    "Filed to replace a finding of mine that this refutes, and landed in the same commit that removes it. I claimed the tower rested on three kinds no file carries. I had measured it by looking for `pages/<slug>/` folders and for filenames spelling `.<slug>.`, and both answer 0 for every `files: none` kind. The instrument was blind to how these rows are kept, and a true zero and a blind zero read the same.\n\n`pages/game/personas/the-tower/` holds `the-tower.game.tower-sessions.jsonl` at 91,710 bytes and `the-tower.game.tower-floors.jsonl` at 90,688, both landed by `5364639a1e` on 27 August. Counting lines answers 1 session and 5 floors, with `characters` 5, `turns` 33, `states` 1, `rolls` 3 and `entities` 7. The Tower is a game Alan played and every row of it is on disk.\n\n`ops page query --name game-turn-all` answers 139, with rows addressed `akasha:pages/game/personas/date-night-free-play/date-night-free-play.game.turns.jsonl#0`, where `#0` is the row. Seven kinds answered: game-character 5, game-design-entry 13, game-entity 38, game-lore 74, game-roll 30, game-state 4, game-turn 139. Not one is 0.\n\nA control was run before believing any of it, since taking a negative from a store that answers nothing would have been the same error twice: `game-all` answers 8.\n\n`files: none` says a kind has no file of its own. It does not say nothing carries it.\n\nOne gap survives the refutation. `ops tower state` fails with the store replying 400, `tower-session` names no page type the index holds. The rows are on disk and the index does not carry their kind, so the one command that reads a climb cannot read it.",
+} as const satisfies Finding
