@@ -196,5 +196,10 @@ export const claudeAccountCredentialPush = {
       invariantKind: "gap",
       statement: "Every mark a push writes reaches the account's page a second time.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "Narrowing before the write is proven at a refused mark rather than at one that lands.",
+    },
   ],
 } as const satisfies Module

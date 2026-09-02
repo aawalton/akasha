@@ -233,6 +233,11 @@ test("the file the rotated pair is held in is narrowed before that pair is writt
   expect(whyOf(said)).toContain("was not held beside the page either")
   expect("rescuedCredential" in besideHeld(root, "aine")).toBe(false)
   expect(modeOf(root, besideAt("aine"))).toBe("600")
+  expect(whyOf(pushedIn(root, credentialOf("aow"), sops.doors))).toContain(
+    "was not held beside the page either"
+  )
+  expect(besideHeld(root, "aow")).toEqual({})
+  expect(modeOf(root, besideAt("aow"))).toBe("600")
 })
 
 test("a file beside a page written for the first time is narrowed too", () => {
