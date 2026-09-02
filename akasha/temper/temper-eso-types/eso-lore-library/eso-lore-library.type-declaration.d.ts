@@ -48,14 +48,16 @@ interface KeybindButtonGroupDescriptor {
   visible?: (this: void) => boolean
 }
 interface KeybindStripObject {
-  AddKeybindButtonGroup: (
+  AddKeybindButtonGroup: ((
     this: KeybindStripObject,
-    descriptor: KeybindButtonGroupDescriptor[]
-  ) => void
-  RemoveKeybindButtonGroup: (
+    descriptor: DlwcKeybindButtonGroup
+  ) => void) &
+    ((this: KeybindStripObject, descriptor: KeybindButtonGroupDescriptor[]) => void)
+  RemoveKeybindButtonGroup: ((
     this: KeybindStripObject,
-    descriptor: KeybindButtonGroupDescriptor[]
-  ) => void
+    descriptor: DlwcKeybindButtonGroup
+  ) => void) &
+    ((this: KeybindStripObject, descriptor: KeybindButtonGroupDescriptor[]) => void)
   UpdateKeybindButtonGroup: (
     this: KeybindStripObject,
     descriptor: KeybindButtonGroupDescriptor[]

@@ -27,12 +27,18 @@ interface LscCommandClass {
 }
 
 interface LibSlashCommander {
-  Register: (
+  Register: ((
     this: LibSlashCommander,
     alias: string,
     callback: (this: void) => void,
     description: string
-  ) => LscCommand
+  ) => LscCommand) &
+    ((
+      this: LibSlashCommander,
+      slash: string,
+      callback: (this: void, arg: string) => void,
+      description: string
+    ) => LscRegisteredCommand)
   GenerateLabel: (this: LibSlashCommander, alias: string, description: string) => string
   AutoCompleteProvider: LscAutoCompleteProviderClass
   Command: LscCommandClass

@@ -2,7 +2,6 @@ declare function GetUIMousePosition(): LuaMultiReturn<[x: number, y: number]>
 
 interface Control {
   GetScreenRect: () => LuaMultiReturn<[left: number, top: number, right: number, bottom: number]>
-  SetDimensionConstraints: (minX: number, minY: number, maxX: number, maxY: number) => void
 }
 
 declare const AnchorMenu: (control: Control, offsetY?: number) => void

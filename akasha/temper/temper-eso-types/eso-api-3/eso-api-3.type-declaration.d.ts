@@ -137,8 +137,16 @@ interface DlwcKeybindButtonGroup {
   [index: number]: DlwcKeybindButtonEntry
 }
 interface KeybindStripObject {
-  AddKeybindButtonGroup: (this: KeybindStripObject, descriptor: DlwcKeybindButtonGroup) => void
-  RemoveKeybindButtonGroup: (this: KeybindStripObject, descriptor: DlwcKeybindButtonGroup) => void
+  AddKeybindButtonGroup: ((
+    this: KeybindStripObject,
+    descriptor: DlwcKeybindButtonGroup
+  ) => void) &
+    ((this: KeybindStripObject, descriptor: KeybindButtonGroupDescriptor[]) => void)
+  RemoveKeybindButtonGroup: ((
+    this: KeybindStripObject,
+    descriptor: DlwcKeybindButtonGroup
+  ) => void) &
+    ((this: KeybindStripObject, descriptor: KeybindButtonGroupDescriptor[]) => void)
 }
 
 interface ZoAlphaAnimation {

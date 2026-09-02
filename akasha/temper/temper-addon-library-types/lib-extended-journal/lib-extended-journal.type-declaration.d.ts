@@ -40,10 +40,6 @@ declare const LibExtendedJournal: LibExtendedJournalApi
 interface LibCodesCommonCodeApi {
   RegisterString: (this: void, name: string, value: string) => void
   GetZoneName: (this: void, zoneId: number) => string
-  GetLibAddonMenu: (this: void) => LibAddonMenu | undefined
-  FormatVersion: (this: void, version: number) => string
-  GetAddOnVersion: (this: void, addOnName: string) => number
-  GetServerName: (this: void) => string
   MonitorZoneChanges: (this: void, name: string, callback: (this: void) => void) => void
   GetZoneId: (this: void) => number
   GetServerAndAccountList?: (this: void, includeCurrent: boolean) => unknown

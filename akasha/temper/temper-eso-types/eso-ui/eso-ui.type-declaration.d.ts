@@ -27,7 +27,11 @@ interface Control {
   GetNumChildren: () => number
   GetNamedChild: <T extends Control = Control>(name: string) => T | undefined
   SetMouseEnabled: (enabled: boolean) => void
-  SetHandler: (event: string, handler: ((...args: unknown[]) => void) | undefined) => void
+  SetHandler: (
+    event: string,
+    handler: ((...args: unknown[]) => void) | undefined,
+    name?: string
+  ) => void
   GetHandler: (event: string) => ((...args: unknown[]) => void) | undefined
   GetLeft: () => number
   GetRight: () => number
@@ -81,19 +85,6 @@ interface TextureControl extends Control {
   SetBlendMode: (blendMode: number) => void
 }
 
-interface EditControl extends Control {
-  GetText: () => string
-  SetText: (text: string) => void
-  SetDefaultText: (text: string) => void
-  SetDefaultTextColor: (r: number, g: number, b: number, a?: number) => void
-  SetFont: (font: string) => void
-  SetColor: (r: number, g: number, b: number, a?: number) => void
-  SetMaxInputChars: (maxChars: number) => void
-  TakeFocus: () => void
-  LoseFocus: () => void
-  Clear: () => void
-}
-
 interface ButtonControl extends Control {
   SetText: (text: string) => void
   SetEnabled: (enabled: boolean) => void
@@ -113,19 +104,6 @@ interface TopLevelWindow extends Control {
   StartMoving: () => void
   StopMovingOrResizing: () => void
   BringWindowToTop: () => void
-}
-
-interface BackdropControl extends Control {
-  SetCenterTexture: (textureFile: string) => void
-  SetCenterColor: (r: number, g: number, b: number, a?: number) => void
-  SetEdgeColor: (r: number, g: number, b: number, a?: number) => void
-  SetEdgeTexture: (
-    texture: string | undefined,
-    width: number,
-    height: number,
-    padding: number
-  ) => void
-  SetAnchorFill: (control?: Control) => void
 }
 
 type CtControl = number & { readonly __ct: "CT_CONTROL" }

@@ -19,7 +19,9 @@ interface ZoColorDef {
 }
 
 interface ZoColorDefClass {
-  New: (colorOrHex: string | ZoColorDef) => ZoColorDef
+  New: ((r: number, g: number, b: number, a?: number) => ZoColorDef) &
+    ((hex: string) => ZoColorDef) &
+    ((colorOrHex: string | ZoColorDef) => ZoColorDef)
 }
 
 type ZoColor = ZoColorDef
@@ -42,16 +44,6 @@ interface Control {
   GetCenter: () => LuaMultiReturn<[x: number, y: number]>
   SetHeight: (height: number) => void
   GetResizeToFitDescendents: () => boolean
-  SetHandler: (
-    event: string,
-    handler: ((...args: unknown[]) => void) | undefined,
-    name?: string
-  ) => void
-}
-
-interface ButtonControl {
-  GetState: () => number
-  SetState: (state: number) => void
 }
 
 interface TextureControl {
@@ -60,10 +52,6 @@ interface TextureControl {
 
 interface EditControl {
   SelectAll: () => void
-}
-
-interface TextBufferControl {
-  AddMessage: (text: string, r?: number, g?: number, b?: number) => void
 }
 
 declare function zo_min(...values: number[]): number

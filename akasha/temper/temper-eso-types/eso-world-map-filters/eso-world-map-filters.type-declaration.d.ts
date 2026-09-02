@@ -52,7 +52,7 @@ declare const ZO_WorldMapFiltersImperialPvPCheckBox1: Control | undefined
 declare const ZO_WorldMapFiltersImperialPvPComboBox1: Control | undefined
 
 interface MapPin {
-  GetPinTypeAndTag: (this: MapPin) => LuaMultiReturn<[number, PinTag]>
+  GetPinTypeAndTag: () => LuaMultiReturn<[pinTypeId: number, pinTag: unknown]>
 }
 
 declare const SI_GAMEPAD_PLAYER_PROGERSS_BAR_UNKNOWN_ZONE: number

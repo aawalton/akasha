@@ -11,10 +11,16 @@ interface LscRegisteredCommand {
 }
 
 interface LibSlashCommander {
-  Register: (
+  Register: ((
     this: LibSlashCommander,
-    slash: string,
-    callback: (this: void, arg: string) => void,
+    alias: string,
+    callback: (this: void) => void,
     description: string
-  ) => LscRegisteredCommand
+  ) => LscCommand) &
+    ((
+      this: LibSlashCommander,
+      slash: string,
+      callback: (this: void, arg: string) => void,
+      description: string
+    ) => LscRegisteredCommand)
 }

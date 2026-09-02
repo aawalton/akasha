@@ -10,7 +10,9 @@ interface ZoColorDef {
   UnpackRGBA: () => LuaMultiReturn<[red: number, green: number, blue: number, alpha: number]>
 }
 interface ZoColorDefClass {
-  New: ((r: number, g: number, b: number, a?: number) => ZoColorDef) & ((hex: string) => ZoColorDef)
+  New: ((r: number, g: number, b: number, a?: number) => ZoColorDef) &
+    ((hex: string) => ZoColorDef) &
+    ((colorOrHex: string | ZoColorDef) => ZoColorDef)
 }
 declare const ZO_ColorDef: ZoColorDefClass
 
