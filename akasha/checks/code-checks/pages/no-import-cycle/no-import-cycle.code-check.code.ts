@@ -2,12 +2,15 @@ import { skimmedAs } from "@akasha/code-system/code-source"
 import { landingOf } from "@akasha/code-system/code-specifier"
 import type { Change } from "@akasha/pages-system/change"
 import ts from "typescript"
-import { input, TEXTS, textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
+import {
+  input,
+  TEXTS,
+  textIn,
+  textNamed,
+} from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
-
-const ENDING = ".ts"
 
 const SHOWN = 3
 
@@ -47,9 +50,7 @@ export function reachedIn(at: string, text: string): readonly string[] {
 }
 
 export function reachingIn(change: Change): ReadonlyMap<string, readonly string[]> {
-  const held = new Set(
-    change.changed.filter((one) => one.startsWith(INSIDE) && one.endsWith(ENDING))
-  )
+  const held = new Set(change.changed.filter((one) => one.startsWith(INSIDE) && textNamed(one)))
   const found = new Map<string, readonly string[]>()
   for (const path of [...held].sort()) {
     const text = textIn(change, path)
