@@ -6,7 +6,7 @@ import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages-system/change"
 import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
-import { committed } from "../committing/committing.module.code.ts"
+import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
@@ -141,7 +141,9 @@ function reindexed(
 }
 
 function unstaged(root: string, changed: readonly FileEdit[]): undefined {
-  gitIn(root, ["reset", "-q", "HEAD", "--", ...changed.map((one) => one.path)])
+  whileIndexFrees(() =>
+    gitIn(root, ["reset", "-q", "HEAD", "--", ...changed.map((one) => one.path)])
+  )
 }
 
 function alsoFailed(act: () => undefined): string | null {
