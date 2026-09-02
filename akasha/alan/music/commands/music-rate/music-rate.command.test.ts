@@ -115,7 +115,7 @@ test("the values carry the rating and mark the prose beside the page", () => {
   ])
   const values = valuesFor({ slug: "mitski-nobody", title: "Nobody" }, held)
   expect(values["title"]).toBe("Nobody")
-  expect(values["rating"]).toBe("A")
+  expect(values["rank"]).toBe("A")
   expect(values["personalConnections"]).toBe("txt")
 })
 

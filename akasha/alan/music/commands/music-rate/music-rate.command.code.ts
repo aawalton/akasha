@@ -152,7 +152,7 @@ export function taken(argv: readonly string[]): Reading {
 
 export function valuesFor(was: Value, held: Taken): Value {
   const values: Value = { ...was }
-  if (held.rating !== null) values["rating"] = held.rating
+  if (held.rating !== null) values["rank"] = held.rating
   for (const one of held.prose.keys()) values[exportedAs(one)] = TXT
   return values
 }

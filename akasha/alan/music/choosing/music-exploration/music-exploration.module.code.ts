@@ -2,11 +2,11 @@ import type { Artist } from "../../catalog/artists/artist.page-type.ts"
 import type { Song } from "../../catalog/songs/song.page-type.ts"
 import { isLiked, ratingRung } from "../rating-ladder/rating-ladder.module.code.ts"
 
-export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "rating">
+export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "rank">
 
 export type CatalogSong = Pick<
   Song,
-  "slug" | "title" | "artistSlug" | "songType" | "performed" | "rating"
+  "slug" | "title" | "artistSlug" | "songType" | "performed" | "rank"
 >
 
 export type Catalog = {

@@ -15,12 +15,6 @@ export const musicCatalog = {
     "module/song-slug",
     "page-type/artist",
     "page-type/song",
-    "text-property/catalog-tags",
-    "text-property/external-id",
-    "text-property/external-link",
-    "text-property/last-synced-at",
-    "text-property/rating",
-    "text-property/source",
   ],
   invariants: [
     {

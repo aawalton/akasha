@@ -10,7 +10,7 @@ export const selectValues = {
   propertySlug: "values",
   definition: "one value a select property admits",
   max: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormatSlug: null,
   invariants: [
     {
       invariantKind: "departure",

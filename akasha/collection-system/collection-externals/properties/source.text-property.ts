@@ -3,21 +3,21 @@ import type { TextProperty } from "@akasha/pages-system/text-property"
 export type Source = "musicbrainz"
 
 export const source = {
-  id: "01a06243-144b-7002-9613-2bfb38ddfa5c",
+  id: "01a063de-2c60-701e-9aed-2067429a2664",
   pageTypeSlug: "text-property",
   slug: "source",
   propertySlug: "source",
-  definition: "the provider a page was imported from",
+  definition: "where a collection was imported from",
   max: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "A source is `musicbrainz`.",
-    },
-    {
       invariantKind: "absence",
       statement: "No page names `spotify` as a source.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "This property is a select over the providers akasha reads from.",
     },
   ],
 } as const satisfies TextProperty

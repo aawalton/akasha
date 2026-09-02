@@ -1,12 +1,6 @@
-import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { CollectionExternal } from "../../../../collection-system/collection-externals/collection-external.page-type.ts"
 import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
-import type { CatalogTags } from "../properties/catalog-tags.text-property.ts"
-import type { ExternalId } from "../properties/external-id.text-property.ts"
-import type { ExternalLink } from "../properties/external-link.text-property.ts"
-import type { LastSyncedAt } from "../properties/last-synced-at.text-property.ts"
-import type { Rating } from "../properties/rating.text-property.ts"
-import type { Source } from "../properties/source.text-property.ts"
 import type { ArtistSlug } from "./properties/artist-slug.relation-property.ts"
 import type { Insights } from "./properties/insights.file-property.ts"
 import type { Lyrics } from "./properties/lyrics.file-property.ts"
@@ -18,20 +12,14 @@ import type { SongType } from "./properties/song-type.text-property.ts"
 import type { SyncedLyrics } from "./properties/synced-lyrics.file-property.ts"
 import type { Written } from "./properties/written.text-property.ts"
 
-export type Song = Page & {
+export type Song = CollectionExternal & {
   title: Title
   artistSlug: ArtistSlug
-  externalId: ExternalId
-  externalLink: ExternalLink
-  source: Source
-  lastSyncedAt: LastSyncedAt
   songType: SongType
   performed: Performed
   lyricsSource?: LyricsSource
   written?: Written
-  rank?: Rating
   singability?: Singability
-  tags?: readonly CatalogTags[]
   lyrics?: Lyrics
   syncedLyrics?: SyncedLyrics
   insights?: Insights
@@ -44,7 +32,7 @@ export const song = {
   slug: "song",
   definition: "a piece of music Alan keeps",
   pluralSlug: "songs",
-  extendsSlug: "page-type/page",
+  extendsSlug: "page-type/collection-external",
   partSlugs: [
     "boolean-property/performed",
     "file-property/insights",
@@ -60,17 +48,11 @@ export const song = {
   properties: [
     { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "artist-slug", required: true, many: false },
-    { pagePropertySlug: "external-id", required: true, many: false },
-    { pagePropertySlug: "external-link", required: true, many: false },
-    { pagePropertySlug: "source", required: true, many: false },
-    { pagePropertySlug: "last-synced-at", required: true, many: false },
     { pagePropertySlug: "song-type", required: true, many: false },
     { pagePropertySlug: "performed", required: true, many: false },
     { pagePropertySlug: "lyrics-source", required: false, many: false },
     { pagePropertySlug: "written", required: false, many: false },
-    { pagePropertySlug: "rating", required: false, many: false },
     { pagePropertySlug: "singability", required: false, many: false },
-    { pagePropertySlug: "catalog-tags", required: false, many: true, max: null },
     { pagePropertySlug: "lyrics", required: false, many: false },
     { pagePropertySlug: "synced-lyrics", required: false, many: false },
     { pagePropertySlug: "insights", required: false, many: false },

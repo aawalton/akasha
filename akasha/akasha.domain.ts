@@ -50,6 +50,7 @@ export const akasha = {
     "domain/story-engine",
     "domain/browser",
     "domain/google",
+    "domain/collection-system",
   ],
   invariants: [
     {
