@@ -186,10 +186,20 @@ async function drawn(): Promise<readonly Stoplight[]> {
   return body.stoplights
 }
 
-test("nothing carried in says there is no reading rather than an empty list", async () => {
-  const answered = await tile()
-  expect(answered.status).toBe(503)
-  expect(await answered.json()).toEqual({ ok: false, error: "No reading." })
+// Every admitted readout answers a ring now, so a position no longer means the same inbox from
+// one run to the next. Name the inbox wanted rather than counting to it.
+async function ringFor(inbox: string): Promise<Stoplight | undefined> {
+  return (await drawn()).find((one) => one.inbox === inbox)
+}
+
+test("nothing carried in shows five empty rings rather than an empty list", async () => {
+  const some = await drawn()
+  expect(some.length).toBe(5)
+  for (const one of some) {
+    expect(one.readingHeld).toBe("none")
+    expect(one.reading).toBe("")
+    expect(one.tier).toBe("black")
+  }
 })
 
 test("all five inboxes come back when all five have been carried in", async () => {
@@ -227,12 +237,22 @@ test("the rings come back in the place order the readout pages state", async () 
   ])
 })
 
-test("an inbox with no fresh reading is left out rather than refusing the whole tile", async () => {
+test("an inbox with no fresh reading keeps its ring rather than leaving the tile short", async () => {
   await carryNow("inboxes-email", 0)
   await carryNow("inboxes-questions", 2)
   const some = await drawn()
-  expect(some.length).toBe(2)
-  expect(some.map((one) => one.inbox)).toEqual(["email", "questions"])
+  expect(some.length).toBe(5)
+  expect(some.map((one) => one.inbox)).toEqual([
+    "email",
+    "tasks",
+    "temperTasks",
+    "texts",
+    "questions",
+  ])
+  expect((await ringFor("email"))?.reading).toBe("0")
+  expect((await ringFor("email"))?.readingHeld).toBeUndefined()
+  expect((await ringFor("tasks"))?.reading).toBe("")
+  expect((await ringFor("tasks"))?.readingHeld).toBe("none")
 })
 
 test("every stoplight carries a tier that is one of the six colours the phone decodes", async () => {
@@ -262,9 +282,20 @@ test("a falling scale colours a rising count worse rather than better", async ()
 
 test("an inbox over a hundred is black rather than a reading gone missing", async () => {
   await carryNow("inboxes-tasks", 140)
-  const [one] = await drawn()
+  const one = await ringFor("tasks")
   expect(one?.tier).toBe("black")
   expect(one?.reading).toBe("140")
+})
+
+test("a count of zero and a count never carried are told apart on the wire", async () => {
+  await carryNow("inboxes-email", 0)
+  const carried = await ringFor("email")
+  expect(carried?.reading).toBe("0")
+  expect(carried?.readingHeld).toBeUndefined()
+
+  const absent = await ringFor("texts")
+  expect(absent?.reading).toBe("")
+  expect(absent?.readingHeld).toBe("none")
 })
 
 test("the tier a falling reading is next to reach is the better one", async () => {
@@ -290,12 +321,17 @@ test("a count reaches the widget as a string, which is what the widget decodes",
 
 test("a count is written whole rather than as the float the relay carried", async () => {
   await carryNow("inboxes-tasks", 4.4)
-  expect((await drawn())[0]?.reading).toBe("4")
+  expect((await ringFor("tasks"))?.reading).toBe("4")
 })
 
-test("a reading past forty-five minutes is no reading", async () => {
+test("a reading past forty-five minutes shows an empty ring rather than the count it held", async () => {
   await carryAll(new Date(Date.now() - 46 * 60_000))
-  expect((await tile()).status).toBe(503)
+  const some = await drawn()
+  expect(some.length).toBe(5)
+  for (const one of some) {
+    expect(one.readingHeld).toBe("stale")
+    expect(one.reading).toBe("")
+  }
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {

@@ -95,6 +95,7 @@ type Stoplight = {
   label?: string
   tier: string
   reading?: string
+  readingHeld?: string
   nextTier?: string
   progress?: number
 }
@@ -111,10 +112,12 @@ async function drawn(): Promise<readonly Stoplight[]> {
   return body.stoplights
 }
 
-test("nothing carried in says there is no reading rather than a surplus of zero", async () => {
-  const answered = await tile()
-  expect(answered.status).toBe(503)
-  expect(await answered.json()).toEqual({ ok: false, error: "No reading." })
+test("nothing carried in shows an empty ring rather than a surplus of zero", async () => {
+  const [one] = await drawn()
+  expect(one?.readingHeld).toBe("none")
+  expect(one?.reading).toBe("")
+  expect(one?.tier).toBe("black")
+  expect(one?.label).toBe("Surplus")
 })
 
 test("the widget's body is a non-empty list under `stoplights`", async () => {
@@ -174,9 +177,23 @@ test("the reading is a string, which is what the widget decodes", async () => {
   expect(typeof (await drawn())[0]?.reading).toBe("string")
 })
 
-test("a reading past forty-five minutes is no reading", async () => {
+test("a reading past forty-five minutes shows an empty ring rather than the surplus it held", async () => {
   await carryNow(1, new Date(Date.now() - 46 * 60_000))
-  expect((await tile()).status).toBe(503)
+  const [one] = await drawn()
+  expect(one?.readingHeld).toBe("stale")
+  expect(one?.reading).toBe("")
+})
+
+test("a surplus of zero and a surplus never carried are told apart on the wire", async () => {
+  await carryNow(0)
+  const carried = (await drawn())[0]
+  expect(carried?.reading).toBe("0")
+  expect(carried?.readingHeld).toBeUndefined()
+
+  dropRelayed()
+  const absent = (await drawn())[0]
+  expect(absent?.reading).toBe("")
+  expect(absent?.readingHeld).toBe("none")
 })
 
 // A surplus is added up out of session hours, so it arrives as a float carrying its whole tail —

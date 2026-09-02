@@ -87,6 +87,7 @@ type Stoplight = {
   label?: string
   tier: string
   reading?: string
+  readingHeld?: string
   nextTier?: string
   progress?: number
 }
@@ -137,10 +138,11 @@ test("a body that is not a whole reading is refused rather than held", async () 
   expect((await carry(RELAY_SECRET, { readout: READOUT, value: 3, at: "soon" })).status).toBe(400)
 })
 
-test("nothing carried in says there is no reading rather than a level of zero", async () => {
-  const answered = await tile()
-  expect(answered.status).toBe(503)
-  expect(await answered.json()).toEqual({ ok: false, error: "No reading." })
+test("nothing carried in shows an empty ring rather than a level of zero", async () => {
+  const [one] = await drawn()
+  expect(one?.readingHeld).toBe("none")
+  expect(one?.reading).toBe("")
+  expect(one?.tier).toBe("black")
 })
 
 test("a level below zero and between whole numbers crosses the relay whole", async () => {
@@ -211,15 +213,27 @@ test("a reading arriving replaces the one held before it", async () => {
   expect((await drawn())[0]?.reading).toBe("4")
 })
 
-test("a reading past forty-five minutes is no reading", async () => {
+test("a reading past forty-five minutes shows an empty ring rather than what it held", async () => {
   await carryNow(3, new Date(Date.now() - 46 * 60_000))
-  expect((await tile()).status).toBe(503)
+  const [one] = await drawn()
+  expect(one?.readingHeld).toBe("stale")
+  expect(one?.reading).toBe("")
 })
 
-test("a machine that starts again holds no reading", async () => {
+test("a machine that starts again holds no reading, and says so rather than losing the ring", async () => {
   await carryNow(3)
   dropRelayed()
-  expect((await tile()).status).toBe(503)
+  const [one] = await drawn()
+  expect(one?.readingHeld).toBe("none")
+  expect(one?.reading).toBe("")
+})
+
+test("a reading never taken and one gone stale are told apart on the wire", async () => {
+  const never = (await drawn())[0]?.readingHeld
+  await carryNow(3, new Date(Date.now() - 46 * 60_000))
+  const stale = (await drawn())[0]?.readingHeld
+  expect(never).toBe("none")
+  expect(stale).toBe("stale")
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {
