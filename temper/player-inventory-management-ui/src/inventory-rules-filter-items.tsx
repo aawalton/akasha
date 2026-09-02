@@ -1,7 +1,10 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import { inventoryRuleGoals } from "@temper/game-items-rules-core/inventory-rule-goals"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
+import { inventoryRuleGoals } from "@akasha/temper-items-rules-core/inventory-rule-goals"
 import {
   type ActiveStatusFilter,
   isActiveStatusFilter,
