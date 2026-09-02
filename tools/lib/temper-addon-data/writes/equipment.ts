@@ -1,5 +1,3 @@
-import type { AddonDataPages } from "../addon-data-pages.ts"
-import { generateInventoryTraitMappings } from "../generators/inventory-trait-mappings.ts"
 import { generateTemperArmorEnchant } from "@akasha/temper-addon-generators/temper-armor-enchant"
 import { generateTemperArmorTrait } from "@akasha/temper-addon-generators/temper-armor-trait"
 import { generateTemperArmorWeight } from "@akasha/temper-addon-generators/temper-armor-weight"
@@ -11,13 +9,13 @@ import { generateTemperJewelryTrait } from "@akasha/temper-addon-generators/temp
 import { generateTemperWeaponEnchant } from "@akasha/temper-addon-generators/temper-weapon-enchant"
 import { generateTemperWeaponTrait } from "@akasha/temper-addon-generators/temper-weapon-trait"
 import { generateTemperWeaponType } from "@akasha/temper-addon-generators/temper-weapon-type"
+import type { AddonDataPages } from "../addon-data-pages.ts"
 import {
   TEMPER_EQUIPMENT_ARMOR_OUTPUT_DIR,
   TEMPER_EQUIPMENT_ENCHANTS_OUTPUT_DIR,
   TEMPER_EQUIPMENT_TRAITS_OUTPUT_DIR,
   TEMPER_EQUIPMENT_WEAPON_OUTPUT_DIR,
   TEMPER_INVENTORY_CORE_OUTPUT_DIR,
-  TEMPER_INVENTORY_OUTPUT_DIR,
 } from "../output-dirs.ts"
 
 export function buildAddonDataWritesEquipment(
@@ -80,6 +78,5 @@ export function buildAddonDataWritesEquipment(
       "temper-weapon-enchant.generated.ts",
       generateTemperWeaponEnchant(p.weaponEnchantPages.rows)
     ),
-    w(TEMPER_INVENTORY_OUTPUT_DIR, "trait-mappings.generated.ts", generateInventoryTraitMappings()),
   ]
 }

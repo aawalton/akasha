@@ -5,12 +5,21 @@ import { COMPANIONS_OUTPUT_DIR, OUTPUT_DIR } from "./constants.ts"
 
 const out = (rel: string): string => temperFile(`${rel}/src/generated`)
 
-export const TEMPER_INVENTORY_OUTPUT_DIR = out("game-items-addon")
-export const TEMPER_EQUIPMENT_ARMOR_OUTPUT_DIR = temperFile("game-characters-equipment/src/armor/generated")
-export const TEMPER_EQUIPMENT_ENCHANTS_OUTPUT_DIR = temperFile("game-characters-equipment/src/enchants/generated")
-export const TEMPER_EQUIPMENT_SETS_OUTPUT_DIR = temperFile("game-characters-equipment/src/sets/generated")
-export const TEMPER_EQUIPMENT_TRAITS_OUTPUT_DIR = temperFile("game-characters-equipment/src/traits/generated")
-export const TEMPER_EQUIPMENT_WEAPON_OUTPUT_DIR = temperFile("game-characters-equipment/src/weapons/generated")
+export const TEMPER_EQUIPMENT_ARMOR_OUTPUT_DIR = temperFile(
+  "game-characters-equipment/src/armor/generated"
+)
+export const TEMPER_EQUIPMENT_ENCHANTS_OUTPUT_DIR = temperFile(
+  "game-characters-equipment/src/enchants/generated"
+)
+export const TEMPER_EQUIPMENT_SETS_OUTPUT_DIR = temperFile(
+  "game-characters-equipment/src/sets/generated"
+)
+export const TEMPER_EQUIPMENT_TRAITS_OUTPUT_DIR = temperFile(
+  "game-characters-equipment/src/traits/generated"
+)
+export const TEMPER_EQUIPMENT_WEAPON_OUTPUT_DIR = temperFile(
+  "game-characters-equipment/src/weapons/generated"
+)
 export const TEMPER_CHARACTERS_CAPTURE_OUTPUT_DIR = out("game-characters-capture-addon")
 export const TEMPER_COMPLETION_OUTPUT_DIR = out("player-completion")
 export const TEMPER_ADDONS_CHARACTERS_GENERATED_DIR = out("player-completion-addon")
@@ -22,7 +31,6 @@ export const WEB_ENGINE_INVENTORY_DIR = out("game-items-rules-core")
 const ALL_OUTPUT_DIRS: readonly string[] = [
   OUTPUT_DIR,
   COMPANIONS_OUTPUT_DIR,
-  TEMPER_INVENTORY_OUTPUT_DIR,
   TEMPER_EQUIPMENT_ARMOR_OUTPUT_DIR,
   TEMPER_EQUIPMENT_ENCHANTS_OUTPUT_DIR,
   TEMPER_EQUIPMENT_SETS_OUTPUT_DIR,
