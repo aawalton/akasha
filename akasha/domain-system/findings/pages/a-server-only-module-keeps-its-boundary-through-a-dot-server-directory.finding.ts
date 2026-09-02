@@ -1,9 +1,9 @@
 import type { Finding } from "../finding.page-type.ts"
 
-export const aServerOnlyModuleLosesItsBoundaryWhenTheDotServerSuffixIsDropped = {
+export const aServerOnlyModuleKeepsItsBoundaryThroughADotServerDirectory = {
   id: "01a0640f-8510-7017-8dbd-776f88adb0d2",
   pageTypeSlug: "finding",
-  slug: "a-server-only-module-loses-its-boundary-when-the-dot-server-suffix-is-dropped",
+  slug: "a-server-only-module-keeps-its-boundary-through-a-dot-server-directory",
   domainSlug: "domain/temper",
   claim:
     "Five of temper's web modules were named `*.server.ts`, and React Router reads that suffix as a promise the bundler keeps: a module so named never reaches the browser bundle, and importing one from client code is a build error rather than a leak. Akasha's file-name grammar has one shape for a module's code, so the five crossed as plain `.module.code.ts` and the guarantee went with the suffix. Nothing refuses a browser component importing `supabase-service-client`, which holds a service key.",
