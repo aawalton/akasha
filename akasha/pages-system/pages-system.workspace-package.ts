@@ -55,6 +55,8 @@ export const pagesSystem = {
     "module/page-value",
     "module/page-entries",
     "module/page-entry-writing",
+    "module/page-entry-landing",
+    "module/page-entry-queue",
     "module/shadow",
   ],
   invariants: [
