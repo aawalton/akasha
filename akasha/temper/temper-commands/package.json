@@ -4,6 +4,8 @@
   "type": "module",
   "dependencies": {
     "@akasha/command-system": "workspace:*",
-    "@akasha/temper-watcher": "workspace:*"
+    "@akasha/pages-system": "workspace:*",
+    "@akasha/temper-watcher": "workspace:*",
+    "@akasha/utils-run": "workspace:*"
   }
 }

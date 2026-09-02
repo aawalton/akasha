@@ -69,6 +69,7 @@ export const temperCommands = {
     "command/temper-inventory-rule-update",
     "command/temper-inventory-rules",
     "command/temper-inventory-snapshot",
+    "command/temper-package-typecheck",
     "command/temper-upstream-data-port",
     "command/temper-upstream-data-verify",
     "command/temper-watcher-logs",
