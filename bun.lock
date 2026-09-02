@@ -1949,6 +1949,7 @@
         "@akasha/pages-system": "workspace:*",
         "@akasha/temper-capture-errors": "workspace:*",
         "@akasha/temper-errors-triage": "workspace:*",
+        "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",

@@ -31,6 +31,8 @@ export const temperWatcher = {
     "module/watcher-supabase-url",
     "module/watcher-error-cursor",
     "module/watcher-run-observing",
+    "module/watcher-token",
+    "module/watcher-config",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],

@@ -26,13 +26,16 @@
     "./watcher-version": "./watcher-version/watcher-version.module.code.ts",
     "./watcher-supabase-url": "./watcher-supabase-url/watcher-supabase-url.module.code.ts",
     "./watcher-error-cursor": "./watcher-error-cursor/watcher-error-cursor.module.code.ts",
-    "./watcher-run-observing": "./watcher-run-observing/watcher-run-observing.module.code.ts"
+    "./watcher-run-observing": "./watcher-run-observing/watcher-run-observing.module.code.ts",
+    "./watcher-token": "./watcher-token/watcher-token.module.code.ts",
+    "./watcher-config": "./watcher-config/watcher-config.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages-system": "workspace:*",
     "@akasha/temper-capture-errors": "workspace:*",
     "@akasha/temper-errors-triage": "workspace:*",
+    "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
