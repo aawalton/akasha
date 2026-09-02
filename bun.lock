@@ -400,7 +400,7 @@
       "name": "@akasha/git",
     },
     "akasha/google/calendar": {
-      "name": "@akasha/calendar-google",
+      "name": "@akasha/google-calendar",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
         "@akasha/google-oauth": "workspace:*",
@@ -3322,7 +3322,7 @@
 
     "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:akasha/browser/test-harness"],
 
-    "@akasha/calendar-google": ["@akasha/calendar-google@workspace:akasha/google/calendar"],
+    "@akasha/google-calendar": ["@akasha/google-calendar@workspace:akasha/google/calendar"],
 
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:akasha/calendar-sync"],
 

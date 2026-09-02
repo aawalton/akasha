@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/calendar-google",
+  "name": "@akasha/google-calendar",
   "private": true,
   "type": "module",
   "exports": {

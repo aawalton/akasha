@@ -1,11 +1,11 @@
 export const summary = "Set Alan's own response (accept/decline/tentative) on an event, as JSON"
 
-import type { CommandHelp } from "../../../ops/surface.ts"
+import type { RsvpStatus } from "@akasha/google-calendar/types"
 import { calendarEvents, calendarOAuthClient } from "../../../lib/calendar-google.ts"
-import { type RsvpStatus } from "@akasha/calendar-google/types"
 import { narrowSendUpdates, SEND_UPDATES } from "../../../lib/calendar-send-updates.ts"
 import { inputError } from "../../../lib/exit.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

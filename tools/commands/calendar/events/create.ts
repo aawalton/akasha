@@ -1,10 +1,10 @@
 export const summary = "Create a calendar event and print the normalized event as JSON"
 
-import type { CommandHelp } from "../../../ops/surface.ts"
+import type { EventInput } from "@akasha/google-calendar/types"
 import { calendarEvents, calendarOAuthClient } from "../../../lib/calendar-google.ts"
-import { type EventInput } from "@akasha/calendar-google/types"
 import { narrowSendUpdates, SEND_UPDATES } from "../../../lib/calendar-send-updates.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [

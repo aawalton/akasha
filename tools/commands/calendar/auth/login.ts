@@ -1,12 +1,11 @@
-
 export const summary = "One-time OAuth consent that mints the calendar RSVP refresh token"
 
-import { CALENDAR_OAUTH_SCOPE } from "@akasha/calendar-google/env"
-import { parseOauthCallbackUrl } from "@akasha/google-oauth/oauth-callback"
+import { CALENDAR_OAUTH_SCOPE } from "@akasha/google-calendar/env"
 import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
-import type { CommandHelp } from "../../../ops/surface.ts"
-import { parseArgs } from "../../../lib/parse-args.ts"
+import { parseOauthCallbackUrl } from "@akasha/google-oauth/oauth-callback"
 import { googleOauthConsent } from "../../../lib/google-oauth-consent.ts"
+import { parseArgs } from "../../../lib/parse-args.ts"
+import type { CommandHelp } from "../../../ops/surface.ts"
 
 const REFRESH_TOKEN_VAR = "GOOGLE_CALENDAR_OAUTH_REFRESH_TOKEN"
 
