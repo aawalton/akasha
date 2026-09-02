@@ -1,4 +1,6 @@
 import { diskFileTree } from "../../page/file-tree.ts"
+import { TRACKING_DAY } from "./page-query-day.ts"
+import { dayNameOf } from "./tracking/day-place.ts"
 import { declaredFor } from "../page/page-rows-home.ts"
 import { kebabized } from "../../page/property/key-spelling.ts"
 import type { PageQuery, Test } from "./page-query.ts"
@@ -95,14 +97,29 @@ export function documentFrom(
 
 const LIST_TAKE = "list(text)"
 
+const CALENDAR_DATE = "calendar-date"
+
 const TAKE_TYPES: readonly string[] = [
   "text",
   "number",
   "instant",
-  "calendar-date",
+  CALENDAR_DATE,
+  TRACKING_DAY,
   "boolean",
   LIST_TAKE,
 ]
+
+/**
+ * What a value taken as one of Alan's tracked days is tested against.
+ *
+ * A day is given as a date and held as the name of that day's page, and `dayNameOf` is the rule
+ * that says what the name is. Binding through it is what keeps a query reaching a day through a row
+ * standing beside it answering the same rows on either side of the migration, without the query
+ * itself stating how a day is spelled.
+ */
+function boundAs(type: string, one: string): string {
+  return type === TRACKING_DAY ? dayNameOf(one) : one
+}
 
 const SLOT_SAYS: Readonly<Record<string, string>> = {
   is: "is",
@@ -123,7 +140,7 @@ function faultIn(type: string, one: string): string | null {
     return one.trim() !== "" && Number.isFinite(Number(one)) ? null : "is no number"
   }
   if (type === "instant") return Number.isFinite(Date.parse(one)) ? null : "is no instant"
-  if (type === "calendar-date") {
+  if (type === CALENDAR_DATE || type === TRACKING_DAY) {
     return /^\d{4}-\d{2}-\d{2}$/.test(one) ? null : "is no calendar date, which reads `YYYY-MM-DD`"
   }
   if (type === "boolean") {
@@ -154,7 +171,7 @@ function readTaken(name: string, type: string, held: string | readonly string[])
     const fault = faultIn(type === LIST_TAKE ? "text" : type, one)
     if (fault !== null) return { refused: `\`${name}\` was given \`${one}\`, which ${fault}` }
   }
-  return values
+  return values.map((one) => boundAs(type, one))
 }
 
 function untaken(name: string, key: string, slot: string, saying: string): string {
