@@ -79,7 +79,7 @@ export async function nearestConfigValue(
   return { asked: true, stands: false, value: null, extendsSlug: null }
 }
 
-function reached(stated: StatedConfig, what: string): unknown {
+export function reached(stated: StatedConfig, what: string): unknown {
   if (stated.asked) return stated.value
   throw new Error(
     `${what}: the pages did not answer, so this reader holds no page-type config to report; a null would read as a page type that declares none (${stated.why})`

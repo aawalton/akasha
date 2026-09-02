@@ -2,6 +2,7 @@ import { type DetailConfig, parseDetailConfig } from "@akasha/pages-core/schema/
 import {
   type FilePageTypeConfigDeps,
   LIVE_PAGE_TYPE_CONFIG,
+  reached,
   statedConfigValue,
 } from "../file-page-type-config/file-page-type-config.module.code.ts"
 import {
@@ -18,8 +19,7 @@ export async function getFileDetailConfig(
   deps: FileDetailConfigDeps = LIVE_PAGE_TYPE_CONFIG
 ): Promise<DetailConfig | null> {
   const stated = await statedConfigValue(pageTypeSlug, DETAIL_CONFIG_KEY, deps)
-  if (!stated.asked) return null
-  return parseDetailConfig(stated.value) ?? null
+  return parseDetailConfig(reached(stated, `getFileDetailConfig(${pageTypeSlug})`)) ?? null
 }
 
 export async function detailConfigFor(
