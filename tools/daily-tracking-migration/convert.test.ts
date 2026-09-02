@@ -92,7 +92,11 @@ describe("the names a day takes", () => {
     )
     for (const file of one.entries) {
       const slug = file.name.includes(`.${SESSIONS_SLUG}.`) ? "sessions" : "completed-tasks"
-      expect(file.name).toBe(besideAt(one.pageName, slug, "jsonl"))
+      // `besideAt` answers null for a name it cannot read as a page's, which is a refusal rather
+      // than a mismatch, so it is said as one here instead of being compared against a name.
+      const beside = besideAt(one.pageName, slug, "jsonl")
+      if (beside === null) throw new Error(`besideAt reads no page name in '${one.pageName}'`)
+      expect(file.name).toBe(beside)
     }
   })
 })
