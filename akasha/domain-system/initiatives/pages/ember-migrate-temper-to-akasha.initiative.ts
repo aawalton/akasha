@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "`ALL_OUTPUT_DIRS` is empty and the completion writes are deleted, proved by a recording writer at 0 writes aimed there with a seeded fault still throwing. `player-completion` is ready to ablate once web`s 3 edges clear; its 13 generated files stay on disk until then to keep `codegen-type-identity-drift` green. The catalog pages are not stranded — the capture writes them and the store answers them. Ruling: the 13 renderers and 9 tiers go, the pages stay.",
+        "The last web edges cleared at `e603fbf255`: `@temper/player-completion` has no importer outside its own 23 files, web typechecks 0 errors, and its denominator dropped 8. `ALL_OUTPUT_DIRS` is empty and the completion writes are deleted, proved by a recording writer. The 13 renderers and 9 tiers are gone; the catalog pages stay and the store answers them. Ablation waits only on the 37 recovered tests. `bun.lock` still lists the package.",
     },
     {
       statement: "No part of temper is outside akasha.",
