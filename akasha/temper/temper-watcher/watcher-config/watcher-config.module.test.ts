@@ -60,6 +60,16 @@ test("each kind is read from the file its name says", () => {
   expect(sourcePathFor("sales", CONFIG)).toBe(CONFIG.temperSalesPath)
 })
 
+test("a saved-variables file is named for the addon that writes it", () => {
+  expect(CONFIG.temperCharactersPath).toBe("/game/SavedVariables/TemperCharacters.lua")
+  expect(CONFIG.temperCompanionsPath).toBe("/game/SavedVariables/TemperCompanions.lua")
+  expect(CONFIG.temperCatalogPath).toBe("/game/SavedVariables/TemperCatalog.lua")
+  expect(CONFIG.dataMiningPath).toBe("/game/SavedVariables/TemperDataMining.lua")
+  expect(CONFIG.inventoryPath).toBe("/game/SavedVariables/TemperInventory.lua")
+  expect(CONFIG.temperErrorsPath).toBe("/game/SavedVariables/TemperErrors.lua")
+  expect(CONFIG.temperSalesPath).toBe("/game/SavedVariables/TemperSales.lua")
+})
+
 test("a config built for one game folder names nothing in another", () => {
   const other = buildConfig({ savedVarsDir: "/other/SavedVariables", addonsDir: "/other/AddOns" })
   for (const kind of FILE_TYPES) {
