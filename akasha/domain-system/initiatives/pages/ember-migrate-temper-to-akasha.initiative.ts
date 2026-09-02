@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "Six items packages ablated, confirmed gone at five sites each. 38 packages and 2,291 files remain under `temper/` against 19,421 in akasha, at `75d3c0191e`. `akasha edit` reaches any path; only `akasha write` refuses outside `akasha/`, where no check judges, so a seat's own proof is the whole net. Its record of an outside file is per agent and unrefreshable: hand the call to a fresh agent. The git index emptied for a minute today, so print the denominator — a zero off nothing reads clean.",
+        "38 packages and 2,291 files remain under `temper/`. Ablation is the bottleneck, and most already name a twin in `partSlugs`: the question is how complete it is, not whether to write one. A twin can be split across two, and no name predicts it — `shared-interface-interface-addon` became `temper-interface-addon`. Check each export gap for a rename or an ambient `.d.ts` before calling it missing. History is rewritten under us: a cited commit may not resolve.",
     },
   ],
   constraints: [
