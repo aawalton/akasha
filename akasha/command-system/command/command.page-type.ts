@@ -23,6 +23,7 @@ export const command = {
     "command/index",
     "command/ios-app",
     "command/lint",
+    "command/lint-exception",
     "command/measure",
     "command/move",
     "command/read",
