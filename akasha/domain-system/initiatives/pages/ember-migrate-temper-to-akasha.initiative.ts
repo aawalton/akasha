@@ -10,13 +10,9 @@ export const emberMigrateTemperToAkasha = {
   intents: [
     {
       statement:
-        "A declaration carrying many values says `entries` and keeps each value in a JSONL beside the page.",
-      workingMemory:
-        "`entries` landed 2026-09-01 in 0646bef0b2 as a boolean property and a third arm of `Declaration`, beside the arm carrying one value and the arm carrying a list. Finding 42c6fd4a0c records the narrow reading taken, so `entries` marks only the declarations kept beside the page rather than every list. Left to do is the writer and the index: nothing reads a jsonl under an `entries` declaration, and `cases` on `model-test` is still a file property, which turning it into an entry shape waits on.",
-    },
-    {
-      statement:
         "Every entry carries an id, and a write works one out for each entry whose body arrives without it.",
+      workingMemory:
+        "The paradigm landed 2026-09-01: `page-property-entry` in 182eb8d2e7, the `entries` declaration in 0646bef0b2, the plumbing in 06a46505bd and `cases` on `model-test` converted in 98e525d85a. That jsonl holds 14 rows over page, definition, statement and answer, none with an id. A write never reads the rows, so nothing works an id out and nothing judges a row against the fields `cases` declares. Both are gaps on `page-property-entry`.",
     },
     {
       statement:

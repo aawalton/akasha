@@ -33,8 +33,12 @@ export const pagePropertyEntry = {
       statement: "What a record property holds inline an entry shape holds in a file of its own.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A declaration carrying many values keeps each value beside the page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every entry is judged against the fields its shape declares.",
     },
     {
       invariantKind: "gap",
