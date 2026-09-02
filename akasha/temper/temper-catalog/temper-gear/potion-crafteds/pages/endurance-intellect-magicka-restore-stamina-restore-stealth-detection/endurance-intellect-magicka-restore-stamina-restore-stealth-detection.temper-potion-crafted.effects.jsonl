@@ -1,0 +1,3 @@
+{"id":"01a05fd8-a3b8-73a0-95fb-43c949b4ebd6","metricId":"stamina-restore","type":"number-per-seconds","value":7582,"seconds":45}
+{"id":"01a05fd8-a3b8-737a-96d5-227773af6446","metricId":"stealth-detection","type":"number-for-seconds","value":43.5,"seconds":12}
+{"id":"01a05fd8-a3b8-7046-be4f-85d1d9ed1683","metricId":"magicka-restore","type":"number-per-seconds","value":7582,"seconds":45}

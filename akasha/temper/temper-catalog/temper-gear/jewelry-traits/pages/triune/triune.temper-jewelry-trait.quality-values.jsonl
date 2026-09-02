@@ -1,0 +1,10 @@
+{"id":"01a05fd8-a3b7-7f69-9c1e-e5f5f747d047","metricId":"health","quality":"epic","value":458}
+{"id":"01a05fd8-a3b7-772e-83df-b552ce0aac1b","metricId":"health","quality":"fine","value":410}
+{"id":"01a05fd8-a3b7-7241-bf7a-9edcb6d11a33","metricId":"health","quality":"normal","value":386}
+{"id":"01a05fd8-a3b7-7d39-bf4c-58720c294ea6","metricId":"health","quality":"superior","value":434}
+{"id":"01a05fd8-a3b7-7460-99b4-556cef369d8f","metricId":"health","quality":"legendary","value":482}
+{"id":"01a05fd8-a3b7-76d5-af9c-d85f9e442da6","metricId":"resource","quality":"epic","value":417}
+{"id":"01a05fd8-a3b7-7382-919e-5bae04e30ca0","metricId":"resource","quality":"fine","value":373}
+{"id":"01a05fd8-a3b7-77ac-9a74-4c6035229171","metricId":"resource","quality":"normal","value":351}
+{"id":"01a05fd8-a3b7-7b67-a379-8ed31c8ab541","metricId":"resource","quality":"superior","value":395}
+{"id":"01a05fd8-a3b7-744b-a3f8-ee995f76a255","metricId":"resource","quality":"legendary","value":439}

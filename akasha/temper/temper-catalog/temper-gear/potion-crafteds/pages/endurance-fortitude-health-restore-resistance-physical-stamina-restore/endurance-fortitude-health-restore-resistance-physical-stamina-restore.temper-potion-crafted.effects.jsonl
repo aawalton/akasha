@@ -1,0 +1,3 @@
+{"id":"01a05fd8-a3b8-764f-b4f7-93b38d6c57b6","metricId":"resistance-physical","type":"number-for-seconds","value":5280,"seconds":36.6}
+{"id":"01a05fd8-a3b8-7ded-9c33-6e4c8e4607c9","metricId":"health-restore","type":"number-per-seconds","value":8369,"seconds":45}
+{"id":"01a05fd8-a3b8-7830-9a81-82bfba5a9c3b","metricId":"stamina-restore","type":"number-per-seconds","value":7582,"seconds":45}

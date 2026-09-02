@@ -1,0 +1,2 @@
+{"id":"01a05fd8-a3b8-7a94-9bb4-38f22c6fc1ed","metricId":"target-magicka-ability-cost","type":"fraction-change-for-seconds","value":0.1,"seconds":5.5}
+{"id":"01a05fd8-a3b8-7056-988b-194f0251dd69","metricId":"magicka-restore","type":"number-for-seconds","value":238,"seconds":3.9}

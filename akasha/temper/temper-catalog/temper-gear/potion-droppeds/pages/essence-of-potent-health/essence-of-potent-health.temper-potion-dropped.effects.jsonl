@@ -1,0 +1,2 @@
+{"id":"01a05fd8-a3b8-799f-8b26-ad89bcff5e2b","metricId":"health-restore","type":"number-per-seconds","value":6684,"seconds":45}
+{"id":"01a05fd8-a3b8-7f3f-a535-bad7ad470812","metricId":"magicka-restore","type":"number-per-seconds","value":6066,"seconds":45}
