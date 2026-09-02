@@ -6,23 +6,56 @@ const ROOT_PACKAGE_JSON_SCHEMA = z
   .object({ workspaces: z.array(z.string()).optional() })
   .passthrough()
 
+const ONE_SUFFIX = "/*"
+
+const DEEP_SUFFIX = "/**"
+
+const LINKED_FOLDER = "node_modules"
+
+function unsupported(entry: string): Error {
+  return new Error(
+    `listWorkspaceDirs: unsupported workspaces glob "${entry}" — only trailing "/*" and "/**" segments are expanded today`
+  )
+}
+
+function deepPrefixIn(entry: string): string | null {
+  if (!entry.endsWith(DEEP_SUFFIX)) return null
+  const prefix = entry.slice(0, -DEEP_SUFFIX.length)
+  if (prefix.includes("*")) throw unsupported(entry)
+  return prefix
+}
+
 function parseTrailingStarGlob(entry: string): { prefix: string; depth: number } {
-  const suffix = "/*"
   let prefix = entry
   let depth = 0
-  while (prefix.endsWith(suffix)) {
-    prefix = prefix.slice(0, -suffix.length)
+  while (prefix.endsWith(ONE_SUFFIX)) {
+    prefix = prefix.slice(0, -ONE_SUFFIX.length)
     depth += 1
   }
-  if (depth === 0 || prefix.includes("*")) {
-    throw new Error(
-      `listWorkspaceDirs: unsupported workspaces glob "${entry}" — only trailing "/*" segments are expanded today`
-    )
-  }
+  if (depth === 0 || prefix.includes("*")) throw unsupported(entry)
   return { prefix, depth }
 }
 
+function foldersBelow(repoRoot: string, prefix: string): readonly string[] {
+  const found: string[] = []
+  const abs = join(repoRoot, prefix)
+  if (!existsSync(abs)) return found
+  for (const child of readdirSync(abs, { withFileTypes: true })) {
+    if (!child.isDirectory() || child.name === LINKED_FOLDER) continue
+    const rel = `${prefix}/${child.name}`
+    found.push(rel)
+    found.push(...foldersBelow(repoRoot, rel))
+  }
+  return found
+}
+
+function holdingAManifest(repoRoot: string, dirs: readonly string[]): readonly string[] {
+  return dirs.filter((rel) => existsSync(join(repoRoot, rel, "package.json"))).sort()
+}
+
 function expandGlobEntry(repoRoot: string, entry: string): readonly string[] {
+  const deep = deepPrefixIn(entry)
+  if (deep !== null) return holdingAManifest(repoRoot, foldersBelow(repoRoot, deep))
   const { prefix, depth } = parseTrailingStarGlob(entry)
   let level: readonly string[] = [prefix]
   for (let i = 0; i < depth; i += 1) {
@@ -36,11 +69,16 @@ function expandGlobEntry(repoRoot: string, entry: string): readonly string[] {
     }
     level = next
   }
-  return level.filter((rel) => existsSync(join(repoRoot, rel, "package.json"))).sort()
+  return holdingAManifest(repoRoot, level)
 }
 
 function workspaceGlobCovers(entry: string, relPath: string): boolean {
   if (!entry.includes("*")) return false
+  const deep = deepPrefixIn(entry)
+  if (deep !== null) {
+    const under = `${deep}/`
+    return relPath.startsWith(under) && relPath.slice(under.length) !== ""
+  }
   const { prefix, depth } = parseTrailingStarGlob(entry)
   const base = `${prefix}/`
   if (!relPath.startsWith(base)) return false

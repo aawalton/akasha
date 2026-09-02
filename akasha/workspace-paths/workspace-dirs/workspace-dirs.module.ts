@@ -6,10 +6,16 @@ export const workspaceDirs = {
   slug: "workspace-dirs",
   definition: "the folders a root manifest's workspaces entries stand for, with globs expanded",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Only a glob of trailing star segments is expanded.",
+      statement: "A glob of trailing single stars is expanded one folder down for each star.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A glob ending in a doubled star is expanded to every folder at any depth under the prefix.",
     },
     {
       invariantKind: "departure",
@@ -18,6 +24,10 @@ export const workspaceDirs = {
     {
       invariantKind: "departure",
       statement: "An expanded folder holding no manifest is left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder of linked packages is left out of a doubled star expansion.",
     },
   ],
 } as const satisfies Module
