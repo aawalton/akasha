@@ -285,6 +285,7 @@
   },
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
+    "@akasha/readout-system": "workspace:*",
     "zod": "^4.4.3"
   },
   "devDependencies": {

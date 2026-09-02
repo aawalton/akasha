@@ -4,10 +4,9 @@ import { getEsoDayStr } from '@akasha/day/eso-day';
 import { duringOneCall } from '@akasha/command-system/during-call';
 import { askHere } from '../../../../readouts/ask-here.ts';
 import { getDailyValues, getValuesLegend } from '../../../../readouts/daily-stoplights.ts';
-import { getInboxLegend, getInboxStoplights } from '../../../../readouts/inbox-stoplights.ts';
-import { getUpkeepLegend, getUpkeepStoplights } from '../../../../readouts/upkeep-stoplights.ts';
 import * as vscode from 'vscode';
 import { recordObservation } from '../../seat/observation-store.ts';
+import { glyphsOf, legendOf, nameTheStore, readGroup } from './group-stoplights.ts';
 import { createLegendStore } from './legends.ts';
 import { applyToItems, type FreshAts, type ReadOutcomes, settleReads } from './render.ts';
 import { SLOTS } from "./slots.ts"
@@ -19,11 +18,15 @@ const FEATURE = 'status-bar';
 
 const POLL_INTERVAL_MS = 30_000;
 
+const UPKEEP_GROUP = 'upkeep';
+
+const INBOX_GROUP = 'inboxes';
+
 const LEGEND_READS: Readonly<
 	Record<StoplightsSection, () => Promise<string>>
 > = {
-	upkeep: getUpkeepLegend,
-	inbox: getInboxLegend,
+	upkeep: async () => legendOf(await readGroup(UPKEEP_GROUP)),
+	inbox: async () => legendOf(await readGroup(INBOX_GROUP)),
 	daily: getValuesLegend,
 };
 
@@ -36,6 +39,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	context.subscriptions.push(output);
 
 	process.env.AKASHA_ROOT ??= path.join(os.homedir(), 'repos', 'akasha');
+	nameTheStore();
 
 	const items = SLOTS.map((slot) => {
 		const item = vscode.window.createStatusBarItem(
@@ -82,8 +86,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 		const [daily, inbox, upkeep, usage] = await duringOneCall(async () =>
 			Promise.allSettled([
 				getDailyValues({ day, ask }),
-				getInboxStoplights({ day, ask }),
-				getUpkeepStoplights({ day, ask }),
+				readGroup(INBOX_GROUP).then(glyphsOf),
+				readGroup(UPKEEP_GROUP).then(glyphsOf),
 				readUsage(),
 			])
 		);
