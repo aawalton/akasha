@@ -1,32 +1,30 @@
 import type { LocationTraceInsert } from "../trace-shape/trace-shape.module.code.ts"
 
-// NOTHING HAS KEPT A LOCATION TRACE SINCE THE STORE STOPPED TAKING KEYED WRITES. Every trace
-// arrived here through `POST /api/locations/ingest`, which the phone's capture loop calls while
-// Alan moves, and both landing statements were keyed writes: the day anchor went in with
-// `writePage` and the traces themselves with `writeRows`. The store refuses both unconditionally,
-// so each batch threw and the route answered 500.
+// NOTHING HAS EVER KEPT A LOCATION TRACE. Not one point has been filed, in any store, ever.
+// `public.location_traces`, the dedicated table this was designed around, took zero inserts
+// across the whole ninety days it existed, while `health_samples` took 819,479 on that same
+// counter. No `.location-traces.jsonl` has ever been committed. And no Atlas iOS build has ever
+// been recorded, so nothing has ever posted a batch to `POST /api/locations/ingest` either.
+// This is a feature that never finished, rather than data written and then orphaned.
 //
-// The two reads that stood above the writes worked — one asked which traces the day already held
-// so a repeat would not be filed twice, the other asked whether the day was paged yet. Both are
-// gone with the writes they served: reading what a batch would have deduplicated against is only
-// worth its round trips if something can then file the rest.
+// DO NOT REBUILD THIS ON THE PAGES TIER. Alan settled the storage in July and settled it against
+// exactly this: a dedicated table for GPS traces, and explicitly not the pages tier. Repointing
+// the writer onto the page store dropped that call without restating it. The whole-file put under
+// `akasha/` would make a write land here, and landing is not the same as being right. The finding
+// `nothing-has-ever-kept-a-location-trace` holds the evidence and the call taken.
 //
-// This refuses rather than returning `{ inserted: 0 }`, because a zero here would read as "the
-// phone sent nothing new" to a route that reports `inserted` straight back to the phone, and the
-// truth is that every point in the batch was dropped. A day of movement absent from the map is a
-// false statement about where Alan was.
-//
-// What a restoration wants is a body, not keys: the rows are already shaped by `rowValuesOf` in
-// `../trace-rows/trace-rows.module.code.ts`, and it is the writing side that needs somewhere to
-// land them.
-const NO_KEYED_WRITE =
-  "the page store refuses every keyed write, so a trace cannot be filed against its day"
+// THE REFUSAL IS LOAD-BEARING, SO LEAVE IT A REFUSAL. The phone acknowledges a batch only where
+// the answer is 200 and its body parses, and its buffer has no ceiling, so a throw here leaves
+// every point held on the device. Answering `{ inserted: 0 }` under a 200 would read back as
+// filed, and the phone would drop the batch for good.
+const NOTHING_KEPT =
+  "nothing has ever kept a location trace, and where one belongs is settled on its finding"
 
 export async function insertLocationTraces(
   records: readonly LocationTraceInsert[]
 ): Promise<{ inserted: number }> {
   if (records.length === 0) return { inserted: 0 }
   throw new Error(
-    `insertLocationTraces: ${records.length} location trace(s) went unkept — ${NO_KEYED_WRITE}`
+    `insertLocationTraces: ${records.length} location trace(s) went unkept — ${NOTHING_KEPT}`
   )
 }
