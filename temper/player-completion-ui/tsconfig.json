@@ -15,11 +15,7 @@
       "@types/bun"
     ]
   },
-  "references": [
-    {
-      "path": "../../shared/pages-ui"
-    }
-  ],
+  "references": [],
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx"

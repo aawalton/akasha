@@ -5,8 +5,7 @@
     "@akasha/pages-ui": "workspace:*",
     "@akasha/temper-build-metadata": "workspace:*",
     "@akasha/temper-character-build": "workspace:*",
-    "@akasha/temper-character-sources": "workspace:*",
-    "@shared/pages-ui": "workspace:*"
+    "@akasha/temper-character-sources": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

@@ -15,8 +15,7 @@
   "dependencies": {
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
-    "@akasha/temper-build-metadata": "workspace:*",
-    "@shared/pages-ui": "workspace:*"
+    "@akasha/temper-build-metadata": "workspace:*"
   },
   "peerDependencies": {
     "react": "^18 || ^19",

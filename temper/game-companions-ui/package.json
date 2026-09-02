@@ -4,8 +4,7 @@
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/temper-build-metadata": "workspace:*",
-    "@akasha/temper-companions-core": "workspace:*",
-    "@shared/pages-ui": "workspace:*"
+    "@akasha/temper-companions-core": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",
