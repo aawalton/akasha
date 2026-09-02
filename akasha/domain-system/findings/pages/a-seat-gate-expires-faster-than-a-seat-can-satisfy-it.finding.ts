@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aSeatGateExpiresFasterThanASeatCanSatisfyIt = {
+  id: "01a0607b-54f4-71c4-98c4-486cff432913",
+  pageTypeSlug: "finding",
+  slug: "a-seat-gate-expires-faster-than-a-seat-can-satisfy-it",
+  domainSlug: "workspace-package/seat-system",
+  claim:
+    "A seat's required reading expires, and a seat whose gate names many pages cannot always read them all before the first read ages out. Clearing this seat's gate took thirteen rounds: each round satisfied what the last refusal named, and by the next call another page had expired. The set is some twenty-five pages, but its transitive expansion runs past what one read answers, so it takes three calls, and three calls is long enough to lose the first.",
+  evidence:
+    "Measured on 2026-09-01 while landing one finding, with a dozen sibling seats writing into akasha at the same time.\n\nThe gate for a seat stating a persona, a role, a person and an initiative names twenty-five pages: the persona and its page type, the role and its page type, the person and its page type, the seat page type and nine of its properties, the initiative and the initiative above it, the domain that initiative names, and the page type of what is being written. Each of those pulls its own property pages in turn, so `akasha read` answers three calls' worth rather than one, capping each at 28,000 bytes.\n\nThe refusals came back in this order: the domain page type, the role, the role page type, the finding page type, the page page type; then the persona and its page type and the role again; then person-slug, registration-account, start-mode, alan; then the initiative and the temper domain; then the finding page type a second time; then the role page type; then definer; then the persona page type; then the initiative above; then start-mode a second time; then the initiative a second time. Every name that came back twice had been read minutes earlier in the same session.\n\n`akasha/temper/temper.domain.ts` moved three times inside that stretch, from 66 lines to 67 to 76, because sibling seats were landing packages into its `partSlugs`. That contention is separate and a retry settles it. Expiry is not settled by a retry, because retrying costs the time that causes it.\n\nWhat worked was pairing the read and the write inside one shell call, and reading only what the last refusal named rather than the whole set. Reading the whole set is what fails: the first page read has aged out by the time the third call answers.",
+} as const satisfies Finding
