@@ -1,6 +1,6 @@
 import type { PersonaSlug } from "@akasha/domain-system/persona-slug"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Agent } from "../../agents/agent/agent.page-type.ts"
+import type { Agent } from "../../agents/agent.page-type.ts"
 import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uuid.text-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.relation-property.ts"

@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { Agent } from "../../agents/agent/agent.page-type.ts"
+import type { Agent } from "../../agents/agent.page-type.ts"
 import type { PrincipalSeatName } from "../seat/properties/principal-seat-name.relation-property.ts"
 import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"
 
