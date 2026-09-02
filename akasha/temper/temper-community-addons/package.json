@@ -1,0 +1,19 @@
+{
+  "name": "@akasha/temper-community-addons",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./esoui-catalog": "./esoui-catalog/esoui-catalog.module.code.ts",
+    "./addon-update-plan": "./addon-update-plan/addon-update-plan.module.code.ts",
+    "./installed-addons": "./installed-addons/installed-addons.module.code.ts",
+    "./addon-download": "./addon-download/addon-download.module.code.ts",
+    "./install-named-addon": "./install-named-addon/install-named-addon.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/command-system": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
+    "extract-zip": "^2.0.1",
+    "zod": "^4.3.6"
+  }
+}
