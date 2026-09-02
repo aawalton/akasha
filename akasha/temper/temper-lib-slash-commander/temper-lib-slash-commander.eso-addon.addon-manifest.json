@@ -1,0 +1,12 @@
+{
+  "name": "LibSlashCommander",
+  "title": "LibSlashCommander",
+  "description": "Provides an interface to register slash commands with auto completion.",
+  "author": "AlanGaming",
+  "version": "1.2.0",
+  "addonVersion": 45,
+  "apiVersion": ["101050", "101051"],
+  "savedVariables": [],
+  "dependsOn": [],
+  "optionalDependsOn": []
+}

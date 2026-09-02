@@ -1,0 +1,18 @@
+{
+  "name": "@akasha/temper-lib-slash-commander",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./slash-commander-surface": "./slash-commander-surface/slash-commander-surface.module.code.ts",
+    "./slash-command": "./slash-command/slash-command.module.code.ts",
+    "./slash-commander-providers": "./slash-commander-providers/slash-commander-providers.module.code.ts",
+    "./slash-commander-chat-hooks": "./slash-commander-chat-hooks/slash-commander-chat-hooks.module.code.ts",
+    "./slash-commander-descriptions": "./slash-commander-descriptions/slash-commander-descriptions.module.code.ts",
+    "./slash-commander-messages": "./slash-commander-messages/slash-commander-messages.module.code.ts",
+    "./slash-commander-display-text": "./slash-commander-display-text/slash-commander-display-text.module.code.ts",
+    "./slash-commander-casts": "./slash-commander-casts/slash-commander-casts.module.code.ts",
+    "./slash-commander-types": "./slash-commander-types/slash-commander-types.module.code.ts",
+    "./slash-commander-declarations": "./slash-commander-declarations/slash-commander-declarations.module.code.ts",
+    "./slash-commander-entry": "./slash-commander-entry/slash-commander-entry.module.code.ts"
+  }
+}

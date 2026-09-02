@@ -38,6 +38,7 @@ export const temper = {
     "eso-addon/temper-lib-debug-logger",
     "eso-addon/temper-lib-data-encode",
     "eso-addon/temper-lib-map-pins",
+    "eso-addon/temper-lib-slash-commander",
   ],
   invariants: [
     {
