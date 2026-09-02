@@ -1,17 +1,27 @@
 "use client"
 
-import { PanelToggleContext, PanelToggleLocalContext, type PanelToggleSignal } from "@akasha/design-layout/panel-toggle-context"
+import {
+  PanelToggleContext,
+  PanelToggleLocalContext,
+  type PanelToggleSignal,
+} from "@akasha/design-layout/panel-toggle-context"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
-import { METRIC_TREE } from "@temper/game-characters-stats/metrics/metric-tree-data"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "@akasha/design-patterns/empty"
+import { METRIC_TREE } from "@akasha/temper-characters-stats/metric-tree-data"
 import {
   isMetricNode,
   isSubcategoryNode,
   type MetricTreeNode,
-} from "@temper/game-characters-stats/metrics/metric-tree-types"
-import { getMetricDisplayName } from "@temper/game-characters-stats/metrics/metrics.generated"
+} from "@akasha/temper-characters-stats/metric-tree-types"
+import { getMetricDisplayName } from "@akasha/temper-characters-stats/metrics"
 import { isNamedSource } from "@akasha/temper-formula-framework/effect-source"
+import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { Search } from "lucide-react"
 import { useCallback, useState } from "react"
 import { PanelCardSkeleton } from "@/components/characters/loading/panel-card-skeleton"
