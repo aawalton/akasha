@@ -1,13 +1,13 @@
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import type { AccountSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
 import { SubclassingSkillMorphsPanelCard } from "@akasha/temper-player-completion-skills-morphs-ui/subclassing-skill-morphs-panel-card"
 import type {
   CompletionFilter,
   CompletionSortMode,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
-import type { AccountSummaryData } from "@temper/player-completion/completion-card-registry"
 import { AccountAchievementsPanelCard } from "@/components/completion/account-achievements-panel-card"
 import { AccountCollectiblesPanelCard } from "@/components/completion/account-collectibles-panel-card"
 import { AccountPoiPanelCard } from "@/components/completion/account-poi-panel-card"
