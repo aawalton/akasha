@@ -61,6 +61,44 @@ test("operations with nothing to say are described as none having run", () => {
   expect(describeOperations([])).toBe("no operations ran")
 })
 
+test("an operation replacing one held brings its own state and moment", () => {
+  const held = {
+    kind: "import" as const,
+    name: "sales",
+    path: "/game/SavedVariables/sales.lua",
+    state: "synced" as const,
+    ranAt: "2026-08-01T00:00:00.000Z",
+    fileModifiedAt: "2026-07-31T00:00:00.000Z",
+  }
+  const merged = mergeOperations([held], [operation("sales", "file_not_found")])
+  expect(merged[0]).toMatchObject({ state: "file_not_found", ranAt: "2026-09-02T00:00:00.000Z" })
+  expect(merged[0]).not.toHaveProperty("fileModifiedAt")
+})
+
+test("an operation nothing incoming names is left untouched", () => {
+  const held = { name: "characters", state: "file_not_found", ranAt: "2026-08-01T00:00:00.000Z" }
+  const merged = mergeOperations([held], [operation("inventory", "synced")])
+  expect(merged.find((o) => o.name === "characters")).toEqual(held)
+})
+
+test("a run holding no operation leaves every operation held untouched", () => {
+  const held = [{ name: "characters" }, { name: "sales" }]
+  expect(mergeOperations(held, [])).toEqual(held)
+})
+
+test("an operation held that this build cannot read is kept whole", () => {
+  const held = { name: "somethingFromALaterBuild", unknownField: 42 }
+  const merged = mergeOperations([held], [operation("sales", "synced")])
+  expect(merged).toHaveLength(2)
+  expect(merged.find((o) => o.name === "somethingFromALaterBuild")).toEqual(held)
+})
+
+test("an operation skipped or refused at the file is no success", () => {
+  expect(allSynced([operation("a", "skipped")])).toBe(false)
+  expect(allSynced([operation("a", "file_not_found")])).toBe(false)
+  expect(allSynced([operation("a", "parse_failed")])).toBe(false)
+})
+
 test("a described operation carries its detail where it has one", () => {
   expect(
     describeOperations([operation("a", "synced"), operation("b", "parse_failed", "bad")])
