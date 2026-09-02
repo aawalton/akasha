@@ -1,15 +1,13 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { bindings } from "@akasha/code-system/eso-addon/bindings"
-import { readEsoAddonPage } from "../addon-tstl-config/addon-tstl-config.module.code.ts"
+import { readEsoAddonPage, slugBareOf } from "../addon-tstl-config/addon-tstl-config.module.code.ts"
 
 export const GAME_METADATA_DIR = "metadata"
 
 export const BINDINGS_FILE_NAME = bindings.fileName
 
 export const LUA_MODULE_SUFFIX = ".lua-module.lua.lua"
-
-export const LUA_MODULE_MARK = "lua-module/"
 
 function bindingsFileIn(dir: string): string | null {
   const beside = join(dir, BINDINGS_FILE_NAME)
@@ -29,7 +27,7 @@ export async function addonBindingsPathIn(dir: string): Promise<string | null> {
 }
 
 export function luaModulePathIn(dir: string, slug: string): string {
-  const bare = slug.startsWith(LUA_MODULE_MARK) ? slug.slice(LUA_MODULE_MARK.length) : slug
+  const bare = slugBareOf(slug)
   return join(dir, bare, `${bare}${LUA_MODULE_SUFFIX}`)
 }
 

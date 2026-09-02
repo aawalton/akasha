@@ -34,6 +34,14 @@ export const addonTstlConfig = {
       statement: "An addon page naming no bundle entry answers that nothing can be built.",
     },
     {
+      invariantKind: "constraint",
+      statement: "An addon page naming a bundle entry the folder does not hold refuses the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug naming a page drops the page type spelled ahead of the slug.",
+    },
+    {
       invariantKind: "departure",
       statement: "Every module name in the bundle is worked out from the repository root down.",
     },

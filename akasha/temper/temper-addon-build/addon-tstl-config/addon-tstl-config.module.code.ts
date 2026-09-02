@@ -66,8 +66,14 @@ export async function readEsoAddonPage(dir: string): Promise<EsoAddonPage | null
   return null
 }
 
+export function slugBareOf(slug: string): string {
+  const mark = slug.lastIndexOf("/")
+  return mark === -1 ? slug : slug.slice(mark + 1)
+}
+
 export function bundleEntryPathIn(addonDir: string, entrySlug: string): string {
-  return join(addonDir, entrySlug, `${entrySlug}${CODE_SUFFIX}`)
+  const bare = slugBareOf(entrySlug)
+  return join(addonDir, bare, `${bare}${CODE_SUFFIX}`)
 }
 
 export type TstlConfigAsked = {
@@ -117,7 +123,11 @@ export async function tstlConfigPathFor(
   const page = await readEsoAddonPage(addonDir)
   if (page === null || page.bundleEntrySlug === null) return null
   const entryPath = bundleEntryPathIn(addonDir, page.bundleEntrySlug)
-  if (!existsSync(entryPath)) return null
+  if (!existsSync(entryPath)) {
+    throw new Error(
+      `tstlConfigPathFor: the page in ${addonDir} names "${page.bundleEntrySlug}" as the bundle entry, and ${entryPath} is not there`
+    )
+  }
   const heldAt = join(repoRoot, ADDONS_REL_ROOT, HELD_AT)
   mkdirSync(heldAt, { recursive: true })
   const path = join(heldAt, `${canonicalName}.${TSCONFIG_NAME}`)

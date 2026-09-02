@@ -87,3 +87,14 @@ test("an addon page naming no bundle entry answers that nothing can be built", a
   const { root, dir } = addonFolderNaming(null)
   expect(await tstlConfigPathFor(root, dir, "TemperTableFunctions")).toBeNull()
 })
+
+test("a slug naming a page drops the page type spelled ahead of the slug", () => {
+  expect(bundleEntryPathIn("/a/temper-interface-addon", "module/interface-entry")).toBe(
+    "/a/temper-interface-addon/interface-entry/interface-entry.module.code.ts"
+  )
+})
+
+test("an addon page naming a bundle entry the folder does not hold refuses the call", async () => {
+  const { root, dir } = addonFolderNaming("gone-entry")
+  await expect(tstlConfigPathFor(root, dir, "TemperTableFunctions")).rejects.toThrow("gone-entry")
+})
