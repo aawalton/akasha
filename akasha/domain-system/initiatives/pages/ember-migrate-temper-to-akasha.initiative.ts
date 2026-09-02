@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "Temper outside akasha is 3 packages and 502 files: web 360, player-completion 85, scripts 57. The legacy `pages/temper-*` tree is fully mirrored — 5,557 markdown against 5,557 landed pages, 97 of 99 directories matching exactly — and is held rather than ablated, because two rulings conflict and a live capture path still writes there. Test recovery from `09f964f5c5` is done for scripts and for web, and 26 of 37 for player-completion.",
+        "Temper outside akasha is 3 packages and 502 files: web 360, player-completion 85, scripts 57. The legacy `pages/temper-*` tree is fully mirrored, 5,557 against 5,557, and is held rather than ablated because two rulings conflict and a live capture path still writes there. Web components cross in four seats, 116 landed and being flattened to `temper-web/<slug>/` by the depth ruling, with `.server/` its one exception.",
     },
   ],
   constraints: [
