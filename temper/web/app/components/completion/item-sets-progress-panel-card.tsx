@@ -1,12 +1,19 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import {
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+  withActivityCategories,
+} from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { SET_SUBCATEGORY_TO_ACTIVITY } from "@temper/player-completion/activity-categories"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
+import type { AccountCardId } from "@temper/player-completion/completion-card-registry"
 import type {
   ItemSetOverallProgress,
   ItemSetSubcategoryProgress,
 } from "@temper/player-completion/completion-item-set-progress"
-import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"
-import type { AccountCardId } from "@temper/player-completion/completion-card-registry"
 
 interface ItemSetsProgressPanelCardProps {
   id?: AccountCardId
