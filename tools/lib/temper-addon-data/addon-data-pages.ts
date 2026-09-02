@@ -1,25 +1,20 @@
 import { getPages } from "./pages-bridge.ts"
-import { readCatalogSidecars, type Sidecars, withSidecars } from "./catalog-sidecars.ts"
+import { withSidecars } from "./catalog-sidecars.ts"
 import type { MinedRestorePotion } from "./generators/potion-restore-metrics.ts"
 import { fetchMinedRestorePotions } from "./mined-restore-potions.ts"
 
 type PageResult = Awaited<ReturnType<typeof getPages>>
 
-const CHARACTER_SKILL_ACTIVATION_SELECT = ["skillKey", "descriptionTemplate", "effects"]
+const CHARACTER_SKILL_ACTIVATION_SELECT = ["descriptionTemplate", "activationEffects"]
 
 const COMPANION_SKILL_SELECT = [
-  "id",
-  "title",
   "key",
   "abilityId",
   "companionId",
   "skillLineId",
   "skillType",
   "description",
-  "icon",
-  "effects",
   "validRoles",
-  "castConditions",
   "tags",
   "alternateAbilityIds",
 ]
@@ -114,17 +109,12 @@ export interface AddonDataPages {
   minedRestorePotions: readonly MinedRestorePotion[]
 }
 
-async function catalogPages(
-  pageTypeSlug: string,
-  sidecars: Sidecars,
-  limit = 1000
-): Promise<PageResult> {
+async function catalogPages(pageTypeSlug: string, limit = 1000): Promise<PageResult> {
   const got = await getPages({ pageTypeSlug, limit })
-  return { ...got, rows: withSidecars(pageTypeSlug, got.rows, sidecars) }
+  return { ...got, rows: withSidecars(pageTypeSlug, got.rows) }
 }
 
 export async function fetchAddonDataPages(): Promise<AddonDataPages> {
-  const sidecars = await readCatalogSidecars()
   const [
     activityCategoryPages,
     affixScriptPages,
@@ -216,14 +206,14 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     getPages({ pageTypeSlug: "temper-activity-category", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-affix-script", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-alliance", limit: 1000 }),
-    catalogPages("temper-armor-enchant", sidecars),
+    catalogPages("temper-armor-enchant"),
     getPages({ pageTypeSlug: "temper-armor-slot", limit: 1000 }),
-    catalogPages("temper-armor-trait", sidecars),
+    catalogPages("temper-armor-trait"),
     getPages({ pageTypeSlug: "temper-armor-type", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-armor-weight", limit: 1000 }),
-    catalogPages("temper-buff-major", sidecars),
-    catalogPages("temper-buff-minor", sidecars),
-    catalogPages("temper-buff-other", sidecars),
+    catalogPages("temper-buff-major"),
+    catalogPages("temper-buff-minor"),
+    catalogPages("temper-buff-other"),
     getPages({ pageTypeSlug: "temper-character-role", limit: 1000 }),
     getPages({
       pageTypeSlug: "temper-character-skill-activation",
@@ -236,7 +226,7 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     getPages({ pageTypeSlug: "temper-companion-base-role", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-companion-equipment-quality", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-companion-jewelry-slot", limit: 1000 }),
-    catalogPages("temper-eso-companion", sidecars),
+    catalogPages("temper-eso-companion"),
     getPages({ pageTypeSlug: "temper-companion-passive-metric", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-companion-role", limit: 1000 }),
     getPages({
@@ -246,23 +236,23 @@ export async function fetchAddonDataPages(): Promise<AddonDataPages> {
     }),
     getPages({ pageTypeSlug: "temper-companion-skill-line", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-companion-skill-slot", limit: 1000 }),
-    catalogPages("temper-companion-trait", sidecars),
+    catalogPages("temper-companion-trait"),
     getPages({ pageTypeSlug: "temper-companion-weapon-role", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-companion-weapon-slot", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-companion-weapon-type", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-comparison-op", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-completion-category", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-curse", limit: 1000 }),
-    catalogPages("temper-debuff-major", sidecars),
-    catalogPages("temper-debuff-minor", sidecars),
-    catalogPages("temper-debuff-other", sidecars),
+    catalogPages("temper-debuff-major"),
+    catalogPages("temper-debuff-minor"),
+    catalogPages("temper-debuff-other"),
     getPages({ pageTypeSlug: "temper-dungeon", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-quest-giver", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-eso-companion-equipment-constant", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-eso-player-equipment-constant", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-eso-trait-map", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-focus-script", limit: 1000 }),
-    catalogPages("temper-grimoire", sidecars),
+    catalogPages("temper-grimoire"),
     getPages({ pageTypeSlug: "temper-inventory-currency", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-item-category-tree", limit: 1000 }),
     getPages({ pageTypeSlug: "temper-jewelry-enchant", limit: 1000 }),

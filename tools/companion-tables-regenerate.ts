@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from "node:fs"
+import { readFileSync, writeFileSync, existsSync } from "node:fs"
 import { join } from "node:path"
 import { getPages } from "./lib/temper-addon-data/pages-bridge.ts"
 import { withSidecars } from "./lib/temper-addon-data/catalog-sidecars.ts"
@@ -20,31 +20,11 @@ import { generateTemperCompanionWeaponType } from "@akasha/temper-addon-generato
 
 const OUT = "/tmp/claude-1000/-var-home-walton-repos/9aea5a77-be7d-4e9c-949a-307cd524e85a/scratchpad/w/gen"
 const DISK = "/var/home/walton/repos/akasha/temper/game-companions-core/src/generated"
-const PAGES = "/var/home/walton/repos/akasha/akasha/temper/temper-catalog"
 
-// Build the sidecar map from the jsonl files on disk, since the store index
-// holds no page type named temper-quality-value / temper-metric-effect.
-const sidecars = new Map<string, { at: number; values: Record<string, unknown> }[]>()
-function scan(dir: string): void {
-  for (const name of readdirSync(dir)) {
-    const full = join(dir, name)
-    if (statSync(full).isDirectory()) { scan(full); continue }
-    if (!name.endsWith(".jsonl")) continue
-    const bits = name.slice(0, -6).split(".")
-    if (bits.length !== 3) continue
-    const [named, pageType, key] = bits
-    const mark = `${pageType} ${named} ${key}`
-    const held = readFileSync(full, "utf8").trim().split("\n").filter(Boolean)
-      .map((line, at) => ({ at, values: JSON.parse(line) as Record<string, unknown> }))
-    sidecars.set(mark, held)
-  }
-}
-scan(PAGES)
-console.log("sidecar marks", sidecars.size)
 
 async function rowsOf(slug: string, select?: readonly string[]) {
   const r = await getPages({ pageTypeSlug: slug, limit: 1000, ...(select ? { select } : {}) })
-  return withSidecars(slug, r.rows, sidecars as never)
+  return withSidecars(slug, r.rows)
 }
 
 const COMPANION_SKILL_SELECT = JSON.parse(process.env.CSS ?? "null")
