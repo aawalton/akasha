@@ -3,7 +3,7 @@ import { execSync } from "node:child_process"
 import { readFileSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { asRecord } from "@akasha/utils-narrow/as-record"
-import { readMinedAccountWide } from "@temper/scripts/mined-data-parse"
+import { readMinedAccountWide } from "@akasha/temper-capture-datamining-reader/mined-data-parse"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import {

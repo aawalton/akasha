@@ -8,7 +8,7 @@ import {
   type MinedQuestRow,
   readMinedAccountWide,
   TEMPER_DATA_MINING_SIBLINGS,
-} from "../mined-data-parse"
+} from "@akasha/temper-capture-datamining-reader/mined-data-parse"
 import { detectIndent, replaceOrInsertLuaBlock } from "./export-settings-lua"
 import { withUploadRetry } from "./upload-retry"
 

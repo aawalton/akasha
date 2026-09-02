@@ -6,11 +6,11 @@ import type { Tier } from "@akasha/temper-catalog-generators/catalog-tier"
 import { COLLECTIBLES_TIER } from "@akasha/temper-catalog-generators/collectibles-catalog-tier"
 import { LORE_LIBRARY_TIER } from "@akasha/temper-catalog-generators/lore-library-catalog-tier"
 import { POI_TIER } from "@akasha/temper-catalog-generators/poi-catalog-tier"
+import { QUEST_TIER } from "@akasha/temper-catalog-generators/quest-catalog-tier"
 import { RECIPE_TIER } from "@akasha/temper-catalog-generators/recipe-catalog-tier"
 import { TRAIT_RESEARCH_TIER } from "@akasha/temper-catalog-generators/trait-research-catalog-tier"
 import { TRIBUTE_TIER } from "@akasha/temper-catalog-generators/tribute-catalog-tier"
 import { ZONE_COMPLETION_TIER } from "@akasha/temper-catalog-generators/zone-completion-catalog-tier"
-import { tier as quest } from "./tiers/quest.ts"
 
 export const TIERS: readonly Tier[] = [
   ACHIEVEMENT_TIER,
@@ -19,7 +19,7 @@ export const TIERS: readonly Tier[] = [
   COLLECTIBLES_TIER,
   LORE_LIBRARY_TIER,
   POI_TIER,
-  quest,
+  QUEST_TIER,
   RECIPE_TIER,
   TRAIT_RESEARCH_TIER,
   TRIBUTE_TIER,
