@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Every temper page type is in akasha; two the census read as short are landed finer, `temper-net-worth-day` as net-worth-hours with 3,395 readings equal and `temper-completed-month` as completed-days with 1,425 ids identical. `item`, `game` and `collection-type` are other domains'. Both watcher writers land at those grains, replayed byte for byte; none reaches the snapshot stacks grain. The mine's 188MB sweep is 22x the entry ceiling; the call taken is one entry property spanning numbered files.",
+        "Every temper page type is in akasha, two landed finer than the census read them. The mine's 188MB sweep is 22x the entry ceiling, and the call taken is one entry property spanning numbered files: 24 parts are committed, but the read side is not. `catalog-sidecars.ts:9` skips every part so the addon catalog is silently short, `clearRows` orphaned 13MB, `read-corpus.ts:258` refuses a landing over a part, and akasha's `heldIn` reads a part as a stray.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "The declarations wall is down: typecheck answers zero, from 567. Three of the thirteen modules were wholly removable, the rest trimmed, and the shared set is self-consistent, so the ESO gate is open and a new addon package lands. But an akasha eso-addon still makes no Lua: `listWorkspaceDirs` throws on `akasha/**` and the resolver wants a literal `addon.json` the grammar bars, so no addon folder goes until that is mended. The seven `-ui` packages keep to `temper/web`, as `@shared/*` bars them.",
+        "Typecheck answers zero, from 567, but that is one check of forty: the full audit exits 2 on duplication, so `--check typecheck` is never the answer. An akasha eso-addon still makes no Lua, as `listWorkspaceDirs` throws on `akasha/**` and the resolver wants a literal `addon.json` the grammar bars, so no addon folder goes until that is mended. The shared declaration set answers 11 diagnostics `skipLibCheck` hides, and a check compiling it against itself is being written.",
     },
   ],
   constraints: [
