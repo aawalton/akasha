@@ -11,7 +11,7 @@
 @source "../../../akasha/design/primitives/**/*.{ts,tsx}";
 @source "../../../shared/pages-ui/src/**/*.{ts,tsx}";
 @source "../../../akasha/pages-system/pages-ui/**/*.{ts,tsx}";
-@source "../../game-characters-equipment-ui/src/**/*.{ts,tsx}";
+@source "../../../akasha/temper/temper-characters-equipment-ui/**/*.{ts,tsx}";
 @source "../../player-completion-ui/src/**/*.{ts,tsx}";
 @source "../../player-economics-ui/src/**/*.{ts,tsx}";
 @source "../../player-inventory-management-ui/src/**/*.{ts,tsx}";
