@@ -3,24 +3,40 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./bad-truncate": "./bad-truncate/bad-truncate.module.code.ts",
+    "./companion-activation-buffs": "./companion-activation-buffs/companion-activation-buffs.module.code.ts",
     "./companion-armor-slots": "./companion-armor-slots/companion-armor-slots.module.code.ts",
     "./companion-armor-weights": "./companion-armor-weights/companion-armor-weights.module.code.ts",
     "./companion-base-roles": "./companion-base-roles/companion-base-roles.module.code.ts",
+    "./companion-description-utils": "./companion-description-utils/companion-description-utils.module.code.ts",
+    "./companion-effect-category": "./companion-effect-category/companion-effect-category.module.code.ts",
+    "./companion-effect-formatters": "./companion-effect-formatters/companion-effect-formatters.module.code.ts",
+    "./companion-effect-labels": "./companion-effect-labels/companion-effect-labels.module.code.ts",
     "./companion-equipment-qualities": "./companion-equipment-qualities/companion-equipment-qualities.module.code.ts",
+    "./companion-equipment-quality-rules": "./companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts",
     "./companion-eso-trait-map": "./companion-eso-trait-map/companion-eso-trait-map.module.code.ts",
     "./companion-jewelry-slots": "./companion-jewelry-slots/companion-jewelry-slots.module.code.ts",
     "./companion-metric-effect": "./companion-metric-effect/companion-metric-effect.module.code.ts",
     "./companion-metric-ids": "./companion-metric-ids/companion-metric-ids.module.code.ts",
     "./companion-metric-template": "./companion-metric-template/companion-metric-template.module.code.ts",
+    "./companion-passive-metrics": "./companion-passive-metrics/companion-passive-metrics.module.code.ts",
     "./companion-roles": "./companion-roles/companion-roles.module.code.ts",
+    "./companion-skill-activation-effect-types": "./companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts",
+    "./companion-skill-effect-components": "./companion-skill-effect-components/companion-skill-effect-components.module.code.ts",
+    "./companion-support-types": "./companion-support-types/companion-support-types.module.code.ts",
     "./companion-traits": "./companion-traits/companion-traits.module.code.ts",
+    "./companion-value-formula": "./companion-value-formula/companion-value-formula.module.code.ts",
+    "./companion-weapon-base-values": "./companion-weapon-base-values/companion-weapon-base-values.module.code.ts",
     "./companion-weapon-roles": "./companion-weapon-roles/companion-weapon-roles.module.code.ts",
     "./companion-weapon-slots": "./companion-weapon-slots/companion-weapon-slots.module.code.ts",
-    "./companion-weapon-types": "./companion-weapon-types/companion-weapon-types.module.code.ts"
+    "./companion-weapon-types": "./companion-weapon-types/companion-weapon-types.module.code.ts",
+    "./rotation-breakdown-rows": "./rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts",
+    "./skill-lines-by-companion": "./skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
   },
   "dependencies": {
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
+    "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/utils-narrow": "workspace:*"
   }
 }
