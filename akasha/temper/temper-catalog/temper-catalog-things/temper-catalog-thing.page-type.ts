@@ -45,6 +45,7 @@ export const temperCatalogThing = {
     "number-property/value-per-piece",
     "page-property-entry/effects",
     "page-property-entry/quality-values",
+    "text-property/achievement-name",
     "text-property/armor-weight",
     "text-property/effect",
     "text-property/effect-type",

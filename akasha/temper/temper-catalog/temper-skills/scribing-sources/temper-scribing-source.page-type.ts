@@ -20,7 +20,6 @@ export const temperScribingSource = {
   partSlugs: [
     "number-property/achievement-id",
     "page-property-entry/tier-achievements",
-    "text-property/achievement-name",
     "text-property/script-type",
     "text-property/zone-slugs",
   ],
