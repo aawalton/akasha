@@ -1,0 +1,15 @@
+{
+  "name": "@akasha/temper-completion",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./completion-progress": "./completion-progress/completion-progress.module.code.ts",
+    "./completion-record": "./completion-record/completion-record.module.code.ts",
+    "./completion-writer-schema": "./completion-writer-schema/completion-writer-schema.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-capture-host": "workspace:*",
+    "@akasha/temper-formula-framework": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
