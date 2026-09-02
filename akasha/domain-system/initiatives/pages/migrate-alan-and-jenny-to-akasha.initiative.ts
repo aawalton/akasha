@@ -14,11 +14,6 @@ export const migrateAlanAndJennyToAkasha = {
         "Five answer and Alan sees the widget working. He has ruled two off — questions and texts — leaving three: email, tasks, temper-tasks. A lane holds that ablation. `bac3dee945` went live at `0e64cf9da1`, so a readout admitted to a group answers a stoplight whether or not a reading is kept; that lets the lane tell an incomplete ablation, where the readout disappears, from a missing reading, where an empty ring shows. What is owed is the ablation and three rings confirmed.",
     },
     {
-      statement: "`akasha import health` replaces the old health import command.",
-      workingMemory:
-        "`akasha importing health` landed at 6c0d4bf605 and the workstation command went at de7ae0ca38. The slug is `importing`, not `import`: `const import` will not parse, `page-named-as-stated` judges the bound name, and an aliased export will not load, so three layers refuse the word. `akasha refactor` renames it in one call once Alan rules. Proved by running: 4 records off the macbook, all already filed, exit 0. The zip there is `export-2026-08-09.zip`, so the ten days need a fresh export.",
-    },
-    {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
         "Alan has ruled this the priority: the pod cannot answer page queries from its own checkout and must reach the pages-system-service. That checkout resets to origin at pod start and was 262 commits stale, hiding four landed readouts from his widget while they were right here. The service answers for akasha pages alone and refuses the rest by name, so a census of what the pod asks for is owed before any switch. No fallback to the checkout: that is the same defect wearing resilience.",
