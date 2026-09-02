@@ -13,6 +13,9 @@ export const faith = {
   scaleSlug: "green-day-units",
   groupSlugs: ["values"],
   wireKey: "faith",
+  querySlug: "value-green-day-units-on-day",
+  queryKey: "faith",
+  queryArgument: "value",
   invariants: [
     {
       invariantKind: "departure",

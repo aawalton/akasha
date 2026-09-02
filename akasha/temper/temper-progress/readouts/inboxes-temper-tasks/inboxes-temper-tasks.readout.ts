@@ -15,6 +15,8 @@ export const inboxesTemperTasks = {
   earnedKey: "inbox-temper-tasks-cleared-today",
   groupSlugs: ["inboxes"],
   wireKey: "temperTasks",
+  querySlug: "inbox-readings-on-day",
+  queryKey: "inbox-temper-tasks",
   invariants: [
     {
       invariantKind: "departure",
