@@ -3,7 +3,7 @@
   "dependencies": {
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
-    "@akasha/temper-eso-paths": "workspace:*",
+    "@akasha/temper-eso-paths": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"
