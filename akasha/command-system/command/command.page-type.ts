@@ -27,6 +27,7 @@ export const command = {
     "command/lint-exception",
     "command/measure",
     "command/move",
+    "command/patch",
     "command/read",
     "command/refactor",
     "command/remove",
