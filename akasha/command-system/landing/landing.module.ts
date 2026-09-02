@@ -237,8 +237,8 @@ export const landing = {
       statement: "A draft a conflict refused leaves the patch as the patch was.",
     },
     {
-      invariantKind: "gap",
-      statement: "A draft whose base moved is merged rather than refused.",
+      invariantKind: "departure",
+      statement: "A draft answers which paths the patch carries a conflict at.",
     },
   ],
 } as const satisfies Module

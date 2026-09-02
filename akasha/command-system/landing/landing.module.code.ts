@@ -52,6 +52,7 @@ export type Drafted = {
   readonly base: string
   readonly drafted: readonly string[]
   readonly patch: string | null
+  readonly clashed: readonly string[]
 }
 
 const AGAIN_WRITTEN = "nothing was written — read them again against what stands now"
@@ -292,7 +293,12 @@ function draftedBy(
     }))
   )
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
-  return { base, drafted: changes.map((one) => one.path).sort(), patch: said.patch }
+  return {
+    base,
+    drafted: changes.map((one) => one.path).sort(),
+    patch: said.patch,
+    clashed: said.clashed,
+  }
 }
 
 function commitNamed(root: string, named: string): string | null {
