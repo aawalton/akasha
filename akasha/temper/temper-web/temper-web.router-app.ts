@@ -18,5 +18,9 @@ export const temperWeb = {
     "module/tab-defaults",
     "module/temper-app-id",
     "module/watcher-dir",
+    "module/watcher-build-status",
+    "module/watcher-run-status",
+    "module/watcher-sync-status",
+    "module/watcher-token-check",
   ],
 } as const satisfies RouterApp
