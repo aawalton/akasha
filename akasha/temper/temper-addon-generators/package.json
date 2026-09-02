@@ -20,6 +20,7 @@
     "./rule-classify": "./rule-classify/rule-classify.module.code.ts",
     "./rule-types": "./rule-types/rule-types.module.code.ts",
     "./skill-line-categories": "./skill-line-categories/skill-line-categories.module.code.ts",
+    "./temper-achievement": "./temper-achievement/temper-achievement.module.code.ts",
     "./temper-affix-script": "./temper-affix-script/temper-affix-script.module.code.ts",
     "./temper-alliance": "./temper-alliance/temper-alliance.module.code.ts",
     "./temper-antiquity": "./temper-antiquity/temper-antiquity.module.code.ts",

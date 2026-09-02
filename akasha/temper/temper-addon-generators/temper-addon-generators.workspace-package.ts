@@ -24,6 +24,7 @@ export const temperAddonGenerators = {
     "module/rule-classify",
     "module/rule-types",
     "module/skill-line-categories",
+    "module/temper-achievement",
     "module/temper-affix-script",
     "module/temper-alliance",
     "module/temper-antiquity",
