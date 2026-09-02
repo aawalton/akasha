@@ -11,7 +11,11 @@ const FEATURE = 'page-tree';
 
 const SETTLE_MS = 2_000;
 
-const CORPUS_GLOB = '**/*.md';
+// THE CORPUS THIS DRAWS, which is what it must watch. The read moved to the index over `akasha/`,
+// so watching `**/*.md` watched neither end of it: an akasha page changing raised nothing, and
+// every markdown write anywhere in the checkout raised a re-read that could not differ. That is
+// 54,334 files a dozen agents write to, against 997 this draws.
+const CORPUS_GLOB = 'akasha/**/*.ts';
 
 let output: vscode.OutputChannel;
 
