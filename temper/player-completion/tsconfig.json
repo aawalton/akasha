@@ -9,11 +9,7 @@
       "@types/bun"
     ]
   },
-  "references": [
-    {
-      "path": "../game-completion"
-    }
-  ],
+  "references": [],
   "include": [
     "src/**/*.ts"
   ],
