@@ -1697,6 +1697,7 @@
     "akasha/temper/temper-player-completion": {
       "name": "@akasha/temper-player-completion",
       "dependencies": {
+        "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-characters-equipment": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",

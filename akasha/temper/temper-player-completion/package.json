@@ -52,6 +52,8 @@
     "./completion-skill-line-progress": "./completion-skill-line-progress/completion-skill-line-progress.module.code.ts",
     "./completion-skill-points-progress": "./completion-skill-points-progress/completion-skill-points-progress.module.code.ts",
     "./completion-subclassing-progress": "./completion-subclassing-progress/completion-subclassing-progress.module.code.ts",
+    "./completion-summary": "./completion-summary/completion-summary.module.code.ts",
+    "./completion-summary-account": "./completion-summary-account/completion-summary-account.module.code.ts",
     "./completion-summary-companion": "./completion-summary-companion/completion-summary-companion.module.code.ts",
     "./completion-trait-research-progress": "./completion-trait-research-progress/completion-trait-research-progress.module.code.ts",
     "./completion-transforms": "./completion-transforms/completion-transforms.module.code.ts",
@@ -70,6 +72,7 @@
   },
   "dependencies": {
     "@akasha/temper-character-skills": "workspace:*",
+    "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-characters-equipment": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
