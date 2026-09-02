@@ -6,7 +6,7 @@ import { Textarea } from "@akasha/design-primitives/textarea"
 import { cn } from "@akasha/design-primitives/cn"
 import { useEffect, useRef, useState } from "react"
 
-import { MarkdownRenderer } from "../markdown/markdown-renderer"
+import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
 import type { PropertyBadgeProps } from "./property-badge"
 
 const FILL_EDITOR_CLASS =

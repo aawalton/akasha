@@ -3,7 +3,7 @@
 import { patchPage } from "@akasha/pages-access/patch"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import { useAllPages } from "@shared/pages-ui/supabase/hooks"
+import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { useCallback } from "react"

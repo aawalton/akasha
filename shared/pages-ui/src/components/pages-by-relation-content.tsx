@@ -9,13 +9,13 @@ import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-res
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { renderBareListingCard } from "./bare-listing-card"
 import { PageSystemTabContent } from "./page-system-view"
-import { PageSystemShell } from "./page-system-shell"
+import { PageSystemShell } from "@akasha/pages-ui-components/page-system-shell"
 import { viewConfigToListingParams } from "@akasha/pages-ui-components/synthetic-config"
 import { useGalleryViewProps } from "@akasha/pages-ui-components/use-gallery-view-props"
 import { useNotesViewProps } from "@akasha/pages-ui-components/use-notes-view-props"
 import { usePagesFilteredHrefs } from "@akasha/pages-ui-components/use-pages-filtered-hrefs"
 import { usePagesFilteredMutations } from "@akasha/pages-ui-components/use-pages-filtered-mutations"
-import { usePagesFilteredQuery } from "./use-pages-filtered-query"
+import { usePagesFilteredQuery } from "@akasha/pages-ui-components/use-pages-filtered-query"
 
 const RELATION_TARGET_SLUG = "page"
 

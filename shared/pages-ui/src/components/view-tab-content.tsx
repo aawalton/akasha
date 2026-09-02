@@ -20,7 +20,7 @@ import { usePropertyChangePerfHandler } from "@akasha/pages-ui-components/use-pr
 import { useReorderViewWiring } from "@akasha/pages-ui-components/use-reorder-view-wiring"
 import { useViewConfigHandlers } from "@akasha/pages-ui-components/use-view-config-handlers"
 import { useViewRowHandlers } from "@akasha/pages-ui-components/use-view-row-handlers"
-import { useViewTabContentData } from "./use-view-tab-content-data.ts"
+import { useViewTabContentData } from "@akasha/pages-ui-components/use-view-tab-content-data"
 import { buildRelationBackLinkHref, buildRowHref } from "@akasha/pages-ui-components/view-tab-content-href"
 
 export function ViewTabContent({

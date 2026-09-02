@@ -13,7 +13,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { z } from "zod"
 import { useNavMutations } from "@akasha/pages-ui/supabase/use-nav-mutations"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
-import { NavCountBadge } from "./nav-count-badge"
+import { NavCountBadge } from "@akasha/pages-ui-components/nav-count-badge"
 import { parseShowCountBadge } from "@akasha/pages-ui-components/nav-count-badge-decider"
 import { NavItemActions } from "@akasha/pages-ui-components/nav-item-actions"
 

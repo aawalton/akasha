@@ -14,8 +14,6 @@
     "./components/quick-add/create-page-dialog": "./src/components/quick-add/create-page-dialog.tsx",
     "./components/use-app-nav-items": "./src/components/use-app-nav-items.tsx",
     "./components/view-page-content": "./src/components/view-page-content.tsx",
-    "./media/page-media-player": "./src/media/page-media-player.tsx",
-    "./media/playing-session-context": "./src/media/playing-session-context.tsx",
     "./*": "./src/*.ts"
   },
   "peerDependencies": {

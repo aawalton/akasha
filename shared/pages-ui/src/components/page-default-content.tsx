@@ -11,16 +11,16 @@ import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { BlockEditor } from "../block-editor/block-editor"
-import { MarkdownRenderer } from "../markdown/markdown-renderer"
+import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
 import { MultiRelationPropertyBadge } from "../property-types/multi-relation"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
 import { PageCover } from "@akasha/pages-ui-components/page-cover"
 import { PageDetailHeaderMenu } from "@akasha/pages-ui-components/page-detail-header-menu"
 import { PageDetailProperties } from "./page-detail-properties"
-import { PageDetailReferrers } from "./page-detail-referrers"
-import { hasValue, JsonSectionRenderer, ToggleSection } from "./page-detail-sections"
+import { PageDetailReferrers } from "@akasha/pages-ui-components/page-detail-referrers"
+import { hasValue, JsonSectionRenderer, ToggleSection } from "@akasha/pages-ui-components/page-detail-sections"
 import { PageDetailSubpages } from "./page-detail-subpages"
-import { usePageDefaultContent } from "./use-page-default-content"
+import { usePageDefaultContent } from "@akasha/pages-ui-components/use-page-default-content"
 
 export function PageDefaultContent({
   pageTypeSlug,

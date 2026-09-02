@@ -1,5 +1,5 @@
 import { Toaster } from "@akasha/design-primitives/sonner"
-import { PlayingSessionProvider } from "@shared/pages-ui/media/playing-session-context"
+import { PlayingSessionProvider } from "@akasha/pages-ui/media/playing-session-context"
 import { SupabaseProvider } from "@akasha/supabase-rr/supabase-provider"
 import { Outlet } from "react-router"
 import { AppShell } from "~/components/app-shell"

@@ -2,7 +2,7 @@
 
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PagesFilteredContent } from "@shared/pages-ui/components/pages-by-relation-content"
-import { useAllPages } from "@shared/pages-ui/supabase/hooks"
+import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { useMemo } from "react"
 import { useParams, useSearchParams } from "react-router"
 
