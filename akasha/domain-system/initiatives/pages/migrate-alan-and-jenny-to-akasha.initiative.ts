@@ -21,7 +21,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "`akasha import health` replaces the old health import command.",
       workingMemory:
-        "Alan's direction: the import migrates, and a backfill runs through it once the phone-side automation works. `tools/commands/elaine/health-import.ts:154` calls `upsertHealthSamples` from the workstation over ssh, the one path landing samples without the web route. Readings stopped 2026-08-23; the phone posts only when an App Intent is invoked, and the deployed build throws on every sample, so ten days wait on both. `landDay` carries no test, which is how that throw shipped.",
+        "`akasha importing health` landed at 6c0d4bf605 and the workstation command went at de7ae0ca38. The slug is `importing`, not `import`: `const import` will not parse, `page-named-as-stated` judges the bound name, and an aliased export will not load, so three layers refuse the word. `akasha refactor` renames it in one call once Alan rules. Proved by running: 4 records off the macbook, all already filed, exit 0. The zip there is `export-2026-08-09.zip`, so the ten days need a fresh export.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
