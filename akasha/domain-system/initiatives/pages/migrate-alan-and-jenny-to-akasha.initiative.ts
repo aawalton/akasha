@@ -16,17 +16,17 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reads a readout through the markdown engine.",
       workingMemory:
-        "Confirmed by running at `9966927988`: asked for five past days, `upkeep-plants` and `inboxes-email` each gave one answer while the seven day-taking lights moved across the same keys. `dayGiven` now refuses a clock-relative query asked for a day that is not the clock's, and the refusal reaches `SourcePointsRefusal`, so no figure is written. All 79 `amy-*` persona-days from 2026-06-11 were scored through it; none was rewritten. Email is un-recomputable past its 13 pages.",
+        "Measured under `strace` at 13:19: `readoutCatalog()` opens 15 `*.readout.md` and no `*.readout.ts`, and `resolveReadoutGroup` answers upkeep 6, inboxes 3, values 6, surplus 1, safety 1, every one out of markdown. The reach is `readout-catalog.ts:4-6`, which value-imports three `page/` modules, and `readout.page-type.md:6` declaring `files: akasha:**/*.readout.md`, so the table points at markdown by construction. Two callers sit outside: `ios-widget-swift.ts:93` and `surplus-fall/tick.ts:95`.",
     },
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "The escapes were counted as import statements and that undercounted them. Measured transitively at `cec44ee09a`, the extension program holds 197 files outside its folder: tools/ 116, akasha/ 35, page/ 35, repo/ 7, agent/ 2. Six relative reaches became `@tools/lib` names, which changed the spelling and not the program, since the wildcard resolves to raw `.ts`. The readouts reaches went with the values slot. Composite refuses on 60 of these.",
+        "Re-derived at 13:22 with `ts.preProcessFile`, three runs identical and no specifier unresolved: the extension program holds 306 files outside its folder, not 197. tools/ 66, akasha/ 194, page/ 35, repo/ 7, agent/ 2, refusal/ 1, patches/ 1. The old five buckets summed to 195 and were read off a build from 10:56. Direction is right: akasha 35 to 194 while tools 116 to 66. The folder has not moved, though: 76 files under `src`, a workspace member, and `code-editor/extensions/ops` symlinks to it.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "The census is in at `9445bc2c0f` and it inverts the premise: no live page read in the deployed app reaches the pod's own checkout. The second reader is Alan's editor, where `askHere` asks the checkout first and reaches the service only on one refusal word, so a wrong answer and an absent one take the same road. The 262 was no lasting condition, and a reading is written to a `*.uncommitted.*` file and never committed, so no freshness ever carried one.",
+        "The note censused which store answers a read; the statement asks which engine is in the path, and both halves fail. The write half runs now: `page-query-landing.ts:14` routes to `page-write.ts` over checkout markdown, and `observation-writer-main.ts` was live, with 86 `pages/**.uncommitted.yaml` touched in an hour. The read half was severed rather than migrated at `fbf73c4710`; two entry modules were put back at `f9307ff1dc`, so importers resolve again. `askHere` is gone for good.",
     },
     {
       statement: "`pages-ui` stands in akasha.",
