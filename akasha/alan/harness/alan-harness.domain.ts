@@ -27,7 +27,7 @@ export const alanHarness = {
     "workspace-package/google-drive",
     "workspace-package/google-calendar",
     "workspace-package/calendar-sync",
-    "workspace-package/email-google",
+    "workspace-package/google-email",
     "workspace-package/imessage",
     "workspace-package/health-samples-access",
     "workspace-package/health-samples-day",

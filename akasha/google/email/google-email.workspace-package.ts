@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
 
-export const emailGoogle = {
+export const googleEmail = {
   id: "01a05c0e-372c-7620-9bcc-082febbe3f5b",
   pageTypeSlug: "workspace-package",
-  slug: "email-google",
+  slug: "google-email",
   definition: "Alan's Gmail mailbox read, written to and kept in order",
   manifest: "json",
   partSlugs: [
