@@ -7,10 +7,8 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
-import {
-  companionWeaponRoles,
-  getWeaponRole,
-} from "@temper/game-companions-core/equipment/companion-weapon-roles-data"
+import { companionWeaponRoles } from "@akasha/temper-companions-core/companion-weapon-roles"
+import { getWeaponRole } from "@akasha/temper-companions-core/companion-weapon-role-match"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 

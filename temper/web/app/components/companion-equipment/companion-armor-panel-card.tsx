@@ -13,10 +13,10 @@ import {
   type CompanionArmorSlotId,
   companionArmorSlots,
 } from "@akasha/temper-companions-core/companion-armor-slots"
-import { getCompanionArmorIcon } from "@temper/game-companions-core/equipment/companion-equipment-icons-data"
+import { getCompanionArmorIcon } from "@akasha/temper-companions-core/companion-equipment-icons"
 import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { AVAILABLE_QUALITY_OPTIONS } from "@temper/game-companions-core/equipment/companion-equipment-quality-rules"
+import { AVAILABLE_QUALITY_OPTIONS } from "@akasha/temper-companions-core/companion-equipment-quality-rules"
 import {
   type CompanionTraitId,
   companionTraits,

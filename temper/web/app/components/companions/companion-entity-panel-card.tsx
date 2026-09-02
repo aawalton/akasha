@@ -10,17 +10,11 @@ import {
   companionBaseRoles,
   getBaseRoleName,
 } from "@akasha/temper-companions-core/companion-base-roles"
-import {
-  type ComboRankingsMap,
-  displayRoleComboKey,
-  mapBaseRolesToDisplayRoles,
-} from "@temper/game-companions-core/companion-leaderboard"
+import { type ComboRankingsMap, displayRoleComboKey, mapBaseRolesToDisplayRoles } from "@akasha/temper-companions-core/companion-leaderboard"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
-import {
-  companionWeaponRoles,
-  getWeaponRole,
-} from "@temper/game-companions-core/equipment/companion-weapon-roles-data"
+import { companionWeaponRoles } from "@akasha/temper-companions-core/companion-weapon-roles"
+import { getWeaponRole } from "@akasha/temper-companions-core/companion-weapon-role-match"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { Search, Trophy } from "lucide-react"

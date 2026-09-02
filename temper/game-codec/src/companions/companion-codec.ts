@@ -1,5 +1,5 @@
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import { registerCompanionDecoder } from "@temper/game-companions-core/optimizer/reference-build-data"
+import { registerCompanionDecoder } from "@akasha/temper-companions-core/reference-build-data"
 import type { BuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import { base64urlToBytes, bytesToBase64url } from "../binary-utils"

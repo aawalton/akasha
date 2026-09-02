@@ -20,9 +20,6 @@
       "path": "../game-codec"
     },
     {
-      "path": "../game-companions-core"
-    },
-    {
       "path": "../game-companions-ui"
     },
     {

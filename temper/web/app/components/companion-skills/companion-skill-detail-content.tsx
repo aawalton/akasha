@@ -5,12 +5,9 @@ import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { COLUMN_WIDTH } from "@akasha/design-layout/layout-data"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { capitalize } from "@akasha/utils-narrow/capitalize"
-import { sortEffectsByCategory } from "@temper/game-companions-core/effect-display/effect-category"
-import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
-import {
-  extractPrimaryTargeting,
-  updateDescriptionWithCalculatedValues,
-} from "@temper/game-companions-core/formulas/companion-skill-tooltip"
+import { sortEffectsByCategory } from "@akasha/temper-companions-core/companion-effect-category"
+import type { CompanionFormulaStats } from "@akasha/temper-companions-core/companion-skill-formula"
+import { extractPrimaryTargeting, updateDescriptionWithCalculatedValues } from "@akasha/temper-companions-core/companion-skill-tooltip"
 import type { CompanionSkillTemplate } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
 import { extractSkillTiming } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
 import { isResourceCostEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"

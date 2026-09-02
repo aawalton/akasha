@@ -4,11 +4,8 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Text } from "@akasha/design-primitives/text-body"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import {
-  type CompanionMetricGroup,
-  getCompanionMetricTree,
-} from "@temper/game-companions-core/stats/companion-metric-tree"
-import type { CompanionMetricValue } from "@temper/game-companions-core/stats/companion-metrics.generated"
+import { type CompanionMetricGroup, getCompanionMetricTree } from "@akasha/temper-companions-core/companion-metric-tree"
+import type { CompanionMetricValue } from "@akasha/temper-companions-core/companion-metrics"
 import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import { type ReactNode, useMemo, useState } from "react"
 import { CompanionRotationBreakdownPanelCard } from "@/components/companion-skills/companion-rotation-breakdown-panel-card"

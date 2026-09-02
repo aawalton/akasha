@@ -15,8 +15,7 @@
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
-    "@temper/game-characters-skills": "workspace:*",
-    "@temper/game-companions-core": "workspace:*"
+    "@temper/game-characters-skills": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

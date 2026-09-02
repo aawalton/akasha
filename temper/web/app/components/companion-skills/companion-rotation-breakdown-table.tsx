@@ -1,14 +1,8 @@
 "use client"
 
 import { formatCompact, formatFull, formatPercent, formatPercentFull, Table, TableBody, TableCell, TableHead, TableHeader, TableRow, TableRowLabel, TableTotalCell, TableValue } from "@akasha/design-primitives/table"
-import {
-  type RotationBreakdownRowId,
-  rotationBreakdownRows,
-} from "@temper/game-companions-core/rotation-breakdown-row-data"
-import {
-  buildSlotData,
-  computeRotationTotals,
-} from "@temper/game-companions-core/stats/companion-rotation-slot-data"
+import { type RotationBreakdownRowId, rotationBreakdownRows } from "@akasha/temper-companions-core/rotation-breakdown-rows"
+import { buildSlotData, computeRotationTotals } from "@akasha/temper-companions-core/companion-rotation-slot"
 import type { SkillBreakdownTableProps } from "@/components/companion-skills/companion-rotation-breakdown-types"
 import { SkillColumnHeader } from "@/components/companion-skills/companion-rotation-skill-column-header"
 

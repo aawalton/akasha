@@ -17,9 +17,6 @@
       "path": "../game-codec"
     },
     {
-      "path": "../game-companions-core"
-    },
-    {
       "path": "../game-items-core"
     },
     {

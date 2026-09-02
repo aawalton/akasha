@@ -2,7 +2,7 @@
 
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
-import type { CompanionStatsResult } from "@temper/game-companions-core/stats/companion-stats-calculator-impl"
+import type { CompanionStatsResult } from "@akasha/temper-companions-core/companion-stats-result"
 import { usePlayerByUserId } from "@temper/player-profile/use-player"
 import { CompanionListPanelCard } from "@/components/companions/companion-list-panel-card"
 

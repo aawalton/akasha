@@ -1,14 +1,11 @@
 "use client"
 
-import { computeSoothingHealingDone } from "@temper/game-companions-core/equipment/companion-traits-data"
-import {
-  type CompanionFormulaStats,
-  extractNonSoothingHealingDoneSources,
-} from "@temper/game-companions-core/formulas/companion-skill-formula"
-import type { RotationResult } from "@temper/game-companions-core/rotation/rotation-types"
+import { computeSoothingHealingDone } from "@akasha/temper-companions-core/companion-soothing-healing"
+import { type CompanionFormulaStats, extractNonSoothingHealingDoneSources } from "@akasha/temper-companions-core/companion-skill-formula"
+import type { RotationResult } from "@akasha/temper-companions-core/rotation-types"
 import type { CompanionScalingMetricId } from "@akasha/temper-companions-core/companion-value-formula"
-import type { CompanionEffectSource } from "@temper/game-companions-core/stats/companion-effect-sources"
-import type { CompanionMetricValue } from "@temper/game-companions-core/stats/companion-metrics.generated"
+import type { CompanionEffectSource } from "@akasha/temper-companions-core/companion-effect-sources"
+import type { CompanionMetricValue } from "@akasha/temper-companions-core/companion-metrics"
 import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 import { createContext, type ReactNode, useMemo } from "react"
 import { useCompanionStatsCalculation } from "@/components/companion-skills/hooks/use-companion-stats-calculation"

@@ -2,18 +2,10 @@ import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import {
-  formatDamageType,
-  formatTargetInfo,
-} from "@temper/game-companions-core/effect-display/effect-formatters"
-import {
-  formatBuffType,
-  formatDebuffType,
-  formatSpecialEffect,
-  formatStatusEffect,
-} from "@temper/game-companions-core/effect-display/effect-labels"
-import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
-import { calculateEffectValue } from "@temper/game-companions-core/formulas/companion-skill-tooltip"
+import { formatDamageType, formatTargetInfo } from "@akasha/temper-companions-core/companion-effect-formatters"
+import { formatBuffType, formatDebuffType, formatSpecialEffect, formatStatusEffect } from "@akasha/temper-companions-core/companion-effect-labels"
+import type { CompanionFormulaStats } from "@akasha/temper-companions-core/companion-skill-formula"
+import { calculateEffectValue } from "@akasha/temper-companions-core/companion-skill-tooltip"
 import type { CompanionEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
 import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
 

@@ -8,7 +8,6 @@
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-character": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
-    "@temper/game-companions-core": "workspace:*",
     "@temper/game-items-core": "workspace:*"
   },
   "devDependencies": {

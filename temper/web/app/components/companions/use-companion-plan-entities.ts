@@ -2,10 +2,7 @@ import {
   type CompanionBaseRoleId,
   companionBaseRoles,
 } from "@akasha/temper-companions-core/companion-base-roles"
-import {
-  type DecodedBuild,
-  getBuildScoreWithAllRolesFallback,
-} from "@temper/game-companions-core/companion-leaderboard"
+import { type DecodedBuild, getBuildScoreWithAllRolesFallback } from "@akasha/temper-companions-core/companion-leaderboard"
 import { type CompanionId, companions } from "@akasha/temper-companions-core/companions"
 import { useMemo } from "react"
 import type { CompanionPlanEntity } from "@/components/companions/companion-entity-panel-card"

@@ -9,12 +9,10 @@ import {
 } from "@akasha/temper-companions-core/companion-base-roles"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
-import {
-  companionWeaponRoles,
-  getWeaponRole,
-} from "@temper/game-companions-core/equipment/companion-weapon-roles-data"
-import { calculateCompanionStats } from "@temper/game-companions-core/stats/companion-stats-calculator"
-import { type CompanionStatsResult } from "@temper/game-companions-core/stats/companion-stats-calculator-impl"
+import { companionWeaponRoles } from "@akasha/temper-companions-core/companion-weapon-roles"
+import { getWeaponRole } from "@akasha/temper-companions-core/companion-weapon-role-match"
+import { calculateCompanionStats } from "@akasha/temper-companions-core/companion-stats-calculator"
+import { type CompanionStatsResult } from "@akasha/temper-companions-core/companion-stats-result"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 

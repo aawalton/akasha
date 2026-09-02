@@ -12,9 +12,6 @@
   "references": [
     {
       "path": "../game-characters-character"
-    },
-    {
-      "path": "../game-companions-core"
     }
   ],
   "include": [

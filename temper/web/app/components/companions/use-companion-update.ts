@@ -1,7 +1,4 @@
-import {
-  createEquipmentForBaseRoles,
-  equipmentMatchesBaseRoleDefaults,
-} from "@temper/game-companions-core/companion-factory"
+import { createEquipmentForBaseRoles, equipmentMatchesBaseRoleDefaults } from "@akasha/temper-companions-core/companion-factory"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import {

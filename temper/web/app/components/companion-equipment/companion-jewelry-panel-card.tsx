@@ -8,14 +8,10 @@ import { ItemCard } from "@akasha/design-patterns/item-card"
 import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import type { CompanionJewelrySlotItem } from "@akasha/temper-companions-core/companion-types"
-import { getCompanionJewelryIcon } from "@temper/game-companions-core/equipment/companion-equipment-icons-data"
+import { getCompanionJewelryIcon } from "@akasha/temper-companions-core/companion-equipment-icons"
 import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import {
-  capQualityForSlot,
-  getAvailableQualityOptions,
-  LEGENDARY_QUALITY_OPTIONS,
-} from "@temper/game-companions-core/equipment/companion-equipment-quality-rules"
+import { capQualityForSlot, getAvailableQualityOptions, LEGENDARY_QUALITY_OPTIONS } from "@akasha/temper-companions-core/companion-equipment-quality-rules"
 import { type CompanionJewelrySlotId } from "@akasha/temper-companions-core/companion-jewelry-slots"
 import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
 import {

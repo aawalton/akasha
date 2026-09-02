@@ -1,10 +1,10 @@
 import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
-import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
-import type { SkillUsageSummary } from "@temper/game-companions-core/rotation/rotation-types"
-import type { RotationBreakdownRowId } from "@temper/game-companions-core/rotation-breakdown-row-data"
+import type { CompanionFormulaStats } from "@akasha/temper-companions-core/companion-skill-formula"
+import type { SkillUsageSummary } from "@akasha/temper-companions-core/rotation-types"
+import type { RotationBreakdownRowId } from "@akasha/temper-companions-core/rotation-breakdown-rows"
 import type { CompanionSkillSlotId } from "@akasha/temper-companions-core/companion-skill-slots"
 import type { CompanionSkillId } from "@akasha/temper-companions-core/companion-skills"
-import type { CompanionMetricValue } from "@temper/game-companions-core/stats/companion-metrics.generated"
+import type { CompanionMetricValue } from "@akasha/temper-companions-core/companion-metrics"
 import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
 
 export function getPrimaryRows(

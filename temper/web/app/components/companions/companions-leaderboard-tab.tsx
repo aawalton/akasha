@@ -8,7 +8,7 @@ import { FilterButton } from "@akasha/design-patterns/filter-button"
 import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { TabsContent } from "@akasha/design-patterns/tabs"
-import type { Build, ComboRankingsMap } from "@temper/game-companions-core/companion-leaderboard"
+import type { Build, ComboRankingsMap } from "@akasha/temper-companions-core/companion-leaderboard"
 import { useCallback, useState } from "react"
 import { CompanionLeaderboardContent } from "@/components/companions/companion-leaderboard-content"
 import {

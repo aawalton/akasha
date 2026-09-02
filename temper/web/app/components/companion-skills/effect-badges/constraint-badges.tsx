@@ -1,10 +1,6 @@
 import { Badge } from "@akasha/design-badges/badge"
 import type { EffectCondition } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
-import {
-  formatEnemyType,
-  formatStatusType,
-  formatWeaponType,
-} from "@temper/game-companions-core/effect-display/effect-formatters"
+import { formatEnemyType, formatStatusType, formatWeaponType } from "@akasha/temper-companions-core/companion-effect-formatters"
 import type { BadgeVariant } from "@/components/companion-skills/effect-badges/types"
 
 interface ConstraintBadgesProps {

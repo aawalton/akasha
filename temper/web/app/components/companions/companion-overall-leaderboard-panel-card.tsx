@@ -5,7 +5,7 @@ import { Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, 
 import { cn } from "@akasha/design-primitives/cn"
 import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
 import { getBaseRoleName } from "@akasha/temper-companions-core/companion-base-roles"
-import { type Build, getBuildScore } from "@temper/game-companions-core/companion-leaderboard"
+import { type Build, getBuildScore } from "@akasha/temper-companions-core/companion-leaderboard"
 import { type CompanionId, companions } from "@akasha/temper-companions-core/companions"
 import { useMemo } from "react"
 

@@ -12,7 +12,6 @@
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters": "workspace:*",
     "@temper/game-codec": "workspace:*",
-    "@temper/game-companions-core": "workspace:*",
     "@temper/game-companions-ui": "workspace:*",
     "@temper/game-items-core": "workspace:*",
     "@temper/player-completion-ui": "workspace:*",

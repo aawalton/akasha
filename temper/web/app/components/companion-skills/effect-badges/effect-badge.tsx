@@ -1,18 +1,9 @@
 import { Badge } from "@akasha/design-badges/badge"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import {
-  formatCooldown,
-  formatDamageType,
-} from "@temper/game-companions-core/effect-display/effect-formatters"
-import {
-  formatBuffType,
-  formatDebuffType,
-  formatPassiveMetric,
-  formatSpecialEffect,
-  formatStatusEffect,
-} from "@temper/game-companions-core/effect-display/effect-labels"
-import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
-import { calculateEffectValue } from "@temper/game-companions-core/formulas/companion-skill-tooltip"
+import { formatCooldown, formatDamageType } from "@akasha/temper-companions-core/companion-effect-formatters"
+import { formatBuffType, formatDebuffType, formatPassiveMetric, formatSpecialEffect, formatStatusEffect } from "@akasha/temper-companions-core/companion-effect-labels"
+import type { CompanionFormulaStats } from "@akasha/temper-companions-core/companion-skill-formula"
+import { calculateEffectValue } from "@akasha/temper-companions-core/companion-skill-tooltip"
 import type { CompanionEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
 import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
 import type {

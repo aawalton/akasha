@@ -5,7 +5,6 @@
     "@akasha/temper-equipment": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
-    "@temper/game-companions-core": "workspace:*",
     "@temper/game-items-core": "workspace:*",
     "@temper/game-items-rules-core": "workspace:*",
     "@temper/game-items-rules-eval": "workspace:*"

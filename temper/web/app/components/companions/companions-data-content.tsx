@@ -8,12 +8,7 @@ import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-
 import { applyCompanionMetadata } from "@temper/game-characters/build-metadata"
 import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
 import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
-import {
-  buildOverallRankMap,
-  buildRankingsMap,
-  displayRoleComboKey,
-  mapBaseRolesToDisplayRoles,
-} from "@temper/game-companions-core/companion-leaderboard"
+import { buildOverallRankMap, buildRankingsMap, displayRoleComboKey, mapBaseRolesToDisplayRoles } from "@akasha/temper-companions-core/companion-leaderboard"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { useAllCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"

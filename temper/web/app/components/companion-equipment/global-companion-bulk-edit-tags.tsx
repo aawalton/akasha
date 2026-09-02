@@ -2,12 +2,9 @@
 
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
-import {
-  bulkUpdateAllCompanionQualities,
-  bulkUpdateAllCompanionTraits,
-} from "@temper/game-companions-core/equipment/companion-bulk-update-equipment"
+import { bulkUpdateAllCompanionQualities, bulkUpdateAllCompanionTraits } from "@akasha/temper-companions-core/companion-bulk-update-equipment"
 import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { LEGENDARY_QUALITY_OPTIONS } from "@temper/game-companions-core/equipment/companion-equipment-quality-rules"
+import { LEGENDARY_QUALITY_OPTIONS } from "@akasha/temper-companions-core/companion-equipment-quality-rules"
 import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
 import {
   type CompanionTraitId,

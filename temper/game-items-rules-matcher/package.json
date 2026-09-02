@@ -11,7 +11,6 @@
     "@temper/game-characters-equipment": "workspace:*",
     "@temper/game-characters-skills-morphs-access": "workspace:*",
     "@temper/game-codec": "workspace:*",
-    "@temper/game-companions-core": "workspace:*",
     "@temper/game-items-core": "workspace:*",
     "@temper/game-items-rules-core": "workspace:*",
     "@temper/game-items-rules-eval": "workspace:*",

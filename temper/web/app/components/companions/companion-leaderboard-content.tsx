@@ -2,12 +2,7 @@
 
 import { collapseCard, scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import {
-  type Build,
-  type ComboRankingsMap,
-  compareDisplayRoleCombos,
-  displayRoleComboKey,
-} from "@temper/game-companions-core/companion-leaderboard"
+import { type Build, type ComboRankingsMap, compareDisplayRoleCombos, displayRoleComboKey } from "@akasha/temper-companions-core/companion-leaderboard"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { companions } from "@akasha/temper-companions-core/companions"
 import { useCallback, useMemo } from "react"

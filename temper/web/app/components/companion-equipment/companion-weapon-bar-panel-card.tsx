@@ -8,10 +8,10 @@ import { ItemCard } from "@akasha/design-patterns/item-card"
 import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import type { CompanionWeaponSlotItem } from "@akasha/temper-companions-core/companion-types"
-import { getCompanionWeaponIcon } from "@temper/game-companions-core/equipment/companion-equipment-icons-data"
+import { getCompanionWeaponIcon } from "@akasha/temper-companions-core/companion-equipment-icons"
 import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { AVAILABLE_QUALITY_OPTIONS } from "@temper/game-companions-core/equipment/companion-equipment-quality-rules"
+import { AVAILABLE_QUALITY_OPTIONS } from "@akasha/temper-companions-core/companion-equipment-quality-rules"
 import {
   type CompanionTraitId,
   companionTraits,

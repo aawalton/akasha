@@ -1,8 +1,5 @@
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import {
-  type CompanionSuggestion,
-  generateSuggestions,
-} from "@temper/game-companions-core/optimizer/companion-suggestion-generator"
+import { type CompanionSuggestion, generateSuggestions } from "@akasha/temper-companions-core/companion-suggestion-generator"
 import { useMemo } from "react"
 
 export function useCompanionSuggestions(build: CompanionState): readonly CompanionSuggestion[] {

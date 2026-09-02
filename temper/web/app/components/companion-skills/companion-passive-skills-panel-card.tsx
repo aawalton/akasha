@@ -4,7 +4,7 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { companions } from "@akasha/temper-companions-core/companions"
 import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
-import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
+import type { CompanionFormulaStats } from "@akasha/temper-companions-core/companion-skill-formula"
 import {
   type CompanionSkillId,
   companionSkills,

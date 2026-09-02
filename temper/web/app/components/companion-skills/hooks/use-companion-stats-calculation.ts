@@ -1,9 +1,9 @@
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import type { RotationResult } from "@temper/game-companions-core/rotation/rotation-types"
-import type { CompanionMetricValue } from "@temper/game-companions-core/stats/companion-metrics.generated"
+import type { RotationResult } from "@akasha/temper-companions-core/rotation-types"
+import type { CompanionMetricValue } from "@akasha/temper-companions-core/companion-metrics"
 import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
-import { calculateCompanionStats } from "@temper/game-companions-core/stats/companion-stats-calculator"
-import { type CompanionEffectSource } from "@temper/game-companions-core/stats/companion-effect-sources"
+import { calculateCompanionStats } from "@akasha/temper-companions-core/companion-stats-calculator"
+import { type CompanionEffectSource } from "@akasha/temper-companions-core/companion-effect-sources"
 import { useEffect, useState } from "react"
 
 export function useCompanionStatsCalculation(build: CompanionState) {

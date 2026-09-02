@@ -13,7 +13,6 @@
     "@temper/game-characters-skills": "workspace:*",
     "@temper/game-characters-skills-morphs-access": "workspace:*",
     "@temper/game-characters-skills-morphs-core": "workspace:*",
-    "@temper/game-companions-core": "workspace:*",
     "@temper/game-completion": "workspace:*"
   },
   "devDependencies": {

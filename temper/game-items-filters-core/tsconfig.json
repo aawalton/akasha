@@ -11,9 +11,6 @@
   },
   "references": [
     {
-      "path": "../game-companions-core"
-    },
-    {
       "path": "../game-characters-equipment"
     },
     {

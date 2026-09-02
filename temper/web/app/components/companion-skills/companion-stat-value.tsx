@@ -1,4 +1,4 @@
-import type { CompanionMetricValue } from "@temper/game-companions-core/stats/companion-metrics.generated"
+import type { CompanionMetricValue } from "@akasha/temper-companions-core/companion-metrics"
 
 interface CompanionStatValueProps {
   stat: CompanionMetricValue

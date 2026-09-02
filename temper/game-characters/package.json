@@ -3,8 +3,7 @@
   "dependencies": {
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
-    "@temper/game-characters-character": "workspace:*",
-    "@temper/game-companions-core": "workspace:*"
+    "@temper/game-characters-character": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

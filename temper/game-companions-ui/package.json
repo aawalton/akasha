@@ -6,8 +6,7 @@
     "@akasha/temper-companions-core": "workspace:*",
     "@shared/auth": "workspace:*",
     "@shared/pages-ui": "workspace:*",
-    "@temper/game-characters": "workspace:*",
-    "@temper/game-companions-core": "workspace:*"
+    "@temper/game-characters": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

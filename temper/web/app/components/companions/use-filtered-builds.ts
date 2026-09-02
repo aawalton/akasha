@@ -1,8 +1,5 @@
-import {
-  type DecodedBuild,
-  getBuildScoreAndStats,
-} from "@temper/game-companions-core/companion-leaderboard"
-import type { CompanionStatsResult } from "@temper/game-companions-core/stats/companion-stats-calculator-impl"
+import { type DecodedBuild, getBuildScoreAndStats } from "@akasha/temper-companions-core/companion-leaderboard"
+import type { CompanionStatsResult } from "@akasha/temper-companions-core/companion-stats-result"
 import { useMemo } from "react"
 import type { FilterValues } from "@/components/companions/companions-filter-types"
 

@@ -51,7 +51,6 @@
     "@temper/game-characters-skills-morphs-core": "workspace:*",
     "@temper/game-characters-stats": "workspace:*",
     "@temper/game-codec": "workspace:*",
-    "@temper/game-companions-core": "workspace:*",
     "@temper/game-companions-ui": "workspace:*",
     "@temper/game-items-core": "workspace:*",
     "@akasha/temper-trading-pricing-client": "workspace:*",

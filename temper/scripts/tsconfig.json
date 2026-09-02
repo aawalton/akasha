@@ -23,9 +23,6 @@
       "path": "../game-codec"
     },
     {
-      "path": "../game-companions-core"
-    },
-    {
       "path": "../player-completion"
     },
     {
