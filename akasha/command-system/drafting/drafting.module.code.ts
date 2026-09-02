@@ -1,4 +1,4 @@
-import { keptPatch } from "@akasha/agents/patch-keeping"
+import { keptPatch, patchAt } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { mergedOnto } from "../body-merging/body-merging.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
@@ -83,6 +83,7 @@ function changesOf(held: Held): readonly Change[] {
 }
 
 export function drafted(root: string, page: string, drafts: readonly Draft[]): Drafted {
+  if (patchAt(page) === null) return { why: NO_PAGE }
   const head = headOf(root)
   let answer: Drafted = { why: NO_PAGE }
   const took = keptPatch(root, page, (patch) => {

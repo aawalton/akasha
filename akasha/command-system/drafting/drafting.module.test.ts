@@ -49,6 +49,7 @@ test("a change drafted is what the patch leaves at that path", () => {
   const said = drafted(root, PAGE, [{ path: ONE, was: TEN, body }])
   expect("why" in said).toBe(false)
   expect(draftedBody(root, ONE)).toBe(body)
+  expect(gitSaid(root, ["status", "--porcelain", "--", ONE])).toBe("")
 })
 
 test("a second path is drafted into the same patch", () => {
@@ -72,31 +73,17 @@ test("a patch is rebased onto a commit that moved under the draft", () => {
   landed(root, { [ONE]: swapped(TEN, "j", "J") })
   drafted(root, PAGE, [{ path: TWO, was: null, body: "fresh\n" }])
   expect(draftedBody(root, ONE)).toBe(swapped(swapped(TEN, "b", "B"), "j", "J"))
-})
-
-test("a patch is read against the commit at HEAD after a rebase", () => {
-  const root = repoAt()
-  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
-  landed(root, { [ONE]: swapped(TEN, "j", "J") })
-  drafted(root, PAGE, [{ path: TWO, was: null, body: "fresh\n" }])
   const head = gitSaid(root, ["rev-parse", `HEAD:${ONE}`]).trim()
   expect(blobsIn(patchIn(root, PAGE) ?? "").get(ONE)?.base).toBe(head)
 })
 
-test("a conflict refuses the draft", () => {
-  const root = repoAt()
-  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
-  landed(root, { [ONE]: swapped(TEN, "b", "X") })
-  const said = drafted(root, PAGE, [{ path: TWO, was: null, body: "fresh\n" }])
-  expect("why" in said).toBe(true)
-})
-
-test("a draft refused leaves the patch as the patch was", () => {
+test("a conflict refuses the draft and leaves the patch alone", () => {
   const root = repoAt()
   drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
   const was = patchIn(root, PAGE)
   landed(root, { [ONE]: swapped(TEN, "b", "X") })
-  drafted(root, PAGE, [{ path: TWO, was: null, body: "fresh\n" }])
+  const said = drafted(root, PAGE, [{ path: TWO, was: null, body: "fresh\n" }])
+  expect("why" in said).toBe(true)
   expect(patchIn(root, PAGE)).toBe(was)
 })
 
@@ -118,13 +105,7 @@ test("a draft stating no body is drafted as a deletion", () => {
 })
 
 test("a path that is no page keeps no patch", () => {
-  const root = repoAt()
+  const root = scratch.rootFor("drafting-")
   const said = drafted(root, "akasha/not-a-page.txt", [{ path: ONE, was: TEN, body: "x\n" }])
-  expect("why" in said).toBe(true)
-})
-
-test("drafting leaves the worktree alone", () => {
-  const root = repoAt()
-  drafted(root, PAGE, [{ path: ONE, was: TEN, body: swapped(TEN, "b", "B") }])
-  expect(gitSaid(root, ["status", "--porcelain", "--", ONE])).toBe("")
+  expect(said).toEqual({ why: "a path that is no page keeps no patch" })
 })
