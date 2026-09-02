@@ -1,13 +1,14 @@
-export const summary = "Resolve one action through the pure engine and print the roll (coordinator-only)"
+export const summary =
+  "Resolve one action through the pure engine and print the roll (coordinator-only)"
 
 import { readFile } from "node:fs/promises"
-import type { ActionInput } from "@akasha/tower-engine/combat-types"
-import { resolveAction } from "@akasha/tower-engine/resolve-action"
+import type { ActionInput } from "@akasha/story-tower-engine/combat-types"
+import { resolveAction } from "@akasha/story-tower-engine/resolve-action"
 import { actionResultToRollPayload } from "@akasha/tower/roll-payload"
 import { z } from "zod"
-import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -98,18 +99,14 @@ export default async function towerTurn(args: readonly string[]): Promise<void> 
   try {
     raw = actionPath === "-" ? await Bun.stdin.text() : await readFile(actionPath, "utf8")
   } catch (err) {
-    throw dataError(
-      `cannot read --action: ${err instanceof Error ? err.message : String(err)}`
-    )
+    throw dataError(`cannot read --action: ${err instanceof Error ? err.message : String(err)}`)
   }
 
   let input: ActionInput
   try {
     input = ActionInputSchema.parse(JSON.parse(raw)) as ActionInput
   } catch (err) {
-    throw dataError(
-      `invalid ActionInput: ${err instanceof Error ? err.message : String(err)}`
-    )
+    throw dataError(`invalid ActionInput: ${err instanceof Error ? err.message : String(err)}`)
   }
 
   const result = resolveAction(input)

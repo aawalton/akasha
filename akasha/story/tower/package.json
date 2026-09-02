@@ -14,7 +14,7 @@
   "dependencies": {
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/story-tower-core": "workspace:*",
-    "@akasha/tower-engine": "workspace:*",
+    "@akasha/story-tower-engine": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }

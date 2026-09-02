@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/tower-engine",
+  "name": "@akasha/story-tower-engine",
   "private": true,
   "type": "module",
   "exports": {

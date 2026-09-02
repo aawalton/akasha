@@ -1,4 +1,4 @@
-import type { ActionInput, ActionResult } from "@akasha/tower-engine/combat-types"
+import type { ActionInput, ActionResult } from "@akasha/story-tower-engine/combat-types"
 import { z } from "zod"
 
 export const TowerRollPayloadSchema = z

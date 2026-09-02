@@ -4,7 +4,7 @@ import {
 } from "@akasha/story-tower-core/character-schema"
 import type { FloorEnemy } from "@akasha/story-tower-core/floor-schema"
 import type { Hud } from "@akasha/story-tower-core/revealed-sheet"
-import type { Sheet as CombatSheet } from "@akasha/tower-engine/combat-types"
+import type { Sheet as CombatSheet } from "@akasha/story-tower-engine/combat-types"
 import { z } from "zod"
 
 export type PersistedCombatant = GameCharacterSheet | FloorEnemy
