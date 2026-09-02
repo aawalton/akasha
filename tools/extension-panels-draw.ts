@@ -127,10 +127,50 @@ export interface DrawnItem {
 
 export interface Drawn {
   readonly activateError: string | null
+  readonly activateMs?: number
+  readonly reportMs?: number
   readonly panels: Readonly<Record<string, DrawnPanel>>
   readonly statusBar: readonly DrawnItem[]
   readonly channels: Readonly<Record<string, readonly string[]>>
   readonly commands: readonly string[]
+}
+
+// WHAT EACH SURFACE COST, READ OFF THE ACTIVATION CHANNEL AND PRINTED WHETHER OR NOT IT IS RED.
+//
+// `startIsolated` writes one of these lines per feature, and this tool used to keep them and print
+// them only where a surface had gone red. So a green run said `5 of 5 surfaces draw content` and
+// nothing about time — and a panel that takes nineteen seconds to fill draws exactly as green as
+// one that takes eight hundred milliseconds. Alan reads the panels being slow off the editor; the
+// one instrument aimed at them could not see it. The numbers were already in hand and thrown away.
+const FEATURE_TIMING =
+  /^\[([a-z-]+)\] (?:activated in (\d+)ms|FAILED after (\d+)ms|has not finished after (\d+)ms)/
+
+// Which feature fills which surface, so a surface's verdict can carry the time it cost.
+const FILLED_BY: Readonly<Record<string, string>> = {
+  opsAgentTree: "agent-tree",
+  opsDomainTree: "domain-tree",
+  opsWorkTree: "work-tree",
+  opsPageTree: "page-tree",
+  statusBar: "status-bar",
+}
+
+export interface FeatureTiming {
+  readonly feature: string
+  readonly ms: number
+  readonly state: "activated" | "failed" | "abandoned"
+}
+
+export function featureTimings(lines: readonly string[]): readonly FeatureTiming[] {
+  const timings: FeatureTiming[] = []
+  for (const line of lines) {
+    const hit = FEATURE_TIMING.exec(line)
+    if (hit === null) continue
+    const feature = hit[1] as string
+    if (hit[2] !== undefined) timings.push({ feature, ms: Number(hit[2]), state: "activated" })
+    else if (hit[3] !== undefined) timings.push({ feature, ms: Number(hit[3]), state: "failed" })
+    else if (hit[4] !== undefined) timings.push({ feature, ms: Number(hit[4]), state: "abandoned" })
+  }
+  return timings
 }
 
 export interface Verdict {
@@ -375,18 +415,22 @@ const vscode = require("vscode")
 const at = process.argv[2]
 let activateError = null
 let report = { panels: {}, statusBar: [], channels: {}, commands: [] }
+const began = Date.now()
 try {
   const ext = await import("./bundle.js")
   await ext.activate(vscode.__makeContext())
 } catch (err) {
   activateError = String((err && err.stack) || err)
 }
+const activateMs = Date.now() - began
+const walked = Date.now()
 try {
   report = await vscode.__report()
 } catch (err) {
   activateError = (activateError === null ? "" : activateError + "\\n") + "the reading failed: " + String((err && err.stack) || err)
 }
-writeFileSync(at, JSON.stringify({ activateError, ...report }))
+const reportMs = Date.now() - walked
+writeFileSync(at, JSON.stringify({ activateError, activateMs, reportMs, ...report }))
 process.exit(0)
 `
     )
@@ -417,6 +461,64 @@ process.exit(0)
 
 function activationLines(drawn: Drawn): readonly string[] {
   return drawn.channels["Ops: Activation"] ?? []
+}
+
+// WHAT THE AGENT TREE ITSELF SAID IT READ, BESIDE WHAT THE PANEL DREW.
+//
+// The Agents tree is drawn from live fleet state, so no row floor can be put on it: 27 rows may be
+// twenty-seven agents. What is not legitimate is the panel drawing fewer rows than the extension's
+// own last read counted, and the feature logs that count on every read. The two numbers are printed
+// side by side rather than judged, because the poll goes on replacing the tree while this walks it
+// and a disagreement of a few rows is that and not a fault.
+const READ_COUNT = /\] (\d+) running, (\d+) rows, (\d+) roots/
+
+export function readsLogged(lines: readonly string[]): readonly number[] {
+  const counted: number[] = []
+  for (const line of lines) {
+    const hit = READ_COUNT.exec(line)
+    if (hit !== null) counted.push(Number(hit[2]))
+  }
+  return counted
+}
+
+function timingReport(drawn: Drawn): readonly string[] {
+  const timings = featureTimings(activationLines(drawn))
+  const byFeature = new Map(timings.map((one) => [one.feature, one]))
+  const said: string[] = []
+  const total = drawn.activateMs
+  said.push(
+    `activation ${total === undefined ? "?" : String(total)}ms wall` +
+      `, the panel walk ${drawn.reportMs === undefined ? "?" : String(drawn.reportMs)}ms` +
+      ` — features start together, so the wall is the slowest of them, not their sum`
+  )
+  for (const one of [...timings].sort((a, b) => b.ms - a.ms)) {
+    const surface = Object.entries(FILLED_BY).find(([, feature]) => feature === one.feature)?.[0]
+    said.push(
+      `  ${one.feature.padEnd(16)} ${String(one.ms).padStart(6)}ms` +
+        (one.state === "activated" ? "" : `  ${one.state.toUpperCase()}`) +
+        (surface === undefined ? "" : `  (${surface})`)
+    )
+  }
+  for (const [surface, feature] of Object.entries(FILLED_BY)) {
+    if (!byFeature.has(feature)) {
+      said.push(`  ${feature.padEnd(16)}      ?ms  the activation channel timed no start for it (${surface})`)
+    }
+  }
+  const agentLines = drawn.channels["Ops: Agent Tree"] ?? []
+  const reads = readsLogged(agentLines)
+  const drew = everyRow(drawn.panels["opsAgentTree"]?.roots ?? []).length
+  if (reads.length > 0) {
+    said.push(
+      `  opsAgentTree read ${reads.join(", ")} rows across ${String(reads.length)} reads` +
+        ` and drew ${String(drew)}`
+    )
+  }
+  // Reported and not judged. A seat going unread is a fault and not a small fleet, but it is a
+  // fault of the box being busy, and a lane that broke nothing should not be stopped by one.
+  for (const line of agentLines) {
+    if (line.includes("UNREAD")) said.push(`  opsAgentTree ${line.slice(line.indexOf("UNREAD"))}`)
+  }
+  return said
 }
 
 export async function main(argv: readonly string[]): Promise<number> {
@@ -468,6 +570,11 @@ export async function main(argv: readonly string[]): Promise<number> {
     process.stdout.write(`${verdict.green ? "drawn   " : "EMPTY   "} ${verdict.surface} — ${verdict.said}\n`)
     for (const note of verdict.notes) process.stdout.write(`         ${note}\n`)
   }
+  // Printed on every run, green or red. A budget is deliberately not pinned here yet: these numbers
+  // move by an order of magnitude with the load average on a box many agents share, and a threshold
+  // read off one run would go red on a loaded box and stop lanes that broke nothing.
+  process.stdout.write("timing  \n")
+  for (const line of timingReport(drawn)) process.stdout.write(`         ${line}\n`)
   if (red.length > 0) {
     for (const line of activationLines(drawn)) {
       process.stdout.write(`  activation said: ${line}\n`)

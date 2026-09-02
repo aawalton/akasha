@@ -41,6 +41,12 @@ export interface AgentForest {
   readonly roots: readonly AgentNode[]
   readonly alanPrincipalCount: number
   readonly runningCount: number
+  // Live seats whose subagents could not be read at all — no transcript was named for the seat, or
+  // the fold threw. Their own row still draws; every subagent row under them is missing. Nothing
+  // else in the reading says so, and a fleet that is small and a read that was dropped draw the
+  // same short tree, so the count is carried out rather than swallowed here.
+  readonly unreadSeats: number
+  readonly unreadSaid: string | undefined
 }
 
 export async function readAgentForest(subagents: SubagentReader): Promise<AgentForest> {
@@ -48,15 +54,19 @@ export async function readAgentForest(subagents: SubagentReader): Promise<AgentF
   const liveIds = new Set(rows.filter((row) => row.live).map((row) => row.id))
 
   const running = new Map<string, readonly SubagentNode[]>()
+  const unread: string[] = []
   await Promise.all(
     [...liveIds].map(async (id) => {
       const stated = await seatTranscriptOf(id)
       if (stated === null) {
+        unread.push(`${id}: seat-transcripts named no transcript for it`)
         return
       }
       try {
         running.set(id, await subagents.forSeat(id, stated.transcriptPath))
-      } catch {}
+      } catch (err) {
+        unread.push(`${id}: ${err instanceof Error ? err.message : String(err)}`)
+      }
     })
   )
   await subagents.dropUntouched()
@@ -70,7 +80,13 @@ export async function readAgentForest(subagents: SubagentReader): Promise<AgentF
 
   const places = readSeatPlaces(rows)
   const roots = assembleForest(rows, liveIds, running, places, await workingColour())
-  return { roots, alanPrincipalCount, runningCount: countRunning(roots) }
+  return {
+    roots,
+    alanPrincipalCount,
+    runningCount: countRunning(roots),
+    unreadSeats: unread.length,
+    unreadSaid: unread.sort()[0],
+  }
 }
 
 const WORKING = "working"

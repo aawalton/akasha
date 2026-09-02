@@ -100,11 +100,12 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 		return undefined;
 	};
 
-	const refresh = async (trigger: string): Promise<undefined> => {
+	const readOnce = async (trigger: string): Promise<undefined> => {
 		const sampled = await sampleColumns(trigger, FEATURE);
 		if (sampled !== undefined) { setSeatTerminals(sampled); }
 		try {
-			const { roots, alanPrincipalCount, runningCount } = await readAgentForest(subagents);
+			const forestRead = await readAgentForest(subagents);
+			const { roots, alanPrincipalCount, runningCount, unreadSeats, unreadSaid } = forestRead;
 			setForest(roots);
 			tree.replace(roots);
 			running = runningCount;
@@ -113,10 +114,15 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 				value: runningCount,
 				tooltip: runningCount === 1 ? '1 agent running' : `${runningCount} agents running`,
 			};
-			view.message = undefined;
+			// A tree short by an unknown number of rows is drawn either way. Saying so is the only
+			// thing that tells a small fleet from a read that lost seats, since both draw few rows.
+			view.message = unreadSeats === 0
+				? undefined
+				: `${unreadSeats} seat(s) went unread — the subagents under them are missing`;
 			output.appendLine(
 				`[${trigger}] ${runningCount} running, ${countRows(roots)} rows, ` +
-				`${roots.length} roots, ${alanPrincipalCount} answering to Alan`
+				`${roots.length} roots, ${alanPrincipalCount} answering to Alan` +
+				(unreadSeats === 0 ? '' : `, ${unreadSeats} seat(s) UNREAD — ${unreadSaid ?? ''}`)
 			);
 			recordObservation(FEATURE, {
 				outcome: 'ok',
@@ -125,6 +131,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 					rows: countRows(roots),
 					roots: roots.length,
 					answeringToAlan: alanPrincipalCount,
+					unreadSeats,
 				},
 			});
 		} catch (err) {
@@ -133,6 +140,37 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 			recordObservation(FEATURE, { outcome: 'failed', failure: String(err) });
 		}
 		await publishSeatTabs(trigger);
+		return undefined;
+	};
+
+	// ONE READ AT A TIME, BECAUSE THE LAST TO FINISH IS NOT THE ONE THAT READ LATEST.
+	//
+	// Every trigger folds the same transcripts through the one `subagents` reader, whose cursors,
+	// carry bytes and touched set are shared mutable state. Two reads at once advance each other's
+	// offsets, and each ends by calling `tree.replace`, so the panel draws whichever finished last.
+	// The activation read is the slowest and the oldest: it took 5–19s on a loaded box while the
+	// 1s poll started five to nineteen more behind it, and the panel settled on the activation
+	// read's answer — 30 rows where three polls in between had each read 148. Nothing was logged
+	// as wrong, because nothing was wrong with any single read.
+	//
+	// A trigger that arrives mid-read waits for the read in flight rather than starting a second.
+	// The poll comes round again in a second, so nothing is lost by not reading twice at once.
+	let reading: Promise<undefined> | undefined;
+
+	const refresh = async (trigger: string): Promise<undefined> => {
+		const inFlight = reading;
+		if (inFlight !== undefined) {
+			output.appendLine(`[${trigger}] a read is already in flight — waiting for it`);
+			await inFlight;
+			return undefined;
+		}
+		const started = readOnce(trigger);
+		reading = started;
+		try {
+			await started;
+		} finally {
+			reading = undefined;
+		}
 		return undefined;
 	};
 
