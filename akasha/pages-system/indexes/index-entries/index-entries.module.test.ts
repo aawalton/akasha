@@ -29,12 +29,25 @@ test("a property no page property declares to be a file is filed under no path",
 
 test("the properties held in a file are the ones the file shape is", () => {
   const values = [
-    { id: "1", pageTypeSlug: "file-property", slug: "code" },
-    { id: "2", pageTypeSlug: "relation-property", slug: "part-slugs" },
+    { id: "1", pageTypeSlug: "file-property", slug: "code", propertySlug: "code" },
+    { id: "2", pageTypeSlug: "relation-property", slug: "part-slugs", propertySlug: "part-slugs" },
     { id: "3", pageTypeSlug: "domain", slug: "code" },
   ]
 
   expect([...filePropertiesIn(values)]).toEqual([["code", null]])
+})
+
+test("a file property is filed under the key a page carries rather than under its own slug", () => {
+  const values = [
+    { id: "1", pageTypeSlug: "file-property", slug: "ambient-types", propertySlug: "d" },
+  ]
+  const value = { id: A, pageTypeSlug: "type-declaration", slug: "a", d: "ts" }
+
+  expect([...filePropertiesIn(values)]).toEqual([["d", null]])
+  expect(pathsOf(value, "/repo/a.type-declaration.ts", "/repo", filedAs({ d: null }))).toEqual([
+    "a.type-declaration.ts",
+    "a.type-declaration.d.ts",
+  ])
 })
 
 test("a property whose name is written in camel is filed under its kebab slug", () => {

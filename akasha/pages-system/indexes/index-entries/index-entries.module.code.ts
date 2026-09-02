@@ -53,14 +53,14 @@ function besides(pageTypeSlug: string | null): boolean {
 export function filePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, string | null> {
   const found = new Map<string, string | null>()
   for (const value of values) {
-    const slug = textAt(value, "slug")
-    if (slug === null) continue
+    const key = textAt(value, "propertySlug")
+    if (key === null) continue
     const fileName = textAt(value, "fileName")
     if (fileName !== null) {
-      found.set(slug, fileName)
+      found.set(key, fileName)
       continue
     }
-    if (besides(textAt(value, "pageTypeSlug"))) found.set(slug, null)
+    if (besides(textAt(value, "pageTypeSlug"))) found.set(key, null)
   }
   return found
 }
@@ -137,8 +137,8 @@ export function filePropertiesAt(given: string | Reading): ReadonlyMap<string, s
   return answered(given, "", "which properties are held in a file", (reading) => {
     const found = new Map<string, string | null>()
     for (const held of schemaAt(reading).values()) {
-      if (held.fileName !== null) found.set(held.slug, held.fileName)
-      else if (besides(held.pageTypeSlug)) found.set(held.slug, null)
+      if (held.fileName !== null) found.set(held.propertySlug, held.fileName)
+      else if (besides(held.pageTypeSlug)) found.set(held.propertySlug, null)
     }
     return found
   })

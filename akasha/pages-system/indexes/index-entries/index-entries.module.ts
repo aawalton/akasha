@@ -20,6 +20,11 @@ export const indexEntries = {
     {
       invariantKind: "departure",
       statement:
+        "A file property is filed under the key a page carries rather than under its slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A page claims the sops file standing beside the page whatever the sops file carries.",
     },
     {
