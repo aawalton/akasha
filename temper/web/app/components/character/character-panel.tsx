@@ -2,7 +2,7 @@
 
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
-import type { MundusId } from "@temper/game-characters-character/mundus-source"
+import type { MundusId } from "@akasha/temper-character-sources/mundus-source"
 import { AttributesPanelCard } from "@/components/character/attributes-panel-card"
 import { CharacterAutomationPanelCard } from "@/components/character/automation-panel-card"
 import { ConsumablesPanelCard } from "@/components/character/consumables-panel-card"
