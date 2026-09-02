@@ -136,6 +136,20 @@ test("a folder named `pages` holding no page at all is a part", () => {
   expect(namingFolderOf("akasha/foo/pages/deep", holds)).toBe("akasha/foo")
 })
 
+test("a folder named `scripts` the page in it does not name is a part, and is looked through", () => {
+  const holds = holding({ "akasha/foo/scripts": ["bar"] })
+  expect(heldFolder("akasha/foo/scripts", holds)).toBe(true)
+  expect(namingFolderOf("akasha/foo/scripts/deep", holds)).toBe("akasha/foo")
+})
+
+test("a folder named `scripts` the page in it names is that page's folder rather than a part", () => {
+  const holds = holding({ "akasha/code-system/scripts": ["script", "scripts"] })
+  expect(heldFolder("akasha/code-system/scripts", holds)).toBe(false)
+  expect(namingFolderOf("akasha/code-system/scripts/deep", holds)).toBe(
+    "akasha/code-system/scripts"
+  )
+})
+
 test("every part between a folder and the page above it is looked through", () => {
   const holds = holding({ "akasha/foo": ["foo"] })
   expect(namingFolderOf("akasha/foo/modules/pages/deep", holds)).toBe("akasha/foo")

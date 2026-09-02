@@ -106,6 +106,12 @@ test("a second page that is no workspace package is refused beside a page type",
   expect(said[0]).toContain("2 pages rather than one")
 })
 
+test("a subfolder named scripts is a part", () => {
+  expect(judged(["scripts/build-sim/build-sim.shell-script.ts"], ["model.page-type.ts"])).toEqual(
+    []
+  )
+})
+
 test("a page type stating no plural slug takes no workspace package beside it", () => {
   const said = judgedBy([], ["model.page-type.ts", "models.workspace-package.ts"], {
     slug: "model",

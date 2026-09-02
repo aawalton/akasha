@@ -52,6 +52,7 @@ export const folderShape = {
     "folder-shape/pages-of-the-type-above",
     "folder-shape/properties-of-the-type-above",
     "folder-shape/property-pages-only",
+    "folder-shape/scripts-only",
   ],
   extendsSlug: "page-type/module",
   loadedBySlug: "code-check/folder-matches-a-shape",

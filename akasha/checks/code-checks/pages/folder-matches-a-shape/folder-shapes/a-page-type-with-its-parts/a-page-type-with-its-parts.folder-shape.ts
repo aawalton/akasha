@@ -64,6 +64,10 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
+      statement: "A subfolder named `scripts` is a part of that page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A subfolder holding a page the page type declares a part is a part too.",
     },
     {

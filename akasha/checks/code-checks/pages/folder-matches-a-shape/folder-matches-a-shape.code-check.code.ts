@@ -36,6 +36,8 @@ const MODULES = "modules"
 
 const PAGES = "pages"
 
+const SCRIPTS = "scripts"
+
 const PLURAL_SLUG = "pluralSlug"
 
 const PART_SLUGS = "partSlugs"
@@ -226,7 +228,7 @@ export function declaringOver(
   }
 }
 
-export const HELD_FOLDERS = new Set<string>([MODULES, PAGES, PROPERTIES])
+export const HELD_FOLDERS = new Set<string>([MODULES, PAGES, PROPERTIES, SCRIPTS])
 
 export function strippedOf(named: string, above: readonly string[]): string {
   for (const one of above) {

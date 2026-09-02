@@ -4,7 +4,7 @@ import type { Standing } from "../folder-shape.page-type.ts"
 
 const DOMAIN = "domain"
 
-const HELD = new Set<string>(["modules"])
+const HELD = new Set<string>(["modules", "scripts"])
 
 export function aDomainWithItsParts(standing: Standing): readonly string[] {
   const page = standing.pages[0]

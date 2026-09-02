@@ -58,6 +58,10 @@ test("a folder holding no page is refused", () => {
   expect(judged([], [])).toEqual(["it holds no page of its own"])
 })
 
+test("a subfolder named scripts is a part", () => {
+  expect(judged(["scripts/build-sim/build-sim.shell-script.ts"], ["models.domain.ts"])).toEqual([])
+})
+
 test("a folder holding two pages is refused", () => {
   const said = judged([], ["models.domain.ts", "other.domain.ts"])
   expect(said).toHaveLength(1)

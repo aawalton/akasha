@@ -65,6 +65,10 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder named `scripts` is a part of the page above that folder.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A folder named by the one page in that folder is that page's own folder rather than a part.",
     },
