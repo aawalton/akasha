@@ -1,0 +1,11 @@
+{
+  "name": "@akasha/temper-narrow",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./require-numeric-key": "./require-numeric-key/require-numeric-key.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-eso-types": "workspace:*"
+  }
+}
