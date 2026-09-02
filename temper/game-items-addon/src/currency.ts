@@ -1,4 +1,4 @@
-import { requireNumericKey } from "@temper/shared-narrow"
+import { requireNumericKey } from "@akasha/temper-narrow/require-numeric-key"
 import { getCharacterLocationKey } from "./location-keys"
 import { getDatabase, getSavedVariables } from "./saved-variables"
 import type { CurrencyBalances, InventoryCurrencies } from "./types"

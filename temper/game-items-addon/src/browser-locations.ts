@@ -1,6 +1,6 @@
 import { ESO_BAG_WORN } from "@temper/game-items-core/eso-bag-constants"
 import type { ItemLocationEntry } from "@temper/game-items-core/item-centric-inventory"
-import { assertNever } from "@temper/shared-narrow"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { FixedLocationViewId, LocationViewKind, LocationViewOption } from "./browser-types"
 
 function matchesFixed(

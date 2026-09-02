@@ -2,7 +2,7 @@
   "name": "@temper/game-collections-antiquities-addon",
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",
-    "@temper/shared-narrow": "workspace:*"
+    "@akasha/temper-narrow": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"

@@ -1,4 +1,4 @@
-import { requireAt } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 import { getAllianceIndex } from "../generated/alliance-mappings.generated"
 import { getChampionPointIndex } from "../generated/champion-point-mappings.generated"
 import { getClassIndex } from "../generated/character-class-mappings.generated"

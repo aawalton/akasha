@@ -16,11 +16,11 @@
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
   },
   "dependencies": {
-    "@akasha/temper-capture-shapes": "workspace:*",
-    "@akasha/temper-catalog-core": "workspace:*",
-    "@akasha/temper-capture-writer": "workspace:*",
     "@akasha/temper-bit-codec": "workspace:*",
-    "@temper/shared-narrow": "workspace:*"
+    "@akasha/temper-capture-shapes": "workspace:*",
+    "@akasha/temper-capture-writer": "workspace:*",
+    "@akasha/temper-catalog-core": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"

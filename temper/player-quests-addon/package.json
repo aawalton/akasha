@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",
-    "@temper/shared-narrow": "workspace:*"
+    "@akasha/utils-narrow": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.6",

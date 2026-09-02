@@ -1,4 +1,4 @@
-import { requireAt } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 import { buildBuyExplainTrace } from "./buy-explain-trace-builder"
 import { getSavedVariables } from "./saved-variables"
 import type { BuyExplainRule } from "./types"

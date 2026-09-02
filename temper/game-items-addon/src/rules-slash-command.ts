@@ -1,7 +1,7 @@
 import type { EvalContext } from "@temper/game-items-rules-eval/eval-env"
 import type { IndeterminateReason, RuleEvalResult } from "@temper/game-items-rules-eval/eval-result"
 import { evaluateRule, walkRules } from "@temper/game-items-rules-eval/evaluator"
-import { requireAt } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 import { buildItemFactsForLink } from "./build-item-facts"
 import { buildEsoEvalEnv } from "./eso-eval-env"
 import {

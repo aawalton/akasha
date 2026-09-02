@@ -1,4 +1,4 @@
-import { requireFirst } from "@temper/shared-narrow"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { ADDON_NAME } from "./constants"
 import { getActionReportLevel } from "./rules-core-report"
 

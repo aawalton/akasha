@@ -1,7 +1,7 @@
 import { signatureMatchesItem } from "@temper/game-items-core/equipment-signature-matcher"
 import type { ItemKey } from "@temper/game-items-rules-core/use-destination-types"
 import type { EvalEnv, WantedEquipmentFacts } from "@temper/game-items-rules-eval/eval-env"
-import { asObjectRecord } from "@temper/shared-narrow"
+import { asObjectRecord } from "@akasha/utils-narrow/as-object-record"
 import { getCompiledConfig } from "./rules-core"
 import { getTemperCharactersData } from "./temper-characters-data"
 import { isCompanionWornSlotFilled } from "./rules-core-character-finders-companion"

@@ -2,19 +2,19 @@
   "name": "@temper/player-completion-addon",
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-bit-codec": "workspace:*",
+    "@akasha/temper-capture-perf": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-settings-panel": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-capture-addon": "workspace:*",
     "@temper/game-characters-skills-morphs-addon": "workspace:*",
     "@temper/game-companions-core": "workspace:*",
     "@temper/game-completion": "workspace:*",
     "@temper/player-completion": "workspace:*",
-    "@akasha/temper-addon-init": "workspace:*",
-    "@akasha/temper-capture-perf": "workspace:*",
-    "@akasha/temper-bit-codec": "workspace:*",
-    "@temper/shared-interface-hud-window": "workspace:*",
-    "@temper/shared-narrow": "workspace:*"
+    "@temper/shared-interface-hud-window": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.6",

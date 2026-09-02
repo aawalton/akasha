@@ -1,5 +1,5 @@
 import { TEXT_PRIMARY, TEXT_SECONDARY } from "@akasha/design-tokens/text-color"
-import { requireFirst } from "@temper/shared-narrow"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { getSavedVariables } from "../saved-variables"
 import { CreatePlaceholderPanel } from "./placeholder-panel"
 export interface TabControl extends Control {

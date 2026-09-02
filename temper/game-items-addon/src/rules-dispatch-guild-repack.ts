@@ -1,4 +1,5 @@
-import { requireAt, requireFirst } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { ADDON_NAME } from "./constants"
 import { showConfirmDialog } from "./rules-core-confirm-dialog"
 import { formatItemList } from "./rules-core-report"

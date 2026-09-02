@@ -1,4 +1,4 @@
-import { requireAt } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 import { ADDON_NAME } from "./constants"
 import type { ItemAction } from "./generated/rule-types.generated"
 import { getGuildBankLocationKey } from "./location-keys"

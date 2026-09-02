@@ -1,4 +1,5 @@
-import { isObjectRecord, requireNumericKey } from "@temper/shared-narrow"
+import { requireNumericKey } from "@akasha/temper-narrow/require-numeric-key"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import { SAVED_VARIABLES_DEFAULTS, SAVED_VARIABLES_NAME } from "./constants"
 export interface SavedCompanionEquipmentSlot {
   displayText: string

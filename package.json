@@ -154,7 +154,6 @@
     "temper/shared-interface-interface-addon",
     "temper/shared-interface-keybinder-addon",
     "temper/shared-interface-selector-addon",
-    "temper/shared-narrow",
     "temper/web",
     "tools/lib"
   ],

@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@temper/shared-narrow"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 
 export function getTemperCharactersData(): Record<string, unknown> | undefined {
   const g: Record<string, unknown> = globalThis

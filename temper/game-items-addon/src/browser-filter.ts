@@ -1,4 +1,4 @@
-import { assertNever } from "@temper/shared-narrow"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import { matchCategory } from "./browser-categories"
 import { matchLocationView } from "./browser-locations"
 import type {

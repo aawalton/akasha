@@ -1,7 +1,7 @@
 import { buildItemCentricInventory } from "@temper/game-items-core/item-centric-inventory"
 import { classifyLocation, getLocationDisplayName } from "@temper/game-items-core/location-classify"
 import type { LocationTypeId } from "@temper/game-items-core/location-type-data"
-import { assertNever } from "@temper/shared-narrow"
+import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type {
   BrowserRow,
   FixedLocationViewId,

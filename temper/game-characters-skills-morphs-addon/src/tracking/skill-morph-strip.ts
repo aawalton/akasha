@@ -1,4 +1,5 @@
-import { deleteRecordKey, isObjectRecord } from "@temper/shared-narrow"
+import { deleteRecordKey } from "@akasha/utils-narrow/delete-record-key"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 
 const STRIP_KEYS = ["id", "totalXPNeeded", "totalXPProgress"] as const
 const VARIANT_KEYS = ["base", "morph1", "morph2"] as const

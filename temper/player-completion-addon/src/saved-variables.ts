@@ -3,7 +3,8 @@ import type {
   CharacterCompletion,
 } from "@akasha/temper-completion/completion-record"
 import type { CompletionOverride } from "@temper/player-completion/completion-overrides"
-import { deleteRecordKey, isObjectRecord } from "@temper/shared-narrow"
+import { deleteRecordKey } from "@akasha/utils-narrow/delete-record-key"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import { ADDON_NAME, SAVED_VARIABLES_NAME } from "./constants"
 import { charactersToPrune } from "./prune-characters"
 import type { DailyWritStates } from "./tracking/daily-writs-state"

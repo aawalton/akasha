@@ -1,5 +1,5 @@
 import { isCraftingRankBelowCap } from "@temper/game-items-core/crafting-passive-ranks"
-import { asObjectRecord } from "@temper/shared-narrow"
+import { asObjectRecord } from "@akasha/utils-narrow/as-object-record"
 import type { CharacterScope } from "./generated/rule-types.generated"
 import { getTemperCharactersData } from "./temper-characters-data"
 import { getSavedVariables } from "./saved-variables"

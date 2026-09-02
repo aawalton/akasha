@@ -1,4 +1,4 @@
-import { asObjectRecord } from "@temper/shared-narrow"
+import { asObjectRecord } from "@akasha/utils-narrow/as-object-record"
 import { onTemperInventoryExplainBuyCommand } from "./buy-explain-slash-command"
 import { buildSkillGateWalk } from "./explain-skill-gate-walk"
 import { buildExplainTrace } from "./explain-trace-builder"

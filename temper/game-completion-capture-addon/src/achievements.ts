@@ -3,7 +3,8 @@ import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-regist
 import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type { AchievementCatalogData } from "@akasha/temper-capture-shapes/achievement-catalog"
 import { runBatched } from "@akasha/temper-capture-writer/run-batched"
-import { requireDefined, requireNumericKey } from "@temper/shared-narrow"
+import { requireNumericKey } from "@akasha/temper-narrow/require-numeric-key"
+import { requireDefined } from "@akasha/utils-narrow/require-defined"
 export interface AchievementWorkItem {
   categoryIndex: number
   subCategoryIndex: number | undefined

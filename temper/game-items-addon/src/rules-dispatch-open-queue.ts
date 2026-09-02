@@ -1,4 +1,4 @@
-import { requireFirst } from "@temper/shared-narrow"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { hasRoomAboveBuffer } from "./backpack-buffer"
 import { ADDON_NAME } from "./constants"
 import {

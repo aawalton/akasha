@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@temper/shared-narrow"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 
 import { ADDON_VERSION } from "../constants"
 import { LOG_LEVEL_DEBUG, log } from "../core/log"

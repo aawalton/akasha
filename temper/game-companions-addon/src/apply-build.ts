@@ -1,4 +1,4 @@
-import { requireAt } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 import {
   ARMOR_SLOTS,
   type CompanionBuildData,

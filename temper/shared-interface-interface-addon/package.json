@@ -7,9 +7,9 @@
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
   },
   "dependencies": {
-    "@akasha/temper-settings-panel": "workspace:*",
     "@akasha/temper-addon-init": "workspace:*",
-    "@temper/shared-narrow": "workspace:*"
+    "@akasha/temper-settings-panel": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"

@@ -1,5 +1,5 @@
 import { TEXT_PRIMARY, TEXT_SECONDARY, TEXT_TERTIARY } from "@akasha/design-tokens/text-color"
-import { requireAt } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 import { type CompanionBuildData, SKILL_SLOT_INDICES } from "../codec/companion-codec"
 import { decodeCompanionBuild } from "../codec/companion-decoder"
 import { getAbilityIdFromSkillIndex } from "../mappings/reverse-mappings"

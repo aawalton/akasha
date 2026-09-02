@@ -9,7 +9,7 @@ import {
   type ItemKey,
   type UseDestinationContext,
 } from "@temper/game-items-rules-core/use-destination-types"
-import { asObjectRecord } from "@temper/shared-narrow"
+import { asObjectRecord } from "@akasha/utils-narrow/as-object-record"
 import { buildCompiledCharacterPriority } from "./character-priority"
 import { getCompiledConfig } from "./rules-core"
 import { getTemperCharactersData } from "./temper-characters-data"

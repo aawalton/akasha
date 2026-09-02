@@ -1,4 +1,4 @@
-import { requireNumericKey } from "@temper/shared-narrow"
+import { requireNumericKey } from "@akasha/temper-narrow/require-numeric-key"
 import { ADDON_NAME, PLEDGE_FILTER_ID } from "../constants"
 
 export type ValidatedLmas = LibMultiAccountSetsApi & {

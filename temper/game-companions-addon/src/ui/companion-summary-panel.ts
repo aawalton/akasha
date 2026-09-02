@@ -1,6 +1,6 @@
 import { GREEN } from "@akasha/design-tokens/semantic-color"
 import { TEXT_PRIMARY, TEXT_TERTIARY } from "@akasha/design-tokens/text-color"
-import { requireAt } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 import { applyBuild, equipUpgrades } from "../apply-build"
 import {
   ARMOR_SLOTS,

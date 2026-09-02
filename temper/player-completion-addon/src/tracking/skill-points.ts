@@ -1,5 +1,5 @@
 import type { SkillPointProgress } from "@akasha/temper-completion/completion-progress"
-import { requireFirst } from "@temper/shared-narrow"
+import { requireFirst } from "@akasha/utils-narrow/require-first"
 import { getSavedVariables } from "../saved-variables"
 import {
   ENDLESS_ARCHIVE,

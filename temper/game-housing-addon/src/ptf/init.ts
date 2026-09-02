@@ -23,7 +23,7 @@ import "./visit-cards-render"
 import "./visit-cards-view"
 import "./window-controls"
 
-import { isObjectRecord } from "@temper/shared-narrow"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import { SAVED_VARS_NAME, SAVED_VARS_VERSION, SLASH_CMD } from "./constants"
 import { registerUiStrings } from "./locale/ui-strings"
 import { PortToFriend } from "./state"

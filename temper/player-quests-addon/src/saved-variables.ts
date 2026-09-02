@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@temper/shared-narrow"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import type { AutoQuestTraceEntry } from "./auto-quest/trace-buffer"
 import { SAVED_VARIABLES_NAME, SAVED_VARIABLES_VERSION } from "./constants"
 

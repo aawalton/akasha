@@ -1,4 +1,4 @@
-import { requireAt } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 import {
   ALL_CATEGORIES_ID,
   type CompiledOrderedRule,

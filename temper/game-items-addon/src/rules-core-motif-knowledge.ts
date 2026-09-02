@@ -1,5 +1,5 @@
 import { getLoreLibraryCoords, STYLE_TO_CHAPTERS } from "@temper/game-items-core/motif-chapter-set"
-import { asObjectRecord } from "@temper/shared-narrow"
+import { asObjectRecord } from "@akasha/utils-narrow/as-object-record"
 
 export const CRAFTING_MOTIFS_CATEGORY_INDEX = 2
 

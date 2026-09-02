@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@temper/shared-narrow"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import { isNumber, isString } from "../narrow"
 import { getSavedVariables } from "../saved-variables"
 

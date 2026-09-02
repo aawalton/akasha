@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@temper/shared-narrow"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 
 import { calculateFight } from "../core/analysis"
 import { getShowOverHeal, lastfights, setShowOverHeal } from "../core/selection"

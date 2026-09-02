@@ -1,4 +1,4 @@
-import { requireAt } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 import { ARMOR_SLOTS, JEWELRY_SLOTS } from "./codec/companion-codec"
 import { decodeCompanionBuild } from "./codec/companion-decoder"
 import {

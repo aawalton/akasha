@@ -1,4 +1,4 @@
-import { requireAt } from "@temper/shared-narrow"
+import { requireAt } from "@akasha/utils-narrow/require-at"
 import { ADDON_NAME } from "./constants"
 import { clearPendingAction, forEachPendingAction } from "./rules-core"
 import { formatItemList } from "./rules-core-report"

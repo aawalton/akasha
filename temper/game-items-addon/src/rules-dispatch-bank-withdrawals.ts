@@ -1,6 +1,6 @@
 import { isBackpackRequiredAction } from "@temper/game-items-rules-core/action-storage-capability"
 import { planStockReconcile } from "@temper/game-items-rules-core/bank-reconciliation-planner"
-import { isObjectRecord } from "@temper/shared-narrow"
+import { isObjectRecord } from "@akasha/utils-narrow/is-object-record"
 import { getConfiguredBufferSlots } from "./backpack-buffer"
 import { ADDON_NAME } from "./constants"
 import { clearPendingAction, forEachPendingAction, getCompiledConfig, getPendingAction, getPendingDestination, getPendingRuleIndex, getPendingStockScope, getPendingTargetQuantity } from "./rules-core"

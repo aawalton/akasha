@@ -893,6 +893,9 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-items-core": {
+      "name": "@akasha/temper-items-core",
+    },
     "akasha/temper/temper-lib-addon-keybinds": {
       "name": "@akasha/temper-lib-addon-keybinds",
     },
@@ -1001,6 +1004,7 @@
     "akasha/temper/temper-trading-pricing": {
       "name": "@akasha/temper-trading-pricing",
       "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -3677,6 +3681,8 @@
     "@akasha/temper-hud-components": ["@akasha/temper-hud-components@workspace:akasha/temper/temper-hud-components"],
 
     "@akasha/temper-inventory-automation": ["@akasha/temper-inventory-automation@workspace:akasha/temper/temper-inventory-automation"],
+
+    "@akasha/temper-items-core": ["@akasha/temper-items-core@workspace:akasha/temper/temper-items-core"],
 
     "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:akasha/temper/temper-lib-addon-keybinds"],
 
