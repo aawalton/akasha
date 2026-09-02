@@ -12,7 +12,7 @@ export const awenMigrateStoryEngineToAkasha = {
       statement:
         "The story engine's code is in akasha rather than in `alanwalton/web` and `tools`.",
       workingMemory:
-        "`chapter-words` landed at `c2df6c7441`, built on the existing `word-count`, proven identical to `@stories/text` over 200,000 inputs and carrying 7 tests where the old had none, so nothing in akasha reaches out of it. `stories/text` lives on for two files in `tools/`, which no akasha command may touch. Left: the reader at `alanwalton/web/app/awen`, 51 files with no test, four API routes, `ops tower` at 6 commands, and `tower`, `tower-core` and `tower-engine` untested and not under `akasha/story`.",
+        "The reader is `@akasha/story-ui`, 30 modules at `akasha/story/ui`. The web app carries none of it: 29 files and four API routes went at `e284363224`. Four render components came across at `044d341f15`, taking a submit callback and a signed-out node as props. `stories/text` lives on for two files in `tools/`, which no akasha command may touch. Left: `ops tower` at 6 commands, and `tower`, `tower-core` and `tower-engine`, untested and beside `akasha/story` rather than under it.",
     },
     {
       statement: "Every world, story, chapter and turn the story engine keeps is a page in akasha.",
@@ -32,7 +32,7 @@ export const awenMigrateStoryEngineToAkasha = {
     {
       statement: "Everything in `stories/dirty` has been resolved.",
       workingMemory:
-        "`stories/dirty/open-readings.md` holds 133 bullets, 127 of them Wandering Inn mechanic names read twice and never ruled on: 121 alone, 6 echoing a settled name, 2 pairs that are variants of one another, and 2 questions that would settle many at once. A ruling lands in `the-wandering-inn.world.mechanic-readings.jsonl`, which holds 11,354 already.",
+        "Every one of the 131 names in `stories/dirty/open-readings.md` already carries a reading in `the-wandering-inn.world.mechanic-readings.jsonl`. Three stay `unsure`: `Bane`, `Crusade`, `Midnight Journey`. Both questions that file calls open are answered by the rows. 32 names carry two readings under one `mechanic-slug`. `enchantment` has been a kind all along, holding 26 rows including `sharpness-enchantment`. The file is to go once those three are ruled.",
     },
     {
       statement:
@@ -44,11 +44,6 @@ export const awenMigrateStoryEngineToAkasha = {
       statement: "Every word a game master is served changes without a deploy.",
       workingMemory:
         "The doctrine is in `pages/gm-doctrine-pack` as one page and four attachment files, and `gm-doctrine-pack` and `gm-context-schema` are modules of the engine. Which words reach a game master from a page and which from code is not yet traced.",
-    },
-    {
-      statement: "No deployed code names one story or one world.",
-      workingMemory:
-        "Three hostnames name games: `awen.alanwalton.com` goes to `/games`, `tower.alanwalton.com` to `the-tower-29644e7b`, `dragons.alanwalton.com` to `dragons-dungeons-92c712df`. They are declared in `alanwalton/web/server.ts` and on the `alanwalton-web` web-app page, and each lands on a route that throws.",
     },
     {
       statement: "Nothing akasha holds calls the story engine narrative.",

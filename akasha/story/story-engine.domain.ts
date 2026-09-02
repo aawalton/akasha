@@ -14,6 +14,10 @@ export const storyEngine = {
   ],
   invariants: [
     {
+      invariantKind: "absence",
+      statement: "No deployed code names one story or one world.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A message wrapped whole in square brackets speaks to the game master rather than acts in the world.",
