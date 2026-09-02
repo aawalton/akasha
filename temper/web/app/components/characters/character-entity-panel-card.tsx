@@ -1,18 +1,23 @@
 import { Badge } from "@akasha/design-badges/badge"
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardContent, CardTitle } from "@akasha/design-primitives/card"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
-import { characterRoles as roles } from "@akasha/temper-character-sources/character-roles"
-import { type RoleId } from "@akasha/temper-character-sources/character-roles"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
+import { characterUrl } from "@akasha/temper-build-support/build-url"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
+import {
+  type RoleId,
+  characterRoles as roles,
+} from "@akasha/temper-character-sources/character-roles"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { RaceId } from "@akasha/temper-races/races"
-import { characterUrl } from "@akasha/temper-build-support/build-url"
-import { buildId } from "@akasha/temper-formula-framework/branded-id"
 
 interface CharacterPlanBuild {
   id: string
