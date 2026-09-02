@@ -9,10 +9,8 @@ import {
   inPod,
   installableAt,
   livePod,
-  pushToOrigin,
   type Resolved,
   resolveBuildEnv,
-  saidBy,
 } from "@akasha/service-system/web-app-building"
 import { deployableNamed } from "@akasha/service-system/web-app-reading"
 import {
@@ -70,8 +68,17 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
   const carried = carriedByOrigin(given.root, sha)
   if ("why" in carried) return { report, refusals: [carried.why], code: OPERATIONAL }
   report.push(
-    `source\t${sha}\t${carried.carried ? "origin carries it" : "origin does not carry it yet"}`
+    `source\t${sha}\t${carried.carried ? "origin carries it" : "origin does not carry it"}`
   )
+  if (!carried.carried) {
+    return {
+      report,
+      refusals: [
+        `origin main does not carry ${sha}, and a pod serves what origin carries, so run \`git push origin ${sha}:main\` and deploy again`,
+      ],
+      code: OPERATIONAL,
+    }
+  }
 
   const target = buildTargetOf(plan)
   const pod = target === null ? null : livePod(target)
@@ -125,20 +132,6 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
   if (dryRun) {
     report.push("dry-run\tnothing was applied; run it again without `--dry-run` to carry it out")
     return { report, refusals: [], code: 0 }
-  }
-
-  if (target !== null && !isBuilt && !carried.carried) {
-    const pushed = pushToOrigin(given.root, sha)
-    if (pushed.code !== 0) {
-      return {
-        report,
-        refusals: [
-          `origin would not take ${sha} onto main, and a pod builds what origin carries, so building here would put up code nobody wrote: ${saidBy(pushed)}`,
-        ],
-        code: OPERATIONAL,
-      }
-    }
-    report.push(`pushed\t${sha}\tonto origin main`)
   }
 
   if (differs || !up) {

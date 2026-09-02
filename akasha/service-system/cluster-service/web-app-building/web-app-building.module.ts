@@ -29,13 +29,8 @@ export const webAppBuilding = {
       statement: "Whether origin carries a sha is asked of origin rather than of a local ref.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A sha origin does not carry is pushed onto origin's main before that sha is built.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A push origin refuses is never forced.",
+      invariantKind: "absence",
+      statement: "Nothing here puts a commit onto origin.",
     },
     {
       invariantKind: "departure",

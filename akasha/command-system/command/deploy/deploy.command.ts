@@ -20,7 +20,7 @@ export const deploy = {
     "the namespace stands first, then what is placed in it, then the workload that reads it.",
     "a manifest the cluster already stands as is applied again by nothing, so a second call does nothing.",
     "the build a pod serves is made here, inside that pod, from the commit HEAD stands at.",
-    "a pod takes its source from origin, so a commit origin does not carry is pushed onto main first.",
+    "a pod takes its source from origin, so a commit origin main does not carry refuses the call rather than being pushed onto main first.",
     "that commit is first proved to install from the manifests it tracks, since a workspace resolving on a workstation can be missing from git.",
     "a build already made from that commit is made again by nothing.",
     "what a build needs set is exported beside the manifest code, and a value it names that nothing holds refuses the call.",

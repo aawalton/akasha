@@ -26,7 +26,7 @@ export const deployWebPuttingUp = {
     },
     {
       invariantKind: "departure",
-      statement: "The commit built is proved to install before anything is pushed.",
+      statement: "The commit built is proved to install before anything is applied.",
     },
     {
       invariantKind: "departure",
@@ -39,12 +39,15 @@ export const deployWebPuttingUp = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A commit origin does not carry is pushed onto main before the pod builds that commit.",
+      statement: "A commit origin main does not carry refuses the call.",
     },
     {
       invariantKind: "departure",
-      statement: "A push origin refuses makes the call refuse before anything is built.",
+      statement: "Nothing is applied and nothing is built before origin main carries the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names the commit and the push that would land the commit.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +55,8 @@ export const deployWebPuttingUp = {
     },
     {
       invariantKind: "departure",
-      statement: "A value the build needs that nothing holds is refused before anything is pushed.",
+      statement:
+        "A value the build needs that nothing holds is refused before anything is applied.",
     },
     {
       invariantKind: "departure",
@@ -70,10 +74,6 @@ export const deployWebPuttingUp = {
     {
       invariantKind: "absence",
       statement: "Nothing here puts up a service the cluster does not run as a workload.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The commit pushed carries only the web app being put up.",
     },
   ],
 } as const satisfies Module

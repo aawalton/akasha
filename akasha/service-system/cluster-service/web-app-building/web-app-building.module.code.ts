@@ -23,7 +23,6 @@ const UNFOUND = /Workspace not found "([^"]*)"/
 const SYNC_CONTAINER = "code-sync"
 const REPO_PATH = "/app/repo"
 const STAMP = "build/.built-from"
-const MAIN_REF = "refs/heads/main"
 const FETCHED = "FETCH_HEAD"
 const GOING = "\t"
 const ROLLOUT_WAIT = "5m"
@@ -87,10 +86,6 @@ export function carriedByOrigin(root: string, sha: string): Carried {
     return { why: `git fetch origin main exited ${fetched.code}: ${saidBy(fetched)}` }
   }
   return { carried: runGit(root, ["merge-base", "--is-ancestor", sha, FETCHED]).code === 0 }
-}
-
-export function pushToOrigin(root: string, sha: string): Ran {
-  return runGit(root, ["push", "origin", `${sha}:${MAIN_REF}`])
 }
 
 export function ranOf(argv: readonly string[], at: string): Ran {
