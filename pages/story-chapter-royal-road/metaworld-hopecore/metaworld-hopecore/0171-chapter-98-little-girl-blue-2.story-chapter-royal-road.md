@@ -1,0 +1,377 @@
+---
+id: b7993380-481d-58d0-8282-69f7e909563f
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 98 - Little Girl Blue (2)"
+slug: 0171-chapter-98-little-girl-blue-2
+partOf: metaworld-hopecore
+position: 171
+ownLength: 2710
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3898462/chapter-98-little-girl-blue-2"
+royalRoadId: "3898462"
+---
+
+Los Angeles.Barham.Thursday, 3rd July 2008.
+
+Jack Ferroni sat in his not very well decorated office, waiting.
+
+Across from him, Bernadette “Bebe” Blau, working off a favour long owed, sat in the Knoll Pollock with the new pages face down on her knees. She had turned up at nine in a linen shirt with her sleeves rolled, and they had gone over the script, line by line, prompting questions and answering the questions being prompted.
+
+Nobody in Los Angeles used Bebe’s surname. Ferroni had known the greying brunette since film school. He had also watched her sit uncredited on four pictures that had brought home the golden statue.
+
+“You sent both?” Bebe said, highlighter in hand.
+
+“I did.”
+
+“You’re aware,” Bebe said drily. “That you’ve given her seventy-one to seventy-four. This time, her Guardian is Frederick Curon. He’s not in our industry, but he is… a big man. He’s inside the umbrella, and he has a lot of influence.”
+
+“I did.”
+
+Bebe looked at the ceiling, the way Norbert, his editor, had, checking for God, finding the same nothing. “Are you trying to tank the project?”
+
+“I think it’s the right call,” Ferroni said. “I feel it in my gut. If she is mentally old enough to understand your script, then she’s the one we need. A young actress, no matter how beautiful, who doesn’t understand what we’re trying to make is going to be a liability. We’ll just be treading the same old path as the old script.”
+
+“It’s your houses on the line…” Bebe shrugged. “You’re paying me on the back end, right?”
+
+Jack grinned.
+
+The phone buzzed.The phone on the desk was a speakerphone from the old tenants, the mortgage consultancy, left behind because it was bolted through the desk. It rang at ten past twelve, which was nine at night in France.
+
+“Jacques.”
+
+“Rémy.”
+
+The line had the underwater quality that international lines still had at that hour, a half-second of delay that made smooth conversations into a series of tonal collisions.
+
+“Have we found a girl?”
+
+“We’re waiting on the girl right now.”
+
+“Ha!” Aubert’s English had vastly improved since the last time the script was in his hands. “You must be so confident. You do not have a studio. You do not have a bond. You have four weeks, and you are going to ask me to try and finish everything in three takes to save on film, no?”
+
+“Yeah, that sounds about right…”
+
+“Good. Then we are honest.” The delay yawned. “Jacques. I’m coming down in a few days. Will your girl be ready?”
+
+“Girls,” Bebe said to the speakerphone. “We’re trying out quite a few. The girl Jack wants is a singer.”
+
+“She’s more of a songwriter…” Ferroni squirmed.
+
+“That’s better, because everyone can be a singer.” A sound that he hoped was a laugh crackled through the line. “Can she act?”
+
+Ferroni wondered if he should lie.
+
+A year ago he had watched her walk into a lounge set on a Wednesday and order a coffee three times, on a moving dolly, and be in focus every single time. Every frame usable. No wasted footage. But did that mean she could act? Could she have the means to project the complex facial expressions necessary for the pivotal scene?
+
+“I don’t know,” Ferroni confessed.
+
+The delay came and went.
+
+“Bon,” said Aubert, and he sounded, for some strange reason, genuinely pleased. “An untested film director, with an untested script and an untested actress. This is like the old days, my friend. How we used to make art!”
+
+Jack laughed awkwardly.
+
+The speakerphone crackled. Aubert said, “See you soon,” in his native tongue.
+
+Ferroni leaned back on the Herman Miller. “Oof…Talk about pressure.”
+
+Bebe turned the pages over on her knee.
+
+They were four pages:
+
+INT. TENEMENT CORRIDOR - DAY
+
+Fifth floor. Brown light. A radiator ticking somewhere it
+
+cannot be seen.
+
+JOSIE, 14, comes up the last of the stairs with a paper sack
+
+against her chest. A carton of milk in it, sweating through
+
+the paper. She is not hurrying. She has come up these stairs
+
+four thousand times.
+
+Down the corridor, her own front door stands open.
+
+There are MEN in it.
+
+They have been in that apartment eleven minutes. Everyone she
+
+has ever belonged to is on the floor behind them.
+
+She sees it.
+
+She does not stop.
+
+MAN IN THE DOORWAY
+
+Hey.
+
+She keeps walking. The sack against her chest. A child's pace.
+
+MAN IN THE DOORWAY (CONT'D)
+
+You live up here?
+
+JOSIE
+
+Fifth.
+
+JOSIE (CONT'D)
+
+Sorry.
+
+She does not look into the apartment.
+
+Not a glance. Not a flick. Nothing.
+
+MAN IN THE DOORWAY
+
+Go on, then.
+
+She goes on.
+
+Past the door. Past the men. Thirty feet of brown corridor and
+
+a runner worn through to the boards.
+
+She does not slow down.
+
+She reaches the last door on the landing, shifts the sack onto
+
+her hip, and knocks. Three times. Unhurried. The knock of
+
+somebody who is expected.
+
+Nothing.
+
+She knocks again.
+
+JOSIE (CONT'D)
+
+Open.
+
+Nothing.
+
+She knocks again.
+
+JOSIE (CONT'D)
+
+Please.
+
+Nothing.
+
+She knocks again.
+
+JOSIE (CONT'D)
+
+Please.
+
+The door opens on a chain.
+
+THE PRO. Fifties. He looks at her, blank comprehension.
+
+JOSIE (CONT'D)
+
+Hi. I… I am home.
+
+JOSIE (CONT'D)
+
+Please.
+
+Door opens.
+
+She enters the home.
+
+She laughs at herself. Beaming smile. It is the her most genuine.
+
+JOSIE (CONT'D)
+
+I got the milk…
+
+The men are still in the doorway behind her. She does not turn
+
+around to check.
+
+Hold.
+
+Four pages. No monologue, no excessive direction. Nothing an actress could take a run-up at.
+
+“It’s a horrible thing to hand somebody cold,” Bebe said.
+
+“That’s why it’s the test.” Ferroni squared the pages to the edge of the desk. “Anybody can play a girl whose family’s been killed. You cry. You try not to cry. And it’s fine, and it’s dead, because a girl who cries in that corridor is a girl who dies in that corridor. We need… something special. We need survival instinct.”
+
+Bebe tapped the pages.
+
+“You shot her, turning her head, once.”
+
+“I know. I know,” winced Ferroni. “I know….”
+
+NYC.Eighth Avenue.Tuesday, 8th July 2008.
+
+The rented location was an old dance studio on the sixth floor above a shoe repair and a place that sold deli meats, and it was rented by the hour, and Ferroni had taken two hours. The text said Eppie would be the first. It was in the theatre district, within walking distance, and the air of the place was close enough to give the actresses a feel of what was to come.
+
+There was immense familiarity when she entered the studio. It was like if LAPA had been run down and abandoned for six months, then someone without a budget had come and fixed it up. Sprung floor. A barre down one wall. Mirrors along the other, which somebody had covered with brown paper and masking tape, badly. One window, painted shut, giving out onto an airshaft. A folding table. Three chairs that did not match, which she found funny.
+
+A PD170 sat on an expensive-looking tripod. Clearly, it came from Ferroni’s private collection.
+
+No casting director. No reader. No assistant. No sign on the door.
+
+It wasn’t the sort of place a girl in expensive theatre blacks should walk into by herself, which might have been the point. Her father had accompanied her. Curon had come as far as the corridor, then, realising just how unprofessional it was to helicopter his daughter, decided to sit down at the deli downstairs with a “I’ll be here.”
+
+Eric, her Newfoundland lawyer, followed her with his nose snuffing for danger. He was going to be everywhere she was, on orders of Curon and Davis.
+
+There were two men in the chairs.
+
+The familiar director who looked like he hadn’t slept, in a grey shirt with a collar that had been ironed by a man who did not own an iron.
+
+Beside him was a Frenchman. Utterly unremarkable, and yet, possessed of such ordinariness that a viewer could not look away. He looked like he had just survived a red-eye flight, which was very in-character for Marcel, AKA “The Pro”.
+
+He stood up. “Rémy Aubert,” he said.
+
+“Euphemia Fontaine.”
+
+“I know,” they shook once, firmly. “You’re shorter than the photograph.”
+
+Eppie spun on her ballet flats. Her hair was shoulder-length now, and looked almost supernaturally aesthetic while in motion. “The Sony ones were taken on a stool.”
+
+Aubert made a small sound of agreement and sat back down, seemingly amused.
+
+Beside him, Jack Ferroni had gone grey at the temples since they last met.
+
+“Euphemia.”
+
+“Director.”
+
+“You read it?”
+
+“I read both.”
+
+Ferroni’s smile tightened a little. “Well done. You’re as studious as before,” he said. “Then… do I need to explain anything?”
+
+He picked up four pages from the folding table and held them out.
+
+“This is the scene. Are you familiar? You have four minutes; we shoot once, then we discuss, then we shoot again.”
+
+Two chances? And direction too? Eppie noted Ferroni’s optimism… was this generosity? Or was it desperation?
+
+Eppie took the pages. She scanned the lines. Everything was in the right place.
+
+“Why cold?” she asked, looking up.
+
+“Because Josie doesn’t get four minutes either,” said Ferroni.
+
+The room did not change. The brown paper stayed on the mirrors, and the airshaft stayed grey, and the folding table stayed a folding table. But the gaffer tape on the sprung floor stopped being gaffer tape and became a distance. Thirty feet of it, with a door at the end and a door behind her—and the two metres of dead air between the barre and the wall became the thing she must not look at.
+
+Between herself and Aubert, there was an indeterminable space. Her [Empty Space] activated. Something akin to grids, or the synaesthesia of grids, lay over the space between them. There was no wall, no side door, and no room full of DEA agents, but she could suddenly sense them—imagine them—existing as authentically as Eric or Ferroni.
+
+Ferroni stood beside the camera. He put his eye to the camcorder himself, because there was nobody else. Certainly Eric wasn’t going to man the PD170.
+
+Aubert turned his chair to face the wall. The back became a door. He was Marcel, standing behind it, peeking through the spyhole.
+
+“Whenever you like,” said Ferroni, and rolled the tape.
+
+“Ready.” Eppie closed her eyes.
+
+Her first film audition. And a film to vindicate the daughterly love she owed to Frederick Curon, a good man who was being smeared by jealous misunderstanding. Surely, this meant that she needed to fire up every cylinder she possessed.
+
+Her [Script Analysis] roared, filling her with understanding of Josie’s internal horror. Her body felt inundated by inner fire as [Physicality] conjoined with [Act Natural], [Hitting the Mark] with [Love the Light].
+
+[The Empty Space] controlled the cadence of her steps. [The Facial Landscape] governed every minute muscle as she walked.
+
+Her [Charisma] smouldered, her [Comeliness] was ice cool.
+
+If this was what the [System] desired to repay Curon—then a performance is what she would give.
+
+Ferroni had been doing this for twenty-six years, and he had a system for measuring the natural talent of his stars.
+
+He would watch the first take for the frame, not the performance. On a three-inch flip-out screen, this was mostly guesswork, but he had enough years in him to judge her on headroom, on whether she held the eyeline she had set for herself, and on whether her hands pulled focus off her face.
+
+The first pass was about hitting the mark. The second was about the act.
+
+Eppie crouched. Just as he was about to question why, “Josie” came up the stairs.
+
+THE STAIRS?!
+
+They were in a studio, and she was climbing stairs that were not there—head bobbing, body forward, hunched around something. Both hands were under it, high against her chest. He saw the weight in her forearms before he saw the shape, and then the shape arrived: a paper bag, something cold in it, sweating through and starting to slip.
+
+He recognised it as object work—the kind they teach in theatre and almost nowhere else.
+
+Milk, Ferroni thought. She’s carrying the milk.
+
+She adjusted it twice, once before she finished walking up, and once again when she got her footing.
+
+There was no corridor. There was a sprung floor and a strip of gaffer tape.
+
+She braced herself against a door that wasn’t there and hitched the bag of groceries higher.
+
+Then she started to walk.
+
+She did not look at the tape once. She just walked like she was walking home for the ten thousandth time. And she was in frame. He hadn’t moved the PD170 an inch, but she was well within the framing the entire time, constrained by an invisible corridor.
+
+She did not slow down.
+
+She just… walked, natural as anything, oblivious as anything, past the invisible door behind which were two men armed to the teeth, behind which the bodies of her family bled out on the floor.
+
+Then she was face to face with Rémy.
+
+She hitched the groceries again, and knocked. She couldn’t find her keys, or didn’t have them. She put her hand two inches from Rémy’s face and knocked.
+
+Knock! Knock!
+
+The phantom knocking made Ferroni’s hair rise.
+
+“Open…” she said to the door, still smiling, a faint, guileless smile.
+
+The girl’s eyes were enormous and expressive. He saw her pupils dilate, a little, as if something inside her was controlling them with a lever.
+
+Rémy remained passive. Please…
+
+Rémy began to sweat.
+
+Please…
+
+Rémy was acting, now, joining the girl. His hand hovered over the door, the lock, the chain.
+
+Hi—I… I am home.
+
+The voice! Ferroni realised. She was a singer, right? Her vocal control was unreal. What came out of Eppie’s throat was both natural and unnatural. A child pleading to be saved, while trying to appear as casual as the passing wind.
+
+He couldn’t see Rémy’s expression, but he could see the door opening through his peripheral vision.
+
+Please…
+
+THERE IT WAS! The last “Please” came out of somewhere higher and thinner, four years younger than the girl standing on his floor, and it was the sound of a child who had run out of words.
+
+The desperation was in her face now. There was no turning back, no walking back down the stairs. Tears the size of beads were rolling down her face.
+
+Now that she was past the men, the girl finally cracked. It was a better read than the script. Eppie had shown the silken, psychic line where panic overwhelms the woman, and Josie became a child again.
+
+The door opened.Or rather, Aubert pulled the chair aside.
+
+HOPE, hope arrived in under a quarter of a second and went the whole way up into her eyes, and it was a wonderful smile, and it stayed—stayed exactly where it was while her chin went once, very slightly, and her right hand came off the milk that was not there and flattened against a door frame that was not there.
+
+It resembled, he recalled later, a very clichéd impression—the blooming of sunflowers in time lapse.
+
+“Hi,” she said. “I… I am home.”
+
+They had gone off script. Ferroni, who had a system, stopped using it. He wasn’t even looking at the screen anymore.
+
+He was not thinking about the cut. He was counting setups.
+
+Master from the head of the corridor on a 24mm, let her walk into it. Steadicam behind her at hip height—no track, not down a tenement hallway.Turnaround at the door for the reverse. Two singles. An over. An insert on the hand against the frame.
+
+Then he stopped counting, because he had just watched a girl play the entire scene in one. Was there need for coverage then?
+
+Maybe. Coverage is insurance.
+
+A oner, Ferroni thought, and felt something very close to fear. What if we do the whole thing as a oner?
+
+“I got the milk,” she said, and handed Aubert the bag.
+
+Rémy Aubert received the milk, his body taking the invisible weight.
+
+“Welcome…” the veteran Frenchman licked his dry lips, still in character. “Welcome home.”

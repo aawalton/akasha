@@ -1,0 +1,213 @@
+---
+id: 1a3128d9-f5bb-5c0a-a845-495484aad9d7
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 98 - Little Girl Blue"
+slug: 0170-chapter-98-little-girl-blue
+partOf: metaworld-hopecore
+position: 170
+ownLength: 2648
+unit: words
+publishedAt: 2026-09-02
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3898461/chapter-98-little-girl-blue"
+royalRoadId: "3898461"
+---
+
+Sony Tower.Tuesday, 1st July 2008.
+
+Scripts did not usually arrive at Sony Tower.
+
+They arrived at Sony’s own film division in Culver City. Scripts arrived with a cover letter on letterhead. They arrived, at minimum, with a courier who had been paid enough to wait for a signature without sighing.
+
+What arrived at half past ten on Tuesday morning was a courier in a wet mesh singlet, dripping onto the marble of the thirty-fourth floor, holding out a clipboard with a biro tied to it by a length of butcher’s string.
+
+“Fontaine,” the kid said to the reception. “Somebody’s gotta sign.”
+
+Eppie was down in five minutes. She signed for it, then took it upstairs.
+
+The package was a padded envelope, reinforced at one corner with parcel tape that had been applied by hand and not by a machine. Inside were two scripts, brass-bradded, and one index card.
+
+The thin one was one hundred and six pages. The thick one was one hundred and thirty-one, and its title page read THE PRO, original screenplay by A. Vasseur, second revised draft, and in the corner, in pencil, in a hand that belonged to no typesetter, someone had written, pp.71-74. Read at your own peril.
+
+Someone had run both drafts through a watermarking printer, so that on every single page, running diagonally from the bottom left to the top right in eight per cent grey, were the words FONTAINE and a six-digit number. It was an anti-piracy measure.
+
+The index card was ruled, and it had come with a personalised message.
+
+Miss Fontaine —
+
+There are two. The thin one is mine. The thick one is what I won at auction.
+
+Our script doctor says you should see the original as well to understand our intent.
+
+There is every opportunity to say no. The role requires youth, delicacy and maturity, and I wouldn’t have it any other way.
+
+— J. Ferroni
+
+“AH—” Eppie made a cute noise with her mouth. “Ferroni?!”
+
+“Bless you,” said Curon.
+
+Eppie stared at her father, the cringe travelling up her legs in goosebumps until her neck muscles tightened.
+
+Curon coughed. “Ferroni? The cable director? I know him. Four nominations, no win. He did that show with the, er… “ Curon made a chopping motion with one hand. “Hey, weren’t you in one of his episodes?”
+
+“Yeah, last year,” Eppie relented on punishing Curon for his dad jokes. “I was fifteen. It was a favour from Lady Vaughan. She bought me a line so I could get my Guild Card.”
+
+“I’ve never seen it,” Curon sat up. “Is it on YouTube?”
+
+Eppie was also curious. She had… never searched herself on YouTube. All she did was randomly update her MySpace and interact with her fans by throwing Maddy the relevant materials.
+
+She typed her own name into the search box, faintly appalled at the vanity purring in her chest like a nesting kitten.
+
+The page loaded instantly. Sony took its latency very seriously.
+
+There were dozens. The same nine seconds, uploaded twenty different ways, every one soft as a wet window. EPPIE FONTAINE FIRST EVER ACTING ROLE!!! One slowed to half speed, one set to piano.
+
+Curon was beside himself. “This one says 2 HOURS of EUPHEMIA FONTAINE HEAD TURNING ON LOOP.”
+
+Someone had pulled a four-second loop, upscaled the image, and blown it up until her face was mostly eye, the pale ring, the dark one round it, lit warm. The thread beneath ran a hundred deep and was entirely about whether the colour was real.
+
+“They’re arguing about your eyes,” said Curon. “The colour.”
+
+He read the comments. “When did you get surgery on your eyes?! You had it done in Turkey? At age 6?!”
+
+If Eppie’s face was any warmer, her cheeks could have heated breakfast. She cat-slapped her faux-father until he closed the video.
+
+“So?” he gestured to the script.
+
+“So I’m going to read it.” Eppie put her hand on the copies.
+
+Curon put his hands on the keyboard. After Googling Vasseur’s infamy, he looked at her strangely.
+
+“Shall we?” Eppie offered.
+
+“Read the thin one,” he said. “You get the version Ferroni wants to make. I’ll take the version Ferroni bought. Then, we swap.”
+
+Eppie looked at him, and at the two scripts on the low table with her own name running through them like a watermark in banknote paper, and wondered just how particular the scripts could be.
+
+She read the edited copy on the floor, with her head against Curon’s enormously expensive couch, because the actual couch was still populated with instruments. She read it by the light from Midtown, because that was the only natural light available, and the idea of it was aesthetic.
+
+It wasn’t in her plan to do a movie, and even now, she wasn’t sure if it was in her best interests. The [System] wanted theatre, but it had also given her a suitable skill for films, [The Facial Landscape]. Seeing as the [System] never misfired, what did this mean? The script had arrived through pure serendipity, so it couldn’t be a coincidence. Was this then… something like a [Quest]?
+
+Her other concern was that, indeed, was the GFC the right time to make a film?
+
+The answer… was counterintuitive. It was also something right up her [Business Acumen].
+
+Recessions were the cheapest time on earth to make a film and the most expensive time to finance one. Ferroni had money enough to shoot. She had a Trust whose entire purpose was to finance art. Between them, that put her on the right side of both.
+
+Cinemas would be full. A ticket was the last cheap night out that still felt like one, and 2009 would be a record year that nobody would believe if she said it aloud. The financial world would burn, foreclosures would soar—and domestic box office would take more money than it had taken in its entire history, ten per cent up on the year.
+
+And the disc. Sell-through was dying, and yet, no one noticed what was eating it. It was the dollar-a-night red machine, in a supermarket or McDonald’s foyer. A small, violent picture with a blue-eyed femme fatale would rent forever.
+
+The machine was already out there. It had been for months. Nobody knew yet that it was going to eat Blockbuster alive.
+
+Eppie was surprised to find that she knew the script by page eleven.
+
+She knew it the way a familiar ear knows a song from the first bar, which happened a great deal in a world where the artists took different names and wrote very nearly the same songs.
+
+Euphemia had never had the time for films. Lana had. It wasn’t in cinemas, but at thirty-five thousand feet, in the blue dark of a cabin with a seatback screen and fourteen hours to fill. She had watched this one somewhere over the Pacific and had not thought about it again.
+
+Everything else she knew about it was the discourse. Decades of a different kind of knowing, generally a worse one.
+
+This was a film that should have earned its cult honestly.
+
+A lonely man who drank milk. A girl without love who loved her kid brother. A potted plant carried from room to room like a hostage, an ending resolved via self-sacrifice and something near healing. It should have left audiences in tears.
+
+And yet it left them with the ick.
+
+[Memorisation] and [Script Analysis] fired together.
+
+Two stars out of four, the Chicago Sun-Times, November of 1994. Roger Ebert had not needed the full review to find it: there was, he wrote, “something wrong about placing a 12-year-old character in the middle of this action,” and in what was “essentially an exercise — a slick urban thriller — it seems to exploit the youth of the girl without really dealing with it.”
+
+His partner across town had been blunter. Gene Siskel accused Besson of dabbling “with a kiddie porn sensibility in presenting the girl as a tart.”
+
+The longer cut, when it came, settled nothing. It restored the very scenes that had made everyone uncomfortable in the first place, and the discomfort simply had more room to affirm the ick.
+
+The young actress spent the next thirty years being asked about it. She would grant that it launched her career, which was true, and she would eventually say the plain thing about the film itself: “Cringey”.
+
+1994 was not a period in the industry that respected consent, or sense.
+
+Even so, the vision had been too much for the men making it. Eppie’s own read on Jean Reno—her present-day Rémy Aubert—was that he had given up arguing Besson out of it somewhere in preproduction and had simply played the man as slow. Not a decision about character. A decision about insulation. He was afraid the audience would be afraid, and a simpleton could not be held to account for what an adult man would have to answer for.
+
+Which was, Eppie thought, exactly the flaw.
+
+Léon’s simplicity was not goodness. It was a dodge—a way of not writing the scene, so that nobody in the room ever had to decide what the man actually was. And it cost the picture the one thing that might have saved it, because the director had refused, the whole way through, to code the two of them as found family.
+
+So Mathilda’s safest anchor, in the end, was the plant.
+
+Here, the “cringe” film had never been made at all. It had died in 1997, three weeks out from a start date, with a twelve-year-old’s name still on the cast list, her mother and father sitting in a producer’s office with a lawyer they had paid for themselves, and a leading man who had stood up and drawn a line he would not cross.
+
+And she was sitting on the floor of an office on Madison Avenue holding the version where somebody in possession of a lot of skill had gone in after it with a knife.
+
+[Script Analysis] meowed every few pages, purring with approval.
+
+It never gave her words. It gave her the building in section: load-bearing scenes lit, decorative ones dim, the joins visible. And what it did now was lay the thing she was reading over the thing she remembered, like two sheets of tracing paper, and show her the places where the lines did not meet.
+
+Eppie felt pleasantly surprised.
+
+In the original, the Pro had been a holy fool. The script doctor, “Bebe”, had re-stylised a code that many people, even in 2008, were not ready to embrace. He was barely verbal; he signed his name with a mark. He was functionally illiterate. He drank milk because he had been told once that it was good for you. He slept sitting up in a chair with a gun in his hand and did not know that other people did not. He was different.
+
+And he was a savant. He had operated for thirty years without failure.
+
+But Bebe had added notes for the man’s true interiority. His loneliness, his protectiveness, the richness of his desire for something to love. The peace that he would receive, knowing that the girl was safe.
+
+The scene happens, the cringe rears its ugly head, but the girl was fourteen now, and played by an older actress no less. And most importantly, the refusal was concrete. Non-porous concrete, so that the embrace was between a found father and a lost child seeking shelter.
+
+The rest of the edits were structural. The refusals were spread about across their interactions. A girl who didn’t know any other currency must be made to trust, until it ends with a final lie that her adopted father would be okay, and that she should go on ahead.
+
+So, in the end, the Pro was not a holy fool. His divergence did not make him one. He was a good man, and would have been a good father. He was genuinely, structurally good; he had never considered anything other than compassion for his found daughter.
+
+The second was the girl who had grown up in a flat where the kitchen scales were not for baking. Her costume had been changed to something far more naturalistic. She was a truant from school, but she was smart, gifted, squandering her talents. She sought from her family what they could not give, loving only her murdered brother, the source of her unyielding vengeance.
+
+Yet, like Antigone, like Tamora, like Abigail, this was now her sin—the principal preoccupation of her role. She became the Avenger who would burn her found paradise to sate her revenge.
+
+Her faux-father would earn her trust too late. And that—was the tragedy.
+
+Eppie sat with the script for a while, because the surgery had certainly improved the patient. She understood very well the future sensibilities that would arrive and judge the film, and when she looked up at Frederick Curon, she couldn’t help but feel strangely warm.
+
+It’s us.
+
+She read the girl’s introduction again.
+
+An untethered young woman finds a savant with a genuine heart, whose own walls would be broken down by said young woman, and the two would find… family.
+
+Maybe I should ask for a car chase… Eppie joked to herself, just to ease the strangeness in her chest.
+
+Jokes aside, the parallels were a little unsettling. A music producer had decided, driven by conscience, to fly across the state, visit her in a spare room, and decided that he would be her missing father figure.
+
+She thought about the eleven accounts that had spent a fortnight typing his little protégée into comment fields on nine outlets, about the cropped airport photo zoomed in on her legs, and the ultra-close up of them holding hands.
+
+Artistic Intent.
+
+Yes, her world really was that shallow. Yet, she believed there was a method for telling apart genuine affection and salacious attention. Did Euphemia Fontaine, the philosophical zombie whom she now piloted, NOT deserve happiness? Her body disagreed. It loved the affection. It purred.
+
+And this script… was the [System] behind this? Was Bebe her new Dr Kirby? Ferroni her Cooper?
+
+Her father looked up from the couch, still holding the old script.
+
+“Jesus Christ…” he said to her. “No wonder this never got made.”
+
+“Thankfully,” she raised hers. “This one deserves to be made.”
+
+Before she decided to audition, Eppie had a remaining concern. The question of [Causality] and deservedness.
+
+Curon sent for Eric, who came up to say hi and do the bidding of their A&R Director, as well as discuss with Eppie the make-up of her special contracts.
+
+“You realise,” her Newfoundland listened to Eppie explain the new script to Curon, then crossed his arms. “That if the film does make money, Vasseur will come crawling out of the woodwork to claim his credit. That you will have to interact with him. We can bury his name here and there, but it’ll be there, especially in the trade magazines.”
+
+“Maddy can take care of that,” Curon hand-waved Eric’s concern. “With our budget? For our Eppie? What does Vasseur have on us? Ha!”
+
+Curon paused. “Assuming you produce another hit in 2009, of course. Something thematically appropriate.”
+
+Oh… you bet your ass I will. Eppie hid her smirk.
+
+“I will,” she said, then she looked up. “Eric. Did you find anything on the original girl?”
+
+“I ran it through Salcedo. They got back within hours.”
+
+He showed her the email.
+
+BRENNAN, NANCY R. b. 1985, Encino CA. Credits: one — “Marchmont”, TV movie, 1997, billed ninth. Attached as JOSIE on THE PRO (unproduced), 1997; contract terminated with picture. No SAG membership after 1999. No interviews, appearances or representation on record. Current: employed, greater Sacramento area, outside the industry. Details withheld pending instruction.
+
+Twenty-three years old. One credit. Billed ninth.
+
+Life really was a series of revolving doors.
