@@ -8,10 +8,9 @@ import {
   overEachFile,
   TEXTS,
   textIn,
+  textNamed,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-
-const TS = ".ts"
 
 export type Said = {
   readonly path: string
@@ -20,7 +19,7 @@ export type Said = {
 
 export function everySpeltIn(change: Change, shadow: Shadow): ReadonlyMap<string, readonly Said[]> {
   const spelt = [...everyFileOf(shadow.index)].flatMap((path) => {
-    if (!path.endsWith(TS)) return []
+    if (!textNamed(path)) return []
     const text = textIn(change, path)
     if (text === null) return []
     return speltIn(path, text)
@@ -53,7 +52,7 @@ export function reasonsIn(
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const every = everySpeltIn(change, shadow)
   return overEachFile(change, (given) => {
-    if (!given.path.endsWith(TS)) return []
+    if (!textNamed(given.path)) return []
     return reasonsIn(given.path, bodyOf(given), every)
   })
 }
