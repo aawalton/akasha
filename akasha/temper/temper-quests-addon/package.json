@@ -1,0 +1,25 @@
+{
+  "name": "@akasha/temper-quests-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./quests-constants": "./quests-constants/quests-constants.module.code.ts",
+    "./quests-saved-variables": "./quests-saved-variables/quests-saved-variables.module.code.ts",
+    "./quests-chatter-name-tables": "./quests-chatter-name-tables/quests-chatter-name-tables.module.code.ts",
+    "./quests-chatter-names": "./quests-chatter-names/quests-chatter-names.module.code.ts",
+    "./quests-decide": "./quests-decide/quests-decide.module.code.ts",
+    "./quests-classify": "./quests-classify/quests-classify.module.code.ts",
+    "./quests-trace-buffer": "./quests-trace-buffer/quests-trace-buffer.module.code.ts",
+    "./quests-trace": "./quests-trace/quests-trace.module.code.ts",
+    "./quests-auto-quest": "./quests-auto-quest/quests-auto-quest.module.code.ts",
+    "./quests-slash-commands": "./quests-slash-commands/quests-slash-commands.module.code.ts",
+    "./quests-public-api": "./quests-public-api/quests-public-api.module.code.ts",
+    "./quests-entry": "./quests-entry/quests-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-quests-trace": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TemperQuests",
+  "title": "Temper Quests",
+  "description": "Answer a quest giver's dialogue in the player's place",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": ["TemperQuests_SavedVariables"],
+  "dependsOn": ["TemperHud"]
+}

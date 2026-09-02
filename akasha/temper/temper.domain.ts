@@ -149,6 +149,7 @@ export const temper = {
     "workspace-package/temper-companion-codec",
     "eso-addon/temper-characters-addon",
     "eso-addon/temper-capture-datamining-addon",
+    "eso-addon/temper-quests-addon",
     "workspace-package/temper-player-profile",
     "workspace-package/temper-characters-character-ui",
     "workspace-package/temper-companions-ui",
