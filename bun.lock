@@ -783,6 +783,15 @@
     "akasha/temper/temper-capture-sales": {
       "name": "@akasha/temper-capture-sales",
     },
+    "akasha/temper/temper-capture-sales-addon": {
+      "name": "@akasha/temper-capture-sales-addon",
+      "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-capture-sales": "workspace:*",
+        "@akasha/temper-capture-writer": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+      },
+    },
     "akasha/temper/temper-capture-shapes": {
       "name": "@akasha/temper-capture-shapes",
     },
@@ -909,6 +918,17 @@
       "name": "@akasha/temper-formula-framework",
       "dependencies": {
         "@akasha/day": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-game-catalog-capture-addon": {
+      "name": "@akasha/temper-game-catalog-capture-addon",
+      "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
+        "@akasha/temper-capture-writer": "workspace:*",
+        "@akasha/temper-catalog-core": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-narrow": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
@@ -1046,6 +1066,13 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
+    "akasha/temper/temper-skill-kinds": {
+      "name": "@akasha/temper-skill-kinds",
+      "dependencies": {
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-skill-lines": {
       "name": "@akasha/temper-skill-lines",
       "dependencies": {
@@ -1176,6 +1203,7 @@
     "akasha/workspace-paths": {
       "name": "@akasha/workspace-paths",
       "dependencies": {
+        "@akasha/command-system": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -3629,6 +3657,8 @@
 
     "@akasha/temper-capture-sales": ["@akasha/temper-capture-sales@workspace:akasha/temper/temper-capture-sales"],
 
+    "@akasha/temper-capture-sales-addon": ["@akasha/temper-capture-sales-addon@workspace:akasha/temper/temper-capture-sales-addon"],
+
     "@akasha/temper-capture-shapes": ["@akasha/temper-capture-shapes@workspace:akasha/temper/temper-capture-shapes"],
 
     "@akasha/temper-capture-writer": ["@akasha/temper-capture-writer@workspace:akasha/temper/temper-capture-writer"],
@@ -3668,6 +3698,8 @@
     "@akasha/temper-explain": ["@akasha/temper-explain@workspace:akasha/temper/temper-explain"],
 
     "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:akasha/temper/temper-formula-framework"],
+
+    "@akasha/temper-game-catalog-capture-addon": ["@akasha/temper-game-catalog-capture-addon@workspace:akasha/temper/temper-game-catalog-capture-addon"],
 
     "@akasha/temper-game-catalog-capture-host": ["@akasha/temper-game-catalog-capture-host@workspace:akasha/temper/temper-game-catalog-capture-host"],
 
@@ -3724,6 +3756,8 @@
     "@akasha/temper-settings-panel": ["@akasha/temper-settings-panel@workspace:akasha/temper/temper-settings-panel"],
 
     "@akasha/temper-shopping": ["@akasha/temper-shopping@workspace:akasha/temper/temper-shopping"],
+
+    "@akasha/temper-skill-kinds": ["@akasha/temper-skill-kinds@workspace:akasha/temper/temper-skill-kinds"],
 
     "@akasha/temper-skill-lines": ["@akasha/temper-skill-lines@workspace:akasha/temper/temper-skill-lines"],
 
