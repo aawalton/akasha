@@ -1,0 +1,12 @@
+{"id":"019edfe7-9584-75c5-8fd2-2657c515e269","seq":1718,"title":"Pray","completedAt":"2026-06-19T12:42:36.606Z","dueDate":"2026-06-19","priority":"p2","category":"faith","recurrence":"FREQ=DAILY","toDoSlug":"pray","valueSlug":"faith"}
+{"id":"019ee1bc-745b-7e50-a1c4-0f6916000425","seq":1721,"title":"Explore persona — chess instructor (Erin Solstice)","completedAt":"2026-06-19T21:14:44.504Z","dueDate":"2026-06-19","priority":"p3"}
+{"id":"019ee1bc-9821-7d11-a38e-37fdffb3719f","seq":1722,"title":"Explore persona — chess instructor (Erin Solstice)","completedAt":"2026-06-19T21:14:53.357Z","dueDate":"2026-06-19","priority":"p3"}
+{"id":"019ee1c0-5964-70f5-9ea7-fcb54e730571","seq":1723,"title":"Breakfast","completedAt":"2026-06-19T21:18:59.719Z","dueDate":"2026-06-19","priority":"p2","category":"health","recurrence":"FREQ=DAILY","toDoSlug":"breakfast","valueSlug":"health"}
+{"id":"019ee1c7-9d1a-78b8-9632-bd5a328ff65b","seq":1724,"title":"Explore persona — chess instructor (Erin Solstice)","completedAt":"2026-06-19T21:26:55.856Z","dueDate":"2026-06-19","priority":"p3"}
+{"id":"019ee1c7-9e52-7efa-8c1a-d86a0b423506","seq":1725,"title":"Explore persona — musician (Euphemia Fontaine)","completedAt":"2026-06-19T21:26:56.186Z","dueDate":"2026-06-19","priority":"p3"}
+{"id":"019ee1f6-799e-746f-a07e-01a3680c3341","seq":1726,"title":"ZZ verify one-off 12635","completedAt":"2026-06-19T22:18:30.000Z"}
+{"id":"019ee1f6-7abc-7ba3-971d-94b4720fe145","seq":1727,"title":"ZZ verify recurring 12635","completedAt":"2026-06-19T22:18:30.000Z","dueDate":"2026-06-19","recurrence":"FREQ=DAILY"}
+{"id":"019ee21a-22f5-7d06-9a4a-439dd1f7f410","seq":1728,"title":"Explore persona — author","completedAt":"2026-06-19T22:57:04.078Z","dueDate":"2026-06-19","priority":"p3"}
+{"id":"019ee26f-1806-71bf-a9f6-f4f163cfa602","seq":1736,"title":"Explore persona — visual artist","completedAt":"2026-06-20T00:29:51.776Z","dueDate":"2026-06-19","priority":"p3"}
+{"id":"019ee2e2-c9d4-77a5-822a-c89e33e8685b","seq":1737,"title":"Brush + Floss","completedAt":"2026-06-20T02:36:13.967Z","dueDate":"2026-06-19","priority":"p3","category":"health","recurrence":"FREQ=DAILY","toDoSlug":"brush-floss","valueSlug":"health"}
+{"id":"019ee2e2-cdfc-7e08-afaf-618a81f99989","seq":1738,"title":"Shower","completedAt":"2026-06-20T02:36:15.129Z","dueDate":"2026-06-19","priority":"p2","category":"health","recurrence":"FREQ=DAILY","anchoredFromCompletion":true,"toDoSlug":"shower","valueSlug":"health"}

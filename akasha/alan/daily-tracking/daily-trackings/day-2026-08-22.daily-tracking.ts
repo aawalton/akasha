@@ -1,0 +1,27 @@
+import type { DailyTracking } from "../daily-tracking.page-type.ts"
+
+export const day20260822 = {
+  id: "01a028ef-859d-7000-b220-dc5b82463d30",
+  pageTypeSlug: "daily-tracking",
+  slug: "day-2026-08-22",
+  title: "@date:2026-08-22",
+  date: "2026-08-22",
+  healthPoints: 2.2039,
+  taskPoints: 0,
+  sleepPoints: 470,
+  funPoints: 0,
+  learnPoints: 0,
+  strengthVolume: 0,
+  nutritionPoints: 118,
+  breathingPoints: 0,
+  activeCalories: 116.55700000000003,
+  wordsReadPoints: 0,
+  wordsReadSnapshot: 35501681,
+  inboxTasks: 9,
+  inboxTasksClearedToday: false,
+  inboxTemperTasks: 13,
+  inboxTemperTasksClearedToday: false,
+  inboxTexts: 1,
+  inboxTextsClearedToday: false,
+  sessions: "jsonl",
+} as const satisfies DailyTracking
