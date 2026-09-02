@@ -5,6 +5,7 @@ export const inboxes = {
   pageTypeSlug: "domain",
   slug: "inboxes",
   definition: "the inboxes Alan keeps at empty",
+  pluralSlug: "inboxes",
   partSlugs: [
     "readout/inboxes-email",
     "readout/inboxes-tasks",
