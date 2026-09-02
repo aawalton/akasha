@@ -32,21 +32,32 @@ function firstOf(said: string): string | null {
 // WHAT THE TOOLS WRITE BESIDE A SEAT, BY THE NAME IT LANDS UNDER IN AKASHA. A record and a nested
 // value both land under the first name in their path, which is the one akasha declares; the fields
 // beneath it are the record property's own business and are declared there.
-function carriedNames(body: string, writer: string): ReadonlySet<string> {
-  const found = new Set<string>()
+//
+// Each name is kept with the file it was read out of. Two files write here, not one: the tables in
+// TABLES, and the single name WRITER builds — TABLES:34 says in so many words that `context-replaced`
+// is absent from it. A refusal that named TABLES for every value told whoever read it to go looking
+// in a file that does not carry the name it quoted.
+function carriedNames(body: string, writer: string): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
   const carried = CARRIED_BLOCK.exec(body)?.[1]
   if (carried !== undefined) {
     for (const one of carried.matchAll(CARRIED_ENTRY)) {
       const first = firstOf(one[1] as string)
-      if (first !== null) found.add(first)
+      if (first !== null && !found.has(first)) found.set(first, TABLES)
     }
   }
   const records = RECORDS_BLOCK.exec(body)?.[1]
   if (records !== undefined) {
-    for (const one of records.matchAll(RECORDS_ENTRY)) found.add(one[1] as string)
+    for (const one of records.matchAll(RECORDS_ENTRY)) {
+      const name = one[1] as string
+      if (!found.has(name)) found.set(name, TABLES)
+    }
   }
   const replaced = REPLACED_LINE.exec(writer)?.[1]
-  if (replaced !== undefined) found.add(camel(replaced))
+  if (replaced !== undefined) {
+    const name = camel(replaced)
+    if (!found.has(name)) found.set(name, WRITER)
+  }
   return found
 }
 
@@ -108,24 +119,26 @@ export const seatValuesDeclared: Check = (repo) => {
   }
 
   const messages: string[] = []
-  for (const one of [...carried].sort()) {
+  for (const one of [...carried.keys()].sort()) {
+    const wroteIt = carried.get(one) as string
     if (beside.has(one)) continue
     if (committed.has(one)) {
       messages.push(
-        `${one} is written beside a seat's page by ${TABLES} and declared committed by ${PAGE_TYPE} — ` +
+        `${one} is written beside a seat's page by ${wroteIt} and declared committed by ${PAGE_TYPE} — ` +
           "a value that commits cannot be one observed of a seat"
       )
       continue
     }
     messages.push(
-      `${one} is written beside a seat's page by ${TABLES} and declared nowhere on ${PAGE_TYPE} — ` +
+      `${one} is written beside a seat's page by ${wroteIt} and declared nowhere on ${PAGE_TYPE} — ` +
         "it lands under a name akasha carries nothing for and is read back by nothing"
     )
   }
   for (const one of [...beside].sort()) {
     if (carried.has(one)) continue
     messages.push(
-      `${one} is declared beside a seat's page by ${PAGE_TYPE} and written by nothing in ${TABLES}`
+      `${one} is declared beside a seat's page by ${PAGE_TYPE} and written by nothing in ` +
+        `${TABLES} or ${WRITER}`
     )
   }
 

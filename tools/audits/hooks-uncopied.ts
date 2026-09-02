@@ -25,17 +25,28 @@ export function basename(path: string): string {
   return path.split("/").pop() ?? path
 }
 
-export function registeredHooks(document: unknown): Map<string, string> {
+// WHAT `settings/agents.json` REGISTERS, AND WHERE THAT LANDS IN THIS CHECKOUT. `at` has the home
+// prefix and `repos/` both removed, which is what `git ls-files` can be matched against. `token` is
+// the string the settings file actually carries. The two are kept apart because the refusal quotes
+// the registration back to whoever reads it, and `at` with a home prefix pinned back on the front is
+// a path nothing registers — `homeRelative` removed `repos/` as well, and only one of the two came
+// back.
+export interface Registration {
+  readonly at: string
+  readonly token: string
+}
+
+export function registeredHooks(document: unknown): Map<string, Registration> {
   const commands: string[] = []
   commandsIn(document, commands)
-  const found = new Map<string, string>()
+  const found = new Map<string, Registration>()
   for (const command of commands) {
     for (const token of tokensIn(command)) {
       const tail = homeRelative(token)
       if (tail === null) continue
       if (!tail.startsWith(HERE)) continue
       const name = basename(tail)
-      if (!found.has(name)) found.set(name, tail)
+      if (!found.has(name)) found.set(name, { at: tail, token })
     }
   }
   return found
@@ -113,14 +124,16 @@ export const hooksUncopied: Check = (repo) => {
   }
 
   const refusals: string[] = []
-  for (const [name, registeredAs] of [...hooks].sort()) {
-    const own = registeredAs.slice(HERE.length)
+  const byNameFirst = ([one]: readonly [string, Registration], [other]: readonly [string, Registration]): number =>
+    one < other ? -1 : one > other ? 1 : 0
+  for (const [name, registration] of [...hooks].sort(byNameFirst)) {
+    const own = registration.at.slice(HERE.length)
     for (const relPath of byName.get(name) ?? []) {
       if (relPath === own) continue
       refusals.push(
         refusalText(
           "hook-copied-into-code",
-          { name, registered: registeredAs, path: relPath },
+          { name, registered: registration.token, path: relPath },
           root
         )
       )

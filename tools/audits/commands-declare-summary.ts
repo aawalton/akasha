@@ -1,40 +1,30 @@
 import { AKASHA, rootFor } from "@akasha/pages-system/checkout-roots"
 import type { AsyncCheck } from "../lib/check.ts"
-import { commandSurface } from "../lib/command-surface.ts"
+import { commandSet } from "../ops/set.ts"
 import { judge, over } from "@akasha/verdict/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
 
 const NAME = "commands-declare-summary"
 
+// A SUMMARY IS READ FROM FILE TEXT, SO NO MODULE NEEDS TO LOAD FOR THIS TO ANSWER. `declared.ts:50`
+// fills `summary` from `summaryIn(source)`, a regex over the source, and `commandSet()` carries that
+// value whether or not the module would import.
+//
+// This used to call `commandSurface()`, which loads every module because `commands-declare-help`
+// needs `module.help`. A single load failure aborted this check and printed
+// `command-help-surface-unread` — a refusal about help, from the check that reads summaries, over a
+// field no load can affect. It also zeroed the population, so a surface this check could have
+// counted in full read as nothing counted. `commandSet()` is the same set of commands, minus the
+// loading, so there is no unreadable-surface case here to refuse.
 export const commandsDeclareSummary: AsyncCheck = async (repo) => {
-  // Read the whole command surface rather than the `tools/commands` folder alone.
-  // `declaredCommands` was rooted at a literal `tools/commands`, so every command
-  // declared anywhere else was outside the denominator and a clean count here said
-  // nothing about it. The surface is the same set `commands-declare-help` reads.
-  const { verbs, unreadable } = await commandSurface()
-  if (unreadable.length > 0) {
-    return {
-      ...judge(
-        NAME,
-        `${unreadable.length} command(s) would not load, so no summary could be read from them`,
-        [
-          refusalText(
-            "command-help-surface-unread",
-            { count: String(unreadable.length), detail: unreadable.slice(0, 5).join("; ") },
-            rootFor(repo.roots, AKASHA)
-          ),
-        ]
-      ),
-      population: over(0, "command whose summary could be read"),
-    }
-  }
+  const verbs = commandSet()
   const messages: string[] = []
   for (const one of verbs) {
     if (one.summary.trim() !== "") continue
     messages.push(
       refusalText(
         "command-declares-no-summary",
-        { command: one.command, source: one.source ?? "unknown" },
+        { command: one.path.join(" "), source: one.source ?? "unknown" },
         rootFor(repo.roots, AKASHA)
       )
     )
