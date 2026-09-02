@@ -39,6 +39,7 @@ interface Control {
   SetResizeToFitConstrains: (constrains: AnchorConstrains) => void
   SetResizeToFitPadding: (width: number, height: number) => void
   SetHitInsets: (left: number, top: number, right: number, bottom: number) => void
+  GetOwningWindow: () => Control
 }
 
 interface ErrorFrameSingleton {
@@ -74,6 +75,8 @@ interface ButtonControl {
   GetLabelControl: () => LabelControl
   SetDesaturation: (desaturation: number) => void
   SetModifyTextType: (modifyTextType: ModifyTextType) => void
+  SetNormalFontColor: (r: number, g: number, b: number, a: number) => undefined
+  SetMouseOverFontColor: (r: number, g: number, b: number, a: number) => undefined
 }
 
 interface LabelControl {
@@ -84,6 +87,7 @@ interface LabelControl {
 
 interface TextureControl {
   SetDesaturation: (desaturation: number) => void
+  SetAddressMode: (mode: TextureAddressMode) => void
 }
 
 declare const ZO_WHITE: ZoColorDef
