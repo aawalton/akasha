@@ -7,4 +7,5 @@ export const craftStoreLayout = {
   definition:
     "the main crafting panel: its buttons, its character rows and the windows behind them",
   markup: "xml",
+  loadedAs: "XML/UI/CraftStore.xml",
 } as const satisfies EsoInterface

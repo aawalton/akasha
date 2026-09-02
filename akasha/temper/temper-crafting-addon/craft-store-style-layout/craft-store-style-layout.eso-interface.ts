@@ -6,4 +6,5 @@ export const craftStoreStyleLayout = {
   slug: "craft-store-style-layout",
   definition: "the motif window and its style grid",
   markup: "xml",
+  loadedAs: "XML/UI/CraftStore_Style.xml",
 } as const satisfies EsoInterface

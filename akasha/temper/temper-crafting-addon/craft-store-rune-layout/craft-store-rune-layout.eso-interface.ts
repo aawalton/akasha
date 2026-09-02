@@ -6,4 +6,5 @@ export const craftStoreRuneLayout = {
   slug: "craft-store-rune-layout",
   definition: "the enchanting window, its rune grid and its mode buttons",
   markup: "xml",
+  loadedAs: "XML/UI/CraftStore_Rune.xml",
 } as const satisfies EsoInterface

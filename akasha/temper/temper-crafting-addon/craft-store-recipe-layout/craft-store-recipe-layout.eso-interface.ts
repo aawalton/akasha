@@ -6,4 +6,5 @@ export const craftStoreRecipeLayout = {
   slug: "craft-store-recipe-layout",
   definition: "the recipe window and its list",
   markup: "xml",
+  loadedAs: "XML/UI/CraftStore_Recipe.xml",
 } as const satisfies EsoInterface

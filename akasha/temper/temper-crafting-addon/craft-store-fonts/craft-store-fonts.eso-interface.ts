@@ -6,4 +6,5 @@ export const craftStoreFonts = {
   slug: "craft-store-fonts",
   definition: "the fonts the crafting windows are written in",
   markup: "xml",
+  loadedAs: "XML/UI/CraftStore_Font.xml",
 } as const satisfies EsoInterface

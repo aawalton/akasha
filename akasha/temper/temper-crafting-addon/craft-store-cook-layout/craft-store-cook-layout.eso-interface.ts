@@ -6,4 +6,5 @@ export const craftStoreCookLayout = {
   slug: "craft-store-cook-layout",
   definition: "the provisioning window and its recipe grid",
   markup: "xml",
+  loadedAs: "XML/UI/CraftStore_Cook.xml",
 } as const satisfies EsoInterface

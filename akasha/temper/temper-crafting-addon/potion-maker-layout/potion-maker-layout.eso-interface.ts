@@ -6,4 +6,5 @@ export const potionMakerLayout = {
   slug: "potion-maker-layout",
   definition: "the potion window, its filters and its result grid",
   markup: "xml",
+  loadedAs: "XML/UI/PotionMaker.xml",
 } as const satisfies EsoInterface

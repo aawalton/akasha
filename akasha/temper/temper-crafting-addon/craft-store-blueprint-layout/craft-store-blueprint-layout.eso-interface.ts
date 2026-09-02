@@ -6,4 +6,5 @@ export const craftStoreBlueprintLayout = {
   slug: "craft-store-blueprint-layout",
   definition: "the furnishing-blueprint window and its list",
   markup: "xml",
+  loadedAs: "XML/UI/CraftStore_Blueprint.xml",
 } as const satisfies EsoInterface
