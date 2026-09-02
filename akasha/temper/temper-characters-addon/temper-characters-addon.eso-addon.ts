@@ -42,6 +42,7 @@ export const temperCharactersAddon = {
     "module/characters-populated-name",
     "module/characters-progress-format",
     "module/characters-progress-tally",
+    "module/characters-public-api",
     "module/characters-quests",
     "module/characters-recipes",
     "module/characters-scribing",
