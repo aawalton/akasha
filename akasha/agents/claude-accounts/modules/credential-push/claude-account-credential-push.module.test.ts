@@ -1,12 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { chmodSync } from "node:fs"
 import { join } from "node:path"
+import { readingIn } from "@akasha/indexes"
 import { routingIn } from "../marking/claude-account-marking.module.code.ts"
 import {
   ACCOUNT_DECLARED,
   besideAt,
   besideHeld,
   besideText,
+  bodiesIn,
   counting,
   pageAt,
 } from "../marking/claude-account-marking.module.test-fixtures.ts"
@@ -317,7 +319,7 @@ test("pushing one account's credential opens that account's page and no other pa
 
 test("pushing one account's credential lists no directory the accounts are filed under", () => {
   const root = worldMade()
-  const routing = routingIn(root)
+  const routing = routingIn(readingIn(root), bodiesIn(root))
   const one = counting(root)
   const said = pushedIn(root, credentialOf("aine"), sopsIn().doors, routing, one.reading)
   expect(said.kind).toBe("pushed")

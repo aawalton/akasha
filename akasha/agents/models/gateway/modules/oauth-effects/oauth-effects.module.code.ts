@@ -1,4 +1,6 @@
+import { readingIn } from "@akasha/indexes"
 import { secretsIn } from "@akasha/pages-system/page-secret"
+import { valueAt } from "@akasha/pages-system/page-value"
 import {
   atLimitMarks,
   type Given,
@@ -246,7 +248,7 @@ export function markedOn(
   logPrefix: string
 ): undefined {
   try {
-    const outcome = markedIn(root, account, marks)
+    const outcome = markedIn(root, account, marks, readingIn(root), (path) => valueAt(path, root))
     if (outcome.kind === "refused" || outcome.kind === "absent") {
       doors.warned(`${logPrefix} ${account} kept a mark off its page: ${outcome.why}`)
     }

@@ -3,11 +3,12 @@ import { join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
 import type { Answer } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
+import { readingIn } from "@akasha/indexes"
 import type { Reading } from "@akasha/indexes/shape"
 import { secretAt, uncommittedAt } from "@akasha/pages-system/page-file-name"
 import { type Composed, cipherFor, secretsIn, unfit } from "@akasha/pages-system/page-secret"
 import { mergeUncommitted, uncommittedIn } from "@akasha/pages-system/page-uncommitted"
-import type { Value } from "@akasha/pages-system/page-value"
+import { type Value, valueAt } from "@akasha/pages-system/page-value"
 import { instantOf, markedIn, type Routing } from "../marking/claude-account-marking.module.code.ts"
 import { accountPathIn } from "../reading/claude-account-reading.module.code.ts"
 
@@ -134,8 +135,9 @@ export function rescuedBeside(
         expiresAtMs: credential.accessTokenExpiresAtMs,
       },
     },
-    routing,
-    given
+    readingIn(given),
+    (path) => valueAt(path, root),
+    routing
   )
   if (said.kind !== "held") {
     const why = said.kind === "unchanged" ? said.kind : said.why
@@ -155,8 +157,9 @@ function stampedOn(
     root,
     credential.slug,
     { [EXPIRES_AT]: at, [RESCUED]: null },
-    routing,
-    given
+    readingIn(given),
+    (path) => valueAt(path, root),
+    routing
   )
   if (said.kind === "held") return null
   return said.kind === "unchanged" ? said.kind : said.why

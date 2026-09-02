@@ -2,10 +2,12 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
+import type { PageOf } from "@akasha/indexes/answering"
 import type { Child, Reading } from "@akasha/indexes/shape"
 import { listedFiled, pageFiled, schemaFiled } from "@akasha/indexes/testing"
 import type { Carried } from "@akasha/pages-system/page-type-properties"
 import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
+import { valueAt } from "@akasha/pages-system/page-value"
 import {
   type Fields,
   type Given,
@@ -13,6 +15,7 @@ import {
   type Marks,
   markedIn,
   type Routing,
+  routingIn,
   sortedFrom,
   type Usage,
 } from "./claude-account-marking.module.code.ts"
@@ -240,6 +243,12 @@ export function accountWritten(
   listedFiled(root, "claude-account", slug, [{ path: pageAt(slug), id: idFor(slug) }])
 }
 
+export function bareTypeIn(prefix: string): string {
+  const root = rootFor(prefix)
+  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, null, [])
+  return root
+}
+
 export function worldIn(root: string, declared: readonly Declared[] = ACCOUNT_DECLARED): string {
   typeWritten(root, ABOVE_TYPE, "page", ABOVE_AT, null, ABOVE_DECLARED)
   typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, "page-type/page", declared)
@@ -273,6 +282,18 @@ export function counting(root: string): Counted {
     },
     seen,
   }
+}
+
+export function bodiesIn(root: string): PageOf {
+  return (path) => valueAt(path, root)
+}
+
+export function routedFor(root: string): Routing {
+  return routingIn(readingIn(root), bodiesIn(root))
+}
+
+export function markedFor(root: string, slug: string, marks: Given, routing?: Routing): Marked {
+  return markedIn(root, slug, marks, readingIn(root), bodiesIn(root), routing)
 }
 
 export function routed(said: Partial<Routing> = {}): Routing {
@@ -322,11 +343,11 @@ export function heldIn(
   marks: Given,
   routing?: Routing
 ): Record<string, unknown> {
-  const said = markedIn(root, slug, marks, routing)
+  const said = markedFor(root, slug, marks, routing)
   if (said.kind !== "held") throw new Error(whyOf(said))
   return besideHeld(root, slug)
 }
 
 export function markedWhy(root: string, slug: string, marks: Given): string {
-  return whyOf(markedIn(root, slug, marks))
+  return whyOf(markedFor(root, slug, marks))
 }

@@ -1,8 +1,8 @@
 import { typeSlugOf } from "@akasha/indexes"
+import type { PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
 import { type Carried, propertiesOf } from "@akasha/pages-system/page-type-properties"
 import { dropUncommitted, mergeUncommitted } from "@akasha/pages-system/page-uncommitted"
-import { valueAt } from "@akasha/pages-system/page-value"
 import { z } from "zod"
 import {
   backoffExpiryMs,
@@ -102,12 +102,12 @@ export function routingFrom(declared: readonly Carried[]): Routing {
   return { beside, stated, secret }
 }
 
-export function routingIn(root: string, given: string | Reading = root): Routing {
+export function routingIn(given: Reading, pageOf: PageOf): Routing {
   const slug = typeSlugOf(given, ACCOUNT_TYPE)
-  const declared = propertiesOf(slug, given, (path) => valueAt(path, root))
+  const declared = propertiesOf(slug, given, pageOf)
   if (declared.length === 0) {
     throw new Error(
-      `no \`${slug}\` page type could be read from ${root}, and where each value a mark carries ` +
+      `no \`${slug}\` page type could be read, and where each value a mark carries ` +
         `is written is declared there alone, so where to write one is unknown rather than the ` +
         `page body by default`
     )
@@ -221,8 +221,9 @@ export function markedIn(
   root: string,
   slug: string,
   marks: Given,
-  routing?: Routing,
-  given: string | Reading = root
+  given: Reading,
+  pageOf: PageOf,
+  routing?: Routing
 ): Marked {
   try {
     const page = accountPathIn(given, slug)
@@ -233,7 +234,7 @@ export function markedIn(
         why: `no page is filed for \`${slug}\`, and a mark belongs to a page`,
       }
     }
-    const sorted = sortedFrom(routing ?? routingIn(root, given), marks)
+    const sorted = sortedFrom(routing ?? routingIn(given, pageOf), marks)
     if (sorted.kind === "refused") return { kind: "refused", slug, why: sorted.why }
     const keys = Object.keys(sorted.beside).sort()
     if (keys.length === 0) return { kind: "unchanged", slug }

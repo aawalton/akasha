@@ -13,20 +13,20 @@ import {
   markedIn,
   pacingMarks,
   routingFrom,
-  routingIn,
   subscriptionMarks,
   unfitFor,
   usageFrom,
 } from "./claude-account-marking.module.code.ts"
 import {
   ACCOUNT_DECLARED,
-  ACCOUNT_TYPE,
   accountWritten,
   BESIDE_KEYS,
+  bareTypeIn,
   besideAt,
   besideHeld,
   besideOf,
   besideText,
+  bodiesIn,
   carriedOf,
   counting,
   FAKE_TOKEN,
@@ -36,6 +36,7 @@ import {
   MS_A_WEEK,
   MS_AT_MOST,
   MS_FIVE_HOURS,
+  markedFor,
   markedWhy,
   NO_FIELD,
   NO_MARK,
@@ -50,9 +51,8 @@ import {
   refusalOf,
   rootFor,
   routed,
+  routedFor,
   sweep,
-  TYPE_AT,
-  typeWritten,
   USAGE,
   USAGE_UNKNOWN,
   whyOf,
@@ -79,7 +79,7 @@ test("a declaration marked both secret and uncommitted routes as a secret", () =
 })
 
 test("the routing is read off the claude-account page type and the type above it", () => {
-  const said = routingIn(worldMade())
+  const said = routedFor(worldMade())
   expect([...said.beside].sort()).toEqual([...BESIDE_KEYS].sort())
   expect([...said.secret].sort()).toEqual(["accessToken", "refreshToken"])
   expect(said.stated.has("email")).toBe(true)
@@ -88,9 +88,8 @@ test("the routing is read off the claude-account page type and the type above it
 })
 
 test("a page type declaring nothing refuses to say where a mark is written", () => {
-  const root = rootFor("marking-bare-")
-  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, null, [])
-  expect(() => routingIn(root)).toThrow(/where to write one is unknown/)
+  const root = bareTypeIn("marking-bare-")
+  expect(() => routedFor(root)).toThrow(/where to write one is unknown/)
 })
 
 test("a key the declaration stops calling uncommitted is no longer written beside", () => {
@@ -99,13 +98,13 @@ test("a key the declaration stops calling uncommitted is no longer written besid
       one.slug === "five-hour-percent-used" ? { slug: one.slug } : one
     )
   )
-  expect(routingIn(root).beside.has("fiveHourPercentUsed")).toBe(false)
+  expect(routedFor(root).beside.has("fiveHourPercentUsed")).toBe(false)
   expect(markedWhy(root, "aine", { fiveHourPercentUsed: 5 })).toContain("what the account states")
 })
 
 test("a key the declaration newly calls uncommitted is written beside", () => {
   const root = worldMade([...ACCOUNT_DECLARED, { slug: "weather-noted-at", uncommitted: true }])
-  expect(routingIn(root).beside.has("weatherNotedAt")).toBe(true)
+  expect(routedFor(root).beside.has("weatherNotedAt")).toBe(true)
   expect(heldIn(root, "aine", { weatherNotedAt: RESETS_AT })["weatherNotedAt"]).toBe(RESETS_AT)
 })
 
@@ -170,7 +169,7 @@ test("a mark carrying null, zero or no key at all sorts as handed in", () => {
 
 test("a mark is written beside the account's page and merges into what is there", () => {
   const root = worldMade()
-  const said = markedIn(root, "aine", { retryAllowedAt: RESETS_AT })
+  const said = markedFor(root, "aine", { retryAllowedAt: RESETS_AT })
   expect(keysOf(said)).toEqual(["retryAllowedAt"])
   const held = besideHeld(root, "aine")
   expect(held["retryAllowedAt"]).toBe(RESETS_AT)
@@ -195,14 +194,14 @@ test("a null mark takes its key away from beside the page", () => {
 
 test("a mark writing and removing at once does both", () => {
   const root = worldMade()
-  const said = markedIn(root, "aine", { terminalAt: null, retryAllowedAt: RESETS_AT })
+  const said = markedFor(root, "aine", { terminalAt: null, retryAllowedAt: RESETS_AT })
   expect(keysOf(said)).toEqual(["retryAllowedAt", "terminalAt"])
   expect("terminalAt" in besideHeld(root, "aine")).toBe(false)
   expect(besideHeld(root, "aine")["retryAllowedAt"]).toBe(RESETS_AT)
 })
 
 test("an account no page is filed for is answered as absent", () => {
-  const said = markedIn(worldMade(), "nobody", { terminalAt: RESETS_AT })
+  const said = markedFor(worldMade(), "nobody", { terminalAt: RESETS_AT })
   expect(said.kind).toBe("absent")
   expect(whyOf(said)).toContain("no page is filed for `nobody`")
 })
@@ -210,7 +209,7 @@ test("an account no page is filed for is answered as absent", () => {
 test("a mark holding no value to write leaves the page unchanged", () => {
   const root = worldMade()
   const before = besideText(root, "aine")
-  expect(markedIn(root, "aine", {}).kind).toBe("unchanged")
+  expect(markedFor(root, "aine", {}).kind).toBe("unchanged")
   expect(besideText(root, "aine")).toBe(before)
 })
 
@@ -221,13 +220,12 @@ test("a mark the routing refuses is refused rather than written", () => {
   expect(why).toContain("is a secret")
   expect(why).not.toContain(FAKE_TOKEN)
   expect(besideText(root, "aine")).toBe(before)
-  expect(markedIn(root, "aine", { email: "other@a.test" }).kind).toBe("refused")
+  expect(markedFor(root, "aine", { email: "other@a.test" }).kind).toBe("refused")
   expect(readFileSync(join(root, pageAt("aine")), "utf8")).toContain("aine@a.test")
 })
 
 test("a page type that cannot be read refuses the mark", () => {
-  const root = rootFor("marking-typeless-")
-  typeWritten(root, ACCOUNT_TYPE, "claude-account", TYPE_AT, null, [])
+  const root = bareTypeIn("marking-typeless-")
   accountWritten(root, "aine", null)
   const why = markedWhy(root, "aine", { terminalAt: RESETS_AT })
   expect(why).toContain("the mark threw, which it is written never to do")
@@ -244,7 +242,7 @@ test("a file beside a page that will not load refuses the mark rather than throw
 
 test("a root filing no index refuses the mark rather than throwing", () => {
   const root = rootFor("marking-none-")
-  expect(markedIn(root, "aine", { terminalAt: RESETS_AT }).kind).toBe("refused")
+  expect(markedFor(root, "aine", { terminalAt: RESETS_AT }).kind).toBe("refused")
 })
 
 test("the value beside a page keeps Object as its prototype", () => {
@@ -276,16 +274,17 @@ test("marking one account lists no directory the accounts are filed under", () =
   expect(everyAccountSlugIn(fleet.reading)).toEqual(["aine", "aow", "ctw"])
   expect(fleet.seen).toContain("identity/claude-account/slug")
   const one = counting(root)
-  const said = markedIn(root, "aine", { retryAllowedAt: RESETS_AT }, undefined, one.reading)
+  const said = markedIn(root, "aine", { retryAllowedAt: RESETS_AT }, one.reading, bodiesIn(root))
   expect(said.kind).toBe("held")
   expect(one.seen.filter((at) => at.startsWith("identity/claude-account"))).toEqual([])
 })
 
 test("marking one account with the routing handed in lists nothing at all", () => {
   const root = worldMade()
-  const routing = routingIn(root)
+  const routing = routedFor(root)
   const one = counting(root)
-  expect(markedIn(root, "aine", { terminalAt: null }, routing, one.reading).kind).toBe("held")
+  const held = bodiesIn(root)
+  expect(markedIn(root, "aine", { terminalAt: null }, one.reading, held, routing).kind).toBe("held")
   expect(one.seen).toEqual([])
 })
 
@@ -310,7 +309,7 @@ test("a moment no date holds carries no at-limit mark", () => {
   expect(instantOf(MS_AT_MOST)).toBe("+275760-09-13T00:00:00.000Z")
   expect(instantOf(MS_AT_MOST + 1)).toBe(null)
   expect(instantOf(0)).toBe("1970-01-01T00:00:00.000Z")
-  expect(markedIn(worldMade(), "aine", atLimitMarks(NaN, null)).kind).toBe("unchanged")
+  expect(markedFor(worldMade(), "aine", atLimitMarks(NaN, null)).kind).toBe("unchanged")
 })
 
 test("the subscription mark carries the reason as the text that reason is", () => {
@@ -367,8 +366,8 @@ test("a pacing mark whose reset is unknown carries a removal", () => {
 
 test("a pacing mark reaches the page under every key the page type declares", () => {
   const root = worldMade()
-  const routing = routingIn(root)
-  const said = markedIn(root, "aine", pacingMarks(NOW, USAGE), routing)
+  const routing = routedFor(root)
+  const said = markedFor(root, "aine", pacingMarks(NOW, USAGE), routing)
   expect(keysOf(said)).toEqual(PACING_KEYS)
   for (const key of keysOf(said)) expect(routing.beside.has(key)).toBe(true)
   expect(besideHeld(root, "aine")["fiveHourPercentUsed"]).toBe(12.5)
