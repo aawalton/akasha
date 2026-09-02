@@ -12,7 +12,7 @@ export const eppieMigrateMusicToAkasha = {
       statement:
         "The Spotify client and the music collection are code in akasha rather than in `collections/`.",
       workingMemory:
-        "Four of the client's fifteen endpoint families are imported anywhere: player, search, tracks, personalization. Its `src/` carries no test, though `dist/` holds 18 stale test declarations. The write side is dead: `landSong` and `landArtist` throw on a decommissioned keyed write, and `2669aed6` deleted the listening capture on 1 September because every road out was refused. Listens stop at 21 August. `patchPage` in `tools/lib/page-write.ts` still writes, and `ops music rate` uses it.",
+        "`akasha/alan/music/spotify` is landed as `@akasha/spotify`, thirteen modules with 85 tests, and `catalog/` holds seven provider modules with 84. Both were recreated rather than carried, and the rate limit now reads its gap at every call. Left: `eppie/select.ts` and the three files under `cli/`, then repointing eight code files and four wiring files off the two old packages, then deleting both. `importArtistFromMusicBrainz` is written fresh against the new writers later.",
     },
     {
       statement:
