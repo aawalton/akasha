@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const fourReadoutRulesHaveNoAkashaInvariantAndTheCensusWasPartial = {
+  id: "01a0641a-d59b-7394-8389-e04da87758b7",
+  pageTypeSlug: "finding",
+  slug: "four-readout-rules-have-no-akasha-invariant-and-the-census-was-partial",
+  domainSlug: "workspace-package/readout-system",
+  claim:
+    "Four rules stated in markdown design prose have no akasha invariant: the surplus whole-cost rule, the unreviewed reading being able to exceed one, the categorization month-intake denominator, and the values multiplier ladder. Each is a decision made once that nobody will re-derive. The census that found them was partial, and what it did not examine is named here.",
+  evidence:
+    'Measured 2026-09-02, each absence checked by grep over every `.ts` and `.tsx` under `akasha/` rather than judged by eye.\n\n`readouts/readout/upkeep-surplus.readout.md` Design: "A session that both cost and recovered counts its whole cost." Zero files match. A computation rule rather than a display note.\n\n`readouts/readout/unreviewed.readout.md` Design: "The reading can stand above one." Zero files match.\n\n`readouts/group/categorization.readout-group.md` Design: the backlog counted is a year, the intake it is measured against is a month, and the feed also sends the yearly total, which no tile draws. The akasha group keeps only that the backlog counted is a year, so the denominator and the unread feed field both go.\n\n`readouts/group/values.readout-group.md` Design: "Every value runs the same multiplier ladder, and only its one-times baseline differs." Zero files match `multiplier ladder` or `one-times`. The second design statement on that group is filed separately, as a contradiction rather than a gap.\n\nWhat this census did NOT examine, and which is unexamined rather than clean: the bodies of the 13 `readouts/query/*.page-query.md` pages, checked only for a `.ts` twin existing by slug; the four root files `alan-harness-stoplights.domain.md`, `alan-readouts.domain.md`, `readout-system.domain.md` and `stoplight.domain.md`; and roughly twenty loose `.ts` files under `readouts/`, among them `group-readings.ts`, `readout-catalog.ts`, `readout-resolver.ts` and the ring ladder, measure and tier code. Anyone reaching for the delete should read that as the bound of what was checked rather than reading this as a complete census.',
+} as const satisfies Finding
