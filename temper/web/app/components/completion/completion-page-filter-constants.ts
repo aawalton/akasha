@@ -1,7 +1,7 @@
 import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import type { SortOption } from "@akasha/design-patterns/sort-types"
+import { ACTIVITY_CATEGORIES } from "@akasha/temper-player-completion/activity-categories"
 import type { CompletionSortMode } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import { activityCategories } from "@temper/player-completion/activity-category-data"
 
 export const VALID_TABS = new Set(["summary", "account", "characters", "companions"])
 export const VALID_STATUSES = new Set(["not-started", "in-progress", "done"])
@@ -25,7 +25,7 @@ export const SORT_OPTIONS: SortOption<CompletionSortMode>[] = [
 ]
 
 export function buildActivityItems(debug: boolean): readonly BadgeToggleGroupItem[] {
-  return activityCategories.list
+  return ACTIVITY_CATEGORIES.list
     .map((entry) => ({
       value: entry.id,
       label: entry.name,
