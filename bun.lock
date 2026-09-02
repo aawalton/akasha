@@ -543,6 +543,9 @@
       },
       "peerDependencies": {
         "@dnd-kit/core": ">=6",
+        "@dnd-kit/modifiers": ">=7",
+        "@dnd-kit/sortable": ">=8",
+        "lucide-react": ">=0.400",
         "react": "^18 || ^19",
       },
     },
@@ -710,6 +713,7 @@
       "name": "@akasha/temper-addon-generators",
       "dependencies": {
         "@akasha/temper-dungeons": "workspace:*",
+        "@akasha/temper-player-completion": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -865,6 +869,15 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-companions-core": {
+      "name": "@akasha/temper-companions-core",
+      "dependencies": {
+        "@akasha/temper-equipment-kinds": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+    },
     "akasha/temper/temper-completion": {
       "name": "@akasha/temper-completion",
       "dependencies": {
@@ -882,6 +895,12 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-dungeon-champions": {
+      "name": "@akasha/temper-dungeon-champions",
+      "dependencies": {
+        "@akasha/temper-settings-panel": "workspace:*",
+      },
+    },
     "akasha/temper/temper-dungeons": {
       "name": "@akasha/temper-dungeons",
     },
@@ -890,6 +909,7 @@
       "dependencies": {
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "akasha/temper/temper-equipment-kinds": {
@@ -994,6 +1014,8 @@
     "akasha/temper/temper-items-rules-core": {
       "name": "@akasha/temper-items-rules-core",
       "dependencies": {
+        "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
       },
     },
@@ -1049,6 +1071,14 @@
       "name": "@akasha/temper-narrow",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
+      },
+    },
+    "akasha/temper/temper-player-completion": {
+      "name": "@akasha/temper-player-completion",
+      "dependencies": {
+        "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-dungeons": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "akasha/temper/temper-quests-trace": {
@@ -3729,9 +3759,13 @@
 
     "@akasha/temper-community-addons": ["@akasha/temper-community-addons@workspace:akasha/temper/temper-community-addons"],
 
+    "@akasha/temper-companions-core": ["@akasha/temper-companions-core@workspace:akasha/temper/temper-companions-core"],
+
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:akasha/temper/temper-completion"],
 
     "@akasha/temper-completion-import": ["@akasha/temper-completion-import@workspace:akasha/temper/temper-completion-import"],
+
+    "@akasha/temper-dungeon-champions": ["@akasha/temper-dungeon-champions@workspace:akasha/temper/temper-dungeon-champions"],
 
     "@akasha/temper-dungeons": ["@akasha/temper-dungeons@workspace:akasha/temper/temper-dungeons"],
 
@@ -3798,6 +3832,8 @@
     "@akasha/temper-lua-runner": ["@akasha/temper-lua-runner@workspace:akasha/temper/temper-lua-runner"],
 
     "@akasha/temper-narrow": ["@akasha/temper-narrow@workspace:akasha/temper/temper-narrow"],
+
+    "@akasha/temper-player-completion": ["@akasha/temper-player-completion@workspace:akasha/temper/temper-player-completion"],
 
     "@akasha/temper-quests-trace": ["@akasha/temper-quests-trace@workspace:akasha/temper/temper-quests-trace"],
 
