@@ -130,7 +130,7 @@ declare const CT_LINE: number
 declare const CT_MAPDISPLAY: number
 declare const CT_POLYGON: number
 declare const CT_ROOT_WINDOW: number
-declare const CT_SLIDER: number
+declare const CT_SLIDER: CtSlider
 declare const CT_STATUSBAR: number
 declare const CT_TEXTBUFFER: number
 declare const CT_TEXTURECOMPOSITE: number

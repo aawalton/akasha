@@ -114,6 +114,7 @@ type CtTopLevel = number & { readonly __ct: "CT_TOPLEVELCONTROL" }
 type CtScroll = number & { readonly __ct: "CT_SCROLL" }
 type CtEditBox = number & { readonly __ct: "CT_EDITBOX" }
 type CtBackdrop = number & { readonly __ct: "CT_BACKDROP" }
+type CtSlider = number & { readonly __ct: "CT_SLIDER" }
 
 interface WindowManager {
   CreateTopLevelWindow: (name: string) => TopLevelWindow
@@ -147,6 +148,11 @@ interface WindowManager {
       parent: Control | undefined,
       controlType: CtTopLevel
     ) => TopLevelWindow) &
+    ((
+      name: string | undefined,
+      parent: Control | undefined,
+      controlType: CtSlider
+    ) => SliderControl) &
     ((
       name: string | undefined,
       parent: Control | undefined,
