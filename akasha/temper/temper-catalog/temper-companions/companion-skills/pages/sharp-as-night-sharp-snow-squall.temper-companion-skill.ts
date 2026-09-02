@@ -1,0 +1,17 @@
+import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
+
+export const sharpAsNightSharpSnowSquall = {
+  id: "01a05fd0-1d84-7ed1-b070-bd829c34e809",
+  pageTypeSlug: "temper-companion-skill",
+  slug: "sharp-as-night-sharp-snow-squall",
+  key: "sharp-snow-squall",
+  title: "Snow Squall",
+  icon: "/esoui/art/icons/ability_companion_warden_arcticwind.dds",
+  description:
+    "Your Companion envelops themselves in winter winds, instantly healing for $1 Health and an additional $2 Health every 2 seconds over $$2 seconds. This ability scales off their Max Health.",
+  companionId: "sharp-as-night",
+  abilityId: 186605,
+  skillLineId: "companion-sharp-as-night-winters-bite",
+  skillType: "active",
+  validRoles: ["tank"],
+} as const satisfies TemperCompanionSkill

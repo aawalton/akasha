@@ -1,0 +1,18 @@
+import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.ts"
+
+export const allSharedCrimsonFont = {
+  id: "01a05fd0-1d6b-7ca6-8a26-0e5cf2eca65b",
+  pageTypeSlug: "temper-companion-skill",
+  slug: "all-shared-crimson-font",
+  key: "shared-crimson-font",
+  title: "Crimson Font",
+  icon: "/esoui/art/icons/ability_companion_undaunted_001.dds",
+  description:
+    "Your Companion conjures a fountain of blood to sustain themselves and allies around it, healing for $1 Health every 1 second for 16 seconds. Allies near the fountain can activate the Crimson Funnel synergy, healing for 50% of their Max Health.",
+  companionId: "all",
+  abilityId: 155515,
+  skillLineId: "guild-undaunted",
+  skillType: "active",
+  validRoles: ["healer"],
+  tags: ["synergy"],
+} as const satisfies TemperCompanionSkill
