@@ -88,6 +88,39 @@ export function isUuidV7(id: string): boolean {
   return /^[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/.test(id)
 }
 
+/**
+ * How many hex of an identity a page's URL is reached by.
+ *
+ * `ID_SUFFIX_LENGTH` in `akasha/pages-system/pages-url/page-href/page-href.module.code.ts`,
+ * restated here for the reason `exportNameOf` restates its own rule, and held against akasha's by
+ * the test.
+ */
+export const ID_SUFFIX_LENGTH = 8
+
+/**
+ * A minted identity re-tailed with the last eight hex of the identity it replaces.
+ *
+ * A day page is reached at `<slug>-<id.slice(-8)>`, and the route resolves that suffix alone:
+ * `getPageByIdSuffix` asks `id ends-with <suffix>` and reads no slug where one page matches. So a
+ * day whose identity is replaced loses every saved link to it unless the replacement ends the same
+ * way. Keeping the tail is what makes all 133 days keep their URL rather than 103 of them.
+ *
+ * The tail is free to carry. `uuidVersion7` fills bytes 0 to 5 with the millisecond, sets the
+ * version in byte 6 and the variant in byte 8, and leaves bytes 12 to 15 — exactly these eight hex —
+ * random and meaning nothing. Writing the old tail over them leaves a uuid version 7 that
+ * `akasha/checks/code-checks/pages/id-is-a-uuid-version-7` accepts, and leaves the URL resolving.
+ *
+ * Carrying the old identity whole was the other way to keep the URL, and that check refuses it: a
+ * version 5 in a `.ts` file fails on patch, worktree, deploy and audit. It would trade thirty broken
+ * links for thirty pages that never land.
+ *
+ * A tail that is not eight lower hex answers a value `isUuidV7` refuses, which is how the caller
+ * refuses the day rather than landing an identity no check would take.
+ */
+export function withSuffixOf(minted: string, was: string): string {
+  return `${minted.slice(0, -ID_SUFFIX_LENGTH)}${was.slice(-ID_SUFFIX_LENGTH)}`
+}
+
 const DAY_DATE = /^\d{4}-\d{2}-\d{2}$/
 
 function renderValue(value: unknown, indent: string): string | null {
@@ -173,6 +206,9 @@ function entryFile(
  * 133 days are uuid v5, which akasha does not accept, and re-minting one means re-pointing every
  * session row that names it, which is why the rows and the page are converted in one act.
  *
+ * What the mint answers is re-tailed by `withSuffixOf` with the last eight hex of the identity it
+ * replaces, so a re-minted day is reached at the URL it was reached at before the move.
+ *
  * `placing` is where akasha would put a day page and where the type it satisfies is declared. The
  * import the rendered file states is computed from those two rather than written down, so a page
  * rendered for one depth can never be read as one rendered for another.
@@ -195,8 +231,10 @@ export function convertDay(source: DaySource, mint: () => string, placing: Placi
     reasons.push("the day states no identity")
   } else {
     idWas = rawId
-    idIs = isUuidV7(rawId) ? rawId : mint()
-    if (!isUuidV7(idIs)) reasons.push(`the mint answered '${idIs}', which is no uuid version 7`)
+    idIs = isUuidV7(rawId) ? rawId : withSuffixOf(mint(), rawId)
+    if (!isUuidV7(idIs)) {
+      reasons.push(`'${rawId}' re-minted to '${idIs}', which is no uuid version 7`)
+    }
   }
 
   const rawType = front["page-type-slug"]

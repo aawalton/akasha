@@ -9,13 +9,20 @@ import { pathFor } from "../../akasha/pages-system/pages-system-service/page-com
 import { declaredIn, pageTypeFilesIn } from "../daily-tracking-landing/declared.ts"
 import { camelizeKey, kebabizeKey } from "../lib/tracking/keys.ts"
 import {
+  buildPageHrefParam,
+  ID_SUFFIX_LENGTH as AKASHA_ID_SUFFIX_LENGTH,
+} from "../../akasha/pages-system/pages-url/page-href/page-href.module.code.ts"
+import { slugOfFilePage } from "../../akasha/file-page-identity/file-page/file-page.module.code.ts"
+import {
   camelisedRow,
   type Converted,
   convertDay,
   type DaySource,
   exportNameOf,
+  ID_SUFFIX_LENGTH,
   isUuidV7,
   refused,
+  withSuffixOf,
 } from "./convert.ts"
 import { importFor, placingFor } from "./placing.ts"
 import { readDays } from "./read-days.ts"
@@ -140,6 +147,32 @@ describe("identity", () => {
     expect(one.idWas).toBe(V5)
     expect(one.reminted).toBe(true)
     expect(isUuidV7(one.idIs)).toBe(true)
+  })
+
+  test("the suffix length is the one akasha reaches a page by", () => {
+    expect(ID_SUFFIX_LENGTH).toBe(AKASHA_ID_SUFFIX_LENGTH)
+  })
+
+  test("a re-tailed identity keeps the old tail and stays a uuid v7", () => {
+    const said = withSuffixOf("01a06000-0000-7000-8000-000000000001", V5)
+    expect(said).toBe("01a06000-0000-7000-8000-0000508c2733")
+    expect(said.slice(-ID_SUFFIX_LENGTH)).toBe(V5.slice(-ID_SUFFIX_LENGTH))
+    expect(isUuidV7(said)).toBe(true)
+  })
+
+  test("a re-minted day is reached at the eight hex it was reached at before", () => {
+    const one = done(dayOf({ frontmatter: { ...BARE, id: V5 } }))
+    expect(one.idIs.slice(-ID_SUFFIX_LENGTH)).toBe(V5.slice(-ID_SUFFIX_LENGTH))
+    expect(one.idIs).not.toBe(V5)
+  })
+
+  test("a day whose identity has no hex tail is refused rather than landed", () => {
+    const outcome = convertDay(
+      dayOf({ frontmatter: { ...BARE, id: "not-a-uuid-at-all" } }),
+      () => "01a06000-0000-7000-8000-000000000001",
+      PLACING
+    )
+    expect(refused(outcome)).toBe(true)
   })
 
   test("re-minting re-points every session row that named the old identity", () => {
@@ -464,6 +497,45 @@ describe.if(HAVE_COPY)("over real input copied out of the repo", () => {
     expect(fresh).toHaveLength(30)
     expect(new Set(fresh.map((one) => one.idIs)).size).toBe(30)
     for (const one of fresh) expect(isUuidV7(one.idIs)).toBe(true)
+  })
+
+  /**
+   * The whole point of the move keeping the tail.
+   *
+   * A day is reached at `<slug>-<id.slice(-8)>` and the route resolves that suffix alone, so a
+   * suffix that moves is a saved link becoming a 404. All 133 slugs change and no suffix may.
+   */
+  test("every day is reached at the URL it was reached at before the move", () => {
+    const moved: string[] = []
+    for (const one of converted) {
+      const source = read.days.find((d) => d.day === one.day)!
+      const stated = source.frontmatter["slug"]
+      const was = buildPageHrefParam({
+        pageTypeSlug: DAY_PAGE_TYPE,
+        slug: slugOfFilePage(
+          typeof stated === "string" ? stated : null,
+          `akasha:pages/daily-tracking/${one.day}.daily-tracking.md`
+        ),
+        fallbackSlugSource: one.day,
+        id: one.idWas,
+      })
+      const now = buildPageHrefParam({
+        pageTypeSlug: DAY_PAGE_TYPE,
+        slug: one.slug,
+        fallbackSlugSource: one.day,
+        id: one.idIs,
+      })
+      expect(was).not.toBe(now)
+      if (was.slice(-ID_SUFFIX_LENGTH) !== now.slice(-ID_SUFFIX_LENGTH)) {
+        moved.push(`${one.day}: ${was} -> ${now}`)
+      }
+    }
+    expect(moved).toEqual([])
+  })
+
+  test("no two days come to share a suffix, so no route has a tie to break", () => {
+    const suffixes = converted.map((one) => one.idIs.slice(-ID_SUFFIX_LENGTH))
+    expect(new Set(suffixes).size).toBe(converted.length)
   })
 
   test("every page name and every export name is distinct", () => {
