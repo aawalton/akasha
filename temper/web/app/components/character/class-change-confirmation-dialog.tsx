@@ -1,15 +1,25 @@
 "use client"
 
-import { AlertDialog, AlertDialogAction, AlertDialogBody, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@akasha/design-primitives/alert-dialog"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { classes } from "@akasha/temper-classes/character-class"
-import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogBody,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "@akasha/design-primitives/alert-dialog"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
+import type { Skill } from "@akasha/temper-character-skills/character-skills"
 import {
   getSkillsToRemoveOnClassChange,
   validateSkillLinesForClass,
 } from "@akasha/temper-character-skills/skill-line-queries"
-import type { Skill } from "@akasha/temper-character-skills/character-skills"
+import { classes } from "@akasha/temper-classes/character-class"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 
 interface ClassChangeConfirmationDialogProps {
   open: boolean
