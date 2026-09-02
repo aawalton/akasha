@@ -125,8 +125,8 @@ interface LamEditboxData extends LamControlBase {
 interface LamTextureData {
   type: "texture"
   image: string
-  imageWidth?: number
-  imageHeight?: number
+  imageWidth: number
+  imageHeight: number
   tooltip?: string
   width?: "full" | "half"
   reference?: string
