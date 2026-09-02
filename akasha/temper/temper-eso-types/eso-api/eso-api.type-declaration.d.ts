@@ -123,7 +123,9 @@ interface ZO_SavedVars {
     version: number | string,
     namespace: string | undefined,
     defaults: T,
-    worldName?: string
+    worldName?: string,
+    displayName?: string,
+    characterName?: string
   ) => T
 }
 declare const ZO_SavedVars: ZO_SavedVars
