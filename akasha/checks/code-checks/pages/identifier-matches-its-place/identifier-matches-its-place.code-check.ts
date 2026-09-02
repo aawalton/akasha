@@ -67,6 +67,23 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A name a JSX element opens with is judged as a component rather than by where the name is bound.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The element opening with that name is looked for as far as that name reaches.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A component opened as an element only from another file is judged as a function.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tag opening lower makes no component.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name bound at the top of a file to a literal is judged as a constant.",
     },
     {

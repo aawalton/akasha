@@ -24,6 +24,8 @@ const UNDER = "_"
 
 const DECLARED = ".d.ts"
 
+const OPENING = /^[A-Z]/
+
 export type Placing = {
   readonly nameFormatSlug: string
   readonly matching: Matching
@@ -133,6 +135,24 @@ function readIn(body: ts.Node, text: string): boolean {
   return found
 }
 
+function openedAsATag(scope: ts.Node, text: string): boolean {
+  if (!OPENING.test(text)) return false
+  let found = false
+  const walk = (node: ts.Node): undefined => {
+    if (found) return
+    if (ts.isJsxOpeningElement(node) || ts.isJsxSelfClosingElement(node)) {
+      const tag = node.tagName
+      if (ts.isIdentifier(tag) && tag.text === text) {
+        found = true
+        return
+      }
+    }
+    ts.forEachChild(node, walk)
+  }
+  walk(scope)
+  return found
+}
+
 export function pageValueIn(at: string): string | null {
   const said = namedIn(at)
   return said === null ? null : exportedAs(said.stem)
@@ -164,44 +184,50 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     const said = refusalAt(source, name, kind, placing)
     if (said !== null) found.push(said)
   }
-  const eachIn = (name: ts.BindingName): undefined => {
-    for (const one of namesIn(name)) take(one, "name", places.derivedIdentifier)
+  const placedIn = (name: ts.Identifier, kind: string, scope: ts.Node): undefined => {
+    if (openedAsATag(scope, name.text)) return take(name, "component", places.componentIdentifier)
+    return take(name, kind, places.derivedIdentifier)
   }
-  const taking = (name: ts.Identifier, held: ts.Node): undefined => {
-    if (drawing(held)) return take(name, "component", places.componentIdentifier)
+  const eachIn = (name: ts.BindingName, scope: ts.Node): undefined => {
+    for (const one of namesIn(name)) placedIn(one, "name", scope)
+  }
+  const taking = (name: ts.Identifier, held: ts.Node, scope: ts.Node): undefined => {
+    if (drawing(held) || openedAsATag(scope, name.text)) {
+      return take(name, "component", places.componentIdentifier)
+    }
     return take(name, "function", places.functionIdentifier)
   }
-  const walk = (node: ts.Node, inside: boolean): undefined => {
+  const walk = (node: ts.Node, holding: ts.Node | null): undefined => {
     if (ts.isTypeAliasDeclaration(node)) take(node.name, "type", places.typeIdentifier)
     if (ts.isInterfaceDeclaration(node)) take(node.name, "interface", places.typeIdentifier)
     if (ts.isFunctionDeclaration(node) && node.name !== undefined) {
-      taking(node.name, node)
+      taking(node.name, node, holding ?? source)
     }
     if (ts.isVariableDeclaration(node)) {
       const bound = node.initializer
       if (ts.isIdentifier(node.name) && bound !== undefined && boundToAFunction(node)) {
-        taking(node.name, bound)
-      } else if (inside && !ts.isCatchClause(node.parent)) {
-        eachIn(node.name)
+        taking(node.name, bound, holding ?? source)
+      } else if (holding !== null && !ts.isCatchClause(node.parent)) {
+        eachIn(node.name, holding)
       }
     }
     if (ts.isCatchClause(node) && node.variableDeclaration !== undefined) {
-      eachIn(node.variableDeclaration.name)
+      eachIn(node.variableDeclaration.name, holding ?? source)
     }
     const working = workingIn(node)
     if (working === null) {
-      ts.forEachChild(node, (each) => walk(each, inside))
+      ts.forEachChild(node, (each) => walk(each, holding))
       return
     }
     for (const one of working.parameters) {
       for (const name of namesIn(one.name)) {
         if (name.text.startsWith(UNDER) && !readIn(working.body, name.text)) continue
-        take(name, "parameter", places.derivedIdentifier)
+        placedIn(name, "parameter", working.body)
       }
     }
-    ts.forEachChild(node, (each) => walk(each, each === working.body ? true : inside))
+    ts.forEachChild(node, (each) => walk(each, each === working.body ? working.body : holding))
   }
-  ts.forEachChild(source, (each) => walk(each, false))
+  ts.forEachChild(source, (each) => walk(each, null))
   for (const one of constantsIn(source, at)) take(one, "constant", places.constantIdentifier)
   return found
 }

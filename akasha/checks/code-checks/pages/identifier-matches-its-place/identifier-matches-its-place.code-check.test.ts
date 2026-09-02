@@ -238,6 +238,55 @@ test("a self-closing element and a fragment each make a component", () => {
   expect(refusedIn(DRAWN_AT, "const one = () => <>held</>\n", PLACES)).toHaveLength(1)
 })
 
+test("a name a JSX element opens with is a component, so upper camel case is let through", () => {
+  const body = "export function One() {\n  const Icon = held.icon\n  return <Icon />\n}\n"
+  expect(refusedIn(DRAWN_AT, body, PLACES)).toEqual([])
+})
+
+test("a parameter a JSX element opens with is judged as a component too", () => {
+  const body = "export const One = ({ Icon }: { Icon: () => null }) => <Icon />\n"
+  expect(refusedIn(DRAWN_AT, body, PLACES)).toEqual([])
+})
+
+test("a function holding no JSX is a component where an element in the file opens with it", () => {
+  const body =
+    "export function Held(): null {\n  return null\n}\n" +
+    "export function One() {\n  return <Held />\n}\n"
+  expect(refusedIn(DRAWN_AT, body, PLACES)).toEqual([])
+})
+
+test("a name no JSX element opens with is refused where it was refused before", () => {
+  const body = "export function one() {\n  const Icon = held.icon\n  return Icon\n}\n"
+  const said = refusedIn(DRAWN_AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the name `Icon`")
+  expect(said[0]).toContain("`name-format/lower-camel-case`")
+})
+
+test("a name a JSX element opens with is still refused where it is not upper camel case", () => {
+  const body = "export function One() {\n  const ICON_ONE = held.icon\n  return <ICON_ONE />\n}\n"
+  const said = refusedIn(DRAWN_AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the component `ICON_ONE`")
+  expect(said[0]).toContain("`name-format/upper-camel-case`")
+})
+
+test("a tag opening lower names a browser element, so the name bound is judged where bound", () => {
+  const body =
+    "export function One() {\n  const button = held.button\n" +
+    "  return <button>{button}</button>\n}\n"
+  expect(refusedIn(DRAWN_AT, body, PLACES)).toEqual([])
+})
+
+test("a name is a component only where the element opening with it is in the same body", () => {
+  const body =
+    "export function one() {\n  const Icon = held.icon\n  return Icon\n}\n" +
+    "export function Two() {\n  return <Icon />\n}\n"
+  const said = refusedIn(DRAWN_AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the name `Icon`")
+})
+
 test("a declaration file states names another writer chose, so none of them is judged", () => {
   const body =
     "declare function GetItemLink(id: number): string\ndeclare const BAG_BACKPACK: number\n"
