@@ -16,7 +16,7 @@ import type { PageCursor, PageOrder, PageSelect } from "../types/types.module.co
 const ID_SUFFIX_PATTERN = /^[0-9a-f]{8}$/
 
 export type GetPageArgs = {
-  pageTypeSlug?: string
+  pageTypeSlug: string
   where: PageWhere
   select?: PageSelect
 }
