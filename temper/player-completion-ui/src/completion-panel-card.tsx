@@ -352,10 +352,10 @@ export function CompletionPanelCard({
           {node.activityCategories.map((cat) => (
             <Badge
               key={cat}
-              variant={activityCategories.data[cat].badgeVariant}
+              variant={ACTIVITY_CATEGORIES.data[cat].badgeVariant}
               className="text-[10px]"
             >
-              {activityCategories.data[cat].name}
+              {ACTIVITY_CATEGORIES.data[cat].name}
             </Badge>
           ))}
         </span>
