@@ -5,7 +5,7 @@
  * table (page type: temper-skill-point). Group-dungeon sources are
  * derived from `TEMPER_DUNGEONS` at codegen time so the addon and
  * engine resolve the same dungeon labels by construction. Public-dungeon
- * sources are inline in the generator — they have no other catalog home.
+ * sources are read from the player completion package.
  *
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
