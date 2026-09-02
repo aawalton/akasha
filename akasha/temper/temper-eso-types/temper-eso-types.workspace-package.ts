@@ -96,5 +96,11 @@ export const temperEsoTypes = {
     "type-declaration/eso-guild-history-legacy",
     "type-declaration/eso-scroll-list-extra",
     "type-declaration/eso-ui-extra",
+    "type-declaration/eso-lib-sets-dlc",
+    "type-declaration/eso-lib-sets-shapes",
+    "type-declaration/eso-lib-sets-shared-globals",
+    "type-declaration/eso-lib-sets-strings",
+    "type-declaration/eso-lib-sets-strings-2",
+    "type-declaration/eso-lib-sets-ui",
   ],
 } as const satisfies WorkspacePackage

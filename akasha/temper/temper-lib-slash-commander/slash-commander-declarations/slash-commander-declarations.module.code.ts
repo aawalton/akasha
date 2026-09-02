@@ -8,18 +8,6 @@ declare global {
 
   const GAMEPAD_CHAT_SYSTEM: ChatSystem | undefined
 
-  interface ChatSystemHandle {
-    StartTextEntry: (
-      this: ChatSystemHandle,
-      text: string,
-      channel?: number,
-      target?: string,
-      keepOpenAfter?: boolean
-    ) => undefined
-  }
-
-  const ZO_GetChatSystem: (this: void) => ChatSystemHandle
-
   interface ChannelSwitchEntry {
     id: number
     name: string
