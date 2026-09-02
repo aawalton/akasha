@@ -1,14 +1,12 @@
-import { readFileSync } from "node:fs"
-import { join } from "node:path"
-import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { valuesOfType } from "@akasha/indexes"
+import { dirname } from "node:path"
+import { listedAt, valuesOfType } from "@akasha/indexes"
 import { akashaRoot } from "@akasha/pages-system/checkout-roots"
 
 const WIDGET_PAGE_TYPE = "readout-widget"
 
-const WIDGET_DIR = "readouts/widget"
-
 const READOUT_PAGE_TYPE = "readout"
+
+const APP_PAGE_TYPE = "ios-app"
 
 export interface WidgetDoc {
   readonly slug: string
@@ -33,6 +31,7 @@ export interface ReadingDoc {
 
 export interface ResolvedWidget {
   readonly doc: WidgetDoc
+  readonly pagePath: string
   readonly extensionDir: string
   readonly stem: string
   readonly readings: readonly ReadingDoc[]
@@ -44,10 +43,6 @@ const FAMILY_CASE: Readonly<Record<string, string>> = {
   large: ".systemLarge",
 }
 
-function read(path: string): ReturnType<typeof parseFrontmatter> {
-  return parseFrontmatter(readFileSync(path, "utf8"))
-}
-
 function pascal(kebab: string): string {
   return kebab
     .split("-")
@@ -56,37 +51,66 @@ function pascal(kebab: string): string {
     .join("")
 }
 
-function widgetDoc(slug: string): WidgetDoc {
-  const fm = read(join(akashaRoot(), WIDGET_DIR, `${slug}.${WIDGET_PAGE_TYPE}.md`))
-  const need = (key: string): string => {
-    const value = textField(fm, key)
-    if (value === null) throw new Error(`${WIDGET_PAGE_TYPE} \`${slug}\` states no \`${key}\``)
-    return value
+/**
+ * The widget page named, read from the akasha index rather than from `readouts/widget/`.
+ *
+ * The markdown twin is still on disk and still says the same thing. What it cannot say is which
+ * `ios-component` draws the tile or which akasha `ios-app` it is built into, and it spelled the
+ * app as that markdown page's own slug — `alanwalton-ios` — where akasha names an app by the short
+ * `app-slug` its page states.
+ */
+function widgetPage(slug: string) {
+  for (const found of valuesOfType(akashaRoot(), WIDGET_PAGE_TYPE)) {
+    if (textIn(found.value.slug) === slug) return found
   }
-  const groupSlugs = listField(fm, "group-slugs")
+  throw new Error(`no ${WIDGET_PAGE_TYPE} page in akasha is slugged \`${slug}\``)
+}
+
+function widgetDoc(slug: string): { readonly doc: WidgetDoc; readonly path: string } {
+  const { path, value } = widgetPage(slug)
+  const need = (key: string, spelled: string): string => {
+    const held = textIn(value[key])
+    if (held === null) throw new Error(`${WIDGET_PAGE_TYPE} \`${slug}\` states no \`${spelled}\``)
+    return held
+  }
+  const groupSlugs = namesIn(value.groupSlugs)
   if (groupSlugs.length === 0) {
     throw new Error(`${WIDGET_PAGE_TYPE} \`${slug}\` names no group`)
   }
+  const place = numberIn(value.place)
+  if (place === null) throw new Error(`${WIDGET_PAGE_TYPE} \`${slug}\` states no \`place\``)
   return {
-    slug,
-    appSlug: need("app-slug"),
-    groupSlugs,
-    caption: textField(fm, "caption"),
-    galleryName: need("gallery-name"),
-    galleryDescription: need("gallery-description"),
-    families: listField(fm, "families"),
-    kind: need("kind"),
-    feed: need("feed"),
-    opens: textField(fm, "opens"),
-    place: Number(need("place")),
+    path,
+    doc: {
+      slug,
+      appSlug: need("appSlug", "app-slug"),
+      groupSlugs,
+      caption: textIn(value.caption),
+      galleryName: need("galleryName", "gallery-name"),
+      galleryDescription: need("galleryDescription", "gallery-description"),
+      families: namesIn(value.families),
+      kind: need("kind", "kind"),
+      feed: need("feed", "feed"),
+      opens: textIn(value.opens),
+      place,
+    },
   }
 }
 
+/**
+ * Where a widget's Swift is written, taken from the folder its app's page sits in.
+ *
+ * The markdown `ios-app` page states this as `native-shell-repo-path`. The akasha page states no
+ * such path because it does not need one: a workspace package holds its own folder, and that
+ * folder is what the seam copies the extension's components into.
+ */
 function extensionDir(root: string, appSlug: string): string {
-  const fm = read(join(root, "pages", "ios-app", `${appSlug}.ios-app.md`))
-  const shell = textField(fm, "native-shell-repo-path")
-  if (shell === null) throw new Error(`ios-app \`${appSlug}\` states no \`native-shell-repo-path\``)
-  return `${shell}/ios-widget`
+  const listed = listedAt(root, APP_PAGE_TYPE, appSlug)
+  const [found] = listed
+  if (found === undefined || listed.length !== 1) {
+    throw new Error(`no one ${APP_PAGE_TYPE} page in akasha is slugged \`${appSlug}\``)
+  }
+  return `akasha:${dirname(found.path)}/ios-widget`
 }
 
 function textIn(held: unknown): string | null {
@@ -135,13 +159,14 @@ function readingsOfGroups(groups: readonly string[]): readonly ReadingDoc[] {
 }
 
 export function resolveWidget(root: string, slug: string): ResolvedWidget {
-  const doc = widgetDoc(slug)
-  const appStem = doc.appSlug.replace(/-ios$/, "")
+  const { doc, path } = widgetDoc(slug)
+  const appStem = doc.appSlug
   if (!doc.slug.startsWith(`${appStem}-`)) {
-    throw new Error(`ios-widget \`${slug}\` does not stand under its app stem \`${appStem}\``)
+    throw new Error(`ios-widget \`${slug}\` is not named under its app stem \`${appStem}\``)
   }
   return {
     doc,
+    pagePath: path,
     extensionDir: extensionDir(root, doc.appSlug),
     stem: pascal(doc.slug.slice(appStem.length + 1)),
     readings: readingsOfGroups(doc.groupSlugs),
@@ -158,7 +183,7 @@ function widgetURL(doc: WidgetDoc, indent: string): string {
 }
 
 export function ringWidgetSwift(resolved: ResolvedWidget): string {
-  const { doc, stem, readings } = resolved
+  const { doc, pagePath, stem, readings } = resolved
   const [reading] = readings
   if (reading === undefined || readings.length !== 1) {
     throw new Error(
@@ -170,7 +195,7 @@ export function ringWidgetSwift(resolved: ResolvedWidget): string {
   const upper = key.toUpperCase()
   const ring = `${pascal(key)}Ring`
   const caption = doc.caption ?? reading.label ?? doc.galleryName
-  return `// Generated from akasha:${WIDGET_DIR}/${doc.slug}.${WIDGET_PAGE_TYPE}.md by \`ops mobile widget-emit\`. Change the document, not this file.
+  return `// Generated from akasha:${pagePath} by \`ops mobile widget-emit\`. Change the document, not this file.
 import SwiftUI
 import WidgetKit
 
