@@ -37,10 +37,16 @@ import {
   MS_AT_MOST,
   MS_FIVE_HOURS,
   markedWhy,
+  NO_FIELD,
+  NO_MARK,
+  NO_MARK_WHY,
   NOW,
   PACING_KEYS,
+  PAIR,
   pageAt,
+  RAW_USAGE,
   RESETS_AT,
+  rawWith,
   refusalOf,
   rootFor,
   routed,
@@ -140,11 +146,19 @@ test("a mark carrying a newline or blank text is refused", () => {
   expect(unfitFor("terminalAt", RESETS_AT)).toBe(null)
 })
 
-test("a mark carrying what is no text and no finite number is refused", () => {
-  for (const one of [NaN, Infinity, -Infinity, true, undefined, { a: 1 }, [1]]) {
-    expect(refusalOf(routed(), { terminalAt: one })).toContain(
-      "no text, no finite number and no removal"
-    )
+test("a mark that is no text, no number, no record and no removal is refused", () => {
+  for (const one of NO_MARK) {
+    expect(refusalOf(routed(), { terminalAt: one })).toContain(NO_MARK_WHY)
+  }
+})
+
+test("a record mark is sorted field by field", () => {
+  expect(besideOf(routed(), { terminalAt: PAIR })).toEqual({ terminalAt: PAIR })
+})
+
+test("a record mark carrying a field that is no mark is refused", () => {
+  for (const [held, why] of NO_FIELD) {
+    expect(refusalOf(routed(), { terminalAt: held })).toContain(why)
   }
 })
 
@@ -315,21 +329,13 @@ test("the subscription reason reaches the page unquoted", () => {
 })
 
 test("a usage body is read into akasha's own names", () => {
-  expect(
-    usageFrom({
-      five_hour: { utilization: 12.5, resets_at: RESETS_AT },
-      seven_day: { utilization: 40, resets_at: RESETS_AT },
-    })
-  ).toEqual(USAGE)
+  expect(usageFrom(RAW_USAGE)).toEqual(USAGE)
 })
 
 test("a usage body the wire shape refuses is answered as no usage", () => {
   expect(usageFrom(null)).toBe(null)
   expect(usageFrom({ five_hour: { utilization: 12, resets_at: null } })).toBe(null)
-  for (const one of [NaN, Infinity, "12"]) {
-    const raw = { five_hour: { utilization: one, resets_at: null }, seven_day: USAGE.sevenDay }
-    expect(usageFrom(raw)).toBe(null)
-  }
+  for (const one of [NaN, Infinity, "12"]) expect(usageFrom(rawWith(one))).toBe(null)
 })
 
 test("the pacing mark carries each window's percentage used and reset moment", () => {

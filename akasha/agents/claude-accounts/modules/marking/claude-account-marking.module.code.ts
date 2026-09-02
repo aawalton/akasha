@@ -37,7 +37,15 @@ const NEWLINE = "\n"
 
 const MARK_SHAPE = z.union([z.string(), z.number(), z.null()])
 
-export type Mark = string | number | null
+const FIELD_SHAPE = z.union([z.string(), z.number()])
+
+const PROTO = "__proto__"
+
+export type Field = string | number
+
+export type Fields = Readonly<Record<string, Field>>
+
+export type Mark = Field | Fields | null
 
 export type Marks = Readonly<Record<string, Mark>>
 
@@ -114,6 +122,26 @@ export function unfitFor(key: string, value: Mark): string | null {
   return null
 }
 
+export function fieldsFrom(key: string, held: unknown): Fields | string {
+  if (held === null || typeof held !== "object" || Array.isArray(held)) {
+    return `\`${key}\` carries what is no text, no finite number, no record and no removal`
+  }
+  const found: Record<string, Field> = {}
+  for (const field of Object.getOwnPropertyNames(held)) {
+    if (field === PROTO)
+      return `\`${key}\` carries a field named \`${PROTO}\`, which no record holds`
+    const said = FIELD_SHAPE.safeParse((held as Record<string, unknown>)[field])
+    if (!said.success) return `\`${key}.${field}\` carries what is no text and no finite number`
+    const wrong = unfitFor(`${key}.${field}`, said.data)
+    if (wrong !== null) return wrong
+    found[field] = said.data
+  }
+  if (Object.keys(found).length === 0) {
+    return `\`${key}\` carries a record holding no field, and a mark with no value is a removal`
+  }
+  return found
+}
+
 export function sortedFrom(routing: Routing, marks: Given): Sorted {
   const beside: Record<string, Mark> = {}
   const secret: string[] = []
@@ -135,7 +163,12 @@ export function sortedFrom(routing: Routing, marks: Given): Sorted {
     }
     const said = MARK_SHAPE.safeParse(marks[key])
     if (!said.success) {
-      unfit.push(`\`${key}\` carries what is no text, no finite number and no removal`)
+      const fields = fieldsFrom(key, marks[key])
+      if (typeof fields === "string") {
+        unfit.push(fields)
+        continue
+      }
+      beside[key] = fields
       continue
     }
     const wrong = unfitFor(key, said.data)
@@ -169,7 +202,7 @@ export function sortedFrom(routing: Routing, marks: Given): Sorted {
 }
 
 export function heldBesideIn(root: string, page: string, values: Marks): string | null {
-  const held: Record<string, string | number> = {}
+  const held: Record<string, Field | Fields> = {}
   const dropping: string[] = []
   for (const [key, value] of Object.entries(values)) {
     if (value === null) dropping.push(key)

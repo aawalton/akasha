@@ -7,6 +7,7 @@ import { listedFiled, pageFiled, schemaFiled } from "@akasha/indexes/testing"
 import type { Carried } from "@akasha/pages-system/page-type-properties"
 import { uncommittedIn } from "@akasha/pages-system/page-uncommitted"
 import {
+  type Fields,
   type Given,
   type Marked,
   type Marks,
@@ -118,6 +119,30 @@ export const USAGE_UNKNOWN: Usage = {
   fiveHour: { percentUsed: 12, resetsAt: null },
   sevenDay: { percentUsed: 40, resetsAt: null },
 }
+
+export const RAW_USAGE = {
+  five_hour: { utilization: 12.5, resets_at: RESETS_AT },
+  seven_day: { utilization: 40, resets_at: RESETS_AT },
+}
+
+export function rawWith(utilization: unknown): unknown {
+  return { five_hour: { utilization, resets_at: null }, seven_day: USAGE.sevenDay }
+}
+
+export const NO_MARK_WHY = "no text, no finite number, no record and no removal"
+
+export const NO_MARK: readonly unknown[] = [NaN, Infinity, -Infinity, true, undefined, [1]]
+
+export const PAIR: Fields = { accessToken: "fake-access", refreshToken: "fake-refresh", ms: 12 }
+
+export const NO_FIELD: readonly (readonly [unknown, string])[] = [
+  [{}, "a record holding no field"],
+  [{ one: true }, "`terminalAt.one` carries what is no text and no finite number"],
+  [{ one: NaN }, "no finite number"],
+  [{ one: "a\nb" }, "carries a newline"],
+  [{ one: "   " }, "arrived empty"],
+  [JSON.parse('{"__proto__":"x","one":"y"}'), "which no record holds"],
+]
 
 export function carriedOf(key: string, said: Partial<Carried> = {}): Carried {
   return {

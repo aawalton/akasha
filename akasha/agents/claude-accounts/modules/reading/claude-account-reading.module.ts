@@ -125,10 +125,6 @@ export const claudeAccountReading = {
     },
     {
       invariantKind: "gap",
-      statement: "`rescued-credential` is declared by no property of the claude-account page type.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A fleet answer opens the page of every account listed.",
     },
     {

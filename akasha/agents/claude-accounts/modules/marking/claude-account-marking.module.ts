@@ -55,7 +55,24 @@ export const claudeAccountMarking = {
     },
     {
       invariantKind: "departure",
-      statement: "A mark that is neither text nor a finite number nor a removal is refused.",
+      statement: "A mark carrying a record is written beside the page as a record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field of a record mark carries text or a finite number.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record mark holding no field is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record mark carrying a field named `__proto__` is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A mark that is neither text nor a finite number nor a record nor a removal is refused.",
     },
     {
       invariantKind: "departure",
@@ -182,10 +199,6 @@ export const claudeAccountMarking = {
     {
       invariantKind: "gap",
       statement: "A pacing mark built from a moment that will not read takes the read moment away.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A mark carrying `rescuedCredential` is refused.",
     },
     {
       invariantKind: "gap",
