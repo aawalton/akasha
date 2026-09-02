@@ -1,4 +1,4 @@
-import type { ClaudeAccount } from "../claude-account.page-type.ts"
+import type { ClaudeAccount } from "../../claude-account.page-type.ts"
 
 export const tempereso = {
   id: "019db533-f3b2-780f-ad94-08ee3332e5be",

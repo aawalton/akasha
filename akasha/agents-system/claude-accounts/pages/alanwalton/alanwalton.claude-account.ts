@@ -1,4 +1,4 @@
-import type { ClaudeAccount } from "../claude-account.page-type.ts"
+import type { ClaudeAccount } from "../../claude-account.page-type.ts"
 
 export const alanwalton = {
   id: "019db533-f3b2-7818-830b-b9063ba57490",

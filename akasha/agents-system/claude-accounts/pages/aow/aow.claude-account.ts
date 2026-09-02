@@ -1,4 +1,4 @@
-import type { ClaudeAccount } from "../claude-account.page-type.ts"
+import type { ClaudeAccount } from "../../claude-account.page-type.ts"
 
 export const aow = {
   id: "019f1961-6768-77e4-934a-0e27173ee5bc",
