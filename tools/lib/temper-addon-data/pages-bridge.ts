@@ -35,9 +35,21 @@ function typesOf(pageTypeSlug: string): ReadonlyMap<string, string> {
   return found
 }
 
-function valueOf(value: unknown, type: string | undefined): Json {
+function jsonIn(key: string, value: string): Json {
+  try {
+    return JSON.parse(value) as Json
+  } catch {
+    throw new Error(
+      `\`${key}\` is declared json and holds ${JSON.stringify(value.slice(0, 60))}, which no ` +
+        `parse reads, so what a generator would render is the text rather than the value`
+    )
+  }
+}
+
+function valueOf(key: string, value: unknown, type: string | undefined): Json {
   if (value === undefined || value === null) return null
   if (type === undefined) return value as Json
+  if (type.trim() === "json" && typeof value === "string") return jsonIn(key, value)
   if (typeof value === "string") return asDeclared(value, type) as Json
   if (Array.isArray(value) && value.every((one) => typeof one === "string")) {
     return asDeclared(value as readonly string[], type) as Json
@@ -52,7 +64,7 @@ function pageOf(
 ): Page {
   const held: Record<string, Json> = { pageTypeSlug }
   for (const [key, value] of Object.entries(values)) {
-    held[camelizeKey(key)] = valueOf(value, types.get(key))
+    held[camelizeKey(key)] = valueOf(key, value, types.get(key))
   }
   return asPage(held)
 }

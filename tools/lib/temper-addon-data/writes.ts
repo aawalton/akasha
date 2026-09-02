@@ -16,7 +16,8 @@ import { buildAddonDataWritesSkills } from "./writes-skills.ts"
 
 export type AddonDataWrite = (dir: string, name: string, source: string) => Promise<number>
 
-const writeToDisk: AddonDataWrite = (dir, name, source) => Bun.write(resolve(dir, name), source)
+export const writeToDisk: AddonDataWrite = (dir, name, source) =>
+  Bun.write(resolve(dir, name), source)
 
 export type AddonDataSection = readonly [string, (p: AddonDataPages, w: AddonDataWrite) => readonly Promise<number>[]]
 
