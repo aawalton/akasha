@@ -17,9 +17,6 @@
   },
   "references": [
     {
-      "path": "../game-codec"
-    },
-    {
       "path": "../game-companions-ui"
     },
     {

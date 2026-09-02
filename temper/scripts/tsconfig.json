@@ -20,9 +20,6 @@
       "path": "../game-characters-character"
     },
     {
-      "path": "../game-codec"
-    },
-    {
       "path": "../player-completion"
     }
   ],
