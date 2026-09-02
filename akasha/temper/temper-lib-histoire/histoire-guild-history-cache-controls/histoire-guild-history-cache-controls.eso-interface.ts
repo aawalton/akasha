@@ -6,4 +6,5 @@ export const histoireGuildHistoryCacheControls = {
   slug: "histoire-guild-history-cache-controls",
   definition: "the templates the status window and the linked icon are drawn from",
   markup: "xml",
+  loadedAs: "guildHistoryCache/controls.xml",
 } as const satisfies EsoInterface
