@@ -6,7 +6,7 @@ declare const ClearMenu: () => void
 
 declare function AddCustomMenuItem(
   labelText: string,
-  callback: (this: void) => void,
+  callback?: (this: void) => void,
   itemType?: number
 ): number
 
