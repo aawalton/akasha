@@ -17,9 +17,6 @@
   },
   "references": [
     {
-      "path": "../../shared/utils-test"
-    },
-    {
       "path": "../game-characters-character-ui"
     },
     {
@@ -27,12 +24,6 @@
     },
     {
       "path": "../player-completion-ui"
-    },
-    {
-      "path": "../game-characters-equipment-ui"
-    },
-    {
-      "path": "../player-profile"
     }
   ],
   "include": [

@@ -8,6 +8,7 @@ import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { formatGold } from "@akasha/design-primitives/format-gold"
 import { Text } from "@akasha/design-primitives/text-body"
+import { ESO_QUALITY_TEXT_CLASSES } from "@akasha/temper-characters-equipment-ui/eso-quality-text-classes"
 import type {
   ActionGroup,
   CharacterSession,
@@ -16,7 +17,6 @@ import type {
   VenueStop,
 } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"
 import { useCallback, useState } from "react"
 import {
   decideManagementPlanPanelState,

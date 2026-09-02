@@ -6,11 +6,11 @@ import { buildNodePath } from "@akasha/design-patterns/path"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { formatGold } from "@akasha/design-primitives/format-gold"
+import { ESO_QUALITY_TEXT_CLASSES } from "@akasha/temper-characters-equipment-ui/eso-quality-text-classes"
 import type {
   InventoryLeafNode,
   InventoryNode,
 } from "@akasha/temper-items-core/inventory-node-types"
-import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"
 import { useState } from "react"
 import { ItemTooltipPopover } from "./item-tooltip-popover"
 import { type ValueExplanationData, ValueExplanationDialog } from "./value-explanation-dialog"
