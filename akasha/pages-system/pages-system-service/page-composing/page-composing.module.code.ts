@@ -1,4 +1,5 @@
 import { listedAt } from "@akasha/indexes"
+import { filePropertiesAt } from "@akasha/indexes/entries"
 import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages-system/page-body"
 import { type Carried, propertiesFrom, sourceIn } from "@akasha/pages-system/page-type-properties"
 import { textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
@@ -41,16 +42,23 @@ export function orderedIn(carried: readonly Carried[]): readonly Carried[] {
 
 const PAGES = "pages"
 
+export function besideItsPage(root: string, carried: readonly Carried[]): boolean {
+  const filed = filePropertiesAt(root)
+  return carried.some((one) => filed.has(one.propertySlug))
+}
+
 export function pathFor(
   typeAt: string,
   plural: string,
   pageTypeSlug: string,
-  slug: string
+  slug: string,
+  besideIt: boolean
 ): string {
   const above = typeAt.split("/").slice(0, -1)
   const folder = above.join("/")
   const under = above.at(-1) === plural ? PAGES : plural
-  return `${folder}/${under}/${slug}.${pageTypeSlug}.ts`
+  const own = besideIt ? `/${slug}` : ""
+  return `${folder}/${under}${own}/${slug}.${pageTypeSlug}.ts`
 }
 
 function saying(keys: readonly string[]): string {
@@ -89,7 +97,8 @@ export function composedFor(root: string, named: Naming): Composed {
   if (held === undefined && plural === null) {
     return { refused: `\`${named.pageTypeSlug}\` states no ${PLURAL}, so a new page has no place` }
   }
-  const at = held ?? pathFor(typeAt, plural ?? "", named.pageTypeSlug, named.slug)
+  const beside = held === undefined && besideItsPage(root, carried)
+  const at = held ?? pathFor(typeAt, plural ?? "", named.pageTypeSlug, named.slug, beside)
   const outside: Value = {}
   const inside: Value = {}
   for (const one of carried) {

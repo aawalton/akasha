@@ -64,6 +64,19 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page whose type declares a property held in a file takes a folder of its own there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page carrying no such file yet takes that folder too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which properties are held in a file is read from the index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A value under a key the page type declares no property for is refused.",
     },
     {

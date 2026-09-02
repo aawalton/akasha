@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import type { Carried } from "@akasha/pages-system/page-type-properties"
-import { foldedFor, orderedIn, pathFor } from "./page-composing.module.code.ts"
+import { besideItsPage, foldedFor, orderedIn, pathFor } from "./page-composing.module.code.ts"
 
 const ROOT = join(import.meta.dir, "..", "..", "..", "..")
 
@@ -17,6 +17,18 @@ const A_DEVICE_TOKEN = {
     personSlug: "alan",
     iosAppSlug: "alanwalton",
     lastSeenAt: AN_INSTANT,
+  },
+}
+
+const A_DAY = {
+  pageTypeSlug: "daily-tracking",
+  slug: "day-1970-01-01",
+  values: {
+    id: "01a06100-0000-7000-8000-000000000001",
+    pageTypeSlug: "daily-tracking",
+    slug: "day-1970-01-01",
+    title: "1970-01-01",
+    date: "1970-01-01",
   },
 }
 
@@ -56,14 +68,37 @@ test("a folder already named by the plural takes a new page under pages", () => 
     "akasha/person-system/device-tokens/device-token.page-type.ts",
     "device-tokens",
     "device-token",
-    "one"
+    "one",
+    false
   )
   expect(said).toBe("akasha/person-system/device-tokens/pages/one.device-token.ts")
 })
 
 test("a folder not named by the plural takes a new page under the plural", () => {
-  const said = pathFor("akasha/seat-system/seat/seat.page-type.ts", "seats", "seat", "one")
+  const said = pathFor("akasha/seat-system/seat/seat.page-type.ts", "seats", "seat", "one", false)
   expect(said).toBe("akasha/seat-system/seat/seats/one.seat.ts")
+})
+
+test("a page carrying files beside it takes a folder of its own under the plural", () => {
+  const said = pathFor("akasha/seat-system/seat/seat.page-type.ts", "seats", "seat", "one", true)
+  expect(said).toBe("akasha/seat-system/seat/seats/one/one.seat.ts")
+})
+
+test("a type declaring a property held in a file carries files beside its page", () => {
+  const carried = [carrying("slug", "page"), carrying("sessions", "daily-tracking")]
+  expect(besideItsPage(ROOT, carried)).toBe(true)
+})
+
+test("a type declaring no property held in a file carries none", () => {
+  const carried = [carrying("slug", "page"), carrying("date", "daily-tracking")]
+  expect(besideItsPage(ROOT, carried)).toBe(false)
+})
+
+test("a new day is placed in a folder of its own under the plural", () => {
+  const said = foldedFor(ROOT, [A_DAY])
+  expect("puts" in said && said.puts[0]?.path).toBe(
+    "akasha/alan/daily-tracking/daily-trackings/day-1970-01-01/day-1970-01-01.daily-tracking.ts"
+  )
 })
 
 test("several pages compose into what one write puts and what it keeps", () => {
