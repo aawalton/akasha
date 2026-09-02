@@ -194,6 +194,10 @@ export const proxyServing = {
     },
     {
       invariantKind: "departure",
+      statement: "The sleep is handed in so a test needs no wait.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The fetch is handed in so a test needs no network.",
     },
     {
@@ -205,8 +209,40 @@ export const proxyServing = {
       statement: "Every line written here goes to a seam the caller may replace.",
     },
     {
-      invariantKind: "constraint",
-      statement: "A caller hands in the pipeline one message turn is run through.",
+      invariantKind: "departure",
+      statement: "The pipeline a message turn runs through is named here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message turn is run through `pre-forward-queue`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An attempt that queue makes is `account-walk`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A queue that commits answers with `committed-keepalive`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A queue that exhausts answers with `rate-limit-refusal`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The account a request is sent under is chosen by `account-picker`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The credential that account is sent with is read by `fresh-credential`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One account picker is built for the life of a gateway.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A pipeline handed in replaces the one named here.",
     },
     {
       invariantKind: "constraint",
@@ -236,10 +272,6 @@ export const proxyServing = {
     {
       invariantKind: "absence",
       statement: "No route here answers a credential.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The pipeline a message turn runs through is handed in rather than named here.",
     },
     {
       invariantKind: "gap",
@@ -276,10 +308,6 @@ export const proxyServing = {
     {
       invariantKind: "gap",
       statement: "Nothing proves these routes against a listener that is really open.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The fresh-token read the old gateway spelled here is carried nowhere.",
     },
   ],
 } as const satisfies Module

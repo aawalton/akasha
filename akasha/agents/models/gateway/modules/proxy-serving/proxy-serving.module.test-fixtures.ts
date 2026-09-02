@@ -3,12 +3,14 @@ import type { MessageTurn } from "../message-handler/message-handler.module.code
 import type { OAuthEffects } from "../oauth-effects/oauth-effects.module.code.ts"
 import type { StartOAuthProxyOptions } from "../proxy-start/proxy-start.module.code.ts"
 import type { ArmableStreamObserver } from "../transport-log/transport-log.module.code.ts"
-import type {
-  Answering,
-  Listening,
-  ListenSpec,
-  ServingDoors,
-  ServingParts,
+import {
+  type Answering,
+  type Listening,
+  type ListenSpec,
+  type QueuedIn,
+  type ServingDoors,
+  type ServingParts,
+  startOAuthProxy,
 } from "./proxy-serving.module.code.ts"
 
 export const ROOT = "/var/tmp/proxy-serving-root"
@@ -79,6 +81,7 @@ export function heldObserver(): Held {
 
 export type RigGiven = {
   readonly answered?: (turn: MessageTurn) => Promise<Response>
+  readonly named?: boolean
   readonly noPort?: boolean
   readonly openRefused?: boolean
   readonly stopRefused?: boolean
@@ -97,6 +100,7 @@ export type Rig = {
   readonly removed: readonly string[]
   readonly stopped: readonly number[]
   readonly timeouts: readonly Timed[]
+  readonly naps: readonly number[]
   readonly parts: readonly ServingParts[]
   readonly turns: readonly MessageTurn[]
   readonly sent: readonly Sent[]
@@ -118,6 +122,7 @@ export function rigged(given: RigGiven = {}): Rig {
   const removed: string[] = []
   const stopped: number[] = []
   const timeouts: Timed[] = []
+  const naps: number[] = []
   const parts: ServingParts[] = []
   const turns: MessageTurn[] = []
   const sent: Sent[] = []
@@ -127,6 +132,15 @@ export function rigged(given: RigGiven = {}): Rig {
   const fetched: IdleFetch = (url, init) => {
     sent.push({ url, init })
     return Promise.resolve(given.upstream?.() ?? new Response("upstream", { status: 200 }))
+  }
+
+  const watched: QueuedIn = (built) => {
+    parts.push(built)
+    return async (turn) => {
+      turns.push(turn)
+      if (given.answered !== undefined) return given.answered(turn)
+      return new Response(null, { status: 204 })
+    }
   }
 
   const doors: ServingDoors = {
@@ -161,6 +175,10 @@ export function rigged(given: RigGiven = {}): Rig {
       asked += 1
       return given.clock?.() ?? NOW
     },
+    slept: async (ms) => {
+      naps.push(ms)
+      return undefined
+    },
     said: (line) => {
       lines.push(line)
     },
@@ -172,14 +190,7 @@ export function rigged(given: RigGiven = {}): Rig {
     },
     fetched,
     timers: STILL_TIMERS,
-    queuedIn: (built) => {
-      parts.push(built)
-      return async (turn) => {
-        turns.push(turn)
-        if (given.answered !== undefined) return given.answered(turn)
-        return new Response(null, { status: 204 })
-      }
-    },
+    queuedIn: given.named === true ? undefined : watched,
   }
 
   return {
@@ -192,6 +203,7 @@ export function rigged(given: RigGiven = {}): Rig {
     removed,
     stopped,
     timeouts,
+    naps,
     parts,
     turns,
     sent,
@@ -211,6 +223,15 @@ export function rigged(given: RigGiven = {}): Rig {
 
 export function optionsOf(extra: Partial<StartOAuthProxyOptions> = {}): StartOAuthProxyOptions {
   return { port: PORT, root: ROOT, oauth: STUB_OAUTH, ...extra }
+}
+
+export function startedProxy(
+  given: RigGiven = {},
+  extra: Partial<StartOAuthProxyOptions> = {}
+): Rig {
+  const rig = rigged(given)
+  startOAuthProxy(optionsOf(extra), rig.doors)
+  return rig
 }
 
 export function requested(path: string, init: RequestInit = {}): Request {

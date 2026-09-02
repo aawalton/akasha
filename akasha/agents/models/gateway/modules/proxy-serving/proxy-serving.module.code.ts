@@ -1,8 +1,12 @@
 import { mkdirSync, rmSync } from "node:fs"
 import { dirname } from "node:path"
 import type { Server } from "bun"
+import { buildAccountPicker } from "../account-picker/account-picker.module.code.ts"
+import { type AccountWalkSeams, runAccountWalk } from "../account-walk/account-walk.module.code.ts"
 import { bindWithRetry } from "../bind-with-retry/bind-with-retry.module.code.ts"
+import { buildCommittedKeepaliveResponse } from "../committed-keepalive/committed-keepalive.module.code.ts"
 import { buildForward, type Forward } from "../forward/forward.module.code.ts"
+import { freshCredentialIn } from "../fresh-credential/fresh-credential.module.code.ts"
 import { buildHoldRegistry, type HoldRegistry } from "../hold-registry/hold-registry.module.code.ts"
 import type { IdleFetch, IdleTimers } from "../idle-timeout/idle-timeout.module.code.ts"
 import { buildInFlightTracker } from "../in-flight/in-flight.module.code.ts"
@@ -15,7 +19,12 @@ import {
   buildEndInFlightOnce,
   type ObserverSlot,
 } from "../observer-slot/observer-slot.module.code.ts"
+import {
+  type QueueOutcome,
+  runPreForwardQueue,
+} from "../pre-forward-queue/pre-forward-queue.module.code.ts"
 import type { OAuthProxy, StartOAuthProxyOptions } from "../proxy-start/proxy-start.module.code.ts"
+import { rateLimitResponse } from "../rate-limit-refusal/rate-limit-refusal.module.code.ts"
 import {
   buildShutdownFlushRegistry,
   type TransportLogAt,
@@ -64,6 +73,10 @@ export type ServingParts = {
   readonly forward: Forward
   readonly holds: HoldRegistry
   readonly logAt: TransportLogAt | undefined
+  readonly now: () => number
+  readonly slept: (ms: number) => Promise<undefined>
+  readonly said: (line: string) => undefined
+  readonly warned: (line: string) => undefined
 }
 
 export type QueuedIn = (parts: ServingParts) => (turn: MessageTurn) => Promise<Response>
@@ -73,6 +86,7 @@ export type ServingSurface = {
   readonly socketCleared: (path: string) => undefined
   readonly socketRemoved: (path: string) => undefined
   readonly now: () => number
+  readonly slept: (ms: number) => Promise<undefined>
   readonly said: (line: string) => undefined
   readonly warned: (line: string) => undefined
   readonly threw: (line: string, thrown: unknown) => undefined
@@ -81,7 +95,7 @@ export type ServingSurface = {
   readonly timers?: IdleTimers | undefined
 }
 
-export type ServingDoors = ServingSurface & { readonly queuedIn: QueuedIn }
+export type ServingDoors = ServingSurface & { readonly queuedIn?: QueuedIn | undefined }
 
 export function sayOf(thrown: unknown): string {
   return thrown instanceof Error ? thrown.message : String(thrown)
@@ -123,6 +137,10 @@ export const SURFACE: ServingSurface = {
     rmSync(path, { force: true })
   },
   now: () => Date.now(),
+  slept: (ms) =>
+    new Promise((resolve) => {
+      setTimeout(() => resolve(undefined), ms)
+    }),
   said: (line) => {
     console.log(line)
   },
@@ -132,6 +150,69 @@ export const SURFACE: ServingSurface = {
   threw: (line, thrown) => {
     console.error(line, thrown)
   },
+}
+
+export function walkSeamsOf(parts: ServingParts): AccountWalkSeams {
+  const { logPrefix, oauth } = parts
+  const getFreshToken = freshCredentialIn({
+    logPrefix,
+    credentialByAccount: (account, prefix) => oauth.getCredentialByAccount(account, prefix),
+    now: parts.now,
+    warned: parts.warned,
+  })
+  return {
+    logPrefix,
+    pickAccount: buildAccountPicker(logPrefix, oauth, { said: parts.said }),
+    getFreshToken,
+    forward: parts.forward,
+    markAtLimit: async (given): Promise<undefined> => {
+      await oauth.markAccountAtLimit(given)
+    },
+    markDisabled: async (account, reason, prefix): Promise<undefined> => {
+      await oauth.markAccountSubscriptionDisabled(account, reason, prefix)
+    },
+    clearDisabled: async (account, prefix): Promise<undefined> => {
+      await oauth.clearAccountSubscriptionDisabled(account, prefix)
+    },
+    repollAfterLimit: async (account): Promise<undefined> => {
+      await oauth.repollUsageAfter429(account, getFreshToken, logPrefix)
+    },
+  }
+}
+
+export function queuedIn(parts: ServingParts): (turn: MessageTurn) => Promise<Response> {
+  const { logPrefix, oauth, holds, logAt, now, slept, said } = parts
+  const seams = walkSeamsOf(parts)
+  return function queued(turn) {
+    const attempted = (): Promise<QueueOutcome> => runAccountWalk({ ...turn, seams })
+    return runPreForwardQueue({
+      logPrefix,
+      method: turn.method,
+      pathname: turn.pathname,
+      originalBody: turn.originalBody,
+      doors: {
+        attempted,
+        committed: (emptyPoolReason) =>
+          buildCommittedKeepaliveResponse({
+            observerSlot: turn.observerSlot,
+            method: turn.method,
+            pathname: turn.pathname,
+            logPrefix,
+            attempted,
+            slept,
+            now,
+            holdRegistry: holds,
+            logAt,
+            emptyPoolReason,
+          }),
+        rateLimited: rateLimitResponse,
+        pacing: () => oauth.getClaudeAccountPacing(),
+        slept,
+        now,
+        said,
+      },
+    })
+  }
 }
 
 export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoors): OAuthProxy {
@@ -153,8 +234,20 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
     fetchImpl: doors.fetched,
   })
 
+  const pipeline = doors.queuedIn ?? queuedIn
+
   const handleMessages = buildMessageHandler(logPrefix, {
-    queued: doors.queuedIn({ logPrefix, oauth, forward, holds, logAt: doors.logAt }),
+    queued: pipeline({
+      logPrefix,
+      oauth,
+      forward,
+      holds,
+      logAt: doors.logAt,
+      now: doors.now,
+      slept: doors.slept,
+      said: doors.said,
+      warned: doors.warned,
+    }),
     said: doors.said,
     threw: doors.threw,
   })
