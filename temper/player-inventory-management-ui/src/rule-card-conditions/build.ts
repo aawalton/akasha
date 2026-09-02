@@ -1,11 +1,11 @@
 import type { InventoryLocationConditionId } from "@akasha/temper-items-core/location-condition"
-import type { ComparisonOpId } from "@temper/game-items-rules-core/filters/comparison-op-data"
-import type { RequiredCurseStateCondition } from "@temper/game-items-rules-core/filters/required-curse-state-filter-types"
-import type { RequiredSkillLinesCondition } from "@temper/game-items-rules-core/filters/required-skill-lines-filter-types"
+import type { ComparisonOpId } from "@akasha/temper-items-rules-core/comparison-op-data"
+import type { RequiredCurseStateCondition } from "@akasha/temper-items-rules-core/required-curse-state-filter-types"
+import type { RequiredSkillLinesCondition } from "@akasha/temper-items-rules-core/required-skill-lines-filter-types"
 import {
   type RuleConstantKey,
   resolveThreshold,
-} from "@temper/game-items-rules-core/rule-constants"
+} from "@akasha/temper-items-rules-core/rule-constants"
 
 export function resolveOptionalThreshold(
   v: number | RuleConstantKey | undefined
