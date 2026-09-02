@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperThing } from "../../temper-thing.page-type.ts"
+import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
 import type { ByteCount } from "./properties/byte-count.number-property.ts"
 import type { ChunkIndex } from "./properties/chunk-index.number-property.ts"
 import type { Inventory } from "./properties/inventory.relation-property.ts"
