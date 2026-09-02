@@ -1,5 +1,4 @@
 import { parsedAs } from "@akasha/code-system/code-source"
-import { entryShapesAt, filePropertiesAt, pageTypesIn } from "@akasha/indexes/entries"
 import type { Generated } from "@akasha/indexes/generated-properties"
 import { generatedProperties } from "@akasha/indexes/generated-properties"
 import { heldIn, pageNamed } from "@akasha/pages-system/page-file-name"
@@ -132,10 +131,10 @@ export function identifiedOver(text: string): string | null {
 }
 
 function entriedOnto(shadow: Shadow, changes: readonly FileEdit[]): Minted {
-  const shapes = entryShapesAt(shadow.reading)
+  const shapes = shadow.index.entryShapesAt()
   if (shapes.size === 0) return { changes, filled: [] }
-  const pageTypes = pageTypesIn(shadow.reading)
-  const fileProperties = new Set(filePropertiesAt(shadow.reading).keys())
+  const pageTypes = shadow.index.pageTypesIn()
+  const fileProperties = new Set(shadow.index.filePropertiesAt().keys())
   const held: FileEdit[] = []
   const filled: Filled[] = []
   for (const one of changes) {
@@ -167,7 +166,7 @@ export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted 
   const entried = entriedOnto(cast.shadow, changes)
   const early = earlyOf(cast.shadow)
   if (early.size === 0) return entried
-  const pageTypes = pageTypesIn(cast.shadow.reading)
+  const pageTypes = cast.shadow.index.pageTypesIn()
   const held: FileEdit[] = []
   const filled: Filled[] = []
   for (const one of entried.changes) {
