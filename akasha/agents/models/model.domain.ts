@@ -1,9 +1,9 @@
 import type { Domain } from "@akasha/domain-system/domain"
 
-export const models = {
+export const model = {
   id: "01a0535c-f2cf-7edc-8a2e-f495d1255183",
   pageTypeSlug: "domain",
-  slug: "models",
+  slug: "model",
   definition: "the models work can be put to",
   partSlugs: [
     "domain/model-gateway",

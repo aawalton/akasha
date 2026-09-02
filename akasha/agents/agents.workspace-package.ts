@@ -6,5 +6,5 @@ export const agents = {
   slug: "agents",
   definition: "an agent and what puts its work to a model",
   manifest: "json",
-  partSlugs: ["domain/models", "page-type/agent", "page-type/claude-account"],
+  partSlugs: ["domain/model", "page-type/agent", "page-type/claude-account"],
 } as const satisfies WorkspacePackage

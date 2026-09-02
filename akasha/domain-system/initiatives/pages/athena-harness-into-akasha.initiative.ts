@@ -4,7 +4,7 @@ export const athenaHarnessIntoAkasha = {
   id: "01a06210-e6f7-78af-9c1c-18a444bc8fbb",
   pageTypeSlug: "initiative",
   slug: "athena-harness-into-akasha",
-  domainSlug: "domain/models",
+  domainSlug: "domain/model",
   personaSlug: "athena",
   parentSlug: "akasha-migration",
   intents: [
