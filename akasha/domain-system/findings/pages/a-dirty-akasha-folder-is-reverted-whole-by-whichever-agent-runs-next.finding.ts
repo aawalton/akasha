@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aDirtyAkashaFolderIsRevertedWholeByWhicheverAgentRunsNext = {
+  id: "01a0635c-7281-7000-84fe-425b6b33bc4b",
+  pageTypeSlug: "finding",
+  slug: "a-dirty-akasha-folder-is-reverted-whole-by-whichever-agent-runs-next",
+  domainSlug: "workspace-package/hook-system",
+  claim:
+    "`restore-akasha-when-dirty` runs after a Bash call and, where anything under `akasha/` is dirty, deletes every untracked file in the folder and runs `git checkout HEAD -- akasha` over the whole folder. Nothing narrows either act to the paths that call touched, and the hook payload naming those paths is read only for whether it parses. A command that wrote nothing takes away the in-flight work of every other agent in the worktree.",
+  evidence:
+    "`akasha/hook-system/agent-hooks/restore-akasha-when-dirty/restore-akasha-when-dirty.agent-hook.code.ts` — `restoreIn(root)` takes a root and nothing else. `dirtyIn` asks `git status --porcelain -- akasha`, so what it collects is every dirty path under the folder rather than what the call wrote. Every untracked entry is removed with `rmSync(join(root, one.path), { recursive: true, force: true })`. Where any entry is tracked and modified, `git checkout HEAD -- akasha` runs once, with the whole folder as its pathspec. In `main`, the payload is read with `Bun.stdin.text()` and handed to `JSON.parse` inside a try whose only answer is whether the parse threw; no field of that payload reaches `restoreIn`.\n\nSeen twice on 2026-09-02. An `rg` reading two files under `akasha/pages-system` and writing nothing drew `restore-akasha-when-dirty: this call left the akasha folder changed outside the gate`, naming `akasha/pages-system/indexes/index-stamp/index-stamp.module.code.ts` as the path put back as HEAD has it. The command that triggered the restore had not opened that file.\n\nAn agent making an unrelated `akasha edit` under `akasha/pages-system/page/uncommitted` drew the same hook naming `akasha/command-system/change-freshness/change-freshness.module.test.ts`. That agent had never opened that file either, and another agent held it dirty.\n\nThe initiative these were seen under asks for changes across as many as twenty agents at once, on the reading that the akasha commands settle what collides. Two agents holding work under `akasha/` at the same moment is the ordinary case rather than the edge, and the agent that runs a Bash call second takes the other agent's work away.",
+} as const satisfies Finding
