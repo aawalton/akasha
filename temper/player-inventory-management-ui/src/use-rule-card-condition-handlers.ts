@@ -1,7 +1,7 @@
 "use client"
 
 import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import type { InventoryLocationConditionId } from "@temper/game-items-core/location-condition"
+import type { InventoryLocationConditionId } from "@akasha/temper-items-core/location-condition"
 import type { ComparisonOpId } from "@temper/game-items-rules-core/filters/comparison-op-data"
 import { LOCATION_OPTIONS } from "@temper/game-items-rules-core/filters/location-filter"
 import type { RequiredCurseStateCondition } from "@temper/game-items-rules-core/filters/required-curse-state-filter-types"
