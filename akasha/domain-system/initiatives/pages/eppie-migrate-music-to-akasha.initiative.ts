@@ -4,15 +4,15 @@ export const eppieMigrateMusicToAkasha = {
   id: "01a0621e-165f-7f89-87ba-0bbc5ca7562e",
   pageTypeSlug: "initiative",
   slug: "eppie-migrate-music-to-akasha",
-  domainSlug: "domain/performance-arts",
+  domainSlug: "domain/music",
   personaSlug: "eppie",
   parentSlug: "akasha-migration",
   intents: [
     {
       statement:
-        "Performance arts is a domain in akasha, and the music work sits under it as its parts.",
+        "Music in akasha has the sub-domains and page types its songs, artists and listens need.",
       workingMemory:
-        "Nothing has moved. Performance arts is only `pages/domain/performance-arts.domain.md`, whose id is a v5 rather than the uuid v7 a page takes, and it holds no parts: the four music page types parent to `domain/music`, which parents to `domain/alan-harness-tracking-source` rather than here. `akasha/temper` is the one subject-matter domain already across, and its nesting of sub-domains beside their own page types is the shape to copy.",
+        "`akasha/alan/music/music.domain.ts` is open, carrying a definition and no parts yet, and Alan's domain names it. `akasha/temper` is the shape to copy, nesting sub-domains beside their own page types. In the old tree the four page types music-song, music-day, song-listen and heard-music parent to a `domain/music` that hangs off `domain/alan-harness-tracking-source` rather than off Alan. Performance arts is markdown only, and music is what this seat champions until that changes.",
     },
     {
       statement:
@@ -28,7 +28,7 @@ export const eppieMigrateMusicToAkasha = {
     },
   ],
   constraints: [
-    "Every part of this work migrated into akasha lands under `akasha/performance-arts`.",
+    "Every part of this work migrated into akasha lands under `akasha/alan/music`.",
     "The intent stack and its working memory hold where the work is, so a fresh context resumes from the page rather than from what it remembers.",
     "Work never halts on doubt: a finding is filed, a decision is made, and the work goes on.",
     "Changes swarm across as many as twenty agents this initiative's persona spawns and shepherds, and the akasha commands are left to settle what collides.",
