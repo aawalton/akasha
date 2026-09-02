@@ -1,7 +1,7 @@
 "use client"
 
+import { convertIconPathToUrl } from "@akasha/temper-characters-equipment/get-equipment-icon"
 import type { ItemTooltipData, SetBonusEntry } from "@akasha/temper-items-core/item-tooltip-types"
-import { convertIconPathToUrl } from "@temper/game-characters-equipment/sets/get-equipment-icon"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"
 

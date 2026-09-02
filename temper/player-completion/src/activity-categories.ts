@@ -1,4 +1,4 @@
-import type { SetCategoryId } from "@temper/game-characters-equipment/sets/set-categories-data"
+import type { SetCategoryId } from "@akasha/temper-equipment/set-category-ids"
 import type { ActivityCategoryId } from "./activity-category-data"
 
 export const SET_SUBCATEGORY_TO_ACTIVITY: Record<SetCategoryId, ActivityCategoryId> = {

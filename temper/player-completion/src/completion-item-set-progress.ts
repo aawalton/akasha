@@ -1,11 +1,11 @@
-import { requireGet } from "@akasha/utils-narrow/require-get"
-import type { SetCategoryId } from "@temper/game-characters-equipment/sets/set-categories-data"
-import { setCategories } from "@temper/game-characters-equipment/sets/set-categories-data"
-import { setsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
+import { setCategories } from "@akasha/temper-characters-equipment/set-categories"
+import { setsAll } from "@akasha/temper-characters-equipment/sets-all"
 import type {
   AccountCompletion,
   ItemSetPieceProgress,
 } from "@akasha/temper-completion/completion-progress"
+import type { SetCategoryId } from "@akasha/temper-equipment/set-category-ids"
+import { requireGet } from "@akasha/utils-narrow/require-get"
 
 const ESO_CATEGORY_NAME_MAP: Record<string, SetCategoryId> = {
   dungeons: "dungeon",
