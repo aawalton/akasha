@@ -51,10 +51,19 @@ test("a patch applied lands its bodies and takes the patch away", () => {
   const root = indexed()
   drafting(root)
   const said = applied(root, PAGE, AGENT, "applied", ADMITS, null)
-  expect("refusals" in said).toBe(false)
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
   expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
   expect(patchIn(root, PAGE)).toBeNull()
   expect(refs(root)).toBe("")
+})
+
+test("a patch applied answers which of its bodies the formatter moved", () => {
+  const root = indexed()
+  drafting(root)
+  const said = applied(root, PAGE, AGENT, "applied", ADMITS, null)
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  expect(said.formatted).toEqual([])
+  expect(said.landed).toEqual([PAGE])
 })
 
 test("a body applied is recorded as read by the agent that applied it", () => {

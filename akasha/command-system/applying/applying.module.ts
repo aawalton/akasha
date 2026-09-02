@@ -38,6 +38,19 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "A body the patch leaves is formatted before the gate judges that body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the formatter moved is named in the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading is recorded of the body the formatter left rather than the body drafted.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading never ages out.",
     },
     {
