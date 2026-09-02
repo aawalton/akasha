@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's daily tracking is read from akasha rather than from the old markdown.",
       workingMemory:
-        "A full rehearsal in an isolated copy says do not land: between the two acts every day is doubled at exit 0, a session open across the turn livelocks tracking with `close` reporting success and `start` refusing forever, and the read gate refuses every daemon write since the row file being written is itself an owed read. My three-act design is the cause of the first two. Also open: a landed day rolls up nothing from the rows beside it, so all 133 read a surplus of 0.",
+        "A rehearsal in an isolated copy says do not land. Between the two acts every day is doubled at exit 0; a session open across the turn livelocks tracking, `close` reporting success and `start` refusing forever; the read gate refuses every daemon write, since the row written is itself an owed read, and `change-mechanical` is no answer because it runs no checks either. The cell wanted, checks without a warrant, has no page. Also open: a landed day rolls up nothing, so all 133 read a surplus of 0.",
     },
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
