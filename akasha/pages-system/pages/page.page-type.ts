@@ -42,7 +42,6 @@ export const page = {
     "module/page-secret",
     "module/page-uncommitted",
     "module/page-value",
-    "domain/page-edge",
     "relation-property/page-type-slug",
     "text-property/cover",
     "text-property/id",
