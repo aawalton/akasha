@@ -73,5 +73,6 @@ export const migrateAlanAndJennyToAkasha = {
     "No act on this initiative is out of reach, deploys to the cluster included; only permanently deleting the repository is refused.",
     "Work runs in parallel through subagents wherever it can, twenty at once at the most.",
     "A package moving into akasha is written in afresh, since no command carries a file in. It is renamed to empty the old folder rather than because its old name would stop resolving.",
+    "The command putting an app in front of people is `akasha deploy` naming that app's slug, whichever kind of app its page turns out to be.",
   ],
 } as const satisfies Initiative
