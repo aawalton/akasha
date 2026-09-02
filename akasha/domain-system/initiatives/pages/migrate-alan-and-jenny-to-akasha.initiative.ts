@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Nothing reaches pages through the old query engine.",
       workingMemory:
-        "Alan has ruled this the priority: the pod cannot answer page queries from its own checkout and must reach the pages-system-service. That checkout resets to origin at pod start and was 262 commits stale, hiding four landed readouts from his widget while they were right here. The service answers for akasha pages alone and refuses the rest by name, so a census of what the pod asks for is owed before any switch. No fallback to the checkout: that is the same defect wearing resilience.",
+        "The census is in at `9445bc2c0f` and it inverts the premise: no live page read in the deployed app reaches the pod's own checkout. The second reader is Alan's editor, where `askHere` asks the checkout first and reaches the service only on one refusal word, so a wrong answer and an absent one take the same road. The 262 was no lasting condition, and a reading is written to a `*.uncommitted.*` file and never committed, so no freshness ever carried one.",
     },
     {
       statement: "`pages-ui` stands in akasha.",
