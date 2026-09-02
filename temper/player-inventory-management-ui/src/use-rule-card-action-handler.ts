@@ -1,8 +1,8 @@
 "use client"
 
-import { INVENTORY_RULE_FILTERS } from "@temper/game-items-rules-core/filters/filter-registry"
-import type { FilterId } from "@temper/game-items-rules-core/filters/filter-types"
-import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
+import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { INVENTORY_RULE_FILTERS } from "@akasha/temper-items-rules-core/rule-filter-registry"
+import type { FilterId } from "@akasha/temper-items-rules-core/rule-filter-types"
 import type React from "react"
 import { ACTION_OPTIONS, SELL_ACTIONS } from "./action-options"
 import { patchConditions } from "./rule-card-conditions/patch"
