@@ -31,6 +31,7 @@ const AUTH_CONFIG: AuthRouteConfig = {
   authPaths: ["/sign-in", "/sign-up"],
   internalApiPaths: [
     "/api/health",
+    "/api/pages-ready",
     "/api/errors",
     "/api/zero/",
     "/api/cron/",
