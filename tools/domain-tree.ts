@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages-system/checkout-roots"
-import { domainsDrawn } from "../akasha/editor-extension/panel-domains/panel-domains.module.code.ts"
+import { domainsDrawn } from "@akasha/editor-extension/panel-domains"
 import { sayAnswer } from "./lib/answer.ts"
 import { type DomainRow, championTree } from "./lib/champions-tree.ts"
 
