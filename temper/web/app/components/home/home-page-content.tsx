@@ -8,7 +8,7 @@ import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Button } from "@akasha/design-primitives/button"
 import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@akasha/design-patterns/empty"
-import { QueryErrorBoundary } from "@shared/design-patterns/components/query-error-boundary"
+import { QueryErrorBoundary } from "@akasha/design-patterns/query-error-boundary"
 import { PagesUILink as Link, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import {
   applyCharacterMetadata,

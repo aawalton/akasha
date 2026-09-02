@@ -14,14 +14,6 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "shared/design-patterns": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
     "akasha/object-store": {
       "entry": [
         "**/*.test.{ts,tsx}"

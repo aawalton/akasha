@@ -19,7 +19,6 @@
     "@akasha/design-badges": "workspace:*",
     "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
-    "@shared/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/design-system": "workspace:*",
     "@akasha/errors-client": "workspace:*",

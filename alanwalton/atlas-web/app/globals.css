@@ -5,7 +5,6 @@
 @source "../../../akasha/design/design-badges/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-layout/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-forms/**/*.{ts,tsx}";
-@source "../../../shared/design-patterns/src/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-patterns/**/*.{ts,tsx}";
 @source "../../../akasha/design/design-primitives/**/*.{ts,tsx}";
 @source "../../../shared/pages-ui/src/**/*.{ts,tsx}";

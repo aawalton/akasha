@@ -4,7 +4,7 @@ import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { Button } from "@akasha/design-primitives/button"
 import { listPageSkeleton } from "@akasha/design-layout/skeleton-presets"
-import { QueryErrorBoundary } from "@shared/design-patterns/components/query-error-boundary"
+import { QueryErrorBoundary } from "@akasha/design-patterns/query-error-boundary"
 import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
 import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"

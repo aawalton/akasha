@@ -4,9 +4,6 @@
       "path": "./shared/pages-query"
     },
     {
-      "path": "./shared/design-patterns"
-    },
-    {
       "path": "./temper/game-characters-character"
     },
     {
