@@ -10,7 +10,13 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A patch that cannot rebase carries its conflicts where the agent resolves them.",
       workingMemory:
-        "A conflict refuses the draft and refuses the apply, and `akasha patch` reports it. What is left is carrying the conflict marks into the patch so the agent resolves them there.",
+        "The marked body is carried into the patch, and the draft, `akasha patch` and a refused apply each name the paths carrying a conflict. What is left is an act to see and replace a drafted body.",
+    },
+    {
+      statement:
+        "A draft is judged against what the patch already holds rather than against the tree alone.",
+      workingMemory:
+        "The gate compiles a draft against HEAD plus that draft alone, so a second draft leaning on the first is refused. Interdependent changes cannot be queued into one patch until this is so.",
     },
     {
       statement: "A principal takes in the patch of a subagent that stops.",
