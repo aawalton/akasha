@@ -62,9 +62,6 @@
       "path": "../../shared/utils-test"
     },
     {
-      "path": "../game-characters-character-ui"
-    },
-    {
       "path": "../game-companions-ui"
     },
     {
