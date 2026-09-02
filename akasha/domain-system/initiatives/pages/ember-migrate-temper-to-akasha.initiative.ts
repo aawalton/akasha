@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Player-completion must NOT be ablated: 12 modules are live in the legacy with no akasha twin and no importer, so an importer-based readiness check finds the island closed and licenses removal. 26 of 37 deleted tests are recreated, 365 pass, 0 fail; the other 11 prove modules that have not crossed. Web edges cleared at `e603fbf255`. Lore-library now counts 6,590 books where the legacy counted 211 collections, a product change nothing recorded.",
+        "A content census inverted my name census: of 19 modules 11 crossed — renamed, inlined, moved package, or turned into a pages-system property type — 4 partly, 3 absent, fixtures dead. Three seats work the absent bucket: category tree, summary orchestrator, picker spine. Ruling: progress totals come from the static picker catalog at any depth, not from the saved-data record. The 13 generated files are residue, with no writer and no outside importer.",
     },
     {
       statement: "No part of temper is outside akasha.",
