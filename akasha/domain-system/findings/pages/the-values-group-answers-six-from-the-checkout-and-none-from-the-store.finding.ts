@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theValuesGroupAnswersSixFromTheCheckoutAndNoneFromTheStore = {
+  id: "01a0629c-5328-795f-8d8b-6bcf21cae8e6",
+  pageTypeSlug: "finding",
+  slug: "the-values-group-answers-six-from-the-checkout-and-none-from-the-store",
+  domainSlug: "workspace-package/readout-system",
+  claim:
+    "The `values` readout group answers six members from the checkout catalog and none from the akasha store, so `stoplight-mean-points.ts` cannot move onto the new system yet: the count a persona's day is scored out of would go from 15 to 9. `upkeep` and `inboxes` already agree across both engines, at six and three. The two-engine disagreement recorded earlier has closed for inboxes and remains, whole, for values.",
+  evidence:
+    "Measured 2026-09-02 by running both engines over the same three groups rather than reading either. For each group, three things were asked: what `readouts/group/*.readout-group.md` names under `sequence-slugs`, what `readoutCatalog()` holds enabled, and what `askingFor({pageTypeSlug: 'readout', where: {groupSlugs: {has: ...}}})` answers.\n\nupkeep — the page names 6, the checkout holds 6, the store answers the same 6.\ninboxes — the page names 5, the checkout holds 3, the store answers the same 3. The other two are `enabled: false` rather than removed, per Alan's rule at 870e74ebbc, and both engines agree on the three.\nvalues — the page names 6 (faith, love, health, learn, fun, wealth), the checkout holds 6, the store answers none at all.\n\nSo the denominator through the checkout is 6+3+6=15 today, where `the-values-readout-group-is-a-denominator-rather-than-a-display` recorded 17. The inboxes ablation moved it and moved both engines together, so nothing is owed there. Through the store it would be 6+3+0=9, and moving the engine before the values readouts exist in akasha would rescore every persona-day.\n\nA second gap beside it: `readouts/group/safety.readout-group.md`, `surplus.readout-group.md` and `categorization.readout-group.md` carry no `sequence-slugs` at all, so for those three only the readout-to-group direction exists. `upkeep-safety` names `safety` under `group-slugs` and the store answers it, while the safety group page names nothing. Those three are reached by `resolveOneReadout` rather than by the denominator, so no day is scored out of them and the gap is not yet arithmetic.",
+} as const satisfies Finding
