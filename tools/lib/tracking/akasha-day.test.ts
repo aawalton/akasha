@@ -4,7 +4,7 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { camelised, camelisedRow, rowsBeside, rowsText, turnedRows } from "./akasha-day.ts"
 
-const PAGE = "akasha/alan/daily-tracking/daily-trackings/day-2026-03-05.daily-tracking.ts"
+const PAGE = "akasha/alan/daily-tracking/daily-trackings/day-2026-03-06.daily-tracking.ts"
 
 const HELD = [
   { id: "one", title: "Sleep", startTime: "a" },
