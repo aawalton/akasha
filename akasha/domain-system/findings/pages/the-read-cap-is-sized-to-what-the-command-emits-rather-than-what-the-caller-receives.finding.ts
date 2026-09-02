@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theReadCapIsSizedToWhatTheCommandEmitsRatherThanWhatTheCallerReceives = {
+  id: "01a06241-45bb-7b60-9114-0ccb5735dbca",
+  pageTypeSlug: "finding",
+  slug: "the-read-cap-is-sized-to-what-the-command-emits-rather-than-what-the-caller-receives",
+  domainSlug: "domain/akasha-system",
+  claim:
+    "`akasha read` caps one answer at 28,000 bytes, names the files it left, and hands back the exact next call, so the command loses nothing. That cap is larger than what one tool result delivers whole. One legal call, neither piped nor chained, had 18,061 characters removed from the middle of what reached the shell while the record held every file in it as read.",
+  evidence:
+    "Measured 2026-09-02 from the ember seat. One `akasha read` naming seven roots answered with their closure and closed with `40 files were left unread here: the rest of the set runs past the 28000 bytes one answer holds`, so the command applied its own cap, named what it withheld, and handed back the exact follow-up call. The command lost nothing and hid nothing. What did reach the shell was then shortened by the caller, which marked the gap `[18061 characters truncated]` in the middle of the bodies. Every file in that answer was held as read: a later `akasha write --dry-run` over the same closure named none of them as owed. The call was one `akasha read`, not piped, not redirected into a file, not sent to /dev/null, and not chained with any other command, so none of the three understood causes of a body failing to arrive applies. The role directive `One Read A Call` at role.page-type.ts:149 warrants itself on this exact failure, that output past what one shell result holds is shortened while the record says it reached you, and it bars chaining, which leaves the one-call case uncovered; its aid `One call naming many files is safe; it caps itself` is what this measurement contradicts. Two size bands were seen at the caller. At 556.7 KB the whole answer was kept in a file and the caller said where, so nothing went missing from the middle. The middle-shortening band is the one that drops content, and a 28,000-byte answer sits inside it. `ANSWER_CEILING = 28000` is a constant at read.command.code.ts:30, and nothing between the command and the shell weighs that figure against what the caller can take. A seat holding a large closure can then answer the write gate while holding less than the gate believes it handed over.",
+} as const satisfies Finding
