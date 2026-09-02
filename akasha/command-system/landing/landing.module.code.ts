@@ -7,7 +7,8 @@ import type { Change } from "@akasha/pages-system/change"
 import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
-import { drafted as draftedOnto } from "../drafting/drafting.module.code.ts"
+import type { Bodies, Draft } from "../drafting/drafting.module.code.ts"
+import { drafted as draftedOnto, wouldHold } from "../drafting/drafting.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import { clearedOff } from "../folder-clearing/folder-clearing.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
@@ -53,6 +54,7 @@ export type Drafted = {
   readonly drafted: readonly string[]
   readonly patch: string | null
   readonly clashed: readonly string[]
+  readonly judged: readonly string[]
 }
 
 const AGAIN_WRITTEN = "nothing was written — read them again against what stands now"
@@ -60,6 +62,18 @@ const AGAIN_WRITTEN = "nothing was written — read them again against what stan
 const AGAIN_DRAFTED = "nothing was drafted — read them again against what stands now"
 
 const KEPT_AS_IT_WAS = "nothing was drafted — the patch is as the patch was"
+
+const JUDGED_WHOLE =
+  "nothing was drafted — the patch is judged whole, so every path the patch holds must pass"
+
+const BYTES = new TextEncoder()
+
+function editsOf(held: Bodies): readonly FileEdit[] {
+  return [...held].map(([path, one]) => ({
+    path,
+    body: one.body === null ? null : BYTES.encode(one.body),
+  }))
+}
 
 export function baseOf(root: string): string {
   return gitIn(root, ["rev-parse", "HEAD"]).trim()
@@ -272,32 +286,35 @@ function unfresh(
   return null
 }
 
+function draftsOf(root: string, base: string, changes: readonly FileEdit[]): readonly Draft[] {
+  const before = beforeOf(root, base, changes)
+  return changes.map((one) => ({
+    path: one.path,
+    was: textOf(before.get(one.path) ?? null),
+    body: textOf(one.body),
+  }))
+}
+
 function draftedBy(
   root: string,
   page: string,
   changes: readonly FileEdit[],
   named: string | null,
-  asRead: readonly AsRead[]
+  asRead: readonly AsRead[],
+  drafts: readonly Draft[],
+  paths: readonly string[]
 ): Drafted | Refused {
   const base = baseOf(root)
   const stale = unfresh(root, named, base, changes, asRead, AGAIN_DRAFTED)
   if (stale !== null) return stale
-  const before = beforeOf(root, base, changes)
-  const said = draftedOnto(
-    root,
-    page,
-    changes.map((one) => ({
-      path: one.path,
-      was: textOf(before.get(one.path) ?? null),
-      body: textOf(one.body),
-    }))
-  )
+  const said = draftedOnto(root, page, drafts)
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
   return {
     base,
     drafted: changes.map((one) => one.path).sort(),
     patch: said.patch,
     clashed: said.clashed,
+    judged: paths,
   }
 }
 
@@ -361,16 +378,36 @@ export function landing(
     }
   }
   const judgedAt = baseOf(root)
-  const said = judged(judging, changeOf(root, { base: judgedAt, edits: changes }))
+  let edits: readonly FileEdit[] = changes
+  let drafts: readonly Draft[] = []
+  if (drafting !== null) {
+    drafts = draftsOf(root, judgedAt, changes)
+    const held = wouldHold(root, drafting.page, drafts)
+    if ("why" in held) return { refusals: [held.why, KEPT_AS_IT_WAS] }
+    edits = editsOf(held.held)
+  }
+  const said = judged(judging, changeOf(root, { base: judgedAt, edits }))
   if (said.length > 0) {
     return {
       refusals: [
         ...said.map((one) => `${one.path} — ${one.reason}`),
-        `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`,
+        drafting === null
+          ? `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`
+          : JUDGED_WHOLE,
       ],
     }
   }
-  if (drafting !== null) return draftedBy(root, drafting.page, changes, named, asRead)
+  if (drafting !== null) {
+    return draftedBy(
+      root,
+      drafting.page,
+      changes,
+      named,
+      asRead,
+      drafts,
+      edits.map((one) => one.path).sort()
+    )
+  }
   return holding(root, () => {
     const base = baseOf(root)
     const stale = unfresh(root, named, base, changes, asRead, AGAIN_WRITTEN)

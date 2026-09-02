@@ -214,6 +214,23 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A draft is judged against what the patch would hold rather than the change alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the patch holds is judged whether or not the draft names that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draft and an apply are judged over the same bodies.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a draft was judged over is answered alongside what was drafted.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A draft is held to the bodies its writer read as a landing is.",
     },
     {
