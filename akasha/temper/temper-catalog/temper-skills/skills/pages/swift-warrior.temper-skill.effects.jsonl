@@ -1,0 +1,3 @@
+{"id":"01a05fd1-d18b-77ed-ad89-7b84c29a09d3","metricId":"power","type":"integer","value":258}
+{"id":"01a05fd1-d18b-7f51-bb65-f3ae32e8189d","metricId":"stamina-sprint-cost","type":"fractional-change","value":-0.12}
+{"id":"01a05fd1-d18b-7ec9-91d0-ecdc0d1cdfa2","metricId":"movement-sprint-speed","type":"fractional-change","value":0.1}
