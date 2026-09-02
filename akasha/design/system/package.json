@@ -7,7 +7,7 @@
   ],
   "exports": {
     "./styles.css": "./design-look/design-look.stylesheet.styles.css",
-    "./design-system-page-content": "./design-system-page-content/design-system-page-content.module.code.tsx"
+    "./design-system-page-content": "./page-content/design-system-page-content.module.code.tsx"
   },
   "dependencies": {
     "@akasha/design-badges": "workspace:*",
