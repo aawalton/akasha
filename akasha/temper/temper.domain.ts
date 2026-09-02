@@ -98,6 +98,7 @@ export const temper = {
     "workspace-package/temper-companions-core",
     "workspace-package/temper-catalog-generators",
     "workspace-package/temper-items-rules-eval",
+    "workspace-package/temper-items-filters-core",
   ],
   invariants: [
     {
