@@ -1,7 +1,5 @@
 import { dirname, join } from "node:path"
 import { landingOf, specifiersIn } from "@akasha/code-system/code-specifier"
-import { everyOfType, listedByPath } from "@akasha/indexes"
-import { filePropertiesAt } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages-system/change"
 import { matchingIn } from "@akasha/pages-system/name-format/format-reaching"
 import { lowerKebabCase } from "@akasha/pages-system/name-format/lower-kebab-case"
@@ -113,16 +111,16 @@ function nameReasonsIn(text: string, matching: Matching): readonly string[] {
 }
 
 function manifestNamed(shadow: Shadow): string {
-  const said = filePropertiesAt(shadow.reading).get(MANIFEST)
+  const said = shadow.index.filePropertiesAt().get(MANIFEST)
   if (said === undefined || said === null) throw new Error(NO_MANIFEST)
   return said
 }
 
 export function packagePagesIn(shadow: Shadow): readonly string[] {
-  const found = new Set(everyOfType(shadow.reading, PACKAGE).map((one) => one.path))
+  const found = new Set(shadow.index.everyOfType(PACKAGE).map((one) => one.path))
   for (const kind of shadow.index.kindsUnder(PACKAGE)) {
     if (kind === PACKAGE) continue
-    for (const one of everyOfType(shadow.reading, kind)) found.add(one.path)
+    for (const one of shadow.index.everyOfType(kind)) found.add(one.path)
   }
   return [...found].sort()
 }
@@ -162,7 +160,7 @@ export function holdingIn(packages: readonly Package[], path: string): Package |
 }
 
 export function pageIn(shadow: Shadow): (at: string) => boolean {
-  return (at) => listedByPath(shadow.reading, at).some((one) => one.path === at)
+  return (at) => shadow.index.listedByPath(at).some((one) => one.path === at)
 }
 
 export function reasonsIn(
