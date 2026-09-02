@@ -1,19 +1,19 @@
 "use client"
 
-import { useAuth } from "@shared/auth/use-auth"
 import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
-import type { Json } from "@akasha/utils-narrow/json-value"
-import { isRecord } from "@akasha/utils-narrow/is-record"
-import type { InventoryLoggingSettings } from "@temper/game-items-core/inventory-logging-types"
+import type { InventoryLoggingSettings } from "@akasha/temper-items-core/inventory-logging-types"
 import {
   ALL_DESTRUCTIVE_ACTIONS,
   type InventorySafetySettings,
-} from "@temper/game-items-core/inventory-safety-types"
+} from "@akasha/temper-items-core/inventory-safety-types"
 import type { ShoppingSettings } from "@akasha/temper-shopping/shopping-settings"
+import { isRecord } from "@akasha/utils-narrow/is-record"
+import type { Json } from "@akasha/utils-narrow/json-value"
+import { useAuth } from "@shared/auth/use-auth"
 import { useCallback, useMemo } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
