@@ -7,6 +7,7 @@
     "./app-version/app-version-check": "./app-version/app-version-check/app-version-check.module.code.ts",
     "./app-version/use-app-version-check": "./app-version/use-app-version-check/use-app-version-check.module.code.ts",
     "./block-editor/block-accessory-bar": "./block-editor/block-accessory-bar/block-accessory-bar.module.code.tsx",
+    "./block-editor/block-editor": "./block-editor/block-editor/block-editor.module.code.tsx",
     "./block-editor/block-tree": "./block-editor/block-tree/block-tree.module.code.tsx",
     "./block-editor/block-type-helpers": "./block-editor/block-type-helpers/block-type-helpers.module.code.ts",
     "./block-editor/save-queue": "./block-editor/save-queue/save-queue.module.code.ts",
