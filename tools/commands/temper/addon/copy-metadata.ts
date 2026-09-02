@@ -5,7 +5,13 @@ export const summary =
 import { existsSync } from "node:fs"
 import { copyFile, cp, mkdir, readdir, readFile, writeFile } from "node:fs/promises"
 import { dirname, join, resolve } from "node:path"
+import {
+  additionalLuaPathsIn,
+  addonBindingsPathIn,
+  BINDINGS_FILE_NAME,
+} from "@akasha/temper-addon-build/addon-metadata-files"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
+import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 import { OWNERSHIP_MARKER_FILE } from "@akasha/temper-addons-resolve/folder-ownership"
 import {
   readSiblingAddonNames,
@@ -29,7 +35,7 @@ export const help: CommandHelp = {
     "\n" +
     "Everything written is build output, untracked, and this is the rule it is made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.\n" +
     "\n" +
-    "An addon whose `<name>.xml` or `Bindings.xml` is absent gets an empty one written, because ESO reads a named file rather than an optional one. A declared sibling folder that is not there is refused rather than skipped.",
+    "An addon whose `<name>.xml` is absent gets an empty one written, because ESO reads a named file rather than an optional one. `Bindings.xml` is found where the addon's own shape holds it — beside an akasha addon's page, under a game addon's `metadata/` — and an addon page claiming keybinds with no such file refuses the call rather than writing an empty document over them. A declared sibling folder that is not there is refused rather than skipped.",
   flags: [
     {
       name: "--addon",
@@ -67,30 +73,31 @@ export default async function temperAddonCopyMetadata(args: readonly string[]): 
 
   await temperAddonGenerateLoadOrder(["--addon", canonicalName, "--code-root", codeCheckout])
 
-  try {
-    const xmlContent = await readFile(join(metadataDir, `${canonicalName}.xml`), "utf-8")
-    await writeFile(join(distDir, `${canonicalName}.xml`), xmlContent)
-  } catch {
-    await writeFile(join(distDir, `${canonicalName}.xml`), "<GuiXml></GuiXml>\n")
+  const namedXmlPath = join(metadataDir, `${canonicalName}.xml`)
+  const namedXml = existsSync(namedXmlPath)
+    ? await readFile(namedXmlPath, "utf-8")
+    : "<GuiXml></GuiXml>\n"
+  await writeFile(join(distDir, `${canonicalName}.xml`), namedXml)
+
+  const bindingsPath = await addonBindingsPathIn(addonDir)
+  const bindingsXml =
+    bindingsPath === null ? "<Bindings></Bindings>\n" : await readFile(bindingsPath, "utf-8")
+  await writeFile(join(distDir, BINDINGS_FILE_NAME), bindingsXml)
+
+  const manifestPath = addonManifestPathIn(addonDir)
+  if (manifestPath === null) {
+    throw dataError(`${addonDir} holds no addon manifest, so there is nothing to copy metadata for`)
+  }
+  const config = copyMetadataConfigSchema.parse(JSON.parse(await readFile(manifestPath, "utf-8")))
+
+  const luaPaths = await additionalLuaPathsIn(addonDir, config.additionalLuaFiles ?? [])
+  for (const [filename, sourcePath] of luaPaths) {
+    await writeFile(join(distDir, filename), await readFile(sourcePath, "utf-8"))
   }
 
-  try {
-    const bindingsContent = await readFile(join(metadataDir, "Bindings.xml"), "utf-8")
-    await writeFile(join(distDir, "Bindings.xml"), bindingsContent)
-  } catch {
-    await writeFile(join(distDir, "Bindings.xml"), "<Bindings></Bindings>\n")
-  }
-
-  const config = copyMetadataConfigSchema.parse(
-    JSON.parse(await readFile(join(addonDir, "addon.json"), "utf-8"))
-  )
-
-  for (const filename of config.additionalLuaFiles ?? []) {
-    const content = await readFile(join(addonDir, filename), "utf-8")
-    await writeFile(join(distDir, filename), content)
-  }
-
-  const metadataEntries = await readdir(metadataDir, { withFileTypes: true }).catch(() => [])
+  const metadataEntries = existsSync(metadataDir)
+    ? await readdir(metadataDir, { withFileTypes: true })
+    : []
   for (const entry of metadataEntries) {
     if (entry.isDirectory()) {
       await cp(join(metadataDir, entry.name), join(distDir, entry.name), { recursive: true })
