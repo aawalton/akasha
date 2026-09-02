@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "`akasha/temper` holds one file, the domain page. Outside it: the `temper/` workspace of 151 packages over 10,545 files, 99 page types under `pages/temper-*` over 6,464 files, of which 5,557 are pages and 252 are JSONL holding 164,071 entries, plus `tools/lib/temper-addon-data` and two watcher services. No page type of the 99 is defined anywhere; its shape lives in md frontmatter and in whatever reads it, so each is worked out rather than carried across. Nothing is recreated yet.",
+        "1 of 99 page types recreated: temper-catalog/armor-traits, pages and entries. Forced by `introduced-property-is-a-part`: a property more than one page type carries lives on a base page type. `temper-thing` holds title, key, description, icon, display-order; `temper-catalog-thing` holds effect, material, eso-trait-constant-name and the `effects` and `quality-values` entry shapes. A page type extends its base and parts what it introduces. Clusters: catalog 73, character 10, holdings 6.",
     },
     { statement: "No part of temper is outside akasha." },
   ],
