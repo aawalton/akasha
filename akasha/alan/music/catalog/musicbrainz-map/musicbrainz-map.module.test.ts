@@ -293,14 +293,40 @@ describe("dedupeRecordings", () => {
 describe("mbArtistToFields", () => {
   test("answers the fields an artist page carries", () => {
     expect(
-      mbArtistToFields({ mbid: QUEEN, genres: ["rock", "glam rock"], today: "2026-09-02" })
+      mbArtistToFields({
+        mbid: QUEEN,
+        name: "Queen",
+        genres: ["rock", "glam rock"],
+        today: "2026-09-02",
+      })
     ).toEqual({
+      title: "Queen",
       externalId: QUEEN,
       externalLink: "https://musicbrainz.org/artist/mbid-queen",
       source: "musicbrainz",
       genre: ["rock", "glam rock"],
       lastSyncedAt: "2026-09-02",
     })
+  })
+
+  test("keeps the name MusicBrainz gave letter for letter", () => {
+    const fields = mbArtistToFields({
+      mbid: "mbid-sigur-ros",
+      name: "Sigur Rós",
+      genres: [],
+      today: "2026-09-02",
+    })
+    expect(fields.title).toBe("Sigur Rós")
+  })
+
+  test("keeps a name written in no Latin letter", () => {
+    const fields = mbArtistToFields({
+      mbid: "mbid-yorushika",
+      name: "ヨルシカ",
+      genres: [],
+      today: "2026-09-02",
+    })
+    expect(fields.title).toBe("ヨルシカ")
   })
 })
 
@@ -315,6 +341,7 @@ describe("mbWorkToSongFields", () => {
         today: "2026-09-02",
       })
     ).toEqual({
+      title: "Bohemian Rhapsody",
       artistSlug: "queen",
       externalId: "w1",
       externalLink: "https://musicbrainz.org/work/w1",
@@ -324,6 +351,17 @@ describe("mbWorkToSongFields", () => {
       performed: true,
       written: "solo",
     })
+  })
+
+  test("takes the title from the work", () => {
+    const fields = mbWorkToSongFields({
+      work: work("w1", "Ég Anda", [writerRel(QUEEN)]),
+      artistSlug: "queen",
+      artistMbid: QUEEN,
+      performed: true,
+      today: "2026-09-02",
+    })
+    expect(fields.title).toBe("Ég Anda")
   })
 
   test("names no written field where the artist wrote none of it", () => {
@@ -349,6 +387,7 @@ describe("mbRecordingToSongFields", () => {
         today: "2026-09-02",
       })
     ).toEqual({
+      title: "Under Pressure (Live)",
       artistSlug: "queen",
       externalId: "r1",
       externalLink: "https://musicbrainz.org/recording/r1",
@@ -357,5 +396,15 @@ describe("mbRecordingToSongFields", () => {
       songType: "derivative",
       performed: true,
     })
+  })
+
+  test("keeps a title written in no Latin letter", () => {
+    const fields = mbRecordingToSongFields({
+      title: "夜に駆ける",
+      recordingId: "r2",
+      artistSlug: "yorushika",
+      today: "2026-09-02",
+    })
+    expect(fields.title).toBe("夜に駆ける")
   })
 })

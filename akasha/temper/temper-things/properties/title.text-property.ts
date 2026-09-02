@@ -13,7 +13,7 @@ export const title = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A title is written as the game writes the name rather than as a slug is written.",
+      statement: "A title is written as the name is written rather than as a slug is written.",
     },
   ],
 } as const satisfies TextProperty

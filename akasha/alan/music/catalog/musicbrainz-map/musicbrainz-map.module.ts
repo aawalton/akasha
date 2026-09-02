@@ -77,8 +77,16 @@ export const musicbrainzMap = {
       statement: "A song derived from a recording is performed.",
     },
     {
-      invariantKind: "absence",
-      statement: "No field answered here holds a title.",
+      invariantKind: "departure",
+      statement: "An artist's title is the name MusicBrainz gave.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A song's title from a work is the work's title.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A song's title from a recording is the recording's title.",
     },
     {
       invariantKind: "absence",

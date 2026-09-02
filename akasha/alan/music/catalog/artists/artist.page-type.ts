@@ -1,5 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
 import type { CatalogTags } from "../properties/catalog-tags.text-property.ts"
 import type { ExternalId } from "../properties/external-id.text-property.ts"
 import type { ExternalLink } from "../properties/external-link.text-property.ts"
@@ -10,6 +11,7 @@ import type { Genre } from "./properties/genre.text-property.ts"
 import type { Reaction } from "./properties/reaction.file-property.ts"
 
 export type Artist = Page & {
+  title: Title
   externalId: ExternalId
   externalLink: ExternalLink
   source: Source
@@ -29,6 +31,7 @@ export const artist = {
   extendsSlug: "page-type/page",
   partSlugs: ["file-property/reaction", "text-property/genre"],
   properties: [
+    { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "external-id", required: true, many: false },
     { pagePropertySlug: "external-link", required: true, many: false },
     { pagePropertySlug: "source", required: true, many: false },

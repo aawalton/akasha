@@ -1,5 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { Title } from "../../../../temper/temper-things/properties/title.text-property.ts"
 import type { CatalogTags } from "../properties/catalog-tags.text-property.ts"
 import type { ExternalId } from "../properties/external-id.text-property.ts"
 import type { ExternalLink } from "../properties/external-link.text-property.ts"
@@ -18,6 +19,7 @@ import type { SyncedLyrics } from "./properties/synced-lyrics.file-property.ts"
 import type { Written } from "./properties/written.text-property.ts"
 
 export type Song = Page & {
+  title: Title
   artistSlug: ArtistSlug
   externalId: ExternalId
   externalLink: ExternalLink
@@ -56,6 +58,7 @@ export const song = {
     "text-property/written",
   ],
   properties: [
+    { pagePropertySlug: "title", required: true, many: false },
     { pagePropertySlug: "artist-slug", required: true, many: false },
     { pagePropertySlug: "external-id", required: true, many: false },
     { pagePropertySlug: "external-link", required: true, many: false },

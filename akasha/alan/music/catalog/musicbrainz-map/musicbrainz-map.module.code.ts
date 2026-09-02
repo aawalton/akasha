@@ -11,11 +11,12 @@ import type { Song } from "../songs/song.page-type.ts"
 
 export type ArtistFields = Pick<
   Artist,
-  "externalId" | "externalLink" | "source" | "lastSyncedAt" | "genre"
+  "title" | "externalId" | "externalLink" | "source" | "lastSyncedAt" | "genre"
 >
 
 export type SongFields = Pick<
   Song,
+  | "title"
   | "artistSlug"
   | "externalId"
   | "externalLink"
@@ -169,10 +170,12 @@ export function dedupeRecordings(recordings: readonly MbRecording[]): readonly D
 
 export function mbArtistToFields(args: {
   readonly mbid: string
+  readonly name: string
   readonly genres: readonly string[]
   readonly today: string
 }): ArtistFields {
   return {
+    title: args.name,
     externalId: args.mbid,
     externalLink: artistExternalLink(args.mbid),
     source: SOURCE,
@@ -190,6 +193,7 @@ export function mbWorkToSongFields(args: {
 }): SongFields {
   const written = deriveWritten(args.work, args.artistMbid)
   return {
+    title: args.work.title,
     artistSlug: args.artistSlug,
     externalId: args.work.id,
     externalLink: workExternalLink(args.work.id),
@@ -208,6 +212,7 @@ export function mbRecordingToSongFields(args: {
   readonly today: string
 }): SongFields {
   return {
+    title: args.title,
     artistSlug: args.artistSlug,
     externalId: args.recordingId,
     externalLink: recordingExternalLink(args.recordingId),
