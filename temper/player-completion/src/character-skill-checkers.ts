@@ -1,5 +1,5 @@
 import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import { skillMorphsChecker } from "@temper/game-characters-skills-morphs-access/skill-morphs-checker"
+import { SKILL_MORPHS_CHECKER as skillMorphsChecker } from "@akasha/temper-skill-morphs-access/skill-morphs-checker"
 import type { CompletionCardChecker } from "./completion-card-checker-types"
 import type { CharacterCardId } from "./completion-card-registry"
 import { resolveSkillPointItemProgress } from "./completion-skill-points-progress"

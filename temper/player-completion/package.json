@@ -8,10 +8,10 @@
     "@akasha/temper-races": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
+    "@akasha/temper-skill-morphs-access": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@temper/game-characters-equipment": "workspace:*",
     "@temper/game-characters-skills": "workspace:*",
-    "@temper/game-characters-skills-morphs-access": "workspace:*",
     "@temper/game-characters-skills-morphs-core": "workspace:*",
     "@temper/game-completion": "workspace:*"
   },

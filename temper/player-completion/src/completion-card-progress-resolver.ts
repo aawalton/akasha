@@ -1,11 +1,11 @@
 import { type SkillLineId, skillLines as skillLinesData } from "@akasha/temper-skill-lines/skill-lines"
-import { type MorphCharacterRow } from "@temper/game-characters-skills-morphs-access/morph-completion-shapes"
-import { resolveSkillMorphs } from "@temper/game-characters-skills-morphs-access/skill-morphs-resolver"
+import { type MorphCharacterRow } from "@akasha/temper-skill-morphs-access/morph-completion-shapes"
+import { resolveSkillMorphs } from "@akasha/temper-skill-morphs-access/skill-morphs-resolver"
 import {
-  esoClassIdToClassId,
-  esoRaceIdToRaceId,
+  ESO_CLASS_ID_TO_CLASS_ID as esoClassIdToClassId,
+  ESO_RACE_ID_TO_RACE_ID as esoRaceIdToRaceId,
   getApplicableSkillLineIds,
-} from "@temper/game-characters-skills-morphs-access/eso-id-helpers"
+} from "@akasha/temper-skill-morphs-access/eso-id-helpers"
 import { companions } from "@akasha/temper-companions-core/companions"
 import type {
   AccountCompletion,

@@ -10,7 +10,7 @@ import { getRacialSkillLineIdForRace } from "@temper/game-characters-skills/pass
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
-} from "@temper/game-characters-skills-morphs-access/eso-id-helpers"
+} from "@akasha/temper-skill-morphs-access/eso-id-helpers"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import type {
   CharacterSkillLineProgress,

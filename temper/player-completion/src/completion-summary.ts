@@ -8,7 +8,7 @@ import { getRacialSkillLineIdForRace } from "@temper/game-characters-skills/pass
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
-} from "@temper/game-characters-skills-morphs-access/eso-id-helpers"
+} from "@akasha/temper-skill-morphs-access/eso-id-helpers"
 import { type CharacterSkillMorphProgress } from "@temper/game-characters-skills-morphs-core/morph-progress-types"
 import { buildMorphRankMap, getSkillLineMorphContribution } from "@temper/game-characters-skills-morphs-core/skill-line-morph-totals"
 import type { CharacterAchievementProgressResult } from "./completion-achievement-progress"

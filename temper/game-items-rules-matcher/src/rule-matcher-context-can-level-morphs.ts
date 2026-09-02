@@ -1,5 +1,5 @@
-import { type MorphCharacterCompletion, type MorphCharacterRow } from "@temper/game-characters-skills-morphs-access/morph-completion-shapes"
-import { computeCharacterCanLevelMorphs } from "@temper/game-characters-skills-morphs-access/skill-morphs-checker"
+import { type MorphCharacterCompletion, type MorphCharacterRow } from "@akasha/temper-skill-morphs-access/morph-completion-shapes"
+import { computeCharacterCanLevelMorphs } from "@akasha/temper-skill-morphs-access/skill-morphs-checker"
 import type { CompletionCharacterInput } from "@temper/game-items-rules-core/rule-matcher-context-types"
 
 function isMorphCharacterCompletion(value: unknown): value is MorphCharacterCompletion {

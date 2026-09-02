@@ -24,9 +24,6 @@
     },
     {
       "path": "../game-items-rules-eval"
-    },
-    {
-      "path": "../game-characters-skills-morphs-access"
     }
   ],
   "include": [

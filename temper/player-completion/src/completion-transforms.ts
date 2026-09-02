@@ -1,7 +1,7 @@
 import {
-  esoClassIdToClassId,
-  esoRaceIdToRaceId,
-} from "@temper/game-characters-skills-morphs-access/eso-id-helpers"
+  ESO_CLASS_ID_TO_CLASS_ID as esoClassIdToClassId,
+  ESO_RACE_ID_TO_RACE_ID as esoRaceIdToRaceId,
+} from "@akasha/temper-skill-morphs-access/eso-id-helpers"
 import type { CharacterSkillMorphProgress } from "@temper/game-characters-skills-morphs-core/morph-progress-types"
 import { transformAccountLoreUnion } from "./completion-account-lore-union"
 import type { CompletionCharacterRow } from "./completion-character-row-type"

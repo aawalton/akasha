@@ -52,12 +52,6 @@
         "**/*.ts"
       ]
     },
-    "temper/game-characters-skills-morphs-access": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "temper/game-characters-skills-morphs-addon": {
       "entry": [
         "src/**/*.ts!"
