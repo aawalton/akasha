@@ -62,6 +62,8 @@ async function stoplights(): Promise<readonly Stoplight[]> {
   return ((await answered.json()) as { stoplights: readonly Stoplight[] }).stoplights
 }
 
+const agedOut = () => new Date(Date.now() - 46 * 60_000)
+
 test("a refusal a guard answers is served whole rather than made again here", async () => {
   const refused = await answerStoplightsAdmittedBy(
     new Request("http://a.test/"),
@@ -73,9 +75,99 @@ test("a refusal a guard answers is served whole rather than made again here", as
 })
 
 test("a group no readout is left in is answered as no reading rather than as empty", async () => {
+  ANSWERED.readouts = []
   const answered = await drawn()
   expect(answered.status).toBe(503)
   expect(await answered.json()).toEqual({ ok: false, error: "No reading." })
+})
+
+test("every readout the group admits is answered as a stoplight", async () => {
+  const withNothingCarried = await stoplights()
+  expect(withNothingCarried.length).toBe(1)
+
+  relayedFor(READOUT, 3, agedOut())
+  expect((await stoplights()).length).toBe(1)
+
+  dropRelayed()
+  relayedFor(READOUT, 3)
+  expect((await stoplights()).length).toBe(1)
+})
+
+test("a readout carrying no reading is answered as a stoplight carrying no figure", async () => {
+  const [one] = await stoplights()
+  expect(one?.label).toBe("Safety")
+  expect(one?.habit).toBe("safety")
+  expect(one?.readingHeld).toBe("none")
+})
+
+test("a reading older than the window is answered as a stoplight carrying no figure", async () => {
+  relayedFor(READOUT, 3, agedOut())
+  const [one] = await stoplights()
+  expect(one?.label).toBe("Safety")
+  expect(one?.habit).toBe("safety")
+  expect(one?.readingHeld).toBe("stale")
+})
+
+test("a stoplight carrying no figure names whether no reading was taken or the reading was too old", async () => {
+  const never = (await stoplights())[0]?.readingHeld
+  relayedFor(READOUT, 3, agedOut())
+  const tooOld = (await stoplights())[0]?.readingHeld
+  expect(never).toBe("none")
+  expect(tooOld).toBe("stale")
+  expect(never).not.toBe(tooOld)
+})
+
+test("a reading of zero is a reading rather than an absence", async () => {
+  relayedFor(READOUT, 0)
+  const [carried] = await stoplights()
+  expect(carried?.reading).toBe("0")
+  expect(carried?.readingHeld).toBeUndefined()
+
+  dropRelayed()
+  const [absent] = await stoplights()
+  expect(absent?.reading).toBe("")
+  expect(absent?.readingHeld).toBe("none")
+})
+
+test("the color of a stoplight carrying no figure is the color below every rung", async () => {
+  const tier = (await stoplights())[0]?.tier ?? "no color was answered"
+  expect(tier).toBe("black")
+  expect(["black", "red", "orange", "yellow", "green", "blue"]).toContain(tier)
+})
+
+test("a stoplight carrying no figure carries the figure as empty text rather than leaving it out", async () => {
+  const answered = await drawn()
+  expect(answered.status).toBe(200)
+  const body = (await answered.json()) as { stoplights: readonly Record<string, unknown>[] }
+  const [one] = body.stoplights
+  expect(one === undefined ? [] : Object.keys(one)).toContain("reading")
+  expect(one?.reading).toBe("")
+})
+
+test("a stoplight carrying no figure carries no tier above and no fraction climbed", async () => {
+  const [never] = await stoplights()
+  expect(never?.nextTier).toBeUndefined()
+  expect(never?.progress).toBeUndefined()
+
+  relayedFor(READOUT, 3, agedOut())
+  const [tooOld] = await stoplights()
+  expect(tooOld?.nextTier).toBeUndefined()
+  expect(tooOld?.progress).toBeUndefined()
+})
+
+test("a stoplight carrying a reading says nothing of how that reading is held", async () => {
+  relayedFor(READOUT, 2.5)
+  const answered = await drawn()
+  const body = (await answered.json()) as { stoplights: readonly Record<string, unknown>[] }
+  expect(Object.keys(body.stoplights[0] ?? {})).not.toContain("readingHeld")
+})
+
+test("a readout whose page names no wire key is left out rather than answered keyless", async () => {
+  ANSWERED.readouts = [{ ...READOUT_ROW, wireKey: "  " }]
+  expect((await drawn()).status).toBe(503)
+
+  relayedFor(READOUT, 3)
+  expect((await drawn()).status).toBe(503)
 })
 
 test("the color answered is the rung the reading reaches on the scale the readout names", async () => {
@@ -129,6 +221,11 @@ test("the key the caller names is answered first, where the key answered before 
   expect((await keysAnswered())[0]).toBe("habit")
 })
 
+test("the key the caller names carries a stoplight that carries no figure too", async () => {
+  expect(await keysAnswered(WIRE_KEY_NAME)).toContain(WIRE_KEY_NAME)
+  expect(await keysAnswered()).toContain("habit")
+})
+
 test("a readout whose page states no format has its reading answered as that number", async () => {
   relayedFor(READOUT, 2.5)
   expect((await stoplights())[0]?.reading).toBe("2.5")
@@ -157,6 +254,7 @@ test("a reading below every rung is black rather than left out", async () => {
   expect(one?.tier).toBe("black")
   expect(one?.nextTier).toBe("red")
   expect(one?.progress).toBeUndefined()
+  expect(one?.readingHeld).toBeUndefined()
 })
 
 test("a reading on the highest rung has no tier above that rung", async () => {
@@ -166,14 +264,11 @@ test("a reading on the highest rung has no tier above that rung", async () => {
   expect(one?.nextTier).toBeUndefined()
 })
 
-test("a reading older than the window is left out rather than colored", async () => {
-  relayedFor(READOUT, 3, new Date(Date.now() - 46 * 60_000))
-  expect((await drawn()).status).toBe(503)
-})
-
 test("a reading inside the window is still a reading", async () => {
   relayedFor(READOUT, 3, new Date(Date.now() - 44 * 60_000))
-  expect((await drawn()).status).toBe(200)
+  const [one] = await stoplights()
+  expect(one?.reading).toBe("3")
+  expect(one?.readingHeld).toBeUndefined()
 })
 
 test("a readout whose page names no label is left out rather than labelled here", async () => {

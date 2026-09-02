@@ -4,9 +4,10 @@ import { stated } from "../readout-none-left/readout-none-left.module.code.ts"
 import {
   noReading,
   type RingAdmission,
-  relayedFresh,
+  readingHeldFor,
 } from "../readout-serving/readout-serving.module.code.ts"
 import {
+  BELOW_EVERY_RUNG,
   type Rung,
   readingSaid,
   rungsIn,
@@ -21,11 +22,16 @@ const READOUT_SCALE = "readout-scale"
 
 const HABIT = "habit"
 
+const NO_FIGURE = ""
+
+export type ReadingUnheld = "none" | "stale"
+
 export type Stoplight = {
   readonly habit?: string
   readonly label: string
   readonly tier: TierColor
   readonly reading: string
+  readonly readingHeld?: ReadingUnheld
   readonly nextTier?: TierColor
   readonly progress?: number
 }
@@ -34,6 +40,10 @@ type Values = Readonly<Record<string, unknown>>
 
 export function inPlaceOrder(rows: readonly Values[]): readonly Values[] {
   return [...rows].sort((one, two) => (statedAt(one.place) ?? 0) - (statedAt(two.place) ?? 0))
+}
+
+function wireKeyed(wireKeyName: string, wireKey: string): Pick<Stoplight, "habit"> {
+  return { [wireKeyName]: wireKey }
 }
 
 async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
@@ -55,18 +65,28 @@ export async function stoplightOf(
   const scaleSlug = stated(row.scaleSlug)
   if (slug === undefined || label === undefined || scaleSlug === undefined) return null
 
-  const value = relayedFresh(slug)
-  if (value === null) return null
+  const wireKey = stated(row.wireKey)
+  if (wireKey === undefined) return null
 
-  const reached = tierAt(value, await rungsOf(scaleSlug))
+  const reading = readingHeldFor(slug)
+  if (reading.held !== "fresh") {
+    return {
+      ...wireKeyed(wireKeyName, wireKey),
+      label,
+      tier: BELOW_EVERY_RUNG,
+      reading: NO_FIGURE,
+      readingHeld: reading.held,
+    }
+  }
+
+  const reached = tierAt(reading.value, await rungsOf(scaleSlug))
   if (reached === null) return null
 
-  const wireKey = stated(row.wireKey)
   return {
-    ...(wireKey === undefined ? {} : { [wireKeyName]: wireKey }),
+    ...wireKeyed(wireKeyName, wireKey),
     label,
     tier: reached.tier,
-    reading: readingSaid(value, stated(row.figureFormat)),
+    reading: readingSaid(reading.value, stated(row.figureFormat)),
     ...(reached.nextTier === null ? {} : { nextTier: reached.nextTier }),
     ...(reached.progress === null ? {} : { progress: reached.progress }),
   }

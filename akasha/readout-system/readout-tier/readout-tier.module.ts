@@ -35,6 +35,11 @@ export const readoutTier = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The color a reading under every rung is given is named here rather than by a reader.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The tier above the one reached is the next rung the scale states.",
     },
     {

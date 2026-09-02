@@ -38,6 +38,16 @@ export const readoutServing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A reading never taken and a reading too old are told apart rather than both read as none.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The route for a single readout answers no reading for a reading too old or never taken.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The readout answered for is handed in rather than named here.",
     },
     {

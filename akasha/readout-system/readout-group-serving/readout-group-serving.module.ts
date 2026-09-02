@@ -59,11 +59,45 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading older than the window is left out rather than colored.",
+      statement: "Every readout the group admits is answered as a stoplight.",
     },
     {
       invariantKind: "departure",
-      statement: "A readout carrying no reading is left out rather than colored black.",
+      statement: "A readout carrying no reading is answered as a stoplight carrying no figure.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading older than the window is answered as a stoplight carrying no figure.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A stoplight carrying no figure names whether no reading was taken or the reading was too old.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading of zero is a reading rather than an absence.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The color of a stoplight carrying no figure is the color below every rung.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A stoplight carrying no figure carries the figure as empty text rather than leaving it out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stoplight carrying no figure carries no tier above and no fraction climbed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stoplight carrying a reading says nothing of how that reading is held.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout whose page names no wire key is left out rather than answered keyless.",
     },
     {
       invariantKind: "departure",

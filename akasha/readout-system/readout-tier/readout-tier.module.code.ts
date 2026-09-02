@@ -11,7 +11,7 @@ export type Tiered = {
   readonly progress: number | null
 }
 
-const BELOW_EVERY_RUNG: TierColor = "black"
+export const BELOW_EVERY_RUNG: TierColor = "black"
 
 const RUNGS: readonly (readonly [string, TierColor])[] = [
   ["blackAt", "black"],

@@ -15,6 +15,11 @@ export const NO_READING = { ok: false, error: "No reading." } as const
 
 export type RingAdmission = (request: Request) => Response | null | Promise<Response | null>
 
+export type HeldReading =
+  | { readonly held: "fresh"; readonly value: number }
+  | { readonly held: "stale" }
+  | { readonly held: "none" }
+
 export function refuseUncredentialedRingCaller(
   request: Request,
   credential: string | undefined
@@ -22,10 +27,16 @@ export function refuseUncredentialedRingCaller(
   return refuseWithoutSecret(request, RING_CREDENTIAL_HEADER, credential)
 }
 
-export function relayedFresh(readoutSlug: string, now: Date = new Date()): number | null {
+export function readingHeldFor(readoutSlug: string, now: Date = new Date()): HeldReading {
   const held = relayedHeld(readoutSlug)
-  if (held === null) return null
-  return readingAged(held, now) >= STALE_AFTER_MS ? null : held.value
+  if (held === null) return { held: "none" }
+  if (readingAged(held, now) >= STALE_AFTER_MS) return { held: "stale" }
+  return { held: "fresh", value: held.value }
+}
+
+export function relayedFresh(readoutSlug: string, now: Date = new Date()): number | null {
+  const reading = readingHeldFor(readoutSlug, now)
+  return reading.held === "fresh" ? reading.value : null
 }
 
 export function noReading(): Response {
