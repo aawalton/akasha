@@ -18,8 +18,9 @@ export const temperLibSlashCommander = {
     "module/slash-commander-display-text",
     "module/slash-commander-casts",
     "module/slash-commander-types",
-    "module/slash-commander-declarations",
     "module/slash-commander-entry",
+    "type-declaration/slash-commander-declarations",
+    "type-declaration/slash-commander-entry-declarations",
   ],
   invariants: [
     {

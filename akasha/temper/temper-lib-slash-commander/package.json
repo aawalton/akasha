@@ -12,7 +12,7 @@
     "./slash-commander-display-text": "./slash-commander-display-text/slash-commander-display-text.module.code.ts",
     "./slash-commander-casts": "./slash-commander-casts/slash-commander-casts.module.code.ts",
     "./slash-commander-types": "./slash-commander-types/slash-commander-types.module.code.ts",
-    "./slash-commander-declarations": "./slash-commander-declarations/slash-commander-declarations.module.code.ts",
+    "./slash-commander-declarations": "./slash-commander-declarations/slash-commander-declarations.type-declaration.d.ts",
     "./slash-commander-entry": "./slash-commander-entry/slash-commander-entry.module.code.ts"
   }
 }

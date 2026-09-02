@@ -1,4 +1,3 @@
-import "../slash-commander-declarations/slash-commander-declarations.module.code.ts"
 import {
   asAnyRecord,
   asDescriptionThunk,

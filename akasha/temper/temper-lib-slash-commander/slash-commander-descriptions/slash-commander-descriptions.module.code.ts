@@ -1,4 +1,3 @@
-import "../slash-commander-declarations/slash-commander-declarations.module.code.ts"
 import {
   COMMAND_TYPE_ADDON,
   COMMAND_TYPE_BUILT_IN,
