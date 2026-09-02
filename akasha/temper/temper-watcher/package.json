@@ -15,7 +15,9 @@
     "./watcher-upload-retry": "./watcher-upload-retry/watcher-upload-retry.module.code.ts",
     "./watcher-inventory-snapshot-name": "./watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts",
     "./watcher-file-type": "./watcher-file-type/watcher-file-type.module.code.ts",
-    "./watcher-state": "./watcher-state/watcher-state.module.code.ts"
+    "./watcher-state": "./watcher-state/watcher-state.module.code.ts",
+    "./watcher-runtime": "./watcher-runtime/watcher-runtime.module.code.ts",
+    "./watcher-logging": "./watcher-logging/watcher-logging.module.code.ts"
   },
   "dependencies": {
     "@akasha/errors-core": "workspace:*",

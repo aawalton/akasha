@@ -20,6 +20,8 @@ export const temperWatcher = {
     "module/watcher-inventory-snapshot-name",
     "module/watcher-file-type",
     "module/watcher-state",
+    "module/watcher-runtime",
+    "module/watcher-logging",
     "workstation-service/temper-watcher",
     "workstation-service/temper-watcher-liveness",
   ],
