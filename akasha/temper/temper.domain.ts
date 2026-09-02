@@ -127,6 +127,7 @@ export const temper = {
     "eso-addon/temper-lib-treasure",
     "eso-addon/temper-lib-map-data",
     "workspace-package/temper-skill-morphs-access",
+    "eso-addon/temper-lib-zone",
   ],
   invariants: [
     {

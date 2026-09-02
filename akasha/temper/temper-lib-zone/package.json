@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-lib-zone",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./zone-constants": "./zone-constants/zone-constants.module.code.ts",
+    "./zone-types": "./zone-types/zone-types.module.code.ts",
+    "./zone-casts": "./zone-casts/zone-casts.module.code.ts",
+    "./zone-ui-strings": "./zone-ui-strings/zone-ui-strings.module.code.ts",
+    "./zone-internal-state": "./zone-internal-state/zone-internal-state.module.code.ts",
+    "./zone-public-dungeon-map-ids": "./zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
+  }
+}
