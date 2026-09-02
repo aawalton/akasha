@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "All 8 clusters landed and the audit shows no temper refusal. 6,363 pages, 2,773 entry files, 20,956 rows, every row checked for declared keys and a unique v7 id. 97 of 99 source page types land one for one; `completed-month` became 119 day pages and `net-worth-day` became 787 hour pages, both to fit the ceiling. Blocked on the ceiling alone: 570MB of captures stays out, filed for Alan.",
+        "The byte ceiling no longer blocks the captures. Commit `2c31d47f4a` gives an entry file 8,388,608 bytes and drops `No kind of file is exempt`. Of what is still outside, 198MB in 252 jsonl files fits today and no file exceeds the new ceiling. 381MB in 479 files does not fit, being `.txt` and `.json` rather than entries, and is being recreated as rows. Three seats work it. Nothing under `pages/` is deleted, since source holds the only copy.",
     },
     {
       statement: "No part of temper is outside akasha.",
