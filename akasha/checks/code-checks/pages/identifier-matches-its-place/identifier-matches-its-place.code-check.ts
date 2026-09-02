@@ -31,6 +31,14 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "absence",
+      statement: "A name a declaration file states is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declaration file names what another language or another writer already named.",
+    },
+    {
+      invariantKind: "absence",
       statement: "The places hold for the whole repo.",
     },
     {

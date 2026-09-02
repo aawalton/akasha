@@ -238,6 +238,13 @@ test("a self-closing element and a fragment each make a component", () => {
   expect(refusedIn(DRAWN_AT, "const one = () => <>held</>\n", PLACES)).toHaveLength(1)
 })
 
+test("a declaration file states names another writer chose, so none of them is judged", () => {
+  const body =
+    "declare function GetItemLink(id: number): string\ndeclare const BAG_BACKPACK: number\n"
+  expect(refusedIn("akasha/eso-writ.type-declaration.d.ts", body, PLACES)).toEqual([])
+  expect(refusedIn(AT, body, PLACES)).toHaveLength(1)
+})
+
 test("the formats judged are the ones the place pages state", () => {
   expect(typeIdentifier.nameFormatSlug).toBe("name-format/upper-camel-case")
   expect(functionIdentifier.nameFormatSlug).toBe("name-format/lower-camel-case")

@@ -22,6 +22,8 @@ const INSIDE = "akasha/"
 
 const UNDER = "_"
 
+const DECLARED = ".d.ts"
+
 export type Placing = {
   readonly nameFormatSlug: string
   readonly matching: Matching
@@ -150,7 +152,12 @@ export function constantsIn(source: ts.SourceFile, at: string): readonly ts.Iden
   return found
 }
 
+export function declaring(at: string): boolean {
+  return at.endsWith(DECLARED)
+}
+
 export function refusedIn(at: string, text: string, places: Places): readonly string[] {
+  if (declaring(at)) return []
   const source = parsedAs(at, text)
   const found: string[] = []
   const take = (name: ts.Identifier, kind: string, placing: Placing): undefined => {
