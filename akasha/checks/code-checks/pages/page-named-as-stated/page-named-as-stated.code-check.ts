@@ -65,7 +65,12 @@ export const pageNamedAsStated = {
     {
       invariantKind: "departure",
       statement:
-        "The name the page's value is bound to is judged against the export name its slug makes.",
+        "The name a page's value is exported under is judged against the export name its slug makes.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value bound to one name and exported under another is judged by the name it is exported under.",
     },
     {
       invariantKind: "departure",

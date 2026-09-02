@@ -71,6 +71,20 @@ function extrasSaid(rest: readonly Stated[]): string {
   return rest.map((one) => `\`${one.pageTypeSlug}/${one.slug}\``).join(", ")
 }
 
+export function sentIn(path: string, text: string): ReadonlyMap<string, string> {
+  const source = parsedAs(path, text)
+  const found = new Map<string, string>()
+  for (const one of source.statements) {
+    if (!ts.isExportDeclaration(one) || one.moduleSpecifier !== undefined) continue
+    const clause = one.exportClause
+    if (clause === undefined || !ts.isNamedExports(clause)) continue
+    for (const each of clause.elements) {
+      found.set(each.name.text, (each.propertyName ?? each.name).text)
+    }
+  }
+  return found
+}
+
 export function reasonsIn(
   given: Body,
   heldInAFile: ReadonlyMap<string, string | null>
@@ -80,7 +94,8 @@ export function reasonsIn(
   const stem = said.stem
   const suffix = said.tail
   if (heldInAFile.has(suffix)) return []
-  const stated = pagesIn(given.path, bodyOf(given))
+  const body = bodyOf(given)
+  const stated = pagesIn(given.path, body)
   const first = stated[0]
   if (first === undefined) return []
   const found: string[] = []
@@ -97,7 +112,8 @@ export function reasonsIn(
     )
   }
   const wanted = exportedAs(first.slug)
-  if (first.named !== wanted) {
+  const sent = first.named === wanted ? null : sentIn(given.path, body)
+  if (first.named !== wanted && sent?.get(wanted) !== first.named) {
     const bound = first.named === null ? "bound to no name" : `bound as \`${first.named}\``
     found.push(
       `the page is ${bound}, and the slug it states is named \`${wanted}\` — a page's exported ` +
