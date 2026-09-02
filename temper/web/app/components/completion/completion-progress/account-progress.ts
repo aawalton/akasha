@@ -1,5 +1,9 @@
+import type { AccountQuestUnionProgress } from "@akasha/temper-player-completion/completion-account-union-progress"
+import { transformAccountQuestUnion } from "@akasha/temper-player-completion/completion-account-union-progress"
 import type { AccountSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
 import { isAccountMeasured } from "@akasha/temper-player-completion/completion-measured"
+import type { SubclassingSkillLineProgressResult } from "@akasha/temper-player-completion/completion-subclassing-progress"
+import { transformSubclassingSkillLineProgress } from "@akasha/temper-player-completion/completion-subclassing-progress"
 import type {
   AccountAntiquityLoreProgress,
   AccountCollectiblesProgress,
@@ -18,8 +22,6 @@ import {
 } from "@temper/player-completion/completion-account-recipe-scribing-union"
 import type { AccountTraitResearchUnionProgress } from "@temper/player-completion/completion-account-trait-union"
 import { transformAccountTraitResearchUnion } from "@temper/player-completion/completion-account-trait-union"
-import type { AccountQuestUnionProgress } from "@temper/player-completion/completion-account-union-progress"
-import { transformAccountQuestUnion } from "@temper/player-completion/completion-account-union-progress"
 import type {
   AccountPoiUnionProgress,
   AccountZoneCompletionUnionProgress,
@@ -34,8 +36,6 @@ import { transformAntiquityLoreProgress } from "@temper/player-completion/comple
 import { transformCollectiblesProgress } from "@temper/player-completion/completion-collectibles-progress"
 import type { ItemSetOverallProgress } from "@temper/player-completion/completion-item-set-progress"
 import { transformItemSetProgress } from "@temper/player-completion/completion-item-set-progress"
-import type { SubclassingSkillLineProgressResult } from "@temper/player-completion/completion-subclassing-progress"
-import { transformSubclassingSkillLineProgress } from "@temper/player-completion/completion-subclassing-progress"
 import { buildAccountSummary } from "@temper/player-completion/completion-summary-account"
 import { transformTributeProgress } from "@temper/player-completion/completion-tribute-progress"
 import type {
