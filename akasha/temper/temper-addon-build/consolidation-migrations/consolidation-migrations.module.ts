@@ -22,11 +22,8 @@ export const consolidationMigrations = {
     },
     {
       invariantKind: "departure",
-      statement: "A migration states no type here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What runs a migration states what a migration is.",
+      statement:
+        "Every migration here answers to the type the module applying a migration declares.",
     },
   ],
 } as const satisfies Module

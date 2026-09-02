@@ -1,3 +1,5 @@
+import type { ConsolidationMigration } from "@akasha/temper-saved-vars-migration/saved-vars-migration"
+
 export const CONSOLIDATION_MIGRATIONS = [
   {
     mode: "append",
@@ -222,4 +224,4 @@ export const CONSOLIDATION_MIGRATIONS = [
     newFileBase: "TemperKeybinder",
     renames: [[/^TemperVotansKeybinder_SavedVariables\s*=/m, "TemperKeybinder_SavedVariables ="]],
   },
-] as const
+] as const satisfies readonly ConsolidationMigration[]

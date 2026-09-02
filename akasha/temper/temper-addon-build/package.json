@@ -8,6 +8,7 @@
     "./lua-build-command": "./lua-build-command/lua-build-command.module.code.ts"
   },
   "dependencies": {
+    "@akasha/temper-saved-vars-migration": "workspace:*",
     "typescript": "5.9.3"
   }
 }
