@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
 
-export const driveGoogle = {
+export const googleDrive = {
   id: "01a05bec-fc09-7a61-8e09-909bc24a66c2",
   pageTypeSlug: "workspace-package",
-  slug: "drive-google",
+  slug: "google-drive",
   definition: "reading a file out of Alan's Google Drive",
   manifest: "json",
   partSlugs: [
