@@ -5,6 +5,7 @@
   "exports": {
     "./sample-shape": "./sample-shape/sample-shape.module.code.ts",
     "./sample-selecting": "./sample-selecting/sample-selecting.module.code.ts",
+    "./latest-arrival": "./latest-arrival/latest-arrival.module.code.ts",
     "./sample-upsert": "./sample-upsert/sample-upsert.module.code.ts"
   },
   "dependencies": {
