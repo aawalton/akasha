@@ -17,7 +17,7 @@ export const emberMigrateTemperToAkasha = {
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "110 packages in `akasha/temper`, 93 in `temper/`, but no name rule tells a duplicate from a gap — `game-characters-skills` landed as `temper-character-skills` — so a content census is running. Every teardown is unsafe: copy-metadata swaps 3,137 bytes of keybinds for 22 when the file is not where akasha holds it, exposing six addons. Typecheck went 45 to 1, all one defect: a library's private copy of a game global against a narrower shared one.",
+        "113 packages in `akasha/temper`, 93 in `temper/`, but no name rule tells a duplicate from a gap — `game-characters-skills` landed as `temper-character-skills` — so a content census is running. Teardowns are open at last: copy-metadata emits all six addons' keybinds byte for byte, where it silently wrote 22. Typecheck is back to zero. The whole tree holds 99 refusals, 79 of them one rule in two files; the bare audit truncates, so ask it per check.",
     },
   ],
   constraints: [
