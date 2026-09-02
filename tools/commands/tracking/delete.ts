@@ -3,6 +3,7 @@ export const summary = "Take a mis-created session off its day; it vanishes from
 import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import { SESSION_TRACKING } from "../../lib/tracking/day-place.ts"
 import {
   deleteEcho,
   pagesAccess,
@@ -53,7 +54,7 @@ export default async function trackingDelete(args: readonly string[]): Promise<v
 
   const sb = getPageAccessClient()
   const session = await getPage(sb, {
-    pageTypeSlug: "session-tracking",
+    pageTypeSlug: SESSION_TRACKING,
     where: [{ key: "id", eq: trimmedId }],
   })
   if (session == null) {

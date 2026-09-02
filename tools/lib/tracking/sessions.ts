@@ -1,6 +1,12 @@
 import type { Page } from "../daily-tracking/tracking-types.ts"
 import { operationalError } from "../exit.ts"
-import { type Landed, removeRow, rowLanding } from "../page-query-client.ts"
+import type { Landed } from "../page-query-client.ts"
+import {
+  dayOfName,
+  dropSessionRow,
+  landSessionRow,
+  SESSION_TRACKING,
+} from "./day-place.ts"
 import { displayTitle, fieldStr } from "./format.ts"
 import { heldRow } from "./held-row.ts"
 import { getMountainEveningDayStr } from "./mountain-times.ts"
@@ -8,8 +14,6 @@ import type { PageAccessClient } from "./pages.ts"
 import { resolveOrCreateDaily, TRACKING_WRITER } from "./resolve.ts"
 import { esoDayOf } from "./session-time.ts"
 import { titleMatchesAnyWord } from "./title-words.ts"
-
-const SESSION_TRACKING = "session-tracking"
 
 const HELD_SEQ = 0
 
@@ -27,7 +31,7 @@ export function dayHolding(session: Page): string {
       "this session names no day to stand beside, so there is no file to write it to"
     )
   }
-  return day
+  return dayOfName(day)
 }
 
 export interface NewSession {
@@ -68,9 +72,8 @@ export async function createSession(
       : {}),
   }
   landed(
-    await rowLanding(
+    await landSessionRow(
       "write-row",
-      SESSION_TRACKING,
       dayStr,
       await heldRow(SESSION_TRACKING, values),
       TRACKING_WRITER
@@ -90,9 +93,8 @@ export async function amendSession(
   const what = `the amendment of "${displayTitle(session)}"`
   if (movingTo === undefined || movingTo === standing) {
     landed(
-      await rowLanding(
+      await landSessionRow(
         "patch-row",
-        SESSION_TRACKING,
         standing,
         await heldRow(SESSION_TRACKING, { ...set, id }),
         TRACKING_WRITER
@@ -102,9 +104,8 @@ export async function amendSession(
     return
   }
   landed(
-    await rowLanding(
+    await landSessionRow(
       "write-row",
-      SESSION_TRACKING,
       movingTo,
       await heldRow(SESSION_TRACKING, { ...session, ...set, id }),
       TRACKING_WRITER
@@ -112,7 +113,7 @@ export async function amendSession(
     `${what} onto ${movingTo}`
   )
   landed(
-    await removeRow(SESSION_TRACKING, standing, id, TRACKING_WRITER),
+    await dropSessionRow(standing, id, TRACKING_WRITER),
     `${what} off ${standing}`
   )
 }
@@ -121,7 +122,7 @@ export async function dropSession(session: Page): Promise<undefined> {
   const standing = dayHolding(session)
   const id = typeof session.id === "string" ? session.id : ""
   landed(
-    await removeRow(SESSION_TRACKING, standing, id, TRACKING_WRITER),
+    await dropSessionRow(standing, id, TRACKING_WRITER),
     `taking "${displayTitle(session)}" off ${standing}`
   )
 }
@@ -146,9 +147,8 @@ export async function closeSession(
   }
   if (finalizedDay === undefined || finalizedDay === standing) {
     landed(
-      await rowLanding(
+      await landSessionRow(
         "patch-row",
-        SESSION_TRACKING,
         standing,
         await heldRow(SESSION_TRACKING, set),
         TRACKING_WRITER
@@ -158,9 +158,8 @@ export async function closeSession(
     return finalizedDay
   }
   landed(
-    await rowLanding(
+    await landSessionRow(
       "write-row",
-      SESSION_TRACKING,
       finalizedDay,
       await heldRow(SESSION_TRACKING, { ...session, ...set }),
       TRACKING_WRITER
@@ -168,7 +167,7 @@ export async function closeSession(
     `the move of "${displayTitle(session)}" onto ${finalizedDay}`
   )
   landed(
-    await removeRow(SESSION_TRACKING, standing, id, TRACKING_WRITER),
+    await dropSessionRow(standing, id, TRACKING_WRITER),
     `taking "${displayTitle(session)}" off ${standing}`
   )
   return finalizedDay

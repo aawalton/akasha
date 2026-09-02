@@ -4,6 +4,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { relationshipsForTitle } from "../../lib/relationship-match.ts"
+import { dayById, SESSION_TRACKING } from "../../lib/tracking/day-place.ts"
 import {
   echoedDay,
   pagesAccess,
@@ -148,7 +149,7 @@ export default async function trackingEdit(args: readonly string[]): Promise<voi
     ? await resolveRelationshipIds(sb, parseRelationshipTokens(relationshipOccurrences))
     : undefined
   const session = await getPage(sb, {
-    pageTypeSlug: "session-tracking",
+    pageTypeSlug: SESSION_TRACKING,
     where: [{ key: "id", eq: id.trim() }],
   })
   if (session == null) {
@@ -216,10 +217,7 @@ export default async function trackingEdit(args: readonly string[]): Promise<voi
   if (relinkedDay === undefined) {
     const existingDailyId = format.fieldStr(session, "dailyTracking")
     if (existingDailyId !== undefined) {
-      const existingDaily = await getPage(sb, {
-        pageTypeSlug: "daily-tracking",
-        where: [{ key: "id", eq: existingDailyId }],
-      })
+      const existingDaily = await dayById(existingDailyId)
       existingLinkedDay = existingDaily != null ? format.fieldStr(existingDaily, "date") : undefined
     }
   }

@@ -3,10 +3,10 @@ export const summary = "Show the open session and a day's tracked blocks (read-o
 import type { CommandHelp } from "../../ops/surface.ts"
 import { getEsoDayStr } from "../../lib/eso-day.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import { dayByDate } from "../../lib/tracking/day-place.ts"
 import {
   homeTimes,
   type Page,
-  pagesAccess,
   pagesClient,
   sleepTitleWords,
   titleWordMatch,
@@ -55,7 +55,6 @@ export default async function trackingStatus(args: readonly string[]): Promise<v
   const format = await trackingFormat()
   const { mtWallHm } = await homeTimes()
   const { titleMatchesAnyWord } = await titleWordMatch()
-  const { getPage } = await pagesAccess()
   const { getPageAccessClient } = await pagesClient()
   const { findOpenSession, listDaySessions } = await trackingResolve()
   const { DAY_TURN_WORDS: dayTurnWords } = await sleepTitleWords()
@@ -88,10 +87,7 @@ export default async function trackingStatus(args: readonly string[]): Promise<v
   }
 
   const sb = getPageAccessClient()
-  const daily = await getPage(sb, {
-    pageTypeSlug: "daily-tracking",
-    where: [{ key: "date", eq: dayStr }],
-  })
+  const daily = await dayByDate(dayStr)
   const open = await findOpenSession(sb)
   const sessions = daily != null ? await listDaySessions(sb, daily.id) : []
   const nowIso = now.toISOString()
