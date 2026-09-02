@@ -20,6 +20,6 @@ export const temperPotionCrafted = {
     { pagePropertySlug: "icon", required: true, many: false },
     { pagePropertySlug: "item-level", required: true, many: false },
     { pagePropertySlug: "potion-seconds", required: true, many: false },
-    { pagePropertySlug: "recipes", required: true, many: true, max: null },
+    { pagePropertySlug: "record-property/recipes", required: true, many: true, max: null },
   ],
 } as const satisfies PageType
