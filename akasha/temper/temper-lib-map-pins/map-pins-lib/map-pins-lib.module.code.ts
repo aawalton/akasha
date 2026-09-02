@@ -47,7 +47,7 @@ function onMapChanged(this: void): undefined {
   }
 
   for (const [pinTypeId, filter] of pairs(LIB.filters)) {
-    if (filter === undefined) {
+    if (!filter) {
       continue
     }
     if (filter.vars !== undefined) {

@@ -12,17 +12,20 @@ declare global {
   }
   const LuaTable: { new <K extends AnyNotNil, V>(): LuaTable<K, V> }
 
-  const pairs: <T>(this: void, t: T) => Iterable<[keyof T, T[keyof T]]>
+  function pairs<T>(this: void, t: T): Iterable<[keyof T, NonNullable<T[keyof T]>]>
   const next: <T>(
     this: void,
     t: T,
     index?: unknown
   ) => LuaMultiReturn<[key: keyof T | undefined, value: T[keyof T] | undefined]>
-  const type: (this: void, value: unknown) => string
-  const tostring: (this: void, value: unknown) => string
+  function type(
+    this: void,
+    v: unknown
+  ): "nil" | "number" | "string" | "boolean" | "table" | "function" | "thread" | "userdata"
+  function tostring(this: void, v: unknown): string
   const getmetatable: (this: void, value: unknown) => { __index?: unknown } | undefined
   const unpack: <T extends unknown[]>(this: void, list: T) => LuaMultiReturn<T>
-  const error: (this: void, message: string, level?: number) => never
+  function error(this: void, message: unknown, level?: number): never
 
   interface LuaStringLib {
     find: (
@@ -279,7 +282,7 @@ declare global {
   const ZO_MapPin: object
   const SLASH_COMMANDS: Record<string, (this: void, ...args: never[]) => void>
 
-  const d: (this: void, ...args: unknown[]) => void
+  function d(this: void, ...args: unknown[]): undefined
   const df: (this: void, formatstring: string, ...args: unknown[]) => void
   const zo_strformat: (this: void, formatstring: string | number, ...args: unknown[]) => string
   const ZO_CachedStrFormat: (
