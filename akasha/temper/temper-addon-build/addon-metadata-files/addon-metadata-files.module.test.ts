@@ -3,11 +3,11 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import {
-  additionalLuaPathsIn,
   addonBindingsPathIn,
   BINDINGS_FILE_NAME,
   GAME_METADATA_DIR,
-  luaModulePathIn,
+  loadedDocumentPathsIn,
+  namedFilePathsIn,
 } from "./addon-metadata-files.module.code.ts"
 
 const SCRATCH = scratchWorld()
@@ -23,6 +23,16 @@ function addonFolderStating(said: string): string {
     `export const temperCompanionsAddon = {\n  pageTypeSlug: "eso-addon",\n  slug: "temper-companions-addon",\n${said}}\n`
   )
   return dir
+}
+
+function documentUnder(dir: string, slug: string, kind: string, loadedAs: string | null): string {
+  mkdirSync(join(dir, slug), { recursive: true })
+  const named = loadedAs === null ? "" : `  loadedAs: ${JSON.stringify(loadedAs)},\n`
+  writeFileSync(
+    join(dir, slug, `${slug}.${kind}.ts`),
+    `export const one = {\n  pageTypeSlug: ${JSON.stringify(kind)},\n  slug: ${JSON.stringify(slug)},\n${named}}\n`
+  )
+  return join(dir, slug)
 }
 
 test("an addon page claiming keybinds with no such file refuses the call", async () => {
@@ -48,36 +58,77 @@ test("an addon page claiming no keybinds answers that there are none", async () 
   expect(await addonBindingsPathIn(dir)).toBeNull()
 })
 
-test("a lua module slug becomes the path of that module's lua", () => {
-  expect(luaModulePathIn("/a/temper-companions-addon", "lua-module/companions-config")).toBe(
-    "/a/temper-companions-addon/companions-config/companions-config.lua-module.lua.lua"
-  )
+test("a page states the name its manifest loads it by", async () => {
+  const dir = addonFolderStating("")
+  const under = documentUnder(dir, "next-boss-layout", "eso-interface", "TemperEvents.xml")
+  const markup = join(under, "next-boss-layout.eso-interface.markup.xml")
+  writeFileSync(markup, "<GuiXml></GuiXml>\n")
+  expect((await loadedDocumentPathsIn(dir)).get("TemperEvents.xml")).toBe(markup)
 })
 
-test("an extra lua file beside the page is taken from beside the page", async () => {
+test("a page loaded by a name whose own file is absent refuses the call", async () => {
+  const dir = addonFolderStating("")
+  documentUnder(dir, "next-boss-layout", "eso-interface", "TemperEvents.xml")
+  await expect(loadedDocumentPathsIn(dir)).rejects.toThrow("TemperEvents.xml")
+})
+
+test("two pages loaded by one name refuse the call", async () => {
+  const dir = addonFolderStating("")
+  for (const slug of ["one-layout", "two-layout"]) {
+    const under = documentUnder(dir, slug, "eso-interface", "TemperEvents.xml")
+    writeFileSync(join(under, `${slug}.eso-interface.markup.xml`), "<GuiXml></GuiXml>\n")
+  }
+  await expect(loadedDocumentPathsIn(dir)).rejects.toThrow("TemperEvents.xml")
+})
+
+test("a page stating no name is loaded by none", async () => {
+  const dir = addonFolderStating("")
+  documentUnder(dir, "next-boss-layout", "eso-interface", null)
+  expect((await loadedDocumentPathsIn(dir)).size).toBe(0)
+})
+
+test("a manifest name with a file beside the page takes that file", async () => {
   const dir = addonFolderStating("")
   writeFileSync(join(dir, "TemperCompanionsConfig.lua"), "TemperCompanionsConfig = nil\n")
-  const found = await additionalLuaPathsIn(dir, ["TemperCompanionsConfig.lua"])
+  const found = await namedFilePathsIn(dir, ["TemperCompanionsConfig.lua"])
   expect(found.get("TemperCompanionsConfig.lua")).toBe(join(dir, "TemperCompanionsConfig.lua"))
 })
 
-test("a manifest name with no file beside the page reaches the lua module the page names", async () => {
-  const dir = addonFolderStating(`  luaModuleSlugs: ["lua-module/companions-config"],\n`)
-  mkdirSync(join(dir, "companions-config"), { recursive: true })
-  const path = join(dir, "companions-config/companions-config.lua-module.lua.lua")
-  writeFileSync(path, "TemperCompanionsConfig = nil\n")
-  const found = await additionalLuaPathsIn(dir, ["TemperCompanionsConfig.lua"])
-  expect(found.get("TemperCompanionsConfig.lua")).toBe(path)
-})
-
-test("a pairing of manifest names to lua modules that is not forced refuses the call", async () => {
-  const dir = addonFolderStating(`  luaModuleSlugs: ["lua-module/companions-config"],\n`)
-  mkdirSync(join(dir, "companions-config"), { recursive: true })
-  writeFileSync(join(dir, "companions-config/companions-config.lua-module.lua.lua"), "\n")
-  await expect(additionalLuaPathsIn(dir, ["One.lua", "Two.lua"])).rejects.toThrow("One.lua")
-})
-
-test("a manifest naming no extra lua answers nothing", async () => {
+test("a manifest name with a file under metadata takes that file", async () => {
   const dir = addonFolderStating("")
-  expect((await additionalLuaPathsIn(dir, [])).size).toBe(0)
+  mkdirSync(join(dir, GAME_METADATA_DIR, "XML"), { recursive: true })
+  const held = join(dir, GAME_METADATA_DIR, "XML/Controls.xml")
+  writeFileSync(held, "<GuiXml></GuiXml>\n")
+  expect((await namedFilePathsIn(dir, ["XML/Controls.xml"])).get("XML/Controls.xml")).toBe(held)
+})
+
+test("a manifest name reaching no file there reaches the page loaded by that name", async () => {
+  const dir = addonFolderStating("")
+  const under = documentUnder(dir, "companions-config", "lua-module", "TemperCompanionsConfig.lua")
+  const lua = join(under, "companions-config.lua-module.lua.lua")
+  writeFileSync(lua, "TemperCompanionsConfig = nil\n")
+  const found = await namedFilePathsIn(dir, ["TemperCompanionsConfig.lua"])
+  expect(found.get("TemperCompanionsConfig.lua")).toBe(lua)
+})
+
+test("markup and Lua are reached by one rule rather than by a rule each", async () => {
+  const dir = addonFolderStating("")
+  const luaUnder = documentUnder(dir, "companions-config", "lua-module", "Config.lua")
+  writeFileSync(join(luaUnder, "companions-config.lua-module.lua.lua"), "Config = nil\n")
+  const xmlUnder = documentUnder(dir, "companions-layout", "eso-interface", "XML/Layout.xml")
+  writeFileSync(join(xmlUnder, "companions-layout.eso-interface.markup.xml"), "<GuiXml></GuiXml>\n")
+  const found = await namedFilePathsIn(dir, ["Config.lua", "XML/Layout.xml"])
+  expect(found.size).toBe(2)
+})
+
+test("a manifest name no page is loaded by refuses the call", async () => {
+  const dir = addonFolderStating("")
+  const under = documentUnder(dir, "companions-config", "lua-module", "TemperCompanionsConfig.lua")
+  writeFileSync(join(under, "companions-config.lua-module.lua.lua"), "\n")
+  await expect(namedFilePathsIn(dir, ["One.lua"])).rejects.toThrow("One.lua")
+})
+
+test("a manifest naming no file answers nothing", async () => {
+  const dir = addonFolderStating("")
+  expect((await namedFilePathsIn(dir, [])).size).toBe(0)
 })

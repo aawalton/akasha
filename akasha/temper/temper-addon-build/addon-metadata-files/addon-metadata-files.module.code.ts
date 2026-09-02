@@ -1,7 +1,7 @@
-import { existsSync } from "node:fs"
+import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { bindings } from "@akasha/code-system/eso-addon/bindings"
-import { readEsoAddonPage, slugBareOf } from "../addon-tstl-config/addon-tstl-config.module.code.ts"
+import { readEsoAddonPage } from "../addon-tstl-config/addon-tstl-config.module.code.ts"
 
 export const GAME_METADATA_DIR = "metadata"
 
@@ -26,37 +26,87 @@ export async function addonBindingsPathIn(dir: string): Promise<string | null> {
   )
 }
 
-export function luaModulePathIn(dir: string, slug: string): string {
-  const bare = slugBareOf(slug)
-  return join(dir, bare, `${bare}${LUA_MODULE_SUFFIX}`)
+const DOCUMENT_KINDS = [
+  {
+    pageTypeSlug: "eso-interface",
+    pageSuffix: ".eso-interface.ts",
+    fileSuffix: ".eso-interface.markup.xml",
+  },
+  { pageTypeSlug: "lua-module", pageSuffix: ".lua-module.ts", fileSuffix: LUA_MODULE_SUFFIX },
+] as const
+
+function loadedAsIn(loaded: Record<string, unknown>, pageTypeSlug: string): string | null {
+  for (const value of Object.values(loaded)) {
+    if (typeof value !== "object" || value === null) continue
+    const said = value as { pageTypeSlug?: unknown; loadedAs?: unknown }
+    if (said.pageTypeSlug !== pageTypeSlug) continue
+    return typeof said.loadedAs === "string" ? said.loadedAs : null
+  }
+  return null
 }
 
-export async function additionalLuaPathsIn(
+export async function loadedDocumentPathsIn(dir: string): Promise<ReadonlyMap<string, string>> {
+  const answer = new Map<string, string>()
+  let entries: readonly string[]
+  try {
+    entries = readdirSync(dir)
+  } catch {
+    return answer
+  }
+  for (const entry of [...entries].sort()) {
+    for (const kind of DOCUMENT_KINDS) {
+      const pagePath = join(dir, entry, `${entry}${kind.pageSuffix}`)
+      if (!existsSync(pagePath)) continue
+      const name = loadedAsIn(
+        (await import(pagePath)) as Record<string, unknown>,
+        kind.pageTypeSlug
+      )
+      if (name === null) continue
+      const filePath = join(dir, entry, `${entry}${kind.fileSuffix}`)
+      if (!existsSync(filePath)) {
+        throw new Error(
+          `loadedDocumentPathsIn: the page at ${pagePath} is loaded as "${name}", and ${filePath} is not there`
+        )
+      }
+      const already = answer.get(name)
+      if (already !== undefined) {
+        throw new Error(
+          `loadedDocumentPathsIn: two pages under ${dir} are both loaded as "${name}", ${already} and ${filePath}`
+        )
+      }
+      answer.set(name, filePath)
+    }
+  }
+  return answer
+}
+
+export async function namedFilePathsIn(
   dir: string,
   named: readonly string[]
 ): Promise<ReadonlyMap<string, string>> {
   const answer = new Map<string, string>()
-  const owed: string[] = []
+  let stated: ReadonlyMap<string, string> | null = null
   for (const one of named) {
+    if (answer.has(one)) continue
     const beside = join(dir, one)
     if (existsSync(beside)) {
       answer.set(one, beside)
       continue
     }
-    owed.push(one)
+    const underGame = join(dir, GAME_METADATA_DIR, one)
+    if (existsSync(underGame)) {
+      answer.set(one, underGame)
+      continue
+    }
+    stated ??= await loadedDocumentPathsIn(dir)
+    const held = stated.get(one)
+    if (held === undefined) {
+      const names = [...stated.keys()]
+      throw new Error(
+        `namedFilePathsIn: the manifest in ${dir} loads "${one}", and no file of that name is beside the page or under ${GAME_METADATA_DIR}/, and no page there is loaded as that name (${names.length === 0 ? "no page there is loaded as any name" : names.join(", ")})`
+      )
+    }
+    answer.set(one, held)
   }
-  const [onlyOwed, ...restOwed] = owed
-  if (onlyOwed === undefined) return answer
-  const page = await readEsoAddonPage(dir)
-  const held = (page?.luaModuleSlugs ?? [])
-    .map((one) => luaModulePathIn(dir, one))
-    .filter((one) => existsSync(one))
-  const [onlyHeld, ...restHeld] = held
-  if (restOwed.length === 0 && onlyHeld !== undefined && restHeld.length === 0) {
-    answer.set(onlyOwed, onlyHeld)
-    return answer
-  }
-  throw new Error(
-    `additionalLuaPathsIn: ${dir} names ${String(owed.length)} extra Lua file(s) its folder does not hold (${owed.join(", ")}) beside ${String(held.length)} Lua module(s) the page names (${held.join(", ")}), so which file each name reaches cannot be worked out`
-  )
+  return answer
 }
