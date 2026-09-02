@@ -37,6 +37,9 @@
       "path": "./alanwalton/atlas-web"
     },
     {
+      "path": "./alanwalton/calendar-sync"
+    },
+    {
       "path": "./temper/web"
     },
     {
@@ -113,6 +116,12 @@
     },
     {
       "path": "./infra/zimage"
+    },
+    {
+      "path": "./page"
+    },
+    {
+      "path": "./readouts"
     }
   ],
   "files": []
