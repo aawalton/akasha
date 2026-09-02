@@ -1,31 +1,31 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import {
-  type JewelryEnchantId,
-  jewelryEnchants,
-} from "@temper/game-characters-equipment/enchants/jewelry-enchants-data"
-import {
-  type JewelrySlotId,
-  jewelrySlots,
-} from "@akasha/temper-equipment-kinds/jewelry-slots"
+import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import {
   bulkUpdateJewelryEnchant,
   bulkUpdateJewelryQuality,
   bulkUpdateJewelrySet,
   bulkUpdateJewelryTrait,
-} from "@temper/game-characters-equipment/loadout/bulk-update-jewelry"
-import { mergeItemData } from "@temper/game-characters-equipment/loadout/merge-item-data"
-import { getMythicSlots } from "@temper/game-characters-equipment/loadout/mythic-set-rules"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+} from "@akasha/temper-characters-equipment/bulk-update-jewelry"
+import {
+  type JewelryEnchantId,
+  jewelryEnchants,
+} from "@akasha/temper-characters-equipment/jewelry-enchants"
+import { mergeItemData } from "@akasha/temper-characters-equipment/merge-item-data"
+import { getMythicSlots } from "@akasha/temper-characters-equipment/mythic-set-rules"
 import {
   type JewelryTraitId,
   jewelryTraits,
   jewelryTraitsBuildList,
 } from "@akasha/temper-equipment/jewelry-traits"
-import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
-import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+import { type JewelrySlotId, jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
+import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo } from "react"
 import { BulkEditTag } from "@/components/equipment/bulk-edit-tag"
 import { BulkSetEditTag } from "@/components/equipment/bulk-set-edit-tag"
