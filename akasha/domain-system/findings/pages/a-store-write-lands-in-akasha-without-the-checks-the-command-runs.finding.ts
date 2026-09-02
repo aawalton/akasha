@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aStoreWriteLandsInAkashaWithoutTheChecksTheCommandRuns = {
+  id: "01a060b3-62fe-7316-8831-ea52d7a8dcab",
+  pageTypeSlug: "finding",
+  slug: "a-store-write-lands-in-akasha-without-the-checks-the-command-runs",
+  domainSlug: "domain/akasha-system",
+  claim:
+    "The page store's `/write` lands a body into akasha without the checks the `akasha write` command runs. A file with no page, in a folder that already holds one page, under a name no page type claims, went through `writeFiles` and was committed. So the ruling that a generator lands its output through the store rather than through `fs` buys the commit and the concurrency, not the judgement: a program on that route answers for the shape of its own output.",
+  evidence:
+    '`writeFiles([{ path: "akasha/temper/temper-progress/completed-days/pages/day-2026-03-05/nope.txt", content: "x\\n" }], "temper watcher <watcher@alanwalton.com>", "a probe the checks should refuse")` from `@akasha/pages-query` answered `{ ok: true, at: "1a02fe93463f2325a4ab998af71d903d854aaf55" }`. That file sat in a folder holding one page and its jsonl, which `folder-matches-a-shape` and `file-has-its-page` are there to refuse. It was taken back off at `d390543fc3c6a6b019606eac5834ed02474ed703`, and both commits are in the history.\n\nThe same path handed to `akasha write --dry-run` never reached a check: the command owed thirteen reads first and refused for the record. So the command carries a read gate the store does not, and the two roads a caller may take are not one road.\n\nThe store does judge two things. A path outside `akasha/` answers 400, saying that path is outside `akasha/` and that the store answers for akasha alone. A writer that is not a name and an address is refused before the store is reached. So the store guards where a body may land and who says it lands, and not what the body is.\n\n`a-generator-whose-output-moved-into-akasha-lands-it-through-the-gate` calls this road the gate. It is the road in, and it commits. It is not the gate the command line is.',
+} as const satisfies Finding
