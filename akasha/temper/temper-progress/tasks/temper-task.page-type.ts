@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperProgressThing } from "../temper-progress-thing.page-type.ts"
+import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
 import type { EffectiveCharacter } from "./properties/effective-character.text-property.ts"
 import type { LastCompletedAt } from "./properties/last-completed-at.instant-property.ts"
 import type { Progress } from "./properties/progress.page-property-entry.ts"

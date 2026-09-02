@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperProgressThing } from "../temper-progress-thing.page-type.ts"
+import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
 import type { Action } from "./properties/action.text-property.ts"
 import type { Active } from "./properties/active.boolean-property.ts"
 import type { Conditions } from "./properties/conditions.page-property-entry.ts"

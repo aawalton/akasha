@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { TemperProgressThing } from "../temper-progress-thing.page-type.ts"
+import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
 
 export type TemperComparisonOp = TemperProgressThing
 
