@@ -43,6 +43,7 @@ export const temperWeb = {
     "module/companion-stats-context",
     "module/companion-stats-panel-state",
     "module/companion-suggestions-panel-card",
+    "module/companion-surplus-panel-card",
     "module/companion-target-panel-card",
     "module/companion-weapon-bar-panel-card",
     "module/companions-build-browse-tab",
