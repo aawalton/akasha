@@ -65,7 +65,6 @@
     "temper/game-companions-ui",
     "temper/game-completion",
     "temper/game-crafting-addon",
-    "temper/game-items-core",
     "temper/player-completion",
     "temper/player-completion-addon",
     "temper/player-completion-skills-morphs-ui",
