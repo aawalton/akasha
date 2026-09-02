@@ -1,23 +1,32 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Input } from "@akasha/design-primitives/input"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Switch } from "@akasha/design-primitives/switch-control"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type {
   InventoryLoggingLevel,
   InventoryPerfTracingLevel,
-} from "@temper/game-items-core/inventory-logging-types"
+} from "@akasha/temper-items-core/inventory-logging-types"
 import {
   DESTRUCTIVE_ACTIONS,
   type DestructiveAction,
-} from "@temper/game-items-core/inventory-safety-types"
+} from "@akasha/temper-items-core/inventory-safety-types"
 import { useBackpackSettings } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { useEffect, useMemo, useState } from "react"
-import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { useLoggingSettings, useSafetySettings } from "@/hooks/hooks-settings"
 
 type ConfirmActionItem = BadgeToggleGroupItem & { value: DestructiveAction }
