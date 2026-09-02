@@ -51,8 +51,14 @@ const APP_VALUE_ENV: readonly (readonly [string, (app: MobileApp) => string | nu
   ["NATIVE_SHELL_WIDGET_PROFILE_NAME", (app) => app.widgetProfileName],
   ["NATIVE_SHELL_KEYCHAIN_ACCESS_GROUP", (app) => `${app.developmentTeam}.${app.bundleId}`],
   ["NATIVE_SHELL_DEVICE_SECRET_SERVICE", (app) => `${app.bundleId}.device-secret`],
-  ["NATIVE_SHELL_WIDGET_NAME", (app) => widgetTargetNameFor(app.slug)],
-  ["NATIVE_SHELL_COMPONENTS", (app) => componentSwiftFor(app.slug).join(" ")],
+  [
+    "NATIVE_SHELL_WIDGET_NAME",
+    (app) => (app.widgetBundleId === null ? null : widgetTargetNameFor(app.slug)),
+  ],
+  [
+    "NATIVE_SHELL_COMPONENTS",
+    (app) => (app.widgetBundleId === null ? null : componentSwiftFor(app.slug).join(" ")),
+  ],
 ]
 
 export function appValueExports(app: MobileApp): readonly string[] {

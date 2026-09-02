@@ -32,5 +32,9 @@ export const foundation = {
       statement:
         "the App Store Connect key id and issuer id here name one fixed Apple developer account",
     },
+    {
+      invariantKind: "absence",
+      statement: "An app stating no widget bundle id exports no widget name and no components.",
+    },
   ],
 } as const satisfies Module
