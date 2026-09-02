@@ -1253,6 +1253,19 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-companions-ui": {
+      "name": "@akasha/temper-companions-ui",
+      "dependencies": {
+        "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
+        "@akasha/temper-build-metadata": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
+      },
+    },
     "akasha/temper/temper-completion": {
       "name": "@akasha/temper-completion",
       "dependencies": {
@@ -3523,6 +3536,8 @@
     "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:akasha/temper/temper-companions-addon"],
 
     "@akasha/temper-companions-core": ["@akasha/temper-companions-core@workspace:akasha/temper/temper-companions-core"],
+
+    "@akasha/temper-companions-ui": ["@akasha/temper-companions-ui@workspace:akasha/temper/temper-companions-ui"],
 
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:akasha/temper/temper-completion"],
 
