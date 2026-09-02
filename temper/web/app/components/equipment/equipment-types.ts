@@ -1,6 +1,6 @@
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
+import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
 
 export interface EquipmentPanelProps {
   equipment: CharacterState["equipment"]
