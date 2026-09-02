@@ -49,7 +49,7 @@ const rooted = scratch.rootFor("akasha-matches-")
 
 const world = seeded(rooted)
 
-const formatting = matchingIn(rooted)
+const formatting = matchingIn(rooted, world.index)
 
 function declaredIn(pageTypeSlug: string): readonly Carried[] {
   return propertiesOf(pageTypeSlug, world.reading, world.pageOf)

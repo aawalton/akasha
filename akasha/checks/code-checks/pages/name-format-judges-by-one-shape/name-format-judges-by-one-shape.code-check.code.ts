@@ -4,7 +4,7 @@ import type { Change } from "@akasha/pages-system/change"
 import { matchingIn } from "@akasha/pages-system/name-format/format-reaching"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import { type Shadow, shadowAt } from "@akasha/pages-system/shadow"
 import ts from "typescript"
 import { FILES, input, textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -93,7 +93,7 @@ export function reasonsIn(slug: string, path: string, text: string): readonly st
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const formatting = matchingIn(change.root, shadow.codeAt)
+  const formatting = matchingIn(change.root, shadowAt(change.root).index, shadow.codeAt)
   const found: Judged[] = []
   for (const one of everyOfType(shadow.reading, NAME_FORMAT)) {
     const said = partedIn(one.path)

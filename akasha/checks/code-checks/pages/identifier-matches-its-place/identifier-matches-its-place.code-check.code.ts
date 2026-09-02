@@ -1,4 +1,5 @@
 import { lineOf, parsedAs } from "@akasha/code-system/code-source"
+import type { Answering } from "@akasha/indexes/answering"
 import { matchingIn } from "@akasha/pages-system/name-format/format-reaching"
 import type { Matching } from "@akasha/pages-system/name-format/name-matching"
 import { componentIdentifier } from "@akasha/pages-system/name-place/component-identifier"
@@ -8,6 +9,7 @@ import { functionIdentifier } from "@akasha/pages-system/name-place/function-ide
 import { typeIdentifier } from "@akasha/pages-system/name-place/type-identifier"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { partedIn } from "@akasha/pages-system/page-file-name"
+import { shadowAt } from "@akasha/pages-system/shadow"
 import ts from "typescript"
 import {
   bodyOf,
@@ -237,9 +239,10 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
 
 export function placesIn(
   root: string,
+  index: Answering,
   codeAt: (path: string) => string | null = (path) => path
 ): Places {
-  const formatting = matchingIn(root, codeAt)
+  const formatting = matchingIn(root, index, codeAt)
   const held = (nameFormatSlug: string): Placing => ({
     nameFormatSlug,
     matching: formatting(nameFormatSlug),
@@ -256,7 +259,7 @@ export function placesIn(
 const refusalsIn: Running = (change, shadow) => {
   const wanted = change.changed.some((one) => one.startsWith(INSIDE) && textNamed(one))
   if (!wanted) return []
-  const places = placesIn(change.root, shadow.codeAt)
+  const places = placesIn(change.root, shadowAt(change.root).index, shadow.codeAt)
   return overEachFile(change, (given) => {
     if (!given.path.startsWith(INSIDE) || !textNamed(given.path)) return []
     return refusedIn(given.path, bodyOf(given), places)

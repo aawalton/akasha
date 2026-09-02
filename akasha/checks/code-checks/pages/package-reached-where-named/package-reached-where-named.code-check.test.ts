@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { rootOf } from "@akasha/command-system/rooting"
 import { matchingIn } from "@akasha/pages-system/name-format/format-reaching"
 import { lowerKebabCase } from "@akasha/pages-system/name-format/lower-kebab-case"
+import { shadowAt } from "@akasha/pages-system/shadow"
 import {
   holdingIn,
   nameIn,
@@ -34,7 +35,7 @@ const AT_PAGE = "../indexes/index/index-import/index-import.index.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 
-const KEBAB = matchingIn(REPO_AT)(lowerKebabCase.slug)
+const KEBAB = matchingIn(REPO_AT, shadowAt(REPO_AT).index)(lowerKebabCase.slug)
 
 const MANIFEST = JSON.stringify({
   name: "@akasha/indexes",

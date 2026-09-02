@@ -7,7 +7,7 @@ import { matchingIn } from "@akasha/pages-system/name-format/format-reaching"
 import { lowerKebabCase } from "@akasha/pages-system/name-format/lower-kebab-case"
 import type { Matching } from "@akasha/pages-system/name-format/name-matching"
 import { packageName } from "@akasha/pages-system/name-place/package-name"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import { type Shadow, shadowAt } from "@akasha/pages-system/shadow"
 import {
   bodyOf,
   FILES,
@@ -194,7 +194,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const at = new Set(manifests.map((one) => one.at))
   const packages = packagesIn(change, manifests)
   const page = pageIn(shadow)
-  const formatting = matchingIn(change.root, shadow.codeAt)
+  const formatting = matchingIn(change.root, shadowAt(change.root).index, shadow.codeAt)
   const reaching = overEachText((path, text) => reasonsIn(packages, path, text, page))
   return overEachFile(change, (given) =>
     at.has(given.path)

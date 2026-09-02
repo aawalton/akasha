@@ -12,7 +12,7 @@ import {
   propertiesOf,
 } from "@akasha/pages-system/page-type-properties"
 import { loadedFrom, numberAt, textAt, type Value } from "@akasha/pages-system/page-value"
-import type { Shadow } from "@akasha/pages-system/shadow"
+import { type Shadow, shadowAt } from "@akasha/pages-system/shadow"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   bodyOf,
@@ -288,7 +288,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     held.set(pageTypeSlug, said)
     return said
   }
-  const formatting = matchingIn(change.root, shadow.codeAt)
+  const formatting = matchingIn(change.root, shadowAt(change.root).index, shadow.codeAt)
   const judged: Judged[] = []
   for (const path of change.changed) {
     if (!path.startsWith(INSIDE)) continue

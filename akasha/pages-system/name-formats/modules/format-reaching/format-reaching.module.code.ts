@@ -1,6 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { listedAt } from "@akasha/indexes"
+import type { Answering } from "@akasha/indexes/answering"
 import { slugIn } from "../../../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../../page/page-export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../../page/page-file-name/page-file-name.module.code.ts"
@@ -18,6 +18,7 @@ export type Formatting = (nameFormatSlug: string) => Matching
 
 export function matchingIn(
   root: string,
+  index: Answering,
   codeAt: (path: string) => string | null = (path) => path
 ): Formatting {
   const held = new Map<string, Matching>()
@@ -30,7 +31,7 @@ export function matchingIn(
         `\`${nameFormatSlug}\` names a name format by id, and a format is reached here by slug`
       )
     }
-    const one = listedAt(root, NAME_FORMAT, slug)[0]
+    const one = index.listedAt(NAME_FORMAT, slug)[0]
     if (one === undefined) {
       throw new Error(
         `no name format carries the slug \`${slug}\`, so nothing can judge a value said to be written in it`
