@@ -1,6 +1,9 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
@@ -11,14 +14,14 @@ import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { SortButton } from "@akasha/design-patterns/sort-button"
 import { TabsContent } from "@akasha/design-patterns/tabs"
-import { buildCompanionSummary } from "@temper/player-completion/completion-summary-companion"
+import type { CompanionSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
+import { buildCompanionSummary } from "@akasha/temper-player-completion/completion-summary-companion"
 import { useMemo, useState } from "react"
 import { CompanionLevelPanelCard } from "@/components/completion/companion-level-panel-card"
 import { CompanionQuestsUnionPanelCard } from "@/components/completion/companion-quests-union-panel-card"
 import { CompanionRapportPanelCard } from "@/components/completion/companion-rapport-panel-card"
 import { CompanionSkillLinesProgressPanelCard } from "@/components/completion/companion-skill-lines-progress-panel-card"
 import { CompanionsSummaryPanelCard } from "@/components/completion/companions-summary-panel-card"
-import type { CompanionSummaryData } from "@temper/player-completion/completion-card-registry"
 import type { CompanionProgressData } from "@/components/completion/completion-progress/companion-progress"
 import { useCompletionToolbar } from "@/components/completion/completion-toolbar-context"
 
