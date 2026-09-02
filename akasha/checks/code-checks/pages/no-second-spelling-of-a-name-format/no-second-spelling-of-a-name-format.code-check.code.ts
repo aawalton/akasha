@@ -9,10 +9,9 @@ import {
   overEachFile,
   TEXTS,
   textIn,
+  textNamed,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-
-const TS = ".ts"
 
 const FORMAT = ".name-format.code.ts"
 
@@ -79,7 +78,7 @@ export function reasonsIn(
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const every = everyShapeIn(change, shadow)
   return overEachFile(change, (given) => {
-    if (!given.path.endsWith(TS)) return []
+    if (!textNamed(given.path)) return []
     return reasonsIn(given.path, bodyOf(given), every)
   })
 }
