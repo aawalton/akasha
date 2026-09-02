@@ -52,20 +52,6 @@
         "**/*.ts!"
       ]
     },
-    "temper/game-characters-stats": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "temper/game-companions-addon": {
-      "entry": [
-        "src/**/*.ts!"
-      ],
-      "project": [
-        "**/*.ts!"
-      ]
-    },
     "temper/game-companions-core": {
       "entry": [
         "**/*.test.{ts,tsx}"
@@ -81,62 +67,6 @@
       ]
     },
     "temper/game-completion": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "temper/game-items-addon": {
-      "entry": [
-        "src/**/*.ts!"
-      ],
-      "project": [
-        "**/*.ts!"
-      ]
-    },
-    "temper/game-items-core": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "temper/game-items-rules-core": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "temper/game-items-rules-eval": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "temper/game-items-rules-matcher": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "temper/game-items-rules-routing": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "temper/game-items-rules-routing-core": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
