@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const checkFlags = {
   id: "01a06137-f965-79e3-938a-957ed9482203",

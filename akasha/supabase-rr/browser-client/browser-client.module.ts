@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const browserClient = {
   id: "01a05c97-8af6-7e2b-a533-56c19f3048c1",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const vampireStages = {
   id: "01a060ea-ac65-780c-876f-8ff34a264cc4",

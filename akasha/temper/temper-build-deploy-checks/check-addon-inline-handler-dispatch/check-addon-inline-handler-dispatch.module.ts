@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const checkAddonInlineHandlerDispatch = {
   id: "01a062a8-e76a-7a87-8a19-f63843b41826",

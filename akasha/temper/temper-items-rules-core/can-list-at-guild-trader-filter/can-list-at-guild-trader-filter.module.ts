@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const canListAtGuildTraderFilter = {
   id: "01a06100-3be7-7e16-98f5-59dabc92b040",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryDestinationParse = {
   id: "01a06100-3bec-7b79-9779-2c42248a315d",

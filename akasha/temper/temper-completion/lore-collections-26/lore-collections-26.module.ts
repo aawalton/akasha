@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const loreCollections26 = {
   id: "01a060c0-412c-7506-be39-94f54f309a3e",

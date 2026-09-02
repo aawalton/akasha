@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const pricingTypes = {
   id: "01a0609b-e59d-774e-9760-26cd46ca0f8b",

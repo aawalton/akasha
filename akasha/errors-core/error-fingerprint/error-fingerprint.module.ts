@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const errorFingerprint = {
   id: "01a05c48-deeb-7016-a6d6-1a0c3bcc2c59",

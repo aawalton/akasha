@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const skillActivationEffectTypes = {
   id: "01a060db-b2bc-7dd4-94d7-941cfc180b32",

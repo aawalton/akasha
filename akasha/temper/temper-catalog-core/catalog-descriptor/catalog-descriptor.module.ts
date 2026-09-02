@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const catalogDescriptor = {
   id: "01a06071-0c77-71fa-866d-8ddbd099aa5c",

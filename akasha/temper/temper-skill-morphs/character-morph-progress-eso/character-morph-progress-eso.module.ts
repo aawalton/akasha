@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const characterMorphProgressEso = {
   id: "01a061c7-0738-72ff-b06e-00fa88b02904",

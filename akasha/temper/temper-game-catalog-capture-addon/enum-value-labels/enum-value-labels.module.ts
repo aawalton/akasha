@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const enumValueLabels = {
   id: "01a06127-662d-77a9-a9a1-5fcbf970d172",

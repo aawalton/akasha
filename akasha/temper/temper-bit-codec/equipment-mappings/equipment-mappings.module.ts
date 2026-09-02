@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const equipmentMappings = {
   id: "01a060af-2560-781d-b1ae-002d5f3fc42b",

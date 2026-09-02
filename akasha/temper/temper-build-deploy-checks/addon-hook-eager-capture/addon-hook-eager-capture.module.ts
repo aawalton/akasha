@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const addonHookEagerCapture = {
   id: "01a062b7-adf2-779a-abcc-18497baaf891",

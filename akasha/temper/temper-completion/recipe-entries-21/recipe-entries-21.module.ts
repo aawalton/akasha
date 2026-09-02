@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const recipeEntries21 = {
   id: "01a060c0-4139-7145-ab53-a99355306bdb",

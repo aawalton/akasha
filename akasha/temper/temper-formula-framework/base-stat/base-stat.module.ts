@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const baseStat = {
   id: "01a06070-82dc-7362-bd7b-ae43bdc4ac29",

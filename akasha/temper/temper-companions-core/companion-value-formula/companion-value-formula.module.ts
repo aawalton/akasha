@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionValueFormula = {
   id: "01a06110-abe4-78d1-a666-6777efccfc96",

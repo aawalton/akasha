@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const drinkSource = {
   id: "01a060ea-ac62-79f4-bfc3-6d86845bdd8a",

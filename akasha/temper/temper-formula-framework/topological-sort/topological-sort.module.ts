@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const topologicalSort = {
   id: "01a06070-82e5-713f-ac89-431606c70239",

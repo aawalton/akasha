@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const normalize = {
   id: "01a05b6f-999d-7245-878b-3293cdfb33fb",

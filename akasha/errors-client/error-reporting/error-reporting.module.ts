@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const errorReporting = {
   id: "01a05c89-6034-7244-b9d2-6f9242df9ca4",

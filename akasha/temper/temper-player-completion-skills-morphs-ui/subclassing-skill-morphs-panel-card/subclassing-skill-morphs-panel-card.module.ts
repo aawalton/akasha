@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const subclassingSkillMorphsPanelCard = {
   id: "01a06270-883d-7001-a3e2-19a44697e51c",

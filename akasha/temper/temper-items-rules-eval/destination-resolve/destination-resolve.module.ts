@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const destinationResolve = {
   id: "01a06137-f96b-7043-97c6-458a3d722f28",

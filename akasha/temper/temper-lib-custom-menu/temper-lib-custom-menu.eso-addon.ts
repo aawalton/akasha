@@ -1,4 +1,4 @@
-import type { EsoAddon } from "../../code-system/eso-addon/eso-addon.page-type.ts"
+import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.ts"
 
 export const temperLibCustomMenu = {
   id: "01a0605a-581c-7eb1-aaf7-831f236462fa",

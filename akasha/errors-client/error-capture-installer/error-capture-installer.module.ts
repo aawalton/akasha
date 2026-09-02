@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const errorCaptureInstaller = {
   id: "01a05c89-6034-7058-9849-2d597112d2ac",

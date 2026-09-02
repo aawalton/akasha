@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const rotationTypes = {
   id: "01a06152-c2da-7a46-9d70-0b6d3eec75de",

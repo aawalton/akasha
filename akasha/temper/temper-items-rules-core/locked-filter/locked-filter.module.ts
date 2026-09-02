@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lockedFilter = {
   id: "01a06100-3bf2-73c8-8184-8789e0df7124",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const gameSchema = {
   id: "01a05b71-e543-7c87-8c6e-cfaef2c52761",

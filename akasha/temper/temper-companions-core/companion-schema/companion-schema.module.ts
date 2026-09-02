@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionSchema = {
   id: "01a06152-c2d1-7ae1-a01d-515e7612c452",

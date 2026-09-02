@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const dungeonChampionPlaces = {
   id: "01a060f9-bad1-7202-bef3-dc48b30536e9",

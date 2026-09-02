@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const addonSourceFiles = {
   id: "01a062a8-e76a-7fda-a7db-9dcb0cf64d2f",

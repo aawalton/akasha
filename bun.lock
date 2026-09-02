@@ -169,7 +169,7 @@
         "typescript": "5.9.3",
       },
     },
-    "akasha/code-system/ios-app/pages/alanwalton": {
+    "akasha/code-system/ios-apps/pages/alanwalton": {
       "name": "@alanwalton/native-shell",
       "version": "0.0.1",
       "dependencies": {
@@ -184,7 +184,7 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
-    "akasha/code-system/ios-app/pages/smilingjenny": {
+    "akasha/code-system/ios-apps/pages/smilingjenny": {
       "name": "@smilingjenny/native-shell",
       "version": "0.0.1",
       "dependencies": {
@@ -3840,7 +3840,7 @@
 
     "@alanwalton/atlas-web": ["@alanwalton/atlas-web@workspace:alanwalton/atlas-web"],
 
-    "@alanwalton/native-shell": ["@alanwalton/native-shell@workspace:akasha/code-system/ios-app/pages/alanwalton"],
+    "@alanwalton/native-shell": ["@alanwalton/native-shell@workspace:akasha/code-system/ios-apps/pages/alanwalton"],
 
     "@alanwalton/web": ["@alanwalton/web@workspace:alanwalton/web"],
 
@@ -4380,7 +4380,7 @@
 
     "@shared/utils-test": ["@shared/utils-test@workspace:shared/utils-test"],
 
-    "@smilingjenny/native-shell": ["@smilingjenny/native-shell@workspace:akasha/code-system/ios-app/pages/smilingjenny"],
+    "@smilingjenny/native-shell": ["@smilingjenny/native-shell@workspace:akasha/code-system/ios-apps/pages/smilingjenny"],
 
     "@smilingjenny/web": ["@smilingjenny/web@workspace:smilingjenny/web"],
 

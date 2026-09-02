@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryGuildBankFilter = {
   id: "01a060d9-498d-7d32-8471-dc22ab0b53c0",

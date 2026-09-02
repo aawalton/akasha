@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const serveStatic = {
   id: "01a05c48-deeb-7006-8e9c-b8c5539dd296",

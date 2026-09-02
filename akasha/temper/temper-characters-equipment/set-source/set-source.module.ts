@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const setSource = {
   id: "01a061a4-18b1-7a6e-bc9b-94150a72e67b",

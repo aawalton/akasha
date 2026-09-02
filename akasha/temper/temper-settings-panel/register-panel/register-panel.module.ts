@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const registerPanel = {
   id: "01a06053-3637-713f-ab1c-3a21aa26e1e0",

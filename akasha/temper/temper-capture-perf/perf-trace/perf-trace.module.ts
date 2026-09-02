@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const perfTrace = {
   id: "01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3",

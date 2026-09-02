@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionSavedVariablesParser = {
   id: "01a060d7-c8cf-7aa1-a0b6-af0a0addf2ef",

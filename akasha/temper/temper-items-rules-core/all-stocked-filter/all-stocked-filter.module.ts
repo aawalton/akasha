@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const allStockedFilter = {
   id: "01a06100-3be0-7ea8-a8de-32cfd5204303",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryRuleMatcherExclude = {
   id: "01a06151-370c-715e-8bd1-7789e3ac3132",

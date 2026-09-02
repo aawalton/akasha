@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const inboundDecision = {
   id: "01a05bcd-25e4-7b6c-9b1e-0ebb793da0e0",

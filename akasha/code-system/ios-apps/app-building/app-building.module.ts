@@ -1,4 +1,4 @@
-import type { Module } from "../../module/module.page-type.ts"
+import type { Module } from "../../modules/module.page-type.ts"
 
 export const appBuilding = {
   id: "01a059b8-3354-76d3-b596-b5329132b15d",

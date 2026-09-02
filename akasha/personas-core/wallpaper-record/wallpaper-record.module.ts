@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const wallpaperRecord = {
   id: "01a05b70-a58d-713d-9f6d-5d268721e317",

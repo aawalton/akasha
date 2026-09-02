@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const imessageSend = {
   id: "01a05bc9-4308-7006-988e-9b8bab4f1ec5",

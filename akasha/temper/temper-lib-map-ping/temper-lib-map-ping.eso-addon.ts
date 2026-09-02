@@ -1,4 +1,4 @@
-import type { EsoAddon } from "../../code-system/eso-addon/eso-addon.page-type.ts"
+import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.ts"
 
 export const temperLibMapPing = {
   id: "01a0605f-625e-7267-be33-c5a31b618626",

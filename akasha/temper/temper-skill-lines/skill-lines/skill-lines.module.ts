@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const skillLines = {
   id: "01a0608a-c135-7b83-afde-8d52e111b852",

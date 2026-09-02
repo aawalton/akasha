@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionOverrideRow = {
   id: "01a06108-2ff4-791d-9194-955da44a9b86",

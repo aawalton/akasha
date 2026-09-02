@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionMetricTree = {
   id: "01a06152-c2cd-7151-9afb-057ef756a156",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const eligibilityPredicateComposer = {
   id: "01a06100-3beb-7c1f-82cd-d52265a07bd5",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const buffOrDebuffExplainer = {
   id: "01a06133-c631-79f0-89e0-9f62d9d60928",

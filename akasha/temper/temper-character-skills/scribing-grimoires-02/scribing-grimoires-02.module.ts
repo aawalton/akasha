@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const scribingGrimoires02 = {
   id: "01a0617c-86c0-70e5-8460-db175c793bbd",

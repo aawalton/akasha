@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const itemLinkParser = {
   id: "01a060bf-747c-74be-8914-30e2ea6cabe8",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const procReading = {
   id: "01a05d02-889b-74a3-996f-1c5943d09b84",

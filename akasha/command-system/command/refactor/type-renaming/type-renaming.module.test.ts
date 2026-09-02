@@ -32,7 +32,7 @@ function world(): string {
   const root = scratch.rootFor("akasha-type-renaming-")
   listedFiled(root, "page-type", "seat", [{ path: SEAT_AT, id: SEAT_ID }])
   listedFiled(root, "page-type", "module", [
-    { path: "akasha/code-system/module/module.page-type.ts", id: "01a0587b-0000-7000-8000-b" },
+    { path: "akasha/code-system/modules/module.page-type.ts", id: "01a0587b-0000-7000-8000-b" },
   ])
   return root
 }

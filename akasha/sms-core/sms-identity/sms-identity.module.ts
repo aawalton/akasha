@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const smsIdentity = {
   id: "01a05b6f-999d-727d-ab08-10b32928a6d8",

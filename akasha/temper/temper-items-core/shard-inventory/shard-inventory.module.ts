@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const shardInventory = {
   id: "01a060c5-3c26-79fe-b04c-459d6e56880b",

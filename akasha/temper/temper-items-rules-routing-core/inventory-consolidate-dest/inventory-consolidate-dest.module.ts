@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryConsolidateDest = {
   id: "01a06151-3707-766e-bfa9-91d05b3b9c5c",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionPercent = {
   id: "01a06108-2ff5-7b31-8409-2fba1ba0bab8",

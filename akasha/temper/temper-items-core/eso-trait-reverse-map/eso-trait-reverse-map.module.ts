@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const esoTraitReverseMap = {
   id: "01a0612e-28d6-7df8-bb5c-419ce436eb8f",

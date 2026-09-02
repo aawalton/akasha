@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const getEquipmentIcon = {
   id: "01a0616f-8e18-78af-ac3b-8ddc65658dec",

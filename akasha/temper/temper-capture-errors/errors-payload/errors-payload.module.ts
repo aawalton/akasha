@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const errorsPayload = {
   id: "01a0608a-15b2-7682-b22a-9bbc37158e7b",

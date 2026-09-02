@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const esoDate = {
   id: "01a06070-82e2-764c-be2a-e7c281e7063e",

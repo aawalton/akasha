@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionSkillTooltip = {
   id: "01a06152-c2d4-7d27-895d-d2dfe67c393f",

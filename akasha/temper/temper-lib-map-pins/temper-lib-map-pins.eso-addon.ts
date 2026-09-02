@@ -1,4 +1,4 @@
-import type { EsoAddon } from "../../code-system/eso-addon/eso-addon.page-type.ts"
+import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.ts"
 
 export const temperLibMapPins = {
   id: "01a06062-57dc-7eeb-bb3d-6badd05f9bf5",

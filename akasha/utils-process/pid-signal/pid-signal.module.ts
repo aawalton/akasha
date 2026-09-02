@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const pidSignal = {
   id: "01a05c4f-6f2e-7d2e-bf84-237cf8284bd3",

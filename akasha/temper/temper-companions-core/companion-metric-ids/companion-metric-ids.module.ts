@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionMetricIds = {
   id: "01a06108-076c-7e9e-8095-bc59ce08217a",

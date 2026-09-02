@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const searchServerNarrowing = {
   id: "01a0613a-e0ae-75b0-9cbe-58f1edfb2323",

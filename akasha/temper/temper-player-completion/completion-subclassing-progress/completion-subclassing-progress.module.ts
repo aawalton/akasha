@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionSubclassingProgress = {
   id: "01a0627d-aa45-7000-aa9b-9c58efaea8f2",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const itemBrowserItemLink = {
   id: "01a06178-371c-7c7f-a50b-0fa8f4c8822a",

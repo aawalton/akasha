@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const bopTradeableFilter = {
   id: "01a06100-3be1-7979-a9b4-6bd9fb79cac2",

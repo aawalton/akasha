@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const anchorCoverRecord = {
   id: "01a05b70-a58c-73a5-a84d-1f61812a92fd",

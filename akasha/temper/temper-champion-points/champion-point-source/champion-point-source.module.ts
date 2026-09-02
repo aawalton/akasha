@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const championPointSource = {
   id: "01a06076-1b65-7228-8994-fbce92968c6f",

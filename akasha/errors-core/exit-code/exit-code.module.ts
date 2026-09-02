@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const exitCode = {
   id: "01a05c48-deeb-7015-8c70-41f6bb46fd62",

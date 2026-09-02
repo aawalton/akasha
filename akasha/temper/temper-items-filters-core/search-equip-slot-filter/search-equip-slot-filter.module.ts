@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const searchEquipSlotFilter = {
   id: "01a0613a-e0a7-7f9d-b9bd-ff1e3517930d",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryDatabaseSchema = {
   id: "01a060c5-3c1f-7102-9890-60736d959f93",

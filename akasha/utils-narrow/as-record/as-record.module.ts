@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const asRecord = {
   id: "01a05c94-2bfb-7908-974d-2bd990ac9a56",

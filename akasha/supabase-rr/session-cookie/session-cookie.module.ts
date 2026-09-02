@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const sessionCookie = {
   id: "01a05c97-8af5-7c64-bf49-f3875345a184",

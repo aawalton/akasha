@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const applyCompletionOverrides = {
   id: "01a06108-2fe9-7e94-a80a-0620a87e49b2",

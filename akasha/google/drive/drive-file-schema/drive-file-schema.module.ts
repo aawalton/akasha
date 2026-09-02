@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const driveFileSchema = {
   id: "01a05bec-fc0b-71e6-99a6-f877a44350dd",

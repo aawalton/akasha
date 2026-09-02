@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const addonDependencyFloor = {
   id: "01a06297-7f6a-7664-ac3d-ea7ecf537e2f",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const ruleConstants = {
   id: "01a060d9-44cc-7b06-9dd7-c62933ed2bb1",

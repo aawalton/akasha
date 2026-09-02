@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const displayFormulaConvert = {
   id: "01a06070-82df-7622-bc23-3c2234ce1b90",

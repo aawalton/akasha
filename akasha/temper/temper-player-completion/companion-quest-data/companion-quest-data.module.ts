@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionQuestData = {
   id: "01a06121-f0ce-7862-9eb6-795c99701a24",

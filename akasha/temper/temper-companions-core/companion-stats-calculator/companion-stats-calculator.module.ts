@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionStatsCalculator = {
   id: "01a06152-c2d5-77e5-9a6a-ff12bc141904",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const sampleSelecting = {
   id: "01a05bc7-9129-7004-a85c-285fd90a0c08",

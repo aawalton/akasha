@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const backpackSettingsTypes = {
   id: "01a060c5-3c1d-7e3a-9997-6f9c875ac2eb",

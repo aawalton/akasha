@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const foodSource = {
   id: "01a060ea-ac64-70ea-b9fd-ddd3a753f84b",

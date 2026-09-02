@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const pageStem = {
   id: "01a05c53-bc6b-7dba-8a4d-0388f0ff1db2",

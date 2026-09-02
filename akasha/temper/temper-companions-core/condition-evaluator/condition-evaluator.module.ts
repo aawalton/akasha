@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const conditionEvaluator = {
   id: "01a06152-c2d9-7bfd-bdcf-e47f851e9b16",

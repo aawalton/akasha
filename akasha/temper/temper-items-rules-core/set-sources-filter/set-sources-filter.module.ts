@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const setSourcesFilter = {
   id: "01a06276-e3e6-7c64-8c97-3ce008f60697",

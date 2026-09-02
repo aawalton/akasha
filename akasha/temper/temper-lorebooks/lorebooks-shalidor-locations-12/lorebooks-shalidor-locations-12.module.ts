@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lorebooksShalidorLocations12 = {
   id: "01a06181-3841-7fe1-9849-8be966d84554",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const spotifyCacheFile = {
   id: "01a06261-dc1d-7002-81c0-cf6b422e7fb3",

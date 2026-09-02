@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const smsAllowlist = {
   id: "01a05b73-2ec7-7c96-a18b-ac0ec2a858e9",

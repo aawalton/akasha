@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const base64url = {
   id: "01a060b3-77c9-7461-8481-e41383ba9583",

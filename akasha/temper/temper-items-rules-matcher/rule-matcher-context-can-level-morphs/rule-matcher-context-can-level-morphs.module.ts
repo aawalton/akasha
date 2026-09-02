@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const ruleMatcherContextCanLevelMorphs = {
   id: "01a06281-4830-7235-b19b-27df1e1b1b92",

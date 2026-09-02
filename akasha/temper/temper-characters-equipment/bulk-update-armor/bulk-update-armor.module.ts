@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const bulkUpdateArmor = {
   id: "01a0616f-8e1a-7fdf-b4b1-8e70a061f65f",

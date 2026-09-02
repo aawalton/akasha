@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const deleteRecordKey = {
   id: "01a06057-367a-7da6-aab7-c707ebb15466",

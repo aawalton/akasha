@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const wallpaperSelect = {
   id: "01a05b70-a58d-7a1f-aa38-1dbe316d32ec",

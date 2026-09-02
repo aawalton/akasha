@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const ttcBudgetStrategy = {
   id: "01a060cf-b0af-7945-b272-f1393abf11ca",

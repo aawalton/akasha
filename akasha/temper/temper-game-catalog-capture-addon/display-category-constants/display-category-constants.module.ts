@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const displayCategoryConstants = {
   id: "01a06127-6628-72fa-ab27-53d7049284ec",

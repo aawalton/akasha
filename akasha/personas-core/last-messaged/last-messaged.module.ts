@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const lastMessaged = {
   id: "01a05b70-a58c-7e12-b45f-7ec257ec247d",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const sender = {
   id: "01a05bcd-25e3-7ad8-94f5-51861579256d",

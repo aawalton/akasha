@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const spotifySearch = {
   id: "01a06261-dc1d-7009-8b51-0a4990d03db0",

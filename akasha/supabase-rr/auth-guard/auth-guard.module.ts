@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const authGuard = {
   id: "01a05c97-8af8-7068-817c-90f46f8ccb6f",

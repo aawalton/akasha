@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const zoneCompletionCatalogCapture = {
   id: "01a060e2-3186-7265-a0dc-af76d21939e4",

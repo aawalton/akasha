@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const gmailDrafts = {
   id: "01a05c0e-3730-79a1-884f-5caf37ea35cf",

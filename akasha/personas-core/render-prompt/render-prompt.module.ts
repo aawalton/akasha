@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const renderPrompt = {
   id: "01a05b70-a58d-7a82-b208-fbcd6f5976f9",

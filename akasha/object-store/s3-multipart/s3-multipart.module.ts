@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const s3Multipart = {
   id: "01a05cbb-13a0-7d83-995d-4f53d2a329f6",

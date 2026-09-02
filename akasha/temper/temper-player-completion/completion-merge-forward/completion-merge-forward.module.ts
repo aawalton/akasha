@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionMergeForward = {
   id: "01a06108-2ff2-712b-8e7f-f0ad0e33cc0d",

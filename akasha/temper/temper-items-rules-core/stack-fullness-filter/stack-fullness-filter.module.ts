@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const stackFullnessFilter = {
   id: "01a06100-3bfd-71eb-8e28-95fa17ca5dfc",

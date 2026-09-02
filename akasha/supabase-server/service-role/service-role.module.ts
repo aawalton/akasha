@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const serviceRole = {
   id: "01a05c75-871a-75ee-b566-9d7b5f975f72",

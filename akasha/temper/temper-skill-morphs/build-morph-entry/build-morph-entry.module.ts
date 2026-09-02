@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const buildMorphEntry = {
   id: "01a061c7-0738-7fd2-ad9c-478539017979",

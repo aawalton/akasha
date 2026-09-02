@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const buildItemFactsFromInventoryItem = {
   id: "01a06137-f960-762e-920f-bb17bcdd1294",

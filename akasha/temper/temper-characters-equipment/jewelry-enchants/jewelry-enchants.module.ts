@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const jewelryEnchants = {
   id: "01a0616f-8e17-7f4a-88b7-d9d36af92429",

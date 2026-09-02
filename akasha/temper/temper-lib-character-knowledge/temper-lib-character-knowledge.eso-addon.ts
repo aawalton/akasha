@@ -1,4 +1,4 @@
-import type { EsoAddon } from "../../code-system/eso-addon/eso-addon.page-type.ts"
+import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.ts"
 
 export const temperLibCharacterKnowledge = {
   id: "01a061fa-8034-72e8-8175-6440e4c91a6d",

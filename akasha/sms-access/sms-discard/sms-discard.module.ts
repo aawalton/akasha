@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const smsDiscard = {
   id: "01a05b73-2ec7-73b1-b1c2-25548df34716",

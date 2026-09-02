@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const setSelectHelpers = {
   id: "01a061a4-18b1-76bb-93ce-10eaed820121",

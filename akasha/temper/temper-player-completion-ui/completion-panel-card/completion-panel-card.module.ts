@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionPanelCard = {
   id: "01a06267-372c-7002-bf32-c613086380b1",

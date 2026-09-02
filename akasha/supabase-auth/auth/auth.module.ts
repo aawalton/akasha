@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const auth = {
   id: "01a05c6d-3508-781d-8ca6-f6de618f4ea6",

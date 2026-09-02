@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const esoPlayerEquipmentConstantsData = {
   id: "01a060d9-498b-744f-8dc9-b2222b4f4b29",

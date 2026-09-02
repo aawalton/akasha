@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const verdictShape = {
   id: "01a05c87-a161-78d7-afb2-6becb8d2161f",

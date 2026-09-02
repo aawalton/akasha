@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const queryShapes = {
   id: "01a06187-b3a3-7eb8-8802-5c8042236869",

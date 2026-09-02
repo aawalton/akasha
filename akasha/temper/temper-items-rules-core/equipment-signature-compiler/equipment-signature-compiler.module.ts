@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const equipmentSignatureCompiler = {
   id: "01a06276-e3e7-73dc-b7c5-e02a70f1c789",

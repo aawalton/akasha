@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const gmVoiceLints = {
   id: "01a05b71-e543-74c0-abd2-ac3a061a4181",

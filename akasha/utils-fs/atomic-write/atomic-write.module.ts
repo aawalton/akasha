@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const atomicWrite = {
   id: "01a05c4c-9441-7a1c-a7fc-dc1ab3914181",

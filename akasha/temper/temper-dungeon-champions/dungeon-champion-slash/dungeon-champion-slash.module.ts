@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const dungeonChampionSlash = {
   id: "01a060f9-badb-75b9-a0c4-24413a5ab8d1",

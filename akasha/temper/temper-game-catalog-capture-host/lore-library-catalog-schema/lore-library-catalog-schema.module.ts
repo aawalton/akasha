@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const loreLibraryCatalogSchema = {
   id: "01a06076-5ea6-7a4a-ba5c-9b141b2fa0e4",

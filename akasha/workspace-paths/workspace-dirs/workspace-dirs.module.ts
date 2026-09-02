@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const workspaceDirs = {
   id: "01a05c48-deeb-700b-9305-52a189c99aa2",

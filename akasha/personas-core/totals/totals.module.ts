@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const totals = {
   id: "01a05b70-a58d-7bd2-900d-e4f28509124a",

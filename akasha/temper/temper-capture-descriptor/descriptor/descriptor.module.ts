@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const descriptor = {
   id: "01a06053-3638-7cb5-b297-d04869965330",

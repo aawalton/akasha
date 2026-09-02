@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const rotationBreakdownRows = {
   id: "01a06110-abe5-7eeb-859b-48fffcfee56d",

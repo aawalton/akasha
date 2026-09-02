@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryGrouping = {
   id: "01a0626e-3e05-702f-9116-c504ffbe4049",

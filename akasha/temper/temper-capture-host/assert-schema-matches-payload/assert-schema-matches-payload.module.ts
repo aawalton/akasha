@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const assertSchemaMatchesPayload = {
   id: "01a06075-b052-7e77-979b-c9bea93f7ba3",

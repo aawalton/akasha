@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const chapterWords = {
   id: "01a06287-5be6-76c1-8e09-9895944cb34e",

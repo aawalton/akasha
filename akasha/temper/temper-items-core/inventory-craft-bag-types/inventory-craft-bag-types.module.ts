@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryCraftBagTypes = {
   id: "01a060c5-3c1f-718b-9214-b751562ad958",

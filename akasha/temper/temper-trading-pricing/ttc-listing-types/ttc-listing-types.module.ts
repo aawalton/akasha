@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const ttcListingTypes = {
   id: "01a0609b-e59e-76a0-b95d-824e1ed2c729",

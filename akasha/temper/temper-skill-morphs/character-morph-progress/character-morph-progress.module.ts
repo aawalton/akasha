@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const characterMorphProgress = {
   id: "01a061c7-0738-743c-af2f-8e5f2a129273",

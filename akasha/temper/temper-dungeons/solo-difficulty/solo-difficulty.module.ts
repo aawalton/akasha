@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const soloDifficulty = {
   id: "01a06031-70e5-71b7-aa04-ac3deb2dfe1c",

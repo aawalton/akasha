@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const supabaseUser = {
   id: "01a05c6d-350a-7a9e-b989-5c974158f6f9",

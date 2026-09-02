@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const targetScopes = {
   id: "01a060db-b2be-77b7-b112-34349332a376",

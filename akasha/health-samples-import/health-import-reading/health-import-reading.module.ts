@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const healthImportReading = {
   id: "01a05c14-b11a-7005-9108-0d098d5f3aa7",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const esoName = {
   id: "01a0609f-53f9-7998-8f89-ccf5a230130b",

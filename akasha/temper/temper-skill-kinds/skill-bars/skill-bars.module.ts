@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const skillBars = {
   id: "01a060db-b2bc-7125-b53b-c0f90c47961f",

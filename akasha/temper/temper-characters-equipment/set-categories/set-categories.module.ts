@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const setCategories = {
   id: "01a0616f-8e15-7812-a6e6-cca332a9a6e5",

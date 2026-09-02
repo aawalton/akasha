@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const wakeDayWindow = {
   id: "01a05bc7-9129-7008-8402-c98c706da8be",

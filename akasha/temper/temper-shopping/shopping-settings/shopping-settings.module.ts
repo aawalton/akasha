@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const shoppingSettings = {
   id: "01a060cf-b0b1-75a2-8041-f9ae780018d3",

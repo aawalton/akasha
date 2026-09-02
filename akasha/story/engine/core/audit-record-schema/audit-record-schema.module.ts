@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const auditRecordSchema = {
   id: "01a05b71-e543-7988-b1b1-86b89ad98708",

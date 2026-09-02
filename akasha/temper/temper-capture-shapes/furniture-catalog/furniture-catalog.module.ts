@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const furnitureCatalog = {
   id: "01a0604d-239d-7b10-b5af-05c24877acb5",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const luaParser = {
   id: "01a06053-3635-710f-8f31-18095cf8a395",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const buildMetadata = {
   id: "01a061c0-88d8-7527-81f9-44b8e63a9668",

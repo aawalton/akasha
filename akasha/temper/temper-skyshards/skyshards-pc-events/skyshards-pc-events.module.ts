@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const skyshardsPcEvents = {
   id: "01a061a8-9c6a-7cd6-9896-f5d37f1c09aa",

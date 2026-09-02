@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const scribingSignatureScripts = {
   id: "01a060db-b2bb-78c2-a678-b0ddc7114f93",

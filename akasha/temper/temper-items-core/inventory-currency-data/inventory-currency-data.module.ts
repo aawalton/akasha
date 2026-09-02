@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryCurrencyData = {
   id: "01a060d9-498b-782c-aa63-7f9ef5125ebe",

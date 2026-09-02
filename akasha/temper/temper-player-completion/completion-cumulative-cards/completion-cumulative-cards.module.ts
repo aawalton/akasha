@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionCumulativeCards = {
   id: "01a06108-2fee-74d3-95b3-542ec82718a6",

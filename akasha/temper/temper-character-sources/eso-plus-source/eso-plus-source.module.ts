@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const esoPlusSource = {
   id: "01a060ea-ac63-7845-9a82-f9f16acf19da",

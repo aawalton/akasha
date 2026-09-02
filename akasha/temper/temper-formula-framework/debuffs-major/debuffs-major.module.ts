@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const debuffsMajor = {
   id: "01a06070-82df-7dc0-8d8f-83d4eb516f00",

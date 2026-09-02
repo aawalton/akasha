@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const extractors = {
   id: "01a06133-c62d-74e6-bc37-48e042ee3d3d",

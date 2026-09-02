@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const bitReader = {
   id: "01a060b3-77ca-7b4f-a569-3dce9d9f75ad",

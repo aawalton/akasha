@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const cooldownGroups = {
   id: "01a060c5-3c1d-7543-b63d-accaf9d6201a",

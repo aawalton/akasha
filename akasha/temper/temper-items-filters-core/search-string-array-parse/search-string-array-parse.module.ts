@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const searchStringArrayParse = {
   id: "01a0613a-e0af-7002-b311-310a410d8013",

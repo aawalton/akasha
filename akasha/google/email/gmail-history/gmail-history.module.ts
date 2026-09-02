@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const gmailHistory = {
   id: "01a05c0e-3730-7af5-a10b-a823e4340d0b",

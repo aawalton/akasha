@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const tributeCatalog = {
   id: "01a0604d-23a2-77c4-a80a-b77a49b0dad8",

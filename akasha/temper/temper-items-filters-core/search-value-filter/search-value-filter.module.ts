@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const searchValueFilter = {
   id: "01a0613a-e0b2-7f07-844d-be1021d78a93",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const ruleTemplateTable02 = {
   id: "01a06100-3bfd-794a-abcd-eb17b95c077c",

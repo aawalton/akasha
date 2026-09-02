@@ -1,4 +1,4 @@
-import type { EsoAddon } from "../../code-system/eso-addon/eso-addon.page-type.ts"
+import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.ts"
 
 export const temperLibTableFunctions = {
   id: "01a06052-2ca3-74ef-b59e-f8d49f0ca734",

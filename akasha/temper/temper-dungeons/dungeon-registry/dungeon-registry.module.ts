@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const dungeonRegistry = {
   id: "01a06031-70e5-7414-8a53-3e7ea7823cbd",

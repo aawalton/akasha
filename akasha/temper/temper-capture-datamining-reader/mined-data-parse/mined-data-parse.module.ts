@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const minedDataParse = {
   id: "01a0611e-913c-74b8-9972-f3bfd84d8cd8",

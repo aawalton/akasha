@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const mountainDay = {
   id: "01a05c77-31e7-7659-86c4-340d070e0baf",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const spotifyScopes = {
   id: "01a06261-dc1d-7005-9e93-d5c9f5bf2239",

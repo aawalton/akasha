@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionLeaderboard = {
   id: "01a06152-c2ca-7bf7-a6bf-86af486302c4",

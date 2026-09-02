@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const catalogPayload = {
   id: "01a06071-0c78-7ec6-a529-55cd1d262309",

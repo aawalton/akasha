@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const formatEffects = {
   id: "01a06133-c62f-78d5-b526-f913ee032493",

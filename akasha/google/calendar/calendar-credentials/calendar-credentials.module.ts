@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const calendarCredentials = {
   id: "01a05c02-c733-7786-85fd-8163fb8a237b",

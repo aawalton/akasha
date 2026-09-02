@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionRotationSimulator = {
   id: "01a06152-c2d0-754e-9a10-1c25777b3df1",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const launchEnv = {
   id: "01a05c48-deeb-7004-ae00-696bc1c422ae",

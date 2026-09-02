@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const armorWeightIds = {
   id: "01a060f0-3eac-71f4-ab24-ac7b5ad15139",

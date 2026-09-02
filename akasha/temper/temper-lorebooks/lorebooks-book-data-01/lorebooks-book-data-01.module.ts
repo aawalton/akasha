@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lorebooksBookData01 = {
   id: "01a0617f-9260-7a7a-8d9f-22a4c3755a4b",

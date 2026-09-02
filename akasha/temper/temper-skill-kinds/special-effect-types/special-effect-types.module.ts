@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const specialEffectTypes = {
   id: "01a060db-b2be-7aac-9073-574868af28d7",

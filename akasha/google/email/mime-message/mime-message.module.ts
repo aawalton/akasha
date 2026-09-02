@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const mimeMessage = {
   id: "01a05c0e-372f-78d8-908e-3f8b94dc0ac5",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lostTreasureDebug = {
   id: "01a06141-800b-7e50-adb3-d8901e688436",

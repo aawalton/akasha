@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryRuleMatcherCache = {
   id: "01a06151-370c-7bba-9b75-347465f546d7",

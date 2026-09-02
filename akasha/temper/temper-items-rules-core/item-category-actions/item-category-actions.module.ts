@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const itemCategoryActions = {
   id: "01a06100-3bf0-79a0-90a2-4dec665976b8",

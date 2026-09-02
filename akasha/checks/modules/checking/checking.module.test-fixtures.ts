@@ -13,7 +13,7 @@ const MODULE = "module"
 
 export const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
 
-const MODULE_AT = "akasha/code-system/module/module.page-type.ts"
+const MODULE_AT = "akasha/code-system/modules/module.page-type.ts"
 
 const MODULE_ID = "01a04bc4-0000-7000-8000-0000000000ff"
 

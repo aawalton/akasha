@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const buildShaDefine = {
   id: "01a05c48-deeb-7010-a5ad-81104931a96d",

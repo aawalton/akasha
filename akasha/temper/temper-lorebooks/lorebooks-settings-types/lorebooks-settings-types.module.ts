@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lorebooksSettingsTypes = {
   id: "01a06194-be48-72d5-a40d-d50d5edafdb8",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const skillLineMorphTotals = {
   id: "01a061c7-0738-7a11-a362-5b460b703e4c",

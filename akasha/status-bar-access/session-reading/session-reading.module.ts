@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const sessionReading = {
   id: "01a05c9d-4096-7200-bed7-33491866fccb",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionNamedShape = {
   id: "01a06130-9e3a-7f50-9d58-465202494493",

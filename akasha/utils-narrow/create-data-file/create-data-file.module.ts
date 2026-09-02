@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const createDataFile = {
   id: "01a05c94-2bfe-7fa4-a2e5-5e0b7f981a1c",

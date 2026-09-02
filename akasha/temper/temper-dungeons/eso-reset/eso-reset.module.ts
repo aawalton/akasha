@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const esoReset = {
   id: "01a0603b-d66a-7bf8-9657-cb2176247f1b",

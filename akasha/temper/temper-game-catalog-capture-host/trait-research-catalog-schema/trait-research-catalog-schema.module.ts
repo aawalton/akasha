@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const traitResearchCatalogSchema = {
   id: "01a06076-5ea9-7eaa-9ac6-2b3b92426d46",

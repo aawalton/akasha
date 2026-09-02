@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const verdictText = {
   id: "01a05c87-a162-7009-8991-e7d36b476492",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const running = {
   id: "01a05d20-8007-70bf-8ed6-29cc7dfb4687",

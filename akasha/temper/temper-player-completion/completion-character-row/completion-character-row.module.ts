@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionCharacterRow = {
   id: "01a06108-2fee-7a2e-b1b8-6d8bc1327536",

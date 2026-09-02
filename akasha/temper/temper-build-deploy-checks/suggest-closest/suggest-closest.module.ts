@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const suggestClosest = {
   id: "01a06287-7841-7b53-968b-a40343c7aebe",

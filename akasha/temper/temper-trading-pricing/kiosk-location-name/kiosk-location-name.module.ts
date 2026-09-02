@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const kioskLocationName = {
   id: "01a0609b-e59e-7045-b6df-6ee2d2b62d25",

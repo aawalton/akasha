@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const filePage = {
   id: "01a05c69-e870-7593-9000-9a0009b4eeae",

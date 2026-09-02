@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const turnSchema = {
   id: "01a05b71-e544-7cd7-9ac0-579c810eb097",

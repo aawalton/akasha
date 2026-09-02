@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const activityCategories = {
   id: "01a06108-2fe7-758c-947c-5275babdadb5",

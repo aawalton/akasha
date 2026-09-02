@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const requireOnly = {
   id: "01a05c94-2c02-7dcd-a343-76adc276594d",

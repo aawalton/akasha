@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const workInitiatives = {
   id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const craftedFilter = {
   id: "01a06100-3be9-72bb-ae2f-272ecba3d354",

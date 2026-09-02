@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const setEquipmentTypes = {
   id: "01a0616f-8e14-7cf7-8e3f-2a2890a905b6",

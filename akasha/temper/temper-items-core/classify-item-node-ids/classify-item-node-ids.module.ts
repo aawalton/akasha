@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const classifyItemNodeIds = {
   id: "01a060e4-b745-7028-bea7-10714af9a632",

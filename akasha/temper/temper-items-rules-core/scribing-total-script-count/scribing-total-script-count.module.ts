@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const scribingTotalScriptCount = {
   id: "01a060d9-44cc-7857-8133-d0c4c0bfc797",

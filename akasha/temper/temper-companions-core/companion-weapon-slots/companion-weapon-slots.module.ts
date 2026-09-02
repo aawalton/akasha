@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionWeaponSlots = {
   id: "01a06108-076f-7a7e-8d7f-1f243e2ec818",

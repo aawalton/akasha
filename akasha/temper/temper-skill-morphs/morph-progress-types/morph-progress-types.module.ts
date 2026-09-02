@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const morphProgressTypes = {
   id: "01a061c7-0738-76fd-90d9-c87b73fd435f",

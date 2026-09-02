@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const dungeonChampionPinTextures = {
   id: "01a060f9-bacf-7388-b800-ec92c9f44b96",

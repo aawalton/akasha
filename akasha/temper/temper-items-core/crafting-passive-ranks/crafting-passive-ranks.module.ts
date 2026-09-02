@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const craftingPassiveRanks = {
   id: "01a060c5-3c1e-7453-949f-4ac65d4e7221",

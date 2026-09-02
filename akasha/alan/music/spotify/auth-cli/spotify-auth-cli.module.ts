@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const spotifyAuthCli = {
   id: "01a06261-dc1d-700c-a56a-b1a6269144c7",

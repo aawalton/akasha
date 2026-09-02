@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const dataminingPayload = {
   id: "01a0608a-15b1-7c8a-abad-1fed4e8585a6",

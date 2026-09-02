@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const levelScaling = {
   id: "01a0616f-8e12-73ab-b65c-c41fefc0e804",

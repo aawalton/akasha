@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const transmutedFilter = {
   id: "01a06100-3c00-7289-bd55-ca10e321d94e",

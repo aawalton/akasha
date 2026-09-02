@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const ruleConditionEval = {
   id: "01a06137-f96d-7493-bbc2-36975759b675",

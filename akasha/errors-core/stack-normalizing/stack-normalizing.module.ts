@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const stackNormalizing = {
   id: "01a05c48-deeb-7017-b565-3730f8ab193a",

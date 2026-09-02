@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const globalErrorCapture = {
   id: "01a05c89-6034-7aa8-8022-17a7a37e61e3",

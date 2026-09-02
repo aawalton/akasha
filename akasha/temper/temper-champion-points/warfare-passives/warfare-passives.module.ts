@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const warfarePassives = {
   id: "01a06076-1b67-7344-aeac-42be06cfb8aa",

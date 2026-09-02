@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const rowGrouping = {
   id: "01a0609f-53fa-76c3-b842-f36808ca5db3",

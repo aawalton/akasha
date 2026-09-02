@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const passiveQueries = {
   id: "01a06187-b3a4-7d21-b96e-890c450998e3",

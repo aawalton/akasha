@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const comparisonOp = {
   id: "01a060d9-44ca-7638-bf00-7199306fb945",

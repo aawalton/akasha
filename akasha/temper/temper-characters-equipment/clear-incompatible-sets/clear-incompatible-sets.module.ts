@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const clearIncompatibleSets = {
   id: "01a0616f-8e19-74b6-86f7-684399ca38e0",

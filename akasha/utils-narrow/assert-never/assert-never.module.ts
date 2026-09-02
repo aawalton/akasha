@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const assertNever = {
   id: "01a05c94-2bfd-78f9-8078-7e672c919d08",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const races = {
   id: "01a0608a-c133-737f-a474-8e8f27869f5c",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const passiveEligibility = {
   id: "01a06271-abcf-77bf-921a-989075ce70f0",

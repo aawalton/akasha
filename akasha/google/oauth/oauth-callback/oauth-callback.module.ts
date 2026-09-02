@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const oauthCallback = {
   id: "01a05bdc-e25c-702d-a46a-b2274662cd6d",

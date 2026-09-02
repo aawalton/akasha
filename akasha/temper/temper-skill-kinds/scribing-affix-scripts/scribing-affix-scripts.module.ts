@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const scribingAffixScripts = {
   id: "01a060db-b2ba-73c7-8faa-80842e2c1379",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const addonInit = {
   id: "01a060ae-335f-75cf-867a-8b88bb3db05e",

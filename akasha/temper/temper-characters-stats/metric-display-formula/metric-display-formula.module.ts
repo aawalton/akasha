@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const metricDisplayFormula = {
   id: "01a06133-c630-7f37-86b1-d0b53f0db395",

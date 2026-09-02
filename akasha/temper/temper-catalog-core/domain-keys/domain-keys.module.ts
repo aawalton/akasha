@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const domainKeys = {
   id: "01a06071-0c79-7e98-87f3-f277a3b41182",

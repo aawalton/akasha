@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const extractCurse = {
   id: "01a06271-abcf-7d81-aadf-ac14d2801969",

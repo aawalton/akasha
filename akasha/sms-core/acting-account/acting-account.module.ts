@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const actingAccount = {
   id: "01a05b6f-999c-79d6-962f-62b580eda479",

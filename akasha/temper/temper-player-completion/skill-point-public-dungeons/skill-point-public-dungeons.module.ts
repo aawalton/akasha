@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const skillPointPublicDungeons = {
   id: "01a06108-2ff9-767b-92d7-7dbd5671e738",

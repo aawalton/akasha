@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const gmailSchema = {
   id: "01a05c0e-372f-7384-9024-babc64ceccf2",

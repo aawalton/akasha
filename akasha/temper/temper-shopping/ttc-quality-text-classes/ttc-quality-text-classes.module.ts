@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const ttcQualityTextClasses = {
   id: "01a060cf-b0b1-726e-9c87-8a0d3121e120",

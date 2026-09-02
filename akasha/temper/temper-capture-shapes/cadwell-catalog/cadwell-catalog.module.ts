@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const cadwellCatalog = {
   id: "01a0604d-239b-7e40-96b8-b77f26524225",

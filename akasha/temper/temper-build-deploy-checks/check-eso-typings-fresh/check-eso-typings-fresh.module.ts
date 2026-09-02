@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const checkEsoTypingsFresh = {
   id: "01a06297-7f6a-7fd6-9fbb-6cb8003a350c",

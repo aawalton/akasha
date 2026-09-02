@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const weaponEnchants = {
   id: "01a0616f-8e18-7979-89eb-61f1621f3cdb",

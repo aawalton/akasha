@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const rng = {
   id: "01a05bc6-fa4a-7008-b5ab-2cc69317c300",

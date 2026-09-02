@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const syncAll = {
   id: "01a05c22-7bc9-7006-985e-54e556c36da8",

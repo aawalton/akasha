@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const wallpaperBackfillExecute = {
   id: "01a05b70-a58d-7a94-8b42-b1fe59350cd9",

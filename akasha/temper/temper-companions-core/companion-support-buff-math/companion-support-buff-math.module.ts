@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionSupportBuffMath = {
   id: "01a06152-c2d7-7695-9439-9870ccc2e399",

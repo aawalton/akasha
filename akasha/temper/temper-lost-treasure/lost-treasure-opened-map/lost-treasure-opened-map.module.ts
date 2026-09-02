@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lostTreasureOpenedMap = {
   id: "01a06141-8007-7b7b-bb4c-82492eee5a7b",

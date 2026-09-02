@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryManagementPlanRouteActor = {
   id: "01a06151-3708-76b3-afdf-d8105f89b89d",

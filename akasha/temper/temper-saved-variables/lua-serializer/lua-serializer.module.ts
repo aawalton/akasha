@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const luaSerializer = {
   id: "01a06053-3635-7645-b6ba-ffae9f98d01e",

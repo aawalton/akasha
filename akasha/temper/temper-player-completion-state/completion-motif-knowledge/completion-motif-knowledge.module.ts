@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionMotifKnowledge = {
   id: "01a06253-d28f-7003-83dd-dfece4e579e6",

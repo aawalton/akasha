@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const diffEffectSources = {
   id: "01a06133-c632-73be-972e-77bdb53b4d1f",

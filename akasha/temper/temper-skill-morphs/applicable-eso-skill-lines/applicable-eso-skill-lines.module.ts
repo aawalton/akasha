@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const applicableEsoSkillLines = {
   id: "01a061c7-0738-7046-979c-d2d56d9f47c0",

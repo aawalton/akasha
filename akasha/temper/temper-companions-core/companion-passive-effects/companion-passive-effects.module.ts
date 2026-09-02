@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionPassiveEffects = {
   id: "01a06152-c2ce-7902-aff0-c78fd3c8b657",

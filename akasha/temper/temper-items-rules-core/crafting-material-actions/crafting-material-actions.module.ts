@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const craftingMaterialActions = {
   id: "01a06100-3bea-776e-bce8-156c6ba94357",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionRotationSlot = {
   id: "01a06152-c2d0-7ecb-a493-0d67e8ff42e0",

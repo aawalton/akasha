@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const requestMemo = {
   id: "01a05c97-8af5-7794-b233-1ff5ec092cb8",

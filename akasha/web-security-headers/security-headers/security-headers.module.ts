@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const securityHeaders = {
   id: "01a05c48-deeb-7008-8b99-8ccaf9ccafa6",

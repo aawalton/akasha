@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const requireGet = {
   id: "01a05c94-2c01-7d4f-983a-9b980754af38",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionEquipmentQualities = {
   id: "01a06108-0766-785a-9dd2-ef09e0ab69e2",

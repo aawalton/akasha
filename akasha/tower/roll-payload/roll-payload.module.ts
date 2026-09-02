@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const rollPayload = {
   id: "01a05bc6-fa4a-7011-8651-2145681e82b1",

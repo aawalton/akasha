@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const checkPotionEffects = {
   id: "01a06137-f968-77cc-97d7-6adbf8f9ea1d",

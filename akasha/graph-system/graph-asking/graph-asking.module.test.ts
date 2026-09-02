@@ -43,7 +43,7 @@ import {
 
 const REPO_AT = rootOf(import.meta.dir)
 
-const NAMED = "akasha/code-system/module/module.page-type.ts"
+const NAMED = "akasha/code-system/modules/module.page-type.ts"
 
 const NAMER = "akasha/pages-system/indexes/index/index.page-type.ts"
 

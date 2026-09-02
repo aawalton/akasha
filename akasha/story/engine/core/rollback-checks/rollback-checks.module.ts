@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const rollbackChecks = {
   id: "01a05b71-e544-73b6-ac85-91cb6d84209e",

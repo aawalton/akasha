@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const checkNumeric = {
   id: "01a06137-f967-7ff4-a7da-b8e750de7c13",

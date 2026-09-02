@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const markSchema = {
   id: "01a05b55-e06e-7c35-ae5b-23e9ba1006ae",

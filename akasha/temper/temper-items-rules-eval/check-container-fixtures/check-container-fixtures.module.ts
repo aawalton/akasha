@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const checkContainerFixtures = {
   id: "01a06137-f963-75d4-b14c-bdaa8c6693a8",

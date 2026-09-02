@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const worldAndGuildSkillLines = {
   id: "01a0608a-c137-75af-827c-6304cca38915",

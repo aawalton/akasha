@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const panelFilterBinding = {
   id: "01a0614b-6736-723e-b829-79279bb14e49",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const destinationChainTypes = {
   id: "01a06100-3beb-7cbe-8efb-ecf0935f3720",

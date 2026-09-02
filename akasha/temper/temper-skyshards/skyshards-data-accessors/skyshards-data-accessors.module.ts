@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const skyshardsDataAccessors = {
   id: "01a061a8-9c64-7315-84d6-a5e234bc9030",

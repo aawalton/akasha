@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const requiredSkillLinesFilterTypes = {
   id: "01a060d9-44cb-7469-95e8-03afb51f0719",

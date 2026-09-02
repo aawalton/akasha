@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lorebooksCallbacks = {
   id: "01a06194-be3e-7943-8b98-427f25b132c8",

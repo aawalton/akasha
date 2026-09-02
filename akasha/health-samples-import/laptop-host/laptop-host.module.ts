@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const laptopHost = {
   id: "01a05c14-b119-7003-ac6e-29f5219a020b",

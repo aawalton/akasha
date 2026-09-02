@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const esoIconUrl = {
   id: "01a06070-82e2-7a00-a219-f0b301e6b11d",

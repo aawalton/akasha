@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const locationClassify = {
   id: "01a060d9-498c-776f-ae38-08519b2ea266",

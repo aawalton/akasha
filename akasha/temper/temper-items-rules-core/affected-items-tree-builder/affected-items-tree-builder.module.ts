@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const affectedItemsTreeBuilder = {
   id: "01a06276-e3e7-7896-a7ba-97936d3ea281",

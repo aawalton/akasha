@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionArmorWeights = {
   id: "01a06108-0763-7147-bd41-21baa914acb5",

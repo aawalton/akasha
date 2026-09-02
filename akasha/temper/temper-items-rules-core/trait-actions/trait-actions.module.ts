@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const traitActions = {
   id: "01a06100-3c00-7c60-a2f3-ea058876bbef",

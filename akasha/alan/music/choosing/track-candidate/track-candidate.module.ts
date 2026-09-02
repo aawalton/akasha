@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const trackCandidate = {
   id: "01a06281-4d9d-7003-a5cb-de0f475a7e60",

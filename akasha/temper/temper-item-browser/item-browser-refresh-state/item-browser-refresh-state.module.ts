@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const itemBrowserRefreshState = {
   id: "01a06178-3720-7e83-88c6-78c7e23cbd63",

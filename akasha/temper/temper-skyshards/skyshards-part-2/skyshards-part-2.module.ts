@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const skyshardsPart2 = {
   id: "01a061a8-9c68-7dbc-9cfd-2233e1f9d277",

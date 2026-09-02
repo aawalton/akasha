@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const usZoneOffset = {
   id: "01a05c77-31e6-7877-b124-3f103fd4ac3d",

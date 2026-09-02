@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { BundleId } from "../ios-app/properties/bundle-id.text-property.ts"
+import type { BundleId } from "../ios-apps/properties/bundle-id.text-property.ts"
 import type { ComponentSlugs } from "./properties/component-slugs.relation-property.ts"
 import type { Entitlements } from "./properties/entitlements.file-property.ts"
 import type { InfoPlist } from "./properties/info-plist.file-property.ts"

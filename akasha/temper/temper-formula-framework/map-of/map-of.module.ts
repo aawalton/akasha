@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const mapOf = {
   id: "01a06070-82e2-772b-ac53-14897433979c",

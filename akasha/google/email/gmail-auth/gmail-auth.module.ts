@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const gmailAuth = {
   id: "01a05c0e-372e-77e5-9829-8e3c9ce333ef",

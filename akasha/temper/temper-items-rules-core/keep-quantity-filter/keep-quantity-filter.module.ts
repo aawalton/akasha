@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const keepQuantityFilter = {
   id: "01a06100-3bf1-7a3f-9e81-b21c96e8c7af",

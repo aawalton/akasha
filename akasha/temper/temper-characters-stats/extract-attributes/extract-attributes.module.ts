@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const extractAttributes = {
   id: "01a06271-abcf-733d-97d7-0720363ba8d2",

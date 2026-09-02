@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const traitsFilter = {
   id: "01a0615c-1e11-7b74-a805-3a2271d63ffb",

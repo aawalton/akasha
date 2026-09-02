@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const assembleInventory = {
   id: "01a060c5-3c1c-7a77-9224-6e18bed0f40c",

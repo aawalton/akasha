@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const populationBound = {
   id: "01a06287-7841-72c9-bcad-ce7b9ecfcd04",

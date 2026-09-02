@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const spotifyFetching = {
   id: "01a06261-dc1d-700f-a5c9-3bfc9c2b5371",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const targetQuantityFilter = {
   id: "01a06100-3c00-7f25-8688-74ce5d924b58",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionGearShoppingBridge = {
   id: "01a060cf-b0b2-743e-9d82-ea94a110b9cb",

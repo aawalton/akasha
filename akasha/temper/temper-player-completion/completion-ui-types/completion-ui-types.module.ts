@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionUiTypes = {
   id: "01a06121-f0d6-7727-b05d-aa9ca5f7c0f6",

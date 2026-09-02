@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const browseListings = {
   id: "01a060a7-02f2-748c-b8d5-e1c65820155b",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const requireDefined = {
   id: "01a06057-3679-7dd4-b797-e40ad426b9dd",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const itemBrowserTooltipExtension = {
   id: "01a06178-3722-761a-a485-c7c7a934b42e",

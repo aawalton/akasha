@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const searchRangeValueParse = {
   id: "01a0613a-e0ac-785c-a9b6-1aa6dca2564d",

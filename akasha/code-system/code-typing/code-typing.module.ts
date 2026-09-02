@@ -1,4 +1,4 @@
-import type { Module } from "../module/module.page-type.ts"
+import type { Module } from "../modules/module.page-type.ts"
 
 export const codeTyping = {
   id: "01a058ec-4a71-7000-9c3e-6b1f0a2d4e55",

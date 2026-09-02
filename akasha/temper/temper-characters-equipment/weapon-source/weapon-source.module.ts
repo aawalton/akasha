@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const weaponSource = {
   id: "01a0616f-8e1a-75a8-85c6-c316865f042b",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lorebooksPinsInit = {
   id: "01a06194-be44-76a5-a6bd-f7929f4af656",

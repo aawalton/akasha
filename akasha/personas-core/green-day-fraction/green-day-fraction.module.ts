@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const greenDayFraction = {
   id: "01a05b70-a58c-7b22-84e5-578b0088bcf5",

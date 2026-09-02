@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const savedVariablesAccessor = {
   id: "01a06071-0c79-73ce-a434-c3b18ac668a1",

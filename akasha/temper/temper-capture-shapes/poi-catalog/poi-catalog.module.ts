@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const poiCatalog = {
   id: "01a0604d-239f-7a9e-93f5-6776a2876885",

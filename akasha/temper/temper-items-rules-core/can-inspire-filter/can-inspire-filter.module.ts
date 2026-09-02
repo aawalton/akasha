@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const canInspireFilter = {
   id: "01a06100-3be6-79c6-a993-675a57105c50",

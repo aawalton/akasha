@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const sessionRefresh = {
   id: "01a05c97-8af7-7b0e-b1d4-de7dac00edd4",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const processEnding = {
   id: "01a05d02-889b-7af1-bb37-7f74754eefe1",

@@ -3,7 +3,7 @@ import { existsSync, readFileSync } from "node:fs"
 // Relative to the checkout `getRepoRoot` names, and written the way
 // `repoFilesAt` writes it: a caller matches these against that listing, and a
 // path spelled to reach the same file by another route matches none of it.
-const AKASHA = "akasha/code-system/ios-app"
+const AKASHA = "akasha/code-system/ios-apps"
 
 // Alan's own seam parts, and the parts every shell shares. A sourced part is
 // found by slug in one of these, so which of the two it stands in is not
@@ -20,7 +20,8 @@ export const ALANWALTON_IOS_SEAM_LABEL = "the alanwalton iOS native seam"
 // `. "$SOME_DIR/<slug>/<slug>.shell-script.shell.sh"` — the one shape a shell
 // script page's file is named in, so the slug is enough to find the file and
 // the variable holding the directory need not be interpreted.
-const SOURCING_RE = /^\.\s+"\$[A-Za-z_][A-Za-z0-9_]*\/([a-z0-9-]+)\/\1\.shell-script\.shell\.sh"\s*$/gm
+const SOURCING_RE =
+  /^\.\s+"\$[A-Za-z_][A-Za-z0-9_]*\/([a-z0-9-]+)\/\1\.shell-script\.shell\.sh"\s*$/gm
 
 function locate(repoRoot: string, slug: string, sourcedBy: string): string {
   for (const dir of SHELL_SCRIPT_DIRS) {

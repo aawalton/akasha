@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const joinPath = {
   id: "01a05c94-2bff-7734-8187-49712a3b2626",

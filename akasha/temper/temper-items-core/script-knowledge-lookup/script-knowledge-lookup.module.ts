@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const scriptKnowledgeLookup = {
   id: "01a060e6-c3e6-7bba-973c-033c3a1970b5",

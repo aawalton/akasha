@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const checkAddonDependencyCycle = {
   id: "01a06297-7f6a-7484-a95a-2bbf183e482d",

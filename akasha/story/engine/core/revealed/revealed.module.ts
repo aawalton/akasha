@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const revealed = {
   id: "01a05b71-e544-7b78-bd2c-73da9bb84dcc",

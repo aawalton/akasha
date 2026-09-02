@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const requireMatch = {
   id: "01a05c94-2c02-7ce2-a9f5-31b565b1f8da",

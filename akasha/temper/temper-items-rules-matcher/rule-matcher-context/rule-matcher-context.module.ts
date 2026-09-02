@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const ruleMatcherContext = {
   id: "01a06281-4830-7015-96c4-299ce28f446e",

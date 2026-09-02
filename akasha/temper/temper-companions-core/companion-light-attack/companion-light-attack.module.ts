@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionLightAttack = {
   id: "01a06152-c2ca-7b83-b9c0-91952d593058",

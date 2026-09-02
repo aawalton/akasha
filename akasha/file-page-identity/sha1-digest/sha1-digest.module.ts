@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const sha1Digest = {
   id: "01a05d42-bbcb-7988-8b8e-e0a7b0f48b07",

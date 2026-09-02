@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const itemBrowserSavedVars = {
   id: "01a06178-3720-798a-86f6-dde1d90e659e",

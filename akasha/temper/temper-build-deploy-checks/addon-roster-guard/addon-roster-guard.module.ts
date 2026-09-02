@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const addonRosterGuard = {
   id: "01a06287-7841-7049-814e-e0e562320460",

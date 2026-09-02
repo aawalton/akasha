@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionCompanionQuestActionability = {
   id: "01a06121-f0d1-7a40-bb2f-7378186e50e0",

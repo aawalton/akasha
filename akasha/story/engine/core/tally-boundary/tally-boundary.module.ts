@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const tallyBoundary = {
   id: "01a05b71-e544-7465-a8e6-f573101bde13",

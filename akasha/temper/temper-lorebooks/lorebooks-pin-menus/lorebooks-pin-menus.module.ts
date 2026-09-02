@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lorebooksPinMenus = {
   id: "01a06194-be43-7b3e-ac49-3cd39ff301a0",

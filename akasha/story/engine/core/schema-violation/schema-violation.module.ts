@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const schemaViolation = {
   id: "01a05bc8-6883-7d97-b265-b768554225f6",

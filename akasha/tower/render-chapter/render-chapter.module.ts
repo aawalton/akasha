@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const renderChapter = {
   id: "01a05bc6-fa4a-700e-b0d2-d86d252a6ff5",

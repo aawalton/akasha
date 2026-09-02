@@ -6,7 +6,7 @@ runner-name: widget-payload-shape-mirror
 script: akasha:infra/cluster-checks/src/checks/check-widget-payload-shape-mirror.ts
 dispatch-node-types:
   - kind: swift-file
-    under: akasha/code-system/ios-component/pages
+    under: akasha/code-system/ios-components/pages
 slug: cluster-check-widget-payload-shape-mirror
 domain-parent-slug: page-type/cluster-check
 ---

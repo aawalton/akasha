@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const selectMorphSuggestions = {
   id: "01a061c7-0738-7680-9047-39f48a26053e",

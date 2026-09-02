@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const tallyCatalog = {
   id: "01a05b71-e544-7ef9-9d6d-553471113234",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const caldataSchema = {
   id: "01a05c22-7bc8-7000-aa11-74d2eaf3b06a",

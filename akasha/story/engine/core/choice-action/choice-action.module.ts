@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const choiceAction = {
   id: "01a05b71-e543-7a3b-bf58-284e81073a14",

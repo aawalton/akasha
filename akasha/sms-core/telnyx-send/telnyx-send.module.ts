@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const telnyxSend = {
   id: "01a05b6f-999d-731e-a182-ed95ac7ecc35",

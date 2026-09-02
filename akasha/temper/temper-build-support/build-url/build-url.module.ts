@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const buildUrl = {
   id: "01a0609f-53f9-74de-9c4c-1475434e5482",

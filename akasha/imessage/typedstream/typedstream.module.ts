@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const typedstream = {
   id: "01a05bc9-4308-7002-8ad9-2d99f9097e39",

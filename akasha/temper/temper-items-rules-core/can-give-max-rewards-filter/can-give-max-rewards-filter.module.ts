@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const canGiveMaxRewardsFilter = {
   id: "01a06100-3be5-777a-bd80-406d92d501f0",

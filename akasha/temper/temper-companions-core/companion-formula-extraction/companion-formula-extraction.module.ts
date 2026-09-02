@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionFormulaExtraction = {
   id: "01a06152-c2c8-7340-b909-f5fd7c81e388",

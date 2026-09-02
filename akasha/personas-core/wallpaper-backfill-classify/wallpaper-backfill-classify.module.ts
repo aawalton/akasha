@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const wallpaperBackfillClassify = {
   id: "01a05b70-a58d-7bfd-877a-45b85a85d661",

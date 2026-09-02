@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const itemTypeConstants = {
   id: "01a06127-6646-7876-957d-a9127eb6ef26",

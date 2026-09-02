@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const codeOutsideAkasha = {
   id: "01a060ed-1848-75df-a934-145b80b41e6e",

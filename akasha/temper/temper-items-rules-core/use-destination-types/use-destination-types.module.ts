@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const useDestinationTypes = {
   id: "01a060d9-44ce-76b7-8295-b4cd3f803801",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const extractJewelry = {
   id: "01a06271-abcf-7c8e-80d7-1220d9066f3c",

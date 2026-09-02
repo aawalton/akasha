@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionProgress = {
   id: "01a0607a-9cbc-7106-abcd-353786bf9f09",

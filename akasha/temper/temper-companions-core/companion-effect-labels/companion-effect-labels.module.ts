@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionEffectLabels = {
   id: "01a06110-abe3-70be-9801-313e54937033",

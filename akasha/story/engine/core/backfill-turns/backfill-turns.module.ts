@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const backfillTurns = {
   id: "01a05b71-e543-755f-8fd1-ab8e2e5074d5",

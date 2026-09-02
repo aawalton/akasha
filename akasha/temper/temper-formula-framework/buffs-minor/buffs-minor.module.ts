@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const buffsMinor = {
   id: "01a06070-82de-72df-9b96-625910fe5e38",

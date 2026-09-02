@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionTraitOptimizer = {
   id: "01a06152-c2d8-7ee7-bc88-0ef2a11913d0",

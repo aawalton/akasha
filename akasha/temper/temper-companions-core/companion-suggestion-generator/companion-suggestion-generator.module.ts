@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionSuggestionGenerator = {
   id: "01a06152-c2d6-7af6-bf3c-a6d3324e80f0",

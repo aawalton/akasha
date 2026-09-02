@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const collectiblesCatalogCapture = {
   id: "01a060e2-3183-736c-b68e-33f414a5785c",

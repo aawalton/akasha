@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const activeCalories = {
   id: "01a05bc7-9129-7009-bcbc-7874a1897c8b",

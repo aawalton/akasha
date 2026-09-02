@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const dungeonChampionSavedVars = {
   id: "01a060f9-bad8-7db9-82ae-dfa276bad382",

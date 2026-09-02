@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const combatMapping = {
   id: "01a05bc6-fa4a-700b-af5e-5b1aaed5213a",

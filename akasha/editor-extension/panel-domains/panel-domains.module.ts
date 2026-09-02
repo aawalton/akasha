@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const panelDomains = {
   id: "01a04e9f-4572-74d2-b19a-9fd2f81583eb",

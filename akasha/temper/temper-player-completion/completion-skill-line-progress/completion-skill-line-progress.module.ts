@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionSkillLineProgress = {
   id: "01a06279-3a00-7001-abfa-2b87b8b01e4e",

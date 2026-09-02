@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const skillPointSources = {
   id: "01a060ec-5851-77ac-a8f1-6163b058a0b4",

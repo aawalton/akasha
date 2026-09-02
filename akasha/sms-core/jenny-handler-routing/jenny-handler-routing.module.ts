@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const jennyHandlerRouting = {
   id: "01a05b6f-999d-7ee4-9338-23efa9356c53",

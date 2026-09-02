@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const towerPageSlugs = {
   id: "01a05bc6-fa4a-700c-928f-9eea89b4ecad",

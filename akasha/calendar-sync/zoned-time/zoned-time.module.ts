@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const zonedTime = {
   id: "01a05c22-7bc9-7000-a354-10e39d5cdc0b",

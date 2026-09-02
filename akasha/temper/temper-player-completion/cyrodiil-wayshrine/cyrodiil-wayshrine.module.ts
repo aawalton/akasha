@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const cyrodiilWayshrine = {
   id: "01a06108-2ff6-7cb8-bd42-e8fcd8be535a",

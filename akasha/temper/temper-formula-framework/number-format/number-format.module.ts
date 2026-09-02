@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const numberFormat = {
   id: "01a06070-82e3-7758-8aab-8b86b52f5188",

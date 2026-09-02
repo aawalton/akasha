@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionMountTrainingCompleteness = {
   id: "01a06108-2ff3-7f44-b36b-b96b671954b0",

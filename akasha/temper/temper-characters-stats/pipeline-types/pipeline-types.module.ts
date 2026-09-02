@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const pipelineTypes = {
   id: "01a06271-abce-78d0-8f13-e89bafa87c98",

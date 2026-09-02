@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const allianceWarSkillLines = {
   id: "01a0608a-c133-71ab-bf75-2e25200d8aeb",

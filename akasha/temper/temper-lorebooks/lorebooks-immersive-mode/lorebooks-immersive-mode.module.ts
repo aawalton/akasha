@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lorebooksImmersiveMode = {
   id: "01a06194-be40-7ab1-9c22-ab0f2705bcfa",

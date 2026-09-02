@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const stringAt = {
   id: "01a05cc9-029c-7f57-8f4e-de247a60828d",

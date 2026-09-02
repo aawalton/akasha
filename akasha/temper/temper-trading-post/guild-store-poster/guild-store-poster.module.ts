@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const guildStorePoster = {
   id: "01a060a9-5d59-7ff2-971b-202f4a680195",

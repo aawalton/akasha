@@ -1,4 +1,4 @@
-import type { EsoAddon } from "../../code-system/eso-addon/eso-addon.page-type.ts"
+import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.ts"
 
 export const temperCaptureSalesAddon = {
   id: "01a060e2-3181-7c02-be71-c63b5b648d5b",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lostTreasureItemCache = {
   id: "01a06141-8006-7afa-bffa-d75ac72301d7",

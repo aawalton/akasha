@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const searchToggleValueParse = {
   id: "01a0613a-e0b0-794d-988b-86cd2476f0a7",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const evaluator = {
   id: "01a06137-f96c-78f9-8a21-1e325a4be527",

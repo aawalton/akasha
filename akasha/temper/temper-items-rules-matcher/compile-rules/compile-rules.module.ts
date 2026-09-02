@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const compileRules = {
   id: "01a06151-370b-7db1-8ce0-836dab4a6093",

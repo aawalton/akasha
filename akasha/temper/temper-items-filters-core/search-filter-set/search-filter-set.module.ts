@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const searchFilterSet = {
   id: "01a0613a-e0a8-7cbc-ab1f-cfa2b3fa4abb",

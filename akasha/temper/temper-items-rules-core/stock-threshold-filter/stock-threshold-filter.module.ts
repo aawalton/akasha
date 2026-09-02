@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const stockThresholdFilter = {
   id: "01a06100-3bff-73e7-85b6-9e125fd40021",

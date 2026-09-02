@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const useDestinationContextBuilder = {
   id: "01a06100-3c01-7ef0-942b-121ee94162c9",

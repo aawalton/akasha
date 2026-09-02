@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const metricsData14 = {
   id: "01a06131-abb6-760b-9ff9-fca6d3e9125f",

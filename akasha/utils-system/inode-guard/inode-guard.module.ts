@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const inodeGuard = {
   id: "01a05c67-00ad-7fd7-8303-5ff4a8e492b2",

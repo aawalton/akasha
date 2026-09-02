@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const planArchive = {
   id: "01a05bc6-fa4a-700d-8443-1f8961881e20",

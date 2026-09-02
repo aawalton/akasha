@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const checkContainer = {
   id: "01a06137-f963-7bd7-a68f-851bd0289e6b",

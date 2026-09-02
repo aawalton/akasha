@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const setIdsPToZ = {
   id: "01a060d5-2f13-7e21-ba0a-cad84c827372",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const brandedId = {
   id: "01a06070-82dc-733f-89d3-2cfa18cb46bd",

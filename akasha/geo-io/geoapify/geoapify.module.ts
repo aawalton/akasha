@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const geoapify = {
   id: "01a05c48-deeb-7002-a7d6-912bcaf143d2",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionRecipeProgress = {
   id: "01a06121-f0d4-7ab6-9220-119f03765b07",

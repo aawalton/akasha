@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const characterStateSchema = {
   id: "01a06279-228f-7f7c-aad1-a8a7f5ac918c",

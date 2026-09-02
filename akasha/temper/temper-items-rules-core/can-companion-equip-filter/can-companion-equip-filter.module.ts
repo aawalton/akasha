@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const canCompanionEquipFilter = {
   id: "01a06100-3be3-7f9c-94ec-fd44ada789d8",

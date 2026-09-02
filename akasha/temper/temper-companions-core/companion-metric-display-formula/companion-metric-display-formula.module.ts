@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionMetricDisplayFormula = {
   id: "01a06152-c2cb-7230-b589-bd7b8d4013b9",

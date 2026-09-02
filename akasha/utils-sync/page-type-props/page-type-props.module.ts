@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const pageTypeProps = {
   id: "01a05c6a-2bb4-735e-bfca-90ad75728a5e",

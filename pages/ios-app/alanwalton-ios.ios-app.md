@@ -11,15 +11,15 @@ display-name: alanwalton
 bundle-id: com.alanwalton.app
 widget-bundle-id: com.alanwalton.app.widgets
 development-team: M6AN6NM6FL
-native-shell-repo-path: akasha:akasha/code-system/ios-app/pages/alanwalton
-capacitor-config-repo-path: akasha:akasha/code-system/ios-app/pages/alanwalton/alanwalton.ios-app.capacitor-config.json
-shared-widget-repo-path: akasha:akasha/code-system/ios-component/pages
-own-widget-repo-path: akasha:akasha/code-system/ios-program/pages/alanwalton-widget
-seam-script: akasha:akasha/code-system/ios-app/pages/alanwalton/shell-scripts/alanwalton-ios-seam/alanwalton-ios-seam.shell-script.shell.sh
-sim-build-script: akasha:akasha/code-system/ios-app/shell-scripts/build-sim/build-sim.shell-script.shell.sh
-entitlements-repo-path: akasha:akasha/code-system/ios-program/pages/alanwalton-app/alanwalton-app.ios-program.entitlements.entitlements
+native-shell-repo-path: akasha:akasha/code-system/ios-apps/pages/alanwalton
+capacitor-config-repo-path: akasha:akasha/code-system/ios-apps/pages/alanwalton/alanwalton.ios-app.capacitor-config.json
+shared-widget-repo-path: akasha:akasha/code-system/ios-components/pages
+own-widget-repo-path: akasha:akasha/code-system/ios-programs/pages/alanwalton-widget
+seam-script: akasha:akasha/code-system/ios-apps/pages/alanwalton/shell-scripts/alanwalton-ios-seam/alanwalton-ios-seam.shell-script.shell.sh
+sim-build-script: akasha:akasha/code-system/ios-apps/shell-scripts/build-sim/build-sim.shell-script.shell.sh
+entitlements-repo-path: akasha:akasha/code-system/ios-programs/pages/alanwalton-app/alanwalton-app.ios-program.entitlements.entitlements
 icon-repo-path: akasha:native-shell/alanwalton/ios-icon/AppIcon-1024.png
-www-stage-script: akasha:akasha/code-system/ios-app/pages/alanwalton/shell-scripts/alanwalton-stage-app/alanwalton-stage-app.shell-script.shell.sh
+www-stage-script: akasha:akasha/code-system/ios-apps/pages/alanwalton/shell-scripts/alanwalton-stage-app/alanwalton-stage-app.shell-script.shell.sh
 spa-source-repo-path: alanwalton/web
 web-env-path: alanwalton/web/.env.local
 asc-capabilities:

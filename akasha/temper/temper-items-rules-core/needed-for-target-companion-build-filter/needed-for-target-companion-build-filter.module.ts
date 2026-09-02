@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const neededForTargetCompanionBuildFilter = {
   id: "01a06100-3bf4-72f6-a7c9-02cf378c255f",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionAccountLoreUnion = {
   id: "01a06121-f0cf-76af-8eef-3e43cfd843c9",

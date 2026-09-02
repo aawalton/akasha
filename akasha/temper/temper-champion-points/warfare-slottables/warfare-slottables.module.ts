@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const warfareSlottables = {
   id: "01a06076-1b68-74c9-9a13-74b082065456",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const potionsDropped = {
   id: "01a06076-1b6c-72e5-bf57-ecfd1360e714",

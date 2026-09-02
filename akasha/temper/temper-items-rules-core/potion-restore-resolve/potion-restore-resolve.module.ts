@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const potionRestoreResolve = {
   id: "01a060d9-44cb-7685-bea5-8baa5a8a8943",

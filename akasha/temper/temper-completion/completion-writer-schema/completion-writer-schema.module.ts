@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionWriterSchema = {
   id: "01a0607a-9cbc-744c-801a-ac572d86a811",

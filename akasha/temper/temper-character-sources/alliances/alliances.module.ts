@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const alliances = {
   id: "01a060ea-ac5c-7ddc-8beb-424cc85a9621",

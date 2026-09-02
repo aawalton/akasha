@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const itemCategoryTreeData = {
   id: "01a060e4-b744-71f0-b4b8-d8c8e5c59bb3",

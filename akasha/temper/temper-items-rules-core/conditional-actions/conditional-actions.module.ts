@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const conditionalActions = {
   id: "01a06100-3be9-7bf7-90df-7f2075a39e68",

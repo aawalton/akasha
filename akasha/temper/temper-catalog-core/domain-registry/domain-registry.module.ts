@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const domainRegistry = {
   id: "01a06071-0c79-71aa-8f49-de4128d97c66",

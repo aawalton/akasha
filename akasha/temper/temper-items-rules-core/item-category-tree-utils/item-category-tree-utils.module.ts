@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const itemCategoryTreeUtils = {
   id: "01a0615c-1e10-735d-82f0-7a28eff84e0f",

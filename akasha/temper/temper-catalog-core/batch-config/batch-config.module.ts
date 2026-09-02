@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const batchConfig = {
   id: "01a06071-0c77-7e96-8044-2bad3e05b280",

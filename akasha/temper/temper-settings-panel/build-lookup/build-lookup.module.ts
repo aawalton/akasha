@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const buildLookup = {
   id: "01a06053-3636-7bdb-8f78-5302cab5662b",

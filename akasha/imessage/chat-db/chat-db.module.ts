@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const chatDb = {
   id: "01a05bc9-4308-7004-be2b-a24f942f8823",

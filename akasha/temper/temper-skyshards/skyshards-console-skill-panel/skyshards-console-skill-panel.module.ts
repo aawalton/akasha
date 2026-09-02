@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const skyshardsConsoleSkillPanel = {
   id: "01a061a8-9c62-7c2d-b960-8d2b3fb9ccda",

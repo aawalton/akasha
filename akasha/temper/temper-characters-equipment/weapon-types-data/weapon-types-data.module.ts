@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const weaponTypesData = {
   id: "01a0616f-8e15-7014-9996-52aebc4519b8",

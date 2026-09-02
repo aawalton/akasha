@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const esoCloneArtifacts = {
   id: "01a06297-7f6a-7b4f-8b63-338e820e7c30",

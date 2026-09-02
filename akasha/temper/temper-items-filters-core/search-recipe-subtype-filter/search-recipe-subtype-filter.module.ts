@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const searchRecipeSubtypeFilter = {
   id: "01a0613a-e0ad-73d1-95f0-27bb2a879d89",

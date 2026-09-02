@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionsBaseSource = {
   id: "01a06152-c2d1-730e-a4ec-8f2ee2d4c798",

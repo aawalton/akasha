@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const stockDestinationTypes = {
   id: "01a060d9-44cd-7492-b42b-190488055dda",

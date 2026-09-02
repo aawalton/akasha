@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const computeStockGroups = {
   id: "01a06137-f969-7f2a-b975-82f7a16eb18d",

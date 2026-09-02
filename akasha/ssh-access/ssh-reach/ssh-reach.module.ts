@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const sshReach = {
   id: "01a05c2f-0f03-7c3a-84db-8888d5bebc83",

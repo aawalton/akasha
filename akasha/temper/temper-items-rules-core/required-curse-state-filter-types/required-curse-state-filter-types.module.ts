@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const requiredCurseStateFilterTypes = {
   id: "01a060d9-44cb-78f1-8dc5-2403ee402ba2",

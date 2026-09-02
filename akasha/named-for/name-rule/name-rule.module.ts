@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const nameRule = {
   id: "01a05c53-bc6c-7688-b77d-c73058552b04",

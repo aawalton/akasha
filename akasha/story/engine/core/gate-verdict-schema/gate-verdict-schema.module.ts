@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const gateVerdictSchema = {
   id: "01a05b71-e543-77c1-a225-884ceec89257",

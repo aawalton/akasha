@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionArmorSlots = {
   id: "01a06108-0761-7fc9-97df-bfad364def9c",

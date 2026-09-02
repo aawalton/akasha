@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const checkStackFullness = {
   id: "01a06137-f969-733b-bff3-0c5160949134",

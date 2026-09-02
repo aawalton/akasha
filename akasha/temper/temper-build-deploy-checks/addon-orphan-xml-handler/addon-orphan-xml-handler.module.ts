@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const addonOrphanXmlHandler = {
   id: "01a062a8-e76a-77f5-a7f2-de80170b6c77",

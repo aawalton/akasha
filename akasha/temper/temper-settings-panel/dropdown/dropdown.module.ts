@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const dropdown = {
   id: "01a06053-3637-7cbf-af2a-2b25ec6eea55",

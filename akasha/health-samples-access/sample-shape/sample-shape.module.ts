@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const sampleShape = {
   id: "01a05bc7-9129-7001-9204-f43ce2046c31",

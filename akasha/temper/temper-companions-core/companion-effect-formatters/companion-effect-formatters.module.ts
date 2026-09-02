@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionEffectFormatters = {
   id: "01a06110-abe2-7eb7-80be-0dcee47ef954",

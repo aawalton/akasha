@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const applyInvalidations = {
   id: "01a06071-0c76-73c9-ae39-c266d45d6492",

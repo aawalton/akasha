@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const reconstructedFilter = {
   id: "01a06100-3bf7-7546-86af-79fe6f2c3a83",

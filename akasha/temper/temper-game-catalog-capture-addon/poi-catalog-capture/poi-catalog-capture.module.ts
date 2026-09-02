@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const poiCatalogCapture = {
   id: "01a060e2-3184-76cf-a0d0-62b8d40daca8",

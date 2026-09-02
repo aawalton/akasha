@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const grimoireTemplate = {
   id: "01a0617a-2c71-79f4-a4d5-74abd5b08c47",

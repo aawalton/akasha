@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const charactersAllianceRank = {
   id: "01a062d2-92a3-7001-b3e4-020158355e21",

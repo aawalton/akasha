@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const questSchema = {
   id: "01a05b71-e544-7f7a-9dc9-b1677b4e1fc6",

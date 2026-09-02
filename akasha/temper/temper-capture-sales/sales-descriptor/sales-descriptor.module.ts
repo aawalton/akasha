@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const salesDescriptor = {
   id: "01a0608a-15b3-7c39-bcf3-50e4681cd98f",

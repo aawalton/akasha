@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryItemClassifier = {
   id: "01a06151-370b-7703-ac80-b90c8331ef9a",

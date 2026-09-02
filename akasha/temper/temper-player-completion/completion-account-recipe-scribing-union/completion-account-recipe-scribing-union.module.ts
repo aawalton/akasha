@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const completionAccountRecipeScribingUnion = {
   id: "01a06121-f0d0-7909-91ae-6949dbbffa0f",

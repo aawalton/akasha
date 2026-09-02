@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const gameEngine = {
   id: "01a05b71-e543-7017-875a-4f041149fd46",

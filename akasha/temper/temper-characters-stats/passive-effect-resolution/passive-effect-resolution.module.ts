@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const passiveEffectResolution = {
   id: "01a06271-abcf-7fff-b5f2-bc2f13db5cbb",

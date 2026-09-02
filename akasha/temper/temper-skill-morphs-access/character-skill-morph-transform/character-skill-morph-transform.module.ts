@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const characterSkillMorphTransform = {
   id: "01a061e2-5e38-7b7a-b901-997e9017bd71",

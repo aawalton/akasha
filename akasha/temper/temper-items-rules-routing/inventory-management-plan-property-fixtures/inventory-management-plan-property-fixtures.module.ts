@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryManagementPlanPropertyFixtures = {
   id: "01a06289-2676-74b4-91ec-0643ccf4bba1",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const locationTypeData = {
   id: "01a060d9-4989-7621-819f-d8c567133ec6",

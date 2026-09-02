@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const inventoryNetWorth = {
   id: "01a060c5-3c21-7169-91d2-e88aa073a0ec",

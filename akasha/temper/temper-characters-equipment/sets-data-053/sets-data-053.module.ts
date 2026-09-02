@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const setsData053 = {
   id: "01a061a3-3080-7f8d-9dc4-f28670e955bd",

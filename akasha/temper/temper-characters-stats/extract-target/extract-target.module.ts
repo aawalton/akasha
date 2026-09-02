@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const extractTarget = {
   id: "01a06271-abcf-79be-9f97-349bee311cd5",

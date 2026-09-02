@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const lorebooksFilterFlags = {
   id: "01a06194-be40-7d3c-b4b0-aa869f088515",

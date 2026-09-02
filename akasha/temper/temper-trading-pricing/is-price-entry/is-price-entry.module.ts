@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const isPriceEntry = {
   id: "01a0609b-e59d-7da9-bc7e-7689f71e4f0f",

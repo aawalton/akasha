@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.ts"
 
 export const framework = {
   id: "01a05b70-a58c-7dfa-8e79-b79e338c724b",

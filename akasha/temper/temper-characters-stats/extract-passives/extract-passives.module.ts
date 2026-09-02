@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const extractPassives = {
   id: "01a06271-abcf-7c72-adb9-549ee5b23055",

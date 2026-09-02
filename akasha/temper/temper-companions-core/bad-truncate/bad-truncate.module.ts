@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const badTruncate = {
   id: "01a06110-abe0-7b62-9199-0042cb97c12f",

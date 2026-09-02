@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const calendarClient = {
   id: "01a05c02-c734-7867-9667-e2b5e7b76a25",

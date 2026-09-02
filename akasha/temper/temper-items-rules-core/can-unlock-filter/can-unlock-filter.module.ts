@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const canUnlockFilter = {
   id: "01a06100-3be8-751b-bf3a-5525027297a8",

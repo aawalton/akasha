@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const gmailAttachments = {
   id: "01a05c0e-3730-7187-8180-c05ac035233c",

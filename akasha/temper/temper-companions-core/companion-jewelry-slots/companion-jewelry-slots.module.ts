@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const companionJewelrySlots = {
   id: "01a06108-0768-71aa-84ff-35a84fc802c0",
