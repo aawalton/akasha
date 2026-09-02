@@ -27,6 +27,7 @@ export const temperSkillPointFinder = {
     "module/skill-point-finder-events",
     "module/skill-point-finder-init",
     "module/skill-point-finder-api",
+    "type-declaration/skill-point-finder-api-declarations",
     "type-declaration/skill-point-finder-controls",
     "type-declaration/skill-point-finder-string-ids",
   ],
