@@ -1,5 +1,6 @@
 import { realpathSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
+import { buildInfoAt, stamped, versionOf, writtenTo } from "@akasha/code-system/typing-keeping"
 import ts from "typescript"
 
 const TS = ".ts"
@@ -22,6 +23,7 @@ export const SETTINGS: ts.CompilerOptions = {
   target: ts.ScriptTarget.ESNext,
   skipLibCheck: true,
   jsx: ts.JsxEmit.ReactJSX,
+  incremental: true,
 }
 
 export type Reading = (at: string) => string | undefined
@@ -123,10 +125,14 @@ export function hostOver(root: string, read: Reading, every: readonly string[]):
       servedOf(root, resolve(path)) === null ? ts.sys.fileExists(path) : read(path) !== undefined,
     directoryExists: (path) => dirs.has(resolve(path)) || ts.sys.directoryExists(path),
     readFile: read,
+    writeFile: writtenTo,
+    createHash: versionOf,
     getSourceFile: (path, language) => {
-      if (insideOf(root, resolve(path)) === null) return base.getSourceFile(path, language)
+      if (insideOf(root, resolve(path)) === null) return stamped(base.getSourceFile(path, language))
       const body = read(path)
-      return body === undefined ? undefined : ts.createSourceFile(path, body, language, true)
+      return body === undefined
+        ? undefined
+        : stamped(ts.createSourceFile(path, body, language, true))
     },
   }
 }
@@ -146,15 +152,22 @@ export function readingOf(root: string, textOf: (path: string) => string | null)
 }
 
 export function programOver(root: string, roots: readonly string[], read: Reading): ts.Program {
-  return ts.createProgram({
+  const built = ts.createIncrementalProgram({
+    rootNames: roots.map((one) => join(root, one)),
+    options: { ...SETTINGS, tsBuildInfoFile: buildInfoAt(root, roots) },
+    host: hostOver(root, read, roots),
+  })
+  built.getSemanticDiagnostics()
+  built.emit()
+  return { ...built.getProgram(), getSemanticDiagnostics: built.getSemanticDiagnostics }
+}
+
+export function typingOver(root: string, roots: readonly string[], read: Reading): Typing {
+  const program = ts.createProgram({
     rootNames: roots.map((one) => join(root, one)),
     options: SETTINGS,
     host: hostOver(root, read, roots),
   })
-}
-
-export function typingOver(root: string, roots: readonly string[], read: Reading): Typing {
-  const program = programOver(root, roots, read)
   return {
     program,
     checker: program.getTypeChecker(),
