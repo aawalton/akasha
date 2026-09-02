@@ -7,13 +7,15 @@ export const measure = {
   definition: "the command saying what a fleet has spent of what it is allowed",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKindSlug: "change-mechanical",
   partSlugs: ["module/repo-measuring"],
   taking: [{ said: "<subject>", takes: "what to measure, which is `claude-accounts` or `repo`" }],
   helpNotes: [
     "the subject is the first word, and one call measures one subject.",
     "`claude-accounts` says what each account has spent of its five-hour and seven-day windows.",
-    "the numbers are read from the pages the upkeep service writes, and nothing here fetches.",
+    "each account's usage is read upstream first, and what is read lands beside that account.",
+    "reading usage costs nothing and starts no window.",
+    "renewing a token is the upkeep service's alone, so a lapsed account is passed over and named.",
     "the `>` names the account the picker would take right now.",
     "`repo` counts the files the checkout holds and the files that have arrived in akasha.",
     "`node_modules`, `.git` and `dist` are not counted, and a symbolic link is not a file.",
@@ -38,8 +40,29 @@ export const measure = {
       statement: "A root holding no akasha folder is refused rather than measured as none arrived.",
     },
     {
+      invariantKind: "departure",
+      statement: "What a fleet has spent is read upstream before the fleet is answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An account that was not refreshed is named under the numbers.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An account that was not refreshed is answered from what was already beside its page.",
+    },
+    {
       invariantKind: "absence",
-      statement: "A run only reads.",
+      statement: "A run renews no token.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A run starts no rate-limit window.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A run writes no value the commit holds.",
     },
   ],
 } as const satisfies Command

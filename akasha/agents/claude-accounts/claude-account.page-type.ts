@@ -41,6 +41,7 @@ export const claudeAccount = {
     "module/claude-account-oauth",
     "module/claude-account-pacing",
     "module/claude-account-reading",
+    "module/claude-account-refreshing",
     "module/claude-account-selection",
     "number-property/alias-index",
     "number-property/five-hour-percent-used",
