@@ -29,7 +29,6 @@ export const seat = {
   partSlugs: [
     "boolean-property/live-child",
     "boolean-property/on-call",
-    "boolean-property/open-question",
     "boolean-property/owed",
     "boolean-property/running-task",
     "boolean-property/send-in-flight",
