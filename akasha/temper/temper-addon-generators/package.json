@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/temper-addon-generators",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./addon-data-page": "./addon-data-page/addon-data-page.module.code.ts",
+    "./temper-alliance": "./temper-alliance/temper-alliance.module.code.ts",
+    "./web-rule-quality": "./web-rule-quality/web-rule-quality.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}

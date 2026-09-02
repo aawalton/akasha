@@ -45,6 +45,7 @@ export const temper = {
     "eso-addon/temper-lib-async",
     "workspace-package/temper-formula-framework",
     "workspace-package/temper-saved-vars-migration",
+    "workspace-package/temper-addon-generators",
   ],
   invariants: [
     {
