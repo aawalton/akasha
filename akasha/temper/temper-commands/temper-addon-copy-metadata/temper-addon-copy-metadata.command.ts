@@ -14,11 +14,16 @@ export const temperAddonCopyMetadata = {
   ],
   helpNotes: [
     "the load order is written first, then every non-Lua file the addon ships is copied.",
+    "naming no addon is refused rather than answered with a default, since a default would overwrite one particular addon's build output.",
     "an addon whose named markup file is absent gets an empty one written, because the game reads a named file rather than an optional one.",
     "a declared sibling folder that is missing refuses the call rather than being skipped.",
     "everything written is build output that no commit carries.",
   ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A call naming no addon is refused rather than answered with a default.",
+    },
     {
       invariantKind: "departure",
       statement: "The load order is written before anything is copied.",

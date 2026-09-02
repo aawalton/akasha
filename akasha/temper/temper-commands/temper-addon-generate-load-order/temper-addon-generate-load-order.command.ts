@@ -14,11 +14,16 @@ export const temperAddonGenerateLoadOrder = {
   ],
   helpNotes: [
     "the manifest is what the game reads to decide what to load and in what order.",
+    "naming no addon is refused rather than answered with a default, since a default would overwrite one particular addon's build output.",
     "the catalog addon alone takes its api version from the pages system rather than from its own declaration.",
     "that version is the lowest any active catalog domain declares its generator last ran for.",
     "both written files are build output that no commit carries.",
   ],
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A call naming no addon is refused rather than answered with a default.",
+    },
     {
       invariantKind: "departure",
       statement: "The manifest is written from the addon's own declaration.",
