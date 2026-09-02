@@ -209,4 +209,45 @@ describe("isCadwellCoordinateComplete", () => {
       expect(isCadwellCoordinateComplete(completion, coordinate)).toBe(true)
     }
   })
+
+  test("keeps two stops sharing a name apart by the zone each sits in", () => {
+    const catalog: readonly CadwellLevelCatalogEntry[] = [
+      {
+        title: "Shared",
+        displayOrder: 0,
+        cadwellStops: [
+          { zoneIndex: 1, zoneName: "Auridon", stopIndex: 1, poiName: "Wayrest" },
+          { zoneIndex: 2, zoneName: "Grahtwood", stopIndex: 1, poiName: "Wayrest" },
+        ],
+      },
+    ]
+    const stop = (completed: boolean) => ({
+      name: "Wayrest",
+      openingText: "",
+      closingText: "",
+      order: 0,
+      discovered: true,
+      completed,
+    })
+    const cadwell: CadwellProgress = {
+      progressionLevel: 0,
+      levels: {
+        0: {
+          zones: {
+            1: { name: "Auridon", description: "", order: 0, pois: { 1: stop(true) } },
+            2: { name: "Grahtwood", description: "", order: 1, pois: { 1: stop(false) } },
+          },
+        },
+      },
+    }
+    const completion = completionOf(cadwell)
+    const [inAuridon, inGrahtwood] = cadwellCoordinates(catalog)
+    if (inAuridon === undefined || inGrahtwood === undefined) {
+      throw new Error("fixture: coordinate missing")
+    }
+
+    expect(isCadwellCoordinateComplete(completion, inAuridon)).toBe(true)
+    expect(isCadwellCoordinateComplete(completion, inGrahtwood)).toBe(false)
+    expect(cadwellCompletedCount(completion, null, catalog)).toBe(1)
+  })
 })
