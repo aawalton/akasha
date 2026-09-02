@@ -1,21 +1,25 @@
 "use client"
 
-import { useAuth } from "@shared/auth/use-auth"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
-import type { Json } from "@akasha/utils-narrow/json-value"
-import { asRecord } from "@akasha/utils-narrow/as-record"
+import { getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
 } from "@akasha/temper-completion/completion-progress"
 import { parseSavedVariablesContent } from "@akasha/temper-completion-import/completion-saved-variables-parser"
-import { getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
-import { classifyCompletionImport } from "@temper/player-completion/completion-import-outcome"
-import { mergeAccountCompletionForward, mergeCharacterCompletionForward, mergeCompanionCompletionForward } from "@temper/player-completion/completion-merge-forward"
+import { classifyCompletionImport } from "@akasha/temper-player-completion/completion-import-outcome"
+import {
+  mergeAccountCompletionForward,
+  mergeCharacterCompletionForward,
+  mergeCompanionCompletionForward,
+} from "@akasha/temper-player-completion/completion-merge-forward"
+import { asRecord } from "@akasha/utils-narrow/as-record"
+import type { Json } from "@akasha/utils-narrow/json-value"
+import { useAuth } from "@shared/auth/use-auth"
 import { useCallback, useEffect, useRef, useState } from "react"
 import type { ImportResult } from "@/app/import/actions"
 
