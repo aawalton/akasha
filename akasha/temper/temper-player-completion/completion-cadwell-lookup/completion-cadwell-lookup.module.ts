@@ -6,6 +6,7 @@ export const completionCadwellLookup = {
   slug: "completion-cadwell-lookup",
   definition: "which stop of Cadwell's Almanac a character has finished",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
