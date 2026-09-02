@@ -13,10 +13,6 @@ export const workingMemory = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An intent never worked carries none.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Working memory is emptied when its intent leaves.",
     },
   ],
