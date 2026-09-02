@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/temper-equipment-kinds",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./armor-slots": "./armor-slots/armor-slots.module.code.ts",
+    "./armor-types": "./armor-types/armor-types.module.code.ts",
+    "./equipment-qualities": "./equipment-qualities/equipment-qualities.module.code.ts",
+    "./jewelry-slots": "./jewelry-slots/jewelry-slots.module.code.ts",
+    "./jewelry-types": "./jewelry-types/jewelry-types.module.code.ts",
+    "./weapon-bars": "./weapon-bars/weapon-bars.module.code.ts",
+    "./weapon-slots": "./weapon-slots/weapon-slots.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
