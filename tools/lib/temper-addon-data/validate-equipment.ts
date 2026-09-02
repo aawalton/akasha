@@ -1,5 +1,5 @@
 import { existsSync, readFileSync } from "node:fs"
-import { temperFile } from "./code-tree.ts"
+import { akashaTemperFile } from "./code-tree.ts"
 import { equipmentQualities } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import {
   companionArmorWeightIds,
@@ -7,6 +7,24 @@ import {
   companionWeaponTypeIds,
 } from "./code/companion-codec-indices.ts"
 import { z } from "zod"
+
+const EQUIPMENT_MAPPINGS = "temper-bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
+
+/**
+ * One committed index table, beside the ids temper holds for the same thing.
+ */
+interface Table {
+  readonly label: string
+  readonly held: readonly string[]
+  readonly what: string
+}
+
+const TABLES: readonly Table[] = [
+  { label: "ARMOR_TRAIT_TO_INDEX", held: companionTraitIds, what: "traits" },
+  { label: "QUALITY_TO_INDEX", held: equipmentQualities.ids, what: "qualities" },
+  { label: "ARMOR_TYPE_TO_INDEX", held: companionArmorWeightIds, what: "weights" },
+  { label: "WEAPON_TYPE_TO_INDEX", held: companionWeaponTypeIds, what: "weapon types" },
+]
 
 const RAW_MATCH_OR_NULL = z.array(z.string()).min(2).nullable()
 
@@ -23,12 +41,21 @@ function countSlots(body: string): number {
   return result.success ? result.data.length : 0
 }
 
+/**
+ * Whether every committed index table still holds one slot per id temper holds.
+ *
+ * A table this cannot find is a failure rather than a table with nothing to say. That is what went
+ * wrong before: the four tables moved into akasha, an unrelated file took the path this reads, and
+ * every comparison was skipped because its label was absent. `existsSync` passed, no label matched,
+ * `errors` stayed at zero, and the pipeline printed that all equipment mappings matched temper data
+ * over four comparisons none of which happened.
+ */
 export function validateEquipmentMappings(): boolean {
-  const equipmentPath = temperFile("game-characters-capture-addon/src/build/equipment-mappings.ts")
+  const equipmentPath = akashaTemperFile(EQUIPMENT_MAPPINGS)
 
   if (!existsSync(equipmentPath)) {
     console.error(
-      `  Equipment validation FAILED: committed mappings file not found at ${equipmentPath} — the resolve() path is stale (addon moved). Repoint validateEquipmentMappings().`
+      `  Equipment validation FAILED: committed mappings file not found at ${equipmentPath} — the resolve() path is stale (the module moved). Repoint EQUIPMENT_MAPPINGS.`
     )
     return false
   }
@@ -36,45 +63,19 @@ export function validateEquipmentMappings(): boolean {
   const content = z.string().parse(readFileSync(equipmentPath, "utf-8"))
   let errors = 0
 
-  const traitBody = parseEntriesBody(content, "ARMOR_TRAIT_TO_INDEX")
-  if (traitBody !== null) {
-    const traitCount = countSlots(traitBody)
-    if (traitCount !== companionTraitIds.length) {
+  for (const { label, held, what } of TABLES) {
+    const body = parseEntriesBody(content, label)
+    if (body === null) {
       console.error(
-        `  Equipment mismatch: ARMOR_TRAIT_TO_INDEX has ${traitCount} entries, temper has ${companionTraitIds.length} traits`
+        `  Equipment validation FAILED: ${equipmentPath} states no ${label}, so nothing was compared against temper's ${held.length} ${what}`
       )
       errors++
+      continue
     }
-  }
-
-  const qualityBody = parseEntriesBody(content, "QUALITY_TO_INDEX")
-  if (qualityBody !== null) {
-    const qualityCount = countSlots(qualityBody)
-    if (qualityCount !== equipmentQualities.ids.length) {
+    const found = countSlots(body)
+    if (found !== held.length) {
       console.error(
-        `  Equipment mismatch: QUALITY_TO_INDEX has ${qualityCount} entries, temper has ${equipmentQualities.ids.length} qualities`
-      )
-      errors++
-    }
-  }
-
-  const weightBody = parseEntriesBody(content, "ARMOR_TYPE_TO_INDEX")
-  if (weightBody !== null) {
-    const weightCount = countSlots(weightBody)
-    if (weightCount !== companionArmorWeightIds.length) {
-      console.error(
-        `  Equipment mismatch: ARMOR_TYPE_TO_INDEX has ${weightCount} entries, temper has ${companionArmorWeightIds.length} weights`
-      )
-      errors++
-    }
-  }
-
-  const weaponBody = parseEntriesBody(content, "WEAPON_TYPE_TO_INDEX")
-  if (weaponBody !== null) {
-    const weaponCount = countSlots(weaponBody)
-    if (weaponCount !== companionWeaponTypeIds.length) {
-      console.error(
-        `  Equipment mismatch: WEAPON_TYPE_TO_INDEX has ${weaponCount} entries, temper has ${companionWeaponTypeIds.length} weapon types`
+        `  Equipment mismatch: ${label} has ${found} entries, temper has ${held.length} ${what}`
       )
       errors++
     }

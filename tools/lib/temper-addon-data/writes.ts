@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { built } from "./failing-alone.ts"
 import type { AddonDataPages } from "./addon-data-pages.ts"
 import { buildAddonDataWritesAlchemy } from "./writes/alchemy.ts"
 import { buildAddonDataWritesCodec } from "./writes/codec.ts"
@@ -40,5 +41,5 @@ export function buildAddonDataWrites(
   p: AddonDataPages,
   w: AddonDataWrite = writeToDisk
 ): readonly Promise<number>[] {
-  return ADDON_DATA_SECTIONS.flatMap(([, build]) => build(p, w))
+  return ADDON_DATA_SECTIONS.flatMap(([name, build]) => built(name, build, p, w))
 }

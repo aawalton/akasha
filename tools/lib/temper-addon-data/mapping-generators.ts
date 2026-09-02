@@ -12,6 +12,7 @@ import { generateRaceMappings } from "./generators/race-mappings.ts"
 import { generateScribingMappings } from "./generators/scribing-mappings.ts"
 import { generateSetMappings } from "./generators/set-mappings.ts"
 import { generateSkillLineMappings } from "./generators/skill-line-mappings.ts"
+import { rendered } from "./failing-alone.ts"
 import { TEMPER_CHARACTERS_CAPTURE_OUTPUT_DIR } from "./output-dirs.ts"
 import { type AddonDataWrite, writeToDisk } from "./writes.ts"
 
@@ -37,7 +38,9 @@ export function buildMappingGeneratorWrites(
 ): readonly Promise<number>[] {
   const writes: Promise<number>[] = []
   for (const { generate, filename } of MAPPING_GENERATORS) {
-    writes.push(w(TEMPER_CHARACTERS_CAPTURE_OUTPUT_DIR, `${filename}.generated.ts`, generate()))
+    writes.push(
+      rendered(w, TEMPER_CHARACTERS_CAPTURE_OUTPUT_DIR, `${filename}.generated.ts`, generate)
+    )
   }
   return writes
 }
