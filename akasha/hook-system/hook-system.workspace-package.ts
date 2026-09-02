@@ -14,6 +14,7 @@ export const hookSystem = {
     "module/hook-answer",
     "module/hook-judging",
     "module/hook-payload",
+    "module/hook-reaching",
     "module/path-showing",
     "module/settling",
     "module/shell-calls",
@@ -22,6 +23,14 @@ export const hookSystem = {
     {
       invariantKind: "departure",
       statement: "A hook stands in the akasha folder and is registered outside the akasha folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hook is registered by the name its page carries rather than by its path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What that name reaches is worked out at the call rather than at the spawn.",
     },
     {
       invariantKind: "departure",
