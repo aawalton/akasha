@@ -13,6 +13,11 @@ export const temperWeb = {
   partSlugs: [
     "stylesheet/temper-web-look",
     "module/addons-bundle-dir",
+    "module/player-settings",
+    "module/temper-declared-effects",
+    "module/temper-pages-resolver",
+    "module/use-build-sync",
+    "module/use-import-error-toast",
     "module/answer-ask",
     "module/answer-page-types",
     "module/answer-page-write",
