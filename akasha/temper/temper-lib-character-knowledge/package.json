@@ -9,6 +9,11 @@
     "./knowledge-string-ids": "./knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts",
     "./knowledge-types": "./knowledge-types/knowledge-types.module.code.ts",
     "./knowledge-shape": "./knowledge-shape/knowledge-shape.module.code.ts",
-    "./knowledge-casts": "./knowledge-casts/knowledge-casts.module.code.ts"
+    "./knowledge-casts": "./knowledge-casts/knowledge-casts.module.code.ts",
+    "./knowledge-lccc-codec": "./knowledge-lccc-codec/knowledge-lccc-codec.module.code.ts",
+    "./knowledge-lccc-color": "./knowledge-lccc-color/knowledge-lccc-color.module.code.ts",
+    "./knowledge-lccc-util-tables": "./knowledge-lccc-util-tables/knowledge-lccc-util-tables.module.code.ts",
+    "./knowledge-lccc-util": "./knowledge-lccc-util/knowledge-lccc-util.module.code.ts",
+    "./knowledge-lccc": "./knowledge-lccc/knowledge-lccc.module.code.ts"
   }
 }

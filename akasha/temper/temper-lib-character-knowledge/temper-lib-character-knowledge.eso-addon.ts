@@ -12,6 +12,11 @@ export const temperLibCharacterKnowledge = {
     "module/knowledge-types",
     "module/knowledge-shape",
     "module/knowledge-casts",
+    "module/knowledge-lccc-codec",
+    "module/knowledge-lccc-color",
+    "module/knowledge-lccc-util-tables",
+    "module/knowledge-lccc-util",
+    "module/knowledge-lccc",
   ],
   invariants: [
     {
