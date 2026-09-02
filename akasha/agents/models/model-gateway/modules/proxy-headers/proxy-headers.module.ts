@@ -41,11 +41,11 @@ export const proxyHeaders = {
       statement: "Nothing here adds a header that did not arrive.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A response drops every hop-by-hop header.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A response carrying several `set-cookie` headers copies every one.",
     },
   ],

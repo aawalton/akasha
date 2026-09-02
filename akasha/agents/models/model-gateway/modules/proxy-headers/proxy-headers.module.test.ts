@@ -91,3 +91,35 @@ test("nothing here adds a header that did not arrive", () => {
   expect(namesOf(copyRequestHeaders(requestWith({})))).toEqual([])
   expect(namesOf(copyResponseHeaders(responseWith({})))).toEqual([])
 })
+
+test("a response drops every hop-by-hop header", () => {
+  const res = new Response("body", {
+    headers: [
+      ["connection", "close"],
+      ["upgrade", "h2c"],
+      ["te", "trailers"],
+      ["proxy-authenticate", "Basic"],
+      ["x-kept", "yes"],
+    ],
+  })
+  const out = copyResponseHeaders(res)
+  expect(out.get("connection")).toBeNull()
+  expect(out.get("upgrade")).toBeNull()
+  expect(out.get("te")).toBeNull()
+  expect(out.get("proxy-authenticate")).toBeNull()
+  expect(out.get("x-kept")).toBe("yes")
+})
+
+test("a response carrying several set-cookie headers copies every one", () => {
+  const res = new Response("body", {
+    headers: [
+      ["set-cookie", "a=1"],
+      ["set-cookie", "b=2"],
+    ],
+  })
+  const out = copyResponseHeaders(res)
+  const cookies = [...out].filter(([name]) => name === "set-cookie").map(([, value]) => value)
+  expect(cookies.length).toBe(2)
+  expect(cookies.join("; ")).toContain("a=1")
+  expect(cookies.join("; ")).toContain("b=2")
+})
