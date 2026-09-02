@@ -94,6 +94,9 @@ export const temperItemsRulesCore = {
     "module/transmuted-filter",
     "module/use-destination-context-builder",
     "module/value-filter",
+    "module/inventory-rule-mapping",
+    "module/item-category-tree-utils",
+    "module/traits-filter",
   ],
   invariants: [
     {

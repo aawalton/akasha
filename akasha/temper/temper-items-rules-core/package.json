@@ -38,12 +38,14 @@
     "./inventory-rule-controlled": "./inventory-rule-controlled/inventory-rule-controlled.module.code.ts",
     "./inventory-rule-engine": "./inventory-rule-engine/inventory-rule-engine.module.code.ts",
     "./inventory-rule-goals": "./inventory-rule-goals/inventory-rule-goals.module.code.ts",
+    "./inventory-rule-mapping": "./inventory-rule-mapping/inventory-rule-mapping.module.code.ts",
     "./inventory-rule-matcher-types": "./inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts",
     "./inventory-rule-settings": "./inventory-rule-settings/inventory-rule-settings.module.code.ts",
     "./inventory-rule-test-utils": "./inventory-rule-test-utils/inventory-rule-test-utils.module.code.ts",
     "./inventory-rule-types": "./inventory-rule-types/inventory-rule-types.module.code.ts",
     "./inventory-settings-types": "./inventory-settings-types/inventory-settings-types.module.code.ts",
     "./item-category-actions": "./item-category-actions/item-category-actions.module.code.ts",
+    "./item-category-tree-utils": "./item-category-tree-utils/item-category-tree-utils.module.code.ts",
     "./keep-quantity-filter": "./keep-quantity-filter/keep-quantity-filter.module.code.ts",
     "./known-filter": "./known-filter/known-filter.module.code.ts",
     "./level-filter": "./level-filter/level-filter.module.code.ts",
@@ -83,6 +85,7 @@
     "./stolen-filter": "./stolen-filter/stolen-filter.module.code.ts",
     "./target-quantity-filter": "./target-quantity-filter/target-quantity-filter.module.code.ts",
     "./trait-actions": "./trait-actions/trait-actions.module.code.ts",
+    "./traits-filter": "./traits-filter/traits-filter.module.code.ts",
     "./transmuted-filter": "./transmuted-filter/transmuted-filter.module.code.ts",
     "./use-destination-context-builder": "./use-destination-context-builder/use-destination-context-builder.module.code.ts",
     "./use-destination-planner": "./use-destination-planner/use-destination-planner.module.code.ts",
@@ -92,6 +95,8 @@
   },
   "dependencies": {
     "@akasha/temper-build-support": "workspace:*",
+    "@akasha/temper-companions-core": "workspace:*",
+    "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*"
   }
