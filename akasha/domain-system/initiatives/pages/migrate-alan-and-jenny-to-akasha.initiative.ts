@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "Alan's inboxes stoplights and widget work.",
       workingMemory:
-        "Five return, measured through `answerStoplightsAdmittedBy` against the live store on 8787 with the five relayed readings, against a baseline of 0. A second blocker the earlier lane missed: every inbox scale falls and `tierAt` read only climbing ones, so all five colored to null; closed at `5134e66087`. Route and test at `7d550464f1`, mutant-proved on `Object.keys`. Both timers fire and five carries reached the pod at exit 0. What is owed is a deploy, which is Alan's.",
+        "Five answer and Alan sees the widget working. He has ruled two off — questions and texts — leaving three: email, tasks, temper-tasks. A lane holds that ablation. `bac3dee945` went live at `0e64cf9da1`, so a readout admitted to a group answers a stoplight whether or not a reading is kept; that lets the lane tell an incomplete ablation, where the readout disappears, from a missing reading, where an empty ring shows. What is owed is the ablation and three rings confirmed.",
     },
     {
       statement: "`akasha import health` replaces the old health import command.",
