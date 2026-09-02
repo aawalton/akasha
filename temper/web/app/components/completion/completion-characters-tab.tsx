@@ -1,14 +1,14 @@
 "use client"
 
-import { type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { TabsContent } from "@akasha/design-patterns/tabs"
-import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
+import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
+import type { CharacterSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
 import { buildCharacterSummary } from "@temper/player-completion/completion-summary"
 import { useMemo } from "react"
 import { CharactersTabFilters } from "@/components/completion/characters-tab-filters"
 import { CharactersTabPanels } from "@/components/completion/characters-tab-panels"
-import type { CharacterSummaryData } from "@temper/player-completion/completion-card-registry"
 import type { CharacterProgressData } from "@/components/completion/completion-progress/character-progress"
 import { useCompletionToolbar } from "@/components/completion/completion-toolbar-context"
 
