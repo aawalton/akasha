@@ -1,5 +1,6 @@
 import type { Module } from "@akasha/code-system/module"
 import type { PageType } from "@akasha/pages-system/page-type"
+import type { EarnedKey } from "./properties/earned-key.text-property.ts"
 import type { FigureFormat } from "./properties/figure-format.text-property.ts"
 import type { GroupSlugs } from "./properties/group-slugs.relation-property.ts"
 import type { Label } from "./properties/label.text-property.ts"
@@ -18,6 +19,7 @@ export type Readout = Module & {
   place: Place
   figureFormat?: FigureFormat
   scaleSlug?: ScaleSlug
+  earnedKey?: EarnedKey
   groupSlugs?: GroupSlugs
   noneLeftWords?: NoneLeftWords
   noneLeftEmoji?: NoneLeftEmoji
@@ -38,6 +40,7 @@ export const readout = {
     "number-property/place",
     "relation-property/group-slugs",
     "relation-property/scale-slug",
+    "text-property/earned-key",
     "text-property/figure-format",
     "text-property/label",
     "text-property/none-left-emoji",
@@ -52,6 +55,7 @@ export const readout = {
     { pagePropertySlug: "place", required: true, many: false },
     { pagePropertySlug: "figure-format", required: false, many: false },
     { pagePropertySlug: "scale-slug", required: false, many: false },
+    { pagePropertySlug: "earned-key", required: false, many: false },
     { pagePropertySlug: "group-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "none-left-words", required: false, many: false },
     { pagePropertySlug: "none-left-emoji", required: false, many: false },
@@ -68,6 +72,14 @@ export const readout = {
     {
       invariantKind: "departure",
       statement: "A readout names its scale rather than carrying one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout names the fact that earns a color rather than naming the color.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which color is earned belongs to the scale rather than to the readout.",
     },
     {
       invariantKind: "departure",

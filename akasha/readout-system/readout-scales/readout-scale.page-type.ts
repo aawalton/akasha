@@ -2,6 +2,7 @@ import type { Domain } from "@akasha/domain-system/domain"
 import type { PageType } from "@akasha/pages-system/page-type"
 import type { BlackAt } from "./properties/black-at.number-property.ts"
 import type { BlueAt } from "./properties/blue-at.number-property.ts"
+import type { EarnedColorSlug } from "./properties/earned-color-slug.text-property.ts"
 import type { GreenAt } from "./properties/green-at.number-property.ts"
 import type { OrangeAt } from "./properties/orange-at.number-property.ts"
 import type { RedAt } from "./properties/red-at.number-property.ts"
@@ -14,6 +15,7 @@ export type ReadoutScale = Domain & {
   yellowAt?: YellowAt
   greenAt?: GreenAt
   blueAt?: BlueAt
+  earnedColorSlug?: EarnedColorSlug
 }
 
 export const readoutScale = {
@@ -26,6 +28,9 @@ export const readoutScale = {
     "readout-scale/activity-calories",
     "readout-scale/backlog-count",
     "readout-scale/capacity-hours",
+    "readout-scale/daily-inbox",
+    "readout-scale/live-count",
+    "readout-scale/lowest-inbox-count",
     "readout-scale/plant-grams",
     "readout-scale/safety-level",
     "readout-scale/sleep-hours",
@@ -36,6 +41,7 @@ export const readoutScale = {
     "number-property/orange-at",
     "number-property/red-at",
     "number-property/yellow-at",
+    "text-property/earned-color-slug",
   ],
   extendsSlug: "page-type/domain",
   properties: [
@@ -45,6 +51,7 @@ export const readoutScale = {
     { pagePropertySlug: "yellow-at", required: false, many: false },
     { pagePropertySlug: "green-at", required: false, many: false },
     { pagePropertySlug: "blue-at", required: false, many: false },
+    { pagePropertySlug: "earned-color-slug", required: false, many: false },
   ],
   invariants: [
     {
@@ -66,6 +73,14 @@ export const readoutScale = {
     {
       invariantKind: "constraint",
       statement: "Orange is a rung a stoplight strip cannot draw.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A scale states the color an earned reading takes rather than a rung.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A scale stating no earned color has no reading earn a color against that scale.",
     },
   ],
 } as const satisfies PageType
