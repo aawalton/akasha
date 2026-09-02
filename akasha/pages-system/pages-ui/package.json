@@ -126,9 +126,9 @@
     "./tree/parent-child-tree": "./tree/parent-child-tree/parent-child-tree.module.code.ts",
     "./units/reading-units": "./units/reading-units/reading-units.module.code.ts",
     "./use-user-id": "./use-user-id/use-user-id.module.code.tsx",
-    "./view-engine/use-view-row-aggregates": "./view-engine/use-view-row-aggregates/use-view-row-aggregates.module.code.ts",
-    "./view-engine/use-view-row-rollups": "./view-engine/use-view-row-rollups/use-view-row-rollups.module.code.ts",
-    "./view-engine/view-row": "./view-engine/view-row/view-row.module.code.ts"
+    "./view-engine/use-view-row-aggregates": "./components/view-engine/use-view-row-aggregates/use-view-row-aggregates.module.code.ts",
+    "./view-engine/use-view-row-rollups": "./components/view-engine/use-view-row-rollups/use-view-row-rollups.module.code.ts",
+    "./view-engine/view-row": "./components/view-engine/view-row/view-row.module.code.ts"
   },
   "peerDependencies": {
     "@dnd-kit/core": ">=6",
