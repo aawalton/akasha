@@ -6,6 +6,7 @@ import { listOf, textOf } from "@tools/lib/page-query-values"
 
 export interface MobileApp {
   readonly slug: string
+  readonly pagePath: string
   readonly displayName: string
   readonly bundleId: string
   readonly widgetBundleId: string | null
@@ -69,6 +70,7 @@ function mobileAppOf(row: Row): MobileApp {
   const webEnvPath = stated(row, "web-env-path")
   return {
     slug: required(row, "app-slug"),
+    pagePath: row.at,
     displayName: required(row, "display-name"),
     bundleId: required(row, "bundle-id"),
     widgetBundleId: stated(row, "widget-bundle-id"),

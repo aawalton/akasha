@@ -23,6 +23,10 @@ export const mobileApp = {
     },
     {
       invariantKind: "departure",
+      statement: "An app carries where its own page is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A repo path carrying no colon is taken to name the code repo.",
     },
     {

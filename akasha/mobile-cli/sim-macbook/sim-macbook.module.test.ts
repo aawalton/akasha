@@ -12,6 +12,7 @@ const RUN_TREE = "$HOME/.mobile-sim-run/alanwalton/native-shell/alanwalton"
 
 const APP: MobileApp = {
   slug: "alanwalton",
+  pagePath: "akasha:pages/ios-app/alanwalton-ios.ios-app.md",
   displayName: "Fixture",
   bundleId: "com.example.fixture",
   widgetBundleId: "com.example.fixture.widgets",

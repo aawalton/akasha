@@ -52,3 +52,30 @@ test("a refusal reaching no cluster reports nothing", async () => {
   const answer = await deploy(["no-such-app-here"], HERE)
   expect(answer.report).toEqual([])
 })
+
+test("an ios app is handed to the build rather than refused as unbuilt", async () => {
+  const answer = await deploy(["atlas", "--dry-run"], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).toContain("names an ios app")
+  expect(answer.refusals[0]).toContain("--no-upload")
+})
+
+test("an ios app is found by the short slug its page states", async () => {
+  const answer = await deploy(["atlas-ios", "--dry-run"], HERE)
+  expect(answer.code).toBe(2)
+  expect(answer.refusals[0]).toContain("atlas-ios")
+})
+
+test("a web app is refused the flag belonging to an ios app", async () => {
+  const answer = await deploy(["one-web", "--no-upload"], HERE)
+  expect(answer.code).toBe(1)
+  expect(answer.refusals[0]).toContain("names a web app")
+  expect(answer.refusals[0]).toContain("--dry-run")
+})
+
+test("every ios app the mobile commands carry is reached by this command", async () => {
+  for (const slug of ["alanwalton", "atlas", "smilingjenny"]) {
+    const answer = await deploy([slug, "--dry-run"], HERE)
+    expect(answer.refusals[0]).toContain("names an ios app")
+  }
+})

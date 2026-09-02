@@ -10,6 +10,7 @@ const SCRATCH = "/var/tmp"
 
 const APP: MobileApp = {
   slug: "example",
+  pagePath: "akasha:pages/ios-app/example-ios.ios-app.md",
   displayName: "Example",
   bundleId: "com.example.app",
   widgetBundleId: null,

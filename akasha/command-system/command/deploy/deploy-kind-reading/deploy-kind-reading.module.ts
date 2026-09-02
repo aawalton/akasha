@@ -14,8 +14,23 @@ export const deployKindReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page is found by the suffix its filename carries rather than through the index.",
+      statement: "A web app page is found by the suffix its filename carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ios app is found among the apps the mobile commands already read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ios app is named by the slug its page states rather than by its filename.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ios apps are read from the checkout this code is in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The web apps are read from the root the caller gave.",
     },
     {
       invariantKind: "departure",
@@ -27,16 +42,15 @@ export const deployKindReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A slug neither kind carries is refused by naming both kinds and what each kind has.",
+      statement: "A slug neither kind carries is refused by naming what each kind has.",
     },
     {
       invariantKind: "departure",
       statement: "A git that will not list the pages refuses the call.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here loads a page's value.",
+      invariantKind: "departure",
+      statement: "Ios app pages that will not read refuse the call.",
     },
     {
       invariantKind: "absence",
