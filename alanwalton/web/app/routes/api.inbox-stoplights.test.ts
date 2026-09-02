@@ -155,6 +155,17 @@ beforeEach(() => {
 
 type Stoplight = Record<string, unknown>
 
+// A stoplight is read here as the wire carries it, so every value arrives as `unknown` and a
+// colour has to be narrowed before it can be compared. Narrowing by throwing rather than by
+// casting keeps a key that arrives as the wrong shape from reading as a colour the list refuses.
+function colourIn(one: Stoplight, key: string): string {
+  const held = one[key]
+  if (typeof held !== "string") {
+    throw new Error(`a stoplight carries no text under \`${key}\`: ${JSON.stringify(held)}`)
+  }
+  return held
+}
+
 const tile = () => fetch(`${origin}/api/inbox-stoplights`)
 
 const carryNow = (readout: string, value: number, at: Date = new Date()) =>
@@ -256,8 +267,8 @@ test("an inbox with no fresh reading keeps its ring rather than leaving the tile
 test("every stoplight carries a tier that is one of the six colours the phone decodes", async () => {
   await carryAll()
   for (const one of await drawn()) {
-    expect(TIERS).toContain(one.tier)
-    if (one.nextTier !== undefined) expect(TIERS).toContain(one.nextTier)
+    expect(TIERS).toContain(colourIn(one, "tier"))
+    if (one.nextTier !== undefined) expect(TIERS).toContain(colourIn(one, "nextTier"))
   }
 })
 
