@@ -248,7 +248,13 @@ interface ZO_SimpleSceneFragment {
 declare const ZO_SimpleSceneFragment: ZO_SimpleSceneFragment
 
 interface HUDFadeSceneFragment extends SceneFragment {
-  SetHiddenForReason: (reason: string, hidden: boolean) => void
+  IsHidden: () => boolean
+  SetHiddenForReason: (
+    reason: string,
+    hidden: boolean,
+    customShowDuration?: number,
+    customHideDuration?: number
+  ) => void
 }
 
 interface ActionBarButton {

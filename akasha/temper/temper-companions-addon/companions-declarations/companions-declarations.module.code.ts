@@ -2,23 +2,6 @@ import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-interface-extra-2"
 
 declare global {
-  interface FcoCompassContainer {
-    SetAlphaDropoffBehavior: (
-      this: FcoCompassContainer,
-      pinType: number,
-      a: number,
-      b: number,
-      c: number,
-      d: number
-    ) => undefined
-  }
-
-  interface FcoCompass {
-    container: FcoCompassContainer
-  }
-
-  const COMPASS: FcoCompass
-
   interface FcoFishingManager {
     StartInteraction: (this: FcoFishingManager) => undefined
   }

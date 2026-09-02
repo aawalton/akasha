@@ -79,5 +79,6 @@ export const temperEsoTypes = {
     "type-declaration/eso-interface-extra",
     "type-declaration/eso-interface-extra-2",
     "type-declaration/eso-interface-extra-3",
+    "type-declaration/eso-interface-extra-4",
   ],
 } as const satisfies WorkspacePackage

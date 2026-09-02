@@ -139,10 +139,7 @@ interface DlwcKeybindButtonGroup {
   [index: number]: DlwcKeybindButtonEntry
 }
 interface KeybindStripObject {
-  AddKeybindButtonGroup: ((
-    this: KeybindStripObject,
-    descriptor: DlwcKeybindButtonGroup
-  ) => void) &
+  AddKeybindButtonGroup: ((this: KeybindStripObject, descriptor: DlwcKeybindButtonGroup) => void) &
     ((this: KeybindStripObject, descriptor: KeybindButtonGroupDescriptor[]) => void)
   RemoveKeybindButtonGroup: ((
     this: KeybindStripObject,
@@ -191,7 +188,7 @@ interface PlayerInventoryManager {
   GenerateListOfVirtualStackedItems: (
     this: PlayerInventoryManager,
     inventoryType: number,
-    predicate: (this: void, ...args: unknown[]) => boolean,
+    predicate: (this: void, ...args: never[]) => boolean,
     existingList?: Record<string | number, VirtualStackedItemEntry>
   ) => Record<string | number, VirtualStackedItemEntry>
 }

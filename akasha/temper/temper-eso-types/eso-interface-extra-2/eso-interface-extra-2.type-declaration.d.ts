@@ -106,7 +106,7 @@ declare const CENTER_SCREEN_ANNOUNCE: {
 
 declare const ZO_WorldMap: Control
 
-declare const GAMEPAD_WORLD_MAP_SCENE: unknown
+declare const GAMEPAD_WORLD_MAP_SCENE: Scene
 
 declare const WORLD_MAP_ZONE_STORY_KEYBOARD_FRAGMENT: SceneFragment
 

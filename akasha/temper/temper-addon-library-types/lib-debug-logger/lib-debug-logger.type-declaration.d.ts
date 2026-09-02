@@ -5,6 +5,8 @@ interface DebugLogger {
   Warn: (...args: unknown[]) => void
   Error: (...args: unknown[]) => void
   Log: (level: unknown, ...args: readonly unknown[]) => void
+  Create: (this: DebugLogger, namespace: string) => DebugLogger
+  SetMinLevelOverride: (this: DebugLogger, level: string) => void
 }
 
 interface LibDebugLogger {
@@ -15,6 +17,7 @@ interface LibDebugLogger {
   LOG_LEVEL_INFO: string
   LOG_LEVEL_WARNING: string
   LOG_LEVEL_ERROR: string
+  GetMinLogLevel: (this: LibDebugLogger) => string
 }
 
 declare const LibDebugLogger: LibDebugLogger | undefined
