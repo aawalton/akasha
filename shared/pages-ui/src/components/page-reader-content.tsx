@@ -14,7 +14,7 @@ import type { MediaVariant } from "../media/page-media-player"
 import {
   SentenceNarrationProvider,
   type SentenceNarrationValue,
-} from "../media/sentence-narration-context"
+} from "@akasha/pages-ui/media/sentence-narration-context"
 import { toPageDataJSON } from "@akasha/pages-ui-components/page-data-json"
 import {
   decideReadRestore,

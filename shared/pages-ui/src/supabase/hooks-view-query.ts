@@ -10,7 +10,7 @@ import type { ShapeDescriptor } from "@akasha/pages-ui-store/collection/shape-de
 import { useMemo } from "react"
 import { adjustTotalForClientFilters, applyClientViewFilters } from "@akasha/pages-ui/supabase/apply-client-view-filters"
 import { type PageWithProperties, toPageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { useViewPagesSupabase } from "./use-view-pages"
+import { useViewPagesSupabase } from "@akasha/pages-ui/supabase/use-view-pages"
 import { viewFilterToCondition } from "@akasha/pages-ui/supabase/view-filter-to-condition"
 
 export function usePageViewQuery({

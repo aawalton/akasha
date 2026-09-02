@@ -10,7 +10,7 @@ import { deriveViewTargetSlugs } from "@akasha/pages-ui-store/query/view-target-
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback, useMemo } from "react"
-import { useGroupByPaginatedQuery } from "../supabase/group-by-hooks.ts"
+import { useGroupByPaginatedQuery } from "@akasha/pages-ui/supabase/group-by-hooks"
 import { useRelatedPages } from "../supabase/hooks.ts"
 import { usePageViewQuery } from "../supabase/hooks-view-query.ts"
 import { type PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"

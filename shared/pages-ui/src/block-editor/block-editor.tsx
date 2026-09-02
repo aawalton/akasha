@@ -6,7 +6,7 @@ import { applyEditorOp, type EditorOp, normalizeRichDocument } from "@akasha/pag
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 import { BlockAccessoryBar } from "./block-accessory-bar.tsx"
 import { BlockRow } from "./block-row.tsx"
-import { BlockTree } from "./block-tree.tsx"
+import { BlockTree } from "@akasha/pages-ui/block-editor/block-tree"
 import { collectToggleIds } from "@akasha/pages-ui/block-editor/block-type-helpers"
 import { SlashMenu } from "./slash-menu.tsx"
 import { useBlockCollapse } from "@akasha/pages-ui/block-editor/use-block-collapse"

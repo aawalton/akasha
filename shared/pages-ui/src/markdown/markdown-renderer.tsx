@@ -9,9 +9,9 @@ import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
 
 import { MentionChip } from "./mention-chip"
-import type { MentionResolver } from "./remark-mentions"
-import { remarkMentions } from "./remark-mentions"
-import { remarkSectionize } from "./remark-sectionize"
+import type { MentionResolver } from "@akasha/pages-ui/markdown/remark-mentions"
+import { remarkMentions } from "@akasha/pages-ui/markdown/remark-mentions"
+import { remarkSectionize } from "@akasha/pages-ui/markdown/remark-sectionize"
 
 function asString(value: unknown): string {
   return typeof value === "string" ? value : ""

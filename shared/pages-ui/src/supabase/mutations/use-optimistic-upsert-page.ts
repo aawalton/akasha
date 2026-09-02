@@ -1,7 +1,7 @@
 import type { UpsertPageArgs } from "@akasha/pages-access/upsert"
 import type { Page } from "@akasha/pages-core/page-types"
 import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
-import { runOptimisticMutation } from "./apply-prediction"
+import { runOptimisticMutation } from "@akasha/pages-ui/supabase/mutations/apply-prediction"
 import { buildOverlay, buildPatchPlan } from "@akasha/pages-ui/supabase/mutations/build-patch-plan"
 import { extractTargetIds } from "@akasha/pages-ui/supabase/mutations/extract-target-ids"
 
