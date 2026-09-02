@@ -1,8 +1,0 @@
-libsystem_kernel.dylib+45520
-libsystem_pthread.dylib+30684
-libsystem_c.dylib+486552
-libc++abi.dylib+32724
-libc++abi.dylib+39824
-libobjc.A.dylib+211048
-libc++abi.dylib+82424
-libc++abi.dylib+89624

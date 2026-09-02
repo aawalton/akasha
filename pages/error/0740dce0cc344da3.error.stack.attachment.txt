@@ -1,4 +1,0 @@
-Error: runPagesOptimisticMutation: mutation settled without capturing an RPC result
-    at https://alanwalton.com/assets/supabase-B_NMMebB.js:14:76104
-    at async Sy (https://alanwalton.com/assets/supabase-B_NMMebB.js:23:28114)
-    at async https://alanwalton.com/assets/src-C-sMBiL3.js:40:25049

@@ -1,1 +1,0 @@
-/question/rc-check-does-echo-show-connected-or-disconnected-in-your-app-right-now-df52b161

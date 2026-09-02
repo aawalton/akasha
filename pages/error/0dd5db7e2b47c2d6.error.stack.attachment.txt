@@ -1,1 +1,0 @@
-gate=slug:persona (Electric snapshot fold) elapsed>=4000ms acquired=true

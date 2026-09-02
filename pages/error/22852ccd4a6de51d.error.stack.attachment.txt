@@ -1,6 +1,0 @@
-Error: patchPage(story-chapter): TypeError: Failed to fetch
-    at nue (https://alanwalton.com/assets/src-CG6DXXu9.js:20:93420)
-    at async Hg (https://alanwalton.com/assets/src-CG6DXXu9.js:20:94126)
-    at async mutationFn (https://alanwalton.com/assets/src-CG6DXXu9.js:20:76223)
-    at async Dse.mutationFn (https://alanwalton.com/assets/src-CG6DXXu9.js:20:3504)
-    at async Dse.commit (https://alanwalton.com/assets/src-CG6DXXu9.js:18:14030)

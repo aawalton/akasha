@@ -1,1 +1,0 @@
-@capacitor://localhost/assets/supabase-B8OxJkZC.js:20:76453

@@ -1,1 +1,0 @@
-gate=slug:property-definition (Electric snapshot fold) elapsed>=4000ms acquired=true

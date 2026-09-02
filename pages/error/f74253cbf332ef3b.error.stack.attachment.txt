@@ -1,2 +1,0 @@
-Error: ERRORDATA_STACK_SIZE exceeded
-    at BroadcastChannel.r (https://alanwalton.com/assets/src-GsKU8t0u.js:140:8788)

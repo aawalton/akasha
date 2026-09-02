@@ -1,1 +1,0 @@
-gate=slug:temper-net-worth-snapshot (Electric snapshot fold) elapsed>=4000ms acquired=true

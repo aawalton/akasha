@@ -1,3 +1,0 @@
-Error: Leader changed, pending operation in indeterminate state
-    at EventTarget.i (https://alanwalton.com/assets/src-DSO_MBEx.js:190:8948)
-    at Worker.<anonymous> (https://alanwalton.com/assets/src-DSO_MBEx.js:190:8345)

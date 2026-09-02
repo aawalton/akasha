@@ -1,4 +1,0 @@
-Error: getPages(temper-account): TypeError: Failed to fetch
-    at eH (https://tempereso.com/assets/supabase-DmDHgVIu.js:149:368911)
-    at async Promise.all (index 1)
-    at async https://tempereso.com/assets/supabase-DmDHgVIu.js:253:41059
