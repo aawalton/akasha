@@ -6,6 +6,7 @@ export const journalControls = {
   slug: "journal-controls",
   definition: "the fonts, labels and tooltip sections the journal window is drawn from",
   markup: "xml",
+  loadedAs: "Controls.xml",
   invariants: [
     {
       invariantKind: "departure",
