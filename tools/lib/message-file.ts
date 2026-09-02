@@ -11,6 +11,7 @@ import { dirname, join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { MARKDOWN } from "../../page/page-file.ts"
 import { AKASHA, akashaRoot } from "@akasha/pages-system/checkout-roots"
+import { akashaSeatIdForName } from "./seat-akasha-beside.ts"
 import { toolArgv } from "./tool-argv.ts"
 import { patchUncommitted, readUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { placeDirOf } from "../../page/page-types.ts"
@@ -127,6 +128,40 @@ export function whyRefused(report: string): string {
   return (failed.length === 0 ? report.trim() : failed.join("; ")).trim()
 }
 
+// A DELIVERY THAT MAKES ITS OWN DESTINATION CANNOT FAIL. `recipientRefused` bars a path and a
+// dot and then takes any name at all, and the write below creates the directory it addresses. So
+// a misspelled recipient was not a failed send: it was a new mailbox holding one message, and the
+// caller was answered `written` with an id.
+//
+// That has already happened, measured 2026-09-02: `pages/message/` holds 68 messages nobody
+// drained, in three directories no seat has ever been named for —
+// `change-harness-cluster-operator` 39 (addressed by itself), `domain-archivist-review-documents`
+// 28 (from `supervisor`), `amy-alan-handler` 1 (from `service`) — the newest of them 2026-08-27.
+// Both directories named for a seat hold nothing, because a seat drains what it is sent.
+//
+// The predicate was already written and already reasoned, at `agent-record.ts:writeAnnouncement`,
+// which refuses `no seat currently holds the name` rather than writing where nobody drains it. It
+// guarded one caller of seven. It belongs here, under all of them.
+//
+// THE THIRD ANSWER IS THE POINT, and it is `agent-record.ts`'s own: a seat that is not there and
+// a place where no seat can be read must not read alike. Where the seat index cannot be read at
+// all, this writes rather than refusing — refusing there would take every message in the tree
+// down with one unreadable checkout, which is a worse failure than the one being fixed.
+function unknownRecipient(to: string): string | null {
+  let known: boolean
+  try {
+    known = akashaSeatIdForName(to) !== null
+  } catch {
+    return null
+  }
+  if (known) return null
+  return (
+    `no seat holds the name \`${to}\`, so a message written there would wait in a directory ` +
+    `nothing drains. Refused rather than landed, because a send nobody receives must not answer ` +
+    `as one that arrived`
+  )
+}
+
 export function writeMessage(stated: {
   readonly to: string
   readonly from: string
@@ -135,6 +170,8 @@ export function writeMessage(stated: {
 }): Written {
   const refused = recipientRefused(stated.to)
   if (refused !== null) return { kind: "refused", detail: refused }
+  const unknown = unknownRecipient(stated.to)
+  if (unknown !== null) return { kind: "refused", detail: unknown }
   const id = Bun.randomUUIDv7()
   const relPath = messageRelPath(stated.to, id)
   const dir = mkdtempSync(join(SCRATCH, "message-file-"))
