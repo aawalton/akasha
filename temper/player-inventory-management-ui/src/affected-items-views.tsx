@@ -1,17 +1,20 @@
 "use client"
 
-import { formatGold } from "@akasha/design-primitives/format-gold"
-import { ScrollArea } from "@akasha/design-primitives/scroll-area"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { Text } from "@akasha/design-primitives/text-body"
 import { ItemRow } from "@akasha/design-patterns/item-row"
+import { buildNodePath } from "@akasha/design-patterns/path"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@akasha/design-patterns/tabs"
 import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
-import { buildNodePath } from "@akasha/design-patterns/path"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
+import { formatGold } from "@akasha/design-primitives/format-gold"
+import { ScrollArea } from "@akasha/design-primitives/scroll-area"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { Text } from "@akasha/design-primitives/text-body"
+import type {
+  InventoryLeafNode,
+  InventoryNode,
+} from "@akasha/temper-items-core/inventory-node-types"
 import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"
-import type { InventoryLeafNode, InventoryNode } from "@temper/game-items-core/inventory-node-types"
 import {
   buildAffectedItemLocationNodes,
   buildAffectedItemNodes,
