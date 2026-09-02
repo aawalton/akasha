@@ -4,6 +4,7 @@ import {
   heldIn,
   namedIn,
   pageNamed,
+  partedIn,
   secretAt,
   secretNamed,
   uncommittedAt,
@@ -234,4 +235,74 @@ test("the uncommitted file and the sops file stand beside one page and are told 
   expect(secretNamed(uncommittedAt(page) as string)).toBe(false)
   expect(secretNamed(secretAt(page) as string)).toBe(true)
   expect(uncommittedNamed(secretAt(page) as string)).toBe(false)
+})
+
+function kindOf(path: string): string {
+  return heldIn(path, PAGE_TYPES, FILE_PROPERTIES).kind
+}
+
+test("a name is read from its slug, and what follows the page type is a list of sections", () => {
+  expect(partedIn("akasha/one/file-length.check.ts")).toEqual({
+    slug: "file-length",
+    pageType: "check",
+    sections: [],
+    held: "ts",
+  })
+  expect(partedIn("akasha/one/file-length.check.code.ts")).toEqual({
+    slug: "file-length",
+    pageType: "check",
+    sections: ["code"],
+    held: "ts",
+  })
+})
+
+test("a name carrying two sections carries both of them, in the order they are written", () => {
+  expect(partedIn("akasha/one/file-length.check.lines.uncommitted.jsonl")).toEqual({
+    slug: "file-length",
+    pageType: "check",
+    sections: ["lines", "uncommitted"],
+    held: "jsonl",
+  })
+})
+
+test("a name carrying three sections carries all three, so how many there are is free", () => {
+  expect(partedIn("akasha/one/dalla.seat.uncommitted.ts.a1b2.part")).toEqual({
+    slug: "dalla",
+    pageType: "seat",
+    sections: ["uncommitted", "ts", "a1b2"],
+    held: "part",
+  })
+})
+
+test("a slug carrying hyphens and digits still anchors the name at its first part", () => {
+  expect(partedIn("akasha/one/page-file-name.module.code.ts")).toEqual({
+    slug: "page-file-name",
+    pageType: "module",
+    sections: ["code"],
+    held: "ts",
+  })
+  expect(partedIn("akasha/one/temper-0000000000000fff.error.uncommitted.ts")).toEqual({
+    slug: "temper-0000000000000fff",
+    pageType: "error",
+    sections: ["uncommitted"],
+    held: "ts",
+  })
+})
+
+test("a part written in anything but lower kebab case answers nothing", () => {
+  expect(partedIn("akasha/one/File-Length.check.ts")).toBeNull()
+  expect(partedIn("akasha/one/file_length.check.ts")).toBeNull()
+  expect(partedIn("akasha/one/file-length.check.CODE.ts")).toBeNull()
+})
+
+test("a name carrying more than one section is held as a stray for now", () => {
+  expect(kindOf("akasha/one/dalla.seat.uncommitted.ts.a1b2.part")).toBe("stray")
+  expect(kindOf("akasha/one/file-length.check.lines.uncommitted.jsonl")).toBe("stray")
+})
+
+test("a page type nothing knows still holds a property, an uncommitted file and a sops file", () => {
+  expect(kindOf("akasha/one/dalla.seat.code.ts")).toBe("property")
+  expect(kindOf("akasha/one/dalla.seat.uncommitted.ts")).toBe("uncommitted")
+  expect(kindOf("akasha/one/dalla.seat.sops.yaml")).toBe("secret")
+  expect(kindOf("akasha/one/dalla.seat.ts")).toBe("stray")
 })
