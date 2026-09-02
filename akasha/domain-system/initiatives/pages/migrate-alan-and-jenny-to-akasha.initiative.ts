@@ -14,7 +14,7 @@ export const migrateAlanAndJennyToAkasha = {
         "All 133 days turn clean and the checker judges 18877 values with no fault, by two readers sharing no code. What is left: the 34 declarations akasha lacks, then the landing itself, which snapshots, turns, verifies and flips `dayPlaceOf` as one revertable act. Converter `0907f2e73a`, checker `f8dbc80e6c`, funnel `2f5978b54d`, read path `2a426e510e`. The rows are renamed, so no ordinal is owed.",
     },
     {
-      statement: "Alan's and Jenny's iOS apps ship to TestFlight from an akasha command.",
+      statement: "All three iOS apps ship to TestFlight from an akasha command.",
       workingMemory:
         "Alan's call is met at `0d286cc9f0` and `2942fd7816`: `deploy-testflight` resolves `--ref` to one commit before anything is built and hands it to both the www worktree and the mac checkout, refusing only a ref naming no commit or one no origin ref reaches, since the mac builds by fetching origin. Build 199 is uploaded, stamped `160c4d98e3`, and its fingerprint is filed at `0aad52c0e7`. Jenny's app owes a build; that upload is held.",
     },
