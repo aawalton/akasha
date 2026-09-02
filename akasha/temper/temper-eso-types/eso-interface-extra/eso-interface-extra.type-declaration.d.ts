@@ -30,7 +30,6 @@ interface Scene {
 
 interface SceneManager {
   scenes: Record<string, Scene | undefined>
-  ShowBaseScene: (this: SceneManager) => undefined
 }
 
 declare const FRAME_PLAYER_FRAGMENT: SceneFragment
@@ -132,15 +131,6 @@ interface PlayerToPlayer {
 interface LoreReader {
   control: EsoEventControl
   OpenSound: string
-  Show: (
-    this: LoreReader,
-    title: string,
-    body: string,
-    medium: number,
-    showTitle: boolean,
-    overrideImage?: unknown,
-    overrideImageTitlePosition?: unknown
-  ) => undefined
 }
 
 declare const INTERACTION: {
