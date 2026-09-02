@@ -1,0 +1,366 @@
+import { describe, expect, test } from "bun:test"
+import { existsSync, mkdtempSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
+import {
+  AUTH_TIMEOUT_MS,
+  CONFIG_FILE_MODE,
+  type ConfigStore,
+  configPathIn,
+  DEFAULT_SERVER_URL,
+  decideCallbackResponse,
+  diskConfigStore,
+  getConfigPath,
+  isCallbackPath,
+  loadConfig,
+  looksLikeSignInState,
+  MISSING_TOKENS_BODY,
+  openLinkMessage,
+  openNothing,
+  randomSignInState,
+  SESSION_STORAGE_KEY,
+  STATE_MISMATCH_BODY,
+  saveConfig,
+  serverUrlFromEnv,
+  signInLinkUrl,
+  timedOutMessage,
+  WAITING_MESSAGE,
+} from "./watcher-auth.module.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
+const STATE = "0123456789abcdef"
+const SERVER = "https://tempereso.com"
+
+function params(over: Record<string, string | null> = {}): URLSearchParams {
+  const base: Record<string, string | null> = {
+    access_token: "at_live",
+    refresh_token: "rt_live",
+    state: STATE,
+    ...over,
+  }
+  const out = new URLSearchParams()
+  for (const [k, v] of Object.entries(base)) if (v !== null) out.set(k, v)
+  return out
+}
+
+function decide(over: Record<string, string | null> = {}) {
+  return decideCallbackResponse({
+    searchParams: params(over),
+    expectedState: STATE,
+    serverUrl: SERVER,
+  })
+}
+
+function fakeStore(seed?: string) {
+  const dir = `${SCRATCH_AT}/watcher-auth-nowhere`
+  const files = new Map<string, string>()
+  const made: string[] = []
+  if (seed !== undefined) {
+    files.set(configPathIn(dir), seed)
+    made.push(dir)
+  }
+  const store: ConfigStore = {
+    dir: () => dir,
+    exists: (path) => files.has(path) || made.includes(path),
+    readText: (path) => files.get(path) ?? "",
+    makeDir: (path) => {
+      made.push(path)
+      return
+    },
+    writeText: (path, body) => {
+      files.set(path, body)
+      return
+    },
+  }
+  return { dir, store, files, made, bytes: () => files.get(configPathIn(dir)) }
+}
+
+describe("a successful callback returns the user to Temper", () => {
+  test("accepts and redirects to the watcher landing", () => {
+    const decision = decide()
+    expect(decision.kind).toBe("accept")
+    if (decision.kind !== "accept") return
+    expect(decision.redirectTo).toBe(`${SERVER}/watcher`)
+  })
+
+  test("the redirect target is on the server address given, never a hardcoded host", () => {
+    const decision = decideCallbackResponse({
+      searchParams: params(),
+      expectedState: STATE,
+      serverUrl: "http://localhost:3100",
+    })
+    expect(decision.kind === "accept" && decision.redirectTo).toBe("http://localhost:3100/watcher")
+  })
+
+  test("captures both tokens for the caller to install", () => {
+    const decision = decide()
+    expect(decision.kind === "accept" && decision.session).toEqual({
+      access_token: "at_live",
+      refresh_token: "rt_live",
+    })
+  })
+
+  test("the accept arm carries no message of its own", () => {
+    const decision = decide()
+    expect(decision.kind === "accept" && "body" in decision).toBe(false)
+    expect(JSON.stringify(decision)).not.toContain("success")
+    expect(JSON.stringify(decision)).not.toContain("linked")
+    expect(JSON.stringify(decision)).not.toContain("close this tab")
+  })
+})
+
+describe("a callback that cannot be trusted is refused, and says why", () => {
+  test("a mismatched state is refused as a CSRF guard", () => {
+    const decision = decide({ state: "attacker-supplied" })
+    expect(decision.kind).toBe("reject")
+    expect(decision.kind === "reject" && decision.status).toBe(400)
+    expect(decision.kind === "reject" && decision.body).toContain("State mismatch")
+  })
+
+  test("an absent state is refused rather than treated as matching", () => {
+    expect(decide({ state: null }).kind).toBe("reject")
+  })
+
+  test("an empty expected state still refuses a stateless callback", () => {
+    const decision = decideCallbackResponse({
+      searchParams: params({ state: null }),
+      expectedState: "",
+      serverUrl: SERVER,
+    })
+    expect(decision.kind).toBe("reject")
+  })
+
+  test.each([
+    ["access_token", { access_token: null }],
+    ["refresh_token", { refresh_token: null }],
+  ])("a callback missing %s is refused", (_name, over) => {
+    const decision = decide(over)
+    expect(decision.kind).toBe("reject")
+    expect(decision.kind === "reject" && decision.body).toContain("Missing tokens")
+  })
+
+  test("no refusal carries a redirect", () => {
+    const refused: Record<string, string | null>[] = [
+      { state: "wrong" },
+      { access_token: null },
+      { refresh_token: null },
+    ]
+    for (const over of refused) {
+      expect("redirectTo" in decide(over)).toBe(false)
+    }
+  })
+})
+
+describe("what the legacy module was observed to produce", () => {
+  test("the session key is the one already written into config files", () => {
+    expect(SESSION_STORAGE_KEY).toBe("temper-watcher-session")
+  })
+
+  test("both refusal pages are byte for byte what the legacy module sent", () => {
+    expect(STATE_MISMATCH_BODY).toBe(
+      "<html><body><h2>State mismatch. Please try again.</h2></body></html>"
+    )
+    expect(MISSING_TOKENS_BODY).toBe(
+      "<html><body><h2>Missing tokens in callback. Please try again.</h2></body></html>"
+    )
+  })
+
+  test("an empty token is accepted rather than refused as missing", () => {
+    const decision = decide({ access_token: "", refresh_token: "" })
+    expect(decision.kind === "accept" && decision.session).toEqual({
+      access_token: "",
+      refresh_token: "",
+    })
+  })
+
+  test("an unset server address falls back to tempereso", () => {
+    expect(serverUrlFromEnv({})).toBe(DEFAULT_SERVER_URL)
+    expect(DEFAULT_SERVER_URL).toBe("https://tempereso.com")
+  })
+
+  test("a server address set to an empty string is taken as that empty address", () => {
+    expect(serverUrlFromEnv({ TEMPER_SERVER_URL: "" })).toBe("")
+  })
+
+  test("the config file sits directly under the config directory", () => {
+    const { store, dir } = fakeStore()
+    expect(getConfigPath(store)).toBe(`${dir}/config.json`)
+  })
+
+  test("a config file that is not there reads as no config", () => {
+    expect(loadConfig(fakeStore().store, SERVER)).toBeNull()
+  })
+
+  test("a first save writes two spaces of indent and no trailing newline", () => {
+    const f = fakeStore()
+    saveConfig({ [SESSION_STORAGE_KEY]: "sess-1" }, f.store)
+    expect(f.bytes()).toBe('{\n  "temper-watcher-session": "sess-1"\n}')
+  })
+
+  test("a later save merges into what the file already held", () => {
+    const f = fakeStore('{\n  "temper-watcher-session": "sess-1"\n}')
+    saveConfig({ serverUrl: "https://other.test" }, f.store)
+    expect(f.bytes()).toBe(
+      '{\n  "temper-watcher-session": "sess-1",\n  "serverUrl": "https://other.test"\n}'
+    )
+  })
+
+  test("a read fills in the server address the file left out", () => {
+    const f = fakeStore('{"temper-watcher-session":"sess-1"}')
+    expect(loadConfig(f.store, SERVER)).toEqual({
+      "temper-watcher-session": "sess-1",
+      serverUrl: SERVER,
+    })
+  })
+
+  test("a read always carries the session key even where the file holds none", () => {
+    const f = fakeStore('{"extra":1}')
+    expect(Object.keys(loadConfig(f.store, SERVER) ?? {})).toEqual([
+      "temper-watcher-session",
+      "serverUrl",
+    ])
+  })
+
+  test("a key the watcher does not know is left out of a read", () => {
+    const f = fakeStore('{"extra":1,"nested":{"a":2}}')
+    expect(loadConfig(f.store, SERVER)).toEqual({
+      "temper-watcher-session": undefined,
+      serverUrl: SERVER,
+    })
+  })
+
+  test("a key the watcher does not know is kept on a write", () => {
+    const f = fakeStore('{"extra":1,"nested":{"a":2}}')
+    saveConfig({ serverUrl: "https://z.test" }, f.store)
+    expect(f.bytes()).toBe(
+      '{\n  "extra": 1,\n  "nested": {\n    "a": 2\n  },\n  "serverUrl": "https://z.test"\n}'
+    )
+  })
+
+  test.each([
+    ["text that is no json", "not json at all"],
+    ["an empty file", ""],
+    ["a json array", "[]"],
+    ["a server address that is no string", '{"serverUrl":5}'],
+  ])("%s reads as no config", (_name, body) => {
+    expect(loadConfig(fakeStore(body).store, SERVER)).toBeNull()
+  })
+
+  test("a save over a file that will not parse drops what would not parse", () => {
+    const f = fakeStore("not json at all")
+    saveConfig({ [SESSION_STORAGE_KEY]: "sess-2" }, f.store)
+    expect(f.bytes()).toBe('{\n  "temper-watcher-session": "sess-2"\n}')
+  })
+
+  test("the sign-in link is byte for byte what the legacy module opened", () => {
+    expect(signInLinkUrl({ serverUrl: SERVER, port: 41234, state: STATE })).toBe(
+      "https://tempereso.com/cli-link?port=41234&state=0123456789abcdef"
+    )
+  })
+
+  test("both lines the legacy module logged are unchanged", () => {
+    expect(openLinkMessage("https://x.test/cli-link?port=1&state=s")).toBe(
+      "Open this URL in your browser to link your account: https://x.test/cli-link?port=1&state=s"
+    )
+    expect(WAITING_MESSAGE).toBe("Waiting for authorization...")
+  })
+
+  test("the timeout message at the default timeout is unchanged", () => {
+    expect(AUTH_TIMEOUT_MS).toBe(300_000)
+    expect(timedOutMessage(AUTH_TIMEOUT_MS)).toBe("Authorization timed out after 5 minutes")
+  })
+})
+
+describe("what this recreation was written to mean", () => {
+  test("a state carrying characters needing escaping is escaped into the link", () => {
+    expect(signInLinkUrl({ serverUrl: SERVER, port: 1, state: "a b&c" })).toBe(
+      "https://tempereso.com/cli-link?port=1&state=a%20b%26c"
+    )
+  })
+
+  test("one minute is counted in the singular", () => {
+    expect(timedOutMessage(60_000)).toBe("Authorization timed out after 1 minute")
+  })
+
+  test("the callback path is the only path the local server answers", () => {
+    expect(isCallbackPath("/callback")).toBe(true)
+    expect(isCallbackPath("/")).toBe(false)
+    expect(isCallbackPath("/callback/")).toBe(false)
+  })
+
+  test("a sign-in state is sixteen random bytes written as hex", () => {
+    const state = randomSignInState()
+    expect(looksLikeSignInState(state)).toBe(true)
+    expect(state).toHaveLength(32)
+  })
+
+  test("two sign-in states in a row differ", () => {
+    expect(randomSignInState()).not.toBe(randomSignInState())
+  })
+
+  test("a caller handing in no way to open a link opens nothing", () => {
+    expect(openNothing()).toBeUndefined()
+  })
+
+  test("the directory is made only where the directory is not there", () => {
+    const bare = fakeStore()
+    saveConfig({ serverUrl: SERVER }, bare.store)
+    expect(bare.made).toEqual([bare.dir])
+
+    const seeded = fakeStore("{}")
+    saveConfig({ serverUrl: SERVER }, seeded.store)
+    expect(seeded.made).toEqual([seeded.dir])
+  })
+
+  test("no read or write here reaches a path the caller did not name", () => {
+    const f = fakeStore()
+    saveConfig({ [SESSION_STORAGE_KEY]: "s" }, f.store)
+    expect([...f.files.keys()]).toEqual([configPathIn(f.dir)])
+  })
+})
+
+describe("the store the watcher uses when the caller hands in none", () => {
+  test("a config file lands readable by its owner alone", () => {
+    const dir = mkdtempSync(`${SCRATCH_AT}/watcher-auth-`)
+    try {
+      const store = diskConfigStore({ platform: "linux", env: { WATCHER_CONFIG_DIR: dir } })
+      expect(getConfigPath(store)).toBe(`${dir}/config.json`)
+      expect(loadConfig(store, SERVER)).toBeNull()
+
+      saveConfig({ [SESSION_STORAGE_KEY]: "sess-1" }, store)
+      const path = getConfigPath(store)
+      expect(readFileSync(path, "utf-8")).toBe('{\n  "temper-watcher-session": "sess-1"\n}')
+      expect(statSync(path).mode & 0o777).toBe(CONFIG_FILE_MODE)
+      expect(loadConfig(store, SERVER)).toEqual({
+        "temper-watcher-session": "sess-1",
+        serverUrl: SERVER,
+      })
+    } finally {
+      rmSync(dir, { recursive: true, force: true })
+    }
+  })
+
+  test("a config directory that is not there yet is made on the first save", () => {
+    const parent = mkdtempSync(`${SCRATCH_AT}/watcher-auth-`)
+    const dir = `${parent}/deeper/still`
+    try {
+      const store = diskConfigStore({ platform: "linux", env: { WATCHER_CONFIG_DIR: dir } })
+      expect(existsSync(dir)).toBe(false)
+      saveConfig({ serverUrl: SERVER }, store)
+      expect(readFileSync(getConfigPath(store), "utf-8")).toBe(
+        '{\n  "serverUrl": "https://tempereso.com"\n}'
+      )
+    } finally {
+      rmSync(parent, { recursive: true, force: true })
+    }
+  })
+
+  test("a config file left half written by hand reads as no config", () => {
+    const dir = mkdtempSync(`${SCRATCH_AT}/watcher-auth-`)
+    try {
+      const store = diskConfigStore({ platform: "linux", env: { WATCHER_CONFIG_DIR: dir } })
+      writeFileSync(configPathIn(dir), '{"temper-watcher-session":')
+      expect(loadConfig(store, SERVER)).toBeNull()
+    } finally {
+      rmSync(dir, { recursive: true, force: true })
+    }
+  })
+})
