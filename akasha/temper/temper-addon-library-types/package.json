@@ -48,6 +48,7 @@
     "./temper-addons-global": "./temper-addons-global/temper-addons-global.type-declaration.d.ts",
     "./temper-inventory-global": "./temper-inventory-global/temper-inventory-global.type-declaration.d.ts",
     "./temper-data-mining-global": "./temper-data-mining-global/temper-data-mining-global.type-declaration.d.ts",
-    "./temper-quests-global": "./temper-quests-global/temper-quests-global.type-declaration.d.ts"
+    "./temper-quests-global": "./temper-quests-global/temper-quests-global.type-declaration.d.ts",
+    "./temper-keybinder-global": "./temper-keybinder-global/temper-keybinder-global.type-declaration.d.ts"
   }
 }
