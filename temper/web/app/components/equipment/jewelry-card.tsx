@@ -1,33 +1,41 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { ItemCard } from "@akasha/design-patterns/item-card"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import {
-  type JewelryEnchantId,
-  jewelryEnchants,
-} from "@temper/game-characters-equipment/enchants/jewelry-enchants-data"
-import type { JewelryItem } from "@temper/game-characters-equipment/item-composites"
-import {
-  type JewelrySlotId,
-  jewelrySlots,
-} from "@akasha/temper-equipment-kinds/jewelry-slots"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
 import {
   convertIconPathToUrl,
   getEquipmentIcon,
-} from "@temper/game-characters-equipment/sets/get-equipment-icon"
-import { getValidSetsForSlot } from "@temper/game-characters-equipment/sets/pattern-matcher"
-import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+} from "@akasha/temper-characters-equipment/get-equipment-icon"
+import type { JewelryItem } from "@akasha/temper-characters-equipment/item-composites"
+import {
+  type JewelryEnchantId,
+  jewelryEnchants,
+} from "@akasha/temper-characters-equipment/jewelry-enchants"
+import { getValidSetsForSlot } from "@akasha/temper-characters-equipment/set-pattern-matcher"
 import {
   type JewelryTraitId,
   jewelryTraits,
   jewelryTraitsBuildList,
 } from "@akasha/temper-equipment/jewelry-traits"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+import { type JewelrySlotId, jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { CharacterState } from "@temper/game-characters-character/build-types"
+import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import { AVAILABLE_QUALITY_OPTIONS, getQualityClassName, getQualityLabel, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityClassName,
+  getQualityLabel,
+  getQualityVariant,
+} from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "@/components/equipment/set-select-dialog"
 
