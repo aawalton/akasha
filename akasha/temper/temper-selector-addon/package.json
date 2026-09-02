@@ -1,0 +1,28 @@
+{
+  "name": "@akasha/temper-selector-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./selector-constants": "./selector-constants/selector-constants.module.code.ts",
+    "./selector-types": "./selector-types/selector-types.module.code.ts",
+    "./selector-strings": "./selector-strings/selector-strings.module.code.ts",
+    "./selector-addon-manager": "./selector-addon-manager/selector-addon-manager.module.code.ts",
+    "./selector-saved-variables": "./selector-saved-variables/selector-saved-variables.module.code.ts",
+    "./selector-packs-core": "./selector-packs-core/selector-packs-core.module.code.ts",
+    "./selector-packs": "./selector-packs/selector-packs.module.code.ts",
+    "./selector-keybinds": "./selector-keybinds/selector-keybinds.module.code.ts",
+    "./selector-search": "./selector-search/selector-search.module.code.ts",
+    "./selector-ui-layout": "./selector-ui-layout/selector-ui-layout.module.code.ts",
+    "./selector-ui-dropdown": "./selector-ui-dropdown/selector-ui-dropdown.module.code.ts",
+    "./selector-ui-settings-menu": "./selector-ui-settings-menu/selector-ui-settings-menu.module.code.ts",
+    "./selector-slash-commands": "./selector-slash-commands/selector-slash-commands.module.code.ts",
+    "./selector-events": "./selector-events/selector-events.module.code.ts",
+    "./selector-public-api": "./selector-public-api/selector-public-api.module.code.ts",
+    "./selector-entry": "./selector-entry/selector-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*"
+  }
+}

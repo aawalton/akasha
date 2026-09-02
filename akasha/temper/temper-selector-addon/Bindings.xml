@@ -1,0 +1,43 @@
+<Bindings>
+    <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
+        <Category name="Temper Addons">
+            <Action name="TEMPERADDONS_RELOADUI">
+                <Down>TemperAddons.ReloadTheUI()</Down>
+            </Action>
+            <Action name="TEMPERADDONS_SHOWACTIVEPACK">
+                <Down>TemperAddons.ShowActivePackInChat()</Down>
+            </Action>
+            <Action name="TEMPERADDONS_LOAD_PACK1">
+                <Down>TemperAddons.LoadPackByKeybind(1)</Down>
+            </Action>
+            <Action name="TEMPERADDONS_LOAD_PACK2">
+                <Down>TemperAddons.LoadPackByKeybind(2)</Down>
+            </Action>
+            <Action name="TEMPERADDONS_LOAD_PACK3">
+                <Down>TemperAddons.LoadPackByKeybind(3)</Down>
+            </Action>
+            <Action name="TEMPERADDONS_LOAD_PACK4">
+                <Down>TemperAddons.LoadPackByKeybind(4)</Down>
+            </Action>
+            <Action name="TEMPERADDONS_LOAD_PACK5">
+                <Down>TemperAddons.LoadPackByKeybind(5)</Down>
+            </Action>
+        </Category>
+    </Layer>
+    <Layer name="Addons">
+        <Category>
+            <Action name="TEMPERADDONS_DESELECT_ALL" hideAction="true" inheritsBindFrom="UI_SHORTCUT_SECONDARY">
+                <Down>TemperAddons.SelectAddons(false)</Down>
+            </Action>
+            <Action name="TEMPERADDONS_SELECT_ALL" hideAction="true" inheritsBindFrom="UI_SHORTCUT_TERTIARY">
+                <Down>TemperAddons.SelectAddons(true)</Down>
+            </Action>
+            <Action name="TEMPERADDONS_TOGGLE_ADDON_STATE" hideAction="true" inheritsBindFrom="UI_SHORTCUT_QUINARY">
+                <Down>TemperAddons.ToggleCurrentAddonState()</Down>
+            </Action>
+            <Action name="TEMPERADDONS_SEARCH" hideAction="true" inheritsBindFrom="UI_SHORTCUT_NEGATIVE">
+                <Down>TemperAddons.StartAddonSearch()</Down>
+            </Action>
+        </Category>
+    </Layer>
+</Bindings>
