@@ -8,7 +8,7 @@
     { "addon": "TemperCatalog", "package": "temper/catalog-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13034, "adjacent": ["TemperCharacters", "TemperDataMining"] },
     { "addon": "TemperDataMining", "package": "temper/shared-capture-datamining-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13035, "adjacent": ["TemperCatalog", "TemperInventory"] },
     { "addon": "TemperInventory", "package": "temper/game-items-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13037, "adjacent": ["TemperDataMining", "TemperListings", "TemperHud"] },
-    { "addon": "TemperListings", "package": "temper/game-trading-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13040, "adjacent": ["TemperInventory"] },
+    { "addon": "TemperListings", "package": "akasha/temper/temper-trading-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13040, "adjacent": ["TemperInventory"] },
     { "addon": "TemperHud", "package": "temper/shared-interface-hud-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13085, "adjacent": ["TemperInventory", "TemperInterface"] },
     { "addon": "TemperErrors", "package": "temper/shared-capture-errors-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13133, "adjacent": [] },
     { "addon": "TemperAddons", "package": "temper/shared-interface-selector-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13141, "adjacent": [] },

@@ -166,14 +166,6 @@
         "**/*.ts"
       ]
     },
-    "temper/game-trading-addon": {
-      "entry": [
-        "src/**/*.ts!"
-      ],
-      "project": [
-        "**/*.ts!"
-      ]
-    },
     "temper/player-completion": {
       "entry": [
         "**/*.test.{ts,tsx}"
