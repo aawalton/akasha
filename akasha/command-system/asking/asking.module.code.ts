@@ -346,7 +346,7 @@ export function landingAsked(given: Given, asked: Asked): Answer {
       gate,
       given.writer,
       held.read ?? null,
-      asReadIn(given, held.changes),
+      asReadIn(given, formatting.changes),
       held.carries ?? []
     )
   } catch (thrown) {
@@ -357,7 +357,7 @@ export function landingAsked(given: Given, asked: Asked): Answer {
     }
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
-  recordLanded(given, held.changes)
+  recordLanded(given, formatting.changes)
   return {
     report: reported(said, held, bypass, broken, gate.named.length, aside),
     refusals: [],

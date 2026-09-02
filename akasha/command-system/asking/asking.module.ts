@@ -61,7 +61,16 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that lands is recorded as read by whoever landed the body.",
+      statement: "A body the caller asked for is recorded as read by whoever landed that body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lockfile this command made for the change is recorded as read by nobody.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A lockfile this command made for the change is held to no reading of the caller's.",
     },
     {
       invariantKind: "departure",
