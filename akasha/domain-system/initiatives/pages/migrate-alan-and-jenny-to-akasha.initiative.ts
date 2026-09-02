@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "Activation is mended and landed: `gate-building` asks whichever runtime runs it, the last two reaches are bun children, and the instrument judges `extension.ts` itself at 6 of 6 clean, with `activate()` run under node against a stub editor. Nobody has seen the bar render, so a lane is building a harness that asserts content on all five surfaces rather than leaving Alan as the instrument. Two reaches poll at 1 Hz and cost a fifth of a core each; the interval is Alan's.",
+        "The bar draws 8 slots under node against a stub editor: session 65, weekly 25, upkeep 6, inboxes 3, values 6. Both numbers were dead until `a9491d26eb` — `readUsage` loaded page bodies with `Bun.Transpiler` in a node host, `allSettled` swallowed the fault, and the slots read a dash while activation said 8 of 8. `extension-node-clean` counted that clean, since a guard whose node side throws looks like a file that runs under both. It now says so.",
     },
     {
       statement: "The code editor's four panels each show what akasha holds.",
