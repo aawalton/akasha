@@ -1,0 +1,12 @@
+{
+  "name": "@akasha/temper-capture-perf",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./perf-trace": "./perf-trace/perf-trace.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
