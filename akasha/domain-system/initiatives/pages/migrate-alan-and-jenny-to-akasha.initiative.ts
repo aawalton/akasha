@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "All three iOS apps ship to TestFlight from an akasha command.",
       workingMemory:
-        "`deploy-testflight` resolves `--ref` to one commit before anything is built and hands it to both the www worktree and the mac checkout, refusing a ref no origin ref reaches, since the mac builds by fetching origin. Build 199 is uploaded, stamped `160c4d98e3`, its fingerprint filed at `0aad52c0e7`. Jenny's app and Atlas each owe a build. What holds them is whether an upload puts a notice on a tester's phone at night: Alan asked that nothing be pushed to his, and Jenny agreed to nothing.",
+        "An upload IS a delivery: each app has one internal group holding every build, and every build carries `autoNotifyEnabled`, so the command cannot decline to notify and its only lever is `--no-upload`. Read off the live API without uploading, filed at `8f90294f14`. Jenny's 22 and Atlas 2 are signed, stamped, Apple-validated, waiting on a person. Left to build is the command: `akasha deploy` says an iOS app is not put up by it yet, and Atlas has no page, so it is not even found.",
     },
     {
       statement: "Alan's and Jenny's safety iOS widgets work.",
