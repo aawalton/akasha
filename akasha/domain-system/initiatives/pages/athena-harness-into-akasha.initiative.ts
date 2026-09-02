@@ -12,7 +12,7 @@ export const athenaHarnessIntoAkasha = {
       statement:
         "The model gateway is a domain in akasha, and every module it runs from is a page there.",
       workingMemory:
-        "25 modules at akasha/agents/models/gateway/modules/<slug>/, 375 tests. A sibling import is ../<slug>/<slug>.module.code.ts. shape.ts is never ported: akasha carries zod and z.looseObject. forward is in, so gateway.ts is the last file, held by a 21 file oauth core reached through one shape edge at oauth-schemas:2. oauth-effects is gateway owned, its 8 importers all inside model-gateway. The claude-account page type already declares the tokens secret and the usage marks uncommitted.",
+        "7 account modules at akasha/agents/claude-accounts/modules/<slug>/, 173 tests; 25 gateway modules, 375 tests. The shape.ts edge is gone, zod is 4.5.4, and z.record drops a __proto__ key. One account is reached through accountPathIn in claude-account-reading: two index reads, no listing. Only credential-push is left before gateway.ts, declaring rescued-credential on the page type and narrowing the sidecar before writing the pair, since page-uncommitted now keeps a replaced file's mode.",
     },
     {
       statement: "No part of the model gateway is outside akasha.",
