@@ -1,8 +1,8 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
 import { ACTIVITY_CATEGORIES } from "@akasha/temper-player-completion/activity-categories"
+import { getCompletionCardTab } from "@akasha/temper-player-completion/completion-card-tab"
 import type { CompletionSortMode } from "@akasha/temper-player-completion-ui/completion-panel-card"
-import { getTabForCard } from "@temper/player-completion/completion-card-registry"
 import {
   VALID_SKILL_TYPES,
   VALID_STATUSES,
@@ -138,7 +138,7 @@ export function useCompletionFilters({
         defaultValue: null,
         initial: initialScrollTo,
         validate: (raw) =>
-          typeof raw === "string" && getTabForCard(raw) != null ? raw : undefined,
+          typeof raw === "string" && getCompletionCardTab(raw) != null ? raw : undefined,
       },
     },
   })
