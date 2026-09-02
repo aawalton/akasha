@@ -7,7 +7,7 @@ import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { SortButton } from "@akasha/design-patterns/sort-button"
-import { type SortDirection } from "@akasha/design-patterns/sort-types"
+import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { useMemo, useState } from "react"
 import type {
   ActiveStatusFilter,
@@ -35,7 +35,7 @@ interface InventoryRulesFilterBarProps {
   ruleSortBy: RuleSortField
   ruleSortDir: SortDirection
   hasDuplicates: boolean
-  inventory: import("@temper/game-items-core/inventory-types").InventoryDatabase | null
+  inventory: import("@akasha/temper-items-core/inventory-types").InventoryDatabase | null
   onRuleStatusChange: (status: readonly ActiveStatusFilter[]) => void
   onRuleLockChange: (lock: readonly LockStatusFilter[]) => void
   onRuleGoalChange: (goals: readonly string[]) => void

@@ -31,7 +31,7 @@ export function RuleLocationFilterSelect({
   onRuleLocationChange,
 }: {
   ruleLocation: string | null
-  inventory: import("@temper/game-items-core/inventory-types").InventoryDatabase | null
+  inventory: import("@akasha/temper-items-core/inventory-types").InventoryDatabase | null
   onRuleLocationChange: (location: string | null) => void
 }) {
   const selectedType: LocationTypeId | null = useMemo(() => {

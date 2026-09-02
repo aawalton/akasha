@@ -251,7 +251,7 @@ export type RuleFilterPopoverProps = {
   ruleCategory: string
   ruleLocation: string | null
   hasDuplicates: boolean
-  inventory: import("@temper/game-items-core/inventory-types").InventoryDatabase | null
+  inventory: import("@akasha/temper-items-core/inventory-types").InventoryDatabase | null
   onRuleStatusChange: (status: readonly ActiveStatusFilter[]) => void
   onRuleLockChange: (lock: readonly LockStatusFilter[]) => void
   onRuleGoalChange: (goals: readonly string[]) => void
