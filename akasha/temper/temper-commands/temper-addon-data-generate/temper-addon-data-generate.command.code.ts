@@ -5,7 +5,7 @@ const DATA = 2
 
 export function temperAddonDataGenerate(): Answer {
   return refused(
-    "the pages the addon data is generated from are not in akasha yet, so nothing here writes it",
+    "every page these tables are rendered from is in akasha, and ten of the thirteen have no akasha module to land in, so nothing here writes them",
     DATA
   )
 }
