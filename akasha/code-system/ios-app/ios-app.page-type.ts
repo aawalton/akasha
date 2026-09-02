@@ -4,11 +4,15 @@ import type { AscCapabilities } from "./properties/asc-capabilities.text-propert
 import type { BuildScript } from "./properties/build-script.relation-property.ts"
 import type { BundleId } from "./properties/bundle-id.text-property.ts"
 import type { CapacitorConfig } from "./properties/capacitor-config.file-property.ts"
+import type { DefaultDeviceUdid } from "./properties/default-device-udid.text-property.ts"
 import type { DevelopmentTeam } from "./properties/development-team.text-property.ts"
 import type { DisplayName } from "./properties/display-name.text-property.ts"
 import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
 import type { IconDrawing } from "./properties/icon-drawing.file-property.ts"
 import type { IconPath } from "./properties/icon-path.text-property.ts"
+import type { MacBuildLockDir } from "./properties/mac-build-lock-dir.text-property.ts"
+import type { MacBuildNumberFile } from "./properties/mac-build-number-file.text-property.ts"
+import type { MacWwwStagingRel } from "./properties/mac-www-staging-rel.text-property.ts"
 import type { MarketingVersion } from "./properties/marketing-version.text-property.ts"
 import type { SpaSourcePath } from "./properties/spa-source-path.text-property.ts"
 import type { StageScript } from "./properties/stage-script.relation-property.ts"
@@ -20,11 +24,15 @@ export type IosApp = WorkspacePackage & {
   buildScript?: BuildScript
   bundleId: BundleId
   capacitorConfig: CapacitorConfig
+  defaultDeviceUdid?: DefaultDeviceUdid
   developmentTeam: DevelopmentTeam
   displayName: DisplayName
   gitIgnore: GitIgnore
   iconDrawing?: IconDrawing
   iconPath?: IconPath
+  macBuildLockDir?: MacBuildLockDir
+  macBuildNumberFile?: MacBuildNumberFile
+  macWwwStagingRel?: MacWwwStagingRel
   marketingVersion: MarketingVersion
   spaSourcePath?: SpaSourcePath
   stageScript?: StageScript
@@ -56,9 +64,13 @@ export const iosApp = {
     "shell-script/write-capacitor-config",
     "text-property/asc-capabilities",
     "text-property/bundle-id",
+    "text-property/default-device-udid",
     "text-property/development-team",
     "text-property/display-name",
     "text-property/icon-path",
+    "text-property/mac-build-lock-dir",
+    "text-property/mac-build-number-file",
+    "text-property/mac-www-staging-rel",
     "text-property/marketing-version",
     "text-property/spa-source-path",
     "text-property/web-env-path",
@@ -69,11 +81,15 @@ export const iosApp = {
     { pagePropertySlug: "build-script", required: false, many: false },
     { pagePropertySlug: "bundle-id", required: true, many: false },
     { pagePropertySlug: "capacitor-config", required: true, many: false },
+    { pagePropertySlug: "default-device-udid", required: false, many: false },
     { pagePropertySlug: "development-team", required: true, many: false },
     { pagePropertySlug: "display-name", required: true, many: false },
     { pagePropertySlug: "git-ignore", required: true, many: false },
     { pagePropertySlug: "icon-drawing", required: false, many: false },
     { pagePropertySlug: "icon-path", required: false, many: false },
+    { pagePropertySlug: "mac-build-lock-dir", required: false, many: false },
+    { pagePropertySlug: "mac-build-number-file", required: false, many: false },
+    { pagePropertySlug: "mac-www-staging-rel", required: false, many: false },
     { pagePropertySlug: "marketing-version", required: true, many: false },
     { pagePropertySlug: "spa-source-path", required: false, many: false },
     { pagePropertySlug: "stage-script", required: false, many: false },

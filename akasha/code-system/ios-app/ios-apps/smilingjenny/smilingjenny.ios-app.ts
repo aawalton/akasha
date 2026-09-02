@@ -13,6 +13,8 @@ export const smilingjenny = {
   developmentTeam: "M6AN6NM6FL",
   displayName: "Smiling Jenny",
   gitIgnore: "gitignore",
+  macBuildLockDir: "$HOME/.appstoreconnect/deploy-testflight-smilingjenny.lock",
+  macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number-smilingjenny",
   marketingVersion: "1.0",
   webEntry: "html",
   partSlugs: [
