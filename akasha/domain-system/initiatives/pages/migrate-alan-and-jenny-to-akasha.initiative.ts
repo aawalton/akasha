@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's four panels each show what akasha holds.",
       workingMemory:
-        "All four draw: Agents 80 rows, Domains 6831, Work 13, Pages 427, proved by `tools/extension-panels-draw.ts` under node against a stub editor, each seeded and shown empty before it was believed. One long-lived bun child per window replaced a process per reach: 0.648 cores down to 0.029, 275 answers byte-identical. What is left is turn color read from markdown frontmatter, the markdown write side pulled in on every refresh, and 344 page types the Pages panel puts under no root.",
+        "All five surfaces draw under node against a stub editor, by `tools/extension-panels-draw.ts`: Agents 85, Domains 6876, Work 13, Pages 2885, status bar 8 slots. Pages drew 427 until `c90dd573c8` — the property map is keyed qualified while the lookups were bare, so ~2115 definitions dropped in silence. A row floor landed at `ec825f4643`, since every check stayed green through that loss and only the count knew. Under load the agent tree can outrun the harness 20s wait.",
     },
     {
       statement: "Nothing reads a readout through the markdown engine.",
