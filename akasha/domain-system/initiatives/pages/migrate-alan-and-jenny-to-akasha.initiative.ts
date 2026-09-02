@@ -11,7 +11,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's status line shows Claude usage and both readout groups.",
       workingMemory:
-        "Alan named this on 09-02: two Claude usage numbers beside the upkeep and inboxes readout groups. An explorer is mapping what exists — whether the extension already carries a status line, which pair of usage numbers he means, and whether a process on this workstation can reach the relayed readings or must go over HTTP to the pod. Both stoplight routes on his site answered 401 to an unauthenticated probe. The reach decides the shape, so nothing is built until that map returns.",
+        "Alan settled the two numbers: average effective 5-hour and average 7-day usage. Effective means a 7-day figure at 100% counts that account's 5-hour at 100% too, so the reading is likely `max(5h, 7d)` per account, averaged over the registration accounts the seats name. Where they can be read is the open question; the seat page type declares a proxy port, process, version and record, so a local proxy seeing rate-limit headers is the first candidate. An explorer is on it.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
