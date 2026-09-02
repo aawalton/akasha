@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aRetirementOrphansProseAndTheRepairIsARewriteNotARepoint = {
+  id: "01a06441-182f-779a-b3e8-4290fd9f837a",
+  pageTypeSlug: "finding",
+  slug: "a-retirement-orphans-prose-and-the-repair-is-a-rewrite-not-a-repoint",
+  domainSlug: "workspace-package/command-system",
+  claim:
+    "Retiring a finding is itself a removal, and it orphans the prose of any page whose evidence names the slug going with it. `akasha edit --remove` judges the paths it takes away and never whether another page names them, so clearing dangling citations makes new ones. Repointing would not close it: a page retired for being false took a fact with it, so the sentence citing it wants rewriting rather than a new address.",
+  evidence:
+    "Measured 2026-09-02, and the experiment was one I ran on myself without meaning to.\n\nClearing 18 dangling citations, I retired `player-profile-is-web-code-that-shared-auth-bars-from-akasha` at `6ddd2941ed`, correctly: the hook it said could not land had landed at `5531ceda0a` as `akasha/temper/temper-player-profile/use-player`. That retirement orphaned a citation in `a-reversal-outlived-the-reason-it-was-taken-for`, which named it as an example of a hold already eroding. Repaired at `6d0636a5ed`.\n\nThe repair was no repoint. The hold had not eroded, it had fallen, so the sentence had to say something else. A mechanical sweep swapping the dead name for a live one would have carried a false sentence forward under a name that resolves, which is worse than one that does not: a reader can see a name reaching nothing.\n\nThe scale to size it by, over the findings after those repairs: 743 live findings carrying 105 cross-citations to 89 of them, and one dangling by deliberate annotation. That is a healthy reading and nothing keeps it there.\n\nTwo things an auditor of this wants. A slug is not recoverable once removed and a commit hash is, which is why every repair I landed named the removal commit rather than the removed name. And findings lived at `akasha/domain-system/finding/findings/` before they lived where they do, so a census globbing today's folder alone under-counts against history: my own first sweep missed `a-manifest-check-is-blind-to-tsx`, removed at `e1c441febe` from the old path, and reported 17 where there were 18.\n\nWhat is unheld is that no page's prose names a slug being taken away. Whether that is worth holding is not decided here.",
+} as const satisfies Finding
