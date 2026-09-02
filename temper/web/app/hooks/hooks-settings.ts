@@ -5,6 +5,7 @@ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { InventoryLoggingSettings } from "@akasha/temper-items-core/inventory-logging-types"
 import {
   ALL_DESTRUCTIVE_ACTIONS,
@@ -13,7 +14,6 @@ import {
 import type { ShoppingSettings } from "@akasha/temper-shopping/shopping-settings"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { Json } from "@akasha/utils-narrow/json-value"
-import { useAuth } from "@shared/auth/use-auth"
 import { useCallback, useMemo } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
@@ -62,7 +62,7 @@ function isStringBooleanRecord(value: unknown): value is Record<string, boolean>
 }
 
 function useSettingsBlob() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { rows } = usePagesSupabase({
     pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
     where:

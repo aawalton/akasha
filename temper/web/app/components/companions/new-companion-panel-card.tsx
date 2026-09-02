@@ -5,12 +5,12 @@ import { cn } from "@akasha/design-primitives/cn"
 import { Spinner } from "@akasha/design-primitives/spinner"
 import { Text } from "@akasha/design-primitives/text-body"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { extractCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { encodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import { createNewCompanion } from "@akasha/temper-companions-core/companion-factory"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
-import { useAuth } from "@shared/auth/use-auth"
 import { useCompanionLifecycle } from "@temper/game-companions-ui/use-companions"
 import { Plus } from "lucide-react"
 import { useState } from "react"
@@ -19,7 +19,7 @@ import { toast } from "sonner"
 export function NewCompanionPanelCard() {
   const [isCreating, setIsCreating] = useState(false)
   const router = usePagesUIRouter()
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { createNew } = useCompanionLifecycle()
 
   const handleCreate = async () => {

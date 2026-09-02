@@ -12,9 +12,9 @@ import {
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Skeleton } from "@akasha/design-primitives/skeleton"
 import { Switch } from "@akasha/design-primitives/switch-control"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { extractGuildBankKeys } from "@akasha/temper-items-core/inventory-guild-bank-filter"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
-import { useAuth } from "@shared/auth/use-auth"
 import { useInventory } from "@temper/player-inventory-management-ui/hooks-inventory"
 import { useManagedGuildBanks } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { AlertCircle, Package } from "lucide-react"
@@ -29,7 +29,7 @@ interface InventoryTabProps {
 }
 
 export function InventoryTab({ active }: InventoryTabProps) {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { inventory, isLoading, isError, dataTimestamp } = useInventory(userId)
   const { managedSet, updateManagedGuildBanks } = useManagedGuildBanks()
 

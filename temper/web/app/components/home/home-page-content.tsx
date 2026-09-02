@@ -16,6 +16,7 @@ import {
 import { QueryErrorBoundary } from "@akasha/design-patterns/query-error-boundary"
 import { Button } from "@akasha/design-primitives/button"
 import { PagesUILink as Link, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { decodeBuild } from "@akasha/temper-build-codec/build-codec"
 import {
   applyCharacterMetadata,
@@ -25,7 +26,6 @@ import { decodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { groupInventoryByType } from "@akasha/temper-items-core/inventory-grouping"
 import { partitionUnmanagedGuildBanks } from "@akasha/temper-items-core/inventory-guild-bank-filter"
-import { useAuth } from "@shared/auth/use-auth"
 import { useCharacterList } from "@temper/game-characters-character-ui/use-characters"
 import { useCompanionList } from "@temper/game-companions-ui/use-companions"
 import { useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
@@ -62,7 +62,7 @@ function HomeCompletionCard() {
 }
 
 function HomeInventoryCard() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { inventory: rawInventory, isLoading } = useInventory(userId)
   const { managedSet } = useManagedGuildBanks()
   const { inventory, excluded } = useMemo(

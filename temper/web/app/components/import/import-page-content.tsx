@@ -1,15 +1,15 @@
 "use client"
 
-import { useAuth } from "@shared/auth/use-auth"
 import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Alert, AlertDescription, AlertTitle } from "@akasha/design-primitives/alert"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
-import { Spinner } from "@akasha/design-primitives/spinner"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
+import { Spinner } from "@akasha/design-primitives/spinner"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { useInventoryImport } from "@temper/player-inventory-management-ui/use-inventory-import"
 import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"
 import {
@@ -22,7 +22,7 @@ import { useTemperImport } from "@/components/import/use-temper-import"
 export function ImportPageContent() {
   const surface = useSurface()
   const path = `rounded ${surfaceClass(surface + 1)} px-1.5 py-0.5 text-xs`
-  const { userId } = useAuth()
+  const userId = useUserId()
   const {
     state,
     dragOver,

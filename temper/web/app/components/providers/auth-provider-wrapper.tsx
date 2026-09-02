@@ -1,9 +1,8 @@
 "use client"
 
-import { AuthContext, type AuthContextValue } from "@shared/auth/use-auth"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
-import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
+import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { reportPagesStoreStall } from "@akasha/pages-ui-store/report-stall"
 import { configurePagesStoreAuth, getPagesStore } from "@akasha/pages-ui-store/singleton"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
@@ -46,10 +45,7 @@ function TemperPagesResolverShell({ children }: { children: ReactNode }) {
 
 function AuthBridge({ children }: { children: ReactNode }) {
   const supabase = useSupabase()
-  const [authState, setAuthState] = useState<AuthContextValue>({
-    userId: null,
-    isAuthenticated: false,
-  })
+  const [userId, setUserId] = useState<string | null>(null)
   const wasAuthenticated = useRef(false)
 
   useEffect(() => {
@@ -57,7 +53,7 @@ function AuthBridge({ children }: { children: ReactNode }) {
 
     const apply = (user: { id: string } | null) => {
       if (user) {
-        setAuthState({ userId: user.id, isAuthenticated: true })
+        setUserId(user.id)
         wasAuthenticated.current = true
         return
       }
@@ -69,7 +65,7 @@ function AuthBridge({ children }: { children: ReactNode }) {
         window.location.href = signInUrl
         return
       }
-      setAuthState({ userId: null, isAuthenticated: false })
+      setUserId(null)
     }
 
     const refreshAuth = async (): Promise<void> => {
@@ -141,9 +137,5 @@ function AuthBridge({ children }: { children: ReactNode }) {
     }
   }, [supabase])
 
-  return (
-    <UserIdContext value={authState.userId}>
-      <AuthContext.Provider value={authState}>{children}</AuthContext.Provider>
-    </UserIdContext>
-  )
+  return <UserIdContext value={userId}>{children}</UserIdContext>
 }

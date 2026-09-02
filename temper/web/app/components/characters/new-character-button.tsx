@@ -3,12 +3,12 @@
 import { Button } from "@akasha/design-primitives/button"
 import { Spinner } from "@akasha/design-primitives/spinner"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import { extractCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { createNewCharacter } from "@akasha/temper-character-build/build-factory"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
-import { useAuth } from "@shared/auth/use-auth"
 import { useCharacterLifecycle } from "@temper/game-characters-character-ui/use-characters"
 import { Plus } from "lucide-react"
 import { useState } from "react"
@@ -17,7 +17,7 @@ import { toast } from "sonner"
 export function NewCharacterButton() {
   const [isCreating, setIsCreating] = useState(false)
   const router = usePagesUIRouter()
-  const { userId } = useAuth()
+  const userId = useUserId()
   const { createNew } = useCharacterLifecycle()
 
   const handleCreate = async () => {

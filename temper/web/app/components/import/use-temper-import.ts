@@ -4,6 +4,7 @@ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import type {
   AccountCompletion,
@@ -19,7 +20,6 @@ import {
 } from "@akasha/temper-player-completion/completion-merge-forward"
 import { asRecord } from "@akasha/utils-narrow/as-record"
 import type { Json } from "@akasha/utils-narrow/json-value"
-import { useAuth } from "@shared/auth/use-auth"
 import { useCallback, useEffect, useRef, useState } from "react"
 import type { ImportResult } from "@/app/import/actions"
 
@@ -44,7 +44,7 @@ type ImportState =
   | { phase: "error"; message: string }
 
 export function useTemperImport() {
-  const { userId } = useAuth()
+  const userId = useUserId()
   const [state, setState] = useState<ImportState>({ phase: "idle" })
   const [dragOver, setDragOver] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)

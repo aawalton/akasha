@@ -1,21 +1,27 @@
 "use client"
 
-import { useAuth } from "@shared/auth/use-auth"
 import { Badge } from "@akasha/design-badges/badge"
 import { Button } from "@akasha/design-primitives/button"
-import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
+import { cn } from "@akasha/design-primitives/cn"
+import {
+  Dialog,
+  DialogBody,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+} from "@akasha/design-primitives/dialog"
 import { Heading } from "@akasha/design-primitives/heading"
 import { Input } from "@akasha/design-primitives/input"
 import { ScrollArea } from "@akasha/design-primitives/scroll-area"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { cn } from "@akasha/design-primitives/cn"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { createPage } from "@akasha/pages-access/create"
 import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
-import type { Json } from "@akasha/utils-narrow/json-value"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
+import type { Json } from "@akasha/utils-narrow/json-value"
 import { Loader2 } from "lucide-react"
 import { useCallback, useEffect, useState } from "react"
 import { toast } from "sonner"
@@ -41,7 +47,7 @@ export function VersionHistoryDialog({
   onVersionRestored,
 }: VersionHistoryDialogProps) {
   const surface = useSurface()
-  const { userId } = useAuth()
+  const userId = useUserId()
   const optimisticCreate = useOptimisticCreatePage((args) => createPage(args))
   const optimisticPatch = useOptimisticPatchPage((args) => patchPage(args))
   const createCheckpointMutation = useCallback(
