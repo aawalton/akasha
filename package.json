@@ -46,6 +46,7 @@
     "native-shell/atlas",
     "readouts",
     "shared/auth",
+    "shared/design-patterns",
     "shared/pages-query",
     "shared/pages-ui",
     "shared/utils-test",
