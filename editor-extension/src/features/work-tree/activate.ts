@@ -2,7 +2,7 @@ import * as vscode from 'vscode';
 import { repositoryPath, unreachableMessage } from '../../harness-call.ts';
 import { recordObservation } from '../../seat/observation-store.ts';
 import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
-import { dropDerivers } from '../../../../tools/lib/deriver-hold.ts';
+import { dropDerivers } from '@tools/lib/deriver-hold';
 import { createSettledRefresh } from '../settled-refresh.ts';
 import { type WorkNode, type WorkTree, countRows, workKeys, readWorkColours, readWorkTree } from "./harness.ts"
 import { recolour } from "./colours.ts";
