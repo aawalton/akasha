@@ -6,6 +6,7 @@ export const completionPercent = {
   slug: "completion-percent",
   definition: "how far along a count is, as a whole number out of a hundred",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "constraint",
