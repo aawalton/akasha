@@ -117,7 +117,11 @@ test("a body another landing moved while this one waited is refused, and that bo
       `import { landing } from ${JSON.stringify(MODULE_AT)}
 import { existsSync, writeFileSync } from "node:fs"
 writeFileSync(${JSON.stringify(ready)}, "ready")
-while (!existsSync(${JSON.stringify(go)})) Bun.sleepSync(1)
+const deadline = Date.now() + 60000
+while (!existsSync(${JSON.stringify(go)})) {
+  if (Date.now() > deadline) process.exit(1)
+  Bun.sleepSync(1)
+}
 const said = landing(
   ${JSON.stringify(root)},
   [{ path: ${JSON.stringify(AT)}, body: new TextEncoder().encode("written over") }],
@@ -131,14 +135,18 @@ console.log("refusals" in said ? said.refusals.join("\\n") : "landed")`,
     ],
     { stdout: "pipe" }
   )
-  expect(await until(() => existsSync(ready))).toBe(true)
-  const held = landing(root, [{ path: AT, body: bytes("moved by the other") }], "held", ADMITS)
-  expect("refusals" in held).toBe(false)
-  writeFileSync(go, "go")
-  const said = await new Response(kid.stdout).text()
-  await kid.exited
-  expect(said).toContain(MOVED)
-  expect(readFileSync(join(root, AT), "utf8")).toBe("moved by the other")
+  try {
+    expect(await until(() => existsSync(ready))).toBe(true)
+    const held = landing(root, [{ path: AT, body: bytes("moved by the other") }], "held", ADMITS)
+    expect("refusals" in held).toBe(false)
+    writeFileSync(go, "go")
+    const said = await new Response(kid.stdout).text()
+    await kid.exited
+    expect(said).toContain(MOVED)
+    expect(readFileSync(join(root, AT), "utf8")).toBe("moved by the other")
+  } finally {
+    kid.kill()
+  }
 })
 
 function landedMeanwhile(root: string, path: string, body: string): Judging {
