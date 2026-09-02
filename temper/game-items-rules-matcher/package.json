@@ -8,8 +8,6 @@
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs-access": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
-    "@temper/game-characters-character": "workspace:*",
-    "@temper/game-characters-equipment": "workspace:*",
     "@temper/game-codec": "workspace:*",
     "@temper/game-items-core": "workspace:*",
     "@temper/game-items-rules-core": "workspace:*",
