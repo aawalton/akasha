@@ -10,8 +10,11 @@ export const tracks = {
   definition: "every track a person has heard, one to a line",
   partSlugs: [
     "instant-property/first-heard-at",
+    "text-property/artist-name",
     "text-property/heard-source",
+    "text-property/spotify-track-id",
     "text-property/title-key",
+    "text-property/track-name",
   ],
   properties: [
     { pagePropertySlug: "spotify-track-id", required: true, many: false },
