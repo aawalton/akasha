@@ -20,4 +20,5 @@ export const reusableParts = {
   skillType: "passive",
   subcategoryId: "necromancer-grave-lord",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

@@ -19,4 +19,5 @@ export const ranger = {
   skillType: "passive",
   subcategoryId: "weapon-bow",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

@@ -19,4 +19,5 @@ export const shadowRider = {
   skillType: "passive",
   subcategoryId: "guild-dark-brotherhood",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

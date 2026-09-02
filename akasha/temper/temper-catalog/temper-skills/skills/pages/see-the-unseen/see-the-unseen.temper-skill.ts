@@ -20,4 +20,5 @@ export const seeTheUnseen = {
   skillType: "passive",
   subcategoryId: "guild-psijic-order",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

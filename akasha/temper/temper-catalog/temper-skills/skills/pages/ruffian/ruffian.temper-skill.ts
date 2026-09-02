@@ -20,4 +20,5 @@ export const ruffian = {
   skillType: "passive",
   subcategoryId: "weapon-dual-wield",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

@@ -19,4 +19,5 @@ export const restorationExpert = {
   skillType: "passive",
   subcategoryId: "weapon-restoration-staff",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

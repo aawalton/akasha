@@ -19,4 +19,5 @@ export const refreshingShadows = {
   skillType: "passive",
   subcategoryId: "nightblade-shadow",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill
