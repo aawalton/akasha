@@ -6,4 +6,5 @@ export const completionPageOwnEmpty = {
   slug: "completion-page-own-empty",
   definition: "what the completion page draws before the signed-in player has imported anything",
   code: "tsx",
+  test: "tsx",
 } as const satisfies Module
