@@ -31,11 +31,15 @@ export const sampleUpsert = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows file is read and written under one lock held across the whole act.",
+      statement: "A write names the commit the rows were read at.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading is written only into the checkout said to keep what is written there.",
+      statement: "A write is refused where the rows file no longer holds what was read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading is written through the pages rather than onto a checkout.",
     },
     {
       invariantKind: "departure",
@@ -46,12 +50,28 @@ export const sampleUpsert = {
       statement: "Nothing here writes the ESO day page the rows sit beside.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here commits the rows written.",
+      invariantKind: "departure",
+      statement: "The rows written land as a commit.",
     },
     {
-      invariantKind: "gap",
-      statement: "A reading nothing commits goes when the checkout holding that reading goes.",
+      invariantKind: "departure",
+      statement: "A write the pages refuse is tried again from a fresh read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Five tries are made at the most.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change meant that named no commit is refused rather than answered as done.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write that never landed throws.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day whose readings were all filed already is answered without a commit.",
     },
   ],
 } as const satisfies Module

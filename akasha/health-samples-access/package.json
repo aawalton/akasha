@@ -10,8 +10,7 @@
   },
   "dependencies": {
     "@akasha/day": "workspace:*",
-    "@akasha/file-system": "workspace:*",
     "@akasha/pages-system": "workspace:*",
-    "@akasha/utils-fs": "workspace:*"
+    "@akasha/pages-system-service": "workspace:*"
   }
 }

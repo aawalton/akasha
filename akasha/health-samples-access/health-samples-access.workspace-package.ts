@@ -20,16 +20,12 @@ export const healthSamplesAccess = {
       statement: "Nothing here reaches the device a reading came from.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here reaches a page.",
-    },
-    {
       invariantKind: "departure",
       statement:
         "A reading is filed under the ESO day the reading started in rather than the day the reading arrived.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A reading is read and written as a page akasha carries.",
     },
   ],

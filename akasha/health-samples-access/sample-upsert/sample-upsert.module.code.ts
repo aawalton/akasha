@@ -1,13 +1,9 @@
 import { randomUUID } from "node:crypto"
-import { existsSync, mkdirSync, readFileSync } from "node:fs"
-import { dirname, resolve } from "node:path"
 import { getEsoDayStrAt } from "@akasha/day/eso-day"
-import { exclusively } from "@akasha/file-system/exclusive"
-import { canonicalize } from "@akasha/pages-system/repo-path"
-import { writeFileAtomicSync } from "@akasha/utils-fs/atomic-write"
+import { readingFor, writingFor } from "@akasha/pages-system-service/calling"
 import { sampleIdentity } from "../sample-identity/sample-identity.module.code.ts"
 import { numberAt, textAt } from "../sample-rows/sample-rows.module.code.ts"
-import { checkoutRoot, sampleRowsAt } from "../sample-selecting/sample-selecting.module.code.ts"
+import { sampleRowsIn } from "../sample-selecting/sample-selecting.module.code.ts"
 import type {
   HealthSample,
   HealthSampleWriteReport,
@@ -21,27 +17,9 @@ const EMPTY_REPORT: HealthSampleWriteReport = {
   valueChanged: 0,
 }
 
-export const KEPT_IN = "HEALTH_SAMPLE_ROWS_KEPT_IN"
+export const WRITER = "Health samples <health-samples@alanwalton.com>"
 
-export function keptSaid(): string | null {
-  const said = process.env[KEPT_IN]
-  return said === undefined || said.trim() === "" ? null : said.trim()
-}
-
-export function refusalWhereNothingKeeps(root: string, said: string | null): string | null {
-  if (said !== null && canonicalize(resolve(said)) === root) return null
-  const says =
-    said === null
-      ? "nothing says which checkout keeps the readings written into it"
-      : `\`${KEPT_IN}\` says \`${said}\``
-  return (
-    `${says}, and this would have written into \`${root}\`. A rows file is tracked, so a ` +
-    "checkout restored by `git reset --hard origin/main` throws away what was written into it, " +
-    "and answering this write as done would let the device move its anchor past readings " +
-    `nothing keeps. Say the checkout whose writes last in \`${KEPT_IN}\`, naming the very ` +
-    "checkout written into."
-  )
-}
+export const TRIES = 5
 
 interface Filed {
   readonly at: number
@@ -56,13 +34,17 @@ interface DayTally {
   readonly valueChanged: number
 }
 
+interface Merged {
+  readonly lines: readonly string[]
+  readonly tally: DayTally
+  readonly touched: boolean
+}
+
 type Held = readonly (readonly [string, HealthSample])[]
 
-function linesAt(path: string): readonly string[] {
-  if (!existsSync(path)) return []
-  return readFileSync(path, "utf8")
-    .split("\n")
-    .filter((one) => one.trim() !== "")
+function linesIn(content: string | null): readonly string[] {
+  if (content === null) return []
+  return content.split("\n").filter((one) => one.trim() !== "")
 }
 
 function valuesOf(line: string, path: string): Readonly<Record<string, unknown>> {
@@ -116,37 +98,75 @@ function filedIn(lines: readonly string[], path: string): ReadonlyMap<string, Fi
   return held
 }
 
-function landDay(path: string, held: Held, arrivedAt: string): DayTally {
-  mkdirSync(dirname(path), { recursive: true })
-  return exclusively(path, () => {
-    const lines = [...linesAt(path)]
-    const filed = filedIn(lines, path)
-    let highest = 0
-    for (const one of filed.values()) if (one.seq > highest) highest = one.seq
-    let inserted = 0
-    let unchanged = 0
-    let valueChanged = 0
-    let touched = false
-    for (const [identity, sample] of held) {
-      const prior = filed.get(identity)
-      if (prior === undefined) {
-        highest += 1
-        lines.push(lineOf(sample, randomUUID(), highest, arrivedAt))
-        inserted += 1
-        touched = true
-        continue
-      }
-      if (prior.value === sample.value) {
-        unchanged += 1
-        continue
-      }
-      lines[prior.at] = lineOf(sample, prior.id, prior.seq, arrivedAt)
-      valueChanged += 1
+export function mergedInto(
+  read: readonly string[],
+  held: Held,
+  arrivedAt: string,
+  path: string
+): Merged {
+  const lines = [...read]
+  const filed = filedIn(lines, path)
+  let highest = 0
+  for (const one of filed.values()) if (one.seq > highest) highest = one.seq
+  let inserted = 0
+  let unchanged = 0
+  let valueChanged = 0
+  let touched = false
+  for (const [identity, sample] of held) {
+    const prior = filed.get(identity)
+    if (prior === undefined) {
+      highest += 1
+      lines.push(lineOf(sample, randomUUID(), highest, arrivedAt))
+      inserted += 1
       touched = true
+      continue
     }
-    if (touched) writeFileAtomicSync(path, `${lines.join("\n")}\n`)
-    return { inserted, unchanged, valueChanged }
-  })
+    if (prior.value === sample.value) {
+      unchanged += 1
+      continue
+    }
+    lines[prior.at] = lineOf(sample, prior.id, prior.seq, arrivedAt)
+    valueChanged += 1
+    touched = true
+  }
+  return { lines, tally: { inserted, unchanged, valueChanged }, touched }
+}
+
+function messageFor(path: string, tally: DayTally): string {
+  return `${String(tally.inserted)} reading(s) filed and ${String(tally.valueChanged)} corrected in ${path}`
+}
+
+async function landDay(path: string, held: Held, arrivedAt: string): Promise<DayTally> {
+  let why = "nothing was tried"
+  for (let taken = 1; taken <= TRIES; taken += 1) {
+    const read = await readingFor({ paths: [path] })
+    if ("refused" in read) {
+      why = read.refused
+      continue
+    }
+    const body = read.bodies.find((one) => one.path === path)
+    const merged = mergedInto(linesIn(body?.content ?? null), held, arrivedAt, path)
+    if (!merged.touched) return merged.tally
+    const wrote = await writingFor({
+      writer: WRITER,
+      message: messageFor(path, merged.tally),
+      puts: [{ path, content: `${merged.lines.join("\n")}\n` }],
+      read: read.at,
+    })
+    if ("refused" in wrote) {
+      why = wrote.refused
+      continue
+    }
+    if (wrote.commit === null) {
+      why = `the pages named no commit for ${path}, and a change was meant`
+      continue
+    }
+    return merged.tally
+  }
+  throw new Error(
+    `upsertHealthSamples: ${path} was not written in ${String(TRIES)} tries — ${why}. ` +
+      "Nothing was committed, so the device keeps its anchor and these readings arrive again."
+  )
 }
 
 export async function upsertHealthSamples(args: {
@@ -155,13 +175,6 @@ export async function upsertHealthSamples(args: {
 }): Promise<HealthSampleWriteReport> {
   if (args.samples.length === 0) return EMPTY_REPORT
 
-  const root = checkoutRoot()
-  const refused = refusalWhereNothingKeeps(root, keptSaid())
-  if (refused !== null) {
-    throw new Error(
-      `upsertHealthSamples: ${args.samples.length} reading(s) were not written — ${refused}`
-    )
-  }
   const byIdentity = new Map<string, HealthSample>()
   for (const sample of args.samples) byIdentity.set(sampleIdentity(sample), sample)
 
@@ -179,7 +192,7 @@ export async function upsertHealthSamples(args: {
   let valueChanged = 0
 
   for (const day of [...byDay.keys()].sort()) {
-    const tally = landDay(sampleRowsAt(root, day), byDay.get(day) ?? [], arrivedAt)
+    const tally = await landDay(sampleRowsIn(day), byDay.get(day) ?? [], arrivedAt)
     inserted += tally.inserted
     unchanged += tally.unchanged
     valueChanged += tally.valueChanged
