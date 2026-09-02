@@ -16,7 +16,7 @@ import { useAllPages, useRelatedPages } from "../supabase/hooks.ts"
 import { useOptimisticPatchPropertyDefinition } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-property-definition"
 import { useOptionListLookup } from "../supabase/use-option-list-lookup.ts"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
-import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic.tsx"
+import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import { createOptionOnDefinition } from "@akasha/pages-ui-components/create-option"
 import { toAggregateInputs, toPageDataJSON, toPageDataRecord } from "@akasha/pages-ui-components/page-data-json"
 import {

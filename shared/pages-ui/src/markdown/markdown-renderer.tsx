@@ -8,7 +8,7 @@ import type { Components } from "react-markdown"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
 
-import { MentionChip } from "./mention-chip"
+import { MentionChip } from "@akasha/pages-ui/markdown/mention-chip"
 import type { MentionResolver } from "@akasha/pages-ui/markdown/remark-mentions"
 import { remarkMentions } from "@akasha/pages-ui/markdown/remark-mentions"
 import { remarkSectionize } from "@akasha/pages-ui/markdown/remark-sectionize"

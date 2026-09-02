@@ -11,7 +11,7 @@ import type { PagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { type PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
+import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 
 export interface PagesFilteredMutations {
   handleCreatePage: () => Promise<void>

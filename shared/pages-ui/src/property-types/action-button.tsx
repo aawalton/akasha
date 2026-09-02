@@ -8,7 +8,7 @@ import { type MouseEvent, useEffect } from "react"
 import { getActionVerb, getActionVerbPresentation } from "@akasha/pages-ui/action-verbs/action-verb-registry"
 import { actionButtonConfigSchema } from "@akasha/pages-core/schema/action-button-config"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
-import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
+import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import type { PropertyBadgeProps } from "./property-badge"
 
 export function ActionButtonPropertyBadge({

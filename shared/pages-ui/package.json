@@ -6,7 +6,6 @@
   "private": true,
   "exports": {
     "./media-server": "./src/media/media-server.ts",
-    "./supabase/page-resolver-provider": "./src/supabase/page-resolver-provider.tsx",
     "./components/nav-command-bindings-registrar": "./src/components/nav-command-bindings-registrar.tsx",
     "./components/page-card-renderer": "./src/components/page-card-renderer.tsx",
     "./components/page-detail-content": "./src/components/page-detail-content.tsx",

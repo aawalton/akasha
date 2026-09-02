@@ -12,7 +12,7 @@ import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticPatchPropertyDefinition } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-property-definition"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
-import { type useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
+import { type useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import { createOptionOnDefinition } from "@akasha/pages-ui-components/create-option"
 
 interface UseViewRowHandlersArgs {

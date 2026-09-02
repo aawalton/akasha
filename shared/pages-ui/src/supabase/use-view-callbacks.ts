@@ -16,7 +16,7 @@ import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { useSetPropertyOptimistic } from "./use-set-property-optimistic"
+import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 
 const VIEW_PAGE_TYPE_SLUG = "view"
 

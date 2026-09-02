@@ -12,7 +12,7 @@ import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-s
 import { useCallback, useMemo } from "react"
 import { useGroupByPaginatedQuery } from "@akasha/pages-ui/supabase/group-by-hooks"
 import { useRelatedPages } from "../supabase/hooks.ts"
-import { usePageViewQuery } from "../supabase/hooks-view-query.ts"
+import { usePageViewQuery } from "@akasha/pages-ui/supabase/hooks-view-query"
 import { type PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useOptionListLookup } from "../supabase/use-option-list-lookup.ts"
 import { viewDataOfPage } from "@akasha/pages-ui/supabase/view-data-of-page"
