@@ -8,7 +8,7 @@ const LOCK_STALE_MIN_AGE_SECONDS = 45
 
 export function buildAcquireMacBuildLock(app: MobileApp): string {
   return [
-    "# ── acquire the mac build mutex (deploy-testflight concurrency, #14174) ──",
+    "# ── acquire the mac build mutex (akasha deploy concurrency, #14174) ──",
     `mkdir -p "$(dirname "${app.macBuildLockDir}")"`,
     "_lock_waited=0",
     "while :; do",

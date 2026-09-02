@@ -91,7 +91,7 @@ widget.build_configurations.each do |config|
   # distribution signing above (both must use the same cert). Automatic here would demand
   # a nonexistent iOS App Development profile for the widget bundle id and time out trying
   # to auto-create one over ssh (#15070 archive failure). The profile is ensured +
-  # installed pre-archive by signing.ts buildEnsureAppStoreProfile.
+  # installed pre-archive by ios-signing.module.code.ts buildEnsureAppStoreProfile.
   bs["CODE_SIGN_STYLE"] = "Manual"
   bs["PROVISIONING_PROFILE_SPECIFIER"] = profile_name
   bs["CODE_SIGN_IDENTITY"] = "Apple Distribution"
