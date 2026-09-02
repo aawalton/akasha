@@ -2,11 +2,11 @@
 export const summary = "Cut a signed distribution build on the macbook and ship it to TestFlight via ASC over ssh (Path B). --wait blocks until the build finishes processing"
 
 import type { CommandHelp } from "../../ops/surface.ts"
+import { runTestflightCut } from "@akasha/mobile-cli/testflight-cut"
 import { APP_FLAG, KEYCHAIN_PASSWORD_ENV } from "../../lib/mobile-vocabulary.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { apps, foundation, localCutLock } from "../../lib/mobile-code.ts"
-import { runTestflightCut } from "../../lib/mobile-testflight-cut.ts"
 
 export const help: CommandHelp = {
   flags: [
