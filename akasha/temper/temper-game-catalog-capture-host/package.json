@@ -1,9 +1,18 @@
 {
-  "name": "@akasha/temper-game-navigation-capture-host",
+  "name": "@akasha/temper-game-catalog-capture-host",
   "private": true,
   "type": "module",
   "exports": {
-    "./poi-catalog-schema": "./poi-catalog-schema/poi-catalog-schema.module.code.ts"
+    "./achievement-catalog-schema": "./achievement-catalog-schema/achievement-catalog-schema.module.code.ts",
+    "./antiquity-lore-catalog-schema": "./antiquity-lore-catalog-schema/antiquity-lore-catalog-schema.module.code.ts",
+    "./cadwell-catalog-schema": "./cadwell-catalog-schema/cadwell-catalog-schema.module.code.ts",
+    "./collectibles-catalog-schema": "./collectibles-catalog-schema/collectibles-catalog-schema.module.code.ts",
+    "./lore-library-catalog-schema": "./lore-library-catalog-schema/lore-library-catalog-schema.module.code.ts",
+    "./poi-catalog-schema": "./poi-catalog-schema/poi-catalog-schema.module.code.ts",
+    "./recipe-catalog-schema": "./recipe-catalog-schema/recipe-catalog-schema.module.code.ts",
+    "./trait-research-catalog-schema": "./trait-research-catalog-schema/trait-research-catalog-schema.module.code.ts",
+    "./tribute-catalog-schema": "./tribute-catalog-schema/tribute-catalog-schema.module.code.ts",
+    "./zone-completion-catalog-schema": "./zone-completion-catalog-schema/zone-completion-catalog-schema.module.code.ts"
   },
   "dependencies": {
     "@akasha/temper-capture-host": "workspace:*",
