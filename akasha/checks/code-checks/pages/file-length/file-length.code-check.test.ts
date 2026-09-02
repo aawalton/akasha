@@ -1,10 +1,14 @@
 import { expect, test } from "bun:test"
 import { bodiesIn } from "@akasha/testing-system/bodying"
-import { CEILING, ENTRY_CEILING, reasonsIn } from "./file-length.code-check.code.ts"
+import { CEILING, ENTRY_CEILING, MARKUP_CEILING, reasonsIn } from "./file-length.code-check.code.ts"
 
 const ROOT = "/repo"
 
 const ENTRY = "akasha/day.daily-tracking.completed-tasks.jsonl"
+
+const MARKUP = "akasha/panel.eso-interface.markup.xml"
+
+const BINDINGS = "akasha/one.eso-addon.bindings.xml"
 
 const given = bodiesIn(ROOT)
 
@@ -50,6 +54,7 @@ test("what the file is named decides which ceiling that file is held to", () => 
     expect(reasonsIn(given(named, held))).toHaveLength(1)
   }
   expect(reasonsIn(given(ENTRY, held))).toEqual([])
+  expect(reasonsIn(given(MARKUP, held))).toEqual([])
 })
 
 test("an entry file at its own ceiling is let through", () => {
@@ -65,6 +70,41 @@ test("an entry file over its own ceiling is refused, and the reason names that c
 
 test("a `jsonl` akasha cannot read a page name in is held to the narrow ceiling", () => {
   expect(reasonsIn(given("akasha/held.jsonl", sized(CEILING + 1)))).toHaveLength(1)
+})
+
+test("the markup ceiling sits between the narrow ceiling and the entry ceiling", () => {
+  expect(MARKUP_CEILING).toBeGreaterThan(CEILING)
+  expect(MARKUP_CEILING).toBeLessThan(ENTRY_CEILING)
+})
+
+test("a markup file at its own ceiling is let through", () => {
+  expect(reasonsIn(given(MARKUP, sized(MARKUP_CEILING)))).toEqual([])
+})
+
+test("a markup file over its own ceiling is refused, and the reason names that ceiling", () => {
+  const said = reasonsIn(given(MARKUP, sized(MARKUP_CEILING + 1)))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("131,073 bytes")
+  expect(said[0]).toContain("131,072 byte ceiling")
+})
+
+test("a too-long markup file's refusal names the division an addon's manifest admits", () => {
+  const said = reasonsIn(given(MARKUP, sized(MARKUP_CEILING + 1)))
+  expect(said[0]).toContain("divide this one at a top-level element")
+})
+
+test("the bindings an addon holds are markup too, so they are held to the markup ceiling", () => {
+  expect(reasonsIn(given(BINDINGS, sized(CEILING + 1)))).toEqual([])
+  expect(reasonsIn(given(BINDINGS, sized(MARKUP_CEILING + 1)))).toHaveLength(1)
+})
+
+test("an `xml` akasha cannot read a page name in is held to the narrow ceiling", () => {
+  expect(reasonsIn(given("akasha/held.xml", sized(CEILING + 1)))).toHaveLength(1)
+})
+
+test("an entry file is still held wider than a markup file", () => {
+  expect(reasonsIn(given(MARKUP, sized(ENTRY_CEILING)))).toHaveLength(1)
+  expect(reasonsIn(given(ENTRY, sized(ENTRY_CEILING)))).toEqual([])
 })
 
 test("a body far over the ceiling is refused once rather than once for each line", () => {

@@ -18,11 +18,27 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry file is held to a wider byte ceiling than any other file.",
+      statement: "An entry file is held to the widest byte ceiling of any file.",
     },
     {
       invariantKind: "departure",
       statement: "An entry file carries the `jsonl` extension.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A markup file is held to a byte ceiling wider than a code file's ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A markup file carries the `xml` extension.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The game rather than akasha decides where a markup file may be divided.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for a markup file names the division an addon's manifest admits.",
     },
     {
       invariantKind: "departure",
