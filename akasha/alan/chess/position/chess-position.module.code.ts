@@ -1,5 +1,5 @@
 import { InputError } from "@akasha/errors-core/exit-code"
-import { runEngine } from "../chess-engine/chess-engine.module.code.ts"
+import { runEngine } from "../engine/chess-engine.module.code.ts"
 import {
   fenSideToMove,
   isBestMoveLine,
@@ -8,7 +8,7 @@ import {
   parsePerftMoves,
   parseSearch,
   type ScoreInfo,
-} from "../chess-uci/chess-uci.module.code.ts"
+} from "../uci/chess-uci.module.code.ts"
 
 function isPerftDoneLine(line: string): boolean {
   return line.trim().startsWith("Nodes searched")

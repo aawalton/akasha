@@ -1,4 +1,4 @@
-import type { CompletedGame } from "../chess-game-loop/chess-game-loop.module.code.ts"
+import type { CompletedGame } from "../game-loop/chess-game-loop.module.code.ts"
 
 export const CHESS_GAME_SLUG = "chess-game"
 

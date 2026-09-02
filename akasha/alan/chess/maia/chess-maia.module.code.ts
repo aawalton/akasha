@@ -3,12 +3,8 @@ import { homedir } from "node:os"
 import { join } from "node:path"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import { z } from "zod"
-import {
-  lc0Available,
-  resolveLc0Path,
-  runEngine,
-} from "../chess-engine/chess-engine.module.code.ts"
-import { isBestMoveLine, parseSearch } from "../chess-uci/chess-uci.module.code.ts"
+import { lc0Available, resolveLc0Path, runEngine } from "../engine/chess-engine.module.code.ts"
+import { isBestMoveLine, parseSearch } from "../uci/chess-uci.module.code.ts"
 
 export const MAIA_MIN_BAND = 1100
 export const MAIA_MAX_BAND = 1900

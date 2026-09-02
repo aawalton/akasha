@@ -3,13 +3,13 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./chess-engine": "./core/chess-engine/chess-engine.module.code.ts",
-    "./chess-uci": "./core/chess-uci/chess-uci.module.code.ts",
-    "./chess-position": "./core/chess-position/chess-position.module.code.ts",
-    "./chess-maia": "./core/chess-maia/chess-maia.module.code.ts",
-    "./chess-game": "./core/chess-game/chess-game.module.code.ts",
-    "./chess-game-loop": "./core/chess-game-loop/chess-game-loop.module.code.ts",
-    "./chess-game-record": "./core/chess-game-record/chess-game-record.module.code.ts",
+    "./chess-engine": "./engine/chess-engine.module.code.ts",
+    "./chess-uci": "./uci/chess-uci.module.code.ts",
+    "./chess-position": "./position/chess-position.module.code.ts",
+    "./chess-maia": "./maia/chess-maia.module.code.ts",
+    "./chess-game": "./game/chess-game.module.code.ts",
+    "./chess-game-loop": "./game-loop/chess-game-loop.module.code.ts",
+    "./chess-game-record": "./game-record/chess-game-record.module.code.ts",
     "./chess-board": "./board/chess-board.module.code.tsx"
   },
   "dependencies": {
