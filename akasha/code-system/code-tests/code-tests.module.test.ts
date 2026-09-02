@@ -227,6 +227,35 @@ check("a world stands under /var/tmp and is gone once it is swept", () => {
   expect(existsSync(world.root)).toBe(false)
 })
 
+check("a body the world could not read names the path the world reached for", () => {
+  const from = repo({})
+  const asked = (): unknown => worldOf(from, ["akasha/one.ts"], () => readFileSync(""))
+  expect(asked).toThrow("akasha/one.ts")
+  expect(asked).toThrow("ENOENT")
+})
+
+check("a carried file the world could not take names that file rather than only the fault", () => {
+  const from = repo({})
+  mkdirSync(join(from, "biome.json"), { recursive: true })
+  const asked = (): unknown => worldOf(from, [], handing({}))
+  expect(asked).toThrow("biome.json")
+  expect(asked).toThrow("EISDIR")
+})
+
+check("a world that could not be made is swept rather than left under /var/tmp", () => {
+  const from = repo({})
+  let said = ""
+  try {
+    worldOf(from, ["akasha/one.ts"], () => readFileSync(""))
+  } catch (thrown) {
+    said = thrown instanceof Error ? thrown.message : String(thrown)
+  }
+  const found = /the world at (\S+) could not be made/.exec(said)
+  const root = found?.[1] ?? ""
+  expect(root).toContain(UNDER)
+  expect(existsSync(root)).toBe(false)
+})
+
 check("a run over a world answers the bodies handed in, not the ones on disk", () => {
   const from = repo({ "one.test.ts": PASSES })
   const world = worldOf(from, ["akasha/one.test.ts"], handing({ "akasha/one.test.ts": FAILS }))

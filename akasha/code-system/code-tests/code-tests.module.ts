@@ -145,6 +145,22 @@ export const codeTests = {
       statement: "A world is swept by whoever asked for the world.",
     },
     {
+      invariantKind: "departure",
+      statement: "A world that could not be made says which reach failed and what that reach said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That reach is named by the path handed in rather than by the fault alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world that could not be made is swept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world that could not be made was given to no one else to sweep.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here says which tests inside a file run.",
     },

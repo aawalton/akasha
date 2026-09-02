@@ -196,30 +196,67 @@ function modulesInto(from: string, root: string, standing: ReadonlySet<string>):
   }
 }
 
+export function saidOf(thrown: unknown): string {
+  return thrown instanceof Error ? thrown.message : String(thrown)
+}
+
+function reaching<Held>(root: string, named: string, act: () => Held): Held {
+  try {
+    return act()
+  } catch (thrown) {
+    throw new Error(`the world at ${root} could not be made: ${named} — ${saidOf(thrown)}`)
+  }
+}
+
+function rootMade(): string {
+  try {
+    return mkdtempSync(join(HOLD, PREFIX))
+  } catch (thrown) {
+    throw new Error(`no world could be made under ${HOLD} — ${saidOf(thrown)}`)
+  }
+}
+
 export function worldOf(
   from: string,
   paths: readonly string[],
   at: (path: string) => Uint8Array | null
 ): World {
-  const root = mkdtempSync(join(HOLD, PREFIX))
-  const tops = new Set<string>()
-  for (const one of paths) {
-    const bytes = at(one)
-    if (bytes === null) continue
-    const to = join(root, one)
-    mkdirSync(dirname(to), { recursive: true })
-    writeFileSync(to, bytes)
-    const top = topOf(one)
-    if (top !== null) tops.add(top)
+  const root = rootMade()
+  try {
+    const tops = new Set<string>()
+    for (const one of paths) {
+      const bytes = reaching(root, `the body handed in for \`${one}\` would not be read`, () =>
+        at(one)
+      )
+      if (bytes === null) continue
+      const to = join(root, one)
+      reaching(root, `\`${one}\` would not be written`, () => {
+        mkdirSync(dirname(to), { recursive: true })
+        writeFileSync(to, bytes)
+      })
+      const top = topOf(one)
+      if (top !== null) tops.add(top)
+    }
+    const index = join(from, INDEX)
+    if (existsSync(index)) {
+      reaching(root, `the index at ${index} would not be taken`, () => {
+        mkdirSync(dirname(join(root, INDEX)), { recursive: true })
+        cpSync(index, join(root, INDEX), { recursive: true })
+      })
+    }
+    for (const one of CARRIED) {
+      const held = join(from, one)
+      if (existsSync(held)) {
+        reaching(root, `${held} would not be taken`, () => cpSync(held, join(root, one)))
+      }
+    }
+    reaching(root, `the modules under ${from} would not be linked`, () =>
+      modulesInto(from, root, tops)
+    )
+  } catch (thrown) {
+    rmSync(root, { recursive: true, force: true })
+    throw thrown
   }
-  if (existsSync(join(from, INDEX))) {
-    mkdirSync(dirname(join(root, INDEX)), { recursive: true })
-    cpSync(join(from, INDEX), join(root, INDEX), { recursive: true })
-  }
-  for (const one of CARRIED) {
-    if (existsSync(join(from, one))) cpSync(join(from, one), join(root, one))
-  }
-  modulesInto(from, root, tops)
   return {
     root,
     sweep: (): undefined => {
