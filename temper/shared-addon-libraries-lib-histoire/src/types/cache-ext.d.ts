@@ -1,4 +1,0 @@
-declare const GUILD_HISTORY_EVENT_CATEGORY_ITERATION_BEGIN: number
-declare const GUILD_HISTORY_EVENT_CATEGORY_ITERATION_END: number
-
-type GuildPrivilege = number
