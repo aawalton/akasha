@@ -6,6 +6,7 @@ export const completionMeasured = {
   slug: "completion-measured",
   definition: "whether a character, an account or a companion has been read at all",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
