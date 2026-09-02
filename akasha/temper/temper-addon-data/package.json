@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/temper-addon-data",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./addon-data-target": "./addon-data-target/addon-data-target.module.code.ts"
+  }
+}
