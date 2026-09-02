@@ -194,8 +194,8 @@ export async function runAddonSandboxLoad({
     console.error(
       `${GATE}: the base-game string-id census is empty, so no consumed string id can be` +
         " told from a base-game one and this run certifies nothing. Regenerate" +
-        " the base-game globals from ~/esoui:\n" +
-        "  akasha temper-eso-generate-base-game-globals"
+        " the census from ~/esoui:\n" +
+        "  ops eso generate-base-game-globals"
     )
     return 2
   }
