@@ -1,4 +1,5 @@
 import type { Roots } from "@akasha/pages-system/markdown-page-at"
+import { onceInCall } from "@akasha/command-system/during-call"
 import { rootsHere } from "@akasha/pages-system/checkout-roots"
 import { type PageFile, pagesIn } from "../page/tracked/tracked.ts"
 import { listField } from "../page/frontmatter.ts"
@@ -200,8 +201,30 @@ function takesIn(fm: ReturnType<typeof blockOf>["fm"]): Readonly<Record<string, 
   return takes
 }
 
+/**
+ * The catalog every readout is resolved against, held for the length of one call.
+ *
+ * Building it lists both checkouts and names every tracked path in them — 104,593 of them here —
+ * to reach the 518 pages it actually opens. A group resolves one readout at a time and each
+ * reads the catalog, so a group of six built it seven times and a status-bar refresh of three
+ * groups built it twenty. The pages cannot change while one call is in flight, so the second
+ * build through the twentieth answered what the first already had.
+ *
+ * The key names the roots, because the catalog is a different catalog when the roots are
+ * different, and a memo that ignored them would answer for the wrong tree.
+ *
+ * This is the lifetime `trackedIn` already holds `git ls-files` at one layer down, and it is the
+ * reason to prefer it over a memo living as long as the process: a call is short enough that
+ * nothing edits a readout page inside one, so nothing here can go stale. Outside a call — which
+ * is every service, since none of them opens one — `onceInCall` builds each time, exactly as
+ * before.
+ */
 export function readoutCatalog(roots: Roots = rootsHere()): ReadoutCatalog {
   const dirs = [...new Set(Object.values(roots).filter((one): one is string => one !== undefined))]
+  return onceInCall(`readout-catalog:${[...dirs].sort().join(" ")}`, () => catalogOf(roots, dirs))
+}
+
+function catalogOf(roots: Roots, dirs: readonly string[]): ReadoutCatalog {
   if (dirs.length === 0) {
     throw new Error(
       "readoutCatalog: no repository root, and the page types stating where every readout, " +

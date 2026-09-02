@@ -1,3 +1,4 @@
+import { duringOneCall } from "@akasha/command-system/during-call"
 import {
   PAGE_QUERY_PAGE_TYPE_SLUG,
   READOUT_GROUP_PAGE_TYPE_SLUG,
@@ -82,7 +83,16 @@ export interface ResolvedReadoutGroup {
   readonly unresolved: ReadonlyMap<string, string>
 }
 
+/**
+ * Resolving opens a call if it is not already in one, so the catalog is built once rather than
+ * once per readout. A caller already inside a call — the status-bar refresh is one — keeps its
+ * own, and the readouts of every group it draws share a single build.
+ */
 export async function resolveReadout(slug: string): Promise<ResolvedReadout> {
+  return duringOneCall(async () => readoutResolved(slug))
+}
+
+async function readoutResolved(slug: string): Promise<ResolvedReadout> {
   const catalog = readoutCatalog()
   const readout = catalog.readouts.get(slug)
   if (readout === undefined) {
@@ -139,6 +149,10 @@ export async function resolveReadout(slug: string): Promise<ResolvedReadout> {
 }
 
 export async function resolveReadoutGroup(groupSlug: string): Promise<ResolvedReadoutGroup> {
+  return duringOneCall(async () => readoutGroupResolved(groupSlug))
+}
+
+async function readoutGroupResolved(groupSlug: string): Promise<ResolvedReadoutGroup> {
   const catalog = readoutCatalog()
   const sortOrder = catalog.groups.get(groupSlug)
   if (sortOrder === undefined) {
