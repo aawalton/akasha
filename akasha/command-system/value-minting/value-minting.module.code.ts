@@ -1,8 +1,8 @@
 import { parsedAs } from "@akasha/code-system/code-source"
-import { pageTypesIn } from "@akasha/indexes/entries"
+import { entryShapesAt, filePropertiesAt, pageTypesIn } from "@akasha/indexes/entries"
 import type { Generated } from "@akasha/indexes/generated-properties"
 import { generatedProperties } from "@akasha/indexes/generated-properties"
-import { pageNamed } from "@akasha/pages-system/page-file-name"
+import { heldIn, pageNamed } from "@akasha/pages-system/page-file-name"
 import { loadedFrom } from "@akasha/pages-system/page-value"
 import { type Shadow, shadowFor } from "@akasha/pages-system/shadow"
 import ts from "typescript"
@@ -10,6 +10,8 @@ import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
 const UUID_V7 = "uuid-v7"
+
+const ID = "id"
 
 const STAMPED = 6
 
@@ -97,16 +99,73 @@ export function earlyIn(
   return earlyOf(cast.shadow)
 }
 
+export function identified(line: string): string | null {
+  const said = line.trim()
+  if (said === "") return null
+  let held: unknown
+  try {
+    held = JSON.parse(said)
+  } catch {
+    return null
+  }
+  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
+  const row = held as Record<string, unknown>
+  if (typeof row[ID] === "string") return null
+  return JSON.stringify({ [ID]: uuidVersion7(), ...row })
+}
+
+export function identifiedOver(text: string): string | null {
+  const lines = text.split("\n")
+  let turned = false
+  const said = lines.map((line) => {
+    const next = identified(line)
+    if (next === null) return line
+    turned = true
+    return next
+  })
+  return turned ? said.join("\n") : null
+}
+
+function entriedOnto(shadow: Shadow, changes: readonly FileEdit[]): Minted {
+  const shapes = entryShapesAt(shadow.reading)
+  if (shapes.size === 0) return { changes, filled: [] }
+  const pageTypes = pageTypesIn(shadow.reading)
+  const fileProperties = new Set(filePropertiesAt(shadow.reading).keys())
+  const held: FileEdit[] = []
+  const filled: Filled[] = []
+  for (const one of changes) {
+    const body = one.body
+    if (body === null || one.carried === true) {
+      held.push(one)
+      continue
+    }
+    const said = heldIn(one.path, pageTypes, fileProperties)
+    if (said.kind !== "property" || said.propertySlug === null || !shapes.has(said.propertySlug)) {
+      held.push(one)
+      continue
+    }
+    const next = identifiedOver(new TextDecoder().decode(body))
+    if (next === null) {
+      held.push(one)
+      continue
+    }
+    held.push({ ...one, body: new TextEncoder().encode(next) })
+    filled.push({ path: one.path, keys: [ID] })
+  }
+  return { changes: held, filled }
+}
+
 export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted {
   const change = changeOf(root, { base: baseOf(root), edits: changes })
   const cast = shadowFor(change)
   if ("refused" in cast) return { changes, filled: [] }
+  const entried = entriedOnto(cast.shadow, changes)
   const early = earlyOf(cast.shadow)
-  if (early.size === 0) return { changes, filled: [] }
+  if (early.size === 0) return entried
   const pageTypes = pageTypesIn(cast.shadow.reading)
   const held: FileEdit[] = []
   const filled: Filled[] = []
-  for (const one of changes) {
+  for (const one of entried.changes) {
     const body = one.body
     const leftAlone =
       body === null ||
@@ -138,5 +197,5 @@ export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted 
     held.push({ ...one, body: new TextEncoder().encode(text) })
     filled.push({ path: one.path, keys })
   }
-  return { changes: held, filled }
+  return { changes: held, filled: [...entried.filled, ...filled] }
 }

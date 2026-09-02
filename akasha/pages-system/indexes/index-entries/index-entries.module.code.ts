@@ -144,6 +144,14 @@ export function filePropertiesAt(given: string | Reading): ReadonlyMap<string, s
   })
 }
 
+export function entryShapesAt(given: string | Reading): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const held of schemaAt(given).values()) {
+    if (held.pageTypeSlug === ENTRY_PROPERTY) found.add(held.slug)
+  }
+  return found
+}
+
 export type Identifier = {
   readonly key: string
   readonly reach: string

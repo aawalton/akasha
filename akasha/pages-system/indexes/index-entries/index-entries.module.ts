@@ -32,6 +32,10 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
+      statement: "Which properties are entry shapes is answered here rather than by the caller.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file that a page claims without stating is not asked to stand.",
     },
   ],

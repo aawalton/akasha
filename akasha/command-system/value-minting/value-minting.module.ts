@@ -4,13 +4,29 @@ export const valueMinting = {
   id: "01a0503f-14ea-79f4-94bd-4c365bc24d5b",
   pageTypeSlug: "module",
   slug: "value-minting",
-  definition: "the values a page being created does not carry, worked out and put into its body",
+  definition: "the values a write does not carry, worked out and put into a page or into an entry",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value is worked out only for a page being created.",
+      statement: "A page's value is worked out only for a page being created.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry's id is worked out whenever the entry arrives without an id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file an entry arrives in is found by the property the file's name states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line carrying no object is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry's id goes in first in the entry.",
     },
     {
       invariantKind: "departure",
