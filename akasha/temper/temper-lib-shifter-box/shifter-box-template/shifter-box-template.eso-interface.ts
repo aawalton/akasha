@@ -6,6 +6,7 @@ export const shifterBoxTemplate = {
   slug: "shifter-box-template",
   definition: "the XML template every control of a shifter box is built from",
   markup: "xml",
+  loadedAs: "ShifterBox/ShifterBoxTemplate.xml",
   invariants: [
     {
       invariantKind: "departure",
