@@ -40,15 +40,6 @@
         "**/*.ts"
       ]
     },
-    "shared/pages-ui": {
-      "entry": [
-        "**/*.test.{ts,tsx}",
-        "test/**/*.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.{ts,tsx}"
-      ]
-    },
     "akasha/pages-system/pages-ui-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
