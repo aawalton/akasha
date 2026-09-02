@@ -62,7 +62,7 @@ export const migrateAlanAndJennyToAkasha = {
       statement:
         "The packages under Alan's site that name no package of their own stand in akasha.",
       workingMemory:
-        "Two of the four are gone: `chess` and `action-verbs` landed into `@akasha/alanwalton-web` at `6edf596cb8`, 16 files in 7 modules, reached by name at 3 call sites. `hooks` (2 files) and `questions` (7) are left, and they never waited on that package. 5 of the 9 are `~/`-free and could stand alone; the other 4 rest on 8 files under `app/lib` — api-fetch, api-origin, auth-error, capacitor-bridge, offline-text, open-questions-resync, read-completion, sender-surface — which the interior intent owns.",
+        "`link-target` landed at `996a2d5362` and `a6c30a4eff`, so `questions` holds 4 files and `hooks` 2. The old census was stale: 7 files, not 9, and 2 were `~/`-free, not 5. `imports-inside` settles the rest — it ignores npm but refuses a workspace outside akasha — so `use-mark-notification-read` waits on `@shared/pages-ui`, and the other 5 on 9 files under `app/lib` plus `components/signed-out-notice`. Every one of the 6 waits on the interior intent.",
     },
     {
       statement: "The routes of Alan's site stand in akasha.",
