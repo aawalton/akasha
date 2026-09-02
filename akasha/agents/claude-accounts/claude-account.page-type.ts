@@ -37,6 +37,7 @@ export const claudeAccount = {
     "instant-property/terminal-alerted-at",
     "instant-property/terminal-at",
     "instant-property/usage-read-at",
+    "module/claude-account-marking",
     "module/claude-account-measuring",
     "module/claude-account-oauth",
     "module/claude-account-pacing",
