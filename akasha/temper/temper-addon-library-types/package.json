@@ -7,6 +7,7 @@
     "./bui": "./bui/bui.type-declaration.d.ts",
     "./custom-compass-pins": "./custom-compass-pins/custom-compass-pins.type-declaration.d.ts",
     "./fcois": "./fcois/fcois.type-declaration.d.ts",
+    "./interface-addon-neighbours": "./interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts",
     "./lib-addon-menu": "./lib-addon-menu/lib-addon-menu.type-declaration.d.ts",
     "./lib-character-knowledge": "./lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts",
     "./lib-chat-message": "./lib-chat-message/lib-chat-message.type-declaration.d.ts",
@@ -28,11 +29,14 @@
     "./lib-qr-code": "./lib-qr-code/lib-qr-code.type-declaration.d.ts",
     "./lib-radial-menu": "./lib-radial-menu/lib-radial-menu.type-declaration.d.ts",
     "./lib-saved-vars": "./lib-saved-vars/lib-saved-vars.type-declaration.d.ts",
+    "./lib-scrollable-menu": "./lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts",
     "./lib-sets": "./lib-sets/lib-sets.type-declaration.d.ts",
+    "./lib-shifter-box": "./lib-shifter-box/lib-shifter-box.type-declaration.d.ts",
     "./lib-slash-commander": "./lib-slash-commander/lib-slash-commander.type-declaration.d.ts",
     "./lib-table-functions": "./lib-table-functions/lib-table-functions.type-declaration.d.ts",
     "./lib-treasure": "./lib-treasure/lib-treasure.type-declaration.d.ts",
     "./lib-undaunted-pledges": "./lib-undaunted-pledges/lib-undaunted-pledges.type-declaration.d.ts",
-    "./master-merchant": "./master-merchant/master-merchant.type-declaration.d.ts"
+    "./master-merchant": "./master-merchant/master-merchant.type-declaration.d.ts",
+    "./temper-hud-global": "./temper-hud-global/temper-hud-global.type-declaration.d.ts"
   }
 }

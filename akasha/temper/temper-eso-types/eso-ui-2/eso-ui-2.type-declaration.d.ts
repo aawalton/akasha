@@ -27,7 +27,7 @@ interface ZoSceneStatic {
 declare const ZO_Scene: ZoSceneStatic
 
 interface SceneManager {
-  IsShowing: (sceneName: string) => boolean
+  IsShowing: (sceneName: string | Scene) => boolean
   Toggle: (sceneName: string) => void
   Hide: (sceneName: string) => void
 }

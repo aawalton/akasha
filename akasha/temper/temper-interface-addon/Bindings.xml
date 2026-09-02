@@ -1,0 +1,86 @@
+<Bindings>
+	<Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
+		<Category name="Assistants">
+			<Action name="PERSONNALASSISTANT_267">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_THYSIS_ANDROMO)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_300">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_NUZIMEH)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_301">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_PIRHARRI)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_396">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_ALLARIA_ERWEN)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_397">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_CASSUS_ANDRONICUS)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_6376">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_EZABI)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_6378">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_FEZEZ)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_9245">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_BASTIAN_HALLIX)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_9353">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_ELENDIS)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_8994">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_BARON_JANGLEPLUME)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_8995">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_PEDDLER_OF_PRIZES)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_9745">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_GHRASHAROG)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_9743">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_FACTOTUM_PROPERTY_STEWARD)</Down>
+			</Action>
+			<Action name="PERSONNALASSISTANT_9744">
+				<Down>UseCollectible(PERSONNAL_ASSISTANTS.PERSONNAL_ASSISTANT_FACTOTUM_COMMERCE_DELEGATE)</Down>
+			</Action>
+		</Category>
+	</Layer>
+	<Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
+		<Category name="|cEFEBBENo, thank you!|r">
+			<Action name="NOCAMROTATE_TOGGLE">
+				<Up>NTY_ToggleRotateGameCamera()</Up>
+			</Action>
+		</Category>
+		<Category name="|c00FF00FCO |cFFFF00Change Stuff|r">
+			<Action name="FCOCS_ADDON_SETTINGS_MENU">
+				<Down>TemperFCOChangeStuff.openLAMAddonSettings(self)</Down>
+			</Action>
+			<Action name="FCOCS_MAP_PLAYER_PIN_PING_PONG">
+				<Down>TemperFCOChangeStuff.playerPinPingPong(true)</Down>
+			</Action>
+			<Action name="FCOCS_TOGGLE_SETTINGS_COMPASS_QUEST_GIVERS">
+				<Down>TemperFCOChangeStuff.keybinds("FCOCS_TOGGLE_SETTINGS_COMPASS_QUEST_GIVERS")</Down>
+			</Action>
+			<Action name="FCOCS_TOGGLE_AUDIO_MUTE_SFX">
+				<Down>TemperFCOChangeStuff.muteSFXSound()</Down>
+			</Action>
+			<Action name="FCOCS_TOGGLE_GROUP_ELECTION_AUTO_DECLINE">
+				<Down>TemperFCOChangeStuff.toggleGroupElectionAutoDecline()</Down>
+			</Action>
+			<Action name="FCOCS_SWITCH_BANK_PANEL">
+				<Down>TemperFCOChangeStuff.switchBankMenuBarDescriptor()</Down>
+			</Action>
+			<Action name="FCOCS_TOGGLE_SETTINGS_INNOCENT_ATTACK">
+				<Down>TemperFCOChangeStuff.keybinds("FCOCS_TOGGLE_SETTINGS_INNOCENT_ATTACK")</Down>
+			</Action>
+			<Action name="FCOCS_TOGGLE_TOGGLE_PROM_EVENT_TRACKER">
+				<Down>TemperFCOChangeStuff.TogglePromotionalEventTrackerUI()</Down>
+			</Action>
+
+			<Action name="FCOCS_TOGGLE_SYSTEM" rebindable="true" hideAction="false" allowOnInputModeChange="true">
+				<Down>ZO_SceneManager_ToggleGameMenuBinding()</Down>
+			</Action>
+
+		</Category>
+	</Layer>
+</Bindings>

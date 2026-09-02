@@ -9,12 +9,6 @@ declare global {
 
   const MENU_CATEGORY_MARKET: number
 
-  const CreateControl: <T extends Control = Control>(
-    name: string,
-    parent: Control,
-    controlType: number
-  ) => T
-
   const CreateTopLevelWindow: <T extends TopLevelWindow = TopLevelWindow>(name: string) => T
 
   const ZO_CONTRAST_TEXT: ZoColorDef
@@ -27,7 +21,7 @@ declare global {
 
   const ZO_MenuBar_GetButtonControl: (
     menuBar: Control,
-    descriptor: Descriptor | undefined
+    descriptor: number | string | undefined
   ) => Control | undefined
 
   const ZO_MenuBar_SelectFirstVisibleButton: (
@@ -37,7 +31,7 @@ declare global {
 
   const ZO_MenuBar_SetDescriptorEnabled: (
     menuBar: Control,
-    descriptor: Descriptor,
+    descriptor: number | string,
     enabled: boolean
   ) => undefined
 

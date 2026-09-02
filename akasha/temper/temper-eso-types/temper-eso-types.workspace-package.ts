@@ -77,5 +77,7 @@ export const temperEsoTypes = {
     "type-declaration/tstl-language-extensions",
     "type-declaration/tstl-performance-global",
     "type-declaration/eso-interface-extra",
+    "type-declaration/eso-interface-extra-2",
+    "type-declaration/eso-interface-extra-3",
   ],
 } as const satisfies WorkspacePackage

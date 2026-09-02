@@ -38,5 +38,9 @@ export const temperAddonLibraryTypes = {
     "type-declaration/lib-treasure",
     "type-declaration/lib-undaunted-pledges",
     "type-declaration/master-merchant",
+    "type-declaration/lib-scrollable-menu",
+    "type-declaration/lib-shifter-box",
+    "type-declaration/interface-addon-neighbours",
+    "type-declaration/temper-hud-global",
   ],
 } as const satisfies WorkspacePackage

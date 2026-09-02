@@ -24,7 +24,7 @@ interface ZO_RecentMessagesStatic {
 declare const ZO_RecentMessages: ZO_RecentMessagesStatic
 
 interface Scene {
-  HasFragment: (this: Scene, fragment: SceneFragment) => boolean
+  HasFragment: (this: unknown, fragment: SceneFragment) => boolean
   toRestore?: SceneFragment[] | boolean
 }
 
@@ -69,7 +69,7 @@ interface EsoEventControl {
 declare const RETICLE: object
 
 interface ZoKeyboardNotificationManager {
-  sortFilterList: object
+  sortFilterList: { control?: Control; list?: NotificationsList; [key: string]: unknown }
   providers: object[]
   RefreshNotificationList: (this: ZoKeyboardNotificationManager) => undefined
   [key: string]: unknown
