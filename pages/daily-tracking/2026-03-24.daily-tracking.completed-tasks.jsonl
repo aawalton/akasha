@@ -1,5 +1,0 @@
-{"id":"019db533-f3b2-78ea-acc1-0ebd6568c1b5","seq":221,"title":"Pray","completed-at":"2026-03-24T14:35:00.157Z","due-date":"2026-03-24","category":"faith","recurrence":"FREQ=DAILY","to-do-slug":"pray","value-slug":"faith"}
-{"id":"019db533-f3b2-78e5-95e5-66674e1bb2ab","seq":222,"title":"Supplements","completed-at":"2026-03-24T16:38:37.555Z","due-date":"2026-03-24","category":"health","recurrence":"FREQ=DAILY","value-slug":"health"}
-{"id":"019db533-f3b2-78e0-849a-6d09b33375fa","seq":223,"title":"Breakfast","completed-at":"2026-03-24T16:38:38.650Z","due-date":"2026-03-24","category":"health","recurrence":"FREQ=DAILY","to-do-slug":"breakfast","value-slug":"health"}
-{"id":"019db533-f3b2-78db-b0d6-25e2f4689dd0","seq":224,"title":"Joseph's Meds","completed-at":"2026-03-24T16:38:39.458Z","due-date":"2026-03-24","category":"health","recurrence":"FREQ=DAILY","value-slug":"health"}
-{"id":"019db533-f3b2-78d6-afbd-7f738b3e4011","seq":225,"title":"Take out Trash","completed-at":"2026-03-24T16:38:44.025Z","due-date":"2026-03-24","category":"health","recurrence":"FREQ=WEEKLY;BYDAY=TU,SA","to-do-slug":"take-out-trash","value-slug":"health"}
