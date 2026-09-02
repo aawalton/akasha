@@ -1,11 +1,15 @@
 import { beforeEach, expect, test } from "bun:test"
+import { join } from "node:path"
 import { RELAY_SECRET_HEADER } from "../readout-credential/readout-credential.module.code.ts"
 import {
   dropRelayed,
   holdRelayed,
+  JOURNAL_ERROR_LEVEL,
+  noReadoutPageAt,
   RELAY_PATH,
   RELAY_SECRET_NAME,
   readoutNamedBy,
+  readoutPageAt,
   relayedHeld,
   relayedIn,
   relayReading,
@@ -144,4 +148,21 @@ test("a secret that is unset or empty is stated as none", () => {
   expect(statedIn({ [RELAY_SECRET_NAME]: SECRET }, RELAY_SECRET_NAME)).toBe(SECRET)
   expect(statedIn({ [RELAY_SECRET_NAME]: "  " }, RELAY_SECRET_NAME)).toBeNull()
   expect(statedIn({}, RELAY_SECRET_NAME)).toBeNull()
+})
+
+test("a readout page that is there is told apart from one that is not", () => {
+  const here = import.meta.dir
+  const own = "readout-relay.module.code.ts"
+  expect(readoutPageAt(here, own)).toBe(join(here, own))
+  expect(readoutPageAt(here, "readout-relay.module.no-such.ts")).toBeNull()
+})
+
+test("a path naming no readout page is refused in words of its own", () => {
+  const said = noReadoutPageAt(PAGE)
+  expect(said).toContain("no readout page is at")
+  expect(said).toContain(PAGE)
+})
+
+test("a path naming no readout page is said at the level a journal keeps for an error", () => {
+  expect(noReadoutPageAt(PAGE).startsWith(JOURNAL_ERROR_LEVEL)).toBe(true)
 })
