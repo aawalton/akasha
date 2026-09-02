@@ -12,7 +12,7 @@ export const athenaHarnessIntoAkasha = {
       statement:
         "The model gateway is a domain in akasha, and every module it runs from is a page there.",
       workingMemory:
-        "7 account modules at akasha/agents/claude-accounts/modules/<slug>/, 173 tests; 25 gateway modules, 375 tests. zod is 4.5.4 and z.record drops a __proto__ key. accountPathIn in claude-account-reading reaches one account in two index reads and no listing. Porting transport-log severed the log-append edge that dragged 150 legacy files into gateway.ts. Left before gateway.ts: credential-push, then oauth-constants, oauth-effects, account-picker, message-handler, pre-forward-queue, types.",
+        "The account half is done: 8 modules at akasha/agents/claude-accounts/modules/<slug>/, 205 tests; 25 gateway modules, 375 tests. zod is 4.5.4 and z.record drops a __proto__ key. accountPathIn in claude-account-reading reaches one account in two index reads and no listing. Porting transport-log severed the log-append edge that dragged 150 legacy files into gateway.ts. Left before gateway.ts: oauth-constants, oauth-effects, account-picker, message-handler, pre-forward-queue, types.",
     },
     {
       statement: "No part of the model gateway is outside akasha.",
