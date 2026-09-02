@@ -19,6 +19,7 @@ import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,
 } from "@akasha/temper-player-completion/activity-categories"
+import { getCompletionCardTab } from "@akasha/temper-player-completion/completion-card-tab"
 import {
   isAccountMeasured,
   isCharacterMeasured,
@@ -30,7 +31,6 @@ import type {
   CompletionSortMode,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { CompletionSearchContext } from "@akasha/temper-player-completion-ui/completion-search-context"
-import { getTabForCard } from "@temper/player-completion/completion-card-registry"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { CompletionAccountTab } from "@/components/completion/completion-account-tab"
@@ -106,7 +106,7 @@ export function CompletionPageContent({
   useEffect(() => {
     const hash = window.location.hash.slice(1)
     if (hash === "") return
-    const tab = getTabForCard(hash)
+    const tab = getCompletionCardTab(hash)
     if (tab == null) return
     if (values.tab === tab) {
       scrollToCard(hash, false)
@@ -121,7 +121,7 @@ export function CompletionPageContent({
   useEffect(() => {
     const target = values.scrollTo
     if (target == null) return
-    const tab = getTabForCard(target)
+    const tab = getCompletionCardTab(target)
     if (tab == null) return
     if (currentTabRef.current === tab) {
       scrollToCard(target, false)
