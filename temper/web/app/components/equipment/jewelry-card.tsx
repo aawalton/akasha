@@ -9,6 +9,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
+import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import {
   convertIconPathToUrl,
   getEquipmentIcon,
@@ -27,7 +28,6 @@ import {
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { type JewelrySlotId, jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
 import {
