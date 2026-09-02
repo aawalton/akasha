@@ -10,7 +10,7 @@ import {
 } from "./sample-upsert.module.code.ts"
 
 const AT =
-  "akasha/alan/tracking/daily/eso-days/eso-days/2026-01-01/eso-day-2026-01-01.eso-day.health-samples.jsonl"
+  "akasha/alan/tracking/daily/eso-days/pages/2026-01-01/eso-day-2026-01-01.eso-day.health-samples.jsonl"
 
 const ARRIVED = "2026-01-01T12:00:00.000Z"
 
