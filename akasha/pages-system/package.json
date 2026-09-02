@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./boolean-property": "./boolean-properties/boolean-property.page-type.ts",
+    "./calendar-date-property": "./calendar-date-properties/calendar-date-property.page-type.ts",
     "./change": "./change/change.module.code.ts",
     "./checkout-roots": "./checkout-roots/checkout-roots.module.code.ts",
     "./code-root": "./code-root/code-root.module.code.ts",
@@ -55,10 +56,13 @@
     "./phone-number-property": "./phone-number-properties/phone-number-property.page-type.ts",
     "./process-property": "./process-properties/process-property.page-type.ts",
     "./page-property-entry": "./page-property-entries/page-property-entry.page-type.ts",
+    "./rank-property": "./rank-properties/rank-property.page-type.ts",
     "./record-property": "./record-properties/record-property.page-type.ts",
     "./relation-property": "./relation-properties/relation-property.page-type.ts",
     "./repo-path": "./repo-path/repo-path.module.code.ts",
+    "./select-property": "./select-properties/select-property.page-type.ts",
     "./shadow": "./shadow/shadow.module.code.ts",
-    "./text-property": "./text-properties/text-property.page-type.ts"
+    "./text-property": "./text-properties/text-property.page-type.ts",
+    "./url-property": "./url-properties/url-property.page-type.ts"
   }
 }
