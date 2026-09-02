@@ -7,18 +7,18 @@ import type {
   ProxyLivenessState,
 } from "./supervisor-proxy-liveness-rule.ts"
 import { type OAuthProxyState, readProxyState } from "./seat-proxy-state.ts"
-import { respawnOAuthProxy, type SupervisorOAuthProxyHandle } from "./supervisor-spawn-oauth-proxy.ts"
+import {
+  HEALTHZ_TIMEOUT_MS,
+  respawnOAuthProxy,
+  type SupervisorOAuthProxyHandle,
+} from "./supervisor-spawn-oauth-proxy.ts"
 import { computeModelGatewayTreeVersion } from "./model-gateway-tree-version"
 import { setOAuthProxyHandle } from "./supervisor-state.ts"
 
 export const PROXY_LIVENESS_INTERVAL_MS = 30_000
 
-// THIS DEADLINE SAYS HOW LONG A GATEWAY MAY BE BUSY BEFORE IT IS CALLED DEAD, AND BUSY IS NOT DEAD.
-// `/healthz` returns a constant with nothing awaited, so what it measures is not the handler but
-// whether the event loop can reach it. A gateway carrying a seat's subagents answered in 1.4s to
-// over 5s while serving every request correctly; at one second it was declared dead every thirty
-// seconds and killed, which is what took the seat off the air rather than anything it was doing.
-const HEALTHZ_TIMEOUT_MS = 10_000
+// The deadline stands with the spawner, so the adopt path and this monitor judge a gateway alive by
+// the same measure.
 
 function assertNever(value: never): never {
   const rendered = typeof value === "string" ? value : JSON.stringify(value)

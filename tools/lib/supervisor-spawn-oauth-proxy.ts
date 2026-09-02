@@ -16,7 +16,13 @@ const STALE_PROXY_SHUTDOWN_BUDGET_MS = 5_000
 
 const POLL_INTERVAL_MS = 100
 
-const HEALTHZ_TIMEOUT_MS = 1_000
+// THIS DEADLINE SAYS HOW LONG A GATEWAY MAY BE BUSY BEFORE IT IS CALLED DEAD, AND BUSY IS NOT DEAD.
+// `/healthz` returns a constant with nothing awaited, so what it measures is not the handler but
+// whether the event loop can reach it. A gateway carrying a seat's subagents was measured answering
+// in 1.4s to over 9s while serving every request correctly. One deadline stands here for both the
+// adopt path and the liveness monitor: two constants for one decision is how the monitor came to be
+// raised while this one stayed at a second, and a gateway can be alive to one and dead to the other.
+export const HEALTHZ_TIMEOUT_MS = 10_000
 
 const STDERR_LOG = "oauth-proxy.stderr.log"
 
