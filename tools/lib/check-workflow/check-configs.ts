@@ -4,7 +4,6 @@ import { SECRETS, secret } from "../workflow-dsl/secrets"
 import { GRAPH_ARTIFACT_CHECKS } from "./check-configs-graph.ts"
 import { REPO_PATH_CHECKS } from "./check-configs-repo-paths.ts"
 import { SHELL_CHECKS } from "./check-configs-shell.ts"
-import { TYPECHECK_CHECKS } from "./check-configs-typecheck.ts"
 import { type CheckConfig, treeShaArgs, WORKFLOW_SURFACE_POPULATION } from "./check-configs-types.ts"
 import { WIDGET_MIRROR_CHECKS } from "./check-configs-widget.ts"
 
@@ -63,7 +62,6 @@ export const STATIC_CHECKS: CheckConfig[] = [
     ],
     script: "infra/cluster-checks/src/checks/check-eso-live-dir-candidate-order.ts",
   },
-  ...TYPECHECK_CHECKS,
   {
     name: "image-tags",
     dispatchNodeTypes: [...YAML_POPULATION, "dockerfile-file", "workflow"],

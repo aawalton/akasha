@@ -36,6 +36,7 @@ import {
   selectServiceTypecheckPackages,
 } from "./check-configs-service-typecheck.ts"
 import { SOURCE_SCANNER_CHECKS } from "./check-configs-source-scanners.ts"
+import { buildTypecheckChecks } from "./check-configs-typecheck.ts"
 import { TYPESAFETY_CHECKS } from "./check-configs-typesafety.ts"
 import { CHECK_WORKFLOW_DISPATCH_NODE_TYPES } from "./check-workflow-watch.ts"
 import { readFunctionalType } from "./functional-type.ts"
@@ -181,6 +182,7 @@ function checkConfigs(codeRoot: string): readonly CheckConfig[] {
     ...RBAC_CHECKS,
     ...acyclicityChecks(),
     ...addonChecks(codeRoot),
+    ...buildTypecheckChecks(deployableApps),
     ...buildAppBuildChecks(deployableApps),
     ...buildAppTypecheckChecks(deployableApps),
     ...CAPACITOR_CHECKS,
