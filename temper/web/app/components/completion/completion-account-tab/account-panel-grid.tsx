@@ -1,9 +1,13 @@
+import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
+import { SubclassingSkillMorphsPanelCard } from "@akasha/temper-player-completion-skills-morphs-ui/subclassing-skill-morphs-panel-card"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
-import { SubclassingSkillMorphsPanelCard } from "@temper/player-completion-skills-morphs-ui/subclassing-skill-morphs-panel-card"
-import type { CompletionFilter, CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"
+import type { AccountSummaryData } from "@temper/player-completion/completion-card-registry"
+import type {
+  CompletionFilter,
+  CompletionSortMode,
+} from "@temper/player-completion-ui/completion-panel-card"
 import { AccountAchievementsPanelCard } from "@/components/completion/account-achievements-panel-card"
 import { AccountCollectiblesPanelCard } from "@/components/completion/account-collectibles-panel-card"
 import { AccountPoiPanelCard } from "@/components/completion/account-poi-panel-card"
@@ -17,7 +21,6 @@ import { AccountZoneCompletionPanelCard } from "@/components/completion/account-
 import { AntiquityLorePanelCard } from "@/components/completion/antiquity-lore-panel-card"
 import { BankUpgradesPanelCard } from "@/components/completion/bank-upgrades-panel-card"
 import { ChampionPointsPanelCard } from "@/components/completion/champion-points-panel-card"
-import type { AccountSummaryData } from "@temper/player-completion/completion-card-registry"
 import type { AccountProgressData } from "@/components/completion/completion-progress/account-progress"
 import { GrandMasterStationsPanelCard } from "@/components/completion/grand-master-stations-panel-card"
 import { ItemSetsProgressPanelCard } from "@/components/completion/item-sets-progress-panel-card"
