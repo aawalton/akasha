@@ -2,7 +2,7 @@
 
 import { useMemo } from "react"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
-import { PropertyBadge } from "../property-types/property-badge.tsx"
+import { PropertyBadge } from "@akasha/pages-ui-components/property-badge"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import { SortablePropertyList } from "@akasha/pages-ui-components/page-detail-sortable-list"
 import { RESERVED_PROPERTY_IDS } from "@akasha/pages-ui-components/card-property-columns"

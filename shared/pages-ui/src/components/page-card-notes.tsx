@@ -6,7 +6,7 @@ import { cn } from "@akasha/design-primitives/cn"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { BlockEditor } from "../block-editor/block-editor.tsx"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { MarkdownPropertyBadge } from "../property-types/markdown.tsx"
+import { MarkdownPropertyBadge } from "@akasha/pages-ui-components/markdown-property-badge"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
 
 interface PageCardNotesProps {

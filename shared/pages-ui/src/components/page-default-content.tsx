@@ -12,7 +12,7 @@ import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-s
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { BlockEditor } from "../block-editor/block-editor"
 import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
-import { MultiRelationPropertyBadge } from "../property-types/multi-relation"
+import { MultiRelationPropertyBadge } from "@akasha/pages-ui-components/multi-relation-property-badge"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
 import { PageCover } from "@akasha/pages-ui-components/page-cover"
 import { PageDetailHeaderMenu } from "@akasha/pages-ui-components/page-detail-header-menu"

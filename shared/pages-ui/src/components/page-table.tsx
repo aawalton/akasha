@@ -10,7 +10,7 @@ import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions
 import { CheckCircle2, Circle } from "lucide-react"
 import type { ReactNode } from "react"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { PropertyBadge } from "../property-types/property-badge.tsx"
+import { PropertyBadge } from "@akasha/pages-ui-components/property-badge"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { PageActionsMenu } from "@akasha/pages-ui-components/page-actions-menu"
 import { orderTableColumns } from "@akasha/pages-ui-components/card-property-columns"
