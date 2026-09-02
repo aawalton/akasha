@@ -1,0 +1,31 @@
+{
+  "name": "@akasha/temper-lost-treasure",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./bag-cache": "./lost-treasure-bag-cache/lost-treasure-bag-cache.module.code.ts",
+    "./bug-report": "./lost-treasure-bug-report/lost-treasure-bug-report.module.code.ts",
+    "./constants": "./lost-treasure-constants/lost-treasure-constants.module.code.ts",
+    "./debug": "./lost-treasure-debug/lost-treasure-debug.module.code.ts",
+    "./global": "./lost-treasure-global/lost-treasure-global.module.code.ts",
+    "./item-cache": "./lost-treasure-item-cache/lost-treasure-item-cache.module.code.ts",
+    "./logger": "./lost-treasure-logger/lost-treasure-logger.module.code.ts",
+    "./mark-on-using": "./lost-treasure-mark-on-using/lost-treasure-mark-on-using.module.code.ts",
+    "./mining": "./lost-treasure-mining/lost-treasure-mining.module.code.ts",
+    "./notifications": "./lost-treasure-notifications/lost-treasure-notifications.module.code.ts",
+    "./opened-map": "./lost-treasure-opened-map/lost-treasure-opened-map.module.code.ts",
+    "./pin-settings": "./lost-treasure-pin-settings/lost-treasure-pin-settings.module.code.ts",
+    "./pins": "./lost-treasure-pins/lost-treasure-pins.module.code.ts",
+    "./saved-vars": "./lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts",
+    "./settings": "./lost-treasure-settings/lost-treasure-settings.module.code.ts",
+    "./start": "./lost-treasure-start/lost-treasure-start.module.code.ts",
+    "./types": "./lost-treasure-types/lost-treasure-types.module.code.ts",
+    "./ui-strings": "./lost-treasure-ui-strings/lost-treasure-ui-strings.module.code.ts",
+    "./utilities": "./lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-library-types": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*"
+  }
+}
