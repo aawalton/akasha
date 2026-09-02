@@ -1,0 +1,16 @@
+{
+  "name": "@akasha/temper-items-filters-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./filter-bar": "./filter-bar/filter-bar.module.code.ts",
+    "./filter-bar-controls": "./filter-bar-controls/filter-bar-controls.module.code.ts",
+    "./panel-filter-binding": "./panel-filter-binding/panel-filter-binding.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/temper-hud-window": "workspace:*",
+    "@akasha/temper-items-filters-core": "workspace:*",
+    "@akasha/temper-items-rules-eval": "workspace:*"
+  }
+}
