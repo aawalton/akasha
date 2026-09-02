@@ -8,6 +8,7 @@
     "./constants": "./lost-treasure-constants/lost-treasure-constants.module.code.ts",
     "./debug": "./lost-treasure-debug/lost-treasure-debug.module.code.ts",
     "./global": "./lost-treasure-global/lost-treasure-global.module.code.ts",
+    "./global-declarations": "./lost-treasure-global-declarations/lost-treasure-global-declarations.type-declaration.d.ts",
     "./item-cache": "./lost-treasure-item-cache/lost-treasure-item-cache.module.code.ts",
     "./logger": "./lost-treasure-logger/lost-treasure-logger.module.code.ts",
     "./mark-on-using": "./lost-treasure-mark-on-using/lost-treasure-mark-on-using.module.code.ts",

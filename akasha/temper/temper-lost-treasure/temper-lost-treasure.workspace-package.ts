@@ -28,6 +28,7 @@ export const temperLostTreasure = {
     "module/lost-treasure-global",
     "module/lost-treasure-start",
     "type-declaration/lost-treasure-string-ids",
+    "type-declaration/lost-treasure-global-declarations",
   ],
   invariants: [
     {
