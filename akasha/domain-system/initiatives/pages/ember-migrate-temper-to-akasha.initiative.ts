@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Every temper page type is in akasha, two landed finer than the census read them. The mine's 188MB sweep is 22x the entry ceiling, and the call taken is one entry property spanning numbered files: 24 parts are committed, but the read side is not. `catalog-sidecars.ts:9` skips every part so the addon catalog is silently short, `clearRows` orphaned 13MB, `read-corpus.ts:258` refuses a landing over a part, and akasha's `heldIn` reads a part as a stray.",
+        "Every temper page type is in akasha, two landed finer than the census read them. The mine's 188MB sweep is 22x the entry ceiling, and the call taken is one entry property spanning numbered files. Akasha holds a part now and the spelling sits in one place, but the consumer side is still losing data: `catalog-sidecars.ts:9` matches `[a-z-]+`, so every part fails and the addon catalog is silently short. `clearRows` orphaned 13MB, and `read-corpus.ts:258` refuses a landing over a part.",
     },
     {
       statement: "No part of temper is outside akasha.",
