@@ -3,12 +3,12 @@ import { join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
 import type { Answer } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
-import { readingIn } from "@akasha/indexes"
+import type { PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
 import { secretAt, uncommittedAt } from "@akasha/pages-system/page-file-name"
 import { type Composed, cipherFor, secretsIn, unfit } from "@akasha/pages-system/page-secret"
 import { mergeUncommitted, uncommittedIn } from "@akasha/pages-system/page-uncommitted"
-import { type Value, valueAt } from "@akasha/pages-system/page-value"
+import type { Value } from "@akasha/pages-system/page-value"
 import { instantOf, markedIn, type Routing } from "../marking/claude-account-marking.module.code.ts"
 import { accountPathIn } from "../reading/claude-account-reading.module.code.ts"
 
@@ -118,8 +118,9 @@ export function rescuedBeside(
   root: string,
   page: string,
   credential: Credential,
-  routing?: Routing,
-  given: string | Reading = root
+  given: Reading,
+  pageOf: PageOf,
+  routing?: Routing
 ): string {
   const narrowed = narrowedFor(root, page)
   if (narrowed !== null) {
@@ -135,8 +136,8 @@ export function rescuedBeside(
         expiresAtMs: credential.accessTokenExpiresAtMs,
       },
     },
-    readingIn(given),
-    (path) => valueAt(path, root),
+    given,
+    pageOf,
     routing
   )
   if (said.kind !== "held") {
@@ -150,15 +151,16 @@ function stampedOn(
   root: string,
   credential: Credential,
   at: string,
-  routing?: Routing,
-  given: string | Reading = root
+  given: Reading,
+  pageOf: PageOf,
+  routing?: Routing
 ): string | null {
   const said = markedIn(
     root,
     credential.slug,
     { [EXPIRES_AT]: at, [RESCUED]: null },
-    readingIn(given),
-    (path) => valueAt(path, root),
+    given,
+    pageOf,
     routing
   )
   if (said.kind === "held") return null
@@ -174,8 +176,9 @@ export function pushedIn(
   root: string,
   credential: Credential,
   doors: Doors,
-  routing?: Routing,
-  given: string | Reading = root
+  given: Reading,
+  pageOf: PageOf,
+  routing?: Routing
 ): Push {
   const { slug } = credential
   try {
@@ -224,7 +227,7 @@ export function pushedIn(
       return refusedFor(slug, sayOf(thrown))
     }
     if (merged(kept ?? new Map<string, string>(), next)) {
-      const wrong = stampedOn(root, credential, at, routing, given)
+      const wrong = stampedOn(root, credential, at, given, pageOf, routing)
       if (wrong !== null)
         return refusedFor(
           slug,
@@ -244,7 +247,7 @@ export function pushedIn(
     if (landed.code !== LANDED) {
       return refusedFor(
         slug,
-        `${sidecar} did not land: ${sayingOf(landed)} — ${rescuedBeside(root, page, credential, routing, given)}`
+        `${sidecar} did not land: ${sayingOf(landed)} — ${rescuedBeside(root, page, credential, given, pageOf, routing)}`
       )
     }
 
@@ -257,11 +260,11 @@ export function pushedIn(
     if (read === null || [...next].some(([key, value]) => read.get(key) !== value)) {
       return refusedFor(
         slug,
-        `${sidecar} landed and does not read back what it was handed — ${rescuedBeside(root, page, credential, routing, given)}`
+        `${sidecar} landed and does not read back what it was handed — ${rescuedBeside(root, page, credential, given, pageOf, routing)}`
       )
     }
 
-    const wrong = stampedOn(root, credential, at, routing, given)
+    const wrong = stampedOn(root, credential, at, given, pageOf, routing)
     if (wrong !== null) {
       return refusedFor(
         slug,

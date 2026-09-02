@@ -138,6 +138,14 @@ export const claudeAccountCredentialPush = {
     },
     {
       invariantKind: "constraint",
+      statement: "The reading of the index reaches this module as a parameter.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The reader of page bodies reaches this module as a parameter.",
+    },
+    {
+      invariantKind: "constraint",
       statement: "A caller names the account a push is written for.",
     },
     {
@@ -171,6 +179,10 @@ export const claudeAccountCredentialPush = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes into a page's own body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No reader of a page body is built here from the root.",
     },
     {
       invariantKind: "absence",
