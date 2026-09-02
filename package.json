@@ -51,7 +51,6 @@
     "temper/catalog-addon",
     "temper/game-companions-ui",
     "temper/player-completion",
-    "temper/player-completion-addon",
     "temper/player-completion-ui",
     "temper/player-economics-ui",
     "temper/player-profile",
