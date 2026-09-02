@@ -36,6 +36,9 @@ interface Control {
   animation?: ZoTimeline
   menuButton?: Control
   SetAutoRectClipChildren: (enabled: boolean) => void
+  SetResizeToFitConstrains: (constrains: AnchorConstrains) => void
+  SetResizeToFitPadding: (width: number, height: number) => void
+  SetHitInsets: (left: number, top: number, right: number, bottom: number) => void
 }
 
 interface ErrorFrameSingleton {
@@ -68,6 +71,19 @@ interface ButtonControl {
   SetDisabledTexture: (texture: string) => void
   SetPressedOffset: (x: number, y: number) => void
   SetTextureCoords: (left: number, right: number, top: number, bottom: number) => void
+  GetLabelControl: () => LabelControl
+  SetDesaturation: (desaturation: number) => void
+  SetModifyTextType: (modifyTextType: ModifyTextType) => void
+}
+
+interface LabelControl {
+  GetTextDimensions: () => LuaMultiReturn<[number, number]>
+  SetDesaturation: (desaturation: number) => void
+  SetModifyTextType: (modifyTextType: ModifyTextType) => void
+}
+
+interface TextureControl {
+  SetDesaturation: (desaturation: number) => void
 }
 
 declare const ZO_WHITE: ZoColorDef
