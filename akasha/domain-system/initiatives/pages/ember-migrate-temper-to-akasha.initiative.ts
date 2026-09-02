@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "6 of 8 clusters landed: world, effects, companions, skills 1995, progress 471, character 116. Gear and holdings run on. A page carrying entry files needs a folder of its own under `pages/`, which the armor-traits exemplar got wrong and every cluster was repaired for. The `effects` shape now holds buff rows and scaling, so 150 refused rows can land. Left: move `temper-thing` and `temper-catalog-thing` into plural folders once the swarm settles. The 15,000-byte file ceiling loses 193MB.",
+        "Every source page type but one is recreated: 98 of 99, 5,670 pages, 108 page types, 2,080 entry files, 20,956 rows. `temper-completed-month` went on purpose, replaced by 119 `temper-completed-day` pages. Typecheck is clean over 21,001 files. Holdings alone is still landing. Left: move `temper-thing` into `temper-things/` once holdings finishes, the last folder-shape refusal. The 15,000-byte ceiling keeps ~193MB out, filed for Alan.",
     },
     {
       statement: "No part of temper is outside akasha.",
