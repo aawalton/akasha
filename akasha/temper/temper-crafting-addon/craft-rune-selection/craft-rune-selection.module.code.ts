@@ -19,24 +19,14 @@ function asSelectorButton(c: ButtonControl): SelectorButton {
   return c as SelectorButton
 }
 
-type RuneIdTable = Record<number, number>
-type PotencyRuneTables = Record<number, RuneIdTable>
-type RuneTableEntry = Record<number, number | RuneIdTable> | undefined
-
-function asRuneIdTable(t: RuneTableEntry): RuneIdTable {
-  return t as RuneIdTable
-}
-function asPotencyRuneTables(t: RuneTableEntry): PotencyRuneTables {
-  return t as PotencyRuneTables
-}
-
 export function runeShowSelection(): undefined {
   let color: RgbColor
   const runeSelected = () => {
     const essence = splitLink(
       RuneCrafting.runeGetLink(
-        asRuneIdTable(STATE.Rune.rune[ITEMTYPE_ENCHANTING_RUNE_ESSENCE])[STATE.Character.essence] ??
-          0,
+        RuneCrafting.asRuneIdTable(STATE.Rune.rune[ITEMTYPE_ENCHANTING_RUNE_ESSENCE])[
+          STATE.Character.essence
+        ] ?? 0,
         1,
         1
       ),
@@ -58,7 +48,9 @@ export function runeShowSelection(): undefined {
       }
     }
   }
-  const potencyLists = asPotencyRuneTables(STATE.Rune.rune[ITEMTYPE_ENCHANTING_RUNE_POTENCY])
+  const potencyLists = RuneCrafting.asPotencyRuneTables(
+    STATE.Rune.rune[ITEMTYPE_ENCHANTING_RUNE_POTENCY]
+  )
   for (const [x, rune] of ipairs<number>(potencyLists[1] ?? {})) {
     const link = RuneCrafting.runeGetLink(rune, 1, 1)
     const [known] = GetItemLinkEnchantingRuneName(link)
@@ -189,7 +181,7 @@ export function runeShowSelection(): undefined {
       addline: [`|cFFAA33Rune:|r ${STATE.Loc.level} ${STATE.Rune.level[x]}`],
     }
   }
-  const essenceList = asRuneIdTable(STATE.Rune.rune[ITEMTYPE_ENCHANTING_RUNE_ESSENCE])
+  const essenceList = RuneCrafting.asRuneIdTable(STATE.Rune.rune[ITEMTYPE_ENCHANTING_RUNE_ESSENCE])
   for (const [x, rune] of ipairs<number>(essenceList)) {
     const link = RuneCrafting.runeGetLink(rune, 1, 1)
     const [known] = GetItemLinkEnchantingRuneName(link)
