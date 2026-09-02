@@ -1,0 +1,17 @@
+{
+  "name": "@akasha/temper-capture-writer",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./account-wide-vars": "./account-wide-vars/account-wide-vars.module.code.ts",
+    "./capture-writer": "./capture-writer/capture-writer.module.code.ts",
+    "./run-batched": "./run-batched/run-batched.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-capture-descriptor": "workspace:*",
+    "@akasha/temper-capture-perf": "workspace:*",
+    "@akasha/temper-eso-types": "workspace:*",
+    "@akasha/utils-narrow": "workspace:*"
+  }
+}
