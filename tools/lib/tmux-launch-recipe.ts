@@ -18,6 +18,12 @@ export const PTY_PROXY_REL = "tools/lib/pty-proxy.ts"
 
 export const SUPERVISOR_REL = "tools/run-supervisor.ts"
 
+export const TMUX_SERVER_COMM = "tmux: server"
+
+export function tmuxServerCountShell(): string {
+  return `pgrep -x '${TMUX_SERVER_COMM}' 2>/dev/null | wc -l`
+}
+
 export function serverOptionArgv(): readonly string[] {
   return SERVER_OPTIONS.flatMap((one) => [...one, ";"])
 }

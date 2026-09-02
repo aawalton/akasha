@@ -5,6 +5,7 @@ import {
   scopeShell,
   serverOptionShell,
   supervisorEntryShell,
+  tmuxServerCountShell,
 } from "../../lib/tmux-launch-recipe.ts"
 import { personaDocumentGateLines, personaDocumentStandsShell } from "./persona-document.ts"
 import { personDocumentStandsShell } from "./person-document.ts"
@@ -62,6 +63,13 @@ export function tmuxLaunchFnLines(): readonly string[] {
       'was started." >&2',
     "      return 1",
     "    }",
+    "  fi",
+    '  if ! tmux list-sessions >/dev/null 2>&1 && ' +
+      `[ "$(${tmuxServerCountShell()})" -gt 0 ]; then`,
+    '    echo "a tmux server is running that this socket does not reach, so the seats on it are ' +
+      'already stranded; starting another server here would strand them for good. Nothing was ' +
+      'started." >&2',
+    "    return 1",
     "  fi",
     '  if ! tmux has-session -t "=$_seat" 2>/dev/null; then',
     '    local _unit="tmux-seat-$_seat-$(date +%s%3N)"',
@@ -215,7 +223,13 @@ export function seatResumeFn(name: string): string {
     "  local full_aid full_sid",
     "  IFS=$'\\t' read -r full_aid full_sid < <(ops seat resume \"$name\" --start-mode interactive --no-launch)",
     '  if [ -z "$full_sid" ]; then',
-    `    echo "${name}: no resumable session for seat '$name'" >&2`,
+    `    if [ "$(${tmuxServerCountShell()})" -gt 1 ]; then`,
+    `      echo "${name}: more than one tmux server is running and this socket reaches only one ` +
+      `of them, so '$name' may be alive on the one it does not reach, with no way in. Nothing ` +
+      `was started." >&2`,
+    "    else",
+    `      echo "${name}: no resumable session for seat '$name'" >&2`,
+    "    fi",
     "    return 1",
     "  fi",
     ...stateSeatFromRowLines(name),
