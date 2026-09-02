@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/temper-explain",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./explain-walk": "./explain-walk/explain-walk.module.code.ts"
+  }
+}

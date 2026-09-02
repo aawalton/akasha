@@ -15,6 +15,7 @@ export const temper = {
     "rust-crate/watcher-tray",
     "workspace-package/temper-commands",
     "workspace-package/temper-dungeons",
+    "workspace-package/temper-explain",
   ],
   invariants: [
     {
