@@ -76,13 +76,6 @@ export async function getMediaPageTypeSlugs(): Promise<ReadonlySet<string>> {
   return fileMediaPageTypeSlugs()
 }
 
-export type GetDetailConfigArgs = { pageTypeId: string } | { pageTypeSlug: string }
-
-export function detailConfigSlug(args: GetDetailConfigArgs): string {
-  const label: string = "pageTypeId" in args ? args.pageTypeId : args.pageTypeSlug
-  return slugForFiles(args, `getDetailConfig(${label})`)
-}
-
 type PropertyDefinitionList = readonly PropertyDefinition[]
 
 function readId(def: unknown): string {
