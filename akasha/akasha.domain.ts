@@ -49,6 +49,7 @@ export const akasha = {
     "domain/temper",
     "domain/story-engine",
     "domain/browser",
+    "domain/google",
   ],
   invariants: [
     {
