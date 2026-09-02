@@ -10,7 +10,7 @@
     { "addon": "TemperInventory", "package": "temper/game-items-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13037, "adjacent": ["TemperDataMining", "TemperListings", "TemperHud"] },
     { "addon": "TemperListings", "package": "akasha/temper/temper-trading-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13040, "adjacent": ["TemperInventory"] },
     { "addon": "TemperHud", "package": "temper/shared-interface-hud-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13085, "adjacent": ["TemperInventory", "TemperInterface"] },
-    { "addon": "TemperErrors", "package": "temper/shared-capture-errors-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13133, "adjacent": [] },
+    { "addon": "TemperErrors", "package": "akasha/temper/temper-errors-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13133, "adjacent": [] },
     { "addon": "TemperAddons", "package": "temper/shared-interface-selector-addon", "state": "held", "tiClean": true, "kind": "native", "heldBy": 13141, "adjacent": [] },
     { "addon": "TemperCombat", "package": "temper/game-combat-addon", "state": "held", "kind": "ported", "heldBy": 14328, "adjacent": ["LibAddonMenu-2.0", "LibCustomMenu", "LibDataEncode", "LibDebugLogger"] },
     { "addon": "TemperCrafting", "package": "temper/game-crafting-addon", "state": "held", "tiClean": true, "kind": "ported", "heldBy": 14506, "adjacent": ["TemperCharacters", "LibCharacterKnowledge", "TemperKeybinder", "LibAddonMenu-2.0", "LibAlchemyStation", "LibAsync", "LibCustomMenu", "LibMainMenu-2.0", "LibPrice", "LibSets"] },
