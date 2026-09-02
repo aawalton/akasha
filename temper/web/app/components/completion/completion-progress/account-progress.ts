@@ -1,3 +1,11 @@
+import type { AccountSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
+import { isAccountMeasured } from "@akasha/temper-player-completion/completion-measured"
+import type {
+  AccountAntiquityLoreProgress,
+  AccountCollectiblesProgress,
+  AccountLoreProgress,
+  AccountTributeProgress,
+} from "@akasha/temper-player-completion/completion-ui-types"
 import type { SubclassingSkillMorphProgressResult } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
 import { transformSubclassingSkillMorphProgress } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
 import type {
@@ -26,20 +34,15 @@ import { transformAntiquityLoreProgress } from "@temper/player-completion/comple
 import { transformCollectiblesProgress } from "@temper/player-completion/completion-collectibles-progress"
 import type { ItemSetOverallProgress } from "@temper/player-completion/completion-item-set-progress"
 import { transformItemSetProgress } from "@temper/player-completion/completion-item-set-progress"
-import { isAccountMeasured } from "@temper/player-completion/completion-measured"
 import type { SubclassingSkillLineProgressResult } from "@temper/player-completion/completion-subclassing-progress"
 import { transformSubclassingSkillLineProgress } from "@temper/player-completion/completion-subclassing-progress"
 import { buildAccountSummary } from "@temper/player-completion/completion-summary-account"
 import { transformTributeProgress } from "@temper/player-completion/completion-tribute-progress"
 import type {
-  AccountAntiquityLoreProgress,
-  AccountCollectiblesProgress,
-  AccountLoreProgress,
-  AccountTributeProgress,
-} from "@temper/player-completion/completion-ui-types"
-import type { useAccountCompletion, useCompletionCharacters } from "@temper/player-completion-ui/use-completion"
+  useAccountCompletion,
+  useCompletionCharacters,
+} from "@temper/player-completion-ui/use-completion"
 import { useMemo } from "react"
-import type { AccountSummaryData } from "@temper/player-completion/completion-card-registry"
 import type { CharacterProgressData } from "@/components/completion/completion-progress/character-progress"
 
 export interface AccountProgressData {
