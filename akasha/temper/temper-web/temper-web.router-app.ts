@@ -10,4 +10,5 @@ export const temperWeb = {
   routeTable: "ts",
   serverEntry: "tsx",
   routerConfig: "ts",
+  partSlugs: ["stylesheet/temper-web-look"],
 } as const satisfies RouterApp
