@@ -221,19 +221,17 @@ test("a member the index says a one of already names is let through", () => {
   expect(said).toEqual([])
 })
 
-test("a one of that stops naming a member leaves that member refused", () => {
+test("a one of dropping a member leaves it refused, though the member did not change", () => {
   const root = rooted()
   filing(root, "relation-property", "held", ONE)
   filing(root, "one-of-property", "over", TWO)
+  pageFiled(root, ONE, pathFor("relation-property", "held"))
   edging(root, ONE, "member-slugs", TWO, pathFor("one-of-property", "over"))
   const at = pathFor("one-of-property", "over")
   const said = judged(
     landing(
       root,
-      {
-        [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
-        [at]: oneOf("over", TWO, []),
-      },
+      { [at]: oneOf("over", TWO, []) },
       { [at]: put(root, at, oneOf("over", TWO, ["held"])) }
     )
   )
