@@ -19,6 +19,7 @@ export const codeSystem = {
     "page-type/rust-module",
     "page-type/shell-script",
     "page-type/stylesheet",
+    "page-type/type-declaration",
     "page-type/workspace-package",
     "module/body-text",
     "module/code-specifier",
