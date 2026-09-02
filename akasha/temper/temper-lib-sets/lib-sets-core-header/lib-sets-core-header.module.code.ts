@@ -21,7 +21,7 @@ function checkOptionalLibraries(this: void): undefined {
   lib.libCustomMenu = LibCustomMenu
   lib.libAddonMenu = LibAddonMenu2
   lib.libSlashCommander = asGlobalTable(globalThis).LibSlashCommander
-  lib.libZone = LibZone
+  lib.libZone = asGlobalTable(globalThis).LibZone
 }
 lib.CheckOptionalLibraries = checkOptionalLibraries
 

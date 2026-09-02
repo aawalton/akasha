@@ -85,8 +85,8 @@ interface LibSetsApi {
 
   GetSpecialZoneNameById: (this: void, zoneId: number, lang?: string) => string | undefined
   GetCurrentZoneName: (this: void) => LuaMultiReturn<[string | undefined, string | undefined]>
-  GetAllDropZones: (this: void) => { [zoneId: number]: boolean } | undefined
-  GetAllDropLocationNames: (this: void, lang?: string) => { [idx: number]: string } | undefined
+  GetAllDropZones: (this: void) => unknown
+  GetAllDropLocationNames: (this: void, lang?: string) => unknown
   GetDLCInfo: (this: void, dlcId: number) => LuaMultiReturn<[string, number | undefined]>
 
   OpenSetItemCollectionBookForItemLink: (this: void, itemLink: string) => void
