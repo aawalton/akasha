@@ -1,13 +1,19 @@
 "use client"
 
+import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Input } from "@akasha/design-primitives/input"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { toCharacterVisibility } from "@temper/game-characters-character/build-types"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { toCharacterVisibility } from "@akasha/temper-character-build/build-types"
 import { useEffect, useState } from "react"
 import { useCharacterMetadata } from "@/components/characters/context/use-character"
-import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 
 interface BuildInfoPanelCardProps {
   buildName: string
