@@ -8,15 +8,15 @@ import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
-import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
-import { computeInventoryTotalValue } from "@temper/game-items-core/inventory-value"
+import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
+import { computeInventoryTotalValue } from "@akasha/temper-items-core/inventory-value"
 import {
   type ExistingChunkRow,
   type ExistingSnapshotRow,
   planChunkImport,
   planSnapshotImport,
-} from "@temper/game-items-core/plan-inventory-import"
-import { shardInventoryJson } from "@temper/game-items-core/shard-inventory"
+} from "@akasha/temper-items-core/plan-inventory-import"
+import { shardInventoryJson } from "@akasha/temper-items-core/shard-inventory"
 import { useCallback, useEffect, useRef, useState } from "react"
 import type { InventoryImportResult } from "./inventory-import-types"
 
