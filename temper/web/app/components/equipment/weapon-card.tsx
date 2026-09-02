@@ -1,32 +1,35 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { ItemCard } from "@akasha/design-patterns/item-card"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
 import {
   type ArmorEnchantId,
   armorEnchants,
-} from "@temper/game-characters-equipment/enchants/armor-enchants-data"
-import {
-  type WeaponEnchantmentId,
-  weaponEnchantments,
-} from "@temper/game-characters-equipment/enchants/weapon-enchants-data"
-import type {
-  WeaponSlotItem,
-  WeaponSlotUpdateParams,
-} from "@temper/game-characters-equipment/loadout/loadout-types"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+} from "@akasha/temper-characters-equipment/armor-enchants"
 import {
   convertIconPathToUrl,
   getEquipmentIcon,
-} from "@temper/game-characters-equipment/sets/get-equipment-icon"
+} from "@akasha/temper-characters-equipment/get-equipment-icon"
+import type {
+  WeaponSlotItem,
+  WeaponSlotUpdateParams,
+} from "@akasha/temper-characters-equipment/loadout-types"
 import {
   getValidSetsForSlot,
   getValidTypesForSet,
   isShieldValidForSet,
-} from "@temper/game-characters-equipment/sets/pattern-matcher"
-import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+} from "@akasha/temper-characters-equipment/set-pattern-matcher"
+import {
+  type WeaponEnchantmentId,
+  weaponEnchantments,
+} from "@akasha/temper-characters-equipment/weapon-enchants"
 import {
   type ArmorTraitId,
   armorTraits,
@@ -37,17 +40,22 @@ import {
   weaponTraits,
   weaponTraitsBuildList,
 } from "@akasha/temper-equipment/weapon-traits"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { WeaponBar } from "@akasha/temper-equipment-kinds/weapon-bars"
-import {
-  type WeaponSlot,
-  weaponSlots,
-} from "@akasha/temper-equipment-kinds/weapon-slots"
+import { type WeaponSlot, weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import {
   type WeaponTypeId,
   weaponTypes,
 } from "@temper/game-characters-equipment/weapons/weapon-types-data"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import { AVAILABLE_QUALITY_OPTIONS, getQualityClassName, getQualityLabel, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityClassName,
+  getQualityLabel,
+  getQualityVariant,
+} from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "@/components/equipment/set-select-dialog"
 
