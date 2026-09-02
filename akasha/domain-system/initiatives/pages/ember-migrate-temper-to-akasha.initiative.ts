@@ -12,7 +12,7 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Proven against the running store: `askComposed` answers all nine completion catalogs with their jsonl entries resolved, and a wrong key refuses 400 so a reply is no default. That overtakes the refusal in `temper-addon-data-generate` that its source pages are not in akasha. My ruling: catalogs stay server-side and the web loader computes progress there. The live generator is the separate `tools/` one, whose sole `ALL_OUTPUT_DIRS` row is the last hold on `player-completion`.",
+        "All 13 generated tables render byte-identical from akasha pages, a seeded fault proving the probe sees — so the generate refusal is dead, but 10 tables have no akasha module to land in. Ruling: build no gate-write route; a table lands when an akasha consumer needs it, and once web repoints its 3 files these have none, so they go with the package. Next: empty `ALL_OUTPUT_DIRS`, then ablate. Largest table is 1,199,592 bytes, 80x the ceiling.",
     },
     {
       statement: "No part of temper is outside akasha.",
