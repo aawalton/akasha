@@ -1,0 +1,12 @@
+{
+  "name": "LibMapPing",
+  "title": "LibMapPing",
+  "description": "Provides a unified interface to set, remove, mute and suppress map pings (waypoints, group pings and rally points) and fires callbacks around EVENT_MAP_PING handling.",
+  "author": "AlanGaming",
+  "version": "2.1.0",
+  "addonVersion": 1240,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": [],
+  "dependsOn": ["LibDebugLogger>=196"],
+  "optionalDependsOn": []
+}

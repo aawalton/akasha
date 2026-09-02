@@ -1,0 +1,21 @@
+{
+  "name": "@akasha/temper-lib-map-ping",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./map-ping-constants": "./map-ping-constants/map-ping-constants.module.code.ts",
+    "./map-ping-types": "./map-ping-types/map-ping-types.module.code.ts",
+    "./map-ping-casts": "./map-ping-casts/map-ping-casts.module.code.ts",
+    "./ping-rolling-average": "./ping-rolling-average/ping-rolling-average.module.code.ts",
+    "./ping-leaky-bucket": "./ping-leaky-bucket/ping-leaky-bucket.module.code.ts",
+    "./map-ping-lib": "./map-ping-lib/map-ping-lib.module.code.ts",
+    "./map-ping-handler": "./map-ping-handler/map-ping-handler.module.code.ts",
+    "./map-ping-handler-state": "./map-ping-handler-state/map-ping-handler-state.module.code.ts",
+    "./map-ping-initialization": "./map-ping-initialization/map-ping-initialization.module.code.ts",
+    "./map-ping-api": "./map-ping-api/map-ping-api.module.code.ts",
+    "./map-ping-compatibility": "./map-ping-compatibility/map-ping-compatibility.module.code.ts",
+    "./map-ping-public-api": "./map-ping-public-api/map-ping-public-api.module.code.ts",
+    "./map-ping-main": "./map-ping-main/map-ping-main.module.code.ts",
+    "./map-ping-declarations": "./map-ping-declarations/map-ping-declarations.module.code.ts"
+  }
+}
