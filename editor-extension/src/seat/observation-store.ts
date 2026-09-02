@@ -1,5 +1,5 @@
-import { deferCommits } from '../../../tools/lib/page-commit-queue.ts';
-import { written } from '../../../tools/lib/page-query-landing.ts';
+import { deferCommits } from '@tools/lib/page-commit-queue';
+import { written } from '@tools/lib/page-query-landing';
 import { rootsHere } from '@akasha/pages-system/checkout-roots';
 import { changeKey, type Observation } from "./observations.ts"
 import { foldSweep, mergeObservation, type ObservationPatch } from "./observation-merge.ts";

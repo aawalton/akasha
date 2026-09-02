@@ -1,4 +1,4 @@
-import { akashaSeatsStanding } from '../../../tools/lib/seat-akasha-beside.ts';
+import { akashaSeatsStanding } from '@tools/lib/seat-akasha-beside';
 
 // A SEAT IS READ FROM AKASHA, AND AKASHA ANSWERS FROM ITS INDEX RATHER THAN BY WALKING A FOLDER.
 // Both of these opened every file in the old seat directory and hand-parsed its frontmatter to find

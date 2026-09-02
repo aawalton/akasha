@@ -3,7 +3,7 @@ import * as fs from 'node:fs';
 import * as os from 'node:os';
 import * as path from 'node:path';
 import { promisify } from 'node:util';
-import { isServed } from '../../tools/lib/verb-served.ts';
+import { isServed } from '@tools/lib/verb-served';
 import { askServed, VerbServerClient } from './verb-server-client.ts';
 
 const execFileP = promisify(execFile);
