@@ -51,21 +51,26 @@ test("one type's keys keep the order that type declares them in", () => {
   expect(said.map((one) => one.key)).toEqual(["b", "a"])
 })
 
-test("a page the index does not hold is placed under its type's folder by the plural", () => {
+test("a folder already named by the plural takes a new page under pages", () => {
   const said = pathFor(
     "akasha/person-system/device-tokens/device-token.page-type.ts",
     "device-tokens",
     "device-token",
     "one"
   )
-  expect(said).toBe("akasha/person-system/device-token/device-tokens/one.device-token.ts")
+  expect(said).toBe("akasha/person-system/device-tokens/pages/one.device-token.ts")
+})
+
+test("a folder not named by the plural takes a new page under the plural", () => {
+  const said = pathFor("akasha/seat-system/seat/seat.page-type.ts", "seats", "seat", "one")
+  expect(said).toBe("akasha/seat-system/seat/seats/one.seat.ts")
 })
 
 test("several pages compose into what one write puts and what it keeps", () => {
   const said = foldedFor(ROOT, [A_DEVICE_TOKEN])
   expect("puts" in said && said.puts.length).toBe(1)
   expect("puts" in said && said.puts[0]?.path).toBe(
-    "akasha/person-system/device-token/device-tokens/held-one.device-token.ts"
+    "akasha/person-system/device-tokens/pages/held-one.device-token.ts"
   )
   expect("kept" in said && said.kept[0]?.values.lastSeenAt).toBe(AN_INSTANT)
 })
@@ -109,7 +114,7 @@ test("a page the index already holds keeps the identity it has", () => {
 test("a page the index does not hold is composed carrying no identity", () => {
   const said = foldedFor(ROOT, [{ ...DEFINER, slug: "held-one" }])
   expect("puts" in said && said.puts[0]?.path).toBe(
-    "akasha/role-system/role/roles/held-one.role.ts"
+    "akasha/role-system/roles/pages/held-one.role.ts"
   )
   expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
 })

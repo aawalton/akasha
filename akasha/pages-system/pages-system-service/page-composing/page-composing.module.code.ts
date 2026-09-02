@@ -39,14 +39,18 @@ export function orderedIn(carried: readonly Carried[]): readonly Carried[] {
   return [...held.values()].reverse().flat()
 }
 
+const PAGES = "pages"
+
 export function pathFor(
   typeAt: string,
   plural: string,
   pageTypeSlug: string,
   slug: string
 ): string {
-  const folder = typeAt.split("/").slice(0, -1).join("/")
-  return `${folder}/${plural}/${slug}.${pageTypeSlug}.ts`
+  const above = typeAt.split("/").slice(0, -1)
+  const folder = above.join("/")
+  const under = above.at(-1) === plural ? PAGES : plural
+  return `${folder}/${under}/${slug}.${pageTypeSlug}.ts`
 }
 
 function saying(keys: readonly string[]): string {

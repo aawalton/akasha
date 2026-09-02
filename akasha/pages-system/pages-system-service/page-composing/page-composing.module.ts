@@ -51,7 +51,16 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the index does not hold is placed under its type's folder by the plural.",
+      statement:
+        "A page the index does not hold is placed under the folder its type is declared in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder already named by the plural takes its pages under `pages`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder not named by the plural takes its pages under the plural.",
     },
     {
       invariantKind: "departure",
