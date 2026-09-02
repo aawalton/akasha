@@ -6,4 +6,5 @@ export const fcocsVirtuals = {
   slug: "fcocs-virtuals",
   definition: "the virtual controls the interface add-on builds its own buttons from",
   markup: "xml",
+  loadedAs: "XML/FCOCS_virtuals.xml",
 } as const satisfies EsoInterface
