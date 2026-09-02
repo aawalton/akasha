@@ -4,13 +4,28 @@ import { Badge } from "@akasha/design-badges/badge"
 import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@akasha/design-primitives/alert-dialog"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
+import { ItemCard } from "@akasha/design-patterns/item-card"
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "@akasha/design-primitives/alert-dialog"
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from "@akasha/design-primitives/dropdown-menu"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Text } from "@akasha/design-primitives/text-body"
-import { ItemCard } from "@akasha/design-patterns/item-card"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"
+import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
 import { EllipsisVertical, Info, ShoppingCart } from "lucide-react"
 import { memo, useEffect, useState } from "react"
 import { RuleNotesDialog } from "./rule-notes-dialog"
