@@ -21,6 +21,11 @@ export const eppieMigrateMusicToAkasha = {
         "1,656 song pages sit in `pages/music-song`, 30 rated, beside 1,372 lyrics and 1,340 synced-lyrics attachments; 14 artists; 12 day pages holding 698 listen rows; one heard-music page holding 678 heard-track rows, 29 of which name no Spotify track id though the property is required. The queries turn on five keys: `play-key`, `spotify-track-id`, `title-key`, `played-at`, and `new-music-minutes` summed by persona and date.",
     },
     {
+      statement: "The music commands are akasha commands rather than ops commands.",
+      workingMemory:
+        "Eight commands sit in `tools/commands/music/`: now-playing, listening, play, queue, search, rate, next and import-artist. `tools/ops/cli.ts` dispatches them through the registry in `tools/ops/declared.ts`, which walks the folder and keys on `export const summary`. Nine `old-ops-command` pages in `pages/` document them. No `akasha music` command exists and `pages/ops-command/` is empty. Alan has said the behaviour may change rather than being carried across as it was.",
+    },
+    {
       statement: "Alan's listening is captured again, onto the pages the new system keeps.",
       workingMemory:
         "The capture was not given up on: an agent overreached and deleted it in `2669aed6` on 1 September. Its five files and 475 lines come back out of `2669aed6^:collections/music/src/listening/` rather than being written again. `capture.ts` holds the drain from `getRecentlyPlayed`, and `play-row.ts` the arithmetic, including the rule that a priming run scores no first listen.",
