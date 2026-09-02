@@ -1,16 +1,36 @@
 "use client"
 
 import { Badge } from "@akasha/design-badges/badge"
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
-import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@akasha/design-primitives/collapsible"
-import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@akasha/design-primitives/command"
-import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
-import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "@akasha/design-badges/badge-toggle-group"
 import { ItemCard } from "@akasha/design-patterns/item-card"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { cn } from "@akasha/design-primitives/cn"
-import { formatEffects } from "@temper/game-characters-stats/metrics/format-effects"
+import {
+  Collapsible,
+  CollapsibleContent,
+  CollapsibleTrigger,
+} from "@akasha/design-primitives/collapsible"
+import {
+  Command,
+  CommandEmpty,
+  CommandGroup,
+  CommandInput,
+  CommandItem,
+  CommandList,
+} from "@akasha/design-primitives/command"
+import {
+  Dialog,
+  DialogBody,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+} from "@akasha/design-primitives/dialog"
+import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { formatEffects } from "@akasha/temper-characters-stats/format-effects"
 import type { Effect } from "@akasha/temper-formula-framework/effect"
 import { Check, ChevronDown, ChevronRight, X } from "lucide-react"
 import type * as React from "react"
