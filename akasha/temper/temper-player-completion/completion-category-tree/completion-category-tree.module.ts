@@ -13,7 +13,8 @@ export const completionCategoryTree = {
     },
     {
       invariantKind: "absence",
-      statement: "The achievement children of the two achievement cards are missing here.",
+      statement:
+        "The achievement children are hung by `completion-category-tree-composed` rather than here.",
     },
   ],
 } as const satisfies Module
