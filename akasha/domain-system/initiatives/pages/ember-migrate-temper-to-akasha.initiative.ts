@@ -12,12 +12,12 @@ export const emberMigrateTemperToAkasha = {
       statement:
         "Temper is a domain in akasha, and everything temper keeps is a page or an entry there.",
       workingMemory:
-        "Alan's page-type gap is closed: `temper-companion-skill` gained 53 property pages and two entry shapes, and its 122 pages hold all 436 effects and 27 cast conditions, regenerating to 119,803 bytes against 119,824 on disk. Addon-data's invocation is settled — its entry is called, never loaded — and 11 of its 12 sections emit byte-identical; only skills throws, on grimoire order. Alan took the companion sections out of that pipeline. A bridge decoding no json drifted 1,636 rows.",
+        "Alan's page-type gap is closed and proven: `temper-companion-skill` gained 53 property pages and two entry shapes, and its 122 pages regenerate 119,803 bytes against 119,824 on disk. The addon-data pipeline is 11 of 12 byte-identical, and the twelfth hides three more — `writes-skills.ts` builds five generator calls in one eager array, so the grimoire throw takes scribed-skill, skill and skill-point down before they run, while the section printed 1/1 byte-identical.",
     },
     {
       statement: "No part of temper is outside akasha.",
       workingMemory:
-        "113 packages in `akasha/temper`, 93 in `temper/`, but no name rule tells a duplicate from a gap — `game-characters-skills` landed as `temper-character-skills` — so a content census is running. Teardowns are open at last: copy-metadata emits all six addons' keybinds byte for byte, where it silently wrote 22. Typecheck is back to zero. The whole tree holds 99 refusals, 79 of them one rule in two files; the bare audit truncates, so ask it per check.",
+        "A content census settled what no name rule could, 93 rows at `scratchpad/ember/PARITY.md`: 49 folders are landed and duplicated, 13 part-landed, 19 outside, 12 outside this migration, and 14 of the 19 are landable today. `shared-interface-hud-addon` is the leverage, since landed packages name TemperHud where akasha holds no such addon. Of teardowns, 38 clear content and none is proven safe. Typecheck is zero over 17,274 roots; the tree holds 99 refusals.",
     },
   ],
   constraints: [
