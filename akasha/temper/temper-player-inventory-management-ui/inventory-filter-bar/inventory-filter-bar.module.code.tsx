@@ -61,7 +61,7 @@ const TRAIT_FAMILY_CONFIG: {
   },
 ]
 
-function TraitFamilyFilter(config: (typeof TRAIT_FAMILY_CONFIG)[number]): InventoryViewFilterDef {
+function traitFamilyFilter(config: (typeof TRAIT_FAMILY_CONFIG)[number]): InventoryViewFilterDef {
   const { id, label, familyKey, getProp, getOnChange } = config
   const familyOptions = TRAIT_OPTIONS_BY_FAMILY[familyKey] ?? []
 
@@ -114,7 +114,7 @@ const INVENTORY_VIEW_FILTERS: InventoryViewFilterDef[] = [
       )
     },
   },
-  ...TRAIT_FAMILY_CONFIG.map(TraitFamilyFilter),
+  ...TRAIT_FAMILY_CONFIG.map(traitFamilyFilter),
 ]
 
 interface InventoryFilterBarProps {

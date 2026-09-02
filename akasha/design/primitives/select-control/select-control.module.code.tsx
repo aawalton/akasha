@@ -87,7 +87,7 @@ function getChildText(node: ReactNode): string {
   return ""
 }
 
-function ProcessSelectChildren(
+function processSelectChildren(
   children: ReactNode,
   nullSentinel: { value: string; label: string; className?: string } | undefined,
   sorted: boolean
@@ -139,7 +139,7 @@ function SelectContent({
 }) {
   const processedChildren = useMemo(
     () =>
-      nullSentinel || sorted ? ProcessSelectChildren(children, nullSentinel, sorted) : children,
+      nullSentinel || sorted ? processSelectChildren(children, nullSentinel, sorted) : children,
     [children, nullSentinel, sorted]
   )
 
