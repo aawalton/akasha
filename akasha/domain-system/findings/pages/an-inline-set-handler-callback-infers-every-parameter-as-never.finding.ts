@@ -1,7 +1,7 @@
 import type { Finding } from "../finding.page-type.ts"
 
 export const anInlineSetHandlerCallbackInfersEveryParameterAsNever = {
-  id: "01a06182-8490-7417-9afb-94b1dbdee3d7",
+  id: "01a06185-f68f-70f7-8604-d363d54c56a0",
   pageTypeSlug: "finding",
   slug: "an-inline-set-handler-callback-infers-every-parameter-as-never",
   domainSlug: "domain/temper",
