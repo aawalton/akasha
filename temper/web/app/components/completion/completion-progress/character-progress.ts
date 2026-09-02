@@ -1,9 +1,21 @@
 import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import type {
+  AchievementTallyCategory,
+  CharacterAchievementProgressResult,
+} from "@akasha/temper-player-completion/completion-achievement-progress"
+import {
+  achievementTally,
+  transformCharacterAchievementProgress,
+} from "@akasha/temper-player-completion/completion-achievement-progress"
+import { transformCadwellProgress } from "@akasha/temper-player-completion/completion-cadwell-progress"
 import type { CharacterSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
 import { transformDailyWritsProgress } from "@akasha/temper-player-completion/completion-daily-writs-progress"
 import { transformLoreLibraryProgress } from "@akasha/temper-player-completion/completion-lore-library-progress"
+import { transformPoiProgress } from "@akasha/temper-player-completion/completion-poi-progress"
+import { transformQuestProgress } from "@akasha/temper-player-completion/completion-quest-progress"
 import { transformSkillPointsProgress } from "@akasha/temper-player-completion/completion-skill-points-progress"
 import { buildCharacterSummary } from "@akasha/temper-player-completion/completion-summary"
+import { transformCompletionCharacters } from "@akasha/temper-player-completion/completion-transforms"
 import type {
   AccountLoreProgress,
   CharacterCadwellProgress,
@@ -22,25 +34,25 @@ import type {
   CharacterZoneCompletionProgress,
   CompletionCharacter,
 } from "@akasha/temper-player-completion/completion-ui-types"
+import { transformZoneCompletionProgress } from "@akasha/temper-player-completion/completion-zone-progress"
 import type {
   useAccountCompletion,
   useCompletionCharacters,
 } from "@akasha/temper-player-completion-ui/use-completion"
 import type { CharacterSkillMorphProgress } from "@akasha/temper-skill-morphs/morph-progress-types"
-import type { CharacterAchievementProgressResult } from "@temper/player-completion/completion-achievement-progress"
-import { transformCharacterAchievementProgress } from "@temper/player-completion/completion-achievement-progress"
-import { transformCadwellProgress } from "@temper/player-completion/completion-cadwell-progress"
-import { transformPoiProgress } from "@temper/player-completion/completion-poi-progress"
-import { transformQuestProgress } from "@temper/player-completion/completion-quest-progress"
-import { transformCompletionCharacters } from "@temper/player-completion/completion-transforms"
-import { transformZoneCompletionProgress } from "@temper/player-completion/completion-zone-progress"
 import { useMemo } from "react"
+import type { CompletionCatalogs } from "@/components/completion/use-completion-catalogs"
+
+// The catalog files its character-side tree under this category, and the twin's own progress
+// transforms filter on the same string.
+const CHARACTER_TALLY = "character"
 
 export interface CharacterProgressData {
   rosterSize: number
   measuredCharacterCount: number
   characters: readonly CompletionCharacter[]
   characterAchievementProgress: readonly CharacterAchievementProgressResult[]
+  characterAchievementTally: readonly AchievementTallyCategory[]
   cadwellProgress: readonly CharacterCadwellProgress[]
   progress: readonly CharacterSkillLineProgress[]
   morphProgress: readonly CharacterSkillMorphProgress[]
@@ -64,6 +76,7 @@ interface UseCharacterProgressArgs {
   accountCompletion: ReturnType<typeof useAccountCompletion>["account"]
   companionQuestProgress: readonly CharacterQuestProgress[]
   companionRapportProgress: readonly CharacterCompanionRapportProgress[]
+  catalogs: CompletionCatalogs
 }
 
 export interface UseCharacterProgressResult {
@@ -78,6 +91,7 @@ export function useCharacterProgress({
   accountCompletion,
   companionQuestProgress,
   companionRapportProgress,
+  catalogs,
 }: UseCharacterProgressArgs): UseCharacterProgressResult {
   const accountCollectibles = accountCompletion?.collectibles
   const {
@@ -93,19 +107,44 @@ export function useCharacterProgress({
     rosterSize,
     measuredCharacterCount,
   } = useMemo(
-    () => transformCompletionCharacters(rows, accountCollectibles),
-    [rows, accountCollectibles]
+    // The two catalogs go in ahead of `accountCollectibles`, not after it. All four arguments are
+    // written out so that misplacing one is a type error rather than a silent rebinding of the
+    // collectibles onto the craft types.
+    () =>
+      transformCompletionCharacters(
+        rows,
+        catalogs.craftTypes,
+        catalogs.researchLines,
+        accountCollectibles
+      ),
+    [rows, catalogs.craftTypes, catalogs.researchLines, accountCollectibles]
   )
   const characterAchievementProgress = useMemo(
-    () => transformCharacterAchievementProgress(rows),
-    [rows]
+    () => transformCharacterAchievementProgress(rows, catalogs.achievementCategories),
+    [rows, catalogs.achievementCategories]
   )
-  const cadwellProgress = useMemo(() => transformCadwellProgress(rows), [rows])
+  const characterAchievementTally = useMemo(
+    () => achievementTally(catalogs.achievementCategories, CHARACTER_TALLY),
+    [catalogs.achievementCategories]
+  )
+  const cadwellProgress = useMemo(
+    () => transformCadwellProgress(rows, catalogs.cadwellLevels),
+    [rows, catalogs.cadwellLevels]
+  )
   const loreLibraryProgress = useMemo(() => transformLoreLibraryProgress(rows), [rows])
-  const questProgress = useMemo(() => transformQuestProgress(rows), [rows])
+  const questProgress = useMemo(
+    () => transformQuestProgress(rows, catalogs.questZones),
+    [rows, catalogs.questZones]
+  )
   const skillPointsProgress = useMemo(() => transformSkillPointsProgress(rows), [rows])
-  const poiProgress = useMemo(() => transformPoiProgress(rows), [rows])
-  const zoneProgress = useMemo(() => transformZoneCompletionProgress(rows), [rows])
+  const poiProgress = useMemo(
+    () => transformPoiProgress(rows, catalogs.poiZones),
+    [rows, catalogs.poiZones]
+  )
+  const zoneProgress = useMemo(
+    () => transformZoneCompletionProgress(rows, catalogs.zoneCompletionZones),
+    [rows, catalogs.zoneCompletionZones]
+  )
   const dailyWritsProgress = useMemo(() => transformDailyWritsProgress(rows), [rows])
   const characterSummary = useMemo(
     () =>
@@ -163,6 +202,7 @@ export function useCharacterProgress({
     measuredCharacterCount,
     characters,
     characterAchievementProgress,
+    characterAchievementTally,
     cadwellProgress,
     progress,
     morphProgress,

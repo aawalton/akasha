@@ -5,6 +5,10 @@ import {
   ACHIEVEMENT_SUBCATEGORY_ACTIVITY,
   achievementNameToActivity,
 } from "@akasha/temper-player-completion/activity-category-mapping"
+import type {
+  AchievementTallyCategory,
+  CharacterAchievementProgressResult,
+} from "@akasha/temper-player-completion/completion-achievement-progress"
 import type { CharacterCardId } from "@akasha/temper-player-completion/completion-card-registry"
 import type { CompletionCharacter } from "@akasha/temper-player-completion/completion-ui-types"
 import {
@@ -15,13 +19,15 @@ import {
   createNodeFilter,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { requireFirst } from "@akasha/utils-narrow/require-first"
-import type { CharacterAchievementProgressResult } from "@temper/player-completion/completion-achievement-progress"
-import { characterAchievementData } from "@temper/player-completion/generated/achievement-data.generated"
 
 interface CharacterAchievementsPanelCardProps {
   id?: CharacterCardId
   characters: readonly CompletionCharacter[]
   achievementProgress: readonly CharacterAchievementProgressResult[]
+  // The tree the aggregate view walks. It used to be a generated constant compiled into the bundle;
+  // it is now built from the achievement-category catalog by `achievementTally`, upstream in
+  // `useCharacterProgress`, so this card reads it as data rather than importing it.
+  characterAchievementTally: readonly AchievementTallyCategory[]
   selectedCharacterIds: readonly string[]
   completionFilter?: CompletionFilter
   activityCategoryFilter?: readonly ActivityCategoryId[]
@@ -33,6 +39,7 @@ export function CharacterAchievementsPanelCard({
   id,
   characters,
   achievementProgress,
+  characterAchievementTally,
   selectedCharacterIds,
   completionFilter,
   activityCategoryFilter,
@@ -69,7 +76,7 @@ export function CharacterAchievementsPanelCard({
       progressLookup.set(cp.characterId, achMap)
     }
 
-    const items: CompletionNode[] = characterAchievementData.map((cat) => {
+    const items: CompletionNode[] = characterAchievementTally.map((cat) => {
       const catActivity = ACHIEVEMENT_CATEGORY_ACTIVITY[cat.name] ?? "other"
       return {
         key: cat.name,
@@ -91,18 +98,20 @@ export function CharacterAchievementsPanelCard({
                   ),
                 ]
                 return {
-                  key: String(achievement.achievementId),
+                  key: String(achievement.esoAchievementId),
                   label: achievement.name,
                   activityCategories: achCategories,
                   children: selectedProgress.map((cp): CompletionNode => {
-                    const entry = progressLookup.get(cp.characterId)?.get(achievement.achievementId)
+                    const entry = progressLookup
+                      .get(cp.characterId)
+                      ?.get(achievement.esoAchievementId)
                     const completed = entry != null && entry.completedSteps >= entry.totalSteps
                     return {
                       key: cp.characterId,
                       label: charNames.get(cp.characterId) ?? cp.characterId,
                       activityCategories: achCategories,
-                      count: completed ? achievement.points : 0,
-                      total: achievement.points,
+                      count: completed ? achievement.achievementPoints : 0,
+                      total: achievement.achievementPoints,
                     }
                   }),
                 }
@@ -121,18 +130,20 @@ export function CharacterAchievementsPanelCard({
                 ),
               ]
               return {
-                key: String(achievement.achievementId),
+                key: String(achievement.esoAchievementId),
                 label: achievement.name,
                 activityCategories: achCategories,
                 children: selectedProgress.map((cp): CompletionNode => {
-                  const entry = progressLookup.get(cp.characterId)?.get(achievement.achievementId)
+                  const entry = progressLookup
+                    .get(cp.characterId)
+                    ?.get(achievement.esoAchievementId)
                   const completed = entry != null && entry.completedSteps >= entry.totalSteps
                   return {
                     key: cp.characterId,
                     label: charNames.get(cp.characterId) ?? cp.characterId,
                     activityCategories: achCategories,
-                    count: completed ? achievement.points : 0,
-                    total: achievement.points,
+                    count: completed ? achievement.achievementPoints : 0,
+                    total: achievement.achievementPoints,
                   }
                 }),
               }
@@ -146,13 +157,13 @@ export function CharacterAchievementsPanelCard({
       let count = 0
       let total = 0
       const achMap = progressLookup.get(cp.characterId)
-      for (const cat of characterAchievementData) {
+      for (const cat of characterAchievementTally) {
         for (const sub of cat.subCategories) {
           for (const achievement of sub.achievements) {
-            total += achievement.points
-            const entry = achMap?.get(achievement.achievementId)
+            total += achievement.achievementPoints
+            const entry = achMap?.get(achievement.esoAchievementId)
             if (entry && entry.completedSteps >= entry.totalSteps) {
-              count += achievement.points
+              count += achievement.achievementPoints
             }
           }
         }

@@ -57,6 +57,7 @@ export function CharactersTabPanels({
     measuredCharacterCount,
     characters,
     characterAchievementProgress,
+    characterAchievementTally,
     cadwellProgress,
     progress,
     morphProgress,
@@ -110,6 +111,7 @@ export function CharactersTabPanels({
             id="character-achievements"
             characters={characters}
             achievementProgress={characterAchievementProgress}
+            characterAchievementTally={characterAchievementTally}
             selectedCharacterIds={selectedCharacterIds}
             completionFilter={completionFilter}
             activityCategoryFilter={activityCategoryFilter}

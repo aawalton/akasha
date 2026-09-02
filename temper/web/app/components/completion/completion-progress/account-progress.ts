@@ -6,15 +6,30 @@ import {
   transformAccountRecipeUnion,
   transformAccountScribingUnion,
 } from "@akasha/temper-player-completion/completion-account-recipe-scribing-union"
+import type { AccountTraitResearchUnionProgress } from "@akasha/temper-player-completion/completion-account-trait-union"
+import { transformAccountTraitResearchUnion } from "@akasha/temper-player-completion/completion-account-trait-union"
 import type { AccountQuestUnionProgress } from "@akasha/temper-player-completion/completion-account-union-progress"
 import { transformAccountQuestUnion } from "@akasha/temper-player-completion/completion-account-union-progress"
+import type {
+  AccountPoiUnionProgress,
+  AccountZoneCompletionUnionProgress,
+} from "@akasha/temper-player-completion/completion-account-zone-poi-union"
+import {
+  transformAccountPoiUnion,
+  transformAccountZoneCompletionUnion,
+} from "@akasha/temper-player-completion/completion-account-zone-poi-union"
+import type { AccountAchievementOverallProgress } from "@akasha/temper-player-completion/completion-achievement-progress"
+import { transformAccountAchievementProgress } from "@akasha/temper-player-completion/completion-achievement-progress"
+import { transformAntiquityLoreProgress } from "@akasha/temper-player-completion/completion-antiquity-lore-progress"
 import type { AccountSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
+import { transformCollectiblesProgress } from "@akasha/temper-player-completion/completion-collectibles-progress"
 import type { ItemSetOverallProgress } from "@akasha/temper-player-completion/completion-item-set-progress"
 import { transformItemSetProgress } from "@akasha/temper-player-completion/completion-item-set-progress"
 import { isAccountMeasured } from "@akasha/temper-player-completion/completion-measured"
 import type { SubclassingSkillLineProgressResult } from "@akasha/temper-player-completion/completion-subclassing-progress"
 import { transformSubclassingSkillLineProgress } from "@akasha/temper-player-completion/completion-subclassing-progress"
 import { buildAccountSummary } from "@akasha/temper-player-completion/completion-summary-account"
+import { transformTributeProgress } from "@akasha/temper-player-completion/completion-tribute-progress"
 import type {
   AccountAntiquityLoreProgress,
   AccountCollectiblesProgress,
@@ -27,23 +42,9 @@ import type {
 } from "@akasha/temper-player-completion-ui/use-completion"
 import type { SubclassingSkillMorphProgressResult } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
 import { transformSubclassingSkillMorphProgress } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
-import type { AccountTraitResearchUnionProgress } from "@temper/player-completion/completion-account-trait-union"
-import { transformAccountTraitResearchUnion } from "@temper/player-completion/completion-account-trait-union"
-import type {
-  AccountPoiUnionProgress,
-  AccountZoneCompletionUnionProgress,
-} from "@temper/player-completion/completion-account-zone-poi-union"
-import {
-  transformAccountPoiUnion,
-  transformAccountZoneCompletionUnion,
-} from "@temper/player-completion/completion-account-zone-poi-union"
-import type { AccountAchievementOverallProgress } from "@temper/player-completion/completion-achievement-progress"
-import { transformAccountAchievementProgress } from "@temper/player-completion/completion-achievement-progress"
-import { transformAntiquityLoreProgress } from "@temper/player-completion/completion-antiquity-lore-progress"
-import { transformCollectiblesProgress } from "@temper/player-completion/completion-collectibles-progress"
-import { transformTributeProgress } from "@temper/player-completion/completion-tribute-progress"
 import { useMemo } from "react"
 import type { CharacterProgressData } from "@/components/completion/completion-progress/character-progress"
+import type { CompletionCatalogs } from "@/components/completion/use-completion-catalogs"
 
 export interface AccountProgressData {
   measured: boolean
@@ -71,6 +72,7 @@ interface UseAccountProgressArgs {
   accountCompletion: ReturnType<typeof useAccountCompletion>["account"]
   characterProgress: CharacterProgressData
   loreProgress: AccountLoreProgress
+  catalogs: CompletionCatalogs
 }
 
 export interface UseAccountProgressResult {
@@ -83,6 +85,7 @@ export function useAccountProgress({
   accountCompletion,
   characterProgress,
   loreProgress,
+  catalogs,
 }: UseAccountProgressArgs): UseAccountProgressResult {
   const {
     poiProgress,
@@ -98,19 +101,25 @@ export function useAccountProgress({
     [accountCompletion]
   )
   const accountAchievementProgress = useMemo(
-    () => transformAccountAchievementProgress(accountCompletion, rows),
-    [accountCompletion, rows]
+    () =>
+      transformAccountAchievementProgress(accountCompletion, rows, catalogs.achievementCategories),
+    [accountCompletion, rows, catalogs.achievementCategories]
   )
   const antiquityLoreProgress = useMemo(
-    () => transformAntiquityLoreProgress(accountCompletion),
-    [accountCompletion]
+    () => transformAntiquityLoreProgress(accountCompletion, catalogs.antiquityCategories),
+    [accountCompletion, catalogs.antiquityCategories]
   )
   const collectiblesProgress = useMemo(
-    () => transformCollectiblesProgress(accountCompletion),
-    [accountCompletion]
+    () => transformCollectiblesProgress(accountCompletion, catalogs.collectibleCategories),
+    [accountCompletion, catalogs.collectibleCategories]
   )
   const questUnion = useMemo(() => transformAccountQuestUnion(questProgress), [questProgress])
-  const poiUnion = useMemo(() => transformAccountPoiUnion(poiProgress), [poiProgress])
+  const poiUnion = useMemo(
+    () => transformAccountPoiUnion(poiProgress, catalogs.poiZones),
+    [poiProgress, catalogs.poiZones]
+  )
+  // Alone among the thirteen, this one reads only the per-character progress it is handed and so
+  // still takes no catalog.
   const zoneCompletionUnion = useMemo(
     () => transformAccountZoneCompletionUnion(zoneProgress),
     [zoneProgress]
@@ -121,8 +130,13 @@ export function useAccountProgress({
     [scribingProgress]
   )
   const traitResearchUnion = useMemo(
-    () => transformAccountTraitResearchUnion(traitResearchProgress),
-    [traitResearchProgress]
+    () =>
+      transformAccountTraitResearchUnion(
+        traitResearchProgress,
+        catalogs.craftTypes,
+        catalogs.researchLines
+      ),
+    [traitResearchProgress, catalogs.craftTypes, catalogs.researchLines]
   )
   const subclassingSkillLines = useMemo(
     () => transformSubclassingSkillLineProgress(accountCompletion),
@@ -136,8 +150,8 @@ export function useAccountProgress({
     [accountCompletion]
   )
   const tributeProgress = useMemo(
-    () => transformTributeProgress(accountCompletion),
-    [accountCompletion]
+    () => transformTributeProgress(accountCompletion, catalogs.tributePatrons),
+    [accountCompletion, catalogs.tributePatrons]
   )
   const accountSummary = useMemo(
     () =>
