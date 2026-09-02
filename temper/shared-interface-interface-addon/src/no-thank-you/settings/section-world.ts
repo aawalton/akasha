@@ -1,4 +1,4 @@
-import { dropdown } from "@temper/shared-interface-lam/dropdown"
+import { dropdown } from "@akasha/temper-settings-panel/dropdown"
 import { disableChatMinimize, dontRotateGameCamera } from "../camera"
 import { defaults } from "../defaults"
 import { setHouseIcons } from "../hooks/map-pins"

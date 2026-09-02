@@ -15,7 +15,7 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@temper/shared-capture-descriptor": "workspace:*"
+    "@akasha/temper-capture-descriptor": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

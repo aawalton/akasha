@@ -1,4 +1,4 @@
-import type { CaptureDescriptor } from "@temper/shared-capture-descriptor/descriptor"
+import type { CaptureDescriptor } from "@akasha/temper-capture-descriptor/descriptor"
 import type { SalesPayload } from "./types"
 
 const DEFAULTS: SalesPayload = { version: 1, sales: {} }

@@ -1,6 +1,6 @@
-import { dropdown } from "@temper/shared-interface-lam/dropdown"
-import { header } from "@temper/shared-interface-lam/header"
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { dropdown } from "@akasha/temper-settings-panel/dropdown"
+import { header } from "@akasha/temper-settings-panel/header"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { newColorDef, setTextureColor, unpackRgba } from "./colors"
 import {
   ADDON_VERSION,

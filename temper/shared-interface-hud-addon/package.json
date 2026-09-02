@@ -2,9 +2,9 @@
   "name": "@temper/shared-interface-hud-addon",
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*",
     "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
     "@temper/shared-interface-hud-scene-catalog": "workspace:*",
-    "@temper/shared-interface-lam": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },
   "devDependencies": {

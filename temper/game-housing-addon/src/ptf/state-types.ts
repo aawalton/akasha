@@ -1,4 +1,4 @@
-import type { LamDropdownData } from "@temper/shared-interface-lam/dropdown"
+import type { LamDropdownData } from "@akasha/temper-settings-panel/dropdown"
 import type {
   ColorRGBALower,
   ColorRGBAUpper,

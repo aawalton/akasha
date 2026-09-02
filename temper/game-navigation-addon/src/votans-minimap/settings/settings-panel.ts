@@ -1,5 +1,5 @@
-import { header } from "@temper/shared-interface-lam/header"
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { header } from "@akasha/temper-settings-panel/header"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { asAnyTable, asBoolean, asNumber } from "../casts"
 import { holder, type VotansMiniMap } from "../holder"
 import { buildAppearanceSettings } from "./settings-panel-appearance"

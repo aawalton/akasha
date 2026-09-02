@@ -1,8 +1,8 @@
 {
   "name": "@temper/game-combat-addon",
   "dependencies": {
+    "@akasha/temper-settings-panel": "workspace:*",
     "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
-    "@temper/shared-interface-lam": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },
   "devDependencies": {

@@ -2,10 +2,10 @@
   "name": "@temper/game-companions-addon",
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*",
     "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
     "@temper/shared-capture-perf": "workspace:*",
     "@temper/shared-foundation-misc-codec": "workspace:*",
-    "@temper/shared-interface-lam": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },
   "devDependencies": {

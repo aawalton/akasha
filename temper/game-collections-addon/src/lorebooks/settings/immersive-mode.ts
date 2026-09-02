@@ -1,4 +1,4 @@
-import { dropdown } from "@temper/shared-interface-lam/dropdown"
+import { dropdown } from "@akasha/temper-settings-panel/dropdown"
 import { DEFAULTS, getSavedVariables } from "../saved-variables"
 
 export function addImmersiveModeOptions(this: void, optionsTable: unknown[]): undefined {

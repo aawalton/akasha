@@ -7,8 +7,8 @@
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
   },
   "dependencies": {
-    "@temper/shared-foundation-misc-eso-paths": "workspace:*",
-    "@temper/shared-interface-lam": "workspace:*"
+    "@akasha/temper-settings-panel": "workspace:*",
+    "@temper/shared-foundation-misc-eso-paths": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"

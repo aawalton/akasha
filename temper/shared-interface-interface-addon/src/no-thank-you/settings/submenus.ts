@@ -1,4 +1,4 @@
-import { dropdown } from "@temper/shared-interface-lam/dropdown"
+import { dropdown } from "@akasha/temper-settings-panel/dropdown"
 import { defaults } from "../defaults"
 import { handleLuaErrorEvent } from "../hooks/notifications/lua-errors"
 import { noGuildLeave } from "../hooks/world"

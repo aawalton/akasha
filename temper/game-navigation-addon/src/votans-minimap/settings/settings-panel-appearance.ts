@@ -1,5 +1,5 @@
-import { dropdown, valueDropdown } from "@temper/shared-interface-lam/dropdown"
-import { header } from "@temper/shared-interface-lam/header"
+import { dropdown, valueDropdown } from "@akasha/temper-settings-panel/dropdown"
+import { header } from "@akasha/temper-settings-panel/header"
 import {
   asAnyTableMember,
   asBoolean,

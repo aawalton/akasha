@@ -1,5 +1,5 @@
-import { valueDropdown } from "@temper/shared-interface-lam/dropdown"
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { valueDropdown } from "@akasha/temper-settings-panel/dropdown"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { ADDON_NAME, ADDON_TITLE } from "./constants"
 import { initializeInventoryTweaks } from "./inventory-tweaks"
 import { areInventoryTweaksEnabled, getMarkerColor, getSv } from "./saved-variables"

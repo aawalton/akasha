@@ -1,4 +1,4 @@
-import { dropdown } from "@temper/shared-interface-lam/dropdown"
+import { dropdown } from "@akasha/temper-settings-panel/dropdown"
 import { defaults } from "../defaults"
 import { noUniversalStones } from "../hooks/world"
 import { getSavedVariables } from "../saved-variables"

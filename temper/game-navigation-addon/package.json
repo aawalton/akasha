@@ -1,8 +1,8 @@
 {
   "name": "@temper/game-navigation-addon",
   "dependencies": {
-    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
-    "@temper/shared-interface-lam": "workspace:*"
+    "@akasha/temper-settings-panel": "workspace:*",
+    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*"
   },
   "devDependencies": {
     "@temper/shared-build-deploy-lua-runner": "workspace:*",

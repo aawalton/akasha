@@ -12,8 +12,8 @@
     "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
   },
   "dependencies": {
+    "@akasha/temper-capture-descriptor": "workspace:*",
     "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
-    "@temper/shared-capture-descriptor": "workspace:*",
     "@temper/shared-capture-perf": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },

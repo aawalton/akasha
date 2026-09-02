@@ -23,8 +23,8 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@akasha/temper-capture-shapes": "workspace:*",
-    "@temper/shared-capture-descriptor": "workspace:*"
+    "@akasha/temper-capture-descriptor": "workspace:*",
+    "@akasha/temper-capture-shapes": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

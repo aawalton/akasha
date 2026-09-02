@@ -1,4 +1,4 @@
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { ADDON_AUTHOR, ADDON_VERSION, ADDON_WEBSITE, PANEL_ID, SLASH_COMMAND } from "../constants"
 import { buildDialogSections } from "./section-dialogs"
 import { buildMessageSections } from "./section-messages"

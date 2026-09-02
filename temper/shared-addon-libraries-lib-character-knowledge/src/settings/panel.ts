@@ -1,4 +1,4 @@
-import { type LamRegistrar, registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { type LamRegistrar, registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { asString } from "../casts"
 import { Internal } from "../internal/state"
 import { LCCC } from "../lccc"

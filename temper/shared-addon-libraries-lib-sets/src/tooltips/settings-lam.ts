@@ -1,4 +1,4 @@
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { asBoolean, asPresent, asString, asStrRecord, asTyped } from "../casts"
 import { menuState } from "./settings-state"
 import { state } from "./state"

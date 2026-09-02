@@ -1,4 +1,4 @@
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { ADDON_VERSION } from "../constants"
 import { updateEvents } from "../core/events"
 import { getDb, type TemperCombatSettings } from "../saved-variables"

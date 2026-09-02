@@ -1,8 +1,8 @@
 {
   "name": "@temper/game-crafting-addon",
   "dependencies": {
-    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
-    "@temper/shared-interface-lam": "workspace:*"
+    "@akasha/temper-settings-panel": "workspace:*",
+    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"

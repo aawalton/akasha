@@ -9,11 +9,6 @@
       "@types/bun"
     ]
   },
-  "references": [
-    {
-      "path": "../shared-capture-descriptor"
-    }
-  ],
   "include": [
     "src/**/*.ts"
   ],

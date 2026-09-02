@@ -2,6 +2,7 @@
   "name": "@temper/player-completion-addon",
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*",
     "@temper/game-characters-capture-addon": "workspace:*",
     "@temper/game-characters-skills-morphs-addon": "workspace:*",
     "@temper/game-companions-core": "workspace:*",
@@ -12,7 +13,6 @@
     "@temper/shared-foundation-misc-codec": "workspace:*",
     "@temper/shared-foundation-misc-dungeons": "workspace:*",
     "@temper/shared-interface-hud-window": "workspace:*",
-    "@temper/shared-interface-lam": "workspace:*",
     "@temper/shared-narrow": "workspace:*"
   },
   "devDependencies": {

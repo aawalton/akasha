@@ -1,4 +1,4 @@
-import { valueDropdown } from "@temper/shared-interface-lam/dropdown"
+import { valueDropdown } from "@akasha/temper-settings-panel/dropdown"
 import {
   LORE_LIBRARY_EIDETIC,
   PIN_ICON_ESOHEAD,

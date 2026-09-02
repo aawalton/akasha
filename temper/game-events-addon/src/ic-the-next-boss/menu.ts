@@ -1,4 +1,4 @@
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { initializeSavedVariables } from "./saved-variables"
 import { ICT } from "./state"
 

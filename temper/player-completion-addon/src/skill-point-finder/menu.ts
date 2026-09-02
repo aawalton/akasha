@@ -1,5 +1,5 @@
-import { valueDropdown } from "@temper/shared-interface-lam/dropdown"
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { valueDropdown } from "@akasha/temper-settings-panel/dropdown"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { requireOptions, requireSVar, state } from "./state"
 import type { Rgb, Settings } from "./types"
 

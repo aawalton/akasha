@@ -1,4 +1,4 @@
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { ADDON_NAME, ADDON_VERSION } from "./constants"
 import type { TemperWritSavedVariables } from "./writworthy-global"
 

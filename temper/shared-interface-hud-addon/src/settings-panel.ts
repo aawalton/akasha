@@ -1,7 +1,7 @@
 import { HUD_SCENE_CATALOG } from "@temper/shared-interface-hud-scene-catalog/generated/hud-scene-catalog.generated"
 import type { HudComponentRecord } from "@temper/shared-interface-hud-scene-catalog/schema"
-import { header } from "@temper/shared-interface-lam/header"
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { header } from "@akasha/temper-settings-panel/header"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import {
   defaultComponentVisible,
   isComponentVisible,

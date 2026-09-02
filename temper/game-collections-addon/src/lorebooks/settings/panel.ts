@@ -1,4 +1,4 @@
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { ADDON_PANEL, ADDON_VERSION, ADDON_WEBSITE } from "../constants"
 import { asLamControlDataArray } from "../settings-types"
 import { addCompassPinOptions } from "./compass-pins"

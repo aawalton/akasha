@@ -1,5 +1,5 @@
 import { registerAddonInit } from "@temper/shared-build-deploy-addon-bundle-runtime/bundle-runtime"
-import type { CaptureDescriptor, PerfSlot } from "@temper/shared-capture-descriptor/descriptor"
+import type { CaptureDescriptor, PerfSlot } from "@akasha/temper-capture-descriptor/descriptor"
 import { finishPerfTrace, startPerfTrace } from "@temper/shared-capture-perf/perf"
 import { makeAccountWideSavedVars } from "./saved-vars"
 

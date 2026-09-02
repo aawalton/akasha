@@ -1,5 +1,5 @@
-import { header } from "@temper/shared-interface-lam/header"
-import { registerPanel } from "@temper/shared-interface-lam/register-panel"
+import { header } from "@akasha/temper-settings-panel/header"
+import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import { ADDON_NAME, ADDON_URL } from "../constants"
 import { getVars, setSettingsPanel } from "../core/state"
 import { hookExternalTooltips } from "../tooltip/hooks"
