@@ -25,3 +25,7 @@ test("content matching the last write-back is skipped", () => {
 test("content differing from the last write-back is not skipped", () => {
   expect(shouldSkipSelfWrite(hashContent("a"), hashContent("b"))).toBe(false)
 })
+
+test("content differing only in its line endings hashes differently", () => {
+  expect(hashContent("a\n")).not.toBe(hashContent("a\r\n"))
+})
