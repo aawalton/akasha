@@ -9,6 +9,10 @@ import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wid
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { asRecord } from "@akasha/utils-narrow/as-record"
 import { resolveAccountPageId } from "../watcher-account-page/watcher-account-page.module.code.ts"
+import {
+  type SignedInReader,
+  userIdFor,
+} from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 export const COMPANIONS_SAVED_VARIABLES_GLOBAL = "TemperCompanions_SavedVariables"
 
@@ -21,15 +25,6 @@ export const COMPANION_IDS_WITH_DEF_ID: readonly CompanionId[] = companions.list
   .map((companion) => companion.id)
 
 export type PageUpsert = typeof upsertPage
-
-export interface UserAuth {
-  readonly auth: {
-    getUser: () => Promise<{
-      data: { user: { id: string } | null }
-      error: { message: string } | null
-    }>
-  }
-}
 
 export interface CompanionImportPorts {
   readonly upsert?: PageUpsert
@@ -150,16 +145,6 @@ export function planCompanionImport(reading: CompanionSavedVariables): Companion
   return { actions }
 }
 
-async function readUserId(supabase: UserAuth): Promise<string> {
-  const userResult = await supabase.auth.getUser()
-  if (userResult.error || !userResult.data.user) {
-    throw new Error(
-      `no signed-in user to write these companions for (${userResult.error?.message ?? "no user"})`
-    )
-  }
-  return userResult.data.user.id
-}
-
 async function writeCompanionProgressPages(userId: string, upsert: PageUpsert): Promise<void> {
   await resolveAccountPageId(userId, upsert)
 
@@ -178,7 +163,7 @@ async function writeCompanionProgressPages(userId: string, upsert: PageUpsert): 
 
 export async function runImportCompanions(
   content: string,
-  supabase: UserAuth,
+  supabase: SignedInReader,
   options: { userId?: string } = {},
   ports: CompanionImportPorts = {}
 ): Promise<void> {
@@ -203,7 +188,7 @@ export async function runImportCompanions(
 
   report(`Found ${plan.actions.length} companion(s).\n`)
 
-  const userId = options.userId ?? (await readUserId(supabase))
+  const userId = await userIdFor(supabase, options.userId, "write these companions")
 
   await writeCompanionProgressPages(userId, upsert)
 

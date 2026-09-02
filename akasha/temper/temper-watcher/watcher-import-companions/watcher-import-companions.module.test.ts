@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { asPage } from "@akasha/pages-core/page-types"
 import { createNewCompanion } from "@akasha/temper-companions-core/companion-factory"
 import { asRecord } from "@akasha/utils-narrow/as-record"
+import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   COMPANION_IDS_WITH_DEF_ID,
   type CompanionImportPorts,
@@ -10,7 +11,6 @@ import {
   planCompanionImport,
   readCompanionSavedVariables,
   runImportCompanions,
-  type UserAuth,
 } from "./watcher-import-companions.module.code.ts"
 
 const EMBER_HASH = "AjEINDEMQxDEMQxDAwMDFDADAAAAAAa4"
@@ -76,7 +76,7 @@ function companionIdOf(write: Record<string, unknown>): unknown {
   return asRecord(write.set)?.companionId
 }
 
-function noSupabase(): UserAuth {
+function noSupabase(): SignedInReader {
   return {
     auth: {
       getUser: async () => {
@@ -86,7 +86,7 @@ function noSupabase(): UserAuth {
   }
 }
 
-function refusingSupabase(message: string): UserAuth {
+function refusingSupabase(message: string): SignedInReader {
   return {
     auth: {
       getUser: async () => ({ data: { user: null }, error: { message } }),
@@ -252,5 +252,5 @@ test("a run with no user given and no signed-in user is refused by what is wrong
   const { ports } = recordingPorts()
   await expect(
     runImportCompanions(THREE_ENTRY_FILE, refusingSupabase("jwt expired"), {}, ports)
-  ).rejects.toThrow("no signed-in user to write these companions for (jwt expired)")
+  ).rejects.toThrow("no signed-in user to write these companions (jwt expired)")
 })
