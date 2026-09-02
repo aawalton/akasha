@@ -16,7 +16,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The code editor's extension sits in akasha.",
       workingMemory:
-        "82 tracked files, 77 `.ts` and 1 `.md` under `src`. Only ONE tracked file imports inward, `tools/verb-server.test.ts:12`, so nothing pins the folder. `.server` markers: a verified zero. Not one symlink but 10, four absolute across separate editor checkouts. The old `tools 116 to 66` was two root sets, not two dates. Seven `@tools/lib` reaches clear `imports-inside` by blindness to wildcard exports, so they move last. First piece: set `akasha/editor-extension` up as a package exporting nothing.",
+        "First piece landed (`2abf58d75d`), but it made a SECOND empty package, not a conversion: the source manifest is the editor's own with 14 commands; the akasha one is a 6-line stub. Merge it in BEFORE repointing any symlink, or the editor loses 14 commands while `editor-extension-single` reads green through that link. 11 symlinks now, not 10. Three files reach `akasha/editor-extension` by relative path, bypassing `exports: {}`. 82/77/1, `.server` zero and the seven `@tools/lib` reaches hold.",
     },
     {
       statement: "Nothing reaches pages through the old query engine.",
