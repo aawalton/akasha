@@ -46,7 +46,15 @@ export const deployIosShipping = {
     },
     {
       invariantKind: "departure",
-      statement: "The build prints its own progress as the build runs.",
+      statement: "What the build said is carried back in the report rather than printed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is said until the build has finished.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes to an output stream.",
     },
     {
       invariantKind: "absence",

@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   CONFIGURATION,
   linesFor,
+  linesOf,
   NO_UPLOAD_SAID,
   REF,
   UPLOAD_SAID,
@@ -23,4 +24,17 @@ test("a run that uploads nothing says so before it begins", () => {
 
 test("a run that uploads says a tester is sent the build, since none can decline it", () => {
   expect(linesFor("atlas", "some/page.md", false)[2]).toBe(UPLOAD_SAID)
+})
+
+test("what the build said becomes one report line for each line it said", () => {
+  expect(linesOf(["one\ntwo\n", "three\n"])).toEqual(["one", "two", "three"])
+})
+
+test("a chunk broken mid-line joins rather than becoming two lines", () => {
+  expect(linesOf(["ARCHIVE ", "SUCCEEDED\n"])).toEqual(["ARCHIVE SUCCEEDED"])
+})
+
+test("a build that said nothing adds nothing to the report", () => {
+  expect(linesOf([])).toEqual([])
+  expect(linesOf(["\n \n"])).toEqual([])
 })

@@ -19,6 +19,13 @@ export const NO_UPLOAD_SAID =
 export const UPLOAD_SAID =
   "upload\tcarried out, so every internal tester of this app is sent the build"
 
+export function linesOf(said: readonly string[]): readonly string[] {
+  return said
+    .join("")
+    .split("\n")
+    .filter((one) => one.trim() !== "")
+}
+
 export function linesFor(slug: string, pagePath: string, noUpload: boolean): readonly string[] {
   return [
     `ios-app\t${slug}\t${pagePath}`,
@@ -50,6 +57,7 @@ export async function shipIosApp(
   } catch (err) {
     return { report, refusals: [saidBy(err)], code: OPERATIONAL }
   }
+  const said: string[] = []
   try {
     await runTestflightCut({
       app,
@@ -60,12 +68,17 @@ export async function shipIosApp(
       noUpload,
       password,
       ref: REF,
+      say: (text) => {
+        said.push(text)
+      },
     })
   } catch (err) {
+    report.push(...linesOf(said))
     return { report, refusals: [saidBy(err)], code: OPERATIONAL }
   } finally {
     releaseLocalCutLock(process.pid)
   }
+  report.push(...linesOf(said))
   report.push(
     noUpload
       ? `built\t${slug}\tarchived, exported, validated by Apple, and sent to nobody`

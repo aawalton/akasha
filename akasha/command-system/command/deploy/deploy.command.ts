@@ -23,6 +23,7 @@ export const deploy = {
     "which kind of app a slug names is read from the pages carrying that slug, and a slug both a web app and an ios app carry is refused rather than chosen between.",
     "an ios app is named by the `app-slug` its page states, which is its short name rather than the page's own slug.",
     "an ios app is built on the MacBook at Release from what origin main carries, and the build takes its own number.",
+    "nothing is said until an ios build has finished, because a command prints nothing itself, and what the build said is the report.",
     "an upload reaches every internal tester, since each app's one group holds all builds and each build notifies, so `--no-upload` is what holds a build back from a phone.",
     "`--dry-run` belongs to a web app and `--no-upload` to an ios app, and either on the other kind is refused rather than ignored.",
     "what the deploy is made of is not on the call: the page names a cluster service, that page names a workload, and the code beside it emits the manifests.",
