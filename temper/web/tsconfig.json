@@ -62,19 +62,10 @@
       "path": "../../shared/utils-test"
     },
     {
-      "path": "../game-companions-ui"
-    },
-    {
       "path": "../player-completion"
     },
     {
-      "path": "../player-completion-ui"
-    },
-    {
       "path": "../player-economics-ui"
-    },
-    {
-      "path": "../player-profile"
     }
   ],
   "include": [
