@@ -5,6 +5,7 @@ import { relayedFor } from "../readout-relay/readout-relay.module.test-fixtures.
 import {
   answerReadout,
   answerReadoutAdmittedBy,
+  readingHeldOn,
   relayedFresh,
 } from "./readout-serving.module.code.ts"
 
@@ -162,6 +163,35 @@ test("the moment a reading is judged against is handed in rather than read here"
   holdRelayed({ readout: READOUT, value: 19, at: TAKEN })
   expect(relayedFresh(READOUT, new Date("2026-08-31T12:44:00.000Z"))).toBe(19)
   expect(relayedFresh(READOUT, new Date("2026-08-31T12:46:00.000Z"))).toBeNull()
+})
+
+test("a reading carried on a readout's own row is read as a reading", () => {
+  const held = readingHeldOn(
+    { lastValue: 19, lastValueAt: TAKEN },
+    new Date("2026-08-31T12:44:00.000Z")
+  )
+  expect(held).toEqual({ held: "fresh", value: 19 })
+})
+
+test("a reading carried on a row is aged by the window a relayed reading is aged by", () => {
+  const values = { lastValue: 19, lastValueAt: TAKEN }
+  expect(readingHeldOn(values, new Date("2026-08-31T12:44:00.000Z")).held).toBe("fresh")
+  expect(readingHeldOn(values, new Date("2026-08-31T12:46:00.000Z")).held).toBe("stale")
+})
+
+test("a row carrying no reading is told from a row whose reading is too old", () => {
+  expect(readingHeldOn({ slug: READOUT }, new Date(TAKEN)).held).toBe("none")
+  expect(
+    readingHeldOn({ lastValue: 19, lastValueAt: TAKEN }, new Date("2026-08-31T13:00:00.000Z")).held
+  ).toBe("stale")
+})
+
+test("a reading of nothing carried on a row is a reading rather than an absence", () => {
+  const held = readingHeldOn(
+    { lastValue: 0, lastValueAt: TAKEN },
+    new Date("2026-08-31T12:01:00.000Z")
+  )
+  expect(held).toEqual({ held: "fresh", value: 0 })
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {
