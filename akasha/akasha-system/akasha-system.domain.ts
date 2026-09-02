@@ -47,6 +47,7 @@ export const akashaSystem = {
     "workspace-package/file-page-identity",
     "workspace-package/checkout-version",
     "domain/temper",
+    "domain/story-engine",
   ],
   invariants: [
     {
