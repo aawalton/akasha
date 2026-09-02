@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/temper-player-completion",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./completion-card-id": "./completion-card-id/completion-card-id.module.code.ts",
+    "./completion-card-registry": "./completion-card-registry/completion-card-registry.module.code.ts",
+    "./completion-card-tab": "./completion-card-tab/completion-card-tab.module.code.ts",
+    "./completion-category-tree": "./completion-category-tree/completion-category-tree.module.code.ts",
+    "./completion-category-tree-types": "./completion-category-tree-types/completion-category-tree-types.module.code.ts",
+    "./completion-override": "./completion-override/completion-override.module.code.ts"
+  }
+}

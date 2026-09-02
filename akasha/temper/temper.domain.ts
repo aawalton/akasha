@@ -90,6 +90,7 @@ export const temper = {
     "workspace-package/temper-skill-kinds",
     "eso-addon/temper-interface-addon",
     "workspace-package/temper-character-sources",
+    "workspace-package/temper-player-completion",
   ],
   invariants: [
     {
