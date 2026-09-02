@@ -8,5 +8,5 @@
   "apiVersion": ["101049", "101050"],
   "savedVariables": [],
   "dependsOn": [],
-  "optionalDependsOn": []
+  "optionalDependsOn": ["LibDebugLogger", "DebugLogViewer"]
 }
