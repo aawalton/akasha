@@ -54,8 +54,6 @@ interface LibCodesCommonCodeApi {
   RunAfterInitialLoadscreen: (this: void, fn: (this: void) => void) => void
 }
 
-declare const LibCodesCommonCode: LibCodesCommonCodeApi
-
 interface ExtendedJournalSearch {
   IsMatch: (searchTerm: string, data: object) => boolean
 }

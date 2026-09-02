@@ -99,11 +99,15 @@ declare const GAMEPAD_SKILLS: GamepadSkillsScene
 
 declare const ZO_GamepadGenericHeader_RefreshData: (header: Control, headerData: unknown) => void
 
-declare const ZO_PostHook: (
+declare const ZO_PostHook: ((
   objectTable: object,
   methodName: string,
   hookFunction: (this: void, ...args: never[]) => void
-) => void
+) => void) &
+  ((
+    existingFunctionName: string,
+    hookFunction: (this: void, ...args: never[]) => unknown
+  ) => void)
 
 declare const RedirectTexture: (originalTexturePath: string, newTexturePath: string) => void
 

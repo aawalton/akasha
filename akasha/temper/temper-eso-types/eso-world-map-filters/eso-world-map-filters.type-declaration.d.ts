@@ -25,14 +25,6 @@ declare const ZO_CheckButton_SetCheckState: (
   checked: boolean
 ) => void
 
-declare const ZO_CheckButton_SetToggleFunction: (
-  this: void,
-  checkButton: Control,
-  toggleFunction: (this: void, control: Control, state: boolean) => void
-) => void
-
-declare const ZO_CheckButton_SetLabelText: (this: void, checkButton: Control, text: string) => void
-
 declare const ZO_WorldMapFiltersPvE: Control | undefined
 declare const ZO_WorldMapFiltersPvEContainer: Control | undefined
 declare const ZO_WorldMapFiltersPvEContainerScrollChild: Control | undefined

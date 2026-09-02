@@ -21,8 +21,6 @@ declare const STAT_BATTLE_LEVEL_COLOR: ZoColorDef
 declare const ZO_SELECTED_TEXT: ZoColorDef
 declare const ZO_TOOLTIP_DEFAULT_COLOR: ZoColorDef
 
-declare const ZO_Tooltip_AddDivider: (tooltip: TooltipControl) => void
-
 declare const ZO_WorldMapMouseoverName: LabelControl
 
 interface ZoMapPinObject {

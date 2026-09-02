@@ -199,6 +199,7 @@ interface SceneFragment {
 
 interface Scene {
   readonly name: string
+  IsShowing: () => boolean
   AddFragment: (fragment: SceneFragment) => void
   RemoveFragment: (fragment: SceneFragment) => void
   RegisterCallback: (event: string, callback: (oldState: number, newState: number) => void) => void

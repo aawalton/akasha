@@ -5,7 +5,6 @@ declare const SI_LORE_LIBRARY_HIRELING_CORRESPONDENCE_ENTRY_FORMATTER: number
 declare const SI_LORE_LIBRARY_HIRELING_CORRESPONDENCE_SENDER_FORMATTER: number
 declare const SI_LORE_LIBRARY_HIRELING_CORRESPONDENCE_HEADER: number
 declare const SI_ITEM_ACTION_LINK_TO_CHAT: number
-declare const SI_MAPFILTER8: number
 declare const SI_WORLD_MAP_ACTION_SET_PLAYER_WAYPOINT: number
 declare const SI_INSTANCEDISPLAYTYPE6: number
 declare const SI_INSTANCEDISPLAYTYPE7: number
@@ -128,8 +127,13 @@ declare function ZO_WorldMap_IsWorldMapShowing(this: void): boolean
 declare function AddMenuItem(
   this: void,
   labelText: string,
-  callback: (this: void) => void,
-  itemType?: number
+  callback?: ((this: void) => void) | undefined,
+  itemType?: number,
+  myFont?: string,
+  normalColor?: unknown,
+  highlightColor?: unknown,
+  itemYPad?: number,
+  ...rest: unknown[]
 ): number
 declare const ZO_LoreLibrary_ReadBook: (
   this: void,
@@ -149,7 +153,7 @@ declare const ZO_CheckButton_SetLabelText: (this: void, checkButton: Control, te
 declare const ZO_CheckButton_SetToggleFunction: (
   this: void,
   checkButton: Control,
-  toggleFunction: (this: void, checkButton: Control, checked: boolean) => void
+  toggleFunction: ((this: void, checkButton: Control, checked: boolean) => void) | undefined
 ) => void
 declare const ZO_EditDefaultText_OnTextChanged: (this: void, editControl: EditControl) => void
 declare const ZO_ScrollList_Clear: (this: void, listControl: object) => void

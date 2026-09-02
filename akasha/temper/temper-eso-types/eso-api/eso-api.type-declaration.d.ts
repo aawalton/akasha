@@ -3,7 +3,7 @@ declare function ZO_LinkHandler_CreateLink(
   text: string,
   color: string | undefined,
   linkType: string,
-  ...data: number[]
+  ...data: (string | number)[]
 ): string
 
 declare function getItemLinkFromItemId(this: void, itemId: number): string
@@ -145,8 +145,6 @@ declare function ZO_IsConsoleOrGameCoreUI(): boolean
 declare function ZO_IsElementInNonContiguousTable(table: unknown, element: unknown): boolean
 
 declare function ZO_GenerateCommaSeparatedListWithAnd(list: unknown): string
-
-declare const ZO_ClearTable: (t: unknown) => void
 
 declare function ZO_Enchanting_GetVisibleEnchanting(): Record<string, unknown>
 

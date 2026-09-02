@@ -1,13 +1,3 @@
-declare const ZO_PostHook: (
-  existingFunctionName: string,
-  hookFunction: (this: void, ...args: never[]) => unknown
-) => void
-
-declare const SecurePostHook: (
-  existingFunctionName: string,
-  hookFunction: (this: void, ...args: never[]) => void
-) => void
-
 interface SceneManager {
   GetCurrentScene: (this: SceneManager) => Scene
 }

@@ -18,12 +18,6 @@ interface ZoColorDef {
   a: number
 }
 
-interface ZoColorDefClass {
-  New: ((r: number, g: number, b: number, a?: number) => ZoColorDef) &
-    ((hex: string) => ZoColorDef) &
-    ((colorOrHex: string | ZoColorDef) => ZoColorDef)
-}
-
 type ZoColor = ZoColorDef
 
 interface ZoSceneStatic {

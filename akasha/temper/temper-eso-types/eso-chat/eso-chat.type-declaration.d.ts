@@ -35,7 +35,7 @@ declare const CHAT_SYSTEM: SharedChatSystem
 
 interface ChatRouter {
   AddSystemMessage: (message: string) => void
-  FormatAndAddChatMessage: (eventName: number, ...args: unknown[]) => void
+  FormatAndAddChatMessage: (eventName: string | number, ...args: unknown[]) => void
 }
 declare const CHAT_ROUTER: ChatRouter
 

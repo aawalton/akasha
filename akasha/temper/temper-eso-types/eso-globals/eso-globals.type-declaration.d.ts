@@ -26,11 +26,12 @@ declare const ZO_Tooltips_HideTextTooltip: () => void
 
 declare const zo_callLater: (callback: () => void, delayMs: number) => void
 
-declare const SecurePostHook: (
+declare const SecurePostHook: ((
   object: object,
   existingFunctionName: string,
   hookFunction: (this: void, ...args: never[]) => void
-) => void
+) => void) &
+  ((existingFunctionName: string, hookFunction: (this: void, ...args: never[]) => void) => void)
 
 declare function zo_round(value: number): number
 
@@ -75,7 +76,7 @@ declare function ZO_DeepTableCopy<T>(source: T, target?: object): T
 
 declare function ZO_ShallowTableCopy<T>(source: T, target?: object): T
 
-declare const ZO_ClearTable: (table: object) => void
+declare const ZO_ClearTable: ((table: object) => void) & ((t: unknown) => void)
 
 declare const SLASH_COMMANDS: Record<string, (command: string) => void>
 
