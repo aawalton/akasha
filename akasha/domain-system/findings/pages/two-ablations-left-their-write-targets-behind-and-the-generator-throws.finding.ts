@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const twoAblationsLeftTheirWriteTargetsBehindAndTheGeneratorThrows = {
+  id: "01a06287-4fd0-7848-ad67-2bd5d9086ca5",
+  pageTypeSlug: "finding",
+  slug: "two-ablations-left-their-write-targets-behind-and-the-generator-throws",
+  domainSlug: "domain/temper",
+  claim:
+    "assertOutputDirParentsExist throws at HEAD, so the addon data generator writes nothing at all. Two temper folders went without their write targets coming out beside them, against the practice thirteen-addon-data-writes-came-out-with-the-folders-they-wrote-into records. Seven writes aim at absent folders. Nothing reported it because the only caller is ops-side and ops is hook-blocked for every agent.",
+  evidence:
+    "Measured 2026-09-02 at commit 36acbb0601, by importing the module and calling it.\n\nIt throws on `temper/game-companions-addon/src/generated`, whose parent is absent. That folder went at 31090c0748. The real check short-circuits on the first orphan, so each entry was tried on its own: ALL_OUTPUT_DIRS composes 15 entries from 13 exports plus OUTPUT_DIR and COMPANIONS_OUTPUT_DIR in constants.ts, and 2 are orphaned. The second is TEMPER_SKILLS_OUTPUT_DIR at `temper/game-characters-skills/src/generated`, gone at 8084461de7. A synthetic absent package was tried first and reported orphaned, so the probe is not blind to its subject.\n\ngenerateAddonData calls ensureAllOutputDirs before any write, so the whole pipeline is dead rather than partly dead.\n\nSeven writes aim at the two: three at the companions folder, codec-constants.generated.ts from writes/codec.ts and companion-mappings.generated.ts and skill-mappings.generated.ts from writes/companion-mappings.ts; four at the skills folder from writes-skills.ts, temper-character-skill-activation.generated.ts, temper-grimoire.generated.ts, temper-scribed-skill.generated.ts and temper-skill.generated.ts.\n\n8084461de7 repointed three files under tools/lib/temper-addon-data/code and left output-dirs.ts alone. 31090c0748 did not touch constants.ts. Both are the second step the earlier finding records as settled practice.\n\nThe backlog is not two. The 15 entries resolve to 10 temper packages and 9 of the 10 already have an akasha twin, so 8 more become orphans the moment their own lane finishes. Two of the 15 names, OUTPUT_DIR and TEMPER_ADDONS_CHARACTERS_GENERATED_DIR, resolve to one identical path, so 15 entries are 14 destinations and a count of targets is ambiguous unless it says which it means.",
+} as const satisfies Finding

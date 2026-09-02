@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theCompletionAddonWriteTargetIsTheOneWithNoAkashaTwin = {
+  id: "01a06287-4fd0-7f8a-bc22-831e93ad93d4",
+  pageTypeSlug: "finding",
+  slug: "the-completion-addon-write-target-is-the-one-with-no-akasha-twin",
+  domainSlug: "domain/temper",
+  claim:
+    "Of the 10 temper packages the addon data write targets resolve to, 9 have an akasha twin folder today and player-completion-addon has none. It carries 2 of the 15 target names, both resolving to one path. The player-completion lane separately measured 10 of its 13 generated files with nowhere to land, so this reads as one face of an unmade decision about generated data rather than a lone gap.",
+  evidence:
+    "Measured 2026-09-02 at commit 36acbb0601.\n\nEach of the 15 entries ALL_OUTPUT_DIRS composes was resolved to its temper package and matched against the folders under akasha/temper. Nine answered: game-characters-capture-addon to temper-characters-capture-addon, game-characters-equipment to temper-characters-equipment, game-characters-skills to temper-character-skills, game-characters-stats to temper-characters-stats, game-companions-addon to temper-companions-addon, game-items-addon to temper-items-addon, game-items-core to temper-items-core, game-items-rules-core to temper-items-rules-core, and player-completion to temper-player-completion.\n\nplayer-completion-addon answered nothing. No folder under akasha/temper spells a completion addon. What does spell something near it is temper-player-completion, temper-player-completion-state, temper-player-completion-ui and temper-player-completion-skills-morphs-ui, and none of the four is the addon. `git ls-files temper/player-completion-addon/` answers 102, so the temper copy is whole and unablated.\n\nOUTPUT_DIR and TEMPER_ADDONS_CHARACTERS_GENERATED_DIR both resolve to `temper/player-completion-addon/src/generated`, so this one package holds 2 of the 15 names and 1 of the 14 destinations.\n\nfour-of-the-player-completion-generated-tables-are-build-output records the neighbouring measurement: of 13 generated files there, 4 come from pages and 9 are written from a game capture and carried no page type when measured. Whatever answers that answers this, so recreating the addon data write targets should wait on it here rather than name a path that reads plausible and lands nowhere.",
+} as const satisfies Finding
