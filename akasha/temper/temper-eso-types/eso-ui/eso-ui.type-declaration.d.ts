@@ -29,7 +29,7 @@ interface Control {
   SetMouseEnabled: (enabled: boolean) => void
   SetHandler: (
     event: string,
-    handler: ((...args: unknown[]) => void) | undefined,
+    handler: ((this: void, ...args: never[]) => void) | undefined,
     name?: string
   ) => void
   GetHandler: (event: string) => ((...args: unknown[]) => void) | undefined
