@@ -8,6 +8,7 @@ import {
   ID,
   identityOf,
   locationFreeGlob,
+  MARKDOWN,
   READINGS,
   rekeyReadings,
   suffixedPath,
@@ -62,6 +63,20 @@ function alreadyNamed(relPath: string, slug: string): boolean {
 function refusalsFor(root: string, relPaths: readonly string[], slug: string): readonly string[] {
   const refusals: string[] = []
   for (const relPath of relPaths) {
+    /**
+     * An akasha page was read as markdown and refused for "declaring nothing".
+     *
+     * It declares a great deal — an id, a slug and a date — but as TypeScript, and `blockOf` looks
+     * for a YAML fence. The message sent the reader after frontmatter that was never going to be
+     * there, when the true answer is that this command has nothing to do with the file at all.
+     */
+    if (!relPath.endsWith(MARKDOWN)) {
+      refusals.push(
+        `${relPath} is no markdown page — an akasha page is \`<slug>.<page-type>.ts\` and so ` +
+          "carries its page type from birth, leaving this nothing to rename"
+      )
+      continue
+    }
     if (pageTypeOf(relPath) !== null && !alreadyNamed(relPath, slug)) {
       refusals.push(`${relPath} already carries a second suffix, so it is not a bare page file`)
       continue
@@ -150,6 +165,22 @@ export default async function pageSuffix(args: readonly string[]): Promise<void>
   const repo = soleRepoOf(type)
   if (repo === null) {
     throw inputError(`\`${slug}\` states no one repo for its files, so it has no file set to name`)
+  }
+  /**
+   * Refused here, before anything moves, because `refileType` cannot write this key correctly.
+   *
+   * It finds the first line beginning `files:` and replaces it with one glob. Where the key holds a
+   * list that line is the bare `files:`, so the replacement leaves a scalar with the old list
+   * dangling under it: one glob, then the two original `- ` entries with nothing to belong to. That
+   * is not valid frontmatter, and what it drops is the akasha half of a type part way through a
+   * migration — 133 pages for `daily-tracking` and 211 for `eso-daily-tracking` today.
+   */
+  if (type.filed.length > 1) {
+    throw inputError(
+      `\`${slug}\` states ${type.filed.length} \`files:\` entries and this writes one. A type part ` +
+        "way through a migration files its markdown half and its akasha half separately, and " +
+        "replacing the key with a single glob would drop one of them. Nothing was renamed"
+    )
   }
 
   const roots = resolveRoots(repo)

@@ -2,7 +2,7 @@ import { SLUG } from "../../page/page-types.ts"
 import { blockOf, stringAt } from "../../page/text/text.ts"
 import { idOfFilePage, slugOfFilePage } from "@akasha/file-page-identity"
 
-const MARKDOWN = ".md"
+export const MARKDOWN = ".md"
 
 export const ID = "id"
 
@@ -20,7 +20,23 @@ export function identityOf(repo: string, relPath: string, body: string): Identit
   return { slug: slugOfFilePage(stringAt(fm, SLUG), at), id: idOfFilePage(stringAt(fm, ID), at) }
 }
 
+/**
+ * Where a markdown page lands when it takes its page type into its name.
+ *
+ * A path naming no markdown page is REFUSED rather than answered. Taking a fixed `.md` off the end
+ * sliced three characters off whatever was there and put a markdown extension back on, so
+ * `day-2026-03-05.daily-tracking.ts` came back as
+ * `day-2026-03-05.daily-tracking.daily-tracking.md` — a name for a file that could not exist, and
+ * the answer for all 344 akasha pages the two migrating types reach today. An akasha page is
+ * `<slug>.<page-type>.ts` by construction and so carries its page type from birth; this renames the
+ * markdown half alone, and for the other half there is no right answer to give.
+ */
 export function suffixedPath(relPath: string, slug: string): string {
+  if (!relPath.endsWith(MARKDOWN)) {
+    throw new Error(
+      `a page takes its page type into its name by being renamed, and '${relPath}' is no markdown page`
+    )
+  }
   const cut = relPath.lastIndexOf("/")
   const dir = relPath.slice(0, cut + 1)
   const name = relPath.slice(cut + 1)
