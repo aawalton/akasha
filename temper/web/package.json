@@ -55,7 +55,6 @@
     "@fontsource-variable/geist": "^5.2.9",
     "@infra/k8s-types": "workspace:*",
     "@akasha/pages-query": "workspace:*",
-    "@shared/pages-ui": "workspace:*",
     "@akasha/temper-characters-character-ui": "workspace:*",
     "@akasha/temper-characters-stats": "workspace:*",
     "@akasha/temper-companions-ui": "workspace:*",
