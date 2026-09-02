@@ -7,6 +7,7 @@ export const watcherImportDataMining = {
   definition: "a datamining capture posted to the server, with every block read whole then emptied",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

@@ -4,6 +4,11 @@ import {
   type Fetching,
   runImportDataMining,
 } from "./watcher-import-data-mining.module.code.ts"
+import {
+  CLEARED_ITEMS,
+  GOOD_ITEMS,
+  ITEM_IDS,
+} from "./watcher-import-data-mining.module.test-fixtures.ts"
 
 const QUESTS_URL = "https://example.test/api/watcher/upsert-mined-quests"
 
@@ -293,4 +298,85 @@ test("a gateway failure is tried five times before it is raised", async () => {
   }
   expect(await thrownBy(answer)).toBe(`HTTP 503 from ${QUESTS_URL}`)
   expect(attempts).toBe(5)
+})
+
+const ITEMS_URL = "https://example.test/api/watcher/upsert-mined-items"
+
+test("an items block every entry was read from goes to the items address and is emptied", async () => {
+  const sent: Sent[] = []
+  const out = await runImportDataMining(
+    fixture(GOOD_ITEMS, CLEARED_QUESTS),
+    "https://example.test",
+    "tok-123",
+    { fetching: recording(sent, accepted) }
+  )
+  expect(sent.map((one) => one.url)).toEqual([ITEMS_URL])
+  expect(sent[0]?.items.map((one) => one.itemId)).toEqual([...ITEM_IDS])
+  expect(out.content).toBe(fixture(CLEARED_ITEMS, CLEARED_QUESTS))
+  expect(out.content).not.toContain("setBonuses")
+})
+
+test("a set bonus rides up in the row rather than being left on disk", async () => {
+  const sent: Sent[] = []
+  await runImportDataMining(
+    fixture(GOOD_ITEMS, CLEARED_QUESTS),
+    "https://example.test",
+    "tok-123",
+    {
+      fetching: recording(sent, accepted),
+    }
+  )
+  expect(sent[0]?.items[0]?.setBonuses).toEqual([
+    { numRequired: 1, description: "Bonus 1", isPerfected: false },
+    { numRequired: 2, description: "Bonus 2", isPerfected: false },
+    { numRequired: 3, description: "Bonus 3", isPerfected: false },
+    { numRequired: 5, description: "Bonus 4", isPerfected: false },
+  ])
+  expect(sent[0]?.items[0]).not.toHaveProperty("requiredCP")
+  expect(sent[0]?.items[0]?.requiredCp).toBe(160)
+})
+
+test("a batch the server broke off once goes up again and the block still empties", async () => {
+  const sent: Sent[] = []
+  let broken = false
+  const answer = (): Response => {
+    if (broken) return accepted()
+    broken = true
+    return new Response(
+      JSON.stringify({ error: "bulkUpsertPages: canceling statement due to statement timeout" }),
+      { status: 500 }
+    )
+  }
+  const out = await runImportDataMining(
+    fixture(EMPTY_ITEMS, GOOD_QUESTS),
+    "https://example.test",
+    "tok-123",
+    { fetching: recording(sent, answer), retry: FAST_RETRY }
+  )
+  expect(sent).toHaveLength(2)
+  expect(out.content).toBe(fixture(EMPTY_ITEMS, CLEARED_QUESTS))
+  expect(out.modified).toBe(true)
+})
+
+test("a run that threw leaves the file as it was, so the next run drains it", async () => {
+  const input = fixture(EMPTY_ITEMS, GOOD_QUESTS)
+  let failing = true
+  const answer = (): Response =>
+    failing ? new Response(JSON.stringify({ error: "boom" }), { status: 500 }) : accepted()
+
+  const first: Sent[] = []
+  await expect(
+    runImportDataMining(input, "https://example.test", "tok-123", {
+      fetching: recording(first, answer),
+      retry: FAST_RETRY,
+    })
+  ).rejects.toThrow("boom")
+
+  failing = false
+  const second: Sent[] = []
+  const out = await runImportDataMining(input, "https://example.test", "tok-123", {
+    fetching: recording(second, answer),
+  })
+  expect(second[0]?.items.map((one) => one.questId)).toEqual([201])
+  expect(out.content).toBe(fixture(EMPTY_ITEMS, CLEARED_QUESTS))
 })
