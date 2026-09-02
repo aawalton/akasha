@@ -18,13 +18,14 @@ import {
   shouldHideWeaponSlot,
 } from "@akasha/temper-characters-equipment/weapon-slot-access"
 import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
+import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
+import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import { weaponBars } from "@akasha/temper-equipment-kinds/weapon-bars"
 import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
