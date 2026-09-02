@@ -25,6 +25,10 @@ import {
   updateWeaponItem,
 } from "@akasha/temper-characters-equipment/weapon-slot-mutations"
 import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "@akasha/temper-characters-equipment-ui/equipment-quality-rules"
 import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import {
   type WeaponTraitId,
@@ -33,10 +37,6 @@ import {
 } from "@akasha/temper-equipment/weapon-traits"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { weaponSlots as weaponSlotsData } from "@akasha/temper-equipment-kinds/weapon-slots"
-import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityVariant,
-} from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo } from "react"
 import { BulkEditTag } from "@/components/equipment/bulk-edit-tag"
 import { BulkSetEditTag } from "@/components/equipment/bulk-set-edit-tag"
