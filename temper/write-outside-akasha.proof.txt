@@ -1,0 +1,2 @@
+a file created outside akasha by `akasha write`, with no throwaway first line
+and a second line, so a whole-file body is proved rather than a one-line removal
