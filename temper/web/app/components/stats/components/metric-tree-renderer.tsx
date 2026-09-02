@@ -3,9 +3,9 @@ import {
   isMetricNode,
   isSubcategoryNode,
   type MetricTreeNode,
-} from "@temper/game-characters-stats/metrics/metric-tree-types"
-import { getMetricDisplayName } from "@temper/game-characters-stats/metrics/metrics.generated"
-import type { MetricValue } from "@temper/game-characters-stats/metrics/types"
+} from "@akasha/temper-characters-stats/metric-tree-types"
+import type { MetricValue } from "@akasha/temper-characters-stats/metric-value"
+import { getMetricDisplayName } from "@akasha/temper-characters-stats/metrics"
 import { formatStatValue } from "@akasha/temper-formula-framework/number-format"
 import type { ReactElement } from "react"
 import type { StatsRecord } from "@/components/stats/types"
