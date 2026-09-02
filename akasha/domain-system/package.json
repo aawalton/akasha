@@ -4,6 +4,8 @@
   "type": "module",
   "exports": {
     "./domain": "./domains/domain.page-type.ts",
+    "./domain-slug": "./domains/properties/domain-slug.relation-property.ts",
+    "./initiative-slug": "./initiatives/properties/initiative-slug.relation-property.ts",
     "./persona-slug": "./initiatives/properties/persona-slug.relation-property.ts"
   }
 }

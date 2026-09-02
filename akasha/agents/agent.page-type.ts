@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages-system/page"
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { AssignmentSlug } from "../seat-system/seat/properties/assignment-slug.text-property.ts"
+import type { AssignmentSlug } from "../seat-system/seat/properties/assignment-slug.one-of-property.ts"
 import type { PrincipalSeatName } from "../seat-system/seat/properties/principal-seat-name.relation-property.ts"
 import type { Patch } from "./properties/patch.file-property.ts"
 
@@ -20,8 +20,8 @@ export const agent = {
   mortal: true,
   partSlugs: [
     "file-property/patch",
+    "one-of-property/assignment-slug",
     "relation-property/principal-seat-name",
-    "text-property/assignment-slug",
   ],
   properties: [
     {
