@@ -22,6 +22,7 @@ export function asLogger(value: unknown): Logger {
 }
 
 export interface GlobalTable {
+  LibAsync?: LibAsyncLib
   LibHistoire?: unknown
   LibHistoire_Settings?: Record<string, unknown>
   LibHistoire_GuildNames?: Record<string, unknown>

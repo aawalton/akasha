@@ -251,7 +251,8 @@ internal.Initialize = function (this: LibHistoireInternal): undefined {
 internal.CreateAsyncTask = function (this: LibHistoireInternal): unknown {
   const taskId = this.nextTaskId != null ? this.nextTaskId : 1
   this.nextTaskId = taskId + 1
-  const task = LibAsync.Create(LIB_IDENTIFIER + tostring(taskId))
+  const [lib] = assert(g.LibAsync, "LibAsync wasn't found")
+  const task = lib.Create(LIB_IDENTIFIER + tostring(taskId))
   return task
 }
 
