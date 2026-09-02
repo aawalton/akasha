@@ -1,0 +1,3 @@
+{"id":"01a05fd0-4d90-7702-973a-5f0735066a3e","conditionField":"stolen","conditionValue":"stolen"}
+{"id":"01a05fd0-4d90-7c96-82ed-7ca46b64ba60","conditionField":"qualityOp","conditionValue":">="}
+{"id":"01a05fd0-4d90-757b-8616-f72babdfe447","conditionField":"maxQuality","conditionValue":"4"}
