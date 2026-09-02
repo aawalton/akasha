@@ -238,6 +238,7 @@ check("a carried file the world could not take names that file rather than only 
   const from = repo({})
   mkdirSync(join(from, "biome.json"), { recursive: true })
   const asked = (): unknown => worldOf(from, [], handing({}))
+  expect(asked).toThrow("could not be made")
   expect(asked).toThrow("biome.json")
   expect(asked).toThrow("EISDIR")
 })
