@@ -50,3 +50,24 @@ export function glyphsOf(stoplights: readonly Stoplight[]): string {
 export function legendOf(stoplights: readonly Stoplight[]): string {
 	return stoplights.map((one) => one.label).join(LEGEND_SEPARATOR);
 }
+
+export type GroupDrawing = {
+	readonly glyphs: string;
+	readonly legend: string;
+};
+
+/**
+ * ONE READING OF A GROUP, PROJECTED TWICE.
+ *
+ * The glyph row and the tooltip's legend are two readings of the same `Stoplight[]`: `glyphsOf`
+ * takes each stoplight's tier, `legendOf` takes each stoplight's label. Nothing else differs.
+ *
+ * They used to be fetched apart. A poll read both groups for their glyphs, and `legendStore.pump()`
+ * read the same two groups again for their labels, so every other poll asked the store for four
+ * readings where two answer — and the second pair was issued concurrently with the first, against
+ * the same service, for bytes already in flight.
+ */
+export async function drawGroup(groupSlug: string): Promise<GroupDrawing> {
+	const stoplights = await readGroup(groupSlug);
+	return { glyphs: glyphsOf(stoplights), legend: legendOf(stoplights) };
+}
