@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const esoSortFilterList = {
   id: "01a0608f-b08a-790f-88ff-ec691b3a93bb",

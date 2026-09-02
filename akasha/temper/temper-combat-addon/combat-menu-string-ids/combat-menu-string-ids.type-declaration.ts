@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const combatMenuStringIds = {
   id: "01a061e1-9243-7ccd-a552-a2ddeec586b7",

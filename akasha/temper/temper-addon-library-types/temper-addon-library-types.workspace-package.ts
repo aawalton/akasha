@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const temperAddonLibraryTypes = {
   id: "01a06090-f5ac-7f47-be1b-dc303670f2ad",

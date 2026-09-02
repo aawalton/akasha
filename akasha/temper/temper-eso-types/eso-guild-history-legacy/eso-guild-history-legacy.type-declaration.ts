@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const esoGuildHistoryLegacy = {
   id: "01a0618f-7a3c-7deb-9a4a-303798212a72",

@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const temperPlayerCompletionUi = {
   id: "01a06267-372c-7003-8a9e-15b2f42d8750",

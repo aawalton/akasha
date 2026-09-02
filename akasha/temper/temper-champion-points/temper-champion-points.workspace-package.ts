@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const temperChampionPoints = {
   id: "01a06076-1b64-7dfd-b35b-f6c86003f6c1",

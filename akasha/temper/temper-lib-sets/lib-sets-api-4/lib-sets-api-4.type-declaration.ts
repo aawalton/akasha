@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const libSetsApi4 = {
   id: "01a061b8-4f59-7b01-aa56-8f8b9d995e2f",

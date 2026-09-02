@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const sshAccess = {
   id: "01a05c2f-0f02-7fb7-aaea-fff4b50ef0c6",

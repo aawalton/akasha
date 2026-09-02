@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const temperBuildMetadata = {
   id: "01a061c0-88d8-71f3-9d1b-7474ad4a82e1",

@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const leadsWindowDeclarations = {
   id: "01a06274-b08b-7ce4-9c42-df97b97f5da8",

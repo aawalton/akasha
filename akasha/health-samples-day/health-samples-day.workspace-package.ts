@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const healthSamplesDay = {
   id: "01a05bc7-9129-7007-82af-fd4145203797",

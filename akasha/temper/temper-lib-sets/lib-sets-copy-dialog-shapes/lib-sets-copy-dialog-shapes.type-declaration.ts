@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const libSetsCopyDialogShapes = {
   id: "01a061b8-4f5a-7bce-b1d6-ce84f1ea4ed5",

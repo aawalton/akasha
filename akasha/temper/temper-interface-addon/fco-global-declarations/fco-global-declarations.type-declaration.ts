@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const fcoGlobalDeclarations = {
   id: "01a06251-0d2b-76e0-9d73-6bb0f2ef91ae",

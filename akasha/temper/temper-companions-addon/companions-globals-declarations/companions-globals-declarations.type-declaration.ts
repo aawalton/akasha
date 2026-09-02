@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const companionsGlobalsDeclarations = {
   id: "01a0624d-a935-77ba-b8a1-92c0247c9938",

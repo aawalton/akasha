@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const dataEncodeEntryDeclarations = {
   id: "01a0625f-6d05-7e06-8e3b-65b368ffecc0",

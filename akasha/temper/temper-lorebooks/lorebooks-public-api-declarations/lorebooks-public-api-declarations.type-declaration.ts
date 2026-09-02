@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const lorebooksPublicApiDeclarations = {
   id: "01a06258-f916-7f4a-bef0-bd40d6d56b3b",

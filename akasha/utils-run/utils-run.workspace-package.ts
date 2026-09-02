@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const utilsRun = {
   id: "01a05d20-8005-763f-8c3e-b80bd06da1d2",

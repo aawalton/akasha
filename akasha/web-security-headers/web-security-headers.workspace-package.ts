@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const webSecurityHeaders = {
   id: "01a05c48-deeb-7007-9fa8-e8205045f0c1",

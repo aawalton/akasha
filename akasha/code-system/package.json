@@ -26,9 +26,9 @@
     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
     "./shape-progress": "./shape-progress/shape-progress.module.code.ts",
     "./shell-script": "./shell-scripts/shell-script.page-type.ts",
-    "./stylesheet": "./stylesheet/stylesheet.page-type.ts",
-    "./type-declaration": "./type-declaration/type-declaration.page-type.ts",
-    "./workspace-package": "./workspace-package/workspace-package.page-type.ts"
+    "./stylesheet": "./stylesheets/stylesheet.page-type.ts",
+    "./type-declaration": "./type-declarations/type-declaration.page-type.ts",
+    "./workspace-package": "./workspace-packages/workspace-package.page-type.ts"
   },
   "dependencies": {
     "typescript": "5.9.3"

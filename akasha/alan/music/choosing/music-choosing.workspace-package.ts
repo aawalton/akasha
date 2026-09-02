@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const musicChoosing = {
   id: "01a06281-4d9d-7000-8324-01f8e3c762a1",

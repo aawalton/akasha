@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const tstlLanguageExtensions = {
   id: "01a0608f-b08f-7b36-8bab-1e0d5032d2e6",

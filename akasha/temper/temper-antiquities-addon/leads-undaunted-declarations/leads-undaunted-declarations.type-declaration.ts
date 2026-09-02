@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const leadsUndauntedDeclarations = {
   id: "01a06274-b08b-7a37-899e-9e1d2cd5ae7f",

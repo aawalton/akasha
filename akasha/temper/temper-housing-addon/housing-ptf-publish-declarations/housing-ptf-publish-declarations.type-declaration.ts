@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const housingPtfPublishDeclarations = {
   id: "01a0625f-6d05-750b-a082-d4ace9f90cbb",

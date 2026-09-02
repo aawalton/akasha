@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const storyEngineCore = {
   id: "01a05b71-e544-7ab9-87b3-b98dbd2ed891",

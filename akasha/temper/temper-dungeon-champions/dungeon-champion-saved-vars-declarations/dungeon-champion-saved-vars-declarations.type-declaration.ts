@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const dungeonChampionSavedVarsDeclarations = {
   id: "01a0625f-6d05-7bf5-9ef4-95a3dbdae398",

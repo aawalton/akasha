@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const skillPointFinderApiDeclarations = {
   id: "01a06253-8046-7ea8-91a8-8724ed70baea",

@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const combatUiLiveReportDeclarations = {
   id: "01a0625f-6d05-7d3b-840e-d692c8d2659b",

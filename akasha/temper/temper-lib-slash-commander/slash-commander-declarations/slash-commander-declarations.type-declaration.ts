@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const slashCommanderDeclarations = {
   id: "01a06066-8404-79a4-bfb3-28f543c2cd7a",

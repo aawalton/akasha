@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const asyncGlobalDeclarations = {
   id: "01a0625f-6d05-79e4-8cb7-b6120dbb36e8",

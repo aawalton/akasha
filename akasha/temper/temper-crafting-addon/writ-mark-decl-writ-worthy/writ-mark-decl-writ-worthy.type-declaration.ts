@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const writMarkDeclWritWorthy = {
   id: "01a061c7-e8a1-71e5-ad98-d0186cb3b817",

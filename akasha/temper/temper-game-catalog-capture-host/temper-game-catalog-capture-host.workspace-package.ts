@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const temperGameCatalogCaptureHost = {
   id: "01a06084-d418-72e5-b162-3bb5b84f91b3",

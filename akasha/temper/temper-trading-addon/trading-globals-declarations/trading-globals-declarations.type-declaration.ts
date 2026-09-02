@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const tradingGlobalsDeclarations = {
   id: "01a0625f-6d05-7cd5-8333-70b627b2aa35",

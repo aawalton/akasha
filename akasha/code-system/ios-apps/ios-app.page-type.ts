@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages-system/page-type"
-import type { WorkspacePackage } from "../workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
 import type { AscCapabilities } from "./properties/asc-capabilities.text-property.ts"
 import type { BuildScript } from "./properties/build-script.relation-property.ts"
 import type { BundleId } from "./properties/bundle-id.text-property.ts"

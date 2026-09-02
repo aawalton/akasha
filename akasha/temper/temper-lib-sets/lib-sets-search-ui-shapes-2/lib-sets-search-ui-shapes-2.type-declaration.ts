@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const libSetsSearchUiShapes2 = {
   id: "01a061b8-4f5d-7b8b-af1d-5ff5eee480fc",

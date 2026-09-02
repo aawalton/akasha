@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const temperGameCatalogCaptureAddon = {
   id: "01a060e2-3185-7405-a79e-40fe38c8220f",

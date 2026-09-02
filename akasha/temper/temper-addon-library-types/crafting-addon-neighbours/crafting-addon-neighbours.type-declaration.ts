@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const craftingAddonNeighbours = {
   id: "01a0616f-b192-7b1f-9c6a-e2db62e8b11f",

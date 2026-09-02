@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
 
 export const skyshardsGlobalDeclarations = {
   id: "01a06252-671b-7bbf-82ae-524973ad9455",

@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-package/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const spotify = {
   id: "01a06261-dc1d-7000-8f39-acf6360f39b5",
