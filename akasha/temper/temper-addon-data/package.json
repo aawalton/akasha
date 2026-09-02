@@ -4,6 +4,7 @@
   "type": "module",
   "exports": {
     "./addon-data-page-rows": "./addon-data-page-rows/addon-data-page-rows.module.code.ts",
+    "./addon-data-pages": "./addon-data-pages/addon-data-pages.module.code.ts",
     "./addon-data-target": "./addon-data-target/addon-data-target.module.code.ts",
     "./alliance-mappings": "./alliance-mappings/alliance-mappings.module.code.ts",
     "./catalog-sidecars": "./catalog-sidecars/catalog-sidecars.module.code.ts",
@@ -18,6 +19,7 @@
     "./food-mappings": "./food-mappings/food-mappings.module.code.ts",
     "./inventory-trait-mappings": "./inventory-trait-mappings/inventory-trait-mappings.module.code.ts",
     "./mapping-renders": "./mapping-renders/mapping-renders.module.code.ts",
+    "./mined-restore-potions": "./mined-restore-potions/mined-restore-potions.module.code.ts",
     "./mundus-mappings": "./mundus-mappings/mundus-mappings.module.code.ts",
     "./passive-skill-mappings": "./passive-skill-mappings/passive-skill-mappings.module.code.ts",
     "./player-skill-mappings": "./player-skill-mappings/player-skill-mappings.module.code.ts",
@@ -34,6 +36,7 @@
   "dependencies": {
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-query": "workspace:*",
+    "@akasha/pages-system": "workspace:*",
     "@akasha/temper-addon-generators": "workspace:*",
     "@akasha/temper-alchemy": "workspace:*",
     "@akasha/temper-build-codec": "workspace:*",

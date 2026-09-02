@@ -8,6 +8,7 @@ export const temperAddonData = {
   manifest: "json",
   partSlugs: [
     "module/addon-data-page-rows",
+    "module/addon-data-pages",
     "module/addon-data-target",
     "module/alliance-mappings",
     "module/catalog-sidecars",
@@ -22,6 +23,7 @@ export const temperAddonData = {
     "module/food-mappings",
     "module/inventory-trait-mappings",
     "module/mapping-renders",
+    "module/mined-restore-potions",
     "module/mundus-mappings",
     "module/passive-skill-mappings",
     "module/player-skill-mappings",
