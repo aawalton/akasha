@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-780d-ab43-3760c46ca54e","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-79bc-bc07-282bb51d5b8e","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-71a0-9595-648bc1e74b5b","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-9678-7f55-8b4d-dbc7997055bc","count":5,"status":"unsupported","description":"Your damage over time effects deal an additional 209 Flame damage every third damage tick. This damage scales off your Weapon or Spell Damage."}

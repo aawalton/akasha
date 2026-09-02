@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-7864-a927-5df701f41d98","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9678-7178-8280-2a3e272b56a9","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdc-9678-7724-886d-fdf9cde99484","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9678-725b-bbf7-5a46fa963e24","count":5,"status":"unsupported","description":"Increases your healing received by 10% for you and up to 11 group members within 10 meters of you. This bonus persists through death."}

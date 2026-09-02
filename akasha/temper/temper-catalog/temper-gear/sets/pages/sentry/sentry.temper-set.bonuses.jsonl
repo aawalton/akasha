@@ -1,0 +1,5 @@
+{"id":"01a05fdc-9679-7f7b-837c-28c04d023aea","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9679-70ed-bd2e-031823558be1","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9679-7b4b-855a-a6b251c5dc07","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9679-7dc0-8748-04131b3c5bbf","count":5,"status":"supported","description":"Adds 266 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":266}]}
+{"id":"01a05fdc-9679-7551-a866-0233a156beec","count":5,"status":"unsupported","description":"When you begin to crouch, gain Stealth Detection for 10 seconds. This effect can only be activated every 30 seconds."}

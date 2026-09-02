@@ -1,0 +1,5 @@
+{"id":"01a05fdc-967a-761e-8c3a-9e6d3b2b483a","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-718e-b20f-f59e13b9b083","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-7b43-b4b9-4a8c77267f79","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-7cbc-b5d1-5511823f9850","count":5,"status":"supported","description":"Adds 2065 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":2065}]}
+{"id":"01a05fdc-967a-7e64-90dc-d11a2e5013c1","count":5,"status":"supported","description":"Adds 2065 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":2065}]}

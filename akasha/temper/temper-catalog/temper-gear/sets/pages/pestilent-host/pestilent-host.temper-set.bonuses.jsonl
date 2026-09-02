@@ -1,0 +1,5 @@
+{"id":"01a05fdc-9675-7b4b-91a7-dbea8500d880","count":2,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-9675-7c31-8ed6-6a180be45992","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9675-7e44-a221-ae137c299690","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9675-7197-bfc2-03ce963b057f","count":5,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-9675-7c4c-b04b-7de6e525d4d8","count":5,"status":"unsupported","description":"Whenever you kill an enemy afflicted with a poison effect, their corpse releases a writhing mass of Fetcherflies, which seek out the nearest enemy within 12 meters, causing them to bleed for 5850 Bleed damage over 10 seconds.  This effect scales off the higher of your Weapon or Spell Damage."}

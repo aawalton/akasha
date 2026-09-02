@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967b-7749-b2c8-8d194491362a","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-967b-75bc-8d68-72c43fd52a2b","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdc-967b-7ba2-86f1-2ad2d5efa6c5","count":4,"status":"unsupported","description":"Reduces your damage taken from Players by 3%."}
+{"id":"01a05fdc-967b-785c-9a07-fe7ab227a6a9","count":5,"status":"unsupported","description":"Reduces the cost of Break Free by 40%."}

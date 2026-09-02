@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-74fb-baca-3e526aabed32","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-758d-91fb-a3d1f90b2f5e","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-7c97-8ec2-4ec35865bf63","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-7aea-9048-2716af832ac9","count":5,"status":"unsupported","description":"When you deal damage with a Light Attack, you place a mark over your target for 5 seconds, granting you 460 Weapon and Spell Damage against your marked target. This effect can occur every 4 seconds."}

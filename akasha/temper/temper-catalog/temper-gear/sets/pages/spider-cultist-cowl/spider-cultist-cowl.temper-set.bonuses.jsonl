@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-7560-a4eb-5760142322aa","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-967c-72ea-b0da-85352c6dcc8f","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-7b92-8a50-d8d90b7ca3e8","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-7500-bfb9-052c4e13e7f7","count":5,"status":"unsupported","description":"Adds 600 Weapon and Spell Damage to your Destruction Staff abilities."}

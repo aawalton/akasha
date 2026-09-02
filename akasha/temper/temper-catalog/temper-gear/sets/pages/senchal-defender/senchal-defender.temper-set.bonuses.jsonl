@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9679-7e2f-af77-445b867ac7d7","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9679-7cf5-a59a-c6a9fd86ac09","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9679-70a2-95e1-24bffe507a6a","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9679-7eff-8f65-45ab5a1975d5","count":5,"status":"unsupported","description":"Dealing direct damage with a non-Heavy Attack grants you one persistent stack of Senchal's Duty, up to 10 stacks.  After completing a fully-charged Heavy Attack, restore 757 Stamina and Magicka for each stack of Senchal's Duty and consume them.  You can only gain one stack of Senchal's Duty every 1 second."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967d-757b-b20f-d87e6ba09366","count":2,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdc-967d-76d7-932f-9648285c11b0","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967d-76f0-882c-1f3ebc416fd7","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967d-726b-8ce0-4fae9c65fe25","count":5,"status":"unsupported","description":"When you taunt an enemy, apply Major Vulnerability to them, increasing their damage taken by 10% for 12 seconds. This effect can occur once every 15 seconds."}

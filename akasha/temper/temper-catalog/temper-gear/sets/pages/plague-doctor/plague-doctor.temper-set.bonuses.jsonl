@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9676-720d-bb8d-176d053b597e","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9676-74fc-8985-9428df2a3414","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9676-74a3-8f7e-0cb264240c60","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9676-7efe-8325-932da08621cf","count":5,"status":"supported","description":"Adds 2804 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":2804}]}

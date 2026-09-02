@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-71a7-a600-1993bc7a7be9","count":2,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-967c-73b1-997d-6749191ca5ec","count":3,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-967c-76a5-8947-912920651163","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-967c-7f2e-9edc-d855394b59e3","count":5,"status":"unsupported","description":"Increase your damage done against enemies by 2% for each Damage Shield and healing over time effect on them."}

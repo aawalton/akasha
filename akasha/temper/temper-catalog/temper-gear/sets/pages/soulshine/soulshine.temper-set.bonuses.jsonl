@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-7a22-b291-544127741e25","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-7de2-b42e-857e2c3bf89a","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-967c-7318-a77e-e7eb67082b79","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-7b8e-a696-a82ede245c50","count":5,"status":"unsupported","description":"Activating an ability with a cast or channel time grants you 369 Weapon and Spell Damage for 5 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967a-7073-9db2-2432ee4fd358","count":2,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-967a-79fc-bf76-dad792ab65cd","count":3,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-967a-7238-b833-2c157476ce70","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-967a-73f6-85e5-06a27711b73a","count":5,"status":"unsupported","description":"When an enemy blocks one of your attacks, increase your Offensive Penetration by 631 for 5 seconds. This effect can stack up to 20 times. You can gain one stack every 0.5 seconds."}

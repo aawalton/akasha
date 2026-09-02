@@ -1,0 +1,2 @@
+{"id":"01a05fdc-967c-7b96-97cb-dce9d9bfa586","count":1,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-7711-b874-f4c537cb9083","count":2,"status":"unsupported","description":"When you deal damage with a fully-charged Heavy Attack, you create a web under the target for 10 seconds that deals 218 Poison damage every 1 second to all enemies within 4 meters. This effect can occur once every 10 seconds and scales off the higher of your Weapon or Spell Damage."}

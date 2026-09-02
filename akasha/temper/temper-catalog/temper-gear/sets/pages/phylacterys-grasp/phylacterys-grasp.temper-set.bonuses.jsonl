@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9675-777f-9e8f-503cc0394000","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9675-7b17-aea3-08ec0bfcfd18","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9675-7425-a5f7-fda6d8e58b67","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9675-7d2c-8e70-94cf9c516450","count":5,"status":"unsupported","description":"On Light Attack Critical Damage, you apply Withered Soul, dealing 1500 Disease damage over 10 seconds. On Light Attack Critical Damage on an enemy with Withered Soul, restore 575 Stamina. Withered Soul can occur once every 10 seconds and the damage scales off the higher of your Weapon or Spell Damage."}

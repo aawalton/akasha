@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-78ec-9fef-38d2aacbe134","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-967c-76fc-a079-89ddba8b5970","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-735f-a960-3b91d59826d1","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-7ef0-a687-31e1db7dc954","count":5,"status":"unsupported","description":"When you deal Critical Damage, restore 100 Stamina and gain a stack of Wild Growth for 5 seconds, increasing your Max Stamina by 222.  This effect can stack up to 10 times and can occur once every 0.5 seconds."}

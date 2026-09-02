@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9676-76ee-b0f5-96317eeb004b","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9676-7f47-839e-72df9068bd5b","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9676-78fe-b29f-499983a21b5b","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9676-715f-a437-f95e76cd2cd7","count":5,"status":"unsupported","description":"Reduces the cost of Sprint by 50%. While Sprinting, restore 1035 Magicka every 1 second."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-79d3-81cf-02493077ce69","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9678-7032-a345-79c2528d0b73","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9678-7825-877c-36db63b979b5","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-7855-afdf-c050d0449b5a","count":5,"status":"unsupported","description":"While you have a Destruction Staff equipped, your Max Magicka is increased by 2840."}

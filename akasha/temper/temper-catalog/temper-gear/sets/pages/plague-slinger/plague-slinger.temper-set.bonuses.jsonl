@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9676-73cb-be98-f9d1c80057f2","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9676-7997-a1d8-29723ccc743e","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9676-7487-b5d1-554e476df8a5","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9676-793a-a59e-67ebe9e6570d","count":5,"status":"unsupported","description":"When you take damage, summon a Skeever corpse which will launch five poison balls over 5 seconds that each deal 737 Poison damage to the nearest enemy within 10 meters. This effect can occur once every 8 seconds and scales off the higher of your Weapon or Spell Damage."}

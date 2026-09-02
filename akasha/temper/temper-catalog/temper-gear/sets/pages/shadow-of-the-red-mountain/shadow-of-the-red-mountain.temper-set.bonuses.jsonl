@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967a-7710-816a-211f195d33bb","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-700c-b0a1-c28f7abd28d8","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967a-796c-b789-1bc7a9d523eb","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-967a-76ba-940f-70e46c19f59d","count":5,"status":"unsupported","description":"When you deal damage with a weapon, you spawn a volcano that erupts after 1 second, launching liquid hot lava at the closest enemy dealing 1860 Flame damage. This effect can occur once every 8 seconds and scales off the higher of your Weapon or Spell Damage."}

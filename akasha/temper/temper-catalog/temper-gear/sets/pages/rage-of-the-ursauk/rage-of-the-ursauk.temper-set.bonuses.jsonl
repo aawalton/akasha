@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9676-7376-baa6-b1fbcae8c202","count":2,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-9676-7ce7-a3e6-4dcde6471866","count":3,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-9676-78d3-8c5e-2116dfc64a90","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9676-79b8-aa3b-c1e481fa43f8","count":5,"status":"unsupported","description":"When you deal damage with a Heavy Attack, create a 12 meter area for 12 seconds that grants Empower to group members inside, increasing the damage of their Heavy Attacks against monsters by 70%. This effect can occur once every 8 seconds."}

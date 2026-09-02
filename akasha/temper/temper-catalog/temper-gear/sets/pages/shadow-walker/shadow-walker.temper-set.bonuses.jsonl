@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967a-7883-9e26-e0c834e66702","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-79a2-bf48-892e854375b9","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967a-70ee-81ff-c53b13b53085","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-7fd6-8c5b-7bca3241ea73","count":5,"status":"unsupported","description":"While you are Sneaking or invisible and are not moving, heal for 2150 Health and restore 2150 Stamina every 1 second."}

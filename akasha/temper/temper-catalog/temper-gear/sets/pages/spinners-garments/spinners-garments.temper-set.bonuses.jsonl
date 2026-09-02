@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-7af8-8eb0-a247757258b1","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-702f-a9c7-a3a6a01035fb","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-7642-8ef3-2bdaf074977f","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-7fd5-be8a-bf6610e4b4ba","count":5,"status":"supported","description":"Adds 3460 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":3460}]}

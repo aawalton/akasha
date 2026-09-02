@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9677-7da1-8862-5cc468c21ff5","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9677-78c7-8f97-8bcdc9a083d5","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9677-7134-b060-a2bc64ebc48b","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9677-7928-8824-8be66a215f49","count":5,"status":"unsupported","description":"Each time you attempt to reduce the target's Physical or Spell Resistance, you gain a stack of Ravager for 5 seconds, increasing your Weapon and Spell Damage by 146. You can gain a stack every 1 second. At 4 stacks, the duration doubles but cannot be refreshed."}

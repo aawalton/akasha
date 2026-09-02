@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967b-7d4c-804e-2e491db17ce9","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967b-78f9-9f7b-f6f163849446","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967b-78cd-a84e-4f62b1cff11d","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-967b-7be7-807c-bc7c84a136fd","count":5,"status":"unsupported","description":"Healing yourself or an ally makes the recipient Blood Hungry for 3 seconds. When you deal direct damage to an enemy, the enemy becomes Bloodied for 3 seconds. Bloodied enemies take 4% more damage from and deal 4% less damage to Blood Hungry targets."}

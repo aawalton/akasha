@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-7495-b42c-dc4d2ab4eb6b","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-7e13-895a-a8adbba19dcf","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-769e-8ad3-acdfa44d192a","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-740b-b5ff-b58cd01a7862","count":5,"status":"unsupported","description":"When you overheal yourself or an ally, you give the target Major Courage for 5 seconds which increases their Weapon and Spell Damage by 430."}

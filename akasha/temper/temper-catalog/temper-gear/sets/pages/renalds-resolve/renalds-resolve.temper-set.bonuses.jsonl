@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9677-7390-9247-51c6b3904f6f","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9677-7fa1-9be0-21db3d2c2023","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdc-9677-7ef7-bb41-bb33c4f75879","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9677-7905-97b9-09f5b6d653e9","count":5,"status":"unsupported","description":"Whenever you deal direct damage, gain a stack of Resolve for 5 seconds. Each stack increases your healing received by 1% and your Physical and Spell Resistance by 420.\n\nThis effect can occur once every half second and can stack up to 9 times."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967a-7522-b3ec-ba3763879b1f","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-967a-7a55-bb82-09766b86e0b3","count":3,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdc-967a-7ac8-974e-61451b2ea03d","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-967a-7028-b6f4-43d6d324d9c5","count":5,"status":"unsupported","description":"While you are under 50% Health, dealing damage with a Light or Heavy Attack heals you for 981 Health. This effect can occur once every 1 second and scales off the higher of your Max Magicka or Stamina."}

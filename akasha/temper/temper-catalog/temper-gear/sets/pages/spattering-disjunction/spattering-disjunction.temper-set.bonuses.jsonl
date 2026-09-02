@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-7a72-a46d-e655d654fe16","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-967c-788f-9da9-cfe70ae73847","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-737d-a542-ddb1c9c48637","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-783b-9353-dac3770266bd","count":5,"status":"unsupported","description":"Dealing damage with an Arcanist ability applies two random status effects to your target. This effect can occur once every 7 seconds. Dealing damage with a Herald of the Tome ability reduces this cooldown by 0.5 seconds, up to once every 1 second."}

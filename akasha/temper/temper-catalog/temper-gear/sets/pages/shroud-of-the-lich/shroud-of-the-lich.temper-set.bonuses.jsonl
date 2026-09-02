@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967b-745d-b8de-e3b7c13806de","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967b-704a-856e-9b488de8d528","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967b-7bcd-b05d-6cb26e4818d5","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967b-7305-a233-4af5b7ed6b35","count":5,"status":"unsupported","description":"When you cast an ability that costs resources while under 33% Magicka while in combat, your Magicka Recovery is increased by 1106 for 20 seconds. This effect can occur once every 1 minute."}

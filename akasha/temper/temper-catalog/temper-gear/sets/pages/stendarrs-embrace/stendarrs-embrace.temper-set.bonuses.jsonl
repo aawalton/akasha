@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967d-748f-9ede-7bbc6aa5cdd9","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967d-78ce-972d-5452f520fd76","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967d-7495-b71b-8dfefbef6f30","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967d-7e34-9168-3ab815560620","count":5,"status":"unsupported","description":"When you heal yourself or an ally, you remove all negative effects from them. This effect can occur once every 30 seconds per target."}

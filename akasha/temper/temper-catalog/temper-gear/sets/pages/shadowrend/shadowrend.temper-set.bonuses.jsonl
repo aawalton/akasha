@@ -1,0 +1,2 @@
+{"id":"01a05fdc-967a-7ae6-aab5-925e97dd2a96","count":1,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-79d9-8752-e47b05baaf0d","count":2,"status":"unsupported","description":"When you take damage, you summon a shadowy Clannfear for 15 seconds. The Clannfear's attacks deal 626 Magic damage and apply Minor Maim, reducing the target's damage done by 5% for 2 seconds. \n\nThe Clannfear can be summoned once every 15 seconds and its damage scales off your Max Health."}

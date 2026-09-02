@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-7064-9d54-bed4c400d351","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-7580-a5db-07f1e825dfe7","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-76a9-a963-8497934f71a9","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9678-789e-a3f1-722ff40e0f03","count":5,"status":"unsupported","description":"When you heal yourself or an ally with a healing over time ability, grant them 1400 Critical Resistance for 5 seconds."}

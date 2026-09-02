@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-7f2d-94ec-16273df36ddd","count":1,"status":"supported","description":"Adds 70 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":70}]}
+{"id":"01a05fdc-9678-7b0d-9a5b-780119593fc9","count":1,"status":"supported","description":"Adds 70 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":70}]}
+{"id":"01a05fdc-9678-7db5-b80b-5a4086fb0fdd","count":1,"status":"supported","description":"Adds 70 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":70}]}
+{"id":"01a05fdc-9678-7d50-b1e3-00169a8c4012","count":2,"status":"unsupported","description":"Each second you are in combat, gain a stack of Darklight, up to 30 stacks max. Each stack of Darklight increases your Stamina Recovery, Magicka Recovery, and Health Recovery by 8. Each second you are out of combat, lose a stack of Darklight."}

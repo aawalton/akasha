@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967b-7b0b-a2c1-c1156c5beea4","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967b-75e0-802a-6a5e3ed4b87f","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967b-70e6-89cb-9d07266410bc","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967b-71ec-9054-452eb58bc262","count":5,"status":"unsupported","description":"When you kill an enemy you gain 5% movement speed for 30 seconds and become invisible for 3 seconds.  The movement speed stacks up to 20 times."}

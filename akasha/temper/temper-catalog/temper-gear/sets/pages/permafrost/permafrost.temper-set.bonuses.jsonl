@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9675-71bd-a73f-f7210d3e73ac","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9675-7a09-a089-2fedc57a8330","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9675-7819-9aa1-252013febce5","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9675-73a4-9ca1-eb878cbeafcf","count":5,"status":"unsupported","description":"While you have a damage shield on you, your Health Recovery is increased by 1106."}

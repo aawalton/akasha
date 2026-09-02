@@ -1,0 +1,3 @@
+{"id":"01a05fdc-967a-7f67-9d1e-c0b80fc41b9b","count":5,"status":"supported","description":"Adds 7918 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":7918}]}
+{"id":"01a05fdc-967a-7a9e-a8c5-b372b8afb86f","count":10,"status":"supported","description":"Adds 687 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":687}]}
+{"id":"01a05fdc-967a-73e3-a110-c1e1f31428be","count":12,"status":"supported","description":"Adds 1528 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":1528}]}

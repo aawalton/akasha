@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967d-7c6b-80d0-e74a15161ae2","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967d-7251-bfdf-5369d4378f63","count":3,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdc-967d-7823-a56e-4987780f821f","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967d-76fe-bbc3-74d8670a8394","count":5,"status":"unsupported","description":"On heal with an area effect, apply Minor Berserk and Minor Resolve to healed allies for 4 seconds. If a healed ally already has Minor Berserk or Minor Resolve from Stone's Accord, restore 550 Magicka. The restore can occur once every 5 seconds."}

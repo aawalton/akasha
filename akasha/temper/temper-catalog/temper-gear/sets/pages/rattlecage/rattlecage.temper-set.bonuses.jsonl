@@ -1,0 +1,5 @@
+{"id":"01a05fdc-9677-7c46-a258-e6a50d4687f2","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9677-79ba-abc7-c9e86be313a4","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9677-7157-9305-a927b7c43788","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9677-7d9e-994c-d3878fbdc741","count":5,"status":"supported","description":"Adds 171 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":171}]}
+{"id":"01a05fdc-9677-71e0-bca4-007c39f3e581","count":5,"status":"unsupported","description":"Gain Major Brutality and Sorcery at all times, increasing your Weapon and Spell Damage by 20%."}

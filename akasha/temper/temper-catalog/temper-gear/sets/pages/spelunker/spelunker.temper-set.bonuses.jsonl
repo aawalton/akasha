@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-7dc5-8613-4539d49da916","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-7427-91b0-3162044e8001","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-7fee-9b9b-5e543cc0aa94","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-71aa-8920-c9d46e994edf","count":5,"status":"unsupported","description":"Reduces the cost of your Undaunted abilities by 10%. When an ally uses one of your Undaunted ability synergies you restore 730 Magicka and Stamina.  This effect can occur once every 5 seconds."}

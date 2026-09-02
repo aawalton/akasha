@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9676-731f-aa28-8a27f14e399b","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9676-7320-b0f4-db16a64b4376","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9676-7659-b058-23b16df50ba1","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9676-7a9c-8a09-07d6bf600d98","count":5,"status":"unsupported","description":"When you overheal yourself or an ally, you grant them a damage shield that absorbs 4997 damage for 6 seconds. This effect can occur once every 2 seconds."}

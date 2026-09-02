@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9675-756f-9491-d2a735d9c36c","count":2,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdc-9675-74a2-9361-b98e119f8d64","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdc-9675-7d37-a0e1-47f6680f0aed","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9675-730a-aa29-daa3bba31c5c","count":5,"status":"unsupported","description":"Casting an Ultimate ability while in combat grants 2% of Ultimate spent as Ultimate to up to 11 other group members within 12 meters every 2 seconds over 10 seconds. Group members can only be affected by this set once every 45 seconds."}

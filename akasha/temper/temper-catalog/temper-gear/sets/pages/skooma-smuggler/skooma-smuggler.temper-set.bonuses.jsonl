@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967b-781b-8f2c-20a447fba046","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967b-7b39-b808-a2a64b47cf5c","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967b-77f3-92ba-66ee17e5a824","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967b-731d-8c6a-8e1962f8587b","count":5,"status":"unsupported","description":"When you drink a potion while in combat, you gain Major Expedition for 30 seconds, increasing your Movement Speed by 30%."}

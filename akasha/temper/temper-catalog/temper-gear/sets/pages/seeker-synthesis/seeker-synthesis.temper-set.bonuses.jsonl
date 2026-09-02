@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9679-7736-bacf-1f2967ad7d28","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9679-7a3a-8df8-741173e0366d","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9679-767c-8b6f-0b3f78531a70","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9679-7ced-86b8-38ae15341fa6","count":5,"status":"unsupported","description":"When you cast an ability that costs resources while in combat, you reduce your potion cooldown by 1 second. This effect can occur once every 2 seconds."}

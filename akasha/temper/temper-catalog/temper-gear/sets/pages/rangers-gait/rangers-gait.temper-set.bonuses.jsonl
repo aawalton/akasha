@@ -1,0 +1,5 @@
+{"id":"01a05fdc-9677-71bc-b259-89cda19b4eb9","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9677-7d8d-8a61-e9d2b8578cb2","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9677-79fc-90df-b484f7f054da","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9677-77a2-8c2b-cdd564e17546","count":5,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9677-7b4c-9f0d-4541761792e6","count":5,"status":"unsupported","description":"Reduce the effectiveness of snares applied to you by 50%."}

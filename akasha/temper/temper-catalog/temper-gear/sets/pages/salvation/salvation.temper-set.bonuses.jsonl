@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-7ef9-8fab-6cab7c636b86","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9678-79d6-ab47-73187f4b0a7f","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-7d8c-9a5f-de1231b94f91","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9678-770b-b6ac-3141c3852c44","count":5,"status":"unsupported","description":"Reduces the cost of your Werewolf Transformation ability by 33%. While in Werewolf form, your Weapon and Spell Damage is increased by 150."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967a-7637-b44e-484f22d4cb8b","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967a-7193-b82d-bce4974a909d","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-967a-78dd-8818-f8acb6d1c993","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967a-7e93-a33b-ba1c704bb8fb","count":5,"status":"unsupported","description":"When you enter combat, 6% of the damage you take is transferred to your Companion instead. Reduce the damage your Companion takes by 16%. When your Companion dies in combat, they will automatically revive themselves after 12 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-71c8-8ebd-391e89f4c99a","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-7ed9-86d4-bf8928e4f644","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-7dde-b4fe-f4853fa778fa","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-7eb4-b3ea-7062f643fb74","count":5,"status":"supported","description":"Adds 3460 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":3460}]}

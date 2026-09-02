@@ -1,0 +1,2 @@
+{"id":"01a05fdc-9676-78c6-b0b9-e550caa70a4d","count":1,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdc-9676-7e7e-bc08-abd56701216c","count":2,"status":"unsupported","description":"When you take damage, you transform into a skeleton and gain Major Protection and Minor Defile for 15 seconds, reducing your damage taken by 10% but reducing your healing received and damage shield strength by 6%. This effect can occur once every 20 seconds."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-7e0d-8f9e-b305c30d3d12","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9678-72e5-9735-cec514f41231","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdc-9678-751a-bc6e-1e4ee454178a","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9678-73d6-9d0c-2d8e037ade4c","count":5,"status":"unsupported","description":"When you use an Ultimate ability while in combat, you and up to 11 group members within 28 meters of you gain Major Force for 1 second per 15 Ultimate spent, increasing your Critical Damage done by 20%."}

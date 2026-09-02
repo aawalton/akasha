@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9674-7544-ae45-c0b93a1e5b88","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9674-72d0-918b-948b94e89a2b","count":3,"status":"unsupported","description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."}
+{"id":"01a05fdc-9674-7d88-a543-21a12538651b","count":4,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9674-7f32-9599-7d54697aa1f0","count":5,"status":"unsupported","description":"Increases Max Magicka and Max Stamina by 1667 for you and up to 11 other group members within 28 meters of you. This bonus persists through death."}

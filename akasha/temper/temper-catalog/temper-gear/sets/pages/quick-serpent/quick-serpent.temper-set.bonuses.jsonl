@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9676-785b-aaf0-f72d6b528f58","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9676-7a4a-9a97-6b5c33e14d4f","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9676-7755-8845-2048d81042fc","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9676-784e-bf0c-b7da56e60b7b","count":5,"status":"unsupported","description":"Reduces the costs of your Stamina abilities by 8%. When an enemy you have recently damaged dies, you restore 2454 Stamina and gain Major Expedition for 8 seconds, increasing your Movement Speed by 30%. These effects can occur once every second."}

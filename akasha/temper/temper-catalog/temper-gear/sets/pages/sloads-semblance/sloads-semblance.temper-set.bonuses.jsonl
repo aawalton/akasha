@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967b-7936-b6f8-cf1f32064ec0","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967b-7949-ada3-df9ff359eadd","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967b-7ff3-b332-652b95976091","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967b-7f61-92a4-8f21d3b8cb4f","count":5,"status":"unsupported","description":"Damaging an enemy has a 10% chance to fire a Shadow Pearl at them, dealing 3% of the target's Max Health as Oblivion Damage every 1 second for 6 seconds. The Shadow Pearl cannot be reflected. Effect can occur every 6 seconds.\n\nThis can deal a maximum of 3000 Oblivion Damage per tick."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-7d5d-9fed-d49619c7e6d7","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-720d-8d04-2de796ec71ab","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9678-73b8-b1d3-99c9d2af5558","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9678-7be2-a37a-825f278a4851","count":5,"status":"unsupported","description":"When you are within 28 meters of an enemy you are in combat with, and the enemy dies, you heal for 1670 Health and gain 1670 Magicka. This effect can occur once every 3 seconds."}

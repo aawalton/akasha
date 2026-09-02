@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9675-78b3-b342-ad7ceca03974","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9675-75c2-9e5a-14182872309f","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9675-72ee-a8e9-3e4a57acb8c2","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9675-776a-a4f5-e28d400c10b4","count":5,"status":"unsupported","description":"Healing yourself or an ally grants the target Minor Courage and Minor Force for 10 seconds, increasing their Weapon and Spell Damage by 215 and their Critical Damage done by 10%. This effect can occur once every 12 seconds per target."}

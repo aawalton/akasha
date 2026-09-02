@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967d-72df-998a-09530580adeb","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967d-7a51-9dfa-43c29874c2ae","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967d-7b01-9ec3-7a290992bc06","count":4,"status":"supported","description":"Adds 1487 Offensive Penetration","effects":[{"metricId":"penetration","type":"integer","value":1487}]}
+{"id":"01a05fdc-967d-7c0b-aecc-97338c86f656","count":5,"status":"unsupported","description":"When you deal Shock Damage, you have a 15% chance to deal 433 Shock damage to the enemy and up to two other enemies within 5 meters. This effect scales off the higher of your Weapon or Spell Damage."}

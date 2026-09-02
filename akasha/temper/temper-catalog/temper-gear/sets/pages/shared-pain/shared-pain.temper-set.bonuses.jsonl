@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967a-75b0-a5e8-9bcf300f9eda","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967a-7567-9ec7-4b6916450ad9","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967a-790b-86f8-75d52df58416","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-7f29-b32a-551746ddefc2","count":5,"status":"unsupported","description":"Whenever you are dealt damage from a damage over time ability, you deal 139 Magic damage to the attacker. This effect scales off the higher of your Weapon or Spell Damage. Reduce your damage taken from over time abilities by 8%."}

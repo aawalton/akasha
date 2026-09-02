@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9679-7d91-ba74-f189c44c72c8","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9679-78f6-a0a2-f93f00c393a2","count":3,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9679-7630-929e-80e7a8bf608c","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9679-79db-be3e-a2b1666bf929","count":5,"status":"unsupported","description":"When you deal damage with a Heavy Attack, you gain a stack of Sergeant's Focus for 5 seconds, increasing the damage of your Heavy Attacks by 645 per stack. This effect can occur once every second and stacks up to 4 times."}

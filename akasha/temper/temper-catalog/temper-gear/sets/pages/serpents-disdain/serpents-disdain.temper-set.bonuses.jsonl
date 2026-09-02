@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9679-7a15-88ec-eebc1feb316a","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9679-7430-89bc-11330e78aa40","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9679-78c0-96b2-42db58bbaf03","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9679-7155-a431-7c3e34693693","count":5,"status":"unsupported","description":"Increase the duration of Status Effects you apply by 16 seconds."}

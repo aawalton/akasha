@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967b-7691-8aad-360f428b847f","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdc-967b-7312-9271-10c97aafc2bf","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdc-967b-7cf9-b4d8-40b1a158de46","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-967b-7a5d-bf41-430902fad6f9","count":5,"status":"unsupported","description":"When you take damage while you are under 30% Health, you deal 1401 Magic Damage to the attacker and heal for the damage done. This effect can occur once every 3 seconds and scales off your Max Health."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9675-795a-9677-de0cbda7fc80","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9675-7248-9f08-846531176c25","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9675-7f9e-81af-85db39b7cf68","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9675-7750-8b76-45a53e295f72","count":5,"status":"unsupported","description":"When you take damage while below 25% Health, gain a damage shield that absorbs 25000 damage for 10 seconds and deals 1006 Flame Damage to nearby enemies. This effect can occur once every 1 minute and the damage scales off the higher of your Weapon or Spell Damage."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967d-78a3-8312-e7821580c087","count":1,"status":"supported","description":"Adds 548 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":548}]}
+{"id":"01a05fdc-967d-7199-9e37-64a02adc6775","count":1,"status":"supported","description":"Adds 548 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":548}]}
+{"id":"01a05fdc-967d-7ca7-8284-d2716e0553b6","count":1,"status":"supported","description":"Adds 603 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":603}]}
+{"id":"01a05fdc-967d-72ed-811a-dcfa1b9fd637","count":2,"status":"unsupported","description":"When you Block, you gain an energy Charge stack. When you gain 6 Charges, you release the energy, restoring 2480 Stamina and Magicka, and healing for 2530. After releasing the Charges, you cannot regain new Charges for 14 seconds.\n\nCharges can be accumulated up to once every .25 seconds."}

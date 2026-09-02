@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967b-7b1a-a06f-93e09abc9e26","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967b-755b-96ea-102560c29afc","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-967b-7e7f-a31e-75f612fc4fb2","count":4,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdc-967b-76f9-b9fc-3817d2304d05","count":5,"status":"unsupported","description":"While you are using a non-Ram Siege Weapon you are immune to knockback and disabling effects, you reduce your damage taken by 33%, and you can see enemies through walls."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9676-7aab-93c8-b2d2a585b456","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9676-7fc4-89b9-879b6d796fbe","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9676-7645-b741-30646a5fa6e4","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9676-7455-8596-da7a2e43d838","count":5,"status":"unsupported","description":"When you deal damage with a Light or Heavy Attack against an enemy who has a Poison Damage ability on them, you deal an additional 48 Poison damage and apply the Poisoned status effect to the enemy. This effect can occur once every 2 seconds and scales off the higher of your Weapon or Spell Damage."}

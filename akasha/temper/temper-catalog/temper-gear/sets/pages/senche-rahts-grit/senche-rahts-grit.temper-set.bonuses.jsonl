@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9679-799c-bda7-824d30e2437c","count":2,"status":"supported","description":"Adds 4% Healing Done","effects":[{"metricId":"healing-done-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdc-9679-7f8f-ac9b-f994657f6bc3","count":3,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9679-7e0d-be35-116945cb30df","count":4,"status":"supported","description":"Adds 4% Healing Taken","effects":[{"metricId":"healing-taken-base","type":"fractional-change","value":0.04}]}
+{"id":"01a05fdc-9679-7a70-bf9d-f34b2b61e5bf","count":5,"status":"unsupported","description":"After being damaged by a damage over time ability, increase your Healing Received by 6% and your Physical and Spell Resistance by 2585 for 3 seconds."}

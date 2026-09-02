@@ -1,0 +1,2 @@
+{"id":"01a05fdc-9677-7f15-88e5-122c4c2fe25b","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9677-7057-a0b7-97ba39f05089","count":3,"status":"unsupported","description":"Increases your healing done by 5%."}

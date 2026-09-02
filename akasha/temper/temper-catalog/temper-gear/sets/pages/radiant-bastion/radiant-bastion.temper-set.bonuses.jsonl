@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9676-735a-aa2b-b4abcac7e547","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9676-7ae0-b184-466e41534c89","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9676-7dbc-b276-7794a6dd13eb","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9676-7e81-8484-6ea77c78ff72","count":5,"status":"unsupported","description":"Deal 10% of all direct damage done to you back to the attacker, up to 4250 damage."}

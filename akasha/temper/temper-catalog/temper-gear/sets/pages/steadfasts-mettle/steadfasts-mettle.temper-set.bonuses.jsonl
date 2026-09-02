@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-7204-9856-2cd2d43dd92e","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-7a90-a356-b55876d29664","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-72e8-a7c9-b7af631bd516","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-71d8-8866-465b63fadaef","count":5,"status":"unsupported","description":"While you have a food buff active, reduce the cost of your Core Combat abilities by 25%."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9677-7825-ab29-42ad0629be80","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9677-7aaf-972f-86da557f873a","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9677-7a48-80be-56a7af0155a0","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9677-7601-acac-376c88752c18","count":5,"status":"unsupported","description":"After you are affected by a disabling effect, your damage taken is reduced by 33% for 5 seconds.  This effect can occur every 20 seconds."}

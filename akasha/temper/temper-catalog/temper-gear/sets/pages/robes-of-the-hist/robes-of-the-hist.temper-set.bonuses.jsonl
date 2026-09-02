@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-783d-b486-2255c37b0e21","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9678-7ee3-9d66-cf9eb8642ed0","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-7ff7-b17a-ec7d413c0d23","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9678-7c42-b31c-94a0743f6a24","count":5,"status":"unsupported","description":"After being hit by a disabling effect, immobilization, or snare, you heal for 2040 Health every 1 second for 5 seconds.\n\nThe effect can apply once every second, but cannot stack."}

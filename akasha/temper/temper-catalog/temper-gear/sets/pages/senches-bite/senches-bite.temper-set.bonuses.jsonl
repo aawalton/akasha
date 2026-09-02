@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9679-7324-a403-01124d56eab7","count":2,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9679-75ee-a966-f23277c1ade3","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9679-7f8c-85d1-7c0d17e58847","count":4,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9679-7f30-880f-5e92cf73781f","count":5,"status":"unsupported","description":"Whenever you successfully Dodge, increase your Critical Damage and Critical Healing by 15% for 10 seconds."}

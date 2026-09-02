@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-738b-abf9-29d3b6a2091c","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9678-7890-baa9-d0c6b0554186","count":3,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-78e6-a674-583f6f27d6bf","count":4,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-7fc4-ad21-666fd28ede26","count":5,"status":"unsupported","description":"Your Light Attacks made within melee range rend flesh, causing your enemy to bleed for 232 Bleed damage instantly and additionally every 2 seconds for 4 seconds. This effect scales off the higher of your Weapon or Spell Damage."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-78fe-a312-21a27ec01280","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-74d3-b007-73ee1990223f","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-7ee0-aea1-ab6597e0bc2f","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967c-7a97-b1a8-22761dbd4004","count":5,"status":"unsupported","description":"While in combat, strengthens your Siphoning abilities at the cost of Ultimate:\n\nIncreases the damage and healing of Siphoning abilities by 21%. Reduces the cost of Siphoning abilities by 21%. Casting Siphoning abilities drains you of 1 Ultimate."}

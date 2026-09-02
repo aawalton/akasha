@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9677-75cb-a052-0f0ad6e20987","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9677-7652-98d7-657cc1ba5da5","count":3,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9677-79c8-82b6-8d0aa18a5ec5","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9677-7556-bd98-68a5d8e7285f","count":5,"status":"unsupported","description":"Adds 469 Weapon and Spell Damage to your Weapon Skill abilities. Increases the cost of your Weapon Skill abilities by 5%."}

@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9677-7bf9-bdfa-3c3bc206544a","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9677-7734-9fc1-6bf42d5e807a","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9677-78e2-be4e-6e75df96b531","count":4,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9677-7db0-8f81-8a195041fe60","count":5,"status":"unsupported","description":"When you overheal yourself, you heal a group member within 15 meters of you for 692 Health. This effect can occur once every 1 second and scales off the higher of your Max Magicka or Stamina."}

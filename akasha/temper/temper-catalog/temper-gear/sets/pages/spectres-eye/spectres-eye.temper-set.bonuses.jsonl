@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-74de-be10-6723ec0183ce","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdc-967c-701b-b45d-c588dcdb23bf","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967c-722b-8492-5ec99cd926bb","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-967c-7d74-b3f1-60679e897f91","count":5,"status":"unsupported","description":"When you cast a Magicka ability while in combat you gain Major Evasion for 30 seconds, reducing damage from area attacks by 20%. This effect can occur once every 30 seconds."}

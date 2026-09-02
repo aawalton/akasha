@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967b-7287-87ac-5e83f0ab3e76","count":2,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-967b-7186-9761-0107c07e981f","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967b-735f-a708-ddd7c140da5b","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967b-74dc-932b-b2a3286009ab","count":5,"status":"unsupported","description":"Adds 400 Weapon and Spell Damage to your Flame Damage abilities."}

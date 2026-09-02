@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967a-7a61-abc8-f503a996e767","count":2,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-7147-84da-24422576ebf8","count":3,"status":"supported","description":"Adds 129 Health Recovery","effects":[{"metricId":"health-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-7145-a2d7-bc772885da87","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-967a-77a9-8006-6f8a633f1195","count":5,"status":"unsupported","description":"When you cast an ability that grants Major or Minor Resolve while in combat, you gain 341 Weapon and Spell Damage and 341 Health Recovery for 15 seconds. This effect can occur every 15 seconds."}

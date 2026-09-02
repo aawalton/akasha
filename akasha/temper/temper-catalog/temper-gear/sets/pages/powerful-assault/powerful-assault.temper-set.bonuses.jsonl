@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9676-7a7c-ae2f-72cae165d5ca","count":2,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-9676-73b6-a64e-d5a2964aefed","count":3,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-9676-7a17-8708-0fd998609c50","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9676-7b1a-9d87-5537ad35affc","count":5,"status":"unsupported","description":"When you cast an Assault ability while in combat, you and up to 5 group members within 12 meters gain 307 Weapon and Spell Damage for 15 seconds."}

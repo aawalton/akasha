@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967a-750e-8c8b-dd932f1e24d9","count":2,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967a-7967-bb7c-952d41136fba","count":3,"status":"supported","description":"Adds 1096 Maximum Magicka","effects":[{"metricId":"magicka-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967a-75bf-a21e-96b7f422a5c8","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-70d2-855b-f5343fcf01f7","count":5,"status":"unsupported","description":"After leaving Sneak or invisibility, you dodge all incoming attacks within the next 1 second. This effect can occur once every 8 seconds."}

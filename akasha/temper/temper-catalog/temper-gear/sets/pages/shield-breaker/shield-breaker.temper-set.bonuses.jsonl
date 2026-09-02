@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967a-7023-b2f8-c45fab7820d0","count":2,"status":"supported","description":"Adds 1096 Maximum Stamina","effects":[{"metricId":"stamina-maximum","type":"integer","value":1096}]}
+{"id":"01a05fdc-967a-7142-bb8b-d926a188d3db","count":3,"status":"supported","description":"Adds 129 Stamina Recovery","effects":[{"metricId":"stamina-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-7353-b654-8e98e42c26ea","count":4,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-967a-7ec6-ae73-5d8ffdc88b19","count":5,"status":"unsupported","description":"Increases your damage done by 6%. This effect is doubled when attacking targets with a damage shield active."}

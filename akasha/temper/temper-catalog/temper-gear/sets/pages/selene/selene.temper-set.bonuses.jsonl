@@ -1,0 +1,2 @@
+{"id":"01a05fdc-9679-79e4-b63a-636f8dbc1b49","count":1,"status":"supported","description":"Adds 129 Weapon and Spell Damage","effects":[{"metricId":"power","type":"integer","value":129}]}
+{"id":"01a05fdc-9679-780d-b7a4-0ab28b0bb6a3","count":2,"status":"unsupported","description":"When you deal Martial melee damage, you call upon a primal spirit that mauls the closest enemy in front of you after 1.3 seconds for 1702 Physical damage. This effect can occur once every 6 seconds and scales off the higher of your Weapon or Spell Damage."}

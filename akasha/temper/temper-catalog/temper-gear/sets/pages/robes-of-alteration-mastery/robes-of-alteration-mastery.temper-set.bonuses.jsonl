@@ -1,0 +1,4 @@
+{"id":"01a05fdc-9678-75e6-80b0-b0a63ebbb668","count":2,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-76d6-bba4-d4394ddc8e41","count":3,"status":"supported","description":"Adds 129 Magicka Recovery","effects":[{"metricId":"magicka-recovery","type":"integer","value":129}]}
+{"id":"01a05fdc-9678-7c64-ad8d-b2d2d2c90951","count":4,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"critical-rating","type":"integer","value":657}]}
+{"id":"01a05fdc-9678-7d89-a378-97438e6dcf84","count":5,"status":"unsupported","description":"Reduces the cost of all of your abilities by 6%."}

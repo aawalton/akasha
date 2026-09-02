@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967d-74b8-86af-6943f99ea5c7","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdc-967d-7264-b583-2b3f47f68076","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdc-967d-79b5-8bb6-d3bc56382c48","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-967d-75c4-84d3-61a3e3604b98","count":5,"status":"unsupported","description":"When you take non-Physical Damage, you deal 357 Shock damage to all enemies within 5 meters of you every 2 seconds for 6 seconds. This effect can occur once every 6 seconds and scales off the higher of your Weapon or Spell Damage."}

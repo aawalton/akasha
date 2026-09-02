@@ -1,0 +1,4 @@
+{"id":"01a05fdc-967c-769c-a2ae-8adb672f6738","count":2,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdc-967c-7419-bbeb-b731a9f0aa2a","count":3,"status":"supported","description":"Adds 1487 Armor","effects":[{"metricId":"resistance","type":"integer","value":743}]}
+{"id":"01a05fdc-967c-708d-bdbc-33863c1fc701","count":4,"status":"supported","description":"Adds 1206 Maximum Health","effects":[{"metricId":"health-maximum","type":"integer","value":1206}]}
+{"id":"01a05fdc-967c-7f33-8adf-8eeaa22caa68","count":5,"status":"unsupported","description":"When you cleanse a negative effect from yourself or an ally, gain Major Protection for 10 seconds, reducing your damage taken by 10%. This effect can occur once every 12 seconds."}
