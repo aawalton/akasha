@@ -158,7 +158,7 @@ export function addressingOver(
 ): Addressing {
   if (renamings.length === 0) return NOTHING_ADDRESSED
   const loadedAt = valuesOver(textOf)
-  const known = knownIn(readingIn(root), root, loadedAt)
+  const known = knownIn(readingIn(root), loadedAt)
   const found = new Map<string, Map<string, string>>()
   for (const one of renamings) {
     for (const path of new Set(namersOf(root, one.id).map((named) => named.path))) {

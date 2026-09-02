@@ -9,10 +9,17 @@ import {
   SUBAGENT_MARK,
   sameBody,
 } from "@akasha/command-system/reading"
-import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
+import {
+  everyOfType,
+  readingIn as indexReadingIn,
+  listedAt,
+  listedById,
+  slugsOfType,
+} from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages-system/page-file-name"
 import { listedAbove } from "@akasha/pages-system/page-type-descent"
+import { valueAt } from "@akasha/pages-system/page-value"
 import { slugOf } from "@akasha/seat-system/subagent-presence"
 
 const READ_CALL = "akasha read --file-path"
@@ -105,7 +112,7 @@ export function knowingIn(root: string): Knowing {
   return () =>
     (known ??= {
       types: new Set<string>([PAGE_TYPE, ...slugsOfType(root, PAGE_TYPE)]),
-      above: () => (above ??= listedAbove(root)),
+      above: () => (above ??= listedAbove(indexReadingIn(root), (path) => valueAt(path, root))),
     })
 }
 

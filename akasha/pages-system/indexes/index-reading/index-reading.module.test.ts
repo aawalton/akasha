@@ -272,7 +272,7 @@ test("a path the index carries edges for is answered with every file importing i
     { path: "akasha/one.module.code.ts" },
   ])
 
-  expect(importersOf(root, "akasha/a.module.code.ts")).toEqual([
+  expect(importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toEqual([
     "akasha/one.module.code.ts",
     "akasha/two.module.code.ts",
   ])
@@ -282,20 +282,24 @@ test("a path nothing imports is answered with nothing rather than by throwing", 
   const root = stampedAt()
   importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
 
-  expect(importersOf(root, "akasha/nowhere.module.code.ts")).toEqual([])
+  expect(importersOf(root, "akasha/nowhere.module.code.ts", readingIn(root))).toEqual([])
 })
 
 test("what imports a file is refused when the import index is not there, no folder being no answer", () => {
   const root = stampedAt()
 
-  expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/import\/path/)
+  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
+    /import\/path/
+  )
 })
 
 test("what imports a file is refused when the index names no commit", () => {
   const root = committedAt()
   importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
 
-  expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/names no commit/)
+  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
+    /names no commit/
+  )
 })
 
 test("what imports a file is refused when a commit the index never saw stands", () => {
@@ -306,7 +310,9 @@ test("what imports a file is refused when a commit the index never saw stands", 
   gitIn(root, ["add", "--", "akasha/late.ts"])
   gitIn(root, ["commit", "--quiet", "-m", "late", "--", "akasha/late.ts"])
 
-  expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/akasha\/late\.ts/)
+  expect(() => importersOf(root, "akasha/a.module.code.ts", readingIn(root))).toThrow(
+    /akasha\/late\.ts/
+  )
 })
 
 test("an index's own place is answered under the index root", () => {

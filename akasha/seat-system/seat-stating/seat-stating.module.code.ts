@@ -1,9 +1,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { landedMechanically } from "@akasha/command-system/asking"
-import { listedAt, slugsOfType } from "@akasha/indexes"
+import { listedAt, readingIn, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { kindsUnder } from "@akasha/pages-system/page-type-descent"
+import { valueAt } from "@akasha/pages-system/page-value"
 import { seatPathForName } from "../seat-reading/seat-reading.module.code.ts"
 
 const PERSON = "person"
@@ -28,7 +29,7 @@ export type SeatStated = {
 }
 
 export function assignedKinds(root: string): readonly string[] {
-  const rest = [...kindsUnder(root, DOMAIN)].sort()
+  const rest = [...kindsUnder(DOMAIN, readingIn(root), (path) => valueAt(path, root))].sort()
   return [...PREFERRED, ...rest.filter((one) => !PREFERRED.includes(one))]
 }
 

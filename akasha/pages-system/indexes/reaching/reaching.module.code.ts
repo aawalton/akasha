@@ -1,7 +1,7 @@
 import { addressIn } from "@akasha/pages-system/page-address"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { propertiesOf } from "@akasha/pages-system/page-type-properties"
-import { slugOf, textAt, type Value, valueAt } from "@akasha/pages-system/page-value"
+import { slugOf, textAt, type Value } from "@akasha/pages-system/page-value"
 import { schemaAt } from "../index-entries/index-entries.module.code.ts"
 import {
   everyOfType,
@@ -10,7 +10,6 @@ import {
   listedById,
 } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
-import { readingOf } from "../index-surface/index-surface.module.code.ts"
 
 const RECORD = "record-property"
 
@@ -61,12 +60,7 @@ function membersIn(value: Value): readonly string[] {
   return found
 }
 
-export function knownIn(
-  given: string | Reading,
-  repo: string,
-  pageOf: (path: string) => Value | null = (path) => valueAt(path, repo)
-): Shaped {
-  const reading = readingOf(given)
+export function knownIn(reading: Reading, pageOf: (path: string) => Value | null): Shaped {
   const target = new Map<string, string>()
   const keyOfSlug = new Map<string, string>()
   const keyed = new Map<string, string[]>()

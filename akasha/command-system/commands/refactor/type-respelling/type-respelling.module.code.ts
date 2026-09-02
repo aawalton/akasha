@@ -56,7 +56,7 @@ export function spellingOver(
   textOf: (path: string) => string | null
 ): Spelling {
   const loadedAt = valuesOver(textOf)
-  const known = knownIn(readingIn(root), root, loadedAt)
+  const known = knownIn(readingIn(root), loadedAt)
   const found = new Map<string, Held>()
   const take = (id: string, type: boolean): undefined => {
     for (const path of new Set(namersOf(root, id).map((named) => named.path))) {

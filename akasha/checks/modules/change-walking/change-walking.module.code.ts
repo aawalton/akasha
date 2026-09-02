@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { everyPath } from "@akasha/indexes"
+import { everyPath, readingIn } from "@akasha/indexes"
 import type { Answering } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "@akasha/pages-system/change"
@@ -211,7 +211,7 @@ function filedOnce(paths: readonly string[]): readonly string[] {
   return [...new Set(paths)].sort()
 }
 
-export function everyFileIn(root: string, given: string | Reading = root): readonly string[] {
+export function everyFileIn(given: Reading): readonly string[] {
   return filedOnce(everyPath(given))
 }
 
@@ -221,7 +221,7 @@ export function everyFileOf(index: Answering): readonly string[] {
 
 export function everythingIn(root: string): Change {
   const both = onDisk(root)
-  return { root, changed: everyFileIn(root), before: both, after: both }
+  return { root, changed: everyFileIn(readingIn(root)), before: both, after: both }
 }
 
 export function onDisk(root: string): (path: string) => Uint8Array | null {

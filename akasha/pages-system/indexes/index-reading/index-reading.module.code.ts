@@ -15,7 +15,6 @@ import {
   INDEX_AT,
   indexAt,
   indexIn,
-  readingAt,
   readingOf,
 } from "../index-surface/index-surface.module.code.ts"
 
@@ -172,11 +171,7 @@ export function importersIn(given: string | Reading, path: string): readonly str
   return pathsIn(readingOf(given), join(IMPORT, AT_PATH, `${path}${ENDING}`))
 }
 
-export function importersOf(
-  root: string,
-  path: string,
-  reading: Reading = readingAt(indexIn(root))
-): readonly string[] {
+export function importersOf(root: string, path: string, reading: Reading): readonly string[] {
   const asked = `which files import \`${path}\``
   const why = staleFor(root, indexIn(root))
   if (why !== null) throw new Error(`${asked} could not be answered — ${why}`)

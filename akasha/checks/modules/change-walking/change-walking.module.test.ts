@@ -305,19 +305,19 @@ test("a selector takes as input every path it hands over, so no path it judges p
 })
 
 test("a walk takes a page and the files its own properties imply", () => {
-  expect(everyFileIn(worldOf([PAGE_AT, CODE_AT]))).toEqual([CODE_AT, PAGE_AT])
+  expect(everyFileIn(readingIn(worldOf([PAGE_AT, CODE_AT])))).toEqual([CODE_AT, PAGE_AT])
 })
 
 test("a walk takes the paths the index files, and works none of them out from a property name", () => {
   const root = worldOf([PAGE_AT, CODE_AT])
   pathFiled(root, NOTE_AT, [{ path: PAGE_AT, id: HELD_ID }])
-  expect(everyFileIn(root)).toContain(NOTE_AT)
+  expect(everyFileIn(readingIn(root))).toContain(NOTE_AT)
 })
 
 test("a walk reads no page module to work out what stands, so a page it cannot load is still taken", () => {
   const root = worldOf([PAGE_AT, CODE_AT])
   writeFileSync(join(root, PAGE_AT), "this is not typescript at all (((\n")
-  expect(everyFileIn(root)).toContain(CODE_AT)
+  expect(everyFileIn(readingIn(root))).toContain(CODE_AT)
 })
 
 test("a walk over everything reads the body of every file it takes", () => {
@@ -331,14 +331,14 @@ test("a walk over everything reads the body of every file it takes", () => {
 test("an index standing nowhere cannot answer which files stand, so it refuses rather than taking nothing", () => {
   const root = worldOf([PAGE_AT])
   indexTakenFrom(root)
-  expect(() => everyFileIn(root)).toThrow("could not be answered")
+  expect(() => everyFileIn(readingIn(root))).toThrow("could not be answered")
   expect(() => everythingIn(root)).toThrow("is not an index naming none")
 })
 
 test("a path directory gone from an index that stands is a true empty rather than a refusal", () => {
   const root = worldOf([PAGE_AT])
   pathsTakenFrom(root)
-  expect(everyFileIn(root)).toEqual([])
+  expect(everyFileIn(readingIn(root))).toEqual([])
 })
 
 const HANDED: Reading = {
@@ -352,7 +352,7 @@ const HANDED: Reading = {
 }
 
 test("a reading handed in says which files stand, so a check may ask of the index it will leave", () => {
-  expect(everyFileIn(worldOf([PAGE_AT]), HANDED)).toEqual(["akasha/held.ts"])
+  expect(everyFileIn(HANDED)).toEqual(["akasha/held.ts"])
 })
 
 test("a body that will not open refuses the check reading it rather than reading as nothing", () => {
@@ -365,5 +365,5 @@ test("a body that will not open refuses the check reading it rather than reading
 const HANDED_COLD: Reading = { holds: () => false, listing: () => [], lines: () => [] }
 
 test("a reading handed in that stands nowhere is refused as a root standing nowhere is", () => {
-  expect(() => everyFileIn(worldOf([PAGE_AT]), HANDED_COLD)).toThrow("could not be answered")
+  expect(() => everyFileIn(HANDED_COLD)).toThrow("could not be answered")
 })

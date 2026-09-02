@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { valueAt } from "@akasha/pages-system/page-value"
 import {
   B,
   C,
@@ -9,13 +10,18 @@ import {
   scratch,
   shaped,
 } from "../index-entries/index-entries.module.test-fixtures.ts"
-import { knownIn, reaches } from "./reaching.module.code.ts"
+import { readingAt } from "../index-surface/index-surface.module.code.ts"
+import { knownIn, reaches, type Shaped } from "./reaching.module.code.ts"
 
 afterAll(scratch.sweep)
 
+function knownAt(root: string, repo: string): Shaped {
+  return knownIn(readingAt(root), (path) => valueAt(path, repo))
+}
+
 test("a property naming many pages takes the target it names itself, and opens no page to do it", () => {
   const { root, repo } = grounded()
-  const known = knownIn(root, repo)
+  const known = knownAt(root, repo)
 
   expect(known.targetOf("part-slugs")).toBe("domain")
   expect(known.targetOf("code")).toBe(null)
@@ -24,7 +30,7 @@ test("a property naming many pages takes the target it names itself, and opens n
 
 test("a page type admits a target every page type it extends up to also admits", () => {
   const { root, repo } = grounded()
-  const known = knownIn(root, repo)
+  const known = knownAt(root, repo)
 
   expect([...known.admitting("domain")].sort()).toEqual(["domain", "module"])
   expect(known.admitting("page-property")).toEqual([])
@@ -56,7 +62,7 @@ test("a name carrying a page type the target does not admit is refused, never re
 
 test("a property naming members takes the target each of those members declares", () => {
   const { root, repo } = grounded()
-  const known = knownIn(root, repo)
+  const known = knownAt(root, repo)
 
   expect(known.targetOf("either")).toEqual(["domain", "note"])
   expect(known.targetOf("domain-slug")).toBe("domain")
@@ -86,7 +92,7 @@ test("a name two members of a one of reach two pages by is refused rather than r
 
 test("a key one property carries reaches it, and a key no property carries reaches none", () => {
   const { root, repo } = grounded()
-  const known = knownIn(root, repo)
+  const known = knownAt(root, repo)
   const value = { pageTypeSlug: "domain" }
 
   expect(known.slugOfKeyIn(value, "partSlugs")).toBe("part-slugs")
@@ -107,14 +113,14 @@ test("a key two properties carry reaches neither where the page's type declares 
       propertySlug: "part-slugs",
     })}\n`
   )
-  const known = knownIn(root, repo)
+  const known = knownAt(root, repo)
 
   expect(known.slugOfKeyIn({ pageTypeSlug: "domain" }, "partSlugs")).toBe(null)
 })
 
 test("a field reaches only a property the record it stands in declares", () => {
   const { root, repo } = grounded()
-  const known = knownIn(root, repo)
+  const known = knownAt(root, repo)
 
   expect(known.fieldOfKey("parts", "partSlugs")).toBe("part-slugs")
   expect(known.fieldOfKey("parts", "design")).toBe(null)
@@ -123,7 +129,7 @@ test("a field reaches only a property the record it stands in declares", () => {
 
 test("a record property answers the fields it declares, and another property answers none", () => {
   const { root, repo } = grounded()
-  const known = knownIn(root, repo)
+  const known = knownAt(root, repo)
 
   expect(known.fieldsOf("parts")).toEqual(["part-slugs"])
   expect(known.fieldsOf("part-slugs")).toEqual([])

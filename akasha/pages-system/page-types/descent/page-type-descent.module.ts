@@ -27,7 +27,7 @@ export const pageTypeDescent = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller holding only a root is answered as before.",
+      statement: "A caller names the reading and the reader of page bodies.",
     },
     {
       invariantKind: "absence",

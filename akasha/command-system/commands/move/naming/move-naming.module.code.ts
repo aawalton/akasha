@@ -1,7 +1,7 @@
 import { basename } from "node:path"
 import { typed } from "@akasha/code-system/code-typing"
 import type { Listed } from "@akasha/indexes"
-import { everyPath, importersOf, listedByPath } from "@akasha/indexes"
+import { everyPath, importersOf, listedByPath, readingIn } from "@akasha/indexes"
 import { textOf } from "../../../asking/asking.module.code.ts"
 import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
 
@@ -31,7 +31,7 @@ export function importingOf(root: string, moved: ReadonlyMap<string, string>): R
   for (const from of moved.keys()) {
     let said: readonly string[]
     try {
-      said = importersOf(root, from)
+      said = importersOf(root, from, readingIn(root))
     } catch (cause) {
       const why = cause instanceof Error ? cause.message : String(cause)
       return { unread: `${why}, so none were repointed` }

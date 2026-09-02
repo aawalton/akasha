@@ -2,6 +2,7 @@ import {
   everyOfType,
   idsNaming,
   type Listed,
+  readingIn,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { kindsUnder } from "../../pages-system/page-types/descent/page-type-descent.module.code.ts"
 import { partedIn } from "../../pages-system/pages/file-name/page-file-name.module.code.ts"
@@ -34,7 +35,7 @@ function partsIn(value: Value | null): readonly string[] {
 }
 
 export function kindsUnderDomain(root: string): ReadonlySet<string> {
-  return kindsUnder(root, DOMAIN)
+  return kindsUnder(DOMAIN, readingIn(root), (path) => valueAt(path, root))
 }
 
 export function domainsDrawn(root: string): readonly DomainRow[] {

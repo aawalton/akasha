@@ -50,7 +50,6 @@ import {
   overlaidOn,
   readingAt,
   readingNone,
-  readingOf,
 } from "../index-surface/index-surface.module.code.ts"
 import {
   reachingBuilt,
@@ -205,7 +204,7 @@ export function rebuiltFrom(
   const paths = held.flatMap((one) => claim(one.value, one.path, false))
   reconcile(join(root, PATH), paths, root)
   reconcile(join(root, SCHEMA), schema, root)
-  const known = knownIn(root, repo)
+  const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
   const relation = filed.flatMap((one) => one.entries)
   reconcile(join(root, RELATION), relation, root)
@@ -256,9 +255,8 @@ function turningIn(
   return said
 }
 
-function asBuilt(given: string | Reading): Reading {
-  const reading = readingOf(given)
-  return indexThere(reading) ? reading : readingNone()
+function asBuilt(given: Reading): Reading {
+  return indexThere(given) ? given : readingNone()
 }
 
 function elsewhereIn(
@@ -276,10 +274,10 @@ function elsewhereIn(
 }
 
 export function settlingOver(
-  given: string | Reading,
+  given: Reading,
   repo: string,
   moving: readonly Moving[],
-  pageOf: (path: string) => Value | null = (path) => valueAt(path, repo)
+  pageOf: (path: string) => Value | null
 ): Settling {
   const reading = asBuilt(given)
   const pageTypes = pageTypesIn(reading)
@@ -362,8 +360,8 @@ export function settlingOver(
   )
 
   const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...schema])
-  const wasKnown = knownIn(reading, repo, wasPageOf)
-  const known = knownIn(stepped, repo, pageOf)
+  const wasKnown = knownIn(reading, wasPageOf)
+  const known = knownIn(stepped, pageOf)
   const was = held.map((one) =>
     one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, wasKnown, repo)
   )
@@ -384,7 +382,7 @@ export function settlingOver(
 
   const filings = [...imported, ...identity, ...paths, ...schema, ...relation, ...valued]
   return {
-    reading: overlaidOn(readingOf(given), filings),
+    reading: overlaidOn(given, filings),
     filings,
     noted,
     refused: [...was, ...now].flatMap((one) => one.refused),
@@ -417,7 +415,7 @@ export function indexingAt(root: string, repo: string): Indexing {
         after: one.after,
       }))
       pending.clear()
-      const found = settlingOver(readingAt(root), repo, moving)
+      const found = settlingOver(readingAt(root), repo, moving, (path) => valueAt(path, repo))
       filedInto(root, found.filings)
       stampSettled(
         repo,

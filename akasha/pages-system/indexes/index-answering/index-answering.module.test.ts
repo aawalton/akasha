@@ -142,11 +142,9 @@ test("a question answered through a shape hands back the shape the reader beneat
   const root = seeded()
   const reading = readingIn(root)
   const index = answeringOver(reading, root, pageOf)
-  expect(index.knownIn().at(MODULE, "held")).toEqual(
-    knownIn(reading, root, pageOf).at(MODULE, "held")
-  )
+  expect(index.knownIn().at(MODULE, "held")).toEqual(knownIn(reading, pageOf).at(MODULE, "held"))
   expect(index.sourceIn().schemaFor(SLUG)).toEqual(sourceIn(reading, pageOf).schemaFor(SLUG))
-  expect(index.kindsUnder(PAGE_TYPE)).toEqual(kindsUnder(root, PAGE_TYPE, reading, pageOf))
+  expect(index.kindsUnder(PAGE_TYPE)).toEqual(kindsUnder(PAGE_TYPE, reading, pageOf))
 })
 
 test("what the reader beneath refuses is refused here in the same words", () => {

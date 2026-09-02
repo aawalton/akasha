@@ -232,7 +232,7 @@ export function unnamingOver(root: string, going: readonly string[]): Unnaming {
     if (id !== null) ids.set(id, one)
   }
   if (ids.size === 0) return NOTHING_UNNAMED
-  const known = knownIn(readingIn(root), root)
+  const known = knownIn(readingIn(root), (path) => valueAt(path, root))
   const dropping = new Map<string, Set<string>>()
   const closed: string[] = []
   const left: string[] = []
