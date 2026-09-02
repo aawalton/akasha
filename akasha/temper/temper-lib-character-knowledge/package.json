@@ -35,6 +35,10 @@
     "./knowledge-public-core": "./knowledge-public-core/knowledge-public-core.module.code.ts",
     "./knowledge-public-scribing": "./knowledge-public-scribing/knowledge-public-scribing.module.code.ts",
     "./knowledge-public-research": "./knowledge-public-research/knowledge-public-research.module.code.ts",
+    "./knowledge-settings-controls": "./knowledge-settings-controls/knowledge-settings-controls.module.code.ts",
+    "./knowledge-settings-main-section": "./knowledge-settings-main-section/knowledge-settings-main-section.module.code.ts",
+    "./knowledge-settings-export-import": "./knowledge-settings-export-import/knowledge-settings-export-import.module.code.ts",
+    "./knowledge-settings-panel": "./knowledge-settings-panel/knowledge-settings-panel.module.code.ts",
     "./knowledge-init": "./knowledge-init/knowledge-init.module.code.ts",
     "./knowledge-init-chardata": "./knowledge-init-chardata/knowledge-init-chardata.module.code.ts"
   }
