@@ -31,6 +31,9 @@ export const temperBuildDeployChecks = {
     "module/check-addon-hook-eager-capture",
     "module/eso-sandbox-manifest",
     "module/addon-dist-bundles",
+    "module/addon-banned-symbols",
+    "module/addon-removed-refs-manifest",
+    "module/addon-removed-refs",
   ],
   invariants: [
     {

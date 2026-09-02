@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./addon-banned-symbols": "./addon-banned-symbols/addon-banned-symbols.module.code.ts",
     "./addon-dependency-cycle": "./addon-dependency-cycle/addon-dependency-cycle.module.code.ts",
     "./addon-dependency-floor": "./addon-dependency-floor/addon-dependency-floor.module.code.ts",
     "./addon-dist-bundles": "./addon-dist-bundles/addon-dist-bundles.module.code.ts",
@@ -10,6 +11,8 @@
     "./addon-hook-eager-capture": "./addon-hook-eager-capture/addon-hook-eager-capture.module.code.ts",
     "./addon-inline-handler-dispatch": "./addon-inline-handler-dispatch/addon-inline-handler-dispatch.module.code.ts",
     "./addon-orphan-xml-handler": "./addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts",
+    "./addon-removed-refs": "./addon-removed-refs/addon-removed-refs.module.code.ts",
+    "./addon-removed-refs-manifest": "./addon-removed-refs-manifest/addon-removed-refs-manifest.module.code.ts",
     "./addon-roster-guard": "./addon-roster-guard/addon-roster-guard.module.code.ts",
     "./addon-source-files": "./addon-source-files/addon-source-files.module.code.ts",
     "./check-addon-dependency-cycle": "./check-addon-dependency-cycle/check-addon-dependency-cycle.module.code.ts",
