@@ -57,7 +57,42 @@ export async function activate(context: vscode.ExtensionContext): Promise<void> 
 	);
 }
 
+// ONE SWEEP AT A TIME, BECAUSE THE LAST TO FINISH IS NOT THE ONE THAT READ LATEST.
+//
+// This is `features/agent-tree/activate.ts`'s guard, for this feature's version of the same defect.
+// A sweep takes as long as `readProcessIds` waits on every terminal — bounded at
+// PROCESS_ID_TIMEOUT_MS, which is longer than the 1s poll — and there are nine other triggers
+// besides the poll: two file system watchers across every seat directory, three terminal events and
+// a command. A seat page saved while a sweep is out starts a second one over the same terminals.
+//
+// The state they race for is `lastAppliedByTerminal` and `lastColorByTerminal` in
+// `terminal-marks.ts`, which `syncTerminal` reads to decide whether a tab already carries the name
+// and colour it is about to be given, and writes after it applies one. Two sweeps interleaved read
+// that map before either has written it, so both apply, and the tab ends up carrying whichever
+// sweep finished last rather than whichever read the seat pages latest — a terminal named for a
+// seat that has since moved, with no error anywhere, because nothing was wrong with either sweep.
+//
+// A trigger arriving mid-sweep waits for the sweep in flight. The poll comes round again in a
+// second, so nothing is lost by not sweeping twice at once.
+let sweeping: Promise<void> | undefined;
+
 async function syncAll(trigger: string): Promise<void> {
+	const inFlight = sweeping;
+	if (inFlight !== undefined) {
+		output.appendLine(`[${trigger}] a sweep is already in flight — waiting for it`);
+		await inFlight;
+		return;
+	}
+	const started = sweepOnce(trigger);
+	sweeping = started;
+	try {
+		await started;
+	} finally {
+		sweeping = undefined;
+	}
+}
+
+async function sweepOnce(trigger: string): Promise<void> {
 	const terminals = vscode.window.terminals;
 	if (terminals.length === 0) { return; }
 	try {
