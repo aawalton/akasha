@@ -1,0 +1,34 @@
+{
+  "name": "LibHistoire",
+  "title": "LibHistoire",
+  "description": "|c000000|u1:800::|u|u1:800::.|u|u1:800::.|u|u1:800::|u|t256:256:LibHistoire/histoire.dds|t|u1:800::.|u|u1:800::.|u|u1:800::.|u|u1:800::.|u|u1:800::.|uHisty takes good care of all your data, so others don't have to.",
+  "author": "AlanGaming",
+  "version": "2.7.1",
+  "addonVersion": 1103,
+  "apiVersion": ["101050", "101051"],
+  "savedVariables": [
+    "LibHistoire_Settings",
+    "LibHistoire_GuildNames",
+    "LibHistoire_NameDictionary",
+    "LibHistoire_GuildHistory",
+    "LibHistoire_GuildHistoryCache"
+  ],
+  "dependsOn": ["LibDebugLogger", "LibAsync", "LibAddonMenu-2.0"],
+  "optionalDependsOn": ["LibCustomMenu"],
+  "assets": [
+    "histoire.dds",
+    "image/histy_down.dds",
+    "image/histy_over.dds",
+    "image/histy_up.dds",
+    "image/linked_down.dds",
+    "image/linked_over.dds",
+    "image/linked_up.dds",
+    "image/unlinked_down.dds",
+    "image/unlinked_over.dds",
+    "image/unlinked_up.dds",
+    "guildHistoryCache/controls.xml"
+  ],
+  "xmlFiles": {
+    "afterBundle": ["guildHistoryCache/controls.xml"]
+  }
+}
