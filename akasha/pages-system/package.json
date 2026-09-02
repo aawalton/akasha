@@ -32,6 +32,7 @@
     "./name-place/type-identifier": "./name-places/pages/type-identifier.name-place.ts",
     "./named-file-property": "./named-file-property/named-file-property.page-type.ts",
     "./number-property": "./number-property/number-property.page-type.ts",
+    "./one-of-property": "./one-of-property/one-of-property.page-type.ts",
     "./page": "./page/page.page-type.ts",
     "./page-address": "./page/page-address/page-address.module.code.ts",
     "./page-beside": "./page/page-beside/page-beside.module.code.ts",

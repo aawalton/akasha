@@ -22,6 +22,7 @@ export const initiative = {
   pluralSlug: "initiatives",
   partSlugs: [
     "record-property/intents",
+    "relation-property/initiative-slug",
     "relation-property/parent-slug",
     "relation-property/persona-slug",
     "text-property/constraints",
