@@ -64,7 +64,15 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A program owes no reading and runs no check.",
+      statement: "Whether a check runs is the change kind's answer rather than the caller's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing carrying no change kind runs every check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The kind that ran no check is named in the commit as the reason none ran.",
     },
     {
       invariantKind: "gap",

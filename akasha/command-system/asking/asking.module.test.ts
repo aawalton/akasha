@@ -7,7 +7,14 @@ import { put } from "@akasha/testing-system/putting"
 import { write } from "../command/write/write.command.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
-import { committedLine, judgedBy, landingAsked, passedOver } from "./asking.module.code.ts"
+import {
+  committedLine,
+  judgedBy,
+  landingAsked,
+  MECHANICAL,
+  NO_CHECKS,
+  passedOver,
+} from "./asking.module.code.ts"
 import {
   asking,
   BROKEN,
@@ -27,6 +34,8 @@ import {
 } from "./asking.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
+
+const CHECKED = { slug: "change-checked", runsChecks: true, runsWarrants: false }
 
 test("a report that could not be built leaves the landing standing, and says so", () => {
   const root = repoWith()
@@ -225,25 +234,46 @@ test("a landing made by a program runs no check and says so in the commit", () =
   const from = bodyIn(root)
   const said = write(
     ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
-    { ...givenIn(root), mechanical: true }
+    { ...givenIn(root), changeKind: MECHANICAL }
   )
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
-    "Checks-bypassed: no check ran: this landing was made by a program rather than by an agent"
+    "Checks-bypassed: a `change-mechanical` change runs no check"
   )
+})
+
+test("a kind running the checks runs them", () => {
+  const root = repoWith()
+  checking(root, "refuses", REFUSES_CODE)
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root), "--message", "held"],
+    { ...givenIn(root), agentId: null, changeKind: CHECKED }
+  )
+  expect(said.code).toBe(3)
+  expect(said.refusals.join("\n")).toContain("refused for the test")
+  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
+})
+
+test("a kind running the checks lands what they pass", () => {
+  const root = repoWith()
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root), "--message", "held"],
+    { ...givenIn(root), agentId: null, changeKind: CHECKED }
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
 })
 
 test("a landing made by a program is told apart from a glass that was broken", () => {
   const root = repoWith()
   const said = write(
     ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root), "--message", "held"],
-    { ...givenIn(root), mechanical: true }
+    { ...givenIn(root), changeKind: MECHANICAL }
   )
   expect(said.code).toBe(0)
-  expect(said.report).toContain(
-    "no check ran: this landing was made by a program rather than by an agent"
-  )
+  expect(said.report).toContain(`a \`change-mechanical\` change ${NO_CHECKS}`)
   expect(said.report.join("\n")).not.toContain("the glass was broken")
 })
 

@@ -31,8 +31,7 @@ const AGENT = "01a05844-6e60-7000-b54c-4b14559df70d"
 
 const TREE = "akasha"
 
-const MECHANICAL =
-  "Checks-bypassed: no check ran: this landing was made by a program rather than by an agent"
+const MECHANICAL = "Checks-bypassed: a `change-mechanical` change runs no check"
 
 function seated(root: string): string {
   gitIn(root, ["init", "--quiet"])

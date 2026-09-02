@@ -31,6 +31,7 @@ export const command = {
     "command/seat",
     "command/service",
     "command/test",
+    "command/tracking",
     "command/write",
     "record-property/taking",
     "relation-property/change-kind-slug",

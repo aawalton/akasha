@@ -32,7 +32,7 @@ export const REMOVE = "--remove"
 
 const AKASHA = "akasha"
 
-const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE = [DRY_RUN]
 
@@ -41,7 +41,7 @@ export function unwarrantedIn(
   glass: string | null,
   changes: readonly FileEdit[]
 ): readonly string[] {
-  if (given.mechanical === true) return []
+  if (given.changeKind?.runsWarrants === false) return []
   if (glass !== null) return []
   return owedIn(
     given.root,

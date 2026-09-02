@@ -16,6 +16,7 @@ export const changeKind = {
   pluralSlug: "change-kinds",
   partSlugs: [
     "change-kind/change-authored",
+    "change-kind/change-checked",
     "change-kind/change-mechanical",
     "change-kind/change-none",
     "boolean-property/runs-checks",
@@ -30,6 +31,14 @@ export const changeKind = {
     {
       invariantKind: "departure",
       statement: "A change has one kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What runs on a change of a kind is read off that kind's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether the checks run and whether the warrants run are two answers.",
     },
   ],
 } as const satisfies PageType

@@ -8,13 +8,19 @@ import type { HelpNotes } from "../command/properties/help-notes.text-property.t
 import type { Taking } from "../command/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 
+export type Kind = {
+  readonly slug: string
+  readonly runsChecks: boolean
+  readonly runsWarrants: boolean
+}
+
 export type Outside = {
   readonly root: string
   readonly calledAs: string
   readonly from: string
   readonly writer: string | null
   readonly agentId: string | null
-  readonly mechanical?: boolean
+  readonly changeKind?: Kind
 }
 
 export type Answer = {
@@ -40,7 +46,11 @@ const DEFINITION = "definition"
 
 const CHANGE_KIND = "changeKindSlug"
 
-const MECHANICAL_KIND = "change-mechanical"
+const RUNS_CHECKS = "runsChecks"
+
+const RUNS_WARRANTS = "runsWarrants"
+
+const CHANGE_KIND_TYPE = "01a05e11-d3f8-72af-b104-6cdd1255b0eb"
 
 const TAKING = "taking"
 
@@ -125,8 +135,26 @@ function definitionOf(page: Record<string, unknown> | null): string | null {
   return typeof said === "string" ? said : null
 }
 
-function mechanicalOf(page: Record<string, unknown> | null): boolean {
-  return page !== null && page[CHANGE_KIND] === MECHANICAL_KIND
+function kindPageAt(root: string, slug: string): string | null {
+  const said = indexThere(root) ? typeSlugById(root, CHANGE_KIND_TYPE) : null
+  const found = said === null ? [] : listedAt(root, said, slug)
+  return found.length === 1 ? (found[0]?.path ?? null) : null
+}
+
+export function kindNamed(root: string, slug: string): Kind | null {
+  const path = kindPageAt(root, slug)
+  if (path === null) return null
+  const page = pageIn(root, path, slug)
+  if (page === null) return null
+  const checks = page[RUNS_CHECKS]
+  const warrants = page[RUNS_WARRANTS]
+  if (typeof checks !== "boolean" || typeof warrants !== "boolean") return null
+  return { slug, runsChecks: checks, runsWarrants: warrants }
+}
+
+function kindOf(root: string, page: Record<string, unknown> | null): Kind | null {
+  const said = page === null ? null : page[CHANGE_KIND]
+  return typeof said === "string" ? kindNamed(root, said) : null
 }
 
 function definitionIn(root: string, path: string, slug: string): string | null {
@@ -223,13 +251,14 @@ async function answeredBy(
       `\`${named}\` is a command page, and ${beside} answers to nothing that can be called`
     )
   }
+  const kind = outside.changeKind ?? kindOf(root, page)
   return await answering(argv, {
     root,
     calledAs: `${outside.calledAs} ${named}`,
     from: outside.from,
     writer: outside.writer,
     agentId: outside.agentId,
-    mechanical: outside.mechanical === true || mechanicalOf(page),
+    ...(kind === null ? {} : { changeKind: kind }),
   })
 }
 

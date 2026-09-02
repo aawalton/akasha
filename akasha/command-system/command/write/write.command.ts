@@ -50,6 +50,10 @@ export const write = {
     },
     {
       invariantKind: "departure",
+      statement: "A change kind running no warrant warrants nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The seat this call is charged to is warranted alongside them.",
     },
     {

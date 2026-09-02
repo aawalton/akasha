@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { formattedBody } from "@akasha/code-system/code-format"
-import type { Answer, Given } from "../calling/calling.module.code.ts"
+import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
@@ -18,7 +18,7 @@ export const BREAK_GLASS = "--break-the-glass"
 
 const NOTHING = "nothing was judged and nothing was written"
 
-const MECHANICAL = "no check ran: this landing was made by a program rather than by an agent"
+export const NO_CHECKS = "runs no check, so this landing was judged by none"
 
 const ABSENT: ReadonlySet<string> = new Set(["ENOENT", "ENOTDIR"])
 
@@ -178,8 +178,10 @@ function bypassIn(given: Given, asked: Asked): Bypass | null {
     const said = `no check ran — the glass was broken for: ${asked.glass}`
     return { reason: asked.glass, said }
   }
-  if (given.mechanical !== true) return null
-  return { reason: MECHANICAL, said: MECHANICAL }
+  const kind = given.changeKind
+  if (kind === undefined || kind.runsChecks) return null
+  const said = `a \`${kind.slug}\` change ${NO_CHECKS}`
+  return { reason: said, said }
 }
 
 function messageWith(asked: Asked, bypass: Bypass | null, broken: string | null): string {
@@ -353,6 +355,12 @@ export function landingAsked(given: Given, asked: Asked): Answer {
   }
 }
 
+export const MECHANICAL: Kind = {
+  slug: "change-mechanical",
+  runsChecks: false,
+  runsWarrants: false,
+}
+
 export function landedMechanically(
   root: string,
   calledAs: string,
@@ -360,7 +368,7 @@ export function landedMechanically(
   message: string
 ): Answer {
   return landingAsked(
-    { root, calledAs, from: root, writer: null, agentId: null, mechanical: true },
+    { root, calledAs, from: root, writer: null, agentId: null, changeKind: MECHANICAL },
     { changes, message, dryRun: false, glass: null, unmoved: [], saying: wroteAndTook }
   )
 }

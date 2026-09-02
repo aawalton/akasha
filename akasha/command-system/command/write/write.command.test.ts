@@ -5,6 +5,7 @@ import { said as git } from "@akasha/git/git-running"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
+import { MECHANICAL } from "../../asking/asking.module.code.ts"
 import { bodyIn, checking, givenIn } from "../../asking/asking.module.test-fixtures.ts"
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
 import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
@@ -101,24 +102,24 @@ test("a write charged to no agent is refused whole", () => {
   expect(existsSync(join(root, "akasha/new.ts"))).toBe(false)
 })
 
-test("a mechanical write over a body the record does not show read owes no reading", () => {
+test("a write whose kind runs no warrant owes no reading of a body unread", () => {
   const root = repoWith()
   put(root, "akasha/loose.ts", "loose\n")
   const said = write(["--file-path", "akasha/loose.ts", "--content-file", bodyIn(root)], {
     ...givenIn(root),
-    mechanical: true,
+    changeKind: MECHANICAL,
   })
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("proposed\n")
 })
 
-test("a mechanical write charged to no agent lands, owing no reading of its own", () => {
+test("a write whose kind runs no warrant lands charged to no agent", () => {
   const root = repoWith()
   const said = write(["--file-path", "akasha/new.ts", "--content-file", bodyIn(root)], {
     ...givenIn(root),
     agentId: null,
-    mechanical: true,
+    changeKind: MECHANICAL,
   })
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)

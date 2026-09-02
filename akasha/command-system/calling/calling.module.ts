@@ -41,12 +41,23 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A command a mechanical change reaches is itself mechanical.",
+      statement: "The change kind a call already carries holds over the one the page names.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A command whose change kind is mechanical is handed that a program composes its changes.",
+      statement: "A command is handed the change kind its page names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What runs on a kind is read off that kind's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change kind that will not be read is handed to the command as no kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command handed no change kind runs every check and every warrant.",
     },
   ],
 } as const satisfies Module

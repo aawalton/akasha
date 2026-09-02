@@ -261,14 +261,23 @@ test("a name no command carries is told where the surface is written down", asyn
   expect(said.refusals[0]).toContain("Say `akasha --help` for what each of them takes.")
 })
 
-const SAYS_MECHANICAL = `export function held(argv, given) {
-  return { report: [String(given.mechanical)], refusals: [], code: 0 }
+const SAYS_KIND = `export function held(argv, given) {
+  return { report: [JSON.stringify(given.changeKind ?? null)], refusals: [], code: 0 }
 }
 `
 
-test("a command a mechanical write reaches is handed that it is mechanical", async () => {
-  const root = rootWith([{ slug: "held", body: SAYS_MECHANICAL }])
-  const said = await calling(["held"], { ...OUTSIDE, root, mechanical: true })
+const CARRIED = { slug: "change-mechanical", runsChecks: false, runsWarrants: false }
+
+test("the change kind a call already carries is what the command is handed", async () => {
+  const root = rootWith([{ slug: "held", body: SAYS_KIND }])
+  const said = await calling(["held"], { ...OUTSIDE, root, changeKind: CARRIED })
   expect(said.code).toBe(0)
-  expect(said.report[0]).toBe("true")
+  expect(said.report[0]).toBe(JSON.stringify(CARRIED))
+})
+
+test("a change kind no page states is handed as none, so everything runs", async () => {
+  const root = rootWith([{ slug: "held", body: SAYS_KIND }])
+  const said = await calling(["held"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("null")
 })

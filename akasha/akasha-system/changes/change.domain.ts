@@ -25,7 +25,7 @@ export const change = {
       statement: "Every command's page names the kind of change that command lands.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "What is handed to a command that lands is its change kind rather than a boolean.",
     },
   ],
