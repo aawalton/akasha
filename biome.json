@@ -140,7 +140,7 @@
         "temper/*-addon/src/**/data/**",
         "akasha/temper/temper-lorebooks/lorebooks-book-data*/**",
         "akasha/temper/temper-lorebooks/lorebooks-library-data*/**",
-        "akasha/temper/temper-lorebooks/lorebooks-shalidor-locations*/**", "akasha/temper/temper-lib-treasure/**"
+        "akasha/temper/temper-lorebooks/lorebooks-shalidor-locations*/**", "akasha/temper/temper-lib-treasure/**", "akasha/temper/temper-navigation-addon/**"
       ],
       "linter": {
         "rules": {
