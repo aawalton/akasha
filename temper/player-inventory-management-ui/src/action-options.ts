@@ -1,4 +1,4 @@
-import type { ItemAction } from "@temper/game-items-rules-core/inventory-rule-types"
+import type { ItemAction } from "@akasha/temper-items-rules-core/inventory-rule-types"
 
 export type ActionVariant = "elevation-muted" | "green" | "accent" | "orange"
 
