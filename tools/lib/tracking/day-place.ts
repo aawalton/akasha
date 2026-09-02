@@ -210,8 +210,9 @@ export async function dayValuesByDate(
 /**
  * How many session rows one day is read as holding at the outside.
  *
- * Every by-day session read below carries it, so the two callers that used to hold their own copy
- * of this number cannot drift apart from each other.
+ * Every by-day session read below carries it, so the three callers that used to hold a copy of this
+ * number each — `lib/tracking/resolve.ts`, `lib/daily-tracking/sleep-minutes.ts` and
+ * `lib/daily-tracking/breathing-sets.ts` — cannot drift apart from one another.
  */
 export const MAX_DAY_SESSIONS = 200
 
