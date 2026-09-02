@@ -23,9 +23,5 @@ export const esoBaseGameStringIds = {
       invariantKind: "departure",
       statement: "The runs holding the ids are divided only to keep each file under the ceiling.",
     },
-    {
-      invariantKind: "gap",
-      statement: "The command writing this census writes one file rather than these runs.",
-    },
   ],
 } as const satisfies Module
