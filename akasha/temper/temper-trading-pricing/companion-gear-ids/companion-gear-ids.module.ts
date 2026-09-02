@@ -13,8 +13,7 @@ export const companionGearIds = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "`@temper/game-companions-core` reads these same ids off its own table and has not landed.",
+      statement: "`@akasha/temper-companions-core` holds a second table of these same ids.",
     },
   ],
 } as const satisfies Module

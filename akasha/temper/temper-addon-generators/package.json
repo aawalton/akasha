@@ -122,6 +122,7 @@
     "./web-rule-wanted-and-stock": "./web-rule-wanted-and-stock/web-rule-wanted-and-stock.module.code.ts"
   },
   "dependencies": {
+    "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-player-completion": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",

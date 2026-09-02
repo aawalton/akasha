@@ -86,7 +86,7 @@ export function generateTemperEsoCompanionEquipmentConstant(rows: readonly Page[
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
 
-import type { CompanionEquipmentQualityId } from "@temper/game-companions-core/equipment/companion-equipment-quality-data"
+import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
 
 /**
  * ESO equip-type name → ESO numeric constant. \`as const\` preserves
