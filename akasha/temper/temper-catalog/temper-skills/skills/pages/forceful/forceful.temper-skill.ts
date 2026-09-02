@@ -20,4 +20,5 @@ export const forceful = {
   skillType: "passive",
   subcategoryId: "weapon-two-handed",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

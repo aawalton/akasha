@@ -20,4 +20,5 @@ export const harnessedQuintessence = {
   skillType: "passive",
   subcategoryId: "arcanist-herald-of-the-tome",
   status: "partially-supported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

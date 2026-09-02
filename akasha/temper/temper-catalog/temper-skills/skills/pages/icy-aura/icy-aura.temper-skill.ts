@@ -20,4 +20,5 @@ export const icyAura = {
   skillType: "passive",
   subcategoryId: "warden-winters-embrace",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill

@@ -19,4 +19,5 @@ export const haggling = {
   skillType: "passive",
   subcategoryId: "guild-thieves-guild",
   status: "unsupported",
+  effects: "jsonl",
 } as const satisfies TemperSkill
