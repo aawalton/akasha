@@ -6,6 +6,7 @@ export const completionImportOutcome = {
   slug: "completion-import-outcome",
   definition: "what a merge did to a stored completion, and which fields the merge held back",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "absence",
