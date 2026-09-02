@@ -112,3 +112,27 @@ test("a rename takes the slug, what it becomes, and the plural it becomes", () =
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--plural")
 })
+
+test("a page slug rename takes the address a page is at and the slug it becomes", () => {
+  const said = refactor(["rename", "page-slug", "--from", "module/one"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--to")
+})
+
+test("a page slug rename takes no plural", () => {
+  const said = refactor(
+    ["rename", "page-slug", "--from", "module/one", "--to", "two", "--plural", "n"],
+    GIVEN
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--plural")
+})
+
+test("a slug alone names no page, and a page type is sent to the act renaming one", () => {
+  const bare = refactor(["rename", "page-slug", "--from", "one", "--to", "two"], GIVEN)
+  expect(bare.code).toBe(1)
+  expect(bare.refusals[0]).toContain("names no page type")
+  const typed = refactor(["rename", "page-slug", "--from", "page-type/seat", "--to", "two"], GIVEN)
+  expect(typed.code).toBe(1)
+  expect(typed.refusals[0]).toContain("rename page-type")
+})

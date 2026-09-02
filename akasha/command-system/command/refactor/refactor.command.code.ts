@@ -3,7 +3,7 @@ import { join, resolve } from "node:path"
 import { compiled, readingOf, typingOver } from "@akasha/code-system/code-typing"
 import { reachingInto } from "@akasha/graph-system/graph-asking"
 import { importEdge } from "@akasha/graph-system/import-edge"
-import { everyPath, readingIn } from "@akasha/indexes"
+import { everyPath, listedAt, readingIn } from "@akasha/indexes"
 import { uncommittedNamed } from "@akasha/pages-system/page-file-name"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import { counted, landingAsked, textOf } from "../../asking/asking.module.code.ts"
@@ -14,7 +14,7 @@ import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Carry as Reading } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
-import { importingOf, spellingOf } from "../move/move.command.code.ts"
+import { importingOf, move, spellingOf } from "../move/move.command.code.ts"
 import { repointed } from "../move/move-repointing/move-repointing.module.code.ts"
 import { glassIn, messageIn } from "../write/write.command.code.ts"
 import type { Keying, Respelling } from "./key-respelling/key-respelling.module.code.ts"
@@ -34,6 +34,7 @@ import {
   respelledLanded,
   were,
 } from "./refactor-landing/refactor-landing.module.code.ts"
+import { pairFor, passedOn } from "./slug-renaming/slug-renaming.module.code.ts"
 import type { Tokening } from "./token-renaming/token-renaming.module.code.ts"
 import {
   bindingFor,
@@ -61,6 +62,8 @@ import {
 const RENAME = "rename"
 
 const PAGE_TYPE = "page-type"
+
+const PAGE_SLUG = "page-slug"
 
 const PROPERTY_SLUG = "property-slug"
 
@@ -316,6 +319,7 @@ export function refactor(argv: readonly string[], given: Given): Answer {
   }
   if (
     namespace !== PAGE_TYPE &&
+    namespace !== PAGE_SLUG &&
     namespace !== PROPERTY_SLUG &&
     namespace !== TOKEN &&
     namespace !== PACKAGE
@@ -325,7 +329,8 @@ export function refactor(argv: readonly string[], given: Given): Answer {
       [],
       [
         `${RENAME} names the namespace it is worked over, and ${said} — ` +
-          `it carries \`${PAGE_TYPE}\`, \`${PROPERTY_SLUG}\`, \`${TOKEN}\` and \`${PACKAGE}\``,
+          `it carries \`${PAGE_TYPE}\`, \`${PAGE_SLUG}\`, \`${PROPERTY_SLUG}\`, \`${TOKEN}\` ` +
+          `and \`${PACKAGE}\``,
       ],
       1
     )
@@ -358,6 +363,18 @@ export function refactor(argv: readonly string[], given: Given): Answer {
       return answering([], [`${PLURAL} names a page type's plural, and a package carries none`], 1)
     }
     return packageLanded(given, root, from, to, read.dryRun, argv, VALUED)
+  }
+  if (namespace === PAGE_SLUG) {
+    if (from === undefined || to === undefined) {
+      const said = `a page slug rename takes ${FROM} and ${TO}, and one of them was not said`
+      return answering([], [said], 1)
+    }
+    if (read.said.has(PLURAL)) {
+      return answering([], [`${PLURAL} names a page type's plural, and a page carries none`], 1)
+    }
+    const asked = pairFor(from, to, (slug, said) => listedAt(root, slug, said))
+    if ("refused" in asked) return answering([], [asked.refused], 1)
+    return move(passedOn(asked.pair, to, rest), given)
   }
   if (namespace === PROPERTY_SLUG) {
     if (from === undefined || to === undefined) {

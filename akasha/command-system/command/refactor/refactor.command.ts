@@ -13,18 +13,20 @@ export const refactor = {
     "module/package-renaming",
     "module/refactor-arguing",
     "module/refactor-landing",
+    "module/slug-renaming",
     "module/token-renaming",
     "module/type-renaming",
     "module/type-respelling",
   ],
   taking: [
     { said: "rename package", takes: "the act, and the namespace it is worked over" },
+    { said: "rename page-slug", takes: "the act, and the namespace it is worked over" },
     { said: "rename page-type", takes: "the act, and the namespace it is worked over" },
     { said: "rename property-slug", takes: "the act, and the namespace it is worked over" },
     { said: "rename token", takes: "the act, and the namespace it is worked over" },
     {
       said: "--from <name>",
-      takes: "a page type's slug, a property's address, a package's name, or a name a body carries",
+      takes: "a page type's slug, a page's address, a property's address, or a name a body carries",
     },
     { said: "--to <slug>", takes: "the slug or name it becomes, or the key a property is read by" },
     { said: "--plural <slug>", takes: "the plural it becomes, on a page type rename alone" },
@@ -46,6 +48,9 @@ export const refactor = {
     "a package rename moves no folder and changes no page's slug.",
     "a tracked file outside the akasha folder naming a renamed package is respelled with it.",
     "`page-type` itself is refused, being the tail every page type's own file carries.",
+    "a page slug rename takes the address a page is at, since a slug alone reaches no page.",
+    "a page slug rename carries the page's own file and the files beside it to the new name.",
+    "a spelling of the old slug it cannot judge to be an address is named rather than changed.",
     "--dry-run names every file it would carry; a landing says how many.",
     "a spelling it cannot judge to be a path is named in the answer rather than changed.",
     "a property is named by the address it stands at, since a key on its own reaches no property.",
@@ -70,6 +75,19 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement: "The slug `page-type` is not renamed here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page's slug is renamed by an act stated here rather than by a file arriving under another name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page slug rename carries the page's own file and every file beside that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page slug rename names every place that still spells the old slug.",
     },
     {
       invariantKind: "departure",
