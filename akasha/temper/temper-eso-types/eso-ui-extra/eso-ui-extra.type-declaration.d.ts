@@ -90,7 +90,7 @@ declare const ZO_WHITE: ZoColorDef
 
 declare const ZO_DEFAULT_DISABLED_COLOR: ZoColorDef
 
-declare const ZO_COMBOBOX_SUPRESS_UPDATE: boolean
+declare const ZO_COMBOBOX_SUPRESS_UPDATE: number
 
 interface ZoComboBoxDropdownKeyboardClass {
   Subclass: (this: ZoComboBoxDropdownKeyboardClass) => ZoComboBoxDropdownKeyboardClass
