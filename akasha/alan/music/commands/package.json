@@ -5,6 +5,7 @@
   "exports": {},
   "dependencies": {
     "@akasha/command-system": "workspace:*",
+    "@akasha/errors-core": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/music-choosing": "workspace:*",
     "@akasha/pages-system": "workspace:*",

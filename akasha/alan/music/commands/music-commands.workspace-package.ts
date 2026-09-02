@@ -6,5 +6,10 @@ export const musicCommands = {
   slug: "music-commands",
   definition: "what an agent runs by name over Alan's music",
   manifest: "json",
-  partSlugs: ["command/music-listening", "command/music-next"],
+  partSlugs: [
+    "command/music-listening",
+    "command/music-next",
+    "command/music-play",
+    "command/music-queue",
+  ],
 } as const satisfies WorkspacePackage
