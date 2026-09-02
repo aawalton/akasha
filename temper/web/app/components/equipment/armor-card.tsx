@@ -1,38 +1,46 @@
 "use client"
 import { Badge } from "@akasha/design-badges/badge"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@akasha/design-primitives/select-control"
 import { ItemCard } from "@akasha/design-patterns/item-card"
-import type { CharacterState } from "@temper/game-characters-character/build-types"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import {
-  type ArmorSlotId,
-  armorSlots,
-} from "@akasha/temper-equipment-kinds/armor-slots"
-import {
-  type StandardArmorWeightId,
-  standardArmorWeights,
-} from "@temper/game-characters-equipment/armor/armor-weights-data"
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@akasha/design-primitives/select-control"
 import {
   type ArmorEnchantId,
   armorEnchants,
-} from "@temper/game-characters-equipment/enchants/armor-enchants-data"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+} from "@akasha/temper-characters-equipment/armor-enchants"
 import {
   convertIconPathToUrl,
   getEquipmentIcon,
-} from "@temper/game-characters-equipment/sets/get-equipment-icon"
+} from "@akasha/temper-characters-equipment/get-equipment-icon"
 import {
   getValidSetsForArmorSlot,
   getValidWeightsForSet,
-} from "@temper/game-characters-equipment/sets/pattern-matcher"
-import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+} from "@akasha/temper-characters-equipment/set-pattern-matcher"
 import {
   type ArmorTraitId,
   armorTraits,
   armorTraitsBuildList,
 } from "@akasha/temper-equipment/armor-traits"
+import { type ArmorSlotId, armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
+import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { CharacterState } from "@temper/game-characters-character/build-types"
+import {
+  type StandardArmorWeightId,
+  standardArmorWeights,
+} from "@temper/game-characters-equipment/armor/armor-weights-data"
+import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"
-import { AVAILABLE_QUALITY_OPTIONS, getQualityClassName, getQualityLabel, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityClassName,
+  getQualityLabel,
+  getQualityVariant,
+} from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "@/components/equipment/set-select-dialog"
 
