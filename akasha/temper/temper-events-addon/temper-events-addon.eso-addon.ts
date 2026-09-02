@@ -29,6 +29,7 @@ export const temperEventsAddon = {
     "module/next-boss-ui-strings",
     "type-declaration/events-addon-declarations",
     "type-declaration/next-boss-declarations",
+    "type-declaration/next-boss-global-declarations",
   ],
   interfaceSlugs: ["next-boss-layout"],
   invariants: [

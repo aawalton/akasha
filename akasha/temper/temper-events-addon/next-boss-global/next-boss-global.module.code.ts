@@ -1,7 +1,3 @@
-import { ICT as holder, type Ict } from "../next-boss-state/next-boss-state.module.code.ts"
-
-declare global {
-  var ICT: Ict
-}
+import { ICT as holder } from "../next-boss-state/next-boss-state.module.code.ts"
 
 globalThis.ICT = holder
