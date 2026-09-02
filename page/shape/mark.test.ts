@@ -2,7 +2,7 @@ import { execFileSync } from "node:child_process"
 import { chmodSync, mkdtempSync, mkdirSync, rmSync, unlinkSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { expect, test } from "bun:test"
-import { diskAtCommit, namedAtCommit } from "./mark.ts"
+import { blobsNamed, diskAtCommit, namedAtCommit } from "./mark.ts"
 
 // Every case here is a checkout this one test makes, commits into and then throws away, so nothing
 // it does is ever asked of the checkout the tests run in. That matters more than usual for this
@@ -39,12 +39,24 @@ function askedOf(root: string): ReadonlyMap<string, string> | null {
 }
 
 // What `shapeMarkOf` reads, and the whole of what it read before: 1 is every no it could tell.
-function commitDiffCode(root: string): number {
+function commitDiffCode(root: string, ...specs: string[]): number {
   const done = Bun.spawnSync({
-    cmd: ["git", "diff-index", "--quiet", "HEAD", "--", "page"],
+    cmd: ["git", "diff-index", "--quiet", "HEAD", "--", ...(specs.length > 0 ? specs : ["page"])],
     cwd: root,
   })
   return done.exitCode
+}
+
+const PAGE_TYPE = "---\nslug: probe\n---\n\nbody\n"
+
+function namedBlobsIn(root: string): ReadonlyMap<string, string> {
+  return blobsNamed(root) as ReadonlyMap<string, string>
+}
+
+function stagedThenTakenOffDisk(root: string, at: string): void {
+  writeFileSync(`${root}/${at}`, PAGE_TYPE)
+  execFileSync("git", ["add", "--", at], { cwd: root, stdio: "ignore" })
+  unlinkSync(`${root}/${at}`)
 }
 
 function droppedAfter(root: string): void {
@@ -180,6 +192,88 @@ test("a staged file the commit has never held is not skew", () => {
     writeFileSync(`${root}/page/c.ts`, "new\n")
     execFileSync("git", ["add", "--", "page/c.ts"], { cwd: root, stdio: "ignore" })
     expect(askedOf(root)).toBeNull()
+  } finally {
+    droppedAfter(root)
+  }
+})
+
+// THE LOOPHOLE ITSELF. A file staged and then taken off the disk is no difference at all to
+// `diff-index --quiet`, because the add and the delete cancel, so this state is reached with a
+// mark still being worked out — unlike every other state in this file, which is refused.
+test("a staged file taken off disk is no difference git will report", () => {
+  const root = madeCheckout()
+  try {
+    stagedThenTakenOffDisk(root, "phantom.page-type.md")
+    expect(commitDiffCode(root, "page", "*.page-type.md")).toBe(0)
+    expect(inCheckout(root, "status", "--porcelain", "--", "phantom.page-type.md")).toBe(
+      "AD phantom.page-type.md"
+    )
+  } finally {
+    droppedAfter(root)
+  }
+})
+
+// CAUGHT, and left out. The blob is real and the file is not, so it is content this checkout does
+// not hold and has no business in a mark that says what this checkout holds.
+test("a page path staged with no file under it is left out of the named blobs", () => {
+  const root = madeCheckout()
+  try {
+    stagedThenTakenOffDisk(root, "phantom.page-type.md")
+    expect(inCheckout(root, "ls-files", "-s", "--", "*.page-type.md")).toContain(
+      "phantom.page-type.md"
+    )
+    expect(namedBlobsIn(root).has("phantom.page-type.md")).toBe(false)
+  } finally {
+    droppedAfter(root)
+  }
+})
+
+// THE STALE ANSWER THIS CLOSES. The phantom's blob is the same object a checkout that really holds
+// the page reads for it, so before this the two states put the same ingredient into the mark while
+// holding different files — one has the page, the other has nothing at that path. Whichever worked
+// its answers out first, the other was served them. Now only the checkout holding the file carries
+// the blob, and the one without it marks as what it is: a checkout without that page.
+test("a phantom does not mark as a checkout where that page is real", () => {
+  const phantom = madeCheckout()
+  const real = madeCheckout()
+  const without = madeCheckout()
+  try {
+    stagedThenTakenOffDisk(phantom, "probe.page-type.md")
+    writeFileSync(`${real}/probe.page-type.md`, PAGE_TYPE)
+    execFileSync("git", ["add", "--", "probe.page-type.md"], { cwd: real, stdio: "ignore" })
+    execFileSync("git", ["commit", "-q", "-m", "two", "--", "probe.page-type.md"], {
+      cwd: real,
+      stdio: "ignore",
+    })
+    const blob = inCheckout(real, "rev-parse", "HEAD:probe.page-type.md")
+    expect(inCheckout(phantom, "ls-files", "-s", "--", "probe.page-type.md")).toContain(blob)
+    expect(namedBlobsIn(real).get("probe.page-type.md")).toBe(blob)
+    expect(namedBlobsIn(phantom).has("probe.page-type.md")).toBe(false)
+    expect([...namedBlobsIn(phantom)]).toEqual([...namedBlobsIn(without)])
+  } finally {
+    droppedAfter(phantom)
+    droppedAfter(real)
+    droppedAfter(without)
+  }
+})
+
+// A page path git would quote is a page path `existsSync` would never find, and leaving a real
+// file out of the mark is worse than the phantom: nothing would move the mark when it changed.
+test("a page path git would quote is still in the named blobs", () => {
+  const root = madeCheckout()
+  try {
+    writeFileSync(`${root}/café.page-type.md`, PAGE_TYPE)
+    execFileSync("git", ["add", "--", "café.page-type.md"], { cwd: root, stdio: "ignore" })
+    execFileSync("git", ["commit", "-q", "-m", "two", "--", "café.page-type.md"], {
+      cwd: root,
+      stdio: "ignore",
+    })
+    expect(inCheckout(root, "ls-files", "--", "*.page-type.md")).toBe(
+      '"caf\\303\\251.page-type.md"'
+    )
+    expect(namedBlobsIn(root).get("café.page-type.md")).toBe(
+      inCheckout(root, "rev-parse", "HEAD:café.page-type.md")
+    )
   } finally {
     droppedAfter(root)
   }

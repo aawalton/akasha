@@ -172,46 +172,89 @@ export function namedAtCommit(
   return held
 }
 
-// GREP `SHAPE-MARK-INDEX-SKEW`. A dirty tree is the ordinary state of a working agent and says
-// nothing, so this fires on the one state that is not ordinary: the mark went on standing while
-// the index disagreed with the commit under it. It repeats at most once a minute per checkout and
-// path set, because the state persists across every read until somebody clears it and a line per
-// read would bury the first one.
+// GREP `SHAPE-MARK-INDEX-SKEW` and `SHAPE-MARK-PHANTOM-INDEX-ENTRY`. A dirty tree is the ordinary
+// state of a working agent and says nothing. These two fire on the states that are not ordinary:
+// the mark went on standing while the index disagreed with the commit under it. Each repeats at
+// most once a minute per checkout and path set, because the state persists across every read until
+// somebody clears it and a line per read would bury the first one.
 const SKEW_SIGNAL = "SHAPE-MARK-INDEX-SKEW"
-const SKEW_QUIET_MS = 60_000
-const SKEW_NAMED_CEILING = 8
+const PHANTOM_SIGNAL = "SHAPE-MARK-PHANTOM-INDEX-ENTRY"
+const SAID_QUIET_MS = 60_000
+const SAID_PATH_CEILING = 8
 
 const toldOf = new Map<string, number>()
 
-function tellOfSkew(root: string, staged: ReadonlyMap<string, string>): void {
-  const paths = [...staged.keys()].sort()
-  if (paths.length === 0) return
-  const key = `${root}\n${paths.join("\n")}`
+function toldLately(key: string): boolean {
   const now = Date.now()
   const before = toldOf.get(key)
-  if (before !== undefined && now - before < SKEW_QUIET_MS) return
+  if (before !== undefined && now - before < SAID_QUIET_MS) return true
   toldOf.set(key, now)
-  const left = paths.length - SKEW_NAMED_CEILING
-  const shown = paths.slice(0, SKEW_NAMED_CEILING).join(" ")
-  const more = left > 0 ? ` and ${left} more` : ""
+  return false
+}
+
+function pathsShown(paths: readonly string[]): string {
+  const left = paths.length - SAID_PATH_CEILING
+  return `${paths.slice(0, SAID_PATH_CEILING).join(" ")}${left > 0 ? ` and ${left} more` : ""}`
+}
+
+function tellOfSkew(root: string, staged: ReadonlyMap<string, string>): void {
+  const paths = [...staged.keys()].sort()
+  if (paths.length === 0 || toldLately(`${SKEW_SIGNAL}\n${root}\n${paths.join("\n")}`)) return
   process.stderr.write(
     `${SKEW_SIGNAL} ${root}: ${paths.length} path(s) staged away from HEAD whose files on disk ` +
-      `hold HEAD's own content: ${shown}${more}. The shape mark is taken from HEAD, so page ` +
+      `hold HEAD's own content: ${pathsShown(paths)}. The shape mark is taken from HEAD, so page ` +
       "answers stay cached. Read what is staged for those paths with `git diff --cached -- " +
       "<path>` and clear it with `git add -- <path>`, which restages the file as it stands.\n"
   )
 }
 
-function blobsNamed(root: string): ReadonlyMap<string, string> | null {
-  const listed = gitCapped(root, ["ls-files", "-s", "--", ...PAGE_SHAPE_NAMED])
+function tellOfPhantom(root: string, paths: readonly string[]): void {
+  if (paths.length === 0 || toldLately(`${PHANTOM_SIGNAL}\n${root}\n${paths.join("\n")}`)) return
+  process.stderr.write(
+    `${PHANTOM_SIGNAL} ${root}: ${paths.length} page path(s) are staged with no file under them, ` +
+      `so the index holds content this checkout does not: ${pathsShown(paths)}. They are left ` +
+      "out of the shape mark, which stands. Read what is staged for them with `git diff --cached " +
+      "-- <path>` and clear each with `git update-index --force-remove -- <path>`, which takes " +
+      "away that one index entry and touches no file.\n"
+  )
+}
+
+// A NAMED BLOB IS ONLY WORTH THE FILE UNDER IT. `ls-files` reads the index, and the index holds
+// paths this checkout has no file for: staged and then taken off the disk, which `diff-index
+// --quiet HEAD` calls no difference at all, because the add and the delete cancel. So that state
+// arrives here with a mark still being worked out, and writing its blob into the mark makes a mark
+// that is wrong rather than absent — the worse of the two by far. Measured: seeding one moved this
+// checkout's mark from fda5d46 to afde959 with every file on disk still the commit's own. Two
+// checkouts holding identical files then work out different marks, which only costs a recompute;
+// but a checkout where that path is real and committed works out the mark the phantom made, and is
+// served answers taken from a tree that never held the file. That is the stale answer
+// `namedAtCommit` refuses, arriving by the index instead of by a staged blob.
+//
+// A path with no file under it is therefore left out rather than refused, because leaving it out
+// is not a guess: the mark that comes back is the one a checkout holding exactly these files works
+// out, which is what a mark is for. It also cannot be a path the commit holds — a file the commit
+// has and the disk has not is a deletion, which `diff-index --quiet` does report, and which took
+// the mark to null long before this was reached. What is left out is only ever the phantom.
+//
+// `-z` is what makes the asking safe. Without it git quotes a path it thinks unusual, and
+// `pages/café.page-type.md` comes back as `"pages/caf\303\251.page-type.md"`, which no `existsSync`
+// will ever find. Dropping a real file from the mark is the very fault being closed here: nothing
+// would move the mark when that file changed. There are none such in this checkout today, and one
+// page named tomorrow would have been enough.
+export function blobsNamed(root: string): ReadonlyMap<string, string> | null {
+  const listed = gitCapped(root, ["ls-files", "-s", "-z", "--", ...PAGE_SHAPE_NAMED])
   if (listed.code !== 0) return null
   const blobs = new Map<string, string>()
-  for (const line of listed.stdout.split("\n")) {
+  const phantoms: string[] = []
+  for (const line of listed.stdout.split("\0")) {
     if (line === "") continue
     const [head, at] = line.split("\t")
     const oid = head?.split(" ")[1]
-    if (at !== undefined && oid !== undefined) blobs.set(at, oid)
+    if (at === undefined || oid === undefined) continue
+    if (existsSync(`${root}/${at}`)) blobs.set(at, oid)
+    else phantoms.push(at)
   }
+  tellOfPhantom(root, phantoms.sort())
   return blobs
 }
 
