@@ -6,5 +6,12 @@ export const temperCompanions = {
   slug: "temper-companions",
   definition: "the companions who travel with a character",
   pluralSlug: "temper-companionss",
-  partSlugs: ["page-type/temper-companion-thing"],
+  partSlugs: [
+    "page-type/temper-companion-activation-buff",
+    "page-type/temper-companion-passive-metric",
+    "page-type/temper-companion-role",
+    "page-type/temper-companion-skill-slot",
+    "page-type/temper-companion-thing",
+    "page-type/temper-companion-weapon-slot",
+  ],
 } as const satisfies Domain
