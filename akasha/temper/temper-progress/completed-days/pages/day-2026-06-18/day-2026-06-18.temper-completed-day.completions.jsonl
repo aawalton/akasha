@@ -14,6 +14,6 @@
 {"id":"019edb73-be75-75d3-8459-1f874e6ad8fd","completedAt":"2026-06-18T15:38:48.000Z","task":"skill-morphs","character":"archmage-amerys","dueDate":"2026-06-18","completionCardId":"skill-morphs"}
 {"id":"019edb7d-13f1-7504-b5e7-01981ab8d1f1","completedAt":"2026-06-18T16:07:08.000Z","task":"hireling-mails","character":"erin-solstice","dueDate":"2026-06-18","completionCardId":"hireling-mails"}
 {"id":"019edbfc-91f3-77df-8a12-59f8560fdc1f","completedAt":"2026-06-18T18:27:02.579Z","task":"crafting-writs","character":"shaestrel","dueDate":"2026-06-18","completionCardId":"daily-writs"}
-{"id":"019edbfc-9d56-7c34-bd52-14ab5af94402","completedAt":"2026-06-18T18:27:04.643Z","character":"erin-solstice","dueDate":"2026-06-18"}
+{"id":"019edbfc-9d56-7c34-bd52-14ab5af94402","completedAt":"2026-06-18T18:27:04.643Z","title":"Dev Tracker","character":"erin-solstice","dueDate":"2026-06-18"}
 {"id":"019edbfc-a800-7cb2-b7e2-b63a220bbae9","completedAt":"2026-06-18T18:27:08.843Z","task":"infinite-archive-weekly-leaderboard","character":"erin-solstice","dueDate":"2026-06-18"}
 {"id":"019edbfc-be62-7127-a678-295b5fea4605","completedAt":"2026-06-18T18:27:14.564Z","task":"legerdemain-skill-line","character":"yvlon-byres","dueDate":"2026-06-18","completionCardId":"skill-lines","completionItemPath":["111"]}

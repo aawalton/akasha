@@ -23,7 +23,7 @@
 {"id":"019eef15-4687-72c8-91b2-03bc44ecafdb","completedAt":"2026-06-22T11:10:27.000Z","task":"legerdemain-skill-line","character":"yvlon-byres","dueDate":"2026-06-23","completionCardId":"skill-lines","completionItemPath":["111"]}
 {"id":"019eef15-44b5-7b9c-95eb-0edb24a682a9","completedAt":"2026-06-22T11:17:31.000Z","task":"dark-brotherhood-skill-line","character":"lyonette-du-marquin","dueDate":"2026-06-23","completionCardId":"skill-lines","completionItemPath":["118"]}
 {"id":"019eef65-c794-7b86-b21e-fec530a5b5a8","completedAt":"2026-06-22T12:42:20.000Z","task":"companion-rapport","character":"maviola-el","dueDate":"2026-06-22","completionCardId":"companion-rapport-character"}
-{"id":"019eef7b-e565-709c-8ac9-ae5d55745f83","completedAt":"2026-06-22T13:18:53.679Z","character":"erin-solstice","dueDate":"2026-06-22"}
+{"id":"019eef7b-e565-709c-8ac9-ae5d55745f83","completedAt":"2026-06-22T13:18:53.679Z","title":"Dev Tracker","character":"erin-solstice","dueDate":"2026-06-22"}
 {"id":"019eef91-8858-72cd-8724-9fbd7e7a9ee8","completedAt":"2026-06-22T13:19:14.000Z","task":"skill-morphs","character":"archmage-amerys","dueDate":"2026-06-22","completionCardId":"skill-morphs"}
 {"id":"019eef91-879f-7c29-b3cb-08cd42843fe4","completedAt":"2026-06-22T13:21:45.000Z","task":"crafting-writs","dueDate":"2026-06-22","completionCardId":"daily-writs"}
 {"id":"019eef91-8978-7385-90d9-6981ffee12d2","completedAt":"2026-06-22T13:22:03.000Z","task":"hireling-mails","character":"erin-solstice","dueDate":"2026-06-22","completionCardId":"hireling-mails"}

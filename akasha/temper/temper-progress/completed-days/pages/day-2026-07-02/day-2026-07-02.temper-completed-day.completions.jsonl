@@ -1,6 +1,6 @@
 {"id":"019f20cd-22f1-7ff2-bb6e-8ac1c53c621b","completedAt":"2026-07-02T03:08:59.572Z","task":"crafting-writs","character":"yvlon-byres","dueDate":"2026-07-01","completionCardId":"daily-writs"}
 {"id":"019f20cd-2e06-754e-b6de-42961d7ffac1","completedAt":"2026-07-02T03:09:04.164Z","task":"infinite-archive-weekly-leaderboard","character":"erin-solstice","dueDate":"2026-07-01"}
-{"id":"019f20cd-46d1-75c6-9692-806565a72051","completedAt":"2026-07-02T03:09:10.879Z","character":"erin-solstice","dueDate":"2026-07-01"}
+{"id":"019f20cd-46d1-75c6-9692-806565a72051","completedAt":"2026-07-02T03:09:10.879Z","title":"Master Writs — Zeal of Zenithar (1 epic box per discipline)","character":"erin-solstice","dueDate":"2026-07-01"}
 {"id":"019f20cd-54b3-714b-a6ee-aad7c3ca7c88","completedAt":"2026-07-02T03:09:12.758Z","task":"lorebooks","character":"erin-solstice","dueDate":"2026-07-01","completionCardId":"lore-library-character"}
 {"id":"019f20cd-60d0-764e-9380-4bb39e98c903","completedAt":"2026-07-02T03:09:16.775Z","task":"manage-guild-sales","character":"erin-solstice","dueDate":"2026-07-01","completionCardId":"guild-sales"}
 {"id":"019f20cd-655c-7985-b3ea-94579ddd9f31","completedAt":"2026-07-02T03:09:19.383Z","task":"cadwell-s-almanac","character":"mrsha-du-marquin","dueDate":"2026-07-01","completionCardId":"cadwells-almanac"}
@@ -13,9 +13,9 @@
 {"id":"019f24a4-d39b-7cda-8c4f-5fd7379dc152","completedAt":"2026-07-02T21:02:52.000Z","task":"thieves-guild-skill-line","character":"ceria-springwater","dueDate":"2026-07-02","completionCardId":"skill-lines","completionItemPath":["117"]}
 {"id":"019f24b0-983a-7280-bfe6-221a30c0fae6","completedAt":"2026-07-02T21:15:54.000Z","task":"legerdemain-skill-line","character":"yvlon-byres","dueDate":"2026-07-02","completionCardId":"skill-lines","completionItemPath":["111"]}
 {"id":"019f24b7-bffa-7e0a-8e8b-a189fd9d4c91","completedAt":"2026-07-02T21:23:34.000Z","task":"dark-brotherhood-skill-line","character":"lyonette-du-marquin","dueDate":"2026-07-02","completionCardId":"skill-lines","completionItemPath":["118"]}
-{"id":"019f24c9-fd50-749d-95e7-c31ba098ad5d","completedAt":"2026-07-02T21:44:04.420Z","character":"the-death-of-chains","dueDate":"2026-07-02"}
-{"id":"019f24ca-0978-7bee-9085-6d0ee4fe5669","completedAt":"2026-07-02T21:44:06.132Z","character":"erin-solstice","dueDate":"2026-07-02"}
-{"id":"019f24ca-1723-7436-9b9e-33b7d40ea4e1","completedAt":"2026-07-02T21:44:09.167Z","character":"the-death-of-chains","dueDate":"2026-07-03"}
+{"id":"019f24c9-fd50-749d-95e7-c31ba098ad5d","completedAt":"2026-07-02T21:44:04.420Z","title":"Honest Toil — Zeal of Zenithar (300 Trade Bars)","character":"the-death-of-chains","dueDate":"2026-07-02"}
+{"id":"019f24ca-0978-7bee-9085-6d0ee4fe5669","completedAt":"2026-07-02T21:44:06.132Z","title":"Master Writs — Zeal of Zenithar (1 epic box per discipline)","character":"erin-solstice","dueDate":"2026-07-02"}
+{"id":"019f24ca-1723-7436-9b9e-33b7d40ea4e1","completedAt":"2026-07-02T21:44:09.167Z","title":"Honest Toil — Zeal of Zenithar (300 Trade Bars)","character":"the-death-of-chains","dueDate":"2026-07-03"}
 {"id":"019f24e5-f847-7d40-a2e0-c3fb3285ec9a","completedAt":"2026-07-02T21:55:50.000Z","task":"skill-morphs","character":"lyonette-du-marquin","dueDate":"2026-07-02","completionCardId":"skill-morphs"}
 {"id":"019f24e5-fbbd-7319-9bb1-c50544b7d433","completedAt":"2026-07-02T21:57:36.000Z","task":"crafting-writs","dueDate":"2026-07-02","completionCardId":"daily-writs"}
 {"id":"019f24e5-fa8c-7b89-8cb6-cafe18377aba","completedAt":"2026-07-02T22:01:18.000Z","task":"companion-rapport","character":"maviola-el","dueDate":"2026-07-02","completionCardId":"companion-rapport-character"}

@@ -1,10 +1,10 @@
-{"id":"019f941c-6b4f-789f-870b-93e693b0d2fc","completedAt":"2026-07-24T12:31:58.019Z","character":"erin-solstice"}
-{"id":"019f941c-6da8-784e-bd8e-07f66087528f","completedAt":"2026-07-24T12:31:58.429Z","character":"erin-solstice"}
-{"id":"019f941c-6fac-7686-95c4-79186504a90e","completedAt":"2026-07-24T12:31:58.824Z","character":"erin-solstice"}
-{"id":"019f941c-7185-7670-807b-a9e296cebe06","completedAt":"2026-07-24T12:31:59.224Z","character":"erin-solstice"}
-{"id":"019f941c-7283-7707-a277-9ee3dcda6a3f","completedAt":"2026-07-24T12:31:59.607Z","character":"erin-solstice"}
-{"id":"019f941c-73f3-7ca7-8e5d-17d2a86a342e","completedAt":"2026-07-24T12:31:59.990Z","character":"erin-solstice"}
-{"id":"019f941c-752d-7acc-9c49-1c58354f9fe0","completedAt":"2026-07-24T12:32:00.397Z","character":"erin-solstice"}
+{"id":"019f941c-6b4f-789f-870b-93e693b0d2fc","completedAt":"2026-07-24T12:31:58.019Z","title":"Verify scribing source: Vvardenfell Relics","character":"erin-solstice"}
+{"id":"019f941c-6da8-784e-bd8e-07f66087528f","completedAt":"2026-07-24T12:31:58.429Z","title":"Verify scribing source: Vvardenfell Hunts","character":"erin-solstice"}
+{"id":"019f941c-6fac-7686-95c4-79186504a90e","completedAt":"2026-07-24T12:31:58.824Z","title":"Verify scribing source: Thieves Guild Heists","character":"erin-solstice"}
+{"id":"019f941c-7185-7670-807b-a9e296cebe06","completedAt":"2026-07-24T12:31:59.224Z","title":"Verify scribing source: Murkmire Root-Whisperer","character":"erin-solstice"}
+{"id":"019f941c-7283-7707-a277-9ee3dcda6a3f","completedAt":"2026-07-24T12:31:59.607Z","title":"Verify scribing source: Hew's Bane Tip Board","character":"erin-solstice"}
+{"id":"019f941c-73f3-7ca7-8e5d-17d2a86a342e","completedAt":"2026-07-24T12:31:59.990Z","title":"Verify scribing source: Gold Coast Sacraments","character":"erin-solstice"}
+{"id":"019f941c-752d-7acc-9c49-1c58354f9fe0","completedAt":"2026-07-24T12:32:00.397Z","title":"Verify scribing source: Clockwork City Blackfeather","character":"erin-solstice"}
 {"id":"019f941f-8e4f-7715-8a60-12ad6652877c","completedAt":"2026-07-24T12:35:23.722Z","task":"skill-morphs","character":"lyonette-du-marquin","dueDate":"2026-07-24","completionCardId":"skill-morphs"}
 {"id":"019f941f-9001-7f15-9ab9-bc834a6b4e3a","completedAt":"2026-07-24T12:35:24.032Z","task":"manage-guild-sales","character":"erin-solstice","dueDate":"2026-07-24","completionCardId":"guild-sales"}
 {"id":"019f941f-9141-7fa7-96eb-2903c6587b2c","completedAt":"2026-07-24T12:35:24.359Z","task":"infinite-archive-weekly-leaderboard","character":"erin-solstice","dueDate":"2026-07-24"}

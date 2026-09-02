@@ -1,6 +1,6 @@
 {"id":"019e16e2-aaf0-7f4b-8a50-62e8f3b37c06","completedAt":"2026-05-11T11:51:06.000Z","task":"antiquity-leads-motifs","character":"erin-solstice","dueDate":"2026-05-11","completionCardId":"antiquity-leads-motifs"}
-{"id":"019e16f8-7082-79b9-bb07-28fc5ad6d4e4","completedAt":"2026-05-11T12:05:06.000Z","character":"belavierr","dueDate":"2026-05-11","completionCardId":"scribing-knowledge","completionItemPath":["scripts","signatureScripts"]}
-{"id":"019e1713-2eed-7c77-8ae4-f2417f16b5a0","completedAt":"2026-05-11T12:46:08.000Z","character":"seraphel-du-marquin","dueDate":"2026-05-11","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
+{"id":"019e16f8-7082-79b9-bb07-28fc5ad6d4e4","completedAt":"2026-05-11T12:05:06.000Z","title":"Signature Script Daily Quests","character":"belavierr","dueDate":"2026-05-11","completionCardId":"scribing-knowledge","completionItemPath":["scripts","signatureScripts"]}
+{"id":"019e1713-2eed-7c77-8ae4-f2417f16b5a0","completedAt":"2026-05-11T12:46:08.000Z","title":"Affix Script Daily Quests","character":"seraphel-du-marquin","dueDate":"2026-05-11","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
 {"id":"019e173e-e08b-7b3d-b8bf-cd50562a083c","completedAt":"2026-05-11T13:08:04.000Z","task":"undaunted-skill-line","character":"ceria-springwater","dueDate":"2026-05-11","completionCardId":"skill-lines","completionItemPath":["55"]}
 {"id":"019e175f-3d74-796c-95d6-9c37f36dbe4c","completedAt":"2026-05-11T14:08:33.000Z","task":"thieves-guild-skill-line","character":"yvlon-byres","dueDate":"2026-05-11","completionCardId":"skill-lines","completionItemPath":["117"]}
 {"id":"019e1769-6d15-7cfd-8d89-8089ddd1a88c","completedAt":"2026-05-11T14:16:32.000Z","task":"legerdemain-skill-line","character":"durene-faerise","dueDate":"2026-05-11","completionCardId":"skill-lines","completionItemPath":["111"]}
@@ -11,7 +11,7 @@
 {"id":"019e17e3-7076-7ab5-9d8f-d0eea9fcfb27","completedAt":"2026-05-11T16:33:32.000Z","task":"crafting-writs","dueDate":"2026-05-11","completionCardId":"daily-writs"}
 {"id":"019e17e3-7cbc-7a1a-8971-7b3b6e6142e4","completedAt":"2026-05-11T16:34:03.037Z","task":"skill-morphs","character":"erin-solstice","dueDate":"2026-05-11","completionCardId":"skill-morphs"}
 {"id":"019e17e3-80d8-7371-8bfa-77823d76da94","completedAt":"2026-05-11T16:34:04.128Z","task":"hireling-mails","character":"erin-solstice","dueDate":"2026-05-06"}
-{"id":"019e17e3-8386-7fcc-81b9-eb82d69ed27a","completedAt":"2026-05-11T16:34:04.817Z","character":"erin-solstice","dueDate":"2026-05-11"}
+{"id":"019e17e3-8386-7fcc-81b9-eb82d69ed27a","completedAt":"2026-05-11T16:34:04.817Z","title":"Dev Tracker","character":"erin-solstice","dueDate":"2026-05-11"}
 {"id":"019e17e3-89de-7ad0-8906-71311075b19f","completedAt":"2026-05-11T16:34:06.429Z","task":"manage-guild-sales","character":"erin-solstice","dueDate":"2026-05-11","completionCardId":"guild-sales"}
-{"id":"019e17fd-1631-72be-a411-7991c60992d8","completedAt":"2026-05-11T17:00:47.000Z","character":"erin-solstice","dueDate":"2026-05-11","completionCardId":"account-achievements","completionItemPath":["8","4","4514"]}
-{"id":"019e17fd-157b-783a-89e2-0332f3c441ae","completedAt":"2026-05-11T17:01:14.000Z","character":"erin-solstice","dueDate":"2026-05-11","completionCardId":"account-achievements","completionItemPath":["8","4","4510"]}
+{"id":"019e17fd-1631-72be-a411-7991c60992d8","completedAt":"2026-05-11T17:00:47.000Z","title":"Herald of Death","character":"erin-solstice","dueDate":"2026-05-11","completionCardId":"account-achievements","completionItemPath":["8","4","4514"]}
+{"id":"019e17fd-157b-783a-89e2-0332f3c441ae","completedAt":"2026-05-11T17:01:14.000Z","title":"Market Manipulator","character":"erin-solstice","dueDate":"2026-05-11","completionCardId":"account-achievements","completionItemPath":["8","4","4510"]}

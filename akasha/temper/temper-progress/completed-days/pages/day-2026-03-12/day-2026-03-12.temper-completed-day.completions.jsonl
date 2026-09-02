@@ -1,8 +1,8 @@
-{"id":"019db533-f3b3-7594-be3e-0902096c3afd","completedAt":"2026-03-12T14:24:43.384Z","dueDate":"2026-03-12"}
-{"id":"019db533-f3b3-758f-be08-e255585c456c","completedAt":"2026-03-12T15:31:33.406Z","character":"yvlon-byres","esoCharacterId":"8796093041077507","dueDate":"2026-03-12"}
+{"id":"019db533-f3b3-7594-be3e-0902096c3afd","completedAt":"2026-03-12T14:24:43.384Z","title":"Dev Tracker","dueDate":"2026-03-12"}
+{"id":"019db533-f3b3-758f-be08-e255585c456c","completedAt":"2026-03-12T15:31:33.406Z","title":"Signature Script Daily Quests","character":"yvlon-byres","esoCharacterId":"8796093041077507","dueDate":"2026-03-12"}
 {"id":"019db533-f3b3-758a-8972-5d34f1bb9894","completedAt":"2026-03-12T15:31:34.967Z","task":"undaunted-skill-line","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-12"}
-{"id":"019db533-f3b3-7585-8963-4d26437298cc","completedAt":"2026-03-12T15:57:37.577Z","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-12"}
+{"id":"019db533-f3b3-7585-8963-4d26437298cc","completedAt":"2026-03-12T15:57:37.577Z","title":"Affix Script Daily Quests","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-12"}
 {"id":"019db533-f3b3-7580-8ec3-abbbecbabf99","completedAt":"2026-03-12T17:01:43.706Z","task":"thieves-guild-skill-line","character":"archmage-amerys","esoCharacterId":"8796093038720681","dueDate":"2026-03-12"}
 {"id":"019db533-f3b3-757b-a251-973a57e0d6b4","completedAt":"2026-03-12T17:01:44.374Z","task":"legerdemain-skill-line","character":"archmage-amerys","esoCharacterId":"8796093038720681","dueDate":"2026-03-12"}
-{"id":"019db533-f3b3-7576-9de1-4a3be20118df","completedAt":"2026-03-12T17:02:28.092Z","character":"maviola-el","esoCharacterId":"8796093024330045","dueDate":"2026-03-12"}
+{"id":"019db533-f3b3-7576-9de1-4a3be20118df","completedAt":"2026-03-12T17:02:28.092Z","title":"Solstice Daily Delve","character":"maviola-el","esoCharacterId":"8796093024330045","dueDate":"2026-03-12"}
 {"id":"019db533-f3b3-7571-bdf7-03afc0f3075c","completedAt":"2026-03-12T17:02:29.652Z","task":"hireling-mails","character":"erin-solstice","esoCharacterId":"8796093022338107","dueDate":"2026-03-12"}

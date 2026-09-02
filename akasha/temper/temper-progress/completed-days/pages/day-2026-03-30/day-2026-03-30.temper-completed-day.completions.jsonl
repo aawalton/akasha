@@ -2,12 +2,12 @@
 {"id":"019db533-f3b3-7125-aa7c-8d426e4f339d","completedAt":"2026-03-30T18:44:46.000Z","task":"antiquity-lore","character":"erin-solstice","esoCharacterId":"8796093022338107","dueDate":"2026-03-30"}
 {"id":"019db533-f3b3-711b-9f6f-8ca9339f3cea","completedAt":"2026-03-30T18:44:46.000Z","task":"antiquity-leads-motifs","character":"erin-solstice","esoCharacterId":"8796093022338107","dueDate":"2026-03-30"}
 {"id":"019db533-f3b3-711f-a563-9ea61bd72a6f","completedAt":"2026-03-30T18:44:49.000Z","task":"undaunted-skill-line","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-30"}
-{"id":"019db533-f3b3-710c-9ec6-05834ab449ed","completedAt":"2026-03-30T19:29:57.000Z","character":"yvlon-byres","esoCharacterId":"8796093041077507","dueDate":"2026-03-30"}
-{"id":"019db533-f3b3-7116-9330-64909e4d8769","completedAt":"2026-03-30T19:30:07.406Z","dueDate":"2026-03-30"}
-{"id":"019db533-f3b3-7111-8539-332085f64e00","completedAt":"2026-03-30T19:30:08.120Z","character":"ceria-springwater","esoCharacterId":"8796093045974297","dueDate":"2026-03-30"}
+{"id":"019db533-f3b3-710c-9ec6-05834ab449ed","completedAt":"2026-03-30T19:29:57.000Z","title":"Signature Script Daily Quests","character":"yvlon-byres","esoCharacterId":"8796093041077507","dueDate":"2026-03-30"}
+{"id":"019db533-f3b3-7116-9330-64909e4d8769","completedAt":"2026-03-30T19:30:07.406Z","title":"Dev Tracker","dueDate":"2026-03-30"}
+{"id":"019db533-f3b3-7111-8539-332085f64e00","completedAt":"2026-03-30T19:30:08.120Z","title":"Jester's Festival Daily Quest","character":"ceria-springwater","esoCharacterId":"8796093045974297","dueDate":"2026-03-30"}
 {"id":"019db533-f3b3-7107-aeea-b2e310ee6f12","completedAt":"2026-03-30T20:28:38.000Z","task":"dark-brotherhood-skill-line","dueDate":"2026-03-30"}
 {"id":"019db533-f3b3-7101-93cf-7cea0d45d81d","completedAt":"2026-03-30T20:57:53.000Z","task":"crafting-writs","dueDate":"2026-03-30"}
-{"id":"019db533-f3b3-70fc-aa1a-6a93e31f3fc0","completedAt":"2026-03-30T21:07:39.000Z","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-30"}
+{"id":"019db533-f3b3-70fc-aa1a-6a93e31f3fc0","completedAt":"2026-03-30T21:07:39.000Z","title":"Affix Script Daily Quests","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-30"}
 {"id":"019db533-f3b3-70f2-8c80-6d4a6eece021","completedAt":"2026-03-30T21:16:11.000Z","task":"legerdemain-skill-line","character":"archmage-amerys","esoCharacterId":"8796093038720681","dueDate":"2026-03-30"}
 {"id":"019db533-f3b3-70f7-bd06-c339fe5b3231","completedAt":"2026-03-30T21:28:59.000Z","task":"thieves-guild-skill-line","character":"archmage-amerys","esoCharacterId":"8796093038720681","dueDate":"2026-03-30"}
 {"id":"019db533-f3b3-70ed-8d51-c57d44d18cb0","completedAt":"2026-03-30T21:48:28.634Z","task":"hireling-mails","character":"erin-solstice","esoCharacterId":"8796093022338107","dueDate":"2026-03-30"}

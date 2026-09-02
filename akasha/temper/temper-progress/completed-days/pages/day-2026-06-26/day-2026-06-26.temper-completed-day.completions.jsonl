@@ -7,8 +7,8 @@
 {"id":"019f0143-e733-7d49-aed7-96b24c8502e3","completedAt":"2026-06-26T00:10:55.057Z","task":"lorebooks","character":"erin-solstice","dueDate":"2026-06-25","completionCardId":"lore-library-character"}
 {"id":"019f0143-ef12-7504-920c-e831014db3b0","completedAt":"2026-06-26T00:10:57.061Z","task":"skill-morphs","character":"archmage-amerys","dueDate":"2026-06-25","completionCardId":"skill-morphs"}
 {"id":"019f014f-6899-76f6-8187-08651777df08","completedAt":"2026-06-26T00:23:27.887Z","task":"crafting-writs","character":"belavierr","dueDate":"2026-06-25","completionCardId":"daily-writs"}
-{"id":"019f016e-8ea3-7525-aa9e-f8c1f4fb13a0","completedAt":"2026-06-26T00:57:28.305Z","character":"erin-solstice","dueDate":"2026-06-25"}
-{"id":"019f0397-3dba-7903-b3ac-0ecad1000a72","completedAt":"2026-06-26T11:01:10.320Z","character":"the-death-of-chains","dueDate":"2026-06-26"}
+{"id":"019f016e-8ea3-7525-aa9e-f8c1f4fb13a0","completedAt":"2026-06-26T00:57:28.305Z","title":"Master Writs — Zeal of Zenithar (1 epic box per discipline)","character":"erin-solstice","dueDate":"2026-06-25"}
+{"id":"019f0397-3dba-7903-b3ac-0ecad1000a72","completedAt":"2026-06-26T11:01:10.320Z","title":"Honest Toil — Zeal of Zenithar (300 Trade Bars)","character":"the-death-of-chains","dueDate":"2026-06-26"}
 {"id":"019f0422-033f-77b6-934f-81ea5b2e86d0","completedAt":"2026-06-26T13:24:44.000Z","task":"lorebooks","character":"erin-solstice","dueDate":"2026-06-26","completionCardId":"lore-library-character"}
 {"id":"019f0443-825f-7aa6-aa97-75a5214a41df","completedAt":"2026-06-26T14:08:24.000Z","task":"thieves-guild-skill-line","character":"mrsha-du-marquin","dueDate":"2026-06-26","completionCardId":"skill-lines","completionItemPath":["117"]}
 {"id":"019f0446-3490-7111-9c2a-2e1e7b3097ca","completedAt":"2026-06-26T14:11:47.000Z","task":"legerdemain-skill-line","character":"yvlon-byres","dueDate":"2026-06-26","completionCardId":"skill-lines","completionItemPath":["111"]}

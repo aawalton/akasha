@@ -1,13 +1,13 @@
-{"id":"019db533-f3b3-774d-bcf6-0a0ac47d781e","completedAt":"2026-03-07T13:52:19.749Z","dueDate":"2026-03-07"}
-{"id":"019db533-f3b3-7749-9e7d-4f937d5b09e0","completedAt":"2026-03-07T14:55:06.529Z","character":"yvlon-byres","esoCharacterId":"8796093041077507","dueDate":"2026-03-07"}
+{"id":"019db533-f3b3-774d-bcf6-0a0ac47d781e","completedAt":"2026-03-07T13:52:19.749Z","title":"Dev Tracker","dueDate":"2026-03-07"}
+{"id":"019db533-f3b3-7749-9e7d-4f937d5b09e0","completedAt":"2026-03-07T14:55:06.529Z","title":"Signature Script Daily Quests","character":"yvlon-byres","esoCharacterId":"8796093041077507","dueDate":"2026-03-07"}
 {"id":"019db533-f3b3-7743-b896-ee70e7702b0f","completedAt":"2026-03-07T14:55:14.424Z","task":"undaunted-skill-line","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-07"}
 {"id":"019db533-f3b3-773e-939a-591d8b7df703","completedAt":"2026-03-07T17:20:34.788Z","task":"hireling-mails","character":"erin-solstice","esoCharacterId":"8796093022338107","dueDate":"2026-03-07"}
 {"id":"019db533-f3b3-7739-9e06-ac6db985667c","completedAt":"2026-03-07T17:20:36.347Z","task":"crafting-writs","dueDate":"2026-03-07"}
 {"id":"019db533-f3b3-7734-bc8d-fc9c26b9e913","completedAt":"2026-03-07T19:45:36.305Z","task":"thieves-guild-skill-line","character":"archmage-amerys","esoCharacterId":"8796093038720681","dueDate":"2026-03-07"}
 {"id":"019db533-f3b3-772f-9b01-2374fa04deb8","completedAt":"2026-03-07T19:45:38.699Z","task":"dark-brotherhood-skill-line","dueDate":"2026-03-07"}
 {"id":"019db533-f3b3-772a-84ed-ae0f3434bd6b","completedAt":"2026-03-07T19:45:39.776Z","task":"legerdemain-skill-line","character":"archmage-amerys","esoCharacterId":"8796093038720681","dueDate":"2026-03-07"}
-{"id":"019db533-f3b3-7725-b284-60f0671c763c","completedAt":"2026-03-07T19:45:48.291Z","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-07"}
+{"id":"019db533-f3b3-7725-b284-60f0671c763c","completedAt":"2026-03-07T19:45:48.291Z","title":"Affix Script Daily Quests","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-07"}
 {"id":"019db533-f3b3-7720-bde0-28888cac4415","completedAt":"2026-03-07T19:58:15.413Z","task":"dragonguard-daily-quests","character":"serafierre","esoCharacterId":"8796093022859597","dueDate":"2026-03-07"}
-{"id":"019db533-f3b3-771c-a93b-9b05d1e1b886","completedAt":"2026-03-07T21:01:44.732Z","character":"maviola-el","esoCharacterId":"8796093024330045","dueDate":"2026-03-07"}
+{"id":"019db533-f3b3-771c-a93b-9b05d1e1b886","completedAt":"2026-03-07T21:01:44.732Z","title":"Solstice Daily Delve","character":"maviola-el","esoCharacterId":"8796093024330045","dueDate":"2026-03-07"}
 {"id":"019db533-f3b3-7717-a54d-138c35cb824d","completedAt":"2026-03-07T21:01:44.841Z","task":"skill-morphs","dueDate":"2026-03-07"}
 {"id":"019db533-f3b3-7712-860a-e0321786135d","completedAt":"2026-03-07T21:01:44.858Z","task":"cadwell-s-almanac","character":"nirayicel","esoCharacterId":"8796093041077613","dueDate":"2026-03-07"}

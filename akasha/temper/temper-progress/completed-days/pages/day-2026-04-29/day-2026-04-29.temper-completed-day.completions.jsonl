@@ -1,5 +1,5 @@
 {"id":"019dda20-c62c-70c9-94e4-b81b0c7feb38","completedAt":"2026-04-29T11:34:51.000Z","task":"antiquity-lore","character":"erin-solstice","esoCharacterId":"8796093022338107","dueDate":"2026-04-04","completionCardId":"antiquity-lore"}
 {"id":"019dda20-c8e0-78c5-b031-4050f85ad862","completedAt":"2026-04-29T11:34:51.000Z","task":"antiquity-leads-motifs","character":"erin-solstice","esoCharacterId":"8796093022338107","dueDate":"2026-04-04","completionCardId":"antiquity-leads-motifs"}
 {"id":"019dda20-ce60-73e9-87ec-cb167931734e","completedAt":"2026-04-29T11:34:51.000Z","task":"antiquity-leads-legendary","character":"erin-solstice","esoCharacterId":"8796093022338107","dueDate":"2026-04-04","completionCardId":"antiquity-leads-legendary"}
-{"id":"019dda20-cb92-7a73-ba76-1f3e05ce5b26","completedAt":"2026-04-29T12:23:41.000Z","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-04-04","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
-{"id":"019dda32-809c-74ac-a343-30299cb29937","completedAt":"2026-04-29T17:03:52.507Z","dueDate":"2026-04-04"}
+{"id":"019dda20-cb92-7a73-ba76-1f3e05ce5b26","completedAt":"2026-04-29T12:23:41.000Z","title":"Affix Script Daily Quests","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-04-04","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
+{"id":"019dda32-809c-74ac-a343-30299cb29937","completedAt":"2026-04-29T17:03:52.507Z","title":"Dev Tracker","dueDate":"2026-04-04"}

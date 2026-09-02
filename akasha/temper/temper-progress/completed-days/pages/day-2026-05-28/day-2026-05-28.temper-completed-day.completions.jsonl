@@ -1,6 +1,6 @@
 {"id":"019e6e93-1953-7775-ad95-733cabbf3f93","completedAt":"2026-05-28T12:31:01.000Z","task":"antiquity-leads-motifs","character":"erin-solstice","dueDate":"2026-05-28","completionCardId":"antiquity-leads-motifs"}
-{"id":"019e6e98-704f-7461-a792-28190fcfed59","completedAt":"2026-05-28T12:39:01.595Z","character":"erin-solstice","dueDate":"2026-05-28"}
-{"id":"019e6edf-76f3-73e2-bc79-aaf46b7a1ab4","completedAt":"2026-05-28T13:56:19.000Z","character":"khelta-the-eternal","dueDate":"2026-05-28","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
+{"id":"019e6e98-704f-7461-a792-28190fcfed59","completedAt":"2026-05-28T12:39:01.595Z","title":"Dev Tracker","character":"erin-solstice","dueDate":"2026-05-28"}
+{"id":"019e6edf-76f3-73e2-bc79-aaf46b7a1ab4","completedAt":"2026-05-28T13:56:19.000Z","title":"Affix Script Daily Quests","character":"khelta-the-eternal","dueDate":"2026-05-28","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
 {"id":"019e6f07-4e2c-7c8a-92dd-33673d67da2b","completedAt":"2026-05-28T14:39:34.000Z","task":"undaunted-skill-line","character":"ceria-springwater","dueDate":"2026-05-28","completionCardId":"skill-lines","completionItemPath":["55"]}
 {"id":"019e6f24-78c1-78fd-a614-83a0724dae09","completedAt":"2026-05-28T15:09:50.000Z","task":"legerdemain-skill-line","character":"durene-faerise","dueDate":"2026-05-28","completionCardId":"skill-lines","completionItemPath":["111"]}
 {"id":"019e6f24-79b7-7a2d-8693-af9ca3e365aa","completedAt":"2026-05-28T15:11:31.000Z","task":"dark-brotherhood-skill-line","character":"durene-faerise","dueDate":"2026-05-28","completionCardId":"skill-lines","completionItemPath":["118"]}
@@ -10,4 +10,4 @@
 {"id":"019e6f74-2a74-76b2-ad8d-03a64f8ca4ee","completedAt":"2026-05-28T16:34:13.000Z","task":"companion-rapport","character":"maviola-el","dueDate":"2026-05-28","completionCardId":"companion-rapport-character"}
 {"id":"019e6f7e-869b-70c7-9c77-a731f692261f","completedAt":"2026-05-28T16:49:32.000Z","task":"lorebooks","character":"erin-solstice","dueDate":"2026-05-27","completionCardId":"lore-library-character"}
 {"id":"019e6fdb-8a99-7a97-ade6-2f9d2ec4943c","completedAt":"2026-05-28T18:31:56.563Z","task":"skill-morphs","character":"erin-solstice","dueDate":"2026-05-28","completionCardId":"skill-morphs"}
-{"id":"019e6fdb-960c-7322-9e00-095c93dafde5","completedAt":"2026-05-28T18:31:59.346Z","dueDate":"2026-05-28","completionCardId":"scribing-knowledge","completionItemPath":["scripts","signatureScripts"]}
+{"id":"019e6fdb-960c-7322-9e00-095c93dafde5","completedAt":"2026-05-28T18:31:59.346Z","title":"Signature Script Daily Quests","dueDate":"2026-05-28","completionCardId":"scribing-knowledge","completionItemPath":["scripts","signatureScripts"]}

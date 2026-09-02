@@ -1,8 +1,8 @@
 {"id":"019e2217-49a9-7120-9fe7-bcc6cccd373f","completedAt":"2026-05-13T14:54:40.000Z","task":"antiquity-leads-motifs","character":"erin-solstice","dueDate":"2026-05-13","completionCardId":"antiquity-leads-motifs"}
-{"id":"019e2217-4884-7b3a-b139-3aef0ee721b8","completedAt":"2026-05-13T15:25:52.000Z","character":"belavierr","dueDate":"2026-05-13","completionCardId":"scribing-knowledge","completionItemPath":["scripts","signatureScripts"]}
-{"id":"019e2217-48e8-7cfb-b7ad-bc0c4e0514f3","completedAt":"2026-05-13T15:45:03.000Z","character":"seraphel-du-marquin","dueDate":"2026-05-13","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
+{"id":"019e2217-4884-7b3a-b139-3aef0ee721b8","completedAt":"2026-05-13T15:25:52.000Z","title":"Signature Script Daily Quests","character":"belavierr","dueDate":"2026-05-13","completionCardId":"scribing-knowledge","completionItemPath":["scripts","signatureScripts"]}
+{"id":"019e2217-48e8-7cfb-b7ad-bc0c4e0514f3","completedAt":"2026-05-13T15:45:03.000Z","title":"Affix Script Daily Quests","character":"seraphel-du-marquin","dueDate":"2026-05-13","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
 {"id":"019e2217-494c-752c-870a-60d483c65215","completedAt":"2026-05-13T16:03:50.000Z","task":"undaunted-skill-line","character":"ceria-springwater","dueDate":"2026-05-13","completionCardId":"skill-lines","completionItemPath":["55"]}
-{"id":"019e2216-6c95-7d2d-b02c-668bd78adcd5","completedAt":"2026-05-13T16:05:53.015Z","character":"erin-solstice","dueDate":"2026-05-12"}
+{"id":"019e2216-6c95-7d2d-b02c-668bd78adcd5","completedAt":"2026-05-13T16:05:53.015Z","title":"Dev Tracker","character":"erin-solstice","dueDate":"2026-05-12"}
 {"id":"019e2238-5e6f-7a5e-bd56-0a662b79d33f","completedAt":"2026-05-13T16:28:39.000Z","task":"thieves-guild-skill-line","character":"yvlon-byres","dueDate":"2026-05-13","completionCardId":"skill-lines","completionItemPath":["117"]}
 {"id":"019e22b2-52b4-7bcc-8e03-2914683b6fbd","completedAt":"2026-05-13T18:56:09.760Z","task":"lorebooks","character":"erin-solstice","dueDate":"2026-05-13","completionCardId":"lore-library-character"}
 {"id":"019e22b2-5915-72c7-b387-a32f5e79be97","completedAt":"2026-05-13T18:56:11.451Z","task":"companion-quests","character":"erin-solstice","dueDate":"2026-05-12","completionCardId":"companion-quests"}
@@ -16,4 +16,4 @@
 {"id":"019e22ed-f1d4-72ab-ac01-448f3c5c7bce","completedAt":"2026-05-13T19:58:53.000Z","task":"dragonguard-daily-quests","character":"archmage-amerys","dueDate":"2026-05-13","completionCardId":"character-achievements","completionItemPath":["34","2","2612"]}
 {"id":"019e23f7-de3f-776e-bbca-9bc08d424725","completedAt":"2026-05-13T23:41:59.000Z","task":"antiquity-lore","character":"erin-solstice","dueDate":"2026-05-13","completionCardId":"antiquity-lore"}
 {"id":"019e23f7-de64-7cf0-ba1d-939797f6535a","completedAt":"2026-05-13T23:52:54.000Z","task":"antiquity-leads-legendary","character":"erin-solstice","dueDate":"2026-05-13","completionCardId":"antiquity-leads-legendary"}
-{"id":"019e23f7-de57-710d-a737-b216d894b4d5","completedAt":"2026-05-13T23:56:47.000Z","character":"erin-solstice","dueDate":"2026-05-12","completionCardId":"account-achievements","completionItemPath":["8","4","4510"]}
+{"id":"019e23f7-de57-710d-a737-b216d894b4d5","completedAt":"2026-05-13T23:56:47.000Z","title":"Market Manipulator","character":"erin-solstice","dueDate":"2026-05-12","completionCardId":"account-achievements","completionItemPath":["8","4","4510"]}

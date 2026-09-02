@@ -1,17 +1,17 @@
-{"id":"019db533-f3b3-77f9-b1f7-7976a7b6f551","completedAt":"2026-03-05T12:48:43.137Z","dueDate":"2026-03-05"}
-{"id":"019db533-f3b3-77f4-b9f5-55b617d9081e","completedAt":"2026-03-05T12:48:56.140Z","dueDate":"2026-03-05"}
-{"id":"019db533-f3b3-77ef-bf90-01f7732c8789","completedAt":"2026-03-05T12:53:31.860Z","dueDate":"2026-03-06"}
-{"id":"019db533-f3b3-77ea-98f1-4e00ba490fcc","completedAt":"2026-03-05T13:07:20.554Z","dueDate":"2026-03-06"}
-{"id":"019db533-f3b3-77e5-8366-747e0b03be58","completedAt":"2026-03-05T13:48:58.726Z","dueDate":"2026-03-05"}
+{"id":"019db533-f3b3-77f9-b1f7-7976a7b6f551","completedAt":"2026-03-05T12:48:43.137Z","title":"Dev Tracker","dueDate":"2026-03-05"}
+{"id":"019db533-f3b3-77f4-b9f5-55b617d9081e","completedAt":"2026-03-05T12:48:56.140Z","title":"Dev Tracker","dueDate":"2026-03-05"}
+{"id":"019db533-f3b3-77ef-bf90-01f7732c8789","completedAt":"2026-03-05T12:53:31.860Z","title":"Dev Tracker","dueDate":"2026-03-06"}
+{"id":"019db533-f3b3-77ea-98f1-4e00ba490fcc","completedAt":"2026-03-05T13:07:20.554Z","title":"Dev Tracker","dueDate":"2026-03-06"}
+{"id":"019db533-f3b3-77e5-8366-747e0b03be58","completedAt":"2026-03-05T13:48:58.726Z","title":"Dev Tracker","dueDate":"2026-03-05"}
 {"id":"019db533-f3b3-77e0-bac5-71806d6387b1","completedAt":"2026-03-05T13:57:43.192Z","task":"hireling-mails","character":"erin-solstice","esoCharacterId":"8796093022338107"}
-{"id":"019db533-f3b3-77db-8c30-5e0e3adc094b","completedAt":"2026-03-05T14:27:19.606Z","character":"maviola-el","esoCharacterId":"8796093024330045","dueDate":"2026-03-05"}
+{"id":"019db533-f3b3-77db-8c30-5e0e3adc094b","completedAt":"2026-03-05T14:27:19.606Z","title":"Necrom Daily Delve","character":"maviola-el","esoCharacterId":"8796093024330045","dueDate":"2026-03-05"}
 {"id":"019db533-f3b3-77d6-867d-76cc884af80c","completedAt":"2026-03-05T15:06:34.756Z","task":"crafting-writs"}
 {"id":"019db533-f3b3-77d1-bfc0-83ff9bd418d5","completedAt":"2026-03-05T15:35:19.727Z","task":"undaunted-skill-line","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-05"}
-{"id":"019db533-f3b3-77cc-b7ea-b6dfdf2a84ce","completedAt":"2026-03-05T15:35:20.931Z","character":"yvlon-byres","esoCharacterId":"8796093041077507","dueDate":"2026-03-05"}
-{"id":"019db533-f3b3-77c7-a5b2-82a62c19d2f9","completedAt":"2026-03-05T17:35:55.124Z","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-05"}
+{"id":"019db533-f3b3-77cc-b7ea-b6dfdf2a84ce","completedAt":"2026-03-05T15:35:20.931Z","title":"Signature Script Daily Quests","character":"yvlon-byres","esoCharacterId":"8796093041077507","dueDate":"2026-03-05"}
+{"id":"019db533-f3b3-77c7-a5b2-82a62c19d2f9","completedAt":"2026-03-05T17:35:55.124Z","title":"Affix Script Daily Quests","character":"lyonette-du-marquin","esoCharacterId":"8796093025190173","dueDate":"2026-03-05"}
 {"id":"019db533-f3b3-77c2-bacc-d8a33eecb6ed","completedAt":"2026-03-05T18:59:08.096Z","task":"thieves-guild-skill-line","character":"archmage-amerys","esoCharacterId":"8796093038720681","dueDate":"2026-03-05"}
 {"id":"019db533-f3b3-77bd-837e-54adeb512446","completedAt":"2026-03-05T18:59:10.056Z","task":"legerdemain-skill-line","character":"archmage-amerys","esoCharacterId":"8796093038720681","dueDate":"2026-03-05"}
 {"id":"019db533-f3b3-77b8-b167-fe450c78bab3","completedAt":"2026-03-05T19:11:18.149Z","task":"dark-brotherhood-skill-line","dueDate":"2026-03-05"}
-{"id":"019db533-f3b3-77b3-8841-84a2f6b0c494","completedAt":"2026-03-05T19:24:38.780Z","character":"maviola-el","esoCharacterId":"8796093024330045","dueDate":"2026-03-05"}
+{"id":"019db533-f3b3-77b3-8841-84a2f6b0c494","completedAt":"2026-03-05T19:24:38.780Z","title":"Solstice Daily Delve","character":"maviola-el","esoCharacterId":"8796093024330045","dueDate":"2026-03-05"}
 {"id":"019db533-f3b3-77af-a38b-220a81418351","completedAt":"2026-03-05T20:02:34.419Z","task":"dragonguard-daily-quests","character":"serafierre","esoCharacterId":"8796093022859597","dueDate":"2026-03-05"}
 {"id":"019db533-f3b3-77aa-94ad-b20cc982afa2","completedAt":"2026-03-05T23:14:38.783Z","task":"cadwell-s-almanac","character":"nirayicel","esoCharacterId":"8796093041077613","dueDate":"2026-03-05"}

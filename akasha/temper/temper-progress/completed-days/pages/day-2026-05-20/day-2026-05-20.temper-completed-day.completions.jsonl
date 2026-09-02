@@ -1,9 +1,9 @@
 {"id":"019e44e5-df4a-72ae-903b-c8722bb2e253","completedAt":"2026-05-20T10:17:22.000Z","task":"antiquity-leads-motifs","character":"erin-solstice","dueDate":"2026-05-19","completionCardId":"antiquity-leads-motifs"}
-{"id":"019e45a4-c4bc-7d78-955d-72fddf1e48ca","completedAt":"2026-05-20T13:32:16.000Z","character":"the-death-of-magic","dueDate":"2026-05-19","completionCardId":"scribing-knowledge","completionItemPath":["scripts","signatureScripts"]}
-{"id":"019e45b5-3e53-796b-936a-4119cf71efb4","completedAt":"2026-05-20T14:05:46.000Z","character":"khelta-the-eternal","dueDate":"2026-05-19","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
+{"id":"019e45a4-c4bc-7d78-955d-72fddf1e48ca","completedAt":"2026-05-20T13:32:16.000Z","title":"Signature Script Daily Quests","character":"the-death-of-magic","dueDate":"2026-05-19","completionCardId":"scribing-knowledge","completionItemPath":["scripts","signatureScripts"]}
+{"id":"019e45b5-3e53-796b-936a-4119cf71efb4","completedAt":"2026-05-20T14:05:46.000Z","title":"Affix Script Daily Quests","character":"khelta-the-eternal","dueDate":"2026-05-19","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
 {"id":"019e45b5-f867-7cc0-ae1d-7d92a43647be","completedAt":"2026-05-20T14:06:51.624Z","task":"crafting-writs","character":"the-death-of-chains","dueDate":"2026-05-19","completionCardId":"daily-writs"}
 {"id":"019e45b8-25d0-7546-81bf-1512235187ff","completedAt":"2026-05-20T14:09:14.456Z","task":"hireling-mails","character":"erin-solstice","dueDate":"2026-05-18"}
-{"id":"019e45b8-290e-7032-b9db-7ec84e70bb50","completedAt":"2026-05-20T14:09:15.295Z","character":"erin-solstice","dueDate":"2026-05-19"}
+{"id":"019e45b8-290e-7032-b9db-7ec84e70bb50","completedAt":"2026-05-20T14:09:15.295Z","title":"Dev Tracker","character":"erin-solstice","dueDate":"2026-05-19"}
 {"id":"019e45b8-2e95-7340-8dca-5e765c4dbd4f","completedAt":"2026-05-20T14:09:16.709Z","task":"infinite-archive-weekly-leaderboard","character":"erin-solstice","dueDate":"2026-05-19"}
 {"id":"019e45b8-381a-7de9-937f-a072b8b0608b","completedAt":"2026-05-20T14:09:19.148Z","task":"lorebooks","character":"erin-solstice","dueDate":"2026-05-19","completionCardId":"lore-library-character"}
 {"id":"019e45b8-3df8-7d21-bc8d-8f2d306bb400","completedAt":"2026-05-20T14:09:20.650Z","task":"companion-quests","character":"erin-solstice","dueDate":"2026-05-19","completionCardId":"companion-quests"}

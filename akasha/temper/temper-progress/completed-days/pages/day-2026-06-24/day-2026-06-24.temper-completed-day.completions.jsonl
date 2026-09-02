@@ -14,7 +14,7 @@
 {"id":"019ef956-617f-75f0-90ff-27e1835abefa","completedAt":"2026-06-24T11:13:10.000Z","task":"legerdemain-skill-line","character":"yvlon-byres","dueDate":"2026-06-24","completionCardId":"skill-lines","completionItemPath":["111"]}
 {"id":"019ef963-e68f-7a54-a563-7b4c9873577f","completedAt":"2026-06-24T11:27:43.000Z","task":"dark-brotherhood-skill-line","character":"lyonette-du-marquin","dueDate":"2026-06-25","completionCardId":"skill-lines","completionItemPath":["118"]}
 {"id":"019ef969-c609-7a98-83b7-0dffe7e3542f","completedAt":"2026-06-24T11:30:47.000Z","task":"dragonguard-daily-quests","character":"lyonette-du-marquin","dueDate":"2026-06-24","completionCardId":"character-achievements","completionItemPath":["Dragonhold","Quests","2612"]}
-{"id":"019ef96b-6928-713d-ba3c-94a093efab0f","completedAt":"2026-06-24T11:36:42.241Z","character":"erin-solstice","dueDate":"2026-06-24"}
+{"id":"019ef96b-6928-713d-ba3c-94a093efab0f","completedAt":"2026-06-24T11:36:42.241Z","title":"Dev Tracker","character":"erin-solstice","dueDate":"2026-06-24"}
 {"id":"019ef96b-6ac7-7061-ac26-ff3ef97ee5a1","completedAt":"2026-06-24T11:36:54.508Z","task":"cadwell-s-almanac","character":"mrsha-du-marquin","dueDate":"2026-06-24","completionCardId":"cadwells-almanac"}
 {"id":"019ef96b-6b28-713e-9912-a977448287e1","completedAt":"2026-06-24T11:36:55.909Z","task":"lorebooks","character":"erin-solstice","dueDate":"2026-06-24","completionCardId":"lore-library-character"}
 {"id":"019ef96b-6b3d-74a8-9eb2-d4cfe45e0831","completedAt":"2026-06-24T11:36:57.032Z","task":"infinite-archive-weekly-leaderboard","character":"erin-solstice","dueDate":"2026-06-24"}

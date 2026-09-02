@@ -9,9 +9,9 @@
 {"id":"019e8905-b422-74e6-a0e3-10b3a507dcdf","completedAt":"2026-06-02T15:11:12.000Z","task":"hireling-mails","character":"erin-solstice","dueDate":"2026-06-03","completionCardId":"hireling-mails"}
 {"id":"019e8905-b2d4-7f86-94d8-c1c78d224b53","completedAt":"2026-06-02T15:12:33.000Z","task":"crafting-writs","dueDate":"2026-06-03","completionCardId":"daily-writs"}
 {"id":"019e8905-b1e9-72cd-8936-941cabf24064","completedAt":"2026-06-02T15:23:42.000Z","task":"dragonguard-daily-quests","character":"durene-faerise","dueDate":"2026-06-03","completionCardId":"character-achievements","completionItemPath":["Dragonhold","Quests","2612"]}
-{"id":"019e88f6-5fa7-701a-9aea-0fdca06470d3","completedAt":"2026-06-02T15:31:48.014Z","character":"the-death-of-magic","dueDate":"2026-06-02","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
+{"id":"019e88f6-5fa7-701a-9aea-0fdca06470d3","completedAt":"2026-06-02T15:31:48.014Z","title":"Affix Script Daily Quests","character":"the-death-of-magic","dueDate":"2026-06-02","completionCardId":"scribing-knowledge","completionItemPath":["scripts","affixScripts"]}
 {"id":"019e88f6-7d9a-70a2-a6bf-c8091f6fba0b","completedAt":"2026-06-02T15:31:55.844Z","task":"dragonguard-daily-quests","character":"archmage-amerys","dueDate":"2026-06-02","completionCardId":"character-achievements","completionItemPath":["Dragonhold","Quests","2612"]}
-{"id":"019e88f6-db48-727e-bfd4-9e0b62c0d205","completedAt":"2026-06-02T15:32:16.120Z","character":"erin-solstice","dueDate":"2026-06-02"}
+{"id":"019e88f6-db48-727e-bfd4-9e0b62c0d205","completedAt":"2026-06-02T15:32:16.120Z","title":"Dev Tracker","character":"erin-solstice","dueDate":"2026-06-02"}
 {"id":"019e88f6-db3d-71da-9ebf-1966774675db","completedAt":"2026-06-02T15:32:17.907Z","task":"infinite-archive-weekly-leaderboard","character":"erin-solstice","dueDate":"2026-06-02"}
 {"id":"019e88f6-efc5-7de8-8708-3610b7e79d1f","completedAt":"2026-06-02T15:32:25.072Z","task":"manage-guild-sales","character":"erin-solstice","dueDate":"2026-06-02","completionCardId":"guild-sales"}
 {"id":"019e88f7-09bc-7c8d-a865-018e68e8038c","completedAt":"2026-06-02T15:32:31.723Z","task":"hireling-mails","character":"erin-solstice","dueDate":"2026-06-02","completionCardId":"hireling-mails"}
