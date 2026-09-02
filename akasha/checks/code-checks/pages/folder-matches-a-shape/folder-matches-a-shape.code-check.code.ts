@@ -2,13 +2,19 @@ import { createRequire } from "node:module"
 import { basename, join } from "node:path"
 import { NAMING_NONE, type Naming } from "@akasha/code-system/code-specifier"
 import type { Answering } from "@akasha/indexes/answering"
-import { pathsOf } from "@akasha/indexes/entries"
+import { claimsOf } from "@akasha/indexes/entries"
 import { edgesIn } from "@akasha/indexes/import"
 import { reachingIn } from "@akasha/indexes/package-reaching"
 import type { Known } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages-system/change"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
-import { besideAt, type Held, heldIn, namedIn } from "@akasha/pages-system/page-file-name"
+import {
+  besideAt,
+  type Held,
+  heldIn,
+  namedIn,
+  uncommittedAt,
+} from "@akasha/pages-system/page-file-name"
 import { textAt } from "@akasha/pages-system/page-value"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import {
@@ -298,7 +304,9 @@ export function partsOver(
     if (page.slug === null || page.pageTypeSlug === null) return [page.path]
     const value = index.pageAt(page.pageTypeSlug, page.slug)
     if (value === null) return [page.path]
-    return pathsOf(value, page.path, root, stated)
+    const held = uncommittedAt(page.path)
+    const claimed = claimsOf(value, page.path, root, stated)
+    return held === null ? claimed : [...claimed, held]
   }
 }
 

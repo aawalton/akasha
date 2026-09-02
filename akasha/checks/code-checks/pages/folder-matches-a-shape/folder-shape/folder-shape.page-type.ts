@@ -148,6 +148,10 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A file held beside a page under a reserved tail is a part of that page too.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page carrying files beside that page stands alone in a folder.",
     },
     {

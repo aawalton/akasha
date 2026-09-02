@@ -31,6 +31,11 @@ export const aPageWithItsParts = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The secrets and the uncommitted values held beside the page are parts of the page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A subfolder named `modules` is a part of that page.",
     },
     {
