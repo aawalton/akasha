@@ -5,6 +5,7 @@ const SCRIPT_TYPES = ["focus", "signature", "affix"] as const
 
 const TIER_ACHIEVEMENT_SCHEMA = z
   .object({
+    id: z.string().optional(),
     achievementId: z.number().int().nonnegative(),
     name: z.string(),
   })
@@ -15,7 +16,7 @@ const SCRIBING_SOURCE_EAV_SCHEMA = z
     scriptType: z.enum(SCRIPT_TYPES),
     displayOrder: z.number().int().nonnegative(),
     tierAchievements: z.array(TIER_ACHIEVEMENT_SCHEMA),
-    zoneRefs: z.array(z.string()),
+    zoneSlugs: z.array(z.string()),
   })
   .strict()
 
@@ -31,7 +32,7 @@ interface ParsedScribingSource {
   label: string
   displayOrder: number
   achievements: readonly { achievementId: number; name: string }[]
-  zoneRefs: readonly string[]
+  zoneSlugs: readonly string[]
 }
 
 interface ZoneLookup {
@@ -47,14 +48,14 @@ function parseScribingSource(row: Page): ParsedScribingSource {
     scriptType: row.scriptType,
     displayOrder: row.displayOrder,
     tierAchievements: row.tierAchievements,
-    zoneRefs: row.zoneRefs,
+    zoneSlugs: row.zoneSlugs,
   })
   return {
     scriptType: eav.scriptType,
     label: row.title,
     displayOrder: eav.displayOrder,
     achievements: eav.tierAchievements,
-    zoneRefs: eav.zoneRefs,
+    zoneSlugs: eav.zoneSlugs,
   }
 }
 
@@ -64,21 +65,24 @@ function buildZoneLookup(zoneRows: readonly Page[]): ReadonlyMap<string, ZoneLoo
     if (row.title === null) {
       throw new Error(`temper-zone row ${row.id} has null title`)
     }
+    if (typeof row.slug !== "string") {
+      throw new Error(`temper-zone row ${row.id} has no slug`)
+    }
     const eav = ZONE_LOOKUP_SCHEMA.parse({ isDlc: row.isDlc, dropsScripts: row.dropsScripts })
-    out.set(row.id, { title: row.title, dropsScripts: eav.dropsScripts })
+    out.set(row.slug, { title: row.title, dropsScripts: eav.dropsScripts })
   }
   return out
 }
 
-function validateZoneRefs(
+function validateZoneSlugs(
   source: ParsedScribingSource,
-  zoneById: ReadonlyMap<string, ZoneLookup>
+  zoneBySlug: ReadonlyMap<string, ZoneLookup>
 ): undefined {
-  for (const zoneId of source.zoneRefs) {
-    const zone = zoneById.get(zoneId)
+  for (const zoneSlug of source.zoneSlugs) {
+    const zone = zoneBySlug.get(zoneSlug)
     if (zone === undefined) {
       throw new Error(
-        `temper-scribing-source ${source.label}: zoneRefs entry ${zoneId} is not a temper-zone row`
+        `temper-scribing-source ${source.label}: zoneSlugs entry ${zoneSlug} is not a temper-zone row`
       )
     }
     if (!zone.dropsScripts) {
@@ -100,9 +104,9 @@ export function generateTemperScribingSources(
   zoneRows: readonly Page[]
 ): string {
   const sources = sourceRows.map(parseScribingSource)
-  const zoneById = buildZoneLookup(zoneRows)
+  const zoneBySlug = buildZoneLookup(zoneRows)
 
-  for (const source of sources) validateZoneRefs(source, zoneById)
+  for (const source of sources) validateZoneSlugs(source, zoneBySlug)
 
   const sortedSources = [...sources].sort((a, b) => {
     const rankDelta = SCRIPT_TYPE_RANK[a.scriptType] - SCRIPT_TYPE_RANK[b.scriptType]

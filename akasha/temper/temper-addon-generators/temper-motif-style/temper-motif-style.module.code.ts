@@ -45,7 +45,10 @@ function buildScribingSourceLookup(
     if (row.title === null) {
       throw new Error(`temper-scribing-source row ${row.id} has null title`)
     }
-    out.set(row.id, { title: row.title })
+    if (typeof row.slug !== "string") {
+      throw new Error(`temper-scribing-source row ${row.id} has no slug`)
+    }
+    out.set(row.slug, { title: row.title })
   }
   return out
 }
