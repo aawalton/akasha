@@ -1,7 +1,6 @@
 import { dropPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import type { Judging } from "@akasha/checks/judging"
 import { said as gitSaid } from "@akasha/git/git-running"
-import { clashing } from "../body-merging/body-merging.module.code.ts"
 import { INSIDE } from "../change-freshness/change-freshness.module.code.ts"
 import { type Bodies, rebasedOnto } from "../drafting/drafting.module.code.ts"
 import { type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
@@ -62,6 +61,14 @@ function asReadOf(root: string, agentId: string, held: Bodies): readonly Reading
   return out
 }
 
+function recordedAsLanded(root: string, agentId: string, held: Bodies): undefined {
+  for (const [path, one] of held) {
+    if (one.body === null || !warranted(path)) continue
+    const oid = blobIdOf(BYTES.encode(one.body))
+    recordRead(root, agentId, { path, oid, seenAt: Date.now(), mechanicalOid: null })
+  }
+}
+
 export function applied(
   root: string,
   page: string,
@@ -77,16 +84,19 @@ export function applied(
   const head = gitSaid(root, ["rev-parse", "HEAD"]).trim()
   const said = rebasedOnto(root, head, patch)
   if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
-  const clashes = [...said.held].filter((one) => clashing(one[1].body)).map((one) => one[0])
-  if (clashes.length > 0) {
+  if (said.clashed.length > 0) {
     return {
-      refusals: [...clashes.map((one) => `${one} — the patch carries a conflict here`), CLASHED],
+      refusals: [
+        ...said.clashed.map((one) => `${one} — the patch carries a conflict here`),
+        CLASHED,
+      ],
     }
   }
   if (agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
   const done = landing(root, editsOf(said.held), message, judging, writer, head, asRead, [])
   if ("refusals" in done) return done
+  if (agentId !== null) recordedAsLanded(root, agentId, said.held)
   dropPatch(root, page)
   dropBlobs(root, at)
   return {

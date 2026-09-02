@@ -74,6 +74,14 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "A body an apply lands is recorded as read by the agent that called the apply.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent is never left owing a read of what that agent's own apply landed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A patch applied is taken away with the ref keeping the blobs of that patch.",
     },
     {

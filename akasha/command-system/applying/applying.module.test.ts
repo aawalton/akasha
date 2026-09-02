@@ -43,6 +43,10 @@ function refs(root: string): string {
   return gitSaid(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/patch"])
 }
 
+function headOid(root: string, path: string): string {
+  return gitSaid(root, ["rev-parse", `HEAD:${path}`]).trim()
+}
+
 test("a patch applied lands its bodies and takes the patch away", () => {
   const root = indexed()
   drafting(root)
@@ -51,6 +55,14 @@ test("a patch applied lands its bodies and takes the patch away", () => {
   expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
   expect(patchIn(root, PAGE)).toBeNull()
   expect(refs(root)).toBe("")
+})
+
+test("a body applied is recorded as read by the agent that applied it", () => {
+  const root = indexed()
+  drafting(root)
+  expect("refusals" in applied(root, PAGE, AGENT, "applied", ADMITS, null)).toBe(false)
+  expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
+  expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
 })
 
 test("an apply the gate refused leaves the patch where the patch is", () => {
@@ -72,9 +84,7 @@ test("a reading wiped away is recorded again for a path that did not move", () =
   drafting(root)
   expect(readingIn(root, AGENT, PAGE)).toBeNull()
   applied(root, PAGE, AGENT, "applied", REFUSES, null)
-  expect(readingIn(root, AGENT, PAGE)?.oid).toBe(
-    gitSaid(root, ["rev-parse", `HEAD:${PAGE}`]).trim()
-  )
+  expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
 })
 
 test("a patch carrying a conflict does not apply", () => {
