@@ -26,7 +26,7 @@ export const migrateAlanAndJennyToAkasha = {
     {
       statement: "The interior of Alan's site stands in akasha.",
       workingMemory:
-        "124 files now, from 128. `capacitor-bridge`, `api-origin`, `api-fetch` and `capacitor-cors` are four modules under `akasha/alan/web` at `e11669e66a` and `dc0ebc8f50`, and 11 of routes' 71 escapes went with them. Ordering is the only bar left, since this initiative already rules an outside dependency none: 60 of the 128 imported no interior file at all. 15 files carry `.server`, a build-time guard akasha's naming cannot spell. A `declare global` and prose in code are both refused.",
+        "124 files now, from 128: `capacitor-bridge`, `api-origin`, `api-fetch` and `capacitor-cors` landed under `akasha/alan/web` at `e11669e66a` and `dc0ebc8f50`, taking 11 of routes' 71 escapes. 60 of the 128 imported no interior file at all, so ordering is the only bar left. The real block is the `.server` marker, in finding `akasha-cannot-spell-the-server-marker`. It rules out `idle`, read as the clean next landing at 47 files: `idle/lib` carries 4 marked files.",
     },
     {
       statement:
