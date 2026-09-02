@@ -5,7 +5,7 @@ import type { JewelryEnchantId } from "./enchants/jewelry-enchants-data"
 import type { WeaponEnchantmentId } from "./enchants/weapon-enchants-data"
 import type { JewelryTypeId } from "@akasha/temper-equipment-kinds/jewelry-types"
 import type { EquipmentQualityId, EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import type { SetsAllId } from "./sets/sets-all-data"
+import type { SetId } from "@akasha/temper-equipment/set-ids"
 import type { ArmorTraitId } from "./traits/armor-traits-data"
 import type { JewelryTraitId } from "./traits/jewelry-traits-data"
 import type { WeaponTraitId } from "./traits/weapon-traits-data"
@@ -37,7 +37,7 @@ export interface StandardArmorItem {
   weight: StandardArmorWeightId
   trait: ArmorTraitId
   enchantment: ArmorEnchantId
-  set: SetsAllId
+  set: SetId
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   level?: ItemLevel
@@ -48,7 +48,7 @@ export interface ShieldItem {
   weight: "shield"
   trait: ArmorTraitId
   enchantment: ArmorEnchantId
-  set: SetsAllId
+  set: SetId
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   level?: ItemLevel
@@ -60,7 +60,7 @@ export interface JewelryItem {
   type: JewelryTypeId
   trait: JewelryTraitId
   enchantment: JewelryEnchantId
-  set: SetsAllId
+  set: SetId
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   level?: ItemLevel
@@ -71,7 +71,7 @@ export interface WeaponItem {
   trait: WeaponTraitId
   enchantment: WeaponEnchantmentId
   poison: PoisonId
-  set: SetsAllId
+  set: SetId
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   level?: ItemLevel

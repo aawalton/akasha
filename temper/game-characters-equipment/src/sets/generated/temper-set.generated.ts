@@ -10,14 +10,13 @@
  *
  * Codec invariant: `no-set` is sorted to index 0 by the generator so
  * `setsAll.ids` keeps the sentinel at the position the character
- * codec's `getSetId(index)` expects (see
- * `packages/temper/game/codec/CLAUDE.md` rule 1).
+ * codec's `getSetId(index)` expects.
  *
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
 
 import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
-import type { SetsAllTemplate } from "../sets-all-data"
+import type { SetsAllId, SetsAllTemplate } from "../sets-all-data"
 import type { SetCategoryId } from "../set-categories-data"
 
 const SETS_DATA = {
@@ -6400,11 +6399,11 @@ const SETS_DATA = {
   },
 } satisfies Record<string, SetsAllTemplate>
 
-// Explicit `DataFile<string, ...>` annotation prevents the TS native
-// compiler from serializing the full inferred per-key union once the
-// snapshot grows past ~255 rows (TS7056: "inferred type ... exceeds the
-// maximum length the compiler will serialize"). The widened key type is
-// equivalent to the `setsAll` consumer's annotation in
-// `sets-all-data.ts`.
-export const setsFromPages: DataFile<string, SetsAllTemplate, SetCategoryId> =
+// The named `SetsAllId` union keeps the TS native compiler from
+// serializing the full inferred per-key union once the snapshot grows
+// past ~255 rows (TS7056: "inferred type ... exceeds the maximum length
+// the compiler will serialize"). An explicit annotation is what TS7056
+// asks for, so widening this key back to `string` is not the repair;
+// widening it is what typed every set id as a bare string.
+export const setsFromPages: DataFile<SetsAllId, SetsAllTemplate, SetCategoryId> =
   createDataFile<SetsAllTemplate>()(SETS_DATA)

@@ -15,7 +15,7 @@ import type { PipelineStage } from "./types"
 function getSetInfo(
   item: ArmorSlotItem | JewelrySlotItem | WeaponSlotItem
 ): { setId: SetsAllId; quality: EquipmentQualityId } | null {
-  if (item.itemType === "empty" || item.data.set === "" || item.data.set === "no-set") {
+  if (item.itemType === "empty" || item.data.set === "no-set") {
     return null
   }
 

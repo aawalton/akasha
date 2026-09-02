@@ -1,4 +1,5 @@
 import { createDataFile, type DataFile } from "@akasha/utils-narrow/create-data-file"
+import type { SetId } from "@akasha/temper-equipment/set-ids"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { Effect } from "@akasha/temper-formula-framework/effect"
 import type { ArmorTypeId } from "@akasha/temper-equipment-kinds/armor-types"
@@ -34,7 +35,7 @@ interface SetBonus {
 }
 
 export interface SetsAllTemplate {
-  id: string
+  id: SetsAllId
   name: string
   subcategoryId: SetCategoryId
   valid: readonly EquipmentPattern[]
@@ -48,10 +49,10 @@ const SETS_ALL_DATA = {
   ...setsFromPages.data,
 } satisfies Record<string, SetsAllTemplate>
 
-export const setsAll: DataFile<string, SetsAllTemplate, SetCategoryId> =
+export const setsAll: DataFile<SetsAllId, SetsAllTemplate, SetCategoryId> =
   createDataFile<SetsAllTemplate>()(SETS_ALL_DATA)
 
-export type SetsAllId = (typeof setsAll.ids)[number]
+export type SetsAllId = SetId
 
 export type SetsAll = SetsAllTemplate & { id: SetsAllId }
 
