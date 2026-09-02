@@ -377,7 +377,6 @@ function createGuildAndFriendList(this: void): undefined {
     }
   }
   for (let friendIndex = 1; friendIndex <= GetNumFriends(); friendIndex += 1) {
-    GetFriendInfo(friendIndex)
     const [, characterNameRaw] = GetFriendCharacterInfo(friendIndex)
     let characterName = characterNameRaw
     const [charIndex] = string.find(characterName, "^", undefined, true)
