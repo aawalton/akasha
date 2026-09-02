@@ -1,8 +1,7 @@
-import { deferCommits } from '@tools/lib/page-commit-queue';
-import { written } from '@tools/lib/page-query-landing';
-import { rootsHere } from '@akasha/pages-system/checkout-roots';
+import { akashaRoot, harnessEnvironment } from '../harness-call.ts';
 import { changeKey, type Observation } from "./observations.ts"
 import { foldSweep, mergeObservation, type ObservationPatch } from "./observation-merge.ts";
+import { bunIn, ObservationWriterClient, writerMainIn } from './observation-writer.ts';
 
 export interface SweepReport {
 	readonly swept: number;
@@ -24,13 +23,65 @@ export type Fetcher = (url: string, init: RequestInit) => Promise<Response>;
 
 const SAYS = '[editor-observations]';
 
+// THIS NAMES NO SERVER AND NEVER DID. The store was written against a `fetch`, and the URL it
+// builds is how a write says which page it is for; nothing has ever listened on this port. Read as
+// an HTTP POST it looks like work that leaves the process, which is exactly what it was not: the
+// write landed in-process and synchronously, on the extension host's one thread.
 const STANDS_IN_FOR_AN_ORIGIN = 'http://127.0.0.1:8787';
 
-function writerFor(window: string): Fetcher {
-	return async (url, init) => {
-		deferCommits();
-		const said = await written(rootsHere(), 'patch-state', WINDOW_PAGE_TYPE, window, new Request(url, init), SAYS);
-		return new Response(JSON.stringify(said.body), { status: said.status });
+interface Writer {
+	readonly ask: Fetcher;
+	readonly dispose: () => Promise<void>;
+}
+
+// OFF THE HOST'S THREAD, NOT LESS OFTEN. `written(… 'patch-state' …)` has to be told where the
+// window's page stands, and `whereFor` answers that by walking every markdown file in the
+// checkout. Measured on this box at load 17, one write held the calling thread 202-430ms, median
+// 307ms, and six in a row read as one unbroken 1521ms block. The pollers ask about once a second,
+// so the host's event loop was spending about a third of itself inside this call, and a blocked
+// host repaints nothing — which is why the panels and the status line froze together rather than
+// any one of them being slow.
+//
+// A floor under how often a write may start was tried before this and reverted: blocked medians
+// 11438ms against 20486ms, no improvement, the within-condition variance swamping the effect. The
+// cost is per write and the writes are not redundant, so writing less often only makes the
+// observations staler for the same stalls.
+//
+// What is here instead hands the same call, unchanged, to a bun child that does nothing else.
+//
+// The `deferCommits()` that stood here is gone rather than moved. `patchState` lands
+// `<page>.uncommitted.yaml` and never reaches `landOne`, so this act queued no commit and had
+// nothing to defer; what the call did do was register exit handlers and run `recoverLandings()`,
+// which adopts landing journals from dead writers and commits them with `git`, on the thread that
+// draws the editor. The host still defers from `editor-layout`, so nothing stops being recovered.
+function writerFor(window: string, onError?: (message: string) => void): Writer {
+	let client: ObservationWriterClient | undefined;
+	const held = (): ObservationWriterClient => {
+		if (client === undefined) {
+			client = new ObservationWriterClient({
+				bun: bunIn(),
+				mainFile: writerMainIn(akashaRoot()),
+				env: harnessEnvironment(),
+				onNoise: (text) => onError?.(`${SAYS} ${text}`),
+			});
+		}
+		return client;
+	};
+	return {
+		ask: async (url, init) => {
+			const said = await held().ask({
+				act: 'patch-state',
+				pageType: WINDOW_PAGE_TYPE,
+				name: window,
+				url,
+				method: typeof init.method === 'string' ? init.method : 'POST',
+				headers: (init.headers ?? {}) as Record<string, string>,
+				body: typeof init.body === 'string' ? init.body : '',
+			});
+			const body = said.ok ? said.body : { error: said.saying ?? 'the observation writer refused' };
+			return new Response(JSON.stringify(body), { status: said.status });
+		},
+		dispose: async () => { await client?.dispose(); },
 	};
 }
 
@@ -55,7 +106,13 @@ export interface StoreOptions {
 export function createObservationStore(options: StoreOptions): ObservationStore {
 	const now = options.now ?? ((): Date => new Date());
 	const settleMs = options.settleMs ?? SETTLE_MS;
-	const ask: Fetcher = options.fetch ?? writerFor(options.window);
+	// A caller naming its own `fetch` starts no child and disposes of none — which is how every
+	// test of this store runs, and why none of them spawn bun.
+	const writer: Writer =
+		options.fetch === undefined
+			? writerFor(options.window, options.onError)
+			: { ask: options.fetch, dispose: async () => undefined };
+	const ask = writer.ask;
 	const url =
 		`${options.origin ?? STANDS_IN_FOR_AN_ORIGIN}/patch-state/${WINDOW_PAGE_TYPE}/${options.window}`;
 
@@ -123,9 +180,17 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
 			await writing;
 		},
 
+		// THE LAST STATE LANDS BEFORE THE CHILD IS LET GO. This cleared the settle timer and awaited
+		// only what was already in flight, so everything recorded inside the last 250ms — which on a
+		// window closing is the shutdown itself, the most interesting observation there is — was
+		// thrown away by the dispose that was supposed to preserve it. The write is asked for first
+		// now, and only then is the writer disposed, which closes the child's stdin and waits for it
+		// to drain what it holds.
 		dispose: async () => {
 			if (timer !== undefined) { clearTimeout(timer); timer = undefined; }
+			writing = writing.then(write);
 			await writing.catch(() => undefined);
+			await writer.dispose().catch(() => undefined);
 		},
 	};
 	return self;
