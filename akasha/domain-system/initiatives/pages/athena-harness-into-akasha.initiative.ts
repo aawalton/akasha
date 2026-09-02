@@ -1,9 +1,9 @@
 import type { Initiative } from "../initiative.page-type.ts"
 
-export const athenaModelGatewayIntoAkasha = {
+export const athenaHarnessIntoAkasha = {
   id: "01a06210-e6f7-78af-9c1c-18a444bc8fbb",
   pageTypeSlug: "initiative",
-  slug: "athena-model-gateway-into-akasha",
+  slug: "athena-harness-into-akasha",
   domainSlug: "domain/models",
   personaSlug: "athena",
   parentSlug: "akasha-migration",
