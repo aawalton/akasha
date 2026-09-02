@@ -1,0 +1,36 @@
+{
+  "name": "LibMediaProvider",
+  "title": "LibMediaProvider",
+  "description": "Facilitates the sharing of media (fonts, textures, etc) between addons.",
+  "author": "AlanGaming",
+  "version": "1.1 r37",
+  "addonVersion": 37,
+  "apiVersion": ["101050", "101051"],
+  "savedVariables": [],
+  "dependsOn": [],
+  "optionalDependsOn": [],
+  "xmlFiles": {
+    "beforeBundle": [
+      "PC/fontpath.xml",
+      "Console/fontpath.xml",
+      "fontstrings_shared.xml",
+      "PC/backupfont_$(language).xml",
+      "Console/backupfont_$(language).xml"
+    ]
+  },
+  "assets": [
+    "fontstrings_shared.xml",
+    "PC/fontpath.xml",
+    "PC/backupfont_de.xml",
+    "PC/backupfont_en.xml",
+    "PC/backupfont_es.xml",
+    "PC/backupfont_fr.xml",
+    "PC/backupfont_jp.xml",
+    "PC/backupfont_ru.xml",
+    "PC/backupfont_zh.xml",
+    "Console/fontpath.xml",
+    "Console/backupfont_jp.xml",
+    "Console/backupfont_zh.xml"
+  ],
+  "siblingAddons": ["LibMediaProvider-1.0"]
+}

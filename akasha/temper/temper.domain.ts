@@ -40,6 +40,7 @@ export const temper = {
     "eso-addon/temper-lib-map-pins",
     "eso-addon/temper-lib-slash-commander",
     "workspace-package/temper-community-addons",
+    "eso-addon/temper-lib-media-provider",
   ],
   invariants: [
     {

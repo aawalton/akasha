@@ -1,0 +1,79 @@
+import type { EsoAddon } from "@akasha/code-system/eso-addon"
+
+export const temperLibMediaProvider = {
+  id: "01a06069-f8c0-7024-bde1-26d49b2a6bff",
+  pageTypeSlug: "eso-addon",
+  slug: "temper-lib-media-provider",
+  definition: "the fonts, textures and sounds addons share with each other",
+  manifest: "json",
+  addonManifest: "json",
+  partSlugs: [
+    "module/media-declarations",
+    "module/media-types",
+    "module/media-casts",
+    "module/media-data",
+    "module/media-provider",
+    "module/media-global",
+    "module/media-main",
+    "eso-interface/media-pc-fontpath",
+    "eso-interface/media-console-fontpath",
+    "eso-interface/media-fontstrings-shared",
+    "eso-interface/media-pc-backupfont-de",
+    "eso-interface/media-pc-backupfont-en",
+    "eso-interface/media-pc-backupfont-es",
+    "eso-interface/media-pc-backupfont-fr",
+    "eso-interface/media-pc-backupfont-jp",
+    "eso-interface/media-pc-backupfont-ru",
+    "eso-interface/media-pc-backupfont-zh",
+    "eso-interface/media-console-backupfont-jp",
+    "eso-interface/media-console-backupfont-zh",
+  ],
+  interfaceSlugs: [
+    "media-pc-fontpath",
+    "media-console-fontpath",
+    "media-fontstrings-shared",
+    "media-pc-backupfont-de",
+    "media-pc-backupfont-en",
+    "media-pc-backupfont-es",
+    "media-pc-backupfont-fr",
+    "media-pc-backupfont-jp",
+    "media-pc-backupfont-ru",
+    "media-pc-backupfont-zh",
+    "media-console-backupfont-jp",
+    "media-console-backupfont-zh",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Media is keyed by a media kind and a name another addon chose.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name already taken for a media kind is refused rather than replaced.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every media kind carries a default the library falls back to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The XML documents load before the Lua bundle.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The font path the XML sets differs between a console and a desktop.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Another addon reaches this library only through the global name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This library depends on no other addon.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Nothing here reaches a Date.",
+    },
+  ],
+} as const satisfies EsoAddon
