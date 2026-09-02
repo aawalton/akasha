@@ -100,6 +100,8 @@ export const temperWeb = {
     "module/companion-role-leaderboard-panel-card",
     "module/companion-rotation-breakdown-types",
     "module/companion-rotation-outcome",
+    "module/companion-rotation-skill-column-header",
+    "module/companion-skill-bar-panel-card",
     "module/companion-skill-card",
     "module/companion-skill-detail-content",
     "module/companion-skill-lines-progress-panel-card",
