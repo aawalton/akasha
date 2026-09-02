@@ -44,6 +44,11 @@ export const checks = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The checks judging a change are the checks the change leaves rather than every check filed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Its commit says that none ran and why.",
     },
     {
