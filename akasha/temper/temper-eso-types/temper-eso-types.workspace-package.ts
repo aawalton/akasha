@@ -105,5 +105,6 @@ export const temperEsoTypes = {
     "type-declaration/eso-reticle-interaction",
     "type-declaration/eso-main-menu-bar",
     "type-declaration/eso-world-map-window",
+    "type-declaration/eso-keybindings",
   ],
 } as const satisfies WorkspacePackage

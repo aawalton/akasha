@@ -63,6 +63,7 @@
     "./eso-item-browser-port": "./eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts",
     "./eso-item-browser-strings": "./eso-item-browser-strings/eso-item-browser-strings.type-declaration.d.ts",
     "./eso-journal-window": "./eso-journal-window/eso-journal-window.type-declaration.d.ts",
+    "./eso-keybindings": "./eso-keybindings/eso-keybindings.type-declaration.d.ts",
     "./eso-lib-sets-dlc": "./eso-lib-sets-dlc/eso-lib-sets-dlc.type-declaration.d.ts",
     "./eso-lib-sets-shapes": "./eso-lib-sets-shapes/eso-lib-sets-shapes.type-declaration.d.ts",
     "./eso-lib-sets-shared-globals": "./eso-lib-sets-shared-globals/eso-lib-sets-shared-globals.type-declaration.d.ts",
