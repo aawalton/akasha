@@ -10,11 +10,11 @@ const COMPANION_SKILL_EAV_SCHEMA = z
     skillType: z.string().min(1),
     description: z.string(),
     icon: z.string().min(1).nullable(),
-    effects: z.array(z.unknown()).nullable(),
-    validRoles: z.array(z.string()).nullable(),
-    castConditions: z.array(z.unknown()).nullable(),
-    tags: z.array(z.string()).nullable(),
-    alternateAbilityIds: z.array(z.number().int().nonnegative()).nullable(),
+    effects: z.array(z.unknown()).nullable().optional(),
+    validRoles: z.array(z.string()).nullable().optional(),
+    castConditions: z.array(z.unknown()).nullable().optional(),
+    tags: z.array(z.string()).nullable().optional(),
+    alternateAbilityIds: z.array(z.number().int().nonnegative()).nullable().optional(),
   })
   .strict()
 
@@ -34,6 +34,17 @@ interface ParsedCompanionSkill {
   alternateAbilityIds: readonly number[] | undefined
 }
 
+function withoutId(held: unknown): unknown {
+  if (held === null || typeof held !== "object") return held
+  const kept = Object.entries(held as Record<string, unknown>).filter(([key]) => key !== "id")
+  return Object.fromEntries(kept)
+}
+
+function entriesWithoutId(held: unknown): unknown {
+  if (!Array.isArray(held)) return held
+  return held.map(withoutId)
+}
+
 function parseCompanionSkill(row: Page): ParsedCompanionSkill {
   if (row.title === null) {
     throw new Error(`temper-companion-skill row ${row.id} has null title`)
@@ -46,9 +57,9 @@ function parseCompanionSkill(row: Page): ParsedCompanionSkill {
     skillType: row.skillType,
     description: row.description,
     icon: row.icon ?? null,
-    effects: row.effects,
+    effects: entriesWithoutId(row.skillEffects),
     validRoles: row.validRoles,
-    castConditions: row.castConditions,
+    castConditions: entriesWithoutId(row.castConditions),
     tags: row.tags,
     alternateAbilityIds: row.alternateAbilityIds,
   })
