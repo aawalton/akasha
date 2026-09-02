@@ -5,7 +5,7 @@
   "exports": {
     "./alchemy-station": "./alchemy-station/alchemy-station.module.code.ts",
     "./alchemy-station-types": "./alchemy-station-types/alchemy-station-types.module.code.ts",
-    "./alchemy-station-declarations": "./alchemy-station-declarations/alchemy-station-declarations.module.code.ts",
+    "./alchemy-station-declarations": "./alchemy-station-declarations/alchemy-station-declarations.type-declaration.d.ts",
     "./alchemy-station-entry": "./alchemy-station-entry/alchemy-station-entry.module.code.ts"
   }
 }

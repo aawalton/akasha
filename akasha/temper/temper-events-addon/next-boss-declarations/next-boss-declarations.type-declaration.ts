@@ -1,11 +1,11 @@
-import type { Module } from "@akasha/code-system/module"
+import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
 
 export const nextBossDeclarations = {
-  id: "01a06157-8355-785c-9031-638b16abe0eb",
-  pageTypeSlug: "module",
+  id: "01a0620a-a165-79b6-89ee-06d189040e29",
+  pageTypeSlug: "type-declaration",
   slug: "next-boss-declarations",
   definition: "the string ids and layout controls this tracker makes for itself",
-  code: "ts",
+  d: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -24,4 +24,4 @@ export const nextBossDeclarations = {
       statement: "A name the game or a library owns is declared in the shared set instead.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TypeDeclaration

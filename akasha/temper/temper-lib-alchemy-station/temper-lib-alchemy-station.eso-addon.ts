@@ -10,9 +10,9 @@ export const temperLibAlchemyStation = {
   bundleEntrySlug: "alchemy-station-entry",
   partSlugs: [
     "module/alchemy-station",
-    "module/alchemy-station-types",
-    "module/alchemy-station-declarations",
     "module/alchemy-station-entry",
+    "module/alchemy-station-types",
+    "type-declaration/alchemy-station-declarations",
   ],
   invariants: [
     {

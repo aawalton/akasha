@@ -1,11 +1,11 @@
-import type { Module } from "@akasha/code-system/module"
+import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
 
 export const notificationDeclarations = {
-  id: "01a0605a-0517-7bf3-99e9-6579877c432e",
-  pageTypeSlug: "module",
+  id: "01a0620a-a166-7152-bc6c-c9ce7bb3739c",
+  pageTypeSlug: "type-declaration",
   slug: "notification-declarations",
   definition: "the Lua and game names this addon reaches without importing them",
-  code: "ts",
+  d: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -24,4 +24,4 @@ export const notificationDeclarations = {
       statement: "This module restates declarations the game keeps outside akasha.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TypeDeclaration

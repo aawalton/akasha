@@ -1,11 +1,11 @@
-import type { Module } from "@akasha/code-system/module"
+import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
 
-export const mediaDeclarations = {
-  id: "01a06069-f8c3-7a08-88a9-4e6501f45214",
-  pageTypeSlug: "module",
-  slug: "media-declarations",
+export const debugLoggerDeclarations = {
+  id: "01a0620a-a166-7f46-895d-4d74d6165dbc",
+  pageTypeSlug: "type-declaration",
+  slug: "debug-logger-declarations",
   definition: "the Lua and game names this library reaches without importing them",
-  code: "ts",
+  d: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -28,4 +28,4 @@ export const mediaDeclarations = {
       statement: "This module restates declarations the game keeps outside akasha.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TypeDeclaration

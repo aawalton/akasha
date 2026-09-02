@@ -9,7 +9,7 @@
     "./notification-providers": "./notification-providers/notification-providers.module.code.ts",
     "./notification-row-overrides": "./notification-row-overrides/notification-row-overrides.module.code.ts",
     "./notification-types": "./notification-types/notification-types.module.code.ts",
-    "./notification-declarations": "./notification-declarations/notification-declarations.module.code.ts",
+    "./notification-declarations": "./notification-declarations/notification-declarations.type-declaration.d.ts",
     "./notification-entry": "./notification-entry/notification-entry.module.code.ts"
   }
 }

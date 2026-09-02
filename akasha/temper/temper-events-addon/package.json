@@ -5,7 +5,7 @@
   "exports": {
     "./events-addon-names": "./events-addon-names/events-addon-names.module.code.ts",
     "./events-addon-global": "./events-addon-global/events-addon-global.module.code.ts",
-    "./next-boss-declarations": "./next-boss-declarations/next-boss-declarations.module.code.ts",
+    "./next-boss-declarations": "./next-boss-declarations/next-boss-declarations.type-declaration.d.ts",
     "./next-boss-colors": "./next-boss-colors/next-boss-colors.module.code.ts",
     "./next-boss-constants": "./next-boss-constants/next-boss-constants.module.code.ts",
     "./next-boss-state": "./next-boss-state/next-boss-state.module.code.ts",

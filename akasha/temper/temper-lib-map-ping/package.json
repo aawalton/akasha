@@ -16,6 +16,6 @@
     "./map-ping-compatibility": "./map-ping-compatibility/map-ping-compatibility.module.code.ts",
     "./map-ping-public-api": "./map-ping-public-api/map-ping-public-api.module.code.ts",
     "./map-ping-main": "./map-ping-main/map-ping-main.module.code.ts",
-    "./map-ping-declarations": "./map-ping-declarations/map-ping-declarations.module.code.ts"
+    "./map-ping-declarations": "./map-ping-declarations/map-ping-declarations.type-declaration.d.ts"
   }
 }

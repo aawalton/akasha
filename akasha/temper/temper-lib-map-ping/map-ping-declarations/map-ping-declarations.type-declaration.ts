@@ -1,11 +1,11 @@
-import type { Module } from "@akasha/code-system/module"
+import type { TypeDeclaration } from "../../../code-system/type-declaration/type-declaration.page-type.ts"
 
 export const mapPingDeclarations = {
-  id: "01a0605f-6264-79e9-9401-9c612c1317fd",
-  pageTypeSlug: "module",
+  id: "01a0620a-a167-72d0-96fa-861039d2e9bf",
+  pageTypeSlug: "type-declaration",
   slug: "map-ping-declarations",
   definition: "the Lua and game names this addon reaches without importing them",
-  code: "ts",
+  d: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -28,4 +28,4 @@ export const mapPingDeclarations = {
       statement: "This module restates declarations the game keeps outside akasha.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TypeDeclaration

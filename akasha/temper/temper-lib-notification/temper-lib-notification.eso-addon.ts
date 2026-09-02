@@ -9,14 +9,14 @@ export const temperLibNotification = {
   addonManifest: "json",
   bundleEntrySlug: "notification-entry",
   partSlugs: [
+    "module/notification-casts",
+    "module/notification-entry",
+    "module/notification-names",
     "module/notification-provider-link",
     "module/notification-providers",
     "module/notification-row-overrides",
-    "module/notification-casts",
-    "module/notification-names",
     "module/notification-types",
-    "module/notification-declarations",
-    "module/notification-entry",
+    "type-declaration/notification-declarations",
   ],
   invariants: [
     {
