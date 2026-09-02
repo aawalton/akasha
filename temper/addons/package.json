@@ -4,7 +4,6 @@
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
-    "@temper/player-completion": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"
