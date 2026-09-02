@@ -1,14 +1,14 @@
 import {
   parseValidListings,
   ttcListingResponseSchema,
-} from "@temper/game-trading-pricing/ttc-listing-schema"
+} from "@akasha/temper-trading-pricing/ttc-listing-schema"
 import type {
   TTCListingClient,
   TTCListingClientOptions,
   TTCListingEntry,
   TTCListingPage,
   TTCListingSearchParams,
-} from "@temper/game-trading-pricing/ttc-listing-types"
+} from "@akasha/temper-trading-pricing/ttc-listing-types"
 
 function logUnexpectedTtcBody(response: Response, data: unknown): undefined {
   const contentType = response.headers.get("content-type") ?? "unknown"

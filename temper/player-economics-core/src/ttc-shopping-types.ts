@@ -1,5 +1,5 @@
-import type { TTCPriceEntry } from "@temper/game-trading-pricing/pricing-types"
-import type { TTCListingEntry, TTCListingSearchParams } from "@temper/game-trading-pricing/ttc-listing-types"
+import type { TTCPriceEntry } from "@akasha/temper-trading-pricing/pricing-types"
+import type { TTCListingEntry, TTCListingSearchParams } from "@akasha/temper-trading-pricing/ttc-listing-types"
 
 export const BUDGET_STRATEGY = {
   Tight: 1.05,

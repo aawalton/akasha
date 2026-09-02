@@ -57,9 +57,6 @@
     },
     {
       "path": "../game-items-rules-routing-core"
-    },
-    {
-      "path": "../game-trading-pricing"
     }
   ],
   "include": [

@@ -1,4 +1,4 @@
-import type { TTCPriceEntry } from "@temper/game-trading-pricing/pricing-types"
+import type { TTCPriceEntry } from "@akasha/temper-trading-pricing/pricing-types"
 import { BUDGET_STRATEGY, type ItemBudget } from "./ttc-shopping-types"
 
 function selectBudgetStrategy(priceData: TTCPriceEntry | undefined): keyof typeof BUDGET_STRATEGY {

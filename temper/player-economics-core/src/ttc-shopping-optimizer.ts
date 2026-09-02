@@ -1,6 +1,6 @@
 import { requireFirst } from "@akasha/utils-narrow/require-first"
-import { kioskLocationName } from "@temper/game-trading-pricing/ttc-kiosk-locations-data"
-import { TTC_AGO, type TTCListingClient, type TTCListingEntry, type TTCListingSearchParams } from "@temper/game-trading-pricing/ttc-listing-types"
+import { kioskLocationName } from "@akasha/temper-trading-pricing/kiosk-location-name"
+import { TTC_AGO, type TTCListingClient, type TTCListingEntry, type TTCListingSearchParams } from "@akasha/temper-trading-pricing/ttc-listing-types"
 import { computeItemBudget } from "./ttc-budget-strategy"
 import type {
   ItemBudget,

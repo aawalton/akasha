@@ -13,7 +13,7 @@
     "lint:fix": "biome check --write ."
   },
   "dependencies": {
-    "@temper/game-trading-pricing": "workspace:*"
+    "@akasha/temper-trading-pricing": "workspace:*"
   },
   "devDependencies": {
     "@types/bun": "^1.3.9",

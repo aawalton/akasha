@@ -2,8 +2,8 @@ import { buildFilterIndex } from "@temper/game-items-filters-core/filter-registr
 import { type ActiveFilterValues, itemPassesFilters } from "@temper/game-items-filters-core/filter-set"
 import { createSearchRequestCollector } from "@temper/game-items-filters-core/filter-types"
 import type { ItemFacts } from "@temper/game-items-rules-eval/item-facts"
-import { type BrowseListing, mergeListings, sortByUnitPriceDesc } from "@temper/game-trading-core/browse-listings"
-import { type BrowseAction, type BrowseEvent, type BrowseState, decideBrowseNext, initialBrowseState } from "@temper/game-trading-core/browse-state"
+import { type BrowseListing, mergeListings, sortByUnitPriceDesc } from "@akasha/temper-trading-listings/browse-listings"
+import { type BrowseAction, type BrowseEvent, type BrowseState, decideBrowseNext, INITIAL_BROWSE_STATE } from "@akasha/temper-trading-listings/browse-state"
 import { readResultListing } from "./listing-facts"
 import { applyCollectorToNativeSearch } from "./search-request-native"
 
@@ -33,7 +33,7 @@ export function createBrowseEngine(config: BrowseEngineConfig): BrowseEngine {
   const sortField = config.sortField ?? TRADING_HOUSE_SORT_SALE_PRICE_PER_UNIT
   const filterIndex = buildFilterIndex()
 
-  let state: BrowseState = initialBrowseState
+  let state: BrowseState = INITIAL_BROWSE_STATE
   let accumulator: readonly BrowseResultListing[] = []
   let activeValues: ActiveFilterValues = new Map()
   let registered = false
@@ -146,7 +146,7 @@ export function createBrowseEngine(config: BrowseEngineConfig): BrowseEngine {
     applyCollectorToNativeSearch(collector)
 
     accumulator = []
-    state = initialBrowseState
+    state = INITIAL_BROWSE_STATE
     registerEvents()
 
     dispatch({ kind: "start", guildIds: resolveGuildIds() })

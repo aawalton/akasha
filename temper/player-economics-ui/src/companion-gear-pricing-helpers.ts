@@ -4,8 +4,8 @@ import {
   type CompanionGearSlotDescriptor,
   lookupCompanionGearPrice,
   lookupCompanionGearPriceForSlot,
-} from "@temper/game-trading-pricing/companion-gear-price-lookup"
-import type { PricingData } from "@temper/game-trading-pricing/pricing-types"
+} from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
+import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 
 const ARMOR_ITEM_NAMES: Record<string, Record<string, string>> = {
   head: { Light: "Hat", Medium: "Helmet", Heavy: "Helm" },

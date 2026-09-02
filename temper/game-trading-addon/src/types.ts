@@ -1,7 +1,7 @@
 import type { SavedSearchStore } from "@temper/game-items-filters-core/saved-search"
 
 
-import type { ListingEntry } from "@temper/game-trading-core/listing-types"
+import type { ListingEntry } from "@akasha/temper-trading-listings/listing-types"
 
 export interface GuildSnapshot {
   guildName: string

@@ -1,5 +1,5 @@
-import { ttcListingEntrySchema } from "@temper/game-trading-pricing/ttc-listing-schema"
-import { type TTCListingEntry } from "@temper/game-trading-pricing/ttc-listing-types"
+import { ttcListingEntrySchema } from "@akasha/temper-trading-pricing/ttc-listing-schema"
+import { type TTCListingEntry } from "@akasha/temper-trading-pricing/ttc-listing-types"
 import type { ShoppingPlan } from "@temper/player-economics-core/ttc-shopping-types"
 import { z } from "zod"
 

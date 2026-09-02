@@ -7,12 +7,6 @@
       "path": "./shared/design-patterns"
     },
     {
-      "path": "./temper/game-trading-pricing"
-    },
-    {
-      "path": "./temper/game-trading-core"
-    },
-    {
       "path": "./temper/game-characters-character"
     },
     {

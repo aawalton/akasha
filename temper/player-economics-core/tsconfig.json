@@ -15,9 +15,6 @@
     },
     {
       "path": "../game-items-core"
-    },
-    {
-      "path": "../game-trading-pricing"
     }
   ],
   "include": [

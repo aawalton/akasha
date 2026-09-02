@@ -10,8 +10,8 @@ import {
   type CompanionGearNeed,
   computeAllGearNeeds,
 } from "@temper/game-items-core/companion-gear-diff"
-import type { CompanionGearPriceResult } from "@temper/game-trading-pricing/companion-gear-price-lookup"
-import type { PricingData } from "@temper/game-trading-pricing/pricing-types"
+import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
+import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { useCompletionCompanions } from "@temper/player-completion-ui/use-completion"
 import { useInventory, usePriceExtract } from "@temper/player-inventory-management-ui/hooks-inventory"
 import { type EffectivePricingRegion, type PricingRegionNoteKind, resolvePricingRegion, resolvePricingRegionNote } from "@temper/player-inventory-management-ui/pricing-region"

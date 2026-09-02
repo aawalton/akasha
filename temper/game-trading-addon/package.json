@@ -2,13 +2,13 @@
   "name": "@temper/game-trading-addon",
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-capture-perf": "workspace:*",
+    "@akasha/temper-trading-listings": "workspace:*",
     "@temper/game-items-core": "workspace:*",
     "@temper/game-items-filters-addon": "workspace:*",
     "@temper/game-items-filters-core": "workspace:*",
-    "@temper/game-trading-core": "workspace:*",
-    "@temper/game-trading-post-addon": "workspace:*",
     "@temper/game-items-rules-eval": "workspace:*",
-    "@akasha/temper-capture-perf": "workspace:*"
+    "@temper/game-trading-post-addon": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.8.3"

@@ -8,7 +8,7 @@ import { requireGet } from "@akasha/utils-narrow/require-get"
 import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"
 import { getQualityClassName } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import type { CompanionGearNeed } from "@temper/game-items-core/companion-gear-diff"
-import type { PricingData } from "@temper/game-trading-pricing/pricing-types"
+import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { needToShoppingKey } from "@temper/player-economics-core/companion-gear-shopping-bridge"
 import { useMemo, useState } from "react"
 import {

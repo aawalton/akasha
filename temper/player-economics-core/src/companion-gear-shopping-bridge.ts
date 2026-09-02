@@ -1,7 +1,13 @@
 import type { CompanionEquipmentQualityId } from "@temper/game-companions-core/equipment/companion-equipment-quality-data"
 import type { CompanionGearNeed } from "@temper/game-items-core/companion-gear-diff"
-import { COMPANION_TRAIT_TO_TTC_TRAIT, type CompanionGearSlotDescriptor, isPriceEntry, resolveTtcItemId, WEIGHT_TO_CATEGORY2 } from "@temper/game-trading-pricing/companion-gear-price-lookup"
-import { type PricingData } from "@temper/game-trading-pricing/pricing-types"
+import {
+  COMPANION_TRAIT_TO_TTC_TRAIT,
+  type CompanionGearSlotDescriptor,
+  resolveTtcItemId,
+  WEIGHT_TO_CATEGORY2,
+} from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
+import { isPriceEntry } from "@akasha/temper-trading-pricing/is-price-entry"
+import { type PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import type { ShoppingItem } from "./ttc-shopping-types"
 
 const QUALITY_TO_LIVE_API: Partial<Record<CompanionEquipmentQualityId, number>> = {

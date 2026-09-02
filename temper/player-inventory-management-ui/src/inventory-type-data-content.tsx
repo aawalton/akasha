@@ -15,7 +15,7 @@ import {
   groupInventoryByType,
 } from "@temper/game-items-core/inventory-grouping"
 import { partitionUnmanagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-filter"
-import { lookupCurrencyConversionRates } from "@temper/game-trading-pricing/currency-price-lookup"
+import { lookupCurrencyConversionRates } from "@akasha/temper-trading-pricing/currency-price-lookup"
 import { usePlayer } from "@temper/player-profile/use-player"
 import { Package, Search } from "lucide-react"
 import { useMemo } from "react"

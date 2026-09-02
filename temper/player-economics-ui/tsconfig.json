@@ -42,9 +42,6 @@
     },
     {
       "path": "../player-profile"
-    },
-    {
-      "path": "../game-trading-pricing"
     }
   ],
   "include": [

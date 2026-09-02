@@ -18,7 +18,6 @@ export const TEMPER_COMPANIONS_OUTPUT_DIR = out("game-companions-core")
 export const TEMPER_COMPLETION_OUTPUT_DIR = out("player-completion")
 export const TEMPER_ADDONS_CHARACTERS_GENERATED_DIR = out("player-completion-addon")
 export const TEMPER_INVENTORY_CORE_OUTPUT_DIR = out("game-items-core")
-export const TEMPER_PRICING_OUTPUT_DIR = out("game-trading-pricing")
 export const TEMPER_SKILLS_OUTPUT_DIR = out("game-characters-skills")
 export const TEMPER_STATS_OUTPUT_DIR = out("game-characters-stats")
 export const WEB_ENGINE_INVENTORY_DIR = out("game-items-rules-core")
@@ -39,7 +38,6 @@ const ALL_OUTPUT_DIRS: readonly string[] = [
   TEMPER_COMPLETION_OUTPUT_DIR,
   TEMPER_ADDONS_CHARACTERS_GENERATED_DIR,
   TEMPER_INVENTORY_CORE_OUTPUT_DIR,
-  TEMPER_PRICING_OUTPUT_DIR,
   TEMPER_SKILLS_OUTPUT_DIR,
   TEMPER_STATS_OUTPUT_DIR,
   WEB_ENGINE_INVENTORY_DIR,

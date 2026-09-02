@@ -4,7 +4,7 @@ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
 import { assembleInventory } from "@temper/game-items-core/assemble-inventory"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
-import type { PricingData } from "@temper/game-trading-pricing/pricing-types"
+import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { useMemo } from "react"
 import { chunksStillLoading } from "./chunks-loading"
 

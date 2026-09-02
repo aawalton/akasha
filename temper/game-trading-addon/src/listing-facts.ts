@@ -6,7 +6,7 @@ import {
   resolveStaticItemKey,
 } from "@temper/game-items-rules-eval/build-item-facts-from-inventory-item"
 import type { ItemFacts } from "@temper/game-items-rules-eval/item-facts"
-import type { BrowseListing } from "@temper/game-trading-core/browse-listings"
+import type { BrowseListing } from "@akasha/temper-trading-listings/browse-listings"
 
 function asNumber(value: unknown): number | undefined {
   return typeof value === "number" ? value : undefined

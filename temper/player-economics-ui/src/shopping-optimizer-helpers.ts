@@ -1,4 +1,4 @@
-import { kioskLocationName } from "@temper/game-trading-pricing/ttc-kiosk-locations-data"
+import { kioskLocationName } from "@akasha/temper-trading-pricing/kiosk-location-name"
 import type { PurchaseRecommendation } from "@temper/player-economics-core/ttc-shopping-types"
 
 export function recomputeLocations(

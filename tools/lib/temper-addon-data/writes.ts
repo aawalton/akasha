@@ -9,7 +9,6 @@ import { buildAddonDataWritesCompletion } from "./writes/completion.ts"
 import { buildAddonDataWritesEquipment } from "./writes/equipment.ts"
 import { buildAddonDataWritesInventory } from "./writes/inventory.ts"
 import { buildAddonDataWritesLore } from "./writes/lore.ts"
-import { buildAddonDataWritesPricing } from "./writes/pricing.ts"
 import { buildAddonDataWritesRules } from "./writes/rules.ts"
 import { buildAddonDataWritesScribing } from "./writes/scribing.ts"
 import { buildAddonDataWritesSets } from "./writes/sets.ts"
@@ -33,7 +32,6 @@ export function buildAddonDataWrites(p: AddonDataPages): readonly Promise<number
     ...buildAddonDataWritesRules(p, w),
     ...buildAddonDataWritesScribing(p, w),
     ...buildAddonDataWritesStats(p, w),
-    ...buildAddonDataWritesPricing(p, w),
     ...buildAddonDataWritesCompanions(p, w),
     ...buildAddonDataWritesCompanionRotations(p, w),
     ...buildAddonDataWritesCompanionMappings(w),

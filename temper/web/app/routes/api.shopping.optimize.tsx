@@ -1,4 +1,4 @@
-import { TTC_AGO } from "@temper/game-trading-pricing/ttc-listing-types"
+import { TTC_AGO } from "@akasha/temper-trading-pricing/ttc-listing-types"
 import { createTTCListingClient } from "@temper/game-trading-pricing-client/ttc-listing-client"
 import { optimizeShopping } from "@temper/player-economics-core/ttc-shopping-optimizer"
 import { type ShoppingItem } from "@temper/player-economics-core/ttc-shopping-types"
