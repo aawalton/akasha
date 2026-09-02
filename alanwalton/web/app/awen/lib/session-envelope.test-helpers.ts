@@ -1,6 +1,6 @@
-import { type GameDisplayModules } from "@akasha/story-engine-core/game-schema"
+import type { GameDisplayModules } from "@akasha/story-engine-core/game-schema"
 import { GameStateSchema } from "@akasha/story-engine-core/state-schema"
-import type { StoryLedger } from "./session-envelope"
+import type { StoryLedger } from "@akasha/story-reader/session-envelope"
 
 export const STORY_MODULES: GameDisplayModules = {
   chapterProse: {},
