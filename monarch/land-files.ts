@@ -1,6 +1,5 @@
 
 import { spawn } from "node:child_process"
-import { existsSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import { toolArgv } from "../tools/lib/tool-argv.ts"
@@ -273,20 +272,24 @@ function tool(
   })
 }
 
+/**
+ * This lands the month files, and it reads nothing first.
+ *
+ * It used to read each file already on disk before writing it, so that the old read-record gate
+ * would let the write through. That gate went at `220d57c4a8`, "nothing writes the old read record
+ * any more", and the read went with it: `read` is no longer a command `ops` carries, so the call
+ * refused every minute and the poll landed nothing for as long as it did.
+ *
+ * Nothing is put back in its place. A daemon has no read record and can never have one, which
+ * `tools/lib/tracking/akasha-day.ts` states for the day funnel: its `AGENT_ID` names no seat, and
+ * where one is fabricated the record it builds is invalidated by its own write, the file it is
+ * about to write being among the ones the warrant asks it to have read. These bodies are composed
+ * by a program rather than authored, which is what `--mechanical` on the write below says, and a
+ * composed body owes no reading.
+ */
 export async function through(items: readonly WriteItem[], message: string): Promise<void> {
   const root = AKASHA
   const named = ["--repo", AKASHA_REPO]
-  const standing = items.filter((item) => existsSync(join(root, item.file_path)))
-  if (standing.length > 0) {
-    const read = await tool(
-      "read.ts",
-      standing.flatMap((item) => ["--file-path", join(root, item.file_path)]),
-      null
-    )
-    if (read.code !== 0) {
-      throw new Error(`reading what stands was not recorded, exit ${read.code}:\n${read.said}`)
-    }
-  }
   const wrote = await tool(
     "write.ts",
     [...named, "--input-file", "-", "--mechanical", "--message", message],
