@@ -4,6 +4,7 @@ import { rootsHere } from "@akasha/pages-system/checkout-roots"
 import { type PageFile, pagesIn } from "../page/tracked/tracked.ts"
 import { listField } from "../page/frontmatter.ts"
 import { blockOf, NONE, stringAt, textAt } from "../page/text/text.ts"
+import { pageQueryTimeIn } from "@akasha/pages-core/view/page-query-times"
 import type { ReadoutScale } from "./readout-scale-shape.ts"
 
 export const READOUT_PAGE_TYPE_SLUG = "readout"
@@ -42,6 +43,16 @@ export interface ReadoutQuery {
   readonly pageTypeSlug: string | null
   /** The keys the query names, spelled as the query page spells them. */
   readonly keys: readonly string[]
+  /**
+   * Whether the query's `where` reaches the clock — it names one of `now`, `eso-day`,
+   * `eso-day-next` or `wake-day`.
+   *
+   * Such a token is resolved against `Date.now()` when the query is answered, so the query answers
+   * about the moment it is asked in rather than about any day handed to it. A query that names one
+   * and takes no day argument therefore cannot answer for a past day at all: it will answer for
+   * today and say nothing about having done so. `dayGiven` reads this to refuse instead.
+   */
+  readonly answersOnlyForNow: boolean
 }
 
 export interface ReadoutRow {
@@ -221,6 +232,23 @@ function takesIn(fm: ReturnType<typeof blockOf>["fm"]): Readonly<Record<string, 
 }
 
 /**
+ * Whether any string standing anywhere inside a `where` block names a clock-relative moment.
+ *
+ * The block nests as `key: {test: value}` and a test may hold a list, so every string leaf is
+ * reached rather than the top two levels only. The spellings come from `pageQueryTimeIn`, which is
+ * the same reader `stated` resolves them with, so this cannot drift from what the clock actually
+ * swaps.
+ */
+function reachesTheClock(held: unknown): boolean {
+  if (typeof held === "string") return pageQueryTimeIn(held) !== null
+  if (Array.isArray(held)) return held.some(reachesTheClock)
+  if (held !== null && typeof held === "object") {
+    return Object.values(held as Record<string, unknown>).some(reachesTheClock)
+  }
+  return false
+}
+
+/**
  * The catalog every readout is resolved against, held for the length of one call.
  *
  * Building it lists both checkouts and names every tracked path in them — 104,593 of them here —
@@ -320,6 +348,7 @@ function catalogOf(roots: Roots, dirs: readonly string[]): ReadoutCatalog {
       reducesToOneNumber: stringAt(fm, "function") !== null,
       pageTypeSlug: stringAt(fm, PAGE_TYPE),
       keys: listField(fm, "keys"),
+      answersOnlyForNow: reachesTheClock(fm.fields.get("where")),
     })
   }
 

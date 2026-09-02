@@ -7,6 +7,7 @@ import {
   readoutCatalog,
 } from "./readout-catalog.ts"
 import { TRACKING_DAY } from "../tools/lib/page-query-day.ts"
+import { getEsoDayStr } from "../tools/lib/eso-day.ts"
 import {
   READOUT_SCALE_PAGE_TYPE_SLUG,
   type ReadoutScale,
@@ -269,14 +270,52 @@ function answerKeyOf(readout: ResolvedReadout): string | null {
   return readout.keyArgument === null ? readout.queryKey : null
 }
 
+/**
+ * The day the clock is standing on, which is the only day a clock-relative query can answer for.
+ *
+ * Every day handed to a readout is an eso-day string — the rescore builds its offsets with
+ * `getEsoDayStrOffset` — so the day asked for is compared against the eso day `now` falls in.
+ */
+function clockDay(): string {
+  return getEsoDayStr(new Date())
+}
+
 export function dayGiven(readout: ResolvedReadout, query: ReadoutQuery, day: string): Given {
   const given: Record<string, string> = {}
   const unheld: string[] = []
+  let dayHanded = false
   for (const [name, type] of Object.entries(query.takes)) {
-    if (DAY_ARGUMENT_TYPES.includes(type)) given[name] = day
-    else if (name === readout.keyArgument && readout.queryKey !== null) {
+    if (DAY_ARGUMENT_TYPES.includes(type)) {
+      given[name] = day
+      dayHanded = true
+    } else if (name === readout.keyArgument && readout.queryKey !== null) {
       given[name] = readout.queryKey
     } else unheld.push(`\`${name}\` as \`${type}\``)
+  }
+  /**
+   * A query that reaches the clock and takes no day cannot answer for a day other than today.
+   *
+   * Nothing below here would say so. `Object.entries` over an empty `takes` leaves `unheld` empty,
+   * so the loop above throws nothing; the empty `given` is then carried down to `answer`, which
+   * resolves `wake-day` and `now` against `Date.now()`. The day asked for is dropped in silence and
+   * today's figure comes back wearing that day's name. Two of the nine upkeep and inbox lights sat
+   * in exactly that state, and the hourly rescore reads yesterday, so yesterday's stored score was
+   * summing today's numbers.
+   *
+   * Refusing here reaches the channel that already exists for this: `writeDailySourcePointsForPersonas`
+   * catches what `computeDayPoints` throws, carries it back as a `SourcePointsRefusal` and writes
+   * no figure for the day. A refusal leaves the record silent, which is the honest answer when the
+   * reading cannot be recovered; carrying on would write a number no reading stands behind.
+   */
+  if (!dayHanded && query.answersOnlyForNow && day !== clockDay()) {
+    throw new Error(
+      `dayGiven: readout \`${readout.slug}\` was asked for \`${day}\`, and it reads query ` +
+        `\`${query.slug}\`, whose \`where\` resolves against the clock and which takes no day — ` +
+        `so it can only answer for \`${clockDay()}\`, the day the clock stands on. Answering ` +
+        "would put today's reading on another day under that day's name. Give the query a " +
+        `\`takes:\` block naming a day and test against it instead of a clock-relative moment — ` +
+        readoutQueryDoc(query.slug)
+    )
   }
   if (unheld.length > 0) {
     throw new Error(
