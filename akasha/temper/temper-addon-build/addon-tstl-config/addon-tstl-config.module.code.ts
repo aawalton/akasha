@@ -13,7 +13,10 @@ const HELD_AT = "dist/.tstl"
 
 const CODE_UNDER = `**/*${CODE_SUFFIX}`
 
-const GAME_TYPES_UNDER = "temper/addons/types/eso/**/*.d.ts"
+const DECLARATIONS_UNDER = [
+  "akasha/temper/temper-eso-types/**/*.d.ts",
+  "akasha/temper/temper-addon-library-types/**/*.d.ts",
+] as const
 
 export type EsoAddonPage = {
   readonly slug: string
@@ -79,7 +82,10 @@ export function tstlConfigBody(asked: TstlConfigAsked): string {
       luaLibImport: "require-minimal",
       noImplicitSelf: true,
     },
-    include: [join(asked.addonDir, CODE_UNDER), join(asked.repoRoot, GAME_TYPES_UNDER)],
+    include: [
+      join(asked.addonDir, CODE_UNDER),
+      ...DECLARATIONS_UNDER.map((one) => join(asked.repoRoot, one)),
+    ],
   }
   return `${JSON.stringify(body, null, 2)}\n`
 }

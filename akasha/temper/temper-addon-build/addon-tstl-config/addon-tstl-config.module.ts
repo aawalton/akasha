@@ -27,6 +27,10 @@ export const addonTstlConfig = {
     },
     {
       invariantKind: "departure",
+      statement: "The game's own names are described by the akasha packages of declarations.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An addon page naming no bundle entry answers that nothing can be built.",
     },
     {
