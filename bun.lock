@@ -90,7 +90,7 @@
       "name": "@akasha/chess-core",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
-        "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-ui-components": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "chess.js": "^1.4.0",
         "chessground": "^9.2.1",
@@ -524,18 +524,12 @@
     "akasha/pages-system/pages-ui": {
       "name": "@akasha/pages-ui",
       "dependencies": {
-        "@akasha/day": "workspace:*",
-        "@akasha/design-badges": "workspace:*",
-        "@akasha/design-forms": "workspace:*",
-        "@akasha/design-layout": "workspace:*",
-        "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@akasha/recurrence": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-version": "workspace:*",
@@ -543,10 +537,6 @@
         "zod": "^4.3.6",
       },
       "peerDependencies": {
-        "@dnd-kit/core": ">=6",
-        "@dnd-kit/modifiers": ">=7",
-        "@dnd-kit/sortable": ">=8",
-        "lucide-react": ">=0.400",
         "react": "^18 || ^19",
       },
     },
@@ -562,6 +552,30 @@
         "zod": "^4.3.6",
       },
       "peerDependencies": {
+        "react": "^18 || ^19",
+      },
+    },
+    "akasha/pages-system/pages-ui/components": {
+      "name": "@akasha/pages-ui-components",
+      "dependencies": {
+        "@akasha/day": "workspace:*",
+        "@akasha/design-forms": "workspace:*",
+        "@akasha/design-layout": "workspace:*",
+        "@akasha/design-patterns": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
+        "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-url": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "@akasha/voice-core": "workspace:*",
+        "zod": "^4.3.6",
+      },
+      "peerDependencies": {
+        "@dnd-kit/core": ">=6",
+        "@dnd-kit/modifiers": ">=7",
+        "@dnd-kit/sortable": ">=8",
+        "lucide-react": ">=0.400",
         "react": "^18 || ^19",
       },
     },
@@ -1070,6 +1084,15 @@
         "zod": "^4.3.6",
       },
     },
+    "akasha/temper/temper-items-filters-addon": {
+      "name": "@akasha/temper-items-filters-addon",
+      "dependencies": {
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-hud-window": "workspace:*",
+        "@akasha/temper-items-filters-core": "workspace:*",
+        "@akasha/temper-items-rules-eval": "workspace:*",
+      },
+    },
     "akasha/temper/temper-items-filters-core": {
       "name": "@akasha/temper-items-filters-core",
       "dependencies": {
@@ -1137,6 +1160,14 @@
     },
     "akasha/temper/temper-lib-table-functions": {
       "name": "@akasha/temper-lib-table-functions",
+    },
+    "akasha/temper/temper-lost-treasure": {
+      "name": "@akasha/temper-lost-treasure",
+      "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+      },
     },
     "akasha/temper/temper-lua-runner": {
       "name": "@akasha/temper-lua-runner",
@@ -1363,6 +1394,7 @@
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
@@ -1446,6 +1478,7 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-system-service": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/person-system": "workspace:*",
@@ -1527,6 +1560,7 @@
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
@@ -2111,6 +2145,7 @@
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/recurrence": "workspace:*",
@@ -3530,6 +3565,7 @@
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
@@ -3726,6 +3762,8 @@
 
     "@akasha/pages-ui": ["@akasha/pages-ui@workspace:akasha/pages-system/pages-ui"],
 
+    "@akasha/pages-ui-components": ["@akasha/pages-ui-components@workspace:akasha/pages-system/pages-ui/components"],
+
     "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:akasha/pages-system/pages-ui-store"],
 
     "@akasha/pages-url": ["@akasha/pages-url@workspace:akasha/pages-system/pages-url"],
@@ -3870,6 +3908,8 @@
 
     "@akasha/temper-items-core": ["@akasha/temper-items-core@workspace:akasha/temper/temper-items-core"],
 
+    "@akasha/temper-items-filters-addon": ["@akasha/temper-items-filters-addon@workspace:akasha/temper/temper-items-filters-addon"],
+
     "@akasha/temper-items-filters-core": ["@akasha/temper-items-filters-core@workspace:akasha/temper/temper-items-filters-core"],
 
     "@akasha/temper-items-rules-core": ["@akasha/temper-items-rules-core@workspace:akasha/temper/temper-items-rules-core"],
@@ -3903,6 +3943,8 @@
     "@akasha/temper-lib-slash-commander": ["@akasha/temper-lib-slash-commander@workspace:akasha/temper/temper-lib-slash-commander"],
 
     "@akasha/temper-lib-table-functions": ["@akasha/temper-lib-table-functions@workspace:akasha/temper/temper-lib-table-functions"],
+
+    "@akasha/temper-lost-treasure": ["@akasha/temper-lost-treasure@workspace:akasha/temper/temper-lost-treasure"],
 
     "@akasha/temper-lua-runner": ["@akasha/temper-lua-runner@workspace:akasha/temper/temper-lua-runner"],
 
