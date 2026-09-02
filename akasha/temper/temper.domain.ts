@@ -131,6 +131,7 @@ export const temper = {
     "eso-addon/temper-selector-addon",
     "eso-addon/temper-lib-character-knowledge",
     "eso-addon/temper-lib-addon-menu-order-list-box",
+    "eso-addon/temper-collections-addon",
   ],
   invariants: [
     {

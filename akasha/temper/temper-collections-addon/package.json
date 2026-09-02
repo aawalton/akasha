@@ -1,0 +1,20 @@
+{
+  "name": "@akasha/temper-collections-addon",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./collections-addon-names": "./collections-addon-names/collections-addon-names.module.code.ts",
+    "./collections-addon-declarations": "./collections-addon-declarations/collections-addon-declarations.type-declaration.d.ts",
+    "./collections-addon-global": "./collections-addon-global/collections-addon-global.module.code.ts",
+    "./collections-addon-loaded": "./collections-addon-loaded/collections-addon-loaded.module.code.ts",
+    "./collections-addon-entry": "./collections-addon-entry/collections-addon-entry.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-dungeon-champions": "workspace:*",
+    "@akasha/temper-item-browser": "workspace:*",
+    "@akasha/temper-lorebooks": "workspace:*",
+    "@akasha/temper-lost-treasure": "workspace:*",
+    "@akasha/temper-skyshards": "workspace:*"
+  }
+}
