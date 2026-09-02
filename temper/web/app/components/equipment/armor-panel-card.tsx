@@ -6,6 +6,7 @@ import {
   type ArmorEnchantId,
   armorEnchants,
 } from "@akasha/temper-characters-equipment/armor-enchants"
+import { standardArmorWeights } from "@akasha/temper-characters-equipment/armor-weights"
 import {
   bulkUpdateArmorEnchant,
   bulkUpdateArmorQuality,
@@ -20,12 +21,9 @@ import {
   armorTraitsBuildList,
   armorTraits as armorTraitsData,
 } from "@akasha/temper-equipment/armor-traits"
+import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
 import { type ArmorSlotId, armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import {
-  type StandardArmorWeightId,
-  standardArmorWeights,
-} from "@temper/game-characters-equipment/armor/armor-weights-data"
 import type { SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
 import {
   AVAILABLE_QUALITY_OPTIONS,
