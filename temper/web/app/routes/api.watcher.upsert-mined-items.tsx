@@ -1,5 +1,5 @@
+import type { SetBonusEntry } from "@akasha/temper-items-core/item-tooltip-types"
 import { isRecord } from "@akasha/utils-narrow/is-record"
-import type { SetBonusEntry } from "@temper/game-items-core/item-tooltip-types"
 import { MINE_NAME, MINED_ITEM_PAGE_TYPE } from "@/lib/mined-item-rows"
 import { validateWatcherToken } from "@/lib/watcher-auth"
 import type { Route } from "./+types/api.watcher.upsert-mined-items"
