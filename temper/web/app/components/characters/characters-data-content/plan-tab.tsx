@@ -1,7 +1,7 @@
 "use client"
 
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import type { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"
+import type { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import type { RoleId } from "@akasha/temper-character-sources/character-roles"
 import type { useCompletionCharactersByUser } from "@temper/player-completion-ui/use-completion"
 import { useCallback, useMemo } from "react"

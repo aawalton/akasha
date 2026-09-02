@@ -8,7 +8,7 @@ import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@a
 import { useScrollRestoration } from "@akasha/design-patterns/use-scroll-restoration"
 import { type SortDirection } from "@akasha/design-patterns/sort-types"
 import { patchPage } from "@akasha/pages-access/patch"
-import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"
+import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { applyCharacterMetadata } from "@temper/game-characters/build-metadata"
 import { useAllCharacterList, useCharacterLifecycle } from "@temper/game-characters-character-ui/use-characters"
 import { decodeBuild } from "@temper/game-codec/character/build-codec"

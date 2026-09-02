@@ -4,7 +4,7 @@ import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigge
 import { deletePage } from "@akasha/pages-access/delete"
 import { MoreHorizontal, Trash2 } from "lucide-react"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { useOptimisticDeletePage } from "../supabase/mutations/use-optimistic-delete-page"
+import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 
 const NAV_SLUG = "nav"
 

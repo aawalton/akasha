@@ -17,7 +17,7 @@ import { useActiveQuickAddPageType } from "@shared/pages-ui/components/quick-add
 import { PagesUILinkProvider, PagesUIRouterProvider } from "@akasha/pages-ui/navigation-context"
 import { signOut } from "@akasha/supabase-rr/auth-client"
 import { useAllPages } from "@shared/pages-ui/supabase/hooks"
-import { useOptimisticCreatePage } from "@shared/pages-ui/supabase/mutations/use-optimistic-create-page"
+import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { LogIn, LogOut } from "lucide-react"
 import { type ReactNode, useCallback, useEffect, useMemo, useState } from "react"
 import { Link, useLocation, useNavigate, useSearchParams } from "react-router"

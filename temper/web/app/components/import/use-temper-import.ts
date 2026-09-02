@@ -3,7 +3,7 @@
 import { useAuth } from "@shared/auth/use-auth"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
-import { useOptimisticUpsertPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-upsert-page"
+import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { asRecord } from "@akasha/utils-narrow/as-record"
