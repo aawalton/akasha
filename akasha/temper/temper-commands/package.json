@@ -7,6 +7,7 @@
     "@akasha/pages-system": "workspace:*",
     "@akasha/temper-addon-build": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
+    "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-watcher": "workspace:*",
     "@akasha/utils-run": "workspace:*"
   }
